@@ -1,0 +1,3 @@
+Accounts of the Land Bond Fund.
+
+9.—The Minister for Finance shall, in the accounts kept by him of transactions in respect of the Land Bond Fund, distinguish between transactions in respect, on the one hand, of land bonds issued under any Act passed before this Act and advances and payments made by the issue of such land bonds and, on the other hand, of land bonds created and issued under this Act and advances and payments made by the issue of such land bonds, and the said Minister shall further distinguish in the said accounts between transactions in respect of each series of land bonds created and issued under this Act and advances and payments made by the issue of land bonds of each such series.
