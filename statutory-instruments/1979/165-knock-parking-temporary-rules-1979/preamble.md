@@ -1,0 +1,5 @@
+S.I. No. 165 of 1979.
+
+KNOCK PARKING TEMPORARY RULES, 1979.
+
+I, PATRICK McLAUGHLIN, Commissioner of the Garda Siochana, in exercise of the powers conferred on me by section 90 (as amended by section 6 of the Road Traffic Act, 1968 (No. 25 of 1968)) of the Road Traffic Act, 1961 (No. 24 of 1961), and with the consent of the Minister for the Environment, hereby make the following temporary rules in respect of the area comprising the townlands of Carrowmore, Drum and Churchfield in the county of Mayo:
