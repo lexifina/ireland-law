@@ -1,0 +1,3 @@
+Amendment of section 71 of Diseases of Animals Act, 1894.
+
+1.—So much of sub-section (5) of section 71 of the Diseases of Animals Act, 1894, as amended by section 1 of the Diseases of Animals (Ireland) Act, 1914, as fixes the maximum amount which may be levied in the whole under the said section 71 shall cease to have effect in relation to any moneys levied thereunder after the passing of this Act, and in lieu thereof it is hereby enacted that the total sum which may be levied after the passing of this Act under section 71 of the Diseases of Animals Act, 1894, shall not exceed a sum equivalent to a poundage of sixpence in the pound on the net annual value of the property in all the administrative counties of Saorstát Eireann.
