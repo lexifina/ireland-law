@@ -1,0 +1,33 @@
+Regulation 3
+
+3. (1) ( a ) The fees (payable under the Act) of a solicitor assigned in relation to any particular case (other than a case in the District Court or an appeal to the Circuit Court) in pursuance of a certificate or certificates for free legal aid shall be those specified in column (2) of the Schedule to these Regulations opposite the mention of the particular type of hearing in column (1) of the said Schedule together with, if the hearing lasts for more than one day, those specified in column (3) of the said Schedule opposite the mention of the particular type of hearing in the said column (1) for each day or part of a day after the first for which the hearing lasts.
+
+( b ) A reference in column (2) of the Schedule to these Regulations in relation to a case, to junior counsel's fee is a reference to the fee that was or would be payable under the Regulations to the junior counsel in respect of the hearing, or, if the hearing has lasted for more than one day, the first day thereof, if a junior counsel was or had been assigned in relation to that case in pursuance of a certificate or certificates for free legal aid and was or had been present in court during the hearing to the same extent as the solicitor assigned in relation to the case in pursuance of the certificate or certificates aforesaid was present.
+
+( c ) A reference in column (3) of the Schedule to these Regulations to junior counsel's refresher is a reference to the fee that was or would be payable under the Regulations to the junior counsel in respect of each day or part of a day after the first for which the hearing has lasted if a junior counsel was or had been assigned in relation to that case in pursuance of a certificate or certificates for free legal aid and was or had been present as aforesaid.
+
+( d ) A reference in column (2) of the Schedule to these Regulations, in relation to a case, to senior counsel's fee is a reference to the fee that was or would be payable under the Regulations to the senior counsel in respect of the hearing, or, if the hearing has lasted for more than one day, the first day thereof, if a senior counsel was or had been assigned in relation to that case in pursuance of a certificate or certificates for free legal aid and was or had been present in court during the hearing to the same extent as the solicitor assigned in relation to the case in pursuance of the certificate or certificates aforesaid was present.
+
+( e ) A reference in column (3) of the Schedule to these Regulations to senior counsel's refresher is a reference to the fee that was or would be payable under the Regulations to the senior counsel in respect of each day or part of a day after the first for which the hearing has lasted if a senior counsel was or had been assigned in relation to that case in pursuance of a certificate or certificates for free legal aid and was or had been present as aforesaid.
+
+( f ) Where—
+
+(i) the same counsel is or are assigned in pursuance of two or more certificates for free legal aid to two or more defendants and the cases to which they relate are heard together and are not cases in the District Court or appeals to the Circuit Court, and
+
+(ii) the same solicitors are not assigned in relation to all the cases in pursuance of certificates for free legal aid to all the defendants aforesaid,
+
+the fees of counsel in the cases shall be deemed, for the purposes of these Regulations, to be, in relation to each such solicitor, such amount as, in the opinion of the Attorney General, formed after consultation with the Director of Public Prosecutions, would have been payable to the counsel if the prosecution had related only to the defendant or defendants represented by that solicitor and the counsel had been present in court during the hearing to the same extent as that solicitor.
+
+( g ) Where the same solicitor is assigned in pursuance of two or more certificates for free legal aid to one or more defendants and the cases to which they relate are heard together and are not cases in the District Court or appeals to the Circuit Court, the solicitor so assigned shall be deemed, for the purposes of these Regulations, to have been assigned to the said defendant or defendants, as the case may be, in relation to one case only.
+
+( h ) Where, in a case referred to in subparagraph (g) of this paragraph, there is more than one defendant and the same counsel are not assigned in pursuance of the certificates referred to therein to all the defendants, the fees of counsel who are so assigned shall be deemed, for the purposes of these Regulations, to be the fees that would, in the opinion of the Attorney General, formed after consultation with the Director of Public Prosecutions, have been payable if the same counsel had been so assigned to all the defendants in respect of whom the said certificates were granted:
+
+Provided that, if any of the cases to which this subparagraph applies is one in relation to which two counsel are assigned in pursuance of a certificate or certificates for free legal aid and relates to a charge of murder, the case in relation to which the solicitor is deemed to have been assigned as aforesaid shall be deemed to be such a case.
+
+( i ) No fees shall be paid under the Act to a solicitor assigned in relation to any particular case other than a case in the District Court or an appeal to the Circuit Court in pursuance of a certificate or certificates for free legal aid in respect of any day on which the hearing of the case consists only of an application for an adjournment.
+
+(2) ( a ) The fees (payable under the Act) of a solicitor assigned in relation to a case in the District Court or an appeal to the Circuit Court in pursuance of a certificate for free legal aid shall be £27 together with, if the hearing lasts for more than one day, a fee of £12 for each day or part of a day after the first for which the hearing lasts and for which the solicitor attends the hearing.
+
+( b ) No fees shall be paid under the Act to a solicitor assigned in relation to any particular case in the District Court or an appeal to the Circuit Court in pursuance of a certificate for free legal aid in respect of any day on which the hearing consists only of an application for an adjournment by or on behalf of the solicitor, or the prosecution, made, in the opinion of the Court, for the purposes of the solicitor's convenience.
+
+(3) Paragraph (1) of this Regulation is in substitution for so much of the Regulations as prescribes, or otherwise relates to, rates or scales of payment of fees of solicitors assigned in pursuance of certificates for free legal aid in relation to cases other than cases in the District Court or appeals to the Circuit Court.
