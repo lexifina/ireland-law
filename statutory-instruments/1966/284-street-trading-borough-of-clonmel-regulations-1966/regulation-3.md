@@ -1,0 +1,3 @@
+Regulation 3
+
+3. Every person desiring to obtain a street trader's certificate shal fill and complete a form of application therefor, which shall be ir Form I in the Schedule hereto or in such modification thereof as may be suitable. Such form when completed shall be given to the Chie. Superintendent of the Garda Siochana for the Division of Tipperary Where the applicant is over sixteen years of age, a fee of 5/—mus be given to the Chief Superintendent at the time of making the application. In the event of the application being refused, the fee so paid by the applicant shall be returned to him.
