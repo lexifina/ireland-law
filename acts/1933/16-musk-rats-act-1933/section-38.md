@@ -1,0 +1,9 @@
+Extension of Act to certain other destructive, non-indigenous animals.
+
+38.—(1) If at any time the Minister is of opinion that, by reason of the destructive habit of any animals of a species to which this section applies, it is desirable that the provisions of this Act should be applied to such animals, the Minister may, with the consent of the Minister for Finance, by order under this sub-section apply the provisions of this Act with such exceptions and modifications as he may think fit and may specify in such order to such animals, and whenever any such order is made and is in force, the provisions of this Act, other than the provisions relating to compensation for destruction of certain musk rats, shall apply to the animals to which such order relates in like manner as they apply to musk rats, subject however to such exceptions and modifications (if any) as may be specified in such order.
+
+(2) The Minister may by order under this sub-section revoke any order made under the immediately preceding sub-section.
+
+(3) Every order made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made, and if a resolution annulling such order is passed by either House of the Oireachtas within the next subsequent twenty-one days on which that House has sat after such order is so laid before it, such order shall be annulled accordingly but without prejudice to the validity of anything previously done under such order.
+
+(4) This section applies to every mammalian species (other than a species which was at the date of the passing of this Act commonly kept in Saorstát Eireann in a domesticated state) which at the said date was not established in a wild state in Saorstát Eireann or which had only become so established during the fifty years immediately preceding the said date.
