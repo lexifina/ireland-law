@@ -1,0 +1,9 @@
+Committees of assessors.
+
+13.—(1) Every claim for compensation under this Act in respect of the slaughter of any cattle or sheep shall be investigated by a committee of assessors consisting of three persons who shall if and so far as qualified members of the Trustees are available, be members of the Trustees and be appointed by the Trustees and shall, if or so far as such members are not available, be persons engaged in the business of exporting cattle and sheep from Saorstát Eireann and be appointed by the National Executive on the request of the Trustees but no such committee of assessors shall include a member of the Trustees who was nominated to be such member on account of his being engaged in the business of exporting pigs from Saorstát Eireann.
+
+(2) Every claim for compensation under this Act in respect of the slaughter of any pigs shall be investigated by a committee of assessors consisting of three persons who shall, if and so far as qualified members of the Trustees are available, be members of the Trustees who were nominated as such members on account of their being engaged in the business of exporting pigs from Saorstát Eireann and be appointed to such committee by the Trustees and shall, so far as such members are not available, be persons engaged in the business of exporting pigs from Saorstát Eireann and be appointed by the National Executive on the request of the Trustees.
+
+(3) A person who has a pecuniary interest in a claim for compensation under this Act shall be disqualified from being a member of the committee of assessors investigating such claim.
+
+(4) Committees of assessors for the purposes of this section shall be appointed by the Trustees and by the National Executive on the request of the Trustees respectively as and when occasion requires or the Trustees consider such appointment desirable.

@@ -1,0 +1,3 @@
+Compensation in respect of slaughtered animals.
+
+12.—Whenever animals which have been exported on or after the appointed day from Saorstát Eireann to a port in Great Britain are while undergoing detention at such port slaughtered by reason of the requirements of the British authorities in consequence of an outbreak or suspected outbreak or apprehended danger of foot and mouth disease, the owner of such animals shall subject to the provisions of this Act be entitled to be paid in respect of such slaughter compensation under this Act of such amount as shall be assessed under and in accordance with this Act.
