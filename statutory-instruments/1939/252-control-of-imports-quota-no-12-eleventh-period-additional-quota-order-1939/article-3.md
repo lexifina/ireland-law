@@ -1,0 +1,3 @@
+Article 3
+
+3. The quota appointed by the Control of Imports (Quota No. 12, Eleventh Period) Order, 1939, in respect of the eleventh quota period appointed by that Order is hereby increased by one hundred and twenty thousand pairs of the articles to which the Control of Imports (Quota No. 12) Order, 1935, applies, to the intent that the said one hundred and twenty thousand pairs of the said articles shall be an additional quota in respect of the said eleventh quota period and the total quota in respect of the said eleventh quota period shall be three hundred and sixty thousand pairs of the articles to which the Control of Imports (Quota No. 12) Order, 1935, applies.
