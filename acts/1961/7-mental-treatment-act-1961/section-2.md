@@ -1,0 +1,3 @@
+Amendment of section 108 of Principal Act.
+
+2.—The following sentence is hereby added to subsection (1) of section 108 of the Principal Act: “Where a patient in a district mental hospital or other institution maintained by a mental hospital authority, having been received therein otherwise than as a chargeable patient, becomes a chargeable patient, such authority shall, if another mental hospital authority are the mental hospital authority for the mental hospital district in which such person ordinarily resides, give notice of his having become a chargeable patient to the other mental hospital authority.”
