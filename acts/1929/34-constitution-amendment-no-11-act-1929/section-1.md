@@ -1,0 +1,3 @@
+Amendment of Article 34 of the Constitution.
+
+1.—Article 34 of the Constitution shall be and is hereby amended by the deletion of the words “by a vote of Seanad Eireann” now contained therein and the insertion in lieu of the words so deleted of the words “by an election at which the candidates shall be nominated in such manner in all respects as shall be prescribed by law and at which the electors shall be the members of Dáil Eireann and the members of Seanad Eireann voting together. The voting at such elections shall be by secret ballot and no elector may exercise more than one vote thereat. The place and conduct of such elections shall be regulated by law.”
