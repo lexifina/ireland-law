@@ -1,0 +1,13 @@
+Expenditure on abortive exploration.
+
+3.—(1) Where a person who is, on the 6th day of April, 1974, carrying on the trade of working a qualifying mine incurred exploration expenditure, on or after the 6th day of April, 1967, but before the said 6th day of April, 1974, and that expenditure was not incurred in connection with the said qualifying mine, then, in charging to tax the profits or gains of the said trade for the year of assessment 1974-75, there shall be allowed a deduction of an amount equal to the amount of that expenditure.
+
+(2) Where a person who commences to carry on the trade of working a qualifying mine after the 6th day of April, 1974, incurred exploration expenditure on or after the 6th day of April, 1967, and that expenditure was not incurred in connection with the said qualifying mine but was incurred within a period of ten years prior to the date on which he commences to carry on the said trade, then in charging to tax the profits or gains of the said trade for the year of assessment in which he commenced to carry on the said trade, there shall be allowed a deduction of an amount equal to the amount of that expenditure.
+
+(3) Where in a case referred to in subsection (1) or (2) the person concerned is a body corporate and there was or is, after all or part of the expenditure referred to therein had been incurred by it, a change in ownership, within the meaning of the Fifth Schedule to the Finance Act, 1973, of the body corporate or of a body corporate that is a parent body or a wholly-owned subsidiary, within the meaning of section 4, of the first-mentioned body corporate, no deduction shall be allowed under this section in respect of any part of the said expenditure incurred prior to the date of the change in ownership:
+
+Provided that in any case where part of the ordinary share capital of any body corporate is acquired by a Minister of State, such acquisition shall be disregarded in determining whether or not there was or is such a change in ownership as aforesaid.
+
+(4) Where, on or after the 6th day of April, 1974, a person commences to carry on the trade of working a qualifying mine but has not incurred the exploration expenditure incurred in connection with that mine, no allowance shall be given under this section or by virtue of section 2 in respect of exploration expenditure incurred by that person prior to the date on which he commences to carry on the said trade.
+
+(5) A person shall not be entitled to a deduction or allowance in respect of the same expenditure both under this section and under some other provision of the Income Tax Acts or the Acts relating to corporation profits tax.

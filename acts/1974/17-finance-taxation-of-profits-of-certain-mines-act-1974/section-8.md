@@ -1,0 +1,5 @@
+Annual allowance for mineral depletion.
+
+8.—(1) Where a person carrying on the trade of working a qualifying mine incurs after the 31st day of March, 1974, capital expenditure on the acquisition of a scheduled mineral asset entitling him to work deposits of scheduled minerals and in connection with that trade he commences to work those deposits, he shall be entitled to mine development allowance under section 245 of the Act of 1967 in respect of such capital expenditure to the extent that he would have been entitled to such allowance if the said capital expenditure had been capital expenditure incurred in the development of the mine, but section 2 shall not apply in respect of any such expenditure.
+
+(2) Where a person who commences to carry on the trade of working a qualifying mine on or after the 6th day of April, 1974, incurred, before the said date, capital expenditure on the acquisition of a scheduled mineral asset in connection with that mine, he shall, for the purposes of this section, be deemed to have incurred that expenditure on the day on which he commences to carry on the said trade and subsection (1) shall apply accordingly.
