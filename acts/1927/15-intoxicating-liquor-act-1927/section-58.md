@@ -1,0 +1,5 @@
+Breach of club rules relating to prohibited hours.
+
+58.—(1) If any excisable liquor is supplied for consumption on the premises of a club registered under the Registration of Clubs (Ireland) Act, 1904 or is consumed on the premises of any such club by any person in contravention of the rules of such club relating to the supplying and consumption of excisable liquor on the premises of such club, such club shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first offence, to a fine not exceeding twenty pounds or, in the case of a second or any subsequent offence, to a fine not exceeding forty pounds.
+
+(2) Proceedings under this section may be brought against a club in the name under which it is registered under the Registration of Clubs (Ireland) Act, 1904 and any summons or other document required to be served on a club for the purpose or in the course of such proceedings may be served on the secretary of the club and any warrant for the recovery of the amount of a fine imposed on a club under this section may be executed against the goods and chattels of the club.

@@ -1,0 +1,5 @@
+Special order against recording.
+
+26.—(1) Whenever the holder of a licence for the sale of intoxicating liquor is convicted by a Justice of the District Court of an offence to which this Part of this Act applies such Justice may, if satisfied that by reason of the trivial nature of the offence such conviction ought not to be recorded on such licence, make an order stating the circumstances which reduce the offence to one of a trivial nature and declaring that such conviction shall not be recorded, and whenever such order is so made such conviction shall not be so recorded.
+
+(2) Whenever an order is made by a Justice of the District Court under the foregoing sub-section on a prosecution at the instance of a member of the Gárda Síochána, an appeal shall lie at the instance of such prosecutor to the Judge of the Circuit Court within whose circuit the district or part of the district of such Justice is situate against such order, but not against the conviction in respect of which such order was made, and if such appeal is dismissed such Judge may order the costs of the appeal to be paid by such prosecutor.

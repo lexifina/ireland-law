@@ -1,0 +1,11 @@
+Early closing licences.
+
+9.—(1) In this Act the expression “early closing condition” means such condition as is mentioned in sub-section (2) of this section and the expression “early closing licence” means an on-licence containing an early closing condition, whether such licence was granted before or after the passing of this Act and whether such condition was inserted in such licence under this Act or under an enactment repealed by this Act.
+
+(2) Where, on the occasion of any application for a certificate for a new on-licence, or a certificate for the transfer or renewal of an on-licence, the applicant applies to the Court to insert in his certificate a condition that he shall close the premises in respect of which such licence is or is to be granted one hour earlier at night than that at which such premises would otherwise have to be closed, the Court shall cause the said condition to be inserted in such certificate, and, whenever such condition is so inserted in such certificate, such condition shall also be inserted in the licence granted, transferred, or renewed in pursuance of such certificate.
+
+(3) There shall be inserted in every certificate for the transfer or renewal of an early closing licence and in every licence granted in pursuance of such certificate the like early closing condition as is contained in the licence so transferred or renewed.
+
+(4) The holder of an early-closing licence shall close the premises to which such licence relates one hour earlier in the evening than the ordinary hour at which such premises would be closed under the provisions of this Act relating to prohibited hours and the said provisions shall apply to such premises as if the several latest hours after which the sale or exposing for sale of intoxicating liquor is thereby prohibited were respectively one hour earlier than the hour stated in such provisions.
+
+(5) The notice which a licensed person is required by section 11 of the Licensing Act, 1872, to keep painted or affixed on his premises shall, in the case of an early-closing licence, contain such words as the Court may order for giving notice to the public that an early-closing licence has been granted in respect of the premises.

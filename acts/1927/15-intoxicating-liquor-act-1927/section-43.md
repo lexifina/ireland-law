@@ -1,0 +1,9 @@
+Allocation of compensation.
+
+43.—(1) The compensation or the part of the compensation (as the case may be) payable in respect of the occupation interest shall be paid to the person or one or more of the persons who on the day before the date of the reference order was or were interested in the occupation interest or his or their heirs, executors, administrators, or assigns, and the part (if any) of the compensation payable in respect of the interest of the immediate lessor shall be paid to the person or one or more of the persons who on the day before the date of the reference order was or were interested in the interest of the immediate lessor or the heirs, executors, administrators, or assigns of such person or persons.
+
+(2) As soon as conveniently may be after making a compensation order the compensation authority shall by order (in this Part of this Act called an allocation order) determine the persons to whom and the proportions in which the compensation is payable having regard to all estates, trusts, charges, and encumbrances subsisting in or affecting the occupation interest or the interest of the immediate lessor (as the case may be) and may refer to his registrar the determination of any question or issue arising in the course of the determination of such persons or proportions, but every such determination by such registrar shall be subject to appeal to the compensation authority.
+
+(3) An allocation order may be amended in such manner as justice may require (whether on account of events happening after the date of the order or otherwise) by the compensation authority at any time before the part of the compensation to which the amendment relates is paid.
+
+(4) Whenever an allocation order is made or amended, the registrar to the compensation authority by whom such order was made shall forthwith transmit to the treasurer a copy of such order or the particulars of such amendment (as the case may be).

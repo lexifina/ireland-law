@@ -1,0 +1,19 @@
+Recovery of compensation annuities.
+
+49.—(1) The amount apportioned on any person by an apportionment order shall be payable by such person not later than the 1st day of October next following the day on which such apportionment order becomes final under this Act to an officer of customs and excise and, if such person or a transferee from him obtains a certificate for a renewal or a transfer of the licence by reference to the duty on which such amount was apportioned, shall be paid at the same time and to the same officer of customs and excise as the excise duties on such licence are payable for the year commencing on the said 1st day of October, and no such renewal or transfer of such licence shall be granted by any such officer until the said amount is so paid.
+
+(2) The amount apportioned on any person by an apportionment order shall be a debt due and payable by such person to the Minister for Finance on the 1st day of October next following the day on which such apportionment order becomes final under this Act and shall be recoverable from such person and his executors or administrators by the said Minister as a civil debt in any court of competent jurisdiction.
+
+(3) The amount apportioned on any person by an apportionment order shall be a charge in favour of the Minister for Finance on the estate or tenancy hereinafter mentioned in the premises to which was attached the licence by reference to the duty on which the said amount was apportioned and such charge shall be deemed to be payable on the 1st day of October next after the day on which such apportionment order becomes final under this Act and such charge shall have priority over all estates, interests, and incumbrances existing on the said 1st day of October or arising or created thereafter (save as hereinafter excepted) and may be raised by the said Minister accordingly.
+
+(4) A charge created by virtue of the foregoing sub-section shall not have priority over any quit rent or other charge incident to tenure or any rent-charge in lieu of tithes or any charge created under any Act passed before this Act authorising advances out of public moneys or the creation of charges in respect of improvements.
+
+(5) The estate or tenancy on which a charge created by virtue of this section shall be charged shall, if the lowest or least estate or tenancy subsisting on the date of the creation of the charge is not less than a term of years of which at least five years are unexpired at that date, be such lowest or least estate or tenancy, but if such lowest or least estate or tenancy is at the said date less than such term of years then the said charge shall be charged on such lowest or least estate or tenancy and also on the estate or tenancy subsisting on the said date and then next greater than or next superior to such lowest or least estate or tenancy.
+
+(6) Section 47 of the Local Registration of Title (Ireland) Act, 1891, shall have effect as if a charge created by virtue of this section were added to and included in the burdens mentioned in paragraphs (a) to (i) of that section.
+
+(7) A certificate under the seal of the Minister for Finance that the amount apportioned by an apportionment order on any person is due and unpaid shall, in any proceedings under this section by the said Minister to recover such amount from any person or to raise the same out of any premises, be evidence until the contrary is proved that such amount is due and unpaid.
+
+(8) The amount apportioned on any person by an apportionment order shall be deducted by the treasurer from any moneys payable to such person under any allocation order, and when so deducted shall be paid by such treasurer to the officer of customs and excise for the licensing area.
+
+(9) The Revenue Commissioners shall keep separate accounts for every licensing area of all moneys paid to officers of customs and excise under this section in such licensing area.

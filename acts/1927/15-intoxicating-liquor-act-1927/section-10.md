@@ -1,0 +1,3 @@
+Remission of duty in certain cases.
+
+10.—A person who takes out a licence containing a condition rendering such licence a six-day licence or a condition rendering such licence an early closing licence shall be entitled to a remission of one-seventh of the duty which would otherwise be payable by him for a similar licence not containing such condition, and a person who takes out a licence containing conditions rendering such licence a six-day licence and also an early closing licence shall be entitled to a remission of two-sevenths of the duty which would otherwise be payable by him for a similar licence not containing such conditions.
