@@ -1,0 +1,5 @@
+Standard purchase annuity of holdings subject to non-judicial rents.
+
+2.—(1) In the case of every holding to which Part II. of the First Schedule to the Land Act, 1923 (No. 42 of 1923), applies and in respect of which the standard purchase annuity has not been agreed upon or fixed under the said Schedule before the passing of this Act, the standard purchase annuity shall (save as is hereinafter otherwise provided) be an annuity of an amount equivalent to sixty-five per cent. of the rent payable in respect of the holding.
+
+(2) The landlord or the tenant of a holding to which the foregoing sub-section applies may object in the prescribed manner and within the prescribed time to the standard purchase annuity in respect of such holding being fixed in accordance with the said sub-section, and where such objection is duly so made the standard purchase annuity in respect of such holding shall be agreed upon or fixed (as the case may require) under Part II. of the First Schedule to the Land Act, 1923, as amended by section 25 of the Land Act, 1927 (No. 19 of 1927), as if this section had not been passed.
