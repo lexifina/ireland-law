@@ -1,0 +1,5 @@
+Consignment certificates.
+
+25.—(1) Whenever a licensed exporter proposes to export in one lot a particular number of packages of seed potatoes which an inspector has sealed with the official seal and so informs such inspector, such inspector shall, at the request of such licensed exporter, issue in respect of such lot a certificate (in this Act referred to as a consignment certificate) certifying the number of packages (to be specified therein) of seed potatoes in such lot which have been sealed with the said seal.
+
+(2) Whenever a licensed exporter proposes to export in one lot a particular number of packages of ware potatoes which an inspector has fastened with the official fastener and so informs such inspector, such inspector shall, at the request of such licensed exporter, issue in respect of such lot a certificate (in this Act also referred to as a consignment certificate) certifying the number of packages (to be specified therein) of ware potatoes in such lot which have been fastened with the said fastener.

@@ -1,0 +1,9 @@
+Unlawful possession of seals, fasteners, and certificates.
+
+31.—(1) It shall not be lawful for any person to make, order, purchase, import or have in his possession an official seal or a colourable imitation thereof, or an official fastener, or a colourable imitation thereof, or a prescribed form of certificate of suitability or a colourable imitation thereof, or a prescribed form of consignment certificate or a colourable imitation thereof.
+
+(2) Nothing in this section shall render it unlawful for any person to have in his possession an official seal or an official fastener with which a package of potatoes has been sealed or fastened by an inspector under this Act.
+
+(3) Nothing in this section shall render it unlawful for an officer of the State acting in the course of his duty as such officer to order, purchase, import or have in his possession an official seal, or an official fastener, or to order, purchase, import, or have in his possession a prescribed form of consignment certificate or certificate of suitability or for any person in pursuance of an order lawfully given or a contract lawfully made by any such officer to make, import or have in his possession any such seal, fastener or form.
+
+(4) Every person who in contravention of this section, makes, orders, purchases, imports or has in his possession an official seal or a colourable imitation thereof or an official fastener or a colourable imitation thereof or a prescribed form of consignment certificate or a colourable imitation thereof, or a prescribed form of certificate of suitability or a colourable imitation thereof shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds, or at the discretion of the Court, to imprisonment for any term not exceeding three months.
