@@ -1,0 +1,11 @@
+Number 43 of 2001
+
+ORDNANCE SURVEY IRELAND ACT, 2001
+
+Section 1. Interpretation. 2. Establishment day. 3. Establishment of Ordnance Survey Ireland. 4. Functions of OSI. 5. Ministerial directions. 6. Conferring of additional functions on OSI. 7. Establishment of companies by OSI. 8. OSI may acquire, etc., shares in, and become member of, company. 9. Borrowing by OSI. 10. Powers of OSI to enter lands. 11. Membership of Board of OSI and term of office of members. 12. Chairperson of Board. 13. Meetings and procedures of Board. 14. Chief executive officer. 15. Staff. 16. Remuneration of staff. 17. Superannuation of staff. 18. Engagement of consultants. 19. Membership of Houses of Oireachtas and European Parliament. 20. Disclosure of interests by members of Board. 21. Disclosure of interests by directors of subsidiary. 22. Disclosure by members of staff of certain interests. 23. Prohibition on unauthorised disclosure of confidential information. 24. Advances by Minister to OSI. 25. Service agreement. 26. Accounts of OSI. 27. Annual report. 28. Premises of OSI. 29. Charges by OSI. 30. Seal of OSI. 31. Dissolution of the Ordnance Survey. 32. Transfer of assets and liabilities. 33. Preservation of certain continuing contracts. 34. Saving for certain acts. 35. Pending legal proceedings. 36. Amendment of First Part of Schedule to Ministers and Secretaries Act, 1924. 37. Expenses. 38. Short title. Acts Referred to Companies Act, 1963 1963, No. 33 Companies Acts, 1963 to 2001 Comptroller and Auditor General (Amendment) Act, 1993 1993, No. 8 European Parliament Elections Act, 1997 1997, No. 2 Holidays (Employees) Acts, 1973 to 1991 Local Government Act, 1941 1941, No. 23 Minimum Notice and Terms of Employment Acts, 1973 to 1991 Ministers and Secretaries Act, 1924 1924, No. 16 Place-Names (Irish Forms) Act, 1973 1973, No. 24 Redundancy Payments Acts, 1967 to 1991 Terms of Employment (Information) Act, 1994 1994, No. 5 Unfair Dismissals Acts, 1977 to 1993 Number 43 of 2001
+
+ORDNANCE SURVEY IRELAND ACT, 2001
+
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A BODY TO BE KNOWN AS ORDNANCE SURVEY IRELAND, TO DEFINE ITS FUNCTIONS AND TO PROVIDE FOR CONNECTED MATTERS. [5th December, 2001]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
