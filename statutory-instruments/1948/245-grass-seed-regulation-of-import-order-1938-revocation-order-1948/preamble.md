@@ -1,0 +1,5 @@
+S.I. No. 245 of 1948.
+
+GRASS SEED (REGULATION OF IMPORT) ORDER, 1938 (REVOCATION) ORDER, 1948.
+
+I, JAMES M. DILLON, Minister for Agriculture, in exercise of the powers conferred on me by Section 2 of the Agricultural Products (Regulation of Import) Act, 1938 (No. 14 of 1938), and of every and any other power me in this behalf enabling, hereby, after consultation with the Minister for Finance and the Minister for Industry and Commerce, order as follows :—
