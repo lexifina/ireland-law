@@ -1,0 +1,3 @@
+Reference of applications to Army Pensions Board.
+
+10.—Whenever the Minister, after referring under the immediately preceding section to the Registration Board an application for the grant under this Part of an allowance in respect of any deceased person receives from the Registration Board a service certificate in respect of such person, the Minister may, at his discretion, refer the said application to the Army Pensions Board in pursuance of section 7 of the Act of 1927 and thereupon that section shall apply subject to the modification that the Army Pensions Board shall not investigate or report on any matter which has been the subject of ascertainment and certification by the Registration Board under this Part.
