@@ -1,0 +1,3 @@
+Contribution to private water supplies.
+
+26.—Where the sanitary authority having jurisdiction in any particular area have not provided a public water supply in the area or have provided a public water supply in the area which is in sufficient to meet wholly the needs of the inhabitants of the area, the sanitary authority, with the consent of the Minister, may, in lieu of providing a public water supply in the area or improving the existing public water supply therein (as the case may be), themselves expend money, or make a grant of money to any person, for the purpose of the provision, improvement or maintenance of any water supply other than a public water supply.

@@ -1,0 +1,5 @@
+Nuisances in relation to temporary dwellings.
+
+32.—(1) If a temporary dwelling is in such a state as to be a nuisance or injurious to health or if the use of a temporary dwelling, whether by reason of the absence of proper sanitary conveniences, overcrowding or other cause, gives rise to a nuisance or conditions injurious to health, the temporary dwelling shall be deemed to be a nuisance within the meaning of section 107 of the Act of 1878 and the provisions of that Act relating to nuisances shall apply accordingly and for that purpose the person in charge of the temporary dwelling shall be regarded as the occupier thereof.
+
+(2) Where a temporary dwelling is deemed pursuant to this section to be a nuisance, a notice requiring the abatement of the nuisance may, without prejudice to the liability of the person in charge of the dwelling, be served under section 110 of the Act of 1878 on the occupier of the site of the temporary dwelling and proceedings for the abatement of the nuisance may be taken against such occupier.
