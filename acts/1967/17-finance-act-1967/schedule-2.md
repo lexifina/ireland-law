@@ -1,0 +1,19 @@
+SECOND SCHEDULE
+
+Amendment of Enactments
+
+Section 17.
+
+Session and Chapter Short Title Amendment (1) (2) (3) 39 & 40 Vict., c. 36. Customs Consolidation Act, 1876. In section 50, “The master or person authorised by him shall deliver to the officer of Customs who first boards such ship an account of the stores carried, to be known as the ship's stores declaration, in such form and manner as the Revenue Commissioners may direct” is added at the end of the section.
+
+In section 53, “when the report is made attend, if required, before the collector or other proper officer and” is substituted for “at the time of making report”.
+
+In section 101, for all words from the beginning of the section to “Provided also,” there is substituted “(a) The master of every ship departing from a port in the State to a place abroad shall deliver to the collector or other proper officer a general declaration outwards in such form and manner as the Revenue Commissioners may direct and, if such ship shall have commenced her lading at some other port, shall deliver also the clearance of such goods from such other port. (b) The documents required by the foregoing paragraph to be delivered by the master may be delivered by the ship's agent or by a person authorised by the master and if so delivered the provisions of the Customs Acts shall apply as if they had been delivered by the master. (c) If any goods are taken on board any ship before the inward cargo has been fully discharged, unless authorised by the collector or other proper officer, the master shall be liable to a penalty of one hundred pounds: provided”.
+
+In section 102, “delivery of the general declaration outwards” is substituted for “due entry outwards”.
+
+In section 128, for all words from “the United Kingdom” to the end of the section there is substituted “any port in the State the master or a person authorised by him shall, if required, attend before the collector or other proper officer and answer all such questions relating to the ship, the cargo, and the voyage as shall be put to him by such collector or officer; and the clearance outwards and authority for the departure of the ship shall be in such form and manner as the Revenue Commissioners may direct”.
+
+In section 129, for all words from “the master shall” to the end of the section there is substituted “the clearance documents granted at the second or any subsequent ports of call shall be attached to the clearance documents granted at the first port”.
+
+In section 130, “in respect of which the general declaration outwards has been delivered to the collector or other proper officer” is substituted for “entered outwards”. 41 & 42 Vict., c. 15. Customs and Inland Revenue Act, 1878. In section 6, “the ship's agent or a person authorised by the master,” is inserted after “on the application of the master,” and “shall, if required, attend before the collector or other proper officer and” is inserted after “the master of such ship”. 47 & 48 Vict., c. 62. Revenue Act, 1884. In section 3 (2), “or, alternatively, if there shall be delivered to the proper officer of Customs a copy or copies of the bill or bills of lading relating to the shipped goods together with a declaration subscribed by the master, the ship's agent, or a person authorised by the master, that there is contained in such copy or copies of the bill or bills of lading a true account of all the shipped goods for which no bond is required,” is inserted after “for which no bond is required,”. 61 & 62 Vict., c. 46. Revenue Act, 1898. In section 2 (1), “may be made by the ship's agent or by a person authorised by the master” is substituted for “may, subject to and in accordance with regulations by the Commissioners of Customs, be made by such one of the responsible officers of the ship as the master appoints in writing”.
