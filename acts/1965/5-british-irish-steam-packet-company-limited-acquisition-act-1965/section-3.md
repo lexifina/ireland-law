@@ -1,0 +1,7 @@
+Provision of money for payments under the Act out of the Central Fund.
+
+3.—(1) All moneys required by the Minister for Finance for the purchase, pursuant to the agreement, of the issued ordinary shares of the Company and for the payment of interest (which may be paid by the Minister for Finance to Coast Lines Limited in respect of the purchase moneys payable by the Minister for Finance to that Company under the agreement for the shares aforesaid to such extent and at such rate as that Minister may deem appropriate from the 2nd day of February, 1965, to the date on which the purchase moneys aforesaid are paid to Coast Lines Limited) shall be advanced out of the Central Fund or the growing produce thereof.
+
+(2) The Minister for Finance may, for the purpose of providing for the advance of sums out of the Central Fund under this section, borrow on the security of the Central Fund or the growing produce thereof any sums required for that purpose, and for the purposes of such borrowing, he may create and issue securities bearing such rate of interest and subject to such conditions as to repayment, redemption or otherwise as he thinks fit, and shall pay all moneys so borrowed into the Exchequer.
+
+(3) The principal of and interest on all securities issued under this section and the expenses incurred in connection with the issue of such securities shall be charged on and payable out of the Central Fund or the growing produce thereof.
