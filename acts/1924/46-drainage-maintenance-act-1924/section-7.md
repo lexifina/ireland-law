@@ -1,0 +1,9 @@
+Collection of sums under charging order under this Act.
+
+7.—(1) The several sums charged by a charging order made under this Act on the lands in the district to which the order relates shall be payable, and shall be expressed in the order to be payable, to the council of the county in which the land is situate, and that-council shall have and may exercise for the recovery of such sums all and every of the rights, powers, and remedies conferred by the Drainage Maintenance Act, 1866, on the Commissioners for the recovery of sums charged by a charging order made thereunder.
+
+(2) Every sum assessed on any proprietor by or in pursuance of a charging order made under this Act shall where the proprietor is not also the occupier of the land be leviable on, payable by, and recoverable from the occupier of the land, and the Commissioners shall make such apportionments as may be necessary to give effect to this sub-section, but the liability of an occupier under, this section shall be without prejudice to any right to deduct any such sum paid by him from the rent payable by him.
+
+(3) It shall be the duty of the council of any county in which is situate a drainage district or any part of a drainage district to which a charging order made under this Act applies to collect from the proprietors or (where the proprietor is not also the occupier) the occupiers of so much of the lands charged by such order as is situate in such county all sums payable by the proprietors of such lands to such council under the charging order, and any such sum shall and may be collected and recovered in the like manner as poor rate is or may be collected and recovered.
+
+(4) Section 54 of the Drainage and Improvement of Lands Act (Ireland), 1863, shall apply to all moneys assessed, rated, and taxed on proprietors and their lands pursuant to any charging order made under this Act.
