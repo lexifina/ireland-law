@@ -1,0 +1,7 @@
+Use of home-grown tobacco by manufacturers.
+
+44.—(1) Where the Minister for Industry and Commerce has by means of sale orders allocated amongst manufacturers the whole of the tobacco grown in any year, he shall serve on every manufacturer to whom he has allocated by means of a sale order or orders any of such tobacco an order requiring such manufacturer to use for the purposes of manufacture, within a period of twelve months or such longer period as the Minister for Industry and Commerce after consultation with the Minister for Agriculture may fix from the date of the service of such last-mentioned order, all the tobacco allocated to him, and may by such order direct that all or specified parts of such tobacco shall be used for particular specified purposes.
+
+(2) If any manufacturer upon whom an order has been served under this section fails, neglects or refuses to comply with the requirements of such order, such manufacturer shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first offence under this section to a fine not exceeding one hundred pounds or, in the case of a second or any subsequent offence under this section, a fine not exceeding five hundred pounds or imprisonment for any term not exceeding six months or to both such fine and imprisonment.
+
+(3) An offence under this section may be prosecuted by or at the suit of the Minister for Industry and Commerce as prosecutor.

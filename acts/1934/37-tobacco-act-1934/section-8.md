@@ -1,0 +1,9 @@
+Regulations by Revenue Commissioners for securing excise duties on tobacco, etc.
+
+8.—(1) The Revenue Commissioners may by order make regulations (in this Act referred to as general regulations made by the Revenue Commissioners) generally for securing and collecting the excise duties for the time being payable on tobacco grown in Saorstát Eireann, and, without prejudice to the generality of the foregoing, for the making by persons licensed under this Act to grow, cure, or rehandle tobacco on any land or premises of entry of such land or premises for the purpose, and for regulating the removal of tobacco so grown and enabling a manufacturer of tobacco to receive any such tobacco, and may by any such regulations apply any provision of the law of excise, whether relating to excise duties generally or to any special article on which an excise duty is payable, and any provision of the Manufactured Tobacco Act, 1863, or any other Act amending the same.
+
+(2) If any person acts in contravention of, or fails to comply with any such regulation, such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to an excise penalty of fifty pounds and the article in respect of which the offence is committed shall be forfeited.
+
+(3) On and after the passing of this Act and until regulations made under this section come into force, regulations made under sub-section (2) of section 3 of the Finance Act, 1908, and in force at the passing of this Act shall, save in so far as such regulations relate to prohibiting the growth or cultivation of tobacco in Saorstát Eireann and the curing of tobacco so grown, continue in force, and be deemed with the necessary modifications to have been made under this section.
+
+(4) On and from the date on which regulations are made by the Revenue Commissioners under this section, sub-sections (2), (3) and (4) of section 3 of the Finance Act, 1908, shall cease to have effect.

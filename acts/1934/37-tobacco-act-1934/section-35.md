@@ -1,0 +1,9 @@
+Relative value of tobacco of each supplier.
+
+35.—(1) For the purposes of determining the rate of participation of each supplier of tobacco grown in a particular year delivered to any rehandling station in the total basic prices of all the packages of tobacco grown in that year rehandled at such rehandling station, the rehandler shall, at such stage in the process of rehandling as may be prescribed by the Minister and while the tobacco of each supplier is separate from that of other suppliers, calculate, in accordance with regulations made under this section, the value of all the tobacco (being tobacco suitable for manufacture) of such supplier, and references in this Act to the relative value of tobacco grown in a particular year supplied to a rehandling station by any person shall be construed as references to the value as calculated under this sub-section of tobacco grown in that year supplied to such rehandling station by such person.
+
+(2) The Minister shall by order make regulations prescribing the processes to which tobacco, the value of which is to be calculated under the immediately preceding sub-section, is to be subjected before such calculation is made, and the method by which such calculation is to be made, and may by such regulations provide that such calculation shall take into account all or any of the following things, that is to say, the grades, classes or kinds of such tobacco, the moisture contained in such tobacco, the state of such tobacco at different stages in the process of rehandling and any other matter which the Minister may think fit.
+
+(3) If any rehandler fails to comply with the provisions of this section such rehandler shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding one hundred pounds.
+
+(4) An offence under this section may be prosecuted by or at the suit of the Minister as prosecutor.
