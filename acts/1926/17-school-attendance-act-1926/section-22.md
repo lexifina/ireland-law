@@ -1,0 +1,5 @@
+Offences in relation to certificates.
+
+22.—(1) Every person who forges or counterfeits any certificate or any signature to a certificate which if genuine would be a certificate given or made under or for the purpose of this Act shall be guilty of a misdemeanour and shall be liable on conviction thereof to suffer imprisonment with or without hard labour for any term not exceeding two years.
+
+(2) Every person who signs, gives, or makes any certificate purporting to be a certificate under or for the purpose of this Act which is to his knowledge false or misleading in any material particular, or who makes use of any certificate purporting to be a certificate under or for the purpose of this Act which is to his knowledge forged or counterfeited or is false or misleading in any material particular or any signature to which is to his knowledge forged or counterfeited shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds or, at the discretion of the court, to imprisonment for any term not exceeding six months.
