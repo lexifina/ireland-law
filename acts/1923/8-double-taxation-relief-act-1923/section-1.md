@@ -1,0 +1,3 @@
+Executive Council may make provisional arrangement for relief.
+
+1.—Wherever under any law from time to time in force in Great Britain or in Northern Ireland any tax is for the time being payable in respect of a subject of charge in respect of which a corresponding tax is payable in Saorstát Eireann it shall be lawful for the Executive Council of Saorstát Eireann to enter into a provisional arrangement with the British Government and if the case shall so require with the consent of the Government of Northern Ireland for the granting of relief in cases where there is a charge both to the Irish Free State Tax and to the British Tax in respect of the same subject matter.
