@@ -1,0 +1,3 @@
+Guarantee by Minister of borrowings by Company.
+
+2.—The Minister shall not so exercise the powers conferred by section 7 (1) of the Principal Act that the amount or the aggregate amount of principal which he may at any one time be liable to pay on foot of any guarantee or guarantees under that section for the time being in force (together with the amount of any principal which the Minister has previously paid on foot of any such guarantee or guarantees and which has not been repaid by the Company) exceeds £100,000,000 and, accordingly, section 7 (2) of the Principal Act is hereby amended by the substitution of “£100,000,000” for “£30,000,000” (inserted by the Nítrigin Éireann Teoranta Act, 1975).
