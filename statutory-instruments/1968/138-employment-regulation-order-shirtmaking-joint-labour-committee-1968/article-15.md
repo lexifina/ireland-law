@@ -1,0 +1,7 @@
+Article 15
+
+15. Hemming Sleeves (no Vents) .. .. .. .. ..
+
+0
+
+8
