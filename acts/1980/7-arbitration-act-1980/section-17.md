@@ -1,0 +1,3 @@
+Power of High Court to stay enforcement.
+
+17.—Where an application is made to the High Court pursuant to section 16 of this Act, the High Court shall, in any case where enforcement of an award has been stayed, whether provisionally or otherwise, in accordance with Article 50, Article 51 or Article 52 of the Washington Convention, stay enforcement of the pecuniary obligations imposed by the award and may, in any case where an application has been made in accordance with any of those Articles which, if granted, might result in a stay on the enforcement of the award, stay enforcement of the pecuniary obligations imposed by the award.

@@ -1,0 +1,5 @@
+Staying court proceedings where party proves arbitration agreement.
+
+5.—(1) If any party to an arbitration agreement, or any person claiming through or under him, commences any proceedings in any court against any other party to such agreement, or any person claiming through or under him, in respect of any matter agreed to be referred to arbitration, any party to the proceedings may at any time after an appearance has been entered, and before delivering any pleadings or taking any other steps in the proceedings, apply to the court to stay the proceedings, and the court, unless it is satisfied that the arbitration agreement is null and void, inoperative or incapable of being performed or that there is not in fact any dispute between the parties with regard to the matter agreed to be referred, shall make an order staying the proceedings.
+
+(2) Nothing in this section shall be construed as limiting or otherwise affecting the power conferred on the High Court pursuant to section 39 (3) of the Principal Act to refuse to stay any action brought in breach of an arbitration agreement.
