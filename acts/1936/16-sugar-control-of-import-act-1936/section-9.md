@@ -1,0 +1,3 @@
+Repayment of licence fee on exported sugar.
+
+9.—Where the Minister is satisfied that any sugar imported under a licence issued under this Act has, subsequent to such importation, either been exported from Saorstát Eireann or been used in the manufacture in Saorstát Eireann of any other article of food which is subsequently exported, the Minister may, if he so thinks fit and subject to compliance by the exporter with such conditions as he may think fit to impose, pay to the exporter of such sugar or article (as the case may be) such part of the fee paid by the Company on the issue of such licence as is, in the opinion of the Minister, proportionate to the amount of the sugar to which such licence relates which is so exported or used.
