@@ -1,0 +1,5 @@
+Duty of hirer to give information as to whereabouts of goods.
+
+8.—(1) Where by virtue of a hire-purchase agreement a hirer is under a duty to keep the goods comprised in the agreement in his possession or control, the hirer shall, on receipt of a request in writing from the owner, inform the owner where the goods are at the time when the information is given or, if it is sent by post, at the time of posting.
+
+(2) If a hirer fails without reasonable cause to give the said information within fourteen days of the receipt of the notice, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds.

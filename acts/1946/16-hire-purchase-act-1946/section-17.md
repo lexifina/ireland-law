@@ -1,0 +1,5 @@
+Provisions as to bankruptcy of hirer and distress on hirer's premises.
+
+17.—(1) Where, under the powers conferred by this Act, the Court has postponed the operation of an order for the specific delivery of goods to any person, the goods shall not, during the postponement, be treated as goods which are by the consent or permission of that person in the possession, order, or disposition of the hirer for the purposes of section 313 of the Irish Bankrupt and Insolvent Act, 1857, or of section 4 of the Law of Distress Amendment Act, 1908.
+
+(2) After the determination of a hire-purchase agreement, or after an owner, having a right to recover from a hirer goods which have been let under a hire-purchase agreement, has commenced an action to enforce that right, the goods which have been let under the agreement, or the goods claimed in the action, as the case may be, shall not (notwithstanding that the Court in any such action postpones the operation of an order for the specific delivery of the goods to the owner) be treated as goods comprised in the hire-purchase agreement for the purposes of section 4 of the Law of Distress Amendment Act, 1908.
