@@ -1,0 +1,3 @@
+Article 3
+
+3. The quota appointed by the Control of Imports (Quota No. 30, First Period) Order, 1936, in respect of the first quota period appointed by that Order is hereby increased by forty-five thousand tons of cement to which the said Control of Imports (Quota No 30) Order, 1936, applies, to the intent that the said forty-five thousand tons of cement shall be an additional quota in respect of the said first quota period and the total quota in respect of the said first quota period shall be one hundred and sixty-three thousand tons of cement to which the said Control of Imports (Quota No. 30) Order, 1936, applies.
