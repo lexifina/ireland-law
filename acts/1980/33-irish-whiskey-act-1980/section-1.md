@@ -1,0 +1,31 @@
+Irish whiskey.
+
+1.—(1) For the purposes of any statute or instrument made under statute spirits described as Irish whiskey shall not be regarded as corresponding to that description unless the requirements regarding spirits contained in subsection (3) of this section are complied with as regards the spirits.
+
+(2) For any of the purposes mentioned in subsection (1) of this section spirits described as blended Irish whiskey shall not be regarded as corresponding to that description unless—
+
+(a) the spirits comprise a blend of two or more distillates, and
+
+(b) the requirements regarding spirits contained in subsection (3) of this section are complied with as regards each of the distillates.
+
+(3) The following are the requirements referred to in subsections (1) and (2) of this section regarding spirits;
+
+(a) the spirits shall have been distilled in the State or in Northern Ireland from a mash of cereals which has been—
+
+(i) saccharified by the diastase of malt contained therein, with or without other natural diastases,
+
+(ii) fermented by the action of yeast, and
+
+(iii) distilled at an alcoholic strength of less than 94.8% by volume in such a way that the distillate has an aroma and flavour derived from the materials used,
+
+and
+
+(b) the spirits shall have been matured in wooden casks—
+
+(i) in warehouse in the State for a period of not less than three years, or
+
+(ii) in warehouse in Northern Ireland for such a period, or
+
+(iii) in warehouse in the State and in Northern Ireland for periods the aggregate of which is not less than three years.
+
+(4) For the purposes of subsection (3) of this section the alcoholic strength at which spirits are distilled shall be ascertained in the same manner as that in which such ascertainment is for the time being arrived at for the purposes of customs and excise.
