@@ -1,0 +1,5 @@
+Guarantees in respect of certain moneys payable by the Board.
+
+2.—(1) The Minister may guarantee, in such form and manner and on such terms and conditions as he thinks fit, the due payment by the Board of any moneys payable by the Board under contracts for the provision of goods or services or both goods and services entered into by the Board, whether before or after the passing of this Act, with the approval of the Minister for Transport and Power given with the consent of the Minister or the payment of interest on such moneys or both the payment of the principal and the payment of the interest.
+
+(2) The Minister shall not so exercise the powers conferred by subsection (1) of this section that the amount, or the aggregate amount, of principal which he may at any one time be liable to pay pursuant to a guarantee or guarantees given under this section and for the time being in force, together with the amount of principal (if any) which he has previously paid pursuant to any such guarantees and has not been repaid, exceeds an amount equivalent to five million pounds.
