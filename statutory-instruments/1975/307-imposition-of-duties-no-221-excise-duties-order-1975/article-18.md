@@ -1,0 +1,7 @@
+Article 18
+
+18. (1) Subject to subparagraphs (2) and (3) of this Paragraph, the provisions of the Customs Acts and of any instrument relating to duties of customs made under statute, and not otherwise applied by this Order, shall, with any necessary modifications, apply in relation to the duties of excise imposed by this Order on goods imported into the State as they apply in relation to duties of customs.
+
+(2) Where, in relation to any duty of excise imposed by this Order, there is a provision in this Order corresponding to a provision of the Customs Acts or of any instrument relating to duties of customs made under statute, the latter provision shall not apply in relation to that duty of excise.
+
+(3) The Table Waters Regulations, 1916, shall not apply to the duty of excise imposed by this Order on table waters imported into the State, section 24 of the Finance Act, 1933 (No. 15 of 1933), shall not apply in relation to the duties of excise imposed by Paragraphs 4, 5, 6, 7, 10, 11 or 12 of this Order on goods imported into the State, the Match Duty Regulations, 1928 (S.R. & O., No. 74 of 1928), other than Regulation 18, shall not apply in relation to the duty of excise imposed by this Order on matches imported into the State and the Cider Duty (No. 2) Regulations, 1940 (S.R. & O., No. 35 of 1941), shall not apply in relation to the duty of excise imposed by this Order on cider or perry imported into the State.

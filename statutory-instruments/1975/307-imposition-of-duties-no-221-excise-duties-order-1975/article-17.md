@@ -1,0 +1,5 @@
+Article 17
+
+17. (1) Whenever the Minister for Finance, after consultation with the Minister for Industry and Commerce, is satisfied that any articles charged with a duty of excise imposed by this Order are essential to the process of any manufacture carried on or intended to be carried on in the State and are required to be imported by a manufacturer for use in the State in such process, and the Minister for Finance, after such consultation as aforesaid, so thinks proper, the Revenue Commissioners may authorise such manufacturer, subject to compliance with such conditions as they may think fit to impose, to import or, in the case of any articles already imported, to take delivery of, without payment of the said duty of excise, the said articles either as the Revenue Commissioners shall think proper, without limit as to time or quantity, or either of them, or within a specified time, or in a specified quantity.
+
+(2) In this Paragraph "process of manufacture" includes any industrial process or operation, whether of the nature of construction, assemblage, repairing or other similar nature, and "manufacturer" shall be construed accordingly.
