@@ -1,0 +1,7 @@
+Rule 36
+
+36. Sounding pipes.
+
+PART IV.
+
+ELECTRICAL EQUIPMENT AND INSTALLATIONS.
