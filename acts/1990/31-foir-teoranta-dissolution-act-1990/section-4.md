@@ -1,0 +1,5 @@
+Preservation of certain continuing contracts and adaptation of references to Company in certain documents.
+
+4.—(1) Every bond, guarantee or other security of a continuing nature made or given by or on behalf of the Company to any person or given by any person to and accepted by or on behalf of the Company and every contract or agreement in writing made between the Company and any other person and in force but not fully executed and completed immediately before the commencement of this Act shall continue in force on and after such commencement and shall be construed and have effect as if the Corporation were substituted for the Company as a party thereto and the name of the Corporation were substituted therein for that of the Company and shall be enforceable by or against the Corporation.
+
+(2) References to the Company contained immediately before the commencement of this Act in the memorandum and articles of association of any company (within the meaning of the Companies Act, 1963), shall, on and after such commencement, be construed as references to the Corporation.
