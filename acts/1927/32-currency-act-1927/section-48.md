@@ -1,0 +1,3 @@
+Calling in of legal tender notes.
+
+48.—The Commission may, subject to such conditions as to time, place, manner, and order of presentation as it thinks fit, call in any legal tender notes issued under this Act on the terms of paying for such notes on presentation at their face value in gold coins which are for the time being legal tender under this Act in Saorstát Eireann for unlimited amounts or in money in any form which is for the time being legal tender in Great Britain for unlimited amounts or in legal tender notes issued under this Act or, if the person presenting such notes so agrees, by a draft on London.

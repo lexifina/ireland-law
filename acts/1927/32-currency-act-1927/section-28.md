@@ -1,0 +1,3 @@
+Nomination of nominated Commissioners other than the first such Commissioners.
+
+28.—Not more than thirty nor less than ten days before the expiration by effluxion of time of the term of office of a nominated Commissioner and as soon as conveniently may be after the office of a nominated Commissioner becomes vacant otherwise than by effluxion of time, the Commission shall notify the Minister in writing of such prospective or actual vacancy in the office of such nominated Commissioner and within ten days after receiving such notification the Minister shall nominate an eligible person willing to act to fill such vacancy and communicate to the Commission the name of the person so nominated.

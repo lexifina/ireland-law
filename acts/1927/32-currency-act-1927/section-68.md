@@ -1,0 +1,7 @@
+Bankers composition duty.
+
+68.—(1) The composition duty on promissory notes on unstamped paper issued by a licensed banker or on such notes of such banker in circulation shall be paid in respect of the period to which this section relates at that rate which bears to the rate in force at the passing of this Act the same proportion as the number of complete weeks in the said period bears to the number twenty-six.
+
+(2) The conditions of every bond given by a licensed banker under section 7 of the Bankers Composition (Ireland) Act, 1828 shall apply to promissory notes issued by such banker during the period to which this section relates with the modification that, in lieu of the account required by that section to be delivered half-yearly, an account duly verified in accordance with that section of the promissory notes issued by such banker under that Act and in circulation within the meaning of that Act on the Saturday in every week during the said period shall be delivered by such banker to the Revenue Commissioners within fourteen days after the last day of the said period to which this section relates.
+
+(3) This section relates to the period commencing on the 1st day of January or the 1st day of July, whichever shall be the later, next before the day appointed under this Act for the commencement of the issue of consolidated bank notes and ending on the day so appointed for such commencement.

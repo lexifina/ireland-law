@@ -1,0 +1,3 @@
+Currency in which contracts, etc., are to be made.
+
+10.—Every contract, sale, payment, bill, note, instrument, and security for money, and every transaction, dealing, matter, and thing whatever relating to money or involving the payment or the liability to pay any money which is made, executed, entered into, done, or had on or after the day appointed under this Act for the commencement of the issue of legal tender notes shall be made, executed, entered into, done and had according to coins or notes which are for the time being legal tender under the Coinage Act, 1926 (No. 14 of 1926) or this Act and not otherwise, unless the same be made, executed, entered into, done or had according to the currency of some state or country other than Saorstát Eireann.

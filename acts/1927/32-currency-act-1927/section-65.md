@@ -1,0 +1,25 @@
+Payments on consolidated bank notes.
+
+65.—(1) Every Shareholding Bank shall pay to the Commission in respect of every half-year the following sums (in this Act referred to as payments on consolidated bank notes), that is to say:—
+
+(a) during so much, if any, of such half-year as the maximum amount of consolidated bank notes which might under this Act be outstanding did not exceed six million pounds, a sum calculated at the rate of one and one-half per cent. per annum on the amount of consolidated bank notes outstanding (otherwise than on an extraordinary issue or by way of special excess) from day to day with such Bank during such half year, and
+
+(b) during so much, if any, of such half-year as the said maximum amount exceeded six million pounds, a sum calculated at the rate of one and one-half per cent. per annum on so much of the amount of consolidated bank notes outstanding (otherwise than on an extraordinary issue or by way of special excess) from day to day with such Bank during such half-year as bears to the whole amount of consolidated bank notes so outstanding the same proportion as six million pounds bears to the said maximum amount, and a further sum calculated at the rate of two per cent. per annum on the residue of the amount of consolidated bank notes so outstanding, and
+
+(c) if any consolidated bank notes were during such half year outstanding with such Bank on an extraordinary issue a sum calculated during the first month of the continuous existence of such extraordinary issue at the rate of five per cent. per annum on the amount of consolidated bank notes so outstanding, and during the second month of such continuous existence at the rate of five and one-half per cent. per annum on such amount, and during the third month of such continuous existence at the rate of six per cent. per annum on such amount, and so on, such rate increasing by one-half per cent. per annum for every month of such continuous existence, and
+
+(d) if any consolidated bank notes were during such half year outstanding with such bank by way of special excess, a sum calculated at the rate of three per cent. per annum on the amount of consolidated bank notes so outstanding from day to day with such bank during such half-year, and
+
+(e) such share of the expenses incurred during such half-year by the Commission in providing consolidated bank notes as the Commission shall by regulation prescribe.
+
+(2) Whenever for any reason the amount of consolidated bank notes outstanding with a Shareholding Bank otherwise than on an extraordinary issue is in excess of the amount permitted by or under this Act to be so outstanding, the amount so in excess shall for the purposes of the foregoing sub-section be deemed to be outstanding on an extraordinary issue save in so far (if at all) as the same is determined by the Commission under this section to be outstanding by way of special excess.
+
+(3) Whenever the quota of a Shareholding Bank is reduced under Part VI. of this Act the Commission in its discretion may, where the circumstances appear to it so to warrant, determine that during any specified period ending not more than six months after such reduction of such quota a specified portion (not exceeding the amount by which such quota is so reduced) of the amount of consolidated bank notes outstanding otherwise than on an extraordinary issue with such bank in excess of the amount permitted by or under this Act to be so outstanding shall be deemed for the purposes of this section to be outstanding by way of special excess.
+
+(4) At the end of every half-year the Commission shall ascertain in respect of every Shareholding Bank the amount of the payments on consolidated bank notes payable under this section by it in respect of such half-year and shall send to every Shareholding Bank a certificate showing the said amount so ascertained in respect of it and how such amount is made up, and every Shareholding Bank shall within fourteen days after receiving any such certificate pay to the Commission the amount stated in such certificate to be payable by it.
+
+(5) Every sum payable by a Shareholding Bank to the Commission under this section shall be recoverable by the Commission from such Bank as a civil debt in any court of competent jurisdiction and the non-payment of any such sum by a Shareholding Bank within the time specified in this section for payment thereof shall be a ground for removing such Bank from being a Shareholding Bank.
+
+(6) A certificate under the seal of the Commission stating the amount payable on any occasion by a Shareholding Bank to the Commission under this section and that such amount or a specified portion thereof is due and unpaid shall, in any proceedings by the Commission to recover such amount, be evidence until the contrary is proved of the said matters so stated in such certificate.
+
+(7) For the purpose of this section the period commencing on the day appointed under this Act for the commencement of the issue of consolidated bank notes and ending on the next ensuing 31st day of March or 30th day of September, whichever first occurs, shall be deemed to be a half-year.

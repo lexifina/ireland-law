@@ -1,0 +1,13 @@
+Payments on certain out-standing bank notes.
+
+66.—(1) Where the Commission has determined under this Act in respect of any Bank which is at the passing of this Act a bank of issue the proportion appertaining to Saorstát Eireann of the notes of such Bank outstanding immediately before the day appointed for the commencement of the issue of consolidated bank notes there shall be payable by such Bank to the Commission in respect of every half year a sum calculated from day to day at the appropriate rate per cent. per annum on so much of such proportion of such notes as after the day so appointed is for the time being not redeemed in accordance with the directions of the Commission and is not deemed under this Act to be consolidated bank notes outstanding with such Bank otherwise than on an extraordinary issue.
+
+(2) For the purpose of the foregoing sub-section the appropriate rate per cent. per annum shall be three per cent. per annum for the period of twelve months from the day appointed for the commencement of the issue of consolidated bank notes and five per cent. per annum thereafter.
+
+(3) At the end of every half-year the Commission shall ascertain in respect of every Bank which is at the passing of this Act a bank of issue the amount of the payments payable under this section by it in respect of such half-year and shall send to every such Bank a certificate showing the said amount so ascertained in respect of it and how such amount is made up, and every such Bank shall within fourteen days after receiving any such certificate pay to the Commission the amount stated in such certificate to be payable by it.
+
+(4) Every sum payable by a Bank to the Commission under this section shall be recoverable by the Commission from such Bank as a civil debt in any Court of competent jurisdiction and the non-payment of any such sum by any such Bank which is a Shareholding Bank within the time specified in this section for payment thereof shall be a ground for removing such Bank from being a Shareholding Bank.
+
+(5) A certificate under the seal of the Commission stating the amount payable on any occasion by a Bank to the Commission under this section and that such amount or a specified portion thereof is due and unpaid shall in any proceedings by the Commission to recover such amount be evidence until the contrary is proved of the said matters so stated in such certificate.
+
+(6) For the purpose of this section the period commencing on the day appointed for the commencement of the issue of consolidated bank notes and ending on the next ensuing 31st day of March or 30th day of September, whichever first occurs, shall be deemed to be a half-year.
