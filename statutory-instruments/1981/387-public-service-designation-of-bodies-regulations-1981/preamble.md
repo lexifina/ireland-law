@@ -1,0 +1,1 @@
+I, LIAM KAVANAGH, Minister for the Public Service, in exercise of the powers conferred on me by section 1 of the Ministers and Secretaries (Amendment) Act, 1973 (No. 14 of 1973), and after consideration of the advice of the Public Service Advisory Council, hereby make the following Regulations:
