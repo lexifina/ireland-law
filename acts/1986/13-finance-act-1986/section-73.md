@@ -1,0 +1,7 @@
+Power to search premises in relation to hydrocarbon oil.
+
+73.—(1) In this section reference to dealing in hydrocarbon oil shall be construed as including reference to the purchase, sale or storage of hydrocarbon oil or the carrying on of any other transaction in relation to hydrocarbon oil.
+
+(2) An officer of the Revenue Commissioners may, at all reasonable times, enter any premises in which any dealing in hydrocarbon oil liable to the duty of excise imposed by paragraph 12 of the Order of 1975 is being or is reasonably believed by the officer to be carried on or in which any books, records, accounts or other documents relating or reasonably believed by the officer to relate to any dealing in such hydrocarbon oil are kept and may there require any person to produce all books, records, accounts or other documents relating to any dealing in such hydrocarbon oil and may search for, inspect, and take copies of or extracts from any such books, records, accounts or other documents relating or believed by the officer to relate to any dealing in such hydrocarbon oil and may remove and retain the said books, records, accounts or other documents for such period as may be reasonable for their further examination.
+
+(3) Any person who fails without lawful and sufficient excuse to comply with any requirement under this section or who resists, obstructs or impedes an officer of the Revenue Commissioners in the exercise of any power conferred on him by this section shall be guilty of an offence and shall be liable on summary conviction to an excise penalty of £500.
