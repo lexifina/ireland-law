@@ -1,0 +1,27 @@
+Notification under Article 6ter of the Convention.
+
+64.—(1) For the purposes of section 62 state emblems of a Convention country (other than the national flag) and official signs or hallmarks shall be regarded as protected under the Paris Convention only if, or to the extent that—
+
+(a) the country in question has notified the State in accordance with Article 6ter (3) of the Convention that it desires to protect the emblem, sign or hallmark;
+
+(b) the notification remains in force; and
+
+(c) the State has not objected to it in accordance with Article 6ter (4) or any such objection has been withdrawn.
+
+(2) For the purposes of section 63, the emblems, abbreviations and names of an international organisation shall be regarded as protected under the Paris Convention only if, or to the extent that—
+
+(a) the organisation in question has notified the State in accordance with Article 6ter (3) of the Convention that it desires to protect that emblem, abbreviation or name;
+
+(b) the notification remains in force; and
+
+(c) the State has not objected to it in accordance with Article 6ter (4) or any such objection has been withdrawn.
+
+(3) Notification under Article 6ter (3) of the Paris Convention shall have effect only in relation to applications for registration made more than two months after the receipt of the notification.
+
+(4) The Controller shall keep and make available for public inspection by any person, at all reasonable hours and free of charge, a list of—
+
+(a) the state emblems and official signs or hallmarks, and
+
+(b) the emblems, abbreviations and names of international organisations,
+
+which are for the time being protected under the Paris Convention by virtue of notification under Article 6ter (3).

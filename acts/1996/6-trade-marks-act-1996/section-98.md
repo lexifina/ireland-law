@@ -1,0 +1,3 @@
+Misuse of trade marks indicative of Irish origin.
+
+98.—The Minister may take, in any place outside the State, such lawful steps, whether by way of action or prosecution at law or otherwise, as he shall think proper to prevent, restrain, or to secure punishment for, the registration, use or application, in relation to or in respect of goods not grown, produced or manufactured in the State, of any trade mark or other mark or description indicating or suggesting, or likely to lead to the belief, that the goods in respect of which or to which that trade mark, mark or description is used or applied were grown, produced or manufactured in the State.

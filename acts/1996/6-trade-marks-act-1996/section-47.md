@@ -1,0 +1,5 @@
+Duration of registration.
+
+47.—(1) A trade mark shall be registered for a period of ten years from the date of registration.
+
+(2) Registration may be renewed in accordance with section 48 for further periods of ten years.
