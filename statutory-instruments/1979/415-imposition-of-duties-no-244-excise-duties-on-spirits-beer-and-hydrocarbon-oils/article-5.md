@@ -1,0 +1,3 @@
+Article 5
+
+5. In any case where, before the 1st day of January,1980, a quantity of spirits was computed in proof gallons for the purposes of the duties of excise or the Statutes which relate to those duties or of any instrument made under Statute relating to those duties and the management thereof and it is necessary, for any of those purposes, to compute the said quantity in litres of alcohol, the latter computation, in lieu of being made in accordance with the provisions of this Order (other than this paragraph) or other statutory instrument or enactment, may be made by multiplying the quantity computed in proof gallons by 2.595.
