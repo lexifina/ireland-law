@@ -1,0 +1,9 @@
+S.I. No. 136 of 1982.
+
+ARMY PENSIONS (INCREASE) REGULATIONS, 1982.
+
+Arrangement of Paragraphs.
+
+PART I
+
+PRELIMINARY
