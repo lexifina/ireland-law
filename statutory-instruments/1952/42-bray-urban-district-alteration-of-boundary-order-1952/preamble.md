@@ -1,0 +1,15 @@
+S.I. No. 42 of 1952.
+
+BRAY URBAN DISTRICT (ALTERATION OF BOUNDARY) ORDER, 1952.
+
+WHEREAS the Council of the Urban District of Bray (which Urban District is not a borough) made an application to the Council of the County of Wicklow (hereinafter called " the County Council ") being the Council of the County in which the Urban District of Bray (hereinafter called " the Urban District ") is situate for an Order altering the boundary of the Urban District in the manner specified in such application :
+
+AND WHEREAS the County Council on the 9th day of July, 1951, made an Order (hereinafter called " the Boundary Order ") altering the boundary of the Urban District :
+
+AND WHEREAS the County Council have submitted the Boundary Order for confirmation to the Minister for Local Government (hereinafter called " the Minister ") :
+
+AND WHEREAS before making the Boundary Order, the County Council complied with the requirements of the Urban Districts (Alteration of Boundaries) Regulations, 1937 :
+
+AND WHEREAS no petition to disallow the Boundary Order has been received by the Minister :
+
+NOW THEREFORE the Minister in exercise of the powers vested in him by Article 26 of the Local Government (Application of Enactments) Order, 1898, as applied by Section 10 of the Local Authorities (Miscellaneous Provisions) Act, 1936 , and sub-section (3) of Section 42 of the Local Government (Ireland) Act, 1898, and of all other powers in this behalf enabling him hereby orders, directs and declares as follows :—
