@@ -1,0 +1,3 @@
+Regulation 3
+
+3. The District Probate Registries (Collection of Fees) Regulations, 1932 ( S. R. & O. No. 116 of 1932 ), as amended by the District Probate Registries (Collection of Fees) (Amendment) Regulations 1933 ( S. R. & O. No. 118 of 1933 ), shall apply to the District Probate Registry at Mullingar in like manner as those Regulations apply to the several District Probate Registries named therein, and for the purpose of such application, the expression " District Probate Registries to which these regulations apply " where it occurs in the said Regulations, as amended as aforesaid, shall be construed and have effect as if it included the District Probate Registry at Mullingar.
