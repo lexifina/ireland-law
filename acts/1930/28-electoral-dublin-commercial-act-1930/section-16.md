@@ -1,0 +1,5 @@
+Offences in relation to registration.
+
+16.—(1) Every person who makes a false declaration for the purpose of a claim for registration under the rules contained in the First Schedule to this Act, whether such claim is made by such person on his own behalf or on behalf of some other person and whether such falsity consists of an untrue statement or of the omission of a material fact shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds.
+
+(2) Every person who wilfully destroys, mutilates, effaces, or removes any notice, list, copy of register, or other document made available for inspection, posted up, or otherwise published by the registration officer in pursuance of the rules contained in the First Schedule to this Act shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to a fine not exceeding five pounds.
