@@ -1,0 +1,3 @@
+Rule 1
+
+1. Where a summons has been issued in accordance with the provisions of Rule 53 or Rule 110 or Rule 148 of the District Court Rules, 1948, directing the appearance of a witness before a Justice having jurisdiction in the matter of the complaint or of the application or in civil proceedings, as the case may be, the summons may be served in any part of the State, and upon service being effected in the manner prescribed by the District Court Rules, 1948, the witness shall be as effectively bound by the proceedings as if he resided within the District of the Justice issuing the summons or within the area of jurisdiction of the Peace Commissioner issuing it or within the limits of the Court Area or Areas for which the Clerk issuing it acts.
