@@ -1,0 +1,9 @@
+Provisions relating to winding up and bankruptcy, etc.
+
+12.—(1) There shall be included among the debts which, under section 285 of the Companies Act, 1963, are, in the distribution of the assets of a company being wound up, to be paid in priority to all other debts, levy payable pursuant to section 2 by the company during the 12 months before the relevant date (being the relevant date within the meaning of that section), and that Act shall have effect accordingly, and formal proof of the debts to which the priority is given under this provision shall not be required except in cases where it may otherwise be provided for by rules made under that Act.
+
+(2) Subsection (1) shall not apply where a company is wound up voluntarily merely for the purposes of reconstruction or of amalgamation with another company.
+
+(3) (a) There shall be included among the debts which, under section 81 of the Bankruptcy Act, 1988, are, in the distribution of the property of a bankrupt to be paid, subject to section 119 of that Act, in priority to all other debts, all levy payable pursuant to section 2 by the bankrupt during the period of 12 months before the date of the order of adjudication, and that Act shall have effect accordingly, and formal proof of the debts to which priority is given under this subsection shall comply with the provisions of the First Schedule to that Act and any rules of court relating to proof of debt.
+
+(b) Paragraph (a) of this subsection shall be construed so as to apply to an arranging debtor in the same manner as it applies to a bankrupt and, accordingly, the reference in that paragraph to the period of 12 months before the date of the order of adjudication shall be construed as a reference to the period of 12 months before the date of the presenting of the petition for protection.
