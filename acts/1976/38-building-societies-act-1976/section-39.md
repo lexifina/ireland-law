@@ -1,0 +1,7 @@
+Officer to give security and to account for money.
+
+39.—(1) Every officer of a society having the receipt or charge of moneys belonging to the society shall give such security as the account of all moneys received and paid by him on account of the society and for payment of all sums of money due from him to the society, and for this purpose shall become bound with at least one sufficient surety in a bond in such form and for such amount as the Registrar may require or shall make arrangements by way of fidelity guarantee insurance or give such other security as the society may direct in such sum as the society may require.
+
+(2) Every officer of a society or his executors or administrators shall, upon demand made or notice in writing given or left at his last or usual place of residence, render an account as may be required by the directors of the society, to be examined and allowed or disallowed by them, and shall, on a like demand or notice, pay over all moneys belonging to the society remaining in his hands, and deliver all securities and effects, books, papers and property of the society
+
+in his hands or custody, to such person as the society may appoint, and in case of any neglect or refusal to comply with this subsection the society may sue on the bond or in respect of any other security or apply to the Circuit Court, which may make such order as in its discretion it thinks proper.
