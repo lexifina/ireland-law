@@ -1,0 +1,7 @@
+Consequential provisions regarding compensation under section 14.
+
+15.—(1) A person who receives a sum under section 14 shall hold the sum in the same right and on the same trusts and subject to the same powers, privileges, charges and liabilities as those in, on or subject to which he held the shares and, where the shares were held pursuant to any provision of a deed, will, disposition or other instrument, that instrument shall have the like effect as if it expressly authorised the investment of the sum so received in any investment authorised under section 1 of the Trustee Act, 1893.
+
+(2) If for any reason the Board is unable to make payment of any sum under section 14 to the person entitled thereto, that sum may be paid into the High Court (or, if the sum does not exceed five thousand pounds, into the Circuit Court) and shall be applied and dealt with in accordance with the provisions of the Lands Clauses Consolidation Act, 1845, with respect to purchase money or compensation coming to parties having limited interests in land compulsorily acquired or prevented from treating or not making title thereto, and those provisions shall have effect accordingly; and for the purpose of this section the Circuit Court shall have all the jurisdiction exercisable by the High Court under that Act.
+
+(3) If any money is payable by the Board under section 14 to a person who is a minor or a person of unsound mind, the receipt of the guardian or committee of his estate shall be a sufficient discharge to the Board.
