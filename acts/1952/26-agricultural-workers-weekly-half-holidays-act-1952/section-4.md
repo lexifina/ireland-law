@@ -1,0 +1,3 @@
+Fixing of week-day for half-holiday.
+
+4.—The week-day on which the half-holiday is allowed under this Act shall be fixed by agreement between the employer and the worker in respect of each period of three months, or in respect of the period of employment (where that period is less than three months), but in the absence of such agreement, the employer may himself fix in respect of a period of three months, or in respect of the period of employment (where that period is less than three months), the week-day on which the half-holiday is to be taken and, if he does not fix it, it shall be deemed to be Wednesday.

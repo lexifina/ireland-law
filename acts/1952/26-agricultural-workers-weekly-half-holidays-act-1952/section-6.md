@@ -1,0 +1,3 @@
+Qualifying period of work.
+
+6.—Where, as respects any particular week, an agricultural worker does not complete forty-five hours of work during the five week-days preceding the day on which the half-holiday is to be allowed under this Act, he shall not be entitled to a half-holiday in that week, but for the purposes of this section, if the worker is allowed on any of those five week-days a holiday under the Act of 1950 or a half-holiday under this Act, or if any of those five week-days is a Church holiday and the worker either does not work on that day or completes less than nine hours of work thereon, he shall be regarded as having completed nine hours of work on that day.
