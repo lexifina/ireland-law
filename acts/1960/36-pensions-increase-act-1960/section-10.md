@@ -1,0 +1,13 @@
+Supplemental provisions.
+
+10.—(1) Subject to the provisions of this Act, every provision, being a provision which was made by or under statute and which applied in relation to a pension increased under this Act before such increase, shall apply to the pension as so increased, including, in particular, every such provision with respect to the fund, moneys or other source out of which the pension is to be paid or with respect to the manner in which the cost of the pension is to be borne, defrayed or contributed to.
+
+(2) Any provision made by or under statute and effecting suspension or abatement of a pension increasable under this Act by reference to the salary or other remuneration received at the time of retirement shall, with effect from (and inclusive of) the 1st day of August, 1960, apply in relation to the pension as if such salary or other remuneration were increased by any increase or increases of the pension appropriate in accordance with this Act, the Act of 1959, the Act of 1956 and the Act of 1950.
+
+(3) Where a person has been granted a pension specified in paragraph (f) of Part I of the Schedule to the Act of 1959 and also another pension payable out of moneys provided by the Oireachtas, subarticle (b) of Article 5 of the Royal Irish Constabulary (Resigned and Dismissed) Pensions Order, 1924 (S.R. & O., No. 9 of 1924), shall have effect in relation to him with such modifications (if any) in his favour as the Minister for Finance considers proper.
+
+(4) Where an increase in a scheduled pension or pension specified in the Schedule to the Act of 1959 granted pursuant to the provisions of the Pensions (Increase) Act, 1920, the Superannuation Act, 1947, the Garda Síochána (Pensions) Act, 1947, section 79 of the Local Government (Superannuation) Act, 1948, the Act of 1950, the Act of 1956 or the Act of 1959 was in course of payment on the 1st day of August, 1960, the amount of such pension which may be increased under this Act shall be the amount of pension payable as on the 1st day of August, 1960.
+
+(5) An increase under this Act of a pension shall, for the purposes of clause (e) of paragraph (II) of Rule I of the Rules contained in the Seventh Schedule to the Social Welfare Act, 1952, be regarded as a voluntary or gratuitous payment.
+
+(6) Every doubt, question or dispute arising under this Act in relation to a scheduled (Part I) pension, scheduled (Part II) pension, pension referred to in subsection (5) or (6) of section 4 or in section 7 of this Act or pension specified in Part I of the Schedule to the Act of 1959 shall be decided by the Minister for Finance, whose decision thereon shall be final and conclusive.
