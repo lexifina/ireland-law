@@ -1,0 +1,3 @@
+Article 4
+
+4. No person shall sell to a wholesale merchant or a retail merchant bacon of any description mentioned in the second column of the First Schedule hereto at a price exceeding a price (including the cost of delivery to the railway station nearest to the purchaser's premises) calculated at the rate mentioned in the third or fourth column (whicheveris appropriate) of the said Schedule opposite the mention of bacon of that description except that in the case of smoked bacon the price calculated by reference to the said schedule may be increased by not more than fourteen shillings per hundredweight.
