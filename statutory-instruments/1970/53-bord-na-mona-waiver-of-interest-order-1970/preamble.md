@@ -1,0 +1,1 @@
+I, CHARLES J. HAUGHEY, Minister for Finance, in exercise of the powers conferred on me by section 2 of the Turf Development Act, 1968 (No. 28 of 1968) and after consultation with the Minister for Transport and Power in respect of the year commencing on the 1st day of April, 1970 hereby order as follows:
