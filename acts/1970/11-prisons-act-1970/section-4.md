@@ -1,0 +1,3 @@
+Application of enactments relating to prisons.
+
+4.—The Prisons Acts, 1826 to 1956, the Prisons (Visiting Committees) Act, 1925, and any other enactments relating to prisons, to Saint Patrick's Institution or to persons serving sentences in prisons or that Institution shall, subject to the provisions of this Act, apply in relation to a place provided under section 2 of this Act as if it were a prison or that Institution, as the case may be, and persons detained in such a place shall be deemed to be serving sentences of penal servitude or imprisonment or detention in that Institution, as the case may be, but section 17 (3) of the Criminal Justice Administration Act, 1914, in so far as it provides for the committal of prisoners, shall not apply in relation to such a place.
