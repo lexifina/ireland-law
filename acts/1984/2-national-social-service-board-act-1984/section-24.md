@@ -1,0 +1,19 @@
+Transfer to Board of assets and liabilities of National Community Development Agency.
+
+24.—(1) Any person who, immediately before the establishment day, was in the employment of the National Community Development Agency (in this section referred to as the Agency) shall on that day become and be an employee of the Board and he shall not, as an employee of the Board, be subject to less beneficial terms and conditions of service than the conditions of service to which he was subject immediately before that day as an employee of the Agency.
+
+(2) (a) Subject to the provisions of this section, all property whether real or personal (including choses-in-action) which immediately before the establishment day was vested in, or belonged to, or was held in trust for, the Agency and all rights, powers and privileges relating to or connected with any such property shall, on the establishment day and without any conveyance or assignment but subject where necessary to transfer in the books of any bank, corporation, company or authority, become and be the property of and be vested in or held in trust for or enjoyed by (as the case may require) the Board for all the estate, trust or interest for which the same immediately before the transfer day was vested in or belonged to or was held in trust for the Agency.
+
+(b) All property transferred by this section which, immediately before the establishment day, was standing in the books of any bank or was registered in the books of any bank, corporation, company or authority shall, upon the request of the Board made on or after the establishment day be transferred in those books by the bank, corporation, company or authority into the name of the Board.
+
+(c) On and after the establishment day every chose-in-action transferred by this subsection to the Board may be sued upon, recovered or enforced by the Board in its own name and it shall not be necessary for the Board to give notice to the person bound by such chose-in-action of the transfer effected by this section.
+
+(d) Paragraph (a) of this subsection shall, in so far as it operates to transfer land, have effect, for the purposes of the Conveyancing Act, 1881, as a conveyance of land.
+
+(3) Every debt and other liability (including unliquidated liabilities arising from torts or breaches of contract) which immediately before the establishment day was owing and unpaid or has been incurred and is undischarged by the Agency shall, on the establishment day, become and be the debt or liability of the Board and shall be paid or discharged by and may be recovered from or enforced against the Board accordingly.
+
+(4) Every bond, guarantee, mortgage or other security of a continuing nature made or given by the Agency to any person, or by any person to the Agency, and in force immediately before the establishment day, and every contract or agreement in writing made between the Agency and another person and not fully executed and completed before the establishment day shall, notwithstanding the dissolution of the Agency, continue in force on and after the establishment day but shall be construed and have effect as if the name of the Board were substituted therein for the name of the Agency, and the security, contract, or agreement shall be enforceable by or against the Board accordingly.
+
+(5) In any action, suit or proceedings pending immediately before the establishment day in any court or tribunal and to which the Agency is a party, the Board shall on the establishment day become and be a party in the place of the Agency and such action, suit or proceedings, as the case may be, shall be continued between the Board and the other parties thereto accordingly and no such action, suit or proceedings shall abate or be discontinued or prejudicially affected by reason of the dissolution of the Agency.
+
+(6) Section 12 of the Finance Act, 1895, shall not apply to the vesting in the Board of the property of the Agency.
