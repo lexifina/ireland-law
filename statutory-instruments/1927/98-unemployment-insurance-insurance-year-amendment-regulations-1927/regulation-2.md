@@ -1,0 +1,3 @@
+Regulation 2
+
+2. For the purpose of making provision for the period beginning on the 2nd day of July, 1928, and ending on the 7th day of October, 1928, being a period of time between the end of one insurance year and the commencement of the next insurance year, the said period shall be included in the preceding insurance year, and accordingly the insurance year commencing on the 4th day of July, 1927, shall for all purposes of the Unemployment Insurance Acts, 1920 to 1926, and the Regulations and Orders thereunder, and notwithstanding anything contained in Article I of these Regulations, continue up to and terminate on the 7th day of October, 1928.
