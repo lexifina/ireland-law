@@ -1,0 +1,3 @@
+Regulation 9
+
+9. Before an order under section 31(3) of the Act is made by the Society a notice in form PC 7 in the schedule hereto shall be sent to the solicitor and the apprentice stating that the Society propose to make such order and that any written submissions received by the Society within 14 days from the date of the notice, or such stated period as may be allowed by the Society, will be considered. After considering any written submissions received from the solicitor, the apprentice or any other person in answer to said notice and after interviewing such persons, if any, as the Society may think necessary the Society may make the order.

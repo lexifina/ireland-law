@@ -1,0 +1,3 @@
+Regulation 10
+
+10. Where a solicitor proposes to take an apprentice the Society may by notice require him to attend before a Committee of the Council for the purpose of giving such information as maybe required touching his fitness and capacity to teach such apprentice. If the Committee are not satisfied with any answers or explanations given by such solicitor either as to his professional knowledge or experience or conduct or as to the facilities in his office for teaching and training such apprentice the Society may by order refuse his application to take such apprentice and a copy of the order shall be sent to the solicitor by the Registrar.
