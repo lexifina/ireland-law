@@ -1,0 +1,3 @@
+Regulation 6
+
+6. Interest at the rate of seven and one tenth per cent. per annum shall be allowed on the moneys standing to credit of every separate special investment account of a trustee savings bank in the name of the Minister in the Post Office Savings Bank as on and from the day on which such moneys are credited and such interest shall, in the case of any amount withdrawn from the special investment account, be calculated up to and including the day prior to the day of withdrawal and, in every other case, half yearly up to and including the 20th day of May and the 20th day of November and shall be credited to the appropriate separate special investment account as on (as the case may be) the day of withdrawal, the 20th day of May, or the 20th day of November.

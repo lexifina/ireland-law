@@ -1,0 +1,5 @@
+Regulation 7
+
+7. (1) The trustees of every trustee savings bank shall send to the secretary of the Department of Posts and Telegraphs within four days of the end of every week (ending on such day as the Minister directs) a return in such form as the Minister directs showing the receipts and payments of the bank in respect of moneys deposited in investment accounts during that week and the cash balances in the hands of the treasurer of the trustees or other persons on account of the bank in respect of moneys deposited in investment accounts at the beginning and end of that week.
+
+(2) Every return under this regulation shall be certified by a trustee or manager and, unless the Minister directs to the contrary, by the auditor of the trustee savings bank concerned and shall be countersigned by the chief officer thereof or, in his absence, by his deputy and such return shall be accompanied by a certificate of the treasurer of the trustees and of each other person (if any) in whose hands any such cash balances remain vouching for the cash balances remaining in his hands at the close of the week to which such return relates.
