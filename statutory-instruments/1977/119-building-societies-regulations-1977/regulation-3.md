@@ -1,0 +1,5 @@
+Regulation 3
+
+3. (1) Subject to the provisions of sub-article (2) of this article, the minimum value of shares in a society which shall have been issued to each of the appropriate persons for the purpose of subsection (1) of section 18 of the Act and in respect of which written evidence under that subsection shall be produced to the Registrar shall be £10,000 and the total value of such shares shall be not less than £100,000.
+
+(2) In the case of a society which was incorporated before the 5th day of December, 1975, and which satisfies the Registrar that its directors and members are linked by employment by a common employer and its funds are used solely to enable members to acquire houses for their own occupation the minimum value of shares which shall have been issued to each of the appropriate persons for the purpose of subsection (1) of section 18 of the Act and in respect of which written evidence under that subsection shall be produced to the Registrar shall be £100 and the total value of such shares shall be not less than £1,000.
