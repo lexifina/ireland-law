@@ -1,0 +1,3 @@
+Civic Guard to act in place of Royal Irish Constabulary.
+
+7.—Every act, matter and thing which was on the 6th day of December, 1922, required or authorized by law to be done by or in the presence of or to be served on an Inspector, Sergeant, Constable or other member of the Royal Irish Constabulary at or in connection with or in relation to any Petty Sessions shall from and after the passing of this Act be required or authorized to be done by or in the presence of or to be served on an Inspector, Sergeant, Constable or other member (as the case may require) of the Civic Guard at or in connection with or in relation to a District Court.

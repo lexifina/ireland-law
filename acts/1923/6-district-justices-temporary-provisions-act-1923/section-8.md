@@ -1,0 +1,3 @@
+Increase of Petty Sessions Fees.
+
+8.—All fees which are at the passing of this Act payable by law at or in connection with Petty Sessions or are payable to or collectable by the Clerk of Petty Sessions or are denoted or paid by Petty Sessions Stamps (including the Dog Tax) shall continue to be payable at the like times and in the like manner as heretofore but with the modifications that all such fees except the Dog Tax shall from and after the passing of this Act be charged and paid at double the rate at which same were heretofore charged and paid and that the District Court, the District Court Clerk and District Court Stamps shall be substituted respectively for Petty Sessions, the Clerk of Petty Sessions and Petty Sessions Stamps.
