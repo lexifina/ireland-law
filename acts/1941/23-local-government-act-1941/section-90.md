@@ -1,0 +1,7 @@
+Appointment of first county managers and assistant county managers.
+
+90.—(1) As soon as may be after the commencement of this section, the appointment under section 4 of the County Management Act, 1940 (No. 12 of 1940), of the first county manager for every county (other than the county of Dublin) or each of every two grouped counties shall be proceeded with and completed notwithstanding that that Act has not then come into force, but the day appointed by the Minister under sub-section (2) of the said section 4 as the day as on and from which any such appointment takes effect shall not be earlier than the day on which the said County Management Act, 1940, comes into operation.
+
+(2) Sub-section (5) of section 4 of the County Management Act, 1940 (No. 12 of 1940) shall not apply or have effect in relation to a county in respect of which the appointment of the first county manager takes effect on the day on which that Act comes into operation.
+
+(3) As soon as may be after the commencement of this section, the first appointments of persons to fill the several offices to which section 12 of the County Management Act, 1940 (No. 12 of 1940), applies shall be proceeded with and completed under that Act notwithstanding that the said Act has not then come into operation, but the day appointed by the Minister under paragraph (b) of sub-section (3) of the said section 12 as the day as on and from which any such appointment takes effect shall not be earlier than the day on which the said County Management Act, 1940, comes into operation.

@@ -1,0 +1,3 @@
+Annuities and other payments to the Irish Land Commission or to the Commissioners of Public Works on land acquired by a local authority.
+
+82.—Whenever land acquired by a local authority is subject in conjunction with other land to an annuity or other payment to the Irish Land Commission or to the Commissioners of Public Works in Ireland, the said Commission or the said Commissioners (as the case may be) may apportion such annuity or other payment in such manner as they consider proper between the land so acquired and such other land or may charge the whole of such annuity or other payment on any part of the land subject thereto in exoneration of the residue of such land.

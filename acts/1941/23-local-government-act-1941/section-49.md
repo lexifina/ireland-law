@@ -1,0 +1,9 @@
+Exercise of powers, etc., by commissioners.
+
+49.—(1) During the period between the removal from office of the members of a local authority and the coming into office of the members elected at a new election, every power, function, or duty which is exercisable or to be performed by the members of such local authority acting together in a meeting of such local authority or exercisable or to be performed by any one or more members of such local authority by virtue of such membership or by virtue of the office of chairman, lord mayor, or mayor shall be exercised or performed by the commissioner or commissioners for such local authority.
+
+(2) In the immediately preceding sub-section of this section the word “power” includes every permissive power to appoint a committee and also, in the case of the council of an urban district, the power to make an application to the Minister for an order under section 74 of the Act of 1925.
+
+(3) So long as any permissive power to appoint a committee is exercisable under this section by a commissioner or commissioners, any statutory or other provision restricting the membership of such committee in whole or in part to members of a particular local authority shall be suspended.
+
+(4) For the purposes of removing doubts it is hereby declared that where before the commencement of this section a local authority was dissolved consequent upon an order made under section 72 of the Act of 1925, the following powers were exercisable during such dissolution by the body, person or persons to whom the powers and duties of such local authority were for the time being transferred, that is to say, the powers which, if this Part of this Act had been in force and the members of such local authority had been removed from office thereunder, would by virtue of this section have been exercisable by the commissioner or commissioners for such local authority.
