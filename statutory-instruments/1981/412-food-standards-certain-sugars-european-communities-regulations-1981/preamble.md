@@ -1,0 +1,3 @@
+I, ALAN M. DUKES, Minister for Agriculture, in exercise of the powers conferred on me by section 2 of the Food Standards Act, 1974 (No. 11 of 1974), and the Agriculture and Fisheries (Alteration of Name of Department and Title of Minister) Order, 1977 ( S.I. No. 31 of 1977 ), and having consulted the Minister for Health and the Minister for Trade, Commerce and Tourism and such organisations as appear to me to be interested to a substantial extent in the subject matter of the regulations and for the purpose of giving effect to Commission Directive No. 79/786/EEC of 26 July, 1979(1)
+
+hereby make the following Regulations:
