@@ -1,0 +1,47 @@
+Article 5
+
+5. The scale prescribed by the Returning Officers' Charges (Bye-Elections to Dáil Éireann) Order, 1970, ( S.I. No. 27 of 1970 ), shall not apply to any bye-election held after the making of this Order.
+
+SCHEDULE.
+
+SCALE OF MAXIMUM CHARGES.
+
+PART I.
+
+GENERAL.
+
+1. References in this Scale to returning officers include, where appropriate, references to assistant, deputy and acting returning officers.
+
+2. In this Scale—
+
+" constituency" means any constituency named in the Schedule to the Electoral (Amendment) Act, 1969 (No. 3 of 1969) ;
+
+" electors" means, in relation to the ascertainment of the maximum sum payable to a returning officer, the number of persons registered in the register of Dáil electors for the constituency in respect of which he is the returning officer.
+
+3. (1) Parts II and III of this Scale do not apply in the case of a county registrar who is a returning officer.
+
+(2) No payment shall be made for any of the services referred to in Parts II and III of this Scale to more than one person in respect of the same constituency or portion of a constituency.
+
+PART II.
+
+SERVICES OF RETURNING OFFICERS IN CONTESTED BYE-ELECTIONS.
+
+4. For conducting the election and generally performing all the duties which a returning officer is required by law to perform (other than duties in connection with the matters specifically provided for in the subsequent paragraphs of this Part) :
+
+For every complete 100 electors or fraction thereof exceeding one-half :
+
+£
+
+up to 150,000 electors
+
+0·30
+
+exceeding 150,000 electors
+
+0·10
+
+Provided that where a person performs duties of a returning officer for more than one constituency, or for portions of more than one constituency, all the constituencies, or portions of constituencies, for which he performs those duties, shall, for the purposes of this paragraph be deemed to be a single constituency.
+
+5. For receiving nominations, withdrawals, making returns to writs and related matters
+
+£9·00
