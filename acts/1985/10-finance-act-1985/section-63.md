@@ -1,0 +1,5 @@
+Allowance for capital gains tax on the same event.
+
+63.—(1) Where gift tax or inheritance tax is charged in respect of property on an event happening on or after the 30th day of January, 1985, and the same event constitutes for capital gains tax purposes a disposal of an asset (being the same property or any part of the same property), the capital gains tax, if any, chargeable on the disposal shall not be deducted in ascertaining the taxable value for the purposes of the gift tax or inheritance tax but, in so far as it has been paid, shall be deducted from the net gift tax or inheritance tax as a credit against the same, up to the net amount of the same.
+
+(2) For the purposes of any computation of the amount of capital gains tax to be deducted under this section, any necessary apportionments shall be made of any reliefs or expenditure and the method of apportionment adopted shall be such method as appears to the Commissioners, or on appeal to the Appeal Commissioners, to be just and reasonable.

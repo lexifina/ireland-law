@@ -1,0 +1,3 @@
+Application of section 16 (income levy) of Finance Act, 1983, for 1985-86.
+
+11.—Section 16 of the Finance Act, 1983, as amended by section 10 of the Finance Act, 1984, shall apply and have effect for the year beginning on the 6th day of April, 1985, and ending on the 5th day of April, 1986 (in this section referred to as “the contribution year 1985-86”), as it applies and has effect for the contribution year 1984-85 (within the meaning of the said section 16), subject to the modification that, for the contribution year 1985-86, the references to “£96” and “£5,000” in the proviso (inserted by the Finance Act, 1984) to subsection (2) shall be construed as references to “£102” and “£5,300”, respectively.

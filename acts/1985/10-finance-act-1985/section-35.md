@@ -1,0 +1,5 @@
+Provisions relating to excise duty on table waters.
+
+35.—(1) An officer of Customs and Excise may, at all reasonable times, enter any premises on which the manufacture of table waters liable to a duty of excise is reasonably believed by the officer to be carried on and may there make such search and investigation and take such samples of such table waters, or of any beverage or liquor reasonably believed by the officer to be such table waters, or of any substance or mixture reasonably believed by the officer to be for use in the manufacture of such table waters, as the officer shall think proper, and may inspect and take copies of or extracts from any books or other documents there found reasonably believed by the officer to relate to any dealing in such table waters.
+
+(2) Any person who resists, obstructs or impedes an officer of Customs and Excise in the exercise of any power conferred on him by this section shall be guilty of an offence and shall be liable on summary conviction to an excise penalty of £500.
