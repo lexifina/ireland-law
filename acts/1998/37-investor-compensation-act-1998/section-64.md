@@ -1,0 +1,9 @@
+Amendment of section 52 of Act of 1995.
+
+64.—Section 52 of the Act of 1995 is hereby amended by the substitution for subsection (7) of the following subsection:
+
+“(7) (a) No liquidator, receiver, administrator, examiner, official assignee or creditor of an investment business firm shall have or obtain any recourse or right against client money or client investment instruments or documents of title relating to such investment instruments received, held, controlled or paid on behalf of a client by an investment business firm, until all proper claims of clients or of their heirs, successors or assigns against client money and client investment instruments or documents of title relating to such investment instruments have been satisfied in full.
+
+(b) Notwithstanding paragraph (a) of this subsection, a liquidator, receiver, administrator, examiner or official assignee may have recourse or right against client money or client investment instruments or documents of title relating to such investment instruments received, held, controlled or paid on behalf of a client by an investment business firm in respect of such reasonable expenses as are incurred in the carrying out of their functions under this Act or under the Investor Compensation Act, 1998, or incurred in the distribution of client money and investment instruments to clients of the investment business firm where the assets of the investment business firm have been exhausted.
+
+(c) A liquidator, receiver, administrator, examiner or official assignee shall apply to the Court before seeking recourse or right against client money or client investment instruments or documents of title relating to such investment instruments received, held, controlled or paid on behalf of a client by an investment business firm under paragraph (b) of this subsection and the Court shall determine the matter and make such order as it sees fit.”.

@@ -1,0 +1,7 @@
+Exemption from liability for damages.
+
+42.—(1) The supervisory authority or any employee or officer of the supervisory authority or a subsidiary established by the Bank for the purposes of section 20 or any employee or officer of the subsidiary or an authorised officer for the purposes of section 9 or any member of the Board of the supervisory authority or any member of the Board of the subsidiary shall not be liable in damages for anything done or omitted in the discharge or purported discharge of any of its functions under this Act unless it is shown that the act or omission was in bad faith.
+
+(2) The Board of the Company or any employee or officer of the Company shall not be liable in damages for anything done or omitted in the discharge or purported discharge of any of its functions under this Act unless it is shown that the act or omission was in bad faith.
+
+(3) Without prejudice to the generality of subsections (1) and (2), the approval, supervision, regulation or revocation of approval of a fund for the purposes of section 19 or an investor compensation scheme under this Act shall not constitute a warranty or other claim as to the solvency or performance of the fund or any investment firm which has contributed to the fund or investor compensation scheme or any of its members and the State and the supervisory authority and the Company shall not be liable in respect of any loss or losses incurred through the insolvency, default or performance of the fund or investment firm or investor compensation scheme or any of its members.
