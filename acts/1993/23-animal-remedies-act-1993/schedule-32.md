@@ -1,0 +1,5 @@
+SCHEDULE
+
+Section 32 (2).
+
+Reference No. Title of Statutory Instrument Extent of revocation 1. Poisons (Control of Residues in Foods of Animal Origin) Regulations, 1985 (S.I. No. 257 of 1985) Paragraph (a) to (d) of Regulation 22, and Regulations 23 and 25. 2. European Communities (Veterinary Medicinal Products) Regulations, 1986 (S.I. No. 22 of 1986) Articles 12, 15 and 16. 3. European Communities (Control of Oestrogenic, Androgenic, Gestagenic and Thyrostatic Substances) Regulations, 1988 (S.I. No. 218 of 1988) Regulations 15 to 18, Regulations 29 to 31, and paragraphs (6) and (7) of Regulation 32. 4. European Communities (Control of Veterinary Medicinal Products and Their Residues) Regulations, 1990 (S.I. No. 171 of 1990) Paragraph (3) of Regulation 3. 5. European Communities (Control of Oestrogenic, Androgenic, Gestagenic and Thyrostatic Substances) (Amendment) Regulations, 1991 (S.I. No. 198 of 1991) The whole Regulations. 6. European Communities (Control of Oestrogenic, Androgenic, Gestagenic and Thyrostatic Substances) (Amendment) Regulations, 1992 (S.I. No. 427 of 1992) The whole Regulations.

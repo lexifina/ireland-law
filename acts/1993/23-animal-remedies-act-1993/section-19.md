@@ -1,0 +1,3 @@
+Evidence of class of animal remedies to which a contravention relates.
+
+19.—In any proceedings for an offence under this Act in which it is alleged that a contravention of the Act or of any regulations made, or continued in force or deemed to have been made, thereunder has occurred in relation to a class of animal remedy or a class of ingredient for an animal remedy, it shall not be necessary to show that the contravention relates to a particular animal remedy or ingredient for an animal remedy where it can be shown that it relates to a thing which is a member of such a class of animal remedy or class of ingredient for an animal remedy.
