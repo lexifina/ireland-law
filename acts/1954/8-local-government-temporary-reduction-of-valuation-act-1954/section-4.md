@@ -1,0 +1,7 @@
+Temporary reduction of valuation for rating purposes.
+
+4.—(1) Where the erection, enlargement or improvement of a building is begun and completed during the prescribed period and an increase in the valuation of a tenement including the building or part of the building is made by reason solely or partly of the erection, enlargement or improvement, the valuation of the tenement shall be deemed to be reduced for rating purposes by two-thirds of the increase.
+
+(2) In this section “rating purposes” means the following (and no other) purposes, that is to say, the purposes of the assessment and levying of any rate raised by a local authority for the service of the local financial year commencing next after the completion of the erection, enlargement or improvement of the building or for the service of the next following six local financial years.
+
+(3) Without prejudice to the generality of the provisions of subsection (2) of this section restricting the meaning of “rating purposes”, it is hereby enacted in particular that notwithstanding the valuation (in this subsection referred to as the full valuation) of a tenement being deemed under this section to be reduced in relation to any local financial year, every computation for the purposes of the Income Tax Acts, and every computation for the purpose of the duty on any excise licence charged by reference to valuation, shall be made in like manner as if the full valuation were in force for all purposes in relation to that local financial year.
