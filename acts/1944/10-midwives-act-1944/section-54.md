@@ -1,0 +1,3 @@
+Powers of entry and inquiry of officers of local supervising authorities.
+
+54.—Any officer of a local supervising authority, authorised by such authority to exercise the powers conferred by this section, may at all reasonable times enter any maternity home which is situated in the district of such authority and may there make all such inquiries as he thinks proper for the purposes of the enforcement of this Act, and if any person wilfully obstructs any such officer in making such entry or wilfully refuses to answer any such inquiry to the best of his ability, such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding five pounds.
