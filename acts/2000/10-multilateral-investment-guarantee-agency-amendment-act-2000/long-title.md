@@ -1,0 +1,17 @@
+Number 10 of 2000
+
+MULTILATERAL INVESTMENT GUARANTEE AGENCY (AMENDMENT) ACT, 2000
+
+Section 1. Amendment of section 3 of Multilateral Investment Guarantee Agency Act, 1988. 2. Short title. SCHEDULE
+
+Multilateral Investment Guarantee Agency
+
+Resolution No. 57
+
+1998 General Capital Increase Multilateral Investment Guarantee Agency Act, 1988 1988, No. 32 Number 10 of 2000
+
+MULTILATERAL INVESTMENT GUARANTEE AGENCY (AMENDMENT) ACT, 2000
+
+AN ACT TO AMEND AND EXTEND THE MULTILATERAL INVESTMENT GUARANTEE AGENCY ACT, 1988, AND TO PROVIDE FOR RELATED MATTERS. [7th June, 2000]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
