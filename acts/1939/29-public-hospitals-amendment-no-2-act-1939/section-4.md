@@ -1,0 +1,3 @@
+Contents of schemes submitted by the Society.
+
+4.—A scheme submitted, in pursuance of section 6 of the Principal Act as applied by this Act, by the Society to the Minister for Justice shall (in addition to the matters required by the said section 6 as so applied) state either that the whole of the money paid to the Society in respect of the sweepstake to which such scheme relates will be retained by the Society for its own purposes or that part only of the said money will be so retained and the residue thereof will be paid to foreign societies and, in the latter case, shall also either state the proportions in which the said money will be so retained and so paid or indicate the manner in which such proportions will be ascertained.
