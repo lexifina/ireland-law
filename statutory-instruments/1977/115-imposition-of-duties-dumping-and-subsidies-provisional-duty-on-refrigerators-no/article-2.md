@@ -1,0 +1,3 @@
+Article 2
+
+2. A provisional duty at the rate of £7 per refrigerator shall be charged, levied and paid on goods of the following description that are imported into the State between the 23rd day of April, 1977, and the 22nd day of October, 1977, that is to say on domestic electrical refrigerators the storage volume of the food compartment of which exceeds 3 cubic feet and does not exceed 12 cubic feet which are classified at tariff code numbers 8415-043 or 8415-047 in the Schedule to the Imposition of Duties (No. 200) (Customs and Excise Duties and Form of Tariff) Order, 1972 ( S.I. No. 220 of 1972 ), and which originate in Czechoslovakia or are exported from Czechoslovakia.
