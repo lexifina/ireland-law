@@ -1,0 +1,3 @@
+Regulation 2
+
+2. In the application of Articles 5 and 7 of the Reserve and Transfer Values Regulations, 1923, to the case of a woman who marries after the date of the passing of the Act of 1929 and who continues to be or again becomes employed after marriage, the date of entry into insurance shall be the date of marriage or the date of again becoming employed after marriage as the case may be, and, if at the date on which a woman again becomes employed she is a widow, the reserve value to be credited to the Society in respect of her, in accordance with Article 5 of the said Regulations shall be the Reserve Value appropriate to a widow.
