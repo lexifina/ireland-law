@@ -1,0 +1,3 @@
+Periods of Benefit.
+
+5.—Notwithstanding anything in the Unemployment Insurance Acts, 1920 to 1923, or in this Act, no person shall be entitled to receive benefit in the Third Benefit Year established by this Act for periods amounting in the aggregate to more than ten weeks; or in the Fourth Benefit Year established by this Act for periods amounting in the aggregate to more than sixteen weeks; or in the Fifth Benefit Year established by this Act for periods amounting in the aggregate to more than fifteen weeks; or in any subsequent Benefit Year for periods amounting in the aggregate to more than 26 weeks.
