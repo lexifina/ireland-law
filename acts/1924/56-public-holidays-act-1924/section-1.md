@@ -1,0 +1,3 @@
+Executive Council may appoint any day to be a bank holiday.
+
+1.—It shall be lawful for the Executive Council from time to time as they shall think fit by proclamation to appoint any particular day to be observed as a bank holiday either throughout Saorstát Eireann or in any part thereof or in any county, city, borough, or district therein, and any day so appointed shall be kept as a close holiday in all banks within the locality mentioned in such proclamation, and shall, as regards bills of exchange and promissory notes payable in such locality, be deemed to be a bank holiday for the purposes of the Bank Holidays Act, 1871, and shall also if the proclamation so directs be a public holiday for the purposes of the Holidays Extension Act, 1875.
