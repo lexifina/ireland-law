@@ -1,0 +1,5 @@
+Nomination of the nominated members of the Board.
+
+13.—(1) Not more than two months nor less than one month before every expiration of the term of office of the nominated members of the Board, the Board shall send to each of the bodies entitled under this Act to nominate members of the Board a letter notifying such body of the date of such expiration and requesting such body to nominate such number of persons to become and be members of the Board on such expiration as such body is entitled under this Act to nominate in respect of the period of five years commencing on such expiration.
+
+(2) Every body nominating a member of the Board shall, in the case of a nomination made before the establishment of the Board, communicate to the Minister and, in the case of a nomination made after such establishment, communicate to the Board in writing the name of the person so nominated by it and no such nomination shall be complete until the name of the person nominated has been so communicated to the Minister or the Board (as the case may be) by the body making such nomination.

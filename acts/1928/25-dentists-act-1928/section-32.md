@@ -1,0 +1,7 @@
+Erasure from the register of persons found guilty of infamous or disgraceful conduct.
+
+32.—(1) The Board may at any time and shall on the application of any university or college in Saorstát Eireann having for the time being power to grant certificates of fitness to practise dentistry or dental surgery hold or appoint one or more members of the Board to hold an inquiry into the conduct of any person registered in the register who is alleged to have been guilty of infamous or disgraceful conduct in a professional respect.
+
+(2) If, as the result of an inquiry held under the foregoing sub-section or as the result of a report received by the Board from the General Dental Board of an inquiry held by such Board, the Board finds that the person in respect of whose conduct such inquiry was held was guilty of infamous or disgraceful conduct in a professional respect the Board may, if it thinks fit, erase the name of such person from the register.
+
+(3) A person whose name has been erased from the register under this section may be restored to the register by order of the High Court under this Act or at any time by special direction of the Board but not otherwise, and when a person is so restored to the register by the Board the Board may attach such conditions (including the payment of a fee not exceeding the fee which would be payable by such person for registration if he was then being registered for the first time) as the Board thinks fit.

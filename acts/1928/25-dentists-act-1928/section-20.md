@@ -1,0 +1,3 @@
+Application of moneys received by the Board.
+
+20.—The Board shall out of the moneys received by it, whether by way of fees or otherwise, pay the expenses incurred by the Medical Council in the execution of their duties under this Act (the amount of such expenses to be settled in default of agreement by the Minister) and the expenses of the Board which are required by this Act to be defrayed by the Board out of its own moneys and shall allocate the surplus (if any) of such moneys to purposes connected with dental education and research or any public purposes connected with the profession of dentistry in such manner as the Board may determine.
