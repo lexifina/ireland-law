@@ -1,0 +1,13 @@
+Certain property to be included in calculation of means.
+
+7.—(1) If and whenever any person, within three years before or at any time after he becomes entitled to receive an old age pension and either before or after the passing of this Act, assigns any property or income, such property or income shall be taken into account in calculating for the purpose of the Old Age Pensions Acts or section 1 of the Act of 1920 the means of that person, unless it shall appear that the assignment was a conveyance or transfer by operation of law or was a conveyance or transfer on a bona fide sale for valuable consideration in money or money's worth amounting to not less than four-fifths of the value of the property or income, or the estate or interest therein, which was the subject of the sale, or that the property comprised in the assignment consists only of a farm of land the poor law valuation whereof (including the buildings thereon) does not exceed £10, together with or without the stock and chattels thereon.
+
+(2) The yearly value of any property or income which is by virtue of this section to be taken into account in calculating the means of any person shall be calculated in the like manner as the yearly value of property or income of a similar nature in the actual possession of or actual receipt by such person is required to be calculated, save that such value shall be calculated as of the date on which such person assigned such property or income or as of the date upon which the calculation is made by the pension officer, whichever value is the less.
+
+(3) Where any person, by means of an assignment to which this section applies, assigns any property or income for valuable consideration in money or money's worth amounting to less than four-fifths of the value of the property or income, or the estate or interest therein, which is the subject of the transaction, such valuable consideration, if or so far as it is in the possession of the person at the time he becomes entitled to receive an old age pension, shall not be taken into account in calculating the means of that person for the purpose of the Old Age Pensions Acts or section 1 of the Act of 1920.
+
+(4) Sub-section (3) of Section 4 of the Act of 1908 shall not apply to any assignment to, which this section applies.
+
+(5) This section shall not apply to the calculation of the means of any person who became, before the passing of this Act, entitled to receive an old age pension.
+
+(6) In this section the word “assign” includes any form of conveyance, transfer, or other transaction by which a person parts with the ownership or possession of any property or disentitles himself to receive any income, and the word “assignment” and other cognate words shall be construed accordingly.
