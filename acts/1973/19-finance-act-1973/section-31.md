@@ -1,0 +1,3 @@
+Income tax on certain dividends.
+
+31.—Subject to the provisions of sections 76 and 77 of the Income Tax Act, 1967, as modified by Part III of Schedule 6 to that Act, where income tax is chargeable under Case III of Schedule D in respect of income which is a dividend, within the meaning of Article 1 of the Agreement set forth in the Second Schedule, being a dividend paid on or after the 6th day of April, 1973, and not later than the 5th day of April, 1975, the income so chargeable to income tax shall include the amount of the tax credit for the payment of which provision is made in the said Article 1.
