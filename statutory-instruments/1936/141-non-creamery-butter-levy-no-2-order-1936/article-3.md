@@ -1,0 +1,27 @@
+Article 3
+
+3. The Non-Creamery Butter (Levy) Order, 1936 (Statutory Rules and Orders, No. 108 of 1936), is revoked as on and from the 1st day of May, 1936.
+
+4.—(1) Save as hereinafter provided, the rate of levy on non-creamery butter shall be whichever of the following rates is applicable to any particular class of non-creamery butter, that is to say:—
+
+(a) On non-creamery butter which was put into cold store on or before the 2nd day of November, 1935, under and in accordance with an arrangement sanctioned by the Minister for Agriculture, the rate of twenty-two shillings the hundredweight.
+
+(b) On non-creamery butter to which the foregoing sub-paragraph (a) of this paragraph does not apply which was manufactured on or before the 30th day of November, 1935, the rate of twenty-eight shillings the hundredweight.
+
+(c) On non-creamery butter manufactured during the month of December, 1935, the rate of eighteen shillings and eight pence the hundredweight.
+
+(d) On non-creamery butter manufactured on or after the 1st day of April, 1936, the rate of twenty-eight shillings the hundredweight.
+
+(2) The rates of levy mentioned in and prescribed by this paragraph shall come into force as on and from the 1st day of May, 1936.
+
+(3) This paragraph shall not apply to non-creamery butter manufactured from cream on which a levy at the appropriate rate has been paid.
+
+(4) No levy shall be payable on non-creamery butter manufactured during the period from the 1st day of January, 1936, to the 31st day of March, 1936.
+
+Given under my Seal of Office, this 29th day of
+
+April, 1936.
+
+(Signed) SÉAMAS O RIAIN,
+
+Minister for Agriculture.
