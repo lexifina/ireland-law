@@ -1,0 +1,3 @@
+Sale by weight or measure of articles the subject of price orders and price (restriction on profits) orders.
+
+31.—The Minister may, if he thinks fit, by any price order or price (restriction on profits) order prohibit the sale or offering for sale in the area to which such order applies of the kind or any one or more of the kinds of a commodity to which such order relates except by such standard weights or measures and such units as may be specified in such order and if any person acts in contravention of such prohibition he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding five pounds.
