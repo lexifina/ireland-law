@@ -1,0 +1,3 @@
+Article 3
+
+3. The quota appointed by the Control of Imports (Quota No. 3, Thirty-Ninth Period) (Leather Footwear) Order, 1954 ( S.I. No. 251 of 1954 ), is hereby increased by twenty thousand pairs of articles to which the Control of Imports (Quota No. 3) Order, 1934 ( S. R. & O. No. 242 of 1934 ), as amended, applies, to the intent that the said twenty thousand pairs of articles shall be an additional quota in respect of the said thirty-ninth quota period, and the total quota in respect of the said thirty-ninth quota period shall be forty thousand pairs of articles to which the said Control of Imports (Quota No. 3) Order, 1934, as amended, applies.
