@@ -1,0 +1,3 @@
+Terms and conditions of service of members of staff of Board.
+
+7.—Notwithstanding section 13 of the Principal Act, in determining the remuneration or allowances to be paid to members of the staff of the Board or the other terms or conditions subject to which such members hold or are to hold their employment, the Board shall have regard either to Government or nationally agreed guidelines which are for the time being extant, or to Government policy concerning remuneration and conditions of employment which is so extant, and, in addition to the foregoing, the Board shall comply with any directives with regard to such remuneration, allowances, terms or conditions which the Minister may give from time to time to the Board with the consent of the Minister for Finance.
