@@ -1,0 +1,3 @@
+Regulation 7
+
+7. Paragraph 5 of the Fifth Schedule to the Principal Regulations is hereby amended by the insertion at the end of the said paragraph of the words "Exemption from the requirement as to crating before being put on board ship may be granted by the Minister, either in respect of an individual consignment or of a number of consignments exported over a specified period, in the case of pork carcases weighing 120 lb. or over, each, which are shipped through ports at which crating facilities are not available and in respect of which, having regard to special trade requirements, the Minister is of opinion that such exemption should be granted" and the said Schedule shall be construed and have effect accordingly.
