@@ -1,0 +1,11 @@
+Money payable on foot of charge.
+
+[1961, s. 9(5)(6); 1965, s. 9.].
+
+56.—(1) (a) All money payable on foot of a charge created under this Chapter in respect of money lent or advanced by the Corporation to the registered owner of land or his personal representative or paid by the Corporation on foot of a guarantee given by the Corporation of the payment of money by the registered owner of land or his personal representative shall be recoverable from the person who is the registered owner of the land subject to the charge at the time when proceedings for recovery of the money payable on foot of the charge are commenced as a personal liability of that person.
+
+(b) Nothing in this subsection shall relieve any other person from liability in respect of any such money and, as between successive registered owners of the land subject to the charge, all money paid or recovered from a registered owner on foot of a charge and for the payment of which a former registered owner was liable shall be recoverable by the registered owner who has paid it, or from whom it has been recovered, as a debt due to him by the registered owner in default.
+
+(2) (a) All money payable on foot of a charge created under this Chapter in respect of money lent or advanced by the Corporation to a person in occupation of land (other than the registered owner of the land) or paid by the Corporation on foot of a guarantee given by the Corporation of the payment of money by a person in occupation of land (other than the registered owner of the land) shall be recoverable from the person in occupation (whether as registered owner or otherwise) of the land subject to the charge at the time when proceedings for recovery of the money payable on foot of the charge are commenced as a personal liability of that person.
+
+(b) Nothing in this subsection shall relieve any other person from liability in respect of any such money and, as between persons successively in occupation (whether as registered owners or otherwise) of the land subject to the charge, all money paid or recovered from a person in occupation of the land on foot of a charge and for the payment of which a person previously in occupation of the land was liable shall be recoverable by the person who has paid it, or from whom it has been recovered, as a debt due to him by the person in default.
