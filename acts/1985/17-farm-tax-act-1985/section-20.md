@@ -1,0 +1,11 @@
+Duty to inform local authority of, and amendment of classification lists consequent on, transfer of land, etc.
+
+20.—(1) Where land, or an interest in land, is transferred (other than by will or on an intestacy) from a person to another person, it shall be the duty of both persons to notify in writing the local authority or local authorities in whose functional area or functional areas the land is situated of the transfer not later than 4 weeks after the date of the transfer.
+
+(2) Where land, or an interest in land, is transferred to a person by will or on an intestacy, it shall be the duty of that person to notify in writing the local authority or local authorities in whose functional area or functional areas the land is situated of the transfer not later than 6 months after the date of the transfer and it shall be the duty of the personal representative of the person under whose will or upon whose intestacy the land, or the interest in land, is transferred as aforesaid to notify in writing the said local authority or local authorities of the transfer not later than 2 months after the date of the grant to him of probate of the said will or letters of administration of the estate of the second-mentioned person.
+
+(3) (a) When a local authority is notified by any person of a transfer of land, or an interest in land, under this section, it shall be the duty of the local authority to notify the Commissioner of the transfer, and, upon being so notified, the Commissioner, having made any investigations he may consider necessary, shall make any appropriate amendments, consequent upon the transfer, of the classification list or classification lists concerned and shall notify in writing the local authority of any such amendments and the local authority shall notify that person of any such amendments.
+
+(b) An amendment of a classification list under paragraph (a) of this subsection, shall be deemed for the purposes of section 7 (12) (a) of this Act to be a change of circumstances governing the adjusted acreage of the land concerned.
+
+(4) A person who contravenes subsection (1) or (2) of this section shall be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding £1,000.

@@ -1,0 +1,5 @@
+Inclusion of revenue from farm tax in estimates of expenses of local authorities.
+
+13.—(1) A local authority shall include in its estimates of expenses (within the meaning of the City and County Management (Amendment) Act, 1955) for each local financial year, being such local financial year as may be prescribed and each subsequent local financial year, the amount, estimated in such manner as may be prescribed, of the revenue that will accrue to it in respect of farm tax for that year.
+
+(2) There may, if the Minister so thinks fit, be prescribed for the purposes of subsection (1) of this section, for any local financial year during the period from the passing of this Act to the end of the year immediately following that in which the compilation of all the classification lists is completed, arrangements other than those for the time being in force for the estimating by local authorities of the revenues that will accrue to them in that year from farm tax and for the accounting by them for such revenues.
