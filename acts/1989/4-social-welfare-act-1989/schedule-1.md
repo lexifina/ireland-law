@@ -1,0 +1,21 @@
+SCHEDULE A
+
+Section 3.
+
+“Second Schedule
+
+Rates of Benefits
+
+PART I
+
+Rates of Periodical Benefits and Increases Thereof
+
+Description of benefit Weekly rate Increase for adult dependent (where payable) Increase for each of first and second qualified children (where payable) Increase for each qualified child in excess of two (where payable) Increase for prescribed relative under section 50(11), 51(2), 81(3), 86(3), 91(3), 95(2) or 103(2) (where payable) Increase where the person has attained pensionable age and is living alone (where payable) (1) (2) (3) (4) (5) (6) (7) £ £ £ £ £ £ 1. (A) Disability Benefit and Unemployment Benefit 45.00 29.00 10.90 10.00 — — (B) Reduced rates of Unemployment Benefit 42.00 26.90 10.00 10.00 — — 2. Maternity Allowance 45.00 — 10.90 10.00 — — 3. Injury Benefit 61.70 29.00 10.90 10.00 — — 4. Death Benefit (a) pension payable to a widow (section 50 (2)) or widower (section 50 (6))— (i) aged under 66 years 66.60 — 14.30 14.90 — — (ii) aged over 66 years 68.10 — 14.30 14.90 28.00 3.90 (b) pension payable to a parent, the deceased having been at death a married person, where the parent is— (i) aged under 66 years 29.70 — — — — — (ii) aged over 66 years 30.40 — — — 28.00 3.90 (c) pension payable to a parent, the deceased having been at death a widower, a widow or a single person— (i) where the parent is the father and was, at the death of the deceased, incapable of self-support by reason of some physical or mental infirmity and likely to remain permanently so incapable and is— (a) aged under 66 years 66.60 — — — — — (b) aged over 66 years 68.10 — — — 28.00 3.90 (ii) where the parent is the mother, having been, at the death of the deceased, a widow or having thereafter become a widow and is— (a) aged under 66 years 66.60 — — — — — (b) aged over 66 years 68.10 — — — 28.00 3.90 (iii) where the parent is the mother, not being a widow, and a pension at the rate set out at (i) above is not payable to her husband and she is— (a) aged under 66 years 66.60 — — — — — (b) aged over 66 years 68.10 — — — 28.00 3.90 (iv) in any other case where the parent is— (a) aged under 66 years 29.70 — — — — — (b) aged over 66 years 30.40 — — — 28.00 3.90 (d) pension payable to an orphan 35.10 — — — — — 5. Old Age (Contributory) Pension and Retirement Pension: (a) in the case of persons under the age of 80 years 58.50 37.30 12.20 10.60 28.00 3.90 (b) in any other case 62.40 37.30 12.20 10.60 28.00 3.90 (c) additional increase for an adult dependant who has attained pensionable age — 6.40 — — — — 6. Invalidity Pension: (a) where the person is aged under 66 years 51.50 34.10 11.90 10.40 28.00 — (b) where the person is aged over 66 years 52.50 34.10 11.90 10.40 28.00 3.90 7. Widow’s (Contributory) Pension and Deserted Wife’s Benefit in the case of persons: (a) aged under 66 years 52.50 — 14.30 14.90 — — (b) aged between 66 and 80 years 53.70 — 14.30 14.90 28.00 3.90 (c) aged over 80 years 57.20 — 14.30 14.90 28.00 3.90 8. Orphan’s (Contributory) Allowance 33.20 — — — — — PART II
+
+Occupational Injuries Benefits—Gratuities and Grant £ 1. Disablement Benefit: Maximum gratuity in the case of persons— (i) aged under 66 years 4,780 (ii) aged over 66 years 4,860 2. Death Benefit: (i) Widower's gratuity in the case of persons— (a) aged under 66 years 3,480 (b) aged over 66 years 3,540 (ii) Grant in respect of funeral expenses 240 PART III
+
+Disablement Pension
+
+Degree of disablement Weekly rate (1) (2) Persons under the age of 66 years Persons over the age of 66 years £ £ 100 per cent 68.75 70.25 90 ” ” 61.88 63.23 80 ” ” 55.00 56.20 70 ” ” 48.13 49.18 60 ” ” 41.25 42.15 50 ” ” 34.38 35.13 40 ” ” 27.50 28.10 30 ” ” 20.63 21.08 20 ” ” 13.75 14.05 PART IV
+
+Increases of Disablement Pension £ 1. Increase where the person is permanently incapable of work: in the case of persons— (a) aged under 66 years 45.00 (b) aged over 66 years 45.80 2. Increase where the beneficiary requires constant attendance: (a) limit of increase except in cases of exceptionally severe disablement where the person is— (i) aged under 66 years 27.50 (ii) aged over 66 years 28.00 (b) limit in any case where the person is— (i) aged under 66 years 55.00 (ii) aged over 66 years 56.00 ”.

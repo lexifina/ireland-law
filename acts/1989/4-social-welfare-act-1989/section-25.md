@@ -1,0 +1,3 @@
+Amendment of section 79 (12) of Principal Act (conditions for receipt of old age (contributory) pension).
+
+25.—Section 79 (12) (inserted by section 30 (a) of the Act of 1988) of the Principal Act is hereby amended by the substitution for “became an employed contributor as a consequence of the coming into operation of section 12 of the Social Welfare Act, 1973.” of “became, as a consequence and at the time of the coming into operation of section 12 of the Social Welfare Act, 1973, an employed contributor in respect of whom contributions reckonable for the purposes of the contribution conditions for entitlement to old age (contributory) pension were payable.”.

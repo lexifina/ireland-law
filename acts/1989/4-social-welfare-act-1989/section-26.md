@@ -1,0 +1,5 @@
+Application of the provisions of the Principal Act, etc. by regulations.
+
+26.—(1) In the case of any section of the Principal Act which confers powers on the Minister to apply by regulations any provisions of that Act to matters referred to in that section, such powers shall be deemed to include powers to apply any provisions of any enactment, whether passed before or after this Act, which amends or extends the Principal Act.
+
+(2) The powers conferred on the Minister under subsection (3) of section 23 of the Housing (Private Rented Dwellings) Act, 1982, in relation to regulations under subsection (1) of that section (which relates to payments under the rent allowance scheme) to apply (with or without modification), or make provision corresponding (with or without modification) to, any provisions of, or any provisions made under, the Principal Act shall be deemed to include powers to apply any provisions of, or provisions made under, any enactment, whether passed before or after this Act, which amends or extends the Principal Act.
