@@ -1,0 +1,7 @@
+Interference with right of navigation and other rights.
+
+45.—(1) Whenever the Minister or a local authority establishes and maintains or is about to establish an aerodrome under this Part of this Act, and such aerodrome is or will be situated by the sea or any navigable inlet thereof, the Minister, after consultation with the Minister for Agriculture may, if it is in his opinion in the public interest so to do, make an order under this section limiting or prohibiting the exercise of any right of navigation and any public or private right of fishing or landing fish or any other public or private right in respect of any part of the sea or any inlet thereof or foreshore in or adjacent to such aerodrome.
+
+(2) Whenever an order made under the next preceding sub-section of this section limits or prohibits the exercise of any private right of fishing or landing fish or any other private right in respect of any part of the sea or any inlet thereof or foreshore, the Minister shall pay compensation to the owner of or other person entitled to exercise such right and such compensation shall, in default of agreement, be fixed under and in accordance with the Acquisition of Land (Assessment of Compensation) Act, 1919.
+
+(3) Whenever any order made under this section is for the time being in force any right to which such order relates shall be limited or prohibited in accordance with such order.

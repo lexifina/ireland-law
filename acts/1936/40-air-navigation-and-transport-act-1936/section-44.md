@@ -1,0 +1,3 @@
+Modification of procedure for acquisition of land.
+
+44.—Where a local authority proposes to acquire (otherwise than by agreement) land for the purposes of this Part of this Act, whether in exercise of a power conferred by a statute other than this Act or of a power expressly conferred by this Act, the advertisements mentioned in sub-section (2) of section 203 of the Public Health (Ireland) Act, 1878, may be published in any month and, in such case, the notices mentioned in the said sub-section shall be served in the month next succeeding the month in which the said advertisements are published.
