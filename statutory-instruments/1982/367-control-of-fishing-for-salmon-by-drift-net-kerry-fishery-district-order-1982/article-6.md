@@ -1,0 +1,49 @@
+Article 6
+
+6. (1) Where the number of applications to the regional board for licences from persons to whom priority is required to be given firstly under Article 4 (3) of this Order exceeds the maximum number mentioned in Article 4 (1) of this Order, that board shall determine, having regard to the number of years from and including the year 1976 in which a licence was held by any of the applicants and the proportion and amount of his livelihood in each of those years that each such applicant derived from fishing for salmon under and in accordance with the licence, which of such applicants shall be given priority firstly in the issue of the licences, and—
+
+( a ) if the regional board determines that a number of persons equal to or less than the said maximum number shall be given priority firstly, such board shall thereupon issue licences to those persons, and
+
+( b ) if the regional board determines that the number of persons to whom priority should be given firstly is greater than the said maximum number, the board shall then select a number of persons equal to the said maximum number, being persons to whom, in such board's opinion, having regard to all the circumstances, licences should be issued and shall thereupon issue licences to the persons so selected.
+
+(2) Where the number of applications to the regional board for licences from persons to whom priority is required to be given firstly under Article 4 (3) of this Order is less than the maximum number mentioned in Article 4 (1) of this Order, that board shall determine, having regard to the number of years from and including the year 1976 in which the applicants held licences and having regard to the number of years from and including the year 1976 in which the applicants were members of salmon fishing crews who were fishing for salmon under and in accordance with licences or derived their livelihood solely or substantially from fishing by means of a boat not exceeding 40 feet (12.192 metres) in registered length and the proportion and amount of his livelihood which each such applicant derived from fishing for salmon which of such applicants shall be given priority secondly in the issue of the remaining licences, and—
+
+( a ) if the regional board determines that a number of persons equal to or less than the number of the remaining licences shall be given priority secondly, the board shall thereupon issue licences to those persons, and
+
+( b ) if the regional board determines that the number of persons to whom priority should be given secondly is greater than the number of the remaining licences, the board shall then select a number of persons equal to the said remaining number of licences, being persons to whom, in the board's opinion, having regard to all the circumstances, licences should be issued, and shall thereupon issue licences to the persons so selected.
+
+(3) Where the number of applications to the regional board for licences from persons to whom priority is required to be given firstly and secondly under Article 4 (3) of this Order is less than the maximum number mentioned in Article 4 (1) of this Order, that board shall determine in respect of any of the applicants, having regard to the proportion and amount of his livelihood in the datum years that each such applicant derived from fishing for salmon under and in accordance with a licence but who did not hold a licence in the year preceding that for which licences are being issued because of physical or mental incapacity or any other reason considered sufficient by the regional board, which of such applicants shall be given priority thirdly in the issue of the remaining licences, and—
+
+( a ) if the regional board determines that a number of persons equal to or less than the number of the remaining licences shall be given priority thirdly, the board shall thereupon issue licences to those persons, and
+
+( b ) if the regional board determines that the number of persons to whom priority should be given thirdly is greater than the number of the remaining licences, the board shall then select a number of persons equal to the said remaining number of licences, being persons to whom, in such board's opinion, having regard to all the circumstances, licences should be issued and shall thereupon issue licences to the persons so selected.
+
+(4) Where the number of applications to the regional board for licences from persons to whom priority is required to be given firstly, secondly and thirdly under Article 4 (3) of this Order is less than the maximum number mentioned in Article 4 (1) of this Order, that board shall determine in respect of any of the applicants, having regard to the proportion and amount of his livelihood in the years from and including the year 1976 that each such applicant derived from fishing for salmon under and in accordance with a licence but who did not hold a licence in the year preceding that for which licences are being issued because of physical or mental incapacity or any other reason considered sufficient by the regional board, which of such applicants shall be given priority fourthly in the issue of the remaining licences, and—
+
+( a ) if the regional board determines that a number of persons equal to or less than the number of remaining licences shall be given priority fourthly, the board shall thereupon issue licences to such persons, and
+
+( b ) if the regional board determines that the number of persons to whom priority should be given fourthly is greater than the number of the remaining licences, the board shall then select a number of persons equal to the said remaining number of licences, being persons to whom, in the board's opinion, having regard to all the circumstances, licences should be issued and shall thereupon issue licences to the persons so selected.
+
+(5) Where the number of applications to the regional board for licences from persons to whom priority is required to be given firstly, secondly, thirdly and fourthly under Article 4 (3) of this Order is less than the maximum number mentioned in Article 4 (1) of this Order, that board shall determine in respect of any of the applicants, having regard to his having derived his livelihood solely from fishing in the datum years by means of a boat not exceeding forty feet (12.192 metres) in registered length, which of such applicants shall be given priority fifthly in the issue of the remaining licences, and—
+
+( a ) if the regional board determines that a number of persons equal to or less than the number of the remaining licences shall be given priority fifthly, the board shall thereupon issue licences to those persons, and
+
+( b ) if the regional board determines that the number of persons to whom priority should be given fifthly is greater than the number of the remaining licences, the board shall then select a number of persons equal to the said remaining number of licences, being persons to whom, in such board's opinion, having regard to all the circumstances, licences should be issued and shall thereupon issue licences to the persons so selected.
+
+(6) Where the number of applications to the regional board for licences from persons to whom priority is required to be given firstly, secondly, thirdly, fourthly and fifthly under Article 4 (3) of this Order is less than the maximum number mentioned in Article 4 (1) of this Order, that board shall determine, having regard to the proportion and amount of his livelihood in the datum years that each applicant derived from fishing by means of a boat not exceeding forty feet (12.192 metres) in registered length, which of such applicants shall be given priority sixthly in the issue of the remaining licences, and—
+
+( a ) if the regional board determines that a number of persons equal to or less than the number of the remaining licences shall be given priority sixthly, the board shall thereupon issue licences to those persons, and
+
+( b ) if the regional board determines that the number of persons to whom priority should be given sixthly is greater than the number of the remaining licences, the board shall then select a number of persons equal to the said remaining number of licences, being persons to whom, in such board's opinion, having regard to all the circumstances, licences should be issued and shall thereupon issue licences to the persons so selected.
+
+(7) Where the number of applications to a regional board for licences from person to whom priority is required to be given firstly, secondly, thirdly, fourthly, fifthly and sixthly under Article 4 (3) of this Order is less than the maximum number mentioned in Article 4 (1) of this Order, that board shall determine which of the applicants shall be given priority in the issue of the remaining licences, having regard either to—
+
+( a ) the proportion and amount of his livelihood in each of the years from and including the year 1976, that each such applicant derived from fishing for salmon as a member of salmon fishing crews who were fishing for salmon under and in accordance with licences, or
+
+( b ) the number of years in which the applicants derived their livelihood mainly from fishing,
+
+as may be appropriate, and
+
+(i) if the regional board determines that a number of persons equal to or less than the number of the remaining licences shall be given priority, such board shall thereupon issue licences to those persons, and
+
+(ii) if such board determines that the number of persons to whom priority should be given is greater than the number of the remaining licences, such board shall then select a number of persons equal to the said remaining number of licences, being persons to whom, in such board's opinion, having regard to all the circumstances, licences should be issued, and shall thereupon issue licences to the persons so selected.
