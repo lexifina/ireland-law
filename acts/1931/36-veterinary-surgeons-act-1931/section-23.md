@@ -1,0 +1,7 @@
+Exercise by the Minister of the functions of the Council.
+
+23.—(1) If at any time the Minister is satisfied, either after such inquiry as the Minister thinks fit to make or without such inquiry, that the Council has on any occasion failed to do any matter or thing which the Council is required by this Act to do and the doing of which by the Council on that occasion was in the opinion of the Minister necessary or appropriate for the proper exercise of the functions or the proper discharge of the duties conferred or imposed on the Council by this Act, the Minister may by order direct the Council to do such matter or thing and for that purpose to do such other matters or things ancillary or incidental thereto as may be specified in such order.
+
+(2) If the Council fails to comply with the directions contained in an order made by the Minister under this section, the Minister may himself take such steps as he thinks fit to carry out the directions contained in such order and for that purpose the Minister shall have and may exercise such of the rights and powers conferred on the Council by this Act as are necessary for the due compliance with such directions.
+
+(3) The amount of all expenses incurred by the Minister under this section shall be certified by the Minister to the Council and the amount so certified shall be forthwith paid by the Council to the Minister and if not so paid shall be recoverable by the Minister from the Council as a civil debt in any court of competent jurisdiction.

@@ -1,0 +1,9 @@
+Inquiries into allegations of professional misconduct.
+
+35.—(1) Whenever a person who is registered in the register and is not registered in the general veterinary register is alleged to have been guilty of conduct disgraceful to him in a professional respect, the Council may itself hold or may appoint a committee of not less than three of its members to hold an inquiry into the conduct of such person.
+
+(2) Whenever a person who is registered in the register and is also registered in the general veterinary register is alleged to have been guilty of conduct disgraceful to him in a professional respect, then if but only if the circumstances are such that, under the Agreement set forth in the First Schedule to this Act, such allegation is to be investigated by a committee of the Council, the Council shall appoint a committee (in this Act sometimes referred to as a committee appointed under the Agreement), consisting of three of its own members (of whom at least one shall be a person who is also a member of the Council of the Royal College of Veterinary Surgeons) nominated by it and two members of the Council of the said College nominated by that Council to hold an inquiry into the conduct of such person, and such committee shall for the purposes of this Act be deemed to be a committee of the Council.
+
+(3) Whenever the Council appoints under either of the foregoing sub-sections of this section a committee to hold an inquiry into the conduct of any person, such committee shall hold such inquiry accordingly and shall report thereon to the Council.
+
+(4) The person whose conduct is the subject of an inquiry held under this section by the Council or by a committee of the Council appointed under this section shall be entitled to be heard and adduce evidence at such inquiry and, if he so desires, to be represented thereat by solicitor or by solicitor and counsel.
