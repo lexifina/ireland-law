@@ -1,0 +1,1 @@
+I, SÉAMAS Ó RIAIN, Minister for Finance, in exercise of the powers conferred on me by section 9 of the Government Loans (Conversion) Act, 1951 (No. 12 of 1951), and section 11 of the Transport Act, 1958 (No. 19 of 1958), hereby make the following regulations :
