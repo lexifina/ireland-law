@@ -1,0 +1,13 @@
+Power of Minister to act in place of local authority on their default.
+
+18.—(1) The Minister, in any case in which he is satisfied after a local inquiry that a local authority have made default in the exercise of any of their powers under the Housing of the Working Classes Acts, 1890 to 1931, or the Labourers Acts, 1883 to 1931, may by order require such local authority to exercise such of their powers under the said Acts respectively as may be specified in such order and in such manner and within such time as shall be prescribed therein, and if such local authority fail to comply with any such order within the time prescribed therein, the Minister may by a further order invest himself with and exercise all such powers of such local authority as may be necessary to remedy the default of such local authority in the exercise of their powers under the said Acts respectively.
+
+(2) The Minister may by order vest in and transfer to a local authority in respect of which an order vesting powers in the Minister has been made under sub-section (1) of this section any property, debts, or liabilities acquired or incurred by him in the exercise by him of the powers of such local authority so vested in him, and such property, debts and liabilities shall vest and attach accordingly.
+
+(3) Any expenses incurred by the Minister in the exercise by him of the powers of a local authority under an order made by him under this section shall in the first instance be paid out of moneys provided by the Oireachtas, but the amount certified by the Minister to have been so expended and to be properly payable by such local authority shall on, demand be paid to the Minister by such local authority and shall be recoverable as a debt due to the State, and the payment of the sum so payable to the Minister shall be a purpose for which such local authority may borrow under the Housing of the Working Classes Acts, 1890 to 1931, or the Labourers Acts, 1883 to 1931, as the case may be.
+
+(4) It shall not be necessary, in any case where the Minister exercises under an order made by him under this section any power of a board of health of borrowing money, to obtain the consent of the county council under section 4 of the Local Government Act, 1927 (No. 3 of 1927).
+
+(5) The powers conferred by this section shall be in addition to and not in derogation of any other powers for enforcing the Housing of the Working Classes Acts, 1890 to 1931, or the Labourers Acts, 1883 to 1931.
+
+(6) Sub-sections (1) and (3) of Article 32 of the Schedule to the Local Government (Application of Enactments) Order, 1898, shall apply to every local inquiry held for the purposes of this section.

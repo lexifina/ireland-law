@@ -1,0 +1,3 @@
+Increase of aggregate amount of grants under Housing Acts, 1925 to 1930.
+
+12.—In lieu of section 61 of the Housing (Miscellaneous Provisions) Act, 1931 (No. 50 of 1931), repealed by this Act, it is hereby enacted that the aggregate amount of grants made or to be made under section 3 of the Housing Act, 1925 (No. 12 of 1925), as amended by section 3 of the Housing Act, 1928 (No. 31 of 1928), together with the aggregate amount of the grants made or to be made under section 3 of the Housing Act, 1929 (No. 12 of 1929), shall not exceed the sum of one million three hundred and thirteen thousand pounds.

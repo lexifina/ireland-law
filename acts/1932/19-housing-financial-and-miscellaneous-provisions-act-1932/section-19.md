@@ -1,0 +1,3 @@
+Official representation by medical officers of health to town commissioners.
+
+19.—For the purpose of the making of an official representation (as defined in section 47 of the Housing (Miscellaneous Provisions) Act, 1931) under the Housing of the Working Classes Acts, 1890 to 1931, or under the said section 47, to the town commissioners of any town having commissioners under the Towns Improvement (Ireland) Act, 1854, the medical officer of health of the dispensary district and the county medical officer of health of the county in which such town is situate shall be deemed to be medical officers of health of such town commissioners.

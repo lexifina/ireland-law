@@ -1,0 +1,9 @@
+Time and method of payment of grants and contributions.
+
+7.—(1) Every grant or contribution to annual loan charges made to a person, a public utility society, or a local authority by the Minister under this Part of this Act shall be paid in the prescribed manner and at the prescribed time or times.
+
+(2) Subject to the provisions of sub-section (3) of this section, no grant shall be paid by the Minister to a person or a public utility society under this Part of this Act in respect of the erection or reconstruction of a house, unless and until such erection or reconstruction shall have been certified by an officer appointed by the Minister for the purpose or (in the case of an appeal to the Minister from a refusal by such officer so to certify) by the Minister, to have been completed in a proper and workmanlike manner.
+
+(3) The Minister may decide to pay a grant to a person or a public utility society, in instalments payable on the completion of specified portions of the erection or reconstruction of such house, and where the Minister so decides no such instalment shall be paid unless and until the appropriate portion so specified of such erection or reconstruction shall have been certified by the officer appointed by the Minister for the purpose or (in the case of an appeal to the Minister from a refusal by such officer so to certify) by the Minister, to have been completed in a proper and workmanlike manner.
+
+(4) Any person or public utility society aggrieved by the refusal of an officer appointed by the Minister to certify under this section that any particular thing has been completed in a proper and workmanlike manner may appeal against such refusal to the Minister, and on such appeal the Minister may, as he shall think proper, either confirm such refusal or himself give the certificate so refused, and the decision of the Minister on such appeal shall be final and conclusive.
