@@ -1,0 +1,5 @@
+Article 6
+
+6. (1) Where the Minister proposes to cause, pursuant to the Act, an animal affected with rabies or suspected of being so affected to be slaughtered, an inspector shall serve a notice in writing of intended slaughter on the owner or other person in charge of the animal, informing him of the proposed slaughter, and (except where the animal has already been removed by an inspector under Article 4 (2) (a) of this Order) requiring him to surrender the animal for slaughter, or to detain the animal pending its slaughter (or pending its surrender and removal for slaughter) on such part of the premises at which the animal is kept as may be specified in the notice, and to isolate it as far as practicable from any other animal.
+
+(2) A person on whom a notice has been served under this Article shall comply therewith, and without prejudice to the generality of the foregoing, in case the notice requires an animal to be so detained shall not move the animal, or cause or permit it to be moved, off the part of the premises on which it is required to be detained, except under and in accordance with a permit granted in that behalf by an inspector.
