@@ -1,0 +1,3 @@
+Amendment of section 8 of Finance (Customs and Excise Duties) Act, 1933.
+
+25.—Notwithstanding any provision to the contrary contained in any enactment relating to the recovery or application of excise penalties, the penalty imposed by sub-section (2) of section 8 of the Finance (Customs and Excise Duties) Act, 1933 (No. 52 of 1933), may be recovered and enforced at the suit of any member of the Gárda Síochána, and the Court shall have power to mitigate any such penalty to such amount as the Court may in its discretion think fit, and the council of the county or county borough shall not have power to mitigate any such penalty.

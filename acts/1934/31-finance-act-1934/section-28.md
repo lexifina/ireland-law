@@ -1,0 +1,3 @@
+Estate duty in case of certain annuities.
+
+28.—Where an annuity or other interest is purchased or provided by a person (in this section referred to as the deceased), either by himself alone or in concert or by arrangement with any other person, the extent of the beneficial interest in such annuity or other interest on the death of the deceased shall, where the deceased dies on or after the date of the passing of this Act, be ascertained, for the purposes of paragraph (d) of sub-section (1) of section 2 of the Finance Act, 1894, without regard to any expectant interest which the person who so becomes entitled to such beneficial interest on such death may have had in such annuity or other interest before such death.

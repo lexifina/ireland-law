@@ -1,0 +1,3 @@
+Exemption from entertainments duty.
+
+20.—As on and from the 10th day of May, 1934, entertainments duty within the meaning of section 1 of the Finance (New Duties) Act, 1916, as amended by subsequent enactments, shall not be charged or levied on payments for admission to any entertainment as respects which it is proved to the satisfaction of the Revenue Commissioners that the entertainment consists solely of an exhibition of any game or sport which is played or contested out of doors by two or more persons or by two or more groups of persons and does not involve the use or participation of horses, dogs, or other animals or the use of mechanically propelled vehicles.

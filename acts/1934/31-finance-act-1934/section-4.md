@@ -1,0 +1,3 @@
+Assessment of certain royalties and other payments.
+
+4.—The word “rents” wherever it occurs in the Income Tax Acts as part of the expression “stocks, shares, and rents” in relation to income arising outside Saorstát Eireann, shall include and be deemed always to have included any payment in the nature of a royalty and any annual or periodical payment in the nature of a rent derived from any lands, tenements, hereditaments, or heritages, including lands, tenements, hereditaments, or heritages to which the Rules of No. III of Schedule A of the Income Tax Act, 1918, or of Part I of the First Schedule to the Finance Act, 1929 (No. 32 of 1929), would apply or have applied if such lands, tenements, hereditaments, or heritages were situate in Saorstát Eireann.
