@@ -1,0 +1,25 @@
+Charging of, liability for, and recovery of stamp duty.
+
+[SA1891 s1(1) to (4)].
+
+2.—(1) Any instrument which—
+
+(a) is specified in Schedule 1, and
+
+(b) is executed in the State or, wherever executed, relates to any property situated in the State or any matter or thing done or to be done in the State,
+
+shall be chargeable with stamp duty.
+
+(2) The stamp duties to be charged for the benefit of the Central Fund on the several instruments specified in Schedule 1 shall be the several duties specified in that Schedule, which duties shall be subject to the exemptions contained in this Act and in any other enactment for the time being in force.
+
+(3) (a) Any instrument chargeable with stamp duty shall, unless it is written on duly stamped material, be duly stamped with the proper stamp duty before the expiration of 30 days after it is first executed, unless the opinion of the Commissioners with respect to the amount of duty with which the instrument is chargeable, has, before such expiration, been required under this Act.
+
+(b) If the opinion of the Commissioners with respect to any instrument chargeable with stamp duty has been required within 30 days after its first execution, the instrument shall be stamped in accordance with the assessment of the Commissioners within 14 days after notice of the assessment.
+
+(4) Where any instrument chargeable with stamp duty is not stamped or is insufficiently stamped—
+
+(a) the accountable person shall be liable, and
+
+(b) where there is more than one such accountable person they shall be liable jointly and severally,
+
+for the payment of the stamp duty or, where the instrument is insufficiently stamped, the additional stamp duty and such duty, additional duty and any penalty relating to any such duty shall be deemed to be a debt due by the accountable person to the Minister for the benefit of the Central Fund and shall be payable to the Commissioners and may (without prejudice to any other mode of recovery of the duty, additional duty and any penalty relating to such duty) be sued for and recovered by action, or other appropriate proceedings, at the suit of the Attorney General or the Minister or the Commissioners in any court of competent jurisdiction, notwithstanding anything to the contrary contained in the Inland Revenue Regulation Act, 1890.

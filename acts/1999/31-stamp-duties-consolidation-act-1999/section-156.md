@@ -1,0 +1,11 @@
+Discontinuance of dies.
+
+[SDMA 1891 s22; RA 1898 s10(1) and (2)].
+
+156.—(1) Whenever the Commissioners determine to discontinue the use of any die, and provide a new die to be used in lieu of the discontinued die, and give public notice of their determination in the Iris Oifigiúil, then from and after any day to be stated in the notice (such day not being within one month after the same is so published) the new die shall be the only lawful die for denoting the duty chargeable in any case in which the discontinued die would have been used and every instrument first executed by any person, or bearing date after the day so stated, and stamped with the discontinued die, shall be deemed to be not duly stamped.
+
+(2) Whenever the Commissioners give public notice in the Iris Oifigiúil that the use of any die has been discontinued, then, whether a new die has been provided or not, from and after any day to be stated in the notice (that day not being within one month after the notice is so published), that die shall not be a lawful die for denoting the payment of duty, and every instrument first executed by any person, or bearing date, after the day so stated in the notice, and stamped with duty denoted by the discontinued die, shall be deemed to be not duly stamped.
+
+(3) (a) If any instrument stamped with a discontinued die, and first executed after the day so stated at any place outside the State, is brought to the Commissioners within 14 days after it has been received in the State, then on proof of the facts to the satisfaction of the Commissioners the stamp on that instrument shall be cancelled, and the instrument shall be stamped with the same amount of duty by means of a lawful die without the payment of any penalty.
+
+(b) All persons having in their possession any material stamped with the discontinued die, and which by reason of the providing of such new die has been rendered useless, may at any time within 6 months after the day stated in the notice send the same to an office of the Commissioners, and the Commissioners may on receipt of that material cause the stamp on such material to be cancelled, and the same material, or, if the Commissioners think fit, any other material, to be stamped with a lawful die in lieu of and to an equal amount with the stamp so cancelled.

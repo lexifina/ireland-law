@@ -1,0 +1,5 @@
+As to sale of an annuity or right not before in existence.
+
+[SA1891 s60].
+
+32.— Where on the sale of any annuity or other right not previously in existence such annuity or other right is not created by actual grant or conveyance, but is only secured by bond, warrant of attorney, covenant, contract, or otherwise, the bond or other instrument, or some one of such instruments, if there be more than one, is to be charged with the same duty as an actual grant or conveyance, and is for the purposes of this Act to be deemed an instrument of conveyance on sale.

@@ -1,0 +1,11 @@
+Instruments to be separately charged with duty in certain cases.
+
+[SA1891 s4].
+
+7.— Except where express provision to the contrary is made by this or any other Act—
+
+(a) an instrument containing or relating to several distinct matters shall be separately and distinctly charged, as if it were a separate instrument, with duty in respect of each of the matters;
+
+(b) an instrument made for any consideration in respect of which it is chargeable with ad valorem duty, and also for any further or other valuable consideration or considerations, shall be separately and distinctly charged, as if it were a separate instrument, with duty in respect of each of the considerations;
+
+(c) without prejudice to the generality of paragraphs (a) and (b), where the consideration (other than rent) for the sale or lease of any property is partly attributable to residential property and partly attributable to property which is not residential property the instrument of conveyance or transfer or lease shall be chargeable to ad valorem stamp duty on the basis that it is a separate conveyance or transfer or lease of residential property to the extent that that consideration is attributable to residential property and also a separate conveyance or transfer or lease of property which is not residential property to the extent that that consideration is attributable to property which is not residential property.
