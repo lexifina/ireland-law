@@ -1,0 +1,11 @@
+Repayment of repayable advances.
+
+6.—(1) For the purpose of providing for the repayment by the Company of the advances made to it out of the Central Fund under section 3 of this Act, the Company shall make to the Minister for Finance half-yearly payments commencing on such date, and continuing for such number of years and being of such amounts and payable at such times as the Minister for Finance, after consultation with the Minister, shall appoint, and different dates, numbers of years, amounts, and times may be so appointed in respect of different portions of the advances.
+
+(2) The several half-yearly payments to be made to the Minister for Finance by the Company under this section shall be applied by the said Minister as sinking funds for the repayment of the several portions of the advances in respect of which the half-yearly payments are made and when the Company has paid to the said Minister the full number of half-yearly payments appointed under this section in respect of any portion of the advances (together with any interest which may have become payable under this section in respect of any of the half-yearly payments) that portion of the advances shall be deemed to be fully repaid by the Company, without prejudice to the liability of the Company for any interest then unpaid in respect of that portion of the advances.
+
+(3) If the Company fails to pay to the Minister for Finance any half-yearly payment or portion of a half-yearly payment payable by it to the said Minister under this section at the time appointed in that behalf under this section, the Company shall pay to the said Minister on the half-yearly payment or portion of a half-yearly payment interest at such rate as shall from time to time be appointed by the said Minister in respect thereof from the time appointed as aforesaid until the payment or portion is paid.
+
+(4) All moneys paid by the Company to the Minister for Finance under this section in repayment of advances shall be paid into the Exchequer.
+
+(5) All sums paid by the Company to the Minister for Finance under this section on foot of interest shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
