@@ -1,0 +1,11 @@
+Property vested in Dáil Eireann Trustees transferred to Minister for Finance.
+
+2.—(1) All moneys, investments, and other property which immediately before the passing of this Act were vested in or were in the custody, possession, or control of the Dáil Eireann Trustees or any of them or any persons or person acting on behalf or under the authority of the Dáil Eireann Trustees or any of them and were so vested or in such custody, possession, or control in trust for or on behalf of the Government of Saorstát Eireann, shall immediately after the passing of this Act be transferred to and become and be vested in the Minister, and all such conveyances, deeds, and other instruments as shall be necessary fully to effectuate such transfer shall, upon the request and at the cost of the Minister, be duly executed by the Dáil Eireann Trustees and all other necessary parties.
+
+(2) All liabilities, expenses, and payments necessarily and properly incurred or made by or on behalf of the Dáil Eireann Trustees in or about the execution of their duty as such Trustees and not otherwise paid or discharged prior to the passing of this Act, and the costs and expenses of effectuating the transfer of property to the Minister under this section, shall be paid or provided for by the Minister out of moneys to be provided by the Oireachtas.
+
+(3) All moneys, investments, and other property transferred to the Minister by or under this section shall be applied and disposed of in such manner as the Minister shall from time to time by order provide.
+
+Every order made by the Minister under this sub-section shall be laid before each House of the Oireachtas as soon as may be after it is made, and if a resolution is passed by Dáil Eireann within the next subsequent twenty-one days on which Dáil Eireann has sat annulling such order, such order shall be annulled accordingly, but without prejudice to the validity of anything previously done under such order, and any recommendation in respect of such order which shall be made by Seanad Eireann within such twenty-one days shall be duly considered by Dáil Eireann.
+
+(4) In this section the expression ‘the Dáil Eireann Trustees’ means and includes all persons appointed by the First Dáil Eireann or by the Second Dáil Eireann to be trustees for Dáil Eireann as the Government of Saorstát Eireann as then constituted.
