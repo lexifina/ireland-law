@@ -1,0 +1,3 @@
+Regulation 6
+
+6. An intending apprentice shall lodge with the Society a petition and memorial in Form No. AE 2, or AE 3 in the Schedule hereto, accompanied by a certificate as to his character from the head-master of the last school which he attended or some other credible person and his birth certificate, and shall, when required, attend personally before the Court of Examiners for interview. If the Court of Examiners are satisfied with the evidence of character furnished they shall issue written consent to the entry of such person into indentures of apprenticeship in Form No. AE 4 in the Schedule hereto, signed either by the Chairman of the Court of Examiners or by the Secretary.

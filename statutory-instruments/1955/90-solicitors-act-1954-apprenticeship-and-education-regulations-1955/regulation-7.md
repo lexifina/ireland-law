@@ -1,0 +1,3 @@
+Regulation 7
+
+7. A first examination in the Irish language shall be held in each year in the months of January or February, June or July, and September or October. Every intending apprentice who was born on or after 2nd October 1914 shall pass a first examination in the Irish language before entering into indentures of apprenticeship. Such person may attend a first examination in Irish at any time after lodging the petition and memorial mentioned in regulation 6 hereof. Notice of intention to attend the examination shall be in Form No. AE 1 in the schedule hereto and shall be lodged with the Society at least three weeks before the date of the examination.
