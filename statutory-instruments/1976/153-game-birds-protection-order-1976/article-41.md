@@ -1,0 +1,5 @@
+Article 41
+
+41. Lough Cullin or Holly Lake in the County of Kilkenny.
+
+The area in the County of Kilkenny enclosed by an imaginary line drawn, when travelling northwards, along the right hand edge of the public road in the townlands of Ballincrea, Atateemore (or Blackneys) and Nicholastown and which passing through the village of Ballincrea joins the public road from Ardbeg to Bishopshall with the public road which is in the townlands of Ballincrea and Fahy, then crossing from the north end of the public road first-mentioned in this paragraph to the northern edge of the said public road from Ardbeg to Bishopshall and continuing along that edge to the west edge of the public road from Fahy to Rathpatrick cross roads at the T Junction approximately one mile distant, then continuing initially along the western edge of the said public road from Fahy to Rathpatrick cross roads to the point which is opposite the point where the said right-hand edge meets the last mentioned public road, and finally crossing the last-mentioned public road to the last mentioned point.
