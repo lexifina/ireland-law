@@ -1,0 +1,7 @@
+Article 8
+
+8. A person pensionable in accordance with this Order, having been granted an ordinary pension, shall be entitled also to receive a gratuity (in this Order referred to as a retirement gratuity) which shall be calculated as follows :
+
+(a) in case he was serving as a member of the force on the 1st day of January, 1950, and was appointed (or if he had two or more separate periods of service, was first appointed) to the force after his 27th birthday, it shall be calculated at the rate of one-thirtieth of his annual pay for each completed year of approved service (so much of the approved service as is service after his 47th birthday being doubled) subject to a maximum of one and one-half times his annual pay : Provided that, in case he was serving as a member of the force on the critical date, the result of the said calculation shall be increased by one-half of one per cent. for each completed year of approved service (none thereof being doubled) before the critical date ; and
+
+(b) in any other case, it shall be calculated at the rate of one-thirtieth of his annual pay for each completed year of approved service together with an additional thirtieth of his annual pay for the twenty-first and each subsequent year of approved service, subject to a maximum of one and one-half times his annual pay : Provided that, in case he was serving as a member of the force on the critical date, the result of the said calculation shall be increased by one-half of one per cent. for each completed year of approved service before the critical date.
