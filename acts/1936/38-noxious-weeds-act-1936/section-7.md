@@ -1,0 +1,3 @@
+Obstruction.
+
+7.—Any person on or about any land who refuses to furnish to any member of the Gárda Síochána or to any inspector information in his possession as to the ownership, occupation, or use of such land, or who knowingly gives to any such member or inspector false information as to the ownership, occupation, or use of such land, or who obstructs any such member or inspector or any person acting on the direction of the Minister under this Act in the exercise of any of the powers vested in or in the performance of any duties imposed on any such member, inspector, or person by this Act, shall be guilty of an offence under this Act and shall on summary conviction thereof be liable to a fine not exceeding twenty pounds.
