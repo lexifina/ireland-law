@@ -1,0 +1,3 @@
+In certain cases persons appointed may enter on duties before certificate issued.
+
+7.—When a person has been selected for appointment to a situation in any Government Department, and the state of business in that Department makes it necessary that the person so selected should enter upon his duties before the issue by the Commissioners of a certificate of his qualification, the Minister for Finance may, if he thinks proper and is satisfied that the delay in the issue of such certificate is wholly due to causes beyond the control of such person, direct that the salary of such person shall be payable from the date on which he commences the discharge of his duties.

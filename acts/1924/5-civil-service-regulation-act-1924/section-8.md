@@ -1,0 +1,5 @@
+The Commissioners to hold examinations for Army and Police and if required certain other examinations.
+
+8.—(1) The Commissioners shall conduct all examinations in Saorstát Eireann which are by statute or other authority required to be conducted by Civil Service Commissioners, and shall also conduct all educational examinations, whether competitive or qualifying, for the time being required by law to be held for situations in the Defence Forces of Saorstát Eireann or in the Dublin Metropolitan Police, the Gárda Síochána, or any other police force in Saorstát Eireann, and shall also if so required by the Executive Council, or by statute, conduct examinations for situations in the service of any local authority, and shall also conduct such other examinations as the Executive Council shall from time to time require to be conducted by the Commissioners.
+
+(2) The Commissioners may with the consent of the Minister for Finance, from time to time make regulations for the conduct of examinations to be held by them under this Section.
