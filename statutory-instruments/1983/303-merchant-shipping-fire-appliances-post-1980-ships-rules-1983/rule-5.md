@@ -1,0 +1,7 @@
+Rule 5
+
+5. (1) In every ship of Class I of 1,000 tons or over and in every ship of Class I engaged in the carriage of dangerous goods there shall be provided a fixed fire extinguishing installation complying with the requirements of the Ninth Schedule to these Rules to protect every cargo space except special category spaces and cargo spaces intended for the carriage of motor vehicles with fuel in their tanks for their own propulsion.
+
+(2) The Minister may exempt any ship (other than a ship engaged in the carriage of dangerous goods) from the requirements of this Rule if he is satisfied that to require compliance therewith would be unreasonable on account of the short duration of the voyages on which the ship is engaged.
+
+6 ..
