@@ -1,0 +1,3 @@
+Article 5
+
+5. The duty imposed by this Order, in so far as it is chargeable on toys made wholly or mainly of wood, is in substitution for the duty imposed by Section 1 of the Finance (Customs Duties) (No. 4) Act, 1932 (No. 34 of 1932), and mentioned at reference number 16 (sub-paragraph (12) of paragraph (d) in the second column in the First Schedule to that Act as amended by Section 21 of the Finance Act, 1934 (No. 31 of 1934), and the Seventh Schedule (reference number 10) to that Act, and accordingly the said duty imposed by the said Section 1 and mentioned and amended as aforesaid shall not be charged or levied on any toy made wholly or mainly of wood which is imported into Saorstát Eireann on or after the 18th day of January, 1936.
