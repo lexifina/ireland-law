@@ -1,0 +1,3 @@
+Rule 4
+
+4. A qualified child, whose father is alive and who is resident elsewhere than with a parent or a step-parent, shall, where his father is entitled to his custody whether solely or jointly with any other person, be regarded as normally residing with his father and with no other person, save that where the child's mother or step-mother is wholly or mainly maintaining the child and the child's father is incapable of self-support by reason of some physical or mental infirmity, the child shall be regarded as normally residing with his mother or his step-mother as the case may be and with no other person.
