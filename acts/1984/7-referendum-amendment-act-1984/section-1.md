@@ -1,0 +1,43 @@
+Constitutional referendum in relation to Ninth Amendment of the Constitution Bill, 1984.
+
+1.—At a constitutional referendum in relation to the Ninth Amendment of the Constitution Bill, 1984—
+
+(a) a polling card sent under section 64 (1) of the Electoral Act, 1963, shall contain the statement set out in the Appendix to this section,
+
+(b) a polling card shall also be sent by the local returning officer for a constituency to every elector whose name is on the register of Dáil electors for such constituency and is on the postal voters' list for such constituency,
+
+(c) a polling card sent under paragraph (b) of this section—
+
+(i) shall indicate that it is for a postal voter and shall accordingly not state the number and place referred to in the said section 64 (1),
+
+(ii) shall contain the statement referred to in paragraph (a) of this section, and
+
+(iii) shall be sent by post to the elector at the same time as his ballot paper is sent, being addressed to him at the same address as is stated on the envelope in which the ballot paper is sent,
+
+(d) subsections (3) to (6) of the said section 64 shall apply in relation to polling cards sent under paragraph (b) of this section,
+
+(e) copies of the statement referred to in paragraph (a) of this section shall be displayed by a presiding officer in and in the precincts of his polling station:
+
+Provided that the referendum shall not be invalidated by reason of any failure to display such copies in or in the precincts of any polling station,
+
+(f) in applying Rule 18 (inserted by the Electoral Act, 1963) of the First Schedule to the Referendum Act, 1942, the following paragraph shall be substituted for paragraph (5)—
+
+“(5) (a) Where a ballot paper is to be marked pursuant to paragraph (3) of this Rule, the presiding officer may assist the voter by reading out in full from the ballot paper the proposal stated therein and asking the voter ‘Do you approve of or do you object to that Bill becoming law?’ and shall then, unless it is a case to which subparagraph (b) of this paragraph applies, mark the ballot paper in accordance with the answer of the voter, but he shall not act on any written instruction.
+
+(b) Where the voter fails to understand the import of the said question, the presiding officer—
+
+(i) shall read out to the voter paragraph 1 of the statement set out in the Appendix to section 1 of the Referendum (Amendment) Act, 1984,
+
+(ii) shall then ask the voter ‘Which do you wish to do—to vote in favour of the proposal to change the Constitution or to vote against the proposal to change the Constitution?’, and
+
+(iii) shall then mark the ballot paper in accordance with the answer of the voter, but shall not act on any written instruction.”.
+
+APPENDIX
+
+1. The Ninth Amendment of the Constitution Bill, 1984, proposes to extend the right conferred on citizens to vote at elections for members of Dáil Éireann to such other persons in the State who have reached the age of 18 years as may be specified by legislation enacted by the Oireachtas.
+
+2. If you APPROVE of the proposal, mark X opposite the word YES on the ballot paper.
+
+3. If you DO NOT APPROVE of the proposal, mark X opposite the word NO on the ballot paper.
+
+4. A copy of the Bill can be inspected free of charge, and purchased for two and a half pence, at any Post Office.
