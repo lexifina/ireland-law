@@ -1,0 +1,3 @@
+Insertion of additional particulars in ballot paper.
+
+6.—The Principal Act shall be construed and have effect as if the Form of Ballot Paper set out in Part I of the Schedule to this Act were inserted in Part III of the Fifth Schedule to the Principal Act in lieu of Form No. 6 now contained in the said Part III of the said Fifth Schedule and the Directions as to Printing Ballot Paper set out in Part II of the Schedule to this Act were inserted at the end of Form No. 7 in the said Part III of the said Fifth Schedule to the Principal Act in lieu of the Directions as to Printing Ballot Paper now set out at the end of the said Form No. 7 in the said Part III of the said Fifth Schedule.

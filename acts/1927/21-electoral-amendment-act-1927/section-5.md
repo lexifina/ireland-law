@@ -1,0 +1,3 @@
+Registered electors entitled to subscribe nomination papers.
+
+5.—Whenever the date appointed by the Principal Act or this Act for the coming into force of a new register of electors occurs after the issue of the writs for a general election or the writ for a bye-election and on or before the last day for receiving nominations for such general election or bye-election (as the case may be), the expression “registered elector” in sub-section (1) of section 19 of the Principal Act shall be construed as meaning a person who is registered as an elector either in such new register of electors or in the register of electors which was in force immediately before the coming into force of such new register, and the said sub-section shall have effect accordingly.
