@@ -1,0 +1,7 @@
+Regulation 18
+
+18. Calcium carbide.
+
+PART V
+
+PRECAUTIONS IN CASE OF OUTBREAKS OF FIRE
