@@ -1,0 +1,3 @@
+Rule 12
+
+12. Where, subsequent to the arrest and imprisonment of a debtor under section 6 of the Amending Act, the amount of the arrears of instalments and costs specified in the order of arrest and imprisonment is paid to the Clerk, he shall deliver a certificate of payment to the person making the payment on behalf of the debtor, and shall with all reasonable celerity forward a similar certificate of payment to the Governor of the prison in which the debtor is imprisoned, and to the creditor or his Solicitor respectively. Such certificate of payment shall be in accordance with such modification of Form VII in the Schedule hereto as may be suitable.
