@@ -1,0 +1,3 @@
+Article 5
+
+5. Neither the duty imposed by Section 12 of the Finance Act, 1934 (No. 31 of 1934), on the articles mentioned in Part II of the Fourth Schedule to that Act at reference number 15 nor the duty imposed by the Emergency Imposition of Duties (No. 226) Order, 1946 ( S. R. & O. No. 129 of 1946 ), on the articles mentioned in paragraph (f) of Article 4 of that Order shall be charged or levied on articles chargeable with the duty imposed by this Order, but this provision shall not affect paragraph (c) of Article 5 of the Emergency Imposition of Duties (No. 222) Order, 1941 ( S. R. & O. No. 421 of 1941 ).
