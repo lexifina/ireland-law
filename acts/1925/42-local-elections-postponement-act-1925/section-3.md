@@ -1,0 +1,3 @@
+Computation of periods of office or time.
+
+3.—Section 7 of the Local Elections Postponement Act, 1922 (No. 4 of 1922), is hereby repealed and in lieu thereof it is hereby enacted that in the case of every local body to which this Act applies every period of office or other period of time required by law to be computed from or by reference to the date of a statutory election postponed by or under the Local Elections Postponement Act, 1922, as amended by subsequent legislation (other than periods relating to the first meeting after a statutory election) shall be computed from the date on which such election was actually held and not from the date on which such election would have been held if the said Act had not been passed.
