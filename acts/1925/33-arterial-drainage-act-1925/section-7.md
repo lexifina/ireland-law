@@ -1,0 +1,13 @@
+Publication of notices of drainage scheme.
+
+7.—(1) When a drainage scheme has been prepared by the Commissioners under this Act, the Commissioners shall—
+
+(a) publish by advertisement in the Iris Oifigiúil and one or more newspapers circulating in the district to which the scheme relates a notice stating that the scheme has been made, and the townlands to which it relates, and naming a convenient place where the scheme (with all maps and other documents annexed thereto) or a copy thereof can be inspected, and
+
+(b) serve on all rated occupiers of lands proposed in the scheme to be drained or improved a copy of the notice to be published in the Iris Oifigiúil pursuant to the foregoing paragraph and also a notice requiring the rated occupier on whom the same is served to inform the Commissioners in the manner and within the time (not being less than one month) therein specified whether he assents to or dissents from the scheme and whether he has any, and if so what, objection to the scheme or any map or other document annexed thereto, and
+
+(c) serve on all reputed proprietors, owners, and occupiers of lands, rights, or other property proposed in the scheme to be compulsorily acquired, interfered with, or otherwise affected a copy of the notice to be published in the Iris Oifigiúil as aforesaid and also a notice informing such proprietor, owner, or occupier that the scheme proposes the compulsory acquisition of or interference with some land, right, or other property (which interference (if any) and property shall be fully described in the notice) owned or occupied by him and requiring him, if he has any objection to the scheme or any map or other document annexed thereto, to communicate such objection to the Commissioners in the manner and within the time (not being less than one month) therein specified, and
+
+(d) serve on the local authority charged with the maintenance of any public road or bridge proposed in the scheme to be diverted, removed, or otherwise interfered with a copy of the notice to be published in the Iris Oifigiúil as aforesaid and also a notice informing such local authority of the diversion, removal, or other interference so proposed.
+
+(2) Every notice and other document to be served under this section may be served by sending the same by prepaid post in an envelope addressed to the person to be served therewith at his usual or last-known address, or (where no such address is known) at the lands or the place of situation of the right or property to which the notice relates, and every notice or other document so served shall be deemed to be served at the time at which the envelope containing the same would be delivered at the address named thereon in the ordinary course of post.

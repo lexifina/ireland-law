@@ -1,0 +1,7 @@
+Rated occupiers may petition county council.
+
+2.—(1) Any six or more persons being rated occupiers of lands which are liable to be flooded or injured by water or which are capable of being improved by drainage or being persons upon trust for whom or for whose benefit any such lands are held by the rated occupiers thereof may apply to the council of the county or to the respective councils of the several counties in which such lands are situate to have drainage works executed for the purpose of draining or improving such lands and to have such lands, either together with or without other lands in the neighbourhood thereof, constituted to be a separate drainage district.
+
+(2) Every application to the council of a county under this section shall be made by petition presented to the council and every such petition shall be in writing in such form as shall be prescribed by the Commissioners and shall state in general terms the drainage works which it is thereby proposed should be executed and shall have annexed thereto a map showing the lands thereby proposed to be constituted a separate drainage district.
+
+(3) Where the lands proposed by any such petition to be constituted a separate drainage district are situate in more than one county, the petition shall be presented to the council of every county in which any part of such lands is situate notwithstanding that the portion of such lands occupied by the petitioners may not extend into every such county.

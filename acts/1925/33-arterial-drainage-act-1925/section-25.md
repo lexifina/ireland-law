@@ -1,0 +1,3 @@
+Application of Drainage Maintenance Acts, 1866 and 1924.
+
+25.—The Drainage Maintenance Acts, 1866 and 1924, shall apply to every drainage district constituted under this Act with the modifications that any charging order made under those Acts shall make no charge other than the additional charge directed by section 8 of the Drainage Maintenance Act, 1924, to be made thereby and that the sums and interest thereby charged on the county fund of a county council shall be paid by such council out of moneys raised by such council by means of a drainage rate under this Act (which rate the council is hereby authorised to make) and, if and so far as such moneys are not sufficient, out of the county fund.

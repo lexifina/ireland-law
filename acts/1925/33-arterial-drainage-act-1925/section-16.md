@@ -1,0 +1,5 @@
+Terminable annuity for repayment of advances by Commissioners.
+
+16.—(1) Interest at the rate directed by the Minister for Finance on the advances by the Commissioners from the date or respective dates on which the same were advanced up to the commencement of the terminable annuity for the repayment thereof shall be capitalised and the total amount of such advances and the capitalised interest thereon shall be repaid to the Commissioners with interest at the rate directed by the Minister for Finance by means of a terminable annuity calculated in such manner and continuing for such number of years as the Minister for Finance shall direct.
+
+(2) The final award shall, in addition to the amount of the terminable annuity, prescribe the date (not being more than three months before or three months after the date of the final award) from which the said terminable annuity is to commence, the half-yearly days on which the same is to be payable, and the number of years during which it is to continue, and the said annuity shall be payable accordingly.

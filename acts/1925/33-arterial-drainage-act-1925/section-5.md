@@ -1,0 +1,3 @@
+Procedure when Commissioners decide against petition.
+
+5.—If the Commissioners, having considered the resolution or resolutions and petition of which copies are sent to them by the secretary of a county council or secretaries of county councils pursuant to this Act and the reports of such persons as they shall have appointed to report on the proposals contained in such petition, are of opinion that the circumstances are not such as to justify the preparation of a drainage scheme or the constitution of a separate drainage district they shall so inform such county council or county councils and shall at the same time communicate to such council or councils the reasons on which such opinion is based.

@@ -1,0 +1,7 @@
+Making of drainage rate.
+
+21.—(1) All moneys which are by this Act required to be raised for the purposes of a drainage district by the council of a county by means of the drainage rate shall be raised by means of a rate (to be known as the drainage rate) assessed on the rated occupiers of the lands situate in the county and stated in the final award to have been drained or improved in the proportions in which such lands are stated in such final award to be liable to contribute to the drainage rate.
+
+(2) The drainage rate shall be made at the same time and subject to the same appeal as the poor-rate and, if the county council so thinks fit, may be collected with the poor rate, and shall in any case be leviable, payable, and recoverable in the like manner and by the like means in all respects as poor-rate is leviable, payable, and recoverable.
+
+(3) Where the rated occupier of any lands, buildings, or premises rated in respect of a drainage rate is also the rated occupier of other lands, buildings, or premises forming part of or comprised in the same holding, farm, or tenement as the first-mentioned lands, buildings, or premises, any sum assessed on such rated occupier in respect of drainage rate under this section may be assessed on and collected and recovered from him in like manner as if such sum were payable in respect of his occupation of the whole of such holding, farm, or tenement.
