@@ -1,0 +1,7 @@
+Transfer of liabilities of abolished bodies.
+
+5.—(1) Every debt and other liability (including stock and mortgage debts and also including unliquidated liabilities arising from torts or breaches of contract) which immediately before the appointed day is owing and unpaid or has been incurred and is undischarged by any of the abolished bodies shall, on the appointed day, become and be the debt or liability of the successor of such abolished body and shall be paid or discharged by and may be recovered from or enforced against such successor accordingly.
+
+(2) Every debt the liability for which is transferred by this section and which is immediately before the appointed day charged on a rate leviable by or on the revenues or any part of the revenues of any of the abolished bodies shall, on and after the appointed day, be charged on the municipal fund and the municipal rate of the successor of such abolished body in like manner as it was previously charged on the said rate leviable by or on the revenues or part of the revenues of such abolished body.
+
+(3) The abolition of an abolished body shall not invalidate or affect any paying order which may have been issued by such abolished body and not presented for payment before the appointed day, nor any authority given by such abolished body for the payment of the amount of such paying order, and the successor of such abolished body shall make arrangements for the payment of the amount of every such paying order upon due presentation within a reasonable time after the appointed day.

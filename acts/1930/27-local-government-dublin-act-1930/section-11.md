@@ -1,0 +1,7 @@
+Collection of rates due or accruing to abolished bodies.
+
+11.—(1) All rates which immediately before the appointed day are due and payable to any abolished body shall on and after the appointed day be due and payable to and may be collected and recovered by or on behalf of the successor of such abolished body in like manner as they could have been collected or recovered by or on behalf of such abolished body if it had not been dissolved.
+
+(2) All rates which immediately before the appointed day are accruing due to any abolished body shall on and after the appointed day accrue and be deemed always to have accrued due to the successor of such body and when any such rate becomes due and payable the same shall be due and payable to and may be collected and recovered by or on behalf of such successor in like manner as it could have been collected or recovered by or on behalf of such abolished body if such body had not been dissolved.
+
+(3) Every rate collector of the council of an added urban district or a coastal urban district who is in office as such rate collector immediately before the appointed day shall, on and after the appointed day, unless or until the successor of such council otherwise directs, collect and recover on behalf of such successor all rates which immediately before the appointed day were due and payable to or were accruing due to such council and had been given in charge to him for collection.

@@ -1,0 +1,5 @@
+Employees of abolished bodies.
+
+25.—(1) For the purposes of any enactment empowering the City Corporation to grant to any of its employees other than officers an allowance in respect of the loss of his employment, an employee of the City Corporation who was previously employed by the County Council the Board of Health a rural district council or an abolished body of which the City Corporation is the successor shall be entitled to reckon his employment by the County Council the Board of Health such rural district council or such abolished body (as the case may be) as employment by the City Corporation.
+
+(2) For the purposes of any enactment (including this Act) empowering the Borough Corporation to grant to any of its employees other than officers an allowance in respect of the loss of his employment, an employee of the Borough Corporation who was previously employed by an abolished body of which the Borough Corporation is the successor shall be entitled to reckon his employment by such abolished body as employment by the Borough Corporation.

@@ -1,0 +1,5 @@
+Audit of accounts of abolished bodies.
+
+13.—(1) The accounts of all receipts and expenditure of the several abolished bodies and of committees thereof and of the respective officers of such bodies and committees up to the appointed day shall, as soon as conveniently may be after that day, be audited and disallowances, surcharges, charges and penalties in relation to such accounts, receipts, and expenditure shall be made, recovered and enforced in like manner as nearly as may be as if this Act had not been passed.
+
+(2) Every officer of any of the abolished bodies or of any committee thereof whose duty it is to make up any accounts of or to account for any portion of the receipts or expenditure of such abolished body and also every member of any such abolished body or committee shall, until the audit of the accounts of such receipts and expenditure up to the appointed day is completed, be deemed for the purposes of such audit to continue in office and be bound to perform the same duties and render the same accounts and be subject to the same liabilities as if this Act had not been passed.

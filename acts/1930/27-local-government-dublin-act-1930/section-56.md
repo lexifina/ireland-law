@@ -1,0 +1,3 @@
+Preparation of plans, etc., by the manager for the Council.
+
+56.—The Council may at any time by resolution require the manager to prepare and submit to the Council plans and specifications for the execution of any particular work specified in such resolution which can lawfully be executed by the Corporation, together with an estimate of the probable cost of the execution of such work, and whenever the Council passes any such resolution the manager shall, as soon as conveniently may be, prepare and submit to the Council plans and specifications and an estimate in accordance with such resolution.

@@ -1,0 +1,3 @@
+Continuance of resolutions, etc.
+
+9.—Every resolution passed, order made, and notice served by any of the abolished bodies before the appointed day the operation, effect, or term of which has not ceased or expired before that day shall, on and after the appointed day and so far as is not inconsistent with this Act, continue in force and have effect as if it were a resolution passed, order made, or notice served by the successor of such abolished body on the date on which the same was actually passed, made, or served by such abolished body and as if such successor were on the last-mentioned date already the successor of such abolished body.

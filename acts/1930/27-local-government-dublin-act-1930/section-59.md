@@ -1,0 +1,5 @@
+Control, etc., of officers and servants of the Corporation.
+
+59.—(1) The officers and servants of the Corporation shall perform their duties as such officers and servants in accordance with such directions as the manager may from time to time give either generally or in regard to the performance of any particular duty or any particular class or classes of duties or in regard to the performance of any such duty by any particular officer or servant of the Corporation, and the manager shall have and exercise control and full supervision of and over such officers and servants and any and every act or thing done or to be done by them in their capacity as officers and servants of the Corporation.
+
+(2) Subject to any regulations made by the Minister under any Act and for the time being in force in relation to the service, remuneration, privileges, or superannuation (as the case may be) of the officers and servants of a local authority, the manager shall consider and decide all such questions as may from time to time arise in relation to the service, remuneration, privileges, and superannuation of the officers and servants of the Corporation.

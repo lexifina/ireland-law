@@ -1,0 +1,3 @@
+Preservation of contracts of service with Rural District Councils.
+
+84.—Every contract of service express or implied which is in force immediately before the fourteenth day after the day of election between a rural district council whose functional area is within the county and any person not being an officer of such rural district council shall continue in force on and after the fourteenth day after the day of election, but shall be construed and have effect as if the County Council or the Board of Health (as circumstances may require) were substituted therein for such rural district council, and such contract shall be enforceable against the County Council or the Board of Health accordingly

@@ -1,0 +1,9 @@
+Application of the School Attendance Act, 1926.
+
+89.—(1) The several areas of the Blackrock Urban District, the Dun Laoghaire Urban District, the Rathmines and Rathgar Urban District, the Pembroke Urban District and the several school attendance areas subsisting at the passing of this Act in the City shall until the 1st day of April, 1931 continue to be and shall then cease to be school attendance areas within the meaning of the School Attendance Act, 1926 (No. 17 of 1926) and on and after the 1st day of April, 1931 the City and the Borough shall respectively become and be school attendance areas within the meaning of that Act.
+
+(2) On and after the 1st day of April, 1931 the School Attendance Act, 1926 shall have effect in the City, the Borough, and the County as if the City and the Borough were mentioned in the Schedule to that Act and the County Borough of Dublin and the said four urban districts were omitted from the said Schedule.
+
+(3) In the application of the School Attendance Act, 1926 to the City and the Borough, the 1st day of April, 1931 shall be deemed to have been prescribed by the Minister for Education under section 10 of that Act as the time for the commencement of the term of office of the successors in the City and the Borough respectively of the committees referred to in that section as the first school attendance committees.
+
+(4) A division of the City (including the added rural area) and the Borough respectively into two or more school attendance areas under sub-section (1) of section 10 of the School Attendance Act, 1926, and the appointment of a school attendance committee under sub-section (3) of the said section 10 for any school attendance area co-terminous with or included in the City (including the added rural area) or the Borough may be made before the 1st day of April, 1931, to take effect on that day.

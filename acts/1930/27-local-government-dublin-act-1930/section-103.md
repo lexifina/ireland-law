@@ -1,0 +1,7 @@
+Redundant Private Acts and orders.
+
+103.—(1) Where it appears to the Minister that any local personal, or private Act or any order relating to the existing City or to either of the added urban districts and in force at the passing of this Act contains provisions which are inconsistent with or rendered unnecessary by or adequately replaced by provisions made by or under this Act, the Minister may by order declare that such provisions of such Act or order shall not apply in or in relation to the City, and upon such order being made the provisions specified therein of such Act or order shall not apply in on in relation to the City.
+
+(2) Where it appears to the Minister that any local, personal or private Act or any order relating to any of the coastal urban districts and in force at the passing of this Act contains provisions which are inconsistent with or rendered unnecessary by or adequately replaced by provisions made by or under this Act, the Minister may by order declare that such provisions of such Act or order shall not apply in or in relation to the Borough, and upon such order being made the provisions specified therein of such Act or order shall not apply in or in relation to the Borough.
+
+(3) No order made under this section shall come into force unless and until it has been laid before each House of the Oireachtas and has been approved by resolution of each such House.
