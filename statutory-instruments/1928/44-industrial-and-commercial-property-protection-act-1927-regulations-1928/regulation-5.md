@@ -1,0 +1,3 @@
+Regulation 5
+
+5. In the case of any detention in consequence of a notice in the Form No. 3 given to the said Commissioners, the person who signed the notice, whether as owner or agent, must, if so required, deposit with the Collector of Customs and Excise or other Chief Officer of Customs and Excise at the port or place of detention a sum of money sufficient in the opinion of that Officer to cover any expense which may be incurred in the examination required by reason of such notice, and if upon the examination of the goods the said Collector or other Chief Officer is satisfied that there is no ground for their detention, they will be delivered.

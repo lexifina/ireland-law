@@ -1,0 +1,3 @@
+Regulation 1
+
+1. The Notice in writing to be given to the Revenue Commissioners (hereinafter referred to as the said Commissioners) under section one hundred and sixty-five of the Industrial and Commercial Property (Protection) Act, 1927 , by the owner of the copyright in any work (which is a book or other printed work) in which copyright subsists in Saorstát Eireann, or his agent, who is desirous that copies thereof printed or reprinted out of Saorstát Eireann shall not be imported into Saorstát Eireann, shall be a general notice in the Form No. 1 in the Schedule hereto or as near thereto as circumstances permit, or a special notice in the Form No. 3 in the same Schedule relating to a particular importation.

@@ -1,0 +1,3 @@
+Regulation 6
+
+6. If any goods are placed under detention in consequence of any notice given in pursuance of these Regulations, the said Commissioners may require the person who signed the notice to give an undertaking in writing to reimburse them all expenses and damages incurred in respect of the detention, and of any proceedings consequent upon or arising out of such detention, if such an undertaking has not already been given, and may also require him within four days after the detention to enter into a bond with two approved sureties in such form and for such amount as the said Commissioners may require.

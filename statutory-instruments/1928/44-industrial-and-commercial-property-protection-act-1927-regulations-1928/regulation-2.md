@@ -1,0 +1,3 @@
+Regulation 2
+
+2. The notice in writing to be given to the said Commissioners under section one hundred and sixty-five of the Industrial and Commercial Property (Protection) Act, 1927 , by the owner of the copyright in any work (other than a book or other printed work) in which copyright subsists in Saorstát Eireann, or his agent, who is desirous that copies thereof made out of Saorstát Eireann shall not be imported into Saorstát Eireann, may be either a general notice in the Form No. 2 in the Schedule hereto or as near thereto as circumstances permit, or a special notice in the Form No. 3 in the same Schedule relating to a particular importation.
