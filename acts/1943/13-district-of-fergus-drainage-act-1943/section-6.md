@@ -1,0 +1,5 @@
+Incorporation of new works in the Fergus drainage works.
+
+6.—(1) When the works (in this section referred to as the new works) specified in clauses (D) and (F) respectively, of paragraph 2 of the Scheduled Consent have been completed, those works and the drainage works (in this section referred to as the old works) specified in Schedule B to the Final Award dated the 30th day of October, 1860, shall together form and be, for all purposes, the drainage works of the Fergus District, but, as respects the old works, so far only as those works are essential for the purposes of the said District.
+
+(2) In order to give effect to the foregoing sub-section of this section, the Commissioners, on the completion of the new works, shall by an order to be made by them, so amend Schedule B to the Final Award dated the 30th day of October, 1860, that the drainage works described in the said Schedule B as amended by the said order shall comprise both the old works (so far as those works are essential for the purposes of the Fergus District) and the new works.

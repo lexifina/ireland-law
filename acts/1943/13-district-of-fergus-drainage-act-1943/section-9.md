@@ -1,0 +1,5 @@
+Preservation of a certain Order and certain powers, etc.
+
+9.—(1) Nothing in this Act shall prejudice or affect the validity or the operation of the Order dated the 17th day of November, 1931, made by the Minister for Local Government and Public Health under section 20 of the Local Government Act, 1898, as amended by section 3 of the Drainage Maintenance Act, 1924 (No. 46 of 1924), whereby the business of the trustees of the Fergus District was transferred to the Councils.
+
+(2) The powers, duties, and responsibilities of the Councils in respect of the Fergus District and the drainage works thereof shall not be suspended, terminated, or affected by the exercise by the Commissioners of any of the powers conferred on them by this Act save that, on and after the date of the charging order under this Act, the powers, duties, and responsibilities of the Councils in relation to the maintenance of drainage works in the said District shall extend and be limited to the drainage works specified in Schedule B to the Final Award dated the 30th day of October, 1860, as amended by the Commissioners under this Act.

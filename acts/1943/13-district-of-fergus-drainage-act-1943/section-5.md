@@ -1,0 +1,5 @@
+Execution of works by the Commissioners.
+
+5.—(1) It shall be lawful for the Commissioners to enter upon the lands comprised in the Fergus District and there execute and complete the works specified in clauses (D) and (F), respectively, of paragraph 2 of the Scheduled Consent and for that purpose the Commissioners shall have and may exercise all or any of the powers in relation to the execution or repair of drainage works conferred on them by the Drainage Maintenance Acts, 1866 and 1924.
+
+(2) A certificate under the hand of an engineer appointed for that purpose by the Commissioners that he has inspected the works executed by the Commissioners under this section and that those works include all the works specified in clauses (D) and (F) respectively of paragraph 2 of the Scheduled Consent and have been completed to his satisfaction shall be conclusive evidence for all purposes that the said works specified in the said clauses respectively have been duly completed by the Commissioners in accordance with the Scheduled Consent.
