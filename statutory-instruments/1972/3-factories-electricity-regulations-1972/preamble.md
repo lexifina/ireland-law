@@ -1,0 +1,11 @@
+S.I. No. 3 of 1972.
+
+FACTORIES (ELECTRICITY) REGULATIONS, 1972.
+
+ARRANGEMENT OF REGULATIONS.
+
+PART I.
+
+Preliminary and General.
+
+Regulation
