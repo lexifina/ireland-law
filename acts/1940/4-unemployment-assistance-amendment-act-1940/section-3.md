@@ -1,0 +1,3 @@
+Raising of moneys payable by corporations of county boroughs.
+
+3.—Notwithstanding anything contained in sub-section (3) of section 26 of the Principal Act, all moneys payable (whether before or after the passing of this Act) under section 26 of the Principal Act as amended or otherwise affected by this Act to the Minister by the corporation of any of the county boroughs of Cork, Limerick, and Waterford, after the rates leviable by such corporation have or shall have been consolidated into a single municipal rate, shall be raised by such corporation by means of such municipal rate but as a separate item thereof.
