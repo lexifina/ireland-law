@@ -1,0 +1,3 @@
+Broadcast statements.
+
+15.—For the purposes of the law of libel and slander the broadcasting of words by means of wireless telegraphy shall be treated as publication in permanent form.

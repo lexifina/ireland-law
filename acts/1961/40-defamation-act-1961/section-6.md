@@ -1,0 +1,9 @@
+Plea of truth of matters charged on trial for defamatory libel and that publication was for public benefit.
+
+6.—On the trial of any indictment for a defamatory libel, the person charged having pleaded such plea as hereinafter mentioned, the truth of the matters charged may be inquired into but shall not amount to a defence, unless it was for the public benefit that the said matters charged should be published; and, to entitle thedefendant to give evidence of the truth of such matters charged as a defence to such indictment, it shall be necessary for the person charged, in pleading to the said indictment, to allege the truth of the said matters charged, in the manner required in pleading a justification to an action for defamation, and further to allege that it was for the public benefit that the said matters charged should be published, and the particular fact or facts by reason of which it was for the public benefit that the said matters charged should be published, to which plea the prosecutor shall be at liberty to reply generally, denying the whole thereof; and if, after such plea, the person charged is convicted on such indictment, the court may, in pronouncing sentence, consider whether his guilt is aggravated or mitigated by the said plea and by the evidence given to prove or to disprove the same: provided that—
+
+(a) the truth of the matters charged in the alleged libel complained of by such indictment shall in no case be inquired into without such plea of justification;
+
+(b) in addition to such plea of justification, the person charged may enter a plea of not guilty;
+
+(c) nothing in this section shall take away or prejudice any defence under the plea of not guilty which it is competent to the person charged to make under such plea to any indictment for defamatory libel.

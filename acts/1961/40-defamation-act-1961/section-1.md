@@ -1,0 +1,3 @@
+Short title.
+
+1.—This Act may be cited as the Defamation Act, 1961.

@@ -1,0 +1,3 @@
+Offer of an apology admissible in evidence in mitigation of damages in action for defamation.
+
+17.—In any action for defamation, it shall be lawful for the defendant (after notice in writing of his intention so to do, duly given to the plaintiff at the time of filing or delivering the plea in the action) to give in evidence, in mitigation of damage, that he made or offered an apology to the plaintiff for such defamation before the commencement of the action, or as soon afterwards as he had an opportunity of doing so, in case the action shall have been commenced before there was an opportunity of making or offering such apology.
