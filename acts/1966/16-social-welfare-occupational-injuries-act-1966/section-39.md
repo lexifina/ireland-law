@@ -1,0 +1,7 @@
+Taking of benefit into account in assessing damages.
+
+39.—(1) Notwithstanding section 2 of the Civil Liability (Amendment) Act, 1964, and section 34 of the Principal Act, in an action for damages for personal injuries (including any such action arising out of a contract), there shall in assessing those damages be taken into account, against any loss of earnings or profits which has accrued or probably will accrue to the injured person from the injuries, the value of any rights which have accrued or probably will accrue to him therefrom in respect of injury benefit or disablement benefit (disregarding any increase thereof under section 13 of this Act in respect of constant attendance) for the five years beginning with the time when the cause of action accrued.
+
+(2) The reference in subsection (1) of this section to assessing the damages for personal injuries shall, in cases where the damages otherwise recoverable are subject to reduction under the law relating to contributory negligence or are limited by or under any Act or by contract, be taken as referring to the total damages which would have been recoverable apart from the reduction or limitation.
+
+(3) Notwithstanding section 50 of the Civil Liability Act, 1961, in assessing damages in respect of a person's death under Part IV of that Act, account may be taken of any death benefit, by way of grant under section 22 of this Act in respect of funeral expenses, resulting from that person's death.
