@@ -1,0 +1,3 @@
+Regulation 12
+
+12. Where under the provisions of article 11 a specified food may have in it or on it butylated hydroxyanisole or butylated hydroxytoluene or mixtures thereof within the limits specified for them in Part I of the First Schedule to these Regulations, butylated hydroxyanisole or butylated hydroxytoluene or mixtures thereof may be used in conjunction with propyl gallate or octyl gallate or dodecyl gallate or mixtures thereof within the limits specified for them in Part I of the said Schedule, provided that the total amount of antioxidant shall not exceed, in the case of specified foods in items a and b of the said Part I, 300 parts per million, and in the case of specified foods in item c of the said Part I, 1,000 parts per million.
