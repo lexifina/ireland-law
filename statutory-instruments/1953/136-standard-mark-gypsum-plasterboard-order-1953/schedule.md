@@ -1,0 +1,19 @@
+SCHEDULE
+
+PART I
+
+GYPSUM PLASTERBOARD
+
+PART II
+
+41 : 1952
+
+PART III
+
+STANDARD SPECIFICATION (GYPSUM PLASTERBOARD) ORDER, 1952.
+
+GIVEN under my Official Seal, this 13th day of April, 1953.
+
+(Signed) SEAN F. LEMASS,
+
+Minister for Industry and Commerce.
