@@ -1,0 +1,3 @@
+Superannuation allowances of persons serving in the Meteorological service.
+
+5.—Where a person was serving at Valentia Observatory in an established position in the British Meteorological service at the date on which that Observatory was transferred to the Government of Saorstát Éireann, and was subsequently transferred directly to a post in the Civil Service, the service of such person in a British civil service may, for the purposes of the Superannuation Acts, be deemed to be service in the Civil Service, and any superannuation allowance, gratuity or other benefit granted to him under the Superannuation Acts may be computed accordingly, subject to such adjustment or variation (if any) as may be appropriate in the circumstances.
