@@ -1,0 +1,3 @@
+Regulation 9
+
+9. The following measure, and any other measures which the Minister or an inspector may direct, shall immediately be adopted in the event of an outbreak of disease amongst chickens in proximity to a licensed poultry hatchery or within ten days from the date of the despatch of chickens from a licensed poultry hatchery, or in the event of any unusual or unexplained illness or significant mortality amongst poultry in proximity to a licensed poultry hatchery namely, notification of the outbreak or of the illness or mortality shall be sent by the owner of the hatchery to the Minister.
