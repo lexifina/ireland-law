@@ -1,0 +1,5 @@
+Adaptation of pending contracts.
+
+8.—(1) Every deed and every contract and agreement in writing made before the passing of this Act with or by any person by or with the Estates Commissioners of the Irish Land Commission or the Congested Districts Board shall, if and so far as the terms and provisions of such deed, contract or agreement are not fully executed and completed, be construed and read as if the name of the Irish Land Commission was substituted in such deed, contract or agreement for the name of the Estates Commissioners or the Congested Districts Board as the case may require.
+
+(2) The benefits conferred and the obligations imposed on the Estates Commissioners aforesaid or the Congested Districts Board, as the case may be, by any such deed, contract or agreement as is mentioned in the preceding sub-section shall, so far as the same remains to be performed, be as from the passing of this Act respectively vested in or imposed on the Irish Land Commission as fully as if the Irish Land Commission were actually named in such deed, contract or agreement.

@@ -1,0 +1,9 @@
+Adaptation of existing enactments.
+
+11.—(1) Every mention of or reference to the Judicial Commissioners or the Commissioners of the Irish Land Commission or to any of them contained in any Act or Order to which this section applies, shall, subject and without prejudice to the provisions of this Act and unless the context otherwise requires, be construed and take effect as a mention of or reference to the Judicial Commissioner appointed under this Act or the Judge for the time being executing his office or the Commissioners or a like number of Commissioners appointed under this Act, as the case may require.
+
+(2) Every mention of or reference to the Congested Districts Board contained in any Act or Order to which this section applies, other than the Congested Districts Board (Ireland) Acts, shall, unless the context otherwise requires, be construed and take effect as a mention of or reference to the Irish Land Commission.
+
+(3) The Executive Council of Saorstát Eireann may from time to time make all such general or specific adaptations of or modifications in any Act or Order to which this section applies as, in the opinion of the Executive Council, are necessary to remove doubts or difficulties in regard to the application of such Act or Order to the Irish Land Commission, or to the members thereof appointed under this Act or are otherwise necessary to give effect to the provisions of this Act.
+
+(4) This section applies to every Act of the Parliament of the late United Kingdom of Great Britain and Ireland which was on the 6th day of December, 1922, in force in the area now within the jurisdiction of Saorstát Eireann and to every Act of the Oireachtas and to every Order made under any such Act as aforesaid, and which was in force on the date and in the area aforesaid, and in this section the word “Order” includes rule and regulation.
