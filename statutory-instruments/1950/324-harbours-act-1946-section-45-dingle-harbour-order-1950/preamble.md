@@ -1,0 +1,1 @@
+The Minister for Industry and Commerce, in exercise of the powers conferred on him by section 45 of the Harbours Act, 1946 (No. 9 of 1946), hereby, after consultation with the Dingle Harbour Commissioners, orders as follows :—
