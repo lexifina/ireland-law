@@ -1,0 +1,3 @@
+Increase of amount of guarantee of loans to Society.
+
+2.—The Minister shall not so exercise the powers conferred on him by subsections (1) and (2) of section 6 of the Principal Act that the amount, or the aggregate amount, of principal which he may at any one time be liable to pay on foot of any guarantee or guarantees under those subsections for the time being in force, together with the amount of principal (if any) which the Minister has previously paid on foot of any such guarantees and which has not been repaid by the Society exceeds £40,000,000, and accordingly, section 6 (3) of the Principal Act shall be construed as if that sum were substituted for the sum mentioned therein.
