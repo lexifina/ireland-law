@@ -1,0 +1,9 @@
+Statement in relation to presidential election expenses.
+
+56.—(1) The presidential election agent of a candidate at a presidential election and every person who incurs election expenses under section 52 (6) shall, within the fifty six days next following the polling day at the presidential election furnish to the Public Offices Commission a statement in writing of all election expenses (whether paid or not) incurred by the agent or person at the election and the several matters to which such expenses relate, together with all relevant vouchers.
+
+(2) Each statement of election expenses furnished under subsection (1) shall be in the form directed by the Public Offices Commission and shall be accompanied by a statutory declaration made by the presidential election agent or person by whom the statement is furnished that, to the best of the knowledge and belief of the agent or person concerned, the statement is correct in every material respect and that the agent or person has taken all reasonable action in order to be satisfied as to the accuracy of the statement.
+
+(3) Where, after the statement of election expenses is furnished under this section, an order for payment of a claim is made by a court under section 55 the presidential election agent or person referred to in section 52 (6) shall, not later than 7 days after the date of the order of the court, furnish to the Public Offices Commission a copy of the said order together with a statement of the sum payable under the order.
+
+(4) It shall be the duty of every presidential election agent and person who is required by this section to furnish a statement of election expenses and make a declaration to make such enquiries and maintain such records as are necessary for the purpose of furnishing the statement and making the declaration.

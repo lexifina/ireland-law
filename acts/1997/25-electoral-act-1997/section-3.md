@@ -1,0 +1,7 @@
+Variation of monetary amounts by order of Minister.
+
+3.—(1) The Minister may, by order, vary any monetary amount specified in section 21, 23, 24 (4), 26 (1), 30, 31, 32, 47, 48 (1), 51 or 52, or in regulations made under section 21 or 72 or in an order made under section 33 (1) or 53, having regard to any change in the consumer price index since the coming into operation of the provision for the time being in force specifying the amount in question, including an order under this section, and may, by order, amend or revoke any such order.
+
+(2) For the purposes of this section, “change in the consumer price index” means the difference between the consumer price index number last published before the date of the order under this section and the said number last published before the date of the coming into force of the provision specifying the amount applying immediately before the making of the said order, including an order under this section, expressed as a percentage of the last-mentioned number.
+
+(3) Every order made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything done thereunder.
