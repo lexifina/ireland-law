@@ -1,0 +1,3 @@
+Further amendment of section 13 of the National Health Insurance Act, 1918.
+
+69.—For the purposes of the National Health Insurance Acts, the provisions of sub-section (1) of section 13 of the National Health Insurance Act, 1918, as amended by this Act, shall apply and be deemed always to have applied to an insured person, within the meaning of the National Health Insurance Acts, who was not a member of an approved society or of the Unified Society, and who at the time of joining the Unified Society proves to the satisfaction of the Unified Society that his normal occupation is employment within the meaning of the National Health Insurance Acts.

@@ -1,0 +1,5 @@
+Duties and powers of investigation officers.
+
+48.—(1) Every investigation officer shall investigate into and report to the Minister upon any claim for or in respect of a pension and any question arising on or in relation to a pension which may be referred to him by the Minister, and may, for the purpose of such investigation and report, require any claimant for a pension or any pensioner or any employer of such claimant or pensioner to furnish him with such information and to produce to him for inspection such documents relative to such claimant or pensioner as such investigation officer may reasonably require.
+
+(2) If any person, being a claimant for a pension or a pensioner, or the employer of a claimant for a pension or a pensioner, fails to furnish to an investigation officer such information as he is required by this section to furnish to such officer or to produce to an investigation officer for inspection such documents as he is required by this section to produce to such officer, such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding five pounds.

@@ -1,0 +1,3 @@
+Application of Pension Books (Prohibition of Alienation) Act, 1932.
+
+63.—Every book, card, order, voucher or other document issued to any person and upon the delivery or production or in respect of the possession of which by such person on or after a date indicated expressly or by implication in such document and subsequent to the issue of such document any pension under this Act is payable to such person shall be deemed, for the purposes of the Pension Books (Prohibition of Alienation) Act, 1932 (No. 1 of 1932), to be a document to which the said last-mentioned Act applies, and the said last-mentioned Act shall be construed and have effect accordingly.

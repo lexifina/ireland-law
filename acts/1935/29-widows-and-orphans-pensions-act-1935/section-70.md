@@ -1,0 +1,5 @@
+Option to existing voluntary contributors.
+
+70.—(1) Any person who is at the date of the passing of this Act insured under the National Health Insurance Acts as a voluntary contributor, unless before the second appointed day and in the prescribed manner he gives notice to the Minister that he elects to become an insured person under this Act, shall cease as from the second appointed day to be entitled to pay contributions under the National Health Insurance Acts as a voluntary contributor, and as from the second appointed day shall be deemed not to be an insured person for the purposes of this Act.
+
+(2) Sub-sections (3) and (4) of section 13 of the National Health Insurance Act, 1918, shall, in relation to any person who by virtue of sub-section (1) of this section ceases to be entitled to pay contributions under the National Health Insurance Acts as a voluntary contributor, have effect as if for references therein to twelve months there were substituted references to twenty-four months.

@@ -1,0 +1,3 @@
+Returns by the Unified Society.
+
+73.—There shall be included amongst the returns which the Unified Society may be required to make under sub-section (1) of section 35 of the National Insurance Act, 1911, such particulars with respect to the insurance under the National Health Insurance Acts of any person who was a member of an approved society or who is or was a member of the Unified Society as the Minister may require for the purposes of this Act, and the provisions of the said section shall apply accordingly, and there shall be paid to the Unified Society such sums as may, subject to the consent of the Minister for Finance, be prescribed, and the sums so paid shall be treated as part of the administrative expenses of this Act.
