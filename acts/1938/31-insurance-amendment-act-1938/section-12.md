@@ -1,0 +1,3 @@
+Provisions in relation to the first balance sheet and accounts of the Terminating Company.
+
+12.—Notwithstanding anything contained in the Articles of Association of the Terminating Company or in the Companies Acts, 1908 to 1924, or in the Insurance Acts, 1909 and 1936, the first accounts and balance sheet which the Terminating Company is required to prepare in accordance with the said Articles and Acts, and (as the case may be) to deposit with the Minister for Industry and Commerce or to furnish to the Minister for Finance, or to forward to the Registrar of Companies, shall be so prepared in respect of the period from the date of incorporation of the said Company to the 31st day of December, 1939.

@@ -1,0 +1,5 @@
+Grant of assurance licences to the Terminating Company and the Permanent Company.
+
+17.—(1) It shall be lawful for the Terminating Company to apply under section 11 of the Act of 1936 to the Minister for Industry and Commerce for an assurance licence authorising it to carry on life assurance business and industrial assurance business, and it shall be lawful for the said Minister to grant such application under sub-section (6) of section 12 of the said Act notwithstanding that the Terminating Company does not comply with all the conditions set out in that sub-section.
+
+(2) It shall be lawful for the Permanent Company to apply under section 11 of the Act of 1936 to the Minister for Industry and Commerce for an assurance licence authorising it to carryon life assurance business and industrial assurance business, and it shall be lawful for the said Minister to grant such application under sub-section (6) of section 12 of the said Act notwithstanding that the Permanent Company does not comply with all the conditions set out in that sub-section.

@@ -1,0 +1,5 @@
+Partial relief from certain provisions of the Act of 1936.
+
+18.—(1) Notwithstanding anything contained in the Act of 1936, neither the Terminating Company nor the Permanent Company nor any servant or agent of either of those Companies shall be liable to any proceeding, civil or criminal, or to any fine or other penalty or be otherwise prejudiced by reason of any failure, during the period commencing on the passing of this Act and ending on the 31st day of December, 1939, to collect premiums in respect of policies of industrial assurance or by reason of any failure, during the said period to comply with section 65 or section 75 of the Act of 1936.
+
+(2) The Minister for Industry and Commerce, if he so thinks fit, may by order made before the 1st day of January, 1940, substitute the 31st day of December, 1940, for the 31st day of December, 1939, in the foregoing sub-section of this section, and, if such order is so made, the said foregoing sub-section shall be construed and have effect as if the 31st day of December, 1940, were substituted therein for the 31st day of December, 1939.
