@@ -1,0 +1,3 @@
+Article 1
+
+1. This order may be cited as the Solicitors' Remuneration General Order, 1960 and this order and the Solicitors' Remuneration General Order, 1884, the Solicitors' Remuneration General Order (No. 1), 1920, the Solicitors' Remuneration General Order, 1947, and the Solicitors' Remuneration General Order, 1951, shall be read together and may be cited as the Solicitors' Remuneration General Orders, 1884 to 1960. References in this general order to "the Order of 1884" mean the Solicitors' Remuneration General Order, 1884 as amended by the above-mentioned subsequent general orders, other than this order.
