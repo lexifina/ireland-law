@@ -1,0 +1,5 @@
+Accounts of Company and audit.
+
+18.—(1) The Company shall keep in such form as may be approved by the Minister all proper and usual accounts of all moneys received or expended by it, including a profit and loss account and a balance sheet and, in particular, shall keep all such special accounts as the Minister may from time to time direct.
+
+(2) Accounts kept in pursuance of this section shall be submitted annually by the Company to an auditor for audit and a copy of the profit and loss account and of the balance sheet and of such other (if any) of its accounts as the Minister may direct and a copy of the auditor's report on the accounts shall be presented to the Minister, not later than 6 months after the end of the financial year of the Company to which they relate, and the Minister shall cause copies of each of the documents aforesaid and of the directors' report to the shareholders of the Company for the financial year concerned of the Company to be laid before each House of the Oireachtas.
