@@ -1,0 +1,3 @@
+Alteration of maximum charges for tramway services operated by the Company.
+
+91.—Where an application, in the prescribed form and containing the prescribed particulars, is made by the Company or any interested person to the Minister for an order altering the maximum charges for the carriage of passengers, passengers' luggage or merchandise by a tramway service operated by the Company, the Minister, if he thinks fit, may, subject to the provisions of the Seventh Schedule to this Act, by order make such alterations of the said charges as he thinks fit and fix the date on which the amended charges shall come into operation.

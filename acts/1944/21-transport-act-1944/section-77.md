@@ -1,0 +1,3 @@
+Alteration of standard terms and conditions of carriage by rail for the Company.
+
+77.—Where an application, in the prescribed form and containing the prescribed particulars, is made by the Company or any interested person to the Minister for an order altering or adding to the standard terms and conditions of carriage by rail for the Company, the Minister, if he thinks fit, may, subject to the provisions of the Seventh Schedule to this Act, by order make such alterations of or additions to such standard terms and conditions as he considers just and reasonable and fix the date as from which the alterations or additions are to come into operation and such standard terms and conditions as so altered or added to shall be deemed to be reasonable.

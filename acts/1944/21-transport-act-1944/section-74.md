@@ -1,0 +1,3 @@
+Alteration of maximum railway charges of the Company.
+
+74.—Where an application, in the prescribed form and containing the prescribed particulars, is made by the Company or any interested person to the Minister for an order altering the maximum railway charges for the time being of the Company or any of them or any conditions relative thereto, the Minister, if he thinks fit, may, subject to the provisions of the Seventh Schedule to this Act, by order make such alterations as he thinks fit of the said charges and the conditions relative thereto and fix the date on which the altered charges or conditions shall come into operation.

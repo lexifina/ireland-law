@@ -1,0 +1,3 @@
+Special mileage charges.
+
+81.—Where any statutory provision, with respect to charges for or in connection with the carriage of merchandise or passengers by the dissolved railway company, which is in force immediately before the establishment date authorises, for the purposes of calculation of distance, a special mileage to be allotted in respect of any portion of the railway of the dissolved railway company, that statutory provision shall continue in force and the references therein to the dissolved railway company shall on and after the establishment date be construed as references to the Company,

@@ -1,0 +1,3 @@
+Alteration of maximum railway charges of companies other than the Company.
+
+89.—Where an application, in the prescribed form and containing the prescribed particulars, is made by a railway company (other than the Company) or any interested person to the Minister for an order altering the maximum charges applicable to such company for traffic by rail or any of them or any of the conditions relative thereto, the Minister, if he thinks fit, may, subject to the provisions of the Seventh Schedule to this Act, by order make such alterations of the said maximum charges or the conditions relative thereto as he thinks fit and fix the date on which the altered charges or conditions shall come into operation.

@@ -1,0 +1,3 @@
+Alteration of maximum road charges of a statutory carrier.
+
+93.—Where a schedule of maximum road charges of a statutory carrier is in force, and an application in the prescribed form and containing the prescribed particulars, is made by that carrier or any interested person to the Minister for an order altering such charges or any of them or any conditions relative thereto, the Minister, if he thinks fit, may, subject to the provisions of the Seventh Schedule to this Act, by order make such alterations of the said charges or the conditions relative thereto as he thinks fit and shall fix the date on which the altered charges or conditions shall come into operation.
