@@ -1,0 +1,5 @@
+STATUTORY RULES AND ORDERS. 1947. No. 295.
+
+REGISTER OF POPULATION ORDER, 1947.
+
+The Government, in exercise of the powers conferred on them by the Supplies and Services (Temporary Provisions) Act, 1946 , and of every and any other power them in this behalf enabling, hereby order as follows, that is to say :—
