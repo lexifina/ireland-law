@@ -1,0 +1,5 @@
+Recovery of loans.
+
+10.—(1) The amount for the time being due and owing, whether for principal or interest, to the Commissioners on foot of a charging order shall be a civil debt due to the Commissioners by the occupier for the time being of the premises charged by such charging order and shall (in addition to any other mode of recovery) be recoverable accordingly from such occupier by the Commissioners in any court of competent jurisdiction, without prejudice to the rights of such occupier, where he is not the person to whom the loan was made, against such person.
+
+(2) In any proceedings by the Commissioners under this section or otherwise in any court of law to recover the amount or any part of the amount due, whether for principal or interest, on foot of a charging order, a certificate purporting to be sealed with the seal of the Commissioners and to certify the amount due on foot of such charging order shall, until the contrary is proved, be evidence that the amount so certified is so due and owing.
