@@ -1,0 +1,1 @@
+I, RAY MacSHARRY, Minister for Agriculture, in exercise of the power conferred on me by section 1 (2) of the Agriculture (An Chomhairle Oiliúna Talmhaíochta) Act, 1979 (No. 9 of 1979), hereby order as follows:
