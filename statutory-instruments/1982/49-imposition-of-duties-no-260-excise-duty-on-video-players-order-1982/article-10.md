@@ -1,0 +1,3 @@
+Article 10
+
+10. Where an officer of Customs and Excise finds that the number of video players in the stock or possession of a licensed manufacturer is less than the recorded number which, according to records or other documents required to be kept by him, ought to be in his stock or possession, then, except in so far as the deficiency is explained to the satisfaction of the Revenue Commissioners, video players to the number of the deficiency shall be deemed to have been delivered from the premises of the licensed manufacturer on the day on which the deficiency first came to the notice of the officer.
