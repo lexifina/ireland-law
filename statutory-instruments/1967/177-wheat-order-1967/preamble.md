@@ -1,0 +1,7 @@
+S.I. No. 177 of 1967.
+
+WHEAT ORDER, 1967.
+
+ARRANGEMENT OF ARTICLES.
+
+Article
