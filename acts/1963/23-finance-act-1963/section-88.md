@@ -1,0 +1,3 @@
+Taxation of certain payments in respect of easements.
+
+88.—Where, in any year of assessment, any person is entitled to any payment, other than a payment to which section 94 of this Act applies, in respect of any easement in relation to any premises, not being premises of the whole of which he is, throughout the period in respect of which the payment is due, the sole occupier for the purposes of Schedule A, the payment shall be treated for the purposes of section 84 of this Act as if it were rent payable in respect of premises under a short lease, and the provisions of that section shall with the necessary adaptations apply accordingly.
