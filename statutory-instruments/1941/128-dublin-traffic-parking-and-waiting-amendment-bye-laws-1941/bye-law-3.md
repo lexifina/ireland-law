@@ -1,0 +1,7 @@
+Bye-law 3
+
+3. Interpretation.
+
+PART II.
+
+WAITING ELSEWHERE THAN IN PARKING PLACES.
