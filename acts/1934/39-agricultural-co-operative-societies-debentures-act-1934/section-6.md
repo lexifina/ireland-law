@@ -1,0 +1,7 @@
+Power to borrow on security of uncalled capital.
+
+6.—(1) Where an agricultural co-operative society is authorised by its rules to borrow money (whether generally or subject to restrictions as to the lender or the amount) on the security of a charge on its uncalled capital, such society may, with the consent of the Minister and subject to the restrictions (if any) imposed by its rules, borrow money under and in accordance with its rules from an authorised lender on the security of a charge on its uncalled capital, and may, with such consent and subject to such restrictions (if any) as aforesaid, charge its uncalled capital accordingly.
+
+(2) The Minister may, at his absolute discretion, either give or refuse to give his consent to any borrowing of money and charging of uncalled capital under this section by an agricultural co-operative society and, where he gives any such consent, may attach thereto such conditions and restrictions as he shall think proper.
+
+(3) Whenever a charge on the uncalled capital of an agricultural co-operative society is made under this section, the authorised lender in whose favour such charge is so made shall, within twenty-one days after the making of such charge, apply in the prescribed form and manner to the Minister for the registration of such charge in the register, and if such authorised lender fails so to apply for such registration the said charge shall, upon the expiration of the said period of twenty-one days, become and be null and void.
