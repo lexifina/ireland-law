@@ -1,0 +1,5 @@
+S.I. No. 189 of 1973.
+
+SOCIAL WELFARE (OLD AGE AND WIDOWS' AND ORPHANS') (CONTRIBUTORY) PENSIONS AND RETIREMENT PENSION) (AMENDMENT) REGULATIONS, 1973.
+
+The Minister for Social Welfare, in exercise of the powers conferred on him by section 3 of the Social Welfare Act, 1952 (No. 11 of 1952) section 28A of the said Act (inserted therein by section 10 of the Social Welfare (Amendment) Act, 1960 (No. 25 of 1960) and amended by section 6 of the Social Welfare (Miscellaneous Provisions) Act, 1966 (No. 24 of 1966)) and section 28B of the said Act (inserted therein by section 10 of the Social Welfare Act, 1970 (No. 12 of 1970), hereby makes the following Regulations:—
