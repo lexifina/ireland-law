@@ -1,0 +1,5 @@
+Removal of restriction on value of agricultural property in certain cases.
+
+40.—(1) Subject to subsection (2) of this section, in the case of any person dying after the passing of this Act, the proviso to section 7 (5) of the Finance Act, 1894, and the provisions of section 61 (1) of the Finance (1909-10) Act, 1910, shall cease to have effect in relation to property which is sold within the period of six years after the date by reference to which such property is required to be valued for estate duty.
+
+(2) In any case in which it is shown to the satisfaction of the Revenue Commissioners that any such sale as aforesaid was effected solely as part of a family arrangement for the distribution of the estate of a deceased person among his widow and children (including any illegitimate children, step-children and children adopted under the provisions of the Adoption Acts, 1952 and 1964) and that the property the subject of the sale remains in the possession of any one or more of them, subsection (1) of this section shall not apply unless the said property is subsequently sold within the period of six years after the date of the death of such deceased person.

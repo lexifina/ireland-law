@@ -1,0 +1,3 @@
+Withdrawal of investment allowance.
+
+25.—Where an investment allowance has been made to any person in respect of expenditure incurred on the provision of qualifying machinery or plant and the machinery or plant is sold by him without the machinery or plant having been used by him in a designated area for the purposes of his trade or profession or before the expiration of the period of two years from the day on which the machinery or plant began to be so used, the investment allowance shall be withdrawn, and all such additional assessments and adjustments of assessments shall be made as may be necessary for or in consequence of the withdrawal of an investment allowance.
