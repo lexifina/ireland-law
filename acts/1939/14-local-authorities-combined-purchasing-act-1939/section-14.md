@@ -1,0 +1,5 @@
+Exemptions from obligation to purchase from official contractors.
+
+14.—(1) The Minister may, if and whenever he so thinks proper, by order make regulations conferring on local authorities power in specified circumstances to purchase a supply of any specified commodity or commodities or of any commodity whatsoever from a person who is not the official contractor to such local authority for the commodity of which a supply is so purchased, and the Minister may by such regulations impose such restrictions and conditions as he shall think proper in respect of the exercise by local authorities of the power so conferred.
+
+(2) Notwithstanding anything contained in this Act, no purchase made by a local authority under and in accordance with regulations made under this section shall be a contravention of any section of this Act merely by reason of such purchase being made from a person who is not the official contractor to such local authority for the commodity which is the subject of such purchase.

@@ -1,0 +1,15 @@
+Prohibition of dealings with persons who are not official contractors.
+
+13.—(1) Whenever one or more official contractors has or have been appointed for the supply of a particular commodity during a particular period to all or any class of local authorities or to any particular local authorities, no such local authority shall (save as is otherwise provided by this Act) order or take and no member or officer of any such local authority shall (save as aforesaid) order on behalf of such local authority during such period any quantity of such commodity or of a commodity which is for the time being declared by an order made by the Minister under this Act to be a substitute for such commodity from any person other than such official contractor or one of such official contractors, as the case may be.
+
+(2) Whenever a local authority orders and takes from any person a supply of any commodity in such circumstances that such ordering and taking is a contravention of the foregoing sub-section of this section, the following provisions shall have effect, that is to say:—
+
+(a) every payment made by such local authority to such person for any quantity of such commodity so ordered and taken shall be an illegal payment and may be dealt with accordingly by the auditor of the accounts of such local authority unless it is shown that such payment could have been lawfully recovered by process of law from such local authority by such person;
+
+(b) the Minister may, if he so thinks fit, serve by post on such local authority and on such person notice that the ordering and taking of any quantity of such commodity by such local authority from such person is a contravention of sub-section (1) of this section;
+
+(c) such person shall not be entitled to recover from such local authority any money for or on account of any of such commodity so ordered and taken from him if such local authority shows that when such person supplied such commodity to such local authority he had notice and knew that such ordering and taking was a contravention of sub-section (1) of this section;
+
+(d) if a person from whom any quantity of a commodity is ordered and taken by a local authority in contravention of sub-section (1) of this section shows that at the time he supplied any particular quantity of such commodity to such local authority in pursuance of such order he had not notice and did not know that such ordering and taking was such contravention as aforesaid, he shall be entitled to be paid by and to recover from such local authority the agreed price and other moneys payable for the said particular quantity of such commodity.
+
+(3) If any member or officer of a local authority wilfully orders on behalf of such local authority from any person any quantity of any commodity in such circumstances that such ordering is a contravention of sub-section (1) of this section such member or officer shall be guilty of an offence under this section and shall (without prejudice to his liability to surcharge or charge at an audit of the accounts of such local authority) be liable on summary conviction thereof to a fine not exceeding twenty pounds.
