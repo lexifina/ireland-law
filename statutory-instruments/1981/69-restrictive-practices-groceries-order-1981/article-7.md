@@ -1,0 +1,3 @@
+Article 7
+
+7. A supplier or wholesaler shall not withhold grocery goods from any person or discriminate against any person as to the terms on which such goods are supplied, because that person is or is not a member of a trade association or is not approved of by a trade association or because that person's name appears or does not appear on any list prepared, maintained, published or issued by a trade association or because representations that supplies should be withheld from such person or be made available to him only on specified terms have been made by or on behalf of any trade association.
