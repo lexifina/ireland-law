@@ -1,0 +1,3 @@
+Article 2
+
+2. In this Order "exemption period" means the period beginning on the 1st day of December, 1953, and ending on the 24th day of that month.
