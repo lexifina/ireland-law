@@ -1,0 +1,11 @@
+Regulation 35
+
+35. (1) Nothing in this Part of these Regulations shall apply to the works of an undertaker or authorised undertaker within the meaning of the Electricity (Supply) Acts, 1927 to 1954, (excepting always such part or parts of the said works (if any) as constitute the whole or part of the consumer's installation) provided that the said works are constructed, installed, protected, worked and maintained in compliance with any other statutory regulations applicable thereto.
+
+(2) Nothing in paragraphs (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17) and (31) of Regulation 36 of these Regulations shall apply to any system used exclusively for signalling or telephones and supplied with energy from a battery of primary or secondary cells at a voltage not exceeding 50 volts, nor to any system used exclusively for telephones and supplied with energy from magneto generators operated by hand.
+
+(3) The requirements of this Part of these Regulations which relate to the construction of cables and other apparatus shall not apply before the 1st day of October, 1959, where installed under ground, and shall not apply before the 1st day of October, 1963, where installed on the surface, to any apparatus which was in use before the 12th day of November, 1956, and which had been constructed or had before the 12th day of November, 1956, been adapted so as to comply with the requirements relating to the construction of electrical apparatus at mines in force before that date, unless the Minister, by written notice served on the owner or agent with respect to all or any of the said requirements of this Part of these Regulations, so directs. If the owner or agent, within fourteen days of the receipt of such notice, objects to complying with the requirements specified in the notice, the matter shall be settled by arbitration in the manner provided for in the Metalliferous Mines Regulation Act, 1872.
+
+(4) If the Minister is satisfied that exemption or relaxation is necessary from any of the requirements of this Part of these Regulations by reason of emergency or special circumstances or the fact that the application of the requirements would be unreasonable or impracticable, he shall grant such exemption or relaxation.
+
+36 Use of electricity.
