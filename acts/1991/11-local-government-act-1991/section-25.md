@@ -1,0 +1,3 @@
+Directions for purposes of this Part.
+
+25.—The Minister may give to the Dublin authorities, the Dublin City Manager, the Dublin County Manager and the area managers such general or particular directions in relation to the execution of or compliance with any provision of this Part or regulations thereunder or in relation to the preparations for the matters referred to in section 23 (1) (including directions that specified steps be taken or not taken, or be taken subject to specified conditions, or specified things be done or not done or be done subject to specified conditions, by the persons aforesaid or any of them) as appear to the Minister to be necessary or expedient for securing or facilitating the operation of such provision or the giving of full effect thereto.
