@@ -1,0 +1,3 @@
+Bye-laws respecting certain houses.
+
+15.—A housing authority shall have the like powers of making and enforcing bye-laws respecting houses containing not more than two rooms and intended or used for occupation by members of the working classes which are occupied by not more than one family as are conferred, under section 20 of the Housing (Ireland) Act, 1919, on the local authority of an urban district or town in the case of houses intended or used for occupation by members of the working classes which are let in lodgings or occupied by members of more than one family and the provisions of the said section 20 shall have effect as if such bye-laws were made under that section.
