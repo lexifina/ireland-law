@@ -1,0 +1,5 @@
+Member of Local Authority may not be employed by that or another Local Authority.
+
+14.—(1) No person shall hold any office of profit under or be employed for remuneration by or under any Local Authority from and after the holding of the election or appointment of members to such Local Authority next held after the passing of this Act while he is or within six months after he has ceased to be a member of such Local Authority, or of any other Local Authority whose functional area is, or is situate in, the same County as that of or within which is situate the functional area of such Local Authority or save with reference to and sanction of the Minister in any County adjoining to that County.
+
+(2) Any member of a Local Authority whose membership is terminated by his resignation or otherwise, at or before the next election or appointment of members to such Local Authority after the passing of this Act shall, for the purposes of this section, be deemed to have ceased to be a member of such Local Authority on a date six months prior to the date of such election.
