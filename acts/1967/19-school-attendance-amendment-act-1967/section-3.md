@@ -1,0 +1,5 @@
+Attendance of children at District Court in certain cases.
+
+3.—(1) For the purposes of section 17 (4) of the Principal Act an order may be made under section 18 of that Act in relation to a person after conviction of the person for a second or subsequent offence under the said section 17 in respect of the same child, and, if a person fails to comply with any order under the said section 18, a justice of the District Court may issue a warrant directing and authorising the Superintendent of the Garda Síochána in whose district the child to whom the order relates resides to procure the attendance of the child at a sitting of the District Court at a time and place specified in the warrant.
+
+(2) Where a warrant is issued under this section, the Superintendent of the Garda Síochána to whom it is addressed and any member of the Garda Síochána acting on the instructions of that Superintendent shall be entitled to take such steps as the Superintendent or member, as the case may be, reasonably considers necessary to ensure the attendance of the child to whom the warrant relates at the sitting of the District Court to which it refers.
