@@ -1,0 +1,7 @@
+Provisions as to the Registrar and the Register of Dáil Court Decrees.
+
+8.—(1) On the 30th day of April, 1925, the person then holding the office of Registrar of Dáil Court Decrees shall cease to hold that office and that office shall cease to exist.
+
+(2) The duties, powers, and jurisdictions imposed or conferred on the Registrar by the Principal Acts or either of them shall on the 1st day of May, 1925, so far as such duties then remain to be performed and such powers and jurisdictions then remain exercisable, be transferred to and shall on and after that day be performed and exercised by such officer of the High Court as the Minister shall direct.
+
+(3) On the 1st day of May, 1925, the Register of Dáil Court Decrees and all other (if any) official records of or relating to the transactions of the Commissioners shall be transferred to the High Court and shall on and after that day be preserved with the records of that court, save that so much of the Register and other records aforesaid as relates to decrees of Dáil Land Courts or the exercise by the Commissioners of the jurisdictions and powers conferred on them by the Second Principal Act may, on or at any time after the 1st day of May, 1925, be transferred by the President of the High Court with the consent of the Minister and the Minister for Lands and Agriculture to the Land Commission and be thereafter preserved with the records of the Court of the Land Commission.

@@ -1,0 +1,5 @@
+Duties to be performed by officers of the High Court and the Land Commission.
+
+7.—(1) The registrars, clerks, and other officers of or attached to the High Court shall perform such duties and render such services as shall be necessary for or incidental to the due exercise by the High Court of the jurisdictions and powers transferred to it by this Act, and such duties and services shall be distributed amongst such registrars, clerks, and other officers in such manner as the Minister shall direct.
+
+(2) Arrangements may be made by the President of the High Court with the consent of the Minister and of the Minister for Lands and Agriculture for the performance on or after the 1st day of May, 1925, by officers of the Land Commission in lieu of officers of the High Court of any duties or services necessary for or incidental to the due exercise by the High Court of the jurisdictions and powers conferred on the Commissioners by the Second Principal Act and transferred to the High Court by this Act.

@@ -1,0 +1,5 @@
+Provisions as to pending business.
+
+5.—(1) In all applications to and proceedings before the Commissioners or any of them or an Assistant-Commissioner which shall have been fully heard but in which judgment shall not have been given or, having been given, shall not have been perfected before the 1st day of May, 1925, such judgment may be given and perfected respectively on or after the date aforesaid in the name of the Commissioners or of an Assistant-Commissioner (as the case may require) and generally in the same manner as if this Act had not been passed, and every such judgment shall take effect as if it had been duly perfected before the date aforesaid.
+
+(2) Every order made by the Commissioners or any of them or by an Assistant-Commissioner and duly perfected before the 1st day of May, 1925, or perfected under the foregoing sub-section on or after that date, may on or after the date aforesaid be enforced and, if necessary, amended or discharged by the High Court or a Judge thereof in like manner as if such order had been made by the High Court or a Judge thereof.
