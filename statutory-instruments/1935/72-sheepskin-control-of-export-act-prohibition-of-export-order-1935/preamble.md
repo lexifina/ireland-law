@@ -1,0 +1,3 @@
+WHEREAS it is enacted by sub-section (1) of Section 2 of the Sheepskin (Control of Export) Act, 1934 , that the Minister for Industry and Commerce may whenever and so often as he thinks proper, by order prohibit the export of sheepskin otherwise than under and in accordance with a licence in that behalf issued under the said Act, and may so prohibit such export either for so long as such order is in force or for a specified period or for two or more specified discontinuous periods :
+
+NOW, THEREFORE, the Minister for Industry and Commerce in exercise of the powers conferred on him by sub-section (1) of Section 2 of the Sheepskin (Control of Export) Act, 1934 , and of all other powers him in this behalf enabling hereby orders as follows, that is to say—
