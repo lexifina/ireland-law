@@ -1,0 +1,9 @@
+Simplified transfer of securities.
+
+2.—(1) Registered securities to which this section applies may be transferred by means of an instrument under hand in the form set out in the First Schedule to this Act (in this Act referred to as a stock transfer), executed by the transferor only and specifying (in addition to the particulars of the consideration, of the description and number or amount of the securities, and of the person by whom the transfer is made) the full name and address of the transferee.
+
+(2) The execution of a stock transfer need not be attested; and where such a transfer has been executed for the purpose of a stock exchange transaction, the particulars of the consideration and of the transferee may either be inserted in that transfer or, as the case may require, be supplied by means of separate instruments in the form set out in the Second Schedule to this Act (in this Act referred to as brokers transfers), identifying the stock transfer and specifying the securities to which each such instrument relates and the consideration paid for those securities.
+
+(3) Nothing in this section shall be construed as affecting the validity of any instrument which would be effective to transfer securities apart from this section; and any instrument purporting to be made in any form which was common or usual before the commencement of this Act, or in any other form authorised or required for that purpose apart from this section, shall be sufficient, whether or not it is completed in accordance with the form, if it complies with the requirements as to execution and contents which apply to a stock transfer.
+
+(4) This section applies to fully paid up transferable registered securities of any description, except securities of a company limited by guarantee or an unlimited company.
