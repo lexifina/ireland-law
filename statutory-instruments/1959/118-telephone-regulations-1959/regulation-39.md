@@ -1,0 +1,5 @@
+Regulation 39
+
+39. The Minister may, as respects any subscription, require payment in advance in respect of the full minimum period specified in the agreement. In the cases in which he has required payment in advance when the minimum term has expired, and in all other cases, the subscription shall be payable quarterly and shall be due in advance on the 1st day of January, 1st day of April, 1st day of July and 1st day of October in each year. Where payment in respect of the full minimum period is not required in advance, the first quarterly payment shall become due on whichever of the said quarterly days falls next after the certified date of the completion of the exchange line. The subscriber shall pay on the certified day of completion of the exchange line proportionate subscription from that day to the day on which the first quarterly subscription becomes due and, in addition, if security in the form of a sum of money has been demanded pursuant to the provisions of Regulation 31, such security as may have been determined by the Minister.
+
+40 Subscriptions for transferred exchange lines
