@@ -1,0 +1,13 @@
+Rule 9
+
+9. Where these Rules require that a particular fitting, material, appliance or apparatus or type thereof, shall be fitted or carried in a ship, or that any particular provision shall be made, the Minister may approve any other fitting, material, appliance or apparatus, or type thereof to be fitted or carried, or any other provision to be made in that ship if he is satisfied after trial thereof or otherwise that such other fitting, material, appliance or apparatus, or type thereof, or provision, is at least as effective as that required by these Rules.
+
+GIVEN under my Official Seal, this 18th day of October, 1983.
+
+JAMES MITCHELL,
+
+Minister for Transport.
+
+EXPLANATORY NOTE.
+
+These Rules implement the provisions of the International Convention for the Safety of Life at Sea, 1974, relating to pilot ladders and hoists.
