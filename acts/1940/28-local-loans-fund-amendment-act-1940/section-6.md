@@ -1,0 +1,5 @@
+Transfer of certain powers to Commissioners of Public Works.
+
+6.—(1) The power of making local loans transferred by virtue of the Ministry of Transport (Commissioners of Public Works in Ireland Transfer and Exception of Powers) Order, 1919, is hereby transferred to the Commissioners of Public Works in Ireland.
+
+(2) This section shall be deemed to have come into operation on and to have had effect as on and from the 6th day of December, 1922, and, to that intent, every local loan which was made by the Commissioners of Public Works in Ireland (whether as agents for the Minister for Industry and Commerce or otherwise) after the 6th day of December, 1922, and before the passing of this Act and which was a local loan the power to make which was transferred by virtue of the Ministry of Transport (Commissioners of Public Works in Ireland Transfer and Exception of Powers) Order, 1919, shall for all purposes be regarded as having been and shall be deemed always to have been made by the said Commissioners as principals in accordance with this section and every mortgage or other security given for securing such loan shall be construed and have effect accordingly.
