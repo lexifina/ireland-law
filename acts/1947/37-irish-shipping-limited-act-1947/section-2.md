@@ -1,0 +1,7 @@
+Increase of capital of the Company.
+
+2.—(1) Notwithstanding anything contained in the Companies Acts, 1908 to 1924, or in the memorandum or articles of association of the Company, the Company may increase its capital to a total not exceeding £5,000,000 and for that purpose may, subject to the provisions of this Act, make such alterations in its memorandum and articles of association as may be appropriate.
+
+(2) For the purposes of effecting any alterations in the articles of association of the Company authorised by this section, section 13 of the Companies (Consolidation) Act, 1908, shall be construed as if the words “extraordinary resolution” were substituted for the words “special resolution” where the latter words first occur.
+
+(3) Every alteration in the memorandum of association of the Company authorised by this section shall be made by extraordinary resolution, as defined by section 69 of the Companies (Consolidation) Act, 1908, and, in addition to complying with section 70 of that Act as respects any such alteration, the Company shall, within the time mentioned in the said section 70, deliver to the registrar of companies a printed copy of the memorandum as altered and the registrar shall register it and certify the registration under his hand, and the certificate shall be conclusive evidence that all the requirements of the said Act, as amended by this section with respect to the alteration, have been complied with and thenceforth the memorandum as altered shall be the memorandum of the Company.
