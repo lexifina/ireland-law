@@ -1,0 +1,3 @@
+Article 5
+
+5. (1)—Subject to the provisions of this Order all the jurisdictions, powers and duties which were on the 6th day of December, 1921, conferred or imposed on the Rates Advisory Committee constituted under Section 21 of the Ministry of Transport Act, 1919, for the purpose of their functions under the Harbours, Docks, and Piers (Temporary Increase of Charges) Act, 1920, are hereby conferred and imposed on the Committee ; (2) Any references in the Harbours, Docks and Piers (Temporary Increase of Charges) Act, 1920, to the Rates Advisory Committee constituted under Section 21 of the Ministry of Transport Act, 1919, shall be construed as references to the Committee.
