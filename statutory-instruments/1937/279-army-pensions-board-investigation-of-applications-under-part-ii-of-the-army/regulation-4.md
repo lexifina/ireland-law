@@ -1,0 +1,9 @@
+Regulation 4
+
+4. In case it appears from the service certificate that there is evidence to show that the applicant contracted a disease during his military service, is the disablement due to such disease ?
+
+............................................................ ..............
+
+............................................................ ..............
+
+............................................................ ..............
