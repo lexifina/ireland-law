@@ -1,0 +1,3 @@
+Motorway schemes made under Local Government (Roads and Motorways) Act, 1974.
+
+8.—Where a motorway scheme has been made pursuant to section 4 of the Local Government (Roads and Motorways) Act, 1974, and no order was made pursuant to section 2(2) of that Act in respect of the proposed public road the subject of such scheme, the Minister for the Environment and Local Government may, where the scheme was approved pursuant to either section 4 of that Act or section 49 of the Principal Act, by order declare such proposed public road to be a motorway and such order shall have the same effect as an order to which section 5(1)(b) of the Principal Act applies.
