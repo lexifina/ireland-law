@@ -1,0 +1,3 @@
+Regulation 5
+
+5. Sub-article (2) of article 10 (C) of the Principal Regulations (inserted therein by the Social Welfare (Contributions) (Amendment) Regulations, 1968 ( S.I. No. 1 of 1968 ) as amended by the Regulations of 1970) is hereby amended by the deletion of the words "to a widow's (contributory) pension only or such pension, retirement pension and an old age (contributory) pension, as the case may be," and the substitution therefor of the words "to widow's (contributory) pension and deserted wife's benefit only or to widow's (contributory) pension, deserted wife's benefit, retirement pension and old age (contributory) pension as the case may be.".
