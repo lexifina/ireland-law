@@ -1,0 +1,7 @@
+Audit of accounts of sweepstakes.
+
+6.—(1) Within three months after the drawing of prizes or, where there is more than one such drawing, the last drawing of prizes in a sweepstake held under this Act the committee managing such sweepstake shall cause the accounts of all receipts and disbursements of money in relation to such sweepstake to be audited by a chartered or other qualified auditor or accountant and shall furnish to the Minister and also to every member of the Oireachtas a copy of such accounts as so audited and of the auditor's certificate and report thereon.
+
+(2) The person by whom the accounts of a sweepstake are audited under this section shall be the person named in that behalf in the scheme sanctioned by the Minister in relation to such sweepstake or, where for any reason that person is not available, some other person possessing the qualifications required by the foregoing sub-section of this section and approved of by the Minister.
+
+(3) If the committee managing a sweepstake held under this Act makes default in complying in relation to such sweepstake with the provisions of this section each member of such committee shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds, and in the case of a continuing offence a further fine not exceeding five pounds for every day during which the offence is committed.
