@@ -1,0 +1,3 @@
+Amendment of section 9 of the Finance Act, 1929.
+
+5.—Notwithstanding anything contained in sub-section (1) of section 9 of the Finance Act, 1929 (No. 32 of 1929), any person chargeable with income tax in respect of the profits or gains of any trade, profession, or vocation which has been set up or commenced within the year next before the year preceding the year of assessment shall be entitled, on giving notice in writing to the inspector of taxes within twelve months after the end of the year of assessment, to have the assessment reduced by the amount (if any) by which the aggregate amount of the respective assessments for the year of assessment and the year preceding that year exceed the total amount of the profits or gains of those two years.

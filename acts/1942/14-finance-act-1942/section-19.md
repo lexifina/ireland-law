@@ -1,0 +1,3 @@
+Operation of certain provisions where assessment final.
+
+19.—Where a provision contained in this Part of this Act relates to an accounting period or part of an accounting period ended before the date of the passing of this Act (whether it does or does not also relate to an accounting period or part of an accounting period ended on or after that date), effect may be given to that provision in respect of any such accounting period or part of an accounting period ended before the said date notwithstanding that an assessment in respect of that accounting period or part of an accounting period has become final.

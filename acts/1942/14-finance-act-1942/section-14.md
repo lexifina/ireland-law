@@ -1,0 +1,31 @@
+Provisions in respect of deficiencies of profits occurring in certain accounting periods.
+
+14.—(1) For the purposes of this section every accounting period beginning on or after the 1st day of January, 1941, and also the portion subsequent to the 31st day of December, 1940, of an accounting period which began before and ended on or after the 1st day of January, 1941, shall be a chargeable accounting period, and the expression “chargeable accounting period” shall, in this section, be construed accordingly.
+
+(2) For the purposes of this section a deficiency of profits, shall be deemed to have been incurred by a company in a chargeable accounting period where the profits of such company for such period as computed for the purposes of a charge to excess corporation profits tax are less than the standard profits of such company or such company incurs a loss in such period or such company neither makes any profits nor incurs a loss in such period, and references in this section to a deficiency of profits shall be construed accordingly.
+
+(3) Where a company incurs a deficiency of profits in a chargeable accounting period, the amount of such deficiency of profits shall, for the purposes of this section, be taken to be—
+
+(a) if such company has made profits in such period—the amount by which such profits fall short of the standard profits of such company, or
+
+(b) if such company has incurred a loss in such period—the total of the amount of such loss and the amount of the standard profits of such company, or
+
+(c) if such company has neither made any profits nor incurred a loss in such period—the amount of the standard profits of such company.
+
+(4) The following provisions shall apply and have effect in respect of every deficiency of profits incurred by a company in a chargeable accounting period, that is to say:—
+
+(a) whenever a company incurs, a deficiency of profits in a chargeable accounting period, that deficiency of profits shall be applied in reducing so far as it will extend the aggregate amount of the profits of such company chargeable with excess corporation profits tax in all (if any) previous chargeable accounting periods of such company or, if the said deficiency of profits is not less than the said aggregate amount, in extinguishing that amount, and where, owing to the said deficiency of profits exceeding the said aggregate amount, the said deficiency of profits is not exhausted by the said application or where, owing to there not having been any previous chargeable accounting period in respect of such company, the said deficiency of profits cannot be so applied at all, the said deficiency of profits or so much thereof as remains after such application (as the case may be) shall be carried forward and shall, in the next subsequent chargeable accounting period of such company in which such company has profits chargeable with excess corporation profits tax, be applied in reducing, so far as it will extend, or (where possible) extinguishing those profits and, if the said deficiency of profits is not thereby exhausted, the said carrying forward and other processes shall be repeated until the said deficiency of profits is thereby exhausted;
+
+(b) whenever such company incurs a deficiency of profits (in this paragraph referred to as the earlier deficiency) in a chargeable accounting period and such company incurs another deficiency of profits (in this paragraph referred to as the later deficiency) in a subsequent chargeable accounting period and, when the later deficiency is incurred the earlier deficiency either has not been applied under the foregoing paragraph of this sub-section or (having been so applied) has not been exhausted by such application, the later deficiency shall be added (as the case may be) to the earlier deficiency or to so much of the earlier deficiency as remains after such application, and the amount produced by such addition shall be applied in accordance with the said foregoing paragraph as if it were a single deficiency of profits;
+
+(c) the next preceding paragraph of this sub-section shall apply, with the necessary modifications, whenever, in a case to which that paragraph applies, two or more deficiencies of profits are incurred by such company before an earlier deficiency of profits of such company has been applied under paragraph (a) of this sub-section or before such earlier deficiency of profits (having been so applied) has been exhausted by such application;
+
+(d) the following amounts shall be excluded from the computation of the aggregate amount mentioned in paragraph (a) of this sub-section, that is to say, the amount of all (if any) profits of such company which, at any time before the making of such computation, have been extinguished under the foregoing provisions of this sub-section and all (if any) amounts by which profits of such company have, at any time before the making of such computation, been reduced under the said foregoing provisions.
+
+(5) For the purpose of calculating whether a company has or has not incurred a deficiency of profits in a chargeable accounting period which is less than twelve months and for the purpose of computing the amount of such deficiency of profits (if incurred), the standard profits of such company shall be taken to be the sum bearing the same proportion to the standard profits of such company as computed under Part V of the Finance Act, 1941 (No, 14 of 1941), and this Part of this Act as the said chargeable accounting period bears to twelve months.
+
+(6) The loss incurred by a company in a chargeable accounting period shall be computed for the purposes of this section in the like manner as profits are required by law to be computed for the purposes of a charge to excess corporation profits tax.
+
+(7) Any relief to which a company becomes entitled by virtue of this section shall be given by repayment or otherwise.
+
+(8) Sub-section (6) of section 56 of the Finance Act, 1920, and also so much of sub-section (7) of that section and the regulations made thereunder as relates to appeals shall apply and have effect, with the necessary modifications, in relation to the giving of relief under this section (including the amount of any such relief) in the like manner as they apply to assessments to excess corporation profits tax.

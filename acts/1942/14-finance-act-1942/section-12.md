@@ -1,0 +1,13 @@
+Provisions as to certain companies commencing business less than two years before 31st August, 1939.
+
+12.—(1) Any company which commenced to carry on its trade or business more than one year but less than two years before the 31st day of August, 1939, and in respect of which there has not been a trade year ending in the year ended on the 31st day of August, 1939, may by application in writing to the Revenue Commissioners request the Revenue Commissioners to determine the profits of such company for the period of twelve months beginning on the date on which such company commenced to carry on its trade or business.
+
+(2) Whenever a company makes to the Revenue Commissioners such request as is mentioned in the foregoing sub-section of this section, such company shall furnish to the Revenue Commissioners such accounts, particulars, and information as they shall require from it for the purpose of complying with such request, and thereupon, if, but only if, the Revenue Commissioners are satisfied that they can make, from the accounts, particulars, and information so furnished, by such company, a just estimate of the profits of such company for the period of twelve months beginning on the day on which such company commenced to carry on its trade or business, the Revenue Commissioners shall determine the profits of such company for the said period of twelve months and shall inform such company in writing of such determination and of the amount thereof.
+
+(3) Where the Revenue Commissioners have determined, under the foregoing provisions of this section, the profits of a company for the period of twelve months mentioned in those provisions, the following provisions shall, notwithstanding anything contained in sub-section (1) of section 38 of the Finance Act, 1941 (No. 14 of 1941), apply and have effect, that is to say:—
+
+(a) the standard profits of such company for the purposes of Part V of the said Act shall be the amount of the profits so determined of such company or the sum of two thousand five hundred pounds, whichever is the greater;
+
+(b) paragraph (d) of sub-section (1) of the said section 38 and sub-section (2) of that section shall apply to such company in like manner as if one of the paragraphs (a), (b), and (c) of the said sub-section (1) were applicable to such company and the standard profits of such company had been calculated accordingly.
+
+(4) This section shall apply and have effect in respect of every accounting period beginning on or after the 1st day of January, 1941, and also in respect of the portion subsequent to the 31st day of December, 1940, of an accounting period which began before and ended on or after the 1st day of January, 1941.
