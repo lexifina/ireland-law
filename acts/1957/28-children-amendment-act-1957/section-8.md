@@ -1,0 +1,3 @@
+Contributions by local authority in respect of periods of absence from certified school.
+
+8.—The payments to be made in pursuance of section 21 of the Act of 1941 by a local authority to the managers of a certified school for the maintenance of a youthful offender or child shall be and be deemed always to have been payable throughout the time when he is subject to an order for detention, including any period of absence from the school with the consent of the managers of the school for the purpose of home or casual leave or of attending a course of instruction outside the school premises but, except as aforesaid, not including any period during which he is absent in pursuance of a supervision certificate under section 67 of the Principal Act.
