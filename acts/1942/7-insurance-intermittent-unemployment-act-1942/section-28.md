@@ -1,0 +1,7 @@
+Right to supplementary benefit and periods in respect of which it is payable.
+
+28.—(1) Every insured person who is intermittently unemployed on any day (other than a Sunday or a public holiday within the meaning of the Conditions of Employment Act, 1936 (No. 2 of 1936), or the first day of a spell of insurable employment with the person who was his employer when such intermittent unemployment occurred) and in whose case the statutory conditions are fulfilled shall, subject to the provisions of this Act, be entitled to receive payment (in this Act referred to as supplementary benefit) in respect of each hour of intermittent unemployment occurring on such day during working hours.
+
+(2) Where the duration of a period of intermittent unemployment occurring during working hours on any day is a fraction of an hour only or is one or more hours and a fraction of an hour, supplementary benefit shall not be payable in respect of such fraction of an hour and, for the purposes of this sub-section, where two or more periods of intermittent unemployment occur during working hours on any day such periods shall be deemed to be one continuous period.
+
+(3) In this section the expression “working hours” means, in relation to an insured person, the hours, exclusive of overtime and mealtime, during which, if there was not inclement weather, work in an insurable employment would have been performed by such insured person.

@@ -1,0 +1,5 @@
+Date from which contributions are payable in certain cases.
+
+22.—(1) Where it has been decided by the Minister in manner provided by this Act that weekly contributions under this Act are not payable in respect of any person or class of persons and that decision is subsequently revised or reversed by him or, on appeal, by the High Court so as to make weekly contributions payable in respect of that person or that class of persons, weekly contributions shall be so payable only as from the date on which the decision was revised or reversed.
+
+(2) Where it has been decided by the Minister that weekly contributions in respect of a person or class of persons are payable at a particular rate under this Act and that decision is subsequently revised or reversed by him or, on appeal, by the High Court so as to make weekly contributions payable at another rate in respect of that person or class of persons, weekly contributions shall be so payable at such other rate only as from the date on which the decision was revised or reversed.

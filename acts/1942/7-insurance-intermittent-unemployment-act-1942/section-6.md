@@ -1,0 +1,3 @@
+Insured persons.
+
+6.—In this Act the expression “insured person” means any person of the age of sixteen years or upwards who is employed in insurable employment under a contract of service or apprenticeship, written or oral, whether expressed or implied and whether such person is paid by the employer or some other person, and whether paid by time or by the piece or partly by time and partly by the piece, or otherwise, or without any money payment, but does not include a person employed under a contract of apprenticeship under which no money is payable by the employer, or a person who is for the time being an excepted person.
