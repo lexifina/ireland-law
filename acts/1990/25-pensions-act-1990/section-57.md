@@ -1,0 +1,3 @@
+Modification of Part V.
+
+57.—Where the Minister considers that it would be unreasonable, having regard to their nature and character and the size of their membership, to require specified schemes or categories of schemes to comply fully with sections 54, 55 and 56, he may by regulations made with the consent of the Minister for Finance provide that those sections shall apply in relation to those schemes or categories of schemes with specified modifications, being modifications that, in the opinion of the Minister, are reasonable and are not such to relieve the trustees of the obligation to furnish such information under those sections as is appropriate in all the circumstances.
