@@ -1,0 +1,11 @@
+Tree preservation orders (1963, section 45).
+
+21.—If, on a claim made to the planning authority, it is shown that, as a result of any decision of the authority to refuse a consent required under an order under section 45 of the Principal Act, or to grant any such consent subject to conditions, the value of an interest of any person in the land to which such decision relates existing at the time of the decision is reduced, or that any person having an interest in the land at that time has suffered damage by being disturbed in his enjoyment of the land, such person shall, subject to the provisions of this Act, be entitled to be paid by the planning authority by way of compensation the amount of such reduction in value or the amount of such damage, but—
+
+(a) where the order declares that, as respects any tree, trees or group of trees not comprised in woodlands, the tree, trees or group is or are of special amenity value or special interest no compensation shall be payable in relation to the tree, trees or group;
+
+(b) where the order declares that, as respects any trees comprised in woodlands, a condition comprising a requirement to replant is an essential condition for attachment in the interests of amenity to any consent given under the order no compensation shall be payable in relation to such a condition attached to any such consent;
+
+(c) where the order declares that, as respects any trees comprised in woodlands, a condition comprising a requirement to preserve a specified proportion of the trees, not being greater than twenty per cent., is an essential condition for attachment, because of special amenity value or of special interest, to any consent given under the order, no compensation shall be payable in relation to such a condition attached to any consent;
+
+(d) where the order declares that, as respects any trees comprised in woodlands, a condition comprising a requirement to phase the felling or extraction of trees over a period of up to 20 years in such manner as may be specified in the order, is an essential condition for attachment, because of special amenity value or of special interest, to any consent given under the order, no compensation shall be payable in relation to such a condition attached to any consent.

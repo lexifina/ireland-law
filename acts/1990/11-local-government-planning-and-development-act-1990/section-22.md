@@ -1,0 +1,3 @@
+Creation of public rights of way (1963, section 48).
+
+22.—If, on a claim made to the planning authority, it is shown that the value of an interest of any person in land, being land over which a public right of way has been created by an order under section 48 of the Principal Act made by that authority, is reduced, or that any person having an interest in such land has suffered damage by being disturbed in his enjoyment of the land, in consequence of the creation of the public right of way, such person shall, subject to the provisions of this Act, be entitled to be paid by the planning authority by way of compensation the amount of such reduction in value or the amount of such damage.

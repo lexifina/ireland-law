@@ -1,0 +1,3 @@
+Removal or alteration of hedge (1963, section 44).
+
+20.—If, on a claim made to the planning authority, it is shown that, as a result of the removal or alteration of any hedge consequent upon a notice under section 44 of the Principal Act, the value of an interest of any person in the land existing at the time of the notice is reduced, or that any person having an interest in the land at that time has suffered damage by being disturbed in his enjoyment of such land, such person shall, subject to the provisions of this Act, be entitled to be paid by the planning authority by way of compensation the amount of such reduction in value or such damage.
