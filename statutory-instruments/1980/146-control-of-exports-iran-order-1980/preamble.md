@@ -1,0 +1,5 @@
+S.I. No. 146 of 1980.
+
+CONTROL OF EXPORTS (IRAN) ORDER, 1980.
+
+I, DESMOND O'MALLEY, Minister for Industry, Commerce and Tourism, in exercise of the powers conferred on me by section 2 of the Agricultural and Fishery Products (Regulation of Export) Act, 1947 (No. 18 of 1947), section 2 of the Control of Exports (Temporary Provisions) Act, 1956 (No. 1 of 1956 ) (which Act is continued in force by the Control of Exports (Temporary Provisions) Act, 1956 (Continuance) Act, 1977 (No. 26 of 1977)), the Agricultural and Fishery Products (Regulation of Export) Act, 1947 (Transfer of Powers) Order, 1956 ( S.I. No. 52 of 1956 ) (as amended by the Agricultural and Fishery Products (Regulation of Export) Act, 1947 (Transfer of Powers) Order, 1956 (Amendment) Order, 1963 ( S.I. No. 21 of 1963 )), and the Industry, Commerce and Energy (Alteration of Name of Department and Title of Minister) Order, 1980 ( S.I. No. 10 of 1980 ), and after consultation with the Minister for Foreign Affairs, hereby order as follows:
