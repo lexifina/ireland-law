@@ -1,0 +1,17 @@
+Winding-up and bankruptcy.
+
+[1976 (No. 2), s.7].
+
+250.—(1) In this section—
+
+“the Act of 1889” means the Preferential Payments in Bankruptcy (Ireland) Act, 1889.
+
+(2) Any sum deducted by an employer from the remuneration of an employee of his and so deducted under section 243 in respect of a weekly contribution under this Part and unpaid by the employer in respect of such contribution shall not form part of the assets of a limited company in a winding-up under the Companies Act, 1963, and in such a winding-up a sum equal in amount to the sum so deducted shall, notwithstanding anything in that Act, be paid to the Fund in priority to the debts specified in section 285 (2) of that Act.
+
+(3) Any sum deducted by an employer from the remuneration of an employee of his and so deducted under section 243 in respect of a weekly contribution under this Part and unpaid by the employer in respect of such contribution before the date of the order of adjudication or the filing of the petition for arrangement (as the case may be) shall not form part of the property of the bankrupt or arranging debtor so as to be included among the debts which under section 4 of the Act of 1889 are in the distribution of such property to be paid in priority to all other debts, but shall, before such distribution and notwithstanding anything in the Act of 1889, be paid to the Fund in priority to the debts specified in section 4 of that Act.
+
+(4) Formal proof of a debt to which priority is given by this section shall not be required except where required by or under the Act of 1889 or the Companies Act, 1963.
+
+[1942 IU, s. 27 (3)]
+
+(5) There shall be included among the debts which, under section 4 of the Act of 1889, are, in the distribution of the property of a bankrupt or arranging debtor, to be paid in priority to all other debts all weekly contributions payable by the bankrupt or arranging debtor in respect of insured persons during the 4 months before the date of the order of adjudication in the case of a bankrupt or the filing of the petition for arrangement in the case of an arranging debtor and that Act shall have effect accordingly and formal proof of the debts to which priority is given under this subsection shall not be required except in cases where it may otherwise be provided by general orders made under that Act.

@@ -1,0 +1,3 @@
+Commencement and repeals.
+
+310.—Subject to this Part, this Act shall come into operation on such day as the Minister by order appoints, and the enactments mentioned in the Sixth Schedule (which enactments are in this Act referred to as repealed enactments) are hereby repealed to the extent mentioned in the third column of that Schedule as from that day: provided that the provisions of the repealed enactments shall continue to apply to benefit, assistance and the miscellaneous schemes under Parts IV, V and VI prior to the commencement of this Act to the same extent that they would have applied thereto if this Act had not been passed.
