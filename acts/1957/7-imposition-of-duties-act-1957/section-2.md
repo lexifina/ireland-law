@@ -1,0 +1,7 @@
+Effect of orders under section 1.
+
+2.—(1) Every order under section 1 shall have statutory effect upon the making thereof and, unless the order either is confirmed by Act of the Oireachtas passed not later than the end of the year following that in which the order is made or is an order merely revoking wholly an order previously made under that section, the order shall cease to have statutory effect at the expiration of that period but without prejudice to the validity of anything previously done thereunder.
+
+(2) No order under section 1 which ceases to have statutory effect by reason of the expiration of the period mentioned in subsection (1) of this section or which is revoked by order under section 1 shall be capable of being continued or renewed by any other order made (whether before or after such cesser or revocation) under that section.
+
+(3) If when an order under section 1 is made or at any time thereafter and before the order is confirmed by Act of the Oireachtas or is revoked or ceases to have statutory effect Dáil Éireann stands adjourned for a period of more than ten days and if during the adjournment a majority of the members of Dáil Éireann by notice in writing given to the Ceann Comhairle require Dáil Éireann to be summoned, the Ceann Comhairle shall summon Dáil Éireann to meet on a day named by him not being more than twenty-one days after the receipt by him of the notice nor less than ten days after the issue of the summons.
