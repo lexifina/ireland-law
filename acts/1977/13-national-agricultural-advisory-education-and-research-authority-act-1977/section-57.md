@@ -1,0 +1,3 @@
+Office accomodation for committees of agriculture.
+
+57.—Where the property of a committee of agriculture transferred to the Authority under section 53 includes office accommodation used as a headquarters office and office furniture and equipment contained therein, the Authority shall, on and after the commencement of that section, make available to that committee such office accommodation (for use as a headquarters office), equipment and furniture as may be agreed between the committee and the Authority as adequate, on such terms and conditions as may be agreed between them or, in the event of disagreement, whether as to adequacy or otherwise, as the Minister may determine.

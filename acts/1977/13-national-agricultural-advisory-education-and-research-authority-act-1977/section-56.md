@@ -1,0 +1,3 @@
+Transfer of liabilities.
+
+56.—On the commencement of section 53, every debt and other liability (including unliquidated liabilities) which, immediately before the commencement of that section, is owing and unpaid and has been incurred and is undischarged by the Institute or a committee of agriculture or, as the case may be, the Minister in relation to the functions and properties transferred to the Authority under this Act shall, on the commencement of that section become and be the debt or liability of the Authority and shall be paid or discharged by, and may be recovered from or enforced against, the Authority accordingly.

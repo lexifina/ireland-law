@@ -1,0 +1,5 @@
+Retention of property by the Minister.
+
+60.—(1) Notwithstanding section 53, the lands and buildings (or any portion of the lands and buildings) together with any crops, livestock, equipment and other movable property on the properties referred to in subsection (1) (b) of that section which, before the commencement of that section, were used by the Minister for purposes other than the performance of functions transferred to the Authority under this Act, shall remain the property of the Minister, and the Authority shall, at all reasonable times, afford free access to such retained property to the Minister, his officers and servants in the performance of their functions and to such machinery and vehicles as may be necessary for the performance of those functions.
+
+(2) The Minister may by order transfer, at his discretion, to the Authority any of the lands, buildings or other property referred to in subsection (1) or any other lands, buildings or property in his possession and, where such an order is made, the relevant provisions of sections 53 and 56 shall apply to the transfer.

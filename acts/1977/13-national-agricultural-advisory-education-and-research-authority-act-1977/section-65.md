@@ -1,0 +1,11 @@
+Transfer of staff to Authority.
+
+65.—(1) Every person who, immediately before the commencement of this section, is in the service of the Institute or a committee of agriculture shall, on such commencement, be transferred to and become, as the case may be, an officer or servant of the Authority, and all persons so transferred shall be members of the transferred staff of the Authority and are in this Act referred to as transferred staff.
+
+(2) Any person in the service of the Minister who is designated by him for transfer to the Authority shall, on the date of such designation, be transferred to and become, as the case may be, an officer or servant of the Authority and all persons so transferred shall be members of the transferred staff and are in this Act referred to as transferred staff.
+
+(3) (a) Subject to subsection (4), a member of the transferred staff shall not, while in the service of the Authority, receive less remuneration or be subject to less beneficial conditions of service than the remuneration to which he was entitled and the conditions of service to which he was subject in the service from which he has been transferred.
+
+(b) Until such time as a staff scheme applicable to a particular member of the transferred staff and approved by the Minister under section 34 comes into operation, the conditions of service, restrictions, requirements and obligations to which the member was subject before his transfer to the service of the Authority shall continue to apply to him and may be exercised or imposed by the Board or the Director, as the case may be, while he is in the service of the Authority.
+
+(4) The Board may, subject to section 34 and following consultation with the recognised staff associations and trade unions concerned, redistribute or rearrange the duties to be performed by members of the transferred staff as appropriate to their grade or employment and every such member shall be bound to perform the duties allotted to him in any such redistribution or rearrangement, and no such redistribution or rearrangement shall be taken to be a removal from or abolition of office for the purpose of any scheme or enactment relating to superannuation or compensation for loss of office.
