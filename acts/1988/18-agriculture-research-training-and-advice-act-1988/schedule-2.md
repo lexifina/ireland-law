@@ -1,0 +1,7 @@
+SECOND SCHEDULE
+
+Enactments Repealed
+
+Section 28.
+
+Number or Chapter and Year Short Title Extent of Repeal (1) (2) (3) 1908, c. 34 Bee Pest Prevention (Ireland) Act, 1908 In section 10 (2): the words “for the purposes of agriculture and other rural industries”; section 11 No. 8 of 1931 Agriculture Act, 1931 Parts II and III No. 20 of 1934 Agriculture (Amendment) Act, 1934 The whole Act No. 3 of 1944 Agriculture (Amendment) Act, 1944 The whole Act No. 24 of 1948 Agriculture (Amendment) Act, 1948 The whole Act No. 2 of 1955 Agriculture (Amendment) Act, 1955 The whole Act No. 1 of 1958 Agriculture (An Foras Talúntais) Act, 1958 The whole Act No. 17 of 1958 Agriculture (Amendment) Act, 1958 The whole Act No. 19 of 1963 Electoral Act, 1963 In section 81 (3): the words “, and in the Agriculture Acts, 1931 to 1958,” No. 19 of 1964 Agriculture (Amendment) Act, 1964 The whole Act No. 14 of 1967 Agriculture (Amendment) Act, 1967 The whole Act No. 3 of 1970 Agriculture (Amendment) Act, 1970 The whole Act No. 32 of 1971 Agriculture (Amendment) Act, 1971 The whole Act No. 23 of 1974 Agriculture (Amendment) Act, 1974 The whole Act No. 13 of 1977 National Agricultural Advisory, Education and Research Authority Act, 1977 The whole Act No. 9 of 1979 Agriculture (An Chomhairle Oiliúna Talmhaíochta) Act, 1979 The whole Act No. 12 of 1980 Agriculture (Amendment) Act, 1980 The whole Act No. 7 of 1987 Agriculture (An Chomhairle Oiliúna Talmhaíochta) Act, 1987 The whole Act
