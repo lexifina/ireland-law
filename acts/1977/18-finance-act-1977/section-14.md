@@ -1,0 +1,5 @@
+Increase of allowances for certain capital expenditure.
+
+14.—(1) Where, on or after the 6th day of April, 1977, a person to whom section 22 of the Finance Act, 1974 (inserted by the Corporation Tax Act, 1976) applies, incurs capital expenditure to which this section applies, being expenditure in respect of which he is entitled to claim an allowance under that section, the allowance to be granted for the chargeable period related to the expenditure or any subsequent chargeable period shall be increased by such amount as is specified by the person to whom the allowance is to be made in making his claim for the allowance, and in relation to a case in which this subsection has had effect, any reference in the Tax Acts to a farm buildings allowance made under the said section 22 shall be construed as a reference to that allowance as increased under this section.
+
+(2) This section applies to expenditure incurred on the construction of fences, roadways, holding yards or drains or on land reclamation.

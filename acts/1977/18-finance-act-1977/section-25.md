@@ -1,0 +1,3 @@
+Determination of volume of sales.
+
+25.—For the purposes of section 24 (c) the volume of sales by a company in the 1977 period of goods manufactured in the State, and sold, in the course of a specified trade carried on by it shall be the amount which would have been receivable from the sale of those goods if the company and the buyer of the goods were independent parties dealing at arm's length and the goods were sold at the average of the prices at which they could have been sold in the course of that trade in the standard year in relation to that trade, or, where the 1977 period is less than twelve months, in the corresponding part of the standard year in relation to that trade.

@@ -1,0 +1,5 @@
+Application of section 31 (building societies) of Corporation Tax Act, 1976, for certain years of assessment.
+
+40.—(1) Notwithstanding the proviso to section 31 (1) of the Corporation Tax Act, 1976, any arrangements entered into by the Revenue Commissioners and any building society as respects the year of assessment 1975-76, in so far as they provide for payment of an amount representing income tax calculated in part at the standard rate and in part at a reduced rate, may, with any necessary modifications, be continued for the two years of assessment immediately following for the purpose of determining, in relation to that building society, the amount representing income tax which is referred to in paragraph (a) of the said section 31 (1), and that section shall have effect in relation to any arrangements so continued for the said two years.
+
+(2) The reference to the standard rate in paragraph (i) of the proviso to subsection (3) of the said section 31 shall, in relation to the year 1976-77, be construed as a reference to the standard rate of tax increased by 10 per cent. of that rate.
