@@ -1,0 +1,3 @@
+Electors at Seanad elections.
+
+2.—Article 32 of the Constitution shall be and is hereby amended by the deletion of the words “at which the area of the jurisdiction of the Irish Free State (Saorstát Eireann) shall form one electoral area, and the elections shall be held on principles of Proportional Representation” now contained therein and the insertion in lieu of the words so deleted of the words “at which the electors shall be the members of Dáil Eireann and the members of Seanad Eireann voting together on principles of Proportional Representation. The voting at such elections shall be by secret ballot and no elector may exercise more than one vote thereat. The place and conduct of such elections shall be regulated by law.”
