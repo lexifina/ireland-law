@@ -1,0 +1,3 @@
+Validation of expenditure under certain schemes heretofore made.
+
+8.—All moneys raised or expended (whether before or after the passing of this Act) by the corporation of a county borough or the council of a county after the repeal of the Local Government (Temporary Provisions) Act, 1923 (No. 9 of 1923), in the execution of a scheme approved of by the Minister under section 17 of that Act or in the execution of a scheme approved of by the Minister after the repeal of the said Act and before the passing of this Act which would have been a valid scheme under the said section 17 if the said Act had not been repealed, shall be deemed to have been law fully so raised and expended.
