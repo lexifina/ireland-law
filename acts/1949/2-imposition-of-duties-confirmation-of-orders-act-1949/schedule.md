@@ -1,0 +1,3 @@
+SCHEDULE
+
+Ref. No. Number and Year of the Statutory Instruments Short title General subject-matter 1 No. 241 of 1948 Emergency Imposition of Duties (No. 233) Order, 1948. Imposition of duty on malt extracts and preparations of malt extract and fish liver oil. 2 No. 284 of 1948 Emergency Imposition of Duties (No. 234) Order, 1948. Imposition of duty on certain bottles and jars. 3 No. 285 of 1948 Emergency Imposition of Duties (No. 235) Order, 1948. Imposition of duty on certain lead-acid accumulators and certain component parts thereof. 4 No. 286 of 1948 Emergency Imposition of Duties (No. 236) Order, 1948. Imposition of duty on certain footballs and certain covers thereof.
