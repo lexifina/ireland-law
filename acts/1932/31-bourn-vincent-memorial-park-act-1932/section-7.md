@@ -1,0 +1,3 @@
+Contribution to costs of scheduled documents.
+
+7.—The Minister shall, out of moneys provided by the Oireachtas, pay to Senator Arthur Rose Vincent, named and described in the scheduled documents, such sum not exceeding five hundred pounds as shall be agreed upon between the Minister and the said Senator Arthur Rose Vincent as and for a contribution to the costs and expenses incurred by the said Senator Arthur Rose Vincent in and about the preparation, execution, and completion of the scheduled documents and the costs and expenses incurred by the parties to the Preliminary Conveyance in and about the preparation, execution, and completion of that Conveyance.
