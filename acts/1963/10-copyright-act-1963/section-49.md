@@ -1,0 +1,9 @@
+Prospective ownership of copyright.
+
+49.—(1) Where by an agreement made in relation to any future copyright, and signed by or on behalf of the prospective owner of the copyright, the prospective owner purports to assign the future copyright (wholly or partially) to another person (in this subsection referred to as the assignee), then if, on the coming into existence of the copyright, the assignee or a person claiming under him would, apart from this subsection, be entitled as against all other persons to require the copyright to be vested in him (wholly or partially, as the case may be), the copyright shall, on its coming into existence, vest in the assignee or his successor in title accordingly by virtue of this subsection and without further assurance.
+
+(2) Where, at the time when any copyright comes into existence, the person who, if he were then living, would be entitled to the copyright is dead, the copyright shall devolve as if it had subsisted immediately before his death and he had then been the owner of the copyright.
+
+(3) Subsection (4) of section 47 of this Act shall apply in relation to a licence granted by a prospective owner of any copyright as it applies in relation to a licence granted by the owner of a subsisting copyright subject to the modification that any reference in that subsection to the owner's interest in the copyright shall be construed as including a reference to his prospective interest therein.
+
+(4) In this Act “future copyright” means copyright which will or may come into existence in respect of any future work or class of works or other subject-matter, or on the coming into operation of any provisions of this Act, or in any other future event, and “prospective owner” shall be construed accordingly and, in relation to any such copyright, includes a person prospectively entitled thereto by virtue of such an agreement as is mentioned in subsection (1) of this section.
