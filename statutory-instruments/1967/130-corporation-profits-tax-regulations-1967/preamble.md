@@ -1,0 +1,1 @@
+The Revenue Commissioners, in exercise of the powers conferred on them by section 56 (7) of the Finance Act, 1920, as adapted by the Revenue Commissioners Order, 1923, hereby make the following regulations:
