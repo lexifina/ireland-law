@@ -1,0 +1,3 @@
+Evidential value of certain certificates.
+
+10.—In any proceedings for an offence under the Principal Act or section 5 of this Act, the production of a certificate purporting to be signed by an officer of the Forensic Science Laboratory of the Department of Justice and relating to an examination, inspection, test or analysis, as the case may be, specified in the certificate of a controlled drug or other substance, product or preparation so specified shall, until the contrary is proved, be evidence of any fact thereby certified without proof of any signature thereon or that any such signature is that of such an officer.
