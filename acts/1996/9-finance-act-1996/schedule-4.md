@@ -1,0 +1,7 @@
+FOURTH SCHEDULE
+
+Stamp Duty Enactments Repealed
+
+Section 119.
+
+Session and Chapter or Number and Year Short Title Extent of Repeal (1) (2) (3) 54 & 55 Vict., c. 39. Stamp Act, 1891. Sections 46, 101 and 110. In section 122 (1) in the Table to the definition of “accountable person” (inserted by the Finance Act, 1991) the words “BOND, COVENANT or INSTRUMENT of any kind whatsoever.” in column (1) and the words “The obligee, covenantee, or other person taking the security.” in column (2). In the First Schedule (inserted by the Finance Act, 1970) the reference to “instruments relating to, upon any other occasion. See BOND, COVENANT, &c.” in the Heading “ANNUITY”, the Heading “COVENANT in relation to any annuity (except upon the original creation and sale thereof) or to other periodical payments.” together with the reference “See BOND, COVENANT, &c.” thereto and the Heading “SUPERANNUATION ANNUITY.” together with the reference “See BOND, COVENANT, &c.” thereto. 62 & 63 Vict., c. 9. Finance Act, 1899. Section 7. 10 & 11 Geo. 5., c. 18. Finance Act, 1920. Section 39. No. 35 of 1926. Finance Act, 1926. Section 37. No. 20 of 1930. Finance Act, 1930. Section 15. No. 14 of 1941. Finance Act, 1941. Sections 47 and 48. No. 15 of 1947. Finance Act, 1947. Section 19. No. 7 of 1968. Finance (Miscellaneous Provisions) Act, 1968. Section 11. No. 14 of 1970. Finance Act, 1970. Section 48. No. 19 of 1972. Finance Act, 1972. Section 34.
