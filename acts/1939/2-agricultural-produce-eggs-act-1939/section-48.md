@@ -1,0 +1,13 @@
+Possession, sale, etc., of eggs unfit for human consumption.
+
+48.—(1) It shall not be lawful for any person to sell or to offer or expose for sale or to consign to any place, whether inside or outside Ireland, any eggs which are unfit for human consumption.
+
+(2) It shall not be lawful for any registered wholesaler to have in his possession after the prescribed time for the testing of eggs by registered wholesalers, any eggs which are unfit for human consumption unless such eggs are marked and set aside for disposal in the prescribed manner.
+
+(3) It shall not be lawful for any registered dealer to have in his possession, after the expiration of the prescribed time for the disposal of eggs by registered dealers after acquisition, any eggs which are unfit for human consumption.
+
+(4) It shall not be lawful for any retailer to have in his possession, after the expiration of the prescribed time for the examination of eggs by retailers after acquisition, any eggs which are unfit for human consumption.
+
+(5) Every person who contravenes, whether by act or omission, any sub-section of this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first such offence, to a fine not exceeding twenty pounds or, in the case of a second or any subsequent such offence, to a fine not exceeding fifty pounds, or at the discretion of the Court, to imprisonment for a term not exceeding six months or to both such fine and such imprisonment.
+
+(6) Where a registered dealer is charged with an offence under this section and the act alleged to constitute the offence is a contravention of sub-section (1) of this section, it shall be a good defence to such charge for such registered dealer to show that he did not know that the eggs were unfit for human consumption and that he sold them within the prescribed time for disposal thereof after acquisition.
