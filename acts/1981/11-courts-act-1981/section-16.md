@@ -1,0 +1,5 @@
+Venue in relation to certain jurisdictions of Circuit Court and District Court.
+
+16.—(1) The jurisdiction under the Illegitimate Children (Affiliation Orders) Act, 1930, the Guardianship of Infants Act, 1964, the Family Law (Maintenance of Spouses and Children) Act, 1976, and section 5 of this Act conferred on the Circuit Court shall be exercised by the judge of the circuit where any party to the proceedings ordinarily resides or carries on any profession, business or occupation.
+
+(2) Notwithstanding anything contained in section 79 of the Courts of Justice Act, 1924, and, as respects proceedings under the Illegitimate Children (Affiliation Orders) Act, 1930, section 2 of the latter Act, proceedings under the latter Act, the Guardianship of Infants Act, 1964, and the Family Law (Maintenance of Spouses and Children) Act, 1976, may be brought, heard and determined before and by a justice of the District Court for the time being assigned to the District Court district where any party to the proceedings ordinarily resides or carries on any profession, business or occupation.

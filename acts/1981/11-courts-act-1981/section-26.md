@@ -1,0 +1,3 @@
+Application of section 336 of the Irish Bankrupt and Insolvent Act, 1857, to District Court decrees.
+
+26.—Every decree of the District Court obtained after the commencement of this section shall be deemed to be a judgment of a superior court within the meaning and for the purpose of section 336 of the Irish Bankrupt and Insolvent Act, 1857, and that section shall apply and have effect in relation to every such decree of the District Court accordingly, but with the modification that, in such application of the said section, registration in the Central Office of the High Court under this Act shall be substituted for registration in the office of the registrar of judgments.
