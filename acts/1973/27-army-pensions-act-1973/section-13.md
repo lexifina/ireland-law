@@ -1,0 +1,5 @@
+Short title and collective citation.
+
+13.—(1) This Act may be cited as the Army Pensions Act, 1973.
+
+(2) The Army Pensions Acts, 1923 to 1971, and this Act may be cited together as the Army Pensions Acts, 1923 to 1973.
