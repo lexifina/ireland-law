@@ -1,0 +1,3 @@
+Redemption by Company of its debenture stock.
+
+7.—The Company may redeem and cancel any debenture stock issued by it before the passing of this Act and such redemption maybe effected by the sending by prepaid ordinary post by the Company to each holder of any such stock, at the address of such holder specified in the register of holders of the stock kept by the company, of the amount specified in the certificate of his holding issued by the Company together with any interest thereon at the rate specified in the certificate accrued up to the date of such sending and not previously paid and, upon such sending, the stock shall cease to be a charge on the assets of the Company.
