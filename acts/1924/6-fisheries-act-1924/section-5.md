@@ -1,0 +1,3 @@
+Penalties for attempting to spear, etc., fish at night.
+
+5.—Every person who shall, between sunset and sunrise, have or use any light or fire of any kind, or any spear, gaff, strokehaul, or other such instrument with intent to take salmon, trout or other fish in or on the banks of any lake, river or estuary, shall be guilty of an offence under this Act and shall on summary conviction thereof be punishable by a fine of not less than two pounds nor more than twenty-five pounds, or, at the discretion of the court, by imprisonment with or without hard labour for any period not less than one month nor more than twelve months, and shall also forfeit every such light, fire, spear, gaff, strokehaul, or other instrument aforesaid.
