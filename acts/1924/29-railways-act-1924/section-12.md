@@ -1,0 +1,5 @@
+Employees of Irish Railway Clearing House.
+
+12.—(1) The provisions of the Third Schedule to this Act shall, with the modifications hereinafter mentioned, apply to every person who was on the 3rd day of April, 1924, an officer or servant of the Irish Railway Clearing House and who, as a direct result of any re-organisation of the Irish Railway Clearing House taking place within five years after the passing of this Act, is discharged on account of the abolition of his office or situation, or is required to perform duties such as are not analogous, or are an unreasonable addition, to those which he was required to perform immediately previous to the date aforesaid.
+
+(2) For the purpose of the application of the Third Schedule to this Act to the persons aforesaid, the said Schedule shall be construed and take effect as if the Irish Railway Clearing House were substituted in the said Schedule for the amalgamated company, and the persons aforesaid were officers or servants of an amalgamating company.

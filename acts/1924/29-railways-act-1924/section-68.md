@@ -1,0 +1,3 @@
+Language of public notices and tickets.
+
+68.—The amalgamated company shall, as soon as may be practicable, replace all public notices and signs (including names of stations) which are now in the English Language only by notices and signs in both Irish and English, and shall within one year from the 1st January, 1925, submit to the Minister a scheme for the printing of their passenger card tickets for journeys within the Saorstát in both the Irish and English languages and the Minister shall, unless he is of opinion that the adoption of the scheme would jeopardise the standard revenue and result in increased rates and fares, order the amalgamated company to put such scheme into operation: Provided that existing stocks of tickets may be used until exhausted.

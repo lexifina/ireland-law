@@ -1,0 +1,5 @@
+Subsequent modifications of standard charges.
+
+33.—The amalgamated company or any representative body of traders or any person who may obtain a certificate from the Minister that he is a proper person for the purpose, shall be entitled at any time to apply to the railway tribunal to modify the standard charges or any of them or any conditions relative thereto, and, if such company or body of traders or person, as the case may be, prove to the satisfaction of the railway tribunal that the standard charges or conditions or any of them ought to be modified, the tribunal shall make such modifications as they think fit, and shall fix the date as from which the modified standard charges or conditions shall be effective:
+
+Provided that sub-sections (3), (4), (5), and (6) of section 54 of this Act shall apply to any application for a general revision or variation of standard charges of the amalgamated company under this section, as if such application were a review of standard charges and exceptional charges under that section.

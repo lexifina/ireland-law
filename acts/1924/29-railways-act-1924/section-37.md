@@ -1,0 +1,3 @@
+Review of competitive exceptional rates.
+
+37.—If it should appear to the Minister or if representations amounting to a prima facie case to the satisfaction of the Minister are made to him by any body of persons which in the opinion of the Minister has a substantial interest in the conveyance of traffic by way of shipping services or inland navigation, to the effect that exceptional rates are being charged by the amalgamated company which by reason of their effect on such conveyance are detrimental to the public interest, the Minister shall refer the matter to the railway tribunal for review, and the railway tribunal may, after hearing all parties whose interests are affected, vary or cancel such rates or make such other order as may seem to them expedient.

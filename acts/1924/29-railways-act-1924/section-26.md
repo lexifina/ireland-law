@@ -1,0 +1,3 @@
+Classification.
+
+26.—The railway tribunal shall consider and, after hearing all parties interested and who are desirous of being heard, shall determine the classification of merchandise applicable to the amalgamated company and shall have power to divide the classification into such number of classes containing such descriptions of merchandise as they think fit, and in determining the class in which any particular merchandise shall be placed they shall, in addition to all other relevant circumstances, have regard to the value, the bulk in comparison to weight, the risk of damage, and the cost of handling such merchandise, and the saving of cost which may result when such merchandise is forwarded in large quantities.
