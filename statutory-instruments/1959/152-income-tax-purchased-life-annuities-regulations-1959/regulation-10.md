@@ -1,0 +1,3 @@
+Regulation 10
+
+10. If the original determination is amended as the result of an appeal, the Inspector shall, unless the payer is not entitled or required to deduct tax from the annuity or any part of it, serve a notice of the determination as so amended upon the payer of the annuity. The amended determination shall become effective as soon as the appeal has been finally determined and any notice as aforesaid has been served, and shall supersede any earlier determination in relation to the first payment made thereafter on account of the annuity, and, subject to the next following Regulation, to all subsequent such payments.
