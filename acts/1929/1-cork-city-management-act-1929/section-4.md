@@ -1,0 +1,11 @@
+Casual vacancies.
+
+4.—(1) In this Act the expression “casual vacancy” means a vacancy in the membership of the Council caused by the death, resignation or disqualification of a member thereof.
+
+(2) Where a casual vacancy occurs in the Council by reason of the death, resignation or disqualification of any member thereof other than a member whose term of office would, but for such death, resignation or disqualification, have continued until the fifth day following the borough election to be held under this Act next after the occurrence of such casual vacancy there shall be elected at such borough election a member of the Council additional to the seven members thereof otherwise required by this Act to be elected at such election and such additional member shall, unless he sooner dies, resigns or becomes disqualified hold office for the residue of the term for which the member whose death, resignation or disqualification occasioned the vacancy would have held office if he had not died, resigned or become disqualified.
+
+(3) The last person elected as a member of the Council at a borough election at which a casual vacancy is by this section required to be filled shall be chosen to fill such vacancy and where more than one casual vacancy is required to be filled at such election the eighth person elected thereat shall be chosen to fill whichever of those vacancies is then to be filled for the longest period of time and so on.
+
+(4) The Council may in their absolute discretion by resolution passed for that purpose after one week's notice to every member of the Council determine to fill by co-option in accordance with this sub-section the casual vacancy to which such resolution relates, and upon such resolution being passed the Council may either at the meeting at which such resolution was passed or any subsequent meeting thereof elect by the votes of a simple majority of the members of the Council present and voting at such meeting a person to fill such casual vacancy.
+
+(5) Every person chosen in pursuance of the provisions of the foregoing sub-section to fill a casual vacancy shall unless he sooner dies, resigns, or becomes disqualified hold office until the day on which the borough election to be held under this Act next after the occurrence of the casual vacancy so filled is so held.

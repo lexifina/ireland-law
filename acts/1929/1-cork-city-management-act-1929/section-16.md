@@ -1,0 +1,7 @@
+Authorisation of payments.
+
+16.—(1) The Manager may by order signed by him and counter-signed by the Town Clerk authorise the making of any payment out of the funds of the Corporation in respect of any expense or on account of any liability incurred by the Council or the Manager on behalf of the Corporation in the exercise or the performance by the Council or the Manager of any of the powers, functions or duties of the Corporation which are exercisable or performable by them or him under this Act.
+
+(2) The Lord Mayor may at any time direct by writing under his hand that every order made under the foregoing sub-section authorising any such payment as is mentioned in that sub-section during the unexpired residue of his term of office or during any lesser period specified in such direction shall be submitted to him for his signature and the Lord Mayor may by writing under his hand revoke any such direction at any time during the period to which the same relates.
+
+(3) If and whenever the Lord Mayor gives any such direction as is mentioned in the foregoing sub-section then while such direction remains in force the signature of the Lord Mayor shall be necessary on every such order as is mentioned in the first sub-section of this section in addition to the signature and counter-signature mentioned in that sub-section but the Lord Mayor shall not by reason of the fact of his signature being on any such order incur any liability to which he would not have been liable if he had not given any such direction as aforesaid.
