@@ -1,0 +1,5 @@
+Powers of consuls in relation to wrecked ships and property of deceased seamen.
+
+12.—(1) Where it appears to the Minister for Industry and Commerce that any person to whom any money or other property of a deceased seaman may be paid or delivered under paragraph (b) of subsection (1) of section 176 of the Merchant Shipping Act, 1894 (which relates to the disposal of property not exceeding one hundred pounds in value) is resident in a consular convention country, he may pay or deliver the money or property to a consular officer of that country on behalf of that person and the provisions of that section shall have effect accordingly.
+
+(2) The powers of a consular officer under subsection (2) of section 521 of the Merchant Shipping Act, 1894 (which enables a consular officer in certain circumstances to act as the agent of the owner for the purposes of the custody and disposal of articles belonging to or forming part of a foreign ship wrecked on or near the coasts of Ireland) shall extend to the custody and disposal of the wrecked ship itself as well as to the custody and disposal of such articles as aforesaid.
