@@ -1,0 +1,5 @@
+Filling of casual vacancies amongst ordinary members of Pigs Marketing Board.
+
+125.—(1) Whenever a vacancy (in this section referred to as a casual vacancy) occurs in the membership of the Board by reason of the death, resignation or disqualification of an ordinary member, the Chairman shall notify the Minister of such vacancy, and the Minister shall, in case such ordinary member was a curer member, appoint one of the ordinary members of the Bacon Marketing Board who is not then a member of the Pigs Marketing Board to fill such vacancy or, in case such ordinary member was a producer member, appoint a person representative of pig producers to fill such vacancy.
+
+(2) Every person appointed to fill a casual vacancy shall, unless he sooner dies, resigns or becomes disqualified, hold office as an ordinary member for the residue of the term of office for which the member whose death, resignation or disqualification occasioned the vacancy would have held office if he had not died, resigned or become disqualified.

@@ -1,0 +1,3 @@
+Substitutive member acting for ordinary member.
+
+85.—Whenever it appears to the Minister that on account of illness or for other sufficient reason an ordinary member is temporarily unable to discharge his duties as such member, the Minister may appoint one of the substitutive members representative of the same class of curers as such ordinary member to act as an ordinary member for such period (not exceeding the duration of such inability) as he shall think proper, and every substitutive member so appointed to act as an ordinary member of the Board shall during the period for which he is so appointed be an ordinary member in the place of such first-mentioned ordinary member.

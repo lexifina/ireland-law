@@ -1,0 +1,5 @@
+Allotment of sale quota amongst licensed premises.
+
+103.—(1) Whenever the Board makes a home-sales order at any meeting the Board shall at such meeting make an order (in this Part of this Act referred to as an allocation (sales quota) order) allotting the sales quota in respect of the sale period appointed by such home-sales order between all licensed premises in such proportions as the Board thinks proper, and references in this Part of this Act to the sales sub-quota for particular licensed premises in respect of a particular sale period shall be construed as the portion of the sales quota in respect of such sale period allotted to such premises by an allocation (sales quota) order.
+
+(2) As soon as an allocation (sales quota) order has been made the Chairman shall, not later than five days before the commencement of the sale period to which such order relates, cause to be served on each licensee of licensed premises a notice (in this Part of this Act referred to as a sale notice) in writing stating the proportion of the sales quota in respect of such sale period which has been allotted to such premises by such order.

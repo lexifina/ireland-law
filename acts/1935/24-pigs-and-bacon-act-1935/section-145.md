@@ -1,0 +1,5 @@
+Manner of ascertaining weight of pigs and carcases.
+
+145.—(1) The Board may by order make regulations in relation to the manner in which the weight of pigs and carcases sold during any sale period to a licensee or a registered minor curer is to be ascertained for the purposes of such sale, and may by any such order require such weight to be ascertained by actual weighing, and may by any such order make different regulations in relation to pigs and carcases and in relation to pigs and carcases sold at different places.
+
+(2) Whenever during any sale period any pigs or carcases are sold to a licensee or a registered minor curer, and the weight of such pigs or carcases has, for the purposes of such sale, been ascertained in a manner other than that prescribed by regulations made under this section, the vendor and purchaser of such pigs or carcases shall each be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding two pounds for every pig or carcase in respect of which such offence is committed.

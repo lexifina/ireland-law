@@ -1,0 +1,3 @@
+Appointment of substitute for ordinary member temporarily incapacitated.
+
+126.—Whenever it appears to the Minister that on account of illness or for other sufficient reason an ordinary member is temporarily unable to discharge his duties as such member, the Minister may appoint, in case such member is a curer member, an ordinary member of the Bacon Marketing Board or, in case such member is a producer member, a person representative of pig producers, to act as an ordinary member for such period (not exceeding the duration of such inability) as he shall think proper, and every person so appointed to act as an ordinary member of the Board shall during the period for which he is so appointed be an ordinary member in the place of such first-mentioned ordinary member.

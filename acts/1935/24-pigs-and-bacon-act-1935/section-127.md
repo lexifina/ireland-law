@@ -1,0 +1,11 @@
+Additional provisions in relation to producer members.
+
+127.—(1) The Minister may by order (in this section referred to as a producer members (election) order) direct that in the election year specified in such order, and in each subsequent election year, the three producer members and also six other persons (from whom (if available) casual vacancies amongst producer members shall be filled and substitutes shall be appointed to act for producer members temporarily unable to discharge their duties on account of illness or other sufficient cause) shall be elected by approved associations, and such order may contain all such provisions (including adaptations and modifications of this Part of this Act) as the Minister considers necessary for the purposes of giving effect to such direction.
+
+(2) The Minister may by order (in this section referred to as a producer members (panel) order) direct that there shall be formed in the election year specified in such order and each subsequent election year a panel of a specified number of persons eligible for nomination by the Minister as producer members, that the persons whose names are to be entered in such panel shall be nominated by approved associations and committees of agriculture, and that the persons nominated by the Minister to be producer members to fill casual vacancies amongst producer members and to act for producer members temporarily unable to discharge their duties owing to illness or other sufficient cause, shall be selected from the persons whose names are entered in such panel, and such order may contain such provisions (including adaptations and modifications of this Part of this Act) as the Minister considers necessary for giving effect to such direction.
+
+(3) The Minister may at any time by order revoke or amend a producer members (election) order or a producer members (panel) order or any order made under this section amending a previous order.
+
+(4) In this section the expression “approved associations” means associations of pig producers in Saorstát Eireann for the time being approved by the Minister.
+
+(5) For the purposes of this section each of the following years shall be an election year, that is to say, the year 1936, the year 1939, the year 1942, the year 1945, and so on.
