@@ -1,0 +1,5 @@
+Regulation 3
+
+3. (1) These Regulations apply to the goods which are specified at a code number, tariff heading or tariff subheading mentioned or referred to in column(l) of the Schedule to these Regulations, are in free circulation in any Member State of the Community and would be subject to quota or prohibition if importation into the State direct from a country of origin to which the Commission Decision of the 22nd day of December, 1981,2 applies were proposed.
+
+(2) The particulars stated in column (2) of the Schedule to these Regulations are inserted solely to facilitate identification of the goods referred to at the code number, tariff heading or tariff subheading mentioned or referred to in column (1) of that Schedule opposite the insertion in column (2), and, accordingly nothing contained in column (2) shall affect the construction or limit or control the operation of any provision of these Regulations (including the mention of, or reference to, the code number, tariff heading or tariff sub-heading in column (1)).
