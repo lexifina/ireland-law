@@ -1,0 +1,7 @@
+Transfer of staff of Minister to Boards.
+
+31.—(1) Every person who is on the day immediately before the establishment day a member of the staff of the Department of Arts, Culture and the Gaeltacht and is designated by the Minister for employment by a Board shall be transferred to and become a member of the staff of the Board on such day as may be specified by the Minister after consultation with the Board.
+
+(2) Save in accordance with a collective agreement negotiated with any recognised trade union or staff association concerned, a person referred to in subsection (1) shall not, while in the service of a Board, be brought to less beneficial conditions of service (including conditions in relation to tenure of office) or of remuneration than the conditions of service (including conditions in relation to tenure of office) or remuneration to which he or she was subject immediately before the day specified by the Minister pursuant to subsection (1).
+
+(3) In relation to persons transferred to a Board under subsection (1), previous service in the civil service shall be reckonable for the purposes of, but subject to any exceptions or exclusions in, the Redundancy Payments Acts, 1967 to 1991, the Holidays (Employees) Acts, 1973 and 1991, the Minimum Notice and Terms of Employment Acts, 1973 to 1991, the Unfair Dismissals Acts, 1977 to 1993 and the Terms of Employment (Information) Act, 1994.

@@ -1,0 +1,3 @@
+Consultants and advisers.
+
+40.—A Board may from time to time engage such consultants or advisers as it may consider necessary or expedient for the performance of its functions, and any remuneration due to a consultant or adviser engaged under this section shall be paid by the Board out of moneys at its disposal having regard to guidelines issued from time to time by the Minister or the Minister for Finance and, in addition to the foregoing, the Board shall comply with any directives with regard to such consultants or advisers which the Minister may give to the Board with the consent of the Minister for Finance.
