@@ -1,0 +1,5 @@
+Action for infringement of plant breeders’ rights.
+
+21.— (1) An infringement of plant breeders’ rights shall be actionable at the suit of the holder and in any proceedings for such infringement all such relief, by way of damages, injunction, account or otherwise, as is available in any corresponding proceedings in respect of any other proprietary rights shall be available.
+
+(2) Where, in civil proceedings for an infringement of plant breeders’ rights concerning an allegation of the offering for sale of harvested material of a protected variety, an information notice has been served in accordance with section 20 and the person on whom it was served did not furnish the information or failed to adequately furnish the information so requested within the 21 day period so specified, it shall be presumed that the provisions of section 20(3)(a) or 20(3)(b) or both shall apply to such proceedings unless, in accordance with that section, the contrary is proved or the court is satisfied that there were reasonable grounds for failing to supply or adequately supplying such information.
