@@ -1,0 +1,3 @@
+Reporting to Director of misconduct by liquidators or receivers.
+
+58.—Where a disciplinary committee or tribunal (however called) of a prescribed professional body finds that a member conducting a liquidation or receivership has not maintained appropriate records, or it has reasonable grounds for believing that a member has committed an indictable offence under the Companies Acts during the course of a liquidation or receivership, the body shall report the matter, giving details of the finding or, as the case may be, of the alleged offence, to the Director forthwith and if the body fails to comply with this section it, and every officer of the body to whom the failure is attributable, is guilty of an offence.
