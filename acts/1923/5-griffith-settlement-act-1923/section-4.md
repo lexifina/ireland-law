@@ -1,0 +1,9 @@
+Trusts of the Daughter's Share.
+
+4.—(1) The Trustees shall while the said Ita Griffith is under the age of twenty-one years and unmarried hold the Daughter's Share upon trust in their absolute discretion to apply the whole or so much as they shall think fit of the Daughter's Share for the maintenance, education or benefit of the said Ita Griffith and may either themselves so apply the same or may pay the same for the purpose aforesaid to the said Mrs. Maud Griffith or other the guardian of the said Ita Griffith.
+
+(2) The Trustees shall while the said Ita Griffith is under the age of twenty-one years and unmarried accumulate so much of the Daughter's Share as is not applied under the foregoing sub-section by investing the same and the resulting income thereof from time to time in securities in which trustees are by law authorised to invest trust monies.
+
+(3) The Trustees may at their absolute discretion at any time or times apply all or any part of the accumulations mentioned in the preceding sub-section as if the same were part of the Daughter's Share accruing in the then current year and the Trustees shall pay and transfer to the said Ita Griffith on her attaining the age of twenty-one years or marrying under that age so much of the said accumulations as is not applied by them in manner aforesaid but if the said Ita Griffith shall die under the age of twenty-one years and unmarried the Trustees shall on the death of the said Ita Griffith pay and transfer to the Exchequer of Saorstát Eireann so much as aforesaid of the said accumulations.
+
+(4) From and after the said Ita Griffith attaining the age of twenty-one years or marrying under that age the Trustees shall hold the Daughter's Share upon trust to pay the same as and when received by the Trustees to the said Ita Griffith for her separate use and so that she shall not have power to deprive herself thereof by anticipation.
