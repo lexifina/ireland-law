@@ -1,0 +1,3 @@
+Rule 3
+
+3. These rules shall apply to the area comprising the borough of Galway.
