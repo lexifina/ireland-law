@@ -1,0 +1,19 @@
+SCHEDULE
+
+An Bord Bainne
+
+Bord na Móna
+
+An Comhairle Oiliúna
+
+University College, Galway.
+
+GIVEN under my Official Seal this 23rd day of September, 1969,
+
+CHARLES J. HAUGHEY,
+
+Minister for Finance.
+
+EXPLANATORY NOTE.
+
+Section 4 of the Superannuation and Pensions Act, 1963 , provides for the transfer of pensionable service in the case of staff transfers between the Civil Service and " approved organisations " and between one " approved organisation " and another. These regulations designate the four organisations set out in the schedule as " approved organisations ".
