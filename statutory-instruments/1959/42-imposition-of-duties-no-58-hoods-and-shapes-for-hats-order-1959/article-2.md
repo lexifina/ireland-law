@@ -1,0 +1,3 @@
+Article 2
+
+2. A duty of customs at the rate of an amount equal to sixty per cent. of the value of the article shall be charged, levied and paid on each of the following articles imported on or after the 20th day of March, 1959, that is to say, hoods and shapes which are made wholly or mainly of fur felt, are for the manufacture of hats and require, for the purpose of such manufacture, to be blocked, shaped or cut and in respect of which it is shown to the satisfaction of the Revenue Commissioners that the process of blocking, shaping or cutting represents a substantial portion of the process of manufacture.
