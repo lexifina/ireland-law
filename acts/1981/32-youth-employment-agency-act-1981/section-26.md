@@ -1,0 +1,7 @@
+Provisions relating to winding up and bankruptcy.
+
+26.—(1) There shall be included among the debts which, under section 285 of the Companies Act, 1963, are, in the distribution of the assets of a company being wound up, to be paid in priority to all other debts, levy payable pursuant to section 17 of this Act by the company during the twelve months before the relevant date (within the meaning of that section), and that Act shall have effect accordingly, and formal proof of the debts to which priority is given under this subsection shall not be required except in cases where it may otherwise be provided for by rules made under that Act.
+
+(2) Subsection (1) of this section shall not apply where a company is wound up voluntarily merely for the purposes of reconstruction or of amalgamation with another company.
+
+(3) There shall be included among the debts which, under section 4 of the Preferential Payments in Bankruptcy (Ireland) Act, 1889, are, in the distribution of the property of a bankrupt or arranging debtor, to be paid in priority to all other debts, all levy payable pursuant to section 17 or 18 of this Act by the bankrupt or arranging debtor during the twelve months before the date of the order of adjudication in the case of a bankrupt or the filing of the petition for arrangement in the case of an arranging debtor, and that Act shall have effect accordingly, and formal proof of the debts to which priority is given under this subsection shall not be required except in cases where it may otherwise be provided by general orders made under that Act.
