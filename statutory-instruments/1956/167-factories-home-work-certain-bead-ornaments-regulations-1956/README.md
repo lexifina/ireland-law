@@ -1,0 +1,10 @@
+# Factories (Home Work - Certain Bead Ornaments) Regulations, 1956
+
+S.I. No. 167 of 1956 · <https://www.irishstatutebook.ie/eli/1956/si/167/made/en/html>
+
+As made (4 July 1956), from the electronic Irish Statute Book. Later amendments are not applied.
+
+| Provision | File |
+| --- | --- |
+| I, WILLIAM NORTON, Minister for Industry and Commerce, in pursuance of sections 91 and 92 of the Factories Act, 1955 (No | [preamble.md](preamble.md) |
+| SCHEDULE | [schedule.md](schedule.md) |
