@@ -1,0 +1,5 @@
+Making good insufficient deductions.
+
+4.—(1) In the case of income chargeable under Schedule C of the Income Tax Act, 1918, or under Rule 6 or Rule 7 of the Miscellaneous Rules applicable to Schedule D of that Act or in the case of payments falling under Rule 21 of the General Rules applicable to all the Schedules of that Act, any deficiency in the amount deducted in respect of income tax for the year beginning on the 6th day of April, 1931 from a payment made before or within ten days after the passing of this Act shall, if such deficiency arises from the change made by this Act in the rate of such tax, be made good so far as possible by increasing the deduction required or authorised by law to be made from the next and (so far as necessary) any subsequent payment made after the passing of this Act and before the expiration of one year and ten days from such passing.
+
+(2) A deficiency made good under this section shall be accounted for and assessed or recovered as the case may be, in the same manner as the tax deducted from the original payment is to be accounted for and assessed or recovered.
