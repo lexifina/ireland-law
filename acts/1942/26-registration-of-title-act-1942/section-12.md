@@ -1,0 +1,9 @@
+Amendment of section 19 of the Principal Act in relation to perpetuity rents.
+
+12.—Where any perpetual rent or other incorporeal hereditament of freehold tenure held in gross issues out of or otherwise affects any freehold registered land, then, notwithstanding anything contained in section 19 of the Principal Act, the following provisions shall have effect in relation to such rent or hereditament, that is to say:—
+
+(a) the registration under the Principal Act of the ownership of such land shall not, whether such rent or hereditament is or is not registered under the Principal Act as a burden thereon, have the effect of exempting any deed or other document relating to the title to such rent or hereditament (other than the deed or other document creating such rent or hereditament) from the provisions of the Acts relating to the Registry of Deeds;
+
+(b) if the ownership of such rent or hereditament is registered under the Principal Act in a register kept under section 54 of that Act, such registration shall, on and from the date thereof and for so long thereafter as such rent or hereditament is so registered, exempt from the provisions of the Acts relating to the Registry of Deeds any deed or other document executed or coming into operation after the date of such registration which relates to the title to such rent or hereditament;
+
+(c) such registration as is mentioned in the next preceding paragraph of this section of the ownership of such rent or hereditament shall not exempt from the provisions of the Acts relating to the Registry of Deeds any deed or other document relating to the title to any perpetual rent or other incorporeal hereditament (in this paragraph referred to as such superior rent or hereditament) of freehold tenure which issues out of or otherwise affects such rent or hereditament other than the deed or other document creating such superior rent or hereditament.

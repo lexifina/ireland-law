@@ -1,0 +1,3 @@
+Power of proving executors to sell or transfer registered land without the authority of the Court.
+
+20.—Where probate of a will or other testamentary instrument is granted (whether before or after the passing of this Act) to some or one only of several persons jointly named as executors (whether power is or is not reserved to the other executor or executors to prove), a sale or transfer of registered land to which Part IV of the Principal Act applies may, notwithstanding anything contained in sub-section (2) of section 86 of that Act, be made, without the authority of the court, by the executor or executors to whom such probate is so granted, and shall be as effectual as if all the persons named as executors had concurred therein.

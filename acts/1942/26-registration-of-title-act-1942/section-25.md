@@ -1,0 +1,3 @@
+Extension of section 67 of the Principal Act.
+
+25.—The powers conferred on the registering authority by section 67 of the Principal Act shall be exercisable not only in the case of an application to register an owner of land but also whenever the registering authority has occasion, in the course of his duties, to investigate the title to registered land or to a burden on registered land, and the said powers shall, when exercised on any such occasion, extend to and be exercisable in respect of the production of any deed, will, or other document the production of which the registering authority considers to be necessary for the purpose of such investigation.
