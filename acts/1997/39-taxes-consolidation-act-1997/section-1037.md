@@ -1,0 +1,9 @@
+Charge on percentage of turnover.
+
+[ITA67 s203; F(MP) A68 s3(2) and Sch PtI].
+
+1037.—(1) Where it appears to the inspector or on appeal to the Appeal Commissioners that the true amount of the profits or gains of any non-resident person chargeable with income tax in the name of a resident person cannot in any case be readily ascertained, the non-resident person may, if it is thought fit by the inspector or the Appeal Commissioners, be assessed and charged on a percentage of the turnover of the business done by the non-resident person through or with the resident person in whose name the non-resident person is so chargeable, and in such a case the provisions of the Income Tax Acts relating to the delivery of statements by persons acting on behalf of others shall extend so as to require returns to be given by the resident person of the business so done by the non-resident person through or with the resident person in the same manner as statements of profits or gains to be charged are to be delivered by persons acting for incapacitated or non-resident persons.
+
+(2) The amount of the percentage under subsection (1) shall in each case be determined, having regard to the nature of the business, by the inspector by whom the assessment on the percentage basis is made, subject to appeal to the Appeal Commissioners.
+
+(3) Where either the resident person or the non-resident person is dissatisfied with the percentage determined either in the first instance or by the Appeal Commissioners on appeal, that person may within 4 months of that determination require the inspector or the Appeal Commissioners, as the case may be, to refer the question of the percentage to a referee or board of referees to be appointed for the purpose by the Minister for Finance, and the decision of the referee or board of referees shall be final and conclusive.

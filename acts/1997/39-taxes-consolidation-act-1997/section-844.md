@@ -1,0 +1,11 @@
+Companies carrying on mutual business or not carrying on a business.
+
+[CTA76 s29].
+
+844.—(1) Subject to subsection (2), where a company carries on any business of mutual trading or mutual insurance or other mutual business, the provisions of the Corporation Tax Acts and of Schedule F relating to distributions shall apply to distributions made by the company, notwithstanding that they are made to persons participating in the mutual activities of that business and derive from those activities, but shall so apply only to the extent to which the distributions are made out of profits of the company which are brought into charge to corporation tax or out of franked investment income.
+
+(2) In the case of a company carrying on any mutual life assurance business, the provisions of the Corporation Tax Acts and of Schedule F relating to distributions shall not apply to distributions made to persons participating in the mutual activities of that business and derived from those activities; but, if the business includes annuity business, the annuities payable in the course of that business shall not be treated as charges on the income of the company to any greater extent than if that business were not mutual but were being carried on by the company with a view to the realisation of profits for the company.
+
+(3) Subject to subsections (1) and (2), the fact that a distribution made by a company carrying on any such business is derived from the mutual activities of that business and the recipient is a person participating in those activities shall not affect the character which the payment or other receipt has for the purposes of corporation tax or income tax in the hands of the recipient.
+
+(4) Where a company does not carry on and never has carried on a trade or a business of holding investments, and is not established for purposes which include the carrying on of a trade or of such a business, the provisions of the Corporation Tax Acts and of Schedule F relating to distributions shall apply to distributions made by the company only to the extent to which the distributions are made out of profits of the company which are brought into charge to corporation tax or out of franked investment income.

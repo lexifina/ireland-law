@@ -1,0 +1,9 @@
+Effect, in certain cases, of succession to trade, etc.
+
+[ITA67 s300; FA96 s132(2) and Sch5 PtII].
+
+313.—(1) Where a person succeeds to any trade or profession which until that time was carried on by another person and by virtue of section 69 the trade or profession is to be treated as discontinued, any property which, immediately before the succession takes place, was in use for the purposes of the discontinued trade or profession and without being sold is, immediately after the succession takes place, in use for the purposes of the new trade or profession shall for the purposes of this Part be treated as if it had been sold to the successor when the succession takes place and as if the net proceeds of that sale had been the price which that property would have fetched if sold in the open market.
+
+(2) Where, after the setting up and before the permanent discontinuance of a trade or profession which at any time is carried on in partnership anything is done for the purposes of that trade or profession, any allowance or charge which, if the trade or profession had at all times been carried on by one and the same person, would have been made to or on that person under this Part shall, subject to section 1010, be made to or on the person or persons from time to time carrying on that trade or profession (in this subsection referred to as “the relevant person or persons”), and the amount of any such allowance or charge shall be computed as if the relevant person or persons had at all times been carrying on the trade or profession and as if everything done to or by the predecessors of the relevant person or persons in the carrying on of that trade or profession had been done to or by the relevant person or persons.
+
+(3) In relation to machinery or plant, this section shall apply subject to Chapter 2 of this Part in so far as that Chapter relates to balancing allowances and balancing charges.

@@ -1,0 +1,9 @@
+Disposals or acquisitions outside group.
+
+[CTA76 s132; CGT(A)A78 s14; FA92 s73].
+
+619.—(1) Where a company which is or has been a member of a group of companies disposes of an asset which it acquired from another member of the group at a time when both were members of the group, section 555 shall apply in relation to any capital allowances made to the other member (in so far as not taken into account in relation to a disposal of the asset by that other member), and so on as respects previous transfers of the asset between members of the group, but this shall not be taken as affecting the consideration for which an asset is deemed under section 617(1) to be acquired.
+
+(2) (a) Section 556 shall apply in relation to a disposal of an asset by a company which is or has been a member of a group of companies, and which acquired the asset from another member of the group at a time when both were members of the group, as if all members of the group for the time being were the same person, and as if the acquisition or provision of the asset by the group, so taken as a single person, had been the acquisition or provision of the asset by the member disposing of the asset.
+
+(b) Notwithstanding paragraph (a), where at any time after the asset was acquired or provided by the group so taken as a single person and before the 24th day of April, 1992, there was an acquisition (in this paragraph referred to as “the later acquisition”) of the asset by a member of the group from another member of the group as a result of a relevant disposal (within the meaning of section 648), this subsection shall apply as if the reference in paragraph (a) to the acquisition or provision of the asset by the group were a reference to the later acquisition or, where there was more than one, the last such acquisition.

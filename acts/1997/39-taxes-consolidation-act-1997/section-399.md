@@ -1,0 +1,15 @@
+Losses in transactions from which income would be chargeable under Case IV or V of Schedule D.
+
+[CTA76 s19].
+
+399.—(1) (a) Where in any accounting period a company incurs a loss in a transaction in respect of which the company is within the charge to corporation tax under Case IV of Schedule D, the company may claim to set the loss off against the amount of any income arising from such transactions in respect of which the company is assessed to corporation tax under that Case for the same or any subsequent accounting period, and the company's income in any accounting period from such transactions shall then be treated as reduced by the amount of the loss, or by so much of that amount as cannot be relieved under this section against income of an earlier accounting period.
+
+(b) Where a company sustains a loss in a transaction which, if profit had arisen from it, would be chargeable to tax by virtue of subsection (3) or (4) of section 814, then, if the company is chargeable totax in respect of the interest payable on the amount of money the right to which has been disposed of, the amount of that interest shall be included in the amounts against which the company may claim to set off the amount of its loss under this subsection.
+
+(2) (a) Where in any accounting period a company is within the charge to corporation tax under Case V of Schedule D and the aggregate of the deficiencies, computed in accordance with section 97(1), exceeds the aggregate of the surpluses as so computed, the excess may, on a claim being made in that behalf, be deducted from or set off, as far as may be, against the amount of any income in respect of which the company is assessed to corporation tax under Case V of Schedule D for previous accounting periods ending within the time specified in subsection (3), and, subject to that subsection and to any relief for an earlier excess of deficiencies, that income of any of those periods shall then be treated as reduced, as far as may be, by the amount of the excess, and any portion of the excess for which relief is not so given shall be set off against the income in respect of which the company is assessed to corporation tax under Case V of Schedule D for any subsequent accounting period.
+
+(b) Any relief under this subsection by means of carrying forward any portion of the excess referred to in paragraph (a) shall be given as far as possible from the first subsequent assessment and, in so far as it cannot be so given, then from the next assessment and so on.
+
+(3) The time referred to in subsection (2) shall be a time immediately preceding the accounting period first mentioned in subsection (2) equal in length to the accounting period in which the excess of deficiencies occurred; but the amount of the reduction which may be made under that subsection in the income of an accounting period falling partly before that time shall not exceed a part of that income proportionate to the part of the period falling within that time.
+
+(4) A claim under subsection (2) shall be made within 2 years from the end of the accounting period in which the excess of deficiencies was incurred.

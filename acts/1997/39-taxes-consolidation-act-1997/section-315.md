@@ -1,0 +1,9 @@
+Property used for purposes of “exempted trading operations”.
+
+[ITA67 s302; CTA76 s21(1) and Sch1 par48].
+
+315.—(1) Where an event occurs which gives rise, or would but for this section give rise, to a balancing allowance or balancing charge in respect of any property to or on a company in relation to which a certificate under section 374(2) of the Income Tax Act, 1967, or section 70(2) of the Corporation Tax Act, 1976, has been given, then, whether the certificate is still in force or not, this section shall apply.
+
+(2) Where the property has been used by the company exclusively for the purposes of its exempted trading operations within the meaning of Chapter I of Part XXV of the Income Tax Act, 1967, or Part V of the Corporation Tax Act, 1976, no balancing allowance or balancing charge shall be made.
+
+(3) Where the property has been used partly for the purposes of the company's exempted trading operations and partly for the purposes of its other trading operations, regard shall be had to all the relevant circumstances of the case and there shall be made to or on the company an allowance of such an amount, or, as the case may be, a charge on such an amount, as may be just and reasonable.
