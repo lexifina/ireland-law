@@ -1,0 +1,3 @@
+Revocation of certain orders.
+
+8.—The Emergency Powers (No. 274) Order, 1943 (S.R. & O., No. 118 of 1943), and the Emergency Powers (No. 274) Order, 1943 (Amendment) Order, 1944 (S.R. & O., No. 3 of 1944), are hereby revoked as on and from the appointed day, but so much of those orders as relates to supplementary allowances shall continue to apply to a workman, who is entitled to a weekly payment by way of compensation under the Acts of 1897 and 1900, the Act of 1906 or the Act of 1934 in respect of a week commencing before and ending on or after the appointed day, until the expiration of that week.
