@@ -1,0 +1,11 @@
+Article 3
+
+3. (1) The Commissioners are hereby authorised to carry out and complete, in Arklow Harbour, in accordance with the plan, sections and specification and subject to paragraph (2) of this Article, the following works, that is to say—
+
+(a) the construction of a quay 278 feet long or thereabouts at the east side of the Dock to the south of the existing quay with the line top-level and face-batter of the new quay conforming with the existing quay and the raising of the low portion of the existing quay wall over a length of 50 feet or thereabouts to the same level and face-batter as the remainder of the existing quay and the new quay and the filling behind the new quay and the raised portion of the existing quay and the grading of the surface uniformly from the quay face to the concrete road along the east and south sides of the dock and the provision of the necessary bollards, mooring-rings and ladders along the face of the new quay ;
+
+(b) the construction of a berth-end wall 125 feet long or thereabouts at the south end of the new quay, at an angle of approximately 100° with it, its top level with the top of the quay, and the filling behind the berth-end wall and the levelling of the filling for 12 feet or thereabouts back from the coping and the grading down thence of the filling at 1 in 5 or thereabouts to meet the existing ground level and the provision of the necessary bollards, mooring-rings and steps along the face of the berth-end wall ;
+
+(c) the dredging of a berth 60 feet wide or thereabouts in front of the new quay and the dredging of an approach channel from the dock entrance to the new quay 120 feet wide or thereabouts, all to a depth of 12 feet below low water of ordinary spring tides and the grading of the side-slopes at 5 to 1 or thereabouts to the south and west and uniformly from the full 12 feet below low water of ordinary spring tides to the permissible dredging depth along the faces of the existing quays to the north and east.
+
+(2) In executing the works the Commissioners may, with the consent in writing of the Minister, deviate laterally to any extent within the limits of deviation marked on the plan, and may with the like consent deviate vertically to any extent from the levels of those works as shown on the sections.
