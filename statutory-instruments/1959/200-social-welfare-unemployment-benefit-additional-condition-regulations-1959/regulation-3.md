@@ -1,0 +1,17 @@
+Regulation 3
+
+3. Subject to Article 4 of these Regulations, a female person shall not in any benefit year be entitled to unemployment benefit in respect of any earlier day in a period of interruption of employment than the first day in that period of interruption of employment in respect of which unemployment benefit is claimed in such benefit year and in respect of which such person as well as satisfying the relevant contribution conditions for that benefit satisfies the additional condition that—
+
+(a) the number of ordinary rate employment contributions paid in respect of her in respect of the last complete contribution year preceding such benefit year is not less than twenty-six, or
+
+(b) where the date of her entry into insurance is a date within or subsequent to the two contribution years immediately preceding such benefit year, the number of ordinary rate employment contributions paid in respect of her in respect of the period commencing on the day of her entry into insurance and ending on the day immediately preceding the day in respect of which unemployment benefit is claimed is not less than the number of special rate employment contributions paid in respect of her in respect of the same period, or
+
+(c) where the date of her entry into insurance is a date prior to the two contribution years immediately preceding such benefit year or such person is an existing contributor and, in either case, any ordinary rate employment contribution or special rate employment contribution was paid in respect of her in respect of those two years, either—
+
+(i) the number of ordinary rate employment contributions paid in respect of her in respect of those two years is not less than the number of special rate employment contributions paid in respect of her in respect of those two years, or
+
+(ii) the number of ordinary rate employment contributions paid in respect of her in respect of theperiod commencing on the first day of the last complete contribution year preceding such benefit year and ending on the day immediately preceding the day in respect of which unemployment benefit is claimed is not less than the number of special rate employment contributions paid in respect of her in respect of the same period, or
+
+(d) where the date of her entry into insurance is a date prior to the two contribution years immediately preceding such benefit year or such person is an existing contributor and, in either case, no ordinary rate employment contribution or special rate employment contribution was paid in respect of her in respect of those two years, the number of ordinary rate employment contributions paid in respect of her in respect of the period commencing on the first day of the last complete contribution year prior to those two years in respect of which employment contributions were paid and ending on the day immediately preceding the day in respect of which unemployment benefit is claimed is not less than the number of special rate employment contributions paid in respect of her in respect of the same period, or
+
+(e) where such person is an existing contributor and no ordinary rate employment contribution or special rate employment contribution was paid in respect of her in respect of the period commencing on the 5th day of January, 1953, and ending on the last day of the last complete contribution year preceding such benefit year, she was throughout that period incapable of work or unemployed, any day in respect of which maternity allowance was payable being treated as a day of incapacity for work.
