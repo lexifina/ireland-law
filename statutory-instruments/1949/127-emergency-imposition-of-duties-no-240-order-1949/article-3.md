@@ -1,0 +1,3 @@
+Article 3
+
+3. Section 7 of and the Third Schedule to the Finance Act, 1937 (No. 18 of 1937), as amended by subsequent enactments, shall, as regards articles imported on or after the 11th day of May, 1949, have effect as if " 75% " were substituted for the percentage inserted by the Personal Clothing and Wearing Apparel (Customs Duty) Order, 1948 (S. I., No. 14 of 1948), in the third column of the said Third Schedule at reference number 14 as respects articles (other than rubber proofed articles) chargeable under that reference number which are made wholly or mainly of woven tissue and are overcoats, coats, suits, jackets, waistcoats or trousers and are either suitable for wear by men, or suitable for wear by boys.
