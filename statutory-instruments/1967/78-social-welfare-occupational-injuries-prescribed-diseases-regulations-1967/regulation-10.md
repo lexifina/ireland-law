@@ -1,0 +1,7 @@
+Regulation 10
+
+10. Transitional provisions.
+
+PART IV.
+
+MODIFICATION OF PROVISIONS OF THE ACT AND OF REGULATIONS

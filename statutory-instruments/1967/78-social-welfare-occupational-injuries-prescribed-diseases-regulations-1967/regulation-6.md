@@ -1,0 +1,7 @@
+Regulation 6
+
+6. Presumption.
+
+PART III.
+
+DATE OF DEVELOPMENT AND RECRUDESCENCE
