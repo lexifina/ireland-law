@@ -1,0 +1,3 @@
+Payment in certain cases in land bonds of first series created after passing of this Act.
+
+5.—Where the price of untenanted land, or the resumption price of a holding or part of a holding, agreed upon or fixed before the passing of this Act is payable in land bonds which have not been issued before the first series of land bonds is created after the passing of this Act, then, notwithstanding anything to the contrary in any agreement or enactment or in any order of the Land Commission or the Appeal Tribunal, the price or the resumption price shall be paid by means of an issue of land bonds of that series.
