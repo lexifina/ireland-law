@@ -1,0 +1,7 @@
+Hydrocarbons.
+
+69.—(1) Subject to the provisions of the Imposition of Duties (No. 265) (Excise Duty on Hydrocarbon Oils) Order, 1983 (S.I. No. 126 of 1983), the amount of the rebate allowed under paragraph 12 (3) of the Order of 1975 shall, in respect of fuel oil within the meaning of paragraph 3 of the Imposition of Duties (No. 256) (Excise Duty on Hydrocarbon Oils) Order, 1981 (S.I. No. 404 of 1981), which is imported or delivered from the premises of a refiner of hydrocarbon oil or from a tax warehouse on or after the 25th day of February, 1993, and in lieu of the rates specified in section 70 (10) of the Finance Act, 1980, and in section 73 (8) of the Finance Act, 1984, be the amount of duty chargeable less an amount calculated at the rate of £9.75 per 1,000 litres.
+
+(2) The amount of the rebate allowed under paragraph 24 (2) (b) of the Regulations of 1992, in respect of hydrocarbon oil to which the provisions of paragraph 24 (2) (a) of the said Regulations refer, shall, on or after the 25th day of February, 1993, be the amount of duty chargeable less an amount calculated at the rate of £9.75 per 1,000 litres.
+
+(3) The duty of excise on gaseous hydrocarbons in liquid form imposed by section 41 (1) of the Finance Act, 1976, shall be charged, levied and paid, as on and from the 1st day of March, 1993, at the rate of £56.75 per 1,000 litres in lieu of the rate specified in section 74 (1) of the Finance Act, 1991.

@@ -1,0 +1,3 @@
+Incidence.
+
+115.—In relation to a charge for tax arising by virtue of section 110, property which, at the date of death of the deceased, represents any share in the estate of the deceased, shall, save to the extent that it is exempt from or not chargeable to such tax, bear its due proportion of such tax, and any dispute as to the proportion of tax to be borne by any such property, or by property representing any such property, may be determined upon application by any person interested in manner directed by rules of court, either by the High Court, or, where the amount in dispute is less than £15,000, by the Circuit Court in whose circuit the person recovering the same resides, or the property in respect of which the tax is paid is situate.
