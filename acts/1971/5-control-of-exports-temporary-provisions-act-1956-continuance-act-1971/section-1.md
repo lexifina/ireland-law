@@ -1,0 +1,3 @@
+Continuance of the Control of Exports (Temporary Provisions) Act, 1956.
+
+1.—(1) The Control of Exports (Temporary Provisions) Act, 1956, shall continue in force until the 31st day of March, 1974, and shall then expire.
