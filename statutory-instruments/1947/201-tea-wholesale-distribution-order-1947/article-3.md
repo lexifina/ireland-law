@@ -1,0 +1,3 @@
+Article 3
+
+3. State whether the business is owned by a company, a partnership or an individual............................................................ ...............................

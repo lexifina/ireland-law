@@ -1,0 +1,3 @@
+Article 11
+
+11. Number of trader customers to whom applicant was authorised under the Emergency Powers (Tea) Order, 1941, as amended, to deliver tea for the purpose of re-sale (6) ....................................... ....................................

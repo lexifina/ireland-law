@@ -1,0 +1,3 @@
+Article 13
+
+13. Number of traders to whom applicant delivered tea on an agency basis during the months of March and April, 1947..........................................
