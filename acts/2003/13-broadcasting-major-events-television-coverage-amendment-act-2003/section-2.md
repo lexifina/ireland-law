@@ -1,0 +1,3 @@
+Application.
+
+2.—This Act applies to a designated event which is designated, before or after the passing of this Act, under section 2 of the Principal Act, whether or not any agreement or arrangement has been entered into between the event organiser and a broadcaster in respect of the acquisition by the broadcaster of rights to the event, and where such an agreement or arrangement has been entered into before the passing of this Act, in respect of those rights, it was entered into after the publication of the Council Directive concerning an event which takes place after 13 November 1999 (being the date Article 3a of the Council Directive was given effect to by the Principal Act).
