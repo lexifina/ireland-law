@@ -1,0 +1,3 @@
+Rule 25
+
+25. If any hold or compartment is entirely filled with loose grain in bulk, it shall be divided by a longitudinal bulkhead or shifting boards, in line with the keel, which shall be properly constructed and secured, and fitted grain-tight with proper fillings between the beams. In holds such shifting boards shall extend downwards from the underside of the deck to a distance of at least one-third of the depth of the hold or 8 ft. whichever is the greater. In compartments in 'tween decks and superstructures they shall extend from deck to deck. In all cases the shifting boards shall extend to the top of the feeders of the hold or compartment in which they are situated.
