@@ -1,0 +1,19 @@
+SCHEDULE
+
+PART I.
+
+CLAYWARE LAND DRAINAGE PIPES.
+
+PART II.
+
+58 : 1953
+
+PART III.
+
+STANDARD SPECIFICATION (CLAYWARE LAND DRAINAGE PIPES) 1953.
+
+GIVEN under my Official Seal, this 7th day of December, 1953.
+
+SEAN F. LEMASS,
+
+Minister for Industry and Commerce.
