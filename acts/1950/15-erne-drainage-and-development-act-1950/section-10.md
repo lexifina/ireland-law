@@ -1,0 +1,13 @@
+Disputes between the Board and the Ministry.
+
+10.—(1) An Arbitration Tribunal constituted in accordance with the provisions of the principal agreement shall have power to determine in accordance with those provisions any dispute or difference between the Board and the Ministry arising out of the principal agreement.
+
+(2) The Board shall, on the request of any Arbitration Tribunal constituted as aforesaid, produce for inspection by the Tribunal such documents, books, records or accounts in the possession of the Board as are relevant to the matter at issue before the Tribunal, but no document, book, record or account shall be so produced if, in the opinion of the Minister as certified by him to the Tribunal, it would be injurious to the public interest so to do.
+
+(3) Any Arbitration Tribunal constituted as aforesaid may, for the purpose of determining any such dispute or difference, by summons require any person to attend, at such time and place as is set forth in the summons, to give evidence or to produce any documents or articles in his custody or under his control which relate to any matter pending before the Tribunal, and may hear, receive and examine evidence on oath and for that purpose may administer oaths, or may, instead of administering an oath, require the person examined to make and subscribe a declaration of the truth of the matter respecting which he is examined.
+
+(4) Every person who refuses or wilfully neglects to attend when required so to do by any Arbitration Tribunal constituted as aforesaid, or to give evidence in the manner required by the Tribunal, or who wilfully gives false evidence before the Tribunal or wilfully alters, suppresses, cancels, destroys or refuses to produce any document or article which he may be required by the Tribunal to produce, shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding one hundred pounds or, at the discretion of the Court, to imprisonment for a term not exceeding six months or to both such fine and such imprisonment.
+
+(5) Counsel of the Bar of Northern Ireland or any solicitor entitled to practise in Northern Ireland may, notwithstanding any other enactment, practise in connection with any hearing in the State of any Arbitration Tribunal constituted as aforesaid and may appear and represent the Ministry at such hearing.
+
+(6) Any award of a Tribunal constituted as aforesaid may, by leave of the High Court, be entered as a judgment in terms of the award and shall thereupon have the same force and effect as a judgment or order of the High Court.

@@ -1,0 +1,3 @@
+Arrangements in respect of other matters arising out of the dissolution of the Drainage Board.
+
+8.—The Minister may make and carry out such administrative arrangements as he thinks proper for the purposes of providing for matters arising out of the dissolution of the Drainage Board and, in particular, may make and carry out arrangements for the temporary operation of the existing sluice gates at Belleek in such manner as may be specified in the arrangements for the purposes of controlling the water levels of the Loughs pending and until such time as the Board have agreed with the Ministry pursuant to the provisions of the principal agreement that the said water levels can and should be controlled in accordance with those provisions.
