@@ -1,0 +1,11 @@
+Safety representative and deputy.
+
+23.—(1) The persons (other than the installation manager) working on, in or from an offshore installation to which this Act applies may select and appoint from among their number a representative and a deputy (in this Act referred to as “the safety representative” and “the deputy safety representative”, respectively) to represent them in consultations under this section with the installation manager.
+
+(2) The Minister may make regulations for giving effect to this section and, without prejudice to the generality of the foregoing, regulations under this section may make provision in relation to all or any of the following matters:—
+
+(a) the terms and conditions of appointment and the functions and duties of the safety representative and the deputy safety representative;
+
+(b) the duties of the installation manager concerned, including a requirement that he shall give (or cause to be given) to the safety representative (or the deputy safety representative) concerned a copy of the statement of policy under section 26 of this Act as soon as practicable, and in any event not later than ten days from the expiration of the period specified under section 26 (3) (c) of this Act for the preparation of such statement, and shall hold consultations with the safety representative (or the deputy safety representative) concerned for the purpose of ensuring co-operation between the management and the other persons working on, in or from the offshore installation concerned in securing compliance with the provisions of this Act (or of regulations thereunder) relating to safety, health and welfare, or such other statutory provisions which are prescribed for the purposes of this section and apply to such installation or to such persons (or to both);
+
+(c) a provision that, on a request being made to an inspector, the safety representative (or the deputy safety representative) shall be entitled to accompany an inspector on any tour (or part of a tour) of inspection of the relevant offshore installation made by the inspector in the course of duty (other than a tour of inspection made specifically to investigate an accident) and that, where a representative intends to accompany an inspector, he shall inform him of his intention.
