@@ -1,0 +1,9 @@
+STATUTORY RULES AND ORDERS. 1942. No. 25.
+
+HOME-GROWN WHEAT (PURCHASE PERCENTAGE FOR CEREAL YEAR 1941-42) (AMENDMENT) ORDER, 1942.
+
+WHEREAS it is enacted by sub-section (1) of section 10 of the Agricultural Produce (Cereals) Act, 1935 (No. 26 of 1935), that the Minister for Agriculture may before the commencement of any cereal year make an order (in the said section referred to as a purchase percentage order) requiring that of the home-grown wheat quotas, for all mills which are licensed mills at the commencement of such cereal year, for such cereal year a percentage (in this said section referred to as the purchase percentage) fixed by such order shall be purchased and taken into store in such cereal year before the end of each month, specified in such order, in such cereal year, and such percentage may, in respect of any one month in such cereal year, be fixed at one hundred per cent., and it is enacted by subsection (2) of the said section that where a purchase percentage order has been made in relation to any cereal year, the said Minister may, whenever and so often as he thinks fit, by order amend such purchase percentage order, in respect of any month or months in such cereal year commencing after the date of such order, by increasing or reducing the purchase percentage for such month or months or, in respect of any month in such cereal year current at the date or such order, by reducing the purchase percentage for such month ;
+
+AND WHEREAS the Home-Grown Wheat (Purchase Percentage for Cereal Year 1941-42) Order, 1941 ( S. R. & O. No. 289 of 1941 ), was made by the Minister for Agriculture under sub-section (1) of the said section 10 ;
+
+NOW, THEREFORE, I, SÉAMAS O RIAIN, Minister for Agriculture, in exercise of the powers conferred on me by subsection (2) of section 10 of the Agricultural Produce (Cereals) Act, 1935 (No. 26 of 1935), and of every and any other power me in this behalf enabling, do hereby order as follows :—
