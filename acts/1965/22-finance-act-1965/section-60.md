@@ -1,0 +1,25 @@
+Amendment of section 93 of Finance Act, 1963.
+
+60.—The following section is hereby substituted for section 93 of the Finance Act, 1963 :
+
+“93.—(1) Where in relation to any premises an amount has become or would have become chargeable to tax as mentioned in subsection (1) of section 92 of this Act by reference to a lease, estate or interest, the person for the time being entitled to that lease, estate or interest shall, subject to the provisions of the following subsections of this section, be treated for the purposes of subsection (4) of section 84 of this Act as paying rent, accruing from day to day, in respect of the premises (in addition to any rent actually paid), during any part of the relevant period in relation to the said amount for which he is entitled to the lease, estate or interest and in all bearing to that amount the same proportion as that part of the said relevant period bears to the whole.
+
+(2) Where in relation to any premises an amount has become or would have become chargeable to tax as aforesaid, and by reference to a lease granted out of, or a disposition of, the lease, estate or interest by reference to which the said amount (hereafter in this section referred to as the prior chargeable amount) so became or would have become chargeable, a person would apart from this subsection be chargeable under section 86, 86A or 86B of this Act on any amount (hereafter in this section referred to as the later chargeable amount), the amount on which he is so chargeable shall, where no claim is or can be made under subsection (4) of the said section 86, be the excess, if any, of the later chargeable amount over the appropriate fraction of the prior chargeable amount or, where the lease or disposition by reference to which the person would be chargeable as aforesaid extends to a part only of the said premises, the excess, if any, of the later chargeable amount over so much of the appropriate fraction of the prior chargeable amount as, on a just apportionment, is attributable to that part of the premises.
+
+(3) In a case in which subsection (2) of this section operates to reduce the amount on which, apart from that subsection, a person would be chargeable by reference to a lease or disposition, subsection (1) of this section shall apply for the relevant period in relation to the later chargeable amount only if the appropriate fraction of the prior chargeable amount exceeds the later chargeable amount and shall then apply as if the prior chargeable amount were reduced in the proportion which the said excess bears to the said appropriate fraction:
+
+Provided that where the lease or disposition extends to a part only of the premises mentioned in the said subsection (2), the said subsection (1) and this subsection shall be applied separately in relation to that part and to the remainder of the premises but as if for any reference to the prior chargeable amount there were substituted a reference to that amount proportionately adjusted.
+
+(4) In this section ‘the relevant period’ means in relation to any amount—
+
+(a) where the amount arose under section 86 of this Act, the period treated, in computing that amount, as being the duration of the lease;
+
+(b) where the amount arose under section 86A of this Act, the period treated, in computing that amount, as being the duration of the lease remaining at the date of the assignment;
+
+(c) where the amount arose under section 86B of this Act, the period beginning with the sale and ending on the date fixed under the terms of the sale as the date of the reconveyance or grant, or, if that date is not fixed, ending with the earliest date at which the reconveyance or grant could take place in accordance with the terms of the sale.
+
+(5) For the purposes of subsections (2) and (3) of this section the appropriate fraction of the prior chargeable amount is the sum which bears to that amount the same proportion as the length of the relevant period in relation to the later chargeable amount bears to the length of the relevant period in relation to the prior chargeable amount.
+
+(6) Where the prior chargeable amount arose under subsection (2) of section 86 of this Act by reason of an obligation which included the incurring of expenditure in respect of which any allowance has fallen or will fall to be made under Part V of the Finance Act, 1959, this section shall apply as if the obligation had not included the incurring of that expenditure and the prior chargeable amount had been calculated accordingly.
+
+(7) Where the prior chargeable amount arose under section 86B of this Act and the reconveyance or grant in question takes place at a price different from that taken in calculating that amount or on a date different from that taken in determining the relevant period in relation to that amount, the foregoing provisions of this section shall be deemed to have had effect (for all relevant years of assessment) as they would have had effect if the actual price or date had been so taken and such adjustments of liability to tax shall be made, by means of additional assessment or otherwise, as may be necessary.”
