@@ -1,0 +1,7 @@
+Regulation 3
+
+3. Regulation 2 of the Principal Regulations shall be construed and have effect as if the reference in the definition of "the Council Directive" to the Ninth Commission Directive No. 74/421/EEC of 23rd July 19741, included a reference to each of the following, namely:
+
+( a ) Second Council Directive No. 75/296/EEC of 28 April, 19752, and
+
+( b ) Tenth Commission Directive No. 75/50/EEC of 20 December, 19743, Eleventh Commission Directive No. 75/267/EEC of 24 April, 19754, Twelfth Commission Directive No. 75/696/EEC of 24 October, 19755, Thirteenth Commission Directive No. 76/13/EEC of 15 December, 19756, Fourteenth Commission Directive No. 76/546/EEC of 8 June, 19767, Fifteenth Commission Directive No. 76/603/EEC of 21 June, 19768, Sixteenth Commission Directive No. 76/933/EEC of 1 December, 19769, Seventeenth Commission Directive No. 77/179/EEC of 16 February, 197710, Eighteenth Commission Directive No. 77/471/EEC of 11 July, 197711, Nineteenth Commisison Directive No. 77/512/EEC of 26 July, 197712, Twentieth Commission Directive No. 78/58/EEC of 7 December, 197713, Twenty-First Commission Directive No. 78/117/EEC of 23 December, 197714, Twenty-Second Commission Directive No. 78/522/EEC of 30 May, 197815, Twenty-Third Commission Directive No. 78/613/EEC of 23 June, 197816, Twenty-Fourth Commission Directive No. 78/743/EEC of 28 July, 197817, and Twenty-Fifth Commission Directive No. 78/974/EEC of 16 November, 197818.
