@@ -1,0 +1,5 @@
+Amendment of section 12 of the Principal Act.
+
+4.—(1) To remove doubts it is hereby declared and enacted that the powers conferred on the Executive Council by sub-section (2) of section 12 of the Principal Act extend and always have extended to public services established by or under Acts of the Oireachtas passed after the passing (whether before or after the commencement) of the Principal Act as well as to public services established by or under British Statutes or by or under Acts of the Oireachtas passed before the Principal Act.
+
+(2) Whenever the Executive Council by Order made under sub-section (2) of section 12 of the Principal Act re-distributes any public services amongst any of the Ministers and Departments of State it shall be lawful for the Executive Council by the same Order to make such changes in the styles and titles of the Ministers and Departments of State affected by such redistribution as appear to the Executive Council to be expedient in consequence of such redistribution.
