@@ -1,0 +1,3 @@
+Commencement and termination of benefit years.
+
+4.—The first benefit year shall be the period beginning on the day next following the day on which the fourth special period shall terminate under this Act and ending on the 17th day of October, 1923, and the second benefit year shall be the period beginning on the 18th day of October, 1923, and ending on the 15th day of October, 1924, and every subsequent benefit year shall be the period beginning on the day next following the day on which the preceding benefit year expired and ending on the Wednesday nearest to the 16th day of October in the next following calendar year.
