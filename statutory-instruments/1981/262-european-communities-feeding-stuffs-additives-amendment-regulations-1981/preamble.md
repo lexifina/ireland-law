@@ -1,0 +1,3 @@
+I, ALAN M. DUKES, Minister for Agriculture, in exercise of the powers conferred on me by section 3 of the European Communities Act, 1972 (No. 27 of 1972), and for the purpose of giving effect to certain Commission Directives amending Council Directive No. 70/524/EEC of 23 November, 19701
+
+(which Commission Directives are specified in Regulation 2 of the regulations hereunder), hereby make the following regulations:
