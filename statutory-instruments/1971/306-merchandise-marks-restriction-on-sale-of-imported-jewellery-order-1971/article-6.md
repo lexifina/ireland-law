@@ -1,0 +1,3 @@
+Article 6
+
+6. Where any display material in, on or with which goods of a description specified in Part I of the Schedule to this Order are sold or offered for sale, directs attention to any of the materials or features referred to in Part II of that Schedule in the goods, an indication of origin of the goods consisting of the name in English of the country in which the goods were manufactured or partly manufactured or the word "Foreign" or any other clear indication that the goods were not wholly manufactured in the State shall be marked on the display material or on a label, tag or ticket attached to the display material.
