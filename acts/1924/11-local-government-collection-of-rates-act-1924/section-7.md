@@ -1,0 +1,7 @@
+Transfer from rate collector of powers and duties unconnected with collection of rates.
+
+7.—(1) The Minister may by order wherever it shall become necessary by reason of any rules made under this Act or otherwise, transfer all or any of the powers and duties of a collector of poor-rate in relation to the valuation of rateable property, the registration of electors, the preparation of jurors lists, or any other matter unconnected with the collection of rates to any person or persons appointed for the purpose by the local authority with the approval of the Minister, or, with the consent of the Minister for Home Affairs, to the Gárda Síochána, and may by such order adapt any enactment, order, or rule relating to any such power or duty so transferred in such manner as shall be necessary to give effect to the order.
+
+(2) Any such order may be made either generally or with respect to the area of any particular local authority or authorities.
+
+(3) Every order made by the Minister under this section shall be laid before both Houses of the Oireachtas as soon as may be after it is made, and if both of those Houses shall, within twenty-one days on which either House has sat after such order is laid before the Houses, pass resolutions annulling such order, such order shall be annulled but such annulment shall not prejudice or affect the validity of anything previously done under such order.
