@@ -1,0 +1,5 @@
+Power of Minister to prohibit landing at, or departure from, aerodrome in certain conditions.
+
+10.—(1) Subject to subsection (2), the Minister may, if he is satisfied that it is in the interests of public order or security or safety so to do, or that the licence or authorisation granted under the Acts in relation to an aerodrome is deemed to have been revoked pursuant to section 11 (3), by notice in writing, prohibit the landing of aircraft at, or the departure of aircraft from, an aerodrome either from the date of the notice or from such later date as the Minister, having regard to all the circumstances, may specify in the notice.
+
+(2) The Minister shall not exercise the power conferred on him by subsection (1) unless he is satisfied that the holder of the licence or authorisation granted under the Acts in relation to the aerodrome cannot or will not comply with requirements of the Minister under section 7, or that such licence or authorisation is deemed to have been revoked pursuant to section 11 (3), as the case may be.
