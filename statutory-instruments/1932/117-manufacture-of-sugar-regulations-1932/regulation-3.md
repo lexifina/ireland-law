@@ -1,0 +1,3 @@
+Regulation 3
+
+3. Every manufacturer must give such security by bond as the Commissioners may require, that all dutiable sugar prepared upon his premises will be produced for charge of duty and duly warehoused, and that all non-dutiable sugar upon which subsidy is claimed produced to the Officer and duly warehoused is of a polarisation exceeding 90 degrees and is manufactured upon his approved premises, and that except as provided for in these Regulations no such sugars will be removed from the approved warehouse without due notice being given to the Officer, or before the proper duty, if any, has been paid, or, having been so removed, will be again received into the factory or warehouse.
