@@ -1,0 +1,3 @@
+Appeal in criminal cases.
+
+85.—An appeal shall lie in criminal cases from a Justice of the District Court to the Judge of the Circuit Court within whose Circuit the District or any part of the District of the Justice lies, against any order for payment of a penal or other sum exceeding twenty shillings or for the doing of anything at greater expense than twenty shillings or for the estreating of any recognizance to a greater amount than twenty shillings or for any term of imprisonment exceeding one month, by the person against whom the order shall have been made but not otherwise, and the decision of the Judge of the Circuit Court on any such appeal shall be final and conclusive and not appealable.

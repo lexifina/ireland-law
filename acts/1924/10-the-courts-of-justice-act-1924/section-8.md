@@ -1,0 +1,3 @@
+Court of Criminal Appeal.
+
+8.—The Chief Justice may, from time to time, request any two ordinary judges of the High Court to sit with himself, or with a judge of the Supreme Court, as a Court of Criminal Appeal, and the judges, so requested, or one of the same and the President of the High Court, if so requested and consenting, shall sit and with the Chief Justice or Judge of the Supreme Court shall constitute the Court of Criminal Appeal of Saorstát Eireann for the occasion in question: Provided that any other available judge or judges of the High Court or Supreme Court may at the request of the Chief Justice, attend as members of the Court of Criminal Appeal for the occasion in question.

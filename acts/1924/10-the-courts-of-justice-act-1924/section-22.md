@@ -1,0 +1,3 @@
+Jurisdiction to be exercised pursuant to rules of court.
+
+22.—The jurisdiction vested in and transferred to the High Court and the Supreme Court and the Chief Justice respectively shall be exercised so far as regards pleading, practice and procedure generally, including liability as to costs, in the manner provided by such rules of court as may be made pursuant to this Part of this Act, and where no provision is contained in any such rules of court and as long as there shall be no rule with reference thereto, it shall be exercised as nearly as possible in the same manner in which it might have been exercised by the respective courts from which such jurisdiction shall have been transferred, by this Act.

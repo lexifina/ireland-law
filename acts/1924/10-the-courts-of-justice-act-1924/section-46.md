@@ -1,0 +1,3 @@
+Power to appoint temporary assistant judges.
+
+46.—Whenever within three years after the commencement of this Part of this Act the accumulation of business so requires there may be appointed such number of temporary Assistant Circuit Judges on such terms and conditions as the Minister for Home Affairs with the concurrence of the Minister for Finance may determine: Provided that no person not qualified for appointment as a Circuit Judge shall be appointed a temporary Assistant Circuit Judge: Provided also that no temporary Assistant Circuit Judge appointed under this section shall continue to hold office after the expiration of three years from the commencement of this Part of this Act.

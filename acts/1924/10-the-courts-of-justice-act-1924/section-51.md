@@ -1,0 +1,3 @@
+Jurisdiction transferred and application of Sections 21 & 22 mutatis mutandis.
+
+51.—There shall be transferred to the Circuit Court all jurisdiction not hereinbefore expressly excepted which, at the commencement of this Act, was vested in or capable of being exercised by Recorders, County Court Judges, and Chairmen and Courts of Quarter Sessions, or any of the same in Saorstát Eireann (save such jurisdiction of Justices at or of Courts of Quarter Sessions as is hereinafter conferred on or transferred to the District Court) and the provisions of Sections 21 and 22 of this Act shall apply mutatis mutandis to the jurisdiction vested in and transferred to the Circuit Court by this Act.

@@ -1,0 +1,3 @@
+Pension.
+
+14.—There shall be granted to each judge of the High Court and the Supreme Court who retires after 15 years' service or upwards in the said courts or either of them, a pension to be continued during his life of two-thirds of his salary at the time he ceases to act as judge. There shall be granted to each judge of the High Court and the Supreme Court who vacates his office owing to age or permanent infirmity after having completed five or more years' service and less than fifteen years' service a pension calculated at the rate of one-sixth of his salary at the time he vacates his office, with the addition of one-twentieth of his said salary for every completed year of service in excess of five such years, such pension to be continued during his life.

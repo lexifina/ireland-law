@@ -1,0 +1,3 @@
+Salaries and pensions.
+
+41.—Every Circuit Judge shall receive a salary of £1,700 per annum. Every Circuit Judge who resigns or otherwise for any cause vacates his office after having completed fifteen or more years' service shall be entitled for his life to a pension amounting to two-thirds of his salary at the time he resigns or vacates his office, and every Circuit Judge who vacates his office owing to age or permanent infirmity, after having completed five or more years' service and less than fifteen years' service shall be entitled for his life to a pension calculated at the rate of one-sixth of his salary at the time he vacates his office, with the addition of one-twentieth of his said salary for every completed year of service in excess of five such years.

@@ -1,0 +1,3 @@
+Vacancy in office of judge: illness and deputy.
+
+45.—The office of any Circuit Judge may be vacated by writing under his hand, and shall be vacated on his being appointed a Judge of the High Court or of the Supreme Court, and thereupon, or whenever the office of any Circuit Judge shall become vacant a new Circuit Judge shall be appointed in his place. In case of the illness of any Circuit Judge, a deputy may be appointed to act in his place, on the recommendation of the Attorney-General, at such remuneration as may be sanctioned by the Minister for Finance: Provided however that no one other than a practising barrister of ten years' standing at least shall be qualified for appointment as deputy of a Circuit Judge.

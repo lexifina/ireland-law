@@ -1,0 +1,3 @@
+Qualification for appointment.
+
+69.—No person shall be appointed a Justice of the District Court who is not at the date of his appointment a practising barrister or solicitor of six years' standing at least or has not been a Divisional Justice of the Police District of Dublin Metropolis or a District Justice under the District Justices (Temporary Provisions) Act, 1923 (No. 6 of 1923); but service as a judge of the Dáil Supreme Court as defined in the Dáil Eireann Courts (Winding-Up) Act, 1923 (No. 36 of 1923), or as a Judicial Commissioner appointed under that Act, shall be deemed practice at the Bar for the purpose of this provision.

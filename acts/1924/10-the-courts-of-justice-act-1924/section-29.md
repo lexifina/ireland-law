@@ -1,0 +1,3 @@
+Decision of Court of Criminal Appeal final save on certificate of Attorney General.
+
+29.—The determination by the Court of Criminal Appeal of any appeal or other matter which it has power to determine shall be final, and no appeal shall lie from that court to the Supreme Court, unless that court or the Attorney-General shall certify that the decision involves a point of law of exceptional public importance and that it is desirable in the public interest that an appeal should be taken to the Supreme Court, in which case an appeal may be brought to the Supreme Court, the decision of which shall be final and conclusive.

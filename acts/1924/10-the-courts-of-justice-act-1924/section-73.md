@@ -1,0 +1,3 @@
+Justices not removable from office save as mentioned in section.
+
+73.—No Justice of the District Court shall be removable from office save for incapacity or physical or mental infirmity or misbehaviour in office or misconduct, which shall be certified under the hands of the Attorney-General and the Chief Justice. It shall be the duty of the Attorney-General and the Chief Justice to give such certificate in case they are satisfied that such incapacity or infirmity exists or that any such misbehaviour or misconduct has taken place. No such certificate shall be questioned or made the subject of proceedings in any Court.

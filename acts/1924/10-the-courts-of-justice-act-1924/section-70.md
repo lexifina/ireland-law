@@ -1,0 +1,3 @@
+Vacancy in office: illness and deputy.
+
+70.—The office of any Justice of the District Court may be vacated by writing under his hand and shall be vacated on his being appointed a Judge of the Circuit Court, and thereupon or whenever the office of any justice shall become vacant a new justice may be appointed in his place. In case of the illness of any justice a deputy may be appointed to act in his place on the recommendation of the Attorney-General on such terms as to payment of the deputy out of the salary of the justice or otherwise as may be provided by the rules to be made under this Part of this Act: Provided however that no one other than a practising barrister or solicitor of six years' standing at least shall be qualified for appointment as deputy of a justice.

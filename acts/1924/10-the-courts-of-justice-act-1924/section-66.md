@@ -1,0 +1,5 @@
+Rules of Circuit Court.
+
+66.—The rule-making authority for the Circuit Court may at any time and from time to time after the passing and before or after the commencement of this Act make rules to be styled “Rules of the Circuit Court” for carrying into effect this Part of this Act (except the hearing of appeals from the Circuit Court but including the hearing of appeals from the District Court) and may annul or alter such rules and make new rules. In particular rules may be made for all or any of the following matters:—
+
+For regulating the sessions, vacations and circuits of the Circuit Judges and the practice, pleading and procedure generally (including liability of parties as to costs and also the entering-up of judgment and granting of summary judgment in appropriate cases) of the Circuit Court and the use of the national language of Saorstát Eireann therein and the fixing and collection of fees and the adaptation or modification of any statute that may be necessary for any of the purposes aforesaid and all subsidiary matters.
