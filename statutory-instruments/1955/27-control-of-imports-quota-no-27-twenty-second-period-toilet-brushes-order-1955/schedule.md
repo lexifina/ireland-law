@@ -1,0 +1,31 @@
+SCHEDULE
+
+Quota Order for which quota period and quota are appointed.
+
+Quota Period
+
+Quota
+
+General description of subject-matter of quota.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Control of Imports (Quota No. 27) Order, 1936 ( S. R. & O. No. 15 of 1936 ), as amended.
+
+The period beginning on the 1st day of April, 1955, and ending on the 31st day of March, 1956.
+
+Twenty thousand articles.
+
+Brushes for use on human skin, hair, nails, teeth or mouth.
+
+GIVEN under the Official Seal of the Government, this 22nd day of February, 1955.
+
+JOHN A. COSTELLO,
+
+Taoiseach.
