@@ -1,0 +1,3 @@
+Retention of office by married women.
+
+37.—The inclusion in the conditions of an appointment made to an office at any time (including a time, whether before or after the commencement of Part II of the Act of 1941) before the commencement of this section of a condition that any woman appointed should resign such office on marriage or any similar condition shall, for the purposes of section 24 of the Act of 1941, be deemed to be a declaration made under Part II of the Act of 1941 before the appointment of the qualification for such office that any woman holding it be either unmarried or a widow.

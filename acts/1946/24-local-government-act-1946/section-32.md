@@ -1,0 +1,3 @@
+Reduction of rate in pound determined by council of a county for 1946-1947.
+
+32.—The poor rate made by the council of a county for the local financial year beginning on the 1st day of April, 1946, shall not be invalidated by reason of the fact that, subsequent to the estimates meeting, held under section 24 of the County Management Act, 1940 (No. 12 of 1940), at which the said council determined a rate in the pound to be levied for the purposes of the construction and maintenance of roads, the said council, in anticipation of an increase in the receipts by way of grant from the Road Fund, reduced the said rate in the pound and made the poor rate for the said year accordingly.

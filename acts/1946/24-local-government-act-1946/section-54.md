@@ -1,0 +1,19 @@
+Entry on land, etc.
+
+54.—(1) Any officer or agent of a road authority, who is duly authorised in that behalf by the authority, may, subject to the provisions of this section and without prejudice to any other power, enter on any land between the hours of 9 a.m. and 6 p.m. on any day for the purposes of performing any duty imposed on the authority by this Part of this Act.
+
+(2) A person entering on land under this section may do thereon all things reasonably necessary for the purpose for which the entry is made and, in particular, may survey, make plans, take levels, set up gauges to record the flow of water, make excavations and examine the depth and nature of the subsoil.
+
+(3) Before a person enters under this section on any land, the road authority on whose authority the entry is proposed to be made shall either obtain the consent (in the case of occupied land) of the occupier or (in the case of unoccupied land) of the owner or shall give by post to the occupier or owner (as the case may be) not less than twenty-one days' notice of the intention to make the entry.
+
+(4) A person to whom a notice of intention to enter on land has been given under this section by a road authority may, not later than twenty-one days after the giving of the notice, apply to the justice of the District Court having jurisdiction in the district in which the land is situate, on notice to the road authority, for an order prohibiting the entry, and, upon the hearing of the application, the justice may, if he so thinks proper, either wholly prohibit the entry or specify conditions to be observed by the person making the entry.
+
+(5) Where a justice of the District Court prohibits under this section a proposed entry on land, it shall not be lawful for any person to enter under this section on the land, and where a justice of the District Court specifies under this section conditions to be observed by persons entering on land, every person who enters under this section on the land shall observe the conditions as specified.
+
+(6) A person who suffers damage by anything done under this section on any land and, within one month after such thing is done, makes to the road authority on whose authority the land was entered under this section a claim for compensation in respect of the damage shall be entitled to be paid by the authority reasonable compensation for the damage and, in default of being paid such compensation when the amount thereof has been agreed upon or has been determined under this section, to recover it from the road authority in any court of competent jurisdiction as a simple contract debt.
+
+(7) In default of agreement, the amount of any compensation payable by a road authority under this section shall, if the amount claimed in respect thereof does not exceed twenty pounds, be determined by the District Court or, in any other case, be determined by arbitration under the Acquisition of Land (Assessment of Compensation) Act, 1919 (as amended by subsequent enactments) as if the compensation were the price of land compulsorily acquired.
+
+(8) A justice of the District Court when making any order under this section (including the refusal of an application) may at his discretion order the costs, to an amount not exceeding three guineas, incurred in relation to the proceedings by any party thereto to be paid by any other party thereto.
+
+(9) Every person who, by act or omission, wilfully obstructs an officer or agent of a road authority in the lawful exercise of the powers conferred by this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding five pounds together with, in the case of a continuing offence, a further fine not exceeding one pound for every day on which the offence is continued.
