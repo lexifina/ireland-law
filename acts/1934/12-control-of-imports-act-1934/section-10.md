@@ -1,0 +1,7 @@
+Issue of extra licences for importation in special cases.
+
+10.—(1) Where a licence has been issued under this Act and the person to import the said goods accordingly, but subject to due the preliminary period or quota period to which such licence relates, the quantity of goods the importation of which is authorised by such licence and it appears to the Minister that such failure was due to causes beyond the control of such person, the Minister may, if he so thinks fit, issue to such person a licence to import during a specified period subsequent to the said preliminary period or quota period (as the case may be) and subject to such conditions as the Minister shall think proper to attach to such licence a quantity of goods of the description to which such first-mentioned licence applied but not exceeding the quantity thereof mentioned in such first-mentioned licence.
+
+(2) Every licence issued under this section shall operate to authorise the person named therein to import into Saorstát Eireann goods in accordance with the terms of such licence but subject to due compliance with the law for the time being in force in relation to the importation of such goods and in particular the payment of the duties of customs (if any) chargeable on such importation.
+
+(3) Goods for the importation of which a licence is issued under this section shall not be reckoned as part of any quota fixed under this Act.
