@@ -1,0 +1,5 @@
+Grant of short service gratuity to pensionable servant.
+
+39.—(1) Where a pensionable servant of a local authority having not less than one year and less than five years of pensionable local service ceases to hold his employment on account of being incapable of performing his duties by reason of permanent infirmity of mind or body, the local authority shall grant to him a gratuity of such amount, not exceeding his pensionable remuneration multiplied by four and one-third multiplied by the number of the years of his pensionable local service, as they consider proper.
+
+(2) Where a pensionable servant of a local authority having not less than five years and less than ten years of pensionable local service ceases to hold his employment on account of being incapable of performing his duties by reason of permanent infirmity of mind or body, the local authority shall grant to him a gratuity of such amount, not exceeding his pensionable remuneration multiplied by fifty-two, as they consider proper.
