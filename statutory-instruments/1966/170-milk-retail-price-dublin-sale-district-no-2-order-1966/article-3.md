@@ -1,0 +1,3 @@
+Article 3
+
+3. The maximum prices at which bottled milk (other than highest grade milk) may be sold by retail in any place in the Dublin Sale District if delivered to the purchaser otherwise than at the vendor's premises during each of the months of August, 1966, September, 1966. shall be prices calculated at the rate of 7 ½d. per pint, during each of the months October, 1966, November, 1966, December, 1966. January, 1967, February, 1967, shall be prices calculated at the rate of 8d. per pint. and during each of the months March, 1967, and April, 1967, shall be prices calculated at the rate of 7 ½d. per pint.
