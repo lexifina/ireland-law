@@ -1,0 +1,9 @@
+Authorisation of payments.
+
+23.—(1) The manager may by order signed by him and countersigned by the City Treasurer authorise the making of any payment out of the funds of the Corporation in respect of any expense or on account of any liability incurred by the Council or the manager on behalf of the Corporation in the exercise or the performance by the Council or the manager (as the case may be) of any of the powers, functions or duties of the Corporation which are exercisable or performable by them or him respectively under this Act.
+
+(2) The Council may at any time by resolution direct that every order made under the foregoing sub-section of this section shall, during such period as is specified in such resolution, be submitted to the Mayor or to some other member of the Council nominated from time to time for the purpose by the Council for his signature.
+
+(3) The Council may at any time by resolution revoke a direction given under the foregoing sub-section of this section and for the time being in force.
+
+(4) If and whenever the Council gives any such direction as is hereinbefore mentioned, then, while such direction remains in force, the signature of the Mayor or of the member of the Council nominated for the purpose (as the case may require) shall be necessary on every such order as is mentioned in the first sub-section of this section in addition to the signature and counter-signature mentioned in that sub-section, but the Mayor or such member of the Council (as the case may be) shall not by reason of the fact of his signature being on any such order incur any liability to which he would not have been liable if such direction as aforesaid had not been given.

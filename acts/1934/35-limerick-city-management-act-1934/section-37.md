@@ -1,0 +1,3 @@
+Constitution of Joint Mental Hospital Committee.
+
+37.—Notwithstanding anything contained in sub-section (7) of section 9 of the Local Government (Ireland) Act, 1898, as amended by section 77 of the Local Government Act, 1925 (No. 5 of 1925), the representation of the Corporation and the Council of the County of Limerick respectively on the Joint Committee of Management of the Limerick District Mental Hospital shall, until after the holding of the second city election after the passing of this Act, continue to be the representation last-determined under the said sub-section (7) as so amended before the passing of this Act.
