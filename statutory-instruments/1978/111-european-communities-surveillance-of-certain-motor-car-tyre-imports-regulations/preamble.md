@@ -1,0 +1,1 @@
+I, DESMOND O'MALLEY, Minister for Industry, Commerce and Energy, in exercise of the power conferred on me by Section 3 of the European Communities Act, 1972 (No. 27 of 1972), and of the power conferred on the State by Commission Decision No. 71/202/EEC 1 (as amended by Commission Decision No. 73/55/EEC 2), hereby make the following Regulations:—
