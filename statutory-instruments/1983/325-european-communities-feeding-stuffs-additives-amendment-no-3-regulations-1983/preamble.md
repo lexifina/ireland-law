@@ -1,0 +1,1 @@
+I, AUSTIN DEASY, Minister for Agriculture, in exercise of the powers conferred on me by Section 3 of the European Communities Act, 1972 (No. 27 of 1972), and for the purpose of giving effect to Commission Directive No. 83/266/EEC of 16 May, 1983(1) and Commission Directive No. 83/466/EEC of 28 July, 1983(2) hereby make the following regulations:
