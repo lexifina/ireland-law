@@ -1,0 +1,33 @@
+S.I. No. 198 of 1976.
+
+AGRICULTURAL WORKERS JOINT LABOUR COMMITTEE ESTABLISHMENT ORDER, 1976.
+
+WHEREAS by Section 4 of the Industrial Relations Act, 1976 hereinafter called "the Act of 1976" the Labour Court is required to establish by order as soon as practicable after the passing of the Act of 1976, a Joint Labour Committee to perform, in relation to agricultural workers and their employers the functions assigned to it by Part IV of the Industrial Relations Act, 1946 , hereinafter called "the Principal Act";
+
+AND WHEREAS by the said Section 4 of the Act of 1976 it is provided that Sections 35 to 40 of the Principal Act shall not apply to the Joint Labour Committee established under that Section but that committee shall, subject to Section 5 of the Act of 1976, be deemed to be a Joint Labour Committee within the meaning of Section 34 of the Principal Act;
+
+AND WHEREAS by Section 1 of the Act of 1976, an agricultural worker is defined as a person employed under a contract of service or apprenticeship whose work under the contract is or includes work in agriculture but does not include a person whose work under any such contract is mainly domestic service;
+
+AND WHEREAS by the said Section 1 of the Act of 1976, agriculture is defined as including horticulture, the production of any consumable produce which is grown for sale or for consumption or other use, dairy farming, poultry farming, the use of land as grazing, meadow or pasture land or orchard or osier land or woodland, or for market gardens, private gardens, nursery grounds or sports grounds, the caring for or the rearing or training of animals and any other incidental activities connected with agriculture;
+
+NOW THEREFORE the Labour Court in pursuance of the provisions of Section 4 of the Act of 1976, Hereby Orders as follows:—
+
+(1) A committee is hereby established to perform in relation to agricultural workers and their employers, the functions assigned to it by Part IV of the Principal Act.
+
+(2) The Committee established by this Order may be known as the Agricultural Workers Joint Labour Committee.
+
+(3) This Order may be cited as the Agricultural Workers Joint Labour Committee Establishment Order, 1976.
+
+GIVEN under the Official Seal of the Labour Court this 26th day of August, 1976.
+
+D. MacDIARMADA.
+
+A person authorised under Section 18 of the
+
+Industrial Relations Act, 1946 to authenticate
+
+the Seal of the Court.
+
+EXPLANATORY NOTE.
+
+This Instrument establishes a Joint Labour Committee with the powers specified in Part IV of the Industrial Relations Act, 1946 regarding the fixing of minimum rates of remuneration and the regulation of conditions of employment of Agricultural Workers.
