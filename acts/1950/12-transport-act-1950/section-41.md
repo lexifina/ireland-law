@@ -1,0 +1,3 @@
+Determination of disputes in relation to compensation under section 38, 39 or 40.
+
+41.—If any dispute or difference arises between the Board and any person entitled to or claiming to be entitled to compensation under section 38, 39 or 40 as to whether he is or is not entitled to such compensation or as to the amount or method of calculation of such compensation or as to any matter arising under the Fourth Schedule to this Act, such dispute or difference shall, on the application of the Board or such person, be referred to the standing arbitrator appointed under section 43, and the decision of the standing arbitrator shall be final.

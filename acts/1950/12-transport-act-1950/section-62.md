@@ -1,0 +1,3 @@
+Provisions as regards construction and maintenance of telegraphs.
+
+62.—Notwithstanding anything in this Act, on and after the establishment date, all enactments, awards, deeds, agreements and arrangements containing provisions as between the Minister for Posts and Telegraphs and Córas Iompair Éireann (1945) (as successor to the former Great Southern Railways Company or other wise) relating to the construction and maintenance of telegraphs shall continue to apply only to the system of railways, works and lands which immediately before the establishment date formed the railway undertaking of Córas Iompair Éireann (1945) and to the said Minister and the Board in respect thereof.

@@ -1,0 +1,7 @@
+Meaning in sections 38, 39 and 40 of suffering a worsening of conditions of service by an officer or servant of the Board.
+
+37.—For the purposes of sections 38, 39 and 40—
+
+(a) an officer or servant of the Board, shall be deemed to suffer a worsening of his conditions of service as an officer or servant of the Board if, by reason of the transfer effected by section 36 or, in case he is transferred, without his consent, by the Board from one position to another in its service, by reason thereof he suffers any direct pecuniary loss or is in a worse position in respect of the conditions of his service as a whole (including tenure of office or employment, remuneration, gratuities, superannuation, sick fund or other benefits or allowances, whether obtaining legally or by customary practice and whether applicable to himself or his widow or children or other dependants) as compared with those obtaining in respect of him before the transfer;
+
+(b) an officer or servant of the Board who is transferred by the Board from one position in its service to another, shall be deemed to suffer a worsening of his conditions of service as an officer or servant of the Board if he is required by the Board to perform in the position to which he is so transferred duties which are not analogous to or are an unreasonable addition to those which before the transfer he was required to perform in the position from which he was so transferred.

@@ -1,0 +1,5 @@
+Provisions as to substituted stock.
+
+70.—(1) Transport stock substituted by virtue of section 25 for any security of either dissolved undertaker shall be held upon and subject to the same trusts, liens, charges, powers and other legal or equitable rights, privileges, and restrictions as affected the security for which, by virtue of section 25, the transport stock is substituted and any reference in any statute, deed, will, codicil, book, document, instrument or writing to any security of that dissolved undertaker shall be deemed, as on and from the establishment date, to be a reference to the transport stock substituted therefor by virtue of section 25.
+
+(2) Any person (being a trustee or executor or acting in any representative or fiduciary capacity) who, immediately before the establishment date, is the holder of any security of either dissolved undertaker for which any transport stock is substituted by virtue of section 25 may hold, dispose of or otherwise deal with the transport stock in all respects as he might have held, disposed of or otherwise dealt with the security for which it is so substituted.

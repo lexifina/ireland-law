@@ -1,0 +1,5 @@
+Revision of existing agreements between the Minister for Posts and Telegraphs and Córas Iompair Éireann (1945) and determination of disputes between the said Minister and the Board.
+
+63.—(1) On and after the establishment date the Minister for Posts and Telegraphs or the Board may apply to the High Court for the revision of any agreement between the said Minister and Córas Iompair Éireann (1945) (as successor to the former Great Southern Railways Company or the former Dublin United Transport Company Limited or otherwise), whether statutory or otherwise, which is in existence immediately before the establishment date.
+
+(2) If there is no such agreement as is mentioned in subsection (1) of this section, the Minister for Posts and Telegraphs or the Board may apply to the High Court to determine any difference or dispute which may exist or arise between the said Minister and the Board as to the remuneration to be paid for services rendered by the Board to the said Minister, but such services shall (notwithstanding any statutory or other provision to the contrary) continue to be rendered by the Board pending the decision of the High Court.

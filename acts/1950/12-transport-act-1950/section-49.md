@@ -1,0 +1,3 @@
+Application of Railways (Valuation for Rating) Act, 1931.
+
+49.—The Railways (Valuation for Rating) Act, 1931 (No. 47 of 1931) shall apply to the Board in respect of its railway undertaking in like manner as, by virtue of subsection (4) of section 56 of the Act of 1944, it applied immediately before the establishment date to Córas Iompair Éireann (1945) in respect of its railway undertaking, and accordingly references (by virtue of the said subsection (4)) in the Schedule to the said Railways (Valuation for Rating) Act, 1931 to Córas Iompair Éireann (1945) shall, on and after the establishment date, be construed as references to the Board.
