@@ -1,0 +1,5 @@
+S.I. No. 150 of 1968.
+
+CARRICK-ON-SHANNON PARKING TEMPORARY RULES, 1968.
+
+Arrangement of Temporary Rules.
