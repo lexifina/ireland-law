@@ -1,0 +1,1 @@
+I, JAMES MITCHELL, Minister for Justice, on the application of the council of the county of Sligo and in exercise of the powers conferred on me by section 3 of the Public Health Acts Amendment Act, 1907 , hereby, the requirements of subsection (2) of that section having been duly complied with, order as follows:
