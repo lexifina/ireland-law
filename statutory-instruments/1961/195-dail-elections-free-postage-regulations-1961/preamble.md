@@ -1,0 +1,1 @@
+I, MICHAEL HILLIARD, Minister for Posts and Telegraphs, in exercise of the powers conferred on me by section 50 of the Prevention of Electoral Abuses Act, 1923 (No. 38 of 1923), hereby make the following regulations:
