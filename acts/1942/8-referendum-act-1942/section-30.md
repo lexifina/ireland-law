@@ -1,0 +1,7 @@
+The provisional referendum certificate.
+
+30.—(1) As soon as may be after the close of the poll at a referendum in any constituency, the local returning officer for that constituency shall, in accordance with the Rules contained in the First Schedule to this Act, count the votes recorded in his constituency and report the result of such counting to the referendum returning officer.
+
+(2) When the referendum returning officer has received from every local returning officer the report of the result of the counting of the votes recorded in his constituency at the poll at a referendum, the referendum returning officer shall prepare, sign, and publish, in accordance with the Rules contained in the First Schedule to this Act, a certificate (in this Act referred to as the provisional referendum certificate) stating the particulars of the voting at such referendum and the result thereof.
+
+(3) When the referendum returning officer is informed in writing by the Master of the High Court in relation to a provisional referendum certificate either that no referendum petition in respect of such certificate has been presented within the time limited by this Act or that every referendum petition presented in respect of such certificate has become null and void, the said provisional referendum certificate shall (save where otherwise provided by this Act) become and be final and incapable of being questioned in any court and shall be conclusive evidence of the voting at the referendum to which such certificate relates and of the result of such referendum.

@@ -1,0 +1,5 @@
+Giving of notice to interested persons.
+
+37.—(1) Where, at any time before or during the trial of a referendum petition, it appears to the High Court that a particular person is so concerned in or affected by such petition that he ought to have notice thereof, the High Court may, on the application of the Attorney-General or on its own motion, direct that a copy of such petition together with such notice as is mentioned in the next following sub-section of this section be served on that person by the Attorney-General.
+
+(2) The notice to be served on a person in pursuance of a direction of the High Court under the next preceding sub-section of this section shall state that it appears to the High Court that such person is so concerned in or affected by the referendum petition of which a copy is served with such notice that he ought to have notice of that petition, and the said notice shall also state that such person is entitled under this Part of this Act to apply, if he so thinks fit, to the High Court to have himself added or named as a respondent to such petition.
