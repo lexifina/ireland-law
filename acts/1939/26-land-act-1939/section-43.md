@@ -1,0 +1,9 @@
+Advances to purchasers of purchased land sold by the Land Commission.
+
+43.—(1) Where the Land Commission sell a holding or a parcel of land which is subject to a purchase annuity or to an annual sum equivalent to a purchase annuity and of which the Land Commission have obtained or taken up possession or which was transferred to the Land Commission by section 7 of the Land Law (Commission) Act, 1923 (No. 27 of 1923), or where the Land Commission sell a part of any such holding or parcel as aforesaid, the Land Commission may, notwithstanding anything contained in sub-section (4) of section 9 of the Purchase of Land (Ireland) Act, 1891, make an advance to the purchaser of such holding, parcel, or part of a holding or parcel (as the case may be) at such sale.
+
+(2) All sums required by the Land Commission for the purpose of making advances under this section shall, to the extent that may be approved of by the Minister for Finance, be paid out of moneys provided by the Oireachtas and shall be disposed of by the Land Commission in accordance with regulations to be made by that Minister.
+
+(3) An advance made in pursuance of this section shall be repaid by means of a purchase annuity calculated at such rate per cent. on the amount thereof as is for the time being directed in that behalf by the Minister for Finance, and such purchase annuity shall, in accordance with rules made by the Minister for Finance, be consolidated so far as circumstances admit with any purchase annuity to which the relevant holding, parcel, or part of a holding or parcel is or will become subject.
+
+(4) A purchase annuity in repayment of an advance made under this section or so much of a consolidated purchase annuity as is attributable to an advance made under this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance shall direct.

@@ -1,0 +1,5 @@
+Sale of defaulter's holding or parcel discharged from arrears.
+
+20.—(1) Section 9 of the Land Act, 1936, is hereby repealed and in lieu thereof it is hereby enacted that where the Land Commission, on account of a default in the payment of any money, a breach of condition, or any other default, has obtained possession of a holding or taken up from an allottee a parcel of land, and there is any money owing to the Land Commission in respect of such holding or parcel on account of any purchase or other annuity, rent, interest, or other payment whatsoever, the Land Commission may, with the consent of the Minister for Finance, resell such holding or reallot such parcel discharged from the whole or a specified part of the money so owing and shall, on such resale or reallotment, write off as irrecoverable the money so owing or the portion thereof from which such holding or parcel is so discharged.
+
+(2) This section shall be deemed to have come into operation immediately after the passing of the Land Act, 1936, and shall have and be deemed to have had effect accordingly.

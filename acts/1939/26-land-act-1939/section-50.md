@@ -1,0 +1,3 @@
+Arrears of rates in cases of voluntary purchase.
+
+50.—Where the Land Commission have entered into an agreement for the purchase of untenanted land, section 18 of the Land Act, 1927, and section 41 of the Land Act, 1931, shall apply and have effect in relation to such land in like manner as those sections apply and have effect in relation to untenanted land becoming vested in the Land Commission under the Land Act, 1923, but subject to the modification that references in those sections to the appointed day shall be construed and have effect as references to the date on which the Land Commission get possession of the said land.

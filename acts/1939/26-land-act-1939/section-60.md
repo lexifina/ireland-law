@@ -1,0 +1,3 @@
+Amendment of section 31 of the Land Act, 1923.
+
+60.—Sub-section (2) of section 31 of the Land Act, 1923, (except so much of that sub-section as requires the Land Commission to be satisfied as to the intention of an applicant not to sell, let, or assign the land) shall not apply in any case of a sale under the said section 31 in respect of which the Land Commission is satisfied that, having regard to the nature or character of the parcel of land which is the subject of the sale or the purpose for which it is purchased, the provisions of sub-section (2) of the said section 31 (except as aforesaid) are inappropriate and should not be applicable.

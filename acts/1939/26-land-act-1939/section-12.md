@@ -1,0 +1,15 @@
+Amendment of enactments relating to the costs fund.
+
+12.—Notwithstanding anything contained in section 5 of the Land Act, 1923, section 7 of the Land Bond Act, 1933 (No. 33 of 1933), or section 8 of the Land Bond Act, 1934 (No. 11 of 1934), the following provisions shall have effect, that is to say:—
+
+(a) interest accruing from land bonds in any of the costs funds established under section 5 of the Land Act, 1923, or under that section as applied by section 7 of the Land Bond Act, 1933, or by section 8 of the Land Bond Act, 1934, and also moneys paid into any such fund in redemption of land bonds may from time to time, in so far as not required for the purpose of making payments in cash under this section, be invested in any land bonds whatsoever irrespective of their series;
+
+(b) whenever a sum is payable under sub-section (2) of section 5 of the Land Act, 1923, or under that sub-section as applied by section 7 of the Land Bond Act, 1933,. or by section 8 of the Land Bond Act, 1934, to a vendor, the Judicial Commissioner may, if he so thinks proper, direct that the said sum shall be paid either (as the Judicial Commissioner shall specify in such direction) wholly or to a specified extent in cash, and, upon such direction being so given, the said sum shall be paid either (as such direction requires) wholly or to the said specified extent in cash and, in the latter case, the residue of the said sum shall be paid as if this section had not been enacted;
+
+(c) whenever the Judicial Commissioner gives such direction as aforesaid, he shall also, in order to provide the cash for payment in pursuance of such direction, direct that a sufficient amount of land bonds in a specified costs fund (whether the costs fund out of which payment in land bonds would have been made if this section had not been enacted or any other costs fund) be sold for that purpose;
+
+(d) where the Judicial Commissioner directs, under the next preceding paragraph of this section, land bonds to be sold and there is not a sufficient amount of land bonds in any one costs fund, the Judicial Commissioner may direct that the required amount of land bonds be made up from two or more specified costs funds;
+
+(e) where at any time, whether owing to the reduction of purchase moneys or otherwise, the total amount of the land bonds of any particular series issued to the costs fund established in relation to that series of land bonds exceeds the amount of two per cent. on the total of the net purchase moneys advanced by means of issues of land bonds of such series, land bonds of the amount of such excess shall be taken out of the said or some other costs fund and cancelled or otherwise disposed of in such manner as the Minister for Finance shall from time to time direct;
+
+(f) where land bonds are taken out of a costs fund in pursuance of the next preceding paragraph of this section, any interest on such land bonds which had been paid into that costs fund shall be disposed of in such manner as the Minister for Finance shall from time to time direct.
