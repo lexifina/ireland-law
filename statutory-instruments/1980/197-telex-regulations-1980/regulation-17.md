@@ -1,0 +1,3 @@
+Regulation 17
+
+17. The Minister may, either before or after the acceptance of an agreement or before or after the connection of a subscriber's installation, demand security in such form and of such amount as the Minister may consider necessary to secure the payment of any subscription, fee or charge due in respect of telex services, and, in default of such security, the Minister may, if the agreement has not commenced, refuse to implement the agreement, or, if the agreement has commenced determine the agreement without prejudice to its terms and to the other provisions of these Regulations, and, in case the installation has been provided, disconnect the installation.

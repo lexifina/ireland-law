@@ -1,0 +1,3 @@
+Regulation 20
+
+20. On the determination of an agreement the subscriber shall surrender to the Minister the installation with all fixtures and accessories, in as good condition as when received, ordinary wear only excepted, and the Minister shall remove the installation and for that purpose shall have access at all reasonable times by his officers, servants and agents to the subscriber's premises and the subscriber shall, subject to Regulations 9(3), 10, 13 (3) and 29 of these Regulations, be entitled to a return of the balance of any sum deposited by way of security in accordance with Regulation 17 of these Regulations, but shall have no claim against the Minister for compensation or damages.
