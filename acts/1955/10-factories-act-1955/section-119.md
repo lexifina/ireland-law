@@ -1,0 +1,5 @@
+Notice of occupation of factory, and use of mechanical power.
+
+119.—(1) A person shall, within one month after he begins to occupy, or to use any premises as, a factory, serve on the Minister a written notice stating the name of the occupier or the title of the firm, the postal address of the factory, the nature of the work, whether mechanical power is used and, if so, its nature, the name of the sanitary authority within whose district the factory is situated and such other particulars as may be prescribed, and if he fails to do so, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds or one pound for each day since the expiration of the month aforesaid, whichever is the greater.
+
+(2) Within one month of the date upon which mechanical power is, after the commencement of this Act, first used in any factory, the occupier shall serve on the Minister a written notice stating the nature of such mechanical power.

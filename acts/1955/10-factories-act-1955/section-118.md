@@ -1,0 +1,5 @@
+Application to factories belonging to the State.
+
+118.—(1) This Act applies to factories belonging to or in the occupation of the State and to building operations and works of engineering construction undertaken by or on behalf of the State but, in case of any public emergency, the Minister may, by order, to the extent and during the period named in the order exempt from this Act any factory belonging to the State or any building operations or works of engineering construction undertaken by or on behalf of the State, or any factory in respect of work which is being done on behalf of the State.
+
+(2) The powers conferred by this Act on a sanitary authority shall, in the case of a factory belonging to or in the occupation of the State, or building operations or works of engineering construction undertaken by or on behalf of the State, be exercised by an inspector under this Act, and any notice required by this Act to be sent to a sanitary authority shall in any such case be sent to the Minister.

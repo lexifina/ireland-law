@@ -1,0 +1,3 @@
+Fees of certifying doctors.
+
+97.—The fees to be paid to certifying doctors for carrying out their duties under this Act shall, so far as they relate to any examination or certificate with respect to the fitness of a young person for employment in a factory or to any examination or medical supervision of persons employed in a factory carried out in pursuance of regulations or an order under this Act, be paid by the occupier of that factory, and in any other case shall be paid by the Minister, and the fees shall be of such amounts as may be prescribed, but without prejudice to any agreement between a certifying doctor and the occupier of a factory for the payment by the occupier of fees of greater amounts than those prescribed.
