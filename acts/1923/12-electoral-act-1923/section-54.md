@@ -1,0 +1,9 @@
+Issue of Writs.
+
+54.—(1) If and whenever the Oireachtas shall be dissolved the Clerk of the Dáil shall immediately upon the issue of the Proclamation summoning a new Oireachtas issue his writ to the returning officer in each constituency named in the Eighth Schedule to this Act directing such returning officer to cause an election to be held of the full number of members of the Dáil to serve in such new Oireachtas for the constituency for which he is returning officer.
+
+(2) If and whenever any vacancy shall occur in the membership of the Dáil by death, resignation or disqualification of a member the Ceann Comhairle of the Dáil shall as soon as he is directed by the Dáil so to do, direct the Clerk of the Dáil to issue his writ for the election of a member to fill such vacancy, and upon such direction the Clerk of the Dáil shall issue his writ to the returning officer of the constituency in the representation of which the vacancy has occurred directing such returning officer to cause an election to be held of a member of the Dáil to serve in place of the member so dead, resigned or disqualified.
+
+(3) If at any time there shall be more than one vacancy in the representation of any constituency in the Dáil and the Clerk of the Dáil shall be directed at the one time to issue his writs for the election of members to fill all or more than one of such vacancies the Clerk of the Dáil shall issue only one writ to the returning officer of that constituency and shall by such writ direct him to hold one election to fill all the vacancies mentioned in such writ in the representation of that constituency, and the returning officer shall accordingly hold one election only for the election of members of the Dáil to fill all the vacancies mentioned in such writ.
+
+(4) All writs issued by the Clerk of the Dáil under this section shall be in one or other of the forms contained in Part III. of the Fifth Schedule to this Act.

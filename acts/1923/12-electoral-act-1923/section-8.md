@@ -1,0 +1,7 @@
+Annual register.
+
+8.—(1) One register of electors shall be prepared in every year and, except in University constituencies, the first register to be prepared under this Act shall be a register of electors who were qualified on the 15th day of October, 1922, and the register to be prepared in every subsequent year shall be a register of electors who were qualified on the previous 15th day of November.
+
+(2) The first register prepared under this Act shall come into force on the commencement of the 1st day of June, 1923, or such later date as the Minister for Local Government may fix by Order, and shall remain in force until the 1st day of June, 1924, and except in University constituencies every subsequent register shall come into force on the commencement of the 1st day of June next after the qualifying date in respect of which such register is made and shall remain in force until the next following 1st day of June.
+
+(3) If for any reason the registration officer fails in any year to compile a fresh register for his area, or any part of his area, the register in force at the time when the fresh register should have come into force shall continue to operate as the register for the area or part of an area in respect of which default has been made. This sub-section shall apply to a failure in respect of the first register prepared under this Act as well as to a failure in respect of any subsequent register.

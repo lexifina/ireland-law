@@ -1,0 +1,7 @@
+Conduct of a Referendum.
+
+48.—(1) Saorstát Eireann shall for the purpose of the taking of a Referendum be deemed to be divided into the same constituencies (including University constituencies) as those into which it is for the time being divided for the purpose of Dáil elections, and each voter at a Referendum shall record his vote in the constituency in which he would be entitled to vote at a Dáil election.
+
+(2) Subject to the express provisions of this Part of this Act and of the Rules contained in Part I. of the Seventh Schedule to this Act, every Referendum shall be conducted in each constituency by the same persons and in the same manner as a poll in that constituency would be conducted under this Act at a Dáil election, and accordingly Part III of this Act so far as the same relates to the taking of a poll at such Dáil election as aforesaid and is not inconsistent with the express provisions aforesaid shall, together with the Rules and forms contained in the Seventh Schedule to this Act, apply to a Referendum.
+
+(3) When the Clerk of the Dáil shall have received from the several returning officers the results of the voting in all the constituencies he shall tabulate such results and ascertain therefrom the result of the voting on that Referendum, and shall communicate such result to the Oireachtas in such manner as shall from time to time be directed by the Dáil and shall publish same in the Iris Oifigiúil.

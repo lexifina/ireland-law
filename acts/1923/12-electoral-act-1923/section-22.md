@@ -1,0 +1,3 @@
+Voting by persons in the employment of returning officers.
+
+22.—Where an elector for any constituency is employed by the returning officer for that constituency for any purpose in connection with an election for that constituency, and the circumstances of that elector's employment are, in the opinion of the returning officer, such as to prevent him from voting at the polling station at which that elector would otherwise be entitled to vote, the returning officer may authorise such elector, by a certificate given in the prescribed form, to vote at any other polling station in the constituency, and that polling station shall, for the purpose of Rule 16 of the Fifth Schedule to this Act be deemed to be the polling station allotted to that elector.

@@ -1,0 +1,3 @@
+Appointment and powers of presiding officers and clerks.
+
+35.—The returning officer shall appoint a presiding officer to preside at each polling station, and for the purpose of the adjournment of the poll, and of every other enactment relating to the poll, a presiding officer shall have the powers belonging to a deputy returning officer under this Act; and any presiding officer and any clerk appointed by the returning officer to attend at a polling station shall have the power of asking the questions and administering the oaths authorised by this Act to be asked of or administered to voters, and may take and receive any declaration authorised by this Act to be taken before the returning officer or any magistrate.

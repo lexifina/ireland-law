@@ -1,0 +1,7 @@
+Destruction, etc., of Ballot Boxes or Papers.
+
+34.—(1) If at any election any ballot box or boxes or any ballot paper or papers, is or are taken out of the custody of the returning officer, or of any deputy returning officer, or is or are in any way tampered with, or is or are either accidentally or intentionally destroyed, or (in the case of a ballot paper or papers) maliciously torn or defaced, the election to which such ballot box or boxes or ballot paper or papers relate shall be void, but only in respect of the polling at the polling place or places at which such ballot box or boxes or such ballot paper or papers was or were used and no further or otherwise.
+
+(2) Whenever the polling at any polling place or places shall become void under the foregoing sub-section the returning officer shall as soon as practicable after the act or event causing such voidance shall have come to his knowledge appoint a day (not being later than seven days after the day of the original polling) for the taking of a fresh poll in such or every such polling place, and shall not count the votes cast at such election until such fresh poll shall have been completed.
+
+(3) In every such case as aforesaid the returning officer shall take a fresh poll in such or every such polling place as aforesaid on the day so appointed by him, and all the provisions of this Act shall apply to every such fresh poll as they apply to the original poll.
