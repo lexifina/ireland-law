@@ -1,0 +1,3 @@
+Article 5
+
+5. The duty of excise, imposed by paragraph 12(1) of the Imposition of Duties (No. 221) (Excise Duties) Order, 1975, on all hydrocarbon oil made in the State and not otherwise liable to a duty of excise and which is sent out, on or for sale or otherwise, from the premises of the manufacturer thereof or is used by such manufacturer for any purpose other than the manufacture or production of hydrocarbon oil and on all hydrocarbon oil imported into the State and not otherwise liable to a duty of excise, shall, in lieu of the rate set out in the said paragraph 12 (1), be charged, levied and paid at the rate of £3.90 per hectolitre.
