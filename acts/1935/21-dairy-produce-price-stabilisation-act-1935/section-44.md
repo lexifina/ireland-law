@@ -1,0 +1,3 @@
+Penalty for false statements.
+
+44.—Every person who, for the purpose of obtaining or increasing, for himself or any other person, any bounty, registration, licence or other benefit or advantage under or by virtue of this Act or avoiding or reducing, for himself or any other person, any levy or other obligation under this Act, shall make to the Minister or an inspector any report, return, or other written statement which is to his knowledge false or misleading in any material respect shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds or, at the discretion of the Court, to imprisonment for any term not exceeding three months or to both such fine and such imprisonment.

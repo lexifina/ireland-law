@@ -1,0 +1,5 @@
+Suspension of levy on particular substances.
+
+19.—(1) The Minister may at any time by order declare that there shall be no levy under this Part of this Act in respect of any month beginning after the end of a specified levy month (ending after the date of such order) on any specified substance or substances or on any specified class (defined in such manner as the Minister shall think proper) of any particular substance, and may at any time revoke any such order either wholly or in respect of one or more substances or classes of substance.
+
+(2) Whenever an order under this section declaring that there shall be no levy on a particular substance or class of substance has been made, then, notwithstanding anything contained in this Act, no levy shall be payable or recoverable under this Part of this Act on the said substance or class of substance (as the case may be) in respect of any month which begins after the end of the levy month specified in that behalf in such order and while such order remains in force in respect of such substance or class of substance (as the case may be), and no such month shall be a levy month for the purposes of this Part of this Act.

@@ -1,0 +1,5 @@
+Returns of dealings in substances liable to a levy.
+
+22.—(1) Every person liable under this Part of this Act to pay a levy shall, within seven days after the expiration of the levy month in respect of which such levy is payable or, where such levy month ended before the passing of this Act, within seven days after the date of such passing, send in the prescribed form and manner to the Minister the prescribed particulars of the manufacture, sale, acquisition, and other dealings with or in the substance in respect of which such levy is payable.
+
+(2) Every person required by this section to send particulars to the Minister who fails, on any occasion on which such particulars are so required to be sent by him, to send such particulars in accordance with this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first such offence, to a fine not exceeding twenty pounds and, in the case of a second or any subsequent such offence, to a fine not exceeding one hundred pounds.
