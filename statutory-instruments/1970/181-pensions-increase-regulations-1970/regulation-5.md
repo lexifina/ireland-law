@@ -1,0 +1,5 @@
+Regulation 5
+
+5. (1) Where emoluments other than salary or weekly pay have been reckoned for a pension which is to be increased under Regulation 3, Regulation 4, Regulation 10 (2) (b), Regulation 10 (4) or Regulation 10 (5) of these Regulations, the Minister, if he so thinks fit, may determine a revised amount of emoluments in relation to the pension subject to a maximum of the amount produced if the emoluments were valued by reference to the rates appropriate to the emoluments payable on the 1st day of February, 1964, or where the pension is being recalculated by reference to the rates of pay which first commenced to be paid on the specified date increased by 28.184%, subject to a maximum of the amount produced if the emoluments were valued by reference to the rates appropriate to the emoluments payable on the specified date increased by 28.184%.
+
+(2) For the purposes of this Regulation, an amount determined by the Minister pursuant to sub-Rule (2) (b) of Article 4 of the Garda Síochána Pensions Order, 1930, (inserted by Article 5 of Garda Síochána Pensions Order, 1965 ( S.I. No. 149 of 1965 )) shall be treated as an emolument.
