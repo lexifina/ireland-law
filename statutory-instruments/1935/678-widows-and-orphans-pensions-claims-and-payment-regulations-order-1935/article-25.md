@@ -1,0 +1,19 @@
+Article 25
+
+25. Was your husband the occupier of a holding or holdings of agricultural land at the time of his death? If so, give particulars and state the valuation of each holding
+
+Where situated
+
+Valuation
+
+.................................
+
+.................................
+
+................................
+
+...............................
+
+...............................
+
+...............................

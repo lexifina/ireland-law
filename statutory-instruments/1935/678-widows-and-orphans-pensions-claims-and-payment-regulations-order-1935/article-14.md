@@ -1,0 +1,9 @@
+Article 14
+
+14. What was your husband's usual occupation during the years before he died?
+
+........................
+
+........................
+
+........................

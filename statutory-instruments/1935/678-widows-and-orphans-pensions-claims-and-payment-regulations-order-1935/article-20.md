@@ -1,0 +1,13 @@
+Article 20
+
+20. PARTICULARS OF CLAIMANT'S MARRIAGE.
+
+Date of Marriage............................................................ ............................................................ ...................................
+
+Place of Marriage (Town or Village and County)............................................................ ........................................
+
+Name and Religious Denomination of Church or name of Registry Office..........................................................
+
+What was your name before marriage ?............................................................ ........................................................
+
+This space need not be filled in if a certificate of marriage is sent with the claim.
