@@ -1,0 +1,7 @@
+State liability for dividends on the capital of the Corporation.
+
+7.—(1) The Corporation shall pay to its members dividends at the fixed rate of five per cent. per annum on the amount of its capital for the time being paid up and such dividends shall be paid by the Corporation half-yearly on such dates as shall be appointed for that purpose by the Directors with the approval of the Minister.
+
+(2) If on any of the days appointed under this section for the payment of half-yearly dividends the Corporation have not any or sufficient moneys available for the payment of the dividend so payable on such day the Corporation shall forthwith certify to the Minister the sum which with the moneys (if any) so available is required to pay such dividend and upon receipt of such certificate the Minister shall advance to the Corporation the amount so certified by the Corporation and the moneys so advanced shall be forthwith applied by the Directors in or towards payment of such dividend.
+
+(3) All moneys advanced to the Corporation by the Minister under this section shall be repayable by the Corporation to the Minister on demand with interest from the date of the advance at such rate as shall be fixed by the Minister and (except in the winding-up of the Corporation) shall be so repayable only out of moneys which are profits as ascertained in accordance with directions of the Minister and in the winding-up of the Corporation shall be so repayable after the creditors of the Corporation have been paid in full.

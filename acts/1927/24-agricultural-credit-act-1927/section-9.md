@@ -1,0 +1,5 @@
+Objects of the Corporation.
+
+9.—(1) The objects of the Corporation shall be so stated in its Memorandum of Association that the principal functions of the Corporation shall be the lending or advancing (subject to the restrictions imposed by this Act) of money upon such security as the Directors may, subject to the provisions of this Act, think proper, the discounting and purchasing (subject to the restrictions imposed by this Act) of bills of exchange, promissory notes, and other negotiable instruments, the receipt (subject to the provisions of this Act) of deposits of money, the receipt of deposits of securities for safe-keeping and management and, so far as may be lawful, the execution of trusts in relation to such securities.
+
+(2) Nothing in this section shall prevent or restrict the inclusion among the objects of the Corporation as stated in its Memorandum of Association of all such objects and powers as are reasonably necessary or proper for or incidental or ancillary to the due performance of the principal functions aforesaid and are not inconsistent with this Act.

@@ -1,0 +1,5 @@
+Offences in relation to loans by the Corporation.
+
+22.—(1) Any person who for the purpose of obtaining for himself or any other person or any body of persons corporate or un-incorporate a loan or advance of money from the Corporation wilfully makes whether verbally or in writing a statement which is to his knowledge false or misleading shall be guilty of a misdemeanour and be liable on conviction thereof to a fine not exceeding two hundred pounds or in the case of an individual and at the discretion of the court to penal servitude for three years or imprisonment for any term not exceeding two years.
+
+(2) Every person who, having obtained a loan or advance of money from the Corporation on the terms that such money shall be applied by him for a specified purpose, fails to apply such money for such purpose shall be guilty of a misdemeanour and shall be liable on conviction thereof to a fine not exceeding two hundred pounds or in the case of an individual and at the discretion of the court to imprisonment for any term not exceeding twelve months.
