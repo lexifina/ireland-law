@@ -1,0 +1,3 @@
+Amendment of the minimum duty.
+
+9.—In the application of section 25 of the Finance Act, 1924 (No. 27 of 1924), and section 8 of the Finance Act, 1937 (No. 18 of 1937), respectively to consignments or parcels which are imported on or after the appointed day and contain only goods which are shown, to the satisfaction of the Revenue Commissioners, to have been grown, produced, or manufactured in the United Kingdom or in the Dominion of Canada, the said sections, or whichever of them is applicable, shall have effect as if the words “one shilling” were substituted for the words “two shillings and sixpence” wherever the latter words occurr (as the case may require) in those sections or in whichever of those sections is applicable.

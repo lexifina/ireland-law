@@ -1,0 +1,5 @@
+Rates of duty on certain articles of United Kingdom or Canadian origin.
+
+6.—(1) The duty of customs chargeable on any article mentioned in the second column of the First Schedule to this Act by virtue of the enactment mentioned in the third column of the said Schedule opposite the mention of such article in the said second column shall be charged, levied, and paid on every such article which is imported on or after the appointed day and is shown, to the satisfaction of the Revenue Commissioners, to have been grown, produced, or manufactured in the United Kingdom or in the Dominion of Canada at the rate specified in the fourth column of the said Schedule opposite the mention of such article in the said second column, in lieu of the rate at which such duty is chargeable under the said enactment mentioned in the said third column.
+
+(2) Where a percentage is stated in the fourth column of the First Schedule to this Act opposite the mention of any article in the second column of that Schedule, such statement shall be construed as meaning a rate of duty equal to that percentage of the value of such article.
