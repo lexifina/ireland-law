@@ -1,0 +1,3 @@
+Article 11
+
+11. The returning officer shall arrange for the delivery, at least ten days before the election date, to each member of the staff of An Chomhairle on the relevant electoral roll referred to in Article 8 (1) of this Order of one ballot paper, one form of declaration of identity and two envelopes, one marked "Ballot Paper Envelope" and the other a larger envelope (hereinafter referred to as the outer envelope) bearing the name and address of the returning officer and capable of containing the ballot paper envelope and the form of declaration of identity, and shall deliver the same at the premises where the member is stationed for the purpose of his ordinary duties.
