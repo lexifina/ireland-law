@@ -1,0 +1,9 @@
+# Factories (Report of Examination of Gasholder) Regulations, 1956
+
+S.I. No. 186 of 1956 · <https://www.irishstatutebook.ie/eli/1956/si/186/made/en/html>
+
+As made (4 July 1956), from the electronic Irish Statute Book. Later amendments are not applied.
+
+| Provision | File |
+| --- | --- |
+| S.I. No. 186 of 1956. | [preamble.md](preamble.md) |
