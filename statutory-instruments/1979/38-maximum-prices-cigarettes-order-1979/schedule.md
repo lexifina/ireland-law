@@ -1,0 +1,315 @@
+SCHEDULE
+
+Reference Number
+
+Brand of Cigarettes
+
+Maximum Prices
+
+(1)
+
+(2)
+
+(3)
+
+1
+
+"Sweet Afton"
+
+53p per packet of twenty
+
+26½p per packet of ten
+
+2
+
+"Gitanes Plain"
+
+54p per packet of twenty
+
+3
+
+"Gauloises Plain"
+
+53p per packet of twenty
+
+4
+
+"Dunhill International"
+
+59p per packet of twenty
+
+5
+
+"Rothmans King Size"
+
+54p per packet of twenty
+
+27p per packet of ten
+
+6
+
+"Craven Filter King Size"
+
+54p per packet of twenty
+
+7
+
+"Peter Stuyvesant"
+
+54p per packet of twenty
+
+8
+
+"Consulate Menthol"
+
+54p per packet of twenty
+
+27p per packet of ten
+
+9
+
+"Major Extra Size"
+
+53p per packet of twenty
+
+26½p per packet of ten
+
+10
+
+"Carrolls No. 1"
+
+52p per packet of twenty
+
+26p per packet of ten
+
+11
+
+"Broadleaf"
+
+50p per packet of twenty
+
+25p per packet of ten
+
+12
+
+"Afton Mild"
+
+50p per packet of twenty
+
+25p per packet of ten
+
+13
+
+"Grand Parade"
+
+48p per packet of twenty
+
+24p per packet of ten
+
+14
+
+"Gitanes Filter"
+
+54p per packet of twenty
+
+15
+
+"Gauloises Filter"
+
+53p per packet of twenty
+
+16
+
+"Gauloises Disque Bleu"
+
+53p per packet of twenty
+
+17
+
+"Carrolls King Size"
+
+54p per packet of twenty
+
+27p per packet of ten
+
+18
+
+"Richmond Filter"
+
+46p per packet of twenty
+
+23p per packet of ten
+
+19
+
+"Player's No. 6"
+
+50p per packet of twenty
+
+25p per packet of ten
+
+20
+
+"Embassy Extra Mild"
+
+50p per packet of twenty
+
+25p per packet of ten
+
+21
+
+"Woodbine"
+
+50p per packet of twenty
+
+25p per packet of ten
+
+22
+
+"Embassy Filter"
+
+50p per packet of twenty
+
+25p per packet of ten
+
+23
+
+"Gold Leaf"
+
+52p per packet of twenty
+
+26p per packet of ten
+
+24
+
+"John Player King Size"
+
+52p per packet of twenty
+
+25
+
+"John Player King Size Extra Mild"
+
+52p per packet of twenty
+
+26
+
+"Embassy King Size"
+
+52p per packet of twenty
+
+27
+
+"John Player Special"
+
+55p per packet of twenty
+
+28
+
+"Cigarella King Size"
+
+55p per packet of twenty
+
+29
+
+"More"
+
+57p per packet of twenty
+
+30
+
+"Player's Mild Navy Cut"
+
+53p per packet of twenty
+
+26½p per packet of ten
+
+31
+
+"Embassy King Size Extra Mild"
+
+52p per packet of twenty
+
+32
+
+"Player's Medium Navy Cut"
+
+53p per packet of twenty
+
+26½p per packet of ten
+
+33
+
+"Gold Flake"
+
+53p per packet of twenty
+
+26½p per packet of ten
+
+34
+
+"Churchman's No. 1"
+
+54p per packet of twenty
+
+35
+
+"Gold Bond"
+
+48p per packet of twenty
+
+24p per packet of ten
+
+36
+
+"Silk Cut"
+
+52p per packet of twenty
+
+26p per packet of ten
+
+37
+
+"Silk Cut King Size"
+
+54p per packet of twenty
+
+38
+
+"Albany"
+
+50p per packet of twenty
+
+25p per packet of ten
+
+39
+
+"Park Drive Plain"
+
+50p per packet of twenty
+
+40
+
+"Senior Service Plain"
+
+53p per packet of twenty
+
+41
+
+"Benson & Hedges King Size
+
+54p per packet of twenty
+
+Special Filter"
+
+27p per packet of ten
+
+Given under the Official Seal of the Minister for Industry, Commerce and Energy, this 9th day of February, 1979.
+
+J. T. GODFREY.
+
+A person authorised by the Minister for Industry, Commerce and Energy to authenticate the Official Seal of the Minister.
+
+EXPLANATORY NOTE.
+
+This Order fixes the maximum prices at which the brands of cigarettes set out in the Schedule to the Order may be sold by retail. It also prohibits the sale of cigarettes otherwise than in packets of ten or multiples of ten.
