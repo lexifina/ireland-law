@@ -1,0 +1,23 @@
+Contribution to be made by County and Urban District Councils.
+
+14.—(1) The Council of every County and County Borough, in each of the five local financial years, beginning on the First day of April, 1923, 1924, 1925, 1926, and 1927, respectively, shall pay to the Exchequer of Saorstát Eireann, in accordance with such directions as may be given for the purpose by the Minister for Finance, a sum equal to a rate of sixpence in the pound on the rateable value of such County or County Borough, including any Urban Districts therein at the beginning of each such local financial year, respectively.
+
+(2) The sum required to be paid by the Council of a County or County Borough under the foregoing sub-section shall be assessed and raised in the same manner as the amounts of decrees under the Criminal Injuries Acts, charged on the county at large, including the urban districts therein, are assessed and raised.
+
+(3) Any steps which may have been taken by the Council of any County or County Borough before the passing of this Act for raising the sum required to be paid into the Exchequer by that Council under this section in the financial year beginning on the 1st day of April, 1923, and which would have been lawful if this Act had been passed at the time such steps were taken, shall be deemed to have been lawfully taken under the authority of this Act.
+
+(4) Whenever it appears to the Minister for Local Government that a Council of a County or County Borough has made the rate for the financial year beginning on the 1st day of April, 1923, but has not made provision for separately raising the sum required to be paid into the Exchequer by that Council under this section, the Minister for Local Government may by order direct:—
+
+(a) that the said rate shall be deemed to be increased by sixpence in the pound on the rateable value;
+
+(b) that the secretary or clerk of such council shall alter the warrant and every receipt and demand note issued or intended to be issued to any rate-collector for the collection of rates for the said financial year by adding to the amount of such warrant a sum equal to a rate of sixpence in the pound on the rateable value of the collection district, and adding to every such receipt and demand note an amount equal to sixpence in the pound on the valuation in respect of which the rate-payer named therein is rated, and that any warrant, receipt and demand note already issued to a rate-collector shall be returned by him to such secretary or clerk to be altered as aforesaid, and that every such warrant, receipt, and demand note when so altered shall have the same effect in law as if it had been so issued to the rate-collector for such altered amount;
+
+(c) that any amount demanded by such county council from an urban district council, in respect of the portion of the rate for the said financial year payable by such urban district shall be deemed to be and shall take effect as a demand for a sum consisting of the sum actually demanded, and a further sum equal to the amount of a rate of sixpence in the pound on the rateable value of such urban district, and that the provisions of clause (a) of this sub-section shall apply to any rate made by such urban district council in respect of such demand, and that the provisions of clause (b) of this sub-section shall apply to the clerk and rate collectors of such urban district council respectively in relation to such rate;
+
+(d) that any other matter or thing necessary to be done to give effect to this section in the said financial year including all consequential alterations in the ratebooks shall be done.
+
+(5) There shall be issued out of the Central Fund of Saorstát Eireann or the growing produce thereof, an amount equivalent to any sum paid to the Exchequer under this section, and such amount shall be paid into and form part of the Road Fund.
+
+(6) From and after the passing of this Act, the Road Fund may, in addition to any other application for the time being authorised by law, be applied for repairing any damage (including total destruction) done at any time prior to the 20th day of March, 1923, to any road or to any bridge, viaduct, or subway over or under or supporting any road, or for repaying to the Council of any County, County Borough or County District moneys expended by such Council after the 31st day of March, 1920, and before the passing of this Act in repairing any such damage as aforesaid.
+
+(7) No County or other Council and no Town Commissioners shall be entitled to recover any compensation in respect of an injury to which this part of this Act applies, done to any street, road, bridge, viaduct, or sub-way, which such Council or Commissioners are, by law, liable to maintain or repair.

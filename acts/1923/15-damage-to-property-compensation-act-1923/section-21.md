@@ -1,0 +1,5 @@
+Extension of times.
+
+21.—(1) Section 137 of the Grand Jury (Ireland) Act, 1836 (6 & 7 Will. IV. ch. 116), which relates to the giving in of examinations and the making of recognisances, shall cease to have effect and shall be deemed to have ceased to have effect as from the 23rd day of December, 1920.
+
+(2) The powers of the court or judge under any rules of court made, whether before or after the passing of this Act, in pursuance of sub-section (7) of section 5 of the Local Government (Ireland) Act, 1898 (61 & 62 Vict. ch. 37), shall include, and be deemed to have included as from the 23rd day of December, 1920, power to extend or vary the time prescribed by any statute or statutory rules for making an application for compensation for criminal injuries, or for serving any notice or for doing any other act, or taking any proceedings in relation to the application in any case where it appears to the court or judge that such extension or variation is just and reasonable for any cause whatsoever.
