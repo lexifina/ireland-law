@@ -1,0 +1,7 @@
+Death of shareholder or depositor.
+
+19.—(1) Where a shareholder in or a depositor with a building society dies and has in the funds of the society a sum of money, the sum or part of it, not exceeding such amount as may from time to time be fixed by the Central Bank after consultation with the Minister for Finance for the purposes of this section, may be paid by the society, without representation within the meaning of the Succession Act, 1965, having been granted in respect of the estate of the deceased person, to the person who appears to the society to be entitled to receive it, whether as personal representative of the deceased person or otherwise, upon the society's being satisfied by evidence contained in a statutory declaration of the occurrence of the death and of the entitlement of the person, by or on whose behalf the sum is claimed, to the receipt thereof.
+
+(2) Where a payment is made under this section by a society to a person who is not the executor of the deceased person concerned, the society shall, as soon as may be, give to the President of the High Court particulars in writing of the payment.
+
+(3) Where a society duly makes a payment under this section, the payment shall be valid and effectual with respect to any demand against the funds of the society from any person making a claim as regards the estate of the deceased person concerned but the person claiming shall have his remedy for the amount of the payment against the person to whom the payment was made.
