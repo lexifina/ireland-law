@@ -1,0 +1,3 @@
+Sending forward of accused persons for trial.
+
+6.—The second proviso to paragraph B of section 77 of the Principal Act is hereby repealed and in lieu thereof it is hereby enacted that in all criminal cases not disposed of summarily by a Justice of the District Court, the Justice shall, if all the offences in respect of which the accused person is being sent forward are within the jurisdiction of the Circuit Court, send the accused person forward for trial to the Circuit Judge or one of the Circuit Judges (to be selected by the Justice) who under section 53 of the Principal Act has jurisdiction to try the case and in every other case shall send the accused person forward for trial to the Central Criminal Court.
