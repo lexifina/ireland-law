@@ -1,0 +1,11 @@
+Deputy Manager.
+
+34.—(1) If and whenever the manager is on vacation or is through illness, absence from the City, or suspension from performance of his duties, temporarily incapable of exercising the powers and functions and performing the duties conferred and imposed on him by this Act, a deputy manager may be appointed under this section for the duration of such vacation or incapacity but may with the consent of the Minister be removed under this section at any time during such vacation or incapacity.
+
+(2) Where the manager is on vacation and also where the manager is so incapable as aforesaid and such incapacity is due to absence from the City, the power of appointing the deputy manager under this section may be exercised by the manager, after consultation with the Mayor before and in contemplation of such vacation or such incapacity (as the case may be), but in every other case, that is to say, where the manager is so incapable as aforesaid owing to illness or suspension and also where the manager is on vacation or is so incapable as aforesaid owing to absence from the City and a deputy manager is not appointed under this section before such vacation or incapacity or having been so appointed is removed under this section during such vacation or incapacity, the power of appointing the deputy manager under this section shall be exercisable at any time during such vacation or incapacity by the Mayor only.
+
+(3) In every case the power of removing the deputy manager under this section shall be exercisable by the Mayor only.
+
+(4) The deputy manager shall, during the continuance of the vacation or incapacity on account of which he is appointed or until he is sooner removed under this section, have all the powers and shall exercise and perform all the functions and duties of the manager and for that purpose all references in this Act to the manager (other than the references to the manager in this section and the references in this Act to the appointment, tenure of office and remuneration of the manager) shall be construed as including the deputy manager.
+
+(5) There shall be paid by the Corporation to the deputy manager such remuneration (if any) as the Council with the approval of the Minister shall determine.
