@@ -1,0 +1,3 @@
+Regulation 9
+
+9. Where a health authority is of the opinion that cyclamate or any food suspected to contain cyclamate has been or is being manufactured, prepared, stored, distributed, or exposed for sale in contravention of article 4 of these Regulations and such cyclamate or food had been consigned or delivered to the area of another health authority, the first health authority shall communicate to the second health authority the name of the person manufacturing, preparing, storing, distributing or exposing for sale the cyclamate or food, whichever is appropriate, and such other information as they may obtain regarding the destination, consignment or composition of the cyclamate or food.
