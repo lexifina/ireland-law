@@ -1,0 +1,3 @@
+Application to mines not entered by a shaft, etc.
+
+116.—In the application of this Part to mines which are entered otherwise than by a shaft, and to workmen who are not lowered to or raised from the mine by means of machinery, the admission of men to the mine shall be substituted for the lowering of men to the mine, and the return of men from the mine shall be substituted for the raising of men from the mine, and such times as may be determined by the owner, agent, or manager of the mine, with the approval of an inspector, as the times properly corresponding to the times fixed for the commencement and completion of the lowering and raising of workmen to and from the mine, shall be substituted for the times so fixed.

@@ -1,0 +1,5 @@
+Power of inspector to require remedy for immediate or apprehended danger.
+
+132.—(1) If an inspector is of opinion that a mine or quarry or any part thereof or any matter, thing or practice at a mine or quarry or connected with the control or management of a mine or quarry is or is likely shortly to become dangerous to the safety or health of the persons employed at the mine or quarry or any of them, he may serve on the responsible person a notice stating that he is of that opinion and giving particulars of the reason why he is of that opinion, and imposing upon the responsible person such prohibitions or restrictions or requirements (of whatsoever kind) as appear to the inspector to be necessary for the purpose of safeguarding the safety or health of the persons employed at the mine or quarry.
+
+(2) Nothing in this section shall authorise the service by an inspector of a notice with respect to a mine in a case in which the service by an inspector of a notice on the manager of that mine is authorised by section 65 or 74.

@@ -1,0 +1,3 @@
+Power of Minister to grant exemptions for limited period.
+
+147.—Where the Minister is of opinion, with respect to mines or quarries of any class, that by reason of the nature or amount of work involved, or of the shortness of the period during which the mines or quarries are expected to be worked or other special circumstances affecting them, it would not be right to require compliance with the provisions of this Act or any particular provision thereof, he may by regulations exempt mines or quarries of that class from such provisions or provision for such period, and subject to such conditions, as he may prescribe.

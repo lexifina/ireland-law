@@ -1,0 +1,7 @@
+FIRST SCHEDULE
+
+Enactments Repealed
+
+Section 10.
+
+Session and Chapter or Year and Number Short Title Extent of Repeal 35 & 36 Vict. c. 77. Metalliferous Mines Regulation Act, 1872. The whole Act. 38 & 39 Vict. c. 39. Metalliferous Mines Regulation Act, 1875. The whole Act. 45 & 46 Vict. c. 3. Slate Mines (Gunpowder) Act, 1882. The whole Act. 46 & 47 Vict. c. 31. Payment of Wages in Public Houses Prohibition Act, 1883. In section 2, the words from “nor any person” to the end of the section. 50 & 51 Vict. c. 58. Coal Mines Regulation Act, 1887. The whole Act. 57 & 58 Vict. c. 42. Quarries Act, 1894. The whole Act. 57 & 58 Vict. c. 52. Coal Mines (Check Weigher) Act, 1894. The whole Act. 63 & 64 Vict. c. 21. Mines (Prohibition of Child Labour Underground) Act, 1900. The whole Act. 5 Edw. 7, c. 9. Coal Mines (Weighing of Minerals) Act, 1905. The whole Act. 6 Edw. 7, c. 53. Notice of Accidents Act, 1906. Sections 1, 2, 3 and 5. 8 Edw. 7, c. 57. Coal Mines Regulation Act, 1908. The whole Act. 10 Edw. 7, & 1 Geo. 5, c. 15. Mines Accidents (Rescue and Aid) Act, 1910. The whole Act. 1 & 2 Geo. 5, c. 50. Coal Mines Act, 1911. The whole Act. 4 & 5 Geo. 5, c. 22. Coal Mines Act, 1914. The whole Act. 6 & 7 Geo. 5, c. 31. Police, Factories, etc., (Miscellaneous Provisions) Act, 1916. Section 10. 10 & 11 Geo. 5, c. 50. Mining Industry Act, 1920. Section 19. 10 & 11 Geo. 5, c. 65. Employment of Women, Young Persons and Children Act, 1920. The whole Act so far as it relates to mines. 1955, No. 10. Factories Act, 1955. Section 128.

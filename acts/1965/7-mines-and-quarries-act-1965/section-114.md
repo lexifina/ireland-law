@@ -1,0 +1,7 @@
+Register of times of descent and ascent.
+
+114.—(1) The manager of the mine shall appoint one or more persons to direct at the pit head the lowering and raising of men to and from the mine, and shall cause a register to be kept in the prescribed form and containing the prescribed particulars with respect to the times at which men are lowered into and raised from the mine, and the cases in which any man is below ground for more than the time fixed by this Act, and the cause thereof, and the register shall be open to inspection by an inspector.
+
+(2) The workmen in a mine may, at their own cost, appoint and station one or more persons, whether holding the office of checkweigher or not, to be at the pit head, at all times when workmen are to be lowered or raised, for the purpose of observing the times of lowering and raising, and the provisions of this Act and of the Checkweighing in Various Industries Act, 1919, relating to the checkweigher, and to the relations between the owner, agent, or manager of the mine and the checkweigher shall, so far as applicable, apply to any person so appointed as they apply to the checkweigher, with the substitution, as respects appointment, of the workmen in the mine for the persons who under that Act are entitled to appoint a checkweigher.
+
+(3) If any person knowingly makes a false entry in the register which is to be kept under this section, or knowingly causes or permits any such false entry to be made, he shall be guilty of an offence.

@@ -1,0 +1,3 @@
+Means of escape from rooms in which there is special risk of fire or gas.
+
+69.—A person shall not be employed at a mine in a room, chamber, or similar confined space in which, owing to the nature of any machinery or apparatus installed therein or of any materials stored therein, there is a risk of the outbreak of a dangerous fire or the escape of steam in substantial quantity or of noxious gas in a dangerous concentration, unless either such steps are taken (whether by the provision of two or more exits or otherwise) as are necessary for the purpose of minimising the risk of his being trapped therein in any such event or the circumstances in which he is employed are themselves such as to minimise the risk of his being so trapped.

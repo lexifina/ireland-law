@@ -1,0 +1,3 @@
+Special exceptions for emergencies.
+
+119.—Where on any occasion a person remains, after the time at which his period of employment ends, below ground in a mine for the purpose of rendering assistance in the event of accident, meeting any danger (whether actual or apprehended) or dealing with any emergency or with work uncompleted through unusual and unforeseen circumstances which requires to be dealt with without interruption in order to avoid serious interference with ordinary work in the mine, there shall be deemed not to be a contravention of the foregoing provisions of this Part in relation to him.

@@ -1,0 +1,3 @@
+Construction of Checkweighing in Various Industries Act, 1919.
+
+129.—To avoid doubts, it is hereby enacted that the repeal of the Coal Mines Regulation Act, 1887, the Coal Mines (Check Weigher) Act, 1894, and the Coal Mines (Weighing of Minerals) Act, 1905, effected by section 10 and the First Schedule to this Act, shall not affect the incorporation, by subsection (3) of section 2 of the Checkweighing in Various Industries Act, 1919, of the provisions of those Acts set forth and adapted in the Second Schedule to that Act and that Act shall be construed and have effect as if the said provisions formed part of that Act.
