@@ -1,0 +1,5 @@
+Assurance on life of adopted child under ten years of age.
+
+30.—(1) For the purposes of the enactments for the time being in force relating to friendly societies and industrial assurance companies, which enable such societies and companies to insure money to be paid for funeral expenses and restrict the persons to whom money may be paid on the death of a child under ten years of age, an adopted child shall be considered as the child of the adopter or adopters born to him, her or them in lawful wedlock and not to be the child of any other person.
+
+(2) Where, before the making of an adoption order, any such insurance has been effected by a person who, in pursuance of this Act, has given consent to the making of the order, the rights and liabilities under the policy shall by virtue of the adoption order stand transferred to the adopter (or, where a married couple are the adopters, to the husband) who shall, for the purpose of the said enactments, be treated as the person who took out the policy.
