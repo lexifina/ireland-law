@@ -1,0 +1,13 @@
+# Game Preservation Act, 1930 (Period Under Section 27) (Extension) Order, 1943
+
+S.I. No. 155 of 1943 · <https://www.irishstatutebook.ie/eli/1943/si/155/made/en/html>
+
+As made (14 April 1943), from the electronic Irish Statute Book. Later amendments are not applied.
+
+| Provision | File |
+| --- | --- |
+| STATUTORY RULES AND ORDERS. 1943. No. 155. | [preamble.md](preamble.md) |
+| Article 1 | [article-1.md](article-1.md) |
+| Article 2 | [article-2.md](article-2.md) |
+| Article 3 | [article-3.md](article-3.md) |
+| Article 4 | [article-4.md](article-4.md) |
