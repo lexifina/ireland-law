@@ -1,0 +1,3 @@
+Article 1
+
+1. This Order may be cited as the Emergency Powers (No. 293) Order, 1943 (Amendment) Order, 1956.
