@@ -1,0 +1,3 @@
+Representation of real and personal estate separately or together.
+
+15.—Personal representatives shall be the representatives of a deceased person in regard to his real estate as well as in regard to his personal estate, and probate and letters of administration may be granted either separately in respect of real estate and in respect of personal estate, or in respect of real estate together with personal estate, and may be granted in respect of real estate although there is no personal estate, or in respect of personal estate although there is no real estate, so, however, that, where the estate of the deceased person is known to be insolvent, the grant shall not be severed except as regards a trust estate.
