@@ -1,0 +1,3 @@
+Currency in which contracts, etc., are to be made.
+
+7.—Every contract, sale, payment, bill, note, instrument, and security for money, and every transaction, dealing, matter, and thing whatever relating to money or involving the payment of or the liability to pay any money which is made, executed, entered into, done, or had shall be made, executed, entered into, done, and had according to the coins which are current and legal tender under the Coinage Acts, 1870 to 1920 (so far as not repealed by this Act) or this Act and not otherwise, unless the same be made, executed, entered into, done, or had according to the currency of some state or country other than Saorstát Eireann.
