@@ -1,0 +1,7 @@
+Regulation 4
+
+4. (1) Notwithstanding anything to the contrary in the Insurance Acts, 1909 to 1981, or in the European Communities (Non-Life Insurance) Regulations, 1976, an insurer established in another member State may participate with a leading insurer who is the holder of an authorisation in a Community co-insurance operation in respect of a risk situated in the State, if the first-mentioned insurer is operating through a head office which is the holder of an authrorisation granted by the supervisory authority of another member State or through a branch which is the holder of an authorisation granted by the supervisory authority of another member State, the head office of which is also the holder of such an authorisation.
+
+(2) Where the risk being covered falls into class 4, 5, 6, 7, 11 or 12 specified in the Schedule to the European Communities (Non-Life Insurance) Regulations, 1976, an insurer established in another member State which is operating through a head office which is the holder of an authorisation granted by the supervisory authority of another member State or an insurer established in another member State which is operating through a branch which is the holder of an authorisation granted by the supervisory authority of another member State the head office of which is also the holder of such an authorisation, may act as a leading insurer.
+
+(3) A prosecution for an offence under these Regulations may be brought by the Minister.
