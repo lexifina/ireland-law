@@ -1,0 +1,3 @@
+Regulation 12
+
+12. A person who contravenes these Regulations (other than Regulation 11) or the Commission Recommendation shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £800, or, at the discretion of the court, to imprisonment for a term not exceeding six months or to both such fine and such imprisonment and, where a contravention of these Regulations (other than the said Regulation 11) or the Commission Recommendation by a person continues for more than one day, the person shall be guilty of a separate offence for each day or part of a day on which the contravention continues.
