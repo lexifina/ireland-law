@@ -1,0 +1,7 @@
+Amendment of section 2 of the Principal Act.
+
+3.—(1) Sub-section (1) of section 2 of the Principal Act is hereby amended by the insertion therein of the words and figures “or on or after the 1st day of January, 1941, and before the 31st day of July, 1941,” immediately after the words and figures “July, 1940,”.
+
+(2) The expression “this section” where it occurs in sub-section (5) of section 2 of the Principal Act shall be construed as including this present section and shall have effect accordingly.
+
+(3) Whenever the council of a county has, in the year 1941, provided and sold under the Principal Act as extended, applied, and amended by this Act seeds and fertilisers or either of them, such council may ascertain the total amount of the costs and expenses (other than the price paid by such council for such seeds and fertilisers or seeds or fertilisers, as the case may be) incurred by such council in respect of the provision and all sales of such goods and may apportion such amount amongst the several persons to whom such goods were so sold, and thereupon the sum so apportioned to any such person shall be added to and form and be deemed always to have formed part of the sum owing to such council by such person in respect of the sale so made to such person and shall be recoverable under the Principal Act as extended, applied, and amended by this Act, notwithstanding that no agreement for the payment of such sum was made at the time of such sale.
