@@ -1,0 +1,3 @@
+Extension of certain notices of termination of employment or of certain suspensions.
+
+18.—Any notice of termination of her employment given in respect of an employee to whom this Part applies, or any suspension from her employment imposed on such an employee, before the receipt by her employer of a notification under section 9, 12, 14, or 16 (or, where appropriate, under section 22), or before the production for the employer's inspection of a certificate under section 11, and due to expire during her absence from work on maternity leave, additional maternity leave or time off under section 16, shall be extended by the period of her absence from work on maternity leave, additional maternity leave or such time off.
