@@ -1,0 +1,3 @@
+Article 3
+
+3. The said option shall be exercised by notice in writing delivered to the Chief Accountant of the Board. Where the services of any such member as aforesaid have been so dispensed with prior to the operative date, she shall (provided she has not withdrawn her contributions before that date) be entitled to exercise the said option within four weeks from the operative date. In any other case, the said option shall, if exercised, be exercised within four weeks from the date upon which the services of such member are so dispensed with. No member entitled to exercise the said option shall have any right to a refund of her contributions before the period during which the said option may be exercised has expired.
