@@ -1,0 +1,5 @@
+Modification of procedure for acquisition of land.
+
+43.—(1) Where a responsible authority proposes to acquire (otherwise than by agreement) land for the purposes of a planning scheme, whether in exercise of a power conferred by a statute other than this Act or of a power expressly conferred by this Act, the advertisements mentioned in sub-section (2) of section 203 of the Public Health (Ireland) Act, 1878, may be published in any month and, in such case, the notices mentioned in the said sub-section shall be served in the month next succeeding the month in which the said advertisements are published.
+
+(2) Any enactment, whereby a local authority acquiring land under the Lands Clauses Acts is required to obtain a provisional order or to carry out any other preliminary procedure before putting into force in relation to such land the powers conferred by the said Acts for taking land otherwise than by agreement, shall not have effect in relation to the acquisition by a local authority of any particular land in pursuance of a provision in a planning scheme expressly requiring that land to be acquired by such local authority for the purposes of such scheme.

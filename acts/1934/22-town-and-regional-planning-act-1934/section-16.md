@@ -1,0 +1,9 @@
+Provisions in relation to State property.
+
+16.—(1) Any Minister or statutory board having control of land to which this section applies may, if and so far as he or they so thinks or think proper having regard to the purposes for which such land is under his or their control and to his or their primary duty in regard thereto, co-operate with a planning authority or a responsible authority with a view to securing that such land shall be so used and maintained as to conform with the general objects or any particular object of a planning scheme, and may, where he or they so thinks or think proper, enter into an agreement with such planning authority or responsible authority for the purpose of providing for such co-operation and for financial and other matters consequential thereon or incidental thereto.
+
+(2) Where, in the case of land to which Article 11 of the Constitution applies, the making of leases of such land or, in the case of any other land to which this section applies, the alienation of such land by a Minister or a statutory board is subject to the sanction, consent, or approval of the Minister for Finance, no agreement shall be made under this section in regard to such land without the consent of the Minister for Finance.
+
+(3) This section applies to all land which belongs to Saorstát Eireann by virtue of Article 11 of the Constitution and to all land which for the time being is state property or is vested in any Minister or statutory board whether by statute, purchase, gift, or otherwise.
+
+(4) In this section the word “land” includes structure, and the expression “statutory board” means a board of commissioners or other board or body established by statute or statutory order and exercising any function of government or discharging any public duties in relation to public administration throughout Saorstát Eireann.

@@ -1,0 +1,9 @@
+The relevant date for the purposes of this Act.
+
+4.—(1) Save as is otherwise provided by this section, the relevant date for the purposes of this Act in respect of a planning scheme or of any particular provision contained in a planning scheme shall be the date on which the planning authority by whom such planning scheme was made passed the resolution for the making of such planning scheme.
+
+(2) Where a planning scheme (hereinafter referred to as “the subsequent scheme”) amends or wholly or partially revokes another planning scheme (hereinafter referred to as “the original scheme”), the relevant date for the purposes of this Act in respect of any provision contained in the subsequent scheme which is identical or substantially identical with a provision contained in the original scheme and revoked by the subsequent scheme shall (subject to any provision to the contrary made under the next following sub-section of this section) be the date which was the relevant date in respect of the said provision contained in the original scheme.
+
+(3) A planning scheme may provide that the date which would, under the foregoing provisions of this section, be the relevant date for the purposes of this Act in respect of such scheme or of any particular provision contained in such scheme shall not be the relevant date in respect of such scheme or such provision (as the case may be), and that in lieu thereof any later date specified in that behalf in such scheme shall be the relevant date for the purposes of this Act in respect of such scheme or such provision, as the case may be.
+
+(4) In this Act the expression “the relevant date” means the date which is fixed by or under this section to be the relevant date in respect of the planning scheme or the provision in relation to which the expression is used.

@@ -1,0 +1,5 @@
+Furnishing of lists by inspectors of taxes.
+
+9.—(1) Whenever a planning authority or a responsible authority is required by or under this Act or a planning scheme to serve notices on the owners of property, such authority may require the inspector of taxes in whose district such property is situate to furnish to such authority a list of the names and addresses of all owners and occupiers of property shown in the assessments to income tax under Schedule A of the Income Tax Act, 1918 (as amended by subsequent enactments), last made before a specified date in a specified area which is within the district of such inspector and within the functional area of such authority.
+
+(2) An inspector of taxes may charge for any list of names and addresses furnished by him in pursuance of this section such fee, not exceeding five shillings for every hundred entries separately numbered, as the Revenue Commissioners shall direct, and the payment of such fee by the planning authority or responsible authority requiring such list shall be a condition precedent to the furnishing of such list.

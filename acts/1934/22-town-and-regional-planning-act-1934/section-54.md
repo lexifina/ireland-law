@@ -1,0 +1,5 @@
+Doing of work by owner or occupier.
+
+54.—(1) Whenever the responsible authority could by a proper exercise under and in accordance with this Part of this Act of a power conferred on them by this Part of this Act do any work or thing on or in respect of any structure or any land, the responsible authority may, if they so think fit, arrange with the owner or the occupier of such structure or such land (as the case may be) that he will himself do such work or thing to the satisfaction of the responsible authority.
+
+(2) Where, in pursuance of an arrangement made under this section, any work or thing is done to the satisfaction of the responsible authority by the owner or the occupier of any structure or any land and the circumstances are such that the responsible authority, if they had done such work or thing themselves, would not have been entitled to recover under this Part of this Act the expenses incurred by them in doing the same, the responsible authority may pay to such owner or such occupier (as the case may be) a reasonable sum in respect of the expenses incurred by him in so doing such work or thing.

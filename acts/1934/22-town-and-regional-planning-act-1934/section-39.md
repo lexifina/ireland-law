@@ -1,0 +1,3 @@
+Establishment and maintenance of the register.
+
+39.—Every planning scheme shall provide for the establishment and maintenance by one specified responsible authority of a register (in this Act referred to as the register) in the prescribed form of all such things as are required by this Act to be entered in the register in relation to or for the purposes of such scheme, and shall also provide for the keeping of such register open to public inspection free of charge in a convenient place at all reasonable times, and, where appropriate, for the making of entries in such register by responsible authorities who are not the responsible authority charged with the duty of maintaining such register.

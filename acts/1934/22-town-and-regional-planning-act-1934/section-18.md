@@ -1,0 +1,19 @@
+Formation of planning regions.
+
+18.—(1) The respective district planning authorities for any two adjoining planning districts or for any three or more planning districts each of which adjoins another or others of such districts may, by a resolution under this section passed by each of such authorities, determine that all such planning districts or specified portions thereof shall become and be a planning region for the purposes of this Act.
+
+(2) A resolution under this section shall define the area and boundaries of the planning region to be constituted thereby and the name by which such planning region is to be known, and may impose restrictions on the matters to be contained in or dealt with by a regional planning scheme for such planning region or any part thereof, either to secure that any such scheme shall deal only with matters affecting the common interests of the whole of such planning region or for any other purpose.
+
+(3) A resolution under this section shall not be passed by a district planning authority unless or until the prescribed notice of the intention to propose such resolution has been given.
+
+(4) A resolution under this section shall not have any force or effect unless or until similar resolutions have been duly passed by all the district planning authorities concerned and all such resolutions have been approved of by the Minister.
+
+(5) When resolutions under this section have been duly passed by all the district planning authorities concerned and have been approved of by the Minister, the area specified and defined in that behalf in such resolutions shall become and be a planning region for the purpose of this Act, and the regional planning authority for such planning region shall be a joint committee of the said district planning authorities consisting of such number of persons (whether members or not members of any of the said authorities) appointed by the said authorities in such proportions as shall be agreed by the said authorities or, in default of such agreement, shall be fixed by the Minister.
+
+(6) The Minister may by order appoint the time of appointment (including the first appointment) of the members of a joint committee which is a regional planning authority for a planning region constituted under this section, the period for which such members shall hold office, the method of filling casual vacancies in the membership of such committee, the disqualification of members of such committee who cease to be or become disqualified for being members of the district planning authority by whom they were appointed, and the conduct of the business of such committee.
+
+(7) The expenses incurred by a regional planning authority constituted under this section in the exercise of their powers and the performance of their duties as such authority shall be defrayed by the several district planning authorities by whom such regional planning authority is appointed in such proportions as shall be agreed upon by such authorities or, in default of such agreement, shall be fixed by the Minister.
+
+(8) The Minister may, if and whenever he thinks proper so to do, by order direct that a specified regional planning authority constituted under this section shall pay contributions towards the travelling expenses incurred by members of such authority in attending the meetings of such authority, and thereupon, as from the coming into operation of such order, section 63 of the Local Government Act, 1925 (No. 5 of 1925), and the Fifth Schedule to that Act shall apply to such regional planning authority as if such authority were a county authority within the meaning of the said section 63.
+
+(9) In the case of the county borough of Dublin, of the borough of Dun Laoghaire, and of the county borough of Cork respectively, the passing of a resolution under this section for the constitution of a planning region shall be a reserved function.

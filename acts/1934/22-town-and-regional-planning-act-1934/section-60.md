@@ -1,0 +1,5 @@
+Compensation for compliance with condition.
+
+60.—(1) Whenever a condition is attached to or inserted in a special permission, a general permission, or a special prohibition and the value of any property is reduced by the due and proper performance or observance of such condition, the provisions of this Act in relation to compensation payable by the responsible authority shall, upon the coming into operation of the planning scheme in connection with which such permission or prohibition was granted or made, apply as if such reduction in value had been occasioned by a restriction on the user of such property effected by a provision contained in such planning scheme.
+
+(2) The foregoing sub-section of this section shall not apply or have effect where the condition referred to in that sub-section is of such nature that, if the planning scheme referred to in the said sub-section had been in operation when such condition was imposed, such condition could have been enforced by a provision in such planning scheme and no compensation would be payable under this Act on account of or arising from the coming into operation of such provision.

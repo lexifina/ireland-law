@@ -1,0 +1,5 @@
+Section 52
+
+52.—(1) Whenever the responsible authority has served on any person under this Part of this Act a notice of their intention to exercise in relation to any structure or land a power conferred by this Part of this Act, such person may, before the date stated in such notice for the commencement of such exercise of such power, apply to the Justice of the District Court having jurisdiction in the district in which such structure or land is situate and on notice to the responsible authority, for an order quashing such notice, and thereupon the Justice, unless he is satisfied that circumstances exist entitling the responsible authority to exercise such power in relation to such structure or land in the manner indicated in such notice, may make an order quashing such notice.
+
+(2) When an application has been made to the District Court under this section, the responsible authority shall not exercise the power mentioned in such notice in relation to the structure or land mentioned in such notice either in the manner indicated in such notice or at all unless or until such application has been finally refused.

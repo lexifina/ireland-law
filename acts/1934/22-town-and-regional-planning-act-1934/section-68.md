@@ -1,0 +1,3 @@
+Compensation where work could have been done under another Act.
+
+68.—Where a provision in a planning scheme requires the execution by the responsible authority of public work which could lawfully be executed by such responsible authority under any enactment other than this Act, no compensation shall be payable under this Act in respect of the execution of such work by such authority, and such work shall, for the purpose of determining the right (if any) to compensation in respect of the execution thereof and for the purpose of the assessment and payment of such compensation (if any), be deemed to have been executed under such other enactment.
