@@ -1,0 +1,3 @@
+Attempts to commit offences.
+
+28.—Every person who attempts to commit an offence under this Act or who solicits or incites another person to commit such an offence shall, without prejudice to any other liability, be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds, or to imprisonment with or without hard labour for a term not exceeding six months or to both such fine and imprisonment and shall in every case on conviction forfeit all articles in respect of which such offence was committed and the court before which the offender was convicted may order the forfeited articles to be destroyed or otherwise disposed of as the court thinks fit.

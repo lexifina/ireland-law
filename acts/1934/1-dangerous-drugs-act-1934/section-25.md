@@ -1,0 +1,5 @@
+Application of Part IV to products to which Part VI applies.
+
+25.—(1) If it appears to the Executive Council that a decision with respect to any product to which this Part of this Act applies has in pursuance of Article 11 of the Geneva Convention, 1931, been communicated by the Secretary-General of the League of Nations to the parties to the said Convention, the Executive Council may by order under this sub-section declare that the provisions of Part IV of this Act shall apply, with such modifications as may be specified in such order, to such product as if such product were a drug to which the said Part IV applies, and whenever any such order is made in relation to a product to which this Part of this Act applies the said Part IV shall, so long as such order is in force, apply, with such modifications as are specified in such order and subject to the provisions of any order made under sub-section (2) of this section amending such first mentioned order, to such product accordingly,
+
+(2) The Executive Council may by order under this sub-section revoke or amend any order made under sub-section (1) of this section.
