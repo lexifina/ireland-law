@@ -1,0 +1,3 @@
+Article 3
+
+3. Where by these Regulations any Regulations or words are directed to be substituted for any other Regulations or words in the Principal Regulations, copies of the Principal Regulations printed under the authority of the Office of Stationery after these Regulations come into force, may be printed with the Regulations or words substituted as these Regulations require, and with the Regulations and paragraphs thereafter numbered in accordance with such direction ; and the Principal Regulations shall be construed as if they had at the time at which these Regulations come into force been made with such additions or omissions.
