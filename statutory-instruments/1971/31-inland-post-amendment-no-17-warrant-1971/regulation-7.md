@@ -1,0 +1,5 @@
+Regulation 7
+
+7. (1) The First Schedule to the Principal Warrant, as amended by the Regulations specified in the next paragraph, is hereby further amended by the substitution for the entries therein of the entries in the First Schedule to this Warrant.
+
+(2) The Regulations referred to in the foregoing paragraph are Regulation 8 of the Inland Post Amendment (No. 4) Warrant, 1953 ( S.I. No. 279 of 1953 ), Regulation 5 of the Inland Post Amendment (No. 7) Warrant, 1954 ( S.I. No. 65 of 1954 ), Regulation 9 of the Inland Post Amendment (No. 8) Warrant, 1956 ( S.I. No. 116 of 1956 ), Regulation 5 of the Inland Post Amendment (No. 10) Warrant, 1960 ( S.I. No. 48 of 1960 ), Regulation 5 of the Inland Post Amendment (No. 11) Warrant, 1962 ( S.I. No. 66 of 1962 ), Regulation 5 of the Inland Post Amendment (No. 12) Warrant, 1963 ( S.I. No. 153 of 1963 ), Regulation 6 of the Inland Post Amendment (No. 13) Warrant, 1964 ( S.I. No. 122 of 1964 ), Regulation 7 of the Inland Post Amendment (No. 14) Warrant 1968, and Regulation 3 of the Inland Post Amendment (No. 16) Warrant, 1970 ( S.I. No. 204 of 1970 ).
