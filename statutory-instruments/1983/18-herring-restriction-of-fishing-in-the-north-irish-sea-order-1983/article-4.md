@@ -1,0 +1,7 @@
+Article 4
+
+4. (1) ( a ) A sea-fishing boat shall not have herring on board within the specified area, and
+
+( b ) the master of a sea-fishing boat shall not cause or permit the boat or any person on board to have herring on board within the specified area, unless in each case, the fishing for the herring did not contravene Article 3 of this Order.
+
+(2) It shall be for the person charged with an offence under paragraph (1) of this Article to show, if it be the case, that the fishing for the herring to which the charge relates did not contravene Article 3 of this Order.
