@@ -1,0 +1,3 @@
+Issue of special local licences.
+
+6.—Where a board of conservators are authorised by order of the Minister under this Act to issue special local licences to use in particular tidal waters to which this Act applies situate in their district any particular kind of engine, net, instrument or device for the taking of salmon or trout, such board shall, upon application being made to them by any person for the issue of a special local licence to use in such tidal waters an engine, net, instrument or device of such kind for the taking of salmon or trout and upon payment to them by such person of the appropriate special local licence duty, issue through their clerk to such person such special local licence.

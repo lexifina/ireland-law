@@ -1,0 +1,3 @@
+Protection of salmon spawning in Northern Ireland.
+
+16.—Where part of a river consists of particular tidal waters to which this Act applies and another part (being a part in which salmon spawn) of such river is situate in Northern Ireland, the board of conservators within whose district such tidal waters are situate may, with the approval of the Minister, enter into such arrangements or agreements as they consider expedient for ensuring the protection of salmon and trout, and their eggs and fry in the part of such river which is situate in Northern Ireland and for the purpose of such arrangements or agreements make payments out of their funds.

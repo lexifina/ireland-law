@@ -1,0 +1,7 @@
+Penalty for fishing in tidal waters by unlicensed person.
+
+7.—(1) It shall not be lawful for any person to use in any particular tidal waters to which this Act applies, any kind of engine, net instrument or device for the taking of salmon or trout, unless such person is the holder of a special local licence for the time being in force authorising such person to use in such tidal waters an engine, net, instrument or device of that particular kind.
+
+(2) If any person uses in contravention of this section in any particular tidal waters to which this Act applies any engine, net, instrument or device for the taking of salmon or trout, such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to, in case the Minister has authorised the issue of special local licences to use in such tidal waters an engine, net, instrument or device for the taking of salmon or trout of the kind so used by such person, a fine not exceeding three times the appropriate special local licence duty in respect of such special local licences or, in any other case, a fine not exceeding fifty pounds.
+
+(3) Where a person is convicted of an offence under this section the net, engine, instrument or device used in the committing of such offence shall be forfeited and either (as the court may direct) destroyed or sold, and if sold the proceeds arising from such sale shall be disposed of in the like manner as fines imposed in respect of offences under this Act.

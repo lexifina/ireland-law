@@ -1,0 +1,15 @@
+Special local licences and licence duty thereon.
+
+4.—(1) The Minister may from time to time by order authorise the board of conservators within whose district particular tidal waters to which this Act applies are situate to issue licences (in this Act referred to as special local licences) to use in such tidal waters any specified kind of engine, net, instrument or device (being an engine, net, instrument or device of a kind in respect of which ordinary licences are issuable) for the taking of salmon or trout, and no special local licence to use in particular tidal waters to which this Act applies any kind of engine, net, instrument or device for the taking of salmon or trout shall be issued unless an order has been made under this section authorising the board of conservators within whose district such tidal waters are situate to issue special local licences to use in such tidal waters such kind of engine, net, instrument, or device.
+
+(2) Whenever the Minister makes an order authorising the issue of special local licences to use in particular tidal waters to which this Act applies any particular kind of engine, net, instrument or device for the taking of salmon or trout, he shall by the same order, with the consent of the Minister for Finance, fix the licence duty to be paid in respect of such licences.
+
+(3) Different licence duties may be fixed under this section in respect of special local licences to use in particular tidal waters to which this Act applies different kinds of engines, nets, instruments or devices for the taking of salmon or trout, and different licence duties may be fixed under this section in respect of different tidal waters to which this Act applies.
+
+(4) The licence duty to be fixed under this section in respect of special local licences to use a particular kind of engine, net, instrument or device for taking salmon or trout shall not in any case be less than the licence duty payable under the Fisheries Acts, 1842 to 1925, in respect of ordinary licences to use a similar kind of engine, net, instrument or device.
+
+(5) Any order under this section may provide that where a special local licence to fish for salmon with a single rod and line is granted for any year to a person to whom an ordinary licence of a similar kind has been granted for such year, the licence duty payable in respect of such special local licence shall be reduced by thirty shillings.
+
+(6) The Minister may with the consent of the Minister for Finance make an order under this sub-section amending any order previously made by him under this section (including this sub-section) so far as such order relates to licence duties.
+
+(7) In this Act the expression “the appropriate special local licence duty” when used in relation to a special local licence to use in particular tidal waters to which this Act applies a particular kind of engine, net, instrument or device for the taking of salmon or trout means the licence duty fixed under this section in respect of special local licences to use in such tidal waters an engine, net, instrument or device of that kind for taking salmon or trout.
