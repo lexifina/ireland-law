@@ -1,0 +1,3 @@
+Article 3
+
+3. The quota appointed by the Control of Imports (Quota No. 39, Third Period) Order, 1940, in respect of the third quota period appointed by that Order is hereby increased by one hundred and fifty thousand square yards of the woven piece goods to which the Control of Imports (Quota No. 39) Order, 1940, applies, to the intent that the said one hundred and fifty thousand square yards shall be an additional quota in respect of the said third quota period, and the total quota in respect of the said third quota period shall be three hundred thousand square yards of the woven piece goods to which the said Control of Imports (Quota No. 39) Order, 1940, applies.
