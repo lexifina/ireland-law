@@ -1,0 +1,3 @@
+Authorised officers and Garda Síochána.
+
+236.—Where an authorised officer (within the meaning of section 127A (inserted by this Act) of the Income Tax Act, 1967, section 17A (as so inserted) of the Finance Act, 1970, or section 34 (as so inserted) of the Finance Act, 1976, as the case may be) in accordance with the said section 127A, 17A or 34 enters any premises or place, he may be accompanied by a member or members of the Garda Síochána and any such member may arrest without warrant any person who obstructs or interferes with the authorised officer in the exercise or performance of his powers or duties under any of the said sections.
