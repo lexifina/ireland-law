@@ -1,0 +1,3 @@
+Restriction on application of section 13 of the Act of 1909.
+
+34.—Section 13 of the Act of 1909 shall not apply to any scheme submitted to the Minister under this Part of this Act but, if the Minister refuses to approve of a scheme under this Part of this Act, such non-application shall not affect or prejudice the right of any two or more Saorstát Eireann companies which carry on life assurance business or industrial assurance business or both such businesses (whether they do or do not carry on any other assurance business) to amalgamate or transfer any assurance business under the said section 13.

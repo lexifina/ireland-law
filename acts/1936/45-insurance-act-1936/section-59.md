@@ -1,0 +1,3 @@
+Time for deposit of valuation by certain companies.
+
+59.—Whenever the Minister is satisfied that an industrial assurance company which is a society, association, or other body incorporated or otherwise constituted under the law of a country other than Saorstát Eireann is unable to deposit with him an industrial assurance valuation or any valuation relating to life assurance business carried on by such company within the time when such valuation should be so deposited by such company the Minister may extend that time to any period not exceeding twelve months after the close of the period to which such valuation relates.

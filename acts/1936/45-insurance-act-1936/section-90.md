@@ -1,0 +1,9 @@
+State guarantee of re-insurance contracts.
+
+90.—(1) Every contract of re-insurance of assurance business entered into by the Company within a period of ten years after the date on which the Company commences business shall be guaranteed by the government of Saorstát Eireann, but no right of action shall lie, at the suit of the Company or of any assurance company, syndicate or other person, against the government of Saorstát Eireann under such guarantee or otherwise in respect of any liability on foot of such contract.
+
+(2) Whenever the Company certifies to the Minister for Finance that any sum of money is required by the Company to meet any liability of the Company under any such contract of re-insurance as is mentioned in the next preceding sub-section of this section and that the Company is, by reason of the insufficiency of its funds or of any of its funds which are or is applicable to discharge such liability, unable to provide in whole or in part such sum, the said Minister shall advance to the Company out of the Central Fund or the growing produce thereof such sum as will, with the amount (if any) of the funds of the Company which are so applicable, discharge such liability.
+
+(3) Such sums advanced to the Company by the Minister for Finance out of the Central Fund or the growing produce thereof under the next preceding sub-section of this section shall be advanced on such terms and conditions as the said Minister may determine at or subsequent to the date of such advance and shall be repaid to the Central Fund (with interest thereon at such rates as the said Minister shall appoint) by the Company in such amounts and at such times as the said Minister shall appoint.
+
+(4) If and so far as any sums advanced to the Company by the Minister for Finance out of the Central Fund or the growing produce thereof are not repaid by the Company to the Central Fund, such sums shall be repaid out of moneys provided by the Oireachtas.

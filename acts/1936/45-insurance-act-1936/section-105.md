@@ -1,0 +1,11 @@
+Application of moneys received by assurance companies.
+
+105.—(1) Where an assurance company maintains, pursuant to section 3 (which relates to separation of funds) of the Act of 1909, a separate assurance fund in respect of any class of assurance business carried on by it, all moneys received by such assurance company in respect of such class of assurance business shall be carried by such assurance company to the separate assurance fund so maintained in respect of that class of assurance business and to no other fund.
+
+(2) Where an assurance company carries on life assurance business or industrial assurance business or both such businesses in Saorstát Eireann and also carries on any other class of business, except sinking fund or capital redemption business, such assurance company shall, subject to the provisions of the next following sub-section of this section, keep the assets of its life assurance fund and its industrial assurance fund separate from the assets of such other class of business.
+
+(3) Where an assurance company carried on life assurance business or industrial assurance business or both such businesses in Saorstát Éireann on the 31st day of October, 1935, and lawfully carries on either or both of such businesses in Saorstát Éireann after the commencement of Part II of this Act, the Minister may, on the application of any such company, exempt such company from compliance with the provisions of the next preceding sub-section of this section for a period not exceeding twelve months after the commencement of this Part of this Act.
+
+(4) Where an assurance company carries on both life assurance business and industrial assurance business, such assurance company shall be under no obligation to keep the assets of its life assurance funds separate from the assets of its industrial assurance funds.
+
+(5) Where an assurance company carries on more than one class of assurance business other than life assurance business and industrial assurance business, such assurance company shall be under no obligation to keep the assets of any assurance fund maintained by such assurance company in respect of any one class of assurance business separate from the assets of any other assurance fund maintained by such assurance company in respect of any other class of assurance business.

@@ -1,0 +1,9 @@
+Contravention, etc., of Act by assurance company or syndicate.
+
+109.—(1) Every assurance company which contravenes or fails to comply with any of the provisions of this Act, or with any direction lawfully given by the Minister thereunder shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding one hundred pounds together with, in the case of a continuing offence, a further fine not exceeding fifty pounds for every day during which such offence is continued.
+
+(2) Where an assurance company has committed an offence under this section, every director, manager, secretary, officer, or employee of such company who is knowingly a party to the commission of such offence by such company shall himself be guilty of an offence under this section and shall on summary conviction thereof be liable to such fine or fines as are mentioned in the first sub-section of this section.
+
+(3) Whenever an assurance company is convicted of a continuing offence under this section, the commission of such offence shall be a ground for winding-up such company compulsorily under the Act of 1908 if, but only if, it is shown to the satisfaction of the Court hearing the petition for such winding-up that such offence had been continued for three months or more.
+
+(4) Whenever a syndicate contravenes or fails to comply with the provisions of this Act, or with any direction lawfully given by the Minister thereunder, every member of such syndicate who is knowingly a party to such contravention or failure shall himself be guilty of an offence under this section and shall on summary conviction thereof be liable to a fine not exceeding twenty-five pounds together with, in the case of a continuing offence, a further fine not exceeding fifty pounds for every day during which such offence is continued.

@@ -1,0 +1,3 @@
+Prohibition of borrowing on security of assurance fund.
+
+92.—An assurance company which is required by the Act of 1909 or this Act to maintain an assurance fund may borrow money on the security (whether solely or together with other assets) of such fund or any investment or money forming part of or representing such fund and may issue or give any debenture, debenture stock, mortgage, or other security charged (whether solely or together with other assets) on such fund or on any such investment or money if, but only if, moneys so borrowed and secured are applied by the assurance company solely towards and for the purposes of the class of assurance business in respect of which such fund is required to be maintained.

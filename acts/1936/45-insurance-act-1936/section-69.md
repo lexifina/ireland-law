@@ -1,0 +1,3 @@
+Payment of claims.
+
+69.—Whenever an industrial assurance company pays a claim arising under a policy of industrial assurance, such company shall send by prepaid ordinary post from its registered or principal office (as the case may be) in Saorstát Eireann to the person to whom such claim is paid a statement setting forth the gross amount payable in respect of such claim, the amounts of all deductions made from such gross amount, and such particulars of every such deduction as may be necessary to explain clearly the grounds on which such deduction was made and the manner in which the amount thereof was calculated.

@@ -1,0 +1,3 @@
+Evidence of inability to pay debts.
+
+47.—In any proceedings upon a petition presented under this Part of this Act to wind up an assurance company, evidence that such company was insolvent at the close of the period to which the latest accounts and balance sheet of such company furnished to the Minister in pursuance of this Part of this Act relate, or at the date of the service of a notice by the Minister on such assurance company under this Part of this Act, shall be evidence, unless the contrary is proved, that such company is unable, taking into account its contingent and prospective liabilities to pay its debts.

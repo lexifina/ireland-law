@@ -1,0 +1,3 @@
+Returns, etc., by foreign companies.
+
+97.—Where a foreign company carries on in Saorstát Eireann any class of assurance business, the Minister may, if he so thinks fit, accept (in lieu of the accounts, balance sheets, abstracts and statements which such company is required by the Act of 1909 or this Act to make or deposit) copies of the accounts, balance sheets, abstracts and statements which such company is by the law of the country in which such company is incorporated or otherwise constituted required to make or deposit with the government or a department or officer of the government of such country.

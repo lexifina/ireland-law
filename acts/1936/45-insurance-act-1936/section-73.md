@@ -1,0 +1,3 @@
+Disputes as to continuance of assured life.
+
+73.—Whenever any dispute or doubt arises whether a person on whose life a policy of industrial assurance was effected is alive the Minister may, if he thinks proper so to do, on the application of the person who is entitled to such policy or of the industrial assurance company which issued such policy, order that such company shall pay to the person who is entitled to such policy the cash surrender value, ascertained in accordance with the provisions of this Part of this Act, of such policy and, on payment of such cash surrender value by such company to such person, such order shall be a discharge in respect of all claims by or against such company in connection with such policy.
