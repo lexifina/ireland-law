@@ -1,0 +1,3 @@
+Regulation 8
+
+8. The fees to be charged in respect of the matters specified in the second column of the First Schedule to these Regulations, by the persons to whom section 2 of the Act of 1931 applies, shall be paid in Irish currency or shall be paid in money which is legal tender in the country in which they are paid and, if so paid, shall be calculated at a rate not lower that the rate of exchange yielded by the most recent transfer of funds for general administrative purposes from the Office of the Minister to the offices outside the State of such persons, or, in any case where such transfer of funds is not ordinarily made, shall be calculated on the basis of current exchange rates.
