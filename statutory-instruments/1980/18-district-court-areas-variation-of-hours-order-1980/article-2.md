@@ -1,0 +1,3 @@
+Article 2
+
+2. The hours for holding the District Court in the district court area of Cork City shall, in lieu of the hours specified in column (4) of the First Schedule to the District Court (Areas) Order, 1961 ( S.I. No. 5 of 1961 ), at reference number 39, be each week-day except Saturday at 10.30 a.m., 11.00 a.m., 11.30 a.m., 12.00 noon, 2.00 p.m., 2.30 p.m. and 3.00 p.m. and each Monday at 11.30 a.m. (Children's Court), and in lieu of the hours specified in column (4) of the Second Schedule to that Order at reference number 34, be each Wednesday at 10.30 a.m., 11.00 a.m., 11.30 a.m., 12.00 noon, 2.00 p.m., 2.30 p.m. and 3.00 p.m.
