@@ -1,0 +1,7 @@
+FIRST SCHEDULE
+
+Repeals
+
+Section 6.
+
+(1) (2) Fisheries (Consolidation) Act, 1959. Sections 16 (3) and 19 (2); subsections (1), (2) and (5) of section 20; sections 21 to 39; subsections (1) to (9) of section 40; sections 41 to 44; sections 46 to 48; subsection (6) and subsection (9) (a) (ia) (inserted by section 8 of the Act of 1962) of section 49; sections 51 to 53, 60 and 61; in subparagraph (i) of section 67 (3) (a) the words “, twenty-one days,”; sections 67 (3) (c) and 67 (4) (b); in section 67 (4) (d) the words “, a salmon rod (twenty-one day) ordinary licence,”; section 67 (6) (b) (iii); “(5)”, in section 68 (1) (a); paragraph (c) of section 70 (3); sections 71, 76 and 89; in both sections 156 (1) and 157 (1) the words “(other than the Minister or the Electricity Supply Board)”; in both section 159 (3) (a) and section 160 (2) (a) the words “to the clerk of such board”; in section 163 (1) (b) the words “(which shall not include the price paid by such holder for any salmon or trout purchased, received or sold by him)”; in section 163 (2) (b) the words “(which shall not include the price paid by him for any salmon or trout exported by him)”; sections 184 to 216, 218, 278 (5) (b) (iii) and 280; in both sections 315 (2) (b) and 319 (1) (c) (ii) the words “of conservators”; the entries in columns (5), (6) and (7) of the entry in the Second Schedule; the Third Schedule; the entries in column (5) of the entry in the Fourth Schedule; and clause (b) of paragraph 2 (1) of the Fifth Schedule.

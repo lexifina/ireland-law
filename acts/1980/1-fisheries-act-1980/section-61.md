@@ -1,0 +1,3 @@
+Liability of Minister or Central Board for damage by flooding.
+
+61.—No claim shall lie against the Minister or the Central Board for flooding or other consequential damage due to the continued existence of any structure (including a fishing weir or a fishing mill dam which, on the date of vesting in or acquisition by the Minister or the Central Board of a fishery, formed part of or existed in such fishery) unless the Minister or the Central Board, as may be appropriate, shall have increased the height of such structure or shall have closed any openings or gaps therein to an extent to which they could not have been lawfully closed on the said date.
