@@ -1,0 +1,5 @@
+Regulation 9
+
+9. (1) A person shall not import, distribute, sell or expose for sale any diluent combined or mixed with any colouring matter for use in the manufacture or preparation of food where such combination or mixture contains more than the amount of arsenic, lead or copper, as the case may be, specified in the First Schedule to these Regulations in relation to the colouring matter which is combined or mixed with any such diluent.
+
+(2) If any diluent is combined or mixed with two or more colouring matters any of which contains arsenic, lead or copper, the amount of arsenic, lead or copper permitted to be contained in such combination or mixture shall be determined by multiplying the amount of arsenic, lead or copper, as the case may be, specified in the First Schedule to these Regulations in relation to each colouring matter present in such combination or mixture by the proportion of the total amount of colouring matter in such combination or mixture represented by that colouring matter and by adding together the products resulting therefrom.
