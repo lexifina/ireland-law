@@ -1,0 +1,3 @@
+Regulation 2
+
+2. A street trader's certificate shall be in accordance with such modification of Form II in the Schedule hereto as may be suitable. In the event of the holder of a street trader's certificate changing his address after the issue of such certificate to him, and while such certificate remains in force, he shall forthwith notify such change of address to the Station Sergeant of the sub-district in which he resides, or where the holder of the certificate resides outside the City of Dublin, to the Station Sergeant of the sub-district in which he made his application for such certificate.
