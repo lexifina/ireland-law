@@ -1,0 +1,3 @@
+Article 1
+
+1. The modification agreed upon between the Minister for Finance and the Company of the agreement made on the 11th day of March, 1897, and set out in the Third Schedule to the original Order, that is to say, the substitution in Clause 15 of the said agreement of the words " so many trains as the Minister for Industry and Commerce shall from time to time determine having regard to the services which the company run or propose to run under the powers conferred by the Railways (Road Motor Services) Act, 1927 " for the words " the following number of trains each week-day each way that is to say three and one each way on Sundays " is hereby confirmed and the original Order shall be construed and have effect accordingly.
