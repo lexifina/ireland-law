@@ -1,0 +1,9 @@
+Power of the Board to construct a weir at Thomond Bridge.
+
+8.—(1) Without prejudice to the generality of any of the provisions of sub-section (1) of section 9 of the Principal Act, and in addition to the things which are by that section declared in particular to be lawful for the Board to do, it shall be lawful for the Board to construct, maintain, and operate a fishing weir on the River Shannon of such design, dimensions, and materials, and (subject to the limitations imposed by the next following sub-section of this section) in such situation as the Board shall think proper.
+
+(2) The fishing weir constructed by the Board under this section shall be so situate that the longitudinal centre line of such weir is above, but not more than one thousand yards above, the longitudinal centre line of the bridge over the River Shannon known as Thomond Bridge.
+
+(3) It shall be lawful for the Board to acquire, either permanently or temporarily and either compulsorily or by agreement, all such land (including land covered by water) and easements, profits-a-prendre, and other rights over or in relation to land or water as the Board shall reasonably require for the construction, maintenance, and operation of the fishing weir which the Boardis empowered by this section to construct, and sub-sections (1) and (4) of section 14 of the Principal Act shall apply and have effect in relation to all compensation payable by the Board in respect of the acquisition by the Board of any such land or rights as if such compensation were payable under the Principal Act.
+
+(4) Nothing in this section shall operate to authorise the Board to do any of the things which are declared by sub-section (2) (as amended by this Act) of section 9 of the Principal Act to be things which nothing in that section shall operate to authorise.
