@@ -1,0 +1,3 @@
+Regulation 12
+
+12. The Minister may, after such consultation with representatives of employers and workers as the Act of 1936 requires, make regulations (referred to as exclusion regulations) declaring any specified form of industrial work to be excluded industrial work for the purpose of all or any of the sections in Part III of the Act of 1936. On making such regulations in respect of any section which relates to hours of work the Minister is further empowered to fix the hours of work for the form of industrial work so excluded, and to make provision for securing that the average weekly earnings shall not be reduced merely on account of a reduction in the hours of work.
