@@ -1,0 +1,7 @@
+Trial of offences, onus of proof, etc.
+
+24.—(1) Proceedings against a person for an offence under this Act may be taken in any District Court District in which the person is for the time being and in case such proceedings are taken and apart from this section the Justice before whom the proceedings are brought would not have jurisdiction to hear and determine the proceedings, then for the purpose of conferring such jurisdiction the offence may be treated as having been committed within the District Court District to which such Justice is assigned.
+
+(2) Where in proceedings for an offence under section 23 (3) of this Act it is proved that in relation to a particular plant variety the defendant failed to comply with the requirements of section 12 (3) of this Act, then, unless there is sufficient other evidence to raise an issue as to whether there was in existence at the time of such failure a grant under section 4 of this Act and relating to that plant variety, for the purposes of the proceedings such a grant shall not be regarded as having been in existence at such time.
+
+(3) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.

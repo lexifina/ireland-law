@@ -1,0 +1,11 @@
+Maintenance of reproductive material.
+
+16.—(1) The provisions of this section shall apply in relation to all plant varieties except such as fall within any genus or species which is excluded from this section by regulations made under this section by the Minister.
+
+(2) Every holder shall ensure that, throughout the period for which the plant breeders' rights held by him are exercisable, he is in a position to supply to the Controller reproductive material which is capable of reproducing the variety to which the rights relate with the characteristics which were taken into account when the rights were granted in respect of the variety.
+
+(3) It shall also be the duty of every holder to afford to the Controller all such information and facilities as he may request for the purpose of satisfying himself that the holder is fulfilling his duty under subsection (2) of this section, including facilities for the inspection by or on behalf of the Controller of the measures taken for the maintenance of the relevant plant variety and if the Controller is satisfied that a holder has failed to comply with a request under this subsection he may, if he thinks fit, terminate, with effect on and from such day as the Controller shall specify the period during which the plant breeders' rights under the relevant grant under section 4 of this Act are exercisable, and in case the Controller terminates such period, the grant aforesaid shall on the said day cease to have effect.
+
+(4) If at any time it appears to the Controller that any holder of plant breeders' rights is no longer in a position to provide the Controller with the material mentioned in subsection (2) of this section, he shall terminate, with effect on and from such day as he shall specify, the period for which the rights are exercisable, and in case the Controller terminates such period, the relevant grant of plant breeders' rights shall on the said day cease to have effect.
+
+(5) Where the Controller proposes to exercise a power conferred on him by subsection (3) or (4) of this section, he shall give notice of the proposal to the relevant holder and to any other person who appears to him to be concerned, and he shall afford to each person to whom such notice is given an opportunity of being heard before he exercises the power.
