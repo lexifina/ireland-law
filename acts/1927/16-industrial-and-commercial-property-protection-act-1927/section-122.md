@@ -1,0 +1,3 @@
+Misuse of trade marks indicative of Irish origin.
+
+122.—It shall be lawful for the Minister to take in any country or place outside Saorstát Eireann such lawful steps, whether by way of action or prosecution at law or otherwise, as he shall think proper to prevent, restrain, or punish the registration, use, or application in relation to or in respect of goods not grown, produced, or manufactured in Ireland of any trade mark or other mark or description indicating or suggesting or likely to lead to the belief that the goods in respect of which or to which such trade mark, mark, or description is used or applied were grown, manufactured, or produced in Ireland.

@@ -1,0 +1,5 @@
+Non-user of trade mark.
+
+111.—(1) A registered trade mark may, on the application to the court of any person aggrieved, be taken off the register in respect of any of the goods for which it is registered, on the ground that it was registered by the proprietor or a predecessor in title without any bonâ fide intention to use the same in connexion with such goods, and there has in fact been no bonâ fide user of the same in connexion therewith, or on the ground that there has been no bonâ fide user of such trade mark in connexion with such goods during the five years immediately preceding the application, unless in either case such non-user is shown to be due to special circumstances in the trade, and not to any intention not to use or to abandon such trade mark in respect of such goods.
+
+(2) Any application under this section may, at the option of the applicant, be made in the first instance to the controller, and in such case the controller shall have all the powers of the court under this section, but his decision shall be subject to appeal to the court.

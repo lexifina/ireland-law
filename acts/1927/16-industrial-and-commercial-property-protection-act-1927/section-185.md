@@ -1,0 +1,5 @@
+Right of entry by police for execution of this Part of this Act.
+
+185.—(1) If the District Court is satisfied by information on oath that there is reasonable ground for suspecting that an offence against this Part of this Act is being committed on any premises, the court may grant a search warrant authorising the member of the Gárda Síochána named therein to enter the premises between the hours of six of the clock in the morning and nine of the clock in the evening, and if necessary, to use force for making such entry, whether by breaking open doors or otherwise, and to seize any copies of any musical work or any plates in respect of which he has reasonable ground for suspecting that an offence against this Part of this Act is being committed.
+
+(2) All copies of any musical work and plates seized under this section shall be brought before the District Court, and if proved to be pirated copies or plates intended to be used for the printing or reproduction of pirated copies shall be forfeited and destroyed or otherwise dealt with as the court thinks fit.

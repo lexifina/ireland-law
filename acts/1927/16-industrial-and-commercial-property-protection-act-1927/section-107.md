@@ -1,0 +1,3 @@
+Procedure on expiry of period of registration.
+
+107.—At the prescribed time before the expiration of the last registration of a trade mark, the controller shall send notice in the prescribed manner to the registered proprietor at his registered address of the date at which the existing registration will expire and the conditions as to payment of fees and otherwise upon which a renewal of such registration may be obtained, and if at the expiration of the time prescribed in that behalf such conditions have not been duly complied with, the controller may remove such trade mark from the register, subject to such conditions (if any) as to its restoration to the register as may be prescribed.

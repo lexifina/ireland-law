@@ -1,0 +1,3 @@
+Grant of patent to two or more persons.
+
+53.—Where a patent is granted to two or more persons jointly, they shall, unless otherwise specified in the patent, be treated for the purpose of the devolution of the legal interests therein as joint tenants, but, subject to any contract to the contrary, each of such persons shall be entitled to use the invention for his own profit without accounting to the others, but shall not be entitled to grant a licence without their consent, and, if any such person dies, his beneficial interest in the patent shall devolve on his personal representatives as part of his personal estate.

@@ -1,0 +1,3 @@
+Remedies for “passing off” not affected.
+
+120.—Nothing in this Act contained shall be deemed to affect rights of action against any person for passing off goods as those of another person or the remedies in respect thereof.

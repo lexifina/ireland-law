@@ -1,0 +1,3 @@
+No publication by confidential disclosure of design.
+
+72.—The disclosure of a design by the proprietor to any other person, in such circumstances as would make it contrary to good faith for that other person to use or publish the design, and the disclosure of a design in breach of good faith by any person other than the proprietor of the design, and the acceptance of a first and confidential order for goods bearing a new or original textile design intended for registration, shall not be deemed to be a publication of the design sufficient to invalidate the copyright thereof if registration thereof is obtained subsequently to the disclosure or acceptance.

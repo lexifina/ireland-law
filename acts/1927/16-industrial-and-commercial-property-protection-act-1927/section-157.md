@@ -1,0 +1,3 @@
+Compulsory licences.
+
+157.—If at any time after the death of the author of a literary, dramatic, or musical work which has been published or performed in public a complaint is made to the Minister that the owner of the copyright in the work has refused to republish or to allow the republication of the work or has refused to allow the performance in public of the work, and that by reason of such refusal the work is withheld from the public, the owner of the copyright may be ordered to grant a licence to reproduce the work or perform the work in public, as the case may be, on such terms and subject to such conditions as the Minister may think fit.

@@ -1,0 +1,7 @@
+Chemical products and substances intended for food or medicine.
+
+55.—(1) In the case of inventions relating to substances prepared or produced by chemical processes or intended for food or medicine, the specification shall not include claims for the substance itself, except when prepared or produced by the methods or processes of manufacture described and claimed or by their obvious chemical equivalents: Provided that, in an action for infringement of a patent where the invention relates to the production of a new substance, any substance of the same chemical composition and constitution shall in the absence of proof to the contrary be deemed to have been produced by the patented process.
+
+(2) In the case of any patent for an invention intended for or capable of being used for the preparation or production of food or medicine, the controller shall, unless he sees good reason to the contrary, grant to any person applying for the same, a licence limited to the use of the invention for the purposes of the preparation or production of food or medicine but not otherwise; and, in settling the terms of such licence and fixing the amount of royalty or other consideration payable, the controller shall have regard to the desirability of making the food or medicine available to the public at the lowest possible price consistent with giving to the inventor due reward for the research leading to the invention.
+
+Any decision of the controller under this sub-section shall be subject to appeal to the court.

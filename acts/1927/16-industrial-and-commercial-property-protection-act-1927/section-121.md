@@ -1,0 +1,19 @@
+Registration of marks by Ministers.
+
+121.—(1) Any Minister may procure the registration in Part A of the register of a mark intended to indicate the origin, material, mode of manufacture, quality, accuracy, or other characteristic of goods to which it is applied and every such mark when so registered shall be deemed to be in all respects, save as is otherwise provided by this section, a registered trade mark and the Minister by whom its registration was procured shall be and be registered as the proprietor thereof.
+
+(2) An application for the registration of a mark under the foregoing sub-section shall be made in the prescribed manner by a Minister, and the registration of the mark shall be subject to the provisions of this Act relating to the registration of a trade mark in Part A of the register save in so far as such provisions are inconsistent with the provisions of this section.
+
+(3) Any Minister may procure the registration in any register maintained in any place outside Saorstát Eireann of a mark (whether registered or not registered under the foregoing provisions of this section) intended to indicate the origin, material, mode of manufacture, quality, accuracy, or other characteristic of goods if and so far as and subject to such conditions as such registration is permitted by the law regulating such register, and in any such case may procure himself to be entered in such register as the proprietor of such mark.
+
+(4) A Minister who is the registered proprietor of any such mark as is mentioned in the foregoing sub-sections of this section may grant to any person a licence to use such mark and to apply the same to all or any of the goods or classes of goods in respect of which such mark is registered but in the case of a mark registered in a register maintained in a place out of Saorstát Eireann only if and so far as the granting of such licence is permitted by the law regulating such register.
+
+(5) Every licence granted by a Minister under the foregoing sub-section shall have effect according to the terms thereof and shall contain provisions for ensuring that the mark to which the licence relates shall be applied by the licensee only to goods grown, manufactured, or produced in Saorstát Eireann, and any such licence may also contain such terms and provisions as the Minister granting the same shall think proper and in particular provisions for ensuring that the mark to which the licence relates shall only be applied to goods of a specified quality or description.
+
+(6) A Minister who is the registered proprietor of any such mark as aforesaid may require the controller to enter on or remove from the register in respect of such mark the words “licences not registrable,” and, whenever and so long as such words are so entered in the register, licences made by the Minister under this section in respect of such marks shall not (notwithstanding the provisions of section 127 (which relates to registration of assignments, etc.) of this Act) be or be capable of being entered in the register or be refused admission in evidence in any court merely on account of such non-entry in the register.
+
+(7) A Minister who is the registered proprietor of any such mark as aforesaid may at any time take such lawful steps, whether by action, prosecution at law, or otherwise as he shall think proper to prevent, restrain, or punish infringements of or otherwise to protect such mark and may take such steps in Saorstát Eireann or any other country in which he is registered as such proprietor.
+
+(8) A mark registered under this section shall be deemed to be a trade mark within the meaning of any enactment heretofore passed by the Oireachtas relating to the registration of trade marks by Ministers.
+
+(9) In this section the word “Minister” means a Minister head of a Department of State established under the Ministers and Secretaries Act, 1924 (No. 16 of 1924).

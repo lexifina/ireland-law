@@ -1,0 +1,3 @@
+Seizure, etc., of pirated copies of musical works.
+
+182.—The District Court, upon the application of the owner of the copyright in any musical work, may act as follows: If satisfied by evidence that there is reasonable ground for believing that pirated copies of such musical work are being hawked, carried about, sold, or offered for sale, may by order authorise a member of the Gárda Síochána to seize such copies without warrant and to bring them before the court, and the court, on proof that the copies are pirated copies, may order them to be destroyed, or to be delivered up to the owner of the copyright if he makes application for that delivery.

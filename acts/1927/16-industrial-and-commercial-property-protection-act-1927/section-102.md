@@ -1,0 +1,3 @@
+Combined trade marks.
+
+102.—If the proprietor of a trade mark registered in Part A of the register claims to be entitled to the exclusive use of any portion of such trade mark separately he may apply to register the same in the said Part A as separate trade marks. Each such separate trade mark must satisfy all the conditions and shall have all the incidents of an independent trade mark, except that when registered it and the trade mark of which it forms a part shall be deemed to be associated trade marks and shall be entered on the register as such, but the user of the whole trade mark shall for the purposes of this Act be deemed to be also a user of such registered trade marks belonging to the same proprietor as it contains.

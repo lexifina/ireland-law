@@ -1,0 +1,3 @@
+Effect of registration in Part B.
+
+114.—The registration of a person as the proprietor of a trade mark in Part B of the register shall be primâ facie evidence that that person has the exclusive right to the use of that trade mark, but, in any action for infringement of a trade mark entered in Part B of the register, no injunction or other relief shall be granted to the owner of the trade mark in respect of such registration, if the defendant establishes to the satisfaction of the court that the user of which the plaintiff complains is not calculated to deceive or to lead to the belief that the goods the subject of such user were goods manufactured, selected, certified, dealt with, or offered for sale by the proprietor of the trade mark.
