@@ -1,0 +1,3 @@
+Article 9
+
+9. Where the occupier of an infected place or land or a premises to which a notice served under Article 8 of this Order relates fails to comply with the requirements of Rule 4 of the Third Schedule to this Order or the requirements of such notice, as the case may be, it shall be lawful for an inspector to carry out or cause to be carried out the necessary cleansing and disinfection and, without prejudice to any proceedings which may be instituted for an offence under the Act, the reasonable expenses incurred in making good the default shall be a debt due to the Minister and in default of payment may be recovered by the Minister from the relevant occupier in any court of competent jurisdiction.
