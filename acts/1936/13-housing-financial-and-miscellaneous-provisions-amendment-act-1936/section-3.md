@@ -1,0 +1,3 @@
+Increase of limit of grants under the Principal Act.
+
+3.—Section 3 of the Housing (Financial and Miscellaneous Provisions) (Amendment) Act, 1934 (No. 30 of 1934), is hereby repealed, and in lieu thereof it is hereby enacted that the aggregate amount of the grants to be made by the Minister under section 5 of the Principal Act as amended by the said Housing (Financial and Miscellaneous Provisions) (Amendment) Act, 1934, shall not exceed the sum of two million, one hundred thousand pounds.

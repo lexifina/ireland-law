@@ -1,0 +1,3 @@
+Amendment of exemption from rates.
+
+2.—Sub-section (2) of section 10 of the Principal Act is hereby repealed as on and from the 1st day of March, 1936, and in lieu thereof it is hereby enacted, as on and from that day, that where a grant is made under paragraph (h) of sub-section (1) of section 5 of the Principal Act in respect of the reconstruction of a house, the valuation of the hereditament or tenement consisting of or including such house shall not, on any valuation or revision of the valuation thereof coming into force within seven years after the completion of such reconstruction, be increased on account of any increase in the value of such hereditament or tenement arising from such reconstruction.
