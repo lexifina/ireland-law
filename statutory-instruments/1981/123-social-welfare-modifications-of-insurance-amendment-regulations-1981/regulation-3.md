@@ -1,0 +1,37 @@
+Regulation 3
+
+3. The Social Welfare (Modifications of Insurance) Regulations, 1979 ( S.I. No. 87 of 1979 ) as amended by the Social Welfare (Modifications of Insurance) (Amendment) Regulations, 1980 ( S.I. No. 106 of 1980 ) are hereby amended by—
+
+(1) the substitution in article 7 (2) (a) (i) of "0.6 per cent." for "0.55 per cent."
+
+(2) the substitution in article 7 (2) (a) (ii) of "1.55 per cent. "for "1.4 per cent."
+
+(3) the substitution in article 7 (3) (a) of "0.1 per cent." for "0.15 per cent."
+
+(4) the substitution in article 7 (3) (b) of "0.1 per cent." for "0.15 per cent."
+
+(5) the substitution in article 9 (2) (a) (i) of "2.85 per cent." for "2.75 per cent." and
+
+(6) the substitution in article 9 (2) (a) (ii) of "7.15 per cent." for "6.6 per cent."
+
+GIVEN under the Official Seal of the Minister for Social Welfare
+
+this 31st day of March, 1981.
+
+Dr. MICHAEL WOODS,
+
+Minister for Social Welfare.
+
+The Minister for Finance hereby consents to the making of the foregoing Regulations.
+
+GIVEN under the Official Seal of the Minister for Finance
+
+this 31st dayof March, 1981.
+
+GENE FITZGERALD,
+
+Minister for Finance.
+
+EXPLANATORY NOTE.
+
+The Social Welfare (Modifications of Insurance) Regulations, 1979 ( S.I. No. 87 of 1979 ) modify the provisions of the Social Welfare Acts in their application to persons employed in certain employments, for example, certain foreign-going seamen, pensionable civil servants and other public servants, members of the Defence Forces, certain out-workers and certain ministers of religion, and provide for special rates of contributions in respect of the employments concerned. These Regulations specify the special rates of contributions payable from 6th April, 1981.
