@@ -1,0 +1,11 @@
+S.I. No. 75 of 1970.
+
+MINES AND QUARRIES (REFERENCES) RULES 1970.
+
+ARRANGEMENT OF RULES
+
+PART I.
+
+Preliminary and General.
+
+Rule.
