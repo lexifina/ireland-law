@@ -1,0 +1,5 @@
+Exemption from customs duty of goods supplied as gifts or on loan to the Irish Red Cross Society by foreign Red Cross organisations.
+
+17.—(1) Where any article is shown, to the satisfaction of the Revenue Commissioners, to have been imported by the Irish Red Cross Society as a gift or a loan from a Red Cross organisation in any other country and solely for the purposes of the Irish Red Cross Society, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, allow such article to be imported without payment of the duty of customs (if any) chargeable thereon or repay any such duty paid thereon on importation.
+
+(2) Nothing in this section shall operate to authorise the importation of any article the importation of which is for the time being prohibited by law or to relieve from any restriction or from compliance with any condition (other than the payment of a duty of customs) which is for the time being attached by law to the importation of any article.

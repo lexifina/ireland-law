@@ -1,0 +1,9 @@
+Reduction of duties on hydrocarbon oil.
+
+11.—(1) The duty of customs imposed by section 21 of the Finance Act, 1935 (No. 28 of 1935), shall, in respect of hydrocarbon oil chargeable with that duty, be charged, levied, and paid, as on and from the 1st day of June, 1946, at the rate of nine pence the gallon in lieu of the rate now chargeable by virtue of subsection (1) of section 13 of the Finance Act, 1941 (No. 14 of 1941).
+
+(2) The rebate allowable under subsection (2) of the said section 21 of the Finance Act, 1935, shall, in respect of hydrocarbon oil on which such rebate is allowable, be allowed, as on and from the 1st day of June, 1946, at the rate of nine pence the gallon in lieu of the rate now allowable by virtue of subsection (2) of section 13 of the Finance Act, 1941.
+
+(3) The duty of excise imposed by the said section 21 of the Finance Act, 1935, shall, in respect of hydrocarbon oil chargeable with that duty, which is sent out, on or for sale or otherwise, from the premises of the manufacturer thereof on or after the 1st day of June, 1946, or is used by such manufacturer on or after that date for any purpose other than the manufacture or production of hydrocarbon oil, be charged, levied, and paid at the rate of seven pence the gallon in lieu of the rate now chargeable by virtue of subsection (3) of section 13 of the Finance Act, 1941.
+
+(4) The rebate allowable under subsection (4) of the said section 21 of the Finance Act, 1935, shall, in respect of hydrocarbon oil on which such rebate is allowable and on which the excise duty mentioned in the next preceding subsection of this section was paid at the rate of seven pence the gallon, be allowed at the rate of seven pence the gallon in lieu of the rate now allowable by virtue of subsection (4) of the said section 13 of the Finance Act, 1941.
