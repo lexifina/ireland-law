@@ -1,0 +1,5 @@
+Recurrence of incapacity.
+
+9.—(1) Notwithstanding any rule of law or anything contained in the Act of 1934, where it appears to the Court, at the hearing of a claim for compensation under the Act of 1934 or of an application under section 25 of the Act of 1934 for review of a weekly payment, that the incapacity which resulted from the injury caused to the workman has ceased, but that there is a reasonable probability that it will recur, the Court may make an order containing a declaration to that effect and reserving liberty to both the workman and the employer to apply to the Court to reconsider such order.
+
+(2) Where, at the hearing of an application to reconsider an order under subsection (1) of this section, it appears to the Court that the incapacity which resulted from the injury caused to the workman has recurred, the Court may deal with the application as if it were a claim for compensation under the Act of 1934 and for that purpose may treat the day on which such incapacity recurred as the day on which such injury was caused to the workman.

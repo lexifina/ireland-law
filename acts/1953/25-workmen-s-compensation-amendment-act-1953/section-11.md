@@ -1,0 +1,5 @@
+Proof of age and marriage.
+
+11.—(1) Where for the purposes of this Act, the age or marriage of any person is required to be proved, any person shall, on presenting a written requisition in such form and containing such particulars as may be directed by the Minister for Health and on payment of the appointed fee, be entitled to obtain a certified copy of the entry of the birth or marriage (as the case may be) of that person in the register of births or marriages (as the case may be) under the hand of the registrar or superintendent registrar or other person having the custody thereof, and forms for such requisition shall on request be supplied without any charge by every registrar of births and deaths, and by every superintendent registrar or other person having the custody of the register.
+
+(2) The Minister for Health may, with the consent of the Minister for Social Welfare and of the Minister for Finance, by regulations appoint fees for the purposes of this section and different fees may be appointed for different certificates.

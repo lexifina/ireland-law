@@ -1,0 +1,11 @@
+Requirements as to furnishing of information.
+
+10.—(1) (a) Any employer against whom a claim for supplemental allowances under this Act is made may by notice in writing require the workman to make a declaration in the prescribed form and containing such information as may be necessary for the purposes of this Act as to any wife or children in respect of whom any allowances are claimed, and as to any other weekly payment by way of compensation under the Acts of 1897 and 1900, the Act of 1906 or the Act of 1934, and any supplemental allowances payable in respect thereof, to which the workman is entitled.
+
+(b) Any employer liable to pay supplemental allowances under this Act may by notice in writing require the workman to make, on any occasion on which the supplemental allowances are due, a declaration in the prescribed form containing such information as may be necessary to enable the employer to ascertain whether there has been any material change of circumstances.
+
+(c) If the workman, without reasonable cause, fails to make the declaration within fourteen days from the service of any notice under this subsection, his right to the allowances shall be suspended as from the expiration of that period until the declaration is made and no allowances shall be payable in respect of the period of suspension.
+
+(2) Any person who, for the purpose of obtaining a supplemental allowance under this Act for himself or any other person or of increasing the amount of any such allowance, knowingly makes any false statement or false representation, shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds or, at the discretion of the Court, to imprisonment for any term not exceeding three months or to both such fine and such imprisonment, and where any allowances have, in consequence of any such false statement or representation made in writing by the workman or with his knowledge, been paid in excess of the amounts to which the workman was entitled, the employer liable to pay the allowances shall, without prejudice to any other method of recovery, be entitled to deduct the amount of the excess from any future payments of allowances.
+
+(3) In this section “prescribed” means prescribed by regulations made by the Minister for Social Welfare.
