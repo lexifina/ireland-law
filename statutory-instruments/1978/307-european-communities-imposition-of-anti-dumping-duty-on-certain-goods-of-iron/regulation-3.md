@@ -1,0 +1,5 @@
+Regulation 3
+
+3. (1) Subject to Article 6 of these Regulations, an anti-dumping duty at the rate specified in Article 5 of these Regulations shall be charged, levied and paid on goods that are imported into the State and are of the following description, that is to say, iron or steel coils for re-rolling which are classified at tariff heading number 73.08 of the Common Customs Tariff, and which originate in South Korea or Bulgaria, other than goods of that description which originate in South Korea or Bulgaria and are imported into the State from another Member State of the European Economic Community and in respect of which an anti-dumping duty has been paid in accordance with Recommendations No. 790/78/ECSC or 932/78/ECSC.
+
+(2) This Article in so far as it relates to goods which originate in South Korea shall be deemed to have come into operation on the 20th day of April, 1978, and in so far as it relates to goods which originate in Bulgaria shall be deemed to have come into operation on the 4th day of May, 1978.
