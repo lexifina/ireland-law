@@ -1,0 +1,7 @@
+Power to remove difficulties.
+
+26.—(1) If in any respect any difficulty arises in bringing this Act into operation, the Minister may, with the sanction of the Minister for Finance and the consent of the Minister for Health, by order do anything which appears to be necessary or expedient for bringing this Act into operation, and any such order may modify the provisions of this Act so far as may be necessary or expedient for carrying the order into effect.
+
+(2) Every order made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made, and if a resolution is passed by either House of the Oireachtas within the next twenty-one days on which such House has sat after the order is laid before it annulling the order, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+
+(3) No order may be made under this section after the expiration of one year after the appointed day.
