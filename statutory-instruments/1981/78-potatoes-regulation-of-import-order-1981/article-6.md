@@ -1,0 +1,3 @@
+Article 6
+
+6. When any raw and unprocessed potatoes are imported any officer of Customs and Excise may, at the time of importation, require the person making the importation to produce to him such documentary evidence as satisfies him as regards the identification of the country or territory in which the potatoes were produced (which documentary evidence he may retain or mark if he so thinks fit), and in case a person fails to comply with a requirement made under this Article, the officer of Customs and Excise concerned shall refuse to allow the potatoes in relation to which the requirement was made to be imported.
