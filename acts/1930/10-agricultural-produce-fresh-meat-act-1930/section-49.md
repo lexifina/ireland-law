@@ -1,0 +1,7 @@
+Powers under other Acts.
+
+49.—(1) Save as otherwise provided by this section, the powers conferred on the Minister by this Act shall be and be exercised without prejudice to the exercise by the Minister for Local Government and Public Health of the powers conferred on him by the Public Health (Regulations as to Food) Act, 1907, or to the exercise by local slaughter-house authorities of their statutory powers in relation to the inspection of the slaughter-houses as such authorities, or to the exercise by local sanitary authorities of the powers in relation to slaughter-houses or in relation to articles intended for the food of man conferred on them by the Public Health (Ireland) Acts, 1878 to 1919, as amended by Part II. of the Local Government Act, 1925 (No. 5 of 1925), or conferred on them by any local or personal Act.
+
+(2) Premises registered in any register of slaughtering pre mises so long as they continue to be so registered shall be exempt from the obligation to be registered or to be licensed under any other enactment relating to the registration or the licensing of slaughter-houses and shall also be exempt from all statutory provisions (including orders, regulations, rules, and bye-laws) applicable to slaughter-houses in consequence of such registration or licensing.
+
+(3) Section 50 of the Towns Improvement (Ireland) Act, 1854, shall not apply in respect, of registered slaughtering premises.
