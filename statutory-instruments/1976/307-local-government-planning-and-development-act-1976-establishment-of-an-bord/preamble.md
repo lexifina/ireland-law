@@ -1,0 +1,1 @@
+The Minister for Local Government, in exercise of the powers conferred on him by section 2 of the Local Government (Planning and Development) Act, 1976 , (No. 20 of 1976), and by articles 17 and 18 of the Schedule to the said Act hereby orders as follows:—
