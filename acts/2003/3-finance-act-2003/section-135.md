@@ -1,0 +1,9 @@
+Amendment of section 69 (operator-instruction deemed to be an instrument of conveyance or transfer) of Principal Act.
+
+135.—(1) Section 69 of the Principal Act is amended by inserting the following after subsection (3):
+
+“(4) Where a transfer of title to securities through a relevant system is effected by an operator-instruction relating to a single netted settlement in a relevant system of two or more contracts for sale of the same type of securities of a company that operator-instruction shall not be treated as an operator-instruction falling within subsection (1) and shall, instead, be deemed to be a separate operator-instruction generated in respect of each contract for sale included in that single netted settlement and each such operator-instruction shall be deemed to be an executed instrument of conveyance or transfer of the securities which are the subject of the contract for sale concerned and the date of execution of each such conveyance or transfer shall be taken to be the date the operator-instruction relating to the single netted settlement is generated.
+
+(5) Where no operator-instruction is generated in connection with a single netted settlement in a relevant system of two or more contracts for sale of the same type of securities of a company, a separate operator-instruction shall be deemed to have been generated on the date of the single netted settlement in respect of each contract for sale included in that single netted settlement and each such operator-instruction shall be deemed to be an executed instrument of conveyance or transfer of the securities which are the subject of the contract for sale concerned and the date of execution of each such conveyance or transfer shall be taken to be the date the deemed operator-instruction is generated.”.
+
+(2) Subsection (1) has effect in relation to instruments executed on or after the passing of this Act.
