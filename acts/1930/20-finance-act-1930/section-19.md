@@ -1,0 +1,7 @@
+Post Office Savings Bank Fund.
+
+19.—(1) Where it appears to the Minister for Finance that the interest accrued during any year of account (whether ending before or after the passing of this Act) from the securities standing to the credit of the Post Office Savings Bank Fund exceeded the total of the interest paid or credited to depositors during such year of account in pursuance of the Acts relating to the Post Office Savings Bank and the expenses incurred in such year of account in the execution of those Acts, the said Minister may in the next financial year after such year of account or (in the case of a year of account which ended before the passing of this Act) in the next financial year after the last of such years of account, appropriate for the Exchequer the whole or any part of the amount of such excess remaining after deducting therefrom such sum (not being less than ten per cent. thereof) as he may think proper to preserve in the said Fund as a provision against depreciation in the value of the securities standing to the credit thereof.
+
+(2) The Minister for Finance may, in the financial year beginning on the 1st day of April, 1931, or in any subsequent financial year, appropriate for the Exchequer (in addition to any appropriation under the foregoing sub-section) the whole or any part of any sum which could have been but was not appropriated by him under this section in any previous financial year.
+
+(3) In this section the expression “year of account” means a period of twelve months ending on any 31st day of December.

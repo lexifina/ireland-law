@@ -1,0 +1,3 @@
+Exemption from duty on furniture.
+
+9.—Where the Revenue Commissioners are satisfied, in respect of any article of furniture (other than a bedstead) or any component part of any article of furniture (other than a bedstead) which but for this section would be chargeable with the duty imposed by section 18 of the Finance Act, 1925 (No. 28 of 1925), that the quantity of wood contained in such article or component part forms only an inconsiderable portion of the whole of such, article or component part, the Revenue Commissioners may, subject to compliance with such conditions as they think fit to impose, permit such article or component part to be imported without payment of the said duty or repay any such duty paid on importation.
