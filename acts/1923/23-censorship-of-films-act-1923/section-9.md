@@ -1,0 +1,3 @@
+Meaning of exhibition of a picture.
+
+9.—For the purposes of this Act the exhibition of a picture in respect of which a certificate has been granted by the Official Censor under this Act means the exhibition of such picture by means of a film produced, directly or indirectly, either from the negative from which the film by means of which such picture was exhibited to the Official Censor was produced or from a negative from which the first mentioned negative was itself, directly or indirectly, produced, and the exhibition of a picture by means of a film produced in any other manner shall not for the purposes of this Act be an exhibition of the picture in respect of which such certificate was given.
