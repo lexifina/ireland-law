@@ -1,0 +1,3 @@
+Amendment of section 33 of Finance Act, 1935.
+
+17.—Where the person referred to in subsection (1) of section 33 of the Finance Act, 1935 (No. 28 of 1935), as amended by section 16 of the Finance Act, 1937 (No. 18 of 1937), as the deceased dies on or after the day on which this Act is passed, the restrictions imposed by the said section 33 as so amended on the payment by a banker to the survivor or all or any of the survivors of such deceased or to any other person shall not apply where the sum lodged or deposited does not exceed five hundred pounds, and accordingly the said section 33 as so amended shall in its application to any such deceased have effect as if in subsection (1) thereof “five hundred pounds” were substituted for “one hundred pounds.”

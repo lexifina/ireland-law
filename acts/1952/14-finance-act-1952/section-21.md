@@ -1,0 +1,7 @@
+Restriction of application of section 13 of Finance (No. 2) Act, 1947.
+
+21.—(1) Section 13 of the Finance (No. 2) Act, 1947 (No. 33 of 1947), shall not apply to a conveyance or transfer on sale of lands, tenements and hereditaments where the person becoming entitled to the entire beneficial interest in the property (or, where more than one person becomes entitled to a beneficial interest therein, each of them) is related to the person or each of the persons immediately theretofore entitled to the entire beneficial interest in the property in one or other of the following ways, that is to say, as a lineal descendant, parent, grand-parent, step-parent, husband or wife, brother or sister of a parent or brother or sister, or lineal descendant of a parent, husband or wife or brother or sister, and the instrument contains a certificate to that effect by the party to whom the property is being conveyed or transferred.
+
+(2) On any instrument to which subsection (1) of this section applies, such stamp duties shall be chargeable as would have been chargeable if section 13 of the Finance (No. 2) Act, 1947, had not been enacted.
+
+(3) An instrument to which subsections (1) and (2) of this section apply and which is stamped with an amount of duty less than the amount which but for the provisions of this section would be chargeable thereon shall be deemed not to be duly stamped unless the Revenue Commissioners have expressed their opinion thereon in accordance with section 12 of the Stamp Act, 1891.
