@@ -1,0 +1,3 @@
+Article 2
+
+2. The reference in section 8 of the Unemployment Assistance Act, 1933 (No. 46 of 1933), as modified by the Social Welfare (Assistance Decisions and Appeals) Regulations, 1953 ( S.I. No. 9 of 1953 ), to a deciding officer or to any other officer of the Minister for Social Welfare authorised by that Minister to take and receive statutory declarations of the kind specified in the section shall be construed as including a reference to any officer of the Minister for Labour authorised by the Minister for Social Welfare, after consultation with the Minister for Labour, to take and receive statutory declarations of the kind aforesaid.
