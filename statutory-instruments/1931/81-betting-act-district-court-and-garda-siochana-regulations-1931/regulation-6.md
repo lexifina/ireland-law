@@ -1,0 +1,3 @@
+Regulation 6
+
+6. Any person desiring to obtain a certificate of suitability of premises shall make an application in writing therefor, which shall be in Form VI in the Schedule hereto or in such modification thereof as may be suitable. The application form may be obtained from any Sergeant of the Gárda Síochána, and when completed by the applicant and signed by two Peace Commissioners for the district in which the premises are situate, shall be lodged by the applicant with the Sergeant of the Gárda Síochána for the sub-district in which the premises are situate. Upon receiving such an application a Sergeant of the Gárda Síochána shall forward it to the Superintendent of the Gárda Síochána for the district.
