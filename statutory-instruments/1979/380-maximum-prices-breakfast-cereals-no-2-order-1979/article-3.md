@@ -1,0 +1,9 @@
+Article 3
+
+3. (1) The maximum price at which a commodity mentioned in column (2) of the schedule to this Order at any reference number may be sold in the manner specified in column (3) of that Schedule at that reference number is hereby fixed at the price mentioned in the said column (3) at that reference number.
+
+(2) When a commodity mentioned in the Schedule to this Order is sold by retail in a manner other than that specified in relation to the commodity in the said Schedule, the maximum price at which it may be so sold shall be calculated at a rate corresponding to the rate specified in relation to the commodity in the said Schedule.
+
+(3) Where flakemeal or cornflakes is or are sold in a packet purporting to contain a specified weight of flakemeal or cornflakes, the packet shall be deemed, for the purposes of this Order, to contain that weight of flakemeal or cornflakes, as the case may be.
+
+(4.) The Maximum Prices (Breakfast Cereals) Order, 1979 ( S.I. No. 306 of 1979 ), is hereby revoked.

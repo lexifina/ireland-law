@@ -1,0 +1,3 @@
+Article 1
+
+1. This Order may be cited as the Maximum Prices (Breakfast Cereals) (No. 2) Order, 1979.
