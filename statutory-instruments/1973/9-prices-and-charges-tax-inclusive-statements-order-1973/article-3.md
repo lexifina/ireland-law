@@ -1,0 +1,3 @@
+Article 3
+
+3. Where, for the purposes of or in connection with the sale by retail by a person of a commodity, the retail price of the commodity is stated orally by the person or by a servant or agent of the person or is stated on the commodity or on any container or wrapper in which the commodity is packed or on a ticket or label attached to the commodity or to such container or wrapper or in a catalogue or advertisement or in a notice or other document (other than an invoice), the price so stated shall be stated as a single amount inclusive of any charge made by the person for any tax payable in respect of the commodity.
