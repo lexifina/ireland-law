@@ -1,0 +1,5 @@
+Rule 9
+
+9. (1) Whenever a vacancy occurs at an appointed stand by reason of the departure therefrom of a street service vehicle, the street service vehicle nearest to the space so vacated shall be moved by its driver into that space and thereupon each driver of any other street service vehicle then standing on that appointed stand shall in turn move his vehicle into the space which is next in order to him and is in the direction of the head of the appointed stand.
+
+(2) Whenever a vacancy occurs on a main appointed stand by reason of the departure therefrom of a street service vehicle, the following provision shall have effect in addition to that contained in paragraph (1) of this rule: the driver of the street service vehicle at the head of the sibsidiary appointed stand which is mentioned in column (3) of the Third Schedule to these rules opposite the mention in column (2) of that Schedule of the main appointed stand shall place that street service vehicle on the main appointed stand.
