@@ -1,0 +1,3 @@
+Whereas the State has been authorised under the Decisions of the Commission of the European Economic Communities dated 12th May, 1971 (No. 71/202/EEC) and 9th March, 1973 (No. 73/55/EEC) to take protective measures (the conditions and details of which the Commission has determined under those Decisions):
+
+I, DESMOND O'MALLEY, Minister for Industry, Commerce and Energy, in exercise of the power conferred on me by section 3 of the European Communities Act, 1972 (No. 27 of 1972), and the Industry and Commerce (Alteration of Name of Department and Title of Minister) Order, 1977 ( S.I. No. 306 of 1977 ), hereby make the following Regulations:
