@@ -1,0 +1,5 @@
+Interim transfers between the legal tender note fund and the note reserve fund.
+
+4.—(1) Whenever during any half-year a profit arises on the realisation (whether by sale or maturity) of any capital asset of the legal tender note fund, the Commission may, after making such allowance as it thinks proper for any depreciation which may have occurred since the beginning of such half-year in any capital asset of that fund, transfer from the legal tender note fund to the note reserve fund capital assets in any one or more of the forms mentioned in sub-section (2) of section 62 of the Principal Act equal in value at the time of such transfer to the amount of such profit remaining after making such allowance (if any) for depreciation.
+
+(2) Whenever during any half-year a loss arises on the realisation (whether by sale or maturity) of any capital asset of the legal tender note fund, the Commission may transfer to that fund from the note reserve fund capital assets in any one or more of the forms mentioned in sub-section (3) of section 61 of the Principal Act as amended by this Act equal in value at the time of such transfer to the amount of such loss.
