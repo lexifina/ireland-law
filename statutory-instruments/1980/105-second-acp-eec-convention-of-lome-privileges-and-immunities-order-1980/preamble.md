@@ -1,0 +1,5 @@
+WHEREAS it is enacted by section 42A of the Diplomatic Relations and Immunities Act, 1967 (No. 8 of 1967), as amended by the Diplomatic Regulations and Immunities (Amendment) Act, 1976 (No. 2 of 1976), that the Government may by order make provision to enable international organisations, communities or bodies, their institutions or organs and their property, and persons to have and enjoy in the State any inviolability, exemptions, facilities, immunities, privileges or rights provided for in relation to them by an international agreement to which the State is or intends to become a party:
+
+AND WHEREAS the Second ACP-EEC Convention of Lomé, with the Protocols annexed thereto, done at Lomé on the 31st day of October 1979, is such an agreement:
+
+NOW, the Government, in exercise of the powers conferred on them by section 42A of the said Diplomatic Relations and Immunities Act, 1967 , as amended by the said Diplomatic Relations and Immunities (Amendment) Act, 1976 (No. 2 of 1976), hereby order as follows:
