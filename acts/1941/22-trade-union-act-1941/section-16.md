@@ -1,0 +1,7 @@
+Payment of judgment debts out of deposits.
+
+16.—(1) Whenever a Court makes an order, decree, or judgment for the payment of money by a trade union which is the holder of a negotiation licence to any person, the High Court may, on the application in a summary manner of such person, order such money (with or without the costs of such application) to be paid to such person out of the deposit maintained by such trade union under this Part of this Act.
+
+(2) Whenever, in pursuance of an order made by the High Court under this section, any money is paid out of a deposit maintained under this Part of this Act, the Accountant of the Courts of Justice shall forthwith determine the value of the balance remaining of such deposit (securities being calculated at their current market value) and, if such balance falls short of the full proper amount of such deposit, he shall give to the trade union concerned notice in writing of such deficiency and of the amount thereof.
+
+(3) If, when a notice of deficiency of deposit is given in pursuance of the next preceding sub-section of this section, the trade union concerned, not more than three months after receiving such notice, deposits with the High Court a sum equal to the amount of the deficiency stated in such notice, the sum so deposited shall be added to and treated as part of the said deposit and such trade union shall be deemed to have maintained such deposit at its full proper amount.
