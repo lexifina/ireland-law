@@ -1,0 +1,3 @@
+Appearance before committees of Houses of Oireachtas.
+
+10.—The Secretary General of a Department or Head of a Scheduled Office or any other officer of the Department or Scheduled Office who is designated for the purposes of this section by the aforesaid Secretary General or Head and to whom the relevant responsibility for the performance of functions has been assigned, shall, when requested to do so in writing by a committee of either or both of the Houses of the Oireachtas authorised in that behalf to make the request in connection with the subject-matter before the committee, appear before the committee in relation to any strategy statement that has been laid before each House of the Oireachtas under section 5 (2) in respect of the Department or Scheduled Office.
