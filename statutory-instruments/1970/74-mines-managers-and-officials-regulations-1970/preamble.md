@@ -1,0 +1,11 @@
+S.I. No. 74 of 1970.
+
+MINES (MANAGERS AND OFFICIALS) REGULATIONS, 1970.
+
+ARRANGEMENT OF REGULATIONS.
+
+PART I.
+
+Preliminary and General.
+
+Regulation
