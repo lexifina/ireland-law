@@ -1,0 +1,11 @@
+1924. No. 16.
+
+ESTATE DUTY GRANT (No. 1) ORDER, 1924.
+
+WHEREAS by Section 9 of the Adaptation of Enactments Act, 1922 (No. 2 of 1922), it is enacted that wherever under any British Statute any grant, whether annual or capital, is directed to be made by the Treasury out of the Consolidated Fund, or by the Treasury or any other Government Department out of any other fund, and the amount of such grant is by such Statute fixed either for the whole of the late United Kingdom or for any part thereof which included the area comprised in Saorstát Eireann, the Minister for Finance may by Order apportion such amount between Saorstát Eireann and the rest of the area in respect of which the amount is fixed as aforesaid, and may by such Order fix the amount of such grant to be made under such Statute Saorstát Eireann.
+
+AND WHEREAS by Clause (a) of Sub-section (1) of Section 3 of the British Statute entitled the Probate Duties (Scotland and Ireland) Act, 1888 (51 & 52 Vict., ch. 60), as amended by Section 1 of the British Statute entitled the Agriculture and Technical Instruction (Ireland) (No. 2) Act, 1902 (2 Edw. 7, ch. 33), it is enacted that the sum of five thousand pounds shall be paid annually out of the Local Taxation (Ireland) Account to the Department of Agriculture and Technical Instruction for Ireland, and shall be expended in such manner as the Department aforesaid may consider expedient for the improvement of the breed of horses and cattle ;
+
+AND WHEREAS the said sum of five thousand pounds was fixed by the enactments aforesaid for the whole of Ireland, being a part of the late United Kingdom which included the area comprised in Saorstát Eireann, and it is necessary that such sum should be apportioned between Saorstát Eireann and the rest of the area in respect of which the said sum was fixed as aforesaid, and that the annual sum to be paid in Saorstát Eireann to the Department of Agriculture and Technical Instruction for Ireland under the enactments aforesaid should be fixed;
+
+NOW, I, EARNÁN DE BLAGHD, the Minister for Finance in Saorstát Eireann, in exercise and by virtue of the power in this behalf vested in the Minister for Finance by the Adaptation of Enactments Act, 1922 (No. 2 of 1922), and of every and any other power me in this behalf enabling, do hereby order as follows :—
