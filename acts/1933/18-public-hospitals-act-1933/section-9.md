@@ -1,0 +1,7 @@
+Application of deposit.
+
+9.—(1) If any prize duly drawn in a sweepstake is not duly paid or handed over by the sweepstake committee managing such sweepstake to the person entitled thereto under the terms of such sweepstake, the sweepstake trustees shall pay to such person out of the deposit made in respect of the drawing at which such prize was drawn the amount or value of such prize or so much of such amount or value as has not been paid to him by such committee, and such trustees shall for the purpose of making such payment have full power at their discretion to realise all or any stocks, shares or securities included in such deposit.
+
+(2) When all prizes drawn at the drawing in relation to which a deposit is made have been fully paid or handed over, whether without resort to such deposit or wholly or partly out of such deposit, the sweepstake trustees in whose names such deposit is standing shall return to the person by whom the moneys or securities included in such deposit were provided the whole or so much as is not otherwise applied under this section (as the case may require) of such moneys and securities.
+
+(3) If the drawing of prizes in relation to which a deposit is made is, with the consent of the Minister for Justice, not made, the sweepstake trustees in whose names such deposit is standing shall return any moneys, stocks, shares and securities comprised in such deposit to the person by whom they were provided.

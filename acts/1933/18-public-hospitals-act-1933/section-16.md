@@ -1,0 +1,5 @@
+Expenses of Hospitals Commission.
+
+16.—(1) There shall be paid to the Hospitals Commission out of the Hospitals Trust Fund from time to time such sums as the Minister may sanction for the expenses of the Hospitals Commission and that Commission shall defray out of such sums expenses, to such extent as shall be sanctioned by the Minister, incurred by them in the execution of their functions under this Act including the remuneration, travelling expenses, and maintenance allowances payable to members and officers of the Hospitals Commission.
+
+(2) There shall be paid out of the Hospitals Trust Fund into or for the benefit of the Exchequer at such times and in such manner as the Minister for Finance shall direct such sum in respect of every financial year as the Minister, with the sanction of the Minister for Finance, shall determine to be the amount properly payable in respect of facilities provided by the Minister and assistance rendered by officers of the Minister for or to the Hospitals Commission under this Act in such financial year.
