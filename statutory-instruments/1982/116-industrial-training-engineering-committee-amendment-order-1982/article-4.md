@@ -1,0 +1,3 @@
+Article 4
+
+4. Article 3 of the Order of 1969 is hereby amended by the substitution of "twenty four" for "eighteen".
