@@ -1,0 +1,3 @@
+Article 3
+
+3. A provisional duty at the rate of 38.4 per cent. shall be charged, levied and paid between the 25th day of December, 1972, and the 31st day of December, 1972, on rectangular articles of paper material suitable for use as serviettes or table napkins which consist of not more than four plies, are not less than nine hundred or more than three housand two hundred square centimetres in area, are classified in chapter 48 of the Schedule to the Imposition of Duties (No. 159) (Customs Duties and Form of Customs Tariff) Order, 1966 ( S.I. No. 132 of 1966 ), and are produced in whole or in part in the United Kingdom.
