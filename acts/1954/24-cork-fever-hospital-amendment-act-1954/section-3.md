@@ -1,0 +1,3 @@
+Vesting of hospital in Board of Public Assistance for South Cork Public Assistance District.
+
+3.—The hospital referred to in section 2 of this Act shall, on such day as may be appointed by order by the Minister for Health and without any conveyance or assignment, become and be vested in the Board of Public Assistance for the South Cork Public Assistance District for all the estate, term or interest for which it was immediately before that day vested in the Lord Mayor, Aldermen and Burgesses of Cork, and shall thereupon be deemed to have been provided as a health institution by that Board under section 10 of the Health Act, 1947 (No. 28 of 1947).
