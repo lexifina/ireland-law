@@ -1,0 +1,3 @@
+Article 3
+
+3. Whenever it is shown, to the satisfaction of the Revenue Commissioners, that an article chargeable with the duty imposed by the Emergency Imposition of Duties (No. 76) Order, 1935 (Statutory Rules and Orders, No. 543 of 1935), is ply yarn made wholly or mainly of cotton and is being imported on or after the 13th day of July, 1938, solely for the purpose of being used in weaving or knitting goods by means of machinery, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, allow such article to be imported without payment of the said duty.
