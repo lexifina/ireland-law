@@ -1,0 +1,7 @@
+Registrar's power to investigate society's affairs.
+
+13.—(1) Whenever it appears to the Registrar to be expedient to do so in the interests of the public or of creditors of a society or of the orderly and proper regulation of the business of a society, the Registrar may appoint one or more than one inspector to investigate and report to him, in such manner as he may direct, on the affairs of the society, and for that purpose such an inspector may require the production of all or any of the accounts, deeds, books, records and other documents of the society and may examine on oath its officers, members, agents and servants in relation to its business, and may administer an oath to any such person.
+
+(2) Where an inspector appointed under this section to investigate the affairs of a society thinks it necessary for the purpose of his investigation to investigate also the affairs of any other society or body corporate which is or has at any relevant time been associated with the first-mentioned society, he may, with the approval of the Registrar, do so, and shall report to the Registrar on the affairs of the associated society or body corporate to such extent as he thinks the results of his second or further investigation are relevant to his investigation of the affairs of the first-mentioned society.
+
+(3) All expenses of or incidental to an investigation under this section shall be defrayed out of the funds of the society, or by the members (or former members) or officers of the society, in such proportions as the Registrar shall direct.
