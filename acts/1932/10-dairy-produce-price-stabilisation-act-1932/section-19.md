@@ -1,0 +1,5 @@
+Returns to be made by person liable to pay levy.
+
+19.—(1) Every person who is required by or under this Act to pay a levy in respect of any butter manufactured or acquired by him during the preliminary period or a levy month shall, not later than the last date specified in this Act for the payment of such levy, send to the Minister particulars of the butter manufactured or acquired by him during the preliminary period or such levy month, and in the case of butter acquired during the preliminary period or such levy month the names and addresses of any butter trader or butter factory owner to whom any of such butter has been resold and the dates of such resale and the amount of such butter resold, and in the case of any butter such other particulars as may be prescribed.
+
+(2) If any such person fails or neglects to comply with the provisions of this section, such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding one hundred pounds.

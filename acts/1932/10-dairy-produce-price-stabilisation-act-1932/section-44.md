@@ -1,0 +1,3 @@
+Auditing of accounts.
+
+44.—The Minister shall prepare in such form and at such times as the Minister for Finance may direct accounts of the receipts and expenditure of the Minister under this Act, and within six months after the expiration of the financial year to which the accounts relate shall transmit the same to the Comptroller and Auditor-General to be audited, certified and reported upon in conformity with regulations made by the Minister for Finance and the accounts with the reports of the Comptroller and Auditor-General thereon, shall be laid before Dáil Eireann as soon as may be after the reports are made.
