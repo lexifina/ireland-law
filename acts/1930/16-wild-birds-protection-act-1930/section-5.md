@@ -1,0 +1,3 @@
+Traps on poles, trees or cairns.
+
+5.—Every person who, on any pole, tree, or cairn of earth or stones, shall affix, place or set any spring-trap, gin, or other similar instrument calculated to cause injury to any wild bird coming in contact therewith and every person who shall knowingly permit or suffer or cause any such spring-trap, gin, or other instrument to be so affixed, placed or set shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first offence, to a penalty not exceeding forty shillings and, in the case of a second or subsequent offence, to a penalty not exceeding five pounds.
