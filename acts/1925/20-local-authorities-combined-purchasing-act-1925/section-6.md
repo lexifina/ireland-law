@@ -1,0 +1,11 @@
+Contracts with persons other than official contractor.
+
+6.—(1) Whenever a local authority purchases or enters into a contract for the purchase of any commodity for which an official contractor has been appointed under this Act with a person who is not an official contractor for such commodity, an entry shall be made in the minutes of such local authority stating the reasons for such purchase or contract.
+
+(2) Such entry shall be produced at any audit of the accounts of the local authority which includes any payment for such commodity or under such contract.
+
+(3) At any such audit unless the auditor is satisfied that such purchase or contract was not made for any fraudulent or improper purpose or object or for any object other than the bona fide discharge by the members of the local authority making or authorising the making thereof of their duties in the interests of the ratepayers, he shall charge against such members jointly and severally the amount of any loss caused to the local authority by such purchase or contract, whether such loss arises from the price paid for the commodity or from the quality of the commodity so obtained or otherwise howsoever, and in the case of a contract if in his opinion any such loss as aforesaid is likely to result from the continuance of the contract he may declare such contract to be illegal.
+
+(4) Where a contract is declared to be illegal in pursuance of this section such contract shall thereupon become void, and section 12 of the Local Government (Ireland) Act, 1871 (which relates to the duties of an auditor and to appeals) shall apply in the case of such contract, and the members of the local authority making such contract may be surcharged accordingly either with all payments made thereunder or with such portion thereof as may appear to the auditor, having regard to all the circumstances of the case, just and reasonable, but the person with whom such contract was made may notwithstanding such declaration recover any sum due to him under such contract in respect of commodities supplied before such declaration.
+
+(5) Any decision of an auditor under this section shall, save so far as the same may be altered on appeal, be conclusive and binding on all persons.

@@ -1,0 +1,3 @@
+Undertaking by official contractor.
+
+4.—The appointment of any person to be an official contractor under this Act shall not constitute or imply any contract or agreement between the Minister and such person, but the Minister may require any person so appointed, as a condition of his appointment, to enter into any undertaking which the Minister considers desirable in relation to the quality of the commodity to be supplied by him, the manner in which such commodity is to be supplied, the charges to be made for delivery, penalties for failure to supply, the conditions of employment in relation to the production or supply of the commodity, or any other similar matter.
