@@ -1,0 +1,3 @@
+WHEREAS it is enacted by paragraph (b) of sub-section (1) of Section 14 of the Police Forces Amalgamation Act, 1925 (No. 7 of 1925), as adapted in consequence of the enactment of the Constitution, that the Minister for Justice may from time to time, subject to the approval of the Government, make regulations in relation to the promotion, retirement, degradation, dismissal and punishment of members of the Garda Síochána :
+
+NOW, THEREFORE, the Minister for Justice, in exercise of the powers conferred on him by the said paragraph (b) of subsection (1) of Section 14, and of every and any other power him in that behalf enabling, hereby, with the approval of the Government makes the following regulations :—
