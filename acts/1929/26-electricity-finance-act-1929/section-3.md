@@ -1,0 +1,5 @@
+Amendment of section 15 of the Electricity (Supply) Act, 1927.
+
+3.—(1) Notwithstanding anything contained in section 15 of the Electricity (Supply) Act, 1927 (No. 27 of 1927), the Electricity Supply Board shall not be under any liability to repay to the Minister for Finance so much (not exceeding the sum of one hundred and thirty-two thousand, four hundred and fifty pounds) of the sums advanced at any time out of the Central Fund under the Shannon Electricity Act, 1925 (No. 26 of 1925), to the separate fund established under section 11 of that Act as is expended on the improvement of navigation under the powers in that behalf conferred on the Minister for Industry and Commerce by the last-mentioned Act or to pay interest to the Minister for Finance on so much as aforesaid of the said sums so advanced.
+
+(2) The expression “the said advances” where the same occurs in section 15 of the Electricity (Supply) Act, 1927, shall be construed as not including any sums for the repayment of which the Electricity Supply Board is relieved of liability by this section.
