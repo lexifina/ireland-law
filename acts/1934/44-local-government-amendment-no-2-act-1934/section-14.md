@@ -1,0 +1,3 @@
+Paying orders of existing board.
+
+14.—The abolition of the existing board or the transfer of any of its powers by this Act shall not invalidate or affect any paying order which may have been issued by the existing board and not presented for payment before the appointed day nor any authority given by the existing board for the payment of the amount of such paying order, and the council shall make arrangements for the payment of every such paying order or, where the existing board is a board of health and public assistance, of every such paying order which is issued in settlement of a liability incurred for any purpose other than the relief of the poor, upon due presentation within a reasonable time after the appointed day.
