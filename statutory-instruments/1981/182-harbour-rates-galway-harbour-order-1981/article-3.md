@@ -1,0 +1,195 @@
+Article 3
+
+3. Every statutory or other provision fixing, restricting or otherwise regulating the rates or the maximum or minimum rates chargeable by the Galway Harbour Commissioners on subjects of charge set out in the Schedules to this Order, or the basis on which, or method by which, such rates are computed, is hereby revoked.
+
+FIRST SCHEDULE.
+
+Maximum Goods Rates.
+
+Ref. No.
+
+Commodity
+
+Rate per tonne except where specified
+
+Feeding stuffs for Animals Vegetables and Fish Oils
+
+30p
+
+Wood (all kinds)
+
+24p
+
+Fertilisers (bulk)
+
+28p
+
+Fertilisers (manufactured)
+
+29p
+
+Ores
+
+24p
+
+Steel Scrap
+
+24p
+
+Steel (manufactured)
+
+32p
+
+Fuel (solid)
+
+20p
+
+Petroleum Products
+
+43p
+
+Gas (Natural and Manufactured)
+
+85p
+
+Miscellaneous
+
+£1.00
+
+SECOND SCHEDULE.
+
+Maximum Tonnage Rates.
+
+Ref. No.
+
+Description of Charge
+
+Rate
+
+1 (i)
+
+Tonnage Rates on Commercial Vessels.
+
+(a) On every ton of the net register tonnage or of half the gross tonnage, whichever is the greater, of every vessel (except as hereinafter provided) entering or leaving the harbour from or to any port or place in the State, Northern Ireland or Great Britain, a sum not exceeding-
+
+26p
+
+(b) On every ton of the net register tonnage or of half the gross tonnage, whichever is the greater, of every vessel entering or leaving the harbour from or to any port or place other than a port or place in the State, Northern Ireland or Great Britain, a sum not exceeding—
+
+32p
+
+(c) On every ton of the net register tonnage or of half the gross tonnage, whichever is the greater, of every vessel entering the harbour and not shipping, unshipping or transhipping any cargo or passengers, other than provisions or fuel to be used for the purpose of the voyage, if from or to a port or place mentioned at (a) above, a sum not exceeding—
+
+15p
+
+(d) On every ton of the net register tonnage or of half the gross tonnage, whichever is the greater, of every vessel entering the harbour and not shipping, unshipping, or transhipping any cargo or passengers, other than provisions or fuel to be used for the purpose of the voyage, if from or to a port or place mentioned at (b) above, a sum not exceeding—
+
+20p
+
+1 (ii)
+
+Lying up charges (payable in addition to the charges at Ref. No. 1(i) and Ref. No. 2)
+
+(a) On every ton of the net register tonnage or of half the gross tonnage, whichever is the greater, of every vessel lying alongside any pier or wharf or moored in the vicinity thereof or lying in any dock after the expiration of a period of fourteen days
+
+for each week or part of a week for the first four weeks a sum not exceeding—
+
+8p
+
+for each subsequent week or part of a week a sum not exceeding—
+
+12p
+
+(b) On every ton of the net register tonnage, or of half the gross tonnage whichever is the greater, of every vessel not subject to the charge at 1(ii)(a) lying in the harbour after the expiration of a period of fourteen days
+
+for each week or part of a week for the first four weeks a sum not exceeding—
+
+6p
+
+for each subsequent week or part of a week a sum not exceeding—
+
+9p
+
+2.
+
+Tonnage Rates on Fishing Vessels.
+
+On every mechanically propelled fishing vessel not exceeding 120 tons using the harbour, as a composition of tonnage rates payable each year on 1st January, an annual sum not exceeding—
+
+£27
+
+(a) If 65 tons gross or over but under 120 tons gross;
+
+£15
+
+(b) If under 25 tons gross;
+
+£8
+
+Fishing vessels in excess of 120 tons shall be liable for same tonnage rate as will apply to commercial vessels.
+
+3.
+
+Tonnage rates on vessels other than described at paragraphs 1 and 2.
+
+On every vessel in whatever way propelled including yachts, sailing boats, motor boats and rowing boats, and including such vessels plying for hire, using or lying alongside any dock, wharf, or pier at the harbour, an annual sum not exceeding—
+
+£5
+
+THIRD SCHEDULE.
+
+Other Maximum Rates.
+
+Ref. No.
+
+Description of Charge
+
+Rate
+
+1.
+
+For the use of any warehouse or shed for each day or part thereof exceeding the period authorised by the bye-laws of the harbour authority, for the time being in force, per square metre—
+
+17p
+
+2.
+
+For the use of any wharf, pier or quay for any goods (except round native timber, including pit props, for export) for a period exceeding the period authorised by the bye-laws of the harbour authority for the time being in force—
+
+(a) For each week or part thereof for the first three weeks, per square metre-
+
+32p
+
+(b) For each week or part thereof after the first three weeks, per square metre—
+
+63p
+
+3.
+
+For the use of the harbour launch for shipping, landing or otherwise conveying a pilot within the pilotage district:
+
+On each occasion when a pilot joins or leaves a vessel which is not alongside a pier, quay, wharf or jetty and is—
+
+(a) westward of a line drawn through the spire of Saint Nicholas' Church and continued southward through Mutton Island Lighthouse—
+
+£20
+
+(b) eastward of the line mentioned at (a) above—
+
+£15
+
+4.
+
+For the use of the harbour launch for any other purpose, per hour or part thereof—
+
+£15
+
+GIVEN under my Official Seal, this 13th day of May, 1981.
+
+ALBERT REYNOLDS,
+
+Minister for Transport.
+
+EXPLANATORY NOTE.
+
+The effect of this Order is to authorise Galway Harbour Commissioners to charge increased maximum goods, tonnage and other rates at Galway Harbour.
