@@ -1,0 +1,7 @@
+Power to remove difficulties.
+
+13.—(1) If in any respect any difficulty arises in bringing into operation this Act, the Minister may by order do anything which appears to be necessary or expedient for bringing this Act into operation, and such order may modify the provisions of this Act or any other enactment so far as may appear necessary or expedient for carrying the order into effect.
+
+(2) Every order made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made, and if a resolution is passed by either House of the Oireachtas within the next twenty-one days on which such House has sat after the order is laid before it annulling such order, such order shall be annulled accordingly, but without prejudice to the validity of anything previously done under such order.
+
+(3) No order shall be made under this section after the expiration of three years after the vesting day.
