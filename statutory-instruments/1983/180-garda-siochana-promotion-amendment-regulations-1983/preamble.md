@@ -1,0 +1,1 @@
+I, MICHAEL NOONAN, Minister for Justice, with the approval of the Government and in exercise of the powers conferred on me by section 14 of the Police Forces Amalgamation Act, 1925 (No. 7 of 1925), hereby make the following regulations:
