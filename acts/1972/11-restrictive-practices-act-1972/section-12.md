@@ -1,0 +1,3 @@
+Studies and analyses by Commission.
+
+12.—In addition to the functions conferred on the Commission by sections 4, 5, 7 and 9 to 11, the Commission shall study and analyse (and report to the Minister when requested by him the results of any such study or analysis) the effect on the common good of methods of competition, types of restrictive practice, monopolies, the structure of any markets, amalgamation of, or acquisition of control of, bodies corporate, the operation of multi-national enterprises and relevant legislation, and a study or analysis under this section may either include or consist of a study or analysis of any development outside the State relating to any of the above matters.
