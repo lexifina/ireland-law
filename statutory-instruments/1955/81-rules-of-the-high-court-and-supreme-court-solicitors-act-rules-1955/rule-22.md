@@ -1,0 +1,3 @@
+Rule 22
+
+22. Every Application to the High Court under sub-paragraph (2) (b) or sub-paragraph (4) of paragraph 15 of the Fifth Schedule to the Act shall be brought by Summary Summons. The Summons shall be in Form 3 in the Appendix of Forms to the Rules of the High Court and Supreme Court, 1926, and shall be entitled in the matter of The act ; and where the Application is brought under sub-paragraph (2) (b), the person having possession or control of the documents to which the Application relates shall be named as Respondent and where the Application is brought under sub-paragraph (4), the Society shall be named as Respondent.
