@@ -1,0 +1,5 @@
+Duty to furnish particulars.
+
+9.—(1) The Minister may require any person to furnish to him within such time as the Minister may require a statement of such particulars as appear necessary to the Minister for the purpose of ascertaining whether or not that person or the firm of which he is partner should be registered under this Act, or an alteration made in the registered particulars.
+
+(2) If from any information so furnished it appears to the Minister that any person ought to be registered under this Act, or an alteration ought to be made in the registered particulars, the Minister may require that person to furnish to the registrar the required particulars within such time as may be allowed by the Minister but, where any default under this Act has been discovered from the information acquired under this section, no proceedings under this Act shall be taken against any person in respect of such default prior to the expiration of the time within which that person is so required to furnish particulars to the registrar.
