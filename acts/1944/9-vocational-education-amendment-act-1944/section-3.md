@@ -1,0 +1,3 @@
+Requisition to supply education in particular subjects.
+
+3.—The powers of the Minister under section 37 (which relates to deficiency in supply of continuation education or technical education) of the Principal Act shall include and be deemed always to have included the power to require a vocational education committee to make such particular provision as is mentioned in the said section for the supply of continuation education or technical education in any subjects which he may think fit to specify and require, and such requisition shall be deemed to have been made under and in accordance with the said section.
