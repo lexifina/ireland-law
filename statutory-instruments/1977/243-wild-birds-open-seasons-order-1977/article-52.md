@@ -1,0 +1,5 @@
+Article 52
+
+52. Rossbehy and Caragh Creeks, in the County of Kerry.
+
+The area in the County of Kerry which is enclosed by an imaginary line commencing from Bench Mark 67.7 in Kilnabrack Lower townland, initially for 3,560 yards in a north-easterly direction, along the public road from Glenbeigh to Killorglin to the public road leading to the shore, then continuing for 2,540 yards initially in a north-westerly direction along the centre of the last-mentioned public road to the point where it ends, then continuing for 840 yards along a line projected from the last-mentioned point to the high water mark at Black Point, then continuing along a line from the high water mark at Black Point to the high water mark at Rossbehy Point 1,770 yards distant, then continuing from Rossbehy Point along the high water mark for 5,400 yards, initially in a westerly and then in a southerly direction, then leaving the said mark at that point and finally proceeding along the public road first-mentioned for 2,620 yards in an easterly direction and via Behv Bridge to the Bench Mark 67.7 first-mentioned.

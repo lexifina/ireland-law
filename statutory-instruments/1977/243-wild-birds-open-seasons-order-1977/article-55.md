@@ -1,0 +1,7 @@
+Article 55
+
+55. Kilglass and Grange Loughs in the County of Roscommon.
+
+The area in the County of Roscommon enclosed by an imaginary line commencing at Bench Mark 153.7 on Carrandoe Bridge in the townland of Rushport, then continuing north-westwards along the public road to the "T" junction 1,180 yards distant, then westwards along the public road and carriageways of Meelick House for 940 yards to Bench Mark 154.6 in Meelick townland, then continuing initially south-westwards along the public road at that point for 2,050 yards to the public road from Drumsna to Ballygarden, then continuing southwards along the last-mentioned road for 6,760 yards to the townland boundary between Rattinagh and Toberpatrick townlands, then continuing eastwards for 1,210 yards along the said townland boundary to the townland boundary between Drumagissaun townland and Toberpatrick townland, then continuing south-eastwards along the last-mentioned townland boundary for 540 yards to the centre of the Mountain River, then continuing north-westwards along the said centre for 760 yards to where it meets the townland boundary between Clooneen (Blakeny) and Ballymartin townlands, then continuing eastwards for 590 yards along the last-mentioned townland boundary to the shore of Kilglass Lough, then continuing initially southwards, along the shore of Kilglass Lough, the western side of the Carrigeen Cut and the shore of Grange Lough to the said Bench Mark 153.7.
+
+PART II.

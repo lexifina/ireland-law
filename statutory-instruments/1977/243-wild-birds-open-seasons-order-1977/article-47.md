@@ -1,0 +1,5 @@
+Article 47
+
+47. Derrycunnihy and Gallavally in the County of Kerry.
+
+The area in the County of Kerry enclosed by an imaginary line commencing from the point where the Gearhameen River enters Upper Lake, Killarney, then continuing initially in a south-easterly direction along the high water mark on the southern shore of Upper Lake to the point where that shore meets the public road from Killarney to Kenmare, then continuing initially in a southerly direction along the said public road to the townland boundary between Looscaunagh and Eirk townland and Foardal townland and which is 7,270 yards distant, then leaving the road at that point and continuing for 1,210 yards along the last-mentioned townland boundary to where it meets the centre of the Owengeagh River, then continuing for 4,400 yards in a north-westerly direction along the said centre to the point where it meets the centre of the Gearhameen River, then continuing for 2,300 yards in an easterly direction along the centre of the Gearhameen River to the point first mentioned.
