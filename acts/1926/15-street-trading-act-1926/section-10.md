@@ -1,0 +1,7 @@
+Further powers of Gárda Síochána.
+
+10.—(1) Any member of the Gárda Síochána may without warrant arrest any person whom he believes to be selling or offering, exposing, or carrying for sale any goods in contravention of this Act or any regulation or bye-law made thereunder and may also without warrant seize and remove all goods which such person is at the time of his arrest selling or offering, exposing, or carrying for sale.
+
+(2) If any member of the Gárda Síochána finds any person engaged in stall-trading in any description of goods in any street or at any time in or at which stall-trading in that description of goods is prohibited by bye-laws or regulations made under this Act he may (in addition to or in lieu of exercising any other powers conferred on him by this Act) require such person to remove himself and his goods from that particular street or from the streets generally and if such requisition is not complied with may without warrant arrest such person and seize and remove all goods which such person is then selling or offering, exposing, or carrying for sale.
+
+(3) All references in this section to goods or to goods being sold, offered, exposed, or carried for sale shall be deemed to include the receptacle, vehicle, or stand in or on which the goods are exposed or carried and all utensils, boxes, and other articles (including money) which are on or in such receptacle, vehicle, or stand for the purposes of the trading and any draught animal kept for the purpose of moving the vehicle or stand.
