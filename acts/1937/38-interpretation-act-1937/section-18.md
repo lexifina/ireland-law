@@ -1,0 +1,3 @@
+Service by post.
+
+18.—Where an Act of the Oireachtas or an instrument made wholly or partly under any such Act authorises or requires a document to be served by post, whether the word “serve” or any of the words “give”, “deliver”, or “send”, or any other word is used, then, unless the contrary intention appears, the service of such document may be effected by properly addressing, prepaying (where requisite), and posting a letter containing such document, and in such case the service of such document shall, unless the contrary is proved, be deemed to have been effected at the time at which such letter would be delivered in the ordinary course of post.
