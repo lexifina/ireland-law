@@ -1,0 +1,1 @@
+I, John P. Wilson, Minister for Education, in exercise of the powers conferred on me by section 17 (2) of the National Institute for Higher Education, Dublin, Act, 1980 (No. 30 of 1980), hereby make the following order:
