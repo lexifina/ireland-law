@@ -1,0 +1,3 @@
+Extension of Town Tenants (Ireland) Act, 1906.
+
+11.—Where a building in the City of Dublin which was destroyed or damaged in the recent disturbances is held under a lease for a term of years of which the residue unexpired on the date of such destruction or damage was more than five and less than thirty-one years, section five of the Town Tenants (Ireland) Act, 1906 (which relates to compensation for unreasonable disturbance), shall apply to the building when re-built or restored in like manner as it applies to a building held under a lease made after the passing of that Act for a term of less than thirty-one years.

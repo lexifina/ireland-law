@@ -1,0 +1,3 @@
+Temporary exemption from rates of injured premises.
+
+9.—No building or house destroyed, nor the land on which the same stood, shall be assessed or liable to any local rate before the 31st day of March, 1926, except such rates as shall be imposed upon temporary buildings and it shall be lawful for the Commissioners of Valuation upon receiving notice of the erection of a temporary building upon any such land, to make and forward to the Corporation a valuation of such temporary building, and such land and the temporary building shall be assessed to the current rates in accordance with such valuation so long as such temporary building continues to exist upon such land.
