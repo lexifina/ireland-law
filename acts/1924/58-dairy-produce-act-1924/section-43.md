@@ -1,0 +1,13 @@
+Application of word “creamery” to butter.
+
+43.—(1) From and after the commencement of Part III. of this Act, the word “creamery,” if applied to any butter sold or offered, exposed, or consigned for sale in or exported from Saorstát Eireann, shall (subject to the exception hereinafter contained) be taken to be a trade description signifying that the butter has been manufactured in premises registered in the register of creameries or comprised in a subsisting licence granted under this Act for the use of the word “creamery” and has not been subsequently blended or re-worked.
+
+(2) The application of the word “creamery” or any colourable imitation of the word “creamery” to any butter which has not been manufactured in premises registered in the register of creameries or comprised in a subsisting licence granted under this Act for the use of the word “creamery” or which, having been manufactured in such premises, has been subsequently blended or re-worked or has been brought on to any premises (other than premises registered or required to be registered solely by virtue of sub-section (4) of section 7 of the Sale of Food and Drugs Act, 1899) registered or required to be registered under the Sale of Food and Drugs Acts, 1875 to 1907, or any premises used for the manufacture or treatment of dairy produce for sale which are not registered in the register of creameries or comprised in a subsisting licence granted under this Act for the use of the word “creamery” shall (subject to the exception hereinafter contained) be taken to be a false trade description of such butter within the meaning of the Merchandise Marks Acts, 1887 to 1911, and the provisions of those Acts, including the penal provisions, shall apply accordingly.
+
+(3) Nothing in this section shall apply to or prevent the application to butter imported into Saorstát Eireann of the word “creamery” in conjunction with a word or words clearly indicating that the butter was imported into or was not manufactured in Saorstát Eireann: Provided that this sub-section shall not apply to butter which is imported directly or indirectly from any place outside Saorstát Eireann and is subsequently exported from Saorstát Eireann.
+
+(4) For the purposes of this section the word “creamery” shall be deemed to be applied if it is applied within the meaning of the Merchandise Marks Acts, 1887 to 1911.
+
+(5) This section shall come into operation at a date to be prescribed.
+
+(6) This section shall not apply to any butter contained in a package consigned and forwarded through Saorstát Eireann from any place outside Saorstát Eireann to any other such place but not otherwise dealt with in Saorstát Eireann.
