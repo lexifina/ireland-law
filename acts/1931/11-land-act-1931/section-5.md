@@ -1,0 +1,5 @@
+Proceeds of the sale of certain lands of the late Congested Districts Board.
+
+5.—(1) All moneys, funds, and land bonds which are now in or shall hereafter come to the hands of the Land Commission and which either represent the proceeds of the sale by the late Congested Districts Board or the Land Commission of land to which this section applies or represent the redemption price of head-rents or other superior interests acquired by the said Board shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance shall direct.
+
+(2) This section applies to land which was purchased by the late Congested Districts Board out of the funds at its disposal or was acquired by that Board otherwise than by means of advances from the Irish land purchase fund and which was sold by the said Board as an ordinary vendor either by means of the Land Purchase Acts (whether such sale was completed before the 9th day of August 1923 or was subsequently completed as a purchase agreement pending on that date) or otherwise than by means of the said Acts.

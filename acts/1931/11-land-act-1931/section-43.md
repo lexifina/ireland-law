@@ -1,0 +1,3 @@
+Compensation for disturbance on resumption of holdings.
+
+43.—Where, in the opinion of the Court, it would be inequitable that the Land Commission should resume a holding or part of a holding on payment to the tenant of compensation fixed on the basis on which resumption prices have heretofore been fixed, the Court in fixing the compensation in respect of such resumption may include therein compensation to the tenant for disturbance, and also may have regard not only to the value of the land to be resumed, but also to the damage, if any, which will be sustained by the tenant by reason of the resumption of the lands as affecting his user of other lands or otherwise causing injury to such other lands.

@@ -1,0 +1,7 @@
+Vesting orders in respect of holdings.
+
+28.—(1) The Land Commission may at any time publish in the prescribed manner a vesting order vesting any holding or part of a holding which was comprised or could under this Part of this Act have been comprised in a list of congested districts holdings or a list of holdings on untenanted land in the person named in such order subject to the purchase annuity and upon the terms and conditions stated in such order.
+
+(2) Every person named in a vesting order made under this section as the tenant of a holding or part of a holding thereby vested shall be deemed to have entered on the date of such vesting order into a purchase agreement for the purchase of such holding or such part of such holding subject to the purchase annuity and upon the terms and conditions stated in such vesting order.
+
+(3) The Land Commission shall, in respect of every vesting order made under this section, afford to all parties concerned an opportunity for making objections to such order and the Land Commissioners other than the Judicial Commissioner shall consider and decide every such objection duly made and there shall be a right of appeal to the Judicial Commissioner from every decision of the other Commissioners on any such objection and the decision of the Judicial Commissioner on any such appeal shall be final, save that an appeal shall lie on questions of law only from such decision of the Judicial Commissioner to the Supreme Court.

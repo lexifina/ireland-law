@@ -1,0 +1,5 @@
+Holdings alleged to be wrongly omitted from a list of vested holdings.
+
+14.—(1) A tenant who claims to be entitled to the benefits of section 24 of the Land Act, 1923, as amended and extended by the Land Act, 1927, and alleges that his holding has not been included in the particulars furnished by his landlord under sub-section (1) of section 40 of the Land Act, 1923, to the Land Commission and is not included in any published list of vested holdings, may apply in the prescribed manner to the Land Commission for an order requiring the said landlord to furnish to the Land Commission in accordance with the said sub-section (1) particulars of such holding.
+
+(2) Every application under this section shall be heard and decided by the Land Commissioners other than the Judicial Commissioner and there shall be a right of appeal to the Judicial Commissioner from the decision of the other Land Commissioners on any such application and the decision of the Judicial Commissioner on such appeal shall be final, save that an appeal shall lie on questions of law only from such decision of the Judicial Commissioner to the Supreme Court.

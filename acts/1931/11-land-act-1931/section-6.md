@@ -1,0 +1,3 @@
+Liability of county boroughs in respect of the guarantee fund.
+
+6.—Notwithstanding anything contained in sub-section (3) of section 22 of the Purchase of Land (Ireland) Act, 1891, the share of a county borough in the local taxation grants shall be available (in accordance with that Act and regulations made thereunder and in like manner as if such county borough were a county) for the purposes of the guarantee fund in respect of land which has since the passing of that Act or shall hereafter become included within such county borough and is now or shall hereafter be subject to a land purchase annuity.

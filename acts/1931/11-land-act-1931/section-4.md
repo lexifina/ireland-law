@@ -1,0 +1,7 @@
+Annuities on the resale of land purchased by the late Congested Districts Board.
+
+4.—(1) Every advance made by the Land Commission after the passing of this Act on the resale of land (other than land to which the next following section of this Act applies) which was purchased by the late Congested Districts Board out of the funds at its disposal shall be repayable by a purchase annuity calculated at the rate of three and one-quarter per cent. and payable at such times as the Minister for Finance shall prescribe.
+
+(2) Where before the passing of this Act an advance was made by the late Congested Districts Board or by the Land Commission on the resale of land which was purchased by the said Board out of the funds at its disposal, the Land Commission may, whenever they think it expedient so to do, cause an account to be taken of the sum then outstanding and unpaid in respect of such advance and may charge such land with a purchase annuity calculated at the rate of three and one-quarter per cent, per annum for the repayment of the sum so outstanding in lieu and satisfaction of the annuity theretofore payable in respect of such advance.
+
+(3) All moneys collected in respect of purchase annuities created under this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance shall appoint by regulations made by him under this Act.

@@ -1,0 +1,5 @@
+Mutual rights of tenant and his subtenants.
+
+17.—(1) Where a subtenant on a holding is deemed under this Act to be the tenant of the portion of such holding in his separate occupation and to have entered into a subsequent purchase agreement in respect of such portion of such holding, the tenant of such holding shall be entitled to receive and recover from such subtenant all rent (as reduced under section 23 of the Land Act, 1923) and arrears of rent (as so reduced) accrued due by such subtenant to such tenant up to and including the gale day next before the date on which such subtenant is so deemed to have entered into such subsequent purchase agreement and also an apportioned gale of such rent for the period between the said gale day and the said date.
+
+(2) A tenant entitled to receive and recover rent under this section from a subtenant shall have for the recovery of all rent and arrears of rent which he is so entitled to receive the same remedies (other than ejectment for non-payment of rent) as he would have had if this Act had not been passed.
