@@ -1,0 +1,3 @@
+Preservation of certain continuing contracts and adaptation of references to Board.
+
+23.—Every bond, guarantee or other security of a continuing nature made or given by or on behalf of the Board to any person or given by any person to and accepted by or on behalf of the Board and every contract or agreement made between the Board and any other person and in force but not fully executed and completed immediately before the establishment day shall continue in force on or after that day and shall be construed and have effect as if the name of the Institute was substituted therein for that of the Board.
