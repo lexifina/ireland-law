@@ -1,0 +1,3 @@
+Regulation 7
+
+7. Every Convention certificate shall show by its terms that it was issued by or under the authority of the government of the country in which the ship is registered or that it was issued at the request of that government by the Minister or by or under the authority of the government of any other country to which the Safety Convention applies. Such certificate shall be in the official language or languages of the country in which it was issued and any particulars inserted, whether by handwriting, typescript or otherwise in the blank spaces provided for that purpose, shall be in Roman characters and Arabic figures.
