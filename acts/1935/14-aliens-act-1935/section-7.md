@@ -1,0 +1,5 @@
+Search warrants.
+
+7.—(1) Whenever a Justice of the District Court is satisfied, on the information on oath of an officer of the Gárda Síochána not below the rank of superintendent, that it is reasonably necessary, for the purposes of the enforcement of an aliens order or an order made under an aliens order, that any particular land, building, premises, or other place should be searched by members of the Gárda Síochána, such Justice may issue to such officer such search warrant as is mentioned in this section.
+
+(2) A search warrant issued by a Justice of the District Court under this section shall be expressed and shall operate to authorise a named member of the Gárda Síochána not below the rank of inspector accompanied by such other members of the Gárda Síochána as he shall think proper, at any time within forty-eight hours after the issue of such search warrant, and if needs be by force, to enter and search the land, building, premises, or place specified in such search warrant and to search and interrogate and to arrest all or any persons or person found in such place.
