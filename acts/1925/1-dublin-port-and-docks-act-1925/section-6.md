@@ -1,0 +1,3 @@
+Continuance in office, retirement, and election of certain members of the Board.
+
+6.—The places of the members of the Board who went out of office on the second Thursday in the month of January, 1925, shall on and after the fourth Thursday in the month of April, 1925, be supplied by the election of a like number of members under sub-section (7) of section 7 of the Principal Act, and all the provisions of the Principal Act as amended by this Act in relation to an election under the said sub-section (7) shall apply to the election aforesaid save that such election shall be held on the Tuesday in the month of April, 1925, immediately preceding the fourth Thursday in that month in lieu of the day appointed by the said sub-section (7).
