@@ -1,0 +1,5 @@
+Final selection of the person to be elected.
+
+17.—(1) As soon as may be after the close of a ruling upon nominations held under this Part of this Act at which a final list of nominations was prepared and signed by the Seanad returning officer, the Seanad returning officer shall send to the Taoiseach the final list of nominations so prepared and signed by him, and thereupon the Taoiseach shall select one of the persons named in such final list of nominations to fill the vacancy in the membership of Seanad Eireann mentioned in the relevant bye-election order and that person shall thereupon be deemed to have been elected to fill the said vacancy.
+
+(2) When a person has been deemed, under the foregoing sub-section of this section, to have been elected to fill the vacancy in the membership of Seanad Eireann mentioned in the relevant bye-election order, the Taoiseach shall cause the Clerk of Seanad Eireann to be informed of the name, address, and description of such person as stated in the final list of nominations and of the fact that such person has been elected to fill the vacancy mentioned in the relevant notice of a vacancy.
