@@ -1,0 +1,3 @@
+Raising money for purposes of road motor services.
+
+9.—A railway company which runs a road motor service under this Act may, by the exercise of all or any of its powers existing at the passing of this Act to raise money by borrowing or by the creation and issue of new stock as additional capital, from time to time raise such moneys as may be necessary for the purpose of providing vehicles, motors, garages, offices, machinery, plant, and equipment for the purposes of such service, and notwithstanding any enactment to the contrary the provision of such vehicles, motors, garages, offices, machinery, plant, or equipment shall be a purpose for which such company may raise money by the exercise of any such power as aforesaid.
