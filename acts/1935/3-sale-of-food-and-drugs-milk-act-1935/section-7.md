@@ -1,0 +1,7 @@
+Disclosure by purveyor of milk of seller's name, etc.
+
+7.—(1) Where a sample of milk is procured under Section 13 of the Principal Act from a purveyor of milk, the person by whom or on whose behalf such sample was procured, may, unless such purveyor is the producer of such milk, serve a notice on such purveyor requiring him to furnish to such person within twenty-four hours after the service of such notice particulars of the following matters, that is to say, the name and address of the seller or consignor from whom such purveyor received such milk, and the time and place of delivery to such purveyor of future consignments of milk from such seller or consignor and the mode of conveying such consignments from such seller or consignor to such purveyor.
+
+(2) If any purveyor of milk upon whom a notice has been served under this section fails, neglects, or refuses within twenty-four hours after such service to furnish the particulars specified in such notice, such purveyor shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds.
+
+(3) A notice under this section may be served by delivering it to the person to whom it is addressed or by sending it by registered post to the person to whom it is addressed at his last known place of abode or at the address registered as his address in any register of milk purveyors kept in pursuance of any enactment by a sanitary authority within the meaning of the Public Health Acts, 1878 to 1931.
