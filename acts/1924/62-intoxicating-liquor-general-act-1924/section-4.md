@@ -1,0 +1,3 @@
+District Justice may order immediate closing of licensed premises.
+
+4.—Whenever a Justice of the District Court sitting for any district outside the Police District of Dublin Metropolis is satisfied on the written application of a Superintendent or an Inspector of the Gárda Síochána that in the interests of the preservation of public peace and order it is expedient that the sale of intoxicating liquor in any town or village should immediately cease, the Justice of the District Court may order the immediate closing for the remainder of that day, or for such shorter period as he may deem adequate, of all premises licensed for the sale of intoxicating liquor in such town or village.

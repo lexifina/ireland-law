@@ -1,0 +1,3 @@
+Sales to young persons for consumption on the premises.
+
+10.—Every licence holder who shall knowingly supply or who shall allow any person to supply any description of intoxicating liquor to a person under the age of eighteen years for consumption by that person on the premises of the licence holder shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first offence, to a penalty not exceeding five pounds, and in the case of any subsequent offence to a penalty not exceeding ten pounds, and in any case the conviction shall be recorded on the licence of the person so convicted.

@@ -1,0 +1,11 @@
+Amendments of Illicit Distillation (Ireland) Act, 1831.
+
+27.—(1) Section 18 of the Illicit Distillation (Ireland) Act, 1831, from the words “and if any officer of excise having entered” to the end of the section, is hereby repealed, and in lieu thereof it is hereby enacted that no action shall lie against any officer of excise or any member of the Gárda Síochána for or in respect of any act, matter, or thing done by him while making any such search as is mentioned in the said section 18, if such act, matter, or thing would have been lawful if done under the authority of a search warrant granted under section 17 of the said Act.
+
+(2) in the construction and application of section 19 of the Illicit Distillation (Ireland) Act, 1831, the expression “room or place” as used in that section shall include and be deemed always to have included any building whatsoever, and any yard, garden, field, bog or other piece of ground, and any cave or other underground place, whether natural or artificial, and any boat, vessel, or other structure on, in, or under water.
+
+(3) Where the holder of a licence for the sale of intoxicating liquor by retail is convicted of an offence against section 22, section 23, or section 24 (which impose penalties for concealing, having possession of, or selling illicitly distilled spirits) of the Illicit Distillation (Ireland) Act, 1831, such licence shall be forfeited, and the holder thereof shall for ever be disqualified for holding a licence for the sale of intoxicating liquor by retail.
+
+(4) Every person convicted of an offence against section 30 (which imposes a penalty of ten pounds on persons giving notice to smugglers of the approach of excise officers) of the Illicit Distillation (Ireland) Act, 1831, shall be liable to a penalty of fifty pounds in lieu of the penalty mentioned in the said section, but such penalty of fifty pounds shall be capable of being mitigated under section 39 of the said Act,
+
+(5) Any person convicted of an offence against the Illicit Distillation (Ireland) Act, 1831, may, in lieu of any penalty imposed by that Act or by this section, be sentenced to imprisonment with hard labour for a term not exceeding, in the case of a first offence, six months, or in the case of any subsequent offence, twelve months.

@@ -1,0 +1,7 @@
+Police may search clubs.
+
+25.—(1) If any officer of the Dublin Metropolitan Police or the Gárda Síochána, not being below the rank of Inspector, is of opinion that there is reasonable ground for supposing that any club registered under the Registration of Clubs (Ireland) Act, 1904, is so managed or carried on as to constitute a ground of objection to the renewal of its certificate under that Act, or that an offence under that Act as amended by this Act has been or is being committed in any such club, or that any excisable liquor is sold or supplied, or kept for sale or supply, on the premises of a club which is not registered under that Act, he may issue an order in writing (in this section called a search order) to any one or more sergeants, constables, or guards under his command to search the premises of such club.
+
+(2) A search order issued under this section shall authorise the sergeants, constables, or guards named therein to enter the club at any time within twenty-four hours after the issuing of the order, and if need be by force, and to inspect the premises of the club, to take the names and addresses of any persons found therein, and to seize any books and papers relating to the business of the club.
+
+(3) In the event of any person or persons found in such premises refusing to give their respective names and addresses when requested by any such sergeant, constable, or guard or giving false names and addresses, such person or persons so doing shall be liable severally on summary conviction to a fine not exceeding ten pounds.

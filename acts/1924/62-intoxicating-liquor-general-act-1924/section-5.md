@@ -1,0 +1,3 @@
+Penalties for opening during prohibited hours.
+
+5.—All penalties for the time being in force under this or any other Act for selling, exposing for sale or purchasing any intoxicating liquor or opening or keeping open any premises for the sale of intoxicating liquor, or being present in or upon any such premises, during any hours or times at which the sale of intoxicating liquor is prohibited by any Act now in force, and all statutory provisions relating to such penalties, are hereby extended and made applicable to the times during which the sale of intoxicating liquor is prohibited by this Part of this Act or by any order made under this Part of this Act.
