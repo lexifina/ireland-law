@@ -1,0 +1,1 @@
+I, DESMOND O'MALLEY, Minister for Industry, Commerce and Tourism, in exercise of the powers conferred on me by Section 44 of the Industrial Research and Standards Act, 1961 , (No. 20 of 1961) as adapted by the Industry, Commerce and Energy (Alteration of Name of Department and Title of Minister) Order, 1980 ( S.I. No. 10 of 1980 ), hereby make the following Order:
