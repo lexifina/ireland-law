@@ -1,0 +1,9 @@
+Appointments by local authorities.
+
+5.—(1) An appointment of a person to fill an office to which this Act applies may, subject to the sanction of the Minister, be made by a local authority without requesting or obtaining a recommendation from the Commissioners under the subsequent provisions of this Act if but only if the appointment is made within three months after such office became vacant or (in the case of an appointment to a new office) was created and the person so appointed is a person who at the time when such office became vacant or was created (as the case may be) either—
+
+(a) held a pensionable office under the said or any other local authority or any two or more local authorities the duties of which related to matters the same as or similar to the matters to which, the duties of the vacant office relate, or
+
+(b) was in receipt of an allowance from the said or any other local authority or any two or more local authorities in respect of his having ceased to hold an office under the said or any other local authority or any two or more local authorities the duties of which related to matters the same as or similar to the matters to which the duties of the vacant office relate.
+
+(2) Whenever an office to which this Act applies becomes vacant or (in the case of a new office) is created the local authority, if satisfied that the circumstances of the case so require, may with the consent of the Minister appoint and without requesting or obtaining a recommendation from the Commissioners under the subsequent provisions of this Act any person to fill such office temporarily, and every person so appointed shall hold office until a person is appointed to such office under the provisions (other than this sub-section) of this Act or the expiration of six months from such office becoming vacant whichever first occurs.
