@@ -1,0 +1,3 @@
+Foreign records and films to be deemed to contravene Act in certain circumstances.
+
+4.—For the purposes of paragraphs (b) and (c) of section 2 (1) of this Act and paragraphs (b) and (c) of section 3 (1) of this Act, a record or film to which an order under section 12 of this Act applies and which is made directly or indirectly from or by means of a performance shall, if the consent of any performer to the making of the record or film was required by the law of the country in which it was made, be deemed to have been made in contravention of the Act if, whether knowingly or not, it was made without the consent so required.
