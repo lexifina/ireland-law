@@ -1,0 +1,3 @@
+Offices not under a local authority, which may be held by pensionable officers.
+
+48.—The holding by an officer of a local body of the office of Clerk to an Old Age Pensions Committee or a National Insurance Committee, or any office under a School Attendance Committee under the Irish Education Act, 1892, or the office of Superintendent Registrar of Births, Deaths and Marriages or the office of Registrar of Marriages, shall not be deemed, for the purpose of this Part of this Act, to deprive him of the status of a pensionable officer, but the salary or emoluments of such office shall not be taken into account in ascertaining the compensation which may be granted to such officer under this Part of this Act.

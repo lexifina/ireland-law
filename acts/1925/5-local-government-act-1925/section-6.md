@@ -1,0 +1,3 @@
+Periodical payments by rural district councils.
+
+6.—Whenever under any enactment passed prior to the passing of this Act the council of a rural district is empowered or directed (as the case may be) to make any periodical payment in respect of any port, fishery, drainage works, burial works, or other similar matter, the council of the county in which such rural district is situate shall be empowered or directed (as the case may require) to make such payment and the amount thereof shall be charged upon the area upon which such amount would have been charged immediately before the passing of this Act.

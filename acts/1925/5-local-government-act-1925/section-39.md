@@ -1,0 +1,3 @@
+Recovery of penalties under Roads Act, 1920.
+
+39.—Notwithstanding any provision to the contrary contained in any enactment relating to the recovery or application of excise penalties, any penalty imposed by the Roads Act, 1920, as amended by section 14 of the Finance Act, 1922, may be recovered and enforced upon an information by any member of the Dublin Metropolitan Police or the Gárda Síochána before a court of summary jurisdiction, and in any such case the court shall have power to mitigate the penalty to such amount as the court may in its discretion think fit, and the council of the county or county borough shall not have power to mitigate the penalty.

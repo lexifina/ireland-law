@@ -1,0 +1,3 @@
+Application of adoptive Acts in portions of county health districts.
+
+16.—Where immediately before the appointed day the provisions of any statute or portion of a statute are in force in a rural district or part of a rural district by virtue of an order or resolution of the council of that rural district adopting such provisions, such provisions shall after the appointed day continue to be in force in the same area but subject and without prejudice to any recision, alteration or extension of the adoption of those provisions duly made by a competent authority after the appointed day, and the expenses of the administration of such statute or portion of a statute in such area shall be charged on such area.

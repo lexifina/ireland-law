@@ -1,0 +1,7 @@
+Acquisition of land by local authorities.
+
+68.—(1) Any provisional order made by the Minister under the provisions of the Public Health (Ireland) Acts, 1878 to 1919, or of section 10 of the Local Government (Ireland) Act, 1898, after the holding of such a local inquiry as is mentioned in sub-section (4) of section 203 of the Public Health (Ireland) Act, 1878, empowering a local authority to acquire land or other property or rights otherwise than by agreement, may be confirmed by the Minister or the Circuit Court in accordance with the rules set out in the Sixth Schedule to this Act.
+
+(2) Not less than one week before confirming an order under this section the Minister shall cause notice of his intention to confirm such order to be published in a newspaper circulating in the district where the land or property sought to be acquired or over or in relation to which rights are sought to be acquired is situate.
+
+(3) Upon any such confirmation by the Minister or the Circuit Court, the Order, and if amended, as so amended, shall become final, and have the effect of an Act of the Oireachtas, and (subject in the case of a confirmation by the Minister to proof that the notice required by this section was duly published) the confirmation by the Minister or the Circuit Court shall be conclusive evidence that the requirements of this Act have been complied with and that the order has been duly made and is within the powers of the Public Health (Ireland) Acts, 1878 to 1919, or the Local Government (Ireland) Act, 1898, as the case may be.

@@ -1,0 +1,7 @@
+Responsibilities of members and officers of local authorities.
+
+61.—(1) In this section the expression “responsible officer of a local authority” means in relation to any meeting of such local authority, the secretary, clerk, resident medical superintendent, or other chief executive officer of such local authority if he is present at such meeting, or in case such secretary, clerk, superintendent, or chief executive officer is not present at such meeting, any other officer of such local authority acting in his stead at such meeting.
+
+(2) Whenever a proposal is made at a meeting of a local authority to do any act, matter, or thing in consequence of which an illegal payment is to be made out of the funds of the local authority, or a deficiency or loss is likely to result in or to such funds, it shall be the duty of the responsible officer of the local authority to make objection to the doing of such act, matter, or thing, and to state the grounds of such objection which objection and the grounds thereof, and, if a decision is taken on such proposal, the names of the members present and voting for and against such decision and abstaining from voting on such decision, shall be recorded on the minutes of such meeting.
+
+(3) Sub-section (1) of section 20 of the Local Government (Ireland) Act, 1902, shall be amended by the substitution therein of the words “any member or officer of such public body” for the words “any person accounting.”

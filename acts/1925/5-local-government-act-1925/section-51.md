@@ -1,0 +1,5 @@
+Officers of local bodies appointed to civil service.
+
+51.—(1) This Part of this Act shall apply to any officer of a local body with not less than ten years' service who is or was after the 6th day of December, 1922, appointed to a permanent situation in the Civil Service of the Government of Saorstát Eireann, the duties of which relate to the same matters as the duties of his office under such local body, and who thereupon resigns or resigned such office, as if such officer had resigned such office after attaining the age of sixty-five years and having at least twenty years' service; but any allowance granted to such an officer by virtue of this section shall not be paid unless and until such officer is removed from the said Civil Service for a cause other than misconduct or incapacity or resigns from the said Civil Service with the consent of the Minister for Finance.
+
+(2) The powers of a local body to grant an allowance by virtue of this section to an officer who resigned his office before the passing of this Act may be exercised at any time not more than three months from the passing of this Act.

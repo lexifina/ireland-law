@@ -1,0 +1,3 @@
+Meeting of local authorities abandoned for want of quorum.
+
+64.—Whenever a meeting of a local authority is abandoned owing to failure to obtain a quorum, the names of the members attending at the time and place appointed for such meeting shall be recorded forthwith, and for the purposes of any enactment relating to disqualification for membership of a local authority and for the purposes of section 63 of this Act and of the rules contained in the Fifth Schedule to this Act, a meeting of such local authority shall be deemed to have been held at such time and place, and the members whose names are so recorded shall be deemed to have attended such meeting.
