@@ -1,0 +1,5 @@
+S.I. No. 28 of 1969.
+
+ROAD TRAFFIC (SPEED LIMITS) (COUNTY BOROUGH OF LIMERICK AND COUNTY OF LIMERICK) (AMENDMENT) REGULATIONS, 1969.
+
+The Minister for Local Government in exercise of the powers conferred on him by sections 5 , 45 and 46 of the Road Traffic Act, 1961 (No. 24 of 1961), amended as regards the said section 46 by section 25 of the Road Traffic Act, 1968 (No. 25 of 1968) hereby makes the following Regulations : —
