@@ -1,0 +1,3 @@
+Provision as respects non-application of 1974 Convention by Article 2 (2) thereof.
+
+21.—For the purposes of paragraph 2 of Article 2 of the 1974 Convention, provisions of such an international convention as is mentioned in that paragraph which, apart from this section, do not have mandatory application to carriage by sea shall be treated as having mandatory application to carriage by sea if it is stated in the contract of carriage for the carriage in question that those provisions are to apply in connection with the carriage.
