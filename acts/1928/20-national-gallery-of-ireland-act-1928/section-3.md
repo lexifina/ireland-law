@@ -1,0 +1,3 @@
+Loans in Saorstát Eireann of pictures from the National Gallery.
+
+3.—Where a public exhibition of pictures or works of art is intended to be held in Saorstát Eireann under the management and control of a public or local authority or of the governing body of a university, college, or other educational institution or of an institution or association founded and maintained for the promotion of art, science, or literature, the Governors and Guardians may at their discretion lend to such authority, body, institution, or association for inclusion in such exhibition such and so many of the pictures belonging to them in the National Gallery as they think fit so to lend.
