@@ -1,0 +1,9 @@
+Duty on sugar confectionery.
+
+15.—(1) A customs duty at the rate of three and three-fifths pence on the pound shall be charged, levied, and paid on all sugar confectionery imported into Saorstát Eireann on or after the 26th day of April, 1924, in addition to any duty which may be chargeable in respect of any spirits contained in such sugar confectionery but in lieu of any duty which might otherwise be chargeable on any other ingredient contained in such sugar confectionery.
+
+(2) In the case of fruit (not liable to duty as fruit) in syrup, containing not more than thirty-three and one-third per cent. of sweetening matter and imported in sealed tins or cans, the duty under this section shall be charged and levied at the reduced rate of one and one-fifth pence on the pound in lieu of the full rate of three and three-fifths pence.
+
+(3) In this section the expression “sugar confectionery” means confectionery made from or containing sugar or other sweetening matter and not containing cocoa or saccharin, and includes breads, biscuits, cakes, cake mixtures, puddings and powders (other than medicinal powders) sweetened with sugar or other sweetening matter except saccharin, and not containing cocoa, and also sweetmeats, caramel, jams, marmalades, and jellies not containing cocoa or saccharin, and also peels and fruits candied, crystallised or otherwise preserved with sugar or any other sweetening matter except saccharin, and not containing cocoa.
+
+(4) The provisions of section 8 of the Finance Act, 1919, shall apply to the duty mentioned in this section with the substitution of the expression “Saorstát Eireann ” for the expression “Great Britain and Ireland,” and as though sugar confectionery as defined in this section were included in the Second Schedule to that Act in the list of goods to which five-sixths of the full rate is made applicable as a preferential rate.

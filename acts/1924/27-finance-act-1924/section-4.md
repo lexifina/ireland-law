@@ -1,0 +1,3 @@
+Method of charging cost of living bonus.
+
+4.—For the purposes of any assessment to income tax for any year which is made on or after, or has not become final and conclusive before, the 13th day of June, 1924, or of any deduction on account of income tax for any year, any increase of or addition to any salary, remuneration, pension, annuity, or stipend by way of war bonus, and any other like temporary increase or addition granted in order to meet the rise in the cost of living, shall be, and shall be deemed always to have been, chargeable to tax as salary, remuneration, pension, annuity, or stipend, as the case may be, and not as perquisites.

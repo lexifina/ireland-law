@@ -1,0 +1,11 @@
+Remuneration of persons entrusted with the payment of interest, etc.
+
+6.—(1) Where a person entrusted with the payment of any interest, dividends, or other annual payments payable out of any public revenue other than that of Saorstát Eireann or in respect of the stocks, funds, shares, or securities of any foreign company, society, adventure, or concern complies with the conditions prescribed by the Revenue Commissioners under sub-section (2) of section 10 of the Finance Act, 1923 (No. 21 of 1923), such person shall be entitled to such remuneration as is provided for by Rule 5 of the Rules applicable to Schedule C of the Income Tax Act, 1918, as to interest, etc., with the payment of which persons other than the Bank of England, the Bank of Ireland, and the National Debt Commissioners are entrusted.
+
+(2) Rule 7 of the Miscellaneous Rules applicable to Schedule D of the Income Tax Act, 1918, shall at all times hereafter be read as if at the time of the enactment of the said Rule 7 the foregoing sub-section had been enacted.
+
+(3) Notwithstanding anything to the contrary contained in any enactment, the Bank of Ireland shall be deemed to be a person entrusted with the payment of dividends within the meaning of the Rules applicable to Schedule C of the Income Tax Act, 1918, as to interest, etc., with the payment of which persons other than the Bank of England, the Bank of Ireland, and the National Debt Commissioners are entrusted, and, where the Bank of Ireland does all things required by those Rules to be done by a person entrusted with the payment of dividends, remuneration shall be payable to the Bank of Ireland in accordance with the provisions of Rule 5 of the said Rules.
+
+(4) Where the Bank of Ireland does all such things as are necessary to enable the tax to be assessed and paid in respect of British Government Stocks and India Stocks inscribed in its books in Dublin, the Bank shall receive as remuneration an allowance to be calculated by reference to the amount of dividends paid in respect of such Stocks from which tax is deducted and to be fixed by the Minister for Finance.
+
+(5) This section shall be deemed to have come into force and had effect as on and from the commencement of the Finance Act, 1923 (No. 21 of 1923).
