@@ -1,0 +1,5 @@
+Amendment of section 99 of the Courts of Justice Act, 1924.
+
+3.—(1) So much of section 99 of the Courts of Justice Act, 1924 (No. 10 of 1924), as require the declaration prescribed by that section to be made and subscribed by the Chief Justice in the presence of the Governor-General is hereby repealed as from the passing of the Principal Act, and in lieu thereof it is hereby enacted that, from and after the passing of the Principal Act, the said declaration shall be made and subscribed and shall be deemed as from such passing to have been authorised and required to be made and subscribed by the Chief Justice in open court in the presence of two or more of the ordinary judges of the Supreme Court.
+
+(2) The words “in the manner aforesaid” contained in the last paragraph of the said section 99 shall, in relation to the Chief Justice, be construed and have effect and be deemed to have had effect, as from the passing of the Principal Act, as referring to the manner prescribed by the foregoing sub-section of this section.
