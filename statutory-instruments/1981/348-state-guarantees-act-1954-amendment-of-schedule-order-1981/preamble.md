@@ -1,0 +1,1 @@
+The Government, in exercise of the powers conferred on them by section 9 of the State Guarantees Act, 1954 (No. 9 of 1954), hereby make the following Order with respect to which, pursuant to that section, a draft has been laid before each House of the Oireachtas and a resolution approving of the draft has been passed by each such House:
