@@ -1,0 +1,1 @@
+I, GERALD BOLAND, Minister for Justice, in exercise of the powers conferred on me by section 13 of the Police Forces Amalgamation Act, 1925 (No. 7 of 1925), and of every and any other power me in this behalf enabling, hereby make, with the sanction of the Minister for Finance, testified by his official seal affixed hereto, the following Order :
