@@ -1,0 +1,3 @@
+WHEREAS it appears to the Minister for Posts and Telegraphs to be expedient that the provisions of section 7 of the Wireless Telegraphy Act, 1972 (No. 5 of 1972), should, for the purpose of preventing or reducing the risk of interference with wireless telegraphy, apply to the class or description of apparatus for wireless telegraphy specified in the following Order,
+
+NOW I, PATRICK M. COONEY, Minister for Posts and Telegraphs, in exercise of the powers conferred on me by section 7 of the Wireless Telegraphy Act, 1972 (No. 5 of 1972), and with the consent of the Minister for Industry and Energy hereby order as follows:
