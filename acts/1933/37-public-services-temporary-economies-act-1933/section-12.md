@@ -1,0 +1,7 @@
+Deductions from salaries consequential on deductions from grants.
+
+12.—(1) Whenever a deduction is made under any of the foregoing provisions of this Part of this Act from a grant, any board, authority, committee, or other body receiving (directly or indirectly) such grant or part thereof may make, from the salaries earned and payable in the current financial year by and to persons in the employment of such body, such deductions as such body shall, with the approval of the Minister, think proper having regard to the amount of the deduction so made from such grant or such part thereof, the proportion of such grant or such part thereof ordinarily applied towards the payment of such salaries, and to the other circumstances of the case.
+
+(2) Before giving an approval under the foregoing sub-section of this section, the Minister shall consult with every (if any) other Minister who appears to him to be concerned.
+
+(3) Where a board, authority, committee, or other body (hereinafter referred to as the first-mentioned body) receives (directly or indirectly) any such grant as is mentioned in the first sub-section of this section or part of any such grant, and another body (hereinafter referred to as the second-mentioned body) is entitled in law to demand and receive the whole or any portion of its expenses from the first-mentioned body, the second-mentioned body shall for the purposes of this section be deemed to be a body receiving a part of such grant.
