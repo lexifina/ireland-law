@@ -1,0 +1,5 @@
+Penalty for fraudulent use of licences, etc.
+
+18.—(1) Every person who fraudulently alters or uses or permits the fraudulent alteration or use of any licence, duplicate licence, or permit granted under this Act shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds or, at the option of the court, to imprisonment for a term not exceeding six months or to both such imprisonment and fine.
+
+(2) Every person who without lawful authority alters or defaces or permits the alteration or defacement of any mark placed by an inspector on any bull under this Act or who without lawful authority places on any bull any mark the same as a mark prescribed under this Act or so closely resembling any such mark as to be calculated to deceive, shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds or, at the option of the court, to imprisonment for a term not exceeding three months, or to both such imprisonment and such fine.
