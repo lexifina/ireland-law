@@ -1,0 +1,9 @@
+Reclassification of small companies and medium-sized companies.
+
+9.—(1) Where a private company has qualified to be treated as a small company under subsection 8 of section 8 of this Act, it shall continue to be so qualified, unless, in the latest financial year of the company and the financial year of the company immediately preceding that year, it does not satisfy at least two of the conditions set out in subsection (2) of the said section 8 and if, during each of those two years, it does not satisfy at least two of those conditions, it shall, in respect of its latest financial year, cease to be so qualified.
+
+(2) Where a private company has qualified to be treated as a medium-sized company under subsection (1) of section 8 of this Act, it shall continue to be so qualified unless, in the latest financial year of the company and the financial year of the company immediately preceding that year, it does not satisfy at least two of the conditions set out in subsection (3) of the said section 8 for treatment as a medium-sized company and, if during each of those two years, it does not satisfy at least two of those conditions, it shall, in respect of its latest financial year, cease to be so qualified.
+
+(3) A company which qualified to be treated as a medium-sized company under subsection (2) of this section in the financial year immediately preceding its latest financial year shall qualify to be treated as a small company for the purposes of this Act in respect of its latest financial year if, in those two years, it satisfies at least two of the conditions set out in section 8 (2) of this Act.
+
+(4) Where a private company ceases to be qualified as specified in subsection (1) or (2) of this section, section 8 of this Act shall apply in respect of the company as if it had never previously qualified to be treated as a small company or a medium-sized company under that section.
