@@ -1,0 +1,177 @@
+Regulation 12
+
+12. The Presidential Elections (Local Returning Officers' Charges and Accounts) Regulations, 1966 ( S.I. No. 97 of 1966 ), and the Presidential Elections (Local Returning Officers' Charges and Accounts) Regulations 1973 ( S.I. No. 115 of 1973 ), are hereby revoked.
+
+SCHEDULE.
+
+PART I.
+
+CONTESTED PRESIDENTIAL ELECTIONS.
+
+(A)—Fees to local returning officers
+
+(1) For performing all the duties which a local returning officer is required by law to perform in connection with a presidential election (other than duties in connection with the matters specially provided for at paragraphs (2) and (3) below):—
+
+For every complete 100 of the electors—
+
+£
+
+up to 150,000 electors
+
+0·50
+
+exceeding 150,000 electors
+
+0·15
+
+Provided that where a person is a local returning officer for more than one constituency or for portions of more than one constituency, all the constituencies or portions of constituencies for which he is local returning officer shall, for the purposes of the foregoing provisions of this paragraph, be deemed to be a single constituency.
+
+(2) For despatch and receipt of ballot papers of postal voters;—
+
+For every complete 100 postal voters or fraction thereof exceeding
+
+one-half on the register
+
+5·10
+
+subject to a minimum of
+
+8·50
+
+(3) For all duties appertaining to the counting of the votes in the constituency:—
+
+Up to 50,000 electors
+
+34·00
+
+For each complete 5,000 electors over 50,000
+
+1·70
+
+(4) In the event of a recount of votes under Rule 28 (3) of the First Schedule to the Presidential Elections Act, 1937 , there shall be paid in respect thereof such sum as may be authorised by the Minister for Finance based on (a) the time spent thereon and (b) the remuneration for the original count. (These fees cover any payments made to a deputy local returning officer for the discharge of any duties of a local returning officer which may be assigned to him.)
+
+(B)—Disbursements of local returning officers
+
+£
+
+(1) Taking the poll
+
+(a) each presiding officer—to cover all expenses, other than travelling expenses and subsistence allowance authorised in this scale
+
+17·00
+
+Provided that where the number of polling stations in a polling place exceeds four, £20·40 may be paid in the case of such one (and one only) of the presiding officers as may be designated by the local returning officer.
+
+(b) A local returning officer may appoint one emergency presiding officer in a constituency who may be paid a retaining fee of £7·65 to be increased to the full appropriate fee if he is necessarily employed as a presiding officer, and in the case of a constituency, if it consists of parts situate in two counties, two emergency presiding officers may be so appointed and paid and if it consists of parts situate in three counties, three emergency presiding officers may be so appointed and paid.
+
+(c) one poll clerk for each presiding officer
+
+8·90
+
+(2) Counting the Votes
+
+Up to 30,000 electors
+
+255·00
+
+For each complete 1,000 electors over 30,000
+
+2·80
+
+(The total sum shall be divided at the discretion of the local returning officer between all competent persons appointed to assist him in counting the votes.)
+
+(3) Miscellaneous
+
+(a) clerical, legal and other assistance employed by the local returning officer for the purpose of the election—excluding any services for which payment is otherwise authorised by this scale—and for all expenses of the local returning officer (including, in particular, expenses incurred in complying with section 44 of the Electoral Act, 1963 ,) not so authorised—
+
+For every complete 100 electors or fraction thereof exceeding one half in the constituency—
+
+Up to 20,000 electors
+
+1·45
+
+Exceeding 20,000 electors but not exceeding 50,000 electors
+
+1·25
+
+Exceeding 50,000 electors
+
+1·20
+
+together with, in respect of assistance as aforesaid employed by the local returning officer, £85 provided that where a local returning officer acts for more than one constituency, the additional sum payable in respect of each constituency after the first shall not exceed £60.
+
+(b) for the assistance of a special legal assessor employed by the local returning officer with the prior consent of the Minister for Local Government
+
+Such sum as may be authorised by the Minister for Finance
+
+(c) remuneration of persons engaged in the despatch and receipt of postal voters' ballot papers—
+
+For every complete 100 postal voters, or fraction thereof exceeding one-half, on the register for the constituency
+
+5·10
+
+Subject to a minimum of
+
+8·50
+
+(d) local returning officer's or deputy local returning officer's travelling expenses where necessary to make arrangements for the poll or otherwise in connection with the conduct of the election.
+
+First-class railway expenses or, where rail service is not available, actual and necessary cost, with subsistence allowance at the rate of £4·15 a night if necessarily absent from home on account of duty (Mileage expenses shall be calculated as though journeys were taken from the county courthouse of the constituency).
+
+(e) travelling expenses of presiding officers and poll clerks, excluding any expenses incurred in conveying the ballot boxes from the polling station to the place where the votes are counted.
+
+(f ) travelling expenses of clerical or other assistants employed by the local returning officer or deputy local returning officer in connection with the conduct of the election.
+
+Standard-class railway expenses or, where rail service is not available, actual and necessary cost, with subsistence allowance at the rate of £1·35 a night if necessarily detained on account of duty after 10.30 p.m., and £1·90 a night if so detained after 12 midnight; together with, in the case of persons employed more than 15 miles from home who are necessarily detained on duty more than seven hours, subsistence allowance at the rate of £0·95 a day.
+
+(g) conveying of polling screens, ballot boxes, ballot papers, etc., in connection with the election.
+
+Actual railway charges, or where rail service is not available, actual and necessary cost.
+
+(h) printing and publishing notices, etc., required in and about the election.
+
+Cost charged by the Stationery Office, or where printing is arranged for by the returning officer, the actual and necessary cost.
+
+(i) use of any building or room for the purpose of the election.
+
+Actual and necessary expenses arising
+
+(j) fitting up polling stations, including the provision of voting compartments and the hire of necessary furniture.
+
+(k) ballot boxes required to be purchased, hired or repaired.
+
+Cost as charged by the Office of Public Works, or, if the work is done locally, actual and necessary cost.
+
+(l) stamping instruments required to be purchased, hired, altered or repaired.
+
+(m) stationery at polling stations.
+
+Cost as charged by the Stationery Office.
+
+(n) general stationery, postage, telegrans and telephone messages.
+
+Actual and necessary cost.
+
+(4) In the event of a recount of votes under Rule 28 (3) of the First Schedule of the Presidential Elections Act, 1937 , there shall be paid in respect thereof such sum as may be authorised by the Minister for Finance based on (a) the time spent thereon and (b) remuneration for the original count.
+
+PART II.
+
+UNCONTESTED ELECTIONS.
+
+(A)—Fees to local returning officers.
+
+The fee for performing all the duties which a local returning officer is required by law to perform in connection with an uncontested presidential election shall be an amount equal to one quarter of the amount which would be payable to him under paragraph (A) (1) of Part I of this Schedule if the election were a contested election.
+
+(B)—Disbursements of local returning officers.
+
+The disbursements of a local returning officer in connection with an uncontested presidential election, being disbursements made in relation to preliminary work undertaken in anticipation of a contest (including clerical, legal or other assistance), shall be the actual and necessary cost and be subject to the limits specified in paragraph (B) of Part I of this Schedule.
+
+GIVEN under my Official Seal, this 18th day of February, 1977.
+
+RICHIE RYAN,
+
+Minister for Finance.
+
+EXPLANATORY NOTE.
+
+These regulations prescribe the scale of maximum charges for Local Returning Officers in respect of a Presidential Election and the form and manner in which accounts are to be rendered for the purpose of payment of such charges.
