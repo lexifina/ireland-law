@@ -1,0 +1,3 @@
+Article 4
+
+4. Where, immediately before the commencement of this Order, the rates of duty standing specified in the eighth and ninth columns of the Schedule to the Principal Order at any Tariff Code Number differ from the rate of duty standing specified in the seventh column of that Schedule at that Tariff Code Number, duty shall continue to be charged on goods mentioned in the first column of that Schedule at that Tariff Code Number to which subparagraph (d) or (e) of paragraph 5 of the Principal Order applies and which are imported on or after such commencement at the rate standing specified immediately before such commencement in the said eighth or ninth column, as may be appropriate.
