@@ -1,0 +1,3 @@
+Amendment of section 13 of the Principal Act.
+
+3.—Section 13 of the Principal Act is hereby repealed, and in lieu thereof it is hereby enacted that sub-section (3) of section 3 (which authorises borrowing on short term loans by local authorities), and section 6 (which relaxes the limit of borrowing powers of local authorities in certain cases) of the Local Authorities (Financial Provisions) Act, 1921, shall be amended by the substitution of the words “during the continuance of the Local Government (Temporary Provisions) Act, 1923 (No. 9 of 1923)”, for the words “before the first day of April, nineteen hundred and twenty-three”, and for the words “until the first day of April, nineteen hundred and twenty-three”, wherever those words respectively occur.
