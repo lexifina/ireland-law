@@ -1,0 +1,5 @@
+Half salary of assistant under-sheriff to be defrayed by county or borough.
+
+18.—(1) Whenever an assistant under-sheriff is attached under this Part of this Act as assistant to the under-sheriff of any county or county borough, one moiety of the salary of such assistant under-sheriff for the period during which he is so attached shall be defrayed by the council of such county or county borough, and shall, in the case of a county, be paid out of the poor rate as a county-at-large charge, and, in the case of a county borough, out of the rate or fund out of which the general expenses of the council of the county borough are payable or out of any other rate or fund which the Minister for Local Government and Public Health shall on the application of the council approve.
+
+(2) The amount of the salary of an assistant under-sheriff of which one moiety is to be paid by the council of a county or county borough under this section shall be certified to such council by the Minister, whose certificate shall be final, and one moiety of the amount of such certificate shall be paid by such council to the Exchequer.

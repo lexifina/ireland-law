@@ -1,0 +1,11 @@
+Employment of bailiffs by under-sheriffs.
+
+2.—(1) From and after the passing of this Act it shall not be obligatory upon any under-sheriff to employ any bailiff to assist him in the execution of a writ of fieri facias or writ of habere or other writ, or to employ any bailiff appointed under section 5 of the Civil Bill Courts Procedure Amendment Act (Ireland), 1864, to assist him in the execution of his duties under that Act, but in lieu of or in addition to such bailiffs it shall be lawful for any under-sheriff to employ such and so many suitable persons as he shall think fit to assist him in the execution of any or every writ of fieri facias or writ of habere or other writ and of any or every decree or order (whether for debt, possession of lands or otherwise) of a Civil Bill Court.
+
+(2) Any person employed by an under-sheriff under this section may be employed at a weekly or other wage to assist him generally in the execution of such writs and decrees or orders as aforesaid, or may be employed specially to assist the under-sheriff in the execution of a particular writ or decree or order.
+
+(3) Wherever persons are employed by an under-sheriff under this section to assist him generally in the execution of such writs and decrees or orders as aforesaid, the number and rate of remuneration (to be paid out of moneys provided by the Oireachtas) of such persons shall be subject to the approval of the Minister, and the sanction of the Minister for Finance.
+
+(4) Wherever any persons are employed specially by an under-sheriff under this section to assist him in the execution of a particular writ or decree or order, the number and remuneration of such persons shall be in the discretion of the under-sheriff subject to the sanction of the County Court Judge on appeal by the debtor.
+
+(5) Every person employed under this section by an under-sheriff to assist him in the execution of a writ of fieri facias or a writ of habere shall have all the powers which are by law vested in a bailiff employed by an under-sheriff for that purpose, and every person employed under this section by an under-sheriff to assist him in the execution of any decree or order of a Civil Bill Court shall have all the powers which are by law vested in a bailiff appointed under the Civil Bill Courts Procedure Amendment Act (Ireland), 1864.

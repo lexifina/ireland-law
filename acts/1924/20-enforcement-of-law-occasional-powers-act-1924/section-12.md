@@ -1,0 +1,3 @@
+Under-sheriff not to be liable for seizing or selling in excess.
+
+12.—From and after the passing of this Act no action shall lie against and no penalty shall be incurred by any under-sheriff in the absence of fraud, malice or gross negligence for or on account of his having seized or sold under any writ of fieri facias or any decree of a Civil Bill Court more or less goods, animals or other chattels than would or might reasonably be expected to be sufficient to meet the full amount of the debt or sum of money and all costs, fees, charges and expenses leviable by law (including this Act) under or by virtue of such writ or decree.

@@ -1,0 +1,3 @@
+District Justice may order payment of debt by instalments.
+
+21.—If the debtor fails to lodge a statement of means or fails to attend for examination in accordance with an examination order or refuses to submit himself to cross-examination by or on behalf of the creditor, or fails on such examination and cross-examination (if any) to satisfy the District Justice that he is not able to pay the debt either in one sum or by instalments, the District Justice, if so requested by the creditor, shall order the debtor to pay the debt and the costs of the proceedings in the District Court either in one payment or by such instalments and at such times as the District Justice shall in all the circumstances consider reasonable.
