@@ -1,0 +1,3 @@
+Additional liability for using vehicle on which vehicle excise duty is unpaid.
+
+72.—Where a person convicted of an offence under section 71 of this Act or section 13 (1) of the Act of 1920 is, at the time of the offence, as regards the vehicle in respect of which the offence was committed, the relevant person, the court shall, in addition to any penalty which it may impose in respect of the offence, order him to pay the relevant licensing authority a sum equal to the amount or, as may be appropriate, the aggregate of the amounts, of vehicle excise duty which, on the date of the conviction, is, by virtue of section 68 of this Act, recoverable from him by the relevant licensing authority.
