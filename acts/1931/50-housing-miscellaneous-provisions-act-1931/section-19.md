@@ -1,0 +1,7 @@
+Power of local authority to require repair of insanitary house.
+
+19.—(1) Where a local authority, upon consideration of an official representation or a report from any of their officers, or other information in their possession, are satisfied that any dwelling-house which is occupied or is of a type suitable for occupation by persons of the working classes is in any respect unfit for human habitation they shall, unless they are satisfied that it is not capable at a reasonable expense of being rendered so fit, serve upon the person having control of the house a notice requiring him, within such reasonable time, not being less than twenty-one days, as may be specified in the notice, to execute the works specified in the notice and stating that, in the opinion of the local authority, those works will render the house fit for human habitation.
+
+(2) In addition to serving a notice under this section on the person having control of the house, the local authority may at their discretion serve a copy of the notice on any other person having an interest in the house, whether as owner in fee simple, mortgagee, lessee, or otherwise.
+
+(3) In determining for the purposes of this Part of this Act whether a dwelling-house can be rendered fit for human habitation at a reasonable expense, regard shall be had to the estimated cost of the works necessary to render it so fit and the value which it is estimated that the dwelling-house will have when the works are completed.

@@ -1,0 +1,5 @@
+Suspension of operation of section 15 of the Labourers (Ireland) Act, 1883.
+
+56.—(1) The operation of section 15 of the Labourers (Ireland) Act, 1883, shall be suspended until the expiration of a period of five years from the passing of this Act and where any provisional order has been confirmed before the passing of this Act or is confirmed after the passing of this Act but before the expiration of the said period, time shall for the purposes of the said section be reckoned as if the order had been confirmed on the last day of the said period and not previously.
+
+(2) Nothing in this section shall affect any right, obligation or liability acquired, accrued or incurred under the said section 15 of the Labourers (Ireland) Act, 1883, before the passing of this Act, for the enforcement whereof proceedings have been commenced in any court before the first day of October, 1931, and are pending at the passing of this Act and any such proceedings may be continued as if this Act had not been passed.

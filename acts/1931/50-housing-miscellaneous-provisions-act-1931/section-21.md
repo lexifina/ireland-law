@@ -1,0 +1,5 @@
+Recovery of expenses of repair from occupier.
+
+21.—(1) Where a demand for the recovery of expenses incurred by a local authority under the next foregoing section has become operative and such expenses or any part thereof remain unpaid the local authority may, after giving not less than ten days notice to the person having control of the house in respect of which such expenses were incurred serve a notice in the prescribed form upon the occupier or occupiers of such house, stating the amount of such expenses remaining unpaid and requiring such occupier or occupiers to pay to the local authority any rent then due or thereafter to become due by him or them until the amount of such expenses with any interest due thereon is fully repaid.
+
+(2) The service of any such notice as is referred to in the foregoing sub-section upon an occupier shall operate to transfer to the local authority the exclusive right to recover, receive and give a discharge for the rent required by such notice to be paid to the local authority.

@@ -1,0 +1,3 @@
+Construction of Act of 1890.
+
+3.—The Act of 1890 shall have effect as if the provisions of this Act with respect to unhealthy areas and unhealthy dwelling houses were inserted in Parts I and II respectively of the Act of 1890 in substitution for the provisions therein contained with respect to unhealthy areas and unhealthy dwelling houses and references in this Act or any Act (including the Act of 1890) passed before this Act, to the Act of 1890, or to any Part of the Act of 1890, or to any enactment therein contained or amending the same shall be respectively construed as references to the Act of 1890 as amended by this Act, or that Part or enactment as amended by this Act.

@@ -1,0 +1,7 @@
+Provisions with respect to official representations.
+
+47.—(1) For the purposes of this Act or the Act of 1890 the expression “official representation” means, in the case of any local authority, a representation made to that authority by the medical officer thereof.
+
+(2) The medical officer of health of a local authority shall make an official representation to the local authority whenever he is of opinion that any dwelling house in their district is unfit for human habitation, or that any area in their district is an area which should be dealt with either as a clearance area or as an improvement area; and if any four or more local government electors of the district complain to the medical officer of health in writing that any dwelling-house is unfit for human habitation, or that any area should be dealt with either as a clearance area or as an improvement area, it shall be his duty forthwith to inspect that house or that area and to make a report to the local authority stating the facts of the case and whether, in his opinion, the house is unfit for human habitation, or whether, in his opinion, the area should be dealt with either as a clearance area or as an improvement area; but the absence of any such complaint shall not excuse him from inspecting any dwelling-house or area and making a representation thereon to the local authority.
+
+(3) A local authority shall so soon as may be take into consideration any official representation which has been made to them.

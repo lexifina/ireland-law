@@ -1,0 +1,7 @@
+Town Commissioners to be a local authority for purposes of Parts I and II of the Act of 1890.
+
+43.—(1) For the purposes of Part I and Part II of the Act of 1890 as amended by any subsequent enactment including this Act, the town commissioners of any town under the Town Improvements (Ireland) Act, 1854, shall be a local authority and shall have for the purposes of the said Parts of the Act of 1890, as so amended the like powers of borrowing and of raising expenses as are conferred on them by the Housing of the Working Classes (Ireland) Acts 1890 to 1921 for the purposes of Part III. of the Act of 1890.
+
+(2) Such town commissioners shall for the purpose of holding any land acquired by them under Part I or Part II of the Act of 1890 as amended by any subsequent enactment including this Act and of suing and being sued in respect thereof be deemed to be a body corporate with perpetual succession and any instrument relating to any such land shall be duly executed by such town commissioners if executed in manner provided by section 59 of the Commissioners Clauses Act, 1847, with respect to conveyances by commissioners who are not a body corporate.
+
+(3) Section 100 of the Act of 1890 shall in its application to town commissioners have effect as if the reference therein to Part III of the Act of 1890 were construed as a reference to Parts I, II and III of the Act of 1890, as amended by any subsequent enactment including this Act.

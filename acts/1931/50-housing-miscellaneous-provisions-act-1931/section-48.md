@@ -1,0 +1,3 @@
+Remuneration of solicitors for business under the Housing of the Working Classes Acts.
+
+48.—Unless the Minister shall in any particular case otherwise direct or agree, the costs payable by a local authority in respect of the acquisition of land for the purposes of the Housing of the Working Classes Acts shall be regulated by the General Order dated the 16th day of April, 1884, as amended by the General Order dated the 17th day of May, 1920, made in pursuance of the Solicitors Remuneration Act, 1881, and the provisions of the said first-mentioned General Order as amended as aforesaid shall, with the exception of Clause 6 and Rule 11 in Part I of Schedule I of the said Order, apply accordingly.

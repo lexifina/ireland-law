@@ -1,0 +1,3 @@
+Execution by local authorities of works under section 20 of the Housing (Ireland) Act, 1919.
+
+52.—Where an owner or other person has failed to execute any work which he has been required to execute under bye-laws made by a local authority in pursuance of section 20 of the Housing (Ireland) Act, 1919, the local authority by whom such bye-laws are enforced may after giving to him not less than twenty-one days' notice in writing themselves execute the works and recover the costs and expenses and for that purpose the provisions of Part III of this Act with respect to the enforcement of notices requiring the execution of repairs and the recovery of expenses by local authorities shall apply with such modifications as are necessary.
