@@ -1,0 +1,3 @@
+Article 27
+
+27. Where under section 21 of the Local Government (Ireland) Act, 1902, as applied by subsection (2) of section 15 of the Act an extraordinary audit of the accounts of a board is required to be held, the three days' notice required to be given by the auditor appointed to hold such extraordinary audit shall be forthwith communicated by the clerk of such board to the members and treasurer of such board in the manner directed by regulation 16 hereof, and the provisions contained in these regulations with reference to an ordinary audit shall, so far as they may be applicable and capable of being complied with, apply to such extraordinary audit.

@@ -1,0 +1,3 @@
+Article 21
+
+21. If the auditor finds that any deficiency or loss has been incurred by the negligence or misconduct of any member or officer of a board or that any sum which ought to have been brought into account by such officer was not so brought into account, and, in pursuance of section 20 of the Local Government (Ireland) Act, 1902, as applied by subsection (2) of section 15 of the Act, charges against such member or officer the amount of such deficiency, loss, or sum, the clerk of such board shall, if so required by the auditor in writing, send as soon as he conveniently can, by post or otherwise, a statement of such deficiency, loss, or sum to such member or officer and to every member of such board.

@@ -1,0 +1,3 @@
+Article 19
+
+19. If the auditor be unable from illness or other sufficient cause to hold the audit on the day appointed or to complete an audit which has been opened by him, the audit may, if the Minister so permits, be held or completed by such other auditor as the Minister for Local Government and Public Health may designate for that purpose. The audit so held on the day appointed or completed by the auditor so designated, and any action taken or thing done by such auditor shall be as valid and effectual for all purposes as if held, completed, taken, or done by the auditor who originally issued the notice of audit.
