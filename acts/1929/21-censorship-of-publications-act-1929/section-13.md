@@ -1,0 +1,5 @@
+Customs and postal restrictions.
+
+13.—(1) Where a prohibition order has been made in relation to a book or a particular edition of a book or a periodical publication, then so long as such order is in operation the importation (otherwise than under and in accordance with a permit in writing granted under this Act) of any edition of such book or issue of such periodical publication (as the case may be) to which such order for the time being applies shall be added to and included in the table of prohibitions and restrictions inwards contained in section 42 of the Customs Consolidation Act, 1876, and that section shall have effect accordingly.
+
+(2) The Minister for Posts and Telegraphs may by order under this section make regulations for the purpose of preventing the sending or delivery by post (otherwise than under and in accordance with a permit in writing granted under this Act) of any edition of a book or any issue of a periodical publication to which a prohibition order for the time being applies and for the delivery to the Minister for Justice of any such edition or issue intercepted in course of transmission by post.

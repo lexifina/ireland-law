@@ -1,0 +1,5 @@
+Prohibition of sale of indecent pictures.
+
+18.—(1) It shall not be lawful for any person to sell or offer, expose, or keep for sale, or import for sale any indecent picture and every person who sells or offers, exposes, or keeps for sale or imports for sale any indecent picture in contravention of this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first offence, to a fine not exceeding fifty pounds and, in the case of a second or any subsequent offence, to a fine not exceeding one hundred pounds or, at the discretion of the court, to imprisonment with or without hard labour for any term not exceeding six months and, in any case, to forfeiture of every indecent picture so sold or offered, exposed, or kept for sale by him.
+
+(2) The word “indecent” where the same occurs in section 42 of the Customs Consolidation Act, 1876 shall have the same meaning and construction as it has in this Act and the said section 42 shall be construed and have effect accordingly.
