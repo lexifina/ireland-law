@@ -1,0 +1,3 @@
+Exemption of certain exhibitions of pictures, etc., from entertainments duty.
+
+30.—Entertainments duty within the meaning of the Finance (New Duties) Act, 1916, shall not be charged or levied on payments for admission to any entertainment as respects which it is proved to the satisfaction of the Revenue Commissioners that the entertainment consists solely of an exhibition held by any person of works of graphic art or of sculpture or of both such classes of works of his own execution and whether such exhibition is or is not held with a view to the sale of the works exhibited or otherwise for the personal profit of the person holding the exhibition.

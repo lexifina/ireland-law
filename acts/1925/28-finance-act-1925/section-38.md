@@ -1,0 +1,5 @@
+Production of dog licences.
+
+38.—(1) It shall be the duty of every person who keeps a dog aged one month or upwards to produce on demand for inspection by any member of the Gárda Síochána or any officer of customs and excise a licence issued under this Act in respect of the payment of dog duty on that dog in respect of the year then current: Provided always that when such demand is made elsewhere than at the residence of such person and such person has not the licence with him at the time of such demand, such person shall be deemed to comply with the demand if he undertakes to produce and (on being so required) does produce the licence at his residence for inspection by a member of the Gárda Síochána or an officer of customs and excise within twelve hours thereafter.
+
+(2) Any such person as aforesaid who in contravention of this section fails to produce such licence for such inspection on such demand shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a penalty of two pounds.

@@ -1,0 +1,3 @@
+Abolition of excise duty on coffee and chicory substitutes.
+
+36.—The duty of excise now chargeable under sub-section (3) of section 3 of the Finance Act, 1922, on any article or substance prepared or manufactured for the purpose of being in imitation of, or in any respect to resemble, or to serve as a substitute for, coffee or chicory, and on any mixture of any such article or substance with coffee or chicory, shall cease to be chargeable or leviable as on and from the 6th day of May, 1925, and no duty of excise shall be chargeable or leviable on any such article, substance, or mixture on or after that date.

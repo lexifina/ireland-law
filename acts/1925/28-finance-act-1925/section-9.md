@@ -1,0 +1,9 @@
+Extension of times for claiming certain reliefs, etc.
+
+9.—(1) Section 25 (which grants relief from tax in respect of income accumulated under trusts) of the Income Tax Act, 1918, shall, in the case of such a contingency as is referred to in that section happening in the year beginning on the 6th day of April, 1922, or in any subsequent year of assessment, be construed and have effect as if the words “within six years after the end of the year of assessment” were inserted therein in lieu of the words “within three years after the end of the year of assessment” now contained therein.
+
+(2) Section 41 (which limits the time for claims for repayment) of the Income Tax Act, 1918, shall, so far as relates to claims for repayment in respect of income tax charged for the year beginning on the 6th day of April, 1922, or any subsequent year of assessment, be construed and have effect as if the words “within six years next after the end of the year of assessment” were inserted therein in lieu of the words “within three years next after the end of the year of assessment” now contained therein.
+
+(3) Rule 5 (which relates to the time for claiming allowances) of No. V. of Schedule A of the Income Tax Act, 1918, shall, so far as relates to claims for repayment in respect of income tax charged for the year beginning on the 6th day of April, 1922, or any subsequent year of assessment, be construed and have effect as if the words “within six years after the expiration of the year of assessment” were inserted therein in lieu of the words “within three years after the expiration of the year of assessment” now contained therein.
+
+(4) Whenever a claim for repayment of income tax is authorised by the Income Tax Acts to be made at or within a specified period (being less than one year) after the end of the year of assessment such claim may hereafter be made at any time within one year after the end of the year of assessment.
