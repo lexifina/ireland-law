@@ -1,0 +1,19 @@
+SCHEDULE
+
+PART I.
+
+PRESSED STEEL RAINWATER GOODS.
+
+PART II.
+
+59 : 1953.
+
+PART III.
+
+STANDARD SPECIFICATION (PRESSED STEEL RAINWATER GOODS) ORDER, 1953.
+
+GIVEN under my Official Seal, this 14th day of December, 1953.
+
+SEAN F. LEMASS,
+
+Minister for Industry and Commerce.
