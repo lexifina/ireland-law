@@ -1,0 +1,3 @@
+Alteration of allowance in respect of children.
+
+4.—Sub-section (3) (which amends the sub-section next hereinafter-mentioned) of section 3 of the Finance Act, 1932 (No. 20 of 1932), is hereby repealed, and in lieu thereof it is hereby enacted that sub-section (1) (which relates to allowances in respect of children) of section 21 of the Finance Act, 1920, shall be construed and have effect as if the words “each such child to a deduction of sixty pounds” were substituted therein for the words “one child to a deduction of thirty-six pounds and in respect of each subsequent child to a deduction of twenty-seven pounds.”

@@ -1,0 +1,3 @@
+Stamping of certain foreign bills of exchange.
+
+25.—Notwithstanding any enactment to the contrary, a bill of exchange which is presented for acceptance or is accepted or payable outside Saorstát Eireann shall not be invalid in Saorstát Eireann by reason only that it is not stamped in accordance with the law for the time being in force in Saorstát Eireann in relation to stamp duties, and section 14 and sub-section (1) of section 15 of the Stamp Act, 1891, shall apply to every such bill of exchange which is unstamped or insufficiently or not properly stamped as if it were an instrument which may legally be stamped after the execution thereof within the meaning of the said section and sub-section.

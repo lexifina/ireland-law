@@ -1,0 +1,3 @@
+Amendment of Section 205 of the Customs Consolidation Act, 1876.
+
+19.—Whenever an officer of customs and excise is entitled, by virtue of section 205 of the Customs Consolidation Act, 1876, to enter and search, under a warrant issued under that section, a house or other place and seize and carry away uncustomed or prohibited goods found therein, such officer shall also be entitled (whether he does or does not seize or carry away any such goods) to seize and carry away all or any books or other documents found by him in such house or other place which he reasonably believes to relate to transactions in contravention of the laws relating to customs.

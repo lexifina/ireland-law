@@ -1,0 +1,3 @@
+Amendment of Section 27 of the Finance Act, 1934.
+
+24.—The powers to which section 27 (which is a general provision for penalty for breach of condition) of the Finance Act, 1934 (No. 31 of 1934), applies shall include every power to impose any such condition as is mentioned in that section which is or shall be conferred, expressly or by implication, on the Revenue Commissioners by this Act or by any other Act passed (whether before or after this Act) after the said Finance Act, 1934, and accordingly the penal provision of the said section 27 shall extend and apply to every act (whether of commission or omission) done after the passing of this Act which is a breach of a condition so imposed either before or after the passing of this Act,
