@@ -1,0 +1,3 @@
+Article 6
+
+6. Where there is for the time being in force an order under section 19 of the Diseases of Animals Act, 1966 (No. 6 of 1966), declaring (in relation to brucellosis in cattle) an area to be either a clearance area or a disease-free area and there is in the area a herd in which there is for the time being an animal which an inspector appointed by the Minister believes to be or suspects of being infected with brucellosis in cattle, the Minister may in such manner as he considers appropriate cause the existence of such brucellosis in cattle to be brought to the notice of such occupiers of land as he considers appropriate.
