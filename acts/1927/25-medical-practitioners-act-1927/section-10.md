@@ -1,0 +1,5 @@
+Nomination of nominated members of the Council.
+
+10.—(1) Not more than two months nor less than one month before every expiration of the term of office of the nominated members of the Council, the Council shall send to every authority and body entitled under this Act to nominate a member of the Council a letter notifying such authority or body of the date of such expiration and requesting such authority or body to nominate a person to become and be a member of the Council on such expiration.
+
+(2) Every authority or body nominating a member of the Council shall, in the case of a nomination made before the establishment of the Council, communicate to the Minister and, in the case of a nomination made after such establishment, communicate to the Council in writing the name of the person so nominated by it and no such nomination shall be complete until the name of the person nominated has been so communicated to the Minister or the Council (as the case may be) by the body or authority making such nomination.

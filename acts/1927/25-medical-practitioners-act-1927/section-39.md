@@ -1,0 +1,11 @@
+Qualifying examinations held by a college or body with assistant examiners.
+
+39.—(1) If at any time any of the colleges or bodies mentioned in the Second Schedule to this Act makes a representation to the Council to the effect that such college or body is unable to co-operate with any other of the said colleges or bodies in holding and conducting the examinations required for a qualifying diploma, and the Council is satisfied that the college or body making such representation has used its best endeavours so to co-operate and is unable so to do on reasonable terms, the Council may, from time to time, as the Council thinks fit, upon the application of such college or body, appoint such number of examiners (in this section referred to as assistant examiners) as the Council considers necessary to assist at the examinations held by such college or body for the purpose of granting any diploma conferring on the person to whom such diploma is granted, after passing a qualifying examination, the right to be registered in the register.
+
+(2) It shall be the duty of assistant examiners appointed under this section to secure at the examinations held by any of the colleges or bodies aforesaid at which such assistant examiners assist the maintenance of the standard of theoretical and practical knowledge in medicine, surgery and midwifery or in any of those subjects or any branch thereof required under the provisions of this Act at qualifying examinations and for that purpose such assistant examiners shall have and may exercise such powers and shall perform such duties in relation to the examinations at which they assist as the Council may from time to time confer and impose on them.
+
+(3) It shall be lawful for any of the colleges or bodies mentioned in the Second Schedule to this Act to admit to any examinations held by such college or body assistant examiners appointed by the Council under this section to assist at such examinations.
+
+(4) Every examination held by any such college or body at which assistant examiners appointed under this section assist under this section shall be deemed to be a qualifying examination for the purposes of this Act.
+
+(5) There shall be paid to every assistant examiner by the college or body at whose examinations such assistant examiner assists under this section such remuneration as the Council shall determine.

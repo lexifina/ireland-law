@@ -1,0 +1,5 @@
+Qualifications for medical appointments.
+
+35.—(1) Every appointment which immediately before the establishment of the register was by or under any enactment for the time being in force confined to persons registered in the General Register shall on and after the establishment of the register become and be confined to persons who are registered in the register in lieu and stead of persons registered in the General Register and every such enactment shall be construed and have effect accordingly.
+
+(2) From and after the establishment of the register no person other than a person registered in the register shall hold any appointment as a physician, surgeon, or other medical officer in the Defence Forces or in emigrant or other vessels or in any hospital, infirmary, dispensary or lying-in hospital not supported wholly by voluntary contributions, in any lunatic asylum or mental hospital, or in any jail, prison, reformatory or industrial school or any institution maintained by or under a local authority wholly or partly out of the rates.

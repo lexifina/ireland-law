@@ -1,0 +1,3 @@
+Adaptation of references to qualified medical practitioners.
+
+32.—On and after the establishment of the register, the expressions “legally qualified medical practitioner,” “duly qualified medical practitioner,” “qualified medical practitioner” and every other expression importing a person recognised by law as a medical practitioner or member of the medical profession shall, when used in an Act of the United Kingdom Parliament or an Act (whether passed before or after this Act or before or after the establishment of the register) of the Oireachtas shall be construed and have effect as meaning a person registered in the register.

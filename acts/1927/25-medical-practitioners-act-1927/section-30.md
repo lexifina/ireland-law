@@ -1,0 +1,7 @@
+Inquiry by the Council into allegation of infamous conduct.
+
+30.—(1) The Council may at any time hold or appoint any members or member of the Council to hold an inquiry into the conduct of any person registered in the register who is alleged to have been guilty of conduct which is infamous in a professional respect, and the Council or the members or member so appointed (as the case may be) shall have power to summon witnesses to attend such inquiry and to examine them on oath and for that purpose to administer an oath to such witnesses and to compel such witnesses to produce any documents in their power or control the production of which the Council or such members or member (as the case may be) considers necessary for the purpose of such inquiry.
+
+(2) Every person who on being duly summoned by the Council or by any such members or member as aforesaid fails to attend an inquiry held under this section or being in attendance thereat as a witness refuses to take an oath or to give evidence or to produce a document in his power or control when required under this section so to do shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds.
+
+(3) The person whose conduct is the subject of an inquiry held under this section shall be entitled to be heard and adduce evidence and, if he so desires, to be represented by solicitor and counsel at such inquiry.
