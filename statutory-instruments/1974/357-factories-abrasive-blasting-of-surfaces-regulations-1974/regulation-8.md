@@ -1,0 +1,3 @@
+Regulation 8
+
+8. All helmets, gauntlets, overalls and other protective devices or clothing provided and worn for the purposes of these Regulations shall be kept in good condition and, on every day on which they are used, freed, so far as is reasonably practicable, from dust. Where dust arising from the cleaning of such protective clothing or devices is likely to be inhaled, all practicable measures shall be taken to prevent such inhalation. Vacuum cleaners shall, wherever practicable, be used for removing dust from such clothing and compressed air shall not in any case be used for removing dust from any clothing.

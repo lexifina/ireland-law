@@ -1,0 +1,3 @@
+Regulation 16
+
+16. There shall be provided and maintained, in connection with every blasting enclosure, an efficient ventilating plant to extract, by exhaust draught effected by mechanical means, dust produced in the enclosure, and to remove and dispose of such dust so that it shall not escape into the air of any room; and every bag used for filtering the dust and every other filtering or settling device situated in a room in which persons are employed, other than persons attending to such bag or other filtering or settling device, shall be completely separated from the general air of that room in an enclosure ventilated to the open air.
