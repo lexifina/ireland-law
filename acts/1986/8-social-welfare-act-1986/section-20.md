@@ -1,0 +1,3 @@
+Evidential effect of certificate in prosecutions.
+
+20.—For the purposes of the institution of proceedings under Part II, Part III Chapter 2, Part III Chapter 3, Part III Chapter 4 or Part IV of the Principal Act, a certificate certifying the following facts, namely, that a person is an officer of the Minister and that he has been authorised under a special or general direction of the Minister to institute such proceedings, or that the Minister has consented to the institution of such proceedings, shall be sufficient evidence in any legal proceedings of the matters certified in the certificate, until the contrary is shown, and sections 116, 145, 168, 188 and 231 of the Principal Act shall be construed and have effect accordingly.
