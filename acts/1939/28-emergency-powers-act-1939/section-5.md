@@ -1,0 +1,21 @@
+Offences, prosecutions, and punishments.
+
+5.—(1) Every person who contravenes (whether by act or omission) or attempts so to contravene a provision in an emergency order or in an instrument made, granted, or issued under an emergency order or in a direction given under an emergency order shall be guilty of an offence under this section.
+
+(2) Every person who aids, abets, or assists another person, or conspires with another person, to do any thing (whether by way of act or of omission) the doing of which is declared by the foregoing sub-section of this section to be an offence under this section shall himself be guilty of an offence under this section.
+
+(3) Every person who, knowing that another person has committed an offence under this section, gives that other person any assistance with intent thereby to prevent, hinder, or interfere with the apprehension, trial, or punishment of the said other person for the said offence shall himself be guilty of an offence under this section.
+
+(4) Whenever there is, in relation to a ship or other vessel or an aircraft, a contravention (whether by act or omission) or an attempted such contravention of a provision in an emergency order or in an instrument made, granted, or issued under an emergency order or in a direction given under an emergency order, the person who is, at the time of such contravention or attempted contravention, in charge of such vessel or such aircraft, as the case may be, and also the person who, at the said time, has the management of such vessel or such aircraft shall each be guilty severally of an offence under this section.
+
+(5) Where an offence under this section is committed by a body corporate and is proved to have been so committed with the consent or approval of, or to have been facilitated by any neglect on the part of, any director, manager, secretary, or other officer of such body corporate, such director, manager, secretary, or other officer shall also be deemed to have committed the said offence and shall be liable to be proceeded against and punished accordingly.
+
+(6) Every person who, being an Irish citizen or ordinarily resident within the State, commits or is deemed to have committed, whether within or outside the State, an offence under this section and every person who, not being an Irish citizen or ordinarily resident within the State, commits or is deemed to have committed within the State, an offence under this section shall:—
+
+(a) on summary conviction thereof, be liable to a fine not exceeding one hundred pounds (together with, in the case of a continuing offence, a further fine not exceeding five pounds for every day on which the offence is continued) or, at the discretion of the Court, to imprisonment for a term not exceeding six months or to both such fine and such imprisonment, or
+
+(b) on conviction thereof on indictment, be liable to a fine not exceeding five hundred pounds (together with, in the case of a continuing offence, a further fine not exceeding twenty pounds for every day on which the offence is continued) or, at the discretion of the Court, to penal servitude for a term not exceeding ten years or imprisonment for a term not exceeding two years or to both such fine and such penal servitude or imprisonment.
+
+(7) Where a person is convicted of an offence under this section the Court may, in addition to, or in lieu of, the punishment provided by the foregoing sub-section of this section, direct that any goods or chattels, in relation to, or by means of, which such offence was committed, be forfeited, and any goods or chattels so forfeited shall be disposed of in such manner as a Minister may direct, and any moneys arising from any such disposal shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance shall direct.
+
+(8) Proceedings in the District Court in relation to an offence under this section may be brought and prosecuted by a Minister or by a member of the Gárda Síochána, and may be brought before and heard and disposed of by any justice of that Court irrespective of the place in which the person alleged to have committed such offence resides or in which such offence is alleged to have been committed.
