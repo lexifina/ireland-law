@@ -1,0 +1,3 @@
+Article 4
+
+4. The killing or taking, in the area specified in the Second Schedule to this Order, of pheasant, partridge, grouse, quail, landrail, plover, snipe and woodcock and of mallard, teal, widgeon and other species of wild duck and of brent goose, barnacle goose and other species of wild goose is hereby prohibited for the period of one year from the making of this Order.
