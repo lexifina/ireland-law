@@ -1,0 +1,7 @@
+Power of the Minister to close prison.
+
+2.—(1) The Minister may by order (in this Act referred to as a closing order) direct that any particular prison or any specified part of a particular prison shall be closed as on and from a specified date, and may also, if he so thinks fit, by the same order direct that all the estate and interest of the Minister in the whole or any specified portion of the prison or part of a prison so directed to be closed shall, immediately upon such closing or on any specified subsequent date, vest in the local authority.
+
+(2) Whenever the Minister makes a closing order, the prison or part of a prison thereby directed to be closed shall be closed in accordance with such closing order and, if such closing order so directs, shall to the extent and at the time specified in such order be transferred to and become vested in the local authority without any further or other conveyance.
+
+(3) Where the effect of a closing order is such that in consequence thereof there is no building in use as a prison in the county or county borough in which is situate the prison to which such order relates, such order shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling such order is passed by either such House within the next subsequent twenty-one days after the first day on which such House sits after such order is laid before it, such order shall be annulled accordingly.

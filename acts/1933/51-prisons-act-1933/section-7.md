@@ -1,0 +1,3 @@
+Retention by Minister of certain disused prisons.
+
+7.—Where a prison or part of a prison was closed under the Principal Act before the passing of this Act but had not at such passing been handed over to the local authority or had at such passing been so handed over in part only, such prison or part of a prison or so much thereof as had not at the passing of this Act been so handed over (as the case may be) shall not be deemed to have been transferred to or become vested in the local authority merely by reason of the same not having been used for any of the purposes specified in section 31 of the Principal Act.
