@@ -1,0 +1,15 @@
+Restriction on possession of unlawful net, etc.
+
+40.—(1) No person shall have in his possession or control in any river or on or near the banks of any river any net or other instrument or lure or bait the use of which for the purpose of taking salmon, trout or other fish is unlawful.
+
+(2) Any person who has in his possession or control any net or other instrument or lure or bait in contravention of this section shall be guilty of an offence against this Act.
+
+(3) Where—
+
+(a) a person is found in possession of or has in his control any net in the vicinity of the boundary between the tidal and freshwater portions of any river, and
+
+(b) by reason thereof such person is charged with an offence under this section,
+
+it shall be a good defence to such charge for such person to prove that he is the holder of a licence to use such net and that such net is intended for use in such tidal portion.
+
+Prohibition of Certain Methods of Fishing for, and of Practices Liable to Destroy, Salmon and Other Fish.
