@@ -1,0 +1,5 @@
+Rule 9
+
+9. For each navigational equipment installation required by these Rules there shall be supplied such special tools and equipment as are necessary for shipboard maintenance and such spares as are likely to be required for the duration of the intended voyage.
+
+PART I—ECHO SOUNDER INSTALLATION
