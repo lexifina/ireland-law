@@ -1,0 +1,3 @@
+Laying of orders and regulations before Houses of the Oireachtas.
+
+91.—Every order and every regulation made by the Minister under this Act and relating to or having effect in more than one public assistance district shall be laid before each House of the Oireachtas as soon as conveniently may be after it is made, and if a resolution annulling such order or regulation is passed by either such House within the next twenty-one days on which such House has sat after such order or regulation is so laid before it, such order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.

@@ -1,0 +1,7 @@
+Power to provide land for a public hospital.
+
+22.—(1) Whenever a public assistance authority is satisfied that useful aid is being or will be rendered to the administration of public assistance in their public assistance district by the treatment given in a public hospital or infirmary in such district to persons eligible for medical assistance, such public assistance authority may, on the request of the governing body of such hospital or infirmary and with the consent of the Minister, provide for such hospital or infirmary any land which is shown by such governing body, to the satisfaction of the said public assistance authority, to be required for the efficient performance of the functions of such hospital or infirmary.
+
+(2) Where a public assistance authority determines to provide under this section any land for a public hospital or infirmary, such public assistance authority may acquire such land either by agreement with the consent of the Minister or compulsorily under this Act and (in either case) may convey such land to or for the benefit of such public hospital or infirmary.
+
+(3) Where a public assistance authority is requested by the governing body of a public hospital or infirmary to provide under this section any land for such hospital or infirmary, such public assistance authority shall, as a condition precedent to their so providing such land, require such governing body to undertake to defray the whole of the cost of so providing such land.

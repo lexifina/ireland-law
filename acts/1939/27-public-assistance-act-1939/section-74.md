@@ -1,0 +1,3 @@
+Application of money held for certain abolished committees.
+
+74.—Any money or security for money which was formerly held by the committee of a county infirmary or a fever hospital in trust for the purposes of such infirmary or hospital and was, on the abolition of such committee by a county scheme, transferred to the council of a county or a county borough by or under the Local Government (Temporary Provisions) Act, 1923 (No. 9 of 1923), and is, at the commencement of this Act, held by such council of a county or by the corporation of such county borough shall continue to be so held and shall be applied for the purposes of this Act in such manner as the Minister shall direct.

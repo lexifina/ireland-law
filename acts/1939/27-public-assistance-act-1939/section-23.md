@@ -1,0 +1,3 @@
+Payment of expenses of removal of persons eligible for general assistance.
+
+23.—A public assistance authority may, on the application of a person eligible for general assistance, pay the reasonable expenses of the removal of such person (with or without his dependants) from the public assistance district of such authority to some other place if such authority is satisfied that the removal of such person from such district to the said other place is likely to enable such person to support himself and his dependants by his own industry or other lawful means and is generally for the benefit of such person and his dependants.

@@ -1,0 +1,3 @@
+Assistance of defective children.
+
+50.—Where the parents or the surviving parent or the guardian of a child who is deaf, dumb, blind, imbecile, idiot, epileptic or crippled are or is unable, by reason of poverty, to provide adequately for the training of such child and a public assistance authority is of opinion that it would be for the benefit of such child that it should be sent to such institution as is hereinafter mentioned, such authority may, with the approval of the Minister and the consent of such parents, parent, or guardian, provide for or contribute to the support, maintenance, and education of such child in an institution established and maintained for the care of such children and approved of by the Minister.

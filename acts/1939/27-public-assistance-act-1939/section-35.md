@@ -1,0 +1,3 @@
+Assistance in institutions not maintained by a public assistance authority.
+
+35.—Subject to the consent of the Minister, a public assistance authority may, if they so think proper, make provision for the assistance in a home, hospital, or other institution not provided or maintained by such authority of persons, or particular classes of persons, eligible for public assistance, and where a public assistance authority makes such provision, such authority may defray the expenses of the conveyance of the persons for whose assistance such provision is made to and from such institution and the expenses of their maintenance, treatment, instruction, or training therein.
