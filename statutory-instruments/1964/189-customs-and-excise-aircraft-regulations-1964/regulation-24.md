@@ -1,0 +1,7 @@
+Regulation 24
+
+24. Modification of documents.
+
+PART IV
+
+APPLICATION AND MODIFICATION OF ENACTMENTS
