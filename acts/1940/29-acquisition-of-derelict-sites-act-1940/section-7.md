@@ -1,0 +1,5 @@
+Compensation.
+
+7.—(1) Where, immediately before a vesting order is made by a sanitary authority, any person has any estate or interest in or right in respect of the land acquired by such order, such person may apply to such sanitary authority not later than three months after the making of such order for compensation in respect of such estate, interest, or right, and such sanitary authority shall thereupon pay to such person by way of compensation an amount equal to the value (if any) of such estate, interest, or right.
+
+(2) The compensation to be paid by a sanitary authority under this section in respect of any estate or interest in or right in respect of land shall, in default of agreement, be determined by arbitration under and in accordence with the Acquisition of Land (Assessment of Compensation) Act, 1919 as amended by the Acquisition of Land (Reference Committee) Act, 1925 (No. 22 of 1925), but the amount of such compensation shall, on such arbitration, be determined in accordance with the Rules contained in Part I of the Third Schedule to the Housing (Miscellaneous Provisions) Act, 1931 (No. 50 of 1931).
