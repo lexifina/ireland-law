@@ -1,0 +1,5 @@
+S.I. No. 376 of 1982.
+
+MAXIMUM PRICES (BABYFOODS) (NO. 3) ORDER, 1982.
+
+The Minister for Trade, Commerce and Tourism, in exercise of the powers conferred on him by Sections 22A and 22C (inserted by the Prices (Amendment) Act, 1965 (No. 23 of 1965)) of the Prices Act, 1958 (No. 4 of 1958), as amended by the Prices (Amendment) Act, 1972 (No. 20 of 1972), the Prices Stabilisation Order, 1973 ( S.I. No. 96 of 1973 ), and the Industry, Commerce and Tourism (Alteration of Name of Department and Title of Minister) Order, 1981 ( S.I. No. 290 of 1981 ), hereby orders as follows:
