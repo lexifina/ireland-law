@@ -1,0 +1,11 @@
+Orders declaring property to be forfeited to the State.
+
+2.—(1) Where any chattel (including in particular a mechanically propelled vehicle) or any money or any document of title to money or any document of title to a security either—
+
+(a) came, before the passing of this Act into the custody or the physical possession of the Minister or of a member of the Gárda Síochána or of a member of the Defence Forces in the course or in consequence of the search of any premises or the arrest of any person or, in the case of a mechanically propelled vehicle, in the course or in consequence of any such search or arrest or by reason of its being found abandoned and (in any case) is at such passing in the custody or the physical possession of the Minister or of a member of the Gárda Síochána or of a member of the Defence Forces, or
+
+(b) shall, at any time after the passing of this Act, and before the 3rd day of September, 1941, come into the custody or the physical possession of the Minister or of a member of the Gárda Síochána or of a member of the Defence Forces in the course or in consequence of the search of any premises or the arrest of any person or, in the case of a mechanically propelled vehicle, in the course or in consequence of any such search or arrest or by reason of its being found abandoned,
+
+and (in either such case) the Minister is of opinion that such chattel or such money or the money or the security to which such document of title relates (as the case may be) was acquired by the owner thereof as a result or in the course of, or was being or intended to be used (whether by the owner thereof or any other person) in furtherance of, an activity prejudicial to the peace, order, or security of the State, the Minister may at any time before the 3rd day of September, 1941, by order declare such chattel or such money or such document of title and the money or the security to which it relates (as the case may be) to be forfeited to the State.
+
+(2) Every order made by the Minister under the foregoing sub-section of this section shall be in the form set out in the Schedule to this Act, and a copy thereof shall, if practicable, be served on the owner of the property to which such order relates, but the impracticability or the omission of such service shall not prejudice or affect the operation or effect of such order.
