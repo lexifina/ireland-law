@@ -1,0 +1,9 @@
+District court areas in the Dublin and Cork districts.
+
+3.—(1) It is hereby declared and enacted that, notwithstanding anything contained in section 47 of the Principal Act, it is not and never was obligatory upon the Minister to divide the Dublin district or the Cork district into district court areas.
+
+(2) As from the passing of the Principal Act and unless and until the Minister divides (under section 47 of the Principal Act) the Dublin district into two or more district court areas, the Dublin district shall for all purposes be and be deemed always to have been a single district court area (in this Act referred to as the Dublin district court area) created by the Minister under sub-section (1) of the said section 47 for the purposes of all classes of business transacted in the District Court.
+
+(3) As from the passing of the Principal Act and unless and until the Minister divides (under section 47 of the Principal Act) the Cork district into two or more district court areas, the Cork district shall for all purposes be and be deemed always to have been a single district court area (in this Act referred to as the Cork district court area) created by the Minister under sub-section (1) of the said section 47 for the purposes of all classes of business transacted in the District Court.
+
+(4) Sub-sections (2), (3), and (4) of section 47 of the Principal Act shall apply and be deemed always to have applied to the Dublin district court area and to the Cork district court area as if those district court areas had in fact been lawfully created by the Minister under sub-section (1) of the said section 47, but such application of the said sub-section (2) to the Dublin district court area shall be and be deemed always to have been subject to the provisions of the next following section of this Act.
