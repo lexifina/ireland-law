@@ -1,0 +1,5 @@
+Accounts and audits.
+
+27.—(1) Without prejudice to the requirements of the Companies Acts in relation to balance sheets and accounts, a company shall keep, in such form as may be approved of by the Minister with the consent of the Minister for Finance, all proper and usual accounts of all money received by or expended by it, including a profit and loss account, an account showing the derivation of the funds of the company and the purposes to which they are applied (referred to in subsection (2) as “the cash flow statement”) and a balance sheet, and, in particular, shall keep in such form as aforesaid all such special accounts as the Minister may from time to time direct.
+
+(2) Accounts kept in pursuance of this section by a company shall be submitted annually by it to an auditor for audit and, immediately after the audit, a copy of the profit and loss account, the cash flow statement, the balance sheet and such other (if any) of the accounts as the Minister may direct and a copy of the auditor's report on the accounts shall be presented by the company to the Minister.

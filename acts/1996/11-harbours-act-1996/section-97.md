@@ -1,0 +1,9 @@
+Transfer of rights and liabilities.
+
+97.—(1) All rights and liabilities of the harbour authority of a harbour or, in the case of Dún Laoghaire Harbour, of the Minister arising by virtue of any contract or commitment (expressed or implied) entered into by the harbour authority or the Minister, as the case may be, before the relevant vesting day and which, in the case of the Minister, were connected with his or her functions in relation to Dún Laoghaire Harbour shall on that day stand transferred to the company established pursuant to section 7 in respect of the harbour concerned.
+
+(2) The Minister may on his or her own initiative and shall on the application of Dún Laoghaire Harbour Company issue a certificate in respect of a specified contract or commitment certifying, as he or she thinks proper, that the rights and liabilities of the Minister thereunder were transferred on the relevant vesting day to that company under subsection (1) or were not so transferred and the certificate shall be conclusive evidence of the facts so certified.
+
+(3) Every right and liability transferred by subsection (1) to a company may, on and after the relevant vesting day, be sued on, recovered or enforced by or against the company in its own name and it shall not be necessary for the company, the harbour authority or the Minister, as the case may be, to give notice to the person whose right or liability is transferred by that subsection of such transfer.
+
+(4) Dún Laoghaire Harbour Company shall comply with such obligations (excluding repayment of principal or interest payments) as may be specified by the Minister for Finance in relation to his or her contractual obligations under foreign loan contracts, entered into before the relevant vesting day, in connection with functions of the Minister in relation to Dún Laoghaire Harbour.

@@ -1,0 +1,5 @@
+Application of Part VI as respects harbour authorities which are pilotage authorities.
+
+105.—(1) Subject to subsection (2), the provisions of this Part shall, with any necessary modifications, apply to the property, rights and liabilities of a harbour authority, and every other matter in relation to the harbour authority that is mentioned in this Part, in their capacity as a pilotage authority as those provisions apply to them in their capacity otherwise.
+
+(2) As respects a harbour authority that section 81 (2) provides shall continue in existence in their capacity as a pilotage authority on and from a relevant vesting day, the application, by virtue of this section, of the provisions of this Part to the harbour authority in that capacity shall not have effect until the day on which the harbour authority stands dissolved in that capacity under section 81 (2) (“the date of dissolution”) and, accordingly, for the purposes of the said application of the provisions of this Part to such a harbour authority, references in those provisions to the relevant vesting day shall be construed as references to the date of dissolution.

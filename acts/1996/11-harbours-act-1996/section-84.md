@@ -1,0 +1,3 @@
+Proof of bye-laws.
+
+84.—A document which purports to be a copy of bye-laws made under section 42 or 71, and which has endorsed thereon a certificate (purporting to be signed by an officer of the company by which such bye-laws were made) stating that the document is a true copy of the bye-laws and that the bye-laws were in force on a specified date, shall, without proof of the signature of such officer or that he or she was in fact such officer, be evidence (until the contrary is proved) in every court and in all legal proceedings of the bye-laws and of the fact that they were in force on that date.
