@@ -1,0 +1,3 @@
+Article 6
+
+6. Whenever the Minister for Finance, after consultation with the Minister for Industry and Commerce, so thinks proper, the Revenue Commissioners may by licence authorise any particular person subject to compliance with such conditions as they may think fit to impose, to import any articles chargeable with the duty imposed by this Order on payment of that duty at a rate equivalent to the rate at which the duty imposed by the Emergency Imposition of Duties (No. 267) (Personal Clothing and Wearing Apparel) Order, 1951 ( S.I. No. 357 of 1951 ), was chargeable thereon immediately before the 1st day of November, 1960.
