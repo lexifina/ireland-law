@@ -1,0 +1,5 @@
+Amendment of section 5 of Unemployment Assistance (Amendment) Act, 1940.
+
+12.—Section 5 of the Unemployment Assistance (Amendment) Act, 1940, is hereby amended by the insertion after subsection (2) of the following subsection:
+
+“(3) Where the Commissioner of Valuation is satisfied that any certificate furnished by him, whether before or after the commencement of the Social Welfare (Miscellaneous Provisions) Act, 1960, under this section or amended by him under this subsection is erroneous, by reason of a mistake in relation to any matter of law or fact to which regard was had by the Commissioner in the drawing up of the certificate, or in the light of any matter of fact which has come to his notice since the furnishing of the certificate, the Commissioner may amend the certificate for the purpose of correcting the error therein and subsection (2) of this section shall have effect in relation to a certificate amended under this subsection as if the references therein to a certificate were references to a certificate amended under this subsection.”

@@ -1,0 +1,5 @@
+Pensions of persons in certain mental institutions.
+
+8.—(1) Subject to subsection (2) of this section, the whole of any amounts payable on foot of a pension to a person while the person is detained in a district or auxiliary mental hospital within the meaning of the Mental Treatment Act, 1945, or while he is detained in any place as a chargeable patient, within the meaning of that Act, or as a criminal lunatic, shall be appropriated towards the cost of maintenance of the person in the place where he is being detained.
+
+(2) Where the pension of a person is appropriated under subsection (1) of this section, the person in charge, within the meaning of the aforesaid Act, of the place where the person is detained, or, if the person is detained in the Dundrum Central Criminal Lunatic Asylum, within the meaning of the aforesaid Act, the Resident Physician and Governor thereof may, in his absolute discretion, pay to the person for his own use such portion (not exceeding ten shillings per week) of the pension as he considers proper in the particular circumstances, if, in his opinion, the person is capable of making proper use of the portion so paid.

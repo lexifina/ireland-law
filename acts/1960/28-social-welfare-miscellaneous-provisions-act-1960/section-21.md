@@ -1,0 +1,5 @@
+Presumption of due receipt of certain pensions.
+
+21.—(1) Where, in any civil proceedings in any Court, it is shown to the satisfaction of the Court that pursuant to a claim of or on behalf of a person a pension was allowed or awarded or that the amount of a pension payable to or in respect of a person was varied and that the pension as so allowed or awarded or as so varied was at any time in course of payment to the person to whom the pension was payable, that person shall, in each case, be presumed, unless the contrary is shown, to have been in receipt of a pension of the amount so allowed or awarded or as so varied, as the case may be, from the date on which the pension of the amount so allowed or awarded or as so varied, as the case may be, became payable until the date, if any, on which the amount of the pension is varied or further varied, as the case may be, or the date on which the pension ceases to be payable, whether by reason of the death of the person or otherwise, whichever should first occur.
+
+(2) In this section “pension” means a pension under the Acts or a pension under the Widows' and Orphans' Pensions Acts, 1935 to 1959.
