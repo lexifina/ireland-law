@@ -1,0 +1,3 @@
+Rule 6
+
+6. Rule 194 of the District Court Rules, 1948, is hereby amended by the deletion of the word " shall " where that word occurs firstly therein and the substitution in lieu thereof of the word " may " and by the addition at the end thereof of the following words: " In every case where a penalty has been imposed on the appellant, the Justice may, upon the expiration of the time allowed by the order for payment of the penalty, issue the warrant of committal in default of payment, unless the appellant shall have entered into such recognizance within the said period of seven days ", and the said Rule shall be construed and have effect accordingly.
