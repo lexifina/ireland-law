@@ -1,0 +1,7 @@
+S.I. No. 182 of 1966.
+
+WHEAT ORDER, 1966.
+
+ARRANGEMENT OF ARTICLES.
+
+Article
