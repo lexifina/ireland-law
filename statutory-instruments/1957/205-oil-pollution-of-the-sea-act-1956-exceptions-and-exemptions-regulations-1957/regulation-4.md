@@ -1,0 +1,3 @@
+Regulation 4
+
+4. Every ship registered in the State (not being a tanker) which uses bunker fuel tanks for the carriage of ballast water and is proceeding to a port in the State or to a port within a prohibited zone for such ship, being in either case a port which has not adequate facilities to receive oil residues is hereby excepted from the operation of subsection (3) of section 10 of the act in respect of a discharge of a mixture containing oil where the mixture consists only of oil from bunker fuel tanks and ballast water, subject to the condition that the discharge is made as far from land as is practicable and not to landward of the seaward limits of the territorial seas of the State.
