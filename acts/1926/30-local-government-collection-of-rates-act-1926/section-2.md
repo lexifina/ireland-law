@@ -1,0 +1,3 @@
+Extension of application of section 6 of Principal Act.
+
+2.—Section 6 of the Principal Act and also (unless and until otherwise provided by rules made under that section as extended by this section) all rules made under that section and in force immediately before the commencement of this Act shall, notwithstanding anything to the contrary contained in sub-section (3) of the said section 6, apply to poor-rate and other rates made by a local authority for the service of the local financial year ending on the 31st day of March, 1927 or the service of the local financial year ending on the 31st day of March, 1928 as well as to poor-rate and other rates mentioned in the said sub-section (3).
