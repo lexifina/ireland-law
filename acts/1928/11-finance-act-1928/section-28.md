@@ -1,0 +1,3 @@
+Extension of exemption of agricultural exhibitions from entertainments duty.
+
+28.—An entertainment provided by a society which is established solely for the purpose of promoting the interest of the industry of agriculture or some branch thereof shall not be excluded from the exemption given by section 7 of the Finance Act, 1921, solely by reason of the inclusion in the entertainment of any item which is not part of an exhibition of the kind specified in paragraph (b) of sub-section (1) of the said section 7, if such item is shown to the satisfaction of the Revenue Commissioners to be included in the entertainment merely as a subsidiary part thereof.

@@ -1,0 +1,3 @@
+Confirmation of Agreement.
+
+8.—The Agreement set forth in the First Schedule to this Act is hereby confirmed and shall have effect with respect to the exemption or relief to be granted from Saorstát Eireann Income Tax, super-tax and sur-tax for the year beginning on the 6th day of April, 1928, and from Saorstát Eireann income tax and sur-tax for every subsequent year in which the said Agreement has, by virtue of an Act of the British Parliament, effect with respect to the exemption or relief to be granted, in the case of the year beginning on the 6th day of April, 1928, from British income tax, super-tax and sur-tax for that year and, in the case of any subsequent year, from British income tax and sur-tax for such year.

@@ -1,0 +1,5 @@
+Unemployment insurance stamps.
+
+33.—(1) Section 20 of the Finance Act, 1911, shall be construed and have effect and be deemed always to have had effect as from the commencement of the Unemployment Insurance Act, 1920, as if the expression “stamps used to denote other duties” contained therein included stamps used for the purposes of the said Unemployment Insurance Act, 1920.
+
+(2) So much of section 33 of the Unemployment Insurance Act, 1920, as confers on the Revenue Commissioners authority to make regulations for applying, with the necessary adaptations, as respects unemployment insurance stamps the provisions of certain enactments specified in the said section, shall (notwithstanding any transfer heretofore made or hereafter to be made of such authority to the Minister for Posts and Telegraphs) have effect as if sections 21, 35, and 36 of the Inland Revenue Regulation Act, 1890, and Section 9 of the Stamp Act, 1891, and all enactments amending those sections or any of them were included amongst the enactments so specified in the said section 33.

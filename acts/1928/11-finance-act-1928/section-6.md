@@ -1,0 +1,7 @@
+Certificate of payment of income tax under Schedules A and B.
+
+6.—(1) The landlord or immediate lessor or the occupier of any property charged or chargeable under Schedule A or Schedule B of the Income Tax Act, 1918, may apply to the inspector of taxes for the district in which such property is situated for a certificate that all income tax charged under the said Schedules for all the years of assessment ending prior to the 6th day of April preceding the date of the application has been paid and that no further income tax under the said Schedules is chargeable for such years, and the inspector of taxes on being satisfied as to the facts shall issue a certificate to that effect.
+
+(2) Notwithstanding section 199 of the Income Tax Act, 1918, where the property charged or chargeable has been sold for valuable consideration, and the certificate referred to in this section has been issued, the tax certified as having been paid or as not being chargeable, shall not be recoverable by distress from the occupier of the property charged or upon the premises in respect of which the assessment is made.
+
+(3) A certificate of the inspector of taxes under this section shall not discharge any person or property from income tax in case of fraud or failure to disclose material facts other than a bona-fide purchaser for valuable consideration without notice of such fraud or failure or the property of such purchaser.

@@ -1,0 +1,3 @@
+Exemption from duty of certain parts of hats.
+
+24.—The duty of customs imposed by section 16 of the Finance Act, 1925 (No. 28 of 1925) shall not be charged or levied on the following articles imported into Saorstát Eireann on or after the 26th day of April, 1928, that is to say, hoods and shapes for the manufacture of hats which require for the purpose of such manufacture to be blocked, shaped, or cut, and in respect of which it appears to the satisfaction of the Revenue Commissioners that the process of blocking, shaping, or cutting represents a substantial portion of the process of manufacture.
