@@ -1,0 +1,1 @@
+I, PETER BARRY, Minister for Transport and Power, in exercise of the powers conferred on me by section 2 of the Nuclear Energy (An Bord Fuinnimh Núicléigh) Act, 1971 (No. 12 of 1971), hereby order as follows:
