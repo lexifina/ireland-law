@@ -1,0 +1,7 @@
+Recovery of sums payable to county councils under this Act.
+
+3.—In addition and without prejudice to any other method of recovering any sum payable to the council of a county in respect or on account of a sale of goods by such council under this Act, every such sum which is not paid to or recovered by such council, in the case of a sale in the year 1939, before the 1st day of January, 1940, or, in the case of a sale in the year 1940, before the 1st day of January, 1941, may—
+
+(a) if the person by whom the same is payable is rated (otherwise than as owner of a small dwelling within the meaning of the Local Government (Rates on Small Dwellings) Act, 1928 (No. 4 of 1928)) to the poor rate in such county, be recovered by the levying by such council of a special rate which shall be added to and collected with the poor rate assessed on the tenement in respect of which such person is so rated, and may be collected and recovered by such council in the same manner and by the same means as poor rate may be collected and recovered by them, or
+
+(b) if the person by whom the same is payable is not rated as aforesaid to the poor rate in such county, be recovered by means of a special rate to be made by such council for the purposes of this section to which such person shall be rated and which shall be collected and may be recovered in the same manner and by the same means as poor rate may be collected and recovered by such council.
