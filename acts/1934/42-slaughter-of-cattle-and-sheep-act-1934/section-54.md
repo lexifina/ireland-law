@@ -1,0 +1,5 @@
+Investigation of complaints.
+
+54.—(1) For the purpose of promoting the smooth and efficient working of this Part of this Act, any inspector, unemployment assistance officer, relieving officer, assistance officer, or member of the Gárda Síochána shall be entitled to inquire into and investigate any complaint by a recipient or by a registered proprietor of registered premises in regard to any matter arising under this Part of this Act and also to inquire into and investigate any matter arising in the execution of this Part of this Act which comes to the knowledge of such inspector, officer, or member and appears to him to require investigation.
+
+(2) Whenever any inspector or any such officer as is mentioned in the foregoing sub-section of this section or any member of the Gárda Síochána finds on an inquiry or investigation made by him under that sub-section any abuse, irregularity, or other matter in relation to the execution of this Part of this Act which appears to him to require remedying, it shall be the duty of such inspector, officer, or member (as the case may be) to make such report as appears to him proper in the circumstances.
