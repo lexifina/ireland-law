@@ -1,0 +1,7 @@
+Rights of street service vehicle driver against hirer.
+
+145.—(1) Whenever the driver of a street service vehicle which has been lawfully hired in a fare bye-law area is lawfully directed by the hirer at any time during such hiring to drive such vehicle to a place in such area, it shall be lawful for such driver to demand and receive from the hirer either (at the option of such driver) the lawful fare for the services theretofore rendered by such driver during such hiring or the lawful fare for such services together with the lawful fare for driving to the said place from the place at which such direction is given.
+
+(2) Whenever the driver of a street service vehicle which has been lawfully hired in a fare bye-law area is lawfully directed by the hirer to wait with such vehicle at a place in such area, it shall be lawful for such driver to inquire from and be informed by the hirer the length of time during which he is so to wait and also to demand and receive from the hirer either (at the option of such driver) the lawful fare for the services theretofore rendered by such driver during such hiring or the lawful fare for such services together with the lawful fare for waiting for the said length of time.
+
+(3) Whenever the hirer of a street service vehicle fails or refuses to pay to the driver of such vehicle a lawful fare lawfully demanded of him under this section by such driver it shall be lawful for such driver to refuse to comply with the direction the giving of which occasioned such demand and to terminate the hiring of such vehicle.

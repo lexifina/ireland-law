@@ -1,0 +1,9 @@
+Issue of vehicle plates.
+
+95.—(1) Whenever the Commissioner grants a public service vehicle licence he shall, upon payment to him by the licensee of such sum as shall from time to time be fixed by regulations made by the Minister with the consent of the Minister for Finance, issue to such licensee a metal plate (in this Part of this Act referred to as a vehicle plate) of the prescribed pattern and having marked thereon in the prescribed manner the serial number of the said licence and the prescribed words, letters, numbers, and designs.
+
+(2) Whenever the Commissioner is satisfied that a vehicle plate has been lost, destroyed, or broken or has become so defaced by wear or injury that the serial number or all or any of the letters, words, numbers, and designs required by this section to be marked thereon are obliterated or illegible the Commissioner shall, on the application of the owner of the vehicle to which such vehicle plate relates and delivery to the Commissioner of such vehicle plate (if not lost or destroyed) and payment to the Commissioner by such owner of such sum as shall from time to time be fixed by regulations made by the Minister with the consent of the Minister for Finance, issue to such owner a new vehicle plate.
+
+(3) Whenever a public service vehicle licence ceases to be in force the licensee shall within three days after such cesser deliver to the Commissioner the vehicle plate issued in respect of such licence.
+
+(4) If any person who is required by the next foregoing sub-section of this section to deliver to the Commissioner a vehicle plate fails or neglects so to do within the time limited in that behalf by the said sub-section, such person shall be guilty of an offence under this section, and shall on summary conviction thereof be liable to a fine not exceeding two pounds and a further fine not exceeding five shillings for every day during which such offence is continued.

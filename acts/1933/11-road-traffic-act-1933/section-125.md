@@ -1,0 +1,3 @@
+Penalty for damaging public service vehicle.
+
+125.—Every person who wilfully or maliciously commits any damage or injury to a licensed public service vehicle shall be guilty of an offence under this section and on summary conviction thereof shall be liable to a fine not exceeding five pounds and may be ordered by the court by whom he is so convicted to pay to the owner of such vehicle such sum as such court shall fix as compensation for such damage or injury and for the loss of the time of such owner and of the driver and conductor of such vehicle or of any of them (as the case may require) in attending such court.

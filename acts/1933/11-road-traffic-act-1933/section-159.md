@@ -1,0 +1,11 @@
+Closing of particular roads to vehicles.
+
+159.—(1) The Minister may, after holding a public inquiry, by order prohibit, subject to such exceptions or conditions as to occasional use or otherwise as may be specified in such order, the driving of vehicles or any specified class or classes of vehicles on any specified road in respect of which it appears to him in consequence of such inquiry to be proved that the driving of vehicles or such class or classes of vehicles on such road would endanger such vehicles or the persons therein or other traffic or that such road is for any other reason unsuitable for use by vehicles or such class or classes of vehicles.
+
+(2) Whenever an order is made under the foregoing sub-section of this section it shall be the duty of the council charged with the maintenance of the road to which such order relates to erect and maintain at such places as shall be specified in such order notices in a form approved of by the Minister stating the effect of such order.
+
+(3) Whenever an order has been made by the Minister under sub-section (1) of this section, the Minister may at any time, after giving notice to the council charged with the maintenance of the road to which such order relates and considering any representations made to him by such council, by order revoke or amend such first-mentioned order, and thereupon it shall be the duty of such council to remove or alter as the case may require the notices erected and maintained by them under sub-section (2) of this section in relation to such first-mentioned order.
+
+(4) Every order made under section 12 of the Roads Act, 1920 and in force immediately before the commencement of this Part of this Act prohibiting or restricting the driving of vehicles of any specified class on any specified road in any particular area shall, from and after such commencement, be deemed for all purposes (including offences and penalties) to have been made under this section and shall continue in force and be capable of revocation and amendment accordingly.
+
+(5) Every person who drives a vehicle on a road in contravention of an order made under sub-section (1) of this section shall be guilty of an offence under this section and shall on summary conviction thereof be liable to a fine not exceeding twenty pounds.

@@ -1,0 +1,7 @@
+Obligation to carry conductor in certain cases.
+
+111.—(1) A large public service vehicle having sitting accommodation for more than fourteen adult passengers shall not be used as an omnibus unless there is carried thereon a licensed conductor who acts as the conductor of such vehicle or such vehicle is being used as an omnibus without such conductor under and in accordance with a permit in that behalf issued by the Commissioner under this section.
+
+(2) The Commissioner may, if he so thinks fit on the application of the owner of a large public service vehicle having sitting accommodation for more than fourteen passengers, issue to such owner and at any time renew or revoke a permit to use such vehicle as an omnibus on a specified service or for a specified purpose without there being carried thereon such conductor as is mentioned in the foregoing sub-section of this section, and may expressly limit such permit to a specified occasion or a specified period and may attach to such permit such conditions as he thinks proper and specifies therein.
+
+(3) If a large public service vehicle having sitting accommodation for more than fourteen adult passengers is used in contravention of this section the licensee of such vehicle and also the driver thereof shall each be guilty of an offence under this section and shall on summary conviction thereof be liable to a fine not exceeding ten pounds.

@@ -1,0 +1,3 @@
+Driving mechanically propelled vehicle when unfit.
+
+29.—Every person who drives a mechanically propelled vehicle in a public place when he is to his knowledge suffering from any disease or physical or mental disability which would be likely to cause the driving of such vehicle by him in a public place to be a source of danger to the public shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first offence, to a fine not exceeding ten pounds or, in the case of a second or any subsequent offence, to a fine not exceeding twenty-five pounds.

@@ -1,0 +1,11 @@
+Prevention of obstruction of traffic by fairs and markets.
+
+157.—(1) Where any fair or market is held in any public place within the functional area of the council of a county, a county or other borough, or an urban district or the commissioners of a town, it shall be the duty of such council or commissioners to make such bye-laws as may be necessary for securing the free passage of vehicular traffic through such place on the occasion of such fairs or markets.
+
+(2) Sections 219 to 223 of the Public Health (Ireland) Act, 1878 as adapted by or under any Act of the Oireachtas shall apply to bye-laws made under this section in like manner as those sections apply to bye-laws made under the said Act subject to the modification that references therein to a sanitary authority shall be construed as references to the council of a county, county or other borough, or urban district or the commissioners of a town, as the case may require.
+
+(3) Where the Minister is of opinion that bye-laws should be made under this section and the council or commissioners having power under this section to make such bye-laws either has not made any such bye-laws or has not made such bye-laws as the Minister shall consider to be necessary, the Minister may himself make all such bye-laws including bye-laws revoking or amending bye-laws made by such council or commissioners as he shall consider to be necessary or proper and such council or commissioners could have made under this section, and every bye-law so made to the Minister shall have effect as if it had been made by such council or commissioners but shall not be capable of being revoked or amended by such council or commissioners without the sanction of the Minister.
+
+(4) Every person who does any act (whether of commission or omission) which is a contravention of a bye-law made under this section by the council of a county, county or other borough, or urban district or by the commissioners of a town or by the Minister shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding two pounds.
+
+(5) For the purposes of this section the functional area of the council of a county does not include any borough or urban district in such county nor any town in such county which has town commissioners.

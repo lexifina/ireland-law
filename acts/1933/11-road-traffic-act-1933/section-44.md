@@ -1,0 +1,3 @@
+Offences by officers of licensing authorities.
+
+44.—Every officer of a licensing authority who, in purported performance of his duty as such officer, does any act (whether of commission or omission) which is a contravention by such licensing authority of this Act or a regulation made thereunder or who, either alone or in conspiracy with another person, causes or attempts to cause such licensing authority to do any act (whether of commission or omission) which is a contravention of this Act or a regulation made thereunder shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds or, at the discretion of the Court, to imprisonment for a term not exceeding three months.

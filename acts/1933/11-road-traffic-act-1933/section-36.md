@@ -1,0 +1,3 @@
+Notification of orders and endorsements.
+
+36.—Whenever a court makes a consequential disqualification order, an ancillary disqualification order, or a special disqualification order or an order annulling or varying any such disqualification order or an order discharging a special disqualification order or (without making any such disqualification order) causes particulars of a conviction to be endorsed on a driving licence, such court shall cause notice of such order or endorsement to be sent to the Minister who shall notify all licensing authorities in Saorstát Éireann of such order or endorsement.

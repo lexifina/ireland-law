@@ -1,0 +1,21 @@
+Operation of driving licences.
+
+26.—(1) Save as hereinafter otherwise provided, every driving licence granted after the commencement of this Part of this Act shall operate and be expressed to operate to license the person to whom it is granted—
+
+(a) if or when such person has attained the age of sixteen years and is under the age of seventeen years, to drive a motor cycle, and
+
+(b) if or when such person has attained the age of seventeen years and is under the age of eighteen years, to drive any kind of light motor vehicle or motor cycle, and
+
+(c) if or when such person has attained the age of eighteen years and is under the age of twenty-one years, to drive any kind of mechanically propelled vehicle except a heavy motor vehicle or a locomotive while such vehicle or locomotive is actually carrying passengers for reward, and
+
+(d) if or when such person has attained the age of twenty-one years, to drive any kind of mechanically propelled vehicle.
+
+(2) Where a person holds, at the commencement of this Part of this Act, a licence granted to him under section 3 of the Motor Car Act, 1903, and in force at such commencement, whichever of the following provisions is applicable shall have effect, that is to say:—
+
+(a) if such person held a licence or licences under the said section 3 continuously during a period of not less than six months ending at such commencement, such licence or the later of such licences (as the case may be) and every licence granted by way of renewal thereof under this Part of this Act shall (in addition and without prejudice to any other operation or effect which such licence or renewal may have under this Part of this Act) operate to licence such person as from such commencement to drive any class of mechanically propelled vehicle which such licence licensed him to drive immediately before such commencement, or
+
+(b) if such person held a licence or licences under the said section 3 continuously during a period of less than six months but not less than two months ending at such commencement and was immediately before such commencement driving a mechanically propelled vehicle for the purpose or in the course of earning his livelihood, such licence or the later of such licences (as the case may be) and every licence granted by way of renewal thereof under this Part of this Act shall (in addition and without prejudice to any other operation or effect which such licence or renewal may have under this Part of this Act) operate to licence such person as from such commencement to drive the mechanically propelled vehicle which he was so driving as aforesaid and any other mechanically propelled vehicle of the same class as that vehicle.
+
+(3) Every driving licence granted under this Part of this Act (including a driving licence so granted by way of renewal) to a person who has at any time previously lodged with the licensing authority a certificate of limited fitness shall be and be expressed to be limited to the driving of a mechanically propelled vehicle which is of the particular class or one of the particular classes mentioned in that behalf in such certificate or the latest of such certificates and indicated in such licence and is equipped with the special fittings or special features mentioned in such certificate or the latest of such certificates and specified and described in such licence in the same terms as they are specified and described in such certificate or latest certificate, as the case may be.
+
+(4) Every driving licence granted under this Part of this Act (including a driving licence so granted by way of renewal) to a person who has at any time previously lodged with the licensing authority a certificate of fitness to drive an invalid carriage shall be and be expressed to be limited to the driving of a mechanically propelled vehicle which is of the particular class or one of the particular classes mentioned in that behalf in such certificate or the latest of such certificates and indicated in such licence and of the special design and construction mentioned in such certificate or the latest of such certificates and specified and described in such licence in the same terms as it is specified and described in such certificate or latest certificate, as the case may be.

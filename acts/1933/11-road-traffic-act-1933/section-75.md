@@ -1,0 +1,7 @@
+Obligation of driver to give owner notice of accident.
+
+75.—(1) Whenever an event occurs in relation to a mechanically propelled vehicle in consequence of which the vehicle insurer who issued an approved combined policy and guarantee or the principal debtor under an approved guarantee then in force in respect of such vehicle may become liable to pay money to any person, the person who is the driver of such vehicle when such event happens shall (unless he is himself the owner of such vehicle or the insured under such policy or combined policy and guarantee or the principal debtor under such guarantee or such event occurs in the presence of the owner of such vehicle) give to the owner of such vehicle, as soon as practicable after the happening of such event, notice of the happening of such event together with full particulars thereof.
+
+(2) Any person who, in contravention of this section, fails to give to the owner of a mechanically propelled vehicle within the time specified in this section any notice or any particulars which he is required by this section to give to such owner shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding five pounds.
+
+(3) Any notice or particulars which any person is required by this section to give to the owner of a mechanically propelled vehicle may be given by posting such notice or particulars in a properly closed and prepaid envelope addressed to such owner.

@@ -1,0 +1,9 @@
+Effect of existing licences under the Motor Car Act, 1903.
+
+45.—(1) Every licence granted under section 3 of the Motor Car Act, 1903, and bearing date as of a day prior to the commencement of this Part of this Act and in force at the commencement of this Part of this Act shall (notwithstanding that it bears a date prior to the commencement of this Part of this Act) be deemed to be a driving licence granted under this Part of this Act as of the date such licence actually bears and accordingly every such licence shall have the like force and effect after the commencement of this Part of this Act as it would have had if it had been granted under this Part of this Act as of the date it actually bears.
+
+(2) Where a licence granted under section 3 of the Motor Car Act, 1903, was at the commencement of this Part of this Act suspended by an order of the court under section 4 of that Act the person who is the holder of such licence shall, for the purposes of this Part of this Act, be deemed to have been disqualified for holding a driving licence during the period of such suspension by virtue of an ancillary disqualification order made under this Part of this Act as of the date on which such first mentioned order was made.
+
+(3) Where an order disqualifying a person for holding a licence under section 3 of the Motor Car Act, 1903, made by the court under section 4 of the said Act is in force at the commencement of this Part of this Act, such order shall after the passing of this Act be deemed to be an ancillary disqualification order made by the court under this Part of this Act as of the date on which such first mentioned order was made and shall have effect accordingly.
+
+(4) Where a licence granted under section 3 of the Motor Car Act, 1903, has been endorsed under section 4 of that Act, such endorsement shall for the purposes of this Part of this Act be deemed to have been made under this Part of this Act as of the date of such endorsement.

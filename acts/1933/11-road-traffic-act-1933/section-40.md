@@ -1,0 +1,3 @@
+Writing of signature on demand by member of Gárda Síochána.
+
+40.—Any member of the Gárda Síochána may request any person driving a mechanically propelled vehicle or producing his driving licence at a Gárda Síochána station in pursuance of the next preceding section to sign his name in a book and with a pencil to be provided by such member and at the place in such book indicated by such member, and if such person on being so requested and on being provided with such book and pencil refuses or neglects to sign his name in such book or with such pencil or at the place in such book indicated by such member he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding five pounds.

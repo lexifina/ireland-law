@@ -1,0 +1,3 @@
+Right to demand name and address of pedal cyclists.
+
+175.—Any member of the Gárda Síochána may demand of any person in charge of a pedal bicycle or a pedal tricycle whom such member suspects of having committed any crime or offence or of having been concerned or involved in a collision or other event on a road causing injury to person or property, the name and address of such person, and if any such person fails or refuses to give on such demand his name and address or gives a name or address which such member reasonably believes to be false or misleading, such member may take such bicycle or tricycle (as the case may be) by force if necessary and retain it until such time as he is satisfied as to the identity of such person.

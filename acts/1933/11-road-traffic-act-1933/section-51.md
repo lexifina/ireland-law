@@ -1,0 +1,7 @@
+Prohibition of dangerous driving.
+
+51.—(1) Every person who drives a vehicle in a public place at a speed or in a manner which, having regard to all the circumstances of the case (including the nature, condition, and use of such place and the amount of traffic which then actually is or might reasonably be expected then to be in such place), is dangerous to the public shall be guilty of an offence under this section and shall, on summary conviction thereof, be liable, in the case of a first offence, to a fine not exceeding fifty pounds or, at the discretion of the court, to imprisonment for a term not exceeding three months or to both such fine and such imprisonment or, in the case of a second or any subsequent offence, to a fine not exceeding one hundred pounds or, at the discretion of the court, to imprisonment for any term not exceeding six months or to both such fine and such imprisonment.
+
+(2) In a prosecution for an offence under this section, it shall not be a defence to prove that the speed at which the accused person was driving the vehicle concerned at the time and in the place at and in which such offence is alleged to have been committed was not in excess of an ordinary speed limit or a special speed limit applicable to such vehicle at that time and in that place.
+
+(3) On a prosecution for an offence under this section the accused person may, if not convicted of such offence, be convicted of an offence under the next preceding section of this Act.

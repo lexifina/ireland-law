@@ -1,0 +1,7 @@
+Ancillary disqualification orders.
+
+31.—(1) Where a person is convicted of an offence under this Act or otherwise in relation to a mechanically propelled vehicle or the driving of any such vehicle (other than an offence under the next foregoing section of this Act) or of a crime or offence in the commission of which a mechanically propelled vehicle was used, the court by whom such person is so convicted may, without prejudice to the infliction of any other punishment authorised by law, make an order (in this Act referred to as an ancillary disqualification order) declaring the person so convicted to be disqualified for holding a driving licence during such period as such court shall think proper and shall specify in such order.
+
+(2) In every case in which an appeal may be brought in respect of the conviction of any person by any court of an offence on conviction of which an ancillary disqualification order may be made, the court having jurisdiction to hear such appeal shall have jurisdiction to confirm, annul or vary an ancillary disqualification order.
+
+(3) An ancillary disqualification order made by a Justice of the District Court shall be subject to appeal in like manner as if such order were an order for the payment of a penal sum by the person against whom such order is made and section 18 of the Courts of Justice Act, 1928 (No. 15 of 1928) shall apply and have effect accordingly.

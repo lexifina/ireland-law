@@ -1,0 +1,9 @@
+Penalty for failure to pay hire or fare.
+
+126.—(1) If any person shall refuse or omit to pay to the owner or to the driver or conductor of a licensed public service vehicle any sum which is justly due and payable by such person to such owner or to such driver or conductor on behalf of such owner for the hire of such vehicle such person shall be guilty of an offence under this section and shall on summary conviction thereof be liable to the punishment hereinafter mentioned.
+
+(2) If any person shall refuse or omit to pay to the driver or to the conductor (if any) of a large public service vehicle any sum which is justly due and payable by such person to such driver or such conductor (as the case may be) as the fare for the carriage of such person in such vehicle such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to the punishment hereinafter mentioned.
+
+(3) Whenever the owner, driver, or conductor of a licensed public service vehicle complains to a member of the Gárda Síochána that an offence under this section is being or has been committed in relation to such owner, driver, or conductor (as the case may be) by a person pointed out to such member by such owner, driver, or conductor, such member may arrest without warrant the person so pointed out to him and hold such person to bail to appear before a Justice of the District Court.
+
+(4) Every person who is summarily convicted of an offence under this section shall be liable to a fine not exceeding five pounds or, at the discretion of the court, to imprisonment for any term not exceeding one month and may also be ordered by the court to pay to such owner, driver, or conductor (as the case may be) the sum the non-payment of which constituted the offence and such further sum as the court shall fix as compensation for the loss of time of such owner, driver, or conductor in attending the court.
