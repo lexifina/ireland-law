@@ -1,0 +1,3 @@
+Currency in which contracts, etc., are made.
+
+25.—Every contract, sale, payment, bill, note, instrument, and security for money, and every transaction, dealing, matter, and thing whatever relating to money or involving the payment or the liability to pay any money which is made, executed, entered into, done, or had on or after the coming into operation of this section shall be made, executed, entered into, done and had according to coins or notes which are for the time being legal tender in the State and not otherwise, unless the same be made, executed, entered into, done or had according to a currency other than the currency of the State.

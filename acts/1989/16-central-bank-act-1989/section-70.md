@@ -1,0 +1,5 @@
+Expenses and remuneration of liquidator under this Chapter.
+
+70.—(1) Subject to subsection (2), no deduction shall be made from assets vesting in the liquidator by virtue of section 58 for expenses incurred or remuneration claimed by the liquidator in respect of matters to which this Chapter relates and, accordingly, such expenses and remuneration shall be dealt with as if they related to the winding up of the holder or former holder of the licence under the Companies Acts, 1963 to 1986.
+
+(2) Where, on the application of a liquidator to whom this Chapter relates, the Bank is satisfied that there are insufficient assets out of which expenses and remuneration can be paid in accordance with subsection (1), then the Bank may permit all reasonable expenses properly incurred and such remuneration to the liquidator as the Bank considers appropriate to be paid out of the amount vesting in the liquidator under section 58, or otherwise out of the deposit protection account, but only to the extent of that insufficiency.

@@ -1,0 +1,3 @@
+Application of certain enactments.
+
+119.—Legal tender notes issued under this Act or under the Currency and Central Bank Acts, 1927 to 1971, or any of those Acts shall be deemed to be bank notes within the meaning of the Forgery Act, 1913, and any other enactment relating to offences in respect of bank notes which is for the time being in force in the State and to be valuable securities within the meaning of the Larceny Act, 1916, and any other law relating to stealing which is for the time being in force in the State and to be current coin of the State for the purpose of the Acts relating to payment of wages in cash and any other like enactment.

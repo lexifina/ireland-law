@@ -1,0 +1,3 @@
+Offences in relation to certain bodies.
+
+11.—Where an offence under the Central Bank Acts, 1942 to 1989, is committed by a body corporate or by a person purporting to act on behalf of a body corporate or an unincorporated body of persons and is proved to have been so committed with the consent or approval of, or to have been facilitated by any wilful neglect on the part of, another person (being a director, manager, secretary, member of any committee of management or other controlling authority of such body or official of such body) that other person shall, as well as the body corporate or the person so purporting to act, be guilty of an offence and shall be liable to be proceeded against and punished accordingly.

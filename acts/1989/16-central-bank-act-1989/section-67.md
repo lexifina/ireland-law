@@ -1,0 +1,9 @@
+Reconstitution of deposit protection account.
+
+67.—(1) Subject to section 68, the Bank shall from time to time apportion among the holders of licences, in proportion to the amounts of their respective deposits required to be maintained at the time of such apportionment in the deposit protection account, any payments charged on that account (other than any repayment or any part thereof for the purposes of this Chapter) in accordance with section 60 or section 66 together with any moneys due but not paid to the holders in accordance with section 69 and the amount so ascertained in respect of each holder shall, subject to subsection (2) be debited against, or credited to, as the case may be, that holder's deposit in the said account.
+
+(2) (a) The aggregate of the amounts debited by virtue of subsection (1) in any period (being a period between a calculation or recalculation under section 55 and the first or subsequent recalculation, respectively, thereunder) in respect of a holder of a licence shall not exceed the amount of the holder's deposit maintained in accordance with this Chapter in the deposit protection account during that period.
+
+(b) Where amounts which, but for paragraph (a), would have been debited against the holders of licences in the deposit protection account are not so debited because of that paragraph, then the total of the amounts not so debited shall be aggregated and apportioned in the next following year or, where necessary, the succeeding years in accordance with subsection (1) in proportion to the amounts of the relevant deposits at the time it is so apportioned.
+
+(3) Each holder of a licence shall lodge with the Bank for the purpose of maintaining his calculated deposit, or where recalculated as last recalculated, in the deposit protection account, an amount to maintain that deposit and that holder shall comply with such requirement within 7 days or such longer period as the Bank may agree to in writing.
