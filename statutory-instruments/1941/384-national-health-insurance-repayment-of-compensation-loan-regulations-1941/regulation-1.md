@@ -1,0 +1,25 @@
+Regulation 1
+
+1. These Regulations may be cited as the National Health Insurance (Repayment of Compensation Loan) Regulations, 1941.
+
+2.—(1) In these Regulations, unless the context otherwise requires, the following expressions have the respective meanings hereby assigned to them :—
+
+"The Act" means the National Health Insurance Act, 1933 (No. 13 of 1933).
+
+"The Minister" means the Minister for Local Government and Public Health.
+
+"Society" means Cumann an Arachais Náisiúnta ar Shláinte.
+
+(2) The Interpretation Act, 1937 , applies to these Regulations.
+
+3. In respect of moneys advanced by the Minister out of the National Health Insurance Fund under section 24 of the Act to meet the payment of compensation :
+
+(a) the Society shall pay interest for the year 1941 at the rate of 4 per cent., being the rate determined by the Minister for Finance.
+
+(b) the Society shall repay as at 31st December, 1941, the sum of £44,130.
+
+Given under the Official Seal of the Minister for Local Government and Public Health, this 15th day of September, in the year One thousand nine hundred and forty-one.
+
+SEÁN MACENTEE,
+
+Minister for Local Government and Public Health.
