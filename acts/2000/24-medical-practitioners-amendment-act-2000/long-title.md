@@ -1,0 +1,11 @@
+Number 24 of 2000
+
+MEDICAL PRACTITIONERS (AMENDMENT) ACT, 2000
+
+Section 1. Amendment of section 29 of Medical Practitioners Act, 1978. 2. Short title and collective citation. Acts Referred to Medical Practitioners Act, 1978 1978, No. 4 Medical Practitioners Acts, 1978 and 1993 Number 24 of 2000
+
+MEDICAL PRACTITIONERS (AMENDMENT) ACT, 2000
+
+AN ACT TO AMEND SECTION 29 OF THE MEDICAL PRACTITIONERS ACT, 1978, AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH. [8th July, 2000]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
