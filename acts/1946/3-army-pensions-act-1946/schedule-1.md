@@ -1,0 +1,3 @@
+FIRST SCHEDULE.
+
+Alternative Rates of Married Pensions of Officers and Soldiers. Married Pension per week Degree of Disablement In respect of wife In respect of each child born not later than nine months after the date of the pensioner's discharge who, being a boy, is for the time being under the age of 18 years or, being a girl, is for the time being under that age and unmarried (1) (2) (3) s. d. s. d. 100 per cent. 7 6 4 0 90 ” ” 6 9 3 7 80 ” ” 6 0 3 2 70 ” ” 5 3 2 10 60 ” ” 4 6 2 5 50 ” ” 3 9 2 0 40 ” ” 3 0 1 7 30 ” ” 2 3 1 2 20 ” ” 1 6 0 10 The sum specified in the second column of this Schedule shall cease to be payable if the pensioner's wife dies or the marriage is lawfully annulled or dissolved.
