@@ -1,0 +1,7 @@
+S.I. No. 190 of 1972.
+
+WHEAT ORDER, 1972.
+
+ARRANGEMENT OF ARTICLES.
+
+Article
