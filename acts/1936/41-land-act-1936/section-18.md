@@ -1,0 +1,5 @@
+Goods seizable under warrants of the Land Commission.
+
+18.—(1) A county registrar executing an execution order (other than an order for the delivery of possession of lands or premises) obtained at the suit of the Land Commission-or levying under a warrant issued by the Land Commission under section 28 of the Land Act, 1933, shall, in addition to all other powers vested in him by law, be entitled to levy the amount leviable under such order or warrant by seizure and sale, so far as may be necessary of all goods, animals or other chattels (to whomsoever belonging) found on the lands on which are charged or out of which issue the moneys for default in payment whereof such execution order was obtained or such warrant was issued.
+
+(2) In this section the expression “execution order” has the same meaning as it has in the Enforcement of Court Orders Act, 1926 (No. 18 of 1926), and in the application of this section in relation to a county for which there is for the time being an under-sheriff, the word “under-sheriff” shall in this section be substituted for the expression “county registrar.”

@@ -1,0 +1,3 @@
+Sale of defaulters' holdings discharged from arrears.
+
+9.—Where the Land Commission have obtained possession of a holding under section 37 of the Land Act, 1927, on account of default in the payment of the purchase annuity charged on such holding or have taken up a parcel of land from an allottee on account of default in the payment of interest, rent, or other annual payment payable in respect of such parcel, the Land Commission may, with the consent of the Minister for Finance, re-sell such holding or re-allot such parcel discharged from the whole or a specified part of the arrears of such purchase annuity or annual payment (as the case may be) and shall in such case write off as irrecoverable the arrears from which such holding or parcel is so discharged.

@@ -1,0 +1,7 @@
+Extension of the purposes for which holdings may be resumed.
+
+24.—(1) In addition to the purposes for which the Land Commission may, under the enactments in force immediately before the passing of this Act, resume a holding, the Land Commission may resume a holding for the purpose of the provision of land for resale to the persons or bodies mentioned in section 31 of the Land Act, 1923, as amended by sub-section (2) of section 33 of the Land Act, 1933.
+
+(2) Where the Appeal Tribunal authorises the Land Commission to resume a holding and the Lay Commissioners (other than the members of the Appeal Tribunal) certify that it is expedient that such holding should immediately be available for distribution or for carrying out improvements with a view to distribution, the Appeal Tribunal shall authorise the Land Commission to enter into possession of such holding immediately notwithstanding that the resumption price thereof has not been fixed.
+
+(3) Where the Land Commission, under an authority given by the Appeal Tribunal under the next preceding sub-section of this section, enters into possession of a holding; before the resumption price thereof is fixed, the Land Commission shall, when land bonds are issued in payment of such resumption price, pay to the person entitled to such resumption price interest on such resumption price from the date on which the Land Commission so enters into possession of such holding to the date on which the said land bonds are issued at the rate per annum at which the interest on the said land bonds is payable.

@@ -1,0 +1,5 @@
+Redemption of purchase annuities on holdings acquired by the Land Commission.
+
+6.—(1) Whenever the redemption price of a purchase annuity charged on land acquired by the Land Commission is, in pursuance of section 14 of the Land Act, 1923, regarded and dealt with as a claim attaching to the purchase money of such land, the redemption price of such purchase annuity shall (notwithstanding anything contained in section 3 of the Land Act, 1923, as amended by section 4 of the Land Bond Act, 1925 (No. 25 of 1925), or in the said section 3 as so amended and applied by either section 2 of the Land Bond Act, 1933 (No. 33 of 1933), or section 2 of the Land Bond Act, 1934 (No. 11 of 1934)) be paid by transferring to the Land Commission so much of the land bonds representing the said purchase money as shall be sufficient at the price of the day to pay the redemption price of such purchase annuity.
+
+(2) Sub-section (3) of section 1 of the Land Act, 1923, as amended by section 3 of the Land Bond Act, 1925, is hereby amended by the deletion therefrom of the sentence now contained therein which begins with the words “Such regulations” and ends with the words “under this Act”.

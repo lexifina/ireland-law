@@ -1,0 +1,3 @@
+Preservation of rights notwithstanding listing under sections 23 or 24 of the Land Act, 1931.
+
+32.—The inclusion (whether before or after the passing of this Act) of a holding in a list of congested districts holdings published under section 23 of the Land Act, 1931, or in a list of holdings on untenanted land published under section 24 of the said Act shall not operate or, in the case of a list published before the passing of this Act, be deemed ever to have operated to deprive the Land Commission of any rights which, immediately before the publication of such list, they had in relation to such holding under the agreement or letting under which it was then held.

@@ -1,0 +1,3 @@
+Restriction on vesting of untenanted land in a congested districts county.
+
+21.—No untenanted land situated in a congested districts county in respect of which no provisional list has been published before the passing of this Act shall vest in the Land Commission on the appointed day by virtue of section 24 (as amended or extended by subsequent enactments) of the Land Act, 1923, unless the Lay Commissioners before the appointed day certify that such land is required for the purpose of relieving congestion or for the purpose of resale, under the powers conferred by section 32 of the Land Act, 1933, to the persons or bodies mentioned in section 31 (as amended or extended by subsequent enactments) of the Land Act, 1923.

@@ -1,0 +1,3 @@
+Power to agree on standard purchase annuity of non-judicial holding.
+
+14.—Where the landlord and the tenant of a holding to which Part II of the Schedule to the Land Act, 1923, applied have, after the passing of the Land Act, 1929, and either before or after the passing of this Act, agreed upon the amount of the standard purchase annuity of such holding, the standard purchase annuity of such holding shall, notwithstanding anything contained in section 2 of the Land Act, 1929, but without prejudice to the powers of the Land Commission under section 38 of the Land Act, 1933, to reduce such standard purchase annuity, be the standard purchase annuity so agreed upon.
