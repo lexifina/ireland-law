@@ -1,0 +1,5 @@
+Special provisions in respect of classes of particular persons.
+
+10.—(1) In the case of a person who was employed on the Tramway on the critical date and was at any time prior to that date employed by the Cork Electric Supply Company, Limited, otherwise than on the Tramway, such employment by the said Company shall, for the purposes of this Act, be deemed to be employment on the Tramway.
+
+(2) Where any person who is entitled to compensation under this Act was temporarily absent from his employment on the Tramway and during the whole of such absence was engaged in service in any of the military forces serving under the authority of the first Dáil Eireann, the Second Dáil Eireann, or the Provisional Government of Ireland, or the British Army, Navy, or Air Force, or in either of the opposing forces during the civil strife in the years 1922, 1923, and 1924, or was interned or imprisoned in consequence of such service, such temporary absence shall, for the purposes of this Act, be reckoned with and included in his period of employment with the Tramway.
