@@ -1,0 +1,5 @@
+Amendment of section 13 (inspection and removal of records) of Principal Act.
+
+5.—Section 13 of the Principal Act is hereby amended by the substitution of the following subsection for subsection (1):
+
+“(1) An inspector or an authorised officer may, for the purpose of making an enquiry which he reasonably considers to be necessary either in relation to liability to levy, or an obligation to make reductions under section 9 of this Act, of any person, enter at any reasonable time any premises in which the inspector or officer has reason to believe that such person is carrying on business and the inspector or officer may request the production of, search for and inspect any records, books or other documents whatsoever relating to milk or animals and may remove and retain any such records, books or other documents for such period as may be reasonable for their examination or for the purpose of any proceedings for the recovery of levy payable under or by virtue of this Act or for an offence under this Act.”.
