@@ -1,0 +1,11 @@
+Amendment of section 14 of the Law Reform Commission Act, 1975.
+
+3.—Section 14 of the Law Reform Commission Act, 1975, is hereby amended by the insertion of the following paragraphs for paragraph (a) and paragraph (b) (inserted by the Courts Act, 1997) of section 14 (1) of the Law Reform Commission Act, 1975:
+
+“(a) in case on being so appointed such person is a judge of the Supreme Court, other than the Chief Justice or a judge who is ex-officio an additional judge of that Court, then for so long as such person continues to hold that judicial office, the number of ordinary judges of the Supreme Court otherwise provided for may be exceeded by one:
+
+Provided that, in the case of a former Chief Justice to whom section 4 (2) of the Courts (No. 2) Act, 1997, relates, for so long as such person continues to hold the judicial office held on being so appointed, such person shall not be taken into account for the purposes of subsection (1) of section 6 of that Act and any vacancy consequent on the application of that subsection to such person may be filled but without prejudice to the application of that subsection to that person upon his or her ceasing to be so appointed but remaining a former Chief Justice to whom the said section 4(2) relates,
+
+(b) in case on being so appointed such person is the President of the High Court or another judge of the High Court, other than a judge who is ex-officio an additional judge of that Court, then for so long as such person continues to hold the judicial office held by such person on so being appointed the number of ordinary judges of the High Court otherwise provided for may be exceeded by one:
+
+Provided that, in the case of a former President of the High Court to whom section 4(2) of the Courts (No. 2) Act, 1997, relates, for so long as such person continues to hold the judicial office held on being so appointed, such person shall not be taken into account for the purposes of subsection (2) of section 6 of that Act and any vacancy consequent on the application of that subsection to such person may be filled but without prejudice to the application of that subsection to that person upon his or her ceasing to be so appointed but remaining a former President of the High Court to whom the said section 4(2) relates,”.

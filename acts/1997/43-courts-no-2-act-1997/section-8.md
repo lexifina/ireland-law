@@ -1,0 +1,3 @@
+Maintenance of judicial remuneration, etc.
+
+8.—Notwithstanding the provisions of section 46 of the Courts (Supplemental Provisions) Act, 1961, a former presiding judge of any court who subsequently serves, until judicial retirement, as a judge of that court to whom section 4(2) relates shall be paid the same remuneration as provided, from time to time, for the presiding judge of that court for as long as he or she remains a judge of that court to whom section 4(2) relates and, upon judicial retirement, shall be entitled to the same pension and any other entitlements relating to such retirement as if he or she had been the presiding judge of that court at the date of such retirement.
