@@ -1,0 +1,1 @@
+I, LIAM KAVANAGH, Minister for Labour, in exercise of the powers conferred on me by section 4 (6) (b) of the Protection of Young Persons (Employment) Act, 1977 (No. 9 of 1977), hereby order as follows:
