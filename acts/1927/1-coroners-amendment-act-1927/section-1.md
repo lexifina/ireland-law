@@ -1,0 +1,3 @@
+Duty of coroner to hold an inquest.
+
+1.—Subject to the provisions of section 10 of this Act it shall be the duty of a coroner in every case in which he is informed that the dead body of a person is lying within his district, and there is reasonable cause to suspect that such person has died either a violent or unnatural death or has died a sudden death of which the cause is unknown or that such person has died in prison or in such place or in such circumstances as to require an inquest under any Act other than the Coroners (Ireland) Act, 1846, to hold an inquest upon the body of such person in accordance with the provisions of the Coroners (Ireland) Act, 1846 or of this Act.

@@ -1,0 +1,5 @@
+Power to hold inquest in certain cases.
+
+2.—(1) In any case (other than those provided for by section 1 of this Act) in which the coroner is informed of the death within his district of a person who was not attended throughout his last illness by a duly qualified medical practitioner or that a medical certificate of the cause of death of any person is not procurable, he may inquire into the circumstances of the death of such person, and if he is unable to ascertain the cause of such death he may if he shall think fit hold an inquest for the purpose of ascertaining the cause of such death. The coroner may, at any time after he is informed of the death of any such person and pending any such inquiry, make an order for the burial of the body of any such person.
+
+(2) It shall be the duty of the local Superintendent or other officer of the Gárda Síochána, in case he becomes aware of the death within the district of a coroner of any person who was not attended throughout his last illness by a duly qualified medical practitioner, or in whose case a medical certificate of the cause of death is not procurable, to inform the coroner of such death.

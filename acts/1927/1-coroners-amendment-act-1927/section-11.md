@@ -1,0 +1,7 @@
+Post-mortem examination without inquest.
+
+11.—(1) Where a coroner is informed that the dead body of a person is lying within his district and there is reasonable cause to suspect that the person has died a sudden death of which the cause is unknown, if the coroner is of opinion that a post-mortem examination may prove an inquest to be unnecessary, he may cause such an examination to be made and the result to be reported to him, and for the purposes of the examination the coroner and any person authorised by him to conduct the examination shall have the like powers, authorities and immunities as if the examination were an examination directed by the coroner at an inquest upon the body of the deceased.
+
+(2) If as a result of such an examination as aforesaid the coroner is satisfied that an inquest is unnecessary, he shall send to the registrar of deaths whose duty it is to register the death a certificate under his hand stating the cause of death as disclosed by the report, and the registrar shall make an entry in the register accordingly.
+
+(3) Nothing in this section shall be construed as authorising the coroner to dispense with an inquest in any case where there is reasonable cause to suspect that the deceased has died either a violent or an unnatural death, or has died in prison or in such place or in such circumstances as to necessitate the holding of an inquest in accordance with the requirements of any Act other than the Coroners (Ireland) Act, 1846.

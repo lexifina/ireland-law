@@ -1,0 +1,3 @@
+Exhumation.
+
+15.—In any case where a coroner has been informed by a Superintendent of the Gárda Síochána that there is reason to believe that a person who has been already buried in his district has died either a violent or an unnatural death, he may apply to the Minister for Justice for an order directing the Gárda Síochána to have the body of such person exhumed; and the Minister, if he shall see fit, may make such order accordingly and thereupon the coroner shall have all the powers and duties in regard to such body as he would have had if such person had died within his district and he had become aware of the death before the burial of the body.
