@@ -1,0 +1,11 @@
+Special powers for raising money for repairs.
+
+14.—(1) When the landlord of any dwelling-house to which this Act applies requires to raise a sum of money exceeding two-thirds of the annual amount of the standard rent for the purpose of carrying out any repairs for which he is responsible and executes a deed of charge of such sum in the prescribed form such deed of charge shall be effectual to charge the interest of the landlord, and of any superior landlord who joins in the charge, with the repayment of the sum advanced and interest, at a rate, not exceeding six and a half per cent. per annum, in manner therein provided as a first charge in priority to all charges and encumbrances thereon.
+
+(2) Every such deed of charge as aforesaid shall provide for the repayment of the sum advanced by yearly, half-yearly or quarterly instalments extending over a period of not more than six years.
+
+(3) The sum secured by any such deed of charge as aforesaid shall not, without the approval of the Court, exceed a sum equal to twice the annual amount of the standard rent, and the approval of the Court may be given on such terms and conditions as the Court shall think fit to impose for the purpose of safeguarding the interests of all persons concerned.
+
+(4) Such provisions as may be necessary or expedient shall be prescribed for ensuring the proper expenditure of the sum secured by any such deed of charge as aforesaid, and for making the certificate of the architect or contractor conclusive or prima facie evidence on any question of expenditure, and for the registration of the charge in special registers to be kept for the purpose in the Registry of Deeds and Land Registry respectively, and for any matters for which provisions ought to be made.
+
+(5) The provisions of this sub-section shall apply to a deed of charge affecting any number of dwelling-houses to which this Act applies upon which repairs are to be executed under a single contract, as if the annual aggregate amount of the standard rents of all the dwelling-houses affected were the annual amount of the standard rent of a single dwelling-house and the certificate of the architect or contractor shall, in the absence of proof of fraud or collusion be conclusive evidence as between the landlord and the tenants as to the amount of the total expenditure to be apportioned on each dwelling-house.

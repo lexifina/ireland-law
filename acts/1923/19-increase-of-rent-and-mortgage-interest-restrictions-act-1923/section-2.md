@@ -1,0 +1,15 @@
+Determination of the standard rent.
+
+2.—(1) The standard rent shall be determined in the following manner:—
+
+(a) If the dwelling-house was on the third day of August nineteen hundred and fourteen let to an occupying tenant under a contract of tenancy not being for more than a term of five years, then the rent at which the dwelling-house was so let, or, where the dwelling-house was not so let on that date, the rent at which it was last, within a period of three years, so let before that date, shall, subject to the deduction specified in the next succeeding sub-section, be the standard rent.
+
+(b) In any case not coming within the provisions of the last preceding paragraph, the standard rent shall be determined by the Court on the application in the prescribed manner of the landlord or the tenant: Provided that, pending any such application to the Court, the rent at which the dwelling-house was let on the third day of August nineteen hundred and fourteen, or, where the dwelling-house was not let on that date, the rent at which it was last let before that date, or, in the case of a dwelling-house which was first let after the said third day of August, the rent at which it was first let shall, subject to the deduction specified in the next succeeding sub-section, be the standard rent.
+
+(2) Where the landlord at the time by reference to which the standard rent is calculated habitually paid or allowed a deduction or set off against or indemnified the tenant against the rates chargeable on, or which but for the provisions of any Act would be chargeable on the occupier, the amount of such rates shall, for the purpose of such calculation, be deducted from any rent by reference to which such calculation is made.
+
+(3) For the purpose of determining the standard rent under sub-section (1) of this section the rent at which a dwelling-house let at a progressive rent payable under any contract of tenancy was let, means the maximum rent payable under such contract of tenancy.
+
+(4) Where, for the purpose of determining the standard rent or rateable value of any dwelling-house to which this Act applies, it is necessary to apportion the rent at the date in relation to which the standard rent is to be fixed, or the rateable value of the property in which that dwelling-house is comprised, the Court may, on application by either party, make such apportionment as seems just.
+
+(5) A landlord of any dwelling-house to which this Act applies shall, on being so requested in writing by the tenant of the dwelling-house, supply him with a statement in writing affording any information in the landlord's possession or procurement requisite to enable the tenant to determine the standard rent of the dwelling-house or have the same determined by the Court, and if, without reasonable excuse, the landlord fails within fourteen days to do so, or supplies a statement which is false in any material particular, and not proved to have been made innocently and without intent to deceive, he shall be liable on summary conviction to a fine not exceeding ten pounds.
