@@ -1,0 +1,5 @@
+Alteration of the duty on tea.
+
+10.—(1) In lieu of the duty of customs imposed by section 18 of the Finance Act, 1935 (No. 28 of 1935), there shall be charged, levied, and paid on all tea imported into Saorstát Eireann on or after the 14th day of June, 1937, a duty of customs at the rate of twopence the pound.
+
+(2) The provisions of section 8 of the Finance Act, 1919, shall apply to the duty imposed by this section with the substitution of the expression “Saorstát Eireann” for the expression “Great Britain and Ireland” and as though the Second Schedule to that Act contained a list of goods which were, by way of preferential rate, to be admitted free of duty, and tea which is shown to the satisfaction of the Revenue Commissioners not to have been subjected to any process of blending outside the country of origin were included in that list, and tea were omitted from the list of goods in the said Second Schedule to which five-sixths of the full rate is made applicable as a preferential rate.

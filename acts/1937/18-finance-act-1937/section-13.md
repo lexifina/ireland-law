@@ -1,0 +1,3 @@
+Repayment of portion of licence fee under the Cement Act, 1933.
+
+13.—Whenever the quantity of cement imported under an import licence granted under Part V of the Cement Act, 1933 (No. 17 of 1933), is less than the quantity of cement authorised by such licence to be imported, the Minister for Industry and Commerce shall repay to the licensee under such licence so much of the fee paid in pursuance of section 36 of the said Act in respect of such licence as is proportionate to the difference between the quantity of cement imported under such licence and the quantity of cement authorised by such licence to be imported.

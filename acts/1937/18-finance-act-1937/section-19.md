@@ -1,0 +1,3 @@
+Management of government stocks by certain banks.
+
+19.—Until the Oireachtas otherwise provides, the several statutes and statutory orders and regulations relating to the management by the Bank of Ireland of the public stocks, funds, and securities of the late United Kingdom of Great Britain and Ireland which were in force immediately before the establishment of Saorstát Eireann shall apply and be deemed always to have applied, with the necessary modifications, to the management by the Bank of Ireland and the National City Bank, Limited, respectively of public stocks, funds and securities (other than Land Bonds) of the Government of Saorstát Eireann.

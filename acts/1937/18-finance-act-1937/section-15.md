@@ -1,0 +1,3 @@
+Reduction of rates of stamp duty on shareholding banks.
+
+15.—The stamp duty imposed by section 49 of the Finance Act, 1932 (No. 20 of 1932), on every bank which is for the time being a shareholding bank within the meaning of the Currency Act, 1927 (No. 32 of 1927), shall be charged and paid in respect of the half-year beginning on the 1st day of April, 1937, and in respect of every subsequent half-year at the rate of two and one-half per cent. per annum on the amount of consolidated bank notes mentioned in sub-section (1) of the said section 49 in lieu of the rate of three per cent. per annum mentioned in the said sub-section.
