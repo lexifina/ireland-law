@@ -1,0 +1,3 @@
+Article 3
+
+3. The quota appointed by the Control of Imports (Quota No. 2, Twelfth Period) Order, 1939, in respect of the twelfth quota period appointed by that Order is hereby increased by thirty thousand articles to which the Control of Imports (Quota No. 2) Order, 1934, as amended, applies, to the intent that the said thirty thousand articles shall be an additional quota in respect of the said twelfth quota period, and the total quota in respect of the said twelfth quota period shall be forty-five thousand five hundred articles, to which the said Control of Imports (Quota No. 2) Order, 1934, applies.
