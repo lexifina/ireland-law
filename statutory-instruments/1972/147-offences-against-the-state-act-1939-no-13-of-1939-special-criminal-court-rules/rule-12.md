@@ -1,0 +1,3 @@
+Rule 12
+
+12. In the case of an indictable offence, where a person has been sent forward to the Court for trial the Attorney General shall cause to be served on him a list of any further witnesses whom he proposes to call at the trial, with a statement of the evidence that is to be given by each of them, a list of any further exhibits, a statement of any further evidence that is to be given by any witness whose name appears on the list of witnesses already supplied, and copies of any statement recorded, or any deposition taken under section 7 of the Criminal Procedure Act, 1967 , and any deposition taken under section 14 of the said Act.
