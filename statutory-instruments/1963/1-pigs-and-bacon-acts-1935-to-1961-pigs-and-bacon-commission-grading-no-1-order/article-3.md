@@ -1,0 +1,3 @@
+Article 3
+
+3. Where a pig is purchased by a licensee in the period from 7th January, 1963, to 6th April, 1963 (both dates inclusive) and its carcase is disqualified for inclusion in Grade " A " solely by reason of its not being of the minimum length measurement prescribed for that grade, the certificate to be given to the vendor for the purposes of paragraph 2 of The Pigs and Bacon Acts, 1935 to 1961 (Pigs and Bacon Commission) Grading (No. 1) Order, 1962, shall be in the form in the Schedule to this Order.
