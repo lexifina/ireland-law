@@ -1,0 +1,3 @@
+Payment of certain fines to local authorities, sanitary authorities and regional boards.
+
+26.—Where a court imposes a fine or affirms or varies a fine imposed by another court for an offence under the Principal Act or this Act, prosecuted by a local authority, a sanitary authority or a regional board, it shall, on the application of the authority or board concerned (made before the time of such imposition, affirmation or variation), provide by order for the payment of the amount of the fine to the authority or board, as the case may be, and such payment may be enforced by the authority or board, as the case may be, as if it were due to it on foot of a decree or order made by the court in civil proceedings.

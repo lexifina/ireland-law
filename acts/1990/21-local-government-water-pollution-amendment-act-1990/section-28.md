@@ -1,0 +1,3 @@
+Costs of prosecutions.
+
+28.—Where a person is convicted of an offence under the Principal Act, this Act or sections 171 or 172 of the Act of 1959 committed after the commencement of this section, the court shall, unless it is satisfied that there are special and substantial reasons for not so doing, order the person to pay to any local authority, sanitary authority or regional board concerned the costs and expenses, measured by the court, reasonably incurred by the authority or board in relation to the investigation, detection and prosecution of the offence, including costs incurred in the taking of samples, the carrying out of tests, examinations and analyses and in respect of the remuneration and other expenses of employees, consultants and advisers.
