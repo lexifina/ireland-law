@@ -1,0 +1,5 @@
+Service of notices, etc.
+
+31.—(1) Every notice and other document to be served by the Commissioners under this Act may be served by sending the same by prepaid post in an envelope addressed to the person to be served therewith at his usual or last known address, or, where no such address is known and the notice or document relates to any lands, right, or property, at such lands or the place of situation of such right or property, and every notice or other document so served shall be deemed to be served at the time at which the envelope containing the same would be delivered at the address named thereon in the ordinary course of post.
+
+(2) The address of a limited company shall for the purposes of this section be the address of its registered office.

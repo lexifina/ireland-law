@@ -1,0 +1,11 @@
+Making of drainage rate.
+
+22.—(1) All moneys which are by this Act required to be raised by a county council by means of the drainage rate shall be raised by means of a rate (to be known as the drainage rate) assessed on the rated occupiers of the lands stated in the final award to have been drained or improved in the proportions in which such lands are stated in such final award to be liable to contribute to the drainage rate.
+
+(2) The drainage rate shall be made at the same time and subject to the same appeal as the poor rate and, if the county council so thinks fit, may be collected with the poor rate, and shall in any case be leviable, payable, and recoverable in the like manner and by the like means in all respects as poor rate is leviable, payable and recoverable.
+
+(3) During the thirty-five local financial years next after the 31st day of March following the date of the final award it shall not be necessary, save in so far as the Minister for Local Government and Public Health otherwise directs, for a county council actually to make a drainage rate or to publish any notices of the making of such rate or to do any other thing preliminary to the collecting of the drainage rate which in the opinion of such county council may reasonably be left undone having regard to the fact that the amount of the drainage rate is fixed by this Act and the final award.
+
+(4) Where the rated occupier of any lands, buildings, or premises rated in respect of a drainage rate is also the rated occupier of other lands, buildings or premises forming part of or comprised in the same holding, farm, or tenement as the first mentioned lands, buildings, or premises, any sum assessed on such rated occupier in respect of drainage rate under this section may be assessed on and collected, and recovered from him in like manner as if such sum were payable in respect of his occupation of the whole of such holding, farm, or tenement.
+
+(5) If and whenever the moneys collected by a county council in a local financial year in respect of the drainage rate struck by such council for such year are insufficient to meet the payments required by this Act to be made by such council in such year out of moneys raised by means of the drainage rate, the deficiency shall be made good and paid by such council out of the county funds of their county.

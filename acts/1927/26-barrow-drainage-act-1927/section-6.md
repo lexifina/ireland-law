@@ -1,0 +1,13 @@
+Preparation of substituted or additional scheme.
+
+6.—(1) If after the confirmation of the scheme by the Minister for Finance it appears to the Commissioners that alterations are necessary in the works proposed in the scheme to be executed (in this section called the original works) or that works additional to the original works are necessary the Commissioners may either—
+
+(a) prepare a draft scheme (in this section referred to as a substituted scheme) to be substituted for the scheme and containing proposals for the execution of the original works with such alterations of such works as the Commissioners consider necessary whether such alterations involve or do not involve an increase of the estimate of the cost of the execution of the original works and of the expenses generally of carrying out the proposals contained in the scheme or involve or do not involve the compulsory acquisition of or other interference with any lands, rights, or other property other than the lands, rights, or other property proposed in the scheme to be compulsorily acquired or otherwise interfered with, or
+
+(b) prepare a draft scheme (in this section referred to as an additional scheme) to be an addition to the scheme and containing proposals for the execution of works in addition to the original works whether such additional works involve or do not involve an increase of the estimate aforesaid or involve or do not involve the compulsory acquisition of or other interference with any lands, rights, or other property other than the lands, rights, or other property proposed in the scheme to be compulsorily acquired or otherwise interfered with.
+
+(2) The Commissioners shall publish such notices, receive such objections, and hold such inquiries (if any) in respect of a draft substituted scheme or a draft additional scheme prepared by them under this section as shall be directed by the Minister for Finance, and shall present such draft substituted scheme or draft additional scheme, when finally settled by them, to the Minister for Finance for confirmation.
+
+(3) Upon such presentation of a draft substituted scheme or a draft additional scheme the Minister for Finance may by order confirm such draft substituted scheme or draft additional scheme either without alteration or with such alterations (whether by way of variation, addition, or omission) as he thinks proper to make therein.
+
+(4) When a substituted scheme or an additional scheme has been confirmed by the Minister for Finance all references in this Act to the scheme shall, in respect of anything done or to be done after such confirmation, be construed and take effect as references (as the case may require) to the substituted scheme or to the scheme and the additional scheme collectively.
