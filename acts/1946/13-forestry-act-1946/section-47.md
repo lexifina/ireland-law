@@ -1,0 +1,5 @@
+Restriction of use of certain trees the subject of a utilisation (exempted trees) order.
+
+47.—(1) Where the Minister grants a utilisation (exempted trees) order authorising a tree to be used or dealt with for a specified purpose, claimed in the application made to him for such order to be a purpose rendering such tree an exempted tree, it shall not be lawful for any person to use or deal with the tree or any substantial part thereof or cause or permit the said tree or any substantial part thereof to be used or dealt with, when cut down in pursuance of the relevant felling notice or in accordance with the authority conferred by the relevant limited felling licence, for any purpose other than the purpose so authorised.
+
+(2) Every person who uses or deals with a tree or any part thereof or causes or permits a tree or any part thereof to be used or dealt with in contravention of this section shall be guilty of an offence under this section and shall, subject to section 53 of this Act, be liable on summary conviction thereof to a fine not exceeding five pounds for every such tree.

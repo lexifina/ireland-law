@@ -1,0 +1,11 @@
+Order for possession of land vested in the Minister.
+
+29.—(1) Where the Minister is under section 28 of this Act entitled to enter on and take possession of any land and any person neglects or refuses to give up possession thereof or obstructs or interferes with such entry on or taking possession of the land, the Judicial Commissioner may, on the application of the Minister, issue an order to the county registrar, within whose county or county borough the land is situate, to deliver possession of the land to any person named in the order, and upon receipt of the order the county registrar shall deliver possession of the land accordingly and the Minister shall be entitled to recover from the person in default all costs and expenses incurred by him in connection with the issuing and execution of the order.
+
+(2) An order issued under this section shall be deemed to be an execution order within the meaning of the Enforcement of Court Orders Act, 1926 (No. 18 of 1926).
+
+(3) Where possession of any land has been delivered by a county registrar under this section, any person who, without the consent of the Minister, enters on and takes possession of the land or any part thereof shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds and to a further fine not exceeding ten pounds for every day during which he remains in possession.
+
+(4) In the application of subsections (1) and (3) of this section in relation to a county or county borough for which there is for the time being an under-sheriff, the said subsections shall have effect as if the word “under-sheriff” were substituted for the expression “county registrar” where the latter expression occurs in the said subsections.
+
+(5) In the application of subsections (1) and (3) of this section to a county or county borough in which there is for the time being a sheriff, appointed under section 12 of the Court Officers Act, 1945 (No. 25 of 1945), in whom the functions of the county registrar for such county or county borough in relation to the execution of execution orders are for the time being vested, the said subsections shall have effect as if the word “sheriff” were substituted for the expression “county registrar” where the latter expression occurs in the said subsections.

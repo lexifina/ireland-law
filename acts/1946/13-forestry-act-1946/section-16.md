@@ -1,0 +1,11 @@
+Powers of Lay Commissioners and Appeal Tribunal to award costs in proceedings under Part III.
+
+16.—(1) (a) In any proceedings under this Part heard and determined by the Lay Commissioners or the Appeal Tribunal, the Lay Commissioners or the Appeal Tribunal, as the case may be, may direct that the costs and expenses of any party to such proceedings shall be paid by any other party thereto, and they may also, on the application of such first-mentioned party, issue an order for the levying of the amount (as taxed or measured in accordance with paragraph (b) of this subsection) of such costs and expenses together with the costs of obtaining such order.
+
+(b) Where the Lay Commissioners or the Appeal Tribunal direct, under paragraph (a) of this subsection, that the costs and expenses of any party to proceedings heard and determined by them shall be paid by any other party thereto, the said costs and expenses shall be taxed by a Taxing Master of the High Court, unless both the said parties agree that the said costs and expenses should be measured by the Lay Commissioners or the Appeal Tribunal, as the case may be, in which case the said costs and expenses shall be so measured.
+
+(2) Every order made by the Lay Commissioners or the Appeal Tribunal under this section shall be executed by a county registrar in like manner as if it were an execution order within the meaning of the Enforcement of Court Orders Act, 1926 (No. 18 of 1926).
+
+(3) In the application of subsection (2) of this section in relation to a county or county borough for which there is for the time being an under-sheriff, the said subsection shall have effect as if the word “under-sheriff” were substituted for the expression “county registrar”.
+
+(4) In the application of subsection (2) of this section in relation to a county or county borough in which there is for the time being a sheriff, appointed under section 12 of the Court Officers Act, 1945 (No. 25 of 1945), in whom the functions of the county registrar for such county or county borough in relation to the execution of execution orders are for the time being vested, the said subsection shall have effect as if the word “sheriff” were substituted for the expression “county registrar”.
