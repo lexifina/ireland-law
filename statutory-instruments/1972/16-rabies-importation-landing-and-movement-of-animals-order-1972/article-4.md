@@ -1,0 +1,3 @@
+Article 4
+
+4. In order to provide further for the prevention of the spreading of rabies, to extend for that purpose the application of sections 12, 15, 16, 17, 18, 26, 27, 28, 30, 31, 33, 34, 42 and 51 of the act and all other sections (including sections relating to offences and legal proceedings) containing provisions relative to or consequent on those sections, in so far as the references to animals contained in Part I of the First Schedule to the act do not include the animals of the orders of mammals specified in the Schedule to this Order, that Part shall be construed as if it contained a reference to any animal of the orders of mammals so specified.
