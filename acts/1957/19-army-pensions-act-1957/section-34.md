@@ -1,0 +1,3 @@
+Reconsideration of applications refused under section 4 of the Act of 1953.
+
+34.—Where, either before or after the passing of this Act, an application for the grant of an allowance under paragraph (c) or paragraph (d) of subsection (1) of section 4 of the Act of 1953 was or is refused by reason of the fact that the applicant should not, in the opinion of the Minister for Finance, be treated, having regard to all the circumstances of the case, as a dependant of the deceased person in respect of whom the application was made, the Minister may from time to time reconsider the application at the request of the applicant and the said section 4 of the Act of 1953 shall operate in relation to every such request in the same manner as if it were the original application.
