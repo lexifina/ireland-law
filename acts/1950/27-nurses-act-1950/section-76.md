@@ -1,0 +1,3 @@
+Registration in register of nurses of persons removed from registration under the Nurses Registration (Ireland) Act, 1919, or the Act of 1944.
+
+76.—Where the Board become of opinion that a person whose name, immediately before the establishment date, stood removed from the register kept in pursuance of the Nurses Registration (Ireland) Act, 1919, or from the roll of midwives kept in pursuance of the Act of 1944, should be registered, the Board may register the person in the register of nurses and so much of this Act and the rules as relate to the restoration of a name to the register of nurses shall have effect in relation to such registration in the register of nurses.

@@ -1,0 +1,7 @@
+Statement of receipts and expenditure of dissolved bodies.
+
+78.—(1) The Board shall in respect of each dissolved body prepare a statement of receipts and expenditure, including liabilities, for the accounting period (or part thereof) of such body ending immediately before the establishment date, and each such statement shall be certified as correct by a local government auditor to be appointed for that purpose by the Minister for Local Government.
+
+(2) If the statement prepared by the Board under this section in respect of the Central Midwives Board shows a balance against that Board, section 22 of the Act of 1944 shall apply in relation to the balance in like manner as if it were such a balance as is mentioned in that section subject to the modification that references in that section to the Central Midwives Board shall be construed as references to the Board, and the said section 22 shall for that purpose and no other purpose be deemed not to have been repealed by this Act.
+
+(3) The Minister for Local Government shall, after consultation with the Minister, determine the fee to be paid by the Board in relation to the certification in pursuance of this section by a local government auditor of the statements prepared under this section, and the fee so determined shall be paid by the Board to the Minister for Local Government and shall thereupon be paid into or disposed of by him for the benefit of the Exchequer in such manner as the Minister for Finance directs.

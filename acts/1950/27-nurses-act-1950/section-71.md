@@ -1,0 +1,3 @@
+Continuation of pending proceedings.
+
+71.—Any proceedings instituted by or against a dissolved body which are pending immediately before the establishment date may be continued by or against and in the name of the Board and shall not abate by reason of the dissolution of a dissolved body and in partícular any proceedings for the removal of the name of any person from the register kept in pursuance of the Nurses Registration (Ireland) Act, 1919, or the roll of midwives kept in pursuance of the Act of 1944 which were pending immediately before the establishment date shall become and shall be continued as proceedings under this Act for the removal of the name of such person from the register of nurses.

@@ -1,0 +1,3 @@
+Preservation of continuing contracts of dissolved bodies.
+
+70.—Every bond, guarantee or other security of a continuing nature made or given by a dissolved body to any person, or by any person to a dissolved body, and in force immediately before the establishment date, and every contract or agreement in writing made between a dissolved body and another person and not fully executed and completed before that date shall, notwithstanding the dissolution of the dissolved body, continue in force on and after that date, but shall be construed and have effect as if the name of the Board were substituted therein for the name of the dissolved body, and such security, contract, or agreement shall be enforceable by or against the Board accordingly.
