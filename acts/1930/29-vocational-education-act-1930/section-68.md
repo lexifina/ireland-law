@@ -1,0 +1,3 @@
+Information to be furnished by Juvenile Advisory Committees.
+
+68.—The Secretary of the Juvenile Advisory Committee for an area which is or includes a district to which this Part of this Act applies shall, at the beginning of every quarter commencing on the 1st day of January, the 1st day of April, the 1st day of July, or the 1st day of October, furnish to the enforcing authority for such district copies of all particulars furnished to him in pursuance of sub-section (4) of section 15 of the School Attendance Act, 1926 (No. 17 of 1926) of the names and addresses of all persons resident in such district who will attain the age of fourteen years during such quarter.

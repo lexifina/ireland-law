@@ -1,0 +1,3 @@
+Parent to notify cause of absence.
+
+72.—Whenever a young person who resides in a district to which this Part of this Act applies is for the time being attending for instruction in accordance with this Part of this Act at any course of instruction or school but is absent from such instruction or school on any day or days on which he should under this Part of this Act attend thereat, his parent shall as soon as possible and in any event not later than one week after the day or the first of the days (as the case may be) of such absence communicate in writing or in person to the principal teacher at such course of instruction or school the cause of such absence.

@@ -1,0 +1,5 @@
+Provisions in relation to prosecutions.
+
+92.—(1) In any prosecution under this Part of this Act, a certificate purporting to be signed by a qualified medical practitioner that the person to whom the prosecution relates is or was at any specified time suffering from a specified physical or mental malady or injury and that such malady or injury was of such a nature as to render such person unfit to attend a course of instruction or that some person residing in the house in which such first-mentioned person resides is or was suffering from a specified physical or mental malady or injury shall, until the contrary is proved, be evidence of such of the facts aforesaid as are stated in such certificate.
+
+(2) In any prosecution for an offence under this Part of this Act, the Court may order the costs incurred in relation to such prosecution by the prosecutor or the person prosecuted to be paid by the person prosecuted or the prosecutor (as the case may require) and may fix the amount of such costs.

@@ -1,0 +1,3 @@
+Exemption from certain disqualifications.
+
+122.—Notwithstanding anything contained in paragraph (e) of sub-article (4) of Article 12 of the Schedule to the Local Government (Application of Enactments) Order, 1898, a person shall not, if otherwise qualified, be disqualified from being elected or chosen or being a member of any vocational education committee or of any sub-committee thereof or of any council, body, or committee which is a local authority within the meaning of the Act of 1925 by reason of his having by himself or his partner received or contracted to receive any benefit or advantage offered to the public in the nature of continuation education and technical education by a vocational education committee.

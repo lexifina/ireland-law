@@ -1,0 +1,23 @@
+Transfer of officers to vocational education committees.
+
+99.—(1) Every person who, on the day before the appointed day, is an officer of a local authority or of a committee appointed under the Act of 1889 and the Act of 1899 or either of those Acts by a local authority or two or more local authorities jointly and is employed by such authority or committee on duties relating wholly or partly to functions, powers, and duties transferred from such authority or committee by this Part of this Act shall, on the appointed day and subject to the provisions of this section, be transferred to and become and be an officer of the vocational education committee to which such functions, powers, and duties are so transferred.
+
+(2) Every officer transferred by this section shall, subject to the provisions of this section, perform in the service of the vocational education committee to which he is so transferred the like duties as he performed in the service from which he is so transferred.
+
+(3) Every officer transferred by this section shall not, in the service of the vocational education committee to which he is so transferred, receive less remuneration or, subject to the provisions of this section, be subject to less beneficial conditions of service than the remuneration to which he was entitled and the conditions of service to which he was subject in the service from which he is so transferred.
+
+(4) A vocational education committee may, with the approval of the Minister, re-distribute or re-arrange the duties to be performed by officers transferred to it by this section and every such officer shall be bound to perform the duties allotted to him on any such re-distribution or re-arrangement, and no such re-distribution or re-arrangement shall be deemed to be a removal from or abolition of office for the purposes of the enactments relating to superannuation and compensation for loss of office.
+
+(5) A vocational education committee may, with the sanction of the Minister, and shall, when so directed by the Minister, abolish the office of any officer transferred to it by this section and every such officer whose office is so abolished shall, for the purpose of the enactments relating to superannuation and compensation for loss of office, be deemed to have been removed from office by such committee for a cause other than misconduct or incapacity.
+
+(6) When an officer transferred by this section is, immediately before the appointed day, employed by a committee whose functions, powers, and duties are transferred by this Part of this Act, and is at the same time employed by a committee whose functions, powers, and duties are not so transferred, the transfer of such officer by this section shall apply and have effect in relation only to his employment by such first-mentioned committee.
+
+(7) The following provisions shall have effect in relation to every officer transferred by this section who, immediately before the appointed day, is employed by the local authority or committee from whose service he is so transferred on duties relating in part to functions, powers, or duties transferred by this Part of this Act and in part to other functions, powers, or duties, that is to say:—
+
+(a) the transfer of such officer by this section shall extend and apply only to such of his duties (in this section referred to as transferred duties) as relate to functions, powers, and duties transferred by this Part of this Act, and he shall as respects all his other duties continue to be an officer of the local authority or committee of which he was an officer on the day before the appointed day;
+
+(b) for the purposes of the provisions of this section relating to the duties to be performed by him after such transfer, his duties before such transfer shall be deemed to have been his transferred duties only;
+
+(c) his remuneration immediately before such transfer shall be apportioned as between his transferred duties and his other duties and, for the purposes of the provisions of this section relating to his remuneration after such transfer and to the abolition of his office, his remuneration before such transfer shall be deemed to have been so much only of such remuneration as is on such apportionment appropriated to his transferred duties;
+
+(d) every question or dispute arising in the application of the provisions of this sub-section to the case of any particular officer shall be settled by agreement between such officer, the local authority or committee from which he is transferred, and the vocational education committee to which he is transferred, and in default of such agreement shall be decided by the Minister and the Minister for Agriculture jointly, and the decision of those Ministers shall be final.

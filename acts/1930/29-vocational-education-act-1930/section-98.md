@@ -1,0 +1,7 @@
+Continuance of pending transactions.
+
+98.—Every act, matter, or thing which was commenced before the appointed day by or against a local authority or a committee appointed under the Act of 1889 and the Act of 1899 or either of those Acts by a local authority or two or more local authorities jointly and remains pending or uncompleted on the appointed day and was so commenced in exercise or performance or in relation to the exercise or performance of functions, powers, or duties transferred by this Part of this Act, may, on and after the appointed day, be continued and completed by or against the vocational education committee to which such functions, duties, and powers are so transferred, and for that purpose—
+
+(a) in all legal proceedings to which any such local authority or any committee appointed as aforesaid is a party and which relate to the exercise or performance of such functions, powers, or duties and are pending on the appointed day, such vocational education committee may be added as a party in lieu of such local authority or committee; and
+
+(b) all contracts and agreements to which any such local authority or any committee appointed as aforesaid is a party and which relate to such functions, powers, and duties and are on the appointed day not fully executed or completed shall have effect on and after the appointed day as if such vocational education committee had been named as a party thereto in place of such local authority or such committee.

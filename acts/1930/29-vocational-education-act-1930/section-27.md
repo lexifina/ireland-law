@@ -1,0 +1,5 @@
+Removal of officers and servants by the Minister.
+
+27.—(1) The Minister may by order, either upon or without any suggestion or complaint from a vocational education committee, remove from his office or employment any paid officer or servant of a vocational education committee (whether appointed by or transferred by this Act to such committee) whom he considers unfit or incompetent to perform his duties, or who at any time refuses or wilfully neglects to perform his duties or any of them, and may direct that a fit and proper person be appointed in his place in accordance with the law relating to appointments to such office or employment.
+
+(2) The Minister shall not remove under this section from his office an officer or servant of a vocational education committee unless and until he has caused a local inquiry to be held under this Act in relation to the performance by such officer or servant of his duties as such officer or servant and considered the report of the person who held such local inquiry.

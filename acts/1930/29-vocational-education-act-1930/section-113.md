@@ -1,0 +1,5 @@
+Training and certification of teachers.
+
+113.—(1) The Minister may make regulations in relation to the training and certification of teachers for schools and courses provided by a vocational education committee under this Act.
+
+(2) Where a student accepted by the Minister for training as a teacher enters, in pursuance of regulations made under this section, into an undertaking with the Minister that he will, in consideration of any grant made by the Minister in respect of his maintenance and training, complete the course of training specified in the undertaking and will subsequently follow the profession of teacher in the manner and for the period specified in the undertaking and in the event of failure so to do will repay to the Minister such proportion of the grant made by the Minister as is specified in the undertaking, the undertaking shall be binding on him notwithstanding that he was an infant at the time when the undertaking was given and any sums repayable in accordance with the undertaking shall be recoverable by the Minister as a civil debt in a court of competent jurisdiction.

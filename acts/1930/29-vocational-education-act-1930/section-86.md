@@ -1,0 +1,5 @@
+Employers to furnish particulars.
+
+86.—(1) Every person carrying on in a district to which this Part of this Act applies a trade which is a designated trade in such district shall, if required so to do by notice in writing in the prescribed form served on or left for him at his place of business by the enforcing authority for such district, furnish to such authority within the time and in the manner specified in such notice the particulars specified in such notice of any persons employed by him who are persons to whom this Part of this Act applies.
+
+(2) Every person carrying on in a district to which this Part of this Act applies a trade which is a designated trade in such district who fails to furnish in accordance with this section all or any particulars which he is duly required under this section so to furnish, or who so furnishes any such particulars which are to his knowledge false or misleading in any material respect, shall be guilty of an offence under this section and be liable on summary conviction thereof to a fine not exceeding twenty shillings.

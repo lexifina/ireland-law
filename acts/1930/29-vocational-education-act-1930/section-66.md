@@ -1,0 +1,5 @@
+Parents to furnish particulars of their children.
+
+66.—(1) Every person resident in a district to which this Part of this Act applies shall, if required so to do by notice in writing in the prescribed form served on or left for him at his residence by the enforcing authority for such district, furnish to such authority, within the time and in the manner specified in such notice, the names and ages and the mode of education and other particulars specified in such notice of all young persons or any specified young person of whom he is the parent within the meaning of this Act.
+
+(2) Every person, resident in a district to which this Part of this Act applies, who fails to furnish in accordance with this section all or any particulars which he is duly required under this section so to furnish, or who so furnishes any such particulars which are to his knowledge false or misleading in any material respect, shall be guilty of an offence under this section and on summary conviction thereof shall be liable to a fine not exceeding twenty shillings.

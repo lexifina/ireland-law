@@ -1,0 +1,3 @@
+Registration of certain persons attending continuation schools and courses.
+
+33.—Where a continuation school or a course of instruction maintained or provided by a vocational education committee is attended by young persons who have the prospect of employment in a particular trade, business, or occupation, it shall be the duty of such vocational education committee to register and classify such young persons and to provide in the curriculum of such school or in the instruction given in such course (as the case may be) for the educational requirements of such young persons having regard to the nature of the said employment.

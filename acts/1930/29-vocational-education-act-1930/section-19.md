@@ -1,0 +1,3 @@
+Meetings abandoned for want of quorum.
+
+19.—Whenever a meeting of a vocational education committee is abandoned owing to failure to obtain a quorum, the names of the members attending at the time and place appointed for such meeting shall be recorded forthwith and, for the purposes of the provisions of this Act relating to disqualification of members by absence from meetings and the provisions of this Act relating to the payment of travelling expenses of members of certain committees, a meeting of such committee shall be deemed to have been held at such time and place and the members whose names are so recorded shall be deemed to have attended such meeting.

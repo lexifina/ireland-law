@@ -1,0 +1,5 @@
+First chief executive officers of certain committees.
+
+24.—(1) Where the functional area of a committee appointed under sub-section (2) of section 1 of the Act of 1889 or sub-section (1) of section 14 of the Act of 1899 or of a joint committee tee appointed under sub-section (2) of the said section 14 is coterminous with a vocational education area, the person who on the day before the first meeting of the vocational education committee for such vocational education area is the chief executive officer of such committee or joint committee shall on the day of such meeting become the chief executive officer of such vocational education committee.
+
+(2) In the case of a vocational education committee for a county vocational education area to which no person by virtue of the foregoing provisions becomes the chief executive officer, the secretary of the council of the county which is or includes such vocational education area shall at the first meeting of such committee act as secretary to such committee.
