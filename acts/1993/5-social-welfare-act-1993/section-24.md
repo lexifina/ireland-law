@@ -1,0 +1,3 @@
+Amendment of Third Schedule to Principal Act (rules as to calculation of means).
+
+24.—Paragraph (4) (as amended by section 56 of the Act of 1991) of Rule 1 of the Third Schedule to the Principal Act is hereby amended by the substitution for “the net cash value of any non-cash earnings derived from personal exertions and also including such other non-cash benefits and such income received by a qualified child or qualified children as may be prescribed” of “the net cash value of such non-cash benefits as may be prescribed, and such income received by a qualified child or qualified children as may be prescribed”.
