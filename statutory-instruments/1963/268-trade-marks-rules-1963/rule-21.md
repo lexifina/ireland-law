@@ -1,0 +1,7 @@
+Rule 21
+
+21. Separate applications.
+
+PROCEDURE ON RECEIPT OF APPLICATION TO REGISTER A TRADE MARK.
+
+Rule.

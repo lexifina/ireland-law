@@ -1,0 +1,5 @@
+Rule 16
+
+16. Applications under section 48.
+
+APPLICATION FOR REGISTRATION OF A TRADE MARK.

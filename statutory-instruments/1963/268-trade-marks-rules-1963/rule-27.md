@@ -1,0 +1,5 @@
+Rule 27
+
+27. Disclaimer.
+
+DEFENSIVE TRADE MARKS.
