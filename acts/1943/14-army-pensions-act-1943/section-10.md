@@ -1,0 +1,5 @@
+Reference of applications for allowance to the Army Pensions Board and report of Army Pensions Board on such applications.
+
+10.—(1) The Minister, if he is of opinion that the investigation by the Army Pensions Board of any particular application for an allowance under the Acts is not required for the purpose of enabling him to decide whether or not a grant should be made, may, notwithstanding anything contained in the Acts, deal with the application without referring it to the said Board.
+
+(2) Where an application for an allowance under the Acts is referred to the Army Pensions Board, the Minister, if he is of opinion that the investigation of any particular matter or matters arising on the application is not required for the purpose of enabling him to decide whether or not a grant should be made, may direct the said Board to confine their investigation and report to the other matters arising on the application and in that case the said Board shall, notwithstanding anything contained in the Acts, confine their investigation and report accordingly.
