@@ -1,0 +1,3 @@
+Application to certain hereditaments.
+
+3.—Where a hereditament is let at a rent which includes a payment for rates in respect of the hereditament and all or portion of those rates are waived by a rating authority in accordance with a scheme under section 2 of this Act, the rent shall be reduced by an amount equal to the amount of the rates so waived, and any sum paid (whether before or after the waiver) in excess of the reduced rent shall be recoverable as a simple contract debt by the tenant by whom it was paid or his legal personal representative from the landlord to whom it was paid or his legal personal representative.
