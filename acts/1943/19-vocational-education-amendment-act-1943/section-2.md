@@ -1,0 +1,5 @@
+False statement for purpose of obtaining payment under this Act.
+
+2.—(1) A person who knowingly makes or allows to be made a false statement for the purpose of obtaining a payment under this Act for himself or another shall be guilty of an offence under this section, and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds or, at the discretion of the Court, to imprisonment for a term not exceeding one year.
+
+(2) A person who is convicted of an offence under this section shall thereafter be disqualified from being elected or being a member of a vocational education committee or a sub-committee thereof, or of a body which is a local authority for any of the purposes of the Local Government Acts, 1925 to 1941, or of a council established by law in respect of a county or other borough or a committee of such council, and shall also be disqualified from holding an office or employment under a vocational education committee or such a body, council, or committee as aforesaid.
