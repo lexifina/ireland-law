@@ -1,0 +1,1 @@
+I, JAMES GIBBONS, Minister for Agriculture in exercise of the powers conferred on me by Section 11 of the Fertilisers, Feeding Stuffs and Mineral Mixtures Act, 1955 (No. 8 of 1955) (as adapted by the Agriculture and Fisheries (Alteration of Name of Department and Title of Minister) Order, 1977 ( S.I. No. 31 of 1977 )) hereby make the following regulations:
