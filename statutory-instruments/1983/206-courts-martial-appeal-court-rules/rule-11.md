@@ -1,0 +1,7 @@
+Rule 11
+
+11. (1) The Registrar may, on an application made to him by the appellant or the convening authority, or shall where he considers the same to be necessary for the proper determination of any appeal, or where directed by the Court so to do, obtain and keep available for use by the Court, any documents, exhibits, or other things relating to the proceedings before the Court, and, pending the determination of the appeal, such documents, exhibits, or other things shall be open, as and when the Registrar may arrange, for the inspection of any party interested. In suitable cases the Registrar may, in lieu of obtaining possession of any such documents, exhibits or other things, direct any person having the custody and control thereof to make the same available for inspection by any party interested at such time and place as the Registrar shall direct.
+
+(2) The Court may, at any stage of an appeal, on the application of an appellant or the convening authority, order any document, exhibit, or other thing connected with the proceedings to be produced to the Registrar by any person having the custody or control thereof.
+
+(3) Service of any order made under this rule shall be personal, unless the Court otherwise orders, and for the purpose of effecting due service thereof the Registrar may require the assistance of the Garda Síochána, and it shall be their duty to carry out any directions of the Registrar under this Rule.

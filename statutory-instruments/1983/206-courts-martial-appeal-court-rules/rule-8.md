@@ -1,0 +1,3 @@
+Rule 8
+
+8. Where, on the conviction of a person, the trial court-martial directs, pursuant to section 213 of the Defence Act, 1954 , the payment by that person of a sum as compensation for any expense, loss, damage or destruction occasioned by the offence of which he was convicted, the operation of such direction shall be suspended until the expiration of 14 clear days, or in any case to which rule 4 (2) applies 30 clear days, next after the date of promulgation of the finding and sentence of the trial court-martial and, in cases where notice of appeal is duly given, the period of suspension of such direction shall continue until the determination thereof.
