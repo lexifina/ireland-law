@@ -1,0 +1,3 @@
+Regulation 3
+
+3. Notwithstanding the provisions of the Garda Síochána (Representative Bodies) Regulations, 1962 ( S.I. No. 64 of 1962 ), as amended by the Garda Síochána (Representative Bodies) (Amendment) Regulations, 1976 ( S.I. No. 118 of 1976 ), the members of the Representative Bodies provided for by Regulation 3 of those Regulations, as so amended, who hold office on the commencement of these Regulations shall continue to hold office until the members of the associations established pursuant to section 13 of the Garda Síochána Act, 1924 (No. 25 of 1924) (as amended by the Garda Síochána Act, 1977 (No. 24 of 1977)), take office as such members.
