@@ -1,0 +1,5 @@
+Certain provisions in agreements relating to sales, etc., of property to be void.
+
+2.—(1) Subject to subsection (2) of this section, any provision (whether express or implied) in an agreement entered into after the commencement of this Act and relating to the sale, lease or letting of property (not being personal chattels), whereby the purchaser, lessee or tenant is required to pay or bear the cost of auctioneers' or house agents' fees or expenses in respect of the sale, lease or letting, shall be void, and any moneys paid under or on foot of such a provision shall be recoverable as a simple contract debt in a court of competent jurisdiction.
+
+(2) Nothing in subsection (1) of this section shall affect the liability of a person to pay fees or expenses to an auctioneer or house agent in respect of the acquisition of any property in a case where the auctioneer or house agent had been retained by the person to acquire such property and does not also act, in relation to such acquisition, on behalf of the person from whom the property is acquired.

@@ -1,0 +1,3 @@
+Increase of deposit in High Court.
+
+3.—Notwithstanding section 14 (a) of the Principal Act and section 2 of the Auctioneers and House Agents Act, 1967, the deposit maintained in the High Court under the Principal Act shall, in respect of any period beginning on or after the 6th day of July, 1974, for which an auctioneer's licence or a house agent's licence is in force, be of the value of £10,000, and the references in sections 14 (d) (ii) and 15 (3) (b) of the Principal Act to two thousand pounds and the reference in section 2 of the said Auctioneers and House Agents Act, 1967, to five thousand pounds shall be construed accordingly.
