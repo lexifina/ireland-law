@@ -1,0 +1,7 @@
+Completion of annual revision.
+
+19.—(1) Not later than the 20th day of March in the year after the year of the preparation of the register of nominating bodies and in every subsequent year, the Seanad returning officer shall revise the register of nominating bodies in such manner as may be requisite to give effect to all decisions given by him at the annual revision in that year against which no appeal to the board has been made within the time limited in that behalf by this Act, and every revision so made shall come into force on the 21st day of March of the year in which it is made.
+
+(2) The Clerk of Dáil Eireann shall communicate to the Seanad returning officer every decision by the appeal board on an appeal considered pursuant to section 18 of this Act, and the Seanad returning officer shall forthwith make such (if any) revision of the register of nominating bodies as is necessary to give effect to such decision, and every such revision shall come into force on the day after the day on which it is made.
+
+(3) As soon as any annual revision of the register of nominating bodies has been completed in accordance with this Part of this Act, the Seanad returning officer shall sign and publish in the Iris Oifigiúil the register as revised at the annual revision and the register as so published shall be conclusive evidence of the alterations made in the register at the annual revision.

@@ -1,0 +1,7 @@
+Sending of ballot papers to electors at Seanad general election.
+
+49.—(1) On the day appointed for the issue of ballot papers at a Seanad general election the Seanad returning officer shall send by registered post to each person whose name is on the electoral roll for that election at the address stated on such electoral roll a ballot paper for each panel.
+
+(2) Whenever a person to whom ballot papers for a Seanad general election should be sent under subsection (1) of this section states in writing to the Seanad returning officer that more than twenty-four hours have elapsed since such ballot papers should have been delivered to him in the ordinary course of post and that he has not received such ballot papers and that he desires duplicate ballot papers to be issued to him, the Seanad returning officer, if such statement is received by him not less than forty-eight hours before the close of the poll at the election, shall forthwith or, if such statement is received by him less than forty-eight hours before the close of the poll at the election, may send by registered post to such person at the address mentioned in subsection (1) of this section a ballot paper for each panel all of which, by being printed on paper of a special colour or otherwise, are clearly distinguished as duplicates of the ballot papers originally sent to such person.
+
+(3) The Seanad returning officer shall, when sending out ballot papers in pursuance of this section, observe the rules contained in the First Schedule to this Act.

@@ -1,0 +1,3 @@
+Obligation to hold election to fill Oireachtas sub-panel casual vacancy.
+
+66.—Where the Minister makes a Seanad bye-election order in respect of a casual vacancy in the membership of Seanad Eireann which is stated in such order to be a vacancy in respect of the Oireachtas sub-panel of a particular panel, the Seanad returning officer shall hold, in accordance with this Chapter, an election to fill the vacancy and shall for that purpose send to the Clerk of Dáil Eireann a copy of the Seanad bye-election order together with such number of forms of nomination paper as such Clerk may reasonably require.

@@ -1,0 +1,5 @@
+Ascertainment of the result of election for Oireachtas sub-panel casual vacancy.
+
+74.—(1) As soon as conveniently may be after the poll at an election under this Chapter has been closed, the Seanad returning officer shall, in the presence of such candidates as may be in attendance, ascertain separately, in accordance with this Act and in particular the rules contained in the Second and Third Schedules to this Act, the result of the election and shall declare to be elected the candidate who is so ascertained to be elected.
+
+(2) The decision of the Seanad returning officer as to any question arising at an election under this Chapter on the ballot papers, the declarations of identity, or the envelopes containing the same or any other matter arising on the issue or the receipt of the ballot papers or on the counting of the votes shall be final, but subject, where an objection in writing to the decision has been delivered to the Seanad returning officer before the declaration of the result of the election, to review by a court trying an election petition in relation to the election.

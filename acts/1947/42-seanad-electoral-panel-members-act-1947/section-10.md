@@ -1,0 +1,3 @@
+Publication of notice of the preparation of register of nominating bodies.
+
+10.—As soon as practicable after the passing of this Act, the Seanad returning officer shall publish, in every morning daily newspaper published in the State and in such other (if any) daily newspapers as, with the sanction of the Minister, he thinks proper, a notice in the prescribed form giving public notice that the register of nominating bodies is being prepared, and giving such information (including the latest date for receipt of applications for registration) and instructions in relation to applications for registration as the Minister thinks proper.

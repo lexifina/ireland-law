@@ -1,0 +1,5 @@
+Ascertainment of result of Seanad general election.
+
+53.—(1) The Seanad returning officer shall, in the presence of such candidates as may be in attendance, ascertain separately, in accordance with this Act and, in particular, the rules contained in the First and Second Schedules to this Act, the result of a Seanad general election in respect of each panel and shall declare to be elected from such panel the candidates who are so ascertained to be elected.
+
+(2) The decision of the Seanad returning officer as to any question arising at a Seanad general election on the ballot papers, the envelopes containing the ballot papers, the declarations of identity or any other matter arising on the issue or the receipt of the ballot papers or on the counting of the votes shall be final, but subject, where an objection in writing to the decision has been delivered to the Seanad returning officer before the declaration of the result of the election, to review by a court trying an election petition in relation to the election.

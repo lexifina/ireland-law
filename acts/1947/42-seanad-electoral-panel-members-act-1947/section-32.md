@@ -1,0 +1,3 @@
+Nomination committee (general election) meeting.
+
+32.—A meeting (in this Act referred to as a nomination committee (general election) meeting) of the nomination committee for a panel for which there are three or more nominating bodies shall be held on the day and at the place and hour appointed in that behalf by a Seanad general election order and, at least seven days before the meeting, the Seanad returning officer shall send by post, to each person named in the electoral roll constituted under section 33 of this Act for the meeting, a notice in the prescribed form with respect to the holding of the meeting.

@@ -1,0 +1,3 @@
+Issue of copy of panels.
+
+46.—As soon as practicable after the completion of the electoral roll in respect of a Seanad general election or the publication in relation to the election of the panels in the Iris Oifigiúil (whichever happens later) and in any event before the day on which the ballot papers are to be issued, the Seanad returning officer shall send by post to each person whose name is on the electoral roll, at his address as stated on the electoral roll, a copy of the five panels as published in the Iris Oifigiúil, but with the modification that there shall, in such copy, be inserted in respect of every person on any panel a statement of the body or persons on whose nomination he was put on such panel.
