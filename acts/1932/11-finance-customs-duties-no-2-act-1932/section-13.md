@@ -1,0 +1,11 @@
+Duty on cocoa preparations.
+
+13.—(1) In lieu of the duties of customs chargeable under section 9 of the Finance Act, 1931 (No. 31 of 1931), there shall be charged, levied, and paid on all preparations made from or containing cocoa in any form (save as is hereinafter otherwise provided) imported into Saorstát Eireann on or after the 3rd day of May 1932 a duty of customs at the rate of three shillings on the pound, in addition to any duty which may be chargeable in respect of any spirits or saccharin contained in any such preparation but in lieu of any duty which might otherwise be chargeable on any other ingredient contained in any such preparation.
+
+(2) The provisions of section 8 of the Finance Act, 1919, shall apply to the duty imposed by this section with the substitution of the expression “Saorstát Eireann” for the expression “Great Britain and Ireland” and as though the goods chargeable with the said duty were included in the Second Schedule to that Act in the list of goods to which two-thirds of the full rate is made applicable as a preferential rate.
+
+(3) As from the 3rd day of May, 1932, there shall be allowed on due exportation or due shipment for use as ship's stores of any goods in the manufacture or preparation of which in Saorstát Eireann any imported preparation made from or containing cocoa in any form and chargeable as such with the duty imposed by this section has been used, a drawback equal to the duty paid under this section in respect of the quantity of such preparation which appears to the Revenue Commissioners to have been used in the manufacture or preparation of such goods.
+
+(4) In allowing drawback under this section the Revenue Commissioners, with the consent of the Minister for Finance, may in order to facilitate trade modify or dispense with all or any of the requirements of sections 104 and 106 of the Customs Consolidation Act, 1876, as to the giving of security and the examination of goods.
+
+(5) This section shall not apply to cocoa powder imported into Saorstát Eireann before the 3rd day of November, 1932, and accordingly cocoa powder so imported shall continue to be chargeable with duty and entitled to drawback under section 9 of the Finance Act, 1931 (No. 31 of 1931), as if this section had not been enacted.
