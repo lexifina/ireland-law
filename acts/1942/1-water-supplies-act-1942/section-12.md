@@ -1,0 +1,3 @@
+Notices of coming into force of proposal.
+
+12.—As soon as may be after a sanitary authority has published a notice specifying the date on which a proposal made by such sanitary authority will come into force, such sanitary authority shall give to every person whose name appears in the book of reference relating to such proposal a notice in writing informing him of the said date on which such proposal will come into force and informing him that he may, at any time before, but not after, the expiration of one year from that date, apply in writing to such sanitary authority for compensation in respect of the damage which has been or will be caused to him by the taking of a supply of water under such proposal.
