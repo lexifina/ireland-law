@@ -1,0 +1,5 @@
+Article 10
+
+10. Where an authorised officer makes a demand pursuant to this Order, he shall, if requested, produce his appointment for examination by the person on whom he makes the demand.
+
+11 Compliance with conditions of permits.
