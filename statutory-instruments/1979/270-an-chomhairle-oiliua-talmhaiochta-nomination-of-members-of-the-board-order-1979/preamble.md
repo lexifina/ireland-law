@@ -1,0 +1,1 @@
+I, JAMES GIBBONS, Minister for Agriculture, in exercise of the powers conferred on me by section 26 (3) of the National Agricultural Advisory, Education and Research Authority Act, 1977 (No. 13 of 1977), as amended by section 11 of the Agriculture (An Chomhairle Oiliúna Talmhaíochta) Act, 1979 (No. 9 of 1979), hereby order as follows:
