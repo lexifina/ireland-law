@@ -1,0 +1,9 @@
+Regulation 2
+
+2. Premises where accident (or dangerous occurrence) happened :—
+
+(i) Address of Department, Branch or Site. . . . ................................
+
+(ii) Exact Place. . . . . ..........................
+
+(iii) Nature of work carried on therein (if Building Operation state whether construction, maintenance or demolition) ............................................................ ..........................................................
