@@ -1,0 +1,5 @@
+S.I. No. 75 of 1980.
+
+GREAT SOUTHERN RAILWAYS COMPANY AMENDING SUPERANNUATION SCHEME FOR REGULAR WAGES STAFF (CONFIRMATION) ORDER, 1980.
+
+I, ALBERT REYNOLDS, Minister for Transport, in exercise of the powers conferred on me by Section 44 of the Transport Act, 1950 (No. 12 of 1950), as adapted by the Transport, Fuel and Power (Transfer of Departmental Administration and Ministerial Functions) Order, 1959 ( S.I. No. 125 of 1959 ), the Transport and Power (Alteration of Name of Department and Title of Minister) Order, 1977 ( S.I. No. 305 of 1977 ), and the Tourism and Transport (Alteration of Name of Department and Title of Minister) Order, 1980 ( S.I. No. 11 of 1980 ), hereby, after consultation with the Minister for the Public Service, order as follows:
