@@ -1,0 +1,5 @@
+S.I. No. 200 of 1983.
+
+NATURE RESERVE (THE RAVEN) ESTABLISHMENT ORDER, 1983.
+
+I, PADDY O'TOOLE, Minister for Fisheries and Forestry, after consultation with the Minister for Agriculture, the Minister for Transport and the Commissioners of Public Works in Ireland, being satisfied that the land specified in Article 2 of the following Order, being land to which section 15 of the Wildlife Act, 1976 (No. 39 of 1976), applies, includes a sand dune ecosystem which is of scientific interest and that the said ecosystem is likely to benefit if measures are taken for its protection and that it is desirable to establish the said land as a nature reserve and that the proper management of the land as a nature reserve would not be precluded by any interest of any other person in or over the land, for the purpose of conserving the said ecosystem do hereby, in exercise of the powers conferred on me by section 15 of the said Act, as adapted by the Fisheries (Alteration of Name of Department and Title of Minister) Order, 1978 ( S.I. No. 195 of 1978 ), order as follows:
