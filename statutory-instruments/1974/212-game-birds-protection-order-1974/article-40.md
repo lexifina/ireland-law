@@ -1,0 +1,17 @@
+Article 40
+
+40. Lough Fern in the County of Donegal.
+
+The area comprised of the land for the time being covered by the waters of Lough Fern in the County of Donegal, together with the land forming the islands therein and the following adjoining lands, namely;
+
+( a ) the parts of the townlands of Court and Portleen which lie east of the main road from Kilmacreunan to Milford,
+
+( b ) that part of the townland of Aghawoney which lies north of the public road from Ballydone Bridge to Drumman Bridge,
+
+( c ) the townland of Clooneymore,
+
+( d ) the parts of the townlands of Moynagh and Moyle Hill which lies west of the public road which runs from Drumman Bridge (initially eastwards for 66 yards and then in a northerly direction) to Milford,
+
+( e ) that part of the townland of Moyle which lies both west of the public road from Drumman Bridge to Milford and south of the public road which extends eastwards from Moyle Bridge to the crossroads 986 yards distant, and
+
+( f ) that part of the townland of Gortmacall More which lies both south of the public road extending in a north-westerly direction from Moyle Bridge to the crossroads 215 yards distant and east of the said road from Kilmacreunan to Milford.
