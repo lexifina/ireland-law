@@ -1,0 +1,3 @@
+Meaning of “independent television programme” in certain contracts.
+
+35.—The Commission shall ensure that any contract entered into by it under section 17 of the Act of 1988, any such contract renewed by it under that Act and any other arrangement in writing entered into by it with the holder of such a contract, being in each case a contract or an arrangement entered into or renewed by it after the commencement of this section, contains a term providing that the expression “independent television programme”, where used in the contract or arrangement, has the same meaning as it has in the Broadcasting Authority (Amendment) Act, 1993.
