@@ -1,0 +1,3 @@
+Authority to register birth or death without attendance, signature of informant.
+
+3.—Where none of the persons who under the Acts have the duty to give to a registrar information of the particulars to be registered concerning a birth or death is available to attend at the office of the registrar and to sign the register or could do so only with undue hardship, an tArd-Chláraitheoir may, if satisfied that the circumstances so warrant and on submission to him of the information required, authorise and require the registrar to register the birth or death without the attendance and signature of any of those persons.
