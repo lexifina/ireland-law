@@ -1,0 +1,3 @@
+Liability for costs in relation to apportionment of rent.
+
+15.—A person (in this section referred to as the applicant) who proposes to have a rent apportioned under this Act shall be liable for the payment of the reasonable costs and expenses actuallyand necessarily incurred in complying with the provisions of this Act by a person upon whom a notice under section 12 of this Act in relation to the rent has been served, but if a notice under section 16 of this Act in relation to the rent is served upon the person, the applicant shall not be liable for any such costs or expenses incurred by the person after the service of the latter notice.

@@ -1,0 +1,3 @@
+Liability for costs in relation to acquisition of fee simple.
+
+9.—A person (in this section referred to as the applicant) who proposes to acquire the fee simple in land by virtue of this Act shall be liable for the payment of the reasonable costs and expenses actually and necessarily incurred in complying with the provisions of this Act by a person upon whom a notice under section 4 of this Act in relation to the land has been served but, if a notice under section 10 of this Act in relation to the land is served on the person, the applicant shall not be liable for the payment of any such costs or expenses incurred by the person after the service of the latter notice.
