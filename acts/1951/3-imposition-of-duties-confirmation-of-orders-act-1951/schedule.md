@@ -1,0 +1,3 @@
+SCHEDULE.
+
+Ref. No. Number and Year of the Statutory Instruments Short Title General subject-matter (1) (2) (3) (4) 1 No. 176 of 1950 Emergency Imposition of Duties (No. 254) Order, 1950. Imposition of duty on certain drinking glasses. 2 No. 192 of 1950 Emergency Imposition of Duties (No. 255) Order, 1950. Imposition of duty on dried peas. 3 No. 204 of 1950 Emergency Imposition of Duties (No. 256) Order. 1950. Imposition of duty on certain collapsible tubular containers. 4 No. 234 of 1950 Emergency Imposition of Duties (No. 257) Order, 1950. Variation of duty on certain vegetable oils and fats. 5 No. 251 of 1950 Emergency Imposition of Duties (No. 258) Order, 1950. Imposition of duty on certain glass containers.
