@@ -1,0 +1,3 @@
+Evidence in proceedings for recovery of levy.
+
+44.—In any proceedings, a certificate purporting to have been signed by an officer of the Board and stating that a specified amount in respect of levy is due and payable by a specified person to the Board or that a return under section 38 in relation to a specified levy period was not furnished to the Board by a specified person or was not so furnished within the period specified in that section shall be evidence, unless the contrary is shown, of the facts specified in the certificate and the certificate shall be deemed to have been signed by an officer of the Board unless the contrary is shown.
