@@ -1,0 +1,7 @@
+Personal reliefs.
+
+4.—(1) Where a deduction falls to be made from the total income of an individual for the year of assessment 1998-99 or any subsequent year of assessment in respect of relief to which the individual is entitled under a provision mentioned in column (1) of the Table to this subsection and the amount of the deduction would, but for this section, be an amount specified in column (2) of the said Table, the amount of the deduction shall, in lieu of being the amount specified in the said column (2), be the amount specified in column (3) of the said Table opposite the mention of the amount in the said column (2).
+
+Statutory provision Amount to be deducted from total income for the year 1997-98 Amount to be deducted from total income for the year 1998-99 and subsequent years (1) (2) (3) £ £ Principal Act: section 461 (married person) 5,800 6,300 (widowed person bereaved in the year of assessment) 5,800 6,300 (widowed person) 3,400 3,650 (single person) 2,900 3,150 section 462 (additional allowance for widowed persons and others in respect of children) (widowed person) 2,400 2,650 (other person) 2,900 3,150 section 465 (incapacitated child) 700 800 section 467 (person employed to take care of an incapacitated person) 7,500 8,500 section 468 (blind person) 700 1,000 (both spouses blind) 1,600 2,000
+
+(2) Schedule 1 shall apply for the purpose of supplementing subsection (1).
