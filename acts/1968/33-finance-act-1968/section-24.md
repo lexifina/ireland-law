@@ -1,0 +1,3 @@
+Irish wine.
+
+24.—The duty of excise on Irish wine imposed by section 15 of the Finance Act, 1966, shall, as on and from the 24th day of April, 1968, and before the 1st day of July, 1968, be charged, levied and paid at the several rates specified in Part I of the Fourth Schedule to this Act in lieu of the several rates specified in paragraph 3 of the Imposition of Duties (No. 163) (Duty on Wine) Order, 1967, and shall, as on and from the 1st day of July, 1968, be charged, levied and paid at the several rates specified in Part II of the Fourth Schedule to this Act in lieu of the several rates specified in Part I thereof.
