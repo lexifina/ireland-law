@@ -1,0 +1,11 @@
+Recovery of tax and penalties.
+
+[CATA 1976 s49].
+
+63.—(1) Any sum due and payable in respect of tax or interest on such tax and any penalty incurred in connection with tax or interest on such tax is deemed to be a debt due by the accountable person or, if that person is dead, by that person's personal representative, to the Minister for Finance for the benefit of the Central Fund and is payable to the Commissioners and may (without prejudice to any other mode of recovery of such tax and interest) be sued for and recovered by action, or other appropriate proceeding, at the suit of the Attorney General or the Minister for Finance or the Commissioners in any court of competent jurisdiction, notwithstanding anything to the contrary contained in the Inland Revenue Regulation Act 1890.
+
+(2) Any person who, having received any sum of money as or for any tax, interest, or penalty under this Act, does not apply the money to the due payment of the tax, interest or penalty, and improperly withholds or detains the same, is accountable for the payment of the tax, interest or penalty to the extent of the amount so received by that person and the same is a debt due by that person to the Minister for Finance for the benefit of the Central Fund and is recoverable in like manner as a debt under subsection (1).
+
+(3) If any accountable person is liable under section 46 to deliver to the Commissioners a return or an additional return and makes default in so doing, the Attorney General or the Minister for Finance or the Commissioners may sue by action or other appropriate proceeding in the Circuit Court for an order directing the person so making default to deliver such return or additional return or to show cause to the contrary; and the Circuit Court may by order direct such accountable person to deliver such return or additional return within such time as may be specified in the order.
+
+(4) Whenever property is subject to a charge by virtue of section 60, the Attorney General or the Minister for Finance or the Commissioners may sue by action or other appropriate proceeding in any court of competent jurisdiction for, and the court may make, an order directing the owner of the property to pay the tax with which the property is charged.
