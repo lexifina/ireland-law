@@ -1,0 +1,3 @@
+Regulation 45
+
+45. The manager shall take all practicable steps to ensure that at every place in a mine at which sets or trains consisting of three or more vehicles are coupled or uncoupled there is provided and maintained a continuous clear space not less than 0.61 metres (2 feet) in width between the vehicles standing on any rails in the place and the side of the road nearest to those rails: provided that this regulation shall not apply in relation to a place where there are two or more parallel lines of rails and there is a clear space not less than 0.91 metres (3 feet) in width between the vehicles standing parallel on those lines.

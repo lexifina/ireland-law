@@ -1,0 +1,5 @@
+Regulation 8
+
+8. (1) The manager shall take all practicable steps to ensure that in every ladderway in a shaft or winze inclined at over seventy degrees from the horizontal or in a headframe used in conjunction with such a shaft or winze substantial platforms are built in the ladderway at intervals not exceeding 9.14 metres (30 feet), that the platforms are floored or otherwise suitably sheeted except for an opening large enough only to permit the passage of a man's body while wearing rescue apparatus, and that a ladder in the ladderway is placed so as to cover such opening in the platform.
+
+(2) The manager shall take all practicable steps to ensure that, in every ladderway in a shaft or winze inclined at less than seventy degrees from the horizontal or in a headframe used in conjunction with such a shaft or winze and in which continuous ladders could be used, substantial platforms are built in the ladderway at intervals not exceeding 9.14 metres (30 feet) and that the platforms are entirely floored or otherwise suitably sheeted except for an opening large enough only to permit the passage of a man's body while wearing rescue apparatus.
