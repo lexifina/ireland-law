@@ -1,0 +1,5 @@
+Search warrants (books or documents).
+
+5.—(1) If a Justice of the District Court or a Peace Commissioner is satisfied by information on oath of an officer of Customs and Excise that there is reasonable ground for suspecting that any books or documents relating to transactions in contravention of the laws relating to customs are kept or concealed in any premises or place, such Justice or Commissioner may issue a search warrant under this section.
+
+(2) A search warrant issued under this section shall be expressed and operate to authorise a named officer of Customs and Excise, accompanied by such other officers of Customs and Excise as may be necessary at any time or times within one month of the date of issue of the warrant, to enter (if need be by force) the premises or place specified in the warrant, to search the said premises or place, to inspect any books or documents found therein and to seize and carry away all or any such books or documents reasonably believed by such officer or officers to relate to transactions in contravention of the laws relating to customs and any uncustomed goods or goods found therein the importation of which is prohibited.

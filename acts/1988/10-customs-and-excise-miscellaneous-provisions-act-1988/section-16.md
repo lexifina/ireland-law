@@ -1,0 +1,15 @@
+Amendment of Finance Act, 1929.
+
+16.—Section 31 of the Finance Act, 1929, is hereby amended—
+
+(a) in subsection (1), by the insertion after “duty of excise” of “or a prohibition or restriction on the importation or exportation of any goods” and
+
+(b) in subsection (3), by the substitution of “£1,000” for “fifty pounds”,
+
+and the said subsections, as so amended, are set out in the Table to this section.
+
+TABLE
+
+(1) Whenever an officer of customs and excise is authorised by any enactment relating to a duty of customs or a duty of excise or a prohibition or restriction on the importation or exportation of any goods and contained in a British Statute or any Act of the Oireachtas passed before or after this Act or by any regulation heretofore made or hereafter to be made under any such enactment to demand the production of or to inspect or examine any book, account, letter, voucher or other document such officer shall if he has reasonable ground for suspecting fraud in connection with any entry in or omission from such document or in connection with any transaction to which such document refers also be entitled to remove and detain such document.
+
+(3) Any person who resists or obstructs an officer of customs and excise in the exercise of any of the powers conferred on him by this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a penalty of £1,000 and such penalty shall be a customs penalty where the officer in respect of whom the offence was committed was exercising the said powers for the purposes of the Customs Acts and shall be an excise penalty where such officer was exercising such powers for the purposes of any British Statute or Act of the Oireachtas relating to duties of excise and the management of those duties.
