@@ -1,0 +1,7 @@
+Regulation 4
+
+4. Exemptions.
+
+PART II.
+
+WOODWORKING MACHINES—GENERAL.
