@@ -1,0 +1,3 @@
+Article 2
+
+2. The sum payable by way of remuneration to each judge of the Supreme Court, the High Court and the Circuit Court and each justice of the District Court shall, with effect from the 1st day of June, 1981, be and be deemed to have been increased by an amount equal to 7 per cent. of that sum, being increases calculated in accordance with the provisions of clause 3.1 (excluding the second and fourth subparagraphs) of Part 2 of the Second National Understanding for Economic and Social Development dated October, 1980, and the said sums, as so increased, are set out in the Schedule to this Order.
