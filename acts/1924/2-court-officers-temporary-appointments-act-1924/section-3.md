@@ -1,0 +1,3 @@
+Appointments may be retrospective in certain cases.
+
+3.—Wherever any person has been, previous to the passing of this Act, executing the duties of any office mentioned in the Schedule to this Act which is vacant at the passing of this Act, and such person is appointed under this Act to execute the duties of that office, the appointment of such person may be declared by the Minister where the appointment is made by him and in any other case by the person making the appointment, to take effect as from the date on which the person so appointed commenced to execute the duties of that office and in such case such person shall be deemed for all purposes to have been appointed under this Act on the date aforesaid.
