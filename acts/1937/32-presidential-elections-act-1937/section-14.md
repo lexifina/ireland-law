@@ -1,0 +1,7 @@
+Matters open at the ruling upon nominations.
+
+14.—(1) At the ruling upon nominations every question relevant to the nomination of a candidate (including in particular his eligibility for election) shall be open and may be raised by the presidential returning officer or by any other person then present and entitled to take part in the proceedings.
+
+(2) During the ruling upon nominations it shall be lawful for the presidential returning officer or any other person then present and entitled to take part in the proceedings to question the sufficiency or the correctness of the name, address, or description of any candidate as stated on a nomination paper and it shall be lawful for the presidential returning officer or, where the question is referred to the judicial assessor, for the judicial assessor to reject as invalid any nomination paper in which the statement of the name, address, or description of the candidate is, in the opinion of the presidential returning officer or the judicial assessor (as the case may be), misleading, whether by reason of insufficiency or incorrectness.
+
+(3) The presidential returning officer or the judicial assessor (as the case may be) may, for the purpose of deciding any question at issue during the ruling upon nominations receive and act upon evidence, whether oral or written, tendered to him by or on behalf of any party interested in such question, and may, if he so thinks proper, require such evidence to be given on oath and may for that purpose administer an oath.

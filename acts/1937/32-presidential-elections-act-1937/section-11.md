@@ -1,0 +1,7 @@
+Consecutive numbering of nomination papers.
+
+11.—(1) The presidential returning officer shall number consecutively in the order in which they are received by him all nomination papers (whether the same are or are not regular and valid) received by him before twelve o'clock noon on the last day for receiving nominations, and for that purpose he shall, immediately after receiving any such nomination paper, endorse thereon the said consecutive number thereof.
+
+(2) The numbers endorsed on nomination papers by the presidential returning officer in pursuance of this section shall be conclusive evidence of the order in which such papers were received by him.
+
+(3) Whenever the presidential returning officer receives under this Act a nomination paper, he shall forthwith send by post to the candidate named in such nomination paper at the address stated in such nomination paper a notice in writing stating that the presidential returning officer has received a document purporting to be a nomination paper whereby such candidate is nominated (as the case may be) by a named council or by members (who need not be named) of the Oireachtas to be a candidate but the omission of the presidential returning officer to send such notice or the failure of such candidate to receive such notice shall not relieve such candidate from the obligation imposed on him by this Act to attend, either in person or by an authorised representative, during the whole of the ruling upon nominations.
