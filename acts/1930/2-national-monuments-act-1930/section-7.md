@@ -1,0 +1,5 @@
+Transfer of guardianship to the Commissioners.
+
+7.—(1) Where a local authority are appointed by deed under this Act to be the guardians of a national monument, such local authority may, with the consent of the owner of such monument and the consent of the Commissioners, transfer by deed such guardianship to the Commissioners and upon such transfer being so made the said deed appointing such local authority to be such guardians shall thenceforward have effect under this Act as if it were expressed to appoint the Commissioners to be the guardians of such monument.
+
+(2) Where the Commissioners have been appointed by deed under this Act or an Act repealed by this Act to be the guardians of a national monument, the Commissioners may, with the consent of the owner of such monument and the consent of the local authority in whose functional area such monument is situate, transfer by deed such guardianship to such local authority, and upon such transfer being so made the deed appointing the Commissioners to be such guardians shall thenceforward have effect as a deed under this Act appointing the said local authority to be guardians of such monument.
