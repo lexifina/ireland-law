@@ -1,0 +1,3 @@
+Trial of offences.
+
+21.—Where an offence under the Acts or this Act has been, or is alleged to have been committed in or upon any waters forming the boundary between two or more Districts established for the purposes of the District Court, then, notwithstanding section 79 of the Courts of Justice Act, 1924 (No. 10 of 1924), proceedings in respect of the offence may be brought, heard and determined before and by a District Justice for the time being assigned to any one of the said Districts and such offence may be alleged and stated in an information or summons to have been committed in the District where it is proposed to bring the proceedings.
