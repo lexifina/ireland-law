@@ -1,0 +1,1 @@
+I, MÁIRE NIC EOCHAGÁIN UÍ CHUINN, Minister for the Gaeltacht, in exercise of the power conferred on me by section 2 (1) of the Údarás na Gaeltachta Act, 1979 (No. 5 of 1979), hereby make the following Order:
