@@ -1,0 +1,3 @@
+Power to vary appropriate period.
+
+3.—Without prejudice to the powers conferred on them by Part IV of the Principal Act to grant a permission to develop land for a limited period only, in deciding to grant a permission under section 26 of the Principal Act, a planning authority or the Board, as may be appropriate, may, having regard to the nature and extent of the relevant development and any other material consideration, specify the period, being a period of more than five years, during which the permission is to have effect, and in case the planning authority exercise, or refuse to exercise, the power conferred on them by this section, such exercise or refusal shall be regarded as forming part of the relevant decision of such authority under the said section 26.
