@@ -1,0 +1,5 @@
+Application for certificate of fitness to hold Part X licence.
+
+14.—(1) A person making an application to a District Justice under section 158 (which provides for the granting by the District Court of a certificate of fitness to hold a Part X licence) of the Principal Act for a certificate under that section in relation to a salmon dealer's or salmon exporter's licence shall give notice in writing of the application to the board of conservators for each fishery district in which he carries on or proposes to carry on the business of selling or exporting (as the case may be) salmon and trout not less than fourteen days before the date of the hearing of the application and each such board shall, through its clerk or other officer nominated by the board for the purpose, be entitled to appear in Court and be heard on the hearing of the application.
+
+(2) For the purposes of subsection (1) of this section the Moville Area shall be deemed to be a fishery district and the Foyle Fisheries Commission shall be deemed to be the board of conservators therefor.

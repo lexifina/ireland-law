@@ -1,0 +1,3 @@
+Possession of nets, etc., for purposes of section 96 of Principal Act.
+
+10.—Where a person is charged with an offence under section 96 (which restricts the possession of illegal nets and instruments) of the Principal Act in relation to a net, other instrument, lureor bait found on his person or in a boat or vehicle belonging to, or on any lands, tenements or hereditaments occupied by, him, he shall (unless he satisfies the Court that, without his knowledge or consent, another person put the net, other instrument, lure or bait, as the case may be, in the place where it was found) be deemed, for the purposes of the said section 96, to have in his possession or control the net, other instrument, lure or bait, as the case may be.

@@ -1,0 +1,3 @@
+Use of fixed engines for the capture of eels.
+
+11.—The Minister may by bye-law authorise, subject to such conditions as he thinks proper, the placing, erection, fishing with and use of any fixed engine for the capture of eels, at any specified place in tidal waters and, where a bye-law under this section is in force, then, notwithstanding anything contained in sections 102 and 103 (which prohibit the placing or use of fixed engines in certain places) of the Principal Act, the placing, erection, fishing with or use, in accordance with the conditions (if any) specified in the bye-law, of any fixed engine for the capture of eels at the place, shall not be an offence under the said section 102 or 103.
