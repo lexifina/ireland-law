@@ -1,0 +1,3 @@
+Exemptions from particular provisions of a planning scheme.
+
+9.—A planning scheme may contain, in relation to any particular provision of such planning scheme, a provision enabling the responsible authority, in any case in which, after publication (in the prescribed form and manner and at the prescribed times) of notice of their intention, they think proper so to do, to grant with the consent of the Minister to any person who applies therefor or in respect of any property in relation to which an application therefor is made a total or a partial exemption from one or more or all of the obligations imposed by such particular provision of such planning scheme.

@@ -1,0 +1,7 @@
+Powers of dispensing with the giving of certain notices and publication of certain advertisements.
+
+15.—(1) Where the Minister is satisfied that reasonable grounds exist for dispensing with the giving of any notice under the Principal Act or this Act or under a regulation made under either of those Acts, he may by order dispense with the giving of such notice and every such order shall have effect according to the tenor thereof.
+
+(2) Where the Minister is satisfied that reasonable grounds exist for dispensing with the publication of any advertisement under the Principal Act as amended by this Act or under a regulation made under either of those Acts, he may by order dispense with the publication of such advertisement and every such order shall have effect according to the tenor thereof.
+
+(3) An order under this section may be made, in the case of an order in relation to a notice, either before or after the time when such notice would, but for such order, be required to be given and either before or after the doing of any act to which such notice would, but for such order, be a condition precedent and, in the case of an order in relation to an advertisement, either before or after the time when such advertisement would, but for such order, be required to be published and either before or after the doing of any act to which such advertisement would, but for such order, be a condition precedent.

@@ -1,0 +1,5 @@
+Planning scheme for two or more adjoining areas.
+
+7.—(1) Where a planning authority has passed, under section 26 of the Principal Act, two or more resolutions deciding to make planning schemes for two or more separate but adjoining areas, such planning authority may, by virtue of such resolutions, make one planning scheme for the whole area made up of such adjoining areas, and the making of such one planning scheme shall be a sufficient compliance with section 29 of the Principal Act.
+
+(2) Where a planning scheme is made under this section by a planning authority for an area consisting of two or more parts in respect of each of which a separate resolution for the making of a planning scheme was passed by such planning authority, section 4 of the Principal Act shall have effect in relation to every such part as if such planning scheme were made for such part alone, and, accordingly, different days may be the relevant date in relation to each such part for the purposes of the Principal Act in respect of the planning scheme or of any provision of the planning scheme.
