@@ -1,0 +1,1 @@
+I, DESMOND O'MALLEY, Minister for Justice, in exercise of the powers conferred on me by section 13 of the Police Forces Amalgamation Act, 1925 (No. 7 of 1925), with the sanction of the Minister for Finance and after due compliance with subsection (2) of the said section 13, hereby order as follows :
