@@ -1,0 +1,5 @@
+Regulation 74
+
+74. Every prisoner under warrant or order for execution shall, immediately on his arrival in the prison after sentence, be searched by or by the order of the Governor, and all articles shall be taken from him which the Governor deems dangerous or inexpedient to leave in his possession. He shall be confined in a cell apart from all other prisoners, and shall be placed by day and by night under the constant charge of two members of the prison staff. He shall be allowed such a dietary and amount of exercise as the Governor, with the approval of the Minister, may direct. The chaplain shall have free access to every such prisoner of his own religious persuasion, and free access shall be allowed to any clergyman whom such prisoner desires to see. With the above exceptions, no person, not being a member of the Visiting Committee or a member of the prison staff shall have access to the prisoner except in pursuance of an order under regulation 76 hereof.
+
+75 Exclusion of strangers from prison before and during execution.
