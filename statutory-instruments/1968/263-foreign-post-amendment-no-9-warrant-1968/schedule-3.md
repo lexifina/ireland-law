@@ -1,0 +1,13 @@
+THIRD SCHEDULE
+
+"
+
+SERVICE
+
+MAXIMUM COMPENSATION
+
+Registration
+
+£38s. 0d. "
+
+"
