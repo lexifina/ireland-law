@@ -1,0 +1,5 @@
+Appropriation of sums voted for supply services, viz., £253,831,594.
+
+2.—(1) All sums granted by this Act and the other Act mentioned in Schedule A annexed to this Act out of the Central Fund towards making good the supply granted, amounting, as appears by the said Schedule, in the aggregate to the sum of two hundred and fifty-three million, eight hundred and thirty-one thousand, five hundred and ninety-four pounds, are appropriated for the services and purposes expressed in Schedule B annexed thereto.
+
+(2) In addition to the grants out of the Central Fund referred to in the foregoing subsection of this section, there may be applied out of any money directed under section 2 of the Public Accounts and Charges Act, 1891, to be applied as appropriations-in-aid of the grants for the services and purposes specified in Schedule B annexed hereto, the sums respectively set forth in the last column of the said Schedule amounting, as appears thereby, in the aggregate to the sum of seventeen million, nine hundred and ten thousand, eight hundred and forty-one pounds.
