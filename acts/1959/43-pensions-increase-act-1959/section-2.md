@@ -1,0 +1,5 @@
+Amendments of the Act of 1956.
+
+2.—(1) Subsection (4) of section 3 of the Act of 1956 is hereby amended, with effect as on and from the 1st day of August, 1959, by the deletion of all words after “in excess of£500 per annum” and the substitution therefor of “the scheduled (Part I) pension shall, in case it is less than the pension that would have been payable if that arrangement had not applied, first be increased by the deficiency, before it is increased by the amount appropriate in accordance with subsection (1) of this section.”
+
+(2) Subsection (4) of section 4 of the Act of 1956 is hereby amended, with effect as on and from the 1st day of August, 1959, by the deletion of all words after “in excess of£500 per annum” and the substitution therefor of “the scheduled (Part II) pension shall, in ease it is less than the pension that would have been payable if that arrangement had not applied, first be increased by the deficiency, before it is increased by the amount appropriate in accordance with subsection (2) of this section”.
