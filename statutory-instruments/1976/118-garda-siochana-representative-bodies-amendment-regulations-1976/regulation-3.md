@@ -1,0 +1,61 @@
+Regulation 3
+
+3. The Garda Síochána (Representative Bodies) Regulations, 1962 ( S.I. No. 64 of 1962 ), as amended by the Garda Síochána (Representative Bodies) Regulations, 1962 (Amendment) Regulations, 1965 ( S.I. No. 42 of 1965 ), are hereby amended by the substitution of the following Regulations for Regulations 3, 7, 9 and 12, respectively:
+
+" 3. For the purpose of enabling the members of the Garda Síochána to bring to the notice of the Commissioner and of the Minister matters affecting the welfare and efficiency of members (other than questions of discipline and promotion affecting individual members), there shall be established in accordance with these Regulations four bodies (each of which is in these Regulations referred to as a Representative Body) which shall be known respectively as—
+
+(i) the Representative Body for Chief Superintendents,
+
+(ii) the Representative Body for Superintendents,
+
+(iii) the Representative Body for Inspectors, Station Sergeants and Sergeants, and
+
+(iv) the Representative Body for Guards.
+
+7. The members of the Representative Bodies shall be elected in the following manner:
+
+( a ) the Chief Superintendents in each area shall elect one of their number to act on the Representative Body for Chief Superintendents;
+
+( b ) in each area the Superintendents in each Division shall meet to elect one of their number to act on a Selection Committee for the area and each Selection Committee so elected shall meet to elect one of their number to act on the Representative Body for Superintendents;
+
+( c ) for the purpose of paragraph (a) of this Regulation, the Headquarters Division shall, notwithstanding paragraph (2) of Regulation 4 of these Regulations, be deemed to be in the Dublin Metropolitan Area;
+
+( d ) the Area Committees, other than the Area Committees for the rank of Guard, shall each elect one of their number to act on the Representative Body for Inspectors, Station Sergeants and Sergeants;
+
+( e ) the Area Committees for the rank of Guard shall each elect three of their number to act on the Representative Body for Guards.
+
+9. (1) Elections of members of the Representative Body for Chief Superintendents and of members of the Representative Body for Superintendents shall take place as soon as practicable in the year 1976 and the Representative Bodies so elected shall hold office until the 31st day of March, 1977.
+
+(2) The Representative Body for Inspectors, Station Sergeants and Sergeants and the Representative Body for Guards, who were elected in the month of April, 1974, shall continue to hold office until the 31st day of March, 1977.
+
+(3) Elections of members of each of the Representative Bodies shall take place in the month of April, 1977, and thereafter in the month of April in every third year after 1977.
+
+(4) The Representative Bodies shall hold not less than two meetings in each year of office and such other meetings as the Commissioner may request or approve.
+
+(5) The dates on, and places at, which meetings of the Representative Bodies shall be held shall be approved by the Commissioner.
+
+(6) Save where the Commissioner for special reason so permits, a meeting of a Representative Body shall not extend over a period greater than five days.
+
+12. The four Representative Bodies, or any two or three of them, may—
+
+( a ) by written prior agreement sit together as a Joint Representative Body for any special purpose;
+
+( b ) be summoned to sit as a Joint Representative Body by the Commissioner for the consideration of any question referred to them by the Commissioner, who shall in such a case nominate a member of one of the Representative Bodies so summoned to be chairman of that Joint Representative Body."
+
+GIVEN under my Official Seal, this 1st day of June, 1976.
+
+PATRICK COONEY,
+
+Minister for Justice.
+
+The Government hereby approve of the foregoing Regulations.
+
+GIVEN under the Official Seal of the Government, this 1st day of June, 1976.
+
+LIAM MAC COSGAIR,
+
+Taoiseach.
+
+EXPLANATORY NOTE.
+
+These Regulations provide for the establishment of four Representative Bodies, instead of three as heretofore, thus providing for separate Bodies for Chief Superintendents and Superintendents.
