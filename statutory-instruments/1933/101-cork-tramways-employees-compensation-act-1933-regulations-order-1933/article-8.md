@@ -1,0 +1,23 @@
+Article 8
+
+8. For the purpose of the calculation of the amount of compensation stated in paragraph 6 above, the Committee has found:—
+
+(a) the rate of salary or wages of which the applicant was in receipt in respect of his employment on the Tramway on the 31st March, 1931, was:—
+
+............................................................ ............................................................ ...
+
+(b) the yearly amount of such salary or wages is .........................................................
+
+............................................................ ............................................................ ...
+
+(c) one-twelfth of such yearly amount is ............................................................ ........
+
+............................................................ .......................................................
+
+(d) the number of completed years of the applicant's employment on the Tramway is
+
+............................................................ .......................................................
+
+(e) one-twelfth of such yearly amount multiplied by the said number of completed years is
+
+............................................................ .......................................................
