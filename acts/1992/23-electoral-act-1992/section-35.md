@@ -1,0 +1,5 @@
+Person returned for two or more constituencies.
+
+35.—(1) If at an election any person is returned as a member of the Dáil for two or more constituencies, such person shall deliver to the Clerk of the Dáil, before taking his seat for any one of such constituencies, a declaration in writing signed by him stating which one of those constituencies he elects to represent in the Dáil, and if he does not so deliver to the Clerk of the Dáil such declaration in writing not later than 30 days after the first day on which the Dáil sits next after such election he shall be deemed to have elected to represent the constituency in which he received the greatest number of first preference votes.
+
+(2) So soon as a person returned for two or more constituencies elects or is under the foregoing subsection deemed to have elected which of such constituencies he will represent, he shall be deemed to have resigned his seat or seats in each of the other constituencies for which he shall have been so returned.

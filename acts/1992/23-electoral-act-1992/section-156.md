@@ -1,0 +1,3 @@
+Limitation of time for prosecution of offence.
+
+156.—Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act, 1851, proceedings for an offence under this Act may be instituted within twelve months from the date of the offence or, if the offence was committed in relation to a Dáil election as respects which proceedings questioning the election are held before the High Court, may be commenced within twelve months from the date of the offence or within three months from the decision of the court, whichever period last expires, but proceedings for an offence under this Act shall not be commenced after the expiration of the period of two years beginning on the date of the offence.

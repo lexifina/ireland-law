@@ -1,0 +1,3 @@
+Effect of dissolution of Dáil on certain writs.
+
+40.—Where a dissolution of the Dáil takes place after a writ has been issued pursuant to section 39 (2) or (3) directing a returning officer to cause an election to be held and before the return has been made, the writ shall become and be annulled by the dissolution and no further steps shall be taken in respect of the bye-election and the writ shall be returned to the Clerk of the Dáil and any ballot papers used at the bye-election shall be destroyed by the returning officer, but the annulment shall neither prejudice nor affect the right of the returning officer to be paid under this Act his reasonable charges in respect of duties performed in relation to the election before the dissolution.

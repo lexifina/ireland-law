@@ -1,0 +1,5 @@
+Obstruction of nominations.
+
+56.—(1) If the proceedings for or in connection with the nomination of candidates are obstructed by violence the returning officer may adjourn the proceedings to a later hour on the same day or to the next following day (disregarding any excluded day) and, if he so considers it necessary, he may further adjourn the proceedings until such obstruction shall have ceased.
+
+(2) Where any proceedings for or in connection with such nomination are adjourned under this section, the returning officer shall so inform the Minister who may, by order, postpone the latest time for receiving nominations in the constituency for a period equal to the period of such adjournment and appoint the day for the taking of the poll in that constituency. In case the Minister appoints a day under this section the poll shall be taken in the constituency concerned on the day so appointed and the order under section 96 shall, in so far as it relates to the constituency, be construed and have effect as if the day appointed under this section were the day specified in the said order for taking the poll.

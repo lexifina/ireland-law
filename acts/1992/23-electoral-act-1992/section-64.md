@@ -1,0 +1,3 @@
+Voting by post.
+
+64.—A returning officer for a constituency shall, as soon as practicable after the adjournment of a Dáil election for the purpose of taking a poll, send to each Dáil elector whose name is on the postal voters list for the constituency a ballot paper and form of receipt in the form directed by the Minister, and if the ballot paper duly marked by the said elector and accompanied by the said receipt duly signed by him is received by the returning officer before the close of the poll, it shall be counted by him and treated for all purposes in the same manner as a ballot paper placed in a ballot box in the ordinary way at the taking of the poll.

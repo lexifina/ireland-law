@@ -1,0 +1,3 @@
+Ballot papers to be placed in ballot boxes.
+
+75.—When the covering envelopes in any postal voters ballot box have been opened and their contents dealt with under the two preceding sections, the returning officer shall open each unopened ballot paper envelope (other than the ballot paper envelopes referred to in section 73 (5)) and place the ballot paper, without unfolding it, in a ballot box previously shown open and empty to the agents present and sealed with the seal of the returning officer and the seals of such of the agents as desire to affix their seals, which box shall be subsequently treated as a ballot box for the purposes of section 114.

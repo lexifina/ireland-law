@@ -1,0 +1,15 @@
+FIRST SCHEDULE
+
+Enactments Repealed and Regulations Revoked
+
+Section 5.
+
+PART I
+
+Enactments Repealed
+
+Session and Chapter or Number and Year Short Title Extent of Repeal 15 & 16 Vict., c. 57. Election Commissioners Act, 1852. The whole Act. 31 & 32 Vict., c. 125. Parliamentary Elections Act, 1868. The whole Act. 32 & 33 Vict., c. 21. Corrupt Practices Commission Expenses Act, 1869. The whole Act. 40 & 41 Vict., c. 57. Supreme Court of Judicature Act (Ireland) 1877. Section 43. 42 & 43 Vict., c. 75. Parliamentary Elections and Corrupt Practices Act, 1879. The whole Act. 46 & 47 Vict., c. 51. Corrupt and Illegal Practices (Prevention) Act, 1883. The whole Act. No. 12 of 1923. Electoral Act, 1923. The whole Act. No. 38 of 1923. Prevention of Electoral Abuses Act, 1923. The whole Act. No. 14 of 1933. Electoral (Amendment) Act, 1933. Section 3. No. 23 of 1941. Local Government Act, 1941. Subsection (6) of section 33; subsection (5) of section 34. No. 43 of 1960. Electoral Act, 1960. The whole Act. No. 19 of 1963. Electoral Act, 1963. Parts II and III; in Part IV — section 54; in Part V — section 72; Parts VII and VIII. No. 1 of 1966. Electoral (Amendment) Act, 1966. The whole Act. No. 4 of 1972. Electoral (Amendment) Act, 1972. Section 1. No. 12 of 1972. Local Elections Act, 1972. Section 1. No. 3 of 1973. Electoral (Amendment) Act, 1973. Paragraphs (a) and (b) of section 2. No. 30 of 1977. European Assembly Elections Act, 1977. Sections 3 and 8. No. 40 of 1980. Electoral (Amendment) (No. 2) Act, 1980. The whole Act. No. 5 of 1982. Prevention of Electoral Abuses Act, 1982. The whole Act. No. 12 of 1985. Electoral (Amendment) Act, 1985. Section 2; subsection (1) of section 3; sections 4 and 5; subsection (2) of section 9. No. 12 of 1986. Electoral (Amendment) Act, 1986 Section 1. No. 35 of 1986. Electoral (Amendment) (No. 2) Act, 1986. Subsections (1) and (2) of section 2; subsections (3) and (4) of section 2 insofar as they relate to Dáil elections; sections 3, 4, 5, 6, 7 and 8; sections 9, 10, 11, 12, 13 and 14 insofar as they relate to Dáil elections; section 15; section 16 insofar as it relates to Dáil elections; section 17; section 20 insofar as it relates to Dáil elections; sections 21, 22, 23 and subsection (1) of section 24. No. 8 of 1989. Electoral (Amendment) Act, 1989. The whole Act. PART II
+
+Regulations Revoked
+
+Number and Year Short Title Extent of Repeal No. 169 of 1963. Registration of Electors and Juries Acts (Specification of Dates) Regulations, 1963. The whole regulations. No. 246 of 1963. Forms (Dáil Elections, Presidential Elections and Referenda) Regulations, 1963. Part 1 of the Schedule. No. 115 of 1972. Forms (Dáil Elections, Presidential Elections and Referenda) (Amendment) Regulations, 1972. In the Schedule — Forms D.E.5 and D.E.6. No. 381 of 1977. Registration of Electors (Amendment) Regulations, 1977. The whole regulations. No. 402 of 1985. Registration of Electors (Amendment) Regulations, 1985. The whole regulations. No. 5 of 1987. Electoral Regulations, 1987. In Article 5 — paragraphs (a), (b) and (c); Article 6; in the Third Schedule — Forms SV1, SV2, SV3 and SV4.
