@@ -1,0 +1,5 @@
+Regulation 13
+
+13. The right to any sum payable by way of an allowance shall be extinguished where payment thereof is not obtained within three months or, where any particular case the Minister so approves, six months from the date on which that sum is payable under article 11 of these Regulations.
+
+14 Information to be given when obtaining payment of allowance.
