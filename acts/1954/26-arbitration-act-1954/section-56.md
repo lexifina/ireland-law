@@ -1,0 +1,27 @@
+Conditions for enforcement of foreign awards.
+
+56.—(1) In order that a foreign award may be enforceable under this Part it must have—
+
+(a) been made in pursuance of an agreement for arbitration which was valid under the law by which it was governed,
+
+(b) been made by the tribunal provided for in the agreement or constituted in manner agreed upon by the parties,
+
+(c) been made in conformity with the law governing the arbitration procedure,
+
+(d) become final in the country in which it was made,
+
+(e) been in respect of a matter which may lawfully be referred to arbitration under the law of the State,
+
+and the enforcement thereof must not be contrary to the public policy or the law of the State.
+
+(2) Subject to subsection (3) of this section, a foreign award shall not be enforceable under this Part if the Court is satisfied that—
+
+(a) the award has been annulled in the country in which it was made, or
+
+(b) the party against whom it is sought to enforce the award was not given notice of the arbitration proceedings in sufficient time to enable him to present his case, or was under some legal incapacity and was not properly represented, or
+
+(c) the award does not deal with all the questions referred or contains decisions beyond the scope of the agreement for arbitration.
+
+(3) Where a foreign award does not deal with all the questions referred, the Court may, if it thinks fit, either postpone the enforcement of the award or order its enforcement subject to the giving of such security by the person seeking to enforce it as the Court may think fit.
+
+(4) If the party seeking to resist the enforcement of a foreign award proves that there is any ground, other than the non-existence of the conditions specified in paragraphs (a) (b) and (c) of subsection (1) of this section or the existence of the conditions specified in paragraphs (b) and (c) of subsection (2) of this section, entitling him to contest the validity of the award, the Court may, if it thinks fit, either refuse to enforce the award or adjourn the hearing until after the expiration of such period as appears to the Court to be reasonably sufficient to enable that party to take the necessary steps to have the award annulled by the competent tribunal.

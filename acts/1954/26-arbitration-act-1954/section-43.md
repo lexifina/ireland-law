@@ -1,0 +1,3 @@
+Accrual for purposes of statutes of limitation of right of action in respect of matters required by arbitration agreement to be referred to arbitration, where agreement provides that arbitration shall be a condition precedent to commencement of action.
+
+43.—Notwithstanding any term in an arbitration agreement to the effect that no cause of action shall accrue in respect of any matter required by the agreement to be referred until an award is made under the agreement, a cause of action shall, for the purposes of the statutes of limitation (whether in their application to arbitrations or to other proceedings), be deemed to have accrued in respect of any such matter at the time when it would have accrued but for that term in the agreement.

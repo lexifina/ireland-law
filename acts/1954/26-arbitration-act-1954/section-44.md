@@ -1,0 +1,3 @@
+Power of Court to extend period of limitation where it sets aside award or orders arbitration to cease to have effect.
+
+44.—Where the Court orders that an award be set aside or orders, after the commencement of an arbitration, that the arbitration should cease to have effect with respect to the dispute referred, the Court may further order that the period between the commencement of the arbitration and the date of the order of the Court shall be excluded in computing the time prescribed by the statutes of limitation for the commencement of the proceedings (including arbitration) with respect to the dispute referred.

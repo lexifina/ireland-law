@@ -1,0 +1,3 @@
+Application to arbitrator or umpire to give directions as to costs where award contains no provision.
+
+31.—If no provision is made by an award with respect to the costs of the reference, any party to the reference may, within fourteen days of the publication of the award or such further time as the Court may direct, apply to the arbitrator or umpire for an order directing by and to whom those costs shall be paid, and thereupon the arbitrator or umpire shall, after hearing any party who may desire to be heard, amend his award by adding thereto such directions as he may think proper with respect to the payment of the costs of the reference.
