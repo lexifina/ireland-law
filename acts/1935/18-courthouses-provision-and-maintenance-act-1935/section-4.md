@@ -1,0 +1,3 @@
+Custody and control of courthouse accommodation.
+
+4.—Subject to the general or particular directions of the Minister, the custody and control of courthouse accommodation which is provided and maintained under this Act shall, where such courthouse accommodation is used for the purposes of a District Court and no other Court, be vested in the district court clerk for the district in which such accommodation is situate, and shall, where such accommodation is used for the purposes of any Court other than a District Court (whether it is or is not also; used for the purposes of a District Court), be vested in the county registrar for the county in which such accommodation is situate.
