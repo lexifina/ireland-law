@@ -1,0 +1,5 @@
+Expenses of obtaining loans from the Corporation.
+
+24.—(1) A loan or advance of money made by the Corporation to a person and for a purpose authorised by the memorandum and articles of association of the Corporation may include, in addition to the money required for such purpose, such sum as may be required to pay the expenses of obtaining such loan and giving security for the repayment thereof, and no loan or advance of money heretofore or hereafter made by the Corporation shall be or ever have been invalidated by reason of the inclusion therein of such sum as is or was required to meet such expenses or by reason of the application of part of such moneys in defraying such expenses.
+
+(2) A charge which is a priority charge within the meaning of the Amending Act of 1928 shall not be precluded from being a permanent improvement charge within the meaning of that Act by reason only of portion of the principal sum secured by such charge having been borrowed for and expended in paying the expenses of borrowing such principal sum and giving security for the repayment thereof.

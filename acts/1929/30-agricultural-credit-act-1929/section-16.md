@@ -1,0 +1,5 @@
+Rights of puisne claimants.
+
+16.—(1) A priority charge which is not a permanent improvement charge shall, as between the mortgagor by whom such charge was given and puisne claimants against land affected by such charge, be deemed to be charged on all and every (if any) estate and interest in such land to which such mortgagor was at the date of the registration of such charge in the Registry of Deeds or becomes at any time thereafter beneficially entitled in indemnification of all puisne claims against such land by puisne claimants.
+
+(2) All moneys paid to the Corporation by, or out of the share, estate, or interest of a puisne claimant against land on foot of a priority charge which is not a permanent improvement charge on such land shall be repaid to such claimant by the mortgagor on demand with interest thereon at the rate of five per cent. per annum and until so repaid such moneys and the interest thereon shall be a debt due by the mortgagor to such person on all and every (if any) estate and interest to which the mortgagor is beneficially entitled in such land or the proceeds of the sale thereof at the date of such payment to the Corporation.

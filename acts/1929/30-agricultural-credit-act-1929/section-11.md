@@ -1,0 +1,3 @@
+Payment of expenses of the formation of the Corporation.
+
+11.—There shall be charged upon and paid out of the Central Fund or the growing produce thereof to the Corporation as soon as may be after the passing of this Act the sum of five thousand pounds which shall be applied by the Corporation in or towards paying the expenses of the promotion, formation, and registration of the Corporation and the other preliminary expenses of the Corporation, or, if and so far as such expenses have been paid, in recouping to the Corporation and other persons by whom such expenses were paid the amounts paid by them respectively on foot of such expenses.

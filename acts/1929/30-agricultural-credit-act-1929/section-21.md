@@ -1,0 +1,5 @@
+Definition of “farmer” in Principal Act.
+
+21.—(1) The word “farmer” where the same occurs in the Principal Act shall include a person or two or more persons jointly carrying on as personal representative or representatives of a deceased person or as trustee or trustees of a settlement and for the benefit of the estate of such deceased person or of the persons beneficially entitled under such settlement some form of agriculture as a business for profit on land forming part of such estate or subject to the trusts of such settlement, and references in the Principal Act to the farm of such person or persons shall mean the said land on which he or they so carries or carry on such agriculture, and the Principal Act shall be construed and have effect accordingly.
+
+(2) In this section the word “trustee” includes a trustee under a trust created by parol and also a trustee by construction of law and the word “settlement” means the deed, will or other instrument, parol declaration or construction of law by virtue of which the trustee or trustees in relation to whom the word is used is or are such trustee or trustees.
