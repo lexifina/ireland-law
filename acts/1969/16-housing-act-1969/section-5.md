@@ -1,0 +1,9 @@
+Housing authority may require a house to be made fit for human habitation.
+
+5.—(1) Where a housing authority are of opinion that a person has, for the purpose of avoiding the provisions of this Act, caused or permitted a house to deteriorate to the extent that it ceases to be a habitable house, the authority if they think fit may, notwithstanding the condition of the house or the cost of repairs, serve on the owner of the house and, in so far as it is reasonably practicable to ascertain such person, on any other person having an interest in the house whether as mortgagee, tenant or otherwise, a notice in writing (in this Act referred to as a reinstatement notice) requiring the owner to execute, within a period specified in the notice being not less than twenty-eight days beginning on the date of service of the notice, such works as may be necessary to make the house fit for human habitation and in particular, a reinstatement notice shall specify the period within which an appeal may be made under section 72 of the Act of 1966 against the notice and may, if the authority think fit, specify the works which are, in the opinion of the authority, necessary to make the house fit for human habitation, and such owner, his servants or agents shall carry out the works necessary to comply with the requirements of the notice and may, for that purpose, enter on any land.
+
+(2) A reinstatement notice shall become operative:
+
+(a) in case an appeal is made by virtue of section 8 against the notice and the court, on such appeal, confirms the notice with or without modifications, alterations or additions—on the determination of the appeal by the court or on such other date as the court may decide;
+
+(b) in any other case—on the expiration of the period ending twenty-one days after the date of the service of the notice.
