@@ -1,0 +1,3 @@
+The standard period.
+
+11.—The standard period in relation to a company's trade shall, for the purposes of this Part of this Act, be the period of one year ending on the 30th day of September, 1956, or, if the company so elects, the period of one year ending on the 30th day of September, 1955, and that standard period shall be applicable in relation to the trade whether or not, during the whole or part of that standard period, the trade was carried on by a person other than the company by which it is carried on in the year of claim or the accounting period (as the case may be) or separate parts of the trade were carried on by different persons, but that standard period shall not be applicable where the trade was not in existence before the end of that standard period.
