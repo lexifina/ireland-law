@@ -1,0 +1,3 @@
+Article 5
+
+5. Whenever it is shown to the satisfaction of the Revenue Commissioners that none of the active ingredients (other than meprobamate and sulphamethizole) of an article chargeable with the duty imposed by this Order is the subject of a monograph in the edition for the time being current of the British Pharmacopoeia, the British Pharmaceutical Codex or the British Veterinary Codex, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, permit such article to be imported without payment of the duty or may repay any such duty paid at importation.
