@@ -1,0 +1,5 @@
+Accounts and audit.
+
+21.—(1) The Council shall keep, in such form as may be approved of by the Minister with the concurrence of the Minister for Finance, all proper and usual accounts of all monies received or expended by the Council, including an income and expenditure account and balance sheet and, in particular, shall keep all such special accounts as the Minister may from time to time direct.
+
+(2) Accounts kept in pursuance of this section shall, not later than six months after the end of the financial year of the Council to which they relate, be submitted to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the income and expenditure account and of the balance sheet and of such other, if any, of its accounts as the Minister may specify, together with a copy of the Comptroller and Auditor General's report on the accounts, shall be presented to the Minister who shall cause copies of the documents so presented to be laid before each House of the Oireachtas.
