@@ -1,0 +1,9 @@
+THIRD SCHEDULE
+
+Repeals
+
+PART I
+
+Provisions of the Companies Act, 1963 Extent of repeal Section 2(1) (General provision as to interpretation) ________________________ Definitions of “statutory meeting” and “statutory report”. Section 19 (Conclusiveness of certificate of incorporation) ________________________ Entire section. Section 48 (Restriction on alteration of terms mentioned in prospectus or statement in lieu of prospectus)________________________ Entire section. Section 63 (Power to issue shares at a discount) Entire section. Section 130 (Statutory meeting and statutory report) _______________________________ Entire section. Section 149 (Contents and form of accounts; computation and treatment of profits and losses) ________________________ Subsection (6). Section 213 (Circumstances in which a company may be wound up by the court) __________ Paragraph (b). Section 215 (Provisions as to applications for winding up) ________________________ Paragraph (b). Section 216 (Powers of court on hearing petition) ________________________ Subsection (2). First Schedule, Table A, Part I ____________ In regulation 11 the words “, and the company shall also have a first and paramount lien on all shares (other than fully paid shares) standing registered in the name of a single person for all moneys immediately payable by him or his estate to the company.”. First Schedule, Tábla A, Part I ____________ In regulation 11 the words “, agus beidh túslian ceannasach ag an gcuideachta freisin ar gach scair (seachas scaireanna láníoctha) a bheidh cláraithe in ainm duine aonair le haghaidh an airgid uile is iníoctha láithreach aige féin, nó ag a eastát, leis an gcuideachta”. First Schedule, Table D __________________ Part II. PART II
+
+Provisions of the Companies (Amendment) Act, 1982 Extent of repeal. Section 3 (Particulars to be delivered with memorandum) ______________________ Subsection (6).
