@@ -1,0 +1,5 @@
+Discount on punctual payment of rate.
+
+10.—(1) Whenever the owner of a small dwelling who is not also the occupier of such dwelling pays to the rating authority or to a person on their behalf nine-tenths of the amount of a rate made by virtue of this Act on him in respect of such dwelling within three months after the making of such rate or within two months after the furnishing to him in accordance with this Act of particulars of such rate in respect of such dwelling, such rate shall be deemed to have been fully paid and satisfied by such payment and such payment shall be accepted by such rating authority or such person accordingly.
+
+(2) The provisions of this section shall be in addition to and not in substitution for the provisions of any other enactment (whether public, general, local, or personal, public or private) enabling a rate to be discharged by payment of a fraction thereof within a limited time, but not so as to entitle any person to relief under this section and under such other enactment in respect of the same rate.

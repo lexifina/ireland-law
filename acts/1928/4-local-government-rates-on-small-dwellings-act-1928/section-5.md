@@ -1,0 +1,15 @@
+Relief of agents and trustees.
+
+5.—(1) Save as is otherwise provided by this section a rate made by virtue of this Act on an owner of a small dwelling who is not beneficially entitled to such small dwelling shall not be recoverable from such owner.
+
+(2) Whenever a rate is made by virtue of this Act on the owner of a small dwelling and such owner is not beneficially entitled to such small dwelling and such rate is in arrear and unpaid for whichever of the following periods is the longer, that is to say, four months from the making of such rate or three months from the furnishing in accordance with this Act to such owner of particulars of such rate, the following provisions shall apply and have affect, that is to say:—
+
+(a) it shall be lawful for the rate collector by whom such rate is collectable to serve either personally or by post on such owner a notice restraining him for so long as any part of such rate remains unpaid from paying to the person beneficially entitled to such small dwelling any rents or profits received (whether before or after the service of such notice) by such owner out of or in respect of such small dwelling;
+
+(b) when such notice has been served such owner shall, to the extent of all rents and profits issuing out of such small dwelling and either received by him before and still in his hands at the service of such notice or received by him after such service, be liable to pay such rate and the same shall be recoverable from him accordingly by all or any of the remedies authorised by this Act;
+
+(c) the receipt of a rate collector by whom such rate is collectable for a payment made by such owner on account of the said rate after the service of such notice on him shall, as against the person beneficially entitled to such small dwelling and notwithstanding any direction given by such person, be a good discharge to such owner for moneys received by him for the use of or in trust for such person up to the amount of such payment;
+
+(d) if such notice as aforesaid cannot conveniently be served on such owner or the rating authority by whom such rate was made is of opinion (whether before or after the service of such notice) that the amount of such rate so in arrear or some part of such amount is or probably will be irrecoverable from such owner, it shall be lawful for the rate collector by whom such rate is collectable to serve either personally or by post on the occupier of such small dwelling a notice stating the amount of the said rate then unpaid and requiring such occupier to pay to such rate collector or his successor in office all rent then due or thereafter to become due by him to such owner until the said amount of the said rate is by such payment or otherwise discharged;
+
+(e) the service of such notice as aforesaid on such occupier shall operate to transfer to such rate collector and his successors in office the exclusive right to recover, receive and give a discharge for the rent required by such notice to be paid to such rate collector or his successor in office.
