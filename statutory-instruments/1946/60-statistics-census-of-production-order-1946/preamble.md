@@ -1,0 +1,7 @@
+STATUTORY RULES AND ORDERS. 1946. No. 60.
+
+THE STATISTICS (CENSUS OF PRODUCTION) ORDER, 1946.
+
+THE STATISTICS (CENSUS OF PRODUCTION) ORDER, 1946. MADE BY THE MINISTER FOR INDUSTRY AND COMMERCE UNDER SUB-SECTION (1) OF SECTION 16 OF THE STATISTICS ACT. 1926.
+
+The Minister for Industry and Commerce in exercise of the powers conferred on him by sub-section (1) of section 16 of the Statistics Act, 1926 (No. 12 of 1926), and of every and any other power him in this behalf enabling, hereby orders as follows:—
