@@ -1,0 +1,7 @@
+Consolidation of holdings.
+
+25.—(1) The powers of the Land Commission under section 66 of the Land Act, 1923, to consolidate certain holdings are hereby extended to include power by order to consolidate any two or more than two holdings, whether or not subject to purchase annuity, whenever in the opinion of the Land Commission such consolidation is necessary or desirable for the purposes of the Land Purchase Acts and the tenant or proprietor of the holdings consents to such consolidation.
+
+(2) Upon the creation of a consolidated holding under section 66 of the Land Act, 1923, or that section as extended by this section, there shall be transferred to the holding so created all estates, interests, rights, burdens, charges, liabilities and equities which, at the date of the order of the Land Commission creating such holding, affected or attached to each holding so consolidated, and any purchase annuity, reclamation annuity or other payment so transferred shall be deemed to have been and shall be charged on and recoverable out of the consolidated holding in the same manner and in the same priority as such annuity or payment was previously charged on and recoverable out of part of the consolidated holding.
+
+(3) On the application of the Land Commission, the Registrar of Titles shall register under the Registration of Title Acts, 1891 and 1942, the ownership of all land consolidated under this section and shall make such changes in the appropriate register as appear to him to be necessary.
