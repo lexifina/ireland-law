@@ -1,0 +1,11 @@
+STATUTORY RULES AND ORDERS. 1936. No. 369.
+
+CONDITIONS OF EMPLOYMENT (ENAMELWARE INDUSTRY) (YOUNG PERSONS DEEMED TO BE ADULT WORKERS) ORDER, 1936.
+
+THE CONDITIONS OF EMPLOYMENT (ENAMELWARE INDUSTRY) (YOUNG PERSONS DEEMED TO BE ADULT WORKERS) ORDER, 1936, MADE BY THE MINISTER FOR INDUSTRY AND COMMERCE ON THE 6TH DAY OF OCTOBER, 1936, PURSUANT TO SUB-SECTION (1) OF SECTION 40 of THE CONDITIONS OF EMPLOYMENT ACT, 1936 .
+
+WHEREAS it is enacted by sub-section (1) of Section 40 of the Conditions of Employment Act, 1936 (No. 2 of 1936), that the Minister for Industry and Commerce, if he is satisfied that young persons employed to do any form of industrial work are so employed as assistants to adult workers and that the work of such adult workers could not proceed in a satisfactory manner if such young persons did not work for the same hours as such adult workers, may by order make regulations in accordance with the said Section directing that young persons or young persons who have attained a specified age while doing such form of industrial work shall be deemed to be adult workers for the purposes of the said Act :
+
+AND WHEREAS it is further enacted by sub-section (2) of the said Section 40 that the Minister for Industry and Commerce shall not make regulations in respect of any form of industrial work under the said section unless he has first consulted with representatives of employers interested in such form of industrial work and with representatives of workers so interested :
+
+NOW, THEREFORE, the Minister for Education acting as agent for the Minister for Industry and Commerce in exercise of the powers conferred on him by sub-section (1) of Section 40 of the Conditions of Employment Act, 1936 (No. 2 of 1936), and of every and any other power him in this behalf enabling, being satisfied that young persons employed to do the form of industrial work specified in the Schedule to this Order are so employed as assistants to adult workers and that the work of such adult workers could not proceed in a satisfactory manner if such young persons did not work for the same hours as such adult workers, and after consultation with representatives of employers interested in such form of industrial work and with representatives of workers so interested, makes by this Order the following regulations, that is to say :—
