@@ -1,0 +1,1 @@
+The Minister for Health, in exercise of the powers conferred on her by section 5 of the Health Act, 1947 (No. 28 1947) and sections 59 and 72 of the Health Act, 1970 (No. 1 of 1970) hereby makes the following Regulations:
