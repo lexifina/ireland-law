@@ -1,0 +1,3 @@
+Article 7
+
+7. Article 12 of the Principal Order is hereby amended by the substitution for the words " or both of the registration pages thereof " of the words " of the registration pages of the general ration book, both of the registration pages of the general ration book, a supplementary registration page issued to the applicant, one only of the registration pages of the general ration book and a supplementary registration page issued to the applicant or both of the registration pages of the general ration book and a supplementary registration page issued to the applicant, being a page or pages."
