@@ -1,0 +1,3 @@
+Compulsory acquisition orders.
+
+18.—Where the Minister is satisfied that a person who is the holder of a cement manufacture licence is unable to acquire by agreement any land which, in the opinion of the Minister, is necessary for the purposes of the business authorised by such licence, the Minister may, on the application of such person, but subject to the provisions of this Part of this Act, make if he so thinks fit, an order (in this Part of this Act referred to as a compulsory acquisition order) putting into force as respects such land the provisions of the Lands Clauses Acts with respect to the purchase and taking of lands otherwise than by agreement.
