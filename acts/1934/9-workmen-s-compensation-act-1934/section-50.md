@@ -1,0 +1,3 @@
+Commutation agreements.
+
+50.—Where an employer admits his liability to make a weekly payment under this Act to a workman, but the amount of such weekly payment has not been fixed by the Court, or by agreement between the parties, and such parties enter into an agreement (in this Act referred to as a commutation agreement) whereby in consideration of the payment of a lump sum by such employer to such workman, the latter agrees to release the former from such liability, such agreement shall not, unless and until it is duly registered under this Act, operate to release such employer from such liability, but on being so registered shall operate and have effect to release such employer from such liability.

@@ -1,0 +1,3 @@
+Variation of former order by the Court.
+
+40.—Where, on application being made in accordance with Rules of Court, it appears to the Court that, on account of neglect of children on the part of a widow, or on account of the variation of the circumstances of the various dependants, or for any other sufficient cause, an order of the Court as to the apportionment amongst the several dependants of any sum being the adults' lump sum paid as compensation, or as to the manner in which any sum payable to any such dependant is to be invested, applied or otherwise dealt with, ought to be varied, the Court may make such order for the variation of the former order as in the circumstances of the case the Court may think just.

@@ -1,0 +1,13 @@
+Detention of ships.
+
+69.—(1) If it is alleged that the owners of any ship are liable as such owners to pay compensation under this Act, and at any time that ship is found in any port or river of Saorstát Eireann or within three miles of the coast thereof, a judge of the High Court or Circuit Court may, upon its being shown to him by any person applying in accordance with the Rules of the Court that the owners are probably liable as such to pay such compensation,
+
+and that none of the owners reside in Saorstát Eireann, issue an order directed to any officer of customs and excise or other person named by the judge requiring him to detain the ship until such time as the owners, agent, master, or consignee thereof have paid such compensation, or have given security, to be approved by the judge, to abide the event of any proceedings that may be instituted to recover such compensation and to pay such compensation and costs as may be awarded thereon; and any officer of customs and excise or other person to whom the order is directed shall detain the ship accordingly.
+
+(2) In any legal proceeding to recover such compensation, the person giving security shall be made defendant, and the production of the order of the judge, made in relation to the security, shall be conclusive evidence of the liability of the defendant to the proceeding.
+
+(3) Where a complaint is made to the Minister that before an application can be made under this section the ship in respect of which the application is to be made will have departed from the limits within which she can be arrested, the ship shall, if the Minister so directs, be detained for such time as will allow the application to be made and the result thereof to be communicated to the officer or person detaining the ship, and that officer or person shall not be liable for any costs or damages in respect of the detention, if made in accordance with the directions of the Minister.
+
+(4) Section 692 of the Merchant Shipping Act, 1894, shall apply to the detention of a ship under this Act as it applies to the detention of a ship under that Act, and, if the owner of a ship is a corporation, it shall for the purposes of this section be deemed to reside in Saorstát Eireann if it has an office in Saorstát Eireann at which service can be effected.
+
+(5) Where a ship has been demised to charterers, the provisions of this section shall apply to claims against the charterers of the ship as they apply to claims against the owners of a ship with the substitution of charterers for owners; subject however to this provision, namely, that no ship shall be detained on a claim against the charterers of the ship after the expiration of the term for which the ship is demised to them.

@@ -1,0 +1,3 @@
+Variation agreements.
+
+48.—Where the amount of a weekly payment to be made by an employer to a workman under this Act, has been fixed by the Court or by agreement and such employer and workman enter into an agreement (in this Act referred to as a variation agreement) ending, diminishing or increasing the amount of such weekly payment, such agreement shall not, unless and until it is duly registered under this Act, operate to end, diminish or increase (as the case may be) the amount of such weekly payment but on being so registered such agreement shall as from the date specified in that behalf therein operate and have effect as if it were an order of the Court ending, diminishing or increasing (as the case may be) such weekly payment.

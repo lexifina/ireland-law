@@ -1,0 +1,3 @@
+Agreement by way of compromise of disputed claim.
+
+51.—Where an employer disputes his liability to make a weekly payment under this Act to a workman, such employer and workman may enter into an agreement (in this Act referred to as an agreement by way of compromise) whereby in consideration of the payment of a lump sum by such employer to such workman, the latter agrees to release the former from such liability (if any), such agreement shall not unless and until it is duly registered under this Act, operate to release such employer from such liability (if any), but on being so registered shall operate as a release from such liability (if any).
