@@ -1,0 +1,27 @@
+SCHEDULE
+
+Minimum Prices
+
+Sold in May, June or July
+
+Sold in April, August or September
+
+Sold in January, February, March, October, November or December
+
+Price per gallon (whether supplied at the registered premises of the producer, or at a collection place agreed on with the purchaser, or otherwise supplied.) .
+
+19p
+
+23p
+
+24p
+
+GIVEN under my Official Seal, this 29th day of March, 1973.
+
+MARK CLINTON,
+
+Minister for Agriculture and Fisheries
+
+EXPLANATORY NOTE
+
+This Order prescribes the minimum prices to be paid to registered producers, as from 1st April, 1973, for milk sold by them to registered producers, as from 1st April, 1973, for milk sold by them registered wholesalers and registered retailers in the Cork District.
