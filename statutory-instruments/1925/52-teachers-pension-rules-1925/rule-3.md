@@ -1,0 +1,3 @@
+Rule 3
+
+3. For the purpose of the application of the Teachers' Pension Rules, 1924, to a teacher pursuant to these Rules, the reference in Rule 3 of the said Rules of 1924 to the Ministry of Finance of Northern Ireland shall have effect as a reference to the Teachers' Pension Office and the said Ministry or that Office or the said Ministry as the case may require, and references in these Rules to the area of jurisdiction of a Government shall be construed as referring to such area as it exists at the date of the entry of the teacher into the service under the jurisdiction of the Government of Saorstát Eireann or of Northern Ireland, as the case may be.
