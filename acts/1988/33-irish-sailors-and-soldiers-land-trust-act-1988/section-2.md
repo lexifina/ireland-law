@@ -1,0 +1,3 @@
+Acceptance on behalf of Government, and disposal, of money paid by Trust.
+
+2.—The Minister for Finance may accept on behalf of the Government any money payable to the Government from the Trust pursuant to an Act of the British Parliament entitled the Irish Sailors and Soldiers Land Trust Act 1987 and any such money accepted by him shall be paid into the Exchequer and shall be disposed of for the purposes of such projects or undertakings (including the Royal National Lifeboat Institution) involving co-operation between the State and Northern Ireland or the State and Great Britain or relating to the island of Ireland as a whole as the Taoiseach may, with the consent of the Minister for Finance, determine.
