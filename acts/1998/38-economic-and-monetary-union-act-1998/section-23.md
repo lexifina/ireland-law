@@ -1,0 +1,17 @@
+Redenomination of outstanding debt into euro.
+
+23.—(1) The Minister may by order, in respect of one or more than one date and under such terms and conditions as the Minister determines, redenominate into the euro unit all or part of the outstanding debt duly issued by or on behalf of the State under the law of the State and denominated in the Irish pound unit, and the Minister may by order amend or revoke an order under this subsection but shall not revoke an order after its effective date.
+
+(2) (a) (i) The Minister may redenominate into the euro unit all or part of the outstanding debt duly issued by or on behalf of the State and denominated in any national currency unit, where the Member State in the national currency unit of which the debt is denominated has redenominated into the euro unit all or part of its general government debt denominated in its national currency unit.
+
+(ii) The terms and conditions in accordance with which the Minister may effect a redenomination under subparagraph (i) shall be those laid down in the law of the Member State under which the debt was issued.
+
+(iii) Prior notice in the Iris Oifigiúil of an intention to effect a redenomination under subparagraph (i) shall be given by the Minister at least one month in advance of such redenomination.
+
+(b) An issuer of debt other than the State may, under the terms and conditions laid down in an order under subsection (1), as if such issuer were the State, redenominate into the euro unit bonds and other forms of securitised debt negotiable in the capital markets, and money market instruments issued by them under the law of the State and denominated in any national currency unit, but only where the Member State in the national currency unit of which the debt is denominated has redenominated into the euro unit all or part of its general government debt denominated in its national currency unit.
+
+(3) (a) Where, in respect of its borrowing, a State body and all other relevant parties to a facility agreement, denominated in any national currency unit, agree to redenominate into the euro unit the currency of the agreement and agree to redenominate the amounts specified therein and to adjust them to convenient euro-denominated sums, the consent of either or both the Minister and any other Minister of the Government which, but for this subsection, would be duly required shall not be required to such adjustments or to any other consequential adjustments to the agreement concerned arising therefrom or pursuant to the introduction of the euro but only if the aggregate amount of borrowings by the State body concerned, including borrowings by way of negotiable debt instruments, does not exceed the limit (if any) on such borrowings to which a Minister of the Government has already consented.
+
+(b) Where the Minister has issued a guarantee in respect of the borrowings of a State body and the contract in respect of those borrowings is amended pursuant to paragraph (a), the consent of the Minister and of any other Minister of the Government to an equivalent change in the guarantee shall not be required but only if the aggregate amount of the borrowings of the State body concerned, including borrowings by way of negotiable debt instruments, which are already guaranteed by the Minister is not exceeded.
+
+(c) In this section “State body” means a body whose borrowing is subject to the consent of a Minister of the Government.
