@@ -1,0 +1,3 @@
+Officer or servant acting by authority of harbour master, etc.
+
+156.—Where any power or duty is conferred or imposed by this Act on the harbour master or collector of rates of a harbour, such power or duty may be executed or performed by any officer or servant of the harbour authority authorised in that behalf by the harbour master or collector of rates (as the case may be), and whenever any such power or duty is executed or performed, the harbour master, collector of rates or other officer or servant executing or performing the power or duty, may either act alone or be accompanied by such assistants as he considers proper.

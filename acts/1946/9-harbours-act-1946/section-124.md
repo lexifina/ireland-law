@@ -1,0 +1,21 @@
+Protection of lenders.
+
+124.—(1) Whenever a body of persons, who are not lawfully constituted as, but are acting as or purporting to be, a harbour authority, borrow money in purported exercise of the powers in that behalf of the harbour authority from a lender who lends the money in good faith and without notice that the body of persons are not lawfully constituted as the harbour authority, the following provisions shall have effect in favour of the lender or any person claiming through or under him as against the harbour authority:
+
+(a) the body of persons shall be deemed, for the purposes of the transaction consisting of the borrowing and lending, to have been lawfully constituted as the harbour authority, and accordingly the harbour authority shall be liable for the repayment of the money so borrowed and lent and the payment of interest thereon in accordance with the terms on which the money was so borrowed and lent to the same extent (if any) as the harbour authority would have been so liable if the body of persons had in fact been lawfully constituted as the harbour authority;
+
+(b) every mortgage or other security given by the body of persons and purporting to be given by the harbour authority to the lender for securing the repayment of the money and the payment of the interest thereon shall, in the hands of the lender or any person claiming through or under him, be valid and enforceable against the harbour authority to the same extent (if any) as it would have been so valid and enforceable if the body of persons had in fact been lawfully constituted as the harbour authority;
+
+(c) no part of the transaction consisting of the borrowing and lending shall be invalid or capable of being questioned on the ground that the body of persons was not lawfully constituted as the harbour authority.
+
+(2) Whenever a harbour authority borrow or are deemed by subsection (1) of this section to borrow money under or in purported exercise of their powers in that behalf from a lender who lends the money in good faith, the following provisions shall have effect in favour of the lender or any person claiming through or under him as against the harbour authority:
+
+(a) neither the borrowing and lending nor any mortgage or other security given or purported to be given by the harbour authority to the lender for securing the repayments of the money and the payment of the interest thereon shall be invalidated or questioned on account of any illegality or irregularity in the constitution of the harbour authority or the appointment, election or nomination of any of the members thereof;
+
+(b) the lender shall not be concerned to inquire whether the purpose for which the money is borrowed by the harbour authority is or is not a purpose for which the harbour authority are authorised by law to borrow money or whether the money does or does not exceed in amount any limit on borrowing by the harbour authority, and the lender shall not be prejudiced or affected by the fact (if it exists) that such purpose is, in whole or in part, not so authorised or that the money exceeds in amount any such limit;
+
+(c) the lender shall not be concerned to inquire whether any meeting of the harbour authority was or was not properly convened or constituted, or whether any particular notice to the members of the harbour authority was or was not duly given, or whether the proceedings at any meeting of the harbour authority were or were not legal and regular;
+
+(d) where the harbour authority could not lawfully borrow the money without the sanction or the consent of the Minister, and such sanction or consent (as the case may be) was given or purported to be given by the Minister, the lender shall not be concerned to inquire whether any statutory condition precedent to the giving of the sanction or consent was or was not duly complied with, and the lender shall not be prejudiced or affected by the fact (if it exists) that any such condition precedent was not complied with by the person (whether the Minister, the harbour authority or any other person) charged with the duty of complying therewith;
+
+(e) the lender shall not be concerned to see to the application of the money by the harbour authority or be prejudiced or affected by any misapplication of the money or any part thereof by the harbour authority or any of their officers.
