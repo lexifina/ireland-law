@@ -1,0 +1,25 @@
+Production sub-quotas for licensed premises.
+
+21.—(1) Whenever the Board on or after the appointed day makes a production order at any meeting, the Board shall at such meeting make an order (in this Part of this Act referred to as an allocation (bacon production quota) order) allotting, subject to the provisions of this section, the production quota in respect of the production period appointed by such production order amongst all licensed premises in such proportions as the Board thinks proper, and references in this Part of this Act to the production sub-quota for particular licensed premises in respect of a particular production period shall, subject to the provisions of the next following section, be construed as references to the portion of the production quota in respect of such production period allotted to such premises by an allocation (bacon production quota) order.
+
+(2) In making an allocation (bacon production quota) order, the Board shall so allot the production quota to which such order relates as to ensure that the quantity of bacon allotted thereunder to any licensed premises will not, if taken in terms of a monthly rate, be less than three hundred hundredweights per month.
+
+(3) Where the Minister has granted, on or after the appointed day, a licence in respect of any premises, he may, on any occasion, during the period of fourteen months commencing on the date of such licence, on which the Board makes an allocation (bacon production quota) order, request the Board in making such order to allot by such order to such premises in case such, premises are licensed in pursuance of sub-section (3) of section 24 of the Principal Act, a sub-quota equal to the smallest sub-quota to be allotted by such order or, in any other case, a specified proportion of the production quota in respect of the production period to which such order relates, and the Board shall comply with any such request.
+
+(4) In allotting under an allocation (bacon production quota) order a portion of the production quota in respect of a particular production period to any licensed premises, the Board shall, subject to the provisions of the two immediately preceding sub-sections, have regard to—
+
+(a) the obligations of the licensee in respect of such premises under any order made by the Minister under section 2 of the Agricultural Products (Regulation of Export) Act, 1933 (No. 26 of 1933), as amended by the Agricultural Products (Regulation of Export) (Amendment) Act, 1935 (No. 15 of 1935), and
+
+(b) in case such allocation (bacon production quota) order relates to the production quota in respect of any production period commencing on or after the appointed day, the quantity of bacon (being bacon produced on such licensed premises) consigned (other than by way of export) on sale by such licensee during the calendar year next preceding the year in which such allocation (bacon production quota) order is made, and
+
+(c) in case such allocation (bacon production quota) order relates to the production quota in respect of any production period commencing on or after the appointed day, the quantity of bacon (being bacon produced on such licensed premises) lawfully consigned by way of export on sale by such licensee to any country other than Great Britain or Northern Ireland during the calendar year next preceding the year in which such allocation (bacon production quota) order is made, and
+
+(d) the extent (if any) to or by which the quantity of bacon produced on such premises during any previous production period was less or greater than the production sub-quota for such premises in respect of such production period.
+
+(5) Whenever on or after the appointed day the Board makes an allocation (bacon production quota) order in respect of a particular production period, the following provisions shall have effect, that is to say:—
+
+(a) the Board shall make in respect of each licensed premises a certificate (in this Part of this Act referred to as a production sub-quota certificate) certifying the quantity of bacon which has been allotted to such premises by such order and the production period to which such order relates, and such certificate shall be conclusive evidence of the matters so certified;
+
+(b) the Board shall, not later than the second day of such production period, cause a copy of such certificate to be served on the licensee in respect of such premises.
+
+(6) The Board may, on the joint application of the holder of a licence in respect of particular premises and the holder of a licence in respect of other premises, transfer from such first-mentioned premises to such other premises the whole or any part of the production sub-quota for such first-mentioned premises in respect of a particular production period, and thereupon the production sub-quota for such first-mentioned premises in respect of such production period and the production sub-quota for such other premises in respect of such production period shall, for the purposes of this Part of this Act, be deemed to have been respectively decreased and increased accordingly.
