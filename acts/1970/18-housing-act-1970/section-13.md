@@ -1,0 +1,7 @@
+Amendment of section 62 of Act of 1966.
+
+13.—(1) Subsection (4) of section 62 of the Act of 1966 is hereby amended by the insertion after “sections 86, 87 and 88 of the Act of 1860” of “(subject, in the case of the said section 86, to the substitution of ‘of one month’ for ‘to be therein named, and not less than seven or more than fourteen clear days from the date of such warrant’ and the substitution of ‘eight in the morning and eight in the afternoon’ for ‘nine in the morning and four in the afternoon’)”.
+
+(2) The following subsection is hereby added to section 62 of the Act of 1966:
+
+“(7) If, in a case in which there is no tenancy in a dwelling provided by a housing authority under this Act, a person makes an entry into the dwelling, or uses it for human habitation, without the consent of the housing authority, such person shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding fifty pounds, or, at the discretion of the court, to a term of imprisonment not exceeding one month or to both such fine and imprisonment, provided that this subsection shall not apply in relation to a person who, at the time when the tenancy last created in the dwelling was terminated or otherwise ceased to exist, was ordinarily resident in the dwelling or to a person making an entry into the dwelling for the purposes of normal social relations with such persons or to a person making an entry into the dwelling (but not using it for human habitation) in the course of his ordinary business, profession, vocation or trade.”
