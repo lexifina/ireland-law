@@ -1,0 +1,5 @@
+Preparation of general lists of jurors.
+
+6.—(1) The precept to be issued by the clerk of the peace pursuant to Section 8 of the Juries (Ireland) Act, 1871, shall be issued and delivered on or before the 15th day of November in every year to the secretary of the county council, the town clerk of every county or other borough, and the clerk of every urban district council within his administrative county or county borough, and shall be in such form as shall from time to time be prescribed by the Minister for Home Affairs.
+
+(2) The general lists of jurors to be prepared and returned pursuant to the precepts aforesaid shall be in such form as shall be prescribed, and shall mark or distinguish in the prescribed manner the names of persons qualified and liable to serve as special jurors, and shall be made out for each registration unit in the administrative county or county borough, and the names in such lists shall be arranged in the like order as the names on the register of electors for that registration unit are for the time being required by law to be arranged.

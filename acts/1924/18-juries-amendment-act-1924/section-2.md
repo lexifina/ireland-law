@@ -1,0 +1,3 @@
+Avoidance of duplicate entries.
+
+2.—Where a person whose name is entered in the register of electors as a Dáil, Seanad, or Local Government elector in any registration unit is qualified and liable to serve as a juror in the administrative county or county borough in which such registration unit is situate, the entry of his said qualification and liability to serve as a juror shall be made in the register of electors for the registration unit aforesaid, notwithstanding that his qualification and liability to serve as a juror may be in respect of other lands, tenements, hereditaments, or premises than those at which his address as stated in the said register is situate.
