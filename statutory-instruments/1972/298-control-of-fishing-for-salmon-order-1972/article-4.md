@@ -1,0 +1,17 @@
+Article 4
+
+4. (a) (i) The maximum number of fishing licences for any kind of fishing engine for the taking of salmon mentioned in column (2) of the First Schedule to this Order which a board for a fishery district mentioned in column (1) of the said First Schedule opposite the mention of that kind of fishing engine may issue in any year for the district shall not exceed the number specified in column (3) of the said Schedule opposite the mention of that kind of fishing engine.
+
+(ii) A board shall not issue any fishing licence for its fishery district, except in respect of rod and line, for any kind of fishing engine for the taking of salmon which is not mentioned in column (2) of the said First Schedule opposite the mention of the board's fishery district in column (1) of the said Schedule.
+
+(b) (i) The maximum number of fishing licences for any kind of fishing engine for the taking of salmon mentioned in column (2) of the Second Schedule to this Order which the board of the fishery district mentioned in column (1) of the said Schedule opposite the mention of the said engine may issue in any year for the licensing region mentioned in column (3) of the said Schedule opposite the mention of the said engine shall not exceed the number mentioned in column (4) of the said Schedule opposite the mention of the said region.
+
+(ii) A board shall not issue for any licensing region any fishing licence, except in respect of rod and line, for any kind of fishing engine for the taking of salmon which is not mentioned in column (2) of the said Second Schedule opposite the mention of that licensing region in column (3) of that Schedule.
+
+(c) A board shall not issue a fishing licence, except in respect of rod and line, for any kind of fishing engine for the taking of salmon to a person unless the person derived a substantial part of his livelihood from fishing for salmon under and in accordance with a fishing licence for that kind of fishing engine issued by that board in the datum years.
+
+(d) A board, when issuing fishing licences, except in respect of rod and line, for any kind of fishing engine for the taking of salmon mentioned in column (2) of the First or Second Schedule to this Order opposite the mention of the board's fishery district in column (1) of the said First or Second Schedule, shall firstly give priority to persons who held licences issued by that board for that kind of fishing engine for the taking of salmon in the datum years and are ordinarily resident in the board's fishery district and shall secondly give priority to persons who held such licences in those years and are not ordinarily resident in the board's fishery district, and shall then give priority to persons who were regular members of salmon fishing crews in those years.
+
+(e) Where a person to whom a fishing licence for any kind of fishing engine for the taking of salmon would have been issued by a board in accordance with this Article dies or becomes permanently incapacitated, the board may issue such a licence to a relative or member of the household of the person ordinarily resident in the board's fishery district.
+
+(f) A person shall not hold at the same time more than one fishing licence to which this Order applies for a particular kind of fishing engine or a fishing licence to which this Order applies for a particular kind of fishing engine and a fishing licence for that kind of fishing engine for the taking of salmon in the Foyle Area (within the meaning of the Foyle Fisheries Act, 1952 (No. 5 of 1952)).
