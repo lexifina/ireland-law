@@ -1,0 +1,11 @@
+STATUTORY RULES AND ORDERS. 1928. No. 11.
+
+GENERAL CATTLE DISEASES FUND (CATTLE PLEURO-PNEUMONIA ACCOUNT) (WINDING-UP) ORDER, 1928.
+
+WHEREAS by section 10 of the Ministers and Secretaries Act, 1924 (No. 16 of 1924) it is enacted that wherever the expenses or any part of the expenses of any public service assigned by or under that Act to any Department of State were at the date of the passing of that Act payable out of any specific departmental or other public funds other than the Central Fund or moneys provided by the Oireachtas, or any specific departmental or other public funds other than as aforesaid were at the date of the passing of that Act applicable to or towards the discharge of the expenses or any part of the expenses of any such public service it shall be lawful for the Executive Council by order to provide for the winding-up and the payment into or disposal for the benefit of the Exchequer, in such manner as the Minister for Finance may appoint, of the whole or any part of the specific departmental or other public funds out of which such expenses or any part thereof had theretofore been payable or which had theretofore been applicable in or towards the discharge of such expenses or any part thereof as aforesaid, and to declare that such expenses shall thereafter be paid out of moneys provided by the Oireachtas:
+
+AND WHEREAS the Cattle Pleuro-pneumonia Account of the General Cattle Diseases Fund was constituted by section 73 of the Diseases of Animals Act, 1894, and was at the date of the commencement of the said Ministers and Secretaries Act, 1924 , applicable by virtue of the said section 73 to the discharge of the expenses of the public services concerned in the execution of certain sections of the said Diseases of Animals Act, 1894:
+
+AND WHEREAS it is expedient that provision should be made for the winding-up of the said Cattle Pleuro-pneumonia Account as from the 31st day of March, 1928, and for the disposal of the balance standing to the credit thereof on that date:
+
+NOW, THE EXECUTIVE COUNCIL of Saorstát Eireann in exercise of the powers conferred on them by the said section 10 of the Ministers and Secretaries Act, 1924 (No. 16 of 1924) and of every and any other power them in this behalf enabling, do hereby order as follows:—
