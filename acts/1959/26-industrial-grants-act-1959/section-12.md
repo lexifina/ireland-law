@@ -1,0 +1,3 @@
+Continuance of pending legal proceedings.
+
+12.—In every action, suit or proceedings arising out of the exercise or performance by the Authority of their duties, powers and functions under the Act of 1956 which is pending on the commencement day in any court or tribunal and to which the Authority is a party, the Board shall on the commencement day become and be a party in the place of the Authority and such proceedings shall be continued between the Board and the other parties thereto accordingly and no such proceedings shall, abate or be discontinued or prejudicially affected by reason of the repeal of the Act of 1956.
