@@ -1,0 +1,15 @@
+Issue of debt shares by societies.
+
+5.—(1) When the Department has issued under this Act to the Company a certificate of liability in respect of a society, it shall be lawful for such society to issue and such society if and when so required by the Company shall issue to the supplier of milk on account of whose milk supply such certificate of liability was issued shares (in this section referred to as debt shares) of the nominal value of one pound each in such society the number of such shares to be so issued to any such supplier being calculated at the rate of three or such greater number as the Company shall require of such shares for every cow then owned by such supplier as certified by the Department.
+
+(2) Debt shares issued by a society in pursuance of this section shall be available to the Company as a security for the recovery from such society of the principal sum and interest (in this sub-section collectively referred to as the debt) mentioned in the certificate of liability in consequence of which such debt shares were issued and for that purpose the following provisions shall have effect, that is to say:—
+
+(a) such society shall be deemed to have charged the capital of such debt shares with repayment in the manner provided by this Act of the debt;
+
+(b) such society shall, so long as any part of the debt remains unpaid, either by deduction per gallon on the price of milk purchased by it from the holder of such debt shares or in such other way as it may decide call up in each year so much of the capital at the time uncalled of such debt shares as may be required to provide for the payment to the Company of the amount of the instalment and interest of the debt falling due in that year;
+
+(c) all moneys so called up shall be paid into a separate account in the joint names of the Company and such society, and shall be applied for the purpose only of paying to the Company the instalment of the debt and interest as and when the same shall be payable under this Act;
+
+(d) such society shall not, until the debt has been paid in full, make any call upon the capital of the said debt shares other than the calls hereinbefore required to be made nor apply any part of any sum received on foot of any such last-mentioned call otherwise than towards the reduction of the debt;
+
+(e) on the happening of any of the events on which the unpaid balance of the principal of the debt becomes immediately payable, such society shall, if so required by the Company, forthwith call up the remainder of the capital at that time uncalled on the said debt shares, or so much thereof as shall be required (in addition to any other moneys of such society available for the purpose and any sum then standing to the credit of the said separate account in the said joint names) to repay to the Company the total amount then outstanding on foot of the debt and shall pay the moneys received on foot of such calls into the said separate account to be applied for the sole purpose of paying to the Company the sum then due on foot of the debt.
