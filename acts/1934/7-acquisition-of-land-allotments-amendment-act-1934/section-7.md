@@ -1,0 +1,11 @@
+Grants for free provision of seeds, manures, potato spraying materials and implements.
+
+7.—(1) The Minister for Agriculture with the sanction of the Minister for Finance may, as and when he shall think proper, make out of moneys provided by the Oireachtas a grant of such amount as he shall think proper—
+
+(a) to any local authority, for the purpose of enabling such local authority to supply, free of cost, to unemployed persons to whom lettings of allotments have been made by such authority under the Principal Act as amended by this Act seeds, manures and potato spraying materials for use in such allotments, and to provide agricultural implements for use by such unemployed persons free of cost for the cultivation of such allotments, and
+
+(b) to any association of persons to whom a letting of allotments has been made by a local authority under paragraph (c) of sub-section (1) of section 13 of the Principal Act, for the purpose of enabling such association to supply, free of cost, to unemployed persons to or for whom any of such allotments have been let or made available by such association seeds, manures and potato spraying materials for use in such allotments and to provide agricultural implements for use by such unemployed persons free of cost for the cultivation of such allotments, and
+
+(c) to any corporate body or unincorporated association approved of by the Minister for Agriculture which provides, otherwise than under the Principal Act, allotments for unemployed persons, for the purpose of enabling such body or association to supply, free of cost, to such unemployed persons seeds, manures and potato spraying materials for use in such allotments and to provide agricultural implements for use by such unemployed persons free of cost for the cultivation of such allotments.
+
+(2) The Minister for Agriculture may by order make regulations for giving effect to this section and, in particular, for ensuring that grants made under this section will be applied by the grantees thereof for the purposes for which such grants were made and that seeds, manures and potato spraying materials supplied and agricultural implements provided under this section are of suitable quality.
