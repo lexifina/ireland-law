@@ -1,0 +1,7 @@
+S.I. No. 159 of 1965.
+
+WHEAT ORDER, 1965.
+
+ARRANGEMENT OF ARTICLES.
+
+Article
