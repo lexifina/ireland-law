@@ -1,0 +1,3 @@
+Failure of county council to make adequate rate.
+
+4.—If, in the opinion of the Minister for Local Government and Public Health a county council has failed to make adequate provision by means of the poor rate for defraying the expenses to be incurred by them in the local financial year ending on the 31st day of March, 1926, such county council shall, if the said Minister so directs, apply any portion of the supplementary grant that becomes payable to such county council in the financial year beginning on the 1st day of April, 1925, for the purpose of defraying current expenses or in such other manner as the said Minister shall think advisable and in such case the provisions of section 3 of this Act shall not apply.
