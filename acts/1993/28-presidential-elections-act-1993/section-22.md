@@ -1,0 +1,5 @@
+Attendance of persons nominated to be candidates at the ruling on nominations.
+
+22.—(1) A person purported to be nominated as a candidate at an election shall attend, either in person or by an authorised representative, during the whole of the ruling on nominations and shall furnish (either personally or by the authorised representative of the person) all such information as shall be within the person's knowledge and shall be reasonably required to be furnished by the presidential returning officer or the judicial assessor for the purpose of the performance of their duties under this Act.
+
+(2) Where a person purported to be nominated as aforesaid fails to attend, in person or by an authorised representative, at the ruling on nominations as required by this section or fails or refuses to furnish to the presidential returning officer or the judicial assessor information required under this section to be furnished by the person, the presidential returning officer may rule the nomination of the person to be a candidate at the election concerned to be invalid.

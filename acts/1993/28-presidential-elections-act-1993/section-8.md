@@ -1,0 +1,3 @@
+Alteration of polling day consequent on dissolution of Dáil.
+
+8.—Subject to section 6, where a dissolution of the Dáil takes place after the making by the Minister of a presidential election order (in this section referred to as the “original order”) and before the polling day appointed by such order, the Minister, if he so thinks fit, may by order amend the original order by substituting the day which is the polling day at the general election consequent on such dissolution of the Dáil for the day named in the original order as the polling day at the presidential election and, in relation to the said presidential election, references in this Act to the polling day shall be construed accordingly.

@@ -1,0 +1,5 @@
+First count.
+
+49.—(1) After the ballot papers have been mixed in accordance with section 114 of the Act of 1992 (as applied by section 47) the local returning officer shall, rejecting any that are invalid, arrange them in parcels according to the first preferences recorded for each candidate.
+
+(2) The local returning officer shall then count the ballot papers in each parcel and credit each candidate with a number of votes equal to the number of valid ballot papers on which a first preference has been recorded for such candidate and shall ascertain the total number of valid ballot papers for the constituency concerned and shall forthwith notify the presidential returning officer, in such manner as the latter may direct, of the number of votes credited to each candidate and the number of valid ballot papers and a reference in this Part to a ballot paper or a paper of a candidate is a reference to a ballot paper in respect of which a candidate has been credited with a vote under this section or section 51.
