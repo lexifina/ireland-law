@@ -1,0 +1,5 @@
+Investment of surplus sums in the Fund.
+
+14.—(1) Notwithstanding any other provision of the Acts, all sums standing to the credit of the Fund and not required to meet current expenditure shall be paid over to the Minister for Finance and retained by him until they are so required, and while such moneys are retained by the Minister for Finance, they shall be invested by him on behalf of the Fund, in accordance with regulations made by him, in any securities in which trustees are for the time being by law empowered to invest trust funds or in any of the stocks, funds and securities which are for the time being authorised by law as investments for Post Office Savings Bank funds.
+
+(2) Every regulation under this section shall be laid before each House of the Oireachtas as soon as may be after it is made, and if either such House, within the next twenty-one days on which it sits after the regulation is laid before it, passes a resolution annulling the regulation, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
