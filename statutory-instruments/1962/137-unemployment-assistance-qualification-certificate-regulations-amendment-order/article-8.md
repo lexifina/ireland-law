@@ -1,0 +1,3 @@
+Article 8
+
+8. The Second Schedule to the Principal Order, as amended by the Unemployment Assistance (Qualification Certificate Regulations) (Amendment) Order, 1938 (S.R. & O., No. 194 of 1938), the Unemployment Assistance (Qualification Certificate Regulations) (Amendment) Order, 1952 ( S.I. No. 167 of 1952 ), the Unemployment Assistance (Qualification Certificate Regulations) (Amendment) Order, 1953 ( S.I. No. 3 of 1953 ), and the Unemployment Assistance (Qualification Certificate Regulations) (Amendment) Order, 1961 ( S.I. No. 161 of 1961 ), is hereby further amended by the substitution therein for the form of a qualification certificate of the form set out in the Second Schedule to this Order.

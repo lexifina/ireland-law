@@ -1,0 +1,3 @@
+Article 7
+
+7. The First Schedule to the Principal Order, as amended by the Unemployment Assistance (Qualification Certificate Regulations) (Amendment) Order, 1935 (S.R. & O., No. 574 of 1935), the Unemployment Assistance (Qualification Certificate Regulations) (Amendment) (No. 2) Order, 1938 (S.R. & O., No. 229 of 1938), and the UnemploymentAssistance (Qualification Certificate Regulations) (Amendment) Order, 1953 ( S.I. No. 3 of 1953 ), is hereby further amended by the substitution therein for the form of an application for a qualification certificate of the form set out in the First Schedule to this Order.
