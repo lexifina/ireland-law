@@ -1,0 +1,13 @@
+Regulation 2
+
+2. During the period beginning on the making of these Regulations and ending on the 30th day of April, 1960, nothing in Articles 3 to 6 of the Pasteurising (Separated Milk) Regulations ( S.I. No. 196 of 1957 ) shall apply in relation to premises which are registered in the register of cream separating stations and which are situate on an island off the coast.
+
+GIVEN under my Official Seal, this 30th day of June, 1959.
+
+PATRICK SMITH,
+
+Minister for Agriculture.
+
+EXPLANATORY NOTE.
+
+These Regulations exempt, until 30th April, 1960, any registered cream separating station on an island off the coast from the requirements regarding the provision of suitable pasteurising plant and the pasteurisation of separated milk returned to milk suppliers or disposed of for animal feeding.
