@@ -1,0 +1,3 @@
+Amendment of section 2 of Broadcasting Authority (Amendment) Act, 1966.
+
+1.—Section 2 of the Broadcasting Authority (Amendment) Act, 1966 (as amended by the Broadcasting Authority (Amendment) Act, 1971, and the Broadcasting Authority (Amendment) Act, 1973), shall have effect in relation to the financial period ending on the 31st day of December, 1974, and the financial year ending on the 31st day of December, 1975, respectively, and accordingly the reference in that section (as so amended) to nine consecutive financial years shall be construed as a reference to eleven consecutive financial years.
