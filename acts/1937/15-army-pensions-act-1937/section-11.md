@@ -1,0 +1,5 @@
+Amendment of section 26 of the Act of 1932.
+
+11.—(1) Paragraph (a) of section 26 (which amends section 18 of the Act of 1927) of the Act of 1932 is hereby repealed and in lieu thereof it is hereby enacted that every application by a person discharged from the forces (whether before or after the passing of this Act) for the grant of a wound pension or gratuity under the Acts of 1923 and 1927, on account of a wound attributable to service shall be made within twelve months after his discharge from the forces or twelve months after the date of the passing of this Act, whichever is the later.
+
+(2) Where an application was made (whether before or after the passing of this Act) by any person for the grant of a pension or gratuity under the Acts of 1923 and 1927 on account of a wound received by him and attributable to service, and such application was (whether before or after the passing of this Act) refused, such person shall not be entitled, by virtue of sub-section (1) of this section, to make a further application for such pension or gratuity.

@@ -1,0 +1,5 @@
+Amendment of section 9 of the Act of 1927.
+
+6.—(1) Sub-section (1) of section 9 of the Act of 1927 is hereby amended by the substitution of the words and figures “or becomes, by reason of matters definitely attributable to such service, after such date but before the 1st day of July, 1938” for the words “or becomes after such date but within four years after his discharge” now contained therein, and the Act of 1927 shall be construed and have effect accordingly.
+
+(2) Where, by virtue of the amendment of sub-section (1) of section 9 of the Act of 1927 effected by this section, a disability pension is after the date of the passing of this Act granted under the said sub-section (1) to any person, such pension shall, notwithstanding anything contained in sub-section (3) of the said section 9, commence as on and from such date as the Minister may, having regard to all the circumstances of the case, determine, but such date shall not be earlier than the date of his examination by the Army Pensions Board at which his disablement was assessed at a degree not less than the minimum degree of disablement.
