@@ -1,0 +1,17 @@
+Penalties.
+
+15.—(1) A person guilty of an offence under section 3 of this Act shall be liable, on conviction on indictment, to a fine not exceeding £5,000 together with, in the case of a continuing offence, a fine not exceeding £250 for each day or part of a day on which the offence is continued after the first such day or, at the discretion of the court, to imprisonment for a term not exceeding 6 months or to both the fine or fines and the imprisonment.
+
+(2) A Justice of the District Court shall have jurisdiction to try summarily an offence under section 3 of this Act if—
+
+(a) the Justice is of opinion that the facts proved or alleged against a defendant charged with such an offence constitute a minor offence fit to be tried summarily,
+
+(b) the Director of Public Prosecutions consents, and
+
+(c) the defendant (on being informed by the Justice of his right to be tried by a jury) does not object to being tried summarily, and, upon conviction under this subsection, the said defendant shall be liable to a fine not exceeding £500.
+
+(3) Section 13 of the Criminal Procedure Act, 1967, shall apply in relation to an offence under section 3 of this Act as if, in lieu of the penalties specified in subsection (3) of the said section 13, there were specified therein the penalty provided for by subsection (2) of this section, and the reference in subsection (2) (a) of the said section 13 to the penalties provided for in the said subsection (3) shall be construed and have effect accordingly.
+
+(4) A person guilty of an offence under this Act (other than section 3) shall be liable, on summary conviction, to a fine not exceeding £500.
+
+(5) A summary offence under this Act may be prosecuted by the Minister or by the local authority in whose functional area the offence is alleged to have been committed or by another local authority with whom an agreement exists for the exercise by the latter authority of the powers and functions under this section of the former authority.
