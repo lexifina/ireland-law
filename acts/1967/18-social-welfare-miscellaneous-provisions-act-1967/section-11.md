@@ -1,0 +1,3 @@
+Amendment of Fourth Schedule to Act of 1952.
+
+11.—Where a person becomes an employed contributor by virtue of section 36 (1) of the Social Welfare (Occupational Injuries) Act, 1966, and would not, apart from that section, be an employed contributor, his entry into insurance by virtue of that section shall be deemed not to be an entry into insurance for the purposes of paragraphs 4 and 6 (inserted by the Act of 1960) of the Fourth Schedule to the Act of 1952 and for those purposes his entry into insurance shall be deemed to occur when he first becomes an employed contributor by virtue of section 4 of the Act of 1952.
