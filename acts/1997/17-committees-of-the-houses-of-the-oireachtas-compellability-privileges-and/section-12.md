@@ -1,0 +1,3 @@
+Non-admissibility in criminal proceedings of evidence given to committees.
+
+12.—A statement or admission made by a person before a committee, or a document given or sent by a person to a committee pursuant to a direction of the committee to the person or specified in an affidavit of documents made by a person and given to a committee by the person pursuant to a direction of the committee to the person, shall not be admissible as evidence against the person in any criminal proceedings (other than proceedings in relation to an offence under section 3 (8) or the offence of perjury) and section 11 shall be construed and have effect accordingly.
