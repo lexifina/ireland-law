@@ -1,0 +1,5 @@
+Penalty for making false charge of personation.
+
+26.—(1) Whenever any person is arrested under this Act in consequence of a charge made by a personation agent that such person had committed the offence of personation, and either such personation agent fails to appear before the District Justice and support such charge, or the District Justice acquits such person of having committed the offence and finds that the charge was made by the personation agent without reasonable or sufficient cause, the District Justice may, at the request of the person so charged but not otherwise, order the personation agent to pay to such person such sum not exceeding £20 as the District Justice shall think proper by way of damages, and such sum when duly paid shall be accepted by the person so charged in full satisfaction of all claims by him in respect of the said charge and his arrest and detention thereon.
+
+(2) No action or other proceeding, civil or criminal, shall lie against any returning officer or presiding officer in respect of the arrest by his direction without malice of any person on a charge of having committed the offence of personation.

@@ -1,0 +1,3 @@
+Definition of personation.
+
+3.—Every person who at an election applies for a ballot paper in the name of some other person, whether that name be the name of a living person or of a dead person or of a fictitious person, or who having voted once at an election applies at the same election for a ballot paper in his own name, shall be guilty of the offence of personation.

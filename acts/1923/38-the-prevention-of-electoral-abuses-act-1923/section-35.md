@@ -1,0 +1,3 @@
+Reference to taxation of claim against candidates.
+
+35.—If any action is brought in any competent court to recover a disputed claim against a candidate at a Dáil election, or his election agent, in respect of any expenses incurred on account or in respect of the conduct or management of such election, and the defendant admits his liability, but disputes the amount of the claim, the said amount shall, unless the court, on the application of the plaintiff in the action, otherwise directs, be forthwith referred for taxation to the master, official referee, registrar, or other proper officer of the court, and the amount found due on such taxation shall be the amount to be recovered in such action in respect of such claim.

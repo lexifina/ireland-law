@@ -1,0 +1,5 @@
+Disqualification of candidate guilty of corrupt practices.
+
+7.—(1) Whenever an election court reports that any corrupt practice has been proved to have been committed in reference to any election to either House of the Oireachtas by or with the knowledge and consent of any candidate at such election, such candidate shall for ever be incapable of being elected to or being a member of the Oireachtas, and if he has been elected to either House of the Oireachtas, his election shall be void, and he shall also be subject to the same incapacities as if at the date of the report he had been convicted of a corrupt practice.
+
+(2) Whenever an election court reports that any corrupt practice has been proved to have been committed in reference to an election to either House of the Oireachtas by any agent of a candidate at such election, such candidate shall, during a period of seven years from the date of the report, be incapable of being elected to or being a member of the Oireachtas and, if he has been elected to either House of the Oireachtas, his election shall be void.

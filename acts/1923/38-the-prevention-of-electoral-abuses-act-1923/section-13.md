@@ -1,0 +1,3 @@
+Name and address of printer to be on all placards, etc.
+
+13.—Every bill, placard, or poster having reference to an election shall bear upon the face thereof the name and address of the printer and publisher thereof; and any person printing, publishing, or posting, or causing to be printed, published, or posted, any such bill, placard, or poster as aforesaid, which fails to bear upon the face thereof the name and address of the printer and publisher, shall, if he is a candidate, or the election agent of a candidate, be guilty of an illegal practice, and shall, if he is not a candidate, or the election agent of a candidate, be liable on summary conviction to a fine not exceeding one hundred pounds.

@@ -1,0 +1,3 @@
+Removal of incapacity on proof that it was procured by perjury.
+
+45.—Where a person has become subject to any incapacity by reason of a conviction or of a report of an election court, and any witness who gave evidence against such incapacitated person upon the proceeding for such conviction or report is convicted of perjury in respect of that evidence, the incapacitated person may apply to the High Court, and that court if satisfied that the conviction or report so far as respects such person was based upon perjury, may order that such incapacity shall thenceforth cease, and the same shall cease accordingly.

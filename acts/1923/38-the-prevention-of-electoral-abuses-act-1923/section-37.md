@@ -1,0 +1,3 @@
+Remuneration of election agent.
+
+37.—So far as circumstances admit, this Act shall apply to a claim for his remuneration by an election agent and to the payment thereof in like manner as if he were any other creditor, and if any difference arises respecting the amount of such claim, the claim shall be a disputed claim within the meaning of this Act, and be dealt with accordingly.

@@ -1,0 +1,3 @@
+Persons charged with corrupt practice may be found guilty of illegal practice.
+
+53.—Any person charged with a corrupt practice may, if the circumstances warrant such finding, be found guilty of an illegal practice (which offence shall for that purpose be an indictable offence) and any person charged with an illegal practice may be found guilty of that offence, notwithstanding that the act constituting the offence amounted to a corrupt practice, and a person charged with illegal payment, employment, or hiring, may be found guilty of that offence, notwithstanding that the act constituting the offence amounted to a corrupt or illegal practice.

@@ -1,0 +1,5 @@
+Office of election agent and sub-agent.
+
+31.—(1) An election agent at a Dáil election shall have within the constituency, or within any county of a city or town adjoining thereto, or, in the case of a university constituency, in the city in which the university is situate, and a sub-agent shall have within his district, or within any county of a city or town adjoining thereto, an office or place to which all claims, notices, writs, summons, and documents may be sent, and the address of such office or place shall be declared at the same time as the appointment of the said agent to the returning officer, and shall be stated in the public notice of the name of the agent.
+
+(2) Any claim, notice, writ, summons, or document delivered at such office or place and addressed to the election agent or sub-agent, as the case may be, shall be deemed to have been served on him, and every such agent may in respect of any matter connected with the election in which he is acting be sued in any court having jurisdiction in the city, town or county in which the said office or place is situate.

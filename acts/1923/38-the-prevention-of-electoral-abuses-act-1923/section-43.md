@@ -1,0 +1,11 @@
+List in register of electors of persons incapacitated for voting by corrupt or illegal practices.
+
+43.—(1) The registration officer in every registration area shall annually make out a list containing the names and descriptions of all persons who, though entitled to be registered as Dáil or Seanad or Local Government electors in that registration area, are not capable of voting at an election by reason of having been found guilty of a corrupt or illegal practice on conviction or by the report of an election court, and the registration officer shall state in such list (in this Act referred to as “The Corrupt and Illegal Practices List”) the offence of which each such person has been found guilty.
+
+(2) For the purpose of making out such list the registration officer shall examine the report of any election court which has inquired into an election held in any constituency in Saorstát Eireann.
+
+(3) The registration officer shall publish the corrupt and illegal practices list in the manner directed by the Electoral Act, 1923 (No. 12 of 1923), and shall send a copy of such list to every other registration officer in Saorstát Eireann.
+
+(4) Any person whose name is entered in the corrupt and illegal practices list may claim to have his name omitted therefrom, and any person entitled to object to any name appearing on the electors' lists as appearing to be entitled to be registered in that registration area may object to the omission of the name of any person from such list, and all such claims and objections shall be sent in, served and dealt with within the like time and in the like manner in all respects as claims and objections to the electors lists in that registration area are to be sent in, served and dealt with under the Electoral Act, 1923 (No. 12 of 1923), and any decision on a claim or objection made under this sub-section shall be subject to the like appeal as a similar decision on a claim or objection to the electors list aforesaid would be subject to under the Act aforesaid.
+
+(5) The entry on the electors lists of the name of a person who by reason of his having been found guilty of a corrupt or illegal practice is not entitled to be registered or vote at an election shall not entitle such person to object to the registration of any other person.
