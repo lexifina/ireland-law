@@ -1,0 +1,3 @@
+Consultants and advisers.
+
+4.—The Commission may from time to time engage such consultants or advisers as it may consider necessary or expedient for the performance of its functions, and any remuneration due to a consultant or adviser engaged under this section shall be paid by the Commission out of moneys at its disposal having regard to guidelines issued from time to time by the Minister for Finance and, in addition to the foregoing, the Commission shall comply with any directions (which the Minister for Finance is hereby empowered to give) given by the Minister for Finance to the Commission with regard to such consultants and advisers.
