@@ -1,0 +1,5 @@
+Driving of motor cars by unlicensed persons.
+
+6.—(1) The Minister may by order authorise, subject to such conditions (if any) as the Minister may specify in such order, the driving by any person or any person belonging to a specified class of any motor car or any motor car of a specified class notwithstanding that such person is not the holder of a driving licence.
+
+(2) Where an order is made under this section it shall be lawful for any person (other than a person who was the holder of a driving licence and whose licence is for the time being suspended under section 4 of the Motor Car Act, 1903, or a person who is for the time being disqualified under the said section 4 for obtaining a driving licence) to whom such order relates, subject to compliance with the conditions (if any) specified in such order, to drive during the Congress period, in case such order relates to any motor car, any motor car, or in case such order relates to a motor car of a specified class, any motor car of that class notwithstanding that such person is not the holder of a driving licence.

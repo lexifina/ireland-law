@@ -1,0 +1,5 @@
+Prohibition of sale of intoxicating liquor during certain hours on the 26th June, 1932.
+
+11.—(1) Notwithstanding anything contained in the Act of 1927, or in any occasional licence, or in any order made under this Act, it shall not be lawful for any person in the Dublin Metropolitan Area or in any part of the County Borough of Dublin which is outside the Dublin Metropolitan Area to sell or expose for sale any intoxicating liquor or to open or keep open any premises for the sale of intoxicating liquor or to permit any intoxicating liquor to be consumed on licensed premises on the 26th day of June, 1932, between the hours of two o'clock and six o'clock in the afternoon.
+
+(2) Every person who shall sell or expose for sale any intoxicating liquor or open or keep open any premises for the sale of intoxicating liquor or permit any intoxicating liquor to be consumed on licensed premises in contravention of this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty pounds.

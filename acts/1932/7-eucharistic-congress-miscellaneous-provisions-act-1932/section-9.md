@@ -1,0 +1,9 @@
+Special exemptions for hotels or restaurants in the neighbourhood of Dublin.
+
+9.—(1) The Judge may, if he so thinks fit, on the application of any person who is the holder of an on-licence for premises which are an hotel or a restaurant and are situate within a radius of twenty miles from the General Post Office, Dublin, and after hearing the officer in charge of the Gárda Síochána for the licensing area in which such premises are situate, grant to such person, an order exempting, subject to compliance with such conditions as the Judge may think proper, such person during any specified hours on any specified day or days in the Congress period from the provisions of the Act of 1927 relating to prohibited hours in respect of such premises, and, where any such order relates to several such days, different hours may be specified in respect of different days.
+
+(2) Any person to whom an order under this section has been granted shall, if and so long as he complies with the conditions (if any) attached to such order, be exempt during the hours specified in such order from any penalty for contravention of the provisions of the Act of 1927, relating to prohibited hours in respect of the premises to which the order relates but not from any other penalty under the said Act or any other Act.
+
+(3) An order shall not be granted under this section unless the applicant therefor has, not less than forty-eight hours before making the application served upon the officer in charge of the Gárda Síochána for the licensing area in which the premises are situate a notice of his intention to apply for the order setting out his name and address and the premises and the times for which the order is sought.
+
+(4) No special exemption order under section 5 of the Act of 1927, shall be made in relation to any premises which are an hotel or a restaurant and are situate in the Dublin Metropolitan Area in respect of the Congress period or any part thereof.

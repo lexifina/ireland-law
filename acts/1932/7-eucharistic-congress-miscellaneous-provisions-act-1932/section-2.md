@@ -1,0 +1,7 @@
+Exemption from motor car duty of omnibus imported for use during the Congress period.
+
+2.—(1) Notwithstanding anything contained in section 56 of the Customs Consolidation Act, 1876, and in section 11 of the Finance Act, 1928 (No. 11 of 1928), the Revenue Commissioners may admit without payment of the duty imposed by section 11 of the Finance Act, 1928, as amended by or under any subsequent enactment any motor omnibus imported by a person resident in Saorstát Eireann during the Congress period which is intended to be exported after the expiration of the said period.
+
+(2) The Revenue Commissioners may for the purposes of this section prescribe the conditions as to security, due exportation and otherwise to be observed by the importer, and if such importer fails to comply with those conditions he shall be guilty of an offence under the Customs Acts and shall be liable on summary conviction thereof to a fine equal to treble the value of the motor omnibus including the motor car duty imposed thereon by section 11 of the Finance Act, 1928, as amended by or under any subsequent enactment, or at the election of the Revenue Commissioners to a fine of one hundred pounds and in any case the motor omnibus in respect of which the offence is committed shall be forfeited to the State.
+
+(3) In this section the expression “motor omnibus” means a mechanically propelled vehicle which has seating accommodation for more than six persons exclusive of the driver.
