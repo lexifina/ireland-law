@@ -1,0 +1,7 @@
+Rules of construction relating to the commencement of Acts.
+
+11.—(1) In this Act, and in every Act passed after the commencement of this Act, the word “commencement,” when used with reference to an Act, shall mean the time at which the Act comes into operation.
+
+(2) Where an Act passed after the commencement of this Act, or any order, warrant, scheme, letters patent, rules, regulations, or byelaws made, granted, or issued under a power conferred by any such Act, is expressed to come into operation on a particular day, the same shall be construed as coming into operation immediately on the expiration of the previous day.
+
+(3) Where an Act passed after the commencement of this Act is not to come into operation immediately on the passing thereof, and confers power to make any appointment, to make, grant, or issue any instrument, that is to say, any order, warrant, scheme, letters patent, rules, regulations, or byelaws, to give notices, to prescribe forms, or to do any other thing for the purposes of the Act, that power may, unless the contrary intention appears, be exercised at any time after the passing of the Act, so far as may be necessary or expedient for the purpose of bringing the Act into operation at the date of the commencement thereof, subject to this restriction, that any instrument made under the power shall not, unless the contrary intention appears in the Act, or the contrary is necessary for bringing the Act into operation, come into operation until the Act comes into operation.

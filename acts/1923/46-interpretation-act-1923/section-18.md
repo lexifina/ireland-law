@@ -1,0 +1,5 @@
+Application of the Interpretation Act 1889.
+
+18.—(1) The Interpretation Act, 1889, as modified and adapted by or under the Adaptation of Enactments Act, 1922 (No. 2 of 1922) shall apply and be deemed always to have applied to every Act of the Oireachtas passed before the commencement of this Act (except this Act), and to every order, rule, regulation, or other instrument made, whether before or after the commencement of this Act, under the authority of an Act of the Oireachtas passed before the commencement of this Act or partly under the authority of such Act and partly under the authority of an Act of the United Kingdom Parliament.
+
+(2) The Interpretation Act, 1889, shall not apply to this Act or to any Act passed after the commencement of this Act or to any order, rule, regulation, or other instrument made under the authority of any such Act or partly under the authority of any such Act and partly under the authority of an Act passed by the Oireachtas before the commencement of this Act or of an Act of the United Kingdom Parliament.
