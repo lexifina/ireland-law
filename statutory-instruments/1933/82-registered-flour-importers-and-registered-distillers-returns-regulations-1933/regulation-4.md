@@ -1,0 +1,3 @@
+Regulation 4
+
+4. Every person who is a registered flour importer shall, within seven days next following the 30th June, 1933, make a return to the Minister in respect of the month of June, 1933, in the Form No. 1 set out in the Schedule to these regulations and containing the particulars specified in such form and shall, within seven days next following the last day of each month subsequent to the month of June, 1933, make a return to the Minister in respect of each such subsequent month in the Form No. 1 set out in the Schedule to these regulations and containing the particulars specified in such form.
