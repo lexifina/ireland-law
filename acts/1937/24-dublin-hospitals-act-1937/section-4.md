@@ -1,0 +1,7 @@
+Transfer of property of the Board.
+
+4.—(1) All property, whether real or personal (including choses-in-action), which immediately before the appointed day is vested in or belongs to or is held in trust for the Board and all rights, powers and privileges relating to or connected with any such property shall, on the appointed day and without any conveyance or assignment but subject, where necessary, to transfer in the books of any bank, corporation or company, become and be vested in or the property of or held in trust for (as the case may require) the Hospitals Commission for all the estate, term, or interest for which the same immediately before the appointed day was vested in or belonged to or was held in trust for the Board.
+
+(2) All property transferred by this section which, immediately before the appointed day, is standing in the books of any bank or is registered in the books of any bank, corporation or company in the name of the Board shall, upon the request of the Hospitals Commission made on or at any time after the appointed day, be transferred in such books by such bank, corporation, or company into the name of the Hospitals Commission.
+
+(3) On and after the appointed day, every chose-in-action transferred by this section from the Board to the Hospitals Commission may be sued upon, recovered, or enforced by the Hospitals Commission in their own name and it shall not be necessary for the Hospitals Commission to give notice to the person bound by such chose-in-action of the transfer effected by this section.

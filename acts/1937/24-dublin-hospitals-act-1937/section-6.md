@@ -1,0 +1,3 @@
+Application for compensation by Secretary of the Board.
+
+6.—In the event of an application being made after the appointed day to the Minister by the person who, immediately before the appointed day is the holder of the office, created by section 14 of the Principal Act, of secretary to the Board for compensation in respect of the abolition by virtue of this Act of his said office, the Minister may direct the Hospitals Commission to pay to such person person such sum (not exceeding one hundred and fifty pounds) as the Minister in his absolute discretion shall think proper and thereupon such sum shall be paid by the Hospitals Commission to such person and, in default of payment, may be recovered as a simple contract debt in any Court of competent jurisdiction.
