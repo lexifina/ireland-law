@@ -1,0 +1,3 @@
+Regulation 6
+
+6. Protection of Crew, Access to Machinery Space, etc.—Safe and satisfactory access to the quarters of the crew, to the machinery space and to all other parts used in the necessary work of the ship shall be available at all times. Deck cargo in way of openings which give access to such parts shall be so stowed that the openings can be properly closed and secured against the admission of water. Efficient protection for the crew in the form of guard rails or life lines, spaced not more than 12 inches apart vertically, shall be provided on each side of the timber deck cargo to a height of at least 4 feet above the cargo. The cargo shall be made sufficiently level for gangway purposes.

@@ -1,0 +1,5 @@
+Regulation 9
+
+9. Lashings.—A complete system of overall lashings of ample strength and in good condition, fitted with releasing arrangements, shall be provided so as to give effective security throughout the length of the timber deck cargo. The releasing arrangements shall be accessible at all times. All fittings required for securing lashings shall be of strength corresponding to the strength of the lashings.
+
+PART 3.—ADDITIONAL REQUIREMENTS.
