@@ -1,0 +1,7 @@
+Grant to the National University of Ireland for purchase of premises.
+
+15.—(1) Within three years after the appointed day there shall be paid to the National University of Ireland out of moneys to be provided by the Oireachtas such sum not exceeding £4,000 (four thousand pounds) as the Minister for Finance shall sanction for the acquisition by the said University for its general purposes of premises in or near the City of Dublin, and all moneys paid to the said University under this section shall be applied by the said University in the acquisition of such premises accordingly.
+
+(2) Within three years after the appointed day there shall be paid to the National University of Ireland in repayment of moneys expended by that University in respect of the premises now held by it in Merrion Square, Dublin the sum of £900 (nine hundred pounds) which shall be expended by the said University in the making of permanent improvements approved of by the Minister for Finance in the premises acquired by the said University with moneys paid to it under the foregoing subsection of this section.
+
+(3) The rent (if any), rates, taxes, repairs, and other expenses of the maintenance of the premises acquired by the National University of Ireland with the moneys paid to it under this section shall to an amount not exceeding two hundred pounds in any one year be repaid to the said University on demand by University College, Dublin, and University College, Cork, in equal shares.

@@ -1,0 +1,5 @@
+Increase of annual grant to University College, Cork.
+
+11.—(1) So much of subsection (2) of section 7 of the Irish Universities Act, 1908, and the Third Schedule to that Act as provides for the payment of the annual sum of £20,000 to University College, Cork shall cease and be deemed to have ceased to have effect as from the 31st day of March, 1926, and in lieu thereof it is hereby enacted that out of moneys to be provided by the Oireachtas there shall be paid to University College, Cork in the financial year beginning on the 1st day of April, 1926, and in every subsequent financial year the annual sum of £40,000 (forty thousand pounds) which shall be applied by the said College for the general purposes of the College.
+
+(2) All moneys paid to University College, Cork under the said subsection (2) of section 7 of the Irish Universities Act, 1908, during the financial year beginning on the 1st day of April, 1926 and before the passing of this Act shall be deemed to have been paid under this section on account of the moneys payable under this section to the said College during the said financial year.
