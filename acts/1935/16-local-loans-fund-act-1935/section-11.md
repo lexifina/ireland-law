@@ -1,0 +1,13 @@
+Investment of the fund.
+
+11.—(1) All balances standing from time to time to the credit of the capital of the fund or of the income of the fund and not immediately required for making payments out of the fund may be invested at the discretion of the Minister in all or any of the following ways, that is to say, in the purchase of securities issued under this Act on behalf of the fund, or in making advances to the Exchequer on the credit of ways and means, or in Exchequer Bills or in any investment authorised by sub-section (1) of section 17 of the Finance Act, 1930 (No. 20 of 1930), for the investment of moneys standing to the credit of the Exchequer account.
+
+(2) Moneys available for investment under the next preceding sub-section of this section shall be a Government fund within the meaning of the Approved Investments Act, 1933 (No. 34 of 1933), and that Act shall apply in regard thereto accordingly.
+
+(3) All sums from time to time held in the fund by way of sinking fund may be invested at the discretion of the Minister in all or any of the following ways, that is say, in advances in respect of local loans, or in the purchase of securities issued under this Act on behalf of the fund, or in the purchase of any stock, fund, or security in which trustees are authorised by section 18 of the Adaptation of Enactments Act, 1922 (No. 2 of 1922), to invest trust funds, or in the purchase of any stock, shares, or security the principal and interest of which is guaranteed under statutory authority by the Government of Saorstát Eireann.
+
+(4) Moneys liable to investment under the next preceding sub-section of this section shall be a Government fund within the meaning of the Approved Investments Act, 1933 (No. 34 of 1933), and that Act shall apply in regard thereto accordingly.
+
+(5) Whenever money forming part of a sinking fund is invested in pursuance of this section in the purchase of securities issued under this Act on behalf of the fund, the securities so purchased shall forthwith be cancelled.
+
+(6) Whenever money is invested under or in pursuance of this section in the purchase of securities (other than securities which are required by this section to be cancelled), the Minister may sell such securities whenever the money represented thereby is required for making any payment, and the Minister may also from time to time vary as he shall think proper the investment of any money so invested and for that purpose sell all or any of the securities in which such money is invested and reinvest the proceeds of such sale in any manner authorised by this section in respect of such money.

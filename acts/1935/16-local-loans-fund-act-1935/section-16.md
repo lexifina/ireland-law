@@ -1,0 +1,5 @@
+Deduction from local grants, etc., of moneys due to the fund.
+
+16.—(1) Where any sum (including a sum which consists wholly or partly of penal interest) is due and payable to the fund by a local authority, the amount of such sum may be deducted from any money payable to such local authority by any Minister for any purpose whatsoever, but such deduction shall, in the case of money payable out of the local taxation (Ireland) account, be made subject and without prejudice to the claims of the guarantee fund under the Land Purchase Acts.
+
+(2) Every amount deducted under this section shall if or so far as it is so deducted in respect of money owing otherwise than for penal interest be paid into the fund and credited in the accounts of the fund as a payment by the local authority from whose money the said amount was so deducted, and shall, if or so far as it is so deducted in respect of money owing for penal interest, be paid into or disposed for the benefit of the Exchequer in such manner as the Minister shall direct.
