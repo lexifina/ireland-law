@@ -1,0 +1,11 @@
+Regulations in relation to use of electrical power.
+
+11.—Where the Minister has (whether before or after the passing of this Act) made a transport works order authorising a person (in this section referred to as the authorised person) to construct, maintain and operate transport works of a particular kind and has by such order authorised such transport works to be operated by electrical power, the following provisions shall have effect, that is to say:—
+
+(a) the Minister may, after consultation with the Electricity Supply Board, make such regulations as he may think fit for securing that the electrical power shall be used by the authorised person and by any other person operating such works on behalf of the authorised person with all reasonable and proper precautions against danger to the public or damage to the property of any person;
+
+(b) in making such regulations the Minister shall have regard to the expense occasioned thereby to the authorised person and to the effect thereof on the financial prospects of the authorised person;
+
+(c) if the authorised person or any other person operating such transport works on behalf of the authorised person uses such electrical power in contravention of such regulations, the authorised person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds and, in the case of a continuing offence, a further fine of five pounds for each day during which the offence is continued after conviction thereof;
+
+(d) if in the opinion of the Minister the authorised or any person operating such transport works on behalf of the authorised person has used such electrical power in contravention of such regulations, whether the authorised person has or has not been convicted of an offence, or the Minister is satisfied that the use of such power is a danger to the public, he may by order require the authorised person to cease to exercise the powers conferred by such transport works order with respect to the use of electrical power and thereupon the authorised person shall cease to exercise such powers except with the consent of the Minister and subject to such terms and conditions as he thinks fit.
