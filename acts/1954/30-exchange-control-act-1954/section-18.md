@@ -1,0 +1,7 @@
+Application of the Customs Acts:.
+
+18.—(1) The Customs Acts shall, subject to such modifications, if any, as may be prescribed to adapt them to this Act, apply, in relation to any thing prohibited to be imported or exported by any of the provisions of this Act except with the permission of the Minister, as they apply in relation to goods prohibited to be imported or exported by or under any of the said Acts, and any reference in the said Acts to goods shall be construed as including a reference to any thing prohibited to be imported or exported by any of the provisions of this Act except with the permission of the Minister.
+
+(2) References in this section to the Customs Acts shall be taken as including references to section 14 of the Post Office (Parcels) Act, 1882 (which, as amended by section 7 of the Post Office (Amendment) Act, 1951 (No. 17 of 1951), applies the Customs Acts to goods contained in foreign parcels and postal packets and provides that goods may be examined, seized and forfeited accordingly) and to section 18 of the Post Office Act, 1908 (which enables the Minister for Posts and Telegraphs to detain and forward to the Revenue Commissioners for opening and detention for the purpose of prosecution any postal packet suspected to contain contraband goods).
+
+(3) Any declaration required to be given under section 17 shall, for the purposes of section 168 of the Customs Consolidation Act, 1876 (under which making false declarations in matters relating to customs is an offence), be deemed to be a declaration in a matter relating to customs.
