@@ -1,0 +1,3 @@
+Article 6
+
+6. While any such agreement remains in force, any instrument to which it relates and which bears such indication of the payment of stamp duty as the Revenue Commissioners may require shall not be chargeable with stamp duty, but in lieu thereof and by way of composition, the other parties to the agreement shall pay to the Revenue Commissioners on the delivery of any account under the agreement, such sums as would, but for the provisions of this Order, have been chargeable by way of stamp duty on instruments to which the agreement relates during the period to which the account relates.
