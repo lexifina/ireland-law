@@ -1,0 +1,3 @@
+Article 6
+
+6. The Minister may impose on any alien such restrictions (either in addition to or in substitution for any other restrictions imposed on such alien by or under the Principal Order or this Order) as to his movements, residence, reporting to the Gárda Síochána, registration, occupation, employment, using or possessing any machine, apparatus, arms and explosives, or other article, or as to any other matter or thing as the Minister may consider necessary in the interests of the public safety or the preservation of the State, and any alien on whom any such restriction is imposed shall comply with such restriction.
