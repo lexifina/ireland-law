@@ -1,0 +1,5 @@
+Civil liability for improper purchase in holding company.
+
+225.—(1) Where the winding-up of a company which has acquired shares in its holding company in accordance with section 224 commences within six months after such acquisition and the company is at the time of the commencement of the winding-up unable to pay its debts (taking into account the contingent and prospective liabilities), the court, on the application of a liquidator, creditor, employee or contributory of the company, may subject to subsection (2), declare that the directors of the company shall be jointly and severally liable to repay to the company the total amount paid by the company for the shares.
+
+(2) Where it appears to the court that any person in respect of whom a declaration has been sought under subsection (1) believed on reasonable grounds that the said purchase was in the best interests of the company, the court may relieve him, either wholly or in part, from personal liability on such terms as it may think fit.

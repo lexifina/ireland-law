@@ -1,0 +1,3 @@
+Redemption of existing redeemable preference shares.
+
+220.—Section 64 of the Principal Act is hereby repealed but any redeemable preference shares issued by a company limited by shares before the coming into operation of this Part which could but for the repeal of section 64 have been redeemed under that section shall be subject to redemption in accordance with the provisions of this Part save that any premium payable on redemption may, notwithstanding section 207 (2) (e) and (f), be paid out of the share premium account instead of out of profits or may be paid partly out of that account and partly out of profits available for distribution.
