@@ -1,0 +1,5 @@
+Confirmation of agreement.
+
+34.—(1) The Agreement, set forth in the Third Schedule to this Act, made on the 23rd day of June, 1960, between the Government and the United Kingdom Government relating to the Agreement set forth in Part I of the First Schedule to the Finance Act, 1926 (as amended by the agreements set forth in the First Schedule to the Finance Act, 1928, the First Schedule to the Finance Act, 1948, and the Second Schedule to the Finance Act, 1959), is hereby confirmed and, subject to confirmation by the United Kingdom Parliament, shall have effect accordingly.
+
+(2) For the purpose of carrying out any obligation under Article 2 of the Agreement set forth in the Third Schedule to this Act, the Government may by order direct that any provisions of the Income Tax Acts specified in the order, being provisions affecting in any way exemptions from income tax of persons resident in the State, shall not affect, and be deemed not to have affected, exemptions from income tax which persons enjoy as not resident in the State but resident in the United Kingdom, and any such order shall have effect accordingly.
