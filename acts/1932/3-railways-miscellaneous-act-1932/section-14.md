@@ -1,0 +1,3 @@
+Validation of certain acts of the directors of the company.
+
+14.—Every act done or purported to be done before the passing of this Act by a body consisting of directors of the company (whether including or not including a director nominated under the Railways (Directorate) Act, 1924 (No. 61 of 1924), and purporting to be the board of directors of the company shall, notwithstanding that the number of directors of the company at the time such act was done or purported to be done was less than the legal number of directors, be and be deemed always to have been as valid and effectual as such act would have been if the number of directors of the company at such time was equal to the legal number of directors.
