@@ -1,0 +1,3 @@
+Restriction on total of guarantees for scheduled body.
+
+3.—The Minister shall not, as respects a scheduled body, so exercise the powers conferred by subsection (1) of section 2 of this Act that the amount, or the aggregate amount, of principal, which he may at any one time be liable to repay for the body on foot of any guarantee or guarantees for the time being in force, together with the amount of principal (if any) which he has previously paid on foot of any guarantees for the body and has not been repaid, exceeds the amount specified in the third column of the Schedule to this Act in respect of the body.
