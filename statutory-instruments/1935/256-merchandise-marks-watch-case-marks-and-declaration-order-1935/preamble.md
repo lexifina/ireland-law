@@ -1,0 +1,9 @@
+STATUTORY RULES AND ORDERS. 1935. No. 256.
+
+MERCHANDISE MARKS (WATCH CASE MARKS AND DECLARATION) ORDER, 1935.
+
+WHEREAS it is enacted by subsection (1) of section 8 of the Merchandise Marks Act, 1887, as adapted by or under the Adaptation of Enactments Act, 1922 (No. 2 of 1922), that every person who after a date fixed by the Governor-General of the Irish Free State upon the advice of the Executive Council of the Irish Free State sends or brings a watch case, whether imported or not, to the assay office of the Fraternity or Company of Goldsmiths of the City of Dublin for the purpose of being assayed, stamped or marked, shall make a declaration declaring in what country or place the case was made, and that if it appears by such declaration that the watch case was made in some country or place out of Saorstát Eireann, the assay office of the Fraternity or Company of Goldsmiths of the City of Dublin shall place on the case such a mark (differing from the mark placed by such assay office on a watch case made in Saorstát Eireann) and in such mode as may be from time to time directed by the Governor-General of the Irish Free State upon the advice of the Executive Council of the Irish Free State:
+
+AND WHEREAS it is enacted by subsection (2) of the said section 8, as so adapted, that the said declaration shall be in such form as may be from time to time directed by order of the Governor-General of the Irish Free State upon the advice of the Executive Council of the Irish Free State:
+
+NOW, THEREFORE, I, DONAL BUCKLEY, Governor-General of the Irish Free State, upon the advice of the Executive Council of the Irish Free State and in exercise of the powers conferred by the Merchandise Marks Act, 1887, as adapted by or under the Adaptation of Enactments Act, 1922 (No. 2 of 1922), and of every and any other power me in this behalf enabling, do hereby order as follows:—

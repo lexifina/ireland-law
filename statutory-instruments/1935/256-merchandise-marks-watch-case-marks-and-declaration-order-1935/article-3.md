@@ -1,0 +1,3 @@
+Article 3
+
+3. The declaration to be made under subsection (1) of section 8 of the Merchandise Marks Act, 1887, as adapted by or under the Adaptation of Enactments Act, 1922 (No. 2 of 1922), by every person who, after the date of the coming into operation of this Order, sends or brings a watch case, whether imported or not, to the assay office of the Fraternity or Company of Goldsmiths of the City of Dublin for the purpose of being assayed, stamped or marked shall be in the form set forth in the First Schedule hereto and the directions and instructions contained in or appended to the said form shall be complied with by every such person.
