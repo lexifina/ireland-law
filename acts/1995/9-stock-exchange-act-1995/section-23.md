@@ -1,0 +1,5 @@
+Refusal to consent to amendment of memorandum of association or articles of association of an authorised member firm.
+
+23.—(1) Subject to subsection (2) of this section, the Bank may refuse to consent to an amendment of, or addition to, the memorandum of association or articles of association, or both, of an authorised member firm in any or all of the following circumstances, namely, where it is expedient to do so in the interest of the proper and orderly regulation of approved stock exchanges and their authorised member firms or in order to protect investors.
+
+(2) Whenever the Bank refuses to consent to an amendment of or addition to the memorandum of association or articles of association or both of an authorised member firm, it shall serve notice on the authorised member firm concerned stating that it refuses to consent to the amendment or addition and setting out the reasons for the refusal in the notice and the authorised member firm may, within 21 days of receipt of such notice, appeal to the Court against the decision.

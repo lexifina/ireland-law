@@ -1,0 +1,3 @@
+Approval of acquiring transactions.
+
+41.—An acquiring transaction shall not proceed until the Bank has informed the authorised member firm or approved stock exchange and the party making the acquiring transaction in writing that it approves of the acquiring transaction or until three months have elapsed during which the Bank has not refused to approve of the acquiring transaction, whichever first occurs, such period beginning on the date on which the Bank first receives a notification under section 40 of this Act, or, where the Bank requests further information from the person or persons concerned under section 40 (4) of this Act, the date of receipt by the Bank of such information.
