@@ -1,0 +1,3 @@
+Persons entitled to compensation.
+
+35.—Where petroleum is brought to the surface at a petroleum well and used or sold by the lessee under a petroleum lease or by the Minister exercising the powers conferred on him by section 14of this Act, a right to compensation in respect of such petroleum shall be deemed to have become vested on the operative date in the persons (other than a Minister of State) who, immediately before the operative date, were entitled to any estate in any minerals (excluding an estate in minerals which did not include petroleum) directly under the appointed area in relation to that petroleum well.

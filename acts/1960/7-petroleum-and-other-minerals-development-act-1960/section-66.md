@@ -1,0 +1,3 @@
+Deductions from compensation of debts due to the State.
+
+66.—Where the amount of any compensation which is payable under this Act by the Minister to any person is determined by an award, and a debt is due and owing by that person to any Minister of State or to the Central Fund, the Minister may deduct the amount of the debt from such compensation, and may direct that the amount so deducted be (as the case may require) either paid to the appropriate Minister of State or paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
