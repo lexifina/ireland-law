@@ -1,0 +1,3 @@
+Issue of share capital of the Company.
+
+6.—So long as the Minister holds not less than one-tenth of the share capital of the Company, or so long as any debentures guaranteed by the Minister under this Act are outstanding, or so long as the rate of the customs duty chargeable on sugar imported into Saorstát Eireann is higher than the rate of the excise duty chargeable on sugar manufactured in Saorstát Eireann, no issue of the share capital of the Company (other than share capital issued to subscribers of the Memorandum of Association of the Company) shall be made unless the Minister, after consultation with the Minister for Agriculture and the Minister for Industry and Commerce, has authorised such issue.
