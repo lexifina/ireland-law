@@ -1,0 +1,7 @@
+Regulation 3
+
+3. The regulations specified in the Schedule to these Regulations are hereby revoked.
+
+PART II MODIFICATION OF THE PROVISIONS OF THE ACTS IN THEIR APPLICATION TO PERSONS EMPLOYED ON BOARD A SHIP OR AIRCRAFT AND PERSONS EMPLOYED OUTSIDE THE STATE.
+
+4 ..
