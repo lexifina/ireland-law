@@ -1,0 +1,9 @@
+Deductions of income tax after 5th April 1948.
+
+1.—(1) Every sum paid or deducted in respect of income tax within two months after the 5th day of April, 1948, which consists wholly of a payment or deduction made by virtue of section 6 of the Provisional Collection of Taxes Act, 1927 (No. 7 of 1927), in respect of income tax for the year beginning on the 6th day of April, 1948, shall be calculated at the rate of seven shillings in the pound, and the said section 6 shall apply and have effect in relation thereto as if that rate had been the standard rate of income tax for the year beginning on the 6th day of April, 1947.
+
+(2) The following provisions shall apply and have effect in relation to every sum paid or deducted in respect of income tax within two months after the 5th day of April, 1948, which consists partly of a payment or deduction made in respect of income tax for the year beginning on the 6th day of April, 1947, and partly of a payment or deduction made, by virtue of section 6 of the Provisional Collection of Taxes Act, 1927 (No. 7 of 1927), in respect of income tax for the year beginning on the 6th day of April, 1948, that is to say:—
+
+(a) so much of the said sum as consists of a payment or deduction in respect of income tax for the year beginning on the 6th day of April, 1947, shall be calculated at the rate of six shillings and sixpence in the pound, being the standard rate of income tax for that year;
+
+(b) so much of the said sum as consists of a payment or deduction made, by virtue of the said section 6, in respect of income tax for the year beginning on the 6th day of April, 1948, shall be calculated at the rate of seven shillings in the pound, and the said section 6 shall apply and have effect in relation thereto as if that rate had been the standard rate of income tax for the year beginning on the 6th day of April, 1947.
