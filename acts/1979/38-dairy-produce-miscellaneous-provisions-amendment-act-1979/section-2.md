@@ -1,0 +1,3 @@
+Increase of amount of guarantee of loans to An Bord Bainne Co-operative Limited.
+
+2.—The Minister for Agriculture shall not so exercise the powers conferred on him by sections 6 (1) and 6 (2) of the Principal Act that the amount, or the aggregate amount, of principal which he may at any one time be liable to pay on foot of any guarantee or guarantees under those sections for the time being in force, together with the amount of principal (if any) which that Minister has previously paid on foot of any such guarantees and which has not been repaid by An Bord Bainne Co-operative Limited, exceeds £90,000,000 and, accordingly section 6 (3) of the Principal Act shall be construed as if that sum were substituted for the sum mentioned therein.
