@@ -1,0 +1,3 @@
+Restriction on recording of certain convictions on licences.
+
+21.—Where a person is convicted (whether before or after the passing of this Act) in relation to any premises in respect of which he holds a licence for the sale of intoxicating liquor by retail and which is situate in the Court area of Swinford of more than one offence (being offences each of which was committed during the period from the 19th day of May, 1961, to the 23rd day of May, 1961) and more than one of the convictions would, but for this section, fall to be recorded under section 25 of the Act of 1927 on the licence, not more than one of the convictions shall be so recorded.

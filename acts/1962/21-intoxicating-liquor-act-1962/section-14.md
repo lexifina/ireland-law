@@ -1,0 +1,7 @@
+Special events in sports clubs.
+
+14.—(1) A Justice of the District Court may, on the application of the secretary of a registered club (within the meaning of the Registration of Clubs Acts) the main object of which is the promotion of any outdoor pastime, sport, game or recreation among its members, authorise, notwithstanding the provisions contained in the rules of the club pursuant to those Acts, the sale or supply by or with the consent of the club to any person for consumption in the buildings or grounds of the club and the consumption in the buildings or grounds of the club by any person, of excisable liquor at such times as may be specified in the authorisation on the occasion of a special event in the club that, in the opinion of the Court, is likely to attract a considerable number of people to the club.
+
+(2) An authorisation shall not be granted under this section in respect of a club in relation to more than one event in a year and the period of the authorisation shall not exceed five consecutive days, but it shall not authorise the supply or consumption of excisable liquor on any day during that period on which the event to which it relates is not taking place.
+
+(3) The sale, supply and consumption of excisable liquors in the buildings or grounds of a club pursuant to an authorisation under this section shall be lawful and shall be deemed not to be a breach of the rules of the club.

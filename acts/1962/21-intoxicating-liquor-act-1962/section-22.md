@@ -1,0 +1,3 @@
+Parking of animal-drawn vehicles in licensed premises.
+
+22.—Notwithstanding anything contained in section 17 (which relates to the offence of being on licensed premises during prohibited hours) of the Act of 1927, it shall not be unlawful for a person to be in any yard, stable, outhouse, shed or other like place forming part of premises in respect of which a licence is in force and which are not situate in a county or other borough on a Sunday, Saint Patrick's Day, Christmas Day or Good Friday for the sole purpose of leaving therein, attending to, or removing therefrom, an animal-drawn vehicle.

@@ -1,0 +1,3 @@
+Permitting persons to be on licensed premises during prohibited hours.
+
+29.—A person who permits a person to be on licensed premises contrary to subsection (1) of section 17 (which was inserted by the Act of 1960 and provides for certain offences in relation to prohibited hours) of the Act of 1927 shall be guilty of an offence and shall be liable on summary conviction, in the case of a first offence, to a fine not exceeding twenty pounds, or, in the case of a second or any subsequent offence, to a fine not exceeding forty pounds and the offence shall be deemed, for the purposes of Part III (which relates to the endorsement of licences) of the Act of 1927, to be an offence to which that Part of that Act applies.
