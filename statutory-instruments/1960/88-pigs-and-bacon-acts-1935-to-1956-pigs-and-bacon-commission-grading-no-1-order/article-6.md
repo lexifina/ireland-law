@@ -1,0 +1,15 @@
+Article 6
+
+6. Every licensee shall at the time of grading of a carcase of a " Bacon Pig " weighing not less than 1 cwt. 0 qr. 15 lb. and not more than 1 cwt. 2qr. 7lb. clearly mark the grade of such carcase :—
+
+(a) In ink on the skin of each hind leg of the carcase between the hock and the toes, or
+
+(b) By such other means and in such other manner as may be approved by the Commission.
+
+Every such mark shall remain on the carcase :—
+
+(1) In the case of a carcase for use in the production of bacon, until immediately before the carcase is put into cure ;
+
+(2) In the case of a carcase which, or part of which, is found and certified under Section 58 of the Pigs and Bacon Act, 1935 , to be unfit for human consumption, until such carcase, or such part thereof, is treated or surrendered in accordance with that Section, or
+
+(3) In the case of any other carcase, until immediately before its use for a purpose other than the production of bacon.
