@@ -1,0 +1,3 @@
+Recovery of Relief.
+
+5.—Where relief under this Act is granted by a board of guardians to any person, and such person is not required as a condition of the granting of such relief to perform a task of work under the foregoing section the board may, if they shall so think fit, declare such relief or the cost thereof to be given by way of loan and any such relief or the cost thereof so declared to be given by way of loan shall be recoverable as a debt due to the board from the person to whom such relief shall have been granted or considered as granted under the Poor Relief (Ireland) Acts, 1838 to 1914, as amended by this Act.

@@ -1,0 +1,3 @@
+Extension of power to relieve destitute poor persons out of the workhouse.
+
+2.—The board of guardians of a union to which this Act applies may, at their discretion, relieve out of the workhouse of the union, any destitute poor person who could not heretofore under the provisions of the Poor Relief (Ireland) Acts, 1838 to 1914, have been relieved by them otherwise than in such workhouse, if such person at the time when he is so relieved has been resident for a continuous period of not less than two years either in the County of Dublin or in the County Borough of Dublin or in the said county and county borough.

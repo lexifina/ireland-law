@@ -1,0 +1,3 @@
+Power to pay for removal of person from union.
+
+3.—A destitute poor person in a union to which this Act applies, who has not been resident either in the County of Dublin, or in the County Borough of Dublin, or in the said county and county borough for a continuous period of not less than two years, may apply to the board of guardians of such union to pay the reasonable expenses of his removal from such union to some other place, and, in such case, if the board are satisfied that such removal is likely to enable such person to support himself and his dependants by his own industry or other lawful means, and is generally for the benefit of such person and his dependants, they may, at their discretion, pay such reasonable expenses.
