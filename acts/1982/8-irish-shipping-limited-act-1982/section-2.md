@@ -1,0 +1,9 @@
+Guarantees in respect of certain guarantees given, or moneys payable, by the Company.
+
+2.—(1) The Minister may guarantee, in such form and manner and on such terms and conditions as he thinks fit, the due payment by the Company of any moneys (including moneys in a currency other than the currency of the State) payable by the Company in respect of any guarantee given by the Company, or under any contract entered into by the Company for the provision of goods or services or both goods and services, being in either case a guarantee given or a contract entered into with the approval of the Minister for Transport and with the consent of the Minister.
+
+(2) The Minister shall not so exercise the powers conferred by subsection (1) of this section that the amount, or the aggregate amount, of moneys which he may at any one time be liable to pay pursuant to a guarantee or guarantees given by him under this section and for the time being in force, together with the amount of moneys (if any) which he has previously paid pursuant to any such guarantees and has not been repaid by the Company, exceeds an amount equivalent to £50,000,000.
+
+(3) For the purpose of calculating the amount of moneys guaranteed by the Minister under this section by reference to the limit on moneys in subsection (2) of this section, the equivalent in the currency of the State of moneys in a foreign currency shall be calculated at the exchange rate prevailing at the time of the giving of the guarantee.
+
+(4) In relation to guarantees given by the Minister under this section in respect of moneys in a currency other than the currency of the State, the references to moneys in subsection (1) of this section and in sections 3 and 5 of this Act shall be taken as referring to the equivalent in the currency of the State of the actual moneys, such equivalent being calculated according to the cost in the currency of the State of the actual moneys.
