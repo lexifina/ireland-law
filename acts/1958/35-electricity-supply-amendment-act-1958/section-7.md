@@ -1,0 +1,3 @@
+Power to compensate persons for loss or inconvenience from submerging of Fitzgibbon Bridge.
+
+7.—Where, in the opinion of the Board, the submerging of Fitzgibbon Bridge (otherwise known as Dripsey Bridge) situate on the River Dripsey in the county of Cork has caused or will cause serious loss or serious inconvenience to any person who, at the commencement of this Act, is the owner or occupier of land situate in the townland of Cronody or townland of Fergus, both in the county of Cork, the Board may, if they so think fit, pay to that person compensation in respect of the loss or inconvenience aforesaid of such amount as the Board consider reasonable having regard to all the circumstances.
