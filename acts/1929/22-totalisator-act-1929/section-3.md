@@ -1,0 +1,13 @@
+Grant of totalisator licences.
+
+3.—(1) The Minister may, if and whenever he thinks fit, grant to such persons as he thinks fit licences (in this Act referred to as totalisator licences) to set up, maintain, and work totalisators.
+
+(2) Every totalisator licence shall operate to authorise the person to whom it is granted (who shall be named in the licence) to set up, maintain, and work a totalisator at the place and on the occasion or occasions or during the period specified in such licence but subject to the conditions and restrictions set out in such licence and to the regulations made by the Minister under this Act.
+
+(3) The Minister may charge such fee for the grant of any totalisator licence as he shall think fit, and any such fee may be either a single payment or a series of periodical payments and may be either of fixed or of variable amount and in the latter case may, if the Minister so thinks fit, be calculated by reference to the sums staked by means of the totalisator to which the licence relates.
+
+(4) A totalisator licence may, as the Minister shall think fit, be granted in respect of any one or more specified places or in respect of all places of one or more specified classes or descriptions in Saorstát Eireann or any specified part of Saorstát Eireann and may be granted for one or more specified occasions or for all occasions of one or more specified classes or descriptions occurring during a specified period.
+
+(5) The Minister may attach to any totalisator licence such restrictions and conditions as he shall think fit but no such condition or restriction shall be of any effect unless the same is set out in the licence.
+
+(6) Where the Minister grants a licence to any person or persons to operate in any place or places or where the Revenue Commissioners set up, maintain or work a totalisator at any place or places the persons having the management of such place or places shall provide a place or places whether in a building or not where licensed bookmakers (provided always that they are not disqualified persons under any recognised Rules of Racing) may carry on their business and to which the public may resort for the purpose of betting, and the charge to any such licensed bookmaker and to any assistant accompanying him for admission to such place or places for the purpose of the licensed bookmaker's business shall, in the case of any such licensed bookmaker not exceed five times the amount and in the case of an assistant not exceed the amount of the charge made to members of the public for admission to the place or places where the licensed bookmaker intends to carry on his business.
