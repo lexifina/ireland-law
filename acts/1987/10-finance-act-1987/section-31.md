@@ -1,0 +1,5 @@
+Amendment of Chapter VI (manufacturing companies) or Part I of Finance Act, 1980.
+
+31.—As respects any relevant accounting period (within the meaning of section 38 of the Finance Act, 1980), or part of such accountingperiod, commencing on or after the passing of this Act, Chapter VI of Part I of the said Finance Act, 1980, is hereby amended by the insertion in section 39 after subsection (1CC2) (inserted by this Act) of the following subsection:
+
+“(1CC3) The definition of ‘goods’ contained in subsection (1) shall include plants cultivated in the State, by the process of plant biotechnology known as ‘micro-propagation’ or ‘plant cloning’, in the course of a trade by the company which, in relation to the relevant accounting period, is the company claiming relief under this Chapter in relation to the trade and references in this Chapter to ‘manufactured’ shall be construed, in relation to such plants, as including references to cultivated and words in this Chapter cognate to ‘manufactured’ shall be construed accordingly.”.
