@@ -1,0 +1,3 @@
+Regulation 35
+
+35. Any proceedings in relation to a member of the Force which were commenced and are not concluded before the commencement of these regulations may be continued as if these regulations had not been made, but, in the event of a decision being made in those proceedings to take disciplinary action, the member shall be entitled to have the decision reviewed as if it were a decision made under these regulations and, accordingly, in such a case, the provisions of these regulations relating to an application under regulation 20 shall, subject to any necessary modifications, apply in relation to the decision.
