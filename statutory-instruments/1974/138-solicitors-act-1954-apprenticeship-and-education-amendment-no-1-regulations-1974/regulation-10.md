@@ -1,0 +1,3 @@
+Regulation 10
+
+10. It is visualised that in the First Year lectures group discussion will take place Monday/Friday from 9.00 a.m.-11.00 a.m. and 4.00 p.m.-6.00 p.m. and that in addition tutorials will be held for 2 hours per day. The arrangements for the second study period will not be as intensive, since to some extent the apprentice will be specialising in subjects of his own choice. At the end of the first year of study, the apprentice will be required to sit a 2nd Law and Book-keeping examination (new form). About three months after the end of the second period of study, the apprentice will be required to sit a final examination. It is intended that this particular examination will be broad rather than detailed in its approach.

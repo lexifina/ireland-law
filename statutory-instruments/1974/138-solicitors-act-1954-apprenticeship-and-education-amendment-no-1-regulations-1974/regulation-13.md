@@ -1,0 +1,3 @@
+Ratio of Apprentices to Solicitors
+
+13. At present there are approximately 600 apprentices in training and some 1,500 solicitors in practice. By comparison Scotland with a population of 5,212,000 and a comprehensive system of legal aid, has 3,500 solicitors in practice. Notwithstanding the high apprentice/ solicitor ratio, there is an unsatisfied demand for apprenticeship. The Society being conscious of the problem of obtaining masters, agreed on 7th February, 1974, that in these special circumstances, it would be prepared to consider applications from solicitors generally for second apprentices. Also, as an exceptional measure, it agreed to allow solicitors of 5-7 years standing to take apprentices subject to the Society's approval in each case.
