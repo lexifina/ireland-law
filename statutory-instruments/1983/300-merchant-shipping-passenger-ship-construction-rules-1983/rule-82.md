@@ -1,0 +1,7 @@
+Rule 82
+
+82. Special arrangements in machinery spaces
+
+PART VB
+
+FIRE PROTECTION: NEW AND EXISTING SHIPS OF CLASSSES III TO VI INCLUSIVE
