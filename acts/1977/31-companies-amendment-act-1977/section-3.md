@@ -1,0 +1,5 @@
+Official seals for sealing share certificates etc.
+
+3.—(1) A company other than a private company may have, for use for sealing securities issued by the company and for sealing documents creating or evidencing securities so issued, an official seal which is a facsimile of the common seal of the company with the addition on its face of the word “Securities” or the word “Urrúis”.
+
+(2) A company which was incorporated before the commencement of this Act and which has such an official seal as is mentioned in subsection (1) of this section may use the seal for sealing such securities and documents as are mentioned in that subsection notwithstanding anything in any instrument constituting or regulating the company or in any instrument made before such commencement which relates to any securities issued by the company, and any provision of such an instrument which requires any such securities or documents to be signed shall not apply to the securities or documents if they are sealed with that seal.

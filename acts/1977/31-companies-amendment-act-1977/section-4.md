@@ -1,0 +1,9 @@
+Use of computers etc. for certain company records.
+
+4.—(1) It is hereby declared that the power conferred on a company by section 378 (1) of the Act of 1963 to keep a register or other record by recording the matters in question otherwise than by making entries in bound books includes power to keep the register or other record other than minute books kept pursuant to section 145 of the Act of 1963 by recording the matters in question otherwise than in a legible form so long as the recording is capable of being reproduced in a legible form.
+
+(2) Any provision of an instrument made by a company before the commencement of this Act which requires a register of holders of debentures of the company to be kept in a legible form shall be construed as requiring the register to be kept in a legible or non-legible form, provided, however, that a register kept in non-legible form shall be capable of being reproduced in legible form.
+
+(3) If any such register or other record of a company as is mentioned in section 378 (1) of the Act of 1963 is kept by the company by recording the matters in question otherwise than in a legible form, any duty imposed on the company by virtue of that Act to allow inspection of, or to furnish a copy of, the register or other record or any part of it shall be treated as a duty to allow inspection of, or to furnish, a reproduction of the recording or of the relevant part of it in a legible form.
+
+(4) The Minister may by regulations make such provision in addition to subsection (3) of this section as he considers appropriate in connection with such registers or other records as are mentioned in that subsection and are kept as there mentioned, and the regulations may make modifications of provisions of the Act of 1963 relating to such registers or other records as are mentioned in that subsection.

@@ -1,0 +1,3 @@
+Modification of obligation to prepare share certificates etc.
+
+2.—A company of which shares or debentures are allotted or debenture stock is allotted to a stock exchange nominee, or with which a transfer is lodged for transferring any shares, debentures or debenture stock of the company to a stock exchange nominee, shall not be required in consequence of the allotment or the lodging of the transfer to complete and have ready for delivery in pursuance of section 86 (1) of the Act of 1963 the certificates of the shares or the debentures or the certificates of the debenture stock, as the case may be.
