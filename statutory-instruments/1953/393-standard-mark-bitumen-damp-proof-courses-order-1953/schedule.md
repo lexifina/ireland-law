@@ -1,0 +1,19 @@
+SCHEDULE
+
+PART I.
+
+BITUMEN DAMP-PROOF COURSES.
+
+PART II
+
+57 : 1953
+
+PART III
+
+STANDARD SPECIFICATION (BITUMEN DAMP-PROOF COURSES) Order, 1953.
+
+GIVEN under my Official Seal, this 14th day of December, 1953.
+
+SEAN F. LEMASS,
+
+Minister for Industry and Commerce.
