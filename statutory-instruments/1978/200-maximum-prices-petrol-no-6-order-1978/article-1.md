@@ -1,0 +1,3 @@
+Article 1
+
+1. This Order may be cited as the Maximum Prices (Petrol) (No. 6) Order, 1978.
