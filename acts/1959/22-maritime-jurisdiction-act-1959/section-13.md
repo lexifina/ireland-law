@@ -1,0 +1,3 @@
+Evidence as to extent of internal waters, territorial seas, exclusive fishery limits and fishery conservation areas.
+
+13.—The Government may by order prescribe the charts which may be used for the purpose of establishing low-water mark, or the existence and position of any low-tide elevation, or any other matter in reference to the internal waters, the territorial seas, the exclusive fishery limits or a fishery conservation area, and any chart purporting to be a copy of a chart of a kind or description so prescribed shall, unless the contrary is proved, be received in evidence as being a prescribed chart without further proof.
