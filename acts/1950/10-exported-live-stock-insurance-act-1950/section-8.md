@@ -1,0 +1,3 @@
+Re-investigation of claims or parts of claims under the Principal Act as amended by the Act of 1943.
+
+8.—Where a committee of assessors investigating a claim for compensation under the Principal Act as amended by the Act of 1943 or this Act have disallowed the claim in whole or in part, a committee of assessors may, if fresh evidence is produced by the claimant within three months after the date of disallowance, re-investigate the claim or part of the claim (as the case may be), and on such re-investigation deal with the claim or the part of the claim as if such disallowance had not been made.
