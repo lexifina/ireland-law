@@ -1,0 +1,11 @@
+S.I. No. 146 of 1974.
+
+QUARRIES (GENERAL) REGULATIONS, 1974.
+
+ARRANGEMENT OF REGULATIONS.
+
+PART I.
+
+Preliminary and General.
+
+Regulation.
