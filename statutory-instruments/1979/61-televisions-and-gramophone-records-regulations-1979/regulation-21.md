@@ -1,0 +1,5 @@
+Regulation 21
+
+21. (1) Every licensed manufacturer who has been permitted by the Commissioners to defer payment of the duty under paragraph 8 of the Order shall, not later than noon on the last day of each month furnish to the proper collector a true and correct return in such form as may be specified by the Commissioners of the duty which became payable by him during the previous month and such other particulars as may be specified by the Commissioners and shall, at the same time, pay the duty to the said collector.
+
+(2) Every manufacturer who has not been permitted by the Commissioners to defer payment of the duty under paragraph 8 of the Order shall, before any dutiable goods on which the duty has not been paid are delivered from his premises, furnish to the proper collector a true and correct return in such form as may be specified by the Commissioners of the amount of the duty payable on the goods and containing such particulars as may be specified by the Commissioners and shall at the same time, pay the duty to the said collector.
