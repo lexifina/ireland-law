@@ -1,0 +1,3 @@
+Bye-law 6
+
+6. Provisions relating to parking in parking places.
