@@ -1,0 +1,3 @@
+Functions of court prior to registration.
+
+8.—Where the court has reason to believe that the donor of an enduring power may be, or may be becoming, mentally incapable and the court is of the opinion that it is necessary, before the instrument creating the power is registered, to exercise any power with respect to the power of attorney or the attorney appointed to act under it which would become exercisable under section 12 on its registration, the court may on application to it by any interested party exercise that power under this section and may do so whether the attorney has or has not made an application to the court for the registration of the instrument.

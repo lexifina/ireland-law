@@ -1,0 +1,17 @@
+Power given as security.
+
+20.—(1) Where a power of attorney is expressed to be irrevocable and is given to secure—
+
+(a) a proprietary interest of the donee of the power, or
+
+(b) the performance of an obligation owed to the donee,
+
+then, so long as the donee has that interest or the obligation remains undischarged, the power shall not be revoked—
+
+(i) by the donor without the consent of the donee, or
+
+(ii) by the death, incapacity or bankruptcy of the donor or, if the donor is a body corporate, by its winding-up or dissolution.
+
+(2) A power of attorney given to secure a proprietary interest may be given, and shall be deemed to have been capable always of being given, to the person entitled to the interest and persons deriving title under that person to that interest, and those persons shall be duly constituted donees of the power for all purposes of the power but without prejudice to any right to appoint substitutes given by the power.
+
+(3) This section applies to powers of attorney whenever created.
