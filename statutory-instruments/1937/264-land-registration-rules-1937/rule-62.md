@@ -1,0 +1,7 @@
+Rule 62
+
+62. (1) Where it appears to the Registrar that an application or instrument is not expressed so as to indicate with sufficient precision the property or part of the property in the register to which it relates, or the ownership, burden, or notice, to be entered in the register therefrom, or that the instrument or other document, or the execution thereof, is defective, or that an assent, declaration, or affidavit, presented with it does not disclose the facts required by these rules to be stated on the registration applied for, he may refuse to make any registration thereunder either absolutely or except with such modifications as he shall approve. If he is of opinion that the registration can be effected on the defect or omission being corrected, he may notify the applicant, and may require him to rectify it by amendment and re-execution of the instrument, or by lodgment of a supplemental application, assent, affidavit, or instrument, as the case may be, within a time, not less than 21 days, to be stated in the notice.
+
+(2) If an applicant does not comply with a notice sent under this rule within the time stated therein, the Registrar may treat the application for registration as abandoned, and thereupon its receipt for the purposes of the registration applied for shall be cancelled, and the documents lodged by the applicant shall be redelivered to him.
+
+63 Amendment of instrument and priority of amended instrument.
