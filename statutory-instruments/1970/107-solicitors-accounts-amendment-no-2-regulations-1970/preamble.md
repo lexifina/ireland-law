@@ -1,0 +1,5 @@
+S.I. No. 107 of 1970.
+
+SOLICITORS ACCOUNTS (AMENDMENT No. 2) REGULATIONS, 1970.
+
+The Incorporated Law Society of Ireland in exercise of the powers conferred on them by Sections 4 , 5 , 66 and 71 of the Solicitors Act 1954 and of every other power thereunto them enabling and with the concurrence of the President of the High Court hereby make the following regulations.
