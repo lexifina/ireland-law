@@ -1,0 +1,3 @@
+Article 7
+
+7. A person shall not sell an approved disinfectant unless there is attached to or fixed or printed on the receptacle, container or packet in which it is contained, a form of label approved for the time being for the purposes of this Order by the Minister in relation to such disinfectant, and giving such particulars (if any) as the Minister shall specify when giving the approval and relating to the following, namely, the diseases or disease organisms in respect of which the disinfectant may be used, the dilution or rates of dilution approved by the manufacturer for its use and precautionary measures to be taken by a person using the disinfectant.
