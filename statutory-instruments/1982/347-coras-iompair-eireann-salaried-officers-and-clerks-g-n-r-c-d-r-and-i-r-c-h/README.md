@@ -1,0 +1,18 @@
+# Coras Iompair Éireann Salaried Officers' and Clerks' (G.N.R., C.D.R. and I.R.C.H.) Superannuation Scheme, 1977 (Amendment) Scheme, 1982 (Confirmation) (No. 2) Order, 1982
+
+S.I. No. 347 of 1982 · <https://www.irishstatutebook.ie/eli/1982/si/347/made/en/html>
+
+As made (2 December 1982), from the electronic Irish Statute Book. Later amendments are not applied.
+
+| Provision | File |
+| --- | --- |
+| I, JOHN P. WILSON, Minister for Transport, in exercise of the powers conferred on me by Rule 41 (2) of the Coras Iompair | [preamble.md](preamble.md) |
+| Article 1 | [article-1.md](article-1.md) |
+| Article 2 | [article-2.md](article-2.md) |
+| Article 3 | [article-3.md](article-3.md) |
+| Article 4 | [article-4.md](article-4.md) |
+| Article 5 | [article-5.md](article-5.md) |
+| Article 6 | [article-6.md](article-6.md) |
+| Article 7 | [article-7.md](article-7.md) |
+| Article 8 | [article-8.md](article-8.md) |
+| Article 9 | [article-9.md](article-9.md) |
