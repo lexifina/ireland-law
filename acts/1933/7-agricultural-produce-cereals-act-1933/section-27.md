@@ -1,0 +1,3 @@
+Quota for preliminary quota period.
+
+27.—Whenever the Minister grants a milling licence in respect of any mill and such licence comes into force before the first quota year the Minister shall at the same time make an order fixing the quota for such mill in respect of the period (in this Part of this Act referred to as the preliminary quota period) commencing on the date on which such licence comes into force and ending immediately before the commencement of the first quota year, and the quota so fixed shall for the purposes of this Part of this Act be the quota for such mill in respect of the preliminary quota period.

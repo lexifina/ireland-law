@@ -1,0 +1,7 @@
+Obligation to mill quota.
+
+28.—(1) Every holder of a milling licence in respect of a particular mill shall, subject to the provisions of this section, mill into flour at such mill in the preliminary quota period (if any) and in every quota year the quota for such mill in respect of such period or year (as the case may be).
+
+(2) The Minister may, if he so thinks fit, by licence authorise the holder of a milling licence in respect of a particular mill to mill into wheaten meal a certain specified proportion of the quota for such mill in respect of the preliminary quota period (if any) or a specified quota year, and in such case any amount of wheat, not in excess of the said proportion, milled into wheaten meal during the preliminary quota period (if any) or such year at such mill shall be deemed for the purposes of this section to have been milled into flour at such mill during such period or year.
+
+(3) If any holder of a milling licence in respect of a particular mill fails to mill into flour at such mill during the preliminary quota period (if any) or any quota year an amount of wheat which is at least ninety per cent. of the quota for such mill in respect of such period or year, such person shall unless he satisfies the Court that such failure was attributable to circumstances over which he had no control be guilty of an offence under this section and shall be liable on summary conviction thereof to the penalties mentioned in Part III of the First Schedule to this Act.

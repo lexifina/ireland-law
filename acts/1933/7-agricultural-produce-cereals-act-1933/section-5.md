@@ -1,0 +1,19 @@
+Irish-owned bodies corporate.
+
+5.—(1) In this Act—
+
+the expression “Irish-owned body corporate” means a body corporate the issued shares of which are at the relevant time to an extent exceeding one-half (in nominal value) thereof in the beneficial ownership of a person who is or of two or more persons each of whom is at that time either a national of Saorstát Eireann or a body corporate the issued shares of which are at that time to an extent exceeding one-half (in nominal value) thereof in the beneficial ownership of nationals of Saorstát Eireann.
+
+(2) For the purposes of the immediately preceding sub-section but not further or otherwise, the following provisions shall have effect, that is to say:—
+
+(a) where a national of Saorstát Eireann dies and is at the time of his death the beneficial owner of any shares in a body corporate, such shares shall, until the grant of probate of his will or letters of administration of his personal estate, be deemed to continue in the beneficial ownership of a national of Saorstát Eireann, and upon the grant of such probate or letters of administration the personal representative for the time being of such national shall, so long as he is entitled to such shares in his representative capacity, be deemed to be the beneficial owner of such shares and, if he is not a national of Saorstát Eireann, to be a national of Saorstát Eireann; and
+
+(b) where a national of Saorstát Eireann becomes a bankrupt or carries an arrangement with his creditors and such national was at the time of his bankruptcy or arrangement the beneficial owner of any shares in a body corporate, and his interest in such shares becomes vested in his assignee in bankruptcy or a trustee of the estate of such national as an arranging debtor, such shares shall be deemed, so long as such interest remains so vested, to be in the beneficial ownership of such assignee or trustee, and such assignee or trustee shall, so long as such interest remains so vested be deemed, if he is not a national of Saorstát Eireann, to be a national of Sáorstat Eireann; and
+
+(c) where a person is for the time being entitled to the income arising from any shares in a body corporate held by a trustee, such person shall so long as he continues to be entitled to such income, be deemed to be the beneficial owner of such shares; and
+
+(d) where two or more persons are each for the time being entitled to a proportionate part of the income arising from shares in a particular body corporate or from such shares and other property held by a trustee, each of such persons, so long as he continues to be entitled to a proportion of such income, shall be deemed to be the beneficial owner of a corresponding proportion of such shares; and
+
+(e) where the issued shares of a body corporate are transferred to a bank, being a body corporate, by way of security for an advance and such bank is registered as the owner of such shares in the register of shareholders of such body corporate, such transfer and registration shall be deemed not to operate to transfer the ownership of such shares to such bank; and
+
+(f) where the issued shares of a body corporate which is the holder of a milling licence or the issued shares of a body corporate holding shares in a body corporate which is the holder of a milling licence cease to be held in the manner stated in the said sub-section, such shares shall be deemed to continue to be held in accordance with that sub-section for a period of six months after they cease to be in fact so held.

@@ -1,0 +1,11 @@
+Standard price of home-grown millable wheat.
+
+67.—(1) For the purposes of this Part of this Act the standard price per barrel for home-grown millable wheat for the several sale (wheat) seasons set out in the first column of the Second Schedule to this Act shall, subject to the provisions of this section, be the price per barrel set out in the second column of the said Schedule opposite the mention of such sale (wheat) season.
+
+(2) The Executive Council shall from time to time by order fix for the purposes of this Part of this Act in respect of every sale (wheat) season (other than the sale (wheat) seasons set out in the Second Schedule to this Act) the price per barrel for homegrown millable wheat and whenever any such order is made the price per barrel fixed by such order shall, subject to the provisions of this section, be for the purposes of this Part of this Act, the standard price per barrel for home-grown millable wheat in respect of every sale (wheat) season to which such order relates and where any such order relates to two or more sale (wheat) seasons different standard prices may be fixed in respect of different sale (wheat) seasons.
+
+(3) Every order made under the immediately preceding sub-section shall be made not later than two years before the commencement of the sale (wheat) season to which it relates.
+
+(4) The Executive Council may, at any time before the commencement or during the currency of a sale (wheat) season, by order under this sub-section increase the standard price per barrel for home-grown millable wheat fixed by or under the preceding provisions of this section in respect of such sale (wheat) season, and whenever any such order is made the standard price per barrel for home-grown millable wheat shall in respect of the sale (wheat) season to which such order relates be the standard price as so increased by such order.
+
+(5) Every order made under this section shall be laid before Dáil Eireann as soon as may be after it is made and if a resolution annulling such order is passed by Dáil Eireann within the next subsequent twenty-one days on which Dáil Eireann has sat after such order is so laid before it, such order shall be annulled accordingly but without prejudice to the making of a fresh order.
