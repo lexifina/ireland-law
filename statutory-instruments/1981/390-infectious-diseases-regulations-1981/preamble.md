@@ -1,0 +1,1 @@
+The Minister for Health, in exercise of the powers conferred on her by sections 5 and 29 of the Health Act, 1947 (No. 28 of 1947) and by Section 31 of the said Act as amended by section 34 of the Health Act, 1953 (No. 26 of 1953) hereby makes the following Regulations:—
