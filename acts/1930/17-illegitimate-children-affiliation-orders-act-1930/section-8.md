@@ -1,0 +1,11 @@
+Commutation of weekly sums.
+
+8.—(1) A Justice of the District Court may at any time on the application of a person liable to pay a weekly sum under an affiliation order authorise such person or his personal representative to commute such weekly sum by the payment of a lump sum of such amount as shall be fixed by the Justice.
+
+(2) Where a putative father who is liable under an affiliation order to pay a weekly sum in respect of his illegitimate child dies before the termination of such weekly sum a Justice of the District Court may at any time after the death of such putative father and before the termination of such weekly sum, on the application of the person to whom such weekly sum is payable, order the personal representative of such putative father to commute such weekly sum by the payment of a lump sum of such amount as shall be fixed by the Justice.
+
+(3) Every lump sum fixed by a Justice of the District Court for the commutation under this section of a weekly sum shall be so fixed with a view to securing for the illegitimate child in respect of whom such weekly sum is payable benefits at least equal to those which he would derive from a continuation of such weekly sum and in so fixing such lump sum the Justice shall have regard to all the circumstances of the case and in particular shall where the circumstances so require have regard to the probability of the payment of the weekly sum being continued under this Act after such child has attained the age of sixteen years.
+
+(4) When authorising or ordering under this section the commutation of a weekly sum the Justice shall be satisfied that proper arrangements have been made for the payment of the lump sum to a fit and proper person and for the due administration and application of such lump sum for the benefit of the illegitimate child in respect of whom the same is paid and the Justice shall so far as appears to him to be necessary provide for such payment, administration, and application in the order authorising such commutation.
+
+(5) Upon the payment under and in accordance with an order under this section of the lump sum specified in such order the weekly sum in commutation of which such lump sum is so paid shall terminate.
