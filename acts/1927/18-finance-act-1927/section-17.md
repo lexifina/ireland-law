@@ -1,0 +1,5 @@
+Double taxation relief between Saorstát Eireann and Northern Ireland.
+
+17.—(1) Where the Revenue Commissioners are satisfied that under a settlement of which the forum of administration is in Northern Ireland, succession duty has or shall become payable in Northern Ireland by reason of the death of a person dying on or after the 1st day of April, 1923 in respect of any settled personal or movable property, they shall allow a sum equal to the amount of the succession duty so payable to be deducted from the legacy duty or succession duty payable in Saorstát Eireann in respect of such property on the said death.
+
+(2) This section shall come into operation on the date which is declared by order made by the Executive Council to be the date on which by virtue of legislation passed by the Parliament of Northern Ireland a corresponding relief with respect to legacy or succession duty payable in Northern Ireland comes into operation, and this section shall continue in operation so long only as such corresponding relief continues to have effect.
