@@ -1,0 +1,3 @@
+Preservation of certain contracts and adaptation of references to former Authority.
+
+7.—Every contract or agreement made between the Company or any trustee or agent thereof acting on its behalf, and any other person, which is in force immediately before the establishment day shall continue in force on and after that day and shall be construed and have effect as if the College were substituted therein for the Company or, as the case may be, its trustee or agent acting on its behalf, and shall be enforceable against the College.
