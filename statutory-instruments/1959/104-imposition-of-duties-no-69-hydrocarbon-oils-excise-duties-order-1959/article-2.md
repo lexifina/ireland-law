@@ -1,0 +1,3 @@
+Article 2
+
+2. The duty of excise imposed by section 1 of the Finance (Miscellaneous Provisions) Act, 1935 (No. 7 of 1935), as amended by subsequent enactments, shall, in respect of mineral hydrocarbon light oil chargeable with that duty which is sent out, on or for sale or otherwise, from the premises of the manufacturer thereof on or after the 17th day of June, 1959, or is used by such manufacturer on or after that date for any purpose other than the manufacture or production of mineral hydrocarbon oil, be charged, levied and paid at the rate of two shillings and nine pence farthing the gallon in lieu of the rate specified in subsection (3) of section 10 of the Finance Act, 1957 (No. 20 of 1957).

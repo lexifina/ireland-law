@@ -1,0 +1,5 @@
+Article 3
+
+3. (1) The duty of excise imposed by section 21 of the Finance Act, 1935 (No. 28 of 1935), shall, in respect of hydrocarbon oil chargeable with that duty which is sent out, on or for sale or otherwise from the premises of the manufacturer thereof on or after the 17th day of June, 1959, or is used by such manufacturer on or after that date for any purpose other than the manufacture or production of hydrocarbon oil, be charged, levied and paid at the rate of two shillings and two pence the gallon in lieu of the rate now chargeable by virtue of subsection (6) of section 10 of the Finance Act, 1957 (No. 20 of 1957).
+
+(2) The reference in subsection (8) of section 10 of the Finance Act, 1957 (No. 20 of 1957), to the duty of excise imposed by section 21 of the Finance Act, 1935 (No. 28 of 1935), as amended by subsection (6) of the said section 10 shall be construed as including a reference to the duty of excise imposed by the said section 21 as amended by subparagraph (1) of this paragraph.
