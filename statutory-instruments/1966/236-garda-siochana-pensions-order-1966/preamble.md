@@ -1,0 +1,1 @@
+I, BRIAN LENIHAN, Minister for Justice, in exercise of the powers conferred on me by section 13 of the Police Forces Amalgamation Act, 1925 (No. 7 of 1925), and section 1 of the Garda Síochána Act, 1958 (No. 14 of 1958), hereby, with the sanction of the Minister for Finance, and after due compliance with subsection (2) of the said section 13, make the following Order:
