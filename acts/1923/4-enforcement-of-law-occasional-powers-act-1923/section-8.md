@@ -1,0 +1,3 @@
+Validity of purchases from Under Sheriff.
+
+8.—Every person who after the passing of this Act shall in good faith purchase at a sale held by or under the authority of an Under-Sheriff any goods, animals or other chattels taken in execution by such Under-Sheriff shall acquire a good title valid against all persons to the goods, animals and chattels so purchased notwithstanding any invalidity or irregularity in or about the seizure or sale of such goods, animals or chattels, and whether he knows or ought or could have known or is affected with any kind of notice that the sale is a sale by or under the authority of an Under-Sheriff or not.
