@@ -1,0 +1,7 @@
+Article 9
+
+9. The following statutory provisions shall apply and have effect in the manner hereinafter mentioned, that is to say :—
+
+(a) the provisions of section 6 of the Finance (Agreement with United Kingdom) Act, 1938 (No. 12 of 1938), shall apply and have effect in relation to the duty imposed by this Order as if the articles chargeable with that duty were mentioned in the second column of the First Schedule to the said Act, and this Order were mentioned in the third column of the said Schedule opposite the mention of the said articles in the said second column, and the rate of an amount equal to thirty per cent. of the value of the article were specified in the fourth column of the said Schedule opposite the mention of the said articles in the said second column ;
+
+(b) the provisions of section 16 of the said Act and of the Agreement with United Kingdom (Prescribed Proportion of Value) Regulations, 1938 (Statutory Rules and Orders, No. 185 of 1938), made under the said section 16 shall apply and have effect for the purpose of the said section 6 as applied by this paragraph, but subject to the modification that the reference contained in sub-paragraph (b) of paragraph 2 of the said Regulations to a proportion of value of twenty-five per cent. shall be construed as a reference to a proportion of value of fifty per cent.
