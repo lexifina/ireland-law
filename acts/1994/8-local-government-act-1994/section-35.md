@@ -1,0 +1,3 @@
+Application of section 8 (1) of the Act of 1991.
+
+35.—For the avoidance of doubt it is hereby declared that the powers conferred on a local authority by section 8 (1) of the Act of 1991 shall extend to anything which is related to the general administration or operation of the authority and also that the reference to a function conferred on a local authority in that section shall be construed as referring to all such functions as may at any material time stand conferred on the local authority by or under any enactment (including that Act and this Act) and accordingly every enactment relating to a function of a local authority shall be construed and have effect in accordance with the provisions of the said section 8 (1).

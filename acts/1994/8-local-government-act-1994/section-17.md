@@ -1,0 +1,41 @@
+Alteration of boundaries for purposes of certain local elections.
+
+17.—(1) The Minister may by regulations and by reference to a submitted map within the meaning of this section alter the boundary of any borough, urban district or town having town commissioners, specified in the regulations, for the purposes of the elections to be held in 1994 pursuant to section 14 and for local elections thereafter. Where regulations have been made under this subsection, the area of any borough, urban district or town specified in the regulations shall, for the purposes of those elections (and only for such purposes) be the area contained within the altered boundary and the local government electors registered in respect of such area shall be entitled to vote at those elections.
+
+(2) Where a proposed boundary alteration shown on a submitted map would involve the inclusion in a borough or urban district of an area which is located in a county other than the county in which the said borough or urban district is situate, regulations under subsection (1) may provide for the simultaneous alteration of the boundary between the two counties in question so as to correspond with the boundary of the borough or urban district altered by those regulations and on the coming into operation of such regulations the said county boundary shall accordingly also stand so altered for the purposes of the elections referred to in that subsection and for the purposes of the next elections to the councils of the counties in question and for local elections thereafter.
+
+(3) Regulations under subsection (1) shall apply notwithstanding the provisions of any other enactment relating to the alteration of boundaries and may include all such provisions as the Minister may consider necessary to enable a boundary alteration to have effect for the purposes of elections to a local authority.
+
+(4) (a) The Minister may by regulations under this subsection provide that an alteration of the boundary of a borough, urban district or town effected by regulations under subsection (1) shall (in addition to having effect for the purposes specified in that subsection) have effect for such other purposes as may be specified in the regulations and the regulations may—
+
+(i) make a provision similar to or to the same effect (with any modifications which the Minister may consider appropriate in the particular circumstances) as any provision contained in the Second Schedule to the Local Government (Reorganisation) Act, 1985,
+
+(ii) do any thing which may be done by order under section 24 of that Act,
+
+(iii) make such other provision (if any) as the Minister shall think proper, in relation to any matter whatsoever related to or connected with the proposed boundary alteration for such other purposes.
+
+(b) Regulations shall not be made under this subsection in respect of a borough, urban district or town unless either—
+
+(i) a reorganisation report has been submitted under section 56 and the Minister has considered any proposals therein which may have a bearing on matters which are the subject of the regulations, or
+
+(ii) there are in the opinion of the Minister in a particular
+
+case exceptional circumstances for altering the relevant boundary for purposes specified in the regulations in advance of such submission and agreement has been reached and satisfactory arrangements have been made by the local authorities concerned as respects all matters related to or connected with the proposed boundary alteration.
+
+(5) The Commissioner of Valuation (“the commissioner”) shall, by reference to a submitted map, but without prejudice to subsection (8), prepare for each county, borough, urban district and town the boundary of which is altered by regulations under this section, a map, in quadruplicate, or in quintuplicate in any case where the boundary between two counties is altered, drawn to such convenient scale and in such convenient number of separate sheets as the commissioner thinks fit, showing the boundaries of the said county or counties, borough, urban district or town as so altered and when such maps have been prepared, the commissioner shall seal each such map and shall, as soon as may be thereafter, deposit them as follows, namely, one of them in the principal office of the commissioner, one in the offices of the Minister, one in the principal office of the relevant borough corporation, urban district council or town commissioners and one in the principal office of the relevant county council or county councils.
+
+(6) Every map deposited pursuant to subsection (5) in the principal office of the commissioner or of a local authority shall be retained in the office in which it is so deposited, and each such map, or true copies thereof, shall be open for inspection free of charge at the office in which it is so deposited by any person at any time at which such office is open for the transaction of public business, and it shall be lawful for the commissioner, or the relevant local authority to prepare and supply to any person requesting the same a true copy of any map so deposited or any particular part thereof and to charge for such copy such sum as the commissioner (with the consent of the Minister for Finance) or the local authority in question, may fix.
+
+(7) It shall be the duty of the commissioner and of a local authority which retains a map pursuant to subsection (6), whenever required so to do by any Court of Justice, to prepare and produce to the Court a true copy of such map or any specified part thereof and to verify the copy to such Court by the oath of an officer of the commissioner or local authority as the case may be (whose official position it shall not be necessary to prove) and the Court shall receive the copy in evidence and thereupon the copy shall, unless the contrary is shown, be sufficient evidence of the boundary (in so far as the same is shown on the copy) of the county, borough, urban district or town to which the copy purports to relate, notwithstanding any discrepancy between the copy and any submitted map.
+
+(8) In preparing the said maps the commissioner may notwithstanding—
+
+(a) any description in any other enactment of any boundary of a county, borough, urban district or town or of any alteration of such, or
+
+(b) any such boundary as shown on a submitted map or a map prepared pursuant to any enactment prior to the commencement of this section,
+
+fix the boundary of any county, borough, urban district or town so as to avoid any minor anomaly such as the division of any building, other structure or curtilage by such boundary or to remedy any other minor inconsistency insofar as in the opinion of the commissioner such may be necessary.
+
+(9) In this section a “submitted map” means a map certified by a county manager and showing the existing boundary and the proposed new boundary of a town specified in the Third Schedule, being a borough other than a county borough, an urban district or a town having town commissioners with the name of the particular borough, urban district or town shown thereon, which map was submitted to the Minister pursuant to a request made to the manager by him prior to the enactment of this Act for the submission of such a map.
+
+(10) For the purposes of the elections referred to in subsections (1) and (2) and all matters relating thereto the boundary as shown on a submitted map to which regulations under subsection (1) refer shall be the official map for such purposes pending the deposit of the relevant map by the commissioner pursuant to subsection (5) and the said submitted map shall continue to be the official map (for the period before, during and after such elections) until such time as the relevant map is deposited by the commissioner in accordance with subsection (5). Pending such deposit a copy of the submitted map shall be retained at the principal offices of the relevant borough corporation, urban district council, town commissioners and county council or councils (as the case may be) and the provisions of subsections (6) and (7) shall apply in respect of each such submitted map and each such local authority as if it were a map deposited by the commissioner under subsection (5).

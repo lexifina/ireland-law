@@ -1,0 +1,7 @@
+FOURTH SCHEDULE
+
+Amenities, Facilities and Services
+
+Section 31 (2).
+
+Artistic and cultural activities The provision of art galleries, arts centres, concert halls, museums, theatres, opera houses and the holding of artistic and cultural performances, exhibitions and events. Sports, games and related activities The provision (both indoor and outdoor) of playing fields, athletic tracks, swimming pools and other bathing places, sports centres, gymnasia and other facilities and the holding of sporting events. General recreational and leisure activities The provision of parks, gardens, open spaces, playgrounds, animals, picnic sites, viewing points, footpaths, walks, boats, piers, other landing places and marinas. Civic improvements The provision of street furniture, paving, clocks, statues, monuments and other features, illumination and decoration and other measures designed to upgrade the urban environment. General environmental and heritage protection and improvement Landscaping, the planting of trees and other flora, measures for the conservation, preservation and protection of landscapes and habitats, of buildings and other features of artistic, amenity, architectural, historic, heritage or natural interest. The public use of amenities (both natural and man made) The provision of access, signs, vehicle parks, safety equipment, information and refreshment facilities, sanitary accommodation, utilities, seating, shelter and any other apparatus, equipment or anything else necessary to facilitate such use.
