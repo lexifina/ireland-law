@@ -1,0 +1,3 @@
+Article 3
+
+3. Whenever a bottle is sold by retail purporting to contain a specific amount of milk, the Bottle shall be deemed, for the purposes of this Order, to contain that amount of bottled milk.
