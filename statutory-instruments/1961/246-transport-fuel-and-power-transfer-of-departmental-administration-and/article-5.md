@@ -1,0 +1,11 @@
+Article 5
+
+5. (1) All property (real or personal), rights and liabilities held, enjoyed or incurred before the operative date by the Minister for Industry and Commerce, in connection with any functions transferred by this Order to the Minister for Transport and Power, shall be and are hereby transferred to the Minister for Transport and Power, and accordingly, without any further conveyance, transfer or assignment—
+
+(a) the said property shall on the operative date vest in the Minister for Transport and Power,
+
+(b) the said rights shall, as on and from the operative date, be enjoyed by the Minister for Transport and Power,
+
+(c) the said liabilities shall, as on and from the operative date be the liabilities of the Minister for Transport and Power.
+
+(2) All moneys, stocks, shares and securities transferred to the Minister for Transport and Power by this Article which, on the operative date, are standing in the books of any corporation or company in the name of the Minister for Industry and Commerce shall, upon the request of the Minister for Transport and Power, be transferred into his name.
