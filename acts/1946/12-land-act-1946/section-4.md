@@ -1,0 +1,3 @@
+Evidence of breach of conditions as to working holding or parcel.
+
+4.—Where an agreement or undertaking to purchase a holding or parcel of land from the Land Commission, whether entered into before, on or after the operative date, contains a condition whereby the purchaser agrees to work the holding or parcel in accordance with proper methods of husbandry to the satisfaction of the Land Commission, a certificate under the common seal of the Land Commission certifying that the purchaser has not so worked the holding or parcel shall be prima facie evidence for all purposes of the fact so certified.

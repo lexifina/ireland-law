@@ -1,0 +1,7 @@
+Interest in parcel of untenanted land under agreement or undertaking to purchase.
+
+5.—(1) Where a person enters or is deemed to enter into an agreement or an undertaking to purchase from the Land Commission the fee simple of a parcel of untenanted land, and the parcel was not, at the date on which the said agreement or undertaking was entered into or deemed to have been entered into, subject to the provisions of Part IV of the Registration of Title Act, 1891, then, notwithstanding any rule of law, the interest in the parcel created by the agreement or undertaking shall, for the purposes of devolution on death, be deemed to be a chattel real.
+
+(2) This section shall apply with respect to agreements and undertakings to purchase parcels of untenanted land made or deemed to have been made and deaths which occurred before the passing of this Act in like manner as it applies with respect to any such agreements and undertakings made or deemed to have been made and deaths occurring after the passing of this Act.
+
+(3) Where, before the passing of this Act, an interest in a parcel of untenanted land to which this section applies was treated by the persons claiming to be interested therein as realty for the purposes of devolution on death, then, nothing in subsection (1) or subsection (2) of this section shall affect any right acquired or intended to be conferred by reason or in consequence of the interest having been so treated.
