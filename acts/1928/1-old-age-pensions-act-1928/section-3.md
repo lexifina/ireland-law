@@ -1,0 +1,5 @@
+Determination of claims and questions.
+
+3.—(1) Where any person who is at the date of the commencement of this Act in receipt of an old age pension or whose claim for an old age pension has before the said date been provisionally allowed claims that the rate of such pension should be increased so as to be at the rate mentioned in the foregoing section, such claim, instead of being considered and determined in the manner provided by section 7 (which relates to the determination of claims and questions) of the Old Age Pensions Act, 1908, shall be considered and determined by the pension officer.
+
+(2) Any person who is aggrieved by a decision under this section of a pension officer may appeal against such decision to the local pension committee who shall consider the case and give their decision thereon in the same manner and subject to the like appeal as if such decision of the pension officer were the report of such officer on a claim referred to him for report and inquiry under section 7 of the Old Age Pensions Act, 1908.
