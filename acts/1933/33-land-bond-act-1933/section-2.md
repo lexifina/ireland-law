@@ -1,0 +1,7 @@
+Payment of purchase moneys in new land bonds.
+
+2.—(1) All purchase money payable by the Land Commission after the passing of this Act to vendors in respect of any tenanted land which is a pending case or in respect of any untenanted land which is a pending case shall be paid by means of an issue under this Act of four and one-half per cent. new land bonds equal in nominal amount to the purchase money and carrying interest as from the date on which the land purchased is vested in the Land Commission.
+
+(2) New land bonds issued to a vendor in pursuance of this section shall, as between such vendor and the Land Commission, be accepted by such vendor as the equivalent of the corresponding amount of purchase money, and any person having power to sell under the Land Purchase Acts may, although he is not an absolute owner, enter into a subsequent purchase agreement notwithstanding that the purchase money is under this section to be paid in new land bonds instead of cash.
+
+(3) Section 3 of the Principal Act as amended by section 4 of the Land Bond Act, 1925 (No. 25 of 1925), shall apply to all claims against the purchase money (as defined in the said section 3 as so amended) when such purchase money is under this section, payable in new land bonds in like manner as it applies to the claims mentioned in the said section 3 as so amended, but subject to the modification that references in the said section 3 as so amended to land bonds shall be construed and have effect as references to new land bonds.
