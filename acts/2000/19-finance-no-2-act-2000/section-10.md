@@ -1,0 +1,5 @@
+Exemption for gifts.
+
+10.—(1) Where an interest in residential property has been taken by a donee as a gift from a disponer, then that interest shall not, except to the extent of any money or money's worth paid by that donee for that gift, be relevant residential property of that donee on the relevant valuation date if it would not have been relevant residential property of that disponer, by virtue of section 8(1), had that disponer been still beneficially entitled in possession to that interest on that date.
+
+(2) Where, under or in consequence of any disposition, an interest in residential property has become subject to a discretionary trust, then that interest shall not, except to the extent of any money or money's worth paid by the trustees of that trust for that interest, be relevant residential property of that discretionary trust on the relevant valuation date if it would not have been relevant residential property of the disponer, by virtue of section 8(1), had the disponer been still beneficially entitled in possession to that interest on that date.
