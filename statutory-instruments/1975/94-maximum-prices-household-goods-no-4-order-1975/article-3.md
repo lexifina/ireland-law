@@ -1,0 +1,7 @@
+Article 3
+
+3. (1) The maximum price at which a commodity mentioned in column (2) of Part I of the Schedule to this Order at any reference number may be sold in the manner specified in column (3) of that Schedule at that reference number is hereby fixed at the price mentioned in column (3) at that reference number.
+
+(2) The maximum price at which a commodity mentioned in column (2) of Part II of the Schedule to this Order at any reference number may be sold is hereby fixed at the price mentioned in column (3) of that Schedule at that reference number.
+
+(3) When a commodity mentioned in the Schedule to this Order is sold by retail in a manner other than that specified in relation to the commodity in the said Schedule, the price at which it is so sold shall be calculated at a rate corresponding to the rate specified in relation to the commodity in the said Schedule.
