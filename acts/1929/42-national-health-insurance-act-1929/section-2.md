@@ -1,0 +1,5 @@
+Abolition of certificates of exemption.
+
+2.—(1) No certificate (in this Act referred to as a certificate of exemption) under section 2 of the Act of 1911 as extended by sub-section (3) of section 81 of the Act of 1911 or under section 2 of the Act of 1911 as extended by section 5 of the Act of 1913, section 8 of the Act of 1918, and the proviso to sub-section (1) of section 1 of the Act of 1919 exempting a person employed within the meaning of Part I of the Act of 1911 from liability to become or continue to be insured under the said Part I shall be granted (by way of renewal or otherwise) to any person after the passing of this Act and if any such certificate is granted after the passing of this Act it shall be void and of no effect.
+
+(2) Every certificate of exemption granted before and in force at the passing of this Act shall remain in force until the date on which it would ordinarily expire or until the 5th day of January, 1930, whichever of the said dates is the earlier, and shall then cease to be in force.
