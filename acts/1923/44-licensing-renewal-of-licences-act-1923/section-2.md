@@ -1,0 +1,3 @@
+Licence deemed to have been transferred when premises transferred.
+
+2.—If the premises licensed by a licence to which this Act applies have been since the last renewal of such licence validly transferred whether by deed, will, or devolution of law, the licence shall for all purposes be deemed to have been validly transferred to the person to whom the premises were so transferred, notwithstanding any decision to the contrary given by any court before the passing of this Act and notwithstanding any omission to obtain from Petty Sessions or a District Court a transfer or endorsement of the licence.
