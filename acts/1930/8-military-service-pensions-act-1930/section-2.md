@@ -1,0 +1,3 @@
+Finality of findings of board of assessors.
+
+2.—So much of sub-section (6) of section 3 of the Principal Act as enacts that the findings of the board of assessors set out in their report shall in all cases be final and conclusive and binding upon the applicant is hereby repealed and in lieu thereof it is hereby enacted that such findings as so set out shall be and, in the case of findings set out in a report made before the passing of this Act, be deemed always to have been final and conclusive and binding on all persons and tribunals whatsoever, but subject and without prejudice to the power of the board of assessors to reopen any such findings under the proviso to the said sub-section (6).
