@@ -1,0 +1,3 @@
+Regulation 17
+
+17. Where two or more earth plates are used pursuant to Regulation 15 or 16 of these Regulations and the electrical resistance between them or any two of them exceeds two ohms, they shall be connected by a conductor having a cross-sectional area of not less than 14 square millimetres (0·022 square inches); provided that if any such earth plate used pursuant to the said Regulation 15 is inaccessible the provisions of this regulation shall not apply in relation to that earth plate but the resistance between any other earth plates so used and the general mass of earth shall not exceed two ohms.
