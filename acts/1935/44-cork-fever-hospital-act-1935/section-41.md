@@ -1,0 +1,9 @@
+Transfer of property of the body corporate and existing committee.
+
+41.—(1) All property, whether real or personal (including choses-in-action) which immediately before the appointed day is vested in or belongs to or is held in trust for the body corporate or the existing committee and all rights, powers, and privileges relating to or connected with any such property shall, on the appointed day and without any conveyance or assignment but subject where necessary to transfer in the books of any bank, corporation, or company, become and be vested in or the property of or held in trust for (as the case may require) the Board for all the estate, term, or interest for which the same immediately before the appointed day was vested in or belonged to or was held in trust for the body corporate or the existing committee.
+
+(2) All property transferred by this section which, immediately before the appointed day, is standing in the books of any bank or is registered in the books of any bank, corporation, or company in the name of the body corporate or the existing committee shall, upon the request of the Board made on or at any time after the appointed day, be transferred in such books by such bank, corporation, or company into the name of the Board.
+
+(3) On and after the appointed day, every chose-in-action transferred by this section from the body corporate or the existing committee to the Board may be sued upon, recovered, or enforced by the Board in its own name and it shall not be necessary for the Board to give notice to the person bound by such chose-in-action of the transfer effected by this section.
+
+(4) All moneys transferred to the Board by this section and all moneys arising out of the sale of any property transferred to the Board by this section and all income arising from such property shall be carried to the common fund of the Board.

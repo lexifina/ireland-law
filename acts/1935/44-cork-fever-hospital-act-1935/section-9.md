@@ -1,0 +1,3 @@
+Expenses of existing committee.
+
+9.—The expenditure incurred or to be incurred by the existing committee in the maintenance and management of the existing fever hospital shall not in any local financial year or portion of a year during the period between the commencement of this Part of this Act and the appointed day exceed such amount as may be agreed upon by the existing committee and the Corporation or in default of agreement as may be fixed by the Minister, and such expenses shall, in so far as the funds of the existing committee are insufficient to defray them, be defrayed by the Corporation.

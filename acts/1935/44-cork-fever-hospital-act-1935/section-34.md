@@ -1,0 +1,3 @@
+Right of entry to new fever hospital, etc., of certain medical officers of health.
+
+34.—The medical superintendent officer of health of the county borough of Cork and the county medical officer of health for the county of Cork shall, respectively, be entitled, at all reasonable times, to enter the new fever hospital and to inspect the same and the arrangements made for the care of the patients therein and to inspect and examine, respectively, the city patients and joint district patients therein, and each of the said officers shall also be entitled, in consultation with the Resident Medical Superintendent, to engage therein in research work in relation to the prevention and treatment of infectious diseases.
