@@ -1,0 +1,3 @@
+Place of meetings
+
+60. In the case of a company having its registered office in the County Borough of Dublin or in the County Borough of Cork every meeting shall be held at such place in the County Borough of Dublin or in the County Borough of Cork, as the case may be, as is in the opinion of the person convening the same most convenient for the majority of the creditors or contributories or both. In any other case every meeting shall be held at such place as is in the opinion of the person convening the same most convenient for the majority of the creditors or contributories or both. Different times or places may be named for the meetings of creditors and for the meetings of contributories.

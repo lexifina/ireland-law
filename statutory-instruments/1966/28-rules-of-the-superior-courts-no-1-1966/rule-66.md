@@ -1,0 +1,3 @@
+Adjournments
+
+66. The chairman may with the consent of the meeting adjourn it from time to time and from place to place but the adjourned meeting shall be held at the same place as the original meeting unless in the resolution for adjournment another place is specified or unless the Court otherwise orders.

@@ -1,0 +1,3 @@
+Periodical payments
+
+107. When any rent or other payment falls due at stated times and the order or resolution to wind up is made at any time other than at one of those times, the persons entitled to the rent or payment may prove for a proportionate part thereof up to the date of the winding up order or resolution as if the rent or payment accrued due from day to day. Provided that where the OfficialLiquidator remains in occupation of premises demised to a company which is being wound up, nothing herein contained shall prejudice or affect the right of the landlord of such premises to claim payment of rent during the period of the company's or the Official Liquidator's occupation.

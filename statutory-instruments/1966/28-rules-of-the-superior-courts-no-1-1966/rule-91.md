@@ -1,0 +1,3 @@
+Rule 91
+
+91. The duties imposed on the Court by section 235 (1) in a winding up by the Court with regard to the collection of the assets of the Company and the application of the assets in discharge of the company's liabilities shall be discharged by the Official Liquidator. For the purpose of the discharge by the Official Liquidator of the duties imposed by section 235 (1), the Official Liquidator shall for the purpose of acquiring or retaining possession of the property of the company be in the same position as if he were a receiver of the property appointed by the Court, and the Court may, on his application, enforce such acquisition or retention accordingly.

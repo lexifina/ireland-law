@@ -1,0 +1,3 @@
+Votes of secured creditors
+
+70. For the purpose of voting, a secured creditor shall, unless he surrenders his security, state in his proof or in a voluntary liquidation in such a statement as is hereinafter mentioned the particulars of his security, the date when it was given and the value at which he assesses it and shall be entitled to vote only in respect of the balance (if any) due to him after deducting the value of his security. If he votes in respect of his whole debt he shall be deemed to surrender his security unless the Court on application is satisfied that the omission to value the security has arisen from inadvertence.

@@ -1,0 +1,3 @@
+Rule 39
+
+39. The Official Liquidator of a company, or any member of the committee of inspection of a company, or any other person employed in or in connection with the winding up of the company shall not under any circumstances whatever accept from or arrangeto accept from any solicitor, auctioneer or other person connected with the company any gift, gratuity, remuneration, emolument, or pecuniary or other consideration or benefit whatever in addition to or apart from such remuneration as he may properly be entitled to under the provisions of the Act or this Order; nor shall any such person so employed as aforesaid give up or arrange to give up to any such solicitor, auctioneer or other person any portion of his proper remuneration.

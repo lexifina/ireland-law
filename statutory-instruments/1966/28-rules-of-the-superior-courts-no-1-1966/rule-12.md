@@ -1,0 +1,3 @@
+Service of petition
+
+12. Every petition shall, unless presented by the company, be served on the company at the registered office of the company, and if there is no registered office, then at the principal or last known principal place of business of the company if any such can befound, by leaving a copy with any member, officer or servant of the company there, or in case no such member, officer or servant can be found there, then by leaving a copy at such registered office or principal place of business, or by serving it on such member or members of the company as the Court may direct and when the company is being wound up voluntarily, every such petition shall also be served upon the liquidator appointed for the purpose of winding up the affairs of the company.

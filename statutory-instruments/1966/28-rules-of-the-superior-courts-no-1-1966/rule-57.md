@@ -1,0 +1,3 @@
+Application of rules as to meetings
+
+57. Except where and so far as the nature of the subject matter or the context may otherwise require, rules 59 to 84 (inclusive) shall apply to a Court meeting of creditors and to a Court meeting of contributories, to a Liquidator's meeting of creditors and to a Liquidator's meeting of contributories, and to a voluntary liquidation meeting, but so nevertheless that the said rules shall take effect as to a meeting held under section 232 subject and without prejudice to any express provision of the Act, and as to a Court meeting of creditors or Court meeting of contributories subject and without prejudice to any express directions of the Court.

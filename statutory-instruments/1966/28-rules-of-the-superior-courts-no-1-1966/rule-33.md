@@ -1,0 +1,3 @@
+Rule 33
+
+33. An Official Liquidator shall be appointed by order which may be in the Form No. 12, and unless he shall have given security, a time shall be fixed by such order within which he is to do so, and the order shall fix the times or periods at which the Official Liquidator is to leave his accounts of receipts and payments at the Examiner's Office and shall direct that all moneys to be received shall be paid into the Bank within seven days after the receipt thereof to the account of the Official Liquidator of the company, and an account shall be opened there accordingly, and an attested copy of the order shall be lodged at the Bank.

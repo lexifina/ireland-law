@@ -1,0 +1,3 @@
+Rule 88
+
+88. When the list of contributories has been left at the Examiner's Office, the Official Liquidator shall obtain an appointment from the Examiner to settle the same, and shall give notice in writing of such appointment in the Form No. 27 to every person included in such list, stating in what character, and for what number of shares, or extent of interest, such person is included in the list and that any application for the removal of the name of such person from the list or for a variation of the list should be made to the Examiner at the time appointed for the settlement of such list.

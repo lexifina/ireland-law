@@ -1,0 +1,3 @@
+Rule 26
+
+26. A person who is required to make or concur in making any statement of affairs of a company, shall before incurring any costs or expenses in and about the preparation and making of the statement, apply to the Official Liquidator for his sanction and submit a statement of the estimated costs and expenses which it is intended to incur and if there shall be no Official Liquidator, shall apply to the Court; and, except by order of the Court, no person shall be allowed out of the assets of the company any costs or expenses which have not, before being incurred, been sanctioned by the Official Liquidator or the Court.

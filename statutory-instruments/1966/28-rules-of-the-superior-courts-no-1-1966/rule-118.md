@@ -1,0 +1,3 @@
+Rule 118
+
+118. If the Official Liquidator does not pay the moneys received by him into the Bank to the account of the Official Liquidator of the company in accordance with the order of the Court in that behalf, such Official Liquidator shall, unless the Court otherwise directs, be charged interest in his account at the rate of one half per cent. on the amount retained in his hands for every seven days during which the same shall have been so retained contrary to such order, and the Court may, for any such retention, disallow the salary or remuneration of the Official Liquidator or any part thereof.

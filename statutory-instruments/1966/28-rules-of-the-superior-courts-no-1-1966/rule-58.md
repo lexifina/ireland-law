@@ -1,0 +1,9 @@
+Summoning of meetings
+
+58. (1) The Liquidator shall summon all meetings of creditors and contributories by sending by post not less than seven days before the day appointed for the meeting to every person appearing by the company's books to be a creditor of the company notice of the meeting of creditors and to every person appearing by the company's books or otherwise to be a contributory of the company notice of the meeting of contributories.
+
+(2) The notice to each creditor shall be sent to the address given in his proof, or if he has not proved, to the address given in the statement of affairs of the company, if any, or to such other address as may be known to the person summoning the meeting. The notice to each contributory shall be sent to the address mentionedin the company's books as the address of such contributory or to such other address as may be known to the Liquidator.
+
+(3) In the case of meetings under section 270 any creditor may summon the meeting.
+
+(4) This rule shall not apply to meetings under section 266 or section 273.

@@ -1,0 +1,3 @@
+Workmen's wages
+
+111. In any case in which it appears that there are numerous claims for wages by workmen and others employed by the company, it shall be sufficient if one proof for all such claims is made either by a foreman or by a trades union official or by some other person on behalf of all such creditors. Such proof, which shall be in the Form No. 41, shall have annexed thereto as forming part thereof, a schedule setting forth the names of the workmen and others and the amounts severally due to them. Any proof made in compliance with this rule shall have the same effect as if separate proofs had been made by each of the said workmen and others.
