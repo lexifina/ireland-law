@@ -1,0 +1,3 @@
+Article 3
+
+3. The quota appointed by the Control of Imports (Quota No. 33, Fourth Period) Order, 1938, in respect of the fourth quota period appointed by that Order is hereby increased by one hundred thousand square yards of the articles to which the Control of Imports (Quota No. 33) Order, 1937, applies, to the intent that the said one hundred thousand square yards of the said articles shall be an additional quota in respect of the said fourth quota period and the total quota in respect of the said fourth quota period shall be five hundred thousand square yards of the articles to which the Control of Imports (Quota No. 33) Order, 1937, applies.
