@@ -1,0 +1,5 @@
+Regulation 4
+
+4. (1) Regulations 7 and 11 (which relate to the affixing of EEC initial verification marks to instruments and the inspection of instruments to which such marks are affixed) of the Regulations shall apply to hot-water meters to which the Council Directive applies as they apply to the instruments covered by those Regulations, subject to the modifications that in those Regulations references to inspectors shall be construed as references to inspectors under the Weights and Measures Acts, 1878 to 1961, and officers of the Institute for Industrial Research and Standards and references to the special provisions applicable to an instrument of its category and the requirements prescribed shall be construed as references to the requirements in relation to an instrument of its category specified in the Annex to the Council Directive.
+
+(2) Paragraphs 2 and 3 (which relate to the affixing of EEC pattern approval symbols to instruments) of Schedule 2 of the Regulations shall apply to hot-water meters to which the Council Directive applies as they apply to instruments covered by those Regulations.
