@@ -1,0 +1,5 @@
+Expenses of Comptroller, auditor and Committee.
+
+18.—(1) The expenses of and incidental to the performance of the functions of the Comptroller and an auditor appointed under section 2 and the expenses of the Committee shall, with the consent of the Minister, be defrayed in the first instance out of moneys provided by the Oireachtas but the High Court may direct, on application to it in that behalf by the Minister, that a financial institution referred to in section 2(1) shall be liable, to such extent as that Court may direct, to pay to the Minister such amount not exceeding the aggregate amount of the expenses aforesaid as it may determine, and the Minister shall pay any amount paid to him or her pursuant to this subsection into the Exchequer.
+
+(2) The Committee may, if it thinks fit, having regard to any reports of the Comptroller under section 2 and to any evidence obtained by the Committee in relation to matters arising therefrom submit to the High Court a recommendation as to the directions (if any) that it considers appropriate, having regard to examinations and investigations under that section, to be given under subsection (1).

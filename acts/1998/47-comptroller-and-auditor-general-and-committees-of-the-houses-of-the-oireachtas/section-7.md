@@ -1,0 +1,7 @@
+Power of auditor to require information as to persons interested in shares or debentures.
+
+7.—(1) If it appears to an auditor appointed under section 2 that it is necessary for the purposes of the performance of his or her functions under this Act to investigate the ownership of any shares in or debentures of a company, he or she may require any person whom he or she has reasonable cause to believe to have or to be able to obtain any information as to the present and past interests in those shares or debentures and the names and addresses of the persons having those interests and of any persons who act or have acted on their behalf in relation to the shares or debentures to give the information to the auditor.
+
+(2) For the purposes of this section a person shall be deemed to have an interest in a share or debenture if he or she has any right to acquire or dispose of the share or debenture or any interest therein or to vote in respect thereof or if his or her consent is necessary for the exercise of any of the rights of other persons interested therein or if the other persons interested therein can be required or are accustomed to exercise their rights in accordance with his or her instructions.
+
+(3) A person who fails to give any information required of him or her under this section that he or she has or is able to obtain or who in giving any such information makes any statement which he or she knows to be false in a material particular, or recklessly makes any statement which is false in a material particular, shall be guilty of an offence.
