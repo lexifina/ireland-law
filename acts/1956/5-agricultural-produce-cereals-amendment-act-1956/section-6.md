@@ -1,0 +1,3 @@
+Method of computing amount of wheat milled at a mill during preliminary quota period and quota years.
+
+6.—Subsection (1) of section 5 of the Agricultural Produce (Cereals) Act, 1935 (No. 26 of 1935), shall, as respects any preliminary period or quota year which is unexpired on the day of the commencement of this Act or begins on or after that day, have effect as if it provided that the amount of wheat milled at the particular licensed mill during that period or year (as the case may be) shall be taken to be an amount of wheat the weight of which is equal to the aggregate of the weights of flour, wheaten meal and other products (including wheaten offals) produced at that mill in that period or year (as the case may be).
