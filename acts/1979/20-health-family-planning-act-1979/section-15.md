@@ -1,0 +1,3 @@
+Offences by bodies of persons.
+
+15.—Where an offence under this Act is committed by a body corporate or by a person purporting to act on behalf of a body corporate or an unincorporated body of persons and the offence is proved to have been committed with the consent or approval of, or to have been facilitated by any neglect on the part of any person, who when the offence was committed was a director, member of the committee of management or other controlling authority of the body concerned, or the manager, secretary or other officer of the body, that person shall also be deemed to have committed the offence and may be proceeded against and punished accordingly.
