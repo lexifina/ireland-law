@@ -1,0 +1,3 @@
+Article 1
+
+1. This Order may be cited for all purposes as the Agricultural Produce (Cereals) Act, 1934 (Operation of Part IV) Order, 1934.
