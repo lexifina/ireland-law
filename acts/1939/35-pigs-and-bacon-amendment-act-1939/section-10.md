@@ -1,0 +1,3 @@
+Civil Servants seconded to the Commission.
+
+10.—Where a person serving in the Civil Service of the Government is appointed (either in a whole-time or part-time capacity) a member or officer of the Commission, the Commission shall recoup to the Exchequer in such manner as the Minister for Finance may direct the salary of such person or such proportion thereof as the said Minister shall determine and also such charges in respect of superannuation and other allowances and gratuities payable under the Superannuation Acts for the time being in force to or in respect of such person as the said Minister shall determine to be proper.

@@ -1,0 +1,5 @@
+Admissibility in evidence of books of abolished boards.
+
+33.—(1) All books and other documents directed or authorised by or under the Acts to be kept by any abolished board and which immediately before the transfer date, would be receivable in evidence shall, notwithstanding the dissolution of such abolished board, be admitted in evidence as fully as if this Act had not been passed.
+
+(2) Where an extract from or a certificate of the contents of any book or other documents directed or authorised by the Acts to be kept by an abolished board would, if verified in a particular manner by a particular officer of such abolished board, have been admissible before the transfer date as evidence of such contents, an extract from or a certificate of the contents of such book or document shall, if verified in such particular manner by the officer of the Commission corresponding to such particular officer, be admitted, on or after the transfer date, as evidence of such contents to the same extent as such first-mentioned extract or certificate would have been so admitted if this Act had not been passed.

@@ -1,0 +1,3 @@
+Preservation of continuing contracts.
+
+28.—Every bond, guarantee, or other security of a continuing nature made or given by an abolished board to any person, or by any person to such abolished board, and in force immediately before the transfer date, and every contract or agreement in writing made between an abolished board and another person and not fully executed and completed before the transfer date shall, notwithstanding the dissolution of such abolished board continue in force on and after the transfer date, but shall be construed and have effect as if the name of the Commission were substituted therein for the name of such abolished board and such security, contract, or agreement shall be enforceable by or against the Commission accordingly.

@@ -1,0 +1,3 @@
+Amendment of section 55 of the Act of 1937.
+
+55.—In making any appointed price order or appointed price (amending) order on or after the transfer date under section 55 of the Act of 1937, the Commission shall, in addition to the matters mentioned in sub-section (4) of the said section, have regard to the liabilities of licensees under section 28 (which relates to fees payable by licensees to the Minister in respect of pigs presented for veterinary examination) of the Act of 1935 and section 34 (which relates to levies payable to the Commission in respect of carcases used for the production of bacon by licensees) of this Act.

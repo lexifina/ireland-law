@@ -1,0 +1,7 @@
+Levies in respect of pigs purchased by licensees.
+
+37.—(1) Every person who holds or has held a licence shall, for each month commencing on or after the transfer date during the whole or any part of which he held such licence, pay to the Commission a levy, equivalent to the sum for the time being fixed as the insurance allowance by an order made or deemed to have been made by the Commission under section 58 of the Act of 1937, for each pig purchased by him and brought on to the premises to which such licence relates during such month.
+
+(2) The Commission may, whenever and so often as it is of opinion that the moneys standing to the credit of the Insurance Fund are not sufficient to meet the claims made or likely to be made under Chapter III of this Part of this Act, by order declare that every person who holds or has held a licence shall, for a specified period, ending on or before the date of such order, during the whole or any part of which he has held such licence, pay to the Commission a levy, at the rate specified in such order, for each pig purchased by him during such period, and whenever any such order is made every person who holds or has held a licence shall, for the period specified in such order during the whole or any part of which he held such licence, pay to the Commission a levy at the rate specified in such order for each pig purchased by him during such period.
+
+(3) Any moneys paid to the Commission under this section shall be paid into the Insurance Fund.
