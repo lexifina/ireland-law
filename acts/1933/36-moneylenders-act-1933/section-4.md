@@ -1,0 +1,3 @@
+Moneylending contracts where interest not expressed in terms of a rate.
+
+4.—Where by a contract for the loan of money by a moneylender the interest charged on the loan is not expressed in terms of a rate, any amount paid or payable to the moneylender under the contract shall be appropriated to principal and interest in the proportion that the principal bears to the total amount of the interest, and the rate per cent, per annum represented by the interest charged as calculated in accordance with the provisions of the First Schedule to this Act shall be deemed to be the rate of interest charged on the loan.
