@@ -1,0 +1,5 @@
+Amendment of section 5 of Act of 1962.
+
+8.—Section 5 of the Act of 1962 is hereby amended by the substitution of the following subsection for subsection (1):
+
+“(1) Subject to subsection (2) of this section, the Minister for Finance may, on the recommendation of the Minister, and until, but only until, the time when the total expenditure of the Board for the electrification of rural areas amounts to the sum of forty-two million pounds, advance to the Board, as and when requested by the Board to do so, three-quarters of the capital expenditure incurred by the Board, whether before or after the passing of this Act, after the 17th day of April, 1962, in connecting premises to systems of distribution for electricity in rural areas to which a supply of electricity has previously been extended, and three-quarters of the capital expenditure incurred by the Board, whether before or after the passing of this Act, after the said 17th day of April, 1962, in improving systems of distribution for electricity in rural areas to which a supply of electricity has previously been extended.”
