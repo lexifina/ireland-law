@@ -1,0 +1,3 @@
+Construction of the Principal Act and this Act.
+
+2.—The Principal Act and this Act shall be read and construed as one Act, and accordingly expressions and words used in this Act which are also used in the Principal Act have the same meanings in this Act as they respectively have in the Principal Act, save that in this Act the expression “local authority” includes any body of persons having power under an Act of the Parliament of Ireland or any local or personal Act of the United Kingdom Parliament or any private Act of the Oireachtas to assess and levy a rate on land or on persons in respect of their occupation of land.
