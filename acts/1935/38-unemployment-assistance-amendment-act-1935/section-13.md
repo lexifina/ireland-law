@@ -1,0 +1,9 @@
+Amendment of section 20 of the Principal Act.
+
+13.—(1) Sub-section (3) of section 20 of the Principal Act is hereby amended by the deletion of the words “and in the prescribed manner” now contained therein, and the said sub-section shall be construed and have effect accordingly.
+
+(2) Where the action of an unemployment assistance officer in pursuance of a recommendation made to him by a court of referees under section 20 of the Principal Act, or a determination by the Umpire under the said section or a reversal or revision of any previous determination by any such officer or by the Umpire under the said section has the effect of refusing or decreasing unemployment assistance previously allowed (whether before or after the passing of this Act), the following provisions shall have effect—
+
+(a) in case such unemployment assistance officer or the Umpire (as the case may be) is satisfied that the original determination was made on account of or in consequence of any statement or representation (whether written or verbal) made by the person to whom such original determination relates which was to such person's knowledge false or misleading in any material respect or on account of or in consequence of the concealment by such person of any material facts, such action, determination, reversal or revision shall (whether such person has or has not been convicted of an offence under section 29 of the Principal Act or the said section, as amended by this Act, in relation to such statement, representation or concealment) have effect as from the date of the original determination by the unemployment assistance officer or such later date (if any) as may, in the case of a determination, reversal or revision by the Umpire, be fixed by the Umpire or, in any other case, by the unemployment assistance officer;
+
+(b) in any other case, such action, determination, reversal or revision shall take effect from the date thereof.
