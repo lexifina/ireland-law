@@ -1,0 +1,7 @@
+Sending of polling cards by returning officers.
+
+2.—(1) Whenever, at a general election of members of Dáil Eireann held during the present national emergency, the election in any constituency is adjourned for the purpose of taking a poll, the returning officer for such constituency shall send by post in accordance with this Act to every elector whose name is on the register of Dáil electors for such constituency and is not on the postal voters' list for such constituency a card (in this Act referred to as a polling card) in the prescribed form informing such elector of his number (including polling district letter) on such register and of the situation of the polling place in which such elector will be entitled to vote at such election.
+
+(2) Every polling card sent under this Act to an elector in any constituency shall be addressed to such elector by the name and at the address by and in respect of which he is registered in the register of Dáil electors for that constituency and shall be sent at such time that it would be delivered in the ordinary course of post at that address not later than the third day before the polling day at the election to which it relates.
+
+(3) Every polling card shall be delivered by the returning officer to the nearest Head Post Office or such other post office as may be arranged with the Head Postmaster and shall immediately be forwarded free of charge by the Head Postmaster or the postmaster of such other post office (as the case may be) for delivery to the person to whom it is addressed.
