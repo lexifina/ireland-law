@@ -1,0 +1,3 @@
+Article 2
+
+2. Interpretation generally.
