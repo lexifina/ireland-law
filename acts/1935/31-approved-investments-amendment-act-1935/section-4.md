@@ -1,0 +1,5 @@
+Provision for further extensions of periods in the Principal Act.
+
+4.—(1) The Minister may, whenever and so often as he shall think proper, by order made after consultation with the Chairman of the Investments Advisory Committee extend by such period as he shall think fit and shall specify in such order all or any of the following periods, that is to say, the several periods of four years from the passing of the Principal Act respectively mentioned in sub-sections (1) and (2) of section 6 and sub-section (1) of section 7 of the Principal Act as amended by this Act, and the period of four years and six months from the passing of the Principal Act mentioned in sub-section (3) of section 9 of the Principal Act as amended by this Act.
+
+(2) Whenever the Minister makes an order under this section extending any of the periods mentioned in the foregoing sub-section of this section, the sub-section of the Principal Act (as amended by this Act) in which such period is mentioned shall be construed and have effect as if the said period as extended by such order were substituted in such sub-section (as so amended) for the period actually mentioned therein.

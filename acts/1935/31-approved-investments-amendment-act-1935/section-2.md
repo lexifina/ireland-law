@@ -1,0 +1,3 @@
+Extension of periods in sections 6 and 7 of the Principal Act.
+
+2.—The period of two years from the passing of the Principal Act mentioned in sub-section (1) of section 6 of the Principal Act, and the like period mentioned in sub-section (2) of the said section 6, and the like period mentioned in sub-section (1) of section 7 of the said Act are hereby severally extended by two years, and for that purpose the said sub-sections (1) and (2) of the said section 6 and sub-section (1) of the said section 7 are hereby severally amended by the substitution of the words “four years” for the words “two years” wherever the latter words occur in those sub-sections respectively, and the said sections 6 and 7 shall be construed and have effect accordingly.
