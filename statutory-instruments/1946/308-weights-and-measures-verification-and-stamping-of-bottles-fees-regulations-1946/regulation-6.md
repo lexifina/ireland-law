@@ -1,0 +1,3 @@
+Regulation 6
+
+6. Where an ex-officio inspector of weights and measures who has been duly appointed for the purpose as a special inspector under the provisions of the Weights and Measures Act, 1928 , verifies and stamps bottles to which that Act applies, not being less than twenty gross in number, on the premises of the owner of the bottles and all necessary and reasonable accommodation and manual assistance required by the special inspector are provided by the said owner, the fees payable for the verification and stamping of the bottles shall be calculated at the rate of 4s. 0d. per gross of the bottles.
