@@ -1,0 +1,3 @@
+Amendment of section 13 (certain offences in relation to dies and stamps provided by Commissioners to be felonies) of Management Act of 1891.
+
+152.—Section 13 of the Management Act of 1891 is hereby amended by the substitution of “shall be guilty of an offence and section 1078 (which relates to revenue offences) of the Taxes Consolidation Act, 1997, shall for the purposes of such offence be construed in all respects as if such offence were an offence under subsection (2) of that section” for “shall be guilty of felony, and shall on conviction be liable to be kept in penal servitude for any term not exceeding fourteen years, or to be imprisoned with or without hard labour for any term not exceeding two years”.

@@ -1,0 +1,3 @@
+Amendment of section 9 (penalty for frauds in relation to adhesive stamps) of Act of 1891.
+
+158.—Section 9 of the Act of 1891 is hereby amended by the substitution of “shall, without prejudice to any other fine or penalty to which that person may be liable, be guilty of an offence and section 1078 (which relates to revenue offences) of the Taxes Consolidation Act, 1997, shall for the purposes of such offence be construed in all respects as if such offence were an offence under subsection (2) of that section” for “shall, in addition to any other fine or penalty to which he may be liable, incur a fine of 1,000 pounds”.

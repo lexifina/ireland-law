@@ -1,0 +1,3 @@
+Amendment of section 21 (penalty for frauds in relation to duties) of Management Act of 1891.
+
+155.—Section 21 (as amended by the Finance Act, 1991) of the Management Act of 1891 is hereby amended by the substitution of “with intent to defraud the State of any duty shall be guilty of an offence and section 1078 (which relates to revenue offences) of the Taxes Consolidation Act, 1997, shall for the purposes of such offence be construed in all respects as if such offence were an offence under subsection (2) of that section” for “with intent to defraud Her Majesty of any duty shall incur a fine of 1,000 pounds”.

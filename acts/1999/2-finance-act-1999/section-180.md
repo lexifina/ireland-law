@@ -1,0 +1,3 @@
+Amendment of section 74 (stamp duty on gifts inter vivos) of Finance (1909-10) Act, 1910.
+
+180.—Section 74 of the Finance (1909-10) Act, 1910, is hereby amended in subsection (2) by the substitution of “no such conveyance or transfer shall, notwithstanding section 14 of the Principal Act, be given in evidence, except in criminal proceedings or in civil proceedings by the Commissioners to recover stamp duty, or be available for any purpose unless it is stamped in accordance with subsection (3) or subsection (4) of section 12 of the Principal Act” for “no such conveyance or transfer shall be deemed to be duly stamped unless the Commissioners have expressed their opinion thereon in accordance with that section”.
