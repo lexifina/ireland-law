@@ -1,0 +1,3 @@
+Article 3
+
+3. A duty of customs at the rate of an amount equal to thirty-seven and one-half per cent. of the value of the article shall be charged, levied, and paid on all wheels made of wrought iron or of steel which are imported on or after the 14th day of December, 1938, and are, in the opinion of the Revenue Commissioners, suitable for use for wheel-barrows or for hand-propelled carts or trucks and are not less than eight inches nor more than sixteen inches in external diameter and are not otherwise liable to duty, but excluding flanged wheels and wheels fitted with, or constructed for the attachment of, rubber tyres.
