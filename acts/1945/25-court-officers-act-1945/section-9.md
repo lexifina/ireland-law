@@ -1,0 +1,11 @@
+Court officer performing the duties of another office.
+
+9.—(1) Where on the passing of this Act there is a vacancy in an office attached to any court or after the passing of this Act a vacancy occurs in an office attached to any court or the holder of an office attached to any court is absent or incapacitated, the Minister may, subject to subsection (2) of this section, require and authorise any officer attached to that or any other court to perform, during a specified period or until otherwise directed by the Minister, the duties (in addition to his own duties) of such office.
+
+(2) The power conferred on the Minister by subsection (1) of this section shall, where the officer required to perform the duties of another office is attached to the Supreme Court, be exercised only after consultation with the Chief Justice and shall, where such officer is attached to the High Court, be exercised only after consultation with the President of the High Court.
+
+(3) Whenever an officer is required under this section to perform the duties of another office, he shall, while the requisition remains in force, have all the powers of the holder of that office as fully as if he had been appointed thereto.
+
+(4) Where an officer attached to a court has, before the passing of this Act, performed by direction of the Minister the duties of another office (whether attached to the same or to another court) in addition to his own duties, he shall be deemed while so performing those duties to have had all the powers of the holder of that office as fully as if he had been appointed thereto and nothing done by him in the execution of those duties shall be questioned, or be deemed ever to have been capable of being questioned, on the ground that he had not been appointed to that office.
+
+(5) Where at the passing of this Act an officer attached to a court is performing by direction of the Minister the duties of another office (whether attached to the same or to another court) in addition to his own duties, he shall, as from the passing of this Act, be deemed to have been required and authorised under this section to perform those duties and this section shall apply and have effect in relation to him accordingly.
