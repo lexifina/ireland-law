@@ -1,0 +1,3 @@
+Rule 6
+
+6. If upon reading the affidavits and documents lodged by the applicant or by the applicant and the solicitor respectively, the Committee decide that no prima facie case has been shown the clerk shall inform the applicant and the solicitor in writing of the decision of the Committee and the Committee shall take no further action upon the application; but if on reading the affidavits and documents lodged the Committee are of opinion that the charge preferred by the applicant should be more fully investigated the clerk shall send to the applicant and to the solicitor fourteen days' notice of the day for hearing of the application in forms numbers DC 6 and DC 7 in the schedule.
