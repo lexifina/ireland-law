@@ -1,0 +1,3 @@
+Power to grant loans.
+
+5.—Wherever the Minister for Industry and Commerce could, after the passing of this Act, guarantee under section 1 of the Act of 1924 as amended by this Act a loan proposed to be raised by any such person as is mentioned in sub-section (1) of that section as so amended, the said Minister may, if he thinks fit with the sanction of the Minister for Finance and subject to the limitations imposed by the Principal Acts as amended and extended by this Act, himself grant such loan upon such terms and conditions as to time and manner of repayment, rate of interest, security, and other matters whatsoever as he shall with the sanction aforesaid think proper.
