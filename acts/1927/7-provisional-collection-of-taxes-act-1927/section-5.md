@@ -1,0 +1,7 @@
+Repayment of certain payments and deductions.
+
+5.—(1) Whenever a resolution under this Act ceases to have statutory effect by reason of the happening of any event other than the coming into operation of an Act of the Oireachtas containing provisions to the same effect (with or without modification) as the resolution, all moneys paid in pursuance of the resolution shall be repaid or made good and every deduction made in pursuance of the resolution shall be deemed to be an unauthorised deduction.
+
+(2) Whenever a resolution under this Act which has not ceased to have statutory effect is agreed to by Dáil Eireann with modifications, all moneys paid in pursuance of the resolution which would not be payable under the resolution as so agreed to shall be repaid or made good and every deduction made in pursuance of the resolution which would not be authorised by the resolution as so agreed to shall be deemed to be an unauthorised deduction.
+
+(3) Whenever an Act of the Oireachtas comes into operation containing provisions to the same effect with modifications as a resolution under this Act and such resolution ceases by virtue of such coming into operation to have statutory effect, all moneys paid in pursuance of such resolution which would not be payable under such Act shall be repaid or made good and every deduction made in pursuance of such resolution which would not be authorised by such Act shall be deemed to be an unauthorised deduction.

@@ -1,0 +1,7 @@
+Application of general taxing enactments.
+
+3.—(1) Whenever a new tax is imposed by a resolution under this Act and such resolution describes the tax as a duty of customs or as a duty of excise or as an income tax or as a supertax, the enactments which immediately before the end of the previous financial year were in force in relation to customs duties generally, or excise duties generally, or income tax generally, or super-tax generally (as the case may require) shall, subject to the provisions of this Act, apply to and have full force and effect in respect of such new tax so long as the resolution continues to have statutory effect.
+
+(2) Whenever a permanent tax is increased, reduced, or otherwise vaired by a resolution under this Act, all enactments which were in force with respect to that tax immediately before the end of the previous financial year shall, so long as the resolution continues to have statutory effect and subject to the provisions of this Act, have full force and effect with respect to the tax as so increased, reduced, or otherwise varied.
+
+(3) Whenever a temporary tax is renewed (whether at the same or a different rate and whether with or without modification) by a resolution under this Act, all enactments which were in force with respect to that tax immediately before the end of the previous financial year shall, so long as the resolution continues to have statutory effect and subject to the provisions of this Act, have full force and effect with respect to the tax as renewed by the resolution.
