@@ -1,0 +1,5 @@
+Exemption from tax of premiums on certain securities.
+
+63.—(1) The excess of the amount received on the redemption of a unit of securities to which this section applies over the amount paid for the unit on its issue shall, save where the excess falls to be taken into account in computing for the purposes of taxation the profits of a trade, be exempt from income tax (including sur-tax) and corporation profits tax.
+
+(2) The securities to which this section applies are securities created and issued by the Minister for Finance under the Central Fund (Permanent Provisions) Act, 1965, or any other powers in that behalf him enabling, and any stock, debenture, debenture stock, certificate of charge, or other security, which is issued with the approval of the Minister for Finance given under any Act of the Oireachtas and in respect of which the payment of interest and the repayment of capital is guaranteed by the Minister for Finance under that Act, but excluding securities to which section 4 of the Central Fund Act, 1965, section 465 of the Income Tax Act, 1967, or section 8 of the Finance (No. 2) Act, 1968, applies.
