@@ -1,0 +1,3 @@
+Article 66
+
+66. A service occupying less than an hour will be charged for as one hour, according to the scale. For services exceeding one hour, a quarter fee will be charged for every quarter or part quarter of an hour, according to the scale, but for a service exceeding ten hours in any one case the charge will be limited to last for ten hours. These charges cover the services of all the Surveyors engaged in the survey, except that if the services of an Engineer Surveyor in addition to those of an Emigration Officer are required before an emigrant ship can be cleared, the survey made by the Engineer Surveyor will be regarded as a separate one, and overtime charges will be made in respect of both officers.

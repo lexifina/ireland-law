@@ -1,0 +1,3 @@
+Article 28
+
+28. The fees paid in accordance with scales (a) and (b) cover any number of visits that the Surveyor may find it necessary to make before he is able to fill up the formula of tonnage and grant his certificate to enable a vessel to obtain registry. It also covers the inspection of crew spaces and lights and sound signals, if the Surveyor is able to make these inspections on the occasion on which the measurement is performed, but not otherwise. For any further visits necessary for the completion of inspection of crew spaces and lights and sound signals, further fees in accordance with paragraphs 30 and 38 will be charged.
