@@ -1,0 +1,3 @@
+Regulation 5
+
+5. As regards any administrative expenses incurred by a Minister in the financial year commencing on the 1st day of April, 1936, or any subsequent financial year, there shall be paid out of the Fund by way of payment on account, on or before the last day of each quarter or, with the approval of the Minister for Finance, the last day of each half-year in such financial year, and applied as an appropriation-in-aid of the Vote bearing those expenses, a sum equivalent to the amount, as nearly as can be estimated, of the administrative expenses incurred by such Minister during such quarter or half-year, as the case may be.
