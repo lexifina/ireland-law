@@ -1,0 +1,3 @@
+Preservation of continuing contracts.
+
+37.—Every bond, guarantee, or other security of a continuing nature made or given for the purposes of the undertaking by the Minister to any person or by any person to the Minister and in force immediately before the appointed day, and every contract or agreement in writing made for the purposes of the undertaking between the Minister and another person and not fully executed and completed before the appointed day shall continue in force on and after the appointed day, but shall be construed and have effect as if the name of the Company were substituted therein for the name of the Minister, and such security, contract, or agreement shall be enforceable by or against the Company accordingly.

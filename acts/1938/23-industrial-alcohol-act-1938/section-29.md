@@ -1,0 +1,5 @@
+Local inquiries into applications for transport works order.
+
+29.—(1) Whenever an application is made to the Minister for a transport works order the Minister shall appoint an officer of the Minister to hold a public inquiry into such application in the locality in which it is proposed to construct the transport works the subject of the application, and the Company, every owner, lessee and occupier of the land on or over which it is proposed to construct such transport works, every local authority within whose area such works are intended to pass, and every other person who, in the opinion of such officer, is substantially interested in the subject matter of such inquiry shall be entitled to appear and be heard at such inquiry.
+
+(2) Evidence given before an officer of the Minister appointed to hold an inquiry under this section shall, if such officer so requires, be given on oath (which such officer is hereby empowered to administer) and any person who gives false evidence before any such officer shall be guilty of perjury and punishable accordingly.
