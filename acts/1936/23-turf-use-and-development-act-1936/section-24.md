@@ -1,0 +1,5 @@
+Returns to be made by registered coal retailers.
+
+24.—(1) The Minister may by order make regulations requiring registered coal retailers to make periodical returns to the Minister showing the quantities of coal and of turf bought by them, the quantities of coal and of turf sold by them, and such other matters relating to the purchase or the sale of such coal or of such turf as the Minister shall think proper to specify in such regulations, and the Minister may by such regulations prescribe the persons by whom, the times at which, and the form and manner in which such returns are to be made.
+
+(2) Every person, required by regulations made under this section to make any return, who fails or refuses to make such return in accordance in all respects with such regulations or who makes in any such return any statement which is false or misleading in any material respect shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first such offence, to a fine not exceeding ten pounds, and in the case of a second or any subsequent such offence to a fine not exceeding twenty-five pounds.

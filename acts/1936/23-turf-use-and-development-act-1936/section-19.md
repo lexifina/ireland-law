@@ -1,0 +1,15 @@
+Exemption in respect of turf purchased from the Board.
+
+19.—(1) Whenever a person purchases a particular quantity of turf from an approved source and the Board, society, or company which is such approved source is satisfied that such turf is purchased for consumption for domestic or household purposes by such person in a particular appointed area, such Board, society, or company (as the case may be) shall, if so required by such person, give to such person a certificate, counter-signed by an officer of the Minister, certifying that such person has purchased from such approved source the said quantity of turf for consumption for domestic or household purposes by such person in the said appointed area.
+
+(2) Whenever a person who holds an unexhausted certificate issued to him under this section by the Board or a society or company which is an approved source purchases coal from a coal retailer for consumption for domestic or household purposes in the appointed area mentioned in such certificate and the provisions of this Act relating to the compulsory purchase of turf apply to such purchase of coal, the purchase of turf from an approved source which is the subject of such certificate shall be deemed to be a compliance with the said provisions of this Act so far as the same apply to the said purchase of coal, but not to a greater extent than the quantity of turf in respect of which such certificate is effective at the time of such purchase of coal.
+
+(3) Whenever coal is purchased by any person from a coal retailer and a certificate issued under this section is used by such person as a compliance in respect of such purchase of coal with the provisions of this Act relating to the compulsory purchase of turf, such coal retailer shall endorse on such certificate the prescribed particulars of such purchase of coal, including the quantity of turf which, but for such certificate, would have been required by the said provisions of this Act to have been purchased by such person in respect of such purchase of coal.
+
+(4) A certificate issued under this section shall not relieve the person to whom it is issued from compliance with the provisions of this Act relating to the compulsory purchase of turf unless the endorsement mentioned in the next preceding sub-section of this section is duly made on such certificate on every occasion on which it is used as a compliance with the said provisions of this Act.
+
+(5) For the purposes of this section—
+
+(a) a certificate issued under this section shall be deemed to be unexhausted so long as the total quantity of turf mentioned in the endorsements made on such certificate in pursuance of this section does not exceed the quantity of turf certified by such certificate to have been purchased from an approved source, and
+
+(b) a certificate issued under this section shall be deemed at any particular time to be effective in respect of the quantity of turf by which the quantity of turf certified by such certificate to have been purchased from an approved source exceeds the total quantity of turf mentioned in the endorsements made on such certificate in pursuance of this section.
