@@ -1,0 +1,21 @@
+Powers of Gárda Síochána and sanitary officers.
+
+9.—(1) Any member of the Gárda Síochána may enter any slaughter-house situate in an area in which this Act has effect whenever any animal is being slaughtered or any carcase is being dressed therein or at any other reasonable time, and any officer (duly authorised in this behalf) of a sanitary authority in whose functional area or any part of whose functional area this Act has effect may at any such time as aforesaid enter any slaughter-house situate in such area or such part thereof (as the case may be) and such member or such officer may do in such slaughter-house all or any of the following things, that is to say:—
+
+(a) inspect such slaughter-house and the plant, appliances, and equipment therein and all animals and carcases of animals in such slaughter house;
+
+(b) observe all or any of the processes used in the business carried on in such slaughter-house;
+
+(c) demand from the occupier or the person for the time being in charge of such slaughter-house the name and address of the person by whom any animal is about to be or is being or was slaughtered in such slaughter-house;
+
+(d) demand of any person in such slaughter-house whether he does or does not hold a slaughter licence and, if such person states that he holds a slaughter licence, demand of him the production of such licence or, if such person states that he does not hold a slaughter licence demand of him his name and address.
+
+(2) Whenever any officer (duly authorised in this behalf) of a sanitary authority in whose functional area or any part of whose functional area this Act has effect or any member of the Gárda Síochána suspects or believes that, at any time after the commencement of this Act in such area or such part thereof (as the case may be) an animal was slaughtered by a particular person in such area or such part thereof, such officer or member may at any time and in any place demand of such person whether he did or did not hold a slaughter licence at the time of the said slaughter of such animal and, if such person states that he did hold a slaughter licence at that time, demand of him the production of such licence or, if such person states that he did not hold a slaughter licence at that time, demand of him his name and address.
+
+(3) Every person who obstructs or interferes with a member of the Gárda Síochána or an officer of a sanitary authority in the exercise of a power conferred on him by this section, or who fails or refuses to comply with a demand made to him under this section by any such member or officer, or who, in pretended compliance with any such demand, makes a statement which is to his knowledge false or misleading in a material respect, shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding five pounds.
+
+(4) Whenever any person, on demand being made of him under this section by a member of the Gárda Síochána or by an officer of a sanitary authority, refuses or fails to state whether he does or does not hold a slaughter licence at the time of the making of such demand or refuses or fails to produce a slaughter licence which he states to be then held by him, such refusal or failure (as the case may be) shall be evidence until the contrary is proved, that such person did not hold a slaughter licence at the time when such demand was so made of him.
+
+(5) Whenever any person, on demand being made of him under this section by a member of the Gárda Síochána or by an officer of a sanitary authority, refuses or fails to state whether he did or did not hold a slaughter licence at a time specified by such member or officer in such demand or refuses or fails to produce a slaughter licence which such person states he held at the said time so specified, such refusal or failure (as the case may be) shall be evidence, until the contrary is proved, that such person did not hold a slaughter licence at the said time so specified.
+
+(6) For the purposes of this section a person shall not be deemed to comply with a demand made under this section for production of a slaughter licence unless he allows the member of the Gárda Síochána or the officer of a sanitary authority making such demand to read, inspect, and examine such licence for a reasonable time.

@@ -1,0 +1,3 @@
+Duties of veterinary officers.
+
+6.—Every veterinary officer, appointed under section 11 of the Public Health (Ireland) Act, 1878, as amended by Section 22 of the Local Government Act, 1925 (No. 5 of 1925), by a sanitary authority charged with the duty of carrying out and enforcing the provisions of this Act, shall perform in the functional area of such sanitary authority or in the portion of such area in which this Act has effect such duties in relation to the carrying out and enforcing the provisions of this Act as shall from time to time be assigned to him by the Minister or by such sanitary authority with the consent of the Minister.
