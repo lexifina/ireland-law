@@ -1,0 +1,5 @@
+Expenses of local returning officers in relation to 1945 local elections.
+
+12.—(1) The charges of the local returning officer for a constituency for services and expenses rendered or incurred by him for the purposes or in connection with the taking of the poll at the 1945 local election of members of a local authority shall, for the purposes of section 21 of the Act of 1937, be deemed to be charges for services and expenses rendered or incurred by him for the purposes of or in connection with the taking of the poll at the 1945 presidential election, but the Minister for Finance shall apportion to that local authority such part of the said charges as are in his opinion referable to the services and expenses incurred by the local returning officer for the purposes of or in connection with the taking of the poll at such 1945 local election, and that local authority shall pay to the Minister for Finance the part so apportioned to it.
+
+(2) Any moneys received by the Minister for Finance under this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the said Minister may direct.
