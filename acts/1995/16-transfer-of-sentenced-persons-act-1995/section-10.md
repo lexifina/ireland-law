@@ -1,0 +1,5 @@
+Applications for transfer into or out of State.
+
+10.—(1) In deciding whether or not to grant an application under section 4 (1) of this Act or to consent to an application under subsection (1) or (2) of section 6 of this Act the Minister shall not, without good reason, discriminate between applicants on the grounds of gender, marital or parental status, racial origin, age, political opinions or religious or other beliefs, health or sexual life, taking into account the operational requirements of the prison service and the welfare of the applicant.
+
+(2) Where the Minister decides not to grant an application under section 4 (1) of this Act or consent to an application under subsection (1) or (2) of section 6 of this Act, the Minister shall notify the applicant or the requesting state, as the case may be, of such decision and such notification shall, where practicable and where the interests of justice do not preclude so doing, include a statement specifying the grounds for such decision.
