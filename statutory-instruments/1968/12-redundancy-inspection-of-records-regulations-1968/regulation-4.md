@@ -1,0 +1,3 @@
+Regulation 4
+
+4. The occupier of any premises or place in which documents or records liable to inspection under these Regulations are deposited, and any person who is or has been employing a person who is or was an eligible employee, and the servants and agents of any such occupier or other person, and any such eligible employee, shall furnish to an officer all such information and shall produce to an officer for inspection all such registers, cards, wages sheets, records of wages and other documents as the officer may reasonably require for the purpose of ascertaining whether the Act (or any order thereunder) is being or has been complied with.
