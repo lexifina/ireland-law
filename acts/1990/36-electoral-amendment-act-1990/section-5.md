@@ -1,0 +1,5 @@
+Temporary arrangements with respect to register of electors.
+
+5.—(1) Where a polling district or part of a polling district is situate in a constituency specified in the Schedule to this Act which is identical in area with none of the constituencies existing on the passing of this Act, the Minister may by direction provide for the entry of the name of that constituency in respect of the polling district or part of the polling district, in every draft register, list of claimants, register of electors and list of corrections prepared under Part II of the Electoral Act, 1963, and published by a registration authority before the dissolution of Dáil Éireann which next occurs after the passing of this Act.
+
+(2) Where a constituency specified in the Schedule to this Act is identical in area with none of the constituencies existing at the passing of this Act, a postal voters list or lists and a special voters list or lists shall be prepared in respect of it by the registration authority or registration authorities concerned as soon as may be after such passing.
