@@ -1,0 +1,7 @@
+Grants by Minister.
+
+2.—(1) The Minister may, with the consent of the Minister for Finance, and subject to regulations made under this section, make grants out of moneys provided by the Oireachtas to persons providing and installing in dwelling-houses private water supplies or private sewerage facilities where the provision and installation is commenced after the 1st day of April, 1962.
+
+(2) Where the Minister makes a grant under this section, the valuation of the tenement consisting of or including the dwelling-house, or of any of the tenements consisting of or including the dwelling-houses, shall not, on any valuation or revision of valuation thereof coming into force within seven years after the completion of the provision and installation, be increased on account of any increase in the value of such tenement arising from the provision and installation.
+
+(3) The Minister may make regulations for the purposes of this section.
