@@ -1,0 +1,13 @@
+Repeal of enactments.
+
+2.—(1) The Public Authorities Protection Act, 1893, is hereby repealed.
+
+(2) The enactments specified in the Schedule to that Act are, so far as they relate to the limitation of actions, prosecutions or other proceedings and are not repealed by that Act, hereby repealed.
+
+(3) Section 259 and subsection (4) of section 260 of the Mental Treatment Act, 1945 (No. 19 of 1945), are hereby repealed.
+
+(4) Section 44 of the Great Northern Railway Act, 1953 (No. 17 of 1953), is hereby repealed.
+
+(5) Paragraphs (b), (c), (d), (e) and (f) of subsection (1) of section 111 of the Defence Act, 1954 (No. 18 of 1954), are hereby repealed.
+
+(6) The foregoing repeals shall not affect any action, prosecution or other proceeding if the cause of action accrued before the first day of July, 1954.
