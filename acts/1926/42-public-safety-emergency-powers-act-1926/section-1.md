@@ -1,0 +1,9 @@
+Proclamation of national emergency.
+
+1.—(1) If at any time the Executive Council is of opinion that a national emergency has arisen of such character that it is expedient in the public interest that the provisions of Part II of this Act should be put into force, the Executive Council may by proclamation declare that a state of national emergency exists.
+
+(2) A proclamation made under this Act shall (unless continued under this section) remain in force for three months only and shall then expire, but any such proclamation may from time to time be continued in force for three months by proclamation made by the Executive Council before the expiration of the original proclamation or the last continuance thereof.
+
+(3) If at any time when a proclamation (whether original or continuing) is made under this Act, the Oireachtas or either House thereof stands adjourned to a day and hour more than five days after the making of the proclamation, the proclamation shall be expressed and shall operate to summon the Oireachtas or such House thereof (as the case may be) to reassemble at a convenient hour to be specified in the proclamation on a convenient day to be similarly specified not less than three nor more than five days after the making of the proclamation, and in every such case the Oireachtas or such House thereof, as the case may be, shall reassemble on the day and at the hour so specified as if it had stood adjourned to that day and hour.
+
+(4) Every proclamation made under this section shall be forthwith published in the Iris Oifigiúil and shall also be laid before each House of the Oireachtas as soon as may be after it is made and if either such House shall, within the next subsequent twenty-one days on which that House has sat, pass a resolution revoking such proclamation such proclamation shall forthwith expire but without prejudice to the validity of anything previously done under such proclamation.

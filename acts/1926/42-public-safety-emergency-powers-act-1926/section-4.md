@@ -1,0 +1,7 @@
+Responsible officer may arrest certain persons.
+
+4.—(1) It shall be lawful for a responsible officer to arrest and to detain in custody for any period not exceeding one week any person found committing or attempting to commit or whom such officer suspects of having committed any of the offences mentioned in the Schedule to this Act, and for the purpose of effecting any such arrest to enter on and search any premises in which any such person is known or reasonably believed to be.
+
+(2) It shall be lawful for an Executive Minister subject to the provisions of this Act to order the detention in custody in any place in Saorstát Eireann of any person arrested under this section in respect of whom such Minister certifies in writing that he is satisfied that there is reasonable ground for suspecting such person of being or having been engaged or concerned in the commission of any of the offences mentioned in the Schedule to this Act.
+
+(3) Whenever any person is arrested under this section such person shall, not later than one week after his arrest unless an order for his detention is made by an Executive Minister under this section, either be released, or be charged with one or more of the Offences mentioned in the Schedule to this Act or with any other offence or offences and dealt with according to law, and shall for that purpose, if in military custody, be delivered into civil custody.

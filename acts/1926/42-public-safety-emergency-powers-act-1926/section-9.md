@@ -1,0 +1,3 @@
+Definition of responsible officer.
+
+9.—In this Act the expression “responsible officer” means an officer of the Gárda Síochána or any member of the Gárda Síochána particularly authorised by him or an officer of the Defence Forces of Saorstát Eireann not being below the rank of commandant who may be specifically empowered in any particular case by the Minister for Defence to delegate his powers under this Act to any member of the Defence Forces of Saorstát Eireann not below the rank of sergeant save and except in such cases where a military force has been detailed by the order of a person so empowered to arrest any person or persons in which case every member of such force shall be deemed to possess the powers granted by this Act.
