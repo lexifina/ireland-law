@@ -1,0 +1,5 @@
+Filling of casual vacancies amongst members.
+
+16.—(1) Whenever a vacancy (in this section referred to as a casual vacancy) occurs in the membership of a board by reason of the death, resignation or disqualification of an ordinary member thereof, the chairman shall notify the Minister of such vacancy, and the Minister shall, as soon as may be, appoint, after consultation with such board, such person (being, in case such ordinary member was a producer member, a person registered in the register of producers kept by such board or, in case such ordinary member was a retailer member, a person registered in the register of retailers kept by such board or, in case such ordinary member was a wholesaler member, a person registered in the register of wholesalers kept by such board) as he thinks proper to fill such vacancy.
+
+(2) Every person appointed to fill a casual vacancy shall, unless he sooner dies, resigns or becomes disqualified, hold office as an ordinary member for the residue of the term of office for which the member whose death, resignation or disqualification occasioned the vacancy would have held office if he had not died, resigned or become disqualified.

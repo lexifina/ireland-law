@@ -1,0 +1,3 @@
+Licences.
+
+48.—Where the board for a joint district is satisfied that it is desirable in the public interest that milk should be obtained from producers of milk other than registered producers in respect of such district, the said board may grant to any registered retailer or registered wholesaler in respect of such district a licence to purchase a specified quantity of milk from a person not a registered producer or a registered wholesaler in respect of such district, subject however to the condition that the price to be paid for such milk is not less than the appropriate statutory minimum price.
