@@ -1,0 +1,9 @@
+Issue of bookmakers' licences.
+
+7.—(1) Any person to whom a certificate of personal fitness has been given may, within twenty-one days after the issue of such certificate, apply to the Revenue Commissioners in writing in the prescribed form for a bookmaker's licence commencing on such date (being either the next following 1st day of December or a day not more than fourteen days after the date of the application) as he shall specify in the application.
+
+(2) Every application under this section for a bookmaker's licence shall be accompanied by a photograph of the applicant of the prescribed character and size and taken not more than one year before the date of the application.
+
+(3) Upon delivery to the Revenue Commissioners of an application under this section for a bookmaker's licence and payment to the Revenue Commissioners by the applicant of the excise duty required by law to be paid by persons taking out such licence as is specified in such application, the Revenue Commissioners shall issue to the applicant a bookmaker's licence in accordance with this section.
+
+(4) Every bookmaker's licence shall be in the prescribed form, and shall state the name and place of residence of the person to whom it is issued and shall have affixed thereto by adhesion the photograph of such person required by this section to be sent by him with the application for such licence, and shall operate and be expressed to authorise such person to act and carry on business as a bookmaker during the period commencing on the date specified therein (which shall be the date specified in that behalf in the application for such licence) and ending at midnight on the next following 30th day of November, but subject and without prejudice to all restrictions and prohibitions for the time being imposed by law in respect of the places in which the business of bookmaking may be carried on.

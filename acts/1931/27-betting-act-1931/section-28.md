@@ -1,0 +1,5 @@
+Saving for clerks and assistants in registered premises.
+
+28.—(1) In addition and without prejudice to any provision of this Act permitting a licensed bookmaker to employ an assistant, it shall be lawful for the registered proprietor of registered premises to employ in those premises such clerks and assistants (being persons who are of or over the age of eighteen years or who were employed in such premises by such licensed bookmaker on the 1st day of March, 1931) as shall be reasonably necessary for the carrying on of his business of bookmaking in the said premises provided the amount of the respective remunerations of such clerks and assistants is not wholly or partly dependent on or calculated by reference to the amount of business done or profits made by such registered proprietor.
+
+(2) A person who is employed by the registered proprietor of registered premises as a clerk or assistant in those premises and whose employment as such clerk or assistant is lawful by virtue of this section shall not be deemed to act or carry on business as a bookmaker within the meaning of this Act merely by reason of his acting as such clerk or assistant.

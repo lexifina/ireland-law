@@ -1,0 +1,9 @@
+Removal of premises from register of bookmaking offices.
+
+17.—(1) Whenever the sole registered proprietor of any registered premises ceases to be a licensed bookmaker or ceases to be the proprietor of such premises, the Revenue Commissioners shall, immediately upon such cesser coming to their knowledge, remove the said premises from the register of bookmaking offices.
+
+(2) Whenever a number of persons are registered in the register of bookmaking offices as joint registered proprietors of any registered premises and all such persons cease to be proprietors of such premises, the Revenue Commissioners shall, immediately upon such cesser coming to their knowledge, remove the said premises from the register of bookmaking offices.
+
+(3) Whenever a number of persons are registered in the register of bookmaking offices as joint registered proprietors of any registered premises and all or any one or more of such persons cease or ceases to be licensed bookmakers or a licensed bookmaker, the Revenue Commissioners shall, immediately upon such cesser coming to their knowledge, remove the said premises from the register of bookmaking offices.
+
+(4) Whenever any registered premises are removed from the register of bookmaking offices by the Revenue Commissioners under this section or pursuant to a direction of the court, the person who was the registered proprietor of such premises immediately before such removal shall on demand in writing delivered at or sent by post to such premises deliver or send to the Revenue Commissioners the latest certificate of the registration or renewal of registration of such premises, and every such person who fails so to deliver or send such certificate within seven days after such demand shall be guilty of an offence under this section and shall be liable on summary conviction thereof to an excise penalty of twenty pounds.

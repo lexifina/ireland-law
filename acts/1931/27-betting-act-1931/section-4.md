@@ -1,0 +1,9 @@
+Certificate of personal fitness of resident in Saorstát Eireann.
+
+4.—(1) Any person (other than a body corporate or an unincorporated body of persons) who is ordinarily resident in Saorstát Eireann and desires to obtain a bookmaker's licence may, after publishing the notice hereinafter mentioned, apply in accordance with this section to the superintendent of the Gárda Síochána for the district in which he has or proposes to have an office registered under this Act or, if he has not and does not propose to have any such office, to the superintendent of the Gárda Síochána for the district in which he ordinarily resides for a certificate (in this Act referred to as a certificate of personal fitness) that he is a fit and proper person to hold a bookmaker's licence.
+
+(2) Every person intending to apply under this section for a certificate of personal fitness shall, not less than one fortnight nor more than one month before making such application, publish notice of his intention to make such application at least once in each of two newspapers circulating in the district of the superintendent to whom he intends to make such application.
+
+(3) Every application under this section for a certificate of personal fitness shall be made in the prescribed manner and on the prescribed form and shall be approved of and signed by two Peace Commissioners in the district of the superintendent to whom the application is made.
+
+(4) A superintendent of the Gárda Síochána to whom an application for a certificate of personal fitness is duly made under this section shall, within fourteen days after the receipt of such application, do one or other as he in his discretion shall think proper of the following things, that is to say, either give to the applicant a certificate in the prescribed form that he is a fit and proper person to hold a bookmaker's licence or on any one or more of the grounds hereinafter authorised refuse to give such certificate.
