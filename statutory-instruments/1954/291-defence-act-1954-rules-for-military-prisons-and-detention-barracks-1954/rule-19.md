@@ -1,0 +1,5 @@
+Rule 19
+
+19. Absence of Governor.
+
+SECTION IV.—MEDICAL OFFICERS AND OTHER OFFICERS.
