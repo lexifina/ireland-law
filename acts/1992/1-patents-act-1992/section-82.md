@@ -1,0 +1,7 @@
+Effect of change of proprietorship.
+
+82.—(1) Where there is a complete change of proprietorship of a patent as a result of an order of the Court transferring the patent to one or more persons none of whom immediately before the transfer had a proprietary interest in the patent (on the ground that the patent was granted to a person who was not entitled to be granted the patent), then, subject to subsection (2), licences and other rights which, as regards the relevant patent, were in force immediately before such transfer shall lapse upon the entry in the register of the name of the person or persons entitled to the patent.
+
+(2) Where an order referred to in subsection (1) is made, the Controller shall notify the person or persons registered as proprietor or proprietors of the relevant patent and their licensees (if any) of whom he is aware, of the making of the order, and where the proprietor or proprietors or such a licensee acting in good faith has, before the commencement of the proceedings in which the order is made, used the invention within the State or made effective and serious preparations to do so, he may continue such use if, but only if, he requests, within the period prescribed, a non-exclusive licence under the patent from the new proprietor whose name is entered in the register.
+
+(3) A licence granted under subsection (2) shall be for a reasonable period and upon reasonable terms and failing agreement between the parties concerned the terms of the licence shall be determined by the Controller.

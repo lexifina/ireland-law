@@ -1,0 +1,3 @@
+Annual report.
+
+103.—The Controller shall prepare a report in respect of each year ending 31st December respecting the execution by or under him of this Act and of any other enactment for the administration of which he is responsible and he shall cause the report to be laid before each House of the Oireachtas within 6 months following the end of the year to which it relates. The report shall include, in respect of the year to which it relates, particulars of all rules made in that year under or for the purposes of the said Act or enactments and an account of all fees, salaries and allowances, and other money received and paid under the Act or enactments.

@@ -1,0 +1,5 @@
+Costs and security for costs.
+
+91.—(1) The Controller may, in any proceeding before him under this Act, order the payment to any party of such costs (if any) as he may consider reasonable, and direct how and by what parties they are to be paid, and any such order may be made a rule of court.
+
+(2) If any party by whom notice of any opposition is given to the Controller under this Act or by whom an application is made to the Controller for the revocation of a patent or for the grant of a licence under a patent, or by whom notice of appeal is given from any decision of the Controller under this Act, neither resides nor carries on business in the State or in such other states as may be prescribed, the Controller, or, in the case of an appeal, the Court, may require the party to give security for the costs of the proceedings and in default of a requirement under this subsection being complied with the Controller or the Court, as may be appropriate, may treat the opposition, application or appeal as abandoned.

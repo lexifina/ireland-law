@@ -1,0 +1,5 @@
+Proceedings for infringement by exclusive licensee.
+
+51.—(1) Subject to the provisions of this section, the holder of an exclusive licence under a patent shall have the like right as the proprietor of the patent to take proceedings in respect of any infringement of the patent committed after the date of the licence, and in awarding damages or granting any other relief in any such proceedings the Court shall take into consideration any loss suffered or likely to be suffered by the exclusive licensee as a result of the infringement or, as the case may be, the profits derived from the infringement, so far as it constitutes an infringement of the rights of the exclusive licensee as such.
+
+(2) In any proceedings taken by the holder of an exclusive licence by virtue of this section the proprietor of the relevant patent shall, unless he is joined as plaintiff in the proceedings, be added as defendant; provided that a proprietor added as a defendant in pursuance of this subsection shall not be liable for any costs unless he enters an appearance and takes part in the proceedings.

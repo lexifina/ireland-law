@@ -1,0 +1,7 @@
+Restrictions on recovery of damages for infringement.
+
+49.—(1) In proceedings for the infringement of a patent damages shall not be awarded, and no order shall be made for an account of profits, against a defendant who proves that at the date of the infringement he was not aware, and had no reasonable grounds for supposing, that that patent existed, and a person shall not be deemed to have been so aware or to have had reasonable grounds for so supposing by reason only of the application to a product of the word “patent” or “patented” or any word or words expressing or implying that a patent has been obtained for the product, unless the number of the relevant patent accompanied the word or words in question.
+
+(2) In proceedings for infringement of a patent the Court may, if it thinks fit, refuse to award any damages or make any order in respect of any infringement committed during an extension period specified in a request under subsection (3) of section 36 but before the payment of the renewal fee and any additional fee prescribed for the purpose of that subsection.
+
+(3) Where an amendment of a specification of a patent has been allowed under this Act, no damages shall be awarded in any proceedings for an infringement of the patent committed before the date of the decision allowing the amendment, unless the Court is satisfied that the specification of the patent, as originally published, was framed in good faith and with reasonable skill and knowledge.
