@@ -1,0 +1,3 @@
+Article 3
+
+3. A duty of customs at the rate of an amount equal to forty-five per cent. of the value of the article shall be charged, levied, and paid on all woven tissues (other than floor coverings) which are made wholly or partly of wool or worsted and are imported into Saorstát Eireann on or after the 29th day of December, 1937, and are imported in the piece and are not less than fifty inches in width and are less than seven ounces, but not less than five and one-half ounces, in weight per square yard and are of a value of not less than two shillings per square yard and are not otherwise chargeable with duty.
