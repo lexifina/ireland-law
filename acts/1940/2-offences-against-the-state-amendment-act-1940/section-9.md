@@ -1,0 +1,3 @@
+Returns to be laid before each House of the Oireachtas.
+
+9.—The Government shall once at least in every six months furnish to each House of the Oireachtas particulars of (a) persons detained under this Part of this Act, (b) persons in respect of whom the Commission has made a report to the Government, (c) persons in respect of whom the Commission has reported that no reasonable grounds exist for their continued detention, (d) persons who had been detained under this Part of this Act but who had been released on the report of the Commission, and (e) persons who had been detained under this Part of this Act but who had been released without a report of the Commission.
