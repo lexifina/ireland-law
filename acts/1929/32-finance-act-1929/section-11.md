@@ -1,0 +1,3 @@
+Income from foreign securities and foreign possessions.
+
+11.—Income tax in respect of the income mentioned in the first column of Part II. of the First Schedule to this Act shall cease to be chargeable under Cases IV. and V. of Schedule D respectively and shall become chargeable under the case of Schedule D mentioned in the second column of the said Part II. of the said First Schedule and the rules applicable to such case, including the provisions of this Act amending those Rules, shall apply accordingly, but subject to the provisions contained in the third column of the said Part II. of the said First Schedule.

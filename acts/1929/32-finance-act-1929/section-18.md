@@ -1,0 +1,3 @@
+Modifications in relation to relief from double taxation.
+
+18.—The Income Tax Acts (including Part II of the First Schedule to the Finance Act, 1926) in relation to persons resident in Saorstát Eireann whether they are or are not also resident in Great Britain or Northern Ireland and in relation to claims by persons resident in Great Britain or Northern Ireland shall for any year for which the Agreement set forth in Part I of the First Schedule to the Finance Act, 1926 (No. 35 of 1926), as amended by section 8 of the Finance Act, 1928 (No. 11 of 1928), is in force have effect subject to the modifications set forth in the Second Schedule to this Act.
