@@ -1,0 +1,3 @@
+Information communicated by the Revenue Commissioners.
+
+43.—If they see fit to do so for the purpose of facilitating the exercise or performance by the Authority or an enforcing agency or an inspector of the Authority or of an enforcing agency of any of the powers or duties exercised by them under any of the relevant statutory provisions, the Revenue Commissioners may authorise the disclosure to the Authority or to an enforcing agency or an inspector of the Authority or of an enforcing agency of any information obtained by the Revenue Commissioners for the purposes of the exercise by them of their functions in relation to articles or substances imported into the State.

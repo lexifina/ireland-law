@@ -1,0 +1,5 @@
+Use of codes of practice in criminal proceedings.
+
+31.—(1) A failure on the part of any person to observe any provision of a code of practice shall not of itself render him liable to any civil or criminal proceedings; but where in any criminal proceedings a party is alleged to have committed an offence by reason of a contravention of any requirement or prohibition imposed by or under any of the relevant statutory provisions being a provision for which there was a code of practice at the time of the alleged contravention, subsection (2) shall have effect with respect to that code in relation to those proceedings.
+
+(2) Any provision of the code of practice which appears to the court to give practical guidance as to the observance of the requirement or prohibition alleged to have been contravened shall be admissible in evidence; and if it is proved that any act or omission of the defendant alleged to constitute the contravention is a failure to observe such provision of the code, or if it is proved that any act or omission of the defendant is a compliance with such provision of the code, then such failure or compliance shall be admissible in evidence.

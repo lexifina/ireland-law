@@ -1,0 +1,7 @@
+General duties of employers and self-employed to persons other than their employees.
+
+7.—(1) It shall be the duty of every employer to conduct his undertaking in such a way as to ensure, so far as is reasonably practicable, that persons not in his employment who may be affected thereby are not exposed to risks to their safety or health.
+
+(2) It shall be the duty of every self-employed person to conduct his undertaking in such a way as to ensure, so far as is reasonably practicable, that he and other persons (not being his employees) who may be affected thereby are not exposed to risks to their safety or health.
+
+(3) In such cases as may be prescribed, it shall be the duty of every employer and self-employed person, in the prescribed circumstances, and in the prescribed manner to give to persons (not being his employees) who may be affected by the way in which he conducts his undertaking the prescribed information about such aspects of the way he conducts his undertaking as might affect their safety or health.
