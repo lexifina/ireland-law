@@ -1,0 +1,3 @@
+Article 2
+
+2. The classes of international transport by road which are specified in paragraphs (a) to (p) of Article 4 of the agreement made on the 15th day of September, 1981, between the Government and the Government of the Kingdom of Norway on the international carriage of goods by road (being an international agreement relating to international transport by road), and which are set out in the Schedule to this Order, are hereby exempted from the provisions of section 7 of the Road Transport Act, 1935 (as amended or extended), and of sections 9 and 34 of the Road Transport Act, 1933 (as amended or extended).
