@@ -1,0 +1,3 @@
+Paragraph 25
+
+25. An ex-member who re-enters membership and opts under this Scheme to pay a contribution of five per cent. per annum of his standard salary and the additional contributions shall not be paid the gratuities unless he has been in membership for a total periodof three years subsequent to 31st day of July, 1950, and where such ex-member retires or dies before the expiration of such three years, there shall be payable to or in respect of him the additional contributions paid by him together with the amount of any gratuity which would have been payable to or in respect of him under the Principal Scheme if he had not opted to avail himself of the provisions of this Scheme.

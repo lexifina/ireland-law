@@ -1,0 +1,5 @@
+Paragraph 9
+
+9. (1) A person whose membership is ante-dated under paragraph 6 of this Scheme shall pay to the pension fund as from the relevant date, a contribution of five per cent. per annum of hisstandard salary and shall so pay, within the prescribed period, arrears of contribution at the rate of six and one-half per cent. of the basic salary and four per cent. of the incremental salary paid or deemed to have been paid to him in respect of each year of his approved teaching service during the period beginning on the date to which his membership was ante-dated and ending on the date from which his membership was ante-dated under the said paragraph 6, together with compound interest at the rate of one per cent. of the said percentages of his said basic and incremental salaries.
+
+(2) The compound interest referred to in subparagraph (1) of this paragraph shall be calculated as from the last day of each school year in respect of which the said arrears of contribution are being paid to the date on which they are paid.

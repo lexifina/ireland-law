@@ -1,0 +1,3 @@
+Paragraph 23
+
+23. A member who retired from approved teaching service during the period beginning on the 1st day of January, 1950, and ending on the 31st day of July, 1950, shall be deemed to have exercised, at the date of his retirement, the option referred to in paragraph 16 of this Scheme in respect of all his contributing service, and, accordingly, he shall be paid the amount (if any) by which whichever of the gratuities as is appropriate to him exceeds the amount made up of the sum of the additional contributions payable by him and the amount of any gratuity paid to him under the Principal Scheme.

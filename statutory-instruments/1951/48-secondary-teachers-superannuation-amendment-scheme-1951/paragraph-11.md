@@ -1,0 +1,5 @@
+Paragraph 11
+
+11. (1) A person who was an existing member on the relevant date and who was admitted or re-admitted to membership under the Amendment Scheme of 1933, but who did not pay contributions in respect of service during the period in paragraph 7 of the said Amendment Scheme referred to as the intermediate period may, on application made on or before the 31st day of July, 1951, have his approved teaching service during the said intermediate period reckoned as contributing service if he pays as from the relevant date contributions and, within the prescribed period, the arrears of contributions and the compound interest referred to in paragraph 8 of this Scheme which are appropriate to him.
+
+(2) The provisions of subparagraph (4) of paragraph 7 of the Amendment Scheme of 1933 shall be deemed to have been complied with in relation to service during the said intermediate period in respect of a person who duly makes application under subparagraph (1) of this paragraph and pays the arrears of contribution and the compound interest referred to therein.

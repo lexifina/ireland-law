@@ -1,0 +1,3 @@
+Paragraph 24
+
+24. A member who died or dies during the period beginning on the 1st day of January, 1950, and ending on the 31st day of July, 1951, shall be deemed to have exercised the option referred to in paragraph 16 of this Scheme in respect of all his contributing service, unless, before his death, he indicated to the Minister that he did not wish to exercise such option, and, accordingly, if such indication has not been given, there shall be paid, out of the pension fund, to the legal personal representative of such person, the amount (if any) by which whichever of the gratuities as is appropriate to him exceeds the amount made up of the sum of the additional contributions payable by him and the amount of any gratuity paid in his case under the Principal Scheme.
