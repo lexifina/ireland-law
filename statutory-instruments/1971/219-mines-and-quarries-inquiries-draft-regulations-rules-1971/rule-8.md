@@ -1,0 +1,3 @@
+Rule 8
+
+8. In case an objection made by a person appearing at an inquiry is disallowed, or is allowed only in part, by a tribunal, the person holding or presiding at the inquiry, as the case may be, may, if he thinks fit, make an order requiring the person by whom the objection was made to pay to the Minister the costs of the inquiry (including the remuneration of the tribunal) or such portion of those costs as he considers reasonable in the circumstances, and any sum required to be paid to the Minister by an order under this rule may in default of payment be recovered by the Minister as a simple contract debt in any court of competent jurisdiction.
