@@ -1,0 +1,15 @@
+Consideration of petition by the county council.
+
+3.—(1) Every county council to whom a petition is presented under this Act within five years after the passing of this Act shall refer such petition to the county surveyor for his report on the general merits of the proposals contained in the petition and the probable total cost of the execution of the drainage works comprised in such proposals.
+
+(2) For the purpose of making such report as aforesaid the county surveyor and his assistants shall be entitled at all reasonable times to enter upon the lands referred to in the petition and such other lands in the neighbourhood thereof as he or they shall think necessary and also any premises on any such lands and there to make such investigations and do such things as shall appear to him or them to be necessary for the purpose of making such report.
+
+(3) Upon receiving the report of the county surveyor on such petition the council, at a meeting of which not less than seven days notice has been given to each member, shall consider such petition and such report and—
+
+(a) if the sum stated in such report as the probable total cost of the execution of the drainage works proposed in such petition does not exceed one thousand pounds and effect can be given to the proposals contained in such petition without infringing any of the provisions of this Act, the council may as they think fit either pass a resolution approving of the proposals contained in the petition and determining to carry them out under this Act or pass a resolution disapproving of such proposals, or
+
+(b) if the sum stated in such report as the probable total cost of the execution of the drainage works proposed in such petition exceeds one thousand pounds or effect cannot be given to the proposals contained in such petition without infringing some provision of this Act, the council may either pass a resolution that the petition and report be treated as a petition and report made under the Arterial Drainage Act, 1925, (No. 33 of 1925) or pass a resolution disapproving of such proposals.
+
+(4) Where a petition is presented under this Act to the councils of two or more counties such councils may combine for the purpose of considering such petition and, in lieu of referring the petition to the county surveyor of each such county, may refer the petition to the county surveyor of one such county and in such case every such council may act under this section on the report of such county surveyor.
+
+(5) Any county council or combination of county councils may, in lieu of referring such petition to a county surveyor, refer such petition to some other qualified engineer nominated by such council or councils and in such case all references in this section to a county surveyor shall be construed and have effect as references to such qualified engineer and the remuneration of such qualified engineer shall be paid out of the county fund of the council or in such proportions as, in default of agreement, shall be fixed by the Minister out of the several county funds of the councils by whom he is appointed.

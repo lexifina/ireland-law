@@ -1,0 +1,5 @@
+Powers of entry on lands.
+
+24.—(1) Every county council or joint committee preparing or carrying out a drainage scheme or maintaining drainage works under this Act and their officers and servants shall be entitled at all reasonable times to enter for the purposes of such preparation, carrying out, or maintaining on any lands to which such scheme is intended to or does relate or on which such drainage works have been constructed and on any other lands in the neighbourhood thereof entry on which appears to them to be necessary for such purposes.
+
+(2) Every county council or joint committee which or the officers or servants of which enter on any lands under this section shall be liable to pay to the occupier of such lands reasonable compensation for the damage (if any) done to such lands by such entry or by the execution thereon of the purpose for which such entry was made, and the right to and amount of such compensation shall in default of agreement be determined by the District Court on the application of either party and the costs of such application shall be borne by such party or parties as the court shall in its discretion direct.

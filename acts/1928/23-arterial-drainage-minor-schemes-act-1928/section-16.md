@@ -1,0 +1,7 @@
+Repayment of expenses incurred by a county council.
+
+16.—(1) The moneys required by a drainage scheme to be raised by a county council by means of the drainage rate for or towards the repayment to such council of the moneys provided by such council to meet the expenses incurred in carrying out such scheme and also all moneys required to be provided by such council for the maintenance of the drainage works executed in pursuance of such scheme shall be raised by such council by means of an annual poundage rate (in this Act referred to as the drainage rate) made and assessed on the several occupiers of the lands in the county of such council which were proposed in such scheme to be drained or improved.
+
+(2) The drainage rate shall be made at the same time and subject to the same appeal as the poor rate and shall be leviable, payable, and recoverable in the like manner and by the like means in all respects as poor rate is leviable, payable, and recoverable.
+
+(3) Where a person assessed to a drainage rate under this Act in respect of land occupied by him is the occupier of other land forming part of or comprised in the same holding, farm, or tenement as the land in respect of which he is so assessed to such drainage rate, any sum so assessed on him in respect of such drainage rate may be collected and recovered from him in like manner as if such sum were assessed on and payable by him in respect of his occupation of the whole of such holding, farm, or tenement.

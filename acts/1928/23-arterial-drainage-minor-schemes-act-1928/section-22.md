@@ -1,0 +1,11 @@
+Appointment of joint committees of county councils.
+
+22.—(1) Every joint committee appointed under this Act by two or more county councils for the purpose of preparing and (if confirmed) carrying out a drainage scheme and maintaining the drainage works constructed pursuant to such scheme shall be so appointed in such proportions and shall consist of such total number of members and of such number of members of each of such councils and such number (if any) of persons who are not members of any such council as the Minister shall direct.
+
+(2) The Minister may prescribe the time of election (including the first election) of members of such joint committees as aforesaid, the period for which such members shall hold office, the method of filling casual vacancies in their number, the disqualification of members who cease to be or become disqualified to be members of the council by which they were appointed, and the conduct of the business of such joint committees.
+
+(3) The accounts of every such joint committee shall be separately kept and shall be audited by an auditor appointed by the Minister and the following enactments, that is to say, sections 11 to 15 of the Local Government (Ireland) Act, 1871, sub-section (2) of section 63 of the Local Government (Ireland) Act, 1898, sections 20 and 21 of the Local Government (Ireland) Act, 1902, and section 61 of the Local Government Act, 1925 (No. 5 of 1925) as amended or adapted by or under any subsequent enactment shall apply to the audit and auditor of the accounts of such joint committees in the same manner as such enactments as so amended or adapted apply to the audit and auditor of the accounts of the public bodies specified therein.
+
+(4) Legal proceedings had or taken by a joint committee appointed under this section shall be had or taken in the names jointly of the county councils by whom such committee is appointed and legal proceedings had or taken against any such joint committee shall be had or taken against such councils jointly.
+
+(5) Nothing in this section shall authorise a joint committee appointed under this section to raise any moneys which are by this Act required or authorised to be raised by a county council.
