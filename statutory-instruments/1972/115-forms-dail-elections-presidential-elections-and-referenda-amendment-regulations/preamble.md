@@ -1,0 +1,1 @@
+The Minister for Local Government in exercise of the powers conferred on him by section 21 of the Electoral Act, 1923 (No. 12 of 1923), rule 3 (4) of the Fourth Schedule to the said Act, sections 4 and 29 of the Presidential Elections Act, 1937 (No. 32 of 1937) and sections 3 and 20 of the Referendum Act, 1942 (No. 8 of 1942) hereby makes the following Regulations:—
