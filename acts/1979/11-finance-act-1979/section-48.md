@@ -1,0 +1,5 @@
+Amendment of section 18 (inspection and removal of records) of Value-Added Tax Act, 1972.
+
+48.—Section 18 of the Value-Added Tax Act, 1972, is hereby amended by the substitution of the following subsection for subsection (1):
+
+“(1) An authorised officer may, for the purpose of making any enquiry which he considers necessary concerning matters relating to liability to tax or repayment of tax in regard to any person, enter any premises in which the officer has reason to believe that such person is carrying on business and the officer may request the production of, search for and inspect any books, invoices, credit notes, debit notes, receipts, accounts, bank statements, vouchers or other documents whatsoever relating to the said business and may remove and retain any such books, invoices, credit notes, debit notes, receipts, accounts, vouchers, bank statements or other documents for such period as may be reasonable for their examination or for the purpose of any proceedings for the recovery of a penalty under this Act.”
