@@ -1,0 +1,5 @@
+S.I. No. 342 of 1973.
+
+VOCATIONAL EDUCATION ACT, 1930 (GRANTS UNDER SECTION 109) REGULATIONS, 1939 (AMENDMENT) (NO. 2) REGULATIONS, 1973.
+
+I, RICHARD BURKE, Minister for Education, in exercise of the powers conferred on me by Section 109 of the Vocational Education Act, 1930 (No. 29 of 1930), hereby, with the consent of the Minister for Finance, make the following Regulations:—
