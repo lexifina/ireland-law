@@ -1,0 +1,21 @@
+S.I. No. 167 of 1953.
+
+DISTRICT COURT (NEW AREAS) ORDER, 1927. (VARIATION NO. 153) ORDER, 1953.
+
+I, GERALD BOLAND, Minister for Justice, in exercise of the powers conferred on me by subsection (3) of section 47 of the Court Officers Act, 1926 (No. 27 of 1926), and of section 11 of the Court Officers Act, 1945 (No. 25 of 1945), and of every and any other power me in this behalf enabling, hereby order as follows :—
+
+1.—(1) This Order may be cited as the District Court (New Areas Order, 1927 (Variation No. 153) Order, 1953.
+
+(2) This Order shall come into operation on the 1st day of June, 1953.
+
+2. The Interpretation Act, 1937 (No. 38 of 1937), applies to this Order.
+
+3. The place for holding the District Court for the purposes of cases of summary jurisdiction in the District Court Area of Rooskey in the County of Roscommon shall be Rooskey.
+
+4. Business transacted in the District Court which is initiated before the date on which this Order comes into operation and is not completed before that date shall be continued and completed at Rooskey.
+
+GIVEN under my Official Seal, this 19th day of May, 1953.
+
+GERALD BOLAND,
+
+Minister for Justice.
