@@ -1,0 +1,5 @@
+Coming into force of purchase schemes.
+
+14.—(1) Whenever the Minister has made an order approving of a purchase scheme the Minister shall, in case such order has not been annulled by a resolution passed by Dáil Eireann under the immediately preceding section, make an order declaring the day on which such scheme shall come into force, and such scheme shall come into force on the day so appointed.
+
+(2) Whenever the Minister makes an order under this section declaring the day on which a purchase scheme comes into force, the board of health by whom such purchase scheme was prepared shall cause copies of such order and such purchase scheme to be made available for public inspection at the prescribed times and places and shall within the prescribed time cause to be published at least once in each of two successive weeks in a newspaper circulating in the county health district of such board of health notice of the making of such order and of the times and places at which copies of such order and such purchase scheme are available for public inspection.
