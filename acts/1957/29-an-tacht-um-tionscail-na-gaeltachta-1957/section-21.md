@@ -1,0 +1,3 @@
+Transfer to the Board of liabilities incurred for the rural industries.
+
+21.—Every debt and other liability (including unliquidated liabilities arising from torts or breaches of contract) which immediately before the establishment day is owing and unpaid or has been incurred and is undischarged by any Minister of State, the Commissioners of Public Works in Ireland or the Irish Land Commission and is so owing or has been so incurred for the purposes of the rural industries shall, on the establishment day, become and be the debt or liability of the Board and shall be paid or discharged by and may be recovered from or enforced against the Board accordingly.
