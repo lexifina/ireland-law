@@ -1,0 +1,3 @@
+Exemption of certain tractors from motor car duty.
+
+16.—Neither the duty imposed by section 11 of the Finance Act, 1928 (No. 11 of 1928), nor the motor car duty imposed by section 12 of the Finance Act, 1934 (No. 31 of 1934), shall be charged or levied on any motor tractor (within the meaning of the said section 12) imported on or after the 8th day of May, 1941, which is, in the opinion of the Revenue Commissioners, designed and constructed for use for agricultural purposes or on any article so imported which is, in the opinion aforesaid, a component part or an accessory of a motor tractor (within the meaning of the said section 12) designed and constructed as aforesaid.

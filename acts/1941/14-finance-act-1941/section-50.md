@@ -1,0 +1,3 @@
+Reduction of certain sums payable to the Irish Land Commission.
+
+50.—The Minister for Finance may determine that the sum to be paid to the Irish Land Commission in any particular financial year (including the financial year beginning on the 1st day of April, 1941) under sub-section (1) of section 35 of the Purchase of Land (Ireland) Act, 1891, as amended by sub-section (3) of section 9 of the Land Law (Commission) Act, 1923 (No. 27 of 1923), shall be reduced by such amount as the said Minister shall specify in that behalf, and, whenever the said Minister so determines, the said sum payable as aforesaid in the financial year to which such determination relates shall be reduced accordingly.
