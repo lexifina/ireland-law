@@ -1,0 +1,9 @@
+SCHEDULE G
+
+Section 27.
+
+Provision of Principal Act Amended Nature of Amendment (1) (2) Sections 18(1)(g), 23(2), 135, 139(3), 207(1)(c)(ii), 210(2)(f), 236(1) and paragraph 5 of Part III of the First Schedule (as amended by section 13 of the Act of 1994) The substitution of “widow's (contributory) pension, widower's (contributory) pension” for “survivor's pension” in each place where it occurs. Section 30(1)(j) (as amended by section 13 of the Act of 1994) The substitution of “widow's (contributory) pension and widower's (contributory) pension” for “survivor's pension”. Section 100 (inserted by section 11 of the Act of 1994) The insertion before the definition of “relevant time” of the following definition:
+
+“‘pension’ means a widow's (contributory) pension in the case of a widow and a widower's (contributory) pension in the case of a widower;”.
+
+The deletion of the definition of “survivor”. Section 100 in the definition of “relevant time”, section 102(1)(b) (inserted by section 11 of the Act of 1994) The substitution of “widow's or widower's” for “survivor's” in each place where it occurs. Sections 100, 101 and 102 (inserted by section 11 of the Act of 1994) The substitution of “widow or widower” for “survivor” in each place where it occurs. Sections 101, 102, 103 and 104 (inserted by section 11 of the Act of 1994), section 105 (inserted by section 19 of the Act of 1995) and section 105A (inserted by section 11 of the Act of 1994) The substitution of “pension” for “survivor's pension” in each place where it occurs. Section 210(1)(l) in the definition of “benefit” (as amended by section 13 of the Act of 1994) The substitution of “widow's (contributory) pension or widower's (contributory) pension” for “survivor's pension”. Reference 5 of Part I of the Second Schedule (as amended by section 13 of the Act of 1994) The substitution of “Widow's (Contributory) Pension, Widower's (Contributory) Pension” for “Survivor's Pension”.
