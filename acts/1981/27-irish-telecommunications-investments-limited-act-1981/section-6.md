@@ -1,0 +1,37 @@
+Guarantee by Minister for Finance of borrowings by Company.
+
+6.—(1) The Minister for Finance, after consultation with the Minister, may guarantee, in such form and manner and on such terms and conditions as the Minister for Finance may sanction, the due repayment by the Company of the principal of any moneys (including moneys in a currency other than the currency of the State) borrowed by the Company, or the payment of interest on such moneys or both the repayment of the principal and the payment of the interest, and any such guarantee may include a guarantee of the payment by the Company of commission and incidental expenses arising in connection with such borrowings.
+
+(2) The Minister for Finance shall not so exercise the powers conferred on him by this section or section 7 of this Act that the amount, or the aggregate amount, of moneys which he may at any one time be liable to pay on foot of any guarantee or guarantees under either such section for the time being in force, together with the amount of moneys (if any) which he has previously paid on foot of any guarantee under such section and which has not been repaid by the Company, exceeds £350,000,000.
+
+(3) For the purposes of calculating the amount of borrowings or instalments or other moneys guaranteed by the Minister for Finance under this section or section 7 of this Act by reference to the limit on moneys in subsection (2) of this section, the equivalent in the currency of the State of borrowings or instalments or other moneys in a foreign currency shall be calculated at the exchange rate prevailing at the time of the giving of the guarantee.
+
+(4) The Minister for Finance shall, as soon as may be after the expiration of every financial year, lay before each House of the Oireachtas a statement setting out with respect to each guarantee under this section or section 7 of this Act given during that year or given at any time before, and in force at, the commencement of that year—
+
+(a) particulars of the guarantee,
+
+(b) in case any payment has been made by him under the guarantee before the end of that year, the amount of the payment and the amount (if any) repaid to him on foot of the payment,
+
+(c) the amount of moneys covered by the guarantee which was outstanding at the end of that year.
+
+(5) All moneys from time to time required by the Minister for Finance to meet sums which may become payable by him under this section or section 7 of this Act shall be advanced out of the Central Fund or the growing produce thereof.
+
+(6) Moneys paid by the Minister for Finance under a guarantee under this section or section 7 of this Act shall be repaid to him (with interest thereon at such rate or rates as he appoints) by the Company within two years from the date of the advance of the moneys out of the Central Fund.
+
+(7) Where the whole or any part of moneys required by subsection (6) of this section to be repaid to the Minister for Finance has not been paid in accordance with that subsection, the amount so remaining outstanding shall be repaid to the Central Fund out of moneys provided by the Oireachtas.
+
+(8) Notwithstanding the provision of moneys under subsection (7) of this section to repay the amount to the Central Fund, the Company shall remain liable to the Minister for Finance in respect of that amount, and that amount, with interest thereon at such rate or rates as that Minister appoints, shall be repaid to him by the Company at such times and in such instalments as he appoints and, in default of repayment as aforesaid and without prejudice to any other method of recovery, shall be recoverable as a simple contract debt in any court of competent jurisdiction.
+
+(9) Moneys paid by the Company under subsection (6) or (8) of this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance thinks fit.
+
+(10) In relation to guarantees given by the Minister for Finance, whether under this section or section 7 of this Act, in money in a currency other than the currency of the State—
+
+(i) each of the references to principal, each of the references to interest and the reference to commission and incidental expenses in subsection (1) of this section shall be taken as referring to the equivalent in the currency of the State of the actual principal, the actual interest and the actual commission and incidental expenses, respectively, such equivalent being calculated according to the cost in the currency of the State of the actual principal, the actual interest or the actual commission and incidental expenses, as may be appropriate;
+
+(ii) each of the references to moneys in subsection (1) of section 7 of this Act shall be taken as referring to the equivalent in the currency of the State of the actual moneys, such equivalent being calculated according to the cost in the currency of the State of the actual moneys;
+
+(iii) the reference to moneys in subsection (4) of this section shall be taken as referring to the equivalent in the currency of the State of the actual moneys, such equivalent being calculated according to the rate of exchange for the time being for that currency and the currency of the State;
+
+(iv) each of the references to moneys in subsections (5) to (8) of this section shall be taken as referring to the cost in the currency of the State of the actual moneys.
+
+(11) The Company shall not borrow except with the prior consent of the Minister given with the approval of the Minister for Finance.
