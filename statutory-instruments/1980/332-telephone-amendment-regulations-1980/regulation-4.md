@@ -1,0 +1,115 @@
+Regulation 4
+
+4. The Telephone Regulations, 1980 ( S.I. No. 195 of 1980 ), shall be amended by:
+
+( a ) the substitution of the following Schedule for the First Schedule:
+
+"FIRST SCHEDULE
+
+Regulation 9
+
+Charges for Local Calls
+
+1. To a subscriber
+
+( a ) if he rents an exchange line without a coin box
+
+5.85p per call
+
+( b ) if he rents an exchange line with a coinbox from which subscriber dialled trunk calls cannot be made
+
+9p per call
+
+( c ) If he rents an exchange line with a coin box from which subscriber dialled trunk calls can be made
+
+Per call as follows: 9.5p for the first five-minute period, 4.75p for each of the next four five-minute periods and this cycle repeated for subsequent five-minute periods.
+
+2. To a caller
+
+( a ) from an exchange line with a coinbox or a call office from which subscriber dialled trunk calls cannot be made
+
+10p per call.
+
+( b ) from an exchange line with a coinbox or a call office from which subscriber dialled trunk calls can be made
+
+Per call as follows: 10p for the first five-minute period, 5p for each of the next four five-minute periods and this cycle repeated for subsequent five-minute periods.
+
+and
+
+( b ) the substitution of the following Schedule for the Second Schedule:
+
+"SECOND SCHEDULE
+
+Regulation 10
+
+Charges for Subscriber Dialled Trunk Calls
+
+In respect of each period or part of a period of time specified in the Table to this Schedule which is appropriate to the call and during which the call continues—
+
+( a ) the sum of 5.85p shall be charged to a subscriber without a coinbox,
+
+( b ) the sum of 9.5p shall be charged to a subscriber with a coinbox for the first period of time and the sum of 4.75p for each of the next four periods of time, and if the length of the call exceeds those periods combined, the aforementioned cycle of payment shall apply to such further time as the call continues,
+
+( c ) the sum of 10p shall be paid or placed in the coinbox by a caller from a call office or coinbox exchange line for the first period of time and 5p for each of the next four periods of time, and if the length of the call exceeds those periods combined, the aforementioned cycle of payment shall apply to such further time as the call continues.
+
+Distance between Group Centres of exchanges connected
+
+Calls between exchanges in the State and from exchanges in the State to exchanges in Northern Ireland
+
+Calls from exchanges in the State to exchanges in Great Britain, the Isle of Man and the Channel Islands
+
+If call is made at or after 8 a.m. and before 6 p.m.
+
+If call is made at or after 6 p.m. and before 8 a.m.
+
+If call is made at or after 6 a.m. and before 8 p.m.
+
+If call is made at or after 6 p.m.
+
+and before 8 a.m.
+
+Not exceeding 56 kilometres
+
+60 seconds
+
+90 seconds
+
+—
+
+—
+
+Exceeding 56 kilometres but not exceeding 80 kilometres
+
+30 seconds
+
+45 seconds
+
+—
+
+—
+
+Exceeding 80 kilometres
+
+20 seconds
+
+30 seconds
+
+10 seconds
+
+15 seconds
+
+"
+
+GIVEN under my Official Seal, this 20th day of October, 1980.
+
+ALBERT REYNOLDS
+
+The Minister for Finance hereby consents to the foregoing Regulations.
+
+GIVEN under the Official Seal of the Minister for Finance, this 20th day of October, 1980.
+
+MICHAEL O'KENNEDY
+
+EXPLANATORY NOTE
+
+The purpose of these Regulations is to amend the Telephone Regulations, 1980 to provide for the general introduction of coinboxes from which subscriber dialled trunk calls can be made and for the timing of local calls from those coinboxes.
