@@ -1,0 +1,7 @@
+Article 5
+
+5. (1) The limits within which the Company may supply gas for public and private purposes and put the Acts in execution shall, in addition to the limits of supply prescribed by the Acts, extend to and include such parts of the County Borough of Dublin and the County of Dublin within a radius of nine miles of the General Post Office, Dublin, as are not included in the limits of supply prescribed by the Acts and shall also extend to and include the Parish of Bray and the Townland of Fassure in the County of Wicklow.
+
+(2) The Company is hereby authorised to supply gas for public and private purposes within the said limits as so extended as aforesaid.
+
+(3) For the purpose of the supply of gas within the said limits as so extended and of giving effect to this Order, the Company may exercise such powers under the Acts as may be necessary or desirable for carrying the same into execution, and in particular, subject to the provisions of the Acts, the Company may alter, extend, adapt, use and make applicable to such purposes all or any of their existing mains, pipes, machinery, works, plants and appliances, or any part or parts thereof, and the several powers possessed by the Company under the Acts or any of them, to the extent to which the same are or can be made applicable for the said purposes, may be exercised by the Company in connexion therewith within the said limits as so extended as aforesaid.
