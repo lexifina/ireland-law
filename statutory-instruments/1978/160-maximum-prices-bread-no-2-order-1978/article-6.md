@@ -1,0 +1,19 @@
+Article 6
+
+6. The Maximum Prices (Bread) Order, 1978 ( S.I. No. 38 of 1978 ), is hereby revoked.
+
+GIVEN under the Official Seal of the Minister for
+
+Industry, Commerce and Energy this 14th day of
+
+June, 1978.
+
+OWEN O'HARA.
+
+A person authorised by the Minister for Industry, Commerce
+
+and Energy to authenticate the Official Seal of the Minister.
+
+EXPLANATORY NOTE.
+
+This Order fixes the maximum prices and the weights at which bread, as defined in the Order, may be sold by retail.
