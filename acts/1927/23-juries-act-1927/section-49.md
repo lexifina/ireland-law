@@ -1,0 +1,3 @@
+Relief of jurors from unnecessary attendance.
+
+49.—Whenever a panel of jurors is required to be in attendance in a Court during any sittings, the Judge shall take such steps as may be practicable to relieve so far as may be possible the jurors named in such panel from attending in the Court on days on which their services as jurors are not actually required and from waiting in the Court during periods in which they are not actually serving as jurors, and the Judge may for those purposes divide the panel into sections and appoint different days for the attendance of the jurors in the several sections and exempt the jurors included in any such section from attending on the days not so appointed for the attendance of such section.

@@ -1,0 +1,5 @@
+Preparation of draft jurors lists.
+
+13.—(1) On or after the 15th day of November in every year and before the next following 29th day of January every secretary of a county council, town clerk of a county or other borough, and clerk of an urban district shall prepare in accordance with this Act a draft jurors list for the county, borough, or district (as the case may be) and shall complete such draft jurors list and send the same to the county registrar having jurisdiction in such county, borough, or district on or before the said 29th day of January.
+
+(2) For the purpose of the preparation of the draft jurors list every such secretary, town clerk, and clerk shall cause a house to house or other sufficient inquiry to be made by the poor rate collectors in his county, borough, or district and it shall be the duty of every such poor rate collector to make such inquiry and also to make such other inquiries for and to give such assistance in the preparation of the draft jurors list as shall be required of him by such secretary, town clerk, or clerk.

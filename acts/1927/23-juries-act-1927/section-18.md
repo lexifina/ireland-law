@@ -1,0 +1,5 @@
+Definitions in relation to Part IV.
+
+18.—(1) In this Part of this Act the expression “jury district” when used in relation to a jurors book means the jury district to which such jurors book relates, and the expression “jurors book” when used in relation to a jury district means the jurors book relating to such jury district, and the expression “county registrar” when used in relation to a jury district means the county registrar for the area co-terminous with or including (as the case may be) such jury district and when used in relation to a jurors book means the county registrar on whom the duty of preparing such jurors book is imposed by this Act.
+
+(2) In this Part of this Act all references to the jurors list for a jury district shall be construed as references (as the case may require) either to the jurors list for the registration area which is co-terminous with such jury district or to so much of the jurors list for the registration area containing such jury district as relates to the portion of such area contained within such jury district.

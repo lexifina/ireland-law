@@ -1,0 +1,5 @@
+Proof of service of jurors summonses.
+
+43.—(1) Every member of the Gárda Síochána who is engaged in serving any jurors summonses shall attend in the Court and at the time and place in and at which such summonses required the persons served therewith to attend and shall there, if so required by the Judge, prove by his evidence on oath and the production of his service book the service effected by him of every such summons which he claims to have served.
+
+(2) Whenever any member of the Gárda Síochána who is engaged in serving any jurors summonses is prevented by his death, illness, or other unavoidable cause from attending in Court pursuant to the foregoing sub-section to prove the service of such summonses, his service book shall be produced for him by another member of the Gárda Síochána in the Court and at the time and place in and at which such first-mentioned member should have attended and, upon proof of such prevention from attendance and that such service book is the service book of such first-mentioned member and that the entries therein are in his handwriting, such book shall, until the contrary is proved, be evidence of the matters stated therein.

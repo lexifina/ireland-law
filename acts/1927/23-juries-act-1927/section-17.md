@@ -1,0 +1,11 @@
+Expenses in relation to draft jurors lists.
+
+17.—(1) Save as is hereinafter otherwise provided, there shall be paid to every county registrar and to every secretary of a county council, town clerk of a county or other borough and clerk of an urban district and to every poor rate collector in every year as remuneration for services rendered by him and as recoupment of expenses (if any) incurred by him under this Act in relation to draft jurors lists a sum calculated in accordance with the appropriate scale appointed under this section and for the time being in force.
+
+(2) The sums payable to county registrars, secretaries, town clerks, and clerks and to poor rate collectors under this section shall be paid, in the case of a county and of every borough and urban district in such county, by the council of such county out of the poor rate as a county-at-large charge and, in the case of a county borough, by the council of such county borough out of the rate or fund out of which the general expenses of such council are paid or out of any other rate or fund which the Minister for Local Government and Public Health may, on the application of the council approve.
+
+(3) The Minister may by order make and when made revoke or vary scales for calculating the sums to be paid to county registrars, secretaries of county councils, town clerks of county and other boroughs, clerks of urban districts, and poor rate collectors under this section, and unless and until such scales are so made such sums shall be calculated according to the last scales made before the passing of this Act under section 9 of the Juries Procedure (Ireland) Act, 1876.
+
+(4) Sub-section (3) of section 39 of the Court Officers Act, 1926 (No. 27 of 1926) shall apply to sums paid to and received by county registrars under this section in like manner as that sub-section applies to sums paid to and received by county registrars by virtue of the said section 39.
+
+(5) No sum shall be paid under this section, whether as remuneration or as recoupment of expenses, to any secretary of a county council, town clerk of a county or other borough, clerk of an urban district, or poor rate collector appointed (whether before or after the passing of this Act) after the 15th day of November, 1923.

@@ -1,0 +1,5 @@
+Juries for the High Court.
+
+31.—(1) Every issue, whether civil or criminal, which is triable with a jury by the High Court or a Judge or officer thereof or the Chief Justice or any of his officers sitting in the county borough or the county of Dublin shall be triable with a jury called from a panel of jurors drawn partly from the county borough of Dublin and partly from the county of Dublin, and no such issue shall be tried by the said Court or any Judge or officer thereof or the Chief Justice or any of his officers sitting as aforesaid with any other jury.
+
+(2) Every issue, whether civil or criminal, which is triable with a jury by the High Court or a Judge or officer thereof or the Chief Justice or any of his officers sitting elsewhere than in the county borough or the county of Dublin shall be triable with a jury called from a panel of jurors drawn from the county borough or the county in which such Court or Judge is sitting at the time of the trial, and no such issue shall be tried by the said Court or any Judge or officer thereof or the Chief Justice or any of his officers sitting as aforesaid with any other jury.
