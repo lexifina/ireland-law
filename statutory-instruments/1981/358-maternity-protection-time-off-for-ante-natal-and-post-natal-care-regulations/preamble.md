@@ -1,0 +1,1 @@
+I, LIAM KAVANAGH, Minister for Labour, in exercise of the powers conferred on me by section 16 of the Maternity Protection of Employees Act, 1981 (No. 2 of 1981), and after compliance with section 4(5) of that Act, hereby make the following Regulations:
