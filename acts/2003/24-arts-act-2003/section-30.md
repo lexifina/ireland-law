@@ -1,0 +1,3 @@
+Remuneration of staff.
+
+30.—The Council shall, in determining the remuneration or allowances for expenses to be paid to members of its staff or the other terms or conditions subject to which such members hold or are to hold their employment, have regard to Government or nationally agreed guidelines which are for the time being extant and to Government policy concerning remuneration and conditions of employment that is so extant and, in addition to the foregoing, the Council shall comply with any directives with regard to such remuneration, allowances, terms or conditions that the Minister may give to the Council with the consent of the Minister for Finance.
