@@ -1,0 +1,3 @@
+Article 8
+
+8. Notwithstanding anything contained in paragraph 7 of this Order, the duty imposed by this Order shall not be charged or levied on any woven fabric which is made partly of wool and which is imported into the State after exportation therefrom and in respect of which it is shown to the satisfaction of the Revenue Commissioners that such woven fabric was manufactured in the State and was exported therefrom solely for the purpose of undergoing elsewhere the process of proofing or the process of shrinking or both those processes and did not undergo any other process while so outside the State.
