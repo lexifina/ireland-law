@@ -1,0 +1,3 @@
+Article 2
+
+2. The information, returns and particulars required under the Statistics (Census of Production) Order, 1931, in respect of each of the following industries, trades and businesses, that is to say, Articles of Horn or Ivory ; Artificial Flowers ; Basket and Wicker Work ; Brooms and Brushes ; Condensed Milk ; Games, Toys and Sports Requisites ; Ice; Matches ; Musical Instruments ; Scientific Instruments, Appliances and Apparatus ; Picture Frames and Fancy Goods ; Polishes and Abrasives ; Seed Crushing and Animal Foods ; Silk and Poplin ; Starch and Blue ; Sugar ; Tobacco Pipes shall be such information returns and particulars as are specified in the Form (a) headed " General Return for Miscellaneous Industries " contained in the Schedule (a) hereto.
