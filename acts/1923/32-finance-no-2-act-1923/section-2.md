@@ -1,0 +1,3 @@
+Saving for National Health Insurance Authorities in Saorstát Eireann.
+
+2.—Nothing in this Act shall prejudice or affect any exemption from income tax to which an Approved Society within the meaning of Part I. of the National Insurance Act, 1911, having its principal office situate in Saorstát Eireann, or any branch of such a society, or any Insurance Committee in Saorstát Eireann established under the said Part I. of the said Act, or the Irish Insurance Commissioners are or may be entitled under or by virtue of Sub-sections (5) and (6) of Section 39 of the Income Tax Act, 1918 in its application to Saorstát Eireann.
