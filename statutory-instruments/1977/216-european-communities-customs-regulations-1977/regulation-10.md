@@ -1,0 +1,3 @@
+Regulation 10
+
+10. Whenever goods are held under an inward processing arrangement in a member State immediately prior to their being exported under an outward processing arrangement and the relevant compensating products are later entered for home use in the State, they shall not qualify for relief from import duties under these Regulations unless it is shown to the satisfaction of the Revenue Commissioners that any import duty from which the exported goods had been granted relief under the inward processing arrangement in the member State in which they were held under an inward processing arrangement and which would fall due on their entry for home use in that member State has been paid or secured on their entry for home use in the State.

@@ -1,0 +1,13 @@
+Regulation 8
+
+8. (1) Subject to the following provisions of this Regulation, the amount of the reduction of import duty referred to in Regulation 4 (1) of these Regulations is the amount that would be chargeable on importation into the State of goods covered by an outward processing arrangement if those goods were imported from the country in which the resultant compensating products underwent their last processing operation, and the goods used in the compensating products were in the state they were in when temporarily exported and the quantity thereof was the quantity so exported.
+
+(2) For the purposes of paragraph (1) of this Regulation, where compensating products are entered for home use on or after importation, the amount of import duty that would be chargeable shall be calculated on the basis of the value and at the rate, if any, applicable on the date of entry for home use of the compensating products.
+
+(3) For the purpose of paragraph (1) of this Regulation, where compensating products are admitted to an inward processing arrangement on or after importation, the amount of import duty that would be chargeable in respect of them shall be calculated on the basis of the value and at the rate, if any, applicable on the date of the entry for inward processing of the compensating products.
+
+(4) Where goods exported under an outward processing arrangement could, on importation into the State, have been classified in a particular tariff heading by reason of a specified end use, then, the amount of the reduction of import duty referred to in paragraph (1) of this Regulation shall be calculated at the rate applicable to goods in that tariff heading to the extent that the exported goods were so used in the country where the last processing operation took place.
+
+(5) Where compensating products qualify on importation for any preferential rate of import duty, then the amount of the reduction of import duty referred to in paragraph (1) of this Regulation shall be calculated as if the goods in question qualified for a similar preferential rate of import duty.
+
+(6) Where compensating products produced or manufactured from goods exported from another member State are subsequently imported into the State then, if import duties are chargeable in respect of the goods in trade between that member State and the State, the amount of the reduction of import duty referred to in paragraph (1) of this Regulation, shall be reduced by the amount of import duty, if any, which would have been chargeable in respect of the exported goods, if they had been imported directly into the State from that member State.
