@@ -1,0 +1,11 @@
+Duties of Commissioners in regard to public roads and bridges.
+
+18.—If and in so far as the scheme provides for the diversion, removal, or other interference with a public road or bridge the following provisions shall have effect, that is to say:—
+
+(a) where the execution of the works specified in the scheme involves the closing of the road or bridge to traffic the Commissioners shall construct and shall maintain while such road or bridge is so closed to traffic a temporary, road or bridge sufficient to carry traffic of such quantity and character as normally uses such road or bridge;
+
+(b) the Commissioners shall at or before the completion of the works specified in the scheme either restore the road or bridge to its former condition or construct a new permanent road or bridge sufficient to carry the like amount (in quantity and character) of traffic as the original road or bridge was able to carry and not substantially less convenient in gradient and curve than such original road or bridge;
+
+(c) when the Commissioners construct a permanent new bridge and such bridge confers substantially greater advantages on the public of any county or urban district than the original bridge, by affording an improved means of communication or otherwise, the Commissioners shall certify the cost of such new bridge and the Minister for Local Government and Public Health shall certify what part of such cost in his opinion ought reasonably to be borne by the council of such county or urban district, and thereupon a sum equal to the part so certified of such cost shall be raised by such council as part of the expenses of the maintenance of county or urban roads (as the case may be) and shall be paid by such council to the Commissioners;
+
+(d) if any doubt, dispute, or question shall arise as to whether the Commissioners, in the construction, maintenance, or restoration of any temporary or permanent road or bridge pursuant to this section, have complied with the provisions of this section or as to whether a permanent new bridge constructed by the Commissioners confers substantially greater advantages on the public of any county or urban district than the original bridge, such doubt, dispute, or question shall be decided by the Minister for Local Government and Public Health whose decision shall be final and conclusive.
