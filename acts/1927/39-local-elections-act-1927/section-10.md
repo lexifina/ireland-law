@@ -1,0 +1,7 @@
+Quarterly meetings of county and other borough councils.
+
+10.—(1) The first quarterly meeting of the council of a county or other borough after a triennial election to such council shall be held at noon on the tenth day after the day of such election and a quarterly meeting of such council shall be held at such hour on such other three days before the next following 23rd day of June as such council shall fix at such first-mentioned quarterly meeting.
+
+(2) In every year in which no triennial election to the council of a county or other borough is held a quarterly meeting of such council shall be held at such hour on such day not earlier than the 23rd day of June nor later than the 1st day of July as such council shall fix at the last previous quarterly meeting and a quarterly meeting of such council shall also be held at such hour on such other three days before the next following 23rd day of June as such council shall fix at such first mentioned quarterly meeting.
+
+(3) The first business (after the determination of the question which of the members are to be aldermen if and when that question arises) at the quarterly meeting of the council of a county or other borough held next after the 22nd day of June in any year shall be the election of the mayor, and every such mayor shall come into office as soon after his election as he has made the declaration accepting office and shall continue in office until his successor has been elected and made the declaration accepting office.
