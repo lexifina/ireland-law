@@ -1,0 +1,5 @@
+Regulation 7
+
+7. —(1) The records to be kept under subsection (1) of section 16 of the act by every registered proprietor of registered slaughtering premises shall be in such of the Forms S.C.S.5, S.C.S. 5A or S.C.S.5B set forth in the Schedule hereto as are applicable to the business carried on by the registered proprietor of such premises and the entries which shall be made by every such registered proprietor in the said records shall be such as are indicated in the said Forms and such entries shall be made before the removal of any carcase or part of any carcase of cattle or sheep from such premises.
+
+(2) The records to be kept under subsection (1) of section 16 of the act by every registered proprietor of registered victualling premises shall be in such of the Forms S.C.S.6, S.C.S. 6A, or S.C.S.6B as are applicable to the business carried on by the registered proprietor of such premises and the entries which shall be made by every such registered proprietor in the said records shall be such as are indicated in the said Forms and such entries shall be made immediately after receipt of any carcase or part of any carcase of cattle or sheep in such premises.
