@@ -1,0 +1,5 @@
+Regulation 4
+
+4. Article 30 of the Principal Regulations (substituted by the Social Welfare (Overlapping Benefits) Regulations, 1973 ( S.I. No. 237 of 1973 ) and subsequently amended by the Social Welfare (Overlapping Benefits) Regulations, 1974 ( S.I. No. 224 of 1974 )) is hereby deleted and the following article substituted therefor—
+
+"30. Where a woman would, but for this article, be entitled in respect of any period to widow's (contributory) pension, death benefit by way of widow's pension under the Act of 1966, deserted wife's benefit, widow's (non-contributory) pension, single woman's allowance, prisoner's wife's allowance, deserted wife's allowance or unmarried mother's allowance (including an increase in respect of a qualified child or children) and to unemployment assistance (including an increase in respect of an adult or a child dependant or child dependants) under the Unemployment Assistance Acts the benefit, pension or allowance only, as the case may be, shall be payable unless the rate of unemployment assistance is greater than the rate of benefit, pension or allowance payable in which event unemployment assistance only shall be payable."
