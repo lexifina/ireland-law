@@ -1,0 +1,3 @@
+Matters other than those raised by parties may be taken into account in determining references or appeals.
+
+17.—The Board in deciding a reference or appeal may take into account matters other than those raised by the parties to the reference or appeal if the matters either relate to the proper planning and development of the area of the relevant planning authority or are matters to which by virtue of section 24 (2) of this Act the Board may have regard, provided that the matters are brought to the notice of those parties and they are accorded an opportunity of making observations thereon to the Board or, in the case of an oral hearing, the person conducting the hearing.
