@@ -1,0 +1,9 @@
+Establishment of bureaus.
+
+2.—(1) Subject to the provisions of the next following sub-section, the Hospitals Commission may, with the consent of the Minister, establish and maintain in relation to any two or more hospitals a bureau whereby the admission to some one of such hospitals of persons requiring hospital treatment will be facilitated and whereat information as to the accommodation available from time to time in such hospitals can be given to medical practitioners and other interested persons.
+
+(2) Where a bureau in relation to any hospitals is established under this section, there shall not be included amongst those hospitals any hospital to which no grant has been made out of the Hospitals Trust Fund after the passing of this Act, unless the governing body thereof consents to such inclusion.
+
+(3) The Hospitals Commission after consultation with the advisory committee established in respect of such bureau under this Act and with the approval of the Minister, may by regulations prescribe the manner in which any bureau established under this section shall be carried on and such regulations may, for the purposes thereof, define the duties of the governing bodies or of any person taking part in the management of any hospital concerned in regard to the admission of patients to such hospital and to the furnishing at regular intervals and on demand of information as to the accommodation available in such hospital.
+
+(4) Every regulation made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made, and if a resolution annulling such regulation is passed by either such House within the next subsequent twenty-one days on which such House has sat after such regulation is laid before it, such regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done under such regulation.
