@@ -1,0 +1,5 @@
+Recovery of levies.
+
+39.—(1) Every sum payable by a person by virtue of this Act to the Board for or on account of milk levy, butter levy or butter stocks levy shall be a simple contract debt due by that person to the Board and shall be recoverable accordingly by the Board from the person in any court of competent jurisdiction.
+
+(2) In any legal proceedings by the Board against a person for any money claimed to be due by the person to the Board in respect of milk levy, butter levy, or butter stocks levy, a certificate under the seal of the Board certifying that the person was liable to pay milk levy, butter levy or butter stocks levy, as the case may be, of a specified amount and that a specified sum is due and unpaid by the person on foot of the milk levy, butter levy or butter stocks levy, as the case may be, together with a certificate under the seal of the Board certifying that the sum has not been paid by the person to the Board shall be prima facie evidence as to the liability for and amount of milk levy, butter levy or butter stocks levy, as the case may be, and as to the sum which is due and unpaid by the person in respect thereof.

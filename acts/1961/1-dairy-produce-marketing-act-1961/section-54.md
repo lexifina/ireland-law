@@ -1,0 +1,3 @@
+Preservation of continuing contracts of the Committee.
+
+54.—Every bond, guarantee, mortgage or other security of a continuing nature made or given by the Committee to any person, or by any person to the Committee, and in force immediately before the transfer day, and every contract or agreement in writing made between the Committee and another person and not fully executed and completed before the transfer day shall, notwithstanding the dissolution of the Committee, continue in force on and after the transfer day but shall be construed and have effect as if the name of the Board were substituted therein for the name of the Committee, and the security, contract, or agreement shall be enforceable by or against the Board accordingly.

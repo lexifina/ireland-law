@@ -1,0 +1,3 @@
+Continuance of pending legal proceedings to which the Committee is a party.
+
+55.—In every action, suit or proceedings which is pending immediately before the transfer day in any court or tribunal and to which the Committee is a party, the Board shall on the transfer day become and be a party in the place of the Committee and such action, suit or proceedings, as the case may be, shall be continued between the Board and the other parties thereto accordingly and no such action, suit or proceedings shall abate or be discontinued or prejudicially affected by reason of the dissolution of the Committee.
