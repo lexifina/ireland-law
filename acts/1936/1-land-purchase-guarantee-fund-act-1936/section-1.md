@@ -1,0 +1,9 @@
+Removal of doubts as to a certain charge on the Guarantee Fund.
+
+1.—(1) In order to remove doubts, it is hereby declared and enacted that—
+
+(a) every deficiency in the Purchase Annuities Fund arising (whether before or after the passing of this Act) by reason of the non-payment of purchase annuities is a charge on the Guarantee Fund and may lawfully be paid and made good out of that Fund to the Purchase Annuities Fund at such time or times and in such manner as the Minister for Finance shall, either generally or in respect of any particular case, direct; and
+
+(b) sub-section (4) of section 6 of the Purchase of Land (Ireland) Act, 1891, as amended or extended by subsequent enactments, and all regulations made under that subsection (as so amended or extended) for the time being in force apply and have effect in relation to every payment out of the Guarantee Fund to the Purchase Annuities Fund made for the purpose of making good any such deficiency as is mentioned in the next preceding paragraph of this section in like manner and in all respects as the said sub-section (as so amended or extended), and the said regulations apply to a payment made out of the Guarantee Fund to the Purchase Annuities Fund for the purpose of making good any such deficiency as is mentioned in sub-section (1) of the said section 6.
+
+(2) Such deficiency in the Purchase Annuities Fund as is mentioned in the foregoing sub-section of this section shall be deemed to have arisen whenever (whether before or after the passing of this Act) the amount received by the Irish Land Commission on or before any 31st day of January or 31st day of July in respect of instalments of purchase annuities payable into the Purchase Annuities Fund which accrued due in the half-year ending on such 31st day of January or 31st day of July (as the case may be) falls short of the full amount of all such instalments.
