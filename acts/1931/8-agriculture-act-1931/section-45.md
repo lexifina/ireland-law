@@ -1,0 +1,3 @@
+Transfer of land from the Forestry Commissioners.
+
+45.—All land in Saorstát Eireann which was on the 5th day of December, 1922, by any means vested in the Forestry Commissioners established by the Forestry Act, 1919, and had not before the commencement of this Act been conveyed or transferred by statute, order, deed, or otherwise from the said Forestry Commissioners to any Minister, board, authority, or person shall immediately upon the commencement of this Act and without any conveyance, become and be vested in the Minister for all the estate, term, and interest for which the same was so vested in the Forestry Commissioners.

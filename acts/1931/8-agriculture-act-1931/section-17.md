@@ -1,0 +1,3 @@
+Meetings abandoned for want of quorum.
+
+17.—Whenever a meeting of a committee of agriculture is abandoned owing to failure to obtain a quorum, the names of the members attending at the time and place appointed for such meeting shall be recorded forthwith and, for the purposes of the provisions of this Act relating to disqualification of members by absence from meetings and of the provisions of this Act relating to the payment of travelling expenses to members of committees a meeting of such committee shall be deemed to have been held at such time and place and the members whose names are so recorded shall be deemed to have attended such meeting.

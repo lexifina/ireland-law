@@ -1,0 +1,5 @@
+Application of certain provisions of the Act of 1925 as amended.
+
+20.—(1) Every committee of agriculture shall be deemed to be a local authority within the meaning of section 60 of the Act of 1925 as amended by section 13 of the Act of 1927 and of sections 61, 62, 70 and 71 of the Act of 1925, and the said sections 60 (as so amended), 61, 62, 70 and 71 shall apply to committees of agriculture and their members and officers accordingly subject to the following modifications, that is to say, in the said section 60 as so amended the expression “the Minister” shall mean the Minister for Agriculture and in the said section 71 the expression “the Minister for Agriculture” shall be substituted for the expression “the Minister for Local Government and Public Health” wherever the latter expression occurs.
+
+(2) Save as otherwise expressly provided by this Act, no committee of agriculture shall be deemed for the purposes of any enactment (including the Act of 1925 as amended by the Act of 1927) to be a local authority within the meaning of the said Act of 1925 as so amended or to be a committee of the council of a county.
