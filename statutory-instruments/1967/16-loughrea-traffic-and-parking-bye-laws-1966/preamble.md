@@ -1,0 +1,9 @@
+S.I. No. 16 of 1967.
+
+LOUGHREA TRAFFIC AND PARKING BYE-LAWS, 1966.
+
+WHEREAS the Commissioner of the Garda Síochána has, before making the bye-laws hereinafter set forth, consulted the Town Commissioners of the town of Loughrea in regard thereto :
+
+NOW, I, WILLIAM P. QUINN, Commissioner of the Garda Síochána, in exercise of the powers conferred on me by sections 89 and 90 of the Road Traffic Act, 1961 (No. 24 of 1961), and with the consent of the Minister for Local Government, hereby make the following bye-laws in respect of the area comprising the town of Loughrea :—
+
+1 Short title.
