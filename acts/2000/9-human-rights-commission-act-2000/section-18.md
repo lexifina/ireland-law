@@ -1,0 +1,3 @@
+Remuneration of staff of Commission.
+
+18.—The Commission, in determining the remuneration or allowances for expenses to be paid to members of its staff or the other terms or conditions subject to which such members hold or are to hold their employment, shall have regard to Government or nationally agreed guidelines which are for the time being extant and to Government policy concerning remuneration and conditions of employment which is so extant and, in addition to the foregoing, the Commission shall comply with any directives with regard to such remuneration, allowances, terms or conditions which the Minister may give to the Commission with the consent of the Minister for Finance.
