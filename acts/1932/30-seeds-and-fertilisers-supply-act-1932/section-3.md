@@ -1,0 +1,3 @@
+Agreements to be evidence.
+
+3.—Whenever any occupier or cultivator of land in a county has obtained any seeds or fertilisers from the council of such county and has, prior to or as a condition of obtaining such seeds or fertilisers (as the case may be), signed or otherwise executed or become liable on any undertaking to pay to the council of such county the price of the seeds or fertilisers so obtained, such undertaking may be tendered and shall be received in evidence on proof of due execution thereof in proceedings in any court to recover such price notwithstanding that the provisions of the Stamp Act, 1891, as amended or adapted by subsequent enactments, have not been complied with.
