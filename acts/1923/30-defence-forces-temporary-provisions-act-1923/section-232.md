@@ -1,0 +1,7 @@
+Provisions as to offences.
+
+232.—With respect to the trial and punishment of men charged with offences which in pursuance of this Act are cognisable both by a Court-Martial and by a Court of Summary Jurisdiction, the following provisions shall have effect:—
+
+(i) An alleged offender shall not be liable to be, tried by Court-Martial and by a Court of Summary Jurisdiction, but may be tried by either of such Courts, according as may be prescribed by orders or regulations under this Part of this Act.
+
+(ii) Proceedings against an alleged offender before either a Court-Martial or his Commanding Officer or a Court of Summary Jurisdiction, may be instituted whether the term of his Reserve service has or has not expired, and may notwithstanding anything in any Act, be instituted at any time within two months after the time at which the offence becomes known to an officer who under the powers or regulations in force under this Part of this Act has power to direct the offender to be tried by a Court-Martial or by a Court of Summary Jurisdiction, if the offender is apprehended at that time, or if he is not apprehended at that time, then within two months after the time at which he is apprehended, whether such apprehension is by a civil or military authority, and any limitation contained in any other Act with respect to the time for hearing and determining an offence shall not apply in the case of any proceeding so instituted.

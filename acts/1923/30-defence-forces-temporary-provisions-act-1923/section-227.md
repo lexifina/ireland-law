@@ -1,0 +1,5 @@
+Record of illegal absence of Reserve man.
+
+227.—(1) Where a man belonging to the Reserve is subject to military law, and is illegally absent from duty, a court of inquiry under Section one hundred and nineteen of this Act, may be assembled after the expiration of twenty-one days from the date of such absence, notwithstanding that the period during which such man was subject to military law is less than twenty-one days, or has expired before the expiration of twenty-one days; and the record mentioned in that Section may be entered in the manner thereby provided, or in such regimental books and by such officer as may be prescribed.
+
+(2) Where a man belonging to the Reserve fails to appear at the time and place at which he is required upon being called out for training or on permanent service to attend, and his absence continues for not less than fourteen days, an entry of such absence shall be made by the prescribed officer in the prescribed manner and in the prescribed regimental books and such entry shall be conclusive evidence of the fact of such absence.

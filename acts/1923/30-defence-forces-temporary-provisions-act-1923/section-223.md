@@ -1,0 +1,5 @@
+Service of Reserve men called out.
+
+223.—(1) A man belonging to the Reserve when called out on permanent service shall be liable to serve until the Executive Council no longer requires his services, so however that he shall not be required to serve for a period exceeding in the whole the remainder unexpired of his term of service in the Reserve and any further period not exceeding twelve months during which as a soldier of the Forces he can under Section one hundred and fifty-five of this Act, be detained in service after the time at which he would be entitled to be discharged.
+
+(2) A man called out on permanent service shall during his service form part of the Forces and be subject to Part II. of this Act accordingly and the prescribed military authority within the meaning of Chapter V. of Part II. of this Act may if it seems proper appoint him to any corps as a soldier of the Forces and the said prescribed military authority may within three months after such appointment transfer him to any other corps of the Forces.

@@ -1,0 +1,7 @@
+Obligation of constable to provide billets.
+
+167.—(1) Every constable for the time being in charge of any place mentioned in the route issued to the Commanding Officer of any portion of the Forces, shall on the demand of such Commanding Officer, or of an officer or soldier authorised by him, and on production of such route, billet on the occupiers of victualling houses and other premises specified in this Act as victualling houses in that place such number of officers, soldiers and horses entitled under this Act to be billeted as are stated in the route to require quarters.
+
+(2) A route for the purpose of this Part of this Act shall be issued under the authority of the Minister, and shall state the forces to be moved in pursuance of the route, and that statement shall be signed by the Minister or such officer as the Minister may from time to time order in that behalf.
+
+(3) A route purporting to be issued and signed as required by this Section shall be evidence until the contrary is proved of its having been duly issued and signed in pursuance of this Act, and if delivered to an officer or soldier by his Commanding Officer, shall be a sufficient authority to such officer or soldier to demand billets, and when produced by an officer or soldier to a constable shall be conclusive evidence to such constable of the authority of the officer or soldier producing the same to demand billets in accordance with such route.

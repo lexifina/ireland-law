@@ -1,0 +1,3 @@
+Re-engagement and continuance of service of non-commissioned officers.
+
+154. The regulations from time to time made in pursuance of this Part of this Act, may, if it seems expedient, provide that a non-commissioned officer of the Forces who extends his army service for the residue unexpired of his original term of enlistment shall have the right at his option to re-engage, under Section 153 of this Act and continue his service under Section 153 of this Act, or to do either of such things subject, nevertheless, to the veto of the Minister or other authority mentioned in the regulations and to such other conditions as are specified in the regulations.

@@ -1,0 +1,7 @@
+Liability to military law in respect of status.
+
+194.—(1) Where an offence under this Act has been committed by any person while subject to military law such person may be taken into and kept in military custody and tried and punished for such offence, although he, or the corps or battalion to which he belongs has ceased to be subject to military law, in like manner as he might have been taken into and kept in military custody, tried or punished, if he or such corps or battalion had continued to be so subject:
+
+Provided that where a person has since the commission of an offence ceased to be subject to military law, he shall not be tried for such offence, except in the case of the offence of mutiny, desertion, or fraudulent enlistment, unless his trial commences within three months after he has ceased to be subject to military law; but this Section shall not affect the jurisdiction of a Civil Court in the case of any offence triable by such Court as well as by Court-Martial.
+
+(2) Where a person subject to military law is sentenced by Court-Martial to penal servitude, imprisonment, or detention, this Act shall apply to him during the term of his sentence, notwithstanding that he is discharged or dismissed from the service, or has otherwise ceased to be subject to military law, and he may be kept, removed, imprisoned, made to undergo detention, and punished accordingly as if he continued to be subject to military law.

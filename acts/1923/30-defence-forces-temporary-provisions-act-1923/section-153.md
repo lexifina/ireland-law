@@ -1,0 +1,3 @@
+Continuance in service after 21 years' service.
+
+153. A soldier of the Forces who has completed or will within one year complete a total period of twenty-one years' service, inclusive of any period served in the Reserve, may give notice to his Commanding Officer of his desire to continue in the service in the Forces; and if the prescribed military authority approve he may be continued as a soldier of the Forces in the same manner in all respects as if his term of service were still unexpired, except that he may claim his discharge at the expiration of any period of three months after he has given notice to his Commanding Officer of his wish to be discharged.

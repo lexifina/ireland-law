@@ -1,0 +1,3 @@
+Insanity of person imprisoned or undergoing detention.
+
+111.—If a person imprisoned or undergoing detention by virtue of this Act, becomes insane, then without prejudice to any other provisions for dealing with insane persons, an Executive Minister may, upon a certificate of such insanity by two qualified practitioners, order the removal of such person to an asylum or other proper place for the reception of insane persons, there to remain for the unexpired term of his imprisonment or detention, and upon such person being certified in the like manner to be again of sound mind, may order his removal to any prison or detention barrack in which he might have been confined if he had not become insane, there to undergo the remainder of such punishment.
