@@ -1,0 +1,3 @@
+Regulation 3
+
+3. The Interpretation Act, 1923 , applies to the interpretation of these Regulations as it applies to the interpretation of an Act of the Oireachtas.

@@ -1,0 +1,13 @@
+SAORSTÁT EIREANN. STATUTORY RULES AND ORDERS, 1936. No. 246.NATIONAL HEALTH INSURANCE.
+
+REPAYMENT OF COMPENSATION LOAN REGULATIONS, 1936.
+
+ARACHAS NAISIUNTA AR SHLAINTE.
+
+(NATIONAL HEALTH INSURANCE.)
+
+REGULATIONS MADE BY THE MINISTER FOR LOCAL GOVERNMENT AND PUBLIC HEALTH UNDER THE NATIONAL HEALTH INSURANCE ACTS, 1911 TO 1936.
+
+DATED THIS 31ST DAY OF AUGUST, 1936.
+
+The Minister for Local Government and Public Health, in exercise of the powers conferred on him by the National Health Insurance Acts, 1911 to 1936 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
