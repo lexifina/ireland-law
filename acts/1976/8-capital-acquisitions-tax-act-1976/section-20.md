@@ -1,0 +1,5 @@
+Contingencies affecting gifts or inheritances.
+
+20.—Where, under a disposition, a person becomes beneficially entitled in possession to any benefit and, under the terms of the disposition, the entitlement, or any part thereof, may cease upon the happening of a contingency (other than the revocation of the entitlement upon the exercise by the disponer of such a power as is referred to in section 30), the taxable value of any taxable gift or taxable inheritance taken by that person on becoming so entitled to that benefit shall be ascertained as if no part of the entitlement were so to cease; but, in the event and to the extent that the entitlement so ceases, the tax payable by that person shall, to that extent, be adjusted (if, by so doing, a lesser amount of tax would be payable by him) on the basis that he had taken an interest in possession for a period certain which was equal to the actual duration of his beneficial entitlement in possession :
+
+Provided that nothing in this section shall prejudice any charge for tax on the taking by such person of a substituted gift or inheritance on the happening of such a contingency.

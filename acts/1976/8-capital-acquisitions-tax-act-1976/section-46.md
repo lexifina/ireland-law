@@ -1,0 +1,3 @@
+Overpayment of tax.
+
+46.—Where, on application to the Commissioners for relief under this section, it is proved to their satisfaction that an amount has been paid in excess of the liability for tax or for interest on tax, they shall give relief by way of repayment of the excess or otherwise as is reasonable and just; and any such repayment shall carry simple interest (not exceeding the amount of such excess), without deduction of income tax, from the date on which the payment was made, at the same rate as that at which the tax would from time to time have carried interest if it were due and such payment had not been made.

@@ -1,0 +1,9 @@
+Tax to be a charge.
+
+47.—(1) Tax due and payable in respect of a taxable gift or a taxable inheritance shall, subject to the provisions of this section, be and remain a charge on the property (other than money or negotiable instruments) of which the taxable gift or taxable inheritance consists at the valuation date and the tax shall have priority over all charges and interests created by the donee or successor or any person claiming in right of the donee or successor or on his behalf:
+
+Provided that where any settled property comprised in any taxable gift or taxable inheritance shall be subject to any power of sale, exchange, or partition, exercisable with the consent of the donee or successor, or by the donee or successor with the consent of another person, the donee or successor shall not be precluded by the charge of tax on his taxable gift or taxable inheritance from consenting to the exercise of such power, or exercising any power with proper consent, as the case may be; and where any such power is exercised, the tax shall be charged upon the property acquired, in substitution for charging it on the property previously comprised in the gift or inheritance, and upon all moneys arising from the exercise of any such power, and upon all investments of such moneys.
+
+(2) Property comprised in a taxable gift or taxable inheritance shall not, as against a bona fide purchaser or mortgagee for full consideration in money or money's worth, or a person deriving title from or under such a purchaser or mortgagee, remain charged with or liable to the payment of tax after the expiration of twelve years from the date of the gift or the date of the inheritance.
+
+(3) Tax shall not be a charge on property under subsection (1) as against a bona fide purchaser or mortgagee of such property for full consideration in money or money's worth without notice, or a person deriving title from or under such a purchaser or mortgagee.
