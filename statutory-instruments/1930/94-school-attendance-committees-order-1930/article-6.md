@@ -1,0 +1,3 @@
+Article 6
+
+6. —Where a person who has been appointed to be a member of a committee (otherwise than to fill a casual vacancy) dies or resigns before the commencement of his term of office as such member, such death or resignation shall be deemed to create a casual vacancy in such committee within the meaning of this Order, and such vacancy shall, for the purposes of this Order be deemed to have occurred on the day after the day on which the term of office of such person would have commenced if he had not so died or resigned, and references in this Order to a member of a committee shall include a person so dying or resigning.
