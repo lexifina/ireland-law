@@ -1,0 +1,9 @@
+Regulation 7
+
+7. Wastage including—(a) dirty eggs and eggs unfit for human consumption obtained from other Registered Wholesalers ; (b) eggs found unfit for human consumption after preservation, and (c) broken eggs disposed as liquid
+
+(a) ......................................
+
+(b) ......................................
+
+(c).......................................
