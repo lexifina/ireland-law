@@ -1,0 +1,5 @@
+Verification and stamping of bottles.
+
+6.—(1) In addition to the times and places fixed under the Weights and Measures Acts, 1878 to 1904, for the verification and stamping of weights and measures, manufactured bottles to which this Act applies may be verified and stamped at such times and in such places in the factory in which such bottles are manufactured or in the immediate neighbourhood thereof as the Commissioner shall with the approval of the Minister appoint.
+
+(2) The Commissioner shall assign a special inspector to every place appointed by him under this section for the verification and stamping of bottles to which this Act applies and it shall be the duty of such special inspector to attend at such place at the times appointed in respect thereof by the Commissioner under this section and there to perform the duties in relation to the verification and stamping of bottles to which this Act applies imposed on him by the Weights and Measures Acts, 1878 to 1904, as amended by this Act.
