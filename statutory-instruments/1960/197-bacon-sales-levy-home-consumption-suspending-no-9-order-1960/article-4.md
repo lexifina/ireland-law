@@ -1,0 +1,15 @@
+Article 4
+
+4. This Order shall come into force on Saturday, the first day of October, 1960.
+
+GIVEN under the Seal of the Pigs and Bacon Commission this 9th day of September, 1960.
+
+The Seal of the Commission was affixed in the presence of:
+
+J. N. D'ARCY,
+
+Chairman.
+
+EXPLANATORY NOTE.
+
+This Order provides for continuance, during the month of October, 1960, of the suspension (in operation for many years past) of levy on home-market sales of bacon.
