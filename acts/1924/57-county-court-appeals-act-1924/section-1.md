@@ -1,0 +1,5 @@
+Certain appeals may be heard by Commissioners.
+
+1.—(1) Every appeal from a Recorder or County Court Judge to a Judge of Assize which was pending at the commencement of Part II. of the Courts of Justice Act, 1924 (No. 10 of 1924) (which appeals are in this Act referred to as pending appeals) may, in lieu of being heard and determined by a Judge of the High Court under section 103 of that Act, be heard and determined at any time within twelve months after the passing of this Act by a Commissioner appointed under this Act.
+
+(2) A Commissioner appointed under this Act when hearing and determining a pending appeal as aforesaid shall have all the powers, jurisdictions, and privileges which a Judge of the High Court would have when hearing and determining such appeal under section 103 of the Courts of Justice Act, 1924, and shall also have such further or other powers, jurisdictions, and privileges as a Judge of Assize would have had prior to the commencement of the Courts of Justice Act, 1924, when hearing and determining such appeal.
