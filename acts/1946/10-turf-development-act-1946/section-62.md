@@ -1,0 +1,7 @@
+Transfer of property of the dissolved company to the Board.
+
+62.—(1) Subject to the provisions of this section all property whether real or personal (including choses-in-action) which immediately before the establishment date was vested in, or belonged to or was held in trust for the dissolved company and all rights, powers and privileges relating to or connected with any such property shall, on the establishment date and without any conveyance or assignment but subject where necessary to transfer in the books of any bank, corporation or company, become and be vested in or the property of or held in trust for (as the case may require) the Board for all the estate, trust or interest for which the same immediately before the establishment date was vested in or belonged to or was held in trust for the dissolved company.
+
+(2) All property transferred by this section which, immediately before the establishment date, was standing in the books of any bank or was registered in the books of any bank, corporation, or company shall, upon the request of the Board made on or after the establishment date, be transferred in such books by such bank, corporation, or company into the name of the Board.
+
+(3) On and after the establishment date, every chose-in-action transferred by this section to the Board may be sued upon, recovered or enforced by the Board in its own name and it shall not be necessary for the Board to give notice to the person bound by such chose-in-action of the transfer effected by this section.

@@ -1,0 +1,3 @@
+Grant of transport works order.
+
+43.—Where the Minister, after, consideration of an application for a transport works order and, in case an inquiry was held, under section 42 of this Act, into the application, the report of the officer who held it and after consultation with the Minister for Local Government and Public Health, is of opinion that the application should be granted, he shall make an order authorising the Board to construct, maintain and operate the transport works specified in the order in such manner, subject to such restrictions and provisions and on such terms and conditions as the Minister thinks proper and specifies in the order.
