@@ -1,0 +1,5 @@
+Regulation 2
+
+2. (1) Every solicitor to whom these regulations apply shall balance his books at least once in each practice year. The balancing date (or, where the books are balanced more than once in each year, one of such balancing dates) shall be a fixed date in each practice year and the solicitor shall, within three months from the date on which these regulations apply to him, notify the Society of such date. The balancing date shall also be stated in the annual declaration made by a solicitor for the purpose of obtaining a practising certificate.
+
+(2) Every solicitor to whom these regulations apply shall deliver to the Society within six months of the balancing date in each practice year, or within such further period as the Society may permit, a certificate by an accountant (in these regulations referred to as an accountant's certificate) in either form A or form B in the schedule hereto, or in such other form as may be approved by the Society, in respect of the accounting period.
