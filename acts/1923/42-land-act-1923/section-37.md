@@ -1,0 +1,3 @@
+Power to acquire any bog.
+
+37.—The powers of the Land Commission under this Act to acquire any untenanted land shall include power so to acquire any bog for the purpose of providing turbary for the occupiers of land in the neighbourhood thereof, whether the said bog is or is not subject to any right of turbary of other persons than the owner, and whether or not an advance under the Land Purchase Acts has been made for the purchase of lands including such bog, and if made, whether redeemed or not. In exercising the powers given by this section the Land Commission shall have due regard to the reasonable requirements of the owner.

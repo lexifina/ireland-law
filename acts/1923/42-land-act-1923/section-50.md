@@ -1,0 +1,3 @@
+Information required from the Bank by Land Commission.
+
+50.—The Bank shall furnish in writing to the Land Commission particulars of the lands so purchased, of the portion of the purchase money (if any) deposited with them by the Society or body of trustees, of the advance made by them for the purchase thereof, of the amount due them in respect of such advance, and of the superior interests and other charges (if any), subject to which the lands were purchased by the Society or body of trustees, together with such other particulars as the Land Commission may require and prescribe, and shall lodge with the Land Commission such deeds, documents and maps as may be necessary for the purpose of verifying the particulars so furnished.

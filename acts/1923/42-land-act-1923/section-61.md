@@ -1,0 +1,3 @@
+Registration of a nominated proprietor.
+
+61.—Where the Land Commission nominates a person to be proprietor of a holding under the powers conferred by sub-section (1) (c) of section fifty-four of the Irish Land Act, 1903, such person shall be registered as proprietor of the holding subject to such claims and charges as would affect the estate or interest of the personal representative of the deceased proprietor, and thereupon all persons interested in the holdings may apply to the registering authority in the prescribed manner to have their claims ascertained and registered as charges against the holding.

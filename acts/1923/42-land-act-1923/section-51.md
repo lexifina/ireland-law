@@ -1,0 +1,3 @@
+Advertisement by Land Commission of lands acquired.
+
+51.—The Land Commission shall, from time to time, publish notices containing particulars of the lands so purchased, and of the superior interests and other charges, including the charge for the repayment of the advance due to the Bank, subject to which they were purchased, and such notices shall prescribe the time within which, and the manner in which, objections to such notices may be made, by reason of the inclusion or non-inclusion therein of any lands, or the omission or mis-description of any such superior interest or charge, as aforesaid.

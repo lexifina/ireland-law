@@ -1,0 +1,3 @@
+Powers of the Board of Works to apportion annuities.
+
+72.—The powers for the apportionment of an annuity or the discharge of portion of a holding from liability in respect of an annuity conferred on the Land Commission by sub-section (3) of section 38 of the Land Law (Ireland) Act, 1896, as extended by sub-section (1) of section 67 of the Irish Land Act, 1903, may me exercised by the Commissioners of Public Works as regards an annuity charged on a holding in repayment of an advance made by the said Commissioners for the purpose of the purchase thereof pursuant to the Landlord and Tenant (Ireland) Act, 1870.

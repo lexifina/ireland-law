@@ -1,0 +1,7 @@
+Resale of untenanted land to owners.
+
+32.—Where the owner of a parcel of untenanted land which is vested in the Land Commission by virtue of this Act uses and cultivates the same as an ordinary farm in accordance with proper methods of husbandry; then
+
+(a) if the price of the parcel together with the value of any other lands in the possession of the owner as ascertained by the Land Commission does not exceed £3,000 the Land Commission shall if the owner so requires and unless in their opinion it ought to be retained for improvement or enlargement or for utilization in connection with the relief of congestion, resell the parcel to the owner at the said price, if before the appointed day he has undertaken to purchase it at that price; and
+
+(b) if the price of the parcel together with the value of any other lands in the possession of the owner as ascertained by the Land Commission exceeds £3,000 the Land Commission may resell to the owner either the whole thereof at the said price or any part thereof at a price bearing the same proportion to the said price which the value of the part bears to the value of the whole of the parcel as ascertained by the Land Commission, but the advance shall not in any case exceed £3,000, unless in the opinion of the Land Commission it is expedient that this amount should be exceeded, the difference (if any) between the amount to be advanced and the price being paid in cash by the owner to the Land Commission.

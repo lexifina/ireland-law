@@ -1,0 +1,3 @@
+Power to Land Commission to purchase untenanted land.
+
+36.—The Land Commission may purchase any untenanted land which they consider necessary for the purpose of providing parcels of land for any of the persons or bodies to whom advances may be made under the provisions of this Act, for such price, payable in 4½ per cent. Land Bonds of equal nominal value, as shall be agreed upon between the owner of such untenanted land and the Land Commission, and such land when vested in the Land Commission shall be subject to all the provisions of this Act relating to the providing of parcels of land for the persons or bodies aforesaid.

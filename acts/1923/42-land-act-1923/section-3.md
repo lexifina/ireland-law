@@ -1,0 +1,5 @@
+Superior interests and other charges to be paid in 4½ per cent. Land Bonds.
+
+3.—The redemption price of all superior and intervening interests, incumbrances and other claims attaching to purchase money paid by means of 4½ per cent. Land Bonds or payable out of such interests, incumbrances and claims, together with all arrears of and interest on such interests, incumbrances and claims and the vendor's costs of sale and the costs of making title to such interests, incumbrances and claims, so far as the same are payable out of the purchase money, shall be paid and discharged by transferring to the person entitled thereto, out of the Land Bonds representing the purchase money, Land Bonds of equal nominal value, and such payment shall be deemed to be satisfaction to the extent of the nominal amount of the Land Bonds so transferred.
+
+In fixing the redemption price of superior interests the Judicial Commissioner shall have regard to the price received by the vendor for the lands out of which such superior interests issue.

@@ -1,0 +1,11 @@
+Advances to trustees for the purpose of tillage.
+
+69.—(1) The provisions of sections 4 and 20 of the Irish Land Act, 1903, and of Section 18 of the Irish Land Act, 1909, shall be extended so as to include tillage as one of the purposes for which advances may be made under those sections and it shall be lawful for the Minister for Agriculture to amend and frame schemes so as to include this purpose.
+
+(2) So much of section 20 of the Irish Land Act, 1903, as requires provisions for appeals to the Lord Lieutenant to be inserted in any such scheme and so much of any scheme as provided for such appeals shall cease to have effect, and the other powers declared in the said sections to be exercisable by the Lord Lieutenant and the Department of Agriculture shall be exercised by the Minister for Agriculture in the case of all existing schemes as well as in the case of future advances and schemes.
+
+(3) Any person aggrieved by any act or omission of any trustees in carrying into effect a scheme for the user of land framed or approved under section 20 of the Irish Land Act, 1903, may take proceedings in the County Court by way of equity civil bill for the execution of the trusts of the scheme, and the jurisdiction of the County Court shall extend to any such proceedings notwithstanding that the land subject to the trusts exceeds thirty pounds in annual value.
+
+(4) It shall be lawful for a County Borough Council or an Urban District Council or Town Commissioners to purchase any parcel of land under section 4 of the Irish Land Act, 1903, for any of the purposes mentioned in that section as extended by sub-section (1) of this section, save for the purposes of the Labourers (Ireland) Acts, 1883 to 1896, and any such Council or Town Commissioners may act as trustees for those purposes and may obtain advances for the purchase, and the provisions of section 18 of the Irish Land Act, 1909, shall apply to any such purchase as if County Borough Councils, Urban Councils and Town Commissioners were mentioned in that section.
+
+The amounts required for payment of the instalments of the purchase annuity for, lands purchased by a County Borough Council or an Urban Council under this section shall be defrayed out of the poor-rate, and for lands purchased by Town Commissioners under this section out of the town rate.

@@ -1,0 +1,3 @@
+Power to nominate a representative of a purchaser.
+
+67.—Where a purchase agreement has been entered into or is deemed to have been entered into by a tenant of a holding, and owing to the death or absence of a tenant or otherwise, a difficulty arises in ascertaining in whom the tenancy of the holding is vested, the Land Commission may nominate a person to represent the tenant for the purposes of the sale, and may vest the holding in him accordingly, but the interest so vested shall be a graft upon the interest of the tenant and of the representative in whom the holding is vested, and shall be subject to any rights or equities arising from its being such graft.
