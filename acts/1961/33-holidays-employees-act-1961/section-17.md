@@ -1,0 +1,9 @@
+Reckoning of days off with pay as annual leave.
+
+17.—(1) Where, immediately before the commencement of this Act, it was the practice of an employer to allow to any worker employed by him days off with pay in addition to public holidaysand annual leave, and that practice is continued after the commencement of this Act in respect of a worker whether so employed before and after, or after such commencement, such days off with pay may, for the purposes of this Act, be reckoned as days of annual leave in respect of not more than seven days of such annual leave.
+
+(2) For the purposes of subsection (1) of this section an employer shall be deemed to have allowed a worker a day off with pay if he allows to the worker a whole holiday (otherwise than in respect of sick leave) for which he pays the worker a full day's pay as defined in subsection (13) of section 9 of this Act.
+
+(3) The Minister may, after consultation with such Ministers of State or employers' organisations and with such workers' organisations as he considers appropriate to be consulted, make regulations providing that the practice mentioned in subsection (1) of this section may be applied either wholly or in part as between any employer and any worker (or any class or description of workers defined in such manner and by reference to such things as the Minister thinks proper) referred to in the regulations who consent to the application of such practice to the extent specified in the regulations, and upon the regulations being made and such consent being given, the provisions of subsection (1) of this section shall apply to them as they do to those referred to in the said subsection (1), but wholly or in part (as may be appropriate).
+
+(4) The Minister may by regulations modify any of the provisions of this Act for the purpose of enabling the provisions of subsection (1) of this section or those provisions as applied by subsection (3) of this section to have effect.

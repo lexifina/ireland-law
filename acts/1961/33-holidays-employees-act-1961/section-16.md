@@ -1,0 +1,3 @@
+Annual leave of non-domestic workers in one or more than one period of consecutive days.
+
+16.—The Minister may, after consultation with such Ministers of State or employers' organisations and with such workers' organisations as he considers appropriate to be consulted, make regulations providing that all or any particular class or classes (defined in such manner and by reference to such things as the Minister thinks proper) of non-domestic workers may be allowed their annual leave in more than one period of consecutive days specified in the regulations, and the regulations may modify any of the provisions of this Act for the purposes of the regulations.
