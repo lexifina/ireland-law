@@ -1,0 +1,7 @@
+Application of section 31 (buildings societies) of Corporation Tax Act, 1976, for year 1982-83.
+
+25.—(1) Save as is otherwise provided for in subsection (2), section 40 (1) of the Finance Act, 1977 (as extended by section 52 of the Finance Act, 1980), shall have effect in relation to the year 1982-83 as it has effect in relation to the years 1980-81 and 1981-82.
+
+(2) The Revenue Commissioners and any building society approved of for the purposes of this section by the Minister for Finance may, as respects the year 1982-83, enter into arrangements of the kind referred to in section 31 of the Corporation Tax Act, 1976, but modified, to such extent as shall be directed by the Minister for Finance, in so far as they relate to the sums on which tax is to be calculated in part at the standard rate and in part at a reduced rate.
+
+(3) The Minister for Finance shall approve, for the purposes of this section, of any building society (within the meaning of section 31 of the Corporation Tax Act, 1976) if, in relation to that society, the Minister for the Environment gives a certificate stating that the society has, during the financial year 1982, maintained at levels and for periods agreed with him the rate or rates of interest charged by it on loans granted by it to individuals for the purposes of the purchase, construction or improvement of dwelling-houses to be used for the sole purpose of owner-occupation by those individuals.
