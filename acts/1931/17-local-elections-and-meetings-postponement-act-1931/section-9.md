@@ -1,0 +1,3 @@
+Saving from disqualification in certain cases.
+
+9.—A member of a local authority a triennial election to which is postponed by this Act who has ceased or shall cease to be a local government elector in the functional area of such local authority by reason of the coming into force of a new register of local government electors on the 1st day of June, 1931, or on any day after the passing of this Act shall not, by reason only of such cesser, be disqualified from continuing to hold office as a member of such local authority until the ordinary day of retirement of the members of such local authority next after the passing of this Act.

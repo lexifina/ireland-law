@@ -1,0 +1,3 @@
+Amendment of section 9 of the Local Government (Ireland) Act, 1898.
+
+11.—The reference in sub-section (7) of section 9 of the Local Government (Ireland) Act, 1898, as amended by section 77 of the Local Government Act, 1925 (No. 5 of 1925), to the three local financial years which ended next before the last triennial election of county councillors shall from the passing of this Act until the appointed day be construed as a reference to the three local financial years which ended next before the triennial election of county councillors next before the passing of this Act, and the said sub-section shall have effect accordingly.
