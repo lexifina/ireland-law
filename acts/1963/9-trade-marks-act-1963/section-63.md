@@ -1,0 +1,3 @@
+Falsification of entries in register.
+
+63.—A person who makes or causes to be made a false entry in the register, or a writing falsely purporting to be a copy of an entry in the register, or who produces or tenders or causes to be produced or tendered in evidence any such writing, knowing the entry or writing to be false, shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding one hundred pounds or, at the discretion of the court, to imprisonment for any term not exceeding three months or to both such fine and such imprisonment.

@@ -1,0 +1,13 @@
+Proposed use of trade mark by corporation to be constituted.
+
+37.—(1) No application for the registration of a trade mark in respect of any goods shall be refused, nor shall permission for such registration be withheld, on the ground only that it appears that the applicant does not use or propose to use the trade mark—
+
+(a) if the Court or the Controller (as the case may be) is satisfied that a body corporate is about to be constituted, and that the applicant intends to assign the trade mark to the corporation with a view to the use thereof in relation to those goods by the corporation; or
+
+(b) if the application is accompanied by an application for the registration of a person as a registered user of the trade mark, and the Court or the Controller (as the case may be) is satisfied that the proprietor intends it to be used by that person in relation to those goods and the Court or the Controller (as the case may be) is also satisfied that that person will be registered as a registered user thereof immediately after the registration of the trade mark.
+
+(2) Section 34 of this Act shall have effect, in relation to a trade mark registered under the power conferred by subsection (1) of this section as if for the reference, in paragraph (a) of subsection (1) of section 34 of this Act, to intention on the part of an applicant for registration that a trade mark should be used by him there were substituted a reference to intention on his part that it should be used by the corporation or registered user concerned.
+
+(3) The Controller or (in the case of an appeal) the Court may, as a condition of the exercise of the power conferred by subsection (1) of this section in favour of an applicant who relies on intention to assign to a corporation as aforesaid, require him to give security for the costs of any proceedings before the Controller or the Court (as the case may be), and in default of such security being duly given may treat the application as abandoned.
+
+(4) Where a trade mark is registered in respect of any goods under the power conferred by subsection (1) of this section in the name of an applicant who relies on intention to assign to a corporation as aforesaid, then, unless within such period as may be prescribed, or within such further period not exceeding six months as the Controller may on application being made to him in the prescribed manner allow, the corporation has been registered as the proprietor of the trade mark in respect of those goods, the registration shall cease to have effect in respect thereof at the expiration of that period, and the Controller shall amend the register accordingly.

@@ -1,0 +1,5 @@
+Registration of assignments and transmissions.
+
+33.—(1) Where a person becomes entitled by assignment or transmission to a registered trade mark, he shall make application in the prescribed manner to the Controller to register his title, and the Controller shall, on receipt of the application and on proof of title to his satisfaction, register him as the proprietor of the trade mark in respect of the goods in respect of which the assignment or transmission has effect, and shall cause particulars of the assignment or transmission to be entered on the register.
+
+(2) Except for the purposes of an appeal under section 57 of this Act against a decision of the Controller under this section or of an application under section 40 of this Act, a document or instrument in respect of which no entry has been made in the register in accordance with subsection (1) of this section shall not be admitted in evidence in any court of law in proof of the title to a trade mark unless that court otherwise directs.
