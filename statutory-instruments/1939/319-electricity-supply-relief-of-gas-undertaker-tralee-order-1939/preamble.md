@@ -1,0 +1,13 @@
+STATUTORY RULES AND ORDERS. 1939. No. 319.
+
+ELECTRICITY SUPPLY (RELIEF OF GAS UNDERTAKER) (TRALEE) ORDER, 1939.
+
+WHEREAS it is enacted by subsection (1) of Section 104 of the Electricity (Supply) Act, 1927 (No. 27 of 1927), that where any gas undertaker is authorised by any special Act, Provisional or other Order or licence to supply gas in any area which is included in the area of supply of an authorised undertaker, and such gas undertaker is by virtue of such Act, Order or licence under any general or limited obligation to supply gas upon demand, the Minister for Industry and Commerce may, upon the application of such gas undertaker, inquire into the circumstances of the case, and if he is satisfied that any specified part of such area is sufficiently supplied with electricity, and that the supply of gas in such specified part has ceased to be remunerative to the said gas undertaker, and that it is just that the said gas undertaker should be relieved from the obligation to supply gas upon demand as aforesaid, the said Minister may in his discretion make an order relieving the said gas undertaker from such obligation within such specified part of such area either wholly or in part, and upon such terms and conditions as he thinks proper :
+
+AND WHEREAS the Tralee Urban District Council is a gas undertaker (within the meaning of the said Act) and is under general obligation, by virtue of a Provisional Order dated the 28th day of April, 1898, confirmed by the Local Government Board (Ireland) Provisional Orders Confirmation (No. 3) Act, 1898, to supply gas in Tralee Urban District upon demand :
+
+AND WHEREAS the Electricity Supply Board is, by virtue of an Order of the said Board made under the said Electricity (Supply) Act on the 21st day of February, 1939, the authorised undertaker (within the meaning of the said Act) of an area of supply which includes the said Tralee Urban District :
+
+AND WHEREAS the said Minister, upon the application of the Tralee Urban District Council, has inquired into the circumstances of the case, and is satisfied that the Tralee Urban District is sufficiently supplied with electricity, and that the supply of gas in that District has ceased to be remunerative to the Tralee Urban District Council, and that it is just that the said Council should be relieved from the obligation to supply gas upon demand as aforesaid :
+
+NOW, the Minister for Industry and Commerce, in exercise of the powers conferred on him by subsection (1) of Section 104 of the Electricity (Supply) Act, 1927 (No. 27 of 1927), and of every and any other power him in this behalf enabling, hereby orders as follows :—
