@@ -1,0 +1,3 @@
+Preparation of plans, etc.
+
+26.—The council of a county or an elective body may at any time by resolution require the county manager for such county or the manager for such elective body (as the case may be) to prepare and submit to such council or body plans and specifications for the execution of any particular work specified in such resolution which can lawfully be executed by such council or body together with an estimate of the probable cost of the execution of such work, and whenever such council or body passes any such resolution such county manager or such manager (as the case may be) shall, as soon as conveniently may be, prepare and submit to such council or body plans and specifications and an estimate in accordance with such resolution.

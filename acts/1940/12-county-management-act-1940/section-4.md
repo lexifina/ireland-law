@@ -1,0 +1,33 @@
+Appointment of county managers.
+
+4.—(1) The office of county manager shall be an office to which the Local Authorities (Officers and Employees) Act, 1926 (No. 39 of 1926), applies, save that section 5 of the said Act shall not apply to the said office and that sections 6, 8, and 9 of the said Act shall apply to the said office subject to the subsequent provisions of this section.
+
+(2) Whenever an appointment is required to be made to the office of county manager for a county or to the offices of county manager for each of two grouped counties, the Minister shall request the Local Appointments Commissioners to recommend to him a person for appointment to such office or offices and those Commissioners shall select (otherwise than by competitive examination) and recommend to the Minister under the Local Authorities (Officers and Employees) Act, 1926 (No. 39 of 1926), one and only one person for such appointment, and thereupon the person so selected and recommended shall become and be appointed by virtue of such recommendation to such office or each of such offices as on and from such day as the Minister shall by order appoint in that behalf.
+
+(3) In relation to the appointment of the first county manager for a county or for each of two grouped counties, the following provisions shall, in so far as they are applicable, apply and have effect in regard to the selection by the Local Appointments Commissioners of a person to be recommended by them for such appointment, that is to say:—
+
+(a) in the case of the first county manager for a single county, if the county secretary of such county is a candidate and suitable, the said Commissioners shall recommend such county secretary, and, in the case of the first county manager for each of two grouped counties, if the county secretaries for each of those counties are both of them candidates and suitable, the said Commissioners shall recommend whichever of those county secretaries they consider to be the more suitable, but if one and only one of such county secretaries is a candidate and suitable, the said Commissioners shall recommend that one county secretary;
+
+(b) if no person is recommended in pursuance of the foregoing paragraph of this sub-section and the secretary of a board of health for a county health district in the county or either of the grouped counties (as the case may be) is a candidate and suitable, the said Commissioners shall, if only one such secretary is a candidate and suitable, recommend that one such secretary or, if two or more such secretaries are candidates and suitable, recommend whichever of those secretaries they consider to be the most suitable;
+
+(c) if no person is recommended in pursuance of either of the foregoing paragraphs of this sub-section and a county secretary (other than the county secretary for the county, or either of the grouped counties, in respect of which the recommendation is being made) is a candidate and suitable, the said Commissioners shall, if only one such county secretary is a candidate and suitable, recommend that one such county secretary or, if two or more such county secretaries are candidates and suitable, recommend whichever of those county secretaries they consider to be the most suitable;
+
+(d) if no person is recommended in pursuance of any of the foregoing paragraphs of this sub-section and the secretary of a board of health (other than the secretary of a board of health for a county health district in the county or either of the counties in respect of which the recommendation is being made) is a candidate and suitable, the said Commissioners shall, if only one such secretary is a candidate and suitable, recommend that one such secretary or, if two or more such secretaries are candidates and suitable, recommend whichever of those secretaries they consider to be the most suitable.
+
+In this sub-section, the word “suitable” means possessing the requisite qualifications for appointment to the relevant office and being, in the opinion of the Local Appointments Commissioners, suitable in all other respects for such appointment;
+
+the expression “county secretary” does not include a temporary county secretary;
+
+the expression “secretary of a board of health” does not include a temporary secretary of a board of health.
+
+(4) Where a person has presented himself to the Local Appointments Commissioners as a candidate for selection for recommendation for appointment to be the first county manager for a county or each of two grouped counties and has been charged under section 10 of the Local Authorities (Officers and Employees) Act, 1926 (No. 39 of 1926), and has paid a fee on so presenting himself, such person shall not be charged any fee under the said section on presenting himself to the said Commissioners as a can didate for selection for recommendation for appointment to be the first county manager for any other county or two grouped counties.
+
+(5) Before or as soon as may be after the commencement of this Act, the Minister shall, in respect of every county appoint a person to be the county manager for such county or, in the case of grouped counties, for each of such grouped counties from such commencement until a person has been appointed under the foregoing provisions of this section to be the first county manager for such county or each of such grouped counties, as the case may be.
+
+(6) Whenever the office of a county manager for a county (including the county of Dublin) or for each of two grouped counties is vacant after the first appointment to such office under this section, the Minister shall appoint a person to be county manager for such county or each of such grouped counties (as the case may be) until an appointment to such office is made under the foregoing pro visions of this section or, in the case of the county of Dublin, under the next following sub-section of this section.
+
+(7) Save as is otherwise expressly hereinbefore stated, the foregoing provisions of this section shall not apply or have effect in relation to the county of Dublin and, in lieu thereof it is hereby enacted that—
+
+(a) unless at the commencement of this Act the office of Dublin City Manager is vacant or is held only by a temporary appointee, the person who at such commencement holds that office shall by virtue of this sub-section be and is hereby appointed to the office of Dublin County Manager, and
+
+(b) every person who is duly appointed (whether permanently or temporarily) to the office of Dublin City Manager after the commencement of this Act shall forthwith be appointed (permanently or temporarily, as the case may require) by the Minister to the office of Dublin County Manager.

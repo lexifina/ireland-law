@@ -1,0 +1,5 @@
+Committees of county councils and elective bodies.
+
+18.—(1) Save as is otherwise provided by the next following sub-section of this section, any power vested, by virtue of an enactment in force at the passing of this Act, in the council of a county or in an elective body to appoint at their discretion a committee for a purpose connected with their powers, functions, or duties may, after the commencement of this Act, be exercised by such council or elective body (as the case may be) by resolution.
+
+(2) Any power vested, by virtue of an enactment in force at the passing of this Act, in the council of a county or in an elective body to delegate to a committee appointed by such council or elective body any power, function, or duty which is an executive function of such council or elective body (as the case may be) shall, after the commencement of this Act, be exercisable only by the county manager for the county of such council or by the manager for such elective body (as the case may be) but subject in every case to the consent of the Minister.

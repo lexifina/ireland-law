@@ -1,0 +1,21 @@
+Payments by Dublin County Council to Dublin Corporation.
+
+14.—(1) As soon as conveniently may be after the commencement of this Act the remuneration payable to the Dublin City Manager by the Corporation of Dublin shall be reconsidered and shall be fixed, as from such commencement, with due regard to the fact that the holder of the office of Dublin City Manager also holds the office of Dublin County Manager.
+
+(2) The remuneration of the Dublin Assistant City Managers shall be fixed with due regard to the fact that each holder of the office of Dublin Assistant City Manager also holds the office of Dublin Assistant County Manager.
+
+(3) As soon as may be after the close of every local financial year ending after the commencement of this Act, the council of the county of Dublin shall pay to the Corporation of Dublin such portion of the cost of management (as defined in the next following sub-section of this section) in that local financial year as bears to the full amount of such cost of management the same proportion as the aggregate of the amounts of the valuations of rateable property in the county of Dublin in force under the Valuation Acts in the said local financial year bears to the total of the aggregates of the amounts of the valuations of rateable property in the county borough of Dublin and in the county of Dublin respectively in force as aforesaid.
+
+(4) For the purposes of this section, the expression “cost of management” means, in relation to any local financial year, the sum arrived at by ascertaining the total of all remuneration (including travelling and other personal expenses, if any) paid by the Corporation of Dublin in respect of that year or, in the case of the local financial year in which this Act commences, in respect of the portion of that year subsequent to the commencement of this Act to the Dublin City Manager and the Dublin Assistant City Managers respectively and deducting from that total all sums payable in pursuance of this section to the Corporation of Dublin in respect of the said local financial year by any joint body.
+
+(5) The council of the county of Dublin shall pay to the Corporation of Dublin such proportion of all superannuation granted after the commencement of this Act to a Dublin City Manager or a Dublin Assistant City Manager as shall be agreed upon between such council and such Corporation or, in default of such agreement, as shall be determined by the Minister.
+
+(6) In the fixing, whether by agreement or by the Minister, of the proportion of any superannuation to be paid under the next preceding sub-section of this section by the council of the county of Dublin to the Corporation of Dublin, regard shall be had to the total amounts of the valuations in force under the Valuation Acts of rateable property in the county borough of Dublin and in the county of Dublin respectively and to the period during which the officer receiving such superannuation performed duties in respect of the county of Dublin.
+
+(7) Where the Dublin City Manager is also manager for a joint body the functional area of which is partly within and partly outside the area consisting of the county borough of Dublin and the county of Dublin such joint body shall pay annually to the Corporation of Dublin such sum as the Minister shall determine.
+
+(8) Where the Dublin County Manager is also manager for a joint body the functional area of which is partly within and partly outside the area consisting of the county borough of Dublin and the county of Dublin, such joint body shall pay annually to the Corporation of Dublin such sum as the Minister shall determine.
+
+(9) The moneys required for making the payments which the council of the county of Dublin is required by this section to make to the Corporation of Dublin shall be raised by the said council as a county-at-large charge and shall be in addition to and not in substitution for any payments which the said council may be required under section 47 of the Local Government Act, 1925 (No. 5 of 1925), to make to the Corporation of Dublin.
+
+(10) The payments to be made by a joint body to the Corporation of Dublin in pursuance of this section shall be raised and defrayed in the like manner as the salaries of the officers of such joint body are raised and defrayed.
