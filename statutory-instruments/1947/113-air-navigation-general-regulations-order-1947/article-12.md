@@ -1,0 +1,3 @@
+Arrival at and Departure from Customs Airports of Aircraft in Transit.
+
+12. The commander of an aircraft arriving at a Customs airport from abroad and intending to proceed to a destination abroad without unlading or lading cargo, or without disembarking or embarking passengers, or without landing at any other place in the State, shall be exempt from compliance with rule 7 of this Schedule, or with rule 10 of this Schedule in so far as it relates to the delivery of documents to the proper Officer of Customs and Exciseand the obtaining of clearance and authority to proceed, provided he departs with his aircraft for his destination abroad within. twenty-four hours of his arrival.

@@ -1,0 +1,3 @@
+Article 6
+
+6. The commander of an aircraft arriving at a Customs airport from a place outside the State shall, on landing, forthwith take his aircraft to the examination station at that airport, but a commander shall not be deemed to have contravened or failed to comply withthis rule if he proves that circumstances over which he had no control prevented him from taking his aircraft to the examination station and that, after the requirements of rule 7 of this Schedule had been duly complied with, all goods carried in the said aircraft were removed to the examination station in the presence of an Officer of Customs and Excise.

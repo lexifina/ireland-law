@@ -1,0 +1,3 @@
+Power to Require Translation of Documents.
+
+11. The forms furnished in accordance with rules 7 or 10 of this Schedule shall be in the form prescribed in the Standards and Recommended Practices of the International Civil Aviation Organisation in relation to customs for the time being in force, or in such other form as the Commissioners may direct, and unless the language used therein is Irish or English the aircraft commander or authorised agent shall, if required, provide immediate verbal translation and shall file with the proper Officer of Customs and Excise copies of such documents in Irish or English not later than twenty-four hours after the arrival or departure of the aircraft, as the case may be.

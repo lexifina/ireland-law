@@ -1,0 +1,3 @@
+Importation, Entry and Unlading of Goods.
+
+13. A person importing goods in an aircraft shall not bring the goods into any place in the State other than a Customs airport, or unlade the goods from any aircraft except at an examination station (unless such goods are unladen in the presence of an Officer of Customs and Excise under the provisions of rule 6 of this Schedule), and shall not unlade the goods except between such hours as the Commissioners prescribe, or remove the goods from an examination station unless such goods have been first duly entered as required by rule 15 of this Schedule and produced to the proper Officer of Customs and Excise and duly cleared by him.

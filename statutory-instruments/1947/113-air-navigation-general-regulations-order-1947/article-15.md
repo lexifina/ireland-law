@@ -1,0 +1,3 @@
+Article 15
+
+15. The importer of any goods imported in aircraft shall deliver to the Collector of Customs and Excise in whose district the airport of importation is situated or, where so permitted by the Commissioners, to the proper Officer of Customs and Excise at such airport, an entry of such goods in accordance with the provisions of the Acts relating to Customs and shall truly furnish thereon the several particulars required by the form of entry and shall pay to such Collector or Officer of Customs and Excise all duties chargeable thereon at the time and in the manner prescribed by the said Acts; but no entry shall be required in respect of the baggage of passengers.
