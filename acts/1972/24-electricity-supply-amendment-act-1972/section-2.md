@@ -1,0 +1,7 @@
+Amendment of section 7 of Act of 1942.
+
+2.—Section 7 of the Act of 1942 is hereby amended by the insertion after subsection (8) (inserted by the Electricity (Supply) (Amendment) Act, 1970) of the following subsection:
+
+“(9) (a) In this subsection ‘previous service’, in relation to a person, means continuous service by the person in the employment of the Board up to the end of the last complete month of such service before the date of admission to the general employees superannuation scheme.
+
+(b) Notwithstanding anything contained in the foregoing provisions of this section, a scheme (in this subsection referred to as an amending scheme) amending the general employees superannuation scheme may, with respect to any superannuation benefit, provide that if a person who was not in the service of the Board on the 1st day of April, 1943, becomes a contributing member, for the purposes of that benefit, before three months after the day on which the amending scheme is confirmed by the Minister, the Board shall make payments in respect of the previous service of the person to the fund set up for the purposes of the general employees superannuation scheme, and the person shall be entitled to reckon one half, but no more, of his previous service for that superannuation benefit.”
