@@ -1,0 +1,5 @@
+Penalty for false statement in relation to excise duty.
+
+29.—(1) Every person who, in a return made by him in relation to or for the purposes of any duty of excise, makes any statement or representation which is to his knowledge false or misleading, shall be guilty of an offence under this section and shall be liable on summary conviction thereof to an excise penalty of five hundred pounds or, at the discretion of the Court, to imprisonment for any term not exceeding six months.
+
+(2) Where a person is alleged to have made, in a return relating to or for the purposes of a duty of excise, a statement or representation the making of which is an offence under this section and is also an offence under another enactment which relates specifically to returns in relation to or for the purposes of the said duty of excise, such person may be charged and, if convicted, may be punished under this section or under such other enactment but may not be charged or punished under both this section and the said other enactment.

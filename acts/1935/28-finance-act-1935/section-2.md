@@ -1,0 +1,3 @@
+Income tax on newly-built houses.
+
+2.—For the purpose of ascertaining, in the case of a house or building rated for the first time, the annual value with reference to which tax is, in pursuance of section 187 of the Income Tax Act, 1918, to be charged under Schedule A of that Act, the respective surveys and valuations with reference to which such house or building is so rated shall be deemed to have been in force for the year of assessment during which such house or building first becomes occupied, but subject to any relief which may be necessary in respect of that part (if any) of the said year during which such house or building was not occupied.
