@@ -1,0 +1,21 @@
+Article 2
+
+2. The Cement Act, 1933 (Transport Works) (Railway) Order, 1938 ( S.R. & O. No. 22 of 1938 ), is hereby amended by the substitution for paragraph (1) of Article 8 of the following paragraph:
+
+"(1) The railway may be used for all purposes relating to—
+
+(i) the business of the Company, and
+
+(ii) the business of any subsidiary or associated company of the Company,
+
+and for no other purposes".
+
+GIVEN under my Official Seal, this 2nd day of December, 1963.
+
+ERSKINE H. CHILDERS,
+
+Minister for Transport and Power.
+
+EXPLANATORY NOTE.
+
+The purpose of the Order is to extend the user of the railway constructed under the Cement Act, 1933 (Transport Works) (Railway) Order, 1938.
