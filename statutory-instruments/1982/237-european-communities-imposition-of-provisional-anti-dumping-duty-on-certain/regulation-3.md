@@ -1,0 +1,5 @@
+Regulation 3
+
+3. (1) A provisional anti-dumping duty at the rate specified in paragraph (2) of this Article shall be charged, levied and paid on goods that are imported into the State on or after the 2nd day of August, 1982, and are of the following description, that is to say, sheets and plates, of iron or steel, not further worked than cold-rolled, of a thickness of less than 3 mm, which are classified at tariff sub-headings number 73.13 BII(b) and 73.13 BII(c) of the Common Customs Tariff, and which originate in Brazil, other than goods of that description which originate in Brazil and are imported into the State from another Member State of the European Economic Community and in respect of which a provisional anti-dumping duty has been charged in accordance with Recommendation No. 1104/82/ECSC.
+
+(2) Subject to Article 4 of these Regulations, the duty imposed by paragraph (1) of this Article shall be at the rate of an amount equal to the amount by which the import price of the goods on which it is payable is lower than the effective price specified in relation to the goods in the Commission Statement.
