@@ -1,0 +1,3 @@
+Provisions relating to further payments.
+
+7.—Where the Minister proposes to make or authorise the making of a payment under section 4 or 6 of this Act, other than the payment of £7,000,000 in respect of the ESAF Trust, £11,000,000 in respect of the HIPC Debt Initiative Trust Fund and £4,000,000 in respect of the HIPC Trust, the proposal shall be laid before Dáil Éireann as soon as may be and, if a resolution annulling such a proposal is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the proposal is laid before it, the proposal shall be annulled accordingly and the Minister shall not make or authorise the making of such a payment.
