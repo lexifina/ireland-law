@@ -1,0 +1,5 @@
+SCHEDULE
+
+Section 1.
+
+Number and Year of Statutory Instrument Title General Subject Matter (1) (2) (3) S.I. No. 7 of 1969. Imposition of Duties (No. 178) (Agricultural Machinery) Order, 1969. Reclassification of certain trailers at a new tariff heading. S.I. No. 98 of 1969. Imposition of Duties (No. 180) (Customs Duties and Form of Customs Tariff) Order, 1969. Fourth reduction in protective duties, and in protective element in revenue duties, on certain goods of United Kingdom origin in accordance with the Agreement between the Government of Ireland and the Government of the United Kingdom establishing a Free Trade Area; maintenance of the import duty preference in favour of certain goods of Northern Ireland origin; implementation of certain tariff concessions arising from the Government's accession to the General Agreement on Tariffs and Trade; transfer from the Minister for Industry and Commerce to the Minister for Agriculture and Fisheries of power to permit importation under licence of certain wheaten products; certain minor changes in the customs tariff.
