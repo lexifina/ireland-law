@@ -1,0 +1,5 @@
+Loan to Board to meet any initial losses.
+
+17.—(1) The Minister may, from time to time during the period of five years commencing on the first day on which a subscription in respect of a scheme under section 4 of this Act is received by the Board, with the consent of the Minister for Finance, lend, out of moneys provided by the Oireachtas, to the Board, upon such terms and conditions as to time and manner of repayment, rate of interest, security, and other matters whatsoever as he may think proper, a sum or sums not exceeding in the aggregate twenty-five thousand pounds to be applied by the Board in or towards meeting the losses (if any) incurred by the Board during that period in carrying out its functions under this Act.
+
+(2) Sums advanced by the Minister to the Board under this section shall be repaid by the Board upon the terms and conditions laid down by the Minister with the consent of the Minister for Finance under subsection (1) of this section, and any sums so repaid shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.

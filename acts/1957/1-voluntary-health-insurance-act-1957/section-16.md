@@ -1,0 +1,5 @@
+Loan to Board to pay expenses of establishment and preliminary expenses.
+
+16.—(1) The Minister may, with the consent of the Minister for Finance, lend, out of moneys provided by the Oireachtas, to the Board, upon such terms and conditions as to time and manner of repayment, rate of interest, security, and other matters whatsoever as he may think proper, a sum not exceeding twenty-five thousand pounds to be applied by the Board in or towards paying the expenses of the establishment of the Board and the preliminary expenses incurred by the Board in carrying out its functions under this Act and for no other purpose.
+
+(2) Sums advanced by the Minister to the Board under this section shall be repaid by the Board upon the terms and conditions laid down by the Minister with the consent of the Minister for Finance under subsection (1) of this section, and any sums so repaid shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
