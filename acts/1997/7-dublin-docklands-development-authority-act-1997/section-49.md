@@ -1,0 +1,5 @@
+Preservation of existing contracts.
+
+49.—(1) Every bond, guarantee or other security of a continuing character made or given by the Custom House Docks Development Authority to another person or by any person to the Custom House Docks Development Authority and in force immediately before the establishment day and every contract or agreement in writing made between the Custom House Docks Development Authority and any other person and not fully executed and completed before the establishment day shall, notwithstanding the dissolution of that Authority, continue in force on and after the establishment day but shall be construed and have effect as if the Dublin Docklands Development Authority was substituted therein for the Custom House Docks Development Authority.
+
+(2) Every other document granted or made by the Custom House Docks Development Authority which is in force immediately before the establishment day shall continue in force on and after that day as if it had been granted or made by the Dublin Docklands Development Authority and shall be construed and have effect and be enforceable by or against the Dublin Docklands Development Authority accordingly.
