@@ -1,0 +1,3 @@
+Exemption from duty on bets.
+
+20.—The duty on bets within the meaning of section 24 of the Finance Act, 1926 (No. 35 of 1926), shall not be charged or levied on bets entered into on or after the 1st day of August, 1931, when either the event which is the subject of the bet is a horse race and the bet is entered into during the meeting of which such race is an item and at the place at which such meeting is held, or the event which is the subject of the bet is a greyhound coursing (including racing) contest or one or more courses in such contest and the bet is entered into during such contest or during the meeting of which such contest is an item and at the place at which such contest is held.

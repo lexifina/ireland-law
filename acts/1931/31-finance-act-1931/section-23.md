@@ -1,0 +1,3 @@
+Exemption from entertainments duty of certain entertainments which include music.
+
+23.—Where payments for admission to an entertainment would, but for the inclusion in such entertainment of an item consisting of a band or other musical performance, be entitled by law to exemption from entertainments duty within the meaning of section 1 of the Finance (New Duties) Act, 1916, such payments shall not be excluded from such exemption by reason of the inclusion in such entertainment of such item, if such item is shown to the satisfaction of the Revenue Commissioners to be included in such entertainment merely as a subsidiary part thereof.

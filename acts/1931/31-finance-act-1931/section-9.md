@@ -1,0 +1,9 @@
+Alteration of duty on cocoa preparations.
+
+9.—(1) In lieu of the duties of customs chargeable under section 16 of the Finance Act, 1924 (No. 27 of 1924), there shall be charged, levied, and paid on all preparations made from or containing cocoa in any form imported into Saorstát Eireann on or after the 11th day of June, 1931, a customs duty at the rate of six and three-fifths pence on the pound, in addition to any duty which may be chargeable in respect of any spirits or saccharin contained in any such preparation but in lieu of any duty which might otherwise be chargeable on any other ingredient contained in any such preparation.
+
+(2) The provisions of section 8 of the Finance Act, 1919, shall apply to the duty imposed by this section with the substitution of the expression “Saorstát Eireann” for the expression “Great Britain and Ireland,” and as though preparations made from or containing cocoa in any form were included in the Second Schedule to that Act in the list of goods to which five-sixths of the full rate is made applicable as a preferential rate.
+
+(3) As from the 11th day of June, 1931, there shall be allowed on the due exportation or the due shipment for use as ships' stores of any goods in the manufacture or preparation of which in Saorstát Eireann any imported preparation made from or containing cocoa in any form and chargeable as such with the duty imposed by this section has been used, a drawback equal to the duty paid under this section in respect of the quantity of such preparation which appears to the Revenue Commissioners to have been used in the manufacture or preparation of the goods.
+
+(4) In allowing drawback under this section the Revenue Commissioners, with the consent of the Minister for Finance, may in order to facilitate trade modify or dispense with all or any of the requirements of sections 104 and 106 of the Customs Consolidation Act, 1876, as to the giving of security and the examination of goods.

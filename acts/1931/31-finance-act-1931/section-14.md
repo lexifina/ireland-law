@@ -1,0 +1,3 @@
+Re-importation of woven tissues.
+
+14.—Whenever it is shown to the satisfaction of the Revenue Commissioners that any woven tissue imported into Saorstát Eireann on or after the date of the passing of this Act and chargeable with the duty imposed by section 1 of the Finance (Customs and Stamp Duties) Act, 1929 (No. 5 of 1929), was manufactured in and exported from Saorstát Eireann and has since such exportation undergone the process of shrinking or proofing or both those processes and no other process of manufacture, section 6 of the Customs and Inland Revenue Act, 1879, shall apply to such woven tissue notwithstanding that it has undergone outside Saorstát Eireann such process of shrinking or proofing or both such processes.
