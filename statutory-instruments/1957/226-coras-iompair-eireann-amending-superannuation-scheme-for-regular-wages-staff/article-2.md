@@ -1,0 +1,3 @@
+Article 2
+
+2. In this Order " the amending scheme " means the scheme (amending the Córas Iompair Éireann Pension Scheme for Regular Wages Staff) submitted by Córas Iompair Éireann in pursuance of subsection (5) of section 44 of the Transport Act, 1950 .
