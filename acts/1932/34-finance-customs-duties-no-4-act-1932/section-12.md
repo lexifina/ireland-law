@@ -1,0 +1,3 @@
+General exemption of articles imported solely for exhibition, etc.
+
+12.—Whenever the Revenue Commissioners are satisfied that any article imported into Saorstát Eireann and chargeable on such importation with any duty of customs imposed by this or any other enactment (whether past or future) is so imported solely for the purpose of any competition, exhibition, show, or demonstration or any similar purpose and is not intended to be sold or offered for sale in Saorstát Eireann and is intended to be exported on the fulfilment of such purpose, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, permit such article to be imported without payment of such duty or repay any such duty paid on such importation.
