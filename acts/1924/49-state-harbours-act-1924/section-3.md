@@ -1,0 +1,5 @@
+Transfer of property from Kingstown and Dunmore Commissioners to Commissioners of Public Works.
+
+3.—(1) Immediately upon the passing of this Act all lands, tenements, and hereditaments now vested in or held in trust for the Kingstown Commissioners or vested in or held in trust for the Dunmore Commissioners shall, without any conveyance thereof, become and be vested in the Public Works Commissioners for all the estate and interest for which the same lands, tenements, and hereditaments are now respectively held by or for the Kingstown Commissioners and the Dunmore Commissioners respectively, but subject to all (if any) rents and covenants for which the Kingstown Commissioners or the Dunmore Commissioners are now liable in respect thereof.
+
+(2) Immediately upon the passing of this Act all property and assets whatsoever now vested in or belonging to the Kingstown Commissioners or the Dunmore Commissioners (other than and except lands, tenements, and hereditaments) shall respectively vest in and become the property of the Public Works Commissioners, but subject where necessary to transfer in the books of any company, bank, or corporation.

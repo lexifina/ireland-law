@@ -1,0 +1,3 @@
+Public Works Commissioners may fix amount of tolls, etc.
+
+7.—Where the Public Works Commissioners shall have by virtue of this Act or have by virtue of any Act now in force power to charge or levy any tolls, rates, dues, or other charges on, in, or in relation to, any pier, wharf, dock, or harbour it shall be lawful for the Public Works Commissioners, after consultation with the Minister for Industry and Commerce, and notwithstanding any provision in any Act now in force in relation to the fixing, limiting, restricting, compounding, or commuting of any such tolls, rates, dues, or other charges, to regulate the amount of any such tolls, rates, dues, and other charges or of any composition or other payment in respect thereof.

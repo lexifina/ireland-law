@@ -1,0 +1,3 @@
+Transfer of contracts from the Kingstown and Dunmore Commissioners to the Public Works Commissioners.
+
+4.—All rights and benefits and all liabilities and obligations of the Kingstown Commissioners or of the Dunmore Commissioners under any bond, contract, or agreement made by or with any person with or by the Kingstown Commissioners or with or by the Dunmore Commissioners shall immediately upon the passing of this Act be and the same are hereby transferred to the Public Works Commissioners, and every such bond, contract, or agreement may henceforth be enforced by or against the Public Works Commissioners as fully as the same could have been enforced by or against the Kingstown Commissioners or the Dunmore Commissioners if this Act had not been passed.
