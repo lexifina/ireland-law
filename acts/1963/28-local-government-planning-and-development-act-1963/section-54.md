@@ -1,0 +1,5 @@
+Repair and tidying of advertisement structures and advertisements.
+
+54.—(1) If it appears to the planning authority that, having regard to the interests of public safety or amenity, an advertisement structure or advertisement in their area should be repaired or tidied, the planning authority may serve on the person having control of the advertisement structure or advertisement a notice requiring that person to repair or tidy the advertisement structure or advertisement within a specified period.
+
+(2) If within the period specified in a notice under this section, the advertisement structure or advertisement is not repaired or tidied, the planning authority may enter on the land on which the structure is situate or the advertisement is exhibited and repair or tidy the structure or advertisement and may recover as a simple contract debt in any court of competent jurisdiction from the person having control of the structure or advertisement any expenses reasonably incurred by them in that behalf.
