@@ -1,0 +1,3 @@
+Withdrawal of shipping investment allowance.
+
+21.—Where a shipping investment allowance has been made to any person in respect of expenditure incurred on the purchase of a new ship and the ship is sold by him without the ship having been used by him for the purposes of his trade or before the expiration of the period of five years from the day on which the ship began to be so used, the shipping investment allowance shall be withdrawn, and all such additional assessments and adjustments of assessments shall be made as may be necessary for or in consequence of the withdrawal of a shipping investment allowance or the substitution therefor of an initial allowance under Part V of the Finance Act, 1956 (No. 22 of 1956).

@@ -1,0 +1,3 @@
+Repayment of duty on hydrocarbon oil used in manufacture.
+
+11.—Whenever the Revenue Commissioners are satisfied that any hydrocarbon oil on which the customs or excise duty imposed by section 21 of the Finance Act, 1935 (No. 28 of 1935), as amended by subsequent enactments, has been paid has been received unused by a manufacturer of hydrocarbon oil and used by him in a process of manufacture or incorporated by him with other substances as an ingredient of a manufactured product, the Revenue Commissioners may, subject to such conditions as they may think necessary, repay to such manufacturer any such duty paid on the oil, less any rebate thereof allowed under the said section 21 as amended by subsequent enactments.
