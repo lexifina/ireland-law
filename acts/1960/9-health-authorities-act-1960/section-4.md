@@ -1,0 +1,11 @@
+Limerick Health Authority.
+
+4.—(1) There is hereby established a body which shall be known as the Limerick Health Authority.
+
+(2) The Limerick Health Authority shall consist of fifteen members appointed by the council of the county of Limerick and eight members appointed by the Limerick Corporation.
+
+(3) The Minister may by regulations substitute a different number for either of the numbers specified in subsection (2) of this section, or substitute different numbers for both of those numbers, and, while any such regulations are in force, that subsection shall have effect accordingly.
+
+(4) The functional area of the Limerick Health Authority shall consist of the county borough of Limerick and the administrative county of Limerick.
+
+(5) Where it is proposed to make regulations under this section, a draft of the regulations shall be laid before each House of the Oireachtas and the regulations shall not be made until a resolution approving of the draft has been passed by each such House.
