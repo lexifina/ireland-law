@@ -1,0 +1,3 @@
+Temporary exclusion of sheep from parts of Curragh.
+
+13.—Whenever, in pursuance of section 11 of the State Property Act, 1954, the Minister, with the consent of the Minister for Finance, permits any part of the Curragh to be used temporarily by the public generally or any particular class or section of the public or the members of any group, society, or other organisation for the purposes of a carnival, exhibition, display, competition, race or other function, he may exclude, or procure or authorise the exclusion of, sheep by such means, including the erection of temporary fences, as the Minister thinks appropriate from that part of the Curragh during the period of such use.

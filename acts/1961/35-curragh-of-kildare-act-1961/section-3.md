@@ -1,0 +1,5 @@
+Use of Camp by Minister.
+
+3.—(1) The Minister shall have the exclusive use of the Camp for the purposes of an encampment and establishment of the Defence Forces and for purposes ancillary thereto and for any other purposes for which the Minister may from time to time require it: provided that the public road through the Camp shown on the deposited map and marked thereon with the letters X and Y shall not be closed or obstructed except under and in accordance with subsection (2) of this section or for purposes connected with its repair or maintenance.
+
+(2) The officer in command of the portion of the Defence Forces stationed at the Camp may, if he so thinks fit, in case of actual or apprehended riot or disturbance of the peace, close the road referred to in subsection (1) of this section to the public for such period as he thinks necessary in the circumstances or restrict or control in such manner, to such extent and for such period as he thinks necessary in the circumstances the user of the road.
