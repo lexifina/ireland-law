@@ -1,0 +1,3 @@
+Regulation 16
+
+16. If any elector informs the returning officer that two days have elapsed since a ballot paper issued under Regulation 14 (4) should have been delivered to him, and that a ballot paper has not been so delivered, the returning officer may issue a further ballot paper and declaration of identity which, by being of a different colour, can readily be distinguished from the ballot papers already issued. The name and address of such elector shall be written on the counterfoil of the further ballot paper so issued. Such further declaration of identity and ballot paper are respectively referred to in these Regulations as a special declaration of identity and a special ballot paper.
