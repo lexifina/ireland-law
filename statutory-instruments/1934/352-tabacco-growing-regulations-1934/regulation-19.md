@@ -1,0 +1,3 @@
+Regulation 19
+
+19. All tobacco intended to be removed (except tobacco which on being cut and gathered is removed to a curing shed of the grower on the same premises or is removed in a green state to the entered premises of a curer) must be packed, except in the case of a remnant, into packages each of the gross weight of not less than thirty pounds. Each package must be legibly marked in ink or oil colour with a progressive number commencing with No. 1 for each year, and with the year of growing and also, in case of removal from a grower's premises, with the grower's name and the name of the farm or place where the tobacco was grown, and, in case of removal from a curer's premises, the name and address of the curer and of the owner of the tobacco.

@@ -1,0 +1,3 @@
+Regulation 4
+
+4. Every grower and every curer and every rehandler shall in each year before making use of any land, shed or place for growing, curing, rehandling or storing any tobacco make entry in the prescribed form of the land upon which the tobacco is to be grown, and of every shed or place to be used by him in connection with the growing, curing, rehandling or storing of tobacco specifying the purpose for which each such shed or place is to be used, and the entry shall not be withdrawn while any tobacco remains on or in the entered land, shed or place. The grower, curer or rehandler shall sign the entry, and deliver it to the proper Officer.

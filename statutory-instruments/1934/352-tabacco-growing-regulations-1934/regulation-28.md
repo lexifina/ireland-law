@@ -1,0 +1,3 @@
+Regulation 28
+
+28. Every grower, other than a grower licensed as an experimental manufacturer, shall within seven days after all the tobacco grown by him in any year has been removed to the premises of a curer or rehandler make a return in the prescribed form of the area and situation of the land planted by him with tobacco, the variety or varieties grown, the area of the land used for each variety, the quantity of each variety removed to the premises of a curer or rehandler and the name and address of the curer or rehandler to which removed. He shall date and sign the return and deliver it to the proper Officer.

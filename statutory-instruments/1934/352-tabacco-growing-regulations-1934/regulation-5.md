@@ -1,0 +1,3 @@
+Regulation 5
+
+5. Every grower before commencing to grow any tobacco and every curer and every rehandler before receiving any tobacco for curing or rehandling shall give security in such sum and in such form as the Commissioners may require that he will observe and comply with all regulations made by the Commissioners in relation to the tobacco. The security to be given by a grower shall also be a security for the due removal of all tobacco grown by him to the premises of a curer or rehandler or for otherwise accounting for the same. The security to be given by a curer shall also be a security for the due removal of all tobacco cured by him to the premises of a rehandler or for otherwise accounting for the same.

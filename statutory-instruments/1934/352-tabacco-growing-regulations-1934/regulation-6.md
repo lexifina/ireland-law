@@ -1,0 +1,3 @@
+Regulation 6
+
+6. Every grower who cures tobacco grown by himself and every curer must produce to the proper officer for preliminary weighing all tobacco grown by him or received by him for curing in any year as soon as it is in a condition to be weighed and not later than the first day of January following the cutting or gathering of the tobacco or such subsequent day as the Commissioners may allow. Each package in which the tobacco is produced must be distinguished by an identification mark and number, and the weight ascertained at the preliminary weighing shall be used for the purpose of raising a presumptive charge of duty in respect of the total quantity of the tobacco produced.
