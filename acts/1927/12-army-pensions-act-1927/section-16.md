@@ -1,0 +1,3 @@
+Accounting for ex gratia allowances in certain cases.
+
+16.—Whenever an allowance is granted under this Act to or for the benefit of a person and such allowance commences on a date prior to the passing of this Act and an ex gratia allowance has prior to the passing of this Act been paid by the Minister to or for the benefit of such person, all payments made (whether before or after the passing of this Act) on foot of such ex gratia allowance shall, in so far as they were or are made in respect of a period subsequent to the date of the commencement of the said allowance granted under this Act, be deemed to have been made on account of the last-mentioned allowance and shall be accounted for accordingly.

@@ -1,0 +1,5 @@
+Alterations of scales under Principal Act in certain cases.
+
+4.—(1) In the case of an officer who is discharged from the forces on or after the 1st day of October, 1924 (whether before or after the passing of this Act) and to whom a wound pension could be granted on such discharge under the Principal Act as amended by this Act, that Act as so amended shall apply to such officer as if the scales of pensions contained in the Third Schedule to this Act were inserted in the Principal Act in lieu of the scales of pensions contained in the First Schedule to that Act.
+
+(2) In the case of those persons who signed the Proclamation published on Easter Monday in the year 1916 in connection with the rising of April and May of that year and in respect of whom the Minister may give or shall have given certificates under section 8 of the Principal Act, the Second Schedule to the Principal Act shall as from the passing of this Act apply and have effect as if the respective amounts of the several allowances and gratuities specified in that Schedule were double the amounts actually specified therein.
