@@ -1,0 +1,3 @@
+Additional inspections.
+
+47.—For the purposes of section 11, and in addition to the powers of inspection under food legislation or section 46, the Authority may, in the case of a particular circumstance identified by an authorised officer which is in the interest of food safety and hygiene, carry out or arrange to have carried out such additional inspections as it considers necessary for the discharge of its functions under this Act, and any such inspections shall as far as is practicable be carried out by or on behalf of the Authority in consultation with such persons as it considers appropriate.
