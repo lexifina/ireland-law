@@ -1,0 +1,7 @@
+S.I. No. 211 of 1971.
+
+WHEAT ORDER, 1971.
+
+ARRANGEMENT OF ARTICLES.
+
+Article
