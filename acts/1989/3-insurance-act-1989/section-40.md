@@ -1,0 +1,3 @@
+Restriction on advertising.
+
+40.—Where a person is convicted of an offence under section 37 or 38 and, either, the person does not appeal against the conviction or the conviction is affirmed on appeal, he shall not publish, or cause to be published, an advertisement in relation to the insurance business of the person convicted unless the commission payments of the person in connection with such business are not higher than the levels specified in relation to payments of those kinds in the notice under section 37 to which the conviction related and the payments made to intermediaries are in accordance with section 38.
