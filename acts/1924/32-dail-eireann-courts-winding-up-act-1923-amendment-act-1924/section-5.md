@@ -1,0 +1,3 @@
+Limitation of appeals in respect of Dáil Land Court decrees.
+
+5.—An application to the Commissioners to hear and determine an appeal under sub-section (2) of section 4 or under sub-section (1) of section 5 of the principal Act in respect of a decree of a Dáil Land Court shall only be made to or be entertained by the Commissioners after special leave to appeal has been granted by the Commissioners on a motion on notice stating the grounds of appeal, and such leave may be granted or refused on such terms and conditions, if any, as shall appear to be just, including the striking out of any ground of appeal in respect of any matter which was or might have been considered on an appeal against the registration of the decree.

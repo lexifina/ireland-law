@@ -1,0 +1,5 @@
+Definitions.
+
+1.—(1) The definition of the expression “Dáil Court” contained in sub-section (1) of section 1 of the Dáil Eireann Courts (Winding Up) Act, 1923, in this Act called “the principal Act,” shall be extended so as to include any court which was constituted under, or which was confirmed in its functions, or which purported to act under the authority of Dáil Eireann and was presided over by any person who at any subsequent time presided over a court constituted or confirmed in its functions as aforesaid, by virtue of a decree entitled “Proposals constituting a National Land Commission for the purpose of carrying the Land Settlement schemes of An Dáil into effect” made on the 17th day of September, 1920, by the Dáil Eireann constituted as in said sub-section mentioned, and the provisions of the principal Act shall, subject to the provisions of this Act, apply to decrees of any such court, in this Act called a “Dáil Land Court.”
+
+(2) For the purposes of this Act the authority of all Dáil Land Courts shall be deemed to have been withdrawn on the 17th day of September, 1922.

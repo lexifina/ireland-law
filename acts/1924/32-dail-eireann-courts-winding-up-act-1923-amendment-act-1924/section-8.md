@@ -1,0 +1,3 @@
+Preservation of powers of Irish Land Commission.
+
+8.—Nothing in this Act or in the principal Act shall have the effect of preventing any lands, the subject of proceedings before the Commissioners, from being dealt with by the Irish Land Commission under the Land Law or Land Purchase Acts or of abrogating or impairing any of the powers of the Irish Land Commission in respect thereto, whether such powers be exercised for the purpose of recovering arrears of purchase annuities or arrears of interest in lieu of rent, or for any other purpose for which they might have lawfully exercised such powers had this Act not been passed.
