@@ -1,0 +1,5 @@
+Regulation 8
+
+8. (1) A candidate may, before twelve o'clock noon on the last day for receiving nominations but not later, withdraw from his candidature by delivering a notice to that effect, signed by him, to the returning officer.
+
+(2) If, after the adjournment of an election by the returning officer in order to take a poll, one of the candidates nominated dies before the day for the issue of ballot papers, the returning officer shall, upon being satisfied of the fact of such death, countermand the poll and thereupon all the proceedings with reference to the election shall be commenced afresh, and for that purpose the Board shall cause to be published in Iris Oifigiúil a notice appointing a new day and hour to be the last day and hour for receiving nominations, a new day for the issue of ballot papers and a new day and hour for the close of the poll, but in such fresh election no fresh nomination shall be necessary in respect of any candidate who stood nominated at the time of the countermand of the poll.
