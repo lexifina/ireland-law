@@ -1,0 +1,3 @@
+Provision of an official residence and establishment for the President.
+
+2.—In addition to the emoluments and allowances to be received by the President in pursuance of section 11 of Article 12 of the Constitution, it shall be lawful for the Minister for Finance, out of moneys provided by the Oireachtas, to provide and maintain for the President an official residence, to defray the expenses of the office establishment of the secretary to the President, and to provide for the President such facilities and services, and such other things, as the said Minister shall from time to time determine to be necessary or proper.
