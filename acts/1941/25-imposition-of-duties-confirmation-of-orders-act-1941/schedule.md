@@ -1,0 +1,3 @@
+SCHEDULE.
+
+Ref. No. Number and Year in the Statutory Rules and Orders Short Title General Subject-matter 1 No. 70 of 1941 Emergency Imposition of Duties (No. 216) Order 91. Issue of licences in relation to gas meters. 2 No. 136 of 1941 Emergency Imposition of Duties (No. 217) Order, 1941. Imposition of duty on certain clocks, etc. 3 No. 155 of 1941 Emergency Imposition of Duties (No. 218) Order, 1941. Issue of licences in relation to mineral hydrocarbon heavy oil. 4 No. 181 of 1941 Emergency Imposition of Duties (No. 219) Order, 1941. Imposition of duty on certain hollow-ware. 5 No. 214 of 1941 Emergency Imposition of Duties (No. 220) Order, 1941. Issue of licences in relation to packages.
