@@ -1,0 +1,5 @@
+Restriction of certain exemptions from liability for officers of trustee savings bank.
+
+43.—(1) Any provision contained in the rules of a trustee savings bank or in a contract made between a trustee savings bank and an officer or auditor of the bank exempting such officer or auditor from, or indemnifying him against, any liability which by virtue of any statute or rule of law would otherwise attach to him in respect of any negligence, default, breach of duty or breach of trust by him occuring after the commencement of this section in relation to the bank or his employment with the bank shall, subject to subsection (2), be void.
+
+(2) A trustee savings bank may indemnify an officer or auditor of the bank against any liability incurred by him as a defendant in civil or criminal proceedings in any court in which judgment is given in his favour or in which he is acquitted, being proceedings in relation to the bank or his employment with the bank or in connection with any application under section 44 in which relief is granted to him.

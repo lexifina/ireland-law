@@ -1,0 +1,5 @@
+Offences by trustee savings banks and bodies corporate.
+
+63.—(1) Where an offence under this Act has been committed by a body corporate (whether a trustee savings bank or not) or by a trustee savings bank at a time when it is not a body corporate and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of a person being a trustee of the bank or a director of the body corporate or a manager, secretary or other officer of the body corporate or bank, or a person who was purporting to act in any such capacity, that person as well as the body corporate or bank, as the case may be, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he were guilty of the first-mentioned offence.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
