@@ -1,0 +1,7 @@
+Rule 23
+
+23. Radio log—radiotelegraph ship
+
+PART IV
+
+RADIO EQUIPMENT FOR LIFEBOATS AND SURVIVAL CRAFT
