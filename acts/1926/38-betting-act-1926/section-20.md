@@ -1,0 +1,7 @@
+Saving for persons employed by bookmakers.
+
+20.—(1) A person shall not be deemed for the purposes of this Act to act or carry on business as a bookmaker merely by reason of his being employed by a licensed bookmaker to act as his clerk or assistant provided such person only acts as such clerk or assistant either in registered premises of which such licensed bookmaker is the registered proprietor or in the personal presence of such licensed bookmaker and the amount of such person's remuneration is not wholly or partly dependent on or calculated by reference to the amount of business done or profits made by such licensed bookmaker.
+
+(2) It shall be lawful for the registered proprietor of registered premises to employ in those premises such clerks and assistants as shall be reasonably necessary for the carrying on of his business as a bookmaker in the said premises provided the amount of the respective remunerations of such clerks and assistants is not wholly or partly dependent on or calculated by reference to the amount of business done or profits made by such licensed bookmaker.
+
+(3) A person who is employed by the registered proprietor of registered premises as a clerk or assistant in those premises and whose employment as such clerk or assistant is lawful under the foregoing sub-section shall not be deemed for the purposes of this Act to act or carry on business as a bookmaker merely by reason of his acting as such clerk or assistant.
