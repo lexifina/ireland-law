@@ -1,0 +1,3 @@
+Remuneration of officers and servants.
+
+10.—In determining the remuneration or allowances for expenses to be paid to its officers or servants or the terms or conditions subject to which such officers or servants hold or are to hold their employment, the Board shall have regard either to Government or nationally agreed guidelines which are for the time being extant, or to Government policy concerning remuneration and conditions of employment which is so extant, and, in addition to the foregoing, the Board shall comply with any directives with regard to such remuneration, allowances, terms or conditions which the Minister may give from time to time to the Board with the consent of the Minister for Finance.
