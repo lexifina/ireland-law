@@ -1,0 +1,3 @@
+Extension of the meaning of “manufacturing undertaking.”.
+
+1.—The expression “manufacturing undertaking” wherever it occurs in section 4 of the Trade Loans (Guarantee) (Amendment) Act, 1933 (No. 10 of 1933), shall, by way of extension of the meaning given to it by section 1 of that Act, include and be deemed always to have included an undertaking of which the principal or only object is the erection and equipment in Saorstát Eireann of dwelling-houses, including the acquisition and development of land for that purpose, and the said section 4 shall be construed and have effect and be deemed always to have had effect accordingly.
