@@ -1,0 +1,5 @@
+Regulation 12
+
+12. Where an offence under these regulations which is committed by a body corporate or an unincorporated body of persons is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any person, being a director, manager, secretary, member of the committee of management or other controlling authority of any such body or being any other similar officer of any such body, that person shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+13 Prosecutions
