@@ -1,0 +1,3 @@
+Usurpation of executive authority.
+
+4.—Every person who shall without lawful authority perform or exercise any of the duties, powers, or functions of any Minister or other officer of State or any person in the service (whether military, police, or civil) of Saorstát Eireann or shall otherwise usurp any function of the Executive authority in Saorstát Eireann or shall attempt or claim to do any such act shall be guilty of a misdemeanour and on conviction thereof shall be liable to a fine not exceeding five hundred pounds or, at the discretion of the court, to penal servitude for any term not exceeding five years or imprisonment with or without hard labour for any term not exceeding two years, or to both such fine and such penal servitude or imprisonment.

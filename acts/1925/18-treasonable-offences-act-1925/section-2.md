@@ -1,0 +1,3 @@
+Misprision of treason.
+
+2.—Every person who, knowing that any act the commission of which would by virtue of this Act be treason, is intended or proposed to be, or is being, or has been committed, does not forthwith disclose the same together with all particulars thereof known to him to a Justice of the District Court, or an officer of the Gárda Síochána, or other person lawfully engaged on duties relating to the preservation of peace and order shall be guilty of the felony of misprision of treason and shall be liable on conviction thereof to suffer penal servitude for any term not exceeding five years or imprisonment with or without hard labour for any term not exceeding two years.

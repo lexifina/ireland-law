@@ -1,0 +1,3 @@
+Assembly pretending to parliamentary functions.
+
+5.—Every person who takes part in any proceedings of any assembly or body (other than the Oireachtas or either House thereof) which claims, purports, proposes, or attempts to take upon itself, or does take upon itself, all or any of the powers and functions of the Oireachtas or of either House thereof shall be guilty of a misdemeanour and shall be liable on conviction thereof to a fine not exceeding five hundred pounds or, at the discretion of the Court, to imprisonment with or without hard labour for any term not exceeding two years or to both such fine and such imprisonment.

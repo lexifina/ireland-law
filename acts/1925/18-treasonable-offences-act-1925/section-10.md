@@ -1,0 +1,9 @@
+Search warrant in respect of treasonable documents.
+
+10.—(1) Where a Justice of the District Court is satisfied on the information on oath of an officer of the Gárda Síochána not below the rank of chief superintendent that there is reasonable ground for suspecting that there are treasonable documents in any specified building, land, premises, or other place, such Justice may issue to such officer such search warrant as is mentioned in this section.
+
+(2) A search warrant issued by a Justice of the District Court under this section shall be expressed and shall operate to authorise a named officer of the Gárda Síochána not below the rank of superintendent, accompanied by such other members of the Gárda Síochána as such officer shall think proper, at any time within forty-eight hours after the issue of the search warrant, and if needs be by force, to enter and search the specified building, land, premises, or other place aforesaid (which place shall be also specified in the warrant) for treasonable documents and to seize and remove all documents found on such search which appear to such officer to be treasonable.
+
+(3) The officer conducting the search of a place under such search warrant as aforesaid may demand the name and address of any person found in such place during such search and (without prejudice to any other power of arrest vested in him by law or by virtue of any lawful warrant) may arrest without warrant any such person who refuses to give his name or his address to such officer or gives a name or address which such officer knows or suspects to be false or misleading.
+
+(4) In this section the expression “treasonable document” includes any document which relates, directly or indirectly, to the commission of any act which is by this Act declared to be treason or to be a felony or a misdemeanour.

@@ -1,0 +1,11 @@
+Unauthorised military exercises prohibited.
+
+7.—(1) Save as authorised by an Executive Minister under this section, and subject to the exceptions hereinafter mentioned, it shall not be lawful for any assembly of persons to practise or to train or drill themselves in or be trained or drilled in the use of arms or the performance of military exercises, evolutions, or manoeuvres nor for any persons to meet together or assemble for the purpose of so practising or training or drilling or being trained or drilled.
+
+(2) An Executive Minister may at his discretion by order, subject to such limitations, qualifications and conditions as he shall think fit to impose and shall express in the order, authorise any organisation, association, or other body of persons corporate or unincorporate to meet together and do such one or more of the following things as shall be specified in such order, that is to say, to practise or train or drill themselves in or be trained or drilled in the use of arms or the performance of military exercises, evolutions, or manoeuvres.
+
+(3) If any person is present at or takes part in or gives instruction to or trains or drills an assembly of persons who without or otherwise than in accordance with an authorisation granted by an Executive Minister under this section practise, or train or drill themselves in, or are trained or drilled in the use of arms or the performance of any military exercise, evolution, or manoeuvre or who without or otherwise than in accordance with such authorisation have assembled or met together for the purpose of so practising, or training or drilling or being trained or drilled, such person shall be guilty of felony and on conviction thereof shall be liable to a fine not exceeding five hundred pounds or, at the discretion of the court, to suffer penal servitude for any term not exceeding seven years or imprisonment with or without hard labour for any term not exceeding two years or to both such fine and such penal servitude or imprisonment.
+
+(4) This section shall not apply to any assembly of members of any military or police force lawfully maintained by the Government of Saorstát Eireann.
+
+(5) In any prosecution under this section the burden of proof that any act was authorised under this section shall lie on the person prosecuted.

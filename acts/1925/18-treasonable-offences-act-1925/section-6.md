@@ -1,0 +1,3 @@
+Formation of pretended military or police force prohibited.
+
+6.—Every person who takes part or assists in the formation, organisation, or maintenance of any association or other body which purports to be a military or police force, and is not established and maintained as such by law, and also every person who is a member of any such association or body, shall be guilty of a misdemeanour, and on conviction thereof shall be liable to a fine not exceeding two hundred pounds, or, at the discretion of the court, to penal servitude for any term not exceeding five years, or imprisonment with or without hard labour for any term not exceeding two years, or to both such fine and such penal servitude or imprisonment.
