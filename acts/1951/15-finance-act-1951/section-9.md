@@ -1,0 +1,3 @@
+Mineral hydrocarbon light oils—exemption.
+
+9.—For the purposes of the duty of customs imposed by section 1 of the Finance (Customs Duties) (No. 4) Act, 1931 (No. 43 of 1931), as amended by subsequent enactments, or the duty of excise imposed by section 1 of the Finance (Miscellaneous Provisions) Act, 1935 (No. 7 of 1935), as amended by subsequent enactments, where it is shown to the satisfaction of the Revenue Commissioners that any oil which, though satisfying any of the requirements specified in the definition of light oils in those sections, is nevertheless an oil which, according to its use, should be classed with oils which are not light oils within that definition, the oil shall be deemed not to be light oil and not liable to the duties imposed by those sections.

@@ -1,0 +1,3 @@
+Modification of exemption from entertainments duty.
+
+10.—Section 13 of the Finance Act, 1949 (No. 13 of 1949), shall have effect subject to the proviso that where it is shown to the satisfaction of the Revenue Commissioners that the population of a town according to a census of population includes persons enumerated by reference to their being in any religious community, educational establishment, orphanage, hospital, mental institution or county home or in any prison or reformatory, the population of the town according to that census shall be treated for the purposes of the said section as being reduced by the number of those persons.
