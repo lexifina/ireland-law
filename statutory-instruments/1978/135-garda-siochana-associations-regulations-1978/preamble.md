@@ -1,0 +1,1 @@
+I, GERARD COLLINS, Minister for Justice, in exercise of the powers conferred on me by section 13 of the Garda Síochána Act, 1924 (No. 25 of 1924), as amended by the Garda Síochána Act, 1977 (No. 24 of 1977), and section 14 of the Police Forces Amalgamation Act, 1925 (No. 7 of 1925), hereby with the approval of the Government, make the following regulations:
