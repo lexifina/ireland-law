@@ -1,0 +1,3 @@
+Transfer of certain functions under Merchandise Marks Act, 1931, to Minister.
+
+7.—The functions, powers and duties conferred or imposed on the Government under sections 7, 8, 9, 11, 12, 14 and 15 of the Merchandise Marks Act, 1931, are hereby transferred to the Minister and, accordingly, references in those sections to the Executive Council (other than the first such reference and the third such reference in the said section 7) shall be construed as references to the Minister and references in the said section 12 to a restriction order shall be construed as references to an order under the said section 8.
