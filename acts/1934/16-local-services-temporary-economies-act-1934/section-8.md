@@ -1,0 +1,3 @@
+Relief in respect of deductions under Public Services (Temporary Economies) Act, 1933.
+
+8.—In the calculation of the deduction to be made under this Act from the salary of an officer from whose salary deductions were or are made (whether before or after the passing of this Act or before or after the commencement of the current local financial year) under section 12 of the Public Services (Temporary Economies) Act, 1933 (No. 37 of 1933), such officer shall be entitled to credit against such deduction for the said deductions so made from his salary under the said section 12, and the amount of the said deduction shall be reduced accordingly.

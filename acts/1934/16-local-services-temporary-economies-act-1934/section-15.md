@@ -1,0 +1,3 @@
+Reduction of expenses in relation to draft jurors lists.
+
+15.—The Minister for Justice shall make and is hereby empowered to make, for and in respect of the preparation of the draft lists of persons qualified on the 15th day of November, 1934, to serve as jurors and liable so to serve, such variation of the scales in force under sub-section (3) of section 17 of the Juries Act, 1927 (No. 23 of 1927), as will in his opinion secure that the sums payable in respect of the preparation of the said draft lists to any person in accordance with such scales will be reduced by such amount as the said Minister shall think proper having regard to the deductions from salaries to be made under this Act and the other circumstances of the case.

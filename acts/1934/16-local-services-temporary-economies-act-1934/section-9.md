@@ -1,0 +1,3 @@
+Adjustment of deductions from salaries.
+
+9.—Where, after the expiration of the current local financial year, any local authority ascertains that the deductions made or purported to be made under this Act in that year from the salary of any officer in its employment were either greater or less than the deductions required by this Act to be made from such salary, such local authority shall, before the end of the year 1935, adjust the amount of such deductions either (as the case may require) by a refund to such officer or by a deduction from the salary of such officer payable to him in the year 1935.

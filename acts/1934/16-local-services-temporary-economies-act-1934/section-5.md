@@ -1,0 +1,9 @@
+Deductions from salaries of officers who are officers of more than one local authority.
+
+5.—The following provisions shall apply and have effect in respect of every officer who holds offices under more than one local authority, that is to say:—
+
+(a) for the purpose of the calculation of the deduction to be made under this Act from the salary of such officer, such salary shall be taken to be the aggregate of the salaries which he is entitled to receive in respect of his said offices;
+
+(b) the said deduction, when calculated in pursuance of the foregoing paragraph of this section, shall be apportioned between the several salaries received by such officer by virtue of his said offices in proportion to the respective amounts of those salaries, and the amount so apportioned to any such salary shall, for the purpose of this Act, be the deduction in respect of such salary;
+
+(c) the deduction to be made under this Act from any of the said salaries of such officer shall be made by the local authority paying such salary, save that where any such salary is paid, wholly or in part, otherwise than in money the Minister may direct that the whole or any specified part of such deduction shall, in lieu of being made by the local authority paying such salary, be made by a specified other local authority or specified other local authorities paying salary to such officer wholly or partly in money and, if more than one such local authority, in specified proportions, and whenever any such direction is given by the Minister the local authority or local authorities concerned shall comply therewith and every deduction made in pursuance of such direction shall be paid by the local authority making such deduction to the local authority by whom such deduction would have been required by this Act to be made if such direction had not been given.

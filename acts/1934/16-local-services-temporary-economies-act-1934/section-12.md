@@ -1,0 +1,5 @@
+Determination of disputes.
+
+12.—(1) Every doubt, question, and dispute which shall arise as to whether any person is an officer within the meaning of this Act or as to the amount of the salary for the purposes of this Act of any officer or as to the amount of the deduction to be made under this Act from any such salary, and if such salary is paid by more than one local authority, as to the amount of the deduction to be made from such salary under this Act by each such local authority, shall be determined by the Minister whose determination thereof shall be final.
+
+(2) An auditor duly appointed to audit the accounts of a local authority may, on any audit of the accounts of such local authority, raise any such question as is mentioned in the foregoing sub-section of this section in relation to any payment appearing in such accounts of the salary of any officer of such local authority, and every such question so raised shall be determined under this section by the Minister whose determination thereof shall be final.

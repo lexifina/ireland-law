@@ -1,0 +1,3 @@
+Reduction in registration expenses.
+
+16.—The Minister for Finance shall make and is hereby empowered to make, for and in respect of the registration expenses incurred in relation to the preparation of the register of electors which will come into force on the 1st day of June, 1935, such variation of the scale of registration expenses framed by him under sub-section (3) of section 12 of the Electoral Act, 1923 (No. 12 of 1923), as will in his opinion secure that the sums payable in respect of such expenses to any person in accordance with such scale will be reduced by such amount as the said Minister shall think proper having regard to the deductions from salaries to be made under this Act and the other circumstances of the case.
