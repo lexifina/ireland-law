@@ -1,0 +1,7 @@
+Jurisdiction of High Court in relation to a solicitor in respect of whom order striking his name off the roll was purported to have been made under section 18 of the Principal Act.
+
+11.—Where, before the passing of this Act, the former Disciplinary Committee made, in purported exercise of powers purported to have been conferred on them by section 18 (repealed by this Act) of the Principal Act, an order providing for the striking off the roll of the name of a solicitor, the Society may, on notice to the solicitor, apply by notice of motion (of not less than ten days' duration) to the High Court for an order striking off the roll the name of the solicitor, and, if the Society so apply, then the following provisions shall have effect—
+
+(a) all available affidavits and other available documentary evidence which were before the former Disciplinary Committee and all available transcripts of evidence given before them shall be admissible as evidence on the consideration of the application by the High Court,
+
+(b) the High Court, after reading those affidavits, other documentary evidence and transcripts, receiving any additional evidence tendered by the Society or the solicitor and taking into consideration any other matters in relation to the solicitor brought to its notice by the Society, shall deal with the application as if it were a report in relation to the solicitor made to the High Court by the Disciplinary Committee and brought before the High Court by the Society under section 7 of this Act, and section 8 of this Act shall apply accordingly.
