@@ -1,0 +1,5 @@
+Amendment of section 14 of the Act of 1927.
+
+25.—(1) Notwithstanding anything in paragraph (ii) of sub-section (1) of section 14 of the Act of 1927, the Minister shall not on or on account of the death of any person to whom, by virtue of paragraph (e) of the said sub-section, the said sub-section applies grant to the widow or any child of such person any of the allowances or gratuities on re-marriage specified in the appropriate Part of the Sixth Schedule to the Act of 1927 in respect of widows and children unless, in case of the widow, she was married to such person before his discharge from the forces or, in the case of the children, such children are the children of a marriage contracted before his discharge from the forces.
+
+(2) No allowance or gratuity shall after the passing of this Act be granted under sub-section (2) of section 14 of the Act of 1927 to the widow or child of an officer unless the marriage of such widow to such officer took place before the 1st day of October, 1924.
