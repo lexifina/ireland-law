@@ -1,0 +1,5 @@
+Opening of the poll.
+
+40.—(1) Immediately before the commencement of the poll the presiding officer at each polling station, after ensuring that the lock on the machine referred to in section 39 has not been interfered with, shall operate the voting machine in his or her charge to demonstrate to such persons as are present in the polling station that no votes are cast or recorded on the machine. The presiding officer shall cause a printed statement to be produced by the machine showing the names of candidates on the ballot paper and that no votes are cast or recorded on the machine. The statement shall be signed by the presiding officer and witnessed by an agent or other person in the polling station. The presiding officer shall then place the voting machine in his or her view during the poll.
+
+(2) An election shall not be questioned on the grounds that the requirement in subsection (1) with respect to the production by a voting machine of the printed statement referred to in that subsection has not been complied with.

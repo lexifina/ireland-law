@@ -1,0 +1,5 @@
+Sections 15A and 15B of Principal Act: supplemental provision.
+
+9.—The Principal Act is amended by the insertion of the following section after section 15B (inserted by section 76 of the Act of 1997):
+
+“Supplements to the postal and special voters lists where more than one poll is held on same day. 15C.—Notwithstanding the provisions of subsection (4) of section 15A or subsection (4) of section 15B, where an application by an elector to have his name entered in the supplement to the postal voters list or the supplement to the special voters list is received after the relevant date referred to in subsection (4) of section 15A or subsection (4) of section 15B in relation to an election or a referendum but before the relevant date referred to in either of the said subsections in relation to another election or referendum, the poll at which is to be held on the same day, the relevant date for the second or subsequent election or referendum shall apply to an application received under subsection (4) of section 15A or subsection (4) of section 15B in connection with the elections or referendums.”.
