@@ -1,0 +1,3 @@
+Regulation 16
+
+16. An officer of customs and excise may detain and seize any plant, plant product or other object either introduced from the State into another Member State or introduced into the State in contravention of these Regulations, or being attempted to be so introduced, and may for that purpose open any package containing or suspected by him to contain such plant, plant product or other object, and the provisions of the Customs Consolidation Act, 1876, relating to the condemnation and disposal of goods seized under that Act shall apply and have effect in relation to all articles seized under this Regulation as if the articles had been seized under that Act.
