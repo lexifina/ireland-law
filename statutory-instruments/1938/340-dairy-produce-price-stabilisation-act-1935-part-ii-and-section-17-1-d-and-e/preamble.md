@@ -1,0 +1,7 @@
+ÉIRE. STATUTORY RULES AND ORDERS. 1938. No. 340.DAIRY PRODUCE (PRICE STABILISATION) ACT, 1935, (PART II AND SECTION 17 (1) (d) AND (e) ) (SUSPENDING) ORDER, 1938.
+
+WHEREAS it is enacted by subsection (1) of section 1 of the Dairy Produce (Price Stabilisation) (Amendment) Act, 1938 (No. 30 of 1938) that in the said Act the expression "the Principal Act" means the Dairy Produce (Price Stabilisation) Act, 1935 (No. 21 of 1935), and that the expression "the suspendable provisions" means Part II of the Principal Act and paragraphs (d) and (e) of sub-section (1) of section 17 of the Principal Act:
+
+AND WHEREAS it is enacted by subsection (1) of section 2 of the said Dairy Produce (Price Stabilisation) (Amendment) Act, 1938 , that the Minister for Agriculture may at any time while the suspendable provisions are, otherwise than by virtue of an Order made under section 3 of the said Act, in force, by order declare that the suspendable provisions shall be deemed to have ceased to have been in force as on and from such date (being a date earlier than the date of the making of such Order, but not earlier than the 1st day of January, 1937) as the said Minister specifies in such Order:
+
+NOW I, SÉAMAS O RIAIN, Minister for Agriculture, in exercise of the powers conferred on me by subsection (1) of section 2 of the Dairy Produce (Price Stabilisation) (Amendment) Act, 1938 (No. 30 of 1938), and of every and any other power me in this behalf enabling do hereby order as follows, that is to say:—
