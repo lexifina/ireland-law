@@ -1,0 +1,9 @@
+Inspection and removal of records.
+
+13.—(1) An inspector or an authorised officer may, for the purpose of making an enquiry which he reasonably considers to be necessary either in relation to liability to levy (other than levy payable in respect of an animal which is exported live from the State), or an obligation to make reductions under section 9 of this Act, of any person, enter at any reasonable time any premises in which the inspector or officer has reason to believe that such person is carrying on business and the inspector or officer may request the production of, search for and inspect any records, books or other documents whatsoever relating to milk or animals and may remove and retain any such records, books, or other documents for such period as may be reasonable for their examination or for the purpose of any proceedings for the recovery of levy payable under or by virtue of this Act or for an offence under this Act.
+
+(2) Upon request made by an inspector or an authorised officer at any premises in which a person carries on business, the person, or any person employed by him, shall produce to the inspector or officer all records, books, or other documents relating, whether solely or otherwise, to levy, a reduction under section 9 of this Act or milk in relation to which such a reduction is made, and which may be in the power, possession or procurement of the person to whom the request is made and shall permit the inspector or officer to inspect and remove any documents so produced.
+
+(3) A person shall not impede or obstruct an inspector or an authorised officer in the exercise of his powers under this section.
+
+(4) Where, in pursuance of this section, an inspector or an authorised officer enters any premises, carries out any search or requests production of any document, he shall, on request, produce his warrant of appointment or his authorisation under this Act, as may be appropriate, to any person affected.
