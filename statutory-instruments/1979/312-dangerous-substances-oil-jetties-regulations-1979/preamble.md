@@ -1,0 +1,11 @@
+S.I. No. 312 of 1979.
+
+DANGEROUS SUBSTANCES (OIL JETTIES) REGULATIONS, 1979.
+
+ARRANGEMENT OF REGULATIONS
+
+Part I.
+
+Regulation
+
+Interpretation and General
