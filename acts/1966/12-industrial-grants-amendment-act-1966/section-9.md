@@ -1,0 +1,5 @@
+Grants to secure reduction of factory rents.
+
+9.—(1) Where a factory building is situate in an area which, in the opinion of the Board, is, or is intended to be an industrial estate (other than an industrial estate established by the Board) and the building is used or intended to be used by a person for the purpose of or in connection with the carrying on of an industrial undertaking and is held by the person under a lease or other letting subject to a rent or other payment, the Board may make grants, upon such terms and subject to such conditions as they think proper to impose, to the person entitled to the rent or other payment to enable him to reduce such rent or payment.
+
+(2) A grant under this section in relation to a building shall not exceed the amount of the grant which would be payable under section 2 (1) (i) of the Industrial Grants Act, 1959, or section 5 of the Act of 1952, as the case may be, in respect of the industrial undertaking carried on in the building if a grant was not paid under this section in respect thereof.
