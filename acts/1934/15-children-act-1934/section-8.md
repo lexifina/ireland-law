@@ -1,0 +1,3 @@
+Amendment of section 11 of the Principal Act.
+
+8.—Sub-section (1) of section 11 of the Principal Act is hereby amended by the deletion of all words from the words “or to hospitals” to the end of the sub-section, and the substitution of the following words, that is to say, “or to any hospital, convalescent home, or other institution maintained by a Department of State or by any authority established under the law relating to local government, or to any hospital, convalescent home, or institution which obtains a certificate of exemption from the provisions of this Part of this Act granted, with the consent of the Minister for Local Government and Public Health, by the local authority.”
