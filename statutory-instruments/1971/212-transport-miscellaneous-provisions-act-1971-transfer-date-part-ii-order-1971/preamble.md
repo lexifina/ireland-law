@@ -1,0 +1,1 @@
+I, BRIAN LENIHAN, Minister for Transport and Power, in exercise of the powers conferred on me by section 6 of the Transport (Miscellaneous Provisions) Act, 1971 (No. 14 of 1971), hereby order as follows:
