@@ -1,0 +1,3 @@
+The Accountant's Office.
+
+15.—The Accountant's Office shall be under the management of the Accountant and there shall be transacted in that office all such business as shall from time to time be assigned thereto by statute or rule of court and in particular (unless and until otherwise provided by statute or rule of court) all such business in relation to the High Court, the Supreme Court, and the Chief Justice as was formerly transacted in the Consolidated Accounting Office of the Supreme Court of Judicature in Ireland in relation to that Court and in relation to the Lord Chancellor for Ireland.

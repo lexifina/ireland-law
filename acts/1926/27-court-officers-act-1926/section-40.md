@@ -1,0 +1,15 @@
+Appointment of temporary deputy county registrar.
+
+40.—(1) In the event of the temporary absence or the temporary incapacity through illness of any county registrar or in the event of the office of county registrar for any circuit court office being vacant the Minister may appoint a deputy to execute the office of such county registrar during such absence, incapacity, or vacancy, but unless and until the Minister appoints such deputy the office of such county registrar shall (save as is hereinafter provided) be executed during such absence, incapacity, or vacancy by the senior officer in the circuit court office.
+
+(2) A deputy appointed under this section shall, while his appointment continues, have and exercise all the powers and authorities and shall perform and fulfil all the duties and functions of the county registrar whose deputy he is.
+
+(3) Rules of court may provide that specified powers, authorities, duties, and functions of a county registrar shall not be exercised or performed by the senior officer under this section, and where rules of court so provide the powers, authorities, duties, and functions so specified shall not be exercised or performed by the senior officer under this section.
+
+(4) Except in the case of the temporary incapacity of a county registrar through illness no office shall be executed by a deputy appointed under this section for any period or periods exceeding in all three months in any year.
+
+(5) No person shall be appointed under this section to be a deputy for a county registrar unless he possesses the qualifications prescribed by this Act for persons appointed to be county registrars.
+
+(6) This section shall not operate to authorise the senior officer in a circuit court office to exercise the powers or authorities or perform the duties or functions of the county registrar as registration officer under the Electoral Act, 1923 (No. 12 of 1923) or any Act amending or extending that Act, and section 10 of that Act shall apply to the exercise and performance of those powers, authorities, duties and functions during any temporary absence or temporary incapacity through illness of the county registrar or any vacancy in the office of county registrar until a deputy is appointed under this section but not thereafter.
+
+(7) After the powers, authorities, duties, and functions of any under-sheriff have become transferred under this Act to a county registrar, the powers, authorities, duties and functions of such under-sheriff as returning officer under the Electoral Act, 1923 (No. 12 of 1923) shall not be exercisable by the senior officer under this section, and in lieu thereof whenever such county registrar is temporarily absent or incapacitated through illness or his office is vacant the Minister for Local Government and Public Health may if he so thinks fit appoint a fit and proper person to exercise and perform those powers, authorities, duties and functions during such absence, incapacity, or vacancy until a deputy is appointed by the Minister for Justice under this section.

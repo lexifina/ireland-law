@@ -1,0 +1,3 @@
+The Examiner's Office.
+
+13.—The Examiner's Office shall be under the management of the Examiner and there shall be transacted in that office all such business as shall from time to time be assigned thereto by statute or rule of court and in particular (unless and until otherwise provided by statute or rule of court) all such business as was formerly transacted in the offices attached to the respective Chambers of the Master of the Rolls and the ordinary judge of the Chancery Division of the High Court of Justice in Ireland and also such business as was formerly transacted in the offices attached to the Land Judge of the said Chancery Division including the offices attached to that Judge in his capacity of Receiver Judge.

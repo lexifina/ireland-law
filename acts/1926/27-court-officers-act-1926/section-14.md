@@ -1,0 +1,3 @@
+The Examiner.
+
+14.—The Examiner shall have and exercise all such powers and authorities and perform and fulfil such duties and functions as shall from time to time be conferred on or assigned to him by statute or rule of court and in particular (unless and until otherwise provided by statute or rule of court) shall perform and fulfil such duties and functions as were formerly performed or fulfilled by the several Chief Clerks and Assistant Chief Clerks of the Master of the Rolls and the ordinary judge of the Chancery Division of the High Court of Justice in Ireland respectively and by the Chief Receiver or the Receiver-Examiner.

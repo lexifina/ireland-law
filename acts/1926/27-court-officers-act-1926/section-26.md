@@ -1,0 +1,5 @@
+General staffs of offices.
+
+26.—(1) In addition to the principal officers there shall be employed in the several offices established by this Part of this Act such and so many officers, clerks, messengers, criers, and servants as the Minister shall from time to time determine with the sanction of the Minister for Finance and after consultation with the President of the High Court in the case of an office attached to that court and with the Chief Justice in the case of an office attached to the Supreme Court or the Chief Justice.
+
+(2) All officers (other than the principal officers), clerks, messengers, criers, and servants employed in any of the offices established by this Part of this Act shall be interchangeable amongst such offices and shall be liable to serve in any of those offices as the Minister shall from time to time direct after consultation with the President of the High Court in relation to an office attached to that court and with the Chief Justice in relation to an office attached to the Supreme Court or to the Chief Justice.

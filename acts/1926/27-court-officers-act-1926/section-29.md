@@ -1,0 +1,15 @@
+Transfer of property vested in officials.
+
+29.—(1) All securities and moneys which are immediately before the commencement of this Part of this Act standing in the books of the government of Saorstát Eireann or any foreign government or any bank or any company or other body corporate whatsoever (whether such bank, company, or body is within or outside Saorstát Eireann) in the name or to the account of the Accountant-General of the High Court of Justice of Saorstát Eireann or of the Accountant-General of the Supreme Court of Judicature in Southern Ireland shall immediately upon the commencement of this Part of this Act become and be vested in the Accountant for the time being of the Courts of Justice in Saorstát Eireann without any transfer, assignment, or other instrument.
+
+(2) All real and personal property (including choses-in-action) whatsoever which is immediately before the commencement of this Part of this Act vested in the Official Assignee of the High Court shall immediately upon the commencement of this Part of this Act become and be (without any conveyance, transfer, or other instrument) vested in the Official Assignee in Bankruptcy for the time being of the High Court for all the estate and interest and subject to the trusts and for the purposes for and subject to which such property was respectively vested in the said Official Assignee, and accordingly all securities and moneys which are immediately before the commencement of this Part of this Act standing in the books of the government of Saorstát Eireann or any foreign government or any bank, or any company or other body corporate whatsoever (whether such bank, company, or body is within or outside Saorstát Eireann) in the name or to the account of the Official Assignee of the High Court of Justice of Saorstát Eireann or of the Official Assignee of the High Court of Justice in Southern Ireland shall immediately upon the commencement of this Part of this Act become and be vested in the Official Assignee in Bankruptcy of the High Court of Justice of Saorstát Eireann without any transfer, assignment, or other instrument.
+
+(3) All chattels and all documents which immediately before the commencement of this Part of this Act are deposited for safe custody or otherwise with the Accountant-General of the High Court of Justice in Saorstát Eireann shall upon the commencement of this Part of this Act and without any further order be transferred to the Accountant of the Courts of Justice and be held by him for the same purposes as such chattels and documents were respectively held by the said Accountant-General immediately before such commencement.
+
+(4) In this section—
+
+the word “securities” includes every description of stocks, shares, debentures, bonds, mortgages, and other securities and all dividends and interest accrued or accruing thereon;
+
+the word “moneys” includes moneys in bank on deposit or current accounts;
+
+and references to the books of a government, bank, company, or other body corporate includes books kept for a government, bank, company, or body corporate by any bank, company, body, or person.

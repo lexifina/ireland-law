@@ -1,0 +1,3 @@
+The Accountant.
+
+16.—The Accountant (who shall be styled the Accountant of the Courts of Justice) shall have and exercise all such powers and authorities and perform and fulfil such duties and functions as shall from time to time be conferred on or assigned to him by statute or rule of court and in particular (unless and until otherwise provided by statute or rule of court) shall perform and fulfil in relation to the High Court, the Supreme Court, and the Chief Justice all such duties and functions as were formerly performed and fulfilled by the Accountant-General of the Supreme Court of Judicature in Ireland in relation to that Court and in relation to the Lord Chancellor for Ireland.

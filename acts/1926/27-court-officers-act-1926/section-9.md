@@ -1,0 +1,3 @@
+The Probate Officer.
+
+9.—The Probate Officer shall have and exercise all such powers and authorities and perform and fulfil such duties and functions as shall from time to time be conferred on or assigned to him by statute or rule of court and in particular (unless and until otherwise provided by statute or rule of court) shall have and exercise all such powers and authorities as immediately before the passing of this Act were vested by law in the Principal Probate Registrar or an Assistant Probate Registrar and shall perform and fulfil such duties and functions as immediately before the passing of this Act were required by law to be or were in fact performed or fulfilled by the Principal Probate Registrar and the Assistant Probate Registrars respectively.

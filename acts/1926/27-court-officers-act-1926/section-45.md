@@ -1,0 +1,3 @@
+Saving for official assignees of local bankruptcy courts.
+
+45.—Nothing in this Act shall apply to the office of official assignee attached to a local bankruptcy court established under the Local Bankruptcy (Ireland) Act, 1888, before the passing of the Courts of Justice Act, 1924 (No. 10 of 1924) save that every such official assignee and his staff (if any) shall henceforth be attached to the circuit court and that sub-sections (1) and (2) of section 43 (which relate to the staff attached to the circuit court) of this Act shall apply to the post or situation of each such official assignee and of each member of his staff (if any) on and from the occurrence of the next vacancy in each such post or situation.

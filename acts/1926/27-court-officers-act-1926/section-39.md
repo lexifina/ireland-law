@@ -1,0 +1,9 @@
+Expenses, etc., heretofore payable to Clerk of Crown and Peace.
+
+39.—(1) All expenses, allowances, and fees heretofore payable or receivable under the Electoral Act, 1923 (No. 12 of 1923), the Local Government Electors Registration Act, 1924 (No. 7 of 1924) and the Juries Acts, 1871 to 1924, respectively to or by the Clerk of the Crown and Peace (whether as registration officer or otherwise) shall be payable to and receivable by the county registrar in the same manner in all respects as the said expenses, allowances, and fees were heretofore payable to or receivable by the Clerk of the Crown and Peace.
+
+(2) The amounts of the said expenses, allowances and fees shall be calculated in accordance with the scales for the time being in force for the purposes of such calculation under the said Acts mentioned in the foregoing sub-section respectively, and for the purpose of such scales all such expenses, allowances, and fees as were heretofore actually incurred by the Clerk of the Crown and Peace shall be deemed to be actually incurred by the county registrar although in fact not so incurred.
+
+(3) Save as is hereinafter mentioned every county registrar shall surrender to the Exchequer so much of the expenses, allowances, and fees paid to and received by him by virtue of this section as is not required by him to meet disbursements and expenses payable or incurred by him under any of the said Acts mentioned in the foregoing sub-section and not payable or paid out of moneys provided by the Oireachtas.
+
+(4) Notwithstanding the provisions of the foregoing sub-section, the fees and other sums mentioned in sub-section (4) of section 12 of the Electoral Act, 1923, shall be accounted for and paid by the county registrar in accordance with that sub-section and no portion of such fees or sums shall be surrendered to the Exchequer under the foregoing sub-section.

@@ -1,0 +1,9 @@
+Staff attached to the circuit court and the judges thereof.
+
+43.—(1) In addition to the persons employed under this Act in circuit court offices there may be attached to the circuit court such and so many officers and servants as the Minister shall, with the sanction of the Minister for Finance from time to time determine and all such officers and servants shall hold office on such terms and conditions as the Minister for Finance shall prescribe.
+
+(2) Every officer and servant attached to the circuit court shall be assigned by the Minister to a particular circuit and any such officer or servant may with his own consent be transferred from one circuit to another circuit and every such officer and servant shall perform and fulfil in the circuit to which he is for the time being assigned such duties and functions in relation to the circuit court as the Minister shall from time to time prescribe.
+
+(3) In addition to the officers and servants mentioned in the foregoing sub-sections of this section there may be attached to any judge of the circuit court by direction of the Minister and with the sanction of the Minister for Finance one servant to perform such duties in relation to such judge as the Minister shall prescribe, and every such servant shall be appointed by the Minister and shall hold office on such terms and conditions as the Minister shall, with the sanction of the Minister for Finance determine, and the Civil Service Regulation Act, 1924 (No. 5 of 1924) shall not apply to the situation of any such servant.
+
+(4) The Minister for Finance may out of moneys to be provided by the Oireachtas pay to any judge of the circuit court to whom a servant is not attached under the foregoing sub-section an allowance of such amount as the said Minister shall determine in lieu of such servant.
