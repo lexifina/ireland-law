@@ -1,0 +1,5 @@
+Levies on exported animals.
+
+16.—(1) The owner of each animal which is, on or after the appointed day, delivered to a shipowner for shipment from a port in the State to a British landing place shall pay, by means of levy stamps, in respect of such animal, to the Board a levy of an amount equal to the appointed percentage, at the time of delivery, of the declared value of such animal.
+
+(2) The Minister shall, before the appointed day, and may thereafter whenever and so often as he thinks fit, make, after consultation with the National Executive, an order appointing a specified percentage to be the appointed percentage for the purposes of this section, and every order made under this sub-section shall remain in force until a subsequent order under this section is made and comes into force, and the reference in sub-section (1) of this section to the appointed percentage at the time of delivery shall be construed as a reference to the percentage fixed by an order under this sub-section in force at the time of such delivery.
