@@ -1,0 +1,3 @@
+Conditions as to rates of wages and conditions of labour.
+
+13.—The Minister shall not make a grant under any enactment, or a contribution to annual loan charges under section 6 of the Act of 1932, in respect of the erection or reconstruction of a house where it is shown to his satisfaction that, throughout the erection or reconstruction, rates of wages have not been paid or conditions of labour observed at least as advantageous to the persons employed on the work as the appropriate rates of wages or conditions of labour generally recognised from time to time by trade unions in the area, during the period beginning with the preparation of the site and ending with the completion of the work.

@@ -1,0 +1,3 @@
+Relinquishment of powers by urban district council.
+
+35.—The council of an urban district which has adopted the Small Dwellings Acquisition Acts in accordance with section 9 of the Act of 1899 may, on such terms as may be agreed upon between the council and the council of the county, by resolution relinquish its powers, rights and liabilities under those Acts in favour of the council of the county, and, in that case, the powers, rights and liabilities so relinquished shall cease and the provisions of those Acts shall have effect as if the council of the urban district had not passed a resolution under section 9 of the Act of 1899.

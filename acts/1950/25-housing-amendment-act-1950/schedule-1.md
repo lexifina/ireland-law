@@ -1,0 +1,7 @@
+FIRST SCHEDULE.
+
+Repeals.
+
+Section 5.
+
+Session and Chapter or Number and Year Short title Extent of Repeal Date of Repeal 53 & 54 Vict., c. 70. The Housing of the Working Classes Act, 1890. Section 3. The date of the passing of this Act. 62 & 63 Vict., c. 44. The Small Dwellings Acquisition Act, 1899. Subsection (4) of section 9. The date of the passing of this Act. Section 15. The date of the passing of this Act. 9 & 10 Geo. V, c. 45. Housing (Ireland) Act, 1919. Section 9. The date of the passing of this Act. No. 19 of 1932. The Housing (Financial and Miscellaneous Provisions) Act, 1932. Subsection (3) of section 8. The date of the passing of this Act. No. 42 of 1937. The Housing and Labourers Act, 1937. Paragraph (c) of section 4. The date of the passing of this Act. Subsection (3) of section 5. The date of the passing of this Act. No. 2 of 1946. The Housing (Amendment) Act, 1946. Subsection (8) of section 3. The date of the passing of this Act.” No. 1 of 1948. The Housing (Amendment) Act, 1948. Subsection (3) of section 8. The date of the passing of this Act. Section 26. The 29th day of June, 1950. Subsection (2) of section 27. The date of the passing of this Act. Section 30. The date of the passing of this Act. Section 39. The date of the passing of this Act. Subsection (1) of section 45. The date of the passing of this Act. No. 23 of 1949. The Housing (Amendment) Act, 1949. Paragraph (b) of section 1. The 29th day of June, 1950.
