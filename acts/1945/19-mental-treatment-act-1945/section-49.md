@@ -1,0 +1,3 @@
+Audit of accounts of joint board.
+
+49.—Section 12 and sections 14, 15, 17, and 18 of the Local Government (Ireland) Act, 1871, sub-section (2) of section 63 of the Local Government (Ireland) Act, 1898, sections 19 to 22 of the Local Government (Ireland) Act, 1902, and paragraph (3) of Article 19 of the Schedule to the Local Government (Application of Enactments) Order, 1898, shall (subject to the provisions of Part VII of the Local Government Act, 1941 (No. 23 of 1941)) apply to the audit of the accounts of the receipts and payments of a joint board and to the auditor appointed to audit such accounts.

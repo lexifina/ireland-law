@@ -1,0 +1,7 @@
+Effect of recommendation for reception.
+
+167.—(1) Where a recommendation for reception is made, the applicant for the recommendation or any person authorised by him or, in the case of a recommendation for reception made under section 165 of this Act, any member of the Gárda Síochána may, subject to the provisions of this section, take the person to whom the recommendation relates and convey him to the district mental hospital mentioned in the recommendation.
+
+(2) Where, after the making of a recommendation for reception, the person to whom the recommendation relates is not conveyed to the district mental hospital mentioned in the recommendation within seven clear days after the day on which the recommendation is made, the recommendation shall cease to have effect.
+
+(3) Notwithstanding anything contained in sub-section (2) of this section, where, within seven clear days after the day on which a recommendation for reception is made, the authorised medical officer certifies that the person to whom the recommendation relates will not be fit to be removed until after the expiration of such seven clear days, the recommendation shall not cease to have effect on the expiration of such seven clear days, but, if such person is not conveyed within a further seven clear days to the district mental hospital mentioned in the recommendation, the recommendation shall then cease to have effect.

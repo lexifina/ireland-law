@@ -1,0 +1,3 @@
+Penalty for obstruction of Inspector of Mental Hospitals, etc.
+
+279.—If any person obstructs or interferes with the Inspector of Mental Hospitals while the Inspector is exercising any power conferred by or under this Act or fails to give any information within his knowledge reasonably required by the Inspector in the course of carrying out his duties, such person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds or, at the discretion of the Court, to imprisonment for any term not exceeding six months or to both such fine and such imprisonment.

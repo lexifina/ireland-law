@@ -1,0 +1,13 @@
+Allowance in respect of children in certain cases.
+
+78.—(1) Where an officer or servant of a mental hospital authority dies while in their service as a result of an injury which was sustained, otherwise than through his own misconduct or negligence, while discharging his duties and such officer or servant was a widower or widow and is survived by one or more than one dependent child under sixteen years of age, the authority (whether they have or have not made a grant in relation to such officer or servant under section 70 of this Act) may, in their discretion but subject to the consent of the Minister and the provisions of this Part of this Act, grant in respect of the child or each of the children such allowance as they consider proper.
+
+(2) A mental hospital authority, in determining the amount of an allowance to be granted under sub-section (1) of this section, in relation to the death of an officer or servant, shall have regard, in particular, to any payment made or to be made by the authority in relation to any claim, on behalf of the child in respect of whom the allowance is to be granted, otherwise than under this Part of this Act in relation to such death.
+
+(3) Where an officer or servant of a mental hospital authority, whose name is entered in the register maintained under this Part of this Act by such authority, dies while in their service as a result of any physical or mental illness which was contracted, otherwise than through his own misconduct or negligence, in the service of such authority and such officer or servant was a widower or widow and is survived by one or more than one dependent child under sixteen years of age, the authority (whether they have or have not made a grant in relation to such officer or servant under section 70 of this Act) may, in their discretion but subject to the consent of the Minister and the provisions of this Part of this Act, grant in respect of the child or each of the children such allowance as they consider proper.
+
+(4) An allowance under this section shall be paid by the mental hospital authority by whom it was granted to such person as from time to time they think proper for expenditure on behalf of the child in respect of whom it was granted.
+
+(5) A mental hospital authority by whom an allowance has been granted under this section may, subject to the consent of the Minister and the provisions of this Part of this Act, reduce, increase, cancel, or restore (where previously cancelled) such allowance in any circumstances which in their opinion render that course proper.
+
+(6) An allowance under this section shall cease finally on the attainment by the child in respect of whom the allowance was granted of the age of sixteen years or his earlier death.

@@ -1,0 +1,3 @@
+Reception and detention otherwise than under this Act.
+
+250.—Any person who, otherwise than in accordance with the provisions of this Act, receives and detains, or undertakes for payment the care and control of, a person who is, or is alleged to be, of unsound mind shall be guilty of an offence under this section and shall be liable, on summary conviction thereof, to a fine not exceeding one hundred pounds or, at the discretion of the Court, to imprisonment for a term not exceeding six months or to both such fine and such imprisonment or, on conviction thereof on indictment, to a fine not exceeding two hundred pounds or, at the discretion of the Court, to imprisonment for a term not exceeding two years or to both such fine and such imprisonment.

@@ -1,0 +1,7 @@
+Requisition not to use authorised institution for taking care of persons of unsound mind.
+
+157.—(1) The Minister may by order require that any authorised institution in relation to which there has been a conviction of an offence under the next preceding section shall not be used after a specified date for the care, maintenance or treatment of persons of unsound mind and, if it is so used after that date, the person carrying on the institution shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds, together with, where the offence is a continuing offence, a further fine not exceeding five pounds for each day on which the offence is continued.
+
+(2) The Minister may by order revoke an order made under sub-section (1) of this section.
+
+(3) Where an order is made under sub-section (1) of this section, the powers conferred by this Act on the Minister and on the Inspector of Mental Hospitals in relation to the authorised institution to which the order relates and the provisions of this Act in relation to the discharge, removal, and transfer of the patients in such institution shall continue in force for a period of three months after the date specified in the order as the date as on and from which such institution shall not be used for the taking care of patients and it shall be lawful to carry on such institution during that period for the purpose of effecting such discharge, removal and transfer.

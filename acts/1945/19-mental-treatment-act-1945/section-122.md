@@ -1,0 +1,3 @@
+Continuation of certain powers after removal of private institution from register or after registration not being renewed.
+
+122.—Where a private institution registered in the register is removed therefrom or the registration of a private institution registered in the register is not renewed, the powers conferred by this Act on the Minister and on the Inspector of Mental Hospitals in relation to the institution and the provisions of this Act in relation to the discharge, removal, and transfer of the patients in the institution shall continue in force for a period of three months thereafter and it shall be lawful to carry on the institution during that period for the purposes of effecting such discharge, removal, and transfer.

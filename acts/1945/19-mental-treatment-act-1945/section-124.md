@@ -1,0 +1,3 @@
+Provisions consequent upon transfer, etc., of private institution.
+
+124.—Where a private institution registered in the register ceases, consequent upon any transfer, death, or other event, to be carried on by the registered proprietor, the person (if any) who continues to carry on the institution shall, on making written application (accompanied by the prescribed fee) to the Minister not later than fourteen days after such cesser and provided he is approved of by the Minister, be entitled to have his name entered in the register as the registered proprietor, and such person shall, on making such application, be deemed to be the registered proprietor as from such cesser until the Minister decides such application.

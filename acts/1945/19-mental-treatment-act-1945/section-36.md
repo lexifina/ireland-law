@@ -1,0 +1,3 @@
+Restriction on erecting buildings attached to institution maintained by mental hospital authority, etc.
+
+36.—A proposal for the erection at a cost exceeding five hundred pounds of buildings intended to be attached or used for the purposes of an institution maintained by a mental hospital authority or for the restoration, enlargement, or other alteration at such a cost of buildings attached to or used for the purposes of such institution shall not be carried out unless and until the plan or specification relating to the proposal is approved of by the Minister nor save in accordance with the directions given by the Minister from time to time.

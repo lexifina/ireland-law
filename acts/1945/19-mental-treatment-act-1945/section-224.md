@@ -1,0 +1,3 @@
+Sending of person who is detained as chargeable patient and who is eligible for public assistance to district institution on discharge.
+
+224.—Where a person who is detained as a chargeable patient in a district mental hospital or other institution maintained by a mental hospital authority and who is eligible for general assistance under the Public Assistance Act, 1939 (No. 27 of 1939), is discharged from such hospital or other institution, the mental hospital authority may, if they so think fit, send him to the appropriate district institution of the public assistance district in which he resided before he was sent to such hospital or other institution.

@@ -1,0 +1,5 @@
+Transfer to different district mental hospital.
+
+206.—(1) Where a mental hospital authority, acting on the advice of the resident medical superintendent of their district mental hospital, are of opinion that it would be for the benefit of the health of a person detained in such hospital or in any other institution maintained by them, or that it is necessary for the purpose of obtaining special treatment for such person, that he should be temporarily transferred to another district mental hospital in which he may be received in pursuance of an arrangement under this section, the authority may apply to the Minister for an order directing and authorising the transfer and the Minister may, if he thinks fit, make the order and may, at any time thereafter on the request of the authority acting as aforesaid, by order direct and authorise the return of such person to the hospital or other institution from which he was transferred.
+
+(2) Subject to the provisions of sub-section (1) of this section, any two mental hospital authorities may make and carry out an arrangement for the purposes of that sub-section.
