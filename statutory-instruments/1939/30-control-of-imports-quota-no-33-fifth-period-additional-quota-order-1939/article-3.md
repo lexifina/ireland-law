@@ -1,0 +1,3 @@
+Article 3
+
+3. The quota appointed by the Control of Imports (Quota No. 33, Fifth Period) Order, 1938, in respect of the fifth quota period appointed by that Order is hereby increased by one hundred thousand square yards of the articles to which the Control of Imports (Quota No. 33) Order, 1937, applies, to the intent that the said one hundred thousand square yards shall be an additional quota in respect of the said fifth quota period, and the total quota in respect of the said fifth quota period shall be six hundred thousand square yards of the articles to which the Control of Imports (Quota No. 33) Order, 1937, applies.
