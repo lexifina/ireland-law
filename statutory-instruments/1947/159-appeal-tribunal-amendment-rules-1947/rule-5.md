@@ -1,0 +1,5 @@
+Rule 5
+
+5. The Principal Rules are hereby amended by the insertion therein immediately after Rule 12 of the following Rule ::—
+
+" 12A. In all proceedings for resumption of holdings under these Rules, the Fees specified in the Appendix hereto as payable to the Solicitor of the tenant, with an addition thereto of an amount equal to 25 per centum of such fees, and the fees specified in the said Appendix for Counsel and Professional Valuers, with an addition of a sum of £1 1s. 0d. to each such Fee, shall, as between party and party, be the lawful Fees and emoluments for the discharge on and after the 23rd day of May, 1947, of the duties therein specified, and in the absence of agreement to the contrary shall be taxed accordingly by a Taxing Master of the High Court : provided that this Rule shall not apply in respect of duties discharge prior to the said 23rd day of May, 1947, or in respect of duties the particulars of the fees for which have been prior to such date furnished to the client or person chargeable therewith, or have been taxed or certified."
