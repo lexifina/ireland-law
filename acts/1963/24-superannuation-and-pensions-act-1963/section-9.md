@@ -1,0 +1,3 @@
+Reckoning of certain service under Folklore Commission.
+
+9.—Where a person, while serving in a whole-time capacity in the employment of the Folklore Commission, was appointed to an established or unestablished position, the service of the person in the employment of the Folklore Commission shall, if the Minister in his discretion so directs and to such extent and subject to such conditions as he decides, be reckoned as unestablished service, and the person shall be deemed to have been paid out of moneys provided by the Oireachtas within the meaning of section 17 of the Superannuation Act, 1859, during the period so reckoned.
