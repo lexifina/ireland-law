@@ -1,0 +1,3 @@
+Article 6
+
+6. The injuries specified in the first column of the Schedule hereto shall constitute damage or injury to the carcase of a factory-purchased pig for the purposes of this Order and of Part IV of the Act of 1937 and the amount specified in the second column in the said Schedule immediately opposite the description of the damage shall be the amount to be allowed in respect of such damage. Provided alwaysthat this clause shall not apply to any injury suffered by a factory-purchased pig or the carcase of a factory purchased pig after the pig is delivered at the factory of the licensee and such injury shall not constitute the carcase a damaged carcase within the meaning of this Order or of Section 59, Sub-section (1) (b) of the Act.
