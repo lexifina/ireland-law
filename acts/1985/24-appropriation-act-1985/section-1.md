@@ -1,0 +1,5 @@
+Appropriation of sums voted for supply services, viz.,£6,150,747,000.
+
+1.—(1) The sums granted by the Central Fund (Permanent Provisions) Act, 1965, out of the Central Fund towards making good the supply granted, amounting in the aggregate to the sum of six thousand, one hundred and fifty million, seven hundred and forty-seven thousand pounds for the service of the year ending on the 31st day of December, 1985, are appropriated for the services and purposes expressed in the Schedule hereto.
+
+(2) In addition to the grants out of the Central Fund referred to in the foregoing subsection of this section, there may be applied out of any money directed under section 2 of the Public Accounts and Charges Act, 1891, to be applied as appropriations-in-aid of the grants for the services and purposes specified in the Schedule hereto, the sums respectively set forth in column (4) of the said Schedule amounting, as appears thereby, in the aggregate to the sum of five hundred and thirty-five million, three hundred and sixty-four thousand pounds.
