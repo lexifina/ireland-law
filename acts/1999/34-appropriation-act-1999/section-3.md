@@ -1,0 +1,3 @@
+Payment of certain excise duties on tobacco products to Minister for Health and Children.
+
+3.—In the year commencing on 1 January, 2000, and in each year thereafter, such sum as may be determined by the Minister for Finance, not exceeding one hundred and thirty two million pounds, shall be paid to the Minister for Health and Children by the Revenue Commissioners, as an appropriation-in-aid of the grant in the year concerned for the services and purposes connected with the performance by the second-mentioned Minister of his or her functions, out of moneys collected by the Revenue Commissioners in respect of the duty of excise imposed by section 2 of the Finance (Excise Duty on Tobacco Products) Act, 1977.
