@@ -1,0 +1,3 @@
+Restriction on rebates.
+
+23.—If any person (in this section referred to as the vendor) who is a registered producer in respect of a joint district makes to another person, (in this section referred to as the purchaser), who is a registered retailer or a registered wholesaler in respect of such district and to whom the vendor has sold milk, any payment, by way of rebate, refund, discount or allowance howsoever in relation to the sale of such milk, which would have the effect of reducing the price of such milk below the appropriate statutory minimum price, each of them, the vendor and the purchaser, shall be severally guilty of an offence under this section and shall be liable on summary conviction thereof to the penalties mentioned in the Schedule to the Principal Act.

@@ -1,0 +1,17 @@
+Amendment of section 43 of the Principal Act.
+
+22.—(1) Notwithstanding anything contained in sub-section (1) of section 43 of the Principal Act, the Minister may on his own motion and notwithstanding that a determination (other than a first determination) of the board for a joint district has not been made under section 42 of the Principal Act or that such determination has not been communicated to him, do in respect of such joint district any of the things mentioned in paragraph (b) of the said sub-section (1).
+
+(2) For the purposes of an order made by the Minister under section 43 of the Principal Act fixing the minimum prices of milk by reference (amongst other things) to the distance by road between two places, a certificate purporting to be signed and issued by an officer of the Ordnance Survey and to certify the distance by road between such places shall be conclusive evidence (without proof of the signature of such officer or that he was such officer) of such distance.
+
+(3) Sub-section (4) of section 43 of the Principal Act is hereby amended by the substitution of the word “sub-section” for the word “section” and the said sub-section (4) shall be construed and have effect accordingly.
+
+(4) Section 43 of the Principal Act is hereby amended by the insertion therein of the following sub-section in lieu of sub-section (5) now contained therein, and the said section shall be construed and have effect accordingly, that is to say:—
+
+“(5) If any person (in this sub-section referred to as the vendor) who is a registered retailer or a registered wholesaler in respect of a joint district sells milk to another person (in this sub-section referred to as the purchaser) who is a registered retailer or a registered wholesaler in respect of such district at a price less than the price which would, if the vendor were a registered producer in respect of such district, be the appropriate statutory minimum price, each of them, the vendor and the purchaser, shall be severally guilty of an offence under this sub-section and shall be liable on summary conviction thereof to the penalties mentioned in the Schedule to this Act.”.
+
+(5) Section 43 of the Principal Act is hereby amended by the insertion therein of the following two additional sub-sections and the said section shall be construed and have effect accordingly, that is to say:—
+
+“(6) If any person being a registered producer in respect of a joint district attempts to sell any milk to any other person being a registered retailer or a registered wholesaler in respect of such district at a price less than the appropriate statutory minimum price such first-mentioned person shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to the penalties mentioned in the Schedule to this Act.
+
+(7) If any person (in this sub-section referred to as the vendor) who is a registered retailer or a registered wholesaler in respect of a joint district attempts to sell any milk to another person who is a registered retailer or a registered wholesaler in respect of such district at a price less than the price which would, if the vendor were a registered producer in respect of such district, be the appropriate statutory minimum price, the vendor shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to the penalties mentioned in the Schedule to this Act.”
