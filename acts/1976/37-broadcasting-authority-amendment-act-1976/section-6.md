@@ -1,0 +1,7 @@
+Authority to record every broadcast.
+
+6.—(1) It shall be the duty of the Authority, by means of its own facilities and in a manner approved of for the purposes of this section by the Commission, to record for those purposes every broadcast made by the Authority; provided that as regards a television broadcast the Authority shall be regarded as complying with the requirements of this section if it records in sound only the broadcast.
+
+(2) Recordings made in compliance with subsection (1) of this section shall be retained by the Authority for at least one hundred and eighty days or for such other period as shall be agreed by the Authority and the Commission, and when a complaint is being investigated by the Commission, the recording of the broadcast to which the complaint relates, together with the recording, made and being retained pursuant to this section, of any other broadcast which in the opinion of the Commission is relevant to that broadcast, shall be supplied by the Authority to the Commission on a request made by the Commission at any time during such period.
+
+(3) The making or retaining of a recording in compliance with subsection (1) of this section shall not be a contravention of section 2 or section 3 of the Performers' Protection Act, 1968, or an infringement of copyright, and nothing contained in the Copyright Act, 1963, shall be construed as prohibiting or restricting the making of such a recording.
