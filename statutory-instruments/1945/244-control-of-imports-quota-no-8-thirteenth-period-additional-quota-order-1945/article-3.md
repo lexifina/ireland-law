@@ -1,0 +1,3 @@
+Article 3
+
+3. The quota appointed by the Control of Imports (Quota No. 8, Thirteenth Period) Order, 1944 ( S. R. & O. No. 330 of 1944 ), in respect of the thirteenth quota period appointed by that Order is hereby increased by three hundred and fifty articles, to which the Control of Imports (Quota No. 8) Order, 1934 ( S. R. & O. No. 287 of 1934 ), applies, to the intent that the said three hundred and fifty articles shall be an additional quota in respect of the said thirteenth quota period, and the total quota in respect of the said thirteenth quota period shall be four hundred and seventy articles, to which the said Control of Imports (Quota No. 8) Order, 1934, applies.
