@@ -1,0 +1,3 @@
+Article 1
+
+1. This Order may be cited as the Control of Imports (Quota No. 11, First Period, Additional Quota) Order, 1935.
