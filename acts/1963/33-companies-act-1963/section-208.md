@@ -1,0 +1,3 @@
+Definition of “contributory”.
+
+208.—The term “contributory” means every person liable to contribute to the assets of a company in the event of its being wound up, and for the purposes of all proceedings for determining, and all proceedings prior to the final determination of, the persons who are to be deemed contributories, includes any person alleged to be a contributory.

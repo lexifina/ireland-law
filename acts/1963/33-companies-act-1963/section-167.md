@@ -1,0 +1,3 @@
+Power of inspectors to extend investigation into affairs of related companies.
+
+167.—If an inspector appointed under sections 165 or 166 to investigate the affairs of a company thinks it necessary for the purposes of his investigation to investigate also the affairs of any other body corporate which is or has at any relevant time been the company's subsidiary or holding company or a subsidiary of its holding company or a holding company of its subsidiary, he shall, with the approval of the Minister, have power so to do, and shall report on the affairs of the other body corporate so far as he thinks the results of his investigation thereof are relevant to the investigation of the affairs of the first-mentioned company.

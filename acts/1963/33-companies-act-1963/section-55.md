@@ -1,0 +1,7 @@
+Effect of irregular allotment.
+
+55.—(1) An allotment made by a company to an applicant in contravention of sections 53 or 54 shall be voidable at the instance of the applicant within one month after the holding of the statutory meeting of the company and not later, or, in any case where the company is not required to hold a statutory meeting, or where the allotment is made after the holding of the statutory meeting, within one month after the date of the allotment, and not later, and shall be so voidable notwithstanding that the company is in course of being wound up.
+
+(2) Where an allotment is avoided under this section the company shall within one month thereafter deliver to the registrar of companies for registration a notice to that effect, and subsections (3) and (4) of section 58 shall apply in relation to this subsection as they apply in relation to that section.
+
+(3) If any director of a company knowingly contravenes, or permits or authorises the contravention of, any of the provisions of the said sections 53 and 54 with respect to allotment, he shall be liable to compensate the company and the allottee respectively for any loss, damages or costs which the company or allottee may have sustained or incurred thereby, so however that proceedings to recover any such loss, damages or costs shall not be commenced after the expiration of 2 years from the date of the allotment.

@@ -1,0 +1,3 @@
+Registration of transfer at request of transferor.
+
+83.—On application of the transferor of any share or interest in a company, the company shall enter in its register of members the name of the transferee in the same manner and subject to the same conditions as if the application for the entry were made by the transferee.

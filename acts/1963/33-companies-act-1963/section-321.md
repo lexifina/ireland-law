@@ -1,0 +1,5 @@
+Delivery to registrar of accounts of receivers.
+
+321.—(1) Except where subsection (2) of section 319 applies, every receiver of the property of a company shall, within one month after the expiration of the period of 6 months from the date of his appointment and of every subsequent period of 6 months, and within one month after he ceases to act as receiver, deliver to the registrar of companies for registration an abstract in the prescribed form showing the assets of the company of which he has taken possession since his appointment, their estimated value, the proceeds of sale of any such assets since his appointment, his receipts and his payments during that period of 6 months or, where he ceases to act as aforesaid, during the period from the end of the period to which the last preceding abstract related up to the date of his so ceasing, and the aggregate amounts of his receipts and of his payments during all the preceding periods since his appointment.
+
+(2) Every receiver who makes default in complying with this section shall be liable to a fine not exceeding £100.

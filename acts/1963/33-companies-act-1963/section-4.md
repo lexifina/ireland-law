@@ -1,0 +1,3 @@
+Construction of references in other Acts to companies registered under the Companies (Consolidation) Act, 1908.
+
+4.—Notwithstanding subsection (1) of section 20 of the Interpretation Act, 1937, (which provides that where an Act repeals and re-enacts, with or without modification, any provisions of a former Act, references in any other Act to the provisions so repealed shall, unless the contrary intention appears, be construed as references to the provisions so re-enacted) references in any Act other than this Act to a company formed and registered, or registered, under the Companies (Consolidation) Act, 1908, shall, unless the contrary intention appears, be construed as references to a company formed and registered, or registered, under that Act or this Act.

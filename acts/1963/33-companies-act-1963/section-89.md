@@ -1,0 +1,3 @@
+Validation of invalid issue of shares.
+
+89.—If a company has created or issued shares in its capital and if there is reason to apprehend that such shares were invalidly created or issued, the court may, on the application of the company, any holder of such shares or any member or creditor, or the liquidator, of the company, declare that such creation or issue shall be valid for all purposes if the court is satisfied that it would be just and equitable to do so and thereupon such shares shall from the creation or issue thereof, as the case may be, be deemed to have been validly created or issued.

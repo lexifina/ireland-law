@@ -1,0 +1,3 @@
+Prohibition of partnerships with more than twenty members.
+
+376.—No company, association or partnership consisting of more than twenty persons shall be formed for the purpose of carrying on any business (other than the business of banking), that has for its object the acquisition of gain by the company, association or partnership, or by the individual members thereof, unless it is registered as a company under this Act or is formed in pursuance of some other statute.

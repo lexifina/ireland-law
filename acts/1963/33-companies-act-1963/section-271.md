@@ -1,0 +1,3 @@
+Application of section 260 to a creditors' voluntary winding up.
+
+271.—Section 260 shall apply in the case of a creditors' voluntary winding up as in the case of a members' voluntary winding up, with the modification that the powers of the liquidator under that section shall not be exercised except with the sanction either of the court or of the committee of inspection.

@@ -1,0 +1,5 @@
+Power of court to assess damages against directors.
+
+298.—(1) If in the course of winding up a company it appears that any person who has taken part in the formation or promotion of the company, or any past or present director or liquidator, or any officer of the company, has misapplied or retained or become liable or accountable for any money or property of the company, or been guilty of any misfeasance or breach of trust in relation to the company, the court may, on the application of the liquidator or of any creditor or contributory, examine the conduct of the promoter, director, liquidator or officer, and compel him to repay or restore the money or property or any part thereof respectively with interest at such rate as the court thinks just, or to contribute such sums to the assets of the company by way of compensation in respect of the misapplication, retainer, misfeasance or breach of trust as the court thinks just.
+
+(2) This section shall have effect notwithstanding that the offence is one for which the offender may be criminally liable.

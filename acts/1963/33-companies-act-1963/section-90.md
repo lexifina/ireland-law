@@ -1,0 +1,3 @@
+Penalty of personation of shareholder.
+
+90.—If any person falsely and deceitfully personates any owner of any share or interest in any company, or of any share warrant or coupon, issued in pursuance of this Act, and thereby obtains or endeavours to obtain any such share or interest or share warrant or coupon, or receives or endeavours to receive any money due to any such owner, or votes at any meeting, as if the offender were the true and lawful owner, he shall be liable, on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine not exceeding £500 or to both, or, on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding £100 or to both.

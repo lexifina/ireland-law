@@ -1,0 +1,5 @@
+Duty of company to register charges existing on property acquired.
+
+101.—(1) Where a company acquires any property which is subject to a charge of any such kind as would, if it had been created after the acquisition of the property, have been required to be registered under this Part, the company shall cause the prescribed particulars of the charge, verified in the prescribed manner, to be delivered to the registrar of companies for registration in manner required by this Act within 21 days after the date on which the acquisition is completed so, however, that if the property is situated outside the State, 21 days after the date on which the prescribed particulars could, in due course of post and if despatched with due diligence, have been received in the State, shall be substituted for 21 days after the completion of the acquisition as the time within which the particulars are to be delivered to the registrar.
+
+(2) If default is made in complying with this section, the company and every officer of the company who is in default shall be liable to a fine not exceeding £100.

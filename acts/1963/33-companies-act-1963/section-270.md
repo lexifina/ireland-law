@@ -1,0 +1,3 @@
+Power to fill vacancy in office of liquidator.
+
+270.—If a vacancy occurs by death, resignation or otherwise in the office of a liquidator, other than a liquidator appointed by, or by the direction of, the court, the creditors may fill the vacancy.

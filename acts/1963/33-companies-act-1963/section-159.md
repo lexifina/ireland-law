@@ -1,0 +1,13 @@
+Obligation of company to send copies of balance sheets and directors' and auditors' reports.
+
+159.—(1) Subject to subsections (2) and (3), a copy of every balance sheet including every document required by law to be annexed thereto, which is to be laid before the annual general meeting of a company together with a copy of the directors' and auditors' reports shall, not less than 21 days before the date of the meeting, be sent to every member of the company (whether he is or is not entitled to receive notices of general meetings of the company), every holder of debentures of the company (whether he is or is not so entitled) and all persons other than members or holders of debentures of the company who are so entitled.
+
+(2) In the case of a company not having a share capital, subsection (1) shall not require a copy of the documents referred to in that subsection to be sent to a member of the company who is not entitled to receive notices of general meetings of the company or to a holder of debentures of the company who is not so entitled.
+
+(3) If the copies of the documents referred to in subsection (1) are sent less than 21 days before the date of the meeting, they shall, notwithstanding that fact, be deemed to have been duly sent if it is so agreed by all the members entitled to attend and vote at the meeting.
+
+(4) Any member of a company, whether he is or is not entitled to have sent to him copies of the company's balance sheets, and any holder of debentures of the company, whether he is or is not so entitled, shall be entitled to be furnished on demand without charge with a copy of the last balance sheet of the company, including every document required by law to be annexed thereto, together with copies of the directors' and auditors' reports.
+
+(5) If default is made in complying with subsection (1), the company and every officer of the company who is in default shall be liable to a fine not exceeding £50, and if, when any person makes a demand for any document with which he is by virtue of subsection (4) entitled to be furnished, default is made in complying with the demand within 7 days after the making thereof, the company and every officer of the company who is in default shall be liable to a fine not exceeding £50 unless it is proved that that person has already made a demand for and been furnished with a copy of the document.
+
+(6) Subsection (4) shall not apply to a balance sheet of a private company laid before it before the operative date and the right of any person to be furnished with a copy of any such balance sheet and the liability of the company in respect of a failure to satisfy that obligation shall be the same as they would have been if this Act had not been passed.

@@ -1,0 +1,5 @@
+Execution of deeds outside the State.
+
+40.—(1) A company may, by writing under its common seal, empower any person, either generally or in respect of any specified matters, as its attorney, to execute deeds on its behalf in any place outside the State.
+
+(2) A deed signed by such attorney on behalf of the company and under his seal shall bind the company and have the same effect as if it were under its common seal.

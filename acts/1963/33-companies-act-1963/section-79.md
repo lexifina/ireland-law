@@ -1,0 +1,3 @@
+Nature of shares.
+
+79.—The shares or other interest of any member in a company shall be personal estate, transferable in manner provided by the articles of the company, and shall not be of the nature of real estate.

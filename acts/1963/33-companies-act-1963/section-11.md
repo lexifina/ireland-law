@@ -1,0 +1,3 @@
+Articles prescribing regulations for companies.
+
+11.—There may, in the case of a company limited by shares, and there shall, in the case of a company limited by guarantee or unlimited, be registered with the memorandum articles of association signed by the subscribers to the memorandum and prescribing regulations for the company.

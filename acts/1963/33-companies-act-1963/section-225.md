@@ -1,0 +1,3 @@
+Appointment of liquidator.
+
+225.—For the purpose of conducting the proceedings in winding up a company and performing such duties in reference thereto as the court may impose, the court may appoint a liquidator or liquidators.

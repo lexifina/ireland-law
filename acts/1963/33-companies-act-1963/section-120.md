@@ -1,0 +1,3 @@
+Consequences of failure to comply with requirements as to register owing to agent's default.
+
+120.—Where, by virtue of paragraph (b) of subsection (5) of section 116, the register of members is kept at the office of some person other than the company, and by reason of any default of his the company fails to comply with subsection (7) of that section or subsection (3) of section 117 or section 119, or with any requirements of this Act as to the production of the register, that other person shall be liable to the same penalties as if he were an officer of the company who is in default, and the power of the court under subsection (4) of section 119, shall extend to the making of orders against that other person and his officers or servants.

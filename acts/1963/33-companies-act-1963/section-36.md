@@ -1,0 +1,3 @@
+Members severally liable for debts where business carried on with fewer than seven, or in case of private company, two members.
+
+36.—If at any time the number of members of a company is reduced, in the case of a private company, below two, or, in the case of any other company, below seven, and it carries on business for more than 6 months while the number is so reduced, every person who is a member of the company during the time that it so carries on business after those 6 months and knows that it is carrying on business with fewer than two members, or seven members, as the case may be, shall be severally liable for the payment of the whole debts of the company contracted during that time, and may be severally sued therefor.

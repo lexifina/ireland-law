@@ -1,0 +1,3 @@
+Alteration or falsification of books.
+
+294.—If any officer or contributory of any company being wound up, destroys, mutilates, alters or falsifies any books, papers or securities, or makes or is privy to the making of a false or fraudulent entry in any register, book of account or document belonging to the company with intent to defraud or to deceive any person, he shall be liable, on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine not exceeding £500 or to both or, on summary conviction, to imprisonment for a term not exceeding 6 months or to a fine not exceeding £100 or to both.

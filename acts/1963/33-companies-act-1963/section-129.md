@@ -1,0 +1,3 @@
+Certificates to be sent by private company with annual return.
+
+129.—A private company shall send with the annual return required by section 125 a certificate signed both by a director and by the secretary of the company that the company has not, since the date of the last return or, in the case of a first return, since the date of the incorporation of the company, issued any invitation to the public to subscribe for any shares or debentures of the company, and, where the annual return discloses the fact that the number of members of the company exceeds fifty, also a certificate so signed that the excess consists wholly of persons who, under paragraph (b) of subsection (1) of section 33 are not to be included in reckoning the number of fifty.

@@ -1,0 +1,5 @@
+Debts which may be proved.
+
+283.—(1) Subject to subsection (2), in every winding up (subject, in the case of insolvent companies, to the application in accordance with the provisions of this Act of the law of bankruptcy) all debts payable on a contingency, and all claims against the company, present or future, certain or contingent, ascertained or sounding only in damages, shall be admissible to proof against the company, a just estimate being made, so far as possible, of the value of such debts or claims which may be subject to any contingency or which sound only in damages, or for some other reason do not bear a certain value.
+
+(2) Where a company is being wound up, dividends declared by the company more than 6 years preceding the commencement of the winding up which have not been claimed within the said 6 years shall not be a claim admissible to proof against the company for the purposes of the winding up, unless the articles of the company or the conditions of issue provide otherwise.

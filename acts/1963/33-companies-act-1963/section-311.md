@@ -1,0 +1,19 @@
+Power of registrar to strike defunct company off register.
+
+311.—(1) Where the registrar of companies has reasonable cause to believe that a company is not carrying on business, he may send to the company by post a letter inquiring whether the company is carrying on business.
+
+(2) If the registrar does not within one month of sending the letter receive any answer thereto, he shall within 14 days after the expiration of the month send to the company by post a registered letter referring to the first letter, and stating that no answer thereto has been received, and that if an answer is not received to the second letter within one month from the date thereof, a notice will be published in Iris Oifigiúil with a view to striking the name of the company off the register.
+
+(3) If the registrar either receives an answer to the effect that the company is not carrying on business, or does not within one month after sending the second letter receive any answer, he may publish in Iris Oifigiúil and send to the company by post a notice that at the expiration of 3 months from the date of that notice, the name of the company mentioned therein will, unless cause is shown to the contrary, be struck off the register, and the company will be dissolved.
+
+(4) If in any case where a company is being wound up the registrar has reasonable cause to believe either that no liquidator is acting, or that the affairs of the company are fully wound up, and the returns required to be made by the liquidator have not been made for a period of 6 consecutive months, the registrar shall publish in Iris Oifigiúil and send to the company or the liquidator, if any, a like notice as is provided in subsection (3).
+
+(5) Subject to subsections (6) and (7), at the expiration of the time mentioned in the notice, the registrar may, unless cause to the contrary is previously shown by the company, strike its name off the register, and shall publish notice thereof in Iris Oifigiúil and on the publication in Iris Oifigiúil of this notice, the company shall be dissolved.
+
+(6) The liability, if any, of every director, officer and member of the company shall continue and may be enforced as if the company had not been dissolved.
+
+(7) Nothing in subsection (5) or (6) shall affect the power of the court to wind up a company the name of which has been struck off the register.
+
+(8) If a company or any member or creditor thereof feels aggrieved by the company having been struck off the register, the court, on an application made (on notice to the registrar) by the company or member or creditor before the expiration of 20 years from the publication in Iris Oifigiúil of the notice aforesaid, may, if satisfied that the company was at the time of the striking off carrying on business or otherwise that it is just that the company be restored to the register, order that the name of the company be restored to the register, and upon an office copy of the order being delivered to the registrar for registration, the company shall be deemed to have continued in existence as if its name had not been struck off; and the court, may by the order give such directions and make such provisions as seem just for placing the company and all other persons in the same position as nearly as may be as if the name of the company had not been struck off.
+
+(9) A notice to be sent under this section to a liquidator may be addressed to the liquidator at his last known place of business, and a letter or notice to be sent under this section to a company may be addressed to the company at its registered office, or, if no office has been registered, to the care of some officer of the company, or, if there is no officer of the company whose name and address are known to the registrar of companies, may be sent to each of the persons who subscribed the memorandum, addressed to him at the address mentioned in the memorandum.

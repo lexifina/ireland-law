@@ -1,0 +1,7 @@
+NINTH SCHEDULE.
+
+Provisions of this Act applied to Unregistered Companies.
+
+Section. 377.
+
+Subject matter Provisions applied Limitations on Application Prospectuses and allotments Sections 43 to 52, 56, 57, 61 and the Third Schedule. To apply only so far as may be specified by orders made by the Minister and to such bodies corporate as may be so specified. Annual return Sections 125 to 129, 375 and the Fifth Schedule. Not to apply so as to require particulars in respect of any period before the operative date and in relation to any period thereafter to apply so far only as may be specified as aforesaid and to such bodies corporate as may be so specified. Accounts and Audit Sections 147 to 153, 155 to 164, 191, 192, the Sixth Schedule (except subparagraphs (a) to (d) of paragraph 2, subparagraphs (c), (d) and (e) of paragraph 3 and subparagraph (d) of paragraph 8), and the Seventh Schedule. To apply only so far as may be specified as aforesaid and to such bodies corporate as may be so specified. In estigations Sections 165 to 173. — Register of directors and secretaries. Section 195. — Registration of documents, enforcement, penalties and other supplemental matters. Sections 2, 193, 369 to 371, 378 to 380, 383 to 387, subsection (1) of section 395 and the Eighth and Tenth Schedules. To apply so far only as they have effect in relation to provisions applying by virtue of the foregoing entries in this Schedule.

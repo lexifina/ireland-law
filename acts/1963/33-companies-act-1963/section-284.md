@@ -1,0 +1,7 @@
+Application of bankruptcy rules in winding up of insolvent companies.
+
+284.—(1) In the winding up of an insolvent company the same rules shall prevail and be observed relating to the respective rights of secured and unsecured creditors and to debts provable and to the valuation of annuities and future and contingent liabilities as are in force for the time being under the law of bankruptcy relating to the estates of persons adjudged bankrupt, and all persons who in any such case would be entitled to prove for and receive dividends out of the assets of the company may come in under the winding up and make such claims against the company as they respectively are entitled to by virtue of this section.
+
+(2) Section 331 of the Irish Bankrupt and Insolvent Act, 1857, shall apply in the winding up of an insolvent company and accordingly the reference in that section to the filing of the petition shall be read as a reference to the presentation of a petition for the winding up of the company by the court or the passing of a resolution for voluntary winding up, as the case may be, and where, before the presentation of a petition for the winding up of the company by the court, a resolution has been passed by the company for voluntary winding up, shall be read as a reference to the passing of the resolution.
+
+(3) Subsection (2) shall not apply to a judgment mortgage created before the operative date.

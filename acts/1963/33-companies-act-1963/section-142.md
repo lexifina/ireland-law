@@ -1,0 +1,5 @@
+Extended notice.
+
+142.—(1) Subject to subsection (2), where by any provision hereafter contained in this Act extended notice is required of a resolution, the resolution shall not be effective unless (except when the directors of the company have resolved to submit it) notice of the intention to move it has been given to the company not less than 28 days before the meeting at which it is moved, and the company shall give its members notice of any such resolution at the same time and in the same manner as it gives notice of the meeting or, if that is not practicable, shall give them notice thereof, either by advertisement in a daily newspaper circulating in the district in which the registered office of the company is situate or in any other mode allowed by the articles, not less than 21 days before the meeting.
+
+(2) If, after notice of the intention to move such a resolution has been given to the company, a meeting is called for a date 28 days or less after the notice has been given, the notice though not given within the time required by subsection (1) shall be deemed to have been properly given for the purposes of that subsection.

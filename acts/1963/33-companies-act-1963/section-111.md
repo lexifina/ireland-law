@@ -1,0 +1,3 @@
+Application of this Part to companies incorporated outside the State.
+
+111.—The provisions of this Part shall extend to charges on property in the State which are created on or after the operative date, and to charges on property in the State which is acquired on or after the operative date, by a company incorporated outside the State which has an established place of business in the State, and to judgment mortgages created on or after the operative date and affecting property in the State of such a company and to receivers, appointed on or after the operative date, of property in the State of such a company, and for the purposes of those provisions, the principal place of business of such a company in the State shall be deemed to be its registered office.
