@@ -1,0 +1,7 @@
+Substitution of new statutory condition.
+
+2.—(1) In lieu of the second statutory condition contained in paragraph (2) (repealed by this Act) of section 2 of the Act of 1908 it is hereby enacted that it shall be a condition for the receipt of an old age pension by any person that he shall satisfy the pension authorities that he has had his residence in Saorstát Eireann for an aggregate period of not less than thirty years, and that in the case of a citizen of Saorstát Eireann not less than six years, or in the case of any other person not less than sixteen years of that period were subsequent to his attaining the age of fifty years.
+
+(2) For the purpose of the statutory condition imposed by virtue of the foregoing sub-section of this section a woman who has married an alien shall be deemed to be a citizen of Saorstát Eireann if she would have been a citizen of Saorstát Eireann if she had not so married.
+
+(3) In computing for the purpose of the statutory condition imposed by virtue of the first sub-section of this section the period of residence of any person in Saorstát Eireann, any temporary absence from Saorstát Eireann not exceeding six months in such period, any residence in the late United Kingdom of Great Britain and Ireland in such period before the 6th day of December, 1922, and any absence from Saorstát Eireann in such period during which such person has maintained or assisted in maintaining any dependant in Saorstát Eireann, shall be reckoned in and form part of such period.
