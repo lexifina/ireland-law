@@ -1,0 +1,7 @@
+Powers of Justices of the Peace and Resident Magistrates to be exercised by District Justices.
+
+6.—(1) Every power, authority and duty conferred or imposed by any British Statute on a Justice or on two or more Justices acting together shall as from the passing of this Act cease to be exercisable or to be performed by such Justice or Justices and in lieu thereof as respects any act, matter or thing to be done or not done after the passing of this Act every such power or authority may be exercised and every such duty shall be performed by one District Justice.
+
+(2) Every power, authority and duty conferred or imposed by any British Statute on a Resident Magistrate or on two or more Resident Magistrates acting together shall as from the passing of this Act cease to be exercisable or to be performed by such Magistrate or Magistrates and in lieu thereof as respects any act, matter or thing to be done or not done after the passing of this Act, every such power or authority may be exercised and every such duty shall be performed by one District Justice.
+
+(3) In this section (a) the expression “Justice” includes the expression “Justice of the Peace,” and does not mean or include a Divisional Magistrate of the City of Dublin, and nothing in this Section shall affect the powers, authority and duties of such Divisional Magistrates; (b) the expression “District Justice” means a Magistrate appointed since the 6th day of December, 1922, under the British Statute 6 & 7 William IV., Chapter 13.
