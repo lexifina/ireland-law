@@ -1,0 +1,7 @@
+Preservation of existing powers of investment, etc.
+
+6.—(1) A power or direction (whether created or given before or after the passing of this Act) to invest money in a Government loan in relation to which an offer of conversion has been made under this Act shall be construed and have effect as including a power or direction (as the case may be) to invest in the new loan, and no such power or direction shall be terminated by reason only of the conversion and redemption of the Government loan.
+
+(2) A power of attorney authorising the attorney to transfer specified stock of a Government loan in relation to which an offer of conversion has been made under this Act shall be construed and have effect as authorising the attorney to apply at his discretion under this Act for the conversion of the whole or part of such stock into stock of the new loan, and, where such conversion takes place, to transfer in accordance with the said power the stock of the new loan and any bonus on conversion.
+
+(3) Where stock is converted under this Act, the stock of the new loan and the dividends thereon shall be subject to the same trusts, charges, rights, distringas and restraints as affect the converted stock and the dividends thereon and any powers, directions, requests as to dividends and other documents relating to the converted stock or the dividends thereon shall apply to the stock of the new loan and the dividends thereon.
