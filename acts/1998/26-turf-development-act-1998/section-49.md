@@ -1,0 +1,9 @@
+Transfer of rights and liabilities to subsidiaries.
+
+49.—(1) All rights and liabilities of the Company arising by virtue of any contract or commitment (express or implied) entered into by it before the transfer day in relation to a function conferred by virtue of this Act on a subsidiary (other than a liability in respect of any legal proceedings to which the Company is a party that are pending in any court or tribunal immediately before that transfer day) shall on that day stand transferred to the subsidiary.
+
+(2) The Company may on its own initiative and shall on the application of a subsidiary issue a certificate in respect of a specified contract or commitment certifying, as it thinks proper, that the rights and liabilities of the Company thereunder were transferred by virtue of subsection (1) to a particular subsidiary on the transfer day in relation to the subsidiary or were not so transferred to any of the subsidiaries and the certificate shall be sufficient evidence of the facts so certified unless the contrary is proved.
+
+(3) Every right and liability transferred by virtue of subsection (1) to a subsidiary may, on and after the transfer day, be sued on, recovered or enforced by or against the subsidiary in its own name and it shall not be necessary for the subsidiary or the Company to give notice to the person whose right or liability is transferred by this section of such transfer.
+
+(4) Every licence, exemption, right or privilege granted to or enjoyed by the Company and in force immediately before the transfer day in relation to a subsidiary shall, on and after that day, be exercisable, while it continues in force, by the subsidiary in so far as it relates to a function conferred on the subsidiary by virtue of this Act or is incidental to or connected with such a function.

@@ -1,0 +1,3 @@
+Regard to be had to certain matters in determining remuneration of staff.
+
+27.—Without prejudice to the requirements of sections 26(7) and 51 the Company, in determining the remuneration or allowances for expenses to be paid to members of its staff or the other terms or conditions subject to which such members hold or are to hold their employment, shall have regard to Government or nationally agreed guidelines which are for the time being extant or to Government policy concerning remuneration and conditions of employment which is so extant and, in addition to the foregoing, the Company shall comply with any directives with regard to such remuneration, allowances, terms or conditions which the Minister may give to the Company with the consent of the Minister for Finance.
