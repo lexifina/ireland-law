@@ -1,0 +1,5 @@
+Regulation 15
+
+15. Excluded days.
+
+EXERCISE OF DISCRETIONARY POWER BY CONTROLLER.

@@ -1,0 +1,5 @@
+Regulation 32
+
+32. Drawings.
+
+INVESTIGATION FOR NOVELTY.
