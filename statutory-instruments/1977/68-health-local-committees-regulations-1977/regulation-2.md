@@ -1,0 +1,3 @@
+Regulation 2
+
+2. Article 5 (2) of the Principal Regulations is hereby amended by the substitution for the words "and subsequent appointments of members in each category shall be made by election by persons in that category who are practising in the functional area of the committee" of the words "and subsequent appointments of members in each of the categories of persons referred to in sub-article (1) (e) (f) (h) (i) and (j) shall be made by election by persons in that category who are practising in the functional area of the committee and subsequent appointments of members in the category of persons referred to in sub-article (1) (g) shall be made by election by registered psychiatric nurses in mental hospitals serving the functional area of the committee".
