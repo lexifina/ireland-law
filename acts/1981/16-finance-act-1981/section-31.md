@@ -1,0 +1,5 @@
+Beer.
+
+31.—(1) The duty of excise on beer imposed by paragraph 7 (1) of the Order of 1975 shall be charged, levied and paid, as on and from the 29th day of January, 1981, at the rate of £112.266 for, in the case of all beer brewed within the State, every 36 gallons of worts of a specific gravity of 1,055 degrees, and, in the case of all imported beer, every 36 gallons of beer of which the worts were before fermentation of a specific gravity of 1,055 degrees, in lieu of the rate mentioned in section 64 (1) of the Act of 1980.
+
+(2) Subject to paragraph 5 of the Imposition of Duties (No. 250) (Beer) Order, 1981 (S.I. No. 10 of 1981), the drawback on beer provided for in paragraph 7 (3) of the Order of 1975 shall, as respects beer on which it is shown, to the satisfaction of the Revenue Commissioners, that duty at the rate mentioned in subsection (1) of this section has been paid, be calculated, according to the original specific gravity of the beer, at the rate of £112.266 on every 36 gallons of beer of which the original specific gravity was 1,055 degrees.
