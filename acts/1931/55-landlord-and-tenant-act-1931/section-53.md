@@ -1,0 +1,3 @@
+Right of reversionary lessee to continue in occupation.
+
+53.—Where a reversionary lease under this Part of this Act is granted before the expiration of the building lease to which it is reversionary and to a person who is in occupation of the land comprised in such reversionary lease as a sub-tenant (mediately or immediately) of the lessee under such building lease, such person shall be entitled to continue in occupation of such land from the expiration of his said sub-tenancy until the expiration of the said building lease and shall during such occupation be deemed to be tenant on the terms of the said sub-tenancy (so far as applicable) of the person who but for this section would for the time being be entitled to possession and occupation of the said land.

@@ -1,0 +1,3 @@
+Rights of entry and inspection.
+
+41.—Whenever an improvement notice or a notice of intention to claim relief has been served by a tenant on his landlord, such landlord and every superior landlord on whom such notice or a copy thereof has been served under this Act and every person authorised by such landlord or any such superior landlord shall be entitled to enter at all reasonable times on the tenement to which such notice relates and there to make such inspection and examination and take such measurements as shall be necessary or proper for the determination by such landlord or superior landlord (as the case may be) of the course he will adopt in relation to such notice.

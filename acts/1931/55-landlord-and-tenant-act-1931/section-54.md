@@ -1,0 +1,9 @@
+Persons bound to grant reversionary lease.
+
+54.—(1) Where a person is entitled under this Part of this Act to obtain a reversionary lease from the person (in this section referred to as the building lessor) in receipt of the rent reserved by a building lease, the building lessor shall be bound to grant such reversionary lease to such person.
+
+(2) Where a building lessor holds the land of which he is required by this Part of this Act to grant a reversionary lease under a lease for a term which is less than the term for which such reversionary lease is to be granted, the immediate landlord of the building lessor and such (if any) superior landlords as may be necessary shall be bound to join in the granting of such reversionary lease.
+
+(3) Where a person who is bound by this section to grant or join in granting a reversionary lease is, by reason of his being a trustee, personal representative, or other person having a fiduciary capacity or by reason of his being an infant or by reason of his having only an estate for his life or in tail or other limited estate or by reason of restrictive covenants in the lease under which he holds, incapable in law of granting or joining in granting (as the case may be) such reversionary lease, the Court may, on the application of any party concerned, by order empower such person to grant or join in granting (as the case may be) such reversionary lease.
+
+(4) Where a person who is bound by this section to grant or join in granting a reversionary lease is an infant, or a person of unsound mind, or cannot be found, or refuses or fails to execute such lease, the Court may, on the application of any person concerned, appoint an officer of the Court to execute such lease for and in the name of the person so bound and thereupon the execution of such reversionary lease by such officer for and in the name of such person shall for all purposes be as effectual as the execution thereof by such person.

@@ -1,0 +1,5 @@
+Covenants against making improvements.
+
+58.—(1) Every lease (whether made before or after the passing of this Act) of a tenement which contains a covenant, condition, or agreement absolutely prohibiting the making of any improvement on such tenement shall have effect as if such covenant, condition, or agreement were a covenant, condition, or agreement prohibiting the making of such improvement without the licence or consent of the lessor.
+
+(2) In every lease (whether made before or after the passing of this Act) of a tenement in which there is contained a covenant, condition or agreement prohibiting, either expressly or by virtue of the foregoing sub-section of this section, the making of any improvement on such tenement without the licence or consent of the lessor, such covenant, condition, or agreement shall, notwithstanding any express provision to the contrary, be subject to a proviso that such licence or consent shall not be unreasonably withheld, but this proviso shall not preclude the lessor from requiring the payment of a reasonable sum in respect of legal or other expenses incurred by him in connection with such licence or consent.

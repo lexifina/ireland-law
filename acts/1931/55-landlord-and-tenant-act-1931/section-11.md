@@ -1,0 +1,9 @@
+Measure of compensation for improvements.
+
+11.—(1) The amount of compensation for improvements in any particular case shall be such sum as may be agreed on between the landlord and the tenant and in default of such agreement shall (subject to the provisions of this section) be the capitalised value of such addition to the letting value of the tenement at the termination of the tenancy as the Court shall determine to be attributable to the improvement which is the subject of such compensation.
+
+(2) Where the compensation for an improvement is payable to a tenant by his landlord and the Court is satisfied that such tenant and (where applicable) his predecessors in title or any of them has or have received from the landlord benefits by way of reduction of rent or otherwise in consideration, expressly or impliedly, of such improvement being or having been made, the Court shall deduct from the compensation for such improvement as ascertained under the foregoing sub-section of this section such sum as the Court shall think proper in respect of such benefits.
+
+(3) Where the compensation for an improvement is payable to a landlord by his superior landlord, the Court shall make such deduction (if any) from such compensation as ascertained under the first sub-section of this section as the Court shall think proper in respect of benefits received by such landlord and (where applicable) his predecessors, in title or any of them by way of increased rent or otherwise on account of such improvement.
+
+(4) The capitalised value for the purposes of this section of an addition to the letting value of a tenement shall be fixed by the Court having regard to the probable duration of such addition, the probable life of the improvement, and all other relevant circumstances, but shall not in any case exceed fifteen times the annual amount of such addition.
