@@ -1,0 +1,3 @@
+Power of Minister to make contracts of guarantee with European Investment Bank.
+
+2.—The Minister shall have power to fulfil on behalf of the State the obligations undertaken by the State under Article 9 of the Agreement to act as guarantor for the Bank, in proportion to the State's contributions to the capital of the Bank, in respect of all financial commitments arising for borrowers of the Bank out of the loan contracts concluded by the Bank in respect of its own resources in implementation of the ACP-EEC Convention of Lomé done at Lomé on the 28th day of February, 1975, and the Decision referred to in paragraph 1 of Article 9 of the Agreement and, accordingly, the Minister may make, on behalf of the State, contracts of guarantee with the Bank.
