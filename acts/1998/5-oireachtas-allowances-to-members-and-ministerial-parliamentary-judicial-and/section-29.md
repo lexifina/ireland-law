@@ -1,0 +1,3 @@
+Supplementary gratuity for certain judges and court officers.
+
+29.—In the case of a judge or court officer who ceased to serve as such before the 19th day of December, 1996, and to whom the Act of 1961 applied, the Minister for Finance may, if, after consulting with the Attorney General, he considers it necessary to do so, pay such supplementary gratuity, together with such interest thereon as he considers appropriate, as if, at the time of the retirement of the person concerned, the words “an amount not exceeding one and nine-tenths times the yearly amount of the pension” had been substituted for the words “an amount equal to one and one-half times the yearly amount of the pension” in section 2(2) or 4(2) of that Act, as the case may be.
