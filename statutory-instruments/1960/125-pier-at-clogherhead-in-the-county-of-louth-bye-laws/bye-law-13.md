@@ -1,0 +1,3 @@
+Bye-law 13
+
+13. Every person in charge of any boat, ship, lighter, or barge frequenting the said quays, shall moor the same in such place as shall be directed by the Harbour Constable. If there be no person on board such boat, ship, lighter or vessel, as aforesaid, to attend to such directions, the Harbour Constable may cause such boat, ship, lighter or vessel as aforesaid to be moored, unmoored, placed or removed as he thinks fit and the expenses incurred by the Harbour Constable in mooring, unmooring, placing or removing such boat, ship, lighter or barge, shall be borne by the person in charge of such boat, ship, lighter or barge.
