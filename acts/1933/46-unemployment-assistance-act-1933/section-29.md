@@ -1,0 +1,3 @@
+Penalty for false statements, etc.
+
+29.—If, for the purpose of obtaining for himself or any other person a qualification certificate or any payment of unemployment assistance or of avoiding the making by himself or any other person of any repayment under this Act, any person makes any statement or representation (whether written or verbal) which is to his knowledge false or misleading in any material respect, he shall be guilty of an offence under this Act and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds or, at the discretion of the Court, to imprisonment for any term not exceeding three months.

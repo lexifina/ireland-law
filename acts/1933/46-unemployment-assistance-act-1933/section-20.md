@@ -1,0 +1,21 @@
+Determination of applications for unemployment assistance.
+
+20.—(1) Every application for unemployment assistance shall be received and considered by an unemployment assistance officer and every such application and every question arising thereon or in relation thereto (including in particular the question whether the statutory conditions have been or continue to be complied with and the question whether a person is or is not disqualified for receiving unemployment assistance) shall be determined by an unemployment assistance officer and such determination by such officer shall, subject to the provisions of this section, be final.
+
+(2) An unemployment assistance officer may, if he so thinks proper, instead of determining it himself, refer in the prescribed manner any application or question which falls to be determined by him under this section to a court of referees.
+
+(3) Any person aggrieved by the refusal by an unemployment assistance officer of an application by such person for unemployment assistance or by the allowance by any such officer of unemployment assistance to such person at a lesser rate than was claimed by him, or, by the stoppage or reduction in rate by any such officer of unemployment assistance theretofore paid to such person may within twenty-one days after such refusal, allowance stoppage or reduction, or such further time (if any) as may in his case be allowed by the Minister, and in the prescribed manner, require such officer to report such refusal, allowance, stoppage, or reduction to a court of referees and thereupon such officer shall report in the prescribed manner in accordance with such requisition.
+
+(4) Every court of referees shall consider every matter referred or reported to them under this section and shall make to the unemployment assistance officer concerned such recommendations in regard thereto as they think proper, and thereupon such officer shall give effect to such recommendations unless he disagrees therewith.
+
+(5) Whenever an unemployment assistance officer disagrees with a recommendation made by a court of referees to him under this section, such officer shall, if so requested by such court, refer the matter in the prescribed manner to the Umpire.
+
+(6) Where a recommendation has been made under this section by a court of referees to an unemployment assistance officer, any association of employed persons of which the person to whom such recommendation relates is a member or (with the leave of the court of referees) the said person may himself within twenty-one days after such recommendation or such further time (if any) as may in his case be allowed by the Minister require such officer to refer the matter to the Umpire, and thereupon such officer shall refer the matter in the prescribed manner to the Umpire.
+
+(7) The Umpire shall determine every matter referred to him under this section and his determination thereon shall be final and conclusive.
+
+(8) An unemployment assistance officer may at any time, on account of new evidence being submitted to him or new facts coming to his knowledge, reverse or revise any determination previously made by him under this section, and the provisions of this section in relation to the reference or report of matters to a court of referees or to the Umpire shall apply to such reversal or revision in like manner as they applied to the original determination.
+
+(9) The Umpire may at any time, on account of new evidence having been submitted to him, reverse or revise any determination previously made by him under this section.
+
+(10) Every action of an unemployment assistance officer in pursuance of a recommendation made to him by a court of referees, every determination by the Umpire, and every reversal or revision of a previous determination by any such officer or by the Umpire shall, if such action, determination, reversal, or revision has the effect of allowing unemployment assistance previously refused or increasing unemployment assistance previously allowed, have effect as from the date of the original determination by the unemployment assistance officer or such later date (if any) as may, in case of a determination, reversal or revision by the Umpire, be fixed by the Umpire or, in any other case, by the unemployment assistance officer
