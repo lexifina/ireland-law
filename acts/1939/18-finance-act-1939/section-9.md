@@ -1,0 +1,7 @@
+Alteration of rates of duty on tobacco.
+
+9.—(1) The duty of customs on tobacco imposed by section 20 of the Finance Act, 1932 (No. 20 of 1932), shall, in respect of tobacco imported on or after the 11th day of May, 1939, be charged, levied, and paid at the several rates specified in Part I of the Second Schedule to this Act in lieu of the rates at which the said duty is now chargeable by virtue of section 20 of the Finance Act, 1935 (No. 28 of 1935).
+
+(2) The duty of excise on tobacco imposed by section 19 of the Finance Act, 1934 (No. 31 of 1934), shall, as on and from the 11th day of May, 1939, be charged, levied, and paid at the several rates specified in Parts II and III of the Second Schedule to this Act in lieu of the rates at which the said duty is now chargeable by virtue of section 20 of the Finance Act, 1935 (No. 28 of 1935).
+
+(3) Sub-sections (2) to (5) of the said section 19 of the Finance Act, 1934, shall apply to tobacco which is chargeable with the duty of excise imposed by sub-section (1) of that section at a rate specified in Part II or Part III of the Second Schedule to this Act, and for the purpose of such application references in the said sub-sections (2) to (5) of the said section 19 to Parts I and II respectively of the Sixth Schedule to the said Finance Act, 1934, shall be construed and have effect as references to Parts II and III respectively of the Second Schedule to this Act.
