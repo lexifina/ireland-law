@@ -1,0 +1,5 @@
+Declaration to be made by members of the amalgamated force.
+
+11.—(1) No officer or other member of the Dublin Metropolitan Police or the Gárda Síochána shall be capable of holding office or acting in any way as an officer or other member of the amalgamated force after the expiration of one month from the commencement of this Act unless he has before the commencement of this Act taken the oath or made the declaration required by law to be taken or made by officers or other members of the Dublin Metropolitan Police or the Gárda Síochána (as the case may be) or shall before the expiration of the said month make and subscribe before a Peace Commissioner a declaration in the form contained in the Fourth Schedule to this Act.
+
+(2) No person appointed after the commencement of this Act to be an officer or other member of the amalgamated force shall be capable of holding that office or acting in any way therein until he shall have made and subscribed before a Peace Commissioner a declaration in the form contained in the Fourth Schedule to this Act.
