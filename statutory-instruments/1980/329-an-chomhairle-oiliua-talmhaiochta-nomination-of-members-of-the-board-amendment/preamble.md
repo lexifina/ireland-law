@@ -1,0 +1,1 @@
+I, RAY MacSHARRY, Minister for Agriculture, in exercise of the powers conferred on me by Section 3 (2) of the National Agricultural Advisory, Education and Research Authority Act, 1977 (No. 13 of 1977), and by Section 26(3) of that Act as amended by Section 11 of the Agriculture (An Chomairle Oiliúna Talmhaiochta) Act, 1979 (No. 9 of 1979), hereby order as follows:
