@@ -1,0 +1,3 @@
+Increase of advances by Minister.
+
+4.—The aggregate at any one time of the advances to the Company by the Minister (including advances to Taiscí Stáit Teoranta and advances for the purposes of any of the functions of the Company which are consequent upon section 19 of the Principal Act, but excluding the advances which the Company is not liable to repay by virtue of section 4 of the Act of 1973 or section 5 of this Act) which have not been repaid shall not exceed £150,000,000 and, accordingly, section 13 of the Principal Act (as amended by the Act of 1982) shall be construed as if the foregoing provisions of this section were substituted for subsection (3) of the said section 13.

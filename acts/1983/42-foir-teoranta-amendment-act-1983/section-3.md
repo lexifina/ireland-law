@@ -1,0 +1,3 @@
+Increase of Company's power to borrow.
+
+3.—The aggregate at any one time of the borrowings of the Company (including borrowings from the Minister, borrowings by Taiscí Stáit Teoranta and borrowings for any of the purposes of the Company which are consequent upon section 19 of the Principal Act, but excluding the borrowings by way of advances from the Minister which the Company is not liable to repay by virtue of section 4 of the Act of 1973 or section 5 of this Act) shall not exceed £150,000,000 and, accordingly, section 12 of the Principal Act (as amended by the Act of 1982) shall be construed as if the foregoing provisions of this section were substituted for paragraph (b) of the said section 12.
