@@ -1,0 +1,3 @@
+Exemption of certain agricultural workers from provisions of this Act.
+
+18.—If, on application, the Board are satisfied that any person employed or desiring to be employed as an agricultural worker, on time work to which a minimum rate fixed under the Act is applicable is so affected by any physical injury or mental deficiency or any infirmity due to age or to any other cause that he is incapacitated from earning that minimum rate, the Board shall grant to the person a permit exempting as from the date of the application, or from any later day specified in the permit, the employment of the worker from the provisions of this Act requiring wages to be paid at not less than the minimum rate, subject to such conditions as may be specified in the permit.
