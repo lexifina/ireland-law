@@ -1,0 +1,3 @@
+Article 10
+
+10. Nothing in this order shall apply in relation to a credit sale agreement under which the property in all the goods passes unconditionally to the buyer on or before delivery of the goods to him and which provides for the whole of the purchase price, or where part of that price is to be paid before the agreement is entered into, the balance, to be paid either by approximately equal instalments at equal intervals spread over a period of less than nine months commencing with the date of the agreement or by one payment to be made within the period of three months commencing with that date.
