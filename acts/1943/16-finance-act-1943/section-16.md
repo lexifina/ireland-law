@@ -1,0 +1,3 @@
+Stamp duties on certificates of charge issued by The Agricultural Credit Corporation, Limited.
+
+16.—In order to remove doubts, it is hereby declared and enacted that the expression “certificate of charge” where it occurs in sub-section (1) of section 5 of the Finance (Customs and Stamp Duties) Act, 1929 (No. 5 of 1929), shall be construed and have effect and be deemed as from the passing of the Agricultural Credit Act, 1929 (No. 30 of 1929), always to have had effect as including certificates of charge issued by The Agricultural Credit Corporation, Limited, after the passing of the said Agricultural Credit Act, 1929, as well as certificates of charge issued by the said Corporation before the passing of that Act.

@@ -1,0 +1,3 @@
+Duration of imprisonment for non-payment of a tax or duty.
+
+18.—Where any person was or shall be committed to prison (whether before or after the passing of this Act) by a court of competent jurisdiction for non-payment of a sum of money due to the Minister for Finance for the benefit of the Central Fund in respect of any tax or duty under the care and management of the Revenue Commissioners, the Revenue Commissioners are hereby authorised and required on the passing of this Act or at the expiration of six months from the date of the committal of such person to prison (whichever is the later) to order the discharge of such person from prison whether the sum for the nonpayment of which such person was so committed shall or shall not have been paid.

@@ -1,0 +1,3 @@
+Certificates of charge of The Agricultural Credit Corporation, Limited.
+
+7.—In order to remove doubts, it is hereby declared and enacted that the expression “certificates of charge” wherever it occurs in sub-sections (1), (2), and (3) of section 2 or in sub-section (1) of section 37 of the Finance Act, 1929 (No. 32 of 1929), shall be construed and have effect and be deemed always to have had effect as including certificates of charge issued by The Agricultural Credit Corporation, Limited, after the passing of the Agricultural Credit Act, 1929 (No. 30 of 1929), as well as certificates of charge issued by the said Corporation before the passing of that Act.

@@ -1,0 +1,3 @@
+Amendment of section 47 of the Finance Act, 1932.
+
+12.—Paragraph (a) of sub-section (1) of section 47 of the Finance Act, 1932 (No. 20 of 1932), shall, in respect of every accounting period, whether ending before or after the passing of this Act, be construed and have effect as if the words “which by its constitution is precluded from distributing any profits amongst its members” now contained in the said paragraph were deleted therefrom and the words “which was immediately before the fifth day of May, 1943, precluded by its constitution from distributing any profits amongst its members and remains continuously so precluded from that date” were inserted in the said paragraph in lieu of the said words deleted therefrom.
