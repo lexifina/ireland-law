@@ -1,0 +1,5 @@
+SCHEDULE D
+
+Section 17.
+
+Provision of Principal Act Amended Nature of Amendment (1) (2) Section 22(4), 30(1)(i), 95, 96, 97, 98, 99, 122(4), 163(1) (in the definition of “relevant pensioner” (substituted by section 12 of the Act of 1995)), 207(1)(c)(i) (as amended by section 15 of the Act of 1996), 210(1)(f) (in the definition of “benefit”), 211(5), 237(1) and Reference 4 of Part I (inserted by section 3 of this Act) of the Second Schedule The substitution for “invalidity pension” of “disability pension” in each place where it occurs. Section 22(4), 30(1)(a), 31, 32, 33, 34, 35, 35A (inserted by section 7 of the No. 2 Act of 1993), 36, 39(1)(b) (inserted by section 10 of this Act), 41I(1)(b) (inserted by section 11 of this Act), 79(1)(b), 96, 122(4), 191E(1) (inserted by section 13 of the Act of 1996), 207(1)(c)(i) (as amended by section 15 of the Act of 1996), 209(7), 210 (1)(a) (in the definition of “benefit” (as amended by section 27 of the Act of 1996)), 237 and Reference 1 of Part 1 (inserted by section 3 of this Act) of the Second Schedule The substitution for “disability benefit” of “sickness benefit” in each place where it occurs.
