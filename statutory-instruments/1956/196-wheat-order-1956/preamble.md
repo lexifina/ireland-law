@@ -1,0 +1,7 @@
+S.I. No. 196 of 1956.
+
+WHEAT ORDER, 1956.
+
+ARRANGEMENT OF ARTICLES.
+
+Article.
