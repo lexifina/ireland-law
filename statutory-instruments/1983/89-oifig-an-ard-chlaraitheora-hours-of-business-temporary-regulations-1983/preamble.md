@@ -1,0 +1,1 @@
+The Minister for Health, in exercise of the powers conferred on him by Section 4 of the Vital Statistics and Births, Deaths and Marriages Registration Act, 1952 (No. 8 of 1952), hereby makes the following Regulations—
