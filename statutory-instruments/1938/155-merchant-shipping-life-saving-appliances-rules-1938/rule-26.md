@@ -1,0 +1,3 @@
+Rule 26
+
+26. The volume of the internal buoyancy appliances of a motor boat and, where fitted, the external buoyancy appliances shall be at least equal to that of the buoyancy appliances which would be required under these rules if the boat were not a motor boat and shall be increased above that volume if and to the extent that such increase is necessary to compensate for the difference between (a) the weight of the motor and its accessories, and, if fitted, the searchlight and the wireless telegraph installation and their accessories, and (b) the weight of the additional persons which the boat could accommodate if the motor and its accessories, and if fitted, the searchlight and the wireless telegraph installation and their accessories were removed.
