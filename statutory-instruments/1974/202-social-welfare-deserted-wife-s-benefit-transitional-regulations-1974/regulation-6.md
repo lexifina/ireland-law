@@ -1,0 +1,13 @@
+Regulation 6
+
+6. For the purposes of sub-paragraph (b) of paragraph 10 of the Fourth Schedule to the Act of 1952 the following provisions shall have effect in relation to an existing contributor—
+
+( a ) entry into insurance under the Act of 1935 may be treated as entry into insurance under the Act of 1952;
+
+( b ) in determining whether the contribution condition for deserted wife's benefit contained in the said sub-paragraph has been satisfied every two contributions paid or excused or deemed to have been or treated as paid by or in respect of such contributor under the Act of 1935 since the date of such contributor's entry into insurance under the said Act, shall be treated as three contributions paid or credited under the Act of 1952 and any odd contribution under the Act of 1935 shall be treated as two contributions paid or credited under the Act of 1952;
+
+( c ) any period which is a period of insurance for the purpose of the Act of 1935 commencing with the date of such contributor's entry into insurance under the said Act shall be treated as a period of insurance under the Act of 1952 and contribution years in any such period shall be treated as contribution years under the Act of 1952 but in relation to a male existing contributor the period from the 2nd day of July, 1951 to the 4th day of January, 1953, shall be treated as one contribution year;
+
+( d ) where the date of entry into insurance under the Act of 1935 of a male existing contributor occurred subsequent to the 4th day of July, 1949, a contribution under the said Act shall for the said purpose and for the purposes of paragraph (b) of this article be deemed to have been paid by him for each week from the week preceding that of his entry to the commencement of the contribution year in which his said entry occurred, where such contribution year is the first of the three contribution years over which the average is to be taken, and the date of his said entry shall be regarded as the date of commencement of the said contribution year;
+
+( e ) where the date of entry into insurance under the Act of 1935 of a male existing contributor occurred subsequent to the 7th day of July, 1947, a contribution under the said Act shall for the said purposes and for the purposes of paragraph (b) of this article be deemed to have been paid by him for each week from the week preceding that of his said entry to the commencement of the contribution year in which his said entry occurred, where such contribution year is the first of the five contribution years over which the average is to be taken, and the date of his said entry shall be regarded as the date of commencement of the said contribution year.

@@ -1,0 +1,3 @@
+Regulation 7
+
+7. Where by virtue of the foregoing provisions of this Regulation, in the case of an existing contributor the average per contribution year of contributions paid in respect of or credited to him calculated in accordance with the provisions of paragraph 10 (b) (ii) (inserted by the Social Welfare (No. 2) Act, 1974 (No. 14 of 1974)) of the Fourth Schedule to the Act of 1952 is less than forty-eight the said average so arrived at shall be used to determine whether or not deserted wife's benefit at a reduced rate is payable in accordance with regulations made under section 28C of the Act of 1952 (inserted by the Act of 1973).
