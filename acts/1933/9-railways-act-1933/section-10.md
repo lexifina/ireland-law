@@ -1,0 +1,3 @@
+Regulation of conditions of service of road transport employees of railway company.
+
+10.—From and after the passing of this Act the rates of pay, hours of duty, and other conditions of service of the road transport employees of a railway company, employed for any of the purposes of the road transport business carried on by such company and whose depot or other place of employment is situated in Saorstát Eireann, shall be regulated in accordance with agreements made or to be from time to time made between the trade unions representative of such employees of the one part and such railway company of the other part.

@@ -1,0 +1,15 @@
+Superannuation of employees of the Company.
+
+11.—(1) The Company shall, within six months after the passing of this Act, prepare and submit to the Railway Tribunal a scheme (in this section referred to as a superannuation scheme) for the establishment and maintenance on the basis of equal contributions by the Company and the employees of the Company, of a fund for providing superannuation allowances for such of the employees of the Company as can, with due regard to actuarial considerations, be provided with such allowances out of such fund.
+
+(2) Where at the date of the passing of this Act any employees of the Company are entitled to any rights in or benefits from any existing superannuation or benefit fund, no superannuation scheme under this section shall prejudice such rights or reduce such benefits.
+
+(3) A superannuation scheme under this section shall contain provisions enabling representatives of the employees of the Company contributing under such scheme to share equally with representatives of the Company in the management of the superannuation fund to be established under such scheme.
+
+(4) The Railway Tribunal shall consider any superannuation scheme submitted to it under this section and, having heard the Minister if desirous of being heard and all other parties (including trade unions) desirous of being heard and appearing to the Railway Tribunal to be interested, shall, as it thinks proper having regard to the provisions of this section, either confirm such scheme without modification or make such modifications therein as it thinks proper and confirm such scheme as so modified or, if it is of opinion that such scheme would not meet the reasonable requirements of the employees of the Company, refuse to confirm such scheme and make a special report to the Minister stating its reasons for such refusal.
+
+(5) The order of the Railway Tribunal confirming a superannuation scheme under this section shall appoint the date on which such scheme shall come into operation and as on and from the date so appointed such scheme shall have statutory effect.
+
+(6) A superannuation scheme under this section may contain provisions for the amendment (by addition, omission, or variation) by any specified authority, person, or means of all or any particular class or classes of the terms of such scheme, and subject to such provisions and so far as such provisions do not extend such scheme may at any time be amended (by addition, omission, or variation) by the Railway Tribunal on the application of the Company, the Minister, or any other person and after hearing all persons desirous of being heard and appearing to the Railway Tribunal to be interested.
+
+(7) The Railway Tribunal, when considering under this section a superannuation scheme or hearing an application under this section for the amendment of a superannuation scheme, shall be entitled to have the assistance of two assessors having actuarial knowledge and experience who shall be nominated by the Minister and shall be paid (as part of the expenses of the Railway Tribunal) such remuneration as the Minister shall, with the sanction of the Minister for Finance, direct.
