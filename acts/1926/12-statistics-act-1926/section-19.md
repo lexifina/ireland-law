@@ -1,0 +1,3 @@
+Restrictions as to information obtainable.
+
+19.—Nothing in this Act shall be construed to require any person to give information in relation to a matter as to which his knowledge was acquired in circumstances that would entitle him to decline to give such information in a civil proceeding in a Court of Law on the ground of privilege or to require any bank or corporation carrying on the business of banking or any official thereof to furnish any particulars which would enable any person to identify such particulars as relating to any individual person, business or concern without the consent in writing of that person or of the proprietor of that business or concern.

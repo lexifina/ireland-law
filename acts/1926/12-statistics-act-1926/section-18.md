@@ -1,0 +1,5 @@
+Provisions as to existing powers in relation to statistics.
+
+18.—(1) The provisions of this Act shall be in addition to and not in substitution for any power of collecting, compiling, abstracting, or publishing statistics now vested by law (otherwise than by virtue of an Act repealed by this Act) in any Minister or in any board, body, or officer in charge of any branch of the public service, but the Executive Council may by order transfer all or any of such powers to the Minister and whenever any such order is made the powers thereby transferred shall thenceforward be exercised by the Minister under and in accordance with this Act.
+
+(2) Until all such powers as are mentioned in the foregoing sub-section are transferred under that sub-section to the Minister, the Minister shall be responsible for the co-ordination of the collection, compilation, abstraction and publication of statistics under those powers and this Act respectively, and with a view to such co-ordination no person in whom any such power is for the time being vested shall initiate the collection of any statistics under such power without previous consultation with the Minister.

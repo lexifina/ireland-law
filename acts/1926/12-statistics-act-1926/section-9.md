@@ -1,0 +1,3 @@
+Officers of statistics may inspect public records etc.
+
+9.—Notwithstanding any other statutory provision every officer of statistics who lawfully requires to inspect any record or other document in the custody or charge of any officer of the civil service shall be entitled to have access to, inspect and take copies of such record or document without the payment of any fee and shall also, if he lawfully requires a copy of such record or document or any part thereof, be entitled to be furnished on demand and free of charge with a copy of such record or document or of any particular part thereof by the officer having the custody or charge thereof.

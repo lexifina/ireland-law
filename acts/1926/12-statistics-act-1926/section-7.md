@@ -1,0 +1,7 @@
+Obligation to make returns and give information.
+
+7.—(1) Every person who is duly required under and in accordance with this Act to fill up or otherwise complete any schedule, form or other document shall to the best of his knowledge, ability, or belief (as the case may require) duly and correctly fill up or otherwise complete such document according to the instructions contained therein or otherwise communicated to him under this Act and shall then return or otherwise dispose of such document in accordance with such instructions, and if he shall fail or refuse so to fill up or otherwise complete or so to return or otherwise dispose of such document he shall be guilty of an offence under this section.
+
+(2) Every person who is lawfully required by an officer of statistics to give or furnish to such officer any written or verbal information or to answer any question asked of him by such officer shall to the best of his knowledge, ability or belief (as the case may require) give or furnish such information or answer such question, and if he fails or refuses so to do shall be guilty of an offence under this section.
+
+(3) Every person who is found guilty by a court of summary jurisdiction of an offence under this section shall be liable to a fine not exceeding twenty pounds or, at the discretion of the court, to imprisonment for any term not exceeding three months or to both such fine and such imprisonment.

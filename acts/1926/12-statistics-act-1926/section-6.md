@@ -1,0 +1,3 @@
+Consultations between Ministers.
+
+6.—Whenever the Minister proposes to collect under this Act any statistics relating to any matter which is comprised in the public services of any Department of State other than the Department of which he is the head, the Minister shall before commencing the collection of such statistics consult the Minister in charge of such Department of State in regard thereto and shall, in the event of his collecting such statistics, consult such Minister from time to time as occasion requires during the collection, abstraction, compilation and publication of such statistics.
