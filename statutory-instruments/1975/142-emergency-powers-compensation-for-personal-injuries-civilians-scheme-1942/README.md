@@ -1,0 +1,13 @@
+# Emergency Powers (Compensation For Personal Injuries) (Civilians) Scheme, 1942 (Eighth Amendment) Scheme, 1975
+
+S.I. No. 142 of 1975 · <https://www.irishstatutebook.ie/eli/1975/si/142/made/en/html>
+
+As made (26 June 1975), from the electronic Irish Statute Book. Later amendments are not applied.
+
+| Provision | File |
+| --- | --- |
+| S.I. No. 142 of 1975. | [preamble.md](preamble.md) |
+| Paragraph 1 | [paragraph-1.md](paragraph-1.md) |
+| Paragraph 2 | [paragraph-2.md](paragraph-2.md) |
+| Paragraph 3 | [paragraph-3.md](paragraph-3.md) |
+| Paragraph 4 | [paragraph-4.md](paragraph-4.md) |
