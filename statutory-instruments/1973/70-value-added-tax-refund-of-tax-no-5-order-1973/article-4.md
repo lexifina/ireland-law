@@ -1,0 +1,3 @@
+Article 4
+
+4. A person to whom this Order applies who establishes to the satisfaction of the Revenue Commissioners that he has borne or paid tax at a rate in excess of 5.26 per cent. in relation to the delivery to or importation by him of any instrument or applicance of a kind commonly used to make a diagnosis, to prevent or treat an illness, to carry out a surgical operation or to carry out scientific research and who fulfils to the satisfaction of the Revenue Commissioners the conditions which are specified in paragraph 5 of this Order shall be entitled to be repaid as much of such tax as is specified in paragraph 6 of this Order.
