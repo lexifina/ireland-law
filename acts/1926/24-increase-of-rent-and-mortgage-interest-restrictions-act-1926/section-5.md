@@ -1,0 +1,7 @@
+Exclusion of dwelling-houses from application of the Principal Act in certain cases.
+
+5.—(1) Where the landlord of a dwellinghouse to which the Principal Act applies and of which both the standard rent and the rateable value exceed £20 is in possession of the whole of the dwelling-house at the passing of this Act, or comes into possession of the whole of the dwelling-house at any time after the passing of this Act, then from and after the passing of this Act or from and after the date when the landlord subsequently comes into possession, as the case may be, the Principal Act shall save as hereinafter mentioned cease to apply to such dwelling-house.
+
+(2) Where part of a dwelling-house to which the Principal Act applies is lawfully sub-let, and the part so sub-let is also a dwelling-house to which the Principal Act applies, the Principal Act shall not by virtue of this section cease to apply to the part so sub-let by reason of the tenant being in or coming into possession of that part, and, if the landlord is in or comes into possession of any part not so sub-let, the Principal Act shall cease to apply to that part notwithstanding that a sub-tenant continues in or retains possession of any other part by virtue of the Principal Act.
+
+(3) For the purposes of this section the word “possession” shall be construed as meaning actual possession and a landlord shall not be deemed to have come into possession by reason only of a change of tenancy made with his consent.

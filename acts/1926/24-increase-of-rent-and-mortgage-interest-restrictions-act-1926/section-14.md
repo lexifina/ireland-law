@@ -1,0 +1,5 @@
+Additional powers of Court.
+
+14.—(1) On the hearing of an action for the recovery of any rent claimed to be due by a landlord or any sum claimed to be recoverable by a tenant in respect of a dwelling-house to which the Principal Act as amended by this Act applies the Court may on the application of either party at such hearing determine any question arising under the Principal Act or this Act which can in the opinion of the Court be conveniently determined on such hearing.
+
+(2) The court shall, if satisfied that any error or omission in a statutory notice, whether served before or after the passing of this Act, is due to a bona fide mistake on the part of the landlord, have power to amend such statutory notice, by correcting any errors and supplying any omissions therein which, if not corrected or supplied, would render such statutory notice invalid, on such terms and conditions as respects arrears of rent or otherwise as appear to the court to be just and reasonable and, if the court so directs, the statutory notice as so amended shall have effect and be deemed to have had effect as a valid statutory notice.
