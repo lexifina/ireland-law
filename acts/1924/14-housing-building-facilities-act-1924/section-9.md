@@ -1,0 +1,9 @@
+Minister may purchase or manufacture building materials.
+
+9.—(1) It shall be lawful for the Minister, whenever after consultation with the Minister for Industry and Commerce it appears to him expedient for the purpose of facilitating the building, re-construction or repair of houses (including as well houses to which this Act does not apply as houses to which it does apply) in Saorstát Eireann or any part thereof, to purchase or manufacture, store, transport, and sell any materials or appliances ordinarily used in the building of houses.
+
+(2) All materials and appliances purchased or manufactured by the Minister under this section shall be sold by the Minister to persons in Saorstát Eireann at a price (in the case of purchased materials or appliances) equal to the total of the price paid by the Minister, all transport and storage charges actually incurred, and five per cent. of the price paid by the Minister, or (in case of manufactured materials or appliances) equal to the total of the net cost of the manufacture (including overhead charges and depreciation) thereof by the Minister, all transport and storage charges actually incurred, and five per cent, of the net cost aforesaid.
+
+(3) The expenses incurred in the purchase or manufacture, storage, transport, and sale of materials and appliances under this section shall, to such extent as shall be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas, and the proceeds of the sale of all such materials and appliances shall be paid into the Exchequer.
+
+(4) An account on the double entry method, showing both a trading account and balance sheet, shall be kept of all transactions under this section; and in such account all services rendered by any Government Department shall be charged at cost.

@@ -1,0 +1,3 @@
+Time and manner of making grant.
+
+5.—Every grant made by the Minister under this Act shall be paid at such time or times, in such instalments, and upon production of such evidence (in the case of payment of an instalment) of partial compliance with the conditions imposed by or under this Act, or (in the case of a final payment) of complete compliance with the conditions aforesaid, as shall from time to time be prescribed, and the decision of the Minister as to whether any such condition has or has not been complied with (whether wholly or partially) or as to whether sufficient evidence of such compliance has or has not been given shall be final.
