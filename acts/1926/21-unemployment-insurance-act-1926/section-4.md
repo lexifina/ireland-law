@@ -1,0 +1,7 @@
+Amendments to section 17 of Principal Act.
+
+4.—(1) Section 17 of the Principal Act (which provides for arrangements being made with associations which make payments to their members while unemployed for the payment to such associations of sums out of the unemployment fund equivalent to the amount which those members would have received by way of unemployment benefit) as amended by any subsequent enactment shall have effect as if in sub-section (1) thereof there were substituted for the words “which those persons would have received” the words “which those persons would have been entitled to receive.”
+
+(2) Where in consequence of a decision of an insurance officer or umpire or a recommendation of a court of referees a society or other association has paid to one of its members any sum by way of provision for unemployment, then, if the decision or recommendation is subsequently revised, so much of that sum as represented the amount of benefit which but for the arrangement would have been payable to that person may, unless that person shows that the sum was received by him in good faith and without knowledge that he was not entitled thereto, be recovered, without prejudice to any other remedy, by means of deductions from any benefit or from any payment from the society or other association to which that person thereafter becomes entitled.
+
+Any question whether a person is liable under the provisions of this sub-section to have a deduction made from any benefit or payment due to him shall be determined in the same manner as a claim for benefit.
