@@ -1,0 +1,3 @@
+Regulation 3
+
+3. In these regulations the expression " the principal Act " means the Solicitors Act, 1954 ; the expression " the Act of 1960 " means the Solicitors (Amendment) Act, 1960 ; the expression " the Acts " means the Solicitors Act, 1954 and the Solicitors (Amendment) Act, 1960 ; the expression " the secretary " means the secretary or acting secretary for the time being of the Incorporated Law Society of Ireland ; other expressions have the meanings assigned to them in the Acts. References to " the Council " include any committee to which functions of the Council may for the time being be delegated under section 73 of the principal Act.
