@@ -1,0 +1,3 @@
+Amount of compensation not to be influenced by provisions of this Act.
+
+5.—Neither in considering the amount of compensation to be awarded in any application for compensation under the Criminal Injuries Acts in respect of an injury to which Part II. of the Principal Act applies, nor in considering, in cases within section 15 of the Principal Act, the amount of the sum to be mentioned in pursuance of paragraph (b) of sub-section (3) of that section in his report under that sub-section, shall any Judge consider or have regard to the provisions of Article 4 of the Agreement set out in the Schedule to the Treaty (Confirmation of Amending Agreement) Act, 1925 (No. 40 of 1925), or the provisions of this Act.
