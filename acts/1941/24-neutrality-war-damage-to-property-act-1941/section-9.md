@@ -1,0 +1,15 @@
+Compensation for injury to a building.
+
+9.—(1) The following provisions shall apply and have effect in relation to compensation under this Act awarded by the Court in respect of an injury to which this Act applies to a building, that is to say:—
+
+(a) the compensation shall be subject to the condition (in this section referred to as the reinstatement condition) that it shall be applied either in or towards erecting a new building on the site of the injured building or in or towards repairing the injured building, but so that the new or repaired building shall be not less valuable than the injured building and shall be either of the same character as the injured building or of a character suitable to the neighbourhood;
+
+(b) the amount of the compensation shall not exceed the cost of compliance with the reinstatement condition less the amount (if any) by which, in the opinion of the Court, the price of the building as reinstated would by reason of the reinstatement exceed the price of the building in the condition in which it was immediately before it was injured, the price in each case being estimated according to normal market conditions as at the date of the award and on the basis of a sale of the fee simple interest in the building;
+
+(c) where the injured building is not situate in a city, town, or urban district, the Court may authorise compliance with the reinstatement condition by the erection of a new building near to, instead of on, the site of the injured building;
+
+(d) where the injured building contained fixed machinery and plant, the reinstatement condition shall include the replacement of that machinery and plant, but the Court may, upon such terms as it may think reasonable in the circumstances, exclude from the reinstatement condition the obligation to replace the said machinery and plant;
+
+(e) the compensation shall be paid at such time or times, in such instalments, and upon production of such evidence (in the case of payment of an instalment other than the final instalment) of partial compliance with the reinstatement condition or (in the case of payment of the final instalment) of complete compliance with the reinstatement condition as the Minister shall require, and the decision of the Minister as to whether a reinstatement condition has or has not been complied with (whether wholly or partially) or as to whether sufficient evidence of such compliance has or has not been given shall be final.
+
+(2) Where compensation under this Act has been awarded by the Court in respect of an injury to which this Act applies to a building and a decree or order has been made by the Court accordingly and the Minister is of opinion that, owing to special circumstances or to unforeseen events, compliance with the reinstatement condition in respect of such compensation is inexpedient or impracticable, the Minister may agree with the person to whom such compensation was so awarded for the release of such person from the said reinstatement condition on such terms (including where appropriate, a reduction of the amount of such compensation) as the Minister shall think proper and the said person shall accept.
