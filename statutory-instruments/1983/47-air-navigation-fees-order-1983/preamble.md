@@ -1,0 +1,5 @@
+S.I. No. 47 of 1983.
+
+AIR NAVIGATION (FEES) ORDER, 1983.
+
+I, JIM MITCHELL, Minister for Transport, in exercise of the powers conferred on me by sections 5 , 9 and 11 of the Air Navigation and Transport Act, 1946 (No. 23 of 1946), the Transport, Fuel and Power (Transfer of Departmental Administration and Ministerial Functions) Order, 1959 ( S.I. No. 125 of 1959 ), the Transport and Power (Alteration of Name of Department and Title of Minister) Order, 1977 ( S.I. No. 305 of 1977 ), and the Tourism and Transport (Alteration of Name of Department and Title of Minister) Order, 1980 ( S.I. No. 11 of 1980 ), hereby order as follows:
