@@ -1,0 +1,3 @@
+Ranking of debt guaranteed by State.
+
+48.—To remove doubt, it is hereby declared that any liabilities of the Minister for Finance, or of any other Minister of the Government, in respect of guarantees given under an Act of the Oireachtas by the Minister for Finance, or by any other Minister of the Government with the consent of the Minister for Finance, of the due repayment of moneys borrowed by other persons shall rank, and be deemed always to have ranked, pari passu in all respects with the liabilities of the Minister for Finance in respect of securities created and issued under section 54 (1) of the Finance Act, 1970.
