@@ -1,0 +1,5 @@
+Regulation 8
+
+8. (1) The promoter of a dance in the case of which these Regulations apply shall keep full and true accounts of the number of persons admitted to the dance, the charge for admission, the total amount of money received or receivable in respect of admissions, and, where goods are sold or services are provided, or both goods are sold and services are provided in connection with the dance, and payment therefor is a condition for admission and is not included in the payment in respect of admission, the total amount of money received or receivable in respect thereof.
+
+(2) The accounts which a promoter is required to keep under this Regulation shall be written up not later than the next working day following the date on which the relevant dance took place, and those accounts together with all invoices, receipts and all other documents whatsoever relating to the matters which are the subject of the accounts shall be retained by the promoter for a period of not less than three years from the date of the dance.
