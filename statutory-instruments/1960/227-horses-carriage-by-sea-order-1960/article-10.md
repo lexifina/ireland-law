@@ -1,0 +1,7 @@
+Article 10
+
+10. Removal of loose shoes.
+
+PART III.
+
+PROTECTION AND CARE OF HORSES WHILE ON BOARD.

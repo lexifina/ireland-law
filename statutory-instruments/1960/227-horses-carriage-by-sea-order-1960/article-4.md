@@ -1,0 +1,7 @@
+Article 4
+
+4. Revocations.
+
+PART II.
+
+CARRIAGE BY SEA AND PORTAL INSPECTION.
