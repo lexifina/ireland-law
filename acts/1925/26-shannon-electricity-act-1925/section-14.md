@@ -1,0 +1,11 @@
+Lands benefited by drainage, etc., to be charged with certain payments.
+
+14.—(1) If and whenever the Minister is of opinion that any lands or premises have been benefited by way of drainage, protection from flooding, or improvement of water supply by reason of any works executed by the Minister under this Act, the Minister may, by notice in writing served on or sent by prepaid post to the rated occupier and (if he can be found) the reputed proprietor of such lands or premises, require that such lands or premises be charged with the payment to the Minister of a capital sum equal to the amount by which the capital value of such lands or premises has been increased by reason of such benefit.
+
+(2) The fact of such benefit and the amount (if any) by which the capital value of the said lands or premises has been increased thereby shall, in default of agreement, be determined by an arbitrator appointed after consultation with the Minister for Lands and Agriculture by the Reference Committee under section 6 of this Act.
+
+(3) Whenever such arbitrator determines that any lands or premises have been benefited and the capital value thereof increased as aforesaid he shall make an order declaring the fact of such benefit and the amount of such increase, and such order shall operate and be expressed to charge such lands or premises (in priority to all other charges and incumbrances except charges or incumbrances then existing and created by or under an Act passed before this Act) with the payment to the Minister for Finance of the amount of such increase of values as thereby declared with interest thereon as hereinafter mentioned by means of a terminable rentcharge calculated in such manner and extending over such period as is hereinafter mentioned.
+
+(4) Unless and until the Oireachtas makes other provision in regard thereto, the interest aforesaid shall be calculated at such rate and from such date and the terminable rentcharge aforesaid shall be calculated in such manner and be payable for such period and in such manner as shall be prescribed by regulations made by the Minister for Finance.
+
+(5) For the purposes of this section, the fact that electricity is obtainable or obtainable at any particular price or in any particular quantity or manner from the undertaking shall not be deemed to be a benefit to any lands or premises.
