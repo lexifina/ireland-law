@@ -1,0 +1,3 @@
+Article 8
+
+8. Where a widow to whom this Part of this Order applies receives, before the grant to her of a pension under this Part of this Order, compensation in respect of the death of her husband, whether awarded under the Acts relating to compensation for criminal injuries or awarded or paid otherwise, such compensation may be taken into account in considering the granting to her of a pension under this Part of this Order and in assessing such pension if granted, and where a pensioner receives any such compensation as aforesaid, her pension may be re-assessed having regard to such compensation and be varied or cancelled accordingly.

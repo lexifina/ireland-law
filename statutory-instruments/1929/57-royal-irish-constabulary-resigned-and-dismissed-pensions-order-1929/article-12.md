@@ -1,0 +1,3 @@
+Article 12
+
+12. Where upon the death of a pensioner a sum not exceeding one hundred pounds is due to her estate on account of a pension, the Minister may, without requiring probate of her will or letters of administration of her personal estate to be obtained, pay such sum to such person or persons as appear to him to be beneficially entitled to the personal estate of the deceased, or in the case of the illegitimacy of the deceased to such person or persons as the Minister may think fit, and the Minister and any officer of the Minister making the payment shall be discharged from all liability in respect of any such payment.
