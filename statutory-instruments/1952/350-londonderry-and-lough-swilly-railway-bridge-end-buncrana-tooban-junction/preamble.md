@@ -1,0 +1,5 @@
+WHEREAS on the 7th day of December, 1951, the Londonderry and Lough Swilly Railway Company applied to the Minister for Industry and Commerce for an order under section 9 of the Railways Act, 1933 (No. 9 of 1933), authorising the company to terminate wholly the services of trains run over the sections of railway line owned or operated by the company between Bridge End and Buncrana and between Tooban Junction and Farland Point, respectively ;
+
+AND WHEREAS the Minister for Industry and Commerce is satisfied that the company has lawful authority by statute, order, licence, or otherwise to carry on a road transport service affording to the public transport facilities constituting (for the purposes of the traffic carried by the said railway services) an adequate substitute for these services, and that the company has given sufficient public notice of the establishment or intention to establish such road transport services ;
+
+NOW, THEREFORE, I, SEÁN F. LEMASS, Minister for Industry and Commerce, in exercise of the powers conferred on me by section 9 of the Railways Act, 1933 , and of every and any other power me in this behalf enabling, hereby order :—
