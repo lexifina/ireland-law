@@ -1,0 +1,5 @@
+S.I. No. 233 of 1979.
+
+LIMERICK HARBOUR COMMISSIONERS (ADDITIONAL LOCAL AUTHORITY MEMBERS) ORDER, 1979.
+
+WHEREAS the Council of the county of Kerry has agreed to assist the Limerick Harbour Commissioners by making pursuant to section 7 of the Harbours Act, 1947 (No. 34 of 1947), a loan to the said Commissioners and providing the sum necessary for that purpose by borrowing: AND WHEREAS the Minister for Tourism and Transport is of opinion that the Council should have representation in the membership of the said Commissioners: NOW, I, PÁDRAIG FAULKNER, Minister for Tourism and Transport, in exercise of the power conferred on me by section 8 of the Harbours Act, 1946 (No. 9 of 1946), as amended by the Transport, Fuel and Power (Transfer of Departmental Administration and Ministerial Functions) Order, 1959 ( S.I. No. 125 of 1959 ) (and as adapted by the Transport and Power (Alteration of Name of Department and Title of Minister) Order, 1977 ( S.I. No. 305 of 1977 )), and after consultation with the Minister for the Environment, hereby order as follows:
