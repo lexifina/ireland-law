@@ -1,0 +1,3 @@
+Article 2
+
+2. The maximum goods rates to be charged by the Limerick Harbour Commissioners (including the maximum goods rate to be so charged in the case of cement clinker) are hereby fixed as the rates chargeable under the Harbour Rates (Limerick Harbour) Order, 1942 ( S. R. & O. No. 469 of 1942 ), as amended by Article 2 of the Harbour Rates (Limerick Harbour) Order, 1953 ( S.I. No. 356 of 1953 ), Article 2 of the Harbour Rates (Limerick Harbour) Order, 1958 ( S.I. No. 113 of 1958 ), and Articles 2 and 3 of the Harbour Rates Order (Limerick Harbour) Order, 1961 ( S.I. No. 191 of 1961 ), increased by twenty per cent.
