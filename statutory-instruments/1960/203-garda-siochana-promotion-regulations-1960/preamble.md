@@ -1,0 +1,1 @@
+I, OSCAR TRAYNOR, Minister for Justice, with the approval of the Government, in exercise of the powers conferred on me by section 14 of the Police Forces Amalgamation Act, 1925 (No. 7 of 1925), and subsection (3) of section 1 of the Garda Síochána Act, 1958 (No. 14 of 1958), hereby make the following regulations:
