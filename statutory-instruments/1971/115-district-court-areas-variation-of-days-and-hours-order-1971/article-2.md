@@ -1,0 +1,3 @@
+Article 2
+
+2. The days and hours for holding the District Court (for the purpose of the transaction of the business of the District Court exercising its summary jurisdiction) in the district court area of Rathfarnham shall, in lieu of the days and hours specified in column (4) at reference number 78 in the First Schedule to the District Court (Areas) Order, 1961 ( S.I. No. 5 of 1961 ) (as amended by the District Court Areas (Variation of Days and Hours) Order, 1962 ( S.I. No. 165 of 1962 ), and the District Court Areas (Variation of Hours) Order, 1970 ( S.I. No. 124 of 1970 )) be the first, second and fourth Monday and the third Tuesday in each month at 10.30 a.m., 11.00 a.m., 11.15 a.m., 12.00 noon, 2.00 p.m. and 3.00 p.m.
