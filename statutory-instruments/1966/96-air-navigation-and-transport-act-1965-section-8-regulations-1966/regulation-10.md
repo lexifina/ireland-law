@@ -1,0 +1,3 @@
+Regulation 10
+
+10. A person who applies for or is the holder of an authorisation under section 8 of the Act may, if the Minister so directs, be required to satisfy the Minister that he is competent, as respects experience, financial resources, equipment, organisation, staffing, maintenance and operating procedures, to secure the safe operation of aircraft of the type in relation to which the authorisation relates or is sought, and, if the person fails to satisfy the Minister as aforesaid, the Minister may refuse to grant an authorisation under section 8 to the person or may revoke the authorisation, as may be appropriate.
