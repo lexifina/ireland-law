@@ -1,0 +1,5 @@
+Justice of the District Court acting outside his own District.
+
+15.—(1) Whenever it appears to the Minister on the representation of a Justice of the District Court that such Justice cannot properly deal with any matter pending before him by reason of the fact that he has a personal interest in such matter or such personal knowledge of the facts or of the parties as might prejudice the trial of such matter, the Minister may appoint another Justice of the District Court (who so consents) to hear and determine such matter in the District of the first mentioned Justice and thereupon such matter may be so heard and determined.
+
+(2) In case of the illness or absence of a Justice of the District Court assigned to a particular District, any other Justice of the District Court may (with the consent of the Minister) in addition to exercising the privileges, powers and duties in relation to the District to which he is assigned, exercise during such illness or absence the privileges, powers and duties for the time being conferred by law on such first named Justice in relation to the District to which such Justice is assigned.

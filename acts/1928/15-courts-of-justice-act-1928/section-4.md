@@ -1,0 +1,3 @@
+Amendment of lunacy forms.
+
+4.—The Chief Justice may from time to time by order made under section 118 of the Lunacy Regulation (Ireland) Act, 1871, amend any form prescribed by or under that Act for use in relation to the jurisdiction in lunacy matters transferred to him by section 19 of the Principal Act by substituting in such form the expression “ward of court” or such other similar expression as he shall think proper for the word “lunatic” and the expression “person of unsound mind” respectively and making such further consequential amendments in such form as shall appear to him to be necessary and proper.

@@ -1,0 +1,3 @@
+Judge of the Circuit Court acting outside his own Circuit.
+
+10.—Whenever it appears to the Minister on the representation of a Judge of the Circuit Court that such Judge cannot properly deal with any matter pending before him by reason of the fact that he has a personal interest in such matter or such personal knowledge of the facts or of the parties as might prejudice the trial of such matter, the Minister may appoint another Judge of the Circuit Court (who so consents) to hear and determine such matter in the Circuit of the first mentioned Judge and thereupon such matter may be so heard and determined.
