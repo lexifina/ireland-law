@@ -1,0 +1,9 @@
+Restriction on taking apprenticeship premiums.
+
+22.—(1) Where rules regulating apprenticeship premiums made by an apprenticeship committee are for the time being in force the following provisions shall have effect, that is to say:—
+
+(a) if such rules prohibit the taking of an apprenticeship premium in respect of the employment of a person by way of apprenticeship in the designated trade for which such committee is established in the district of such committee, then it shall not be lawful for any person (in this section referred to as an employer) carrying on in such district such trade to take or receive in respect of such employment an apprenticeship premium; and
+
+(b) if such rules permit the taking of an apprenticeship premium in respect of such employment, then it shall not be lawful for an employer to take or receive in respect of such employment an apprenticeship premium in excess of the apprenticeship premium fixed by such rules.
+
+(2) If any employer carrying on in the district of an apprenticeship committee the designated trade for which such committee is established takes or receives any apprenticeship premium in contravention of this section, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty pounds, and on such conviction the court may order such employer to pay to the person by whom such apprenticeship premium was paid, in case rules regulating apprenticeship premiums made by such committee prohibit the taking of any apprenticeship premium, a sum equal to the amount of the apprenticeship premium so taken or received and, in case rules regulating apprenticeship premiums made by such committee permit the taking of an apprenticeship premium, a sum equal to the amount by which the apprenticeship premium so taken or received exceeds the apprenticeship premium fixed by such rules.

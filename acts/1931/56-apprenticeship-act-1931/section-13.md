@@ -1,0 +1,7 @@
+Prohibition of payments of wages below minimum rates.
+
+13.—(1) Where any rules regulating the minimum rates of wages made by an apprenticeship committee are for the time being in force, every employer carrying on in the district of such committee the designated trade for which such committee is established shall pay to every apprentice employed by him wages at not less than the rate or rates payable under such rules, and for the purpose of any civil proceedings by any such apprentice against such employer to recover wages there shall be deemed to be a valid and effective contract by such employer to pay to such apprentice wages at a rate or rates not less than the rate or rates payable under such rules.
+
+(2) If any employer fails to comply with this section he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty pounds, and on such conviction the court may order such employer to pay, in addition to such fine, such sum as appears to be due to the person employed on account of wages, the wages being calculated on the basis of the minimum rate or rates payable under the rules regulating the minimum rates of wages applicable to such person, but the power to order payment of wages under this sub-section shall not be in derogation of any right of the person employed to recover wages by any other proceedings.
+
+(3) In this and the next succeeding section the word “wages” does not include wages for overtime.
