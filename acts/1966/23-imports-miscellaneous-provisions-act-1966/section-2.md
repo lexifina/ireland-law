@@ -1,0 +1,7 @@
+Modification of licensing provisions relating to customs duties.
+
+2.—Whenever a statute or statutory order (whether passed or made before or after the passing of this Act) contains a provision to the effect that, if the Minister for Finance, after consultation with another Minister, so thinks proper, the Revenue Commissioners may by licence authorise a person to import or (in the case of goods already imported) to take delivery of goods chargeable with a duty of customs without payment of the duty or on payment of the duty at less than the rate ordinarily chargeable, the provision shall have effect subject to the following modifications, that is to say, in exercise of the said powers the Minister for Finance, after consultation with the other Minister mentioned in the provision, may, as respects licences granted after the passing of this Act—
+
+(a) provide that the duty shall be charged, levied and paid at specified different rates on goods grown, produced or manufactured in specified different countries, territories or areas and imported under a licence granted under the provision and that goods grown, produced or manufactured in specified countries, territories or areas may be imported without payment of the duty, and
+
+(b) restrict any licence granted under the provision and authorising importation either without payment of the duty or on payment thereof at less than the rate ordinarily chargeable to goods grown, produced or manufactured in specified countries, territories or areas.
