@@ -1,0 +1,3 @@
+Restrictions on grant of widows' and children's allowances under section 2 (1) of the Act of 1946.
+
+7.—Notwithstanding anything contained in subsection (1) of section 2 of the Act of 1946, the Minister shall not grant under the said subsection to the widow or child of a deceased person any allowance or gratuity unless, in the case of the widow, she was married to such person before he received the wound in respect of which there was granted to him the wound pension mentioned in the said subsection or, in the case of a child, the child was the child of a marriage contracted before he received the said wound.
