@@ -1,0 +1,3 @@
+Notice to persons entitled to compensation.
+
+19.—Where the Minister commences to work, or grants a lease of or a licence to work any minerals which are State minerals by virtue of section 12 he shall, as soon as may be, publish in two successive weeks in Iris Oifigiúil and in at least one national daily newspaper notice thereof indicating the right of any person entitled to any estate or interest in the minerals to claim compensation and he shall also, so far as practicable, give like notice to every person who has claimed to be entitled to any estate or interest in the minerals under section 18 (1).
