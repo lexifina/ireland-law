@@ -1,0 +1,13 @@
+Transfer of land.
+
+40.—(1) On the vesting day all land which, immediately before that day, was vested in the Minister and was used for the purposes of functions assigned by this Act to one company and was not used in connection with the functions assigned to the other company and all rights, powers and privileges relating to or connected with such land shall, without any conveyance or assignment, stand vested in the first-mentioned company for all the estate or interest for which immediately before the vesting day it was vested in the Minister but subject to all trusts and equities affecting the land subsisting and capable of being performed.
+
+(2) All land vested in the Minister immediately before the vesting day and used partly in connection with functions assigned to one company and partly in connection with functions assigned to the other company and all rights, powers and privileges relating to or connected with such land shall, subject to such exceptions as may be specified by the Minister, without any conveyance or assignment, stand vested on the vesting day in the postal company for all the estate or interest for which immediately before the vesting day it was vested in the Minister but subject to all trusts and equities affecting the land subsisting and capable of being performed.
+
+(3) The Minister may on his own initiative and shall on the application of either company issue a certificate in respect of specified land certifying, as he thinks proper, that the land vested in one or other company under this section or did not so vest in either company and the certificate shall be conclusive evidence of the facts so certified.
+
+(4) (a) The postal company shall make appropriate arrangements with the telecommunications company for the provision of facilities to the latter company for the use of land referred to in subsection (2) which on the day immediately before the vesting day was being used in connection with the functions assigned to the telecommunications company under this Act.
+
+(b) If the companies fail to agree on any arrangement the disagreement shall be referred to the Minister and the companies shall comply with such directions as the Minister may give them in the matter.
+
+(5) Arrangements under subsection (4) may be made by way of lease, licence or other form of agreement at such rents or consideration and on such other terms as may be agreed between the two companies and in fixing the terms of any such agreement regard shall be had to that portion of the cost of the land which had been borne by advances under the Telecommunications Capital Acts, 1924 to 1981.

@@ -1,0 +1,7 @@
+Transfer of other property.
+
+41.—(1) On the vesting day all property other than land, including choses-in-action, which immediately before that day was the property of the Minister and was used in connection with the functions assigned by this Act to either company shall stand vested in that company without any assignment.
+
+(2) The Minister may on his own initiative and shall on the application of either company issue a certificate in respect of specified property, certifying, as he thinks proper, that the property vested in one or other company under this section or did not so vest in either company and the certificate shall be conclusive evidence of the facts so certified.
+
+(3) Every chose-in-action transferred by subsection (1) to a company may, after the vesting day, be sued on, recovered or enforced by the company in its own name and it shall not be necessary for the company or the Minister to give notice to the person bound by the chose-in-action of the transfer effected by that subsection.
