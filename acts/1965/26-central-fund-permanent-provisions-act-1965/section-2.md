@@ -1,0 +1,3 @@
+Issues out of Central Fund before grant of supply.
+
+2.—As from the commencement of the financial year ending on the 31st day of March, 1967, and of every subsequent financial year, the Minister, as respects any supply service for which a sum was appropriated in respect of the immediately preceding financial year in the Appropriation Act of that year, shall, provided that during the year he asks Dáil Éireann to grant supply for that service in respect of the year, be authorised to issue out of the Central Fund in the year, and apply towards making good such supply, sums not exceeding in the aggregate four-fifths of the sum so appropriated, subject, as regards any particular issue and application, to his considering it to be necessary.
