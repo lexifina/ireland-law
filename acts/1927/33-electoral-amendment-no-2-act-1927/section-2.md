@@ -1,0 +1,5 @@
+Affidavit to be made by candidates at Dáil elections.
+
+2.—(1) Every candidate for election to Dáil Eireann shall, in the manner and within the time prescribed by this section, deliver to the returning officer of the constituency for which he is a candidate an affidavit in the form set out in the Schedule to this Act duly sworn by him in accordance with this section, and no nomination of any such candidate shall be valid or complete unless or until he has so delivered such affidavit to such returning officer.
+
+(2) The affidavit required by this section to be delivered by a candidate to the returning officer shall be sworn by such candidate in the presence of a commissioner for oaths or a peace commissioner to whom he is personally known and shall be delivered to the returning officer by such candidate himself or his proposer or seconder on his behalf, in the case of a general election, at any time after the date of the proclamation declaring the calling of the Oireachtas or, in the case of a bye-election, at any time after the receipt of the writ by the returning officer, and, in any case, before the expiration of the time appointed for receiving nominations.
