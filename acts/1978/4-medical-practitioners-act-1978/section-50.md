@@ -1,0 +1,3 @@
+Continuance of existing inquiry.
+
+50.—Where the Medical Registration Council has decided to hold, or has appointed any member or members of that Council to hold, an inquiry pursuant to section 30 of the Medical Practitioners Act, 1927, and that inquiry has not been completed before the commencement of this Act, the inquiry shall be discontinued and shall be recommenced by the Fitness to Practise Committee as if this Act had been in force at the time at which such decision was taken or such member or members were appointed and the provisions of this Part of this Act shall apply to any inquiry discontinued and recommenced pursuant to this section.
