@@ -1,0 +1,3 @@
+Regulation 4
+
+4. Where, in relation to a sitting of a court at any place, no solicitor's name is on the appropriate list kept pursuant to Regulation 4 of the Regulations of 1965 and a certificate for free legal aid falls to be granted to a person, the court may, having taken into consideration the representations (if any) of the person, request any solicitor to act for the person in the preparation and conduct of his case and, if that solicitor is willing so to act, the court may, upon the grant of the certificate, assign that solicitor to the person to act for him in the preparation and conduct of his case.
