@@ -1,0 +1,3 @@
+Regulation 4
+
+4. The form in which an application shall be made under subsection (1) of Section 47 of the Act for registration in the register of flour importers and the particulars to be contained in such application shall be the Form No. 1 in the Schedule to these regulations and the particulars required by such form. The form in which an application shall be made under subsection (2) of Section 47 of the Act for registration in the register of distillers and the particulars to be contained in such application shall be the Form No. 2 in the Schedule to these regulations and the particulars required by such form.
