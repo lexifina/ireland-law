@@ -1,0 +1,5 @@
+Additional condition of registration in register of exporters.
+
+5.—(1) The Minister shall, before registering any premises in the register of exporters, be satisfied (in addition to the matters mentioned in sub-section (3) of section 7 of the Principal Act) that either the applicant for registration of such premises or one person at least employed by him on such premises is skilled in the business of testing, grading, and packing eggs in accordance with the Principal Act and regulations made thereunder.
+
+(2) Until the expiration of a period of twelve months from the passing of this Act, premises which are registered in the register of exporters at the passing of this Act and continue to be so registered shall not be deemed, for the purposes of section 10 of the Principal Act, to have ceased to be eligible for registration in the register of exporters by reason merely of the fact that neither the registered owner of such premises nor any person employed by him on such premises is skilled in the business of testing, grading, and packing eggs in accordance with the Principal Act and regulations made thereunder.
