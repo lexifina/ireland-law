@@ -1,0 +1,3 @@
+Evidence of person charged.
+
+2.—Where the only witness to the facts of the case called by the defence is the person charged, he shall be called as a witness immediately after the close of the evidence for the prosecution.
