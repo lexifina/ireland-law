@@ -1,0 +1,1 @@
+I, LIAM KAVANAGH, Minister for Labour, in exercise of the powers conferred on me by section 74 of the Factories Act, 1955 (No. 10 of 1955), as amended by section 34 of the Safety in Industry Act, 1980 (No. 9 of 1980), and the Labour (Transfer of Departmental Administration and Ministerial Functions) Order, 1966 ( S.I. No. 164 of 1966 ), hereby make the following Regulations:
