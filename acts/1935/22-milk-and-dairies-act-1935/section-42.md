@@ -1,0 +1,5 @@
+Prohibition of sale of infected milk.
+
+42.—(1) If any dairyman sells milk which is infected with a disease to which this Part of this Act applies, such dairyman shall, if it is proved that he previously knew or could by the exercise of ordinary care have ascertained that such milk was so infected, be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first offence under this section, to a fine not exceeding fifty pounds, and, in the case of a second or any subsequent offence under this section, to a fine not exceeding one hundred pounds or to imprisonment for any term not exceeding six months or to both such fine and imprisonment and in either case, if the offence is a continuing one, to a further fine not exceeding five pounds for each day during which the offence continues.
+
+(2) An offence under this section may be prosecuted by the sanitary authority within whose sanitary district the milk was infected, or by the sanitary authority within whose sanitary district the offence was committed.

@@ -1,0 +1,3 @@
+Carrying on of business on death of registered dairyman.
+
+25.—Where a person who is registered in the register of dairymen dies, the carrying on of the business of dairyman by the personal representative or a member of the family of such person in any premises in respect of which such person is registered in such register shall, notwithstanding that such personal representative or member is not registered in the said register in respect of the said premises, not during the period of one month from the death of such person be deemed a contravention by such personal representative or member of the immediately preceding section.
