@@ -1,0 +1,3 @@
+Continuation of certain benefits.
+
+9.—Where an insured person who by virtue of this Act becomes a member of a Provisional Irish Society or branch thereof, was immediately before the first day of April, 1922, entitled to receive from the British Society or branch of which he was then a member any additional benefit, he shall be entitled to receive from the Provisional Irish Society or branch thereof, or from any Society or branch to which he is transferred under this Act, or from the Dissolved Societies' Fund, such additional benefit, so long as he would have been entitled to receive it had he remained a member of the British Society or branch, subject, however, to such variations as in the opinion of the Insurance Commissioners may be necessary or expedient.

@@ -1,0 +1,5 @@
+Transfer by Irish Societies of appropriate funds.
+
+7.—(1) The funds as on the first day of April, 1922, of every Irish Society which immediately before that date had amongst its members insured persons resident in Great Britain, or had one or more British branches, shall be apportioned, and the funds which on such apportionment are found to be properly attributable to such members or branches after deducting the amount of any funds held on the said first day of April on behalf of the Society by the Minister of Health for England, the Scottish Board of Health, or the Ministry of Labour for Northern Ireland, shall, subject to such adjustments as may be required in respect of the period between the said first day of April and the appointed day or any part thereof, be transferred to the Insurance Commissioners.
+
+(2) This section shall apply in the case of an Irish branch in like manner as it applies in the case of an Irish Society, except that in such case the apportionment shall be made of the funds of the Society as well as of the branch.

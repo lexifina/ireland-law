@@ -1,0 +1,5 @@
+Application of sums unclaimed in stamp sales accounts.
+
+27.—(1) Such part as the Insurance Commissioners may direct of the sums which under Section 29 of the Act of 1918 (which provides for the disposal of sums unclaimed in the Stamp Sales Account) are to be carried to the National Health Insurance Central Fund shall, instead of being so carried, be credited to Approved Societies in accordance with Schemes to be made by the Insurance Commissioners with the approval of the Minister for Finance, and any sums credited under this Section to an Approved Society shall be applied by the Society in such manner as the schemes may provide for the purpose of preventing any members of the Society who are in arrears and to whom the schemes apply from being or continuing to be suspended from benefit or from having their benefits reduced except by such amounts as the schemes may provide.
+
+(2) This Section shall be deemed to have been in force and shall have effect as from the 31st day of December, 1921, and shall continue in force until the 31st day of December, 1923.
