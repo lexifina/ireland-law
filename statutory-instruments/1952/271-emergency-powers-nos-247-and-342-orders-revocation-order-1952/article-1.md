@@ -1,0 +1,3 @@
+Article 1
+
+1. This Order may be cited as the Emergency Powers (Nos. 247 and 342) Orders (Revocation) Order, 1952.
