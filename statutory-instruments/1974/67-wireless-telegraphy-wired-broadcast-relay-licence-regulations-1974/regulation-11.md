@@ -1,0 +1,3 @@
+Regulation 11
+
+11. If any message which a licensee is not authorised to receive is unintentionally received by means of the station to which his licence relates, the licensee shall not make known or allow to be made known its contents, its origin, its destination, its existence or the fact of its receipt to any person (other than an authorised officer) and shall not reproduce in writing or otherwise, copy or make use of such message or allow it to be reproduced in writing or otherwise, copied or made use of. The licensee shall take such measures as are reasonably possible to prevent such a message being received at any service point connected to the station.
