@@ -1,0 +1,3 @@
+Licences to import without payment of customs duties.
+
+9.—Where, by virtue of a provision contained in any statute or statutory order (passed or made before the passing of this Act), the Revenue Commissioners may by licence authorise a person to import articles chargeable with the duty to which such provision relates without payment of such duty or on payment of such duty at less than the rate ordinarily chargeable, the reference in such provision to importation of such articles shall, in any case where the articles have already been imported, be construed as a reference to taking delivery of such articles.
