@@ -1,0 +1,3 @@
+Amendment of section 15 of Health Act, 1953.
+
+1.—Section 15 of the Health Act 1953 (No. 26 of 1953) (which provides for institutional and specialist services) is hereby amended by the insertion at the end of subsection (3) of “and, until such date as may be fixed by the Minister by order, to any person insured under the Social Welfare Act, 1952 (No. 11 of 1952), who, if on the 31st day of July, 1954, but by reference to his current circumstances for the purposes of insurance, he had duly claimed the hospital and convalescent home benefit which on the said 31st day of July stood prescribed under section 25 of that Act, would have been entitled to grant of his claim”.
