@@ -1,0 +1,5 @@
+Adjustment of super-tax in certain cases.
+
+2.—(1) Notwithstanding anything contained in section 5 of the Income Tax Act, 1918, the Special Commissioners may, on application made by any person chargeable with super-tax for the year beginning on the 6th day of April, 1923, make such an adjustment, by repayment of tax or otherwise, as will reduce the amount of super-tax payable by that person for that year to the amount which would have been payable if the provisions of this Act had had the force of law during the year beginning on the 6th day of April, 1922, and the adaptations of the Income Tax Acts made by the Adaptation of Enactments Act, 1922 (No. 2 of 1922), or by any Order made or hereafter to be made by the Executive Council under the provisions of that Act, had had full force and effect with reference to income tax for the year beginning on the 6th day of April, 1922.
+
+(2) The provisions of the Income Tax Acts relating to the statement of a case on a point of law shall apply to applications for adjustment of super-tax under this section.

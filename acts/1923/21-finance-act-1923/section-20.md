@@ -1,0 +1,3 @@
+Amendment of Adaptation of Enactments Act, 1922.
+
+20.—Every Order made under the Adaptation of Enactments Act, 1922 (No. 2 of 1922), by the Executive Council of Saorstát Eireann for the purpose of modifying or adapting any British Statute (as defined by that Act) relating to any of the taxes and duties mentioned in this Act or in the Schedule hereto or to the management of any such taxes and duties, shall come into operation and take effect from the date specified in such Order notwithstanding that such date is prior to the date of the Order, and if no such date is so specified then such Order shall come into operation and take effect from the date thereof.

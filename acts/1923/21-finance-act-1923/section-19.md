@@ -1,0 +1,3 @@
+Amendment of Section 13 of Stamp Act, 1891.
+
+19.—An appeal shall not lie under section 13 of the Stamp Act, 1891 (whether as originally enacted or as applied by any other enactment), on any question relating to the value of any property, and in lieu of such appeal any person dissatisfied with any decision of the Revenue Commissioners as to the value of any property for the purpose of an assessment under the said Act may appeal against such decision in the manner prescribed by Sections 33 and 34 of the Finance (1909-10) Act, 1910; and so much of Part I. of that Act as relates to appeals shall apply to an appeal under this section.

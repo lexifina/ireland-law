@@ -1,0 +1,3 @@
+Income tax to be charged on British Government Stock issued free of tax.
+
+4.—Notwithstanding any provision contained in any Act of the Parliament of the late United Kingdom of Great Britain and Ireland, the interest on all securities issued by the Government of the United Kingdom aforesaid subject to the condition that the interest thereon should be exempt from income tax, shall as and from the first day of October, 1923, be liable to the income tax for the time being charged in Saorstát Eireann, but subject to any arrangement for relief which may for the time being exist with the Government of Great Britain under or by virtue of the Double Taxation (Relief) Act, 1923 (No. 8 of 1923), or otherwise.

@@ -1,0 +1,3 @@
+Exemption of interest on savings certificates from income tax.
+
+3.—If the Minister for Finance shall issue any savings certificate under which the purchaser, by virtue of an immediate payment of a specified sum, becomes entitled after a specified period to receive a larger sum consisting of the said sum originally paid and accumulated interest thereon, such accumulated interest shall not be liable to income tax so long as the amount of such certificates held by the person who is for the time being the holder of the certificate does not exceed the amount which such person is for the time being authorised to hold under regulations made by the Minister for Finance.
