@@ -1,0 +1,3 @@
+Computation of value for the purposes of the Customs Acts.
+
+25.—Section 34 of the Finance Act, 1933 (No. 15 of 1933), is hereby repealed and in lieu thereof it is hereby enacted that the value of any article or goods for any of the purposes of this Act or any other Act (whether passed before or after this Act) relating to the customs or of any order relating to the customs heretofore or hereafter made under any Act (whether passed before or after this Act) shall, in the absence of provision to the contrary, be taken to be the price which, in the opinion of the Revenue Commissioners, an importer would give for such article or goods if such article or goods were delivered, freight and insurance paid, in bond at the place of importation.

@@ -1,0 +1,3 @@
+Amendment of section 5 of the Finance Act, 1894.
+
+28.—In the case of any person dying after the passing of this Act, the exemption conferred by sub-section (3) of section 5 of the Finance Act, 1894, in the case of settled property where the interest of any person under the settlement fails or determines by reason of his death before it becomes an interest in possession and subsequent limitations under the settlement continue to subsist, shall cease in cases where the property would, if that sub-section had not been enacted, have been deemed to pass on the death otherwise than by reason of the failure or determination of the interest.

@@ -1,0 +1,3 @@
+Exemption of certain articles for the use of blind persons from all customs duties.
+
+18.—Whenever it is shown, to the satisfaction of the Revenue Commissioners, that an article imported on or after the 13th day of May, 1938, is designed, constructed, and intended specifically or primarily for the use of blind persons and is imported by an institution or society which, in the opinion of the Revenue Commissioners, has for its primary object the amelioration of the lot of blind persons, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, permit such article to be imported without payment of any duty of customs or repay any such duty paid on such article on the importation thereof.
