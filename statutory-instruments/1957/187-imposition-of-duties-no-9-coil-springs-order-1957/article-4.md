@@ -1,0 +1,3 @@
+Article 4
+
+4. Where a number of articles collectively chargeable with the duty imposed by section 12 of the Finance Act, 1934 (No. 31 of 1934), and mentioned at reference number 17 in Part III of the Fourth Schedule to that Act includes an article chargeable with the duty imposed by this Order, such article shall be chargeable with the duty imposed by this Order and the value of such article shall not be reckoned in the computation of the total value on which the amount of the duty imposed by the said section 12 is chargeable on the said number of articles so collectively chargeable.
