@@ -1,0 +1,15 @@
+Number 18 of 2000
+
+TOWN RENEWAL ACT, 2000
+
+Section 1. Interpretation. 2. Reference to Act in section 372AA(2) of Act of 1997. 3. Town renewal plans. 4. Consultation by Minister. 5. Recommendations in respect of qualifying areas for purposes of town renewal tax reliefs. 6. Qualifying areas for town renewal tax reliefs. 7. Certain reliefs conditional on buildings, etc., being consistent with town renewal plan. 8. Monitoring of implementation of town renewal plans. 9. Expenses. 10. Short title and commencement. SCHEDULE
+
+Acts Referred to Finance Act, 1998 1998, No. 3 Finance Act, 2000 2000, No. 3 Taxes Consolidation Act, 1997 1997, No. 39 Number 18 of 2000
+
+TOWN RENEWAL ACT, 2000
+
+AN ACT TO MAKE NEW PROVISION FOR THE RENEWAL OF CERTAIN TOWNS, OR AN AREA OR AREAS OF CERTAIN TOWNS, FOR THAT PURPOSE TO PROVIDE FOR THE PREPARATION AND SUBMISSION TO THE MINISTER FOR THE ENVIRONMENT AND LOCAL GOVERNMENT BY COUNTY COUNCILS OF PLANS (TO BE KNOWN AS TOWN RENEWAL PLANS) IN RELATION TO SUCH TOWNS OR SUCH AREA OR AREAS, TO DEFINE THE FUNCTIONS OF THE COUNTY COUNCILS IN RELATION TO AND CONSEQUENT UPON THE PREPARATION AND SUBMISSION OF SUCH PLANS, TO MAKE PROVISION IN RELATION TO THE APPLICATION OF CERTAIN PROVISIONS OF THE TAXES CONSOLIDATION ACT, 1997, CONCERNING RELIEFS FROM INCOME TAX AND CORPORATION TAX AND TO PROVIDE FOR RELATED MATTERS.
+
+[4th July, 2000]
+
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
