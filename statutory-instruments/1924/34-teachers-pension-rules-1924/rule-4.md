@@ -1,0 +1,3 @@
+Rule 4
+
+4. Where a teacher who has retired from the service under the jurisdiction of the Government of Northern Ireland with a pension enters the service under the jurisdiction of the Government of Saorstát Éireann, the service of such teacher prior to such retirement shall be reckoned as service for the purposes of the Rules made under the National School Teachers (Ireland) Act, 1879, provided that the Ministry of Finance of Northern Ireland pays to the Superintendent a sum calculated as in Rule 1 of these Rules, but diminished by a sum equal to the total pension payments made, together with compound interest on each several pension payment reckoned at the same rate and up to the same date as in the case of the premium payments.

@@ -1,0 +1,3 @@
+Rule 1
+
+1. Where a teacher transfers his service with or without a break from a school in the jurisdiction of the Government of Northern Ireland to a school in the jurisdiction of the Government of Saorstát Éireann, the service of such teacher prior to transfer shall be reckoned as service for the purposes of the Rules made under the National School Teachers (Ireland) Act, 1879, provided that the Ministry of Finance of Northern Ireland pays to the Superintendent a sum equal to four times the amount of all pension premiums to the credit of the teacher, together with compound interest at the rate of two and a half per cent. annum on each premium payment reckoned up to the date on which such teacher came under the jurisdiction of the Government of Saorstát Éireann.

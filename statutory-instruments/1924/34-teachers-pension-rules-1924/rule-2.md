@@ -1,0 +1,3 @@
+Rule 2
+
+2. Where a teacher transfers his services with or without a break from a school in the jurisdiction of the Government of Saorstát Éireann to a school in the jurisdiction of the Government of Northern Ireland, the Superintendent shall pay from the Teachers' Pension Fund to the Ministry of Finance of Northern Ireland a sum equal to four times the amount on all pension premiums to the credit of the teacher, together with compound interest at the rate of two and a half per cent. annum on each premium payment reckoned up to the date on which such teacher comes under the jurisdiction of the Government of Northern Ireland.

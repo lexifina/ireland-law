@@ -1,0 +1,3 @@
+Rule 3
+
+3. Where a teacher who has been dismissed or has retired under the conditions of Rule 13 (4) of the Rules of 1914, or Rule 11 (2) of the Rules of 1897 from the service under the jurisdiction of the Government of Northern Ireland, enters the service under the jurisdiction of the Government of Saorstát Éireann, such teacher may pay to the Superintendent, with compound interest at the rate of two and a half per cent. per annum, any sum repaid to him by the Ministry of Finance of Northern Ireland on such dismissal or retirement, and his service prior to dismissal or retirement shall in that case be reckoned as service for the purposes of the Rules made under the National School Teachers (Ireland) Act, 1879.
