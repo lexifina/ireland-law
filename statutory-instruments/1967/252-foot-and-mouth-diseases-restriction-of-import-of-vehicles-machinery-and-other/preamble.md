@@ -1,0 +1,5 @@
+S.I. No. 252 of 1967.
+
+FOOT AND MOUTH DISEASES (RESTRICTION OF IMPORT OF VEHICLES, MACHINERY AND OTHER EQUIPMENT) ORDER (AMENDMENT), 1967.
+
+I, NEIL T. BLANEY, Minister for Agriculture and Fisheries, in exercise of the powers conferred on me by sections 3 and 30 of the Diseases of Animals Act, 1966 (No. 6 of 1966), hereby order as follows:
