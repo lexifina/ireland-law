@@ -1,0 +1,307 @@
+Paragraph 24
+
+24. Amendment of Article 6 (1) of the No. 3 Amending Scheme of 1972.
+
+S.I. No. 283 of 1977.
+
+DEFENCE FORCES (PENSIONS) (AMENDMENT) (NO. 2) SCHEME, 1977.
+
+I, ROBERT MOLLOY, Minister for Defence, in exercise of the powers conferred on me by sections 2 , 3 and 5 of the Defence Forces (Pensions) Act, 1932 (No. 26 of 1932), and by section 4 of the Defence Forces (Pensions) (Amendment) Act, 1938 (No. 33 of 1938), as adapted by the Public Service (Transfer of Departmental Administration and Ministerial Functions) Order, 1973 ( S.I. No. 294 of 1973 ), hereby, with the consent of the Minister for the Public Service, make the following Scheme:
+
+1 Short title, collective citation and construction.
+
+1. (1) This Scheme may be cited as the Defence Forces (Pensions) (Amendment) (No. 2) Scheme, 1977.
+
+(2) The collective citation, the Defence Forces (Pensions) Schemes, 1937 to 1977, shall include this Scheme.
+
+(3) The Defence Forces (Pensions) Schemes, 1937 to 1977, shall be construed together as one Scheme.
+
+2 Commencement.
+
+2. This Scheme shall come into force on the day after the date on which it is made.
+
+3 Application of Interpretation Act, 1937 .
+
+3. The Interpretation Act, 1937 (No. 38 of 1937), applies to this Scheme.
+
+4 Definitions.
+
+4. In this Scheme—
+
+"the Principal Scheme" means the Defence Forces (Pensions) Scheme, 1937 (S.R. & O., No. 249 of 1937);
+
+"the Amending Scheme of 1947" means the Defence Forces (Pensions) (Amendment) Scheme, 1947 (S.R. & O., No. 81 of 1947);
+
+"the Amending Scheme of 1949" means the Defence Forces (Pensions) (Amendment) Scheme, 1949 ( S.I. No. 209 of 1949 );
+
+"the Amending Scheme of 1953" means the Defence Forces (Pensions) (Amendment) Scheme, 1953 ( S.I. No. 259 of 1953 );
+
+"the Amending Scheme of 1960" means the Defence Forces (Pensions) (Amendment) Scheme, 1960 ( S.I. No. 135 of 1960 );
+
+"the No. 3 Amending Scheme of 1975" means the Defence Forces (Pensions) (Amendment) (No. 3) Scheme, 1975 ( S.I. No. 172 of 1975 ).
+
+5 Increase of retired pay of officers retired before 2nd day of June, 1976.
+
+5. The retired pay payable under Article 5, 6, 7, 8, 9 9A, 10 or 10A of the Principal Scheme (including retired pay increased under Article 13 (1) (a) of the Principal Scheme) to an officer who retired or was retired before the 2nd day of June, 1976, shall, with effect from the 1st day of July, 1976, be the amount which would be payable to him if the date of his retirement had been the 2nd day of June, 1976, and his appointment, rank, service in that rank, total service and single or married status were the same as those on the date of his actual retirement.
+
+6 Increase of retired pay of officers retired before 2nd day of April, 1977.
+
+6. The retired pay payable under Article 5, 6, 7, 8, 9, 9A, 10 or 10A of the Principal Scheme (including retired pay increased under Article 13 (1) (a) of the Principal Scheme) to an officer who retired or was retired before the 2nd day of April, 1977, shall, with effect from the 1st day of July, 1977, be the amount which would be payable to him if the date of his retirement had been the 2nd day of April, 1977, and his appointment, rank, service in that rank, total service and single or married status were the same as those on the date of his actual retirement.
+
+7 Increase of retired pay under Article 19 of the Amending Scheme of 1960.
+
+7. The retired pay payable under Article 19 of the Amending Scheme of 1960 to an officer, shall, with effect from the 1st day of July, 1976, be the amount which would be payable to him if the date of his retirement had been the 2nd day of June, 1976, and his rank, service in that rank, total service and single or married status were the same as those on the date of his actual retirement.
+
+8 Further increase of retired pay under Article 19 of the Amending Scheme of 1960.
+
+8. The retired pay payable under Article 19 of the Amending Scheme of 1960 to an officer shall, with effect from the 1st day of July, 1977, be the amount which would be payable to him if the date of his retirement had been the 2nd day of April, 1977, and his rank, service in that rank, total service and single or married status were the same as those on the date of his actual retirement.
+
+9 Increase of pensions of certain deceased officers' widows.
+
+9. (1) Article 20 (1) of the Principal Scheme shall, with effect from the 1st day of July, 1976, have effect as if for the Table thereto (inserted by Article 5 (1) of the Defence Forces (Pensions) (Amendment) (No. 4) Scheme, 1974 ( S.I. No. 236 of 1974 )) there were substituted the following Table:—
+
+"
+
+TABLE.
+
+Rank
+
+Amount of Pension
+
+Second-Lieutenant or Lieutenant
+
+£497·76 a year or 25 per cent of the deceased officer's retired pay, whichever is greater.
+
+Captain
+
+£610·32 a year or 30 per cent of the deceased officer's retired pay, whichever is greater.
+
+Commandant
+
+£719·64 a year or 31·5 per cent of the deceased officer's retired pay, whichever is greater.
+
+Major or Lieutenant—Colonel
+
+£816·24 a year or 28 per cent of the deceased officer's retired pay, whichever is greater.
+
+Colonel
+
+£975·12 a year or 27·5 per cent of the deceased officer's retired pay, whichever is greater.
+
+Major-General or higher rank
+
+£1,083 36 a year or 25·5 per cent of the deceased officer's retired pay, whichever is greater.
+
+"
+
+(2) For purposes of Article 20 (1) of the Principal Scheme, as amended by this Article, a deceased officer's retired pay means—
+
+( a ) in case the officer died while in receipt of retired pay, the retired pay which would be payable to him if the date of his retirement had been the 2nd day of July, 1976, and his appointment, rank, service in that rank and total service were the same as those on the date of his actual retirement,
+
+( b ) in case the officer died before qualifying for retired pay, his accrued retired pay which will be calculated by crediting him with the amount of pensionable service including service in his rank which he would have had if he had served to the retiring age prescribed for his rank, or the age of 65 in the case of a person of higher rank than Major-General, and which will be based on the appropriate rate of retired pay in force on that 1st day of July, 1976, for an officer of his rank and service.
+
+10 Further increase of pensions of certain deceased officers' widows.
+
+10. (1) Article 20 (1) of the Principal Scheme shall, with effect from the 1st day of July, 1977, have effect as if for the Table thereto (inserted by Article 9 of this Scheme) there were substituted the following Table:—
+
+"
+
+TABLE.
+
+Rank
+
+Amount of Pension
+
+Second-Lieutenant or Lieutenant
+
+£547·56 a year or 25 per cent of the deceased officer's retired pay, whichever is greater.
+
+Captain
+
+£671·40 a year or 30 per cent of the deceased officer's retired pay, whichever is greater.
+
+Commandant
+
+£791·64 a year or 31·5 per cent of the deceased officer's retired pay, whichever is greater.
+
+Major or Lieutenant— Colonel
+
+£897·96 a year or 28 per cent of the deceased officer's retired pay, whichever is greater.
+
+Colonel
+
+£1,072·68 a year or 27·5 per cent of the deceased officer's retired pay, whichever is greater.
+
+Major-General or higher rank
+
+£1,191·72 a year or 25·5 per cent of the deceased officer's retired pay, whichever is greater.
+
+"
+
+(2) For purposes of Article 20 (1) of the Principal Scheme, as amended by this Article, a deceased officer's retired pay means—
+
+( a ) in case the officer died while in receipt of retired pay, the retired pay which would be payable to him if the date of his retirement had been the 2nd day of July, 1977, and his appointment, rank, service in that rank and total service were the same as those on the date of his actual retirement,
+
+( b ) in case the officer died before qualifying for retired pay, his accrued retired pay which will be calculated by crediting him with the amount of pensionable service including service in his rank which he would have had if he had served to the retiring age prescribed for his rank, or the age of 65 in the case of a person of higher rank than Major-General, and which will be based on the appropriate rate of retired pay in force on that 1st day of July, 1977, for an officer of his rank and service.
+
+(3) Notwithstanding anything contained in Article 20 (1) of the Principal Scheme, where an officer who—
+
+( a ) died while serving prior to the 23rd day of July, 1968, with five years' pensionable service or more,
+
+( b ) retired prior to the 23rd day of July, 1968, and dies while in receipt of retired pay,
+
+there may be paid to the widow of such deceased officer—
+
+(i) the appropriate amount in the Table to the said Article 20 (1) (as inserted by this Article), or
+
+(ii) an amount equal to two-thirds of the pension which would be payable to her if her deceased husband had been a member of the Contributory Scheme administered by the Minister for the widows and children of officers of the Permanent Defence Force
+
+whichever is the greater.
+
+(4) This Article shall be deemed to have come into effect on the 1st day of July, 1977.
+
+11 Increase of pensions of certain deceased officers' children.
+
+11. Every pension payable under Article 20 (2) of the Principal Scheme to a child of a deceased officer shall, with effect from the 1st day of July, 1976, be increased as follows:—
+
+( a ) while the child's mother is living—to £166.92 a year,
+
+( b ) after the death of the child's mother—to £245.28 a year.
+
+12 Further increase of pensions of certain deceased officers' children.
+
+12. (1) Every pension payable under Article 20 (2) of the Principal Scheme to a child of a deceased officer shall, with effect from the 1st day of July, 1977, be increased as follows:—
+
+( a ) while the child's mother is living—to £183.72 a year.
+
+( b ) after the death of the child's mother—to £269.88 a year.
+
+(2) Notwithstanding anything contained in Article 20 (2) of the Principal Scheme, where an officer who—
+
+( a ) died while serving prior to the 23rd day of July, 1968, with five years' pensionable service or more,
+
+( b ) retired prior to the 23rd day of July, 1968, and dies while in receipt of retired pay,
+
+there may be paid to the child of such deceased officer—
+
+(i) the appropriate amount under sub-article (1) of this Article, or
+
+(ii) an amount equal to two-thirds of the pension which would be payable to the child if the deceased officer had been a member of the Contributory Scheme administered by the Minister for the widows and children of officers of the Permanent Defence Force
+
+whichever is the greater.
+
+(3) This Article shall be deemed to have come into effect on the 1st day of July, 1977.
+
+13 Amendment of Article 19 of the No. 3 Amending Scheme of 1975.
+
+13. The No. 3 Amending Scheme of 1975 is hereby amended by the insertion after Article 19 of the following Article:
+
+"19A. For purposes of Article 20 (1) of the Principal Scheme a deceased officer's retired pay means—
+
+( a ) in case the officer died while in receipt of retired pay, the retired pay which would be payable to him if the date of his retirement had been the 2nd day of July, 1975, and his appointment, rank, service in that rank and total service were the same as those on the date of his actual retirement;
+
+( b ) in case the officer died before qualifying for retired pay, his accrued retired pay which will be calculated by crediting him with the amount of pensionable service including service in his rank which he would have had if he had served to the retiring age prescribed for his rank, or the age of 65 in the case of a person of higher rank than Major-General, and which will be based on the appropriate rate of retired pay in force on the 1st day of July, 1975, for an officer of his rank and service."
+
+14 Increase of pensions under Article 26A or 27A of the Principal Scheme.
+
+14. The pension payable under Article 26A of the Principal Scheme (inserted by Article 22 of the Amending Scheme of 1947) or Article 27A of the Principal Scheme (inserted by Article 24 of the said Amending Scheme of 1947) to a soldier discharged before the 1st day of June, 1976, shall, with effect from the 1st day of July, 1976, be the amount which would be payable to him if the date of his discharge had been the 1st day of June, 1976, and his rank, service in that rank and total service were the same as those on the date of his actual discharge.
+
+15 Further increase of pensions under Article 26A or 27A of the Principal Scheme.
+
+15. The pension payable under Article 26A of the Principal Scheme (inserted by Article 22 of the Amending Scheme of 1947) or Article 27A of the Principal Scheme (inserted by Article 24 of the said Amending Scheme of 1947) to a soldier discharged before the 1st day of April, 1977, shall, with effect from the 1st day of July, 1977, be the amount which would be payable to him if the date of his discharge had been the 1st day of April, 1977, and his rank, service in that rank and total service were the same as those on the date of his actual discharge.
+
+16 Increase of pensions of certain members of the Army Nursing Service.
+
+16. The pension payable under Part IV of the Principal Scheme to a member of the Army Nursing Service who resigned or whose services were terminated with effect from a date prior to the 2nd day of June, 1976, shall, with effect from the 1st day of July, 1976, be the amount which would be payable to her if the effective date of her resignation or of the termination of her services had been the 2nd day of June, 1976, and her rank, service in that rank and total service were the same as those on the actual effective date of her resignation or of the termination of her services.
+
+17 Further increase of pensions of certain members of the Army Nursing Service.
+
+17. The pension payable under Part IV of the Principal Scheme to a member of the Army Nursing Service who resigned or whose services were terminated with effect from a date prior to the 2nd day of April, 1977, shall, with effect from the 1st day of July, 1977, be the amount which would be payable to her if the effective date of her resignation or of the termination of her services had been the 2nd day of April, 1977, and her rank, service in that rank and total service were the same as those on the actual effective date of her resignation or of the termination of her services.
+
+18 Increase of pensions of certain members of the Chaplaincy Service.
+
+18. The pension payable under Part IV A of the Principal Scheme (inserted by Article 12 of the Amending Scheme of 1949), to a member of the Chaplaincy Service whose services were terminated with effect from a date prior to the 2nd day of June, 1976, shall, with effect from the 1st day of July, 1976, be the amount which would be payable to him if the effective date of the termination of his services had been the 2nd day of June, 1976, and his grade of appointment, service in that grade and total service were the same as those on the actual effective date of the termination of his services.
+
+19 Further increase of pensions of certain members of the Chaplaincy Service.
+
+19. The pension payable under Part IV A of the Principal Scheme (inserted by Article 12 of the Amending Scheme of 1949), to a member of the Chaplaincy Service whose services were terminated with effect from a date prior to the 2nd day of April, 1977, shall, with effect from the 1st day of July, 1977, be the amount which would be payable to him if the effective date of the termination of his services had been the 2nd day of April, 1977, and his grade of appointment, service in that grade and total service were the same as those on the actual effective date of the termination of his services.
+
+20 Amendment of Article 20 (1) of the Amending Scheme of 1953.
+
+20. Article 20 (1) of the Amending Scheme of 1953 shall, with effect from the 1st day of July, 1976, have effect as if for the Table thereto (inserted by Article 24 of the No. 3 Amending Scheme of 1975) there were substituted the following Table:—
+
+TABLE.
+
+"Notwithstanding anything to the contrary in Article 38 of the Principal Scheme, no reduction of service pension shall be made under that Article so as to reduce the total of the service pension and the disablement pension to less than the greater of the following amounts:—
+
+( a ) the sum of £1,116 a year,
+
+( b ) the sum of the greater of such pensions and one half the lesser."
+
+21 Further amendment of Article 20 (1) of the Amending Scheme of 1953.
+
+21. Article 20 (1) of the Amending Scheme of 1953 shall, with effect from the 1st day of July, 1977, have effect as if for the Table thereto (inserted by Article 20 of this Scheme) there were substituted the following Table:—
+
+TABLE.
+
+"Notwithstanding anything to the contrary in Article 38 of the Principal Scheme, no reduction of service pension shall be made under that Article so as to reduce the total of the service pension and the disablement pension to less than the greater of the following amounts:—
+
+( a ) the sum of £1,236 a year,
+
+( b ) the sum of the greater of such pensions and one half the lesser."
+
+22 Provision regarding abatement of pensions of soldiers in certain cases.
+
+22. The reference in Article 38 (1) (b) of the Principal Scheme to a pension under Part III of that Scheme, shall, in relation to a soldier discharged before the date of the coming into operation of Article 15 of the Defence Forces (Pensions) (Amendment) Scheme, 1956 ( S.I. No. 35 of 1956 ), be deemed to exclude:—
+
+( a ) £5.19 a week with effect from the 1st day of July, 1975, to the 30th day of June, 1976;
+
+( b ) £5.75 a week with effect from the 1st day of July, 1976, to the 30th day of June, 1977;
+
+( c ) £6.31 a week with effect from the 1st day of July, 1977.
+
+23 Amendment of Article 6 of the No. 3 Amending Scheme of 1974.
+
+23. (1) Article 6 of the Defence Forces (Pensions) (Amendment) (No. 3) Scheme, 1974 ( S.I. No. 231 of 1974 ), is hereby amended by the substitution for sub-article (1) of the following sub-article—
+
+"(1) Notwithstanding anything contained in Article 11A of the Principal Scheme (inserted by Article 10 of the Amending Scheme of 1947) or in Article 20 of the Defence Forces (Pensions) (Amendment) Scheme, 1949 ( S.I. No. 209 of 1949 ),
+
+( a ) where an officer dies while serving in the Forces, there may be paid to a relative of such officer a gratuity of—
+
+(i) a sum equal to the gratuity payable under the said Article 11A or the said Article 20, as the case may be, or
+
+(ii) a sum equal to the aggregate of 365 days of his daily pay at the date of his death, increased, where appropriate, by one-thirtieth of his annual pay at the date of his death for each year of his pensionable service in excess of 30 years but not exceeding 45 years,
+
+whichever is the greater;
+
+( b ) where a special service officer, to whom paragraph 14 (3) (a) of Part III of Defence Force Regulations A15 applies, continues to serve in the Forces beyond the retiring age prescribed by the said Regulations for a line officer of similar rank and description and dies at any time while so serving, there may be paid to a relative of such officer a gratuity equal to one and one-half times the annual rate of his pay at the date of his death."
+
+(2) This Article shall be deemed to have come into effect on the 1st day of October, 1976.
+
+24 Amendment of Article 6 (1) of the No. 3 Amending Scheme of 1972.
+
+24. (1) Article 6 (1) of the Defence Forces (Pensions) (Amendment) (No. 3) Scheme, 1972 ( S.I. No. 306 of 1972 ), is hereby amended by the deletion of the words "whose pensionable service is 5 years or more" and the said Article 6 (1), as so amended, is set out in the Table to this Article.
+
+(2) This Article shall be deemed to have come into effect on the 1st day of October, 1976.
+
+TABLE.
+
+6. (1) Notwithstanding anything contained in Article 42 of the Amending Scheme of 1947, where a soldier dies while serving in the Forces, there may be paid to a relative of such soldier a gratuity of an amount equal to the aggregate of 365 days of his daily pay at the date of his death.
+
+GIVEN under my Official Seal, this 5th day of September, 1977.
+
+ROBERT MOLLOY.
+
+The Minister for the Public Service hereby consents to the foregoing Scheme.
+
+GIVEN under the Official Seal of the Minister for the Public Service,
+
+this 5th day of September, 1977.
+
+SEOIRSE Ó COLLA.
+
+EXPLANATORY NOTE.
+
+This statutory instrument provides for the Budgetary increases effective from 1st July, 1976, and 1st July, 1977, in the pensions of Army personnel (including members of the Nursing and Chaplaincy Services) payable under the Defence Forces (Pensions) Schemes, 1937 to 1977.
+
+It also amends in other respects the Defence Forces (Pensions) Schemes, 1937 to 1977.
