@@ -1,0 +1,3 @@
+Lodgement of money.
+
+25.—Notwithstanding any period of time specified in rules of court for the payment into court, by way of lodgement, of a sum of money in satisfaction of a claim, where an applicant is deemed to have rejected an award in accordance with this Act, the Minister may, within 30 days of such deeming, pay the amount of an award made under this Act into the court concerned in respect of any civil proceedings in which the applicant is a party and which arise out of the same, or substantially the same, acts complained of in the application made by the applicant concerned under this Act.
