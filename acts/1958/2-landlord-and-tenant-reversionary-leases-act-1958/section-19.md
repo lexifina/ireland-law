@@ -1,0 +1,3 @@
+Reversionary lease deemed to be building lease and graft on and continuation of building lease or proprietary lease.
+
+19.— A reversionary lease granted on or after the 31st day of March, 1931, to a building lessee or a proprietary lessee, whether granted on terms settled by the Court or negotiated between the parties, shall be deemed to be a building lease and to be a graft for all purposes on, and a continuation of, the building lease or proprietary lease (as the case may be) under which the person to whom the reversionary lease is granted previously held the land comprised in the reversionary lease, and the lessee's interest under the reversionary lease shall be subject to any rights or equities arising from that lease being such graft.
