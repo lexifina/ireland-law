@@ -1,0 +1,3 @@
+Amendment of section 9 of Principal Act.
+
+6.—Section 9 of the Principal Act is hereby amended by the substitution of “in respect of Hepatitis C or HIV and may by regulations amend or modify this Act for the purpose of enabling this Act to apply appropriately to the class or classes so extended” for “in respect of Hepatitis C and in so doing may by regulations amend or modify this Act to make such incidental or consequential change necessary to give effect to the extension or so that the extension complies with the provisions of this Act” (inserted by the Hepatitis C Compensation Tribunal Act, 1997, (Section 13) (No. 2) Regulations 1998 (S.I. No. 417 of 1998).

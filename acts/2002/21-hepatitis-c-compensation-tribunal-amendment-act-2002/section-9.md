@@ -1,0 +1,3 @@
+Power to remove difficulties.
+
+9.—If in any respect any difficulty arises during the period of 12 months from the commencement of a provision of this Act or an amendment of another Act effected by this Act in bringing the provision or amendment into operation, the Minister may by regulations do anything which appears to be necessary or expedient for bringing the provision or amendment into operation and regulations under this section may, in so far only as may appear necessary for carrying the regulations into effect, modify a provision of this Act or such an amendment if the modification is in conformity with the purposes, principles and spirit of this Act.
