@@ -1,0 +1,3 @@
+Contravention of term or condition of investment, loan, grant or guarantee.
+
+9.—Where a term or condition subject to which an investment, grant, loan or guarantee made or given by the Board under this Act is contravened by the person to whom or on whose behalf the investment, grant, loan or guarantee is made or given, any amount owed to the Board in respect of the investment, grant, loan or guarantee (together with the interest payable on it) shall, if the Board requests repayment of the whole or part of the amount, be deemed, to the extent of the request, to be a debt payable forthwith to the Board and may, to that extent, be recovered by it as a simple contract debt in any court of competent jurisdiction.
