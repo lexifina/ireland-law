@@ -1,0 +1,5 @@
+Confirmation of an Agreement.
+
+9.—(1) The Agreement for a Lease (in this section referred to as the Agreement) dated the 1st day of August, 1923 made between the Minister of Local Government of the one part and Andrew A. Watt and Company, Limited, of the other part, whereby the said Minister agreed to grant and the said Andrew A. Watt and Company, Limited, agreed to take a lease of the premises therein described as “the premises comprising the Infirmary Buildings with the yard and private road thereunto, which premises are hereinafter called the said premises, being part of the old Letterkenny Workhouse, and are situate in the town of Letterkenny and county of Tirconnail,” for a term of twenty-five years from the 1st day of August, 1923 at the yearly rent of £100 is hereby confirmed, and shall be and be deemed always to have been valid and good.
+
+(2) The Minister is hereby authorised and empowered to make a lease of the premises the subject of the Agreement in accordance with the terms of the Agreement, and section 4 (which relates to the laying of statements of leases or licences before the Oireachtas) of this Act shall not apply to the making of such lease.

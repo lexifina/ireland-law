@@ -1,0 +1,3 @@
+Application of moneys received under this Act.
+
+10.—All moneys received by either the Minister, a local authority or the council of a county under this Act in respect of any land shall be applied by the Minister or such local authority or council (as the case may be) in discharge of any debts, liabilities, outgoings or expenses payable by the Minister or such local authority or council in respect of such land and any other land held under the same title, and, in so far as the same may not be required for the discharge of such debts, liabilities, outgoings and expenses, in aid of the expenses incurred in the relief of the poor in the functional area of the local authority in whose functional area such land is situate.
