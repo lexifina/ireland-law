@@ -1,0 +1,11 @@
+S.I. No. 78 of 1970.
+
+MINES (SURVEYORS AND PLANS) REGULATIONS, 1970.
+
+ARRANGEMENT OF REGULATIONS.
+
+PART I.
+
+Preliminary and General.
+
+Regulation
