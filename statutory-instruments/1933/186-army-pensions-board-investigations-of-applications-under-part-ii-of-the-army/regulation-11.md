@@ -1,0 +1,9 @@
+Regulation 11
+
+11. Were there any special circumstances connected with this case which the Board consider should be taken into consideration by the Minister ? (Note Section 10 (5) of the Army Pensions Act, 1932 .)
+
+............................................................ .................
+
+............................................................ .................
+
+............................................................ .................
