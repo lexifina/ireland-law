@@ -1,0 +1,3 @@
+WHEREAS the State has been authorised under the Decision of the Commission of the European Economic Communities dated the 20th day of December, 1979 (No. 80/47/EEC (1)), and by the Decision of that Commission dated the 29th day of August, 1983 (No. 83/451/EEC (2)), to take the surveillance measures hereinafter specified (the conditions and details of which the Commission has determined in those Decisions):
+
+NOW, I, FRANK CLUSKEY, Minister for Trade, Commerce and Tourism, in exercise of the power conferred on me by section 3 of the European Communities Act, 1972 (No. 27 of 1972), hereby make the following Regulations:
