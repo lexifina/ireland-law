@@ -1,0 +1,7 @@
+Washing facilities.
+
+20.—(1) There shall be provided and maintained for the use of employed persons adequate and suitable facilities for washing and the facilities shall be conveniently accessible and shall be kept in a clean and orderly condition.
+
+(2) The Minister, after consultation with the Minister for Health, may, by regulations, prescribe, either generally or as respects any class or description of office or any particular kind of work, a standard of adequate and suitable washing facilities.
+
+(3) The Minister, after consultation with the Minister for Health, may, by regulations, provide for the exemption of offices from any of the requirements of this section in cases where, by reason of the difficulty of obtaining an adequate supply of water, or the fact that accommodation is restricted and adequate and suitable washing facilities are otherwise conveniently available or such other special circumstances as may be specified in the regulations, the application of the requirement would in his opinion be unreasonable.
