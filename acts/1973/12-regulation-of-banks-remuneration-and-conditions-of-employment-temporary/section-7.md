@@ -1,0 +1,3 @@
+Offences in relation to bodies corporate and unincorporated bodies of persons.
+
+7.—Where an offence under this Act is committed by a body corporate or by a person purporting to act on behalf of a body corporate or an unincorporated body of persons and is proved to have been so committed with the consent or approval of, or to have been facilitated by any neglect on the part of, any person, being a director, member of the committee of management or other controlling authority thereof, or manager, secretary, or other officer thereof, that person shall also be deemed to have committed the offence and shall be liable to be proceeded against and punished accordingly.
