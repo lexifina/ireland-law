@@ -1,0 +1,3 @@
+Punishment of certain offences.
+
+6.—In lieu of section 52 (repealed by this Act) of the Offences against the Person Act, 1861, as amended by section 19 of the Criminal Law Amendment Act, 1885, it is hereby enacted that whosoever shall be convicted of any indecent assault upon any female shall be liable, in the case of a first conviction of any such offence, to imprisonment for any term not exceeding two years, and in the case of a second or any subsequent conviction of any such offence, to penal servitude for any term not exceeding five years nor less than three years or imprisonment for any term not exceeding two years.

@@ -1,0 +1,7 @@
+Defilement of girl between fifteen and seventeen years of age.
+
+2.—(1) Any person who unlawfully and carnally knows any girl who is of or over the age of fifteen years and under the age of seventeen years shall be guilty of a misdemeanour and shall be liable, in the case of a first conviction of such misdemeanour, to penal servitude for any term not exceeding five years nor less than three years or to imprisonment for any term not exceeding two years or, in the case of a second or any subsequent conviction of such misdemeanour, to any term of penal servitude not exceeding ten years nor less than three years or to imprisonment for any term not exceeding two years.
+
+(2) Any person who attempts to have unlawful carnal knowledge of any girl who is of or over the age of fifteen years and under the age of seventeen years shall be guilty of a misdemeanour, and shall be liable, in the case of a first conviction of such misdemeanour, to imprisonment for any term not exceeding two years or, in the case of a second or any subsequent conviction of such misdemeanour, to penal servitude for any term not exceeding five years nor less than three years or to imprisonment for any term not exceeding two years.
+
+(3) No prosecution for an offence which is declared by this section to be a misdemeanour shall be commenced more than twelve months after the date on which such offence is alleged to have been committed.
