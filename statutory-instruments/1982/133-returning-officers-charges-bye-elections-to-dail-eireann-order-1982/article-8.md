@@ -1,0 +1,3 @@
+Services of Returning Officers in Uncontested Elections.
+
+8. One-third of the appropriate fee mentioned in paragraph 4 of this Scale. ... ... ... ... ... ...
