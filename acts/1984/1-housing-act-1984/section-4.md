@@ -1,0 +1,3 @@
+Amendment of section 60 of Principal Act.
+
+4.—The duty of a housing authority to have regard to the primary objectives specified in subsection (3) of section 60 of the Principal Act in making or amending a scheme under that section shall be deemed to include, and always to have included, a power to have regard, to such extent (if any) as the authority consider appropriate, to the following primary objective, that is to say, the provision of adequate and suitable housing accommodation for persons seeking such accommodation, being persons who are residing outside the functional area of the authority and who, in the opinion of the authority, are in need of and are unable to provide such accommodation from their own resources.

@@ -1,0 +1,3 @@
+Amendment of section 55 of Principal Act.
+
+3.—The duty of a housing authority to have regard to the objectives specified in subsection (3) of section 55 of the Principal Act in preparing a building programme under that section shall be deemed to include, and always to have included, a power to have regard, to such extent (if any) as the authority consider appropriate, to the following objective, that is to say, the provision of adequate housing accommodation to meet needs arising from the demand of persons who are residing outside the functional area of the authority for housing, and the reference in subsection (1) of that section to the housing needs of the functional area of the authority shall be construed and have effect accordingly.
