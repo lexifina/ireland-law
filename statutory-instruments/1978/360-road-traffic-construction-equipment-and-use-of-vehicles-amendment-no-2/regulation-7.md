@@ -1,0 +1,3 @@
+Regulation 7
+
+7. Where a person has been found not to have complied with article 5 (1) of these Regulations and the person on being so found produces to a member of the Garda Síochána or within one month of being so found produces to a member of the Garda Síochána at a Garda Station, a certificate of a registered medical practitioner that, because of physical or mental disability or for medical or psychological reasons, it was undesirable or inadvisable for the person to wear a safety belt on the occasion in question, the person shall not be regarded as having been in breach of the requirements of that sub-article.
