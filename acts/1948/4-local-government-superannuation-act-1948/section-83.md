@@ -1,0 +1,5 @@
+Civil servant becoming officer of local authority.
+
+83.—(1) Where an allowance, lump sum or gratuity is payable under this or any other Act to or in respect of a person and, in determining the amount of the payment, any period of service by such person in an established position in the civil service has been reckoned, the Minister for Finance may determine what part or parts of the payment shall be borne by the State and thereupon the part or parts so determined may be refunded to the local authority out of moneys provided by the Oireachtas.
+
+(2) Where, under the Superannuation Acts and under the enactments (including this Act) relating to the grant to officers of local authorities of superannuation or compensation for loss of office, the benefits accruing or the conditions qualifying persons for benefit are different, the Minister, with the consent of the Minister for Finance, may determine that, for any particular case in which service in the civil service is to be reckoned, in calculating the amount of such a grant specified modifications shall be made in such amount, and the modifications so determined shall be made accordingly.

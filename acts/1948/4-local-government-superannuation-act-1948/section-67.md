@@ -1,0 +1,3 @@
+Variation of part of allowance granted to established officer or servant in receipt of bonus.
+
+67.—Where part of the remuneration, at the time he ceases to hold his office or employment, of an established officer or servant consists of bonus computed by reference to a cost-of-living index number, the part of any allowance granted to him under this Act which is referable to such bonus shall be liable to the same variation, if any, which would have applied in the case of a super-annuation allowance granted to a civil servant similarly remunerated who retired before the 1st day of November, 1946.
