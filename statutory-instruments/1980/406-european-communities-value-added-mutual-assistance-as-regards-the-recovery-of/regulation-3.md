@@ -1,0 +1,3 @@
+Regulation 3
+
+3. The amount of value-added tax specified in any request duly made pursuant to the Council Directive by an authority in another Member State for the recovery in the State of any amount claimed by that authority in such Member State pursuant to a claim referred to in Article 2 of the said Directive shall be recoverable in any court of competent jurisdiction by the Minister for Finance and for the purposes of the foregoing the amount shall be regarded as being a debt due to the Minister for Finance, by the person against whom the claim is made by such authority, in respect of a duty or tax under the care and management of the Revenue Commissioners or a simple contract debt due by such person to the aforesaid Minister, as may be appropriate.
