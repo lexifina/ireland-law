@@ -1,0 +1,3 @@
+Provisions in relation to existing staff.
+
+10.—Every person who immediately before the passing of this Act was either a member of the staff of the Houses of the Oireachtas (within the meaning of subsection (1) of section 1 of the Eegulation Act as originally enacted) or an officer of the Houses of the Oireachtas (within the meaning of subsection (1) of section 1 of the Regulation Act, as originally enacted) shall on the passing of this Act become and be a member of the staff of the Houses of the Oireachtas and shall be deemed to have been appointed under this Act to a position corresponding to that held by him immediately before such passing.
