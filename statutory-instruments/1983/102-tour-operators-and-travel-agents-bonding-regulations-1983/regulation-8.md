@@ -1,0 +1,3 @@
+Regulation 8
+
+8. Notwithstanding the generality of Articles 6 and 10 of these Regulations, where a new bond which comes into effect before or from the date after which the current bond ceases to have effect, is provided, or procured, by a licensee, the existing bond shall cease to be effective from the date of commencement of such new bond, and any losses or liabilities incurred by customers of the licensee as a result of the inability or failure of such licensee to meet his financial or contractual obligations to customers in relation to an overseas travel contract, shall fall to be discharged from monies payable under the new bond.

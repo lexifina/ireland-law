@@ -1,0 +1,3 @@
+Regulation 6
+
+6. The Bond shall be maintained for the period of validity of a licence or, if such licence is revoked by the Minister for any reason prior to its date of expiry, up to the date of such revocation, and the date of expiry or revocation shall be without prejudice to any liability which may be incurred under the Bond in respect of any obligations to customers arising under overseas travel contracts to which these Regulations apply, entered into during the period of validity of the licence, or a previous licence which expired immediately prior to the commencement of the licence period to which the current Bond relates.
