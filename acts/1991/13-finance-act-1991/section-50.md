@@ -1,0 +1,9 @@
+Amendment of section 15 (inspector's right to make enquiries and amend assessments) of Finance Act, 1988.
+
+50.—Section 15 of the Finance Act, 1988, is hereby amended by the insertion in subsection (1) of “or, as respects capital gains tax, chargeable gains,” after “income, profits or gains”, and the said subsection (1), as so amended, is set out in the Table to this section.
+
+TABLE
+
+(1) For the purpose of making an assessment on a chargeable person for a relevant chargeable period or for the purpose of amending such an assessment, the inspector may accept either in whole or in part any statement or other particular contained in a return delivered by the chargeable person for that chargeable period and he may assess any amount of income, profits or gains or, as respects capital gains tax, chargeable gains, or allow any deduction, allowance or relief by reference to such statement or particular; but the making of an assessment or the amendment of an assessment by reference to any such statement or particular contained in the chargeable person's return shall not preclude the inspector from making suchenquiries or taking such actions, within his powers, as he considers necessary to satisfy himself as to the accuracy or otherwise of that statement or particular and, subject to section 14 (2), shall not preclude the inspector from amending or further amending an assessment in such manner as he considers appropriate:
+
+Provided that any such enquiries and any such actions shall not be made in the case of any chargeable person for any relevant chargeable period at any time after the expiry of the period of 6 years commencing at the end of the chargeable period in which the chargeable person has delivered a return for the relevant chargeable period unless at that time the inspector has reasonable grounds for believing that the return is insufficient due to its having been completed in a fraudulent or negligent manner.
