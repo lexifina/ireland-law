@@ -1,0 +1,3 @@
+Bye-laws by essential undertakers.
+
+42.—Where an essential undertaker is by any Act or statutory order authorised to make bye-laws for or in relation to the care and management of the undertaking such undertaker may, with the consent of the Minister and the concurrence of the Minister for Industry and Commerce, make bye-laws in relation to any functions imposed on such undertaker by this Part of this Act or any air-raid precautions (essential undertaker's) scheme, and such bye-laws may provide for a penalty for the breach thereof of an amount not exceeding the maximum amount specified in that regard in the statute or order under which the bye-laws of such undertaker generally are made.

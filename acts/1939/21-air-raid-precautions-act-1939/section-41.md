@@ -1,0 +1,5 @@
+Penalty for default by essential undertakers and their officers and servants.
+
+41.—(1) If any essential undertaker fails to comply with any of the obligations imposed on him, or to perform any of the functions assigned to him, by or under this Part of this Act, such essential undertaker shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to a fine not exceeding one hundred pounds, and if the failure in respect of which such essential undertaker was so convicted continues after the conviction such essential undertaker shall be liable on summary conviction to a fine not exceeding fifty pounds for each day on which the offence continues.
+
+(2) If any officer or servant of an essential undertaker fails to comply with any of the obligations imposed on him, or to perform any of the functions assigned to him, by or under this Part of this Act, such officer or servant shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds or, at the discretion of the court, to imprisonment for any term not exceeding three months.

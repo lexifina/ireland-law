@@ -1,0 +1,23 @@
+Compensation where works are executed.
+
+24.—(1) Where works are executed under the immediately preceding section in or on any premises, building or land by a scheme-making local authority, the occupier of the premises, building or land shall be entitled to recover from such authority the damage he has sustained by reason of any interference with his use of the premises, building or land during the execution of the works.
+
+(2) Where by reason of the execution of any works under the immediately preceding section, the usefulness of any premises, building or land is impaired, the scheme-making local authority executing such works shall pay as compensation to the person who from time to time is the occupier of the premises, building or land, periodical sums, payable quarterly in arrear, calculated by reference to the diminution of the annual value of the premises, building or land, as the case may be, ascribable to the said impairment of the usefulness thereof.
+
+In this sub-section—
+
+the expression “annual value” means, in relation to any premises, building or land, the rent at which it is estimated that the premises, building or land might reasonably be expected to let from year to year if the tenant undertook to pay the usual tenant's rates and taxes and if the landlord undertook to bear the costs of the repairs and insurance and the other expenses, if any, necessary to maintain the premises, building or land in a state to command that rent, such adjustments being made as appear necessary to eliminate any appreciation due to the fact that the premises, building, or land are or can be made suitable for use in the event of hostile attack and any depreciation due to the fact that the premises, building or land are likely to be required for use in that event;
+
+the expression “diminution in the annual value” means, in relation to the impairment of the usefulness of any premises, building or land by reason of the execution of works, the amount by which the annual value of the premises, building or land is less than it would be if the works had not been executed;
+
+(3) Where the designated premises in or in connection with which works were executed under the immediately preceding section cease to be designated premises, the payments provided for by sub-section (2) of this section shall cease to be payable, but the occupier of the premises, building or land in or on which the works were executed may at any time require the scheme-making local authority executing such works to restore the premises, building or land to the condition in which they would be but for the execution of the works, and if such authority do not within a reasonable time comply with the requirement, they shall pay by way of compensation to every person having any estate or interest in the premises, building or land in or on which the works were executed, a sum equal to the depreciation in the value of the estate or interest of that person owing to the execution therein of the works.
+
+(4) The following provisions shall apply in respect of the determination of claims to compensation under this section—
+
+(a) any question whether any, and if so what, compensation is payable under this section shall be referred to and determined by such one or more of the official arbitrators appointed for the purposes of the Acquisition of Land (Assessment of Compensation) Act, 1919, as amended by the Acquisition of Land (Reference Committee) Act, 1925 (No. 22 of 1925), as may be selected by the Reference Committee thereunder;
+
+(b) the said Reference Committee may make rules with respect to the references of questions under this section and, with the consent of the Minister for Finance, may prescribe the fees to be paid in connection with any proceedings for the determination of any such question;
+
+(c) subject to any such rules, the arbitrator shall before deciding any question as to any of the matters aforesaid direct such inquiries, if any, to be made and such notices, if any, whether by way of advertisement or otherwise, to be given to such of the persons who appear to be affected by the decision of the question, as he may think fit, and his decision upon any such question shall be binding on all persons whether or not those persons are parties to the proceedings or have been served with notices;
+
+(d) subject to the preceding provisions of this section, the official arbitrator by whom any question which may be referred under this section is determined, shall have the like powers with respect to procedure (including the hearing of claims and objections together) costs and the statement of special cases, as he has under the Acquisition of Land (Assessment of Compensation) Act, 1919.
