@@ -1,0 +1,7 @@
+Regulation 5
+
+5. (1) In order that on importation goods, of a kind mentioned in the Schedule to the Principal Order at a tariff heading number specified in column 1 of the Schedule to these Regulations and of the description mentioned in column 2 of the last-mentioned Schedule at that tariff heading number (being, in the case of goods mentioned in Part I, of that Schedule, yarns, woven fabrics and articles made of woven fabrics containing more than 50 per cent. by weight of cotton, or, in the case of goods mentioned in Part II of that Schedule, woven fabrics and articles made of woven fabrics, the cotton content of which exceeds 50 per cent. by weight of the total textile fabric content) may be treated for the purposes of the Principal Order as goods manufactured in the United Kingdom, the goods, in addition to complying with the relevant conditions specified in the Order of 1966, shall comply with the following condition, namely,
+
+in respect of any yarn, grey cloth or finished cloth imported into the United Kingdom and contained in the goods, duty has been paid at a rate not less than the rate shown in the Customs and Excise Tariff of the United Kingdom as applicable to those goods at the time of their importation and has not been or will not be drawn back, remitted or repaid.
+
+(2) For the purposes of this paragraph any yarn or fabric which was landed in the United Kingdom before the 1st day of April, 1972, shall be deemed to have borne duty at the rate referred to in subparagraph (1) of this paragraph.
