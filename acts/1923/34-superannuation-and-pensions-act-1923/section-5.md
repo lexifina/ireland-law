@@ -1,0 +1,7 @@
+Grant of pensions, &c., to members of the Royal Irish Constabulary, who resigned or were dismissed on account of their national sympathies.
+
+5.—(1) The Minister for Finance may from time to time by Order authorise the grant of pensions, allowances, or gratuities to persons who resigned or were dismissed from the Royal Irish Constabulary on or after the 1st day of April, 1916, and before the 6th day of December, 1921, and whose resignations or dismissals from that force are certified under the hands of the Ministers for Home Affairs and Finance to have been caused by their national sympathies, and may by any such order regulate and appoint the rates and scales of such pensions, allowances, or gratuities, and the conditions under which the same are to be payable, and may by any such Order prescribe the penalties for any fraudulent conduct in relation to an application for any such pension, allowance, or gratuity.
+
+(2) No Order made under this section shall come into operation unless and until it has been laid before each House of the Oireachtas, and approved by resolution of Dáil Eireann, and when considering any such resolution Dáil Eireann shall duly consider any recommendation which shall have been previously made by Seanad Eireann in respect of such Order.
+
+(3) No person shall be entitled to receive any pension, allowance or gratuity under this section unless money for the payment thereof shall have been voted by the Oireachtas.
