@@ -1,0 +1,5 @@
+Regulation 25
+
+25. In any case in which a trader disputes the interpretation by an Inspector of these Regulations, or questions the procedure adopted as to the method of testing and verifying, the Inspector shall notify the trader of his right of appeal to the Minister under sub-section 1 of Section 7 of the Act of 1904. Should the trader notify the Inspector of his intention to exercise the right of appeal, the Inspector and the trader shall jointly seal the article which forms the subject of such contention in such manner as to prevent interference therewith, pending the decision of the Minister.
+
+Where in the case of proceedings before a Court it is decided by the Court to refer to the Minister, as provided by sub-section (2) of Section 7 of the Act of 1904, the question of the accuracy or efficiency of any weight, measure, or instrument, the accuracy or efficiency of which is disputed, the Inspector shall make application for the retention of the weight, measure, or instrument in the custody of the Court pending submission to the Minister.

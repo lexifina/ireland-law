@@ -1,0 +1,3 @@
+Regulation 56
+
+56. A weighing instrument of the vibrating type shall be tested for sensitiveness by loading the instrument with the maximum testing load, with the beam or steelyard in a horizontal position, and ascertaining that it moves with the addition of the amount prescribed in Schedule II. for sensitiveness. No test for sensitiveness at a lower load shall be made. For beam scales, the addition of this amount on either side shall cause a movement of the beam that can be detected. For other vibrating instruments the addition of this amount shall cause the beam or steelyard to rise or fall to the limit of its range of movement.

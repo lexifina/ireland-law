@@ -1,0 +1,7 @@
+Regulation 62
+
+62. The error permissible on the verification of any weighing instrument of the self-indicating or semi-self-indicating type, shall not exceed the weight corresponding to one-half of the smallest interval between consecutive graduations on the weight-indicating scale ; but the permissible error shall not in any case exceed the allowance specified in Schedule II. for the particular capacity and class of instrument concerned: Provided that where the weight corresponding to one-half of the smallest interval between consecutive graduations, is less than 50 per cent. of the allowance permitted under the appropriate Table of Schedule II., such allowance shall not be reduced by more than 50 per cent.
+
+Any self-indicating or semi-self-indicating machine, which has been or is stamped prior to the 1st January, 1929, and on which the indications are ascertained to be correct within the appropriate allowances prescribed under Schedule II., may be continued in use and be re-stamped by an Inspector up to the 31st day of December, 1938, subject to compliance with the other requirements of the Regulations applicable to such machine.
+
+In addition to the tests prescribed for a weighing instrument at full load, the Inspector shall, on the examination of a self-indicating or semi-self-indicating weighing machine, test each denominated graduation individually; the allowance for such test being, as far as is practicable, the calculated proportion of the allowance prescribed in Schedule II., with respect to the particular type of instrument.

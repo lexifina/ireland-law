@@ -1,0 +1,5 @@
+Regulation 128
+
+128. Every instrument for the measurement of liquid fuel, whether certified or licensed, shall be tested in actual working conditions with the fuel that is intended to be delivered in trade. The person having an instrument in his possession for trade shall permit the Inspector to use a sufficient quantity of liquid fuel for the test, and in the event of refusal of compliance with this requirement the Inspector, on verification, shall decline to stamp the instrument or, on inspection, shall obliterate the stamp : Provided that any fuel used by the Inspector under this regulation shall be returned on completion of the test, and a receipt therefor obtained by the Inspector.
+
+Before passing any instrument as accurate, the Inspector shall ascertain that it complies with (a) the requirements of these Regulations, (b) the conditions of the notice accompanying the certificate given under Section 6 of the Act of 1904, or alternatively, the conditions of the licence, and (c) any supplemental conditions that may be laid down by the Minister under special circumstances ; and also that it operates within the allowances for error permitted under Schedule II.
