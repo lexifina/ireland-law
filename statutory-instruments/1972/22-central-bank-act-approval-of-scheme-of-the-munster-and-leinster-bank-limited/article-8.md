@@ -1,0 +1,5 @@
+Article 8
+
+8. (a) The trustees of the pension scheme of the Transferor called "The Munster and Leinster Bank Pension Fund" shall transfer the whole of the property and assets of the said scheme to the corresponding pension or superannuation scheme of the Transferee called "The Allied Irish Banks Pension Fund" and sign, seal, execute, perform and do all such documents, acts and things as may be necessary or desirable to implement such transfer; and upon the completion of such transfer the pension scheme of the Transferor called "The Munster and Leinster Bank Pension Fund" shall be terminated and dissolved.
+
+(b) Pending the establishment by the Transferee of a Scheme which will provide benefits not less favourable than those arising under the existing Widows' and Orphans' Scheme of the Transferor, the rights of all persons entitled to benefit under the said Widows' and Orphans' Scheme of the Transferor shall continue and be preserved under such scheme notwithstanding the transfer from the service or employment of the Transferor effected or deemed to be effected under the foregoing scheme of transfer by virtue of section 38 of the Central Bank Act, 1971 .
