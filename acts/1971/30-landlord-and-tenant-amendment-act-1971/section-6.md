@@ -1,0 +1,5 @@
+Rent under sporting lease.
+
+6.—(1) Where the rent under a sporting lease is to be determined by the Court, the Court shall fix a fair rent for the grant of a lease of the property for the purpose of carrying on the sport.
+
+(2) In fixing the rent the Court shall have regard to the general intention of this Act in relation to sports clubs which is the advancement of outdoor sports, games and recreations and the preservation of open spaces for the common good and, without prejudice to such other considerations as it considers relevant, may take into account the rent or other sum previously paid for the property by the sports club and any covenants and conditions under which it was so paid, to the rent paid by other sports clubs of the same kind in the same or a comparable locality, to the contribution made by the sports club to the enhancement of the property, and to the price paid by any person who is a necessary party to the granting of the lease in the acquisition of his estate or interest.
