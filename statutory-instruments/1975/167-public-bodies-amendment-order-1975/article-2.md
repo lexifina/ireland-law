@@ -1,0 +1,3 @@
+Article 2
+
+2. In this Order the expression "the Principal Order" means the Public Bodies Order, 1946 (S.R. and O. 1946. No. 273), as amended by the Public Bodies (Temporary Provisions) Order, 1947 (S. R. and O. 1947. No. 367), the Public Bodies (Temporary Provisions) Order, 1954 ( S.I. No. 232 of 1954 ), the Public Bodies (Temporary Provisions) Order, 1955 ( S.I. No. 155 of 1955 ), the Public Bodies (Temporary Provisions) Order, 1960 ( S.I. No. 174 of 1960 ) and the Exchequer and Local Financial Years Act, 1974 (Adaptation of Local Government Enactments and Statutory Instruments) Order, 1974 ( S.I. No. 323 of 1974 ).
