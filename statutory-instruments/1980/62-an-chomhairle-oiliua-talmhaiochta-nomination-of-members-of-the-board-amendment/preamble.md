@@ -1,0 +1,1 @@
+I, RAY MACSHARRY, Minister for Agriculture, in exercise of the power conferred on me by section 3 (2) of the National Agricultural Advisory, Education and Research Authority Act, 1977 (No. 13 of 1977), hereby order as follows:
