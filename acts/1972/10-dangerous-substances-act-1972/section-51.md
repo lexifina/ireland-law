@@ -1,0 +1,3 @@
+Exemption of carrier and owner and master of vessel where consignee, etc. in fault.
+
+51.—Where a carrier or the owner of any vehicle or master of any vessel is prevented from complying with this Act by the wilful act, neglect, or default of the consignor or consignee of any substance to which this Act applies, or other person, or by the improper refusal of the consignee or other person to accept delivery of the substance, the consignor, consignee, or other person who is guilty of the wilful act, neglect, default, or refusal shall be liable to the same penalty to which the carrier, owner, or master is liable for a contravention of this Act, and the carrier, owner, or master shall be exempt from any penalty or forfeiture under this Act.

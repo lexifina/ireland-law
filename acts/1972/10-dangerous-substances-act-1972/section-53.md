@@ -1,0 +1,3 @@
+Power of court to order cause of contravention to be remedied.
+
+53.—Where a person is convicted of an offence under this Act, the court may, in addition to or instead of inflicting a fine, order him, within the time specified in the order, to take such steps as may be so specified for remedying the matters in respect of which the contravention occurred, and may, on application, enlarge the time so specified, and he shall not be liable under this Act in respect of the continuation of the contravention during the time so allowed, but if, after the expiration of that time, the order is not complied with, he shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding twenty pounds for every day on which the non-compliance continues.

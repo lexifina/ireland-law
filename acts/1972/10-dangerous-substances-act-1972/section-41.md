@@ -1,0 +1,3 @@
+Power of inspector to require remedy for immediate or apprehended danger.
+
+41.—If an inspector is of opinion that any premises to which the provisions of this Act apply or any part thereof or any things or practices at the premises or connected with the control or management thereof are or are likely shortly to become dangerous to person or property, he may serve on the responsible person a notice stating that he is of that opinion and giving particulars of the reason why he is of that opinion, and imposing upon the responsible person such prohibitions or restrictions or requirements (of whatsoever kind) as appear to the inspector to be necessary for the purpose of safeguarding persons or property.
