@@ -1,0 +1,155 @@
+Article 3
+
+3. The provisions set out in the Schedule hereto shall have effect as from the 14th day of March, 1977, and as from that date the said Order shall be revoked.
+
+SCHEDULE.
+
+PART I.
+
+Statutory Minimum Time-Rates for all workers.
+
+SECTION I.—The Minimum Time-Rates for Managers or Supervisors.
+
+Per Week
+
+£48.30
+
+A Manager or Supervisor employed on piece-work must be paid at not less than the statutory minimum time-rate in any case where his/her earnings on piece-work are less than such rate.
+
+SECTION II.—The Minimum Time-rates for all Workers (other than Managers or Supervisors) shall be:—
+
+£
+
+For Workers of 21 years of age and upwards
+
+43.47
+
+For Workers of 20 and under 21 years of age
+
+39.12
+
+For Workers of 19 and under 20 years of age
+
+34.78
+
+For Workers of 18 and under 19 years of age
+
+30.43
+
+For Workers of 17 and under 18 years of age
+
+26.08
+
+For Workers of 16 and under 17 years of age
+
+21.74
+
+For Workers of 15 and under 16 years of age
+
+17.39
+
+SECTION III—Provision for Late Entrants.
+
+Persons entering the Trade for the first time having reached the age of 16 years shall not be entitled to demand the minimum rate applicable to their age until they have had six months' experience in the trade. During this period they shall receive a commencing rate not less than 60% of the minimum rate otherwise applicable.
+
+PART II.
+
+Operatives on Piece-Work.
+
+An employer may at his discretion introduce piece-work into his firm for periods of not less than one week at a time. If a worker is paid on the basis of piece-work his rate of pay shall be at least 25% above the general minimum time-rate. If a worker who is normally employed on piece-work ceases to be so employed he shall be paid at a rate of not less than the general minimum time-rate which in these circumstances shall be the piece-work basis time rate.
+
+PART III.
+
+SECTION I—-Normal Working Hours and Overtime Rates.
+
+The normal number of hours to be worked by workers in relation to whom the Committee operates shall be as follows:—
+
+In any week
+
+40
+
+On any day other than the Short Day, not exceeding
+
+8
+
+On the Short Day not exceeding
+
+4
+
+SECTION II.—The Minimum Rate for Overtime to apply in respect of hours worked by a worker, whether employed on Time-work or on Piece-work, in excess of the declared normal number of hours of work shall be as follows:—-
+
+One and a half times the Minimum
+
+Rate otherwise applicable i.e. time—
+
+and-a-half.
+
+SECTION III.—Workers who qualify for payment under the Holidays (Employees) Act, 1973 , shall be paid for all time worked on a Public Holiday, at a rate of not less than three times the normal rate, subject to a minimum payment for four hours, or at a rate of not less than twice the normal rate plus one day in lieu, subject to the provision that such workers will be remunerated at not less than that provided by the Holidays Employees Act, 1973 .
+
+PART IV.
+
+Definition of Workers.
+
+SECTION I.—A Manager or Supervisor (Male or Female).
+
+A Manager or Supervisor (male or female) is a worker (a) who exercises sole supervising authority over all workers exceeding three in number (excluding the said manager or Supervisor) working in the same shop or department or (b) who (whether working alone or with any other worker) under the terms of his/her employment, in addition to any work which may be required of him/her, fits up or supervises the fitting-up of the work and has control of the repairing or making and technical direction thereof.
+
+SECTION II.—Trade.
+
+The above Statutory Minimum Remuneration shall be payable subject to the provisions of the Industrial Relations Act, 1946 , and of this Schedule, to all workers specified in this Schedule in respect of any time during which they are employed in any Branch of the Trade specified in the Trade Board's (Boot and Shoe Repairing) Order, 1919, that is to say, the repairing wherever carried on of boots, shoes, slippers and all kinds of footwear, including the making of bespoke handsewn riveted or pegged footwear, but excluding the manufacture of footwear on a large scale, the repairing of saddlery and leather goods other than footwear, and the retailing of footwear.
+
+PART V.
+
+Waiting time.
+
+A worker must be paid not less than the appropriate Minimum Rate in respect of all time during which he is present on the employer's premises unless the employer can prove that such worker was so present (a) without the employer's consent, express or implied, or (b) for some purpose unconnected with his work and other than waiting for work to be given to him to perform or unless the worker was present (c) only by reason of the fact that he was resident on the premises or (d) during normal meal hours in a room or place in which no work is being done.
+
+A worker employed on piece-work is deemed during "waiting time" to have been employed at the General Minimum Time-Rate applicable.
+
+PART VI.
+
+Annual Holidays.
+
+Annual Holidays shall be in accordance with the Holidays (Employees) Act, 1973 .
+
+PART VII.
+
+Service Pay.
+
+Male and Female Workers who have been in continuous employment with the one employer to be granted Service Pay as follows:—
+
+5 years' service
+
+—
+
+£0.25 per week
+
+10 years' service
+
+—
+
+£0.50 per week
+
+15 years' service
+
+—
+
+£0.75 per week
+
+20 years' service
+
+—
+
+£1.00 per week
+
+GIVEN under the Official Seal of the Labour Court this 10th day of March, 1977.
+
+D. MACDIARMADA.
+
+A person authorised under Section 18 of the Industrial Relations Act, 1946 ,
+
+to authenticate the Seal of the Court.
+
+EXPLANATORY NOTE.
+
+This Instrument fixes new minimum rates of pay and regulates conditions of employment as from 14th March, 1977 for workers employed in the Boot and Shoe Repairing Trade. It is made by the Labour Court on the recommendation of the Boot and Shoe Repairing Joint Labour Committee.
