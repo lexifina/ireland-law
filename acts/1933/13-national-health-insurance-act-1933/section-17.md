@@ -1,0 +1,9 @@
+Transfer of property of approved societies to the Unified Society.
+
+17.—(1) On the day of transfer in respect of each approved society, the beneficial interest in all property, whether real or personal (including choses-in-action) which is immediately before such date vested in such society in its own name in relation to health insurance business or held by the trustees of such society for such society in relation to health insurance business shall, without any conveyance or assignment, but subject where necessary to transfer in the books of any bank, corporation or company become vested in the Unified Society.
+
+(2) Where any property vested in the Unified Society by virtue of this section is land, such land shall on the day on which it is so vested, be deemed without any conveyance or assignment to have been conveyed or assigned to the persons who are for the time being trustees of the Unified Society, their heirs, executors, administrators and assigns (according to the nature and tenure of such land) as joint tenants.
+
+(3) All moneys, stocks, shares and securities vested in the Unified Society by this section which at the date on which they are so vested are standing in the books of any bank, company or corporation in the name of an approved society or the trustees of such society shall, upon the request of the trustees of the Unified Society be transferred into the names of such last mentioned trustees.
+
+(4) From and after the day of transfer in respect of each approved society, every bond, obligation, security or other chose-in-action made with or to such approved society and the benefit of which is by this section vested in the Unified Society may be sued upon by the trustees of the Unified Society in their own names and it shall not be necessary for the said trustees to give notice to the person bound by such bond, obligation, security or chose-in-action of the vesting effected by this section.

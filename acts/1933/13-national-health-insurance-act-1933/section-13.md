@@ -1,0 +1,7 @@
+Restriction on increase of remuneration etc., of officers etc., of approved societies.
+
+13.—(1) It shall not be lawful for any approved society without the consent of the Minister to pay to any person, who, on the 5th day of April, 1933, was rendering service to such society in any capacity (whether as officer, member of the committee of management, employee or otherwise), remuneration in respect of any period subsequent to the passing of this Act at a rate greater than the rate of remuneration of such person on the 5th day of April, 1933.
+
+(2) It shall not be lawful for any approved society without the consent of the Minister to pay to any person, who, after the 5th day of April, 1933, and before the passing of this Act, was appointed to render service to such society in any capacity (whether as an officer, member of committee of management, employee or otherwise), remuneration in respect of any period subsequent to the passing of this Act at a rate greater than the rate of remuneration of a person employed by such society in a similar capacity on the 5th day of April, 1933.
+
+(3) It shall not be lawful for any approved society without the consent of the Minister to fix or alter the remuneration of any person appointed after the passing of this Act to render service to such society in any capacity (whether as officer, member of the committee of management, employee or otherwise).

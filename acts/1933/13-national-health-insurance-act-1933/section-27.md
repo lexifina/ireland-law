@@ -1,0 +1,3 @@
+Special valuations of St. James's Gate Health Insurance Society and Dublin United Tramways and Omnibus Employees' Health Insurance Society.
+
+27.—For the purpose of ascertaining whether a deficiency exists as at the 31st day of December, 1933, in either the St. James's Gate Health Insurance Society or the Dublin United Tramways and Omnibus Employees' Health Insurance Society but not further or otherwise, a valuation of the assets and liabilities arising under the Acts of each of the said Societies shall be made as at the said date, and each such valuation shall be made on such basis as may be prescribed, and in the event of a deficiency being disclosed in either such society it shall be made good in accordance with the rules of such society.
