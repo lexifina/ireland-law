@@ -1,0 +1,3 @@
+Interrupted service in Garda Síochána.
+
+8.—If the Minister for Justice, on application made not later than two years after the passing of this Act, certifies in writing that a member or a former member of the Garda Síochána ceased to be a member of the Garda Síochána on a specified date solely for political reasons, a period, beginning on the commencement of his continuous service which terminated on such specified date and ending on the date when such member or former member was appointed and enrolled as a member of the Garda Síochána after such specified date, shall be deemed to be approved service for the purposes of the Garda Síochána Pensions Orders, 1925 to 1942.
