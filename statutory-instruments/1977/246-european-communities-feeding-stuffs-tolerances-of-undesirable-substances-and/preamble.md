@@ -1,0 +1,1 @@
+I, JAMES GIBBONS, Minister for Agriculture, in exercise of the powers conferred on me by section 3 of the European Communities Act, 1972 (No. 27 of 1972), for the purpose of giving effect to Council Directive No. 74/63/EEC of 17th December, 1973, as amended, hereby make the following regulations:
