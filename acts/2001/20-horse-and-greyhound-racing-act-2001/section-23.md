@@ -1,0 +1,5 @@
+Preservation of certain continuing contracts and adaptation of references to HRI in certain documents.
+
+23.—(1) Every bond, guarantee or other security of a continuing nature made or given by or on behalf of the Authority to any person or given by any person to and accepted by or on behalf of the Authority and every contract or agreement in writing made between the Authority and any other person and in force but not fully executed and completed immediately before the establishment day shall continue in force on and after such establishment day and shall be construed and have effect as if HRI were substituted for the Authority as a party thereto and the name of HRI were substituted therein for that of the Authority and shall be enforceable by or against HRI.
+
+(2) References to the Authority contained immediately before the establishment day in the memorandum and articles of association of any company (within the meaning of the Companies Acts, 1963 to 1999), shall, on and after such establishment day, be construed as references to HRI.
