@@ -1,0 +1,3 @@
+Regulation 11
+
+11. Where any person, whose ordinary employment does not include lead painting, is occasionally employed in or in connection with lead painting, his employer shall keep a record showing the periods during which such person was so employed by him, and such record shall be open at all reasonable times for inspection by an inspector. For the purposes of these Regulations, the employment of such a person as aforesaid for a period of less than half a normal working day shall be deemed to be employment for half-a-day and employment of less than a whole normal working day but more than half-a-day shall be deemed to be employment for a whole day.
