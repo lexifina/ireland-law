@@ -1,0 +1,17 @@
+Article 5
+
+5. The Maximum Prices (Butter) (No. 2) Order, 1982 ( S.I. No. 161 of 1981 ), is hereby revoked.
+
+GIVEN under the Official Seal of the Minister for Trade, Commerce
+
+and Tourism, this 6th day of January, 1982.
+
+S. MACLUGHADHA.
+
+A person authorised by the Minister for Trade, Commerce and
+
+Tourism to authenticate the Official Seal of the Minister.
+
+EXPLANATORY NOTE.
+
+This Order fixes the maximum retail prices which may be charged for butter.
