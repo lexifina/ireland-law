@@ -1,0 +1,5 @@
+Amendment of section 53 of Electricity (Supply) Act, 1927.
+
+1.—Section 53 of the Electricity (Supply) Act, 1927, as amended by the Electricity (Supply) (Amendment) Act, 1945, is hereby amended by the substitution of the following subsection for subsection (5):
+
+“(5) If the owner or occupier of such land or building fails within the seven days aforesaid to give his consent in accordance with the foregoing subsection, the Board or the authorised undertaker with the consent of the Board but not otherwise may place such line across such land or attach such fixture to such building in the position and manner stated in the said notice, subject to the entitlement of such owner or occupier to be paid compensation in respect of the exercise by the Board or authorised undertaker of the powers conferred by this subsection and of the powers conferred by subsection (9) of this section, such compensation to be assessed in default of agreement under the provisions of the Acquisition of Land (Assessment of Compensation) Act, 1919, the Board for this purpose being deemed to be a public authority.”.
