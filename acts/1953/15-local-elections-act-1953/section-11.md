@@ -1,0 +1,3 @@
+Holding of certain meetings.
+
+11.—Where a date has not been appointed by a local authority before the 23rd day of June, 1953, for the holding of the annual meeting or quarterly meeting (as the case may be) of the local authority which is required by law to be held during the period beginning on the 23rd day of June, 1953, and ending on the 1st day of July, 1953, the county secretary or town clerk (as the case may be) shall summon a meeting of the local authority for a convenient hour and date within that period for the purpose, and a meeting held in pursuance of such summons shall be regarded as an annual or quarterly meeting held on a date appointed by the local authority.
