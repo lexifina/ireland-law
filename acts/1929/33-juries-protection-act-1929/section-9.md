@@ -1,0 +1,7 @@
+Prohibition of publication of names of jurors.
+
+9.—(1) It shall not be lawful for any person to print, publish, distribute, sell, or offer or expose for sale or to post up or otherwise expose in any public place the statement in writing or to make by word of mouth the statement in regard to any other person (whether such statement is true or is false) that such other person was called, sworn, or engaged as a juror in the trial of any particular criminal issue or any class of criminal issues or was empanelled or summoned or attended as a juror for any sittings of any Court for the trial of criminal issues.
+
+(2) If any person prints, publishes, distributes, sells, or offers or exposes for sale or posts up or otherwise exposes in any public place or makes by word of mouth any statement of any other person in contravention of this section such first-mentioned person shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds, or, at the discretion of the Court, to imprisonment for any term not exceeding six months or to both such fine and such imprisonment.
+
+(3) Nothing in this section shall apply to or render unlawful the printing, publication, distribution, or making by any person in the manner and to the extent directed by the Principal Act as amended by this Act or otherwise by law of any statement which it is his duty under the Principal Act as so amended or otherwise by law so to print, publish, distribute, or make.

@@ -1,0 +1,3 @@
+Penalties for loitering in vicinity of criminal courts.
+
+12.—Every person who, on a day on which the Central Criminal Court or a Judge of the Circuit Court is sitting for the trial of criminal issues, loiters without lawful reason in any of the streets or roads leading to the building in which such Court or Judge is sitting or in any other of the approaches to such building or in any other public place in the neighbourhood of such building or in the district in which such building is situate shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds or, at the discretion of the Court, to imprisonment for any term not exceeding three months.
