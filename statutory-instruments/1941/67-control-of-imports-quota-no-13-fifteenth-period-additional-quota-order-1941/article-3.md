@@ -1,0 +1,3 @@
+Article 3
+
+3. The quota appointed by the Control of Imports (Quota No. 13, Fifteenth Period) Order, 1940, in respect of the fifteenth quota period appointed by that Order is hereby increased by one hundred thousand square yards of the woven tissues to which the Control of Imports (Quota No. 13) Order, 1935, applies, to the intent thatthe said one hundred thousand square yards shall be an additional quota in respect of the said fifteenth quota period, and the total quota in respect of the said fifteenth quota period shall be seven hundred thousand square yards of the woven tissues to which the said Control of Imports (Quota No. 13) Order, 1935, applies.
