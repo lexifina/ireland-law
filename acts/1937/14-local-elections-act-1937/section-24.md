@@ -1,0 +1,3 @@
+Election year for vocational education committees.
+
+24.—Section 12 of the Local Elections and Meetings (Postponement) Act, 1931 (No. 17 of 1931), is hereby repealed and in lieu thereof it is hereby enacted for the purposes of the Vocational Education Act, 1930 (No. 29 of 1930), that, in relation to every council of a county, county borough or urban district and every vocational education committee, the year in which the day appointed under this Act for the holding of an election of members of such council occurs shall be an election year and every third successive year after that year shall also be an election year.

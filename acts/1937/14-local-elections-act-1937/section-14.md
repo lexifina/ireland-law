@@ -1,0 +1,3 @@
+Adaptation of enactments.
+
+14.—Every statute, order, and regulation relating to elections of members of any local authority or to the meetings of any local authority shall, in so far as it relates to any election which takes place on the appointed day or to the meetings of a local authority an election to which takes place on the appointed day, have effect subject to the provisions of this Part of this Act, and the Minister may by order make such adaptations of or modifications in any such statute, order, or regulation as may in his opinion be necessary to enable such statute, order, or regulation to have effect in accordance with this section.

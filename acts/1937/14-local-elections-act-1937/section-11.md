@@ -1,0 +1,3 @@
+Saving from disqualification in certain cases.
+
+11.—A member of a local authority a triennial election to which is held on the appointed day who has ceased or shall cease to be a local government elector in the functional area of such local authority by reason of the coming into force of a new register of local government electors on any day after the passing of this Act and before the appointed day shall not, by reason only of such cesser, be disqualified from continuing to hold office as a member of such local authority until the ordinary day of retirement of the members of such local authority next after the appointed day.

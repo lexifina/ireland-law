@@ -1,0 +1,3 @@
+Adaptation of enactments in regard to the Council.
+
+23.—Every statute, order, and regulation relating to borough elections of members of the Council or to the meetings of the Council shall, in so far as it relates to any borough election which takes place on the appointed day or to meetings of the Council after the passing of this Act and before the appointed day, have effect subject to the provisions of this Part of this Act, and the Minister may by order make such adaptations or modifications in any such statute, order, or regulation as may in his opinion be necessary to enable such statute, order, or regulation to have effect in accordance with this section.
