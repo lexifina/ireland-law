@@ -1,0 +1,17 @@
+# Defence Forces (Pensions) (Amendment) (No. 3) Scheme, 1973
+
+S.I. No. 295 of 1973 · <https://www.irishstatutebook.ie/eli/1973/si/295/made/en/html>
+
+As made (31 October 1973), from the electronic Irish Statute Book. Later amendments are not applied.
+
+| Provision | File |
+| --- | --- |
+| S.I. No. 295 of 1973. | [preamble.md](preamble.md) |
+| Paragraph 1 | [paragraph-1.md](paragraph-1.md) |
+| Paragraph 2 | [paragraph-2.md](paragraph-2.md) |
+| Paragraph 3 | [paragraph-3.md](paragraph-3.md) |
+| Paragraph 4 | [paragraph-4.md](paragraph-4.md) |
+| Paragraph 5 | [paragraph-5.md](paragraph-5.md) |
+| Paragraph 6 | [paragraph-6.md](paragraph-6.md) |
+| Paragraph 7 | [paragraph-7.md](paragraph-7.md) |
+| Paragraph 8 | [paragraph-8.md](paragraph-8.md) |
