@@ -1,0 +1,5 @@
+Effect of transfer to tenant of burdens previously borne by landlord.
+
+21.—(1) Any transfer to a tenant of any burden or liability previously borne by the landlord shall, for the purposes of this Act, be treated as an alteration of rent, and where, as the result of such a transfer, the terms on which any premises are held are on the whole less favourable to the tenant than the previous terms, the rent shall be deemed to be increased, whether or not the sum periodically payable by way of rent is increased, and any increase of rent in respect of any transfer to a landlord of any burden or liability previously borne by the tenant where, as the result of the transfer, the terms on which any premises are held are, on the whole, not less favourable to the tenant than the previous terms, shall be deemed not to be an increase of rent for the purposes of this Act.
+
+(2) For the purpose of this section, the rent shall not be deemed to be increased where the liability for rates is transferred from the landlord to the tenant if a corresponding reduction is made in the rent.
