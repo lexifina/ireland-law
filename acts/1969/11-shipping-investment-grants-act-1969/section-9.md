@@ -1,0 +1,3 @@
+Fraudulent applications for grants under this Act.
+
+9.—Any person who, for the purpose of obtaining a grant under this Act, knowingly or recklessly makes any statement or produces any document which is false in any material particular shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding one hundred pounds or to imprisonment for a term not exceeding three months, or to both such fine and such imprisonment or, on conviction on indictment, to a fine not exceeding one thousand pounds or to imprisonment for a term not exceeding two years, or to both such fine and such imprisonment.
