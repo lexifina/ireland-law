@@ -1,0 +1,3 @@
+Tonnage once ascertained to be the tonnage of ship.
+
+92.—Whenever the tonnage of any ship has been ascertained and registered in accordance with the tonnage regulations of this Act, the same shall thenceforth be deemed to be the tonnage of the ship, and shall be repeated in every subsequent registry thereof, unless any alteration is made in the form or capacity of the ship, or unless it is discovered that the tonnage of the ship has been erroneously computed; and in either of those cases the ship shall be remeasured, and her tonnage ascertained and registered according to the tonnage regulations of this Act.

@@ -1,0 +1,5 @@
+Registry of transfer.
+
+45.—(1) Every bill of sale for the transfer of a registered ship or of a share therein, when duly executed, shall be produced to the registrar of her port of registry, with the declaration of transfer, and the registrar shall thereupon enter in the register book the name of the transferee as owner of the ship or share, and shall endorse on the bill of sale the fact of that entry having been made, with the day and hour thereof.
+
+(2) Bills of sale of a ship or of a share therein shall be entered in the register book in the order of their production to the registrar.

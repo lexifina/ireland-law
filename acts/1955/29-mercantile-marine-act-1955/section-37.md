@@ -1,0 +1,7 @@
+Provision for loss of certificate.
+
+37.—(1) In the event of the certificate of registry of a ship being mislaid, lost or destroyed, the registrar of her port of registry shall, on the payment by the registered owners of the prescribed fee (if any), grant a new certificate of registry in lieu of her original certificate.
+
+(2) If the port (having a diplomatic or consular officer) at which the ship is at the time of the event or first arrives after the event is outside the State then, the master of the ship, or some other person having knowledge of the facts of the case, shall make a declaration stating the facts of the case and the names and descriptions of the registered owners of such ship to the best of the declarant's knowledge and belief, and the diplomatic or consular officer shall thereupon grant a provisional certificate containing a statement of the circumstances under which it is granted.
+
+(3) The provisional certificate shall, within ten days of the first subsequent arrival of the ship at a port in the State, be delivered up to the registrar of her port of registry and the registrar shall, upon the payment by the registered owners of the prescribed fee (if any), grant the new certificate of registry, and if the master, without reasonable cause, fails to deliver up the provisional certificate within the ten days aforesaid, he shall be guilty of an offence and shall be liable, on summary conviction thereof, to a fine not exceeding fifty pounds.

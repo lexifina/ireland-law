@@ -1,0 +1,3 @@
+Power of court to prohibit transfer.
+
+49.—The High Court may, if they think fit (without prejudice to the exercise of any other power of the court), on the application of any interested person make an order prohibiting for a time specified any dealing with a ship or any share therein, and the court may make the order on any terms or conditions they think just, or may refuse to make the order, or may discharge the order when made, with or without costs, and generally may act in the case as the justice of the case requires, and every registrar, without being made a party to the proceeding, shall, on being served with the order or an official copy thereof obey the same.

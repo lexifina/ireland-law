@@ -1,0 +1,3 @@
+Power of Revenue Commissioners in case of loss of certificate of mortgage or sale.
+
+65.—On proof at any time to the satisfaction of the Revenue Commissioners that a certificate of mortgage or sale is lost or destroyed, or so obliterated as to be useless, and that the powers thereby given have never been exercised, or if they have been exercised, then on proof of the several matters and things that have been done thereunder, the registrar may, with the sanction of the Commissioners, as circumstances require, either issue a new certificate, or direct such entries to be made in the register books or such other things to be done, as might have been made or done if the loss, destruction, or obliteration had not taken place.

@@ -1,0 +1,3 @@
+Transfer of mortgages.
+
+56.—A registered mortgage of a ship or share may subject to section 62 of this Act be transferred to any person, and the instrument effecting the transfer shall be in such form as the Revenue Commissioners may with the consent of the Minister from time to time direct or as near thereto as circumstances permit, and on the production of such instrument the registrar shall record it by entering in the register book the name of the transferee as mortgagee of the ship or share, and shall by memorandum under his hand notify on the instrument of transfer that it has been recorded by him, stating the day and hour of the record.

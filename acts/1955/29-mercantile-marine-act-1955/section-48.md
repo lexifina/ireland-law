@@ -1,0 +1,3 @@
+Transfer of ship on sale by order of court.
+
+48.—Where any court, whether under the preceding sections of this Act or otherwise, order the sale of any ship or share therein, the order of the court shall contain a declaration vesting in some person named by the court the right to transfer that ship or share, and that person shall thereupon be entitled to transfer the ship or share in the same manner and to the same extent as if he were the registered owner thereof, and every registrar shall obey the requisition of the person so named in respect of any such transfer to the same extent as if such person were the registered owner.

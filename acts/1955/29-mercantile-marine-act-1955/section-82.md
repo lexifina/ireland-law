@@ -1,0 +1,3 @@
+Power of registrar to dispense with declarations and other evidence.
+
+82.—When, under this Act, any person is required to make a declaration on behalf of himself or of any body corporate, or any evidence is required to be produced to the registrar, and it is shown to the satisfaction of the registrar that from any reasonable cause that person is unable to make the declaration, or that the evidence cannot be produced, the registrar may, with the approval of the Revenue Commissioners and on the production of such other evidence, and subject to such terms as they may think fit, dispense with the declaration or evidence.
