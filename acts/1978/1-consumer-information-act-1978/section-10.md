@@ -1,0 +1,7 @@
+Marking orders.
+
+10.—(1) Where it appears to the Minister to be necessary or expedient in the interest of persons to whom goods of any description are supplied that the goods should be marked with or accompanied by any information (whether or not amounting to or including a trade description or the name and address of the manufacturer, producer or other supplier of the goods) or instructions relating to the goods, the Minister may, subject to the provisions of this Act, by order impose requirements for securing that goods of that description are so marked or accompanied, and regulate or prohibit the supply of goods in relation to which the requirements are not complied with, and the requirements may extend to the form and manner in which the information or instruction is to be given.
+
+(2) A person who, in the course of any trade or business, supplies or offers to supply goods of a description in relation to which an order is for the time being in force under this section in contravention of the order shall, subject to the provisions of this Act, be guilty of an offence.
+
+(3) An order under this section may make different provisions for different circumstances and may, in the case of goods supplied in circumstances where apart from such an order the information or instruction required by the order would not be conveyed until after delivery of the goods, require also that the whole or part thereof be displayed near the goods.

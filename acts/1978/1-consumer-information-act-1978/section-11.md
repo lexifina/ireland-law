@@ -1,0 +1,7 @@
+Advertising orders.
+
+11.—(1) Where it appears to the Minister to be necessary or expedient in the interest of persons to whom goods, services, accommodation or facilities, of any description are to be supplied or provided that advertisements or any class of advertisements of the goods, services, accommodation or facilities should contain or refer to any information (whether or not amounting to or including a trade description or the name and address of the publisher of an advertisement or his agent or any person procuring the publication of the advertisement or his agent) relating to the goods, services, accommodation or facilities, the Minister may, subject to the provisions of this Act, by order impose requirements as to the inclusion of that information, or of an indication of the means by which it may be obtained, in advertisements, or in such classes of advertisements as may be specified in the order, of the goods, services, accommodation or facilities, of that description.
+
+(2) An order under this section may specify the form and manner in which any such information or indication as is specified in sub-section (1) of this section is to be included in advertisements or in advertisements of any class specified in the order and may make different provision for different circumstances and different classes of advertisements.
+
+(3) Where an advertisement fails to comply with any requirement imposed under this section, any person who publishes the advertisement shall, subject to the provisions of this Act, be guilty of an offence.
