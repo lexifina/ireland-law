@@ -1,0 +1,7 @@
+Notice of intention to erect building.
+
+20.—(1) No person shall erect or construct or begin to erect or construct any building or structure of which any part is within or projects over or will, when such building or structure is completed, be within or project over the relevant area of any transmission wire unless he has, at least two months before beginning such erection or construction, given to the Board notice in writing stating his intention to erect or construct such building or structure and stating all relevant particulars of such building or structure.
+
+(2) Every person who erects or constructs or begins to erect or construct any building or structure in contravention of this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds together with a further fine not exceeding one pound for every day during which such building or structure or any part thereof continues to be within or to project over the relevant area of any transmission wire.
+
+(3) In this section the expression “relevant area of any transmission wire” means the area within twenty-five yards on either side of the straight line joining the centres of the bases of any two consecutive posts, pillars, or other erections supporting such transmission wire, and the expression “transmission wire” means a wire or line carrying electricity above ground and forming part of the transmission system or of the distribution system.

@@ -1,0 +1,7 @@
+Amendment of section 45 of the Principal Act.
+
+17.—(1) Sub-section (5) of section 45 of the Principal Act is hereby amended by the insertion at the end of paragraph (b) thereof of the words “or with this section,” and the said sub-section shall be construed and have effect accordingly.
+
+(2) Whenever the Board has made a special order under section 45 of the Principal Act, the Board may before conveyance or ascertainment of price or compensation (but subject to giving not less than one month's or, in the case of an occupied dwelling house, three months' previous notice in writing to the occupier of the lands or the owner of the easement or other right intended to be acquired under or affected by such order) enter on and take possession of any lands or exercise any right which is the subject of such special order.
+
+(3) Whenever the Board under this section enters on and takes possession of any lands or exercises any right (as the case may be) before payment of the price or compensation, the Board shall pay to the occupier of the lands or owner of the easement or other right affected (as the case may be) interest on the amount of such price or compensation when fixed at the rate of four pounds per cent. per annum from the date of such entry or taking possession or the exercise of such right (as the case may be) until the date of the conveyance from such occupier or owner to the Board.
