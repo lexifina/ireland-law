@@ -1,0 +1,5 @@
+Assignment of a judge of the Circuit Court not assigned under section 16.
+
+17.—(1) If on the commencement of the order made under section 16 of this Act there is a judge of the Circuit Court who is not permanently assigned by that order to a circuit, he may be permanently assigned at any time to a circuit by the Government and, pending such assignment, may from time to time be temporarily assigned to any circuit by the President of the Circuit Court.
+
+(2) Where a judge of the Circuit Court is temporarily assigned, under subsection (1) of this section, to a circuit, then, such judge shall, while so temporarily assigned, have, in relation to such circuit and concurrently with any judge permanently assigned thereto and any judge who is temporarily assigned, under section 10 of the Courts of Justice Act, 1947 (No. 20 of 1947), to such circuit, all the privileges, powers, and duties for the time being conferred or imposed by law on a judge of the Circuit Court permanently assigned to such circuit.
