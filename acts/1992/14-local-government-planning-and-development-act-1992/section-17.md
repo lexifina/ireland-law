@@ -1,0 +1,7 @@
+Time for appeals, etc.
+
+17.—(1) (a) Subject to paragraph (b), the provisions of section 26 (5) of the Principal Act authorising appeals to be made before the expiration of the appropriate period within the meaning of that subsection shall be construed as including a provision that an appeal received by the Board after the expiration of the appropriate period shall be invalid as not having been made in time.
+
+(b) Where the last day of the appropriate period within the meaning of the said section 26 (5) is a Saturday, a Sunday, a public holiday (within the meaning of the Holidays (Employees) Act, 1973) or any other day on which the offices of the Board are closed, an appeal shall, notwithstanding paragraph (a), be valid as having been made in time if received by the Board on the next following day on which the offices of the Board are open.
+
+(2) Where a requirement of or under this Act requires submissions, observations or a request to be made, or documents, particulars or other information to be submitted, to the Board within a specified period and the last day of that period is a Saturday, a Sunday, a public holiday (within the meaning of the Holidays (Employees) Act, 1973) or any other day on which the offices of the Board are closed, the submissions, observations or request, or documents, particulars or other information (as the case may be) shall be regarded as having been received before the expiration of that period if received by the Board on the next following day on which the offices of the Board are open.
