@@ -1,0 +1,3 @@
+Exemption of certain medicinal articles from any duty.
+
+17.—Articles which are liable to duty under section 15 of the Finance Act, 1924 (No. 27 of 1924) or under section 16 of that Act or under section 21 of the Finance Act, 1925 (No. 28 of 1925), and contain no dutiable ingredients other than saccharin to an extent not exceeding one per cent., and are shown to the satisfaction of the Revenue Commissioners to be intended for use exclusively because of or as a preventive of or remedy for disease shall, subject to compliance with such conditions as the Revenue Commissioners may think fit to impose, be admitted without payment of any duty whether imposed by one of the said sections or otherwise.

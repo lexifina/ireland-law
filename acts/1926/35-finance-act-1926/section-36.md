@@ -1,0 +1,5 @@
+Savings for fraud, etc., and existing powers.
+
+36.—(1) Notwithstanding anything contained in this Part of this Act, whenever it appears to the Revenue Commissioners that by reason of any fraud or wilful neglect on the part of any person who is or has been the owner of a trade or business liable to excess profits duty such duty has not been assessed or has been insufficiently assessed, the Revenue Commissioners may at any time make an assessment or an additional assessment of such duty and recover the duty chargeable on such assessment or additional assessment, and any person aggrieved by such assessment or additional assessment shall have the same right of appeal therefrom or in respect thereof as he would have had if this Act had not been passed.
+
+(2) Nothing in this Part of this Act shall prejudice or affect any power vested in the Revenue Commissioners immediately before the commencement of this Part of this Act for the recovery of excess profits duty or any interest lawfully chargeable in respect of any such duty.

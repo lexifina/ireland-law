@@ -1,0 +1,5 @@
+Recovery of penalties in relation to dog duty.
+
+41.—(1) Sub-section (1) of section 21 of the Inland Revenue Regulation Act, 1890, shall not apply to the penalties imposed by the Finance Act, 1925 (No. 28 of 1925) in relation to dog duty, and in lieu thereof it is hereby enacted that proceedings for the recovery of any such penalty may be prosecuted at the suit of the Attorney-General or at the suit of an officer of customs and excise or at the suit of a member of the Gárda Síochána and that the information initiating such proceedings need not be in writing or on oath.
+
+(2) In any proceedings for the recovery of a penalty incurred under the Finance Act, 1925, in relation to dog duty the court before which such proceedings are brought may, without prejudice to the powers of the Revenue Commissioners and the Minister for Finance respectively under section 35 of the Inland Revenue Regulation Act, 1890, mitigate such penalty to such amount (not being less than one-fourth of such penalty) as such court shall think proper.
