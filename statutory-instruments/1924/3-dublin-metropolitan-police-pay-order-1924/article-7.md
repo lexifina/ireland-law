@@ -1,0 +1,3 @@
+Article 7
+
+7. Any mention of or reference to the Pay Order, 1920, contained in the Dublin Metropolitan Police Pensions Order, 1922, (except in Article 2 thereof) shall, in its application to any member of the Force who shall be serving as such on the date on which this Order shall come into operation or to any member who joins the Force after that date, be construed and take effect as a mention of or reference to this Order, and the reference in Article 2 of the said Pensions Order to paragraph III of the Schedule to the Pay Order 1920 shall be construed as including a reference to Article 6 of this Order.

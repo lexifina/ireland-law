@@ -1,0 +1,1 @@
+By virtue and in exercise of the powers conferred by Section 4 of the Constabulary and Police (Ireland) Act, 1919 , as adapted by the Adaptation of Enactments Act, 1922 , and of all other powers enabling me in that behalf, I, CAOIMHGHIN O h-UIGIN, Minister for Home Affairs, with the concurrence of the Minister for Finance, do hereby order as follows :—
