@@ -1,0 +1,19 @@
+Stamp duties on certain instruments in cases of reduction of rent.
+
+17.—(1) Whenever and so often as the rent for the time being payable in respect of any lease first executed on or after the 3rd day of May, 1950, is reduced on or after that date in consideration of any money, stock or security moving either to the lessor or to any other person, the instrument (in the subsequent subsections of this section referred to as the said instrument) on or after that date acknowledging the receipt of the consideration for the reduction (or, where the consideration is payable by instalments, of the instalment after payment of which the reduction becomes effective) or recording directly or indirectly that the rent has been reduced shall, notwithstanding anything in any other Act, be charged with the same stamp duty, and be subject to the provisions of the Stamp Act, 1891 (as amended by subsequent enactments), as if, instead of being such instrument, it were—
+
+(a) a lease of lands, tenements or hereditaments which had been made in consideration of the rent reduced as aforesaid and the consideration for the reduction, and for an indefinite term, and under which the person beneficially entitled at the date of the taking effect of the reduction of the rent to the lessee's interest in the property out of which the rent so reduced issues was the lessee, or
+
+(b) in the case specified in subsection (2) of this section, a lease such as is referred to in the foregoing paragraph and containing such a statement as is referred to in subsection (4) of section 24 of the Finance Act, 1949 (No. 13 of 1949).
+
+(2) The case referred to in paragraph (b) of subsection (1) of this section is that in which the said instrument contains a statement, by the person entitled at the date of the taking effect of the reduction of the rent to the beneficial interest in the lessee's interest in the property out of which the rent so reduced issues, that he is within one of the classes specified in paragraphs (a) to (f) of subsection (4) of section 24 of the Finance Act, 1949, or, where two or more persons were so entitled, contains a statement by each of them such as aforesaid.
+
+(3) (a) The said instrument, if executed before the passing of this Act, shall be deemed for the purposes of this Act to have been first executed on the passing of this Act, and shall be charged with the stamp duty specified in subsection (1) of this section accordingly.
+
+(b) the provisions of paragraph (a) of this subsection shall have effect in relation to the said instrument, if executed before the passing of this Act, notwithstanding that, before such passing, it may have been stamped with a particular stamp denoting either that it is not chargeable with any duty or is duly stamped.
+
+(c) Notwithstanding any of the foregoing provisions of this subsection, the total stamp duty chargeable on the said instrument, if executed before the passing of this Act, shall not exceed the amount with which it would have been charged if it had in fact been executed after the passing of this Act.
+
+(d) Where, at the expiration of thirty days after the passing of this Act, the said instrument, if executed before such passing, is not stamped with the stamp duty charged thereon by virtue of this Act, a sum equal to twice the unpaid stamp duty shall thereupon be a debt due to the Minister for Finance for the benefit of the Central Fund by the person beneficially entitled at the date of the taking effect of the reduction of the rent to the lessee's interest in the property out of which the rent so reduced issues or, where two or more persons were so entitled, by those persons jointly and severally, and the said sum shall be recoverable at the suit of the Attorney General in any court of competent jurisdiction.
+
+(e) The Revenue Commissioners may, if they think fit, mitigate or remit any sum recoverable under the provisions of paragraph (d) of this subsection.

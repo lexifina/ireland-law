@@ -1,0 +1,3 @@
+Entertainments duty—entertainment consisting of amateur wrestling.
+
+7.—Entertainments duty within the meaning of and chargeable under section 1 of the Finance (New Duties) Act, 1916, as amended by subsequent enactments shall not be charged or levied on payments for admission to any entertainment in respect of which it is proved to the satisfaction of the Revenue Commissioners that the entertainment is promoted by the Irish Amateur Wrestling Association or by a club affiliated to or under the direct control of that association, and that the entertainment consists solely of an exhibition of the sport of wrestling at or in connection with which no money is awarded or paid to any of the participants or contestants whether as a prize, remuneration, or otherwise.
