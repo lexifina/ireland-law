@@ -1,0 +1,3 @@
+Superannuation of staff.
+
+2.—Any alteration in the terms or conditions, in force at the commencement of this Act, governing the grant of pensions, gratuities, allowances or other payments on resignation, retirement or death, to or in respect of a member of the staff of the Company, including its chief officer, or any other arrangement to provide for benefits on resignation, retirement or death, additional to those aforesaid, shall not take effect unless the said alteration or arrangement has the approval of the Minister for Communications given with the consent of the Minister for the Public Service.
