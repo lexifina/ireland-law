@@ -1,0 +1,3 @@
+Liability for pollution damage in State and another country.
+
+9.—Where pollution damage is caused in the State and in one or more Convention Countries by a ship carrying oil in bulk as cargo, whether such ship is within or without the State, and the owner of such ship is liable for such damage pursuant to section 7, and where the owner of such ship is liable for such damage under the law of any other Convention Country concerned, the liability for such damage shall be regarded, for the purposes of this Act and for the purposes of any legal proceedings under this Act in relation to such damage, as having been incurred in the State.
