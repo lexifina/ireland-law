@@ -1,0 +1,3 @@
+Rule 14
+
+14. Quality of Minima.—When the direction-finder is arranged for the taking of bearings and is tested under the conditions specified in paragraph 13 of this Schedule, but with a field strength sufficient to give a signal/noise ratio of at least 50 decibels with the loop aerial system adjusted for maximum output, changes in the setting of the bearing indicator 5 degrees and 90 degrees in either direction from the position or positions of minimum output shall,at all frequencies in the range of frequencies specified in paragraph 2 of this Schedule, cause the audio-frequency output to increase by not less than 18 decibels and not less than 35 decibels respectively.
