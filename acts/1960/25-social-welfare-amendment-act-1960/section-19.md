@@ -1,0 +1,5 @@
+Overlapping benefits.
+
+19.—(1) Where a person who has attained pensionable age and is in receipt of a pension under the Old Age Pensions Acts, 1908 to 1959, is awarded an old age (contributory) pension or a widow's (contributory) pension, any payment on foot of the first-mentioned pension in respect of a period in respect of which the old age (contributory) pension or the widow's (contributory) pension, as the case may be, is payable shall be treated as a payment on account of the old age (contributory) pension or the widow's (contributory) pension, as the case may be.
+
+(2) Where a person who is in receipt of a pension under the Old Age Pensions Acts, 1908 to 1959, is a person in respect of whom the weekly rate of old age (contributory) pension payable to another person is increased by virtue of subsection (2) (inserted by this Act) of section 26 of the Principal Act, any payment on foot of the first-mentioned pension in respect of a period in respect of which the old age (contributory) pension is so increased shall be treated as a payment on account of the old age (contributory) pension.
