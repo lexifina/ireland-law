@@ -1,0 +1,3 @@
+Account to be taken of need for co-operation.
+
+24.—Whenever the Minister, an authorised officer or any harbour-master or harbour authority are regulating or deciding upon matters relating to salvage operations, including matters such as admittance to harbours of vessels in distress or the provision of facilities to salvors, account shall be taken of the need for co-operation between salvors, the local authority and harbour authority concerned and other interested parties in order to ensure the efficient and successful performance of salvage operations for the purpose of saving life or property in danger as well as preventing damage to the environment in general.
