@@ -1,0 +1,3 @@
+Article 2
+
+2. The duty of customs imposed by the Emergency Imposition of Duties (No. 267) (Personal Clothing and Wearing Apparel) Order, 1951 ( S.I. No. 357 of 1951 ), shall, as respects articles imported on or after the 1st day of August, 1961, be varied, in so far as that duty is chargeable on articles of underwear which are brassieres, by the substitution of "Whichever of the following rates produces in respect of each particular article the greater amount of duty, that is to say: 75% or 5/- the article" for "75%" in the third column of Part I of the Schedule to that Order at reference number 10.
