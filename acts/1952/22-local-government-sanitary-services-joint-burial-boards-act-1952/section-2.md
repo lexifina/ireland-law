@@ -1,0 +1,3 @@
+Compulsory acquisition of land by a joint burial board.
+
+2.—In order to remove doubts it is hereby declared that the powers of a joint burial board include and have always included the powers of a sanitary authority acting as burial board for a sanitary district to acquire land compulsorily for the purposes of providing a new burial ground or making additions to a burial ground, and that every enactment which enables or for the time being enabled a sanitary authority so acting to acquire land compulsorily for such purposes is and has been applicable to a joint burial board and that such powers are and were exercisable accordingly.
