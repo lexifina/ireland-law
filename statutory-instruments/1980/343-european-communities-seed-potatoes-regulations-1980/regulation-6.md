@@ -1,0 +1,5 @@
+Regulation 6
+
+6. (1) Subject to paragraph (2) of this Regulation, the Minister may grant licences for the purposes of these Regulations and a licence granted for the purposes of these Regulations shall have attached thereto a condition that the seed potatoes to which the licence relates shall comply with each of the minimum quality conditions specified in Annex II and such other conditions (if any) as the Minister considers appropriate.
+
+(2) Where, having regard to a document which he is satisfied has been issued by an authority in a country or territory other than the State which corresponds to the certifying authority, the Minister is satisfied that seed potatoes to which an application for a licence for the purposes of these Regulations relates comply with each of the requirements specified in column (3) of the Table in Part I of the Schedule to these Regulations opposite the mention in column (2) of foundation seed "FS"), he shall grant a licence described in paragraph (1) of this Regulation in relation to them.
