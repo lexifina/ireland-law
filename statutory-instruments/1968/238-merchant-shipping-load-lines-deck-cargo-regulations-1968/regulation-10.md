@@ -1,0 +1,3 @@
+Regulation 10
+
+10. Where the timber deck cargo occupies the whole or substantially the whole of the uncovered space on the deck of a ship, means of access for the crew between their quarters and the machinery spaces and other parts of the ship used in the working of the ship shall be provided in the form of a walkway fitted over the timber deck cargo and such walkway shall comply with the requirements specified in Regulation 6 (2) of these Regulations. Such walkway shall be provided notwithstanding that a passage on or under the deck as described in Regulation 6 (1) of these Regulations is also provided.
