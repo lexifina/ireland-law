@@ -1,0 +1,11 @@
+STATUTORY RULES AND ORDERS. 1941. No. 207.
+
+HOME-GROWN WHEAT (NATIONAL PERCENTAGE FOR CEREAL YEAR 1940-41) (VARIATION No. 3) ORDER, 1941.
+
+WHEREAS it is enacted by sub-section (1) of Section 6 of the Agricultural Produce (Cereals) Act, 1935 (No. 26 of 1935), that the Minister for Agriculture, after consultation with the Minister for Industry and Commerce, shall, before the commencement of every cereal year make, in the case of the cereal year commencing next after the passing of the said Act, as soon as may be after such passing or, in the case of any other cereal year, not later than eight months before the commencement of such cereal year, an order fixing for the purposes of the said Section 6 a percentage in respect of such cereal year, and the Minister for Agriculture may, after the like consultation, during such cereal year by a further order or orders vary the amount of such percentage :
+
+AND WHEREAS the Minister for Agriculture, in pursuance of the said sub-section (1), made, in respect of the cereal year commencing on the 1st day of September, 1940, the Home-grown Wheat (National Percentage for Cereal Year 1940/41) (Variation No. 2) Order, 1941 (Statutory Rules and Orders, No. 61 of 1941) :
+
+AND WHEREAS the Minister for Agriculture has consulted with the Minister for Industry and Commerce in regard to the making of this Order :
+
+NOW, THEREFORE, I, SÉAMAS O RIAIN, Minister for Agriculture, in exercise of the powers conferred on me by sub-section (1) of Section 6 of the Agricultural Produce (Cereals) Act, 1935 (No. 26 of 1935), and of every and any other power me in this behalf enabling, do hereby order as follows :—
