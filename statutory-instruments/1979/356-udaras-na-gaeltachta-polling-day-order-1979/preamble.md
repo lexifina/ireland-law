@@ -1,0 +1,1 @@
+I, Donncha Ó Gallchobhair, Minister for the Gaeltacht, in exercise of the power conferred on me by Regulation 6 of the Údarás na Gaeltachta Elections Regulations, 1979 ( S.I. No. 355 of 1979 ), hereby make the following Order:
