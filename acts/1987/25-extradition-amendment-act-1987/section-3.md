@@ -1,0 +1,9 @@
+Rule of specialty and re-extradition for purposes of Part III of Principal Act.
+
+3.—(1) The Minister may, with such adaptations and modifications as he considers necessary or expedient, by order apply the provisions of section 20 and subsections (1) and (2) of section 21 of the Principal Act (which provide that extradition shall not be granted under Part II of the Principal Act unless provision for certain matters is made by the law of the requesting country or by the extradition agreement in question) in relation to the delivery of a person under Part III of the Principal Act into the custody of a member of a police force of a place in relation to which that Part applies.
+
+(2) The Minister may, with such adaptations and modifications as he considers necessary or expedient, by order apply the provisions of sections 21 (3) and 39 of the Principal Act (which provide that, subject to certain exceptions, a person who has been extradited to the State by a requested country shall not be proceeded against, sentenced or imprisoned for any offence committed prior to his surrender other than the offence for which he was surrendered, and shall not be extradited to a third country for any offence committed prior to his surrender) in relation to a person who has been surrendered to the State under a law corresponding to Part III of the Principal Act.
+
+(3) The Minister may by order amend or revoke an order under this section including an order under this subsection.
+
+(4) Every order made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
