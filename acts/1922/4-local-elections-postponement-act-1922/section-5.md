@@ -1,0 +1,5 @@
+Casual vacancies to be filled by co-option.
+
+5.—(1) Every casual vacancy which shall occur among the members of any borough council or urban district council or among the commissioners of any town after the passing of this Act and before the prescribed date and which but for this section ought to be filled by election may be filled by means of the choice by such council or commissioners of a person to fill the vacancy, but not otherwise, and any councillor or commissioner so chosen shall hold office in all respects as if he had been elected to fill the vacancy.
+
+(2) Every casual vacancy among the members of any council or other local body the statutory elections to which are postponed by the Minister under this Act which shall occur after the date of an order postponing the statutory elections to such council or local body and before the prescribed date and which but for this section ought to be filled by election may be filled by means of the choice by such council or other local body of a person to fill the vacancy, and any councillor or member so chosen shall hold office in all respects as if he had been elected to fill the vacancy but not otherwise.

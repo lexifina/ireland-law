@@ -1,0 +1,3 @@
+Computation of periods of office and time.
+
+7.—Every period of office or other period of time which is by any statute, order or regulation to be computed from the date of a statutory election (other than periods relating to the first meeting after a statutory election) shall in the case of every Council, body of Commissioners and other local body the statutory elections to which are postponed by or under this Act be computed from the date on which such statutory elections would have been held if this Act had not been passed and not from the date on which such statutory elections are actually held.
