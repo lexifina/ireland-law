@@ -1,0 +1,3 @@
+Rule 25
+
+25. If the consents referred to at 24 (a) and (b) have not been obtained, do you ask the Board to dispense with them and, if so, on what grounds?............................................................ .................................................
