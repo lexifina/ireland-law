@@ -1,0 +1,3 @@
+Penalty for corrupt withdrawal of petition.
+
+10.—A person who makes any agreement or enters into any undertaking in relation to the withdrawal of a petition in consideration of any payment or the cesser of membership of a local authority or for any substantial reason not stated in the affidavit referred to in section 9 (2) of this Act shall be guilty of an offence and shall, on conviction on indictment, be liable to imprisonment for any term not exceeding three months or to a fine not exceeding three hundred pounds or, at the discretion of the court by whom he is convicted, to both such fine and such imprisonment.
