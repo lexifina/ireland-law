@@ -1,0 +1,5 @@
+Article 12
+
+12. Manoeuvring Light
+
+Notwithstanding the provision of paragraph 2 ( f ) of this Annex the manoeuvring light described in Rule 34 (b) shall be placed in the same fore and aft vertical plane as the masthead light or lights and, where practicable, at a minimum height of 2 metres vertically above the forward masthead light, provided that it shall be carried not less than 2 metres vertically above or below the after masthead light. On a vessel where only one masthead light is carried the manoeuvring light, if fitted, shall be carried where it can best be seen, not less than 2 metres vertically apart from the masthead light.
