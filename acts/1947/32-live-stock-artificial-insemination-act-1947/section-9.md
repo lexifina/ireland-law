@@ -1,0 +1,3 @@
+Offences.
+
+9.—If any person contravenes or fails to comply with any provision of this Act or of regulations made under it or with any condition subject to which a licence is issued, or obstructs any person in the exercise of the powers conferred on him by this Act or refuses to give to any such person any facilities, assistance or information which he is required to give, he shall, in addition to any other penalty to which he may be liable, be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding one hundred pounds and, in the case of a second or subsequent offence, to imprisonment for a term not exceeding three months either in lieu of or in addition to such fine.
