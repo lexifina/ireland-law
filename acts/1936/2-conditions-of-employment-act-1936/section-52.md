@@ -1,0 +1,9 @@
+Limitation of hours of work.
+
+52.—(1) Whenever the Minister makes regulations declaring any form of industrial work to be excluded industrial work for the purpose of any section of this Part of this Act which relates to the hours during which an employer may permit any worker to do for him any form of industrial work, the Minister may by order make regulations fixing in such manner as he may think fit the hours of work in respect of such form of industrial work for all or any classes of workers engaged in such form of industrial work, and so long as such regulations remain in force it shall not be lawful for any employer to permit any worker to whom such regulations relate to do for him such industrial work save during such hours as may be fixed by such order.
+
+(2) Whenever the Minister fixes by regulations made under this section the hours of work in respect of any form of industrial work (whether for all or for any particular classes or class of workers engaged therein) the Minister may by the same regulations make such provisions as he shall consider to be necessary or proper for securing that the average weekly earnings payable in a normal full working week to any person whose hours of work are reduced by such regulations shall not be reduced merely because of such reduction in his hours of work.
+
+(3) The Minister shall not make any regulations under this section unless he has first consulted with representatives of employers interested in the form of industrial work to which such regulations relate and with representatives of workers so interested.
+
+(4) If any employer permits or employs any worker to work for him in contravention of any regulations made under this section and for the time being in force such employer shall be guilty of an offence under this section and such worker shall also be guilty of an offence under this section.

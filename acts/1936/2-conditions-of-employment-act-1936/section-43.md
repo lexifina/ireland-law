@@ -1,0 +1,7 @@
+Overtime pay.
+
+43.—(1) Where any employer who employs any worker to do industrial work for a salary or wages permits such worker to work overtime (in this section referred to as daily overtime) on any day such employer shall be deemed to have agreed to pay such worker at the overtime rate for any time for which he so works overtime on such day.
+
+(2) Where in any week any employer who employs any worker to do industrial work for a salary or wages permits any worker to work weekly overtime, and the weekly overtime worked by such worker exceeds the total daily overtime worked by such worker in that week, such employer shall be deemed to have agreed to pay such worker at the overtime rate for the amount of time which is the difference between such total and such weekly overtime, in addition to any other remuneration which such worker may be entitled to receive for such daily overtime.
+
+(3) In this section the expression “weekly overtime” means the amount of time in any week for which any employer permits any worker to work after having completed, in the case of an adult worker, forty-eight hours of work, and, in the case of a young person, forty hours work in that week, and the expression “overtime rate” when used in relation to the pay of any worker for doing any industrial work means a rate calculated by increasing by not less than twenty-five per cent. the rate at which such worker would be entitled to be paid for doing such industrial work if it were not done in overtime.

@@ -1,0 +1,7 @@
+Penalties for alteration of or disclosing information in placard or docket.
+
+20.—(1) If any person, otherwise than for the purpose of correcting a mistake, alters any piece work particulars docket, any piece work particulars placard or any piece work particulars book such person shall be guilty of an offence under this section, and shall on summary conviction thereof be liable to a fine not exceeding twenty pounds or to imprisonment for a period not exceeding six months, or at the discretion of the court to both such fine and such imprisonment.
+
+(2) If for the purpose of divulging a trade secret any person discloses any information derived by him from a piece work particulars docket, from a piece work particulars placard or from a piece work particulars book he shall be guilty of an offence under this sub-section, and shall be liable on summary conviction thereof to a fine not exceeding ten pounds.
+
+(3) If any person for the purpose of trade competition solicits or procures from any other person information derived by such other person from a piece work particulars docket, from a piece work particulars placard or from a piece work particulars book, or for the purpose of securing any such information so derived gives or offers or causes to be given or offered to such other person any reward such person shall be guilty of an offence under this sub-section and shall on summary conviction thereof be liable to a fine not exceeding ten pounds.
