@@ -1,0 +1,3 @@
+Consideration of minimum wages applications by the Minister and references to the Board.
+
+45.—On receipt of a minimum wages application in respect of a particular class of members of the staffs of shops situate in a particular area the Minister shall, subject however to the provisions of sub-section (2) of the immediately preceding section, consider such application, and, if satisfied that such application is well-founded and that, in case such application is not made by a person who belongs to that class, the applicant is in his opinion representative of such class, shall request the Board to fix minimum rates of wages for that class of members of the staffs of shops situate in the area specified in such request.

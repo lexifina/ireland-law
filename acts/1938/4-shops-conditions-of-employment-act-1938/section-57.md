@@ -1,0 +1,7 @@
+inspectors.
+
+57.—(1) Subject to the provisions of the Local Authorities (Officers and Employees) Act, 1926 (No. 39 of 1926), a sanitary authority shall for the purposes of this Part of this Act appoint such and so many inspectors as the Minister for Local Government and Public Health may approve or direct, and every inspector so appointed shall be deemed to be a sanitary officer within the meaning of section 11 of the Public Health (Ireland) Act, 1878, and the provisions of that section shall apply accordingly.
+
+(2) A sanitary authority may, if the Minister for Local Government and Public Health approves, in lieu of, or in addition to appointing inspectors under the immediately preceding sub-section, assign to any of the sanitary officers of such sanitary authority under section 11 of the Public Health (Ireland) Act, 1878, such duties in relation to the carrying out of this Part of this Act as such sanitary authority think proper and the said Minister approves, and any such officer to whom such duties shall have been so assigned shall perform such duties and shall, if so declared by the said Minister, be deemed to be an inspector appointed by such sanitary authority for the purposes of this Part of this Act.
+
+(3) References in the next following section of this Act to an inspector of a sanitary authority shall be construed as references to a person appointed or deemed to have been appointed under this section an inspector by such sanitary authority for the purposes of this Part of this Act.

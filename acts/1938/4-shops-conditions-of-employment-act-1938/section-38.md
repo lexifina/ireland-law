@@ -1,0 +1,11 @@
+Time of annual leave.
+
+38.—(1) The time in any employment year at which the proprietor of a shop shall allow annual leave to a member of the staff of such shop who is entitled to annual leave under this Part of this Act shall be selected by such proprietor.
+
+(2) If in any employment year of a member of the staff of a shop such employment year has so far expired that there remains only, in case such shop is a special-trade shop, fourteen working days thereof unexpired or, in case such shop is a non-special-trade shop, six working days thereof unexpired and the proprietor of such shop has not at that time allowed such member annual leave, such member, if he is entitled to annual leave under this Act, may absent himself from his work for such proprietor for such fourteen days or six days (as the case may be) and shall not by reason of so absenting himself be deemed to have committed any breach of his contract of service with such proprietor, and such proprietor shall pay to such member in respect of such fourteen days or six days (as the case may be) the amount which he would be liable to pay if he had allowed such fourteen days or six days as annual leave.
+
+(3) If the proprietor of a shop allows to a member of the staff of such shop in any employment year a period of annual leave earlier than, in case such shop is a special-trade shop, the last fourteen working days of such employment year or, in case such shop is a non-special-trade shop, the last six working days of such employment year and such member leaves the employment of such proprietor before the termination of such employment year, such proprietor shall not be entitled in respect of such allowance of annual leave to reduce the period of notice required for terminating such employment, nor the pay nor other emoluments to which such member may be entitled at the time of leaving such employment.
+
+(4) If the proprietor of a shop fails to pay to any member of the staff of such shop any moneys which become payable to such member under this section such member may recover such money as a simple contract debt from such proprietor.
+
+(5) In this section the expression “working days” means days which are reckonable as days of annual leave for the purposes of this Part of this Act.
