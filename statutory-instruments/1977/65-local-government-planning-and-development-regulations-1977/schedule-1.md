@@ -1,0 +1,3 @@
+FIRST SCHEDULE
+
+Regulations revoked.
