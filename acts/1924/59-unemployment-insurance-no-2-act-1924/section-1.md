@@ -1,0 +1,3 @@
+Calculation of amount of benefit.
+
+1.—For the purpose of determining the amount of benefit to which, having regard to the proportion of benefit to contributions fixed by paragraph 3 of the Second Schedule to the Unemployment Insurance Act, 1920, hereinafter referred to as the Principal Act, any person is entitled, but for no other purpose, no account shall be taken after the passing of this Act notwithstanding anything contained in the Unemployment Insurance Acts, 1920 to 1924, of any benefit which may have been received by such person during or in respect of the Third Benefit Year established by the Unemployment Insurance Act, 1924.
