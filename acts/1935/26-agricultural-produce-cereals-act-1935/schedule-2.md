@@ -1,0 +1,5 @@
+SECOND SCHEDULE.
+
+Minimum Prices for Home-Grown Millable Wheat for Sale (Wheat) Years 1935-36, and 1936-37.
+
+(1) (2) (3) Ref. No. Classes of Home-Grown Wheat Minimum Prices per Barrel of 20 Stones September, October, November, December January, February, March, April, May, June, July, August s. d. s. d. 1 Wheat having a bushel weight not less than 64 lbs 24 6 27 0 2 Wheat having a bushel weight less than 64 lbs. but not less than 63 lbs. 24 3 26 9 3 Wheat having a bushel weight less than 63 lbs. but not less than 62 lbs. 24 0 26 6 4 Wheat having a bushel weight less than 62 lbs. but not less than 61 lbs. 23 9 26 3 5 Wheat' having a bushel weight less than 61 lbs. but not less than 60 lbs. 23 6 26 0 6 Wheat having a bushel weight less than 60 lbs. but not less than 59 lbs. 23 3 25 9 7 Wheat having a bushel weight less than 59 lbs. but not less than 58 lbs. 23 0 25 6 8 Wheat having a bushel weight less than 58 lbs. but not less than 57 lbs, 22 9 25 3 9 Wheat having a bushel weight less than 57 lbs. but not less than 56 lbs. 22 6 25 0

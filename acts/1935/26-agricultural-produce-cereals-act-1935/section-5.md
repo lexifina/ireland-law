@@ -1,0 +1,5 @@
+Method of computing amount of wheat milled at a mill during the preliminary quota period and quota years.
+
+5.—(1) For the purposes of sections 28 and 30 of the Principal Act, as amended by the Amending Act of 1934, and of section 61 of the Amending Act of 1934, the amount of wheat milled at a particular licensed mill during the preliminary quota period or any quota year shall be taken to be the sum of the following amounts namely, the amount of wheat at such mill at the commencement of such period or year (as the case may be) and the amount of wheat delivered at such mill during such period or year (as the case may be), less the sum of the following amounts, namely, the amount of wheat at such mill immediately before the expiration of such period or year (as the case may be) and the amount of wheat consigned from such mill during such period or year (as the case may be).
+
+(2) The provisions of this section shall not apply in respect of any period commencing before the 1st day of August, 1935.
