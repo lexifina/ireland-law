@@ -1,0 +1,3 @@
+Regulation 14
+
+14. Where a customer of a tour operator or travel agent, as a result of intervention by the Minister under sections 13 (4) (a) or 18 (1) (a) of the Act, is provided with return travel facilities or is otherwise enabled to make the return journey provided for in the overseas travel contract, on a date prior to the return date specified in the contract, the amount of payment to that customer on foot of a claim under these Regulations shall not exceed the amount which is calculated on a proportionate basis to be equal to the uncompleted or outstanding portion of the overseas travel contract.
