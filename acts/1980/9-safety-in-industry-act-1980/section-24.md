@@ -1,0 +1,9 @@
+Docks, wharves, quays and warehouses.
+
+24.—(1) Section 32 (inserted by section 17 of this Act), section 45 and section 58 (as amended by section 20 of this Act) of the Principal Act shall apply to every dock, wharf, or quay (including any warehouse belonging to the owners, trustees or conservators of the dock, wharf or quay and any line or siding used in connection with and for the purposes of the dock, wharf or quay and not forming part of a railway or tramway) and every other warehouse (not forming part of a factory) in or for the purposes of which mechanical power is used, as if it were a factory, or, pending the commencement of section 7 (b) of this Act a factory to which the said section 45 applies, as may be appropriate, and as if the person having the actual use or occupation of it, or of any premises within or forming part of it, were the occupier of a factory.
+
+(2) Subsection (3) of section 86 of the Principal Act is hereby amended by the substitution of “persons working at machines” for “young persons working at dangerous machines”, and the said subsection (3), as amended by this subsection and by section 7 of this Act, is set out in the Table to this subsection.
+
+TABLE
+
+The provisions of Part III of this Act with respect to prime movers, transmission machinery, other machinery, provisions as to unfenced machinery, construction and maintenance of fencing, construction of machinery, cleaning of machinery by young persons, training and supervision of persons working at machines, hoists and lifts, chains, ropes and lifting tackle, cranes and other lifting machines, construction and maintenance of floors, passages and stairs, and the power of the District Court to make orders as to dangerous factories shall apply to every warehouse mentioned in subsection (1) of this section as if the warehouse were a factory and as if the person having the actual use or occupation thereof were the occupier of a factory.

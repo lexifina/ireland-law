@@ -1,0 +1,5 @@
+Noise.
+
+13.—(1) The occupier of a factory or specified premises shall, in relation to noise in the factory or other premises, take such steps (if any) as are appropriate either by reducing sound levels or otherwise, to ensure that noise in the factory or other premises, or in any part thereof, is such as not to be likely to injure the hearing or otherwise adversely affect the health of persons employed.
+
+(2) Where the Minister is satisfied that were the noise to which any persons employed in a factory or specified premises are exposed to be greater than a particular level in particular circumstances, a risk of bodily injury to such persons would occur or that were such noise to exceed in duration a particular period such a risk would occur, or that such noise would in other particular circumstances cause such a risk to occur, he may, after consultation with the Minister for Health, make regulations requiring occupiers to ensure, in those circumstances, either that noise in factories or specified premises does not exceed that level or that such persons are not in factories or specified premises exposed to noise greater than that level.
