@@ -1,0 +1,1 @@
+I, JUSTIN KEATING, Minister for Industry and Commerce, in exercise of the power conferred on me by section 3 of the European Communities Act, 1972 (No. 27 of 1972), hereby make the following Regulations:
