@@ -1,0 +1,3 @@
+Transfer of certain obligations of the Minister to the Institute.
+
+8.—The obligations imposed on the Minister by clauses 2 and 3 of the Inventory marked “A” and referred to in clause 10 (c) of the Agreement of 1944 (which said Inventory relates to employees and pensioners at Johnstown Castle) shall on and after the operative date cease to be the obligations of the Minister and become and be the obligations of the Institute, save that the obligation to pay a pension to any employee who retired before the operative date shall continue on and after the operative date to be discharged by the Minister.
