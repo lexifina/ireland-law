@@ -1,0 +1,7 @@
+Right of pawner to surplus on sale.
+
+33.—(1) Where, in the case of a pledge pawned for a sum exceeding two pounds or any pledge made up wholly or partly of gold, silver or other precious metal or of any precious or semiprecious stone, the amount obtained on the sale of the pledge exceeds the amount of the loan given on the pledge with the addition of the interest and lawful charges thereon and the fees paid by the pawnbroker in respect of the sale, the holder of the pawn-ticket in respect of the pledge, may, subject to the provisions of this Act, demand and obtain the amount of the excess from the pawnbroker at any time before the expiration of twelve months from the date of the sale.
+
+(2) If, however, in a case where there is an excess such as is referred to in subsection (1) of this section, it appears from the pawnbroker's sale book that, within six months before or after the date of the sale, on the sale of any other pledge pawned by the same pawner the amount obtained for such other pledge was less than the amount of the loan thereon with the addition of the interest and the lawful charges and the fees paid by the pawnbroker in respect of its sale, the pawnbroker may set off theamount of the deficit against the amount of the excess and shall be liable to pay only the balance (if any) to the holder of the pawnticket.
+
+(3) A pawnbroker who, on demand, fails to pay to the holder of a pawn-ticket the amount which he is liable to pay to him under this section shall be guilty of an offence.
