@@ -1,0 +1,3 @@
+Article 6
+
+6. Have you been resident in the State for a continuous period of at least six months ?.................................
