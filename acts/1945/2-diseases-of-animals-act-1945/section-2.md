@@ -1,0 +1,5 @@
+Extension and amendment of section 10 of the Principal Act.
+
+2.—(1) Sub-section (1) of section 10 of the Principal Act is hereby amended by the deletion therefrom of the words “other than cattle plague, pleuro-pneumonia, or foot-and-mouth disease”, and sub-section (2) of the said section 10 is hereby amended by the deletion therefrom of the words “as well as a place or area declared infected with cattle plague, pleuro-pneumonia, or foot-and-mouth disease”, and accordingly the said section 10 shall apply and have effect in relation to places and areas infected with cattle plague, pleuro-pneumonia, or foot-and-mouth disease in like manner as it applies and has effect in relation to places infected with other diseases.
+
+(2) Sub-section (5) of section 10 of the Principal Act shall apply and have effect in relation to a notice served in pursuance of a direction of the Minister or a local authority by virtue of an order made under that section in like manner as it applies and has effect in relation to an order of the Minister or a local authority.
