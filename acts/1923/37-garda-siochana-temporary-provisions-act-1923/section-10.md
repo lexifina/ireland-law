@@ -1,0 +1,5 @@
+Disposition of Reserve Force.
+
+10.—(1) A portion of the Gárda Síochána (in this Act called the Reserve Force) not exceeding the numbers specified in the Third Schedule to this Act shall normally be retained in such reserve depot in the City of Dublin or elsewhere as the Minister shall from time to time direct.
+
+(2) If and whenever the Minister is of opinion on the advice of the Council of the County, County Borough or Urban or Rural District, concerned, or on the advice of the Commissioner or otherwise, that in order to meet an existing or anticipated disturbance or other special circumstance it is necessary or expedient to increase temporarily the numbers of the Gárda Síochána stationed in any County, County Borough, Urban or Rural District, or (in the case of the Dublin Metropolitan Police District) to employ therein members of the Gárda Síochána for ordinary police duties, the Commissioner shall station temporarily in such County, County Borough, Urban or Rural District, so many of the Reserve Force for such period as he shall think proper but not exceeding the numbers or period authorized by the Minister.

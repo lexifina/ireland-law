@@ -1,0 +1,3 @@
+Duty of member of Gárda Síochána on resignation or dismissal.
+
+13.—Whenever a member of the Gárda Síochána shall duly resign or be dismissed from such membership, he shall within one week after such resignation or dismissal deliver all clothing, equipment and other articles supplied to him as such member to such officer of the Gárda Síochána as may be nominated by the Commissioner to take delivery thereof, and any such member who shall neglect or refuse so to deliver all such clothing, equipment and other articles shall be liable on summary conviction to a fine not exceeding fifty pounds or to imprisonment with or without hard labour for any period not exceeding six months.
