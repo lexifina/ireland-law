@@ -1,0 +1,3 @@
+Boundary alterations under section 19; supplementary provisions.
+
+20.—The Minister shall, as soon as may be after the commencement of section 19 of this Act and in any event not later than the date of the making of an order under section 84 (as amended by section 4 of the Local Elections Act, 1966) of the Electoral Act, 1963, fixing the polling day at the local elections to be held in 1985, make an order under subsection (2) (as amended by section 87 (4) of the Electoral Act, 1963) of section 35 of the Local Government Act, 1941, in respect of the Borough of Galway and an order under section 33 of the said Act, in respect of the county of Galway.

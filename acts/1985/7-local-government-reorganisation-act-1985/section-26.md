@@ -1,0 +1,3 @@
+Number of members of certain committees of agriculture.
+
+26.—Rule 3 (inserted by section 26 (1) of the Agriculture (An Chomhairle Oiliúna Talamhaíochta) Act, 1979) of the Second Schedule to the Agriculture Act, 1931, shall, as regards the Dublin Committee of Agriculture and such other committee of agriculture (if any) as for the time being stands specified in an order made for the purposes of this section by the Minister, be construed and have effect as if “the same number as the number appointed at the annual meeting of the council held next before the commencement of section 12 of the Local Government (Reorganisation) Act, 1985,” were substituted for “four times the number of county electoral areas in the county at the date of that annual meeting”.
