@@ -1,0 +1,7 @@
+S.I. No. 194 of 1964.
+
+WHEAT ORDER, 1964.
+
+ARRANGEMENT OF ARTICLES.
+
+Article.
