@@ -1,0 +1,9 @@
+STATUTORY RULES AND ORDERS. 1940. No. 180.
+
+AIR-RAID PRECAUTIONS (APPROVAL OF EXPENDITURE BY ESSENTIAL UNDERTAKERS) REGULATIONS, 1940.
+
+WHEREAS it is enacted by section 46 of the Air-Raid Precautions Act, 1939 (No. 21 of 1939), that the Minister for Defence with the concurrence of the Minister for Finance shall, out of moneys provided by the Oireachtas, pay towards such expenditure by an essential undertaker under Part III of the said Act as may be approved by the Minister for Defence in accordance with regulations to be made under the said Part III grants not exceeding fifty per cent. of such approved expenditure :
+
+AND WHEREAS it it enacted by section 48 of the said Act that the Minister for Defence may, with the concurrence of the Minister for Finance, make regulations in relation to (amongst other matters) the approval by the Minister for Defence of expenditure of essential undertakers incurred for the purposes of air-raid precautions (essential undertaker's) schemes, or incurred, with the concurrence of the Minister for Defence, otherwise than in pursuance of air-raid precautions schemes, for the protection of persons and property from injury or damage in the event of attack from the air, and in particular as to the manner in which any such expenditure is to be estimated for the purpose of being so approved, and such regulations may permit the approval of expenditure incurred after the 30th day of September, 1938 :
+
+NOW, THEREFORE, I, SEÁN MOYLAN, Parliamentary Secretary to the Minister for Defence, in exercise of the powers conferred on the Minister for Defence by section 48 of the Air-Raid Precautions Act, 1939 (No. 21 of 1939), and delegated to me under section 6 of the Emergency Powers Act, 1939 (No. 28 of 1939), and of every and any other power me in this behalf enabling, do hereby with the concurrence of the Minister for Finance testified by his signature hereto, make the following regulations, that is to say :—
