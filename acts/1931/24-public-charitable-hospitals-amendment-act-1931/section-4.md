@@ -1,0 +1,5 @@
+Deposits of amount or value of prizes.
+
+4.—(1) Where the amount or value of the prizes or of some of the prizes in a sweepstake is dependent on or to be calculated by reference to the amount of the moneys received from the sale of tickets in such sweepstake, the committee managing such sweepstake shall, notwithstanding anything contained in section 4 of the Principal Act, deposit under the said section 4 in the first instance a sum equal to the guaranteed minimum amount or value of such prizes and increase the amount of such deposit from time to time as may be necessary in order to comply with the next following sub-section of this section.
+
+(2) In any case to which the foregoing sub-section of this section applies, the amount of the deposit made under section 4 of the Principal Act shall not at any time be less than the sum which would be the total amount or value of the prizes to be drawn for in the sweepstake or at the drawing in relation to which such deposit is so made if such amount or value were calculated by reference to the amount of the moneys at that time already received from the sale of tickets in such sweepstake.
