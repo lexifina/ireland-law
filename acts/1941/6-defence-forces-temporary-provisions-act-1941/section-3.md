@@ -1,0 +1,3 @@
+Application of section 9 of the Defence Forces (Temporary Provisions) Act, 1925, to officers of the Forces.
+
+3.—Section 9 (which relates to lunatic soldiers on discharge) of the Defence Forces (Temporary Provisions) Act, 1925 (No. 4 of 1925), shall apply in respect of an officer of the Forces who is retired therefrom upon the grounds of infirmity of mind and who is certified by a registered medical practitioner to be a person of unsound mind and to be a proper person to be detained under care and treatment in like manner as the said section applies to a soldier of the Forces in respect of whom, upon his discharge, it is similarly certified.
