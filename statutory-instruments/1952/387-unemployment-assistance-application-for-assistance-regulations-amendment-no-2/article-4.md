@@ -1,0 +1,3 @@
+Article 4
+
+4. The First Schedule to the Unemployment Assistance (Application for Assistance Regulations) Order, 1934 (S. R. & O., No. 126 of 1934), as amended by the Unemployment Assistance (Application for Assistance Regulations) (Amendment) Order, 1935 (S. R. & O., No. 575 of 1935), the Unemployment Assistance (Application for Assistance Regulations) (Amendment) Order, 1948 ( S.I. No. 411 of 1948 ), and the Unemployment Assistance (Application for Assistance Regulations) (Amendment) Order, 1952 ( S.I. No. 169 of 1952 ), is hereby further amended by the substitution for the Form set out therein of the Form set out in the Schedule to this Order.
