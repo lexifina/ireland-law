@@ -1,0 +1,97 @@
+Article 14
+
+14. If the purchaser requires tests, he shall take samples for testing and shall make arrangements for tests to be carried out in accordance with this specification. The cost of such tests and the cost of the materials therefor shall be borne
+
+(a) by the manufacturer, in the event of the results showing that the blocks do not comply with the specification,
+
+(b) by the purchaser, in the event of the results showing that the blocks comply with the specification.
+
+Appendix A
+
+DETERMINATION OF AMOUNT OF MATERIAL PASSING A NO. 200 TEST SIEVE
+
+The laboratory sample, taken in accordance with Appendix E, shall be thoroughly mixed and shall contain sufficient moisture to prevent segregation. A sample sufficient to yield not less than one pound of dried material, shall be selected by quartering from the laboratory sample.
+
+The sample shall be dried to constant weight at a temperature between 100°C and 110°C and shall be allowed to cool to room temperature in a desiccator and weighed (Weight A).
+
+The sample shall then be placed in a pan or container and covered with water. The pan or container shall be large enough to permit of vigorous agitation without accidental loss of any part of the sample or of water. The contents of the container shall be agitated vigorously so that the fine material is brought into suspension and the wash water shall then be poured immediately over a No. 14 test sieve and a No. 200 test sieve arranged with the coarser sieve on top. The test sieves shall conform to I.S. 24 : 1950. Care shall be taken to avoid decantation of the coarse particles of the sample. The operation shall be repeated until the wash water is clear. All material retained on the sieves shall be returned to the washed sample.
+
+The washed material shall be dried to constant weight at a temperature between 100°C. and 110°C. and weighed (Weight B).
+
+The results shall be calculated from the following formula :
+
+Percentage of material passing a No. 200 test sieve =
+
+When check determinations are desired, the wash water shall be either evaporated to dryness or filtered through tared filter paper which subsequently shall be dried and the residue weighed (Weight C). The percentage shall be calculated from the following formula :
+
+Percentage of material passing a No. 200 test sieve =
+
+Appendix B
+
+DETERMINATION OF ORGANIC IMPURITIES
+
+The aggregate to be tested shall be used as delivered without drying. A sample weighing 1 lb. shall be selected by quartering from the laboratory sample taken in accordance with Appendix E. A 12 oz. clear glass bottle graduated to ½oz. shall be filled to the 4½ oz. mark with the sample. A 3 per cent. solution of sodium hydroxide in water shall be added until the volume of the sand and liquid indicated, after shaking, is 7 fluid ounces. The bottle shall be stoppered, shaken vigorously and then allowed to stand for 24 hours.
+
+The amount of organic impurity shall be assessed by the extent to which the liquid above the sand is darker in colour than the reference solution.
+
+The reference solution shall be prepared by adding 2·5 ml. of a 2 per cent. solution of tannic acid in 10 per cent. alcohol to 97·5 ml. of a 3 per cent. sodium hydroxide solution. The solution shall then be placed in a 12 oz. bottle of similar shape to the bottle containing the sample. The bottle shall be stoppered, shaken vigorously, allowed to stand for 23 hours, again shaken, and allowed to stand for a further I hour before comparison with the liquid above the sand.
+
+Appendix C
+
+METHOD FOR CARRYING OUT COMPRESSIVE STRENGTH TEST
+
+Five whole blocks shall be used for determining the compressive strength.
+
+The determination shall be made by applying a load to the bedding surfaces of the block, i.e. the surfaces at right angles to the height which is the dimension indicated as the height in Clause 7 of this specification.
+
+The gross area of each of the two bedding surfaces shall be determined from the overall dimensions of the surfaces measured to the nearest 0·05 in. The smaller of the two areas shall be taken as the gross area for the purpose of calculating the compressive strength.
+
+Both the bedding surfaces shall be capped with mortar in the following manner. A quantity of mortar, made of I part by volume of Portland cement and 1 part of plaster of Paris and mixed with sufficient water to spread evenly, shall be spread on a plane surface which has been coated with oil. Each of the surfaces to be capped shall be placed on this mortar in turn, and the block, held with its axis at right angles to the oiled surface, shall be pressed down firmly with a single motion. The surfaces of the capping shall be parallel. The average thickness of the cap after the extruded mortar has been removed and the edges made true shall be not more than 1/8 in. Imperfect caps shall be removed and replaced by new ones. Patching of caps after setting shall not be permitted. When the caps are aged two hours the blocks shall be immersed in water at a temperature of 14°C. to 18°C. for at least twenty-four hours before testing.
+
+The block shall be placed in the testing machine so that the direction of loading shall be at right angles to the capped surfaces. The load shall be applied axially at a uniform rate of 1,000 lb. per sq. in. per minute.
+
+The maximum load in pounds supported by each block before failure occurs shall be divided by the gross area in square inches. The lowest of the five values shall be taken as the compressive strength of the blocks.
+
+Appendix D
+
+METHOD FOR THE DETERMINATION OF ABSORPTION AND MOISTURE CONTENT
+
+Three blocks shall be tested and three shall be stored in airtight containers at normal room temperature for repeat tests if required.
+
+The block shall be weighed on a balance sensitive to ¼ lb. (Weight A).
+
+The block shall be completely immersed in water at a temperature of 14°C. to 18°C. for twenty-four hours. The block shall then be weighed while suspended with a metal wire and completely submerged in water (Weight B). It shall be removed from the water, allowed to drain for one minute by placing it on a 3/8 in. or coarser wire mesh, visible surface water removed with a damp cloth, and the block immediately weighed (Weight C).
+
+The block shall then be dried in an oven at 100°C. to 115°C. and weighed at twenty-four hour intervals until the loss of weight does not exceed 1 per cent. in a twenty-four hour period (Weight D).
+
+The absorption of the block shall be calculated as follows :
+
+Absorption, lb. per cu. ft. =
+
+The arithmetic mean of the absorption of the three blocks shall be taken as the absorption of the blocks for the purpose of Clause II of this specification.
+
+The moisture content of the block expressed as a percentage of the total absorption shall be calculated as follows :
+
+Moisture Content, per cent. =
+
+The arithmetic mean of the moisture content of the three blocks shall be taken as the moisture content of the blocks for the purpose of Clause 11 of this specification.
+
+Appendix E
+
+METHOD FOR SAMPLING AGGREGATE
+
+A main sample of not less than ½ cubic yard (12 cwt.) shall be obtained by thoroughly mixing together initial samples taken as follows :
+
+(i) In the case of sampling from stock piles, twelve initial samples of about 1 cwt. each from different parts of the stock pile, care being taken to avoid sampling a segregated area of course or fine material.
+
+(ii) In the case of sampling from bins, six initial samples of about 1 cwt. each from the top surface of the bin and a single initial sample of about 6 cwt. from the discharging chute.
+
+(iii) When sampling during loading or unloading of a vehicle or boat, twelve initial samples of about 1 cwt. each taken at approximately equal intervals throughout the loading or unloading operation.
+
+The main sample shall be quartered down to a laboratory sample of 1 cwt. and shall be despatched to the testing laboratory, care being taken to avoid loss of any fine material.
+
+GIVEN under my Official Seal this 2nd day of February, 1953.
+
+(Signed) SEÁN F. LEMASS,
+
+Minister for Industry and Commerce.
