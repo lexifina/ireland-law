@@ -1,0 +1,3 @@
+Amendment of section 28 (relief in relation to income from shipping trade) of Finance Act, 1987.
+
+62.—Subsection (1) of section 28 of the Finance Act, 1987, is hereby amended by the insertion after “tug” in subparagraph (ii) of the definition of “qualifying ship” of “other than a tug in respect of which a certificate has been given by the Minister for the Marine certifying that, in the opinion of the Minister, the tug is capable of operating in seas outside the portion of the seas which are, for the purposes of the Maritime Jurisdiction Act, 1959 (as amended by the Maritime Jurisdiction (Amendment) Act, 1988), the territorial seas of the State”.

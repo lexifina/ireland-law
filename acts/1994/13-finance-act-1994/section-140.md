@@ -1,0 +1,23 @@
+Abatement and postponement of tax.
+
+140.—(1) Chapter 1 of Part VI of the Finance Act, 1993, is hereby amended by the insertion after section 115 of the following section—
+
+“115A.—(1) Where the spouse of a deceased survives the deceased, probate tax chargeable by virtue of section 110 which is borne by property which, at the date of death of the deceased, represents the share of that spouse in the estate of the deceased, shall be abated to a nil amount:
+
+Provided that—
+
+(a) where the same property represents more than one person's share in the estate of the deceased and that spouse's interest in that property at that date is not a limited interest to which paragraph (b) relates, only a proportion of the probate tax borne by that property shall be abated to a nil amount and that proportion shall be the proportion which the value of that interest at that date bears to the total value of the property at that date, and for this purpose the value of that interest at that date shall not include the value of any interest in expectancy created by the will or other testamentary disposition of the deceased;
+
+(b) where a limited interest to which that spouse became beneficially entitled in possession on that date was created by the will or other testamentary disposition of the deceased, probate tax borne by the property in which that limited interest subsisted on that date shall not be abated to a nil amount, but, notwithstanding section 117 (a), that tax shall not become due and payable until the date of the cesser of that limited interest and every person who (on the cesser of that limited interest) takes an inheritance which consists of all or part of the property in which that limited interest subsisted immediately prior to that cesser (hereinafter in this proviso referred to as ‘the said property’) and every trustee or other person in whose care the said property or the income therefrom is placed at the date of that cesser and every person in whom the said property is vested after that date, other than a bona fide purchaser or mortgagee for full consideration in money or money's worth, or a person deriving title from or under such a purchaser or mortgagee shall, notwithstanding any other provision to the contrary, be the only persons accountable for the payment of that tax and that tax shall be a charge on the said property in all respects as if the date of the inheritance in respect of which that tax is chargeable were the date of such cesser and the said property were property of which, for the purpose of section 47 of the Principal Act, that inheritance consisted at that date;
+
+(c) if consideration in money or money's worth is paid to that spouse on the coming to an end of the limited interest referred to in paragraph (b) of this proviso before the event on which that interest was limited to cease, an appropriate proportion of the probate tax borne by the said property shall be abated to a nil amount and that proportion shall be the proportion which the value of that consideration bears to the value of the said property at the date of the cesser.
+
+(2) Where the spouse of a deceased survives the deceased, probate tax chargeable by virtue of section 110 which is borne by the dwelling-house, or by any part thereof, shall, notwithstanding subsection (1) and section 117 (a), not become due and payable until the date of death of that spouse and, notwithstanding any provision to the contrary, the only persons who shall be accountable for that tax shall be the following, that is to say—
+
+(a) any person who takes an inheritance under the will or other testamentary disposition of the deceased which consists in whole or in part of the dwelling-house, or part thereof, or which consists of property which represents that dwelling-house or part; and
+
+(b) any trustee in whom the property comprised in any such inheritance is vested at the date of death of that spouse or at any time thereafter and any other person in whom the property comprised in any such inheritance becomes vested for a beneficial interest in possession at any time thereafter, other than a bona fide purchaser or mortgagee for full consideration in money or money's worth, or a person deriving title from or under such a purchaser or mortgagee.
+
+(3) Where the date upon which tax becomes due and payable is postponed by virtue of subsection (1) (b) or subsection (2), then, notwithstanding paragraph (b) of section 117, interest upon that tax shall not be payable in respect of the period commencing on the valuation date and ending 9 months after the date on which that tax actually becomes due and payable.”.
+
+(2) This section shall have effect in relation to persons dying after the 17th day of June, 1993.

@@ -1,0 +1,3 @@
+Provision relating to section 5 (gift deemed to be taken) of Principal Act and section 121 of Finance Act, 1993.
+
+147.—Without prejudice to the meaning of section 5 of the Principal Act as enacted, that section shall have effect and be deemed always to have had effect as if the provisions of section 121 of the Finance Act, 1993, had not been enacted, except where the consideration referred to in the said section 5, being consideration in relation to a disposition, could not reasonably be regarded (taking into account the disponer's position prior to the disposition) as representing full consideration to the disponer for having made such a disposition.
