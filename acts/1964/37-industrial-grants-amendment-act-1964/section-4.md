@@ -1,0 +1,5 @@
+Penalty for false or misleading statements.
+
+4.—(1) A person who, for the purpose of obtaining in respect of an industrial undertaking a grant payable by virtue of section 3 of this Act, knowingly makes a false statement or false representation either verbally or in writing or knowingly conceals any material fact shall be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding £100 or to imprisonment for a term not exceeding six months or to both the fine and the imprisonment or, on conviction on indictment, to a fine not exceeding £5,000 or to imprisonment for a term not exceeding two years or to both the fine and the imprisonment.
+
+(2) Where an offence under this section which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person purporting to act in any such capacity, he as well as the body corporate shall be deemed to be guilty of the offence.
