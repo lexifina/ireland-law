@@ -1,0 +1,3 @@
+Incorporation of public assistance authorities.
+
+2.—In order to remove doubts it is hereby declared and enacted that every provision contained in a county scheme, whether originally contained therein or inserted therein by amendment under section 5 of the Local Government (Temporary Provisions) Act, 1923 (No. 9 of 1923), whereby the body entrusted by such scheme with the administration of the relief of the poor was declared to be a body corporate with power to acquire and hold land shall be and be deemed always to have been valid and effectual, but subject and without prejudice to the provisions of sections 10 and 12 of the Local Government Act, 1925 (No. 5 of 1925), where those provisions apply.
