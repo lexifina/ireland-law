@@ -1,0 +1,5 @@
+Offences.
+
+4.—(1) Where an offence under any order made under this Act or under sub-section (2) of the immediately preceding section was committed by a body corporate and is proved to have been so committed with the consent or approval of, or to have been facilitated by any neglect on the part of, any director, manager, secretary or other officer of such body corporate, such director, manager, secretary or other officer shall also be deemed to be guilty of such offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Any offence under any order made under this Act may be prosecuted by the Minister.
