@@ -1,0 +1,5 @@
+Inspection of documents in bookmakers' premises.
+
+29.—(1) An authorised officer of the Board may (subject to the production by him if so required of his authority in writing as such authorised officer) at any time enter any premises in which the business of bookmaking is carried on and there search for, inspect and take copies of or extracts from any documents there found relating or believed by such authorised officer to relate to course bets entered into by the person engaged in the said business and may require any person found in such premises to produce all documents in such premises relating to such course bets.
+
+(2) Every person who resists, obstructs or impedes an authorised officer of the Board in the exercise of any power conferred on him by this section or refuses without lawful or sufficient excuse to produce any document which he is required by an authorised officer of the Board under this section to produce shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding fifty pounds.
