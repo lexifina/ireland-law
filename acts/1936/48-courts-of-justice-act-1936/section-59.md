@@ -1,0 +1,3 @@
+Appeals in licensing and club cases.
+
+59.—Notwithstanding anything contained in any other enactment and, in particular, notwithstanding anything contained in section 18 of the Courts of Justice Act, 1928 (No. 15 of 1928), as amended by this Act, every appeal which lies to the Circuit Court from an order of the District Court in a criminal case, under the Licensing (Ireland) Acts, 1833 to 1927, or under the Registration of Clubs Acts, 1904 to 1927, shall lie to the judge of the Circuit Court within whose circuit is situate the licensed premises or the club premises on or in respect of which the offence the subject of such order was committed or to which such order otherwise relates.

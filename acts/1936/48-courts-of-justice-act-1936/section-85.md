@@ -1,0 +1,3 @@
+Amendment of section 9 of the Summary Jurisdiction (Ireland) Amendment Act, 1871.
+
+85.—Section 9 of the Summary Jurisdiction (Ireland) Amendment Act, 1871, is hereby amended by the deletion from the said section of the words “any of the divisional justices of the police district of Dublin Metropolis presiding in one of the public courts of the said district”, and the insertion in the said section of the words “a justice of the District Court” in lieu of the words so deleted, and the said section shall be construed and have effect accordingly, and the said section as so amended shall have effect throughout Saorstát Eireann.

@@ -1,0 +1,5 @@
+Provision of accommodation for judges of the High Court on circuit.
+
+44.—(1) On the occasion of every sitting of the High Court on circuit in an appeal town, it shall be the duty of the county registrar within whose functional area such appeal town is situate to arrange for the provision of suitable lodgings, meals, and other accommodation for the judges (including commissioners of the High Court on circuit) constituting the said Court at such sitting and for the servants attached to each such judge or commissioner in pursuance of this Part of this Act while they respectively are in such appeal town for the purposes of their duties as such judges, commissioners, or servants.
+
+(2) All expenses incurred in the provision of accommodation for judges (including commissioners) of the High Court on circuit and their servants in pursuance of this section shall, to such extent as the Minister for Justice, with the sanction of the Minister for Finance, shall determine, be paid out of moneys provided by the Oireachtas.

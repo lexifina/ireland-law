@@ -1,0 +1,3 @@
+Liability of unsuccessful defendant for costs of successful defendant.
+
+78.—Where, in a civil proceeding in any court, there are two or more defendants and the plaintiff succeeds against one or more of the defendants and fails against the others or other of the defendants, it shall be lawful for the Court, if having regard to all the circumstances it thinks proper so to do, to order that the defendant or defendants against whom the plaintiff has succeeded shall (in addition to the plaintiff's own costs) pay to the plaintiff by way of recoupment the costs which the plaintiff is liable to pay and pays to the defendant or defendants against whom he has failed.

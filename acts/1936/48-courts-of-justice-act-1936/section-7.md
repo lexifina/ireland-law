@@ -1,0 +1,9 @@
+The Judicial Commissioner of the Irish Land Commission.
+
+7.—(1) Every judge of the High Court who, at any time after the commencement of Part I of the Principal Act and before the passing of this Act, discharged the office of Judicial Commissioner of the Irish Land Commission shall be deemed to have been, while so discharging such office, duly assigned in manner prescribed by law within the meaning of section 3 of the Land Law (Commission) Act, 1923 (No. 27 of 1923), to discharge that office.
+
+(2) The President of the High Court shall, from time to time as occasion requires, assign a judge of the High Court to discharge the office of Judicial Commissioner of the Irish Land Commission, and the President of the High Court may, whenever he thinks proper so to do, terminate any such assignment previously made by him.
+
+(3) The President of the High Court may, whenever the judge for the time being assigned by him under the next preceding sub-section of this section to discharge the office of Judicial Commissioner of the Irish Land Commission is temporarily unable owing to other public duties or services temporarily imposed on him or on account of illness or for any other sufficient cause to discharge the duties of the said office, assign temporarily (without terminating the assignment of the said judge) another judge of the High Court to discharge during such inability the said office.
+
+(4) Every judge of the High Court who shall be assigned under this section to discharge the office of Judicial Commissioner of the Irish Land Commission (including a judge so assigned temporarily) shall be deemed to be so assigned in manner prescribed by law within the meaning of section 3 of the Land Law (Commission) Act, 1923 (No. 27 of 1923), and that section shall apply and have effect accordingly.

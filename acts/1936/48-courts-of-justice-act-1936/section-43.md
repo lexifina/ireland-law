@@ -1,0 +1,3 @@
+Servants of judges of the High Court on Circuit.
+
+43.—There shall be attached to every judge travelling and sitting as a judge of the High Court on Circuit and to every Commissioner of the High Court on Circuit one servant to perform such duties in relation to such judge or commissioner while travelling and sitting as such judge or commissioner as the Minister for Justice may appoint, and every such servant shall be appointed by the said Minister and shall hold office on such terms and conditions and receive out of moneys provided by the Oireachtas such remuneration and travelling expenses as the said Minister, with the sanction of the Minister for Finance, shall determine.

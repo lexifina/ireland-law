@@ -1,0 +1,11 @@
+Power of Minister for Justice to prescribe court fees.
+
+65.—(1) It shall be lawful for the Minister for Justice, by order made with the consent of the Minister for Finance, to prescribe and from time to time as occasion requires vary or otherwise revise the fees to be charged in the several offices established by the Court Officers Act, 1926 (No. 27 of 1926), as amended by subsequent enactments (including this Act), and the persons by whom and the occasions on which such fees are to be paid and the officers by whom and the manner in which such fees are to be collected.
+
+(2) An order made by the Minister for Justice under this section may provide that in every financial year commencing after the making of such order there shall be payable, by way of court fees, a percentage on the annual income arising in such year from the property of every person of unsound mind and every minor under the jurisdiction transferred by sub-section (1) of section 19 of the Principal Act to the Chief Justice, and such order may prescribe and from time to time vary the amount, method of calculation, collection, and disposal of such percentage, and, if thought fit, general or special exemptions therefrom, and such order may, in relation to the property of persons of unsound mind, be made by way of variation or extension of or in substitution for all or any of the provisions of sections 109 to 114 of the Lunacy Regulation (Ireland) Act, 1871.
+
+(3) Unless and until the fees to be charged in any office established by the Court Officers Act, 1926, as amended by subsequent enactments (including this Act) are prescribed by an order made under this section, there shall be charged in such office the fees which were chargeable therein immediately before the passing of this Act, and all such fees shall be paid by the persons and on the occasions and be collected by the officers and in the manner by whom and on and in which such fees were payable and collectable immediately before such passing.
+
+(4) All fees collected under this section or under an order made under this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance shall direct.
+
+(5) The Public Offices Fees Act, 1879, shall not apply to any fees chargeable under this section or an order made under this section.
