@@ -1,0 +1,3 @@
+Costs in appeals from the Circuit Court.
+
+4.—Whenever and wherever, before the passing of this Act or after such passing and before the appointed day, costs are awarded (whether payable by a person or persons or out of an estate or fund) by the High Court in an appeal from the Circuit Court, the Taxing Master charged with the duty of taxing such costs shall have and be deemed always to have had jurisdiction to tax so much of such costs as relate to proceedings in the Circuit Court either, at his discretion, on the principle that the amount of such costs should be two-thirds of the sum to which such costs would amount if taxed as if they were costs incurred in the High Court, or on such other principle as such Taxing Master thinks proper to adopt in any particular case.

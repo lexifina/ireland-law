@@ -1,0 +1,5 @@
+Costs in High Court cases within the jurisdiction of the Circuit Court.
+
+3.—(1) Whenever and wherever either before the passing of this Act or after such passing and before the appointed day, the costs of any party to any proceedings in the High Court are required by law or by an order of that Court to be taxed or ascertained as if they were costs incurred in the Circuit Court, the Taxing Master charged with the duty of taxing such costs shall have and be deemed always to have had jurisdiction to tax such costs either, at his discretion, on the principle that the amount of such costs should be two-thirds of the sum to which such costs would amount if taxed as if they were costs incurred in the High Court, or on such other principle as such Taxing Master thinks proper to adopt in any particular case.
+
+(2) Nothing in this section shall apply to any costs which before the passing of this Act were directed by the Supreme Court to be taxed on any particular principle appointed by that Court in respect of those particular costs.
