@@ -1,0 +1,3 @@
+Regulation 8
+
+8. The occupier shall provide and maintain for the use of all women and young persons employed in a lead process and remaining on the premises during meal intervals suitable and adequate arrangements for the taking of meals. Such arrangements shall consist of the use of a room separate from any workroom, which shall be furnished with sufficient tables and chairs or benches with back rests, and unless a canteen serving hot meals is provided, adequate means of warming food and boiling water. The room so provided shall be sufficiently warmed for use during meal intervals, shall be placed under the charge of a responsible person, and shall be kept clean.
