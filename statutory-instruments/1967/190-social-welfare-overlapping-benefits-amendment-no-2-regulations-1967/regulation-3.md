@@ -1,0 +1,5 @@
+Regulation 3
+
+3. Sub-article (5) of article 4 of the Principal Regulations as amended by the Social Welfare (Overlapping Benefits) (Amendment) Regulations, 1966 ( S.I. No. 247 of 1966 ) is hereby deleted and the following sub-article is substituted therefor—
+
+"(5) Where in respect of any week a widow is in receipt of a widow's (non-contributory) pension under the Widows' and Orphans' Pensions Acts at a reduced rate by reason of her means or a widow's (contributory) pension at a rate less than that specified in the Third Schedule to the Act, the provisions of sub-article (1) and, as appropriate, sub-articles (2) or (3) of this article shall not apply, but if, in respect of that week, the total amount payable to her by way of such pension and disability benefit or unemployment benefit (including any increase under section 27 (1) of the Act) would exceed the amount which would be payable if the pension were not reduced and sub-article (1) and, as appropriate, sub-articles (2) or (3) applied, the benefit shall be reduced by the amount of the excess."
