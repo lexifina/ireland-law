@@ -1,0 +1,12 @@
+# Control of Imports (Quota No. 35, Thirty-Second Period) (Sparking Plugs) Order, 1957
+
+S.I. No. 190 of 1957 · <https://www.irishstatutebook.ie/eli/1957/si/190/made/en/html>
+
+As made (23 September 1957), from the electronic Irish Statute Book. Later amendments are not applied.
+
+| Provision | File |
+| --- | --- |
+| S.I. No. 190 of 1957. | [preamble.md](preamble.md) |
+| Article 1 | [article-1.md](article-1.md) |
+| Article 2 | [article-2.md](article-2.md) |
+| Article 3 | [article-3.md](article-3.md) |
