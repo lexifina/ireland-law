@@ -1,0 +1,3 @@
+Nomination of county registrar to arbitrate.
+
+11.—If, during any period, the office of county registrar for a particular area is vacant or the county registrar for a particular area is unable owing to illness or for any other reason to transact the business of his office, the Minister may nominate any county registrar to hear and determine by arbitration under section 17 of the Act of 1967 a particular dispute, question or difficulty to which that section applies arising in that area or any dispute, question or difficulty to which that section applies so arising and the matter may be heard and determined accordingly.
