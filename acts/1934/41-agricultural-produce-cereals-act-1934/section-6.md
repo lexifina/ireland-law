@@ -1,0 +1,3 @@
+Variation of quota for preliminary quota period.
+
+6.—Where an order has been made under section 27 of the Principal Act fixing the quota for a mill in respect of the preliminary quota period for such mill, the Minister for Industry and Commerce may, before the 1st day of July in such preliminary quota period, by order increase or reduce such quota, and whenever any such order is made in respect of a mill the quota for such mill in respect of the preliminary period shall, notwithstanding anything contained in section 27 of the Principal Act, be for the purposes of the Principal Act the quota fixed by such first-mentioned order, as increased or reduced by such last-mentioned order.

@@ -1,0 +1,3 @@
+Amendment of definition of “flour” in the Principal Act.
+
+5.—The definition of the word “flour” contained in section 3 of the Principal Act is hereby amended by the substitution of the words “the finely-reduced product of wheat obtained by sifting the ground endosperm of the wheat berry through a standard bolting cloth, not coarser than a No. 9 standard bolting cloth, the bran and pollard of the wheat having been removed by suitable milling processes;” for the words, “any flour obtained from wheat but does not include meal derived from wheat or offals of wheat” now contained therein, and the Principal Act and this Part of this Act shall be construed and have effect with due regard to the modification of the said expression effected by the said amendment.
