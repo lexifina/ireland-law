@@ -1,0 +1,3 @@
+Annulment of compulsory purchase orders under the Act of 1932.
+
+29.—Where, in respect of a compulsory purchase order to which the Third Schedule to the Act of 1932, as amended by section 42 of the Act of 1948, applies, an objection (whether in respect of the whole or part of the land proposed to be acquired) is duly made and is not withdrawn, an annulment of the order pursuant to Article 4 of that Schedule, either in whole or, where the objection is in respect of part only of the land proposed to be acquired, in so far only as it relates to that part, may, if the Minister thinks fit so to annul the order, be effected without causing to be held a public local inquiry into the objection and the said Article 4 shall be construed and have effect accordingly.
