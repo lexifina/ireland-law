@@ -1,0 +1,5 @@
+Extradition and evidence for foreign courts.
+
+3.—(1) No offence which, if committed in the State, would be punishable as genocide or as an attempt, conspiracy or incitement to commit genocide shall be regarded as a political offence or an offence connected with a political offence for the purposes of the Extradition Act, 1965, and no proceedings in respect of such an offence shall be regarded as a criminal matter of a political character for the purposes of section 24 of the Extradition Act, 1870, or section 5 of the Extradition Act, 1873.
+
+(2) A person shall not be exempt from extradition under the Extradition Act, 1965, for an offence referred to in subsection (1) of this section on the ground that, under the law in force at the time when, and in the place where, he is alleged to have committed the act of which he is accused or of which he was convicted, he could not have been punished therefor; nor shall an order under section 24 of the Extradition Act, 1870, or section 5 of the Extradition Act, 1873, for the taking of evidence in relation to any such offence as aforesaid be invalid on any such ground.
