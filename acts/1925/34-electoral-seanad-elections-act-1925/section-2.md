@@ -1,0 +1,3 @@
+Appointment of days of Seanad election.
+
+2.—Sub-section (2) of section 46 of the Electoral Act, 1923 (No. 12 of 1923) is hereby repealed and in lieu thereof it is hereby enacted that the Minister for Local Government and Public Health shall within one fortnight after the completion of the formation of the panel of candidates for a Seanad election appoint by proclamation the day on which such Seanad election shall take place, and the day so appointed shall be not less than seven days after the date of such proclamation and not more than six weeks after the completion of the formation of the panel of candidates.
