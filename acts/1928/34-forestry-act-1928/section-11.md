@@ -1,0 +1,3 @@
+Compensation on refusal to grant licence.
+
+11.—Where a felling notice has been given in respect of any tree and the Minister, with a view to the preservation of scenic beauty, makes a prohibition order or refuses to grant a licence under section 8 (which relates to licences to fell trees) of this Act in respect of such tree, the Minister may, if satisfied of the bona fides of the intention to fell such tree, award to the owner of such tree out of moneys provided by the Oireachtas compensation on account of such order or refusal and the amount of such compensation shall in default of agreement be determined by an official arbitrator appointed under the Acquisition of Land (Assessment of Compensation) Act, 1919.

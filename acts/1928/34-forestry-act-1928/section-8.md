@@ -1,0 +1,9 @@
+Licences to fell trees.
+
+8.—(1) Whenever a prohibition order has been made and served under this Act in relation to a tree the Minister on the application of the owner of such tree made in the prescribed form and in the prescribed manner may at any time after the making of such order grant to the owner of such tree a licence in the prescribed form to cut down or uproot such tree and such licence shall operate to relieve in respect of such tree the licensee and any person authorised by him from the prohibition effected by the said prohibition order.
+
+(2) A licence granted under this section may, if the Minister so thinks fit, contain a condition that the licensee shall, within a specified time (not being less than twelve calendar months) after cutting down or uprooting a tree under the licence, plant one or more trees of a specified kind on the holding on which such tree was cut down or uprooted and if in any such case the licensee fails to perform such condition within the time specified in that behalf in the licence he shall be guilty of an offence under this section in respect of every month during which such failure continues and shall be liable on summary conviction of any such offence to a fine, in the case of a first offence in respect of any particular licence, not exceeding five pounds and, in the case of a second or any subsequent offence in respect of the same licence, not exceeding ten pounds.
+
+(3) Before granting a licence under this section to cut down or uproot a tree on a holding which is for the time being subject to an annuity payable to the Irish Land Commission the Minister shall have regard to the security for the payment of such annuity.
+
+(4) Where the Minister refuses an application for a licence under this section he shall state in writing the grounds on which he has refused such application.
