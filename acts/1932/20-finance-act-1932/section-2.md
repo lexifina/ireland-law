@@ -1,0 +1,7 @@
+Sur-tax for the year 1931-32.
+
+2.—(1) Notwithstanding anything to the contrary contained in section 1 of the Finance Act, 1931 (No. 31 of 1931), sur-tax for the year beginning on the 6th day of April, 1931, shall be charged in respect of the income of any individual the total of which from all sources exceeds one thousand five hundred pounds and shall be so charged at the following rates in lieu of the rates referred to in the said section 1, that is to say:—
+
+In respect of the first one thousand five hundred pounds of the income Nil. In respect of the excess over one thousand five hundred pounds, for every pound of the first five hundred pounds of the excess Sixpence. for every pound of the next one thousand pounds of the excess One shilling. for every pound of the next one thousand pounds of the excess One shilling and ninepence. for every pound of the next one thousand pounds of the excess Two shillings and sixpence. for every pound of the next one thousand pounds of the excess Three shillings and threepence. for every pound of the next two thousand pounds of the excess Four shillings. for every pound of the next two thousand pounds of the excess Four shillings and ninepence. for every pound of the next ten thousand pounds of the excess Five shillings and sixpence. for every pound of the remainder of the excess Six shillings and threepence.
+
+(2) Section 3 of the Finance Act, 1928 (No. 11 of 1928), shall, in relation to the surtax for the year beginning on the 6th day of April, 1931, have effect subject to the provisions of this section.

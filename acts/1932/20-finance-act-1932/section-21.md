@@ -1,0 +1,9 @@
+Alteration of rates of duty on wireless telegraphy apparatus.
+
+21.—(1) The duty imposed by section 8 of the Finance Act, 1926 (No. 35 of 1926), shall be charged, levied, and paid on all articles chargeable with that duty imported into Saorstát Eireann on or after the 12th day of May, 1932, at the following rates in lieu of the rate mentioned in the said section 8, that is to say:—
+
+(a) on every completely or partially manufactured apparatus for the transmission and reception or the transmission only or the reception only of messages or other communications by wireless telegraphy (including wireless telephony) and on every article which, in the opinion of the Revenue Commissioners, is substantially an assembly of component parts of any such apparatus, an amount equal to fifty per cent. of the value of the article, and
+
+(b) on all component parts and accessories (including cases, cabinets, and other containers) of any such apparatus, whether such parts and accessories are completely or partially manufactured an amount equal to thirty-three and one-third per cent. of the value of the article.
+
+(2) If it is proved to the satisfaction of the Revenue Commissioners that the duty imposed by the said section 8 of the Finance Act, 1926, has been duly paid in respect of any article chargeable with that duty at the rates imposed by this section and that such article has not been used in Saorstát Eireann otherwise than for a purpose of manufacture, a drawback equal to the amount of the duty so paid shall be allowed on such article or on any goods in the manufacture or preparation of which such article is shown to have been used, if such article or such goods (as the case may be) is or are exported as merchandise, or shipped for use as stores, or deposited in a bonded warehouse for shipment as stores.

@@ -1,0 +1,3 @@
+Rebate on beer brewed from home malted cereals.
+
+41.—If any brewer of beer for sale shows, to the satisfaction of the Revenue Commissioners, in relation to all the beer chargeable with duty brewed by him in the year beginning on the 1st day of July, 1932, or in the year beginning on any subsequent 1st day of July, that at least eighty per cent. of the cereals used in the brewing of such beer were malted or roasted in Saorstát Eireann, such brewer shall be entitled to receive a rebate at the rate of five shillings per standard barrel on the first five thousand standard barrels of such beer brewed by him in such year.

@@ -1,0 +1,3 @@
+General exemption of goods imported for further manufacture.
+
+38.—Whenever the Revenue Commissioners are satisfied that any article or goods chargeable with a duty of customs are imported for the purpose of undergoing in Saorstát Eireann a process of manufacture and being subsequently exported or for the purpose of being incorporated in Saorstát Eireann with other articles or goods as a part or ingredient of a manufactured product which is intended to be exported, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, permit such article or goods (as the case may be) to be imported without payment of duty.
