@@ -1,0 +1,5 @@
+Reckoning of service under the Intermediate Education Commissioners in certain cases.
+
+16.—(1) Every person who, at any time after the establishment of the Intermediate Education Commissioners, entered the employment of those Commissioners, and was an inspector under the said Commissioners immediately before their dissolution, and became on such dissolution an inspector in the Department of Education may be allowed to reckon, for the purposes of the Superannuation Acts, his continuous service as such inspector under the said Commissioners as service in the civil service of Saorstát Eireann, and to reckon, for the purposes of the said Acts, the period of his said continuous service and the period of his continuous service as such inspector in the Department of Education subsequent to such dissolution as one period of continuous service in the civil service of Saorstát Eireann.
+
+(2) The pension scheme made on the 10th day of September, 1914, by the Board of Intermediate Education for Ireland under section 2 of the Intermediate Education (Ireland) Act, 1913, shall not apply to any person to whom the foregoing sub-section of this section applies.

@@ -1,0 +1,7 @@
+Reckoning of established service in certain cases affected by an age limit.
+
+11.—If the Minister, within two years after the passing of this Act, certifies in writing under his hand that a particular person ceased to be employed in an established position in a civil service to which re-instatement under this Act applies and so ceased solely for political reasons and is, in the opinion of the Minister, unsuitable by reason of age for appointment to an established position in the civil service of Saorstát Eireann or is, owing to ill-health, debarred from obtaining any position, established or unestablished, in that civil service, then and in such case it shall be lawful tο grant to such person, as on and from the date of the passing of this Act, a superannuation allowance under the Superannuation Acts, computed—
+
+(a) on such salary as shall be stated in that behalf by the Minister in his said certificate, and
+
+(b) on a period of established service deemed to have begun on such date (not earlier than the date on which such person was first appointed to an established position in a civil service to which re-instatement under this Act applies) as shall be stated in that behalf by the Minister in his said certificate and to have ended on whichever of the following dates is the earlier, that is to say, the date on which such person attained the age of sixty-five years or the date of the passing of this Act.

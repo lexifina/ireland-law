@@ -1,0 +1,9 @@
+Increase of allowance under section 7 of the Superannuation Act, 1859.
+
+17.—Whenever the Minister is satisfied—
+
+(a) that a particular person ceased to be employed in an established position in a civil service to which re-instatement under this Act applies, and so ceased solely for political reasons, and
+
+(b) that such person was subsequently appointed to an established position in the civil service of Saorstát Eireann and was thereafter removed from that civil service in such circumstances that section 7 of the Superannuation Act, 1859, applied to such removal, and
+
+(c) that the annual allowance which was granted under the said section 7 to such person on his said removal was less than would have been so granted to him if he had been entitled to reckon as continuous established service in the civil service of Saorstát Eireann the whole of the period from the date on which he was first appointed to an established position in a civil service to which re-instatement under this Act applies to the date of his said removal from the civil service of Saorstát Eireann, the Minister may increase, as from the date of the said removal of such person from the said civil service, the annual allowance granted as aforesaid to such person under the said section 7 to such amount as the Minister shall think proper having regard to all the circumstances of the case, but not exceeding the annual allowance which might have been granted to such person under the Superannuation Acts, if, on the date on which he was so removed, he had been allowed to reckon for the purposes of the said Acts the whole of the said period as continuous established service in the civil service of Saorstát Eireann, and such annual allowance had been computed by reference to the maximum salary attaching to the grade in which he was serving at the said date together with any pensionable allowance which at the said date attached to the post then held by him.

@@ -1,0 +1,3 @@
+Reckoning of service with The Agricultural Credit Corporation, Limited, in certain cases.
+
+25.—A person who, while rendering established service in the civil service of Saorstát Eireann, was transferred without interruption of time to the post of director and secretary of The Agricultural Credit Corporation, Limited, may be allowed to reckon for the purposes of the Superannuation Acts his continuous service in the said post of director and secretary as established service in the civil service of Saorstát Eireann continuous with his established service in the said civil service previous to his said transfer.
