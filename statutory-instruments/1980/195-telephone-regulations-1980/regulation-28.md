@@ -1,0 +1,3 @@
+Regulation 28
+
+28. If, of the calls made to the exchange line between 9 a.m. to 6 p.m. during six consecutive week-days, the number not completed on demand by reason of the exchange line being engaged exceeds 25 per cent. of the number so completed, the Minister may give to the subscriber notice in writing, accompanied by a certified record of the calls, requiring him to hire such number of additional exchange lines as in the opinion of the Minister are necessary to meet the requirements of the telephone traffic to and from the subscriber's line, and if the subscriber fails to comply with such notice within one month of its receipt, the Minister may determine the relevant agreeement at any time thereafter by notice in writing to that effect.
