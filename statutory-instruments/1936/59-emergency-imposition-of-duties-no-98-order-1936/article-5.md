@@ -1,0 +1,3 @@
+Article 5
+
+5. The duty of customs imposed by section 8 of the Finance Act, 1934 (No. 31 of 1934), and mentioned at reference number 6 in the First Schedule to that Act, and extended as mentioned at reference number 15 in the Eighth Schedule to the Finance Act, 1935 (No. 28 of 1935), (being a duty of customs on certain cast iron articles) shall, in respect of articles imported into Saorstát Eireann on or after the 29th day of February, 1936, be charged, levied, and paid at the rate of an amount equal to forty per cent. of the value of the article in lieu of the rate mentioned at the said reference number 6.
