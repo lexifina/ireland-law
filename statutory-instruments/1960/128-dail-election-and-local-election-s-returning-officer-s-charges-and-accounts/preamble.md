@@ -1,0 +1,1 @@
+I, SÉAMAS Ó RIAIN, Minister for Finance, in exercise of the powers conferred on me by subsection (6), of section 11 of the Elections Act, 1960 (No. 14 of 1960), hereby make the following regulations :
