@@ -1,0 +1,5 @@
+Further amendment of Act of 1962.
+
+24.—The Act of 1962 is amended by the insertion of the following section after section 18:
+
+“Search of greyhound race track by member of Garda Síochána. 18A.—(1) If a member of the Garda Síochána is of the opinion that there are reasonable grounds for supposing, or a complaint has been made to such a member, that the holder of a licence granted under section 18 of this Act is not complying with the provisions of that section, the member may, without warrant, enter into and search the greyhound race track concerned and request and take the names and addresses of any persons found therein in connection with the noncompliance. (2) A person shall not— (a) refuse to give his or her name or address, or (b) give a false name or address, when so requested under subsection (1). (3) A person shall not by himself or herself, or by any person in his or her employment or acting by his or her direction or with his or her consent, refuse or fail to admit any member of the Garda Síochána in the execution of his or her duty requiring to enter a race track (or any part thereof) in pursuance of this section.”.

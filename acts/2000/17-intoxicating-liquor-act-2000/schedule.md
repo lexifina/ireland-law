@@ -1,0 +1,7 @@
+SCHEDULE
+
+Increase of Fines
+
+Section 25.
+
+Enactment Provision Amendment (1) (2) (3) Intoxicating Liquor Act, 1927 Section 2 (prohibited hours), as substituted by section 25 of Act of 1988 The substitution in subsection (2) of “£800” for “£400” and “£1,200” for “£800” Intoxicating Liquor Act, 1927 Section 17 (persons on licensed premises during prohibited hours), as substituted by section 12 of Act of 1960 and amended by section 51 of Act of 1988 The substitution in subsections (1) and (3) of “£50” for “£25” and “£100” for “£50” Intoxicating Liquor Act, 1962 Section 29 (permitting persons to be on licensed premises during prohibited hours), as amended by section 51 of Act of 1988 The substitution of “£600” for “£300” and “£1,200” for “£600” Intoxicating Liquor Act, 1988 Section 31 (sale of intoxicating liquor to under-age persons) The substitution in subsection (3) of “£1,000” for “£300” and “£1,500” for “£500” Intoxicating Liquor Act, 1988 Section 32 (provision of intoxicating liquor for under-age persons) The substitution in subsection (2) of “£1,000” for “£300” and “£1,500” for “£500” Intoxicating Liquor Act, 1988 Section 35 (restriction on under-age persons being on licensed premises during extended hours) The substitution in subsection (4) of “£300” for “£100” and “£500” for “£250” Intoxicating Liquor Act, 1988 Section 36 (restriction on under-age persons being on premises used for sale of intoxicating liquor for consumption off the premises) The substitution in subsection (4) of “£300” for “£100” and “£500” for “£250”
