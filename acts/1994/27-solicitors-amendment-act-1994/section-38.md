@@ -1,0 +1,5 @@
+General powers of the High Court.
+
+38.—(1) On any application coming before it under the Solicitors Acts, 1954 to 1994, the High Court may make such order as it thinks fit in relation to a solicitor, including any order in relation to the production, delivery, inspection, disposal or destruction of any document or documents in the possession or control or within the procurement of that solicitor or any clerk or servant or any former clerk or servant of that solicitor or his firm, to protect or secure the rights of a client or clients of that solicitor or the public interest or the interests of the solicitors' profession as a whole, or to enable the Society to discharge their functions under those Acts, without prejudice to the determination of any issue that may be, or may later come, before the Court as to the conduct of the solicitor named in such order.
+
+(2) The High Court, on the hearing of any application or appeal coming before it under the Solicitors Acts, 1954 to 1994, may make such order as to costs as the Court thinks fit.

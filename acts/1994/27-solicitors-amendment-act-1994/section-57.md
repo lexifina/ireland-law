@@ -1,0 +1,3 @@
+Acting as a solicitor without a practising certificate.
+
+57.—Without prejudice to the generality of section 3 (as amended by this Act) of the Act of 1960, and without prejudice to any provision of or proceedings under section 55 (as amended by this Act) of the Principal Act a solicitor who acts as a solicitor when not a solicitor qualified to practise under section 54 (as substituted by this Act) of the Principal Act by reason of a practising certificate in respect of him not being in force when such a practising certificate is required by the Solicitors Acts, 1954 to 1994, shall be guilty of misconduct.
