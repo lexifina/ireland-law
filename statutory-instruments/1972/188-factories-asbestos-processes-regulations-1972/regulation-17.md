@@ -1,0 +1,7 @@
+Regulation 17
+
+17. Marking of receptacles.
+
+PART V
+
+ACCOMMODATION FOR AND CLEANING OF PROTECTIVE EQUIPMENT
