@@ -1,0 +1,3 @@
+Issue of exemption certificates where Convention country issues corresponding qualified certificates.
+
+14.—Where the Minister, under section 27 (9) of the Act of 1952, requests the government of a country to which the Convention applies to issue in respect of a ship such certificates as he is authorised to issue under section 20 (3), section 22 (2) or section 23 (2) of that Act or under paragraph (a) of section 4 (2) of this Act, and that government is willing to issue, in pursuance of that request, a qualified certificate thereunder but is not willing to issue the corresponding exemption certificate, the Minister may issue that exemption certificate in respect of the ship.
