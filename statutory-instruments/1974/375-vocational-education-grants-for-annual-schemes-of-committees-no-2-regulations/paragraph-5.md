@@ -1,0 +1,3 @@
+Paragraph 5
+
+5. In respect of the nine months period commencing on the 1st day of April, 1974, there may be paid to the City of Dublin Vocational Education Committee, in addition to the Additional Grant, a grant (to be called and known as a Supplemental Grant) not exceeding £112,500 of the corresponding expenditure incurred by the said committee, under arrangements which have been approved by the Minister with the sanction of the Minister for Finance in establishing and maintaining or encouraging or assisting the provision and maintenance of youth training centres for the Dublin City vocational education area, the Dún Laoghaire vocational education area and the functional area of the County of Dublin Vocational Education Committee.
