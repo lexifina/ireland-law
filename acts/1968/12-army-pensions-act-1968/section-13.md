@@ -1,0 +1,3 @@
+Application of certain sections of previous Acts.
+
+13.—Sections 9 to 14 of the Act of 1923, sections 7, 14 (5), 21 and 23 of the Act of 1927, section 2 of the Army Pensions Act, 1949, and section 13 of the Act of 1959 shall apply in respect of pensions and allowances under section 7 of the Act of 1962 and allowances under section 11 of this Act, to persons who are or claim to be entitled to such pensions and allowances, persons to whom such pensions and allowances are granted, and persons applying for such pensions and allowances, as if such pensions and allowances were the pensions and allowances mentioned in those sections respectively.
