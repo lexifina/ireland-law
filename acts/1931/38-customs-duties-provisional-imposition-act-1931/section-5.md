@@ -1,0 +1,3 @@
+Power of reference to Tariff Commission.
+
+5.—The Executive Council may, if and whenever they think fit so to do, refer to the Tariff Commission under section 2 of the Tariff Commission Act, 1926 (No. 40 of 1926), any matter or question relating to the continuance, variation, or termination of a customs duty imposed or varied by an order of the Executive Council under this Act, and the Tariff Commission shall consider and report on every matter or question so referred to them as if it were a matter or question referred to them under section 2 of the Tariff Commission (Amendment) Act, 1930 (No. 31 of 1930).
