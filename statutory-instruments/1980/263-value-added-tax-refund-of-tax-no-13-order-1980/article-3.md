@@ -1,0 +1,3 @@
+Article 3
+
+3. A person (in this Order referred to as "the claimant") who establishes to the satisfaction of the Revenue Commissioners that he has borne or paid tax in relation to the supply to or importation by him of a new road motor vehicle which has been specially constructed or adapted (whether before or after the date of such supply or importation) for the use of a disabled person as driver and who fulfils to the satisfaction of the Revenue Commissioners the conditions which are specified in paragraph 4 of this Order shall be entitled to be repaid so much of such tax, together with so much of the tax, if any, borne by him in relation to the adaptation of the motor vehicle for the use specified in this paragraph, as is specified in paragraph 5 of this Order.
