@@ -1,0 +1,13 @@
+Further provisions relating to postponed orders for specific delivery of goods.
+
+15.—(1) Where a postponed order for the specific delivery of goods to the owner has been made, whether before or after the commencement of this Act, under paragraph (b) of subsection (4) of section 13 of the Principal Act, the powers of the court under paragraphs (a) and (c) of subsection (4) of section 14 of that Act (which respectively enable the court to vary the conditions of the postponement or to make an order for the delivery of part of the goods to the owner and for the transfer to the hirer of the owner's title to the remainder) may be exercised, notwithstanding that any condition of the postponement has not been complied with, at any time before the goods are delivered to the owner in accordance with an execution order within the meaning of the Enforcement of Court Orders Act, 1926, issued in pursuance of the order; and where such an execution order has been issued (whether before or after the commencement of this Act) the court shall—
+
+(a) if the court varies the conditions of the postponement under the said paragraph (a), suspend the execution order on the like conditions;
+
+(b) if the court makes an order under the said paragraph (c) for the specific delivery of a part of the goods to the owner and for the transfer to the hirer of the owner's title to the remaining part thereof, cancel the execution order so far as it provides for the delivery of the last-mentioned part of the goods.
+
+(2) Notwithstanding anything contained in rules of court, at any time before the delivery of goods to the owner in accordance with an execution order issued as aforesaid, the execution order may, so far as it provides for the delivery of the goods, be discharged by the payment to the owner by the hirer or any guarantor of the whole of the unpaid balance of the hire-purchase price together with any interest (being interest payable under the hire-purchase agreement on instalments of the hire-purchase price which are due and unpaid) the payment of which had been provided for in the postponed order, and in any such case the owner's title to the goods shall vest in the hirer.
+
+(3) If in an action to which the said section 13 applies an offer as to conditions for the postponement of the operation of an order under paragraph (b) of subsection (4) of that section is made by the hirer and accepted by the owner in accordance with rules of court, an order under that paragraph may thereupon be made by the court in accordance with the said offer without hearing evidence as to matters specified in the said paragraph (b):
+
+Provided that where a guarantor is a party to the action, no such order shall be made before the date fixed for the hearing of the action.
