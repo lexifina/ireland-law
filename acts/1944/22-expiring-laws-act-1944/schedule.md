@@ -1,0 +1,51 @@
+SCHEDULE.
+
+AN SCEIDEAL.—Cuid I.
+
+Part I.
+
+NA hACHTACHAIN A COIMEATAR BEO.
+
+ENACTMENTS CONTINUED.
+
+Session and Chapter Short Title How far Continued Amending Acts 31 & 32 Vict., c. 125. The Parliamentary Elections Act, 1868. So much as is continued by the Corrupt and Illegal Practices Prevention Act, 1883. 35 & 36 Vict., c. 33; 42 & 43 Vict., c. 75; 46 & 47 Vict., c. 51. 32 & 33 Vict., c. 21. The Corrupt Practices Commission Expenses Act, 1869. The whole Act. 34 & 35 Vict., c. 61. 46 & 47 Vict., c. 60. The Labourers (Ireland) Act, 1883. The whole Act. 48 & 49 Vict., c. 72;48 & 49 Vict., c. 77; 49 & 50 Vict., c. 59; 54 & 55 Vict., c. 48; 54 & 55 Vict., c. 71; 55 & 56 Vict., c. 7; 59 & 60 Vict., c. 53; 61 & 62 Vict., c. 37; 3 Edw. VII., c. 37; 6 Edw. VII., c. 37; 8 & 9 Geo. V., c. 20; 9 & 10 Geo V., c. 55; No. 19 of 1927; No. 25 of 1930; No. 50 of 1931; No. 19 of 1932; No. 24 of 1936; No. 42 of 1937; No. 18 of 1941; No. 15 of 1942. 8 & 9 Geo. V., c. 34. The Statutory Undertakings (Temporary Increase of Charges) Act, 1918. The whole Act, except so far as it relates to tramways. AN SCEIDEAL.—Cuid II.
+
+SCHEDULE.—Part II.
+
+NA hACHTACHAIN A COIMEATAR BEO.
+
+ENACTMENTS CONTINUED.
+
+Uimhir agus Bliain
+
+Number and Year Gearr-Theideal
+
+Short Title An méid a Coimeátar beo
+
+How far Continued Achta Leasaíos é
+
+Amending Acts Uimh. 19 de 1923. Acht um Méadú Cíosa agus Uis Mhorgáiste (Coscanna), 1923. An tAcht iomlán sa mhéid go bhfuil sé i bhfeidhm. Uimh. 24 de 1926;
+
+Uimh. 5 de 1928;
+
+Uimh. 15 de 1929;
+
+Uimh. 18 de 1930;
+
+Uimh. 50 de 1931;
+
+Uimh. 55 de 1931;
+
+Uimh. 26 de 1939; No. 19 of 1923. The Increase of Rent and Mortgage Interest (Restrictions) Act, 1923. The whole Act so far as at present in force. No. 24 of 1926;
+
+No. 5 of 1928;
+
+No. 15 of 1929;
+
+No. 18 of 1930;
+
+No. 50 of 1931;
+
+No. 55 of 1931;
+
+No. 26 of 1939; Uimh. 20 de 1925. Acht na nUdarás nAitiúil (Có-Cheannach), 1925. An tAcht iomlán No. 20 of 1925. The Local Authorities (Combined Purchasing) Act, 1925. The whole Act. Uimh. 23 de 1941. Acht Rialtais Aitiúil, 1941. Alt 65. No. 23 of 1941 Local Government Act, 1941. Section 65.
