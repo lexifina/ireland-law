@@ -1,0 +1,9 @@
+The jurisdiction of the Board.
+
+9.—(1) The Board shall inquire into every claim for compensation under Article 10 of the Treaty referred to them by the Minister under this Act and shall determine in accordance with this Act whether the person making such claim is or is not entitled as a transferred officer to compensation under the said Article 10 and whenever the Board determines that such person is so entitled to such compensation the Board shall further determine the nature, amount, and other particulars of such compensation.
+
+(2) The Board shall, for the purposes of every inquiry, determination and decision required by this Act to be made or given by them, have full power and jurisdiction to entertain and decide all matters brought before them in the course of or in connection with such inquiry, determination or decision and shall not be subject to be restrained in the exercise of their powers and jurisdictions under this Act by the order of any court, nor shall any proceedings before them be removed by certiorari into any court.
+
+(3) The Board shall have sole and exclusive jurisdiction to hear and determine every claim for compensation under Article 10 of the Treaty which is required or authorised by this Act to be referred to the Board and every other question or issue required or authorised by this Act to be so referred and to determine all matters incidental to or arising in the course of the determination of any such claim, question, or issue, and no such claim, question, issue, or matter shall be capable of being entertained, heard, or determined by any court or by any other tribunal except the Board.
+
+(4) The decision of the Board on any claim for compensation under Article 10 of the Treaty heard and determined by them under this Act shall be a final and conclusive determination of such claim and shall not be subject to appeal to or review by any court, authority or tribunal whatsoever.
