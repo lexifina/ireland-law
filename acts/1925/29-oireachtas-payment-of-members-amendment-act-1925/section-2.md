@@ -1,0 +1,7 @@
+Relief from suspension or abatement of pensions.
+
+2.—(1) No provision in any British Statute or in any Act of the Oireachtas heretofore passed or (unless the contrary is expressly enacted therein) to be hereafter passed whereby any pension payable out of public moneys is liable to be suspended or abated, wholly or in part, in the event of the pensioner being in receipt of payments (by whatever name called in such Statute or Act) out of moneys provided or to be provided by the Oireachtas shall apply to the allowances payable to members of the Oireachtas under sub-section (1) of section 2 of the Oireachtas (Payment of Members) Act, 1923 (No. 18 of 1923), nor shall any such pension be suspended or abated in respect or on account of any such allowance.
+
+(2) No such provision as is mentioned in the foregoing sub-section shall apply or be deemed ever to have applied to so much of the salary for the time being payable to a member of the Oireachtas by virtue of his holding any of the offices mentioned in sub-section (2) of the said section 2 of the said Act as is equal to the allowance which would be payable to such member under sub-section (1) of the said section if he did not hold such office, nor shall any pension payable out of public moneys be or be deemed ever to have been suspended or abated in respect or on account of so much as aforesaid of any such salary.
+
+(3) In this section the expression “public moneys” means and includes the Central Fund and moneys provided by the Oireachtas.
