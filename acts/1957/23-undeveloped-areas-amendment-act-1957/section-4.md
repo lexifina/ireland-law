@@ -1,0 +1,7 @@
+Transfer of property.
+
+4.—(1) Subject to the provisions of this section all property whether real or personal (including choses-in-action) which immediately before the transfer date is vested in, or belongs to or is held in trust for the Board and all rights, powers and privileges relating to or connected with any such property shall, on the transfer date and without any conveyance or assignment but subject where necessary to transfer in the books of any bank, corporation or company or authority, become and be vested in or the property of or held in trust for (as the case may require) the Minister for all the estate, trust or interest for which the same immediately before the transfer date was vested in or belonged to or was held in trust for the Board.
+
+(2) All property transferred by this section which, immediately before the transfer date is standing in the books of any bank or is registered in the books of any bank, corporation, company or authority shall, upon the request of the Minister made on or after the transfer date be transferred in such books by such bank, corporation, company or authority into the name of the Minister.
+
+(3) On and after the transfer date every chose-in-action transferred by this section to the Minister may be sued upon, recovered or enforced by the Minister in his own name and it shall not be necessary for the Minister to give notice to the person bound by such chose-in-action of the transfer effected by this section.

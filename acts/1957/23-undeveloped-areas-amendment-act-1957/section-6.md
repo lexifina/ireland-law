@@ -1,0 +1,3 @@
+Preservation of continuing contracts.
+
+6.—Every bond, guarantee, mortgage or other security of a continuing nature made or given by the Board to any person, or by any person to the Board, and in force immediately before the transfer date, and every contract or agreement in writing made between the Board and another person and not fully executed and completed before the transfer date shall, notwithstanding the expiry of the Principal Act, continue in force on and after the transfer date but shall be construed and have effect as if the name of the Minister were substituted therein for the name of the Board, and such security, contract or agreement shall be enforceable by or against the Minister accordingly.

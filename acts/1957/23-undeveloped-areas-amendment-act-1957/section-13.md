@@ -1,0 +1,3 @@
+Further provisions in relation to remission of rates.
+
+13.—Where, either before or after the passing of this Act, a remission of rates was or is granted under section 9 of the Principal Act by a local authority in respect of premises certified by the Board to have been provided for an industrial undertaking in an undeveloped area, then, if, in the portion of the local financial year which is unexpired at the expiry of the Principal Act or in any subsequent local financial year (being a local financial year in which such remission is capable of having effect), the Minister certifies that the undertaking has failed to observe the terms upon which the premises were provided, the remission shall not have effect in respect of that local financial year.
