@@ -1,0 +1,5 @@
+Supervision of Company by Central Bank.
+
+3.—(1) Notwithstanding section 7 (4) (inserted by section 30 of the Central Bank Act, 1989) of the Central Bank Act, 1971, the Minister, after consultation with the Central Bank, for the purpose of enabling the Central Bank to exercise supervision of the Company under the Central Bank Acts, 1942 to 1989, may by regulations apply to the Company all or any of the supervisory provisions of Part II of the Central Bank Act, 1971, or Chapters I to VI of Part II of the Central Bank Act, 1989, with such modifications or adaptations as he considers necessary.
+
+(2) Every regulation made under this section shall be laid beforeeach House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either House within the next 21 days on which that House has sat after the regulation has been laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
