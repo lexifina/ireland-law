@@ -1,0 +1,5 @@
+Declaration to be made by members of the Dublin Metropolitan Police.
+
+6.—(1) No person appointed before the passing of this Act to be an officer or other member of the Dublin Metropolitan Police shall be capable of holding that office, or acting in any way therein after the expiration of one month from the passing of this Act unless he has before the passing of this Act taken the oath for the time being required by law to be taken by officers or other members (as the case may require) of the Dublin Metropolitan Police, or shall before the expiration of the said month make and subscribe before a Peace Commissioner a declaration in the form contained in the First Schedule to this Act.
+
+(2) No person appointed after the passing of this Act to be an officer or other member of the Dublin Metropolitan Police shall be capable of holding that office or acting in any way therein until he shall have made and subscribed before a Peace Commissioner a declaration in the form contained in the First Schedule to this Act.
