@@ -1,0 +1,3 @@
+Crediting of contributions.
+
+7.—The Minister may provide by regulations under this section for crediting contributions, in respect of such periods as the Minister may specify in the regulations, to an insured person who, on the commencement of subsections (1) and (2) of section 6 of this Act, becomes by virtue of that section an employed contributor and who by virtue of paragraph 1 of Part II of the First Schedule to the Act of 1952 was not immediately before such commencement an employed contributor subject to the condition that the contributions to be so credited shall not be reckonable for the purposes of widow's (contributory) pension or old age (contributory) pension and to such other conditions (if any) as the Minister may specify in the regulations.
