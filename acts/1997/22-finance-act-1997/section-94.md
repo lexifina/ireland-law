@@ -1,0 +1,3 @@
+Ships stores.
+
+94.—Nothing in section 100 or section 126 (as amended by the Finance Act, 1967) of the Customs Consolidation Act, 1876, shall prohibit or restrict the exportation or the entry for exportation from the State of goods taken or delivered from a warehouse without payment of duty and shipped or intended to be shipped as stores in any vessel of the burden of less than 40 tons and the shipment or entry for shipment of such goods in such vessel shall not, by virtue of such shipment or entry for shipment, incur the forfeiture of such goods or any penalty under section 7 of the Customs and Inland Revenue Act, 1879.

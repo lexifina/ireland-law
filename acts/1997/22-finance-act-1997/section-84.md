@@ -1,0 +1,7 @@
+Recycled hydrocarbon oil used as a motor fuel.
+
+84.—(1) In this section “motor” means any device that converts hydrocarbon oil or gaseous hydrocarbons in liquid form into mechanical energy to produce motion, and includes a motor vehicle and a stationary engine.
+
+(2) Notwithstanding the provisions of paragraph (1) of Regulation 24 of the European Communities (Customs and Excise) Regulations, 1992 (S.I. No. 394 of 1992), or that duty in respect of hydrocarbon oil chargeable with the duty of excise imposed by virtue of paragraph 12 (1) of the Imposition of Duties (No. 221)(Excise Duties) Order, 1975 (S.I. No. 307 of 1975) may have already been paid, used hydrocarbon oil, which is shown to the satisfaction of the Revenue Commissioners to have undergone a process of recycling to render it suitable for use as a motor fuel, shall be liable to duty under the said paragraph 12(1).
+
+(3) Subject to compliance with such conditions as the Revenue Commissioners may think fit to impose and notwithstanding the provisions of paragraph 12(3) of the Imposition of Duties (No. 221) (Excise Duties) Order, 1975, the amount of the rebate allowed under the said paragraph 12(3) shall, in respect of hydrocarbon oil referred to in subsection (2) and which is imported or delivered from the premises of a refiner of hydrocarbon oil or from a tax warehouse, be the amount of the excise duty chargeable on the quantity of hydrocarbon oil so imported or delivered.
