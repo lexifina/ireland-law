@@ -1,0 +1,3 @@
+Title page of electors list, etc.
+
+6.—The title page of every electors list, list of claimants, list of objections and register of electors, prepared under the First Schedule to the Principal Act after the 31st day of January, 1960, and before the dissolution of the Oireachtas which next occurs after that day, for a registration unit in a constituency existing on that day which is not identical in area and name with a constituency specified in the Schedule to this Act, shall show the name of the constituency specified in the Schedule to this Act in which such registration unit will be situate as well as the name of the said existing constituency in which it is situate on that day.
