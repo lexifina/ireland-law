@@ -1,0 +1,3 @@
+Article 9
+
+9. Subject as aforesaid in case of any dispute or difference between the Commissioners and any person or body aggrieved by anything done or omitted to be done by the Commissioners in exercise of their powers under this Order every such dispute or difference shall be referred with full power to award costs, to the final decision of two Arbitrators, one chosen by each party, and if the Arbitrators disagree, of an Umpire chosen by the Arbitrators before they sit, or in the event of disagreement, by the President for the time being of the Institution of Civil Engineers of Ireland, and shall be deemed to have been so referred in pursuance of an arbitration agreement executed by the parties.
