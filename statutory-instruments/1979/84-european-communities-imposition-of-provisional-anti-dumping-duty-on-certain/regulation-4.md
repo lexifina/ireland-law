@@ -1,0 +1,5 @@
+Regulation 4
+
+4. (1) A provisional anti-dumping duty at the rate specified in paragraph (2) of this Article shall be charged, levied and paid on goods that are imported into the State on or after the 2nd day of April, 1979, and are of the following description, that is to say, hematite pig iron, with a content of more than 1% silicon and containing at least 0.1% of manganese by weight, which is classified at tariff sub-heading ex 73.01 B of the Common Customs Tariff, and which originates in Brazil, other than goods of that description which originate in Brazil and are imported into the State from another Member State of the European Communities and in respect of which a provisional anti-dumping duty has been charged in accordance with Recommendation No. 294/79/ECSC.
+
+(2) Subject to Article 5 of these Regulations, the duty imposed by paragraph (1) of this Article shall be at the rate of an amount equal to the amount by which the import price of the goods on which it is payable is lower than the effective price specified in relation to the goods in the Commission Statement (as amended) concerning basic prices of certain iron and steel products.
