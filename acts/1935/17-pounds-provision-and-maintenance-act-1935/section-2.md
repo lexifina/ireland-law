@@ -1,0 +1,9 @@
+Duty of local authorities to provide pounds.
+
+2.—(1) Every local authority shall provide in the functional area of such authority such pounds as the county registrar shall, with the approval of the Minister, direct either generally or in any particular case, and every local authority shall maintain in accordance with this Act every pound provided by them under this Act.
+
+(2) Whenever, after the passing of this Act, a local authority provides, in pursuance of the obligation in that behalf imposed on them by this Act, a place to become and be a pound and the county registrar is satisfied that such place is suitable for use as a pound and is in good repair and condition, the county registrar shall issue to such local authority a certificate declaring such place to be a pound and thereupon such place shall become and be a pound provided by such local authority under this Act.
+
+(3) Whenever any place provided as a pound by a local authority before the passing of this Act is at such passing used as a pound, the county registrar shall, if and when he is satisfied that such place is suitable for use as a pound and is in good repair and condition, issue to such local authority a certificate declaring such place to be a pound and thereupon such place shall become and be a pound and shall, for the purposes of this Act, be deemed to have been provided by such local authority under this Act.
+
+(4) Where a place provided as a pound by a local authority before the passing of this Act is at such passing used as a pound, nothing in this section shall prevent such place continuing to be used as a pound until the issue in respect thereof of either a certificate under the next preceding sub-section of this section or a certificate under this Act that such place is no longer required as a pound.

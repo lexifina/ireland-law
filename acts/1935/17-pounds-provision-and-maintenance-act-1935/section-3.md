@@ -1,0 +1,5 @@
+Cesser of use of a pound.
+
+3.—(1) Whenever the Minister is satisfied that a pound provided under this Act by a local authority or a place provided as a pound by a local authority before the passing of this Act and used as a pound at such passing but not certified under this Act to be a pound is, by reason of the provision of another pound in lieu thereof or for any other reason, no longer required as a pound, the county registrar may with the approval of the Minister issue to such local authority a certificate declaring that such pound or place is no longer a pound and thereupon such pound or place shall cease to be a pound or lawfully usable as a pound.
+
+(2) Whenever the county registrar issues under this section a certificate to a local authority, such local authority may, with the sanction of the Minister for Local Government and Public Health, sell, surrender or otherwise dispose of or use for any lawful purpose the enclosure, building, or premises to which suchcertificate relates and shall apply the proceeds (if any) of any such sale, surrender or disposition in such manner as the said Minister shall direct.
