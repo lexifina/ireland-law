@@ -1,0 +1,3 @@
+Previous advances made to the husband or wife of a tenant to be considered.
+
+41.—In considering, pursuant to sub-section (6) of section 28 of the Land Act, 1923, or section 33 of that Act or section 11 of the Land Act, 1931, the amount of the advances made under the Land Purchase Acts for the purchase of lands of which the tenant of a holding, to which the Land Act, 1923, and the Acts amending and extending that Act apply, is the proprietor on the appointed day, advances made for the purchase of lands of which the husband or the wife (as the case may be) of such tenant is the proprietor shall be deemed to have been made to such tenant.

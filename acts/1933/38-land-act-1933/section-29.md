@@ -1,0 +1,15 @@
+Relief of congestion.
+
+29.—(1) Sub-section (4) of section 24 of the Land Act, 1923, is hereby repealed and in lieu thereof it is hereby enacted that when the Land Commission declare that any land (in this section referred to as the declared land) coming within clause (a) of sub-section (2) of the said section 24 is required for the purpose of relieving congestion, and the tenant or proprietor of the declared land or the wife or the husband of such tenant or proprietor resides on or in the immediate neighbourhood of the declared land and uses it in the same manner as an ordinary farmer in accordance with the proper methods of husbandry, then, if such tenant or proprietor is not the owner of land (other than the declared land) the market value of which exceeds the sum of £2,000, the Land Commission shall, if within the prescribed time and in the prescribed manner such tenant or proprietor requires them to declare and acquire his entire land and to provide him with a new holding, provide such tenant or proprietor with a new holding which the Lay Commissioners consider to be suitable for such tenant or proprietor and also consider (subject to a right of appeal to the Appeal Tribunal, whose decision shall be final) to be of not less market value than the declared land or of not less market value than £2,000 (whichever shall be the lesser sum).
+
+(2) Where the Land Commission provides such tenant or proprietor with a new holding under the next preceding sub-section the balance of the purchase money of the declared land over and above the market value of such new holding shall be payable in land bonds.
+
+(3) The provisions of the Land Act, 1923, and the Acts amending or extending that Act in relation to the transfer of burdens and rights on the exchange of holdings by agreement shall extend to any exchange of lands effected under the preceding sub-section of this section.
+
+(4) Sub-section (5) of section 24 of the Land Act, 1923, is hereby repealed.
+
+(5) The Land Commission may publish in the prescribed manner a notice of intention to declare that lands are required for the relief of congestion, and the publication of such notice shall be in lieu of and in substitution for the publication of a provisional list of the lands pursuant to section 40 of the Land Act, 1923.
+
+(6) The power of the Land Commission under sub-section (3) of section 24 of the Land Act, 1923, to declare that any land therein referred to is required for the relief of congestion shall be exercised and performed by the Lay Commissioners and their decision shall be final subject to an appeal to the Appeal Tribunal on any question of law or of value, and the decision of the Appeal Tribunal on any such question of value shall be final.
+
+(7) The Land Commission shall not be precluded from declaring lands to be required for the relief of congestion by reason only of the fact that proceedings for a declaration begun prior to the passing of this Act are pending or have been, prior to the passing of this Act, dismissed or discontinued.

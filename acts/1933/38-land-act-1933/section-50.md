@@ -1,0 +1,7 @@
+Power to appoint trustees.
+
+50.—(1) The Judicial Commissioner shall have power, if it appears convenient for the allocation of any fund in the Court of the Irish Land Commission, to appoint trustees for the purposes of the Settled Land Acts, 1882 to 1890, of any settlement, or of any number of instruments together forming a compound settlement, to receive upon the trusts of such settlement or compound settlement any such fund or any part thereof where there is any subsisting charge arising under such settlement or compound settlement, whether secured or not secured by a term of years, notwithstanding that the fee and inheritance have vested absolutely, and where such trustees are so appointed the receipt of such trustees shall be a sufficient discharge to the Land Commission in relation to such fund or part thereof.
+
+(2) For the purposes of this section lands vested in the Irish Land Commission on the appointed day, or the purchase money thereof, or any rent, or the redemption price thereof, or any other fund to be distributed by the Judicial Commissioner may be deemed to be held by way of succession under a settlement or a compound settlement notwithstanding that the provisions of the particular instrument under which any such charge arises, may have determined save as regards such charges.
+
+(3) There shall be no appeal from a decision of the Judicial Commissioner under this section.

@@ -1,0 +1,5 @@
+Power to the Land Commission in certain cases to reduce the standard purchase annuity of a holding.
+
+38.—(1) Where, in the case of a holding included in a list of vested holdings published under section 9 of the Land Act, 1931, the Land Commission is not satisfied that the holding was on the 9th day of August, 1923 security for the standard purchase annuity, whether agreed upon between the landlord and the tenant or fixed in accordance with the First Schedule to the Land Act, 1923 or section 2 of the Land Act, 1929, the Land Commission may before the holding is vested in the purchasing tenant or resumed by the Land Commission, as the case may be, fix the standard purchase annuity for the holding in the manner provided by Part II of the First Schedule to the Land Act, 1923, in respect of cases in which there is no agreement between the landlord and the tenant, and may make an order reducing the standard purchase annuity accordingly.
+
+(2) The provisions of the Land Act, 1931, consequential on the making of an order reducing the standard purchase annuity of a holding shall apply to an order made under this section.

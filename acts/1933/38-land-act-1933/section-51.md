@@ -1,0 +1,3 @@
+Payment of fines for renewal of leases, on allocation.
+
+51.—Where, on the allocation of any fund distributable by the Court under the Land Purchase Acts, the rent and renewal fines payable out of lands held under lease for lives or for years with a covenant for perpetual renewal upon payment of a fine, are redeemed, in whole or in part, and ordered to be paid out of such fund, no fine which became payable more than twenty-two years before the date of such allocation nor more than three fines in all shall be taken into consideration in assessing the value of the fines to be so redeemed, and in no such case shall the total sum payable in redemption of such fines exceed 10 per cent. of the redemption price of the rent payable under the said lease.

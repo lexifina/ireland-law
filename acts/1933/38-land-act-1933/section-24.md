@@ -1,0 +1,3 @@
+Holdings and parcels of which the Land Commission obtains possession.
+
+24.—Where the Land Commission has obtained or hereafter obtains possession of a holding or a parcel of land on account of default in payment of the purchase annuity, interest, rent, or other annual payment payable in respect of such holding or parcel of land, such of the foregoing provisions of this Part of this Act as would have been or would be applicable to such holding or parcel of land if the Land Commission had not so obtained possession thereof shall apply to such holding or parcel of land notwithstanding such obtaining of possession.

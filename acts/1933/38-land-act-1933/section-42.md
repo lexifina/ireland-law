@@ -1,0 +1,23 @@
+Untenanted land held under fee farm grant or long lease.
+
+42.—(1) Paragraph (c) of sub-section (1) of section 44 of the Land Act, 1931, is hereby repealed.
+
+(2) When an application under the said section 44 is granted, the provisions relating to tenanted land contained in section 24 of the Land Act, 1923, and the like provisions in the Acts amending and extending the said section shall apply to the parcel of land in relation to which the application has been granted.
+
+(3) An application under the said section 44 shall not be granted in any case where the parcel of land to which such application relates would have been excepted from the provisions of sub-section (1) of section 24 of the Land Act, 1923, had it been tenanted land within the meaning of sub-section (2) of section 73 of the said Act.
+
+(4) In any application under the said section 44, where the rent actually paid by the applicant is not the same as the rent reserved by the grant or lease under which the pared of land to which such application relates is held and the Land Commission is of opinion, having regard to all the circumstances of the case, that the rent actually paid by the applicant has been paid and accepted in substitution for the rent reserved by such grant or lease, the rent so actually paid shall be deemed to be the rent of such parcel of land for the purposes of such application.
+
+(5) When the Land Commission is not satisfied that a parcel of land, in respect of which an application under the said section 44 is granted, is security for the standard purchase annuity, whether agreed upon between the landlord and the tenant or fixed under section 2 of the Land Act, 1929, the Land Commission, on serving notice on the parties in the prescribed manner, may make an order fixing the standard purchase annuity of such parcel in the manner provided by Part II of the First Schedule to the Land Act, 1923, in respect of cases in which there is no agreement between the landlord and the tenant.
+
+(6) In fixing the standard purchase annuity of a parcel of land in respect of which an application under the said section 44 is granted, the Land Commission may have regard to the amount (if any) in money or money's worth paid or given by way of fine or otherwise by the grantee or lessee to the grantor or lessor on and for the making of the grant or lease under which such parcel of land is held.
+
+(7) Paragraphs (b), (c), and (d) of sub-section (3) of the said section 44 are hereby amended by substituting for the first gale day of the year 1928, such gale day prior to the date of the lodgment of the application under that section as will permit three years' arrears and will not permit more than three years' arrears or rent to be compounded under the said sub-section.
+
+(8) Where the Land Commission make an order under the said section 44 that a parcel of land shall vest on the appointed day, they may by the same order declare the appointed day and fix the standard purchase annuity for such parcel.
+
+(9) No person shall be precluded from making an application to the Land Commission under the said section 44 by reason only that an order had been made refusing a previous application under the said section in relation to the same parcel of land before the passing of this Act and in any such case such application may be made notwithstanding that the grant or lease under which such parcel of land was held at the date of such order was subsequently terminated on account or in consequence of non-payment of the rent reserved thereby, and in such case such grant or lease shall, for the purposes of the said section 44 and such application, be deemed to be subsisting.
+
+(10) Section 38 of the Land Act, 1923, is hereby repealed without prejudice to the continuance, completion, and validity of proceedings under that section which are pending at the passing of this Act.
+
+(11) Where, in any proceedings under the said section 44, the owner of the parcel of land to which such proceedings relate is dead and there is no legal personal representative of such deceased owner, or the services of his legal personal representative are not conveniently available for the said proceedings, the Land Commission may, on such terms and conditions (if any) as they may think fit, appoint some proper person to be administrator of the personal estate of such deceased owner limited to the said proceedings, and thereupon such limited administrator shall, for the purposes of the said proceedings, represent such deceased owner in the same manner as if such owner had died intestate and letters of administration of his personal estate and effects had been duly granted to the said limited administrator.
