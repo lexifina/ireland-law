@@ -1,0 +1,5 @@
+S.I. No. 234 of 1965.
+
+CONTROL OF IMPORTS (QUOTA No. 37, FORTY-SIXTH PERIOD) (WOMEN'S FELT HATS) ORDER, 1965.
+
+The Government, in exercise of the powers conferred on them by the Control of Imports Acts, 1934 to 1964, hereby order as follows :
