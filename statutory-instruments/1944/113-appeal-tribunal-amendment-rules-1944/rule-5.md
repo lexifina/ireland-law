@@ -1,0 +1,5 @@
+Rule 5
+
+5. Rule 3 of the Principal Rules is hereby revoked and the following Rule substituted therefor, that is to say :—
+
+"3. The notice of motion shall be for the first opportunity and shall be served personally or by registered post on all parties directly affected by the appeal or, where they are represented by solicitors, on their respective solicitors within twenty-eight clear days from the date on which the Order appealed against was made or, where the Order appealed against is an Order made by the Land Commission fixing the standard purchase annuity of a holding or of a parcel of land or the price of untenanted land, within twenty-eight clear days from the date when notice of the amount so fixed is sent by the Land Commission by registered post to the parties or their solicitors or to the owner of the untenanted land as the case may be, and within ten days of the date of the service of the notice of motion or the last of such services, the appellant shall lodge with the Registrar of the Land Commission a copy of the Notice of Appeal endorsed with the time and mode of service on the interested parties."
