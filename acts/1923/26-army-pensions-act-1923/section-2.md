@@ -1,0 +1,7 @@
+Extra pensions to married men.
+
+2.—(1) Whenever and so long as any officer or soldier to whom a wound pension is granted under this Act is a married man, a further pension at a rate not exceeding the rate mentioned in the appropriate column of the First Schedule to this Act opposite the rate of wound pension of which such officer or soldier is for the time being in receipt, may be granted to such officer or soldier during the continuance of his wound pension.
+
+(2) An officer or soldier shall not be considered to be a married man for the purposes of this section unless he was married before the day on which he received his wound, and he shall be considered to cease to be a married man for the purpose of this section on the death of his wife or the lawful annulment or dissolution of his marriage save that an officer or soldier shall be deemed to continue to be a married man for the purposes of this section for so long after the death of his wife or the dissolution or annulment of his marriage as he has any child living who in the case of an officer is a son under the age of 18 or a daughter under the age of 21, or in the case of a soldier is a son under the age of 16 or a daughter under the age of 18.
+
+(3) The further pension granted to an officer or soldier under this section may, if and whenever and for so long as the Minister so directs, in lieu of being paid to such officer or soldier be paid to his wife or applied for the maintenance, education or benefit of his child or of all or any of his children.
