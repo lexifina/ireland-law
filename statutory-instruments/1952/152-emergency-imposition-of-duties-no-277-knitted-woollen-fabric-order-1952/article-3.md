@@ -1,0 +1,3 @@
+Article 3
+
+3. The duty of customs imposed by section 7 of the Finance Act, 1936 (No. 31 of 1936), and mentioned at reference number 42 in the First Schedule to that Act (being a duty on knitted fabric of all descriptions imported in the piece) in so far as it is chargeable on knitted fabric which is imported on or after the 17th day of June, 1952, and which is made wholly or mainly of wool shall, in lieu of the rate appropriate in accordance with the First Schedule to the Finance Act, 1936 , as amended by subsequent enactments, be charged, levied and paid (subject to the provisions of section 8 of the Finance Act, 1939 ), at the rate of an amount equal to seventy-five per cent. of the value of the article.
