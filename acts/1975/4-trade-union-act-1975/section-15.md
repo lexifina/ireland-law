@@ -1,0 +1,3 @@
+Grants towards exceptional expenses of amalgamation or transfer.
+
+15.—Whenever two or more trade unions amalgamate or whenever a trade union transfers its engagements to another trade union, the Minister may, with the consent of the Minister for Finance, make to one or more of those trade unions out of moneys to be provided by the Oireachtas a grant of such amount as the Minister thinks fit, towards such expenses as he is satisfied were exceptional and were incurred by that trade union or those trade unions as a result of, in the course of, or in contemplation of such amalgamation or transfer.
