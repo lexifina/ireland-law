@@ -1,0 +1,5 @@
+Duty of returning officer to conduct elections.
+
+15.—(1) It shall be the duty of the returning officer for a university constituency to conduct every election held in such constituency, to count the votes cast thereat, and to ascertain and declare the result thereof in accordance with this Act and the rules contained in the Second and Third Schedules to this Act and to do such other matters and things in respect of such election as he is required by this Act or the said rules to do.
+
+(2) The Minister for Finance shall prepare a scale of maximum charges for returning officers in university constituencies, and every such returning officer shall be paid by the said Minister out of the Central Fund or the growing produce thereof his reasonable charges, in respect of his services and expenses in relation to every election in the university constituency in which he is returning officer, not exceeding in any case the maximum charges specified in the said scale of maximum charges for the time being in force.
