@@ -1,0 +1,5 @@
+Respite care grant.
+
+11.—The Principal Act is hereby amended by the insertion after section 168 of the following section:
+
+“Respite care grant. 168A.—(1) A grant (in this section referred to as a ‘respite care grant’) of £200, or such higher amount as may be prescribed, shall be paid to a relevant carer each year in respect of the cost of respite care. (2) In this section a ‘relevant carer’ means a person who is— (a) a carer who is entitled to or in receipt of carer's allowance under this Chapter, (b) a prescribed relative within the meaning of section 163 and in respect of whom an allowance is payable under section 167, or (c) providing full-time care to a person who is in receipt of an increase of disablement pension under section 57 in respect of the need for constant attendance. (3) Regulations made under this section shall prescribe— (a) the date in each year on which a respite care grant shall become payable to a relevant carer, and (b) the evidence to be submitted by a relevant carer to whom subsection (-5)9c) applies, to show that the carer is on that date providing the care referred to in that paragraph.”.
