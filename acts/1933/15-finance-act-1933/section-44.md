@@ -1,0 +1,3 @@
+Recovery of taxes and duties.
+
+44.—An originating summons, notice of motion, summons, or other process (whether originating or interlocutory) issued out of the High Court in relation to a proceeding intended or pending in that Court for the recovery of any tax or duty for the time being under the care and management of the Revenue Commissioners or any fine, penalty, or forfeiture incurred in connection with any such tax or duty may, by leave of the High Court, be served on a person resident in Great Britain if and whenever the circumstances are such that such process could, with such leave, be lawfully served on such person if he were resident elsewhere (outside Saorstát Eireann) than in Great Britain.

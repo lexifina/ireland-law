@@ -1,0 +1,3 @@
+Relief in the case of statutory deductions from remuneration.
+
+3.—If an Act is passed (whether before or after the passing of this Act) by the Oireachtas in the financial year beginning on the 1st day of April, 1933, authorising the making of particular deductions from particular moneys earned by and payable to any particular class or classes of persons during the said financial year, such Act shall, for the purpose of computing an assessment under Schedule E of the Income Tax Act, 1918, on any member of such particular class or any of such particular classes, be deemed to have been in operation in respect of the financial year beginning on the 1st day of April, 1932.

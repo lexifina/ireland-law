@@ -1,0 +1,3 @@
+Relief from conditions on payment of duty.
+
+23.—Where an article chargeable with a customs duty (whenever and however imposed) has, whether before or after the passing of this Act, been imported into Saorstát Eireann without payment of such duty by virtue of a licence authorising such importation, and the importer of such article desires to be relieved from the conditions (whether contained or not contained in such licence) imposed by the Revenue Commissioners in relation to such importation, such importer may pay and the Revenue Commissioners may receive the duty which would have been payable on such article at importation if it had been imported otherwise than under such licence, and thereupon such importer shall be relieved from compliance with the said conditions.

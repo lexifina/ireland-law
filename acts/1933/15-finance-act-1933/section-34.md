@@ -1,0 +1,3 @@
+Computation or value of dutiable articles and goods.
+
+34.—Wherever a duty of customs is imposed (whether by this Act or by an Act passed after this Act or by an order hereafter made under an Act passed before or after this Act) at a rate calculated by reference to the value of the article or goods chargeable with such duty, the value of such article or goods shall, for the purpose of the calculation of the amount of such duty payable thereon, be taken to be the price which, in the opinion of the Revenue Commissioners, an importer would give for such article or goods if such article or goods were delivered, freight and insurance paid, in bond, at the place of importation.

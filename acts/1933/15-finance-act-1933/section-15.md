@@ -1,0 +1,3 @@
+Exemption of articles imported under the Agricultural Produce (Cereals) Act, 1933.
+
+15.—Whenever an article chargeable with a duty of customs imposed by this Act or an Act passed or order made before the passing of this Act is or has been imported into Saorstát Eireann under and in accordance with a licence in that behalf granted (whether before or after the passing of this Act) by the Minister for Industry and Commerce under section 92 of the Agricultural Produce (Cereals) Act, 1933 (No. 7 of 1933), the Revenue Commissioners shall, subject to compliance with such conditions as they may think fit to impose, permit such article to be imported without payment of such duty or repay any such duty paid on such importation.

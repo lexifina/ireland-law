@@ -1,0 +1,3 @@
+Importation of trophies free of duty.
+
+14.—Where the Revenue Commissioners are satisfied, in respect of any dutiable article imported into Saorstát Eireann before or after the passing of this Act, that such article is a cup, bowl, shield, or other similar trophy which was won by the importer thereof in a contest, competition, or exhibition outside Saorstát Eireann, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, allow such trophy to be imported without payment of any duty of customs or repay any such duty paid on the importation of such trophy.
