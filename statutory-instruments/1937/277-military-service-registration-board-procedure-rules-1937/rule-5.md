@@ -1,0 +1,3 @@
+Rule 5
+
+5. The register to be kept by the Board under sub-section (8) of Section 6 of the Act of 1932 shall in the case of applications for pensions or gratuities under Section 10 of the Act of 1932, or under Section 29 of the Act of 1937, be in the Form A.P. 55 in the Schedule hereto and in the case of applications for allowences and gratuities under Sections 12 or 13 of the Act of 1932, or dependants' allowances under Section 37 of the Act of 1937 be in the Form A.P. 56 in the Schedule hereto and there shall be entered in each of the said registers in relation to any applicant whose name is entered therein, the particulars asked for or otherwise indicated in the appropriate form.
