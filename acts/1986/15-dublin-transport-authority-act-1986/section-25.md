@@ -1,0 +1,5 @@
+Planning applications and appeals.
+
+25.—(1) In relation to an application to a planning authority for a permission or approval under section 26 of the Local Government (Planning and Development) Act, 1963, which relates to an area within the Authority's functional area and which in the opinion of the Authority has significant implications for the management of traffic or the provision of transport services, the Authority may furnish observations on such application to that planning authority, who shall have regard to those observations before making a decision in the matter under that section.
+
+(2) In relation to an appeal under section 26 of the Local Government (Planning and Development) Act, 1963, which relates to an area within the Authority's functional area and which in the opinion of the Authority has significant implications for the management of traffic or the provision of transport services, the Authority may furnish observations on such appeal to An Bord Pleanála, who shall have regard to any such observations before making their decision in the matter under that section.
