@@ -1,0 +1,3 @@
+Regulation 25
+
+25. It shall be the duty of an occupier of a factory to which these Regulations apply, before each meal, and before the end of the day's work, to allow at least ten minutes, in addition to the regular meal intervals, for washing to each person who has been employed at the factory in the manipulation of raw oxide of lead or in pasting; provided that if one basin or sixty centimetres of trough is provided at the factory (being a basin or trough which meets the requirements of Regulation 24 of these Regulations) for each such person, the foregoing provisions of this regulation shall not apply.
