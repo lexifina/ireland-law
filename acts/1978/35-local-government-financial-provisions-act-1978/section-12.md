@@ -1,0 +1,5 @@
+Certain particulars need not be entered in rate book.
+
+12.—(1) Where in determining rates in the pound under the Act of 1955 a rating authority have regard to the aggregate of the valuations of the hereditaments in respect of the whole of which the authority may make allowances under section 3 of this Act or under the Rates on Agricultural Land (Relief) Acts, 1939 to 1978, or under any Act amending or extending those Acts, or under the said section 3 and any of the aforesaid Acts, the rate shall be deemed to have been duly made on each of the persons respectively liable to be rated in respect of such of those hereditaments as are hereditaments to which this section applies and, notwithstanding section 65 of the Act of 1838, it shall not be necessary for any particulars regarding such persons or hereditaments to be entered in the authority's rate book.
+
+(2) This section applies to the following hereditaments, namely, domestic hereditaments, secondary schools, community halls and farm buildings.
