@@ -1,0 +1,9 @@
+Delivery to Accountant of money and accounts of Dáil Courts.
+
+18.—(1) Every person whose duty it was to receive or pay out moneys in connection with any Dáil Court or who came into possession of any moneys for which he was accountable to a Dáil Court, shall within one month after the passing of this Act deliver to the Accountant a full and true account of all such moneys and pay to the Accountant for lodgment in the Dáil Courts Fund the balance appearing on such account to be still in his hands.
+
+(2) Every person who has in his possession any accounts relating to the receipt or payment of any moneys for which such person or any other person was accountable to a Dáil Court shall within one month after the passing of this Act deliver such accounts to the Accountant.
+
+(3) If it appears to the Commissioners, on the application of the Accountant or otherwise, that any such person as is mentioned in either of the preceding sub-sections has made default in the delivery to the Accountant of any account which such person is required by this section to deliver to the Accountant, or has made default in the payment to the Accountant of any balance which such person is required by this section to pay to the Accountant the Commissioners may order such person to deliver such account or pay such balance (as the case may be) to the Accountant within a time to be specified in such order
+
+(4) The Commissioners may by order impose by way of punishment on any person who shall make default in the delivery of any account or the payment of any balance in accordance with any order made by the Commissioners under this section, a fine not exceeding one hundred pounds to be paid into the Dáil Courts Fund, or, in default of payment of such fine, imprisonment for any period not exceeding three months.
