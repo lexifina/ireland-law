@@ -1,0 +1,3 @@
+Powers of certain officers and servants of the Board.
+
+20.—Every officer or servant of the Board authorised in writing by the Minister for Agriculture to exercise the powers conferred by section 24 of the Fisheries Act, 1925 (No. 32 of 1925), shall have and may exercise all or any of the powers conferred by the said section 24 on an officer or servant of a board of conservators authorised in writing by such board to exercise the powers conferred by that section and for that purpose the said section 24 shall be construed and have effect as if officers and servants of the Board authorised as aforesaid were expressly mentioned therein.
