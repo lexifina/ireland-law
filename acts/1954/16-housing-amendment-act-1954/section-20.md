@@ -1,0 +1,3 @@
+Dwellings to be deemed to be provided under Labourers Acts.
+
+20.—Dwellings which are vested in a housing authority, which are used by them for the purposes of the Labourers Acts and which, apart from this section, would be dwellings not provided by the authority under those Acts shall be deemed to be dwellings so provided, and references in any enactment (including, in particular, section 3 of the Landlord and Tenant Act, 1931 (No. 55 of 1931), and section 3 of the Rent Restrictions Act, 1946 (No. 4 of 1946)) to dwellings or buildings provided under the Labourers Acts, or under any of those Acts, shall be construed accordingly.
