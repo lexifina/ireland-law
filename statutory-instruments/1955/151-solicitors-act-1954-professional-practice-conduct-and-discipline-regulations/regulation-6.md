@@ -1,0 +1,3 @@
+Regulation 6
+
+6. A solicitor shall not hold himself out or allow himself to be held out directly or indirectly by name or otherwise as being prepared to do professional business in contentious matters at less than the scale fees fixed by rules of Court and in non-contentious matters at less than the scale of charges, if any, fixed by general orders made under the Solicitors' Remuneration Act, 1881, or rules made under the Registration of Title Act, 1891, as amended, in force for the time being, or such lower scale as may be authorised by the Council for any particular class or classes of work.

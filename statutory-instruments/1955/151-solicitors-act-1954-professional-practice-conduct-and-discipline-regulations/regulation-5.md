@@ -1,0 +1,3 @@
+Regulation 5
+
+5. A solicitor shall not, directly or indirectly, apply for or seek instructions for professional business or do in connection with his practice any act or thing which can reasonably be regarded as touting or advertising or as calculated unfairly to attract business. A solicitor shall not permit to be done on his behalf in connection with his practice, or by a client for whom he proposes to act, anything which if done by the solicitor himself would be a breach of this regulation, and it shall be the duty of a solicitor to make reasonable enquiry before accepting instructions, either from the client or any person dealing with the client, for the purpose of ascertaining whether the acceptance of such instructions would involve a breach of this regulation.
