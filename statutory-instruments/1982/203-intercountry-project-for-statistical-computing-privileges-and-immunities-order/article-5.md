@@ -1,0 +1,3 @@
+Article 5
+
+5. Personnel of the Governments working on the Project and whose salaries are paid by their respective Governments shall remain the responsibility of their respective Government. The Governments shall indemnify and hold harmless the UNDP and the ECE from any claims or actions by said Government personnel against the UNDP or the ECE arising out of the participation of said Government personnel in the Project. Under the same conditions, the UNDP and ECE shall be responsible for dealing with and settling the claims of personnel of the UNDP and ECE arising out of their participation in the Project.
