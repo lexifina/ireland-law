@@ -1,0 +1,3 @@
+Extension of licences under section 42 of the Dairy Produce Act, 1924.
+
+1.—Every licence granted under sub-section (2) of section 42 of the Dairy Produce Act, 1924 (No. 58 of 1924), and in force by virtue of section 8 of the Dairy Produce (Amendment) Act, 1934 (No. 34 of 1934), on the 31st day of March, 1937, shall be deemed to have remained in force until the passing of this Act and shall, if the premises to which such licence relates are on the passing of this Act registered in the register of manufacturing exporters kept under section 14 of the said Dairy Produce Act, 1924, remain in force so long as the said premises continue to be so registered, but such licence may be revoked at any time by the Minister for Agriculture.
