@@ -1,0 +1,7 @@
+Termination of suspension of practising certificate.
+
+51.—(1) Where a practising certificate is suspended by virtue of section 50 of this Act, the solicitor may, at any time before the certificate expires and the adjudication in bankruptcy is annulled, apply to the Society to terminate the suspension and the Society may by order terminate the suspension unconditionally or subject to such terms and conditions as they think fit or refuse the application.
+
+(2) Where the Society, on an application under subsection (1) of this section, refuse the application or terminate the suspension subject to any terms or conditions, the solicitor may appeal to the Chief Justice, and the Chief Justice may terminate the suspension unconditionally or subject to such terms and conditions as he thinks fit, vary any terms or conditions to which the termination of the suspension has been made subject or refuse the appeal.
+
+(3) Where the suspension of the practising certificate of a solicitor is terminated by annulment of the adjudication in bankruptcy of the solicitor and service on the registrar of an office copy of the order annulling the adjudication, or by order of the Society or the Chief Justice under this section, the registrar shall forthwith cause a note of the termination of the suspension to be entered against the name of the solicitor in the register of practising solicitors and, if so requested in writing by the solicitor, cause a notice thereof to be published, at the expense of the solicitor, in Iris Oifigiúil.
