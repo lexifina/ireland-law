@@ -1,0 +1,5 @@
+Paragraph 6
+
+6. Paragraph 5 of the Secondary Teachers' Superannuation (Amendment) Scheme, 1935 ( S. R. & O. No. 48 of 1935 ), is hereby amended by the deletion of the words " which he may be re-admitted to membership of the Principal Scheme or, in any other case, within twelve months of the date on which he is admitted to membership of the Principal Scheme or of any date on which he may be re-admitted to membership of the Principal Scheme," where they occur in sub-paragraphs (1) and (2), and the substitution therefor of the words " which he makes application to the Minister to be re-admitted to membership of the Principal Scheme, or, in any other case, within twelve months after the date on which he makes application to the Minister to be admitted to membership of the Principal Scheme or after any date on which he makes application to the Minister to be re-admitted to membership of the Principal Scheme."
+
+7 Transfer of contributions from the Secondary Teachers' Superannuation Fund by teachers becoming inspectors or organisers in the Department of Education.

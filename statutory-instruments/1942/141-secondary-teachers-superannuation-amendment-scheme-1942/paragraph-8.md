@@ -1,0 +1,123 @@
+Paragraph 8
+
+8. —(1) In this paragraph the expression " teacher's pension " means a pension under the Principal Scheme, and the expression " military pension " means a pension under the Military Service Pensions Acts, 1924 to 1934.
+
+(2) Where a person is entitled to a teacher's pension and also to a military pension, he shall not be entitled to reckon any period of time as both pensionable service for the purpose of such teacher's pension and also as a service period or part of a service period for the purpose of such military pension.
+
+(3) Where a person to whom a teacher's pension is payable becomes entitled to a military pension and any period of time which was included in his pensionable service for the purpose of such teacher's pension is reckoned as a service period or part of a service period for the purpose of such military pension, the following provisions shall have effect, that is to say :—
+
+(a) such teacher's pension shall be reassessed as from the date of the commencement of such military pension ;
+
+(b) for the purpose of such reassessment such person shall be given an opportunity of electing whether he will retain or will surrender such military pension ;
+
+(c) if such person elects to retain such military pension or if he fails or refuses to make any election, no period of time which was reckoned as a service period or part of a service period for the purpose of such military pension shall, on such reassessment, be reckoned as pensionable service for the purpose of such teacher's pension ;
+
+(d) if such person elects to surrender such military pension, any period of time which was reckoned as a service period or part of a service period for the purpose of such military pension and is also reckonable as pensionable service for the purpose of such teacher's pension shall, on such reassessment, be reckoned as a period of pensionable service equal in length of time to the pensionable service which is appropriate under the Military Service Pensions Acts, 1924 to 1934, to the said period of time ;
+
+(e) when such teacher's pension is reassessed under the next preceding clause of this sub-paragraph, such military pension shall, on such reassessment, be surrendered as from the date of the commencement thereof.
+
+(4) Where a person to whom a military pension is payable becomes entitled to a teacher's pension and any period of time which was reckoned as a service period or part of a service period for thepurpose of such military pension would, if this paragraph had not been enacted, be reckonable as pensionable service for the purpose of such teacher's pension, the following provisions shall have effect, that is to say :—
+
+(a) such person shall, before such teacher's pension assessed, be given an opportunity of electing whether he will retain or will surrender such military pension ;
+
+(b) if such person elects to retain such military pension or if he fails or refuses to make any election, no period of time which was reckoned as a service period or part of a service period for the purpose of such military pension shall, on the assessment of such teacher's pension, be reckoned as pensionable service for the purpose of such teacher's pension ;
+
+(c) if such person elects to surrender such military pension, any period of time which was reckoned as a service period or part of a service period for the purpose of such military pension and is also reckonable as pensionable service for the purpose of such teacher's pension shall, on the assessment of such teacher's pension, be reckoned as a period of pensionable service equal in length of time to the pensionable service which is appropriate under the Military Service Pensions Acts, 1924 to 1934, to the said period of time;
+
+(d) when such teacher's pension is assessed under the next preceding clause of this sub-paragraph, such military pension shall on such assessment, be surrendered as from the date on which such teacher's pension commences.
+
+SCHEDULE.
+
+AMENDMENTS OF THE PRINCIPAL SCHEME.
+
+Paragraphs and sub-paragraphs of the Principal Scheme
+
+How amended.
+
+Paragraph 7, subparagraph (1).
+
+By the deletion of the words "with the consent of the Minister for Finance".
+
+Paragraph 7, subparagraph (3).
+
+By the deletion of the words " and the Minister for Finance ".
+
+Paragraph 9, subparagraph (1), clause (b).
+
+By the deletion of the clause and the insertion in lien thereof of the following clause :—
+
+" (b) not more than ten years have elapsed between the date on which he became an ex-member and the date on which he resumed approved teaching service."
+
+Paragraph 10, subparagraph (1).
+
+By the insertion of the words " the Minister " before the words " shall control ".
+
+Paragraph 10, subparagraph (2)
+
+By the insertion of the words " the Minister " before the words " shall cause ".
+
+AMENDMENTS TO THE PRINCIPAL SCHEME.
+
+SCHEDULE—continued.
+
+Paragraphs and sub-paragraphs of the Principal Scheme
+
+How amended.
+
+Paragraph 11, subparagraph (1).
+
+(a) By the deletion of the words " for Finance " ;
+
+(b) By the substitution of the word " him " for the words " the said Minister ".
+
+Paragraph 11, subparagraphs (2) and (3).
+
+By the deletion of the words "for Finance" wherever those words occur.
+
+Paragraph 24
+
+By the deletion of the words " for Finance ".
+
+Paragraph 26, subparagraphs (1) and (2).
+
+By the deletion of the words " for Finance " wherever those words occur.
+
+Paragraph 29
+
+(a) By the deletion of the words " for Finance " ;
+
+(b) By the substitution of the word " him " for the words " the said Minister ".
+
+Paragraph 33, subparagraphs (1) and (3).
+
+By the deletion of the words " for Finance " wherever those words occur.
+
+Paragraph 33, subparagraph (2).
+
+By the deletion of the sub-paragraph and the insertion in lieu thereof of the following sub-paragraph :—
+
+" (2) Where a person applies for a pension, on the ground shall furnish to the Minister medical evidence of his condition and shall, if so required by the Minister for Finance, submit to such medical examination as that Minister may direct."
+
+Paragraph 34, subparagraph (1).
+
+(a) By the deletion of the words " for Finance " ;
+
+(b) By the substitution of the word " he " for the words " the said Minister " wherever those words occur.
+
+Paragraph 34, subparagraph (2).
+
+(a) By the deletion of the words " for Finance " ;
+
+(b) By the substitution of the word " him " for the words " the said Minister ".
+
+Given under my Official Seal this 27th day of February, 1942.
+
+(Signed) T. Ó DEIRG,
+
+Minister for Education.
+
+I consent to the foregoing Scheme.
+
+(Signed) SEÁN T. Ó CEALLAIGH
+
+Minister for Finance
