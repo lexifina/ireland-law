@@ -1,0 +1,3 @@
+Article 3
+
+3. The duty of customs imposed by paragraph 5 of and mentioned at tariff heading number 36.06 in the Schedule to the Imposition of Duties (No. 128) (Customs Duties and Form of Customs Tariff) Order, 1962 ( S.I. No. 163 of 1962 ), is hereby varied by the substitution in the third, fourth and fifth columns of the Schedule at that tariff heading number of " 15s. 4d.", " £1 10s. 8d.", " 11s. 1d.", " 16s. 7d.", " 16s. 7d", " 3s. 11d.", " £3 1s. 4d.", "£1 2s. 2d.", "£1 13s. 2d.", £1 13s. 2d." and " 7s. 10d." for " 16s. 4d.", "£1 12s. 8d.", " 11s. 10d.", "17s. 9d.", " 17s. 9d.", "4s. 2d.", "£3 5s. 4d.", "£1 3s. 8d.", "£1 15s. 6d.", "£1 15s. 6d." and "8s. 4d.", respectively.
