@@ -1,0 +1,5 @@
+Non-application to credit unions of certain provisions of Principal Act.
+
+36.—(1) The following provisions of the Principal Act, namely, paragraph (b) of section 4, sections 6 to 8, subsections (1) and (6) of section 10, sections 19, 54 and 55, the definition of “officer” in section 79, and the Second Schedule shall not apply to a credit union.
+
+(2) Section 49 of the Principal Act shall, in its application to a dispute concerning the expulsion of a member by a credit union or a proposed transfer of shares by a member of a credit union, have effect as if subsections (1) and (4) to (6) were deleted and as if, for the words from “and such determination” in subsection (2) to the end of that subsection, the following were substituted: “and such determination and order shall be binding and conclusive on all parties without appeal, and shall not be removable into any court of law or restrainable by injunction, and application for the enforcement thereof may be made to the judge of the Circuit Court assigned to the circuit in which the registered office of the society is situate”.
