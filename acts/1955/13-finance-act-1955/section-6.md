@@ -1,0 +1,3 @@
+Increase of rebate on beer brewed from home malted cereals.
+
+6.—Section 41 of the Finance Act, 1932 (No. 20 of 1932), as amended by section 15 of the Finance Act, 1940 (No. 14 of 1940), and by section 11 of the Finance Act, 1952 (No. 14 of 1952), shall have effect in relation to beer brewed in the year beginning on the 1st day of July, 1954, and in relation to beer brewed in any year beginning on any subsequent 1st day of July as if the reference now contained in that section, as so amended, to a rate of one pound ten shillings per standard barrel were a reference to a rate of two pounds per standard barrel.
