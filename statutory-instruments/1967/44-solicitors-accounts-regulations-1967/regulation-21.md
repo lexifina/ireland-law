@@ -1,0 +1,3 @@
+Regulation 21
+
+21. Every requirement, authorisation and notification to be made or given by the Council to a solicitor under these regulations shall be made in writing under the hand of the registrar or the secretary of the Society or such person as may be appointed by Council for the purpose and may, without prejudice to any other method of service authorised by the Solicitors Acts, 1954 and 1960, be sent by registered post to the last address of the solicitor appearing on the register of the solicitors and when so made and sent shall be deemed to have been received by the solicitor within forty-eight hours of the time of posting.

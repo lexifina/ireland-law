@@ -1,0 +1,11 @@
+Regulation 18
+
+18. (1) Every solicitor practising on his own account and every solicitor-trustee shall, whenever required by the Council prepare or cause to be prepared and shall submit to the Council within such time, not being less than seven days, as the Council shall require by notice in writing, such accounting statement as will show in summary form the true balances of all monies received and due in respect of all clients and trusts, or, if so required, in respect of any particular client or trust, and where and how at the date of such statement such balances are held in safe keeping and available for payment.
+
+(2) If any sum is due by a client or trust to such solicitor or such solicitor-trustee in respect of costs which have not been taxed or otherwise ascertained, the sum to be included in the accounting statement shall be the gross amount received by the solicitor or solicitor-trustee for or on behalf of such client or trust (less any credits which may have been agreed or ascertained), and a note shall be appended stating that costs are due and stating the estimated amount thereof, without prejudice to the taxation of any bill of costs in the absence of agreement.
+
+(3) Without prejudice to its generality, the term " monies " in this paragraph includes bearer bonds, securities passing by delivery and all other type of negotiable securities.
+
+(4) A solicitor shall, if required by the Council, lodge with such accounting statement as is mentioned in sub-paragraph (1) hereof, or at any later time named by the Council, a certificate by an accountant stating (a) that he has examined the books, accounts, and documents of the solicitor and the said accounting statement, (b) whether or not he be satisfied that the said books, accounts and accounting statement have been properly kept and prepared in accordance with these regulations and whether they record truly the financial position of the solicitor towards all clients and trusts (c) if he is not satisfied as aforesaid, the matters in respect of which he is not so satisfied and also certifying the balance on the solicitor's client account and any trust bank account.
+
+(5) A certificate by an accountant may, if the Council shall so direct, be restricted so as to relate only to one or more named clients or trusts.
