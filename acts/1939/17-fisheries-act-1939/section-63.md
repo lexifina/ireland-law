@@ -1,0 +1,5 @@
+Acquisition of portions of rivers or lakes contiguous to certain weir (fresh water) fisheries.
+
+63.—(1) Where the bed and soil of any portion of a river or lake contiguous to a transferable fishery, which is a weir (fresh water) fishery, is not in the same ownership as such fishery, the Minister may, if it appears necessary for the maintenance or operation of such fishery, by order made during the transition period but not later than three months before the expiration of the transition period declare that so much of such bed and soil not exceeding fifty yards above or below or both above and below such fishery, as the Minister shall specify in such order, shall be deemed for the purpose of this Part of this Act to be part of such fishery, and upon the making of such order such part of the bed and soil of such river or lake and all right of fishing in such part shall be deemed to form part of such fishery.
+
+(2) Where the Minister makes an order under this section he shall cause a copy of such order to be served on the owner of the bed and soil of the river or lake to which such order relates.

@@ -1,0 +1,3 @@
+Name in which fishing licences, other than rod licences, are to be issued.
+
+6.—Every licence issued under the Fisheries Acts, or this Act, in respect of an engine (other than a single rod and line) used in the taking of fish shall contain on the face thereof, in the case of an engine used in a several fishery, the name of the person (in this section referred to as the owner) who is for the time being entitled to use such engine for his own benefit or, if the owner so requests by notice in writing to the board of conservators concerned, such other person as the owner specifies in such notice and, in every other case, the name and address of the person paying the licence duty on such engine.

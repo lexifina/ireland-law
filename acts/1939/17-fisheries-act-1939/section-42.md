@@ -1,0 +1,7 @@
+Prohibition of exportation of salmon, etc., without licence.
+
+42.—(1) No person (other than the Minister or the Electricity Supply Board) shall export or attempt to export any salmon or trout for sale (other than salmon or trout preserved and sold in tins, bottles, jars, or similar containers holding only portions of fish or products of fish) unless he is either duly licensed in accordance with this Act so to export the same or is duly licensed under the Fisheries Act, 1925 (No. 32 of 1925), to sell salmon and trout, and no person shall so export any such salmon or trout from any place other than the place from or at which he is authorised by such licence to export or sell (as the case may be) salmon and trout.
+
+(2) Every person (other than the Minister or the Electricity Supply Board) who, after the expiration of two months from the commencement of this section exports or attempts to export any salmon or trout for sale in contravention of this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof, in the case of a first offence, to a fine not exceeding ten pounds and, in the case of a second or any subsequent offence, to a fine not exceeding twenty-five pounds or, at the discretion of the court, to imprisonment for any term not exceeding three months or to both such fine and such imprisonment.
+
+(3) This section shall not apply to the holder of a rod licence exporting fish of his own lawful capture.

@@ -1,0 +1,5 @@
+Amendment of section 22 of the Fisheries Act, 1925.
+
+45.—Section 22 of the Fisheries Act, 1925 (No. 32 of 1925), shall be construed and have effect as if the following sub-section were inserted therein in lieu of sub-section (1) of the said section, that is to say:—
+
+“(1) It shall be the duty of every holder of a licence or of a renewal of a licence issued under this Act for the sale of salmon and trout to keep or cause to be kept in every of the premises specified in such licence a register in the prescribed form of all purchases and receipts of salmon or trout at or for sale on such premises and of all sales, exportations, disposals, and removals of salmon or trout made on or from such premises and, within six hours after any such purchase or receipt and within three hours after any such sale, exportation, disposal, or removal, to enter in such register the prescribed particulars of such purchase, receipt, sale, exportation, disposal, or removal (as the case may be) and of the person from whom the same was purchased or received or to whom the same was sold, exported, or disposed of or the place to which the same was removed (as the case may require).”

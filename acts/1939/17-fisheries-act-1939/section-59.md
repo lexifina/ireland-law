@@ -1,0 +1,23 @@
+Transition period in respect of transferable fisheries.
+
+59.—(1) The Minister may by order appoint a day to be the appointed day in respect of any fishery district for the purposes of this Part of this Act, and in this Part of this Act the expression “the appointed day” means in relation to a fishery district the day so appointed to be the appointed day in respect of such district.
+
+(2) Where an order has been made, under sub-section (1) of this section, appointing a day to be the appointed day in respect of a fishery district, then for the purposes of this Part of this Act, the transition period for each transferable fishery situate in such district shall be the period commencing on the appointed day in respect of such district and ending on the day immediately preceding the tenth anniversary of the appointed day or, if an order in relation to such fishery has been made under sub-section (3) or sub-section (4) or sub-section (5) of this section, the day appointed by such last-mentioned order as the day on which the transition period in respect of such fishery is to end, and the expression “the transition period” when used in this Part of this Act in relation to any transferable fishery shall be construed and have effect accordingly.
+
+(3) Where at any time after the completion of the survey record of a transferable fishery but not earlier than thirty-six months after the commencement of the transition period in respect of such fishery, the owner of such fishery makes to the Minister, not less than six months before the last day of the close season for fishing by single rod or line in the river or the portion thereof in which such fishery is situate or the last day of the close season for fishing by other engines in such river or portion thereof, whichever of the said days is the earlier, an application for an order under this sub-section, the following provision shall have effect, that is to say:—
+
+(a) the Minister shall, subject to the provisions of this sub-section, make in relation to such fishery an order appointing such day (being earlier than the day immediately preceding the tenth anniversary of the appointed day in respect of the fishery district in which such fishery is situate, but not being earlier than three months after the making of such application) as the Minister thinks proper as the day on which the transition period in respect of such fishery shall end,
+
+(b) the Minister may refuse to make such order if such owner is in his opinion in default in any matter under this Part of this Act,
+
+(c) where such fishery is in the occupation of any person under a lease and such lease will not expire before the tenth anniversary of the date of the commencement of such transition period or has still not less than two years unexpired at the date of the application, the Minister shall not make such order unless such person consents to the making thereof.
+
+(4) At any time after the completion of the survey record of a transferable fishery, but not earlier than thirty-six months after the commencement of the transition period in respect of such fishery, the Minister if he thinks fit may, not less than six months before the last day of the close season for fishing by single rod or line in the river or portion thereof in which such fishery is situate or the last day for fishing by other engines in such river or portion, whichever of the said days is the earlier, make in relation to such fishery an order appointing such day (being earlier than the day immediately preceding the tenth anniversary of the appointed day in respect of the fishery district in which such fishery is situate, but not being earlier than three months after the making of such order) as the Minister thinks proper as the day on which the transition period in respect of such fishery shall end.
+
+(5) At any time after the commencement of the transition period in respect of a transferable fishery, the Minister may make in relation to such fishery an order appointing such day (being later than the day immediately preceding the tenth anniversary of the appointed day in respect of the fishery district in which such fishery is situate) as he thinks proper as the day on which the transition period in respect of such fishery shall end.
+
+(6) Every order made under this section shall be published in the Iris Oifigiúil as soon as may be after it is made.
+
+(7) A copy of every order made under sub-section (1) in relation to any fishery district shall be served on the owner of every transferable fishery situate in such district.
+
+(8) A copy of every order made in relation to a transferable fishery under sub-section (3), sub-section (4) or sub-section (5) of this section shall be served on the owner of such fishery.
