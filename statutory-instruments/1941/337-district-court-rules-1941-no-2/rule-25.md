@@ -1,0 +1,3 @@
+Rule 25
+
+25. The Justice to whom any application for variation of an order for payment of a weekly sum under section 7 (b) of The Enforcement of Court Orders Act, 1940 (No. 23 of 1940) or section 1, subsection 2, or section 2 of The Married Women (Maintenance in case of Desertion) Act, 1886, shall be made shall be any Justice assigned to the Court Area where the original order for payment of such weekly sum was made. Such application shall be by summons which shall be in accordance with such modification of Form IX of the schedule hereto asmay be suitable, and the form of order shall be in accordance with such modification of Form Xa in the schedule hereto as may be suitable.
