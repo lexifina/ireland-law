@@ -1,0 +1,5 @@
+Weighing of meat, etc.
+
+9.—(1) Every inspector of the Minister is hereby authorised and empowered to demand of any person having the custody of any meat, offals, skins, or hides found by such inspector in the course of the exercise of any of the powers conferred on him by the Principal Act or this Act that such person shall in the presence of such inspector weigh any such meat, offals, skins or hides, and shall, if so demanded by such inspector, cut or divide any such meat into such portions as may be directed by such inspector for the purpose of the convenient weighing thereof having regard to the weighing facilities available in the premises or place where such meat, offals, skins or hides are found by such inspector.
+
+(2) Every person who, on demand made of him under this section by an inspector of the Minister, fails or refuses to weigh in the presence of such inspector any meat, offals, skins or hides, or fails or refuses to cut or divide any such meat into such portions as may be directed by such inspector shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty pounds.

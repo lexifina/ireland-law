@@ -1,0 +1,9 @@
+Power to require registered proprietor to give notice of slaughterings.
+
+11.—(1) The Minister may, whenever he thinks fit so to do, serve on a registered proprietor of registered slaughtering premises a notice in writing requiring such registered proprietor, at least twenty-four hours before slaughtering any cattle or sheep for sale for human consumption in Saorstát Eireann, to communicate to the Minister, in the form and manner stated in such notice, the intention of such registered proprietor so to slaughter such cattle or sheep (as the case may be) and the time and place at which such slaughtering is intended to be done.
+
+(2) Whenever a notice under the next preceding sub-section of this section has been served on a registered proprietor of registered slaughtering premises, it shall not be lawful for such registered proprietor to slaughter for sale for human consumption in Saorstát Eireann any cattle or sheep unless such registered proprietor has, in respect of such slaughter, complied in all respects with such notice.
+
+(3) Every registered proprietor of registered slaughtering premises who slaughters for sale for human consumption in Saorstát Eireann any cattle or any sheep in contravention of this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds in respect of each animal slaughtered.
+
+(4) Where a registered proprietor of registered slaughtering premises is charged with an offence under this section, it shall be a good defence to such charge for such registered proprietor to prove that the animal the slaughter of which is alleged to constitute such offence was suffering pain caused by injury or disease and was slaughtered in order to avoid the unnecessary suffering to which such animal would have been subjected by deferring the slaughter thereof until after compliance with the provisions of this section.
