@@ -1,0 +1,3 @@
+Disclosure obligations of restricted activity investment product intermediaries.
+
+29.—A restricted activity investment product intermediary shall state on all stationery and in all advertisements and on first entering into a business relationship with a client that it is not within its terms of authorisation to accept cash (other than in relation to acting as a deposit agent) or other funds or securities on behalf of its clients or to act on a discretionary basis in the management of client funds and, without prejudice to the generality of the aforesaid, the Minister for Enterprise and Employment may prescribe other information to be given or conditions to be satisfied by a restricted activity investment product intermediary.

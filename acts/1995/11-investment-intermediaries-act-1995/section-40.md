@@ -1,0 +1,3 @@
+Approval of acquiring transactions.
+
+40.—An acquiring transaction shall not proceed until a supervisory authority has informed the authorised investment business firm and the party making the acquiring transaction in writing that it approves of the acquiring transaction or until three months have elapsed during which the supervisory authority has not refused to approve of the acquiring transaction, whichever first occurs, such period beginning on the date on which the supervisory authority first receives a notification under section 39 of this Act, or, where the supervisory authority requests further information from the person or persons concerned under section 39(4) of this Act, the date of receipt by the supervisory authority of such information.
