@@ -1,0 +1,11 @@
+S.I. No. 62 of 1977.
+
+EXTRADITION ACT, 1965 (PART II) (No. 13) ORDER, 1977.
+
+WHEREAS by the European Convention on Extradition (the terms of which are set out in Part I of the Schedule hereto) done at Paris on the 13th day of December, 1957, to which the State is a party, an arrangement was made with the other countries which are parties to the Convention for the surrender of persons wanted for prosecution or punishment:
+
+AND WHEREAS the Convention was ratified on behalf of the Government on the 2nd day of May, 1966, subject to the reservation specified in the said Part I:
+
+AND WHEREAS the Convention has been ratified by the Grand Duchy of Luxembourg subject to the declarations and reservations specified in Part II of the said Schedule and it is intended accordingly to apply Part II of the Extradition Act, 1965, in relation to that country:
+
+NOW, the Government, in exercise of the powers conferred on them by Section 8 (1) of the Extradition Act, 1965 (No. 17 of 1965), hereby order as follows:
