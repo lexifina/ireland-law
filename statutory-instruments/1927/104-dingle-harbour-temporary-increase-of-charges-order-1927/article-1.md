@@ -1,0 +1,3 @@
+Article 1
+
+1. The statutory provisions of any Act or Order regulating the charges to be made in respect of the said undertaking and any statutory provisions consequential on or supplemental to any such provisions are hereby modified so that, subject to the conditions hereinafter appearing, the Commissioners may charge as and from the First day of January, 1928, not exceeding the rates, dues and charges authorised under the statutory provisions hereby modified with an addition thereto of 100 per cent. save that as regards the items enumerated in the schedule hereto annexed the maximum rates dues and charges shall be those specified in the said schedule.
