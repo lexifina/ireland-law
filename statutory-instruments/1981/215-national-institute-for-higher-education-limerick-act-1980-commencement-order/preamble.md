@@ -1,0 +1,1 @@
+I, JOHN P. WILSON, Minister for Education, in exercise of the powers conferred on me by section 17 (2) of the National Institute for Higher Education, Limerick, Act, 1980 (No. 25 of 1980), hereby make the following order:
