@@ -1,0 +1,5 @@
+Amendment of rates.
+
+19.—(1) The secretary of the council of a county or the town clerk of an urban district may from time to time amend any rate or assessment made on any tenement of agricultural land in any rate book kept by such council by inserting in such rate book the name of any person who ought to have been rated or by raising or reducing in such rate book the sum at which a person has been rated or by altering in such rate book the amount of any allowance made under this Act or by making such other amendment in such rate book as will make such rate or assessment conformable to the provisions of any Act for the time being in force in regard to the making of such rate or assessment.
+
+(2) Every person aggrieved by an amendment made under this section in any rate or assessment shall have the same right of appeal from such amendment as he would have had if his name had been originally inserted in the said rate or assessment and no such alteration had been made therein, and as regards such person the rate shall be deemed to have been made at the time at which he received notice of such amendment.
