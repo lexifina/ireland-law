@@ -1,0 +1,3 @@
+Requirement to submit further certificate.
+
+5.—Where a certificate submitted to a local authority under section 3 (2) (c) of this Act certifies that such action as may be set out in the certificate has been taken in relation to a specified building, no action shall be taken in relation to that building which would have the effect of undoing the action so set out unless an owner of the specified building submits to the local authority in whose functional area the building is situate a further certificate, signed by a competent person, certifying that all reasonable actions as set out in that certificate have been taken to minimise, as far as practicable, the risk of accidental damage by reason of the undoing of the first mentioned action.
