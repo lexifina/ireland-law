@@ -1,0 +1,5 @@
+WHEREAS by an agreement in writing dated the 12th day of November, 1970, The Royal Bank of Ireland Limited (in this Order referred to as the Transferor), having its registered office at Foster Place, Dublin, 2, and being the holder of a licence, agreed to transfer the business to which the licence relates to Allied Irish Banks Limited (in this Order referred to as the Transferee), having its registered office at 3/4 Foster Place, Dublin, 2, and being the holder of a licence;
+
+AND WHEREAS on the 29th day of November, 1971, the Transferor and the Transferee submitted to the Minister for his approval a scheme for the transfer (in this Order referred to as the Scheme) made by the Transferor and the Transferee on the 26th day of November, 1971;
+
+NOW I, SEOIRSE Ó COLLA, Minister for Finance, after consultation with the Central Bank of Ireland, and, in respect of paragraphs 4 to 8 of this Order, at the request of the Transferor and the Transferee, hereby, in exercise of the powers conferred on me by section 33 of the Central Bank Act, 1971 (No. 24 of 1971), order as follows:
