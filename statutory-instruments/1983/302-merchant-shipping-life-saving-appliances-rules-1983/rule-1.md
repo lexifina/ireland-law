@@ -1,0 +1,3 @@
+Rule 1
+
+1. Table showing minimum numbers of sets of davits and cubic capacity of lifeboats in ships of Classes II and II(A)... ...

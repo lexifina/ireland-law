@@ -1,0 +1,13 @@
+Rule 31
+
+31. (1) The dimensions of a lifeboat or Class C boat and the number of persons which each is deemed fit to accommodate shall be clearly marked on it in permanent characters. The name and port of registry of the ship to which the lifeboat or Class C boat belongs shall be painted on each side of the bow.
+
+(2) The transom of an inflatable boat shall be marked with the number of persons the boat is deemed fit to accommodate, its date of manufacture, maker's name and trade mark, serial number and name and port of registry of the ship on which it is carried.
+
+(3) The number of persons which a liferaft which complies with Part I of the Ninth Schedule to these Rules is deemed fit to accommodate shall be clearly marked in permanent characters on the liferaft on the outside of the liferaft canopy and on the valise or other container in which the liferaft is contained when not in use. Every such liferaft shall also bear a serial number and the manufacturer's name. The name and port of registry of the ship on which the raft is for the time being carried or a serial number to enable that ship to be identified shall also be marked on the liferaft and its valise or other container.
+
+(4) Every liferaft which complies with Part II of the Ninth Schedule to these Rules shall be marked with the name and port of registry of the ship in which it is carried, and with the number of persons it is deemed fit to accommodate.
+
+(5) The number of persons which buoyant apparatus is deemed fit to support shall be clearly marked on it in permanent characters.
+
+32 Lifebuoys.

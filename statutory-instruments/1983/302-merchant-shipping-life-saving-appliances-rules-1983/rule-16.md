@@ -1,0 +1,9 @@
+Rule 16
+
+16. Davits and lifeboat launching gear:
+
+Part I General ... ... ...
+
+Part II Construction ... ... ...
+
+Part III Tests after installation on board... ... ... ...

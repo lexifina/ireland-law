@@ -1,0 +1,3 @@
+Rule 2
+
+2. Table showing minimum numbers of sets of davits in ships of Classes III and IV...

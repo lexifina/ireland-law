@@ -1,0 +1,3 @@
+Rule 6
+
+6. Machinery of mechanically propelled lifeboats... ... ... ... ...
