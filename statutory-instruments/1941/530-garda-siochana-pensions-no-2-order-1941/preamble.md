@@ -1,0 +1,7 @@
+WHEREAS by section 13 of the Police Forces Amalgamation Act, 1925 (No. 7 of 1925), power is conferred on the Minister for Justice, with the sanction of the Minister for Finance, from time to time by order to authorise the grant and payment of pensions, allowances, and gratuities to members of the Gárda Síochána and to their widows, children, and dependants :
+
+AND WHEREAS it is enacted by subsection (3) of the said section 13 that every statute, order, or regulation in force immediately before the commencement of the said Act authorising the grant or payment of pensions, allowances, or gratuities to members of the Dublin Metropolitan Police or their widows, children, or dependants shall, until varied by an order made under that section and subject to any such variation, continue to apply with certain modifications to members of the Gárda Síochána who immediately before the commencement of the said Act were members of the Dublin Metropolitan Police :
+
+AND WHEREAS the Gárda Síochána Pensions Orders, 1925 to 1941, were made by the Minister for Justice under the powers conferred on him be the said section 13 of the Police Forces Amalgamation Act, 1925 :
+
+NOW, the Minister for Justice, in exercise of the powers conferred on him by section 13 of the Police Forces Amalgamation Act, 1925 (No. 7 of 1925), and of every and any other power him in this behalf enabling, hereby makes, with the sanction of the Minister for Finance, testified by his signature hereto, the following Order :
