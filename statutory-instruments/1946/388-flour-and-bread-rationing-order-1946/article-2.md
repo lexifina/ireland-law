@@ -1,0 +1,5 @@
+Article 2
+
+2. This Order shall come into operation on the 18th day of January, 1947.
+
+3 Definitions
