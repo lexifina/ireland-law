@@ -1,0 +1,3 @@
+Article 3
+
+3. The quota appointed by the Control of Imports (Quota No. 13, Ninth Period) Order, 1938, in respect of the ninth quota period appointed by that Order is hereby increased by fifty thousand square yards of the articles to which the Control of Imports (Quota No. 13) Order, 1935, applies, to the intent that the said fifty thousand square yards of the said articles shall be an additional quota in respect of the said ninth quota period and the total quota in respect of the said ninth quota period shall be three hundred thousand square yards of the articles to which the Control of Imports (Quota No. 13) Order, 1935, applies.
