@@ -1,0 +1,5 @@
+Article 31
+
+31. Inalienability of Annuities.
+
+Annuities are to be regarded as strictly personal and shall not be assigned, charged, or alienated in any way, and shall cease to be payable if the member shall be adjudged a bankrupt, or take proceedings for liquidation in bankruptcy, or make any arrangement or composition with his creditors having the effect of a charge upon or alienation of his annuity or any part thereof, or assign, charge, or attempt to assign or charge the same, or if any act or event shall have been done or happened which would have the effect of depriving him of his right to receive the annuity or any part thereof had the same belonged to him absolutely for life. The Committee shall have the full discretion as to the payment or application of any forfeited annuity to or for the benefit of the member or his dependants or relatives. Nothing herein contained shall prevent a member from bequeathing by will any moneys from the Fund in which he may have a transmissible interest.
