@@ -1,0 +1,14 @@
+# Dairy Produce Act, 1924 (Regulations Under Part III) Amendment Order, 1928
+
+S.I. No. 22 of 1928 · <https://www.irishstatutebook.ie/eli/1928/si/22/made/en/html>
+
+As made (5 May 1928), from the electronic Irish Statute Book. Later amendments are not applied.
+
+| Provision | File |
+| --- | --- |
+| SAORSTÁT EIREANN. STATUTORY RULES AND ORDERS. 1928. No. 22. | [preamble.md](preamble.md) |
+| Article 1 | [article-1.md](article-1.md) |
+| Article 2 | [article-2.md](article-2.md) |
+| Article 3 | [article-3.md](article-3.md) |
+| Article 4 | [article-4.md](article-4.md) |
+| Article 5 | [article-5.md](article-5.md) |
