@@ -1,0 +1,7 @@
+Sur-tax for the year 1958-59.
+
+2.—(1) Notwithstanding anything to the contrary contained in Section 1 of Finance Act, 1958, sur-tax for the year beginning on the 6th day of April, 1958, shall not be charged in respect of the income of any individual the total of which from all sources does not exceed two thousand pounds and, in respect of the income of any individual the total of which from all sources exceeds two thousand pounds, sur-tax for the year beginning on the 6th day of April, 1958, shall be charged at the following rates, that is to say:—
+
+In respect of the first two thousand pounds of the income Nil In respect of the excess over two thousand pounds, for every pound of the first one thousand pounds of the excess One shilling and sixpence. for every pound of the next one thousand pounds of the excess Three shillings. for every pound of the next one thousand pounds of the excess Four shillings. for every pound of the next one thousand pounds of the excess Five shillings. for every pound of the next two thousand pounds of the excess Six shillings. for every pound of the next two thousand pounds of the excess Seven shillings and sixpence. for every pound of the next ten thousand pounds of the excess Eight shillings. for every pound of the remainder of the excess Eight shillings and sixpence.
+
+(2) Section 3 of Finance Act, 1928, shall, in relation to the sur-tax for the year beginning on the 6th day of April, 1958, have effect subject to the provisions of this section.

@@ -1,0 +1,15 @@
+Hydrocarbon oils.—miscellaneous provisions.
+
+19.—(1) Subject to compliance with such conditions as the Revenue Commissioners may think fit to impose, the duty of customs imposed by section 1 of Finance (Customs Duties) (No. 4) Act, 1931, or the duty of customs imposed by section 21 of Finance Act, 1935, shall not be charged or levied on any hydrocarbon oil removed on importation, or delivered from bonded warehouse, to the premises of a refiner of hydrocarbon oil for the purpose of undergoing a process of manufacture therein.
+
+(2) Subject to compliance with such conditions as the Revenue Commissioners may think fit to impose, any hydrocarbon oil liable to a duty of excise may be removed for exportation, or for shipment as stores, from the premises of the manufacturer thereof without payment of duty.
+
+(3) Whenever the Minister for Finance, after consultation with the Minister for Industry and Commerce, so thinks proper, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, repay to any particular person any duty charged and levied under section 1 of Finance (Miscellaneous Provisions) Act, 1935, and paid on any particular articles on delivery from the premises of a refiner of hydrocarbon oil or from bonded warehouse.
+
+(4) Whenever the Minister for Finance, after consultation with the Minister for Industry and Commerce, so thinks proper, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, authorise any person to take delivery from the premises of a refiner of hydrocarbon oil or from a bonded warehouse of any of the articles chargeable with the duty imposed by section 1 of Finance (Miscellaneous Provisions) Act, 1935, without payment of that duty.
+
+(5) (a) Whenever the Revenue Commissioners are satisfied that any hydrocarbon oil, other than lubricating oil, on which either the duty of customs or the duty of excise imposed by section 21 of Finance Act, 1935, has been paid has been used in, or in connection with, the production of goods for export but has not been used for combustion in the engine of a mechanically propelled vehicle, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, repay to the person who produced the goods for export any such duty paid on the oil, less any rebate thereof allowed under the said section 21.
+
+(b) In this section “production” includes any industrial process or operation.
+
+(6) Whenever the Revenue Commissioners are satisfied that any hydrocarbon oil chargeable with the duty of excise imposed by section 21 of Finance Act, 1935, is intended for the purpose of undergoing a process of manufacture, or for the purpose of being incorporated with other substances as an ingredient of a manufactured product, the Revenue Commissioners may, subject to compliance with such conditions as they may think fit to impose, permit the oil to be delivered from the premises of a refiner of hydrocarbon oil or from a bonded warehouse without payment of that duty.

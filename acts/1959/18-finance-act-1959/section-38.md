@@ -1,0 +1,3 @@
+Machinery or plant used partly for non-trading purposes.
+
+38.—Where an event occurs which gives rise or might give rise to a balancing allowance or balancing charge to or on any person and the machinery or plant concerned is machinery or plant which has been used by that person for the purposes of a trade carried on by him and has also been used for other purposes, then, in determining the amount of the allowance, or, as the case may be, the amount on which the charge is to be made, regard shall be had to all the relevant circumstances and, in particular, to the extent of the use for the said other purposes, and there shall be made to or on him an allowance of such an amount, or, as the case may be, a charge on such an amount, as may be just and reasonable.
