@@ -1,0 +1,3 @@
+Appointment by the Minister of returning officer.
+
+7.—If the returning officer for a constituency is prevented by illness or other cause from carrying out all or any of his duties as such officer, and if he has not made an appointment under section 5 of this Act or if no arrangement has been made for carrying out his duties as such officer, the Minister may appoint, if he thinks fit, a person to be the returning officer for such constituency to carry out such duties of the returning officer as remain to be performed and any writ issued, under section 54 of the Principal Act, to the returning officer shall be deemed to have been issued to the person appointed by the Minister under this section.
