@@ -1,0 +1,9 @@
+Regulation 5
+
+5. (1) Subject to paragraph (2) of this Regulation—
+
+( a ) a carrier liable for payment of the duty in respect of passenger tickets issued by him or issued by another person on his behalf shall, not later than noon on Friday of each week furnish to the proper Collector a full and true return in such form as may be specified by the Commissioners of the amount of the duty which became payable by him during the week ending on the previous Saturday and such other particulars as may be specified by the Commissioners and shall, at the same time, pay the duty to the said Collector.
+
+( b ) a carrier liable for payment of the duty in respect of passenger tickets issued by a person other than a person specified in subparagraph (a) of this paragraph shall, not later than the time at which persons holding such tickets embark on the ship or the aircraft for the voyage or flight, as the case may be, to which the tickets relate, furnish to the proper Collector a full and true return in such form as may be specified by the Commissioners of the amount of the duty which is payable by him in respect of the issue of the said tickets and such other particulars as may be specified by the Commissioners and shall, at the same time, pay the duty to the said Collector.
+
+(2) Every carrier liable for payment of the duty who has been permitted by the Commissioners to defer the said payment under section 65 (7) of the Act shall, not later than noon on the last day of each month, furnish to the proper Collector a full and true return in such form as may be specified by the Commissioners of the amount of the duty which became payable by him during the previous month and such other particulars as may be specified by the Commissioners and shall, at the same time, pay the duty to the said Collector.
