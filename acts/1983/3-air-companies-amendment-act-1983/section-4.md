@@ -1,0 +1,3 @@
+Guarantee of Minister for Finance of borrowings by Aer Lingus and Aerlínte.
+
+4.—The Minister for Finance shall not so exercise the powers conferred by section 2 (1) of the Air Companies (Amendment) Act, 1976, that the amount or the aggregate amount of principal which he may at any one time be liable to pay on foot of any guarantees under section 2 (1) (a) of that Act for the time being in force (together with the amount of principal which the said Minister has previously paid on foot of any such guarantees and has not been repaid) exceeds £150,000,000 and, accordingly, section 2 (2) of that Act, is hereby amended by the substitution of “£150,000,000” for “£75,000,000”.
