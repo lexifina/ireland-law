@@ -1,0 +1,3 @@
+Duty of clerk of board of conservators in respect of certain proposals.
+
+6.—Whenever a proposal is made at a meeting of a board of conservators to do any act, matter or thing in consequence of which an illegal payment is to be made out of the funds of such board or a deficiency or loss is likely to result in or to such funds, it shall be the duty of the clerk of such board to make objection to the doing of such act, matter or thing and to state the grounds of such objection, which objection and the grounds thereof and, if a decision is taken on such proposal, the names of the members of such board present and voting for and against such decision and abstaining from voting on such decision, shall be recorded on the minutes of such meeting.

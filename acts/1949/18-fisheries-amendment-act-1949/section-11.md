@@ -1,0 +1,3 @@
+Amendment of certain provisions of the Acts, etc, providing for forfeiture.
+
+11.—Where any section (being a section creating an offence) of the Acts or any instrument (being an instrument creating an offence) made under the Acts provides, as part of the punishment for the offence and as a consequence of conviction thereof, that the person convicted of that offence shall forfeit a particular thing or that a particular thing shall be forfeited, the said section or instrument shall be construed as if, in lieu of that provision, it provided that, where a person is convicted of that offence, the thing, specified in the said section or instrument as the thing to be forfeited, shall, as a statutory consequence of conviction, stand forfeited.
