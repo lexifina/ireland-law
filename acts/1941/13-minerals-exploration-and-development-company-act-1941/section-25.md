@@ -1,0 +1,3 @@
+Deductions from compensation of debts due to the State.
+
+25.—Where the amount of compensation payable under this Part of this Act by the Company to any person is assessed by the Mining Board, and the Company is notified, before payment of such compensation, that a debt is due and owing by that person to any Minister of State or to the Central Fund, the Company may deduct the amount of the debt from the compensation, and may direct that the amount so deducted be (as the case may require) either paid to the appropriate Minister of State or paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
