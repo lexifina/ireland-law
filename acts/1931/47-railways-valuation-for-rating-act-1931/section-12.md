@@ -1,0 +1,5 @@
+Alteration of net annual value of a railway hereditament other than at a quinquennial revision.
+
+12.—(1) If at any time during the first four years of a quinquennial period a railway company becomes the occupier of any railway hereditament in Saorstát Eireann, or ceases to occupy any such railway hereditament or where owing to alterations or reconstructions the net annual value of any such railway hereditament has increased or decreased, the Commissioner may, on the application of such company or the rating authority in whose rating area such hereditament is situate, at an annual revision held during such four years make such alteration (if any) as he may deem necessary in respect of the valuation of such hereditament in the revised valuation lists to be published next following such revision.
+
+(2) If it appears to the Commissioner at any time during the first four years of a quinquennial period that the valuation of a railway hereditament as included in a revised valuation list is incorrect by reason of some clerical or arithmetical error he may at the next annual revision make such alteration (if any) in the valuation of such hereditament as he thinks fit.
