@@ -1,0 +1,3 @@
+Increase of limit on guarantees by the Minister of borrowings by the Corporation.
+
+4.—The amount, or the aggregate amount, of principal which the Minister may at any one time be liable to pay on foot of any guarantee or guarantees under subsection (1) of section 5 of the Act of 1961 for the time being in force, together with the amount of principal (if any) which the Minister has previously paid on foot of any such guarantees and which has not been repaid by the Corporation shall not exceed twenty million pounds and, accordingly, subsection (2) of that section shall be construed as if that sum were substituted for the sum mentioned therein.
