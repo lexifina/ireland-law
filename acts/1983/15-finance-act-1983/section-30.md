@@ -1,0 +1,5 @@
+Application of section 24 (provisions supplementary to section 23) of Finance Act, 1981.
+
+30.—(1) Subsections (2), (3) and (4) of section 29 shall, with any necessary modifications, apply to expenditure to which this section applies as they apply to expenditure to which that section applies.
+
+(2) In this section “expenditure to which this section applies” means expenditure incurred in the period (hereafter in this definition referred to as “the first-mentioned period”) commencing on the 1st day of April, 1984, and ending on the 31st day of March, 1987, on the conversion into two or more houses of a building which, prior to the conversion, had not been in use as a dwelling or had been in use as a single dwelling; and for the purposes of determining whether and to what extent such expenditure was so incurred in the first-mentioned period, subsection (1) (b) of the principal section shall have effect as if the references in subparagraph (i) thereof to the qualifying period were references to the first-mentioned period and with any other necessary modifications.

@@ -1,0 +1,3 @@
+Liability for advance corporation tax.
+
+38.—Save as is otherwise provided for in this Chapter, where a company resident in the State makes a distribution on or after the 9th day of February, 1983, it shall be liable to make a payment of corporation tax (to be known as “advance corporation tax”) in accordance with this Chapter and, subject to section 41, the amount of that payment shall, whether or not the recipient of the distribution is a person entitled to a tax credit in respect thereof, be equal to the amount of the tax credit to which a recipient who is such a person is entitled in respect thereof.
