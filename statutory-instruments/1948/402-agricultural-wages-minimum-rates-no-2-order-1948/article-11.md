@@ -1,0 +1,33 @@
+Article 11
+
+11. Grass of sheep on lowland : per week
+
+6
+
+6
+
+6
+
+6
+
+6
+
+Grass of sheep on mountain : per week
+
+1
+
+1
+
+1
+
+1
+
+1
+
+SEALED with the Common Seal of the Agricultural Wages Board this 22nd day of November, 1948.
+
+The Seal of the Board was affixed in the presence of :
+
+(Signed) WILLIAM O'LEARY,
+
+Chairman of the Board.
