@@ -1,0 +1,3 @@
+Application of section 48 (surcharge for late submission of returns) of Finance Act, 1986.
+
+16.—Section 48 of the Finance Act, 1986, shall have effect, as respects any chargeable person for a relevant chargeable period, as if the definition of “return of income” in the said section 48 included the return which the chargeable person is required to deliver under the provisions of section 10 and as if references to the specified date in relation to a return of income were references to the specified return date for the chargeable period for which a return is to be delivered and it shall apply in relation to an amount of preliminary tax, whether paid under section 11 or specified in a notice under section 12, as it applies to an amount of tax specified in an assessment.
