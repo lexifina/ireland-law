@@ -1,0 +1,3 @@
+Power to make necessary amendments to existing pension scheme.
+
+57.—If the provisions applicable to a pension scheme for which the appropriate authority for an approved organisation is responsible do not confer on the authority power to make the amendments necessary to give effect to this Part, that power is conferred on the authority by this section. However, if the authority has power to make other amendments to those provisions and that power can be exercised only with the agreement of a specified person, the power conferred by this section is exercisable only with the agreement of that person.
