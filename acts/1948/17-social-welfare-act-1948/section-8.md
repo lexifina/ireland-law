@@ -1,0 +1,3 @@
+Birth certificates.
+
+8.—Where, for the purposes of the Acts, the age of any person is required to be proved by the production of a certificated of birth, any person shall, on presenting a written requisition in such form and containing such particulars as the Minister for Health may direct and on payment of a fee of sixpence, be entitled to obtain a certified copy of the entry of the birth in the register of births under the hand of the registrar, superintendent registrar or other person having the custody thereof, and forms for such requisition shall on request be supplied without any charge by the registrar, superintendent registrar or other person having the custody of the register.
