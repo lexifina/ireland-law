@@ -1,0 +1,3 @@
+Exemption from stamp duty.
+
+6.—No stamp duty shall be payable in respect of any agreement heretofore made under the Third Schedule to the Principal Act or hereafter to be made under the said Third Schedule as amended by this Act or under this Act between the amalgamated company and any existing officer or servant or any other officer or servant of the amalgamated company nor in respect of any award heretofore made by the standing arbitrator under the said Third Schedule or hereafter to be made by the standing arbitrator or arbitrators under the said Third Schedule as amended by this Act or under this Act.
