@@ -1,0 +1,15 @@
+Secondary Teachers and Professors in Training Colleges.
+
+9. (1) Where by virtue of the 1939 Regulations a civil servant may be allowed under section 21 of the act to reckon service as a secondary teacher or as a professor in a training college as established service, the reckoning may, notwithstanding anything contained in the 1939 Regulations, be for all the purposes of the Superannuation Acts, 1834 to 1947, and for the award of marriage gratuities to women.
+
+(2) Paragraph (1) of this Regulation shall apply to a person only if he pays to the Minister in respect of each year of teaching service for which he has elected to pay contributions under the 1939 Regulations an additional contribution at the following rates :
+
+(a) in respect of any period of such teaching service as was service as a secondary teacher, a contribution equal to the additional contribution which would have been payable therefor by the contributor if he had continued to serve as a secondary teacher up to the 1st day of August, 1950, and had elected to pay additional contributions under the Secondary Teachers' Superannuation (Amendment) Scheme, 1951 : Provided that the contribution in respect of any period of teaching service as a secondary teacher rendered before the 1st day of August, 1929, shall be £5 for each year in the case of a man and £4 for each year in the case of a woman ;
+
+(b) in respect of any period of such teaching service as was service as a professor in a training college, £7 for each year in the case of a man and £5 for each year in the case of a woman : Provided that the contribution in respect of any period of teaching service as a professor in a training college shall not be less than the contribution which would be payable under subparagraph (a) of this paragraph (but calculated in accordance with the provisions of paragraph (4) of Regulation 25 of the 1939 Regulations) if such period had been teaching service as a secondary teacher.
+
+(3) A person who desires that this Regulation shall apply to him must notify the Minister of his election to pay contributions under this Regulation within three months after the date on which he is informed that he is eligible to pay such contributions.
+
+(4) Every payment of contributions required to be made under this Regulation by any person shall be made not later than three months after the date on which he is informed of the amount of the contributions payable by him, save that the Minister may, in any particular case, if he so thinks fit, allow the payment to be made by instalments payable over such period as he may fix with compound interest at the rate of 3 per cent. per annum.
+
+(5) This Regulation shall not apply in respect of any service as a secondary teacher rendered by a person who was serving as a secondary teacher at any time subsequent to the 31st of July, 1950, or in respect of any service as a professor in a training college rendered by a person who was serving as a professor in a training college at any time subsequent to the 31st day of July, 1950.
