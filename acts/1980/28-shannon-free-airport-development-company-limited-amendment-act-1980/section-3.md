@@ -1,0 +1,3 @@
+Amendment of section 8 of Principal Act and section 2 of Shannon Free Airport Development Company Limited (Amendment) Act, 1970.
+
+3.—Section 3 of the Act of 1978 is hereby repealed and, in lieu thereof, it is hereby enacted that the aggregate amount of grants to be made to the Company under section 8 of the Principal Act and section 2 of the Shannon Free Airport Development Company Limited (Amendment) Act, 1970, shall not exceed £40,000,000.
