@@ -1,0 +1,3 @@
+Power to resolve difficulties.
+
+6.—Where any difficulty has arisen or is, in the opinion of the Minister, likely to arise in regard to the holding of any meeting of any local authority, or other body by reason of any amendment of the Principal Act made by this Act or by reason of any other provision of this Act, the Minister may by order do any matter or thing which shall appear to him to be necessary (as the case may be) to enable such meeting to be held, or to constitute properly such local authority or other body, or to validate the procedure of such local authority or other body, or otherwise to resolve such difficulty, and may by such order make any necessary adaptations or modifications of any statute, order, or regulation.
