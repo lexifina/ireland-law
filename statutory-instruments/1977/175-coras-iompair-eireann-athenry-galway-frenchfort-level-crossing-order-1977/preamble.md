@@ -1,0 +1,1 @@
+The Minister for Transport and Power, on the application of Córas Iompair Éireann and in exercise of the powers conferred on him by section 22 of the Transport (Miscellaneous Provisions) Act, 1971 (No. 14 of 1971), and after consultation with the Minister for Local Government, hereby orders as follows:—
