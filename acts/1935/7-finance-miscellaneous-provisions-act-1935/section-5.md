@@ -1,0 +1,9 @@
+Payment of certain bounties by the Revenue Commissioners.
+
+5.—(1) Whenever drawback is paid on tobacco manufactured in Saorstát Eireann from leaf tobacco grown in Saorstát Eireann, the Revenue Commissioners shall, out of moneys provided by the Oireachtas, pay on every pound of such tobacco, to the person to whom such drawback is payable, a bounty of an amount equal to the difference per pound between the excise duty paid on such tobacco and the customs duty chargeable, at the time at which the said excise duty was paid, on like tobacco not of Saorstát Eireann manufacture or growth.
+
+(2) Whenever drawback is paid in respect of sugar made in Saorstát Eireann from beet grown in Saorstát Eireann, the Revenue Commissioners shall, out of moneys provided by the Oireachtas, pay on every hundredweight of such sugar, to the person to whom such drawback is payable, a bounty of an amount equal to the difference per hundredweight between the excise duty paid in respect of such sugar and the customs duty chargeable, at the time at which the said excise duty was paid, on like sugar not of Saorstát Eireann manufacture and not made from beet of Saorstát Eireann growth.
+
+(3) Whenever drawback is paid on mineral hydrocarbon light oil made in Saorstát Eireann, the Revenue Commissioners shall, out of moneys provided by the Oireachtas, pay on every gallon of such oil to the person to whom such drawback is payable, a bounty of an amount equal to the difference per gallon between the excise duty paid on such oil and the customs duty chargeable, at the time at which the said excise duty was paid, on like mineral hydrocarbon light oil not of Saorstát Eireann manufacture.
+
+(4) Every claim for payment of a bounty under this section shall be made to the Revenue Commissioners in such manner as they shall direct, and every such claim shall be determined by the Revenue Commissioners and their determination thereof shall be final and conclusive.
