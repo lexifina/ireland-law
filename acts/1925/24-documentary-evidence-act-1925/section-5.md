@@ -1,0 +1,5 @@
+Presumption of printing and publication by the Stationery Office.
+
+5.—(1) Every copy of an Act of the Oireachtas, proclamation, order, rule, regulation, byelaw, or other official document which purports to be published by the Stationery Office or to be published by the authority of the Stationery Office shall, until the contrary is proved, be presumed to have been printed under the superintendence and authority of and to have been published by the Stationery Office.
+
+(2) Where an Act of the Oireachtas, whether passed before or after the passing of this Act, provides that a copy of any proclamation, order, rule, regulation, byelaw, or other official document shall be conclusive evidence or be prima facie evidence, or be evidence, or have any other effect when purporting to be printed under the superintendence and authority, or the superintendence, or the authority, of the Stationery Office, such copy shall also be conclusive evidence or prima facie evidence or evidence or have the said effect (as the case may require) if it purports to be published by the Stationery Office or to be published by the authority of the Stationery Office.
