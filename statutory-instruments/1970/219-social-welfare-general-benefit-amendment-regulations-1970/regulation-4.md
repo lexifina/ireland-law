@@ -1,0 +1,5 @@
+Regulation 4
+
+4. Paragraph (a) of sub-article (5) of article 5 of the Principal Regulations (as amended by the Regulations of 1960) is hereby deleted and the following substituted therefor:—
+
+"(a) Notwithstanding that a person, by reason of undergoing a period of penal servitude, imprisonment or detention in legal custody is disqualified by virtue of subsection (1) of the said section 31 for receiving any of the following benefits which includes an increase under section 26 or section 27 of the Act—disability benefit, invalidity pension, retirement pension, widow's (contributory) pension, deserted wife's allowance or old age (contributory) pension—the increase shall be paid to any person appointed for the purpose by the Minister to receive and deal with any sums payable on account of such increase for the benefit of the person or persons in respect of whom the increase is payable, and the receipt of any person so appointed shall be a good discharge to the Minister and to the Social Insurance Fund for any sum so paid.".
