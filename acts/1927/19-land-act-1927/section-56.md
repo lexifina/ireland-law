@@ -1,0 +1,5 @@
+Redemption of purchase annuities in the case of purchases under section 36 of the Land Act, 1923.
+
+56.—Where the Land Commission have entered into an agreement under section 36 of the Land Act, 1923, for the purchase of lands which are already subject to a purchase annuity, then, notwithstanding anything contained in sub-section (4) of section 9 of the purchase of Land (Ireland) Act, 1891, an advance may be made under the Land Purchase Acts for the purchase of the said lands before the purchase annuity for the repayment of the original advance has been redeemed, and in such case the original purchase annuity shall be dealt with as a claim attaching to the purchase money of the said lands under section 4 of the Land Bond Act, 1925, subject however to the following modification of that section, that is to say:—
+
+“the redemption price of the original annuity shall be payable by transferring to the Land Commission such sum in Land Bonds as at the price of the day shall be sufficient to redeem the said annuity.”

@@ -1,0 +1,3 @@
+Provisions as to the sale of holdings by the Land Commission by private contract.
+
+32.—Where the Land Commission is entitled to cause a holding to be sold, they may, if they deem it expedient, and whether the holding is situated in a congested district or not, sell it by private contract, either as one holding or in lots, at such price or prices as the Commissioners, other than the Judicial Commissioner, shall consider to represent the selling value having regard to the conditions of the district in which the holding is situate, and all the circumstances of the case. The certificate of the Land Commission that the price realised on any such sale is adequate shall be binding and conclusive on all parties.

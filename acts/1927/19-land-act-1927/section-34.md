@@ -1,0 +1,3 @@
+Lands held by local authority on lease under the Labourers (Ireland) Acts, 1883 to 1919.
+
+34.—Every parcel of land taken on lease under the Labourers (Ireland) Acts, 1883 to 1919 (which at the time the same was taken was agricultural or pastoral or partly agricultural and partly pastoral) shall, if held by a local authority under such lease, vest in the Land Commission on the appointed day in like manner and with the like consequences as if the parcel were tenanted land in the occupation of the local authority as tenant from year to year to the person entitled to the reversion expectant on the determination of such lease, the rent payable by the local authority to be deemed to be a judicial rent fixed after the 15th day of August, 1911.

@@ -1,0 +1,5 @@
+Stud farms.
+
+9.—(1) Notwithstanding the provisions of sub-sections (1) and (3) of section 24 of the Land Act, 1923, there shall not be vested in the Land Commission by virtue of the said Act otherwise than in pursuance of a voluntary agreement any untenanted land so long as the Land Commission are satisfied that such land is being used in a bona fide manner as a farm for the purpose of breeding thoroughbred stock which in the opinion of the Minister for Lands and Agriculture is of a nature and character suitable to the requirements of the country.
+
+(2) Where the Land Commission are satisfied that any holding of tenanted land is being so used, then, notwithstanding the provisions of sub-section (6) of section 28 of the Land Act, 1923, such holding shall not be retained by them, unless the standard price exceeds the sum of five thousand pounds or such greater amount as the Land Commission may deem it expedient to advance and the tenant declines to pay to them in cash the difference between the amount to be advanced and the standard price.

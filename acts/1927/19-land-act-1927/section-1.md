@@ -1,0 +1,3 @@
+Application of the provisions in the Land Act, 1923, and the Land Bond Act, 1925, for creating and issuing 4½ per cent. Land Bonds, to this Act.
+
+1.—The powers conferred on the Minister for Finance by the Land Act, 1923, and the Land Bond Act, 1925, to create and issue bonds for the purposes of the Land Act, 1923, shall be extended so as to include power to create and issue bonds for any of the purposes of this Act and the provisions of the Land Act, 1923, and the Land Bond Act, 1925, shall apply to land bonds created and issued by the Minister for Finance for the purposes of this Act as if they were bonds created and issued for the purposes of the Land Act, 1923.

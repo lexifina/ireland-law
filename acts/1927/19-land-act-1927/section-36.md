@@ -1,0 +1,3 @@
+Effect of compulsory sale of a tenant's interest in a holding.
+
+36.—Where the Land Commission have put up for sale the tenancy in a holding which they are entitled to cause to be sold the holding shall be sold subject to the statutory liabilities of the tenant in respect of the holding, the interests of sub-tenants (if any), and to any charge under any Public Works Acts, but discharged from all other claims or incumbrances of all persons whomsoever against such interest and all such claims shall as from the date of the sale cease as against the holding and attach to the purchase money in like manner as immediately before the date of the sale they attached to the holding.

@@ -1,0 +1,5 @@
+Repayment of the deposit.
+
+45.—(1) It shall be lawful for any person who has contributed any portion of the deposit lodged with the Land Commission pursuant to section 52 of the Land Act, 1923, and for any person claiming through or under such contributor, to apply to the Land Commission within the prescribed time and in the prescribed manner for repayment of the amount so contributed; and if the Land Commission are satisfied that the said contribution or any part thereof should be repaid, an order shall be made for the sale of so much of the security in which such deposit is invested as represents the said contribution or part thereof, as the case may be, and for the payment of the proceeds of such sale, together with the proportion of interest received by the Land Commission from the investment of the deposit or such part thereof so sold, to the claimant or claimants or such other persons as may be found to be entitled to receive the same.
+
+(2) Section 53 of the Land Act, 1923 is hereby repealed.

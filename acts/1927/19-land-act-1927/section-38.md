@@ -1,0 +1,11 @@
+Purchase of lands by county councils.
+
+38.—(1) Where the Land Commission have put up for sale by public auction any lands which they are entitled to cause to be sold for non-payment of a purchase annuity charged thereon and the lands have not been sold, they may offer the lands to the council of the county in which they are situate, and in every such case it shall be lawful for the county council, with the concurrence of the Minister for Local Government and Public Health, if he approves of the purpose for which the lands are being acquired, to purchase the lands from the Land Commission upon such terms as may be agreed upon notwithstanding that the lands are not required by them for the purpose of any of their statutory powers or duties.
+
+(2) Any lands purchased by a county council under this section shall, so long as the council continues to hold the same, be administered in accordance with a scheme prepared by the county council and confirmed by the Minister for Local Government and Public Health who may confirm the same with or without modifications, and shall unless the said Minister otherwise directs be sold subject to the approval of the said Minister, within a period of five years from the purchase thereof by them or within such extended period as the said Minister may authorise.
+
+(3) The proceeds of the sale of any lands under the foregoing sub-section shall be applied in repayment of any moneys borrowed and outstanding in respect of the said lands and if no such moneys are outstanding shall be carried to the credit of the rate or fund out of which the expenses of the county council in respect of the lands are defrayed.
+
+(4) Any expenses incurred by a county council under this section shall be raised by means of the poor rate as a county-at-large charge, or as a separate charge off such area less than the county as the county council shall with the approval of the Minister for Local Government and Public Health determine.
+
+(5) For the purposes of this section a county council may borrow money under Article 22 of the Schedule to the Local Government (Application of Enactments) Order, 1898, in like manner as if these purposes were mentioned in the said Article.

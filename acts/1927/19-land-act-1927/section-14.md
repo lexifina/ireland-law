@@ -1,0 +1,3 @@
+Restitution of possession in certain cases.
+
+14.—Where, in the case of a holding to which the provisions of the Land Act, 1923, are by this Act made applicable or would have been applicable were it not for the fact that the tenant of such holding has been ejected on or after the gale day next preceding the 16th day of June, 1926, such tenant shall on payment to the landlord of two years rent or such less sum as may be due in respect of arrears of rent together with the landlord's costs of the ejectment proceedings, be entitled to be reinstated in his holding as if a writ of restitution had been applied for and obtained by him under section seventy-one of the Landlord and Tenant Act (Ireland), 1860.

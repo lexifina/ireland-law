@@ -1,0 +1,3 @@
+Power to Land Commission to refuse advances in certain cases and fix Standard Purchase Annuity.
+
+25.—Where the landlord and tenant of a holding to which Part II of the First Schedule to the Land Act, 1923, applies, have agreed on a Standard Purchase Annuity for it of such an amount that the Land Commission are not satisfied that the holding is security therefor the Land Commission on serving notice on the parties in the prescribed manner may make an order refusing to advance the purchase money for the holding and may thereupon fix the Standard Purchase Annuity of the holding in manner provided under the Land Act, 1923, in cases where there had been no agreement between the landlord and tenant.

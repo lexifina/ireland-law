@@ -1,0 +1,5 @@
+orderOrder for possession of lands vested in the Land Commission.
+
+19.—(1) Where the Land Commission are entitled to enter upon and take possession of lands vested in them either before or after the passing of this Act and any person wrongfully neglects or refuses to give up possession thereof or hinders the Land Commission from entering upon or taking possession of the same or any part thereof, it shall be lawful for the Judicial Commissioner to issue an order to the under-sheriff to deliver possession of the same to the person nominated in such order, and upon receipt of such order the under-sheriff shall deliver possession of such lands accordingly and the Land Commission shall be entitled to recover from the person in default all costs and expenses incurred by them in connection with the issuing and execution of such order.
+
+(2) An order for possession issued under this section shall be deemed to be an execution order within the meaning of the Enforcement of Court Orders Act, 1926.
