@@ -1,0 +1,13 @@
+Increases for adult and child dependants.
+
+[1981, s. 32(1)]
+
+45.—(1) The weekly rate of unemployment benefit shall be increased by the amount set out in column (3) of Part I of the second Schedule for any period during which the beneficiary has an adult dependant, subject to the restriction that a beneficiary shall not be entitled for the same period to an increase of benefit under this subsection in respect of more than one person.
+
+[1982, s. 2(3)]
+
+(2) The weekly rate of unemployment benefit shall be increased by the appropriate amount set out in column (4) or (5) of Part I of the second Schedule in respect of each qualified child who normally resides with the beneficiary.
+
+[1985 (No. 2), s. 4(1)]
+
+(3) Any increase of unemployment benefit payable pursuant to subsection (2) in respect of a qualified child who normally resides with a beneficiary and with the spouse of a beneficiary shall be payable at the rate of one-half of the appropriate amount in any case where the spouse of the beneficiary is not an adult dependant, and subsection (2) shall be construed and have effect accordingly.
