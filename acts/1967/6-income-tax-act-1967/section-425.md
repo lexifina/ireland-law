@@ -1,0 +1,7 @@
+Questions as to assessments or schedules.
+
+425.—(1) Whenever the Special Commissioners are dissatisfied with a schedule or require further information relating thereto, they may, at any time and from time to time, by precept, put any questions in writing concerning the schedule, or any matter which is contained or ought to be contained therein, or concerning any deductions made in arriving at the profits or gains, and the particulars thereof, and may require true and particular answers in writing, signed by the person chargeable, to be given within seven days after the service of the precept.
+
+(2) The person chargeable shall, within the time limited, either answer any such questions in writing signed by him, or shall tender himself to be examined orally before the Commissioners, and may object to, and refuse to answer, any question, but the substance of any answer given by him orally shall be taken down in writing in his presence and be read over to him, and after he has had liberty to amend any such answer he may be required to verify the answer on oath to be administered to him by any one of the Commissioners, and the oath shall be subscribed by the person by whom it is made.
+
+(3) Where any clerk, agent or servant of the person chargeable tenders himself, on behalf of that person, to be examined orally before the Commissioners, the same provisions shall apply to his examination as in the case of the person chargeable who tenders himself to be examined orally.

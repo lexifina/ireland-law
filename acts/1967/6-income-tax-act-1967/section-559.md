@@ -1,0 +1,11 @@
+Construction of references.
+
+559.—(1) The continuity of the operation of the law relating to income tax, sur-tax and corporation profits tax shall not be affected by the substitution of this Act for the repealed enactments and—
+
+(a) so much of any enactment or document (including enactments contained in this Act) as refers, whether expressly or by implication, to, or to things done or falling to be done under or for the purposes of, any provision of this Act, shall, if and so far as the nature of the subject matter of the enactment or document permits, be construed as including, in relation to the times, years or periods, circumstances or purposes in relation to which the corresponding provision in the repealed enactments has or had effect, a reference to, or, as the case may be, to things done or falling to be done under or for the purposes of, that corresponding provision;
+
+(b) so much of any enactment or document (including repealed enactments and enactments and documents passed or made after the passing of this Act) as refers, whether expressly or by implication, to, or to things done or falling to be done under or for the purposes of, any provision of the repealed enactments shall, if and so far as the nature of the subject matter of the enactment or document permits, be construed as including, in relation to the times, years or periods, circumstances or purposes in relation to which the corresponding provision of this Act has effect, a reference to, or as the case may be, to things done or deemed to be done or falling to be done under or for the purposes of, that corresponding provision.
+
+(2) The references in subsection (1) to things done or falling to be done under any provision include in particular, and without prejudice to the generality of the references, references to charges to tax and reliefs from tax made or granted or falling to be made or granted under that provision:
+
+Provided that the amounts which may, under sections 241, 244, 245, 248, 252, 254, 295, 305, 309 or 310, be carried forward from years of assessment before the year 1967-68 shall, in so far as the effect of the repealed enactments differs from that of the corresponding enactments in this Act, be determined according to the repealed enactments.

@@ -1,0 +1,3 @@
+Taxation of certain payments in respect of easements.
+
+87.—Where, in any year of assessment, any person is entitled to any payment, other than a payment to which section 93 applies, in respect of any easement in relation to any premises, not being premises of the whole of which he is, throughout the period in respect of which the payment is due, the sole occupier for the purposes of Schedule A, the payment shall be treated for the purposes of section 81 as if it were rent payable in respect of premises under a short lease, and the provisions of that section shall with the necessary adaptations apply accordingly.

@@ -1,0 +1,5 @@
+Securities of Electricity Supply Board and Córas Iompair Éireann.
+
+471.—(1) Any stock or other forms of security issued after the 13th day of July, 1954, by the Electricity Supply Board or by Córas Iompair Éireann shall be deemed to be securities issued under the authority of the Minister for Finance within the meaning of section 466 and that section shall apply accordingly.
+
+(2) Notwithstanding anything contained in section 61 (l), 433, 434 or 456, in computing for the purposes of assessment under Schedule D the amount of the profits or gains of the Electricity Supply Board, or of Córas Iompair Éireann, as the case may be, for any period for which accounts are made up, there shall be allowed as a deduction the amount of the interest on stock or other forms of security which, by direction of the Minister for Finance given under section 466, as applied by this section, is paid by the Electricity Supply Board or by Córas Iompair Éireann, as the case may be, without deduction of tax for such period.

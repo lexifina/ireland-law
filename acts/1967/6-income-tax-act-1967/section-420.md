@@ -1,0 +1,3 @@
+Publication of reports of cases stated.
+
+420.—The holding in camera in pursuance of section 416 (10) of the hearing of a case stated relative to income tax or sur-tax shall not preclude the publication, in the law reports published by the Incorporated Council of Law Reporting for Ireland or in any other recognised law reports or in any reports printed with the permission of the said Incorporated Council, of a report of the proceedings before, or the judgments given by, the High Court or the Supreme Court, but no such report shall disclose the name of the person whose chargeability to tax is the subject of the case.

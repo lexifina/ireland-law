@@ -1,0 +1,7 @@
+Loss or destruction of assessments and other documents.
+
+188.—(1) Where any assessment to income tax for any year, or any duplicate of assessment to income tax for any year, or any return or other document relating to income tax has been lost or destroyed, or has been so defaced or damaged as to be illegible or otherwise useless, the Revenue Commissioners, inspectors, the Collector, and other officers respectively having powers in relation to income tax may, notwithstanding anything in any enactment to the contrary, do all such acts and things as they might have done, and all acts and things done under or in pursuance of this section shall be as valid and effectual for all purposes as they would have been if the assessment or duplicate of assessment had not been made, or the return or other document had not been made or furnished, or required to be made or furnished:
+
+Provided that, where any person who is charged with income tax in consequence or by virtue of any act or thing done under or in pursuance of this section, proves to the satisfaction of the Revenue Commissioners that he has already paid any income tax for the same year in respect of the subject matter and on the account in respect of and on which he is so charged, relief shall be given to the extent to which the liability of that person has been discharged by the payments so made either by abatement from the charge or by repayment, as the case may require.
+
+(2) In this section “income tax” includes “sur-tax”.

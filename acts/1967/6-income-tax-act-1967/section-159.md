@@ -1,0 +1,3 @@
+Declarations to be made by commissioners.
+
+159.—The respective commissioners for executing this Act in relation to offices and employments of profit and pensions and stipends shall, as soon as practicable after their appointment, meet and make and subscribe the declaration contained in Part II of Schedule 17, and may respectively elect a clerk and assessors, and if the tax cannot be deducted at the department of office of the commissioners or at the office for which they act, they may, from among the officers in their respective departments, appoint separate assessors and collectors for each such department.

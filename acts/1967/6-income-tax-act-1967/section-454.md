@@ -1,0 +1,11 @@
+Special provisions as to certain interests in residue.
+
+454.—(1) Where the personal representatives of a deceased person have as such a right in relation to the estate of another deceased person such that, if that right were vested in them for their own benefit, they would have an absolute or a limited interest in the residue of that estate or in a part thereof, they shall be deemed to have that interest notwithstanding that that right is not vested in them for their own benefit, and any amount deemed to be paid to them as income by virtue of this Part shall be treated as part of the aggregate income of the estate of the person whose personal representatives they are.
+
+(2) Where different persons have successively during the administration period absolute interests in the residue of the estate of a deceased person or in a part thereof, sums paid during that period in respect of the residue or of that part thereof, as the case may be, shall be treated for the purpose of this Part as having been paid in respect of the interest of the person who first had an absolute interest therein up to the amount of—
+
+(a) in the case of an Irish estate, the aggregate for all years of that person's residuary income less income tax at the standard rate of tax, or
+
+(b) in the case of a foreign estate, the aggregate for all years of that person's residuary income, and, as to any balance up to a corresponding amount, in respect of the interest of the person who next had an absolute interest therein, and so on.
+
+(3) Where upon the exercise of a discretion any of the income of the residue of the estate of a deceased person for any period (being the administration period or a part thereof) would, if the residue had been ascertained at the commencement of that period, be properly payable to any person, or to another in his right, for his benefit, whether directly by the personal representatives or indirectly through a trustee or other person, the amount of any sum paid pursuant to an exercise of the discretion in favour of that person shall be deemed for all the purposes of this Act to have been paid to that person as income for the year of assessment in which it was paid, and the provisions of section 451 (4) (5) shall have effect in relation to an amount which is deemed to have been paid as income by virtue of this subsection.

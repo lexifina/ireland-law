@@ -1,0 +1,3 @@
+Husbandry: profits falling short of assessable value.
+
+35.—If a person who occupies, either as owner or otherwise, any lands for the purposes of husbandry only, shows within a period of one year after the end of any year of assessment to the satisfaction of the Special Commissioners that the profits or gains arising from that occupation during that year fell short of the assessable value of the lands under this Schedule, the income arising from that occupation shall be taken at the actual amount of those profits or gains, and if the whole of the tax has been paid, the amount overpaid shall be certified and repaid in like manner as tax is repaid under section 22 (2).

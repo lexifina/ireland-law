@@ -1,0 +1,3 @@
+Exemption of profits from lotteries.
+
+350.—Exemption from income tax shall be granted in respect of profits from a lottery to which a licence under Part IV of the Gaming and Lotteries Act, 1956, applies.

@@ -1,0 +1,19 @@
+Basis of assessment.
+
+58.—(1) Subject to the provisions of this section and sections 59 and 60, tax shall be charged under Case I or Case II of Schedule D on the full amount of the profits or gains of the year preceding the year of assessment.
+
+(2) Where the trade or profession has been set up and commenced within the year of assessment, the computation of the profits or gains chargeable under Case I or Case II of Schedule D shall be made either on the full amount of the profits or gains arising in the year of assessment or according to the average of such period, not being greater than one year, as the case may require and as may be directed by the inspector.
+
+(3) Any person chargeable with income tax in respect of the profits or gains of any trade or profession which has been set up and commenced within the year preceding the year of assessment shall be charged on the full amount of the profits or gains for one year from the time of such setting up and commencement, but shall be entitled, on giving notice in writing to the inspector within twelve months after the end of the year of assessment, to be charged to income tax on the amount of the profits or gains of the year of assessment.
+
+(4) Any person chargeable with income tax in respect of the profits or gains of any trade or profession which has been set up and commenced within the year next before the year preceding the year of assessment shall be entitled, on giving notice in writing to the inspector within twelve months after the end of the year of assessment, to have the assessment reduced by the amount (if any) by which the aggregate amount of the respective assessments for the year of assessment and the year preceding that year exceed the total amount of the profits or gains of those two years.
+
+(5) (a) Where in any year of assessment a trade or profession is permanently discontinued then, notwithstanding anything contained in this Act—
+
+(i) the person charged or chargeable with tax in respect thereof shall be charged for that year on the amount of the profits or gains of the period beginning on the 6th day of April in that year and ending on the date of the discontinuance, subject to any deduction or set-off to which he may be entitled under section 308 or 309, and, if he has been charged otherwise than in accordance with this paragraph, any tax overpaid shall be repaid, or an additional assessment may be made upon him, as the case may require;
+
+(ii) if the profits or gains of the year ending on the 5th day of April in the year preceding the year of assessment in which the discontinuance occurs exceed the amount on which the person has been charged for that preceding year, or would have been charged if no such deduction or set-off as aforesaid had been allowed, an additional assessment may be made upon him, so that he shall be charged for that preceding year on the amount of the profits or gains of the said year ending on the 5th day of April, subject to any such deduction or set-off as aforesaid to which he may be entitled.
+
+(b) In the case of the death of a person who, if he had not died, would, under this subsection, have become chargeable to income tax for any year, the tax which would have been so chargeable shall be assessed and charged upon his executors or administrators, and shall be a debt due from and payable out of his estate.
+
+(6) The reference in subsection (5) to the discontinuance of a trade or profession shall be construed as referring to a discontinuance occurring by reason of the death while carrying on such trade or profession of the person carrying on the same as well as to a discontinuance occurring in the lifetime of such person, and for the purposes of subsection (5) such death shall be deemed to cause a discontinuance and such discontinuance shall be deemed to take place on the day of such death.

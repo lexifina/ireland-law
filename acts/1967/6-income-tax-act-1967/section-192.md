@@ -1,0 +1,7 @@
+General rule as to tax on husbands and wives.
+
+192.—(1) Subject to the provisions of this Chapter, a woman's income chargeable to tax shall, so far as it is income for a year of assessment or part of a year of assessment during which she is a married woman living with her husband, be deemed for income tax (including sur-tax) purposes to be his income and not to be her income, but the question whether there is any income of hers chargeable to tax for any year of assessment and, if so, what is to be taken to be the amount thereof for tax purposes shall not be affected by the provisions of this subsection.
+
+(2) Any tax falling to be assessed in respect of any income which, under subsection (1), is to be deemed to be the income of a woman's husband shall, instead of being assessed on her, or on her trustee, guardian or committee, or on her executors or administrators, be assessable on him or, in the appropriate cases, on his trustee, guardian or committee, or on his executors or administrators.
+
+(3) References in this section to a woman's income include references to any such sum which, apart from this section, would fall to be included in computing her total income, and this subsection has effect in relation to any such sum notwithstanding that some enactment (including, except so far as the contrary is expressly provided, an enactment passed after the passing of this Act) requires that that sum should not be treated as income of any person other than her.

@@ -1,0 +1,3 @@
+Income tax assessment to be conclusive in estimation of total income.
+
+534.—Where an assessment has become final and conclusive for the purposes of income tax for any year of assessment, that assessment shall also be final and conclusive in estimating total income from all sources for the purposes of this Act, and no allowance or adjustment of liability, on the ground of diminution of income or loss, shall be taken into account in estimating such total income from all sources for such purposes unless that allowance or adjustment has been previously made on an application under the special provisions of this Act relating thereto.

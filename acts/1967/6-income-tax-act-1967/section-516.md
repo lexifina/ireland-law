@@ -1,0 +1,3 @@
+Penalty for false statement made to obtain allowance.
+
+516.—If any person, for the purpose of obtaining any allowance, reduction, rebate, or repayment in respect of tax either for himself or for any other person, or in any return made with reference to tax, knowingly makes any false statement or false representation, he shall be liable, on summary conviction, to imprisonment for a term not exceeding six months and any person shall also be liable as aforesaid if he knowingly and wilfully aids, abets, assists, incites or induces another person to make or deliver a false or fraudulent account, return, list, declaration or statement with reference to property, profits or gains or to tax.

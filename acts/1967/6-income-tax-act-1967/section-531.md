@@ -1,0 +1,13 @@
+Protection for companies which transmit accounts to the Special Commissioners.
+
+531.—(1) Any company to which section 530 applies, may at any time after the general meeting at which the accounts of the company made up for any year or other period are adopted, forward to the Special Commissioners for their consideration a copy of the said accounts, together with a copy of the report, if any, of the directors for that year or period, and such further information, if any, as it may think fit, and the Special Commissioners shall, subject to the provisions of this section, on receiving the said accounts and other documents, if any, proceed to consider the position of the company in relation to the said section 530.
+
+(2) The Special Commissioners may as soon as reasonably may be, but not later than twenty-eight days after the receipt of the said accounts and other documents, if any, call upon the company to furnish to them within twenty-eight days, or such extended period as they may subsequently allow, such further particulars as they may reasonably require:
+
+Provided that, if the particulars so required are not furnished to the Commissioners within the period or extended period allowed for the purpose, they may proceed under this section upon the information before them.
+
+(3) Where a company has under subsection (1) forwarded to the Special Commissioners the accounts of the company for any year or other period, whether with or without any other documents, the following provisions shall have effect:—
+
+(a) unless within three months after the receipt of the said accounts and other documents, or, if further particulars have been required as aforesaid, within three months after the receipt of those particulars, or the expiration of the period within which those particulars are to be furnished, as the case may be, the Special Commissioners intimate to the company their intention to take further action in the case of the company under the said section 530 in respect of that year or other period, the power of the Commissioners to take any such further action in respect of that year or other period shall absolutely cease and determine; and
+
+(b) notwithstanding that the Special Commissioners have given such an intimation as aforesaid, they shall not after the expiration of six months from the date of the intimation have power in relation to that company to issue a notice under Schedule 16, paragraph 4, with respect to that year or period, or, unless such a notice has been issued before the expiration of the said period of six months, to give a direction in relation to the company under section 530 (1).

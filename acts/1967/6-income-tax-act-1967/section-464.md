@@ -1,0 +1,3 @@
+Issue of securities with exemption from tax.
+
+464.—Any security which the Minister for Finance has power to issue for the purpose of raising any money or loan, may be issued with a condition that neither the capital of nor the interest on such security shall be liable to tax so long as it is shown in the manner to be prescribed by the Minister for Finance that such security is in the beneficial ownership of a person or persons who is or are not ordinarily resident in the State, and every security issued (whether before or after the passing of this Act) with such condition shall be exempt from tax accordingly.

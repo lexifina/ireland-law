@@ -1,0 +1,3 @@
+Cattle and milk dealers.
+
+78.—If the inspector finds that lands which have been charged under Schedule B on the assessable value, and which are occupied by a dealer in cattle or a dealer in or a seller of milk, are insufficient for the keep of the cattle brought on to the lands, so that the assessable value affords no just estimate of the profits, he may require a statement of the profits to be delivered, and charge such further sum thereon as, together with the charge under Schedule B, will make up the full sum wherewith the dealer or seller ought to be charged in respect of the like amount of profits charged according to section 77.

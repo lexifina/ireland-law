@@ -1,0 +1,9 @@
+Foreign assurance companies: investment income.
+
+215.—(1) Where an assurance company not having its head office in the State carries on life assurance business through any branch or agency in the State, any income of the company from the investments of its life assurance fund (excluding the annuity fund, if any), wherever received, shall, to the extent provided in this section, be deemed to be profits comprised in Schedule D and shall be charged under Case III thereof.
+
+(2) Such portion only of the income from the investments of the life assurance fund for the year preceding the year of assessment shall be so charged as bears the same proportion to the total income from those investments as the amount of premiums received in that year from policy holders resident in the State and from policy holders resident outside the State whose proposals were made to the company at or through its office or agency in the State bears to the total amount of the premiums received by the company:
+
+Provided that in the case of an assurance company having its head office in Northern Ireland, Great Britain or in any other country to which the repealed enactments corresponding to this section would apply but for their repeal, the Revenue Commissioners may, by regulation, substitute some basis other than that herein prescribed for the purpose of ascertaining the portion of the income from investments to be so charged as being income derived from business carried on in the State.
+
+(3) Where a company has already been charged to tax, by deduction or otherwise, in respect of its life assurance business, to an amount equal to or exceeding the charge under this section, no further charge shall be made under this section, and where a company has already been so charged, but to a less amount, the charge shall be proportionately reduced.

@@ -1,0 +1,27 @@
+Nature and amount of relief for qualifying premiums.
+
+236.—(1) Where relief is to be given under this section in respect of any qualifying premium paid by an individual, the amount of that premium shall be deducted from or set off against his relevant earnings for the year of assessment in which the premium is paid:
+
+Provided that the amount which may be deducted or set off in any year of assessment (whether in respect of one or more qualifying premiums) shall not be more than the sum of £500, nor more than one-tenth of his net relevant earnings for that year, and where the condition in section 235 (1) (a) is satisfied as respects part only of that year, then, for the said sum of £500, there shall be substituted the sum which bears to it the same proportion as that part bears to the whole year (but so that in the case of individuals holding a pensionable office or employment, and of individuals born in or before the year 1917, this proviso shall have effect subject to the provisions of Schedule 5).
+
+(2) If in any year of assessment a reduction or a greater reduction would be made under this section in the relevant earnings of an individual but for an insufficiency of net relevant earnings, the amount of the reduction which would be made but for that insufficiency, less the amount of any reduction which is made in that year, shall be carried foward to the next following year, and shall be treated for the purposes of relief under this section as the amount of a qualifying premium paid in that following year, and so on for succeeding years (if necessary).
+
+(3) For the purposes of relief under this section, an individual's relevant earnings are those earnings before giving effect to any deduction falling to be made therefrom in respect of a loss or in respect of any allowance under section 241, 244 (3) or 245, Chapter III of Part XIV, Part XV or XVI, and references to income in the following provisions of this section (other than references to total income) shall be construed similarly.
+
+(4) Subject to the following provisions of this section, “net relevant earnings” means, in relation to any individual, the amount of his relevant earnings for the year of assessment in question, less the amount of any deductions falling to be made from the relevant earnings in computing his total income for that year being either—
+
+(a) deductions in respect of payments made by him, or
+
+(b) deductions in respect of losses or of such allowances as are mentioned in subsection (3), being losses or allowances arising from activities, profits or gains of which would be included in computing relevant earnings of the individual or of the individual's wife or husband for the year 1958-59 or a later year of assessment.
+
+(5) Where, in any year of assessment for which an individual claims and is allowed relief under this section, there falls to be made in computing the total income of the individual or that of the individual's wife or husband a deduction in respect of any such loss or allowance of the individual as is referred to in subsection (4) (b), and the deduction or part of it falls to be so made from income other than relevant earnings, the amount of the deduction made from that other income shall be treated as reducing the individual's net relevant earnings for subsequent years of assessment (being deducted as far as may be from those of the immediately following year, whether or not he claims or is entitled to claim relief under this section for that year, and so far as it cannot be so deducted, then from those of the next year, and so on).
+
+(6) Where an individual's income for any year of assessment consists partly of relevant earnings, and partly of other income, then, as far as may be, any deductions which fall to be made in computing his total income, and which may be treated in whole or in part either as made from relevant earnings or as made from other income, shall be treated for the purposes of this section as being made from those relevant earnings in so far as they are deductions in respect of any such loss as is referred to in subsection (4) (b) and otherwise as being made from that other income.
+
+(7) An individual's net relevant earnings for any year of assessment are to be computed without regard to any relief which falls to be given for that year under this section either to the individual or to the individual's wife or husband.
+
+(8) Where relief under this section for any year of assessment is claimed and allowed (whether or not relief then falls to be given for that year), and afterwards there is made any additional assessment, alteration of an assessment, or other adjustment of the claimant's liability to tax, there shall be made also such adjustments, if any, as are consequential thereon in the relief allowed or given under this section for that or any subsequent year of assessment.
+
+(9) Where relief under this section is claimed and allowed for any year of assessment in respect of any payment, relief shall not be given in respect of it under any other provision of this Act for the same or a later year of assessment nor (in the case of a payment under an annuity contract) in respect of any other premium or consideration for an annuity under the same contract; and references in this Act to relief in respect of life assurance premiums shall not be taken to include relief under this section.
+
+(10) In this section “total income” means total income from all sources as estimated in accordance with the provisions of this Act.

@@ -1,0 +1,3 @@
+Persons temporarily resident outside the State.
+
+199.—Every person whose ordinary residence has been in the State shall be assessed and charged to tax, notwithstanding that at the time the assessment or charge is made he may have left the State if he has so left for the purpose only of occasional residence outside the State, and shall be charged as a person actually residing in the State upon the whole amount of his profits or gains, whether they arise from property in the State or elsewhere, or from any allowance, annuity, or stipend (save as herein is excepted), or from any trade, profession or employment in the State or elsewhere.

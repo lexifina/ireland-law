@@ -1,0 +1,3 @@
+Relief under Schedule B in case of loss by flood or tempest.
+
+38.—Section 26, relating to relief in the case of losses caused by flood or tempest, shall apply in the case of Schedule B as in the case of Schedule A, and as respects land the proprietor of which is shown to the satisfaction of the Special Commissioners to be an incapacitated person, or to be otherwise incapable of consenting to an abatement of the rent, an abatement and discharge of tax under Schedule B may be allowed by the Special Commissioners on proof to them of the loss in respect of the abatement of rent which in their opinion ought to have been made.

@@ -1,0 +1,3 @@
+Former employees of railway company.
+
+558.—Where any person has ceased to hold an office or employment under a railway company, or has ceased to be entitled to any pension paid by a railway company, such part of any tax assessed and charged upon the company under Rule 7 of the Rules applicable to Schedule E of the Income Tax Act, 1918, in respect of that office, employment or pension as could not be deducted out of emoluments shall be collected and levied from that person or from his executors or administrators, as the case may be, as if he or they had been chargeable and charged with the said tax.

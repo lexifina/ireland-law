@@ -1,0 +1,3 @@
+Machinery out of use during national emergency.
+
+242.—The provisions of this Act relating to the deduction to be allowed in respect of diminished value by reason of wear and tear shall have effect as if the references therein to diminished value by reason of wear and tear during the year of any machinery or plant included references to diminished value by reason of any machinery or plant having been temporarily out of use at any time during the year through circumstances attributable directly or indirectly, to the national emergency to which the resolution passed by each House of the Oireachtas on the 2nd day of September, 1939, related (including circumstances continuing after the termination of that emergency).

@@ -1,0 +1,5 @@
+Priority in bankruptcy.
+
+132.—(1) There shall be included among the debts which, under section 4 of the Preferential Payments in Bankruptcy (Ireland) Act, 1889, are to be paid in priority to all other debts in the distribution of the property of a bankrupt, arranging debtor, or person dying insolvent, so much as is unpaid of the employer's liability for the period of twelve months next before the date on which the order of adjudication of the bankrupt was made, the petition of arrangement of the debtor was filed, or, as the case may be, the person died insolvent.
+
+(2) For the purposes of this section “employer's liability for the period of twelve months” means all sums which an employer was liable under this Chapter and any regulations thereunder to deduct from emoluments to which this Chapter applies paid by him during the period of twelve months mentioned in this section, reduced by any amounts which he was under this Chapter and any regulations thereunder liable to repay during the same period, and subject to the addition of interest payable under section 129.

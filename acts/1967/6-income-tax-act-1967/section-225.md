@@ -1,0 +1,3 @@
+Liability of certain pensions, etc., to tax.
+
+225.—Where a person has ceased to hold an office or employment and a pension, annuity, or other annual payment is paid to him or to his widow or his child or any of his relatives or dependants by the person or the heirs, executors, administrators, or successors of the person under whom he held such office or by whom he was so employed, then such pension, annuity, or other annual payment shall, notwithstanding that it is paid voluntarily or is capable of being discontinued, be deemed to be income for the purpose of assessment of income tax and shall be assessed and charged under Schedule D or under Schedule E as the case may require.

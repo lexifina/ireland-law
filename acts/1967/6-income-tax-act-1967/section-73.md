@@ -1,0 +1,7 @@
+Modification of provisions as to appeals.
+
+73.—(1) The inspector may give notice to the partnership concerned of any determination made by him under section 71 (3) or 72 (6) by delivering a statement in writing thereof to the precedent partner for the time being of the partnership and all the provisions of this Act relating to appeals against assessments to income tax shall, with any necessary modifications, apply in relation to any determination and any notice of a determination as if they were respectively such an assessment and notice of such an assessment.
+
+(2) Where a determination has become final and conclusive or, in the case of a determination under section 72 (6) has become final and conclusive subject to paragraph (b) of that subsection, no question as to its correctness shall be raised on the hearing or on the rehearing of an appeal by any partner either against an assessment in respect of the profits or gains of his several trade or against a determination by the inspector on a claim under section 307.
+
+(3) Where on any appeal such as is mentioned in subsection (2) any question arises as to an apportionment falling to be made under section 71 (2) or section 72 (7) and it appears that the question is material as respects the liability to income tax (for whatever year of assessment) of two or more persons, all those persons shall be notified of the time and place of the hearing and shall be entitled to appear and be heard by the Special Commissioners or to make representations to them in writing.

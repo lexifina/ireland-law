@@ -1,0 +1,19 @@
+Recovery by sheriff or county registrar.
+
+485.—(1) Whenever any person makes default in paying any sum which may be levied upon him in respect of income tax, and notwithstanding (in the case of a Schedule A assessment) that the defaulter is not named in the assessment of the tax, the Collector may issue a certificate to the county registrar or sheriff of the county in which the defaulter resides or has a place of business or (when the tax in default is charged on lands or tenements) in which the lands and tenements are situate, certifying the amount of the sum so in default and the person upon whom the same is leviable and the lands and tenements (if any) on which the sum is charged.
+
+(2) Immediately upon receipt of the certificate the county registrar or sheriff shall proceed to levy the sum therein certified to be in default by seizing all or any of the goods, animals and other chattels within his bailiwick belonging to the defaulter and (when the tax in default is charged on lands or tenements) all or any goods, animals and other chattels which may be found on such lands or tenements, and for such purposes he shall (in addition to the rights, powers and duties conferred on him by this section) have all such rights, powers and duties as are for the time being vested in him by law in relation to the execution of a writ of fieri facias so far as the same are not inconsistent with the additional rights, powers and duties conferred on him by this section.
+
+(3) Subject to subsection (4), subsections (1) and (2) shall apply in relation to the recovery of sur-tax, whether assessed before or after the passing of this Act, as they apply in relation to the recovery of income tax.
+
+(4) In any application of subsection (1) in relation to the recovery of sur-tax, that subsection shall have effect with the substitution of “an officer of the Revenue Commissioners, authorised by them for the purposes of this subsection,” for “the Collector”.
+
+(5) A county registrar or sheriff executing a certificate under this section shall be entitled—
+
+(a) if the sum certified in the certificate to be in default exceeds £600, to charge and (where appropriate) to add to that sum and (in any case) to levy under the certificate such fees and expenses, calculated according to the scales appointed by the Minister for Justice under paragraph (a) of subsection (1) of section 14 of the Enforcement of Court Orders Act, 1926, and for the time being in force, as he would be entitled so to charge or add and to levy if the certificate were an execution order within the meaning of the Enforcement of Court Orders Act, 1926, (in this section referred to as an “execution order”) of the High Court,
+
+(b) if the sum certified in the certificate to be in default exceeds £50 but does not exceed £600, to charge and (where appropriate) to add to that sum and (in any case) to levy under the certificate such fees and expenses, calculated according to the said scales, as he would be entitled so to charge or add and to levy if the certificate were an execution order of the Circuit Court, and
+
+(c) if the sum certified in the certificate to be in default does not exceed £50, to charge and (where appropriate) to add to that sum and (in any case) to levy under the certificate such fees and expenses, calculated according to the said scales, as he would be entitled so to charge or add and to levy if the certificate were an execution order of the District Court.
+
+(6) Where an order which was made before the passing of this Act under section 12 of the Court Officers Act, 1945, contains a reference to levy under a certificate issued under section 7 of the Finance Act, 1923, or to levy under a certificate issued under the said section 7 as extended by section 55 of the Finance Act, 1958, the reference shall be construed as being a reference to levy under a certificate issued under this section.
