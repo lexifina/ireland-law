@@ -1,0 +1,17 @@
+Annual revision of register of nominating bodies.
+
+17.—(1) The Seanad returning officer shall, on or after the 1st, but not later than the 15th day of January in the year 1939 and every subsequent year, publish in every morning daily newspaper published in the State and in such other (if any) daily newspapers as the said officer shall, with the sanction of the Minister, think proper a notice in the prescribed form giving public notice that, on the 15th day of February next following or, if that day is a Sunday, the 16th day of February next following, the Seanad returning officer will proceed to revise the register of nominating bodies, and giving such information and instructions in relation to applications for insertion, deletion, or amendment of entries in that register as the Minister shall think proper.
+
+(2) Any body not registered in the register of nominating bodies, which desires to be registered in that register and claims to be eligible for such registration, and any body registered in the said register which desires to be removed therefrom or desires that the entry in respect of it in such register should be amended in any way, may apply to the Seanad returning officer in writing during the period beginning on the 15th day of January and ending on the 15th day of February in the year 1939 or any subsequent year, for such registration, deletion, or amendment, as the case may be.
+
+(3) On the 15th day of February or, if that day is a Sunday, on the 16th day of February in the year 1939 and every subsequent year the Seanad returning officer shall revise (in this Act referred to as an annual revision) the register of nominating bodies by—
+
+(a) allowing and registering in the said register all bodies which have duly applied under this section for such registration at such annual revision and whose applications he does not disallow, and
+
+(b) deleting from the said register the registration of every body which appears to him to have ceased to exist or to have ceased to be eligible for such registration or the deletion of which from the said register appears to him to be necessary and proper in consequence of or to permit the allowance of the application of another body for such registration, and
+
+(c) making all such amendments in the said register as appear to him, by virtue of applications under this section or otherwise, to be requisite or proper.
+
+(4) The Seanad returning officer may make such inquiries as he shall think proper for the purpose of any annual revision of the register of nominating bodies and may, at any annual revision, make all such deletions from and amendments of the register of nominating bodies which appear to him, in consequence of such inquiries, to be requisite or proper, but the Seanad returning officer shall not make any such deletion or amendment without giving notice thereof to the body affected thereby or without giving such body a reasonable opportunity of making representations in regard thereto.
+
+(5) Every allowance or disallowance by the Seanad returning officer of any application under this section for registration in, deletion from, or amendment of the register of nominating bodies, and every deletion from or amendment of the said register made by the Seanad returning officer at an annual revision otherwise than on an application under this section, shall be final and conclusive, subject only to such appeal as is provided for by this Act.

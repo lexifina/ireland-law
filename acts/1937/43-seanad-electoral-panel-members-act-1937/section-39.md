@@ -1,0 +1,3 @@
+Issue of copy of panels to electors.
+
+39.—As soon as practicable after the completion of the electoral roll or the publication of the panels in the Iris Oifigiúil (whichever shall later happen) and in any event before the day appointed for the issue of ballot papers, the Seanad returning officer shall send by post to each person whose name is on the electoral roll, at his address stated on the electoral roll, a copy of the five panels as published in the Iris Oifigiúil, but with the modification that there shall, in such copy, be inserted in respect of every person on any panel a statement of the body or person or persons on whose nomination he was put on such panel.

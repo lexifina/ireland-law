@@ -1,0 +1,3 @@
+Publication of nomination papers by Seanad returning officer.
+
+27.—Whenever the Seanad returning officer receives a nomination paper (other than a nomination paper declared by this Act to be wholly void and a nomination paper so received after the time limited by this Act for such receipt), he shall forthwith post up, in such public place in the county borough of Dublin as he shall consider most suitable, a notice stating the fact of the receipt by him of such nomination paper and the name, address, and description (as stated in such nomination paper) of the person purported to be nominated by such nomination paper and the panel to which such person purports to be so nominated.
