@@ -1,0 +1,3 @@
+Article 5
+
+5. Where, immediately before the commencement of this Order, any legal proceedings are pending to which the Minister for Industry and Energy is a party and the proceedings have reference to functions transferred by this Order to the Minister for Trade, Commerce and Tourism, the name of the Minister for Trade, Commerce and Tourism shall, in so far as the proceedings relate to any function transferred by this Order, be substituted in the proceedings for that of the Minister for Industry and Energy or added in the proceedings, as may be appropriate, and the proceedings shall not abate by reason of such substitution.
