@@ -1,0 +1,3 @@
+Regulation 3
+
+3. Every person desiring to obtain a street trader's certificate shall fill and complete a form of application therefor, which shall be in Form I in the Schedule hereto or in such modification thereof as may be suitable. Such form when completed shall be given to the Chief Superintendent of the Garda Síochána for the Division of Cork East. Where the applicant is over sixteen years of age, a fee of 5/- must be given to the Chief Superintendent at the time of making the application. In the event of the application being refused, the fee so paid by the applicant shall be returned to him.
