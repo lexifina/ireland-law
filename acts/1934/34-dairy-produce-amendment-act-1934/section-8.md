@@ -1,0 +1,3 @@
+Extension of licences under section 42 of the Principal Act.
+
+8.—Every licence granted under sub-section (2) of section 42 of the Principal Act and in force, by virtue of section 10 of the Dairy Produce Act, 1931 (No. 29 of 1931), on the 31st day of March, 1934, shall be deemed to have remained in force until the passing of this Act and shall, if the premises to which such licence relates are registered in the register of manufacturing exporters on the passing of this Act, remain in force until the 31st day of March, 1937, but shall continue until that date to be subject to and liable to revocation by the Minister as and when he thinks proper.
