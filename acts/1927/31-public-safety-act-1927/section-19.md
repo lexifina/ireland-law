@@ -1,0 +1,11 @@
+Forfeitures and disqualifications on certain convictions.
+
+19.—(1) Whenever a person convicted after the passing of this Act of an offence to which this section applies holds at the time of such conviction an office or employment remunerated out of the Central Fund or moneys provided by the Oireachtas or moneys raised by local taxation or a place, office, employment, or emolument in any university or college or in or under any corporation created by charter, such person shall immediately on such conviction forfeit such office, employment, place, or emolument and the same shall forthwith become and be vacant.
+
+(2) Whenever a person convicted after the passing of this Act of an offence to which this section applies is at the time of such conviction in receipt of a pension or superannuation allowance payable out of the Central Fund or moneys provided by the Oireachtas or moneys raised by local taxation or the funds of any university or college or of any corporation created by charter, such person shall immediately upon such conviction forfeit such pension or superannuation allowance and such pension or superannuation allowance shall forthwith cease to be payable.
+
+(3) Every person convicted after the passing of this Act of an offence to which this section applies shall from and after such conviction be for seven years from the date of such conviction disqualified for holding any office or employment remunerated out of the Central Fund or moneys provided by the Oireachtas or moneys raised by local taxation or any place, office, employment or emolument in any university or college or in or under any corporation created by charter.
+
+(4) Whenever a conviction which occasions by virtue of this section any forfeiture or disqualification is quashed or annulled or the convicted person is granted a free pardon such forfeiture or disqualification shall be annulled, in the case of a quashing or annulment, as from the date of the conviction and, in the case of a free pardon, as from the date of such pardon.
+
+(5) This section applies to every offence which is declared by the Treasonable Offences Act, 1925 (No. 18 of 1925) to be treason or a felony or a misdemeanour and to every offence which is declared by this Act to be a misdemeanour.

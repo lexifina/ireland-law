@@ -1,0 +1,9 @@
+Proof of membership of unlawful association.
+
+7.—(1) Whenever a person is charged with the offence of being a member of an unlawful association and it is proved to the satisfaction of the Court that a document (of whatsoever date or bearing no date) issued by or emanating from or appearing to be issued by or to emanate from an unlawful association or purporting to aid or abet an unlawful association or otherwise relating to or connected with an unlawful association was found on or in the possession of such person or on or in premises belonging to or occupied by him or under his control such person shall be deemed to be a member of the unlawful association to or with which such document relates or is connected unless he proves that he is not then a member of such association and was not a member of such association at any time after it became by virtue of this Act an unlawful association.
+
+(2) A person who is deemed by virtue of this section to be a member of an unlawful association shall not be deemed to have proved that he is not then a member of such association and was not a member thereof since it became by virtue of this Act an unlawful association unless (in addition to such other evidence as satisfies the Court of such non-membership) he—
+
+(a) declares on oath (which declaration the Court shall give him an opportunity of making) that he is not then a member of such unlawful association and was not a member thereof at any time since it became by virtue of this Act an unlawful association, and
+
+(b) produces two reputable witnesses who depose on oath that they are well acquainted with him and that to the best of their knowledge, information, and belief he is not then a member of such unlawful association and was not a member thereof at any time since it became by virtue of this Act an unlawful association.
