@@ -1,0 +1,5 @@
+Lodgment of cautions by puisne claimants against unregistered land.
+
+43.—(1) Any person claiming to be entitled to an estate or interest in or incumbrance on or claim against any unregistered land which is a puisne claim against such land or would become a puisne claim against such land if a priority charge were created on such land, may (whether the instrument, if any, under which such claim arises is or is not registered in the Registry of Deeds) lodge under section 61 of the Act of 1891 a caution against the registration against such land on or after the first registration thereof of any dealing with such land in favour of the Corporation to the prejudice of such claim.
+
+(2) Where a caution is lodged under section 61 of the Act of 1891 as extended by subsection (1) of this section in respect of any land, subsection (2) of the said section 61 shall not apply to such caution but in lieu thereof such caution shall, on the first registration of such land, be entered on the folio relating to such land as a caution lodged under section 69 of the Act of 1891 and shall have effect accordingly.

@@ -1,0 +1,3 @@
+Charges by personal representatives.
+
+48.—A personal representative of a deceased person shall be entitled to mortgage or charge the land of the said deceased person, by way of priority charge or otherwise, to secure the repayment to the Corporation of an advance, not exceeding four hundred pounds and interest thereon, made to him as such personal representative for any purpose for which the Corporation is entitled to make an advance to any person, and any such mortgage or charge so given or made by such personal representative shall be deemed to have been given or made in due course and for the purpose of administering the estate of the said deceased person.

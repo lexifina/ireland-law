@@ -1,0 +1,3 @@
+Lodgment of cautions by the Corporation.
+
+46.—Whenever the Corporation claims to be an incumbrancer on unregistered land by virtue of an instrument registered in the Registry of Deeds, it shall be lawful for the Corporation, notwithstanding anything to the contrary contained in section 61 of the Act of 1891, to lodge with the registering authority a caution under the said section, and where such caution is so registered it shall be lawful for the registering authority, on the first registration of such land, to register the incumbrance created by such instrument as a burden affecting such land with such priority (if any) as is given to such incumbrance by this Act or otherwise by law.
