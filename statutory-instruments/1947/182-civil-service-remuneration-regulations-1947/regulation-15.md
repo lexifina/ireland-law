@@ -1,0 +1,7 @@
+Regulation 15
+
+15. Rounding up or down of remuneration of Part II officers.
+
+PART III.
+
+REMUNERATION OF CERTAIN OTHER CIVIL SERVANTS WHOSE REMUNERATION WAS AT INCLUSIVE RATES.
