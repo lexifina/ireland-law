@@ -1,0 +1,9 @@
+Dividends and other distributions at gross rate or of gross amount.
+
+49.—(1) Where a company makes a relevant distribution within the meaning of section 45, including part of a distribution treated under section 45 (2) as a relevant distribution, in respect of any right or obligation to which section 178 of the Corporation Tax Act, 1976, applies, the company shall make a supplementary distribution of an amount equal to the excess of the amount of the tax credit which would have applied in respect of the relevant distribution if section 45 (3) had not been enacted over the amount of the tax credit which in accordance with the said section 45 (3) applies to the relevant distribution.
+
+(2) Where the whole or part of a supplementary distribution under subsection (1) is a relevant distribution within the meaning of subsection (1) or (2) (a) of section 45 and the recipient of that relevant distribution is a company, then, for the purposes of determining whether and to what extent a distribution made by that company is a relevant distribution, the whole or part (as the case may be) of the supplementary distribution shall be an amount to be taken into account under the definition of E in the formula in the said section in relation to that distribution made by that company.
+
+(3) Notwithstanding the provisions of section 88 of the Corporation Tax Act, 1976, the recipient of a supplementary distribution under subsection (1) shall not be entitled to a tax credit in respect of it.
+
+(4) In relation to any supplementary distribution within the meaning of subsection (1), section 5 of the Corporation Tax Act, 1976, shall apply to the company so that the statement required by that section shall show, in addition to the particulars required to be given apart from this section, the separate amount of such supplementary distribution.
