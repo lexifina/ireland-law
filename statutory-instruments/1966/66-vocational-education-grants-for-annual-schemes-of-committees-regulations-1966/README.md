@@ -1,0 +1,12 @@
+# Vocational Education (Grants For Annual Schemes of Committees) Regulations, 1966
+
+S.I. No. 66 of 1966 · <https://www.irishstatutebook.ie/eli/1966/si/66/made/en/html>
+
+As made (30 March 1966), from the electronic Irish Statute Book. Later amendments are not applied.
+
+| Provision | File |
+| --- | --- |
+| S.I. No. 66 of 1966. | [preamble.md](preamble.md) |
+| Paragraph 1 | [paragraph-1.md](paragraph-1.md) |
+| Paragraph 2 | [paragraph-2.md](paragraph-2.md) |
+| Paragraph 3 | [paragraph-3.md](paragraph-3.md) |
