@@ -1,0 +1,11 @@
+Wound pensions and gratuities.
+
+5.—(1) Where a qualified person is suffering from a disablement caused by a wound certified by the Minister to be attributable to the Mutiny or to circumstances directly arising out of the Mutiny, the following provisions shall have effect, that is to say:—
+
+(a) if the degree of such disablement at the date of his examination by the Army Pensions Board is not less than twenty per cent. there may, in addition to a service pension or a service gratuity, be granted to such person a pension (in this Act referred to as a wound pension) payable during his life at, in case his army service is long service, the rate mentioned in the third column of the First Schedule to this Act opposite to the appropriate degree of disablement mentioned in the second column of that Schedule or, in case his army service is pre-1918 short service, the rate mentioned in the fourth column of that Schedule opposite to the appropriate degree of disablement mentioned in the said second column or, in case his army service is post-1918 short service, the rate mentioned in the fifth column of that Schedule, opposite to the appropriate degree of disablement mentioned in the said second column;
+
+(b) if the degree of such disablement at the date of his examination by the Army Pensions Board is less than twenty per cent. there may, in addition to a service pension or a service gratuity, be granted to such person a gratuity (in this Act referred to as a wound gratuity) of such amount (not exceeding thirty pounds) as the Minister, having regard to all the circumstances of the case, shall, with the consent of the Minister for Finance, determine.
+
+(2) Where a person is suffering from any of the disablements mentioned in the first column of the First Schedule to this Act, the degree of such person's disablement shall, for the purposes of this section, be the degree set out in the second column of that Schedule opposite to the disablement from which such person is suffering.
+
+(3) In the case of a person who is suffering from a disablement, caused by a wound, not mentioned in the first column of the First Schedule to this Act, the degree of such person's disablement for the purposes of this section shall be the degree assessed in that behalf by the Army Pensions Board.
