@@ -1,0 +1,3 @@
+Regulation 4
+
+4. The Merchandise Marks (Prepacked Goods) (Marking and Quantities) Order, 1973 ( S.I. No. 28 of 1973 ), the Merchandise Marks (Prepacked Goods) (Marking and Quantities) (Amendment) Order, 1973 ( S.I. No. 267 of 1973 ), the Merchandise Marks (Prepacked Goods) (Marking and Quantities) (Amendment) Order, 1979 ( S.I. No. 222 of 1979 ), and the Merchandise Marks (Prepacked Goods) (Marking and Quantities) (Amendment) Order, 1981 (S.I. No. 394 of 1981), in so far as they require containers in which goods are packed to bear notices complying with the provisions of those Orders, shall not apply in relation to foodstuffs that comply with the provisions of the Council Directive and these Regulations.
