@@ -1,0 +1,5 @@
+Regulation 8
+
+8. (1) Where consequent upon a report under Regulation 11 of these Regulations it is confirmed that eye protectors given into the care of a person pursuant to Regulation 7 of these Regulations have been lost or destroyed or are so defective as to be unsuitable for the purpose for which they were provided, the employer shall forthwith give into the care of the person (unless he has ceased to be a person to whom Regulation 5 (1) (a) or (c) or Regulation 6 (a) of these Regulations applies or has become a person occasionally employed or unless these Regulations are being complied with in his case by the provision of a shield or fixed shields) eye protectors to replace those which were lost or destroped or which are defective.
+
+(2) Every employer shall keep available as many eye protectors as will be sufficient, so far as can reasonably be foreseen, to enable him to comply with the requirements of paragraph (1) of this Regulation and the requirements of this paragraph are in addition to the requirements of Regulation 7 (2) of these Regulations.
