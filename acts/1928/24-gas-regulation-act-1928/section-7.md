@@ -1,0 +1,5 @@
+Testing of meters on requisition of buyers of gas.
+
+7.—(1) A buyer of gas supplied by means of a meter installed on premises in an area in which the jurisdiction conferred by the Act of 1859 is for the time being not exercisable may, unless such meter has been stamped by a special inspector of meters under section 6 (which relates to the stamping of meters in areas in which the Act of 1859 is not in force) of this Act, by notice in writing require the person by whom such gas is so supplied to remove such meter from such premises and procure the same to be tested by an inspector of meters appointed by a local authority under the Act of 1859 and if found correct to be stamped under that Act as amended by this Act accordingly.
+
+(2) If on the testing of a meter pursuant to a requisition under this section such meter is found to be correct the expenses of the removal, testing and stamping of such meter pursuant to such requisition shall be borne by the buyer by whom such requisition was made and in every other case such expenses shall be borne by the person on whom such requisition was made.

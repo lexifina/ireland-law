@@ -1,0 +1,9 @@
+Extension of application of section 1 of Act of 1920.
+
+11.—(1) Whenever the Minister considers it desirable that the charges to be made for gas supplied by any particular gas undertaker to whom section 1 of the Act of 1920 as amended by this Act does not apply should be charges for thermal units supplied in the form of gas, he may by order declare that such undertaker shall be deemed to be a gas undertaker who is required by enactment or other provision to supply gas of a particular illuminating or calorific value within the meaning of the said section and thereupon the said section shall apply to such undertaker with all necessary modifications and in particular with the modification that the standard or maximum price per therm which may be fixed by the Minister under the said section shall be such as he shall consider reasonable having regard to all the circumstances of the case.
+
+(2) An order under sub-section (1) of this section shall not be made by the Minister unless and until he is satisfied that the undertaker in respect of whom such order is proposed to be made is able to comply with the obligations imposed by section 2 of the Act of 1920 on an undertaker in respect of whom an order has been made under the Act of 1920.
+
+(3) An order under sub-section (1) of this section may be revoked at any time by the Minister by order made under this sub-section, and thereupon any order made under section 1 of the Act of 1920 consequential upon an order under the said sub-section (1) shall be deemed to be revoked also.
+
+(4) Every order made by the Minister under this section, other than an order made on the application of an undertaker, shall be laid before each House of the Oireachtas as soon as may be after it is made and if a resolution is passed by either such House within the next subsequent twenty-one days on which that House has sat annulling such order such order shall be annulled accordingly.
