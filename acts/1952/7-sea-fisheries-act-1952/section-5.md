@@ -1,0 +1,3 @@
+Laying of reports and accounts of Board before Houses of Oireachtas.
+
+5.—The Minister shall lay before each House of the Oireachtas a copy of every report made to him by the Board under this Act, together with a copy of the last capital account, revenue account, profit and loss account, and balance sheet of the Board and a copy of the auditors' report on such accounts and balance sheet and shall with every such report by the Board lay before each House of the Oireachtas copies of such information, returns and accounts furnished to him under this Act as may be necessary for the proper understanding of such report.
