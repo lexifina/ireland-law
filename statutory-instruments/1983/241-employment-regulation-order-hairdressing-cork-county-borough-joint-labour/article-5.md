@@ -1,0 +1,3 @@
+Article 5
+
+5. In this Schedule "apprentice" means a male or female worker who is employed on any of the operations of hairdressing set out herein and (a) (i) has not completed the period of apprenticeship prescribed in Part III, Section I hereof and (ii) has received a certificate of registration as an apprentice from the Hairdressing (Cork County Borough) Joint Labour Committee or in respect of whom an application for such certificate has been made and has been duly acknowledged and is still under consideration, or (b) who in the opinion of the Committee has not otherwise qualified as a hairdresser.
