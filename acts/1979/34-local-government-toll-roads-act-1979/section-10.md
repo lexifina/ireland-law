@@ -1,0 +1,7 @@
+Agency arrangements by road authorities.
+
+10.—(1) Where a toll road or a proposed toll road is or will be situated in the functional area of more than one road authority, the authorities concerned may enter into an agreement whereby one or more of the authorities shall exercise and perform any of the powers, duties and functions of the other authorities, or of any one or more of them, in relation to the road or proposed road, and those powers, duties and functions shall become exercisable and performable by those authorities or the said one or more of those authorities in accordance with the agreement.
+
+(2) Where the road authorities concerned are unable or unwilling to reach an agreement under subsection (1) of this section, any one or more of them may refer the matter to the Minister and he may, by order, direct any one or more of those authorities to exercise and perform specified powers, duties and functions of the other road authorities concerned or of any one or more of those other authorities in relation to the road or proposed road concerned.
+
+(3) Entry into an agreement under this section by a road authority shall be a reserved function within the meaning of the Cork City Management Acts, 1929 to 1971, the Local Government (Dublin) Acts, 1930 to 1971, the Limerick City Management Acts, 1934 to 1971, the Waterford City Management Acts, 1939 to 1971, and the County Management Acts, 1940 to 1972.
