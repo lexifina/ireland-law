@@ -1,0 +1,3 @@
+Article 3
+
+3. The duty of excise imposed by section 1 of the Act of 1952 at the rates specified in subparagraph (d) (inserted by section 79 (1) of the Act of 1976) of paragraph 6 of Part I of the Schedule to the Act of 1952, shall not be charged or levied in respect of the excess of the horse-power above 16 horse-power in the case of mechanically propelled vehicles constructed or adapted for the carriage of more than eight persons which are owned by a youth organisation or community organisation and which are used exclusively by the organisation solely for the purpose of conveying persons on journeys directly related to the activities of the organisation.
