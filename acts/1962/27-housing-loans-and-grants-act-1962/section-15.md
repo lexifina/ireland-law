@@ -1,0 +1,5 @@
+Rates of wages and conditions of labour.
+
+15.—(1) The Minister shall not make a grant under this Act in respect of work consisting of the erection, reconstruction or improvement of a house where it is shown to his satisfaction that rates of wages have not been paid or conditions of labour observed throughout the carrying out of the work at least as advantageous to the persons employed in carrying out the work as the appropriate rates of wages or conditions of labour generally recognised by trade unions at the time at which the work is begun in the area where the house is, or is proposed to be, situate.
+
+(2) The Minister may, as a condition of his making a grant under this Act to any person or public utility society in respect of work consisting of the erection, reconstruction or improvement of a house, require the person or public utility society, as the case may be, to enter into any undertaking that seems proper to the Minister as to the rates of wages to be paid or the conditions of labour to be observed in the carrying out of the work.
