@@ -1,0 +1,5 @@
+Loss of documents.
+
+29.—Where any return, additional return, assessment or other document relating to tax, has been lost or destroyed, or has been so defaced or damaged as to be illegible or otherwise useless, the Commissioners may, notwithstanding anything in any enactment to the contrary, do all such acts and things as they might have done, and all acts and things done under or in pursuance of this section shall be as valid and effectual for all purposes as they would have been if the assessment had not been made, or the return, additional return or other document had not been delivered or furnished, or required to be delivered or furnished:
+
+Provided that where any accountable person who is charged with tax in pursuance of or by virtue of any act or thing done under or in pursuance of this section proves to the satisfaction of the Commissioners that tax has already been paid in respect of the subject matter, relief shall be given either by abatement from the charge or by repayment, as the case may require, to the extent to which the liability of that accountabe person has been discharged by the payments so made.

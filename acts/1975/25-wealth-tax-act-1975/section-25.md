@@ -1,0 +1,3 @@
+Recovery of tax.
+
+25.—Every sum due to the Commissioners in respect of tax or interest thereon and also every penalty incurred in connection with tax or interest thereon shall be deemed to be a debt due by an accountable person or his personal representative to the Minister for Finance for the benefit of the Central Fund and shall be payable to the Commissioners and may (without prejudice to any other mode of recovery thereof) be sued for and recovered by action, or other appropriate proceeding, at the suit of the Attorney-General, the Minister for Finance or the Commissioners in any court of competent jurisdiction, notwithstanding anything to the contrary contained in the Inland Revenue Regulation Act, 1890.

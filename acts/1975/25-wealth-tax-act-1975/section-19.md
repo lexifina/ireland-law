@@ -1,0 +1,7 @@
+Tax to be a charge on property.
+
+19.—(1) Tax due in respect of the taxable wealth of an assessable person shall, subject to the provisions of this section, be and remain a charge on any real property comprised in the taxable wealth of the person and shall also be a charge on the personal property comprised in the taxable wealth of the person while the personal property remains in the ownership or control of the person or of any trustee or other person on his behalf.
+
+(2) Real property comprised in the taxable wealth of an assessable person shall not, as against a bona fide purchaser for full consideration in money or money's worth or a mortgagee, remain charged with or liable to the payment of tax of any amount after the expiration of six years from the valuation date upon which that amount of tax fell due.
+
+(3) Notwithstanding subsection (1), where there is a bona fide sale for full consideration in money or money's worth or a mortgage of real property comprised in the taxable wealth of an assessable person, that property shall not remain charged with tax as against the purchaser or mortgagee unless the amount of the consideration or mortgage debt exceeds £50,000 or the amount of the consideration or mortgage debt, together with the amount of the consideration or mortgage debt for any other such sale or mortgage effected between the same parties within two years prior to the date of that sale or mortgage, exceeds in the aggregate £50,000.

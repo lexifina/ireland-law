@@ -1,0 +1,7 @@
+Receipts and certificates.
+
+20.—(1) When any amount in respect of tax is paid, the Commissioners shall give a receipt for the payment.
+
+(2) The Commissioners shall, on application to them by a person who has paid tax in respect of any property comprised in any return, additional return or assessment, give a certificate to the person, in such form as they think fit, of the amount of tax paid by him in respect of that property.
+
+(3) The Commissioners shall, on application to them by a person who is an accountable person in respect of any property, if they are satisfied that any amount of tax charged on that property and payable on any valuation date has been or will be paid (or that no amount of tax is charged on the property), give a certificate to the person, in such form as they think fit, to that effect and the certificate shall discharge the property from liability for tax (if any) payable on that valuation date, and the certificate shall, in the case of a bona fide purchaser of any real property comprised in the property aforesaid for full consideration in money or money's worth without notice, exonerate the real property from liability for tax (if any) payable on that date notwithstanding any suppression or misstatement in the return, additional return or assessment on the basis of which the amount may have been assessed and notwithstanding any insufficiency of such assessment.
