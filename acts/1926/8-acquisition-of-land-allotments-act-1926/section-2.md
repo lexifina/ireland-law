@@ -1,0 +1,7 @@
+Local authorities may provide land for allotments.
+
+2.—(1) Whenever a local authority is of opinion, as a result of representations made to them or on their own motion, that there is a demand for allotments in their area and are further of opinion that the costs and expenses to be incurred by them in providing and maintaining the land for such allotments and otherwise in relation thereto may reasonably be expected to be recouped by the rents and other moneys to be received by them for the allotments, such local authority may resolve to provide land for such allotments under this Act, and may thereupon carry such resolution into execution under and in accordance with this Act.
+
+(2) The costs and expenses to be incurred and the rents and other moneys to be received by a local authority in relation to allotments shall be calculated for the purposes of the foregoing sub-section in such manner as the Minister shall direct, but shall not in any case include any expenses incurred in any previous unsuccessful attempt to provide land for allotments under this Act nor any expenses to be incurred in making roads for the use of the public.
+
+(3) Whenever the commissioners of a town, being a local authority within the meaning of this Act, resolve to provide land for allotments under this Act, such commissioners (if not already a body corporate) shall be a body corporate with perpetual succession for the purpose of acquiring and holding such land and suing and being sued in respect thereof.

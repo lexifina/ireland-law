@@ -1,0 +1,5 @@
+Disposal of surplus land.
+
+8.—(1) Whenever it is shown to the satisfaction of the Minister that any land acquired by a local authority for the purposes of this Act cannot be let for allotments at rents which will secure such local authority from loss, or, owing to exceptional circumstances, cannot be used with advantage for the purposes of this Act, such local authority may with the approval of the Minister surrender such land by agreement to the immediate landlord thereof on such terms as may be approved of by the Minister or, in default of agreement for such surrender, may with the approval of the Minister let the land for any purpose appearing to the Minister to be beneficial to the inhabitants of the area of such local authority.
+
+(2) Notwithstanding anything to the contrary contained in any other enactment, land acquired by a local authority under this Act and not required for the purposes of this Act shall not be sold, leased, or otherwise alienated by such local authority save in so far as such alienation may be authorised by this section.
