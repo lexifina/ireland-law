@@ -1,0 +1,3 @@
+Regulation 3
+
+3. The stamps to be used in the office of the Railway Tribunal for the collection of the fees payable to the Railway Tribunal under sub-section (2) of section 47 of the Road Transport Act, 1933 (No. 8 of 1933), shall be impressed stamps denoted by the general duty dies in the possession of the Revenue Commissioners, and such stamps shall, in the case of fees payable on the receiving, filing or issuing of a document in or from the said office be impressed on such document and shall in every other case be impressed on the docket required by these Regulations to be lodged in the said office on the occasion on which such fee is payable.
