@@ -1,0 +1,3 @@
+Application of orders under section 31 (1) of Broadcasting Authority Act, 1960.
+
+12.—Every direction given to Radio Telefís Éireann pursuant to section 31 (1) of the Broadcasting Authority Act, 1960, by the Minister which is in force on the commencement of this Act or which is given by him after such commencement, shall, for so long as the direction remains in force, apply to a sound broadcasting service provided pursuant to a sound broadcasting contract and shall be complied with by a sound broadcasting contractor as if the direction were given to him, and the said section 31 (1) shall be construed and have effect accordingly.
