@@ -1,0 +1,9 @@
+Distributions by newly resident companies out of profits arising before residence begins.
+
+91.—(1) Where, on or after the date on which it begins to be resident in the State, but not earlier than the 6th day of April, 1976, a company makes a distribution partly out of profits which arose to it before the date on which it begins to be so resident and partly out of other profits, the distribution shall be treated as if it consisted of two distributions respectively made out of profits which arose to the company before the date on which it begins to be resident in the State and out of other profits.
+
+(2) Notwithstanding section 1 (2), a company which, on or after the date on which it begins to be resident in the State but not earlier than the 6th day of April, 1976, makes a distribution, including part of a distribution treated under subsection (1) as a distribution, out of profits which arose to it before the date on which it begins to be so resident shall, for the year of assessment in which the distribution is made, be assessed to income tax at the standard rate under Case IV of Schedule D on an amount the income tax on which at the standard rate for the said year of assessment is equal to the amount of the tax credit which would apply in respect of the distribution if the person receiving it were an individual resident in the State.
+
+(3) Any person who by virtue of any exemption or relief from tax claims payment of the tax credit in respect of a distribution to which subsection (2) refers shall not be entitled to payment of the said credit if the company by which the distribution is made is a close company (as defined in section 94) which has not paid the total amount of the income tax which is assessed on it under subsection (2).
+
+(4) Any amount on which by virtue of this section income tax is charged on a company by an assessment under Case IV of Schedule D shall not be regarded as income of the company for any purpose of the Tax Acts.

@@ -1,0 +1,3 @@
+Provision for charges on income.
+
+77.—Where charges on income, which are payable out of the income of a trade consisting partly of exempted trading operations and partly of other trading operations, are paid in an accounting period by a company there shall be treated as paid out of profits brought into charge to corporation tax only the portion of the charges so payable which bears to the total amount thereof the same proportion as the amount of the income of the trade actually charged to tax bears to the amount of such income which would have been charged to tax if this Part had not been enacted.

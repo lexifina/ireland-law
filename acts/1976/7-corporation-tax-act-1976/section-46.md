@@ -1,0 +1,15 @@
+Overseas life assurance companies: distributions set off against income.
+
+46.—(1) Where an overseas life assurance company receives a distribution from a company resident in the State and relief in respect of the distribution is not available or is not claimed under arrangements made under section 361 of the Income Tax Act, 1967 (agreements for relief from double taxation of income), as applied for purposes of corporation tax, the overseas life assurance company shall be deemed for the purposes of sections 39, 41, 43, 44 and 45 to be entitled to such a tax credit in respect of the distribution as it would be entitled to if it were a company resident in the State; and accordingly for the purposes of those provisions the income represented by the distribution shall be the aggregate of the distribution and the tax credit.
+
+(2) Where under subsection (1) an overseas life assurance company is deemed to be entitled to a tax credit in respect of a distribution, it may claim to have the income represented by the distribution set off, subject to subsection (3), against its profits chargeable to tax under section 39 or against its income chargeable to tax in accordance with section 43 or partly against the one and partly against the other; but to the extent that any income is so set off the tax credit included in it shall not be payable and shall not be set off against corporation tax under section 45 (5).
+
+(3) The amounts that an overseas life assurance company may by virtue of this section set off against profits or income of any description shall not exceed the amount of the profits or income of that description and shall be further limited as follows—
+
+(a) the amount set off against profits arising from general annuity business shall not exceed a portion of the company's income from investments referable to that business, and that portion shall be determined by the same formula as determines under section 44 the portion of those profits which is chargeable to tax; and
+
+(b) the amount set off against profits from pension business shall not exceed such of its income referable to that business as is represented by distributions in respect of which the company is deemed to be entitled to a tax credit by virtue of this section, and shall not reduce any other income.
+
+(4) Where by virtue of a set-off under this section income or profits of any description are reduced by any amount, that amount shall be left out of account in determining the amount of income tax which is available for set-off against corporation tax under section 8 (3).
+
+(5) A claim under this section in respect of a distribution shall not prevent the making of a subsequent claim for relief in respect of that distribution under arrangements made under the said section 361; but where such a subsequent claim is made the claim under this section shall be deemed never to have been made, and no adjustment (whether by additional assessments or otherwise) to which the subsequent claim gives rise shall be out of time if it is made within twelve months after the making of the subsequent claim.

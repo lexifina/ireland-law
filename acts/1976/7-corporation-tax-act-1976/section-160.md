@@ -1,0 +1,3 @@
+Individuals resident abroad: tax credit.
+
+160.—An individual who, having made a claim in that behalf, is entitled to relief under Part VI of the Income Tax Act, 1967, by virtue of section 153 (2) of that Act (personal reliefs for certain non-residents) in respect of any year of assessment shall be entitled to a tax credit in respect of any distribution received by him in that year to the same extent as if he were resident in the State and section 67 (distributions to non-resident individuals out of profits from exports) and section 83 (4) (Schedule F) shall not have effect in relation to such an individual.

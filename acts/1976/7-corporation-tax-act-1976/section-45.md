@@ -1,0 +1,13 @@
+Overseas life assurance companies: income tax, foreign tax and tax credit.
+
+45.—(1) Section 12 (6) (miscellaneous special rules for computation of income) shall not affect the liability to tax of an overseas life assurance company in respect of the investment income of its life assurance fund under section 43 or in respect of the profits of its annuity business under the provisions of sections 39, 41 and 44.
+
+(2) For the purposes of section 8 (3) (set-off by non-resident companies of income tax deducted from payments received against corporation tax), as it applies to life business, the amount of the income tax referred to in that subsection which shall be available for set-off under that subsection in an accounting period shall be limited in accordance with subsections (3) and (4).
+
+(3) If the company is chargeable to corporation tax for an accounting period in accordance with section 43 in respect of the income from the investments of its life assurance fund, the amount of income tax available for set-off against any corporation tax assessed for that period on that income shall not exceed an amount equal to income tax at the standard rate on the portion of income from investments which is chargeable to corporation tax by virtue of subsection (3) of that section.
+
+(4) If the company is chargeable to corporation tax for an accounting period in accordance with section 44 on a proportion of the total amount of the profits arising from its general annuity business, the amount of income tax available for set-off against any corporation tax assessed for that period on those profits shall not exceed an amount equal to income tax at the standard rate on the like proportion of the income from investments included in computing those profits.
+
+(5) Where an overseas life assurance company receives a distribution in respect of which it is entitled to a tax credit the company may claim to have that credit set off against any corporation tax assessed on the company under section 43 or 44 for the accounting period in which the distribution is received, but the restriction in subsections (3) and (4) on the amount of income tax that may be set off against corporation tax assessed under the said section 43 or 44 shall apply to the aggregate of that income tax and of the tax credit that can be so set off by virtue of this subsection.
+
+(6) Paragraph 3 (6) of Schedule 1 to the Capital Gains Tax Act, 1975 (rules for computation of capital gains), shall not affect the liability to tax under section 43 of an overseas life assurance company in respect of gains from the disposal of investments held in connection with its life business.

@@ -1,0 +1,3 @@
+Repayment of corporation profits tax.
+
+187.—Where after the 5th day of April, 1976, any company has received repayment of any amount previously paid by it by way of corporation profits tax and in respect of which or part of which a deduction was made in computing profits or gains for purposes of income tax, the amount repaid shall, to the extent that it was so deducted, be treated as income of the accounting period in which the repayment is received and shall, notwithstanding the provisions of section 1 (introduction for companies of corporation tax), be charged to corporation tax at a rate equal to the standard rate for the year of assessment in which the accounting period ends.

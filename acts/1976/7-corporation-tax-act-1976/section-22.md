@@ -1,0 +1,7 @@
+Double taxation relief.
+
+22.—(1) Subject to any express amendments made by this Act, Part XXII of the Income Tax Act, 1967 (Relief from Double Taxation), together with any other enactment relating or referring to double taxation relief, and (except in so far as arrangements made after the passing of this Act provide otherwise) any arrangements made under section 361 of the Income Tax Act, 1967 (agreements for relief from double taxation), in relation to corporation profits tax, shall have effect in relation to corporation tax and income chargeable thereto as they are expressed to have effect in relation to corporation profits tax and profits chargeable thereto, and not as they have effect in relation to income tax:
+
+Provided that this section shall not affect the operation, as they are applied to corporation tax by this Act, of section 361 (7) of the Income Tax Act, 1967, and paragraph 13 of Schedule 10 to that Act (claims for credit for foreign tax).
+
+(2) The necessary apportionments as respects corporation tax shall be made where arrangements having the force of law by virtue of section 361 of the Income Tax Act, 1967 (as applied to corporation tax by subsection (1)) apply to the unexpired portion of an accounting period current at a date specified by the arrangements, and any such apportionment shall be made in proportion to the number of months or fractions of months in the part of the relevant accounting period before the said date and in the remaining part thereof respectively.

@@ -1,0 +1,21 @@
+Certain manufacturing services.
+
+59.—(1) Where a company carries on a trade which consists of or includes the rendering to another person of services by way of subjecting commodities or materials belonging to that person to any process of manufacturing, and all or some of such services are rendered to a person who is not resident in the State in relation to commodities or materials which have been imported into the State and, after the services have been rendered, the commodities or materials, or the products or articles into which they have been converted, are exported out of the State while continuing to belong to that person, the following provisions shall, if the company so elects, apply for the purposes of relief under this Part—
+
+(a) the rendering in the State of such services shall be regarded as the manufacture of goods and any amount receivable in payment therefor shall be regarded as an amount receivable from the sale of goods, and
+
+(b) the company shall be regarded in relation to any such services as are rendered to a person who is not resident in the State as having exported goods out of the State and any payment receivable by it for the services shall be regarded as an amount receivable from the sale of goods so exported.
+
+(2) Any election under subsection (1) shall be made by notice in writing delivered to the inspector and shall have effect as respects every relevant accounting period for which relief under this Part is claimed by the company by which it is made and shall also have effect as if it were an election made under section 29 of the Finance Act, 1966 (profits from exports: relief from corporation profits tax), or section 406 of the Income Tax Act, 1967 (certain manufacturing services), or both of those sections:
+
+Provided that where, before an election was made by it under this section, a company has made a distribution for an accounting period and the tax credit to which the recipient of that distribution is entitled exceeds the tax credit to which that recipient would have been entitled if the election had been made before the date of the distribution, any relief from corporation tax which would otherwise have been allowable to the company shall be reduced by the amount of the excess.
+
+(3) Where for any year of assessment the income of any person consists of or includes a distribution in respect of which the proviso to subsection (2) has had effect, the person may claim to have the income tax chargeable on his income for that year reduced to the amount which would have been so chargeable if the election under subsection (1) had been made before the date of the distribution.
+
+(4) Where for any accounting period the franked investment income of a company consists of or includes a distribution in respect of which the proviso to subsection (2) has had effect, the company may claim to have paid to it an amount equal to the excess of the tax credit to which it was entitled in respect of the distribution on the date on which the distribution was made over the tax credit to which it would have been entitled in respect of the distribution if the election under subsection (1) had been made before the date of the distribution:
+
+Provided that for the purposes of section 15 (4) (management expenses: investment companies), section 25 (set-off of losses etc. against franked investment income) and section 26 (set-off of loss brought forward or terminal loss: financial concerns) any such distribution as aforesaid shall be treated as representing income equal to the aggregate of the amount of that distribution and the amount of the tax credit to which the company would have been entitled if the election under subsection (1) had been made before the date of the distribution.
+
+(5) An election made under section 29 of the Finance Act, 1966, or section 406 of the Income Tax Act, 1967, shall have effect as if it were an election made under subsection (1).
+
+(6) The inspector may by notice in writing require a company claiming relief from tax by virtue of subsection (1) to furnish him with such information or particulars as may be necessary for the purpose of giving effect to that subsection, and section 58 (1) (3) shall have effect as if the matters of which proof is required thereby included the information or particulars specified in a notice under this subsection.

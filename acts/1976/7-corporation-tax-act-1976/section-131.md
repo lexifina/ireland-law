@@ -1,0 +1,5 @@
+Transfers within a group: trading stock.
+
+131.—(1) Where a member of a group of companies acquires an asset as trading stock from another member of the group, and the asset did not form part of the trading stock of any trade carried on by the other member, the member acquiring it shall be treated for purposes of paragraph 15 of Schedule 1 to the Capital Gains Tax Act, 1975 (appropriations to and from stock in trade), as having acquired the asset otherwise than as trading stock and immediately appropriated it for the purposes of the trade as trading stock.
+
+(2) Where a member of a group of companies disposes of an asset to another member of the group and the asset formed part of the trading stock of a trade carried on by the member disposing of it but is acquired by the other member otherwise than as trading stock of a trade carried on by it, the member disposing of the asset shall be treated for purposes of the said paragraph 15 as having immediately before the disposal appropriated the asset for some purpose other than the purpose of use as trading stock.
