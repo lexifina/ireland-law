@@ -1,0 +1,3 @@
+Rule 4
+
+4. The lands comprised in said Folio ................., the subject of this application are part of the lands of................in the Barony of.........and County of............containing..........a.......r.......p......... The Poor Law Valuation of the said lands is £ .......... and the Land Purchase Annuity payable in respect thereof is £..................
