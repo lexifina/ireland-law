@@ -1,0 +1,5 @@
+Revocation of game dealer's licences.
+
+23.—(1) Upon the conviction for an offence under this Act of the holder of a game dealer's licence, the Justice of the District Court before whom, such holder is so convicted may revoke such licence and such revocation shall be in addition to any other punishment imposed by such Justice under this Act in respect of such offence.
+
+(2) Where the holder of a game dealer's licence who has been convicted of an offence under this Act is, within a period of three years from the date of such conviction, again convicted of an offence under this Act (whether of the same or of a different character) the Justice of the District Court before whom such holder is so again convicted may, if he revokes such licence under this section, also declare such holder to be incapable of holding a game dealer's licence during such period not exceeding five years as the Justice shall specify, and when such declaration is so made such holder shall be incapable of holding a game dealer's licence during the period so specified.

@@ -1,0 +1,13 @@
+Protection orders in respect of game birds.
+
+6.—(1) Whenever the Minister is satisfied that any particular species of game bird is in special need of protection in the whole or any particular portion of Saorstát Eireann he may by order (in this Act referred to as a game birds protection order) prohibit for any specified period not exceeding one year from the date of the order the killing or taking of that particular species of game bird in Saorstát Eireann or in any particular portion of Saorstát Eireann specified in the order.
+
+(2) When a game bird protection order has been made under this section, the Minister may from time to time by order (in this section referred to as a continuation order) made before the expiration of such game birds protection order or the last continuation thereof (as the case may be) continue in force such game birds protection order for any period not exceeding one year from the date on which the same would otherwise have expired and may so continue in force such, game birds protection order either in respect of the whole area to which such order applied or in respect of any particular portion of such area.
+
+(3) The Minister may at any time by order vary in any respect or revoke any game birds protection order or any continuation order made by him under this section.
+
+(4) When a game birds protection order has been made under this section, it shall not be lawful for any person while such order continues in force to kill or take any game bird of the species to which such order relates in any part of Saorstát Eireann to which such order applies without or otherwise than in accordance with the permission of the superintendent of the Gárda Síochána for the district in which such game bird is killed or taken: Provided always that if the Superintendent of the Gárda Síochána unreasonably objects or refuses to grant such permission the person so applying may appeal to the Minister against such neglect or refusal of the superintendent of the Gárda Síochána to grant such permission and the Minister may grant permission to kill or take such game bird.
+
+(5) Every person who kills or takes any game in contravention of this section shall be guilty of an offence under this Part of this Act and shall be punishable accordingly.
+
+(6) Every order made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and if either such House within the next twenty-one days on which it has sat after such order is laid before it passes a resolution annulling such order such order shall be annulled accordingly without prejudice to the validity of anything previously done thereunder.
