@@ -1,0 +1,3 @@
+Rule 6
+
+6. Dangerous goods and any vehicle, container, package or receptacle containing dangerous goods, taken on board any ship to which this Rule applies for carriage in that ship shall be stowed in the ship, and shall be kept so stowed, in a manner which is a safe and proper manner of stowage for the goods, or, as the case may be, for the vehicle, container, package or receptacle, having regard to the identity and dangerous nature indicated by the markings referred to in Rule 3. Dangerous goods of a different kind which the owner of the ship or any of his servants or agents knows or ought to know are liable to interact dangerously shall be effectively separated and kept effectively separated from one another.

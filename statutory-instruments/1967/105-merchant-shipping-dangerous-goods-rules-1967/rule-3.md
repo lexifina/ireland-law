@@ -1,0 +1,5 @@
+Rule 3
+
+3. (1) Dangerous goods, being goods contained in a vehicle, container, package or receptacle shall not be taken on board a ship to which this Rule applies for carriage in that ship unless the vehicle, container, package or receptacle in which the goods are contained is clearly marked with a distinctive label or stencil purporting to indicate the nature of the danger to which the goods give rise, and if the goods are taken on board the ship at any port in the State or within the territorial waters of the State a label or stencil purporting to indicate with the correct technical name the identity of the goods.
+
+(2) Where goods are taken on board a ship in a vehicle or where goods are taken on board a ship in a container which is an additional body for a vehicle and is constructed or adapted for the purpose of being taken on or off the vehicle with goods contained therein, nothing in the foregoing provisions of this Rule shall be taken to require any package or receptacle in the vehicle or, as the case may be, any package or receptacle in the container to be also marked.
