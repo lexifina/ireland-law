@@ -1,0 +1,3 @@
+Article 1
+
+1. This Order may be cited as the Creamery Butter (Minimum Prices) (No. 3) Order, 1938.
