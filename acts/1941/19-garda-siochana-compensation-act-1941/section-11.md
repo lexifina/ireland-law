@@ -1,0 +1,7 @@
+Amendment of section 106 of the Grand Jury (Ireland) Act, 1836.
+
+11.—(1) The expression “peace officer” wherever it occurs in section 106 of the Grand Jury (Ireland) Act, 1836, shall be construed as not meaning or including a member of the Gárda Síochána, and the operation of the said section shall be restricted accordingly.
+
+(2) Every application under section 106 of the Grand Jury (Ireland) Act, 1836, in respect of the murder or maiming of a member of the Gárda Síochána which is pending in the Circuit Court at the passing of this Act, and also every appeal from an order made by the Circuit Court on any such application under the said section 106 which is pending in the High Court at the said passing, shall, on the passing of this Act, abate and be incapable of being further proceeded with.
+
+(3) Every order made by the Circuit Court before the passing of this Act on an application under section 106 of the Grand Jury (Ireland) Act, 1836, whereby any money was ordered to be paid by the corporation of a county borough or the council of a county or of an urban district to any person in respect of the murder or maiming of a member of the Gárda Síochána on or after the 1st day of January, 1940, shall, on the passing of this Act, become and be wholly void and shall be incapable of being executed or otherwise enforced either in respect of the payment of the said money or in respect of the payment of any costs or expenses thereby ordered to be paid by such corporation or council to such person.
