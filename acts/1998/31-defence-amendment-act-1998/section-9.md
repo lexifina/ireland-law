@@ -1,0 +1,5 @@
+Transitional provisions.
+
+9.—(1) The person who, immediately before the commencement of this Act, holds the office of Adjutant-General shall be deemed, upon such commencement, to stand appointed to be Deputy Chief of Staff (Operations) and subject to this Act, his or her appointment shall be for the residue of the term for which he or she had been appointed to the first-mentioned office and upon and subject to the other terms and conditions of the first-mentioned office, but shall be eligible for re-appointment as Deputy Chief of Staff (Operations) on the expiration of that term.
+
+(2) The person who, immediately before the commencement of this Act, holds the office of Quartermaster-General shall be deemed, upon such commencement, to stand appointed to be Deputy Chief of Staff (Support) and subject to this Act, his or her appointment shall be for the residue of the term for which he or she had been appointed to the first-mentioned office and upon and subject to the other terms and conditions of the first-mentioned office, but shall be eligible for re-appointment as Deputy Chief of Staff (Support) on the expiration of that term.
