@@ -1,0 +1,5 @@
+Grant of licences and orders to persons in a fiduciary capacity.
+
+52.—(1) An unworked minerals licence or an ancillary rights licence may be expressed to be issued to the licensee thereunder as tenant for life or person having, the powers of a tenant for life under a settlement or as personal representative of a deceased person or as trustee or other person in a fiduciary capacity, and where any such licence is so expressed the benefit of such licence shall be deemed to be held by the licensee thereunder in such fiduciary capacity and as part of the property vested in him in that capacity.
+
+(2) A preservation of support order may provide that the rights thereby conferred on any particular person are conferred on him as tenant for life or person having the powers of a tenant for life under a settlement or as personal representative of a deceased person or as trustee or other person in a fiduciary capacity and, where any such order so provides, the rights thereby conferred on such person shall be deemed to be vested in him in such fiduciary capacity as part of the property vested in him in that capacity.

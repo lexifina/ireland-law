@@ -1,0 +1,5 @@
+Furnishing of information to Minister by licensees.
+
+56.—(1) The Minister may, whenever he so thinks proper, require in writing any licensee under an unworked minerals licence to furnish to him such information in respect of the minerals to which such licence relates or in respect of the working of such minerals as the Minister shall require and shall specify in such requisition.
+
+(2) Every person who is required by the Minister under the foregoing sub-section of this section to furnish to the Minister any information shall so furnish such information in the prescribed form and manner not later than twenty-eight days after the receipt by him of such requisition, and if any such person fails or refuses so to furnish such information or furnishes any such information which is to his knowledge false or misleading in a material respect, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds together with, in the case of a continuing offence, a further fine not exceeding one pound for every day on which the offence is continued.

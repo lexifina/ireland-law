@@ -1,0 +1,11 @@
+Laying of half-yearly reports before the Oireachtas.
+
+77.—As soon as may be after every 30th day of June and every 31st day of December, the Minister shall cause to be laid before each House of the Oireachtas a half-yearly report showing, in respect of the period of six months ending on such 30th day of June or such 31st day of December, all of the following matters, that is to say:—
+
+(a) particulars of all State mining leases, State mining permissions, prospecting licences, State acquired minerals licences, and unworked minerals licences made or granted by him under this Act and for the time being current;
+
+(b) the total amount of all moneys collected by the Minister, either by way of fine or lump sum payment or by way of rent, under or by virtue of any such lease, permission, or licence;
+
+(c) particulars of all minerals acquisition orders made under this Act and for the time being in force and particulars of all State acquired minerals acquired thereby;
+
+(d) any other matter relating to minerals or to the development and working of minerals which the Minister thinks proper to include in such report.
