@@ -1,0 +1,5 @@
+Restriction on number of certain fishing licences.
+
+23.—(1) The number of licences for fishing with drift nets in the tidal waters of the River Shannon within the meaning of the Fisheries Acts, 1842 to 1925 which shall be issued under those Acts in the first year in which the open season for such fishing commences after the passing of this Act or in any subsequent year shall not exceed seventy, and the number of licences for fishing with draft nets or seines in the said waters which shall be issued under the said Acts in any such year shall not exceed twenty-five.
+
+(2) The Minister for Agriculture may make regulations in relation to the issue of such licences as are mentioned in the foregoing sub-section of this section for the purpose of securing to persons who held such licences in the year 1934 a preferential right to purchase such licences before the commencement of the open season for fishing under such licences in any year in which the number of such licences is limited by this Act.

@@ -1,0 +1,3 @@
+Membership of the Board of Conservators for the Limerick Fishery District.
+
+21.—The number of members of the Board of Conservators for the Limerick Fishery District to be elected in each of the two tidal electoral divisions of that district at the triennial election of such members held next after the passing of this Act and at every subsequent such election shall be three members and no more, and the number of members of the said Board of Conservators shall be modified accordingly as from the commencement of the term of office of the members of the said Board of Conservators elected at the said triennial election held next after the passing of this Act.

@@ -1,0 +1,5 @@
+Transfer of fisheries by the Commissioners of Public Works.
+
+7.—(1) The Commissioners of Public Works in Ireland may by order under their seal transfer to the Board, on such terms and conditions as shall be agreed upon between the said Commissioners and the Board with the sanction of the Minister for Finance, all the estate and interest of the said Commissioners in any fishery or fishing right in the waters of the River Shannon or any part thereof which is in the possession or occupation of the said Commissioners at the passing of this Act and also any land, easement, way-leave, water-right, or other right which is so in the possession or occupation of the said Commissioners and is ancillary to any such fishery or fishing right so transferred.
+
+(2) An order made under this section shall operate to vest in the Board, without any further or other conveyance, every fishery and fishing right and all lands, easements, way-leaves, water-rights, and other rights purported to be transferred to the Board by such order.
