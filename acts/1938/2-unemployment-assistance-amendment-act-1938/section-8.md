@@ -1,0 +1,3 @@
+Conspiracy to commit offence under the Principal Act.
+
+8.—Where a person (in this section referred to as the employer) aids, abets, counsels, or procures a person (in this section referred to as the employee) employed by him to commit an offence under section 29 of the Principal Act (as amended by section 14 of the Amending Act) or conspires with the employee for the commission by the employee of an offence under the said section 29 as so amended, the employer shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds or, at the discretion of the Court, to imprisonment for any term not exceeding three months.
