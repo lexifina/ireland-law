@@ -1,0 +1,35 @@
+Capital allowances for industrial and commercial premises in rural renewal areas.
+
+31.— (1)
+
+Chapter 8 of Part 10 of the Principal Act is amended—
+
+(a) in section 372L—
+
+(i) in subsection (1) in the definition of “qualifying period”—
+
+(I) in subparagraph (ii) of paragraph (a), by substituting “31 December 2006, or” for “31 July 2006,” and
+
+(II) by inserting the following after subparagraph (ii) of paragraph (a):
+
+“(iii) where subsections (2) and (3) apply, 31 July 2008;”,
+
+and
+
+(ii) by inserting the following after subsection (2):
+
+“(3) Subject to paragraphs (a) and (b) of section 270(7), this subsection shall apply in relation to the construction or refurbishment of a building or structure the site of which is wholly within a qualifying rural area where—
+
+(a) the person who is constructing or refurbishing the building or structure has, on or before 31 December 2006, carried out work to the value of not less than 15 per cent of the actual construction or, as the case may be, refurbishment costs of the building or structure,
+
+(b) the person referred to in paragraph (a) or, where the building or structure is sold by that person, the person who is claiming a deduction under Chapter 1 of Part 9 in relation to the expenditure incurred, can show that the condition in paragraph (a) was satisfied,
+
+(c) a binding contract in writing, under which expenditure on the construction or refurbishment of the building or structure is incurred, was in existence on or before 31 July 2006, and
+
+(d) such other conditions, as may be specified in regulations made for the purposes of this paragraph by the Minister for Finance, have been satisfied; but such conditions shall be limited to those necessary to ensure compliance with the laws of the European Communities governing State aid or with a decision of the Commission of the European Communities as to whether aid to which this subsection relates is compatible with the common market having regard to Article 87 of the European Communities Treaty.”,
+
+(b) in section 372M, in subsections (2) and (3), by substituting “Subject to subsection (4) and (as inserted by the Finance Act 2006) sections 270(4), 270(5), 270(6), 270(7) and 316(2B)” for “Subject to subsection (4)”, and
+
+(c) in section 372N(2)(a), by substituting “Subject to paragraph (b), subsections (3) to (5) and (as inserted by the Finance Act 2006) sections 270(4), 270(5), 270(6), 270(7) and 316(2B)” for “Subject to paragraph (b) and subsections (3) to (5)”.
+
+(2) This section shall come into operation on such day or days as the Minister for Finance may by order or orders appoint and different days may be appointed for different purposes or different provisions.
