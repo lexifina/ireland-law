@@ -1,0 +1,7 @@
+Amendment of section 43 of Principal Act.
+
+5.— Section 43 of the Principal Act is amended, in subsection (1), by inserting “(other than inviolability, exemptions, facilities, immunities, privileges or rights not conferred upon, or afforded in relation to, sending states or missions under the Vienna Convention)” after “inviolability and exemptions, facilities, immunities, privileges and rights”, and the said subsection (1) as so amended is set out in the Table to this section.
+
+TABLE
+
+(1) The Government may, as respects an international judicial body or a semi-judicial body established under an agreement to which the State or the Government is or intends to become a party or an arbitration or conciliation board established by or on behalf of or for the purposes of an international organisation to which this Part applies, by order make provision as respects inviolability and exemptions, facilities, immunities, privileges and rights (other than inviolability, exemptions, facilities, immunities, privileges or rights not conferred upon, or afforded in relation to, sending states or missions under the Vienna Convention) in relation to judges and registrars of the body, persons engaged in appearing as advocates or witnesses before the body or board or in performing duties assigned to them by the body or board and persons who are parties to a suit before the body or board or apply to the body or board in relation to the commencement of a suit or other proceedings before the body or board and their advisers.
