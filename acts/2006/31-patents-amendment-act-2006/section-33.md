@@ -1,0 +1,3 @@
+Conversion of European patent application (section 122 of Principal Act).
+
+33.— Section 122 of the Principal Act is amended in subsection (1) by substituting “Where an application designating the State is deemed withdrawn under the provisions of the European Patent Convention because it has not been forwarded to the European Patent Office in due time,” for “Where under the European Patent Convention an application for a European Patent designating the State is deemed to have been withdrawn because it has, not within the period required by the said Convention, been received by the European Patent Office,”.
