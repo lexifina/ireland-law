@@ -1,0 +1,31 @@
+Permits to fish in Commission’s waters.
+
+10.— The Act of 1952 is amended by the insertion after section 14A (inserted by section 9 of this Act) of the following section:
+
+“Permits to fish in Commission’s waters.
+
+14B.— (1)
+
+Where the Commission owns or manages the fishing rights in any waters—
+
+(a) the Commission may issue permits, or make arrangements for their issue through agents, authorising the holder of such a permit to use a rod and line in the waters to which the permit relates, and
+
+(b) may, subject to subsection (2), charge for the issue of such permits such sums as may be prescribed.
+
+(2) The Commission may under subsection (1)(a) issue complimentary permits to such persons as may be prescribed in such circumstances as may be prescribed and nothing in this Act shall require such persons to make any payment in respect of such a permit.
+
+(3) A permit issued under subsection (1)(a) shall be granted for such period, and subject to such conditions, as may be specified in the permit.
+
+(4) Where a permit is issued under subsection (1)(a) in relation to any waters, any person who—
+
+(a) without obtaining such a permit, uses a rod and line in those waters,
+
+(b) contravenes any condition to which a permit is subject,
+
+(c) uses or, with intent to deceive, presents a permit for any time, date, period, place or purpose other than that for which that permit is valid,
+
+(d) uses or presents, as being a permit of which he is the holder, a permit issued in the name of any other person, or
+
+(e) uses or presents a permit that has been to his knowledge either in any manner altered (otherwise than by a person duly authorised by the Commission) or fraudulently counterfeited,
+
+shall be guilty of an offence against this Act.”.
