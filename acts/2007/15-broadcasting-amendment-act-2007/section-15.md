@@ -1,0 +1,5 @@
+Amendment to section 32 of Act of 2001.
+
+15.— Section 32 of the Act of 2001 is hereby amended by substituting the following for subsection (1):
+
+“(1) The function conferred on the Minister by section 25(1) of the Act of 1960 with respect to directing (whether on the Minister’s own motion or at the request of the Minister for Finance) the Authority to keep special accounts includes a power (exercisable on the Minister’s own motion or at the request of the Minister for Finance) to direct the Authority to keep a special account showing the manner, with regard to, respectively, the television broadcasting service and sound broadcasting service referred to in subsection (1) of section 28 and the television broadcasting service and sound broadcasting service referred to in subsection (1A) of section 16 of the Act of 1960, in which the moneys paid to it under section 8 of the Act of 1976 in the year concerned have been appropriated for the purpose of the activities of the Authority, during that year, referred to in paragraphs (a), (b) and (c) of subsection (2) and paragraphs (d) and (e) of subsection (8) of section 28.”.
