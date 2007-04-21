@@ -1,0 +1,5 @@
+Amendment of section 233 of Principal Act (regulation of military prisons and detention barracks).
+
+69.— Section 233 of the Principal Act is amended by substituting the following for subsection (2A) (inserted by the Criminal Justice Act 1990):
+
+“(2A) Any power conferred by rules under this section to release a person temporarily shall not, in the case of a person serving a sentence passed on him on conviction of treason or of murder, or attempted murder, to which section 3 of the Criminal Justice Act 1990 applies, be exercisable before the expiration of the minimum period specified by the court-martial under section 4 of that Act, as applied by section 169A of this Act, less any reduction of that period by the amount of remission earned by the person according to the rules of practice whereby prisoners generally earn remission of sentence by industry and good conduct, unless for grave reasons of a humanitarian nature, and any such release shall only be of such limited duration as is justified by those reasons.”.
