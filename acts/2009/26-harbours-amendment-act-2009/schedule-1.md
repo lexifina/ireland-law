@@ -1,0 +1,7 @@
+SCHEDULE 1
+
+Amendment of Fourth Schedule (Provisions Relating to Compulsory Acquisition) to Principal Act
+
+Section 7.
+
+Provision of Fourth Schedule to Principal Act Words to be replaced Words to be inserted Paragraph 1(1) the Minister An Bord Pleanála (hereafter in this Schedule referred to as the “Board”) Paragraph 1(2) the Minister the Board Paragraph 1(3) the Minister the Board Paragraph 1(4) (4) The Minister shall consider and determine any objection to the application of the company lodged with him or her within the period referred to in subparagraph (3) and the Minister may, if he or she thinks fit, appoint an adviser to assist him or her in relation thereto. (4) The Board shall consider and determine any objection to the application of the company lodged with it within the period referred to in subparagraph (3) and the Board may, if it thinks fit, appoint an adviser to assist it in relation thereto. Paragraph 2 The Minister The Board Paragraph 2 lodged with him or her lodged with it Paragraph 2 rejected by him or her rejected by it Paragraph 2 he or she may determine it may determine Paragraph 5(4) the Minister the Board Paragraph 7(1) the Minister is satisfied the Board is satisfied Paragraph 7(1) then the Minister then the Board Paragraph 7(2) Where the Minister Where the Board Paragraph 7(2) on the death of any person, the Minister on the death of any person, the Board Paragraph 7(3) the Minister the Board Paragraph 8(3) the Minister the Board Paragraph 8(3) he or she shall it shall
