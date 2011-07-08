@@ -1,0 +1,7 @@
+Amendment of section 74 of Act of 2007.
+
+17.— Section 74 of the Act of 2007 is amended—
+
+(a) by the substitution of “under section 71 or 71A” for “under section 71”, and
+
+(b) by the substitution of “in section 71(a) or 71A(a)” for “in section 71(a)”.
