@@ -1,0 +1,3 @@
+Retention of list of patients upon dissolution of medical partnership.
+
+4.— Notwithstanding any relevant agreement, a relevant medical practitioner who has entered into an agreement with the Executive (whether before, on or after the commencement of this section) to provide relevant services shall be entitled, on the dissolution (by whatever means) of any partnership of relevant medical practitioners in which he or she is a partner, to retain, on his or her list of patients, any eligible person who was on the list immediately before the dissolution, unless the Executive is advised that the eligible person does not wish to be retained on that list.
