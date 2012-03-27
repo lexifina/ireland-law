@@ -1,0 +1,3 @@
+Preservation of certain contracts and adaption of references to Irish Blood Transfusion Service.
+
+2.— Every contract, relating to the products referred to in section 1, made between the Irish Blood Transfusion Service or any trustee or agent thereof acting on its behalf, and any other person, which is in force immediately before the commencement of this section, shall continue in force and shall be construed and have effect as if the St. James’s Hospital Board were substituted therein for the Irish Blood Transfusion Service or, as the case may be, its trustee or agent acting on its behalf, and shall be enforceable by or against the St. James’s Hospital Board.
