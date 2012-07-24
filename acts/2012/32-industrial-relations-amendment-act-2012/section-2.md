@@ -1,0 +1,7 @@
+Definitions.
+
+2.— In this Act—
+
+“Act of 1946” means the Industrial Relations Act 1946;
+
+“Act of 1990” means the Industrial Relations Act 1990.
