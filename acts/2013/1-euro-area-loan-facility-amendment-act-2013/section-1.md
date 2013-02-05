@@ -1,0 +1,7 @@
+Definitions.
+
+1.— In this Act—
+
+“Act of 2011” means the European Financial Stability Facility and Euro Area Loan Facility (Amendment) Act 2011;
+
+“Act of 2012” means the Euro Area Loan Facility (Amendment) Act 2012.
