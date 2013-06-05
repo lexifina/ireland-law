@@ -1,0 +1,5 @@
+Saving
+
+21.—(1) Nothing in this Act shall affect the validity of any order, regulation, rule, exemption, approval or notice made, given or served, or any committee established, declared or appointed, by An Chomhairle under the Act of 1967 before the establishment day and every such order, regulation, rule, exemption, approval, notice and committee shall, if and in so far as it was operative or in existence, as the case may be, immediately before the establishment day, continue in force or continue in existence, as the case may be, and have effect on and after that day as if it had been validly made, given or served or established, declared or appointed under the Act of 1967 by An Foras.
+
+(2) Nothing in this Act shall affect the validity of any act which was done before the establishment day by or on behalf of the Minister in connection with or for the purposes of the Manpower Service or by or on behalf of An Chomhairle or the Agency and every such act shall, if and in so far as it was operative immediately before that day, have effect on and after that day as if it had been done by or on behalf of An Foras.
