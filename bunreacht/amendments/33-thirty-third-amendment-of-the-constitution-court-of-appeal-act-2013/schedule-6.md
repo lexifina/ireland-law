@@ -1,0 +1,11 @@
+SCHEDULE 6
+
+Part 1
+
+Particulars of Amendments of Irish text Mentioned in Section 6(1)
+
+Ref. No. Article amended Nature of amendment of the Irish text 1 Article 12 In section 8, the insertion of “, den Chúirt Achomhairc” after “den Chúirt Uachtarach”. 2 Article 14 In section 2.2°, the substitution of “Uachtarán na Cúirte Achomhairc” for “Uachtarán na hArd-Chúirte”. 3 Article 31 In section 2, the insertion, in paragraph i, of “Uachtarán na Cúirte Achomhairc,” after “an Príomh-Bhreitheamh,”. 4 Article 34 In section 3.2°, the insertion of “, an Chúirt Achomhairc” after “seachas an Ard-Chúirt”. 5 Article 34 In section 6.2°, the insertion of “, gach breitheamh den Chúirt Achomhairc,” after “gach breitheamh eile den Chúirt Uachtarach”. 6 Article 35 In section 1, the insertion of “na Cúirte Achomhairc,” after “breithiúna na Cúirte Uachtaraí,”. 7 Article 35 In section 4.1°, the insertion of “, den Chúirt Achomhairc” after “den Chúirt Uachtarach”. 8 Article 36 In paragraph i, the insertion of “na Cúirte Achomhairc,” after “breithiúna na Cúirte Uachtaraí,”. 9 Article 40 In section 4.3°, the substitution of “faoi bhreith na Cúirte Achomhairc” for “faoi bhreith na Cúirte Uachtaraí” and “an Chúirt Achomhairc” for “an Chúirt Uachtarach”. Part 2
+
+Particulars of Amendments of English text Mentioned in Section 6(2)
+
+Ref. No. Article amended Nature of amendment of the English text 1 Article 12 In section 8, the insertion of “, of the Court of Appeal” after “Supreme Court”. 2 Article 14 In section 2.2°, the substitution of “President of the Court of Appeal” for “President of the High Court”. 3 Article 31 In section 2, the insertion, in paragraph i, of “the President of the Court of Appeal,” after “the Chief Justice,”. 4 Article 34 In section 3.2°, the insertion of “, the Court of Appeal” after “other than the High Court”. 5 Article 34 In section 6.2°, the insertion of “the judges of the Court of Appeal,” after “judges of the Supreme Court,”. 6 Article 35 In section 1, the insertion of “the Court of Appeal,” after “Supreme Court,”. 7 Article 35 In section 4.1°, the insertion of “, the Court of Appeal,” after “Supreme Court”. 8 Article 36 In paragraph i, the insertion of “of the Court of Appeal,” after “Supreme Court,”. 9 Article 40 In section 4.3°, the substitution of “Court of Appeal” for “Supreme Court” in each place where it occurs.
