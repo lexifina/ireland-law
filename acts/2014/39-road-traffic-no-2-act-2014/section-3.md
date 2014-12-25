@@ -1,0 +1,9 @@
+Endorsement of certain penalty points.
+
+3. (1) Notwithstanding Article 3 of the Road Traffic Act 2014 (Certain Provisions) (Commencement) Order 2014 (S.I. No. 147 of 2014), section 8(b)(i) of the Act of 2014 is deemed never to have come into operation.
+
+(2) Section 8(b) of the Act of 2014 is amended by deleting subparagraph (i).
+
+(3) Where, at any time during the period from 1 August 2014 until the passing of this Act, a payment was made by a person under section 103 (inserted by section 11 of the Act of 2002) of the Road Traffic Act 1961 in respect of an alleged penalty point offence (other than such an offence specified at reference number 2A, 3, 8, 9, 10, 12, 14 or 19 in column (2) of Part 1 of the First Schedule to the Act of 2002) and if, upon the making of that payment to a member of the Garda Síochána or a person appointed under the said section 103, the Commissioner of the Garda Síochána or a person appointed under the said section 103 caused the Minister to be notified of the payment but no penalty points were caused to be endorsed on the entry relating to the person in respect of that alleged offence, the Minister shall, as soon as may be after the passing of this Act (subject to and in accordance with the provisions of the Act of 2002, other than section 2(5) ) cause to be endorsed on the entry relating to the person, the number of penalty points specified in column (4) of that Schedule opposite the mention of the offence in the said column (2), standing so specified on the day of the commission of the alleged offence, in respect of that offence, and such endorsement is deemed to be an endorsement pursuant to section 2(5) of the Act of 2002.
+
+(4) If this section would, but for this subsection, conflict with a constitutional right of any person, the operation of this section shall be subject to such limitation as is necessary to secure that it does not so conflict but shall otherwise be of full force and effect.
