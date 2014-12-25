@@ -1,0 +1,5 @@
+Safety Convention.
+
+69. Section 3(1) of the Merchant Shipping (Safety Convention) Act 1952 is amended by substituting for the definition of “Safety Convention” (inserted by section 6(1)(c) of the Merchant Shipping Act 2010) the following:
+
+“‘Safety Convention’ means the International Convention for the Safety of Life at Sea signed in London on behalf of the Government on 1 November 1974 together with the Protocol to the International Convention for the Safety of Life at Sea signed in London on behalf of the Government on 17 February 1978 and the Protocol to the International Convention for the Safety of Life at Sea signed in London on behalf of the Government on 11 November 1988 and any amendments made to it up to and including those adopted by the 90th session of the Maritime Safety Committee of the International Maritime Organisation held between 16 and 25 May 2012 and which have entered into force in respect of the State pursuant to Article VIII prior to the passing of the Merchant Shipping (Registration of Ships) Act 2014;”.

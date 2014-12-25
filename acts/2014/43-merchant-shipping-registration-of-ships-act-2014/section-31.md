@@ -1,0 +1,7 @@
+Transfer of port of registry.
+
+31. (1) The port of registry of a ship may be transferred from one port to another port in the State on application to the Minister accompanied by a declaration in writing by all persons appearing on the Register to be interested therein as owners or mortgagees, but that transfer shall not in any way affect the rights of those persons or any of them, and those rights shall in all respects continue in the same manner as if no such transfer had been effected.
+
+(2) An application to transfer registry under this section shall contain such information in relation to the particulars of the ship, the owners and mortgagees of the ship as appearing on the Register to be interested in the ship, and supporting documentation as may be prescribed by the Minister from time to time.
+
+(3) The certificate of registry of a ship to which this section refers shall be delivered up to the Minister and all particulars of the ship relating to the port of registry shall be amended and recorded on the Register as necessary, a replacement certificate of registry in relation to the ship shall be granted which shall have the same expiry date as the original certificate of registry, and such ship shall be considered as registered at the new port of registry. The name of the ship’s new port of registry shall be substituted for the name of the former port of registry on the ship in accordance with section 26.
