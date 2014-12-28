@@ -1,0 +1,3 @@
+Presumption relating to conduct referred to in section 2(1) (including as applied by section 3).
+
+7.— In proceedings for an offence under this Act, where a person has developed, produced or used, or attempted to develop, produce or use, a microbial or other biological agent, or toxin (whatever its origin or method of production), of such a type and in such a quantity that it is reasonable to conclude that the person did so knowingly for a hostile purpose, the person is presumed to have done so knowingly for such a purpose unless the court or jury, as the case may be, is satisfied, having regard to the whole of the evidence, that there is a reasonable doubt that the person did so knowingly for such a purpose.
