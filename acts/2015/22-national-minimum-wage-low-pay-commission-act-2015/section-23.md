@@ -1,0 +1,9 @@
+Liability for loss occurring before commencement of sections 83 and 84 of Act of 2015.
+
+23. (1) A claim in respect of any loss or injury alleged to have been suffered by any person arising out of the performance before the commencement of sections 83 and 84 of the Act of 2015 of any of the functions of the Director of the Equality Tribunal shall after such commencement, lie against the Workplace Relations Commission and not against the Director of the Equality Tribunal.
+
+(2) Any legal proceedings pending immediately before the commencement of sections 83 and 84 of the Act of 2015 to which the Director of the Equality Tribunal is a party, shall be continued, with the substitution in the proceedings of the Workplace Relations Commission for the Director of the Equality Tribunal.
+
+(3) Where, before the commencement of sections 83 and 84 of the Act of 2015, agreement has been reached between the parties concerned in settlement of a claim to which subsection (1) relates, the terms of which have not been implemented, or judgment in such a claim has been given in favour of a person but has not been enforced, the terms of the agreement or judgment, as the case may be, shall, in so far as they are enforceable against the Director of the Equality Tribunal, be enforceable against the Workplace Relations Commission and not against the Director of the Equality Tribunal.
+
+(4) Any claim made or proper to be made by the Director of the Equality Tribunal in respect of any loss or injury arising from the act or default of any person before the commencement of sections 83 and 84 of the Act of 2015 shall be regarded as having been made by or proper to be made by the Workplace Relations Commission and may be pursued and sued for by the Workplace Relations Commission as if the loss or injury had been suffered by the Workplace Relations Commission.
