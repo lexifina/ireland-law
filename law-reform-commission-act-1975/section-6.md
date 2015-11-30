@@ -1,0 +1,3 @@
+Reports.
+
+6.—As soon as may be after the end of each year, the Commission shall make a report to the Attorney General of its activities during that year under section 4 of this Act, of any preliminary working papers published by it during that year, of any examination during that year of the legal system of a country other than the State and of the activities during that year of any working party or advisory committee established by it. The Attorney General shall, as soon as may be, send a copy of the report to the Taoiseach, who shall submit it to the Government and copies of the report shall, as soon as may be, be laid before both Houses of the Oireachtas.
