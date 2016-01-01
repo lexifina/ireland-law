@@ -1,0 +1,9 @@
+Legitimation by subsequent marriage of parents.
+
+1.—(1) Subject to the provisions of this section where the parents of an illegitimate person marry or have married one another, whether before or after the commencement of this Act, the marriage shall, if the father of the illegitimate person was or is at the date of the marriage domiciled in Saorstát Eireann, render that person, if living, legitimate from the commencement of this Act, or from the date of the marriage, whichever is the later.
+
+(2) ...
+
+(3) ...
+
+(4) ...
