@@ -1,0 +1,3 @@
+Application to illegitimate persons dying before marriage of parents.
+
+5.—Where an illegitimate person dies after the commencement of this Act and before the marriage of his parents leaving any spouse, children or remoter issue living at the date of such marriage, then, if that person would, if living at the time of the marriage of his parents, have become a legitimated person, the provisions of this Act with respect to the taking of interests in property by, or in succession to, the spouse, children and remoter issue of a legitimated person (including those relating to the rate of death duties) shall apply as if such person as aforesaid had been a legitimated person, and the date of the marriage of his parents had been the date of legitimation.

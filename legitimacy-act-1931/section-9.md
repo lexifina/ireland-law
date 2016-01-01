@@ -1,0 +1,3 @@
+Right of illegitimate child and mother of illegitimate child to succeed on intestacy of the other.
+
+9.—...
