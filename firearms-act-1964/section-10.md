@@ -1,0 +1,3 @@
+Period of validity of firearm certificate granted by Minister.
+
+10.—...
