@@ -1,0 +1,3 @@
+Limited use of shot-gun.
+
+12.—...

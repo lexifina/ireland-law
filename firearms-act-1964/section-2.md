@@ -1,0 +1,3 @@
+Extension of Principal Act to airguns.
+
+2.—...
