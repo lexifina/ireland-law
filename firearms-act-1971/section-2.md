@@ -1,0 +1,3 @@
+Amendment of section 1 of Principal Act.
+
+2.—...
