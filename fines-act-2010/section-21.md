@@ -1,0 +1,3 @@
+Publication of list of names of persons who fail to pay fines on time.
+
+21.—...

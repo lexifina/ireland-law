@@ -1,0 +1,3 @@
+Payment of fines by instalments.
+
+15.—...
