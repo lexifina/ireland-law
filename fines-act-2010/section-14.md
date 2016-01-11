@@ -1,0 +1,3 @@
+Capacity of person to pay fine.
+
+14.—...
