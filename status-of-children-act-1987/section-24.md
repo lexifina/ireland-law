@@ -1,0 +1,5 @@
+Amendment of Defence Act, 1954.
+
+24.—(1) The reference in section 98(1)(d) of the Defence Act, 1954, to an order made by a civil court under section 3, 6 or 7 of the Illegitimate Children (Affiliation Orders) Act, 1930, shall be construed as a reference to an order under section 5A, 6, 7 or 21A of the Act of 1976 (as amended by this Part) or an order under section 8A (inserted by this Part) of the Act of 1976 (in so far as it is deemed under that section to be a maintenance order).
+
+(2) Section 99 (as extended to women by virtue of sections 2 and 5 of the Defence (Amendment) (No. 2) Act, 1979) of the Defence Act, 1954 (which relates to deductions from the pay of certain members of the Permanent Defence Force in respect of maintenance of a spouse or legitimate children) is hereby amended by the substitution insubsection (1) of “his spouse or any of his children (including any of his children in respect of whom his spouse is not a parent and any children he has adopted under the Adoption Acts, 1952 to 1976)” for “his wife or any of his legitimate children” and of “the spouse or any such children” for “the wife or such legitimate children”.
