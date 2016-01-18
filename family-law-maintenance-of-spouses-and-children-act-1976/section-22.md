@@ -1,0 +1,3 @@
+Barring of spouse from family home.
+
+22.—...

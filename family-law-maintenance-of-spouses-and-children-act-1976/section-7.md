@@ -1,0 +1,3 @@
+Interim order.
+
+7.—On an application to the Court for a maintenance order, the Court, before deciding whether to make or refuse to make the order, may, if it appears to the Court proper to do so having regard to the needs of the persons for whose support the maintenance order is sought and the other circumstances of the case, make an order (in this Act referred to as an interim order) for the payment to the applicant by the maintenance debtor, for a definite period specified in the order or until the application is adjudicated upon by the Court, of such periodical sum as, in the opinion of the Court, is proper.
