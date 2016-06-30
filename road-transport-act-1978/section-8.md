@@ -1,0 +1,3 @@
+Transitional provision relating to merchandise (existing carrier's) licences.
+
+8.—...
