@@ -1,0 +1,3 @@
+Amendment of meaning of expression “passenger road service” in Act of 1932.
+
+66.—...

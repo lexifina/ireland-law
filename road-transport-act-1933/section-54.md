@@ -1,0 +1,3 @@
+Compensation on transfer etc. of licences.
+
+54.—...

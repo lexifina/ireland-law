@@ -1,0 +1,5 @@
+## PART V. COMPULSORY TRANSFER OF CERTAIN MERCHANDISE LICENSES AND PASSENGER LICENCES, AND RESTRICTIONS ON OPERATION OF CERTAIN MERCHANDISE LICENCES.
+
+Merchandise (existing carrier’s) licences and annual passenger licences to which Part V applies.
+
+50.—...
