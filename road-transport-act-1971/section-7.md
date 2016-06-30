@@ -1,0 +1,3 @@
+Licence granted to Wexford Steamships Company Limited.
+
+7.—...
