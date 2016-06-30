@@ -1,0 +1,3 @@
+Amendment of section 12 of the Principal Act.
+
+10.—...
