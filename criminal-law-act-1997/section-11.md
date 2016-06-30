@@ -1,0 +1,13 @@
+Abolition of penal servitude, hard labour and prison divisions.
+
+11.—(1) No person shall be sentenced by a court to penal servitude.
+
+(2) Every enactment conferring a power on a court to pass a sentence of penal servitude in any case shall be treated as an enactment empowering that court to pass a sentence of imprisonment for a term not exceeding the maximum term of penal servitude for which a sentence could have been passed in that case immediately before the commencement of this Act, and accordingly, in the case of any enactment in force on the 5th day of August, 1891, being the date on which section 1 (repealed by this Act) of the Penal Servitude Act, 1891, came into operation, whereby a court had, immediately before the commencement of this Act, power to pass a sentence of penal servitude, the maximum term of imprisonment shall not exceed five years or any greater term authorised by the enactment.
+
+(3) No person shall be sentenced by a court to imprisonment with hard labour; and every enactment conferring a power on a court to pass a sentence of imprisonment with hard labour in any case shall operate so as to empower that court to pass a sentence of imprisonment for a term not exceeding the term for which a sentence of imprisonment with hard labour could have been passed in that case immediately before the commencement of this Act; and so far as any enactment in force immediately before the commencement of this Act requires or permits prisoners to be kept to hard labour it shall cease to have effect; and accordingly the expressions “with or without hard labour”, “with hard labour”, “without hard labour” and corresponding expressions, wherever occurring in any enactment prescribing the punishment for an offence, are hereby repealed.
+
+(4) So far as any enactment provides that a person sentenced to imprisonment or committed to prison is or may be directed to be treated as an offender of a particular division, or to be placed in a separate division, it shall cease to have effect.
+
+(5) Any person who, immediately before the commencement of this Act, was undergoing or liable to undergo a term of penal servitude shall, if that person is or ought to be in custody at such commencement, be treated thereafter as if he or she were undergoing or liable to undergo imprisonment and not penal servitude for that term.
+
+(6) Any person who has been sentenced to imprisonment with hard labour for a term which has not expired at the commencement of this Act shall, for the remainder of that term, be treated as though he or she had been sentenced to imprisonment without hard labour.
