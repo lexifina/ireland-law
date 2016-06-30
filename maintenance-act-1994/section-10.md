@@ -1,0 +1,3 @@
+Amendment of section 6 of Act of 1988.
+
+10.—...
