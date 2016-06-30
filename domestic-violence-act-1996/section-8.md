@@ -1,0 +1,5 @@
+Application of section 9 (2) of Family Home Protection Act, 1976, to certain orders.
+
+8.—(1) Subsection (2) of section 9 (which restricts the right of a spouse to dispose of or remove household chattels pending the determination of matrimonial proceedings) of the Family Home Protection Act, 1976, shall apply between the making of an application, against the spouse of the applicant, for a barring order or a safety order and its determination, and if an order is made, while such order is in force, as it applies between the institution and final determination of matrimonial proceedings to which that section relates.
+
+(2) For the avoidance of doubt, it is hereby declared that the court which is empowered under subsection (2) (b) of section 9 of the Family Home Protection Act, 1976, to grant permission for any disposition or removal of household chattels (being household chattels within the meaning of that section) is, notwithstanding anything in section 10 of that Act, the court before which the proceedings (including any proceedings for a barring order or a safety order) have been instituted.
