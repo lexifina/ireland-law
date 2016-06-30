@@ -1,0 +1,7 @@
+Protection of purchasers.
+
+59.— (1) Recitals, statements and descriptions of facts, matters and parties contained in instruments, statutory provisions or statutory declarations 15 years old at the date of the contract are, unless and except so far as they are proved to be inaccurate, sufficient evidence of the truth of such facts, matters and parties.
+
+(2) Where land sold is held under a tenancy (other than a subtenancy), the purchaser shall assume, unless the contrary appears, that the tenancy was duly granted; and, on production of the receipt for the last payment due for rent under the tenancy before the date of the actual completion of the purchase, the purchaser shall assume, unless the contrary appears, that all the covenants and provisions of the tenancy have been duly performed and observed up to the date of actual completion of the purchase.
+
+(3) Where land sold is held under a subtenancy, the purchaser shall assume, unless the contrary appears, that the subtenancy and every superior tenancy were duly granted; and, on production of the receipt for the last payment due for rent under the subtenancy before the date of the actual completion of the purchase, the purchaser shall assume, unless the contrary appears, that all the covenants and provisions of the subtenancy have been duly performed and observed up to the date of actual completion of the purchase, and also that all rent due under, and all covenants and provisions of, every superior tenancy have been paid and duly performed and observed up to that date.
