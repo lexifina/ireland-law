@@ -1,0 +1,9 @@
+## PART V. ACTIONS FOR BREACH OF THE CONTRACT. Remedies of the Seller.
+
+Action for price.
+
+49.—(1) Where, under a contract of sale, the property in the goods has passed to the buyer, and the buyer wrongfully neglects or refuses to pay for the goods according to the terms of the contract, the seller may maintain an action against him for the price of the goods.
+
+(2) Where, under a contract of sale, the price is payable on a day certain irrespective of delivery, and the buyer wrongfully neglects or refuses to pay such price, the seller may maintain an action for the price, although the property in the goods has not passed, and the goods have not been appropriated to the contract.
+
+(3) Nothing in this section shall prejudice the right of the seller in Scotland to recover interest on the price from the date of tender of the goods, or from the date on which the price was payable, as the case may be.

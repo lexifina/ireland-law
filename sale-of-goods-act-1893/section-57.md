@@ -1,0 +1,3 @@
+Rights, &c. enforceable by action.
+
+57.—Where any right, duty, or liability is declared by this Act, it may, unless otherwise by this Act provided, be enforced by action.

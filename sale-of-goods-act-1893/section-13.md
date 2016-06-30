@@ -1,0 +1,7 @@
+F4[Sale by description.
+
+13.—(1) Where there is a contract for the sale of goods by description, there is an implied condition that the goods shall correspond with the description; and if the sale be by sample as well as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description.
+
+(2) A sale of goods shall not be prevented from being a sale by description by reason only that, being exposed for sale, they are selected by the buyer.
+
+(3) A reference to goods on a label or other descriptive matter accompanying goods exposed for sale may constitute or form part of a description.
