@@ -1,0 +1,3 @@
+Amendment of section 6 of Principal Act.
+
+3.—...
