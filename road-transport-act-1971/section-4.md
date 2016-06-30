@@ -1,0 +1,3 @@
+Transitional provision relating to certain merchandise licences.
+
+4.—...

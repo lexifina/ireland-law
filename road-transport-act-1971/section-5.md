@@ -1,0 +1,3 @@
+Duration of merchandise licences.
+
+5.—...
