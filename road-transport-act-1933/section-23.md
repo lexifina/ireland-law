@@ -1,0 +1,3 @@
+Expiry of licence held by a shipping company.
+
+23.—...

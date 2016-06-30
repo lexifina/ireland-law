@@ -1,0 +1,3 @@
+Duration of renewals of merchandise licences.
+
+22.—...
