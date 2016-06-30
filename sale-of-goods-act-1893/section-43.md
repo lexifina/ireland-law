@@ -1,0 +1,11 @@
+Termination of lien.
+
+43.—(1) The unpaid seller of goods loses his lien or right of retention thereon—
+
+(a) When he delivers the goods to a carrier or other bailee or custodier for the purpose of transmission to the buyer without reserving the right of disposal of the goods;
+
+(b) When the buyer or his agent lawfully obtains possession of the goods;
+
+(c) By waiver thereof.
+
+(2) The unpaid seller of goods, having a lien or right of retention thereon, does not lose his lien or right of retention by reason only that he has obtained judgment or decree for the price of the goods.

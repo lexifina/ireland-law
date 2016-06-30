@@ -1,0 +1,7 @@
+Market overt.
+
+22.—(1) Where goods are sold in market overt, according to the usage of the market, the buyer acquires a good title to the goods, provided he buys them in good faith and without notice of any defect or want of title on the part of the seller.
+
+(2) Nothing in this section shall affect the law relating to the sale of horses.
+
+(3) The provisions of this section do not apply to Scotland.

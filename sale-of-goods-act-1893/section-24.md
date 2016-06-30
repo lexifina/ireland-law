@@ -1,0 +1,3 @@
+Revesting of property in stolen goods on conviction of offender.
+
+24.—...
