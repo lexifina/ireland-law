@@ -1,0 +1,3 @@
+Change of name of Commission for Energy Regulation.
+
+4. The Commission for Energy Regulation (established by section 8 of the Act of 1999) shall, on and from such day as the Minister appoints by order, be known as the Commission for Regulation of Utilities or in the Irish language as An Coimisiún um Rialáil Fóntais and references in this Act or any other Act of the Oireachtas, any instrument made under this Act or any other Act of the Oireachtas, any legal proceedings and any document to the Commission for Energy Regulation shall from that day be read as references to the Commission for Regulation of Utilities.
