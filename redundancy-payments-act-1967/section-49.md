@@ -1,0 +1,3 @@
+Power to modify or wind-up existing schemes and arrangements for the provision of superannuation and redundancy payments.
+
+49.—Any scheme or arrangement for the provision of pensions, compensation for redundancy or other benefits (including any scheme or arrangement established or provided by or under, or having statutory force by virtue of, any enactment and any scheme evidenced only by one or more policies of insurance) may be modified, or wound up, in connection with the establishment under this Act of a scheme for the provision of redundancy payments by agreement between the parties concerned in the scheme or arrangement.

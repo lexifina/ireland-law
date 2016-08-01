@@ -1,0 +1,3 @@
+Amount of weekly contribution to Redundancy Fund.
+
+28.—...
