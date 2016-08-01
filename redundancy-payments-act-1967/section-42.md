@@ -1,0 +1,11 @@
+Provisions relating to winding up and bankruptcy.
+
+42.—(1) There shall be included among the debts which, under section 285 of the Companies Act, 1963, are, in the distribution of the assets of a company being wound up, to be paid in priority to all other debts, all contributions ... payable by the company under this Act during the twelve months before the commencement of the winding up or the winding-up order and any lump sum (or portion of a lump sum) payable under this Act by such a company, and the said section 285 shall have effect accordingly, and formal proof of the debts to which priority is given under this subsection shall not be required except in cases where it may otherwise be provided by rules made under the Companies Act, 1963.
+
+(2) Subsection (1) shall not apply where a company is wound up voluntarily merely for the purposes of reconstruction or of amalgamation with another company.
+
+(3) There shall be included among the debts which, under section 4 of the Preferential Payments in Bankruptcy (Ireland) Act, 1889, are, in the distribution of the property of a bankrupt or arranging debtor, to be paid in priority to all other debts, all contributions ... payable under this Act by the bankrupt or arranging debtor during the twelve months before the date of the order of adjudication in the case of a bankrupt or the filing of the petition for arrangement in the case of an arranging debtor and any lump sum (or portion of a lump sum) payable under this Act by a bankrupt or arranging debtor, and the said section 4 shall have effect accordingly, and formal proof of the debts to which priority is given under this subsection shall not be required except in cases where it may otherwise be provided by general orders made under the Preferential Payments in Bankruptcy (Ireland) Act, 1889.
+
+(4) Every assignment of or charge on, and every agreement to assign or charge, a weekly payment shall be void and on the bankruptcy of any person entitled to a weekly payment the weekly payment shall not pass to the official assignee in bankruptcy or any trustee or other person acting on account of the creditors.
+
+(5) Nothing in section 53 of the Bankruptcy (Ireland) Amendment Act, 1872, or in section 286 of the Companies Act, 1963, shall apply to any redundancy payments made by an employer.
