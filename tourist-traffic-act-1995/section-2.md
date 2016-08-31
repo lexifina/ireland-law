@@ -1,0 +1,3 @@
+Power of Board to contract out its inspection and associated functions.
+
+2.—...
