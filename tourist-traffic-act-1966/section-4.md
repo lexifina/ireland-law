@@ -1,0 +1,3 @@
+Purpose of loans guaranteed under Part III of Act of 1952.
+
+4.—...
