@@ -1,0 +1,3 @@
+Guarantee of loans under Part III of Act of 1952 in currency other than currency of the State.
+
+3.—...
