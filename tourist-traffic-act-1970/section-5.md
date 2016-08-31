@@ -1,0 +1,3 @@
+Amendment of section 5 of Act of 1952.
+
+5.—...
