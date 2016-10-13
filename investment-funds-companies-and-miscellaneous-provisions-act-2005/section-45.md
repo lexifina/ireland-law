@@ -1,0 +1,3 @@
+Expert's consent to issue of prospectus containing statement by him or her.
+
+45.—...

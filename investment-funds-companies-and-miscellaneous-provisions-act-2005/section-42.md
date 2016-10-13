@@ -1,0 +1,3 @@
+Section 41: exceptions and exemptions.
+
+42.—...
