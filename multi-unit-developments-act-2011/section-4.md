@@ -1,0 +1,5 @@
+Transfer of common areas in cases where section 3 does not apply.
+
+4.— (1) Where, before the coming into operation of this section, the ownership of a residential unit in a multi-unit development has been the subject of a transfer by or on behalf of a developer to a purchaser, and the ownership of the relevant parts of the common areas and in the reversion relating to the residential units has not been transferred to the relevant owners’ management company, the developer shall, subject to subsection (2), arrange for the transfer of the ownership of the relevant parts of the common areas of the multi-unit development concerned together with the reversion to the relevant owners’ management company within 6 months of the coming into operation of this section.
+
+(2) The transfer, in compliance with subsection (1), of the ownership of the relevant parts of the common areas of a multi-unit development and in the reversion relating to the residential units concerned shall reserve the beneficial interest therein to the person transferring the ownership of those parts (including any mortgagee or the owner of a charge affecting any such beneficial interest).
