@@ -1,0 +1,9 @@
+Amendment of section 472AB of Principal Act (earned income tax credit).
+
+4. (1) Section 472AB of the Principal Act is amended in subsection (2) —
+
+(a) in paragraph (a), by substituting “€950” for “€550”, and
+
+(b) in paragraph (b), by substituting “€950” for “€550”.
+
+(2) Subsection (1) applies for the year of assessment 2017 and each subsequent year of assessment.
