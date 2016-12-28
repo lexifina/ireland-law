@@ -1,0 +1,3 @@
+Advance from the Central Fund of moneys required for guarantee of loans.
+
+22.—...

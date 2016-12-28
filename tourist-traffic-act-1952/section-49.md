@@ -1,0 +1,3 @@
+Powers of licensee to impose further restrictions.
+
+49.—...

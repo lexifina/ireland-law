@@ -1,0 +1,3 @@
+Payment of certain sums into the Exchequer.
+
+23.—...

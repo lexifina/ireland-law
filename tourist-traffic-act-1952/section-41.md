@@ -1,0 +1,3 @@
+Declaration as to fitness and convenience of proposed hotel.
+
+41.—...

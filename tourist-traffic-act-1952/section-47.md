@@ -1,0 +1,3 @@
+Provisions applying to Sundays, Christmas Day and Saint Patrick’s Day.
+
+47.—...

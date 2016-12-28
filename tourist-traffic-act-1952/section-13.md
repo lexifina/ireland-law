@@ -1,0 +1,3 @@
+Disqualification of member of Oireachtas for membership of Board.
+
+13.—....
