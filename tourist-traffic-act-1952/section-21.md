@@ -1,0 +1,3 @@
+Time limit on giving of guarantees.
+
+21.—...
