@@ -1,0 +1,5 @@
+Survivor’s pension.
+
+33.— (1) Consequent on the death of a Scheme member or former Scheme member (in this Part referred to as the “deceased member”) and to whom or in respect of whom a pension or death gratuity or preserved pension or lump sum payment has been or may be awarded, the Minister may, where the deceased member is survived by a spouse or civil partner and subject to the other provisions of this Part, grant to that spouse or civil partner a pension (in this Part referred to as a “survivor’s pension”) in respect of the deceased member’s service as a public servant.
+
+(2) The survivor’s pension shall be payable at one-half of the rate of the pension or preserved pension of the deceased member concerned except where a Scheme member dies while serving as a public servant then it shall be one-half of the pension that would have been payable to the member in accordance with section 29 had he or she retired or been retired or discharged on medical grounds on the date of his or her death.
