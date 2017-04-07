@@ -1,0 +1,7 @@
+Availability of relevant material for inspection by public under National Archives Act 1986.
+
+47.— (1) Any relevant material of a tribunal (other than any part of such relevant material which falls within section 46(5) or (6)) that constitutes Departmental records within the meaning of section 2(2) of the National Archives Act 1986 is, on the expiry of 30 years after the date of the dissolution of the tribunal, deemed to have been prescribed under section 8(11) of that Act as a class of records to which a certificate granted under section 8(4) of that Act may relate.
+
+(2) As soon as is practicable after the date on which any relevant material of a tribunal is deemed to have been prescribed as described in subsection (1), an officer of a Department of State authorised for the purposes of section 8(4) of the National Archives Act 1986 shall consider whether, after having regard to any opinion and reasons referred to in section 46(4) that the chairman of the tribunal caused to accompany the material and subject to any consent required under that section 8(4), the material, or specified parts of it, should be certified under that section 8(4).
+
+(3) Subject to subsections (1) and (2), the National Archives Act 1986 applies to any relevant material of a tribunal (other than any part of such relevant material which falls within section 46(5) or (6)) that constitutes Departmental records within the meaning of section 2(2) of that Act.
