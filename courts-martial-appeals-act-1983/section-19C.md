@@ -1,0 +1,9 @@
+Appeals (supplementary provisions).
+
+19C.—(1) Where an appeal is made to the Court against a decision by a court-martial to make or not to make an order of committal under section 202(1)(b) or 203(2) of the Act of 1954, the Court may, having considered the evidence or any new evidence relating to the mental condition of the person charged given by a consultant psychiatrist, make such order, being an order that it was open to the court-martial to make, as it considers appropriate and, without prejudice to the provisions of section 13 of the Criminal Law (Insanity) Act 2006 relating to the review of orders of committal, no further appeal shall lie from an order made on an appeal under this section.
+
+(2) Where the Court allows an appeal against a conviction or against a verdict of not guilty by reason of insanity on the ground that the appellant ought to have been found unfit to take his trial, or allows an appeal against a conviction on the ground that the appellant ought to have been found not guilty by reason of insanity, it shall have the same powers to deal with the appellant as the court-martial concerned would have had under section 202 or 203 of the Act of 1954 if it had come to the same conclusion.
+
+(3) All ancillary and procedural provisions contained in a statute or an instrument made under statute relating to appeals against convictions, including provisions relating to leave to appeal, shall apply with the necessary modifications to appeals under sections 19A and 19B of this Act and subsection (1) of this section.
+
+(4) The powers of the Court in an appeal under section 19A or 19B of this Act or subsection (1) of this section shall include the power to make any such order as may be necessary for the purpose of doing justice in accordance with the provisions of this Act and the Criminal Law (Insanity) Act 2006.

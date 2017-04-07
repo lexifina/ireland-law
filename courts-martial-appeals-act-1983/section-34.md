@@ -1,0 +1,5 @@
+Penalty for false or misleading statements.
+
+34.—(1) A person who, for the purpose of obtaining free legal aid under this Part of this Act, whether for himself or some other person, knowingly makes a false statement or false representation either verbally or in writing or knowingly conceals any material fact shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €2,000 or to imprisonment for a term not exceeding six months or to both.
+
+(2) Upon conviction of a person of an offence under this section, the court by which the person is convicted may, if in the circumstances of the case the court so thinks fit, order the person to pay to the Minister the whole or part (as the court considers appropriate) of any sum paid under section 30 of this Act in respect of the free legal aid in relation to which the offence was committed, and any sum paid to the Minister pursuant to this section shall be paid into or disposed of for the benefit of the Exchequer in accordance with the directions of the Minister for Finance.

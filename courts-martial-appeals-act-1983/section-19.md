@@ -1,0 +1,3 @@
+Finding of guilty but insane.
+
+19.—If on any appeal (other than an appeal under sections 203B to 203D (inserted by the Defence (Amendment) Act 2007) of the Act of 1954) it appears to the Court that, although the appellant did the act or made the omission charged against him, he was insane at the time when the act was done or the omission was made so as not to be responsible according to law for the act or omission, the Court may quash the sentence passed at the trial and order the appellant to be kept in custody in like manner as if the case had been determined by the Court of Criminal Appeal on appeal from a conviction on indictment.

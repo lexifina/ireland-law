@@ -1,0 +1,3 @@
+Postponement of execution of sentence of death.
+
+21.—...
