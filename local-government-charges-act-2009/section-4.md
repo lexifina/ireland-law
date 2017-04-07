@@ -1,0 +1,3 @@
+Exemptions from charge.
+
+4.—...
