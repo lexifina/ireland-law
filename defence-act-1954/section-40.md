@@ -1,0 +1,7 @@
+Provisions as to orders of military authorities.
+
+40.—(1) Where any order is authorised by or under this Act to be made by the Chief of Staff, the Adjutant-General or the Quartermaster-General or by any general, flag or other officer in command, such order may be signified by an order, instruction or letter under the hand of any officer authorised to issue orders on behalf of the Chief of Staff, the Adjutant-General or the Quartermaster-General or the general, flag or other officer in command, and an order, instruction or letter purporting to be signed by an officer appearing therein to be so authorised shall be evidence of his being so authorised.
+
+(2) Subsection (1) of this section shall extend to any order or direction issued in pursuance of this Act in relation to any ... military prisoner or man undergoing detention, and any such order or direction shall not be held invalid by reason of the death or removal from office of the officer signing or ordering the issue of such order or direction or by reason of any defect in such order or direction, if it be alleged in such order or direction that the ... military prisoner or man undergoing detention has been convicted and that there is a good and valid conviction to sustain the order or direction.
+
+(3) An order in any case if issued in the prescribed form shall be valid, but an order deviating from the prescribed form, if otherwise valid, shall not be rendered invalid by reason only of such deviation.

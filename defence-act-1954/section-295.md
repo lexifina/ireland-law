@@ -1,0 +1,3 @@
+Existing regular officers and existing reserve officers to be deemed to be commissioned under this Act.
+
+295.—...

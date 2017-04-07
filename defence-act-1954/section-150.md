@@ -1,0 +1,3 @@
+Unauthorised carriage on ships or aircraft.
+
+150.— Every person subject to military law who knowingly consigns, takes or receives on board, or allows to be carried on board, a State ship or service aircraft, or a ship or aircraft used for any purpose by the Defence Forces, persons, goods or merchandise that the person is not authorised to consign, take or receive on board is guilty of an offence against military law and shall, where a charge under this section is disposed of summarily under section 177C or 178C, as the case may be, be liable to suffer any punishment awardable thereunder or, on conviction by court-martial, be liable to suffer imprisonment for any term not exceeding two years or any less punishment awardable by a court-martial.

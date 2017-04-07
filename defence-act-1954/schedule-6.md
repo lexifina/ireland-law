@@ -1,0 +1,15 @@
+SIXTH SCHEDULE.
+
+FORM OF OATH OR DECLARATION TO BE TAKEN OR MADE BY OFFICERS OF THE PERMANENT DEFENCE FORCE.
+
+PART I.
+
+Mionnaímse (nó dearbhaímse), ___________, go solamanta go mbead dílis d’Eirinn agus tairiseach don Bhunreacht agus, faid a bhead im oifigeach de na Buan-Oglaigh, go gcomhlíonfad gach ordú dleathach a bhéarfas m’oifigigh uachtaracha dhom agus nach gceanglód le haon eagraíocht nó cumann polaitíochta ná le haon chumann rúnda ar bith ná nach mbead im chomhalta den chéanna ná nach dtaobhód leis an gcéanna.
+
+PART II.
+
+I, ___________, do solemnly swear (or declare) that I will be faithful to Ireland and loyal to the Constitution and that while I am an officer of the Permanent Defence Force I will obey all lawful orders issued to me by my superior officers and will not join or be a member of or subscribe to any political organisation or society or any secret society whatsoever.
+
+Insert here “na Buan-Oglaigh”, “the Permanent Defence Force”, “na hOglaigh Cúltaca” or “the Reserve Defence Force” (whichever is appropriate).
+
+Insert here “Arm”, “Army”, “Chabhlach cr “Naval”” (Whichever is appropriate

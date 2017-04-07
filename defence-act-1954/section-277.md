@@ -1,0 +1,3 @@
+Extension of power to make bye-laws in respect of non-State land where Minister has right of user for defence purposes.
+
+277.—Where the Minister has for the time being the right to use for any defence purpose any land (not being State land), the power conferred by section 276 to make bye-laws shall extend to that land as if it were State land and were appropriated for the said purpose, subject however to this restriction, namely, that any bye-law made by virtue of this section shall not unfavourably affect the private rights of any person further or otherwise than is authorised by the grant of the right to use the land.

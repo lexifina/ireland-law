@@ -1,0 +1,3 @@
+Dilatory conduct in regard to trials.
+
+144.—Every person subject to military law who unnecessarily detains any other person in arrest or confinement without bringing him to trial, or fails to bring that other person’s case before the proper authority for investigation, is guilty of an offence against military law and shall, where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or, on conviction by court-martial, be liable to suffer imprisonment for any term not exceeding two years or any less punishment awardable by a court-martial.

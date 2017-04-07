@@ -1,0 +1,3 @@
+Suspension of currency of sentence where a person escapes or is released without proper authority.
+
+230.—Notwithstanding anything contained in this Act, where a person sentenced to ... imprisonment or detention escapes or is released without proper authority whilst serving such sentence, the currency of such sentence shall be deemed to be suspended from the date on which he escaped or was released without proper authority until he surrenders or is again apprehended, and on such surrender or apprehension he may be recommitted by the prescribed authority to serve the unexpired term of his sentence.

@@ -1,0 +1,5 @@
+Evidence of proceedings of court-martial.
+
+250.—(1) The original proceedings of a court-martial purporting to be signed by the military judge, and being in the custody of the prescribed officer having the lawful custody thereof, shall be deemed to be of such a public nature as to be admissible in evidence on their mere production from such custody, and any copy purporting to be certified by the prescribed officer, having such custody as aforesaid, to be a true copy of such proceedings, or of any part thereof, shall be admissible in evidence without proof of the signature of such officer.
+
+(2) Whenever any person subject to military law has been tried by court-martial, the certificate of the prescribed officer having custody of the original proceedings of the court-martial, setting out the place and date of trial, the offence for which such person was tried, together with the finding and sentence of the court-martial ... or, if such person was acquitted, the acquittal, shall be evidence of the matters so set out in such certificate.

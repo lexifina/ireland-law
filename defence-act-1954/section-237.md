@@ -1,0 +1,3 @@
+Unsoundness of mind of person imprisoned or undergoing detention.
+
+237.—If a person imprisoned or undergoing detention by virtue of this Act becomes of unsound mind, then, without prejudice to any other enactment, a Minister of State may, upon a certificate signed by two registered medical practitioners certifying that such person is of unsound mind, order the removal of such person to a mental hospital, there to remain for the unexpired term of his sentence of imprisonment or detention but, upon such person being certified by two registered medical practitioners to be again of sound mind, may order his removal to any prison or detention barrack in which he might have been confined if he had not become of unsound mind, there to undergo the remainder of his sentence.

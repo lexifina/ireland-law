@@ -1,0 +1,3 @@
+False statement in respect of leave.
+
+138.—Every person subject to military law who knowingly makes a false statement in respect of prolongation of leave of absence is guilty of an offence against military law and shall, where a charge under this section is disposed of summarily under section 177C, 178C or 179C, as the case may be, be liable to suffer any punishment awardable thereunder or, on conviction by court-martial, be liable to suffer, if an officer, dismissal from the Defence Forces or any less punishment awardable by a court-martial, or, if a man, detention or any less punishment awardable by a court-martial.
