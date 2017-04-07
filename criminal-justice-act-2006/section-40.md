@@ -1,0 +1,3 @@
+New section 10A in Principal Act.
+
+40.—...
