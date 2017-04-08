@@ -26,7 +26,7 @@ Execution of sentence imposed in sentencing country.
 
 (f) circumstances exist whereby—
 
-(i) had the person's surrender been sought pursuant to a European arrest warrant, the surrender of the person would not be prohibited under Part 3 (other than section 38(1)) of the European Arrest Warrant Act 2003, or
+(i) had the person's surrender been sought pursuant to a relevant arrest warrant, the surrender of the person would not be prohibited under Part 3 (other than section 38(1)) of the European Arrest Warrant Act 2003, or
 
 (ii) had the person's extradition been sought, his or her extradition would not be prohibited under the Extradition Acts 1965 to 2001 (other than section 10(1) or 10(1A) (inserted by section 11(a) of the Extradition (European Union Conventions) Act 2001) of the Extradition Act 1965).
 
