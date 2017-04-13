@@ -1,0 +1,5 @@
+Amendment of section 9 (acquisition of equipment and materials by Minister) of Act of 1999.
+
+29.— The Act of 1999 is amended by substituting the following for section 9:
+
+“9.— The Minister may, alone or jointly with a foreign maritime administration, arrange for the provision, on such terms as he or she considers appropriate, whether by purchasing, leasing, hiring or otherwise, of such equipment and materials as he or she considers necessary or expedient for the carrying out of operations for the prevention or minimising of damage in the State resulting from discharges of oil or hazardous and noxious substances from ships, offshore units, oil handling facilities or hazardous and noxious substances handling facilities, or for the training of persons in the carrying out of such operations, or for the purposes of operations undertaken in relation to vessels in distress in accordance with section 7 of the Merchant Shipping (Salvage and Wreck) Act 1993 or in relation to salvage operations as defined in section 12 of that Act.”.
