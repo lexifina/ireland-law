@@ -1,0 +1,3 @@
+Amendment of section 51 of Principal Act.
+
+7.—...
