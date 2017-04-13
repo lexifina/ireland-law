@@ -1,3 +1,3 @@
-Amendments consequential on section 24.
+Amendments consequential on section 24. (Repealed)
 
-25.—[...]
+25.— ...

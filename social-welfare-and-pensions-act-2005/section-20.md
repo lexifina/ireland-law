@@ -1,3 +1,3 @@
-Assessment of means — amendments.
+Assessment of means — amendments. (Repealed)
 
-20.—[...]
+20.— ...

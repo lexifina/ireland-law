@@ -1,3 +1,3 @@
-Unemployment benefit, unemployment assistance and farm assist — amendment to disqualifications.
+Unemployment benefit, unemployment assistance and farm assist — amendment to disqualifications. (Repealed)
 
-13.—[...]
+13.— ...

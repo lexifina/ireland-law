@@ -1,3 +1,3 @@
-Certain EU payments — entitlement to island allowance.
+Certain EU payments — entitlement to island allowance. (Repealed)
 
-10.—[...]
+10.— ...

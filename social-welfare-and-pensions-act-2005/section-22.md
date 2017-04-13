@@ -1,3 +1,3 @@
-Old age (contributory) pension — amendment to definition of “homemaker”.
+Old age (contributory) pension — amendment to definition of “homemaker”. (Repealed)
 
-22.—[...]
+22.— ...

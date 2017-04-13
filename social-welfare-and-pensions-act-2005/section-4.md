@@ -1,3 +1,3 @@
-Disability benefit.
+Disability benefit. (Repealed)
 
-4.—[...]
+4.— ...

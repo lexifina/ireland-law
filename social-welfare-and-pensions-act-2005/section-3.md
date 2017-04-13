@@ -1,3 +1,3 @@
-Child benefit — new rates.
+Child benefit — new rates. (Repealed)
 
-3.—[...]
+3.— ...

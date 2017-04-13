@@ -1,3 +1,3 @@
-Provisions relating to prosecutions.
+Provisions relating to prosecutions. (Repealed)
 
-17.—[...]
+17.— ...

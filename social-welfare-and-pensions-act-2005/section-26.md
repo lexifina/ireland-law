@@ -1,3 +1,3 @@
-Pre-consolidation amendments to Principal Act.
+Pre-consolidation amendments to Principal Act. (Repealed)
 
-26.—[...]
+26.— ...

@@ -1,3 +1,3 @@
-Orphan's (contributory) allowance and orphan's (non-contributory) pension — amendments.
+Orphan's (contributory) allowance and orphan's (non-contributory) pension — amendments. (Repealed)
 
-19.—[...]
+19.— ...

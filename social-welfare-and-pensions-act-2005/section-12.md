@@ -1,3 +1,3 @@
-Unemployment benefit and unemployment assistance — amendment to entitlement.
+Unemployment benefit and unemployment assistance — amendment to entitlement. (Repealed)
 
-12.—[...]
+12.— ...

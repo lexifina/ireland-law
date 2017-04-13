@@ -1,3 +1,3 @@
-Assessment
+Assessment of capital means for certain assistance payments. (Repealed)
 
-9.—[...]
+9.— ...

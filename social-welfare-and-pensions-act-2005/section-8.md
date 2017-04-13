@@ -1,3 +1,3 @@
-Disability allowance — extension of payment.
+Disability allowance — extension of payment. (Repealed)
 
-8.—[...]
+8.— ...

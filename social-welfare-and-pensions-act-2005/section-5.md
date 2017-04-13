@@ -1,3 +1,3 @@
-Injury benefit — removal of limit.
+Injury benefit — removal of limit. (Repealed)
 
-5.—[...]
+5.— ...

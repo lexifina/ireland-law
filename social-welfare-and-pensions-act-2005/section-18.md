@@ -1,3 +1,3 @@
-Amendment
+Amendment of section 2 of Principal Act (interpretation). (Repealed)
 
-18.—[...]
+18.— ...

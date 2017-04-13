@@ -1,3 +1,3 @@
-Respite
+Respite care grant — improvements to entitlement conditions. (Repealed)
 
-7.—[...]
+7.— ...

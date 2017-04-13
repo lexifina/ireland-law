@@ -1,3 +1,3 @@
-Award of bereavement grant and payments after death in certain cases.
+Award of bereavement grant and payments after death in certain cases. (Repealed)
 
-16.—[...]
+16.— ...

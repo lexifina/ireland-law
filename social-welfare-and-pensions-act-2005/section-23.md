@@ -1,3 +1,3 @@
-Amendments
+Amendments to Principal Act consequential on Health Act 2004. (Repealed)
 
-23.—[...]
+23.— ...

@@ -1,3 +1,3 @@
-Third Schedule to Principal Act (Rules as to calculation of means).
+Third Schedule to Principal Act (Rules as to calculation of means). (Repealed)
 
-24.—[...]
+24.— ...
