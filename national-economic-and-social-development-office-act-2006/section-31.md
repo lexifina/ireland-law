@@ -1,0 +1,5 @@
+Accounts and audits of Office.
+
+31.— (1) The Office shall keep in such form as may be approved of by the Taoiseach with the concurrence of the Minister for Finance all proper and usual accounts of all moneys received or expended by the Office including an income and expenditure account and balance sheet and, in particular, shall keep all such special accounts as the Taoiseach may from time to time direct.
+
+(2) Accounts kept in pursuance of this section shall be submitted not later than 3 months after the end of the financial year of the Office to which they relate to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the income and expenditure account and of the balance sheet and of such other (if any) of its accounts as the Taoiseach may direct and a copy of the Comptroller and Auditor General's report on the accounts shall be presented to the Taoiseach as soon as may be and the Taoiseach shall cause copies of each of the documents aforesaid to be laid before each House of the Oireachtas.
