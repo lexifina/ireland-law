@@ -1,0 +1,3 @@
+Application of section 13 to hire-purchase of motor vehicles.
+
+34.—...

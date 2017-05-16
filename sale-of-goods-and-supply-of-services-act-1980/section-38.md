@@ -1,0 +1,3 @@
+Goods let otherwise than under hire-purchase agreement.
+
+38.—...

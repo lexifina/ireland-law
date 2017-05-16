@@ -1,0 +1,3 @@
+Power to withdraw acceptance of contract.
+
+50.—...

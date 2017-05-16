@@ -1,0 +1,3 @@
+Statements purporting to restrict rights of hirer.
+
+30.—...

@@ -1,0 +1,3 @@
+Implied undertakings as to quality or fitness.
+
+28.—...

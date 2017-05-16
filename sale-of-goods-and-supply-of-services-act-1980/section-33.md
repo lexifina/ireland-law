@@ -1,0 +1,3 @@
+Application of sections 12, 15 to 19 to hire-purchase agreements.
+
+33.—...

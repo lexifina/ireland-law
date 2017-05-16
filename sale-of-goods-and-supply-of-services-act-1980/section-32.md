@@ -1,0 +1,3 @@
+Liability of persons conducting negotiations antecedent to hire-purchase agreements.
+
+32.—...

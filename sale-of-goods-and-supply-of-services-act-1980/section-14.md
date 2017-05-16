@@ -1,0 +1,3 @@
+Liability of finance houses.
+
+14.—Where goods are sold to a buyer dealing as consumer and in relation to the sale an agreement is entered into by the buyer with another person acting in the course of a business (in this section referred to as a finance house) for the repayment to the finance house of money paid by the finance house to the seller in respect of the price of the goods, the finance house shall be deemed to be a party to the sale and the finance house and the seller shall, jointly and severally, be answerable to the buyer for breach of the contract of sale and for any misrepresentations made by the seller with respect to the goods.
