@@ -1,0 +1,11 @@
+Regulations.
+
+11.—(1) The Minister may—
+
+(a) by regulations provide, subject to the provisions of this Act, for any matter referred to in this Act as prescribed or to be prescribed, and
+
+(b) in addition to any other power conferred on him or her to make regulations, make regulations generally for the purposes of, and for the purpose of giving full effect to, this Act.
+
+(2) Regulations under this Act may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
+
+(3) Every regulation made by the Minister under this Act shall be laid before both Houses of the Oireachtas as soon as may be after it is made, and, if a resolution annulling the regulation is passed by either such House within the next subsequent 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.

@@ -1,0 +1,519 @@
+Amendment of Refugee Act 1996.
+
+7.—The Refugee Act 1996 is hereby amended—
+
+(a) in section 2, by the substitution of the following paragraph for paragraphs (c), (d) and (e):
+
+“(c) there are serious grounds for considering that he or she—
+
+(i) has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes,
+
+(ii) has committed a serious non-political crime outside the State prior to his or her arrival in the State, or
+
+(iii) has been guilty of acts contrary to the purposes and principles of the United Nations.”,
+
+(b) in section 7A (inserted by the Immigration Act 1999) by—
+
+(i) the substitution in subsection (4)(a) of “2005” for “2001”,
+
+(ii) the substitution in paragraph 1 of the Schedule of “15” for “14”, and
+
+(iii) the insertion of the following paragraph after paragraph 3(g) of the Schedule:
+
+“(gg) one shall be the chairperson of the Refugee Appeals Tribunal,”,
+
+(c) in section 9, by—
+
+(i) the substitution in subsection (2) of the following paragraphs for paragraphs (a) and (b):
+
+“(a) the date on which his or her application is transferred to a convention country pursuant to section 22 or to a safe third country (within the meaning of that section), or
+
+(b) the date on which his or her application is withdrawn or deemed to be withdrawn under this section or section 11, or”,
+
+(ii) the substitution of the following subsection for subsection (4A) (inserted by the Illegal Immigrants (Trafficking) Act 2000):
+
+“(4A) (a) An applicant shall inform the Commissioner of his or her address and of any change of address as soon as possible.
+
+(b) Where 5 working days have elapsed since the making of an application for a declaration and the applicant has not informed the Commissioner of his or her address, the application shall be deemed to be withdrawn.”,
+
+(iii) the substitution of the following subsections for subsections (5) and (6):
+
+“(5) (a) An immigration officer or an authorised person may, by notice in writing, require an applicant—
+
+(i) to reside or remain in particular districts or places in the State, or
+
+(ii) to report at specified intervals to an immigration officer or person or persons authorised by the Minister or member of the Garda Síochána specified in the notice, and the applicant shall comply with the requirement.
+
+(b) In this subsection ‘an authorised person’ means a person appointed by the Minister to be an authorised person for the purposes of this subsection.
+
+(6) Upon application to the Minister in that behalf by the applicant concerned, the Minister may, as he or she thinks fit, direct the immigration officer or the authorised person concerned to withdraw the requirement concerned or to amend it in a specified manner.”,
+
+(iv) the substitution in subsection (7) of “subsection (4), (4A) or (5)” for “subsection (4) or (5)”,
+
+(v) by the insertion in subsection (8)(d) after “section 22” of “or a safe third country (within the meaning of that section)”,
+
+(vi) the substitution in subsection (10)(b)(i) of “21 days” for “10 days”, and
+
+(vii) the substitution in subsection (14)(a) of “21 days” for “10 days”,
+
+(d) by the substitution of the following section for section 9A:
+
+“Powers of
+
+9A.—(1) An authorised officer, a member of the Garda Síochána or authorised an immigration officer may, for the purposes of this Act, take or cause officers and to be taken the fingerprints of an applicant. immigration
+
+(2) Fingerprints shall not be taken under this section from a person officers. under the age of 14 years except in the presence of a person who is—
+
+(a) a parent or a person who is acting in loco parentis; or
+
+(b) an officer of the health board or other person appointed by the health board under section 8(5)(b).
+
+(3) The fingerprints of a person under the age of 14 years shall not be taken under this section without the prior approval—
+
+(a) in the case of an authorised officer or an immigration officer who is not a member of the Garda Síochána, of the Minister or a person designated for that purpose by the Minister; or
+
+(b) in the case of a member of the Garda Síochána, of his or her chief superintendent or a person designated for that purpose by his or her chief superintendent.
+
+(4) If and for so long as the authorised officer, the immigration officer or, as the case may be, the member of the Garda Síochána concerned has reasonable grounds for believing that the person is not under the age of 14 years, the provisions of subsection (2) shall apply as if he or she had attained the age of 14 years.
+
+(5) An applicant who refuses to permit his or her fingerprints to be taken pursuant to subsection (1) shall be deemed not to have made reasonable efforts to establish his or her true identity within the meaning of section 9(8)(c), and to have failed to comply with the requirements of section 11C.
+
+(6) The Commissioner of the Garda Síochána shall arrange for the maintenance of a record of fingerprints taken pursuant to subsection (1).
+
+(7) Every fingerprint of an applicant taken pursuant to subsection (1) and every copy thereof shall, if not previously destroyed, be destroyed—
+
+(a) in case the applicant becomes a citizen of the State, before the expiration of one month after the granting of the certificate of naturalisation or of Irish citizenship to him or her or the acknowledgement by the Minister of the validity of his or her declaration accepting Irish citizenship, as the case may be;
+
+(b) in any other case, before the expiration of 10 years after the taking of such fingerprints.
+
+(8) Information obtained pursuant to subsection (1) may be communicated to convention countries or a safe third country (within the meaning of section 22) as if it was information to which subsection (9) or, as may be appropriate, subsection (10) of that section relates.”,
+
+(e) in section 11 (as amended by the Immigration Act 1999) by—
+
+(i) the substitution of the following subsection for subsection (1):
+
+“(1) Where an application is received by the Commissioner under section 8 and the application is not withdrawn or deemed to be withdrawn pursuant to this section or section 9 or 22, it shall be the function of the Commissioner to investigate the application for the purpose of ascertaining whether the applicant is a person in respect of whom a declaration should be given.”,
+
+(ii) the substitution of the following subsection for subsection (2):
+
+“(2) In a case to which subsection (1) applies, the Commissioner shall, for the purposes of that provision, direct an authorised officer or officers to interview the applicant concerned and the officer or officers shall comply with any such direction and furnish a report in writing in relation to the interview concerned to the Commissioner and an interview under this subsection shall, where necessary and possible, be conducted with the assistance of an interpreter.”,
+
+(iii) the substitution of the following subsection for subsection (3):
+
+“(3)(a) The applicant concerned, the High Commissioner or any other person concerned may make representations in writing to the Commissioner in relation to any matter relevant to an investigation by him or her under this section and the Commissioner shall take account of any such representations made before or during an interview under subsection (2).
+
+(b) The High Commissioner may, whenever he or she so requests, be present at an interview under subsection (2).”,
+
+(iv) the deletion of subsection (6) and (7),
+
+(v) the substitution in subsection (8) of the following paragraphs for paragraphs (e) and (f):
+
+“(e) the duty of the applicant to co-operate with the Commissioner and to furnish information relevant to his or her application for a declaration,
+
+(f) the obligation of the applicant to comply with subsections (4), (4A) and (5) of section 9 and the possible consequences of non-compliance with that obligation including the possibility that his or her application for a declaration may be deemed to be withdrawn and that the Minister may refuse to give the applicant a declaration,
+
+(g) the possible consequences of the failure of the applicant to attend an interview under this section.”,
+
+(vi) by the substitution of the following subsections for subsection (9) (inserted by the Immigration Act 1999):
+
+“(9) An applicant may withdraw his or her application for a declaration by sending notice of withdrawal to the Commissioner.
+
+(10) Where an applicant does not attend for interview with an authorised officer under this section on the date and at the time fixed for the interview then, unless the applicant, not later than 3 working days from that date, furnishes the Commissioner with an explanation for the non-attendance which in the opinion of the Commissioner is reasonable in the circumstances, his or her application shall be deemed to be withdrawn.
+
+(11) Where—
+
+(a) it appears to the Commissioner that an applicant is failing in his or her duty to co-operate with the Commissioner or to furnish information relevant to his or her application for a declaration, or
+
+(b) the Minister notifies the Commissioner that he or she is of opinion that the applicant is in breach of subsection (4)(a), (4A) or (5) of section 9, the Commissioner shall send to the applicant a notice in writing inviting the applicant to indicate in writing (within 15 working days of the sending of the notice) whether he or she wishes to continue with his or her application and, if an applicant does not furnish an indication within the time specified in the notice, his or her application for a declaration shall be deemed to be withdrawn.
+
+(12) The procedures to be followed in investigations under this section may be prescribed and different procedures may be prescribed for different classes of applications.”,
+
+(f) by the insertion of the following sections after section 11:
+
+“Burden of
+
+11A.—(1) Where, at any time during the investigation of an application proof. by the Commissioner under section 11, it appears to him or her that an applicant—
+
+(a) is a national of, or has a right of residence in, a country standing designated by order under section 12(4) as a safe country of origin, or
+
+(b) had lodged a prior application for asylum in another state party to the Geneva Convention, then the applicant shall be presumed not to be a refugee unless he or she shows reasonable grounds for the contention that he or she is a refugee.
+
+(2) Where an application is one to which section 22 applies, it shall be for the applicant to show that his or her application should be examined in the State.
+
+(3) Where an applicant appeals against a recommendation of the Commissioner under section 13, it shall be for him or her to show that he or she is a refugee.
+
+Credibility.
+
+11B.—The Commissioner or the Tribunal, as the case may be, in assessing the credibility of an applicant for the purposes of the investigation of his or her application or the determination of an appeal in respect of his or her application, shall have regard to the following:
+
+(a) whether the applicant possesses identity documents, and, if not, whether he or she has provided a reasonable explanation for the absence of such documents;
+
+(b) whether the applicant has provided a reasonable explanation to substantiate his or her claim that the State is the first safe country in which he or she has arrived since departing from his or her country of origin or habitual residence;
+
+(c) whether the applicant has provided a full and true explanation of how he or she travelled to and arrived in the State;
+
+(d) where the application was made other than at the frontiers of the State, whether the applicant has provided a reasonable explanation to show why he or she did not claim asylum immediately on arriving at the frontiers of the State unless the application is grounded on events which have taken place since his or her arrival in the State;
+
+(e) where the applicant has forged, destroyed or disposed of any identity or other documents relevant to his or her application, whether he or she has a reasonable explanation for so doing;
+
+(f) whether the applicant has adduced manifestly false evidence in support of his or her application, or has otherwise made false representations, either orally or in writing;
+
+(g) whether the applicant, without reasonable cause, having withdrawn his or her application and not having been refused a declaration under section 17, has made a subsequent application under section 8;
+
+(h) whether the applicant, without reasonable cause, has made an application following the notification of a proposal under section 3(3)(a) of the Immigration Act 1999;
+
+(i) whether the applicant has complied with the requirements of section 11C;
+
+(j) whether the applicant has, without reasonable cause, failed to comply with the requirements of section 9(4)(a);
+
+(k) whether the applicant has, without reasonable cause, failed to comply with the requirements of section 9(4A);
+
+(l) whether the applicant has, without reasonable cause, failed to comply with the requirements of section 9(5);
+
+(m) whether, in the case of an application to which section 16 applies, the applicant has furnished information in relation to the application which he or she could reasonably have furnished during the investigation of the application by the Commissioner but did not so furnish.
+
+Duty to
+
+11C.—(1) It shall be the duty of an applicant to co-operate in the co-operate. investigation of his or her application and in the determination of his or her appeal, if any.
+
+(2) In compliance with subsection (1), an applicant shall furnish to the Commissioner or the Tribunal, as may be appropriate, as soon as reasonably practicable, all information in his or her possession, control or procurement relevant to his or her application.”,
+
+(g) by the substitution of the following section for section 12:
+
+“Prioritisation
+
+12.—(1) Subject to the need for fairness and efficiency in dealing of with applications for a declaration under this Act, the Minister may, applications. where he or she considers it necessary or expedient to do so, give a direction in writing to the Commissioner or the Tribunal or to both requiring either or both of them, as the case may be, to accord priority to certain classes of applications determined by reference to one or more of the following matters:
+
+(a) the grounds of applications under section 8,
+
+(b) the country of origin or habitual residence of applicants,
+
+(c) any family relationship between applicants,
+
+(d) the ages of applicants and, in particular, of persons under the age of 18 years in respect of whom applications are made,
+
+(e) the dates on which applications were made,
+
+(f) considerations of national security or public policy,
+
+(g) the likelihood that the applications are well-founded,
+
+(h) if there are special circumstances regarding the welfare of applicants or the welfare of family members of applicants,
+
+(i) whether applications do not show on their face grounds for the contention that the applicant is a refugee,
+
+(j) whether applicants have made false or misleading representations in relation to their applications,
+
+(k) whether applicants had lodged prior applications for asylum in another country,
+
+(l) whether applications under section 8 were made at the earliest opportunity after arrival in the State,
+
+(m) whether applicants are nationals of or have a right of residence in a country of origin designated as safe under this section,
+
+(n) if an applicant is a person to whom paragraph (a), (b) or (c) of section 2 applies.
+
+(2) The Commissioner or the Tribunal shall comply with a direction given to him, her or it under this section.
+
+(3) The Minister may be a direction revoke or alter a direction given by him or her under subsection (1).
+
+(4) (a) The Minister may, after consultation with the Minister for Foreign Affairs, by order designate a country as a safe country of origin.
+
+(b) In deciding whether to make an order under paragraph (a), the Minister shall have regard to the following matters:
+
+(i) whether the country is a party to and generally complies with obligations under the Convention Against Torture, the International Covenant on Civil and Political Rights, and, where appropriate, the European Convention on Human Rights,
+
+(ii) whether the country has a democratic political system and an independent judiciary,
+
+(iii) whether the country is governed by the rule of law.
+
+(c) The Minister may by order amend or revoke an order under this subsection including an order under this paragraph.
+
+(5) In this section—
+
+‘the Convention against Torture’ means the Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment adopted by resolution 39/46 of the General Assembly of the United Nations on 10 December 1984;
+
+‘the European Convention on Human Rights’ means the Convention for the Protection of Human Rights and Fundamental Freedoms done at Rome on the 4th day of November, 1950;
+
+‘the International Covenant on Civil and Political Rights’ means the International Covenant on Civil and Political Rights adopted by Resolution 2200A (XXI) of the General Assembly of the United Nations on 16 December 1966.”,
+
+(h) by the substitution of the following section for section 13:
+
+“Recommendations
+
+13.—(1) Where the Commissioner carries out an investigation and reports of under section 11 he or she shall, as soon as may be, prepare a
+
+Commissioner. report in writing of the results of the investigation and such report shall refer to the matters raised by the applicant in the interview under section 11 and to such other matters as the Commissioner considers appropriate and shall set out the findings of the Commissioner together with his or her recommendation whether the applicant concerned should or, as the case may be, should not be declared to be a refugee.
+
+(2) Where an application for a declaration is withdrawn or deemed to be withdrawn pursuant to section 9 or 11, then—
+
+(a) any investigation under section 11 shall be terminated,
+
+(b) the report referred to in subsection (1) shall state that the application has been withdrawn or deemed to be withdrawn, as the case may be, and shall include a recommendation that the applicant concerned should not be declared to be a refugee, and
+
+(c) no appeal under section 16 shall lie against a recommendation under paragraph (b).
+
+(3) The Commissioner shall, if so requested by the High Commissioner, notify him or her of the making of the recommendation under subsection (1).
+
+(4) (a) The Commissioner shall send a copy of a report under subsection (1) to the applicant concerned, to his or her solicitor (if known) and, if so requested by the High Commissioner, to him or her.
+
+(b) Where a report under subsection (1) (other than a report to which subsection (2) applies) includes a recommendation that the applicant should not be declared to be a refugee, the Commissioner shall, subject to subsections (5) and (8), send a notice in writing to the applicant stating that the applicant may appeal to the Tribunal under section 16 against the recommendation and may request an oral hearing within 15 working days from the sending of the notice.
+
+(c) Where the applicant has not appealed against the recommendation referred to in paragraph (b) within 15 working days after the sending of a notice under that paragraph, the Commissioner shall, as soon as may be, furnish the report under subsection (1) to the Minister.
+
+(d) Where a report under subsection (1) includes a recommendation that the applicant should be declared to be a refugee, the Commissioner shall, as soon as may be, furnish the report to the Minister.
+
+(e) Where a report under subsection (1) includes a recommendation pursuant to subsection (2) that the applicant should not be declared to be a refugee, the Commissioner shall, as soon as may be, furnish the report to the Minister.
+
+(5) Where a report under subsection (1) includes a recommendation that the applicant should not be declared to be a refugee and includes among the findings of the Commissioner any of the findings specified in subsection (6), then the following shall, subject to subsection (8), apply:
+
+(a) the notice under paragraph (b) of subsection (4) shall, notwithstanding that subsection, state that the applicant may appeal to the Tribunal under section 16 against the recommendation within 10 working days from the sending of the notice, and that any such appeal will be determined without an oral hearing;
+
+(b) notwithstanding paragraph (c) of subsection (4), where the applicant has not appealed against the recommendation within 10 working days after the sending of a notice under paragraph (b) of that subsection, the Commissioner shall, as soon as may be, furnish the report under subsection (1) to the Minister.
+
+(6) The findings referred to in subsection (5) are—
+
+(a) that the application showed either no basis or a minimal basis for the contention that the applicant is a refugee;
+
+(b) that the applicant made statements or provided information in support of the application of such a false, contradictory, misleading or incomplete nature as to lead to the conclusion that the application is manifestly unfounded;
+
+(c) that the applicant, without reasonable cause, failed to make an application as soon as reasonably practicable after arrival in the State;
+
+(d) the applicant had lodged a prior application for asylum in another state party to the Geneva Convention (whether or not that application had been determined, granted or rejected); or
+
+(e) the applicant is a national of, or has a right of residence in, a safe country of origin for the time being so designated by order under section 12(4).
+
+(7) (a) The Minister may give a direction in writing to the Commissioner requiring him or her to investigate under section 11 such class of applications as may be specified in the direction in accordance with the procedures referred to in subsection (8) and the Commissioner shall comply with a direction given to him or her under this subsection.
+
+(b) The Minister may by a direction revoke or alter a direction given by him or her under paragraph (a).
+
+(8) Where an application referred to in subsection (7) has been investigated under section 11 and the relevant report under subsection (1) includes a recommendation that the applicant should not be declared to be a refugee and contains among the findings of the Commissioner any of the findings specified in subsection (6), then the following shall, subject to subsection (9), apply:
+
+(a) the notice under paragraph (b) of subsection (4) shall, notwithstanding that subsection, state that the applicant may appeal to the Tribunal under section 16 against the recommendation within 4 working days from the sending of the notice, and that any such appeal will be determined without an oral hearing,
+
+(b) notwithstanding paragraph (c) of subsection (4), where the applicant has not appealed against the recommendation within 4 working days after the sending of a notice under paragraph (b) of that subsection, the Commissioner shall, as soon as may be, furnish the report under subsection (1) to the Minister.
+
+(9) (a) Where an application is to be investigated in accordance with the procedures referred to in subsection (8), the Commissioner shall notify the applicant accordingly in writing and shall send a copy of the notice to his or her solicitor (if known) and, if so requested by the High Commissioner, to him or her.
+
+(b) Paragraphs (a) and (b) of subsection (8) shall not apply to such an application unless the applicant concerned and his or her solicitor (if known) have been notified in accordance with paragraph (a).
+
+(10) Where a report under subsection (1) (other than a report to which subsection (2) applies) includes a recommendation that the applicant should not be declared to be a refugee, then, subject to subsection (11), the Commissioner shall furnish the applicant concerned and his or her solicitor (if known) and the High Commissioner, whenever so requested by him or her, with copies of any reports, documents or representations in writing submitted to the Commissioner under section 11 and an indication in writing of the nature and source of any other information relating to the application which has come to the notice of the Commissioner in the course of an investigation by him or her under that section.
+
+(11) Where information has been supplied to the Commissioner, a Department of State or another branch or office of the public service by or on behalf of the government of another state in accordance with an undertaking (express or implied) that the information would be kept confidential, the information shall not, without the consent of the other state, be produced or further disclosed otherwise than in accordance with the undertaking.”,
+
+(i) in section 16, by—
+
+(i) the substitution of the following subsection for subsection (1):
+
+“(1) The applicant may appeal in the prescribed manner against a recommendation of the Commissioner under section 13 (other than a recommendation pursuant to section 13(2)).”,
+
+(ii) the substitution of the following subsection for subsection (2):
+
+“(2) The Tribunal may—
+
+(a) affirm a recommendation of the Commissioner, or
+
+(b) set aside a recommendation of the Commissioner and recommend that the applicant should be declared to be a refugee.”,
+
+(iii) the substitution of the following for subsection (2A) (inserted by the Immigration Act 1999):
+
+“(2A) Where an applicant fails, without reasonable cause, to attend an oral hearing under subsection (10), then unless the applicant, not later than 3 working days from the date fixed for the oral hearing, furnishes the Tribunal with an explanation for not attending the hearing which the Tribunal considers reasonable in the circumstances his or her appeal shall be deemed to be withdrawn.
+
+(2B) Where—
+
+(a) it appears to the Tribunal that an applicant is failing in his or her duty to co-operate with the Commissioner or to furnish information relevant to his or her appeal, or
+
+(b) the Minister notifies the Tribunal that he or she is of opinion that the applicant is in breach of subsection (4)(a), (4A) or (5) of section 9, the Tribunal shall send to the applicant a notice in writing inviting the applicant to indicate in writing (within 15 working days of the sending of the notice) whether he or she wishes to continue with his or her appeal and, if an applicant does not furnish an indication within the time specified in the notice, his or her appeal shall be deemed to be withdrawn.”,
+
+(iv) the substitution of the following subsection for subsection (3):
+
+“(3) An appeal under this section shall be brought by notice in writing within the period specified in section 13(4)(b) or 13(5)(a) or 13(8)(a), as appropriate, and the notice shall specify the grounds of appeal and, except in a case to which section 13(5) or 13(8) applies, shall indicate whether the applicant wishes the Tribunal to hold an oral hearing for the purpose of his or her appeal.”,
+
+(v) the deletion in subsection (5) of “or 12”,
+
+(vi) the substitution of the following subsection for subsection 9:
+
+“(9) (a) An applicant may withdraw his or her appeal to the Tribunal by sending notice of withdrawal to the Tribunal and the Tribunal shall, as soon as may be, notify the Minister and the Commissioner of the withdrawal.
+
+(b) Where an appeal is deemed to be withdrawn pursuant to subsection (2A) or (2B), the Tribunal shall, as soon as may be, notify the applicant, his or her solicitor (if known), the Minister and the Commissioner of the withdrawal.”,
+
+(vii) the deletion in subsection (16)(b) of “the recommendation of the Commissioner under section 12 or, as may be appropriate,”,
+
+(viii) the insertion of the following subsection after subsection (16):
+
+“(16A) The Tribunal shall affirm a recommendation of the Commissioner unless it is satisfied, having considered the matters referred to in subsection (16), that the applicant is a refugee.”,
+
+(ix) the deletion in subsection (17)(b) of “(other than a decision of the Tribunal under subsection (2)(d))”, and
+
+(x) the insertion of the following subsection after subsection (17):
+
+“(18) The Tribunal shall ensure that an appeal against a recommendation of the Commissioner to which section 13(5) or 13(8) applies shall be dealt with as soon as may be and, if necessary, before any other application for a declaration.”,
+
+(j) in section 17 (as amended by the Immigration Act 1999), by the insertion of the following subsection after subsection (1):
+
+“(1A) Where an application is withdrawn or (other than pursuant to section 22) deemed to be withdrawn, or an appeal under section 16 is withdrawn or deemed to be withdrawn, the Minister shall refuse to give the applicant a declaration.”,
+
+(k) in section 19, by—
+
+(i) the substitution of the following subsection for subsection (2):
+
+“(2) Subject to sections 9(15) and 26, no matter likely to lead members of the public to identify a person as an applicant under this Act shall be published in a written publication available to the public or be broadcast without the consent of that person.”, and
+
+(ii) by the insertion of the following subsection after subsection (4):
+
+(4A) (a) The chairperson of the Tribunal may, at his or her discretion, decide not to publish (other than to the persons referred to in section 16(17)) a decision of the Tribunal which in his or her opinion is not of legal importance.
+
+(b) Any decision published shall exclude any matters which would tend to identify a person as an applicant under the Act or otherwise breach the requirement that the identity of applicants be kept confidential.
+
+(l) the substitution of the following section for section 22:
+
+“Dublin
+
+22.—(1) The Minister may make such orders as appear to him or her
+
+Convention, to be necessary or expedient for the purpose of giving effect to— agreements
+
+(a) the Dublin Convention, with safe third
+
+(b) Council Regulation (EC) No. 343/2003, countries etc.
+
+(c) the Agreement between the European Community and the Republic of Iceland and the Kingdom of Norway concerning the criteria and mechanisms for establishing the State responsible for examining a request for asylum lodged in a Member State or in Iceland or Norway done at Brussels on the 19th day of January 2001,
+
+(d) any agreement of the kind referred to in subsection (5).
+
+(2) Without prejudice to the generality of subsection (1), an order under this section may—
+
+(a) specify the circumstances and procedure by reference to which an application for asylum—
+
+(i) shall be examined in the State,
+
+(ii) shall be transferred to a convention country for examination or to a safe third country, or
+
+(iii) shall be accepted for examination in the State pursuant to a request made by a convention country in which the application for asylum was lodged or pursuant to an agreement to which subsection (1)(d) refers, and the powers referred to in this subsection shall be exercised by whichever of the persons mentioned in subsection (4)(a) is specified in the order,
+
+(b) provide for an appeal against a determination to transfer an application for asylum to a convention country or a safe third country and for the procedure in relation to such an appeal,
+
+(c) provide, where the order specifies that the making of an appeal shall not suspend the transfer of the application or of the applicant to the convention country or the safe third country, that such transfer is without prejudice to the appeal decision,
+
+(d) require that an application for asylum shall not be investigated by the Commissioner until it has been decided whether a convention country is responsible for examining the application or whether the application should be transferred to a safe third country,
+
+(e) require that an application for asylum which is being investigated by the Commissioner shall be transferred to a convention country for examination,
+
+(f) provide that where an application has been transferred to a convention country for examination or to a safe third country the person concerned shall go to that convention country or to that safe third country,
+
+(g) provide for the transit through the State of a person whose application for asylum has been transferred from a convention country to another convention country for examination,
+
+(h) provide for the investigation of an application for asylum by the Commissioner notwithstanding that a convention country has responsibility for examining the application,
+
+(i) specify the measures to be taken for the purpose of the removal of a person whose application has been transferred to a convention country or a safe third country from the State to that convention country or safe third country including, where necessary, the temporary detention or restraint of the person, and
+
+(j) provide for the temporary detention (for a period not exceeding 48 hours) of a person who, having arrived in the State directly from a convention country or a safe third country, makes an application for asylum until a decision on the matters at paragraph (a) has been made.
+
+(3) An order under this section may make provision for such consequential, incidental, ancillary and supplementary matters as the Minister considers necessary or expedient.
+
+(4) (a) The persons referred to in subsection (2)(a) are the Minister, the Commissioner, and an immigration officer.
+
+(b) The Tribunal shall consider and decide appeals under subsection (2)(b).
+
+(5) (a) The Minister may, after consultation with the Minister for Foreign Affairs, by order designate a country as a safe third country (referred to in this section as “a safe third county”).
+
+(b) In deciding whether to make an order under paragraph (a), the Minister shall have regard to the following matters:
+
+(i) whether the country is party to and complies generally with its obligations under the Geneva Convention, the Convention against Torture (within the meaning of section 12) and the International Convenant on Civil and Political Rights (within the meaning aforesaid);
+
+(ii) whether the country has a democratic political system and an independent judiciary;
+
+(iii) whether the country is governed by the rule of law; and that country and the State are parties to an agreement which contains provisions providing for—
+
+(I) the prompt transfer to that country of an application for asylum made in the State by a person who has arrived from that country, and
+
+(II) the prompt transfer to the State of an application for asylum made in that country by a person who has arrived in that country from the State.
+
+(c) The Minister may, after consultation with the Minister for Foreign Affairs, by order amend or revoke an order under this subsection including an order under this paragraph.
+
+(6) (a) The Minister for Foreign Affairs may by order designate the countries which are parties to the Dublin Convention or to the Agreement referred to in subsection (1)(c) or the countries to which the Council Regulation referred to in subsection (1)(b) applies.
+
+(b) The Minister for Foreign Affairs may by order amend or revoke an order under this subsection including an order under this paragraph.
+
+(7) The Minister may by order amend or revoke an order under this section (other than an order under subsection (6)) including an order under this subsection.
+
+(8) Where an application has been transferred to a convention country for examination or to a safe third country, the application shall be deemed to be withdrawn.
+
+(9) (a) The Minister shall, pursuant to Article 14 of the Dublin Convention or the corresponding provision of the agreement referred to in subsection (1)(c), communicate information to convention countries or to any relevant country pursuant to that agreement in relation to matters referred to in that Article.
+
+(b) The Commissioner shall, pursuant to Article 15 of the Dublin Convention or the corresponding provision of the agreement referred to in subsection (1)(c), communicate information to convention countries or to any relevant country pursuant to that agreement in relation to matters referred to in that Article: provided that information concerning the grounds on which a particular application for asylum is based or the grounds on which a decision concerning such an application is based shall not be communicated under this section without the prior consent of the person the subject of the application.
+
+(10) The Minister and the Commissioner may communicate to a safe third country such information relating to an application for asylum or to the person making such application (including personal information) as may be necessary for giving effect to an agreement to which subsection (1)(d) refers: provided that information concerning the grounds on which a particular application for asylum is based or the grounds on which a decision concerning such an application is based shall not be communicated under this section without the prior consent of the person the subject of the application.
+
+(11) In this section, ‘an application for asylum’ means a request whereby a person seeks the protection of the State or a convention country or a safe third country by claiming refugee status under the Geneva Convention and includes an application for a declaration under this Act.”,
+
+(m) in section 24, by the insertion of the following subsection after subsection (6):
+
+“(7) (a) The Minister may, after consultation with the Minister for Foreign Affairs, enter into agreements with the High Commissioner for the reception and resettlement in the State of refugees.”,
+
+(n) by the insertion after section 28 of the following section:
+
+“Transitional.
+
+28A.—(1) Where an application has been made under section 8 before the commencement of section 7 of the Immigration Act 2003—
+
+(a) in case, before such commencement, the applicant has been interviewed under section 11, then, upon such commencement, this Act shall apply to the application as if the said section 7 had not been commenced,
+
+(b) in any other case, then, upon such commencement, this Act, as amended by the said section 7, shall apply to the application.
+
+(2) The Commissioner shall give or cause to be given to each applicant to whose application subsection (1)(b) applies, before he or she is interviewed under section 11, a statement in writing giving a short explanation of the amendments made by the said section 7.”,
+
+(o) in the First Schedule (inserted by the Immigration Act 1999), by the insertion of the following paragraphs after paragraph 9:
+
+“10. (1) Where the Commissioner is for any reason temporarily unable to act as the Commissioner or the office of the Commissioner is vacant, the Minister shall appoint a person to be the Commissioner for the duration of the inability or until an appointment is made in accordance with paragraph 1, as the case may be, and the person so appointed may perform all the functions conferred on the Commissioner by this Act.
+
+(2) A person appointed under this paragraph shall hold office upon such terms and conditions as may be determined by the Minister after consultation with the Minister for Finance.
+
+11. The Commissioner may, if he or she considers it appropriate to do so in the interest of the fair and efficient discharge of the business of his or her office, determine the order in which different classes of such business shall be discharged having regard to the following matters:
+
+(a) the grounds of the applications under section 8,
+
+(b) the country of origin of the applicants,
+
+(c) any family relationship between applicants,
+
+(d) the ages of the applicants and, in particular, of persons under the age of 18 years in respect of whom applications are made,
+
+(e) the dates on which applications were made.”,
+
+(p) in the Second Schedule (inserted by the Immigration Act 1999), by—
+
+(i) the substitution of the following for paragraph 8:
+
+“8. (1) If a member of the Tribunal dies, resigns, becomes disqualified or is removed from office, the Minister may appoint another person to be a member of the Tribunal to fill the casual vacancy so occasioned and the person appointed shall be appointed in the same manner of the Tribunal member who occasioned the vacancy.
+
+(2) Where the chairperson is for any reason temporarily unable to act as the chairperson, or the office of the chairperson is vacant, the Minister shall appoint a person to be the chairperson for the duration of the inability or until an appointment is made under paragraph 2, as appropriate, and the person so appointed may perform all the functions conferred on the chairperson by this Act.
+
+(3) A person appointed under this paragraph shall hold office upon such terms and conditions as may be determined by the Minister after consultation with the Minister for Finance.”, and
+
+(ii) the substitution of the following for paragraph 13:
+
+“13. The chairperson shall assign to each division the business to be transacted by it.
+
+14. The chairperson shall endeavour to ensure that the business of the Tribunal is managed efficiently and that the business assigned to each division is disposed of as expeditiously as may be consistent with fairness and natural justice.
+
+15. The chairperson may, if he or she considers it appropriate to do so in the interest of the fair and efficient discharge of the business of the Tribunal, assign classes of business to each division having regard to the following matters:
+
+(a) the grounds of the appeals set out in the notices of appeal,
+
+(b) the country of origin of applicants,
+
+(c) any family relationship between applicants,
+
+(d) the ages of the applicants and, in particular, of persons under the age of 18 years in respect of whom applications are made,
+
+(e) the provision of this Act pursuant to which the appeals are made.
+
+16. The chairperson may delegate to a member of his or her staff his or her function of assigning to each division the business to be transacted by it.
+
+17. The chairperson may from time to time issue guidelines or guidance notes generally on the practical application and operation of the provisions, or any particular provisions, of this Act and on developments in the law relating to refugees.
+
+18. The chairperson may from time to time convene a meeting with a member or members of the Tribunal for the purpose of discussing matters relating to the discharge of the business of the Tribunal, including, in particular, such matters as the avoidance of undue divergences in the exercise by the members of their functions under section 16.
+
+19. The chairperson shall, not later than 3 months after the end of each year, submit a report in writing to the Minister of his or her activities during that year and, not later than 1 month after such submission, the Minister shall cause a copy of the report to be laid before each House of the Oireachtas.
+
+20. The chairperson may, if he or she considers it appropriate to do so, make a report in writing to the Minister in relation to any function performed by him or her under this Act or any matter relating to the operation of this Act.”.
