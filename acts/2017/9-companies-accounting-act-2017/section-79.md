@@ -1,0 +1,5 @@
+Non application of Part 26 to certain ULCs.
+
+79. The Principal Act is amended by the insertion of the following section after section 1274:
+
+“1274A. Other than in the case of a designated ULC (within the meaning of section 1274), Part 26 shall not apply to an ULC.”.
