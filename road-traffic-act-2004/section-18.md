@@ -1,0 +1,3 @@
+Outsourcing of fixed charge functions from Garda Síochána.
+
+18.—...
