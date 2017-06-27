@@ -1,0 +1,3 @@
+Search warrants.
+
+126A.— If a judge of the District Court is satisfied on the sworn information of an authorised officer that there are reasonable grounds for suspecting that information required by an authorised officer for the purpose of section 125(a) or (c) is held at any premises, place or vehicle, the judge may issue a warrant authorising the authorised officer, accompanied if the authorised officer considers it necessary by other authorised officers, at any time or times within one month from the date of issue of the warrant, on production of the warrant if so required, to enter, if need be by reasonable force, the premises, place or vehicle and exercise all or any of the powers conferred on an authorised officer under section 126.
