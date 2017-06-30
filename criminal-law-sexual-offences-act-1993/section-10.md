@@ -1,0 +1,7 @@
+Living on earnings of prostitution.
+
+10.—(1) A person who knowingly lives in whole or in part on the earnings of the prostitution of another person and aids and abets that prostitution shall be guilty of an offence and shall be liable on summary conviction to a class A fine or imprisonment for a term not exceeding 12 months or both.
+
+(2) If a judge of the District Court is satisfied on the sworn information of a member of the Garda Síochána not below the rank of sergeant that there are reasonable grounds for suspecting that any premises or any part of a premises is used by a person for the purposes of prostitution, and that any person residing in or frequenting the premises or part of the premises is living in whole or in part on the earnings of the prostitution of another person, he may issue a warrant under his hand authorising any member of the Garda Síochána, accompanied by other members of the Garda Síochána, at any time or times within one month from the date of issue of the warrant, on production if so requested of the warrant, to enter, if need be by force, and search the premises and arrest that person.
+
+(3) A person who obstructs or interferes with a member of the Garda Síochána acting under the authority of a warrant under subsection (2) shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,000 or to imprisonment for a term not exceeding 6 months or to both.
