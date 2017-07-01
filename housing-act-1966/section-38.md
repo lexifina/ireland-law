@@ -1,0 +1,3 @@
+Making of grants by Minister notwithstanding non-compliance with statute or statutory instrument.
+
+38.—The Minister may, with the consent of the Minister for Finance, make a grant under this Act notwithstanding that a requirement of a statute or a statutory instrument has not been complied with in relation to the grant if a certificate of approval in respect of the relevant premises has been issued by an officer of the Minister and the Minister is satisfied that the applicant for the grant has acted in good faith in proceeding to erect, purchase, reconstruct, improve, convert or repair the premises.

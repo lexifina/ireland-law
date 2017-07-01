@@ -1,0 +1,3 @@
+Further grants by Minister for reconstruction of houses.
+
+22.—...

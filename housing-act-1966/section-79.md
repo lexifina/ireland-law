@@ -1,0 +1,5 @@
+Notice to treat.
+
+79.—(1) Where a compulsory purchase order made and confirmed under this Act has become operative and the housing authority decide to acquire land to which the order relates, the authority shall serve a notice (in this Part referred to as a notice to treat) on every owner, lessee and occupier of the land ... stating that they are willing to treat for the purchase of the several interests in the land and requiring each such owner, lessee and occupier to state within a specified period (not being less than one month from the date of service of the notice to treat) the exact nature of the interest in respect of which compensation is claimed by him and details of the compensation claimed, and, if the authority so require, distinguishing separate amounts of the compensation in such manner as may be specified in the notice to treat and showing how each such amount is calculated.
+
+(2) A notice to treat served under subsection (1) of this section shall be deemed to be a notice to treat for the purposes of the Acquisition of Land (Assessment of Compensation) Act, 1919.

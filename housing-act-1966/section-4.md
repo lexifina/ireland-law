@@ -1,0 +1,5 @@
+Obligation to give information to housing authority.
+
+4.—(1) A housing authority may for any purposes connected with this Act, by notice in writing require the occupier of any land or any person receiving, whether for himself or for another, rent out of any land to state in writing to the authority within a specified period ending not less than twenty-one days after being so required, particulars of the estate, interest or right by virtue of which he occupies such land or receives such rent, as the case may be, and the name and address (so far as they are known to him) of every person who to his knowledge has any estate or interest in or right over or in respect of such land.
+
+(2) Any person who is required under this section to state any matter or thing and either fails to state the matter or thing within the period specified under this section, or when stating such matter or thing makes a statement in writing which to his knowledge is false or misleading in a material respect shall be guilty of an offence under the section and shall be liable on summary conviction thereof to a fine not exceeding twenty-five pounds.

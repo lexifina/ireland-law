@@ -1,0 +1,3 @@
+Restriction of section 13 of Finance (No. 2) Act, 1947, and section 24 of Finance Act, 1949.
+
+52.—...

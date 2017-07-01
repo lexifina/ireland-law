@@ -1,0 +1,3 @@
+Power of housing authority to provide building sites.
+
+57.—A housing authority may provide sites for building purposes on land acquired or appropriated by them for purposes of this Act and in connection with the provision of such sites may construct roads and lay out open spaces on the land and provide such other services and carry out such other works as may be necessary for or incidental to the development of the land for building purposes, including works or services necessary for or incidental to the development of the land for places of worship, factories, schools, shops, offices, playgrounds, places of recreation, parks and open spaces.
