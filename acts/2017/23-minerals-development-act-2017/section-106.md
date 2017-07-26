@@ -1,0 +1,5 @@
+Extinguishment of right to compensation for ancillary underground rights.
+
+106. (1) A person’s right to compensation under this Chapter in respect of a mining licence referred to in section 105 is extinguished if the claim for compensation is not submitted to the Mining Board within 12 months, or such longer period allowed under subsection (2), of the first publication in Iris Oifigiúil of the notice referred to in section 105(b) or, if the notice was delivered to the person under section 105(c), after the date that the notice was delivered.
+
+(2) The Minister may, on the written application of a claimant, extend the period referred to in subsection (1) if the Minister is satisfied that good reasons exist for the failure of the claimant to submit a claim for compensation within the initial 12 month period, but any such extension shall not result in the period being extended to more than 24 months after the first publication in Iris Oifigiúil of the notice or from the date that the notice was delivered, as the case may be.

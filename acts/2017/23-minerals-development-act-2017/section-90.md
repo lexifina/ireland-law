@@ -1,0 +1,5 @@
+Extinguishment of right to compensation in respect of private minerals.
+
+90. (1) A person’s right to compensation in relation to a mining licence referred to in section 86 is extinguished if the claim for compensation is not submitted to the Minister within 12 months, or such longer period allowed under subsection (2), after the first publication in Iris Oifigiúil of the notice referred to in section 88(b) or, if the notice was delivered to the person under paragraph (c) of section 88 after the date on which the notice was delivered.
+
+(2) The Minister may, on the written application of a claimant, extend the 12 month period referred to in subsection (1) up to an additional 12 months if the Minister is satisfied that good reasons exist for the failure of the claimant to submit a claim for compensation within the initial 12 month period, provided that any such extension shall not result in the period being extended to more than 24 months after the first publication in Iris Oifigiúil of the notice, or the date on which the notice was delivered, as the case may be.
