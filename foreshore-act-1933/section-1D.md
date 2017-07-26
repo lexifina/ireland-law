@@ -1,0 +1,1 @@
+1D.—Subject to this Act, a word or expression that is used in this Act and that is also used in the Council Directive has, unless the context otherwise requires, the same meaning in this Act as it has in the Council Directive.
