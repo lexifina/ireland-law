@@ -1,3 +1,3 @@
-Transfer of pension rights to EC institutions scheme.
+Transfer of pension rights to EC institutions scheme. (Repealed)
 
-5.—[...]
+5.— ...
