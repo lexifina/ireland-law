@@ -4,7 +4,7 @@ Schedule 3 — amendments.
 
 (a) in Part 2—
 
-(i) [...]
+(i) ...
 
 (ii) in Rule 1(2)(b)(iii) (as amended by section 4 and Schedule 1 of the Act of 2006), by deleting “in the case of jobseeker’s allowance,” and
 
@@ -34,7 +34,7 @@ Reference No.
 
 (a) the first €20,000 of the capital value of the property shall be excluded;
 
-(b) the weekly value of so much of the capital value of the property as exceeds €20,000 Reference No.
+(b) the weekly value of so much of the capital value of the property as exceeds €20,000
 
 (c) the weekly value of so much of the capital value of the property as exceeds €30,000
 
