@@ -1,0 +1,3 @@
+F33[Circumstances in which person to be informed of destruction of fingerprint, palm print or photograph.
+
+8D.— If, in relation to a fingerprint, palm print or photograph taken from or of a person under section 6 or 6A, the retention period under section 8 is extended on one or more occasions under section 8A, the Commissioner shall, upon the expiration of that period (as so extended), cause the person from or of whom the fingerprint, palm print or photograph was taken to be informed by notice in writing as soon as may be after the fingerprint, palm print or photograph has been destroyed of its destruction.
