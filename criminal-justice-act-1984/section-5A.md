@@ -1,0 +1,3 @@
+Questioning of persons detained under section 4 not generally permitted pending access to legal advice.
+
+5A.—...
