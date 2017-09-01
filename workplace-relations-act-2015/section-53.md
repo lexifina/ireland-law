@@ -1,0 +1,5 @@
+Certain decisions and recommendations of rights commissioners appealable to Labour Court under section 44
+
+53. (1) Where a decision or recommendation in relation to a complaint or dispute to which subsection (2) or (4) of section 8 applies was made by a rights commissioner before the commencement of this Part and no appeal was brought from the decision or recommendation before such commencement, the decision or recommendation shall be appealable to the Labour Court under section 44 as if the decision or recommendation were a decision of an adjudication officer under section 41.
+
+(2) Where a decision or recommendation in relation to a complaint or dispute to which subsection (2) or (4) of section 8 applies was not made before the commencement of this Part, any decision or recommendation made by a rights commissioner in relation to the complaint or dispute after such commencement shall be appealable to the Labour Court under section 44 as if the decision were a decision of an adjudication officer under section 41.
