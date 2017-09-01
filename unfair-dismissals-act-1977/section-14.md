@@ -1,0 +1,9 @@
+Notice to employees of procedure for, and grounds of, dismissal.
+
+14.—(1) An employer shall, not later than 28 days after he enters into a contract of employment with an employee, give to the employee a notice in writing setting out the procedure which the employer will observe before and for the purpose of dismissing the employee.
+
+(2) Where there is an alteration in the procedure referred to in subsection (1) of this section, the employer concerned shall, within 28 days after the alteration takes effect, give to any employee concerned a notice in writing setting out the procedure as so altered.
+
+(3) The reference in subsection (1) of this section to a procedure is a reference to a procedure that has been agreed upon by or on behalf of the employer concerned and by the employee concerned or a trade union or an excepted body within the meaning of the Trade Union Act, 1941, representing him or has been established by the custom and practice of the employment concerned, and the references in subsection (2) of this section to an alteration in the said procedure are references to an alteration that has been agreed upon by the employer concerned or a person representing him and by the employee concerned or a trade union, or an excepted body, within the meaning aforesaid, representing him.
+
+(4) Where an employee is dismissed, the employer shall, if so requested, furnish to the employee within 14 days of the request, particulars in writing of the principal grounds for dismissal, but, in determining for the purposes of this Act whether, in accordance with the provisions of this Act, the dismissal was an unfair dismissal, there may be taken into account any other grounds which, subject to the provisions of this Act and having regard to all the circumstances, are substantial grounds justifying the dismissal.

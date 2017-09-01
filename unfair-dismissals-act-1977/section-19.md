@@ -1,0 +1,3 @@
+Repayment of moneys paid under Redundancy Payments Acts, 1967 and 1973.
+
+19.—Where an employee is re-instated or re-engaged by an employer in pursuance of a determination or order under this Act in relation to the dismissal of the employee by the employer, any payments made under the Redundancy Payments Acts, 1967 and 1973, in relation to the dismissal shall be repaid by the person to whom they were made to the person by whom they were made and may be recovered by the latter from the former as a simple contract debt in any court of competent jurisdiction and any moneys due and owing to any person under those Acts in relation to the dismissal shall cease to be due or owing.
