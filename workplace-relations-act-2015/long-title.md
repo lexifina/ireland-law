@@ -1,0 +1,5 @@
+An Act to make provision as respects the resolution, mediation and adjudication of disputes and complaints relating to contraventions of, or entitlements under, certain enactments governing the employment relationship between employers and employees; for that purpose, to provide for the establishment of a body to be known as the Workplace Relations Commission; to provide for the dissolution of the Labour Relations Commission and the transfer of its functions to the aforementioned body; to provide for the dissolution of the Employment Appeals Tribunal and the transfer of its first instance functions to the aforementioned body and its appellate functions to the Labour Court; to provide for the transfer of the functions of the Director of the Equality Tribunal to the aforementioned body; to provide for the repeal of certain enactments; to provide for the amendment of certain enactments; and to provide for matters connected therewith.
+
+[20 th May, 2015]
+
+Be it enacted by the Oireachtas as follows:
