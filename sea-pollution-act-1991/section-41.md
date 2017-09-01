@@ -1,0 +1,3 @@
+Payment out of security provided for in section 40.
+
+41.—Whenever security is given by a defendant pursuant to section 40 for the payment of any fine imposed in respect of an offence under this Act and for the estimated costs of any trials, appeals or other proceedings in respect of such an offence, the court may, when the trial, appeal or other proceedings, as the case may, has or have been finally determined, if it decides that it is proper so to do, on application of the prosecutor, direct that the amount of the fine imposed in respect of the offence together with the amount of any costs awarded in respect of any trial, appeal or other proceedings, be paid to the Minister out of the security.
