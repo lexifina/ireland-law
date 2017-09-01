@@ -1,0 +1,5 @@
+Objective grounds for less favourable treatment.
+
+7.—(1) A ground shall not be regarded as an objective ground for the purposes of any provision of this Part unless it is based on considerations other than the status of the employee concerned as a fixed-term employee and the less favourable treatment which it involves for that employee (which treatment may include the renewal of a fixed-term employee's contract for a further fixed term) is for the purpose of achieving a legitimate objective of the employer and such treatment is appropriate and necessary for that purpose.
+
+(2) Where, as regards any term of his or her contract, a fixed-term employee is treated by his or her employer in a less favourable manner than a comparable permanent employee, the treatment in question shall (for the purposes of section 6(2)) be regarded as justified on objective grounds, if the terms of the fixed-term employee's contract of employment, taken as a whole, are at least as favourable as the terms of the comparable permanent employee's contract of employment.
