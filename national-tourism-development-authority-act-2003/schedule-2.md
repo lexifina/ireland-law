@@ -1,0 +1,17 @@
+SCHEDULE 2
+
+FUNCTIONS PERFORMABLE BY CONTRACTOR
+
+Enactment Provision Affected
+
+(1) (2)
+
+Tourist Traffic Act 1939 Section 24(1) (as amended by section 5(1)(i) of the Tourist Traffic Act 1957, section 2(1)(b) of the Tourist Traffic Act 1966, section 6(b) of the Tourist Traffic Act 1970 and section 7(1) of the Tourist Traffic Act 1983), section 26(1), section 27(1), Enactment Provision Affected
+
+(1) (2) section 27(2) other than the words “and the Board is of opinion that such premises are eligible for registration in such register,”, section 27(3)(a) and (b) other than the words “and the Board is of opinion that such premises are not eligible for registration in such register,”, section 27(4), section 29(1) (as amended by section 10(1) of the Tourist Traffic Act 1957), section 30(1) other than the words “if it is of the opinion that such premises have ceased to be eligible for registration in such register,”, section 30(2) other than the words “and the Board is of opinion that such premises have ceased to be eligible for registration in such register”, section 30(3) other than the words “and the Board, as a result of such inspection, becomes of the opinion that such premises has not ceased to be eligible for registration in such register,”, section 30(4)(a) and (b) (as amended by section 28 of the Tourist Traffic Act 1952) other than the words “and the Board, notwithstanding such inspection, remains of opinion that such premises have not ceased to be eligible for registration in such register,”, section 31(1), (2) and (3)(b) and (d) (inserted by section 30 of the Tourist Traffic Act 1952), section 32, section 39(1) other than the words “in such manner as it thinks proper”, section 39(2) other than the words “if it so thinks proper”, section 40(1)(b) and (2)(a) and (b), section 44(1), (3) and (5), section 45 (as amended by section 5(iv) of the Tourist Traffic Act 1957, section 2(1)(f) of the Tourist Traffic Act 1966, section 6(e) of the Tourist Traffic Act 1970 and section 7(3) of the Tourist Traffic Act 1983).
+
+Tourist Traffic Act 1952 Section 5(2)(a) (as amended by section 5(2) of the Tourist Traffic Act 1957, section 2(2) of the Tourist Traffic Act 1966, section 5 of the Tourist Traffic Act 1970 and section 7(5) of the Tourist Traffic Act 1983), section 26, section 27 other than the words “and at the discretion of the Board,”, Enactment Provision Affected
+
+(1) (2) section 32(2) other than the words “the Board” where it first occurs and “is of opinion that such premises have ceased to be eligible for registration”, section 32(3)(a) and (b) other than the words “the Board remains of opinion that such premises have ceased to be eligible for registration”.
+
+Tourist Traffic Act 1957 Section 6 and section 7.
