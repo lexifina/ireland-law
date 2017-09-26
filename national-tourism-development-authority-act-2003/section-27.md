@@ -1,0 +1,5 @@
+Accounts and audits.
+
+27.—(1) The Authority shall keep in such form and in respect of such accounting periods as may be approved by the Minister, with the consent of the Minister for Finance, all proper and usual accounts of moneys received or expended by it and, in particular, shall keep in such form as aforesaid all such special accounts as the Minister may, with the consent of the Minister for Finance, or at his or her request shall, from time to time direct.
+
+(2) Accounts kept in pursuance of this section shall be submitted not later than 3 months after the end of the accounting period to which they relate by the Authority to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the accounts and such other accounts (if any) kept pursuant to this section as the Minister, after consultation with the Minister for Finance, may direct, and a copy of the report of the Comptroller and Auditor General on the accounts shall be presented to the Minister who shall cause copies thereof to be laid before each House of the Oireachtas.
