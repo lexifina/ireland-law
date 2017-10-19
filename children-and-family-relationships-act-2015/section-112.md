@@ -1,0 +1,3 @@
+Amendment of section 30 of Principal Act
+
+112. ...
