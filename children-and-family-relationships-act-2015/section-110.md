@@ -1,0 +1,3 @@
+Amendment of section 20 of Principal Act
+
+110. ...
