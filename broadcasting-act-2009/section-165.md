@@ -1,0 +1,3 @@
+Broadcasters’ duties with respect to Member State events.
+
+165.— Where another Member State has designated an event as being of major importance to society in that Member State and the European Commission has communicated the measures taken by that Member State in accordance with Article 3j.2 of the Council Directive, no broadcaster under the jurisdiction of the State who acquires exclusive rights to the designated event shall exercise the exclusive rights in such a way that a substantial portion of the public in that Member State is deprived of the possibility of following the events in accordance with the measures taken.

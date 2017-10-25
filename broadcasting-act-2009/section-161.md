@@ -1,0 +1,3 @@
+Application.
+
+161.— This Part applies to a designated event which is designated, before or after 22 April 2003, whether or not any agreement or arrangement has been entered into between the event organiser and a broadcaster in respect of the acquisition by the broadcaster of rights to the event, and where such an agreement or arrangement has been entered into before 22 April 2003, in respect of those rights, it was entered into after the publication of the Council Directive concerning an event which takes place after 13 November 1999 (being the date Article 3j of the Council Directive was given effect to by this Part).
