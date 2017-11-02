@@ -1,0 +1,3 @@
+General gift of realty or personalty to include property over which testator has general power of appointment.
+
+93.—A general devise of land shall be construed to include any land which the testator may have power to appoint in any manner he may think proper, and shall operate as an execution of such power, unless a contrary intention appears from the will; and in like manner a general bequest of the personal estate (other than land) of the testator shall be construed to include any such estate which he may have power to appoint in any manner he may think proper, and shall operate as an execution of such power, unless a contrary intention appears from the will.

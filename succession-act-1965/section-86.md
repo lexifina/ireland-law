@@ -1,0 +1,3 @@
+Alterations in will after execution.
+
+86.—An obliteration, interlineation, or other alteration made in a will after execution shall not be valid or have any effect, unless such alteration is executed as is required for the execution of the will; but the will, with such alteration as part thereof, shall be deemed to be duly executed if the signature of the testator and the signature of each witness is made in the margin or on some other part of the will opposite or near to such alteration, or at the foot or end of or opposite to a memorandum referring to such alteration, and written at the end of some other part of the will.

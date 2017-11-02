@@ -1,0 +1,3 @@
+Devise of estate tail not to lapse where inheritable issue survives.
+
+97.—...
