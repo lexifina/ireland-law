@@ -1,0 +1,3 @@
+Gifts to children or other issue who leave issue living at testator's death.
+
+98.—Where a person, being a child or other issue of the testator to whom any property is given (whether by a devise or bequest or by the exercise by will of any power of appointment, and whether as a gift to that person as an individual or as a member of a class) for any estate or interest not determinable at or before the death of that person, dies in the lifetime of the testator leaving issue, and any such issue of that person is living at the time of the death of the testator, the gift shall not lapse, but shall take effect as if the death of that person had happened immediately after the death of the testator, unless a contrary intention appears from the will.
