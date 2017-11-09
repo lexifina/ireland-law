@@ -1,0 +1,7 @@
+Time period for decisions on applications for felling licences
+
+18. (1) It shall be the objective of the Minister to ensure that every application under section 17 for a licence (a “felling licence application”) is determined within a period of 4 months beginning on the date of receipt by the Minister of the application.
+
+(2) Where it appears to the Minister that it would not be possible or appropriate, because of the particular circumstances of a felling licence application or because of the number of such applications which have been submitted to the Minister, to determine a felling licence application within the period referred to in subsection (1), the Minister shall, by notice in writing that is served on the applicant for the licence no later than 7 days before the expiry of the period so referred to, inform the applicant of the reasons why it would not be possible or appropriate to determine the application within that period and shall specify the date, being a date, unless an environmental impact assessment or other type of assessment or significant further information is required, that is no later than 3 months from the date of the service of the notice, before which the application shall be determined.
+
+(3) Where a notice has been served under subsection (2), the Minister shall take all such steps as are open to him or her to ensure that the application is determined before the date specified in the notice.
