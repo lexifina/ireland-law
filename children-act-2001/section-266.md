@@ -1,0 +1,3 @@
+Amendment of section 5 of Criminal Law (Rape) Act, 1981.
+
+266.—Section 5 of the Criminal Law (Rape) Act, 1981, is hereby amended by the substitution of “section 75 (which provides for the summary trial in certain cases of persons under the age of 18 years who are charged with indictable offences) of the Children Act, 2001” for “the Summary Jurisdiction over Children (Ireland) Act, 1884, as amended by section 133(6) of the Children Act, 1908, and section 28 of the Children Act, 1941 (which provides for the summary trial in certain cases of persons under the age of 17 who are charged with indictable offences)”.

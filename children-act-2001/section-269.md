@@ -1,0 +1,3 @@
+Presumption and determination of age.
+
+269.—Where a person who is charged with an offence is brought before a court and it appears to the court that the person is a child the court shall make due inquiry as to the age of the person, and for that purpose shall take such evidence on oath as may be forthcoming at the hearing of the case, but an order or judgment of the court shall not be invalidated by any subsequent proof that the age of the person has not been correctly stated to the court, and the age presumed or declared by the court to be the age of the person so brought before it shall, for the purposes of this Act, be deemed to be the true age of that person.

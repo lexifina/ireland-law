@@ -1,0 +1,3 @@
+Right of appeal.
+
+265.—An appeal shall lie to the Circuit Court from an order of the Children Court or the District Court committing a child to a children detention school ....

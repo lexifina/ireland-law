@@ -1,0 +1,3 @@
+Pending proceedings.
+
+222.—Where, immediately before the commencement of section 159, the board of management or trustees of a certified reformatory school or industrial school to which on such commencement subsection (1) of that section applies, or any agent thereof acting on behalf of such a school, is a party to any proceedings pending in any court or tribunal, the name of the board of management appointed to the school under section 164 shall be substituted in those proceedings for the board of management, trustees or agent, as the case may be, and the proceedings shall not abate by reason of the substitution.
