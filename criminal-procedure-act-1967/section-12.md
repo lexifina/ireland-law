@@ -1,0 +1,3 @@
+Waiver by accused of preliminary examination.
+
+12.—(1) ...
