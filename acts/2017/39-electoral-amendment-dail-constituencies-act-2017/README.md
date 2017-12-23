@@ -1,0 +1,17 @@
+# Electoral (Amendment) (Dáil Constituencies) Act 2017
+
+No. 39 of 2017 · <https://www.irishstatutebook.ie/eli/2017/act/39/enacted/en/html>
+
+As enacted (passed 23 December 2017), from the electronic Irish Statute Book. No revised text of this Act is held here, so later amendments are not applied.
+
+| Provision | File |
+| --- | --- |
+| Number 39 of 2017 | [long-title.md](long-title.md) |
+| Interpretation. | [section-1.md](section-1.md) |
+| Number of members of Dáil Éireann. | [section-2.md](section-2.md) |
+| Constituencies. | [section-3.md](section-3.md) |
+| Number of members to be returned for a constituency. | [section-4.md](section-4.md) |
+| Amendment of section 6(2) of Electoral Act 1997. | [section-5.md](section-5.md) |
+| Repeal. | [section-6.md](section-6.md) |
+| Short title, collective citation and construction. | [section-7.md](section-7.md) |
+| SCHEDULE | [schedule.md](schedule.md) |
