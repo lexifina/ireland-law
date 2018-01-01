@@ -1,0 +1,3 @@
+Alteration of remuneration (other than basic salary) or working time of public servants.
+
+2B.—...
