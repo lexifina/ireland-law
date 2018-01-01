@@ -1,0 +1,3 @@
+Supplementary welfare allowance — reduction of weekly amount in certain circumstances. (Repealed)
+
+20.— ...

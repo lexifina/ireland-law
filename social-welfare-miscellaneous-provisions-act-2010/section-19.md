@@ -1,0 +1,3 @@
+Jobseeker’s allowance — reduction of rates in certain circumstances. (Repealed)
+
+19.— ...

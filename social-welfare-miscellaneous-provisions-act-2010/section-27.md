@@ -1,0 +1,5 @@
+## PART 3 FUNCTIONS OF MINISTER RELATING TO AN FORAS ÁISEANNA SAOTHAIR
+
+Interpretation. (Repealed)
+
+27.—...
