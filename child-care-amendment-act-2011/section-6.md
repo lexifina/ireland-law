@@ -1,0 +1,3 @@
+Amendment of section 9 of Principal Act.
+
+6.— ...

@@ -1,0 +1,3 @@
+Amendment of section 47 of Principal Act.
+
+25.—...

@@ -1,0 +1,3 @@
+Amendment of section 46 of Principal Act.
+
+24.— ...

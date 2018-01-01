@@ -1,0 +1,3 @@
+Amendment of section 45 of Principal Act.
+
+23.—...

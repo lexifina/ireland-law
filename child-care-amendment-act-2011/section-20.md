@@ -1,0 +1,3 @@
+Amendment of section 36 of Principal Act.
+
+20.—...
