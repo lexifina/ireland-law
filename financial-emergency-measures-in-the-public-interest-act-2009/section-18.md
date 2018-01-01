@@ -1,0 +1,3 @@
+Amendment of Social Welfare Consolidation Act 2005 — early childcare supplement. (Repealed)
+
+18.— (1) ...
