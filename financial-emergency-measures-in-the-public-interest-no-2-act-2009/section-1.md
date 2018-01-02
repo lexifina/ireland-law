@@ -6,7 +6,7 @@ Interpretation.
 
 “Minister” means the Minister for Finance;
 
-“public servant”, subject to section 2A (inserted by the Financial Emergency Measures in the Public Interest Act 2013), means—
+“public servant” , subject to section 2A (inserted by the Financial Emergency Measures in the Public Interest Act 2013), means—
 
 (a) a person who is employed by, or who holds any office or other position in, a public service body,
 
@@ -14,7 +14,11 @@ Interpretation.
 
 (c) a member of the European Parliament for a constituency in the State, being a member who is in receipt of the salary specified in section 2(2) of the European Parliament (Irish Constituency Members) Act 2009, ...
 
-(d) the holder of a qualifying office, but does not include the President ...);
+(d) the holder of a qualifying office,
+
+(e) a judge who was appointed to judicial office before the commencement of section 10 of the Financial Emergency Measures in the Public Interest (Amendment) Act 2011, or
+
+(f) a military judge appointed under Chapter IVC of Part V of the Defence Act 1954 (as amended by the Defence (Amendment) Act 2011), but does not include the President ...);
 
 “public service body” means—
 
