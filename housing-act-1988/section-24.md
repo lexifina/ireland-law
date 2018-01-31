@@ -1,0 +1,3 @@
+Amendment of section 3 of Act of 1979.
+
+24. —...
