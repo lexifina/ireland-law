@@ -1,0 +1,3 @@
+Amendment of Protection of Animals (Amendment) Act, 1965.
+
+29.—...
