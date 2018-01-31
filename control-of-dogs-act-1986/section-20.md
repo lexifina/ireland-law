@@ -1,0 +1,3 @@
+Amendment of Protection of Animals Act, 1911.
+
+20.—...
