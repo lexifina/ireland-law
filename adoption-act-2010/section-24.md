@@ -1,0 +1,3 @@
+Exception if child older than 7 years.
+
+24.—...
