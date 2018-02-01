@@ -1,0 +1,3 @@
+An Act to provide for the revision of the regulation of the small public service vehicle industry and for those purposes to provide for mandatory disqualification for drivers of small public service vehicles convicted of certain offences and a demerit scheme relating to drivers of small public service vehicles, to repeal the Taxi Regulation Act 2003 and section 84 of the Road Traffic Act 1961, to amend section 2 of the Metrology Act 1996, the Dublin Transport Authority Act 2008 and the Road Traffic Act 2010, and to provide for related matters. [23rd October, 2013]
+
+Be it enacted by the Oireachtas as follows:
