@@ -1,0 +1,3 @@
+Accountability for accounts of Authority.
+
+62R. The Chief Executive is the accounting officer in relation to the appropriation accounts of the Authority for the purposes of the Comptroller and Auditor General Acts 1866 to 1998.
