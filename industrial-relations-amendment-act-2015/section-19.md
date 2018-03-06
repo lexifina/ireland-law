@@ -1,0 +1,7 @@
+Adaptation of contracts of service consequential upon sectoral employment orders
+
+19. (1) A sectoral employment order shall apply, for the purposes of this section, to every worker of the class, type or group in the economic sector to which it is expressed to apply, and his or her employer, notwithstanding that such worker or employer was not a party to a request under section 14, or would not, apart from this subsection, be bound by the order.
+
+(2) If a contract between a worker of a class, type or group to which a sectoral employment order applies and his or her employer provides for the payment of remuneration at a rate (in this subsection referred to as the “contract rate”) less than the rate (in this subsection referred to as the “order rate”) provided by such order and applicable to such worker, the contract shall, in respect of any period during which the order applies, have effect as if the order rate were substituted for the contract rate.
+
+(3) If a contract between a worker of a class, type or group to which a sectoral employment order applies and his or her employer provides for conditions in relation to a pension scheme or a sick pay scheme (in this subsection referred to as the “contract conditions”) less favourable than the conditions (in this subsection referred to as the “order conditions”) fixed by the order and applicable to such worker, the contract shall, in respect of any period during which the order applies, have effect as if the order conditions were substituted for the contract conditions.

@@ -1,0 +1,7 @@
+Adaptation of contracts of service consequential upon registration of employment agreement
+
+11. (1) A registered employment agreement shall, so long as it continues to be registered, apply, for the purposes of this section, to every worker of the class, type or group to which it is expressed to apply, and the employer or employers to which it is expressed to apply.
+
+(2) If a contract between a worker of a class, type or group to which a registered employment agreement applies and his or her employer provides for the payment of remuneration at a rate (in this subsection referred to as the “contract rate”) less than the rate (in this subsection referred to as the “agreement rate”) provided by such agreement and applicable to such worker, the contract shall, in respect of any period during which the agreement is registered, have effect as if the agreement rate were substituted for the contract rate.
+
+(3) If a contract between a worker of a class, type or group to which a registered employment agreement applies and his or her employer provides for conditions of employment (in this subsection referred to as the “contract conditions”) less favourable than the conditions (in this subsection referred to as the “agreement conditions”) fixed by the agreement and applicable to such worker, the contract shall, in respect of any period during which the agreement is registered, have effect as if the agreement conditions were substituted for the contract conditions.
