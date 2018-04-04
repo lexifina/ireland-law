@@ -1,0 +1,3 @@
+Effect of failure to register where registration compulsory.
+
+25.— A person shall not acquire an estate or interest in land in any case in which registration of ownership of the land is or becomes compulsory under section 23 or 24 unless the person is registered as owner of the estate or interest within 6 months after the purported acquisition or at such later time as the Authority (or, in case of refusal, the court) may sanction in any particular case, but on any such registration the person’s title shall relate back to the date of the purported acquisition, and any dealings with the land before the registration shall have effect accordingly.

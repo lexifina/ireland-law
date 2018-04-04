@@ -1,0 +1,5 @@
+## PART IV DEVOLUTION ON DEATH AND DESCENT ON INTESTACY
+
+Application of Part IV.
+
+109.—...

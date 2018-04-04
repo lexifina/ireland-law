@@ -1,0 +1,3 @@
+Priority of registered burdens.
+
+74.—Subject to any entry to the contrary on the register, burdens which are registered as affecting the same land, and which if unregistered would rank in priority according to the date of their creation, shall, if created or arising since the first registration of the land, rank according to the order in which they are entered on the register and not according to the order in which they are created or arise, and shall rank in priority to any other burden affecting the land and created or arising since the first registration of the land, not being a burden to which, though not registered, the land is subject under section 72.
