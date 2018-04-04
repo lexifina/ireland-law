@@ -1,0 +1,7 @@
+Exemption from registration elsewhere of burdens registered under this Act.
+
+117.—(1) Registration of a burden under this Act shall have the same effect as, and make unnecessary, registration of any deed or document relating to such burden, in the Registry of Deeds. In the case of a leasehold interest the ownership of which is not registered under this Act such exemption shall extend only to the lease itself and not to any other deed or document relating to the title to the leasehold interest.
+
+(2) (a) Registration in the prescribed manner of a judgment, order, inquisition, recognizance or State bond as a burden under this Act shall have the same effect as and make unnecessary, for any purpose as regards the land, the registration thereof in the Registry of Judgments;
+
+(b) No such judgment, order, inquisition, recognizance or bond shall, after the expiration of five years from the date of such registration, affect any registered land as to purchasers, mortgagees or creditors, unless and until it is re-registered in the prescribed manner under this Act within five years before the execution of the conveyance, settlement, mortgage, lease, or other instrument vesting or transferring the legal or equitable right to the estate or interest in or to any such purchaser or mortgagee for valuable consideration, or as to creditors within five years before the right of such creditor accrued, and so re-registered at the expiration of every succeeding five years.

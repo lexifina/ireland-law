@@ -1,0 +1,3 @@
+Transfer of land from leasehold to freehold register.
+
+48.—Where a registered leasehold interest is converted under the provisions of any Act into a fee farm grant or grant in perpetuity, the Authority shall note on the register in the prescribed manner the fact of such conversion, and provision shall be made by general rules for the transfer, on the prescribed examination of title, of land from the register of owners of leasehold interests to the register of owners of freehold land, but, until such transfer is made, the registered owner of the leasehold interest shall not, under the provisions of this Act, have any further or other title to the land than he would have had if the leasehold interest had not been so converted.

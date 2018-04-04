@@ -1,0 +1,3 @@
+Effect of transfer of freehold land with possessory title.
+
+53.—In the case of freehold land registered with a possessory title, a transfer of the land shall not affect or prejudice the enforcement of any right adverse to or in derogation of the title of the first registered owner and subsisting or capable of arising at the time of the registration of such owner, including any rights or equities existing by reason of the interest of such owner being deemed to be a graft upon his previous interest in the land, but, save as aforesaid, such transfer shall, when registered, have the same effect as if the land were registered with an absolute title.

@@ -1,0 +1,3 @@
+Entry of boundaries in certain cases.
+
+86.—Where the boundaries of any registered land have been ascertained and defined by any conveyance executed by any of the Commissioners for Sale of Incumbered Estates in Ireland, or of the judges of the Landed Estates Court, or of the Land Judges, under the provisions of any of the Landed Estates Court Acts, or of the Landlord and Tenant (Ireland) Act, 1870, or by any conveyance or vesting order executed or made by the Land Commission under any of the provisions of the Land Purchase Acts, in every such case the Authority may, if it thinks fit, after the prescribed notices, enter such boundaries on the register as conclusive, and they shall thereupon be conclusive upon all parties.

@@ -1,0 +1,3 @@
+Abolition of rules of descent in relation to registered freehold land.
+
+112.—...
