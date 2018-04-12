@@ -1,0 +1,301 @@
+Interpretation generally.
+
+5.—(1) In this Act, save where the context otherwise requires—
+
+“the Act of 1963” means the Local Government (Planning and Development) Act, 1963;
+
+“the Act of 1987” means the Air Pollution Act, 1987;
+
+“the Act of 1992” means the Environmental Protection Agency Act, 1992;
+
+“aftercare” means, in relation to a facility which has been used for the purpose of waste recovery or disposal, any measures that are necessary to be taken in relation to the facility for the purpose of preventing environmental pollution following the cessation of the activity in question at the facility;
+
+“the Agency” means the Environmental Protection Agency established under section 19 of the Act of 1992;
+
+“any Minister of the Government concerned” means any Minister of the Government (other than the Minister) who, having regard to the functions vested in him or her, in the opinion of the Minister might be concerned with or interested in the matter in question;
+
+“authorised person” means (other than in section 10A) a person who is appointed in writing by—
+
+(a) the Minister,
+
+(b) a local authority,
+
+(c) the Agency,
+
+(d) the Commissioner of the Garda Síochána (or a member of the Garda Síochána nominated by that Commissioner for the purposes of appointing authorised persons under this Act), or
+
+(e) such other person as may be prescribed, to be an authorised person for the purposes of this Act or any Part or section thereof;
+
+“authorised waste collector” means a holder of a waste collection permit that is in force;
+
+“best available techniques” means best available techniques as defined in Article 2(12) of Directive 2008/1/EC;
+
+“bio-waste” means biodegradable garden and park waste, food and kitchen waste from households, restaurants, caterers and retail premises and comparable waste from food processing plants;
+
+“broker” means any person arranging the recovery or disposal of waste on behalf of others, including any such person that does not take physical possession of the waste;
+
+“collection” means the gathering of waste, including the preliminary sorting and storage of waste for the purposes of transport to a waste treatment facility;
+
+“commercial waste” means waste from premises used wholly or mainly for the purposes of a trade or business or for the purposes of sport, recreation, education or entertainment but does not include household, agricultural or industrial waste;
+
+“Community act” means an act adopted by an institution of the European Communities;
+
+“contravention” includes, in relation to any provision, a failure or refusal to comply with that provision, and “contravene” shall be construed accordingly;
+
+“dealer” means any person who acts in the role of principal to purchase and subsequently sell waste, including any such person who does not take physical possession of the waste;
+
+“development” has the meaning assigned to it by section 3 of the Planning and Development Act 2000
+
+“emission” has the meaning assigned to it by the Act of 1992;
+
+“emission into the atmosphere” means the emission of a pollutant, within the meaning of the Act of 1987, into the atmosphere;
+
+“emission limit value” means the mass, expressed in terms of a specific parameter, concentration or level of an emission, or both a specific concentration and level of an emission, which may not be exceeded during one or more periods of time;
+
+“Environment Fund” has the meaning assigned to it by section 74;
+
+“environmental impact assessment” shall be construed in accordance with section 40(2A);
+
+“environmental impact statement” means a statement of the direct and indirect effects that a proposed development will have or is likely to have on the environment and shall include the information specified in Annex IV to Directive No. 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment11;
+
+“environmental medium” has the meaning assigned to it by the Act of 1992;
+
+“environmental pollution” means, in relation to waste, the holding, transport, recovery or disposal of waste in a manner which would ... endanger human health or harm the environment, and in particular—
+
+(a) create a risk to waters, the atmosphere, land, soil, plants or animals,
+
+(b) create a nuisance through noise, odours or litter, or
+
+(c) adversely affect the countryside or places of special interest;
+
+“established activity” means—
+
+(a) in relation to an activity the carrying on of which requires a waste licence, an activity—
+
+(i) in respect of which a permission under Part IV of the Act of 1963 is granted before the date prescribed under section 39 (1) in respect of that activity (“the relevant date”) and which permission on that date has not ceased to have effect in accordance with the provisions of sections 2 and 4 of the Local Government (Planning and Development) Act, 1982, or
+
+(ii) which is, immediately before the relevant date, being carried on or was, at any time during the period of 12 months ending on the said date, carried on, other than an activity which involves or is associated with an unauthorised structure or an unauthorised use within the meaning of the Act of 1963, and
+
+(b) in any other case, an activity which was being lawfully carried on immediately before the commencement of the provision concerned of this Act that requires the use of the best available techniques;
+
+“European Communities” has the meaning assigned to it by the European Communities Act, 1972;
+
+“European Waste Catalogue” means the list of waste set out in Commission Decision 94/3/EC of 20 December, 1993, (made pursuant to Article 1 (a) of Council Directive 75/442/EEC on waste) and includes such list as amended from time to time;
+
+“executive function” means a function other than a reserved function;
+
+“facility” means, in relation to the recovery or disposal of waste, any site or premises used for such purpose;
+
+“functions” includes powers and duties and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
+
+...
+
+“household waste” means waste produced within the curtilage of a building or self-contained part of a building used for the purposes of living accommodation;
+
+“Industrial Emissions Directive” means Directive 2010/75/EU1 of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (Recast);
+
+“industrial waste” includes waste produced or arising from manufacturing or industrial activities or processes;
+
+“integrated pollution control activity” has the same meaning as it has in section 3 (amended by Regulation 4 of the European Union (Industrial Emissions) Regulations 2013) of the Act of 1992;1
+
+“land” includes any subsoil thereunder and structure thereon and land covered with water (whether inland or coastal);
+
+“landfill” means a waste disposal site for the deposit of waste onto or into land (i.e. underground), including:
+
+(a) internal waste disposal sites (i.e. landfill where a producer of waste is carrying out its own waste disposal at the place of production), and
+
+(b) a permanent site (i.e. more than one year) which is used for temporary storage of waste, but excluding
+
+(c) facilities where waste is unloaded in order to permit its preparation for further transport for recovery, treatment or disposal elsewhere, and
+
+(d) storage of waste prior to recovery or treatment for a period less than three years as a general rule, or
+
+(e) storage of waste prior to disposal for a period less than one year.
+
+“leachate” means any liquid percolating through deposited waste and emitted from or contained within a landfill;
+
+“local authority” means—
+
+(a) in the case of a county borough, the corporation of the county borough, and
+
+(b) in the case of any other administrative county, the council of the county, and references to the functional area of a local authority shall be construed accordingly;
+
+“manager” means—
+
+(a) with respect to the corporation of a county borough, the manager for the purposes of the Acts relating to the management of the county borough, and
+
+(b) with respect to the council of a county, the manager for the purposes of the County Management Acts, 1940 to 1994;
+
+“Minister” means the Minister for the Environment, Heritage and Local Government;
+
+“monitoring” includes the inspection, measurement, sampling or analysis, whether periodically or continuously, for the purpose of this Act, of waste, a premises at which waste is produced, or a facility at which waste is held, recovered or disposed of, and of any emissions therefrom, or any environmental medium which is affected by or which, in the opinion of the local authority concerned or the Agency may be affected by, such emissions;
+
+“municipal waste” means household waste as well as commercial and other waste which, because of its nature or composition, is similar to household waste;
+
+“occupier” includes, in relation to any premises, the owner, a lessee, any person entitled to occupy the premises and any other person having, for the time being, control of the premises;
+
+“packaging” means any material, container or wrapping, used for or in connection with the containment, transport, handling, protection, promotion, marketing or sale of any product or substance, including such packaging as may be prescribed;
+
+“person in charge” includes, in relation to any premises, the occupier of the premises or a manager, supervisor or operator of an activity relating to the holding, disposal or recovery of waste which is carried on at the premises;
+
+“planning authority” has the meaning assigned to it by the Act of 1963;
+
+“plant” includes any equipment, appliance, apparatus, machinery, vehicle, skip, works, building or other structure used for the purposes of, or the provision of which is incidental to, the holding, disposal or recovery of waste;
+
+...
+
+“premises” includes any messuage, building, vessel, structure or land (whether or not there are structures on the land and whether or not the land is covered with water), and any plant or vehicles on such land, or any hereditament of any tenure, together with any out-buildings and curtilage;
+
+“preparing for re-use” means checking, cleaning or repairing recovery operations, by which products or components of products that have become waste are prepared so that they can be re-used without any other pre-processing;
+
+“prescribed” means prescribed by regulations made by the Minister under this Act;
+
+“prevention” means measures, taken before a substance, material or product has become waste, that reduce—
+
+(a) the quantity of waste, including through the re-use of products or the extension of the lifespan of products,
+
+(b) the adverse impacts of the generated waste on the environment and human health, or
+
+(c) the content of harmful substances in materials and products;
+
+“product” includes any naturally occurring or manufactured thing;
+
+“public authority” means—
+
+(a) a Minister of the Government,
+
+(b) the Commissioners of Public Works in Ireland,
+
+(c) a local authority for the purposes of the Local Government Act, 1941,
+
+(d) a harbour authority within the meaning of the Harbours Act, 1946,
+
+(e) a health board established under the Health Act, 1970,
+
+(f) a board or other body established by or under statute,
+
+(g) a company in which all the shares are held by, or on behalf of, or by directors appointed by, a Minister of the Government, or
+
+(h) a company in which all the shares are held by a board, company, or other body referred to in paragraph (f) or (g) of this definition;
+
+“recycling”—
+
+(a) subject to paragraph (b), means any recovery operation by which waste materials are reprocessed into products, materials or substances, whether for the original or other purposes, including the reprocessing of organic material,
+
+(b) does not include—
+
+(i) energy recovery, and
+
+(ii) the reprocessing into materials that are to be used as fuels or for backfilling operations;
+
+“regeneration of waste oils” means any recycling operation whereby base oils can be produced by refining waste oils, in particular by removing the contaminants, the oxidation products and the additives contained in such oils;
+
+“the Regulations of 2011” means the European Communities (Waste Directive) Regulations 2011 (S.I. No. 126 of 2011);
+
+“reserved function” means—
+
+(a) in relation to the council of a county, a reserved function for the purposes of the County Management Acts, 1940 to 1994,
+
+(b) in relation to the corporation of a county borough, a reserved function for the purposes of the Acts relating to the management of the county borough;
+
+“re-use” means any operation by which products or components that are not waste are used again for the same purpose for which they were conceived;
+
+“separate collection” means the collection where a waste stream is kept separately by type and nature so as to facilitate a specific treatment;
+
+“service station” means any installation where fuel is capable of being dispensed to motor vehicle fuel tanks from stationary storage tanks;
+
+“sewage” and “sewage effluent” have the meanings assigned to them by the Local Government (Water Pollution) Act, 1977;
+
+“scheduled activity” means any process, development or operation for the time being specified in the First Schedule to the Act of 1992;
+
+“structure” means any building, erection, structure, excavation, or other thing, constructed, erected, or made on, in or under land, or any part of a structure so defined, and, where the context so admits, includes the land on, in, or under which the structure is situate;
+
+“temporary storage of waste” shall be construed in accordance with subsection (3);
+
+“transport” includes, in relation to waste, the movement of waste by road, rail, air, sea or inland waterway but does not include the movement of waste from one place to another—
+
+(a) by means of any pipe or similar apparatus which joins those two places, or
+
+(b) on and within the site at which the waste is held for the time being;
+
+“TFS Regulation” means Regulation (EC) No. 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste;
+
+“treatment” means recovery or disposal operations, including preparation prior to recovery or disposal;
+
+“vehicle” includes—
+
+(a) part of a vehicle,
+
+(b) an article designed as a vehicle but not capable of functioning as a vehicle,
+
+(c) a skip designed or used for carriage on a vehicle,
+
+(d) a load on a vehicle;
+
+“waste collection permit” has the meaning assigned to it by section 34;
+
+“Waste Directive” means Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives;
+
+“waste holder” means the waste producer or the person who is in possession of the waste;
+
+“waste management” means the collection, transport, recovery and disposal of waste, including—
+
+(a) the supervision of such operations,
+
+(b) the after-care of disposal sites, and
+
+(c) actions taken as a dealer or broker;
+
+“waste oils” means any mineral or synthetic lubrication or industrial oils which have become unfit for the use for which they were originally intended, such as used combustion engine oils and gearbox oils, lubricating oils, oils for turbines and hydraulic oils;
+
+“waste producer” means anyone—
+
+(a) whose activities produce waste (in this Act referred to as the “original waste producer”), or
+
+(b) who carries out pre-processing, mixing or other operations resulting in a change in the nature or composition of such waste;
+
+“waste prevention and management legislation and policy” means—
+
+(a) this Act and regulations made under this Act,
+
+(b) policy issued by the Minister,
+
+(c) waste management plans made by a local authority, or
+
+(d) waste prevention programmes guidance or policy issued by the Agency;
+
+“waste licence” shall be construed in accordance with section 37;
+
+“waste service” means any service, facility, approval or other thing which a local authority may or is required to render, supply, grant, issue or otherwise provide in the performance of any of its functions under this Act to any person or in respect of any premises;
+
+“waters” has the meaning assigned to it by the Local Government (Water Pollution) Act, 1977.
+
+(1A) In this Act, a reference to—
+
+(a) the date on which a waste licence is granted is a reference to the date on which the licence is sealed with the seal of the Agency, and
+
+(b) the date on which a decision by the Agency to refuse a waste licence is made is a reference to the date on which that decision, as reduced to writing, is so sealed.
+
+(2) (a) A reference in this Act to “best available techniques” shall be construed as meaning the most effective and advanced stage in the development of an activity and its methods of operation, which indicate the practical suitability of particular techniques for providing, in principle, the basis for emission limit values designed to prevent or eliminate, or where that is not practicable, generally to reduce an emission and its impact on the environment as a whole.
+
+(b) For the purposes of paragraph (a)—
+
+(i) “best”, in relation to techniques, means the most effective in achieving a high general level of protection of the environment as a whole;
+
+(ii) “available techniques” means those techniques developed on a scale which allows implementation in the relevant class of activity specified in the Third and Fourth Schedules, under economically and technically viable conditions, taking into consideration the costs and advantages, whether or not the techniques are used or produced within the State, as long as they are reasonably accessible to the person carrying on the activity;
+
+(iii) “techniques” includes both the technology used and the way in which the installation is designed, built, managed, maintained, operated and decommissioned.
+
+(c) ...
+
+(3) In this Act, a reference to the temporary storage of waste shall, without prejudice to any particular provision that may be made pursuant to section 39 (6), be construed as a reference to the storage of waste for a period not exceeding 6 months.
+
+(3A) References in this Act to Dublin City Council are references to Dublin City Council in its designation as the competent authority under Article 53 of the TFS Regulation as provided for in Regulation 4 of the Waste Management (Shipments of Waste) Regulations 2007 (S.I. No. 419 of 2007).
+
+(3B) Subject to this Act, a word or expression that is used in this Act and that is also used in Directive No. 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment has, unless the context otherwise requires, the same meaning in this Act as it has in that Directive.
+
+(4) In this Act, a reference to a Part, section, or Schedule is a reference to a Part or section of, or a Schedule to, this Act unless it is indicated that reference to some other enactment is intended.
+
+(5) In this Act, a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision (including a Schedule) in which the reference occurs, unless it is indicated that a reference to some other provision is intended.
+
+(6) In this Act a reference to any enactment shall be construed as a reference to that enactment as amended, adapted or extended by or under any subsequent enactment (including this Act).
