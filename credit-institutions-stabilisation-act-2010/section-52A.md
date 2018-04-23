@@ -1,0 +1,3 @@
+Costs incurred in relation to making orders, etc.
+
+52A.—Where the Courts Service, or another body funded, wholly or partly, out of moneys provided by the Oireachtas, or from the Central Fund or the growing produce of the Central Fund, has incurred costs in relation to the translation or publication of an order under this Act (including where the translation or publication is required by the European Communities (Reorganisation and Winding-Up of Credit Institutions) Regulations 2011 (S.I. No. 48 of 2011)), the costs are a debt due and owing by the credit institution concerned, and may be recovered as a simple contract debt in any court of competent jurisdiction.
