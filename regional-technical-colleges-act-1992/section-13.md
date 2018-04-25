@@ -1,8 +1,10 @@
 Programmes and budget.
 
-13.—(1) A governing body shall, on or before the first day of March in each financial year or such other date as An tÚdarás may approve (which may be a date before the commencement of the financial year to which the statement relates), prepare and submit to An tÚdarás, in such form and manner as may from time to time be approved by An tÚdarás, a statement of the proposed expenditure and expected income of the college for the financial year.
+13.—(1) An tÚdarás shall, on or before the first day of March in each year, notify the Director of the funding (in this section referred to as ‘allocated funding’) to be provided by An tÚdarás for that year to a college, from moneys provided to An tÚdarás under section 12 of the Higher Education Authority Act 1971.
 
-(2) An tÚdarás shall, having regard to the statement submitted under subsection (1), determine the amount of money to be allocated to the college for the financial year from moneys provided to An tÚdarás pursuant to section 12 of the Higher Education Authority Act 1971, and the amount so allocated, together with the other expected income of the college as agreed with An tÚdarás, shall be the budget of the college for the financial year.
+(2) The Director shall, on or before the first day of April in each year, or such other date as An tÚdarás may approve, prepare and submit following approval by the governing body, to An tÚdarás, in such form and manner as may from time to time be approved by An tÚdarás, a statement of the proposed expenditure and, other than allocated funding, expected income of the college for that year.
+
+(2A)The allocated funding and the expected income of the college referred to in subsection (2), shall be the budget of the college for that year.
 
 (3) Where the budget of a college has been determined, it shall be a function of the Director, acting on the authority of the governing body, to carry it into effect.
 
