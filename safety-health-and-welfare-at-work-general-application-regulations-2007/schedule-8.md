@@ -64,6 +64,10 @@ Industrial processes listed in Schedule 1 to the Safety, Health and Welfare at W
 
 Underground mining work.
 
+Part B — Pregnant employees
+
+2 O.J. No. L353, 31.12.2008, p.1
+
 1. Agents
 
 (a) Physical Agents
