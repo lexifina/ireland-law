@@ -1,0 +1,3 @@
+Poisons for purposes of Pharmacy Acts, 1875 to 1962.
+
+32.—...

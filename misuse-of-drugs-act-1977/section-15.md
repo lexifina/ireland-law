@@ -1,0 +1,5 @@
+Possession of controlled drugs for unlawful sale or supply.
+
+15.—(1) Any person who has in his possession, whether lawfully or not, a controlled drug for the purpose of selling or otherwise supplying it to another in contravention of regulations under section 5 of this Act, shall be guilty of an offence.
+
+(2) Subject to section 29 (3) of this Act, in any proceedings for an offence under subsection (1) of this section, where it is proved that a person was in possession of a controlled drug and the court, having regard to the quantity of the controlled drug which the person possessed or to such other matter as the court considers relevant, is satisfied that it is reasonable to assume that the controlled drug was not intended for the immediate personal use of the person, he shall be presumed, until the court is satisfied to the contrary, to have been in possession of the controlled drug for the purpose of selling or otherwise supplying it to another in contravention of regulations under section 5 of this Act.
