@@ -1,0 +1,5 @@
+An Act to revise and partially consolidate the law relating to customs; to repeal the Customs Consolidation Act 1876 and certain other enactments; to make provision in connection with Council Regulation (EEC) No. 2913/92 of 12 October 1992 establishing the Community Customs Code; to give continuing effect to the Customs Co-operation Convention drawn up on the basis of Article K.3 of the Treaty on European Union, on mutual assistance and co-operation between customs administrations, done at Brussels on 18 December 1997 (Naples II Convention); to give effect to the Council Convention on centralised customs clearance concerning the allocation of national collection costs retained when traditional own resources are made available to the EU budget, done at Brussels on 10 March 2009; to give effect to Council Decision 2009/917/JHA of 30 November 2009 on the use of information technology for customs purposes (CIS Decision); and to provide for related matters.
+
+## [18 th June, 2015]
+
+Be it enacted by the Oireachtas as follows:
