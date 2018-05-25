@@ -1,0 +1,3 @@
+Retention of records where sale of land other than by auction.
+
+61.— Without prejudice to the generality of regulations made under section 46, where land is offered for sale, other than by auction, by a licensee who is a property services employer or an independent contractor (including, in the case of a property services employer, the provision of such offer by a principal officer or employee of the property services employer) the licensee shall retain a record in the specified form for a period of not less than 6 years, of all offers received by the licensee, including conditional acceptances, in respect of the sale.
