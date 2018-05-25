@@ -1,0 +1,3 @@
+F15[Power by order to restrict sale of certain realistic imitation firearms from specified date.
+
+9G.— ...
