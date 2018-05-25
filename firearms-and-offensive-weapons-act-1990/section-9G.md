@@ -1,0 +1,3 @@
+Powers by order to restrict sale of certain realistic imitation firearms from specific date.
+
+9G.— ...

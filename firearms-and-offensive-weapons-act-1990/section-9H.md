@@ -1,0 +1,3 @@
+Power by order to require certain descriptions of imitation firearms to conform to certain specifications.
+
+9H.— ...
