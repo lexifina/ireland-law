@@ -1,0 +1,9 @@
+Powers of members of Gárda Síochána.
+
+22.—(1) Any member of the Gárda Síochána may demand from any person whom he observes or believes to be in possession of, using, or carrying a firearm or any ammunition, the production of his firearm certificate and if such person fails to produce and permit such member to read a firearm certificate authorising him to have possession of, use, or carry (as the case may require) such firearm or ammunition, such member of the Gárda Síochána may unless such person shows that he is entitled by law to have possession of, use, or carry (as the case may require) at that time and in that place such firearm or ammunition without having a firearm certificate therefor demand from such person his name and address.
+
+(2) If any person, on demand being made to him under this section by a member of the Gárda Síochána, refuses to give to such member his name and address or gives a name or address which is false or misleading in any material particular, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding €1,000.
+
+(3) Any member of the Gárda Síochána may arrest without warrant any person who, on demand being made under this section, refuses to give his name and address or gives a name or address which the member of the Gárda Síochána demanding the same knows or suspects to be false or misleading in any material particular.
+
+(4) In addition to any other powers conferred on him under this Act or otherwise, any member of the Gárda Síochána may stop and search and may also arrest without warrant any person whom he believes to be in possession of or to be using or carrying a firearm or ammunition in contravention of any of the provisions of this Act, and may search any such person, and, whether arresting him or not, may seize and detain any firearm or ammunition in his possession or used or carried by him.

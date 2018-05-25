@@ -1,0 +1,3 @@
+Prohibition of taking firearms or ammunition in pawn.
+
+20.—...
