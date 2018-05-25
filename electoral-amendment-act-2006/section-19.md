@@ -1,0 +1,3 @@
+List relating to draft register and register in force.
+
+19.— A registration authority may, for the purposes of assisting in the preparation of a complete and accurate register of electors, prepare and publish, at any time after it publishes a draft register of electors in accordance with Rule 5 of the Second Schedule to the Act of 1992, a list, in such form and manner as the authority considers appropriate, of the names of all persons who are registered as electors in the register (in force at the time of publication of that draft register) but whose names are not included in that draft register.
