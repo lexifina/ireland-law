@@ -1,0 +1,5 @@
+Indemnification for actions in good faith.
+
+80.—(1) Where the Commission is satisfied that a commissioner, an inspector, a member of staff of the Commission or a consultant or adviser or person engaged by the Commission under section 18, has discharged his or her duties in the exercise of a function of the Commission under this Act in a bona fide manner, it shall indemnify such commissioner, inspector or member of staff of the Commission, or consultant or adviser, or other person engaged by the Commission, against all actions or claims however arising in respect of the discharge by him or her of his or her duties, including for the avoidance of doubt, the preparation and publication of an investigation report.
+
+(2) In subsection (1) “report” includes a report referred to in section 60(1), a draft report referred to in section 62(1), an interim report under section 60(4) and a draft interim report, and it also includes written observations on a draft report or draft interim report and comments on any such observations as referred to in section 62.

@@ -1,0 +1,3 @@
+Laying of orders and regulations.
+
+3.—Every order other than an order under section 5, 7, 38, 81, 84 or 92 or regulation (other than a regulation under section 97(3)) made by the Minister or Commission under this Act shall, as soon as may be after it is made, be laid before each of the Houses of the Oireachtas and if a resolution annulling the order or regulation is passed by either such House within the next 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
