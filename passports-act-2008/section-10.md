@@ -1,0 +1,11 @@
+Name in which passport is issued.
+
+10.— (1) Subject to this section and section 11, a passport issued under this Act shall be in the name of the applicant for a passport concerned as it appears in his or her certificate of birth (whether in the English language or the Irish language) or, as may be appropriate, a certificate of naturalisation or other document produced by him or her to the Minister as evidence of Irish citizenship.
+
+(2) Subject to this Act, the Minister may, if so requested by an applicant for a passport who is or was married, issue a passport to him or her in his or her name that incorporates the surname of his or her spouse or former spouse, as the case may be, in place of, or in addition to, the surname of the applicant.
+
+(3) The Minister shall, if an applicant for a passport applies to have a passport issued to him or her in a name (in this section referred to as “the new name”) other than the one referred to in subsection (1) or (2) or, if appropriate, the name entered in the passport last previously issued to him or her, require the applicant to produce to the Minister such evidence as appears to him or her to be satisfactory of the use by the applicant of the new name before a passport may be issued to the applicant in that name.
+
+(4) If an applicant for a passport in the circumstances referred to in subsection (3) produces evidence to the satisfaction of the Minister of the use by him or her of the new name for a period of not less than 2 years prior to the date of the application, the Minister may, subject to this Act, issue a passport to the applicant in that name.
+
+(5) If an applicant for a passport in the circumstances referred to in subsection (3) does not produce evidence to the satisfaction of the Minister of the use by him or her of the new name for a period of not less than 2 years prior to the date of the application, the Minister may, subject to this Act, issue a passport to the applicant in that name and enter the name of the applicant referred to in subsection (1) or (2) or, if appropriate, that entered in the passport last previously issued to him or her as an observation in the passport and that entry shall remain there for a period of not less than 2 years.
