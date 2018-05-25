@@ -1,0 +1,3 @@
+Application of sections 75 to 83 to consumer-hire agreements.
+
+88.—Where goods are let under a consumer-hire agreement, the provisions of sections 75 to 83 shall apply to the agreement as if it were a hire-purchase agreement and in every such agreement there is an implied warranty that the goods are free, and will remain free, from any charge or encumbrance not disclosed, before the agreement is made, to the person taking the goods and that that person will enjoy quiet possession of the goods except so far as it may be disturbed by any person entitled to the benefit of any charge or encumbrance so disclosed.

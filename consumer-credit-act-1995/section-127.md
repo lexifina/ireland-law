@@ -1,0 +1,7 @@
+Prohibition on linking of services.
+
+127.—(1) A mortgage agent shall not make or offer to make to any person, or arrange or offer to arrange for any person, a housing loan which would be subject to a condition that any financial services, conveyancing services, auctioneering services or other services relating to land which that person may require, whether or not in connection with the loan, shall be provided by the agent or through a subsidiary or other associated body of such agent.
+
+(2) Where, in connection with the making or arranging of a housing loan, more than one service is made available by a mortgage agent or one or more of his subsidiaries, the agent shall not, and shall ensure that each of his subsidiaries does not, make the services available on terms other than terms which distinguish the consideration payable for each service so made available; nor shall any of the subsidiaries make the services available on terms other than terms which make that distinction.
+
+(3) Where a person is providing auctioneering services, or constructing houses for sale, and is also a mortgage intermediary, he, or a subsidiary or other associated body, shall not sell, offer to sell or arrange to sell a house which is to be purchased with the aid of a housing loan, on terms which differentiate as between a person who purchases the house with the aid of a housing loan arranged by or on behalf of such intermediary and a person who purchases the house with the aid of a housing loan otherwise arranged.
