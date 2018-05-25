@@ -1,4 +1,4 @@
-Prohibition of false information and alteration of firearm certificates.
+Prohibition
 
 3.—(1) A person shall not knowingly give false information to the issuing person in relation to an application for a firearm certificate.
 
