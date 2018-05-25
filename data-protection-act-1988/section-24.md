@@ -1,0 +1,21 @@
+Powers of authorised officers.
+
+24.—(1) In this section ‘authorised officer’ has the same meaning that it has in section 2(1) of the Data Protection Act 2018.
+
+(2) An authorised officer may, for the purpose of obtaining any information that is necessary or expedient for the performance by the Commissioner of his functions, on production of the officer’s authorisation, if so required—
+
+(a) at all reasonable times enter premises that he reasonably believes to be occupied by a data controller or a data processor, inspect the premises and any data therein (other than data consisting of information specified in section 12 (4) (b) of this Act) and inspect, examine, operate and test any data equipment therein,
+
+(b) require any person on the premises, being a data controller, a data processor or an employee of either of them, to disclose to the officer any such data and produce to him any data material (other than data material consisting of information so specified) that is in that person’s power or control and to give to him such information as he may reasonably require in regard to such data and material,
+
+(c) either on the premises or elsewhere, inspect and copy or extract information from such data, or inspect and copy or take extracts from such material, and
+
+(d) require any person mentioned in paragraph (b) of this subsection to give to the officer such information as he may reasonably require in regard to the procedures employed for complying with the provisions of this Act, the sources from which such data are obtained, the purposes for which they are kept, the persons to whom they are disclosed and the data equipment in the premises.
+
+(3) ...
+
+(4) ...
+
+(5) ...
+
+(6) A person who obstructs or impedes an authorised officer in the exercise of a power, or, without reasonable excuse, does not comply with a requirement, under this section or who in purported compliance with such a requirement gives information to an authorised officer that he knows to be false or misleading in a material respect shall be guilty of an offence.
