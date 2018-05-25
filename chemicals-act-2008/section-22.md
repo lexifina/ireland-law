@@ -1,0 +1,3 @@
+Powers of officer of customs and excise to detain chemicals.
+
+22.— For the purpose of the performance by a national authority of any functions conferred on it under any of the relevant chemicals statutory provisions, an officer of customs and excise, following a request in that behalf by that national authority, may detain any chemical being exported or imported for so long as is reasonably necessary for an inspector to examine it for the purposes of the relevant chemicals statutory provisions, which period shall not in any case exceed 72 hours from the time when the chemical concerned is detained.
