@@ -1,0 +1,3 @@
+Carrying out of assessments.
+
+10.—Where an application is made under section 9, the Executive shall ensure that the assessment is carried out in a manner which conforms to such standards as may be determined from time to time by a body standing prescribed by regulations made by the Minister ....
