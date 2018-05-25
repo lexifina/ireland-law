@@ -1,0 +1,11 @@
+Insertion of section 48A in Health Act 1970.
+
+6.— The Health Act 1970 is amended by the insertion, after section 48, of the following section:
+
+“Review of eligibility in certain circumstances.
+
+48A.— (1) A person who by reason of section 45(5A) or section 45A had, prior to the coming into operation of this section, been notified by the Health Service Executive that he or she had full eligibility under this Part, shall, when requested to do so by the Health Service Executive, furnish to the Health Service Executive such information regarding that person’s income and assets as the Health Service Executive considers necessary for it to establish if that person has or continues to have full eligibility.
+
+(2) Where a person fails or refuses to furnish the information requested by the Health Service Executive under subsection (1) within such reasonable period as is specified in the request the Health Service Executive may suspend or cancel the full eligibility of such person.
+
+(3) A person who by reason of section 45(5A) or section 45A had, prior to the coming into operation of this section, been notified by the Health Service Executive that he or she had full eligibility under this Part and who by reason of the amendments to section 45A effected by section 3 of the Health (Alteration of Criteria for Eligibility) Act 2013 ceases to have such eligibility, shall retain such eligibility until 31 May 2013.”.
