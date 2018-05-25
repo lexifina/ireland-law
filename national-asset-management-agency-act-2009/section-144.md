@@ -1,0 +1,3 @@
+Effect of certain assurances of land.
+
+144.— An assurance of charged land or a right or interest in charged land before the acquisition by, or vesting in, NAMA of the relevant charge (whether or not the land was charged at the date of the assurance) shall be taken to have created, for the benefit of the charged land, any easement or profit à prendre over any land retained by the grantor of the assurance that it is reasonable to assume, in the circumstances of the case, was within the contemplation of the parties at the date of the assurance as being included in it, or would have been within that contemplation at that time if they had adverted to the matter.

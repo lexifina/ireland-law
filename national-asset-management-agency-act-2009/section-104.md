@@ -1,0 +1,3 @@
+NAMA to be notified of certain matters.
+
+104.— If within one year after NAMA or a NAMA group entity acquires a bank asset, the participating institution from which the bank asset was acquired is notified or becomes aware of any significant dealing, event or circumstance or significant proposed or potential dealing, event or circumstance in relation to the bank asset that would adversely affect the bank asset or the rights (including priority), obligations or liabilities of NAMA or the NAMA group entity in relation to it, the participating institution shall notify NAMA of the dealing, event or circumstance without delay.
