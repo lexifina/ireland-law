@@ -6,7 +6,7 @@ Performance of functions by Commission.
 
 (a) advise the Minister in relation to the development of policy regarding the regulation of the provision of water services, or
 
-(b) consult with the subsidiary, members of the public or such other persons as it considers appropriate in relation to the performance of any of its functions under this Act or the Water Services (No. 2) Act 2013.
+(b) consult with Uisce Éireann, members of the public or such other persons as it considers appropriate in relation to the performance of any of its functions under this Act or the Water Services (No. 2) Act 2013.
 
 (3) In this section—
 
