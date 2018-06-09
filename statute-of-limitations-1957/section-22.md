@@ -1,0 +1,3 @@
+Possession of younger brother, etc., not be possession of heir.
+
+22.—...
