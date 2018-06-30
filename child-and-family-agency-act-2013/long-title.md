@@ -1,0 +1,3 @@
+An Act to provide for the establishment of a body to be known as the Child and Family Agency; to provide for the dissolution of the Family Support Agency and the National Educational Welfare Board; to provide for the transfer of the functions of the National Educational Welfare Board to the Child and Family Agency; to provide for the transfer of certain functions of the Health Service Executive to the Child and Family Agency; to amend the Child Care Act 1991 to provide for registration of early years services and to provide for matters connected therewith. [15th December, 2013]
+
+Be it enacted by the Oireachtas as follows:
