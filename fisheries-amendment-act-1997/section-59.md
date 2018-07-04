@@ -1,0 +1,3 @@
+Reports of inspections, etc.
+
+59.—Where in connection with the performance by the Board of its functions an inspection is carried out, or an oral hearing is conducted, on behalf of the Board by a consultant or adviser engaged under section 35(1) for the purpose of the inspection or oral hearing or an employee of the Board or a person of whose services the Board has availed itself pursuant to section 35C, the consultant, adviser, employee or person shall make to the Board a written report on the inspection or hearing, and shall include in the report a recommendation relating to the appeal with which the inspection or hearing was concerned, and the Board shall, before determining the appeal, consider the report and any recommendation contained in the report.

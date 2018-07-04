@@ -1,0 +1,3 @@
+F33[Permission of use of novel or experimental equipment by licensee.
+
+67B.— The Minister may, on the application of a licensee and subject to such conditions (if any) as the Minister may consider appropriate in the circumstances and specifies in writing, permit the licensee to use novel or experimental equipment within the licensed area for such period as the Minister specifies in writing. Such permission shall be granted only if the Minister is satisfied that the use of the novel or experimental equipment will have no greater environmental or visual impact than that which existed prior to the introduction and use of such equipment and shall be noted in the register of licences maintained under section 78.
