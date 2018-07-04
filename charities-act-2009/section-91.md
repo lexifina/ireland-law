@@ -1,0 +1,3 @@
+Indemnity insurance in respect of charity trustee.
+
+91.— A charitable organisation may enter into an agreement with a charity trustee of the charitable organisation for the payment by the charitable organisation to the insurer under a contract of insurance of such sums as the charity trustee undertakes, in accordance with that contract, to pay to the insurer in consideration of the insurer agreeing to indemnify the charity trustee in respect of any liability of the charity trustee to pay any damages or other sum to a person in respect of any act done or omitted to be done by the charity trustee in good faith and in the performance of his or her functions as charity trustee.
