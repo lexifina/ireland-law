@@ -1,0 +1,3 @@
+Time for appeals, etc., extended where offices of Board closed.
+
+55.—Where a provision of or under this Act requires or allows appeals, submissions, observations or a request to be made, or documents, particulars or other information to be submitted, to the Board within a specified period and the last day of that period is a day on which the offices of the Board are closed, the appeal, submissions, observations or request, or documents, particulars or other information, shall be regarded as having been received before the expiration of that period if received by the Board on the next following day on which the offices of the Board are open.
