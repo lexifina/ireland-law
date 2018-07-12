@@ -1,0 +1,3 @@
+Powers of officer of customs and excise to detain articles, etc.
+
+87.—For the purpose of facilitating the exercise or performance by the Authority of any powers or duties conferred on it under any of the relevant statutory provisions, an officer of customs and excise, when authorised to do so by the Revenue Commissioners following a written request in that behalf by the Authority or a person prescribed under section 33, may detain any article or substance being imported for so long as is reasonably necessary for an inspector to examine it for the purposes of this Act, which period shall not in any case exceed 48 hours from the time when the article or substance concerned is detained.
