@@ -1,0 +1,9 @@
+Number 14 of 2018
+
+EDUCATION (ADMISSION TO SCHOOLS) ACT 2018
+
+An Act to make provision, in the interests of the common good, that a school recognised in accordance with section 10 of the Education Act 1998 shall prepare and publish an admission policy and that such policy shall include a statement that the school shall not discriminate in its admission of a student to the school on specified grounds, and to provide that in certain circumstances the patron or Minister may issue a direction to a board of management in relation to the admission of students to a school and to provide that in certain circumstances the patron may appoint an independent person to comply with such direction, and to provide that in certain circumstances the National Council for Special Education or the Child and Family Agency may designate a school or centre for education which a child is to attend, and to provide an amended appeals process where a student has been expelled or suspended from, or has failed to gain admission to, a school; and to provide that, following a report from the National Council for Special Education, in certain circumstances the Minister may issue a direction in respect of the additional provision of education for children with special educational needs; to amend section 7 of the Equal Status Act 2000 in relation to its application to recognised primary schools, to further amend that Act to provide for the application for admission to recognised primary schools by students of minority religions; and for those and other purposes to amend the Education Act 1998, the Education (Welfare) Act 2000, the Education for Persons with Special Educational Needs Act 2004 and the Education (Miscellaneous Provisions) Act 2007, and to provide for related matters.
+
+[18th July, 2018]
+
+Be it enacted by the Oireachtas as follows:
