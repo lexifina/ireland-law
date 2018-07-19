@@ -1,0 +1,3 @@
+Transitional provision regarding section 38.
+
+38A.—The amendment to section 181B (inserted by section 36 of the Act of 2006) of the Act of 2000 effected by section 38 shall not apply to development in respect of which the procedures under Part 9 of the Planning and Development Regulations 2001 have been completed prior to the coming into operation of section 38 provided that the development is commenced not later than 12 months after such coming into operation unless, immediately before such coming into operation, the development was being carried out in contravention of the Act of 2000 or regulations made under it.
