@@ -1,0 +1,3 @@
+Termination of additional rights.
+
+42.—...

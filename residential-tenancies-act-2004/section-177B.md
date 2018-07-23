@@ -1,0 +1,3 @@
+Withdrawal by Board of interest from designated tenancy deposit account.
+
+177B. ...

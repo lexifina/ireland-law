@@ -1,0 +1,5 @@
+Exchange of public service data.
+
+147.—(1) A local authority shall, at such intervals as are specified by the Minister for Social and Family Affairs, supply to that Minister of the Government such information in its possession as falls within any class of information specified by that Minister for the purpose of this subsection, being a class of information the supply of which to that Minister is reasonably necessary for the performance by that Minister of his or her functions under Chapter 11 of Part III of the Social Welfare (Consolidation) Act 1993.
+
+(2) The Minister for Social and Family Affairs shall, at such intervals as are specified by a local authority, supply to the local authority such information in his or her possession as falls within any class of information specified by the local authority for the purpose of this subsection, being a class of information the supply of which to the authority is reasonably necessary for the performance by the authority of its functions relating to houses, dwellings or other structures (either generally or those which have been provided by it).
