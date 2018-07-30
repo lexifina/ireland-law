@@ -1,0 +1,3 @@
+Presumption of corruption in certain cases.
+
+2.—Where in any proceedings against a person for an offence under the Prevention of Corruption Act, 1906, as amended, or the Public Bodies Corrupt Practices Act, 1889, as amended, it is proved that any money, gift or other consideration has been paid or given to or received by an office holder or special adviser or a director of, or occupier of a position of employment in, a public body by or from a person or agent of a person holding or seeking to obtain a contract from a Minister of the Government or a public body, the money, gift or consideration shall be deemed to have been paid or given and received corruptly as such inducement or reward as is mentioned in such Act unless the contrary is proved.

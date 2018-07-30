@@ -1,0 +1,3 @@
+Increase of maximum penalty in certain cases. 6 Edw. 7. c. 34.
+
+1.—...
