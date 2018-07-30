@@ -1,0 +1,5 @@
+## PART 4 AMENDMENTS TO ACT OF 1994
+
+Amendment of Title to Part VI of Act of 1994.
+
+19.—The Title to Part VI of the Act of 1994 is hereby amended by the substitution of “SEARCH FOR, SEIZURE AND DISPOSAL OF MONEY GAINED FROM, OR FOR USE IN, CRIMINAL CONDUCT” for “DRUG TRAFFICKING MONEY IMPORTED OR EXPORTED IN CASH”.
