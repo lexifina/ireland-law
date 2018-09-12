@@ -1,0 +1,3 @@
+Exemption from stamp duty.
+
+8. —...
