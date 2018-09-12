@@ -1,0 +1,7 @@
+Dispute between housing authority and management company arising under section 70(10).
+
+71.— (1) Where there is a dispute between the housing authority and the management company on any matter relating to a demand for repayment under section 70 (10), which is subsequently resolved by agreement in writing between the housing authority and the management company, repayment of the amount concerned or any revised amount shall be made by the management company not later than 2 months after the date of the agreement.
+
+(2) Where there is a dispute between the housing authority and the management company relating to the demand for repayment under section 70 (10) in respect of a breach of a condition attached under section 70 (7) (b) to its agreement to transfer moneys under section 70 (4), subject to the agreement of the parties in writing, the dispute may be resolved by the management company agreeing to carry out, at its expense, such additional works as are agreed by the parties to be necessary to secure compliance with the condition concerned.
+
+(3) Where there is a dispute between the housing authority and the management company on any matter or matters relating to the demand for repayment under section 70 (10), which cannot be resolved to the satisfaction of both parties, the matter shall be determined by conciliation procedures agreed between both parties or, in default of such agreement, by arbitration under the Arbitration Acts 1954 to 1998.
