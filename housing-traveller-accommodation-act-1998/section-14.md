@@ -1,0 +1,3 @@
+Adoption of accommodation programme by manager.
+
+14.—Where a housing authority fails to adopt an accommodation programme, or an amendment to or a replacement of it, by the date specified for such adoption under section 7 or 10, or, where appropriate, the date referred to in section 17 or 18, or within the 21 day period of such date referred to in section 13, the chief executive shall by order adopt the draft accommodation programme, or the amendment to or replacement of it, submitted in accordance with section 12, within one month of the date concerned subject to any modifications as, in the opinion of the chief executive, are considered appropriate.

@@ -1,0 +1,3 @@
+Submission of accommodation programme to relevant housing authority.
+
+12.—The chief executive of a housing authority shall submit the draft accommodation programme, or the draft of an amendment to or replacement of it, and the report referred to in section 11 to the members of the housing authority not later than 3 months before the date specified for adoption by the Minister under section 7 or 10, or, where appropriate, the date referred to in section 17 or 18, and the housing authority concerned shall, as soon as may be after such submission, furnish a copy of such draft to the bodies notified under section 8.

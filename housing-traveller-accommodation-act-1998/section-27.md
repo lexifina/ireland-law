@@ -1,0 +1,5 @@
+Supplemental provisions to section 26.
+
+27.—(1) A planning authority may, when complying with the provisions of paragraphs (a)(vi) (inserted by section 26) and (b) (v) (inserted by section 26) of section 19(2) of the Act of 1963, include those objectives in a variation of the development plan under section 20(1) of the Act of 1963 or a new development plan under section 20(1) of the Act of 1963 (as amended by section 43(1)(e) of the Local Government (Planning and Development) Act, 1976) of which notice under section 21(1)(b) of the Act of 1963 is published after the coming into operation of section 26.
+
+(2) Notwithstanding the provisions of section 39 of the Act of 1963, any thing done or act carried out by a housing authority for the purpose of implementing an accommodation programme shall be deemed not to contravene a development plan in the period between the coming into operation of section 26 and compliance with paragraphs (a)(vi) (inserted by section 26)) and (b)(v) (inserted by section 26) of section 19(2) of the Act of 1963.
