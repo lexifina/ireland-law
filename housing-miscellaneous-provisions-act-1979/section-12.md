@@ -1,0 +1,3 @@
+Subsidies by Minister for certain loans guaranteed by housing authorities.
+
+12.—...

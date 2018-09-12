@@ -1,0 +1,3 @@
+Amendment of section 60 of Principal Act.
+
+16.—...

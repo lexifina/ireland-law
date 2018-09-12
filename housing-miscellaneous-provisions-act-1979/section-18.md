@@ -1,0 +1,137 @@
+Certificates of reasonable value.
+
+18.—(1) (a) Subject to subsection (3) of this section and to such regulations as may be made by the Minister for the purposes of this section, the Minister, on the application in writing of a person who appears to the Minister to be providing for sale a new house, may, subject to compliance by the person with the provisions of this section, grant to the person in respect of the sale of the house a certificate (which shall be known as a certificate of reasonable value and is in this section referred to as “a certificate”) stating that the house appears to the Minister at the time of the granting of the certificate and on the basis of the information available to the Minister at that time to represent reasonable value for the amount specified in the certificate, and specifying such other matters, if any, as the Minister considers appropriate.
+
+(b) The Minister may, on the application in writing of a person in relation to a new house, if it appears to the Minister that the house is not being provided for sale, grant to the person a certificate (which shall be known as a certificate of exemption) stating that it so appears to the Minister.
+
+(c) An application under this subsection shall be accompanied by a fee of such amount as may be prescribed from time to time for the purposes of this subsection.
+
+(2) (a) Regulations for the purposes of this subsection may specify the loans to which this subsection applies, and the specification may relate to all loans or to loans that do not exceed a specified amount or to loans that are not less than a specified amount or to loans that do not exceed a specified amount and are not less than another specified amount.
+
+(b) If and whenever regulations for the purposes of this subsection specifying the loans to which this subsection applies are in force, a loan so specified shall not be made by an assurance company, a bank, a building society, or other industrial or commercial organisation or a housing authority (hereinafter referred to as “the lender”) in respect of a new house unless the person who made the application for the loan furnishes to the lender either a certificate in respect of the sale of the house, or a certificate of exemption in respect of the house, and the provisions of any regulations for the purposes of this subsection are complied with.
+
+(c) A person who contravenes paragraph (b) of this subsection shall be guilty of an offence.
+
+(3) The Minister shall not grant a certificate in respect of the sale of a house—
+
+(a) if the amount of the consideration for the sale (in this section subsequently referred to as “the price”) is greater than the greatest amount for which, in the opinion of the Minister, the house represents reasonable value, or
+
+(b) if the price is greater than an amount standing prescribed for the time being under subsection (9) (g) of this section, or
+
+(c) if the sale is completed before the date of the receipt by the Minister of an application for the certificate, or
+
+(d) if the amount of the cost or value of the site of the house included in the price is greater than an amount standing prescribed for the time being under subsection (9) (h) of this section.
+
+(4) (a) The Minister may refuse to grant a certificate in any case where the amount of the cost or value of the site of a house included in the price is greater than the amount for which the site appears to the Minister to represent reasonable value.
+
+(b) For the purposes of paragraph (a) of this subsection, the Minister may, on the application in writing of either the vendor or purchaser of the site of a house indicate in writing in advance of an application for a certificate whether or not a particular amount proposed to be included in the price as the cost or value of the site appears to the Minister to represent reasonable value.
+
+(5) (a) Where the Minister decides under subsection (3) (a) or (4) (a) of this section not to grant a certificate, he shall notify in writing the person who applied for such grant of his decision and the person may, within the period of 21 days beginning on the date of receipt by him of the notification, appeal to the Circuit Court against the decision and that Court may, on the hearing of the appeal, as it thinks proper, affirm the decision or direct the Minister to grant the certificate.
+
+(b) Notice of an appeal under this section shall be given to the Minister and an officer of the Minister shall be entitled to appear and be heard on the hearing of the appeal.
+
+(c) No appeal shall lie from a decision of the Circuit Court on an appeal under this subsection.
+
+(6) The Minister may, on the application in writing of a person to whom a certificate was granted under subsection (1) (a) of this section, or of any other person who appears to the Minister at the time of the application to be providing a house referred to in a certificate, revoke the certificate and grant another certificate in different terms from the first-mentioned certificate in respect of the sale to which the first-mentioned certificate related.
+
+(7) (a) An application to the Minister for the grant of a certificate or a certificate of exemption shall be supported by such information as the Minister may require for the purpose of his functions under this section in relation to the grant.
+
+(b) A person who furnishes information to the Minister under this section that is false or misleading shall be guilty of an offence.
+
+(8) (a) It shall be the duty of a person to whom a certificate is granted in respect of the sale of a house to ensure that the standards in relation to—
+
+(i) the design, specification, construction and finish of the house,
+
+(ii) the nature and quality of the materials used in the construction and finish of the house,
+
+(iii) the total floor area of the house, measured in such manner as may be determined by the Minister from time to time,
+
+(iv) such fixtures, fittings or other articles as are included with the house in the sale, their design, manufacture and finish and their nature and quality, and
+
+(v) the fitting or installation of the fixtures, fittings and articles aforesaid, are not inferior to or less in value than those specified, expressly or by implication, by the person to the Minister under subsection (7) of this section.
+
+(b) It shall be the duty of a person to whom a certificate is granted in respect of the sale of a house, and of the purchaser of the house on that sale, to ensure that the price charged or paid for the sale, as the case may be, is not greater than the amount specified in the certificate, such amount being varied, where appropriate, to take into account the reasonable additional cost, or saving, caused by any alteration—
+
+(i) of the standards referred to in paragraph (a) of this subsection or in relation to the matters referred to in subparagraphs (i) to (v) of that paragraph, or
+
+(ii) if the price aforesaid is stated in the certificate to be subject to variation, of the cost of the provision of the house and of any fixtures, fittings or other articles included in the sale thereof.
+
+(c) A person who contravenes paragraph (a) or (b) of this subsection shall be guilty of an offence.
+
+(9) Without prejudice to the generality of subsections (1) and (2) of this section, regulations under this section may make provision in relation to all or any one or more of the following:
+
+(a) requirements in relation to an application to the Minister for a certificate or a certificate of exemption that shall be complied with by the person making the application,
+
+(b) conditions to which the grant of a certificate shall be subject,
+
+(c) requirements as to the total floor area of a house to which a certificate relates,
+
+(d) conditions or clauses in a contract for the sale of a house to which a certificate relates providing for the variation of the price for the sale,
+
+(e) requirements in relation to the contents and display of notices at or near houses or sites where houses are being or are to be provided, being houses or proposed houses to which certificates relate,
+
+(f) requirements in relation to the inspection of houses and sites by officers of the Minister,
+
+(g) the amount that is the greatest price that may be specified by the Minister in a certificate, and
+
+(h) the amount that is the greatest amount that may be reckoned by the Minister in respect of the cost or value of the site of a house in determining an application for a certificate.
+
+(10) (a) Without prejudice to any penalties which may be imposed under this section, the Minister may, at his discretion, in any case where he is satisfied that a person to whom a certificate was granted has supplied information under subsection (7) (a) of this section that is false or misleading or has contravened paragraph (a) or (b) of subsection (8) of this section, or a condition subject to which the certificate was granted, do either or both of the following, that is to say:
+
+(i) revoke the certificate in respect of which the contravention has occurred,
+
+(ii) refuse for such period as he considers appropriate (but not exceeding five years from the date of the notification to the person under paragraph (b) of this subsection) to grant a certificate to the person or to a person connected with him (any question whether a person is connected with another person being, for the purposes of this subsection, determined in accordance with section 96 (3) of the Income Tax Act, 1967, with the modification that references in the said section 96 (3) to control in relation to a company shall be construed as references to the ownership of not less than 20 per cent in nominal value of the share capital of the company).
+
+(b) Before the Minister exercises a power under this subsection, he shall notify in writing the person concerned of his intention to do so and shall include in the notification particulars of the nature of and the reasons for such exercise and shall consider any representations from the person concerned if they are received by the Minister not later than the expiration of the period of 21 days beginning on the day on which he is notified under this paragraph.
+
+(c) In exercising a power under this subsection, the Minister shall notify in writing the person concerned of his decision.
+
+(d) A person may, within a period of three months beginning on the date of receipt by him of the Minister's decision under paragraph (a) of this subsection or of his opinion under subsection (16) of this section, appeal to the High Court against the decision or opinion and on such appeal the High Court may affirm, reverse or vary such decision or opinion.
+
+(11) (a) A person shall not forge a document purporting to be a certificate or a certificate of exemption.
+
+(b) A person shall not, with intent to deceive, either alter or use a certificate or a certificate of exemption.
+
+(c) A person who contravenes this subsection shall be guilty of an offence.
+
+(12) Where—
+
+(a) a person to whom a certificate has been granted contravenes a condition subject to which it was granted, or
+
+(b) a person contravenes a regulation under this section, he shall be guilty of an offence.
+
+(13) Where the commission by any person of an offence under this section is due to the act or default of some other person, that other person shall also be guilty of the offence and may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the first-mentioned person.
+
+(14) (a) In any proceedings for an offence under this section (other than subsection (11)) it shall, subject to paragraph (b) of this subsection, be a defence for the person charged to prove—
+
+(i) that the commission of the offence was due to a mistake or to the act or default of another person or the reliance on information supplied to him by another person, an accident or some other cause beyond his control, and
+
+(ii) that he took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence by himself or any other person under his control.
+
+(b) If in any case the defence provided by paragraph (a) of this subsection involves the allegation that the commission of the offence was due to the act or default of another person or to reliance on information supplied by another person, the person charged shall not, without leave of the court, be entitled to rely on that defence unless, not less than seven clear days before the hearing, he has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of that other person as was then in his possession.
+
+(15) (a) A person guilty of an offence under this section shall be liable on conviction on indictment to a fine not exceeding £10,000.
+
+(b) A Justice of the District Court shall have jurisdiction to try summarily an offence under this section if—
+
+(i) the Justice is of opinion that the facts proved or alleged against a defendant charged with such an offence constitute a minor offence fit to be tried summarily,
+
+(ii) the Director of Public Prosecutions consents, and
+
+(iii) the defendant (on being informed by the Justice of his right to be tried by a jury) does not object to being tried summarily, and, upon conviction under this paragraph, the said defendant shall be liable to a fine not exceeding £500.
+
+(c) Section 13 of the Criminal Procedure Act, 1967, shall apply in relation to an offence under this section as if, in lieu of the penalties specified in subsection (3) of that section, there were specified therein the penalty provided for by paragraph (b) of this subsection and the reference in subsection (2) (a) of that section to the penalties provided for in subsection (3) of that section shall be construed accordingly.
+
+(16) In this section—
+
+“assurance company” has the meaning assigned to it by the Insurance Acts, 1909 to 1978;
+
+“bank” means the holder of a licence under section 9 of the Central Bank Act, 1971, or a trustee savings bank certified under the Trustee Savings Banks Acts, 1863 to 1979;
+
+“company” means a company within the meaning of section 2 of the Companies Act, 1963, or a company incorporated outside the State;
+
+“sale”, in relation to a house, includes a sale of land and an agreement relating to the erection of a house thereon which, in the opinion of the Minister, is associated with such sale irrespective of whether—
+
+(i) such sale is conditional on the making of such agreement, or
+
+(ii) the vendor of the land is a party to such agreement.
