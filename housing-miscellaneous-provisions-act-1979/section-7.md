@@ -1,0 +1,7 @@
+Grants by Minister for housing of elderly persons and others.
+
+7.—(1) The Minister may, with the consent of the Minister for Finance and subject to such regulations as may be made by the Minister under this section, pay, out of moneys provided by the Oireachtas, a grant to a body, approved of by the Minister for the purposes of this section, in respect of the provision (whether by erection, purchase, improvement or conversion works), of one or more than one house for the accommodation of elderly persons or such other class or classes of persons as may be specified in the regulations, or for the accommodation, as his normal place of residence, in the house or houses or within the precincts thereof, of a person providing welfare or caretaker services for such persons or such class or classes of persons.
+
+(2) Regulations under this section may, in particular, but without prejudice to the generality of subsection (1) of this section, make provision in relation to all or any one or more of the matters referred to in sections 4 (2) and 5 (2) of this Act.
+
+(3) A grant shall not be paid under this section unless the house or works the subject of the grant complies or comply on completion with such conditions, if any, as may be determined by the Minister from time to time for the purposes of this section in relation to standards of construction of houses and the provision of water, sewerage and other services therein.
