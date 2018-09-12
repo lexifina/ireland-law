@@ -1,0 +1,3 @@
+Power of An Chomhairle to borrow temporarily.
+
+17.—...
