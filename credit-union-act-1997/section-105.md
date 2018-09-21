@@ -1,0 +1,3 @@
+Exercise of Registrar's functions.
+
+105.—...

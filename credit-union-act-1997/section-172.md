@@ -1,0 +1,5 @@
+Offences by officers etc.
+
+172.—(1) Where an offence under this Act which is committed by a credit union is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer or member of the credit union, that officer or member (as well as the credit union) shall be guilty of an offence and liable to be proceeded against and punished as if guilty of the offence committed by the credit union.
+
+(2) Where an offence under any provision of this Act which is committed by a body corporate, other than a credit union, is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any person who, when the offence was committed, was a director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, that person (as well as the body corporate) shall be guilty of an offence and liable to be proceeded against and punished as if guilty of the offence committed by the body corporate.
