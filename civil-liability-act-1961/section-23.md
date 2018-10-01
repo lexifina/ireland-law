@@ -1,0 +1,9 @@
+Enforcement of judgment for contribution.
+
+23.—(1) Where, in accordance with the provisions of this Part, judgment is given for contribution in respect of damages for which the claimant is or has been liable to the injured person, execution shall not be issued on such judgment until after satisfaction by the claimant in whose favour it is given before or after the said judgment of the whole or part of the damages for which he is liable to the injured person, and execution shall then issue only in respect of the amount by which the sum paid by him exceeds his just proportion of that particular amount, as such proportion is determined by the court in accordance with this Part.
+
+(2) Notwithstanding anything in subsection (1) of this section, execution may be issued on such judgment as aforesaid after satisfaction by the claimant in whose favour it is given of his just proportion of the damages for which he is liable to the injured person, provided that in this case the court makes provision, by obtaining the personal undertaking of the claimant’s solicitor or otherwise, for applying the sum received under the said judgment towards satisfaction of the damages due to the injured person
+
+(3) In this section “damages for which he is liable to the injured person” means damages for which the claimant is liable at the time when satisfaction is made to the injured person or his representatives or lawful assignees.
+
+(4) A payment of damages by the claimant at a time when the injured person’s cause of action against the claimant is barred by the Statute of Limitations or any other limitation enactment shall not found a claim to levy execution under a judgment for contribution: but such a payment shall found such a claim if, at the time when it was made, the injured person’s cause of action against the contributor was not barred.
