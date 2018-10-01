@@ -1,0 +1,13 @@
+## Fraudulent and Voluntary Conveyances
+
+Avoidance of fraudulent preferences.
+
+57.—(1) Every conveyance or transfer of property or charge made thereon, every payment made, every obligation incurred and every judicial proceeding taken or suffered by any person unable to pay his debts as they become due from his own money in favour of any creditor or of any person in trust for any creditor, with a view to giving such creditor, or any surety or guarantor for the debt due to such creditor, a preference over the other creditors, shall, if the person making, incurring, taking or suffering the same is adjudicated bankrupt within 3 years after the date of the making, incurring, taking or suffering the same, be deemed fraudulent and void as against the Official Assignee; but this section shall not affect the rights of any person making title in good faith and for valuable consideration through or under a creditor of the bankrupt.
+
+(2) (a) Where a person is adjudicated bankrupt and anything made or done is void under subsection (1) or was void under the corresponding provisions of the law in force immediately before the commencement of this Act as a fraudulent preference of a person interested in property mortgaged or charged to secure the bankrupt’s debt, then (without prejudice to any rights or liabilities arising apart from this section) the person preferred shall be subject to the same liabilities and shall have the same rights as if he had undertaken to be personally liable as surety for the debt to the extent of the charge on the property or the value of his interest, whichever is the less.
+
+(b) The value of the said person’s interest shall be determined as at the date of the transaction constituting the fraudulent preference, and shall be determined as if the interest were free of all encumbrances other than those to which the charge for the bankrupt’s debt was then subject.
+
+(c) On any application made to the Court in relation to any payment on the ground that the payment was a fraudulent preference of a surety or guarantor, the Court shall have jurisdiction to determine any questions relating to the payment arising between the person to whom the payment was made and the surety or guarantor, and to grant relief in respect thereof notwithstanding that it is not necessary so to do for the purposes of the bankruptcy, and for that purpose may give leave to bring in the surety or guarantor as a third party as in the case of an action for the recovery of the sum paid.
+
+(d) Paragraph (c) shall apply, with the necessary modifications, in relation to transactions other than the payment of money as it applies to payments.
