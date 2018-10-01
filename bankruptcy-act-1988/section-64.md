@@ -1,0 +1,3 @@
+Power of Official Assignee to bar entail.
+
+64.— ...

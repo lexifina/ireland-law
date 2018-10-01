@@ -1,0 +1,3 @@
+Order to put purchaser in possession.
+
+52.—Where land belonging to a bankrupt or arranging debtor has been sold under the provisions of this Act or by or under the direction of the Court, the Court may, on the application of the purchaser, issue an order directing the appropriate sheriff or county registrar to put the purchaser into possession of all the land not in the occupation of lessees, under-lessees or tenants, subject to whose interests the sale has been made and who have attorned to the purchaser within a time to be limited in the order, and the order shall be executed in like manner as an order for the delivery of possession.
