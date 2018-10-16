@@ -1,0 +1,3 @@
+Disposal of proceeds of sale.
+
+84.—Where a road authority or the Commissioner become entitled to dispose or procure the disposal of anything removed from a public road under this Act, then the authority or the Commissioner shall be entitled to sell the thing for the best price reasonably obtainable and upon doing so shall pay to the person who was the owner (where the name and address of such owner can be ascertained by reasonable inquiry) of the thing at the time of its removal a sum equal to the proceeds of such sale after deducting therefrom any expenditure reasonably incurred by the authority or the Commissioner in its removal, storage and sale.

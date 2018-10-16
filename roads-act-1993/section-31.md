@@ -1,0 +1,19 @@
+Transfer of staff of public authorities.
+
+31.—(1) (a) A public authority may designate for employment by the Authority any person employed by the public authority and whose principal duties relate to a function assigned or transferred to the Authority under this Act, or to be so assigned or transferred to the Authority.
+
+(b) A designation under this subsection by a public authority other than the Minister shall be made only with the consent of the Minister and the Authority.
+
+(c) A public authority shall not designate an employee under this subsection, without having notified in writing the employee and any recognised trade unions or staff associations concerned, of its intention to do so and considered any representations made by him, or by them or by any of them, in relation to the matter within such time as may be specified in the notification.
+
+(2) The Authority shall accept into its employment a person designated under subsection (1) for employment by it.
+
+(3) Acceptance into the employment of the Authority of a person designated under this section shall have effect on such day as may be specified by the Minister after consultation with the Authority.
+
+(4) The terms and conditions relating to tenure which are granted by the Authority in relation to a person accepted into its employment under this section shall not, while the person is in the employment of the Authority, be less favourable to him than those prevailing immediately before his acceptance into such employment save in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned. If a dispute arises between the Authority and any such person as to the terms and conditions prevailing immediately before his acceptance into the employment of the Authority, the matter shall be determined by the Minister for Finance, after consultation with the Minister.
+
+(5) Save in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned, a person referred to in subsection (4) shall not, while in the employment of the Authority, receive a lesser scale of pay or be made subject to less beneficial terms and conditions of service (other than those relating to tenure) than the scale of pay to which he was entitled and the terms and conditions of service (other than those relating to tenure) to which he was subject immediately before the day on which he was so accepted.
+
+(6) Until such time as the scale of pay and the terms and conditions of service (other than those relating to tenure) of a person referred to in subsection (4) are varied by the Authority, following consultation with any recognised trade unions and staff associations concerned, the scales of pay to which such person was entitled and the terms and conditions of service (other than those relating to tenure), restrictions, requirements and obligations to which the person was subject immediately before such acceptance shall continue to apply and may be applied or imposed by the Authority, while the person is in the employment of the Authority; no such variation shall operate to worsen the scale of pay or the terms or conditions of service aforesaid applicable to an employee immediately before he was accepted into the employment of the Authority, save in accordance with a collective agreement negotiated with any recognised trade unions or staff associations concerned.
+
+(7) Previous service of any person in a public authority from which he was accepted into the employment of the Authority under this section shall be reckonable for the purposes of, but subject to any other exceptions or exclusions in, the Redundancy Payments Acts, 1967 to 1991, the Holidays (Employees) Acts, 1973 and 1991, the Minimum Notice and Terms of Employment Acts, 1973 to 1991, and the Unfair Dismissals Acts, 1977 and 1991.
