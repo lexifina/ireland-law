@@ -1,0 +1,3 @@
+Implementation of a water services strategic plan or any revision thereof.
+
+38.— ...

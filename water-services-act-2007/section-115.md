@@ -1,0 +1,15 @@
+Amendment of Act of 2001.
+
+115.— The Act of 2001 is amended by substituting the following for Schedule 12:
+
+“Section 63.
+
+## SCHEDULE 12 ACTS OF THE OIREACHTAS: FUNCTIONS OF LOCAL AUTHORITIES
+
+## PART 1 RESPONSIBILITY PRIMARILY WITH THE MINISTER
+
+Air Pollution Act 1987 Building Control Act 1990 Control of Dogs Acts 1986 and 1992 Derelict Sites Act 1990 Dublin Docklands Development Authority Act 1997 Electoral Acts 1992 to 2004 Environmental Protection Agency Acts 1992 to 2007 Fire Services Acts 1981 and 2003 Housing Acts 1966 to 2004 Housing (Private Rented Dwellings) Acts 1982 and 1983 Licensing of Indoor Events Act 2003 Litter Pollution Acts 1997 to 2003 Local Authorities (Miscellaneous Provisions) Act 1936 Local Authorities (Mutual Assurance) Acts 1926 to 1935 Local Authorities (Officers and Employees) Acts 1926 to 1983 Local Authorities (Works) Act 1949 Local Elections Acts 1974 to 2004 Local Government Acts 1925 to 2007 Local Government (Collection of Rates) Act 1924 Local Government (Multi-Storey Buildings) Act 1988 Local Government (Rates) Act 1970 Local Government (Sanitary Services) Acts 1878 to 2001 Local Government (Superannuation) Act 1980 Local Government (Water Pollution) Acts 1977 to 2007 National Monuments Acts 1930 to 2004 Planning and Development Acts 2000 to 2007 Presidential Elections Acts 1992 to 2004 Protection of the Environment Act 2003 Seanad Electoral (Panel Members) Acts 1947 to 2001 Town Renewal Act 2000 Urban Renewal Acts 1986 and 1987 Urban Renewal Act 1998 Waste Management Acts 1996 to 2003 Water Services Act 2007 Water Supplies Act 1942
+
+## PART 2 RESPONSIBILITY PRIMARILY WITH A MINISTER OF THE GOVERNMENT OTHER THAN THE MINISTER
+
+Abattoirs Act 1988 Air-raid Precautions Acts 1939 and 1946 Animals Act 1985 Arterial Drainage Acts 1945 and 1995 Arts Act 2003 Canals Acts 1986 and 2005 Casual Trading Act 1995 Civil Defence Acts 1939 to 2002 Coast Protection Act 1963 Communications Regulation Act 2002 Control of Horses Act 1996 Coroners Acts 1962 and 2005 Dangerous Substances Acts 1972 and 1979 Dublin Transport Authority (Dissolution) Act 1987 Finance (Excise Duties) (Vehicles) Acts 1952 and 1960 Food Safety Authority of Ireland Act 1998 Foreshore Acts 1933 to 2005 Gaming and Lotteries Acts 1956 to 2003 Harbours Acts 1996 to 2005 Harbours Acts 1946 to 2005 Health Acts 1947 to 2006 Health (Fluoridation of Water Supplies) Act 1960 Intoxicating Liquor Act 2003 Local Authorities (Higher Education Grants) Acts 1968 to 1992 Local Authorities (Traffic Wardens) Acts 1975 and 1987 Malicious Injuries Acts 1981 and 1986 Minister for Community, Rural and Gaeltacht Affairs (Powers and Functions) Act 2003 Pounds (Provision and Maintenance) Act 1935 Roads Acts 1993 to 2001 Road Traffic Acts 1961 to 2006 Safety, Health and Welfare at Work Act 2005 Social Welfare Acts State Authorities (Public Private Partnership Arrangements) Act 2002 Údarás na Gaeltachta Acts 1979 to 1999 Universities Acts 1997 and 1999 Valuation Act 2001 Vocational Education Acts 1930 to 2001.”.

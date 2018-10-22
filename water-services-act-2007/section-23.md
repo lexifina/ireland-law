@@ -1,0 +1,5 @@
+Time limits.
+
+23.— (1) Where a provision of this Act, or of any regulation made under this Act, or of any notice served under this Act, enables representations to be made, or requires documents, particulars or other information to be furnished, before the expiration of a specified period and the last day of that period is a Saturday, a Sunday, a public holiday (within the meaning of the Organisation of Working Time Act 1997) or any other day on which the principal office of the water services authority concerned, or other prescribed person (as the case may be), is closed, the representations, documents, particulars or other information (as the case may be), shall be regarded as having been received before the expiration of that period if received by the water services authority or other prescribed person on the next following day on which the principal office of the water services authority, or other prescribed person, is open.
+
+(2) In this section “representations” includes objections, submissions and observations.
