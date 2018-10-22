@@ -1,0 +1,9 @@
+## CHAPTER 3 Integration Measures
+
+Promotion of public transport.
+
+57.— (1) The Authority shall either itself or in co-operation with other persons promote the use of public transport ....
+
+(2) The Authority shall, for the purposes of promoting public transport, design, develop and secure the implementation of a single brand to be used by all public transport operators providing services in accordance with a public transport services contract with the Authority ....
+
+(3) The Authority may give a direction to a public transport operator providing services in accordance with a public transport services contract or a public transport authority to take such actions as, in the view of the Authority, are necessary to ensure the promotion of public transport and the promotion and use of a single public transport brand ....
