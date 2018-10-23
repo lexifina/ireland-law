@@ -1,6 +1,6 @@
 Obligation to give information on ownership.
 
-7.— (1) A water services authority, Bord Gáis Éireann, Irish Water or other prescribed person may for any purposes connected with this Act, by notice in writing, require the occupier of any land or any person receiving, whether for himself or herself or for another, rent from any land to inform it or him or her within a specified period ending not less than 14 days after being so required, of particulars of—
+7.— (1) A water services authority, ... Irish Water or other prescribed person may for any purposes connected with this Act, by notice in writing, require the occupier of any land or any person receiving, whether for himself or herself or for another, rent from any land to inform it or him or her within a specified period ending not less than 14 days after being so required, of particulars of—
 
 (a) the estate,
 

@@ -1,18 +1,18 @@
 Provision of information.
 
-6.— (1) The Minister, a water services authority, Bord Gáis Éireann, Irish Water or any prescribed person may, for the purposes of discharging his or her or its functions under this Act, by notice in writing given to or served on a person who is—
+6.— (1) The Minister, a water services authority, ... Irish Water or any prescribed person may, for the purposes of discharging his or her or its functions under this Act, by notice in writing given to or served on a person who is—
 
 (a) providing water services,
 
 (b) making, causing or permitting a discharge to a drain, service connection or waste water works, or
 
-(c) in receipt of a water supply, require the person to keep such records or to give to the Minister, a water services authority, Bord Gáis Éireann, Irish Water or other prescribed person, in writing or otherwise as may be specified, within such period (being not less than 14 days) beginning on the date of the giving or serving of the notice as may be specified in the notice, such particulars as may be so specified in relation to any of those activities or practices, and such other information (if any) as he or she or it may consider necessary for the purposes of those functions.
+(c) in receipt of a water supply, require the person to keep such records or to give to the Minister, a water services authority, ... Irish Water or other prescribed person, in writing or otherwise as may be specified, within such period (being not less than 14 days) beginning on the date of the giving or serving of the notice as may be specified in the notice, such particulars as may be so specified in relation to any of those activities or practices, and such other information (if any) as he or she or it may consider necessary for the purposes of those functions.
 
 (2) A person who—
 
 (a) fails or refuses to comply with a requirement in a notice under this section,
 
-(b) in purported compliance with such a requirement gives to the Minister, a water services authority, Bord Gáis Éireann, Irish Water or other prescribed body information that, to his or her knowledge, is false or is misleading in a material respect, or
+(b) in purported compliance with such a requirement gives to the Minister, a water services authority, ... Irish Water or other prescribed body information that, to his or her knowledge, is false or is misleading in a material respect, or
 
 (c) in relation to an application for a licence or consent, or to an application for financial assistance, or to the provision of any information required under this Act or any regulations thereunder provides information which is to his or her knowledge false or misleading, commits an offence.
 
