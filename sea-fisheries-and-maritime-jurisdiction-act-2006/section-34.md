@@ -1,0 +1,3 @@
+Offence by body corporate, etc.
+
+34.— Where an offence under the Sea-Fisheries Acts 2003 and 2006 is committed by a body corporate or by a person purporting to act on behalf of a body corporate or on behalf of an unincorporated body of persons and it is proved to have been so committed with the consent or connivance of or to be attributable to any neglect on the part of any other person who, when the offence was committed, was, or purported to act as, a director, manager, secretary or other officer (including a member of such body), such other person as well as the body, or the person so purporting to act on behalf of the body, commits an offence and is liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.

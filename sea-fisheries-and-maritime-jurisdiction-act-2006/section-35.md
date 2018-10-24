@@ -1,0 +1,7 @@
+Service of trial documents — persons resident outside State.
+
+35.— (1) Where a judge of the District Court proposes to make an order for the release on bail of a defendant before him or her, charged with an offence under the Sea-Fisheries Acts 2003 and 2006, who is ordinarily resident outside the State, he or she shall, unless he or she is satisfied that the following documents can be duly served on the defendant in the State, direct that all documents (including an indictment) required by law to be served on the defendant in connection with or for the purpose of the charge or of any proceedings arising out of or connected with the charge may, in lieu of being served on the defendant, be served on a person specified in the direction who is ordinarily resident in the State.
+
+(2) Where a judge of the District Court who has given a direction under subsection (1) or another judge of the District Court acting in his or her place is satisfied that, owing to the death or absence from the State of a person specified in the direction or for any other reason a document referred to in subsection (1) cannot be served on that person, the judge shall direct that the document may be served on another person specified in the direction who is ordinarily resident in the State.
+
+(3) Service of a document referred to in this section on a person specified in a direction under this section is deemed for all purposes to be service on the defendant concerned.
