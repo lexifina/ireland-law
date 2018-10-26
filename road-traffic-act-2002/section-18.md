@@ -1,0 +1,3 @@
+Amendment of section 40 of Principal Act.
+
+18.—...
