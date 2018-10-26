@@ -1,0 +1,5 @@
+Obligation to give current address to member of Garda Síochána.
+
+62.— (1) Where a person, on the demand or at the requirement of a member of the Garda Síochána under section 40 of the Principal Act or a requirement of such a member under section 61 (1) of this Act, produces for inspection a driving licence or learner permit under that provision, the member making the demand or requirement of the person, where it is produced for inspection to him or her or, where it is produced for inspection at a Garda Síochána station, the member of the Garda Síochána at the Garda Síochána station to whom it is produced for inspection, as the case may be, may require of the person to state whether the address mentioned on the driving licence or learner permit is the address at which the person currently resides, and if it is not, to require the person to give to the member the address at which he or she currently resides.
+
+(2) A person who fails to comply with a requirement under subsection (1) commits an offence.

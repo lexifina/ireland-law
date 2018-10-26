@@ -1,0 +1,3 @@
+Transitional measure — onus of proof in respect of named driver and discharge duties of registered owner — section 103(4) of Principal Act.
+
+48.—...

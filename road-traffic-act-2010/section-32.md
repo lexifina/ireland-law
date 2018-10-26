@@ -1,0 +1,3 @@
+Amendment of section 5 of Act of 2006 — fixed disqualification notice.
+
+32.—...
