@@ -1,0 +1,3 @@
+Penalties for conviction on indictment of Irish investment services law. (Repealed)
+
+5.— ...
