@@ -1,0 +1,3 @@
+An Act to make provision for the establishment, maintenance and operation of a central credit register for the holding of information about credit applications and credit agreements and parties to them; to make provision about the information to be provided for entry on the register; to make provision for access to the information held on the register for the assessment of creditworthiness and other purposes; to impose duties on parties to credit agreements; to amend the Central Bank Act 1942; and the Central Bank (Supervision and Enforcement) Act 2013; and to make provision for related matters.
+
+[23rd December, 2013] Be it enacted by the Oireachtas as follows:
