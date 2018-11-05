@@ -1,0 +1,5 @@
+Limited certificates of competency for special cases.
+
+22.—(1) Where an applicant for a certificate of competency under section 33 of the Principal Act so requests and the issuing authority within the meaning of that section so determines, a certificate of competency issued under subsection (4) (b) (ii) of that section to that applicant shall, notwithstanding anything in that Act, contain a statement that, in relation to a class of vehicles in respect of which the certificate is issued, it is limited to a specified type of vehicle belonging to that class.
+
+(2) Where the certificate of competency accompanying, pursuant to section 22 (3) (c) of the Principal Act, an application under that section for a driving licence contains a statement that the certificate is limited to a specified type of vehicle belonging to a specified class, any driving licence issued in pursuance of that application shall, notwithstanding anything in that Act, contain a statement that, in relation to that class, the licence is limited to a vehicle of the type specified in the certificate and the licence shall, for the purposes of section 38 of the Principal Act, have effect accordingly.

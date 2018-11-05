@@ -1,0 +1,3 @@
+Opportunity to have taken or to give additional specimen, or to be supplied with portion of specimen.
+
+46.—...

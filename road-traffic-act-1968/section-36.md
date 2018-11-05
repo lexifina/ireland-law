@@ -1,0 +1,3 @@
+Defence to refusal to permit taking of specimen.
+
+36.—...
