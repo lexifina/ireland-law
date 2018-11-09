@@ -1,0 +1,5 @@
+Transitional provision to take account of global valuations made before carrying out of valuation under section 19.
+
+58.—(1) An order under section 53(8) may provide that, in respect of the period for which an existing valuation list remains in force by virtue of section 43 in relation to the area of a rating authority, the valuation referred to in that subsection which is apportioned to that authority by the order shall stand adjusted in a manner specified in the order to make it relative to the value of other properties appearing on the said list.
+
+(2) If provision as aforesaid is made by an order under section 53(8), the Commissioner shall ensure that, in respect of the period referred to in subsection (1), the central valuation list specifies, in addition to the amounts respectively provided by paragraphs (b) and (c) of section 55(1) to be specified in that list, but in a separate part of that list from the part in which those amounts are specified, the said amounts as they stand adjusted pursuant to the said order.

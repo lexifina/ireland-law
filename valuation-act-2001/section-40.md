@@ -1,0 +1,3 @@
+Amendments of valuation lists in relation to similarly circumstanced property.
+
+40.—...

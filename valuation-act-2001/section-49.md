@@ -1,0 +1,9 @@
+Method of determining property's value under section 28(4).
+
+49.—(1) If the value of a relevant property (in subsection (2) referred to as the “first-mentioned property”) falls to be determined for the purpose of section 28(4), (or of an appeal from a decision under that section) that determination shall be made by reference to the values, as appearing on the valuation list relating to the same rating authority area as that property is situate in, of other properties comparable to that property.
+
+(2) For the purposes of subsection (1), if there are no properties comparable to the first-mentioned property situated in the same rating authority area as it is situated in then—
+
+(a) in case a valuation list is in force in relation to that area, the determination referred to in subsection (1) in respect of the first-mentioned property shall be made by the means specified in section 48(1), but the amount estimated by those means to be the property’s net annual value shall, in so far as is reasonably practicable, be adjusted so that amount determined to be the property's value is the amount that would have been determined to be its value if the determination had been made by reference to the date specified in the relevant valuation order for the purposes of section 20,
+
+(b) in case an existing valuation list is in force in relation to that area, the determination referred to in subsection (1) in respect of the first-mentioned property shall be made by the means specified in section 48(1) and by reference to the net annual values of properties (as determined under the repealed enactments) on 1 November 1988, but the amount estimated by those means to be the property's net annual value shall, in so far as it is reasonably practicable, be adjusted so that the amount determined to be the property's value is the amount that would have been determined to be its value if the determination had been made immediately before the commencement of this Act.
