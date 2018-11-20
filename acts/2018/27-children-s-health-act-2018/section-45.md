@@ -1,0 +1,3 @@
+Indemnity for directors of Temple Street Hospital.
+
+45. Where the Minister is satisfied that a director of Temple Street Hospital has discharged his or her duties in pursuance of the functions of that hospital in good faith, the Minister may, in the manner and to the extent and subject to the terms and conditions as the Minister may determine from time to time with the consent of the Minister for Public Expenditure and Reform, indemnify that person against all actions or claims however they arise in respect of the discharge by him or her of his or her duties as a director of Temple Street Hospital.

@@ -1,0 +1,3 @@
+Transfer of land from Crumlin Hospital to Children’s Health Ireland.
+
+29. On the commencement of this Part all lands that, immediately before such commencement, were vested in Crumlin Hospital and all rights, powers and privileges relating to or connected with such lands shall, without any conveyance or assignment, stand vested in Children’s Health Ireland for all the estate or interest therein that, immediately before the commencement of this Part, were vested in Crumlin Hospital, but subject to all trusts and equities affecting the lands continuing to subsist and being capable of being performed.

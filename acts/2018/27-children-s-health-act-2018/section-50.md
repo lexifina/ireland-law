@@ -1,0 +1,9 @@
+Liability for loss occurring before commencement of this Part.
+
+50. (1) A claim in respect of any loss or personal injury alleged to have been suffered by any person arising as a result of receiving paediatric services at Tallaght Hospital before the commencement of this Part, shall on and after the commencement of this Part lie against Children’s Health Ireland and not against Tallaght Hospital.
+
+(2) Such legal proceedings relating to paediatric services as may, with the consent of the Minister, be agreed between Tallaght Hospital and the Executive, pending immediately before the commencement of this Part to which Tallaght Hospital is a party, shall be continued, with the substitution in the proceedings of Children’s Health Ireland, in so far as they so relate, for Tallaght Hospital.
+
+(3) Where, before the commencement of this Part, agreement has been reached between the parties concerned in settlement of a claim to which subsection (1) relates, the terms of which have not been implemented, or judgment in such a claim has been given in favour of a person but has not been enforced, the terms of the agreement or judgment, as the case may be, shall, in so far as they are enforceable against Tallaght Hospital, be enforceable against Children’s Health Ireland in so far as they so relate and not Tallaght Hospital.
+
+(4) Any claim made or proper to be made by Tallaght Hospital in respect of any loss or injury arising from the act or default of any person before the commencement of this Part, which is agreed, before the establishment day, between the Executive and Tallaght Hospital and, after the establishment day, between Children’s Health Ireland and that hospital as relating to paediatric services, shall be regarded as having been made by or proper to be made by Children’s Health Ireland and may be pursued and sued for by Children’s Health Ireland as if the loss or injury had been suffered by Children’s Health Ireland.
