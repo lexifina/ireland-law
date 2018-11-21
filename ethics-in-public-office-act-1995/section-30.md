@@ -1,0 +1,3 @@
+Voluntary statements.
+
+30.—Where a person to whom section 5, 13, 16, 17, 18 or 19 applies has an interest that is not specified in the Second Schedule or a person to whom section 13, 16, 17, 18 or 19 applies has actual knowledge that his or her spouse or civil partner or a child of the person or of his or her spouse has such an interest, the person may at any time prepare a statement under that section of the interest and furnish it to the person or persons to whom such a statement is required by the section to be furnished and, where such a statement is so furnished, this Act shall apply and have effect as if the interest was an interest specified in that Schedule.
