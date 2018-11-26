@@ -1,0 +1,3 @@
+Requirement for designated persons to report transactions connected with places designated under section 32.
+
+43.—...

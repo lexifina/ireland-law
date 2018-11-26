@@ -1,0 +1,3 @@
+Exemption from section 35(1).
+
+36.—...
