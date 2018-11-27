@@ -16,7 +16,9 @@ Meaning of “competent authority”.
 
 (c) in the case of a designated person who is a solicitor, the Law Society of Ireland;
 
-(d) in the case of a designated person who is a barrister, the General Council of the Bar of Ireland;
+(d) in the case of a designated person who is a barrister who is a member of the Law Library, the General Council of the Bar of Ireland;
+
+(da) in the case of a designated person who is a barrister who is not a member of the Law Library, the Legal Services Regulatory Authority;
 
 (e) in the case of any designated person other than a designated person referred to in paragraph (a), (b), (c) or (d), the Minister.
 
