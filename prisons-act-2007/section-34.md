@@ -1,0 +1,3 @@
+Application of section 33 to children in remand centres or children detention schools and other detained persons.
+
+34.— Section 33 also applies to an application to a court in criminal proceedings where the accused or person convicted of the offence concerned is in a remand centre, or a children detention school, within the meaning of the Children Act 2001 or, where the Minister for Health and Children, after consultation with the Minister, by order so directs, a designated centre within the meaning of the Criminal Law (Insanity) Act 2006 and has effect accordingly, with the necessary modifications.
