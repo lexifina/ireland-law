@@ -1,0 +1,3 @@
+Power to enter into contracts and to engage consultants and advisers.
+
+26.—...

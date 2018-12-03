@@ -1,0 +1,3 @@
+Power of officer of customs and excise to detain unsafe goods.
+
+100.— For the purpose of facilitating the performance by the Agency of any functions conferred on it by any of the relevant statutory provisions relating to the safety of products, an officer of customs and excise, when authorised to do so by the Revenue Commissioners following a written request in that behalf by the Agency, may detain any goods being imported for such period as is reasonably necessary for the Agency to examine the goods, or arrange to have the goods examined, which period shall not in any case exceed 72 hours from the time when the goods concerned are detained.
