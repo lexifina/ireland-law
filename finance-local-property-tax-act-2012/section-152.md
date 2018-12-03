@@ -1,0 +1,7 @@
+Information to be provided by the Revenue Commissioners.
+
+152.— (1) Notwithstanding any enactment or rule of law, the Revenue Commissioners shall, upon a request from, and at such intervals as may be specified by the Minister for Finance or the Minister for the Environment, Community and Local Government, provide that Minister of the Government with such information other than taxpayer information within the meaning of section 851A of the Act of 1997 obtained by the Revenue Commissioners pursuant to this Act as that Minister of the Government may reasonably require for the purpose of enabling him or her to perform his or her functions.
+
+(2) For the purposes of administering local property tax, the Revenue Commissioners may request the assistance of a local authority in identifying residential properties in its functional area and in verifying the accuracy of any information it holds in relation to such properties and, for this purpose and notwithstanding any other enactment or rule of law, they may provide a local authority with such information in relation to those properties as may reasonably be required for this purpose.
+
+(3) The Revenue Commissioners shall not provide information in accordance with subsection (1) unless they are satisfied that the provision by them of information obtained by them pursuant to this Act to such person will assist the person in discharging a function conferred on, or delegated to, the person by or under any enactment.
