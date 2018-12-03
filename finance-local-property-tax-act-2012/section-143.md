@@ -1,0 +1,3 @@
+Power to inspect property.
+
+143.—...
