@@ -1,0 +1,3 @@
+Standard wages for areas.
+
+58.—...
