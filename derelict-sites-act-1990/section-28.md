@@ -1,0 +1,5 @@
+Offences.
+
+28.—(1) A person who contravenes section 6 (4), 11 (4), 29 (2), 29 (3), 30 (4) or 32 (3) shall be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding £1,000 (together with, in the case of a continuing offence, a fine not exceeding £100 for every day on which the offence is continued and not exceeding in total an amount which, when added to any other fine under this subsection in relation to the offence concerned, equals £1,000), or to imprisonment for a term not exceeding six months, or at the discretion of the court, to both such fine and such imprisonment.
+
+(2) A person who contravenes section 11 (4) shall be liable, on conviction on indictment, to a fine not exceeding £25,000 (together with, in the case of a continuing contravention, a fine not exceeding £2,000 for every day on which the contravention is continued), or to imprisonment for a term not exceeding two years or, at the discretion of the court, to both such fine and such imprisonment.
