@@ -1,0 +1,5 @@
+Bonds.
+
+25.—(1) Where a local authority is satisfied that the owner of urban land requires the said land for the purpose of carrying out a scheme of development of property which includes the land, and for which permission under Part IV of the Local Government (Planning and Development) Act, 1963 has been granted or in relation to which an application for such permission or an appeal under Part IV of the said Act has been made and has not been refused, the owner may, with the consent of the local authority, enter into a bond in lieu of paying the derelict sites levy for a period of one or more but not exceeding five local financial years.
+
+(2) In this section a “bond” means a guarantee secured with a bank or insurance company that, in the event that the scheme of development referred to in subsection (1), or a substantially similar scheme, is not carried out before the end of the period referred to in subsection (1), there shall be paid to the local authority the amount of all derelict sites levies due within that period.
