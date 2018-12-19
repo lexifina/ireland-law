@@ -1,0 +1,5 @@
+Prohibited relationships - mergers and acquisitions
+
+1537. (1) If, during the period to which the financial statements relate, an audited undertaking is acquired by, merges with, or acquires, another undertaking, the statutory auditor or audit firm shall identify and evaluate any current or recent interests or relationships, including any non-audit services provided to that undertaking, which, taking into account available safeguards, could compromise the statutory auditor’s or audit firm’s independence and ability to continue with the statutory audit after the effective date of the merger or acquisition.
+
+(2) As soon as possible, and in any event within 3 months of the merger or acquisition referred to in subsection (1), the statutory auditor or audit firm shall take all such steps as may be necessary to terminate any current interests or relationships that would compromise his or her independence and shall, where possible, adopt safeguards to minimise any threat to his or her independence arising from prior and current interests and relationships.

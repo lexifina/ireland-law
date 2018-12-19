@@ -1,0 +1,3 @@
+Saving for rights of creditors and contributories
+
+577. The voluntary winding up of a company shall not bar the right of any creditor or contributory to have it wound up by the court; but in the case of an application by a contributory the court must be satisfied that the rights of the contributories will be prejudiced by a voluntary winding up.

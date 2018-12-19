@@ -1,0 +1,7 @@
+Specific requirements with regard to cooperation
+
+1553. (1) Subject to section 1552, the Supervisory Authority, the recognised accountancy bodies and the Registrar with functions relating to approval, registration, quality assurance, inspection and discipline under the relevant provisions shall cooperate with the counterpart authorities in other Member States and the relevant European Supervisory Authorities whenever necessary for the purpose of those authorities or bodies (or, as the case may be, the counterpart authorities) carrying out their respective functions under the relevant provisions or, as the case may be, the laws of the other Member State concerned that implement the Audit Directive.
+
+(2) Subject to section 1552, the Supervisory Authority, the recognised accountancy bodies and the Registrar with the foregoing functions under the relevant provisions shall render assistance to the counterpart authorities in other Member States and to the relevant European Supervisory Authorities and, in particular, shall exchange information and cooperate with them in investigations relating to the carrying out of statutory audits.
+
+(3) In this section, ‘counterpart authorities in other Member States’ means competent authorities or bodies in other Member States with functions corresponding to those of the Supervisory Authority, the recognised accountancy bodies and the Registrar with regard to approval, registration, quality assurance, inspection and discipline under the relevant provisions.

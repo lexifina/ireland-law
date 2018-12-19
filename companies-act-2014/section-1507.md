@@ -1,0 +1,15 @@
+Relevant circumstances to be considered in imposing relevant sanctions on specified person
+
+1507. In imposing a relevant sanction on a specified person, the Supervisory Authority shall consider the following circumstances:
+
+(a) the gravity and duration of the contravention concerned;
+
+(b) the degree of responsibility of the specified person;
+
+(c) the financial strength of the specified person (including, in the case of a specified person who is not an individual, the total turnover of the specified person or, in the case of a specified person who is an individual, the annual income of the individual);
+
+(d) the amount of profits gained or losses avoided by the specified person in consequence of the contravention concerned, in so far as they can be determined;
+
+(e) the level of cooperation of the specified person with the Supervisory Authority and the recognised accountancy body of which the specified person is a member;
+
+(f) previous relevant contraventions committed by the specified person.

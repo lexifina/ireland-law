@@ -1,0 +1,29 @@
+IFRS group financial statements
+
+295. (1) Where the directors of a holding company prepare IFRS group financial statements, they shall comply with all IFRS in that regard and—
+
+(a) shall make an unreserved statement in the notes to those group financial statements that those financial statements have been prepared in accordance with international financial reporting standards, and
+
+(b) shall ensure that those financial statements contain the additional information required by this Act, other than that required by Schedules 3, 3A, 4 and 4A.
+
+(2) For the avoidance of doubt, the requirement for group financial statements prepared in accordance with IFRS to present fairly the assets, liabilities, financial position, financial performance and cash flows is deemed to be equivalent to the true and fair view required by section 294(2).
+
+(2A) IFRS group financial statements shall state the following:
+
+(a) the name and legal form of the holding company;
+
+(b) the place of registration of the holding company and the number under which it is registered;
+
+(c) the address of its registered office;
+
+(d) where the holding company is being wound up, the information required by section 595.
+
+(3) If a company fails to comply with subsection (1) or (2A), the company and any officer of it who is in default shall be guilty of a category 2 offence.
+
+(4) In any proceedings against a person in respect of an offence under subsection (3), it shall be a defence to prove that the defendant had reasonable grounds for believing and did believe that—
+
+(a) a competent and reliable person was charged with the duty of ensuring that the provisions of the subsection concerned were complied with, and
+
+(b) the latter person was in a position to discharge that duty.
+
+(5) In subsection (3) “officer” includes any shadow director and de facto director.

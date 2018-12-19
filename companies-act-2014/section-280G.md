@@ -1,0 +1,51 @@
+Qualification of company as medium company: holding company
+
+280G. (1) A holding company qualifies as a medium company in relation to a financial year only if the group, in respect of which it is the holding company, qualifies as a medium group.
+
+(2) A group that is not excluded by subsection (5) qualifies as a medium group in relation to the first financial year of the holding company if the qualifying conditions are satisfied in respect of that year.
+
+(3) A group that is not excluded by subsection (5) qualifies as a medium group in relation to a subsequent financial year (in this subsection referred to as 'relevant year') of the holding company if the qualifying conditions—
+
+(a) are satisfied in respect of the relevant year and the financial year immediately preceding the relevant year,
+
+(b) are satisfied in respect of the relevant year and the group qualified as a medium group in relation to the financial year immediately preceding the relevant year, or
+
+(c) were satisfied in the financial year immediately preceding the relevant year and the group qualified as a medium group in relation to that preceding financial year.
+
+(4) The qualifying conditions for a medium group are satisfied by a group if, in relation to a financial year, it fulfils 2 or more of the following requirements:
+
+(a) the aggregate amount of turnover of the group does not exceed €40 million net (or €48 million gross);
+
+(b) the aggregate balance sheet total of the group does not exceed €20 million net (or €24 million gross);
+
+(c) the aggregate average number of employees of the group does not exceed 250.
+
+(5) This section shall not apply to the holding company of a group if any member of the group is an ineligible entity.
+
+(6) In the application of this section to any period which is a financial year but is not in fact a year, the amounts specified in subsection (4)(a) shall be proportionally adjusted.
+
+(7) The aggregate figures referred to in subsection (4) shall be ascertained by aggregating the equivalent figures determined in accordance with section 280F for each member of the group.
+
+(8) Where a group proposes to satisfy the qualifying conditions referred to in subsection (4) on the basis of the requirements of paragraphs (a) and (b) of that subsection, it may do so on the basis of either the net figures or the gross figures respectively for both of the said paragraphs.
+
+(9) The figures for each subsidiary undertaking shall be those included in its entity financial statements for the relevant financial year—
+
+(a) if its financial year ends with that of the holding company, that financial year, and
+
+(b) if not, its financial year ending last before the end of the financial year of the holding company.
+
+(10) In this section—
+
+‘first financial year of a holding company’ means the first financial year at the end of which the company qualifies as a holding company by virtue of having one or more subsidiaries;
+
+‘qualifying conditions’ mean the conditions referred to in subsection (4).
+
+(11) For the purposes of this section, in relation to the aggregate figures for turnover and balance sheet total—
+
+‘net’ means after set-offs and other adjustments made to eliminate group transactions—
+
+(i) in the case of Companies Act financial statements, in accordance with Schedule 4, and
+
+(ii) in the case of IFRS financial statements, in accordance with international financial reporting standards;
+
+‘gross’ means without those set-offs and other adjustments.

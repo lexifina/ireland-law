@@ -1,0 +1,7 @@
+Modifications of Act
+
+379. (1) Where the provisions of the Act as to the matters to be included in the statutory financial statements of a company or (as the case may be) in a directors’ report have been amended after the date of the original statutory financial statements or (as the case may be) directors’ report but prior to the date of revision, references in sections 366 and 370(3) to the provisions of this Act shall be read as references to the provisions of this Act as in force at the date of approval of the original statutory financial statements or (as the case may be) directors’ report.
+
+(2) Where the provisions of section 353 ... as to the matters to be included in abridged financial statements have been amended after the date of delivery of the original abridged financial statements but prior to the date of revision of the revised financial statements or report, references in section 370 to the provisions of this Act or to any particular provision of it shall be read as references to the provisions of this Act, or to the particular provision, as in force at the date of approval of the original abridged financial statements.
+
+(3) Where before the repeal of section 354 by section 3(1) of the Companies (Accounting) Act 2017, a medium company referred to in section 354 has prepared and filed abridged financial statements for a financial year in accordance with that section, the company may prepare and file revised abridged financial statements in respect of that financial year as if the said section 354 had not been repealed.

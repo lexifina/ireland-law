@@ -1,0 +1,23 @@
+Minutes of proceedings of meetings of a company
+
+199. (1) A company shall, as soon as may be after their holding or passing, cause—
+
+(a) minutes of all proceedings of general meetings of it, and
+
+(b) the terms of all resolutions of it, to be entered in books kept for that purpose; all such books kept by a company in pursuance of this subsection shall be kept at the same place.
+
+(2) Sections 215 to 217 (rights of inspection, requests for copies, etc.) apply to those books.
+
+(3) Any such minute, if purporting to be signed by the chairperson of the meeting at which the proceedings were had, or by the chairperson of the next succeeding meeting, shall be evidence of the proceedings.
+
+(4) Where minutes have been made in accordance with this section of the proceedings at any general meeting of a company then, until the contrary is proved—
+
+(a) the meeting shall be deemed to have been duly held and convened;
+
+(b) all proceedings had at the meeting shall be deemed to have been duly had; and
+
+(c) all appointments of directors or liquidators shall be deemed to be valid.
+
+(5) A company shall, if required by the Director of Corporate Enforcement, produce to the Director for inspection the book or books kept in accordance with subsection (1) by it and shall give the Director of Corporate Enforcement such facilities for inspecting and taking copies of the contents of the book or books as the Director may require.
+
+(6) If a company fails to comply with subsection (1) or with a requirement made of it under subsection (5), the company and any officer of it who is in default shall be guilty of a category 4 offence.
