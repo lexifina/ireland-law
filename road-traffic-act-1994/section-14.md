@@ -1,0 +1,3 @@
+Obligation to accompany member to Garda Síochána station, not under arrest, to provide blood or urine specimen.
+
+14.—...
