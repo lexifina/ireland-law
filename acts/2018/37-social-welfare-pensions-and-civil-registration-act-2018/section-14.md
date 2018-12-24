@@ -1,0 +1,3 @@
+Review of carer’s allowance payment.
+
+14. The Minister shall conduct a review and lay a report before the Houses of the Oireachtas on the financial hardship faced by carers who must provide full-time care in order to receive carer’s allowance restricting them from taking up other work to supplement their income, examining their access to pension entitlements as well as the barriers to the labour market they face after a period of caring and that the report shall be presented to the Oireachtas Joint Committee on Employment Affairs and Social Protection within 6 months of the enactment of this Bill.
