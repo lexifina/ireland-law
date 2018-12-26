@@ -1,0 +1,15 @@
+Decision of Commission where inquiry under Chapter 2 conducted of own volition
+
+111. (1) Where an inquiry has been conducted of the Commission’s own volition, the Commission, having considered the information obtained in the inquiry, shall—
+
+(a) if satisfied that an infringement by the controller or processor to which the inquiry relates has occurred or is occurring, make a decision to that effect, and
+
+(b) if not so satisfied, make a decision to that effect.
+
+(2) Where the Commission makes a decision under subsection (1)(a), it shall, in addition, make a decision—
+
+(a) as to whether a corrective power should be exercised in respect of the controller or processor concerned, and
+
+(b) where it decides to so exercise a corrective power, the corrective power that is to be exercised.
+
+(3) The Commission, where it makes a decision referred to in subsection (2)(b), shall exercise the corrective power concerned.
