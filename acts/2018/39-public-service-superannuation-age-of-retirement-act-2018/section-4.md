@@ -1,0 +1,5 @@
+Reckoning for superannuation purposes of service by relevant public servants.
+
+4. The Principal Act is amended by the insertion of the following section after section 13:
+
+“13A. Subject to accruing a maximum pension as provided for by or under any enactment or public service pension scheme, any restriction on reckoning for superannuation purposes of service rendered to a public service body after a person reaches a specified age shall, in the case of a relevant public servant, be read as applying only to service rendered by that person to that body after the age of 70 years or, where a higher age is prescribed by order under section 3A(2), that higher age, subject to any extension provided for in a public service pension scheme made, approved or consented to by the Minister for Education and Skills, with the consent of the Minister.”.
