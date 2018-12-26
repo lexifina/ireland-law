@@ -1,0 +1,11 @@
+Search warrants
+
+131. (1) If a judge of the District Court is satisfied on the sworn information of an authorised officer that there are reasonable grounds for suspecting that information required by an authorised officer for the purpose of performing his or her functions under this Part is held at any place, the judge may issue a warrant authorising him or her, accompanied if the officer considers it necessary by such other person or a member of the Garda Síochána, at any time or times from the date of issue of the warrant, on production, if so required, of the warrant, to enter, if need be by reasonable force, the place and exercise all or any of the powers conferred on an authorised officer under section 130.
+
+(2) The period of validity of a warrant shall be 28 days from its date of issue, but that period of validity may be extended in accordance with subsections (3) and (4).
+
+(3) The authorised officer may, during the period of validity of a warrant (including such period as previously extended under subsection (4)), apply to a judge of the District Court for an order extending the period of validity of the warrant and such an application shall be grounded upon information on oath laid by the authorised officer stating, by reference to the purpose or purposes for which the warrant was issued, the reasons why the authorised officer considers the extension to be necessary.
+
+(4) If, on the making of an application under subsection (3), the judge of the District Court is satisfied that there are reasonable grounds for believing, having regard to that information so laid, that further time is needed so that the purpose or purposes for which the warrant was issued can be fulfilled, the judge may make an order extending the period of validity of the warrant by such period as, in the opinion of the judge, is appropriate and just; and where such an order is made, the judge shall cause the warrant to be suitably endorsed to indicate its extended period of validity.
+
+(5) Nothing in subsections (1) to (4) prevents a judge of the District Court from issuing, on the making of a new application under subsection (1), a further search warrant under this section in relation to the same place.
