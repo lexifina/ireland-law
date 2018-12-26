@@ -4,6 +4,8 @@ BODIES TO WHICH THE DEFINITION OF “PUBLIC SERVICE BODY” DOES NOT APPLY
 
 1. A body which has an occupational pension scheme or arrangement that is made or may be made under the agreement between the Government of Ireland and the Government of the United Kingdom of Great Britain and Northern Ireland establishing Implementation Bodies done at Dublin on 8 March 1999.
 
+1A. A body corporate established by Act of Parliament before 6 December 1922 that, upon its establishment, was of a commercial character.
+
 2. Aer Lingus Group p.l.c.
 
 3. Aer Rianta c.p.t.
@@ -39,6 +41,10 @@ BODIES TO WHICH THE DEFINITION OF “PUBLIC SERVICE BODY” DOES NOT APPLY
 17. Radio Teilifís Éireann.
 
 18. Railway Procurement Agency.
+
+18A. Shannon Group p.l.c.
+
+18B. Teilifís na Gaeilge.
 
 19. Voluntary Health Insurance Board.
 
