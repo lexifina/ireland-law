@@ -1,0 +1,3 @@
+Regulations to remove difficulties.
+
+232.—If, in any respect, any difficulty arises in bringing any provision of this Act into operation or in relation to the operation of any such provision, the Minister may be regulations do anything which appears to the Minister to be necessary or expedient for the purposes of removing that difficulty, for bringing that provision into operation or for securing or facilitating its operation and any such regulations may modify any provision of this Act or any other enactment so far as may be necessary or expedient for those purposes, but no regulations shall be made under this section in relation to a provision of this Act after the expiration of 3 years from the commencement of that provision.

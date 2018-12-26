@@ -1,0 +1,3 @@
+Members for municipal districts.
+
+22B.— The members of a county council or city and county council, elected in accordance with this Act for the local electoral areas situated in a municipal district of the county or the city and county concerned (as the case may be), collectively comprise the council membership for that municipal district for the purpose of the performance in that collective capacity of functions of the county council or city and county council in accordance with section 131A and, in respect of each municipal district, collectively shall be known as the municipal district members.

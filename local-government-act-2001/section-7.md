@@ -1,0 +1,3 @@
+Commencement.
+
+7.—This Act (except Part 2, section 9 of which provides for an establishment day order in respect of that Part, and except section 161, the coming into operation of which is provided for in that section) shall come into operation on such day or days as, by order or orders made by the Minister, may be fixed therefor either generally or with reference to any particular purpose or provision, and different days may be so fixed for different purposes and different provisions and for the repeal, revocation and amendment effected by section 5 of different enactments or of different provisions of those enactments.
