@@ -1,0 +1,7 @@
+Decisions deemed to have been made in certain cases
+
+19. (1) Where notice of a decision under section 9 or 13 is not given to the requester concerned or to the person who made the application concerned under section 9 before the expiration of the period specified for that purpose in section 9 or 13, as the case may be, a decision refusing to grant the FOI request or the application under section 9 shall be deemed for the purposes of this Act to have been made upon such expiration and to have been made by a person to whom the relevant functions stood delegated under section 20.
+
+(2) Where notice of a decision under section 21 is not given to the person who made the application concerned under that section before the expiration of the period specified in subsection (4) thereof, a decision affirming the decision to which the application relates shall be deemed for the purposes of this Act to have been made upon such expiration.
+
+(3) Where a statement under subsection (1) of section 10, or notice of a decision under subsection (4) of that section, is not given to the person who made the application under the said subsection (1) concerned before the expiration of the period specified for that purpose in the said subsection (1) or (4), as the case may be, a decision refusing to grant the application shall be deemed for the purposes of this Act to have been made upon such expiration and to have been made by a person to whom the relevant functions stood delegated under section 20.
