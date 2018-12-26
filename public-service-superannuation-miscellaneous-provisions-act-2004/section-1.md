@@ -2,6 +2,8 @@ Interpretation.
 
 1.—(1) In this Act, except where the context otherwise requires:
 
+‘Act of 2012’ means the Public Service Pensions (Single Scheme and Other Provisions) Act 2012;
+
 “1980 Regulations” means the Civil Service Superannuation Regulations 1980 (S.I. No. 188 of 1980);
 
 “Civil Service” means the Civil Service of the Government and the Civil Service of the State;
@@ -84,7 +86,29 @@ Interpretation.
 
 “relevant Minister”, in relation to a public service pension scheme, means the Minister or Ministers of the Government responsible for the making or approval of, or granting consent to, such scheme;
 
+‘relevant public servant’ means a public servant who is not any of the following:
+
+(a) a member of either House of the Oireachtas or a member of the European Parliament;
+
+(b) the holder of a qualifying office;
+
+(c) a new entrant;
+
+(d) a Scheme member;
+
+(e) a person to whom, if he or she were a Scheme member, section 13(4) or 26(1) of the Act of 2012 would apply;
+
+(f) a person who—
+
+(i) before the coming into operation of section 3 of the Public Service Superannuation (Age of Retirement) Act 2018, retired from a public service body upon or after attaining the age of 65 years, and
+
+(ii) on the coming into operation of that section, is employed by a public service body;
+
+(g) a person who is employed by the Central Bank of Ireland;
+
 “retirement benefit” means a superannuation benefit which is payable on retirement or discharge;
+
+‘Scheme member’ has the same meaning as it has in the Act of 2012.
 
 “specified fire brigade employee” means a whole-time employee of a fire authority under the Fire Services Act 1981 whose duties include the attendance at fires and whose conditions of employment, as determined by a local authority under section 158(1)(b) of the Local Government Act 2001, require him or her to retire at 55 years of age;
 

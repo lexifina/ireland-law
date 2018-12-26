@@ -1,0 +1,3 @@
+F9[Application to existing retirement provisions.
+
+14A.— The provisions of any public service pension scheme or statutory instrument (within the meaning of the Interpretation Act 2005) that require, or the effect of which is to require, a relevant public servant to retire or cease holding office or employment upon attaining a specified age shall be read, subject to this Act, as requiring the relevant public servant to retire or cease to hold office upon attaining the age of 70 years or, where a higher age is prescribed under section 3A(2), upon attaining that higher age, subject to any extension provided for in any such scheme or instrument as is made, approved or consented to by the Minister for Education and Skills, with the consent of the Minister.
