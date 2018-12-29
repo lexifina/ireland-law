@@ -1,0 +1,9 @@
+Transitional — matters in course and legal proceedings
+
+165. (1) Where, before the day on which this subsection comes into operation, a matter has been referred for taxation and a hearing has taken place on the matter, whether before a Taxing-Master or a County Registrar exercising the powers of a Taxing-Master, the matter shall be dealt with in accordance with the applicable law as it stood before that day notwithstanding the provisions of this Part.
+
+(2) Where, before the day on which this subsection comes into operation, a decision has been made on a matter referred to taxation, any review of the decision shall be determined in accordance with the applicable law as it stood before that day, notwithstanding the provisions of this Part.
+
+(3) Where, before the day on which this subsection comes into operation, a matter has been referred for taxation but a hearing has not yet taken place on the matter, the matter shall be dealt with as though the referral were an application for adjudication of legal costs under section 154 made on the day on which the matter was referred for taxation.
+
+(4) Where, immediately before the day on which this subsection comes into operation, any legal proceedings are pending to which a Taxing-Master, or a County Registrar exercising the powers of a Taxing-Master, is a party and the proceedings have reference to any functions that on or after that day are functions of the Chief Legal Costs Adjudicator or a Legal Costs Adjudicator, the name of the Chief Legal Costs Adjudicator or Legal Costs Adjudicator, as the case may be, shall, in so far as the proceedings relate to those functions, be substituted in those proceedings for that of the Taxing-Master, or County Registrar, or added in those proceedings, and those proceedings shall not abate by reason of such substitution.
