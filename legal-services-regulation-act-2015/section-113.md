@@ -1,0 +1,3 @@
+Saver for Compensation Fund under section 21 of Solicitors (Amendment) Act 1960
+
+113. Nothing in this Part shall be construed as extending the obligation of the Law Society under section 21(4) (as amended by section 29 of the Solicitors (Amendment) Act 1994) of the Solicitors (Amendment) Act 1960 to loss sustained in consequence of dishonesty on the part of a legal practitioner who is a partner in or an employee of a legal partnership or, as the case may be, a multi-disciplinary practice or any clerk or servant of that legal practitioner arising from the provision by that legal practitioner of legal services to a client, where that legal practitioner is not a practising solicitor.

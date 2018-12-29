@@ -1,0 +1,3 @@
+Transitional — Taxing-Masters
+
+164. The Minister may designate a person who, immediately before the date on which this section commences, was serving as a Taxing-Master of the High Court, to perform the functions of the Chief Legal Costs Adjudicator or of a Legal Costs Adjudicator under this Part for a period that ends when his or her term as Taxing-Master would but for this Part otherwise expire and, if the Minister does so, that person may perform the functions of the Chief Legal Costs Adjudicator or of a Legal Costs Adjudicator under this Part, and shall be treated as though he or she were the Chief Legal Costs Adjudicator or a Legal Costs Adjudicator appointed under section 139(2), during that period.

@@ -1,0 +1,7 @@
+Authority to offer assistance in resolving matter in dispute where it appears that conduct could constitute misconduct
+
+64. (1) Where the Authority decides under section 57 that a complaint under section 51(2) is admissible, and that the act or omission of the legal practitioner to which the complaint relates, if the complaint were substantiated, would constitute misconduct within the meaning of section 50(1)(b), it shall invite the complainant and the legal practitioner concerned to make efforts to resolve the matter the subject of the complaint in a prompt manner in accordance with guidelines published by the Authority pursuant to section 67.
+
+(2) The agreement by the complainant and the legal practitioner to make efforts to resolve the matter the subject of the complaint shall not prevent the Authority continuing with its consideration or investigation of the complaint.
+
+(3) Notwithstanding subsection (2), where the Complaints Committee, the Disciplinary Tribunal or the High Court is satisfied that an act or omission of a legal practitioner the subject of a complaint has been resolved or that proper effort was made by the legal practitioner concerned to resolve the matter in accordance with this section, the Complaints Committee, Disciplinary Committee or the High Court, as the case may be, shall, in determining the appropriate sanction (if any) that should be imposed upon the legal practitioner, give due regard to the efforts to resolve the matter made by the legal practitioner concerned.
