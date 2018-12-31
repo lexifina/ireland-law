@@ -1,0 +1,3 @@
+An Act to make provision for, and in relation to, the imposition of charges by Irish Water in respect of the provision by Irish Water of water services; to provide for the transfer, in part, of the functions of water services authorities under the Water Services Act 2007 to Irish Water; to repeal the Local Government (Delimitation of Water Supply Disconnection Powers) Act 1995, certain provisions of the Water Services Act 2013 and, for certain purposes, certain provisions of the Water Services Act 2007; to amend the Water Services Act 2007 and certain other enactments; and to provide for matters connected therewith.
+
+[25th December, 2013] Be it enacted by the Oireachtas as follows:
