@@ -1,0 +1,3 @@
+Laying of orders, etc.
+
+3.—Every order, other than orders under section 1(2) or section 27(6), or regulations made by the Minister, in the case of orders or regulations made by the Minister, or by the Commission, in the case of orders or regulations made by the Commission, shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order or regulation is passed by either such House within the next subsequent 21 days on which that House has sat after the order or regulation is laid before it, the order or regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.

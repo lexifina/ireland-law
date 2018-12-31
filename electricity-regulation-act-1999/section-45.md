@@ -1,0 +1,15 @@
+Amendment of section 98 of Principal Act.
+
+45.—Section 98 of the Principal Act is hereby amended by the substitution for that section of the following section:
+
+“Lopping of
+
+98.—(1) The Board, an authorised undertaker or a holder of an trees by authorisation under section 16 of the Electricity Regulation Act, 1999,
+
+Board, an or holder of a direct line permission under section 37 of the Electric- authorised ity Regulation Act, 1999, as the case may be, may, taking due care undertaker or and attention to avoid unneccessary damage, lop or cut any tree, holder of an shrub or hedge which obstructs or interferes with any electrical wires authorisation. of the Board or of such authorised undertaker or holder of an authorisation under section 16 of the Electricity Regulation Act, 1999, or holder of a direct line permission under section 37 of the Electricity Regulation Act, 1999, as the case may be, or with the erection or laying of any such electrical wires or with the survey of the proposed route of any transmission or distribution lines of the Board or of such authorised undertaker or of any electric wire of a holder of an authorisation under section 16 of the Electricity Regulation Act, 1999, or holder of a direct line permission under section 37 of the Electric-
+
+## ity Regulation Act, 1999.
+
+(2) Before lopping or cutting any tree, shrub or hedge under this section the Board or an authorised undertaker or a holder of an authorisation under section 16 of the Electricity Regulation Act, 1999, or holder of a direct line permission under section 37 of the Electricity Regulation Act, 1999, as the case may be, shall give to the occupier of the land or in the case of a road or street to the local authority charged with the maintenance of such road or street on which such tree, shrub or hedge is standing, seven days notice of its intention to lop or cut the same and such occupier or local authority may if he or it, as the case may be, so desires and so informs the Board or such authorised undertaker or holder of an authorisation, as the case may be, within seven days himself or itself carry out such lopping or cutting.
+
+(3) When the occupier of land cuts or lops any tree, shrub or hedge under this section the expense incurred by him in so doing shall be paid to him on demand by the Board or such authorised undertaker or holder of an authorisation under section 16 of the Electricity Regulation Act, 1999, or holder of a direct line permission under section 37 of the Electricity Regulation Act, 1999, as the case may be, and the amount of such expenses shall, in default of agreement, be fixed by an arbitrator appointed by the Commission for Electricity Regulation established under section 8 of the Electricity Regulation Act, 1999.”.
