@@ -1,0 +1,3 @@
+Amendment of sections 7, 17 and 18 of Companies (Amendment) Act 1986
+
+3.— ...
