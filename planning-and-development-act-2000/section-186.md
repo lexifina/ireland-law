@@ -1,0 +1,3 @@
+Prohibition of double compensation.
+
+186.—Where a person would, but for this section, be entitled to compensation under this Part in respect of any matter or thing, and also to compensation under any other enactment in respect of the same matter or thing, he or she shall not be entitled to compensation in respect of the matter or thing both under this Part and under the other enactment, and shall not be entitled to any greater amount of compensation under this Part in respect of the matter or thing than the amount of the compensation to which he or she would be entitled under the other enactment in respect of the matter or thing.

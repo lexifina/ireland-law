@@ -1,0 +1,3 @@
+Transitional arrangements for offences.
+
+164.—Notwithstanding any repeal of any enactment (“repealed enactment”) by this Act, where proceedings have been initiated in respect of any offence under the repealed enactment, or an enforcement notice or a warning notice (within the meaning of the relevant provisions) has issued under any provision of the repealed enactment, or an application to a Court has been made under section 27 of the Act of 1976, the relevant provision which applied before the repeal shall continue to so apply until the proceedings have been finalised, the notices complied with or withdrawn or the application determined, as the case may be.

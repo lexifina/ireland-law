@@ -1,0 +1,5 @@
+Transfer of certain Ministerial functions under Air Navigation Act 1998.
+
+215B.— (1) The functions of the Minister for Transport under section 17 of, and the Second Schedule to, the Air Navigation and Transport (Amendment) Act 1998, as amended, in relation to the compulsory acquisition of land for the purposes set out in section 18 of that Act, are transferred to, and vested in, the Board, and relevant references in that Act to the Minister for Transport shall be construed as references to the Board and any connected references shall be construed accordingly.
+
+(2) The transfer of the functions of the Minister for Transport in relation to the compulsory acquisition of land in accordance with subsection (1) shall include the transfer of all necessary ancillary powers in relation to substrata of land, easements, rights over land (including wayleaves and public rights of way), rights over land or water or other such functions as may be necessary in order to ensure that the Board can fully carry out its functions in relation to the enactments referred to in subsection (1).

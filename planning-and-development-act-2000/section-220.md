@@ -1,0 +1,5 @@
+Certain procedures to run in parallel.
+
+220.—(1) The person holding an oral hearing in relation to the compulsory acquisition of land, which relates wholly or in part to proposed development by a local authority which is required to comply with section 175 or any other statutory provision to comply with procedures for giving effect to the Environmental Impact Assessment Directive, shall be entitled to hear evidence in relation to the likely effects on the environment of such development.
+
+(2) Where an application for the approval of a proposed development which is required to comply with section 175 is made to the Board and a compulsory purchase order or provisional order has been submitted to the Board for confirmation and where the proposed development relates wholly or in part to the same proposed development, the Board shall, where objections have been received in relation to the compulsory purchase order, make a decision on the confirmation of the compulsory purchase order at the same time.

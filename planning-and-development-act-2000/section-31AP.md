@@ -1,0 +1,3 @@
+Consequential provisions to section 31AO
+
+31AP. ...

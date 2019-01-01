@@ -1,0 +1,7 @@
+Compensation regarding discontinuance of use.
+
+197.—(1) If, on a claim made to the planning authority, it is shown that, as a result of the discontinuance, or the compliance with conditions on the continuance, of any use of land consequent upon a notice under section 46, the value of an interest of any person in the land existing at the time of the confirmation of the notice is reduced, or that any person having an interest in the land at that time has suffered damage by being disturbed in his or her enjoyment of the land, that person shall, subject to the other provisions in this Part, be entitled to be paid by the planning authority by way of compensation the amount of the reduction in value or the amount of the damage.
+
+(2) Notwithstanding subsection (1), no compensation shall be paid under this section in relation to reduction in value or damage resulting from the imposition under section 46 of conditions on the continuance of the use of land, being conditions imposed in order to avoid or reduce serious water pollution or the danger of such pollution.
+
+(3) Subsection (1) shall not apply where the use of land is for the exhibition of advertising unless at the time of the discontinuance or compliance, the land has been used for the exhibition of advertising for less than 5 years, whether the use was continuous or intermittent or whether or not, while the land was being so used, advertising was exhibited at the same place on the land.

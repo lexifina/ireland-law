@@ -1,0 +1,3 @@
+Compensation regarding creation of public rights of way.
+
+200.—If, on a claim made to the planning authority, it is shown that the value of an interest of any person in land, being land over which a public right of way has been created by an order under section 207 made by that authority, is reduced, or that any person having an interest in the land has suffered damage by being disturbed in his or her enjoyment of the land, in consequence of the creation of the public right of way, that person shall, subject to the other provisions of this Part, be entitled to be paid by the planning authority by way of compensation the amount of the reduction in value or the amount of the damage.
