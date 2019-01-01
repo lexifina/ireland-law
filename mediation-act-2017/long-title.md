@@ -1,0 +1,5 @@
+An Act to facilitate the settlement of disputes by mediation, to specify the principles applicable to mediation, to specify arrangements for mediation as an alternative to the institution of civil proceedings or to the continuation of civil proceedings that have been instituted; to provide for codes of practice to which mediators may subscribe; to provide for the recognition of a body as the Mediation Council of Ireland for the purposes of this Act and to require that Council to make reports to the Minister for Justice and Equality as regards mediation in the State; to provide, by means of a scheme, an opportunity for parties to family law proceedings or proceedings under section 67A(3) or 117 of the Succession Act 1965 to attend mediation information sessions; to amend the Guardianship of Infants Act 1964, the Judicial Separation and Family Law Reform Act 1989 and the Family Law (Divorce) Act 1996; and to provide for related matters.
+
+[2nd October , 2017]
+
+Be it enacted by the Oireachtas as follows:
