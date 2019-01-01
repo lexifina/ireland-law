@@ -1,0 +1,3 @@
+Effect of compensation order on civil proceedings. (Repealed)
+
+11.—...
