@@ -1,0 +1,3 @@
+Information relating to offences under this Act may be disclosed to Authority.
+
+47.—...
