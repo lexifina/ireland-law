@@ -1,0 +1,3 @@
+F170[Places and times for registration of civil partnerships.
+
+59E.—...
