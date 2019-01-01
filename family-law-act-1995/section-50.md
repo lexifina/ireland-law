@@ -1,0 +1,3 @@
+Exemption of certain transfers from stamp duty.
+
+50.—...
