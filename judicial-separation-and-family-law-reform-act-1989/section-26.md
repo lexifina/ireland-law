@@ -1,0 +1,3 @@
+Payments to be made without deduction of income tax.
+
+26.—...
