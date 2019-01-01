@@ -1,0 +1,71 @@
+Rent pressure zones and areas deemed to be rent pressure zones
+
+36. The Act of 2004 is amended by inserting the following sections after section 24:
+
+“Rent pressure zones
+
+24A. (1) The Housing Agency, following consultation with the relevant housing authority, may make a proposal in writing to the Minister that an area be prescribed by order as a rent pressure zone.
+
+(2) As soon as practicable, but no later than 1 week after the date of receipt of the proposal under subsection (1), the Minister shall request the Director to make a report to the Minister (in this section referred to as a ‘rent zone report’), in such form as the Minister may approve, on whether, in so far as the area the subject of the proposal is concerned, the criteria specified in subsection (4) for designation as a rent pressure zone are satisfied.
+
+(3) Within 2 weeks after the date that the Minister made the request under subsection (2), the Director shall furnish the Minister with the rent zone report.
+
+(4) In making a rent zone report to the Minister, the Director shall confirm whether or not the following criteria have been met—
+
+(a) the information relating to the area concerned, as determined by reference to the information used to compile each Rent Index quarterly report, shows that the annual rate of increase in the average amount of rent for that area is more than 7 per cent in each of at least 4 of the 6 quarters (each being a period of 3 months that is contemporaneous with the period to which the Rent Index quarterly report concerned relates) preceding the period immediately prior to the date of the proposal by the Housing Agency to the Minister under subsection (1), and
+
+(b) the average rent for the area in the last quarter, as determined by reference to the manner referred to in paragraph (a), is above the average national rent (commonly referred to as the Rent Index national standardised rent) in the last quarter.
+
+(5) Where the Minister receives a rent zone report from the Director and the report confirms that the criteria in subsection (4) are satisfied, the Minister shall by order prescribe the area as a rent pressure zone for a specified period not exceeding 3 years.
+
+(6) Where a local electoral area is prescribed by order as a rent pressure zone and, subsequently, any local electoral areas are duly amended in a manner that affects the area of the local electoral area so prescribed, then the order shall continue to have effect as if the local electoral area concerned had not been so amended.
+
+(7) The Minister may, on a recommendation from the Housing Agency, by order revoke an order made under subsection (5) or a deemed order under section 24B and, accordingly, section 8(3) does not apply to any such order or deemed order.
+
+(8) In making a recommendation under subsection (7), the Housing Agency shall consider and provide a report to the Minister, on such matters as may be prescribed having regard to—
+
+(a) the operation of the rental market,
+
+(b) the operation of the housing market, and
+
+(c) changes in rent levels in the period since the area concerned was designated as a rent pressure zone; and, before making such a recommendation and providing a report under this subsection, the Housing Agency shall consult with the Board and the housing authority concerned on the matter.
+
+(9) The Board shall publish, in such manner as it thinks fit, a notice of the making of an order by the Minister under subsection (5) or (7).
+
+(10) In this section—
+
+‘area’ means—
+
+(a) the administrative area of a housing authority, or
+
+(b) a local electoral area within the meaning of section 2 of the Local Government Act 2001;
+
+‘Housing Agency’ has the same meaning as it has in the Pyrite Resolution Act 2013;
+
+‘Rent Index quarterly reports’ has the meaning given in the definition of ‘Rent Index’;
+
+‘Rent Index’ means the publication known as the Residential Tenancies Board Rent Index which is published by the Board in respect of each successive period of 3 months in every calendar year (in this section referred to as ‘Rent Index quarterly reports’) pursuant to its functions under section 151(1)(e) and includes any other publication that it replaced or may replace it for the purposes of those functions.
+
+Areas deemed to be rent pressure zones
+
+24B. With effect from the relevant date (within the meaning of section 19(7)) and notwithstanding anything to the contrary in section 24A, orders under subsection (5) of that section shall be deemed to have been made in respect of the administrative areas of each of the following housing authorities:
+
+(a) Cork City Council;
+
+(b) Dublin City Council;
+
+(c) Dun Laoghaire Rathdown County Council;
+
+(d) Fingal County Council;
+
+(e) South Dublin County Council; and, accordingly, each of those areas is deemed to be a rent pressure zone from the relevant date for a period of 3 years.
+
+Application of section 20 (frequency with which rent reviews may occur) to rent pressure zones
+
+24C. (1) Where a tenancy commenced before the relevant date (within the meaning of section 19(7)) and the area in which the tenancy is situated is in a rent pressure zone (within the meaning of that section), then—
+
+(a) the first rent review after the relevant date shall be carried out in accordance with section 20, and
+
+(b) any subsequent rent review shall be carried out as if subsections (4) to (6) of section 20 had not been enacted.
+
+(2) Where a tenancy commences on or after the relevant date (within the meaning of section 19(7)), and the area in which the tenancy is situated is in a rent pressure zone (within the meaning of that section), then any rent review after that date shall be carried out as if subsections (4) to (6) of section 20 had not been enacted.”.
