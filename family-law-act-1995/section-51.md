@@ -1,0 +1,3 @@
+Exemption of certain transfers from capital acquisitions tax.
+
+51.—...

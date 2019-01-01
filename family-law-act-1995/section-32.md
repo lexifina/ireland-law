@@ -1,0 +1,3 @@
+Notification of intention to marry.
+
+32.—...
