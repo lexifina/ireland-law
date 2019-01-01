@@ -1,0 +1,3 @@
+Community pharmacy contractors who participate in relevant schemes.
+
+14.— Where a community pharmacy contractor participates in any relevant scheme in his or her capacity as a community pharmacy contractor and has employees who are pharmacists, it shall, by virtue of this section, be deemed a condition (“relevant condition”) of that scheme that the community pharmacy contractor shall supervise the compliance, of those employees, with the provisions of this Part applicable to pharmacists and, in any case where the community pharmacy contractor does not so supervise such compliance, the provisions of the scheme relating to failure to comply with a condition of the scheme shall likewise apply to the failure to comply with the relevant condition.
