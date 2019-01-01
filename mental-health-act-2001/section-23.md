@@ -1,0 +1,9 @@
+Power to prevent voluntary patient from leaving approved centre.
+
+23.—(1) Where a person (other than a child) who is being treated in an approved centre as a voluntary patient indicates at any time that he or she wishes to leave the approved centre, then, if a consultant psychiatrist, registered medical practitioner or registered nurse on the staff of the approved centre is of opinion that the person is suffering from a mental disorder, he or she may detain the person for a period not exceeding 24 hours or such shorter period as may be prescribed, beginning at the time aforesaid.
+
+(2) Where the parents of a child who is being treated in an approved centre as a voluntary patient, or either of them, or a person acting in loco parentis indicates that he or she wishes to remove the child from the approved centre and a consultant psychiatrist, registered medical practitioner or registered nurse on the staff of the approved centre is of opinion that the child is suffering from a mental disorder, the child may be detained and placed in the custody of the Health Service Executive.
+
+(3) Where a child is detained in accordance with this section, the Health Service Executive shall, unless it returns the child to his or her parents, or either of them, or a person acting in loco parentis, make an application under section 25 at the next sitting of the District Court held in the same district court district or, in the event that the next such sitting is not due to be held within 3 days of the date on which the child is placed in the case of the Health Service Executive, at a sitting of the District Court, which has been specially arranged, held within the said 3 days, and the health board shall retain custody of the child pending the hearing of that application.
+
+(4) The provisions of section 13(4) of the Child Care Act, 1991, shall apply to the making of an application in respect of a child to whom this section applies with any necessary modifications.
