@@ -1,0 +1,5 @@
+Transfer of fisheries to Minister or IFI by Commissioners.
+
+63.— (1) The Commissioners may by order under their seal transfer to the Minister or, with the consent of the Minister, to IFI, on such terms and conditions as, with the consent of the Minister for Finance, shall be agreed between the Commissioners and the Minister, all the estate and interest of the Commissioners in any fishery or fishing right which is in the possession or occupation of the Commissioners and also any land, way-leave, water-right, right of access or other easement or other right which is in the possession or occupation of the Commissioners and is ancillary to any such fishery or fishing right so transferred.
+
+(2) An order made under this section shall operate to vest in the Minister or IFI, as may be appropriate, without any further or other conveyance, all the estate and interest of the Commissioners in every fishery and fishing right and in all lands, way-leaves, water-rights, rights of access and other easements or other rights purported to be transferred to the Minister or IFI by the order.

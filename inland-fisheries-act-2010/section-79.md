@@ -1,0 +1,9 @@
+Payment of certain fines as compensation — delivery of oysters or other fish.
+
+79.— (1) (a) Where a court imposes a fine or affirms or varies a fine imposed by another court for an offence under section 253 or 265 of the Principal Act for which a person was convicted, it may, at its discretion, on the application (made before the time of such imposition, affirmation or variation) of any person who was summoned as a witness on behalf of the prosecution in the proceedings in which the fine was imposed and who suffered loss or damage resulting, wholly or partly, from the offence, provide by order for the payment of the amount of the fine or of a specified part of it as compensation in respect of the loss or damage to the person making the application.
+
+(b) An application shall not lie under paragraph (a) in respect of any loss or damage if proceedings claiming damages for the loss or damage have been instituted in any court.
+
+(2) If a person is convicted of an offence under section 253 of the Principal Act by reason of his or her having taken away oysters or other fish from an oyster bed or other place, if the oysters (or any of them) or the other fish in respect of which the offence was committed have or has not then been sold, they or it, as may be appropriate, as a statutory consequence of conviction, stand forfeited, and the court may direct their or its delivery to the owner or occupier of the oyster bed or other place from which they or it were or was taken or the person to whom the relevant licence was granted or who is entitled to the benefit of such licence.
+
+(3) Where under this section the whole or part of a fine is paid to a person and the person is awarded damages by a court in respect of the loss or damage to which the payment relates, the payment shall be deemed to be in satisfaction of so much of the damages as is equal to the amount of the payment.
