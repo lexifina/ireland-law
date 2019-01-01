@@ -1,0 +1,5 @@
+Non-receipt of marriage registration form by registrar.
+
+50.—(1) Where, upon the expiration of 56 days from the date specified in the relevant marriage registration form on which a marriage is intended to be solemnised, the registrar by whom the form was issued has not received the completed marriage registration form, he or she may serve on either of the parties to the marriage a notice, in a form standing approved by an tArd-Chláraitheoir, requiring that party to give, or cause to be given, to him or her, not later than 14 days from the date of the notice, the first-mentioned form duly completed.
+
+(2) If a person fails to comply with a requirement made on him or her under subsection (1), the registrar concerned may serve on him or her a notice, in a form standing approved by an tArd-Chláraitheoir, requiring the person to attend on a date (not being less than 14 days from the date of the notice) specified in the notice at the office of the registrar or at any other convenient place specified in the notice and to give to him or her at that time or not later than 14 days from that date the relevant completed marriage registration form.
