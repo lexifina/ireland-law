@@ -1,0 +1,7 @@
+Investigation of dispute by Court at request of parties.
+
+20.—(1) Where the workers concerned in a trade dispute or their trade union or trade unions request or requests the Court to investigate the dispute and undertake or undertakes before the investigation to accept the recommendation of the Court under section 68 of the Principal Act in relation thereto then, notwithstanding anything contained in the Principal Act or in this Act, the Court shall investigate the dispute and shall make a recommendation under the said section 68 in relation thereto.
+
+(2) Where the parties concerned in a trade dispute request the Court to investigate a specified issue or issues involved in the dispute and undertake, before the investigation, to accept the recommendation of the Court under the said section 68 in relation to such issue or issues then, notwithstanding anything in the Principal Act or in this Act, the Court shall investigate such issue or issues and shall make a recommendation under the said section 68 in relation thereto and, for the purposes of this subsection, subsection (1) of the said section 68 shall have effect as if the references therein to a trade dispute included references to an issue or issues involved in a trade dispute.
+
+(3) Notwithstanding anything contained in section 8 (1) of this Act, an investigation under this section shall be conducted in private and shall be given such priority over the other business of the Court as the Court considers reasonable.
