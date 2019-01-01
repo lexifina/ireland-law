@@ -1,0 +1,3 @@
+Conviction on indictment of offences under transparency (regulated markets) law.
+
+21.— ...
