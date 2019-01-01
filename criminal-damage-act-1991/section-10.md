@@ -1,0 +1,3 @@
+Suspension of compensation order pending appeal.
+
+10.—...
