@@ -1,0 +1,3 @@
+Order extinguishing succession rights.
+
+17.—...

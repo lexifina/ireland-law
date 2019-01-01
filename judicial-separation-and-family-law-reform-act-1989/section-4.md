@@ -1,0 +1,5 @@
+Supplemental provisions as to proof of adultery and unreasonable behaviour.
+
+4.—(1) Where the spouses have lived with each other for more than 1 year after it became known to the applicant that the respondent had committed adultery the applicant shall not be entitled to rely on that adultery for the purposes of section 2 (1) (a) although that adultery may be one of the factors that the applicant may rely on for the purposes of section 2 (1) (b) together with other matters.
+
+(2) Where the applicant alleges that the respondent has behaved in such a way that the applicant cannot reasonably be expected to cohabit with him but the spouses have cohabited for a period or periods after the date of the occurrence of the final incident relied on by the applicant and held by the court to support his allegation, such cohabitation shall be disregarded in determining for the purpose of section 2 (1) (b) of this Act whether the applicant cannot be reasonably expected to live with the respondent if the length of the period or of those periods of cohabitation together was or were 6 months or less.
