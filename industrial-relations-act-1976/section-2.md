@@ -1,0 +1,3 @@
+Amendment of section 4 of Principal Act.
+
+2.—...
