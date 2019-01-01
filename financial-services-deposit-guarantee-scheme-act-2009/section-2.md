@@ -1,0 +1,3 @@
+Amount of coverage in respect of eligible deposits.
+
+2.—...

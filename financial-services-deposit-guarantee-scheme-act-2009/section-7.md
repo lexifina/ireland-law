@@ -1,0 +1,3 @@
+Aggregate payment to deposit protection account by credit unions.
+
+7.— ...
