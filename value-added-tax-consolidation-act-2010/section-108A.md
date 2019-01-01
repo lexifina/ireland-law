@@ -1,0 +1,21 @@
+## CHAPTER 1A Special measures for the protection of the tax
+
+Notice of requirement to furnish certain information, etc.
+
+108A.— (1) The Revenue Commissioners may, for the purposes of the prevention and detection of tax evasion, serve a notice in writing on an accountable person whom the Commissioners have reasonable grounds for believing is likely to have further information, explanations or particulars in respect of any books, records (within the meaning of section 108), accounts or other documents relating to his or her supplies of goods made to his or her customers which may assist in identifying taxable supplies in respect of which tax chargeable will not be, or is not likely to be, paid requiring the accountable person to furnish to the Commissioners any such information, explanations or particulars as they may reasonably require and which they consider may so assist.
+
+(2) A notice served under subsection (1) shall—
+
+(a) specify—
+
+(i) the date from which the notice shall have effect, being a date not earlier than 7 days from the date of service of the notice,
+
+(ii) the information, explanations or particulars, referred to in subsection (1), required to be furnished to the Revenue Commissioners,
+
+(iii) the period for which the notice shall have effect, being a period not more than 2 months from the date specified under subparagraph (i),
+
+(iv) the period within which the accountable person shall furnish the specified information, explanations or particulars to the Commissioners, being a period not less than 14 days from the end of the period specified under subparagraph (iii), and
+
+(v) the form in which the specified information, explanations or particulars shall be furnished to the Commissioners, and
+
+(b) inform the accountable person of the consequences under section 115(8A) of failing to comply with the notice.

@@ -1,0 +1,9 @@
+General provisions on consideration.
+
+39.—(1) Where the consideration actually received in relation to the supply of any goods or services exceeds the amount that the person supplying the goods or services was entitled to receive, the amount on which tax is chargeable shall be the amount actually received (excluding tax chargeable in respect of the supply).
+
+(2) Subject to subsection (3), where, in a case not coming within section 38, the consideration actually received in relation to the supply of any goods or services is less than the amount on which tax is chargeable or no consideration is actually received, such relief may be given by repayment or otherwise in respect of the deficiency as may be provided by regulations.
+
+(3) Subsection (2) shall not apply in the case of the letting of immovable goods which is a taxable supply of goods in accordance with section 95.
+
+(4) Where, following the issue of an invoice by an accountable person in respect of a supply of goods or services, the accountable person allows a reduction or discount in the amount of the consideration due in respect of that supply, the relief referred to in subsection (2) shall not be given until he or she issues the credit note required in accordance with section 67(1)(b) in respect of that reduction or discount.

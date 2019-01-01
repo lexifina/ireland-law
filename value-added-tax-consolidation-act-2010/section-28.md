@@ -1,0 +1,19 @@
+Special rules in relation to supplies of services.
+
+28.—(1) The supply of services through a person (in this subsection referred to as the “agent”) who, while purporting to act on his or her own behalf, concludes agreements in his or her own name but on the instructions of, and for the account of, another person, shall be deemed, for the purposes of this Act, to constitute a supply of the services to and simultaneously by the agent.
+
+(2) Where services are supplied by a person and the person is not legally entitled to recover consideration in respect of or in relation to that supply but moneys are received in respect of or in relation to such supply, then, for the purposes of this Act—
+
+(a) the services in question shall be deemed to have been supplied for consideration, and
+
+(b) the moneys received shall be deemed to be consideration that the person who supplied the services in question became entitled to receive in respect of or in relation to the supply of those services.
+
+(3) Where a person is indemnified under a policy of insurance in respect of any amount payable in respect of services of a barrister or solicitor, those services shall be deemed, for the purposes of this Act, to be supplied to, and received by, such person.
+
+(4) Where, in the case of a business carried on, or that has ceased to be carried on, by an accountable person, services (being services that are supplied using the assets or part of the assets of an accountable person) are, under any power exercisable by another person (including a receiver or liquidator), supplied by that other person in or towards the satisfaction of a debt owed by the accountable person, or in the course of winding up of a company, then those services shall be deemed to be supplied by the accountable person in the course or furtherance of his or her business.
+
+(5) Where another person (including a receiver or liquidator), under any power exercisable by that other person, in or towards the satisfaction of a debt owed by a taxable person, or in the course of winding up of a company—
+
+(a) makes a supply consisting of a letting of immovable goods, being the assets or part of the assets of the taxable person, and
+
+(b) that other person exercises an option to tax that letting in accordance with section 97(1)(a)(i), then that taxable person shall be deemed to have supplied that letting and to have exercised the option to tax.

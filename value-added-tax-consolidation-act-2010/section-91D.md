@@ -1,0 +1,109 @@
+Union scheme (where the State is Member State of identification).
+
+91D.—(1)(a) A taxable person may opt to apply the Union scheme to his or her qualifying supplies of scheme services within the Community, provided that the taxable person—
+
+(i) makes or intends to make qualifying supplies of scheme services in the course or furtherance of business,
+
+(ii) has established his or her business in the State or, if he or she has not established his or her business in the Community, the taxable person has a fixed establishment in the State, and
+
+(iii) has been assigned a registration number under section 65(2).
+
+(b) For the purposes of this section, subject to paragraph (c), a supply of a scheme service is a qualifying supply of a scheme service where—
+
+(i) the service is supplied to a non-taxable person in a Member State other than the State, and
+
+(ii) the taxable person does not have a fixed establishment in that other Member State.
+
+(c) A taxable person may not be registered in the State for the purposes of the Union scheme if he or she—
+
+(i) is already identified in another Member State for the purposes of the non- Union scheme or the Union scheme, or
+
+(ii) is excluded from applying the Union scheme by any provision of the Implementing Regulation.
+
+(2) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the ‘identification register’) of persons who are identified in the State for the purposes of the Union scheme.
+
+(3) A person who opts to be identified in the State for the purposes of the Union scheme shall notify the Revenue Commissioners by electronic means using such form as is made available by the Commissioners for that purpose, and shall, at the same time, provide them by electronic means with the following details (unless that information has already been provided):
+
+(a) the person’s name and postal address;
+
+(b) his or her electronic addresses, including website addresses;
+
+4 OJ No. L326, 21.11.1986, p.40
+
+(c) the registration number assigned to the person under section 65(2);
+
+(d) the date when his or her supplies of qualifying scheme services shall commence or have commenced;
+
+(e) the date from which the person wishes to be identified in the State;
+
+(f) any fixed establishments of that person in the Community (other than fixed establishments belonging to a group within the meaning of section 15);
+
+(g) any previous registrations in any other Member State under the provisions of the Union scheme in that Member State, and
+
+(h) such other information, necessary for the purpose of identification for the scheme, as may be specified in the form.
+
+(4)(a) Where a person has provided the details required under subsection (3) and the Revenue Commissioners are satisfied that the requirements for registration for the purposes of the Union scheme are met they shall—
+
+(i) register that person in the identification register, and
+
+(ii) notify that person by electronic means of the date from which the registration takes effect.
+
+(b) For the purposes of this section, a person who has been registered under paragraph (a) shall be referred to as an ‘identified person’.
+
+(5) An identified person shall notify the Revenue Commissioners by electronic means of the following:
+
+(a) any changes in the details provided under subsection (3);
+
+(b) if his or her taxable activity ceases or changes to the extent that he or she no longer satisfies the conditions specified in subsection (1)(a);
+
+(c) if he or she wishes to de-register from the Union scheme.
+
+(6) The Revenue Commissioners shall remove an identified person from the identification register if—
+
+(a) they have reasonable grounds to believe that the identified person’s taxable activities have ceased,
+
+(b) the identified person has, in accordance with Article 58b of the Implementing Regulation, persistently failed to comply with the rules relating to the Union scheme, or
+
+(c) the identified person notifies the Commissioners under subsection (5)(b) or (c).
+
+(7)(a) Subject to paragraph (b), an identified person shall, within 20 days immediately following the end of each calendar quarter—
+
+(i) furnish to the Revenue Commissioners a VAT return, by electronic means using such form as is made available by the Commissioners for the purposes of the Union scheme and prepared in accordance with, and containing such particulars as are specified in, subsection (8), in respect of qualifying supplies of scheme services made in the Community in that quarter, and
+
+(ii) remit to the Revenue Commissioners, at the same time as furnishing such VAT return, into a bank account designated by them and denominated in euro, the amount of EU value-added tax, if any, payable by that person in respect of that quarter in relation to qualifying supplies of scheme services.
+
+(b) Where an identified person has not made any such qualifying supplies of scheme services during a calendar quarter, he or she shall furnish a nil VAT return in respect of that quarter.
+
+(8) The VAT return referred to in subsection (7) shall be made in euro and shall contain—
+
+(a) the person’s identification number,
+
+(b) for each Member State where EU value-added tax has become due in respect of qualifying scheme services—
+
+(i) the total value, exclusive of EU value-added tax, of supplies of scheme services made during the calendar quarter,
+
+(ii) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(iii) the amount of EU value-added tax corresponding to such value at the applicable rate or rates, and
+
+(c) the total EU value-added tax due, if any.
+
+(9) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro on the VAT return shall be that published by the European Central Bank for the last day of the calendar quarter to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
+
+(10) An identified person shall not make any deduction of tax in the VAT return, or make any adjustment to the amounts therein, in relation to value-added tax deductible pursuant to Article 168 of the VAT Directive.
+
+(11) Without prejudice to the provisions of section 99, corrections to a VAT return may be made by the identified person by electronic means within 3 years from the date the return concerned was due to be submitted.
+
+(12) Where, on the 10th day following the due date for submission of the VAT return in accordance with subsection (7)(a), the return has not been submitted, the Revenue Commissioners shall issue a reminder by electronic means to the identified person.
+
+(13) Where the VAT return has been submitted but no payment or only partial payment has been made, the Revenue Commissioners shall issue a reminder by electronic means to the identified person on the 10th day following the due date for payment of the EU value-added tax in accordance with subsection (7)(a).
+
+(14) An identified person shall—
+
+(a) keep records of all transactions covered by the Union scheme and those records shall be sufficiently detailed, in accordance with Article 63c of the Implementing Regulation, to enable the Member State of consumption to verify that the VAT return is correct,
+
+(b) make such records available, by electronic means and on request, to the Revenue Commissioners,
+
+(c) make such records available, by electronic means and on request, to the relevant Member State of consumption, and
+
+(d) notwithstanding section 84, retain such records for each transaction until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.

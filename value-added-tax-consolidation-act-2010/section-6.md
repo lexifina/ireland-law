@@ -1,0 +1,45 @@
+Persons not accountable persons unless they so elect.
+
+6.—(1) Subject to subsections (2) and (3) and sections 9, 10, 12, 14(1) and 17(1), and notwithstanding section 5(1), the following persons shall not, unless they otherwise elect and then only during the period for which such election has effect, be accountable persons:
+
+(a) a farmer, for whose supply in any continuous period of 12 months of—
+
+(i) agricultural services (other than insemination services, stock-minding or stock-rearing), the total consideration has not exceeded, and is not likely to exceed, the services threshold,
+
+(ii) goods being bovine semen, the total consideration has not exceeded, and is not likely to exceed, the goods threshold,
+
+(iii) goods, being horticultural type products of the kind specified in paragraph 22(1) of Schedule 3, to persons who are not engaged in supplying those goods in the course or furtherance of business, the total consideration has not exceeded and is not likely to exceed the goods threshold,
+
+(iv) services specified in subparagraph (i) and either or both of goods of the kind specified in subparagraph (ii) and goods of the kind specified in subparagraph (iii) supplied in the circumstances set out in that subparagraph, the total consideration has not exceeded and is not likely to exceed the services threshold, or
+
+(v) goods of the kind specified in subparagraph (ii) and goods of the kind specified in subparagraph (iii) supplied in the circumstances set out in that subparagraph, the total consideration has not exceeded and is not likely to exceed the goods threshold;
+
+(b) a person whose supplies of taxable goods or services consist exclusively of—
+
+(i) supplies, to accountable persons and persons to whom section 102 applies, of fish (not being at a stage of processing further than that of being gutted, salted and frozen) which he or she has caught in the course of a sea-fishing business, or
+
+(ii) supplies of the kind specified in subparagraph (i) and of either or both of the following:
+
+(I) supplies of machinery, plant or equipment which have been used by him or her in the course of a sea-fishing business;
+
+(II) supplies of other goods and services the total consideration for which is such that such person would not, because of paragraph (c) or (d), be an accountable person if such supplies were the only supplies made by him or her;
+
+(c)(i) subject to subparagraph (ii), a person for whose supply of taxable goods (other than supplies of the kind specified in section 30(1)(a)(i)) and services, the total consideration has not exceeded and is not likely to exceed the goods threshold in any continuous period of 12 months,
+
+(ii) subparagraph (i) shall apply only if at least 90 per cent of the total consideration referred to therein is derived from the supply of taxable goods (other than goods chargeable at any of the rates specified in section 46(1)(a) and (c) which were produced or manufactured by the person referred to in subparagraph (i) wholly or mainly from materials chargeable at the rate specified in section 46(1)(b));
+
+(d) a person (other than a person to whom paragraph (a), (b) or (c) applies) for whose supply of taxable goods and services the total consideration has not exceeded, and is not likely to exceed, the services threshold in any continuous period of 12 months.
+
+(2)(a) Supplies of bovine semen—
+
+(i) by a farmer to any other farmer licensed as an artificial insemination centre in accordance with the Live Stock (Artificial Insemination) Act 1947, or
+
+(ii) by a farmer to an accountable person over whom that farmer exercises control, shall be disregarded in calculating the total consideration referred to in subsection (1)(a)(ii).
+
+(b) Where in the case of 2 or more persons one of whom exercises control over one or more of the other persons, supplies of goods of the same class or of services of the same nature are made by 2 or more of those persons, the total of the consideration relating to such supplies shall, for the purposes of the application of paragraphs (c) and (d) of subsection (1) in relation to each of those persons who made such supplies, be treated as if all of the supplies in question had been made by each of the last-mentioned persons.
+
+(c) Where a farmer supplies services or goods of the kind specified in subsection (1)(a)(i), (ii) or (iii), then paragraph (b) shall be deemed to apply to such supplies, notwithstanding that that paragraph does not otherwise apply to supplies by a farmer.
+
+(d) Subsection (1) shall not apply to a supply of the kind referred to in section 12(3) or (5) or 17(1).
+
+(3) Subsection (1)(b) to (d) shall not apply to a person who is not established in the State.

@@ -1,0 +1,31 @@
+## CHAPTER 3 Returns and payment of tax
+
+Tax due on supplies.
+
+74.—(1) Tax chargeable under section 3(a) or (c) shall be due—
+
+(a) in case an invoice is required under Chapter 2 to be issued, at the time of issue of the invoice or, if the invoice is not issued in due time, upon the expiration of the period within which the invoice should have been issued,
+
+(b) in case a person is liable under section 69(1) or (2) to pay an amount of tax by reference to an invoice, or credit note, issued by him or her, at the time of issue of that invoice or credit note,
+
+(c) in the case of continuous supplies of telecommunications services or electricity, or of gas which has the meaning assigned to it in paragraph 17(3) of Schedule 3—
+
+(i) supplied to a person other than a person to whom an invoice is required to be issued under Chapter 2, and
+
+(ii) for which there is a statement of account (being a balancing statement or demand for payment which issues at least once every 3 months), at the time of issue of the statement of account in respect of those supplies, and
+
+(d) in any other case, at the time the goods or services are supplied.
+
+(2) Notwithstanding anything in this Act but subject to subsection (3), the tax chargeable under section 3(a) or (c), other than tax chargeable in respect of supplies of the kind specified in paragraph 1(1) or (2) of Schedule 2, ... shall be due not later than the time when the amount in respect of which it is payable has been received in full or in part, and where the amount is received in full or in part before the supply of the goods or services to which it relates, a supply for a consideration equal to the amount received of such part of the goods or services as is equal in value to the amount received, shall be deemed, for the purposes of this Act, to have taken place at the time of such receipt.
+
+(3) Subsection (2) does not apply to the tax chargeable in respect of supplies of goods or services where tax is due in accordance with subsection (1)(a), (b) or (c) by an accountable person who is not authorised under section 80 to account for tax due by reference to the amount of the moneys received during a taxable period or part thereof.
+
+(4) Where a person accounts in accordance with section 76 or 77 for tax referred to in subsection (2) on an amount received by way of a deposit from a customer before the supply of the goods or services to which it relates, and—
+
+(a) that supply does not subsequently take place owing to a cancellation by the customer,
+
+(b) the cancellation is recorded as such in the books and records of that person,
+
+(c) the deposit is not refunded to the customer, and
+
+(d) no other consideration, benefit or supply is provided to the customer by any person in lieu of the refund of that amount, then the tax chargeable under section 3(a) or (c) shall be reduced in the taxable period in which the cancellation is recorded by the amount of tax accounted for on the deposit.
