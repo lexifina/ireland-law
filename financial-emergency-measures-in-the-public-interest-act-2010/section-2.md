@@ -40,13 +40,17 @@ Up to €34,132 Exempt
 
 (a) is a pensioner, or
 
-(b) becomes a pensioner on or at any time before the relevant date or, in the case of a pensioner falling under paragraph (c) of the definition of “pensioner” in section 1, at any time after that date, where the annualised amount payable is greater than €34,132 shall be reduced—
+(b) becomes a pensioner on or at any time before the relevant date or, in the case of a pensioner falling under paragraph (c) of the definition of “pensioner” in section 1, at any time after that date, where the annualised amount payable is not more than €39,000 shall be reduced—
 
-(i) with effect on and from 1 January 2016 and subject to subparagraphs (ii) and (iii), in accordance with Table A to this subsection,
+(i) with effect on and from 1 January 2016 and subject to the following subparagraphs, in accordance with Table A to this subsection,
 
-(ii) with effect on and from 1 January 2017 and subject to subparagraph (iii), in accordance with Table B to this subsection, and
+(ii) with effect on and from 1 January 2017 and subject to the following subparagraphs, in accordance with Table B to this subsection,
 
-(iii) with effect on and from 1 January 2018, in accordance with Table C to this subsection.
+(iii) with effect on and from 1 January 2018, and subject to the following subparagraphs in accordance with Table C to this subsection,
+
+(iv) with effect on and from 1 January 2019 and subject to subparagraph (v), in accordance with Table D to this subsection, and
+
+(v) with effect on and from 1 January 2020, in accordance with Table E to this subsection.
 
 TABLE A
 
@@ -54,9 +58,7 @@ Annualised amount of public service pension Reduction
 
 Up to €17,000 Exempt
 
-Any amount over €17,000 but not over €24,000 8 per cent
-
-Any amount over €24,000 but not over €60,000 12 per cent
+Any amount over €17,000 but not over €24,000 8 per cent Any amount over €24,000 but not over €60,000 12 per cent
 
 Any amount over €60,000 but not over €100,000 17 per cent
 
@@ -83,6 +85,30 @@ Annualised amount of public service pension Reduction
 Up to €30,000 Exempt
 
 Any amount over €30,000 but not over €24,000 12 per cent
+
+Any amount over €60,000 but not over €100,000 17 per cent
+
+Any amount over €100,000 28 per cent
+
+TABLE D
+
+Annualised amount of public service pension Reduction
+
+Up to €39,000 Exempt
+
+Any amount over €39,000 but not over €60,000 12 per cent
+
+Any amount over €60,000 but not over €100,000 17 per cent
+
+Any amount over €100,000 28 per cent
+
+TABLE E
+
+Annualised amount of public service pension Reduction
+
+Up to €54,000 Exempt
+
+Any amount over €54,000 but not over €60,000 12 per cent
 
 Any amount over €60,000 but not over €100,000 17 per cent
 
