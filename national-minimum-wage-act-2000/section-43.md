@@ -1,0 +1,9 @@
+Repercussive claims.
+
+43.—(1) The Labour Relations Commission or the Labour Court shall not recommend in favour of or endorse a claim or a part of a claim for the improvement in the pay of an employee who has access to any of its services if in the view of the Labour Relations Commission or the Labour Court, as the case may be, the claim or part of the claim is based on the restoration of a pay differential between the employee and another employee who has secured or is to secure an increase in pay as the result of the passing of this Act.
+
+(2) The Labour Court shall not by Employment Regulation Order give effect to a proposal which could be submitted to it by a Joint Labour Committee under section 42 of the Industrial Relations Act, 1946, or section 48 of the Industrial Relations Act, 1990, if, in the view of the Labour Court, the proposal is based on or partly on the restoration of a pay differential between an employee and another employee who has secured or is to secure an increase in pay as the result of the passing of this Act.
+
+(3) The Labour Court shall not register an employment agreement under section 27 of the Industrial Relations Act, 1946, or vary such an agreement under section 28 of that Act if, in the view of the Labour Court, the agreement or variation, or part of the agreement or variation, is based on or partly on the restoration of a pay differential between an employee and another employee who has secured or is to secure an increase in pay as the result of the passing of this Act.
+
+(4) No conciliation or arbitration scheme in the public sector shall recommend in favour or endorse a claim or a part of a claim for the improvement in the pay of an employee who is subject to the scheme if the claim or part of the claim is based on the restoration of a pay differential between the employee and another employee who has secured or is to secure an increase in pay as the result of the passing of this Act.

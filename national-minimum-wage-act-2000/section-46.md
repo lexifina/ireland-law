@@ -1,0 +1,3 @@
+Change of ownership of business.
+
+46.— Without prejudice to the generality of the European Communities (Safeguarding of Employee’s Rights on Transfer of Undertakings) Regulations, 1980 (S.I. No. 306 of 1980), on the transfer of an undertaking within the meaning of those regulations the transferee shall become liable to an employee in the undertaking to whom this Act applies in respect of any matter under this Act, in the same manner and to the same extent as the transferor immediately before the transfer, as if the transferee has originally entered into the relevant contract of employment or other agreement with the employee.
