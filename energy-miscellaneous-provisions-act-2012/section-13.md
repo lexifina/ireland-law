@@ -1,0 +1,3 @@
+Performance of Minister’s functions by other person.
+
+13.—...

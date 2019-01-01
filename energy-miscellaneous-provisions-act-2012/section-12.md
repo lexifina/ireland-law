@@ -1,0 +1,3 @@
+Voluntary agreements by energy suppliers.
+
+12.—...
