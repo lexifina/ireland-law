@@ -1,0 +1,3 @@
+Provision of assistance by foreign maritime administration.
+
+10.— Where the maritime administration of a party to the Convention provides, pursuant to a request of the Minister, assistance in preventing or minimising damage in the State resulting from a discharge of oil or hazardous and noxious substances from a ship, offshore unit , oil handling facility or hazardous and noxious substances handling facility, the Minister may, on such terms and conditions as he or she considers appropriate, reimburse such foreign maritime administration for the expenses incurred by it in so providing assistance.
