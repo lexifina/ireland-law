@@ -8,9 +8,11 @@ Ard-Chláraitheoir.
 
 (3) An tArd-Chláraitheoir shall be a civil servant.
 
-(4) A person appointed to be an tArd-Chláraitheoir shall hold office for a period of 7 years but the Minister may, if he or she thinks fit, continue the appointment (including an appointment previously continued under this subsection) for such further period not exceeding 7 years as he or she considers appropriate.
+(4) A person appointed to be an tArd-Chláraitheoir shall hold office for a period of 3 years but the Minister may, if he or she thinks fit, continue the appointment (including an appointment previously continued under this subsection) for such further period not exceeding 3 years as he or she considers appropriate.
 
 (5) A person appointed to be an tArd-Chláraitheoir shall, subject to subsection (4), hold office on such terms and conditions as may be determined by the Minister after consultation with the Minister for Finance at the time of the appointment.
+
+(5A) A person appointed to be an tArd-Chláraitheoir may at any time resign his or her office by letter addressed to the Minister and the resignation shall take effect on and from the date of receipt of the letter.
 
 (6) (a) The Minister may remove an tArd-Chláraitheoir from office at any time if, in the opinion of the Minister, an tArd-Chláraitheoir is incapable by reason of ill-health of performing his or her functions, or has committed stated misbehaviour or his or her removal from office appears to the Minister to be necessary for the effective performance of the functions of the office.
 
