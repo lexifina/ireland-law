@@ -20,6 +20,8 @@ Definitions.
 
 (b) in the case of the Union scheme, the Member State in which the taxable person has established his or her business or, if the taxable person has not established his or her business in the Community, the Member State in which he or she has a fixed establishment and in which he or she chooses to be identified for the purposes of that scheme;
 
+2 OJ No. L77, 23.3.2011, p.1 3 OJ No. L290, 20.10.2012, p.1
+
 ‘national tax number’ means a number (whether consisting of either or both numbers and letters) assigned to a taxable person who has not established his or her place of business in the Community by the person’s own national taxation authority;
 
 ‘non-Union scheme’ means the scheme for telecommunications services, broadcasting services or electronically supplied services supplied by a taxable person whose business is not established in the Community, who has no fixed establishment in the Community ...;
