@@ -162,6 +162,8 @@ Interpretation.
 
 (2A) ...
 
+(2B)...
+
 (3) In this Act—
 
 (a) a reference to a birth, stillbirth, ... marriage or death includes a reference to such an event that could have been, but was not, registered in a register formerly maintained under the repealed enactments;
