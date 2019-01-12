@@ -78,9 +78,9 @@ Power to suspend sentence.
 
 (8H) In subsections (8D) to (8G), references to an appeal against conviction or sentence for the triggering offence shall be construed as references to an appeal against conviction or sentence, as the case may be, for that offence, whether by way of rehearing, case stated or otherwise.
 
-(9) Where a person to whom an order under subsection (1) applies is, during the period of suspension of the sentence concerned, convicted of an offence , being an offence committed after the making of the order under subsection (1), the court before which proceedings for the offence are brought shall, before imposing sentence for that offence, remand the person in custody or on bail to the next sitting of the court that made the said order.
+(9) ... [declared unconstitutional, see E-note below]
 
-(10) A court to which a person has been remanded under subsection (9) shall revoke the order under subsection (1) unless it considers that the revocation of that order would be unjust in all the circumstances of the case, and where the court revokes that order, the person shall be required to serve the entire of the sentence of imprisonment originally imposed by the court, or such part of the sentence as the court considers just having regard to all of the circumstances of the case, less any period of that sentence already served in prison and any period spent in custody (other than a period spent in custody by the person in respect of an offence referred to in subsection (9)) pending the revocation of the said order.
+(10) ... [declared unconstitutional, see E-note below]
 
 (10A) ...
 
@@ -94,7 +94,7 @@ Power to suspend sentence.
 
 (13A) The Director of Public Prosecutions may, if he or she has reasonable grounds for believing that a person to whom an order under subsection (1) applies has contravened a condition imposed under subsection (3), apply to the court to fix a date for the hearing of an application for an order revoking the order under subsection (1).
 
-(14) A probation and welfare officer may, if he or she has reasonable grounds for believing that a person to whom an order under subsection (1) applies has contravened a condition imposed under subsection ... (4), apply to the court to fix a date for the hearing of an application for an order revoking the order under subsection (1).
+(14) A probation and welfare officer may, if he or she has reasonable grounds for believing that a person to whom an order under subsection (1) applies has contravened a condition imposed under subsection ...(4), apply to the court to fix a date for the hearing of an application for an order revoking the order under subsection (1).
 
 (15) Where the court fixes a date for the hearing of an application referred to in subsection (13), (13A) or (14), it shall, by notice in writing, so inform the person in respect of whom the application will be made, or where that person is in prison, the governor of the prison, and such notice shall require the person to appear before it, or require the said governor to produce the person before it, on the date so fixed and at such time as is specified in the notice.
 
