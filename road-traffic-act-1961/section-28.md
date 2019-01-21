@@ -1,0 +1,11 @@
+Special disqualification orders.
+
+28.—(1) Where an officer of the Garda Síochána or appropriate licensing authority has reasonable grounds for believing that a person who is the holder of a driving licence is by reason of disease or physical or mental disability unfit to drive any mechanically propelled vehicle whatsoever or any class or classes of mechanically propelled vehicles covered by such licence, such officer or licensing authority may apply to a Justice of the District Court having jurisdiction in the place in which such person ordinarily resides for an order under this subsection, and if the Justice is satisfied that such person is by reason of disease or physical or mental disability unfit to drive any mechanically propelled vehicle whatsoever or any such class or classes of mechanically propelled vehicles as are within the terms of the application, he may make the appropriate order declaring such person to be disqualified for holding a driving licence until he produces to the licensing authority a certificate of fitness.
+
+(2) Where an officer of the Garda Síochána has reasonable grounds for believing that a person who is the holder of a driving licence is incompetent to drive any mechanically propelled vehicle whatsoever or any class or classes of mechanically propelled vehicles covered by such licence, such officer may apply to a Justice of the District Court having jurisdiction in the place in which such person ordinarily resides for an order under this subsection in respect of such person, and if the Justice is satisfied that such person is incompetent to drive any mechanically propelled vehicle whatsoever or any such class or classes of mechanically propelled vehicles as are within the terms of the application, he may make the appropriate order declaring such person to be disqualified for holding a driving licence until he produces to the licensing authority a certificate of competency.
+
+(3) An order shall not be made under this section in respect of a person unless not less than ten days’ previous notice in writing of the application for the order has been given to him.
+
+(4) A person who is aggrieved by a special disqualification order made in respect of him may appeal to the Circuit Court.
+
+(5) Orders made under this section are referred to in this Act as special disqualification orders.

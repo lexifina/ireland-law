@@ -1,0 +1,13 @@
+Finance.
+
+8.—(1) All expenses incurred by any Minister or by the Commissioner in execution of the Roads Act, 1920, of the Finance (Excise Duties) (Vehicles) Acts, 1952 and 1960, or of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+(2) ...
+
+(3) ...
+
+(4) ...
+
+(5) ...
+
+(6) So far as may be necessary for the purposes of the transition from the repealed Act to this Act, the references to this Act in subsections (1), (2) and (4) of this section shall be construed as including references to the repealed Act.
