@@ -1,0 +1,5 @@
+Writing of signature on demand by member of Garda Síochána.
+
+41.—(1) A member of the Garda Síochána may, on any day with respect to which the condition specified in subsection (2) of this section is fulfilled, request a person driving in a public place a mechanically propelled vehicle or accompanying the holder of a provisional licence while such holder is driving in a public place a mechanically propelled vehicle, or a person producing his driving licence at a Garda Síochána station in pursuance of the immediately preceding section, to sign his name in a book and with a pen or pencil to be provided by the member and at the place in the book indicated by the member, and if such person, on being so requested and on being provided with the book and pen or pencil, refuses or fails to sign his name in the book or with the pen or pencil or at the place in the book indicated by the member, he shall be guilty of an offence.
+
+(2) The condition referred to in subsection (1) of this section is that all or some of the driving licences that could have stood granted on the day in question could have been expressed as not having effect until they are signed by the grantees.

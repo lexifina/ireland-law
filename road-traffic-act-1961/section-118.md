@@ -1,0 +1,3 @@
+Liability in respect of person using mechanically propelled vehicle with consent of owner.
+
+118.—Where a person (in this section referred to as the user) uses a mechanically propelled vehicle with the consent of the owner of the vehicle, the user shall, for the purposes of determining the liability or non-liability of the owner for injury caused by the negligent use of the vehicle by the user, and for the purposes of determining the liability or non-liability of any other person for injury to the vehicle or persons or property therein caused by negligence occurring while the vehicle is being used by the user, be deemed to use the vehicle as the servant of the owner, but only in so far as the user acts in accordance with the terms of such consent.
