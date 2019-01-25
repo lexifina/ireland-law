@@ -10,7 +10,7 @@ Requirement for environmental impact statement.
 
 (II) no quantity, area or other limit is specified in that Part in respect of the development concerned, or
 
-(ii) Part 2 of Schedule 5 of the Planning and Development Regulations 2001 and either—
+(ii) Part 2 (other than subparagraph (a) of paragraph 2) of Schedule 5 of the Planning and Development Regulations 2001 and either—
 
 (I) such development would equal or exceed, as the case may be, any relevant quantity, area or other limit specified in that Part, or
 
