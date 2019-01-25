@@ -2,9 +2,9 @@ Civil proceedings relating to certain licences, etc.
 
 4.— (1) Section 3 applies to civil proceedings, other than proceedings referred to in subsection (3), instituted by a person—
 
-(a) for the purpose of ensuring compliance with, or the enforcement of, a statutory requirement or condition or other requirement attached to a licence, permit, permission, lease , notice or consent specified in subsection (4), or
+(a) for the purpose of ensuring compliance with, or the enforcement of, a statutory requirement or condition or other requirement specified in or attached to a licence, registration, permit, permission, lease , notice or consent specified in subsection (4), or
 
-(b) in respect of the contravention of, or the failure to comply with such licence, permit, permission, lease , notice or consent, and where the failure to ensure such compliance with, or enforcement of, such statutory requirement, condition or other requirement referred to in paragraph (a), or such contravention or failure to comply referred to in paragraph (b), has caused, is causing, or is likely to cause, damage to the environment.
+(b) in respect of the contravention of, or the failure to comply with such licence, registration, permit, permission, lease , notice or consent, and where the failure to ensure such compliance with, or enforcement of, such statutory requirement, condition or other requirement referred to in paragraph (a), or such contravention or failure to comply referred to in paragraph (b), has caused, is causing, or is likely to cause, damage to the environment.
 
 (2) Without prejudice to the generality of subsection (1), damage to the environment includes damage to all or any of the following:
 
@@ -50,7 +50,7 @@ Civil proceedings relating to certain licences, etc.
 
 (h) a licence granted under section 7 of the Forestry Act 2014.
 
-(i) a licence granted pursuant to section 30 of the Radiological Protection Act 1991,
+(i) a licence or registration granted pursuant to regulations made under section 30 of the Radiological Protection Act 1991,
 
 (j) a lease made under section 2, or a licence granted under section 3 of the Foreshore Act 1933,
 
@@ -78,4 +78,4 @@ Civil proceedings relating to certain licences, etc.
 
 (c) a city council within the meaning of the Local Government Act 2001.
 
-(6) In this section a reference to a licence, revised licence, permit, permission, approval, lease or consent is a reference to such licence, permit, lease or consent and any conditions or other requirements attached to it and to any renewal or revision of such licence, permit, permission, approval, lease or consent.
+(6) In this section a reference to a licence, registration, revised licence, permit, permission, approval, lease or consent is a reference to such licence, registration, permit, lease or consent and any conditions or other requirements specified in or attached to it and to any renewal or revision of such licence, permit, permission, approval, lease or consent.
