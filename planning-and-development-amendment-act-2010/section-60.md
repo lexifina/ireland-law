@@ -1,0 +1,3 @@
+Amendment of section 181A of Principal Act.
+
+60.— ...
