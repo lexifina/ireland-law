@@ -1,0 +1,5 @@
+## PART 2A CLINICAL NEGLIGENCE ACTIONS
+
+Interpretation of Part 2A
+
+32A. —
