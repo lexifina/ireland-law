@@ -1,0 +1,3 @@
+Power to require deposit by licensed bankers in certain circumstances.
+
+50.—...

@@ -1,0 +1,11 @@
+Power of banks of issue to write off certain notes.
+
+40.—(1) Where, for the purpose of computing the payments to be made under section 66 of the Currency Act by an Associated Bank which was, at the passing of that Act, a bank of issue, it is necessary to have regard to the total amount, as ascertained by the Commission, of the notes of such Associated Bank outstanding (including notes in the tills or vaults of such Associated Bank) immediately before the appointed day mentioned in section 60 of the Currency Act, such Associated Bank may, for the said purpose, from time to time write off, with the sanction of the Minister, from the said total amount as so ascertained an amount not exceeding the amount of so many of the said notes of such Associated Bank still outstanding at the time of such writing off as are estimated by such Associated Bank to be unlikely ever to be presented to such Associated Bank for payment.
+
+(2) The Minister may attach to any sanction given by him to a writing off under the foregoing sub-section of this section such conditions as he shall, having regard to the circumstances, think proper, and may in particular require that the Associated Bank making such writing off shall pay to the Bank for addition to the currency reserve a specified proportion of the amount so written off, but subject to the limitation that the amount of such specified proportion shall not exceed the amount of the proportion appertaining to Saorstát Eireann determined by the Commission under sub-section (4) of section 60 of the Currency Act in respect of the notes of such Associated Bank outstanding immediately before the appointed day mentioned in that sub-section.
+
+(3) Every writing off under this section by an Associated Bank shall have effect as on and from the date on which the sanction of the Minister thereto is given.
+
+(4) Whenever an Associated Bank has written off an amount under this section, due regard shall be had to such writing off when computing the amount of any payment under section 66 of the Currency Act, as amended by this Act, payable by such Associated Bank in respect of a period wholly or partly subsequent to the date as on and from which such writing off has effect.
+
+(5) No writing off under this section by an Associated Bank shall operate to release such Associated Bank from liability to pay any of its notes.

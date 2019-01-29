@@ -1,0 +1,3 @@
+General fund of the Bank.
+
+6G.—...

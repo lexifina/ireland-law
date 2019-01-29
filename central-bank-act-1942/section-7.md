@@ -1,0 +1,3 @@
+Certain particular powers of the Bank.
+
+7.—...

@@ -1,0 +1,3 @@
+Copyright in notes issued by the Bank.
+
+17.—...

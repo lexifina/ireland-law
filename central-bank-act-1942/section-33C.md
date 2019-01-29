@@ -1,0 +1,3 @@
+Functions and powers of Regulatory Authority.
+
+33C.—...

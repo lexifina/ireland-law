@@ -1,0 +1,3 @@
+Power of the Bank to establish divisions, etc. within the Bank
+
+6C.—...

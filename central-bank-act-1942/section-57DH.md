@@ -1,0 +1,3 @@
+Chairperson of Consultative Panel to attend meetings of relevant Oireachtas Joint Committee when required.
+
+57DH.—...

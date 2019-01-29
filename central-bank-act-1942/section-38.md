@@ -1,0 +1,3 @@
+Stamp duty in respect of consolidated bank notes.
+
+38.—Section 49 of the Finance Act, 1932 (No. 20 of 1932), as amended by section 15 of the Finance Act, 1937 (No. 18 of 1937), shall apply and have effect in relation to the half-year (if any) which is partly before and on and partly after the date of the passing of this Act or which commences on that date as if the portion of such half-year which ends on or consists of the said date were a half-year, and the said section 49 as so amended shall, in pursuance of the repeal thereof by this Act, not apply or have effect in relation to the portion of such half-year which is subsequent to the said date.

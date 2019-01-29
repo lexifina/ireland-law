@@ -1,0 +1,3 @@
+Operation of disqualification of the Governor or a Director.
+
+30.—...

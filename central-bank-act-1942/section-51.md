@@ -1,0 +1,3 @@
+Powers in respect of licensed bankers’ clearances.
+
+51.—...
