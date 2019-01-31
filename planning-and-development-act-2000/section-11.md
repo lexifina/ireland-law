@@ -2,6 +2,10 @@ Preparation of draft development plan.
 
 11.—(1) (a) Not later than 4 years after the making of a development plan, a planning authority shall, subject to paragraph (b), give notice of its intention to review its existing development plan and to prepare a new development plan for its area.
 
+(aa) Subject to paragraph (b) and notwithstanding paragraph (a), the council of the city of Cork shall, not later than 4 years (or such longer period, not exceeding 5 years, as the Minister may specify by order) after the making of a development plan, give notice of its intention to review its existing development plan and to prepare a new development plan for its area.
+
+(ab) Subject to paragraph (b) and notwithstanding paragraph (a), the council of the county of Cork shall, not later than 4 years (or such longer period, not exceeding 5 years, as the Minister may specify by order) after the making of a development plan, give notice of its intention to review its existing development plan and to prepare a new development plan for its area.
+
 (b) For the purpose of enabling the incorporation of the National Planning Framework and a regional spatial and economic strategy into a development plan—
 
 (i) where notice of a development plan review to be given in accordance with paragraph (a) is prior to the making of the relevant regional spatial and economic strategy, then notice of the review shall be deferred until not later than 13 weeks after the relevant regional spatial and economic strategy has been made,
