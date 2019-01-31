@@ -28,6 +28,8 @@ Agreements concerning functions.
 
 (c) for such other matters as may be considered necessary to give effect to the agreement, and may provide for an area of charge other than the area of charge specified in section 10 of the Local Government Act, 1946.
 
+(4A) An agreement under this section made after the commencement of section 20 of the Local Government Act 2019 shall not contain any term, condition or provision that is inconsistent with an arrangement under that section.
+
 (5) The making of an agreement by a local authority under this section, in so far as it relates to it, is a reserved function.
 
 (6) An agreement under this section may relate to all or part of the area of a local authority as may be specified in the agreement.

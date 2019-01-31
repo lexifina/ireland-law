@@ -96,7 +96,7 @@ Interpretation.
 
 (f) property previously valued as 2 or more relevant properties becoming liable to be valued as a single relevant property, or
 
-(g) the fact that relevant property has been moved or transferred from the jurisdiction of one rating authority to another rating authority, or
+(g) the fact that relevant property has been moved or transferred from the jurisdiction of one rating authority to another rating authority (other than in accordance with the Local Government Act 2019), or
 
 (h) relevant property or part of any relevant property becoming licensed or ceasing to be licensed under the Licensing Acts 1833 to 2011;
 

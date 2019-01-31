@@ -2,7 +2,7 @@
 
 Registration body and Admissions Board (Part 3).
 
-13.— (1) The Royal Institute of Architects of Ireland shall be the registration body for the purposes of this Part.
+13.— (1) The Royal Institute of the Architects of Ireland shall be the registration body for the purposes of this Part.
 
 (2) For the purposes of the Directive, the registration body is the competent authority in the State as respects architects.
 

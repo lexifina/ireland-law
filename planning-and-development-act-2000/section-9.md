@@ -4,6 +4,10 @@ Obligation to make development plan.
 
 9.—(1) Every planning authority shall every 6 years make a development plan.
 
+(1A) Notwithstanding subsection (1), the council of the city of Cork shall make a development plan every 6 years (or such longer period, not exceeding 7 years, as the Minister may specify by order).
+
+(1B) Notwithstanding subsection (1), the council of the county of Cork shall make a development plan every 6 years (or such longer period, not exceeding 7 years, as the Minister may specify by order).
+
 (2) Subject to subsection (3), a development plan shall relate to the whole functional area of the authority.
 
 (3)(a) A planning authority may, with the agreement of one or more local authorities which are adjoining local authorities, or on the direction of the Minister shall, make a single development plan for its functional area and any environs of that area which form part of any adjoining local authorities.

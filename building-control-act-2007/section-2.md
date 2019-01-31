@@ -14,11 +14,7 @@ Interpretation.
 
 “aptitude test” means an aptitude test of such character as the Admissions Board determines in accordance with the Directive;
 
-“Directive” means Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005, as amended by Council Directive 2006/100/EC of 20 November 2006, Commission Regulation (EC) No. 1430/2007 of 5 December 2007,
-
-1 OJ No. L 255, 30.9.2005, p. 22. 2 OJ No. L 363, 20.12.2006, p. 141. 3 OJ No. L 320, 6.12.2007, p. 3.
-
-Commission Regulation (EC) No. 755/2008 of 31 July 2008, Regulation (EC) No. 1137/2008 of the European Parliament and of the Council of 22 October 2008, Commission Regulation (EC) No. 279/2009 of 6 April 2009, Commission Regulation (EU) No. 213/2011 of 3 March 2011, the Treaty concerning the accession of the Republic of Croatia to the European Union done at Brussels on the 9th day of December 2011, Commission Regulation (EU) No. 623/2012 of 11 July 2012 and Council Directive 2013/25/EU of 13 May 2013;
+“Directive” means Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005, as amended by Council Directive 2006/100/EC of 20 November 2006, Commission Regulation (EC) No. 1430/2007 of 5 December 2007, Commission Regulation (EC) No. 755/2008 of 31 July 2008, Regulation (EC) No. 1137/2008 of the European Parliament and of the Council of 22 October 2008, Commission Regulation (EC) No. 279/2009 of 6 April 2009, Commission Regulation (EU) No. 213/2011 of 3 March 2011, the Treaty concerning the accession of the Republic of Croatia to the European Union done at Brussels on the 9th day of December 2011, Commission Regulation (EU) No. 623/2012 of 11 July 2012 and Council Directive 2013/25/EU of 13 May 2013;
 
 “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as amended for the time being;
 
@@ -54,8 +50,6 @@ Commission Regulation (EC) No. 755/2008 of 31 July 2008, Regulation (EC) No. 113
 
 (a) is in breach of the code prepared by the relevant registration body, or
 
-4 OJ No. L 205, 1.8.2008, p. 10. 5 OJ No. L 311, 21.11.2008, p. 1. 6 OJ No. L 93, 7.4.2009, p. 11. 7 OJ No. L 59, 4.3.2011, p. 4. 8 OJ No. L 112, 24.4.2012, p. 10. 9 OJ No. L 180, 12.7.2012, p. 9. 10 OJ No. L 158, 10.6.2013, p. 368.
-
 (b) if the registered professional has been granted by a body established in a state, other than the State, a licence, certificate or registration relating to the practice of the profession concerned, is a breach of the standard of conduct or performance that applies to a person holding that licence, certificate or registration and that corresponds to a standard in the code referred to in paragraph (a);
 
 “registered professional” means a person who is registered in the register under Part 3, 4 or 5, as the context requires;
@@ -64,7 +58,7 @@ Commission Regulation (EC) No. 755/2008 of 31 July 2008, Regulation (EC) No. 113
 
 “registration body” means, with respect to—
 
-(a) Part 3, the Royal Institute of Architects of Ireland,
+(a) Part 3, the Royal Institute of the Architects of Ireland,
 
 (b) Parts 4 and 5, the Society of Chartered Surveyors,
 

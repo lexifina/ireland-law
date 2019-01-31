@@ -32,6 +32,8 @@ Requirement that a particular thing be done.
 
 (a) to the performance of any function of a local authority generally,
 
+(aa) to the performance of any function, the doing of any act or the making of any decision under or for the purposes of the Local Government Act 2019,
+
 (b) to every case or occasion of the performance of any such function or to a number or class of such cases or occasions so extended as to be substantially or in effect every case or occasion on which any such function is performed,
 
 (c) to every case or occasion of the performance of any such function in a particular area or to a number or class of such cases or occasions so extended as to be substantially or in effect every case or occasion on which any such function is performed in that area, ...
