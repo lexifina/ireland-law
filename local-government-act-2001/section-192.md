@@ -1,13 +1,23 @@
-Changing of name of street situated in one local authority area.
+General provisions relating to change of names.
 
-192.—(1) A local authority may by resolution adopt a proposal to change the name of a street in its functional area to a proposed new name.
+192.— (1) The consideration of submissions received under this Part shall be a reserved function.
 
-(2) The street to which the proposal referred to in subsection (1) relates shall be described in that proposal by reference to a map or otherwise.
+(2) A local authority shall, in adopting a proposal under section 189 or 190 have regard to local traditions.
 
-(3) Where a local authority adopts a proposal under subsection (1), it shall seek, in accordance with regulations made by the Minister under section 196, the consent of the majority of the qualified electors in the street to the proposed new name.
+(3) (a) If a majority of the votes cast at a ballot held pursuant to a decision under subsection (7) of section 189 or subsection (7) of section 190 in relation to a place in a Gaeltacht area is in favour of the proposed new placename concerned, the Minister for Arts, Heritage and Gaeltacht Affairs shall make an order declaring that, from such date (determined in accordance with paragraph (b)) as is specified in the order, that proposed new placename shall become and be the placename in respect of the place concerned.
 
-(4) Where a majority of the qualified electors consent to the proposed new name, the Cathaoirleach of the local authority concerned shall make a declaration confirming such consent and specifying the proposed new name and the date on which it comes into operation.
+(b) Where the Minister for Arts, Heritage and Gaeltacht Affairs makes an order under this subsection, the placename to which the declaration in the order relates shall—
 
-(5) A declaration made by the Cathaoirleach of a local authority under subsection (4) shall be in such form, as may be prescribed by regulations made by the Minister under section 196.
+(i) if the order is made not less than 3 months before the 1st day of January next following the order, become and be the placename of the place concerned from the said 1st day of January, or
 
-(6) Section 196 applies to this section, as appropriate.
+(ii) in any other case, become and be the placename of the place concerned from the first anniversary of the said 1st day of January.
+
+(c) Every order under this subsection shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
+
+(4) Where the Minister for Arts, Heritage and Gaeltacht Affairs makes an order under subsection (3), any provision of an order made under section 32 of the Official Languages Act 2003 in force immediately before the making of the first-mentioned order shall stand revoked in so far only as it conflicts with the first-mentioned order.
+
+(5) (a) The Minister may make regulations for the purposes of this Part.
+
+(b) Without prejudice to the generality of paragraph (a), regulations under that paragraph may make provision in relation to the bearing of the costs incurred by local authorities in the performance of their functions under section 190 or as a consequence of the substitution of a placename under that section.
+
+(6) In this section ‘Gaeltacht area’ has the same meaning as it has in the Official Languages Act 2003.
