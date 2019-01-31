@@ -4,6 +4,4 @@ Amendment of Seventh Schedule to Act of 2000.
 
 “Health Infrastructure
 
-4. Development comprising the following:
-
-A health care facility (other than a development which is predominantly for the purposes of providing care services (within the meaning of section 3 of the Nursing Homes Support Scheme Act 2009)) which, whether or not the facility is intended to form part of another health care facility, shall provide in-patient services and shall have not fewer than 100 beds in order to so provide.”.
+4. Development comprising the following: A health care facility (other than a development which is predominantly for the purposes of providing care services (within the meaning of section 3 of the Nursing Homes Support Scheme Act 2009)) which, whether or not the facility is intended to form part of another health care facility, shall provide in-patient services and shall have not fewer than 100 beds in order to so provide.”.
