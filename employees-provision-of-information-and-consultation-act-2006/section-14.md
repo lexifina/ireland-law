@@ -12,7 +12,9 @@ Confidential information.
 
 (2) The duty of confidentiality imposed by subsection (1) shall continue to apply after the cessation of the employment of the individual concerned or the expiry of his or her term of office.
 
-(3) Notwithstanding subsection (1), the individual concerned may disclose information which has been expressly provided to him or her in confidence to employees and to third parties where those employees or third parties are subject to a duty of confidentiality under this Act.
+(3) Notwithstanding subsection
+
+(1), the individual concerned may disclose information which has been expressly provided to him or her in confidence to employees and to third parties where those employees or third parties are subject to a duty of confidentiality under this Act.
 
 (4) An employer may refuse to communicate information or undertake consultation where the nature of that information or consultation is such that, by reference to objective criteria, it would—
 

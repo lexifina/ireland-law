@@ -2,7 +2,7 @@ Dispute resolution.
 
 15.— (1) Disputes between an employer and one or more employees or his or her representatives (or both) concerning:
 
-(a) negotiations under section 8 or 10,
+(a) negotiations under section 8 or 10 ,
 
 (b) interpretation or operation of any agreement under section 8 or 9,
 
