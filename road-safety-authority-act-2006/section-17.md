@@ -20,7 +20,7 @@ Chief executive officer.
 
 (10) The chief executive shall hold office on and subject to such terms and conditions (including terms and conditions relating to remuneration and superannuation) as may be determined by the Board with the consent of the Minister and with the agreement of the Minister for Finance. The chief executive may be removed from his or her position at any time, for stated reasons, by the Board, with the consent of the Minister.
 
-(11) The person who, immediately before the establishment day, holds the position of chief executive designate of the Authority shall, on the establishment day, become the chief executive and shall hold such office until such time as the Board appoints a chief executive under subsection (2).
+(11) The person who, immediately before the establishment day, holds the position of chief executive designate of the Authority shall, on the establishment day, become the chief executive and shall hold such office until such time as the Board appoints a chief executive under subsection (2) .
 
 (12) The chief executive shall not be a member of the Board. However, he or she will have the right to attend meetings of the Board and to address the Board on matters relating to the performance of the functions of the Authority.
 
@@ -36,6 +36,6 @@ Chief executive officer.
 
 (c) the systems, procedures and practices employed by the Authority for the purpose of evaluating the effectiveness of its operations, and
 
-(d) any matter affecting the Authority referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in paragraph (a), (b) or (c)) that is laid before Dáil Éireann.
+(d) any matter affecting the Authority referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993, or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in paragraph (a) , (b) or (c) ) that is laid before Dáil Éireann.
 
 (16) From time to time, and whenever so requested, the chief executive shall account for the performance of the Authority's functions to a Committee of one or both Houses of the Oireachtas and shall have regard to any recommendations of such Committee relevant to these functions.

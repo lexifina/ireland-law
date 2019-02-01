@@ -10,4 +10,4 @@ Charges by Authority.
 
 (2) Under the terms of a service agreement with the Authority, the Minister may agree to the Authority varying its charges in line with a financial model specified in the service agreement.
 
-(3) The Authority may recover as a simple contract debt in any court of competent jurisdiction from any person by whom it is payable any amount due and owing under subsection (1).
+(3) The Authority may recover as a simple contract debt in any court of competent jurisdiction from any person by whom it is payable any amount due and owing under subsection (1) .

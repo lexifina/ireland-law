@@ -10,7 +10,9 @@ Accounts of Authority.
 
 (2) The accounts of the Authority for each financial year shall be prepared by the chief executive and approved by the Board as soon as practicable but not later than three months after the end of the financial year to which they relate for submission to the Comptroller and Auditor General for audit.
 
-(3) A copy of the accounts referred to in subsection (2) and the report of the Comptroller and Auditor General thereon shall, as soon as is practicable, be presented to the Minister who shall cause copies thereof to be laid before each House of the Oireachtas.
+(3) A copy of the accounts referred to in subsection
+
+(2) and the report of the Comptroller and Auditor General thereon shall, as soon as is practicable, be presented to the Minister who shall cause copies thereof to be laid before each House of the Oireachtas.
 
 (4) The Authority shall, if so required by the Minister, furnish to him or her, such information as he or she may require in respect of any balance sheet, account or report of the Authority or in relation to the policy and operations of the Authority other than day-to-day operations.
 

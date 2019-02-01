@@ -8,9 +8,13 @@ Disclosure by members of staff of certain interests.
 
 (c) make no recommendation in relation to the contract, agreement or arrangement.
 
-(2) Subsection (1) does not apply to contracts, or proposed contracts, of employment of members of the staff of the Authority with the Authority or of a subsidiary with the subsidiary.
+(2) Subsection
 
-(3) Where a person to whom subsection (1) applies fails to comply with a requirement of that subsection then—
+(1) does not apply to contracts, or proposed contracts, of employment of members of the staff of the Authority with the Authority or of a subsidiary with the subsidiary.
+
+(3) Where a person to whom subsection
+
+(1) applies fails to comply with a requirement of that subsection then—
 
 (a) the Board, where the person is a member of the staff of the Authority or a consultant or adviser to the Authority, or
 

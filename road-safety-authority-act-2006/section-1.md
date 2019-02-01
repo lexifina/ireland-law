@@ -2,7 +2,7 @@ Definitions.
 
 1.— In this Act, save where the context otherwise requires—
 
-“Authority” means Road Safety Authority established under section 3;
+“Authority” means Road Safety Authority established under section 3 ;
 
 “Board” means Board of the Authority;
 
@@ -18,6 +18,6 @@ Definitions.
 
 “Minister” means Minister for Transport;
 
-“subsidiary” means a subsidiary established under section 11;
+“subsidiary” means a subsidiary established under section 11 ;
 
 “superannuation benefits” means pensions, gratuities and other allowances payable on or in respect of resignation, retirement or death.

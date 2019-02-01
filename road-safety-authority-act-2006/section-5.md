@@ -2,7 +2,7 @@ Outsourcing of functions of Authority.
 
 5.— (1) The Authority may, with the consent of the Minister with the agreement of the Minister for Finance, by an agreement in writing entered into with any person, upon such terms and conditions as may be specified in the agreement, provide for the performance by that person, subject to such terms and conditions (if any) as may be so specified, of such functions assigned to the Authority as may be so specified.
 
-(2) An agreement under this section may, in particular and without prejudice to the generality of subsection (1), make provision in relation to all or any of the following matters:
+(2) An agreement under this section may, in particular and without prejudice to the generality of subsection (1) , make provision in relation to all or any of the following matters:
 
 (a) the fees (if any) to be charged by the person performing a function in pursuance of the agreement on those in relation to whom the function is performed or on the person on whom the function was originally conferred;
 

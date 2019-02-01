@@ -8,4 +8,4 @@ Chairperson of Board.
 
 (4) The chairperson of the Board may at any time resign his or her office as chairperson by letter sent to the Minister, and the resignation shall, unless it is previously withdrawn in writing, take effect at the commencement of the meeting of the Board held next after the Board has been informed by the Minister of the resignation.
 
-(5) The chairperson of the Board shall, unless he or she sooner dies, resigns office of chairperson, or ceases to be chairperson under subsection (3) or (4), hold office until the expiration of his or her period as a member of the Board.
+(5) The chairperson of the Board shall, unless he or she sooner dies, resigns office of chairperson, or ceases to be chairperson under subsection (3) or (4) , hold office until the expiration of his or her period as a member of the Board.
