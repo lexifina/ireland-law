@@ -1,0 +1,3 @@
+Power to employ consultants. (Repealed)
+
+24.—...

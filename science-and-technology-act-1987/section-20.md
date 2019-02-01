@@ -1,0 +1,3 @@
+Acceptance of gifts by Agency. (Repealed)
+
+20.—...
