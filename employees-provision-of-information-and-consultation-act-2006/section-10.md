@@ -2,7 +2,7 @@ Standard rules on information and consultation.
 
 10.— (1) Where—
 
-(a) the parties agree to adopt the Standard Rules set out in Schedule 1 and the procedures for the election of employees’ representatives set out in Schedule 2,
+(a) the parties agree to adopt the Standard Rules set out in Schedule 1 and the procedures for the election of employees’ representatives set out in Schedule 2 ,
 
 (b) the employer refuses to enter into negotiations within 3 months of receiving the written request from employees as provided for under section 7(1) or of the date of receipt of notification by the employer under section 7(3)(c), or
 
