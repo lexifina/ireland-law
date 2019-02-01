@@ -1,0 +1,3 @@
+Release of persons arrested.
+
+50.—...

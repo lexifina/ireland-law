@@ -1,0 +1,3 @@
+Power of AG to revoke a direction
+
+44B.—...

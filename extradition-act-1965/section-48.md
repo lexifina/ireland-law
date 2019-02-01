@@ -1,0 +1,3 @@
+Lapse of time before delivery of arrested person.
+
+48.—...
