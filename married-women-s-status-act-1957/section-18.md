@@ -1,0 +1,3 @@
+Gifts in fraud of creditors.
+
+18. Nothing in this Act shall be construed as validating, as against creditors of a spouse (in this section called the ‘first-mentioned spouse’), any gift, by the first-mentioned spouse to his or her spouse, of any property which, after such gift, continues to be in the order or disposition or reputed ownership of the first-mentioned spouse or any deposit or other investment of moneys of that first-mentioned spouse made by or in the name of his or her spouse in fraud of the first-mentioned spouse’s creditors, and any such moneys so deposited or invested may be followed as if this Act had not been passed.

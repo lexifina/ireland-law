@@ -1,0 +1,5 @@
+Wife’s antenuptial debts and liabilities.
+
+10.—A woman after her marriage shall continue to be liable for all debts contracted and all contracts entered into or torts committed by her before her marriage, including any sums for which she may be liable as contributory, either before or after she has been placed on the list of contributories under and by virtue of the Companies
+
+(Consolidation) Act, 1908, and she may be sued for any such debt and for any liability in damages or otherwise under any such contract or in respect of any such tort.
