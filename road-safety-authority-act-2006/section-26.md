@@ -6,7 +6,7 @@ Prohibition on unauthorised disclosure of confidential information.
 
 (b) a director or a member of the staff of, or an adviser or consultant to, a subsidiary, unless he or she is duly authorised by the Authority or the subsidiary, as the case may be, or by a member of the staff of the Authority or the subsidiary, as the case may be, duly authorised in that behalf, to do so.
 
-(2) Particular information or information of a particular class or description shall be considered, for the purposes of subsection (1), to be confidential if it is stated to be confidential or the Board or an officer of the Authority or, as the case may be, the board or an officer of a subsidiary has directed that it be treated as confidential.
+(2) Particular information or information of a particular class or description shall be considered, for the purposes of subsection (1) , to be confidential if it is stated to be confidential or the Board or an officer of the Authority or, as the case may be, the board or an officer of a subsidiary has directed that it be treated as confidential.
 
 (3) In this section, “confidential” means that which is expressed to be confidential either as regards particular information or as regards information of a particular class or description.
 

@@ -2,7 +2,7 @@ Staff.
 
 18.— (1) Any person who immediately before the establishment day was a member of the staff of the Department of Transport and who is designated by the Minister for employment in the Authority shall on the appointed day be transferred to and become a member of the staff of the Authority.
 
-(2) The Minister may by order appoint a day to be the appointed day for the purposes of subsection (1).
+(2) The Minister may by order appoint a day to be the appointed day for the purposes of subsection (1) .
 
 (3) The Authority may appoint such number of persons to be members of the staff of the Authority as it may determine from time to time with the consent of the Minister with the agreement of the Minister for Finance.
 
@@ -10,7 +10,11 @@ Staff.
 
 (a) (other than the chief executive) shall be paid out of the moneys at the disposal of the Authority such remuneration and allowances for expenses incurred by him or her as the Board may, with the consent of the Minister with the agreement of the Minister for Finance, determine,
 
-(b) referred to in paragraph (a) shall hold office or employment on such other terms and conditions as the Board may, with the consent of the Minister with the agreement of the Minister for Finance, determine.
+(b) referred to in paragraph
+
+## (a)
+
+shall hold office or employment on such other terms and conditions as the Board may, with the consent of the Minister with the agreement of the Minister for Finance, determine.
 
 (5) The grades of the staff of the Authority and the numbers of staff in each grade shall be determined by the Board with the consent of the Minister with the agreement of the Minister for Finance.
 
@@ -18,7 +22,7 @@ Staff.
 
 (7) Save in accordance with a collective agreement negotiated with any recognised staff associations or trade unions concerned, the scales of pay to which a member of staff referred to in subsection (1) was entitled and the terms and conditions of service (other than those relating to tenure of office), restrictions, requirements and obligations to which they were subject immediately before their transfer shall continue to apply to them and may be applied or imposed by the Board or the chief executive, as the case may be, while they are in the service of the Authority.
 
-(8) In relation to staff transferred to the Authority under subsection (1), previous service in, or service reckonable for the purposes of any superannuation benefits payable by or on behalf of, the civil service shall be reckonable for the purposes of, but subject to any other exceptions or exclusions in—
+(8) In relation to staff transferred to the Authority under subsection (1) , previous service in, or service reckonable for the purposes of any superannuation benefits payable by or on behalf of, the civil service shall be reckonable for the purposes of, but subject to any other exceptions or exclusions in—
 
 (a) the Redundancy Payments Acts 1967 to 2003,
 

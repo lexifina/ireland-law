@@ -14,6 +14,6 @@ Functions of Authority.
 
 (b) the promotion of public awareness of road safety and of measures, including the advancement of education, relating to the promotion of the safe use of roads, including co-operation with local authorities and other persons in this regard.
 
-(5)...
+(5) ...
 
 (6) Every order made by the Minister under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly but without prejudice to the validity of anything previously done under it.

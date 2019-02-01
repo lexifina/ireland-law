@@ -24,4 +24,4 @@ Membership of Houses of Oireachtas and European Parliament.
 
 (5) The Authority shall not employ or otherwise retain in any capacity a person who would otherwise be disqualified under this section from becoming a member of the Board, or a member of the staff, of the Authority, save with the approval of the Minister.
 
-(6) Without prejudice to the generality of subsection (2), that subsection shall be construed as prohibiting, among other things, the reckoning of a period mentioned in that subsection as service with the Authority for the purposes of any superannuation benefits.
+(6) Without prejudice to the generality of subsection (2) , that subsection shall be construed as prohibiting, among other things, the reckoning of a period mentioned in that subsection as service with the Authority for the purposes of any superannuation benefits.
