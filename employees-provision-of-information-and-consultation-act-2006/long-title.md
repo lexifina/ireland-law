@@ -3,3 +3,5 @@ AN ACT TO IMPLEMENT DIRECTIVE 2002/14/EC OF THE EUROPEAN PARLIAMENT AND OF THE C
 ## [9th April, 2006]
 
 BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+
+• Functions of EAT to hear claims under employment enactments transferred to Workplace Relations Commission and references to EAT construed by Workplace Relations Act 2015 (16/2015) s. 66(1), (2), not commenced as of date of revision.
