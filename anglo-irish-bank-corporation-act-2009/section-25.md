@@ -2,7 +2,7 @@ Determination of fair and reasonable aggregate value.
 
 25.— (1) The Assessor shall determine the fair and reasonable aggregate value of the transferred shares of each class and the extinguished rights as at 15 January 2009 for the purposes of the payment of fair and reasonable compensation for the acquisition of those shares and the extinction of those rights.
 
-(2) The Assessorshall determine the value referred to in subsection (1)—
+(2) The Assessor shall determine the value referred to in subsection (1)—
 
 (a) on the basis of the true financial state of Anglo Irish Bank on 15 January 2009, taking into account the underlying market values of Anglo Irish Bank’s assets and the extent of its actual, contingent and prospective liabilities at that date,
 
@@ -10,7 +10,7 @@ Determination of fair and reasonable aggregate value.
 
 (c) assuming that no financial assistance, investment or guarantee (other than the guarantee already provided under the Credit Institutions (Financial Support) Act 2008) would in future be provided to or made in Anglo Irish Bank, directly or indirectly, by the State.
 
-(3) In determining the value referred to in subsection (1), the Assessorshall have reference to—
+(3) In determining the value referred to in subsection (1), the Assessor shall have reference to—
 
 (a) the quoted price of its shares at the close of business on 15 January 2009, and the movements in that price during such period as the Assessor considers appropriate,
 
