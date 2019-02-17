@@ -28,13 +28,15 @@ F296[Definitions for this part
 
 ‘register’ means the register established and maintained in accordance with section 58C;
 
+‘school’ has the same meaning as it has in the Education Act 1998;
+
 ‘school age child’ means a child who is attending a school age service;
 
 ‘school age service’ means any early years service, play group, day nursery, crèche, day-care or other similar service which—
 
-(a) caters for children enrolled in a recognised school providing primary education,
+(a) caters for children under the age of 15 years enrolled in a school providing primary or post-primary education,
 
-(b) provides a range of activities that are developmental, educational and recreational in manner and which take place outside of school hours, and
+(b) provides a range of activities that are developmental, educational and recreational in manner, which take place outside of school hours, the primary purpose of which is to care for children where their parents are unavailable, and
 
 (c) the basis for access to which is made publicly known to the parents and guardians of the children referred to in paragraph (a) of this definition, but excludes those services—
 
@@ -44,9 +46,11 @@ F296[Definitions for this part
 
 (II) youth work,
 
-(III) competitive or recreational sport, or
+(III) competitive or recreational sport,
 
 (IV) tuition, or
+
+(V) religious teaching, or
 
 (ii) for whom statutory provision for inspection exists, prior to the commencement of this section;
 
