@@ -4,9 +4,13 @@ Interpretation.
 
 ‘the Activities of Doctors in Training Regulations’ means the European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004 (S.I. No. 494 of 2004);
 
+‘adjudication officer’ means an adjudication officer appointed under section 40 of the Workplace Relations Act 2015;
+
 “annual leave” shall be construed in accordance with section 19;
 
 “collective agreement” means an agreement by or on behalf of an employer on the one hand, and by or on behalf of a body or bodies representative of the employees to whom the agreement relates on the other hand;
+
+‘collective bargaining’ shall be construed in accordance with the Industrial Relations Acts 1946 to 2015.
 
 “contract of employment” means—
 
@@ -32,11 +36,11 @@ Interpretation.
 
 “prescribed” means prescribed by regulations made by the Minister under this Act;
 
+(1) O.J. No. L307, 13.12.93, p.18
+
 “public holiday” shall be construed in accordance with the Second Schedule;
 
 “registered employment agreement” has the meaning assigned to it by section 25 of the Industrial Relations Act, 1946;
-
-(1) O.J. No. L307, 13.12.93, p.18
 
 “rest period” means any time that is not working time;
 

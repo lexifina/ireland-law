@@ -61,3 +61,13 @@ Determination of claims for unfair dismissal.
 (11) Where the dismissal of an employee is an unfair dismissal and a term or condition of the contract of employment concerned contravened any provision of or made under the Income Tax Acts or the Social Welfare Acts, 1981 to 1993, the employee shall, notwithstanding the contravention, be entitled to redress under this Act, in respect of the dismissal.
 
 (12) Where, in proceedings under this Act, it is shown that a term or condition of a contract of employment contravened any such provision as aforesaid, the adjudication officer or the Labour Court, as may be appropriate shall notify the Revenue Commissioners or the Minister for Social Welfare, as may be appropriate, of the matter.
+
+(13) (a) An adjudication officer may, by giving notice in that behalf in writing to any person, require such person to attend at such time and place as is specified in the notice to give evidence in proceedings under this section or to produce to the adjudication officer any documents in his or her possession, custody or control that relate to any matter to which those proceedings relate.
+
+(b) A person to whom a notice under paragraph (a) is given shall be entitled to the same immunities and privileges as those to which he or she would be entitled if he or she were a witness in proceedings before the High Court.
+
+(c) A person to whom a notice under paragraph (a) has been given who—
+
+(i) fails or refuses to comply with the notice, or
+
+(ii) refuses to give evidence in proceedings to which the notice relates or fails or refuses to produce any document to which the notice relates, shall be guilty of an offence and shall be liable, on summary conviction, to a class E fine.
