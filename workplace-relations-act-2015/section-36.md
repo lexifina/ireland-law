@@ -26,6 +26,8 @@ Fixed payment notices
 
 (a) section 11 of the Protection of Employment Act 1977,
 
-(b) subsection (4) of section 4 of the Payment of Wages Act 1991, or
+(b) subsection (4) of section 4 of the Payment of Wages Act 1991,
 
-(c) section 23 of the National Minimum Wage Act 2000.
+(c) section 23 of the National Minimum Wage Act 2000, or
+
+(d) section 6B of the Terms of Employment (Information) Act 1994.

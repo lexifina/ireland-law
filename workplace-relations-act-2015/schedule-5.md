@@ -12,7 +12,7 @@ Part 1
 
 3. Section 5 of the Payment of Wages Act 1991
 
-4. Section 3, 4, 5 or 6 of the Terms of Employment (Information) Act 1994
+4. Section 3, 4, 5, 6 or 6C of the Terms of Employment (Information) Act 1994
 
 5. Section 13 or 17 of the Protection of Young Persons (Employment) Act 1996
 

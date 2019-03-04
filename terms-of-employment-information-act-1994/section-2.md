@@ -1,10 +1,6 @@
 Exclusions.
 
-2.—(1) This Act shall not apply to—
-
-(a) employment in which the employee is normally expected to work for the employer for less than 8 hours in a week, or
-
-(b) employment in which the employee has been in the continuous service of the employer for less than 1 month.
+2.—(1) This Act, other than section 3(1A), shall not apply to employment in which the employee has been in the continuous service of the employer for less than 1 month.
 
 (2) Where the exclusion of a class or classes of employment from any provision of this Act is justified by objective considerations, the Minister may, after consultation with representatives of employers and of employees within that class or classes of employment, by order declare that that provision shall not apply to that class or those classes of employment and this Act shall have effect in accordance with the provisions of any such order for the time being in force.
 
