@@ -1,25 +1,23 @@
-Rates of pay during first 2 years of employment after entering employment after, or attaining, age of 18 years.
+Prescription of percentages of hourly rates of pay.
 
-15.—(1) Subject to subsection (2) and sections 16, 17 and 18, a person who—
+15. (1) The Minister shall prescribe a percentage of the national minimum hourly rate of pay in relation to employees—
 
-(a) enters employment for the first time after attaining the age of 18 years, or
+(a) who have not attained the age of 18 years,
 
-(b) having entered into employment before attaining the age of 18 years continues in employment on attaining that age, shall be remunerated by his or her employer in respect of his or her working hours in any pay reference period at an hourly rate of pay that on average is not less than—
+(b) who are 18 years of age, and
 
-(i) in the case of an employee commencing employment for the first time after attaining the age of 18 years—
+(c) who are 19 years of age.
 
-(I) in his or her first year after having commenced employment, 80 per cent, and
+(2) Subject to sections 17, 18 and 41, an employee to whom subsection (1) relates shall be remunerated by his or her employer in respect of the employee’s working hours in any pay reference period at an hourly rate of pay that on average is not less than the percentage of the national minimum hourly rate of pay prescribed under that subsection in relation to that employee.
 
-(II) in his or her second year after having commenced employment, 90 per cent,
+(3) In prescribing percentages under subsection (1), the Minister shall have regard to the condition of the labour market, the costs of employment, levels of youth employment and levels of youth unemployment.
 
-(ii) in the case of an employee having entered into employment before attaining the age of 18 years and continuing in employment on attaining that age—
+(4) In prescribing percentages under subsection (1), the Minister shall not prescribe a percentage that is—
 
-(I) in his or her first year after having attained the age of 18 years, 80 per cent, and
+(a) in the case of employees who have not attained the age of 18 years, less than 70 per cent,
 
-(II) in his or her second year after having attained that age, 90 per cent, of the national minimum hourly rate of pay, notwithstanding that the employee, if he or she has changed his or her employer during the relevant period, may have been remunerated at a higher rate by the previous employer.
+(b) in the case of employees who are 18 years of age, less than 80 per cent, and
 
-(2) In calculating a period of employment for the purpose of subsection (1), any period of employment during which the employee had not attained the age of 18 years shall be ignored.
+(c) in the case of employees who are 19 years of age, less than 90 per cent, of the national minimum hourly rate of pay.
 
-(3) An employer shall not be liable in a dispute with an employee to whom this section applies as to the applicable rate of pay for the employee if the employer took reasonable steps to obtain detailed information about the employee’s employment with any previous employer and paid the employee at an hourly rate in accordance with the information and this section.
-
-(4) This section applies to an employee in circumstances described in subsection (1) (a) or (b) whether he or she entered employment, or continued in employment on attaining the age of 18 years, before or after the commencement of this section, but the employee’s entitlement to remuneration as provided for in subsection (1) shall be only in respect of any period remaining after the commencement of this section of the employee’s first and/or second year after so entering employment for the first time or, as the case may be, so attaining the age of 18 years and continuing in employment.
+16....
