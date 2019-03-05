@@ -35,3 +35,5 @@ Interpretation.
 (b) a reference to a section is a reference to a section of this Act unless it is indicated that reference to some other enactment is intended,
 
 (c) a reference to a subsection, paragraph or subparagraph is a reference to the subsection, paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended.
+
+(1)O.J. No. L 288, 18.10.91, p. 32.
