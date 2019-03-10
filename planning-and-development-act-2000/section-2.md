@@ -104,6 +104,8 @@ Interpretation.
 
 ‘Environmental Impact Assessment Directive’ means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014 amending Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment;
 
+3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
+
 ‘environmental impact assessment report’ means a report of the effects, if any, which proposed development, if carried out, would have on the environment and shall include the information specified in Annex IV of the Environmental Impact Assessment Directive;
 
 ‘European site’ has the meaning given to it by section 177R of Part XAB;
@@ -132,11 +134,7 @@ Interpretation.
 
 (c) was provided for use as a dwelling but has not been occupied;
 
-‘Habitats Directive’ means Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Corrigendum to Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora amended by Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European
-
-3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
-
-Union is founded; Council Directive 97/62/EC of 27 October 1997 adapting to technical and scientific progress Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, and Council Directive 2006/105/EC of 20 November 2006 adapting Directives 73/239/EEC, 74/557/EEC and 2002/83/EC in the field of environment, by reason of the accession of Bulgaria and Romania;
+‘Habitats Directive’ means Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Corrigendum to Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora amended by Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded; Council Directive 97/62/EC of 27 October 1997 adapting to technical and scientific progress Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, and Council Directive 2006/105/EC of 20 November 2006 adapting Directives 73/239/EEC, 74/557/EEC and 2002/83/EC in the field of environment, by reason of the accession of Bulgaria and Romania;
 
 “house” means a building or part of a building which is being or has been occupied as a dwelling or was provided for use as a dwelling but has not been occupied, and where appropriate, includes a building which was designed for use as 2 or more dwellings or a flat, an apartment or other dwelling within such a building;
 

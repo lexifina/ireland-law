@@ -6,7 +6,9 @@ TABLE
 
 Council Directive 75/440 EEC of 16 June 1975 concerning the quality required of surface water intended for the abstraction of drinking water in the Member States
 
-Council Directive 79/409/EEC of 2 April 1979 on the conservation of wild birds Environmental Impact Assessment Directive
+Council Directive 79/409/EEC of 2 April 1979 on the conservation of wild birds
+
+Environmental Impact Assessment Directive
 
 Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment
 
@@ -14,9 +16,7 @@ Habitats Directive
 
 Major Accidents Directive
 
-Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy
-
-Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environment
+Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environment
 
 Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information and repealing Council Directive 90/313/EC
 

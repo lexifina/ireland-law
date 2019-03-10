@@ -14,9 +14,7 @@ Local Government (No. 2) Act, 1960;
 
 Local Government (Sanitary Services) Act, 1964;
 
-Housing Act, 1966;
-
-Derelict Sites Act, 1990;
+Housing Act, 1966; Derelict Sites Act, 1990;
 
 Roads Acts, 1993 and 1998;
 

@@ -66,7 +66,9 @@ Appeal to Board.
 
 (b) An application under paragraph (a) shall state the name and address of the person making the application, the grounds upon which the application is made, and a description of the person’s interest in the land.
 
-(c) The Board shall, within one week from the receipt of an application under paragraph (a), require, by notice in writing, the planning authority concerned to submit to the Board copies of the materials referred to in subparagraph (i) of section 128(a), the report referred to in subparagraph (ii) of that section, and the decision and notification referred to in subparagraph (iii) of that section and the planning authority shall comply with such requirement within one week from the date of receiving the notice.
+(c) The Board shall, within one week from the receipt of an application under paragraph (a), require, by notice in writing, the planning authority concerned to submit to the Board copies of the materials referred to in subparagraph
+
+(i) of section 128(a), the report referred to in subparagraph (ii) of that section, and the decision and notification referred to in subparagraph (iii) of that section and the planning authority shall comply with such requirement within one week from the date of receiving the notice.
 
 (d) The Board, or any member or employee of the Board duly authorised by the Board in that behalf, shall, where an applicant under this subsection shows that—
 
