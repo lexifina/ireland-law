@@ -30,7 +30,7 @@ Judicial review of applications,appeals,referrals and other matters.
 
 Modifications (not altering text):
 
-C92 Section applied with modifications by Industrial Development Act 1986 (9/1986), s. 16D(2)(b) as inserted (19.09.2018) by Industrial Development (Amendment) Act 2018 (19/2018), s. 7, S.I. No. 361 of 2018.
+C97 Section applied with modifications by Industrial Development Act 1986 (9/1986), s. 16D(2)(b) as inserted (19.09.2018) by Industrial Development (Amendment) Act 2018 (19/2018), s. 7, S.I. No. 361 of 2018.
 
 Functions of Bord Pleanála
 
@@ -48,4 +48,4 @@ Functions of Bord Pleanála
 
 ‘Board’ means An Bord Pleanála.
 
-Editorial Notes: E156Previous affecting provision: section amended (24.12.2002) by Planning and Development (Amendment) Act 2002 (32/2002), s. 12, commenced on enactment; substituted as per F-note above.
+Editorial Notes: E157Previous affecting provision: section amended (24.12.2002) by Planning and Development (Amendment) Act 2002 (32/2002), s. 12, commenced on enactment; substituted as per F-note above.
