@@ -1,0 +1,3 @@
+Search warrants.
+
+43.—If a judge of the District Court is satisfied on the sworn information of an authorised officer that there are reasonable grounds for suspecting that information required by an authorised officer for the purpose of this Act is held at any premises or place, the judge may issue a warrant authorising the authorised officer, accompanied if the officer considers it necessary by other authorised officers or members of the Garda Síochána, at any time or times, within one month from the date of issue of the warrant, on production, if so required, of the warrant, to enter, if need be by reasonable force, the premises or place and exercise all or any of the powers conferred on an authorised officer under section 42.
