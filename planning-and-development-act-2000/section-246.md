@@ -12,6 +12,8 @@ Fees payable to planning authorities.
 
 (c) the payment to planning authorities of prescribed fees in relation to requests for declarations under section 5,
 
+(ca) the payment to planning authorities of prescribed fees in relation to applications for determinations under section 176A,
+
 (d) the payment—
 
 (i) to local authorities of prescribed fees in relation to applications for grants of licences under section 231 or certificates of safety under section 239, and
