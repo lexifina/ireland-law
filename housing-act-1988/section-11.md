@@ -1,3 +1,3 @@
-Schemes of priorities for letting dwellings.
+Schemes of priorities for letting dwellings. (Repealed)
 
 11.—...

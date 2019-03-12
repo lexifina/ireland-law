@@ -1,3 +1,3 @@
-Grants or subsidies by Minister for dwellings, sites and assistance provided by housing authorities.
+Grants or subsidies by Minister for dwellings, sites and assistance provided by housing authorities. (Repealed)
 
 15. —...
