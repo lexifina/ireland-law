@@ -22,7 +22,9 @@ Insertion of new Part (DTA and land use provisions) into Act of 2000.
 
 (b) not consistent with its transport strategy and in such case what amendments to the draft plan it considers necessary to achieve such consistency.
 
-(2) The DTA shall send copies of a submission prepared under this section to the Minister and the Minister for Transport. 31D.— (1) Where a notice is received by the DTA under section 13(2) it shall, as part of any written submission on the proposed variation, state whether, in its view, the proposed variation is—
+(2) The DTA shall send copies of a submission prepared under this section to the Minister and the Minister for Transport.
+
+31D.— (1) Where a notice is received by the DTA under section 13(2) it shall, as part of any written submission on the proposed variation, state whether, in its view, the proposed variation is—
 
 (a) consistent with its transport strategy, or
 
@@ -56,7 +58,9 @@ Insertion of new Part (DTA and land use provisions) into Act of 2000.
 
 (iii) recommendations regarding the optimal use, location, pattern and density of new development taking account of its transport strategy, and
 
-(iv) recommendations on the matters to be addressed in the regional planning guidelines to ensure effective integration of transport and land use planning. 31G.— (1) Where a notice is received by the DTA under section 24(4) it shall, as part of any written submission on the draft regional planning guidelines, state whether, in its view, the draft regional planning guidelines are—
+(iv) recommendations on the matters to be addressed in the regional planning guidelines to ensure effective integration of transport and land use planning.
+
+31G.— (1) Where a notice is received by the DTA under section 24(4) it shall, as part of any written submission on the draft regional planning guidelines, state whether, in its view, the draft regional planning guidelines are—
 
 (a) consistent with its transport strategy, or
 
