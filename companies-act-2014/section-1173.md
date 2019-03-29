@@ -40,7 +40,9 @@ Section 19
 
 Certificate of incorporation to state that company
 
-Section 25(3) is a private company limited by shares Provisions as to names of companies Section 26(1) to (4)
+Section 25(3) is a private company limited by shares
+
+Provisions as to names of companies Section 26(1) to (4)
 
 Trading under a misleading name
 
@@ -98,9 +100,7 @@ Section 136
 
 Director voting on contract, etc., in which director
 
-Section 161(7) is interested
-
-Holding of any other office or place of profit under
+Section 161(7) is interested Holding of any other office or place of profit under
 
 Section 162 the company by a director
 

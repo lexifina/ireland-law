@@ -1,7 +1,3 @@
-## PART 17 PUBLIC LIMITED COMPANIES
-
-## CHAPTER 1 Preliminary and definitions
-
 Interpretation (Part 17)
 
 1000. (1) In this Part—

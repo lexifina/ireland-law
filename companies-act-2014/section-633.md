@@ -18,9 +18,7 @@ Qualifications for appointment as liquidator or provisional liquidator — gener
 
 ‘prescribed form’ means a form prescribed by regulations made by the Supervisory Authority.
 
-Table
-
-First category — member of a prescribed accountancy body.
+Table First category — member of a prescribed accountancy body.
 
 1. The person is a member of a prescribed accountancy body, within the meaning of Part 15, being a person who—
 

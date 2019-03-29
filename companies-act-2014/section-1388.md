@@ -20,7 +20,9 @@ Way of forming a PLC and form of its constitution
 
 Section 1004(1) to
 
-(4) and sections 1005 to 1007 Restriction on commencement of business by a PLC
+(4) and sections 1005 to 1007
+
+Restriction on commencement of business by a PLC
 
 Section 1010
 

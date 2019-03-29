@@ -90,9 +90,7 @@ Section 195
 
 Directors’ compliance statement and related state-
 
-Section 225 ment
-
-Liability as contributories of past and present
+Section 225 ment Liability as contributories of past and present
 
 Section 655 members
 
@@ -196,9 +194,7 @@ Payment of debts due by contributory to the
 
 Section 659 company and extent to which set-off allowed
 
-Part 3
-
-Provisions disapplied to PULCs
+Part 3 Provisions disapplied to PULCs
 
 Subject matter Provision disapplied
 
@@ -318,9 +314,7 @@ Section 333
 
 Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
 
-Audit exemption Chapter 15 of Part 6
-
-Special audit exemption for dormant companies Chapter 16 of Part 6
+Audit exemption Chapter 15 of Part 6 Special audit exemption for dormant companies Chapter 16 of Part 6
 
 Small and medium companies
 

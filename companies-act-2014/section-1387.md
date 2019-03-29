@@ -82,9 +82,7 @@ Annual return and documents annexed to it Chapter 13 of Part 6
 
 Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
 
-Audit exemption Chapter 15 of Part 6
-
-Special audit exemption for dormant companies Chapter 16 of Part 6
+Audit exemption Chapter 15 of Part 6 Special audit exemption for dormant companies Chapter 16 of Part 6
 
 Company may be required to contribute to debts
 
