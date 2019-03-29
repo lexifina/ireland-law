@@ -8,4 +8,4 @@ Notice of increase of share capital
 
 (4) If a company contravenes this section, the company and any officer of it who is in default shall be guilty of a category 3 offence.
 
-(5) This section shall not have effect in respect of a company to which the resolution tools, powers or mechanisms provided for in Part 4 of the Bank Recovery and Resolution Regulations are applied or exercised.
+(5) ...

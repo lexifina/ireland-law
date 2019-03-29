@@ -31,3 +31,5 @@ Allotment of shares and other securities
 (a) shares in the PLC other than shares shown in the memorandum to have been taken by the subscribers thereto or shares allotted in pursuance of an employees’ share scheme, and
 
 (b) any right to subscribe for, or to convert any security into, shares in the PLC other than shares so allotted, and any reference in this section to the allotment of relevant securities includes a reference to the grant of such a right but does not include any reference to the allotment of shares pursuant to such a right.
+
+(13) Section 93 and this section shall not have effect in respect of a company to which the resolution tools, powers or mechanisms provided for in Part 4 of the Bank Recovery and Resolution Regulations are applied or exercised.

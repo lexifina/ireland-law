@@ -48,35 +48,15 @@ Preferential payments in a winding up
 
 (i) in respect of the company’s contribution to that scheme or under that arrangement, or
 
-(ii) in respect of such contributions payable by the employees to the company under that scheme or arrangement which have been deducted from the wages or salaries of employees,
+(ii) in respect of such contributions payable by the employees to the company under that scheme or arrangement which have been deducted from the wages or salaries of employees.
 
-(h) where the company being wound up has been the subject of a resolution action pursuant to the Bank Recovery and Resolution Regulations, any reasonable expenses properly incurred by the resolution authority in connection with the use of the resolution tools or powers under those Regulations,
+(h) ...
 
-(i) the—
+(i) ...
 
-(i) part of eligible deposits up to the coverage level in Article 6 of Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014, and
+(2A) ...
 
-(ii) deposit guarantee scheme where it is subrogating to the rights and obligations of the part of the eligible deposits referred to in subparagraph (i).
-
-(2A) In a winding up there shall be paid in priority to all other debts, but after those listed in subsection (2)—
-
-(a) the part of eligible deposits from natural persons and micro, small and medium-sized enterprises which exceed the coverage level in Article 6(1) of Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014, and
-
-29 OJ No. L 173, 12.06.2014, p. 149
-
-30 OJ No. L 173, 12.06.2014, p. 149
-
-(b) deposits that would be eligible deposits from natural persons, micro, small and medium–sized enterprises were they not made through branches located outside the Union of institutions established within the Union.
-
-(2B) For the purposes of subsections (2)(i) and (2A) the following definitions shall apply:
-
-(a)‘eligible deposits’ has the meaning given to it in the Bank Recovery and Resolution Regulations and shall include a share account held with a building society or credit union;
-
-(b)‘deposit guarantee scheme’ has the meaning given to it in the Bank Recovery and Resolution Regulations;
-
-(c)‘micro, small and medium-sized enterprises’ has the meaning given to it in the Bank Recovery and Resolution Regulations;
-
-(d)‘institution’ has the meaning given to it in the Bank Recovery and Resolution Regulations.
+(2B) ...
 
 (3) Subsection (2) is in addition to any other enactment providing for the priority of a particular debt or sum in a winding up.
 
@@ -92,7 +72,7 @@ Preferential payments in a winding up
 
 (c) to any employee while he or she is absent from employment due to ill health or pursuant to any scheme or arrangement for the provision of superannuation benefit to or in respect of him or her, out of money advanced by some person for that purpose, the person by whom the money was advanced shall, in a winding up, have a right of priority in respect of the money so advanced and paid up to the amount by which the sum, in respect of which the employee or other person in his or her right, would have been entitled to priority in the winding up has been diminished by reason of the payment having been made.
 
-(7) Subject to subsection (2A), the foregoing debts shall—
+(7) The foregoing debts shall—
 
 (a) rank equally among themselves and be paid in full, unless the assets are insufficient to meet them, in which case they shall abate in equal proportions, and
 

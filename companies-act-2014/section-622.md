@@ -14,7 +14,7 @@ Supplemental provisions in relation to section 621
 
 (b) if the powers under subsection (4) have previously been exercised, immediately after their last previous exercise, and ending at the relevant time.
 
-(6) The priority conferred by section 621(2) and (2A) shall apply only to those debts which, within the period of 6 months after the date of the advertisement by the liquidator for claims in at least 2 daily newspapers circulating in the district where the registered office of the company concerned is situated, either—
+(6) The priority conferred by section 621(2) shall apply only to those debts which, within the period of 6 months after the date of the advertisement by the liquidator for claims in at least 2 daily newspapers circulating in the district where the registered office of the company concerned is situated, either—
 
 (a) have been notified to the liquidator, or
 

@@ -6,13 +6,13 @@ Resolutions — ordinary resolutions, special resolutions, etc., — meaning
 
 (a) that is referred to as such in this Act, or is required (whether by this Act or by a company's constitution or otherwise) to be passed as a special resolution; and
 
-(b) that satisfies the condition specified in subsection (3) or (3A); and
+(b) that satisfies the condition specified in subsection (3) and
 
 (c) without prejudice to subsections (4) and (5), as respects which notice of the meeting at which the resolution is proposed to be passed has been given in accordance with section 181(1)(a) and (5).
 
 (3) The condition referred to in subsection (2)(b) is that the resolution is passed by not less than 75 per cent of the votes cast by such members of the company concerned as, being entitled to do so, vote in person or by proxy at a general meeting of it.
 
-(3A) Where section 1102(3) applies, the condition referred to in subsection (2)(b) is that the resolution is passed by not less than two-thirds of the votes cast by such members of the company concerned as, being entitled to do so, vote in person or by proxy at a general meeting of it.
+(3A) ...
 
 (4) Notwithstanding section 181(1)(a), for the purposes of subsection (2)(c) a resolution may be proposed and passed as a special resolution at a meeting of which less than 21 days’ notice has been given if it is so agreed by a majority in number of the members having the right to attend and vote at any such meeting, being a majority either—
 
