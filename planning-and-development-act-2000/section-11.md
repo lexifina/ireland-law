@@ -24,7 +24,7 @@ Preparation of draft development plan.
 
 (b) the core strategy, and shall take account of the statutory obligations of any local authority in the area and any relevant policies or objectives for the time being of the Government or of any Minister of the Government.
 
-(2) A notice under subsection (1) shall be given to the Minister, any prescribed authorities, any adjoining planning authorities, the Board, any relevant regional assembly and any local community development committee within the functional area of the local authority and shall be published in one or more newspapers circulating in the area to which the development plan relates and shall—
+(2) A notice under subsection (1) shall be given to the Minister , the Office of the Planning Regulator, any prescribed authorities, any adjoining planning authorities, the Board, any relevant regional assembly and any local community development committee within the functional area of the local authority and shall be published in one or more newspapers circulating in the area to which the development plan relates and shall—
 
 (a) state that the planning authority intends to review the existing development plan and to prepare a new development plan,
 
