@@ -18,6 +18,16 @@ Performance of functions by planning authorities.
 
 (d) there are serious diseconomies or inefficiencies in the conduct of its functions by a planning authority, he or she may, where he or she considers it necessary or appropriate, for stated reasons appoint a commissioner to carry out and have full responsibility for all or any one or more of the functions of the planning authority under this Act and in doing so may distinguish between reserved functions and other functions.
 
+(4A) In subsection (4) ‘information available to him or her’ includes any information or recommendation of the Office of the Planning Regulator having regard to—
+
+(a) a draft report under subsection (4) of section 31AS or, where the report has been finalised, in the report under subsection (6) of that section,
+
+(b) a draft report under subsection (3) of section 31AT or, where the report has been finalised, in the report under subsection (5) of that section,
+
+(c) a report on a preliminary examination under section 31AU, or
+
+(d) directions issued by the Minister on foot of recommendations from the Office under Chapter III of Part IIB.
+
 (5) In considering whether it is necessary or expedient to appoint a commissioner under this section, the Minister may have regard to any loss of public confidence in the carrying out of its functions by the planning authority and the need to restore that confidence.
 
 (6) A commissioner appointed under this section shall be appointed in accordance with such terms and conditions and for such period as may be specified by the Minister.

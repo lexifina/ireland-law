@@ -8,7 +8,7 @@ Variation of development plan.
 
 (2) Where a planning authority proposes to make a variation in a development plan, it shall—
 
-(a) send notice and copies of the proposed variation of the development plan to the Minister, the Minister for Arts, Heritage and the Gaeltacht, the Board, the relevant regional assembly, and, where appropriate, to any adjoining planning authority, the prescribed authorities, and any local community development committee within the area of the development plan,
+(a) send notice and copies of the proposed variation of the development plan to the Minister, the Minister for Arts, Heritage and the Gaeltacht, the Office of the Planning Regulator, the Board, the relevant regional assembly, and, where appropriate, to any adjoining planning authority, the prescribed authorities, and any local community development committee within the area of the development plan,
 
 (b) publish notice of the proposed variation of the development plan in one or more newspapers circulating in that area.
 
@@ -58,7 +58,7 @@ Variation of development plan.
 
 (5) (a) The members of a planning authority shall consider the proposed variation and the report of the chief executive under subsection (4).
 
-(aa) Following consideration of the proposed variation and the report of the chief executive under paragraph (a) where a planning authority, after considering a submission of, or observation or recommendation from the Minister made to the authority under this section or from a regional assembly made to the authority under section 27C, decides not to comply with any recommendation made in the proposed variation and report, it shall so inform the Minister or regional assembly, as the case may be, as soon as practicable by notice in writing which notice shall contain reasons for the decision.
+(aa) Following consideration of the proposed variation and the report of the manager under paragraph (a) where a planning authority, after considering a submission of, or observation or recommendation from the Minister , or from the Office of the Planning Regulator, made to the authority under this section or from a regional assembly made to the authority under section 27C, decides not to comply with any recommendation made in the proposed variation and report, it shall so inform the Minister , the Office of the Planning Regulator or regional assembly, as the case may be, as soon as practicable by notice in writing which notice shall contain reasons for the decision.
 
 (b) The consideration of the variation and the chief executive’s report under paragraph (a) shall be completed not later than 6 weeks after the submission of the chief executive’s report to the members of the authority.
 
@@ -96,7 +96,7 @@ Variation of development plan.
 
 (b) A notice under this subsection shall state that a copy of the development plan as varied is available for inspection at a stated place or places (and the copy shall be kept available for inspection accordingly).
 
-(c) In addition to the requirements of paragraphs (a) and (b), a planning authority shall send a copy of the variation to the Minister, the Minister for Arts, Heritage and the Gaeltacht, the Board, the relevant regional assembly and, where appropriate, to the prescribed authorities, any adjoining planning authorities and any local community development committee within its area.
+(c) In addition to the requirements of paragraphs (a) and (b), a planning authority shall send a copy of the variation to the Minister, the Minister for Arts, Heritage and the Gaeltacht, the Office of the Planning Regulator, the Board, the relevant regional assembly and, where appropriate, to the prescribed authorities, any adjoining planning authorities and any local community development committee within its area.
 
 (9) When considering a variation of a development plan in accordance with this section, a planning authority may invite such persons as it considers appropriate to make oral submissions regarding the variation.
 

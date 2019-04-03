@@ -142,6 +142,12 @@ Permission for development.
 
 (b) It shall be necessary for the passing of a resolution referred to in paragraph (a) that the number of the members of the planning authority voting in favour of the resolution is not less than three-quarters of the total number of the members of the planning authority or where the number so obtained is not a whole number, the whole number next below the number so obtained shall be sufficient, and the requirement of this paragraph is in addition to and not in substitution for any other requirement applying in relation to such a resolution.
 
+(ba) Where a resolution referred to in paragraph (a) has been passed by a planning authority in accordance with paragraph (b), the planning authority shall—
+
+(i) send to the regional assembly for the area and the Office of the Planning Regulator a copy of the notice under paragraph (a) that relates to the resolution, and
+
+(ii) at the same time, inform the regional assembly for the area and the Office of the Planning Regulator in writing that the resolution was passed.
+
 (c) ...
 
 (d) ...

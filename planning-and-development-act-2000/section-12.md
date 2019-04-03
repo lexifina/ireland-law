@@ -2,7 +2,7 @@ Making of development plan.
 
 12.—(1) Where the draft development plan has been prepared in accordance with section 11, the planning authority shall within 2 weeks of the period referred to in section 11(5)(c)—
 
-(a) send notice and a copy of the draft development plan to the Minister, the Board, the relevant regional assembly, the prescribed authorities and any local community development committee in the area, and
+(a) send notice and a copy of the draft development plan to the Minister , the Office of the Planning Regulator, the Board, the relevant regional assembly, the prescribed authorities and any local community development committee in the area, and
 
 (b) publish notice of the preparation of the draft in one or more newspapers circulating in its area.
 
@@ -58,7 +58,7 @@ Making of development plan.
 
 (6) Where, following the consideration of the draft development plan and the chief executive’s report, it appears to the members of the authority that the draft should be accepted or amended, subject to subsection (7), they may, by resolution, accept or amend the draft and make the development plan accordingly.
 
-(7) (a) Subject to paragraphs (aa) and (ae) in a case where the proposed amendment would, if made, be a material alteration of the draft concerned, the planning authority shall, not later than 3 weeks after the passing of a resolution under subsection (6), publish notice of the proposed amendment in at least one newspaper circulating in its area and send notice and a copy of the proposed amendment to the Minister, the Board and the prescribed authorities.
+(7) (a) Subject to paragraphs (aa) and (ae) in a case where the proposed amendment would, if made, be a material alteration of the draft concerned, the planning authority shall, not later than 3 weeks after the passing of a resolution under subsection (6), publish notice of the proposed amendment in at least one newspaper circulating in its area and send notice and a copy of the proposed amendment to the Minister, the Office of the Planning Regulator, the Board and the prescribed authorities.
 
 (aa) The planning authority shall determine if a strategic environmental assessment or an appropriate assessment or both such assessments, as the case may be, is or are required to be carried out as respects one or more than one proposed material alteration of the draft development plan.
 
@@ -134,7 +134,7 @@ Making of development plan.
 
 (b) A notice under this subsection shall state that a copy of the plan is available for inspection at a stated place or places (and the copy shall be kept available for inspection accordingly).
 
-(c) In addition to the requirements of paragraphs (a) and (b), a planning authority shall send a copy of the development plan to the Minister, the prescribed authorities, any adjoining planning authorities, the Board, and any local community development committee within its area.
+(c) In addition to the requirements of paragraphs (a) and (b), a planning authority shall send a copy of the development plan to the Minister, the Office of the Planning Regulator, the prescribed authorities, any adjoining planning authorities, the Board, and any local community development committee within its area.
 
 (13) As soon as may be after making an addition to or a deletion from the record of protected structures under this section, a planning authority shall serve on the owner and on the occupier of the structure concerned a notice of the addition or deletion, including the particulars.
 
@@ -154,7 +154,7 @@ Making of development plan.
 
 (16) A person shall not question the validity of the development plan by reason only that the procedures as set out under subsections (3) to (5) of section 11 and subsections (1), (4), (5), (6), (7), (8) and (9) of this section were not completed within the time required under the relevant subsection.
 
-(17) A development plan made under this section shall have effect 4 weeks from the day that it is made.
+(17) A development plan made under this section shall have effect 6 weeks from the day that it is made.
 
 (18) In this section ‘statutory obligations’ includes, in relation to a local authority, the obligation to ensure that the development plan is consistent with—
 

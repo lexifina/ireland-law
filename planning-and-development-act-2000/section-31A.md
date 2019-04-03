@@ -8,11 +8,13 @@ Ministerial directions regarding regional planning strategy.
 
 (c) the regional spatial and economic strategy is not in compliance with the requirements of this Act, or
 
-(d) if applicable, in relation to a regional assembly or assemblies whose regional area or part thereof is in the Greater Dublin Area (GDA) that the guidelines are not consistent with the transport strategy of the National Transport Authority, the Minister may, in accordance with this section, for stated reasons direct a regional assembly or assemblies, as the case may be, to take such specified measures as he or she may require in relation to that plan.
+(d) if applicable, in relation to a regional assembly or assemblies whose regional area or part thereof is in the Greater Dublin Area (GDA) that the guidelines are not consistent with the transport strategy of the National Transport Authority,
+
+(e) the Office of the Planning Regulator has issued a notice to the Minister pursuant to section 31AQ(7) in respect of a regional assembly or assemblies, as the case may be, then, subject to compliance with the relevant provisions of sections 31AQ and 31AR, the Minister may, in accordance with this section, for stated reasons direct a regional assembly or assemblies, as the case may be, to take such specified measures as he or she may require in relation to that plan.
 
 (2) Where the Minister issues a direction under this section the regional assembly or regional assemblies, as the case may be, notwithstanding anything contained in Chapter III of this Part, shall comply with that direction and the chief executive or members shall not exercise a power or perform a function conferred on them by this Act in a manner that contravenes the direction so issued.
 
-(3) Before he or she issues a direction under this section, the Minister shall issue a notice in writing to a regional assembly or regional assemblies, as the case may be, no later than 4 weeks after the strategy or strategies are made.
+(3) Before he or she issues a direction under this section, the Minister shall, no later than 6 weeks after a regional spatial and economic strategy is made, issue a notice in writing to a regional assembly or regional assemblies, as the case may be, consequent on a recommendation being made to him or her by the Office of the Planning Regulator under section 31AR(9).
 
 (4) The notice referred to in subsection (3) shall, for stated reasons, inform the regional assembly or regional assemblies, as the case may be, of—
 
@@ -24,7 +26,13 @@ Ministerial directions regarding regional planning strategy.
 
 (d) if applicable, requiring the regional assembly or assemblies, as the case may be, to take measures specified in the notice to ensure that the plan is in compliance with the transport strategy of the National Transport Authority.
 
-(5) The Minister shall furnish a copy of the notice referred to in subsection (3) to the regional assembly, or assemblies, as the case may be, and the National Transport Authority.
+(5) The Minister shall furnish a copy of the notice referred to in subsection (3)—
+
+(a) to the regional assembly or regional assemblies concerned, as the case may be,
+
+(b) to the Office of the Planning Regulator, and
+
+(c) to the National Transport Authority.
 
 (6) (a) Notwithstanding anything contained in Chapter III, or any matter prescribed thereunder, a regional spatial and economic strategy shall not have effect in accordance with that Chapter in relation to a matter contained in the strategy which is referred to in a notice under subsection (3).
 
@@ -36,9 +44,9 @@ Ministerial directions regarding regional planning strategy.
 
 (b) that a copy of the draft direction may be inspected at such place or places as are specified in the notice during such period as may be so stated (being a period of not more than 2 weeks), and
 
-(c) that written submissions or observations in respect of the draft direction may be made to the regional assembly, or assemblies, as the case may be, during such period and shall be taken into consideration by the Minister before he or she directs the regional assembly, or assemblies, as the case may be, pursuant to this section.
+(c) that written submissions or observations in respect of the draft direction may be made to the regional assembly or regional assemblies, as the case may be, during such period and shall be taken into consideration by the Office of the Planning Regulator before it makes a recommendation to the Minister on the matter.
 
-(8) No later than 4 weeks after the expiry of the period referred to in subsection (7)(b), the director shall prepare a report on any submissions or observations received under subsection (7)(c) which shall be furnished to the Minister and the members of the regional assembly, or assemblies, as the case may be.
+(8) No later than 4 weeks after the expiry of the period referred to in subsection (7)(b), the director shall prepare a report on any submissions or observations received under subsection (7)(c) which shall be furnished to the members of the regional assembly or regional assemblies, as the case may be, the Office of the Planning Regulator and the Minister.
 
 (9) The report referred to in subsection (8) shall—
 
@@ -48,51 +56,23 @@ Ministerial directions regarding regional planning strategy.
 
 (c) make recommendations in relation to the best manner in which to give effect to the draft direction.
 
-(10) The members of the regional assembly, or assemblies, as the case may be, may make a submission to the Minister in relation to the notice issued by him or her under subsection (3) at any time up to the expiry of the period of time referred to in subsection (7)(b).
+(10) In relation to the notice issued by the Minister under subsection (3), the members of the regional assembly, or assemblies, as the case may be—
 
-(11) The Minister shall consider the report furnished under subsection (8) and any submissions made to him or her under subsection (10) and—
+(a) may make a submission to the Office of the Planning Regulator at any time up to the expiry of the period of time referred to in subsection (7)(b), and
 
-(a) where he or she believes that no material amendment to the draft direction is required, or that further investigation is not necessary in order to clarify any aspect of the report or submissions, he or she may decide, no later than 3 weeks after the date of receipt of the report under subsection (8), for stated reasons—
+(b) where so submitted, shall send a copy of it to the Minister.
 
-(i) to issue the direction referred to in subsection (4)(b) with or without minor amendments, or
+(11) ...
 
-(ii) not to issue the direction referred to in subsection (4)(b), or
+(12) ...
 
-(b) where he or she believes that—
+(13) ...
 
-(i) a material amendment to the draft direction may be required, or
+(14) ...
 
-(ii) further investigation is necessary in order to clarify any aspect of the report furnished under subsection (8) or submissions made under subsection (10), or
+(15) ...
 
-(iii) it is necessary for any other reason, he or she may, for stated reasons, appoint an inspector no later than 3 weeks after the date of receipt of the report under subsection (8).
-
-(12) The inspector appointed under subsection (11)(b) shall be a person who, in the opinion of the Minister, has satisfactory experience and competence to perform the functions required of him or her pursuant to this section and shall be independent in the performance of his or her functions.
-
-(13) The inspector appointed under subsection (11)(b) having regard to the stated reasons for his or her appointment—
-
-(a) shall review the draft direction, the report furnished under subsection (8) and submissions made under subsection (10),
-
-(b) shall consult with the regional assembly, or assemblies, as the case may be,
-
-(c) may consult with persons who made submissions under subsection (7)(c), and
-
-(d) shall no later than 3 weeks after he or she was appointed, furnish a report containing recommendations to the Minister.
-
-(14) Copies of the report of the inspector referred to in subsection (13)(d) shall be furnished as quickly as possible by the Minister to the regional assembly, or assemblies, as the case may be, and persons who made submissions under subsection (7)(c).
-
-(15) The persons who have been furnished with the report of the inspector referred to in subsection (13)(d) may make a submission to the Minister in relation to any matter referred to in the report no later than 10 days after the receipt by them of the report.
-
-(16) No later than 3 weeks (or as soon as may be during such period extending that 3 week period as the Minister may direct) after receipt of the report of the inspector referred to in subsection (13)(d), or any submissions made to him or her under subsection (15), the Minister, having considered the report, recommendations or submissions, as the case may be, shall decide for stated reasons—
-
-(a) to issue the direction referred to in subsection (4)(b),
-
-(b) not to issue the direction referred to in subsection (4)(b), or
-
-(c) to issue the direction referred to in subsection (4)(b), which has been amended by the Minister to take account of any of the matters referred to in subparagraphs (i) or (ii) as the Minister considers appropriate:
-
-(i) recommendations contained in the report of the inspector referred to in subsection (13)(d); or
-
-(ii) any submissions made pursuant to subsection (15).
+(16) Where paragraph (a) or (c) of section 31AR(9) applies to a matter to which this section relates, then the Minister shall issue a direction accordingly.
 
 (17) The direction issued by the Minister under subsection (16) is deemed to have immediate effect and its terms are considered to be incorporated into the regional spatial and economic strategy, or, if appropriate, to constitute the strategy.
 
@@ -100,4 +80,8 @@ Ministerial directions regarding regional planning strategy.
 
 (19) As soon as may be after a direction is issued to a regional assembly or assemblies, as the case may be, the authority or authorities shall make the direction so issued available for inspection by members of the public, during office hours of the authority, at the offices of the authority, and may also make the direction available by placing it on the authority’s website or otherwise in electronic form.
 
-(20) The Minister shall publish or cause to be published in such manner as he or she considers appropriate directions issued under subsection (16).
+(20) The Minister shall—
+
+(a) make available on the website of the Department of Housing, Planning and Local Government a direction under subsection (16), and
+
+(b) otherwise publish or cause to be published in such manner as he or she considers appropriate directions issued under subsection (16).

@@ -1,6 +1,6 @@
 Consultation and adoption of local area plans.
 
-20.—(1) A planning authority shall take whatever steps it considers necessary to consult the Minister and the public before preparing, amending or revoking a local area plan including consultations with any local residents, public sector agencies, non-governmental agencies, local community groups and commercial and business interests within the area.
+20.—(1) A planning authority shall take whatever steps it considers necessary to consult the Minister , the Office of the Planning Regulator and the public before preparing, amending or revoking a local area plan including consultations with any local residents, public sector agencies, non-governmental agencies, local community groups and commercial and business interests within the area.
 
 (1A) The Minister or the Office of the Planning Regulator may, in relation to a local area plan, make such recommendations as the Minister or that Office, as the case may be, considers appropriate.
 
@@ -8,7 +8,7 @@ Consultation and adoption of local area plans.
 
 (3) (a) The planning authority shall, as soon as may be after consideration of any matters arising out of consultations under subsections (1) or (2) but before making, amending or revoking a local area plan—
 
-(i) send notice of the proposal to make, amend or revoke a local area plan to the Minister, the Board and to the prescribed authorities (and, where applicable, it shall enclose a copy of the proposed plan or amended plan),
+(i) send notice of the proposal to make, amend or revoke a local area plan to the Minister, the Office of the Planning Regulator, the Board and to the prescribed authorities (and, where applicable, it shall enclose a copy of the proposed plan or amended plan),
 
 (ii) publish a notice of the proposal in one or more newspapers circulating in its area.
 
@@ -50,7 +50,7 @@ Consultation and adoption of local area plans.
 
 (II) decides not to make, amend or revoke, as the case may be, the plan.
 
-(e) Where, following consideration of the chief executive’s report, it appears to the members of the authority that the draft local area plan should be altered, and the proposed alteration would, if made be a material alteration of the draft local area plan concerned, subject to paragraphs (f) and (j), the planning authority shall, not later than 3 weeks after the passing of a resolution under paragraph (d)(ii) (inserted by section 9 of the Act of 2002), publish notice of the proposed material alteration in one or more newspapers circulating in its area, and send notice of the proposed material alteration to the Minister, the Board and the prescribed authorities (enclosing where the authority considers it appropriate a copy of the proposed material alteration).
+(e) Where, following consideration of the chief executive’s report, it appears to the members of the authority that the draft local area plan should be altered, and the proposed alteration would, if made be a material alteration of the draft local area plan concerned, subject to paragraphs (f) and (j), the planning authority shall, not later than 3 weeks after the passing of a resolution under paragraph (d)(ii) (inserted by section 9 of the Act of 2002), publish notice of the proposed material alteration in one or more newspapers circulating in its area, and send notice of the proposed material alteration to the Minister, the Office of the Planning Regulator, the Board and the prescribed authorities (enclosing where the authority considers it appropriate a copy of the proposed material alteration).
 
 (f) The planning authority shall determine if a strategic environmental assessment or an appropriate assessment or both such assessments, as the case may be, is or are required to be carried out as respects one or more than one proposed material alteration of the draft local area plan.
 
@@ -122,7 +122,7 @@ Consultation and adoption of local area plans.
 
 (4) The Minister may make regulations or issue guidelines in relation to the preparation of local area plans.
 
-(4A) A local area plan made under this section shall have effect 4 weeks from the day that it is made.
+(4A) A local area plan made under this section shall have effect 6 weeks from the day that it is made.
 
 (5) A planning authority shall send a copy of any local area plan made under this Chapter to any bodies consulted under subsection (1), (2) or (3), the Board and, where appropriate, any prescribed body.
 
