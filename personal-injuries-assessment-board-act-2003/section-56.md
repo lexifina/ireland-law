@@ -12,13 +12,9 @@ Membership of Board.
 
 (5) Of the members of the Board—
 
-(a) 2 shall be persons nominated for such appointment by the Irish Congress of Trade Unions (or any successor of it),
+(a) one shall be a person nominated for such appointment by Insurance Ireland (or any successor of it), and
 
-(b) 1 shall be a person nominated for such appointment by the Irish Business and Employers Confederation (or any successor of it),
-
-(c) one shall be a person nominated for such appointment by the Irish Insurance Federation (or any successor of it), and
-
-(d) one shall be an employee of the Central Bank of Ireland nominated for such appointment by the Governor of the Central Bank of Ireland.
+(b) one shall be an employee of the Central Bank of Ireland nominated for such appointment by the Governor of the Central Bank of Ireland.
 
 (6) The chief executive, and a person nominated for such appointment by the chairperson of the Competition and Consumer Protection Commission, shall each be a member of the Board.
 

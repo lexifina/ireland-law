@@ -16,7 +16,15 @@ Power to impose charges.
 
 (b) without prejudice to paragraph (a), any amount of expenses incurred by the Board, or on its behalf, in the arranging of, or the carrying out of, a medical examination referred to in section 24(2) is an amount of an exceptional kind.
 
-(4) Different amounts may be specified in regulations under subsection (1) for the purposes of subsection (2)(b) in relation to different classes of relevant claim.
+(4) Different amounts may be specified in regulations under subsection (1)—
+
+(a) for the purposes of subsection (2)(b)—
+
+(i) in relation to different classes of relevant claim, and
+
+(ii) in relation to different stages of a relevant claim, and
+
+(b) for the purposes of subsection (2)(a) and (b) in relation to the submission of documents in electronic and paper form.
 
 (5) The Board may refuse to deal with an application under section 11 if a charge imposed by it pursuant to regulations under subsection (1) in relation to the application has not been paid to it.
 

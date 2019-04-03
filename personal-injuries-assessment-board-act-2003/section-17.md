@@ -18,13 +18,21 @@ Discretion of Board not to arrange for making of assessment.
 
 (IV) in case the relevant claim arises out of a trespass to the person, because the making of an assessment of the claim by the means to which assessors are limited to employing by this Act would not respect the dignity of the claimant, or
 
-(V) because the gravity of any injury or illness of the claimant is such that, were proceedings to be brought in respect of his or her relevant claim, an early trial of the claim would, in the Board's opinion, be ordered to be held to meet the contingency of the claimant's dying before the time the claim would otherwise, in the ordinary course of events, come on for trial, or
+(V) because the gravity of any injury or illness of the claimant is such that, were proceedings to be brought in respect of his or her relevant claim, an early trial of the claim would, in the Board’s opinion, be ordered to be held to meet the contingency of the claimant's dying before the time the claim would otherwise, in the ordinary course of events, come on for trial, or
 
 (iii) in its opinion, the period of time for which the making of such an assessment would have to be deferred (in order for a long term prognosis in respect of the personal injury or injuries to which the relevant claim relates to be made) would be likely to result in section 49 not being complied with, or
 
 (iv) in its opinion, the person purporting to act as a next friend, or as the case may be, a guardian of the claimant or a respondent has a conflict of interest in the matter, or otherwise would not be entitled to act as a next friend or guardian of the claimant or respondent were the relevant claim to be the subject of proceedings, and steps are unlikely to be taken in a timely fashion to secure an appropriate replacement for him or her, or
 
-(v) in its opinion, the relevant claim falls within a class of relevant claims as respects which the Board has, with the consent of the Minister and the Minister for Justice, Equality and Law Reform, for the time being declared there to be other good and substantial reasons for its not arranging the making of such an assessment in respect of them.
+(v) in its opinion, the relevant claim falls within a class of relevant claims as respects which the Board has, with the consent of the Minister and the Minister for Justice, Equality and Law Reform, for the time being declared there to be other good and substantial reasons for its not arranging the making of such an assessment in respect ofthem, or
+
+(vi) the notice under section 13(1)(b) on the person or each of the persons who the claimant alleges in the application is or are liable to him or her in respect of the relevant claim cannot be served on, or given, or issued to the person in accordance with section 79, or
+
+(vii) the respondent has notified the Board of his or her intention not to accept the assessment when made, or
+
+(viii) in its opinion, the relevant claim falls within a class of relevant claims to which Regulation (EC) No. 864/2007 of the European Parliament and of the Council of 11 July 2007 on the law applicable to non-contractual obligations (Rome II) applies, or
+
+(ix) in its opinion, the relevant claim falls within a class of relevant claims where a settlement has been negotiated for the benefit of a minor or person of unsound mind (including a dependant minor or person of unsound mind where the relevant claim arises from fatal injuries) to be approved by the court.
 
 (2) As soon as may be after the Board forms an opinion referred to in any of paragraphs (i) to (v) of subsection (1), the Board shall record that opinion in writing and the reasons therefor.
 
