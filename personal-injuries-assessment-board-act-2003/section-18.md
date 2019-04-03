@@ -6,7 +6,7 @@ Presumption as to capacity of claimant and respondent.
 
 (a) rules under section 46 require an application under section 11 to include a statement that the claimant is of full age, or
 
-(b) rules under that section require the Board, before it deals with a claimant or a respondent under this Part, to seek confirmation from the claimant or the respondent that he or she is of full age, then subsection (1), in so far as it relates to a person's being of full age, shall not apply unless and until that requirement of those rules is complied with or that confirmation is given by the claimant or the respondent.
+(b) rules under that section require the Board, before it deals with a claimant or a respondent under this Part, to seek confirmation from the claimant or the respondent that he or she is of full age, then subsection (1), in so far as it relates to a person’s being of full age, shall not apply unless and until that requirement of those rules is complied with or that confirmation is given by the claimant or the respondent.
 
 (3) Subject to subsection (4), if, during the course of the performance by the Board of its functions under this Part, a medical opinion in writing is furnished to the Board to the effect that the claimant or a respondent is not of sound mind then the presumption in subsection (1) shall be regarded as rebutted and the Board shall, as appropriate—
 

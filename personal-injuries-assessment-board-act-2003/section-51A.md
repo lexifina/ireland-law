@@ -40,6 +40,8 @@ Costs in proceedings where assessment not accepted by claimant.
 
 (b) a payment into court of a sum of money in satisfaction of the cause of action or an offer of tender of payment, pursuant to rules of court, is made.
 
-(7) Subsection (3) does not operate— (a) to prohibit an award of costs or the making of any other order providing for payment of costs, in the circumstances mentioned in that subsection, in favour of a claimant against a non-accepting respondent or respondents (within the meaning of section 34), or
+(7) Subsection (3) does not operate—
+
+(a) to prohibit an award of costs or the making of any other order providing for payment of costs, in the circumstances mentioned in that subsection, in favour of a claimant against a non-accepting respondent or respondents (within the meaning of section 34), or
 
 (b) to confer on a court a power, in the circumstances mentioned in that subsection, to order a claimant to pay all or a portion of the costs of a non-accepting respondent or respondents (within the meaning of section 34).
