@@ -1,8 +1,8 @@
 Function of education and training board performed outside functional area.
 
-23.— (1) Subject to subsections (2), (3) and (4),the Minister may give a direction to an education and training board (in this section referred to as the “first board”) to carry out a function of another education and training board (in this section referred to as the “second board”) in that board’s functional area, subject to such terms and conditions as the Minister determines.
+23.— (1) Subject to subsections (2), (3) and (4), the Minister may give a direction to an education and training board (in this section referred to as the “first board”) to carry out a function of another education and training board (in this section referred to as the “second board”) in that board’s functional area, subject to such terms and conditions as the Minister determines.
 
-(2) Before giving a direction under subsection (1),the Minister shall, by notice in writing, inform the first and second board that he or she proposes to give such direction.
+(2) Before giving a direction under subsection (1), the Minister shall, by notice in writing, inform the first and second board that he or she proposes to give such direction.
 
 (3) A notice under subsection (2) shall—
 

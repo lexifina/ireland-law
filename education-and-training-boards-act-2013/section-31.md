@@ -1,6 +1,6 @@
 Election, appointment and term of office of members of education and training boards.
 
-31.— (1) Every local authority shall, in every election year, at a meeting held within 6 weeks of the local elections concerned, elect such number of members of the education and training board as the local authority concerned is entitled under section 30to so elect.
+31.— (1) Every local authority shall, in every election year, at a meeting held within 6 weeks of the local elections concerned, elect such number of members of the education and training board as the local authority concerned is entitled under section 30 to so elect.
 
 (2) Every education and training board shall, subject to subsection (3), in every election year, appoint a date for the first meeting of the board after the local elections concerned (in this Act referred to as a “post election meeting”).
 

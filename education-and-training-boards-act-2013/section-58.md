@@ -22,7 +22,7 @@ Transfer of staff.
 
 (5) In subsection (4), a reference to conditions of remuneration does not include conditions in relation to superannuation.
 
-(6) In relation to a person referred to in subsection (1) or (2),previous service with the body from which the person was transferred shall be reckonable for the purposes of, but subject to any exceptions or exclusions in, the following:
+(6) In relation to a person referred to in subsection (1) or (2), previous service with the body from which the person was transferred shall be reckonable for the purposes of, but subject to any exceptions or exclusions in, the following:
 
 (a) the Redundancy Payments Acts 1996 to 2011;
 

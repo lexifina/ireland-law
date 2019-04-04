@@ -18,13 +18,13 @@ Suspension and removal of chief executive by board.
 
 (d) specify a day, not less than 21 days after the day on which the notice is served on the chief executive for the holding of a special meeting of the board to consider the proposed suspension.
 
-(4) Subject to subsection (5),at a special meeting of an education and training board referred to in paragraph (d) of subsection (3), the board may, having considered any statement submitted under paragraph (c) of that subsection, by resolution suspend the chief executive of the board from such date as may be specified by the board.
+(4) Subject to subsection (5), at a special meeting of an education and training board referred to in paragraph (d) of subsection (3), the board may, having considered any statement submitted under paragraph (c) of that subsection, by resolution suspend the chief executive of the board from such date as may be specified by the board.
 
 (5) A resolution under subsection (4) shall require not less than three quarters of the members of the board concerned to vote in favour of the resolution.
 
 (6) A copy of a resolution passed under subsection (4) shall be given to the chief executive as soon as practicable after the resolution is passed.
 
-(7) An education and training board shall, within 7 days of the passing of a resolution under subsection (4),furnish to the Minister a copy of—
+(7) An education and training board shall, within 7 days of the passing of a resolution under subsection (4), furnish to the Minister a copy of—
 
 (a) the notice of intention to propose a resolution,
 
@@ -36,7 +36,7 @@ Suspension and removal of chief executive by board.
 
 (9) The Minister shall nominate one of the 3 persons appointed to the advisory panel to be the chairperson of that panel.
 
-(10) An advisory panel shall, within 21 days of being appointed, having considered the documents referred to in subsection (7),submit a report to the Minister containing its recommendations as to—
+(10) An advisory panel shall, within 21 days of being appointed, having considered the documents referred to in subsection (7), submit a report to the Minister containing its recommendations as to—
 
 (a) whether the chief executive should remain suspended and, if so, for what period,
 
@@ -44,7 +44,7 @@ Suspension and removal of chief executive by board.
 
 (c) any other matter arising out of its considerations as the panel thinks appropriate in the circumstances.
 
-(11) Upon consideration of a report submitted under subsection (10),the Minister shall, within 14 days of the receipt of the report—
+(11) Upon consideration of a report submitted under subsection (10), the Minister shall, within 14 days of the receipt of the report—
 
 (a) lift the suspension of the chief executive, subject to such terms and conditions (if any) as the Minister considers appropriate,
 

@@ -18,7 +18,7 @@ Finance committee and audit committee.
 
 (4) A member of staff of an education and training board, or a chief executive of that board, shall not be a member of a committee established under this section.
 
-(5) Subject to subsection (6),a chief executive or a member of staff of an education and training board shall, when requested to do so by a committee of that board established under this section, attend at a meeting of that committee.
+(5) Subject to subsection (6), a chief executive or a member of staff of an education and training board shall, when requested to do so by a committee of that board established under this section, attend at a meeting of that committee.
 
 (6) A chief executive or member of staff referred to in subsection (5) shall not attend the meeting referred to in that subsection where the chief executive or member of staff concerned believes that attendance by him or her is inconsistent with the due performance of his or her functions as chief executive or member of staff, as the case may be.
 

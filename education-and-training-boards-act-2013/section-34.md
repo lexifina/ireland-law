@@ -22,7 +22,7 @@ Disqualification from membership of an education and training board.
 
 (j) fails to comply with a final judgement, order or decree of a court of competent jurisdiction, for payment of money due to any education and training board,
 
-(k) is convicted of, or has had a conviction confirmed on appeal for an offence under section 35(1),section 38(7), paragraph 13(2) of Schedule 3 or an offence relating to—
+(k) is convicted of, or has had a conviction confirmed on appeal for an offence under section 35(1), section 38(7), paragraph 13(2) of Schedule 3 or an offence relating to—
 
 (i) fraudulent or dishonest dealings affecting an education and training board, or
 
