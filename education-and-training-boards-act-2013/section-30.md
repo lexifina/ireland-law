@@ -16,9 +16,9 @@ Composition of education and training boards.
 
 (3) Where—
 
-(a) 3 local authorities are mentioned in column (2) of Schedule 4opposite mention of an education and training board in column (1) of that Schedule an order under subsection (2) shall specify that at least 3 members of that education and training board shall be elected by each of the local authorities concerned, and
+(a) 3 local authorities are mentioned in column (2) of Schedule 4 opposite mention of an education and training board in column (1) of that Schedule an order under subsection (2) shall specify that at least 3 members of that education and training board shall be elected by each of the local authorities concerned, and
 
-(b) 2 local authorities are mentioned in column (2) of Schedule 4opposite mention of an education and training board in column (1) of that Schedule an order under subsection (2) shall specify that at least 4 members of that education and training board shall be elected by each of the local authorities concerned.
+(b) 2 local authorities are mentioned in column (2) of Schedule 4 opposite mention of an education and training board in column (1) of that Schedule an order under subsection (2) shall specify that at least 4 members of that education and training board shall be elected by each of the local authorities concerned.
 
 (4) Subject to subsection (3), when making an order under subsection (2), the Minister shall have regard to the population, at the time the order is made, of each local authority referred to in the order.
 

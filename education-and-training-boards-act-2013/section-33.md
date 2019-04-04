@@ -1,6 +1,6 @@
 Cesser of membership.
 
-33.— (1) A person shall cease to be a member of an education and training board and a casual vacancy arises in its membership immediately upon he or she becoming disqualified from membership under section 34or where—
+33.— (1) A person shall cease to be a member of an education and training board and a casual vacancy arises in its membership immediately upon he or she becoming disqualified from membership under section 34 or where—
 
 (a) in the case of a person elected under section 30(1)(a), he or she ceases for any reason, to be a member of a local authority,
 

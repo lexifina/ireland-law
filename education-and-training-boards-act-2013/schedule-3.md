@@ -46,11 +46,15 @@ EDUCATION AND TRAINING BOARDS
 
 (3)Every question at a meeting of an education and training board shall be determined by a majority of the votes of the members present and voting on the question, and in the case of an equal division of votes the chairperson of the meeting shall be given a second or casting vote save where the question is the election of the chairperson of the board.
 
-(4)Subject to subparagraph (1), an education and training board may act notwithstanding one or more vacancies amongst its members.
+(4)Subject to subparagraph
+
+(1), an education and training board may act notwithstanding one or more vacancies amongst its members.
 
 (5)Subject to the provisions of this Act every education and training board shall regulate, by standing orders or otherwise, the procedure to be observed and the business to be transacted at its meetings.
 
-6.Subject to paragraph 5(1),the acts, decisions and proceedings of an education and training board shall not be invalidated by reason only of a vacancy or vacancies in its membership or of the disqualification or want of qualification of any of its members. 7.Whenever a meeting of an education and training board is abandoned owing to failure to obtain a quorum, the names of the members attending at the time and place appointed for such meeting shall be recorded and they shall, for all purposes, be deemed to have attended a duly constituted meeting.
+6.Subject to paragraph 5(1), the acts, decisions and proceedings of an education and training board shall not be invalidated by reason only of a vacancy or vacancies in its membership or of the disqualification or want of qualification of any of its members.
+
+7.Whenever a meeting of an education and training board is abandoned owing to failure to obtain a quorum, the names of the members attending at the time and place appointed for such meeting shall be recorded and they shall, for all purposes, be deemed to have attended a duly constituted meeting.
 
 8. (1)A chief executive of an education and training board has the right, in relation to meetings of that board—
 
@@ -102,7 +106,7 @@ EDUCATION AND TRAINING BOARDS
 
 (b) if there is no deputy chairperson of the board or the deputy chairperson is not present, such other member of the board as the other members of the board attending the meeting shall choose, shall be chairperson of the meeting for the purpose of determining the question concerned.
 
-11.Paragraph 13 shall apply to a member of a committee established under section 44 or 45where the member is not also a member of an education and training board and for the purposes of that application—
+11.Paragraph 13 shall apply to a member of a committee established under section 44 or 45 where the member is not also a member of an education and training board and for the purposes of that application—
 
 (a) a reference to a member of an education and training board shall be construed as a reference to a member of the committee, and
 

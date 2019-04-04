@@ -14,7 +14,7 @@ Chief executive.
 
 (5) If immediately before the establishment day, a person stands designated by the Minister under subsection (4), the person shall, on the establishment day, stand appointed as the first chief executive of the education and training board for which he or she was so designated.
 
-(6) Where a person who stands appointed under subsection (5) dies, resigns or otherwise ceases to hold office prior to the date first fixed under section 31(7)(a)(ii),the Minister may, with the consent of the Minister for Public Expenditure and Reform, appoint a chief executive to fill the vacancy so occasioned.
+(6) Where a person who stands appointed under subsection (5) dies, resigns or otherwise ceases to hold office prior to the date first fixed under section 31(7)(a)(ii), the Minister may, with the consent of the Minister for Public Expenditure and Reform, appoint a chief executive to fill the vacancy so occasioned.
 
 (7) Subject to subsections (8) and (9), a chief executive of an education and training board shall not hold any other office or employment or carry on any other business without the consent of the board.
 

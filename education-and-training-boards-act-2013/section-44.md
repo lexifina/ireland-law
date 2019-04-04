@@ -34,7 +34,7 @@ Committees.
 
 (a) the functions of a board of management of a recognised school maintained by the board, or
 
-(b) functions which are the same as or substantially the same as, functions exercised by the boards of management referred to in paragraph (a),in relation to—
+(b) functions which are the same as or substantially the same as, functions exercised by the boards of management referred to in paragraph (a), in relation to—
 
 (i) centres for education maintained by it,
 
