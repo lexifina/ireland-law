@@ -72,7 +72,7 @@ Interpretation (Part 2).
 
 “universal postal service” shall be read in accordance with section 16;
 
-“universal postal service provider” means any postal service provider for the time being designated under section 17or18.
+“universal postal service provider” means any postal service provider for the time being designated under section 17 or 18.
 
 (2) A word or expression used in this Part and in the Directive or, as the case may be, in Directive 2008/6/EC of the European Parliament and of the Council of 20 February 2008, has, unless the contrary intention appears, the same meaning in this Part as in the Directive or, as the case may be, in Directive 2008/6/EC.
 

@@ -22,4 +22,6 @@ Ministerial directions to postal service providers.
 
 (b) by inserting the following after subsection (7):
 
-“(8) In the case of An Post and any other postal service provider (within the meaning of the Communications Regulation (Postal Services) Act 2011), subsection (6) applies only in respect of non-compliance by An Post or any such postal service provider, as the case may be, with directions issued under this section for the purposes of section 53 of the Communications Regulation (Postal Services) Act 2011 and the Interception of Postal Packets and Telecommunications Messages (Regulation) Act 1993.”.
+“(8) In the case of An Post and any other postal service provider (within the meaning of the Communications Regulation (Postal Services) Act 2011), subsection (6) applies only in respect of non-compliance by An Post or any such postal service provider, as the case may be, with directions issued under this section for the purposes of section 53 of the Communications Regulation (Postal Services)
+
+Act 2011 and the Interception of Postal Packets and Telecommunications Messages (Regulation) Act 1993.”.
