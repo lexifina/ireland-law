@@ -1,3 +1,3 @@
-Price regulation.
+Price regulation. (Repealed)
 
 30.—...

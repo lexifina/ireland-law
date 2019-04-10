@@ -10,7 +10,11 @@ Power of Commission to obtain information from postal service provider.
 
 (c) conducting a review for any of the purposes of the said section 17 or 18;
 
-(d) assessing the contribution (if any) to be made by a postal service provider to a sharing mechanism established under section 36 of the Communications Regulation (Postal Services) Act 2011;
+(d) assessing the contribution (if any) to be made by a postal service provider to a sharing mechanism established under
+
+## section 36
+
+of the Communications Regulation (Postal Services) Act 2011;
 
 (e) assessing the contribution to be made by a postal service provider to the administration costs of the Commission under section 30(2);
 

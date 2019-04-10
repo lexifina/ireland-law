@@ -30,7 +30,7 @@ Financing of provision of universal postal service.
 
 (7) Where a sharing mechanism is established, the Commission shall, subject to the protection of any information which it considers confidential (within the meaning of section 24 of the Principal Act), publish an annual report—
 
-(a) setting out the calculated net cost of the provision of a universal postal service audited or verified, as the case may be, under section 35(5)(b),and
+(a) setting out the calculated net cost of the provision of a universal postal service audited or verified, as the case may be, under section 35(5)(b), and
 
 (b) including information relating to the performance of the fund and the total amount of contributions collected and distributed from the fund to the universal postal service provider concerned during the period to which the annual report relates.
 

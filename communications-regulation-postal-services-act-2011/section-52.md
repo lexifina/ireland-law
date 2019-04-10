@@ -2,7 +2,7 @@ Appeals to High Court.
 
 52.— (1) In this section “decision” means—
 
-(a) a decision made by the Commission under section 17(2),18(1)(b) or (2), 28(2), 30(2), (5) or (9), 33(4) or (5) or 41(1),
+(a) a decision made by the Commission under section 17(2), 18(1)(b) or (2), 28(2), 30(2), (5) or (9), 33(4) or (5) or 41(1),
 
 (b) a determination made by the Commission under section 16(1)(a)(ii), 18(3), 32(9) or 35(4) or section 30(11A)(b) (inserted by section 44) of the Principal Act, or
 

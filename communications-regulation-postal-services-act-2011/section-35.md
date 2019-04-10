@@ -2,7 +2,7 @@
 
 Net cost of provision of universal postal service.
 
-35.— (1) A universal postal service provider, designated under section 17or 18, which seeks to receive funding for the net costs (if any) of providing a universal postal service may submit a request in writing to the Commission.
+35.— (1) A universal postal service provider, designated under section 17 or 18, which seeks to receive funding for the net costs (if any) of providing a universal postal service may submit a request in writing to the Commission.
 
 (2) A request under subsection (1) shall be—
 
@@ -16,7 +16,7 @@ Net cost of provision of universal postal service.
 
 (4) The Commission shall, on the basis of the information given to it under subsection (2) and any additional information given to the Commission under subsection (3), determine whether the provision of a universal postal service by the universal postal service provider concerned—
 
-(a) represents a net cost to the universal postal service provider in the period to which the request made under subsection (1) relates, taking into account any market benefit which accrues to the universal postal service provider, calculated in accordance with Annex I to the Directive, the text of which Annex is, for ease of reference set out in Schedule 4, and
+(a) represents a net cost to the universal postal service provider in the period to which the request made under subsection (1) relates, taking into account any market benefit which accrues to the universal postal service provider, calculated in accordance with Annex I to the Directive, the text of which Annex is, for ease of reference set out in Schedule 4 , and
 
 (b) in the opinion of the Commission, represents an unfair financial burden on the universal postal service provider.
 

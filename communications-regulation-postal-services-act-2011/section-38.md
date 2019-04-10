@@ -20,7 +20,7 @@ Authorisation to provide a postal service.
 
 (g) such other information as the Commission considers appropriate.
 
-(4) Upon receipt by the Commission of a notification made under subsection (1) or (2), the person making the notification is deemed to be a postal service provider authorised to provide the postal service concerned, subject to the conditions specified in section 39applicable to that service.
+(4) Upon receipt by the Commission of a notification made under subsection (1) or (2), the person making the notification is deemed to be a postal service provider authorised to provide the postal service concerned, subject to the conditions specified in section 39 applicable to that service.
 
 (5) A person or postal service provider who makes a notification under subsection (1) or (2) shall notify the Commission in such form and manner as the Commission may determine of any changes to the information given under subsection (3)—
 
