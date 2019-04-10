@@ -2,7 +2,11 @@ SCHEDULE 4
 
 GUIDANCE ON CALCULATING THE NET COST, IF ANY, OF UNIVERSAL SERVICE
 
-Part A: Definition of the universal service obligations. Universal service obligations refer to the obligations referred to in Article 3 placed upon a postal service provider by a Member State which concern the provision of a postal service throughout a specified geographical area, including, where required, uniform prices in that geographical area for the provision of that service or provision of certain free services for blind and partially-sighted persons.
+Part A: Definition of the universal service obligations.
+
+* End-to-end routing is measured from the access point to the network to the point of delivery to the addressee. ** The date of deposit to be taken into account shall be the same day as that on which the item is deposited, provided that deposit occurs before the last collection time notified from the access point to the network in question. When deposit takes place after this time limit, the date of deposit to be taken into consideration will be that of the following day of collection.
+
+Universal service obligations refer to the obligations referred to in Article 3 placed upon a postal service provider by a Member State which concern the provision of a postal service throughout a specified geographical area, including, where required, uniform prices in that geographical area for the provision of that service or provision of certain free services for blind and partially-sighted persons.
 
 Those obligations may include, among others, the following:
 
