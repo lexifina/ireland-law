@@ -28,7 +28,7 @@ Universal postal service.
 
 (a) such weight as stands specified by order under subsection (3), or
 
-(b) where no weight stands so specified, 20 kilograms.
+(b) where no weight stands so specified, 10 kilograms.
 
 (3)(a) The Commission may, from time to time, review the weight provided for by subsection (2) and may, following a public consultation process and having regard to the reasonable needs of postal service users, by order provide for a weight in lieu of the weight provided for by subsection (2)(a) or the weight specified in subsection (2)(b) and such weight shall not in any case be less than 10 kilograms.
 
