@@ -77,3 +77,5 @@ Student — interpretation.
 (8) For the purposes of subsection (7), a tuition student shall be ordinarily resident in one of the states referred to in subsection (1)(a) if the student was resident in any of the states for a period of not less than 3 years out of the period of 5 years ending on the day before the relevant date.
 
 (9) In this section, in relation to an approved course in respect of which a person referred to in subsection (4) or a tuition student may apply for a grant, “relevant date” means the date on which a year of study commences on the approved course.
+
+14A....
