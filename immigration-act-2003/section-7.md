@@ -396,6 +396,8 @@ Convention, to be necessary or expedient for the purpose of giving effect to— 
 
 (d) require that an application for asylum shall not be investigated by the Commissioner until it has been decided whether a convention country is responsible for examining the application or whether the application should be transferred to a safe third country,
 
+Heading added according to the provisions of Protocol No. 11 (ETS No. 155).
+
 (e) require that an application for asylum which is being investigated by the Commissioner shall be transferred to a convention country for examination,
 
 (f) provide that where an application has been transferred to a convention country for examination or to a safe third country the person concerned shall go to that convention country or to that safe third country,
