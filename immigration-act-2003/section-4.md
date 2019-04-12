@@ -4,9 +4,7 @@ Amendment of Aliens Act 1935.
 
 “Entry,
 
-7.—(1) Where, on the sworn information of a member of the Garda search
-
-Síochána not below the rank of sergeant, a judge of the District Court is and satisfied that— seizure.
+7.—(1) Where, on the sworn information of a member of the Garda Síochána search not below the rank of sergeant, a judge of the District Court is satisfied and that— seizure.
 
 (a) it is reasonably necessary for the purpose of the enforcement of—
 
