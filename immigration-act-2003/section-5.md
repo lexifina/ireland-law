@@ -1,6 +1,6 @@
 Removal from the State of persons refused leave to land.
 
-5.—(1) Subject to section 5 of the Refugee Act 1996 and section 4 of the Criminal Justice (United Nations Convention against Torture) Act 2000, this section applies to—
+5.—(1) Subject to section 3A of the Immigration Act 1999 and section 4 of the Criminal Justice (United Nations Convention against Torture) Act 2000, this section applies to—
 
 (a) a non-national to whom leave to land has been refused under Article 5(2) of the Aliens Order 1946 (SR&O 1946 No. 395) (“the Order”),
 
