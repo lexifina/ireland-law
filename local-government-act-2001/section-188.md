@@ -1,8 +1,8 @@
 ## PART 18 PLACENAMES
 
-Interpretation (Part 18).
+Interpretation.
 
-188.— In this Part— tion.
+188.— In this Part—
 
 ‘functional area’ means as respects—
 
