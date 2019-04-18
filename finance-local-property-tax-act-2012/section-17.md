@@ -34,7 +34,9 @@ TABLE
 
 Valuation band Mid-point of valuation band
 
-(1) (2) 0 to 100,000 50,000
+(1) (2)
+
+0 to 100,000 50,000
 
 100,001 to 150,000 125,000
 
