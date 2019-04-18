@@ -1,6 +1,6 @@
 Establishment of National Shared Services Office
 
-6. (1) There shall stand established on the establishment day a body, which shall be known, in the Irish language, as Oifig Náisiúnta Seirbhísí Comhroinnte and, in the English language, as the National Shared Services Office (in this Act referred to as the “Office”), to perform the functions conferred on it by or under this Act.
+6. (1) There shall stand established on the establishment day a body, which shall be known, in the Irish language, as An Oifig Náisiúnta um Sheirbhísí Comhroinnte and, in the English language, as the National Shared Services Office (in this Act referred to as the “Office”), to perform the functions conferred on it by or under this Act.
 
 (2) The Office shall be a body corporate with perpetual succession and an official seal and shall have power to sue, and may be sued, in its corporate name and shall, with the consent of the Minister, have power to acquire, hold and dispose of land or an interest in land and shall have power to acquire, hold and dispose of any other property.
 
