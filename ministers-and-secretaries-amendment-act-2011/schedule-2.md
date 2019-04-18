@@ -40,9 +40,7 @@ No. 10 of 1957 Turf Development Act 1957 Sections 1 and 11
 
 No. 12 of 1958 Greyhound Industry Act 1958 Section 17
 
-No. 30 of 1964 Transport Act 1964 Section 5
-
-No. 22 of 1969 Grass Meal (Production) (Amendment) Act Section 2 1969
+No. 30 of 1964 Transport Act 1964 Section 5 No. 22 of 1969 Grass Meal (Production) (Amendment) Act Section 2 1969
 
 No. 30 of 1976 Gas Act 1976 Sections 8A, 23 and 24
 
@@ -52,7 +50,9 @@ No. 36 of 1980 Irish Film Board Act 1980 Section 11
 
 No. 26 of 1982 Kilkenny Design Workshops Limited Act 1982 Section 10
 
-No. 15 of 1985 Transport Act 1985 Section 2 No. 9 of 1986 Industrial Development Act 1986 Sections 19 and 24
+No. 15 of 1985 Transport Act 1985 Section 2
+
+No. 9 of 1986 Industrial Development Act 1986 Sections 19 and 24
 
 No. 28 of 1986 National Lottery Act 1986 Section 16
 
@@ -114,9 +114,7 @@ No. 1 of 2000 Comhairle Act 2000 Section 21
 
 No. 1 of 2001 Aviation Regulation Act 2001 Section 25
 
-No. 8 of 2001 Teaching Council Act 2001 Section 20
-
-No. 25 of 2001 Mental Health Act 2001 Section 41
+No. 8 of 2001 Teaching Council Act 2001 Section 20 No. 25 of 2001 Mental Health Act 2001 Section 41
 
 No. 34 of 2001 Adventure Activities Standards Authority Act Section 29 2001
 
@@ -124,7 +122,9 @@ No. 43 of 2001 Ordnance Survey Ireland Act 2001 Section 9
 
 No. 48 of 2001 Air Navigation and Transport (Indemnities) Act Sections 3, 7 and 8 2001
 
-No. 54 of 2001 Family Support Agency Act 2001 Section 24 No. 55 of 2001 Transport (Railway Infrastructure) Act 2001 Section 15
+No. 54 of 2001 Family Support Agency Act 2001 Section 24
+
+No. 55 of 2001 Transport (Railway Infrastructure) Act 2001 Section 15
 
 No. 2 of 2002 Sustainable Energy Act 2002 Section 23
 
