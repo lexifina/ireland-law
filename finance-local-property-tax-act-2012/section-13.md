@@ -6,8 +6,8 @@ Valuation date.
 
 (2) The valuation date in relation to a relevant residential property shall be—
 
-(a) 1 May 2013 for the years 2013, 2014, 2015, 2016, 2017, 2018 and 2019, and
+(a) 1 May 2013 for the years 2013, 2014, 2015, 2016, 2017, 2018, 2019 and 2020, and
 
-(b) for each consecutive 3-year period after the year 2019, 1 November in the year preceding the first year of the particular 3 year period.
+(b) For each consecutive 3-year period after the year 2020, 1 November in the year preceding the first year of the particular 3 year period
 
 (3) The Minister may, by order, alter the valuation date referred to in subsection (2).
