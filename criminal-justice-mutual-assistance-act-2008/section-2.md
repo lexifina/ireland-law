@@ -132,6 +132,8 @@ Interpretation (general).
 
 (j) Chapter IV of the 2005 Convention;
 
+(ja) the Istanbul Convention;
+
 (k) Articles 13, 14, 18, 19 and 20 of the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000;
 
 (l) Articles 46, 49, 50 and 54 to 57 of the United Nations Convention against Corruption, done at New York on 31 October 2003;
@@ -141,6 +143,8 @@ Interpretation (general).
 (m) a bilateral agreement between the State and a designated state, or a multilateral agreement between the State and other designated states, for the provision of such assistance; and
 
 (n) any reservation or declaration made in accordance with such an instrument;
+
+‘Istanbul Convention’ means the Council of Europe Convention on preventing and combating violence against women and domestic violence done at Istanbul on 11 May 2011;
 
 “member state” means—
 
@@ -279,6 +283,8 @@ Interpretation (general).
 (i) Schedule 9 sets out the English text of the Second Additional Protocol to the 1959 Convention,
 
 (j) Schedule 10 sets out the English text of Chapter IV of the 2005 Convention,
+
+(ja) Schedule 10A sets out the English text of the Istanbul Convention,
 
 (k) Schedule 11 sets out the English text of Articles 13, 14, 18, 19 and 20 of the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000,
 
