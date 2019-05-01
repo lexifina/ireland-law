@@ -10,6 +10,8 @@ Priority of payments in a winding up
 
 (ii) deposit guarantee schemes that are subrogating to the rights and obligations of the holder or holders of the part of the eligible deposits referred to in subparagraph (i),
 
+3 OJ No. L 173, 12.06.2014, p. 149.
+
 (b) the following shall be paid in priority to the claims of all unsecured creditors, but after those referred to in paragraph (a), and shall rank equally amongst themselves -
 
 (i) the part of eligible deposits from natural persons and micro, small and medium-sized enterprises that exceeds the coverage level in Article 6 of Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014, and
@@ -17,8 +19,6 @@ Priority of payments in a winding up
 (ii) deposits that would be eligible deposits from natural persons and micro, small and medium-sized enterprises were they not made through branches located outside the European Union of institutions established within the European Union,
 
 (c) subject to subsection (3), the claims of all unsecured creditors, after those referred to in paragraphs (a) and (b), shall be paid in priority to the claims of unsecured creditors resulting from debt instruments where -
-
-3 OJ No. L 173, 12.06.2014, p. 149. 3 OJ No. L 173, 12.06.2014, p. 149.
 
 (i) the original contractual maturity of the debt instrument is not less than one year,
 
@@ -46,10 +46,10 @@ Priority of payments in a winding up
 
 ‘eligible deposits’ has the meaning given to it in the Bank Recovery and Resolution Regulations and shall include a share account held with a building society or credit union;
 
+3 OJ No. L 173, 12.06.2014, p. 149.
+
 ‘institution’ has the meaning given to it in the Bank Recovery and Resolution Regulations;
 
 ‘micro, small and medium-sized enterprises’ has the meaning given to it in the Bank Recovery and Resolution Regulations.
 
 (5) A word or expression that is used in this section and is also used in Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014, as amended by Directive (EU) 2017/2399 of the European Parliament and of the Council of 12 December 2017, shall have, in this section, the same meaning as it has in that Directive.
-
-2 OJ No. L 173, 12.06.2014, p. 190. 1 OJ No. L 345, 27.12.2017, p. 96.
