@@ -1,4 +1,4 @@
-Assessment of compensation in respect of land acquired compulsorily.
+Assessment
 
 84.—(1) Where land is acquired compulsorily by a housing authority for the purposes of this Act, the compensation payable in respect thereof shall be;
 

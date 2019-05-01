@@ -30,7 +30,7 @@ Session and Chapter or Short Title Extent of Repeal Number and Year
 
 59 & 60 Vict., c. 53. Labourers (Ireland) Act, The whole Act. 1896.
 
-62 & 63 Vict., c. 44. Small Dwellings Acquisi- The whole Act. tion Act, 1899.
+62 & 63 Vict., c. 44. Small Dwellings The whole Act. Acquisition Act, 1899.
 
 3 Edw. 7, c. 37. Irish Land Act, 1903. Part IV and subsection (4) of section 100.
 
@@ -62,9 +62,9 @@ Session and Chapter or Short Title Extent of Repeal Number and Year
 
 11 & 12 Geo. 5, c. 19. Housing Act, 1921. The whole Act.
 
-No. 14 of 1924. Housing (Building Facili- The whole Act. ties) Act, 1924.
+No. 14 of 1924. Housing (Building The whole Act. Facilities) Act, 1924.
 
-No. 54 of 1924. Housing (Building Facili- The whole Act. ties) (Amendment) Act, 1924.
+No. 54 of 1924. Housing (Building The whole Act. Facilities) (Amendment) Act, 1924.
 
 No. 12 of 1925. Housing Act, 1925. The whole Act.
 
@@ -108,7 +108,7 @@ No. 16 of 1952. Housing (Amendment) The whole Act. Act, 1952.
 
 No. 16 of 1954. Housing (Amendment) The whole Act. Act, 1954. No. 31 of 1956. Housing (Amendment) The whole Act. Act, 1956.
 
-No. 11 of 1957. Small Dwellings Acquisi- The whole Act. tion Act, 1957.
+No. 11 of 1957. Small Dwellings The whole Act. Acquisition Act, 1957.
 
 No. 27 of 1958. Housing (Amendment) The whole Act. Act, 1958.
 
