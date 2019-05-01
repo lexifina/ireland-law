@@ -36,8 +36,6 @@ Section 341 (financial statements and reports to be laid before company in gener
 
 Section 347 (documents to be annexed to annual return);
 
-Section 356 (special report on abridged financial statements);
-
-Section 380 and sections 382 to 385 (dealing with appointment of statutory auditors);
+Section 356 (special report on abridged financial statements); Section 380 and sections 382 to 385 (dealing with appointment of statutory auditors);
 
 Sections 390 to 393 (obligations of statutory auditors).
