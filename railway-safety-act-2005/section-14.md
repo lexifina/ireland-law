@@ -4,9 +4,7 @@ Members of Commission.
 
 (2) Each member of the Commission shall be known as a Commissioner for Railway Regulation and is in this Act referred to as a “commissioner”.
 
-(3) The person who holds, immediately before the establishment day, the position of Chief Railway Inspecting Officer of the Minister, shall, subject to his accepting such period for his holding office on such terms and conditions as fixed under subsection
-
-(5), on the establishment day, become and be a commissioner and is deemed appointed under this subsection.
+(3) The person who holds, immediately before the establishment day, the position of Chief Railway Inspecting Officer of the Minister, shall, subject to his accepting such period for his holding office on such terms and conditions as fixed under subsection (5), on the establishment day, become and be a commissioner and is deemed appointed under this subsection.
 
 (4) A commissioner (other than the person referred to in subsection (3)) shall be appointed by the Minister.
 
