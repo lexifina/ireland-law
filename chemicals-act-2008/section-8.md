@@ -4,11 +4,15 @@ National authorities.
 
 8.— (1) The following are designated national authorities in the State for the purposes of the Rotterdam Regulation:
 
-(a) the Authority;
+(a) the Authority, other than -
 
-(b) the Revenue Commissioners, for the purposes only of Article 17 of that Regulation;
+(i) for the purposes of Article 18, and
 
-(c) the Minister for Agriculture, Fisheries and Food, in respect of pesticides (other than for the purposes of the said Article 17).
+(ii) in respect of pesticides;
+
+(b) the Revenue Commissioners, for the purposes only of the said Article 18 of that Regulation;
+
+(c) the Minister for Agriculture, Fisheries and Food, in respect of pesticides (other than for the purposes of the said Article 18).
 
 (2) The following are competent authorities in the State for the purposes of the Detergents Regulation:
 
@@ -60,4 +64,4 @@ National authorities.
 
 “Irish National Accreditation Board” means the committee commonly known by that name established pursuant to section 10 (amended by section 46 of the Industrial Development (Enterprise Ireland) Act 1998) of the Industrial Development Act 1993;
 
-“pesticides” has the meaning assigned to it by Article 3(4) of the Rotterdam Regulation.
+“pesticides” has the meaning assigned to it by Article 3(5) of the Rotterdam Regulation.
