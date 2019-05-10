@@ -8,7 +8,7 @@ Interpretation.
 
 “chemical” includes—
 
-(a) a chemical, preparation or article within the meaning of the Rotterdam Regulation,
+(a) a chemical, substance, mixture or article within the meaning of the Rotterdam Regulation,
 
 (b) a detergent within the meaning of the Detergents Regulation,
 
@@ -86,8 +86,10 @@ Interpretation.
 
 “relevant Minister” means, in relation to a national authority that is not a Minister of the Government, the Minister of the Government (other than the Minister) in whom functions are vested in relation to that national authority;
 
-“Rotterdam Regulation” means Regulation (EC) No. 689/2008 of the European Parliament and of the Council of 17 June 2008 concerning the export and import of dangerous chemicals;
+‘Rotterdam Regulation’ means Regulation (EU) No. 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals;
 
 “special report” means a report made under section 18.
 
 (2) Subject to subsection (1), a word or expression that is used in this Act and is also used in a European Regulation has the same meaning in this Act that it has in that European Regulation.
+
+OJ No. L201, 27.7.2012, p.60
