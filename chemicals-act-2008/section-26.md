@@ -8,7 +8,7 @@ Protection of employees from penalisation for reporting breaches of Act.
 
 (3) If a penalisation of an employee, in contravention of subsection (1), constitutes a dismissal of the employee within the meaning of the Unfair Dismissals Acts 1977 to 2007, relief may not be granted to the employee in respect of that penalisation both under Part 4 of the Workplace Relations Act 2015 and under those Acts.
 
-(4)...
+(4) ...
 
 (5) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of subsection (1) shall do one or more of the following, namely—
 
@@ -18,7 +18,7 @@ Protection of employees from penalisation for reporting breaches of Act.
 
 (c) require the employer to pay to the employee compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all the circumstances, but not exceeding 104 weeks’ remuneration in respect of the employee’s employment calculated in accordance with regulations under section 17 of the Unfair Dismissals Act 1977.
 
-(6)...
+(6) ...
 
 (6A) A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in subsection (5) of section 26, shall affirm, vary or set aside the decision of the adjudication officer.
 
