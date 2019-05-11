@@ -18,7 +18,7 @@ Interpretation.
 
 (e) a dangerous substance within the meaning of—
 
-(i) Council Directive 96/82/EC of 9 December 1996 on the control of major accident hazards involving dangerous substances, and
+(i) Directive 2012/18/EU of the European Parliament and of the Council of 4 July 2012 on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive 96/82/EC (hereinafter referred to as the “Seveso III Directive”), and
 
 (ii) Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances;
 
@@ -28,9 +28,9 @@ Interpretation.
 
 “contravention notice” has the meaning assigned to it by section 15;
 
-‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+"Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
-“Detergents Regulation” means Regulation (EC) No. 648/2004 of the European Parliament and of the Council of 31 March 2004 on detergents ;
+“Detergents Regulation” means Regulation (EC) No. 648/2004 of the European Parliament and of the Council of 31 March 2004 on detergents;
 
 “European Communities” has the same meaning as it has in the Act of 1972;
 
@@ -62,9 +62,11 @@ Interpretation.
 
 (a) a designated national authority in the State under section 8(1),
 
-(b) a competent authority in the State under section 8(2), 8(3) or 8(3A) (inserted by section 4 of the Chemicals (Amendment) Act 2010), or
+(b) a competent authority in the State under section 8(2), 8(3) or 8(3A),
 
-(c) a person prescribed in accordance with section 5(3);
+(c) a person prescribed in accordance with section 5(3), or,
+
+(d) the Authority as the Central Competent Authority within the meaning of section 8(3B);
 
 “place” means any structure, premises, land or other location or part of such place, and includes any container, railway wagon, vessel, aircraft, motor or other vehicle;
 
@@ -72,9 +74,9 @@ Interpretation.
 
 “prohibition notice” has the meaning assigned by section 16;
 
-“REACH Regulation” means Regulation (EC) No. 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) and establishing a European Chemicals Agency ;
+“REACH Regulation” means Regulation (EC) No. 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) and establishing a European Chemicals Agency;
 
-‘record’ includes any memorandum, book, report, statement, register, plan, chart, map, drawing, specification, diagram, pictorial or graphic work or other document, any photograph, film or recording (whether of sound or images or both), any form in which data (including data that constitute personal data within the meaning of the Data Protection Regulation or Part 5 of the Data Protection Act 2018) are held, any form (including machine-readable form) or thing in which information is held or stored manually, mechanically or electronically, and anything that is a part or copy, in any form, of any of, or any combination of, the foregoing;
+"record" includes any memorandum, book, report, statement, register, plan, chart, map, drawing, specification, diagram, pictorial or graphic work or other document, any photograph, film or recording (whether of sound or images or both), any form in which data (including data that constitute personal data within the meaning of the Data Protection Regulation or Part 5 of the Data Protection Act 2018) are held, any form (including machine-readable form) or thing in which information is held or stored manually, mechanically or electronically, and anything that is a part or copy, in any form, of any of, or any combination of, the foregoing;
 
 “relevant chemicals statutory provisions” means—
 
@@ -86,10 +88,8 @@ Interpretation.
 
 “relevant Minister” means, in relation to a national authority that is not a Minister of the Government, the Minister of the Government (other than the Minister) in whom functions are vested in relation to that national authority;
 
-‘Rotterdam Regulation’ means Regulation (EU) No. 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals;
+"Rotterdam Regulation" means Regulation (EU) No. 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals;
 
 “special report” means a report made under section 18.
 
 (2) Subject to subsection (1), a word or expression that is used in this Act and is also used in a European Regulation has the same meaning in this Act that it has in that European Regulation.
-
-OJ No. L201, 27.7.2012, p.60
