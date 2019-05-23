@@ -64,15 +64,7 @@ Sex of child.
 
 Weight of child.
 
-Gestational age of child.
-
-Forename(s) and surname* of child.
-
-* The surname of the child to be entered shall, subject to any linguistic modifications be—
-
-(a) that of the parents of the child as stated in the register of stillbirths or of either of them, as may be determined by the person who, pursuant to section 28, gives the required particulars of the stillbirth concerned to the registrar, or
-
-(b) such other name as may be requested by both of the parents or by one of them if the other parent is dead or, after reasonable efforts to do so have been made, cannot be contacted (if an tArd-Chláraitheoir or an officer of an tArd- Chláraitheoir duly authorised by him or her in that behalf or a Superintendent Registrar is satisfied that the circumstances warrant it and he or she agrees to the request).
+Gestational age of child. Forename(s) and surname* of child.
 
 ...
 
@@ -134,9 +126,7 @@ Personal public service number of mother.
 
 Birth surname of mother’s mother.
 
-Forename(s), surname, birth surname, address and occupation of father.
-
-Former surname(s) (if any) of father.
+Forename(s), surname, birth surname, address and occupation of father. Former surname(s) (if any) of father.
 
 Date of birth of father.
 
@@ -220,9 +210,7 @@ If deceased was less than 18 years of age on date of death, occupation(s) of his
 
 Forename(s) and birth surname of father of deceased.
 
-Forename(s) and birth surname of mother of deceased.
-
-Certificated cause of death, duration of illness and date of certificate under section 42.
+Forename(s) and birth surname of mother of deceased. Certificated cause of death, duration of illness and date of certificate under section 42.
 
 Forename, surname, place of business, daytime telephone number and qualification of registered medical practitioner who signed certificate under section 42.
 
@@ -242,7 +230,9 @@ Court by which the decree was granted.
 
 Year and record number of the proceedings.
 
-Forenames, surnames and birth surnames of the parties to the proceedings. Personal public service numbers of the parties to the proceedings.
+Forenames, surnames and birth surnames of the parties to the proceedings.
+
+Personal public service numbers of the parties to the proceedings.
 
 Date and place of marriage.
 
@@ -266,9 +256,7 @@ Personal public service numbers of the parties to the proceedings.
 
 Date and place of civil partnership registration.
 
-Date of the decree.
-
-Date of registration of the decree.
+Date of the decree. Date of registration of the decree.
 
 Forenames and surname of officer of Courts Service.
 
@@ -290,7 +278,9 @@ Declaration of court.
 
 Date of the decree.
 
-Date of registration. Forename(s) and surname of officer of Courts Service specified in section 59(2).
+Date of registration.
+
+Forename(s) and surname of officer of Courts Service specified in section 59(2).
 
 PART 7A
 
@@ -304,9 +294,7 @@ Forenames, surnames and birth surnames of the parties to the proceedings.
 
 Personal public service numbers of the parties to the proceedings.
 
-Date and place of civil partnership registration.
-
-Declaration of court.
+Date and place of civil partnership registration. Declaration of court.
 
 Date of the decree.
 
