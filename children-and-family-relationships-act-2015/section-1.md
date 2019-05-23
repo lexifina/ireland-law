@@ -14,7 +14,7 @@ Short title, collective citations and commencement
 
 (6) Parts 2 and 3 shall come into operation on the day or days that the Minister for Health may appoint by order or orders either generally or with reference to a particular purpose or provision and different days may be so appointed for different purposes or different provisions.
 
-(7) Part 9 shall come into operation on the day or days that the Minister may, after consulting with the Minister for Social Protection, appoint by order or orders either generally or with reference to a particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+(7) Part 9 shall come into operation 54 months from enactment or on such earlier day or days as the Minister may, after consulting with the Minister for Employment Affairs and Social Protection, appoint by order or orders either generally or with reference to any particular purpose or provision of that Part and different days may be so appointed for different purposes or different provisions.
 
 (8) Part 10 shall come into operation on the day or days that the Minister for Foreign Affairs and Trade may appoint by order or orders either generally or with reference to a particular purpose or provision and different days may be so appointed for different purposes or different provisions.
 
