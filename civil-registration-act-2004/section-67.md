@@ -12,4 +12,4 @@ Fees.
 
 (4) Amounts received under this Act in respect of fees shall be disposed of in accordance with the directions of the Minister given with the consent of the Minister for Finance.
 
-(5) There shall be payable to the Minister for Arts, Heritage and the Gaeltacht fees of such amounts (if any) as may be prescribed in respect of any performance by that Minister of his or her functions under subsection (2A) or (6) of section 61.
+(5) There shall be payable to the Minister for Culture, Heritage and the Gaeltacht, or a relevant body, fees of such amounts (if any) as may be prescribed in respect of any performance by that Minister, or that body, of functions under subsection (2A) or (6) of section 61.
