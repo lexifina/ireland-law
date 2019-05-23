@@ -10,9 +10,7 @@ Session and Chapter or Short Title Extent of Repeal Number and Year
 
 9 & 10 Vict., c. 72 Marriages (Ireland) Act 1846 The whole Act.
 
-23 & 24 Vict., c. 18 Marriage (Society of Friends) Act 1860 The whole Act. Session and Chapter or Short Title Extent of Repeal Number and Year
-
-(1) (2) (3)
+23 & 24 Vict., c. 18 Marriage (Society of Friends) Act 1860 The whole Act.
 
 26 Vict., c. 11 Registration of Births and Deaths The whole Act. (Ireland) Act 1863
 
@@ -38,7 +36,9 @@ No. 34 of 1936 Registration of Births and Deaths Act The whole Act. 1936
 
 No. 35 of 1936 Registration of Marriages Act 1936 The whole Act.
 
-No. 47 of 1936 Marriages Act 1936 The whole Act.
+No. 47 of 1936 Marriages Act 1936 The whole Act. Session and Chapter or Short Title Extent of Repeal Number and Year
+
+(1) (2) (3)
 
 No. 8 of 1952 Vital Statistics and Births, Deaths and The whole Act. Marriages Registration Act 1952
 
