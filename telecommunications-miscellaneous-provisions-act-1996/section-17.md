@@ -32,9 +32,9 @@ Companies Acts, 1963 to 1990
 
 European Assembly Elections Act, 1977 1977, No. 30
 
-European Parliament Elections Act, 1993 1993, No. 30 Finance Act, 1985 1985, No. 10
+European Parliament Elections Act, 1993 1993, No. 30
 
-Irish Aviation Authority Act, 1993 1993, No. 29
+Finance Act, 1985 1985, No. 10 Irish Aviation Authority Act, 1993 1993, No. 29
 
 Petty Sessions (Ireland) Act, 1851 14 & 15 Vict., c. 93
 
