@@ -228,7 +228,7 @@ So long as the failure to pay continues, such rate shall be refixed in accordanc
 
 (7) If a Lender encounters higher funding costs than those applicable to the Borrower under this Agreement such Lender may inform the other Lenders and the Commission (through the Euro Working Group Chairman) and the Euro Working Group shall take a decision in line with the Intercreditor Agreement and inform the Borrower accordingly.
 
-6. REPAYMENT, EARLY REPAYMENT, MANDATORY REPAYMENT AND CANCELLA- TION
+6. REPAYMENT, EARLY REPAYMENT, MANDATORY REPAYMENT AND CANCELLATION
 
 (1) The Borrower shall repay the principal amount of each Loan on the date(s) (each of which must be an Interest Payment Date) and under the conditions notified to it by the Commission in the relevant Acceptance Notice and related documentation.
 
@@ -394,7 +394,9 @@ A “Commitment Confirmation” means a written confirmation (in accordance with
 
 16. EXECUTION OF THE AGREEMENT
 
-This Agreement may be executed in any number of counterparts signed by one or more of the parties. The counterparts each form an integral part of the original Agreement and the signature of the counterparts shall have the same effect as if the signatures on the counterparts were on a single copy of the Agreement. The Commission shall promptly after the signature of this Agreement supply conformed copies of the Agreement to each of the parties.
+This Agreement may be executed in any number of counterparts signed by one or more of the parties. The counterparts each form an integral part of the original Agreement and the signature of the counterparts shall have the same effect as if the signatures on the counterparts were on a single copy of the Agreement.
+
+The Commission shall promptly after the signature of this Agreement supply conformed copies of the Agreement to each of the parties.
 
 17. ANNEXES
 
@@ -450,7 +452,9 @@ Commitment EUR
 
 Kingdom of Belgium 2.860.942.462,10
 
-Ireland 1.310.046.500,93 Kingdom of Spain 9.794.387.452,71
+Ireland 1.310.046.500,93
+
+Kingdom of Spain 9.794.387.452,71
 
 French Republic 16.773.596.199,72
 
@@ -516,7 +520,9 @@ We refer to the Loan Facility Agreement made between the Euro Area Member States
 
 (c) No Event of Default has occurred.
 
-Yours faithfully, ANNEX 3 FORM OF ACCEPTANCE NOTICE EUROPEAN COMMISSION DIRECTORATE GENERAL ECONOMIC AND FINANCIAL AFFAIRS Finance, coordination with EIB group, EBRD and IFI’s
+Yours faithfully, ANNEX 3 FORM OF ACCEPTANCE NOTICE
+
+EUROPEAN COMMISSION DIRECTORATE GENERAL ECONOMIC AND FINANCIAL AFFAIRS Finance, coordination with EIB group, EBRD and IFI’s
 
 By fax followed by registered mail: [Insert Borrower’s contact details]
 
