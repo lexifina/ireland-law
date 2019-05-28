@@ -1,0 +1,9 @@
+Miscellaneous amendments to Act of 2013.
+
+66. The Act of 2013 is amended as indicated in the Table to this section.
+
+Table
+
+Item Provision amended Amendment 1 Section 7(2) Delete “, which is”. 2 Section 8(1) Substitute “contained” for “contained, having regard to shared boundaries or commonage”. 3 Section 9 Delete section 4 Section 24(4) Substitute “be recovered” for “berecovered”. 5 Section 27(2)(f) Substitute “or class” for “or a class”. 6 Section 32(6) Substitute “this section” for “section 34”. 7 Section 36(2)(a) Delete “(including disease eradication areas)”. 8 Section 37(1) Delete “or an authorised officer of the Department”. 9 Section 38(4)(c) Insert “or an EU measure” after “under this Act”. 10 Section 39(1) Delete “section 36(4)(b) or 52(2)” and substitute “section 36(4)(b) or (4A)(b), 36A(b) or 52(2)”. 11 Section 39(2) Substitute “of that section” for “of that Act”.
+
+Delete “section 36(4)(b) or 52(2)” and substitute “section 36(4)(b) or (4A)(b), 36A(b) or 52(2)”. 12 Section 49(1) Delete “section 18, 51(4) or 36(4)(a)” and substitute “section 18, 51(4), 36(4)(a) or 36A(a)”. 13 Section 51(5) Substitute “a company formed and registered under the Companies Act 2014 or an existing company with the meaning of that Act” for “a company within the meaning of the Companies Acts”. 14 Section 55(1) Delete “that”. 15 Section 60(1) Delete “section 36(4)(b)(ii)” and substitute “section 36(4)(b)”. 16 Section 61(1) Substitute “that a person is not taking adequate care of an animal, is unfit to keep the animal or that the owner of the animal is unknown or cannot be found, or” for “that, having regard, amongst other considerations, to medical evidence presented to him or her,”. 17 Section 72(1)(e) Delete “or an animal health and welfare notice”. 18 Section 72(2)(e) Delete “or an animal health and welfare notice”.

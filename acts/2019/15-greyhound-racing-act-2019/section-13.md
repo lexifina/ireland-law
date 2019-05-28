@@ -1,0 +1,3 @@
+General functions of Board.
+
+13. The general functions of the Board are to provide for the overall administration, regulation, governance, development and promotion of the Irish greyhound industry and the health and welfare of greyhounds. The members of the Board may identify functions, roles and responsibilities such that there is a clear and transparent division of responsibilities between leading and managing the Board and the executive responsibility for running the Board in accordance with the Code of Practice for the Governance of the State Bodies or other such codes or policy documents that may issue from time to time by a member of the Government.
