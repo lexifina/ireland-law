@@ -24,7 +24,11 @@ Whereas protection of the consumer requires that all producers involved in the p
 
 Whereas, in situations where several persons are liable for the same damage, the protection of the consumer requires that the injured person should be able to claim full compensation for the damage from any one of them;
 
-Whereas, to protect the physical well-being and property of the consumer, the defectiveness of the product should be determined by reference not to its fitness for use but to the lack of the safety which the public at large is entitled to expect; whereas the safety is assessed by excluding any misuse of the product not reasonable under the circumstances; Whereas a fair apportionment of risk between the injured person and the producer implies that the producer should be able to free himself from liability if he furnishes proof as to the existence of certain exonerating circumstances;
+Whereas, to protect the physical well-being and property of the consumer, the defectiveness of the product should be determined by reference not to its fitness for use but to the lack of the safety which the public at large is entitled to expect; whereas the safety is assessed by excluding any misuse of the product not reasonable under the circumstances;
+
+(1) O.J. No. C241,14.10.1976, p.9 and O.J. No. C271, 26.10.1979, p.3. (2) O.J. No. C127, 21.5.1979, p.61. (3) O.J. No. C114, 7.5.1979, p.15.
+
+Whereas a fair apportionment of risk between the injured person and the producer implies that the producer should be able to free himself from liability if he furnishes proof as to the existence of certain exonerating circumstances;
 
 Whereas the protection of the consumer requires that the liability of the producer remains unaffected by acts or omissions of other persons having contributed to cause the damage; whereas, however, the contributory negligence of the injured person may be taken into account to reduce or disallow such liability;
 
@@ -186,6 +190,8 @@ Article 20
 
 Member States shall communicate to the Commission the texts of the main provisions of national law which they subsequently adopt in the field governed by this Directive.
 
+(1) O.J. No. L379, 30.12.1978, p.1. (2) O.J. No. L247, 16.9.1984, p.1. (3) This Directive was notified to the Member States on 30 July 1985.
+
 Article 21
 
 Every five years the Commission shall present a report to the Council on the application of this Directive and, if necessary, shall submit appropriate proposals to it.
@@ -219,6 +225,8 @@ Acting in accordance with the procedure laid down in Article 251 of the Treaty (
 (2) Whereas Directive 85/374/EEC established a fair apportionment of the risks inherent in a modern society in which there is a high degree of technicality; whereas that Directive therefore struck a reasonable balance between the interests involved, in particular the protection of consumer health, encouraging innovation and scientific and technological development, guaranteeing undistorted competition and facilitating trade under a harmonised system of civil liability; whereas that Directive has thus helped to raise awareness among traders of the issue of product safety and the importance accorded to it;
 
 (3) Whereas the degree of harmonisation of Member States' laws achieved by Directive 85/374/EEC is not complete in view of the derogations provided for, in particular with regard to its scope, from which unprocessed agricultural products are excluded;
+
+(1) OJ C 337, 7.11.1997, p.54. (2) OJ C 95, 30.3.1998, p.69. (3) Opinion of the European Parliament of 5 November 1998 (OJ C 359, 23.11.1998, p.25), Council Common Position of 17 December 1998 (OJ C 49, 22.2.1999, p.1) and Decision of the European Parliament of 23 March 1999 (not yet published in the Official Journal) Council Decision of 29 April 1999. (4) OJ L 210, 7.8.1985, p.29. Directive as amended by the 1994 Act of Accession. (5) OJ L 228, 11.8.1992, p.24”
 
 (4) Whereas the Commission monitors the implementation and effects of Directive 85/374/EEC and in particular its aspects relating to consumer protection and the functioning of the internal market, which have already been the subject of a first report; whereas, in this context, the Commission is required by Article 21 of that Directive to submit a second report on its application;
 
