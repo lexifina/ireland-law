@@ -1,4 +1,4 @@
-Avoidance of certain provisions excluding liability for misrepresentation.
+Avoidance
 
 46.—(1) If any agreement (whether made before or after the commencement of this Act) contains a provision which would exclude or restrict—
 

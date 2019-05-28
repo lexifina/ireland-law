@@ -6,9 +6,9 @@ Sale of Goods Act, 1893, section 55.
 
 TABLE
 
-Exclu-
+Exclusion
 
-55.—(1) Subject to the subsequent provisions of this section, where any sion of right, duty or liability would arise under a contract of sale of goods by implied implication of law, it may be negatived or varied by express agreement, or terms by the course of dealing between the parties, or by usage if the usage is such and condi- as to bind both parties to the contract. tions.
+55.—(1) Subject to the subsequent provisions of this section, where any of right, duty or liability would arise under a contract of sale of goods by implied implication of law, it may be negatived or varied by express agreement, or terms by the course of dealing between the parties, or by usage if the usage is such and conditions. as to bind both parties to the contract.
 
 (2) An express condition or warranty does not negative a condition or warranty implied by this Act unless inconsistent therewith.
 

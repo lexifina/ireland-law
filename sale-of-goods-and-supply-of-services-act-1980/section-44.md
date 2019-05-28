@@ -1,4 +1,4 @@
-Removal of certain bars to rescission for innocent misrepresentation.
+Removal
 
 44.—Where a person has entered into a contract after a misrepresentation has been made to him, and
 

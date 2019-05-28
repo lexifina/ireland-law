@@ -6,9 +6,9 @@ Sale of Goods Act, 1893, sections 11, 12, 13, 14 and 15.
 
 TABLE 11.—(1) Where a contract of sale is subject to any condition to be fulfilled
 
-When by the seller, the buyer may waive the condition, or may elect to treat the condition to breach of such condition as a breach of warranty, and not as a ground for be treating the contract as repudiated. treated as
+When by the seller, the buyer may waive the condition, or may elect to treat the condition to be breach of such condition as a breach of warranty, and not as a ground for treated treating the contract as repudiated. as warranty.
 
-(2) Whether a stipulation in a contract of sale is a condition, the breach of warran- which may give rise to a right to treat the contract as repudiated, or a ty. warranty, the breach of which may give rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated, depends in each case on the construction of the contract. A stipulation may be a condition, though called a warranty in the contract.
+(2) Whether a stipulation in a contract of sale is a condition, the breach of which may give rise to a right to treat the contract as repudiated, or a warranty, the breach of which may give rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated, depends in each case on the construction of the contract. A stipulation may be a condition, though called a warranty in the contract.
 
 (3) Where a contract of sale is not severable, and the buyer has accepted the goods, or part thereof, the breach of any condition to be fulfilled by the seller can only be treated as a breach of warranty, and not as a ground for rejecting the goods and treating the contract as repudiated, unless there be a term of the contract, express or implied, to that effect.
 
@@ -16,9 +16,9 @@ When by the seller, the buyer may waive the condition, or may elect to treat the
 
 Implied
 
-12.—(1) In every contract of sale, other than one to which subsection (2) under- applies, there is— takings as to
+12.—(1) In every contract of sale, other than one to which subsection (2) undertakings applies, there is— as to title,
 
-(a) an implied condition on the part of the seller that, in the case of a sale, he title, has a right to sell the goods and, in the case of an agreement to sell, he etc. will have a right to sell the goods at the time when the property is to pass, and
+(a) an implied condition on the part of the seller that, in the case of a sale, he etc. has a right to sell the goods and, in the case of an agreement to sell, he will have a right to sell the goods at the time when the property is to pass, and
 
 (b) an implied warranty that the goods are free, and will remain free until the time when the property is to pass, from any charge or encumbrance not disclosed to the buyer before the contract is made and that the buyer will enjoy quiet possession of the goods except so far as it may be disturbed by the owner or other person entitled to the benefit of any charge or encumbrance so disclosed.
 
@@ -36,7 +36,7 @@ Implied
 
 Sale by
 
-13.—(1) Where there is a contract for the sale of goods by description, descrip- there is an implied condition that the goods shall correspond with the tion. description; and if the sale be by sample as well as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description.
+13.—(1) Where there is a contract for the sale of goods by description, description. there is an implied condition that the goods shall correspond with the description; and if the sale be by sample as well as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description.
 
 (2) A sale of goods shall not be prevented from being a sale by description by reason only that, being exposed for sale, they are selected by the buyer.
 
@@ -44,9 +44,9 @@ Sale by
 
 Implied
 
-14.—(1) Subject to the provisions of this Act and of any statute in that under- behalf, there is no implied condition or warranty as to the quality or fitness takings for any particular purpose of goods supplied under a contract of sale. as to quality
+14.—(1) Subject to the provisions of this Act and of any statute in that undertakings behalf, there is no implied condition or warranty as to the quality or fitness as to for any particular purpose of goods supplied under a contract of sale. quality or
 
-(2) Where the seller sells goods in the course of a business there is an or fitness. implied condition that the goods supplied under the contract are of merchantable quality, except that there is no such condition—
+(2) Where the seller sells goods in the course of a business there is an fitness. implied condition that the goods supplied under the contract are of merchantable quality, except that there is no such condition—
 
 (a) as regards defects specifically drawn to the buyer's attention before the contract is made, or
 
