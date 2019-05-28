@@ -4,7 +4,9 @@ AMENDMENT TO LOAN FACILITY AGREEMENT OF JUNE 2011
 
 AMENDMENT TO THE
 
-EUR 80 000 000 000 LOAN FACILITY AGREEMENT between
+EUR 80 000 000 000
+
+LOAN FACILITY AGREEMENT between
 
 THE FOLLOWING MEMBER STATES WHOSE CURRENCY IS THE EURO:
 
@@ -90,7 +92,9 @@ It is acknowledged and agreed that the authorization of a Lender to be bound und
 
 (b) if one or more Acceptance Notices are issued between the signature of this Amendment by all parties and the entry into force thereof, the Commission shall, upon the entry into force of this Amendment, issue an amended Acceptance Notice which, from its date of issuance by the Commission, shall modify the Scheduled Principal Repayments set out in such Acceptance Notice(s) so that the Grace Period and the Term specified in such Acceptance Notice(s) are as long as allowed under Articles 1(1) and 1(2) of this Amendment; and
 
-(c) the margin foreseen in Article 1(3) of this Amendment shall apply starting from (and including) the Interest Period during which this Amendment is signed by all parties. If one or more Interest Payment Dates occur between the signature by all parties of this Amendment and its entry into force, the difference between (i) the interest that the Borrower paid on any such Interest Payment Dates and (ii) the interest calculated by applying the margin as specified in Article 1(3) of the Amendment, shall be compensated to the Borrower through an equivalent reduction of the interest due on the next Interest Payment Date, provided that the Amendment enters into force at least thirty (30) calendar days prior to it. If the Amendment enters into force less than thirty (30) calendar days prior to an Interest Payment Date, the reduction shall occur on the following Interest Payment Date. If the amount of the reduction exceeds the interest due on a single Interest Payment Date, the remaining part shall be compensated on a subsequent Interest Payment Date. The Commission shall advise the Lenders, the Borrower and the Borrower’s Agent about the reduction. 4.EXECUTION OF THE AGREEMENT
+(c) the margin foreseen in Article 1(3) of this Amendment shall apply starting from (and including) the Interest Period during which this Amendment is signed by all parties. If one or more Interest Payment Dates occur between the signature by all parties of this Amendment and its entry into force, the difference between (i) the interest that the Borrower paid on any such Interest Payment Dates and (ii) the interest calculated by applying the margin as specified in Article 1(3) of the Amendment, shall be compensated to the Borrower through an equivalent reduction of the interest due on the next Interest Payment Date, provided that the Amendment enters into force at least thirty (30) calendar days prior to it. If the Amendment enters into force less than thirty (30) calendar days prior to an Interest Payment Date, the reduction shall occur on the following Interest Payment Date. If the amount of the reduction exceeds the interest due on a single Interest Payment Date, the remaining part shall be compensated on a subsequent Interest Payment Date. The Commission shall advise the Lenders, the Borrower and the Borrower’s Agent about the reduction.
+
+4.EXECUTION OF THE AGREEMENT
 
 This Amendment may be executed in any number of counterparts signed by one or more of the parties. The counterparts each form an integral part of the original Amendment and the signature of the counterparts shall have the same effect as if the signatures on the counterparts were on a single copy of the Amendment.
 
@@ -134,9 +138,7 @@ Represented by instructions of and with the benefit of the guarantee of the Fede
 
 Dr. Omar Ranné (Vice President)
 
-ANNEX 1 FORM OF LEGAL OPINION
-
-(official letterhead of the Legal Advisor to the State at the Ministry of Justice, Transparency and Human Rights and the Legal Advisor to the State at the Ministry of Finance)
+ANNEX 1 FORM OF LEGAL OPINION (official letterhead of the Legal Advisor to the State at the Ministry of Justice, Transparency and Human Rights and the Legal Advisor to the State at the Ministry of Finance)
 
 [place, date]
 
@@ -166,9 +168,9 @@ Subject to the foregoing, we are of the opinion that:
 
 (i) have been duly authorised by all necessary consents, actions, approvals and authorisations; and
 
-(ii) have not and will not violate any applicable regulation or ruling of any competent authority or any agreement or Treaty binding on it. 3.Nothing in this Amendment contravenes or limits the rights of the Borrower to make punctual and effective payment of any sum due for the principal, interest or other charges under the Amendment.
+(ii) have not and will not violate any applicable regulation or ruling of any competent authority or any agreement or Treaty binding on it.
 
-4.The Amendment is in proper legal form under Hellenic laws for enforcement against the Borrower and the Borrower’s Agent. The enforcement of the Amendment would not be contrary to mandatory provisions of Hellenic law, to the ordre public of the Hellenic Republic, to international treaties or to generally accepted principles of international law binding on the Borrower.
+3.Nothing in this Amendment contravenes or limits the rights of the Borrower to make punctual and effective payment of any sum due for the principal, interest or other charges under the Amendment. 4.The Amendment is in proper legal form under Hellenic laws for enforcement against the Borrower and the Borrower’s Agent. The enforcement of the Amendment would not be contrary to mandatory provisions of Hellenic law, to the ordre public of the Hellenic Republic, to international treaties or to generally accepted principles of international law binding on the Borrower.
 
 5.It is not necessary in order to ensure the legality, validity or enforceability of the Amendment that it be filed, recorded, or enrolled with any court or authority in the Hellenic Republic.
 
@@ -198,11 +200,11 @@ AMENDED SCHEDULED PRINCIPAL REPAYMENTS
 
 1.The Scheduled Principal Repayments of the 1st Loan shall be as follows:
 
-15.12.2014 / 15.12.2014 659,090,909.09 15.03.2015 / 13.03.2015 659,090,909.09
+15.12.2014 / 15.12.2014 659,090,909.09
 
-15.06.2015 / 15.06.2015 659,090,909.09
+15.03.2015 / 13.03.2015 659,090,909.09
 
-15.09.2015 / 15.09.2015 659,090,909.09
+15.06.2015 / 15.06.2015 659,090,909.09 15.09.2015 / 15.09.2015 659,090,909.09
 
 15.12.2015 / 15.12.2015 659,090,909.09
 
@@ -276,11 +278,11 @@ AMENDED SCHEDULED PRINCIPAL REPAYMENTS
 
 15.03.2019 / 15.03.2019 295,454,545.45
 
-15.06.2019 / 14.06.2019 295,454,545.45 15.09.2019 / 13.09.2019 295,454,545.45
+15.06.2019 / 14.06.2019 295,454,545.45
 
-15.12.2019 / 13.12.2019 295,454,545.45
+15.09.2019 / 13.09.2019 295,454,545.45
 
-15.03.2020 / 13.03.2020 295,454,545.45
+15.12.2019 / 13.12.2019 295,454,545.45 15.03.2020 / 13.03.2020 295,454,545.45
 
 15/06/2020 / 15/06/2020 295,454,545.55
 
@@ -350,11 +352,11 @@ AMENDED SCHEDULED PRINCIPAL REPAYMENTS
 
 15.12.2017 / 15.12.2017 495,454,545.45
 
-15.03.2018 / 15.03.2018 495,454,545.45 15.06.2018 / 15.06.2018 495,454,545.45
+15.03.2018 / 15.03.2018 495,454,545.45
 
-15.09.2018 / 14.09.2018 495,454,545.45
+15.06.2018 / 15.06.2018 495,454,545.45
 
-15.12.2018 / 14.12.2018 495,454,545.45
+15.09.2018 / 14.09.2018 495,454,545.45 15.12.2018 / 14.12.2018 495,454,545.45
 
 15.03.2019 / 15.03.2019 495,454,545.45
 

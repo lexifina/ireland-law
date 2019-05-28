@@ -58,9 +58,7 @@ Whereas:
 
 Now, therefore, the parties hereto have agreed as follows:
 
-1.AMENDMENTS TO THE LOAN FACILITY AGREE-MENT
-
-The Agreement, as amended on 14 June 2011 and on 27 February 2012, is hereby amended as follows:
+1.AMENDMENTS TO THE LOAN FACILITY AGREE-MENT The Agreement, as amended on 14 June 2011 and on 27 February 2012, is hereby amended as follows:
 
 (1)In Article 3, paragraph 3, point (d) shall be replaced by the following:
 
@@ -116,7 +114,9 @@ The Commission shall promptly after the signature of this Amendment supply confo
 
 (2)The Annexes to this Amendment shall constitute an integral part hereof:
 
-1.Form of Legal Opinion. 2.Amended Scheduled Principal Repayments. 3.List of Contacts. Done in Brussels on 19 December 2012 and in Athens on 18 December 2012.
+1.Form of Legal Opinion.
+
+2.Amended Scheduled Principal Repayments. 3.List of Contacts. Done in Brussels on 19 December 2012 and in Athens on 18 December 2012.
 
 HELLENIC REPUBLIC The following Euro Area Member States as Borrower
 
@@ -124,15 +124,15 @@ KINGDOM OF BELGIUM, IRELAND, KINGDOM OF SPAIN,
 
 Represented by
 
-FRENCH REPUBLIC, ITALIAN REPUBLIC, REPUBLIC OF — signed — CYPRUS, GRAND DUCHY OF LUXEMBOURG, REPUBLIC OF
+FRENCH REPUBLIC, ITALIAN REPUBLIC, REPUBLIC OF — signed — CYPRUS, GRAND DUCHY OF LUXEMBOURG, REPUBLIC
 
 Yannis Stournaras
 
-MALTA, KINGDOM OF THE NETHERLANDS, REPUBLIC OF
+OF MALTA, KINGDOM OF THE NETHERLANDS, REPUBLIC
 
 Minister of Finance
 
-AUSTRIA, PORTUGUESE REPUBLIC, REPUBLIC OF SLOVENIA and REPUBLIC OF FINLAND as Lenders represented by:
+OF AUSTRIA, PORTUGUESE REPUBLIC, REPUBLIC OF SLOVENIA and REPUBLIC OF FINLAND as Lenders represented by:
 
 EUROPEAN COMMISSION Represented by
 
@@ -172,9 +172,7 @@ Dear Sirs,
 
 In our capacity as the Legal Advisor to the State at the Ministry of Justice, Transparency and Human Rights and the Legal Advisor to the State at the Ministry of Finance, we refer to the above referenced Amendment and its Annexes which constitute an integral part thereof (hereinafter together referred to as the “Amendment”) entered into between, amongs others, certain Euro Area Member States and KfW (hereinafter referred to as the “Lenders”) and the Hellenic Republic (hereinafter referred to as the “Borrower”) on [●] 2012.
 
-We warrant that we are competent to issue this legal opinion in connection with the Amendment on behalf of the Borrower.
-
-We have examined originals of the Amendment. We have also examined the relevant provisions of national and international law applicable to the Borrower and the Borrower’s Agent, the powers of signatories and such other documents as we have deemed necessary or appropriate. Furthermore, we have made such other investigations and reviewed such matters of law as we have considered relevant to the opinion expressed herein.
+We warrant that we are competent to issue this legal opinion in connection with the Amendment on behalf of the Borrower. We have examined originals of the Amendment. We have also examined the relevant provisions of national and international law applicable to the Borrower and the Borrower’s Agent, the powers of signatories and such other documents as we have deemed necessary or appropriate. Furthermore, we have made such other investigations and reviewed such matters of law as we have considered relevant to the opinion expressed herein.
 
 We have assumed (i) the genuineness of all signatures (except the Borrower and the Borrower’s Agent) and the conformity of all copies to originals, (ii) the capacity and power to enter into the Amendment of, and their valid authorisation and signing by, each party other than the Borrower and the Borrower’s Agent and (iii) the validity, binding effect and enforceability of the Amendment on each party under the laws of England.
 
@@ -196,7 +194,9 @@ Subject to the foregoing, we are of the opinion that:
 
 6.No taxes, duties, fees or other charges imposed by the Hellenic Republic or any taxing authority thereof or therein are payable in connection with the execution and delivery of the Amendment and with any payment or transfer of principal, interest, commissions and other sums due under the Amendment.
 
-7.No exchange control authorisations are required and no fees or other commission are to be paid on the transfer of any sum due under the Amendment. 8.The signature of the Amendment by [insert name], Governor of the Bank of Greece legally and validly binds the Borrower’s Agent.
+7.No exchange control authorisations are required and no fees or other commission are to be paid on the transfer of any sum due under the Amendment.
+
+8.The signature of the Amendment by [insert name], Governor of the Bank of Greece legally and validly binds the Borrower’s Agent.
 
 9.The choice of English law as governing law for the Amendment is a valid choice of law binding the Borrower in accordance with Hellenic law.
 
@@ -252,7 +252,9 @@ Interest Payment Dates Principal Repayments (€)
 
 15/03/2024 661.250.000,00
 
-15/06/2024 661.250.000,00 15/09/2024 661.250.000,00
+15/06/2024 661.250.000,00
+
+15/09/2024 661.250.000,00
 
 15/12/2024 661.250.000,00
 
@@ -262,9 +264,7 @@ Interest Payment Dates Principal Repayments (€)
 
 15/09/2025 661.250.000,00
 
-15/12/2025 661.250.000,00
-
-15/03/2026 661.250.000,00
+15/12/2025 661.250.000,00 15/03/2026 661.250.000,00
 
 15/06/2026 661.250.000,00
 
@@ -336,7 +336,9 @@ Interest Payment Dates Principal Repayments (€)
 
 15/12/2034 661.250.000,00
 
-15/03/2035 661.250.000,00 15/06/2035 661.250.000,00
+15/03/2035 661.250.000,00
+
+15/06/2035 661.250.000,00
 
 15/09/2035 661.250.000,00
 
@@ -346,9 +348,7 @@ Interest Payment Dates Principal Repayments (€)
 
 15/06/2036 661.250.000,00
 
-15/09/2036 661.250.000,00
-
-15/12/2036 661.250.000,00
+15/09/2036 661.250.000,00 15/12/2036 661.250.000,00
 
 15/03/2037 661.250.000,00
 
@@ -402,9 +402,7 @@ Directorate General Economic and Financial Affairs — Unit L-4 “Lending, Borr
 
 European Central Bank
 
-Kaiserstrasse 29 60311 Frankfurt am Main, Germany Attention: Head of Financial Operations Services Division Fax: + 49 69 1344 6171 SWIFT BIC: [ ].
-
-For the Borrower:
+Kaiserstrasse 29 60311 Frankfurt am Main, Germany Attention: Head of Financial Operations Services Division Fax: + 49 69 1344 6171 SWIFT BIC: [ ]. For the Borrower:
 
 Ministry of Finance
 
