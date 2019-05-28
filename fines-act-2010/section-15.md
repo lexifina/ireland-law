@@ -1,3 +1,3 @@
-Payment of fines by instalments.
+Payment of fines by instalments. (repealed)
 
 15.—...

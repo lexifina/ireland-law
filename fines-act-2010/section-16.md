@@ -1,3 +1,3 @@
-Appointment of receiver in default of payment of fine.
+Appointment of receiver in default of payment of fine. (repealed)
 
 16.—...
