@@ -36,7 +36,7 @@ Effect of Special Liquidation Order.
 
 (iv) any other authority which regulates, or which may investigate or prosecute, any person under or by virtue of any enactment, rule of law or contract.
 
-(7) (a) In this subsection ‘Act of 1879’ means the Bankers’ Books Evidence Act 1879.
+[(7) (a) In this subsection ‘Act of 1879’ means the Bankers’ Books Evidence Act 1879.
 
 (b) Where—
 
@@ -60,4 +60,4 @@ Effect of Special Liquidation Order.
 
 (ii) references in that Act to bankers’ books were to the ordinary books and records of a special liquidator or IBRC, as the case may be, or the ordinary books and records of IBRC in the custody or under the control of a special liquidator, and
 
-(iii) references in that Act to an officer of a bank were to a special liquidator or an officer or employee of, or other person duly authorised in that behalf by, a special liquidator or to an officer or employee of IBRC.
+(iii) references in that Act to an officer of a bank were to a special liquidator or an officer or employee of, or other person duly authorised in that behalf by, a special liquidator or to an officer or employee of IBRC.]

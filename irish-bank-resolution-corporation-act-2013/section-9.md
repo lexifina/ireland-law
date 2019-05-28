@@ -4,7 +4,7 @@ Instructions and directions.
 
 (2) If the Minister is of the opinion that it is necessary for the achievement of any of the purposes of this Act to do so, he or she may give a direction to a special liquidator to take or to refrain from taking any action in connection with the winding up of IBRC.
 
-(2A) (a) The Minister may, for the purpose of enabling the Commission to perform its functions, give a direction to the special liquidator to do or refrain from doing any such act as is specified in the direction.
+[(2A) (a) The Minister may, for the purpose of enabling the Commission to perform its functions, give a direction to the special liquidator to do or refrain from doing any such act as is specified in the direction.
 
 (b) A direction under paragraph (a) may include a requirement that the special liquidator waive legal professional privilege.
 
@@ -14,7 +14,7 @@ Instructions and directions.
 
 (ii) in the public interest.
 
-(d) In this subsection ‘Commission’ means the commission of investigation established by the Commission of Investigation (Irish Bank Resolution Corporation) Order 2015 (S.I. No. 253 of 2015).
+(d) In this subsection ‘Commission’ means the commission of investigation established by the Commission of Investigation (Irish Bank Resolution Corporation) Order 2015 (S.I. No. 253 of 2015).]
 
 (3) A special liquidator shall comply with instructions issued or any direction given under this Act.
 
