@@ -50,11 +50,11 @@ Reference Number Section of Principal Act Maximum Fine (1) (2) (3)
 
 22. Section 265 (3) 200
 
-23. Section 266 (1) 100 Reference Number Section of Principal Act Maximum Fine (1) (2) (3)
+23. Section 266 (1) 100
 
 24. Section 267 (1) 200
 
-25. Section 268 (1) 1,000
+25. Section 268 (1) 1,000 Reference Number Section of Principal Act Maximum Fine (1) (2) (3)
 
 26. Section 268 (2) 500
 

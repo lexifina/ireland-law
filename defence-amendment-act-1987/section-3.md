@@ -26,9 +26,7 @@ Increase of fines and compensation awardable under sections 177, 178 and 179 of 
 
 “(a) a fine not exceeding an amount equal to a day’s pay of the offender,”, and
 
-(b) the substitution in subsection (4) of “or an amount equal to four days’ pay of the offender” for “or the sum of three pounds”, and the said subsection (4), as amended by this subsection, is set out in paragraph 3 of the Table to this section.
-
-TABLE
+(b) the substitution in subsection (4) of “or an amount equal to four days’ pay of the offender” for “or the sum of three pounds”, and the said subsection (4), as amended by this subsection, is set out in paragraph 3 of the Table to this section. TABLE
 
 1. (f) where—
 

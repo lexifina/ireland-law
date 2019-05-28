@@ -1,4 +1,4 @@
-Offences relating to drugs, volatile substances and volatile prepa-rations.
+Offences
 
 5.—The Principal Act is hereby amended by the insertion of the following section after section 142:
 
