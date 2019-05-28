@@ -26,9 +26,7 @@ THIS AMENDMENT (the “Amendment”) TO THE EUR 80 000 000 000 LOAN FACILITY AGR
 
 (C) The Bank of Greece acting as agent on behalf of the Borrower (hereinafter referred to as the “Borrower’s Agent”), represented by the Governor of the Bank of Greece.
 
-PREAMBLE
-
-Whereas:
+PREAMBLE Whereas:
 
 (1) A EUR 80 000 000 000 Loan Facility Agreement dated 8 May 2010 (hereinafter referred to as the “Agreement”) has been made between the Lenders and the Hellenic Republic and the Bank of Greece.
 
@@ -120,17 +118,19 @@ KINGDOM OF BELGIUM, IRELAND, KINGDOM OF SPAIN,
 
 Represented by
 
-FRENCH REPUBLIC, ITALIAN REPUBLIC, REPUBLIC OF — signed — CYPRUS, GRAND DUCHY OF LUXEMBOURG, REPUBLIC OF
+FRENCH REPUBLIC, ITALIAN REPUBLIC, REPUBLIC OF — signed — CYPRUS, GRAND DUCHY OF LUXEMBOURG, REPUBLIC
 
 Evangelos Venizelos
 
-MALTA, KINGDOM OF THE NETHERLANDS, REPUBLIC OF
+OF MALTA, KINGDOM OF THE NETHERLANDS, REPUBLIC
 
 Minister of Finance
 
-AUSTRIA, PORTUGUESE REPUBLIC, REPUBLIC OF SLOVENIA and REPUBLIC OF FINLAND as Lenders represented by:
+OF AUSTRIA, PORTUGUESE REPUBLIC, REPUBLIC OF SLOVENIA and REPUBLIC OF FINLAND as Lenders represented by:
 
-EUROPEAN COMMISSION Represented by
+EUROPEAN COMMISSION
+
+Represented by
 
 — signed —
 
@@ -170,9 +170,7 @@ We have examined originals of the Amendment. We have also examined the relevant 
 
 We have assumed (i) the genuineness of all signatures (except the Borrower and the Borrower’s Agent) and the conformity of all copies to originals, (ii) the capacity and power to enter into the Amendment of, and their valid authorisation and signing by, each party other than the Borrower and the Borrower’s Agent and (iii) the validity, binding effect and enforceability of the Amendment on each party under the laws of England.
 
-Terms used and not defined in this opinion shall have the meaning set out in the Loan Facility Agreement and the Amendment.
-
-This opinion is limited to Hellenic law as it stands at the date of this opinion.
+Terms used and not defined in this opinion shall have the meaning set out in the Loan Facility Agreement and the Amendment. This opinion is limited to Hellenic law as it stands at the date of this opinion.
 
 Subject to the foregoing, we are of the opinion that:
 
@@ -202,9 +200,7 @@ Subject to the foregoing, we are of the opinion that:
 
 13. Under the Hellenic law no ratification from Parliament is required for this Amendment in order to be effective and binding [insert reference].
 
-14. In conclusion, the Amendment has been duly executed on behalf of the Borrower and all the Borrower’s obligations in relation to the Amendment and the Loan Facility Agreement, as amended by the Amendment, are valid, binding and enforceable in accordance with their terms and nothing further is required to give effect to the same.
-
-Legal Advisor to the State at the Ministry of Justice, Transparency and Human Rights and the Legal Advisor to the State at the Ministry of Finance
+14. In conclusion, the Amendment has been duly executed on behalf of the Borrower and all the Borrower’s obligations in relation to the Amendment and the Loan Facility Agreement, as amended by the Amendment, are valid, binding and enforceable in accordance with their terms and nothing further is required to give effect to the same. Legal Advisor to the State at the Ministry of Justice, Transparency and Human Rights and the Legal Advisor to the State at the Ministry of Finance
 
 ANNEX 2 AMENDED SCHEDULED PRINCIPAL REPAYMENTS 1. The Scheduled Principal Repayments of the 1st Loan shall be as follows:
 

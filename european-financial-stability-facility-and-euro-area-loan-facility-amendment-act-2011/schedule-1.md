@@ -210,7 +210,7 @@ If, on the date of disbursement of a Financial Assistance, the Notes issued to f
 
 (c) each occurrence of the word “Borrower” shall be replaced by “Beneficiary Member State” and the word “Loan” replaced by “Financial Assistance”;
 
-(d) in the third sentence, the word “is” falling after the words “Loan Facility Agree-ment” and prior to the words “released following the initial signature” shall be replaced by the words “shall be”;
+(d) in the third sentence, the word “is” falling after the words “Loan Facility Agreement” and prior to the words “released following the initial signature” shall be replaced by the words “shall be”;
 
 (e) in the third sentence, the words “or utilised” shall be added after the word “released”; and
 
@@ -368,7 +368,7 @@ If, on the date of disbursement of a Financial Assistance, the Notes issued to f
 
 (3) It is acknowledged and agreed that the amendments to the Framework Agreement shall not alter or affect the rights and obligations of the Parties in relation to any Loans disbursed prior to the Effective Date of the Amendments (the “Existing Loans”). The rights and obligations between the parties in relation to such Existing Loans shall continue to be governed by the terms and conditions of the Framework Agreement which applied prior to the Effective Date of the Amendments.
 
-(4) It is acknowledged and agreed that EFSF did not receive Amendment Confirmations from all of the Parties in relation to the agreement to amend the EFSF Framework Agreement signed between the parties in July 2011 (the “July Amendment Agree-ment”). Accordingly, the July Amendment Agreement did not enter into force and the parties agree that it shall be cancelled and of no legal effect.
+(4) It is acknowledged and agreed that EFSF did not receive Amendment Confirmations from all of the Parties in relation to the agreement to amend the EFSF Framework Agreement signed between the parties in July 2011 (the “July Amendment Agreement”). Accordingly, the July Amendment Agreement did not enter into force and the parties agree that it shall be cancelled and of no legal effect.
 
 (5) It is acknowledged and agreed that the Amendment Confirmation of a Member State may be of provisional application in accordance with the laws and legislation of the relevant Member State.
 
@@ -482,7 +482,7 @@ Kingdom of Belgium
 
 2.4256 3.4666%
 
-Federal Republic ofGermany
+Federal Republic of Germany
 
 18.9373 27.0647%
 
@@ -514,7 +514,7 @@ Republic of Cyprus
 
 0.1369 0.1957%
 
-Grand Duchy ofLuxembourg
+Grand Duchy of Luxembourg
 
 0.1747 0.2497%
 
