@@ -14,7 +14,7 @@ Netting agreements, etc.
 
 (b) affects the operation of any provision of the law of a Member State required for the implementation of the provisions of—
 
-(i) Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 (as amended by Directive 2009/44/EC of the European Parliament and of the Council of 6 May 2009), or
+(i) Directive 98/26/EC of the European Parliament and of the Council of 19 of the European May 1998 (as amended by Directive 2009/44/EC Parliament and of the Council of 6 May 2009), or
 
 (ii) Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 (as amended by Directive 2009/44/EC of the European Parliament and of the Council of 6 May 2009).
 
