@@ -32,13 +32,13 @@ PROVISIONS OF ACT WHICH APPLY TO MULTI-UNIT DEVELOPMENTS TO WHICH section 2(2) R
 
 12. Section 21 — (Owners’ management company annual charges).
 
-13. Section 22— (Recovery of charges and contributions).
+13. Section 22 — (Recovery of charges and contributions).
 
 14. Section 24 — (Dispute resolution and rehabilitation of multi-unit developments) (other than subsections (5)(b) and (5)(h) of that section).
 
 15. Section 25 — (Persons who may apply under section 24).
 
-16. Section 26— (Jurisdiction and venue of Circuit Court).
+16. Section 26 — (Jurisdiction and venue of Circuit Court).
 
 17. Section 27 — (Mediation conferences).
 

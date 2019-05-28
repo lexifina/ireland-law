@@ -34,6 +34,6 @@ PROVISIONS OF THIS ACT WHICH APPLY TO MULTI-UNIT DEVELOPMENTS COMPRISING 2 OR MO
 
 16. Section 30 (Restoration of certain companies to register).
 
-17. Section 31(Transfer of benefit of guarantees and warranties).
+17. Section 31 (Transfer of benefit of guarantees and warranties).
 
 18. Section 32 (Restriction on entering into certain contracts).
