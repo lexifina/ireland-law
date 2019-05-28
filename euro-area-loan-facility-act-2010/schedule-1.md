@@ -54,7 +54,11 @@ The Parties may participate in the negotiations with the Borrower led by the Com
 
 (b) If a Lender encounters higher funding costs, it may by written notice together with supporting information satisfactory to the other Lenders request the Parties (with a copy to the Commission and the Euro Working Group Chairman) to accept that the Lender in question does not participate in the Loans to be made. The decision of the Parties is to be made at the latest when they decide upon a Loan in accordance with Article 4(2).
 
-6. An up-front Service Fee calculated on the principal amount of each Loan shall be charged to the Borrower and deducted from the cash amount to be remitted to the Borrower in respect of each such Loan (such that the Borrower receives the net amount), to cover operational costs. The Service Fee will be deducted from the cash amount remitted to Borrower in respect of each Loan (but shall not reduce the principal amount of such Loan that the Borrower is liable to repay) and will be allocated by the Commission to the Lenders actually contributing to that disbursement, proportionally to the participation of each such Lender in the total amount of that Loan. In the event of a re-allocation of the Loans made by different Lenders in accordance with Article 6(2) there shall be a re-allocation of such Service Fee amongst all Lenders who participate in the Loans on a pro rata basis.
+6. An up-front Service Fee calculated on the principal amount of each Loan shall be charged to the Borrower and deducted from the cash amount to be remitted to the Borrower in respect of each such Loan (such that the Borrower receives the net amount), to cover operational costs. The Service Fee will be deducted from the cash amount remitted to Borrower in respect of each Loan (but shall not reduce the principal amount of such Loan that the Borrower is liable to repay) and will be allocated by the Commission to the Lenders actually contributing to that disbursement, proportionally to the participation of each such Lender in the total amount of that Loan. In the event of a re-allocation of the Loans made by different Lenders in accordance with Article
+
+In particular parliamentary authorisation.
+
+6(2) there shall be a re-allocation of such Service Fee amongst all Lenders who participate in the Loans on a pro rata basis.
 
 7. The Borrower may only request the disbursement of a Loan during the Availability Period specified in the Loan Facility Agreement. The Parties may at any time unanimously decide to extend the Availability Period. The Parties may also, acting unanimously, agree to increase the Commitments and the aggregate amount of the Loans to be made available under the Loan Facility Agreement. In this event Germany shall procure that KfW extends the Availability Period and/or increases its Commitment under the Loan Facility Agreement accordingly.
 
@@ -118,6 +122,8 @@ If the Actual % Contribution of any Committed Lender in the aggregate of any out
 
 (1) each such Committed Lender to transfer to the ECB an amount equal to the aggregate of its Shortfall Participation Amounts (less the amount of the Service Fee attributable to such Shortfall Participation Amount) in relation to all outstanding Loans to the account referred to in Article 3; and
 
+For clarification purposes, if all Lenders successfully finalise — where required — their respective national legal procedures, the Adjusted % Contribution will be identical to the Contribution Key.
+
 (2) the ECB, following receipt of the aggregate of the Shortfall Participation Amount pursuant to Paragraph (i) above, to make payments to all Committed Lenders, whose Actual % Contribution in any Loan outstanding exceeds their respective Adjusted % Contribution in relation to such Loan, in an amount equal to the aggregate of each such Committed Lender’s Excess Participation Amounts (less the amount of the Service Fee attributable to such Excess Participation Amount) in relation to all Loans outstanding
 
 (each a “Balancing Payment”). The Balancing Payments shall all be made on the same day. The recalculation becomes effective on the day when such Balancing Payments are made.
@@ -136,7 +142,7 @@ The Committed Lenders shall (i) pay to, or receive a payment from, the account r
 
 4. In case that the Borrower does not pay any amount due in full, the amounts received will be distributed pro rata according to the rules set out in Article 6(2). The application of default interest on overdue amounts and the allocation of funds towards payment of fees, costs, interest and principal will be effected in accordance with the provisions of the Loan Facility Agreement.
 
-7. BREACH OF OBLIGATIONS UNDER THE LOAN FACILITY AGREEMENT AND AMEND- MENTS AND/OR WAIVERS TO IT
+7. BREACH OF OBLIGATIONS UNDER THE LOAN FACILITY AGREEMENT AND AMENDMENTS AND/OR WAIVERS TO IT
 
 1. In case that the Commission becomes aware of a breach of an obligation under the Loan Facility Agreement, it shall promptly inform the Parties (through the Euro Working Group Chairman) and the ECB about this situation and shall propose how to react to it. The Euro Working Group Chairman will coordinate the position of the Parties and will inform the Commission and the ECB of the decision taken. The Commission and the Lenders will thereafter implement the decision in accordance with the Loan Facility Agreement.
 
@@ -184,7 +190,11 @@ The Parties acknowledge and agree as follows:
 
 5. Each Lender is required to inform the Commission promptly in writing (i) that its contribution to the Loan Facility Agreement is duly authorised under the national law applicable to it after the signature thereof, or (ii) if subject to such procedures, as soon as they have been duly completed, and deliver to the Commission a Commitment Confirmation. It is acknowledged and agreed that the Commitment Confirmation of a Party may be of provisional application in accordance with the national laws and legislation of the relevant Party. 11. COMMUNICATIONS
 
-All notices in relation to this Agreement shall be validly given if in writing and sent to: For the Parties:
+All notices in relation to this Agreement shall be validly given if in writing and sent to:
+
+For the Parties:
+
+Commission Decision C(2005)2992 of 9 August 2005.
 
 The Eurogroup Working Group Chairman c/o EWG Secretariat B-1049 Brussels
 
@@ -218,7 +228,9 @@ This Agreement may be executed in any number of counterparts signed by one or mo
 
 The Commission shall promptly after the signature of this Agreement supply conformed copies of the Agreement to each of the Parties.
 
-16. ANNEXES The Annexes to this Agreement shall constitute an integral part thereof:
+16. ANNEXES
+
+The Annexes to this Agreement shall constitute an integral part thereof:
 
 1. List of Parties with their respective Commitments;
 
@@ -388,9 +400,7 @@ Re:Loan Facility Agreement with the Hellenic RepublicLoan N° [ ] for EUR [ ], f
 
 In accordance with the decision of the Euro Working Group of [date] transmitted by its Chairman, we hereby instruct you, in your capacity as Lender under the Loan Facility Agreement [dated] and in accordance with Art. 5(1) of the Intercreditor Agreement, to transfer to the account at the European Central Bank an amount of EUR [ ] (i.e. loan amount of EUR [ ] minus service fee of EUR [ ]).
 
-We request you to transfer via SWIFT message MT202 [or another SWIFT message agreed with the ECB] in TARGET2 for value [date], before 11:00 a.m. Brussels time to the TARGET2 participant SWIFT-BIC: ECBFDEFFBAC, in favour of account number 4050992001, account name “Pooled bilateral loans EC/Lenders” with ref.: “Euro Area Stability support to Greece”.
-
-Please provide us and the ECB with a copy of the transfer instructions at least two Business Days before the value date. These instructions shall be irrevocable and may not be varied except with the consent of yourselves and the Commission.
+We request you to transfer via SWIFT message MT202 [or another SWIFT message agreed with the ECB] in TARGET2 for value [date], before 11:00 a.m. Brussels time to the TARGET2 participant SWIFT-BIC: ECBFDEFFBAC, in favour of account number 4050992001, account name “Pooled bilateral loans EC/Lenders” with ref.: “Euro Area Stability support to Greece”. Please provide us and the ECB with a copy of the transfer instructions at least two Business Days before the value date. These instructions shall be irrevocable and may not be varied except with the consent of yourselves and the Commission.
 
 Terms not defined in this letter shall have the same meaning as in the Loan Facility Agreement.
 
