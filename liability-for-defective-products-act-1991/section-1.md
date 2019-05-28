@@ -16,9 +16,9 @@ Provided that the item of property—
 
 (ii) was used by the injured person mainly for his own private use or consumption;
 
-(1) O.J. No. L210 of 7.8.1985, p.29 (2) O.J. No. L141 of 4.6.1999, p.20, and
-
 “initial processing” means, in relation to primary agricultural products, any processing of an industrial nature of those products which could cause a defect therein;
+
+(1) O.J. No. L210 of 7.8.1985, p.29 (2) O.J. No. L141 of 4.6.1999, p.20, and
 
 “injured person” means a person who has suffered damage caused wholly or partly by a defect in a product or, if he has died, his personal representative (within the meaning of section 3 of the Succession Act, 1965) or dependants (within the meaning of section 47 (1) of the Civil Liability Act, 1961);
 
