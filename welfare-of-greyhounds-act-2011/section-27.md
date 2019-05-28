@@ -20,7 +20,7 @@ Fixed payment notice.
 
 (3) In a prosecution for an offence under this Act, the onus of proving that a payment pursuant to a notice under this section has been made lies on the defendant.
 
-(4) In proceedings for an offence under section 10(6),12(17) or (18) or15(7) it is a good defence for the defendant to prove that he or she has made a payment in accordance with this section pursuant to a fixed payment notice issued in respect of that offence.
+(4) In proceedings for an offence under section 10(6), 12(17) or (18) or 15(7) it is a good defence for the defendant to prove that he or she has made a payment in accordance with this section pursuant to a fixed payment notice issued in respect of that offence.
 
 (5) Moneys received pursuant to the giving of a fixed payment notice shall be disposed of in a manner determined by the Board, Club or relevant local authority specified in the notice.
 
