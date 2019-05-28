@@ -4,7 +4,7 @@ Definitions.
 
 “Agency” means National Treasury Management Agency;
 
-“Carbon Fund” has the meaning assigned to it by section 2;
+“Carbon Fund” has the meaning assigned to it by section 2 ;
 
 “Convention” means United Nations Framework Convention on Climate Change done at New York on 9th May 1992;
 
