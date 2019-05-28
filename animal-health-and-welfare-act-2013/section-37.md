@@ -2,7 +2,7 @@
 
 Appointment of authorised officer.
 
-37.—(1) The Minister or an authorised officer of the Department may for the purposes of enforcing this Act or an EU measure, appoint in writing, such persons or classes of person as he or she considers appropriate to be authorised officers for the exercise of all or any of the functions conferred on an authorised officer under this Act specified in the appointment.
+37.—(1) The Minister ... may for the purposes of enforcing this Act or an EU measure, appoint in writing, such persons or classes of person as he or she considers appropriate to be authorised officers for the exercise of all or any of the functions conferred on an authorised officer under this Act specified in the appointment.
 
 (2) The chief executive of a local authority for the purposes of enforcing this Act in the functional area of the authority, or other authority in accordance with subsection (6)(b), may, appoint in writing, such officers of the authority as he or she considers appropriate to be authorised officers for the exercise of all or any of the functions conferred on an authorised officer under this Act in the functional area of the authority, or other authority in accordance with subsection (6)(b), specified in the appointment.
 

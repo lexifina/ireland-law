@@ -22,4 +22,4 @@ Service of notice, etc.
 
 (4) A person who contravenes subsection (3) commits an offence and is liable on summary conviction to a class B fine.
 
-(5) For the purposes of this section, a company within the meaning of the Companies Acts is considered to be ordinarily resident at its registered office and every other body corporate or unincorporated body is considered to be ordinarily resident at its principal office or place of business.
+(5) For the purposes of this section, a company formed and registered under the Companies Act 2014 or an existing company with the meaning of that Act is considered to be ordinarily resident at its registered office and every other body corporate or unincorporated body is considered to be ordinarily resident at its principal office or place of business.

@@ -12,7 +12,7 @@ Forgery.
 
 (d) an animal health and welfare notice, or
 
-(e) a notice erected under animal health and welfare regulations or an animal health and welfare notice.
+(e) a notice erected under animal health and welfare regulations ....
 
 (2) A person shall not alter with intent to defraud or deceive, or utter knowing it to be so altered—
 
@@ -24,7 +24,7 @@ Forgery.
 
 (d) an animal health and welfare notice, or
 
-(e) a notice erected under animal health and welfare regulations or an animal health and welfare notice.
+(e) a notice erected under animal health and welfare regulations ....
 
 (3) A person shall not have, without lawful authority (the proof of which lies on him or her), in his or her possession or under his or her control a document that has been forged, uttered or altered in contravention of subsection (1) or (2).
 

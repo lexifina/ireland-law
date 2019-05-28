@@ -2,7 +2,7 @@ Penalties and proceedings, etc.
 
 26.— (1) A person who commits an offence under section 10(6), 12(17) or (18) or 15(7) is liable on summary conviction to a class A fine.
 
-(2) A person who commits an offence under section 8, 11(1) or (2), 16, 20(5), 24 or 25 is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
+(2) A person who commits an offence under section 8, 11(1), (2) or (3B), 16, 20(5), 24 or 25 is liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 6 months or to both.
 
 (3) An offence under this Act may be brought and prosecuted by—
 

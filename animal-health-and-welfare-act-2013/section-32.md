@@ -14,7 +14,7 @@ Valuation.
 
 (5) A second valuation shall be carried out by another valuer chosen in accordance with regulations under subsection (8).
 
-(6) The Minister may issue guidelines relating to the valuation of a farm animal, animal product, animal feed or other thing relating to a farm animal and a valuer, or an arbitrator appointed under section 34, shall have regard to those guidelines (if any) when carrying out valuations.
+(6) The Minister may issue guidelines relating to the valuation of a farm animal, animal product, animal feed or other thing relating to a farm animal and a valuer, or an arbitrator appointed under this section, shall have regard to those guidelines (if any) when carrying out valuations.
 
 (7) The killing, destruction or disposal of an animal, animal product, animal feed or other thing relating to a farm animal shall, in the interests of—
 
