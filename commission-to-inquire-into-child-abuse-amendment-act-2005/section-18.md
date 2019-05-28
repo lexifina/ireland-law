@@ -1,4 +1,4 @@
-Periods in relation to which Confidential Committee and Investigation Committee perform their functions.
+Periods
 
 18.—(1) Notwithstanding anything in the Principal Act, the Commission may direct a Committee to perform its functions in relation to a specified period (“a specified period”) that is longer than the relevant period and, if it does so—
 
