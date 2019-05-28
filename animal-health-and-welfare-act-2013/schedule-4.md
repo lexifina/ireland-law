@@ -36,7 +36,9 @@ Orders under the Diseases of Animals Act 1966
 
 16. Importation of Pathogenic Agents Order 1997 (S.I. No. 373 of 1997)
 
-17. Brucellosis in Cattle (General Provisions) (Amendment) Order 1998 (S.I. No. 39 of 1998) 18. Diseases of Animals (Carriage of Cattle by Sea) (Amendment) Order 1998 (S.I. No. 343 of 1998)
+17. Brucellosis in Cattle (General Provisions) (Amendment) Order 1998 (S.I. No. 39 of 1998)
+
+18. Diseases of Animals (Carriage of Cattle by Sea) (Amendment) Order 1998 (S.I. No. 343 of 1998)
 
 19. Diseases of Animals (Carriage of Cattle by Sea) (Amendment) (No. 2) Order 1998 (S.I. No. 506 of 1998)
 
@@ -66,9 +68,7 @@ Orders under the Diseases of Animals Act 1966
 
 32. Diseases of Animals Act 1966 (Monkey Pox Virus) Order 2003 (S.I. No. 279 of 2003)
 
-33. Brucellosis in Cattle (General Provisions) (Amendment) Order 2003 (S.I. No. 700 of 2003)
-
-34. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2004 (S.I. No. 508 of 2004)
+33. Brucellosis in Cattle (General Provisions) (Amendment) Order 2003 (S.I. No. 700 of 2003) 34. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2004 (S.I. No. 508 of 2004)
 
 35. Bovine Tuberculosis (Attestation of the State and General Provisions) (Amendment) Order 2005 (S.I. No. 7 of 2005)
 
@@ -94,7 +94,9 @@ Orders under the Diseases of Animals Act 1966
 
 46. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2009 (S.I. No. 323 of 2009)
 
-47. Diseases of Animals Act 1966 (Control on salmonella in swine) Order 2009 (S.I. No. 522 of 2009) 48. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2010 (S.I. No. 289 of 2010)
+47. Diseases of Animals Act 1966 (Control on salmonella in swine) Order 2009 (S.I. No. 522 of 2009)
+
+48. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2010 (S.I. No. 289 of 2010)
 
 49. Bovine Tuberculosis (Attestation of the State and General Provisions) (Amendment) Order 2010 (S.I. No. 307 of 2010)
 
