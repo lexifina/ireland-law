@@ -34,7 +34,7 @@ Functions of authorised officer.
 
 (b) a disease or disease agent is or may be present on any land or premises,
 
-(c) an offence is being or has been committed under this Act, or
+(c) an offence is being or has been committed under this Act or an EU measure, or
 
 (d) evidence of a disease or a disease agent, or an offence to which paragraph (c) relates may be, is or has been on any land or premises, or in a vehicle, a vessel, an aircraft, a railway wagon, a container, equipment or machinery, the officer may, in addition to the powers exercisable by him or her under subsection (1):
 

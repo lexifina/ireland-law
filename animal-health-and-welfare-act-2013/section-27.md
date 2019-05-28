@@ -18,7 +18,7 @@ Duty to pay levy before export of live animals.
 
 (e) the keeping of records and the making of returns (including electronic records and returns) for the purposes of this Part,
 
-(f) the persons or a class of persons by whom such records are to be maintained or returns made,
+(f) the persons or class of persons by whom such records are to be maintained or returns made,
 
 (g) the period for which such records are to be maintained,
 

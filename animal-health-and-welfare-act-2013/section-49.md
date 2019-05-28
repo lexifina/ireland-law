@@ -2,7 +2,7 @@
 
 Fixed payment notice.
 
-49.—(1) Where an authorised officer has reasonable grounds for believing that a person is committing or has committed an offence under section 18, 51(4) or 36(4)(a), an offence referred to in section 52(1) or an offence under section 64(4), he or she shall report this to, as the case may be, another officer of the Minister authorised by the Minister or another officer of the local authority concerned, authorised by the chief executive of that local authority, in that behalf.
+49.—(1) Where an authorised officer has reasonable grounds for believing that a person is committing or has committed an offence under section 18, 51(4), 36(4)(a) or 36A(a), an offence referred to in section 52(1) or an offence under section 64(4), he or she shall report this to, as the case may be, another officer of the Minister authorised by the Minister or another officer of the local authority concerned, authorised by the chief executive of that local authority, in that behalf.
 
 (2) An officer who receives a report under subsection (1), if he or she considers it appropriate, may serve on the person a notice in writing (“fixed payment notice”) stating that—
 

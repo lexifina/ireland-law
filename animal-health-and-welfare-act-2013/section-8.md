@@ -10,7 +10,7 @@ Prohibition on farm animals straying.
 
 (ii) the risk, or spread, of disease onto or from the land or premises on which the animal is kept, and
 
-(iii) the risk that the animal will damage the flora and fauna of the surrounding environment where the animal is contained, having regard to shared boundaries or commonage.
+(iii) the risk that the animal will damage the flora and fauna of the surrounding environment where the animal is contained.
 
 (2) A person shall not, without lawful excuse, damage or interfere with a building, gate, fence, hedge, boundary wall or other structure used to contain a farm animal.
 

@@ -1,6 +1,6 @@
 Forfeiture of animal.
 
-60.—(1) On conviction for an offence under section 36(4)(b)(ii) or referred to in section 52(2) the court may on application to it order the forfeiture to the prosecutor of any animal to which the offence relates and which is owned by the person convicted or, where the court is satisfied that the owner is unknown or cannot be found, where it considers it appropriate having regard to the welfare and interests of the animal and the fitness of the person convicted to own or have possession or control of an animal.
+60.—(1) On conviction for an offence under section 36(4)(b) or referred to in section 52(2) the court may on application to it order the forfeiture to the prosecutor of any animal to which the offence relates and which is owned by the person convicted or, where the court is satisfied that the owner is unknown or cannot be found, where it considers it appropriate having regard to the welfare and interests of the animal and the fitness of the person convicted to own or have possession or control of an animal.
 
 (2) Whenever an order is made under this section, an authorised officer, may for the purpose of giving it effect—
 

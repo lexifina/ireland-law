@@ -66,6 +66,8 @@ Animal health and welfare notice.
 
 (q) require a person in charge of a premises where disease is suspected or present to affix notices prohibiting or restricting entry to the land or premises in accordance with the notice.
 
+(3A) An animal health and welfare notice may contain such incidental, supplementary and consequential measures relating to the keeping of records and the making of returns by the person on whom the notice is served as appear to the authorised officer serving the notice to be necessary for the purposes of the notice having full effect or of providing evidence that the notice has full effect.
+
 (4) A person on whom an animal health and welfare notice is served shall—
 
 (a) comply with it until the notice expires or is annulled under section 43, and
