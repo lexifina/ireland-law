@@ -1,3 +1,3 @@
-Repeal.
+Repeal. (repealed)
 
 22.—...

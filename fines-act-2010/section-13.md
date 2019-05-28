@@ -1,3 +1,3 @@
-Service of documents.
+Service of documents. (repealed)
 
 13.—...

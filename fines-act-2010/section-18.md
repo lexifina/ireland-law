@@ -1,3 +1,3 @@
-Community service order in default of payment of fine.
+Community service order in default of payment of fine. (repealed)
 
 18.—...

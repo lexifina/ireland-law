@@ -1,3 +1,3 @@
-Approval by Government of persons for purposes of section 16.
+Approval by Government of persons for purposes of section 16. (repealed)
 
 20.—...
