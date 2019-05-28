@@ -8,7 +8,7 @@ Accountability of Agency.
 
 (c) the systems, procedures and practices employed by the Agency for the purpose of evaluating the effectiveness of its operations under this Act, and
 
-(d) any matter affecting the Agency referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993 or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in paragraph (a), (b) or (c)) that is laid before Dáil Éireann.
+(d) any matter affecting the Agency referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993 or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in paragraph (a) , (b) or (c) ) that is laid before Dáil Éireann.
 
 (2) When performing duties under this section, the Chief Executive of the Agency shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
 
