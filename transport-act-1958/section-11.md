@@ -1,4 +1,4 @@
-C.I.E. 3% Transport Stock, 1955- 60, to be a Government loan.
+C.I.E. 3% Transport Stock, 1955-60, to be a Government loan.
 
 11.—(1) The Minister for Finance shall be liable, to the exclusion of the Board, for the due payment of the principal, amounting to £9,889,083 of the Board's 3% Transport Stock, 1955-60 and that Stock shall be a Government loan for the purposes of the Government Loans (Conversion) Act, 1951.
 
