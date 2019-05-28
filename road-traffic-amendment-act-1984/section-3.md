@@ -48,6 +48,4 @@ Increase of certain other penalties under Principal Act, etc.
 
 (b) by the substitution of the following subsection for subsection (2):
 
-“(2) A person who contravenes subsection (1) of this section shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £350 or, at the discretion of the court, to imprisonment for any term not exceeding three months or to both such fine and such imprisonment.”.
-
-TABLE
+“(2) A person who contravenes subsection (1) of this section shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £350 or, at the discretion of the court, to imprisonment for any term not exceeding three months or to both such fine and such imprisonment.”. TABLE
