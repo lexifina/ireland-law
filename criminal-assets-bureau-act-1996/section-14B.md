@@ -1,4 +1,4 @@
-F23[Disclosure prejudicial to making available of material under section 14A.
+F23[ Disclosure prejudicial to making available of material under section 14A.
 
 14B.—(1) A person who, knowing or suspecting that an application is to be made, or has been made, under section 14A for an order in relation to making available any particular material or material of a particular description, makes any disclosure which is likely to prejudice the making available of the material in accordance with the order is guilty of an offence.
 

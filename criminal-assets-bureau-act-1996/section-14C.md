@@ -1,4 +1,4 @@
-F24[Property held in trust.
+F24[ Property held in trust.
 
 14C.—(1) For the purposes of an investigation into whether a person has benefited from assets or proceeds deriving from criminal conduct or is in receipt of or controls such assets or proceeds the Chief Bureau Officer or an authorised officer may apply to a judge of the High Court for an order under this section in relation to obtaining information regarding any trust in which the person may have an interest or with which he or she may be otherwise connected.
 
