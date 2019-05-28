@@ -14,7 +14,7 @@ Measures relating to animals in distress.
 
 (3) Where an authorised officer exercises a power under this section, otherwise than with the knowledge of a person who is responsible for the animal concerned, that officer must, as soon as reasonably practicable after exercising the power, take such steps as are reasonable in the circumstances to bring the exercise of the power to the notice of that person.
 
-(4) The costs of anything done under this section may berecovered by the authorised officer concerned, the local authority concerned or the Minister in a court of competent jurisdiction or by deducting the sum from any moneys due or becoming due and payable by the Minister to the person.
+(4) The costs of anything done under this section may be recovered by the authorised officer concerned, the local authority concerned or the Minister in a court of competent jurisdiction or by deducting the sum from any moneys due or becoming due and payable by the Minister to the person.
 
 (5) Where a local authority or the Minister proposes to recover the costs of anything done under this section, the authority or Minister, as the case may be, shall—
 
