@@ -6,7 +6,7 @@ Interpretation (Part 6).
 
 75.—(1) References in this Part to the referral of a matter to the Board for resolution are references to the referral of the matter for the purposes of mediation, a determination by an adjudicator or a determination by the Tribunal under this Part (or more than one of those things) being carried out or made in relation to it.
 
-(2) References in this Part to a dispute include references to a disagreement and, unless the context does not admit of such a construction, a complaint mentioned in section 56(2), 76(4), 77 or 195(4) or paragraph 8(2) of the Schedule to this Act.
+(2) References in this Part to a dispute include references to a disagreement and, unless the context does not admit of such a construction, a complaint mentioned in section 56(2), 76(4), 77 or 195(4) or paragraph 8(2) of Schedule 1 to this Act.
 
 (3) For the purposes of subsection (2) “disagreement” shall be deemed to include—
 

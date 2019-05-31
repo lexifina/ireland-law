@@ -14,6 +14,8 @@ Indemnification of certain persons.
 
 (d) a mediator or adjudicator,
 
+(da) an authorised officer or decision maker appointed under section 164A,
+
 (e) an adviser or consultant to the Board engaged under section 166, and
 
 (f) a person whose services are provided to the Board under section 167.

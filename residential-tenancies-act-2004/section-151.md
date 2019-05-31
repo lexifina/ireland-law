@@ -6,6 +6,8 @@ Functions of Board.
 
 (b) the registration of particulars in respect of tenancies in accordance with the provisions of Part 7,
 
+(ba) the investigation of landlords and the imposition of sanctions in accordance with the provisions of Part 7A,
+
 (c) the provision to the Minister of advice concerning policy in relation to the ... rented sector,
 
 (ca) the making of reports to the Minister under section 24A,

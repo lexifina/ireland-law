@@ -18,6 +18,6 @@ Fees.
 
 (4) The Board may recover, as a simple contract debt in any court of competent jurisdiction, from the person by whom it is payable, any amount due and owing to it under this or any other provision of this Act.
 
-(5) Fees received by the Board under this Act shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister may direct.
+(5) Fees received by the Board under this Act shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Public Expenditure and Reform may direct.
 
 (6) The Public Offices Fees Act 1879 shall not apply to any fees payable under this Act.
