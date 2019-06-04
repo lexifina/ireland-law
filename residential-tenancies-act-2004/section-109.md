@@ -10,7 +10,7 @@ Power of Board to make procedural rules.
 
 (b) require specified notifications to be given in respect of the referral of a dispute to the Board under this Part,
 
-(c) specify that a fee of specified amount shall be paid to the Board in respect of the Board's initially dealing with a dispute or the following of any other procedure under this Part in relation to it other than the procedure referred to in section 93(1) and 93(2),
+(c) specify that a fee of specified amount shall be paid to the Board in respect of the Board's initially dealing with a dispute or the following of any other procedure under this Part in relation to it ...,
 
 (d) specify the period within which—
 

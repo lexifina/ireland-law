@@ -4,7 +4,7 @@ Particulars to be specified in application under section 134.
 
 (a) the address of the dwelling,
 
-(b) the name, address for correspondence and personal public service number (if any) of the landlord and, where the application is made by his or her authorised agent, the name, address for correspondence and personal public service number (if any) of the agent,
+(b) the name, address where the landlord ordinarily resides, any other address for correspondence the landlord may wish to provide and the personal public service number (if any) of the landlord and, where the application is made by his or her authorised agent, the name, address for correspondence and personal public service number (if any) of the agent,
 
 (c) if the landlord is a company, the registered number and registered office of that company,
 

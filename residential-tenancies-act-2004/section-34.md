@@ -4,9 +4,19 @@ Grounds for termination by landlord.
 
 (a) on one or more of the grounds specified in the Table to this section if—
 
-(i) a notice of termination giving the required period of notice is served by the landlord in respect of the tenancy, and
+(i) a notice of termination giving the required period of notice is served by the landlord in respect of the tenancy, ...
 
-(ii) that notice of termination cites as the reason for the termination the ground or grounds concerned and, in the case of paragraph 4, 5 or 6 of that Table, contains or is accompanied by the statement referred to in that paragraph, or
+(ii) the notice of termination cites as the reason for the termination the ground or grounds concerned and contains or is accompanied—
+
+(I) in the case of paragraph 2, 5 or 6 of that Table, by the statement referred to in that paragraph, and
+
+(II) in the case of paragraph 3 or 4 of that Table, by the statutory declaration referred to in that paragraph, and
+
+(iii) in the case of a notice of termination that cites as the reason for the termination the ground specified in paragraph 5, the notice of termination contains or is accompanied by a certificate in writing of a registered professional (within the meaning of the Building Control Act 2007) stating that—
+
+(I) the proposed refurbishment or renovation works would pose a risk to the health or safety of the occupants of the dwelling concerned and should not proceed while the dwelling is occupied, and
+
+(II) such a risk is likely to exist for such period as is specified in the certificate which shall not be less than 3 weeks,
 
 (b) irrespective of whether any of those grounds exist, if—
 
@@ -26,7 +36,7 @@ Grounds for termination
 
 2. The dwelling is no longer suitable to the accommodation needs of the tenant and of any persons residing with him or her having regard to the number of bed spaces contained in the dwelling and the size and composition of the occupying household and the notice of termination is accompanied by a statement referred to in section 35.
 
-3. The landlord intends, within 3 months after the termination of the tenancy under this section, to enter into an enforceable agreement for the transfer to another, for full consideration, of the whole of his or her interest in the dwelling or the property containing the dwelling and the notice of termination is accompanied by a statutory declaration referred to in section 35.
+3. The landlord intends, within 9 months after the termination of the tenancy under this section, to enter into an enforceable agreement for the transfer to another, for full consideration, of the whole of his or her interest in the dwelling or the property containing the dwelling and the notice of termination is accompanied by a statutory declaration referred to in section 35.
 
 4. The landlord requires the dwelling or the property containing the dwelling for his or her own occupation or for occupation by a member of his or her family and the notice of termination (the “notice”) contains or is accompanied by a statutory declaration—
 
@@ -38,7 +48,7 @@ Grounds for termination
 
 (b) that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if the contact details requirement is complied with and the following conditions are satisfied—
 
-(i) the dwelling is vacated by the person referred to in subparagraph (a) within the period of 6 months from expiry of the period of notice required to be given by the notice or, if a dispute in relation to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, and
+(i) the dwelling is vacated by the person referred to in subparagraph (a) within the period of 12 months from expiry of the period of notice required to be given by the notice or, if a dispute in relation to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, and
 
 (ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 2, 3 or 6 of this Table.
 
@@ -52,7 +62,7 @@ Grounds for termination
 
 (b) that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if the contact details requirement is complied with and the following conditions are satisfied—
 
-(i) the dwelling becomes available for reletting within the period of 6 months from the expiry of the period of notice required to be given by the notice, or if a dispute in relation to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, and
+(i) the dwelling becomes available for reletting by reason of the completion of the works of refurbishment or renovation, and
 
 (ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 2, 3 or 6 of this Table.
 
@@ -72,6 +82,6 @@ Grounds for termination
 
 (b) that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if the contact details requirement is complied with and the following conditions are satisfied—
 
-(i) the dwelling becomes available for reletting within the period of 6 months from expiry of the period of notice required to be given by the notice or, if a dispute in relation to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, and
+(i) the dwelling becomes available for reletting within the period of 12 months from expiry of the period of notice required to be given by the notice or, if a dispute in relation to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, and
 
 (ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 2 or 3 of this Table.

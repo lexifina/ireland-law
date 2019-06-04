@@ -6,7 +6,13 @@ Damages for abuse of section 34 termination procedure.
 
 (b) that notice of termination cited as the reason for the termination one or more of the grounds specified in paragraphs 3 to 6 of the Table to section 34, and
 
-(c) (i) in case the ground cited is that specified in paragraph 3 of that Table, the thing mentioned in that paragraph is not done within the period specified in that paragraph,
+(c) (i) in case the ground cited is that specified in paragraph 3 of that Table—
+
+(I) an enforceable agreement of the type referred to in that paragraph is not entered into within the period specified therein,
+
+(II) the notice of termination is not accompanied by the statutory declaration referred to in section 35, or
+
+(III) the offer referred to in paragraph (aa) of subsection (8) of section 35 is not made in circumstances where the conditions specified in the said paragraph (aa) are satisfied,
 
 (ii) in case the ground cited is that specified in paragraph 4 of that Table, the occupation by the person concerned does not take place within a reasonable time after the service of the notice of termination or, in circumstances where such a requirement arises, the landlord does not comply with the requirement to make the offer referred to in that paragraph,
 
@@ -36,7 +42,11 @@ Damages for abuse of section 34 termination procedure.
 
 TABLE
 
-(c) (i) in case the ground cited is that specified in paragraph 3 of that Table, the thing mentioned in that paragraph is not done within the period of 3 months after the dispute in relation to the validity of the notice of termination is finally determined,
+(c) (i) in case the ground cited is that specified in paragraph 3 of that Table—
+
+(I) an enforceable agreement of the type referred to in that paragraph is not entered into within the period of 9 months after the tenant ceases to occupy the dwelling following the final determination of the dispute in relation to the validity of the notice of termination, or
+
+(II) an enforceable agreement of the type referred to in that paragraph is not entered into within that period and the conditions specified in paragraph (aa) of subsection (8) of section 35 are not satisfied,
 
 (ii) in case the ground cited is that specified in paragraph 4 of that Table, the occupation by the person concerned does not take place within a reasonable time after the dispute is so determined or, in circumstances where such a requirement arises, the landlord does not comply with the requirement to make the offer referred to in that paragraph,
 

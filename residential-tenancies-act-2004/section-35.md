@@ -16,13 +16,13 @@ Table to section 34: interpretation and supplemental.
 
 (4) In paragraph 4 of the Table the reference to a member of the landlord’s family is a reference to any spouse , civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, child, stepchild, foster child, grandchild, parent, grandparent, step parent, parent-in-law, brother, sister, nephew or niece of the landlord or a person adopted by the landlord under the Adoption Acts 1952 to 1998.
 
-(5) In paragraph 4(b), 5(b) and 6(b) of the Table the reference to the contact details requirement being complied with is a reference to the following requirement being complied with, namely, a requirement (which shall be specified in the statement concerned) that the former tenant notify in writing the landlord—
+(5) In paragraph (aa) of subsection (8) and paragraph 4(b), 5(b) and 6(b) of the Table the reference to the contact details requirement being complied with is a reference to the following requirement being complied with, namely, a requirement (which shall be specified in the statutory declaration or statement concerned) that the former tenant notify in writing the landlord—
 
 (a) within 28 days from the service of the notice of termination concerned, or, if a dispute as to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, of the means by which he or she can be contacted by the landlord so that the offer concerned can be made to him or her, and
 
 (b) as soon as practicable after any such change occurs, of any change in the means (as so notified) by which the former tenant can be contacted for that purpose.
 
-(6) If an offer such as is referred to in paragraph 4(b), 5(b) or 6(b) of the Table is accepted (within such reasonable period as shall be specified for that purpose in the offer) by the former tenant concerned (the “accepter”)—
+(6) If an offer such as is referred to in paragraph (aa) of subsection (8), or paragraph 4(b), 5(b) or 6(b) of the Table, is accepted (within such reasonable period as shall be specified for that purpose in the offer) by the former tenant concerned (the “accepter”)—
 
 (a) the resulting agreement is enforceable by the accepter (as well as by the offeror), and
 
@@ -36,7 +36,19 @@ Table to section 34: interpretation and supplemental.
 
 (8) The statutory declaration that is to accompany a notice of termination in respect of a termination referred to in paragraph 3 of the Table shall include—
 
-(a) a declaration that the landlord intends to enter into an enforceable agreement to transfer to another, for full consideration, of the whole of his or her interest in the dwelling or the property containing the dwelling, and
+(a) a declaration that the landlord intends to enter into an enforceable agreement to transfer to another, for full consideration, of the whole of his or her interest in the dwelling or the property containing the dwelling, ...
+
+(aa) a declaration that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if the following conditions are satisfied:
+
+(i) the contact details requirement is complied with;
+
+(ii) the landlord does not enter into an enforceable agreement of the type referred to in paragraph 3 of the Table within the period specified in that paragraph commencing—
+
+(I) on the expiration of the period of notice required to be given under subparagraph (i) of paragraph (a) of section 34, or
+
+(II) in circumstances where a dispute in relation to the validity of the notice is referred to the Board under Part 6 for resolution, on the final determination of that dispute; and
+
+(iii) the tenancy to which the notice relates has not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 2 or 6 of the Table,
 
 (b) where section 35A(3)(a) applies, a declaration that section 35A(2) does not apply to the said notice of termination as the price to be obtained by selling at market value the dwelling that is the subject of an existing tenancy to which Part 4 applies is more than 20 per cent below the market value that could be obtained for the dwelling with vacant possession, and that the application of that subsection would, having regard to all the circumstances of that case be unduly onerous on, or would cause undue hardship on, that landlord.
 
@@ -51,3 +63,5 @@ Table to section 34: interpretation and supplemental.
 (ii) the dates on which the intended works are to be carried out and the proposed duration of the period in which those works are to be carried out.
 
 (10) A notice of termination in respect of a termination made on the ground specified in paragraph 6 of the Table, or the statement referred to in that paragraph shall, for the purposes of the statement referred to in subparagraph (aa) of paragraph 6 of the Table, be accompanied by a copy of the planning permission required for the carrying out of the change of use of the dwelling concerned.
+
+(11) Where, in respect of a tenancy, a landlord serves on a tenant a notice of termination that cites, as a reason for the termination, a ground specified in the Table, the landlord shall give a copy of the notice of termination to the Board not later than 28 days after the expiration of the period of notice given by the notice of termination.

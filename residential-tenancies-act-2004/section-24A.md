@@ -10,7 +10,15 @@ Rent pressure zones
 
 (a) the information relating to the area concerned, as determined by reference to the information used to compile each Rent Index quarterly report, shows that the annual rate of increase in the average amount of rent for that area is more than 7 per cent in each of at least 4 of the 6 quarters (each being a period of 3 months that is contemporaneous with the period to which the Rent Index quarterly report concerned relates) preceding the period immediately prior to the date of the proposal by the Housing Agency to the Minister under subsection (1), and
 
-(b) the average rent for the area in the last quarter, as determined by reference to the manner referred to in paragraph (a), is above the average national rent (commonly referred to as the Rent Index national standardised rent) in the last quarter.
+(b) the average rent (determined by reference to the information specified in paragraph (a)) in the area in respect of the 3 months to which the most recent Rent Index quarterly report applies is—
+
+(i) in the case of the county of Kildare, the county of Meath, the county of Wicklow or a local electoral area in any one of those counties, above the average rent in the State (other than the Dublin Area) specified in that report, or
+
+(ii) in the case of any—
+
+(I) other county or local electoral area, or
+
+(II) any city, city and county or local electoral area situated in such city or city and county, above the average rent in the State (other than the Greater Dublin Area) specified in that report.
 
 (5) Where the Minister receives a rent zone report from the Director and the report confirms that the criteria in subsection (4) are satisfied, the Minister shall by order prescribe the area as a rent pressure zone for a specified period not exceeding 3 years.
 
@@ -35,6 +43,18 @@ Rent pressure zones
 (a) the administrative area of a housing authority, or
 
 (b) a local electoral area within the meaning of section 2 of the Local Government Act 2001;
+
+‘Dublin Area’ means—
+
+(a) the city of Dublin, and
+
+(b) the counties of South Dublin, Fingal and Dún Laoghaire-Rathdown;
+
+‘Greater Dublin Area’ means—
+
+(a) the Dublin Area, and
+
+(b) the counties of Kildare, Wicklow and Meath;
 
 ‘Housing Agency’ has the same meaning as it has in the Pyrite Resolution Act 2013;
 

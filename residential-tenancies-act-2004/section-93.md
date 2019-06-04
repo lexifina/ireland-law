@@ -4,7 +4,7 @@ Invitation to parties to resolve matter through mediation.
 
 (2) If each of the parties states, in response to that request, that he or she consents to the dispute being the subject of such mediation the Board shall arrange for the matter to be the subject of mediation by a person appointed by it from amongst the panel of mediators under section 164(4).
 
-(2A) No fee shall be payable by either party in respect of the arrangement by the Board, in accordance with subsection (2), for the matter to be the subject of mediation.
+(2A) ...
 
 (3) If any of the parties fails to respond to a request under subsection (1) or responds by stating that he or she does not consent to the matter concerned being the subject of mediation under section 95, the Board shall arrange for the matter to be the subject of adjudication under section 97 by a person appointed by it from amongst the panel of adjudicators under section 164(4).
 

@@ -24,10 +24,10 @@ Frequency with which rent reviews may occur.
 
 (b) subsection (3), shall, for the duration of the relevant period, be construed as references to ‘24 months’.
 
-(5) Subsections (4) and (6) shall cease to have effect on the day immediately before the fourth anniversary of the day on which section 25 of the Residential Tenancies (Amendment) Act 2015 came into operation and, on and from the first-mentioned day—
+(5) Subsections (4) and (6) shall cease to have effect on 1 January 2022 and from that day—
 
 (a) paragraphs (a) and (b) of subsection (1), and
 
 (b) subsection (3), shall be read as if subsection (4) had not been enacted.
 
-(6) In subsection (4), ‘relevant period’ means the period commencing on the day on which section 25 of the Residential Tenancies (Amendment) Act 2015 comes into operation and ending on the day immediately before the fourth anniversary of the day on which that section came into operation.
+(6) In subsection (4), ‘relevant period’ means the period commencing on the day on which section 25 of the Residential Tenancies (Amendment) Act 2015 comes into operation and ending on 31 December 2021.

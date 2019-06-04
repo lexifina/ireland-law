@@ -20,7 +20,7 @@ Binding nature of determination orders.
 
 (ii) such an order in the terms as it stands following the variation of it by the Director under subsection (5).
 
-(7) The Board may publish, in such manner as it thinks fit—
+(7) The Board shall publish, in such manner as it thinks fit—
 
 (a) a determination order issued by the Director (including such an order as it stands varied by it under subsection (5)),
 
