@@ -44,7 +44,7 @@ Interpretation.
 
 “qualification”, in relation to registration of a person in a designated profession, means a document that attests to the person’s having achieved the standard of proficiency required for registration in that profession, and that—
 
-(a) in the case of registration sought under section 38, has been approved by bye-law of the registration board of the profession concerned,
+(a) in the case of registration sought under section 38(2)(a), has been approved by bye-law of the registration board of the profession concerned,
 
 (b) in the case of registration sought under section 91(1), is listed in the third column of Schedule 3 opposite the profession concerned, or
 

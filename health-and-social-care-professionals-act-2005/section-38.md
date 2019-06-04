@@ -28,7 +28,7 @@ Registration in register of designated profession.
 
 (i) holds a professional qualification in that profession that the registration board concerned decides is one that attests to a standard of proficiency corresponding to the standard attested to by the relevant qualification referred to in paragraph (a), or
 
-(ii) holds a professional qualification that is one that the registration board concerned decides is not a professional qualification that attests to such a standard of proficiency, but is the subject of a decision of the registration board that he or she successfully completed, in the State, the aptitude test or adaptation period that the registration board has required of the person.
+(ii) holds a professional qualification that is one that the registration board concerned decides is not a professional qualification that attests to such a standard of proficiency, but is the subject of a decision of the registration board that he or she successfully completed, in the State, the aptitude test or adaptation period that the registration board has required of the person,
 
 (d) the person is a person, other than a person referred to in paragraph (a), (b) or (c), who—
 
@@ -38,7 +38,9 @@ Registration in register of designated profession.
 
 (I) listed opposite that profession in the third column of Schedule 3, or
 
-(II) prescribed under section 95 for that profession.
+(II) prescribed under section 95 for that profession, or
+
+(e) in the case of a relevant designated profession, the person is a person, other than a person referred to in paragraph (a), (b), (c) or (d), who holds a relevant professional qualification in that profession.
 
 (2A) Subject to subsection (2B), a person seeking registration as a member of the designated profession of optometrist shall not be registered as such unless he or she has undergone such courses of training and passed such examinations that, immediately before the relevant day, were specified for the purposes of section 24 of the Act of 1956 in rules made under section 18 of that Act.
 
@@ -64,6 +66,8 @@ Registration in register of designated profession.
 
 (d) was awarded a Bachelor of Science in Applied Health Science and a Diploma in Physical Therapy by the Institute of Physical Therapy and Applied Science Dublin after 1 January 2013.
 
+(2G) A document that purports to be evidence of the recognition referred to in the definition of ‘relevant professional qualification’ shall, for the purposes of this Act and in the absence of evidence to the contrary, be taken to be proof of such recognition.
+
 (3) A registration board may register a person in more than one division of a register if the person satisfies the conditions specified in the bye-laws for registration in each division.
 
 (4) In this section—
@@ -79,3 +83,25 @@ Registration in register of designated profession.
 (a) is essential in order for a person to practise the profession in the State, and
 
 (b) in the opinion of the registration board concerned, was not required in order for the person to obtain his or her professional qualification.
+
+‘relevant designated profession’ means a designated profession listed in the second column of Schedule 4;
+
+‘relevant person’, in relation to a relevant designated profession, means the person listed opposite that profession in the third column of Schedule 4;
+
+‘relevant professional qualification’, in relation to a relevant designated profession, means a professional qualification that was recognised by the relevant person—
+
+(a) as a professional qualification that attested to a standard of proficiency that rendered the holder thereof eligible for recruitment by the Health Service Executive (or any specified body within the meaning of section 56 of the Health Act 2004) in the profession to which that qualification relates, and
+
+(b) in the case of—
+
+(i) the relevant designated profession of dispensing optician or optometrist, either—
+
+(I) before 31 October 2015, or
+
+(II) on or after 31 October 2015 where an assessment for the purposes of such recognition was commenced by the relevant person before that date, and
+
+(ii) any other relevant designated profession, either—
+
+(I) before the date on which the register for the designated profession was established under section 36(1), or
+
+(II) on or after the date referred to in clause (I) where an assessment for the purposes of such recognition was commenced by the relevant person before that date.
