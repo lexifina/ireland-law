@@ -1,5 +1,3 @@
-## CHAPTER 3 Period of notice to be given
-
 What this Chapter does.
 
 65.—(1) This Chapter states the period of notice to be given by a notice of termination.

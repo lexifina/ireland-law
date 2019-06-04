@@ -16,6 +16,8 @@ Jurisdiction in aid of Part 6 resolution procedure.
 
 (ii) that the amount of those damages is likely to be substantial, shall, in neither case, and without prejudice to subsection (5) be conclusive in favour of the Board's refusing to accede to the request if, in all the circumstances, the Board considers that it ought to accede to it.
 
-(5) The fact of the Board's being of the opinion referred to in subsection (4)(ii) shall not be taken into account by it in deciding whether to accede to a request under subsection (3) if the referrer undertakes to defray in whole the amount of damages the Board may become liable to pay in the circumstances mentioned in subsection (4) and the Board is satisfied the referrer has the means to be able to comply with that undertaking.
+(5) The fact of the Board's being of the opinion referred to in subsection (4)(ii) shall not be taken into account by it in deciding whether to accede to a request under subsection (3) if the referrer undertakes to defray in whole the amount of damages the Board may become liable to pay in the circumstances mentioned in subsection
+
+(4) and the Board is satisfied the referrer has the means to be able to comply with that undertaking.
 
 (6) On application to the Circuit Court by the Board under this section, the Circuit Court may grant such interim or interlocutory relief in the matter as it thinks appropriate.
