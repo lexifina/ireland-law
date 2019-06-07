@@ -28,4 +28,10 @@ Definition (Part 5).
 
 (k) any contravention of the second sentence of Article 8(6) or of Article 10(4) of Regulation (EU) No. 751/2015 of the European Parliament and of the Council of 29 April 2015 by a payee where the payee is a trader and the payer is a consumer,
 
-(l) any contravention of the European Union (Unjustified Geo-blocking of Consumers) Regulations 2018 (S.I. No. 513 of 2018), but subject to the exclusion of one or more of the foregoing provisions provided for in section 71, 73, 74 or 75.
+(l) any contravention of the European Union (Unjustified Geo-blocking of Consumers) Regulations 2018 (S.I. No. 513 of 2018),
+
+(m) any contravention of Regulation 86(6) of the European Union (Payment Services) Regulations 2018 where—
+
+(i) the payee (within the meaning of those Regulations) is a trader that is not a regulated financial service provider (within the meaning of the Central Bank Act 1942), and
+
+(ii) the payer (within the meaning of those Regulations) is a consumer, but subject to the exclusion of one or more of the foregoing provisions provided for in section 71, 73, 74 or 75.

@@ -116,9 +116,19 @@ O.J. No. L.149, 11/06/2005, p. 22.
 
 (k) the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013),
 
-(l) the European Union (Consumer Information, Cancellation and Other Rights) (Amendment) Regulations 2014 (S.I. No. 250 of 2014), and
+(l) the European Union (Consumer Information, Cancellation and Other Rights) (Amendment) Regulations 2014 (S.I. No. 250 of 2014),
 
-(m) the European Union (Interchange Fees for Card-based Payment Transactions) Regulations 2015 (S.I. No. 550 of 2015);
+(m) the European Union (Interchange Fees for Card-based Payment Transactions) Regulations 2015 (S.I. No. 550 of 2015), and
+
+(n) the following provisions of the European Union (Payment Services) Regulations 2018 (No. 6 of 2018):
+
+(i) paragraphs (2), (5) and (6) of Regulation 33, and
+
+(ii) paragraph (6) of Regulation 86, to the extent that that paragraph applies as respects a case where—
+
+(I) the payee (within the meaning of those Regulations) is a trader that is not a regulated financial service provider (within the meaning of the Central Bank Act 1942), and
+
+(II) the payer (within the meaning of those Regulations) is a consumer;
 
 “representation” includes—
 
