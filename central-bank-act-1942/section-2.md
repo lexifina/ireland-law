@@ -254,7 +254,9 @@ Interpretation.
 
 (au) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017;
 
-(av) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017.
+(av) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017;
+
+(aw) Commission Delegated Regulation (EU) 2018/389 of 27 November 2017.
 
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
 
