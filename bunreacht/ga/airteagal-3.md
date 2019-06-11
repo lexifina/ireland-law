@@ -1,0 +1,5 @@
+Airteagal 3
+
+1 Is í toil dhiongbháilte náisiún na hÉireann, go sítheach cairdiúil, na daoine go léir a chomhroinneann críoch oileán na hÉireann i bpáirt lena chéile, in éagsúlacht uile a bhféiniúlachtaí agus a dtraidisiún, a aontú, á aithint gur trí mhodhanna síochánta amháin le toiliú thromlach na ndaoine, á chur in iúl go daonlathach, sa dá dhlínse san oileán, a dhéanfar Éire aontaithe a thabhairt i gcrích. Go dtí sin, bainfidh na dlíthe a achtófar ag an bParlaimint a bhunaítear leis an mBunreacht seo leis an limistéar feidhme céanna, agus beidh an raon feidhme céanna acu, lenar bhain na dlíthe, agus a bhí ag na dlíthe, a d'achtaigh an Pharlaimint a bhí ar marthain díreach roimh theacht i ngníomh don Bhunreacht seo.
+
+2 Féadfaidh údaráis fhreagracha faoi seach na ndlínsí sin institiúidí ag a mbeidh cumhachtaí agus feidhmeanna feidhmiúcháin a chomhroinntear idir na dlínsí sin a bhunú chun críoch sonraithe agus féadfaidh na hinstitiúidí sin cumhachtaí agus feidhmeanna a fheidhmiú i leith an oileáin ar fad nó i leith aon chuid de.
