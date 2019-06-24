@@ -36,6 +36,38 @@ Interpretation.
 
 ‘development plan’ has the meaning assigned to it by section 9(1) of the Act of 2000;
 
+‘EIA Directive’ means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014;
+
+‘environmental impact assessment’, in relation to a proposed road development, means a process in respect of the development—
+
+(a) consisting of —
+
+(i) the preparation of an environmental impact assessment report in accordance with section 50,
+
+(ii) the carrying out of consultation referred to in section 51(3),
+
+(iii) the examination by An Bord Pleanála of the information presented in the environmental impact assessment report, any additional information provided in accordance with section 51(4) and any relevant information received through consultation under section 51(3),
+
+(iv) the reaching by An Bord Pleanála of the reasoned conclusion referred to in section 51(5) on the significant effects of the proposed road development on the environment; and
+
+(v) the integration by An Bord Pleanála of its reasoned conclusion into its decision under section 51(6), and
+
+(b) including an examination, analysis and evaluation by An Bord Pleanála under section 51(5) in order to identify, describe and assess the direct and indirect significant effects of the particular proposed road development, including significant effects derived from the vulnerability of the proposed road development to risks of major accidents and disasters relevant to it, on—
+
+(i) population and human health,
+
+(ii) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992 and Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009,
+
+(iii) land, soil, water, air and climate,
+
+1 OJ No. L 26, 28.1.2012, p. 1 2 OJ No. L 124, 25.4.2014, p. 1 3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
+
+(iv) material assets, cultural heritage and the landscape, and
+
+(v) the interaction between the factors mentioned in subparagraphs (i) to (iv);
+
+‘environmental impact assessment report’ shall be construed in accordance with section 50;
+
 “footpath” means a road over which there is a public right of way for pedestrians only, not being a footway;
 
 “footway” means that portion of any road associated with a roadway which is provided primarily for use by pedestrians;
@@ -66,7 +98,7 @@ Interpretation.
 
 ‘planning permission’ means permission under Part III of the Act of 2000;
 
-“proposed road development” means any proposed road development in respect of which an environmental impact statement is required to be prepared under section 50;
+“proposed road development” means any proposed road development which is subject to an environmental impact assessment under section 50;
 
 “protected road” has the meaning assigned to it by section 45;
 
@@ -139,5 +171,7 @@ Interpretation.
 (5) In this Act a reference to a Part, section or Schedule is to a Part or section of, or Schedule to this Act, unless it is indicated that reference to some other enactment is intended.
 
 (6) In this Act a reference to a subsection, paragraph or subparagraph is to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended.
+
+(6A) A reference in this Act to an Annex is a reference to an Annex to the EIA Directive.
 
 (7) In this Act a reference to any enactment shall be construed as a reference to that enactment as amended or adapted by or under any subsequent enactment.
