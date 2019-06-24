@@ -1,91 +1,107 @@
-Environmental impact statement.
+Environmental impact assessment report.
 
-50.—(1) (a) A road authority or the Authority shall prepare a statement of the likely effects on the environment (‘environmental impact statement’) of any proposed road development it proposes consisting of—
+50. (1) (a) A road development that is proposed that comprises any of the following shall be subject to an environmental impact assessment:
 
-(i) the construction of a motorway,
+(i) the construction of a motorway;
 
-(ii) the construction of a busway,
+(ii) the construction of a busway;
 
-(iii) the construction of a service area, or
+(iii) the construction of a service area;
 
-(iv) any prescribed type of proposed road development consisting of the construction of a proposed public road or the improvement of an existing public road.
+(iv) any prescribed type of road development consisting of the construction of a proposed public road or the improvement of an existing public road.
 
-(b) Where the Minister considers that any proposed road development (other than development to which paragraph (a) applies) consisting of the construction of a proposed public road or the improvement of an existing public road would be likely to have significant effects on the environment, he shall direct the road authority to prepare an environmental impact statement in respect of such proposed road development and the authority shall comply with such direction.
+(b) If An Bord Pleanála considers that any road development proposed (other than development to which paragraph (a) applies) consisting of the construction of a proposed public road or the improvement of an existing public road would be likely to have significant effects on the environment it shall direct that the development be subject to an environmental impact assessment.
 
-(c) Where a road authority considers that any proposed road development (other than development to which paragraph (a) applies) consisting of the construction of a proposed public road or the improvement of an existing public road would be likely to have significant effects on the environment, it shall inform the Minister in writing and where the Minister concurs with the road authority he shall give a direction to the road authority under paragraph (b).
+(c) Where a road authority or, as the case may be, the Authority considers that a road development that it proposes (other than development to which paragraph (a) applies) consisting of the construction of a proposed public road or the improvement of an existing public road would be likely to have significant effects on the environment, it shall inform An Bord Pleanála in writing prior to making any application to the Bord for an approval referred to in section 51(1) in respect of the development.
 
-(d) Where a proposed road development (other than development to which paragraph (a) applies) consisting of the construction of a proposed public road or the improvement of an existing public road would be located on:
+(d) In particular, where a proposed development (other than development to which paragraph (a) applies) consisting of the construction of a proposed public road or the improvement of an existing public road would be located on—
 
-(i) a European Site, meaning
+(i) a European Site within the meaning of Regulation 2 of the European Communities (Birds and Natural Habitats) Regulations 2011 (S.I. No. 477 of 2011),
 
-(I) a candidate site of Community importance,
+(ii) land established or recognised as a nature reserve within the meaning of section 15 or 16 of the Wildlife Act 1976 (No. 39 of 1976),
 
-(II) a site of Community importance,
+(iii) land designated as a refuge for fauna or flora under section 17 of the Wildlife Act 1976 (No. 39 of 1976), or
 
-(III) a candidate special area of conservation,
+(iv) land designated a natural heritage area under section 18 of the Wildlife (Amendment) Act 2000, the road authority or the Authority, as the case may be, proposing the development shall decide whether or not the proposed development would be likely to have significant effects on the environment.
 
-(IV) a special area of conservation,
+(e) Where a decision is being made pursuant to this subsection on whether a road development that is proposed would or would not be likely to have significant effects on the environment, An Bord Pleanála, or the road authority or the Authority concerned (as the case may be), shall take into account the relevant selection criteria specified in Annex III.
 
-(V) a candidate special protection area, or
+(f) Where a road authority or the Authority, as the case may be, makes a decision under paragraph (d) it shall—
 
-(VI) a special protection area
+(i) make the decision available for inspection by members of the public, and
 
-(ii) ...
+(ii) make an electronic version of the decision available on its website.
 
-(iii) ...
+(1A) (a) Unless An Bord Pleanála is satisfied that a road development that is proposed consisting of the construction of a proposed public road or the improvement of an existing public road (other than development to which subsection (1)(a) applies)—
 
-(iv) ...
+(i) would not be likely to have significant effects on the environment, or
 
-(v) land established or recognised as a nature reserve within the meaning of section 15 or 16 of the Wildlife Act, 1976 (No. 39 of 1976),
+(ii) would be likely to have significant effects on the environment,
 
-(vi) land designated as a refuge for fauna under section 17 of the Wildlife Act, 1976 (No. 39 of 1976), the road authority concerned shall decide whether the proposed road development would or would not be likely to have significant effects on the environment, and if the authority decides that the proposed road development would be likely to have such effects, paragraph (c) shall apply accordingly.
+An Bord Pleanála shall require the road authority, or as the case may be the Authority, proposing the road development to provide it with information on the characteristics of the road development proposed and its likely effects on the environment.
 
-(e) Where a decision is being made pursuant to this subsection on whether a proposed road development would or would not be likely to have significant effects on the environment, the Minister or the road authority concerned (as the case may be) shall have regard to the criteria specified for the purposes of article 27 of the European Communities (Environmental Impact Assessment) Regulations, 1989.
+(b) Where a road authority or the Authority is subject to a requirement by An Bord Pleanála under paragraph (a) it shall—
 
-(f) Where a road authority makes a decision pursuant to paragraph (d) on whether a proposed road development would or would not be likely to have significant effects on the environment, it shall make the said decision available for inspection by members of the public.
+(i) provide the information specified in Annex IIA, and
 
-(2) An environmental impact statement shall contain the following specified information—
+(ii) where relevant, take into account the available results of other relevant assessments of the effects on the environment carried out pursuant to any Act of the Oireachtas or under European Union legislation (other than the EIA Directive).
 
-(a) a description of the proposed road development comprising information on the site, design and size of the proposed road development;
+(c) Where a road authority or the Authority is subject to a requirement by An Bord Pleanála under paragraph (a) it may also provide a description of any features of the development or measures envisaged to avoid or prevent significant adverse effects on the environment.
 
-(b) a description of the measures envisaged in order to avoid, reduce and, if possible, remedy significant adverse effects;
+(d) Where An Bord Pleanála receives information from a road authority or the Authority under paragraph (b) it shall make a determination as to whether the road development proposed should be subject to an environmental impact assessment on the basis of such information, taking into account the relevant selection criteria specified in Annex III and, where relevant, the results of preliminary verifications or assessments of the effects on the environment carried out pursuant to any Act of the Oireachtas or under European Union legislation (other than the EIA Directive).
 
-(c) the data required to identify and assess the main effects which the proposed road development is likely to have on the environment;
+(e) A determination under paragraph (d) shall—
 
-(d) an outline of the main alternatives studied by the road authority concerned and an indication of the main reasons for its choice, taking into account the environmental effects;
+(i) where An Bord Pleanála determines that the development should be subject to an environmental impact assessment, specify with reference to the relevant criteria listed in Annex III the main reasons for that determination, and
 
-(e) a summary in non-technical language of the above information.
+(ii) where An Bord Pleanála determines that the development should not be subject to an environmental impact assessment, specify—
 
-(3) An environmental impact statement shall, in addition to and by way of explana-tion or amplification of the specified information referred to in subsection (2), contain further information on the following matters—
+(I) the main reasons for that determination by reference to the relevant criteria listed in Annex III, and
 
-(a) (i) a description of the physical characteristics of the whole proposed road development and the land-use requirements during the construction and operational phases,
+(II) any features of the proposed road development and measures proposed by the road authority, or as the case may be the Authority, to avoid or prevent significant adverse effects on the environment.
 
-(ii) an estimate, by type and quantity, of expected residues and emissions (including water, air and soil pollution, noise, vibration, light, heat and radiation) resulting from the operation of the proposed road development;
+(f) Subject to paragraph (g), An Bord Pleanála shall make its determination under paragraph (d) as soon as possible and within 90 days from the date on which the road authority or, as the case may be, the Authority has submitted all the information required by An Bord Pleanála under paragraph (a).
 
-(b) a description of the aspects of the environment likely to be significantly affected by the proposed road development, including in particular—
+(g) An Bord Pleanála may, in exceptional cases, including where it is justified by the nature, complexity, location or size of the proposed road development, extend the 90 day period referred to in paragraph (f) in order to make its determination and in such cases it shall inform the road authority or, as the case may be, the Authority in writing of the reasons justifying the extension and of the date when its determination is expected.
 
-—human beings, fauna and flora,
+(h) An Bord Pleanála shall make an electronic version of any determination under paragraph (d) available to the public on its website.
 
-—soil, water, air, climatic factors and the landscape,
+(1B) A road authority or, as the case may be the Authority, shall prepare an environmental impact assessment report in respect of any road development that it proposes that is subject to an environmental impact assessment under this section.
 
-—material assets, including the architectural and archaeological heritage, and the cultural heritage,
+(2) The road authority or the Authority, as the case may be, shall ensure that an environmental impact assessment report referred to in subsection (1B)—
 
-—the inter-relationship between the above factors;
+(a) is prepared by competent experts,
 
-(c) a description of the likely significant effects (including direct, indirect, secondary, cumulative, short, medium and long-term, permanent and temporary, positive and negative) of the proposed road development on the environment resulting from—
+(b) subject to subsection (3), contains the following information:
 
-—the existence of the proposed road development,
+(i) a description of the proposed road development comprising information on the site, design, size and other relevant features of the development;
 
-—the use of natural resources,
+(ii) a description of the likely significant effects of the proposed road development on the environment;
 
-—the emission of pollutants, the creation of nuisances and the elimination of waste, and a description of the forecasting methods used to assess the effects on the environment;
+(iii) a description of any features of the proposed road development and of any measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment;
 
-(d) an indication of any difficulties (technical deficiencies or lack of know-how) encountered by the road authority concerned in compiling the required information;
+(iv) a description of the reasonable alternatives studied by the road authority or the Authority, as the case may be, which are relevant to the proposed road development and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the proposed road development on the environment;
 
-(e) a summary in non-technical language of the above information; to the extent that such information is relevant to a given stage of the consent procedure and to the specific characteristics of the proposed road development or type of proposed road development concerned, and of the environmental features likely to be affected, and the road authority preparing the environmental impact statement may reasonably be required to compile such information having regard, inter alia, to current knowledge and methods of assessment.
+(v) a non-technical summary of the information referred to in subparagraphs (i) to (iv);
 
-(4) (a) If a road authority, before submitting an environmental impact statement in accordance with section 51, so requests, the Minister shall, after consulting the road authority concerned and the bodies and persons referred to in paragraph (b) of subsection (3) of that section, give a written opinion on the information to be contained in such statement.
+(vi) any additional information specified in Annex IV that is relevant to the specific characteristics of the particular proposed road development or type of proposed road development and to the environmental features likely to be affected, and
 
-(b) The giving of a written opinion in accordance with this subsection shall not prejudice the exercise by the Minister of his powers pursuant to subsection (4) of section 51 to require the road authority concerned to furnish him with specified additional information in relation to the likely effects on the environment of the proposed road development.
+(c) takes into account the available results of other relevant assessments carried out pursuant to any Act of the Oireachtas or under European Union legislation with a view to avoiding duplication of assessments.
 
-(5) Where the Authority proposes the construction of a proposed road development consisting of anything referred to in subsection (1) references to road authority in the other provisions of this section in respect of the development are to be read as references to the Authority.
+(3) Where An Bord Pleanála issues an opinion under subsection (4) the road authority or the Authority, as the case may be, shall—
+
+(a) prepare the environmental impact assessment report referred to in subsection (1B) based on that opinion, and
+
+(b) include in the report the information that may reasonably be required for reaching a reasoned conclusion on the significant effects of the proposed road development on the environment, taking into account current knowledge and methods of assessment.
+
+(4) (a) An Bord Pleanála shall, on the request of a road authority, or the Authority, that proposes a road development to which this section applies, made before the road authority or the Authority, as the case may be, has submitted an environmental impact assessment report—
+
+(i) consult with the road authority or the Authority, as the case may be,
+
+(ii) consult the authorities referred to in section 51(3)(b), and
+
+(iii) taking into account the information provided by the road authority or the Authority, as the case may be, in particular on the specific characteristics of the project, including its location and technical capacity, and its likely impact on the environment, issue an opinion on the scope, and level of detail, of the information to be included by the road authority or the Authority, as the case may be, in the environmental impact assessment report in accordance with subsection (2).
+
+(b) The issuing of an opinion under this subsection shall not prejudice the exercise by An Bord Pleanála of its powers pursuant to section 51(4) to require the road authority concerned or the Authority, as the case may be, to furnish it with specified additional information in relation to the likely effects on the environment of the proposed road development.
+
+(5) In this section, ‘construction of a proposed public road or the improvement of an existing public road’ includes any change or extension to a proposed road development already authorised, executed or in the process of being executed.

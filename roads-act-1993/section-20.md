@@ -12,7 +12,7 @@ Directions by the Authority to road authorities.
 
 (e) submit a compulsory purchase order to the Minister for confirmation,
 
-(f) prepare an environmental impact statement and apply to the Minister for the approval referred to in section 51,
+(f) prepare an environmental impact assessment report and apply to the Minister for the approval referred to in section 51,
 
 (g) prepare, or arrange for the preparation of, designs for specified construction or improvement works,
 
