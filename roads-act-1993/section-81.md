@@ -8,7 +8,9 @@ Prosecution and penalties.
 
 (b) A person guilty of an offence under this Act (other than section 64 or the provisions mentioned in paragraphs (a) and (c)) is guilty of an offence and is liable on summary conviction to a fine not exceeding €5,000.
 
-(c) A person guilty of an offence under section 43(5), 44(5), 45(3), 61(10), 64A(4), 68(2) or 79(4) is liable on summary conviction to a fine not exceeding €2,000.
+(c) A person guilty of an offence under section
+
+43(5), 44(5), 45(3), 61(10), 64A(4), 68(2) or 79(4) is liable on summary conviction to a fine not exceeding €2,000.
 
 (2) Where an offence under this Act which is committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any person (or any person acting on his behalf) being a director, manager, or secretary of such body, that person or the person so acting, as the case may be, shall also be guilty of that offence.
 
