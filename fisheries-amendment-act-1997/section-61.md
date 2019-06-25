@@ -16,9 +16,9 @@ Matters to which licensing authority shall have regard in determining aquacultur
 
 (f) the effect or likely effect on the environment generally in the vicinity of the place or water on or in which that aquaculture is or is proposed to be carried on—
 
-(i) on the foreshore, or
-
 (3)OJ. No. L175, 5.7.1985.
+
+(i) on the foreshore, or
 
 (ii) at any other place, if there is or would be no discharge of trade or sewage effluent within the meaning of, and requiring a licence under section 4 of the Local Government (Water Pollution) Act, 1977, and
 
