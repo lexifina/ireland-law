@@ -14,7 +14,9 @@ Amendment of Pharmacopoeia Act, 1931.
 
 (d) the following new section shall be inserted after section 4:
 
-“Regulations. 4A.—Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next twenty-one days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to anything previously done thereunder.”.
+“Regulations.
+
+4A.—Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next twenty-one days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to anything previously done thereunder.”.
 
 (2) As on and from the specified day section 4 of the Pharmacopoeia Act, 1931, shall be construed and have effect as if—
 
