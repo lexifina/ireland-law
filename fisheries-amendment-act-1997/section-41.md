@@ -10,9 +10,11 @@ Provisions as to making of appeals.
 
 (d) state the appellant's particular interest in the outcome of the appeal,
 
-(e) state in full the grounds of the appeal and the reasons, considerations and arguments on which they are based, and
+(e) state in full the grounds of the appeal and the reasons, considerations and arguments on which they are based,
 
-(f) be accompanied by such fee, if any, as may be payable in respect of such an appeal in accordance with regulations under section 63, and shall be accompanied by such documents, particulars or other information relating to the appeal as the appellant considers necessary or appropriate.
+(f) where an environmental impact assessment is required under Regulation 3 of the Aquaculture Appeals (Environmental Impact Assessment) Regulations 2012 (S.I. No. 468 of 2012), include evidence of compliance with paragraph (3A) of the said Regulation 3, and
+
+(g) be accompanied by such fee, if any, as may be payable in respect of such an appeal in accordance with regulations under section 63, and shall be accompanied by such documents, particulars or other information relating to the appeal as the appellant considers necessary or appropriate.
 
 (2) The requirement of subsection (1)(e) shall apply whether or not the appellant requests, or proposes to request, in accordance with section 49, an oral hearing of the appeal.
 

@@ -31,3 +31,7 @@ Appeals against decisions of Minister on aquaculture licence applications, etc.
 (8) (a) A determination of an appeal under this section (including an appeal to which section 52 refers) and the notification of that determination shall state the main reasons and considerations on which the determination is based.
 
 (b) The Board shall, on request from any person, provide a summary of the main reasons and considerations on which the determination of an appeal before the commencement of the Fisheries (Amendment) Act, 2001, was based.
+
+(9) Subject to subsection (10), the Board shall, as soon as practicable, publish on its website notices of appeal served on it under subsection (1).
+
+(10) Subsection (9) shall not apply as regards notices of appeal received by the Board later than the expiration of the period referred to in subsection (1).
