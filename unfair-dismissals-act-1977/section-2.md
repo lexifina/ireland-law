@@ -22,7 +22,7 @@ Exclusions.
 
 (j) ...
 
-(k) the Director General of the Health Service Executive for the purposes of section 17 of the Health Act 2004,
+(k) the chief executive officer of the Health Service Executive appointed under section 21A of the Health Act 2004,
 
 (l) the chief executive officer of the Child and Family Agency appointed under section 28 of the Child and Family Agency Act 2013.
 

@@ -26,6 +26,6 @@ Conditions and cessation of membership
 
 (i) if he or she ceases to be an employee of the Health Service Executive, or
 
-(ii) at the request of the Director General of the Health Service Executive.
+(ii) at the request of the chief executive officer of the Health Service Executive.
 
 (3) If a member of the Implementation Group dies or ceases to be a member of the Group, the Minister may appoint a person to be a member of the Implementation Group to fill the vacancy so occasioned in the same manner as the member of the Implementation Group who occasioned the vacancy was appointed.

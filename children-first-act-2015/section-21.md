@@ -16,6 +16,6 @@ Membership of Implementation Group
 
 (c) an employee of the Agency nominated by the chief executive officer of the Agency;
 
-(d) an employee of the Health Service Executive nominated by the Director General of the Health Service Executive.
+(d) an employee of the Health Service Executive nominated by the chief executive officer of the Health Service Executive.
 
 (4) The Minister may at any time dissolve the Implementation Group.
