@@ -60,6 +60,14 @@ R is the amount of rent last set under a tenancy for the dwelling, t is the numb
 
 (b) the works carried out under paragraph (a) do not solely consist of works carried out for the purposes of compliance with section 12(1)(b).
 
+(5B) Where, in setting, at any particular time, the rent under the tenancy of a dwelling in a rent pressure zone, a landlord seeks to rely on subsection (5), the landlord shall—
+
+(a) serve a notice in the prescribed form together with all relevant supporting information on the Board setting out the reasons why, in the landlord’s opinion, subsection (4) does not apply to the dwelling,
+
+(b) specify in the notice the rent set under the tenancy of the dwelling and the amount of rent last set under the tenancy of the dwelling, and
+
+(c) serve the notice and information under paragraphs (a) and (b) within 1 month from the setting of the rent under the tenancy of the dwelling.
+
 (6) Where—
 
 (a) a notice under section 22(2) has been served on the tenant, or
@@ -67,6 +75,10 @@ R is the amount of rent last set under a tenancy for the dwelling, t is the numb
 (b) the review of the rent concerned has commenced, before the relevant date, or, if an order is made by the Minister under section 24A(5) in respect of an area where the dwelling concerned is situate, before the date of the coming into operation of the order, then subsections (3) and (4) shall not apply to the new rent, referred to in section 22(2), stated in that notice in accordance with that section.
 
 (6A) A person who fails to comply with the requirements of subsection (4) shall be guilty of an offence.
+
+(6B) A person, who in purported compliance with subsection (5B), furnishes information to the Board which is false or misleading in a material respect knowing it to be so false or misleading or being reckless as to whether it is so false or misleading shall be guilty of an offence.
+
+(6C) A person who fails to comply with the requirements of subsection (5B) shall be guilty of an offence.
 
 (7) In this section—
 
