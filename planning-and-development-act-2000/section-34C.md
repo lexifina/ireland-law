@@ -1,0 +1,3 @@
+Supplementary provisions relating to operating restriction included in planning permission.
+
+34C. ...

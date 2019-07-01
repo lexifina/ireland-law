@@ -1,0 +1,3 @@
+Supplementary provisions relating to decisions on applications referred to in section 34B(1) or 34C(1) which were not refused by virtue of section 34B(5) or 34C(5)
+
+37R. ...
