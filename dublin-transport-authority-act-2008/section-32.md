@@ -18,4 +18,4 @@ Accounts and annual report of Authority.
 
 (6) The Minister shall cause copies of the annual report to be laid before each House of the Oireachtas as soon as may be after its receipt by him or her.
 
-(7) The financial year of the Authority shall be the period of 12 months ending on 31 December in any year and, for the purposes of this section and section 29, the period commencing on the establishment day and ending on the following 31 December shall be deemed to be a financial year.
+(7) The financial year of the Authority shall be the period of 12 months ending on 31 December in any year and, for the purposes of this section and section 29 , the period commencing on the establishment day and ending on the following 31 December shall be deemed to be a financial year.

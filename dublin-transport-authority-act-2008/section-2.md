@@ -142,6 +142,6 @@ Definitions.
 
 (b) the parking of vehicles in public or other non-residential places;
 
-“transport strategy” is to be read in accordance with section 12;
+“transport strategy” is to be read in accordance with section 12 ;
 
 “Transport 21” means the capital investment framework published by the Minister in November 2005.
