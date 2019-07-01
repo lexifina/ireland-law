@@ -10,7 +10,9 @@ Energy Infrastructure
 
 —A crude oil refinery (excluding an undertaking manufacturing only lubricants from crude oil) or an installation for the gasification and liquefaction of 500 tonnes or more of coal or bituminous shale per day.
 
-—A thermal power station or other combustion installation with a total energy output of 300 megawatts or more. —An industrial installation for the production of electricity, steam or hot water with a heat output of 300 megawatts or more.
+—A thermal power station or other combustion installation with a total energy output of 300 megawatts or more.
+
+—An industrial installation for the production of electricity, steam or hot water with a heat output of 300 megawatts or more.
 
 —An industrial installation for carrying gas, steam or hot water with a potential heat output of 300 megawatts or more, or transmission of electrical energy by overhead cables, where the voltage would be 220 kilovolts or more, but excluding any proposed development referred to in section 182A(1).
 
@@ -76,7 +78,9 @@ Environmental Infrastructure
 
 —A waste water treatment plant with a capacity greater than a population equivalent of 10,000 and, for the purpose of this provision, population equivalent shall be determined in accordance with Article 2, point 6, of Council Directive 91/271/EEC.
 
-—A sludge-deposition site with the capacity for the annual deposition of 50,000 tonnes of sludge (wet). —Any canalisation or flood relief works where—
+—A sludge-deposition site with the capacity for the annual deposition of 50,000 tonnes of sludge (wet).
+
+—Any canalisation or flood relief works where—
 
 (a) the immediate contributing sub-catchment of the proposed works (namely the difference between the contributing catchments at the upper and lower extent of the works) would exceed 1000 hectares, or
 
