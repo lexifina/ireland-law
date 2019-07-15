@@ -30,7 +30,15 @@ R is the amount of rent last set under a tenancy for the dwelling, t is the numb
 
 (5) Subsection (4) does not apply—
 
-(a) to the rent first set under the tenancy of a dwelling, provided that no tenancy in respect of that dwelling subsisted during the period of 2 years immediately preceding the date on which the tenancy concerned commenced,
+(a) to the rent first set under the tenancy of—
+
+(i) a dwelling—
+
+(I) in a protected structure or proposed protected structure within the meaning of the Planning and Development Act 2000, or
+
+(II) that is such a structure, provided that no tenancy in respect of that dwelling subsisted during the period of one year immediately preceding the date on which the tenancy concerned commenced, or
+
+(ii) any other dwelling, provided that no tenancy in respect of that dwelling subsisted during the period of 2 years immediately preceding the date on which the tenancy concerned commenced,
 
 (b) if, in the period since the rent was last set under a tenancy for the dwelling—
 

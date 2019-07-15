@@ -48,7 +48,7 @@ Global valuation of property of public utility undertakings.
 
 (8) The Commissioner shall apportion the global valuation in relation to an undertaking between each of the rating authorities in whose areas property comprised in the valuation is situate in such manner as the Minister shall, after consultation with the Minister for the Environment and Local Government, by order prescribe and so much of the valuation as is so apportioned to each such authority shall, accordingly, be the valuation of the property of the undertaking situate in the area of the authority.
 
-(9) An undertaking in relation to which a global valuation is being carried out shall, within 4 months from the date of being requested in writing to do so by the Commissioner, supply to the Commissioner such information as he or she may require for the purpose of the performance of his or her functions under this section.
+(9) An undertaking in relation to which a global valuation is being carried out shall, within 2 months from the date of being requested in writing to do so by the Commissioner, supply to the Commissioner such information as he or she may require for the purpose of the performance of his or her functions under this section.
 
 (10) The Commissioner shall—
 
@@ -56,9 +56,9 @@ Global valuation of property of public utility undertakings.
 
 (b) in the case of a global valuation referred to in subsection (6), on such date as he or she considers appropriate, issue to the undertaking concerned and the Minister for the Environment and Local Government a certificate (in this Act referred to as a “global valuation certificate”) specifying the value, as determined under that order or subsection (6), as the case may be, of the properties comprised in the valuation and stating such other information as the Commissioner considers appropriate.
 
-(11) The Commissioner shall, on a date that is not less than 3 months before the date on which he or she issues, in its final terms, under subsection (10), a global valuation certificate, issue a copy of that certificate, in the terms he or she proposes to so issue it under that subsection, to the undertaking concerned and the Minister for the Environment and Local Government, together with the notice referred to in subsection (12).
+(11) The Commissioner shall, on a date that is not less than 3 months before the date on which he or she issues, in its final terms, under subsection (10), a global valuation certificate, issue a copy of that certificate, in the terms he or she proposes to so issue it under that subsection, to the undertaking concerned, relevant rating authorities and the Minister for Housing, Planning and Local Government and the Commissioner shall issue the notice referred to in subsection (12) to the undertaking concerned and that Minister of the Government.
 
-(12) The notice mentioned in subsection (11) is a notice stating that, if the undertaking concerned or the Minister for the Environment and Local Government is dissatisfied with any material particular stated in the copy of the certificate referred to in that subsection, it or that Minister of the Government may, within 28 days from the date of the issuing of the copy to it or him or her, make submissions under this subsection to the Commissioner in relation to the matter (and such an undertaking and that Minister of the Government may make such submissions, within that period, to the Commissioner accordingly).
+(12) The notice mentioned in subsection (11) is a notice stating that, if the undertaking concerned or the Minister for the Environment and Local Government is dissatisfied with any material particular stated in the copy of the certificate referred to in that subsection, it or that Minister of the Government may, within 40 days from the date of the issuing of the copy to it or him or her, make submissions under this subsection to the Commissioner in relation to the matter (and such an undertaking and that Minister of the Government may make such submissions, within that period, to the Commissioner accordingly).
 
 (13) Submissions under subsection (12) shall, as appropriate—
 

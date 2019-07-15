@@ -1,6 +1,6 @@
 Appeals against global valuations.
 
-54.—(1) An undertaking, a rating authority and the Minister for the Environment and Local Government may, within 3 months from the date of the Commissioner's having issued the certificate concerned, each appeal in writing to the Tribunal against—
+54.—(1) An undertaking, a rating authority and the Minister for the Environment and Local Government may, within 28 days from the date of the Commissioner’s having issued the certificate concerned, each appeal in writing to the Tribunal against—
 
 (a) a global valuation in relation to the undertaking made pursuant to section 53 and specified in a global valuation certificate issued under that section,
 
