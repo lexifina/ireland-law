@@ -12,7 +12,11 @@ Particular matters that may be referred (non-exhaustive list).
 
 (e) an alleged failure by the landlord to comply with any of the obligations applicable to the landlord, including those contained in any lease or tenancy agreement,
 
-(f) an allegation that the landlord has sought to terminate a tenancy other than in accordance with the provisions of Part 4,
+(f) an allegation that the landlord has sought to—
+
+(i) terminate a tenancy (other than a tenancy referred to in subsection (1A) of section 3) other than in accordance with Part 4, or
+
+(ii) terminate a tenancy referred to in subsection (1A) of section 3 other than in accordance with Part 5,
 
 (g) an allegation that the ground stated by the landlord for the purposes of terminating a tenancy was not valid or that the notice used to terminate a tenancy did not comply with this Act,
 

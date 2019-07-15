@@ -70,7 +70,7 @@ Interpretation generally.
 
 (f) a voluntary body standing approved of by the Minister for Health and Children or by the Health Service Executive of this definition for the purpose of providing accommodation for elderly persons or persons with a mental handicap or psychiatric disorder,
 
-(g) a recognised educational institution, namely, any university, technical college, regional technical college, secondary or technical college or other institution or body of persons approved of, for the purpose of providing an approved course of study, by the Minister for Education and Science;
+(g) ...
 
 (h) ...
 

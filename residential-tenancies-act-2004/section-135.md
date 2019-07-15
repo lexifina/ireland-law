@@ -32,9 +32,11 @@ Section 134: supplemental provisions.
 
 (I) the setting of rent under section 19, a review of rent under section 20 and the notification of a new rent under section 22,
 
-(II) security of tenure under Part 4, and
+(II) security of tenure under Part 4 (other than in the case of a tenancy referred to in subsection (1A) of section 3),
 
-(III) the termination of tenancies under Parts 4 and 5,
+(III) the termination of tenancies (other than tenancies referred to in subsection (1A) of section 3) under Part 4, and
+
+(IV) the termination of tenancies under Part 5,
 
 (ii) the matters which may be referred to the Board for resolution under Part 6 and without prejudice to the generality of the foregoing the statement shall specify that—
 

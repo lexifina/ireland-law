@@ -6,9 +6,11 @@ Obligation to apply to register tenancy.
 
 (2) Subject to subsection (2A), an application under this section shall be made—
 
-(a) in the case of a tenancy that commences on a date that falls 3 or more months from the commencement of this Part — within 1 month from the commencement of the tenancy,
+(a) in the case of a tenancy (other than a tenancy to which paragraph (aa) applies) that commences on a date that falls 3 or more months from the commencement of this Part — within 1 month from the commencement of the tenancy,
 
-(b) in the case of a tenancy that has commenced on a date falling before or after the commencement of this Part (other than one to which paragraph (a) applies but including one that commenced before the passing of this Act)—
+(aa) in the case of a tenancy to which subsection (1A) of section 3 applies that commences during the period of 3 months from the commencement of section 3 of the Residential Tenancies (Amendment) Act 2019, not later than 4 months from the commencement of the tenancy, and
+
+(b) in the case of a tenancy that has commenced on a date falling before or after the commencement of this Part (other than one to which paragraph (a) applies but including one that commenced before the passing of this Act and one to which subsection (1A) of section 3 applies that commences after the period of 3 months from the commencement of section 3 of the Residential Tenancies (Amendment) Act 2019)—
 
 (i) in case it commenced before the passing of this Act — within 3 months from the commencement of this Part,
 
