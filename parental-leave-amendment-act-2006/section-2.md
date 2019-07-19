@@ -52,7 +52,9 @@ Entitlement to parental leave.
 
 (9) In this section—
 
-‘adopting parent’ means an adopting father, adopting mother or sole male adopter within the meaning of the definitions of ‘adopting father’, ‘adopting mother’ and ‘sole male adopter’ respectively in section 2 of the Adoptive Leave Act 1995 but as if, in each of those definitions, the words ‘or is to be placed’ were omitted; ‘adoptive parent’, in relation to a child, means a person in whose favour an adoption order in respect of the child has been made and is in force;
+‘adopting parent’ means an adopting father, adopting mother or sole male adopter within the meaning of the definitions of ‘adopting father’, ‘adopting mother’ and ‘sole male adopter’ respectively in section 2 of the Adoptive Leave Act 1995 but as if, in each of those definitions, the words ‘or is to be placed’ were omitted;
+
+‘adoptive parent’, in relation to a child, means a person in whose favour an adoption order in respect of the child has been made and is in force;
 
 ‘disability’, in relation to a child, means an enduring physical, sensory, mental health or intellectual impairment of the child such that the level of care required for the child is substantially more than the level of care that is generally required for children of the same age who do not have any such impairment;
 
