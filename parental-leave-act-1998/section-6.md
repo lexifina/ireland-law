@@ -4,15 +4,21 @@ Entitlement to parental leave.
 
 6.— (1) Subject to this Act, an employee who is a relevant parent in respect of a child shall be entitled to leave from his or her employment, to be known and referred to in this Act as ‘parental leave’, for a period of 18 working weeks to enable him or her to take care of the child.
 
+(1A) The reference in subsection (1) to a period of 18 working weeks shall be construed—
+
+(a) in the period from 1 September 2019 to 31 August 2020, as a reference to a period of 22 working weeks, and
+
+(b) on and from 1 September 2020, as a reference to a period of 26 working weeks.
+
 (2) Subject to sections 10(4) and 11(6), a period of parental leave shall end—
 
-(a) subject to paragraphs (b) and (c), not later than the day on which the child concerned attains the age of 8 years,
+(a) subject to paragraphs (b) and (c), not later than the day on which the child concerned attains the age of 12 years,
 
 (b) subject to paragraph (c), in the case of a child who—
 
 (i) is the subject of an adoption order, and
 
-(ii) has, on or before the date of the making of that order, attained the age of 6 years but not 8 years, not later than the expiration of the period of 2 years beginning on that date, or
+(ii) has, on or before the date of the making of that order, attained the age of 10 years but not 12 years, not later than the expiration of the period of 2 years beginning on that date, or
 
 (c) if the child concerned has a disability or a long-term illness, not later than the day on which the child—
 
@@ -50,6 +56,8 @@ Entitlement to parental leave.
 
 (d) if paragraph (b) is applicable, this Act as amended by the relevant Act shall apply to so much of the 14 weeks of parental leave referred to in that paragraph as was not taken before the relevant day in respect of that child.
 
+(8A) Where, before the specified day, a person who is a relevant parent in respect of a child has not taken 18 weeks parental leave in respect of the child (and irrespective of whether the person was prevented from taking all or any of the parental leave by the operation of subsection (2) as in force before the specified day) then on and from the specified day this Act, as amended by the specified Act, shall apply to so much of the 18 weeks of parental leave as was not taken before the specified day in respect of that child.
+
 (9) In this section—
 
 ‘adopting parent’ means an adopting father, adopting mother or sole male adopter within the meaning of the definitions of ‘adopting father’, ‘adopting mother’ and ‘sole male adopter’ respectively in section 2 of the Adoptive Leave Act 1995 but as if, in each of those definitions, the words ‘or is to be placed’ were omitted;
@@ -66,7 +74,9 @@ Entitlement to parental leave.
 
 ‘relevant Act’ means the Parental Leave (Amendment) Act 2006;
 
-‘relevant day’ means the day on which section 2 of the relevant Act comes into operation;
+‘relevant day’ means the day on which section
+
+2 of the relevant Act comes into operation;
 
 ‘relevant parent’, in relation to a child, means a person who is—
 
