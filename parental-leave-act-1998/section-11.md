@@ -14,6 +14,8 @@ Postponement by employer of parental leave.
 
 (6A) Where a notice under section 8(1) by an employee to his or her employer falls within section 8(7)(a), then, subject to any agreement between the employee and the employer, any postponement under this section of the commencement of parental leave must apply to both periods of proposed parental leave the subject of the notice.
 
+(6B) Where a notice under section 8(1) by an employee to his or her employer falls within section 8(8)(b), then, subject to any agreement between the employee and the employer, any postponement under this section of the commencement of parental leave must apply to each period of proposed parental leave the subject of the notice.
+
 (7) An employer shall retain a copy of a notice under this section given by him or her to an employee of his or hers and the employee shall retain the notice.
 
 (8) In this section, references to parental leave include references to a period of parental leave specified in section 7(1)(b).
