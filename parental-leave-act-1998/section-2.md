@@ -36,6 +36,10 @@ Interpretation.
 
 “prescribed” means prescribed by the Minister by regulations;
 
+‘specified Act’ means the Parental Leave (Amendment) Act 2019;
+
+‘specified day’ means the day on which the specified Act comes into operation;
+
 “successor”, in relation to an employer, shall be construed in accordance with section 15(1);
 
 “the Tribunal” means the Employment Appeals Tribunal.
