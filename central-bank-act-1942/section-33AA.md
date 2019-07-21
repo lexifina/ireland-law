@@ -8,9 +8,7 @@ Responsibilities and powers of Registrar of Credit Unions.
 
 (2) The Registrar has power to do whatever is necessary for or in connection with, or reasonably incidental to, carrying out the Registrar’s responsibilities.
 
-(3) In carrying out or exercising the Registrar’s responsibilities or powers, the Registrar shall, as far as reasonably practicable, ensure that the resources of the
-
-Bank allocated for carrying out those responsibilities or exercising powers are used effectively, efficiently and economically.
+(3) In carrying out or exercising the Registrar’s responsibilities or powers, the Registrar shall, as far as reasonably practicable, ensure that the resources of the Bank allocated for carrying out those responsibilities or exercising powers are used effectively, efficiently and economically.
 
 (4) In carrying out the responsibilities and exercising the powers imposed or conferred by this section, the Registrar, through the Head of Financial Regulation, is subject to the control of the Bank and shall comply with any directions by the Commission with respect to the carrying out of those responsibilities or the exercise of those powers.
 

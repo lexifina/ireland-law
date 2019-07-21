@@ -6,7 +6,9 @@ Appointment of acting Registrar of Credit Unions in certain cases.
 
 (b) while the holder is suspended from office, or
 
-(c) during a vacancy in that office. A person so appointed has, while acting as Registrar, all the responsibilities and powers of that office.
+(c) during a vacancy in that office.
+
+A person so appointed has, while acting as Registrar, all the responsibilities and powers of that office.
 
 (2) If a person is to be appointed under this section for a period of more than 6 months, the appointment does not take effect until the Minister approves it.
 
