@@ -428,6 +428,8 @@ Disclosure of information.
 
 (ae) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017;
 
-(af) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017;
+(af) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017,
+
+(ag) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017;
 
 ‘supervised entity’ means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
