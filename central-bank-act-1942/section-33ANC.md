@@ -34,6 +34,4 @@ Application of Part under Capital Requirements Directive.
 
 (d)‘mixed-financial holding company’ has the meaning assigned to it in point (21) of Article 4(1) of the Capital Requirements Regulation;
 
-28 OJ No. L 176, 27.06.2013, p. 1
-
 (e)‘mixed-activity holding company’ has the meaning assigned to it in point (22) of Article 4(1) of the Capital Requirements Regulation.
