@@ -1,4 +1,4 @@
-F67[Surrender.
+F71[Surrender.
 
 33A.—(1) Where the High Court makes an order under section 29A (inserted by section 6(b) of the Extradition (European Union Conventions) Act, 2001) in relation to a person whose surrender is sought by a Convention country, the Minister shall, not later than 20 days after the giving by that person of his consent to being surrendered to that country before that Court, so notify the Convention country in writing.
 

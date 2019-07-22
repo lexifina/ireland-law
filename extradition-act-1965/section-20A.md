@@ -1,4 +1,4 @@
-F33[Waiver of rule of specialty.
+F35[Waiver of rule of specialty.
 
 20A.—(1) The Minister may, where a person whose extradition is sought by a Convention country consents—
 

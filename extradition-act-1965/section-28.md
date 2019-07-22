@@ -1,4 +1,4 @@
-F59[Power of adjournment and remand.
+F63[Power of adjournment and remand.
 
 28. (1) The High Court may, if it considers it appropriate to do so in the interests of justice, adjourn any proceedings under this Act either on application or of its own motion, and may remand the person concerned in custody or on bail for the period of the adjournment or such other period as it considers appropriate.
 

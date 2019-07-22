@@ -1,4 +1,4 @@
-F29[Pardon or amnesty.
+F31[Pardon or amnesty.
 
 18A. (1) Extradition shall not be granted where the person claimed has been granted a pardon under Article 13.6 of the Constitution in respect of an offence consisting of an act that constitutes in whole or in part the offence under the law of the requesting country in respect of which extradition is sought.
 

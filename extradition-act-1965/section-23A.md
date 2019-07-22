@@ -1,4 +1,4 @@
-F35[Facsimile transmission of documents.
+F39[Facsimile transmission of documents.
 
 23A.—(1) For the purposes of a request for extradition from a Convention country, a facsimile copy of a document to which paragraph (a), (b), (c), (d) or (e) of section 25(1) applies may be transmitted by the Central Authority of the Convention country concerned to the Central Authority in the State by means of the use of a facsimile machine fitted with a cryptographic device that is in operation during the transmission.
 
