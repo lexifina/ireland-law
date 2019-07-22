@@ -22,9 +22,7 @@ Nominal value of shares Section 66(1) and (2)(a)
 
 Allotment of shares Section 69(3) and (6) to (10)
 
-Allotment of shares Section 70(1), (2), (3), (7), (8), (10) and (11)
-
-Payment of shares Section 71(2), (3) and (5)
+Allotment of shares Section 70(1), (2), (3), (7), (8), (10) and (11) Payment of shares Section 71(2), (3) and (5)
 
 Financial assistance
 
@@ -82,7 +80,9 @@ Annual return and documents annexed to it Chapter 13 of Part 6
 
 Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
 
-Audit exemption Chapter 15 of Part 6 Special audit exemption for dormant companies Chapter 16 of Part 6
+Audit exemption Chapter 15 of Part 6
+
+Special audit exemption for dormant companies Chapter 16 of Part 6
 
 Company may be required to contribute to debts
 

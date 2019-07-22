@@ -56,4 +56,6 @@ Scope of penalties and publicity in relation to their imposition
 
 (15) The recognised accountancy body shall establish, in writing, criteria the purpose of which is to govern the determination by it of the matters referred to in subsection (14), and those criteria shall require the prior approval of the Supervisory Authority.
 
-CHAPTER 9 Actions to be taken after decision by recognised accountancy body that statutory auditor or audit firm of public-interest entity has committed relevant
+CHAPTER 9
+
+Actions to be taken after decision by recognised accountancy body that statutory auditor or audit firm of public-interest entity has committed relevant
