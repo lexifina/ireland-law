@@ -40,6 +40,8 @@ Bank may publish its decisions.
 
 (8) This section does not apply where Regulation 7 of the European Union (Central Securities Depositories) Regulations 2016 (S.I. No. 481 of 2016) applies.
 
+(9) This section does not apply where Regulation 126 of the European Union (Markets in Financial Instruments) Regulations 2017 applies.
+
 (10) This section does not apply where Regulation 13 of the European Union (Information Accompanying Transfers of Funds) Regulations 2017 applies.
 
 (11) This section does not apply where Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 applies.
