@@ -30,7 +30,7 @@ Amendments of Investor Compensation Act 1998.
 
 (e) the return of dividends, monies and investment instruments to clients,
 
-(f) the allocation and provision of reasonable expenses of a liquidator, receiver, administrator, examiner or official assignee subject to Regulations 157 and 158 of the European Communi-ties (Markets in Financial Instruments) Regulations 2007 (S.I. No. 60 of 2007), and
+(f) the allocation and provision of reasonable expenses of a liquidator, receiver, administrator, examiner or official assignee subject to Regulations 157 and 158 of the European Communities (Markets in Financial Instruments) Regulations 2007 (S.I. No. 60 of 2007), and
 
 (g) the making of reports by an administrator to the Company containing such information relating to the administration of claims and at such time or times and in such manner as may be specified in the regulations,”, and
 

@@ -22,7 +22,7 @@ Third country branches.
 
 (a) a member state of the European Communities, or
 
-(b) a state (other than a member state of the European Communi-ties) that is a contracting party to the EEA Agreement;
+(b) a state (other than a member state of the European Communities) that is a contracting party to the EEA Agreement;
 
 ‘relevant credit institution’ means a credit institution whose head office is located in a state or territory other than an EEA state and which holds an authorisation to carry on banking business in that state or territory from the authority that exercises in that state or territory functions corresponding to those of the Bank under this Part (‘relevant third country authority’).
 
