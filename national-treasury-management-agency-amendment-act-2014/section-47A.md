@@ -1,0 +1,3 @@
+Transfer of assets (including money) from Fund to meet exceptional contingencies
+
+47A. ...
