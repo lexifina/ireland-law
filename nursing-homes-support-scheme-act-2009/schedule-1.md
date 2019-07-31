@@ -348,7 +348,7 @@ INTERPRETATION AND MISCELLANEOUS
 
 ‘relevant payment’ means, in relation to a person—
 
-(a) a payment or payments made to the person under the Scheme, made by the Government in December 2013 and for the time being administered by the Minister for Justice and Equality, providing for the making of ex-gratia payments to women who were admitted to and worked in a relevant institution (within the meaning of the Redress for Women Resident in Certain Institutions Act 2015), and includes any benefit provided under that Scheme,
+(a) an ex-gratia payment or payments made to the person under the Scheme (within the meaning of section 1 (amended by section 2 of the Redress for Women Resident in Certain Institutions (Amendment) Act 2019) of the Redress for Women Resident in Certain Institutions Act 2015), and includes any benefit provided under that Scheme,
 
 (b) an ex-gratia payment or payments made to the person under the terms of the Scheme referred to as the Lourdes Hospital Redress Scheme 2007,
 
