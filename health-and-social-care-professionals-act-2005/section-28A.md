@@ -1,4 +1,4 @@
-F31[Membership of registration boards of 2 or more designated professions
+F32[Membership of registration boards of 2 or more designated professions
 
 28A. (1) Subject to subsections (4), (5), (6), (7) and (10)(a), a registration board that is the registration board of 2 or more designated professions is to consist of the following members:
 

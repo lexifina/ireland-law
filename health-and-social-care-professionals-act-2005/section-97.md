@@ -1,4 +1,4 @@
-F121[Investigations
+F124[Investigations
 
 97. (1) The Council shall, at the request of the Minister, or may, of its own initiative or upon a complaint made by a member of the public, investigate any case of an individual who, not being a registrant of a designated profession, is suspected of being guilty of an offence under this Act.
 
