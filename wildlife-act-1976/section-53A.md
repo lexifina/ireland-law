@@ -1,4 +1,4 @@
-F186[Regulation of trade in wild flora and fauna and CITES Regulations.
+F187[Regulation of trade in wild flora and fauna and CITES Regulations.
 
 53A.—(1) The Minister is hereby designated, for the purposes of paragraph 1(a) of Article 13 of Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein (in this section referred to as ‘the Council Regulation’), as the management authority with primary responsibility in relation to that Regulation.
 
