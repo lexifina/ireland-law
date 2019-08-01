@@ -20,7 +20,7 @@ Definitions.
 
 “the CITES Convention” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora done at Washington on the 3rd day of March, 1973, as subsequently duly amended;
 
-“the CITES Regulations” means, where appropriate, either or both Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein(1), which relates to the CITES Convention, and Commission Regulation (EC) No. 939/97 of 26 May 1997 laying down detailed rules concerning the implementation of Council Regulation (EC) No. 338/97 on the protection of species of wild fauna and flora by regulating trade therein(2), together with any amendments to or replacements of those Regulations;
+‘CITES Regulations’ means Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein and Commission Regulation (EC) No. 865/2006 of 4 May 2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No. 338/97 on the protection of species of wild fauna and flora by regulating trade therein, together with any amendments to or replacements of those Regulations;
 
 “the Commissioners” means the Commissioners of Public Works in Ireland;
 
@@ -54,9 +54,9 @@ Definitions.
 
 “geology” includes—
 
-(1) O.J. No. L 61, 3 March 1997, page 1 (2) O.J. No. L 140, 30 May 1997, page 9
-
 (a) the study of the Earth (as a whole or in part), the materials of which it is made, the processes that act and have acted upon those materials and the products and structures formed by such action, and
+
+2 OJ No. L 61, 3.3. 1997, p.1
 
 (b) the physical and biological history of the Earth since its origin including the history of rock sequences as well as the history of life preserved as fossils in rocks and deposits at the surface, or in layers beneath the surface, of land;
 
