@@ -1,0 +1,5 @@
+Power of commander of aircraft to deliver person to Garda Síochána or competent authorities.
+
+7.—(1) If the commander of an aircraft registered in a Tokyo contracting state has reasonable grounds for believing that a person has committed on board the aircraft in flight anywhere an act which, in his opinion, is a serious offence under the criminal law of the state of registration of the aircraft, the commander may, if the flight of the aircraft terminates in the State, deliver the person to a member of the Garda Síochána as soon as may be after such termination.
+
+(2) If the commander of an Irish controlled aircraft has reasonable grounds for believing that a person has committed on board the aircraft in flight anywhere an act which, in his opinion, is a serious offence under the criminal law of the State, the commander may, if the flight of the aircraft terminates outside the State in the territory of a Tokyo contracting state deliver the person to competent authorities of that state as soon as may be after such termination.
