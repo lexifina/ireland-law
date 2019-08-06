@@ -14,7 +14,7 @@ Transboundary environmental impacts.
 
 (v) the extension of time limits for the making of decisions under this Act.
 
-(2) In addition to the requirements of sections 34(3), 37G(2), 37N(2), 146C(6), 173(1), 181B(1), 182B(1) and 182D(1), the planning authority or the Board, as the case may be, shall have regard, where appropriate, to the views of any Member State of the European Communities or other party to the Transboundary Convention in relation to the effects on the environment of the proposed development.
+(2) In addition to the requirements of sections 34(3), 37G(2), 37N(2), 146C(6), 173(1), 181(2H), 181B(1), 182B(1) and 182D(1), the planning authority or the Board, as the case may be, shall have regard, where appropriate, to the views of any Member State of the European Communities or other party to the Transboundary Convention in relation to the effects on the environment of the proposed development.
 
 (3) Notwithstanding any other provisions of this Act, a planning authority or the Board, as the case may be, may, following the consideration of any submissions or observations received or any consultations entered into by a planning authority or the Board, impose conditions on a grant of permission or approval in order to reduce or eliminate potential transboundary effects of any proposed development.
 
