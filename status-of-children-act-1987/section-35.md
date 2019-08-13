@@ -20,7 +20,7 @@ Declaration of parentage.
 
 (2) An application may be made under subsection (1) of this section notwithstanding the fact that any person named in the application as the father or the mother or a parent, as the case may be, is not, or may not be, alive.
 
-(3) Where a person not born in the State makes an application for a declaration by virtue of subsection (1)(b) of this section, he shall specify in the application the reasons for seeking the declaration from the Court, and the Court shall refuse to hear or refuse to continue hearing, as the case may be, the application if at any stage it considers that there are no good and proper reasons for seeking the declaration.
+(3) Where an application for a declaration under this section is made in relation to a person concerned who was not born in the State, the person making the application shall specify in the application the reasons for seeking the declaration from the Court, and the Court shall refuse to hear or refuse to continue hearing, as the case may be, the application if at any stage it considers that there are no good and proper reasons for seeking the declaration.
 
 (4) ...
 
