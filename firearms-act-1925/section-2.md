@@ -74,4 +74,4 @@ Restrictions on possession, use, and carriage of firearms.
 
 (6) In subsections (3)(g) and (4) (other than paragraphs ... (i) and (k)), references to a firearm or ammunition do not include references to a restricted firearm or restricted ammunition.
 
-(7) The superintendent of any district may authorise the Board of the National Museum in writing to possess for a specified period a firearm that is a museum heritage object within the meaning of the National Cultural Institutions Act 1997.
+(7) The superintendent of any district may authorise the Board of the National Museum in writing to possess for a specified period (which, in the case of a firearm classified in Category A of the Directive, shall not exceed 5 years) a firearm that is a museum heritage object within the meaning of the National Cultural Institutions Act 1997.
