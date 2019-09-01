@@ -38,7 +38,9 @@ Biofuel obligation.
 
 (a) in the case of the first obligation period, the period beginning on the day on which section 44C comes into operation and ending on 31 December next following that day, and
 
-(b) in the case of each subsequent obligation period, the period of 12 months beginning on 1 January and ending on 31 December next following the immediately preceding obligation period; ‘period of validity’, in relation to a biofuel obligation certificate, has the meaning assigned by section 44G;
+(b) in the case of each subsequent obligation period, the period of 12 months beginning on 1 January and ending on 31 December next following the immediately preceding obligation period;
+
+‘period of validity’, in relation to a biofuel obligation certificate, has the meaning assigned by section 44G;
 
 ‘petroleum products’ has the meaning assigned by section 36;
 
@@ -76,7 +78,9 @@ Biofuel obligation.
 
 (v) the National Standards Authority of Ireland, and
 
-(vi) Sustainable Energy Ireland — The Sustainable Energy Authority of Ireland, and may consult with such other persons as the Agency considers appropriate. 44C.— (1) This section applies to relevant disposals of road transport fuel in respect of which, in the obligation period concerned, an oil company or an oil consumer, as the case may be, is liable to pay the levy—
+(vi) Sustainable Energy Ireland — The Sustainable Energy Authority of Ireland, and may consult with such other persons as the Agency considers appropriate.
+
+44C.— (1) This section applies to relevant disposals of road transport fuel in respect of which, in the obligation period concerned, an oil company or an oil consumer, as the case may be, is liable to pay the levy—
 
 (a) whether or not the levy has been paid, and
 
@@ -320,9 +324,7 @@ Biofuel obligation.
 
 (2) The first such statement referred to in subsection (1) shall be given within 14 days after the end of the first 3 month period beginning on the coming into operation of this section.
 
-(3) The Agency shall, as soon as is reasonably practicable, on receipt of a request in writing from a biofuel obligation account holder, issue a statement in such form as the Agency determines specifying the number of biofuel obligation certificates (if any) held to the credit of that account holder’s biofuel obligation account and the date of each such certificate.
-
-44I.— (1) The Agency shall notify each obligated party in such form as the Agency determines within 35 days after the end of the obligation period concerned of—
+(3) The Agency shall, as soon as is reasonably practicable, on receipt of a request in writing from a biofuel obligation account holder, issue a statement in such form as the Agency determines specifying the number of biofuel obligation certificates (if any) held to the credit of that account holder’s biofuel obligation account and the date of each such certificate. 44I.— (1) The Agency shall notify each obligated party in such form as the Agency determines within 35 days after the end of the obligation period concerned of—
 
 (a) the biofuel obligation relating to the obligated party for that period, and
 
@@ -340,9 +342,9 @@ Biofuel obligation.
 
 (b) A biofuel obligation certificate referred to in paragraph (a) may not be counted towards the discharge of more than 25 per cent of the amount of the biofuel obligation notified to the obligated party under subsection (1) in respect of that subsequent obligation period.
 
-(7) A biofuel obligation certificate held to the credit of a biofuel obligation account may not be counted towards the discharge of the biofuel obligation notified under subsection (1) in respect of any obligation period which is prior to the period of validity of the certificate concerned. 44J.— (1) Where the biofuel obligation notified under subsection (1) of section 44I is not discharged, in whole or in part, in respect of the obligated party concerned, in accordance with, and in the period specified in, subsection (3) of that section, or, as the case may be, under subsection (4) of that section, the obligated party shall pay to the Agency an amount in respect of the shortfall (in this section referred to as the ‘buy-out charge’) calculated in accordance with the formula—
+(7) A biofuel obligation certificate held to the credit of a biofuel obligation account may not be counted towards the discharge of the biofuel obligation notified under subsection (1) in respect of any obligation period which is prior to the period of validity of the certificate concerned.
 
-X x Y where—
+44J.— (1) Where the biofuel obligation notified under subsection (1) of section 44I is not discharged, in whole or in part, in respect of the obligated party concerned, in accordance with, and in the period specified in, subsection (3) of that section, or, as the case may be, under subsection (4) of that section, the obligated party shall pay to the Agency an amount in respect of the shortfall (in this section referred to as the ‘buy-out charge’) calculated in accordance with the formula— X x Y where—
 
 X is the amount of the biofuel obligation notified under section 44I(1) which remains undischarged, and
 
