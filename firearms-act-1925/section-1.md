@@ -12,6 +12,8 @@ Definitions and interpretation.
 
 “Commissioner” means the Commissioner of the Garda Síochána or a member of the Garda Síochána, or members of a particular rank in the Garda Síochána, not below the rank of superintendent appointed in writing by the Commissioner for the purpose of performing any of the Commissioner’s functions under this Act;
 
+‘Directive’ means Council Directive 91/477/EEC of 18 June, 1991 on control of the acquisition and possession of weapons, as amended by Directive 2008/51/EC of the European Parliament and of the Council of 21 May 2008 and Directive (EU) 2017/853 of the European Parliament and of the Council of 17 May 2017, and includes Articles 10 and 11 of Chapter III of Council Directive 93/15/EEC of 5 April, 1993 on the harmonisation of the provisions relating to the placing on the market and supervision of explosives for civil uses;
+
 “firearm” means—
 
 (a) a lethal firearm or other lethal weapon of any description from which any shot, bullet or other missile can be discharged,
