@@ -34,6 +34,8 @@ Consultations in relation to proposed development.
 
 (f) For the purposes of this subsection ‘gross floor space’ means the area ascertained by the internal measurement of the floor space on each floor of a building (including internal walls and partitions), disregarding any floor space provided for the parking of vehicles by persons occupying or using the building or buildings where such floor space is incidental to the primary purpose of the building.
 
+(g) A planning authority shall, in carrying out consultations under this section, consult with the competent authority (within the meaning of the Aircraft Noise (Dublin Airport) Regulation Act 2019) and, where requested to do so by the competent authority, facilitate the competent authority in engaging in the consultation and requiring the person making a request under paragraph (a) to furnish to the planning authority any specified types of drawings, plans, documents or other information in relation to that request as the competent authority may specify.
+
 (2) In any consultations under subsection (1), the planning authority shall advise the person concerned of the procedures involved in considering a planning application, including any requirements of the permission regulations, and shall, as far as possible, indicate the relevant objectives of the development plan which may have a bearing on the decision of the planning authority.
 
 (3) The carrying out of consultations shall not prejudice the performance by a planning authority of any other of its functions under this Act, or any regulations made under this Act and cannot be relied upon in the formal planning process or in legal proceedings.

@@ -52,6 +52,8 @@ CONDITIONS WHICH MAY BE IMPOSED, ON THE GRANTING OF PERMISSION TO DEVELOP LAND, 
 
 17. Any condition relating to measures to reduce or prevent the emission or the intrusion of noise or vibration.
 
+17A. Any conditions relating to measures for the regulation of aircraft noise at Dublin Airport including, as appropriate, the area around Dublin Airport significantly affected by aircraft noise.
+
 18. Any condition prohibiting, regulating or controlling the deposit or disposal of waste materials and refuse, the disposal of sewage and the pollution of rivers, lakes, ponds, gullies and the seashore.
 
 19. Any condition relating to the protection of features of the landscape which are of major importance for wild fauna and flora.

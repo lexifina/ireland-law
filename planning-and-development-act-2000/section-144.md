@@ -26,7 +26,9 @@ Fees payable to Board.
 
 (i) request for an oral hearing under section 134 or 177Q; and
 
-(j) making a submission or observation under section 37E, 37F, 130, 135(2B)(e), 146B, 146C, 146D, 175, 181A, 182A, 182C, 217B, or 226, section 51 of the Roads Act 1993, section 40 (other than by persons required to be served with a notice under section 40(1)(d)), section 41, or section 47D of the Act of 2001 or making an objection under section 48 of the Roads Act 1993 (other than by persons on whom notice is served under section 48(b)).
+(j) making a submission or observation under section 37E, 37F, 130, 135(2B)(e), 146B, 146C, 146D, 175, 181A, 182A, 182C, 217B, or 226, section 51 of the Roads Act 1993, section 40 (other than by persons required to be served with a notice under section 40(1)(d)), section 41, or section 47D of the Act of 2001 or making an objection under section 48 of the Roads Act 1993 (other than by persons on whom notice is served under section 48(b));
+
+(k) an appeal under section 10 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 against a relevant regulatory decision within the meaning of that section.
 
 (1B) The Board may, subject to the approval of the Minister, provide for the payment of different fees in relation to different classes or descriptions of matters referred to in subsection (1A)(a) to (j), for exemption from the payment of fees in specified circumstances and for the waiver, remission or refund in whole or in part of fees in specified circumstances.
 

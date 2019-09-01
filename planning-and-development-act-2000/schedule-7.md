@@ -40,7 +40,7 @@ Transport Infrastructure
 
 —A terminal, building or installation associated with a long-distance railway, tramway, surface, elevated or underground railway or railway supported by suspended lines or similar lines of a particular type, used exclusively or mainly for passenger transport, but excluding any proposed railway works referred to in section 37(3) of the Transport (Railway Infrastructure) Act 2001 (as amended by the Planning and Development (Strategic Infrastructure) Act 2006).
 
-—An airport (with not less than 2 million instances of passenger use per annum) or any runway, taxiway, pier, car park, terminal or other facility or installation related to it (whether as regards passenger traffic or cargo traffic).
+...
 
 A harbour or port installation (which may include facilities in the form of loading or unloading areas, vehicle queuing and parking areas, ship repair areas, areas for berthing or dry docking of ships, areas for the weighing, handling or transport of goods or the movement or transport of passengers (including customs or passport control facilities), associated administrative offices or other similar facilities directly related to and forming an integral part of the installation)—
 
@@ -68,9 +68,7 @@ Environmental Infrastructure
 
 (a) the incineration, or
 
-(b) the chemical treatment (within the meaning of Annex IIA to Council Directive 75/442/EEC under heading D9), of non-hazardous waste with a capacity for an annual intake greater than 100,000 tonnes.
-
-—An installation for the disposal, treatment or recovery of waste with a capacity for an annual intake greater than 100,000 tonnes.
+(b) the chemical treatment (within the meaning of Annex IIA to Council Directive 75/442/EEC under heading D9), of non-hazardous waste with a capacity for an annual intake greater than 100,000 tonnes. —An installation for the disposal, treatment or recovery of waste with a capacity for an annual intake greater than 100,000 tonnes.
 
 —A groundwater abstraction or artificial groundwater recharge scheme, where the annual volume of water abstracted or recharged is equivalent to or exceeds 2 million cubic metres.
 
