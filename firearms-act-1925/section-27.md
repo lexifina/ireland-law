@@ -1,4 +1,4 @@
-F84[Regulations.
+F91[ Regulations.
 
 27.— (1) The Minister may make regulations prescribing any matter referred to in this Act as prescribed or to be prescribed or to be the subject of regulations or for the purpose of enabling any of its provisions to have full effect.
 

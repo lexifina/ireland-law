@@ -1,4 +1,4 @@
-F86[Provision of information by Commissioner to Minister for purposes of Act and Firearms (Firearm Certificates For Non- Residents) Act 2000
+F93[Provision of information by Commissioner to Minister for purposes of Act and Firearms (Firearm Certificates For Non-Residents) Act 2000
 
 27B. (1) The Minister may request the Commissioner to provide any information necessary for the performance of the Minister’s functions under sections 9, 10, 11 and 17 and under section 2 of the Firearms (Firearm Certificates For Non-Residents) Act 2000, and the Commissioner shall, notwithstanding anything contained in any other enactment or rule of law, but subject to the Data Protection Regulation and the Data Protection Act 2018, comply with that request.
 

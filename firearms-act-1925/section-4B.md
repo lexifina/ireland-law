@@ -1,4 +1,4 @@
-F34[Firearms range inspectors.
+F40[Firearms range inspectors.
 
 4B.— (1) The Minister may by warrant appoint such and so many persons as he or she thinks necessary to be firearms range inspectors and may revoke any such appointment.
 

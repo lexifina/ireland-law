@@ -1,4 +1,4 @@
-F32[Conditions of grant of firearm certificate.
+F38[Conditions of grant of firearm certificate.
 
 4.— (1) An issuing person shall not grant a firearm certificate unless he or she is satisfied that the applicant complies with the conditions referred to in subsection (2) and will continue to comply with them during the currency of the certificate.
 

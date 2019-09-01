@@ -1,3 +1,3 @@
-Powers and duties of F72[employees of a postal service].
+Powers and duties of F78[employees of a postal service].
 
 19.—Any employee of a postal service may detain and examine and if necessary open for that purpose any postal packet known to him to contain or suspected by him of containing a firearm or prohibited weapon or any ammunition, and if a postal packet so detained contains a firearm or prohibited weapon or any ammunition the employees of the said postal service shall make such inquiries in regard thereto as they think proper, and shall dispose of the packet and the contents thereof (including the firearm, prohibited weapon, or ammunition) in accordance with the instructions of the Minister for Justice, or any superintendent of the Gárda Síochána, and may detain the said packet and contents pending the making of such inquiries and the receipt of such instructions.

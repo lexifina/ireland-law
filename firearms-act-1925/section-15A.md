@@ -1,4 +1,4 @@
-F66[Appeal to District Court.
+F72[ Appeal to District Court.
 
 15A.— (1) An appeal may be made to the District Court by a person aggrieved by any of the following decisions made by an issuing person:
 

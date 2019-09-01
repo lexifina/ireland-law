@@ -1,4 +1,4 @@
-F79[Punishments.
+F86[ Punishments.
 
 25.— Any person who commits an offence under this Act in respect of which no other punishment is provided is liable in respect of each such offence—
 
