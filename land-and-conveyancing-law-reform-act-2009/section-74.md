@@ -4,7 +4,7 @@ Fraudulent dispositions.
 
 (2) For the purposes of subsection (1), a voluntary disposition is not to be read as intended to defraud merely because a subsequent disposition of the same land was made for valuable consideration.
 
-(3)Subject to subsections (4), (5) and (6), any conveyance of property made with the intention of defrauding a creditor or other person is voidable by any person thereby prejudiced.
+(3) Subject to subsections (4), (5) and (6), any conveyance of property made with the intention of defrauding a creditor or other person is voidable by any person thereby prejudiced.
 
 (4) Subsection (3) does not—
 
