@@ -26,7 +26,7 @@ Table
 
 Annual Pensions of Relevant (Post 29 February 2012) Pensioners
 
-(4) Where the application to a pensioner of subsection (3)and the Table in that subsection would result in the annualised amount of his or her public service pension being reduced to less than €32,500, then that subsection and Table shall only operate to reduce the annualised amount of his or her public service pension to €32,500.
+(4) Where the application to a pensioner of subsection (3) and the Table in that subsection would result in the annualised amount of his or her public service pension being reduced to less than €32,500, then that subsection and Table shall only operate to reduce the annualised amount of his or her public service pension to €32,500.
 
 (5) If two or more public service pensions, the annual amount of which, taken together, exceeds €32,500, are payable to a pensioner, all such pensions shall be aggregated for the purposes of applying subsection (3) in relation to the pensioner.
 
