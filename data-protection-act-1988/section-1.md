@@ -42,8 +42,6 @@ Interpretation and application of Act.
 
 ‘the Directive’ means Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data(1);
 
-(1) O.J. No. L 281/38 of 23.11.95, p.31.
-
 ...
 
 “disclosure”, in relation to personal data, includes the disclosure of information extracted from such data and the transfer of such data but does not include a disclosure made directly or indirectly by a data controller or a data processor to an employee or agent of his for the purpose of enabling the employee or agent to carry out his duties; and, where the identification of a data subject depends partly on the data and partly on other information in the possession of the data controller, the data shall not be regarded as disclosed unless the other information is also disclosed;
@@ -61,6 +59,8 @@ Interpretation and application of Act.
 “information notice” means a notice under section 12 of this Act;
 
 “local authority” means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
+
+(1) O.J. No. L 281/38 of 23.11.95, p.31.
 
 ‘manual data’means information that is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system;
 
