@@ -1,6 +1,6 @@
 International service.
 
-51.— (1) Subject to subsection (3), the Garda Commissioner shall assign eligible members of the Garda Síochána in such numbers and of such rank as the Government may determine for service outside the State—
+51.—(1) Subject to subsection (3), the Garda Commissioner shall assign eligible members of the Garda Síochána in such numbers and of such rank, as the Government may determine for service outside the State—
 
 (a) to carry out duties of a police character with an international organisation,
 
@@ -14,7 +14,7 @@ International service.
 
 (b) as members of a joint investigation team within the meaning of the Criminal Justice (Joint Investigation Teams) Act 2004, as amended by section 96 of the Criminal Justice (Mutual Assistance) Act 2008,
 
-(c) in connection with the making of a controlled delivery outside the State pursuant to a request under section 89 of the said Act of 2008, or
+(c) in connection with the making of a controlled delivery outside the State pursuant to a request under section 89 of the Criminal Justice (Mutual Assistance) Act 2008, or
 
 (d) on secondment to an international organisation with the consent of the Minister.
 
