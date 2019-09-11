@@ -164,9 +164,7 @@ Waste management plans.
 
 (c) Following consideration of any submissions or observations received in accordance with subsection (2), the manager may—
 
-(i) notwithstanding the fact that the proposed development would materially contravene the development plan, decide to proceed with the proposed development, with or without modifications (and, where he or she so decides, he or she shall follow the relevant procedures contained in section 175 or 179 of the Planning and Development Act, 2000, as appropriate), or
-
-(ii) decide not to proceed with the proposed development.
+(i) notwithstanding the fact that the proposed development would materially contravene the development plan, decide to proceed with the proposed development, with or without modifications (and, where he or she so decides, he or she shall follow the relevant procedures contained in section 175 or 179 of the Planning and Development Act, 2000, as appropriate), or (ii) decide not to proceed with the proposed development.
 
 (10D) (a) In performing their functions under the Planning and Development Acts 2000 to 2002, and, in particular, their functions under Part III and sections 175 and 179 of the Planning and Development Act 2000, planning authorities and An Bord Pleanála shall ensure that such measures as are reasonably necessary are taken to secure appropriate provision for the management of waste (and, in particular, recyclable materials) within developments, including the provision of facilities for the storage, separation and collection of such waste (and, in particular, such materials) and the preparation by the appropriate persons of suitable plans for the operation of such facilities.
 

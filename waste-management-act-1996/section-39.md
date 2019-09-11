@@ -90,9 +90,7 @@ Requirement to hold waste licence.
 
 (h) where a weighing system is used to determine weight-based collection charges, the submission of confirmation of an annual inspection of the weighing system used by the permit holder in accordance with the Legal Metrology (General) Regulations 2008 (S.I. No. 323 of 2008), in such form that may be specified on the waste permit or such other authorisation of certificate referred to in subsection (5)(c).
 
-(5C) (a) The Minister, where he or she considers that it is necessary for waste management in accordance with the principle that the costs of that management shall be borne by the original waste producer shall, by regulations under subsection (4), specify a condition to be attached to a waste permit or such other authorisation of certificate referred to in subsection
-
-(5)(c), specifying a requirement that the holder of such waste permit or such other authorisation of certificate (“holder”) shall charge fees for accepting household waste, which would otherwise fall to be collected pursuant to a waste collection permit, delivered to the holder’s facility by the person who delivers household waste.
+(5C) (a) The Minister, where he or she considers that it is necessary for waste management in accordance with the principle that the costs of that management shall be borne by the original waste producer shall, by regulations under subsection (4), specify a condition to be attached to a waste permit or such other authorisation of certificate referred to in subsection (5)(c), specifying a requirement that the holder of such waste permit or such other authorisation of certificate (“holder”) shall charge fees for accepting household waste, which would otherwise fall to be collected pursuant to a waste collection permit, delivered to the holder’s facility by the person who delivers household waste.
 
 (b) Regulations under paragraph (a) shall provide for the means by which fees for accepting waste shall be calculated by a holder and shall—
 
