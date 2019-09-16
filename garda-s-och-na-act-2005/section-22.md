@@ -2,14 +2,6 @@ Annual policing plan.
 
 22.—(1) The Garda Commissioner shall each year prepare a policing plan setting out the proposed arrangements for policing services for the following year.
 
-(a) establish or dissolve a national unit of the Garda Síochána,
-
-(b) alter the boundaries of a regional geographical area under the control of an Assistant Garda Commissioner or of a divisional geographical area under the control of a chief superintendent,
-
-(c) establish or relocate a divisional headquarters under the control of a chief superintendent or of a district headquarters under the control of a superintendent, or
-
-(d) open a Garda Síochána station in a new location or cease stationing members in an existing station.
-
 (2) In preparing a policing plan, the Garda Commissioner shall have regard to the following:
 
 (a) the priorities determined and performance targets established under section 20;
