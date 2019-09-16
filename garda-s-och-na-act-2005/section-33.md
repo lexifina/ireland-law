@@ -4,9 +4,7 @@ Distribution of Garda Síochána.
 
 (2) The Garda Commissioner shall, to the extent practicable, ensure that members of the Garda Síochána stationed in a district that includes a Gaeltacht area are sufficiently competent in the Irish language to enable them to use it with facility in carrying out their duties.
 
-(3) In this section “Gaeltacht area” means an area for the time being determined to be a Gaeltacht area by order made under section 2 of the Ministers and Secretaries
-
-(Amendment) Act 1956 and continued to be such an area by section 7(1) of the Gaeltacht Act 2012.
+(3) In this section “Gaeltacht area” means an area for the time being determined to be a Gaeltacht area by order made under section 2 of the Ministers and Secretaries (Amendment) Act 1956 and continued to be such an area by section 7(1) of the Gaeltacht Act 2012.
 
 CHAPTER 3A
 
