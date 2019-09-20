@@ -52,6 +52,4 @@ Where the Court decides under paragraph (a) not to order the forfeiture of all o
 
 (c) A person who fails to comply with paragraph (b) commits an offence and is liable on summary conviction to a fine not exceeding €500.
 
-TABLE 1 — Fines - Provisions of Chapter 2
-
-TABLE 2 — Fines - Provisions of Act of 2003
+TABLE 1 — Fines - Provisions of Chapter 2 TABLE 2 — Fines - Provisions of Act of 2003
