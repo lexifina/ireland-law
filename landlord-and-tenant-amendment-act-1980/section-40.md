@@ -1,0 +1,5 @@
+Right of lessee to continue in possession.
+
+40.—(1) A person who is entitled to obtain a reversionary lease and whose interest in the land has expired shall continue to be entitled to hold the land until either he is declared not to be entitled to obtain a reversionary lease or a lease is executed by his immediate lessor and such (if any) superior lessors as may be necessary, in terms agreed upon between the parties or settled under this Part and, during such period, he shall hold the land on the terms (so far as applicable) on which he previously held them, subject to any recoupments or adjustments that may be made under the reversionary lease if granted to him.
+
+(2) Where an application is made in relation to the grant of a reversionary lease and the interest of the applicant in the land expires before the application is heard and determined, the applicant shall be entitled to remain in possession of the land until the application is finally heard and determined on the terms (so far as applicable) on which he previously held them, subject to such recoupments or adjustments as the Court thinks proper.

@@ -1,0 +1,3 @@
+Rights of entry and inspection.
+
+86.—Where an improvement notice or a notice of intention to claim relief under Part II or IV has been served, the landlord and every superior landlord on whom the notice or a copy thereof has been served under this Act, and every person authorised by the landlord or any such superior landlord, shall be entitled to enter at all reasonable times on the premises and there to make such inspection and examination and take such measurements as are necessary or proper for the determination by the landlord or superior landlord (as the case may be) of the course he will adopt in relation to the notice.

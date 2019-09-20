@@ -1,0 +1,7 @@
+Modification of sections 23 and 24 in case of dwellings to which section 15 relates.
+
+25.—(1) In the case of a dwelling to which section 15 relates, sections 23 and 24 shall apply subject to the provisions of this section.
+
+(2) If the terms of a new tenancy for the dwelling have not on any previous occasion been fixed by the Court under the Act of 1931 or under this Part and the Court is satisfied that payment of the rent which, apart from this provision, would be fixed would cause hardship to the tenant, the Court shall fix the rent payable by the tenant under the new tenancy at a sum (not below the existing rent) which the Court is satisfied that, having regard to all the circumstances of the case, including any hardship to the landlord, the tenant should be required to pay and section 23 (2) shall have effect as if “not more than ten years” were substituted for “thirty-five years or such less term as the tenant may nominate” and section 24 shall not apply to the rent so fixed.
+
+(3) In any other case, section 23 (6) shall have effect as if for “and in respect of which the tenant would have been entitled to compensation for improvements if (as the case may be) this Part did not apply to the tenement or the new tenancy had not been created” there were substituted “(whether before or after the commencement of this Act or the passing of the Act of 1931 or the Rent Restrictions (Amendment) Act, 1967) which, at the time of the application to the Court, add to the letting value and are suitable to the character of the tenement”.

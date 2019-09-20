@@ -1,0 +1,3 @@
+Right of tenant to continue in occupation pending decision.
+
+28.—Where an application is pending under this Part for a new tenancy or to fix the terms of a new tenancy and the pre-existing tenancy was terminated otherwise than by ejectment or surrender the tenant may, if he so desires, continue in occupation of the tenement from the termination of the tenancy until the application is determined by the Court or, in the event of an appeal, by the final appellate court, and the tenant shall while so continuing be subject to the terms (including the payment of rent) of such tenancy, but without prejudice to such recoupments and readjustments as may be necessary in the event of a new tenancy being granted to commence from such termination.
