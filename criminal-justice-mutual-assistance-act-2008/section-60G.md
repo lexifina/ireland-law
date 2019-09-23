@@ -1,3 +1,3 @@
 Termination of execution of external financial penalty order.
 
-60G. ...
+60G. Where an external financial penalty order has been transmitted to the Central Authority for execution in the State, the execution of the external financial penalty order shall terminate as soon as may be after the Central Authority is informed by the competent authority of the issuing state concerned that that external financial penalty order has ceased to be enforceable or has been withdrawn by that issuing state or where the court is satisfied on an application made under section 60D(2) that, in all the circumstances, the defendant should be excused from paying all or part of the sum mentioned in the external financial penalty order, ordering that the amount be so reduced.
