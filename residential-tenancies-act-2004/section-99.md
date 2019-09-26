@@ -1,4 +1,4 @@
-Adjudicator's report.
+Adjudicator’s report.
 
 99.—(1) As soon as practicable after an adjudicator has made a determination under section 97 in relation to a dispute, the adjudicator shall prepare a report containing the following—
 

@@ -1,4 +1,4 @@
-Termination on tenant's death.
+Termination on tenant’s death.
 
 39.—(1) Subject to subsections (2) , (4) and (6), a Part 4 tenancy shall terminate on the death of the tenant.
 

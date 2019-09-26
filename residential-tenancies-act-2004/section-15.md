@@ -1,4 +1,4 @@
-Duty owed to certain third parties to enforce tenant's obligations.
+Duty owed to certain third parties to enforce tenant’s obligations.
 
 15.—(1) A landlord of a dwelling owes to each person who could be potentially affected a duty to enforce the obligations of the tenant under the tenancy.
 
