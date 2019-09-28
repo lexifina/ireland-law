@@ -24,8 +24,6 @@ Designated professions.
 
 (i) radiographer;
 
-(ia) radiation therapist;
-
 (j) social care worker;
 
 (k) social worker;
