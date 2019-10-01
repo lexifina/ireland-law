@@ -14,9 +14,7 @@ Contributions to Scheme, etc.
 
 (a) to be calculated on the basis of each calendar year, or part of such year, that the person concerned is or was a Scheme member, and
 
-(b) where in respect of any such period referred to in paragraph (a) that that person was not working on a full-time basis, as adjusted by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis.
-
-TABLE:
+(b) where in respect of any such period referred to in paragraph (a) that that person was not working on a full-time basis, as adjusted by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis. TABLE:
 
 Rates of contribution
 
