@@ -1,4 +1,4 @@
-F103[Entry in Register
+F107[Entry in Register
 
 30B. (1) A person referred to in sub paragraph (i) or (ii) of section 9(1)(a) of the Act of 2015 to whom a gender recognition certificate is issued by the Minister may contact an tArd-Chláraitheoir and request that the required particulars relating to the recognition of the gender of the person are entered in the register.
 
