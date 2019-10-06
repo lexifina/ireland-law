@@ -10,11 +10,11 @@ Grandfather Grandmother
 
 Grandparent’s brother Grandparent’s sister
 
-Father Mother
+Father Mother Father’s brother Mother’s sister
 
-Father’s brother Mother’s sister
+Mother’s brother Father’s sister
 
-Mother’s brother Father’s sister Brother Sister
+Brother Sister
 
 Nephew Niece
 
