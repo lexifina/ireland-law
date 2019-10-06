@@ -10,6 +10,8 @@ Interpretation.
 
 ‘Act of 2015’ means the Gender Recognition Act 2015;
 
+...
+
 “the Acts” means the Births and Deaths Registration Acts 1863 to 1996;
 
 ...
@@ -43,6 +45,8 @@ Interpretation.
 ‘decree of divorce’ has the meaning assigned to it by the Family Law (Divorce) Act 1996;
 
 ‘dissolution’ means dissolution of a civil partnership under section 110 of the Act of 2010;
+
+‘donor-conceived child’ has the same meaning as it has in Part 2 of the Children and Family Relationships Act 2015;
 
 ‘enactment’ means—
 
@@ -88,6 +92,8 @@ Interpretation.
 
 “Oifig an Ard-Chláraitheora” shall be construed in accordance with section 12;
 
+‘parent’, in relation to a donor-conceived child, means the parent or parents of that child under section 5 of the Children and Family Relationships Act 2015;
+
 “personal public service number” has the meaning assigned to it by the Social Welfare (Consolidation) Act 1993;
 
 “prescribed” means prescribed by regulations made by the Minister;
@@ -120,15 +126,15 @@ Interpretation.
 
 “the required particulars” means—
 
-(a) in relation to a birth or a living new-born child found abandoned, the particulars specified in Part 1 of the First Schedule,
+(a) in relation to a birth or a living new born child found abandoned, the particulars specified in Part 1 of the First Schedule in relation to the child, the mother of the child and, as applicable, the father or other parent of the child;
 
-(b) in relation to a stillbirth, the particulars specified in Part 2 of that Schedule,
+(b) in relation to a stillbirth the particulars specified in Part 2 of the First Schedule in relation to the child, the mother of the child and, as applicable, the father or other parent of the child;
 
 (c) ...
 
 (d) ...
 
-(e) in relation to a death, the particulars specified in Part 5 of that Schedule;
+(e) in relation to a death, the particulars specified in Part 5 of the First Schedule in relation to the deceased and, as applicable, the mother, father, parent and guardian of the deceased;
 
 ‘scheme’ means a scheme approved under section 14;
 
