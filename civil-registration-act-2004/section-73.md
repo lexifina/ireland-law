@@ -86,13 +86,21 @@ Personal public service number of father.
 
 Birth surname of father's mother.
 
+Forename(s), surname, birth surname, address and occupation of parent.
+
+Former surname(s) (if any) of parent.
+
+Date of birth of parent.
+
+Civil status of parent. Personal public service number of parent.
+
+Birth surname of parent’s mother.
+
 Forename(s), surname, qualification, address and signature of informant.
 
 Date of registration.
 
 Signature of registrar.
-
-## PARTICULARS TO BE ENTERED IN REGISTER OF BIRTHS
 
 ## PART 2 PARTICULARS TO BE ENTERED IN REGISTER OF STILLBIRTHS
 
@@ -104,7 +112,9 @@ Sex of child.
 
 Weight of child.
 
-Gestational age of child. Forename(s) and surname* of child.
+Gestational age of child.
+
+Forename(s) and surname* of child.
 
 ...
 
@@ -132,6 +142,18 @@ Personal public service number of father.
 
 Birth surname of father's mother.
 
+Forename(s), surname, birth surname, address and occupation of parent.
+
+Former surname(s) (if any) of parent.
+
+Date of birth of parent.
+
+Civil status of parent.
+
+Personal public service number of parent.
+
+Birth surname of parent’s mother.
+
 Forename(s), surname, qualification, address and signature of informant.
 
 Date of registration.
@@ -140,15 +162,11 @@ Signature of registrar.
 
 Particulars to be entered in Register of Gender Recognition
 
-## PARTICULARS TO BE ENTERED IN REGISTER OF STILLBIRTHS
-
 ## PART 2A
 
 Date and place of birth.
 
-Time of birth.
-
-Sex of child.
+Time of birth. Sex of child.
 
 Forename(s) of child.
 
@@ -168,7 +186,9 @@ Personal public service number of mother.
 
 Birth surname of mother’s mother.
 
-Forename(s), surname, birth surname, address and occupation of father. Former surname(s) (if any) of father.
+Forename(s), surname, birth surname, address and occupation of father.
+
+Former surname(s) (if any) of father.
 
 Date of birth of father.
 
@@ -198,9 +218,7 @@ Sex of child.
 
 Forename(s) and surname of child.
 
-Forename(s), surname(s), birth surname(s), address and occupation(s) of adopters.
-
-Former surname(s) of adopters.
+Forename(s), surname(s), birth surname(s), address and occupation(s) of adopters. Former surname(s) of adopters.
 
 Date(s) of birth of adopters.
 
@@ -224,9 +242,7 @@ Signature of an tArd-Chláraitheoir.
 
 ## PART 5 PARTICULARS OF DEATHS TO BE ENTERED IN REGISTER OF DEATHS
 
-Date and place of death.
-
-Place of birth of deceased.
+Date and place of death. Place of birth of deceased.
 
 Sex of deceased.
 
@@ -246,7 +262,11 @@ If deceased was less than 18 years of age on date of death, occupation(s) of his
 
 Forename(s) and birth surname of father of deceased.
 
-Forename(s) and birth surname of mother of deceased. Certificated cause of death, duration of illness and date of certificate under section 42.
+Forename(s) and birth surname of mother of deceased.
+
+Forename(s) and birth surname of parent of deceased.
+
+Certificated cause of death, duration of illness and date of certificate under section 42.
 
 Forename, surname, place of business, daytime telephone number and qualification of registered medical practitioner who signed certificate under section 42.
 
@@ -258,7 +278,13 @@ Date of registration.
 
 Signature of registrar.
 
-## PARTICULARS OF DEATHS TO BE ENTERED IN REGISTER OF DEATHS PARTICULARS OF DEATHS TO BE ENTERED IN REGISTER OF DEATHS
+Particulars of Presumed Deaths to be Entered in the Register of Presumed Deaths
+
+## PARTICULARS OF DEATHS TO BE ENTERED IN REGISTER OF DEATHS
+
+## PART 5B
+
+...
 
 ## PART 6 PARTICULARS OF DECREES OF DIVORCE TO BE ENTERED IN REGISTER OF DECREES OF DIVORCE
 
@@ -288,9 +314,9 @@ Forenames, surnames and birth surnames of the parties to the proceedings.
 
 Personal public service numbers of the parties to the proceedings.
 
-Date and place of civil partnership registration.
+Date and place of civil partnership registration. Date of the decree.
 
-Date of the decree. Date of registration of the decree.
+Date of registration of the decree.
 
 Forenames and surname of officer of Courts Service.
 
@@ -322,9 +348,9 @@ Year and record number of the proceedings.
 
 Forenames, surnames and birth surnames of the parties to the proceedings.
 
-Personal public service numbers of the parties to the proceedings.
+Personal public service numbers of the parties to the proceedings. Date and place of civil partnership registration.
 
-Date and place of civil partnership registration. Declaration of court.
+Declaration of court.
 
 Date of the decree.
 
