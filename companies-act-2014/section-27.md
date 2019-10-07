@@ -6,6 +6,8 @@ Trading under a misleading name
 
 (3) Subsection (1) as it relates to the use of the word “limited”, or any abbreviation of that word, shall not apply to a society registered under the Industrial and Provident Societies Acts 1893 to 2014.
 
+(3A) Subsection (1) as it relates to the use of the word ‘limited’, or any abbreviation of that word, shall not apply to a limited liability partnership (within the meaning of the Legal Services Regulation Act 2015).
+
 (4) A company shall not, in the following circumstances, use a name which may reasonably be expected to give the impression that it is any type of company other than a private company limited by shares or that it is any other form of body corporate.
 
 (5) Those circumstances are circumstances in which the fact that it is a private company limited by shares is likely to be material to any person.
