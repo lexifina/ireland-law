@@ -22,7 +22,7 @@ Audit committees
 
 (b) a company which has one or more subsidiary undertakings, if the company and all those subsidiary undertakings together, in both the most recent financial year of that company and the immediately preceding financial year, meet the criteria set out in paragraph (a).
 
-(2) The board of directors of a “relevant company shall either—
+(2) The board of directors of a relevant company shall either—
 
 (a) establish a committee (an “audit committee”) that—
 
