@@ -4,7 +4,7 @@ Consideration by Legal Costs Adjudicator of determination
 
 (2) An application under subsection (1) shall be—
 
-(a) in such form as may be specified in rules of court or, where applicable, under section 166, and shall specify by a list in a short and concise form the matters or items, or parts thereof, to which the decision of the Legal Costs Adjudicator being objected to relates and the grounds and reasons for such objections, and
+(a) in such form as may be specified in rules of court or, where applicable, under section 163, and shall specify by a list in a short and concise form the matters or items, or parts thereof, to which the decision of the Legal Costs Adjudicator being objected to relates and the grounds and reasons for such objections, and
 
 (b) made on notice to the other party to the adjudication.
 

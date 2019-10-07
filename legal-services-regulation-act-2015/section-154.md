@@ -40,8 +40,16 @@ Application for adjudication of legal costs
 
 (b) the furnishing of documents, records and vouchers to the Chief Legal Costs Adjudicator or to other parties to the adjudication,
 
-(c) the circumstances and manner in which written submissions are to be provided for the purposes of an adjudication, and
+(c) the circumstances and manner in which written submissions are to be provided for the purposes of an adjudication,
 
-(d) the steps that may constitute an attempt, by a person referred to in subsection (2) or (3), to agree a bill of costs, and the certification by a Legal Costs Adjudicator that the person has made such an attempt.
+(d) the steps that may constitute an attempt, by a person referred to in subsection (2) or (3), to agree a bill of costs, and the certification by a Legal Costs Adjudicator that the person has made such an attempt,
+
+(e) a procedure whereby a party to an adjudication may, upon notice to another party—
+
+(i) pay into court a sum of money, or
+
+(ii) make an offer by way of tender to the other party, in satisfaction of the costs of the other party that are the subject of the adjudication, and
+
+(f) the respective liability of the parties referred to in paragraph (e) for the costs of the adjudication where the amount of a payment or offer referred to in that paragraph is equal to or greater than the amount of the costs concerned that, in the adjudication, are determined to be paid.
 
 (11) An application under this section shall be in a form specified by rules of court or, as the case may be, under section 163(1).

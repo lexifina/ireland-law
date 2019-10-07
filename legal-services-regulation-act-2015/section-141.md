@@ -21,3 +21,5 @@ County registrars
 (4) The register referred to in subsection (2) shall be available for inspection during office hours without payment by any person who applies to inspect it.
 
 (5) Each County Registrar shall report annually to the Chief Legal Costs Adjudicator providing a summary of the information contained in the register of taxation determinations maintained by him or her.
+
+(6) For the purposes of subsection (3)(f), a County Registrar need not publish the reasons for a determination where he or she is of the opinion that the taxation concerned does not involve a matter of legal importance.

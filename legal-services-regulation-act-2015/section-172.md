@@ -6,6 +6,8 @@ Advisory Committee on the grant of Patents of Precedence
 
 (a) the Chief Justice, who shall be the chairperson of the Committee;
 
+(aa) the President of the Court of Appeal;
+
 (b) the President of the High Court;
 
 (c) the Attorney General;
@@ -27,6 +29,8 @@ Advisory Committee on the grant of Patents of Precedence
 (5) The Committee may act notwithstanding a vacancy in its membership.
 
 (6) On the death or retirement of the Chief Justice, the senior ordinary judge of the Supreme Court who is for the time being available shall be a member of the Committee until the appointment of a Chief Justice.
+
+(6A) On the death or retirement of the President of the Court of Appeal, the senior ordinary judge of the Court of Appeal who is for the time being available shall be a member of the Committee until the appointment of a President of the Court of Appeal.
 
 (7) On the death or retirement of the President of the High Court, the senior ordinary judge of the High Court who is for the time being available shall be a member of the Committee until the appointment of a President of the High Court.
 
