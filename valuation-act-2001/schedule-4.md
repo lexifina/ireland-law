@@ -116,6 +116,6 @@ RELEVANT PROPERTY NOT RATEABLE
 
 20. Any land, building or part of a building occupied by the Health Service Executive other than any land, building or part of a building referred to in paragraph 8 or 14.
 
-21. The entire network (within the meaning of section 2(1) of the Water Services Act 2007) used for the provision of water services (within the meaning of that subsection) by Irish Water or a person who holds a water services licence under section 79 of the Water Services Act 2007 or land and buildings occupied by Irish Water or such a licence holder.
+21. ...
 
 22. Any land, building or part of a building used exclusively for the provision of early childhood care and education, and occupied by a body which is not established and the affairs of which are not conducted for the purpose of making a private profit.
