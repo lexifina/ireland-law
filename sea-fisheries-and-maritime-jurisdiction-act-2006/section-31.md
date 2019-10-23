@@ -18,7 +18,9 @@ Forfeiture of proceeds from disposal of illegally-caught fish.
 
 (a) the amount of the proceeds of disposal according to any documentary evidence submitted by the owner of the sea-fishing boat concerned, within such period as the court may specify, or
 
-(b) the appropriate market value of the sea-fish concerned involving a willing seller and a willing buyer operating at arms’ length, in so far as that value could reasonably be established: Provided that where the sea-fish concerned were first disposed of for storage and were subsequently disposed of otherwise at a different value, the appropriate market value of the sea-fish concerned shall be taken to be the value of the disposal with the greater value.
+(b) the appropriate market value of the sea-fish concerned involving a willing seller and a willing buyer operating at arms’ length, in so far as that value could reasonably be established:
+
+Provided that where the sea-fish concerned were first disposed of for storage and were subsequently disposed of otherwise at a different value, the appropriate market value of the sea-fish concerned shall be taken to be the value of the disposal with the greater value.
 
 (5) Proceedings under subsection (1) may be brought by or at the suit of the Minister.
 
