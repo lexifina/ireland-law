@@ -14,9 +14,7 @@ Notification of employer.
 
 (b) having, as soon as is reasonably practicable, caused her employer to be notified in writing of the expected day of placement, and
 
-(c) (i) having caused her employer to be supplied with a copy of an applicable ‘declaration of eligibility and suitability’ (within the meaning of section 3
-
-(1) of the Adoption Act 2010) before the expected day of placement, if not already supplied, and
+(c) (i) having caused her employer to be supplied with a copy of an applicable ‘declaration of eligibility and suitability’ (within the meaning of section 3 (1) of the Adoption Act 2010) before the expected day of placement, if not already supplied, and
 
 (ii) causing her employer to be supplied with particulars in writing of the placement as soon as is reasonably practicable after the day of placement.
 
