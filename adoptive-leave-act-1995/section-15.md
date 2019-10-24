@@ -1,6 +1,6 @@
 ## PART III PROVISIONS RELATING TO EMPLOYMENT CONTRACTS
 
-F31[Preservation or suspension of certain rights, etc., while on adoptive leave.
+F35[Preservation or suspension of certain rights, etc., while on adoptive leave.
 
 15.—(1) While absent from work on adoptive leave, an employee—
 

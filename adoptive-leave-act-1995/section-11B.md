@@ -1,4 +1,4 @@
-F26[Termination of additional adoptive leave on sickness of adopting parent.
+F30[Termination of additional adoptive leave on sickness of adopting parent.
 
 11B.—(1) An adopting parent (‘the employee’)—
 

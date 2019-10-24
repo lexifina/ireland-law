@@ -1,6 +1,6 @@
 ## PART II ADOPTIVE LEAVE
 
-F12[Entitlement of employed adopting mother (or sole male adopter) to minimum period of adoptive leave.
+F13[Entitlement of employed adopting mother (or sole male adopter) to minimum period of adoptive leave.
 
 6.—(1) Subject to this Part, an employed adopting mother (or sole male adopter) shall be entitled to leave (to be known as ‘adoptive leave’) from the employee’s employment.
 

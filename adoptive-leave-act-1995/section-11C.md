@@ -1,4 +1,4 @@
-F27[Postponement of leave on hospitalisation of child.
+F31[Postponement of leave on hospitalisation of child.
 
 11C.—(1) If—
 

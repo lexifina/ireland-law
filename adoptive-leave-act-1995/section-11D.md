@@ -1,4 +1,4 @@
-F28[Absence from work owing to sickness while leave postponed.
+F32[Absence from work owing to sickness while leave postponed.
 
 11D.—(1) Where—
 
