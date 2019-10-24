@@ -2,7 +2,9 @@ Legal acts of the European Union given effect to by this Act.
 
 1A.— Effect or further effect, as the case may be, is given by this Act to an act specified in the Table to this section, adopted by an institution of the European Union or, where appropriate, to part of such an act.
 
-TABLE Council Directive 75/440 EEC of 16 June 1975 concerning the quality required of surface water intended for the abstraction of drinking water in the Member States
+TABLE
+
+Council Directive 75/440 EEC of 16 June 1975 concerning the quality required of surface water intended for the abstraction of drinking water in the Member States
 
 Council Directive 79/409/EEC of 2 April 1979 on the conservation of wild birds
 
