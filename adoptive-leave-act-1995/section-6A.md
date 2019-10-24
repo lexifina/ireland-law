@@ -1,0 +1,3 @@
+Restrictions on entitlement to adoptive leave.
+
+6A. ...
