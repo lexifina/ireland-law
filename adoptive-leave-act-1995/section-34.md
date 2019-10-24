@@ -72,7 +72,7 @@ Notification of intention to return to work in respect of leave taken under sect
 
 (2) Subsections (2) and (3) of section 20 shall apply to an adopting parent taking leave under sections 42 and 43 and the references in those subsections to subsection (1) shall be construed as including a reference to subsection (1) of this section.
 
-F51[Revocation.
+F55[Revocation.
 
 45.—The Adoptive Leave Act 1995 (Extension of Periods of Leave) Order 2001 (S.I. No. 30 of 2001), so far as unrevoked, and the Adoptive Leave Act 1995 (Extension of Periods of Leave) Order 2004 (S.I. No. 667 of 2004) are revoked.
 
