@@ -1,6 +1,6 @@
 Entitlement of employed father to leave on death of mother.
 
-16.—(1) If a woman who has been delivered of a living child (in this section referred to as ‘the mother’) dies at any time before the expiry of the fortieth week following the week of her confinement, the father of the child (if he is employed under a contract of employment) shall be entitled in accordance with this section and subject to subsection (10) to leave from his employment for a period ending as follows—
+16.—(1) If a woman who has been delivered of a living child (in this section referred to as ‘the mother’) dies at any time before the expiry of the fortieth week following the week of her confinement, the father of the child (if he is employed under a contract of employment) shall be entitled in accordance with this section and subject to subsections (10) and (10A) to leave from his employment for a period ending as follows—
 
 (a) if the mother dies before the expiry of the twenty-fourth week following the week of her confinement, the period ends, subject to section 16B, at the end of that twenty-fourth week, and
 
@@ -10,7 +10,7 @@ Entitlement of employed father to leave on death of mother.
 
 (a) on or after 1 October 2017, the date of confinement of a mother occurred more than 2 weeks before the expected week of confinement, and
 
-(b) the mother dies at any time on or before the expiry of the combined period, the father of the child (if he is employed under a contract of employment) shall be entitled in accordance with this section, and subject to subsection (10), to leave from his employment for a period, if the mother dies on or before the expiry of the combined period, ending at the end of the unexpired portion of that combined period.
+(b) the mother dies at any time on or before the expiry of the combined period, the father of the child (if he is employed under a contract of employment) shall be entitled in accordance with this section, and subject to subsections (10) and (10A), to leave from his employment for a period, if the mother dies on or before the expiry of the combined period, ending at the end of the unexpired portion of that combined period.
 
 (2) Entitlement to leave under subsection (1) shall be subject to the father—
 
@@ -18,7 +18,7 @@ Entitlement of employed father to leave on death of mother.
 
 (b) if requested by his employer, causing his employer to be supplied, as soon as is reasonably practicable, with a copy of the death certificate made in respect of the mother and of the birth certificate in respect of the child.
 
-(3) Subject to subsection (10) and section 16B, the period of leave under subsection (1) or (1A) shall commence within 7 days of the mother’s death; and in this section and sections 16A and 16B—
+(3) Subject to subsections (10) and (10A) and section 16B, the period of leave under subsection (1) or (1A) shall commence within 7 days of the mother’s death; and in this section and sections 16A and 16B—
 
 (a) a period of leave which ends as mentioned in paragraph (a) of subsection (1) is referred to as ‘subsection (1)(a) leave’, and
 
@@ -61,6 +61,22 @@ Entitlement of employed father to leave on death of mother.
 (ia) subsection (1A) leave shall be deemed to include a reference to a period of leave to which paragraph (aa) applies, and
 
 (ii) subsection (1) (b) leave shall be deemed to include a reference to a period of leave to which paragraph (b) applies.
+
+(10A) Where, on the date on which a person becomes entitled under subsection (1) to leave under that subsection or, as the case may be, under subsection (1A) to leave under that subsection, the person is on parent’s leave, this section and sections 16A and 16B shall apply to the person subject to the following modifications and any other necessary modifications:
+
+(a) where the person is entitled to subsection (1)(a) leave, the leave shall commence immediately after the end of the parent’s leave and, subject to section 16B, end at the end of the twenty-fourth week following the end of the parent’s leave;
+
+(b) where the person is entitled to subsection (1A) leave, the leave shall commence immediately after the end of the parent’s leave and, subject to section 16B, end at the end of the twenty-fourth week following the end of the parent’s leave;
+
+(c) where the person is entitled to subsection (1)(b) leave, the leave shall commence immediately after the end of the parent’s leave and, subject to sections 16A and 16B, end at the end of the fortieth week following the end of the parent’s leave;
+
+(d) a reference in this section and sections 16A and 16B to—
+
+(i) subsection (1)(a) leave shall be deemed to include a reference to a period of leave to which paragraph (a) applies,
+
+(ii) subsection (1A) leave shall be deemed to include a reference to a period of leave to which paragraph (b) applies, and
+
+(iii) subsection (1)(b) leave shall be deemed to include a reference to a period of leave to which paragraph (c) applies.
 
 (11) In this section ‘combined period’ means a period comprising—
 

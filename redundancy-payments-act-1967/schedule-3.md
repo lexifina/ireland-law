@@ -48,7 +48,9 @@ CONTINUOUS EMPLOYMENT
 
 (d) any period during which an employee was absent from work because of a lock-out by the employer or because the employee was participating in a strike, whether such absence occurred before or after the commencement of this Act,
 
-(e) any period during which an employee was absent from work while on paternity leave or transferred paternity leave under the Paternity Leave and Benefit Act 2016, continuity of employment shall not be broken by such interruption whether or not notice of termination of the contract of employment has been given.
+(e) any period during which an employee was absent from work while on paternity leave or transferred paternity leave under the Paternity Leave and Benefit Act 2016,
+
+(f) any period during which an employee was absent from work while on parent’s leave or transferred parent’s leave under the Parent’s Leave and Benefit Act 2019, continuity of employment shall not be broken by such interruption whether or not notice of termination of the contract of employment has been given.
 
 (5A) If an employee is dismissed by reason of redundancy before attaining the period of 104 weeks referred to in section 7 (5) (as amended) of the Principal Act and resumes employment with the same employer within 26 weeks, his employment shall be taken to be continuous.
 
@@ -80,7 +82,9 @@ RECKONABLE SERVICE
 
 (ba) a period during which, in accordance with the Paternity Leave and Benefit Act 2016, an employee was absent from work while on paternity leave or transferred paternity leave within the meaning of that Act,
 
-(c) any absences not mentioned in paragraphs (a), (b) or (ba) but authorised by the employer.
+(bb) a period during which, in accordance with the Parent’s Leave and Benefit Act 2019, an employee was absent from work while on parent’s leave or transferred parent’s leave within the meaning of that Act,
+
+(c) any absences not mentioned in paragraphs (a), (b), (ba) or (bb) but authorised by the employer.
 
 9. Absence from work by reason of a strike in the business or industry in which the employee concerned is employed and which occurred before the commencement of this Act shall be allowable as reckonable service.
 

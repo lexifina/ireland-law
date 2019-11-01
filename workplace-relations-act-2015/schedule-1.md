@@ -50,6 +50,8 @@ Acts of the Oireachtas
 
 21. Paternity Leave and Benefit Act 2016
 
+22. Parent’s Leave and Benefit Act 2019
+
 Part 2
 
 Provisions of Acts of Oireachtas

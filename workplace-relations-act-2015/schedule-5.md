@@ -103,3 +103,5 @@ Part 3
 5. Carer’s Leave Act 2001 (other than a dispute to which paragraph (a), (b) or (c) of section 17(1) of that Act applies)
 
 6. Parts 2 and 3 of the Paternity Leave and Benefit Act 2016
+
+7. Parts 2 and 3 of the Parent’s Leave and Benefit Act 2019
