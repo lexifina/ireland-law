@@ -12,6 +12,8 @@ Interpretation.
 
 ...
 
+‘Act of 2019’ means the Civil Law (Presumption of Death) Act 2019;
+
 “the Acts” means the Births and Deaths Registration Acts 1863 to 1996;
 
 ...
@@ -90,6 +92,8 @@ Interpretation.
 
 “Minister” means Minister for Health and Children;
 
+‘missing person’ has the same meaning as missing person in section 2 of the Act of 2019;
+
 “Oifig an Ard-Chláraitheora” shall be construed in accordance with section 12;
 
 ‘parent’, in relation to a donor-conceived child, means the parent or parents of that child under section 5 of the Children and Family Relationships Act 2015;
@@ -97,6 +101,8 @@ Interpretation.
 “personal public service number” has the meaning assigned to it by the Social Welfare (Consolidation) Act 1993;
 
 “prescribed” means prescribed by regulations made by the Minister;
+
+‘presumed death’ means a presumed death where a presumption of death order has been made under section 5 of the Act of 2019;
 
 “qualified informant” in relation to a birth or death, shall be construed in accordance with section 19 or 37, as may be appropriate;
 
@@ -135,6 +141,8 @@ Interpretation.
 (d) ...
 
 (e) in relation to a death, the particulars specified in Part 5 of the First Schedule in relation to the deceased and, as applicable, the mother, father, parent and guardian of the deceased;
+
+(f) in relation to a presumed death, the particulars specified in Part 5B of that Schedule;
 
 ‘scheme’ means a scheme approved under section 14;
 
