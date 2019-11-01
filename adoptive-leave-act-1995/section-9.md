@@ -32,9 +32,11 @@ Entitlement of adopting father to adoptive leave in certain circumstances.
 
 (a) within 7 days of the death of the adopting mother,
 
-(b) the day of placement, or
+(b) the day of placement,
 
-(c) where, on the date of the death of the adopting mother, the adopting father is on paternity leave, immediately after the end of the paternity leave.
+(c) where, on the date of the death of the adopting mother, the adopting father is on paternity leave, immediately after the end of the paternity leave, or
+
+(d) where, on the date of the death of the adopting mother, the adopting father is on parent’s leave, immediately after the end of the parent’s leave.
 
 (4) A notification under this section may be revoked by a further notification in writing by or on behalf of the adopting father to his employer.
 
