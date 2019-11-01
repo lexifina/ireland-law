@@ -52,9 +52,11 @@ Interpretation.
 
 “the Minister” means the Minister for Justice, Equality and Law Reform;
 
-‘postponed leave’ has the meaning assigned to it by section 11C(2)(c);
+‘parent’s leave’ has the same meaning as it has in the Parent’s Leave and Benefit Act 2019;
 
 “paternity leave” and “transferred paternity leave” have the same meanings as they have in the Paternity Leave and Benefit Act 2016;
+
+‘postponed leave’ has the meaning assigned to it by section 11C(2)(c);
 
 “prescribed” means prescribed by order or regulation under this Act;
 
