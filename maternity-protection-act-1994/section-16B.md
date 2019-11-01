@@ -1,4 +1,4 @@
-F36[Postponement of leave under section 16 in event of hospitalisation of child.
+F39[Postponement of leave under section 16 in event of hospitalisation of child.
 
 16B.—(1) A father who is entitled to, or is on, leave under section 16 may, if the child in connection with whose birth he is entitled to, or is on, that leave (in this section referred to as ‘the child’) is hospitalised, request in writing (or cause a written request to be submitted to) his employer to postpone—
 

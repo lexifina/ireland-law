@@ -1,4 +1,4 @@
-F55[Decision under section 41 or 44 of Workplace Relations Act 2015
+F58[Decision under section 41 or 44 of Workplace Relations Act 2015
 
 32. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute between an employee and the relevant employer relating to any entitlement of the employee under Part II, III or IV (or any matter arising out of or related to such entitlement) may include such directions to the parties to the dispute as the adjudication officer considers necessary or expedient for the resolution of the dispute, and if the decision is in favour of the employee then, without prejudice to the power to give such directions, the adjudication officer may order—
 

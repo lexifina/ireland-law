@@ -1,4 +1,4 @@
-F20[Termination of additional maternity leave in event of sickness of mother.
+F21[Termination of additional maternity leave in event of sickness of mother.
 
 14A.—(1) If, at any time—
 
