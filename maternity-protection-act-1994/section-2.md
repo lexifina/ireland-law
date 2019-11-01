@@ -38,6 +38,8 @@ Interpretation.
 
 “the Minister” means the Minister for Equality and Law Reform;
 
+‘parent’s leave’ has the same meaning as it has in the Parent’s Leave and Benefit Act 2019;
+
 ‘paternity leave’ and ‘transferred paternity leave’ have the same meanings as they have in the Paternity Leave and Benefit Act 2016;
 
 “pregnant employee” means an employee who is pregnant and who has informed her employer of her condition;
