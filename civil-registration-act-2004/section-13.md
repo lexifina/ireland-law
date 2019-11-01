@@ -24,6 +24,8 @@ Registers.
 
 (k) a register of gender recognition (which shall be known, and is referred to in this Act, as the register of gender recognition).
 
+(l) a register of all presumed deaths where a presumption of death order has been made under section 5 of the Act of 2019 (which shall be known, and is referred to in this Act as the register of presumed deaths),
+
 (2) A register formerly maintained under the repealed enactments shall be deemed, for the purposes of subsection (1) and the other provisions of this Act, to be part of the appropriate register.
 
 (3) A register may be maintained in any legible form or in any other form that is capable of being converted into a legible form and of being used to make a legible copy or reproduction of an entry in the register.
