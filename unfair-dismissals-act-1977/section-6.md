@@ -38,7 +38,9 @@ Unfair dismissal.
 
 (i) the exercise or proposed exercise by the employee of the right under the Paternity Leave and Benefit Act 2016 to paternity leave or transferred paternity leave within the meaning of that Act,
 
-(2A) Sections 3 and 4 of this Act do not apply to a case falling within paragraph (f), (g) , (h) or (i) of subsection (2) of this section and, for the purposes of those paragraphs, ‘employee’ and ‘adopting parent’ include a person who would otherwise be excluded from this Act by paragraph (a), (c), (f) or (g) of section 2 (1) of this Act.
+(j) the exercise or proposed exercise by the employee of the right under the Parent’s Leave and Benefit Act 2019 to parent’s leave or transferred parent’s leave within the meaning of that Act.
+
+(2A) Sections 3 and 4 of this Act do not apply to a case falling within paragraph (f), (g) (h), (i) or (j) of subsection (2) of this section and, for the purposes of those paragraphs, ‘employee’ and ‘adopting parent’ include a person who would otherwise be excluded from this Act by paragraph (a), (c), (f) or (g) of section 2 (1) of this Act.
 
 (2B) Sections 3 and 4 do not apply to a case falling within subsection (2)(dd) and, for the purpose of that paragraph, ‘employee’ includes a person who would otherwise be excluded from this Act by paragraph (a), (c), (f) or (g) of section 2(1).
 
