@@ -6,7 +6,9 @@ Section 8
 
 Part 1
 
-Acts of the Oireachtas Refer- Number and Short title Extent of Repeal ence Year (2) (3) (4) (1)
+Acts of the Oireachtas
+
+Refer- Number and Short title Extent of Repeal ence Year (2) (3) (4) (1)
 
 1. No. 26 of 1946 Industrial Relations Act Sections 45C, 45D and 45E 1946
 
@@ -28,7 +30,7 @@ Acts of the Oireachtas Refer- Number and Short title Extent of Repeal ence Year 
 
 10. No. 20 of 1997 Organisation of Working Sections 8, 27 (other than Time Act 1997 subsections (1) and (3) ), 29, 30 and 31
 
-11. No. 30 of 1998 Parental Leave Act 1998 Part IV (other than sections 18(1) and (2) and 21) and sections 24 and 27(5)
+11. No. 30 of 1998 Parental Leave Act 1998 Part IV (other than sections 18(1) and (2) and 21) and sections 24 and 27(5) Refer- Number and Short title Extent of Repeal ence Year (2) (3) (4) (1)
 
 12. No. 5 of 2000 National Minimum Wage Part 5 (other than sections Act 2000 24, 25, 26, 29, 34, 35, 36, 37, 38, 39 and 40)
 
@@ -44,7 +46,7 @@ Acts of the Oireachtas Refer- Number and Short title Extent of Repeal ence Year 
 
 18. No. 4 of 2004 Industrial Relations Sections 9 (other than (Miscellaneous Provisions) subsections (5) and (10) ), 11, Act 2004 12 and 13
 
-19. No. 42 of 2004 Health Act 2004 Sections 55M (other than subsections (1), (1A), (2), (3), (4), (6) and (11) ), 55N, 55O and 55P Refer- Number and Short title Extent of Repeal ence Year (2) (3) (4) (1)
+19. No. 42 of 2004 Health Act 2004 Sections 55M (other than subsections (1), (1A), (2), (3), (4), (6) and (11) ), 55N, 55O and 55P
 
 20. No. 10 of 2005 Safety, Health and Welfare Sections 30 and 31 at Work Act 2005
 
@@ -66,7 +68,7 @@ Acts of the Oireachtas Refer- Number and Short title Extent of Repeal ence Year 
 
 29. No. 13 of 2012 Protection of Employees Schedule 2 (other than para- (Temporary Agency Work) graphs 1, 2 and 6) Act 2012
 
-30. No. 25 of 2013 Further Education and Schedule (other than para- Training Act 2013 graphs 1 and 2)
+30. No. 25 of 2013 Further Education and Schedule (other than para- Training Act 2013 graphs 1 and 2) Refer- Number and Short title Extent of Repeal ence Year (2) (3) (4) (1)
 
 31. No. 26 of 2013 Central Bank (Supervision Schedule 5 (other than para-and Enforcement) Act 2013 graphs 1 and 2)
 
@@ -82,7 +84,7 @@ Refer- Number and Year Short title Extent of Repeal ence (2) (3) (4) (1)
 
 2. S.I. No. 131 of European Communities (Protection of Regulations 12, 13 2003 Employees on Transfer of Undertak-and 14 ings) Regulations 2003
 
-3. S.I No. 507 of European Communities (Organisation Regulation 17 2006 of Working Time) (Mobile Staff in Civil Aviation) Regulations 2006 Refer- Number and Year Short title Extent of Repeal ence (2) (3) (4) (1)
+3. S.I No. 507 of European Communities (Organisation Regulation 17 2006 of Working Time) (Mobile Staff in Civil Aviation) Regulations 2006
 
 4. S.I. No. 259 of European Communities (European Paragraph 4 of 2007 Cooperative Society) (Employee Schedule 2 Involvement) Regulations 2007
 
