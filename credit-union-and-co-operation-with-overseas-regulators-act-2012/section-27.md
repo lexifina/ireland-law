@@ -14,7 +14,9 @@ Board oversight committee.
 
 (a) Part IV, this Part and any regulations made for the purposes of Part IV or this Part, and
 
-(b) any other matter prescribed by the Bank in respect of which they are to have regard to in relation to the board of directors. 76N.— (1) The board oversight committee of a credit union shall be elected—
+(b) any other matter prescribed by the Bank in respect of which they are to have regard to in relation to the board of directors.
+
+76N.— (1) The board oversight committee of a credit union shall be elected—
 
 (a) where the organisation meeting occurs after the commencement of this provision, by secret ballot at the organisation meeting and, subject to section 76R(4), subsequent vacancies on the board oversight committee shall be filled by secret ballot at an annual general meeting,
 

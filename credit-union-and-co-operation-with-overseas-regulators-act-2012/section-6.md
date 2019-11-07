@@ -132,4 +132,6 @@ Amendment of section 2 (Interpretation) of Principal Act.
 
 ‘strategic objectives’ has the meaning given by section 76A(1);
 
-‘strategic plan’ has the meaning given by section 76A(1); ‘voluntary assistant’, in relation to a credit union, means a member of the credit union who, although not a remunerated employee of the credit union, is engaged in any way in the operation of the credit union.”.
+‘strategic plan’ has the meaning given by section 76A(1);
+
+‘voluntary assistant’, in relation to a credit union, means a member of the credit union who, although not a remunerated employee of the credit union, is engaged in any way in the operation of the credit union.”.

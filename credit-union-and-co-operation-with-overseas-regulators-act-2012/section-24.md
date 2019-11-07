@@ -16,7 +16,9 @@ General governance requirements.
 
 (e) be subject to regular internal review by the board of directors on, at a minimum, an annual basis.
 
-(2) A credit union shall have in place the oversight, policies, procedures, practices, systems, controls, skills, expertise and reporting arrangements to ensure compliance with the requirements set out in this Part. 66B.— A credit union shall put in place remuneration policies and practices which shall be consistent with and promote sound and effective risk management.
+(2) A credit union shall have in place the oversight, policies, procedures, practices, systems, controls, skills, expertise and reporting arrangements to ensure compliance with the requirements set out in this Part.
+
+66B.— A credit union shall put in place remuneration policies and practices which shall be consistent with and promote sound and effective risk management.
 
 66C.— (1) A credit union shall submit an annual compliance statement to the Bank certifying its compliance with the requirements of this Part and any other regulations prescribed under it by the Bank including regulations setting out the form and content of that statement.
 
