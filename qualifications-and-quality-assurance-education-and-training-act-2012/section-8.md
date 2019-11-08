@@ -4,4 +4,4 @@ Establishment of Qualifications and Quality Assurance Authority of Ireland.
 
 (2) The Minister may, following consultation with the Authority, by order specify a name, other than the Qualifications and Quality Assurance Authority of Ireland, by which the Authority may describe itself for operational purposes.
 
-(3) Schedule 1applies to the Authority.
+(3) Schedule 1 applies to the Authority.

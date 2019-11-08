@@ -6,4 +6,4 @@ Quality assurance procedures and previously established universities.
 
 (b) provide a copy of the procedures established by it under section 28 to the Authority and publish those procedures on the internet as soon as practicable thereafter, and
 
-(c) implement procedures published by it under thissection.
+(c) implement procedures published by it under this section.
