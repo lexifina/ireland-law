@@ -1,0 +1,3 @@
+Existing enrolled learner protection arrangements - status and period for which such arrangements shall continue to have effect.
+
+65A. ...

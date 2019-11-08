@@ -1,0 +1,3 @@
+Condition precedent for provisions of Act to be invoked by specified providers - criteria specified in regulations to be met.
+
+29A. ...
