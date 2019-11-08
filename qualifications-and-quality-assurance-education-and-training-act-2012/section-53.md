@@ -20,7 +20,7 @@ Determination of request for delegation of authority to make award.
 
 (ii) establish procedures which are fair and consistent for the assessment of enrolled learners to ensure the standards of knowledge, skill or competence determined by the Authority under section 49(1) are acquired, and where appropriate, demonstrated, by enrolled learners,
 
-(iii) continue to comply with section 65 in respect of arrangements for the protection of enrolled learners, if applicable, and
+(iii) continue to comply with section 65 ..., if applicable, and
 
 (iv) provide such information as the Authority may from time to time require for the purposes of the performance of its functions, including information in respect of completion rates, and
 

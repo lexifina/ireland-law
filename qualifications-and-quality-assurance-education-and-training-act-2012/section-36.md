@@ -18,6 +18,8 @@ Withdrawal by Authority of approval of quality assurance procedures.
 
 (5) A notice under subsection (4) shall state the reasons for the withdrawal referred to in that subsection.
 
+(5A) A relevant provider may, in relation to quality assurance procedures that have been established by it and which stand approved by the Authority, give notice in writing to the Authority that it no longer wishes those procedures to stand approved by the Authority; on receipt of such a notice, the Authority may withdraw its approval of those procedures, without the need for a review, by notice in writing addressed to the provider.
+
 (6) Where the Authority withdraws approval under subsection (4), the relevant provider concerned may appeal against that withdrawal to the Appeals Panel.
 
 (7) Where the Authority withdraws approval under subsection (4), the Authority shall also by notice in writing addressed to that relevant provider, from such date (not earlier than the date of service on the relevant provider of the notice of withdrawal) as it considers appropriate and as is specified in the notice having regard to the interests of enrolled learners concerned, withdraw—

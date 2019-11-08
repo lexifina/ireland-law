@@ -6,7 +6,7 @@ Functions of Authority.
 
 (b) advise the Minister in relation to national policy on quality assurance and enhancement in education and training,
 
-(c) review and monitor the effectiveness of providers’ quality assurance procedures,
+(c) approve a provider’s quality assurance procedures and monitor and review the effectiveness of such procedures (including such procedures as they stand amended for the time being),
 
 (d) validate programmes of education and training, and review and monitor the validated programmes,
 
@@ -20,7 +20,7 @@ Functions of Authority.
 
 (i) authorise the use of the international education mark by a provider that complies with the code of practice,
 
-(j) establish, maintain and develop a database providing information on awards recognised within the Framework, programmes of education and training which lead to awards recognised within the Framework and any other programmes the Authority thinks appropriate,
+(j) establish, maintain and develop a database providing information on awards that are awards included within the Framework, programmes of education and training which lead to such awards and any other programmes the Authority thinks appropriate,
 
 (k) establish and maintain the register,
 
@@ -34,9 +34,15 @@ Functions of Authority.
 
 (n) ensure arrangements for the protection of learners are in place where learners have begun but not completed a programme of education and training where a provider ceases to provide the programme before completion,
 
-(o) assist enrolled learners in finding alternative programmes of education and training where providers cease to provide a programme before completion, and
+(o) assist enrolled learners in finding alternative programmes of education and training where providers cease to provide a programme before completion,
 
-(p) collect any information relating to the performance of its functions it considers appropriate.
+(p) collect any information relating to the performance of its functions it considers appropriate,
+
+(q) share, as it considers appropriate, any information collected through the performance of its functions with a Department of State, the Office of the Revenue Commissioners, Solas and any other body the Authority considers appropriate, subject to the general law (and in particular the relevant law of the European Union and the Data Protection Act 2018),
+
+(r) make decisions that it is appropriate that particular awards be regarded, for the purposes of this Act, as awards that are included within the Framework, and
+
+(s) as an element of the process of making decisions of the foregoing kind, prepare and publish a list of awarding bodies for the purposes of having awards included within the Framework.
 
 (2) The Authority in the performance of its functions shall—
 
@@ -46,9 +52,13 @@ Functions of Authority.
 
 (c) inform itself of practices outside the State in respect of matters relevant to its functions,
 
-(d) have regard to such policies of the Government relating to education and training as are notified in writing to the Authority, by the Minister, and
+(d) have regard to such policies of the Government relating to education and training as are notified in writing to the Authority, by the Minister,
 
-(e) consult, as it considers appropriate, with providers, professional recognition bodies, staff and learner representatives, An tÚdarás um Ard-Oideachas, the National Council for Curriculum and Assessment, the State Examinations Commission and any other persons or bodies the Authority considers appropriate.
+(e) consult, as it considers appropriate, with providers, professional recognition bodies, staff and learner representatives, An tÚdarás um Ard-Oideachas, the National Council for Curriculum and Assessment, the State Examinations Commission , Solas and any other persons or bodies the Authority considers appropriate,
+
+(f) conduct any reviews that it considers necessary and expedient for the performance of its functions, and
+
+(g) publish reports of its reviews, evaluations and determinations as it considers appropriate.
 
 (3) The Authority shall have all powers necessary or expedient for the performance of its functions.
 

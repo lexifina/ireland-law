@@ -8,7 +8,7 @@ Making of an award.
 
 (2) The Authority shall, within 5 years after the establishment of policies and criteria under subsection (1), and at least once in every period of 5 years thereafter, review those policies and criteria.
 
-(3) The Authority shall, on the application of a learner and in accordance with the policies and criteria established under subsection (1), make an award to the learner where the learner has, in the opinion of the Authority, acquired, and where appropriate, demonstrated, the appropriate standard of knowledge, skill or competence as determined by the Authority under section 49(1).
+(3) The Authority shall, on the application of a relevant provider, and in accordance with the policies and criteria established under subsection (1), and having regard to the procedures established by the provider under section 56(2), make an award to a learner where the learner has, in the opinion of the provider, acquired, and where appropriate, demonstrated, the appropriate standard of knowledge, skill or competence as determined by the Authority under section 49(1).
 
 (4) Subject to subsection (5), the Authority shall, on the application of a provider in respect of an enrolled learner of that provider, and in accordance with the policies and criteria established under subsection (1), make an award to the enrolled learner where the Authority, having consulted with that provider, is satisfied that the learner has acquired, and where appropriate demonstrated, the appropriate standard of knowledge, skill or competence as determined by the Authority under section 49(1).
 
@@ -16,7 +16,7 @@ Making of an award.
 
 (6) An application under subsection (3) and subsection (4) shall be accompanied by such fee (if any) as may be determined by the Authority under section 80.
 
-(7) The Authority may request a relevant provider to assist the Authority in forming an opinion for the purposes of subsection (3) as to whether a learner has acquired, and where appropriate, demonstrated, the appropriate standard of knowledge, skill or competence.
+(7) ...
 
 (8) A provider commits an offence if, in relation to a programme of education and training of the provider, the provider falsely claims or represents that upon—
 

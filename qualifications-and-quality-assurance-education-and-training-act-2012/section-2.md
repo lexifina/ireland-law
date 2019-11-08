@@ -16,6 +16,8 @@ Interpretation.
 
 “Appeals Board” means an Appeals Board appointed under section 69 (3);
 
+‘associated provider’ has the meaning assigned to it by section 55F(1);
+
 “Authority” has the meaning assigned to it by section 8;
 
 “award” means an award, including a joint award, for education or training, or both, made by an awarding body or in the case of a joint award, by two or more awarding bodies, to a learner to record or certify that the learner has acquired a particular standard of knowledge, skill or competence and includes—
@@ -25,6 +27,8 @@ Interpretation.
 (b) a diploma,
 
 (c) a degree;
+
+‘award that is included within the Framework’ shall be construed in accordance with section 55B;
 
 “awarding body” means a body which makes an award;
 
@@ -38,9 +42,11 @@ Interpretation.
 
 “database” means the database established and maintained under section 79;
 
-“designated awarding body” means a previously established university, the National University of Ireland, an educational institution established as a university under section 9 of the Act of 1997, a technological university, the Dublin Institute of Technology and the Royal College of Surgeons in Ireland;
+“designated awarding body” means a previously established university, the National University of Ireland, an educational institution established as a university under section 9 of the Act of 1997, a technological university, an Institute of Technology, the Dublin Institute of Technology and the Royal College of Surgeons in Ireland;
 
 “dissolved body” shall be construed in accordance with section 71;
+
+‘English language education and training’ means a programme of education and training in English as a foreign language and ‘English language programme’ shall be construed accordingly;
 
 “enrolled learner” means a learner who has enrolled in a programme of education and training;
 
@@ -61,6 +67,8 @@ Interpretation.
 “joint awarding arrangement” has the meaning assigned to it bysection 51 (1);
 
 “linked provider” shall be construed in accordance with subsection (3);
+
+‘listed awarding body’ has the meaning assigned to it by section 55A(1)(a);
 
 “Minister” means the Minister for Education and Skills;
 
@@ -108,13 +116,21 @@ Interpretation.
 
 (f) a provider who has entered into an arrangement with an awarding body under section 48,
 
-(g) a provider to whom authority to make an award has been delegated under section 53, or
+(g) a provider to whom authority to make an award has been delegated under section 53,
 
 (h) a provider who is authorised to use the international education mark under section 61 other than a provider who is so authorised where that provider is also—
 
 (i) a provider referred to in paragraphs (a) to (g), or
 
-(ii) a linked provider;
+(ii) a linked provider,
+
+(i) an Institute of Technology,
+
+(j) an education and training board, or
+
+(k) a listed awarding body providing one or more programmes leading to its own awards that are awards included within the Framework;
+
+‘Solas’ means An tSeirbhís Oideachais Leanúnaigh agus Scileanna;
 
 “superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death;
 
@@ -126,9 +142,15 @@ Interpretation.
 
 ...
 
-(2) For the purposes of this Act, a programme of education and training is validated where the Authority confirms under section 45 that the provider of the programme has satisfied the Authority that an enrolled learner of that provider who completes that programme will acquire, and where appropriate, be able to demonstrate, the necessary knowledge, skill or competence to justify an award of the Authority being offered in respect of that programme.
+(2) For the purposes of this Act, a programme of education and training is validated where the Authority confirms under section 45 that the provider of the programme has satisfied the Authority that, in respect of the period for which, by virtue of subsection (1A) or (1B) of section 45, the validation is to have effect:
 
-(3) Subject to subsection (4),a linked provider is a provider that is not a designated awarding body but enters into an arrangement with a designated awarding body under which arrangement the provider provides a programme of education and training that satisfies all or part of the prerequisites for an award of the designated awarding body.
+(a) an enrolled learner of that provider who completes that programme will acquire, and where appropriate, be able to demonstrate, the necessary knowledge, skill or competence to justify an award of the Authority being offered in respect of that programme;
+
+(b) the quality assurance procedures established under section 28 by that provider are consistent with the guidelines issued by the Authority under section 27(1) and suitable for quality assuring that programme; and
+
+(c) the provider has the capacity and capability to provide that programme; and section 45 shall be construed and operate so as to require the Authority to be so satisfied as to those matters.
+
+(3) Subject to subsection (4), a linked provider is a provider that has a place of business in the State and is not a designated awarding body but enters into an arrangement with a designated awarding body under which arrangement the provider provides a programme of education and training that satisfies all or part of the prerequisites for an award of the designated awarding body.
 
 (4) A provider of a programme referred to in subsection (3) is not a linked provider where the award referred to in that subsection is a joint award of the provider and the designated awarding body.
 

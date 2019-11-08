@@ -2,7 +2,9 @@ Fees.
 
 80.— (1) The Authority may, with the consent of the Minister and the Minister for Public Expenditure and Reform, determine the fees payable by a provider or a learner, as the case may be, to the Authority for—
 
-(a) the submission of quality assurance procedures to the Authority for approval under section 30,
+(a) a request under section 29B(4),
+
+(aa) the submission of quality assurance procedures to the Authority for approval under section 30,
 
 (b) a review undertaken under section 34,
 
@@ -21,6 +23,14 @@ Fees.
 (i) a request for delegation of authority to make an award under section 52,
 
 (j) a review under section 54,
+
+(ja) an application under section 55C(4),
+
+(jb) the benefit of a decision under section 55D,
+
+(jc) the continuing benefit of a decision under section 55D,
+
+(jd) a review under section 55G,
 
 (k) the submission of procedures for access, transfer and progression in relation to learners for approval under section 56,
 
@@ -44,7 +54,11 @@ Fees.
 
 (4) The Authority may, in providing for different fees, exemptions, waivers, remissions or refunds referred to in subsection (3), have regard to the amount and complexity of the work involved in considering the applications, requests, submissions and conducting reviews, taking into account the size of the provider concerned.
 
-(5) The Authority may provide for the payment of reduced fees under this section having regard to the method of payment of the fees.
+(5) The Authority may provide for the payment of—
+
+(a) reduced fees, under this section, having regard to the method of payment of the fees, and
+
+(b) a single fee, under this section, in respect of the doing by it (or, as appropriate, the doing by another) of 2 or more things referred to in subsection (1), being a fee that is of a lower amount than the amount of the individual fees (when aggregated) that would otherwise be payable in respect of the doing of those 2 or more things.
 
 (6) The Authority shall arrange for the publication on the internet of fees payable as soon as practicable after the fees have been determined under subsection (1).
 

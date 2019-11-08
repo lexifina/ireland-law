@@ -1,22 +1,36 @@
 Obligation of providers to prepare quality assurance procedures.
 
-28.— (1) Subject to sections 29, 30, 32 and 33, each relevant provider and linked provider shall establish procedures in writing for quality assurance for the purposes of establishing, ascertaining, maintaining and improving the quality of education, training, research and related services the provider provides.
+28.— (1) Subject to sections 29, 30, 32 and 33, each relevant provider, linked provider and associated provider shall establish procedures for quality assurance for the purposes of establishing, ascertaining, maintaining and improving the quality of education, training, research and related services the provider provides.
 
-(2) Each relevant provider and linked provider shall have regard to the guidelines issued by the Authority under section 27(1)(a) in establishing procedures under subsection (1).
+(2) Each relevant provider, linked provider and associated provider shall have regard to the guidelines issued by the Authority under section 27(1)(a) in establishing procedures under subsection (1).
 
-(3) Procedures under subsection (1) shall be established as soon as practicable after the issue of guidelines by the Authority under section 27(1)(a) and at such other time or times—
+(2A)The quality assurance procedures established by a relevant provider, linked provider or associated provider to satisfy the provisions of section 33, 44(8) or 61(6), as appropriate, shall be for the purpose of further improving and maintaining the quality of education and training provided, organised or procured by that provider, being—
 
-(a) subject to paragraphs (b) and (c), where a relevant provider or linked provider thinks appropriate,
+(a) education and training that lead to one or more awards that are awards included within the Framework, or
 
-(b) in the case of a relevant provider, where the Authority directs, or
+(b) English language education and training, the programme in respect of which the provider is authorised, under section 61(7), to use the international education mark.
 
-(c) in the case of a linked provider, where the relevant designated awarding body directs.
+(2B) Programmes of education to which section 13(3) of the Education Act 1998 applies shall not be subject to the procedures established under this section.
+
+(3) Procedures under subsection (1) shall be established—
+
+(a) as soon as practicable after the issue of guidelines by the Authority under section 27(1)(a), and
+
+(b) in addition to what is provided in paragraph (a), in the following cases at such other time or times:
+
+(i) subject to subparagraphs (ii) to (iv), by a relevant provider, linked provider or associated provider where the relevant provider, linked provider or associated provider, as the case may be, thinks appropriate;
+
+(ii) in the case of a relevant provider, by the relevant provider where the Authority directs it to do so;
+
+(iii) in the case of a linked provider, by the linked provider where the relevant designated awarding body directs it to do so;
+
+(iv) in the case of an associated provider, by the associated provider where the relevant listed awarding body directs it to do so, and, in the case of a direction under subparagraph (ii), (iii) or (iv), the procedures shall be established in compliance with the direction within such period as the Authority or, as the case may be, the other body giving the direction determines and specifies in the direction in that behalf.
 
 (4) Procedures under subsection (1) shall include procedures for—
 
 (a) evaluation, subject to subsection (5), from time to time as the provider thinks appropriate, by the provider and by enrolled or formerly enrolled learners of the education, training, research and related services provided by that provider,
 
-(b) review by the provider of the application of the quality assurance procedures,
+(b) review by the provider of the implementation of the quality assurance procedures,
 
 (c) preparation of a report by the provider setting out—
 
