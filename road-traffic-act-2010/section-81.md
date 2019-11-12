@@ -28,7 +28,9 @@ It is not necessary to prove that the electronic or other apparatus was accurate
 
 (ii) the chief executive officer of the National Roads Authority or another officer of that Authority duly authorised in that behalf by the first-mentioned officer, and
 
-(b) in the case of an apparatus referred to in subsection (1)(a), be capable of producing a record of the measurements or other indications referred to in subsection (1). It is not necessary to prove that the apparatus is of a type so approved.
+(b) in the case of an apparatus referred to in subsection (1)(a), be capable of producing a record of the measurements or other indications referred to in subsection (1).
+
+It is not necessary to prove that the apparatus is of a type so approved.
 
 (5) In proceedings for an offence referred to in subsection (1), if proof of the offence involves proof of the speed at which a person (whether the accused or another person) was driving, the uncorroborated evidence of one witness stating his opinion as to that speed shall not be accepted as proof of that speed.
 

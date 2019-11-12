@@ -54,7 +54,9 @@ Matters relating to issue of Irish driving licences and learner permits.
 
 (a) whatsoever for a period, he or she shall not apply for any such licence or permit whatsoever for that period,
 
-(b) in respect of a category of vehicle for a period, he or she shall not apply for such a licence or permit in respect of that category, for that period, and, if he or she does so and obtains such a licence or permit on the application, it is void and of no effect. 22B.— Where a person has been granted an Irish driving licence or a learner permit in respect of vehicles of a category for a period, he or she is disqualified for applying for an Irish driving licence or a learner permit in respect of vehicles of that category for that period or any part of it.
+(b) in respect of a category of vehicle for a period, he or she shall not apply for such a licence or permit in respect of that category, for that period, and, if he or she does so and obtains such a licence or permit on the application, it is void and of no effect.
+
+22B.— Where a person has been granted an Irish driving licence or a learner permit in respect of vehicles of a category for a period, he or she is disqualified for applying for an Irish driving licence or a learner permit in respect of vehicles of that category for that period or any part of it.
 
 23.— (1) Where an application is duly made for an Irish driving licence, the licensing authority shall grant the licence unless it appears to them—
 
