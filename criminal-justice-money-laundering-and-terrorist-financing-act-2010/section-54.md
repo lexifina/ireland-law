@@ -42,6 +42,8 @@ Internal policies and procedures and training.
 
 (b) provided with ongoing training on identifying a transaction or other activity that may be related to money laundering or terrorist financing, and on how to proceed once such a transaction or activity is identified.
 
+(6A) A designated person shall have in place appropriate procedures for their employees, or persons in a comparable position, to report a contravention of this Act internally through a specific, independent and anonymous channel, proportionate to the nature and size of the designated person concerned.
+
 (7) A designated person shall appoint an individual at management level, (to be called a ‘compliance officer’) to monitor and manage compliance with, and the internal communication of, internal policies, controls and procedures adopted by the designated person under this section if directed in writing to do so by the competent authority for that designated person.
 
 (8) A designated person shall appoint a member of senior management with primary responsibility for the implementation and management of anti-money laundering measures in accordance with this Part if directed in writing to do so by the competent authority for that designated person.
@@ -52,7 +54,7 @@ Internal policies and procedures and training.
 
 (11) The obligations imposed on a designated person under this section do not apply to a designated person who is an employee of another designated person.
 
-(12) Subsections (6), (7), (8), and (9) do not apply to a designated person who is an individual and carries on business alone as a designated person.
+(12) Subsections (6), (6A), (7), (8), and (9) do not apply to a designated person who is an individual and carries on business alone as a designated person.
 
 (13) A competent authority shall not issue a direction for the purposes of subsection (7), (8) or (9) unless it is satisfied that, having regard to the size and nature of the designated person, it is appropriate to do so.
 
