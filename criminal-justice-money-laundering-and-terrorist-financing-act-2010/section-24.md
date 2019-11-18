@@ -174,6 +174,24 @@ Definitions.
 
 (iv) disclosure requirements consistent with EU legislation made under the provisions mentioned in subparagraphs (i) to (iii);
 
+“relevant independent legal professional” means a barrister, solicitor or notary who carries out any of the following services:
+
+(a) the provision of assistance in the planning or execution of transactions for clients concerning any of the following:
+
+(i) buying or selling land or business entities;
+
+(ii) managing the money, securities or other assets of clients;
+
+(iii) opening or managing bank, savings or securities accounts;
+
+(iv) organising contributions necessary for the creation, operation or management of companies;
+
+(v) creating, operating or managing trusts, companies or similar structures or arrangements;
+
+(b) acting for or on behalf of clients in financial transactions or transactions relating to land;
+
+“relevant professional adviser” means an accountant, auditor or tax adviser who is a member of a designated accountancy body or of the Irish Taxation Institute;
+
 ‘senior management’ means an officer or employee with sufficient knowledge of the institution’s money laundering and terrorist financing risk exposure and sufficient seniority to take decisions affecting its risk exposure, and need not, in all cases, be a member of the board of directors;
 
 “solicitor” means a practising solicitor;
