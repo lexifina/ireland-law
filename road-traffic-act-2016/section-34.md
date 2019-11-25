@@ -16,7 +16,7 @@ In this Part—
 
 Reference Offence General Description of Penalty Points Penalty Number Offence on Payment of Points on (2) Fixed Charge Conviction (3) (4) (1) (5)
 
-1. Offence consist- Using a trailer or semi- 2 4 ing of contraven-trailer with a maximum tion of Regula-permissible weight tion 3 exceeding 3,500kg without a licence
+1. Offence Using a trailer or semi- 2 4 consisting of trailer with a maximum contravention of permissible weight Regulation 3 exceeding 3,500kg without a licence
 
 ”. and
 
