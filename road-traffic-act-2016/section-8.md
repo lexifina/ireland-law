@@ -20,13 +20,15 @@ Amendment of sections 4 and 5 of Act of 2010 - offences involving certain drugs
 
 Sections 4(1A) and 5(1A)
 
-Specified Drugs Reference Drug Level Number (2) (units in whole blood)
+Specified Drugs
+
+Reference Drug Level Number (2) (units in whole blood)
 
 (3) (1)
 
 1 Δ-Tetrahydrocannabinol 1ng /ml (Cannabis)
 
-2 11-nor-9-carboxy-Δ-tetrahydro- 5ng /ml cannabinol (Cannabis)
+2 11-nor-9- 5ng /ml carboxy-Δ-tetrahydrocannabinol (Cannabis)
 
 3 Cocaine 10ng /ml
 
