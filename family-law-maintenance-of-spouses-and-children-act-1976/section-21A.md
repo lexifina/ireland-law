@@ -4,7 +4,7 @@ F53[Birth and funeral expenses of dependent child.
 
 (a) in relation to a dependent child of the family, a spouse, or
 
-(b) in relation to a dependent child whose parents are not married to each other, a parent, that the other spouse or parent, as the case may be, has failed to make such contribution as is proper in the circumstances towards the expenses incidental to either or both—
+(b) in relation to a dependent child whose parents are not married to each other and are not civil partners of each other, a parent, that the other spouse or parent, as the case may be, has failed to make such contribution as is proper in the circumstances towards the expenses incidental to either or both—
 
 (i) the birth of a child who is a dependent child or who would have been a dependent child were he alive at the time of the application for a lump sum order,
 
