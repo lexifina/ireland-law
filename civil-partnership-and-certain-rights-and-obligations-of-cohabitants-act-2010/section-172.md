@@ -32,8 +32,8 @@ Cohabitant and qualified cohabitant.
 
 (b) of 5 years or more, in any other case.
 
-(6) Notwithstanding subsection (5), an adult who would otherwise be a qualified cohabitant is not a qualified cohabitant if—
+(6) Notwithstanding subsection (5), where the relationship concerned ends before the coming into operation of section 4(2) of the Family Law Act 2019, an adult who would otherwise be a qualified cohabitant is not a qualified cohabitant if—
 
 (a) one or both of the adults is or was, at any time during the relationship concerned, an adult who was married to someone else, and
 
-(b) at the time the relationship concerned ends, each adult who is or was married has not lived apart from his or her spouse for a period or periods of at least 4 years during the previous 5 years.
+(b) at the time the relationship concerned ends, each adult who is or was married has not lived apart (which term shall, in this section, be construed in accordance with section 5(1A) of the Family Law (Divorce) Act 1996) from his or her spouse for a period or periods of at least 4 years during the previous 5 years.
