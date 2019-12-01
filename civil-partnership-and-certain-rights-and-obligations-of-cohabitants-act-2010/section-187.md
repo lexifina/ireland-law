@@ -60,7 +60,9 @@ Pension adjustment orders.
 
 (b) the percentage of the retirement benefit accrued during the period to be paid to the other qualified cohabitant.
 
-(4) Where the court makes an order under subsection (2) in favour of a qualified cohabitant and payment of the designated benefit concerned has not commenced, the qualified cohabitant is entitled to the application in accordance with section 189(1) of an amount of money from the scheme (in this subsection referred to as a “transfer amount”) equal to the value of the designated benefit as determined by the trustees of the scheme in accordance with relevant guidelines.
+(4) Where the court makes an order under subsection (2) in favour of a qualified cohabitant and payment of the designated benefit concerned has not commenced, the qualified cohabitant is entitled to the application in accordance with section 189(1) of an amount of money from the scheme (in this subsection referred to as a
+
+“transfer amount”) equal to the value of the designated benefit as determined by the trustees of the scheme in accordance with relevant guidelines.
 
 (5) The court, on application to it in that behalf by either of the qualified cohabitants, may make an order providing for the payment, on the death of the member qualified cohabitant, to the other qualified cohabitant of that part of a contingent benefit that is payable under the scheme, or of the part of that part, that the court considers appropriate.
 
