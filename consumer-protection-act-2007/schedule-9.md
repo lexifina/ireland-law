@@ -60,4 +60,4 @@ S.I. No. 373 of 2013 European Communities (Placing on the Market of Pyrotechnic 
 
 S.I. No. 381 of 2013 European Communities (Labelling, Presentation and Advertising of Foodstuffs) (Amendment) Regulations 2013
 
-S.I. No. 126 of 2018 European Union (Appliances Burning Gaseous Fuels) Regulations 2018
+S.I. No. 126 of European Union (Appliances Burning Gaseous Fuels) Regulations 2018 2018
