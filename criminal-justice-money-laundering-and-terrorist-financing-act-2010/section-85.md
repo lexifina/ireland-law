@@ -1,6 +1,6 @@
 Meaning of “fit and proper person”.
 
-85.— For the purposes of this Chapter, a person is not a fit and proper person if any of the following apply:
+85.— For the purposes of this Chapter and sections 108B to 108I, a person is not a fit and proper person if any of the following apply:
 
 (a) the person has been convicted of any of the following offences:
 
