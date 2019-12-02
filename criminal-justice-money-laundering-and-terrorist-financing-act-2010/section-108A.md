@@ -1,6 +1,6 @@
 Obligation for certain designated persons to register with Central Bank of Ireland.
 
-108A. (1) Subject to subsection (2), a person who is a designated person pursuant to paragraph (a) of the definition of ‘financial institution’ in section 24(1) and section 25(1)(b), or who carries on the business of a cheque cashing office, shall register with the Bank.
+108A. (1) Subject to subsection (2), a person who is a designated person pursuant to paragraph (a) of the definition of ‘financial institution’ in section 24(1) and section 25(1)(b) ... shall register with the Bank.
 
 (2) Subsection (1) shall not apply to a designated person that is authorised or licensed to carry on its activities by, or is registered with, the Bank under—
 
@@ -26,13 +26,7 @@ Obligation for certain designated persons to register with Central Bank of Irela
 
 (c) the activities that the designated person carries out that are contained within the meaning of paragraph (a) of the definition of financial institution in section 24(1).
 
-(6) The following particulars shall be entered into the Register in respect of each person registered who carries on the business of a cheque cashing office:
-
-(a) the name of the person;
-
-(b) the address of the registered office of the person;
-
-(c) the addresses at which the business of a cheque cashing office is carried on.
+(6) ...
 
 (7) The Bank may specify a procedure for registering under this section.
 
@@ -40,6 +34,6 @@ Obligation for certain designated persons to register with Central Bank of Irela
 
 (9) The particulars entered in the Register pursuant to this section relating to a person who is a designated person pursuant to section 25(1)(b) and paragraph (a) of the definition of financial institution in section 24(1) may be removed from the Register where that person ceases to be a designated person pursuant to those provisions or is authorised or licensed to carry on its activities by, or is registered with, the Bank under an enactment specified in paragraph (a), (b) or (c) of subsection (2).
 
-(10) The particulars entered in the Register pursuant to this section relating to a person who carries on the business of a cheque cashing office may be removed from the Register where that person ceases to carry on the business of a cheque cashing office or is authorised or licensed to carry on its activities by, or is registered with, the Bank under an enactment specified in paragraph (a), (b) or (c) of subsection (2).
+(10) ...
 
 (11) In this section ‘Bank’ means the Central Bank of Ireland.
