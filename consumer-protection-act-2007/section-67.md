@@ -12,7 +12,7 @@ Definition (Part 5).
 
 (c) any contravention of section 55(1) or (3), 59(2) or 60(1);
 
-(d) any contravention of section 65(1);
+(d) any contravention of section 65(1) or section 66B,;
 
 (e) any contravention of a regulation under section 50 or 57 or an order referred to in section 92;
 

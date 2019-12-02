@@ -10,7 +10,9 @@ Fixed payment notices for price display and product pricing offences.
 
 (c) Regulation 4(3), 5(5), 6(3) or 7(2) of the European Communities (Requirements to Indicate Product Prices) Regulations 2002 (S.I. No. 639 of 2002);
 
-(d) Regulation 5(3), 7(8), 8(5), 9(4), 10(10), 11(6), 12(5), 19(7), 25(4), 26(5) or 27(4) of the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013).
+(d) Regulation 5(3), 7(8), 8(5), 9(4), 10(10), 11(6), 12(5), 19(7), 25(4), 26(5) or 27(4) of the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013);
+
+(e) section 66B(2).
 
 (2) An authorised officer who has reasonable grounds for believing that a person is committing, or has committed, a relevant offence may serve, personally or by post, the notice referred to in subsection (3) on the person.
 
