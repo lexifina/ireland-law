@@ -1,0 +1,9 @@
+Additional documentation and information.
+
+20.—(1) In proceedings to which this Act applies the High Court shall, if of the opinion that the documentation or information provided to it is not sufficient to enable it to perform its functions under this Act, require issuing judicial authority or the issuing state, as may be appropriate, to provide it with such additional documentation or information as it may specify, within such period as it may specify,
+
+(2) ...
+
+(3) ...
+
+(4) ...
