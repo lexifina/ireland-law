@@ -14,6 +14,8 @@ Interpretation (general).
 
 “1959 Convention” means the European Convention on Mutual Assistance in Criminal Matters, done at Strasbourg on 20 April 1959, and includes the Additional Protocol of 17 March 1978 thereto;
 
+“1977 Terrorism Convention” means the European Convention on the Suppression of Terrorism, done at Strasbourg on 27 January 1977;
+
 ‘1999 Protocol’ means the Protocol to the Convention for the Protection of Cultural Property in the event of Armed Conflict, done at The Hague on 26 March 1999;
 
 “2000 Convention” means the Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union, done at Brussels on 29 May 2000;
@@ -34,11 +36,11 @@ Interpretation (general).
 
 ‘2009 Agreement with Iceland and Norway’ means the Agreement between the European Union and Iceland and Norway on the application of certain provisions of Council Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime and Council Decision 2008/616/JHA on the implementation of Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime, and the Annex thereto, done at Stockholm on 26 November 2009 and at Brussels on 30 November 2009;
 
-‘2009 Council Decision’ means Council Decision 2009/426/JHA of 16 December 2008 on the strengthening of Eurojust and amending Decision 2002/187/JHA setting up Eurojust with a view to reinforcing the fight against serious crime ;
+...
 
 ‘2010 Council Decision’ means Council Decision 2010/616/EU of 7 October 2010 on the conclusion of the Agreement between the European Union and Japan on mutual legal assistance in criminal matters;
 
-“1977 Terrorism Convention” means the European Convention on the Suppression of Terrorism, done at Strasbourg on 27 January 1977;
+‘2018 Regulation’ means Regulation (EU) 2018/1727 of the European Parliament and of the Council of 14 November 2018 on the European Union Agency for Criminal Justice Cooperation (Eurojust), and replacing and repealing Council Decision 2002/187/JHA1;
 
 “Central Authority” means the authority mentioned in section 8;
 
@@ -124,7 +126,9 @@ Interpretation (general).
 
 (gc) the 2008 Council Decision (special intervention units);
 
-(gd) the 2009 Council Decision;
+(gd) ...
+
+(ge) the 2018 Regulation;
 
 (h) the 1959 Convention;
 
@@ -276,7 +280,9 @@ Interpretation (general).
 
 (ga) Schedule 7A sets out the English text of the 2008 Council Decision (special intervention units),
 
-(gb) Schedule 7B sets out the English text of the 2009 Council Decision.
+(gb) ...
+
+(gc) Schedule 7C sets out the English text of the 2018 Regulation,
 
 (h) Schedule 8 sets out the English text of the 1959 Convention and the First Additional Protocol thereto,
 
