@@ -26,9 +26,7 @@ Instrument as contemplated by Article 3(2) of the Agreement on Mutual Legal Assi
 
 5. (a) This Instrument shall be subject to the completion by the United States of America and Ireland of their respective applicable internal procedures for entry into force. The Governments of the United States of America and Ireland shall thereupon exchange instruments indicating that such measures have been completed. This Instrument shall enter into force on the date of entry into force of the U.S.-EU Mutual Legal Assistance Agreement.
 
-(b) In the event of termination of the U.S.-EU Mutual Legal Assistance Agreement, this Instrument shall be terminated and the 2001 Mutual Legal Assistance Treaty shall be applied. The Governments of the United States of America and Ireland nevertheless may agree to continue to apply some or all of the provisions of this Instrument.
-
-IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Instrument.
+(b) In the event of termination of the U.S.-EU Mutual Legal Assistance Agreement, this Instrument shall be terminated and the 2001 Mutual Legal Assistance Treaty shall be applied. The Governments of the United States of America and Ireland nevertheless may agree to continue to apply some or all of the provisions of this Instrument. IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Instrument.
 
 DONE at Dublin, in duplicate, this 14th day of July, 2005.
 
@@ -64,7 +62,9 @@ Article 8 Testimony or Evidence in the Territory of the Requested Party
 
 Article 9 Records of Government Agencies
 
-Article 10 Testimony in the Territory of the Requesting Party Article 11 Transfer of Persons in Custody
+Article 10 Testimony in the Territory of the Requesting Party
+
+Article 11 Transfer of Persons in Custody
 
 Article 12 Location or Identification of Persons or Items
 
@@ -326,7 +326,9 @@ Service of Documents
 
 4. The Requested Party shall return a proof of service in the manner specified in the Request.
 
-Article 14 Search and Seizure
+Article 14
+
+Search and Seizure
 
 1. The Requested Party shall execute a request for the search, seizure, and delivery of any item to the Requesting Party if the request includes the information justifying such action under the laws of the Requested Party and it is carried out in accordance with the laws of that Party.
 
@@ -342,9 +344,7 @@ Return of Items
 
 The Central Authority of the Requesting Party shall return any items, including documents, records, or articles of evidence furnished to it in execution of a request under this Treaty as soon as possible unless the Central Authority of the Requested Party waives their return.
 
-Article 16
-
-Assistance in Forfeiture Proceedings
+Article 16 Assistance in Forfeiture Proceedings
 
 1. If the Central Authority of one Party becomes aware of proceeds or instrumentalities of offences which are located in the territory of the other Party and may be forfeitable or otherwise subject to seizure under the laws of that Party, it may so inform the Central Authority of the other Party. If that other Party has jurisdiction in this regard, it may present this information to its authorities for a determination whether any action is appropriate. These authorities shall issue their decision in accordance with the laws of their country, and the Central Authority shall report to the Central Authority of the other Party on the action taken.
 
@@ -392,7 +392,9 @@ Identification of bank information
 
 4. Ireland shall provide assistance under this Article with respect to money laundering and terrorist activity punishable under the laws of both the Requesting and Requested Parties, and with respect to other criminal activity punishable under the law of Ireland by a maximum sentence of at least five years imprisonment or more serious penalty and which are punishable under applicable United States laws. The United States of America shall provide assistance under this Article with respect to money laundering and terrorist activity punishable under the laws of both the Requesting and Requested Parties.
 
-5. The Requested Party shall respond to a request for production of records concerning the accounts or transactions identified pursuant to this Article in accordance with the other provisions of this Treaty. Article 16 ter:
+5. The Requested Party shall respond to a request for production of records concerning the accounts or transactions identified pursuant to this Article in accordance with the other provisions of this Treaty.
+
+Article 16 ter:
 
 Joint investigative teams
 
@@ -404,9 +406,7 @@ Joint investigative teams
 
 4. Where the joint investigative team needs investigative measures to be taken in one of the States setting up the team, a member of the team of that State may request its own competent authorities to take those measures without the other States having to submit a request for mutual legal assistance. The required legal standard for obtaining the measure in that State shall be the standard applicable to its domestic investigative activities.
 
-Article 16 quater:
-
-Video conferencing
+Article 16 quater: Video conferencing
 
 1. The use of video transmission technology shall be available between the United States of America and Ireland for taking testimony in a proceeding for which mutual legal assistance is available of a witness or expert located in the Requested Party. To the extent not specifically set forth in this Article, the modalities governing such procedure shall be as otherwise provided under this Treaty.
 
@@ -418,7 +418,9 @@ Video conferencing
 
 5. This Article is without prejudice to the use of other means for obtaining of testimony in the Requested Party available under applicable treaty or law.
 
-6. The Requested Party may permit the use of video transmission technology for purposes other than those described in paragraph 1 of this Article, including for purposes of identification of persons or objects, or taking of investigative statements. Article 17
+6. The Requested Party may permit the use of video transmission technology for purposes other than those described in paragraph 1 of this Article, including for purposes of identification of persons or objects, or taking of investigative statements.
+
+Article 17
 
 Compatibility with Other Arrangements
 
@@ -440,9 +442,7 @@ FORM A1
 
 (for use when Ireland is the Requesting Party, pursuant to Article 8)
 
-CERTIFICATE OF AUTHENTICITY OF BUSINESS RECORDS
-
-I, ______________________________ , attest on penalty of criminal punishment
+CERTIFICATE OF AUTHENTICITY OF BUSINESS RECORDS I, ______________________________ , attest on penalty of criminal punishment
 
 (Name) for false statement or false attestation that I am employed by
 
@@ -484,9 +484,7 @@ I declare that I am employed by/associated with the
 
 ______________________________ in the position of ______________________________
 
-(Name of Business from which documents are sought) (Official Title) and by reason of my position am authorised and qualified to make this declaration.
-
-I further declare that the documents attached hereto are originals or true copies of records in the custody of ______________________________
+(Name of Business from which documents are sought) (Official Title) and by reason of my position am authorised and qualified to make this declaration. I further declare that the documents attached hereto are originals or true copies of records in the custody of ______________________________
 
 (Name of Business from which documents are sought) which:
 
@@ -512,7 +510,9 @@ Declared before me at , this day of .
 
 Signed
 
-Judge of the FORM B1
+Judge of the
+
+FORM B1
 
 (for use when Ireland is the Requesting Party, pursuant to Article 8)
 
@@ -534,9 +534,7 @@ As a result of my employment with the above-named business, I am familiar with t
 
 (B) are kept in the course of a regularly-conducted business activity;
 
-(C) are made by the business as a regular practice.
-
-Among the records so maintained are records of individuals and entities that have accounts or\otherwise transact business with the above-named business. I have made or caused to be made a diligent search of those records. No records have been found reflecting any business activity between the business and the following individuals and entities:
+(C) are made by the business as a regular practice. Among the records so maintained are records of individuals and entities that have accounts or\otherwise transact business with the above-named business. I have made or caused to be made a diligent search of those records. No records have been found reflecting any business activity between the business and the following individuals and entities:
 
 ______________________________ .
 
@@ -576,9 +574,7 @@ I further declare that as a result of my employment with the above-named busines
 
 3. are made by the business as a regular practice.
 
-Among the records so maintained are records of individuals and entities that have accounts or\otherwise transact business with the above-named business. I have made or caused to be made a diligent search of those records. No records have been found reflecting any business activity between the business and the following individuals and entities:.
-
-If the business had maintained an account on behalf of or had participated in a transaction with any of the foregoing individuals or entities, its business records would reflect that fact.
+Among the records so maintained are records of individuals and entities that have accounts or\otherwise transact business with the above-named business. I have made or caused to be made a diligent search of those records. No records have been found reflecting any business activity between the business and the following individuals and entities:. If the business had maintained an account on behalf of or had participated in a transaction with any of the foregoing individuals or entities, its business records would reflect that fact.
 
 All by virtue of the Statutory Declarations Act, 1938.
 
@@ -648,7 +644,9 @@ Date of execution:
 
 Place of execution:
 
-Signature: Declared before me at , this day of .
+Signature:
+
+Declared before me at , this day of .
 
 Signed
 
@@ -670,9 +668,7 @@ I, ______________________________ , attest on penalty of criminal punishment
 
 (Official Title) this attestation.
 
-I do hereby certify that I am the custodian of records of
-
-______________________________ , and that I have made a diligent
+I do hereby certify that I am the custodian of records of ______________________________ , and that I have made a diligent
 
 (Name of Public Office or Agency) search of the said records for the
 
@@ -760,9 +756,7 @@ ______________________
 
 ______________________
 
-(Date)
-
-FORM E2
+(Date) FORM E2
 
 (for use when the United States is the Requesting Party, pursuant to Article 14)
 

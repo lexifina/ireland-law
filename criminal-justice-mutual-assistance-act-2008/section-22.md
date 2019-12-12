@@ -12,6 +12,4 @@ Interpretation (Part 3).
 
 “interception” means the interception of telecommunication messages to or from a person specified in the authorisation of the interception at a telecommunications address so specified;
 
-“telecommunications address” has the meaning that it has in the Act of 1993.
-
-Requests for interception where technical assistance required
+“telecommunications address” has the meaning that it has in the Act of 1993. Requests for interception where technical assistance required

@@ -4,9 +4,7 @@ PART 1
 
 TEXT OF 1959 CONVENTION
 
-Preamble
-
-The governments signatory hereto, being members of the Council of Europe, Considering that the aim of the Council of Europe is to achieve greater unity among its members;
+Preamble The governments signatory hereto, being members of the Council of Europe, Considering that the aim of the Council of Europe is to achieve greater unity among its members;
 
 Believing that the adoption of common rules in the field of mutual assistance in criminal matters will contribute to the attainment of this aim;
 

@@ -6,7 +6,9 @@ Chapter IV — International co-operation
 
 Section 1 — Principles of international co-operation
 
-Article 15 — General principles and measures for international co-operation 1 The Parties shall mutually co-operate with each other to the widest extent possible for the purposes of investigations and proceedings aiming at the confiscation of instrumentalities and proceeds.
+Article 15 — General principles and measures for international co-operation
+
+1 The Parties shall mutually co-operate with each other to the widest extent possible for the purposes of investigations and proceedings aiming at the confiscation of instrumentalities and proceeds.
 
 2 Each Party shall adopt such legislative or other measures as may be necessary to enable it to comply, under the conditions provided for in this chapter, with requests: a for confiscation of specific items of property representing proceeds or instrumentalities, as well as for confiscation of proceeds consisting in a requirement to pay a sum of money corresponding to the value of proceeds; b for investigative assistance and provisional measures with a view to either form of confiscation referred to under a above.
 
@@ -16,9 +18,7 @@ Article 15 — General principles and measures for international co-operation 1 
 
 Section 2 — Investigative assistance
 
-Article 16 — Obligation to assist
-
-The Parties shall afford each other, upon request, the widest possible measure of assistance in the identification and tracing of instrumentalities, proceeds and other property liable to confiscation. Such assistance shall include any measure providing and securing evidence as to the existence, location or movement, nature, legal status or value of the aforementioned property.
+Article 16 — Obligation to assist The Parties shall afford each other, upon request, the widest possible measure of assistance in the identification and tracing of instrumentalities, proceeds and other property liable to confiscation. Such assistance shall include any measure providing and securing evidence as to the existence, location or movement, nature, legal status or value of the aforementioned property.
 
 Article 17 — Requests for information on bank accounts
 
@@ -26,7 +26,9 @@ Article 17 — Requests for information on bank accounts
 
 2 The obligation set out in this article shall apply only to the extent that the information is in the possession of the bank keeping the account.
 
-3 In addition to the requirements of Article 37, the requesting party shall, in the request: a state why it considers that the requested information is likely to be of substantial value for the purpose of the criminal investigation into the offence; b state on what grounds it presumes that banks in the requested Party hold the account and specify, to the widest extent possible, which banks and/or accounts may be involved; and c include any additional information available which may facilitate the execution of the request. 4 The requested Party may make the execution of such a request dependant on the same conditions as it applies in respect of requests for search and seizure.
+3 In addition to the requirements of Article 37, the requesting party shall, in the request: a state why it considers that the requested information is likely to be of substantial value for the purpose of the criminal investigation into the offence; b state on what grounds it presumes that banks in the requested Party hold the account and specify, to the widest extent possible, which banks and/or accounts may be involved; and c include any additional information available which may facilitate the execution of the request.
+
+4 The requested Party may make the execution of such a request dependant on the same conditions as it applies in respect of requests for search and seizure.
 
 5 Each State or the European Community may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by a declaration addressed to the Secretary General of the Council of Europe, declare that this article applies only to the categories of offences specified in the list contained in the appendix to this Convention.
 
@@ -62,7 +64,9 @@ Without prejudice to its own investigations or proceedings, a Party may without 
 
 Section 3 — Provisional measures
 
-Article 21 — Obligation to take provisional measures 1 At the request of another Party which has instituted criminal proceedings or proceedings for the purpose of confiscation, a Party shall take the necessary provisional measures, such as freezing or seizing, to prevent any dealing in, transfer or disposal of property which, at a later stage, may be the subject of a request for confiscation or which might be such as to satisfy the request.
+Article 21 — Obligation to take provisional measures
+
+1 At the request of another Party which has instituted criminal proceedings or proceedings for the purpose of confiscation, a Party shall take the necessary provisional measures, such as freezing or seizing, to prevent any dealing in, transfer or disposal of property which, at a later stage, may be the subject of a request for confiscation or which might be such as to satisfy the request.
 
 2 A Party which has received a request for confiscation pursuant to Article 23 shall, if so requested, take the measures mentioned in paragraph 1 of this article in respect of any property which is the subject of the request or which might be such as to satisfy the request.
 
@@ -86,7 +90,9 @@ Article 23 — Obligation to confiscate
 
 5 The Parties shall co-operate to the widest extent possible under their domestic law with those Parties which request the execution of measures equivalent to confiscation leading to the deprivation of property, which are not criminal sanctions, in so far as such measures are ordered by a judicial authority of the requesting Party in relation to a criminal offence, provided that it has been established that the property constitutes proceeds or other property in the meaning of Article 5 of this Convention.
 
-Article 24 — Execution of confiscation 1 The procedures for obtaining and enforcing the confiscation under Article 23 shall be governed by the law of the requested Party.
+Article 24 — Execution of confiscation
+
+1 The procedures for obtaining and enforcing the confiscation under Article 23 shall be governed by the law of the requested Party.
 
 2 The requested Party shall be bound by the findings as to the facts in so far as they are stated in a conviction or judicial decision of the requesting Party or in so far as such conviction or judicial decision is implicitly based on them.
 
@@ -100,9 +106,7 @@ Article 25 — Confiscated property
 
 1 Property confiscated by a Party pursuant to Articles 23 and 24 of this Convention, shall be disposed of by that Party in accordance with its domestic law and administrative procedures.
 
-2 When acting on the request made by another Party in accordance with Articles 23 and 24 of this Convention, Parties shall, to the extent permitted by domestic law and if so requested, give priority consideration to returning the confiscated property to the requesting Party so that it can give compensation to the victims of the crime or return such property to their legitimate owners.
-
-3 When acting on the request made by another Party in accordance with Articles 23 and 24 of this Convention, a Party may give special consideration to concluding agreements or arrangements on sharing with other Parties, on a regular or case-by-case basis, such property, in accordance with its domestic law or administrative procedures.
+2 When acting on the request made by another Party in accordance with Articles 23 and 24 of this Convention, Parties shall, to the extent permitted by domestic law and if so requested, give priority consideration to returning the confiscated property to the requesting Party so that it can give compensation to the victims of the crime or return such property to their legitimate owners. 3 When acting on the request made by another Party in accordance with Articles 23 and 24 of this Convention, a Party may give special consideration to concluding agreements or arrangements on sharing with other Parties, on a regular or case-by-case basis, such property, in accordance with its domestic law or administrative procedures.
 
 Article 26 — Right of enforcement and maximum amount of confiscation
 
@@ -140,7 +144,9 @@ The requested Party may postpone action on a request if such action would prejud
 
 Article 30 — Partial or conditional granting of a request
 
-Before refusing or postponing co-operation under this chapter, the requested Party shall, where appropriate after having consulted the requesting Party, consider whether the request may be granted partially or subject to such conditions as it deems necessary. Section 6 — Notification and protection of third parties' rights
+Before refusing or postponing co-operation under this chapter, the requested Party shall, where appropriate after having consulted the requesting Party, consider whether the request may be granted partially or subject to such conditions as it deems necessary.
+
+Section 6 — Notification and protection of third parties' rights
 
 Article 31 — Notification of documents
 
@@ -182,9 +188,7 @@ Article 35 — Form of request and languages
 
 1 All requests under this chapter shall be made in writing. They may be transmitted electronically, or by any other means of telecommunication, provided that the requesting Party is prepared, upon request, to produce at any time a written record of such communication and the original. However each Party may, at any time, by a declaration addressed to the Secretary General of the Council of Europe, indicate the conditions in which it is ready to accept and execute requests received electronically or by any other means of communication.
 
-2 Subject to the provisions of paragraph 3 of this article, translations of the requests or supporting documents shall not be required.
-
-3 At the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, any State or the European Community may communicate to the Secretary General of the Council of Europe a declaration that it reserves the right to require that requests made to it and documents supporting such requests be accompanied by a translation into its own language or into one of the official languages of the Council of Europe or into such one of these languages as it shall indicate. It may on that occasion declare its readiness to accept translations in any other language as it may specify. The other Parties may apply the reciprocity rule.
+2 Subject to the provisions of paragraph 3 of this article, translations of the requests or supporting documents shall not be required. 3 At the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, any State or the European Community may communicate to the Secretary General of the Council of Europe a declaration that it reserves the right to require that requests made to it and documents supporting such requests be accompanied by a translation into its own language or into one of the official languages of the Council of Europe or into such one of these languages as it shall indicate. It may on that occasion declare its readiness to accept translations in any other language as it may specify. The other Parties may apply the reciprocity rule.
 
 Article 36 — Legalisation
 
@@ -258,7 +262,9 @@ Recalling the Convention for the Protection of Human Rights and Fundamental Free
 
 Recalling the following recommendations of the Committee of Ministers to member States of the Council of Europe: Recommendation Rec(2002) 5 on the protection of women against violence, Recommendation CM/Rec(2007) 17 on gender equality standards and mechanisms, Recommendation CM/Rec(2010) 10 on the role of women and men in conflict prevention and resolution and in peace building, and other relevant recommendations;
 
-Taking account of the growing body of case law of the European Court of Human Rights which sets important standards in the field of violence against women; Having regard to the International Covenant on Civil and Political Rights (1966), the International Covenant on Economic, Social and Cultural Rights (1966), the United Nations Convention on the Elimination of All Forms of Discrimination Against Women (“CEDAW”, 1979) and its Optional Protocol (1999) as well as General Recommendation No. 19 of the CEDAW Committee on violence against women, the United Nations Convention on the Rights of the Child (1989) and its Optional Protocols (2000) and the United Nations Convention on the Rights of Persons with Disabilities (2006);
+Taking account of the growing body of case law of the European Court of Human Rights which sets important standards in the field of violence against women;
+
+Having regard to the International Covenant on Civil and Political Rights (1966), the International Covenant on Economic, Social and Cultural Rights (1966), the United Nations Convention on the Elimination of All Forms of Discrimination Against Women (“CEDAW”, 1979) and its Optional Protocol (1999) as well as General Recommendation No. 19 of the CEDAW Committee on violence against women, the United Nations Convention on the Rights of the Child (1989) and its Optional Protocols (2000) and the United Nations Convention on the Rights of Persons with Disabilities (2006);
 
 Having regard to the Rome Statute of the International Criminal Court (2002);
 
@@ -296,9 +302,7 @@ Article 1 - Purposes of the Convention
 
 Article 2 - Scope of the Convention
 
-1 This Convention shall apply to all forms of violence against women, including domestic violence, which affects women disproportionately.
-
-2 Parties are encouraged to apply this Convention to all victims of domestic violence. Parties shall pay particular attention to women victims of gender-based violence in implementing the provisions of this Convention.
+1 This Convention shall apply to all forms of violence against women, including domestic violence, which affects women disproportionately. 2 Parties are encouraged to apply this Convention to all victims of domestic violence. Parties shall pay particular attention to women victims of gender-based violence in implementing the provisions of this Convention.
 
 3 This Convention shall apply in times of peace and in situations of armed conflict.
 
@@ -376,9 +380,7 @@ Article 12 - General obligations
 
 2 Parties shall take the necessary legislative and other measures to prevent all forms of violence covered by the scope of this Convention by any natural or legal person.
 
-3 Any measures taken pursuant to this chapter shall take into account and address the specific needs of persons made vulnerable by particular circumstances and shall place the human rights of all victims at their centre.
-
-4 Parties shall take the necessary measures to encourage all members of society, especially men and boys, to contribute actively to preventing all forms of violence covered by the scope of this Convention.
+3 Any measures taken pursuant to this chapter shall take into account and address the specific needs of persons made vulnerable by particular circumstances and shall place the human rights of all victims at their centre. 4 Parties shall take the necessary measures to encourage all members of society, especially men and boys, to contribute actively to preventing all forms of violence covered by the scope of this Convention.
 
 5 Parties shall ensure that culture, custom, religion, tradition or so-called “honour” shall not be considered as justification for any acts of violence covered by the scope of this Convention.
 
@@ -386,7 +388,9 @@ Article 12 - General obligations
 
 Article 13 - Awareness-raising
 
-1 Parties shall promote or conduct, on a regular basis and at all levels, awareness-raising campaigns or programmes, including in co-operation with national human rights institutions and equality bodies, civil society and non-governmental organisations, especially women’s organisations, where appropriate, to increase awareness and understanding among the general public of the different manifestations of all forms of violence covered by the scope of this Convention, their consequences on children and the need to prevent such violence. 2 Parties shall ensure the wide dissemination among the general public of information on measures available to prevent acts of violence covered by the scope of this Convention.
+1 Parties shall promote or conduct, on a regular basis and at all levels, awareness-raising campaigns or programmes, including in co-operation with national human rights institutions and equality bodies, civil society and non-governmental organisations, especially women’s organisations, where appropriate, to increase awareness and understanding among the general public of the different manifestations of all forms of violence covered by the scope of this Convention, their consequences on children and the need to prevent such violence.
+
+2 Parties shall ensure the wide dissemination among the general public of information on measures available to prevent acts of violence covered by the scope of this Convention.
 
 Article 14 - Education
 
@@ -430,9 +434,7 @@ Article 18 - General obligations
 
 - aim at avoiding secondary victimisation;
 
-- aim at the empowerment and economic independence of women victims of violence;
-
-- allow, where appropriate, for a range of protection and support services to be located on the same premises;
+- aim at the empowerment and economic independence of women victims of violence; - allow, where appropriate, for a range of protection and support services to be located on the same premises;
 
 - address the specific needs of vulnerable persons, including child victims, and be made available to them.
 
@@ -464,9 +466,7 @@ Article 23 - Shelters
 
 Parties shall take the necessary legislative or other measures to provide for the setting-up of appropriate, easily accessible shelters in sufficient numbers to provide safe accommodation for and to reach out pro-actively to victims, especially women and their children.
 
-Article 24 - Telephone helplines
-
-Parties shall take the necessary legislative or other measures to set up state-wide round-the-clock (24/7) telephone helplines free of charge to provide advice to callers, confidentially or with due regard for their anonymity, in relation to all forms of violence covered by the scope of this Convention.
+Article 24 - Telephone helplines Parties shall take the necessary legislative or other measures to set up state-wide round-the-clock (24/7) telephone helplines free of charge to provide advice to callers, confidentially or with due regard for their anonymity, in relation to all forms of violence covered by the scope of this Convention.
 
 Article 25 - Support for victims of sexual violence
 
@@ -494,9 +494,7 @@ Article 29 - Civil lawsuits and remedies
 
 2 Parties shall take the necessary legislative or other measures to provide victims, in accordance with the general principles of international law, with adequate civil remedies against State authorities that have failed in their duty to take the necessary preventive or protective measures within the scope of their powers.
 
-Article 30 - Compensation
-
-1 Parties shall take the necessary legislative or other measures to ensure that victims have the right to claim compensation from perpetrators for any of the offences established in accordance with this Convention.
+Article 30 - Compensation 1 Parties shall take the necessary legislative or other measures to ensure that victims have the right to claim compensation from perpetrators for any of the offences established in accordance with this Convention.
 
 2 Adequate State compensation shall be awarded to those who have sustained serious bodily injury or impairment of health, to the extent that the damage is not covered by other sources such as the perpetrator, insurance or State-funded health and social provisions. This does not preclude Parties from claiming regress for compensation awarded from the perpetrator, as long as due regard is paid to the victim’s safety.
 
@@ -538,7 +536,9 @@ Article 37 - Forced marriage
 
 2 Parties shall take the necessary legislative or other measures to ensure that the intentional conduct of luring an adult or a child to the territory of a Party or State other than the one she or he resides in with the purpose of forcing this adult or child to enter into a marriage is criminalised.
 
-Article 38 - Female genital mutilation Parties shall take the necessary legislative or other measures to ensure that the following intentional conducts are criminalised: a excising, infibulating or performing any other mutilation to the whole or any part of a woman’s labia majora, labia minora or clitoris; b coercing or procuring a woman to undergo any of the acts listed in point a; c inciting, coercing or procuring a girl to undergo any of the acts listed in point a.
+Article 38 - Female genital mutilation
+
+Parties shall take the necessary legislative or other measures to ensure that the following intentional conducts are criminalised: a excising, infibulating or performing any other mutilation to the whole or any part of a woman’s labia majora, labia minora or clitoris; b coercing or procuring a woman to undergo any of the acts listed in point a; c inciting, coercing or procuring a girl to undergo any of the acts listed in point a.
 
 Article 39 - Forced abortion and forced sterilisation
 
@@ -548,9 +548,7 @@ Article 40 - Sexual harassment
 
 Parties shall take the necessary legislative or other measures to ensure that any form of unwanted verbal, non-verbal or physical conduct of a sexual nature with the purpose or effect of violating the dignity of a person, in particular when creating an intimidating, hostile, degrading, humiliating or offensive environment, is subject to criminal or other legal sanction.
 
-Article 41 - Aiding or abetting and attempt
-
-1 Parties shall take the necessary legislative or other measures to establish as an offence, when committed intentionally, aiding or abetting the commission of the offences established in accordance with Articles 33, 34, 35, 36, 37, 38. a and 39 of this Convention.
+Article 41 - Aiding or abetting and attempt 1 Parties shall take the necessary legislative or other measures to establish as an offence, when committed intentionally, aiding or abetting the commission of the offences established in accordance with Articles 33, 34, 35, 36, 37, 38. a and 39 of this Convention.
 
 2 Parties shall take the necessary legislative or other measures to establish as offences, when committed intentionally, attempts to commit the offences established in accordance with Articles 35, 36, 37, 38. a and 39 of this Convention.
 
@@ -570,9 +568,7 @@ Article 44 - Jurisdiction
 
 2 Parties shall endeavour to take the necessary legislative or other measures to establish jurisdiction over any offence established in accordance with this Convention where the offence is committed against one of their nationals or a person who has her or his habitual residence in their territory.
 
-3 For the prosecution of the offences established in accordance with Articles 36, 37, 38 and 39 of this Convention, Parties shall take the necessary legislative or other measures to ensure that their jurisdiction is not subordinated to the condition that the acts are criminalised in the territory where they were committed.
-
-4 For the prosecution of the offences established in accordance with Articles 36, 37, 38 and 39 of this Convention, Parties shall take the necessary legislative or other measures to ensure that their jurisdiction as regards points d and e of paragraph 1 is not subordinated to the condition that the prosecution can only be initiated following the reporting by the victim of the offence or the laying of information by the State of the place where the offence was committed.
+3 For the prosecution of the offences established in accordance with Articles 36, 37, 38 and 39 of this Convention, Parties shall take the necessary legislative or other measures to ensure that their jurisdiction is not subordinated to the condition that the acts are criminalised in the territory where they were committed. 4 For the prosecution of the offences established in accordance with Articles 36, 37, 38 and 39 of this Convention, Parties shall take the necessary legislative or other measures to ensure that their jurisdiction as regards points d and e of paragraph 1 is not subordinated to the condition that the prosecution can only be initiated following the reporting by the victim of the offence or the laying of information by the State of the place where the offence was committed.
 
 5 Parties shall take the necessary legislative or other measures to establish jurisdiction over the offences established in accordance with this Convention, in cases where an alleged perpetrator is present on their territory and they do not extradite her or him to another Party, solely on the basis of her or his nationality.
 
@@ -600,7 +596,9 @@ Parties shall take the necessary legislative or other measures to provide for th
 
 Article 48 - Prohibition of mandatory alternative dispute resolution processes or sentencing
 
-1 Parties shall take the necessary legislative or other measures to prohibit mandatory alternative dispute resolution processes, including mediation and conciliation, in relation to all forms of violence covered by the scope of this Convention. 2 Parties shall take the necessary legislative or other measures to ensure that if the payment of a fine is ordered, due account shall be taken of the ability of the perpetrator to assume his or her financial obligations towards the victim.
+1 Parties shall take the necessary legislative or other measures to prohibit mandatory alternative dispute resolution processes, including mediation and conciliation, in relation to all forms of violence covered by the scope of this Convention.
+
+2 Parties shall take the necessary legislative or other measures to ensure that if the payment of a fine is ordered, due account shall be taken of the ability of the perpetrator to assume his or her financial obligations towards the victim.
 
 Chapter VI - Investigation, prosecution, procedural law and protective measures
 
@@ -670,7 +668,9 @@ Parties shall take the necessary legislative and other measures to ensure that t
 
 Chapter VII - Migration and asylum
 
-Article 59 - Residence status 1 Parties shall take the necessary legislative or other measures to ensure that victims whose residence status depends on that of the spouse or partner as recognised by internal law, in the event of the dissolution of the marriage or the relationship, are granted in the event of particularly difficult circumstances, upon application, an autonomous residence permit irrespective of the duration of the marriage or the relationship. The conditions relating to the granting and duration of the autonomous residence permit are established by internal law.
+Article 59 - Residence status
+
+1 Parties shall take the necessary legislative or other measures to ensure that victims whose residence status depends on that of the spouse or partner as recognised by internal law, in the event of the dissolution of the marriage or the relationship, are granted in the event of particularly difficult circumstances, upon application, an autonomous residence permit irrespective of the duration of the marriage or the relationship. The conditions relating to the granting and duration of the autonomous residence permit are established by internal law.
 
 2 Parties shall take the necessary legislative or other measures to ensure that victims may obtain the suspension of expulsion proceedings initiated in relation to a residence status dependent on that of the spouse or partner as recognised by internal law to enable them to apply for an autonomous residence permit.
 
@@ -698,9 +698,7 @@ Article 62 - General principles
 
 1 Parties shall co-operate with each other, in accordance with the provisions of this Convention, and through the application of relevant international and regional instruments on co-operation in civil and criminal matters, arrangements agreed on the basis of uniform or reciprocal legislation and internal laws, to the widest extent possible, for the purpose of: a preventing, combating and prosecuting all forms of violence covered by the scope of this Convention; b protecting and providing assistance to victims; c investigations or proceedings concerning the offences established in accordance with this Convention; d enforcing relevant civil and criminal judgments issued by the judicial authorities of Parties, including protection orders.
 
-2 Parties shall take the necessary legislative or other measures to ensure that victims of an offence established in accordance with this Convention and committed in the territory of a Party other than the one where they reside may make a complaint before the competent authorities of their State of residence.
-
-3 If a Party that makes mutual legal assistance in criminal matters, extradition or enforcement of civil or criminal judgments imposed by another Party to this Convention conditional on the existence of a treaty receives a request for such legal co-operation from a Party with which it has not concluded such a treaty, it may consider this Convention to be the legal basis for mutual legal assistance in criminal matters, extradition or enforcement of civil or criminal judgments imposed by the other Party in respect of the offences established in accordance with this Convention.
+2 Parties shall take the necessary legislative or other measures to ensure that victims of an offence established in accordance with this Convention and committed in the territory of a Party other than the one where they reside may make a complaint before the competent authorities of their State of residence. 3 If a Party that makes mutual legal assistance in criminal matters, extradition or enforcement of civil or criminal judgments imposed by another Party to this Convention conditional on the existence of a treaty receives a request for such legal co-operation from a Party with which it has not concluded such a treaty, it may consider this Convention to be the legal basis for mutual legal assistance in criminal matters, extradition or enforcement of civil or criminal judgments imposed by the other Party in respect of the offences established in accordance with this Convention.
 
 4 Parties shall endeavour to integrate, where appropriate, the prevention and the fight against violence against women and domestic violence in assistance programmes for development provided for the benefit of third States, including by entering into bilateral and multilateral agreements with third States with a view to facilitating the protection of victims in accordance with Article 18, paragraph 5.
 
@@ -754,7 +752,9 @@ Article 68 - Procedure
 
 3 Subsequent evaluation procedures shall be divided into rounds, the length of which is determined by GREVIO. At the beginning of each round GREVIO shall select the specific provisions on which the evaluation procedure shall be based and send out a questionnaire.
 
-4 GREVIO shall define the appropriate means to carry out this monitoring procedure. It may in particular adopt a questionnaire for each evaluation round, which shall serve as a basis for the evaluation procedure of the implementation by the Parties. This questionnaire shall be addressed to all Parties. Parties shall respond to this questionnaire, as well as to any other request of information from GREVIO. 5 GREVIO may receive information on the implementation of the Convention from non-governmental organisations and civil society, as well as from national institutions for the protection of human rights.
+4 GREVIO shall define the appropriate means to carry out this monitoring procedure. It may in particular adopt a questionnaire for each evaluation round, which shall serve as a basis for the evaluation procedure of the implementation by the Parties. This questionnaire shall be addressed to all Parties. Parties shall respond to this questionnaire, as well as to any other request of information from GREVIO.
+
+5 GREVIO may receive information on the implementation of the Convention from non-governmental organisations and civil society, as well as from national institutions for the protection of human rights.
 
 6 GREVIO shall take due consideration of the existing information available from other regional and international instruments and bodies in areas falling within the scope of this Convention.
 
@@ -770,7 +770,9 @@ Article 68 - Procedure
 
 12 Without prejudice to the procedure of paragraphs 1 to 8, the Committee of the Parties may adopt, on the basis of the report and conclusions of GREVIO, recommendations addressed to this Party (a) concerning the measures to be taken to implement the conclusions of GREVIO, if necessary setting a date for submitting information on their implementation, and (b) aiming at promoting co-operation with that Party for the proper implementation of this Convention.
 
-13 If GREVIO receives reliable information indicating a situation where problems require immediate attention to prevent or limit the scale or number of serious violations of the Convention, it may request the urgent submission of a special report concerning measures taken to prevent a serious, massive or persistent pattern of violence against women. 14 Taking into account the information submitted by the Party concerned, as well as any other reliable information available to it, GREVIO may designate one or more of its members to conduct an inquiry and to report urgently to GREVIO. Where warranted and with the consent of the Party, the inquiry may include a visit to its territory.
+13 If GREVIO receives reliable information indicating a situation where problems require immediate attention to prevent or limit the scale or number of serious violations of the Convention, it may request the urgent submission of a special report concerning measures taken to prevent a serious, massive or persistent pattern of violence against women.
+
+14 Taking into account the information submitted by the Party concerned, as well as any other reliable information available to it, GREVIO may designate one or more of its members to conduct an inquiry and to report urgently to GREVIO. Where warranted and with the consent of the Party, the inquiry may include a visit to its territory.
 
 15 After examining the findings of the inquiry referred to in paragraph 14, GREVIO shall transmit these findings to the Party concerned and, where appropriate, to the Committee of the Parties and the Committee of Ministers of the Council of Europe together with any comments and recommendations.
 
@@ -788,9 +790,7 @@ Article 70 - Parliamentary involvement in monitoring
 
 Chapter X - Relationship with other international instruments
 
-Article 71 - Relationship with other international instruments
-
-1 This Convention shall not affect obligations arising from other international instruments to which Parties to this Convention are Parties or shall become Parties and which contain provisions on matters governed by this Convention.
+Article 71 - Relationship with other international instruments 1 This Convention shall not affect obligations arising from other international instruments to which Parties to this Convention are Parties or shall become Parties and which contain provisions on matters governed by this Convention.
 
 2 The Parties to this Convention may conclude bilateral or multilateral agreements with one another on the matters dealt with in this Convention, for purposes of supplementing or strengthening its provisions or facilitating the application of the principles embodied in it.
 
@@ -818,9 +818,7 @@ Article 74 - Dispute settlement
 
 2 The Committee of Ministers of the Council of Europe may establish procedures of settlement to be available for use by the Parties in dispute if they should so agree.
 
-Article 75 - Signature and entry into force
-
-1 This Convention shall be open for signature by the member States of the Council of Europe, the non-member States which have participated in its elaboration and the European Union.
+Article 75 - Signature and entry into force 1 This Convention shall be open for signature by the member States of the Council of Europe, the non-member States which have participated in its elaboration and the European Union.
 
 2 This Convention is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
@@ -856,7 +854,9 @@ Article 78 - Reservations
 
 - Article 58 in respect of Articles 37, 38 and 39;
 
-- Article 59. 3 Any State or the European Union may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by a declaration addressed to the Secretary General of the Council of Europe, declare that it reserves the right to provide for non-criminal sanctions, instead of criminal sanctions, for the behaviours referred to in Articles 33 and 34.
+- Article 59.
+
+3 Any State or the European Union may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by a declaration addressed to the Secretary General of the Council of Europe, declare that it reserves the right to provide for non-criminal sanctions, instead of criminal sanctions, for the behaviours referred to in Articles 33 and 34.
 
 4 Any Party may wholly or partly withdraw a reservation by means of a declaration addressed to the Secretary General of the Council of Europe. This declaration shall become effective as from its date of receipt by the Secretary General.
 
