@@ -30,7 +30,9 @@ Supply of controlled drugs into prisons and places of detention.
 
 (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding 10 years or both.
 
-(8) In this section— ‘an authorised member of the staff’ —
+(8) In this section—
+
+‘an authorised member of the staff’ —
 
 (a) in relation to a children detention school, means a member of the staff of the school who is authorised in writing for the purposes of this section by the Director (within the meaning of section 157 of the Children Act 2001) of the school, and
 
