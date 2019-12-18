@@ -16,6 +16,8 @@ Application of Part under Bank Recovery and Resolution Directive.
 
 (g) a Union branch;
 
+28 OJ No. L 176, 27.06.2013, p. 1
+
 (h) a Union parent financial holding company;
 
 (i) a Union parent mixed financial holding company.
