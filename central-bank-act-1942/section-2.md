@@ -40,9 +40,7 @@ Interpretation.
 
 ...
 
-...
-
-‘credit union’ has the meaning given by the Credit Union Act 1997;
+... ‘credit union’ has the meaning given by the Credit Union Act 1997;
 
 ‘Currency Act 1927’ means that Act as adapted in consequence of the Constitution;
 
@@ -262,6 +260,8 @@ Interpretation.
 
 (ay) Commission Delegated Regulation (EU) 2019/979 of 14 March 2019;
 
+OJ, No L171, 29.6.2016, p. 1
+
 (az) Commission Delegated Regulation (EU) 2019/980 of 14 March 2019.
 
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
@@ -271,5 +271,3 @@ Interpretation.
 (5) In this Act, a reference to the directors of a company, in relation to a company that does not have a board of directors, is a reference to the persons responsible for directing the operations of the company.
 
 (6) References in this Act to a regulated financial service provider shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider at the relevant time.
-
-OJ, No L171, 29.6.2016, p. 1

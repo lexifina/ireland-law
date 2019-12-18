@@ -20,6 +20,4 @@ Prohibition of the Governor holding shares in a financial institution.
 
 ‘bank’ includes a bank incorporated outside the State as well as a bank incorporated in the State;
 
-‘financial institution’ includes a credit institution and an insurance undertaking;
-
-‘shares’, in relation to a bank, include stock, shares, debentures, debenture stock, bonds and other securities of the bank.
+‘financial institution’ includes a credit institution and an insurance undertaking; ‘shares’, in relation to a bank, include stock, shares, debentures, debenture stock, bonds and other securities of the bank.

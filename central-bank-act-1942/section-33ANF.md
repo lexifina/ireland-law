@@ -24,6 +24,4 @@ Application of Part to insurance holding companies and mixed financial holding c
 
 (3) Nothing in this section limits the application of this Part in relation to matters other than those referred to in subsection (1).
 
-(4) In this section “insurance holding company” and “mixed financial holding company” have the meaning assigned to them in the European Union (Insurance and Reinsurance) Regulations 2015.
-
-CHAPTER 2
+(4) In this section “insurance holding company” and “mixed financial holding company” have the meaning assigned to them in the European Union (Insurance and Reinsurance) Regulations 2015. CHAPTER 2
