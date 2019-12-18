@@ -194,7 +194,7 @@ Item Number and Year Citation Provisions
 
 39 S.I. No. 13 of 2005 European Communities The whole instrument (Insurance Mediation) Regulations 2005
 
-40 S.I. No. XX of 2019 European Union (Prospectus) The whole instrument Regulations 2019
+40 S.I. No. 380 of 2019 European Union (Prospectus) The whole instrument Regulations 2019
 
 41 S.I. No. 349 of 2016 European Union The whole instrument (Market Abuse) Regulations 2016
 
