@@ -24,7 +24,11 @@ Deduction for tax borne or paid.
 
 (f) supplies of goods or services outside the State which would be taxable supplies if made in the State;
 
-“qualifying vehicle” means a motor vehicle which, for the purposes of vehicle registration tax, is first registered, in accordance with section 131 of the Finance Act 1992, on or after 1 January 2009 and has, for the purposes of that registration, a level of CO emissions of less than 156g/km.
+‘qualifying vehicle’ means a motor vehicle which, for the purposes of vehicle registration tax, is first registered, in accordance with section 131 of the Finance Act 1992—
+
+(a) in the period on or after 1 January 2009 and up to 31 December 2020, and has, for the purposes of that registration, a level of CO emissions of less than 156g/km, or
+
+(b) on or after 1 January 2021, and has, for the purposes of that registration, a level of CO emissions of less than 140g/km.
 
 (2) Subject to subsection (3), in computing the amount of tax payable by an accountable person in respect of a taxable period, that person may, in so far as the goods and services are used by him or her for the purposes of his or her taxable supplies or of any of the qualifying activities, deduct—
 
@@ -70,7 +74,7 @@ Deduction for tax borne or paid.
 
 (q) subject to such conditions (if any) as may be specified in regulations, in respect of goods referred to in section 92, the tax due in the period in accordance with that section.
 
-(2A) In computing the amount of tax payable by an accountable person in respect of a taxable period, that person may deduct the tax charged to him or her during the period by other accountable persons in respect of services directly related to the transfer of ownership of goods that would, but for the operation of section 20(2)(c), be subject to tax.
+(2A) ...
 
 (3) Subsection (2) shall not apply to—
 
