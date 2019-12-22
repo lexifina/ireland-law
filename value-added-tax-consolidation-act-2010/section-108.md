@@ -45,3 +45,11 @@ Inspection and removal of records.
 (5) A person shall not wilfully obstruct or delay an authorised officer in the exercise of his or her powers under this section.
 
 (6) Where, in pursuance of this section, an authorised officer enters any premises, carries out any search or requests production of any documents, he or she shall, on request, show his or her authorisation for the purpose of this section to the person concerned.
+
+(7) The cases in which there is exercisable the powers conferred on an authorised officer by this section shall include the case specified in subsection (7) and this section shall be construed and have effect accordingly.
+
+(8) The case referred to in subsection (7) is a case in which an authorised officer is required by Council Regulation 904/2010/EU of 7 October 2010 on administrative cooperation and combating fraud in the field of value added tax to provide to a requesting authority (as defined in Article 2 of that Council Regulation) in another Member State, on request by that authority, any books, records, accounts or other documents, whether—
+
+(a) related to a business being carried on, or
+
+(b) that are connected with that business by means of trading relations, either current or otherwise, that such a business has had with other businesses, and where such a request is made, the books, records, accounts or other documents that may be the subject of the exercise of the powers referred to in subsection (7) shall extend to such books, records, accounts or other documents as are deemed to be relevant by the authorised officer.
