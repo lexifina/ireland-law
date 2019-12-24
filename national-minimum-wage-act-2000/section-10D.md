@@ -10,9 +10,17 @@ National minimum hourly rate of pay.
 
 (b) decline to make such an order.
 
+(1A) Where the Minister—
+
+(a) having received a recommendation and report submitted to him or her under section 10C(2), having considered the report and recommendation and, having had regard to section 10C(3), has declined to make an order in accordance with subsection (1) (b), and
+
+(b) has, in accordance with subsection (2) (b), prepared and laid before both Houses of the Oireachtas a statement of his or her reasons for declining to make such order, the Minister may by order declare a national minimum hourly rate of pay in the terms recommended by the Commission or in other terms.
+
 (2) Where the Minister—
 
-(a) by order declares a national minimum hourly rate of pay in terms other than terms recommended by the Commission, or
+(a) by order declares a national minimum hourly rate of pay in terms other than terms recommended by the Commission, ...
+
+(ab) by order declares a national minimum hourly rate of pay in accordance with subsection (1A), or
 
 (b) declines to make an order declaring a national minimum hourly rate of pay, the Minister shall prepare and lay before both Houses of the Oireachtas a statement of his or her reasons for so doing.
 
