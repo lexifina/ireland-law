@@ -12,9 +12,7 @@ Revised safety case - transitional arrangement.
 
 (iii) 19 July 2018.
 
-(2) Notwithstanding any other provision of this Act and subject to subsection (3), a petroleum undertaking who satisfies either the conditions set out in subsection (1)
-
-(a) or (b), may continue to carry out designated petroleum activities in accordance with its existing safety permit and accepted safety case until the assessment by the Commission of the revised safety case, submitted under subsection (1) has been completed.
+(2) Notwithstanding any other provision of this Act and subject to subsection (3), a petroleum undertaking who satisfies either the conditions set out in subsection (1) (a) or (b), may continue to carry out designated petroleum activities in accordance with its existing safety permit and accepted safety case until the assessment by the Commission of the revised safety case, submitted under subsection (1) has been completed.
 
 (3) A petroleum undertaking referred to in subsection (1) shall review its safety case during the period from the commencement of this section under the Petroleum (Exploration and Extraction) Safety Act 2015 and the submission of the safety case in accordance with subsection (1) —
 

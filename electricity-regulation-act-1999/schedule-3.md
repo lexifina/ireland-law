@@ -14,7 +14,9 @@ E CHP = H CHP . C where:
 
 E is electricity production from combined heat and power.
 
-C is the actual power to heat ratio of the unit. H is the amount of useful heat from combined heat and power (calculated as total heat production minus any heat produced in separate boilers or by live steam extraction from the steam generator before the turbine).
+C is the actual power to heat ratio of the unit.
+
+H is the amount of useful heat from combined heat and power (calculated as total heat production minus any heat produced in separate boilers or by live steam extraction from the steam generator before the turbine).
 
 2. If a share of the energy content of the fuel input to the combined heat and power process is recovered in chemicals and recycled this share can be subtracted from the fuel input before calculating the overall efficiency used in paragraph 1.
 
@@ -22,9 +24,7 @@ C is the actual power to heat ratio of the unit. H is the amount of useful heat 
 
 Where:
 
-PES is primary energy savings.
-
-CHPηH is the heat efficiency of the combined heat and power, defined as annual useful heat output divided by the fuel input used to produce the sum of useful heat output and electricity production from combined heat and power.
+PES is primary energy savings. CHPηH is the heat efficiency of the combined heat and power, defined as annual useful heat output divided by the fuel input used to produce the sum of useful heat output and electricity production from combined heat and power.
 
 RefηH is the efficiency reference value for separate heat production determined in accordance with section 7(6).
 
