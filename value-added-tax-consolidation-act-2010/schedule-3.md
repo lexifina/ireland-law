@@ -84,6 +84,10 @@ Food and drink for human consumption.
 
 (c) chocolates, sweets and similar confectionery.
 
+Food supplements.
+
+3A. The supply of food supplements of a kind used for human oral consumption.
+
 Live animals, animal feeding stuffs.
 
 4. (1) Greyhound feeding stuff that is packaged, advertised or held out for sale solely as greyhound feeding stuff, and that is supplied in units of not less than 10 kilograms.
