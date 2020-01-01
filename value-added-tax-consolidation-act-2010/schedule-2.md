@@ -12,7 +12,7 @@ This Part sets out the exemptions with deductibility in accordance with Chapters
 
 Intra-Community transactions.
 
-1. (1) The supply of goods dispatched or transported from the State to a person registered for value-added tax in another Member State.
+1. (1) The supply of goods dispatched or transported from the State to a person registered for value-added tax in another Member State, provided that the supplier of the goods has complied with section 82 or, where the supplier has failed to so comply, he or she has justified such failure to the satisfaction of the Revenue Commissioners.
 
 (2) The supply of new means of transport dispatched or transported directly by or on behalf of the supplier to a person in the territory of another Member State.
 
@@ -180,7 +180,7 @@ Part E
 
 (1) (2)
 
-Any of the following items not being items speci- (a)Tea, herbal tea and preparations fied in column (2) of this Part: derived from either or both of them, when supplied in non-drinkable form. (a) drinking water, juice extracted from, and other drinkable products derived from, (b) Cocoa, coffee and chicory and other roasted fruit or vegetables, and syrups, coffee substitutes, and preparations and concentrates, essences, powders, extracts derived from any of them, when crystals or other products for the supplied in non-drinkable form. preparation of beverages; (c) Milk and preparations and extracts derived (b) beverages other than those specified in from milk. Part A or B. (d) Preparations and extracts derived from meat, yeast or eggs.
+Any of the following items not being items (a)Tea, herbal tea and preparations specified in column (2) of this Part: derived from either or both of them, when supplied in non-drinkable form. (a) drinking water, juice extracted from, and other drinkable products derived from, (b) Cocoa, coffee and chicory and other roasted fruit or vegetables, and syrups, coffee substitutes, and preparations and concentrates, essences, powders, extracts derived from any of them, when crystals or other products for the supplied in non-drinkable form. preparation of beverages; (c) Milk and preparations and extracts derived (b) beverages other than those specified in from milk. Part A or B. (d) Preparations and extracts derived from meat, yeast or eggs.
 
 Part F
 
