@@ -8,7 +8,7 @@ Statement of principal fiduciary duties of directors
 
 (c) act in accordance with the company’s constitution and exercise his or her powers only for the purposes allowed by law;
 
-(d) not use the company’s property, information or opportunities for his or her own or anyone else<csq/>s benefit unless—
+(d) not use the company’s property, information or opportunities for his or her own or anyone else’s benefit unless—
 
 (i) this is expressly permitted by the company’s constitution; or
 
