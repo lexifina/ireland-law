@@ -2,7 +2,7 @@ FIRST SCHEDULE
 
 THE COLLEGES
 
-Name of College.
+Name of College. ...
 
 ...
 

@@ -1,3 +1,3 @@
-Grants.
+Grants. (Repealed)
 
 15.—...
