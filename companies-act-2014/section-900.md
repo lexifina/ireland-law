@@ -4,9 +4,11 @@ Interpretation (Chapter 2)
 
 900. (1) In this Chapter—
 
-“1993 Accounts Regulations” means the European Communities (Accounts) Regulations 1993 (S.I. No. 396 of 1993);
+...
 
 ...
+
+‘2019 Qualifying Partnerships Regulations’ means the European Union (Qualifying Partnerships: Accounting and Auditing) Regulations 2019;
 
 “Act of 2003” means the Companies (Auditing and Accounting) Act 2003;
 

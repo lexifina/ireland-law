@@ -12,7 +12,7 @@ Act structured to facilitate its use in relation to most common type of company
 
 (a) private companies limited by shares; and
 
-(b) other types of company, as well as to certain undertakings to which the European Communities (Accounts) Regulations 1993 (S.I. No. 396 of 1993), as amended, apply.
+(b) other types of company, as well as to certain undertakings to which the European Union (Qualifying Partnerships: Accounting and Auditing) Regulations 2019 apply.
 
 (4) Exceptionally, provisions either—
 

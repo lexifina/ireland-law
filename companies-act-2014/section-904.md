@@ -6,7 +6,7 @@ Objects of Supervisory Authority
 
 (b) promote adherence to high professional standards in the auditing and accountancy profession,
 
-(c) monitor whether the financial statements or accounts of certain classes of companies and other undertakings comply with this Act (or, as the case may be, this Act as applied by the 1993 Accounts Regulations) and, where applicable, Article 4 of the IAS Regulation,
+(c) monitor whether the financial statements or accounts of certain classes of companies and other undertakings comply with this Act (or, as the case may be, this Act as applied by the 2019 Qualifying Partnerships Regulations) and, where applicable, Article 4 of the IAS Regulation,
 
 (d) act as a specialist source of advice to the Minister on auditing and accounting matters, and
 
