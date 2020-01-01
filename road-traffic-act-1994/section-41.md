@@ -18,7 +18,7 @@ Detention of vehicles.
 
 (d) the vehicle is, or a member of the Garda Síochána is of the opinion that the vehicle is, being so used in contravention of section 18(1) of the Principal Act,
 
-(e) the vehicle is, or a member of the Garda Síochána is of the opinion that the vehicle is, being so used in contravention of Regulation 19(1) of the European Communities (Vehicle Testing) Regulations 2004 (S.I. No. 771 of 2004), or
+(e) the vehicle is, or a member of the Garda Síochána is of the opinion that the vehicle is, being so used in contravention of Regulation 19(1) of the European Communities (Vehicle Testing) Regulations 2004 (S.I. No. 771 of 2004) or section 6 (1) of the Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012, or
 
 (f) in the case of a vehicle registered in another Member State, the vehicle is, or a member of the Garda Síochána is of the opinion that it is, being so used without a proof of passing a roadworthiness test in accordance with Council Directive 96/96/EC of 20 December 1996 which is for the time being in force in respect of the vehicle.
 
