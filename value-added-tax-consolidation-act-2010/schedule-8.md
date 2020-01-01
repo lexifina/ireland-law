@@ -12,9 +12,9 @@ Number and Year Short Title Extent of Repeal
 
 No. 19 of 1973. Finance Act 1973. Part V (sections 76 to 90), in so far as it is unrepealed. Section 98(5). Tenth Schedule.
 
-No. 6 of 1975. Finance Act 1975. Part V (sections 50 to 53), in so far as it is unrepealed. Section 29(3).
+No. 6 of 1975. Finance Act 1975. Part V (sections 50 to 53), in so far as it is unrepealed. Section 29(3). No. 19 of 1975. Finance (No. 2) Act Sections 2 and 4(3) and (4). 1975. Schedule.
 
-No. 19 of 1975. Finance (No. 2) Act Sections 2 and 4(3) and (4). 1975. Schedule. No. 16 of 1976. Finance Act 1976. Part IV (sections 49 to 63), in so far as it is unrepealed. Section 83(5). Fifth Schedule, Part II.
+No. 16 of 1976. Finance Act 1976. Part IV (sections 49 to 63), in so far as it is unrepealed. Section 83(5). Fifth Schedule, Part II.
 
 No. 34 of 1978. Value-Added Tax The whole Act. (Amendment) Act 1978.
 
@@ -44,9 +44,9 @@ No. 10 of 1989. Finance Act 1989. Part III (sections 53 to 63), in so far as it 
 
 No. 10 of 1990. Finance Act 1990. Part III (sections 97 to 107), in so far as it is unrepealed. Section 140(4) and (9).
 
-No. 13 of 1991. Finance Act 1991. Part III (sections 76 to 87), in so far as it is unrepealed. Section 132(4) and (9).
+No. 13 of 1991. Finance Act 1991. Part III (sections 76 to 87), in so far as it is unrepealed. Section 132(4) and (9). No. 9 of 1992. Finance Act 1992. Part III (sections 164 to 198), in so far as it is unrepealed. Section 254(4) and (11).
 
-No. 9 of 1992. Finance Act 1992. Part III (sections 164 to 198), in so far as it is unrepealed. Section 254(4) and (11). No. 13 of 1993. Finance Act 1993. Part III (sections 81 to 99), in so far as it is unrepealed. Section 143(4) and (9).
+No. 13 of 1993. Finance Act 1993. Part III (sections 81 to 99), in so far as it is unrepealed. Section 143(4) and (9).
 
 No. 13 of 1994. Finance Act 1994. Part III (sections 90 to 101), in so far as it is unrepealed. Section 166(4) and (9).
 
@@ -74,7 +74,9 @@ No. 5 of 2005. Finance Act 2005. Part 3 (sections 98 to 113), in so far as it is
 
 No. 6 of 2006. Finance Act 2006. Part 3 (sections 92 to 101), in so far as it is unrepealed. Section 130(4). Schedule 2, paragraphs 8 and 9(h).
 
-No. 11 of 2007. Finance Act 2007. Part 3 (sections 75 to 98), in so far as it is unrepealed. Section 121, in so far as it relates to value-added tax. Section 130(4). Schedule 3. Schedule 4, paragraphs 3 and 6(c). No. 3 of 2008. Finance Act 2008. Part 3 (sections 82 to 109), in so far as it is unrepealed. Section 144(4). Schedule 4. Schedule 8, paragraph 3 and 7(c).
+No. 11 of 2007. Finance Act 2007. Part 3 (sections 75 to 98), in so far as it is unrepealed. Section 121, in so far as it relates to value-added tax. Section 130(4). Schedule 3. Schedule 4, paragraphs 3 and 6(c).
+
+No. 3 of 2008. Finance Act 2008. Part 3 (sections 82 to 109), in so far as it is unrepealed. Section 144(4). Schedule 4. Schedule 8, paragraph 3 and 7(c).
 
 No. 25 of 2008. Finance (No. 2) Act Part 3 (sections 67 to 77), in so far as it is 2008. unrepealed. Section 102(4). Schedule 3, paragraph 2. Schedule 5, Part 3. Schedule 6, paragraphs 4 and 7(d).
 
@@ -92,20 +94,18 @@ S.I. No. and Year Title Extent of Revocation (1) (2) (3)
 
 S.I. No. 307 of 1975. Imposition of Duties (No. 221) (Excise Duties) Paragraph 16. Order 1975.
 
-S.I. No. 146 of 1978. Value-Added Tax (Reduction of Rate) (No. 4) The whole statutory instru- Order 1978. ment.
+S.I. No. 146 of 1978. Value-Added Tax (Reduction of Rate) (No. 4) The whole statutory Order 1978. instrument.
 
-S.I. No. 53 of 1981. Value-Added Tax (Reduction of Rate) (No. 5) The whole statutory instru- Order 1981. ment.
+S.I. No. 53 of 1981. Value-Added Tax (Reduction of Rate) (No. 5) The whole statutory Order 1981. instrument.
 
-S.I. No. 430 of 1985. Value-Added Tax (Exempted Activities) (No. 1) The whole statutory instru- Order 1985. ment.
+S.I. No. 430 of 1985. Value-Added Tax (Exempted Activities) (No. 1) The whole statutory Order 1985. instrument.
 
-S.I. No. 413 of 1992. European Communities (Value-Added Tax) The whole statutory instru- Regulations 1992. ment.
+S.I. No. 413 of 1992. European Communities (Value-Added Tax) The whole statutory Regulations 1992. instrument.
 
-S.I. No. 303 of 1993. Value-Added Tax (Threshold for Advance The whole statutory instru- Payment) Order 1993. ment.
+S.I. No. 303 of 1993. Value-Added Tax (Threshold for Advance The whole statutory Payment) Order 1993. instrument.
 
-S.I. No. 448 of 1994. European Communities (Value-Added Tax) The whole statutory instru- Regulations 1994. ment.
+S.I. No. 448 of 1994. European Communities (Value-Added Tax) The whole statutory Regulations 1994. instrument.
 
-S.I. No. 316 of 1997. Value-Added Tax (Eligibility To Determine Tax The whole statutory instru- Due By Reference To Moneys Received) Order ment. 1997.
+S.I. No. 316 of 1997. Value-Added Tax (Eligibility To Determine Tax The whole statutory Due By Reference To Moneys Received) Order instrument. 1997.
 
-S.I. No. 520 of 2009. European Communities (Value-Added Tax) The whole statutory instru- Regulations 2009. ment.
-
-S.I. No. 317 of 2010. European Communities (Value-Added Tax) The whole statutory instru- Regulations 2010. ment.
+S.I. No. 520 of 2009. European Communities (Value-Added Tax) The whole statutory Regulations 2009. instrument. S.I. No. 317 of 2010. European Communities (Value-Added Tax) The whole statutory Regulations 2010. instrument.

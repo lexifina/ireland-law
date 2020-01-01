@@ -34,7 +34,9 @@ Transitional measures for supplies of immovable goods.
 
 (b) The deductibility adjustment shall be calculated in accordance with the formula—
 
-TD × (Y — N) Y where— TD is the amount of the tax referred to in paragraph (a)(ii) that the landlord was entitled to deduct,
+TD × (Y — N) Y where—
+
+TD is the amount of the tax referred to in paragraph (a)(ii) that the landlord was entitled to deduct,
 
 Y is 20 or, if the interest when it was acquired by the landlord was for a period of less than 20 years, the number of full years in that interest, and
 

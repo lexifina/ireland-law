@@ -2,7 +2,7 @@ Authorisations in relation to filing dates.
 
 77.—(1)(a) In this section—
 
-“accounting period” means a period, as determined by the Collector-General from time to time in any particular case, consisting of a number of consecutive taxable periods not exceeding 6 or such other period not exceeding a continuous period of 12 months as may be specified by the Collector- General;
+“accounting period” means a period, as determined by the Collector-General from time to time in any particular case, consisting of a number of consecutive taxable periods not exceeding 6 or such other period not exceeding a continuous period of 12 months as may be specified by the Collector-General;
 
 “authorised person” means an accountable person who has been authorised in writing by the Collector-General for the purposes of this section, and “authorise” and “authorisation” shall be construed accordingly.
 

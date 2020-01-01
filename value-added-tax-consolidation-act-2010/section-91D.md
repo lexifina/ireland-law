@@ -4,6 +4,8 @@ Union scheme (where the State is Member State of identification).
 
 (i) makes or intends to make qualifying supplies of scheme services in the course or furtherance of business,
 
+4 OJ No. L326, 21.11.1986, p.40
+
 (ii) has established his or her business in the State or, if he or she has not established his or her business in the Community, the taxable person has a fixed establishment in the State, and
 
 (iii) has been assigned a registration number under section 65(2).
@@ -27,8 +29,6 @@ Union scheme (where the State is Member State of identification).
 (a) the person’s name and postal address;
 
 (b) his or her electronic addresses, including website addresses;
-
-4 OJ No. L326, 21.11.1986, p.40
 
 (c) the registration number assigned to the person under section 65(2);
 
