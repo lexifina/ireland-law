@@ -42,6 +42,8 @@ Interpretation — general.
 
 “calendar quarter” means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October;
 
+‘call-off stock arrangements’ means the dispatch or transport of goods from one Member State to another Member State where, at the time of the dispatch or transport of the goods to such other Member State, the identity of the person to whom those goods will be supplied at a later stage and after the goods have arrived in the Member State of destination is known to the supplier.
+
 “capital goods” means developed immovable goods and includes refurbishment within the meaning of section 63(1), and a reference to a capital good includes a reference to any part thereof and the term “capital good” shall be construed accordingly;
 
 “clothing” does not include footwear;
@@ -88,7 +90,7 @@ Interpretation — general.
 
 “exempted activity” means—
 
-(a) a supply of immovable goods in respect of which, pursuant to sections 94(2) and 95(3) and (7)(b), tax is not chargeable, and
+(a) a supply of immovable goods in respect of which, pursuant to sections 93(2)(a)(i), 94(2) and 95(3) and (7)(b), tax is not chargeable, and
 
 (b) a supply of any goods or services of a kind specified in Schedule 1;
 
