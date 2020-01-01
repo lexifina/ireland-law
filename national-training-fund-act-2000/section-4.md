@@ -1,6 +1,6 @@
 Rate of levy and supplemental provisions.
 
-4.—(1) Where in any contribution week a payment is made to or for the benefit of an employed contributor in respect of reckonable earnings of that employed contributor, a levy shall be payable by the employed contributor’s employer at the rate of 0.9 per cent of the amount of the reckonable earnings in that week to which that payment relates.
+4.—(1) Where in any contribution week a payment is made to or for the benefit of an employed contributor in respect of reckonable earnings of that employed contributor, a levy shall be payable by the employed contributor’s employer at the rate of 1.0 per cent of the amount of the reckonable earnings in that week to which that payment relates.
 
 (2) Nothing in subsection (1) or any other provision of this Act shall be construed as requiring levy to be paid in relation to a payment of the kind referred to in subsection (1) that is made before the commencement of this Act.
 
