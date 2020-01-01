@@ -14,9 +14,7 @@ Division Group Class Description International Standard Industrial Classificatio
 
 Table 2
 
-Section B - Mining and Quarrying
-
-Division Group Class Description International Standard Industrial Classification Revision 4
+Section B - Mining and Quarrying Division Group Class Description International Standard Industrial Classification Revision 4
 
 05 Mining of coal and lignite
 
@@ -40,7 +38,9 @@ Division Group Class Description International Standard Industrial Classificatio
 
 07.29 Mining of other non- 0729 ferrous metal ores
 
-08 Other mining and quarrying 08.1 Quarrying of stone, sand and clay
+08 Other mining and quarrying
+
+08.1 Quarrying of stone, sand and clay
 
 08.11 Quarrying of ornamen- 0810 (part tal and building of ) stone, limestone, gypsum, chalk and slate
 

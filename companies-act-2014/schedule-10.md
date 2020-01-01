@@ -30,7 +30,9 @@ ARTICLES OF ASSOCIATION
 
 The following Regulations shall apply to the company:
 
-1. The number of members with which the company proposes to be registered is 4. [In addition to the immediately foregoing words, the following sentence may be included:-*]
+1. The number of members with which the company proposes to be registered is 4.
+
+[In addition to the immediately foregoing words, the following sentence may be included:-*]
 
 The provisions of the Companies Act 2014 are adopted.
 
@@ -40,9 +42,7 @@ We, the several persons whose names and addresses are subscribed, wish to be for
 
 As appropriate: signature in writing of the above subscribers, attested by witness as provided for below; or authentication in the manner referred to in section 888.
 
-Dated the ____ day of _____________ 20__
-
-Witness to the above Signatures:
+Dated the ____ day of _____________ 20__ Witness to the above Signatures:
 
 Name: __________________________________
 

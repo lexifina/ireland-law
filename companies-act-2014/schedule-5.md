@@ -1,8 +1,6 @@
 SCHEDULE 5
 
-LIST OF COMPANIES FOR CERTAIN PURPOSES OF ACT (INCLUDING, IN PARTICULAR, SECTIONS 142, 350, 362 AND 510)
-
-Section 142.
+LIST OF COMPANIES FOR CERTAIN PURPOSES OF ACT (INCLUDING, IN PARTICULAR, SECTIONS 142, 350, 362 AND 510) Section 142.
 
 1. A company that is an authorised investment firm within the meaning of the European Communities (Markets in Financial Instruments) Regulations 2007 (S.I. No. 60 of 2007).
 

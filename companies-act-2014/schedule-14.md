@@ -98,7 +98,9 @@ Section 150 relation to section 149
 
 Particulars to be shown on all business letters of
 
-Section 151 company Summary Approval Procedure Chapter 7 of Part 4 (in so far as it relates to sections 82, 84 and 239)
+Section 151 company
+
+Summary Approval Procedure Chapter 7 of Part 4 (in so far as it relates to sections 82, 84 and 239)
 
 Remedy in case of oppression
 
@@ -138,9 +140,7 @@ Section 270 specified in respect of officers (whether directors or secretaries o
 
 Presumption that default permitted and certain
 
-Section 271 defence
-
-Financial statements, annual return and audit
+Section 271 defence Financial statements, annual return and audit
 
 Part 6
 

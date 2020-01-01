@@ -8,6 +8,8 @@ Prohibition on certain provisions in constitution, etc. and issuing of shares
 
 (a) every provision in the constitution, or in any resolution, of a CLG purporting to divide the undertaking of the CLG into shares or interests, shall be treated as a provision for a share capital, notwithstanding that the nominal amount or number of the shares or interests is not specified thereby, and
 
-(b) every such provision or resolution shall be void. (4) A CLG shall not purport to issue shares.
+(b) every such provision or resolution shall be void.
+
+(4) A CLG shall not purport to issue shares.
 
 (5) If a CLG contravenes subsection (4), the CLG and any officer of it who is in default shall be guilty of a category 3 offence.

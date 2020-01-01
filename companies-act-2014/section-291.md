@@ -34,7 +34,7 @@ Companies Act entity financial statements
 
 (d) where the company is being wound up, the information required by section 595.
 
-(4) Where compliance with Schedule 3 or 3A, as the case may be,, applicable accounting standards and the other provisions of this Act as to the matters to be included in entity financial statements (or in notes to those financial statements) would not be sufficient to give a true and fair view of the matters referred to in subsection (2), the necessary additional information shall be given in the entity financial statements or a note to them.
+(4) Where compliance with Schedule 3 or 3A, as the case may be, applicable accounting standards and the other provisions of this Act as to the matters to be included in entity financial statements (or in notes to those financial statements) would not be sufficient to give a true and fair view of the matters referred to in subsection (2), the necessary additional information shall be given in the entity financial statements or a note to them.
 
 (5) If in special circumstances compliance with any of the provisions of this Act (even if additional information were provided under subsection (4)) is inconsistent with the requirement to give a true and fair view of the matters referred to in subsection (2), the directors of the company shall depart from that provision to the extent necessary to give a true and fair view.
 

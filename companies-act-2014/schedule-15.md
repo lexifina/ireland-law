@@ -22,9 +22,7 @@ Session and Chapter or Short title Extent of repeal Number and Year
 
 8 & 9 Vic, c 37 Bankers' (Ireland) Act 1845 So much of the Act as is unrepealed other than sections 25, 26 and 27
 
-23 & 24 Vic, c 31 Bank of Ireland Act 1860 The whole Act
-
-27 & 28 Vic, c 78 Bank Notes (Ireland) Act The whole Act 1864
+23 & 24 Vic, c 31 Bank of Ireland Act 1860 The whole Act 27 & 28 Vic, c 78 Bank Notes (Ireland) Act The whole Act 1864
 
 35 & 36 Vic, c 5 Bank of Ireland Charter The whole Act so far as unre- Amendment Act 1872 pealed
 

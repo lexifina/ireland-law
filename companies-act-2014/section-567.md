@@ -40,7 +40,9 @@ Section Subject
 
 Section 286(3) Particular case of category 1 offence arising where adequate accounting records not kept, etc.
 
-Section 599 Related company may be required to contribute to debts of company being wound up Section 608 Power of court to order return of assets which have been improperly transferred
+Section 599 Related company may be required to contribute to debts of company being wound up
+
+Section 608 Power of court to order return of assets which have been improperly transferred
 
 Section 609 Personal liability of officers of company where adequate accounting records not kept
 

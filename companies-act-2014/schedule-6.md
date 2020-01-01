@@ -130,7 +130,9 @@ Provisions as to status of companies restored to register, having been struck of
 
 (ii) Chapter 2 of Part 12; or
 
-(iii) section 30 of the Multi-Unit Developments Act 2011, and, before the date it is so restored, there has elapsed a length of time that, in the Minister’s opinion, represents a substantial portion (or greater) of the transition period (within the meaning of Chapter 6 of Part 2). Application of paragraph 12 to companies whose dissolution is declared void
+(iii) section 30 of the Multi-Unit Developments Act 2011, and, before the date it is so restored, there has elapsed a length of time that, in the Minister’s opinion, represents a substantial portion (or greater) of the transition period (within the meaning of Chapter 6 of Part 2).
+
+Application of paragraph 12 to companies whose dissolution is declared void
 
 13. Paragraph 12 shall, with any necessary modifications, apply to a company the dissolution of which is declared under section 708 to have been void as it applies to a company restored to the register under an enactment referred to in that paragraph (but subject to any order the court may make under section 708 in making such a declaration).
 

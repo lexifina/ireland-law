@@ -8,9 +8,7 @@ Types of voluntary winding up — general statement as to position under Act
 
 (ii) the court makes an order under section 582(2) in relation to the company; or
 
-(iii) a creditors’ meeting is held in accordance with section 584 in relation to the company,
-
-(each of which is referred to in paragraph (b) as a “bar to a members’ winding up”); or
+(iii) a creditors’ meeting is held in accordance with section 584 in relation to the company, (each of which is referred to in paragraph (b) as a “bar to a members’ winding up”); or
 
 (b) shall, where there is a bar to a members’ winding up or the procedure under section 586(2) is employed, be a creditors’ voluntary winding up.
 

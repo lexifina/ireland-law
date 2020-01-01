@@ -54,9 +54,7 @@ Certain requirements concerning notice of meeting to consider special resolution
 
 (b) each of the requirements under subparagraph (1) with respect to the notice of a meeting shall apply to the notice in writing under clause (a); and
 
-(c) references in subparagraph (1) to the notice of a meeting shall be read as references to the notice in writing under clause (a), and references elsewhere in this Schedule to the notice of a meeting shall be read accordingly.
-
-Notice to creditors of meeting to consider special resolution under paragraph
+(c) references in subparagraph (1) to the notice of a meeting shall be read as references to the notice in writing under clause (a), and references elsewhere in this Schedule to the notice of a meeting shall be read accordingly. Notice to creditors of meeting to consider special resolution under paragraph
 
 1(1)
 

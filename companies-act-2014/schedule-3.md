@@ -262,9 +262,7 @@ IV. Other reserves
 
 4. Other reserves including the fair value reserve (specified as necessary)
 
-V. Profit or loss brought forward (10)
-
-VI. Profit or loss for the financial year (10).
+V. Profit or loss brought forward (10) VI. Profit or loss for the financial year (10).
 
 Format 2
 
@@ -346,7 +344,9 @@ IV. Cash at bank and in hand
 
 CAPITAL, RESERVES AND LIABILITIES
 
-A. Capital and reserves I. Called-up share capital presented as equity (8)
+A. Capital and reserves
+
+I. Called-up share capital presented as equity (8)
 
 II. Share premium account
 
@@ -440,9 +440,7 @@ The amount for creditors in respect of taxation and social insurance shall be sh
 
 (7) Deferred income
 
-(Format 1, items C. 11 and F. 11 and Format 2, items C.11)
-
-The amount in respect of Government grants, that is to say, grants made by or on behalf of the Government, included in this item shall be shown separately in a note to the financial statements unless it is shown separately in the balance sheet.
+(Format 1, items C. 11 and F. 11 and Format 2, items C.11) The amount in respect of Government grants, that is to say, grants made by or on behalf of the Government, included in this item shall be shown separately in a note to the financial statements unless it is shown separately in the balance sheet.
 
 (8) Called-up share capital
 
@@ -452,7 +450,9 @@ In accordance with the accounting principle in paragraph 17, called-up share cap
 
 (9) Creditors
 
-(Format 2, items C. 1 to 11) Amounts falling due within one year and after one year shall be shown separately for each of these items and their aggregate shall be shown separately for all of these items.
+(Format 2, items C. 1 to 11)
+
+Amounts falling due within one year and after one year shall be shown separately for each of these items and their aggregate shall be shown separately for all of these items.
 
 (10) Profit and loss account
 
@@ -568,7 +568,9 @@ The amount payable to group undertakings shall be shown separately.
 
 (14) Profit or loss for the financial year
 
-(Format 1, item 16; Format 2, item 18) The appropriation of profit required by paragraph 53 may be given at the foot of the profit and loss account or in a note to the financial statements.
+(Format 1, item 16; Format 2, item 18)
+
+The appropriation of profit required by paragraph 53 may be given at the foot of the profit and loss account or in a note to the financial statements.
 
 (15) Format 1
 
@@ -1046,9 +1048,7 @@ Guarantees and other financial commitments
 
 Information supplementing the profit and loss account
 
-59. Paragraphs 60 to 63 require information which either supplements the information given with respect to any particular items shown in the profit and loss account or otherwise provides particulars of income or expenditure of the company or of circumstances affecting the items shown in the profit and loss account.
-
-Separate statement of certain items of income and expenditure
+59. Paragraphs 60 to 63 require information which either supplements the information given with respect to any particular items shown in the profit and loss account or otherwise provides particulars of income or expenditure of the company or of circumstances affecting the items shown in the profit and loss account. Separate statement of certain items of income and expenditure
 
 60. Each of the following amounts shall be stated—
 
@@ -1610,9 +1610,7 @@ IV. Other reserves
 
 V. Profit or loss brought forward (8)
 
-VI. Profit or loss for the financial year (8)
-
-B. Provisions for liabilities
+VI. Profit or loss for the financial year (8) B. Provisions for liabilities
 
 1. Retirement benefit and similar obligations
 
@@ -1670,9 +1668,7 @@ The amount falling due after more than one year shall be shown separately for ea
 
 (4) Debenture loans
 
-(Format 1, item C. 1 and F. 1 and Format 2, item C.1)
-
-The amount of any convertible loans shall be shown separately.
+(Format 1, item C. 1 and F. 1 and Format 2, item C.1) The amount of any convertible loans shall be shown separately.
 
 (5) Payments received on account
 
@@ -1688,7 +1684,9 @@ In accordance with the accounting principle in paragraph 17, called-up share cap
 
 (7) Creditors
 
-(Format 2, items C. 1 to 11) Amounts falling due within one year and after one year shall be shown separately for each of these items and their aggregate shall be shown separately for all of these items.
+(Format 2, items C. 1 to 11)
+
+Amounts falling due within one year and after one year shall be shown separately for each of these items and their aggregate shall be shown separately for all of these items.
 
 (8) Profit and loss account
 
@@ -2142,7 +2140,9 @@ Information about fair valuation of assets and liabilities
 
 (c) for each class of derivative financial instrument, the extent and nature of the instruments including significant terms and conditions that may affect the amount, timing and certainty of future cash flows, and
 
-(d) a table showing movements in the fair value reserve during the financial year. Information where investment property or living animals and plants included at fair value
+(d) a table showing movements in the fair value reserve during the financial year.
+
+Information where investment property or living animals and plants included at fair value
 
 47. (1) This paragraph applies where the amounts to be included in a company’s financial statements in respect of investment property or living animals and plants have been determined in accordance with paragraph 40.
 
@@ -2412,7 +2412,9 @@ K. Capital and reserves
 
 Format 2
 
-ASSETS A. Called up share capital not paid
+ASSETS
+
+A. Called up share capital not paid
 
 B. Fixed assets
 

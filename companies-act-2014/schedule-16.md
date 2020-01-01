@@ -40,11 +40,11 @@ ARTICLES OF ASSOCIATION
 
 4. Other regulations (if any).
 
-We, the several persons whose names and addresses are subscribed, wish to be formed into a company in pursuance of this constitution, and we agree to take the number of shares in the capital of the company set opposite our respective names. As appropriate: signature in writing of the above subscribers, attested by witness as provided for below; or authentication in the manner referred to in section 888.
+We, the several persons whose names and addresses are subscribed, wish to be formed into a company in pursuance of this constitution, and we agree to take the number of shares in the capital of the company set opposite our respective names.
 
-Dated the ____ day of _____________ 20__
+As appropriate: signature in writing of the above subscribers, attested by witness as provided for below; or authentication in the manner referred to in section 888.
 
-Witness to the above Signatures:
+Dated the ____ day of _____________ 20__ Witness to the above Signatures:
 
 Name: ____________________________________________________________________________
 

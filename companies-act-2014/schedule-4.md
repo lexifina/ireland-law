@@ -130,7 +130,9 @@ Accounting for an acquisition
 
 (5) For the foregoing purpose—
 
-'acquisition cost' means the amount of any cash consideration and the fair value of any other consideration, together with such amounts (if any) in respect of fees and other expenses of the acquisition as the holding company may determine to have been incurred in relation to the acquisition; 'adjusted capital and reserves of the undertaking acquired' means its capital and reserves at the date of the acquisition after adjusting the identifiable assets and liabilities of the undertaking to fair values as at that date.
+'acquisition cost' means the amount of any cash consideration and the fair value of any other consideration, together with such amounts (if any) in respect of fees and other expenses of the acquisition as the holding company may determine to have been incurred in relation to the acquisition;
+
+'adjusted capital and reserves of the undertaking acquired' means its capital and reserves at the date of the acquisition after adjusting the identifiable assets and liabilities of the undertaking to fair values as at that date.
 
 (6) The resulting amount—
 
@@ -396,7 +398,9 @@ Accounting for an acquisition
 
 (4) There shall be calculated the difference between the acquisition cost of the interest in the shares of the acquired undertaking incurred by the undertakings included in the group financial statements, and the interest of the undertakings included in the group financial statements in the adjusted capital and reserves of the undertaking acquired.
 
-(5) For the foregoing purpose— 'acquisition cost' means the amount of any cash consideration and the fair value of any other consideration, together with such amounts (if any) in respect of fees and other expenses of the acquisition as the holding company may determine to have been incurred in relation to the acquisition;
+(5) For the foregoing purpose—
+
+'acquisition cost' means the amount of any cash consideration and the fair value of any other consideration, together with such amounts (if any) in respect of fees and other expenses of the acquisition as the holding company may determine to have been incurred in relation to the acquisition;
 
 'adjusted capital and reserves of the undertaking acquired' means its capital and reserves at the date of the acquisition after adjusting the identifiable assets and liabilities of the undertaking to fair values as at that date.
 
