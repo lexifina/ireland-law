@@ -22,7 +22,7 @@ Duty of Agency.
 
 (b) For the purposes of the calculations referred to in paragraph (a), biofuels and additives shall be taken into account only when they have been blended with the petroleum products concerned.
 
-(c) The average daily net imports and average daily inland consumption referred to in subparagraphs (i) and (ii) of paragraph (a) shall be determined, in relation to the period from 1 January to 31 March of each calendar year, on the basis of the quantities imported into, or consumed in, the State during the last year but one before the calendar year in question.
+(c) The average daily net imports and average daily inland consumption referred to in subparagraphs (i) and (ii) of paragraph (a) shall be determined, in relation to the period from 1 January to 30 June of each calendar year, on the basis of the quantities imported into, or consumed in, the State during the last year but one before the calendar year in question.
 
 (d) The level of Irish emergency stocks shall be calculated in accordance with Schedule 3.
 
@@ -40,7 +40,7 @@ Duty of Agency.
 
 (III) reported on monthly in accordance with the National Oil Reserves Agency Act 2007 (Returns and Biofuels Levy) Regulations 2010 (S.I. No. 356 of 2010).
 
-(1C)(a) At least one-third of Irish emergency stocks shall be in the form of one or more of the following product categories as defined in section 4 of Annex B to Regulation (EC) No. 1099/2008:
+(1C)(a) At least one-third of Irish emergency stocks shall be in the form of one or more of the following product categories as defined in Chapter 3.4 of Annex A to Regulation (EC) No. 1099/2008:
 
 (i) Ethane
 

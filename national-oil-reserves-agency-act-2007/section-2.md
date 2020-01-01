@@ -30,7 +30,7 @@ Interpretation.
 
 “chief executive” means the chief executive of the Agency;
 
-‘Council Directive’ means Council Directive 2009/119/EC of 14 September 2009;
+‘Council Directive’ means Council Directive 2009/119/EC of 14 September 2009, as amended by Commission Implementing Directive (EU) 2018/1581 of 19 October 2018;
 
 “designated subsidiary” means a subsidiary in respect of which an order is in operation under section 16(12);
 
@@ -66,6 +66,8 @@ Interpretation.
 
 (c) oil consumers;
 
+1 OJ No. L 265, 9.10.2009, p.9 2 OJ No. L 263,22.10.2018, p. 57
+
 “oil” means crude oil, intermediate products and petroleum products;
 
 “oil company”, with respect to any month, means any person (other than the Agency) that, in the preceding calendar year—
@@ -84,6 +86,8 @@ Interpretation.
 
 1,000 or more tonnes of petroleum products exclusively for that person’s own consumption in the State and not for resale or for disposal to a third party;
 
+‘oil stocks’ means stocks of the energy products listed in Chapter 3.4 of Annex A to Regulation (EC) No. 1099/2008;
+
 “petroleum products” includes the following categories of products:
 
 (a) motor spirit and aviation fuel (that is to say, jet fuel of the gasoline type and aviation spirit);
@@ -96,7 +100,7 @@ Interpretation.
 
 ‘reference year’ means the calendar year of the consumption or of the net import data used to calculate either the stocks to be held, or the stocks actually held, at any given time;
 
-‘Regulation (EC) No. 1099/2008’ means Regulation (EC) No. 1099/2008 of the European Parliament and of the Council of 22 October 2008 on Energy Statistics;
+‘Regulation (EC) No. 1099/2008’ means Regulation (EC) No. 1099/2008 of the European Parliament and of the Council of 22 October 2008, as amended by Commission Regulation (EU) No. 147/2013 of 13 February 2013, Commission Regulation (EU) No. 431/2014 of 24 April 2014 and Commission Regulation (EU) 2017/2010 of 9 November 2017;
 
 “regulations relating to returns” means regulations under section 59;
 
@@ -109,6 +113,8 @@ Interpretation.
 (b) any provision of the treaties governing the European Communities,
 
 (c) any act adopted by the institutions of those Communities,
+
+3 OJ No. L 304, 14.11.2008, p 1 4 OJ No. L 50, 22.02.2013, p. 1 5 OJ No. L 131, 1.05.2014, p. 1 6 OJ No. L 292, 10.11.2017, p. 3
 
 (d) the IEP Agreement, and
 
