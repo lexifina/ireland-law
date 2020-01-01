@@ -16,9 +16,11 @@ Statement of intra-Community supplies of goods.
 
 (a) of the person’s intra-Community supplies of goods,
 
-(b) prepared in accordance with, and containing such particulars as may be specified in, regulations (if any).
+(b) prepared in accordance with, and containing such particulars as may be specified in, regulations (if any), and
 
-(3)(a) Subject to paragraph (b), in the case of intra-Community supplies of goods made during a calendar month, the deadline referred to in subsection (2) is the 23rd day of the month immediately following the end of that calendar month.
+(c) including information about the value-added tax identification number of the taxable person to whom goods are intended to be supplied, where those goods are dispatched or transported by the accountable person under call-off stock arrangements referred to in Article 17a of the VAT Directive, and any subsequent change to such information.
+
+(3)(a) Subject to paragraph (b), in the case of intra-Community supplies of goods , or the transfer of goods under call-off stock arrangements in accordance with the conditions set out in Article 17a of the VAT Directive, made during a calendar month, the deadline referred to in subsection (2) is the 23rd day of the month immediately following the end of that calendar month.
 
 (b) This subsection does not apply to intra-Community supplies of goods—
 

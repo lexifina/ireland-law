@@ -15,3 +15,5 @@ Supplementary provisions on records.
 (b) A person responsible for organising a qualifying conference within the meaning of section 60(1) and to which section 60(2)(a)(i) relates shall keep full and true records of each such conference organised by the person.
 
 (3) Every person who trades in investment gold (within the meaning of section 90) shall, in accordance with regulations, keep full and true records of that person’s transactions in investment gold.
+
+(4) An accountable person who transfers goods under call-off stock arrangements referred to in Article 17a of the VAT Directive shall keep full and true records for the purposes of verification by the Revenue Commissioners of the correct application of the said Article 17a.
