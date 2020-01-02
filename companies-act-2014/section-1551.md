@@ -38,7 +38,7 @@ Audit committees for public-interest entities
 
 (b) any public-interest entity which is a UCITS (within the meaning of the UCITS Regulations as defined in section 1385), or an alternative investment fund (within the meaning of the European Union (Alternative Investment Fund Managers) Regulations 2013 (S.I. No. 257 of 2013)),
 
-(c) subject to subsection (12), any public-interest entity the sole business of which is to act as an issuer of asset backed securities as defined in point 5 of Article 2 of the Prospectus Regulation (within the meaning of section 1348), or
+(c) subject to subsection (12), any public-interest entity the sole business of which is to act as an issuer of asset backed securities as defined in point 5 of Article 2 of Commission Regulation (EC) No. 809/2004 of 29 April 2004, or
 
 (d) any credit institution within the meaning of point 1 of Article 3(1) of Directive 2013/36/EU of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC whose shares are not admitted to trading on a regulated market of any Member State and which has, in a continuous or repeated manner, issued only debt securities admitted to trading on a regulated market, provided that the total nominal amount of all such debt securities remains below €100,000,000 and that it has not published a prospectus under the 2003 Prospectus Directive.
 

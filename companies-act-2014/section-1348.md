@@ -6,43 +6,53 @@ Interpretation (Chapter 1)
 
 1348. (1) In this Chapter—
 
-“2003 Prospectus Directive” means Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003, including that Directive as it stands amended for the time being;
+...
 
 “body corporate” includes a company;
 
-“EU prospectus law” means—
+‘delegated act’ means a delegated act, for the time being in force, adopted by the Commission of the European Union in accordance with Article 44 of the Prospectus Regulation;
 
-(a) the measures adopted for the time being by a Member State (including the State) or an EEA state, to implement the 2003 Prospectus Directive;
+‘Domestic Regulations’ means the law of the State (other than, save where the context otherwise admits, this Chapter) giving further effect to the Prospectus Regulation;
 
-(b) any measures directly applicable in consequence of the 2003 Prospectus Directive and, without prejudice to the generality of this paragraph, includes the Prospectus Regulation; and
+‘EU prospectus law’ means—
 
-(c) any supplementary and consequential measures adopted for the time being by a Member State (including the State) or an EEA state in respect of the Prospectus Regulation;
+(a) the Prospectus Regulation, and
 
-“expert”, save where a different construction in respect of that expression applies for the purposes of this Chapter by virtue of Irish prospectus law, includes engineer, valuer, accountant and any other individual or body (whether incorporated or unincorporated) the profession of whom, or the profession of members, officers or employees of which, gives authority to a statement made by the individual or body;
+(b) the delegated acts;
 
-“Irish prospectus law” means—
+“expert” ... includes engineer, valuer, accountant and any other individual or body (whether incorporated or unincorporated) the profession of whom, or the profession of members, officers or employees of which, gives authority to a statement made by the individual or body;
 
-(a) the measures adopted for the time being by the State to implement the 2003 Prospectus Directive (whether an Act of the Oireachtas, regulations under section 3 of the European Communities Act 1972, regulations under section 1354 or any other enactment (other than, save where the context otherwise admits, this Chapter);
+‘Irish prospectus law’ means—
 
-(b) any measures directly applicable in the State in consequence of the 2003 Prospectus Directive and, without prejudice to the generality of this paragraph, includes the Prospectus Regulation; and
+(a) the Domestic Regulations, and
 
-(c) any supplementary and consequential measures adopted for the time being by the State in respect of the Prospectus Regulation;
+(b) the law of the State giving effect or further effect to the delegated acts;
 
 “issuer” means a body corporate or other legal entity which issues or proposes to issue securities;
 
-“local offer” means an offer of securities to the public in the State where—
+‘local offer’ means an offer of securities to the public in the State where—
 
-(a) the offer expressly limits the amount of the total consideration for the offer to less than €5,000,000 (and the means by which that limit shall be calculated, in particular in the case of a series of such offers of securities, shall be the same as that provided for by regulations under section 1354 in relation to analogous limits specified by those regulations for any purpose);
+(a) the offer expressly limits the amount of the total consideration for the offer to more than €100,000 and less than €8,000,000 (and the means by which that limit shall be calculated, in particular in the case of a series of such offers of securities, shall be the same as that provided for by the Domestic Regulations in relation to analogous limits specified by the Domestic Regulations for any purpose),
 
-(b) the securities are other than those referred to in any of paragraphs (a) to (g) or paragraph (i) or (j) of Article 1(2) of the 2003 Prospectus Directive; and
+(b) the securities are other than those referred to in any of—
 
-(c) the offer is not of a kind described in Article 3(2) of the 2003 Prospectus Directive;
+(i) points (a) to (f) of Article 1(2),
+
+(ii) Article 1(4)(j), or
+
+(iii) point (i) of the first subparagraph of Article 1(5), of the Prospectus Regulation, and
+
+(c) the offer is not of a kind described in any of—
+
+(i) points (a) to (d) of Article 1(4), or
+
+(ii) Article 5(1), of the Prospectus Regulation;
 
 “Minister” means the Minister for Finance;
 
-“offer of securities to the public” has the same meaning as it has in Irish prospectus law;
+...
 
-“offering document” means a document prepared for a local offer which document, if prepared in connection with an offer to which the 2003 Prospectus Directive applies, would be a prospectus;
+“offering document” means a document prepared for a local offer which document, if prepared in connection with an offer to which the Prospectus Regulation, would be a prospectus;
 
 “offeror” means a body corporate or other legal entity or an individual which or who offers securities to the public;
 
@@ -50,15 +60,11 @@ Interpretation (Chapter 1)
 
 “prospectus” means a document or documents in such form and containing such information as may be required by or under this Chapter or EU prospectus law, howsoever the document or documents are constituted, but does not include any advertisements in newspapers or journals derived from the foregoing;
 
-“Prospectus Regulation” means Commission Regulation (EC) No. 809/2004 of 29 April 2004, implementing Directive 2003/71/EC of the European Parliament and of the Council as regards information contained in prospectuses as well as the format, incorporation by reference and publication of such prospectuses and dissemination of advertisements;
+‘Prospectus Regulation’ means Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC;
 
-“securities” has the same meaning as it has in Irish prospectus law, and includes shares and debentures of a company.
+“securities” has the same meaning as it has in the Prospectus Regulation, and includes shares and debentures of a company.
 
-(2) A word or expression that is used in this Chapter and is also used in the 2003 Prospectus Directive shall have in this Chapter the same meaning as it has in that Directive, unless—
-
-(a) the contrary intention appears, or
-
-(b) Irish prospectus law provides otherwise.
+(2) A word or expression that is used in this Chapter and is also used in the Prospectus Regulation shall have in this Chapter the same meaning as it has in that Regulation, unless the contrary intention appears.
 
 (3) For the purposes of this Chapter—
 

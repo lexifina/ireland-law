@@ -1,12 +1,12 @@
 Exceptions and exemptions
 
-1350. (1) In respect of a person specified in any of paragraphs (i) to (vi) of subsection (1) of section 1349, such a person shall not be liable under that section solely on the basis of a summary of a prospectus or the specific summary of an EU Growth Prospectus (including a translation of either such summary), unless—
+1350. (1) A person shall not be liable under section 1349 solely on the basis of a summary of a prospectus or the specific summary of an EU Growth Prospectus (including a translation of either such summary), unless—
 
 (a) it is misleading, inaccurate or inconsistent when read together with other parts of the prospectus, or
 
 (b) it does not provide, when read together with other parts of the prospectus, key information in order to aid investors when determining whether to invest in the securities concerned.
 
-(1A) In respect of a person specified in paragraph (vii) or (viii) of subsection (1) of section 1349, such a person shall not be liable under that section solely on the basis of a summary of a prospectus, including any translation thereof, unless it is misleading, inaccurate or inconsistent when read together with other parts of the prospectus.
+(1A) ...
 
 (2) Subject to subsection (4), a person shall not be liable under section 1349 if he or she proves—
 

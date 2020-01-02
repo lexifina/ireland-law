@@ -10,7 +10,7 @@ Restriction of liability where non-equity securities solely involved
 
 (I) the prospectus expressly provides otherwise; or
 
-(II) that other such person is convicted on indictment of an offence created by Irish prospectus law or an offence under section 1357 in respect of the issue of that prospectus;
+(II) that other such person is convicted on indictment of an offence created by the Domestic Regulations or an offence under section 1357 in respect of the issue of that prospectus;
 
 (b) neither section 223(1) nor 226(1) shall apply to the directors or secretary of the issuer to the extent that such application would thereby impose a liability under section 1349 on such directors or secretary; and
 
