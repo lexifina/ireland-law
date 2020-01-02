@@ -17,5 +17,3 @@ Winding up of unregistered companies
 (5) A petition for winding up a trustee savings bank licensed under the Trustee Savings Banks Act 1989 may be presented by the Minister for Finance as well as by any person authorised under the other provisions of this Act to present a petition for winding up a company.
 
 (6) Where a company incorporated outside the State which has been carrying on business in the State ceases to carry on business in the State it may be wound up as an unregistered company under this Part notwithstanding that it has been dissolved or otherwise ceased to exist as a company under or by virtue of the laws of the country under which it was incorporated.
-
-2 OJ No. L 173, 12.06.2014, p. 190. 1 OJ No. L 345, 27.12.2017, p. 96.
