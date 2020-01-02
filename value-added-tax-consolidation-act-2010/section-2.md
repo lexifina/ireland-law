@@ -52,7 +52,7 @@ Interpretation — general.
 
 “collectors’ items” has the meaning assigned to it by section 87(1);
 
-“Community” has the same meaning as it has in Articles 5 to 8 of the VAT Directive, and cognate references shall be construed accordingly;
+“Community” , subject to subsection (4A), has the same meaning as it has in Articles 5 to 8 of the VAT Directive, and cognate references shall be construed accordingly;
 
 “completed”, in respect of immovable goods, has the meaning assigned to it by section 94(1);
 
@@ -122,7 +122,7 @@ Interpretation — general.
 
 “hire”, in relation to movable goods, includes a letting on any terms including a leasing;
 
-“immovable goods” means land;
+‘immovable goods’ has the same meaning as ‘immovable property’ has in Article 13b (inserted by Council Implementing Regulation 1042/2013 of 7 October 2013 ) of Council Implementing Regulation 282/2011/EU of 15 March 2011;
 
 “importation of goods” means the importation of goods from outside the Community into the State—
 
@@ -284,6 +284,16 @@ Interpretation — general.
 
 (3) For the purposes of this Act, the provision of electricity, gas and any form of power, heat, refrigeration or ventilation shall be deemed to be a supply of goods and not a supply of services.
 
-(4) In this Act, a reference to the territory of a Member State has the same meaning as it has in Articles 5 to 8 of the VAT Directive, and references to Member States and cognate references shall be construed accordingly.
+(4) In this Act, a reference to the territory of a Member State has the same meaning as it has in Articles 5 to 8 of the VAT Directive, and , subject to subsection (4A), references to Member States and cognate references shall be construed accordingly.
+
+(4A) In this Act, each reference to—
+
+(a) Community, and
+
+(b) Member State, shall apply as if the reference included a reference to Northern Ireland, save—
+
+(i) where the reference occurs in a provision specified in Part 1 of Schedule 9, and
+
+(ii) in the case of a provision specified in Part 2 of Schedule 9, in so far as the provision applies to services.
 
 (5) References in any other enactment to the “Value-Added Tax Acts” mean this Act and every enactment which is to be read together with this Act.
