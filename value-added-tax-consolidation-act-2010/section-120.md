@@ -34,13 +34,43 @@ Regulations.
 
 (d) the manner in which a determination may be made for the purposes of section 51.
 
-(7) As regards Part 7, regulations may provide for—
+(7) As regards Part 7, regulations may ...—
 
-(a) the repayment, in accordance with section 54(2), of tax chargeable on the importation of goods,
+(a) provide for the repayment, in accordance with section 54(2), of tax chargeable on the importation of goods,
 
-(b) the enabling of goods imported by registered persons or by such classes of registered persons as may be specified in the regulations for the purposes of a business carried on by them to be delivered or removed, subject to such conditions or restrictions as may be specified in the regulations or as the Revenue Commissioners may impose, without payment of the tax chargeable on the importation, and
+(aa) as respects the accounting by an accountable person for tax by the means referred to in section 53A(1) —
 
-(c) the tax to be accounted for by the persons or classes of persons referred to in paragraph (b) in the return, made by them under section 76 or 77, in respect of the taxable period during which the goods are so delivered or removed.
+(i) specify requirements to be complied with by an accountable person, and
+
+(ii) impose conditions or restrictions that must be satisfied or observed in respect of all steps leading to the accounting for tax by the means so referred to (including conditions or restrictions the purpose of which is to secure that the necessary capacity and capability, on an on-going basis, exists on the part of the accountable person in order for him or her to account for tax by those means), and regulations under this paragraph may include provision for the furnishing to the Revenue Commissioners of documentation (including with respect to financial transactions entered into by the accountable person with other persons and accounts or facilities held by the accountable person with financial institutions) by the accountable person and provision the inclusion otherwise of which appears to the Revenue Commissioners to be requisite for the protection of the revenue,
+
+(ab) as respects an application by a person for authorisation in accordance with subsection (2) of section 56, specify the particulars to be included in the application form referred to in that subsection by the person making the application, including, without prejudice to the generality of the foregoing—
+
+(i) the following particulars:
+
+(I) confirmation that full and true records are being kept by the person in accordance with section 84;
+
+(II) confirmation that the person is complying with the provisions of—
+
+(A) this Act,
+
+(B) the Tax Acts (within the meaning of section 1 of the Taxes Consolidation Act 1997),
+
+(C) the Capital Gains Tax Acts (within the meaning of section 1 of the Taxes Consolidation Act 1997),
+
+(D) the statutes relating to the duties of excise and to the management of those duties,
+
+(E) the Customs Act 2015 , and
+
+(F) any instrument made under any of the enactments referred to in subclauses (A) to (E);
+
+(III) a declaration that the person has not been convicted of any offence under any of the enactments or instruments referred to in clause (II), and
+
+(ii) the form and manner in which the particulars shall be provided, by the person, in the application form,
+
+(b) provide for the enabling of goods imported by registered persons or by such classes of registered persons as may be specified in the regulations for the purposes of a business carried on by them to be delivered or removed, subject to such conditions or restrictions as may be specified in the regulations or as the Revenue Commissioners may impose, without payment of the tax chargeable on the importation, and
+
+(c) provide for the tax to be accounted for by the persons or classes of persons referred to in paragraph (b) in the return, made by them under section 76 or 77, in respect of the taxable period during which the goods are so delivered or removed.
 
 (8) As regards Part 8, regulations may provide for—
 
@@ -188,7 +218,11 @@ Regulations.
 
 (15) As regards Schedule 3 or 5, regulations may provide for—
 
-(a) the circumstances, terms and conditions under which a letting of immovable goods constitutes a letting in the short-term guest sector or holiday sector, or under which accommodation is or is not holiday accommodation (within the meaning of paragraph 11 of Schedule 3),
+(a) the circumstances, terms and conditions under which (for the purposes of paragraph 11 of Schedule 3)—
+
+(i) a letting of immovable goods constitutes a letting in the guest sector or holiday sector, or
+
+(ii) accommodation constitutes guest accommodation or holiday accommodation,
 
 (b) the particulars to be furnished in relation to antiques as specified in paragraph 24 of Schedule 3 or paragraph 3 of Schedule 5.
 
@@ -198,7 +232,7 @@ Regulations.
 
 (a) for the purposes of section 53(3), 57 or 104(4) or (5),
 
-(b) for the purposes of subsection (7)(b) and (c), or
+(b) for the purposes of subsection (7)(aa), (b) and (c), or
 
 (c) ...
 
