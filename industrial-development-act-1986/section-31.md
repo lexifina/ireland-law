@@ -15,3 +15,5 @@ Research grants.
 (a) €7,500,000; or
 
 (b) €7,500,000 in excess of the aggregate amount of such expenditure for which the prior permission of the Government has previously been obtained.
+
+(5) This section shall not apply to Enterprise Ireland.
