@@ -34,6 +34,6 @@ No. 22 of 1991 Trade and Marketing Promotion Act, 1991 The whole Act
 
 No. 30 of 1991 Industrial Development (Amendment) Act, The whole Act 1991
 
-No. 14 of 1994 Trade and Marketing Promotion (Amend- The whole Act ment) Act, 1994
+No. 14 of 1994 Trade and Marketing Promotion The whole Act (Amendment) Act, 1994
 
 No. 19 of 1993 Industrial Development Act, 1993 Section 7

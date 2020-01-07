@@ -1,3 +1,3 @@
-Transfer of staff of Forfás to NSAI.
+Transfer of staff of Forfás to NSAI. (Repealed)
 
 50.—...

@@ -1,3 +1,3 @@
-Staff of Forfás seconded to Agency .
+Staff of Forfás seconded to Agency . (Repealed)
 
 19.—...

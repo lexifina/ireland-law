@@ -1,3 +1,3 @@
-Superannuation .
+Superannuation . (Repealed)
 
 20.—...

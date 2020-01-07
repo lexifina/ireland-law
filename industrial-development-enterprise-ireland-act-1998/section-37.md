@@ -1,3 +1,3 @@
-Staff of Forfás seconded to IDA .
+Staff of Forfás seconded to IDA . (Repealed)
 
 37.—...
