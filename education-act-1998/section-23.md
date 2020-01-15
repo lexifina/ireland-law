@@ -1,8 +1,8 @@
-F29[The Principal.
+F29[ The Principal.
 
 23.— (1) In addition to the functions conferred on a Principal by section 22, the Principal of a recognised school shall—
 
-(a) be responsible for the day-to-day management of the school, including guidance and direction of the teachers and other staff of the school, and be accountable to the board of the school for that management,
+(a) be responsible for the day to day management of the school, including guidance and direction of the teachers and other staff of the school and the implementation of the admission policy of the school, and be accountable to the board of the school for that management,
 
 (b) provide leadership to the teachers and other staff and the students of the school,
 
@@ -16,7 +16,7 @@ F29[The Principal.
 
 (a) such policies as may be determined from time to time by the board of the school, and
 
-(b) regulations made under section 33.
+(b) regulations made under this Act.
 
 (3) The Principal of a recognised school shall be entitled to be a member of any and every committee appointed by the board of the school.
 
