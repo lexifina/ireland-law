@@ -16,9 +16,11 @@ Agency guidelines.
 
 (g) the provisions of the European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 500 of 2015).
 
-(h) the provisions of the European Union (Unjustified Geo-blocking of Consumers) Regulations 2018 (S.I. No. 513 of 2018);
+(h) the provisions of the European Union (Unjustified Geo-blocking of Consumers) Regulations 2018 (S.I. No. 513 of 2018… 2018);
 
 (i) the provisions of Part 4A.
+
+(i) any contravention of the European Union (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020 (S.I. No. 14 of 2020).
 
 (2) Before issuing and publishing guidelines under this section, the Agency may prepare draft guidelines and consult with any person, as the Agency considers appropriate.
 

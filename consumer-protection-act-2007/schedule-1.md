@@ -126,4 +126,4 @@ S.I. No. 397 of European Communities (Marketing Standards for Olive Oil) Regulat
 
 S.I. No. 853 of European Communities (Distance Marketing of Consumer Financial Services) 2004 Regulations 2004
 
-S.I. No. 290 of European Communities (Co-operation between National Authorities Responsible 2006 for the Enforcement of Consumer Protection Laws) Regulations 2006
+... ...
