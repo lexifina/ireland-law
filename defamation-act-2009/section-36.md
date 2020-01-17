@@ -1,0 +1,3 @@
+Publication or utterance of blasphemous matter. (Repealed)
+
+36.— ...
