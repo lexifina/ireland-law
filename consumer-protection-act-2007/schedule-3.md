@@ -16,7 +16,7 @@ Prompt Payment of Accounts Schedule Substitute “National Consumer Agency” Ac
 
 Taxes Consolidation Act Schedule 13 Substitute the following for paragraph 1997 (No. 39 of 1997) 112 (inserted by section 14 of the Finance Act 2001):
 
-Electronic Commerce Act Section 15 Substitute “role of the National Consumer 2000 (No. 27 of 2000)
+Electronic Commerce Act Section 15 Substitute “role of the National Consumer 2000 (No. 27 of 2000) Short Title, Number and Provision affected Amendment Year (1) (2) (3)
 
 Competition Act 2002 (No. Schedule 1 (as amended by In column (1), substitute 14 of 2002) the Competition Act 2002 (Section 34(11)) (Director of Consumer Affairs) Order 2003 (S.I. No. 130 of 2003)
 
@@ -28,7 +28,7 @@ Official Languages Act 2003 First Schedule (a) in paragraph 1 of the Irish text�
 
 (ii) in subparagraph (2), insert “An
 
-(b) in paragraph 1 of the English text— Short Title, Number and Provision affected Amendment Year (1) (2) (3)
+(b) in paragraph 1 of the English text—
 
 (i) in subparagraph (1), delete “Office
 
@@ -44,7 +44,9 @@ Citation, Number and Year Provision affected Amendment (1) (2) (3)
 
 Air Quality Standards Schedule 14 Substitute the following for paragraph Regulations 2002 (S.I. No. (6): 271 of 2002)
 
-Genetically Modified Regulation 62(1) (a) Substitute the following for paragraph Organisms (Deliberate Release) Regulations 2003 (S.I. No. 500 of 2003) (b)
+Genetically Modified Regulation 62(1) (a) Substitute the following for paragraph Organisms (Deliberate Release) Regulations 2003 (S.I. No. 500 of 2003) Citation, Number and Year Provision affected Amendment (1) (2) (3)
+
+(b)
 
 Ozone in Ambient Air Schedule 10 Substitute the following for paragraph Regulations 2004 (S.I. No. 53 (6): of 2004)
 
