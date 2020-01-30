@@ -100,7 +100,9 @@ Disclosure of information.
 
 (c) Where a Disclosure Issue Notice is issued in respect of a company to which section 158 of the Companies Act 1963 applies (which relates to the directors’ report), the directors’ report shall comply with subsection (6B) of that section.
 
-(5) Subject to subsection (1A), the Bank may disclose confidential information—
+(5) Subject to subsection
+
+(1A), the Bank may disclose confidential information—
 
 (a) required for the purposes of criminal proceedings, or
 
@@ -430,6 +432,8 @@ Disclosure of information.
 
 (af) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017,
 
-(ag) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017;
+(ag) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017,
+
+(ah) Regulation (EU) 2017/2394 of the European Parliament and of the Council of 12 December 2017;
 
 ‘supervised entity’ means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
