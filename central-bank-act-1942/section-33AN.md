@@ -48,6 +48,8 @@ Interpretation (Part IIIC).
 
 (d) any obligation imposed on any person by this Part or imposed by the Regulatory Authority pursuant to a power exercised under this Part;
 
+‘prescribed contravention’ means, in respect of the European Union (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020 (S.I. No. 21 of 2020), a contravention of Regulation 4(2) of those Regulations;
+
 “Securitisation Regulation” means Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017;
 
 “SFT Regulation” means Regulation (EU) No 2015/2365 of the European Parliament and of the Council of 25 November 2015;
