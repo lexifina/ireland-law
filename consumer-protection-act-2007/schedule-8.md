@@ -6,6 +6,8 @@ Council Directive 73/23/EEC of 19 February 1973 on the harmonization of the laws
 
 Council Directive 88/378/EEC of 3 May 1988 on the approximation of the laws of the Member States concerning the safety of toys
 
-Council Directive 89/686/EEC of 21 December 1989 on the approximation of the laws of the Member States relating to personal protective equipment Council Directive 90/396/EEC of 29 June 1990 on the approximation of the laws of the Member States relating to appliances burning gaseous fuels
+Council Directive 89/686/EEC of 21 December 1989 on the approximation of the laws of the Member States relating to personal protective equipment
+
+Council Directive 90/396/EEC of 29 June 1990 on the approximation of the laws of the Member States relating to appliances burning gaseous fuels
 
 Directive 2001/95/EC of the European Parliament and of the Council of 3 December 2001 on the approximation of the laws of the Member States relating to general product safety.

@@ -28,9 +28,7 @@ S.I. No. 61 of 2009 European Communities (Labelling, Presentation and Advertisin
 
 S.I. No. 88 of 2009 European Communities (Plastics and other materials) (Contact with food) (Amendment) Regulations 2009
 
-S.I. No. 383 of 2009 European Communities (Payment Services) Regulations 2009
-
-S.I. No. 463 of 2009 European Communities (Plastics and other materials) (Contact with food) (Amendment) (No. 2) Regulations 2009
+S.I. No. 383 of 2009 European Communities (Payment Services) Regulations 2009 S.I. No. 463 of 2009 European Communities (Plastics and other materials) (Contact with food) (Amendment) (No. 2) Regulations 2009
 
 S.I. No. 1 of 2010 European Communities (Placing on the Market of Pyrotechnic Articles) Regulations 2010
 
@@ -42,7 +40,9 @@ S.I. No. 555 of 2010 European Communities (Court Orders for the Protection of Co
 
 S.I. No. 105 of 2011 European Communities (Plastics and other materials) (Contact with Foodstuffs) (Amendment) Regulations 2011
 
-S.I. No. 310 of 2011 European Communities (Machinery) (Amendment) Regulations 2011 S.I. No. 333 of 2011 European Communities (Electronic Communications Networks and Services) (Framework) Regulations 2011
+S.I. No. 310 of 2011 European Communities (Machinery) (Amendment) Regulations 2011
+
+S.I. No. 333 of 2011 European Communities (Electronic Communications Networks and Services) (Framework) Regulations 2011
 
 S.I. No. 337 of 2011 European Communities (Electronic Communications Networks and Services) (Universal Service and Users’ Rights) Regulations 2011
 

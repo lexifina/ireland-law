@@ -10,9 +10,9 @@ Amendment of Hallmarking Act 1981.
 
 Permissible
 
-6.— (1) Section 5 of this Act does not apply to a representation which is representa- permissible under this Act. tions in relation to
+6.— (1) Section 5 of this Act does not apply to a representation which is representations permissible under this Act. in relation to certain
 
-(2) A representation is permissible under this Act if it complies with the certain arti- following conditions: cles.
+(2) A representation is permissible under this Act if it complies with the following articles. conditions:
 
 (a) it is confined either expressly or by implication to the colour of the article;
 
