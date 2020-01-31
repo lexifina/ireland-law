@@ -1,0 +1,5 @@
+## PART 3 AMENDMENT OF INDUSTRIAL DEVELOPMENT ACTS 1986 TO 2014
+
+Definition (Part 3) (Repealed)
+
+5. ...
