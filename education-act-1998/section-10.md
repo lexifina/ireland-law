@@ -14,7 +14,7 @@ Recognition of schools.
 
 (e) the school complies, or in the case of a proposed school shall comply, with health, safety and building standards as are determined by law and any further such standards as are determined from time to time by the Minister, and
 
-(f) the patron agrees that the school shall operate in accordance with such regulations as may be made by the Minister from time to time under section 33 and with this Act and with any other terms and conditions as may reasonably be attached to recognition by the Minister.
+(f) the patron agrees that the school shall operate in accordance with this Act and such regulations as may be made by the Minister from time to time under this Act and with any other terms and conditions as may reasonably be attached to recognition by the Minister.
 
 (3) A school that, on the commencement of this section, is in receipt of funds provided by the Oireachtas in respect of—
 

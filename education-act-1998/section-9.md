@@ -18,7 +18,7 @@ Functions of a school.
 
 (h) in the case of schools located in a Gaeltacht area, contribute to the maintenance of Irish as the primary community language,
 
-(i) conduct its activities in compliance with any regulations made from time to time by the Minister under section 33,
+(i) conduct its activities in compliance with any regulations made from time to time by the Minister under under this Act,
 
 (j) ensure that the needs of personnel involved in management functions and staff development needs generally in the school are identified and provided for,
 
@@ -26,4 +26,4 @@ Functions of a school.
 
 (l) establish or maintain contacts with other schools and at other appropriate levels throughout the community served by the school, and
 
-(m) subject to this Act and in particular section 15 (2) (d), establish and maintain an admissions policy which provides for maximum accessibility to the school.
+(m) subject to this Act ..., establish and maintain an admissions policy which provides for maximum accessibility to the school.

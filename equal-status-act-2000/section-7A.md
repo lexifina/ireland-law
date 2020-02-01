@@ -32,7 +32,7 @@ Recognised primary schools.
 
 ‘Act of 1998’ means the Education Act 1998;
 
-...
+‘admission policy’ has the same meaning as it has in section 2 (amended by section 2 of the Education (Admission to Schools) Act 2018) of the Act of 1998;
 
 ‘applicant’ has the same meaning as it has in Part X (inserted by section 9 of the Education (Admission to Schools) Act 2018) of the Act of 1998;
 

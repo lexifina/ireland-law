@@ -14,7 +14,7 @@ Regulations.
 
 (f) the length of the school year, school week and school day;
 
-(g) admission of students to schools;
+(g) ...
 
 (h) access to schools by school attendance officers and other persons;
 
