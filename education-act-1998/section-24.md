@@ -1,4 +1,4 @@
-F31[Provisions relating to staff.
+F31[ Provisions relating to staff.
 
 24.— (1) Subject to this section, the board of a recognised school—
 
