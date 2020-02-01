@@ -24,4 +24,4 @@ Powers of inspectors.
 
 (5) (a) Any inspector may, if it appears to him that a sum is due from an employer to a worker (being a worker to whom an employment regulation order, which fixes remuneration, applies) on account of the payment to him of remuneration less than the statutory minimum remuneration, institute on behalf of and in the name of that worker civil proceedings for the recovery of that sum and in any such proceedings an order may be made for the payment of costs by the inspector as if he were a party to the proceedings.
 
-(b) The power given by paragraph (a) of this subsection for the recovery of sums due by an employer to a worker shall not be in derogation of any right of the worker to recover such sums in civil proceedings.
+(b) The power given by paragraph (a) of this subsection for the recovery of sums due by an employer to a worker shall not be in derogation of any right of the worker to recover such sums in civil proceedings. Provisions in relation to trade boards.
