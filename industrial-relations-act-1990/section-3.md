@@ -8,6 +8,18 @@ Interpretation.
 
 “the Commission” means the Labour Relations Commission established by section 24.
 
+‘Act of 2005’ means the Garda Síochána Act 2005;
+
+‘Garda Commissioner’ has the same meaning as it has in the Act of 2005;
+
+‘Garda Síochána’ means the police service referred to in section 6 of the Act of 2005;
+
+‘member’, in relation to the Garda Síochána, has the same meaning as it has in the Act of 2005, but does not include—
+
+(a) the Garda Commissioner, or
+
+(b) a reserve member within the meaning of the Act of 2005;
+
 (2) In this Act—
 
 (a) a reference to a Part or section is to a Part or section of this Act unless it is indicated that a reference to some other enactment is intended;
