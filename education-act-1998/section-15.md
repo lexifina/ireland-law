@@ -10,7 +10,7 @@ Functions of a board.
 
 (c) consult with and keep the patron informed of decisions and proposals of the board,
 
-(d) publish, in such manner as the board with the agreement of the patron considers appropriate, the policy of the school concerning admission to and participation in the school, including the policy of the school relating to the expulsion and suspension of students and admission to and participation by students with disabilities or who have other special educational needs, and ensure that as regards that policy principles of equality and the right of parents to send their children to a school of the parents’ choice are respected and such directions as may be made from time to time by the Minister, having regard to the characteristic spirit of the school and the constitutional rights of all persons concerned, are complied with,
+(d) Subject to this Act, publish the admission policy of the school, and ensure that as regards that policy principles of inclusion, equality and the right of parents to send their children to a school of the parents’ choice are respected and such directions as may be made from time to time by the Minister, having regard to the characteristic spirit of the school and the constitutional rights of all persons concerned, are complied with,
 
 (e) have regard to the principles and requirements of a democratic society and have respect and promote respect for the diversity of values, beliefs, traditions, languages and ways of life in society,
 

@@ -2,6 +2,8 @@ Interpretation.
 
 2.—(1) In this Act, except where the context otherwise requires—
 
+‘admission policy’ has the meaning assigned to it by section 62 (inserted by section 9 of the Education (Admission to Schools) Act 2018);
+
 “articles of management” means any instruments, relating to the operation and management of schools, as are in operation on the commencement of this Act and as shall be agreed from time to time by patrons of schools, national associations of parents and recognised trade unions and staff associations representing teachers;
 
 “board” means a board of management established under section 14;
