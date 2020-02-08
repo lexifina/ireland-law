@@ -22,7 +22,11 @@ Exempted development.
 
 (i) development consisting of the thinning, felling or replanting of trees, forests or woodlands or works ancillary to that development, but not including the replacement of broadleaf high forest by conifer species;
 
-(ia) development (other than where the development consists of provision of access to a public road) consisting of the construction, maintenance or improvement of a road (other than a public road) or works ancillary to such road development, where the road serves forests and woodlands;
+(ia) development (other than development consisting of the provision of access to a national road within the meaning of the Roads Act 1993) that consists of—
+
+(I) the construction, maintenance or improvement of a road (other than a public road) that serves a forest or woodland, or
+
+(II) works ancillary to such construction, maintenance or improvement;
 
 (j) development consisting of the use of any structure or other land within the curtilage of a house for any purpose incidental to the enjoyment of the house as such;
 
