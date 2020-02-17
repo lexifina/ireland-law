@@ -1,0 +1,5 @@
+Summary determination.
+
+5.—(1) If it appears to the registrar of the Court that a notice of an application for leave to appeal does not show any substantial ground of appeal or, in the case of an application under section 2, that the application does not disclose a prima facie case that a miscarriage of justice has occurred in relation to the conviction or that the sentence is excessive, he may, without calling for the report of the official stenographer, refer the application to the Court for summary determination; and where the case is so referred the Court may, if it considers that the application is frivolous or vexatious and can be determined without adjourning it for a full hearing, dismiss it summarily, without calling on anyone to attend the hearing or to appear on behalf of the prosecution.
+
+(2) The jurisdiction of the Court under subsection (1) may be exercised by a single judge of the Court and an appeal may be made to the Court by the convicted person against the summary determination of an application.
