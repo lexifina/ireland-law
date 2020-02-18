@@ -1,4 +1,4 @@
-F87[Charges for acute in-patient services.
+F89[ Charges for acute in-patient services.
 
 53C.— (1) Charges shall be made for acute in-patient services provided by or on behalf of the Health Service Executive to a person who is a member of a class of persons specified in regulations made under subsection (3) for the purpose of this section.
 
@@ -16,7 +16,7 @@ F87[Charges for acute in-patient services.
 
 (5) Where in regulations made pursuant to subsection (3)(b) the Minister specifies the maximum number of days in respect of which charges are to be imposed, that maximum period shall not be fewer than 7 days and not be greater than 15 days.
 
-(6) In this section ‘average daily cost of providing acute in-patient services to a patient’ means the amount most recently certified by the Director General of the Health Service Executive to the Minister as being the average daily cost of providing acute in-patient services to a patient determined by establishing the total cost of acute in-patient services over a period of 12 months provided by—
+(6) In this section ‘average daily cost of providing acute in-patient services to a patient’ means the amount most recently certified by the chief executive officer of the Health Service Executive to the Minister as being the average daily cost of providing acute in-patient services to a patient determined by establishing the total cost of acute in-patient services over a period of 12 months provided by—
 
 (a) the Health Service Executive under sections 52 and 55, and
 
