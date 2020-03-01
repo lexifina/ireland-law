@@ -14,7 +14,9 @@ Session and Chapter or Short Title Extent of Repeal Number and Year
 
 14 & 15 Vict. c. 92 Summary Jurisdiction In section 10 (1) the words (Ireland) Act, 1851 “or set on or urge any dog or other animal to attack or worry any person, horse, or other animal,” ; section 10 (7).
 
-17 & 18 Vict. c. 103 Towns Improvement In section 72, the words (Ireland) Act, 1854 “Every Person who suffers to be at large any unmuzzled ferocious Dog or sets on or urges any Dog or other Animal to attack, worry, or put in fear any Person or Animal, shall be liable to a Fine not exceeding Ten Shillings: Every Owner of any Dog who suffers such Dog to go at large, knowing or having reasonable Ground for believing it to be in a rabid State, or to have been bitten by any Dog or other Animal in a rabid State, shall be liable to a Fine not exceeding Ten Shillings:
+17 & 18 Vict. c. 103 Towns Improvement In section 72, the words (Ireland) Act, 1854 “Every Person who suffers to be at large any unmuzzled ferocious Dog or sets on or urges any Dog or other Animal to attack, worry, or put in fear any Person or Animal, shall be liable to a Fine not exceeding Ten Shillings:
+
+Every Owner of any Dog who suffers such Dog to go at large, knowing or having reasonable Ground for believing it to be in a rabid State, or to have been bitten by any Dog or other Animal in a rabid State, shall be liable to a Fine not exceeding Ten Shillings:
 
 Every Person who, after public Notice given by any Justice or Justices at Petty Sessions, Chief Magistrate, or Chairman of Commissioners, directing Dogs to be confined on account of Suspicion of canine Madness, suffers any Dog to be at large during the Time specified in such Notice, shall be liable to a Fine not exceeding Ten Shillings:”.
 
@@ -34,7 +36,7 @@ No. 10 of 1965 Protection of Animals Part III. (Amendment) Act, 1965
 
 No. 6 of 1966 Diseases of Animals Act, Section 56. 1966
 
-No. 20 of 1976 Local Government (Plan- Paragraphs (d) and (k) of ning and Development) section 43 (1). Act, 1976
+No. 20 of 1976 Local Government Paragraphs (d) and (k) of (Planning and section 43 (1). Development) Act, 1976
 
 No. 15 of 1983 Finance Act, 1983 Section 65.
 
