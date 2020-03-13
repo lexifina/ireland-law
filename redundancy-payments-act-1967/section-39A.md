@@ -1,4 +1,4 @@
-F93[Appeal to Labour Court from decision of adjudication officer
+F94[Appeal to Labour Court from decision of adjudication officer
 
 39A. Section 44 of the Act of 2015 shall apply to a decision of an adjudication officer given in relation to an appeal under subsection (15), or a question referred to the Director General under subsection (16), of section 39 of this Act as it applies to a decision of an adjudication officer under section 41 of that Act, subject to the following modifications:
 
