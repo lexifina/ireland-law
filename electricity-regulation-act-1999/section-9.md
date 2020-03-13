@@ -96,7 +96,7 @@ Functions of Commission.
 
 (ed) to regulate the activities of LPG installers with respect to safety,
 
-(f) to contribute to the development of the internal market and to the development of compatible regulatory frameworks between regions of the European Union, by engaging, co-operating and consulting with other national regulatory authorities, the Agency and with the European Commission in regard to cross-border issues,
+(f) to contribute to the development of the internal market and to the development of compatible regulatory frameworks between regions of the European Union, by engaging, co-operating and consulting with other national regulatory authorities, the Agency and with the European Commission in regard to cross-border issues , and in respect of infrastructure to and from a third country, to co-operate with the relevant authorities of the third country, after consulting the regulatory authorities of other Member States, aiming at, as regards such infrastructure, consistent application of the Natural Gas Market Directive in the territory of the European Union,
 
 (fa) to share information, as necessary for the fulfilment of its functions, with other national regulatory authorities and the Agency,
 
@@ -124,6 +124,10 @@ Functions of Commission.
 
 (III) conditions and practical procedures for mutual assistance,
 
+(fbb) to consult and co-operate with the relevant authorities of third countries in relation to the operation of gas infrastructure to and from third countries with a view to ensuring, as regards the infrastructure concerned, that the Natural Gas Market Directive is applied consistently in the territory and territorial seas of the State,
+
+5 OJ No. L 127, 29.04.2004, p.92
+
 (fc) to engage with transmission system operators in order to—
 
 (i) promote and facilitate co-operation between transmission system operators at a regional level on cross-border issues,
@@ -140,9 +144,7 @@ Functions of Commission.
 
 (ff) where it considers that a decision relevant for cross-border trade taken by another regulatory authority does not comply with the guidelines referred to in paragraph (fe), to, if it considers it necessary, inform the European Commission within 2 months of the taking of the decision by that other regulatory authority,
 
-(fg) where, following a request to the Agency by another regulatory authority in regard to a decision made by the Commission on a cross-border trade issue, the European Commission has requested the Commission to withdraw its
-
-5 OJ No. L 127, 29.04.2004, p.92 decision, to comply with any such decision within a period of 2 months and to inform the European Commission accordingly,
+(fg) where, following a request to the Agency by another regulatory authority in regard to a decision made by the Commission on a cross-border trade issue, the European Commission has requested the Commission to withdraw its decision, to comply with any such decision within a period of 2 months and to inform the European Commission accordingly,
 
 (g) to grant, monitor the performance of, modify, revoke and enforce licences and authorisations pursuant to this Act,
 

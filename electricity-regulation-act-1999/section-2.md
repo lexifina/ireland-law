@@ -116,7 +116,7 @@ Interpretation.
 
 “natural gas infrastructure” means any pipeline, facility, structure or installation which is or has been established, maintained or operated, for the purpose of the supply, storage, transmission, distribution and use of natural gas under a natural gas licence;
 
-“Natural Gas Market Directive” means Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009;
+‘Natural Gas Market Directive’ means Directive 2009/73/EC of the European Parliament and Council of 13 July 2009 as amended by Directive (EU) 2019/692 of the European Parliament and of the Council of 17 April 2019;
 
 “Natural Gas Market Regulation” means Regulation (EC) 715/2009 of the European Parliament and of the Council of 13 July 2009;
 
@@ -155,6 +155,8 @@ Interpretation.
 (i) solar,
 
 (j) wave;
+
+2 OJ No. L211, 14.8.2009, p.94 1 OJ No. L117, 3.5.2019, p.1
 
 “the SEM Committee” means the committee referred to in Section 8A;
 
