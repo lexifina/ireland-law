@@ -4,7 +4,7 @@ Obligation to be insured or guaranteed.
 
 56.—(1) A person (in this subsection referred to as the user) shall not use in a public place a mechanically propelled vehicle unless either a vehicle insurer, a vehicle guarantor or an exempted person would be liable for injury caused by the negligent use of the vehicle by him at that time or there is in force at that time either—
 
-(a) it may, in so far as it relates to injury to property, be limited to the sum of €1,120,000 per claim, whatever the number of victims,
+(a) an approved policy of insurance whereby the user or some other person who would be liable for injury caused by the negligent use of the vehicle at that time by the user, is insured against all sums without limit (save as is hereinafter otherwise provided) which the user or his personal representative or such other person or his personal representative shall become liable to pay to any person ... by way of damages or costs on account of injury to person or property caused by the negligent use of the vehicle at that time by the user, or
 
 (b) an approved guarantee whereby there is guaranteed the payment by the user, or some other person who would be liable for injury caused by the negligent use of the vehicle at that time by the user, of all sums without limit (save as is hereinafter otherwise provided) which the user or his personal representative or such other person or his personal representative shall become liable to pay to any person (exclusive of the excepted persons) by way of damages or costs on account of injury to person or property caused by the negligent use of the vehicle at that time by the user.
 
