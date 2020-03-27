@@ -1,6 +1,6 @@
 ## PART 8 MISCELLANEOUS AND GENERAL
 
-Restriction of Apothecaries’ Hall Act 1791.
+Special measures registration having regard to Covid-19.
 
 73.— The powers conferred by the Apothecaries’ Hall Act 1791—
 
