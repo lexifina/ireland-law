@@ -6,4 +6,4 @@ Direct enlistment in the Reserve Defence Force for service during a fixed period
 
 (2) The enlistment of a person under this section shall be for the whole of the term of his original enlistment in the Reserve Defence Force.
 
-(3) A person enlisted under this section shall be enlisted for service in a particular class of reservists.
+(3) A person enlisted under this section shall be enlisted for service in a particular class of reservists. Proceedings for enlistment.
