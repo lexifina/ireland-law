@@ -20,13 +20,13 @@ E. Where the person convicted is a non-commissioned officer, reduction to any lo
 
 F. Forfeiture of all seniority of rank or of a specified term of seniority.
 
-G. Reduction to any lower point on the scale of pay for the rank held. H. (a) In the case of a person subject to military law as a man under section 119(a) or (b), a fine of an amount not exceeding fourteen days’ pay of the person at the most recent rate payable.
+G. Reduction to any lower point on the scale of pay for the rank held.
+
+H. (a) In the case of a person subject to military law as a man under section 119(a) or (b), a fine of an amount not exceeding fourteen days’ pay of the person at the most recent rate payable.
 
 (b) In the case of a person subject to military law as a man under section 119(c) or (d), a fine not exceeding the maximum fine awardable for the time being by a court-martial to a man holding the rank of private of the highest grade who is in receipt of the maximum pay applicable to that rank.
 
-(c) In the case of a person who is not a member of the Defence Forces but who was a non-commissioned officer, private or seaman when the offence was committed, a fine not exceeding an amount equal to fourteen days’ pay at the most recent rate applicable to his former rank.
-
-I. Severe reprimand.
+(c) In the case of a person who is not a member of the Defence Forces but who was a non-commissioned officer, private or seaman when the offence was committed, a fine not exceeding an amount equal to fourteen days’ pay at the most recent rate applicable to his former rank. I. Severe reprimand.
 
 J. Reprimand.
 

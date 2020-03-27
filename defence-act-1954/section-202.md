@@ -8,7 +8,7 @@ Mental disorder at time of trial.
 
 (1A) In the case of a general court-martial or limited court-martial, the question of whether a person charged with an offence is fit to be tried shall be determined, and the finding shall be made, by the military judge sitting alone.
 
-(2)...
+(2) ...
 
 (3) A person charged with an offence shall not be fit to take his trial if he is unable by reason of mental disorder to understand the nature or course of the proceedings so as to—
 

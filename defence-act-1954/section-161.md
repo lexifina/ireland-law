@@ -24,7 +24,7 @@ Offences in relation to courts-martial, etc.
 
 (e) who uses insulting or threatening language or causes any interruption or disturbance in the proceedings of a service tribunal, or
 
-(ea)who communicates with the Director, a member of his staff (including a prosecuting officer), a member of a court-martial board, a military judge or a witness in any proceedings under this Act for the purpose of influencing, directly or indirectly, any decision relating to the performance of their functions, including, as appropriate, a decision to withdraw or not to institute such proceedings or any particular charge in such proceedings or the conduct or trial of any such proceedings, or
+(ea) who communicates with the Director, a member of his staff (including a prosecuting officer), a member of a court-martial board, a military judge or a witness in any proceedings under this Act for the purpose of influencing, directly or indirectly, any decision relating to the performance of their functions, including, as appropriate, a decision to withdraw or not to institute such proceedings or any particular charge in such proceedings or the conduct or trial of any such proceedings, or
 
 (eb) who fails, refuses or neglects to comply with a direction of the military judge under section 195, or
 

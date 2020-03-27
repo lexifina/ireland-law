@@ -2,13 +2,11 @@ SECOND SCHEDULE
 
 COMMISSIONED ARMY AND NAVAL RANKS IN THE DEFENCE FORCES
 
-Refer- Army Ranks Naval Ranks ence (2) (3) Number
-
-(1)
+Reference Army Ranks Naval Ranks Number (2) (3) (1)
 
 1. Ginearál or (in English) General.
 
-2. Lefteanant-Ghinearál or (in English) Lieu- Leas-Aimiréal or (in English) Vice- Admiral. tenant-General.
+2. Lefteanant-Ghinearál or (in English) Leas-Aimiréal or (in English) Vice- Admiral. Lieutenant-General.
 
 3. Maor-Ghinearál or (in English) Major-General. Seach-Aimiréal or (in English) Rear-Admiral.
 
@@ -24,4 +22,4 @@ Refer- Army Ranks Naval Ranks ence (2) (3) Number
 
 9. Lefteanant or (in English) Lieutenant. Fo-Lefteanant or (in English) Sub-Lieutenant.
 
-10. Dara-Lefteanant or (in English) Second-Lieu- Meirgire or (in English) Ensign. tenant. Meánloingseach or (in English) Midshipman.
+10. Dara-Lefteanant or (in English) Second- Meirgire or (in English) Ensign. Lieutenant. Meánloingseach or (in English) Midshipman.
