@@ -76,7 +76,9 @@ Environmental impact assessment of certain development carried out by or on beha
 
 (I) a notice of the furnishing to the Board of, as appropriate, the further information referred to in subparagraph (i)(I) or the information or report referred to in subparagraph (i)(II), and
 
-(II) a copy of that further information, information or report, and to indicate to the authority that submissions or observations in relation to that further information, information or report may be made to the Board before the expiration of a period (which shall not be less than 5 weeks) beginning on the day on which the notice is sent to the prescribed authority by the local authority.
+(II) a copy of that further information, information or report, and to indicate to the authority that submissions or observations in relation to that further information, information or report may be made to the Board before the expiration of a period (which shall not be less than
+
+5 weeks) beginning on the day on which the notice is sent to the prescribed authority by the local authority.
 
 (6) Before making a decision in respect of a proposed development under this section, the Board shall consider—
 

@@ -112,6 +112,8 @@ Interpretation.
 
 “exempted development” has the meaning specified in section 4;
 
+3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
+
 “exhibit”, in relation to an advertisement, includes affix, inscribe, print, paint, illuminate and otherwise delineate;
 
 “existing establishment” has the meaning that it has in the Major Accidents Directive;
@@ -129,8 +131,6 @@ Interpretation.
 (a) is used as a dwelling,
 
 (b) is not in use but when last used was used, disregarding any unauthorised use, as a dwelling and is not derelict, or
-
-3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
 
 (c) was provided for use as a dwelling but has not been occupied;
 
