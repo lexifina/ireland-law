@@ -6,11 +6,11 @@ A person may not enter a civil partnership with someone within the prohibited de
 
 A man may not enter a civil A woman may not enter a civil partnership with her: partnership with his:
 
-Grandfather Grandmother
+Grandfather Grandmother Grandparent’s brother Grandparent’s sister
 
-Grandparent’s brother Grandparent’s sister
+Father Mother
 
-Father Mother Father’s brother Mother’s sister
+Father’s brother Mother’s sister
 
 Mother’s brother Father’s sister
 
