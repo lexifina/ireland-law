@@ -1,4 +1,4 @@
-F207[Transitional provisions consequent on Marriage Act 2015
+F210[Transitional provisions consequent on Marriage Act 2015
 
 59L. (1) On the commencement of section 8 of the Marriage Act 2015, a notification of an intention to enter into a civil partnership given under section 59B and in force immediately before that commencement, may, if requested by the parties concerned, be taken to be and treated by a registrar as if it were a notification of their intention to marry given under section 46.
 
