@@ -14,7 +14,7 @@ Non-application of Part.
 
 (c) the landlord resides in the other dwelling.
 
-(3) A landlord's opting as mentioned in subsection (1) shall be signified in writing in a notice served by him or her on the tenant before the commencement of the tenancy.
+(3) A landlord’s opting as mentioned in subsection (1) shall be signified in writing in a notice served by him or her on the tenant before the commencement of the tenancy.
 
 (4) This Part does not apply to a tenancy of a dwelling—
 
