@@ -1,6 +1,6 @@
 Oath on enlistment.
 
-58.—(1) Every person enlisting in the Permanent Defence Force under section 53 shall take an oath or make a declaration either in the form set out in Part I of the Eighth Schedule to this Act or in the form set out in Part II of the said Schedule.
+58.—(1) Every person enlisting in the Permanent Defence Force under section 53 or 53A shall take an oath or make a declaration either in the form set out in Part I of the Eighth Schedule to this Act or in the form set out in Part II of the said Schedule.
 
 (2) Every person enlisting in the Permanent Defence Force under section 54 shall take an oath or make a declaration either in the form set out in Part I of the Ninth Schedule to this Act or in the form set out in Part II of the said Schedule.
 
