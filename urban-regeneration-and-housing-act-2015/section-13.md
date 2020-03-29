@@ -1,6 +1,6 @@
 Appeal of market value determination
 
-13. (1) The owner of a vacant site may appeal to the Tribunal against a determination made by a planning authority under section 12(1) within 28 days after the date of th e notice given under section 12(4).
+13. (1) The owner of a vacant site may appeal to the Tribunal against a determination made by a planning authority under section 12(1) within 28 days after the date of the notice given under section 12(4).
 
 (2) The Tribunal shall hear and determine appeals under subsection (1).
 
