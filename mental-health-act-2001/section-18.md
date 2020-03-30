@@ -16,9 +16,21 @@ Review by a tribunal of admission orders and renewal orders.
 
 (b) in the case of an application referred to in section 15(3)(b), not later than 21 days after the date on which the Commission received the application.
 
-(3) Before making a decision under subsection (1), a tribunal shall have regard to the relevant report under section 17(1)(c).
+(3) Before making a decision under subsection (1), a tribunal shall have regard to the relevant reports under section 17(1)(c) and (d).
 
-(4) The period referred to in subsection (2) may be extended by order by the tribunal concerned (either of its own motion or at the request of the patient concerned) for a further period of 14 days and thereafter may be further extended by it by order for a period of 14 days on the application of the patient if the tribunal is satisfied that it is in the interest of the patient and the relevant admission order, or as the case may be, renewal order shall continue in force until the date of the expiration of the order made under this subsection.
+(3A) Subject to subsection (3B), where section 48(3A) applies, the tribunal concerned shall consult with a consultant psychiatrist, other than the consultant psychiatrists who prepared the reports under section 17(1)(c) and (d), for the purpose of making a decision under subsection (1) where—
+
+(a) the opinions expressed in the reports under section 17(1)(c) and (d) as to whether the patient is suffering from a mental disorder differ, or
+
+(b) it otherwise considers that it is necessary in the interest of the patient to do so.
+
+(3B) Subsection (3A) shall not apply where the tribunal is unable, due to the exigencies of the public health emergency, to consult in accordance with that subsection.
+
+(4) The period referred to in subsection (2) may be extended by order by the tribunal concerned (either of its own motion or at the request of the patient concerned) for a further period of 14 days and thereafter may be further extended by it by order for a period of 14 days—
+
+(a) on the application of the patient if the tribunal is satisfied that it is in the interest of the patient, or
+
+(b) of its own motion if the tribunal, having due regard to the interest of the patient, is satisfied that it is necessary due to the exigencies of the public health emergency, and the relevant admission order, or as the case may be, renewal order shall continue in force until the date of the expiration of the order made under this subsection.
 
 (5) Notice in writing of a decision under subsection (1) and the reasons therefor shall be given to—
 
