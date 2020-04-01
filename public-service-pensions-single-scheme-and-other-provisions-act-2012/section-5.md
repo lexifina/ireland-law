@@ -4,7 +4,7 @@
 
 Interpretation (Part 2).
 
-5.— (1) In this Part and the Schedule—
+5.— (1) In this Part and the Schedule —
 
 “adoption order” means an order for the adoption of a child made—
 
@@ -112,7 +112,7 @@ Interpretation (Part 2).
 
 (b) made by a relevant Minister or which has been approved or requires the approval or consent, however expressed, of either or both a relevant Minister and the Minister, but does not include the Scheme or a scheme or arrangement in respect of a body specified or referred to in the Schedule;
 
-“prescribed”, except in sections 22and23, means prescribed by regulations made under section 8;
+“prescribed”, except in sections 22 and 23, means prescribed by regulations made under section 8;
 
 “preserved lump sum” has the meaning given in section 28;
 
