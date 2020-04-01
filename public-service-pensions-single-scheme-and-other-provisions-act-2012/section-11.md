@@ -10,10 +10,10 @@ Pensionability of allowances, emoluments and related payments.
 
 (a) it is permanent in nature;
 
-(b) it is subject to contributions under Chapter 2;
+(b) it is subject to contributions under Chapter 2 ;
 
 (c) the Scheme member has been notified of it being so treated.
 
-(3) Where any allowance, emolument or premium payment is not pensionable it shall not be subject to contributions under Chapter 2.
+(3) Where any allowance, emolument or premium payment is not pensionable it shall not be subject to contributions under Chapter 2 .
 
-(4) The Minister may in writing reverse, amend, adjust or otherwise change a determination to which this section relates but any such reversal, amendment, adjustment or change shall not affect rights accrued in respect of previous contributions made under Chapter 2.
+(4) The Minister may in writing reverse, amend, adjust or otherwise change a determination to which this section relates but any such reversal, amendment, adjustment or change shall not affect rights accrued in respect of previous contributions made under Chapter 2 .

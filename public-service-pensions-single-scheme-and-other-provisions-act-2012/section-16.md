@@ -14,31 +14,33 @@ Contributions to Scheme, etc.
 
 (a) to be calculated on the basis of each calendar year, or part of such year, that the person concerned is or was a Scheme member, and
 
-(b) where in respect of any such period referred to in paragraph (a) that that person was not working on a full-time basis, as adjusted by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis. TABLE:
+(b) where in respect of any such period referred to in paragraph (a) that that person was not working on a full-time basis, as adjusted by reference to the proportion that the number of hours worked bears to the number of hours that would have been worked if working on a full-time basis.
+
+TABLE:
 
 Rates of contribution
 
 Contribution rate: Contribution rate: expressed as expressed as percentage percentage of net of pensionable pensionable remuneration remuneration (1) (2) (3)
 
-Persons to whom section 19refers 3.5% 3%
+Persons to whom section 19 refers 3.5% 3%
 
-Persons to whom section 20refers - 13%
+Persons to whom section 20 refers - 13%
 
-Persons to whom section 21refers - 13%
+Persons to whom section 21 refers - 13%
 
-Persons to whom section 22refers - 13%
+Persons to whom section 22 refers - 13%
 
 Persons to whom section 23 refers who hold office 7% 6%
 
 Persons to whom section 23 refers who hold office - 13%
 
-Persons to whom section 24refers - 13%
+Persons to whom section 24 refers - 13%
 
 Persons to whom section 25 refers who hold office - 10%
 
 Persons to whom section 25 refers who hold office 5.7% 4.3%
 
-Persons to whom section 26refers 4.2% 3.3%
+Persons to whom section 26 refers 4.2% 3.3%
 
 (4) Where a public service body is financed wholly or mainly from sources other than directly or indirectly out of the Central Fund or the growing produce of that Fund, the Minister may require the public service body, or the relevant authority concerned where that body is not the relevant authority, to make a contribution to the Scheme of such percentage of pensionable remuneration of each scheme member concerned that—
 
