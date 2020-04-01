@@ -1,6 +1,6 @@
 Conditions regarding lifting of persons.
 
-48. (1) An employer shall ensure that work equipment not specifically designed for the purpose of lifting persons is not used to this effect other than in exceptional circumstances and subject to the following conditions:
+48. (1) An employer shall ensure that work equipment not specifically designed for the purpose of lifting persons is not used for that purpose other than in exceptional circumstances and subject to the following conditions:
 
 (a) appropriate action including adequate supervision is taken to ensure safety;
 

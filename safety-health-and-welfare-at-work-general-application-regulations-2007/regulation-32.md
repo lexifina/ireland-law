@@ -14,7 +14,7 @@ Control devices.
 
 (f) where it is impracticable to comply with paragraph (e), a safe system such as an audible or visible warning signal, or such a signal that is both audible and visible, is given automatically whenever the machinery is about to start,
 
-(g) an exposed employee has the time, the means, or both, quickly to avoid hazards caused by the starting or stopping, or both, of the work equipment,
+(g) an exposed employee has the time and the means quickly to avoid hazards caused by the starting or stopping of the work equipment,
 
 (h) control systems are safe, and are chosen making appropriate allowances for the failures, faults and constraints to be expected in the planned circumstances of use,
 

@@ -6,6 +6,6 @@ Fork-lift trucks.
 
 (b) by a structure preventing the fork-lift truck from overturning,
 
-(c) by a structure ensuring that, if the fork-lift truck overturns, sufficient clearance remains between the ground and appropriate parts of the fork-lift truck for the employees carried, or
+(c) by a structure ensuring that, if the fork-lift truck overturns, sufficient clearance remains between the ground and appropriate parts of the fork-lift truck for the ride-on employees, or
 
 (d) by a structure restraining the employees on the driving seat so as to prevent them from being crushed by parts of the fork-lift truck which overturns.

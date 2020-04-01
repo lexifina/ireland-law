@@ -6,7 +6,7 @@ Cranes.
 
 (i) has plainly marked upon it or within the cab the safe working load at various radii of the jib, trolley or crab, and in the case of a crane with a derricking jib the maximum radius at which the jib may be worked,
 
-(ii) is fitted with a suitable accurate automatic safe load indicator or rated capacity indicator, clearly visible to the driver showing at any time the radius of the jib, trolley or crab and the safe working load corresponding to that radius unless-
+(ii) is fitted with a suitable accurate automatic safe load indicator or rated capacity indicator, clearly visible to the driver showing at any time the radius of the jib, trolley or crab and the safe working load corresponding to that radius unless—
 
 (I) it is a guy derrick crane (being a crane of which the mast is held upright solely by means of ropes with the necessary fittings and tightening screws),
 
@@ -34,10 +34,10 @@ Cranes.
 
 (e) where the safety of work equipment depends on the installation conditions on a construction site—
 
-(i) after each assembly of a tower crane or after any adjustment to any member which may affect the strength or stability of the crane, and before it is put into use, it is subject to a static test with a test coefficient of 1.25 and a dynamic test with a test coefficient of 1.1, taking account of any direction from the machine manufacturer, and
+(i) after each assembly of a tower crane or after any adjustment to any member which may affect the strength or stability of the crane, and before it is put into use, it is subject to a static test with a test coefficient of 1.25 and a dynamic test with a test coefficient of 1.1, unless the use of either coefficient is prohibited by direction from the equipment manufacturer, in which case the test at issue shall be carried out taking account of any direction from the machine manufacturer, and
 
 (ii) where the stability of a crane is secured by means of removable weights, a diagram or notice indicating the amount and position of such weights is affixed on the crane so that it can be readily seen and each such removable weight is clearly marked with its correct weight, and
 
 (f) notwithstanding any other provisions of this Chapter, lifting equipment used on a construction site is examined weekly by the user as regards features related to its safe working and a record of the results is kept in a suitable form which is kept available for inspection by an inspector for 3 months from the date of examination.
 
-(2) The use of an excavator, telehandler, loader or combined excavator/loader as a crane is subject to Part C of Schedule 1.
+(2) This Regulation does not apply to machines to which Regulation 55 applies.

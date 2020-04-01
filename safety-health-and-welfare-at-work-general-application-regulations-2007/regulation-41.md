@@ -6,4 +6,4 @@ Traffic rules for mobile work equipment.
 
 (b) organisational measures are taken to prevent employees on foot coming within the area of operation of self-propelled work equipment and, if work can be done properly only if employees on foot are present, appropriate measures are taken to prevent them from being injured by the equipment, and
 
-(c) the transport of employees on mechanically driven mobile work equipment is only permitted where safe facilities are provided to this effect and if work is carried out during the journey, speeds are adjusted as necessary.
+(c) the transport of employees on mechanically driven mobile work equipment is only permitted where safe facilities are provided for that purpose and if work is carried out during the journey, speeds are adjusted as necessary.

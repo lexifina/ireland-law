@@ -18,7 +18,7 @@ Examination and testing of lifting equipment.
 
 (II) is accompanied by an EC declaration of conformity in accordance with the relevant directives of the European Communities,
 
-(III) is accompanied by a certificate of test and examination for that machine signed by the person making the test, specifying the safe working load and
+(III) is accompanied by any necessary information and instructions required under paragraph (c) of, and any relevant proofs of any assessment, research and tests required under paragraph (d) of, Regulation 4 of the European Communities (Machinery) Regulations 2008 (S.I. No. 407 of 2008), and
 
 (IV) has not been reassembled since dispatch from the manufacturer,
 
@@ -30,7 +30,7 @@ Examination and testing of lifting equipment.
 
 (d) where a report of an examination pursuant to paragraph (3) specifies conditions for the safe working of the equipment, the equipment is used only in accordance with those conditions.
 
-(2) In the case of work equipment to which paragraph (1)(b)(ii) applies, the period to the first examination pursuant to paragraph (3) shall be determined by reference to the date of the certificate referred to in paragraph (1)(b)(ii)(III).
+(2) In the case of work equipment to which paragraph (1)(b)(ii) applies, the period to the first examination pursuant to paragraph (3) shall be determined by reference to the the date of first use.
 
 (3) Without prejudice to Regulation 30, an employer shall ensure that work equipment of a type or class listed in column 1 of Parts B or C of Schedule 1 is not used unless it has been examined by a competent person at least once in the period specified in column 2 of Parts B or C of that Schedule or as required under the other circumstances described in Part C.
 

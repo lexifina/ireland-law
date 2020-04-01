@@ -4,11 +4,11 @@ Work equipment for lifting loads.
 
 (a) all lifting operations are properly planned, appropriately supervised and carried out to protect the safety of employees,
 
-(b) when work equipment for lifting loads is installed permanently, its strength and stability during use is assured, having regard to the loads to be lifted and the stress induced at the mounting or fixing points of the structure,
+(b) when work equipment for lifting loads is installed permanently, its strength and stability during use is ensured, having regard to the loads to be lifted and the stress induced at the mounting or fixing points of the structure,
 
 (c) lifting equipment designed for low frequency use is not installed where its anticipated use will render the equipment unsuitable,
 
-(d) machinery for lifting loads is clearly marked to indicate its safe working load, and where appropriate the safe working load for each configuration of the machinery,
+(d) machinery for lifting loads is clearly marked to indicate its safe working load and, where appropriate, is fitted with a load plate giving the safe working load for each configuration of the machinery,
 
 (e) work equipment which is not designed for lifting persons is appropriately and clearly marked to this effect,
 

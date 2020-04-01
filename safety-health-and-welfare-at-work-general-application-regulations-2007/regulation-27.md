@@ -10,9 +10,11 @@ Interpretation for Chapter 2.
 
 “exposed employee” means any employee wholly or partially in a danger zone;
 
+Official Journal L 207, 23.7.98, p. 1-46; Official Journal L 157, 9.6.2006, p. 24-86
+
 “fishing vessel” means a vessel to which the Safety, Health and Welfare at Work (Fishing Vessels) Regulations 1999 (S.I. No. 325 of 1999) apply;
 
-‘hoist or lift’ means a lifting machine which has its direction of movement restricted by a guide or guides but, for the purpose of this Chapter, does not include—
+"hoist or lift" means a lifting machine which has its direction of movement restricted by a guide or guides but, for the purpose of this Chapter, does not include—
 
 (a) a fork lift truck, order picker, self-propelled variable reach truck or similar type equipment,
 
@@ -28,12 +30,12 @@ Interpretation for Chapter 2.
 
 “non-integrated cage or basket” means one which is not equipped with controls that control its movement;
 
-Official Journal L 207, 23.7.98, p. 1-46; Official Journal L 157, 9.6.2006, p. 24-86
-
-“selection, installation and use of work equipment” means any activity involving work equipment, including starting or stopping the equipment, its use, transport, repair modification, maintenance and servicing and cleaning;
+...
 
 “thorough examination” includes testing if—
 
 (a) a competent person considers it to be necessary for the purpose of the examination or
 
 (b) testing is required pursuant to Regulation 52 and Schedule 1.
+
+"use of work equipment" means any activity involving work equipment, including, its use, transport, repair, modification, maintenance, servicing, cleaning, and the starting or stopping of the equipment;

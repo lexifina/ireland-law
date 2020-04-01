@@ -2,7 +2,7 @@ Lifting accessories.
 
 49. An employer shall ensure that—
 
-(a) lifting accessories are selected as a function of the loads to be handled, gripping points, attachment tackle and the atmospheric conditions, having regard to the mode and configuration of slinging,
+(a) lifting accessories are selected by reference to the loads to be handled, gripping points, attachment tackle and the atmospheric conditions, having regard to the mode and configuration of slinging,
 
 (b) lifting accessories are stored in a way that ensures that they will not be damaged or degraded, and
 

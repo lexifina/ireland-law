@@ -1,28 +1,36 @@
-Safe working loads for excavators, draglines, telehandlers, loaders or combined excavators and loaders when used as cranes.
+Safe working loads for excavators, telehandlers and backhoe loaders when used for object handling.
 
-55. (1) In this Regulation, reference to “machine” is a reference to an “excavator, dragline telehandler, loader or combined excavator and loader when used as a crane”.
+55. (1) In this Regulation, reference to—
+
+(a) “machine” is a reference to an excavator, a telehandler, or a backhoe loader when used for object handling, and
+
+(b) “object handling” is a reference to lifting, lowering or transporting a load by the use of lifting accessories, whereby the assistance of a person or the operator of the machine is required for hooking or unhooking the load, or stabilising it while it is being transported.
 
 (2) An employer shall ensure that—
 
-(a) before a machine to which this Regulation applies is first used, a competent person—
+(a) before a machine to which this Regulation applies is first used for object handling, a competent person—
 
 (i) specifies the safe working load or loads which may be raised and lowered by the machine, or where its safe working load depends on the configuration of the machine, its safe working load for the different configurations are determined, and
 
-(ii) provides a signed certificate specifying the safe working load and any necessary safety provisions,
+(ii) provides a signed certificate specifying the safe working load for the different configurations of the machine and any necessary safety provisions,
 
 (b) the certificate referred to in subparagraph (a)(ii) is kept available for inspection with the machine,
 
-(c) a machine is not loaded beyond the relevant safe working load specified in the certificate required by subparagraph (a)(ii),
+(c) a machine is not loaded beyond the relevant safe working load specified in the certificate required by subparagraph (a)(ii), or as specified by the manufacturer, whichever is the lower, except when Regulation 42(j) applies,
 
-(d) the specified safe working load or loads and the outrigger position and the length of jib or boom to which the safe working loads relate is either plainly marked on the machine or a copy of the table relating safe working loads to the distance worked is affixed in a clearly visible position in the driver's cab,
+(d) the specified safe working load or loads and, where applicable, the outrigger or jack position and the length of jib or boom to which the safe working loads relate is either plainly marked on the machine or information relating safe working loads to the distance worked is displayed in a clearly visible position in the driver's cab,
 
 (e) if, after the issue of the certificate required by subparagraph (a)(ii), a machine undergoes any substantial alteration or repair likely to affect the specified safe working loads, that certificate is cancelled and a new certificate is obtained,
 
-(f) hydraulically-operated machines, except for machines with a maximum rated lift capacity of a 1,000 kg or less, are fitted with check valves on the cylinders used for lifting or by another means to prevent a gravity fall of the load in the event of a hydraulic failure,
+(f) machines with a maximum rated lift capacity at a minimum lift point radius as specified by the manufacturer of greater than or equal to 1,000kg or an overturning moment greater than or equal to 40,000 Nm are fitted with—
 
-(g) in the case of a telehandler, the safe working load is not greater than 1,000 kg unless fitted with an automatic safe load indicator or rated capacity indicator,
+(i) check valves on the cylinders used for lifting or by another means to prevent a gravity fall of the load in the event of a hydraulic failure, and
 
-(h) unless a machine is fitted with an automatic safe load indicator or a rated capacity indicator, the safe working load is the same for all radii at which a jib or boom is operated and is not greater than the load which the machine in its least stable configuration is designed to lift with that jib or boom,
+(ii) an acoustic or visual warning device that indicates to the operator when the rated lift capacity or corresponding load moment is reached.
+
+(g) ...
+
+(h) ...
 
 (i) means of identification are plainly marked on machines to which this Regulation applies, and
 

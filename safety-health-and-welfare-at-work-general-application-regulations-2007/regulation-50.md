@@ -1,4 +1,4 @@
-Work equipment for lifting non-guided loads.
+Work equipment for lifting nonguided loads.
 
 50. An employer shall ensure that—
 
@@ -18,7 +18,7 @@ Work equipment for lifting non-guided loads.
 
 (d) work is organised in such a way that, when an employee is attaching or detaching a load by hand, it can be done safely, in particular through the employee retaining direct or indirect control of the work equipment,
 
-(e) if a load has to be lifted by two or more pieces of work equipment for lifting non-guided loads simultaneously, a procedure is established and applied to ensure good co-ordination on the part of the operators,
+(e) if a load has to be lifted simultaneously by two or more pieces of work equipment for lifting non-guided loads, a procedure is established and applied to ensure good co-ordination on the part of the operators,
 
 (f) if work equipment designed for lifting non-guided loads cannot maintain its hold on the load in the event of a complete or partial power failure, appropriate measures are taken to avoid exposing employees to any resultant risks,
 
@@ -26,4 +26,4 @@ Work equipment for lifting non-guided loads.
 
 (h) open air use of work equipment designed for lifting non-guided loads is halted when meteorological conditions deteriorate to the point of jeopardising the safe use of the equipment and exposing employees to risks, and
 
-(i) adequate protection measures, in particular to avoid work equipment turning over are taken to avoid any risks to employees.
+(i) adequate protection measures, in particular measures to avoid work equipment turning over are taken to avoid any risks to employees.
