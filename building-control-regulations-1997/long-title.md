@@ -1,0 +1,1 @@
+The Minister for the Environment and Local Government, in exercise of the powers conferred on him by sections 4, 6, 7 and 18 of the Building Control Act, 1990 (No. 3 of 1990), hereby makes the following Regulations:—

@@ -1,0 +1,3 @@
+Issue of fire safety certificate, revised fire safety certificate, regularisation certificate, disability access certificate or revised disability access certificate.
+
+42. Where a building control authority is notified by the Board of its decision to allow an appeal under section 7(1)(b), section 7(1)(d) or section 7(1)(e) of the Act, the authority shall, as soon as may be, issue a fire safety certificate, a revised fire safety certificate, a regularisation certificate, a disability access certificate or a revised disability access certificate, as appropriate, to the appellant in accordance with the decision of the Board.
