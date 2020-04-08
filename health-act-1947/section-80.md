@@ -1,0 +1,17 @@
+Power of health authority to inspect land.
+
+80.—(1) An officer or agent of a health authority who is duly authorised in that behalf by the authority may, subject to the provisions of this section, enter on any land at all reasonable times between the hours of 9 a.m. and 6 p.m. for the purpose of ascertaining whether the land is or is not suitable for acquisition by the authority.
+
+(2) A person entering on land under this section may do thereon all things reasonably necessary for the purpose for which the entry is made and, in particular, may survey, make plans, take levels, make excavations, and examine the depth and nature of the subsoil.
+
+(3) Before a person enters under this section on any land the health authority on whose authority the entry is proposed to be made shall either obtain the consent (in the case of occupied land) of the occupier or (in the case of unoccupied land) the owner or shall give to the owner or occupier (as the case may be) not less than fourteen days' notice in writing of the intention to make the entry.
+
+(4) A person to whom a notice of intention to enter on land has been given under this section by a health authority may, not later than fourteen days after the giving of such notice, apply, on notice to such health authority, to the justice of the District Court having jurisdiction in the district in which the land is situate for an order prohibiting the entry, and, upon the hearing of the application, the justice may, if he so thinks proper, either wholly prohibit the entry or specify conditions to be observed by the person making the entry.
+
+(5) Where a justice in the District Court prohibits under this section a proposed entry on land, it shall not be lawful for any person to enter under this section on the land, and where a justice of the District Court specifies under this section conditions to be observed by persons entering on land, every person who enters under this section on the land shall observe the conditions so specified.
+
+(6) A person who suffers damage by anything done under this section on any land and, within one month after such thing is done, makes to the health authority on whose authority the land was entered under this section a claim for compensation in respect of the damage shall be entitled to be paid by the authority reasonable compensation for the damage and, in default of being paid such compensation when the amount thereof has been agreed upon or has been determined under this section, to recover it from the authority in any court of competent jurisdiction as a simple contract debt.
+
+(7) In default of agreement, the amount of any compensation payable by a health authority under this section shall, if the amount claimed in respect thereof does not exceed twenty pounds, be determined by the District Court or, in any other case, be determined by arbitration under the Acquisition of Land (Assessment of Compensation) Act, 1919, (as amended by subsequent enactments) as if the compensation were the price of land compulsorily acquired.
+
+(8) Every person who, by act or omission, obstructs an officer or agent of a health authority in the lawful exercise of the powers conferred by this section shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding five pounds together with, in the case of a continuing offence, a further fine not exceeding one pound for every day on which the offence is continued.

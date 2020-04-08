@@ -1,0 +1,3 @@
+Joint user of certain institutions by health authority and public assistance authority.
+
+13.—...

@@ -1,0 +1,3 @@
+Regulations as to exercise by health authorities of their powers under Part III.
+
+28.—...
