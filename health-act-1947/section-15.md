@@ -1,0 +1,3 @@
+Transfer of institution maintained by sanitary authority.
+
+15.—...

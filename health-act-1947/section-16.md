@@ -1,0 +1,3 @@
+Transfer of the Hospital of Saint Margaret of Cortona to the Dublin Corporation.
+
+16.—...

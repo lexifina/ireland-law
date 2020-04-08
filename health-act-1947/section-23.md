@@ -1,0 +1,3 @@
+Attendance to health of pupils of schools.
+
+23.—...
