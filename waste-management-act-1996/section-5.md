@@ -46,6 +46,8 @@ Interpretation generally.
 
 “development” has the meaning assigned to it by section 3 of the Planning and Development Act 2000
 
+‘EIA Directive’ means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014;
+
 “emission” has the meaning assigned to it by the Act of 1992;
 
 “emission into the atmosphere” means the emission of a pollutant, within the meaning of the Act of 1987, into the atmosphere;
@@ -56,13 +58,17 @@ Interpretation generally.
 
 “environmental impact assessment” shall be construed in accordance with section 40(2A);
 
-“environmental impact statement” means a statement of the direct and indirect effects that a proposed development will have or is likely to have on the environment and shall include the information specified in Annex IV to Directive No. 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment11;
+‘environmental impact assessment report’ shall be construed in accordance with section 40(2A);
+
+...
 
 “environmental medium” has the meaning assigned to it by the Act of 1992;
 
 “environmental pollution” means, in relation to waste, the holding, transport, recovery or disposal of waste in a manner which would ... endanger human health or harm the environment, and in particular—
 
 (a) create a risk to waters, the atmosphere, land, soil, plants or animals,
+
+1 OJ No. L 26, 28.1.2012, p.1 2 OJ No. L 124, 25.4.2014, p.1
 
 (b) create a nuisance through noise, odours or litter, or
 
@@ -292,7 +298,7 @@ Interpretation generally.
 
 (3A) References in this Act to Dublin City Council are references to Dublin City Council in its designation as the competent authority under Article 53 of the TFS Regulation as provided for in Regulation 4 of the Waste Management (Shipments of Waste) Regulations 2007 (S.I. No. 419 of 2007).
 
-(3B) Subject to this Act, a word or expression that is used in this Act and that is also used in Directive No. 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment has, unless the context otherwise requires, the same meaning in this Act as it has in that Directive.
+(3B) Subject to this Act, a word or expression that is used in this Act and that is also used in the EIA Directive has, unless the context otherwise requires, the same meaning in this Act as it has in that Directive.
 
 (4) In this Act, a reference to a Part, section, or Schedule is a reference to a Part or section of, or a Schedule to, this Act unless it is indicated that reference to some other enactment is intended.
 

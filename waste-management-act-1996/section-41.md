@@ -80,7 +80,9 @@ Conditions attached to a waste licence.
 
 (xvii) specify the latest date by which a condition attached to the licence is to be complied with.
 
-(2A) Where the Agency decides, in relation to an application for a waste licence to which section 40(2A)(c) refers, to grant a waste licence the Agency may attach such conditions to the waste licence as it considers necessary to avoid, reduce and, if possible, offset the major adverse effects of the development or proposed development (if any) comprising or for the purposes of the activity to which the application for a waste licence relates.
+(2A) In relation to an application for a waste licence, within the meaning of section 40(2A)(c), the Agency may attach such environmental conditions to the waste licence as it considers necessary to avoid, prevent, reduce or offset the significant adverse effects of the activity on the environment.
+
+(2B) Where the Agency decides, in relation to an application for a waste licence, that an environmental impact assessment is not required on the basis of features or measures proposed by the applicant to avoid or prevent significant adverse effects on the environment, the Agency may attach such features or measures as environmental conditions to the waste licence.
 
 (3) The Minister may by regulations—
 

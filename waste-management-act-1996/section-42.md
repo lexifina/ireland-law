@@ -28,23 +28,25 @@ Application for a waste licence or review of a waste licence.
 
 (c) a grant of substitute consent under section 177K of the Planning and Development Act 2000.
 
+(1AA) Unless the context otherwise requires, in subsections (1B) to (1G), “environmental impact assessment” and “environmental impact assessment report” have the same meaning as they have in the Planning and Development Act 2000.
+
 (1B) Where an application for a licence is made to the Agency in respect of an activity that involves development or proposed development for which a grant of permission is required the applicant shall furnish to the Agency—
 
 (a) confirmation in writing from a planning authority or An Bord Pleanála, as the case may be, that an application for permission comprising or for the purposes of the activity to which the application for a licence relates, is currently under consideration by the planning authority concerned or An Bord Pleanála, and in that case shall also furnish to the Agency either—
 
-(i) a copy of the environmental impact statement where one is required by or under the Planning and Development Act 2000 relating to that application for permission, or
+(i) a copy of the environmental impact assessment report where one is required by or under the Planning and Development Act 2000 relating to that application for permission, or
 
 (ii) confirmation in writing from the planning authority or An Bord Pleanála that an environmental impact assessment is not required by or under the Planning and Development Act 2000, or
 
 (b) a copy of a grant of permission comprising or for the purposes of the activity to which the application for the licence relates that was issued by the planning authority concerned or An Bord Pleanála and in that case shall also furnish to the Agency either—
 
-(i) where the planning authority or An Bord Pleanála, accepted or required the submission of an environmental impact statement in relation to the application for permission, a copy of the environmental impact statement, or
+(i) where the planning authority or An Bord Pleanála, accepted or required the submission of an environmental impact assessment report in relation to the application for permission, a copy of the environmental impact assessment report, or
 
 (ii) confirmation in writing from the planning authority or An Bord Pleanála that an environmental impact assessment was not required by or under the Planning and Development Act 2000.
 
 (1C) Where an application for a licence is made to the Agency in respect of an activity that involves development or proposed development for which a grant of permission is required but the applicant does not comply with subsection (1B), the Agency shall refuse to consider the application and shall inform the applicant accordingly.
 
-(1D) The Agency, on receipt of an application for a waste licence where an environmental impact statement is required under subsection (1B)(a)(i) shall—
+(1D) The Agency, on receipt of an application for a waste licence where an environmental impact assessment report is required under subsection (1B)(a)(i) shall—
 
 (a) within 2 weeks of the date of receipt of such application notify the planning authority in whose functional area the activity is or will be situate or An Bord Pleanála, as the case may be, that it has received an application to which subsection (1B)(a)(i) applies and request the planning authority or An Bord Pleanála to respond to the Agency within 4 weeks of receipt of the notice and furnish any observations that the planning authority or An Bord Pleanála has in relation to the application for a licence,
 
@@ -54,7 +56,7 @@ Application for a waste licence or review of a waste licence.
 
 (d) ensure that a grant of permission has been made or a decision has been made to refuse a grant of permission for development comprising or for the purposes of the activity to which the application for the licence relates and the period for any appeal under section 37 of the Planning and Development Act 2000 has expired without an appeal being made before giving notice under section 42(2) of the decision it proposes to make in relation to the application for a licence.
 
-(1E) The Agency, on receipt of an application for a waste licence where an environmental impact statement is required under subsection (1B)(b)(i) shall—
+(1E) The Agency, on receipt of an application for a waste licence where an environmental impact assessment report is required under subsection (1B)(b)(i) shall—
 
 (a) within 2 weeks of the date of receipt of such application notify the planning authority in whose functional area the activity is or will be situate or An Bord Pleanála, as the case may be, that it has received an application to which subsection (1B)(b)(i) applies and request the planning authority or An Bord Pleanála to respond to the Agency within 4 weeks of receipt of the notice—
 
@@ -70,11 +72,11 @@ Application for a waste licence or review of a waste licence.
 
 (a) a planning authority concerned or An Bord Pleanála gives notice to the Agency of an application for permission comprising or for the purposes of an activity requiring a waste licence under section 40 or a review, on the application of the holder of the licence, of a waste licence under section 46, and
 
-(b) the application for permission is accompanied by an environmental impact statement or in relation to which an environmental impact statement was sought by the planning authority or An Bord Pleanála, the Agency shall—
+(b) the application for permission is accompanied by an environmental impact assessment report or in relation to which an environmental impact assessment report was sought by the planning authority or An Bord Pleanála, the Agency shall—
 
 (i) satisfy itself that the development or proposed development the subject of the application for permission is development comprising or for the purposes of an activity requiring a licence under section 40 or a review, on the application of the holder of the licence, of a waste licence under section 46,
 
-(ii) forward to the planning authority or An Bord Pleanála, as the case may be, such observations as it has on the application for permission, including the environmental impact statement, and
+(ii) forward to the planning authority or An Bord Pleanála, as the case may be, such observations as it has on the application for permission, including the environmental impact assessment report, and
 
 (iii) enter into such consultations with the planning authority or An Bord Pleanála in relation to the environmental impacts of the proposed development as the Agency, or the planning authority or An Bord Pleanála, as the case may be, considers necessary to enable completion of the assessment.
 
@@ -82,23 +84,23 @@ Application for a waste licence or review of a waste licence.
 
 (b) Where an application for permission relates to development or proposed development comprising or for the purposes of an activity in respect of which a waste licence under this Part is required—
 
-(i) in relation to which a grant of permission is required, which development is of a class prescribed by regulations made under section 176 of the Planning and Development Act 2000 but does not exceed a quantity, area or limit prescribed under those regulations, and
+(i) in relation to which a grant of permission is required, where the development or the proposed development is of a class specified in Part 2 of Schedule 5 to the Planning and Development Regulations 2001 but does not equal or exceed, as the case may be, the relevant quantity, area or other limit specified in that Part, and
 
 (ii) in respect of which, the planning authority concerned or An Bord Pleanála is obliged under the Planning and Development Act 2000 to make a determination whether an environmental impact assessment is required, the Agency shall, when requested by the planning authority concerned or An Bord Pleanála, consult with or provide observations to the planning authority or An Bord Pleanála to assist the planning authority or An Bord Pleanála in its deliberations in relation to the determination referred to in paragraph (ii) and shall accept the determination of the planning authority or An Bord Pleanála so made.
 
-(1H)(a) Where the Agency receives an application for a licence in respect of an activity that involves development or proposed development for which a grant of permission is not required and the Agency, under section 40(2A), decides that an environmental impact assessment is required in relation to the activity concerned, the Agency shall request the applicant to submit an environmental impact statement and where the applicant fails to submit such statement within the period specified in the request, or any additional period as may be specified by the Agency, the application for a licence shall be deemed to be withdrawn.
+(1H)(a) Where the Agency receives an application for a licence in respect of an activity that involves development or proposed development for which a grant of permission is not required and the Agency, under section 40(2A), decides that an environmental impact assessment is required in relation to the activity concerned, the Agency shall request the applicant to submit an environmental impact assessment report and where the applicant fails to submit such report within the period specified in the request, or any additional period as may be specified by the Agency, the application for a licence shall be deemed to be withdrawn.
 
-(b) Where an environmental impact statement is submitted to the Agency in accordance with a request under paragraph (a), the application for a licence shall be deemed to be made on the date of receipt by the Agency of the environmental impact statement.
+(b) Where an environmental impact assessment report is submitted to the Agency in accordance with a request under paragraph (a), the application for a licence shall be deemed to be made on the date of receipt by the Agency of the environmental impact assessment report.
 
-(c) Where an environmental impact statement is submitted to the Agency in accordance with a request under paragraph (a), the Agency shall do the following—
+(c) Where an environmental impact assessment report is submitted to the Agency in accordance with a request under paragraph (a), the Agency shall do the following—
 
-(i) within 2 weeks of the date of receipt of such statement notify the planning authority in whose functional area the activity is or will be situate that it has received an application to which this subsection applies and request the planning authority concerned to respond to the Agency within 4 weeks of the date of the notice and furnish any observations that the planning authority has in relation to the application including the environmental impact statement,
+(i) within 2 weeks of the date of receipt of such report notify the planning authority in whose functional area the activity is or will be situate that it has received an application to which this subsection applies and request the planning authority concerned to respond to the Agency within 4 weeks of the date of the notice and furnish any observations that the planning authority has in relation to the application including the environmental impact assessment report,
 
 (ii) consider any observations furnished to the Agency following a request under subparagraph (i) by the planning authority before giving notice under section 42(2) of the decision it proposes to make in relation to the application for a licence, and
 
 (iii) enter into consultations, as the Agency considers appropriate, with the planning authority in relation to any environmental impacts of the proposed activity to which the application for a licence relates.
 
-(d) For the purposes of this subsection, section 5, insofar as it refers to the definition of “environmental impact statement”, shall be read as if “activity” were substituted for “development” and with any other necessary modifications.
+(d) ...
 
 (1I)(a) This subsection applies—
 
@@ -108,23 +110,23 @@ Application for a waste licence or review of a waste licence.
 
 (iii) where the Agency has not made a decision under section 40(1) or section 46(2), including an application for a licence, within the meaning of subsection (1A), to which section 40(2A) applies.
 
-(b) Where the Agency is considering an application for a licence to which this subsection applies and the Agency under section 40(2A)(c)(ii) determines that an environmental impact assessment is required in relation to the activity concerned, the Agency shall, if an environmental impact statement was not submitted with the application for a licence, request the applicant to submit an environmental impact statement and where the applicant fails to submit such statement within the period specified in the request, or any additional period as may be specified by the Agency, the application for a licence shall be deemed to be withdrawn.
+(b) Where the Agency is considering an application for a licence to which this subsection applies and the Agency under section 40(2A)(c)(ii) determines that an environmental impact assessment is required in relation to the activity concerned, the Agency shall, if an environmental impact assessment report was not submitted with the application for a licence, request the applicant to submit an environmental impact assessment report and where the applicant fails to submit such report within the period specified in the request, or any additional period as may be specified by the Agency, the application for a licence shall be deemed to be withdrawn.
 
-(c) Where an environmental impact statement is submitted to the Agency in accordance with a request under paragraph (b)—
+(c) Where an environmental impact assessment report is submitted to the Agency in accordance with a request under paragraph (b)—
 
-(i) the Agency shall consider the content of the environmental impact statement and any other material including maps or plans submitted as part of the application for a licence and determine whether that content adequately identifies, describes and assesses the direct and indirect effects of the proposed development on the environment, and
+(i) the Agency shall consider the content of the environmental impact assessment report and any other material including maps or plans submitted as part of the application for a licence and determine whether that content adequately identifies, describes and assesses the direct and indirect effects of the proposed development on the environment, and
 
-(ii) if the Agency determines that the environmental impact statement and other material does not so adequately identify, describe or assess, the Agency shall give notice in writing to the applicant for the licence requesting further information, which notice shall—
+(ii) if the Agency determines that the environmental impact assessment report and other material does not so adequately identify, describe or assess, the Agency shall give notice in writing to the applicant for the licence requesting further information, which notice shall—
 
-(I) identify the manner in which the content of the environmental impact statement and other material is inadequate, and
+(I) identify the manner in which the content of the environmental impact assessment report and other material is inadequate, and
 
 (II) require the applicant for the licence to furnish, within the period specified in the notice, to the Agency, additional information required to correct the inadequacy so identified.
 
 (d) Where the applicant concerned fails to comply with a requirement under paragraph (c), the Agency may, as it considers it appropriate having regard to the extent of the failure, inform the applicant, by notice in writing, of such failure and that the application for a licence cannot be considered by the Agency.
 
-(e) Where an environmental impact statement is submitted to the Agency in accordance with a request under paragraph (b) and having complied with the requirements under paragraph (c), the Agency shall do the following—
+(e) Where an environmental impact assessment report is submitted to the Agency in accordance with a request under paragraph (b) and having complied with the requirements under paragraph (c), the Agency shall do the following—
 
-(i) within 2 weeks of the date of receipt of such statement notify the planning authority in whose functional area the activity is or will be situate that it has received an application to which this subsection applies and request the planning authority concerned to respond to the Agency within 4 weeks of the receipt of the notice and furnish any observations that the planning authority has in relation to the application for a licence including the environmental impact statement,
+(i) within 2 weeks of the date of receipt of such report notify the planning authority in whose functional area the activity is or will be situate that it has received an application to which this subsection applies and request the planning authority concerned to respond to the Agency within 4 weeks of the receipt of the notice and furnish any observations that the planning authority has in relation to the application for a licence including the environmental impact assessment report,
 
 (ii) consider any observations furnished to the Agency following a request under subparagraph (i) by the planning authority before making its decision under section 40(1) or section 46(2) in relation to the application for a licence, and
 
@@ -140,7 +142,7 @@ Application for a waste licence or review of a waste licence.
 
 (c) where relevant, the local authority in whose functional area the activity, the subject matter of the proposed waste licence or the waste licence, as the case may be, is intended to be, or is, carried on, and
 
-(d) such other persons as may be prescribed, of the decision it proposes to make in respect of the application or in consequence of the review and, where the decision so notified is a decision to grant a waste licence or a revised waste licence, shall specify where a copy of the proposed licence or revised licence may be obtained.
+(d) such other persons as may be prescribed, of the decision it proposes to make in respect of the application or in consequence of the review and the Agency shall publish that decision on its website.
 
 (3) Any person may, subject to compliance with the requirements of any regulations under sections 45 and 50, and at any time before the expiration of the appropriate period, make an objection to the Agency in relation to a decision referred to in subsection (2) that it proposes to make.
 
@@ -200,22 +202,24 @@ Application for a waste licence or review of a waste licence.
 
 (a) in relation to an application for a waste licence under section 40, a decision to grant or refuse a waste licence has been taken, or
 
-(b) a decision is made in consequence of a review on an application of the holder of the licence, of a waste licence under section 46, the Agency, in accordance with regulations under section 45, shall inform the persons referred to in or prescribed under subsection (2), including the public, of its decision and shall make available the following information:
+(b) a decision is made in consequence of a review on an application of the holder of the licence, of a waste licence under section 46, the Agency, in accordance with regulations under section 45, shall inform the persons referred to in or prescribed under subsection (2), including the public, of its decision and shall make the following information available on its website:
 
-(i) the content of the decision and any conditions attached thereto;
+(i) the decision and, where the application was subject to an environmental impact assessment by the Agency, the reasoned conclusion on the significant effects of the activity on the environment, taking into account the results of the Agency’s examination of the environmental impact assessment report, and where appropriate, its own supplementary examination;
 
-(ii) an evaluation, subject to section 40(2A), of the projects direct and indirect effects of the activity or proposed activity on the factors referred to in paragraphs (i) to (iii) of the definition of environmental impact assessment in section 40(2A)(a) and the interaction between those factors;
+(ii) any environmental conditions attached to the decision, including conditions regarding monitoring measures, parameters to be monitored and the duration of the monitoring;
 
-(iii) having examined any submission or observation made to the Agency—
+(iii) a description of the features, if any, of the activity and the measures, if any, envisaged to avoid, prevent, reduce or offset the significant adverse effects of the activity on the environment;
 
-(I) the main reasons and considerations on which the decision is based, and
+(iv) the main reasons and considerations on which the decision is based, including—
 
-(II) the main reasons and considerations for the attachment of any conditions, including reasons and considerations arising from or related to submissions or observations made by a member of the public;
+(I) information about the public participation process,
 
-(iv) a description, where necessary, of the main measures to be taken to avoid, reduce and, if possible, offset the major adverse effects of the activity or proposed activity;
+(II) a summary of the results of consultations and information gathered from the environmental impact assessment report (where applicable), written submissions made in accordance with regulations under section 45, or objections made to the Agency under section 42(3), and
 
-(v) any reports referred to in section 40(2A)(g);
+(III) a description of how the results referred to in clause (II) have been incorporated or otherwise addressed by the Agency;
 
-(vi) information on the procedures available to the persons referred to in or prescribed under subsection (2), including the public, to review the substantive and procedural legality of the decision.
+(v) information on the procedures available to the persons referred to in or prescribed under subsection (2), including the public, to review the substantive and procedural legality of the decision.
 
-(12) In this section “the appropriate period” means the period of 28 days beginning on the day on which notification is sent under subsection (2) in respect of the matter concerned.
+(11AA) Where applicable, the Agency shall be satisfied that the reasoned conclusion referred to in subsection (11A)(b)(i) remains up-to-date when making its decision under this subsection.
+
+(12) In this section “the appropriate period” means the period of 30 days beginning on the day on which notification is sent under subsection (2) in respect of the matter concerned.

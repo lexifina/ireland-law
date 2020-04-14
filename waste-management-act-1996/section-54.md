@@ -36,15 +36,17 @@ Application of the Act of 1963 and related regulations.
 
 (6) References in sections 25, 26 and 41 of the Act of 1963 to an activity in relation to which a licence under Part IV of the Act of 1992 is required shall be construed as including references to an activity in relation to which a waste licence under this Act is required.
 
-(7) (a) Where development is proposed to be carried out by or on behalf of a local authority in its functional area, being development which comprises or is for the purposes of a waste recovery or disposal activity requiring the grant by the Agency to the local authority of a waste licence, the Minister may by order grant an exemption (if he or she is satisfied that exceptional circumstances warrant the granting of such an exemption) in respect of such development from a requirement of regulations under section 45 to furnish an environmental impact statement.
+(7) (a) In exceptional cases, the Minister may, by order, exempt an application for a waste licence, within the meaning of section 40(2A), made by or on behalf of a local authority in its functional area from a requirement to prepare an environmental impact assessment report, where such a report would adversely affect the purpose of the proposed activity.
 
-(b) The Minister in making an order under this subsection shall comply with the provisions of Article 2 (3) of Council Directive 85/337/EEC of 27 June, 1985.
+(b) The Minister, in making an order under this subsection, shall ensure that the objectives of the EIA Directive are met and the Minister shall comply with Article 2(4) of the EIA Directive.
 
-(c) Without prejudice to paragraph (b), the Minister shall, where he or she considers it necessary to do so for the purpose of paragraph 3 (a) of Article 2 of the aforesaid Directive, specify in an order under this subsection requirements to be complied with by the local authority concerned or, as the case may be, the person who proposes to carry out the development on its behalf in relation to the matters specified in the said paragraph.
+(c) Without prejudice to paragraph (b), the Minister shall, where he or she considers it necessary to do so for the purpose of paragraph 4 of Article 2 of the aforesaid Directive, specify in an order under this subsection requirements to be complied with by the local authority concerned or, as the case may be, the person who proposes to carry out the development on its behalf in relation to the matters specified in the said paragraph.
 
-(d) The Minister shall cause an order under this subsection to be published in the Iris Oifigiúil.
+(d) The Minister shall cause an order under this subsection to be published on the website of the Department of Communications, Climate Action and Environment and in the Iris Oifigiúil.
 
 (e) The reference in this subsection to a local authority's functional area is a reference to its functional area in its capacity as a planning authority.
+
+(f) The Minister shall, every 2 years, inform the Commission of the European Union of any orders made under this subsection.
 
 (8) The Minister may make regulations specifying the time within which an application for a waste licence shall be made relative to an application for a permission under Part IV of the Act of 1963.
 

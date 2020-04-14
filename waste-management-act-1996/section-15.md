@@ -8,6 +8,8 @@ Monitoring and inspection.
 
 (iii) The authorities referred to in subparagraph (i) may take account of registrations obtained under the Community Eco-Management and Audit Scheme (in this Act referred to as ‘EMAS’), in particular regarding the frequency and intensity of inspections.
 
+(1A) Each local authority and the Agency shall carry out, or cause to be carried out, such monitoring of compliance with environmental conditions attached to a waste licence under section 41(2A) or section 41(2B) as it considers to be necessary having regard to the nature, location and size of the activity and the significance of its effects on the environment.
+
 (2)(a) The persons referred to in section 39(1), the producers of hazardous waste and the establishments and undertakings which collect or transport hazardous waste on a professional basis, or act as dealers and brokers of hazardous waste, shall keep a chronological record of the quantity, nature and origin of the waste, and, where relevant, the destination, frequency of collection, mode of transport and treatment method foreseen in respect of the waste, and shall make that information available, on request, to the local authorities, the Agency or Dublin City Council, as appropriate.
 
 (b) For hazardous waste, the records shall be preserved for at least 3 years (except in the case of establishments and undertakings transporting hazardous waste which shall keep such records for at least 12 months).

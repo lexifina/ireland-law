@@ -12,11 +12,11 @@ Grant of waste licences.
 
 (i) any relevant air quality management plan under section 46 of the Act of 1987, or water quality management plan under section 15 of the Local Government (Water Pollution) Act, 1977, or waste management plan or hazardous waste management plan under Part II,
 
-(ii) (I) the particulars submitted with the application including the environmental impact statement (if any) submitted under and in accordance with a requirement of, or made pursuant to regulations under, section 45 and any other material including maps and plans,
+(ii) (I) the particulars submitted with the application including the environmental impact assessment report (if any) submitted under and in accordance with this Part, or with a requirement of, or made pursuant to regulations under, section 45 and any other material including maps and plans,
 
-(II) any submissions or observations made to the Agency in relation to the environmental impact statement,
+(II) any submissions or observations made to the Agency in relation to the environmental impact assessment report,
 
-(III) such supplementary information (if any) relating to such statement as may have been furnished to the Agency by the applicant or licence holder under and in accordance with a requirement of, or made pursuant to, regulations under section 45,
+(III) such supplementary information (if any) relating to such report as may have been furnished to the Agency by the applicant or licence holder under and in accordance with this Part, or with a requirement of, or made pursuant to, regulations under section 45,
 
 (IV) where appropriate, the views of other Member States of the European Communities in relation to the effects on the environment of the proposed activity,
 
@@ -34,43 +34,87 @@ Grant of waste licences.
 
 (ii) by the holder of the waste licence for a review under section 46 of the waste licence;
 
-“environmental impact assessment” means an assessment, to include an examination, analysis and evaluation, carried out by the Agency in accordance with this section that shall identify, describe and assess in an appropriate manner, in light of each individual case and in accordance with Articles 4 to 11 of Directive No. 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment, the direct and indirect effects of a proposed development on the following:
+‘environmental impact assessment’ in relation to an application for a waste licence, means a process in respect of the proposed activity—
 
-(i) human beings, flora and fauna;
+(i) consisting of—
 
-(ii) soil, water, air, climate and the landscape;
+(I) the preparation of an environmental impact assessment report in accordance with section 40(2A)(d),
 
-(iii) material assets and the cultural heritage;
+(II) the carrying out of consultation with the public, public authorities and where applicable, another Member State,
 
-(iv) the interaction between the factors referred to in paragraphs (i), (ii) and (iii).
+(III) the examination by the Agency of the information presented in the environmental impact assessment report, any supplementary information provided by the applicant in accordance with section 40(2A)(e) and any relevant information received in written submissions made in accordance with regulations under section 45, or objections made to the Agency under section 42(3),
+
+(IV) the reaching by the Agency of a reasoned conclusion on the significant effects of the proposed activity on the environment, and
+
+(V) the integration by the Agency of its reasoned conclusion into its decision under section 42(11A), and
+
+(ii) including an examination by the Agency to identify, describe and assess the direct and indirect significant effects of the proposed activity, including the expected effects derived from the vulnerability of the activity to risks of major accidents and disasters relevant to it, on—
+
+(I) population and human health,
+
+(II) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992 and Directive 2009/147/EC of the European Parliament and of the Council of 30 November 20094,
+
+(III) land, soil, water, air and climate,
+
+(IV) material assets, cultural heritage and the landscape, and
+
+(V) the interaction between the factors mentioned in clauses (I) to (IV);
+
+‘environmental impact assessment report’ means a report prepared by competent experts which contains the following information:
+
+(i) a description of the proposed activity comprising information on the site, design, size and other relevant features of the activity;
+
+(ii) a description of the likely significant effects of the proposed activity on the environment;
+
+(iii) a description of any features of the proposed activity and of any measures envisaged in order to avoid, prevent or reduce and if possible, offset likely significant adverse effects on the environment;
+
+(iv) a description of the reasonable alternatives studied by the applicant which are relevant to the proposed activity and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the proposed activity on the environment;
+
+(v) any additional information specified in paragraph 2 of Schedule 6 to the Planning and Development Regulations 2001 (S.I. No. 600 of 2001) that is relevant to the specific characteristics of the proposed activity and to the environmental features likely to be affected;
+
+(vi) a non-technical summary of the information referred to in subparagraphs (i) to (v);
+
+(vii) a reference list detailing the sources used for the descriptions and assessments included in the report.
+
+(aa) In carrying out an environmental impact assessment under this subsection, the Agency shall, where appropriate, coordinate the assessment with any assessment of the proposed activity under Council Directive
+
+3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
+
+92/43/EEC of 21 May 1992 or Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009.
 
 (b) The Agency as part of its consideration of an application for a waste licence shall ensure before a waste licence is granted, and where the activity to which such waste licence relates is likely to have significant effects on the environment by virtue, inter alia, of its nature, size or location, that, in accordance with this subsection and section 42(1A) to (1I), the application is made subject to an environmental impact assessment as respects the matters that come within the functions of the Agency including the functions conferred on the Agency by or under this Act.
 
-(c) Subject to paragraph (b) and section 42(1A) to (1I), an environmental impact assessment shall be carried out by the Agency in respect of an application for a waste licence relating to an activity, where development comprising or for the purpose of the activity is:
+(c) Subject to paragraph (b) and section 42(1A) to (1l), an environmental impact assessment shall be carried out by the Agency in respect of an application for a waste licence relating to an activity, where development comprising or for the purpose of the activity is:
 
-(i) development of a class prescribed by regulations under section 176 of the Planning and Development Act 2000 that exceeds a quantity, area or other limit prescribed by those regulations, or
+(i) of a class specified in Part 1 or Part 2 of Schedule 5 to the Planning and Development Regulations, 2001 and either—
 
-(ii) development of a class prescribed by regulations under section 176 of the Planning and Development Act Act 2000 that does not exceed a quantity, area or other limit prescribed under those regulations but that the Agency determines would be likely to have significant effects on the environment.
+(I) such development would equal or exceed, as the case may be, any relevant quantity, area or other limit specified in Part 1 or Part 2, or
 
-(d) Subject to section 42(1A) to (1I) an applicant for a waste licence shall submit an environmental impact statement with the application for the waste licence made to the Agency—
+(II) no quantity, area or other limit is specified in that Part in respect of the development concerned, or
 
-(i) where the application for a waste licence concerned is in respect of an activity relating to development or proposed development referred to in paragraph (c)(i), or
+(ii) of a class specified in Part 2 of Schedule 5 to the Planning and Development Regulations 2001 but does not equal or exceed, as the case may be, the relevant quantity, area or other limit specified in that Part and the Agency, in exercise of the powers conferred on it by regulations under section 45, determines that the proposed activity is likely to have significant effects on the environment.
 
-(ii) where the Agency determines that the application for a waste licence concerned is in respect of an activity relating to development or proposed development referred to in paragraph (c)(ii) that would be likely to have significant effects on the environment.
+(d) Subject to section 42(1A) to (1l), an applicant for a waste licence shall submit an environmental impact assessment report to the Agency in respect of an application that is subject to an environmental impact assessment under paragraph (c) and where applicable, such report shall—
 
-(e) The Agency shall request the production by the applicant of any additional or supplemental information that it considers necessary to enable it to carry out an environmental impact assessment as required under this section.
+(i) with a view to avoiding duplication of assessments, take into account the available results of other relevant assessments of the effects on the environment carried out pursuant to European Union legislation, and
+
+(ii) be based on an opinion issued by the Agency in accordance with regulations under section 45.
+
+(e) The Agency shall request the production by the applicant of any additional or supplemental information , including information specified in paragraph 2 of Schedule 6 to the Planning and Development Regulations 2001, that it considers necessary to enable it to carry out an environmental impact assessment as required under this section.
 
 (f) In relation to an application for a waste licence to which paragraph (d) refers—
 
-(i) the Agency shall consider the content of the environmental impact statement and any other material including maps or plans submitted as part of the application for a waste licence and determine whether that content adequately identifies, describes, and assesses the direct and indirect effects of the proposed development, and
+(i) the Agency shall consider the content of the environmental impact assessment report and any other material including maps or plans submitted as part of the application for a waste licence and determine whether that content adequately identifies, describes, and assesses the direct and indirect effects of the proposed development, and
 
-(ii) if the Agency determines that the environmental impact statement and other material does not so adequately identify, describe or assess, the Agency shall give notice in writing to the applicant for the licence requesting further information, which notice shall—
+3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
 
-(I) identify the manner in which the content of the environmental impact statement and other material is inadequate, and
+(ii) if the Agency determines that the environmental impact assessment report and other material does not so adequately identify, describe or assess, the Agency shall give notice in writing to the applicant for the licence requesting further information, which notice shall—
+
+(I) identify the manner in which the content of the environmental impact assessment report and other material is inadequate, and
 
 (II) require the applicant for the licence to furnish to the Agency additional information required to correct the inadequacy so identified.
 
-(g) In carrying out its consideration of an application for a waste licence and in carrying out an environmental impact assessment the Agency may have regard to, and adopt in whole or in part, any reports prepared by its officials or by consultants, experts or other advisors.
+(g) In carrying out its consideration of an application for a waste licence and in carrying out an environmental impact assessment , the Agency shall ensure that it has, or has access as necessary to, sufficient expertise to examine the environmental impact assessment report, and the Agency may have regard to, and adopt in whole or in part, any reports prepared by its officials or by consultants, experts or other advisors.
 
 (3) ...
 
