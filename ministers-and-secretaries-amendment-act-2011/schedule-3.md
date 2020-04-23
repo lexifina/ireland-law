@@ -12,6 +12,4 @@ No. 39 of 1961 Courts (Supplemental Provisions) Act Section 46(4) 1961
 
 No. 23 of 1991 Courts (Supplemental Provisions) Section 11 (Amendment) Act 1991
 
-No. 8 of 1993 Comptroller and Auditor General Sections 14(3) and 15(5) (Amendment) Act 1993
-
-No. 25 of 1999 Courts (Supplemental Provisions) Section 3 (Amendment) Act 1999
+No. 8 of 1993 Comptroller and Auditor General Sections 14(3) and 15(5) (Amendment) Act 1993 No. 25 of 1999 Courts (Supplemental Provisions) Section 3 (Amendment) Act 1999

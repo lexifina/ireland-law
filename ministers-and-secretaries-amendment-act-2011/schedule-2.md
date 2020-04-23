@@ -26,9 +26,7 @@ No. 31 of 1945 National Stud Act 1945 Section 24
 
 No. 9 of 1946 Harbours Act 1946 Section 120
 
-No. 35 of 1947 Minerals Company Act 1947 Section 3
-
-No. 12 of 1950 Transport Act 1950 Section 29(5)
+No. 35 of 1947 Minerals Company Act 1947 Section 3 No. 12 of 1950 Transport Act 1950 Section 29(5)
 
 No. 28 of 1951 Grain Storage (Loans) Act 1951 Sections 4 and 5
 
@@ -40,7 +38,9 @@ No. 10 of 1957 Turf Development Act 1957 Sections 1 and 11
 
 No. 12 of 1958 Greyhound Industry Act 1958 Section 17
 
-No. 30 of 1964 Transport Act 1964 Section 5 No. 22 of 1969 Grass Meal (Production) (Amendment) Act Section 2 1969
+No. 30 of 1964 Transport Act 1964 Section 5
+
+No. 22 of 1969 Grass Meal (Production) (Amendment) Act Section 2 1969
 
 No. 30 of 1976 Gas Act 1976 Sections 8A, 23 and 24
 
@@ -100,9 +100,7 @@ No. 37 of 1997 Merchant Shipping (Commissioners of Irish Section 6A Lights) Act 
 
 No. 21 of 1998 Employment Equality Act 1998 Section 55(2)
 
-No. 24 of 1998 Air Navigation and Transport (Amendment) Sections 13 and 22(3)(g) Act 1998
-
-No. 26 of 1998 Turf Development Act 1998 Section 22
+No. 24 of 1998 Air Navigation and Transport (Amendment) Sections 13 and 22(3)(g) Act 1998 No. 26 of 1998 Turf Development Act 1998 Section 22
 
 No. 29 of 1998 Food Safety Authority of Ireland Act 1998 Section 23
 
@@ -114,7 +112,9 @@ No. 1 of 2000 Comhairle Act 2000 Section 21
 
 No. 1 of 2001 Aviation Regulation Act 2001 Section 25
 
-No. 8 of 2001 Teaching Council Act 2001 Section 20 No. 25 of 2001 Mental Health Act 2001 Section 41
+No. 8 of 2001 Teaching Council Act 2001 Section 20
+
+No. 25 of 2001 Mental Health Act 2001 Section 41
 
 No. 34 of 2001 Adventure Activities Standards Authority Act Section 29 2001
 
