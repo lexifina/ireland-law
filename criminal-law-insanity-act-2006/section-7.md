@@ -8,4 +8,4 @@ Appeals (fitness to be tried).
 
 (4) Where an order is made pursuant to subsection (2) or (3) directing the accused be tried or retried, as the case may be, for the offence alleged, the accused may be tried or retried for an offence other than the offence alleged in respect of which he or she was found unfit to be tried being an offence of which he or she might be found guilty on a charge for the offence alleged.
 
-(5) ...
+(5) [...]

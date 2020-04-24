@@ -18,19 +18,19 @@ Fitness to be tried.
 
 (3) (a) Where an accused person is before the District Court (in this section referred to as “the Court”) charged with a summary offence, or with an indictable offence which is being or is to be tried summarily, any question as to whether or not the accused is fit to be tried shall be determined by the Court.
 
-(aa) In a case to which paragraph (a) relates, the Court may request evidence of an approved medical officer to be adduced before it in respect of the accused person for the purposes of—
+[(aa) In a case to which paragraph (a) relates, the Court may request evidence of an approved medical officer to be adduced before it in respect of the accused person for the purposes of—
 
 (i) determining whether to adjourn the proceedings until further order to facilitate the accused person in accessing any care or treatment necessary for the welfare of the person,
 
 (ii) making a determination as to whether or not the accused person is fit to be tried, or
 
-(iii) exercising a power referred to in subsection (6)(a).
+(iii) exercising a power referred to in subsection (6)(a). ]
 
 (b) Subject to subsections (7)and(8), in a case to which paragraph (a) relates, the Court determines that an accused person is unfit to be tried, that Court shall adjourn the proceedings until further order, and may—
 
-(i) if it is satisfied, having considered the evidence of an approved medical officer adduced pursuant to subsection (6)(b) and any other evidence that may be adduced before it that the accused person is suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre, commit him or her to a specified designated centre until an order is made under section 13 or 13A, or
+(i) if it is satisfied, having considered the evidence of an approved medical officer adduced pursuant to [subsection (6)(b)] and any other evidence that may be adduced before it that the accused person is suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre, commit him or her to a specified designated centre until an order is made under section 13 [or 13A], or
 
-(ii) if it is satisfied, having considered the evidence of an approved medical officer adduced pursuant to subsection (6)(b) and any other evidence that may be adduced before it that the accused person is suffering from a mental disorder or from a mental disorder (within the meaning of the Act of 2001) and is in need of out-patient care or treatment in a designated centre, make such order as it thinks proper in relation to the accused person for out-patient treatment in a designated centre.
+(ii) if it is satisfied, having considered the evidence of an approved medical officer adduced pursuant to [subsection (6)(b)] and any other evidence that may be adduced before it that the accused person is suffering from a mental disorder or from a mental disorder (within the meaning of the Act of 2001) and is in need of out-patient care or treatment in a designated centre, make such order as it thinks proper in relation to the accused person for out-patient treatment in a designated centre.
 
 (c) Where in a case to which paragraph (a) relates, the Court determines that the accused person is fit to be tried the proceedings shall continue.
 
@@ -48,23 +48,23 @@ Fitness to be tried.
 
 (b) The question of whether the accused person is fit to be tried shall be determined by the judge concerned sitting alone.
 
-(bb) In a case to which paragraph (a) relates, the court may request evidence of an approved medical officer to be adduced before it in respect of the accused person for the purposes of—
+[(bb) In a case to which paragraph (a) relates, the court may request evidence of an approved medical officer to be adduced before it in respect of the accused person for the purposes of—
 
 (i) determining whether to adjourn the proceedings until further order to facilitate the accused person in accessing any care or treatment necessary for the welfare of the person,
 
 (ii) making a determination as to whether or not the accused person is fit to be tried, or
 
-(iii) exercising a power referred to in subsection (6)(a).
+(iii) exercising a power referred to in subsection (6)(a). ]
 
 (c) Subject to subsections (7) and (8), if the judge determines that the accused person is unfit to be tried, he or she shall adjourn the proceedings until further order, and may—
 
-(i) if he or she is satisfied, having considered the evidence of an approved medical officer adduced pursuant to subsection (6)(b) and any other evidence that may be adduced before him or her that the accused person is suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre, commit him or her to a specified designated centre until an order is made under section 13or 13A, or
+(i) if he or she is satisfied, having considered the evidence of an approved medical officer adduced pursuant to [subsection (6)(b)] and any other evidence that may be adduced before him or her that the accused person is suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre, commit him or her to a specified designated centre until an order is made under section 13[or 13A], or
 
-(ii) if he or she is satisfied, having considered the evidence of an approved medical officer adduced pursuant to subsection (6)(b) and any other evidence that may be adduced before him or her that the accused person is suffering from a mental disorder or from a mental disorder (within the meaning of the Act of 2001) and is in need of out-patient care or treatment in a designated centre, make such order as he or she thinks proper in relation to the accused person for out-patient treatment in a designated centre.
+(ii) if he or she is satisfied, having considered the evidence of an approved medical officer adduced pursuant to [subsection (6)(b)] and any other evidence that may be adduced before him or her that the accused person is suffering from a mental disorder or from a mental disorder (within the meaning of the Act of 2001) and is in need of out-patient care or treatment in a designated centre, make such order as he or she thinks proper in relation to the accused person for out-patient treatment in a designated centre.
 
 (d) Where the court determines that the accused person is fit to be tried the proceedings shall continue.
 
-(6) (a) For the purposes of determining whether or not to exercise a power under subsection (3)(b)(i) or (ii) or subsection (5)(c)(i) or (ii), the court, having considered the evidence of an approved medical officer adduced before it in respect of the accused person—
+[(6) (a) For the purposes of determining whether or not to exercise a power under subsection (3)(b)(i) or (ii) or subsection (5)(c)(i) or (ii), the court, having considered the evidence of an approved medical officer adduced before it in respect of the accused person—
 
 (i) may for that purpose—
 
@@ -78,7 +78,7 @@ Fitness to be tried.
 
 (i) suffering from a mental disorder (within the meaning of the Act of 2001) and is in need of in-patient care or treatment in a designated centre, or
 
-(ii) suffering from a mental disorder or a mental disorder (within the meaning of the Act of 2001) and is in need of out-patient care or treatment in a designated centre.
+(ii) suffering from a mental disorder or a mental disorder (within the meaning of the Act of 2001) and is in need of out-patient care or treatment in a designated centre. ]
 
 (7) Where on the trial of an accused person the question arises as to whether or not the person is fit to be tried and the court considers that it is expedient and in the interests of the accused so to do, it may defer consideration of the question until any time before the opening of the case for the defence and if, before the question falls to be determined, the jury by the direction of the court or the court, as the case may be, return a verdict in favour of the accused or find the accused person not guilty, as the case may be, on the count or each of the counts on which the accused is being tried the question shall not be determined and the person shall be acquitted.
 

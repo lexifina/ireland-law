@@ -4,7 +4,7 @@ MENTAL HEALTH (CRIMINAL LAW) REVIEW BOARD
 
 1. The Review Board shall consist of a chairperson and such number of members as the Minister, after consultation with the Minister for Health and Children, may from time to time as the occasion requires appoint. The Review Board shall have as an ordinary member, at least one approved medical officer.
 
-2. The chairperson shall have had not less than 10 years’ experience as a practising barrister or practising solicitor ending immediately before his or her appointment or shall be a judge of or former judge of the Circuit Court, High Court , Court of Appeal or Supreme Court.
+2. The chairperson shall have had not less than 10 years’ experience as a practising barrister or practising solicitor ending immediately before his or her appointment or shall be a judge of or former judge of the Circuit Court, High Court [, Court of Appeal] or Supreme Court.
 
 3. The members of the Review Board shall, subject to the provisions of this Schedule, hold office upon such terms and conditions as the Minister may determine.
 

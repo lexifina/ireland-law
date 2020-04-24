@@ -24,7 +24,7 @@ Interpretation.
 
 “Minister” means the Minister for Justice, Equality and Law Reform;
 
-“patient”, in sections 12, 13, 13A, 13B and 14, means a person detained in a designated centre pursuant to this Act;
+“patient”, in sections 12, [13, 13A, 13B] and 14, means a person detained in a designated centre pursuant to this Act;
 
 “prison” means a place of custody administered by the Minister;
 
