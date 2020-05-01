@@ -64,9 +64,9 @@ New sections 9A to 9I of Act of 1990.
 
 (f) types of merchandise, and having regard to their use for, as the case may be, the manufacture, repair, testing or sale of imitation firearms.
 
-(10) Applicants for registration or renewal shall satisfy the Minister that their premises comply with the minimum standards specified in any regulations under subsection (8)of this section.
+(10) Applicants for registration or renewal shall satisfy the Minister that their premises comply with the minimum standards specified in any regulations under subsection (8) of this section.
 
-(11) Without prejudice to subsection (2)of this section, the following persons are declared to be disentitled to be registered in the register of dealers in realistic imitation firearms:
+(11) Without prejudice to subsection (2) of this section, the following persons are declared to be disentitled to be registered in the register of dealers in realistic imitation firearms:
 
 (a) a person under the age of 21 years;
 
