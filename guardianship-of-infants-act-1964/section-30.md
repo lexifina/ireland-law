@@ -1,4 +1,4 @@
-F94[Jurisdiction.
+F93[Jurisdiction.
 
 30.—(1) Subject to subsection (2), the jurisdiction conferred on a court by this Part may be exercised by the Circuit Court or the District Court.
 

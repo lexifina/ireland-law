@@ -1,4 +1,4 @@
-F83[Adjournment of proceedings to assist agreement on custody or guardianship of or access to child.
+F82[Adjournment of proceedings to assist agreement on custody or guardianship of or access to child.
 
 22.—(1) Where, in proceedings under section 6A, 11 or 11B it appears to the court that agreement between the parties on the subject matter of the proceedings may be effected, it may adjourn or further adjourn the proceedings for the purpose of enabling attempts to be made by the parties, if they wish, to reach agreement, with or without the assistance of a third party, on some or all of the issues which are in dispute.
 

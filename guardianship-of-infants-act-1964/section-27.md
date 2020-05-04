@@ -1,4 +1,4 @@
-F89[Power to proceed in absence of child.
+F88[Power to proceed in absence of child.
 
 27.—(1) It shall not be necessary in proceedings under section section 6A, 6C, 6E, 11, 11B or 11E for the child to whom the proceedings relate to be brought before the court or to be present for all or any part of the hearing unless the court, either of its own motion or at the request of any of the parties to the proceedings, is satisfied that it is necessary for the proper disposal of the proceedings.
 

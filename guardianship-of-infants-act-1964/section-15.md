@@ -1,4 +1,4 @@
-F59[Power of Court to order repayment of costs of bringing up child.
+F58[Power of Court to order repayment of costs of bringing up child.
 
 15.—(1) Where, upon application by a parent for the production of a child, the court finds that the child is being brought up at the expense of another person, the court may, in its discretion, if it orders that the child be given up to the parent, further order that the parent shall pay to that person the whole of the costs properly incurred by the person in bringing up the child or such portion of those costs as the court considers reasonable.
 

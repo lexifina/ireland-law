@@ -1,6 +1,6 @@
 ## Part V BEST INTERESTS OF THE CHILD
 
-F96[Determination by court of best interests of child
+F95[Determination by court of best interests of child
 
 31. (1) In determining for the purposes of this Act what is in the best interests of a child, the court shall have regard to all of the factors or circumstances that it regards as relevant to the child concerned and his or her family.
 
