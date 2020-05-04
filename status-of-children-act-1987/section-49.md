@@ -40,9 +40,9 @@ Amendment of Births and Deaths Registration Act (Ireland), 1880.
 
 (5) Where a person acknowledging himself to be the father of a child (being a child to whom subsection (1) of this section relates) makes a request to the registrar in accordance with subsection (2) (c) or (2) (d) of this section, he shall be treated as a qualified informant concerning the birth of the child for the purposes of this Act.
 
-Re-registra-
+Re-registration
 
-7A.—(1) Where the birth of a child (being a child whose parents were not tion of married to each other at the date of his birth or at any time during the period birth so as of ten months before his birth) has been registered under this Act, but no person to show has been registered as the child’s father, the registrar shall re-register the birth who is father. so as to show the name of a person as father—
+7A.—(1) Where the birth of a child (being a child whose parents were not of birth so married to each other at the date of his birth or at any time during the period as to show of ten months before his birth) has been registered under this Act, but no person who is has been registered as the child’s father, the registrar shall re-register the birth father. so as to show the name of a person as father—
 
 (a) at the joint request of the mother and that person (being a person who acknowledges himself to be the father of the child), or
 
