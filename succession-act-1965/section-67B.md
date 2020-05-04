@@ -1,4 +1,4 @@
-F30[Share of issue where no surviving spouse or surviving civil partner.
+F32[Share of issue where no surviving spouse or surviving civil partner.
 
 67B.— (1) If an intestate dies leaving issue and no spouse or civil partner, the estate shall be distributed among the issue in accordance with subsection (2).
 
