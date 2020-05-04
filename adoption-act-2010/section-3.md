@@ -26,7 +26,7 @@ Interpretation.
 
 “assessment of eligibility and suitability”, in relation to a person, means an assessment of whether or not the person—
 
-(a) comes within the classes of persons in whose favour an adoption order may by virtue of section 33be made, and
+(a) comes within the classes of persons in whose favour an adoption order may by virtue of section 33 be made, and
 
 (b) is under section 34 a suitable person to have parental rights and duties in relation to a child;
 
@@ -69,6 +69,8 @@ Interpretation.
 “declaration of eligibility and suitability” means a declaration issued by the Authority under section 40;
 
 “domestic adoption” means the adoption of a child who was habitually resident in the State before his or her adoption by a person or persons habitually resident in the State;
+
+‘donor-conceived child’ has the same meaning as it has in Part 2 of the Children and Family Relationships Act 2015; ‘father’, in relation to a child, includes a man who is, under section 5 of the Children and Family Relationships Act 2015, a parent of the child where that child is a donor-conceived child;
 
 “establishment day” means the establishment day appointed under section 6;
 
@@ -120,7 +122,7 @@ Interpretation.
 
 (a) the mother or father of the child, or
 
-(b) ... and includes an adopter of the child;
+(b) a woman (other than the mother) who is, under section 5 of the Children and Family Relationships Act 2015, a parent of the child where that child is a donor-conceived child, and includes an adopter of the child;
 
 “personal public service number” has the meaning assigned to it by section 262 of the Social Welfare (Consolidation) Act 2005;
 
@@ -140,7 +142,7 @@ Interpretation.
 
 (a) a father of the child who is not a guardian of the child pursuant to the Act of 1964,
 
-(b) ...
+(b) a parent of the child under section 5 of the Children and Family Relationships Act 2015 who is not a guardian pursuant to the Act of 1964,
 
 (c) a person who is appointed as a guardian of the child pursuant to section 6C of the Act of 1964 where subsection (9) of that section applies to that appointment but in respect of which the court has not made an order that the person enjoys the rights and responsibilities specified in subsection (11)(f) of that section, or
 
