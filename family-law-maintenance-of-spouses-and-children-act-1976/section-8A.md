@@ -2,7 +2,7 @@ Orders in respect of certain other agreements.
 
 8A.—Where—
 
-(a) the parents of a dependent child who are not married to each other enter into an agreement in writing after the commencement of Part IV of the Status of Children Act, 1987, that includes either or both of the following provisions, that is to say—
+(a) the parents of a dependent child who are not married to each other and are not civil partners of each other enter into an agreement in writing after the commencement of Part IV of the Status of Children Act, 1987, that includes either or both of the following provisions, that is to say—
 
 (i) a provision whereby a parent undertakes to make periodical payments towards the maintenance of the child,
 
