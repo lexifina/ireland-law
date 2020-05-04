@@ -10,6 +10,8 @@ Interpretation.
 
 “the 1992 Directive” means Council Directive 92/85/EEC of 19 October 1992 on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding;
 
+‘Act of 2015’ means the Children and Family Relationships Act 2015;
+
 “additional maternity leave” has the meaning assigned by section 14;
 
 “associated employer” has the meaning assigned by section 27 (3);
@@ -32,11 +34,15 @@ Interpretation.
 
 “employer”, subject to subsection (2), means, in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment;
 
+‘expectant father’ shall be construed in accordance with subsection (1A) (inserted by section 176 of the Act of 2015);
+
 “job” has the meaning assigned by section 26 (3);
 
 “maternity leave” has the meaning assigned by section 8;
 
 “the Minister” means the Minister for Equality and Law Reform;
+
+‘other parent’ means a person (other than the mother) who is, under section 5 of the Act of 2015, a parent of a child;
 
 ‘parent’s leave’ has the same meaning as it has in the Parent’s Leave and Benefit Act 2019;
 
@@ -49,6 +55,8 @@ Interpretation.
 “successor” has the meaning assigned by section 26 (1);
 
 “the Tribunal” means the Employment Appeals Tribunal.
+
+(1A) In this Act, a reference to an expectant father includes a person who has given his or her consent in accordance with section 11 of the Act of 2015 to a DAHR procedure (within the meaning of section 4 of that Act) where that procedure results in a pregnancy.
 
 (2) For the purposes of this Act—
 
