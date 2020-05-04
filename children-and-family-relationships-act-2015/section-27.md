@@ -30,7 +30,7 @@ Intending parent to provide information to DAHR facility following DAHR procedur
 
 (c) whether—
 
-(i) the gamete referred to in paragraph (b) that was provided by a donor was one to which section 26(1) or, as the case may be, section 26(5), applied, or
+(i) the gamete referred to in paragraph (b) was one to which subsection (1), (5) or, as the case may be, (8)(b) (other than a gamete to which subsection (1) or (5) also applies) of section 26 applied, or
 
 (ii) where applicable, the embryo referred to in paragraph (b)(iii) was one to which subsection (2) or (6) of section 26 applied,
 
