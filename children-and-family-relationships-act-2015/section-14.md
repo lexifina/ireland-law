@@ -24,7 +24,7 @@ Consent to use of embryo in DAHR procedure
 
 (6) A declaration under subsection (5)(b) shall be made before the donation is made and shall be in writing, dated, and signed by the person in the presence of a person authorised in that behalf by the operator of a DAHR facility.
 
-(7) A declaration under subsection (5)(b) shall include the following statements:
+(7) A declaration under subsection (5)(b) shall be in such form as may be prescribed and shall include the following statements:
 
 (a) that the person has received the information referred to in section 15;
 
