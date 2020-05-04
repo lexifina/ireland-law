@@ -22,7 +22,7 @@ Financial compensation orders.
 
 (b) the forfeiture by the applicant civil partner or the dependent child of the civil partners, as the case may be, of the opportunity of acquiring a benefit (for example a benefit under a pension scheme) by reason of the decree of dissolution can be compensated wholly or partly by making the order.
 
-(3) The court may make an order under subsection (1) in addition to or in substitution in whole or in part for orders under sections 117, 118, 119 or 121 and, in deciding whether or not to make the order, the court shall have regard to whether proper provision, having regard to the circumstances, exists, or can be made, for the civil partner concerned or any dependent child of the civil partners concerned by orders under those sections.
+(3) The court may make an order under subsection (1) in addition to or in substitution in whole or in part for orders under sections 117 , 118 , 119 or 121 and, in deciding whether or not to make the order, the court shall have regard to whether proper provision, having regard to the circumstances, exists, or can be made, for the civil partner concerned or any dependent child of the civil partners concerned by orders under those sections.
 
 (4) An order made under subsection (1) ceases to have effect on the entry into a new civil partnership, marriage or death of the applicant civil partner in whose favour the order was made in so far as it relates to him or her.
 

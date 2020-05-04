@@ -30,7 +30,7 @@ Jurisdiction and venue.
 
 (II) any such order made by the court had not yet been executed, or
 
-(iv) the applicant had, not later than 2 years after the relationship ended, made an application for an order under section 174, 175 or 187, the order was made, an application under section 173(6) was subsequently made in respect of that order and either—
+(iv) the applicant had, not later than 2 years after the relationship ended, made an application for an order under section 174, 175 or 187 , the order was made, an application under section 173(6) was subsequently made in respect of that order and either—
 
 (I) the proceedings were pending at the time of the death, or
 

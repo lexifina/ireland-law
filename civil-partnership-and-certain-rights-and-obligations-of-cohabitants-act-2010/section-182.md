@@ -2,7 +2,7 @@ Persons in service of State, local authority, etc.
 
 182.— (1) This section applies when a maintenance debtor is in the service of the State, a local authority within the meaning of the Local Government Act 1941, a harbour authority within the meaning of the Harbours Acts 1946 to 2005, the Health Service Executive, an education and training board, a committee of agriculture established by the Agriculture Act 1931, or another body if his or her earnings are paid directly out of moneys paid by the Oireachtas or from the Central Fund, or is a member of either House of the Oireachtas.
 
-(2) For the purposes of sections 176 to 186, the following officers are regarded as being the employers of the maintenance debtor and the earnings paid to the maintenance debtor out of the Central Fund or out of moneys provided by the Oireachtas are regarded as having been paid by them:
+(2) For the purposes of sections 176 to 186 , the following officers are regarded as being the employers of the maintenance debtor and the earnings paid to the maintenance debtor out of the Central Fund or out of moneys provided by the Oireachtas are regarded as having been paid by them:
 
 (a) in the case where the maintenance debtor is employed in a department, office, organisation, service, undertaking or other body, its chief officer, or any other officer that may be designated from time to time by the Minister of the Government by whom that body is administered;
 

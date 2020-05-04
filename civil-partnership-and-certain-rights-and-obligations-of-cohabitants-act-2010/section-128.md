@@ -22,7 +22,7 @@ Orders for sale of property.
 
 (4) A provision in an order under subsection (1) requiring the making of periodical payments to one of the civil partners out of the proceeds of the sale ceases to have effect on the registration in a new civil partnership, marriage or death of that civil partner, except as respects payments due under it on the date of the registration, marriage or death.
 
-(5) The court shall, in considering whether to make an order under this section or section 118or 119 with respect to a property in which a civil partner has a beneficial interest or in the proceeds of sale of which the civil partner has a beneficial interest, give to a person who also has a beneficial interest in the property or proceeds an opportunity to make representations with respect to the making and contents of the order.
+(5) The court shall, in considering whether to make an order under this section or section 118 or 119 with respect to a property in which a civil partner has a beneficial interest or in the proceeds of sale of which the civil partner has a beneficial interest, give to a person who also has a beneficial interest in the property or proceeds an opportunity to make representations with respect to the making and contents of the order.
 
 (6) The representations made under subsection (5) are deemed to be included in section 129 as matters to which the court is required to have regard in proceedings under a provision referred to in that section.
 

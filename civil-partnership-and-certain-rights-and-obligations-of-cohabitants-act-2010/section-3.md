@@ -4,4 +4,4 @@ Civil partners.
 
 (a) parties to a civil partnership registration that has not been dissolved or the subject of a decree of nullity, or
 
-(b) parties to a legal relationship of a class that is the subject of an order made under section 5that has not been dissolved or the subject of a decree of nullity.
+(b) parties to a legal relationship of a class that is the subject of an order made under section 5 that has not been dissolved or the subject of a decree of nullity.

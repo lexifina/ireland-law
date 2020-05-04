@@ -20,7 +20,7 @@ Definitions, etc.
 
 “member” in relation to a pension scheme, means a person who, having been admitted to membership of the scheme under its rules, remains entitled to any benefit under the scheme;
 
-“pension adjustment order” means an order under sections 121to 126;
+“pension adjustment order” means an order under sections 121 to 126 ;
 
 “pension scheme” means—
 
@@ -44,7 +44,7 @@ Definitions, etc.
 
 “secured periodical payments order” means an order under paragraph (b) or (ba) of section 117(1);
 
-“shared home” has the meaning assigned to it in Part 4, with the modification that the references to a civil partner in that Part shall be construed as references to a civil partner within the meaning of this Part;
+“shared home” has the meaning assigned to it in Part 4 , with the modification that the references to a civil partner in that Part shall be construed as references to a civil partner within the meaning of this Part;
 
 “trustees”, in relation to a scheme that is established under a trust, means the trustees of the scheme and, in relation to a pension scheme not established under a trust, means the persons who administer the scheme.
 

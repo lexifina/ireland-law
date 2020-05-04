@@ -1,6 +1,6 @@
 Attachment of earnings order.
 
-176.— (1) For the purposes of this section and sections 177 to 186—
+176.— (1) For the purposes of this section and sections 177 to 186 —
 
 “antecedent order” means an order under section 175;
 

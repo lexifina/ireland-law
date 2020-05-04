@@ -30,6 +30,6 @@ Jurisdiction and venue.
 
 (8) An order made or act done in the course of the proceedings before a transfer under subsection (7) is valid unless discharged or varied by the High Court.
 
-(9) If a civil partner is a person of unsound mind and there is a committee of the civil partner’s estate, the jurisdiction under this section in proceedings under Part 4may, subject to subsections (5) to (8), be exercised by the court that has appointed the committee.
+(9) If a civil partner is a person of unsound mind and there is a committee of the civil partner’s estate, the jurisdiction under this section in proceedings under Part 4 may, subject to subsections (5) to (8), be exercised by the court that has appointed the committee.
 
 (10) Subject to subsection (9), the District Court has all the jurisdiction of the High Court to hear and determine a question arising out of section 34 where the value of the household chattels intended to be disposed of or removed or actually disposed of or removed does not exceed €15,000.
