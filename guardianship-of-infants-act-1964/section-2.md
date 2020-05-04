@@ -6,6 +6,8 @@ F1[Interpretation.
 
 ‘Act of 2010’ means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
+‘Act of 2015’ means the Children and Family Relationships Act 2015;
+
 ‘adoption order’ has the same meaning as it has in the Adoption Act 2010;
 
 ‘child’ means a person who has not attained full age;
@@ -13,6 +15,8 @@ F1[Interpretation.
 ‘civil partner’ shall be construed in accordance with section 3 of the Act of 2010;
 
 ‘cohabitant’ shall be construed in accordance with section 172(1) of the Act of 2010;
+
+‘donor-conceived child’ has the meaning it has in Part 2 of the Act of 2015;
 
 ‘enactment’ means a statute or an instrument made under a power conferred by statute;
 
@@ -36,7 +40,11 @@ F1[Interpretation.
 
 ‘mother’ includes a female adopter under an adoption order;
 
-‘parent’ means a father or mother as defined by this subsection;
+‘parent’ means—
+
+(a) subject to paragraph (b), a father or mother as defined by this subsection, and
+
+(b) in relation to a donor-conceived child, the parent or parents of that child under section 5 of the Act of 2015;
 
 ‘qualifying guardian’, in relation to a child, means a person who is a guardian of that child and who—
 

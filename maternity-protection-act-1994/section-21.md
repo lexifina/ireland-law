@@ -12,7 +12,7 @@ Interpretation of Part IV.
 
 (b) additional maternity leave;
 
-(c) leave to which a father is entitled under subsection (1) or subsection (4) of section 16; or
+(c) leave to which a father or other parent is entitled under subsection (1) or subsection (4) of section 16; or
 
 (d) leave granted under section 18.
 
@@ -24,4 +24,4 @@ Interpretation of Part IV.
 
 (b) additional maternity leave, or
 
-(c) leave to which a father is entitled under subsection (1) or (4) of section 16, or part of such leave is postponed in accordance with section 14B or 16B, as may be appropriate, the time (if any) on leave before such postponement and the time on leave after such postponement shall be treated for the purposes of this Part as separate periods of protective leave.
+(c) leave to which a father or other parent is entitled under subsection (1) or (4) of section 16, or part of such leave is postponed in accordance with section 14B or 16B, as may be appropriate, the time (if any) on leave before such postponement and the time on leave after such postponement shall be treated for the purposes of this Part as separate periods of protective leave.
