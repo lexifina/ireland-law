@@ -1,4 +1,4 @@
-General provisions as to assent or transfer by personal representatives.
+General
 
 52.—(1) In this section and in section 53—
 
