@@ -2,6 +2,8 @@ Interpretation.
 
 3.—(1) In this Act, except where the context otherwise requires—
 
+"Act of 2015" means the Children and Family Relationships Act 2015;
+
 “administration”, in relation to the estate of a deceased person, means letters of administration, whether with or without a will annexed, and whether granted for special or limited purposes;
 
 “administrator” means a person to whom administration is granted;
@@ -20,9 +22,9 @@ Interpretation.
 
 “an intestate” means a person who leaves no will or leaves a will but leaves undisposed of some beneficial interest in his estate, and “intestate” shall be construed accordingly;
 
-‘issue’ shall be construed in accordance with section 4A (inserted by the Status of Children Act, 1987);
+"issue" shall be construed in accordance with section 4A (inserted by the Status of Children Act, 1987);
 
-‘legal right’ means—
+"legal right" means—
 
 (a) the right of a spouse under section 111 to a share in the estate of a deceased person, and
 
@@ -30,7 +32,7 @@ Interpretation.
 
 “the Minister” means the Minister for Justice;
 
-“pecuniary legacy” includes an annuity, a general legacy, a demonstrative legacy so far as it is not discharged out of the designated property, and any other general direction by a testator for the payment of money, including all death duties free from which any devise, bequest, or payment is made to take effect;
+"pecuniary legacy" includes an annuity, a general legacy, a demonstrative legacy so far as it is not discharged out of the designated property, and any other general direction by a testator for the payment of money, including all death duties free from which any devise, bequest, or payment is made to take effect;
 
 “per stirpes” shall be construed in accordance with subsection (3);
 

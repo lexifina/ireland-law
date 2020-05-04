@@ -4,11 +4,11 @@ Shares of surviving civil partner and issue.
 
 (2) If an intestate dies leaving a civil partner and issue—
 
-(a) subject to subsections (3) to (7), the civil partner shall take two-thirds of the estate; and
+(a) subject to subsections (3), (3A) (inserted by section 67(c) of the Act of 2015), (4), (5), (6) and (7), the civil partner shall take two-thirds of the estate; and
 
 (b) the remainder shall be distributed among the issue in accordance with section 67B(2).
 
-(3) The court may, on the application by or on behalf of a child of an intestate who dies leaving a civil partner and one or more children, order that provision be made for that child out of the intestate’s estate only if the court is of the opinion that it would be unjust not to make the order, after considering all the circumstances, including—
+(3) Subject to subsection (3A), the court may, on the application by or on behalf of a child of an intestate who dies leaving a civil partner and one or more children, order that provision be made for that child out of the intestate’s estate only if the court is of the opinion that it would be unjust not to make the order, after considering all the circumstances, including—
 
 (a) the extent to which the intestate has made provision for that child during the intestate’s lifetime,
 
@@ -17,6 +17,8 @@ Shares of surviving civil partner and issue.
 (c) the intestate’s financial situation, and
 
 (d) the intestate’s obligations to the civil partner.
+
+(3A) An application may not be made under subsection (3) by or on behalf of a child of an intestate where that child is also the child of the surviving civil partner.
 
 (4) The court, in ordering provision of an amount under subsection (3) shall ensure that—
 
