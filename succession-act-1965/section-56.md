@@ -48,8 +48,6 @@ Right of surviving spouse to require dwelling and household chattels to be appro
 
 (13) An appropriation to which this section applies shall for the purposes of succession duty be deemed to be a succession derived from the deceased.
 
-[Cf. “dwelling” in 1960 (No. 42) s. 2 (1)]
-
 (14) In this section—
 
 “dwelling” means an estate or interest in a building occupied as a separate dwelling or a part, so occupied, of any building and includes any garden or portion of ground attached to and usually occupied with the dwelling or otherwise required for the amenity or convenience of the dwelling;
