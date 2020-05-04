@@ -28,7 +28,7 @@ Interpretation (Parts 2 and 3)
 
 (i) a person who has consented, under section 6 or in the manner referred to in section 26(1)(b)(ii), to the use in a DAHR procedure of a gamete provided by him or her, or
 
-(ii) the donor of a gamete to which section 26(6) applies, and includes a donor of a gamete that is used in the formation of an embryo that is used in a further DAHR procedure, and
+(ii) the donor of a gamete to which section 26(5) applies, and includes a donor of a gamete that is used in the formation of an embryo that is used in a further DAHR procedure, and
 
 (b) in relation to an embryo, means—
 
