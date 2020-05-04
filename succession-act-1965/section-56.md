@@ -1,4 +1,4 @@
-Right of surviving spouse F19[or civil partner] to require dwelling and household chattels to be appropriated.
+Right of surviving spouse F21[or civil partner] to require dwelling and household chattels to be appropriated.
 
 56.—(1) Where the estate of a deceased person includes a dwelling in which, at the time of the deceased's death, the surviving spouse or civil partner was ordinarily resident, the surviving spouse or civil partner may, subject to subsection (5), require the personal representatives in writing to appropriate the dwelling under section 55 in or towards satisfaction of any share of the surviving spouse or civil partner.
 
@@ -47,8 +47,6 @@ Right of surviving spouse F19[or civil partner] to require dwelling and househol
 (12) Where the surviving spouse or civil partner is a person of unsound mind, a requirement or consent under this section may, if there is a committee of his or her estate, be made or given on behalf of the spouse or civil partner by the committee by leave of the court which has appointed the committee or, if there is no committee, be given or made by the High Court or, in a case within the jurisdiction of the Circuit Court, by that Court.
 
 (13) An appropriation to which this section applies shall for the purposes of succession duty be deemed to be a succession derived from the deceased.
-
-[Cf. “dwelling” in 1960 (No. 42) s. 2 (1)]
 
 (14) In this section—
 
