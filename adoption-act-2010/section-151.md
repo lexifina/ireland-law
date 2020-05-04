@@ -1,6 +1,6 @@
 Regulations relating to accredited bodies.
 
-151.— (1) Without prejudice to the generality of section 150, the Minister shall make such regulations as he or she thinks appropriate for the purpose of ensuring that the activities specified in sections 4 and 5are carried on only by accredited bodies.
+151.— (1) Without prejudice to the generality of section 150, the Minister shall make such regulations as he or she thinks appropriate for the purpose of ensuring that the activities specified in sections 4 and 5 are carried on only by accredited bodies.
 
 (2) Without prejudice to the generality of subsection (1), regulations under this section may—
 

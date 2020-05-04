@@ -8,7 +8,7 @@ Adopted Children Register.
 
 (2) An entry shall be made in the Adopted Children Register with respect to each adopted child who is the subject of an adoption order made by the Authority.
 
-(3) Each entry shall contain the particulars, appropriate to the adoption concerned, specified inSchedule 3.
+(3) Each entry shall contain the particulars, appropriate to the adoption concerned, specified in Schedule 3 .
 
 (4) If the date of the adopted child’s birth is unknown—
 

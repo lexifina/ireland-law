@@ -6,7 +6,7 @@ Offences.
 
 (a) contravenes section 13, or
 
-(b) fails to discharge a duty to which it is subject under section 14, 17or 18 or under a provision of the regulations referred to in section 15(1).
+(b) fails to discharge a duty to which it is subject under section 14, 17 or 18 or under a provision of the regulations referred to in section 15(1).
 
 (2) A person is guilty of an offence if the person—
 

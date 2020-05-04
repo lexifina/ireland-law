@@ -14,7 +14,7 @@ Submission of business plan.
 
 (e) accord with policies and objectives of the Minister and the Government.
 
-(3) In preparing the business plan, the Authority shall have regard to the corporate plan in operation at that time approved under section 108and any direction given by the Minister under section 107.
+(3) In preparing the business plan, the Authority shall have regard to the corporate plan in operation at that time approved under section 108 and any direction given by the Minister under section 107.
 
 (4) The Authority shall give effect to the business plan unless the Minister, within 30 days of the submission of the plan, directs the Authority in writing to either amend the plan or not to give effect to it.
 

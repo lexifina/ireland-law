@@ -12,7 +12,9 @@ Persons eligible for adoption order or recognition of intercountry adoption effe
 
 (ii) the applicant is a parent, step parent or relative of the child, or
 
-(iii) the applicant, notwithstanding that he or she does not fall within subparagraph (ii), satisfies the Authority that, in the particular circumstances, the adoption is desirable and in the best interests of the child.
+(iii) the applicant, notwithstanding that he or she does not fall within subparagraph
+
+(ii), satisfies the Authority that, in the particular circumstances, the adoption is desirable and in the best interests of the child.
 
 (b) Notwithstanding paragraph (a), the Authority may recognise an intercountry adoption effected outside the State on the application of a person referred to in paragraph (a) or (c) of section 90(3).
 

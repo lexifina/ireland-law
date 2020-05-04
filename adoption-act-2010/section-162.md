@@ -1,4 +1,4 @@
-Amendment of section 2(1)of Guardianship of Infants Act 1964.
+Amendment of section 2(1) of Guardianship of Infants Act 1964.
 
 162.— Section 2(1) (inserted by section 4 of the Children Act 1997) of the Guardianship of Infants Act 1964 is amended by substituting the following definition for the definition of “adoption order”:
 

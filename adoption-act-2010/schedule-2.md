@@ -354,7 +354,7 @@ Article 44 — Accession to Hague Convention.
 
 (2) The instrument of accession shall be deposited with the depositary.
 
-(3) Such accession shall have effect only as regards the relations between the acceding State and those Contracting States which have not raised an objection to its accession in the six months after the receipt of the notification referred to in sub-paragraph (b)of Article 48. Such an objection may also be raised by States at the time when they ratify, accept or approve the Convention after an accession. Any such objection shall be notified to the depositary.
+(3) Such accession shall have effect only as regards the relations between the acceding State and those Contracting States which have not raised an objection to its accession in the six months after the receipt of the notification referred to in sub-paragraph (b) of Article 48. Such an objection may also be raised by States at the time when they ratify, accept or approve the Convention after an accession. Any such objection shall be notified to the depositary.
 
 Article 45 — Special provision for States with two or more territorial units.
 

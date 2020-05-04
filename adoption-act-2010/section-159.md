@@ -52,4 +52,4 @@ Amendment of Civil Registration Act 2004.
 
 (f) in the First Schedule, by deleting Parts 3 and 4, and
 
-(g) in the Second Schedule, by deleting the references to the enactments specified in Schedule 4.
+(g) in the Second Schedule, by deleting the references to the enactments specified in Schedule 4 .
