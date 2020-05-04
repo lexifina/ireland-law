@@ -26,9 +26,9 @@ Item Act Provision Amendment
 
 8. Trustee Savings Section 21(5) insert “or civil partner within the meaning of the Civil Banks Act 1989
 
-9. Companies Act Section 72 (a)delete “family and corporate” from the shoulder 1990
+9. Companies Act Section 72 (a) 1990
 
-(b)substitute “his or her spouse or civil partner
+(b) substitute “his or her spouse or civil partner
 
 10. Companies Act Section 187 insert “, civil partner within the meaning of the Civil 1990 Item Act Provision Amendment
 
@@ -42,7 +42,7 @@ Item Act Provision Amendment
 
 15. Ethics in Public Section insert “or civil partner” after “spouse” Office Act 1995 15(4)(a)(ii)
 
-16. Ethics in Public Section 16(1)(a) (a)insert “or civil partner” after “actual knowledge Office Act 1995
+16. Ethics in Public Section 16(1)(a) (a) insert “or civil partner” after “actual knowledge Office Act 1995
 
 (b) substitute “spouse or civil partner or child a
 
@@ -50,7 +50,7 @@ Item Act Provision Amendment
 
 (b) substitute “spouse or civil partner or child a
 
-18. Ethics in Public Section 18(1)(a) (a)insert “or civil partner” after “actual knowledge Office Act 1995
+18. Ethics in Public Section 18(1)(a) (a) insert “or civil partner” after “actual knowledge Office Act 1995
 
 (b) substitute “spouse or civil partner or child a
 
@@ -132,9 +132,9 @@ Item Act Provision Amendment
 
 1. Pilotage Order Schedule substitute “surviving spouse, or surviving civil partner within Confirmation Act 1927
 
-2. Ministerial and Section 20 (a) Parliamentary (substituted by Offices Act section 15 of the (b)insert 1938 Ministerial, Parliamentaryand Judicial Offices (c) and Oireachtas Members (d) in subsection (3), insert “or enters into a new (Miscellaneous Provisions) Act 2001) (e)
+2. Ministerial and Section 20 (a) Parliamentary (substituted by Offices Act section 15 of the (b) 1938 Ministerial, Parliamentaryand Judicial Offices (c) and Oireachtas Members (d) in subsection (3), insert “or enters into a new (Miscellaneous Provisions) Act 2001) (e)
 
-3. Ministerial and Section 20C (a)in subsection (1), substitute “spouse’s pension Parliamentary (inserted by Offices Act section 16 of the 1938 Ministerial, Parliamentaryand Judicial Offices and Oireachtas Members (Miscellaneous Provisions) Act (b) inserting “or civil partnership” after “marriage” 2001) Item Act Provision Amendment
+3. Ministerial and Section 20C (a) in subsection (1), substitute “spouse’s pension Parliamentary (inserted by Offices Act section 16 of the 1938 Ministerial, Parliamentaryand Judicial Offices and Oireachtas Members (Miscellaneous Provisions) Act (b) inserting “or civil partnership” after “marriage” 2001) Item Act Provision Amendment
 
 4. Ministerial and Section 21(4) substitute “surviving spouses’ pensions, surviving civil Parliamentary Offices Act 1938
 
@@ -194,7 +194,7 @@ Item Act Provision Amendment
 
 5. Companies Act Section insert “or civil partner within the meaning of the Civil 1963 300A(1)(b)
 
-6. Land Act 1965 Section 6(3) (a)insert “or who is a civil partner within the
+6. Land Act 1965 Section 6(3) (a) insert “or who is a civil partner within the
 
 (b) insert “or civil partner” after “spouse” in
 
@@ -208,9 +208,9 @@ Item Act Provision Amendment
 
 8. Agricultural Section insert “or civil partner within the meaning of the Civil Credit Act 1978 31(2)(a)(i)(II)
 
-9. Housing Section 4(5) (a)substitute “marriage or civil partnership within (Miscellaneous (inserted by Provisions) Act section 25 of the 1979 Housing Act 1988)
+9. Housing Section 4(5) (a) substitute “marriage or civil partnership within (Miscellaneous (inserted by Provisions) Act section 25 of the 1979 Housing Act 1988)
 
-(b)substitute “separated from his or her spouse
+(b) substitute “separated from his or her spouse
 
 (c) Item Act Provision Amendment
 
@@ -250,7 +250,7 @@ Item Act Provision Amendment
 
 1. Garda Síochána Section 3(a) substitute “surviving spouse or surviving civil partner within (Compen-sation) Act 1941
 
-2. Civil Liability Definition of (a)insert “, civil partner within the meaning of the Act 1961
+2. Civil Liability Definition of (a) insert “, civil partner within the meaning of Act 1961
 
 (b) delete “or” at the end of paragraph (b);
 
@@ -288,7 +288,7 @@ Item Act Provision Amendment
 
 8. Bankruptcy Act Section 45(1) substitute “spouse or civil partner within the meaning of 1988
 
-9. Bankruptcy Act Section 59 (a)insert “or civil partnership within the meaning 1988
+9. Bankruptcy Act Section 59 (a) insert “or civil partnership within the meaning 1988
 
 (b) insert the following subsection after subsection
 
@@ -312,7 +312,7 @@ Item Act Provision Amendment
 
 18. Organisation of Section 3(2)(b) (a) insert “or is employed by the person’s civil Working Time Act 1997
 
-(b)insert “or civil partner” after “relative” in
+(b) insert “or civil partner” after “relative” in
 
 19. Criminal Justice Section 41(1)(a) insert “or his or her civil partner within the meaning of the Act 1999
 
@@ -326,4 +326,4 @@ Item Act Provision Amendment
 
 24. Registration of Definition of (a) Deeds and Title Act 2006
 
-(b)insert “or under section 28(12) of the Civil Item Act Provision Amendment
+(b) insert “or under section 28(12) of the Civil Item Act Provision Amendment
