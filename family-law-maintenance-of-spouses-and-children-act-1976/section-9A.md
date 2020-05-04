@@ -1,6 +1,6 @@
 ## PART III ATTACHMENT OF EARNINGS
 
-F42[Failure to make payments to be contempt of court.
+F42[ Failure to make payments to be contempt of court.
 
 9A.— (1) Subject to this section it shall be contempt of court for a maintenance debtor to fail to make a payment due under an antecedent order.
 
