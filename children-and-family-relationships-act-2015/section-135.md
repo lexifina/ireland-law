@@ -12,7 +12,9 @@ Amendment of section 2 of Act of 2010
 
 (i) is, or will be or, if an order were made under this Act providing for periodical payments for his or her support, would be receiving full-time education or instruction at any university, college, school or other educational establishment and is under the age of 23 years, or
 
-(ii) is suffering from mental or physical disability to such extent that it is not reasonably possible for him or her to maintain himself or herself fully; ‘dependent child of the civil partners’, in relation to a couple who are civil partners of each other, or either of those civil partners, means a dependent child—
+(ii) is suffering from mental or physical disability to such extent that it is not reasonably possible for him or her to maintain himself or herself fully;
+
+‘dependent child of the civil partners’, in relation to a couple who are civil partners of each other, or either of those civil partners, means a dependent child—
 
 (a) of both civil partners, or adopted by both civil partners under the Adoption Act 2010, or in relation to whom both civil partners are in loco parentis, or
 
