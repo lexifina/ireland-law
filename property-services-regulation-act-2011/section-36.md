@@ -10,7 +10,9 @@ Notification to applicant of refusal to renew licence, etc.
 
 (ii) within such longer period as the Authority thinks fit in the circumstances of the case.
 
-(2) Where the Authority has given a notice under subsection (1) to a person, it shall, as soon as is practicable after the expiration of the period referred to in subsection (1)(b)(i) or (ii), as the case requires, and the consideration of any representations referred to in subsection (1)(b) made to it—
+(2) Where the Authority has given a notice under subsection (1) to a person, it shall, as soon as is practicable after the expiration of the period referred to in subsection
+
+(1)(b)(i) or (ii), as the case requires, and the consideration of any representations referred to in subsection (1)(b) made to it—
 
 (a) issue to the person the renewal of the licence that is the subject of the notice, or
 
