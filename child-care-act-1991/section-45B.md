@@ -44,9 +44,7 @@ Aftercare plan - eligible child.
 
 (10) The Child and Family Agency shall, in preparing an aftercare plan for an eligible child under subsection (1) or (3), have due regard to the resources available to the Agency to implement that plan.
 
-(11) In this section—
-
-‘guardian’, in relation to an eligible child, means a person who—
+(11) In this section— ‘guardian’, in relation to an eligible child, means a person who—
 
 (a) is a guardian of the child pursuant to the Guardianship of Infants Act 1964 and who—
 
