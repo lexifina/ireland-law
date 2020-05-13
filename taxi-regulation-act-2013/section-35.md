@@ -62,7 +62,7 @@ Section 7(5)
 
 Section 7(7)
 
-2 4
+2 4 Reference Demerit offence under Demerits on payment of fixed Demerits on conviction Number charge or fixed payment (1) (2) (3) (4)
 
 3
 
@@ -96,7 +96,7 @@ Section 20(4)(a)
 
 8 Section 22(4) or (6) 4
 
-9 Section 23(1) or (4) 1 2 Reference Demerit offence under Demerits on payment of fixed Demerits on conviction Number charge or fixed payment (1) (2) (3) (4)
+9 Section 23(1) or (4) 1 2
 
 10
 
