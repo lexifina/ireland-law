@@ -214,7 +214,9 @@ Amendment of Part 5 of Principal Act — electronic communications infrastructur
 
 (7) Where a dispute or difference arises between a network operator and an authority in respect of the cost of the relocation of electronic communications infrastructure, the dispute or difference shall be determined by agreed conciliation procedures between both parties or, in default of such agreement, by arbitration under the Arbitration Acts 1954 to 1998.
 
-Regulations and policy directions to authorities. 56.— (1) The Minister may, with the consent of the Minister for Transport, for the purposes of sections 54(2) and 55, make regulations to establish the basis for the calculation by a network operator of costs reasonably attributable to costs incurred by the network operator as a result of roadworks, and to establish an objective measure of works to be deemed to be improvements to electronic communications infrastructure for the purposes of this Part.
+Regulations and policy directions to authorities.
+
+56.— (1) The Minister may, with the consent of the Minister for Transport, for the purposes of sections 54(2) and 55, make regulations to establish the basis for the calculation by a network operator of costs reasonably attributable to costs incurred by the network operator as a result of roadworks, and to establish an objective measure of works to be deemed to be improvements to electronic communications infrastructure for the purposes of this Part.
 
 (2) The Minister for Transport may, with the consent of the Minister, for the purposes of section 53 make regulations, in relation to—
 

@@ -10,11 +10,19 @@ Consequential amendments of Principal Act.
 
 (ii) by inserting after the definition of “postal services” the following:
 
-“‘premium rate service’ has the meaning assigned to it by the Communications Regulation (Premium Rate Services and Electronic Communications Infrastructure) Act 2010;
+“‘premium rate service’ has the meaning assigned to it by the Communications
+
+Regulation (Premium Rate Services and Electronic
+
+Communications Infrastructure) Act 2010;
 
 ‘premium rate service licence’ means a licence granted under section 6 of the Communications Regulation (Premium Rate Services and Electronic Communications Infrastructure) Act 2010 to provide premium rate services;
 
-‘premium rate service provider’ has the meaning assigned to it by the Communications Regulation (Premium Rate Services and Electronic Communications Infrastructure) Act 2010;”, and
+‘premium rate service provider’ has the meaning assigned to it by the Communications
+
+Regulation (Premium Rate Services and Electronic
+
+Communications Infrastructure) Act 2010;”, and
 
 (iii) in the definition of “end user” (inserted by section 3(c) of the Act of 2007) by inserting “or a premium rate service” after “associated facility”,
 
