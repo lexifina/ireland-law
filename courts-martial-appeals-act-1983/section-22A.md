@@ -1,4 +1,4 @@
-F23[Case stated for the Court on question of law.
+F23[ Case stated for the Court on question of law.
 
 22A.—Where an appeal is made to the summary court-martial under section 178E (inserted by the Defence (Amendment) Act 2007) of the Act of 1954, the military judge—
 

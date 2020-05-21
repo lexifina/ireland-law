@@ -1,4 +1,4 @@
-F19[Appeals (mental disorder at time of commission of offence).
+F19[ Appeals (mental disorder at time of commission of offence).
 
 19B.—(1) A person tried for an offence by court-martial and found not guilty by reason of insanity may appeal to the Court against the finding on all or any of the following grounds:
 

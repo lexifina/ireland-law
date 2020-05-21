@@ -1,4 +1,4 @@
-F34[Legal aid (case stated) certificate.
+F34[ Legal aid (case stated) certificate.
 
 27A.—(1) Where—
 
