@@ -226,7 +226,9 @@ Article 29
 
 2. Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
 
-Article 30 The Secretary General of the Council of Europe shall notify the member States of the Council and any State which has acceded to this Convention, of: a. any signature; b. the deposit of any instrument of ratification, acceptance, approval or accession; c. any date of entry into force of this Convention in accordance with Articles 22, 23, 24 and 25; d. any other act, notification or communication relating to this Convention.
+Article 30
+
+The Secretary General of the Council of Europe shall notify the member States of the Council and any State which has acceded to this Convention, of: a. any signature; b. the deposit of any instrument of ratification, acceptance, approval or accession; c. any date of entry into force of this Convention in accordance with Articles 22, 23, 24 and 25; d. any other act, notification or communication relating to this Convention.
 
 In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
 
