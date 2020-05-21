@@ -28,7 +28,7 @@ Amendment of Personal Injuries Assessment Board Act 2003.
 
 “‘Athens Convention’ means the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 1974, as amended by the Protocol of 2002 (the Athens Convention) and as amended from time to time;
 
-‘Council Regulation (EC) No. 2027/97’means Council Regulation (EC) No. 2027/97 on air carrier liability in respect of the carriage of passengers and their baggage by air, as amended by Regulation (EC) No. 889/2002 and as amended from time to time;
+‘Council Regulation (EC) No. 2027/97’ means Council Regulation (EC) No. 2027/97 on air carrier liability in respect of the carriage of passengers and their baggage by air, as amended by Regulation (EC) No. 889/2002 and as amended from time to time;
 
 ‘Montreal Convention’ means the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Montreal on 28 May 1999 and as amended from time to time;
 

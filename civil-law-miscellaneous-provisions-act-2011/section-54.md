@@ -1,6 +1,6 @@
 Amendment of Civil Legal Aid Act 1995.
 
-54.— With effect from the coming into operation of section 50of the Civil Law (Miscellaneous Provisions) Act 2011, the Civil Legal Aid Act 1995 is amended:
+54.— With effect from the coming into operation of section 50 of the Civil Law (Miscellaneous Provisions) Act 2011, the Civil Legal Aid Act 1995 is amended:
 
 (a) in section 1, by the insertion of the following definition:
 
