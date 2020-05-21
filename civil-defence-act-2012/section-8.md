@@ -4,7 +4,7 @@ Provisions consequent upon transfer of functions, assets and liabilities to Mini
 
 (2) Every instrument made under an enactment and every document (including any certificate) granted or made, in the performance of a function transferred by section 4, shall, if and in so far as it was operative immediately before the dissolution day, have effect on and after that day as if it had been granted or made by the Minister.
 
-(3) References to the Civil Defence Board in the memorandum or articles of association of any company and relating to a function transferred by section 4shall, on and after the dissolution day, be construed as references to the Minister.
+(3) References to the Civil Defence Board in the memorandum or articles of association of any company and relating to a function transferred by section 4 shall, on and after the dissolution day, be construed as references to the Minister.
 
 (4) Any money, stocks, shares or securities transferred by section 5 that, immediately before the dissolution day, were standing in the name of the dissolved body shall, on the request of the Minister, be transferred into his or her name.
 
