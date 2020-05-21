@@ -1,4 +1,4 @@
-F27[Use of reasonable force in certain circumstances.
+F27[ Use of reasonable force in certain circumstances.
 
 6A.—(1) Without prejudice to the generality of section 6, a member of the Garda Síochána and the member or members of the Garda Síochána assisting that member may, where—
 

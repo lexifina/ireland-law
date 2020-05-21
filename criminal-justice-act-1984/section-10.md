@@ -8,7 +8,9 @@ Rearrest.
 
 (i) further information has come to the knowledge of the Garda Síochána since the person’s release as to his suspected participation in the offence for which his arrest is sought, or
 
-(ii) notwithstanding that the Garda Síochána had knowledge, prior to the person’s release, of the person’s suspected participation in the offence for which his arrest is sought, the questioning of the person in relation to that offence, prior to his release, would not have been in the interests of the proper investigation of the offence. A person arrested under that authority shall be dealt with pursuant to section 4.
+(ii) notwithstanding that the Garda Síochána had knowledge, prior to the person’s release, of the person’s suspected participation in the offence for which his arrest is sought, the questioning of the person in relation to that offence, prior to his release, would not have been in the interests of the proper investigation of the offence.
+
+A person arrested under that authority shall be dealt with pursuant to section 4.
 
 (1A) An application for a warrant under this section shall be heard otherwise than in public.
 
