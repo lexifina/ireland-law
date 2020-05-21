@@ -8,7 +8,7 @@ Definitions (Part 3).
 
 “constituent court office” means—
 
-(a) a court office, the business or some of the business of which shall be transacted in a combined court office under section 14 or 15, or
+(a) a court office, the business or some of the business of which shall be transacted in a combined court office under section 14 or 15 , or
 
 (aa) the Court of Appeal,
 
