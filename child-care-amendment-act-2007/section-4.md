@@ -64,7 +64,9 @@ Amendment of Part VI of Principal Act.
 
 (b) in relation to a child in care under section 18, immediately before a care order was made in relation to the child.
 
-43B.— (1) The court may vary or discharge an order under section 43A or any condition or restriction attaching to that order on the application of any of the following persons:
+Variation,
+
+43B.— (1) The court may vary or discharge an order under section 43A or any discharge or condition or restriction attaching to that order on the application of any of the cessation of following persons: order under section 43A.
 
 (a) the Health Service Executive;
 
