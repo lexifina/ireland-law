@@ -14,4 +14,4 @@ Commencement.
 
 (e) Part 11 shall come into operation on such day as the Minister for Health and Children, with the agreement of the Minister for Education and Science, may by order appoint.
 
-(f) The amendments made to Part 11 in sections 156and 157 of, and paragraph 30 of Schedule 4 to, the Criminal Justice Act 2006 shall come into operation on such day or days as the Minister for Health and Children, with the agreement of the Minister for Justice, Equality and Law Reform, may by order or orders appoint.
+(f) The amendments made to Part 11 in sections 156 and 157 of, and paragraph 30 of Schedule 4 to, the Criminal Justice Act 2006 shall come into operation on such day or days as the Minister for Health and Children, with the agreement of the Minister for Justice, Equality and Law Reform, may by order or orders appoint.

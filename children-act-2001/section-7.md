@@ -10,4 +10,4 @@ Convening of family welfare conference.
 
 (2) The coordinator shall act as chairperson of a family welfare conference.
 
-(3) The Child and Family Agency may direct that a family welfare conference shall consider such matters in relation to the child as the Child and Family Agencyconsiders appropriate.
+(3) The Child and Family Agency may direct that a family welfare conference shall consider such matters in relation to the child as the Child and Family Agency considers appropriate.

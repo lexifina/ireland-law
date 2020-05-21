@@ -1,3 +1,3 @@
-Casual vacancies.
+Casual vacancies. (repealed)
 
 233.—...

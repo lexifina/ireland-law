@@ -1,5 +1,5 @@
-Functions of Board.
+Functions of Board. (repealed)
 
-227.—...
+227.— ...
 
 Board.

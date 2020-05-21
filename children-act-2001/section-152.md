@@ -1,3 +1,3 @@
-Transfer.
+Transfer. (repealed)
 
 152.—...

@@ -1,3 +1,3 @@
-Staff of Board.
+Staff of Board. (repealed)
 
 238.—...

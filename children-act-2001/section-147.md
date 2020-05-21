@@ -1,3 +1,3 @@
-Detention in accordance with age of child.
+Detention in accordance with age of child. (repealed)
 
 147.—...

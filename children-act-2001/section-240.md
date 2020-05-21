@@ -1,3 +1,3 @@
-Funding of Board.
+Funding of Board. (repealed)
 
 240.—...

@@ -1,3 +1,3 @@
-Application to Board of sections 175, 177 and 178.
+Application to Board of sections 175, 177 and 178. (repealed)
 
 235.—...

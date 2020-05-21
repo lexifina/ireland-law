@@ -1,3 +1,3 @@
-Rules governing places of detention.
+Rules governing places of detention. (repealed)
 
 153.—...

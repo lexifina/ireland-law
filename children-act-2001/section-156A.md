@@ -1,3 +1,3 @@
-Transitional provision.
+Transitional provision. (repealed)
 
 156A.—...

@@ -1,3 +1,3 @@
-Delegation of functions.
+Delegation of functions. (repealed)
 
 243.—...

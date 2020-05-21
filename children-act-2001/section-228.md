@@ -1,3 +1,3 @@
-Assignment of other functions.
+Assignment of other functions. (repealed)
 
 228.—...

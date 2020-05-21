@@ -1,3 +1,3 @@
-Superannuation of staff.
+Superannuation of staff. (repealed)
 
 239.—...

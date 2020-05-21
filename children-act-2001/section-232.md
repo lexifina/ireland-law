@@ -1,3 +1,3 @@
-Temporary substitutes.
+Temporary substitutes. (repealed)
 
 232.—...
