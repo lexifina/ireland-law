@@ -68,7 +68,7 @@ For the purposes of this Convention:
 
 1. “Cluster munition victims” means all persons who have been killed or suffered physical or psychological injury, economic loss, social marginalisation or substantial impairment of the realisation of their rights caused by the use of cluster munitions. They include those persons directly impacted by cluster munitions as well as their affected families and communities;
 
-2. “Cluster munition”means a conventional munition that is designed to disperse or release explosive submunitions each weighing less than 20 kilograms, and includes those explosive submunitions. It does not mean the following:
+2. “Cluster munition” means a conventional munition that is designed to disperse or release explosive submunitions each weighing less than 20 kilograms, and includes those explosive submunitions. It does not mean the following:
 
 (a) A munition or submunition designed to dispense flares, smoke, pyrotechnics or chaff; or a munition designed exclusively for an air defence role;
 
@@ -98,7 +98,7 @@ For the purposes of this Convention:
 
 8. “Transfer” involves, in addition to the physical movement of cluster munitions into or from national territory, the transfer of title to and control over cluster munitions, but does not involve the transfer of territory containing cluster munition remnants;
 
-9. “Self-destruction mechanism”means an incorporated automatically-functioning mechanism which is in addition to the primary initiating mechanism of the munition and which secures the destruction of the munition into which it is incorporated;
+9. “Self-destruction mechanism” means an incorporated automatically-functioning mechanism which is in addition to the primary initiating mechanism of the munition and which secures the destruction of the munition into which it is incorporated;
 
 10. “Self-deactivating” means automatically rendering a munition inoperable by means of the irreversible exhaustion of a component, for example a battery, that is essential to the operation of the munition;
 
@@ -144,7 +144,9 @@ Storage and stockpile destruction
 
 8. States Parties retaining, acquiring or transferring cluster munitions or explosive submunitions for the purposes described in paragraphs 6 and 7 of this Article shall submit a detailed report on the planned and actual use of these cluster munitions and explosive submunitions and their type, quantity and lot numbers. If cluster munitions or explosive submunitions are transferred to another State Party for these purposes, the report shall include reference to the receiving party. Such a report shall be prepared for each year during which a State Party retained, acquired or transferred cluster munitions or explosive submunitions and shall be submitted to the Secretary- General of the United Nations no later than 30 April of the following year.
 
-Article 4 Clearance and destruction of cluster munition remnants and risk reduction education
+Article 4
+
+Clearance and destruction of cluster munition remnants and risk reduction education
 
 1. Each State Party undertakes to clear and destroy, or ensure the clearance and destruction of, cluster munition remnants located in cluster munition contaminated areas under its jurisdiction or control, as follows:
 
@@ -352,7 +354,9 @@ Meetings of States Parties
 
 2. The first Meeting of States Parties shall be convened by the Secretary-General of the United Nations within one year of entry into force of this Convention. The subsequent meetings shall be convened by the Secretary-General of the United Nations annually until the first Review Conference.
 
-3. States not party to this Convention, as well as the United Nations, other relevant international organisations or institutions, regional organisations, the International Committee of the Red Cross, the International Federation of Red Cross and Red Crescent Societies and relevant non-governmental organisations may be invited to attend these meetings as observers in accordance with the agreed rules of procedure. Article 12
+3. States not party to this Convention, as well as the United Nations, other relevant international organisations or institutions, regional organisations, the International Committee of the Red Cross, the International Federation of Red Cross and Red Crescent Societies and relevant non-governmental organisations may be invited to attend these meetings as observers in accordance with the agreed rules of procedure.
+
+Article 12
 
 Review Conferences
 
@@ -372,7 +376,7 @@ Article 13
 
 Amendments
 
-1. At any time after its entry into force any State Party may propose amendments to this Convention. Any proposal for an amendment shall be communicated to the Secretary-General of the United Nations, who shall circulate it to all States Parties and shall seek their views on whether an Amendment Conference should be convened to consider the proposal. If a majority of the States Parties notify the Secretary- General of the United Nations no later than 90 days after its circulation that they support further consideration of the proposal, the Secretary-General of the United Nations shall convene an Amendment Conference to which all States Parties shall be invited.
+1. At any time after its entry into force any State Party may propose amendments to this Convention. Any proposal for an amendment shall be communicated to the Secretary-General of the United Nations, who shall circulate it to all States Parties and shall seek their views on whether an Amendment Conference should be convened to consider the proposal. If a majority of the States Parties notify the Secretary-General of the United Nations no later than 90 days after its circulation that they support further consideration of the proposal, the Secretary-General of the United Nations shall convene an Amendment Conference to which all States Parties shall be invited.
 
 2. States not party to this Convention, as well as the United Nations, other relevant international organisations or institutions, regional organisations, the International Committee of the Red Cross, the International Federation of Red Cross and Red Crescent Societies and relevant non-governmental organisations may be invited to attend each Amendment Conference as observers in accordance with the agreed rules of procedure.
 
@@ -380,7 +384,9 @@ Amendments
 
 4. Any amendment to this Convention shall be adopted by a majority of two-thirds of the States Parties present and voting at the Amendment Conference. The Depositary shall communicate any amendment so adopted to all States.
 
-5. An amendment to this Convention shall enter into force for States Parties that have accepted the amendment on the date of deposit of acceptances by a majority of the States which were Parties at the date of adoption of the amendment. Thereafter it shall enter into force for any remaining State Party on the date of deposit of its instrument of acceptance. Article 14
+5. An amendment to this Convention shall enter into force for States Parties that have accepted the amendment on the date of deposit of acceptances by a majority of the States which were Parties at the date of adoption of the amendment. Thereafter it shall enter into force for any remaining State Party on the date of deposit of its instrument of acceptance.
+
+Article 14
 
 Costs and administrative tasks
 

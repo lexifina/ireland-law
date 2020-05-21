@@ -2,7 +2,9 @@ SCHEDULE 2
 
 CONVENTION ON THE PROHIBITION OF THE USE, STOCKPILING, PRODUCTION AND TRANSFER OF ANTI-PERSONNEL MINES AND ON THEIR DESTRUCTION
 
-The States Parties, Determined to put an end to the suffering and casualties caused by anti-personnel mines, that kill or maim hundreds of people every week, mostly innocent and defenceless civilians and especially children, obstruct economic development and reconstruction, inhibit the repatriation of refugees and internally displaced persons, and have other severe consequences for years after emplacement,
+The States Parties,
+
+Determined to put an end to the suffering and casualties caused by anti-personnel mines, that kill or maim hundreds of people every week, mostly innocent and defenceless civilians and especially children, obstruct economic development and reconstruction, inhibit the repatriation of refugees and internally displaced persons, and have other severe consequences for years after emplacement,
 
 Believing it necessary to do their utmost to contribute in an efficient and coordinated manner to face the challenge of removing anti-personnel mines placed throughout the world, and to assure their destruction,
 
@@ -20,9 +22,7 @@ Stressing the role of public conscience in furthering the principles of humanity
 
 Recalling the Ottawa Declaration of 5 October 1996 and the Brussels Declaration of 27 June 1997 urging the international community to negotiate an international and legally binding agreement prohibiting the use, stockpiling, production and transfer of anti-personnel mines,
 
-Emphasizing the desirability of attracting the adherence of all States to this Convention, and determined to work strenuously towards the promotion of its universalization in all relevant fora including, inter alia, the United Nations, the Conference on Disarmament, regional organizations, and groupings, and review conferences of the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which May Be Deemed to Be Excessively Injurious or to Have Indiscriminate Effects,
-
-Basing themselves on the principle of international humanitarian law that the right of the parties to an armed conflict to choose methods or means of warfare is not unlimited, on the principle that prohibits the employment in armed conflicts of weapons, projectiles and materials and methods of warfare of a nature to cause superfluous injury or unnecessary suffering and on the principle that a distinction must be made between civilians and combatants,
+Emphasizing the desirability of attracting the adherence of all States to this Convention, and determined to work strenuously towards the promotion of its universalization in all relevant fora including, inter alia, the United Nations, the Conference on Disarmament, regional organizations, and groupings, and review conferences of the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which May Be Deemed to Be Excessively Injurious or to Have Indiscriminate Effects, Basing themselves on the principle of international humanitarian law that the right of the parties to an armed conflict to choose methods or means of warfare is not unlimited, on the principle that prohibits the employment in armed conflicts of weapons, projectiles and materials and methods of warfare of a nature to cause superfluous injury or unnecessary suffering and on the principle that a distinction must be made between civilians and combatants,
 
 HAVE AGREED as follows:
 
@@ -60,9 +60,7 @@ Exceptions
 
 1. Notwithstanding the general obligations under Article 1, the retention or transfer of a number of anti-personnel mines for the development of and training in mine detection, mine clearance, or mine destruction techniques is permitted. The amount of such mines shall not exceed the minimum number absolutely necessary for the above-mentioned purposes.
 
-2. The transfer of anti-personnel mines for the purpose of destruction is permitted.
-
-Article 4
+2. The transfer of anti-personnel mines for the purpose of destruction is permitted. Article 4
 
 Destruction of stockpiled anti-personnel mines
 
@@ -156,9 +154,7 @@ Transparency measures
 
 2. The information provided in accordance with this Article shall be updated by the States Parties annually, covering the last calendar year, and reported to the Secretary- General of the United Nations not later than 30 April of each year.
 
-3. The Secretary-General of the United Nations shall transmit all such reports received to the States Parties.
-
-Article 8
+3. The Secretary-General of the United Nations shall transmit all such reports received to the States Parties. Article 8
 
 Facilitation and clarification of compliance
 
@@ -244,7 +240,7 @@ Meetings of the States Parties
 
 (f) Decisions relating to submissions of States Parties as provided for in Article 5.
 
-2. The First Meeting of the States Parties shall be convened by the Secretary- General of the United Nations within one year after the entry into force of this Convention. The subsequent meetings shall be convened by the Secretary-General of the United Nations annually until the first Review Conference.
+2. The First Meeting of the States Parties shall be convened by the Secretary-General of the United Nations within one year after the entry into force of this Convention. The subsequent meetings shall be convened by the Secretary-General of the United Nations annually until the first Review Conference.
 
 3. Under the conditions set out in Article 8, the Secretary-General of the United Nations shall convene a Special Meeting of the States Parties.
 
@@ -348,4 +344,4 @@ Article 22
 
 Authentic texts
 
-The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary- General of the United Nations.
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
