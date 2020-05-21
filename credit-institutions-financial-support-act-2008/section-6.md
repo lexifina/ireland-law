@@ -16,7 +16,7 @@ Provision of financial support for credit institutions.
 
 (1B) The Minister may establish a company incorporated under the Companies Acts whose objects include the provision of financial support or operating as a parent undertaking of one or more credit institutions to whom the Minister has provided financial support.
 
-(2)...
+(2) ...
 
 (3) Financial support provided under this section shall not continue beyond—
 
