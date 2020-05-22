@@ -92,6 +92,8 @@ Interpretation (general).
 
 ‘secondary victimisation’ has the same meaning as it has in the Criminal Justice (Victims of Crime) Act 2017;
 
+‘special care order’ has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011) of the Act of 1991;
+
 “summons” has the meaning assigned to it by section 1(1) of the Courts (No. 3) Act, 1986;
 
 “superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death;
