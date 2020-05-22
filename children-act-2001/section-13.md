@@ -2,7 +2,9 @@ Action by health board on recommendations.
 
 13.—(1) On receipt of the recommendations of a family welfare conference, the Child and Family Agency may—
 
-(a) apply for an order under Part IVA (inserted by this Act) of the Act of 1991, (b) apply for a care order or a supervision order under that Act, or
+(a) ...
+
+(b) apply for a care order or a supervision order under that Act, or
 
 (c) provide any service or assistance for the child or his or her family as it considers appropriate, having regard to the recommendations of the conference.
 

@@ -2,7 +2,7 @@
 
 Children Court.
 
-71.—(1) (a) The District Court, when hearing charges against children or when hearing applications for orders relating to a child at which the attendance of the child is required or when exercising any other jurisdiction conferred on the Children Court by or under this or any other Act or by Part III, IV, IVA (inserted by this Act) or V of the Act of 1991, shall be known as the Children Court and is referred to as “the Court” in this Part and Parts 8 and 12A.
+71.—(1) (a) The District Court, when hearing charges against children or when hearing applications for orders relating to a child at which the attendance of the child is required or when exercising any other jurisdiction conferred on the Children Court by or under this or any other Act or by Part III, IV ... or V of the Act of 1991, shall be known as the Children Court and is referred to as “the Court” in this Part and Parts 8 and 12A.
 
 (b) When exercising any such jurisdiction the Court shall sit in a different building or room from that in which sittings of any other court are held or on different days or at different times from those on or at which sittings of any such other court are held.
 
