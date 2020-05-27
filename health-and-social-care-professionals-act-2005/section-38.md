@@ -86,7 +86,9 @@ Registration in register of designated profession.
 
 ‘relevant designated profession’ means a designated profession listed in the second column of Schedule 4;
 
-‘relevant person’, in relation to a relevant designated profession, means the person listed opposite that profession in the third column of Schedule 4; ‘relevant professional qualification’, in relation to a relevant designated profession, means a professional qualification that was recognised by the relevant person—
+‘relevant person’, in relation to a relevant designated profession, means the person listed opposite that profession in the third column of Schedule 4;
+
+‘relevant professional qualification’, in relation to a relevant designated profession, means a professional qualification that was recognised by the relevant person—
 
 (a) as a professional qualification that attested to a standard of proficiency that rendered the holder thereof eligible for recruitment by the Health Service Executive (or any specified body within the meaning of section 56 of the Health Act 2004) in the profession to which that qualification relates, and
 

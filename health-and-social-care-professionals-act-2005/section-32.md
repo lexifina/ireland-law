@@ -1,4 +1,4 @@
-Publication and other requirements relating to draft and other bye-laws.
+Publication and other requirements relating to draft and other byelaws.
 
 32.—(1) A registration board shall ensure that—
 
