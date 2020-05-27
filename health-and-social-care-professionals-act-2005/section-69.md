@@ -1,4 +1,4 @@
-Application to High Court for cancellation of Council's direction.
+Application to High Court for cancellation of Council’s direction.
 
 69.—(1) A registrant affected by a direction to impose a disciplinary sanction (other than an admonishment or a censure) may apply to the Court for an order cancelling the direction.
 

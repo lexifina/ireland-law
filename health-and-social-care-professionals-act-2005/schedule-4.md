@@ -18,11 +18,11 @@ ITEM NO. RELEVANT DESIGNATED RELEVANT PERSON PROFESSION
 
 5. Occupational Therapist Minister
 
-6. Optometrist Opticians Board
-
 ITEM NO. RELEVANT DESIGNATED RELEVANT PERSON PROFESSION
 
 (1) (2) (3)
+
+6. Optometrist Opticians Board
 
 7. Orthoptist Minister
 

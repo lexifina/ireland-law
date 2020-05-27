@@ -1,4 +1,4 @@
-Duty to notify registrant of Council's directions.
+Duty to notify registrant of Council’s directions.
 
 67.—(1) As soon as practicable after directing a registration board under section 66 to impose a disciplinary sanction on a registrant, the Council shall notify the registrant and the complainant of the following:
 

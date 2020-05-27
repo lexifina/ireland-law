@@ -1,4 +1,4 @@
-Minister's power to make regulations.
+Minister’s power to make regulations.
 
 95.—(1) The Minister may—
 

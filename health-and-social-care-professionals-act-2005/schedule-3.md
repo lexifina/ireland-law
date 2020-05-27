@@ -4,7 +4,7 @@ QUALIFICATIONS REQUIRED BY EXISTING PRACTITIONERS
 
 PROFESSION QUALIFICATION
 
-1. Clinical Degree in which biochemistry was taken as a subject in the final examina- Biochemists tion.
+1. Clinical Degree in which biochemistry was taken as a subject in the final Biochemists examination.
 
 2. Dietitians Bachelor of Science (Honours) in Human Nutrition and Dietetics from the University of Dublin and Diploma in Human Nutrition and Dietetics from the Dublin Institute of Technology, or
 
@@ -54,7 +54,7 @@ Bachelor of Science (Radiography) from the National University of Ireland, or
 
 Bachelor of Science (Therapeutic Radiography) from the University of Dublin.
 
-10. Social Care Work- National Diploma in Child Care awarded by the Higher Education and ers Training Awards Council/Dublin Institute of Technology, or
+10. Social Care National Diploma in Child Care awarded by the Higher Education and Training Workers Awards Council/Dublin Institute of Technology, or
 
 National Diploma in Applied Social Care Studies awarded by the Higher Education and Training Awards Council/Dublin Institute of Technology, or
 
@@ -70,7 +70,7 @@ Open Training College National Diploma in Applied Social Studies (Disability).
 
 Certificate of Qualification in Social Work awarded by the Central Council for Education and Training in Social Work, U.K.
 
-12. Speech and Bachelor of Science (Clinical Speech and Language Studies) from the Language Thera- University of Dublin, or pists Bachelor of Arts (Moderatorship) (Remedial Linguistics) from the University of Dublin, or
+12. Speech and Bachelor of Science (Clinical Speech and Language Studies) from the Language University of Dublin, or Therapists Bachelor of Arts (Moderatorship) (Remedial Linguistics) from the University of Dublin, or
 
 Bachelor of Arts (Remedial Linguistics) from the University of Dublin, or
 
