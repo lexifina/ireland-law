@@ -1,0 +1,9 @@
+Issue of shares, and creation of debt due, to Minister for Finance in consideration of transfer of property.
+
+19.— (1) The company shall issue to the Minister for Finance on the vesting day such number of shares in the share capital of the company as may be agreed upon by the Minister and the Minister for Finance and may from time to time thereafter issue to the Minister for Finance such number of shares of the company as may be so agreed upon.
+
+(2) The Minister shall, with the consent of the Minister for Finance, issue to the company on or before the vesting day a certificate stating the amount which in the opinion of the Minister represents the value of the property to be transferred to the company pursuant to sections 77 , 78 and 79 on the vesting day.
+
+(3) On the vesting day an amount equal to the value of the property aforesaid less the nominal value of the shares of the company issued to the Minister for Finance under subsection (1) on the vesting day shall become and be a debt due by the company to the Minister for Finance and the debt shall be subject to such terms and conditions (including terms and conditions in relation to its repayment and payment of interest thereon) as may be determined by the Minister for Finance.
+
+(4) If property is transferred to the company under section 77 after the vesting day, the Minister shall, with the consent of the Minister for Finance, issue as soon as may be to the company a certificate stating the amount which in his opinion represents the value of the property and, upon such issue, an amount equal to the amount aforesaid shall become and be a debt due by the company to the Minister for Finance and the debt shall be subject to such terms and conditions (including terms and conditions in relation to its repayment and payment of interest thereon) as may be determined by the Minister for Finance.

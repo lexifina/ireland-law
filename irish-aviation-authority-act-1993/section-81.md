@@ -1,0 +1,17 @@
+Liability for loss occurring before vesting day.
+
+81.— (1) Subject to subsection (2), where a claim in respect of any loss, injury or damage arising out of the exercise before the vesting day of functions transferred to the company by or under this Act has not been made before that day or, if so made, has not been satisfied or otherwise disposed of, the claim shall, after that day, lie against the company and not against the Minister, any other State authority or the State.
+
+(2) Subsection (1) shall not apply in relation to a loss or an injury or damage referred to in subsection (1) if there is in force a policy of insurance under which the Minister is insured against any sum which he is liable to pay by way of damages or costs in respect of the loss, injury or damage.
+
+(3) Where, before the vesting day, agreement in settlement of a claim to which subsection (1) relates has been reached between the parties and the terms of the agreement have not been implemented or judgment has been given in favour of the person making the claim and the judgment has not been enforced, the terms of the agreement or the judgment, as the case may be, shall, in so far as enforceable against the Minister, any other State authority or the State, be enforceable against the company and not against the Minister, any other State authority or the State.
+
+(4) Any claim made or proper to be made by the Minister, any other State authority or the State in respect of any loss, injury or damage arising from the act or default of any person before the vesting day shall, where the claim relates to functions assigned to the company by or under this Act, be regarded as made by or proper to be made by the company and may be pursued and sued for by the company as if the loss, injury or damage had been suffered by the company.
+
+(5) Where, before the vesting day, settlement of a claim to which subsection (4) relates has been reached between the parties and the terms of the agreement have not been implemented or judgment has been given in favour of the Minister, any other State authority or the State and the judgment has not been enforced, the terms of the agreement or the judgment, as the case may be, shall, in so far as enforceable by the Minister, any other State authority or the State, be enforceable by the company.
+
+(6) This section does not apply to a claim by one State authority against another.
+
+(7) The Minister shall pay to the company a sum equal to the amount of any payment made by the company in respect of a claim referred to in subsection (1) or (3) including any payment in respect of costs necessarily incurred in relation to the claim by any party.
+
+(8) The company shall pay to the Minister a sum equal to the amount of any payment received by the company in respect of a claim referred to in subsection (4) or (5) less the amount of any payment made by the company in respect of costs necessarily incurred by it in relation to the claim and, where such a claim is unsuccessful, the Minister shall pay to the company an amount equal to the amount of any payment made by the company in respect of costs necessarily incurred by it in relation to the claim.
