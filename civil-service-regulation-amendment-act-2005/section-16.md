@@ -16,9 +16,9 @@ Houses of established civil servant be exercised— the
 
 Oireachtas
 
-Assistant of Dáil Éireann, by the Taoiseach on the recommenda-
+Assistant of Dáil Éireann, by the Taoiseach on the
 
-Commission. tion of the Chairman of Dáil Éireann, following consultation by that Chairman with the Houses of the Oireachtas Commission;
+Commission. recommendation of the Chairman of Dáil Éireann, following consultation by that Chairman with the Houses of the Oireachtas Commission;
 
 (b) in the case of a person who holds the office of Clerk or Clerk- Assistant of Seanad Éireann by the Taoiseach on the recommendation of the Chairman of Seanad Éireann following consultation by that Chairman with the Houses of the Oireachtas Commission;
 
