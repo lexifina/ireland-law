@@ -94,7 +94,7 @@ Statutory Instruments
 
 4. Paragraph 2 of Schedule 2 to the European Communities (European Cooperative Society) (Employee Involvement) Regulations 2007 (S.I. No. 259 of 2007)
 
-5. Paragraph 1 of Schedule 4 to the European Communities (Occurrence Reporting in Civil Aviation) Regulations 2007 (S.I. No. 285 of 2007)
+5. In relation to a complaint of a contravention of Article 16(9) of Regulation (EU) No. 376/2014 of the European Parliament and of the Council of 3 April 2014, paragraph 1 of the Schedule to the European Union (Reporting, Analysis and Follow-up of Occurrences in Civil Aviation) Regulations 2020 (S.I. No. 195 of 2020)
 
 6. Paragraph 2 of Schedule 2 to the European Communities (Cross-Border Mergers) Regulations 2008 (S.I. No. 157 of 2008)
 
@@ -113,6 +113,8 @@ Acts of Oireachtas
 2. Section 12A of the Minimum Notice and Terms of Employment Act 1973
 
 3. Section 11B of the Protection of Employment Act 1977
+
+Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Commission and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007.
 
 4. Section 7 of the Payment of Wages Act 1991
 
@@ -192,7 +194,7 @@ Statutory Instruments
 
 4. Paragraph 3 of Schedule 2 to the European Communities (European Cooperative Society) (Employee Involvement) Regulations 2007 (S.I. No. 259 of 2007)
 
-5. Paragraph 2 of Schedule 4 to the European Communities (Occurrence Reporting in Civil Aviation) Regulations 2007 (S.I. No. 285 of 2007)
+5. In relation to a complaint of a contravention of Article 16(9) of Regulation (EU) No. 376/2014 of the European Parliament and of the Council of 3 April 2014, paragraph 2 of the Schedule to the European Union (Reporting, Analysis and Follow-up of Occurrences in Civil Aviation) Regulations 2020 (S.I. No. 195 of 2020).
 
 6. Paragraph 3 of Schedule 2 to the European Communities (Cross-Border Mergers) Regulations 2008 (S.I. No. 157 of 2008)
 

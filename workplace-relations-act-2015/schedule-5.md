@@ -78,7 +78,7 @@ Part 2
 
 5. Regulation 20(1) of the European Communities (European Cooperative Society) (Employee Involvement) Regulations 2007 (S.I. No. 259 of 2007)
 
-6. Regulation 9(4) of the European Communities (Occurrence Reporting in Civil Aviation) Regulations 2007 (S.I. No. 285 of 2007)
+6. ...
 
 7. Regulation 39(1) of the European Communities (Cross-Border Mergers) Regulations 2008 (S.I. No. 157 of 2008)
 
