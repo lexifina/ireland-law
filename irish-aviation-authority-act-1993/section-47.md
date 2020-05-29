@@ -1,0 +1,3 @@
+Power of company to give effect to Eurocontrol Convention.
+
+47.—The company may, with the consent of the Minister, make such orders in relation to matters to which functions of the company relate as appear to it to be necessary or expedient for carrying out and giving effect to, or to any provision of, the Eurocontrol Convention ....
