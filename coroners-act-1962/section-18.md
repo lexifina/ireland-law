@@ -1,0 +1,13 @@
+Optional power to hold inquest and duty to notify coroner.
+
+18.—(1) Where a coroner is informed that the body of a deceased person is lying within his district and that a medical certificate of the cause of death is not procurable or such a certificate is not, in the opinion of the coroner, completed in a satisfactory manner to facilitate the registration of the death in accordance with the Act of 2004, he may inquire into the circumstances of the death of that person and, if he is unable to ascertain the cause of death, may, if he so thinks proper, hold an inquest in relation to the death.
+
+(2) Subsection (1) of this section shall not apply to any case to which section 17 of this Act applies.
+
+(3) ...
+
+(4) ...
+
+(5) ...
+
+(6) ...
