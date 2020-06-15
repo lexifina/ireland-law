@@ -1,0 +1,3 @@
+Extension of power of coroner to authorise burial.
+
+51.—...

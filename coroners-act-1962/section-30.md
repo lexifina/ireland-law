@@ -1,0 +1,3 @@
+Prohibition of consideration of civil and criminal liability.
+
+30.—Questions of civil or criminal liability shall not be considered or investigated at an inquest ....

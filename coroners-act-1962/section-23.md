@@ -1,0 +1,3 @@
+Inquest where body destroyed or irrecoverable.
+
+23.—Whenever a coroner has reason to believe that a death has occurred in or near his district in such circumstances that an inquest is appropriate and that, owing to the destruction of the body or its being irrecoverable, an inquest cannot be held except by virtue of this section, the Minister may, if he so thinks proper, direct an inquest in relation to the death to be held by that coroner or another coroner, and thereupon the coroner so directed shall hold an inquest in relation to the death in like manner as if the body were lying within his district and had been viewed by him.
