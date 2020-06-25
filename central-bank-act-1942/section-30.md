@@ -1,3 +1,3 @@
-Operation of disqualification of the Governor or a Director.
+Operation
 
 30.—...

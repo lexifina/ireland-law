@@ -1,4 +1,4 @@
-Appeal stays the finding of the Financial Services Ombudsman.
+Appeal
 
 57CN.—...
 

@@ -40,7 +40,9 @@ Interpretation.
 
 ...
 
-... ‘credit union’ has the meaning given by the Credit Union Act 1997;
+...
+
+‘credit union’ has the meaning given by the Credit Union Act 1997;
 
 ‘Currency Act 1927’ means that Act as adapted in consequence of the Constitution;
 
@@ -256,11 +258,11 @@ Interpretation.
 
 (aw) Commission Delegated Regulation (EU) 2018/389 of of 27 November 2017;
 
+OJ, No L171, 29.6.2016, p. 1
+
 (ax) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017;
 
 (ay) Commission Delegated Regulation (EU) 2019/979 of 14 March 2019;
-
-OJ, No L171, 29.6.2016, p. 1
 
 (az) Commission Delegated Regulation (EU) 2019/980 of 14 March 2019.
 
