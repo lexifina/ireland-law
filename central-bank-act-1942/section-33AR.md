@@ -12,6 +12,8 @@ Alternative procedure when commission of, or participation in, prescribed contra
 
 (b) hold an inquiry to determine what sanction (if any) should be imposed on the person in accordance with that section.
 
+19 OJ No. L 331, 15.12.2010, p. 84
+
 (3) At the conclusion of an inquiry under subsection (1)(b), the Bank shall notify its decision to the financial service provider concerned. The decision must set out in writing the sanctions (if any) imposed under that subsection in respect of the relevant contravention.
 
 (4) At the conclusion of an inquiry held under paragraph (b) of subsection (2), the Bank shall notify the person concerned of its decision. The decision must set out the sanctions (if any) imposed under that paragraph in respect of the participation.
