@@ -430,6 +430,8 @@ Disclosure of information.
 
 (ae) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017;
 
+OJ, No L171, 29.6.2016, p. 1
+
 (af) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017,
 
 (ag) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017,
