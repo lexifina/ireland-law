@@ -1,4 +1,4 @@
-Development plans and dissolution of certain planning authorities.
+Development
 
 11C.—Where after the passing of the Electoral, Local Government and Planning and Development Act 2013 provision is made by law for the dissolution of town councils (being town councils within the meaning of section 11A(1)) then, irrespective of whether or not any relevant decision was made pursuant to section 11A(2)—
 

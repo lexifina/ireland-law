@@ -1,4 +1,4 @@
-Repair and tidying of advertisement structures and advertisements.
+Repair
 
 209.—(1) If it appears to a planning authority that, having regard to the interests of public safety or amenity, an advertisement structure or advertisement in its area should be repaired or tidied, the planning authority may serve on the person having control of the structure or advertisement a notice requiring that person to repair or tidy the advertisement structure or advertisement within a specified period.
 

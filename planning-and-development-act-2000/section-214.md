@@ -6,7 +6,9 @@ Public Health (Ireland) Act, 1878;
 
 Local Government (Ireland) Act, 1898;
 
-Local Government Act, 1925; Water Supplies Act, 1942;
+Local Government Act, 1925;
+
+Water Supplies Act, 1942;
 
 Local Government (No. 2) Act, 1960;
 

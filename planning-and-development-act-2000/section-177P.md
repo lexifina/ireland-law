@@ -1,4 +1,4 @@
-Supplementary provisions relating to an application for substitute consent.
+Supplementary
 
 177P.— (1) Section 126 shall apply in relation to the duty of the Board to dispose of applications for substitute consent as it applies to the duty of the Board to dispose of appeals and referrals subject to—
 

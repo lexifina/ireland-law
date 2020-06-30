@@ -1,4 +1,4 @@
-Requirements affecting members, etc. who have certain beneficial interests.
+Requirements
 
 148.—(1) Where a member of the Board has a pecuniary or other beneficial interest in, or which is material to, any appeal, contribution, question, determination or dispute which falls to be decided or determined by the Board under any enactment, he or she shall comply with the following requirements:
 

@@ -1,4 +1,4 @@
-Quarry substitute consent applications - Board’s jurisdiction in relation to simultaneous applications for further development
+Quarry substitute consent applications - Board’s jurisdiction in relation
 
 37L. (1) Where an application for substitute consent is or was required to be made by the owner or operator of a quarry pursuant to subsection (7), (10) or (12) of section 261A, the owner or operator may apply for permission to further develop that quarry in accordance with this section.
 

@@ -1,4 +1,4 @@
-Declaration and referral on development and exempted development.
+Declaration
 
 5.—(1) If any question arises as to what, in any particular case, is or is not development or is or is not exempted development within the meaning of this Act, any person may, on payment of the prescribed fee, request in writing from the relevant planning authority a declaration on that question, and that person shall provide to the planning authority any information necessary to enable the authority to make its decision on the matter.
 

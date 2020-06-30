@@ -104,6 +104,8 @@ Interpretation.
 
 ‘Environmental Impact Assessment Directive’ means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014 amending Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment;
 
+3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
+
 ‘environmental impact assessment report’ means a report of the effects, if any, which proposed development, if carried out, would have on the environment and shall include the information specified in Annex IV of the Environmental Impact Assessment Directive;
 
 ‘European site’ has the meaning given to it by section 177R of Part XAB;
@@ -111,8 +113,6 @@ Interpretation.
 ‘European Union’ means European Union within the meaning of the European Communities Act 1972 (No. 27 of 1972);
 
 “exempted development” has the meaning specified in section 4;
-
-3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
 
 “exhibit”, in relation to an advertisement, includes affix, inscribe, print, paint, illuminate and otherwise delineate;
 

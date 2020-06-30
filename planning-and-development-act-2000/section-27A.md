@@ -1,4 +1,4 @@
-Report of regional assembly for preparation of draft development plan.
+Report
 
 27A. (1) Where a regional assembly receives a notice from a planning authority under section 11(1) it shall prepare submissions or observations for the purposes of section 11(2).
 

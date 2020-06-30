@@ -40,7 +40,9 @@ Consultation and adoption of local area plans.
 
 (III) contain the opinion of the chief executive in relation to the issues raised, and his or her recommendations in relation to the proposed local area plan, amendment to a local area plan or revocation of a local area plan, as the case may be, taking account of the proper planning and sustainable development of the area, the statutory obligations of any local authority in the area and any relevant policies or objectives for the time being of the Government or of any Minister of the Government.
 
-(cc) In the case of each planning authority within the GDA, a report under subparagraph (c)(i) shall summarise the issues raised and the recommendations made by the DTA in a report prepared in accordance with section 31E and outline the recommendations of the chief executive in relation to the manner in which those issues and recommendations should be addressed in the proposed local area plan.
+(cc) In the case of each planning authority within the GDA, a report under subparagraph
+
+(c)(i) shall summarise the issues raised and the recommendations made by the DTA in a report prepared in accordance with section 31E and outline the recommendations of the chief executive in relation to the manner in which those issues and recommendations should be addressed in the proposed local area plan.
 
 (d) (i) The members of a planning authority shall consider the proposal to make, amend or revoke a local area plan and the report of the chief executive under paragraph (c).
 
@@ -138,4 +140,4 @@ Consultation and adoption of local area plans.
 
 (c) specific planning policy requirements specified in guidelines under subsection (1) of section 28.
 
-Chapter IIA National Planning Framework
+Chapter IIA
