@@ -1,6 +1,14 @@
 Strategic Infrastructure Division.
 
-112A.— (1) A division of the Board which shall be known as the Strategic Infras- gic Infrastruc- tructure Division is established on the commencement of section 19 of the Planning ture Division. and Development (Strategic Infrastructure) Act 2006.
+112A.— (1) A division of the Board which shall be known as the Strategic
+
+Infrastructure
+
+Infrastructure Division is established on the commencement of section 19 of the
+
+Division.
+
+Planning and Development (Strategic Infrastructure) Act 2006.
 
 (2) That division is in addition to any division for the time being constituted under section 112.
 
