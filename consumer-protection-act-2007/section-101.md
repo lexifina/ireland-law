@@ -1,6 +1,6 @@
 Directions under certain instruments respecting product safety: actions of third parties.
 
-101.— (1) In this section “relevant direction” means a direction, for the time being in force, given under any of the statutory instruments specified in Schedule 7, being a direction—
+101.— (1) In this section “relevant direction” means a direction, for the time being in force, given under any of the statutory instruments specified in Schedule 7 , being a direction—
 
 (a) prohibiting the placing on the market of one or more products or requiring one or more products to be withdrawn from the market, or
 
@@ -24,6 +24,6 @@ Directions under certain instruments respecting product safety: actions of third
 
 (b) in a case where the restriction concerned does not prohibit the doing of that particular thing in respect of the product — do any particular thing referred to in subsection (3) in respect of a product concerned otherwise than in accordance with the terms of the restriction.
 
-(5) A person who contravenes subsection (3) or (4) commits an offence and is liable on summary conviction to the fines and penalties provided in Chapter 4 of Part 5.
+(5) A person who contravenes subsection (3) or (4) commits an offence and is liable on summary conviction to the fines and penalties provided in Chapter 4 of Part 5 .
 
 (6) This section is in addition to the provision of any statutory instrument specified in Schedule 7 that creates an offence in respect of a contravention of a direction given under that instrument.

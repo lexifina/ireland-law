@@ -1,6 +1,6 @@
 Transitional.
 
-93.— (1) Despite section 4, the following enactments made under section 11 of the Consumer Information Act 1978 (before its repeal by this Act) remain in force and are deemed to have been made as regulations by the Minister under section 50(2) until any such enactment is revoked, substituted by regulation of the Minister under section 50(2) or otherwise ceases to have effect:
+93.— (1) Despite section 4 , the following enactments made under section 11 of the Consumer Information Act 1978 (before its repeal by this Act) remain in force and are deemed to have been made as regulations by the Minister under section 50(2) until any such enactment is revoked, substituted by regulation of the Minister under section 50(2) or otherwise ceases to have effect:
 
 (a) Consumer Information (Advertisements) (Disclosure of Business Interests) Order 1984 (S.I. No. 168 of 1984);
 

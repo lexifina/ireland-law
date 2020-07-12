@@ -34,4 +34,4 @@ Civil relief by way of prohibition orders.
 
 (12) Where an application is transferred under subsection (10) to the High Court, the High Court shall be deemed to have made any order of a procedural nature that was made by the court from which it is so transferred in the proceedings in relation to the application.
 
-(13) A trader commits an offence who, without reasonable excuse, fails to comply with an order under this section and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in Chapter 4.
+(13) A trader commits an offence who, without reasonable excuse, fails to comply with an order under this section and is liable on conviction on indictment or on summary conviction, as the case may be, to the fines and penalties provided in Chapter 4 .

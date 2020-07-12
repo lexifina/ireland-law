@@ -6,4 +6,4 @@ Offence: preventing the reading of prices.
 
 (b) entering premises for purposes described in paragraph (a), if those premises are where the trader supplies those products.
 
-(2) A trader who contravenes subsection (1)(a) or (b) commits an offence and is liable on summary conviction to the fines and penalties provided in Chapter 4 of Part 5.
+(2) A trader who contravenes subsection (1)(a) or (b) commits an offence and is liable on summary conviction to the fines and penalties provided in Chapter 4 of Part 5 .

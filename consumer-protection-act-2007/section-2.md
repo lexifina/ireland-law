@@ -26,7 +26,7 @@ Interpretation and application.
 
 “enactment” means an Act (within the meaning of the Interpretation Act 2005) or any instrument made under a power conferred by an Act (within that meaning);
 
-“establishment day” means the establishment day appointed under section 6;
+“establishment day” means the establishment day appointed under section 6 ;
 
 “existing enactments” means the following enactments, to the extent to which those enactments confer functions on the Director which are transferred to the Agency pursuant to section 37:
 
