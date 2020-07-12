@@ -35,3 +35,5 @@ S.I. No. 500 of 2015 the European Union (Online Dispute Resolution for Consumer 
 S.I. No. 513 of 2018 the European Union (Unjustified Geo-blocking of Consumers) Regulations 2018
 
 S.I. No. 14 of 2020 European Union (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020
+
+S.I. No. xxx of 2020 the European Union (Promoting fairness and transparency for business users of online intermediation services) Regulations 2020

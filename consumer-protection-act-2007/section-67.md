@@ -6,7 +6,7 @@ Definition (Part 5).
 
 67.— In this Part “prohibited act or practice” means any of the following:
 
-(a) any unfair, misleading or aggressive commercial practice under Part 3;
+(a) any unfair, misleading or aggressive commercial practice under Part 3 ;
 
 (b) any contravention of section 48(3) or 49(1);
 
@@ -34,4 +34,6 @@ Definition (Part 5).
 
 (i) the payee (within the meaning of those Regulations) is a trader that is not a regulated financial service provider (within the meaning of the Central Bank Act 1942), and
 
-(ii) the payer (within the meaning of those Regulations) is a consumer, but subject to the exclusion of one or more of the foregoing provisions provided for in section 71, 73, 74 or 75.
+(ii) the payer (within the meaning of those Regulations) is a consumer,
+
+(n) any contravention of the European Union (Promoting Fairness and Transparency for Business Users of Online Intermediation Services) Regulations 2020 (S.I. No. 256 of 2020), but subject to the exclusion of one or more of the foregoing provisions provided for in section 71, 73, 74 or 75.
