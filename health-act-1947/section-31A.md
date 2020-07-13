@@ -1,4 +1,4 @@
-F23[Regulations for preventing, limiting, minimising or slowing spread of Covid- 19
+F23[Regulations for preventing, limiting, minimising or slowing spread of Covid-19
 
 31A. (1) The Minister may, having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2), make regulations for the purpose of preventing, limiting, minimising or slowing the spread of Covid-19 (including the spread outside the State) or where otherwise necessary, to deal with public health risks arising from the spread of Covid-19 and, without prejudice to the generality of the foregoing, such regulations may, in particular, provide for all or any of the following:
 
@@ -56,7 +56,7 @@ F23[Regulations for preventing, limiting, minimising or slowing spread of Covid-
 
 (viii) the advice of the Chief Medical Officer of the Department of Health, and
 
-(b) may, have regard to any relevant guidance (including, in particular, any guidance relating to the risk assessment for, and case definition relating to, Covid- 19) provided by the World Health Organisation, the European Centre for Disease Prevention and Control, the Health Protection Surveillance Centre of the Health Service Executive and other persons with relevant medical and scientific expertise.
+(b) may, have regard to any relevant guidance (including, in particular, any guidance relating to the risk assessment for, and case definition relating to, Covid-19) provided by the World Health Organisation, the European Centre for Disease Prevention and Control, the Health Protection Surveillance Centre of the Health Service Executive and other persons with relevant medical and scientific expertise.
 
 (3) Before making regulations under subsection (1), the Minister—
 

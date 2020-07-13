@@ -22,7 +22,7 @@ Session and Chapter or Short Title Extent of Repeal Number and Year.
 
 47 & 48 Vic., c. 69. Cholera, Etc., Protection The whole Act. (Ireland) Act, 1884.
 
-52 & 53 Vic., c. 72. Infectious Disease (Noti- The whole Act. fication) Act, 1889.
+52 & 53 Vic., c. 72. Infectious Disease The whole Act. (Notification) Act, 1889.
 
 53 & 54 Vic., c. 34. Infectious Disease The whole Act. (Prevention) Act, 1890.
 
@@ -38,7 +38,7 @@ Session and Chapter or Short Title Extent of Repeal Number and Year.
 
 4 Edw. VII, c. 16 Public Health Act, 1904. The whole Act.
 
-7 Edw. VII, c. 32. Public Health (Regula- The whole Act. tions as to Food) Act, 1907.
+7 Edw. VII, c. 32. Public Health The whole Act. (Regulations as to Food) Act, 1907.
 
 7 Edw. VII, c. 53. Public Health Acts Section 50, Part IV. Amendment Act, 1907. 8 Edw. VII, c. 56. Tuberculosis Prevention Parts I and II; Sections 14 to 16 (Ireland) Act, 1908. and 21.
 
@@ -48,7 +48,7 @@ Session and Chapter or Short Title Extent of Repeal Number and Year.
 
 5 & 6 Geo. V, c. 64. Notification of Births Section 2; paragraph (b) of (Extension) Act, 1915. subsection (2) of section 3.
 
-7 & 8 Geo. V, c. 40. Public Health (Preven- The whole Act. tion and Treatment of Disease) (Ireland) Act, 1917.
+7 & 8 Geo. V, c. 40. Public Health The whole Act. (Prevention and Treatment of Disease) (Ireland) Act, 1917.
 
 8 & 9 Geo. V, c. 29. Maternity and Child Section 4. Welfare Act, 1918.
 
