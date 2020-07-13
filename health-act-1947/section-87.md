@@ -1,3 +1,3 @@
-Annuity or other payment to Irish Land Commission or Commissioners of Public Works in Ireland.
+Annuity
 
 87.—Where land acquired by a health authority is subject in conjunction with other land to an annuity or other annual payment payable to the Irish Land Commission, or to the Commissioners of Public Works in Ireland, the said Commission or the said Commissioners (as the case may be) may apportion the annuity or other annual payment in such manner as they consider proper between the land so acquired and such other land or may charge the whole of the annuity or other annual payment on any part of the land subject thereto in exoneration of the residue of such land.

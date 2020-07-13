@@ -56,7 +56,7 @@ Regulations for preventing, limiting, minimising or slowing spread of Covid-19.
 
 (viii) the advice of the Chief Medical Officer of the Department of Health, and
 
-(b) may, have regard to any relevant guidance (including, in particular, any guidance relating to the risk assessment for, and case definition relating to, Covid- 19) provided by the World Health Organisation, the European Centre for Disease Prevention and Control, the Health Protection Surveillance Centre of the Health Service Executive and other persons with relevant medical and scientific expertise.
+(b) may, have regard to any relevant guidance (including, in particular, any guidance relating to the risk assessment for, and case definition relating to, Covid-19) provided by the World Health Organisation, the European Centre for Disease Prevention and Control, the Health Protection Surveillance Centre of the Health Service Executive and other persons with relevant medical and scientific expertise.
 
 (3) Before making regulations under subsection (1), the Minister—
 
