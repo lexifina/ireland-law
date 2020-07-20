@@ -4,6 +4,8 @@ Microenterprise Loan Fund.
 
 4.— (1) All grants made to the subsidiary under section 5 and all gift and other income shall be known collectively as the Microenterprise Loan Fund and in this Act are referred to as the “Fund”.
 
+OJ No. L169, 1. 7.2015, p.1 ;
+
 (2) The subsidiary shall for the purposes of the performance of its functions under this Act, open such accounts as, in accordance with any arrangement under subsection (4), it determines.
 
 (3) All grants made to the subsidiary under section 5 and all gift and other income shall be paid into accounts of the subsidiary opened under this section.
