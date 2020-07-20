@@ -1,4 +1,4 @@
-Further provisions in aid of enforcement of registration requirements.
+Further
 
 145.—(1) A person authorised in writing by the Board for the purposes of this section as respects the particular dwelling may, at all reasonable times, enter into and inspect a dwelling for the purposes of determining the correctness of any particular specified in an application made under section 134 in respect of a tenancy of that dwelling.
 

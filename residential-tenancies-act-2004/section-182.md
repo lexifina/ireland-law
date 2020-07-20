@@ -1,6 +1,6 @@
 ## PART 9 MISCELLANEOUS
 
-Limitation on certain disputes being the subject of court proceedings.
+Limitation
 
 182.—(1) On and from the commencement of Part 6, proceedings may not be instituted in any court in respect of a dispute that may be referred to the Board for resolution under that Part unless one or more of the following reliefs is being claimed in the proceedings—
 
