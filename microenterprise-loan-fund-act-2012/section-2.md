@@ -12,7 +12,13 @@ Interpretation.
 
 “Minister” means the Minister for Jobs, Enterprise and Innovation;
 
-“Social Finance Foundation” means the company of that nameformed and registered under the Companies Acts on 25 January 2007;
+‘promotional financial institution’ means—
+
+(a) the Strategic Banking Corporation of Ireland, or
+
+(b) any other national promotional bank or institution, other than the Social Finance Foundation, within the meaning of Regulation (EU) 2015/1017 of the European Parliament and of the Council of 25 June 2015 on the European Fund for Strategic Investments, the European Investment Advisory Hub and the European Investment Project Portal and amending Regulations (EU) No. 1291/2013 and (EU) No. 1316/2013 - the European Fund for Strategic Investments;
+
+“Social Finance Foundation” means the company of that name formed and registered under the Companies Acts on 25 January 2007;
 
 “subsidiary” has the meaning assigned to it by section 11.
 
