@@ -1,6 +1,6 @@
 Removal of disqualification under consequential or ancillary disqualification order.
 
-29.— (1) This section applies to a person in respect of whom a disqualification order has been made, whether before or after the commencement of section 7 of the Road Traffic Act 2006, disqualifying the person for holding a licence during a period of more than 2 years, and which is the first such order made in respect of that person within a period of 10 years.
+29.—(1) This section applies to a person in respect of whom a disqualification order has been made, whether before or after the commencement of section 7 of the Road Traffic Act 2006, disqualifying the person for holding a licence during a period of more than 2 years, and which is the first such order made in respect of that person within a period of 10 years.
 
 (2) A person to whom this section applies may, at any time following the completion of one-half of the period specified in the disqualification order, apply to the court which made the order, for the removal of the disqualification.
 

@@ -1,6 +1,6 @@
 Vehicle insurer.
 
-58.— (1) In this Act, “vehicle insurer” means, subject to subsection (1) of section 78 of this Act,—
+58.—(1) In this Act, “vehicle insurer” means, subject to subsection (1) of section 78 of this Act,—
 
 (a) an undertaking within the meaning of Article 2 (1) of the EC (Non-Life Insurance) Regulations 1976 (S.I. No. 115 of 1976) as amended by Article 4 of the European Communities (Non-Life Insurance) (Amendment) (No. 2) Regulations 1991 (S.I. No. 142 of 1991) which carries on a class 10 mechanically propelled vehicle insurance business in the State, or
 
