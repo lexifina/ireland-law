@@ -1,6 +1,6 @@
 Careless driving.
 
-52.— (1) A person shall not drive a vehicle in a public place without due care and attention.
+52.—(1) A person shall not drive a vehicle in a public place without due care and attention.
 
 (2) A person who contravenes subsection (1) commits an offence and—
 

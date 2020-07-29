@@ -1,6 +1,6 @@
 Production of driving licence on demand by member of Garda Síochána.
 
-40.— (1) A member of the Garda Síochána may demand of a person—
+40.—(1) A member of the Garda Síochána may demand of a person—
 
 (a) driving in a public place a mechanically propelled vehicle, or
 

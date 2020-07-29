@@ -1,3 +1,3 @@
-Bye-laws in relation to stands for street service vehicles.
+Bye-laws in relation to stands for street service vehicles. (Repealed)
 
 84.—...

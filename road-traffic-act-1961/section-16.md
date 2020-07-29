@@ -22,7 +22,7 @@ Requirements with respect to weighing.
 
 (b) the officer suspects that the weight unladen of the vehicle or combination is such that use of the vehicle or combination constitutes an offence under this Act, and
 
-(c) the vehicle or combination either has no load or has a load or loads which can be unloaded without undue inconvenience, the officer may require the person in charge of the vehicle or combination to do all or any of the following things :
+(c) the vehicle or combination either has no load or has a load or loads which can be unloaded without undue inconvenience, the officer may require the person in charge of the vehicle or combination to do all or any of the following things:
 
 (i) forthwith to bring the vehicle or combination, inclusive of all additions with it on the said occasion, to any appointed weighbridge named by the officer and not more than 25 kilometres distant by the shortest available route from the place at which the requisition is made;
 

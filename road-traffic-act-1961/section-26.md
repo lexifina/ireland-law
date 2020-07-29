@@ -1,6 +1,6 @@
 Consequential disqualification orders.
 
-26.— (1) Subject to subsection (5)(b), where a person is convicted of an offence specified in the Second Schedule, the court shall make an order (‘consequential disqualification order’) declaring him or her to be disqualified for holding a driving licence.
+26.—(1) Subject to subsection (5)(b), where a person is convicted of an offence specified in the Second Schedule, the court shall make an order (‘consequential disqualification order’) declaring him or her to be disqualified for holding a driving licence.
 
 (2) Subject to subsection (3), a consequential disqualification order operates to disqualify the person to whom the order relates for holding any driving licence whatsoever during a specified period or during a specified period and thereafter until he or she has produced to the ... licensing authority, as may be specified in the order, a certificate of competency or a certificate of fitness or both.
 
@@ -68,7 +68,7 @@ Reference Concentration of alcohol First offence Second or any Number under the 
 
 6 months 1 year
 
-(c)
+(c) Reference Concentration of alcohol First offence Second or any Number under the subsequent offence under section the same section or first concerned offence where previously convicted under the other section (1) (2) (3) (4)
 
 2. (a) Exceeding 80 milligrammes
 
@@ -80,9 +80,11 @@ Reference Concentration of alcohol First offence Second or any Number under the 
 
 3. (a) Exceeding 100 milligrammes
 
-(b) Exceeding 135 milligrammes 2 years 4 years
+(b) Exceeding 135 milligrammes
 
-(c) Exceeding 44 microgrammes Reference Concentration of alcohol First offence Second or any Number under the subsequent offence under section the same section or first concerned offence where previously convicted under the other section (1) (2) (3) (4)
+2 years 4 years
+
+(c) Exceeding 44 microgrammes
 
 4. (a) Exceeding 150 milligrammes
 

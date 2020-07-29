@@ -1,6 +1,6 @@
 Disqualification for applying for Irish driving licence or learner permit if disqualified for holding such.
 
-22A.— (1) Where a person is disqualified by this Act for holding any driving licence or learner permit—
+22A.—(1) Where a person is disqualified by this Act for holding any driving licence or learner permit—
 
 (a) whatsoever during a period, he or she shall be disqualified for applying for any Irish driving licence or learner permit whatsoever, or
 

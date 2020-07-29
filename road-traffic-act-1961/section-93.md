@@ -1,6 +1,6 @@
 Protection of bridges from excessive burdens.
 
-93.—(1) (a) A road authority, railway ...company or other person liable to maintain a bridge carrying a public road may, by notices in the prescribed form placed in the prescribed manner on the approaches to the bridge, prohibit any vehicle, which with the load (if any) thereon exceeds the weight specified in the notices, from passing over the bridge either (as may be specified in the notices) at all, at a speed exceeding a specified speed or subject to specified conditions.
+93.—(1) (a) A road authority, railway ... company or other person liable to maintain a bridge carrying a public road may, by notices in the prescribed form placed in the prescribed manner on the approaches to the bridge, prohibit any vehicle, which with the load (if any) thereon exceeds the weight specified in the notices, from passing over the bridge either (as may be specified in the notices) at all, at a speed exceeding a specified speed or subject to specified conditions.
 
 (b) A notice placed on the approaches to a bridge which purports to be a notice under this subsection shall, in any legal proceedings, be presumed, until the contrary is shown, to be a notice placed pursuant to this subsection and to be in the prescribed form and placed in the prescribed manner.
 

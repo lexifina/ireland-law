@@ -1,6 +1,6 @@
 Deposits by exempted persons.
 
-61. (1) The Minister may from time to time require the deposit with the Accountant of the Courts of Justice by a person desiring to become an exempted person of such sum as the Minister shall specify in such requirement.
+61.—(1) The Minister may from time to time require the deposit with the Accountant of the Courts of Justice by a person desiring to become an exempted person of such sum as the Minister shall specify in such requirement.
 
 (2) The Accountant of the Courts of Justice shall invest a sum deposited under this section in such of the securities authorised by law for the investment of funds in the High Court as the depositor directs, and the income accruing on the securities shall be paid to the depositor.
 
