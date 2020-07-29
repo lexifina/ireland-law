@@ -26,7 +26,7 @@ Powers of occasional examination, inspection and test.
 
 (5) Where a member of the Garda Síochána has, consequent upon an inspection and examination under section 12 of the Road Traffic Act, 1968, of a vehicle drawn by a mechanically propelled vehicle, or consequent upon having inspected and examined under this section a vehicle drawn by a mechanically propelled vehicle, reasonable grounds for believing that there is a defect affecting it which is such that it is, when in use, a danger to the public, he may—
 
-(a) instruct the pers-5on in charge that the vehicle is not tobe drawn in a public place by a mechanically propelled vehicle until the defect is remedied,
+(a) instruct the person in charge that the vehicle is not to be drawn in a public place by a mechanically propelled vehicle until the defect is remedied,
 
 (b) require the person in charge or the owner to submit the vehicle for a further examination and test at a specified time and place.
 
@@ -89,7 +89,3 @@ Powers of occasional examination, inspection and test.
 (b) if he does not exercise his right to be present at the examination, he shall have the right to be represented at it by another person selected by him and, if he exercises this right, the person representing him shall be afforded an opportunity of observing the examination.
 
 In this subsection “examination” includes “test”.
-
-## PART III. DRIVING LICENCES.
-
-21.— In this Part, “licensing authority” means the Road Safety Authority and references to a licensing authority shall be read as references to the licensing authority.
