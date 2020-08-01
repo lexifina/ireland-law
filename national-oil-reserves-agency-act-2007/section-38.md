@@ -62,6 +62,6 @@ Exemptions from levy.
 
 (h) the contract provides that any change to, or extension of, the stockholding obligations delegated by the oil consumer under that contract to an economic operator that has surplus stocks or available stockholding capacity within the territory of the State shall be deemed to be a new delegation of those obligations.
 
-(2A) Where an oil consumer proposes to delegate the consumer’s stockholding obligation to the Agency or to a central stockholding entity other than the Agency, the oil consumer shall notify the Minister at least 170 days prior to the start of the period to which the obligation in question relates in accordance with Article 8(4) of the Council Directive.
+(2A) Where an oil consumer proposes to delegate the consumer’s stockholding obligationto the Agency or to a central stockholding entity other than the Agency, the oil consumer shall notify the Minister at least 170 days prior to the start of the period to which the obligation in question relates in accordance with Article 8(4) of the Council Directive.
 
 (3) An oil consumer that claims exemption from levy under this section shall supply to the Minister, in accordance with and within the time specified in the regulations relating to returns, all information relevant to the exemption claimed.
