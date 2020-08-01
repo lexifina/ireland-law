@@ -8,7 +8,7 @@ Table to section 34: interpretation and supplemental.
 
 (b) in the case of a failure that does result in financial loss or damage to the landlord or his or her property—
 
-(i) to pay adequate compensation to the landlord (or, if the failure consists of the non-payment of rent, pay the arrears of rent) or repair the damage fully, and
+(i) to pay adequate compensation to the landlord ... or repair the damage fully, and
 
 (ii) unless the failure is not of a continuing nature, to desist from the conduct that constitutes the failure or comply with the obligation concerned, as the case may be.
 

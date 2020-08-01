@@ -28,11 +28,13 @@ TABLE
 
 Grounds for termination
 
-1. The tenant has failed to comply with any of his or her obligations in relation to the tenancy (whether arising under this Act or otherwise) and, unless the failure provides an excepted basis for termination—
+1. The tenant has failed to comply with any of his or her obligations (other than the obligation to which paragraph (a) of section 16 applies) in relation to the tenancy (whether arising under this Act or otherwise) and, unless the failure provides an excepted basis for termination—
 
 (a) the tenant has been notified in writing of the failure by the landlord and that notification states that the landlord is entitled to terminate the tenancy if the failure is not remedied within a reasonable time specified in that notification, and
 
 (b) the tenant does not remedy the failure within that specified time.
+
+1A. The tenant has failed to comply with paragraph (a) of section 16 in relation to the tenancy concerned and the condition specified in subsection (3) (inserted by paragraph (b) of section 12 of the Residential Tenancies and Valuation Act 2020) of section 67 has been satisfied.
 
 2. The dwelling is no longer suitable to the accommodation needs of the tenant and of any persons residing with him or her having regard to the number of bed spaces contained in the dwelling and the size and composition of the occupying household and the notice of termination is accompanied by a statement referred to in section 35.
 

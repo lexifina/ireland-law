@@ -1,6 +1,6 @@
 Service of notices.
 
-6.—(1) A notice or other document required or authorised to be served or given by or under this Act shall, subject to subsection (2), be addressed to the person concerned by name and may be served on or given to the person in one of the following ways:
+6.—(1) A notice or other document required or authorised to be served or given by or under this Act or section 4 of the Residential Tenancies and Valuation Act 2020 shall, subject to subsection (2), be addressed to the person concerned by name and may be served on or given to the person in one of the following ways:
 
 (a) by delivering it to the person;
 
