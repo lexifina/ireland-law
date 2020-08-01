@@ -6,7 +6,7 @@ Chief executive (appointment and term of office).
 
 (3) The chief executive holds office for such period and subject to such terms and conditions (including terms and conditions relating to remuneration and allowances for expenses) that the directors appointed under section 14(2) may, with the approval of the Minister given with the consent of the Minister for Finance, determine.
 
-(4) The remuneration and allowances determined under subsection (3) and any superannuation benefits payable to or in respect of the chief executive shall be paid by the Agency out of the levy and biofuel levy.
+(4) The remuneration and allowances determined under subsection (3) and any superannuation benefits payable to or in respect of the chief executive shall be paid by the Agency out of the proceeds of the levy collected and recovered and the proceeds of the biofuel levy collected and recovered.
 
 (5) A person may be reappointed as chief executive subject to the other provisions of this section.
 

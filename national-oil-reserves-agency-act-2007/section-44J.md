@@ -48,7 +48,9 @@ Y is the price per litre of biofuel prescribed in accordance with this section (
 
 (i) the Minister for Finance,
 
-(ii) the Minister for the Environment, Heritage and Local Government,
+(ia) the Minister for Finance,
+
+(ii) the Minister for Transport, Tourism and Sport,
 
 (iii) the Agency,
 

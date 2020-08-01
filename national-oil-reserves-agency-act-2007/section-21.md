@@ -8,7 +8,7 @@ Staff of Agency.
 
 (b) the grades and the numbers of staff of the Agency at each grade.
 
-(3) The remuneration and allowances of the members of the Agency’s staff and any superannuation benefits payable to or in respect of those members shall be paid by the Agency out of the levyand biofuel levy.
+(3) The remuneration and allowances of the members of the Agency’s staff and any superannuation benefits payable to or in respect of those members shall be paid by the Agency out ofthe proceeds of the levy collected and recovered and the proceeds of the biofuel levy collected and recovered.
 
 (4) A member of staff of the Agency shall perform such duties as the chief executive may assign to him or her.
 

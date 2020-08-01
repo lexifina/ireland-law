@@ -30,6 +30,8 @@ Interpretation.
 
 “chief executive” means the chief executive of the Agency;
 
+‘Climate Action Fund’ means the fund established under section 37B;
+
 ‘Council Directive’ means Council Directive 2009/119/EC of 14 September 2009, as amended by Commission Implementing Directive (EU) 2018/1581 of 19 October 2018;
 
 “designated subsidiary” means a subsidiary in respect of which an order is in operation under section 16(12);
@@ -64,9 +66,9 @@ Interpretation.
 
 (b) oil companies, and
 
-(c) oil consumers;
-
 1 OJ No. L 265, 9.10.2009, p.9 2 OJ No. L 263,22.10.2018, p. 57
+
+(c) oil consumers;
 
 “oil” means crude oil, intermediate products and petroleum products;
 
@@ -112,9 +114,9 @@ Interpretation.
 
 (b) any provision of the treaties governing the European Communities,
 
-(c) any act adopted by the institutions of those Communities,
-
 3 OJ No. L 304, 14.11.2008, p 1 4 OJ No. L 50, 22.02.2013, p. 1 5 OJ No. L 131, 1.05.2014, p. 1 6 OJ No. L 292, 10.11.2017, p. 3
+
+(c) any act adopted by the institutions of those Communities,
 
 (d) the IEP Agreement, and
 

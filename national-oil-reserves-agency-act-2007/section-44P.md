@@ -6,4 +6,4 @@ Calculation of biofuel levy.
 
 (a) the biofuel obligation account holder’s relevant disposals of biofuel in the month as specified in its volume assessment for the month, and
 
-(b) the rate of biofuel levy prescribed under section 44T for the month.
+(b) the rate of biofuel levy specified in section 44N(1A).

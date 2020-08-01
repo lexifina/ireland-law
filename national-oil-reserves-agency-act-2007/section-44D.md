@@ -24,7 +24,9 @@ Rate of biofuel obligation.
 
 (i) the Minister for Finance,
 
-(ii) the Minister for the Environment, Heritage and Local Government,
+(ia) the Minister for Finance,
+
+(ii)the Minister for Transport, Tourism and Sport,
 
 (iii) the Agency,
 

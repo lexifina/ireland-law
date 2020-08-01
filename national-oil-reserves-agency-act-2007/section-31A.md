@@ -4,7 +4,7 @@ Appointment of National Treasury Management Agency to act on behalf of Agency in
 
 (2) (a) Subject to the prior consent of the Minister for Finance, the Agency may from time to time request the NTMA to perform, on its behalf, all or any part of the functions of the Agency under—
 
-(i) sections 8(3)(f), 26 and 27 of the Principal Act,
+(i) sections 8(3)(f), 26 and 27 ...,
 
 (ii) section 3 of the Borrowing Powers of Certain Bodies Act 1996, and
 

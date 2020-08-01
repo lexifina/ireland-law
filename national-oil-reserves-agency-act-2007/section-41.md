@@ -4,7 +4,7 @@ Levy assessment notice.
 
 (a) the oil company’s or oil consumer’s relevant disposals of petroleum products as specified in its volume assessment for that month,
 
-(b) the rate of levy prescribed under section 44 for the month and, where appropriate, for each category of petroleum products specified in that assessment,
+(b) the rate of levy specified in section 37(1A),
 
 (c) the amount of the levy payable by it in respect of that month as calculated under section 40,
 

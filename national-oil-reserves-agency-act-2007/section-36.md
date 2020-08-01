@@ -4,7 +4,9 @@ Definitions for Part 5.
 
 36.— In this Part—
 
-“expenses” means the operating costs and administrative expenses of the Agency and each designated subsidiary, including the following:
+"expenses" other than in section
+
+37B means the operating costs and administrative expenses of the Agency and each designated subsidiary, including the following:
 
 (a) oil storage costs;
 
@@ -18,15 +20,15 @@ Definitions for Part 5.
 
 (f) fees due to any consultants or advisers engaged under this Act;
 
-(g) the costs incurred by the Agency in collecting the levy;
+(g) the costs incurred by the Agency in collecting or recovering the levy;
 
 (ga) the costs incurred by the Agency in administering the biofuel obligation;
 
-(gb) the costs incurred by the Agency in collecting the biofuel levy;
+(gb) the costs incurred by the Agency in collecting or recovering the biofuel levy;
 
 (h) the payment of any interest and other bank charges incurred on borrowings under sections 26 and 27;
 
-(i) the repayment of principal borrowed under section 26 or 27 to purchase oil or to do anything specified in section 8(3)(a), (b), (c) or (f);
+(i) the repayment of principal borrowed under section 26 or 27 to purchase oil or to do anything specified in section 8 (3)(a), (b), (c) or (f);
 
 (j) the expenses and other costs incurred by the NTMA in connection with or arising out of any transactions engaged in by the NTMA in the performance on behalf of the Agency of any of the functions specified in a request made under section 31A(2);
 

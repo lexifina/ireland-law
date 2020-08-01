@@ -2,7 +2,7 @@ Regulations relating to biofuel levy.
 
 44T.— (1) The Minister may make regulations providing for all or any of the following matters relating to the biofuel levy:
 
-(a) subject to the prior consent of the Minister for Finance, the rate of biofuel levy per litre of relevant disposals of biofuel or any variation of that rate from time to time;
+(a)...
 
 (b) the form of the biofuel assessment notice;
 
@@ -18,14 +18,8 @@ Regulations relating to biofuel levy.
 
 (h) such other matters as are necessary for or incidental to the imposition, payment and collection of the biofuel levy.
 
-(2) In prescribing the rate or any variation of the rate of biofuel levy, the Minister shall seek to ensure that (taking one year with another) the sums realised by applying that rate or any variation of the rate to the volume assessments meet but do not exceed the estimated expenses of the Agency and of each designated subsidiary.
+(2)...
 
-(3) For the purpose of determining in any year the estimated expenses of the Agency, the Minister may—
+(3)...
 
-(a) consider the information contained in the Agency’s strategy statement,
-
-(b) have regard to such information as is provided under section 29, and
-
-(c) take account of the expenses of the Agency and of each designated subsidiary in the previous financial year, and of any additional expenditure likely to be incurred by any of them in the forthcoming financial year.
-
-(4) Any variation of the rate of biofuel levy prescribed under this section takes effect no earlier than 3 months after the making of the regulations varying the prescribed rate.
+(4)...

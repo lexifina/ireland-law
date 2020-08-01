@@ -30,6 +30,6 @@ Power to establish subsidiaries.
 
 (11) If a person who is both a director of a subsidiary and a director of the Agency is removed under section 14(6) from office as a director of the Agency or ceases under section 23 to hold such office, that person immediately ceases to be a director of the subsidiary.
 
-(12) The Minister may, by order, designate a subsidiary that complies with the requirements of this section as a subsidiary whose operating costs and administrative expenses are to be paid out of the levy and biofuel levy.
+(12) The Minister may, by order, designate a subsidiary that complies with the requirements of this section as a subsidiary whose operating costs and administrative expenses are to be paid out of the proceeds of the levy collected and recovered and the proceeds of the biofuel levy collected and recovered.
 
 (13) Where any function of the Agency is, under the memorandum of association of a subsidiary, a function of the subsidiary, every provision of, or of any instrument under this Act or any other enactment relating to the Agency shall, in respect of that function, apply to the subsidiary as it applies to the Agency.

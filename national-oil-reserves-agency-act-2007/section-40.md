@@ -6,4 +6,4 @@ Calculation of levy.
 
 (a) the oil company’s or the oil consumer’s relevant disposals of petroleum products (including, where appropriate, of each category of petroleum products) in the month as specified in its volume assessment for the month, and
 
-(b) the rate of levy prescribed under section 44 for the month.
+(b) the rate of levy specified in section 37(1A).

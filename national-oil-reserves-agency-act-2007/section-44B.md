@@ -10,9 +10,11 @@ Conversion factors.
 
 (i) the Minister,
 
+(ia) the Minister for Finance,
+
 (ii) the Minister for Finance,
 
-(iii) the Minister for the Environment, Heritage and Local Government,
+(iii)the Minister for Transport, Tourism and Sport,
 
 (iv) the Environmental Protection Agency,
 

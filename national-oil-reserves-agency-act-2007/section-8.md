@@ -6,7 +6,9 @@ Object and functions of Agency.
 
 (b) providing, on its own initiative or at the request of the Minister, advice, information or guidance to the Minister on any matter relating to the holding of oil stocks,
 
-(c) collecting and recovering the levy,
+(c) (i) collecting and recovering the levy, and
+
+(ii) paying into the Climate Action Fund, out of the proceeds of the levy collected and recovered, such amount as is specified by the Minister pursuant to a direction (if any) given under section 37A,,
 
 (ca) administering the biofuel obligation in accordance with Part 5A,
 
@@ -36,9 +38,11 @@ Object and functions of Agency.
 
 (h) to sell, as the Agency thinks fit, oil held by or on behalf of the Agency,
 
-(i) subject to the prior approval of the Minister given with the consent of the Minister for Finance, to sell all or part of any other property of the Agency for such consideration as the Agency thinks fit and in particular for shares, stock, debentures or other securities of any body corporate, and
+(i) subject to the prior approval of the Minister given with the consent of the Minister for Finance, to sell all or part of any other property of the Agency for such consideration as the Agency thinks fit and in particular for shares, stock, debentures or other securities of any body corporate,
 
-(j) subject to the prior approval of the Minister given with the consent of the Minister for Finance, to enter into any commercial agreement with a third party in the State or elsewhere for the purpose of enabling the Agency to perform its functions under subsection (1)(a).
+(j) subject to the prior approval of the Minister given with the consent of the Minister for Finance, to enter into any commercial agreement with a third party in the State or elsewhere for the purpose of enabling the Agency to perform its functions under subsection (1)(a), and
+
+(k) to pay into the Climate Action Fund, out of the proceeds of the levy collected and recovered, such amount as is specified by the Minister pursuant to a direction (if any) given under section 37A.
 
 (4) This section does not prevent the inclusion in the memorandum of association of all objects and powers, consistent with this Act, that are reasonable, necessary or proper for, or incidental or ancillary to, the due attainment of the principal object of the Agency.
 

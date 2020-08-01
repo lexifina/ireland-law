@@ -60,7 +60,7 @@ Biofuel obligation certificates.
 
 (iii) the Environmental Protection Agency, and
 
-(iv) the Minister for the Environment, Heritage and Local Government.
+(iv)the Minister for Transport, Tourism and Sport.
 
 (12) Where, following consultation under subsection (11), the Agency is satisfied for the purpose specified in paragraph (a) of subsection (11), the Agency shall publish a draft of the proposed determination on its website and by such other means as the Agency considers appropriate inviting persons to make representations in writing to the Agency in relation to the proposed determination within 28 days from the date of publication on its website.
 
