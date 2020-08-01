@@ -1,4 +1,4 @@
-Construction of references to property being rateable and relation-ship between expressions “relevant property”, “hereditament” and “tenement”, etc.
+Construction
 
 14.—(1) A provision of this Act providing that relevant property shall be rateable shall be construed as a provision to the effect that the property is property in respect of which a rate may be made and like provisions of this Act shall be construed accordingly.
 

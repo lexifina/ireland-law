@@ -18,9 +18,7 @@ Power to limit rates income.
 
 (A x (B + C) +G) + (A x (H+I)) where
 
-A is the figure specified in subsection (3),
-
-B is the total amount liable to be paid to the rating authority in respect of rates levied by it in respect of relevant property on the existing valuation list (but excluding relevant property on the Central Valuation List in the preceding year), and
+A is the figure specified in subsection (3), B is the total amount liable to be paid to the rating authority in respect of rates levied by it in respect of relevant property on the existing valuation list (but excluding relevant property on the Central Valuation List in the preceding year), and
 
 C is an amount determined by the formula
 

@@ -1,4 +1,4 @@
-Prohibition against unauthorised disclosure of confidential information.
+Prohibition
 
 68. (1) In this section ‘confidential information’ means information that is expressed by the Commissioner to be confidential either as regards particular information or as regards information of a particular class or description.
 
