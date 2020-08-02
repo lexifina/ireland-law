@@ -100,9 +100,11 @@ Covid-19: temporary wage subsidy provisions
 
 (a) assessments to income tax,
 
-(b) appeals against such assessments (including the rehearing of appeals and the statement of a case for the opinion of the High Court), and
+(b) ...
 
 (c) the collection and recovery of income tax, shall, in so far as they are applicable, apply to the assessment, collection and recovery of relevant tax.
+
+(12A) A person aggrieved by an assessment or an amended assessment to relevant tax made on that person may appeal the assessment or amended assessment, as the case may be, to the Appeal Commissioners, in accordance with section 949I of the Act, within the period of 30 days after the date of the notice of assessment or the amended assessment, as may be appropriate.
 
 (13) Any amount of relevant tax payable in accordance with this section shall carry interest at the rate of 0.0219 per cent for each day or part of a day from the date when the amount is due and payable.
 
