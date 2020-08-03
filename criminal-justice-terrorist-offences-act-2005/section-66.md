@@ -1,3 +1,3 @@
-Amendment of section 8 of Act of 1993.
+Amendment of section 8 of Act of 1993. (repealed)
 
 66.—...

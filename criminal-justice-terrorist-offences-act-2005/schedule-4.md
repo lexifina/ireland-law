@@ -68,13 +68,13 @@ States Parties shall co-operate in the prevention of the crimes set forth in art
 
 Article 5
 
-1. The State Party in which any of the crimes set forth in article 2 has been committed shall, if it has reason to believe that an alleged offender has fled from its territory, communicate to all other States concerned, directly or through the Secretary- General of the United Nations, all the pertinent facts regarding the crime committed and all available information regarding the identity of the alleged offender.
+1. The State Party in which any of the crimes set forth in article 2 has been committed shall, if it has reason to believe that an alleged offender has fled from its territory, communicate to all other States concerned, directly or through the Secretary-General of the United Nations, all the pertinent facts regarding the crime committed and all available information regarding the identity of the alleged offender.
 
 2. Whenever any of the crimes set forth in article 2 has been committed against an internationally protected person, any State Party which has information concerning the victim and the circumstances of the crime shall endeavour to transmit it, under the conditions provided for in its internal law, fully and promptly to the State Party on whose behalf he was exercising his functions.
 
 Article 6
 
-1. Upon being satisfied that the circumstances so warrant, the State Party in whose territory the alleged offender is present shall take the appropriate measures under its internal law so as to ensure his presence for the purpose of prosecution or extradition. Such measures shall be notified without delay directly or through the Secretary- General of the United Nations to:
+1. Upon being satisfied that the circumstances so warrant, the State Party in whose territory the alleged offender is present shall take the appropriate measures under its internal law so as to ensure his presence for the purpose of prosecution or extradition. Such measures shall be notified without delay directly or through the Secretary-General of the United Nations to:
 
 (a) the State where the crime was committed;
 

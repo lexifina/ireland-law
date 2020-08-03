@@ -1,3 +1,3 @@
-Retention of traffic and location data relating to communications by phone.
+Retention of traffic and location data relating to communications by phone. (repealed)
 
 63.—...

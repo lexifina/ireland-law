@@ -58,7 +58,7 @@ Assessing the
 
 Amount to be
 
-8C.—(1) Subject to subsection (2) of this section, where a confis- recovered cation order has been made under section 8A of this Act, the amount under a to be recovered under the order shall be equal to the amount confiscation assessed by the court to be the value of the defendant's funds order made subject to confiscation. under section
+8C.—(1) Subject to subsection (2) of this section, where a recovered confiscation order has been made under section 8A of this Act, the under a amount to be recovered under the order shall be equal to the amount confiscation assessed by the court to be the value of the defendant's funds order made subject to confiscation. under section
 
 (2) If the court is satisfied that the amount that might be realised
 
@@ -92,7 +92,7 @@ Re-assessment
 
 Revised
 
-8E.—(1) This section applies where a court has made a determina- assessment of tion (referred to in this section as ‘the current determination’) under funds subject section 8A(5) of this Act of the amount to be recovered in a particular to case by virtue of that section. confiscation.
+8E.—(1) This section applies where a court has made a assessment of determination (referred to in this section as ‘the current funds subject determination’) under section 8A(5) of this Act of the amount to be to recovered in a particular case by virtue of that section. confiscation.
 
 (2) Where the Director of Public Prosecutions is of the opinion that the real value of the defendant's funds subject to confiscation was greater than their assessed value, the Director of Public Prosecutions may make, or cause to be made, an application to the court for the evidence on which that opinion was formed to be considered by the court.
 

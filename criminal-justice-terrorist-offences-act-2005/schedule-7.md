@@ -318,7 +318,7 @@ Article 27
 
 Article 28
 
-The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary- General of the United Nations who shall send certified copies thereof to all States.
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations who shall send certified copies thereof to all States.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at United Nations Headquarters in New York on 10 January 2000.
 

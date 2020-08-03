@@ -146,7 +146,9 @@ Dliteanas daoine dlítheanacha
 
 Airteagal 8
 
-Pionóis in aghaidh daoine dlítheanacha Glacfaidh gach Ballstát na bearta is gá chun a áirithiú go bhfuil duine dlítheanach atá faoi dhliteanas de bhun Airteagal 7 inphionóis le pionóis atá éifeachtach, comhréireach agus athchomhairleach lena n-áirítear fíneálacha coiriúla nó neamhchoiriúla agus ar a mbeidh pionóis eile le háireamh, amhail:
+Pionóis in aghaidh daoine dlítheanacha
+
+Glacfaidh gach Ballstát na bearta is gá chun a áirithiú go bhfuil duine dlítheanach atá faoi dhliteanas de bhun Airteagal 7 inphionóis le pionóis atá éifeachtach, comhréireach agus athchomhairleach lena n-áirítear fíneálacha coiriúla nó neamhchoiriúla agus ar a mbeidh pionóis eile le háireamh, amhail:
 
 (a) eisiamh ó bheith i dteideal sochair nó cabhair poiblí a fháil;
 
@@ -822,9 +824,9 @@ Article 27 - Amendments to the Convention
 
 2 Any proposal for amendment shall be communicated by the Secretary General of the Council of Europe to the Parties.
 
-3 Moreover, any amendment proposed by a Party or the Committee of Ministers shall be communicated to the Consultation of the Parties, which shall submit to the Committee of Ministers its opinion on the proposed amendment. 4 The Committee of Ministers shall consider the proposed amendment and any opinion submitted by the Consultation of the Parties and may approve the amendment.
+3 Moreover, any amendment proposed by a Party or the Committee of Ministers shall be communicated to the Consultation of the Parties, which shall submit to the Committee of Ministers its opinion on the proposed amendment.
 
-5 The text of any amendment approved by the Committee of Ministers in accordance with paragraph 4 shall be forwarded to the Parties for acceptance.
+4 The Committee of Ministers shall consider the proposed amendment and any opinion submitted by the Consultation of the Parties and may approve the amendment. 5 The text of any amendment approved by the Committee of Ministers in accordance with paragraph 4 shall be forwarded to the Parties for acceptance.
 
 6 Any amendment approved in accordance with paragraph 4 shall come into force on the thirtieth day after all Parties have informed the Secretary General of their acceptance thereof.
 
