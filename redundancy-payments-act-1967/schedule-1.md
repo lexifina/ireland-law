@@ -48,7 +48,7 @@ WEEKLY PAYMENTS FROM THE REDUNDANCY FUND
 
 (ix) For the purposes of this subparagraph, a person’s relevant employment period shall be that period commencing on the 6th day of April of the appropriate income tax year and ending on the date in that year in which he becomes unemployed.
 
-(x) For the purposes of subclause (iv) of this subparagraph, “employment contribution” has the meaning assigned to it by the Social Welfare Act, fli="-5" 1952 (No. 11 of 1952), and includes, where appropriate, a redundancy contribution and also a health contribution within the meaning of section 2 of the Health Contributions Act, 1971 (No. 21) of 1971), at the rate specified in section 3 (1) (a) of that Act.
+(x) For the purposes of subclause (iv) of this subparagraph, “employment contribution” has the meaning assigned to it by the Social Welfare Act, fli="- 5" 1952 (No. 11 of 1952), and includes, where appropriate, a redundancy contribution and also a health contribution within the meaning of section 2 of the Health Contributions Act, 1971 (No. 21) of 1971), at the rate specified in section 3 (1) (a) of that Act.
 
 (4) For the purpose of subparagraph (1) of this paragraph, where an initial payment of a refund of income tax paid as a result of a period of interruption of employment has been made to a person, it shall be presumed that he will continue to receive the weekly equivalent of that refund (as determined by the appropriate authority for income tax) until his entitlement to such refunds is exhausted or he resumes employment, whichever first occurs.
 

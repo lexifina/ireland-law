@@ -1,4 +1,4 @@
-Right to redundancy payment by reason of layoff or short-time.
+Right to redundancy payment by reason of lay-off or short-time.
 
 12.—(1) An employee shall not be entitled to redundancy payment by reason of having been laid off or kept on short-time unless—
 
