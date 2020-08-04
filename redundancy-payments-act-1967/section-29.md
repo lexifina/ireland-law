@@ -16,7 +16,9 @@ Rebates to employers from the Redundancy Fund.
 
 (a) the date of the notice of intention to claim, referred to in section 12(1)(b), or
 
-(b) the date of the termination of the contract of employment of the employee concerned, referred to in section 12(2), occurs before 1 January 2012— (i) subsection (1) shall be read as if ‘60 per cent’ were substituted for ‘15 per cent’, and
+(b) the date of the termination of the contract of employment of the employee concerned, referred to in section 12(2), occurs before 1 January 2012—
+
+(i) subsection (1) shall be read as if ‘60 per cent’ were substituted for ‘15 per cent’, and
 
 (ii) subsection (2) shall be read as if ‘40 per cent’ were substituted for ‘15 per cent’.
 
