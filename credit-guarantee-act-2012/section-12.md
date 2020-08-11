@@ -1,4 +1,4 @@
-Short title and commencement.
+Short
 
 12.— (1) This Act may be cited as the Credit Guarantee Act 2012.
 
