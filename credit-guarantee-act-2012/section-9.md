@@ -1,4 +1,4 @@
-Withdrawal of guarantee by Minister.
+Withdrawal
 
 9. (1) Where a participating finance provider fails or refuses to comply with the terms of a credit guarantee scheme, the Minister may withdraw any guarantee given by him or her in respect of any qualifying finance agreement to which that participating finance provider is a party.
 

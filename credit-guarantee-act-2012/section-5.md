@@ -1,4 +1,4 @@
-Credit guarantee scheme.
+Credit
 
 5.— (1) The Minister may, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, make a scheme or schemes for the purposes of this Act.
 
