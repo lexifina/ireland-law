@@ -18,6 +18,8 @@ Interpretation.
 
 “contractor” has the meaning assigned to it by section 7;
 
+“covid-19 credit guarantee scheme” has the meaning assigned to it by section 4A(1);
+
 “credit amount” means—
 
 (a) in the case of a qualifying finance agreement that is a loan agreement, the principal of moneys borrowed from the participating finance provider by a participating enterprise pursuant to the agreement,
