@@ -1,3 +1,3 @@
-Extension of power of coroner to authorise burial.
+Extension of power of coroner to authorise burial. (Repealed)
 
 51.—...

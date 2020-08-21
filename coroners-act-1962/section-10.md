@@ -1,3 +1,3 @@
-Review of salary.
+Review of salary. (Repealed)
 
 10.—...

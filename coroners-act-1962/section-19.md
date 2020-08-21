@@ -1,3 +1,3 @@
-Post-mortem examination in lieu of inquest.
+Post-mortem examination in lieu of inquest. (Repealed)
 
 19.—...

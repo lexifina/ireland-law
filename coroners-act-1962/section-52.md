@@ -1,3 +1,3 @@
-Provisions governing post-mortem examination caused to be made by coroner.
+Provisions governing post-mortem examination caused to be made by coroner. (Repealed)
 
 52.—...

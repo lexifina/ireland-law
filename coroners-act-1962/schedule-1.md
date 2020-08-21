@@ -6,7 +6,7 @@ Session and Chapter or Short Title Extent of Repeal Number and Year
 
 (1) (2) (3)
 
-4 Edw. I. The Office of the Coro- The whole Act. ner.
+4 Edw. I. The Office of the The whole Act. Coroner.
 
 6 Geo. IV, c. 51. The Assizes (Ireland) So much of section 4 as relates Act, 1825. to any inquisition taken before a coroner; in section 6, the words from “and by order” to “his or their jurisdictions;”.
 
@@ -20,7 +20,7 @@ Session and Chapter or Short Title Extent of Repeal Number and Year
 
 6 & 7 Vic., c. 12. Coroners Act, 1843. The whole Act.
 
-8 & 9 Vic., c. 18. Lands Clauses Consolida- Sections 39 and 40, in so far as tion Act, 1845. they relate to coroners.
+8 & 9 Vic., c. 18. Lands Clauses Sections 39 and 40, in so far as Consolidation Act, they relate to coroners. 1845.
 
 9 & 10 Vic., c. 37. Coroners (Ireland) Act, The whole Act. 1846.
 
@@ -30,9 +30,9 @@ Session and Chapter or Short Title Extent of Repeal Number and Year
 
 39 & 40 Vic., c. xciii. Coroners (Dublin) Act, The whole Act except section 6. 1876.
 
-41 & 42 Vic., c. 69. Petty Sessions Clerks In section 9, the words “or coro-and Fines (Ireland) ner” wherever they occur. Act, 1878.
+41 & 42 Vic., c. 69. Petty Sessions Clerks In section 9, the words “or and Fines (Ireland) coroner” wherever they occur. Act, 1878.
 
-43 & 44 Vic., c. 13. Births and Deaths Regis- In section 16, from the beginning tration Act (Ireland), of the section to the words 1880. “from the coroner”.
+43 & 44 Vic., c. 13. Births and Deaths In section 16, from the beginning Registration Act of the section to the words (Ireland), 1880. “from the coroner”.
 
 44 & 45 Vic., c. 35. Coroners (Ireland) Act, The whole Act. 1881.
 

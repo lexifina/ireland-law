@@ -1,3 +1,3 @@
-Furnishing
+Furnishing of particulars to registrars of births and deaths. (Repealed)
 
 50.—...

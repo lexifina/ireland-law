@@ -1,3 +1,3 @@
-Amendment of Juries Act, 1927.
+Amendment of Juries Act, 1927. (Repealed)
 
 59.—...

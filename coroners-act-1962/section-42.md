@@ -1,3 +1,3 @@
-Liability to serve on coroner's jury.
+Liability to serve on coroner's jury. (Repealed)
 
 42.—...
