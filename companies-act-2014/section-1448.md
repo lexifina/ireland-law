@@ -1,10 +1,10 @@
+Provision in respect of certain discretion afforded by Commission Decision 2011/30/ EU (Repealed)
+
+1448. ...
+
 ## PART 26 PAYMENTS TO GOVERNMENTS
 
 ## CHAPTER 1 Preliminary
-
-Interpretation
-
-1449. (1) In this Part—
 
 ‘consolidated payment report’ has the meaning assigned to it by section 1451;
 

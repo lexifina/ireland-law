@@ -21,7 +21,3 @@ Supplemental provisions in relation to section 934 (including as concerns its re
 (4) Subsection (2) does not prejudice the imposition, in the circumstances concerned, by the Supervisory Authority of another sanction referred to in section 934(8) in addition to a withdrawal of approval (where withdrawal of the approval is mandatory under Part 27) or in lieu of a withdrawal of approval (where such withdrawal is not so mandatory).
 
 (5) For the purposes of section 934, ‘member’, in addition to the meaning given to that expression by section 900(1), includes, in relation to a prescribed accountancy body that is a recognised accountancy body, an individual or firm who or which, though not a member of the recognised accountancy body, is an individual or firm in relation to whom that body may exercise powers under Part 27.
-
-935A....
-
-935B....

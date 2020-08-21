@@ -18,13 +18,13 @@ Priority of payments in a winding up
 
 (c) subject to subsection (3), the claims of all unsecured creditors, after those referred to in paragraphs (a) and (b), shall be paid in priority to the claims of unsecured creditors resulting from debt instruments where -
 
+3 OJ No. L 173, 12.06.2014, p. 149. 3 OJ No. L 173, 12.06.2014, p. 149.
+
 (i) the original contractual maturity of the debt instrument is not less than one year,
 
 (ii) subject to subsection (2), the debt instrument contains no embedded derivatives and is not itself a derivative, and
 
-(iii) the relevant contractual documentation and, where applicable, the prospectus related to the issuance of the debt instrument expressly refers to the lower ranking of claims in accordance with this paragraph,
-
-3 OJ No. L 173, 12.06.2014, p. 149. 3 OJ No. L 173, 12.06.2014, p. 149. and
+(iii) the relevant contractual documentation and, where applicable, the prospectus related to the issuance of the debt instrument expressly refers to the lower ranking of claims in accordance with this paragraph, and
 
 (d) the claims of all unsecured creditors resulting from debt instruments that meet the conditions set out in paragraph (c) shall be paid in priority to claims resulting from the items listed in subparagraphs (a) to (d) of Regulation 87(1) of the Bank Recovery and Resolution Regulations.
 
@@ -51,7 +51,5 @@ Priority of payments in a winding up
 ‘micro, small and medium-sized enterprises’ has the meaning given to it in the Bank Recovery and Resolution Regulations.
 
 (5) A word or expression that is used in this section and is also used in Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014, as amended by Directive (EU) 2017/2399 of the European Parliament and of the Council of 12 December 2017, shall have, in this section, the same meaning as it has in that Directive.
-
-## CHAPTER 2 Other miscellaneous provisions
 
 2 OJ No. L 173, 12.06.2014, p. 190. 1 OJ No. L 345, 27.12.2017, p. 96.

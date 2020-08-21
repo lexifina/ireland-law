@@ -33,5 +33,3 @@ Supervisory Authority may levy prescribed accountancy bodies
 (7) The Supervisory Authority may recover a levy imposed under this section as a simple contract debt in any court of competent jurisdiction from the prescribed accountancy body from which the levy is due.
 
 (8) Levies imposed under this section on that class of prescribed accountancy bodies comprising recognised accountancy bodies may be used for the purposes of meeting expenses properly incurred by the Supervisory Authority in performing its function referred to in section 905(2)(ma).
-
-917....

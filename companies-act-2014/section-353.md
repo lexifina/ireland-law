@@ -25,5 +25,3 @@ Abridged financial statements for a small company
 (e) any information provided in accordance with subsections (4), (5) and (6) of section 291.
 
 (4) Section 274(3) (references to balance sheet to include certain notes) does not apply to this section.
-
-354....

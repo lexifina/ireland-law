@@ -9,5 +9,3 @@ Modification of definition of “ineligible entities” in case of PUCs and PULC
 (c) the following paragraph were inserted after paragraph (d):
 
 ‘(e) are PUCs and PULCs;’.
-
-1268....

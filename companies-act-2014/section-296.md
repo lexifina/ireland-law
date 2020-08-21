@@ -15,9 +15,3 @@ Consistency of financial statements
 (b) to the financial statements of undertakings which do not trade for the acquisition of gain by the members.
 
 (4) Where the directors of the holding company prepare IFRS group financial statements and IFRS entity financial statements for the holding company, subsection (1) shall have effect as if paragraph (a) of it were omitted.
-
-## CHAPTER 5 Group financial statements: exemptions and exclusions
-
-297....
-
-298....

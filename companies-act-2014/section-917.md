@@ -1,0 +1,3 @@
+Supervisory Authority may levy certain companies and other undertakings (Repealed)
+
+917. ...
