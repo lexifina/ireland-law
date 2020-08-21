@@ -1,0 +1,7 @@
+Modification of pension provisions of Courts (Supplemental Provisions) Act 1961 as applied to certain Circuit Court judges.
+
+12.— In the case of a judge of the Circuit Court who is serving as such on or after 2 June 2002, paragraph 5 of Part II of the Second Schedule to the Courts (Supplemental Provisions) Act 1961 shall have effect as if the following subparagraphs were substituted for subparagraph (3) of that paragraph:
+
+“(3) There shall be granted to a judge of the Circuit Court to whom this paragraph applies and who, owing to age, vacates his or her office after 2 years or more of service a pension for life of one-fortieth of his or her remuneration at the time of such vacation of office for each of the first 5 years of service with the addition of three-eightieths of such remuneration for every completed year of service in excess of 5 years of service, subject to a maximum pension of one-half of such remuneration.
+
+(4) There shall be granted to a judge of the Circuit Court to whom this paragraph applies and who, owing to permanent infirmity, vacates his or her office after 5 years or more of service a pension for life of one-fortieth of his or her remuneration at the time of such vacation of office for each of the first 5 years of service with the addition of three-eightieths of such remuneration for every completed year of service in excess of 5 years of service, subject to a maximum pension of one-half of such remuneration.”.
