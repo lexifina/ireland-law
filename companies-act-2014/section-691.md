@@ -8,6 +8,20 @@ Entitlement to attend and notice
 
 (4) The liquidator shall give notice in writing to every person entitled to attend a meeting of the time and place appointed for the meeting and of the subject matter of the meeting in such form as may be prescribed not less than 7 days before the day appointed for such meeting.
 
+(4A) During the interim period, the relevant person shall give notice in writing to every person entitled to attend a meeting, not less than 7 days before the day appointed for the meeting, of the time and place appointed for the meeting and, where the meeting is to be held wholly or partly by the use of electronic communications technology, the notice shall specify—
+
+(a) the electronic platform to be used for the meeting,
+
+(b) details for access to the electronic platform,
+
+(c) the time and manner by which a relevant attendee must confirm his or her intention to attend the meeting,
+
+(d) any requirements or restrictions which the relevant person has put in place in order to identify relevant attendees who intend to attend the meeting,
+
+(e) the procedure for relevant attendees to communicate questions and comments during the meeting, and
+
+(f) the procedure to be adopted for voting on resolutions proposed to be passed at the meeting.
+
 (5) The notice under subsection (4) to each creditor shall be sent to the address given in the creditor’s proof, or if he or she has not proved, to the address given in the statement of affairs of the company, if any, or to such other address as may be known to the liquidator.
 
 (6) The notice under subsection (4) to each contributory shall be sent to the address mentioned in the company’s books as the address of such contributory or to such other address as may be known to the liquidator.

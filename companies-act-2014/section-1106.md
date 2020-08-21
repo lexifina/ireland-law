@@ -16,7 +16,7 @@ Participation in general meeting by electronic means
 
 (a) such means—
 
-(i) guarantee the security of any electronic communication by the member;
+(i) provide for the security of any electronic communication by the member;
 
 (ii) minimise the risk of data corruption and unauthorised access;
 

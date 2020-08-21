@@ -92,6 +92,8 @@ Interpretation generally
 
 (c) where used in connection with proceedings for a debt or the recovery of a sum otherwise provided by this Act to be recoverable and a particular court or a court of competent jurisdiction is not specified for the purpose, means any court of competent jurisdiction;
 
+‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 ( S.I. No. 390 of 1981 ) or any variant of the disease so specified as an infectious disease in those Regulations;
+
 “CRO Gazette” means the Companies Registration Office Gazette referred to in section 887(7);
 
 “debenture” includes debenture stock, bonds and any other securities of a company whether constituting a charge on the assets of the company or not;
@@ -131,6 +133,12 @@ Interpretation generally
 “insolvency proceedings”, other than in Chapter 15 of Part 11, means insolvency proceedings opened under Article 3 of the Insolvency Regulation in a Member State, other than the State and Denmark, where the proceedings relate to a body corporate;
 
 “Insolvency Regulation” means Council Regulation (EC) No. 1346/2000 of 29 May 2000 on insolvency proceedings;
+
+‘interim period’ means—
+
+(a) the period beginning on the commencement of section 3 of the Companies (Miscellaneous Provisions) (Covid-19) Act 2020 and ending on 31 December 2020, and
+
+(b) such other period (if any) as may be specified by order under section 12A;
 
 “Joint Stock Companies Acts” means the Joint Stock Companies Act 1856, the Joint Stock Companies Acts 1856, 1857, the Joint Stock Banking Companies Act 1857 and the Act to enable Joint Stock Banking Companies to be formed on the principle of limited liability, or any one or more of those Acts as the case may require, but does not include the Act 7 & 8 Victoria, Chapter 110;
 

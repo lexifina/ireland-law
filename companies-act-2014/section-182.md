@@ -4,6 +4,8 @@ Quorum
 
 (2) Save to the extent that its constitution provides otherwise or in a case falling within subsection (3), 2 members of a company present in person or by proxy at a general meeting of it shall be a quorum.
 
+(2A) Notwithstanding subsection (2) or any provision of a company’s constitution, during the interim period, each member and proxy who participates in a general meeting by the use of electronic communications technology in accordance with section 174A shall be counted in the quorum for the meeting.
+
 (3) In the case of a single-member company, one member of the company present in person or by proxy at a general meeting of it shall be a quorum.
 
 (4) Subsection (5) shall apply unless the company’s constitution provides otherwise.

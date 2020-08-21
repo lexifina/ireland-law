@@ -2,6 +2,8 @@ Proxies
 
 701. (1) A creditor, a contributory or a member may vote either in person or by proxy.
 
+(1A) During the interim period, a creditor, a contributory or a member may vote either by means of electronic communications technology or by proxy.
+
 (2) An instrument of proxy shall be in the prescribed form.
 
 (3) A creditor, a contributory or a member may appoint any person a special proxy to vote at any specified meeting or adjournment thereof—

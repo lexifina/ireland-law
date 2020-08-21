@@ -2,9 +2,11 @@ Proceedings at the meeting
 
 697. (1) The chairperson of a meeting may, with the consent of the meeting, adjourn it from time to time and from place to place but the adjourned meeting shall be held at the same place as the original meeting unless—
 
-(a) in the resolution for adjournment another place is specified, or
+(a) in the resolution for adjournment another place is specified
 
-(b) the court otherwise orders.
+(b) the court otherwise orders, or
+
+(c) during the interim period, the meeting is to be held by way of electronic communications technology.
 
 (2) Other than on the matter of election of the chairperson or an adjournment, a meeting may not act for any purpose, unless there are present or represented at the meeting—
 

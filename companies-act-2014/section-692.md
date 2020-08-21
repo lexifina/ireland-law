@@ -2,4 +2,6 @@ Location of meeting
 
 692. (1) Every meeting shall be held at such place as is, in the opinion of the person convening the meeting, the most convenient for the majority of the creditors, contributories or members or all, as the case may be.
 
+(1A) Notwithstanding subsection (1), a meeting held during the interim period may be held wholly or partly by the use of electronic communications technology if, in the opinion of the person convening the meeting, conducting the meeting by such technology is most convenient for the majority of the creditors, contributories or members or all, as the case may be.
+
 (2) Different times or places may be named for the meetings of creditors and for those of contributories and for those of members.

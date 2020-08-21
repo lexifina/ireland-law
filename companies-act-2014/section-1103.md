@@ -10,6 +10,20 @@ Additional provisions concerning notice under section 181 by a traded PLC
 
 (a) when and where the meeting is to take place and the proposed agenda for the meeting;
 
+(aa) in the case of a meeting during the interim period proposed to be held wholly or partly by the use of electronic communications technology—
+
+(i) the electronic platform to be used for the meeting,
+
+(ii) details for access to the electronic platform,
+
+(iii) the time and manner by which a member must confirm his or her intention to attend the meeting,
+
+(iv) any requirements or restrictions which the company has put in place in order to identify members who intend to attend the meeting,
+
+(v) the procedure for members to communicate questions and comments during the meeting, and
+
+(vi) the procedure to be adopted for voting on resolutions proposed to be passed at the meeting;
+
 (b) a clear and precise statement of any procedures a member shall comply with in order to participate and vote in the meeting, including—
 
 (i) the right of a member to put items on the agenda of a general meeting and to table draft resolutions pursuant to section 1104 and to ask questions relating to items on the agenda pursuant to section 1107, and the time limits applicable to the exercise of any of those rights;
