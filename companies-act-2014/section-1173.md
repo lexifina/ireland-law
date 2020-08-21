@@ -100,7 +100,9 @@ Section 136
 
 Director voting on contract, etc., in which director
 
-Section 161(7) is interested Holding of any other office or place of profit under
+Section 161(7) is interested
+
+Holding of any other office or place of profit under
 
 Section 162 the company by a director
 

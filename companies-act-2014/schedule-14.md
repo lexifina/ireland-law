@@ -70,7 +70,7 @@ Financial assistance for acquisition of shares
 
 Section 82
 
-Reduction in company capital and associated provi- Sections 84 to 87 sions and court procedures
+Reduction in company capital and associated Sections 84 to 87 provisions and court procedures
 
 Rectification of dealings in shares
 
@@ -114,7 +114,7 @@ Use of computers, etc. for certain company records
 
 Section 214
 
-Inspection of registers, provision of copies of infor- Chapter 10 of Part 4 (in so far mation in them and service of notices as it relates to provisions applied by section 1312)
+Inspection of registers, provision of copies of Chapter 10 of Part 4 (in so far information in them and service of notices as it relates to provisions applied by section 1312)
 
 Power of court to grant relief to officers of company
 

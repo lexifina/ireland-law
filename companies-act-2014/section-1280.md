@@ -12,4 +12,6 @@ Petitions for examinerships
 
 (b) a company which one or more trustee savings banks have been reorganised into pursuant to an order under section 57 of the Trustee Savings Banks Act 1989, or
 
-(c) a company which a building society has converted itself into under Part XI of the Building Societies Act 1989, a petition may be presented only by the Central Bank, and subsection (1) shall not apply to the company.”. CHAPTER 7A
+(c) a company which a building society has converted itself into under Part XI of the Building Societies Act 1989, a petition may be presented only by the Central Bank, and subsection (1) shall not apply to the company.”.
+
+CHAPTER 7A

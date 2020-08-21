@@ -8,7 +8,9 @@ Application of Part 17 to investment companies
 
 (4) The provisions of Part 17 specified in the Table to this section shall not apply to an investment company.
 
-Table Subject matter Provision disapplied
+Table
+
+Subject matter Provision disapplied
 
 Ministerial power in relation to a defined expression
 
@@ -28,7 +30,7 @@ Power to allot certain securities and notification of Section 1021(3), (4) and (
 
 Pre-emption rights Sections 1022 and 1023
 
-Expert’s report on non-cash consideration (require- Sections 1028 to 1035 ments in respect thereof and dispensations therefrom)
+Expert’s report on non-cash consideration Sections 1028 to 1035 (requirements in respect thereof and dispensations therefrom)
 
 Treatment of shares held by or on behalf of a PLC Sections 1040 and 1041
 

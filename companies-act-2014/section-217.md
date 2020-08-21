@@ -1,4 +1,4 @@
-Supplemental provisions in relation to section 216 —
+Supplemental provisions in relation to section 216 —“relevant fee”, power to alter the amount of it, offences, etc.
 
 217. (1) In section 216 “relevant fee” means—
 

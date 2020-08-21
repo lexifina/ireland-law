@@ -14,9 +14,7 @@ De-registration of companies when continued under the law of place outside the S
 
 (4) The Registrar shall, as soon as is practicable after receipt of the application for de-registration, publish notice of it in the CRO Gazette.
 
-(5) Where an application is made under subsection (1), a person mentioned in subsection (6) may apply to the court, on notice to the applicant, the Central Bank, the Registrar and all creditors of the applicant, not later than 60 days after the date of the publication of the notice under subsection (4), for an order preventing the proposal or passage of a resolution specified in paragraph (c) of the definition of
-
-“transfer documents” in section 1412(1) from taking effect in relation to the application, and the court may, subject to subsection (9), make such an order accordingly.
+(5) Where an application is made under subsection (1), a person mentioned in subsection (6) may apply to the court, on notice to the applicant, the Central Bank, the Registrar and all creditors of the applicant, not later than 60 days after the date of the publication of the notice under subsection (4), for an order preventing the proposal or passage of a resolution specified in paragraph (c) of the definition of “transfer documents” in section 1412(1) from taking effect in relation to the application, and the court may, subject to subsection (9), make such an order accordingly.
 
 (6) The following persons may apply for an order under subsection (5):
 

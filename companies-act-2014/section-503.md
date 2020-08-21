@@ -76,7 +76,9 @@ Confirmation order
 
 (b) without the necessity of there being produced any other document (and, accordingly, any provision requiring such production shall, if it would otherwise apply, not apply), the name of the relevant successor company (or, as appropriate, the names of the relevant successor companies) in place of the transferor company in respect of the information, act, ownership or other matter in that register and any document kept in that register.
 
-(8) Without prejudice to the generality of subsection (7), the Property Registration Authority, as respects any deed (within the meaning of section 32 of the Registration of Deeds and Title Act 2006) registered by that Authority or produced for registration by it, shall, upon production of the document referred to in subsection (7)(a) but without the necessity of there being produced that which is referred to in subsection (7)(b), enter the name of the relevant successor company (or, as appropriate, the names of the relevant successor companies) in place of the transferor company in respect of such deed.
+(8) Without prejudice to the generality of subsection (7), the Property Registration Authority, as respects any deed (within the meaning of section 32 of the Registration of Deeds and Title Act 2006) registered by that Authority or produced for registration by it, shall, upon production of the document referred to in subsection (7)(a) but without the necessity of there being produced that which is referred to in subsection
+
+(7)(b), enter the name of the relevant successor company (or, as appropriate, the names of the relevant successor companies) in place of the transferor company in respect of such deed.
 
 (9) Without prejudice to the application of subsection (7) to any other type of register in the State, each of the following shall be deemed to be a register in the State for the purposes of that subsection:
 

@@ -20,9 +20,7 @@ Section 306(4) (statement of particulars of non-compliance with section 305 or 3
 
 Section 322 (disclosure of remuneration for audit, audit-related work and non-audit work);
 
-Section 330 (statement on relevant audit information);
-
-Section 336 (form of statutory auditors’ report);
+Section 330 (statement on relevant audit information); Section 336 (form of statutory auditors’ report);
 
 Section 337 (signature of statutory auditor’s report);
 

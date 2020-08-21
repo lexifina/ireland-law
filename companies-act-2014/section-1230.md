@@ -88,9 +88,11 @@ Supplemental provisions in relation to section 194
 
 Section 195
 
-Directors’ compliance statement and related state-
+Directors’ compliance statement and related
 
-Section 225 ment Liability as contributories of past and present
+Section 225 statement
+
+Liability as contributories of past and present
 
 Section 655 members
 
@@ -108,9 +110,9 @@ Way of forming a private company limited by shares
 
 Section 17
 
-Company to carry on activity in the State and prohi-
+Company to carry on activity in the State and
 
-Section 18 bition of certain activities
+Section 18 prohibition of certain activities
 
 Form of the constitution
 
@@ -162,9 +164,9 @@ Supplemental provisions in relation to section 194
 
 Section 195
 
-Directors’ compliance statement and related state-
+Directors’ compliance statement and related
 
-Section 225 ment
+Section 225 statement
 
 Qualification of company based on size of Sections 280A to 280G company
 
@@ -194,7 +196,9 @@ Payment of debts due by contributory to the
 
 Section 659 company and extent to which set-off allowed
 
-Part 3 Provisions disapplied to PULCs
+Part 3
+
+Provisions disapplied to PULCs
 
 Subject matter Provision disapplied
 
@@ -314,7 +318,9 @@ Section 333
 
 Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
 
-Audit exemption Chapter 15 of Part 6 Special audit exemption for dormant companies Chapter 16 of Part 6
+Audit exemption Chapter 15 of Part 6
+
+Special audit exemption for dormant companies Chapter 16 of Part 6
 
 Small and medium companies
 

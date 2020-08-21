@@ -62,7 +62,9 @@ Supplemental and additional provisions as
 
 Section 70 regards allotments
 
-Reduction in company capital — use of Summary Section 84(2)(a) and (3) Approval Procedure therefor Variation of rights attached to special classes of
+Reduction in company capital — use of Summary Section 84(2)(a) and (3) Approval Procedure therefor
+
+Variation of rights attached to special classes of
 
 Section 88 shares
 

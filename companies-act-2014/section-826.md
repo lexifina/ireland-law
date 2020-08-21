@@ -1,4 +1,4 @@
-“Company that has a restricted person”
+“Company that has a restricted person”— meaning of that expression in sections 827 to 834
 
 826. In sections 827 to 834 “company that has a restricted person” means a company—
 

@@ -8,11 +8,7 @@ Mergers to which Chapter applies — definitions and supplementary provision
 
 (a) a case where all of those shares are held by other persons in their own names but on behalf of the second-mentioned company;
 
-(b) a case where the shares representing the capital of the first-mentioned company held by the second-mentioned company and by other persons in
-
-31 OJ No. L 110, 29.04.2011, p.1
-
-32 OJ No. L 173, 12.06.2014, p. 190 their own names but on behalf of the second-mentioned company amount, in aggregate, to all of the shares representing the foregoing capital.
+(b) a case where the shares representing the capital of the first-mentioned company held by the second-mentioned company and by other persons in their own names but on behalf of the second-mentioned company amount, in aggregate, to all of the shares representing the foregoing capital.
 
 (4) In this Chapter “merger by formation of a new company” means an operation in which 2 or more companies, on being dissolved without going into liquidation, transfer all their assets and liabilities to a company that they form — the “other company”— in exchange for the issue to their members of shares representing the capital of the other company, with or without any cash payment.
 
@@ -23,3 +19,7 @@ Mergers to which Chapter applies — definitions and supplementary provision
 (b) opt to avail itself of the provisions of Chapters 1 and 2 of Part 9 or section 601.
 
 (6) Subject to subsection (5), the provisions of Chapters 1 and 2 of Part 9 and section 601 shall not apply to a merger by acquisition, a merger by absorption or a merger by formation of a new company.
+
+31 OJ No. L 110, 29.04.2011, p.1
+
+32 OJ No. L 173, 12.06.2014, p. 190

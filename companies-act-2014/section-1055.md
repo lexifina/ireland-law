@@ -1,4 +1,4 @@
-“Share acquisition agreement”
+“Share acquisition agreement”— meaning
 
 1055. (1) Subject to the following provisions of this section, “share acquisition agreement”, for the purposes of this Chapter, means an agreement between 2 or more persons which includes provision for the acquisition by any one or more of the parties to the agreement of interests in shares comprised in relevant share capital of a particular PLC (the “target company”) but only if the following 2 conditions are satisfied.
 

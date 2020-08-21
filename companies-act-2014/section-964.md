@@ -26,9 +26,9 @@ Way of forming a private company limited by shares
 
 Section 17
 
-Company to carry on activity in the State and prohibi-
+Company to carry on activity in the State and
 
-Section 18 tion of certain activities
+Section 18 prohibition of certain activities
 
 Form of the constitution
 
@@ -38,9 +38,7 @@ Certificate of incorporation to state that company is a
 
 Section 25(3) private company limited by shares
 
-Provisions as to names of companies Section 26(1) to (4)
-
-Trading under a misleading name
+Provisions as to names of companies Section 26(1) to (4) Trading under a misleading name
 
 Section 27
 

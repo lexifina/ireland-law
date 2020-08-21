@@ -40,11 +40,11 @@ No. 41 of 2006 Investment Funds, Companies and Parts 2 and 3 Miscellaneous Provi
 
 No. 20 of 2009 Companies (Amendment) Act 2009 The whole Act
 
-No. 45 of 2009 Companies (Miscellaneous Provi- Sections 1 to 4 sions) Act 2009
+No. 45 of 2009 Companies (Miscellaneous Sections 1 to 4 Provisions) Act 2009
 
 No. 22 of 2012 Companies (Amendment) Act 2012 The whole Act
 
-No. 46 of 2013 Companies (Miscellaneous Provi- Sections 2 to 8 sions) Act 2013
+No. 46 of 2013 Companies (Miscellaneous Sections 2 to 8 Provisions) Act 2013
 
 PART 2
 
@@ -72,10 +72,10 @@ S.I. No. 49 of 2007 European Communities (Companies) The whole Statutory (Amendm
 
 S.I. No. 450 of 2009 European Communities (Directive The whole Statutory 2006/46/EC) Regulations 2009 Instrument
 
-S.I. No. 83 of 2010 European Communities (Directive The whole Statutory 2006/46/EC) (Amendment) Regula- Instrument tions 2010
+S.I. No. 83 of 2010 European Communities (Directive The whole Statutory 2006/46/EC) (Amendment) Instrument Regulations 2010
 
 S.I. No. 306 of 2011 European Communities (Mergers and The whole Statutory Divisions of Companies) (Amendment) Instrument Regulations 2011
 
-S.I. No. 304 of 2012 European Union (Accounts) Regula- The whole Statutory tions 2012 Instrument
+S.I. No. 304 of 2012 European Union (Accounts) The whole Statutory Regulations 2012 Instrument
 
 S.I. No. 308 of 2012 Companies (Amendment) (No. 2) Act The whole Statutory 1999 (section 32) Order 2012 Instrument

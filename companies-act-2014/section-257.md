@@ -1,4 +1,4 @@
-“Disclosable interest”
+“Disclosable interest”— meaning of that term
 
 257. (1) Subject to section 260, in this Chapter “disclosable interest” means, in relation to shares or debentures, any interest of any kind whatsoever in shares in, or debentures of, a body corporate.
 

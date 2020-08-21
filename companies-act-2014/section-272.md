@@ -2,7 +2,7 @@
 
 ## CHAPTER 1 Preliminary
 
-What this Part contains and use of prefixes —
+What this Part contains and use of prefixes —“Companies Act” and “IFRS”
 
 272. (1) This Part contains the provisions regarding—
 

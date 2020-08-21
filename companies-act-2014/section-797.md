@@ -28,6 +28,8 @@ Court may order compliance by company or officer
 
 (6) Subsection (5) does not apply if the facts constituting the default in question amount, in the opinion of the court, to the commission of an offence.
 
-(7) Nothing in this section shall be taken to prejudice the operation of any enactment imposing penalties (including restriction under Chapter 3 of this Part and disqualification under Chapter 4 of this Part) on a company or its officers in respect of the default in question.
+(7) Nothing in this section shall be taken to prejudice the operation of any enactment imposing penalties (including restriction under
+
+Chapter 3 of this Part and disqualification under Chapter 4 of this Part) on a company or its officers in respect of the default in question.
 
 (8) In this section, “officer” means director, shadow director, promoter, receiver, liquidator, statutory auditor or secretary.

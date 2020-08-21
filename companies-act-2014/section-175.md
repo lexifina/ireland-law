@@ -1,5 +1,3 @@
-## CHAPTER 6 General meetings and resolutions
-
 Annual general meeting
 
 175. (1) Subject to subsections (2) and (3), a company shall in each year hold a general meeting as its annual general meeting in addition to any other meetings in that year and shall specify the meeting as such in the notices calling it and not more than 15 months shall elapse between the date of one annual general meeting of a company and that of the next.

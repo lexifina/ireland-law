@@ -1,4 +1,4 @@
-“Share acquisition agreement”
+“Share acquisition agreement”— meaning
 
 808. (1) Subject to the following provisions of this section, “share acquisition agreement”, for the purposes of this Chapter, means an agreement between 2 or more persons which includes provision for the acquisition by any one or more of the parties to the agreement of interests in shares comprised in the share capital of the company concerned but only if the following 2 conditions are satisfied.
 

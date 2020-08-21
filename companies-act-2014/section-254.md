@@ -1,4 +1,4 @@
-“Existing legal obligation”
+“Existing legal obligation”— definition and other provisions in relation to sections 251 to 253
 
 254. (1) “Existing legal obligation” for the purposes of—
 

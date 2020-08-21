@@ -14,7 +14,7 @@ Regulations for the purposes of sections 850 to 853
 
 (2) Regulations under subsection (1) may contain such consequential and supplemental provisions for the purposes of those regulations or for the purpose of giving further effect to sections 850 to 853 as the Minister thinks expedient, including—
 
-(a) provision for particular procedures to be employed by the Director in relation to the delivery of a notice under section 850(2) or 852(2) or any communication between the Director and the person concerned or his or her duly authorised agent consequent on the delivery of such a notice (a “post-deliv-ery-of notice communication”), and
+(a) provision for particular procedures to be employed by the Director in relation to the delivery of a notice under section 850(2) or 852(2) or any communication between the Director and the person concerned or his or her duly authorised agent consequent on the delivery of such a notice (a “post-delivery-of notice communication”), and
 
 (b) provision for a like privilege to legal professional privilege to attach to a post-delivery-of notice communication.
 

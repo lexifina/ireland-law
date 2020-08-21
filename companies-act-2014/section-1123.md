@@ -12,9 +12,7 @@ Acquisitions of uncertificated securities from dissenting shareholders
 
 (a) Chapter 2 of Part 9; or
 
-(b) Part 5 of the European Communities (Takeover Bids (Directive 2004/25/EC)) Regulations 2006;
-
-2 OJ No. L 173, 12.06.2014, p. 190. 1 OJ No. L 345, 27.12.2017, p. 96. which is a participating issuer;
+(b) Part 5 of the European Communities (Takeover Bids (Directive 2004/25/EC)) Regulations 2006; which is a participating issuer;
 
 “relevant offeror” means an offeror within the meaning of—
 
@@ -37,6 +35,8 @@ Acquisitions of uncertificated securities from dissenting shareholders
 (i) “issuer-instruction”;
 
 (ii) “operator”;
+
+2 OJ No. L 173, 12.06.2014, p. 190. 1 OJ No. L 345, 27.12.2017, p. 96.
 
 (iii) “operator-instruction”;
 

@@ -1,4 +1,4 @@
-“Registration documents”
+“Registration documents”— meaning
 
 1409. (1) In this Chapter “registration documents”, in relation to a migrating company, means the following documents:
 

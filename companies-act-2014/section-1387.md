@@ -14,15 +14,15 @@ Application of Parts 1 to 14 to investment companies
 
 (4) The specification in the foregoing Table of a provision (a “specified provision”) of Parts 1 to 14 also operates to disapply to an investment company any other provision of those Parts (notwithstanding that it is not specified in that Table) that makes consequential, incidental or supplemental provision on, or in relation to, the specified provision.
 
-Table
-
-Subject matter Provision disapplied
+Table Subject matter Provision disapplied
 
 Nominal value of shares Section 66(1) and (2)(a)
 
 Allotment of shares Section 69(3) and (6) to (10)
 
-Allotment of shares Section 70(1), (2), (3), (7), (8), (10) and (11) Payment of shares Section 71(2), (3) and (5)
+Allotment of shares Section 70(1), (2), (3), (7), (8), (10) and (11)
+
+Payment of shares Section 71(2), (3) and (5)
 
 Financial assistance
 
