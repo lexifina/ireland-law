@@ -1,4 +1,4 @@
-F56[Further postmortem examination
+F59[Further postmortem examination
 
 33C. Where a post-mortem examination has been directed by a coroner under section 33 or 33A, the coroner may direct the same registered medical practitioner, or another registered medical practitioner, to make a further post-mortem examination of the body of the deceased person concerned if the coroner is of opinion that—
 

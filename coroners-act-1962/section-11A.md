@@ -1,4 +1,4 @@
-F20[Temporary coroner.
+F20[ Temporary coroner.
 
 11A.— (1) A person who stands appointed as a coroner or deputy coroner in respect of a coroner’s district may, with the consent of that person, be assigned by the Minister to act temporarily as a coroner in respect of a different coroner’s district in which the coroner appointed to that district is temporarily absent or in respect of which the office of coroner is vacant.
 

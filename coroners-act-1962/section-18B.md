@@ -1,4 +1,4 @@
-F38[Notice of inquest
+F41[Notice of inquest
 
 18B. (1) A coroner shall, whether by post or such other means as he or she considers appropriate, arrange for notice of the date, time and place of the holding of an inquest in relation to the death of a person to be given to the following persons not less than 14 days before that date:
 

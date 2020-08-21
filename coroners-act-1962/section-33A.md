@@ -1,4 +1,4 @@
-F54[Duty to direct postmortem examination
+F57[Duty to direct postmortem examination
 
 33A. (1) It shall be the duty of a coroner to direct that a post-mortem examination of the body of a deceased person, whose death has been reported to him or her under this Act, be made in the following cases:
 

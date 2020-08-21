@@ -1,6 +1,6 @@
 ## Part IIA
 
-F31[Reportable deaths
+F34[Reportable deaths
 
 16A. (1) The following shall be a reportable death for the purposes of this Act (in this Act referred to as a ‘reportable death’):
 

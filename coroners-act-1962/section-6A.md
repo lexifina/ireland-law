@@ -1,4 +1,4 @@
-F5[Coroner’s district of Dublin.
+F5[ Coroner’s district of Dublin.
 
 6A.—(1) The coroners’ districts of the county of Dublin and the city of Dublin existing immediately before the coming into operation of this section shall as and on the coming into operation of this section be amalgamated into one district and shall be known as the coroner’s district of Dublin.
 

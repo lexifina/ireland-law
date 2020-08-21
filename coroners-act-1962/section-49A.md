@@ -1,4 +1,4 @@
-F71[Entry to premises to inspect, copy, take extracts from or seize documents, etc.
+F74[Entry to premises to inspect, copy, take extracts from or seize documents, etc.
 
 49A. (1) A coroner may not enter any premises for the purposes of the performance of his or her functions under this Act in relation to the death of any person except—
 

@@ -1,4 +1,4 @@
-F55[Provisions relating to postmortem examinations directed by coroner
+F58[Provisions relating to postmortem examinations directed by coroner
 
 33B. (1) A post-mortem examination of the body of a deceased person directed by a coroner under section 33, 33A or 33C shall be made by a registered medical practitioner and he or she may do so—
 

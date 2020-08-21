@@ -1,4 +1,4 @@
-F53[Post-mortem examinations.
+F56[Post-mortem examinations.
 
 33. (1) Subject to section 33A(3), a coroner may, for the purposes of inquiring into the death of a person, direct a registered medical practitioner to make a post-mortem examination of the body of the deceased person.
 

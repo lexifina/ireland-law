@@ -1,4 +1,4 @@
-F28[Arrangement for coroner’s district of Dublin
+F29[Arrangement for coroner’s district of Dublin
 
 13A. (1) Notwithstanding subsection (3) of section 13, the Minister may, upon a request in writing in that behalf from a coroner for the coroner’s district of Dublin, authorise a deputy coroner appointed by that coroner to act for that coroner—
 

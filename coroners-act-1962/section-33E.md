@@ -1,4 +1,4 @@
-F58[Report of post-mortem examination
+F61[Report of post-mortem examination
 
 33E. (1) Where a post-mortem examination of the body of a deceased person is directed by a coroner under section 33, 33A or 33C, the registered medical practitioner to whom the direction was given shall, as soon as practicable, furnish a report in writing of the examination to the coroner.
 

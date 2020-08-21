@@ -1,4 +1,4 @@
-F37[Purpose of inquest
+F40[Purpose of inquest
 
 18A. (1) The purpose of an inquest shall be to establish—
 
