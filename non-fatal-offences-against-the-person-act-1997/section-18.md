@@ -34,7 +34,9 @@ Justifiable use of force; protection of person or property, prevention of crime,
 
 (6) Notwithstanding subsection (1), a person who believes circumstances to exist which would justify or excuse the use of force under that subsection has no defence if he or she knows that the force is used against a member of the Garda Síochána acting in the course of the member's duty or a person so assisting such member, unless he or she believes the force to be immediately necessary to prevent harm to himself or herself or another.
 
-(7) The defence provided by this section does not apply to a person who causes conduct or a state of affairs with a view to using force to resist or terminate it: But the defence may apply although the occasion for the use of force arises only because the person does something he or she may lawfully do, knowing that such an occasion will arise.
+(7) The defence provided by this section does not apply to a person who causes conduct or a state of affairs with a view to using force to resist or terminate it:
+
+But the defence may apply although the occasion for the use of force arises only because the person does something he or she may lawfully do, knowing that such an occasion will arise.
 
 (8) Property shall be treated for the purposes of subsection (1) (c) and (d) as belonging to any person—
 
