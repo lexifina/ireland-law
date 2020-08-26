@@ -10,7 +10,7 @@ Approval for surveillance in cases of urgency.
 
 (c) the security of the State would be likely to be compromised.
 
-(3) A superior officer to whom an application under subsection (2) is made shall approve the carrying out of such surveillance as he or she considers appropriate, having regard to the information in the application, if he or she is satisfied that there are reasonable grounds for believing that an authorisation would be issued under section 5but that one or more of the conditions of urgency specified in subsection (2) apply.
+(3) A superior officer to whom an application under subsection (2) is made shall approve the carrying out of such surveillance as he or she considers appropriate, having regard to the information in the application, if he or she is satisfied that there are reasonable grounds for believing that an authorisation would be issued under section 5 but that one or more of the conditions of urgency specified in subsection (2) apply.
 
 (4) An approval may be granted subject to conditions, including as to the duration of the surveillance.
 

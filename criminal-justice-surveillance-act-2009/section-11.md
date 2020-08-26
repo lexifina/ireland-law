@@ -1,6 +1,6 @@
 Complaints procedure.
 
-11.— (1) A person who believes that he or she might be the subject of an authorisation or an approval under section 7or 8 may apply to the Referee for an investigation into the matter.
+11.— (1) A person who believes that he or she might be the subject of an authorisation or an approval under section 7 or 8 may apply to the Referee for an investigation into the matter.
 
 (2) A superior officer who makes a report under section 7 (11) or 8 (9), or a person who receives a report under section 7 (12) or 8 (10), may apply to the Referee for an investigation into a matter if he or she believes that such an investigation would be in the interests of justice.
 

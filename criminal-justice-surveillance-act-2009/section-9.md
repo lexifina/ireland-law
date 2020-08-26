@@ -1,6 +1,6 @@
 Retention of materials relating to applications and reports.
 
-9.— (1) An application for an authorisation under section 4 or 6, and any documents supporting the application, shall be retained until—
+9.— (1) An application for an authorisation under section 4 or 6 , and any documents supporting the application, shall be retained until—
 
 (a) the day that is 3 years after the day on which the authorisation concerned ceases to be in force, or
 

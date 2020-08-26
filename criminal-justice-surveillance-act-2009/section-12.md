@@ -6,11 +6,11 @@ Review of operation of this Act by designated judge.
 
 (3) The functions of the designated judge are to—
 
-(a) keep under review the operation of sections 4to 8, and
+(a) keep under review the operation of sections 4 to 8 , and
 
 (b) report to the Taoiseach from time to time and at least once every 12 months concerning any matters relating to the operation of those sections that the designated judge considers should be reported.
 
-(4) For the purpose of performing his or her functions the designated judge may investigate any case in which an authorisation is issued under section 5or renewed or varied under section 6or an approval is granted under section 7or 8.
+(4) For the purpose of performing his or her functions the designated judge may investigate any case in which an authorisation is issued under section 5 or renewed or varied under section 6 or an approval is granted under section 7 or 8.
 
 (5) A person in charge of a Garda Síochána station within the meaning of section 99(10) of the Garda Síochána Act 2005, a place under the control of the Ombudsman Commission, the Defence Forces or the Revenue Commissioners or any other place in which documents relevant to the performance of the functions of the designated judge are kept shall ensure that the designated judge has access to those places, and to the authorisations, written records of approval, reports and other relevant documents that the designated judge may request.
 

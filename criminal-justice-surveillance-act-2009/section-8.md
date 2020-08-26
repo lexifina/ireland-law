@@ -1,6 +1,6 @@
 Tracking devices.
 
-8.— (1) Notwithstanding sections 4 to 7, a member of the Garda Síochána, a designated officer of the Ombudsman Commission,a member of the Defence Forces or an officer of the Revenue Commissioners may, for a period of not more than 4 months or such shorter period as the Minister may prescribe by regulations, monitor the movements of persons, vehicles or things using a tracking device if that use has been approved by a superior officer in accordance with this section.
+8.— (1) Notwithstanding sections 4 to 7 , a member of the Garda Síochána, a designated officer of the Ombudsman Commission,a member of the Defence Forces or an officer of the Revenue Commissioners may, for a period of not more than 4 months or such shorter period as the Minister may prescribe by regulations, monitor the movements of persons, vehicles or things using a tracking device if that use has been approved by a superior officer in accordance with this section.
 
 (2) A member or officer referred to in subsection (1) may apply to a superior officer for the grant of an approval to use a tracking device if he or she believes on reasonable grounds that—
 
@@ -8,7 +8,7 @@ Tracking devices.
 
 (b) the information or evidence sought could reasonably be obtained by the use of a tracking device for a specified period that is as short as is practicable to allow the information or evidence to be obtained.
 
-(3) A superior officer to whom an application under subsection (2) is made shall approve such use of a tracking device as he or she considers appropriate, having regard to the information in the application, if he or she is satisfied that there are reasonable grounds for believing that an authorisation would be issued under section 5and that the conditions specified in subsection (2) apply.
+(3) A superior officer to whom an application under subsection (2) is made shall approve such use of a tracking device as he or she considers appropriate, having regard to the information in the application, if he or she is satisfied that there are reasonable grounds for believing that an authorisation would be issued under section 5 and that the conditions specified in subsection (2) apply.
 
 (4) An approval may be granted subject to conditions, including as to the duration of the use of the tracking device.
 
