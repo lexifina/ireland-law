@@ -1,4 +1,4 @@
-F31[Fixed charge offences.
+F31[ Fixed charge offences.
 
 23A.— (1) A member of the Garda Síochána who has reasonable grounds for believing that a person is committing, or has committed, an offence under section 5 (in this section referred to as a `fixed charge offence’) may serve on the person personally or by post the notice referred to in subsection (5) or cause it to be so served.
 

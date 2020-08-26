@@ -1,4 +1,4 @@
-F3[Extension of custody of intoxicated person by An Garda Síochá- na for reasons of safety
+F3[Extension of custody of intoxicated person by An Garda Síochána for reasons of safety
 
 4A. (1) (a) Where a person—
 

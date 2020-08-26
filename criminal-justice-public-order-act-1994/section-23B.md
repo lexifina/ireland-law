@@ -1,4 +1,4 @@
-F33[Application of section 23A in relation to offence under section 4.
+F33[ Application of section 23A in relation to offence under section 4.
 
 23B.— (1) This section applies to a person of not less than 18 years of age who is suspected, with reasonable cause, by a member of the Garda Síochána of committing, or of having committed, an offence under section 4.
 

@@ -1,4 +1,4 @@
-F9[Power of entry for purposes of section 8A, etc.
+F9[ Power of entry for purposes of section 8A, etc.
 
 8B.— A member of the Garda Síochána may enter without warrant a place other than a place used as a private dwelling if the member has reasonable grounds for believing that—
 
