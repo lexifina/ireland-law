@@ -2,9 +2,7 @@ Amendment of section 56 (power to limit rates income) of Valuation Act 2001.
 
 8.— Section 56 of the Valuation Act 2001 is amended by substituting the following for subsection (2):
 
-“(2) The Minister for the Environment, Heritage and Local Government shall, with the consent of the Minister for Finance, make an order requiring a rating authority to exercise its powers to make rates in such a manner as to secure that the total amount liable to be paid to it in respect of rates made by it in the appropriate year does not exceed an amount determined by the formula
-
-A x (B + C) where
+“(2) The Minister for the Environment, Heritage and Local Government shall, with the consent of the Minister for Finance, make an order requiring a rating authority to exercise its powers to make rates in such a manner as to secure that the total amount liable to be paid to it in respect of rates made by it in the appropriate year does not exceed an amount determined by the formula A x (B + C) where
 
 A is the figure specified in subsection (3),
 

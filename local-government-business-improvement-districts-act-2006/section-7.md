@@ -26,11 +26,11 @@ Entry year property levy.
 
 (3) Subject to subsection (4), the amount of the levy under subsection (1) is to be determined by the formula
 
-(A x B) x (C/D) where A is the annual rate on valuation that was determined by the rating authority for the entry year pursuant to section 103(7)(b)(i),
+(A x B) x (C/D) where
 
-B is the rateable valuation of the property,
+A is the annual rate on valuation that was determined by the rating authority for the entry year pursuant to section 103(7)(b)(i),
 
-C is the number of days remaining in the entry year, beginning with the entry date, and
+B is the rateable valuation of the property, C is the number of days remaining in the entry year, beginning with the entry date, and
 
 D is the total number of days in the entry year.
 
@@ -62,7 +62,9 @@ D is the total number of days in the entry year.
 
 (b) no other person was entitled to the use or enjoyment of the property on that date, and
 
-(c) acting in good faith, the owner was genuinely unable to find a suitable tenant for the property at a reasonable rent. 211C.— (1) If during the entry year qualifying property is demolished or destroyed to the extent that it is incapable of rateable occupation by the owner of the property, the levypayer may apply in writing to the rating authority concerned for a refund or credit on the amount of the levy paid or payable under section 211B.
+(c) acting in good faith, the owner was genuinely unable to find a suitable tenant for the property at a reasonable rent.
+
+211C.— (1) If during the entry year qualifying property is demolished or destroyed to the extent that it is incapable of rateable occupation by the owner of the property, the levypayer may apply in writing to the rating authority concerned for a refund or credit on the amount of the levy paid or payable under section 211B.
 
 (2) On receiving the application and being satisfied that the condition described in subsection (1) has been met, the rating authority shall prorate the amount of the levy that was paid or is payable for that portion of the entry year during which the property is incapable of rateable occupation and that prorated amount shall be—
 
