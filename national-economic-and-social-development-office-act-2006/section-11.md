@@ -8,7 +8,7 @@ Functions of Centre.
 
 (2) The Centre shall advise the Taoiseach on such matters relating to the deepening of workplace partnership in the public and private sectors as he or she may, from time to time, specify.
 
-(3) The Centre may cooperate with the Department of Enterprise, Trade and Employment and any other relevant body in the funding of partnership initiatives as referred to in subsection (1).
+(3) The Centre may cooperate with the Department of Enterprise, Trade and Employment and any other relevant body in the funding of partnership initiatives as referred to in subsection (1) .
 
 (4) The Taoiseach may, after consultation with any relevant Minister of the Government who has representation on the Centre, by order amend the functions of the Centre under subsection (1) or confer additional functions on it connected with the activities of the Office.
 
