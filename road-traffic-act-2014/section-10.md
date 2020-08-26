@@ -52,7 +52,7 @@ Reference Offence General Description of Penalty Penalty Points on Number Offenc
 
 (v) by inserting after reference number 26 (as amended by section 138(7) of the Railway Safety Act 2005) the following:
 
-27 Offence consisting of contra- Contravention of ban on U- 2 4 vention of article 35 turns
+27 Offence consisting of Contravention of ban on U- 2 4 contravention of article 35 turns
 
 “
 
@@ -98,17 +98,17 @@ In this Part, a reference to an Article is a reference to an Article of the Road
 
 Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
 
-1 Offence consisting of Contravention of 1 3 contravention of rules for use of mini- Article 5 roundabouts
+1 Offence consisting of Contravention of rules 1 3 contravention of for use of mini- Article 5 roundabouts
 
 2 Offence consisting of Proceeding beyond no 1 3 contravention of entry to vehicles sign Article 6
 
-3 Offence consisting of Proceeding beyond maxi- 1 3 contravention of um vehicle width sign Article 7 where width exceeds maximum displayed
+3 Offence consisting of Proceeding beyond 1 3 contravention of maxium vehicle width Article 7 sign where width exceeds maximum displayed
 
-4 Offence consisting of Proceeding beyond maxi- 1 3 contravention of mum design gross vehicle Article 8 weight (safety) sign where design gross vehicle weight exceeds maximum displayed
+4 Offence consisting of Proceeding beyond 1 3 contravention of maximum design gross Article 8 vehicle weight (safety) sign where design gross vehicle weight exceeds maximum displayed
 
-5 Offence consisting of Proceeding beyond maxi- 1 3 contravention of mum design gross vehicle Article 9 weight (safety) sign where design gross vehicle weight exceeds maximum displayed
+5 Offence consisting of Proceeding beyond 1 3 contravention of maximum design gross Article 9 vehicle weight (safety) sign where design gross vehicle weight exceeds maximum displayed
 
-6 Offence consisting of Proceeding beyond maxi- 1 3 contravention of mum vehicle axle loading Article 10 weight sign where vehicle axle loading weight exceeds maximum specified Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
+6 Offence consisting of Proceeding beyond 1 3 contravention of maximum vehicle axle Article 10 loading weight sign where vehicle axle loading weight exceeds maximum specified Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
 
 7 Offence consisting of Proceeding beyond a 1 3 contravention of traffic lane control sign Article 15 other than in accordance with such sign or without yielding
 
