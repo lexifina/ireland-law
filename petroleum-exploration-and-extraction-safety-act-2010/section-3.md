@@ -530,7 +530,7 @@ Refusal or revocation of safety permit.
 
 (iii) where, in the opinion of the Commission, the petroleum undertaking is not complying with its duties under section 13K.
 
-(2) Where the Commission proposes to refuse or revoke a safety permit in accordance with subsection (1), it shall notify in writing the petroleum under-taking concerned of the proposal and the petroleum undertaking may, within 21 days of the notification, make representations to the Commission, which shall consider them.
+(2) Where the Commission proposes to refuse or revoke a safety permit in accordance with subsection (1), it shall notify in writing the petroleum undertaking concerned of the proposal and the petroleum undertaking may, within 21 days of the notification, make representations to the Commission, which shall consider them.
 
 (3) Where the Commission decides under subsection (1) to refuse or revoke a safety permit and, having considered representations (if any) made by the petroleum undertaking under subsection (2), it shall notify the petroleum undertaking concerned of the decision and the reasons for the decision.
 
@@ -720,7 +720,9 @@ Petroleum safety officers.
 
 (b) on conviction on indictment to a fine not exceeding €3,000,000 or a term of imprisonment not exceeding 3 years or to both.
 
-Emergency direction. 13X.— (1) Where a petroleum safety officer is of the opinion that the condition of any petroleum infrastructure or any part of such infrastructure, or an upstream pipeline or any activity, process or procedure carried on, from or in connection with, such infrastructure or pipeline, poses such a substantial and imminent risk to safety that the activity should be ceased until specified measures have been taken to reduce the risk to a level that is as low as is reasonably practicable, the officer shall immediately inform the Commission.
+Emergency direction.
+
+13X.— (1) Where a petroleum safety officer is of the opinion that the condition of any petroleum infrastructure or any part of such infrastructure, or an upstream pipeline or any activity, process or procedure carried on, from or in connection with, such infrastructure or pipeline, poses such a substantial and imminent risk to safety that the activity should be ceased until specified measures have been taken to reduce the risk to a level that is as low as is reasonably practicable, the officer shall immediately inform the Commission.
 
 (2) The Commission, on being informed of the opinion of the petroleum safety officer as respects a matter referred to in subsection (1), may, where it is satisfied that it is necessary to do so for the immediate protection of human life or petroleum infrastructure, issue an emergency direction in writing to the petroleum undertaking stating that the activity should be ceased immediately and the measures that are required to be taken to reduce the risk to a level that is as low as is reasonably practicable.
 
@@ -888,9 +890,7 @@ Access to safety case information.
 
 (b) For the purposes of paragraph (a), the Commission may give the petroleum undertaking such direction as it considers appropriate in relation to what is a reasonable fee.
 
-Contraventions in the licensed area.
-
-13AD.— A contravention of any provision of this Part (including a failure to comply with the conditions of a safety permit) which occurs in any part of—
+Contraventions in the licensed area. 13AD.— A contravention of any provision of this Part (including a failure to comply with the conditions of a safety permit) which occurs in any part of—
 
 (a) the licensed area to which subparagraphs (i) or (ii), or both, of paragraph (a) of the definition of ‘licensed area’ relates, or
 
