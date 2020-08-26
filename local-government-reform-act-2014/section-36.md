@@ -261,3 +261,5 @@ Co-operation with Local Community Development Committees
 (3) The Principal Act is amended by inserting after Schedule 15 of that Act the Schedule set out in Schedule 5 to this Act.
 
 (4) Sections 66, 140(10) and 221(2) of the Principal Act are amended in the manner set out in Schedule 1.
+
+## PART 7 LOCAL AUTHORITY GOVERNANCE AND MANAGEMENT, ETC.

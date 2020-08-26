@@ -18,14 +18,14 @@ Table
 
 Column 1 Column 2
 
-Dissolved authority Successor authority
-
-Limerick City Council Limerick City and County Council
+Dissolved authority Successor authority Limerick City Council Limerick City and County Council
 
 Limerick County Council Limerick City and County Council
 
 North Tipperary County Council Tipperary County Council
 
-South Tipperary County Council Tipperary County Council Waterford City Council Waterford City and County Council
+South Tipperary County Council Tipperary County Council
+
+Waterford City Council Waterford City and County Council
 
 Waterford County Council Waterford City and County Council

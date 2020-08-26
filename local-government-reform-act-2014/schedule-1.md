@@ -10,7 +10,9 @@ Reference Provision Amendment No. (2) (3) (1)
 
 1 Section 2(1)
 
-Before definition of Insert: “Act of 2000” “‘2014 establishment day’ means the day appointed by order under section 8 of the Local Government Reform Act 2014 to be the establishment day for the purposes of that Act;”.
+Before definition of Insert: “Act of 2000” “‘2014 establishment day’ means the day appointed by order under section 8 of the Local
+
+Government Reform Act 2014 to be the establishment day for the purposes of that Act;”.
 
 2 Definition of Substitute: “administrative “‘administrative area’ means an area standing area” established under section 10 for the purposes of local government and which is—
 
@@ -164,9 +166,9 @@ Subsection (1) Substitute:
 
 “(2) The holders of the offices of Cathaoirleach and Leas-Chathaoirleach shall as appropriate be styled—
 
-(a) in the case of a county council, in the Irish language ‘Cathaoirleach Chontae.......’ and ‘Leas- Chathaoirleach Chontae.......’ followed by the name of the county in Irish, and in the English language ‘Cathaoirleach of the County of.......’ and ‘Leas- Chathaoirleach of the County of.......’ followed by the name of the county in English,
+(a) in the case of a county council, in the Irish language ‘Cathaoirleach Chontae.......’ and ‘Leas- Chathaoirleach Chontae.......’ followed by the name of the county in Irish, and in the English language ‘Cathaoirleach of the County of.......’ and ‘Leas- Chathaoirleach of the County of.......’ followed by the name of the county in English, Reference Provision Amendment No. (2) (3) (1)
 
-(b) in the case of a city council, in the Irish language ‘Cathaoirleach Chathair.......’ and ‘Leas- Chathaoirleach Chathair.......’ followed by the name of the city in Irish, and in the English language ‘Cathaoirleach of the City of.......’ and ‘Leas- Chathaoirleach of the City of.......’ followed by the name of the city in English, Reference Provision Amendment No. (2) (3) (1)
+(b) in the case of a city council, in the Irish language ‘Cathaoirleach Chathair.......’ and ‘Leas- Chathaoirleach Chathair.......’ followed by the name of the city in Irish, and in the English language ‘Cathaoirleach of the City of.......’ and ‘Leas- Chathaoirleach of the City of.......’ followed by the name of the city in English,
 
 (c) in the case of a city and county council, in the Irish language ‘Cathaoirleach Chathair agus Chontae.......’ and ‘Leas-Chathaoirleach Chathair agus Chontae.......’ followed by the name of the city and county in Irish, and in the English language ‘Cathaoirleach of the City and County of.......’ and ‘Leas-Chathaoirleach of the City and County of.......’ followed by the name of the city and county in English,
 
@@ -174,9 +176,9 @@ Subsection (1) Substitute:
 
 (e) in the case of a municipal district whose area contains the area of a borough council in being (other than in respect of the borough of Kilkenny) immediately before the transfer date as provided for by the Local Government Reform Act 2014, in the Irish language ‘Cathaoirleach Cheantar Buirge.......’ and ‘Leas-Chathaoirleach Cheantar Buirge.......’ followed by the name of the municipal district in Irish, and in the English language ‘Cathaoirleach of the Borough District of.......’ and ‘Leas-Chathaoirleach of the Borough District of.......’ followed by the name of the municipal district in English,
 
-(f) in the case of a municipal district whose area contains the area of the borough of Kilkenny in being immediately before the transfer date as provided for by the Local Government Reform Act 2014, in the Irish language ‘Cathaoirleach Cheantar Bardasach Chathair Chill Chainnigh’ and ‘Leas- Chathaoirleach Cheantar Bardasach Chathair Chill Chainnigh’ and in the English language ‘Cathaoirleach of the Municipal District of Kilkenny City’ and ‘Leas-Chathaoirleach of the Municipal District of Kilkenny City’,
+(f) in the case of a municipal district whose area contains the area of the borough of Kilkenny in being immediately before the transfer date as provided for by the Local Government Reform Act 2014, in the Irish language ‘Cathaoirleach Cheantar Bardasach Chathair Chill Chainnigh’ and ‘Leas- Chathaoirleach Cheantar Bardasach Chathair Chill Chainnigh’ and in the English language ‘Cathaoirleach of the Municipal District of Kilkenny City’ and ‘Leas-Chathaoirleach of the Municipal District of Kilkenny City’, Reference Provision Amendment No. (2) (3) (1)
 
-(g) in the case of a municipal district to which paragraph (d), (e) or (f) does not apply, in the Irish language ‘Cathaoirleach Cheantar Bardasach.......’ and ‘Leas-Chathaoirleach Cheantar Bardasach.......’ followed by the name of the municipal district in Irish, and in the English language ‘Cathaoirleach of the Municipal District of.......’ and ‘Leas- Chathaoirleach of the Municipal District of.......’ followed by the name of the municipal district in English. Reference Provision Amendment No. (2) (3) (1)
+(g) in the case of a municipal district to which paragraph (d), (e) or (f) does not apply, in the Irish language ‘Cathaoirleach Cheantar Bardasach.......’ and ‘Leas-Chathaoirleach Cheantar Bardasach.......’ followed by the name of the municipal district in Irish, and in the English language ‘Cathaoirleach of the Municipal District of.......’ and ‘Leas- Chathaoirleach of the Municipal District of.......’ followed by the name of the municipal district in English.
 
 44 Subsections (4) to (7) Substitute:
 
@@ -184,7 +186,7 @@ Subsection (1) Substitute:
 
 (b) The Cathaoirleach of a municipal district shall take precedence at all meetings and proceedings of the municipal district members.
 
-(5) Anything authorised or required by this Act or otherwise by law to be done by, to or with the Cathaoirleach may where necessary be done by, to or with the Leas-Chathaoirleach of the local authority or the Leas-Chathaoirleach of the municipal district, as the case may be.
+(5) Anything authorised or required by this Act or otherwise by law to be done by, to or with the Cathaoirleach may where necessary be done by, to or with the Leas-Chathaoirleach of the local authority or the Leas- Chathaoirleach of the municipal district, as the case may be.
 
 (6) The Cathaoirleach may, where the Leas- Chathaoirleach is unavailable, nominate from among the other members of the local authority or the municipal district members, as the case may be, a member for the purpose of representing the Cathaoirleach at any ceremony or event in that capacity and that member shall be entitled to act in that capacity for such purpose.
 
@@ -198,7 +200,7 @@ Subsection (1) Substitute:
 
 47 Section 48 Delete “being a county council or city council”. Subsection (1)
 
-48 Section 49 Delete.
+48 Section 49 Delete. Reference Provision Amendment No. (2) (3) (1)
 
 49 Section 52 Substitute in paragraph (d) “chief executive” for Subsection (5) “manager”.
 
@@ -208,7 +210,7 @@ Subsection (1) Substitute:
 
 52 Section 66 Insert after subsection (10):
 
-“(11) A decision of a local authority to make a charge under subsection (10) is a reserved function. Reference Provision Amendment No. (2) (3) (1)
+“(11) A decision of a local authority to make a charge under subsection (10) is a reserved function.
 
 (12) The performance by a local authority of functions under this section is subject to the performance by a Local Community Development Committee of so much of those functions as are deemed to have been delegated to the Committee by virtue of section 128B(2).”.
 
@@ -238,15 +240,15 @@ Subsection (1) Substitute:
 
 (b) a city council;
 
-(c) a city and county council; and references to ‘library authority’ shall be read accordingly.”.
+(c) a city and county council; Reference Provision Amendment No. (2) (3) (1) and references to ‘library authority’ shall be read accordingly.”.
 
 58 Section 81(1) Substitute:
 
-Definition of “func- “‘functional area’ means— tional area” (a) a county, or (b) so much of the area of the city and county that does not comprise of the area of a dissolved local authority area of a city council;”.
+Definition of “‘functional area’ means— “functional area” (a) a county, or (b) so much of the area of the city and county that does not comprise of the area of a dissolved local authority area of a city council;”.
 
 59 Section 84 Delete.
 
-60 Part 11 (sections 89 Delete. to 95) Reference Provision Amendment No. (2) (3) (1)
+60 Part 11 (sections 89 Delete. to 95)
 
 61 Section 99 Substitute “chief executive” for “manager” in both Subsection (2) places where it occurs.
 
@@ -288,7 +290,7 @@ Definition of “func- “‘functional area’ means— tional area” (a) a co
 
 80 Section 133 Substitute “chief executive” for “manager”. Subsection (3)
 
-81 Subsection (4) Substitute in paragraph (a) “chief executive” for “manager”.
+81 Subsection (4) Substitute in paragraph (a) “chief executive” for “manager”. Reference Provision Amendment No. (2) (3) (1)
 
 82 Subsection (5) Substitute in paragraph (a) “chief executive” for “manager” in both places where it occurs.
 
@@ -300,7 +302,7 @@ Definition of “func- “‘functional area’ means— tional area” (a) a co
 
 86 Subsection (7) Substitute “chief executive” for “manager”.
 
-87 Subsection (9) Substitute “chief executive” for “manager”. Reference Provision Amendment No. (2) (3) (1)
+87 Subsection (9) Substitute “chief executive” for “manager”.
 
 88 Section 134 Substitute “chief executive” for “manager”. Subsection (3)
 
@@ -344,7 +346,7 @@ Definition of “func- “‘functional area’ means— tional area” (a) a co
 
 108 Subsection (9) Substitute “chief executive” for “manager”.
 
-109 Section 151 Substitute “chief executive” for “manager” in both Subsection (1) places where it occurs.
+109 Section 151 Substitute “chief executive” for “manager” in both Subsection (1) places where it occurs. Reference Provision Amendment No. (2) (3) (1)
 
 110 Subsection (2) Substitute in paragraph (a) “chief executive” for “manager”.
 
@@ -354,7 +356,7 @@ Definition of “func- “‘functional area’ means— tional area” (a) a co
 
 113 Subsection (4) Substitute “chief executive” for “manager”.
 
-114 Subsection (5) Substitute “chief executive” for “manager” in both places where it occurs. Reference Provision Amendment No. (2) (3) (1)
+114 Subsection (5) Substitute “chief executive” for “manager” in both places where it occurs.
 
 115 Subsection (6) Substitute “chief executive” for “manager” in each place where it occurs.
 
@@ -394,7 +396,7 @@ Definition of “func- “‘functional area’ means— tional area” (a) a co
 
 132 Subsection (6) Substitute “chief executive” for “manager”.
 
-133 Section 159 Substitute “chief executive” for “manager”. Subsection (1)
+133 Section 159 Substitute “chief executive” for “manager”. Subsection (1) Reference Provision Amendment No. (2) (3) (1)
 
 134 Subsection (2) Substitute “chief executive” for “manager”.
 
@@ -402,7 +404,7 @@ Definition of “func- “‘functional area’ means— tional area” (a) a co
 
 136 Section 166 Substitute “chief executive” for “manager”. Subsection (1) Definition of “employee”
 
-137 Subsection (2) Substitute in paragraph (a) “chief executive” for “manager” in both places where it occurs. Reference Provision Amendment No. (2) (3) (1)
+137 Subsection (2) Substitute in paragraph (a) “chief executive” for “manager” in both places where it occurs.
 
 138 Section 167 Substitute in paragraph (c) “chief executive” for Subsection (1) “manager”.
 
@@ -436,15 +438,13 @@ Definition of “func- “‘functional area’ means— tional area” (a) a co
 
 153 Subsection (4) Substitute in paragraph (c) “chief executive” for “manager”.
 
-154 Part 17 (sections 185 Delete. to 187)
+154 Part 17 (sections 185 Delete. to 187) Reference Provision Amendment No. (2) (3) (1)
 
 155 Part 18 (sections 188 to 194, inserted by section 48 of the Environment (Miscellaneous Provisions) Act 2011)
 
-Section 188 (as so Substitute: inserted) “‘functional area’ means as respects— Reference Provision Amendment No. (2) (3) (1)
+Section 188 (as so Substitute: inserted) “‘functional area’ means as respects— Definition of (a) a city council, the city, “functional area” (b) a county council, the county, (c) a city and county council, the city and county;”.
 
-Definition of “func- (a) a city council, the city, tional area” (b) a county council, the county, (c) a city and county council, the city and county;”.
-
-156 Definition of “locali- Substitute: ty” (as so inserted) “‘locality’ means a part (other than a town, townland or street) of a county, city, city and county, or town in respect of which a name (other than the name of the county, city, city and county, or town concerned) is in common use;”.
+156 Definition of Substitute: “locality” (as so “‘locality’ means a part (other than a town, inserted) townland or street) of a county, city, city and county, or town in respect of which a name (other than the name of the county, city, city and county, or town concerned) is in common use;”.
 
 157 Definition of “non- Delete. municipal town” (as so inserted)
 
@@ -452,7 +452,7 @@ Definition of “func- (a) a city council, the city, tional area” (b) a county
 
 159 Section 198 Substitute:
 
-Subsection (1) “‘functional area’ means as respects— Definition of “func- (a) a city council, the city, tional area” (b) a county council, the county, (c) a city and county council, the city and county;”.
+Subsection (1) “‘functional area’ means as respects— Definition of (a) a city council, the city, “functional area” (b) a county council, the county, (c) a city and county council, the city and county;”.
 
 160 Section 214(5) Substitute “chief executive” for “manager” in both places where it occurs.
 
@@ -470,13 +470,13 @@ Subsection (1) “‘functional area’ means as respects— Definition of “fu
 
 “(b) such particulars as are required by sections 48, 66, 66G, 49A(7), 75, 76, 126D(9), 134, 134A(6) and 228;”.
 
-167 Subsection (3) Substitute:
+167 Subsection (3) Substitute: Reference Provision Amendment No. (2) (3) (1)
 
 “(3) (a) The adoption by a county council or city council of its annual report is a reserved function.
 
 (b) The approval of information to be included in an annual report in relation to the performance of functions by municipal district members is a reserved function.”.
 
-168 Subsection (4) Substitute “local authority” for “county council or city council” in each place where it occurs. Reference Provision Amendment No. (2) (3) (1)
+168 Subsection (4) Substitute “local authority” for “county council or city council” in each place where it occurs.
 
 169 Subsection (5) Substitute: “(5) An annual report prepared by a county council or a city and county council shall include information in relation to the performance of functions by the municipal district members in respect of each municipal district situated within its county or city and county, as the case may be.”.
 
@@ -510,7 +510,9 @@ Government Reform Act 2014) to a county and to a city, and references in this se
 
 PART 2
 
-Miscellaneous and Consequential Amendments to Local Government Acts 1925 to 2013 (other than to the Local Government Act 2001) and to Certain Pre-1922 Local Government Acts Regnal Year and Short Title Provision Amendment or Repeal Chapter or (2) (3) (4) Number and Year (1)
+Miscellaneous and Consequential Amendments to Local Government Acts 1925 to 2013 (other than to the Local Government Act 2001) and to Certain Pre-1922 Local Government Acts
+
+Regnal Year and Short Title Provision Amendment or Repeal Chapter or (2) (3) (4) Number and Year (1)
 
 34 & 35 Vict., c. Local Government Section 12 Section deleted. 109 (Ireland) Act 1871
 
@@ -518,16 +520,16 @@ Miscellaneous and Consequential Amendments to Local Government Acts 1925 to 2013
 
 2 Edw. 7, c. 38 Local Government Sections 19 Sections deleted. (Ireland) Act 1902 and 20
 
-No. 35 of 1934 Limerick City Manage- The whole Act Repealed in so far as it ment Act 1934 is not repealed.
+No. 35 of 1934 Limerick City The whole Act Repealed in so far as it Management Act 1934 is not repealed.
 
-No. 25 of 1939 Waterford City Manage- The whole Act Repealed in so far as it ment Act 1939 is not repealed.
+No. 25 of 1939 Waterford City The whole Act Repealed in so far as it Management Act 1939 is not repealed.
 
 No. 23 of 1941 Local Government Act Sections 70 Sections deleted. 1941 and 71
 
 No. 24 of 1946 Local Government Act Sections 23, 68 Sections deleted. 1946 and 94
 
-No. 12 of 1955 City and County Section 10A In subsection (2) Management (Amend-substitute “14 days” for ment) Act 1955 “twenty-one days”.
+No. 12 of 1955 City and County Section 10A In subsection (2) Management substitute “14 days” for (Amendment) Act 1955 “twenty-one days”.
 
 No. 2 of 1970 Local Government Section 2 In subsection (5) (Rates) Act 1970 substitute “city council” for “county borough” and delete subsection (7).
 
-No. 42 of 2006 Local Government (Busi- Sections 4 and Sections deleted. ness Improvement 5 Districts) Act 2006
+No. 42 of 2006 Local Government Sections 4 and Sections deleted. (Business Improvement 5 Districts) Act 2006

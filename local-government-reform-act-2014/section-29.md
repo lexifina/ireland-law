@@ -20,7 +20,9 @@ Rates
 
 A - B where
 
-A is the annual rate on valuation in respect of the year immediately preceding Year 1 that is applicable in the specified area, and B is the annual rate on valuation determined by the rating authority in Year 1 of the adjustment period applicable generally in the area of the rating authority.
+A is the annual rate on valuation in respect of the year immediately preceding Year 1 that is applicable in the specified area, and
+
+B is the annual rate on valuation determined by the rating authority in Year 1 of the adjustment period applicable generally in the area of the rating authority.
 
 (4) In respect of each year of the adjustment period subsequent to Year 1, the base year adjustment shall be adjusted separately for each specified area by the rating authority concerned, following consultation with municipal district members in that area, by reducing the discount or levy (as the case may be) referred to in subsection (5), incrementally each year, until it is eliminated.
 

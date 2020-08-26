@@ -1,5 +1,3 @@
-## PART 7 LOCAL AUTHORITY GOVERNANCE AND MANAGEMENT, ETC.
-
 Alternative titles to Cathaoirleach and Leas-Chathaoirleach, etc.
 
 37. (1) The Principal Act is amended by substituting the following for section 32:

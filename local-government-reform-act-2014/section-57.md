@@ -50,7 +50,7 @@ Amendment of Schedule 10 (meetings and proceedings of local authorities) to Prin
 
 (c) If, within a period of 3 months following the ending of a suspension in accordance with clause (a) or (b), further resolutions to which clause (a) relates are proposed to be adopted in respect of that member, then the period provided for in a resolution under clause (a) (ii) shall be at least 3 months but shall not exceed 6 months.
 
-(d) Having regard to clause (f), a suspension under this subparagraph shall cease to have effect on the ordinary day of retirement.
+(d) Having regard to clause (f ), a suspension under this subparagraph shall cease to have effect on the ordinary day of retirement.
 
 (e) Where a resolution under clause (a) suspending a member has been passed, the member concerned shall not be entitled to attend, speak at or take any part in any meetings of the local authority and any committee of the local authority, and any meetings of municipal district members, and notwithstanding the provisions of paragraphs 6 and 7, shall not be entitled to present a request to the Cathaoirleach to require a special meeting of the local authority to be convened and shall not be entitled to receive any services in respect of meetings of the local authority or any committee of the local authority, or meetings of municipal district members, including the agenda and papers circulated to members, for the period specified in the resolution while it remains in force.
 

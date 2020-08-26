@@ -26,13 +26,13 @@ Cork 55
 
 Donegal 37
 
-Dun Laoghaire-Rathdown 40
-
-Fingal 40
+Dun Laoghaire-Rathdown 40 Fingal 40
 
 Galway 39
 
-Kerry 33 Kildare 40
+Kerry 33
+
+Kildare 40
 
 Kilkenny 24
 

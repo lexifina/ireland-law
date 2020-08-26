@@ -52,7 +52,11 @@ Functions of Commission 126C. (1) The functions of the Commission are as follows
 
 (g) to monitor the adequacy of the corporate plan prepared—
 
-(i) by a regional assembly pursuant to section 43 (as amended by the Local Government Reform Act 2014) of the Local Government Act 1991, and
+(i) by a regional assembly pursuant to section 43 (as amended by the
+
+Local Government Reform Act
+
+2014) of the Local Government Act 1991, and
 
 (ii) by a council pursuant to section 134, and to evaluate implementation of such plans either generally or in respect of any local government body or class of such bodies;
 
@@ -170,9 +174,7 @@ Members of Commission 126H. (1) Subject to subsection (4) and section 126I(7), t
 
 (7) The Minister, to the extent practicable, shall endeavour to ensure that there is an equitable balance between men and women in the membership of the Commission.
 
-Eligibility and tenure of office of members, etc.
-
-126I. (1) A person appointed to be a member of the Commission holds office as such member for such period, terms and conditions as may be specified by the Minister at the time of his or her appointment.
+Eligibility and tenure of office of members, etc. 126I. (1) A person appointed to be a member of the Commission holds office as such member for such period, terms and conditions as may be specified by the Minister at the time of his or her appointment.
 
 (2) The chairperson and any other member of the Commission may be paid, out of moneys at the disposal of the Minister, such remuneration (if any) and allowances for expenses incurred by the member as the Minister, with the consent of the Minister for Public Expenditure and Reform, may determine.
 
