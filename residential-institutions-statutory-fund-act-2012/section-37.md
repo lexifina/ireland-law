@@ -1,6 +1,6 @@
 Liability for loss occurring before commencement.
 
-37.— (1) A claim in respect of any loss or injury alleged to have been suffered by any person arising out of the performance before the commencement of this Part of the functions of the dissolved body transferred to the Board under section 33shall after that day, lie against the Board and not against the dissolved body.
+37.— (1) A claim in respect of any loss or injury alleged to have been suffered by any person arising out of the performance before the commencement of this Part of the functions of the dissolved body transferred to the Board under section 33 shall after that day, lie against the Board and not against the dissolved body.
 
 (2) Any legal proceedings pending immediately before the commencement of this Part to which the dissolved body is a party, that relate to a function of the Board, shall be continued, with the substitution in the proceedings of the Board, in so far as they so relate, for the dissolved body.
 
