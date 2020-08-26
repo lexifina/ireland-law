@@ -1,6 +1,6 @@
 Summary trial of offences.
 
-4.— (1) The District Court may try summarily a person charged with an offence under section 2(2) or 3(2) if—
+4.— (1) The District Court may try summarily a person charged with an offence under section 2 (2) or 3 (2) if—
 
 (a) the court is of opinion that the facts alleged constitute a minor offence fit to be tried summarily,
 

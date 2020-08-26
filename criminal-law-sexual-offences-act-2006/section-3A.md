@@ -1,4 +1,4 @@
-F5[Offence by person in authority
+Offence by person in authority.
 
 3A. (1) A person in authority who engages in a sexual act with a child who has attained the age of 17 years but is under the age of 18 years shall be guilty of an offence.
 

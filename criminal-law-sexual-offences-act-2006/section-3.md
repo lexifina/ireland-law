@@ -1,4 +1,4 @@
-Defilement of child under 17 years of age
+Defilement of child under 17 years of age.
 
 3. (1) A person who engages in a sexual act with a child who is under the age of 17 years shall be guilty of an offence and shall be liable on conviction on indictment—
 

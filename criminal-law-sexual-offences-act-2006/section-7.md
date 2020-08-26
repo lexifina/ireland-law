@@ -10,7 +10,7 @@ Amendment of certain enactments.
 
 (ii) the substitution of “section 3 of the Criminal Law (Sexual Offences) Act 2006” for “section 2 of the Criminal Law Amendment Act 1935”, and
 
-(iii) the substitution of “the said section 3 or section 3of the Criminal Law (Sexual Offences) Act 2006,” for “the said section 2 or 3”.
+(iii) the substitution of “the said section 3 or section 3 of the Criminal Law (Sexual Offences) Act 2006,” for “the said section 2 or 3”.
 
 (2) Section 2 of the Criminal Evidence Act 1992 is amended, in the definition of “sexual offence”, by the substitution of the following paragraph for paragraph (iv):
 
