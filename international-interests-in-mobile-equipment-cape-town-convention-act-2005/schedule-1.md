@@ -464,7 +464,9 @@ Article 28—Liability and financial assurances
 
 4. The Registrar shall procure insurance or a financial guarantee covering the liability referred to in this Article to the extent determined by the Supervisory Authority, in accordance with the Protocol.
 
-Chapter VIII Effects of an international interest as against third parties
+Chapter VIII
+
+Effects of an international interest as against third parties
 
 Article 29—Priority of competing interests
 

@@ -2,9 +2,7 @@ SCHEDULE 2
 
 PROTOCOL
 
-TO THE CONVENTION ON INTERNATIONAL INTERESTS IN MOBILE EQUIPMENT ON MATTERS SPECIFIC TO AIRCRAFT EQUIPMENT
-
-THE STATES PARTIES TO THIS PROTOCOL,
+TO THE CONVENTION ON INTERNATIONAL INTERESTS IN MOBILE EQUIPMENT ON MATTERS SPECIFIC TO AIRCRAFT EQUIPMENT THE STATES PARTIES TO THIS PROTOCOL,
 
 CONSIDERING it necessary to implement the Convention on International Interests in Mobile Equipment (hereinafter referred to as “the Convention”) as it relates to aircraft equipment, in the light of the purposes set out in the preamble to the Convention,
 
@@ -506,7 +504,9 @@ To: [Insert Name of Registry Authority]
 
 Re: Irrevocable De-Registration and Export Request Authorisation
 
-The undersigned is the registered [operator] [owner]* of the [insert the airframe/helicopter manufacturer name and model number] bearing manufacturers serial number [insert manufacturer's serial number] and registration [number] [mark] [insert registration number/mark] (together with all installed, incorporated or attached accessories, parts and equipment, the “aircraft”). This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] (“the authorised party”) under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment. In accordance with that Article, the undersigned hereby requests:
+The undersigned is the registered [operator] [owner]* of the [insert the airframe/helicopter manufacturer name and model number] bearing manufacturers serial number [insert manufacturer's serial number] and registration [number] [mark] [insert registration number/mark] (together with all installed, incorporated or attached accessories, parts and equipment, the “aircraft”).
+
+This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] (“the authorised party”) under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment. In accordance with that Article, the undersigned hereby requests:
 
 (i) recognition that the authorised party or the person it certifies as its designee is the sole person entitled to:
 
