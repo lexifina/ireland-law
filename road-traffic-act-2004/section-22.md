@@ -12,7 +12,7 @@ Amendment of First Schedule to Act of 2002.
 
 “
 
-17 Offence under section 51A of Road Driving without reasonable consid- 2 4 Traffic Act 1961 eration
+17 Offence under section 51A of Road Driving without reasonable 2 4 Traffic Act 1961 consideration
 
 ” and
 

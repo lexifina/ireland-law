@@ -1,3 +1,3 @@
-Exemptions for emergency vehicles.
+Exemptions for emergency vehicles. (Repealed)
 
 27.—...

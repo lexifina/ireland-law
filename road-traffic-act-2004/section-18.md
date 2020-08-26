@@ -1,3 +1,3 @@
-Outsourcing
+Outsourcing of fixed charge functions from Garda Síochána. (Repealed)
 
 18.—...

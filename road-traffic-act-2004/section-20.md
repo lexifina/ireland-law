@@ -1,3 +1,3 @@
-Offence by body corporate, etc.
+Offence by body corporate, etc. (Repealed)
 
 20.—...

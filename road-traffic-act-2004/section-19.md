@@ -1,3 +1,3 @@
-Driver of vehicle where registered owner is not an individual.
+Driver of vehicle where registered owner is not an individual. (Repealed)
 
 19.—...

@@ -1,3 +1,3 @@
-Functions of Commissioner of Garda Síochána.
+Functions of Commissioner of Garda Síochána. (Repealed)
 
 28.—...

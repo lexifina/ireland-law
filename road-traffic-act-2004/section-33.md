@@ -1,3 +1,3 @@
-Production of driving licence to member of Garda Síochána subsequent to commission of road traffic offence.
+Production of driving licence to member of Garda Síochána subsequent to commission of road traffic offence. (Repealed)
 
 33.—...
