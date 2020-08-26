@@ -4,4 +4,4 @@ Amendment of Bail Act 1997.
 
 “Offences relating to female genital mutilation
 
-38. An offence undersection 2, 3 or 4 of the Criminal Justice (Female Genital Mutilation) Act 2012.”.
+38. An offence under section 2, 3 or 4 of the Criminal Justice (Female Genital Mutilation) Act 2012.”.
