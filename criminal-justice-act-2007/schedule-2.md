@@ -36,7 +36,7 @@ Firearms offences
 
 (b) section 27 (prohibition of use of firearms to assist or aid escape);
 
-(c) section 27A(possession of firearm or ammunition in suspicious circumstances);
+(c) section 27A (possession of firearm or ammunition in suspicious circumstances);
 
 (d) section 27B (carrying firearm with criminal intent).
 

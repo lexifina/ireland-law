@@ -4,7 +4,7 @@ Short title, collective citations, construction and commencement.
 
 1.— (1) This Act may be cited as the Criminal Justice Act 2007.
 
-(2) This Act (other thanPart 8) comes into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision, and different days may be so appointed for different purposes or different provisions.
+(2) This Act (other than Part 8 ) comes into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision, and different days may be so appointed for different purposes or different provisions.
 
 (3) The Bail Act 1997 and Part 2 may be cited together as the Bail Acts 1997 and 2007.
 

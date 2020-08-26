@@ -1,6 +1,6 @@
 Evidence of electronic monitoring.
 
-12.— The Act of 1997 is amended by the insertion of the following section aftersection 6B:
+12.— The Act of 1997 is amended by the insertion of the following section after section 6B:
 
 “6C.— (1) Where the movements of a person are subject to electronic monitoring as a condition of the recognisance entered into by the person, evidence of his or her—
 
