@@ -1,4 +1,4 @@
-Offences —
+Offences —Part 6.
 
 75.— (1) A person who—
 

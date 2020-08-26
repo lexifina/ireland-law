@@ -12,7 +12,7 @@ Citation Short title Extent of repeal (1) (2) (3)
 
 1603 (1 Jas. 1) c. 13 Parliamentary Privilege Act 1603 The whole Act.
 
-1688 (1 Will. & Mary sess. Bill of Rights 1688 In the first section, the words “Free- 2) c. 2 dom of Speech. That the Freedome of Speech and Debates of Proceedings in Parlyament ought not to be impeached or questioned in any Court or place out of Parlyament.”.
+1688 (1 Will. & Mary sess. Bill of Rights 1688 In the first section, the words 2) c. 2 “Freedom of Speech. That the Freedome of Speech and Debates of Proceedings in Parlyament ought not to be impeached or questioned in any Court or place out of Parlyament.”.
 
 1737 (11 Geo. 2) c. 24 Parliamentary Privilege Act 1737 The whole Act.
 

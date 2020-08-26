@@ -2,7 +2,7 @@ Guidelines relating to procedures of Part 2 inquiry.
 
 19.— (1) Subject to subsection (2), the section 19 committee may issue guidelines under this section, not inconsistent with this Act, relating to the procedures of Part 2 inquiries.
 
-(2) For the purposes of the considerations to be taken into account in promoting the objectives of fair procedures and the efficient and cost-effective running of Part 2inquiries, guidelines under this section may include guidelines relating to—
+(2) For the purposes of the considerations to be taken into account in promoting the objectives of fair procedures and the efficient and cost-effective running of Part 2 inquiries, guidelines under this section may include guidelines relating to—
 
 (a) procedures applicable to witnesses,
 

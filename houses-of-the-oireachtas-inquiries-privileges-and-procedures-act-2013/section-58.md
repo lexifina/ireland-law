@@ -48,7 +48,7 @@ Awarding of private bill legal costs (petitioner) to petitioners.
 
 (b) a copy of this Part,
 
-(c) a copy of Part 9,
+(c) a copy of Part 9 ,
 
 (d) a copy of the guidelines (if any) issued under section 56, and
 

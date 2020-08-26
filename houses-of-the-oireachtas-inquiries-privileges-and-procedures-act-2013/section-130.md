@@ -6,4 +6,4 @@ Amendment of section 46 of Freedom of Information Act 1997.
 
 (b) by inserting the following paragraph after paragraph (e):
 
-“(ea) a record relating to any private paper or confidential communication, within the meaning of Part 10 of the Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013, or official document, within the meaning of Part 11of that Act, unless consent has been given under that Act for its disclosure, or”.
+“(ea) a record relating to any private paper or confidential communication, within the meaning of Part 10 of the Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013, or official document, within the meaning of Part 11 of that Act, unless consent has been given under that Act for its disclosure, or”.

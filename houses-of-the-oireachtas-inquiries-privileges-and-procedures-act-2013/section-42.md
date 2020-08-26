@@ -6,11 +6,11 @@
 
 ## CHAPTER 1 Definitions, estimate of Part 2 inquiry legal costs and Part 2 inquiry expenses and parliamentary legal costs adjudicators
 
-Definitions —
+Definitions —Part 5.
 
 42.— In this Part—
 
-“certificate of costs”, in relation toChapter 2, means a certificate of costs referred to in section 52(1) and, in relation to Chapter 4, means a certificate of costs referred to in section 61(1);
+“certificate of costs”, in relation to Chapter 2, means a certificate of costs referred to in section 52(1) and, in relation to Chapter 4, means a certificate of costs referred to in section 61(1);
 
 “legal costs accountant” means a person who has regularly participated in the preparation and presentation of bills of costs on behalf of legal practitioners for taxation (or equivalent) of legal costs and has regularly attended before a Taxing Master (or equivalent) of such bills of costs;
 

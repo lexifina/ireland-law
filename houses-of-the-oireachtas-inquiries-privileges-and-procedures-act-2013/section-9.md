@@ -18,7 +18,7 @@ Power of committee to conduct inquiry into removal, etc., of certain officeholde
 
 (3) Nothing in this section shall require a section 9 inquiry to be conducted before a resolution referred to in a relevant provision has been passed in circumstances where no breach of fair procedures would be occasioned by not conducting the inquiry.
 
-(4) The committee shall not have the power referred to in paragraph (c) or (d)(i) or (ii) of subsection (2) unless the terms of reference for the section 9inquiry expressly state that the committee has that power.
+(4) The committee shall not have the power referred to in paragraph (c) or (d)(i) or (ii) of subsection (2) unless the terms of reference for the section 9 inquiry expressly state that the committee has that power.
 
 (5) Subject to section 66, the committee shall not have the power to send for persons, papers or records unless—
 

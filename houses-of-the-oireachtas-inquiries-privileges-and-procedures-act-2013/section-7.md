@@ -12,7 +12,7 @@ Power of committee to conduct inquiry by way of recording evidence, etc.
 
 (i) those findings of fact;
 
-(ii) findings of fact made by another committee in conducting another Part 2inquiry if the terms of reference for that other Part 2 inquiry expressly state that its findings of fact may be used in other Part 2 inquiries.
+(ii) findings of fact made by another committee in conducting another Part 2 inquiry if the terms of reference for that other Part 2 inquiry expressly state that its findings of fact may be used in other Part 2 inquiries.
 
 (2) Subject to subsection (5), the committee, in exercise of the power to conduct a section 7 inquiry, shall not make any findings of fact except as to facts that are not contradicted by any witness or other person giving evidence in the course of—
 

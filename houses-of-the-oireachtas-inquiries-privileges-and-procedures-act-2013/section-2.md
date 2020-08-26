@@ -74,7 +74,7 @@ Interpretation — general.
 
 “parliamentary legal costs adjudicator” has the meaning assigned to it by section 42;
 
-“Part 2 inquiry” means a section 7 inquiry, section 8 inquiry, section 9 inquiry, section 10 inquiry, section 11inquiry or section 16 inquiry conducted or to be conducted by a committee;
+“Part 2 inquiry” means a section 7 inquiry, section 8 inquiry, section 9 inquiry, section 10 inquiry, section 11 inquiry or section 16 inquiry conducted or to be conducted by a committee;
 
 “public body” means—
 

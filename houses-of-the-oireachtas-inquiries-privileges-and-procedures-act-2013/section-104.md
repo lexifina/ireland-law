@@ -1,6 +1,6 @@
 ## PART 10 PRIVILEGE IN RELATION TO PRIVATE PAPERS AND CONFIDENTIAL COMMUNICATIONS
 
-Interpretation —
+Interpretation —Part 10.
 
 104.— (1) In this Part—
 

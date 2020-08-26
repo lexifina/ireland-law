@@ -48,7 +48,7 @@ Award of Part 2 inquiry expenses against third parties, etc.
 
 (c) a copy of this Part,
 
-(d) a copy of Part 9,
+(d) a copy of Part 9 ,
 
 (e) a copy of the guidelines (if any) issued under section 53, and
 

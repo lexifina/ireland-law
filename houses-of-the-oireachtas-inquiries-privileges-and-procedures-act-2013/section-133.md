@@ -1,4 +1,4 @@
-Offences —
+Offences —Part 14.
 
 133.— (1) A person who threatens to inflict, or inflicts, injury, damage or loss on a witness, or who offers a reward, or rewards, a witness to a Part 2 inquiry or other committee business—
 

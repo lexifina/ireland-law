@@ -1,4 +1,4 @@
-Court’s role in award of third party legal costs, etc., under sections 48, 55, 57 and 58.
+Court’s role in award of third party legal costs, etc., under sections 48, 55 , 57 and 58.
 
 96.— (1) Where the Oireachtas Commission has given a person a notice in writing referred to in section 48(1) or (4), 57(1) or 58(1), the Oireachtas Commission may, on notice to the person, apply to the Court for confirmation of the grounds set out in the notice for the belief set out in the notice.
 

@@ -1,4 +1,4 @@
-Offences —
+Offences —Part 10.
 
 111.— (1) Where a private paper of a member is knowingly or recklessly disclosed by a person other than the member and such disclosure is not authorised by a provision of this Part, the person is guilty of an offence.
 

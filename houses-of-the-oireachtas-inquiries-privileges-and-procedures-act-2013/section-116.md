@@ -1,4 +1,4 @@
-Offences —
+Offences —Part 11.
 
 116.— (1) Where an official document of a House is knowingly or recklessly disclosed by a person other than a member and such disclosure is not authorised by a provision of this Part, the person is guilty of an offence.
 

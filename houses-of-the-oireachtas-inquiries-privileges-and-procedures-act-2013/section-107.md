@@ -20,4 +20,4 @@ Determining what constitutes private paper or confidential communication.
 
 (3) The Part 10 committee shall take all necessary steps to safeguard the confidentiality of the document concerned and preserve the confidentiality of its proceedings under this section.
 
-(4) A determination of the Part 10committee under this section may only be reviewed by way of judicial review, on application made to the Court within 14 days after the date of the determination being made known to the party aggrieved by the determination.
+(4) A determination of the Part 10 committee under this section may only be reviewed by way of judicial review, on application made to the Court within 14 days after the date of the determination being made known to the party aggrieved by the determination.

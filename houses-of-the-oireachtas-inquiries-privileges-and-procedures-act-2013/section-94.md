@@ -44,7 +44,7 @@ Application to Court for directions on matter relating to relevant proceedings.
 
 (b) the contents of a draft of a relevant report, or the contents of a draft of part of a relevant report, given to a person under section 35,
 
-(c) the relevance to the proceedings of the committee of evidence or a document referred to in section 70 or 85, or
+(c) the relevance to the proceedings of the committee of evidence or a document referred to in section 70 or 85 , or
 
 (d) whether or not the prohibition in section 71(1) applies to a direction given or proposed to be given under section 67(1).
 

@@ -1,6 +1,6 @@
 ## PART 11 PRIVILEGE IN RELATION TO OFFICIAL DOCUMENTS
 
-Interpretation —
+Interpretation —Part 11.
 
 112.— (1) In this Part—
 
@@ -12,7 +12,7 @@ Interpretation —
 
 (c) in the case of a document held by both Houses, both Part 11 committees;
 
-“Part 11 committee”, in relation to a House, means the committee appointed by the House to perform the functions conferred on Part 11committees by this Part.
+“Part 11 committee”, in relation to a House, means the committee appointed by the House to perform the functions conferred on Part 11 committees by this Part.
 
 (2) Nothing in the Part shall be construed to prejudice the power of each House to make rules and standing orders pursuant to Article 15.10 of the Constitution to create a protection for official documents referred to in that Article (and irrespective of whether the definition of “official document” provided for in such rules and standing orders overlaps, whether in whole or in part, with the definition of “official document” in this Part).
 
