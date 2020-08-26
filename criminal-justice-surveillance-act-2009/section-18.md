@@ -6,4 +6,4 @@ Amendment of Courts (Supplemental Provisions) Act 1961.
 
 (b) by inserting the following after paragraph (c):
 
-“(d) the power to issue, vary or renew an authorisation under section 5or 6 of the Criminal Justice (Surveillance) Act 2009.”.
+“(d) the power to issue, vary or renew an authorisation under section 5 or 6 of the Criminal Justice (Surveillance) Act 2009.”.

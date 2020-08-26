@@ -6,7 +6,7 @@ Interpretation.
 
 “arrestable offence” has the meaning it has in section 2 (as amended by section 8 of the Criminal Justice Act 2006) of the Criminal Law Act 1997;
 
-“authorisation” means an authorisation for the carrying out of surveillance issued under section 5or varied or renewed under section 6;
+“authorisation” means an authorisation for the carrying out of surveillance issued under section 5 or varied or renewed under section 6;
 
 ‘chairperson’, in relation to the Ombudsman Commission, means the member of the Ombudsman Commission who is appointed or acting as its chairperson under section 65 of the Garda Síochána Act 2005;
 

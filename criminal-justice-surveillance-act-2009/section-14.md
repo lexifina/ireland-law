@@ -2,9 +2,11 @@ Admissibility of evidence.
 
 14.— (1) Evidence obtained as a result of surveillance carried out under an authorisation or under an approval granted in accordance with section 7 or 8 may be admitted as evidence in criminal proceedings.
 
-(2) Nothing in this Act is to be construed as prejudicing the admissibility of information or material obtained otherwise than as a result of surveillance carried out under an authorisation or under an approval granted in accordance with section 7 or 8.
+(2) Nothing in this Act is to be construed as prejudicing the admissibility of information or material obtained otherwise than as a result of surveillance carried out under an authorisation or under an approval granted in accordance with section 7 or 8 .
 
-(3) (a) Information or documents obtained as a result of surveillance carried out under an authorisation or under an approval granted in accordance with section 7or 8 may be admitted as evidence in criminal proceedings notwithstanding any error or omission on the face of the authorisation or written record of approval concerned, if the court, having regard in particular to the matters specified in paragraph (b), decides that—
+(3) (a) Information or documents obtained as a result of surveillance carried out under an authorisation or under an approval granted in accordance with section 7 or
+
+8 may be admitted as evidence in criminal proceedings notwithstanding any error or omission on the face of the authorisation or written record of approval concerned, if the court, having regard in particular to the matters specified in paragraph (b), decides that—
 
 (i) the error or omission concerned was inadvertent, and
 
