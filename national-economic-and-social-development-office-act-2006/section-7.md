@@ -14,8 +14,8 @@ Establishment of other bodies within Office.
 
 (ii) the method of their appointment, and
 
-(iii) subject to section 18(1), their tenure of office.
+(iii) subject to section 18 (1) , their tenure of office.
 
 (4) Any body established under this section shall have all such powers as are necessary for or incidental to the performance of its functions under this Act.
 
-(5) The Taoiseach may, after consultation with any relevant Minister of the Government who has representation on the body concerned, amend or revoke an order under subsection (1).
+(5) The Taoiseach may, after consultation with any relevant Minister of the Government who has representation on the body concerned, amend or revoke an order under subsection (1) .

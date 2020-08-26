@@ -1,6 +1,6 @@
 Composition of Forum.
 
-15.— (1) The Forum shall consist of a chairperson, a deputy chairperson and such number of ordinary members as the Taoiseach may determine in accordance with subsection (3).
+15.— (1) The Forum shall consist of a chairperson, a deputy chairperson and such number of ordinary members as the Taoiseach may determine in accordance with subsection (3) .
 
 (2) The members of the Forum shall be appointed by the Taoiseach.
 

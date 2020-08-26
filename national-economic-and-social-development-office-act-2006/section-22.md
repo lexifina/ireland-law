@@ -16,13 +16,13 @@ Disclosure by members of Office, body and staff of interests.
 
 (2) Where an interest is disclosed pursuant to this section, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being dealt with by the meeting, the member by whom the disclosure is made shall not be counted in the quorum for the meeting.
 
-(3) Where at the meeting concerned a question arises as to whether or not a course of conduct, if pursued by a member, would constitute a failure to comply with the requirements of subsection (1), the question may be determined by the chairman of the meeting whose decision shall be final and, where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+(3) Where at the meeting concerned a question arises as to whether or not a course of conduct, if pursued by a member, would constitute a failure to comply with the requirements of subsection (1) , the question may be determined by the chairman of the meeting whose decision shall be final and, where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
 
 (4) (a) Where the Taoiseach is satisfied that a member of the Office or a body has contravened subsection (1) the Taoiseach may remove that member from office.
 
 (b) A person removed from office pursuant to this subsection shall thenceforth be disqualified from being a member of a body.
 
-(5) A member of the staff of the Office who has any material or financial interest (otherwise than in his capacity as such a member) to which subsection (1)relates shall—
+(5) A member of the staff of the Office who has any material or financial interest (otherwise than in his capacity as such a member) to which subsection (1) relates shall—
 
 (a) disclose to the Office the fact of such interest and the nature thereof, and
 
