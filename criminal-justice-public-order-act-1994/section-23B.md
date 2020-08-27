@@ -1,4 +1,4 @@
-F33[ Application of section 23A in relation to offence under section 4.
+F36[Application of section 23A in relation to offence under section 4.
 
 23B.— (1) This section applies to a person of not less than 18 years of age who is suspected, with reasonable cause, by a member of the Garda Síochána of committing, or of having committed, an offence under section 4.
 
@@ -14,4 +14,4 @@ F33[ Application of section 23A in relation to offence under section 4.
 
 (3) Where a person to whom this section applies is not arrested, the member of the Garda Síochána referred to in subsection (1) may serve on the person personally or by post a notice in the prescribed form stating the matters specified in section 23A(5) or cause it to be so served.
 
-(4) On the service of a notice under subsection (2) or (3) the offence under section 4 is thereupon deemed to be a fixed charge offence, and subsections (5) to (10) of section 23A apply and have effect accordingly in relation to it.”.
+(4) On the service of a notice under subsection (2) or (3) the offence under section 4 is thereupon deemed to be a fixed charge offence, and subsections (5) to (10) of section 23A apply and have effect accordingly in relation to it.
