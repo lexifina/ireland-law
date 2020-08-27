@@ -1,4 +1,4 @@
-F62[Performance of functions under section 27A.
+F62[ Performance of functions under section 27A.
 
 42A.— (1) (a) A registration board shall acknowledge receipt in writing of an application by a person for the assessment of his or her professional qualifications under section 27A(2)(b) not later than on the expiry of the one month period that begins when the application is submitted, and include in that acknowledgement—
 
