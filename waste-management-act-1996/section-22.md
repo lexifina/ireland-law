@@ -50,17 +50,25 @@ Waste management plans.
 
 (II) a requirement that, in order to fulfil this obligation, liaison shall be undertaken, as appropriate, with the Minister, the Agency, Dublin City Council and other relevant local authorities;
 
-(ii) existing waste collection schemes and major disposal and recovery installations, including any special arrangements for waste oils, hazardous waste or waste streams addressed by specific Community acts;
+(ii) existing major disposal and recovery installations, including any special arrangements for waste oils, hazardous waste, waste containing significant amounts of critical raw materials, or waste streams addressed by specific Union legislation;
 
-(iii) an assessment in accordance with section 37A of the need for new collection schemes, the closure of existing waste installations, additional waste installation infrastructure and, if necessary, the investments related thereto;
+(iii) an assessment of the need for closure of existing waste installations, and for additional waste installation infrastructure in accordance with section 37A. The Minister shall ensure that an assessment of the investments and other financial means, including for local authorities, required to meet those needs is carried out. This assessment shall be included in the relevant waste management plans or in other strategic documents covering the entire territory of the State;
 
-(iv) sufficient information on the location criteria for site identification and on the capacity of future disposal or major recovery installations, if necessary;
+(iv) information on the measures to attain the objective laid down in Article 5(3a) of Directive 1999/31/EC or in other strategic documents covering the entire territory of the Member State concerned;
 
-(v) general waste management policies, including planned waste management technologies and methods, or policies for waste posing specific management problems;
+(v) an assessment of existing waste collection schemes, including the material and territorial coverage of separate collection and measures to improve its operation, of any derogations granted in accordance with Article 10(3) of the Waste Directive, and of the need for new collection schemes;
 
-(vi) information as respects the integration and implementation of measures consequential on, or incidental to, the requirements of section 27A in relation to waste prevention programmes;
+(vi) sufficient information on the location criteria for site identification and on the capacity of future disposal or major recovery installations, if necessary;
 
-(vii) the measures taken by the Minister to give effect to Article 22 of the Waste Directive in relation to bio-waste.
+(vii) general waste management policies, including planned waste management technologies and methods, or policies for waste posing specific management problems;
+
+(viii) measures to combat and prevent all forms of littering and to clean up all types of litter;
+
+(ix) appropriate qualitative or quantitative indicators and targets, including on the quantity of generated waste and its treatment and on municipal waste that is disposed of or subject to energy recovery.
+
+(x) information as respects the integration and implementation of measures consequential on, or incidental to, the requirements of section 27A in relation to waste prevention programmes;
+
+(xi) the measures taken by the Minister to give effect to Article 22 of the Waste Directive in relation to bio-waste.
 
 (c) A waste management plan may contain, taking into account the geographical level and coverage of the planning area, the following:
 
@@ -130,7 +138,7 @@ Waste management plans.
 
 (10A) (a) The development plan for the time being in force in relation to the functional area of a local authority shall be deemed to include the objectives for the time being contained in the waste management plan in force in relation to that area.
 
-(b)(i) In the event of there being a conflict between an objective deemed to be included in a development plan by virtue of paragraph (a) (the “first-mentioned objective”) and an objective otherwise included in the development plan (the “second-mentioned objective”), the first-mentioned objective shall override the second-mentioned objective, irrespective of whether or not the development plan is subsequent to the waste management plan referred to in that paragraph.
+(b)(i) In the event of there being a conflict between an objective deemed to be included in a development plan by virtue of paragraph (a) (the “firstmentioned objective”) and an objective otherwise included in the development plan (the “second-mentioned objective”), the first-mentioned objective shall override the second-mentioned objective, irrespective of whether or not the development plan is subsequent to the waste management plan referred to in that paragraph.
 
 (ii) A reference in subparagraph (i) to—
 

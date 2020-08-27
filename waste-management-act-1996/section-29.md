@@ -8,13 +8,31 @@ Measures related to recovery of waste.
 
 (2) For the purpose of promoting, supporting or facilitating the recovery of waste, any Minister of the Government or a local authority may provide to any person such support or assistance, including financial assistance, as he or she or the local authority considers appropriate, including the provision of moneys in relation to research and development projects being carried out or proposed to be carried out by any person in respect of the recovery of waste, and for the purposes aforesaid may establish programmes and specify criteria and objectives governing the availability and provision of such assistance and support.
 
-(2A)(a) It shall be the duty of waste producers and holders to ensure that waste undergoes recovery operations in accordance with sections 21A and 32(1).
+(2A) (a) It shall be the duty of waste producers and holders to ensure that waste undergoes preparing for re-use, recycling or other recovery operations in accordance with sections 21A and 32(1).
 
 (b) A person who contravenes paragraph (a) shall be guilty of an offence.
 
 (c) The Agency and the local authorities, in carrying out their functions under this Act and related waste management legislation and policy, shall take the necessary measures to ensure that waste undergoes recovery operations in accordance with this section and sections 21A and 32(1).
 
-(2B) Where necessary to comply with subsection (2A) and to facilitate or improve recovery, waste shall be collected separately if technically, environmentally and economically practicable and shall not be mixed with other waste or other material with different properties.
+(2B) Where necessary to comply with subsection (2A) and to facilitate or improve preparing for re-use, recycling and other recovery operations, waste shall be subject to separate collection and shall not be mixed with other waste or other material with different properties.
+
+(2C) The Agency and the local authorities may allow derogations from subsection (2B) provided that at least one of the following conditions is met:
+
+(a) collecting certain types of waste together does not affect their potential to undergo preparing for re-use, recycling or other recovery operations in accordance with section 21A and results in output from those operations which is of comparable quality to that achieved through separate collection;
+
+(b) separate collection does not deliver the best environmental outcome when considering the overall environmental impacts of the management of the relevant waste streams;
+
+(c) separate collection is not technically feasible taking into consideration good practices in waste collection;
+
+(d) separate collection would entail disproportionate economic costs taking into account the costs of adverse environmental and health impacts of mixed waste collection and treatment, the potential for efficiency improvements in waste collection and treatment, revenues from sales of secondary raw materials as well as the application of the polluter-pays principle and extended producer responsibility.
+
+The Agency and the local authorities shall regularly review derogations under this paragraph taking into account good practices in separate collection of waste and other developments in waste management.
+
+(2D) The Agency and the local authorities shall take measures to ensure that waste that has been separately collected for preparing for re-use and recycling pursuant to Article 11(1) and Article 22 of the Waste Directive is not incinerated, with the exception of waste resulting from subsequent treatment operations of the separately collected waste for which incineration delivers the best environmental outcome in accordance with section 21A.
+
+(2E) Where necessary to comply with subsection (2A) and to facilitate or improve recovery, waste producers and holders shall take the necessary measures, before or during recovery, to remove hazardous substances, mixtures and components from hazardous waste with a view to their treatment in accordance with sections 21A and 32(1).
+
+(2F) By 31 December 2021, the Agency shall submit a report to the Commission on the implementation of this Section as regards municipal waste and bio-waste, including on the material and territorial coverage of separate collection and any derogations under (2C).
 
 (3) (a) The Minister may, after consultation with any Minister of the Government concerned, make regulations in relation to or for the purpose of the recovery of waste or a specified class or classes of waste, and any such class may be defined by reference to the manufacturing or industrial process or other activity giving rise to the waste concerned or to such other matters as the Minister thinks appropriate.
 
