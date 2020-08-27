@@ -1,6 +1,6 @@
 Powers under section 56 also exercisable by Agency and clarification of that section.
 
-56A.—(1) On and from the commencement of section 47 of the Protection of the Environment Act 2003, the powers undersection 56 of the Act of 1996 shall, in addition to being exercisable by a local authority, be exercisable by the Agency and, accordingly, for that purpose—
+56A.—(1) On and from the commencement of section 47 of the Protection of the Environment Act 2003, the powers under section 56 of the Act of 1996 shall, in addition to being exercisable by a local authority, be exercisable by the Agency and, accordingly, for that purpose—
 
 (a) the references in subsection (1) of that section to a local authority shall be construed as including references to the Agency and that subsection, in its application to the Agency, shall have effect as if the words “in its functional area” were omitted, and
 

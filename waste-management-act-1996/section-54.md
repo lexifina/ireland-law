@@ -194,7 +194,7 @@ Regulations for purposes of section 53D, etc.
 
 53E.—(1) The Minister may make—
 
-(a) regulations for the purposes ofsection 53D, and
+(a) regulations for the purposes of section 53D, and
 
 (b) regulations providing for such supplementary, consequential or incidental provisions as the Minister considers necessary or expedient for the purpose of giving full effect to the provisions of the Directive to which that section relates.
 
@@ -270,7 +270,7 @@ Interpretation (Part VB)
 
 (d) exports electrical and electronic equipment on a professional basis from the State to another Member State of the European Union, or
 
-(e) distributes electrical and electronic equipment from a producer who is deemed not to be registered under the provisions of regulations made in accordance withsection 53J; with the exception of a person or persons exclusively engaged in the provision of financing under or pursuant to any finance agreement unless also acting as a producer within the meaning of subparagraphs (a) to (e);
+(e) distributes electrical and electronic equipment from a producer who is deemed not to be registered under the provisions of regulations made in accordance with section 53J; with the exception of a person or persons exclusively engaged in the provision of financing under or pursuant to any finance agreement unless also acting as a producer within the meaning of subparagraphs (a) to (e);
 
 “recovery” means any of the applicable operations provided for in Annex IIB to Council Directive 75/442/EEC of 15 July 1975 on waste;
 
@@ -380,7 +380,7 @@ Distributor and producer responsibility for the take back, treatment and recover
 
 (ii) enabling the Minister to vary as he or she thinks fit any condition attached to an approval aforesaid or to revoke such an approval in specified circumstances,
 
-(iii) the means by which an approved body shall determine, for the purpose of regulations underparagraph (d), whether a person is participating, in a satisfactory manner, in a scheme referred to in that paragraph or, as the case may be, is complying with requirements referred to in that paragraph,
+(iii) the means by which an approved body shall determine, for the purpose of regulations under paragraph (d), whether a person is participating, in a satisfactory manner, in a scheme referred to in that paragraph or, as the case may be, is complying with requirements referred to in that paragraph,
 
 (iv) the grant and revocation by an approved body of a certificate for the purpose of regulations under paragraph (d) and the notifications to be given by it in respect of such grant or revocation to the person concerned and other specified persons,
 

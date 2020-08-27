@@ -10,7 +10,7 @@ Licensing under this Part and Part IV of Act of 1992.
 
 (3) If the Agency is of the opinion that the carrying on of the second activity will be subsidiary to the carrying on of the first activity and declares, in writing, that it is of that opinion then, notwithstanding anything in this Part or Part IV of, or the First Schedule to, the Act of 1992—
 
-(a) the second activity (irrespective of whether it would otherwise be so regarded) shall be regarded as an activity falling within section 39(1)and, accordingly—
+(a) the second activity (irrespective of whether it would otherwise be so regarded) shall be regarded as an activity falling within section 39(1) and, accordingly—
 
 (i) the carrying on of it and of the first activity, shall require, and may be the subject of the grant of, a waste licence under that section, and
 
@@ -50,7 +50,7 @@ Licensing under this Part and Part IV of Act of 1992.
 
 (b) the person has supplied sufficient particulars to the Agency with respect to the activities, and
 
-(c) the Agency determines that it is appropriate to accede to the request, but, in the case of an application for a declaration under subsection (3), the Agency may, instead, make a declaration under subsection (4) and, in the case of an application for a declaration undersubsection (4), the Agency may, instead, make a declaration under subsection (3), where, in either case, it considers it appropriate to make the declaration under the other subsection.
+(c) the Agency determines that it is appropriate to accede to the request, but, in the case of an application for a declaration under subsection (3), the Agency may, instead, make a declaration under subsection (4) and, in the case of an application for a declaration under subsection (4), the Agency may, instead, make a declaration under subsection (3), where, in either case, it considers it appropriate to make the declaration under the other subsection.
 
 (8) Nothing in this section operates to disapply section 39(1), or section 82 of the Act of 1992, as the case may be, if the activities referred to in this section cease to be related to one another in the manner mentioned in this section.
 

@@ -58,6 +58,8 @@ Grant of waste licences.
 
 (IV) material assets, cultural heritage and the landscape, and
 
+3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
+
 (V) the interaction between the factors mentioned in clauses (I) to (IV);
 
 ‘environmental impact assessment report’ means a report prepared by competent experts which contains the following information:
@@ -76,11 +78,7 @@ Grant of waste licences.
 
 (vii) a reference list detailing the sources used for the descriptions and assessments included in the report.
 
-(aa) In carrying out an environmental impact assessment under this subsection, the Agency shall, where appropriate, coordinate the assessment with any assessment of the proposed activity under Council Directive
-
-3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
-
-92/43/EEC of 21 May 1992 or Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009.
+(aa) In carrying out an environmental impact assessment under this subsection, the Agency shall, where appropriate, coordinate the assessment with any assessment of the proposed activity under Council Directive 92/43/EEC of 21 May 1992 or Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009.
 
 (b) The Agency as part of its consideration of an application for a waste licence shall ensure before a waste licence is granted, and where the activity to which such waste licence relates is likely to have significant effects on the environment by virtue, inter alia, of its nature, size or location, that, in accordance with this subsection and section 42(1A) to (1I), the application is made subject to an environmental impact assessment as respects the matters that come within the functions of the Agency including the functions conferred on the Agency by or under this Act.
 
@@ -91,6 +89,8 @@ Grant of waste licences.
 (I) such development would equal or exceed, as the case may be, any relevant quantity, area or other limit specified in Part 1 or Part 2, or
 
 (II) no quantity, area or other limit is specified in that Part in respect of the development concerned, or
+
+3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
 
 (ii) of a class specified in Part 2 of Schedule 5 to the Planning and Development Regulations 2001 but does not equal or exceed, as the case may be, the relevant quantity, area or other limit specified in that Part and the Agency, in exercise of the powers conferred on it by regulations under section 45, determines that the proposed activity is likely to have significant effects on the environment.
 
@@ -105,8 +105,6 @@ Grant of waste licences.
 (f) In relation to an application for a waste licence to which paragraph (d) refers—
 
 (i) the Agency shall consider the content of the environmental impact assessment report and any other material including maps or plans submitted as part of the application for a waste licence and determine whether that content adequately identifies, describes, and assesses the direct and indirect effects of the proposed development, and
-
-3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
 
 (ii) if the Agency determines that the environmental impact assessment report and other material does not so adequately identify, describe or assess, the Agency shall give notice in writing to the applicant for the licence requesting further information, which notice shall—
 

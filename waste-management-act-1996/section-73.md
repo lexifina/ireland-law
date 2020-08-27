@@ -46,7 +46,7 @@ Power to impose landfill levy.
 
 (c) For so long as regulations under subsection (1) restrict the exercise of the power referred to in paragraph (a), the enactment that confers that power shall be construed as if there were contained in it a provision the effect of which is to restrict the exercise of the power in the manner provided by the said regulations.
 
-(8) Regulations under subsection (1) may provide, in relation to levy under this section, for all the matters which regulations under section 72 may, by virtue of paragraphs (a), (c), (d) and (g) to (l) of subsection (6) of that section, provide in relation to levy under that section and those paragraphs shall, accordingly, apply for the purposes of this section with any necessary modifications (including such modifications as will enable like provision with respect to the payment into the Environment Fund of amounts received by a local authority on account of levy under this section to be made with respect to levy under this section chargeable on the local authority itself ).
+(8) Regulations under subsection (1) may provide, in relation to levy under this section, for all the matters which regulations under section 72 may, by virtue of paragraphs (a), (c), (d) and (g) to (l) of subsection (6) of that section, provide in relation to levy under that section and those paragraphs shall, accordingly, apply for the purposes of this section with any necessary modifications (including such modifications as will enable like provision with respect to the payment into the Environment Fund of amounts received by a local authority on account of levy under this section to be made with respect to levy under this section chargeable on the local authority itself).
 
 (9) ...
 
