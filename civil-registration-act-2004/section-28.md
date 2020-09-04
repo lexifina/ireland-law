@@ -32,4 +32,4 @@ Registration of stillbirths.
 
 (6) Where a certificate referred to in subsection (3) is given to a person referred to in that subsection, a duplicate of the certificate may be used for the purpose of the registration of the stillbirth concerned.
 
-(7) If, in the course of his duties, a coroner ascertains that a body is that of a stillborn child, he or she shall notify a registrar in theregistration area in which the body is located of the stillbirth and shall give to the registrar, in as far as he or she can ascertain them, the required particulars in relation to the stillbirth, and the registrar shall register the stillbirth in such manner as an tArd-Chláraitheoir may direct.
+(7) If, in the course of his duties, a coroner ascertains that a body is that of a stillborn child, he or she shall notify a registrar in the registration area in which the body is located of the stillbirth and shall give to the registrar, in as far as he or she can ascertain them, the required particulars in relation to the stillbirth, and the registrar shall register the stillbirth in such manner as an tArd-Chláraitheoir may direct.

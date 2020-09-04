@@ -1,5 +1,5 @@
-Effect of this Part.
+Effect of this Part. (repealed)
 
-59I.—...
+59I.— ...
 
 59IA.

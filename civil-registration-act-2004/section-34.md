@@ -1,3 +1,3 @@
-Directions of High Court in relation to entries in register in respect of foreign adoptions.
+Directions of High Court in relation to entries in register in respect of foreign adoptions. (repealed)
 
 34.—...

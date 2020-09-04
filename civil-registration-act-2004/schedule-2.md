@@ -48,7 +48,7 @@ No. 44 of 1960 Defence (Amendment) (No. 2) Act 1960 Section 6.
 
 No. 9 of 1962 Coroners Act 1962 Sections 50 and 51.
 
-No. 25 of 1972 Births, Deaths and Marriages Registra- The whole Act. tion Act 1972
+No. 25 of 1972 Births, Deaths and Marriages The whole Act. Registration Act 1972
 
 No. 30 of 1972 Marriages Act 1972 The whole Act.
 

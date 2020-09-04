@@ -1,3 +1,3 @@
-Registration of adoptions.
+Registration of adoptions. (repealed)
 
 32.—...

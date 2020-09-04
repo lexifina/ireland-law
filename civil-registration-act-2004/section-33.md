@@ -1,3 +1,3 @@
-Registration of foreign adoptions.
+Registration of foreign adoptions. (repealed)
 
 33.—...
