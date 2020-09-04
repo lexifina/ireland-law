@@ -2,7 +2,7 @@
 
 Ard-Chláraitheoir.
 
-7.—(1) The office of an tArd-Chláraitheoir provided for by section 4 of the Act of 1863 shall continue in existence after the commencement of this section notwithstanding the repeals effected by this Act, but the office shall be known as an tArd- Chláraitheoir an tSeirbhís um Chlárú Sibhialta and the person holding the office shall be known as an tArd-Chláraitheoir and is referred to in this Act as an tArd- Chláraitheoir.
+7.—(1) The office of an tArd-Chláraitheoir provided for by section 4 of the Act of 1863 shall continue in existence after the commencement of this section notwithstanding the repeals effected by this Act, but the office shall be known as an tArd-Chláraitheoir an tSeirbhís um Chlárú Sibhialta and the person holding the office shall be known as an tArd-Chláraitheoir and is referred to in this Act as an tArd- Chláraitheoir.
 
 (2) An tArd-Chláraitheoir shall be a person appointed to that office by the Minister from among his or her officers.
 

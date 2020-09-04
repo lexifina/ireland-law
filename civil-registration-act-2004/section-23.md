@@ -1,6 +1,6 @@
 Re-registration of birth to include name of father.
 
-23.—(1) Where the birth of a child whose parents were not married to each other at the date of the birth or at any time during the period of 10 months ending immediately before that date has been registered under this Act or the repealed enactments but no person has been registered as the child's father, then, subject to subsection (2), any registrar shall re-register the birth in such manner as an tArd-Chláraitheoir may direct and shall enter in the register the name of a person (“the person”) as the father of the child—
+23.—(1) Where the birth of a child whose parents were not married to each other at the date of the birth or at any time during the period of 10 months ending immediately before that date has been registered under this Act or the repealed enactments but no person has been registered as the child's father, then, subject to subsection (2), any registrar shall re-register the birth in such manner as an tArd- Chláraitheoir may direct and shall enter in the register the name of a person (“the person”) as the father of the child—
 
 (a) if the mother of the child and the person jointly so request the registrar in writing and give to him or her a declaration in writing, in a form for the time being standing approved by an tArd-Chláraitheoir, of the person, that he is the father of the child, or
 

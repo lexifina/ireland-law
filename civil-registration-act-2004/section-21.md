@@ -1,4 +1,4 @@
-Duty to notify registrar of abandoned new-born children.
+Duty to notify registrar of abandoned newborn children.
 
 21.—(1) Where a living new-born child is found abandoned, it is the duty of—
 
