@@ -1,4 +1,4 @@
-Immunity of Financial Services Ombudsman and others.
+Immunity of Financial Services Ombudsman and others. (Repealed)
 
 57BO.—...
 

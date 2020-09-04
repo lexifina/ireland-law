@@ -1,3 +1,3 @@
-Publication of financial statements by licensed bankers.
+Publication of financial statements by licensed bankers. (Repealed)
 
 48.—...

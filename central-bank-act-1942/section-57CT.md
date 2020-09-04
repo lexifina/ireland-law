@@ -1,3 +1,3 @@
-Financial Services Ombudsman may refer complaints to other EEA dispute settlement body.
+Financial Services Ombudsman may refer complaints to other EEA dispute settlement body. (Repealed)
 
 57CT.—...

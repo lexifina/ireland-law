@@ -1,3 +1,3 @@
-Financial Services Ombudsman may mediate, investigate and adjudicate complaints referred by other EEA dispute settlement bodies.
+Financial Services Ombudsman may mediate, investigate and adjudicate complaints referred by other EEA dispute settlement bodies. (Repealed)
 
 57CU.—...

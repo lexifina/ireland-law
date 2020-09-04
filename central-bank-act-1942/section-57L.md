@@ -12,6 +12,6 @@ Right of appeal to Appeals Tribunal against appealable decision.
 
 (c) be accompanied by the fee (if any) prescribed by the rules.
 
-(3) As soon as practicable after an appeal is lodged with the Registrar, the Registrar is required to give a copy of the appeal to theBank.
+(3) As soon as practicable after an appeal is lodged with the Registrar, the Registrar is required to give a copy of the appeal to the Bank.
 
 (4) The Bank is the respondent to every appeal.

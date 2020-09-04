@@ -1,3 +1,3 @@
-Functions of Consultative Industry Panel.
+Functions of Consultative Industry Panel. (Repealed)
 
 57DB.—...

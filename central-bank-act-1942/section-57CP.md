@@ -1,3 +1,3 @@
-Power of Court to grant injunctions in certain cases.
+Power of Court to grant injunctions in certain cases. (Repealed)
 
 57CP.—...

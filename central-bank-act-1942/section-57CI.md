@@ -1,3 +1,3 @@
-Adjudication of complaints.
+Adjudication of complaints. (Repealed)
 
 57CI.—...

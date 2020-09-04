@@ -1,3 +1,3 @@
-Copyright in coins.
+Copyright in coins. (Repealed)
 
 61.—...

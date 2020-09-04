@@ -1,3 +1,3 @@
-General provisions in relation to deposits under this Part of this Act.
+General provisions in relation to deposits under this Part of this Act. (Repealed)
 
 43.—...

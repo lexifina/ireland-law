@@ -1,3 +1,3 @@
-Functions of Consultative Consumer Panel.
+Functions of Consultative Consumer Panel. (Repealed)
 
 57CY.—...

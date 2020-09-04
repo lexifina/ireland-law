@@ -72,7 +72,9 @@ No. 27 of 1992 Financial Transfers Act Section 4 1992
 
 30 No. 2 of 2003 Unclaimed Life Assurance The whole Act Policies Act 2003
 
-No. 2 of 2005 Criminal Justice Section 42(6) (Terrorist Offences) Act 2005
+No. 2 of 2005
+
+Criminal Justice Section 42(6) (Terrorist Offences) Act 2005
 
 31 No. 12 of 2005 Investment Funds, The whole Act Companies and Miscellaneous Provisions Act 2005
 
@@ -84,7 +86,9 @@ No. 2 of 2005 Criminal Justice Section 42(6) (Terrorist Offences) Act 2005
 
 35 No. 1 of 2009 Anglo Irish Bank Corporation The whole Act other than Act 2009 section 2
 
-No. 13 of 2009 Financial Services The whole Act (Deposit Guarantee Scheme) Act 2009
+No. 13 of 2009
+
+Financial Services The whole Act (Deposit Guarantee Scheme) Act 2009
 
 36 No. 34 of 2009 National Asset Management Part 12 Agency Act 2009
 
@@ -210,7 +214,7 @@ Winding-up of Credit Institutions) Regulations 2011
 
 46 S.I. No. 366 of 2007 European Communities The whole instrument (Insurance and Reinsurance Groups Supplementary Supervision) Regulations 2007
 
-S.I. No. 799 of 2007 European Communities The whole instrument (Information on the payer accompanying transfers of funds) Regulations 2007
+S.I. No. 799 of 2007 EuropeanCommunities The whole instrument (Information on the payer accompanying transfers of funds) Regulations 2007
 
 47 S.I. No. 383 of 2009 European Communities The whole instrument (Payment Services) ... Regulations 2009
 
@@ -218,7 +222,7 @@ S.I. No. 799 of 2007 European Communities The whole instrument (Information on t
 
 49 S.I. No. 183 of 2010 European Communities The whole instrument (Cross Border Payments in the Community) Regulations 2010
 
-S.I. No. 247 of 2010 European Communities The whole instrument (Credit Rating Agencies)
+S.I. No. 247 of 2010 EuropeanCommunities The whole instrument (Credit Rating Agencies)
 
 Regulations 2010
 
@@ -228,7 +232,7 @@ Regulations 2010
 
 Regulations 2011 (S.I. No. 183 of 2011) Item Number and Year Citation Provisions
 
-S.I. No. 352 of 2011 European Communities The whole instrument (Undertakings for Collective
+S.I. No. 352 of 2011 EuropeanCommunities The whole instrument (Undertakings for Collective
 
 Investment in Transferable Securities) Regulations 2011
 
@@ -286,6 +290,6 @@ Transfers and Direct Debits in Euro) Regulations 2013
 
 74 S.I. No. 656 of 2018 European Union (General The whole instrument Framework for Securitisation and Specific Framework for Simple Transparent and Standardised Securitisation) Regulations 2018
 
-[75 S.I. No. 21 of 2020 European Union The whole instrument] (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020 Item Number and Year Citation Provisions
+75 S.I. No. 21 of 2020 European Union The whole instrument (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020 Item Number and Year Citation Provisions
 
 76 S.I. No. …... of 2020 European Union The whole instrument (Modifications of Statutory Instrument No. 110 of 2019) (Registration of Beneficial Ownership of Certain Financial Vehicles) Regulations 2020

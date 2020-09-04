@@ -1,3 +1,3 @@
-The Associated Banks.
+The Associated Banks. (Repealed)
 
 12.—...

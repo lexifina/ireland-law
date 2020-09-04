@@ -1,3 +1,3 @@
-Council chairperson to provide Minister with reports.
+Council chairperson to provide Minister with reports. (Repealed)
 
 57BG.—...

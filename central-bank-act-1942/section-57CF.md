@@ -1,3 +1,3 @@
-Financial Services Ombudsman may enter premises of regulated financial service provider or associated entity of such a provider.
+Financial Services Ombudsman may enter premises of regulated financial service provider or associated entity of such a provider. (Repealed)
 
 57CF.—...

@@ -1,5 +1,5 @@
 ## Interpretation and objects of Part
 
-Definitions.
+Definitions. (Repealed)
 
 57BA.—...

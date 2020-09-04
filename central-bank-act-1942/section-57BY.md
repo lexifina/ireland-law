@@ -1,3 +1,3 @@
-Duty
+Duty of Financial Services Ombudsman to investigate complaints. (Repealed)
 
 57BY.—...

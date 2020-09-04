@@ -1,3 +1,3 @@
-Bankers’ licences.
+Bankers’ licences. (Repealed)
 
 47.—...

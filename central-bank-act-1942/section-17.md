@@ -1,3 +1,3 @@
-Copyright in notes issued by the Bank.
+Copyright in notes issued by the Bank. (Repealed)
 
 17.—...

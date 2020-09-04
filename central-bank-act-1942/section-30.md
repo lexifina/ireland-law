@@ -1,3 +1,3 @@
-Operation
+Operation of disqualification of the Governor or a Director. (Repealed)
 
 30.—...

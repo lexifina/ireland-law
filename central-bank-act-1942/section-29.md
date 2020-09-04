@@ -1,3 +1,3 @@
-Prohibition
+Prohibition of certain Directors holding shares in a bank. (Repealed)
 
 29.—...

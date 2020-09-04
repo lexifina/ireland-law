@@ -1,3 +1,3 @@
-Establishment and operation of advisory groups.
+Establishment and operation of advisory groups. (Repealed)
 
 57DG.—...

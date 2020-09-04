@@ -1,3 +1,3 @@
-Legalisation of bank deposit as a trustee investment.
+Legalisation of bank deposit as a trustee investment. (Repealed)
 
 67.—...

@@ -1,3 +1,3 @@
-Council
+Council to make regulations for the purposes of this Part. (Repealed)
 
 57BF.—...

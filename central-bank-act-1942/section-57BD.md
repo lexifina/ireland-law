@@ -1,3 +1,3 @@
-Functions
+Functions and powers of Financial Services Ombudsman Council. (Repealed)
 
 57BD.—...

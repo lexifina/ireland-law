@@ -1,3 +1,3 @@
-Financial Services Ombudsman can require regulated financial service provider to give information.
+Financial Services Ombudsman can require regulated financial service provider to give information. (Repealed)
 
 57CE.—...

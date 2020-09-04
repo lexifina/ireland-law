@@ -1,3 +1,3 @@
-Accounting and other records of Bank.
+Accounting and other records of Bank. (Repealed)
 
 6H.—...

@@ -1,5 +1,5 @@
 ## How consumer complaints are to be dealt with
 
-Complaints
+Complaints about conduct of regulated financial service providers. (Repealed)
 
 57BX.—...

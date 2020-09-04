@@ -1,3 +1,3 @@
-Obstruction of Financial Services Ombudsman in the performance or exercise of functions and powers.
+Obstruction of Financial Services Ombudsman in the performance or exercise of functions and powers. (Repealed)
 
 57CH.—...

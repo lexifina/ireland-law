@@ -1,3 +1,3 @@
-Powers in respect of licensed bankers’ clearances.
+Powers in respect of licensed bankers’ clearances. (Repealed)
 
 51.—...

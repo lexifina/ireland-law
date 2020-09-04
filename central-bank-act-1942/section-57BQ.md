@@ -1,3 +1,3 @@
-Financial Services Ombudsman to arrange for preparation of annual statement of accounts.
+Financial Services Ombudsman to arrange for preparation of annual statement of accounts. (Repealed)
 
 57BQ.—...

@@ -1,3 +1,3 @@
-General fund of the Bank.
+General fund of the Bank. (Repealed)
 
 6G.—...

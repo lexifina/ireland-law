@@ -12,11 +12,11 @@ When decisions of the Bank under this Part take effect.
 
 (e) if an appeal is made to the High Court against the determination of the Appeals Tribunal but is later withdrawn — at the time of the withdrawal of the appeal.
 
-(2) A decision of the Bankdirecting payment of a monetary penalty, a refund of money or costs takes effect—
+(2) A decision of the Bank directing payment of a monetary penalty, a refund of money or costs takes effect—
 
 (a) if—
 
-(i) the amount of the penalty, refund or costs is not paid to the Bankwithin the period allowed for appeals against such a decision, and
+(i) the amount of the penalty, refund or costs is not paid to the Bank within the period allowed for appeals against such a decision, and
 
 (ii) no appeal to the Appeals Tribunal is lodged within that period or, having been lodged within that period, is later withdrawn, at the time when the decision is confirmed by an order of a court of competent jurisdiction, or
 
@@ -52,7 +52,7 @@ When decisions of the Bank under this Part take effect.
 
 (e) if an appeal is made to the High Court against the determination of the Appeals Tribunal in respect of the decision but is later withdrawn — at the time of the withdrawal of the appeal.
 
-(5) A court of competent jurisdiction may hear an application by the Bankunder this section otherwise than in public if—
+(5) A court of competent jurisdiction may hear an application by the Bank under this section otherwise than in public if—
 
 (a) evidence may be given, or a matter may arise, during the hearing that is of a confidential nature or relates to the commission, or to the alleged or suspected commission, of an offence against a law of the State, or
 

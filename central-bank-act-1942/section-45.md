@@ -1,3 +1,3 @@
-Payment of debts out of deposit.
+Payment of debts out of deposit. (Repealed)
 
 45.—...

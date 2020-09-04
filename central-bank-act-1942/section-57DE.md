@@ -1,3 +1,3 @@
-Consultative Panel to prepare annual report.
+Consultative Panel to prepare annual report. (Repealed)
 
 57DE.—...

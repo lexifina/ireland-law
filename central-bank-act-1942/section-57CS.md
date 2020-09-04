@@ -1,3 +1,3 @@
-Financial Services Ombudsman may subscribe to EEA Memorandum of Understanding.
+Financial Services Ombudsman may subscribe to EEA Memorandum of Understanding. (Repealed)
 
 57CS.—...

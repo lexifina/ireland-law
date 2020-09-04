@@ -1,3 +1,3 @@
-Appointments to the staff of the Bank.
+Appointments to the staff of the Bank. (Repealed)
 
 16.—...

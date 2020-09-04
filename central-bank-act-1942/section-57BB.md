@@ -1,4 +1,4 @@
-Objects of this Part.
+Objects of this Part. (Repealed)
 
 57BB.—...
 

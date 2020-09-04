@@ -1,3 +1,3 @@
-Oath of secrecy to be taken by the Governor, Directors, and officers.
+Oath of secrecy to be taken by the Governor, Directors, and officers. (Repealed)
 
 31.—...

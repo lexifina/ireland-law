@@ -1,3 +1,3 @@
-Amendment of the Gold and Silver (Export Control, etc.) Act, 1920.
+Amendment of the Gold and Silver (Export Control, etc.) Act, 1920. (Repealed)
 
 59.—...

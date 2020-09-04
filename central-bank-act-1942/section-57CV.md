@@ -2,6 +2,6 @@
 
 ## CHAPTER 1 General
 
-Interpretation: Part VIIC.
+Interpretation: Part VIIC. (Repealed)
 
 57CV.—...

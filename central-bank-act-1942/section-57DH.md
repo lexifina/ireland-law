@@ -1,3 +1,3 @@
-Chairperson of Consultative Panel to attend meetings of relevant Oireachtas Joint Committee when required.
+Chairperson of Consultative Panel to attend meetings of relevant Oireachtas Joint Committee when required. (Repealed)
 
 57DH.—...

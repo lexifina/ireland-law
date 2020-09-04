@@ -1,3 +1,3 @@
-Admission of a bank to be an Associated Bank.
+Admission of a bank to be an Associated Bank. (Repealed)
 
 13.—...

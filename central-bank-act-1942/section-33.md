@@ -1,4 +1,4 @@
-Compensation and superannuation of Chairman, Commissioners, Governor, and Directors.
+Compensation and superannuation of Chairman, Commissioners, Governor, and Directors. (Repealed)
 
 33.—...
 
@@ -132,7 +132,7 @@ Power to prescribe fees.
 
 (8) An amendment or revocation of regulations made under this section does not take effect until approved by the Minister.
 
-General fund.
+ General fund.
 
 32F.—(1) The Bank shall continue to keep and operate the fund called the general fund.
 
@@ -142,7 +142,7 @@ General fund.
 
 (4) Any claims on or liabilities to the European Central Bank are to be treated as assets or liabilities of the general fund or any other fund that the Minister by order establishes for that purpose.
 
-Surplus or deficiency in income of Bank during financial year
+ Surplus or deficiency in income of Bank during financial year
 
 32G.—(1) If the total sum received by the Bank on account of levies and fees prescribed under sections 32D and 32E during a financial year is greater than the Bank’s expenditure on the performance of its functions and the exercise of its powers during that financial year, the Bank—
 
@@ -156,7 +156,7 @@ Surplus or deficiency in income of Bank during financial year
 
 (b) ensure that the sum received by the Bank on account of such levies and fees during the following financial year fully covers the performance of its functions and the exercise of its powers during both those financial years.
 
-Bank’s surplus income.
+ Bank’s surplus income.
 
 32H.—(1) The Bank shall pay its surplus income as and when determined under this section into the Exchequer in such manner as the Minister directs and may at any time pending such determination pay into the Exchequer such sums on account of surplus income as may be agreed on by the Minister and the Bank.
 
@@ -168,7 +168,7 @@ Bank’s surplus income.
 
 (3) In exercising the powers conferred by this section, the Minister is required to have regard to the functions imposed and the powers conferred on the Bank by or under the Rome Treaty and the ESCB Statute.
 
-Provision of funds by Bank to meet shortfall.
+ Provision of funds by Bank to meet shortfall.
 
 32I.—(1) If at any time it appears to the Commission that the funds raised from levies and fees prescribed by regulations in force under sections 32D and 32E are, or are likely to be, insufficient to enable the Bank to properly perform its regulatory functions, the Bank may apply to the performance of those functions such amount as the Commission considers necessary.
 
@@ -210,7 +210,7 @@ Accounting and other records of Bank.
 
 (8) The Bank shall keep its accounting records for at least 6 years.
 
-Report of operations, etc., by Bank.
+ Report of operations, etc., by Bank.
 
 32K.—(1) Within 6 months after the end of each financial year, the Bank shall prepare a report of its operations during the year and present the report to the Minister.
 
@@ -224,7 +224,7 @@ Chapter 3A
 
 ## Accountability
 
-Annual performance statements.
+ Annual performance statements.
 
 32L.—(1) No later than 30 April in each year, the Bank shall prepare a statement relating to the Bank’s performance in regulating financial services (in this section called a ‘performance statement’).
 

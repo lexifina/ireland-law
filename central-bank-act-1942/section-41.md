@@ -1,5 +1,5 @@
 ## PART V. DEPOSITS BY BANKERS.
 
-Construction
+Construction of references to holding oneself out as a banker. (Repealed)
 
 41.—...

@@ -34,4 +34,4 @@ Bank and associates not liable for certain acts and omissions.
 
 (6) Nothing in subsections (3) to (5) limits the effect of subsection (2).
 
-(7) In this section, ‘agent’ includes a person appointed or authorised by the Bank, the Governor or the Head of Financial Regulationto perform any function or exercise a power under the Central Bank Acts or any other enactment.
+(7) In this section, ‘agent’ includes a person appointed or authorised by the Bank, the Governor or the Head of Financial Regulation to perform any function or exercise a power under the Central Bank Acts or any other enactment.

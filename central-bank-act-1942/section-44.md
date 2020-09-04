@@ -1,3 +1,3 @@
-Deposit
+Deposit on behalf of a company before its incorporation. (Repealed)
 
 44.—...

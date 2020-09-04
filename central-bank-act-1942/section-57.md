@@ -1,3 +1,3 @@
-Amendment of the Customs Consolidation Act, 1876.
+Amendment of the Customs Consolidation Act, 1876. (Repealed)
 
 57.—...

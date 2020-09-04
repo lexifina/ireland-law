@@ -1,4 +1,4 @@
-Financial Services Ombudsman may decline to investigate or to continue to investigate complaint.
+Financial Services Ombudsman may decline to investigate or to continue to investigate complaint. (Repealed)
 
 57BZ.—...
 

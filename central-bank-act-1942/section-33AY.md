@@ -4,7 +4,7 @@ Proceedings at inquiries.
 
 33AY.—(1) The Bank shall conduct an inquiry with as little formality and technicality, and with as much expedition, as a proper consideration of the matters before it will allow.
 
-(2) At an inquiry, the Bankshall observe the rules of procedural fairness, but is not bound by the rules of evidence.
+(2) At an inquiry, the Bank shall observe the rules of procedural fairness, but is not bound by the rules of evidence.
 
 (3) The Bank may be assisted by a legal practitioner when conducting an inquiry.
 

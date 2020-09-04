@@ -1,3 +1,3 @@
-Publication of balance sheets by licensed bankers.
+Publication of balance sheets by licensed bankers. (Repealed)
 
 49.—...

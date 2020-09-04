@@ -1,3 +1,3 @@
-Amendment of section 61 of the Currency Act.
+Amendment of section 61 of the Currency Act. (Repealed)
 
 63.—...

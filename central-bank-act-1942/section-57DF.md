@@ -1,3 +1,3 @@
-Responsibilities of Regulatory Authority and Minister with respect to Consultative Panels.
+Responsibilities of Regulatory Authority and Minister with respect to Consultative Panels. (Repealed)
 
 57DF.—...

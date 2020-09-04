@@ -1,3 +1,3 @@
-Removal of a bank from being an Associated Bank.
+Removal of a bank from being an Associated Bank. (Repealed)
 
 14.—...

@@ -1,3 +1,3 @@
-Panel for the appointment of banking Directors other than the first such Directors.
+Panel for the appointment of banking Directors other than the first such Directors. (Repealed)
 
 27.—...

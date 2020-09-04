@@ -1,3 +1,3 @@
-Amendment of the Bills of Exchange Act, 1882, in respect of banker’s drafts.
+Amendment of the Bills of Exchange Act, 1882, in respect of banker’s drafts. (Repealed)
 
 66.—...

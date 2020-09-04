@@ -1,3 +1,3 @@
-The issue of coins under the Coinage Act, 1926.
+The issue of coins under the Coinage Act, 1926. (Repealed)
 
 60.—...

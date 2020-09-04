@@ -38,7 +38,7 @@ Interpretation (Part IIIC).
 
 ‘notify’ means notify in writing.
 
-‘prescribed contravention’means, other than in respect of the CSD Regulation or as otherwise provided by this section, a contravention of—
+‘prescribed contravention’ means, other than in respect of the CSD Regulation or as otherwise provided by this section, a contravention of—
 
 (a) a provision of a designated enactment or designated statutory instrument, or
 

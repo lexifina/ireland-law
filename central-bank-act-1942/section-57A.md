@@ -20,7 +20,9 @@ Interpretation: Part VIIA and Schedule 5.
 
 ‘lay member’ means a member of the Appeals Tribunal other than the Chairperson and Deputy Chairperson;
 
-‘member’ means a member of the Appeals Tribunal; ‘party’, in relation to proceedings before the Appeals Tribunal, means either the appellant or the Bank as respondent;
+‘member’ means a member of the Appeals Tribunal;
+
+‘party’, in relation to proceedings before the Appeals Tribunal, means either the appellant or the Bank as respondent;
 
 ‘Registrar’means the Registrar of the Appeals Tribunal;
 

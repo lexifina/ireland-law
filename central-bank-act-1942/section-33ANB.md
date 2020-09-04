@@ -1,3 +1,3 @@
-Application of Part to credit unions pursuant to Payment Services Directive.
+Application of Part to credit unions pursuant to Payment Services Directive. (Repealed)
 
 33ANB.—...

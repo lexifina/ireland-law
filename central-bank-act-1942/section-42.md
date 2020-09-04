@@ -1,3 +1,3 @@
-Obligation to make deposit in the High Court.
+Obligation to make deposit in the High Court. (Repealed)
 
 42.—...

@@ -1,3 +1,3 @@
-Panel
+Panel for appointment of the first banking Directors. (Repealed)
 
 26.—...
