@@ -1,6 +1,6 @@
 Power of Ard- Chláraitheoir to give information to others.
 
-66.—(1) Notwithstanding anything contained in any other enactment, but subject to the Data Protection Regulation and the Data Protection Act 2018, an tArd- Chláraitheoir may, after consultation with ... the Minister for Social and Family Affairs, give such information as may be prescribed in relation to births, marriages, civil partnerships, decrees of divorce, decrees of nullity of marriage, decrees of dissolution or decrees of nullity of civil partnership, registered under this Act or under any of the repealed enactments to—
+66.—(1) Notwithstanding anything contained in any other enactment, but subject to the Data Protection Regulation and the Data Protection Act 2018, an tArd- Chláraitheoir may ... give such information as may be prescribed in relation to births, marriages, civil partnerships, decrees of divorce, decrees of nullity of marriage, decrees of dissolution or decrees of nullity of civil partnership, registered under this Act or under any of the repealed enactments to—
 
 (a) the Minister for Defence for the purpose of—
 
