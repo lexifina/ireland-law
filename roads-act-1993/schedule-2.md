@@ -28,4 +28,6 @@ No. 40 of 1960 Local Government (No. 2) In section 10, inserted by Act, 1960. se
 
 (i) an order made by virtue of this section authorises the extinguishment of a public right of way, and
 
-(ii) there is an objection to the extinguishment and the objection is not withdrawn, the Minister shall afford an opportunity to the person making the objection to state his case at a public local inquiry save where he thinks fit not to confirm the order.”. No. 28 of 1963 Local Government (Planning In section 89 (10) for the and Development) Act, words “main roads” there 1963. shall be substituted “national roads or regional roads” and for the words “main road” there shall be substituted “national road or regional road”.
+(ii) there is an objection to the extinguishment and the objection is not withdrawn, the Minister shall afford an opportunity to the person making the objection to state his case at a public local inquiry save where he thinks fit not to confirm the order.”.
+
+No. 28 of 1963 Local Government (Planning In section 89 (10) for the and Development) Act, words “main roads” there 1963. shall be substituted “national roads or regional roads” and for the words “main road” there shall be substituted “national road or regional road”.

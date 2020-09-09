@@ -152,6 +152,6 @@ Environmental impact assessment.
 
 (b) The European Communities (Environmental Impact Assessment) Regulations, 1989 (S.I. No. 349 of 1989) and the Local Government (Planning and Development) Regulations, 1990 (S.I. No. 25 of 1990) shall not apply to proposed road development.
 
-(9)...
+(9) ...
 
 (10) In carrying out an environmental impact assessment on a proposed road development under this section, An Bord Pleanála shall, where appropriate, coordinate the assessment with any assessment of the proposed development under Council Directive 92/43/EEC of 21 May 1992 or Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009.

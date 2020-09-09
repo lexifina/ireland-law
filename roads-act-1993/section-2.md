@@ -58,9 +58,9 @@ Interpretation.
 
 (ii) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992 and Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009,
 
-(iii) land, soil, water, air and climate,
-
 1 OJ No. L 26, 28.1.2012, p. 1 2 OJ No. L 124, 25.4.2014, p. 1 3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
+
+(iii) land, soil, water, air and climate,
 
 (iv) material assets, cultural heritage and the landscape, and
 

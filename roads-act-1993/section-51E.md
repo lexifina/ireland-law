@@ -1,4 +1,4 @@
-Power to request information regarding compliance with modification or condition.
+Power
 
 51E. (1) The Minister or, as the case may be, the Authority notified of a modification or condition under section 51C may request the developer to furnish, within a specified period, specified information in relation to the developer’s compliance with the modification or condition, and that developer shall comply with such a request.
 

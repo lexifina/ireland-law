@@ -22,4 +22,6 @@ Control of works by a State authority, statutory undertaker or local authority.
 
 (b) the Authority or the Minister may, having considered any objections or representations made to it or him under paragraph (a) (iii) and not withdrawn, grant or refuse consent or grant consent subject to such conditions or restrictions as it or he considers necessary;
 
-(c) the Authority or the Minister may at its or his discretion cause an oral hearing to be held into any objections or representations made under paragraph (a) (iii) and not withdrawn and shall consider the report and any recommendation of a person conducting such oral hearing before deciding whether to grant or refuse consent.
+(c) the Authority or the Minister may at its or his discretion cause an oral hearing to be held into any objections or representations made under paragraph (a)
+
+(iii) and not withdrawn and shall consider the report and any recommendation of a person conducting such oral hearing before deciding whether to grant or refuse consent.
