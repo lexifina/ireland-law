@@ -52,11 +52,11 @@ Definitions.
 
 “functions” includes powers and duties;
 
+2 OJ No. L 61, 3.3. 1997, p.1
+
 “geology” includes—
 
 (a) the study of the Earth (as a whole or in part), the materials of which it is made, the processes that act and have acted upon those materials and the products and structures formed by such action, and
-
-2 OJ No. L 61, 3.3. 1997, p.1
 
 (b) the physical and biological history of the Earth since its origin including the history of rock sequences as well as the history of life preserved as fossils in rocks and deposits at the surface, or in layers beneath the surface, of land;
 

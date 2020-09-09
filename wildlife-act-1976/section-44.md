@@ -16,9 +16,7 @@ Unlawful hunting or entry on land and other miscellaneous matters.
 
 (bb) an authorised person or a member of the Garda Síochána,
 
-(c) the holder, or a person deemed pursuant to subsection (5) or (5A) of section 29 of this Act to be the holder, of a licence granted under that section; provided that the power conferred by this section on a person mentioned in paragraph (c) of this subsection shall only be exercisable on the production by him of
-
-... a current licence granted to him pursuant to the said section 29 a current firearm certificate to which subsection (5A) of that section applies or a current firearm certificate granted to him and endorsed in accordance with the requirements of subsection (8) of that section.
+(c) the holder, or a person deemed pursuant to subsection (5) or (5A) of section 29 of this Act to be the holder, of a licence granted under that section; provided that the power conferred by this section on a person mentioned in paragraph (c) of this subsection shall only be exercisable on the production by him of ... a current licence granted to him pursuant to the said section 29 a current firearm certificate to which subsection (5A) of that section applies or a current firearm certificate granted to him and endorsed in accordance with the requirements of subsection (8) of that section.
 
 (2A) An authorised person or a member of the Garda Síochána in exercising a power under subsection (2) of this section may size any firearm, other weapon or device or part thereof.
 

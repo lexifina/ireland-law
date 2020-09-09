@@ -1,3 +1,3 @@
-Extinguishment of easements.
+Extinguishment of easements. (Repealed)
 
 61.—...

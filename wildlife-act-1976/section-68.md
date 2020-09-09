@@ -1,5 +1,5 @@
 ## PART VI MISCELLANEOUS
 
-Inspection of land.
+Inspection of land. (Repealed)
 
 68.—...
