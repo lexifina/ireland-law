@@ -26,6 +26,6 @@ Notice of development.
 
 (5) In this section—
 
-“Council Directive” means Council Directive 85/337/EEC of 27 June 1985 on the assessment of the effects of certain public and private projects on the environment 1, as amended by Council Directive 97/11/EC of 3 March 1997 2;
+“Council Directive” means Council Directive 85/337/EEC of 27 June 1985 on the assessment of the effects of certain public and private projects on the environment 1 , as amended by Council Directive 97/11/EC of 3 March 1997 2 ;
 
 “Espoo Convention” means the Convention on Environmental Impact Assessment in a Transboundary Context, done at Espoo (Finland) on 25 February 1991.
