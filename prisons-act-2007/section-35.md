@@ -2,7 +2,7 @@ Prison rules.
 
 35.— (1) The Minister may make rules for the regulation and good government of prisons.
 
-(2) Without prejudice to the generality of subsection (1) and to Part 3, such rules may provide for—
+(2) Without prejudice to the generality of subsection (1) and to Part 3 , such rules may provide for—
 
 (a) the duties and conduct of the governor and officers of a prison,
 

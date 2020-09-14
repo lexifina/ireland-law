@@ -18,6 +18,6 @@ Annual report.
 
 (g) discipline.
 
-(3) As soon as practicable after receiving a report under this section, the Minister shall, subject to subsection (4), cause a copy of it to be laid before each House of the Oireachtas and to be published.
+(3) As soon as practicable after receiving a report under this section, the Minister shall, subject to subsection (4) , cause a copy of it to be laid before each House of the Oireachtas and to be published.
 
 (4) Subsections (4) and (5) of section 31 apply in relation to a report under this section as they apply in relation to a report under that section.
