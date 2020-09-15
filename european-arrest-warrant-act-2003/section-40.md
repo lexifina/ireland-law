@@ -1,3 +1,3 @@
-Passage of time from commission of offence.
+Passage of time from commission of offence. (Repealed)
 
 40.—...

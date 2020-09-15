@@ -244,7 +244,9 @@ Barántas gabhála Eorpach a tharchur
 
 2. Féadfaidh an t-údarás breithiúnach eisitheach ar aon chuma a chinneadh foláireamh faoin duine iarrtha a chur i gCóras Faisnéise Schengen (CFS).
 
-3. Déanfar foláireamh den sórt sin i gcomhréir le forálacha Airteagal 95 de Choinbhinsiún an 19 Meitheamh 1990 a chuireann chun feidhme Comhaontú Schengen an 14 Meitheamh 1985 maidir le seiceálacha ag a dteorainneacha coiteanna a dhíothú de réir a chéile. Tá foláireamh i gCóras Faisnéise Schengen coibhéiseach le barántas gabhála Eorpach in éineacht leis an bhfaisnéis dá bhforáiltear in Airteagal 8(1). Go ceann idirthréimhse, go dtí go dtig leis an CFS an fhaisnéis uile atá luaite in Airteagal 8 a tharchur, beidh an foláireamh coibhéiseach le barántas gabhála Eorpach fad atá an t-údarás breithiúnach forghníomhaitheach ag fanacht le teacht an téacs bunaidh i bhfoirm chuí cheart.
+3. Déanfar foláireamh den sórt sin i gcomhréir le forálacha Airteagal 95 de Choinbhinsiún an 19 Meitheamh 1990 a chuireann chun feidhme Comhaontú Schengen an 14 Meitheamh 1985 maidir le seiceálacha ag a dteorainneacha coiteanna a dhíothú de réir a chéile. Tá foláireamh i gCóras Faisnéise Schengen coibhéiseach le barántas gabhála Eorpach in éineacht leis an bhfaisnéis dá bhforáiltear in Airteagal 8(1).
+
+Go ceann idirthréimhse, go dtí go dtig leis an CFS an fhaisnéis uile atá luaite in Airteagal 8 a tharchur, beidh an foláireamh coibhéiseach le barántas gabhála Eorpach fad atá an t-údarás breithiúnach forghníomhaitheach ag fanacht le teacht an téacs bunaidh i bhfoirm chuí cheart.
 
 Airteagal 10
 
@@ -274,9 +276,9 @@ Airteagal 12
 
 An duine a choimeád faoi choinneáil
 
-Nuair a ghabhtar duine ar bhonn an bharántais ghabhála Eorpaigh, glacfaidh an t- údarás breithiúnach forghníomhaitheach breith faoinar chóir don duine iarrtha fanacht faoi choinneáil, i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach. Féadfar an
+Nuair a ghabhtar duine ar bhonn an bharántais ghabhála Eorpaigh, glacfaidh an t- údarás breithiúnach forghníomhaitheach breith faoinar chóir don duine iarrtha fanacht faoi choinneáil, i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach. Féadfar an duine a scaoileadh saor go sealadach tráth ar bith ar cothrom leis an dlí inmheánach
 
-(8) Gníomh comhpháirteach 98/428/CGB an 29 Meitheamh 1998 ón gComhairle maidir le Líonra Breithiúnach Eorpach a chur ar bun (IO L 191, 7.7.1998, lch. 4). duine a scaoileadh saor go sealadach tráth ar bith ar cothrom leis an dlí inmheánach sa Bhallstát forghníomhaitheach, ar chuntar go nglacann an t-údarás inniúil sa Bhallstát a dúradh na bearta uile a mheasann sé is gá chun a chinntiú nach n-éalóidh an duine.
+(8) Gníomh comhpháirteach 98/428/CGB an 29 Meitheamh 1998 ón gComhairle maidir le Líonra Breithiúnach Eorpach a chur ar bun (IO L 191, 7.7.1998, lch. 4). sa Bhallstát forghníomhaitheach, ar chuntar go nglacann an t-údarás inniúil sa Bhallstát a dúradh na bearta uile a mheasann sé is gá chun a chinntiú nach n-éalóidh an duine.
 
 Airteagal 13
 
@@ -334,9 +336,9 @@ Teorainneacha ama agus nósanna imeachta maidir leis an mbreith an barántas gab
 
 6. Ní mór cúiseanna a thabhairt i dtaca le haon diúltú barántas gabhála Eorpach a fhorghníomhú.
 
-7. Mura dtig le Ballstát in imthosca eisceachtúla na teorainneacha ama dá bhforáiltear san Airteagal seo a urramú, cuirfidh sé Eurojust ar an eolas agus tabharfaidh sé na cúiseanna atá leis an moill. Ina theannta sin, Ballstát a bhfuil taithí aige
+7. Mura dtig le Ballstát in imthosca eisceachtúla na teorainneacha ama dá bhforáiltear san Airteagal seo a urramú, cuirfidh sé Eurojust ar an eolas agus tabharfaidh sé na cúiseanna atá leis an moill. Ina theannta sin, Ballstát a bhfuil taithí
 
-(9) Cinneadh 2002/187/CGB ón gComhairle an 28 Feabhra 2002 ag cur Eurojust ar bun ar mhaithe leis an gcomhrac in aghaidh na coiriúlachta tromchúistí a athneartú (IO L 63, 6.3.2002, Ich. 1). ar mhoilleanna ag Ballstát eile i dtaca le barántais ghabhála Eorpacha a fhorghníomhú cuirfidh sé an Chomhairle ar an eolas ar mhaithe le cur chun feidhme an Treoirchinnidh seo ag leibhéal an Bhallstáit a mheas.
+(9) Cinneadh 2002/187/CGB ón gComhairle an 28 Feabhra 2002 ag cur Eurojust ar bun ar mhaithe leis an gcomhrac in aghaidh na coiriúlachta tromchúistí a athneartú (IO L 63, 6.3.2002, Ich. 1). aige ar mhoilleanna ag Ballstát eile i dtaca le barántais ghabhála Eorpacha a fhorghníomhú cuirfidh sé an Chomhairle ar an eolas ar mhaithe le cur chun feidhme an Treoirchinnidh seo ag leibhéal an Bhallstáit a mheas.
 
 Airteagal 18
 
@@ -358,7 +360,7 @@ Airteagal 19
 
 1. Tabharfaidh údarás breithiúnach éisteacht don duine iarrtha; beidh de chuidiú ag an údarás aon duine eile arna ainmniú i gcomhréir leis an dlí i mBallstát na cúirte iarrthaí.
 
-2. Tabharfar éisteacht don duine iarrtha i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach agus faoi na coinníollacha arna gcinneadh de thoil a chéile idir an t- údarás breithiúnach eisitheach agus an t-údarás breithiúnach forghníomhaitheach.
+2. Tabharfar éisteacht don duine iarrtha i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach agus faoi na coinníollacha arna gcinneadh de thoil a chéile idir an t-údarás breithiúnach eisitheach agus an t-údarás breithiúnach forghníomhaitheach.
 
 3. Féadfaidh an t-údarás breithiúnach forghníomhaitheach inniúil a chur de chúram ar údarás breithiúnach eile sa Bhallstát páirt a ghlacadh in éisteacht an duine iarrtha d'fhonn cur i bhfeidhm cuí an Airteagail seo agus na gcoinníollacha atá leagtha síos a áirithiú.
 
@@ -422,7 +424,7 @@ Idirthuras
 
 Más náisiúnach de Bhallstát an idirthurais nó más cónaitheoir ann é an duine is ábhar don bharántas gabhála Eorpach ar mhaithe le hionchúiseamh, féadfar an t-idirthuras a bheith faoi réir an choinníll go gcuirtear an duine ar ais, tar éis éisteacht a thabhairt dó, chuig Ballstát an idirthurais chun an phianbhreith faoi choimeád nó an tordú coinneála a rinneadh ina leith sa Bhallstát eisitheach a sheirbheáil.
 
-2. Ainmneoidh gach Ballstát údarás chun bheith freagrach as iarrataí um idirthuras agus na doiciméid riachtanacha a ghlacadh, chomh maith le haon chomhfhreagras oifigiúil eile a bhaineann le hiarrataí um idirthuras. Páirteoidh na Ballstáit an t-ainm-niúchán sin le hArdrúnaíocht na Comhairle.
+2. Ainmneoidh gach Ballstát údarás chun bheith freagrach as iarrataí um idirthuras agus na doiciméid riachtanacha a ghlacadh, chomh maith le haon chomhfhreagras oifigiúil eile a bhaineann le hiarrataí um idirthuras. Páirteoidh na Ballstáit an t-ainmniúchán sin le hArdrúnaíocht na Comhairle.
 
 3. Féadfar an iarraidh um idirthuras agus an fhaisnéis atá leagtha amach i mír 1 a chur chuig an údarás arna ainmniú de bhun mhír 2 trí aon mheán atá ábalta taifeadadh i scríbhinn a sholáthar. Cuirfidh Ballstát an idirthurais a bhreith in iúl tríd an nós imeachta céanna.
 
@@ -880,9 +882,11 @@ Article 13
 
 Consent to surrender
 
-(1) Council Joint Action 98/428/JHA of 29 June 1998 on the creation of a Euro- pean Judicial Network (OJ L 191, 7.7.1998, p. 4).
+1. If the arrested person indicates that he or she consents to surrender, that consent and, if appropriate, express renunciation of entitlement to the ‘speciality rule’, referred
 
-1. If the arrested person indicates that he or she consents to surrender, that consent and, if appropriate, express renunciation of entitlement to the ‘speciality rule’, referred to in Article 27(2), shall be given before the executing judicial authority, in accordance with the domestic law of the executing Member State.
+(1) Council Joint Action 98/428/JHA of 29 June 1998 on the creation of a
+
+European Judicial Network (OJ L 191, 7.7.1998, p. 4). to in Article 27(2), shall be given before the executing judicial authority, in accordance with the domestic law of the executing Member State.
 
 2. Each Member State shall adopt the measures necessary to ensure that consent and, where appropriate, renunciation, as referred to in paragraph 1, are established in such a way as to show that the person concerned has expressed them voluntarily and in full awareness of the consequences. To that end, the requested person shall have the right to legal counsel.
 
@@ -940,9 +944,9 @@ Article 18
 
 Situation pending the decision
 
-(1) Council Decision 2002/187/JHA of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime (OJ L 63, 6.3.2002, p. 1).
-
 1. Where the European arrest warrant has been issued for the purpose of conducting a criminal prosecution, the executing judicial authority must:
+
+(1) Council Decision 2002/187/JHA of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime (OJ L 63, 6.3.2002, p. 1).
 
 (a) either agree that the requested person should be heard according to Article 19;
 
@@ -1064,9 +1068,7 @@ Possible prosecution for other offences
 
 (g) where the executing judicial authority which surrendered the person gives its consent in accordance with paragraph 4.
 
-4. A request for consent shall be submitted to the executing judicial authority, accompanied by the information mentioned in Article 8(1) and a translation as referred to in Article 8(2). Consent shall be given when the offence for which it is requested is itself subject to surrender in accordance with the provisions of this Framework Decision. Consent shall be refused on the grounds referred to in Article 3 and otherwise may be refused only on the grounds referred to in Article 4. The decision shall be taken no later than 30 days after receipt of the request.
-
-For the situations mentioned in Article 5 the issuing Member State must give the guarantees provided for therein.
+4. A request for consent shall be submitted to the executing judicial authority, accompanied by the information mentioned in Article 8(1) and a translation as referred to in Article 8(2). Consent shall be given when the offence for which it is requested is itself subject to surrender in accordance with the provisions of this Framework Decision. Consent shall be refused on the grounds referred to in Article 3 and otherwise may be refused only on the grounds referred to in Article 4. The decision shall be taken no later than 30 days after receipt of the request. For the situations mentioned in Article 5 the issuing Member State must give the guarantees provided for therein.
 
 Article 28
 
@@ -1194,8 +1196,8 @@ ANNEX
 
 EUROPEAN ARREST WARRANT(1)
 
-This warrant has been issued by a competent judicial authority. I request that the person mentioned below be arrested and surrendered for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order.
-
 (1) This warrant must be written in, or translated into, one of the official languages of the executing Member State, when that State is known, or any other language accepted by that State.
+
+This warrant has been issued by a competent judicial authority. I request that the person mentioned below be arrested and surrendered for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order.
 
 (1) In the different language versions a reference to the “holder” of the judicial authority will be included.

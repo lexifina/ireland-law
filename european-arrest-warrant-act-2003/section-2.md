@@ -36,6 +36,8 @@ Interpretation.
 
 “Member State” means a Member State of the European Communities (other than the State) or Gibraltar;
 
+2 O.J. No. L63, 6.3.2002, p.1.
+
 “Minister” means the Minister for Justice, Equality and Law Reform;
 
 ‘Schengen Convention’ means the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders done at Schengen on 19 June 1990 and includes any amendment to or modification of that Convention whether before or after the passing of this Act but does not include the Council Decision;
@@ -45,8 +47,6 @@ Interpretation.
 “third country” means a country other than the State or a Member State;
 
 “true copy” shall be read in accordance with section 12(7).
-
-2 O.J. No. L63, 6.3.2002, p.1.
 
 (2) In this Act—
 
