@@ -238,7 +238,9 @@ Barántas gabhála Eorpach a tharchur
 
 2. Féadfaidh an t-údarás breithiúnach eisitheach ar aon chuma a chinneadh foláireamh faoin duine iarrtha a chur i gCóras Faisnéise Schengen (CFS).
 
-3. Déanfar foláireamh den sórt sin i gcomhréir le forálacha Airteagal 95 de Choinbhinsiún an 19 Meitheamh 1990 a chuireann chun feidhme Comhaontú Schengen an 14 Meitheamh 1985 maidir le seiceálacha ag a dteorainneacha coiteanna a dhíothú de réir a chéile. Tá foláireamh i gCóras Faisnéise Schengen coibhéiseach le barántas gabhála Eorpach in éineacht leis an bhfaisnéis dá bhforáiltear in Airteagal 8(1). Go ceann idirthréimhse, go dtí go dtig leis an CFS an fhaisnéis uile atá luaite in Airteagal 8 a tharchur, beidh an foláireamh coibhéiseach le barántas gabhála Eorpach fad atá an t-údarás breithiúnach forghníomhaitheach ag fanacht le teacht an téacs bunaidh i bhfoirm chuí cheart.
+3. Déanfar foláireamh den sórt sin i gcomhréir le forálacha Airteagal 95 de Choinbhinsiún an 19 Meitheamh 1990 a chuireann chun feidhme Comhaontú Schengen an 14 Meitheamh 1985 maidir le seiceálacha ag a dteorainneacha coiteanna a dhíothú de réir a chéile. Tá foláireamh i gCóras Faisnéise Schengen coibhéiseach le barántas gabhála Eorpach in éineacht leis an bhfaisnéis dá bhforáiltear in Airteagal 8(1).
+
+Go ceann idirthréimhse, go dtí go dtig leis an CFS an fhaisnéis uile atá luaite in Airteagal 8 a tharchur, beidh an foláireamh coibhéiseach le barántas gabhála Eorpach fad atá an t-údarás breithiúnach forghníomhaitheach ag fanacht le teacht an téacs bunaidh i bhfoirm chuí cheart.
 
 Airteagal 10
 
@@ -348,7 +350,7 @@ Airteagal 19
 
 1. Tabharfaidh údarás breithiúnach éisteacht don duine iarrtha; beidh de chuidiú ag an údarás aon duine eile arna ainmniú i gcomhréir leis an dlí i mBallstát na cúirte iarrthaí.
 
-2. Tabharfar éisteacht don duine iarrtha i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach agus faoi na coinníollacha arna gcinneadh de thoil a chéile idir an t- údarás breithiúnach eisitheach agus an t-údarás breithiúnach forghníomhaitheach.
+2. Tabharfar éisteacht don duine iarrtha i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach agus faoi na coinníollacha arna gcinneadh de thoil a chéile idir an t-údarás breithiúnach eisitheach agus an t-údarás breithiúnach forghníomhaitheach.
 
 3. Féadfaidh an t-údarás breithiúnach forghníomhaitheach inniúil a chur de chúram ar údarás breithiúnach eile sa Bhallstát páirt a ghlacadh in éisteacht an duine iarrtha d'fhonn cur i bhfeidhm cuí an Airteagail seo agus na gcoinníollacha atá leagtha síos a áirithiú.
 
@@ -412,7 +414,7 @@ Idirthuras
 
 Más náisiúnach de Bhallstát an idirthurais nó más cónaitheoir ann é an duine is ábhar don bharántas gabhála Eorpach ar mhaithe le hionchúiseamh, féadfar an t-idirthuras a bheith faoi réir an choinníll go gcuirtear an duine ar ais, tar éis éisteacht a thabhairt dó, chuig Ballstát an idirthurais chun an phianbhreith faoi choimeád nó an tordú coinneála a rinneadh ina leith sa Bhallstát eisitheach a sheirbheáil.
 
-2. Ainmneoidh gach Ballstát údarás chun bheith freagrach as iarrataí um idirthuras agus na doiciméid riachtanacha a ghlacadh, chomh maith le haon chomhfhreagras oifigiúil eile a bhaineann le hiarrataí um idirthuras. Páirteoidh na Ballstáit an t-ainm-niúchán sin le hArdrúnaíocht na Comhairle.
+2. Ainmneoidh gach Ballstát údarás chun bheith freagrach as iarrataí um idirthuras agus na doiciméid riachtanacha a ghlacadh, chomh maith le haon chomhfhreagras oifigiúil eile a bhaineann le hiarrataí um idirthuras. Páirteoidh na Ballstáit an t-ainmniúchán sin le hArdrúnaíocht na Comhairle.
 
 3. Féadfar an iarraidh um idirthuras agus an fhaisnéis atá leagtha amach i mír 1 a chur chuig an údarás arna ainmniú de bhun mhír 2 trí aon mheán atá ábalta taifeadadh i scríbhinn a sholáthar. Cuirfidh Ballstát an idirthurais a bhreith in iúl tríd an nós imeachta céanna.
 
@@ -1040,9 +1042,7 @@ Possible prosecution for other offences
 
 (g) where the executing judicial authority which surrendered the person gives its consent in accordance with paragraph 4.
 
-4. A request for consent shall be submitted to the executing judicial authority, accompanied by the information mentioned in Article 8(1) and a translation as referred to in Article 8(2). Consent shall be given when the offence for which it is requested is itself subject to surrender in accordance with the provisions of this Framework Decision. Consent shall be refused on the grounds referred to in Article 3 and otherwise may be refused only on the grounds referred to in Article 4. The decision shall be taken no later than 30 days after receipt of the request.
-
-For the situations mentioned in Article 5 the issuing Member State must give the guarantees provided for therein.
+4. A request for consent shall be submitted to the executing judicial authority, accompanied by the information mentioned in Article 8(1) and a translation as referred to in Article 8(2). Consent shall be given when the offence for which it is requested is itself subject to surrender in accordance with the provisions of this Framework Decision. Consent shall be refused on the grounds referred to in Article 3 and otherwise may be refused only on the grounds referred to in Article 4. The decision shall be taken no later than 30 days after receipt of the request. For the situations mentioned in Article 5 the issuing Member State must give the guarantees provided for therein.
 
 Article 28
 
@@ -1168,6 +1168,4 @@ For the Council The President M. RAJOY BREY
 
 ANNEX
 
-EUROPEAN ARREST WARRANT(1)
-
-This warrant has been issued by a competent judicial authority. I request that the person mentioned below be arrested and surrendered for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order.
+EUROPEAN ARREST WARRANT(1) This warrant has been issued by a competent judicial authority. I request that the person mentioned below be arrested and surrendered for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order.

@@ -1,4 +1,4 @@
-F75[Transfer of persons to state from which surrendered.
+F75[ Transfer of persons to state from which surrendered.
 
 45B.— (1) Where a national or resident of another state from which he or she is surrendered—
 
