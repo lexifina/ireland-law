@@ -52,7 +52,9 @@ The Board shall, by regulations made by it under this Act, prescribe the followi
 
 (i) the general character, the type of accommodation and services provided, and the other qualifications which shall be requisite in respect of any premises in order that such premises may be eligible for registration in the register of holiday apartments.
 
-(3) Section 45 (1) of the Principal Act is hereby amended by the insertion after “premises registered in the register of approved holiday cottages” (inserted by the Act of 1970) of “premises registered in the register of holiday apartments” and that section, as so amended, is set out in the Table to this subsection. TABLE
+(3) Section 45 (1) of the Principal Act is hereby amended by the insertion after “premises registered in the register of approved holiday cottages” (inserted by the Act of 1970) of “premises registered in the register of holiday apartments” and that section, as so amended, is set out in the Table to this subsection.
+
+TABLE
 
 The Board shall publish or cause to be published at least once in every year a list of registered premises arranged so as to show separately premises registered in the register of hotels, premises registered in the register of guest houses, premises registered in the register of holiday hostels, premises registered in the register of youth hostels, premises registered in the register of caravan sites and camping sites, premises registered in the register of approved holiday cottages, premises registered in the register of holiday apartments, premises registered in the register of motor hotels and premises registered in the register of holiday camps.
 
