@@ -1,4 +1,4 @@
-Application for registration after refusal or cancellation of registration.
+Application
 
 7.—Where—
 
