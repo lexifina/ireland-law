@@ -32,7 +32,7 @@ Renewal of licence.
 
 (ii) any principal officer of the partnership is an undischarged bankrupt.
 
-(5) Where an application under subsection (2) for the renewal of a licence does not comply with paragraph (b) of that subsection, the applicant shall, unless he or she satisfies the Authority that there were exceptional circumstances which justify why the application did not comply with that paragraph, be treated as never having held a licence, and sections 30and31 shall apply to the applicant accordingly.
+(5) Where an application under subsection (2) for the renewal of a licence does not comply with paragraph (b) of that subsection, the applicant shall, unless he or she satisfies the Authority that there were exceptional circumstances which justify why the application did not comply with that paragraph, be treated as never having held a licence, and sections 30 and 31 shall apply to the applicant accordingly.
 
 (6) Improper conduct (including any allegation thereof) by a licensee shall be dealt with or continue to be dealt with under Part 7 or 8 and, accordingly, the renewal of the licensee’s licence under this section does not prejudice or affect—
 

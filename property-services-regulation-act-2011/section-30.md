@@ -1,6 +1,6 @@
 Application for licence.
 
-30.— (1) A person may make an application in the specified form to the Authority for a licence to provide the property service specified in the application (or, if more than one property service is specified in the application, a licence for each of the property services specified in the application) unless the person is prohibited from making such an application by virtue of the imposition on the person of a major sanction which falls within paragraph (a) or (b) of the definition of “major sanction” in section 2(1) or by virtue of an order undersection 38(3), 47(5) or (7), 66(18) or (20) or94(2).
+30.— (1) A person may make an application in the specified form to the Authority for a licence to provide the property service specified in the application (or, if more than one property service is specified in the application, a licence for each of the property services specified in the application) unless the person is prohibited from making such an application by virtue of the imposition on the person of a major sanction which falls within paragraph (a) or (b) of the definition of “major sanction” in section 2(1) or by virtue of an order under section 38(3), 47(5) or (7), 66(18) or (20) or 94(2).
 
 (2) Without prejudice to the generality of section 97, an application under subsection (1) shall be accompanied by—
 

@@ -1,4 +1,4 @@
-Regulations under Part 6.
+Regulations under Part 6 .
 
 62.— (1) Subject to subsection (2), the Authority may, with the consent of the relevant Minister and following consultation with such other person or body as the Authority thinks fit or as the relevant Minister directs, make regulations in respect of any of the following:
 

@@ -2,7 +2,7 @@ Relations with competent authorities.
 
 84.— (1) The Authority shall notify the competent authority concerned of—
 
-(a) any action taken by the Authority or the High Court under section 63, 64, 65(1) or 68in relation to a relevant person,
+(a) any action taken by the Authority or the High Court under section 63, 64, 65(1) or 68 in relation to a relevant person,
 
 (b) any action taken by the Authority or the High Court under section 71 or 72 in relation to a relevant person,
 

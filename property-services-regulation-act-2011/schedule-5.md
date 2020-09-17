@@ -134,7 +134,7 @@ Prohibition of improper influence
 
 Reports to Minister
 
-11. Section 17shall, with all necessary modifications, apply in respect of the Appeal Board as it applies to the Authority.
+11. Section 17 shall, with all necessary modifications, apply in respect of the Appeal Board as it applies to the Authority.
 
 PART 2
 

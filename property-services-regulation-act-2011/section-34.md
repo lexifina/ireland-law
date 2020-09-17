@@ -18,4 +18,4 @@ Notification to applicant of refusal to issue licence, etc.
 
 (i) notice in writing of the refusal and the reasons for the refusal, and
 
-(ii) a copy of Part 2 of Schedule 5if the ground, or one of the grounds, for the refusal falls within section 31(3)(g), (h) or (i).
+(ii) a copy of Part 2 of Schedule 5 if the ground, or one of the grounds, for the refusal falls within section 31(3)(g), (h) or (i).

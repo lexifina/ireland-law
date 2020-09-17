@@ -26,7 +26,7 @@ PROVISIONS APPLICABLE TO ADMINISTRATION OF PROPERTY SERVICES COMPENSATION FUND
 
 6. The following shall be paid out of the Fund—
 
-(a) costs, charges and expenses incurred in maintaining, protecting, administering and applying the Fund,
+(a) costs, charges and expenses incurred in maintaining , protecting, administering and applying the Fund,
 
 (b) premiums on any insurance effected by the Authority under paragraph 4,
 

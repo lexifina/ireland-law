@@ -46,4 +46,4 @@ Codes of practice.
 
 (11) The Authority, the Appeal Board or any court or tribunal may, in any proceedings under this Act to determine whether improper conduct by a licensee has occurred or is occurring, have regard to any provision of a code of practice published or approved of under this section (including such a code as amended from time to time under this section) which appears to it to be relevant to the improper conduct concerned.
 
-(12) In this section(including subsection (2)(a)), “code of practice” includes part of a code of practice.
+(12) In this section (including subsection (2)(a)), “code of practice” includes part of a code of practice.

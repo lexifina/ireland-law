@@ -10,7 +10,7 @@ Circumstances in which application may be made to High Court for immediate suspe
 
 (3) The Authority shall, on complying with a direction of the High Court under subsection (2)(b), give notice in writing to the licensee concerned of the Authority’s compliance with the direction.
 
-(4) (a) Where the Authority considers that the immediate suspension of the licence of a licensee (and whether or not the licensee is the subject of a complaint) is necessary because of the immediate risk of financial harm to clients of the licensee, or the users or potential users of the property services provided by the licensee, the Authority may make an applicationin a summary manner ex parte to the High Court for an interim order to suspend the licence.
+(4) (a) Where the Authority considers that the immediate suspension of the licence of a licensee (and whether or not the licensee is the subject of a complaint) is necessary because of the immediate risk of financial harm to clients of the licensee, or the users or potential users of the property services provided by the licensee, the Authority may make an application in a summary manner ex parte to the High Court for an interim order to suspend the licence.
 
 (b) The application for such an order shall be grounded on an affidavit sworn on behalf of the Authority.
 

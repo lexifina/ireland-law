@@ -2,7 +2,7 @@ SCHEDULE 7
 
 MODIFICATIONS OF THIS ACT IN RELATION TO RELEVANT PERSONS
 
-1. Except as provided otherwise in this Schedule, sections 29to 36, 39 and 40, paragraph (d) of the definition of “material matter” in section 41(4),sections 45,52,53,77 to 81,89 and 98 to 100and paragraph 13 (except clauses (b), (c) and (d)) of Schedule 5shall not have effect in relation to relevant persons.
+1. Except as provided otherwise in this Schedule, sections 29 to 36, 39 and 40, paragraph (d) of the definition of “material matter” in section 41(4), sections 45, 52, 53, 77 to 81, 89 and 98 to 100 and paragraph 13 (except clauses (b), (c) and (d)) of Schedule 5 shall not have effect in relation to relevant persons.
 
 2. In section 2(1)—
 
@@ -74,7 +74,7 @@ MODIFICATIONS OF THIS ACT IN RELATION TO RELEVANT PERSONS
 
 11. In section 42(1), any reference to a licensee is a reference to a relevant person.
 
-12. In sections 43and44, any reference to a licensee is a reference to a relevant person.
+12. In sections 43 and 44, any reference to a licensee is a reference to a relevant person.
 
 13. In section 46, any reference to a licensee is a reference to a relevant person.
 
@@ -138,7 +138,7 @@ MODIFICATIONS OF THIS ACT IN RELATION TO RELEVANT PERSONS
 
 (b) the reference in paragraph 1 (a) to the registration number of a licensee is a reference to the number (if any) assigned to the relevant person or the relevant person’s relevant authorisation which distinguishes that relevant person from any other relevant person holding a relevant authorisation from the same competent authority as the first-mentioned relevant authorisation is held.
 
-25. Schedule 2is amended, in paragraph 1—
+25. Schedule 2 is amended, in paragraph 1—
 
 (a) in clause (n), by substituting “thereon,” for “thereon, and”,
 

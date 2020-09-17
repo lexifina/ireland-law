@@ -16,7 +16,7 @@ Letter of engagement.
 
 (3) Where a property services agreement has been entered into by a licensee but subsequently the licensee and the other party thereto have agreed to make an amendment to the agreement (including any agreement as previously amended under this subsection), the licensee shall, not later than 7 working days after the amendment has been so agreed, provide to that party such amendment (including a copy thereof) in the specified form—
 
-(a) containing such information as is required to be contained in the amendment by virtue of Schedule 2in so far as that Schedule relates to the subject matter of the amendment, and
+(a) containing such information as is required to be contained in the amendment by virtue of Schedule 2 in so far as that Schedule relates to the subject matter of the amendment, and
 
 (b) signed by the licensee.
 

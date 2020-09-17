@@ -36,7 +36,7 @@ Investigations.
 
 (I) copies of any documents relevant to the investigation, and
 
-(II) copies of this Part and Part 8, and
+(II) copies of this Part and Part 8 , and
 
 (iii) without prejudice to the generality of section 66, afford the licensee an opportunity to respond within 30 days from the date on which the licensee received the notice referred to in subparagraph (i), or such further period not exceeding 30 days as the inspector allows, to the matter to which the investigation relates.
 

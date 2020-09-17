@@ -26,7 +26,7 @@ Interpretation.
 
 “appropriate fee”, in relation to a provision of this Act, means—
 
-(a) subject to paragraph (b), the fee prescribed in regulations made under section 25in respect of that provision, and
+(a) subject to paragraph (b), the fee prescribed in regulations made under section 25 in respect of that provision, and
 
 (b) in the case of paragraph 14(1) of Schedule 5, the fee prescribed in regulations made under section 74(4) in respect of that paragraph;
 
@@ -132,9 +132,9 @@ Interpretation.
 
 (b) the commission by the licensee of a contravention of—
 
-(i) section 28(1), 29(9), 31(5), 37(1), (2), (4), (5), (6) or (7), 41(1), 43(1), (2) or (3), 44, 45(1) or (2), 55(1) or (2), 56(1), 57(1), 58(3),59(1), 60(1), 61, or 81(1) or (2), or
+(i) section 28(1), 29(9), 31(5), 37(1), (2), (4), (5), (6) or (7), 41(1), 43(1), (2) or (3), 44, 45(1) or (2), 55(1) or (2), 56(1), 57(1), 58(3), 59(1), 60(1), 61, or 81(1) or (2), or
 
-(ii) a provision of regulations made under section 46,62 or 95, or
+(ii) a provision of regulations made under section 46, 62 or 95, or
 
 (c) the giving by the licensee of a statement of advised market value or advised letting value of land which is clearly unreasonable;
 

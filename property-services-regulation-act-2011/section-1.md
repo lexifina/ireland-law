@@ -10,7 +10,7 @@ Short title and commencement.
 
 (a) in respect of the repeal by section 7(1) of the Acts specified in Part 1 of Schedule 1, appoint different days for the repeal of different Acts or different provisions of them,
 
-(b) in respect of the revocation by section 7(2) of the statutory instrument specified in Part 2of Schedule 1, appoint different days for the revocation of different provisions of it,
+(b) in respect of the revocation by section 7(2) of the statutory instrument specified in Part 2 of Schedule 1, appoint different days for the revocation of different provisions of it,
 
 (c) appoint, whether by reference to paragraph (a), (b), (c) or (d) of the definition of “property service” in section 2(1) or otherwise, different days for the coming into operation of this Act (or of different provisions of this Act) in respect of different services which fall within that definition, or
 

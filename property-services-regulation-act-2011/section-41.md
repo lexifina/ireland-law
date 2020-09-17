@@ -18,7 +18,7 @@ Notification of material matter to Authority.
 
 (ii) services relevant to the provision of such property services,
 
-(b) any conviction for an offence (whether imposed in or outside the State)other than an offence prescribed for the purposes of this paragraph by regulations made undersection 95,
+(b) any conviction for an offence (whether imposed in or outside the State) other than an offence prescribed for the purposes of this paragraph by regulations made under section 95,
 
 (c) any proceedings pending for an offence which falls within paragraph (b), and
 

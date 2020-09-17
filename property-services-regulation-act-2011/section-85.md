@@ -2,7 +2,7 @@ Effect of revocation or suspension of relevant person’s relevant authorisation
 
 85.— (1) Where a relevant authorisation issued by a competent authority to a relevant person is revoked or suspended by it—
 
-(a) subject to subsection (2), this Part and Schedule 7shall cease to have effect in relation to that person, and
+(a) subject to subsection (2), this Part and Schedule 7 shall cease to have effect in relation to that person, and
 
 (b) the relevant person shall be treated as a person who is not the holder of a licence, with effect from the date of revocation or during the period of suspension, as the case may be.
 

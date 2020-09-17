@@ -1,6 +1,6 @@
 Issue or refusal of licence.
 
-31.— (1) Subject to subsections (3) and (5) and sections 32and 33, the Authority may issue a licence to a person to provide the property service specified in the licence and such licence shall contain the registration number assigned to such person for the purposes of the Register in so far as it relates to that licence.
+31.— (1) Subject to subsections (3) and (5) and sections 32 and 33, the Authority may issue a licence to a person to provide the property service specified in the licence and such licence shall contain the registration number assigned to such person for the purposes of the Register in so far as it relates to that licence.
 
 (2) When deciding whether to issue a licence, the Authority shall take into account any information supplied to it under sections 30 and 42.
 

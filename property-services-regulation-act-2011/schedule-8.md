@@ -20,9 +20,7 @@ Amendment of section 30 of Pawnbrokers Act 1964.
 
 Amendment of section 13 of Firearms Act 1964.
 
-4. Section 13(2) of the Firearms Act 1964 is amended by inserting “(being the holder of a licence within the meaning of section 2(1) of the Property Services
-
-(Regulation) Act 2011, or a relevant authorisation within the meaning of section 82 of that Act, in respect of a service which falls, or substantially falls, as the case requires, within paragraph (a) of the definition of ‘property service’ in that first-mentioned section)” after “auctioneer”.
+4. Section 13(2) of the Firearms Act 1964 is amended by inserting “(being the holder of a licence within the meaning of section 2(1) of the Property Services (Regulation) Act 2011, or a relevant authorisation within the meaning of section 82 of that Act, in respect of a service which falls, or substantially falls, as the case requires, within paragraph (a) of the definition of ‘property service’ in that first-mentioned section)” after “auctioneer”.
 
 Amendment of section 44 of Bankruptcy Act 1988.
 
@@ -86,11 +84,9 @@ Amendment of Stamp Duties Consolidation Act 1999.
 
 Provision of
 
-137C.— (1) In this section “Commissioner of Valuation” means a Commissioner information appointed under section 9(5) of the Valuation Act 2001. to Commissioner of
+137C.— (1) In this section “Commissioner of Valuation” means a Commissioner information appointed under section 9(5) of the Valuation Act 2001. to Commissioner
 
-(2) Notwithstanding any obligation to maintain secrecy or any other restriction
-
-Valuation. on the disclosure or production of information obtained by or furnished to the Commissioners, the Commissioners shall, at such intervals as are specified by the Commissioner of Valuation, supply to the Commissioner of Valuation such information in the Commissioners’ e-stamping system as may be required by the Commissioner of Valuation for the performance of the functions of the Commissioner of Valuation.”.
+(2) Notwithstanding any obligation to maintain secrecy or any other restriction of Valuation. on the disclosure or production of information obtained by or furnished to the Commissioners, the Commissioners shall, at such intervals as are specified by the Commissioner of Valuation, supply to the Commissioner of Valuation such information in the Commissioners’ e-stamping system as may be required by the Commissioner of Valuation for the performance of the functions of the Commissioner of Valuation.”.
 
 Amendment of Schedule 5 to Social Welfare Consolidation Act 2005.
 

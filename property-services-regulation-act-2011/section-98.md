@@ -14,7 +14,7 @@ Interpretation of transitional provisions.
 
 (d) if there is an appeal to the Appeal Board against a refusal referred to in paragraph (c)—
 
-(i) the withdrawal of the appeal as specified in paragraph 19 of Schedule 5,
+(i) the withdrawal of the appeal as specified in paragraph 19 of Schedule 5 ,
 
 (ii) the confirmation of the decision of the Authority by the Appeal Board as specified in paragraph 24(1)(a) of Schedule 5,
 
