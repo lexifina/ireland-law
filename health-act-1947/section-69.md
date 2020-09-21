@@ -1,3 +1,3 @@
-County medical officers.
+County medical officers. (Repealed)
 
 69.—...

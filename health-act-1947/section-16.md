@@ -1,3 +1,3 @@
-Transfer of the Hospital of Saint Margaret of Cortona to the Dublin Corporation.
+Transfer of the Hospital of Saint Margaret of Cortona to the Dublin Corporation. (Repealed)
 
 16.—...

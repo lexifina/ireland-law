@@ -1,3 +1,3 @@
-Dissemination of information and advice on health.
+Dissemination of information and advice on health. (Repealed)
 
 99.—...

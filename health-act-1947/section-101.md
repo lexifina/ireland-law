@@ -1,3 +1,3 @@
-Joint action by health authorities.
+Joint action by health authorities. (Repealed)
 
 101.—...

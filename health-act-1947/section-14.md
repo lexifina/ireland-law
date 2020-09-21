@@ -1,3 +1,3 @@
-Transfer of district institution.
+Transfer of district institution. (Repealed)
 
 14.—...

@@ -1,3 +1,3 @@
-Regulations as to flock.
+Regulations as to flock. (Repealed)
 
 67.—...

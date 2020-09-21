@@ -1,3 +1,3 @@
-Power to provide land for an institution.
+Power to provide land for an institution. (Repealed)
 
 20.—...

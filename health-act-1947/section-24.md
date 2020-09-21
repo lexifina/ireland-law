@@ -1,3 +1,3 @@
-Notice of medical inspection of children.
+Notice of medical inspection of children. (Repealed)
 
 24.—...

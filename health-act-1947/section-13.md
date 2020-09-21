@@ -1,3 +1,3 @@
-Joint user of certain institutions by health authority and public assistance authority.
+Joint user of certain institutions by health authority and public assistance authority. (Repealed)
 
 13.—...

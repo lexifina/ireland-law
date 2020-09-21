@@ -1,3 +1,3 @@
-Regulations as to exercise by health authorities of their powers under Part III.
+Regulations as to exercise by health authorities of their powers under Part III. (Repealed)
 
 28.—...

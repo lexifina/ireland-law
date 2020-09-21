@@ -1,3 +1,3 @@
-Attendance to health of pupils of schools.
+Attendance to health of pupils of schools. (Repealed)
 
 23.—...

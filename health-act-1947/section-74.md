@@ -1,3 +1,3 @@
-Bacteriologists.
+Bacteriologists. (Repealed)
 
 74.—...

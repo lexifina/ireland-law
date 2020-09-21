@@ -1,3 +1,3 @@
-City medical officers.
+City medical officers. (Repealed)
 
 71.—...

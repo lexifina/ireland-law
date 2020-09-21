@@ -1,3 +1,3 @@
-Amendment of sub-section (2) of section 6 of Tuberculosis (Establishment of Sanatoria) Act, 1945.
+Amendment of sub-section (2) of section 6 of Tuberculosis (Establishment of Sanatoria) Act, 1945. (Repealed)
 
 19.—...

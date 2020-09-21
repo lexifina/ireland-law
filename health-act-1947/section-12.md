@@ -1,3 +1,3 @@
-Agreement for use of institution.
+Agreement for use of institution. (Repealed)
 
 12.—...

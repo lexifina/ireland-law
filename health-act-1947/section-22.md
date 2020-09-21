@@ -1,3 +1,3 @@
-Attendance to health of children not pupils of schools.
+Attendance to health of children not pupils of schools. (Repealed)
 
 22.—...

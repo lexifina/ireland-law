@@ -1,3 +1,3 @@
-District medical officers of health.
+District medical officers of health. (Repealed)
 
 73.—...

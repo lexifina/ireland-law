@@ -1,3 +1,3 @@
-Assistant county medical officers.
+Assistant county medical officers. (Repealed)
 
 70.—...

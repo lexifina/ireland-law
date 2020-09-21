@@ -1,3 +1,3 @@
-Provision of ambulances.
+Provision of ambulances. (Repealed)
 
 104.—...

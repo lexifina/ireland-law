@@ -1,3 +1,3 @@
-Obligation to submit children to medical inspection.
+Obligation to submit children to medical inspection. (Repealed)
 
 25.—...

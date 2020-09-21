@@ -1,3 +1,3 @@
-Health inspectors.
+Health inspectors. (Repealed)
 
 75.—...

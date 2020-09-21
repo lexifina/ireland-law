@@ -1,3 +1,3 @@
-Management of health institutions.
+Management of health institutions. (Repealed)
 
 18.—...

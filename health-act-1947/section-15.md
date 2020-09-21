@@ -1,3 +1,3 @@
-Transfer of institution maintained by sanitary authority.
+Transfer of institution maintained by sanitary authority. (Repealed)
 
 15.—...

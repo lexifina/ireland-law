@@ -1,3 +1,3 @@
-Assistant city medical officers.
+Assistant city medical officers. (Repealed)
 
 72.—...

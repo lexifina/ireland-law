@@ -1,3 +1,3 @@
-Borrowing by health authority.
+Borrowing by health authority. (Repealed)
 
 103.—...

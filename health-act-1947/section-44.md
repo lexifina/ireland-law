@@ -1,3 +1,3 @@
-Maintenance
+Maintenance of person suffering from infectious disease, etc. (Repealed)
 
 44.—...

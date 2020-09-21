@@ -1,3 +1,3 @@
-Affording of facilities for medical inspection of children at schools.
+Affording of facilities for medical inspection of children at schools. (Repealed)
 
 26.—...

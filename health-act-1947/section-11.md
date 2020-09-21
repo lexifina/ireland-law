@@ -1,3 +1,3 @@
-Discontinuance of health institution.
+Discontinuance of health institution. (Repealed)
 
 11.—...

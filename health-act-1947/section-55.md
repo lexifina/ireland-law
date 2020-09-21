@@ -1,3 +1,3 @@
-Licensing and registration of persons and premises.
+Licensing and registration of persons and premises. (Repealed)
 
 55.—...
