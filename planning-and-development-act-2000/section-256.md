@@ -1,3 +1,3 @@
-Amendment
+Amendment of Environmental Protection Agency Act, 1992. (Repealed)
 
 256.—...

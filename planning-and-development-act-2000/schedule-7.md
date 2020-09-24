@@ -74,7 +74,7 @@ Environmental Infrastructure
 
 —Any works for the transfer of water resources between river basins, where the annual volume of water abstracted or recharged would exceed 2 million cubic metres.
 
-—A waste water treatment plant with a capacity greater than a population equivalent of 10,000 and, for the purpose of this provision, population equivalent shall be determined in accordance with Article 2, point 6, of Council Directive 91/271/EEC.
+—A waste water treatment plant with a capacity greater than a population equivalent of 10,000 and, for the purpose of this provision, population equivalent shall be determined in accordance with Article 2, point 6, of Council Directive 91/271/EEC .
 
 —A sludge-deposition site with the capacity for the annual deposition of 50,000 tonnes of sludge (wet).
 

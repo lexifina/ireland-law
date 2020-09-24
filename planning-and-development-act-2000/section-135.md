@@ -52,7 +52,7 @@ Supplemental provisions relating to oral hearings.
 
 (3) A person conducting an oral hearing of any appeal, application or referral may require any officer of a planning authority or a local authority to give to him or her any information in relation to the appeal, application or referral which he or she reasonably requires for the purposes of the appeal, application or referral, and it shall be the duty of the officer to comply with the requirement.
 
-(4) A person conducting an oral hearing of any appeal, referral or applicationmay take evidence on oath or affirmation and for that purpose may administer oaths or affirmations, and a person giving evidence at any such hearing shall be entitled to the same immunities and privileges as if he or she were a witness before the High Court.
+(4) A person conducting an oral hearing of any appeal, referral or application may take evidence on oath or affirmation and for that purpose may administer oaths or affirmations, and a person giving evidence at any such hearing shall be entitled to the same immunities and privileges as if he or she were a witness before the High Court.
 
 (5) (a) Subject to paragraph (b), the Board in relation to an oral hearing of any appeal, referral or application may, by giving notice in that behalf in writing to any person, require that person to do either or both of the following:
 

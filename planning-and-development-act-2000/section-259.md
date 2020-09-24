@@ -1,3 +1,3 @@
-Limitation of section 53 of the Waterworks Clauses Act, 1847.
+Limitation of section 53 of the Waterworks Clauses Act, 1847. (Repealed)
 
 259.—...

@@ -1,3 +1,3 @@
-Regulations under this Part.
+Regulations under this Part. (Repealed)
 
 100.—...

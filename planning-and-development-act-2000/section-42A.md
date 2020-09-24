@@ -1,3 +1,3 @@
-Power
+Power to extend appropriate period on application of NAMA. (Repealed)
 
 42A.—...

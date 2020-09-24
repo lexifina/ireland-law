@@ -1,3 +1,3 @@
-Controls on resale of certain houses.
+Controls on resale of certain houses. (Repealed)
 
 99.—...
