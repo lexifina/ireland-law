@@ -1,8 +1,10 @@
 Submission of documents, etc. to Board by planning authorities.
 
-128.— (1) Where an appeal or referral is made to the Board the planning authority of concerned shall, within a period of 2 weeks beginning on the day on which a copy of documents, the appeal or referral is sent to it by the Board, submit to the Board— etc. to Board by planning
+128.— (1) Where an appeal or referral is made to the Board the planning authority
 
-(a) in the case of an appeal under section 37— authorities.
+Submission concerned shall, within a period of 2 weeks beginning on the day on which a copy of of the appeal or referral is sent to it by the Board, submit to the Board— documents, etc. to Board
+
+(a) in the case of an appeal under section 37— by planning authorities.
 
 (i) a copy of the planning application concerned and of any drawings, maps, particulars, evidence, environmental impact assessment report, other written study or further information received or obtained by it from the applicant in accordance with regulations under this Act,
 
