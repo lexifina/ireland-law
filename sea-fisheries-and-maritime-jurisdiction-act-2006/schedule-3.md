@@ -12,13 +12,13 @@ European Communities (Animal By-products) Regulations 2003 (S.I. No. 248 of 2003
 
 European Communities (Labelling of Fishery and Aquaculture (S.I. No. 320 of 2003) Products) Regulations 2003
 
-European Communities (Financing of Veterinary Inspections and (S.I. No. 544 of 2003) Controls on Fish and Fishery Products at Approved Establishments and on Factory Vessels) Regulations 2003
+European Communities (Financing of Veterinary Inspections (S.I. No. 544 of 2003) and Controls on Fish and Fishery Products at Approved Establishments and on Factory Vessels) Regulations 2003
 
-European Communities (Financing of Veterinary Inspections and (S.I. No. 545 of 2003) Controls on Fish and Fishery Products on Irish Fishing Vessels) Regulations 2003
+European Communities (Financing of Veterinary Inspections (S.I. No. 545 of 2003) and Controls on Fish and Fishery Products on Irish Fishing Vessels) Regulations 2003
 
-European Communities (Financing of Veterinary Inspections and (S.I. No. 546 of 2003) Controls on Fish and Fishery Products at Border Inspection Posts) Regulations 2003
+European Communities (Financing of Veterinary Inspections (S.I. No. 546 of 2003) and Controls on Fish and Fishery Products at Border Inspection Posts) Regulations 2003
 
-European Communities (Financing of Veterinary Inspections and (S.I. No. 547 of 2003) Controls on Fresh Fish landed by Third Country Vessels) Regulations 2003
+European Communities (Financing of Veterinary Inspections (S.I. No. 547 of 2003) and Controls on Fresh Fish landed by Third Country Vessels) Regulations 2003
 
 European Communities (Veterinary Checks on Fish and Fishery (S.I. No. 548 of 2003) Products Imported from Third Countries) Regulations 2003
 

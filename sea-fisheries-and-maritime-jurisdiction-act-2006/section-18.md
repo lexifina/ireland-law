@@ -1,6 +1,6 @@
 Powers of sea-fisheries protection officer relating to fishing boats.
 
-18.— (1) A sea-fisheries protection officer, for the purposes of enforcing the Sea- Fisheries Acts 2003 and 2006 or a Community Regulation with respect to any sea-fishing boat within a port in the State, the exclusive fishery limits or (subject to Community law or international law) outside those limits, may—
+18.— (1) A sea-fisheries protection officer, for the purposes of enforcing the Sea-Fisheries Acts 2003 and 2006 or a Community Regulation with respect to any sea-fishing boat within a port in the State, the exclusive fishery limits or (subject to Community law or international law) outside those limits, may—
 
 (a) if the boat is underway, order it to be stopped or be manoeuvred as directed for the purposes of identification or of allowing the officer to go on board it,
 

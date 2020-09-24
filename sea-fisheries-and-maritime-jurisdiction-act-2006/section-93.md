@@ -22,7 +22,7 @@ Adaptation of enactments.
 
 (6) Section 36(4) of the Criminal Justice Act 1994 is amended by substituting “Section 90 of the Sea-Fisheries and Maritime Jurisdiction Act 2006” for “Section 11 of the Maritime Jurisdiction Act 1959”.
 
-(7) Section 1 of the Sea Pollution (Amendment) Act 1999 is amended by substituting for subsection (2)the following:
+(7) Section 1 of the Sea Pollution (Amendment) Act 1999 is amended by substituting for subsection (2) the following:
 
 “(2) A reference in this Act to the State includes a reference to—
 

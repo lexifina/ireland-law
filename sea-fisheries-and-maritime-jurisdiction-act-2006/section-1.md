@@ -8,7 +8,7 @@ Short title, collective citation and construction.
 
 (3) The Fisheries (Amendment) Act 1997, sections 2, 3 and 4 of the Fisheries and Foreshore (Amendment) Act 1998, the Fisheries (Amendment) Act 2001 and section 101 may be cited together as the Aquaculture Acts 1997 to 2006 and shall be construed together as one.
 
-(4) The Fisheries Acts 1959 to 2003 and this Act (other than Part 3 and sections 100, 102, 103 and 104) may be cited together as the Fisheries Acts 1959 to 2006 and shall be construed together as one.
+(4) The Fisheries Acts 1959 to 2003 and this Act (other than Part 3 and sections 100, 102 , 103 and 104 ) may be cited together as the Fisheries Acts 1959 to 2006 and shall be construed together as one.
 
 (5) The Act of 1955 and section 100 may be cited together as the Mercantile Marine Acts 1955 and 2006.
 

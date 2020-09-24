@@ -1,4 +1,4 @@
-Prosecution of summary offences —
+Prosecution of summary offences —Sea-Fisheries Acts 2003and2006.
 
 38.— (1) Proceedings for an offence under the Sea-Fisheries Acts 2003 and 2006 (other than a section specified in a Table) may be prosecuted summarily by the Minister.
 

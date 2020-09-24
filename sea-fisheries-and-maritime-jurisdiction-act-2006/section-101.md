@@ -60,9 +60,9 @@ Miscellaneous amendments to Fisheries (Amendment) Act 1997 — aquaculture.
 
 Prosecutor
 
-65B.— (1) Where any proceedings tried summarily in the District Court for an may appeal offence under this Act are dismissed, whether on the merits or without prejudice, dismissal the prosecutor may appeal against the order of dismissal to the judge of the of proceed-
+65B.— (1) Where any proceedings tried summarily in the District Court for an may appeal offence under this Act are dismissed, whether on the merits or without prejudice, dismissal the prosecutor may appeal against the order of dismissal to the judge of the of
 
-Circuit Court within whose Circuit the courthouse in which the order was made ings in District is situated.
+Circuit Court within whose Circuit the courthouse in which the order was made proceedings in District is situated.
 
 Court.
 
@@ -76,7 +76,7 @@ Court.
 
 Permission
 
-67B.— The Minister may, on the application of a licensee and subject to such of use of conditions (if any) as the Minister may consider appropriate in the circumstances novel or and specifies in writing, permit the licensee to use novel or experimental experimen- equipment within the licensed area for such period as the Minister specifies in tal equipment by writing. Such permission shall be granted only if the Minister is satisfied that licensee. the use of the novel or experimental equipment will have no greater environmental or visual impact than that which existed prior to the introduction and use of such equipment and shall be noted in the register of licences maintained under section 78.”,
+67B.— The Minister may, on the application of a licensee and subject to such of use of conditions (if any) as the Minister may consider appropriate in the circumstances novel or and specifies in writing, permit the licensee to use novel or experimental experimental equipment within the licensed area for such period as the Minister specifies in equipment by writing. Such permission shall be granted only if the Minister is satisfied that licensee. the use of the novel or experimental equipment will have no greater environmental or visual impact than that which existed prior to the introduction and use of such equipment and shall be noted in the register of licences maintained under section 78.”,
 
 (i) in section 68(1) and (2), by deleting “and section 69(2)”, and
 

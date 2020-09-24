@@ -1,4 +1,4 @@
-Prosecution of summary offences —
+Prosecution of summary offences —Fisheries Acts 1959 to 2006.
 
 96.— (1) Proceedings for an offence under the Fisheries Acts 1959 to 2006 may be prosecuted summarily by the Minister.
 
