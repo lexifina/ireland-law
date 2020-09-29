@@ -1,4 +1,4 @@
-Statutory protection —
+Statutory
 
 28.—(1) Where a person has, under a tenancy, been in occupation of a dwelling for a continuous period of 6 months then, if the condition specified in subsection (3) is satisfied, the following protection applies for the benefit of that person.
 
