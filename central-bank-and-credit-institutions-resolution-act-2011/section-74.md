@@ -2,7 +2,7 @@ Termination of special management.
 
 74.— The special management of an authorised credit institution, subsidiary or holding company terminates—
 
-(a) at the end of the period referred to in section 63 or73, as the case may be,
+(a) at the end of the period referred to in section 63 or 73, as the case may be,
 
 (b) on the setting aside of the relevant special management order,
 

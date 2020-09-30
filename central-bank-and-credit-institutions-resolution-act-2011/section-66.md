@@ -4,7 +4,7 @@ Effect of special management order — general.
 
 (a) immediately, to the extent that the Court so orders,
 
-(b) if an application is made under section 60 or 61, at the time ordered by the Court on hearing that application, or
+(b) if an application is made under section 60 or 61 , at the time ordered by the Court on hearing that application, or
 
 (c) if no such application is made—
 

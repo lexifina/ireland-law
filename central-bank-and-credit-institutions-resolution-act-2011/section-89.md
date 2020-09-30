@@ -8,9 +8,7 @@ Section 2(1) After the definition of “Act of 2003”, insert:
 
 Section 2(1) After the definition of “auditor” insert:
 
-Section 2(1) Before the definition of “book and paper” insert:
-
-Section 217 Insert “or the Bank” after “any creditor or contributory”.
+Section 2(1) Before the definition of “book and paper” insert: Section 217 Insert “or the Bank” after “any creditor or contributory”.
 
 Section 223 Delete.
 
@@ -20,7 +18,9 @@ Section 234(2) Substitute “Subject to subsection (2A), the Court” for “the
 
 Section 234 After subsection (2), insert:
 
-Section 243(1) Substitute: Section 243 Before subsection (2), insert:
+Section 243(1) Substitute:
+
+Section 243 Before subsection (2), insert:
 
 (1C) In considering an application under this section, the Court shall have regard to the liquidator’s duty to secure the achievement of Objective 1 described
 
