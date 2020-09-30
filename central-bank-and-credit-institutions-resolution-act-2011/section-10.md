@@ -6,7 +6,7 @@ Credit Institutions Resolution Fund.
 
 (2) The purpose of the Fund is to provide a source of funding for the resolution of financial instability in, or an imminent serious threat to the financial stability of, an authorised credit institution, and in particular—
 
-(a)...
+(a) ...
 
 (b) to provide funds for any payment required pursuant to section 37(1), 42(5), 46, 48 or 98,
 

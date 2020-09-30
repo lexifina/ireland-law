@@ -14,7 +14,11 @@ Effect of appointment of special manager.
 
 (f) subject to subsection (2), no receiver over any part of the property of that credit institution, subsidiary or holding company may be appointed without the prior consent in writing of the Bank,
 
-(g) subject to subsection (2), no enforcement (whether by attachment, sequestration, distress or execution) of any judgment or order may be put into force against any part of the property of that credit institution, subsidiary or holding company without the prior consent in writing of the Bank, unless the party seeking to do so is the Bank,
+(g) subject to
+
+## subsection
+
+(2), no enforcement (whether by attachment, sequestration, distress or execution) of any judgment or order may be put into force against any part of the property of that credit institution, subsidiary or holding company without the prior consent in writing of the Bank, unless the party seeking to do so is the Bank,
 
 (h) subject to subsection (2), if any claim against an authorised credit institution, subsidiary or holding company is secured by security affecting the whole or any part of the assets of that credit institution, subsidiary or holding company, any person other than the Bank who wishes to realise the whole or any part of that security shall give written notice to the Bank 90 days (or a shorter period to which the Bank agrees) before such realisation, and
 

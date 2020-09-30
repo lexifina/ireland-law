@@ -1,6 +1,6 @@
 Report by Assessor.
 
-42.— (1) When the Assessor has determined, in accordance withsection 40, the fair and reasonable amount of compensation, if any, payable to each creditor who has applied for it, the Assessor shall report to the Bank—
+42.— (1) When the Assessor has determined, in accordance with section 40, the fair and reasonable amount of compensation, if any, payable to each creditor who has applied for it, the Assessor shall report to the Bank—
 
 (a) the name of each such creditor,
 

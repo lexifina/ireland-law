@@ -50,7 +50,7 @@ Effect of transfer order — general.
 
 (j) where, immediately before the time of the transfer, any legal proceedings are pending to which the transferor is a party, and the proceedings have reference to the assets and liabilities transferred, the proceedings continue, and the name of the transferee is substituted (to any extent necessary) for that of the transferor.
 
-(5)If the transferor is an authorised credit institution and a share account is included in the transfer of assets and liabilities —
+(5) If the transferor is an authorised credit institution and a share account is included in the transfer of assets and liabilities —
 
 (a) where the transferee is a credit institution or a building society—
 

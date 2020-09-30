@@ -1,6 +1,6 @@
 ## PART 5 TRANSFER OF ASSETS AND LIABILITIES
 
-Interpretation (Part 5).
+Interpretation (Part 5 ).
 
 20.— (1) In this Part—
 
