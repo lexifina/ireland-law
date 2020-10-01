@@ -1,4 +1,4 @@
-F38[Application for Irish driving licence.
+F38[ Application for Irish driving licence.
 
 22.—(1) Subject to this Part, a person may apply to a licensing authority for a licence (‘Irish driving licence’) to drive a mechanically propelled vehicle of a specified category.
 

@@ -1,4 +1,4 @@
-F43[Recognition of foreign driving licences.
+F43[ Recognition of foreign driving licences.
 
 23A.—(1) The Minister may by order declare that a licence or permit permitting a person to drive a mechanically propelled vehicle, not being a licence or permit issued to a person to enable that person to learn or provisionally to drive such a vehicle, issued by the competent authority of a state other than the State, shall be recognised for the purpose of exchange of that licence or permit for a driving licence, in respect of any one or more of the categories in respect of which the licence or permit is held, and subject to such restrictions, if any, as may be specified in the order.
 
