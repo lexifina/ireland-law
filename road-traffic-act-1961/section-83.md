@@ -1,3 +1,3 @@
-Annual inspection and verification of taximeters.
+Annual inspection and verification of taximeters. (Repealed)
 
 83.—...

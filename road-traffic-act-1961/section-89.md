@@ -1,3 +1,3 @@
-Bye-laws for the control of traffic and pedestrians in specified areas.
+Bye-laws for the control of traffic and pedestrians in specified areas. (Repealed)
 
 89.—...

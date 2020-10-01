@@ -1,3 +1,3 @@
-General speed limit
+General speed limit (Repealed)
 
 44A. —...

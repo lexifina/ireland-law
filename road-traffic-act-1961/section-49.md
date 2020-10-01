@@ -1,3 +1,3 @@
-Driving mechanically propelled vehicle while under influence of intoxicating liquor or drug.
+Driving mechanically propelled vehicle while under influence of intoxicating liquor or drug. (Repealed)
 
 49.—...

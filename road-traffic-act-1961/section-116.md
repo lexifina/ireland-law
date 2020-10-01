@@ -1,3 +1,3 @@
-Liability of Minister for Finance for negligent use of mechanically propelled vehicle.
+Liability of Minister for Finance for negligent use of mechanically propelled vehicle. (Repealed)
 
 116.—...

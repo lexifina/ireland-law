@@ -1,3 +1,3 @@
-Transfer of endorsement to new licence.
+Transfer of endorsement to new licence. (Repealed)
 
 37.—...

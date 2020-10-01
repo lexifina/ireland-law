@@ -1,3 +1,3 @@
-Special provision applying where certain offences are alleged to have been committed.
+Special provision applying where certain offences are alleged to have been committed. (Repealed)
 
 103.—...

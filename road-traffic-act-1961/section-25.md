@@ -1,3 +1,3 @@
-Period during which driving licence has effect.
+Period during which driving licence has effect. (Repealed)
 
 25.—...

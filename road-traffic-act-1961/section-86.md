@@ -1,3 +1,3 @@
-Bye-laws
+Bye-laws with respect to stopping places and stands for omnibuses. (Repealed)
 
 86.—...

@@ -1,3 +1,3 @@
-Special speed limits.
+Special speed limits. (Repealed)
 
 46.—...

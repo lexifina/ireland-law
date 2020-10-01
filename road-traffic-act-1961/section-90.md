@@ -1,3 +1,3 @@
-Parking of vehicles on public roads.
+Parking of vehicles on public roads. (Repealed)
 
 90.—...

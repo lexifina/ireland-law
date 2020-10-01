@@ -1,3 +1,3 @@
-Reimbursement of hospitals.
+Reimbursement of hospitals. (Repealed)
 
 119.—...

@@ -1,3 +1,3 @@
-Extension of personal liability for negligent use of mechanically propelled vehicle.
+Extension of personal liability for negligent use of mechanically propelled vehicle. (Repealed)
 
 117.—...

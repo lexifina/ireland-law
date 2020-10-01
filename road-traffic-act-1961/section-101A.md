@@ -1,3 +1,3 @@
-Control of vehicles by bollards and ramps.
+Control of vehicles by bollards and ramps. (Repealed)
 
 101A.—...

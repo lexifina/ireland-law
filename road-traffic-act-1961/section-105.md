@@ -1,3 +1,3 @@
-Evidence of speed.
+Evidence of speed. (Repealed)
 
 105.—...

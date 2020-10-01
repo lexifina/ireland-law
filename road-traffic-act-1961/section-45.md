@@ -1,3 +1,3 @@
-Built-up area speed limits.
+Built-up area speed limits. (Repealed)
 
 45.—...

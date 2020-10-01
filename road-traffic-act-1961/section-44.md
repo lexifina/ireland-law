@@ -1,5 +1,5 @@
 ## PART IV. SPEED LIMITS.
 
-Ordinary speed limits.
+Ordinary speed limits. (Repealed)
 
 44.—...
