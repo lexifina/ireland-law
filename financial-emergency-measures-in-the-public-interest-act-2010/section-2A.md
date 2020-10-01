@@ -46,9 +46,9 @@ Annualised amount of public service pension Reduction
 
 Up to €60,000 Exempt
 
-Any amount over €60,000 but not over €100,000 5 per cent
+Any amount over €60,000 but not over €100,000
 
-Any amount over €100,000 8 per cent
+Any amount over €100,000 6 per cent
 
 (4) Where the application to a pensioner of subsection (3) and the appropriate Table in that subsection would result in the annualised amount of his or her public service pension being reduced to less than €32,500, then that subsection and Table shall only operate to reduce the annualised amount of his or her public service pension to €32,500.
 
