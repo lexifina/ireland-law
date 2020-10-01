@@ -1,4 +1,4 @@
-Compulsory retirement age for new entrants to Garda Síochá- na.
+Compulsory retirement age for new entrants to Garda Síochána.
 
 4.—(1) A person who is appointed as a new entrant to the Garda Síochána on or after 1 April 2004 shall cease to be a member—
 
