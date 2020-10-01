@@ -26,4 +26,4 @@ Production of driving licence to member of Garda Síochána subsequent to commis
 
 (8) A requirement under this section shall not be made after the time in which proceedings may be brought in respect of the alleged offence.
 
-(9)Section 33 of the Act of 2004 is repealed.
+(9) Section 33 of the Act of 2004 is repealed.

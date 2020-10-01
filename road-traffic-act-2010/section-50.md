@@ -102,9 +102,9 @@ Payment deposit from non-resident drivers in respect of certain alleged offences
 
 (15) Where a person who has paid a payment deposit and has also been served with a fixed charge notice relating to the same alleged offence agrees to make payment of the fixed charge specified in the fixed charge notice, any amount paid by the person in respect of the payment deposit shall be deemed to be payment or part payment, as the case may be, made in respect of the fixed charge. The remainder (if any) shall be returned to the person.
 
-(16) Where, in proceedings for an offence to which this section applies, a person is convicted, any payment deposit he or she has paid shall be applied towards payment of any fine imposed. The remainder (if any) shall be returned to the person in accordance with regulationsunder subsection (7).
+(16) Where, in proceedings for an offence to which this section applies, a person is convicted, any payment deposit he or she has paid shall be applied towards payment of any fine imposed. The remainder (if any) shall be returned to the person in accordance with regulations under subsection (7).
 
-(17) Where, in proceedings for an offence to which this section applies, the person is not convicted any payment deposit he or she has paid shall be returned to the person in accordance with regulationsunder subsection (7).
+(17) Where, in proceedings for an offence to which this section applies, the person is not convicted any payment deposit he or she has paid shall be returned to the person in accordance with regulations under subsection (7).
 
 (18) Where proceedings are not brought or, if brought, are withdrawn or otherwise discontinued in respect of an offence to which this section applies, any payment deposit paid by the person concerned shall be returned to the person in accordance with regulations under subsection (7).
 

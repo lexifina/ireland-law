@@ -2,7 +2,7 @@
 
 ## CHAPTER 1 General
 
-Interpretation —
+Interpretation —Part 2.
 
 3.— (1) In this Part—
 

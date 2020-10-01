@@ -10,7 +10,7 @@ Reference Drug Level Number (2) (units in whole blood)
 
 1 Δ-Tetrahydrocannabinol 1ng /ml (Cannabis)
 
-2 11-nor-9-carboxy-Δ-tetrahydro- 5ng /ml cannabinol (Cannabis)
+2 11-nor-9- 5ng /ml carboxy-Δ-tetrahydrocannabinol (Cannabis)
 
 3 Cocaine 10ng /ml
 

@@ -1,6 +1,6 @@
 ## CHAPTER 10 Repeals (Part 2)
 
-Repeals —
+Repeals —Part 2.
 
 33.— The following are repealed:
 
