@@ -1,6 +1,6 @@
 Offences.
 
-6.— (1) A person guilty of an offence under subsection (16) or (17) of section 9 or subsection (5) of section 19shall be liable on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 6 months or both.
+6.— (1) A person guilty of an offence under subsection (16) or (17) of section 9 or subsection (5) of section 19 shall be liable on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 6 months or both.
 
 (2) A person guilty of an offence under section 12(7), 21(7), 22, or 23 shall be liable—
 
