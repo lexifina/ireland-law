@@ -6,7 +6,7 @@ Amendments of other Acts.
 
 (3) The Company Law Enforcement Act 2001 is amended as set out in Part 3 of Schedule 2.
 
-(4) The Consumer Credit Act 1995 is amended as set out in Part 4 of Schedule 2.
+(4) The Consumer Credit Act 1995 is amended as set out in Part 4 of Schedule 2 .
 
 (5) The Consumer Protection Act 2007 is amended as set out in Part 5 of Schedule 2.
 

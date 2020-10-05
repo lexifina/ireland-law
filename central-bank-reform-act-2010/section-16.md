@@ -12,7 +12,7 @@ Amendments of statutory instruments.
 
 (6) The Prospectus (Directive 2003/71/EC) Regulations 2005 (S.I. No. 324 of 2005) are amended as set out in Part 6 of Schedule 3.
 
-(7) The Transparency (Directive 2004/109/EC) Regulations 2007 (S.I. No. 277 of 2007) are amended as set out in Part 7 of Schedule 3.
+(7) The Transparency (Directive 2004/109/EC) Regulations 2007 (S.I. No. 277 of 2007) are amended as set out in Part 7 of Schedule 3 .
 
 (8) If a provision of an Order made pursuant to section 4 of the Financial Transfers Act 1992 provides that the Central Bank and Financial Services Authority of Ireland may give directions or issue instructions for any purpose, the provision is amended by deleting “Central Bank and Financial Services Authority of Ireland” and substituting “Central Bank of Ireland”.
 
