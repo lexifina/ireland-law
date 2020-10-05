@@ -12,8 +12,8 @@ Amendments of Central Bank Acts.
 
 (4) The Central Bank Act 1971 is amended as set out in Part 3 of Schedule 1.
 
-(5) The Central Bank Act 1989 is amended as set out in Part 4 of Schedule 1.
+(5) The Central Bank Act 1989 is amended as set out in Part 4 of Schedule 1 .
 
-(6) The Central Bank Act 1997 is amended as set out in Part 5 of Schedule 1.
+(6) The Central Bank Act 1997 is amended as set out in Part 5 of Schedule 1 .
 
-(7) The Central Bank Act 1998 is amended as set out in Part 6 of Schedule 1.
+(7) The Central Bank Act 1998 is amended as set out in Part 6 of Schedule 1 .
