@@ -76,6 +76,8 @@ Application for licence under section 7 to fell trees
 
 (b) prescribe the placement of public notices on all sites where felling is taking place advising that the felling is properly licensed,
 
+(ba) provide for the publication, on a website maintained by or on behalf of the Minister, of documents and information furnished to the Minister for the purposes of an application for a licence,
+
 (c) provide for the publication of decisions made in respect of licence applications, and
 
 (d) provide for any matters ancillary or incidental to matters in this section.

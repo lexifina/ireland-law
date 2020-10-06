@@ -66,6 +66,8 @@ Granting of licences by Minister for afforestation and certain other activities
 
 (c) prescribe the placement of public notices on all sites where afforestation, forest road works or aerial fertilisation of forests is proposed,
 
+(ca) provide for the publication, on a website maintained by or on behalf of the Minister, of documents and information furnished to the Minister for the purposes of an application for a licence,
+
 (d) provide for the publication of decisions made in respect of licence applications, and
 
 (e) provide for any matters ancillary or incidental to matters in this section.
