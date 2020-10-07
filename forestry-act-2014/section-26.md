@@ -12,7 +12,7 @@ Replanting orders
 
 (2) Subsection (1) applies whether or not a prosecution has been or may be brought.
 
-(3)Section 17(4) (other than paragraph (a)) shall apply to a replanting order with the substitution of “replanting order made” for “licence granted” and any other necessary modifications.
+(3) Section 17(4) (other than paragraph (a)) shall apply to a replanting order with the substitution of “replanting order made” for “licence granted” and any other necessary modifications.
 
 (4) A replanting order may include any or all of the conditions specified in section 17(4) with any necessary modifications.
 
