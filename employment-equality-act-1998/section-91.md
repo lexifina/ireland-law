@@ -1,6 +1,6 @@
 ## Enforcement by Circuit Court
 
-Enforcement of determinations, decisions and mediated settle-ments.
+Enforcement
 
 91. (1) Section 43 of the Act of 2015 shall apply to a decision of the Director General of the Workplace Relations Commission under section 79 as it applies to a decision of an adjudication officer under section 41 of that Act, subject to—
 
