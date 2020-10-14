@@ -136,9 +136,7 @@ Provisional measures
 
 Nothing in this Convention shall prevent a Contracting State, in time of war or other grave and exceptional circumstances, from taking provisionally measures which it considers to be essential to the national security in the case of a particular person, pending a determination by the Contracting State that that person is in fact a refugee and that the continuance of such measures is necessary in his case in the interests of national security.
 
-Article 10
-
-Continuity of residence
+Article 10 Continuity of residence
 
 1. Where a refugee has been forcibly displaced during the Second World War and removed to the territory of a Contracting State, and is resident there, the period of such enforced sojourn shall be considered to have been lawful residence within that territory.
 
@@ -276,7 +274,9 @@ Labour legislation and social security
 
 Chapter V
 
-ADMINISTRATIVE MEASURES Article 25
+ADMINISTRATIVE MEASURES
+
+Article 25
 
 Administrative assistance
 
@@ -382,7 +382,9 @@ Information on national legislation
 
 The Contracting States shall communicate to the Secretary-General of the United Nations the laws and regulations which they may adopt to ensure the application of this Convention.
 
-Article 37 Relation to previous Conventions
+Article 37
+
+Relation to previous Conventions
 
 Without prejudice to article 28, paragraph 2, of this Convention, this Convention replaces, as between parties to it, the Arrangements of 5 July 1922, 31 May 1924, 12 May 1926, 30 June 1928 and 30 July 1935, the Conventions of 28 October 1933 and 10 February 1938, the Protocol of 14 September 1939 and the Agreement of 15 October 1946.
 
@@ -448,7 +450,7 @@ Article 44 Denunciation
 
 1. Any Contracting State may denounce this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
 
-2. Such denunciation shall take effect for the Contracting State concerned one year from the date upon which it is received by the Secretary- General of the United Nations.
+2. Such denunciation shall take effect for the Contracting State concerned one year from the date upon which it is received by the Secretary-General of the United Nations.
 
 3. Any State which has made a declaration or notification under article 40 may, at any time thereafter, by a notification to the Secretary-General of the United Nations, declare that the Convention shall cease to extend to such territory one year after the date of receipt of the notification by the Secretary-General.
 

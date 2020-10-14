@@ -76,9 +76,9 @@ Interpretation
 
 (b) as a person eligible for subsidiary protection, on the basis of a subsidiary protection declaration;
 
-“international protection officer” means a person who is authorised under section 74 to perform the functions conferred on an international protection officer by or under this Act;
-
 Regulation;
+
+“international protection officer” means a person who is authorised under section 74 to perform the functions conferred on an international protection officer by or under this Act;
 
 “legal assistance” means legal aid or legal advice, within the meaning of the Civil Legal Aid Act 1995;
 
