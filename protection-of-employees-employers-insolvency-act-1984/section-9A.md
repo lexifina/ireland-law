@@ -1,4 +1,4 @@
-F72[Appeal to Labour Court from declaration of adjudication officer under section 9
+F80[Appeal to Labour Court from declaration of adjudication officer under section 9
 
 9A. Section 44 of the Act of 2015 shall apply to a declaration of an adjudication officer given in relation to a complaint under section 9 as it applies to a decision of an adjudication officer given in proceedings under section 41 of that Act, subject to the following modifications:
 
