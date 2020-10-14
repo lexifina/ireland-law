@@ -24,6 +24,6 @@ Investigation by [Director of the Workplace Relations Commission].
 
 (a) procedures to be followed by the Director of the Workplace Relations Commission in carrying out investigations (or any description of investigation) under this section, and
 
-(b) time limits applicable to such investigations, including procedures for extending those limits in certain circumstances, but before making any such regulations the Minister shall consult theDirector of the Workplace Relations Commission and the Authority.
+(b) time limits applicable to such investigations, including procedures for extending those limits in certain circumstances, but before making any such regulations the Minister shall consult the Director of the Workplace Relations Commission and the Authority.
 
 (4) At the conclusion of an investigation under this section the Director of the Workplace Relations Commission shall make a decision on the case, and the decision, if it is in favour of the complainant, shall provide for redress in accordance with section 27.
