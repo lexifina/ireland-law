@@ -1,3 +1,3 @@
-Family history information.
+Family history information. (Repealed)
 
 43.—...
