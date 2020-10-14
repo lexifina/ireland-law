@@ -1,3 +1,3 @@
-Appeal against non-discrimination notice.
+Appeal against nondiscrimination notice.
 
 63.—...

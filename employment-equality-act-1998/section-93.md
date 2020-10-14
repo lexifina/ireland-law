@@ -1,4 +1,4 @@
-Compensation in lieu of re-instatement or reengagement.
+Compensation in lieu of reinstatement or re-engagement.
 
 93.—(1) On an application under section 91 which relates to a determination or decision requiring an employer to re-instate or re-engage an employee, the Circuit Court may, if in all the circumstances it considers it appropriate to do so, instead of making an order under subsection (1) of that section, make a compensation order under this section.
 

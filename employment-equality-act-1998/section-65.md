@@ -1,3 +1,3 @@
-Injunctions for failure to comply with non-discrimination notice.
+Injunctions for failure to comply with nondiscrimination notice.
 
 65.—...
