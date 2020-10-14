@@ -1,5 +1,3 @@
-## ACTS OF THE OIREACHTAS
-
 Modes of payment of wages.
 
 2.—(1) Wages may be paid by and only by one or more of the following modes:
