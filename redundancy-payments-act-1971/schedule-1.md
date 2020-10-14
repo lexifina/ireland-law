@@ -14,15 +14,15 @@ Section 4. The substitution in subsection (1) of “four years” for “two yea
 
 The insertion after subsection (3) (b) of the following: Provision Nature of Amendment Amended
 
-(1) (2) Provision Nature of Amendment Amended
-
 (1) (2)
 
 Section 5. The insertion in subsection (1) after “47” of “or Section 17 of the Redundancy Payments Act, 1971”.
 
 Section 7. The substitution in subsection (1) (b) of “four years” for “two years”.
 
-The substitution in subsection (5) of “104 weeks” for “208 weeks”.
+The substitution in subsection (5) of “104 weeks” for “208 weeks”. Provision Nature of Amendment Amended
+
+(1) (2)
 
 Section 8. The substitution in subsection (2) of “section 12” for “section 12 (2)”.
 
@@ -48,15 +48,15 @@ The insertion after subsection (2) of the following subsection:
 
 The substitution for subsection (3) of the following:
 
-“(3) Where a person who is entitled to a weekly payment has unreasonably refused suitable employment offered or approved by the National Manpower Service, that person shall be disqualified from receiving a weekly payment for a period not exceeding six weeks.”. Provision Nature of Amendment Amended
-
-(1) (2)
+“(3) Where a person who is entitled to a weekly payment has unreasonably refused suitable employment offered or approved by the National Manpower Service, that person shall be disqualified from receiving a weekly payment for a period not exceeding six weeks.”.
 
 Section 16. The substitution in subsection (3) (a) of “none of the conditions specified in section 7 (2) is fulfilled, but” for “neither of the conditions specified in sections 7 (2) (a) and 7 (2) (b) is fulfilled, but”.
 
 Section 17. The substitution in subsection (1) of “104 weeks” for “four years”.
 
-Section 18. The substitution for subsection (1) of the following:
+Section 18. The substitution for subsection (1) of the following: Provision Nature of Amendment Amended
+
+(1) (2)
 
 “(1) When an employer dismisses by reason of redundancy an employee who has not less than 104 weeks' continuous employment, he shall give to the employee not later than the date of the dismissal a certificate (in this Part referred to as a redundancy certificate).”.
 
@@ -92,9 +92,7 @@ The substitution for paragraph 5 of the following: Provision Nature of Amendment
 
 The insertion in paragraph 6 after “redundancy” of “or by whom he was employed when he gave notice of intention to claim under section 12; provided that he shall, subject to paragraph 5, in every case be entitled to receive not less than four weekly payments”.
 
-The substitution for paragraph 7 of the following: Provision Nature of Amendment Amended
-
-(1) (2)
+The substitution for paragraph 7 of the following:
 
 The substitution in paragraph 9 of “any period referred to in paragraph 4” for “the two-week period mentioned in paragraph 4.”
 
@@ -124,9 +122,7 @@ The deletion in paragraph 1 (b) of “on the date of his dismissal”.
 
 The insertion in paragraph 1 after subparagraph (b) of the following:
 
-The deletion of paragraph 2. Provision Nature of Amendment Amended
-
-(1) (2)
+The deletion of paragraph 2.
 
 The substitution in paragraph 5 (1) for “Where an employee's period of service had been” of “Where an employee's period of employment is or was”.
 
@@ -140,13 +136,15 @@ The deletion of paragraph 5 (1) (b) (iii).
 
 In paragraph 5 (1), the deletion of “has been given” and the substitution of “has or had been given”.
 
-The insertion after paragraph 5 of the following:
-
-The substitution for paragraph 6 of the following: Provision Nature of Amendment Amended
+The insertion after paragraph 5 of the following: Provision Nature of Amendment Amended
 
 (1) (2)
 
-The insertion in paragraph 13 after “work done” where that secondly occurs of “and any payment in kind”.
+The substitution for paragraph 6 of the following:
+
+The insertion in paragraph 13 after “work done” where that secondly occurs of “and any payment in kind”. Provision Nature of Amendment Amended
+
+(1) (2)
 
 The substitution in paragraph 13 for “an employee who is expected to work overtime regularly” of “an employee who is normally expected to work overtime”.
 
