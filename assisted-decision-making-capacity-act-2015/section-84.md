@@ -40,7 +40,9 @@ Making of advance healthcare directives, etc.
 
 (iii) the signature of the person is witnessed in accordance with subsection (6)(b).
 
-(6) (a) The directive-maker, or the person signing on his or her behalf in accordance with subsection (5), and the designated healthcare representative (if any) shall sign the advance healthcare directive in the presence of each other (where applicable) and in the presence of 2 witnesses—
+(6) (a) The directive-maker, or the person signing on his or her behalf in accordance with subsection
+
+(5), and the designated healthcare representative (if any) shall sign the advance healthcare directive in the presence of each other (where applicable) and in the presence of 2 witnesses—
 
 (i) each of whom has attained the age of 18 years, and
 

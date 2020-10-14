@@ -58,9 +58,7 @@ Interpretation — general
 
 “decision-making representative”, in relation to a relevant person, means a person appointed pursuant to a decision-making representation order to make one or more than one decision specified in the order on behalf of the relevant person;
 
-“decision-making representation order
-
-”means an order under section 38(2)(b) as the order is in force from time to time;
+“decision-making representation order”means an order under section 38(2)(b) as the order is in force from time to time;
 
 “designated centre” has the meaning it has in section 2 of the Health Act 2007;
 

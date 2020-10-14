@@ -52,11 +52,13 @@ Codes of practice
 
 (e) representatives of professional bodies in the healthcare, social care, legal and financial sectors;
 
-(f) representatives of healthcare, social care, legal and financial professionals.
+(f ) representatives of healthcare, social care, legal and financial professionals.
 
 (4) The Director shall, before publishing a code of practice pursuant to his or her power under subsection (2)(a) or approving of a code of practice pursuant to his or her power under subsection (2)(c)—
 
-(a) make available, to the persons whom the Director considers appropriate having regard to the matters to which the code relates (which may be any of the persons who fall within paragraphs (a) to (d) of subsection (3) ), in such manner as the Director considers appropriate, a draft of the code,
+(a) make available, to the persons whom the Director considers appropriate having regard to the matters to which the code relates (which may be any of the persons who fall within paragraphs (a) to (d) of subsection
+
+(3) ), in such manner as the Director considers appropriate, a draft of the code,
 
 (b) invite the persons to whom he or she has made the draft available to make representations in writing on it to the Director within a period determined by the Director, being a period of not less than 30 days from the date of making the draft available to those persons,
 
