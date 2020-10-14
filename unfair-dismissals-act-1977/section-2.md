@@ -8,7 +8,7 @@ Exclusions.
 
 (c) a person who is employed by his spouse , civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, father, mother, grandfather, grandmother, step-father, step-mother, son, daughter, grandson, granddaughter, step-son, step-daughter, brother, sister, half-brother or half-sister, is a member of his employer’s household and whose place of employment is a private dwellinghouse or a farm in or on which both the employee and the employer reside,
 
-(d) a person in employment as a member of the Defence Forces, the Judge Advo-cate-General, the chairman of the Army Pensions Board or the ordinary member thereof who is not an officer of the Medical Corps of the Defence Forces,
+(d) a person in employment as a member of the Defence Forces, the Judge Advocate-General, the chairman of the Army Pensions Board or the ordinary member thereof who is not an officer of the Medical Corps of the Defence Forces,
 
 (e) a member of the Garda Síochána,
 
