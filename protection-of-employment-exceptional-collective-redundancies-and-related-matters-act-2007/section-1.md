@@ -1,5 +1,3 @@
-## ACTS OF THE OIREACHTAS
-
 ## PART 1 PRELIMINARY AND GENERAL
 
 Short title, construction and collective citation.

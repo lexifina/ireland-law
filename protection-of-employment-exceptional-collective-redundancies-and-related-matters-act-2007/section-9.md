@@ -22,4 +22,6 @@ Effect of opinion.
 
 (b) the following subsection were substituted for subsection (2) of section 7:
 
-“(2) Without prejudice to the generality of subsection (1), in determining any reduction in the amount of compensation otherwise payable under paragraph (c) of that subsection regard shall be had only to the amount (if any) of severance or redundancy payment accepted by the employee in relation to the dismissal.”.
+“(2) Without prejudice to the generality of subsection (1), in determining any reduction in the amount of compensation otherwise payable under paragraph
+
+(c) of that subsection regard shall be had only to the amount (if any) of severance or redundancy payment accepted by the employee in relation to the dismissal.”.
