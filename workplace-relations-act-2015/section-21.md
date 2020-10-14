@@ -1,5 +1,3 @@
-## PROVISIONS OF ACTS OF THE OIREACHTAS
-
 Strategy statement
 
 21. (1) The Board shall—

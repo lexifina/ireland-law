@@ -8,9 +8,7 @@ Number and Year Short title Provision
 
 (1) (2) (3)
 
-... ... ...
-
-No. 25 of 1991 Payment of Wages Act 1991 Section 5
+... ... ... No. 25 of 1991 Payment of Wages Act 1991 Section 5
 
 No. 34 of 1994 Maternity Protection Act 1994 Section 18
 
