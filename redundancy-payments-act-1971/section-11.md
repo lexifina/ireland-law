@@ -1,4 +1,4 @@
-Right to redundancy payment by reason of layoff or short-time.
+Right to redundancy payment by reason of lay-off or short-time.
 
 11.—The following section is hereby substituted for section 12 of the Principal Act:
 
