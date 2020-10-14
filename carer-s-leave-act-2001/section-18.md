@@ -19,7 +19,3 @@ Reference by employer to Minister for Social, Community and Family Affairs on ce
 (c) the employee is engaging or has engaged in employment or self-employment other than as prescribed under section 82B(3) (inserted by the Act of 2000) of Chapter 11A of Part II of the Act of 1993. for the purposes of Chapter 11A (inserted by the Act of 2000) of Part II of the Act of 1993.
 
 (5) A decision of a deciding officer under subsection (4) may be appealed under section 257 of the Act of 1993.
-
-19....
-
-20....
