@@ -1,4 +1,4 @@
-F31[Decision under section 41 or 44 of Workplace Relations Act 2015.
+F37[Decision under section 41 or 44 of Workplace Relations Act 2015.
 
 21. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute between an employee and his or her employer relating to the entitlements of the employee under this Act (or any matter arising out of or related to those entitlements or otherwise arising under this Act) or a decision of the Labour Court under section 44 of the said Workplace Relations Act 2015 on appeal from the first-mentioned decision, may contain such directions to the parties concerned as the adjudication officer or the Labour Court, as the case may be, considers necessary or expedient for the resolution of the dispute or matter and such other redress as the adjudication officer or the Labour Court, as the case may be, considers appropriate having regard to all of the circumstances and the provisions of this Act, and accordingly may specify—
 
@@ -39,5 +39,3 @@ F31[Decision under section 41 or 44 of Workplace Relations Act 2015.
 (8) Where appropriate, the confirmation document concerned shall be amended by the parties concerned so as to accord with a decision under this section.
 
 (9) In this section ‘remuneration’ includes allowances in the nature of pay and benefits in lieu of or in addition to pay.
-
-22....
