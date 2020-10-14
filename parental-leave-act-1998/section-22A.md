@@ -1,6 +1,6 @@
 ## PART V MISCELLANEOUS
 
-F33[Codes of practice.
+F39[ Codes of practice.
 
 22A.— (1) The Equality Authority may, or if requested to do so by the Minister shall, prepare for submission to the Minister a draft code of practice for the purposes of providing practical guidance as to the steps that may be taken for complying with one or more provisions of this Act.
 

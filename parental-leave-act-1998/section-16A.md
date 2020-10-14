@@ -1,4 +1,4 @@
-F24[Protection of employees from penalisation.
+F30[ Protection of employees from penalisation.
 
 16A.— (1) An employer shall not penalise an employee for proposing to exercise or having exercised his or her entitlement to parental leave or force majeure leave or to make a request under section 15A(2).
 
