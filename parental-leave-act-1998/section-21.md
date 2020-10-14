@@ -39,5 +39,3 @@
 (8) Where appropriate, the confirmation document concerned shall be amended by the parties concerned so as to accord with a decision under this section.
 
 (9) In this section ‘remuneration’ includes allowances in the nature of pay and benefits in lieu of or in addition to pay.
-
-22....
