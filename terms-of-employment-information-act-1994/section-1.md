@@ -1,5 +1,3 @@
-## ACTS OF THE OIREACHTAS
-
 Interpretation.
 
 1.—(1) In this Act—
