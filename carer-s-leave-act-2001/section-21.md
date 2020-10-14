@@ -19,7 +19,3 @@ F11[Decision under section 41 or 44 of Workplace Relations Act 2015.
 (3) Where appropriate, the confirmation document concerned shall be amended by the parties concerned so as to accord with a decision referred to in subsection (1) or (2).
 
 (4) In this section ‘remuneration’ includes allowances in the nature of pay and benefits in lieu of or in addition to pay.
-
-22....
-
-23....
