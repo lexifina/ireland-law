@@ -10,7 +10,7 @@ Supplemental provisions to section 6.
 
 (a) the period of carer’s leave for the first-mentioned relevant person shall not exceed 104 weeks from its commencement, and
 
-(b) the period of carer’s leave for the second-mentioned relevant person shall commence on the date of the decision under section 6(5) or section 6(6) and shall not exceed 104 weeks from its commencement, and the total amount of weeks for such carer’s leave shall not exceed208 weeks.
+(b) the period of carer’s leave for the second-mentioned relevant person shall commence on the date of the decision under section 6(5) or section 6(6) and shall not exceed 104 weeks from its commencement, and the total amount of weeks for such carer’s leave shall not exceed 208 weeks.
 
 (5) An employee who is on carer’s leave in respect of a relevant person and who takes carer’s leave in respect of a second relevant person shall not make another application for carer’s leave in the circumstances referred to in subsection (2).
 
