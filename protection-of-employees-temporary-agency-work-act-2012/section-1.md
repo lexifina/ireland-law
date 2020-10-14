@@ -1,5 +1,3 @@
-## ACTS OF THE OIREACHTAS
-
 ## PART 1 PRELIMINARY AND GENERAL
 
 Short title and commencement.

@@ -40,7 +40,7 @@ Whereas:
 
 (12) This Directive establishes a protective framework for temporary agency workers which is non-discriminatory, transparent and proportionate, while respecting the diversity of labour markets and industrial relations.
 
-(13) Council Directive 91/383/EEC of 25 June 1991 supplementing the measures to encourage improvements in the safety and health at work of workers with a fixed-duration employment relationship or a temporary employment relationship (1) establishes the safety and health provisions applicable to temporary agency workers.
+(13) Council Directive 91/383/EEC of 25 June 1991 supplementing the measures to encourage improvements in the safety and health at work of workers with a fixed-duration employment relationship or a temporary employment (1) establishes the safety and health provisions applicable to relationship temporary agency workers.
 
 (14) The basic working and employment conditions applicable to temporary agency workers should be at least those which would apply to such workers if they were recruited by the user undertaking to occupy the same job.
 
