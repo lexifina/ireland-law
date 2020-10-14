@@ -19,5 +19,3 @@ Prescription of percentages of hourly rates of pay.
 (b) in the case of employees who are 18 years of age, less than 80 per cent, and
 
 (c) in the case of employees who are 19 years of age, less than 90 per cent, of the national minimum hourly rate of pay.
-
-16....
