@@ -36,9 +36,9 @@ Interpretation.
 
 “prescribed” means prescribed by regulations made by the Minister under this Act;
 
-(1) O.J. No. L307, 13.12.93, p.18
-
 “public holiday” shall be construed in accordance with the Second Schedule;
+
+(1) O.J. No. L307, 13.12.93, p.18
 
 “registered employment agreement” has the meaning assigned to it by section 25 of the Industrial Relations Act, 1946;
 
