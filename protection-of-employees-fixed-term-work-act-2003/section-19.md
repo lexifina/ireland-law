@@ -1,4 +1,4 @@
-Amendment of Employment Agency Act 1971, Organisation of Working Time Act 1997 and Protection of Employees (Part-Time Work) Act 2001.
+Amendment of Employment Agency Act 1971, Organisation of Working Time Act 1997 and Protection of Employees (Part- Time Work) Act 2001.
 
 19.—(1) Section 10(1) of the Employment Agency Act 1971 is amended by substituting—
 
