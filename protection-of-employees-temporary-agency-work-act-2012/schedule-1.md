@@ -26,7 +26,15 @@ Whereas:
 
 (5) In the introduction to the framework agreement on fixed-term work concluded on 18 March 1999, the signatories indicated their intention to consider the need for a similar agreement on temporary agency work and decided not to include temporary agency workers in the Directive on fixed-term work.
 
-(6) The general cross-sector organisations, namely the Union of Industrial and Employers’ Confederations of Europe (UNICE) (1), the European Centre of Enterprises with Public Participation and of Enterprises of General Economic Interest (CEEP) and the European Trade Union Confederation (ETUC), informed the Commission in a joint letter of 29 May 2000 of their wish to initiate the process provided for in Article 139 of the Treaty. By a further joint letter of 28 February 2001, they asked the Commission to extend the deadline referred to in Article 138(4) by one month. The Commission granted this request and extended the negotiation deadline until 15 March 2001.
+(6) The general cross-sector organisations, namely the Union of Industrial and Employers’ Confederations of Europe (UNICE) (1), the European Centre of Enterprises with Public Participation and of Enterprises of General Economic
+
+(1) OJ C 61, 14.3.2003, p. 124.
+
+(2) Opinion of the European Parliament of 21 November 2002 (OJ C 25 E, 29.1.2004, p. 368), Council Common Position of 15 September 2008 and Position of the European Parliament of 22 October 2008 (not yet published in the Official Journal). (3) OJ C 303, 14.12.2007, p. 1.
+
+(1) UNICE changed its name to BUSINESSEUROPE in January 2007.
+
+Interest (CEEP) and the European Trade Union Confederation (ETUC), informed the Commission in a joint letter of 29 May 2000 of their wish to initiate the process provided for in Article 139 of the Treaty. By a further joint letter of 28 February 2001, they asked the Commission to extend the deadline referred to in Article 138(4) by one month. The Commission granted this request and extended the negotiation deadline until 15 March 2001.
 
 (7) On 21 May 2001, the social partners acknowledged that their negotiations on temporary agency work had not produced any agreement.
 
@@ -40,13 +48,15 @@ Whereas:
 
 (12) This Directive establishes a protective framework for temporary agency workers which is non-discriminatory, transparent and proportionate, while respecting the diversity of labour markets and industrial relations.
 
-(13) Council Directive 91/383/EEC of 25 June 1991 supplementing the measures to encourage improvements in the safety and health at work of workers with a fixed-duration employment relationship or a temporary employment relationship (1) establishes the safety and health provisions applicable to temporary agency workers.
+(13) Council Directive 91/383/EEC of 25 June 1991 supplementing the measures to encourage improvements in the safety and health at work of workers with a fixed-duration employment relationship or a temporary employment (1) establishes the safety and health provisions applicable to relationship temporary agency workers.
 
 (14) The basic working and employment conditions applicable to temporary agency workers should be at least those which would apply to such workers if they were recruited by the user undertaking to occupy the same job.
 
 (15) Employment contracts of an indefinite duration are the general form of employment relationship. In the case of workers who have a permanent contract with their temporary-work agency, and in view of the special protection such a contract offers, provision should be made to permit exemptions from the rules applicable in the user undertaking.
 
-(16) In order to cope in a flexible way with the diversity of labour markets and industrial relations, Member States may allow the social partners to define working and employment conditions, provided that the overall level of protection for temporary agency workers is respected.
+(16) In order to cope in a flexible way with the diversity of labour markets and industrial relations, Member States may allow the social partners to define
+
+(1) OJ L 206, 29.7.1991, p. 19. working and employment conditions, provided that the overall level of protection for temporary agency workers is respected.
 
 (17) Furthermore, in certain limited circumstances, Member States should, on the basis of an agreement concluded by the social partners at national level, be able to derogate within limits from the principle of equal treatment, so long as an adequate level of protection is provided.
 
@@ -73,6 +83,8 @@ Article 1
 Scope
 
 1. This Directive applies to workers with a contract of employment or employment relationship with a temporary-work agency who are assigned to user undertakings to work temporarily under their supervision and direction.
+
+(1) OJ L 18, 21.1.1997, p. 1.
 
 2. This Directive applies to public and private undertakings which are temporary-work agencies or user undertakings engaged in economic activities whether or not they are operating for gain.
 
@@ -201,6 +213,8 @@ Minimum requirements
 Article 10
 
 Penalties
+
+(1) OJ L 80, 23.3.2002, p. 29.
 
 1. Member States shall provide for appropriate measures in the event of non-compliance with this Directive by temporary-work agencies or user undertakings. In particular, they shall ensure that adequate administrative or judicial procedures are available to enable the obligations deriving from this Directive to be enforced.
 
