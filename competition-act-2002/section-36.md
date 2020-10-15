@@ -1,3 +1,3 @@
-Disqualification.
+Disqualification. (Repealed)
 
 36.—...

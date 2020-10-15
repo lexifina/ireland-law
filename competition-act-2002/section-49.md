@@ -1,3 +1,3 @@
-Restrictive Practices (Groceries) Order, 1987.
+Restrictive Practices (Groceries) Order, 1987. (Repealed)
 
 49.—...
