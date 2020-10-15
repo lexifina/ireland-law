@@ -14,7 +14,13 @@ Payment of unpaid contributions to occupational pension scheme.
 
 (a) the balance of relevant contributions remaining unpaid on the date on which he became insolvent and payable by the employer on his own account to the scheme or Personal Retirement Savings Account (within the meaning of the Pensions Act, 1990) in respect of the period of twelve months ending on the day immediately preceding that date,
 
-(b) the amount certified by an actuary (or, where the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of another Member State in accordance with Article 2(1) of Council Directive 80/987/EEC of 20 October 1980 as amended by Article 1(2) of Directive 2002/74/EC of the European Parliament and of the Council of 23 September 2002 and the employees concerned are employed or habitually employed in the State, an actuary or person performing a similar task) to be necessary for the purpose of meeting the liability of the scheme on dissolution to pay the benefits provided by the scheme or Personal Retirement Savings Account (within the meaning of the Pensions Act, 1990) to or in respect of the employees of the employer.
+(b) the amount certified by —
+
+(i) an actuary,
+
+(ii) where the employees concerned are employed or habitually employed in the State and the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of another Member State in accordance with Article 2(1) of the Directive, an actuary or person performing a similar task, or
+
+(iii) where the employees concerned are employed or habitually employed in the State and the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of the United Kingdom, an actuary or person performing a similar task, to be necessary for the purpose of meeting the liability of the scheme on dissolution to pay the benefits provided by the scheme or Personal Retirement Savings Account (within the meaning of the Pensions Act 1990) to or in respect of the employees of the employer.
 
 (4) Any sum payable under this section in respect of unpaid contributions on behalf of an employee shall not exceed the amount deducted from the pay of the employee in respect of the employee’s contributions to the occupational pension scheme or Personal Retirement Savings Account (within the meaning of the Pensions Act, 1990) during the period of twelve months ending on the day immediately preceding the date on which the employer became insolvent.
 
