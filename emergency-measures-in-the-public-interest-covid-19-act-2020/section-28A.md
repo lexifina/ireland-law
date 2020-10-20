@@ -26,7 +26,7 @@ Objectives of section 28B, purposes for which its provisions are enacted and cer
 
 (5) Without prejudice to the generality of subsection (4), the Minister for Finance shall cause an assessment, at such intervals as he or she considers appropriate but no less frequently than every 2 months beginning with the passing of the Financial Provisions (Covid-19) (No. 2) Act 2020, of the following, and any other relevant matters, to be made—
 
-(a) up-to-date data from the register commonly referred to as the ‘Live Register’ and data related to that register supplied to the Department of Finance by the Department of Business, Jobs and Innovation (whether data compiled by that last-mentioned Department of State from its own sources or those available to it from sources maintained elsewhere in the Public Service),
+(a) up-to-date data from the register commonly referred to as the ‘Live Register’ and data related to that register supplied to the Department of Finance by the Department of Business, Enterprise and Innovation (whether data compiled by that last-mentioned Department of State from its own sources or those available to it from sources maintained elsewhere in the Public Service),
 
 (b) up-to-date data compiled by the Department of Finance relating to the State’s receipts and expenditure,
 
@@ -36,4 +36,4 @@ Objectives of section 28B, purposes for which its provisions are enacted and cer
 
 (a) fulfil, better, the objectives specified in subsection (1), or
 
-(b) facilitate the furtherance of any of the purposes specified in subsection (2), and, if the Minister for Finance determines that such is necessary, the powers under one, or more than one, as provided in that subsection (21), of those paragraphs (a) to (c) shall become and be exercisable by the Minister for Finance.
+(b) facilitate the furtherance of any of the purposes specified in subsection (3), and, if the Minister for Finance determines that such is necessary, the powers under one, or more than one, as provided in that subsection (21), of those paragraphs (a) to (c) shall become and be exercisable by the Minister for Finance.
