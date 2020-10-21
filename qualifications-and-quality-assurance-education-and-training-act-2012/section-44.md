@@ -56,7 +56,7 @@ Application for validation of programme of education and training.
 
 (iii) where the provider has authority, delegated to it under section 53, to make an award in respect of that programme, or to make an award in respect of a class of programme where that programme is part of that class,
 
-(b) where the provider has entered into an arrangement under section 48with an awarding body other than the Authority to the extent that a programme of education and training of the provider is the subject of the arrangement.
+(b) where the provider has entered into an arrangement under section 48 with an awarding body other than the Authority to the extent that a programme of education and training of the provider is the subject of the arrangement.
 
 (11) A provider who organises or procures a programme of education and training which is provided, wholly or partly, by another person shall consult with that person before making an application under subsection (5).
 

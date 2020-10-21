@@ -2,7 +2,7 @@ Quality assurance procedures and linked providers.
 
 33.— (1) Before establishing procedures under section 28, a linked provider shall submit a draft of the proposed procedures to the relevant designated awarding body for approval.
 
-(2) Upon consideration of the proposed procedures submitted under subsection (1),the relevant designated awarding body may—
+(2) Upon consideration of the proposed procedures submitted under subsection (1), the relevant designated awarding body may—
 
 (a) approve the proposed procedures,
 

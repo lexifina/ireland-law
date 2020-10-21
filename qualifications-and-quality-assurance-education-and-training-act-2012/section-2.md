@@ -64,7 +64,7 @@ Interpretation.
 
 “joint award” means a single award made jointly by two or more awarding bodies;
 
-“joint awarding arrangement” has the meaning assigned to it bysection 51 (1);
+“joint awarding arrangement” has the meaning assigned to it by section 51 (1);
 
 “linked provider” shall be construed in accordance with subsection (3);
 

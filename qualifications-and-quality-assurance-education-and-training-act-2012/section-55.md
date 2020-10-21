@@ -12,7 +12,7 @@ Withdrawal or variation by Authority of delegated authority to make award.
 
 (a) a provider who has entered into an arrangement referred to in section 53(14), and
 
-(b) a programme or class of programmes which lead to a joint award referred to insection 53(14), the Authority shall, by notice in writing, inform the awarding body referred to in section 53(14) that it proposes to withdraw or vary the authority of the provider to make an award in respect of the programme or class of programmes specified in the notice and state the reasons for the proposed withdrawal or variation.
+(b) a programme or class of programmes which lead to a joint award referred to in section 53(14), the Authority shall, by notice in writing, inform the awarding body referred to in section 53(14) that it proposes to withdraw or vary the authority of the provider to make an award in respect of the programme or class of programmes specified in the notice and state the reasons for the proposed withdrawal or variation.
 
 (3) A notice under subsections (1) and (2) shall state that the provider, and the awarding body, if applicable, may submit observations in writing to the Authority in relation to the proposed withdrawal or variation set out in the notice not later than 3 months after the service of that notice on that provider and that awarding body, if applicable.
 

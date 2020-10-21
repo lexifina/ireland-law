@@ -30,7 +30,7 @@ Transitional and savings provision for Act of 1999.
 
 (a) section 18(4), section 28(4), section 39(4) or section 42(4) of the Act of 1999, or
 
-(b) section 35(4) of the Act of 1997, which is in the process of being conducted, shall, on the coming into operation of section 34,be a review for the purposes of that section and this Act shall apply accordingly.
+(b) section 35(4) of the Act of 1997, which is in the process of being conducted, shall, on the coming into operation of section 34, be a review for the purposes of that section and this Act shall apply accordingly.
 
 (4) Subject to subsections (4A) to (4C), where a programme of education and training has been validated by the Further Education and Training Awards Council or the Higher Education and Training Awards Council under section 15 or 25 of the Act of 1999, as the case may be, and that validation has not been withdrawn before the coming into operation of section 45, then on that coming into operation—
 
@@ -50,7 +50,7 @@ Transitional and savings provision for Act of 1999.
 
 (5) Where an application for validation of a programme of education and training has been made under section 15(1) or section 25(1) of the Act of 1999 but on the coming into operation of section 44 no decision has been made by the Further Education and Training Awards Council or the Higher Education and Training Awards Council in respect of the application, that application shall continue under section 44 and this Act shall apply accordingly.
 
-(6) After the coming into operation of section 44,and until the Authority establishes the policies and criteria for the validation of programmes of education and training under that section, the policies and criteria for validation established under section 14(1)(a)(ii) or section 23(1)(a)(ii) of the Act of 1999, as the case may be, shall continue to apply in relation to an application for validation under section 44.
+(6) After the coming into operation of section 44, and until the Authority establishes the policies and criteria for the validation of programmes of education and training under that section, the policies and criteria for validation established under section 14(1)(a)(ii) or section 23(1)(a)(ii) of the Act of 1999, as the case may be, shall continue to apply in relation to an application for validation under section 44.
 
 (7) A review under section 16 or 26 of the Act of 1999 which is in the process of being conducted, shall, on the coming into operation of section 46, be a review for the purposes of that section and this Act shall apply accordingly.
 
@@ -58,7 +58,7 @@ Transitional and savings provision for Act of 1999.
 
 (9) A higher education and training award made by the Higher Education and Training Awards Council under section 23(1)(c) of the Act of 1999 before the coming into operation of section 50 shall, on the coming into operation of that section, be taken to be an award made by the Authority under that section.
 
-(10) After the coming into operation of section 50, and until the Authority in accordance with section 49(1) determines the standards of knowledge, skill or competence to be acquired, and where appropriate, demonstrated, by a learner before an award may be made by the Authority or by a provider to whom authority to make an award has been delegated, standards of knowledge, skill or competence to be acquired by a learner determined under section 14(1)(b) or section 23(1)(b)of the Act of 1999, as the case may be, shall continue to apply before an award may be made by the Authority under section 50 or by a provider to whom authority to make an award has been delegated.
+(10) After the coming into operation of section 50, and until the Authority in accordance with section 49(1) determines the standards of knowledge, skill or competence to be acquired, and where appropriate, demonstrated, by a learner before an award may be made by the Authority or by a provider to whom authority to make an award has been delegated, standards of knowledge, skill or competence to be acquired by a learner determined under section 14(1)(b) or section 23(1)(b) of the Act of 1999, as the case may be, shall continue to apply before an award may be made by the Authority under section 50 or by a provider to whom authority to make an award has been delegated.
 
 (11) After the coming into operation of section 50, and until the Authority in accordance with subsection (1) of that section establishes policies and criteria for the making of awards by the Authority and a provider to whom authority to make an award has been delegated, policies and criteria for the making of awards established under section 14(1)(a)(i) or 23(1)(a)(i) of the Act of 1999, as the case may be, shall continue to apply to the making of an award by the Authority under section 50.
 
@@ -74,7 +74,7 @@ Transitional and savings provision for Act of 1999.
 
 (iii) any conditions referred to in paragraphs (a) to (d) of subsection (6) of section 19, or in paragraphs (a) to (d) of subsection (6) of section 29, of the Act of 1999, shall be taken to be conditions imposed by the Authority under section 53(4)(a), and this Act shall apply accordingly.
 
-(13) Where a request has been made under section 19(1) or section 29(1) of the Act of 1999 for delegated authority to make an award but on the coming into operation of section 52no decision has been made by the Further Education and Training Awards Council or the Higher Education and Training Awards Council in respect of that request, that request shall be taken to be a request under section 52 and this Act shall apply accordingly.
+(13) Where a request has been made under section 19(1) or section 29(1) of the Act of 1999 for delegated authority to make an award but on the coming into operation of section 52 no decision has been made by the Further Education and Training Awards Council or the Higher Education and Training Awards Council in respect of that request, that request shall be taken to be a request under section 52 and this Act shall apply accordingly.
 
 (14) After the coming into operation of section 53, and until the Authority establishes procedures and criteria for the determination of a request for delegation of authority to make an education and training award, then—
 
@@ -88,4 +88,4 @@ Transitional and savings provision for Act of 1999.
 
 (17) After the coming into operation of section 54, and until the Authority establishes procedures for review under that section, procedures for review established under section 20(4) or under section 30(4) of the Act of 1999, as the case may be, shall apply to a review under section 54.
 
-(18) A charter recognised under section 31 of the Act of 1999 that was in force immediately before the coming into operation of section 82shall be, on the coming into operation of that section, in so far as the charter does not conflict with this Act or the Institutes of Technology Acts 1992 to 2006, a charter recognised under section 82and this Act shall apply accordingly.
+(18) A charter recognised under section 31 of the Act of 1999 that was in force immediately before the coming into operation of section 82 shall be, on the coming into operation of that section, in so far as the charter does not conflict with this Act or the Institutes of Technology Acts 1992 to 2006, a charter recognised under section 82 and this Act shall apply accordingly.

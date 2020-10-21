@@ -8,7 +8,7 @@ Withdrawal by Authority of approval of access, transfer and progression procedur
 
 (2) Where a proposal under subsection (1) is made in respect of a provider who has entered into an arrangement referred to in section 53(14), the Authority shall, by notice in writing, inform the awarding body referred to in section 53(14) that—
 
-(a) it proposes to withdraw its approval of the procedures for access, transfer and progression established by the provider undersection 56 and state the reasons for the proposed withdrawal, and
+(a) it proposes to withdraw its approval of the procedures for access, transfer and progression established by the provider under section 56 and state the reasons for the proposed withdrawal, and
 
 (b) if the Authority withdraws its approval, it shall also withdraw any authority to make awards delegated to that provider under section 53.
 

@@ -6,7 +6,7 @@ Gifts to Authority.
 
 (3) The Authority shall not accept a gift if the trust or condition attached to it by the donor is, in the opinion of the Authority, inconsistent with or likely to prejudice the Authority’s operational independence or the effective performance of its functions.
 
-(4) The Authority shall include details of any gift that exceeds an amount, specified by the Minister with the consent of the Minister for Public Expenditure and Reform, in the next report prepared under section 25after the gift is accepted.
+(4) The Authority shall include details of any gift that exceeds an amount, specified by the Minister with the consent of the Minister for Public Expenditure and Reform, in the next report prepared under section 25 after the gift is accepted.
 
 (5) In subsection (4) “details” means—
 
