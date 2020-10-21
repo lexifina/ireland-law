@@ -38,4 +38,4 @@ Membership of An tSeirbhís.
 
 (7) Subject to subsection (8), a member of An tSeirbhís whose term of office expires by the effluxion of time shall be eligible for reappointment to An tSeirbhís.
 
-(8) A member of An tSeirbhís who has served 2 terms of office shall not be eligible for reappointment to An tSeirbhís, and any period during which a person serves as a member of An tSeirbhís pursuant to an appointment under section 12shall be deemed for the purposes of this subsection to be a term of office.
+(8) A member of An tSeirbhís who has served 2 terms of office shall not be eligible for reappointment to An tSeirbhís, and any period during which a person serves as a member of An tSeirbhís pursuant to an appointment under section 12 shall be deemed for the purposes of this subsection to be a term of office.

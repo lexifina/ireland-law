@@ -8,4 +8,4 @@ Provisions consequent upon transfer of functions, assets and liabilities to An t
 
 (4) Any money, stocks, shares or securities transferred by section 39 that immediately before the establishment day were standing in the name of the dissolved body shall, on the request of An tSeirbhís be transferred into its name.
 
-(5) A certificate signed by the Minister that any property, right or liability has or, as the case may be, has not vested in An tSeirbhís undersection 39 or 40 shall be sufficient evidence, unless the contrary is shown, of the fact so certified for all purposes.
+(5) A certificate signed by the Minister that any property, right or liability has or, as the case may be, has not vested in An tSeirbhís under section 39 or 40 shall be sufficient evidence, unless the contrary is shown, of the fact so certified for all purposes.
