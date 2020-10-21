@@ -24,7 +24,7 @@ Decision of the Professional Conduct Committee.
 
 (b) (i) such an appeal taken against the decision has been disposed of and the decision has been confirmed (with or without amendment of it), and
 
-(ii) that confirmation is not a confirmation of the High Court under section 26, 40 or 54, as appropriate.
+(ii) that confirmation is not a confirmation of the High Court under section 26, 40 or 54 , as appropriate.
 
 (6) The Registrar may apply to the High Court for confirmation of a decision of the Committee to exercise the powers under subsection (2)(b), (c), (d) or (e) and, if the Registrar so applies, the High Court, on the hearing of the application, shall, unless it sees good reason to the contrary, declare accordingly and, where the declaration relates to a decision to exercise the powers under subsection (2)(d), either (as the Court may consider proper) direct the Registrar to erase the name of such person from the register concerned or direct that during a specified period (beginning not earlier than 7 days after the decision of the Court) registration of the person’s name in that register shall not have effect.
 

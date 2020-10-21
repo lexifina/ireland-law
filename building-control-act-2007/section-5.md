@@ -54,7 +54,7 @@ Amendment of section 6 (building control regulations) of Act of 1990.
 
 (i) by inserting after subsection (2) the following:
 
-“(2A) References in subsection (2)(a)(iv)to (xi) to a material alteration of a building include references to a material change of use of a building and, for the purposes of those provisions as they apply in relation to such a material change of use, references in those provisions to—
+“(2A) References in subsection (2)(a)(iv) to (xi) to a material alteration of a building include references to a material change of use of a building and, for the purposes of those provisions as they apply in relation to such a material change of use, references in those provisions to—
 
 (a) work,
 
