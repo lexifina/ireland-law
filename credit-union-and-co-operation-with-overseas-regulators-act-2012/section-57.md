@@ -8,7 +8,7 @@ Credit Union Fund.
 
 (a) to provide a source of financial support for the restructuring of credit unions under this Part,
 
-(b) to provide stabilisation support in accordance with Part 4,
+(b) to provide stabilisation support in accordance with Part 4 ,
 
 (c) to meet the expenses of ReBo in discharging its functions under this Act,
 

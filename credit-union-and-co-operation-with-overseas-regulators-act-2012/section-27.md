@@ -66,9 +66,7 @@ Board oversight committee.
 
 (6) A board oversight committee member may not be appointed or reappointed to the board oversight committee if he or she has served for more than 12 years in the previous 15 years whether on the board of directors or the board oversight committee.
 
-(7) The board oversight committee shall appoint one of their number as secretary of the committee.
-
-76O.— (1) The board oversight committee of a credit union shall hold—
+(7) The board oversight committee shall appoint one of their number as secretary of the committee. 76O.— (1) The board oversight committee of a credit union shall hold—
 
 (a) at least one meeting in every month, and
 

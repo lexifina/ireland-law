@@ -412,6 +412,6 @@ Delete “or voluntary assistants”. 33 Section 47(1)
 
 144 First Schedule Insert after paragraph 13: Item Provision affected Amendment
 
-145 Third Schedule, para- Delete. graph 1
+145 Third Schedule, Delete. paragraph 1
 
-146 Third Schedule, para- Delete. graph 6
+146 Third Schedule, Delete. paragraph 6

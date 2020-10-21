@@ -1,6 +1,6 @@
 Provision of stabilisation support.
 
-65.— (1) (a) Subject to subsection (2) andsection 64, the Bank may approve the provision of stabilisation support under this section to a credit union where the credit union does not meet the regulatory reserve requirement but only if—
+65.— (1) (a) Subject to subsection (2) and section 64, the Bank may approve the provision of stabilisation support under this section to a credit union where the credit union does not meet the regulatory reserve requirement but only if—
 
 (i) its regulatory reserve is equal to or greater than 7.5 per cent of the total assets of the credit union, and
 

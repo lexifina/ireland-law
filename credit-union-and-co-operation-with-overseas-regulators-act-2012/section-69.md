@@ -214,11 +214,11 @@ Amendment to Central Bank Reform Act 2010.
 
 (2) The attendance of an authorised officer pursuant to subsection (1) at a meeting referred to in that subsection does not in any circumstances limit the powers of the authorised officer or of the Bank.
 
-63.— Nothing in this Part shall operate to confer any right to production of, or access to, any record subject to legal professional privilege.
+63.— Nothing in this Part shall operate to confer any right to production of, or access to, any record subject to legal professional privilege. 64.— (1) The disclosure or production of any record or other information by a person under this Part shall not be treated, for any purpose, as a breach of any restriction under any enactment or rule of law on disclosure or production by the person or any other person on whose behalf the record or other information is disclosed or produced.
 
-64.— (1) The disclosure or production of any record or other information by a person under this Part shall not be treated, for any purpose, as a breach of any restriction under any enactment or rule of law on disclosure or production by the person or any other person on whose behalf the record or other information is disclosed or produced.
+(2) Where a person from whom production of a record is required under this Part claims a lien on the record, the production of it shall be without prejudice to the lien.
 
-(2) Where a person from whom production of a record is required under this Part claims a lien on the record, the production of it shall be without prejudice to the lien. 65.— (1) If any person to whom this Part applies fails or refuses to comply with a requirement under this Part the authorised officer may certify the failure or refusal under his or her hand to the High Court.
+65.— (1) If any person to whom this Part applies fails or refuses to comply with a requirement under this Part the authorised officer may certify the failure or refusal under his or her hand to the High Court.
 
 (2) When an authorised officer certifies a failure or refusal referred to in subsection (1) to the High Court, the High Court may inquire into the case and may make such order (including interim or interlocutory orders) or direction as the High Court thinks fit, after hearing—
 

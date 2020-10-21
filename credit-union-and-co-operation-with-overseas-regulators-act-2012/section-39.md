@@ -12,7 +12,7 @@ Interpretation (Part 3).
 
 “Credit Union Fund” has the meaning given by section 57 (1);
 
-“establishment day” means the day appointed under section 42as the establishment day;
+“establishment day” means the day appointed under section 42 as the establishment day;
 
 “ReBo” means the Credit Union Restructuring Board;
 

@@ -112,9 +112,7 @@ Additional requirements for credit unions.
 
 (d) external events, but does not include reputational risk.
 
-(2) A credit union shall identify the operational risks it is exposed to, or is likely to be exposed to, and provide for the management and mitigation of those risks in the credit union’s risk management system as provided for by section 76B.
-
-76F.— (1) Without prejudice to sections 108 and 109, a credit union shall ensure—
+(2) A credit union shall identify the operational risks it is exposed to, or is likely to be exposed to, and provide for the management and mitigation of those risks in the credit union’s risk management system as provided for by section 76B. 76F.— (1) Without prejudice to sections 108 and 109, a credit union shall ensure—
 
 (a) that it makes, maintains and retains in books and documents proper and secure records of all matters that are required to enable the credit union, including the board of directors, board committees, nomination committee and officers and its board oversight committee and auditor to discharge their respective functions and as required by law,
 
