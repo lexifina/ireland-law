@@ -1,6 +1,6 @@
 Accountability of chief executive to other Oireachtas Committees.
 
-26.— (1) In this section “Committee” means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee referred to in section 25or the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a subcommittee of such a Committee.
+26.— (1) In this section “Committee” means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee referred to in section 25 or the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a subcommittee of such a Committee.
 
 (2) Subject to subsection (3), the chief executive shall, at the request in writing of a Committee, attend before it to give account for the general administration of An tSeirbhís.
 
