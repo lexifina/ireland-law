@@ -8,7 +8,7 @@ Personal representatives.
 
 (c) falls due in the period of 3 years immediately following the date of death.
 
-(2) Notwithstanding subsection (1) and subject to section 139(4),no further deferral shall be allowed—
+(2) Notwithstanding subsection (1) and subject to section 139(4), no further deferral shall be allowed—
 
 (a) after the time at which a personal representative, in respect of a relevant residential property, is in a position to—
 

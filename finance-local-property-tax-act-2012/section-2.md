@@ -34,7 +34,7 @@ Interpretation.
 
 “lease”, “lessee” and “lessor” have the meaning given to them by section 96 of the Act of 1997;
 
-“liable person” shall be read in accordance with Part 3;
+“liable person” shall be read in accordance with Part 3 ;
 
 “liability date” means—
 
@@ -46,7 +46,9 @@ Interpretation.
 
 “local property tax” has the meaning given to it by section 16;
 
-“Minister”, other than in section 20 and Chapter 2 or 3 of Part 10, means the Minister for Finance;
+“Minister”, other than in section 20 and
+
+Chapter 2 or 3 of Part 10 , means the Minister for Finance;
 
 “personal public service number” has the same meaning as in section 262 of the Social Welfare Consolidation Act 2005;
 
@@ -54,7 +56,7 @@ Interpretation.
 
 “prescribe”, in relation to a power or duty of a Minister of the Government to do so, means prescribe by regulations;
 
-“relevant residential property” has the meaning given to it by Part 2;
+“relevant residential property” has the meaning given to it by Part 2 ;
 
 “rent” has the meaning given to it by section 96 of the Act of 1997;
 
