@@ -12,6 +12,12 @@ Payments from the Fund.
 
 (2A) The Minister may, for any purpose specified in subsection (1) and with the consent of the Minister for Public Expenditure and Reform, make payments to An tSeirbhís, and any payments so made shall be expended by An tSeirbhís for that purpose only.
 
+(2B) Without prejudice to the generality of subsection (1), payments for any purpose specified in subsection (1) may include payments for the following:
+
+(a) the acquisition of lands, premises, furniture or equipment;
+
+(b) the upgrading, construction or reconstruction, including repair and maintenance, of premises.
+
 (3) The consent of the Minister for Finance under subsection (1) may be given in relation to amounts to be paid from the Fund in particular periods or by reference to the particular scheme referred to in subsection (2) in respect of which payments from the Fund are to be made.
 
 (4) An amount to be paid from the Fund in respect of a scheme shall be so paid to the person or, as the case may be, one or more of the persons administering the scheme.
