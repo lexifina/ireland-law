@@ -12,7 +12,7 @@ Interpretation.
 
 ‘Act of 2010’ means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
-“application” means an application under section 4;
+“application” means an application under section 4 ;
 
 ...
 
@@ -70,7 +70,7 @@ Interpretation.
 
 ...
 
-“employment permit” means an employment permit granted under section 8;
+“employment permit” means an employment permit granted under section 8 ;
 
 ...
 
@@ -104,7 +104,7 @@ Interpretation.
 
 “foreign national” has the meaning assigned to it by the Act of 2003;
 
-“foreign national concerned” shall be construed in accordance with section 5(1);
+“foreign national concerned” shall be construed in accordance with section 5 (1) ;
 
 “prescribed” means prescribed by regulations made by the Minister under this Act;
 

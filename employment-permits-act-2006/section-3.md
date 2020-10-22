@@ -68,13 +68,13 @@ Further amendment of Act of 2003.
 
 ‘Treaty of Accession with the Republic of Bulgaria and Romania’ has the same meaning as it has in section 2A.
 
-Non-appli-
+Non-application
 
-3B.— (1) The Minister may, subject to subsection (2), by order provide that cation of section 10 of the Employment Permits Act 2006 shall not apply to an application certain for an employment permit in respect of a national of the Republic of Bulgaria require- or Romania and for so long as such an order remains in force— ment of Employment
+3B.— (1) The Minister may, subject to subsection (2), by order provide that of certain section 10 of the Employment Permits Act 2006 shall not apply to an application requirement for an employment permit in respect of a national of the Republic of Bulgaria of or Romania and for so long as such an order remains in force—
+
+Employment Permits Act 2006.
 
 (a) that section 10 shall not apply to such an application accordingly, and
-
-Permits Act 2006.
 
 (b) the other provisions of the Employment Permits Act 2006 shall be construed and have effect subject to the order, but without prejudice to any regulations for the time being in force under section 14 of that Act.
 

@@ -1,4 +1,4 @@
-Criteria to which regard is to be had in making regulations under section14.
+Criteria to which regard is to be had in making regulations under section 14 .
 
 15.— (1) The matters mentioned in subsections (1) and (2) of section 14 are—
 
