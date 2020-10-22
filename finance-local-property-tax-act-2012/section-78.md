@@ -4,4 +4,4 @@ Deduction from net emoluments of certain company directors.
 
 (a) the reference to tax were a reference to local property tax, and
 
-(b) the reference to emoluments were a reference to net emoluments, and as if, in subsection (3), the reference to an assessment raised on a person were a reference to a Revenue estimate, a self-assessment or a Revenue assessment, as the case may be, made under Part 8.
+(b) the reference to emoluments were a reference to net emoluments, and as if, in subsection (3), the reference to an assessment raised on a person were a reference to a Revenue estimate, a self-assessment or a Revenue assessment, as the case may be, made under Part 8 .

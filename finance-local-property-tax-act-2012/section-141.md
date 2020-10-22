@@ -8,7 +8,7 @@ Right of Revenue officer to make enquiries.
 
 (c) the chargeable value of a relevant residential property on a valuation date,
 
-(d) a liable person’s eligibility for a deferral in accordance with Part 12, or
+(d) a liable person’s eligibility for a deferral in accordance with Part 12 , or
 
 (e) the accuracy or otherwise of any return, statement or particulars prepared and delivered under this Act.
 

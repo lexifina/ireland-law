@@ -8,7 +8,7 @@ Repayment of local property tax.
 
 (b) the claim for repayment referred to in paragraph (a) is made within 4 years after the end of the year in which the liability date in respect of which the payment was made falls,
 
-(c) a true and complete return has been prepared and delivered under Part 7, and
+(c) a true and complete return has been prepared and delivered under Part 7 , and
 
 (d) all the information that the Revenue Commissioners may reasonably require to enable them determine if and to what extent a repayment to local property tax is due to the person has been provided to them.
 

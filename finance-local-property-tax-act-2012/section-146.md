@@ -2,7 +2,7 @@ Penalty for failure to deliver a return.
 
 146.— (1) Where a liable person who—
 
-(a) is required under Part 7to deliver a return, fails to deliver the return, or
+(a) is required under Part 7 to deliver a return, fails to deliver the return, or
 
 (b) delivers a return but fails to include in the return the particulars required by the return, is requested by a Revenue officer by notice to remedy matters and fails to do so without unreasonable delay, the liable person shall be liable to a penalty of the amount of the local property tax that would be payable were a true and complete return to be delivered.
 
