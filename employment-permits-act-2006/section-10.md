@@ -40,6 +40,6 @@ Restriction on grant of employment permit.
 
 (b) in addition to the other requirements that this Act specifies must be satisfied with respect to the grant of an employment permit and are without prejudice to—
 
-(i) any regulations for the time being in force under section 14, and
+(i) any regulations for the time being in force under section 14 , and
 
 (ii) section 2(11) of the Act of 2003.

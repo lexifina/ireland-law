@@ -54,7 +54,7 @@ Revocation of employment permit.
 
 (b) the reasons for it, and
 
-(c) the fact that the holder or the employer or both of them, or, as the case may be, the holder or the connected person, or both of them, may, in accordance with regulations under section 29(3) and within 28 days from the date of notification of the decision, submit the decision to the Minister for review under section 17.
+(c) the fact that the holder or the employer or both of them, or, as the case may be, the holder or the connected person, or both of them, may, in accordance with regulations under section 29(3) and within 28 days from the date of notification of the decision, submit the decision to the Minister for review under section 17 .
 
 (3) Subject to subsection (5) a decision to revoke an employment permit under this section shall, if such decision has not been submitted to the Minister for review under section 17 in accordance with that section, take effect on the expiration of the period mentioned in subsection (2)(c).
 
