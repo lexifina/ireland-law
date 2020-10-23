@@ -10,13 +10,15 @@ Restriction on grant of employment permit.
 
 (c) in the case of an application referred to in section 4(2)(b), the connected person concerned, or
 
-(d) in the case of an application referred to in section 4(2)(c), the person party to the arrangement referred to in that section who made the offer of employment, are nationals of any of the following:
+(d) in the case of an application referred to in section 4(2)(c), the person party to the arrangement referred to in that section who made the offer of employment, are either—
 
-(i) one or more Member States of the EEA;
+(i) nationals of one or more Member States of the EEA,
 
-(ii) the Swiss Confederation;
+(ii) nationals of the Swiss Confederation,
 
-(iii) a combination of any of the states referred to in paragraphs (i) and (ii).
+(iia) citizens of the United Kingdom of Great Britain and Northern Ireland, or
+
+(iii) a combination of any of the nationals or citizens referred to in paragraphs (i), (ii) and (iia).
 
 (2A) In the case of an application for an employment permit in respect of the purpose referred to in paragraph (a), (c) or (d) of section 3A(2), subsection (2) shall not apply to such application where—
 
@@ -43,3 +45,5 @@ Restriction on grant of employment permit.
 (i) any regulations for the time being in force under section 14 , and
 
 (ii) section 2(11) of the Act of 2003.
+
+(4) In subsection (2)(iia), 'United Kingdom of Great Britain and Northern Ireland' includes the Channel Islands and the Isle of Man and 'citizens of the United Kingdom of Great Britain and Northern Ireland' shall be construed accordingly.
