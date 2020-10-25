@@ -1,4 +1,4 @@
-Evidence given to commissions not admissible in certain proceedings.
+Evidence
 
 19.—(1) None of the following is admissible as evidence against a person in any criminal or other proceedings, except proceedings in relation to an offence against section 18:
 
