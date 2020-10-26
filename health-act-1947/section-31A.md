@@ -100,6 +100,44 @@ Regulations for preventing, limiting, minimising or slowing spread of Covid-19.
 
 (6B) Subsection (6A) is in addition to and not in substitution for any powers of enforcement conferred on a member of the Garda Síochána by or under this section or any other provision of this Act, or any other enactment.
 
+(6C) (a) The Minister may make regulations prescribing such one or more penal provisions as are specified in the regulations to be fixed penalty provisions.
+
+(b) When prescribing a penal provision to be a fixed penalty provision, the Minister shall, in addition to the matters specified in subsection (2), have regard to—
+
+(i) the nature of the act or omission of which the offence under the penal provision concerned consists,
+
+(ii) the extent to which the prescribing of a penal provision as a fixed penalty provision would be of assistance in preventing, interrupting or otherwise retarding the spread of Covid-19, and
+
+(iii) the utility of providing for such additional means of enforcement of penal provisions as part of the effort on the part of the State to—
+
+(I) maintain, and enable the graduated restoration of, the normal functioning of society, or
+
+(II) avoid the imposition of restrictions or further restrictions on society.
+
+(c) The Minister may make regulations prescribing— (i) the form of a fixed payment notice, or (ii) the process to be followed by a member of the Garda Síochána when giving a person a fixed payment notice.
+
+(d) The Minister shall, before prescribing a fixed penalty provision in regulations under this section, consult with the Minister for Justice and Equality.
+
+(6D) (a) The Minister may make regulations prescribing such one or more penal provisions as are specified in the regulations to be dwelling event provisions.
+
+(b) When prescribing a penal provision to be a dwelling event provision, the Minister shall, in addition to the matters specified in subsection (2), have regard to—
+
+(i) the risks with regard to the spread of Covid-19 associated with gatherings of persons, particularly indoors or in confined spaces,
+
+(ii) the nature of the act or omission of which the offence under the penal provision concerned consists,
+
+(iii) the extent to which the prescribing of a penal provision to be a dwelling event provision would be of assistance in preventing, interrupting or otherwise retarding the spread of Covid-19, and
+
+(iv) the utility of providing for such additional means of enforcement of penal provisions as part of the effort on the part of the State to—
+
+(I) maintain, and enable the graduated restoration of, the normal functioning of society, or
+
+(II) avoid the imposition of restrictions or further restrictions on society.
+
+(c) The Minister shall, before prescribing a dwelling event provision in regulations under this section, consult with the Minister for Justice and Equality.
+
+(6E) In proceedings for an offence under this section consisting of a contravention of a dwelling event provision, it shall be presumed, unless the contrary is proved, that the occupier of the dwelling in respect of which the offence is alleged to have been committed was the event organiser.
+
 (7) A member of the Garda Síochána who suspects, with reasonable cause, that a person is contravening or has contravened a provision of a regulation made under subsection (1) that is stated to be a penal provision, may, for the purposes of ensuring compliance with the regulation, direct the person to take such steps as the member considers necessary to comply with the provision.
 
 (8) (a) A person who, without lawful authority or reasonable excuse, fails to comply with a direction under subsection (7) shall be guilty of an offence.
@@ -112,7 +150,23 @@ Regulations for preventing, limiting, minimising or slowing spread of Covid-19.
 
 (11) A member of the Garda Síochána may arrest without warrant any person whom the member has reasonable cause for believing has committed an offence under subsection (10).
 
-(12) A person who commits an offence under this section is liable on summary conviction to a class C fine, or to imprisonment for a term not exceeding 6 months, or both.
+(12) (a) Subject to paragraph (b), a person guilty of an offence under this section is liable on summary conviction—
+
+(i) in the case of a first such offence, to a fine not exceeding €1,000 or imprisonment for a term not exceeding one month or both,
+
+(ii) in the case of a second such offence, to a fine not exceeding €1,500 or imprisonment for a term not exceeding 3 months or both, and
+
+(iii) in the case of a third or subsequent such offence, to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
+
+(b) Notwithstanding subparagraph (i) or (ii) of paragraph (a), the court may, in respect of an offence to which either of those subparagraphs applies, impose a fine or term of imprisonment or both, to which a person guilty of an offence referred to in subparagraph (iii) of that paragraph would be liable, if the court considers that there were aggravating circumstances in relation to the commission of the first-mentioned offence that warrant the imposition of such fine or term of imprisonment or both.
+
+(c) A court shall take account of the following matters when determining whether or not there existed aggravating circumstances in relation to the commission of an offence:
+
+(i) in the case of an offence relating to the organisation of an event in contravention of a penal provision, the number of persons attending that event;
+
+(ii) the degree of danger to public health that was occasioned by the commission of the offence;
+
+(iii) the extent to which the person guilty of the offence concerned refused to comply with lawful requests or directions of a member of the Garda Síochána.
 
 (13) (a) Regulations under subsection (1) may provide for their implementation and enforcement by a person (in this section referred to as a ‘relevant person’), or group of such relevant persons, as may be specified, and for this purpose different persons, or combinations of persons, may be so specified for different purposes in, or in relation to different provisions of, such regulations.
 
@@ -138,11 +192,29 @@ Regulations for preventing, limiting, minimising or slowing spread of Covid-19.
 
 ‘event’ means a gathering of persons, whether the gathering is for cultural, entertainment, recreational, sporting, commercial, work, social, community, educational, religious or other reasons, and includes but is not limited to a gathering which is required to be subject to a consent, licence or other form of permission granted in relation to it by any Minister of the Government or public body pursuant to any enactment or rule of law which provides for the regulation of proper planning and sustainable development, traffic management, sale of alcohol, safety and health at work or otherwise;
 
-‘event organiser’, in relation to an event, means a person who—
+‘event organiser’ means—
 
-(a) is engaged in publicising, arranging, organising or managing the event, or
+(a) in relation to an event in a dwelling, a person who arranges, organises or manages the event, or otherwise causes or permits the event to take place, and
 
-(b) receives some or all of the revenue, where applicable, from the event;
+(b) in relation to an event in a place other than a dwelling, any person who—
+
+(i) engages in the publicising, arranging, organising or managing of the event, or
+
+(ii) receives some or all of the proceeds (if any), from the event;
+
+‘licence’ means, in relation to a dwelling, a licence given to a person by the owner of the dwelling permitting the person to enter and reside in the dwelling (whether or not for valuable consideration);
+
+‘occupier’ means, in relation to a dwelling—
+
+(a) a person who—
+
+(i) resides in the dwelling, and
+
+(ii) is the owner of the dwelling, or
+
+(b) a person who resides in the dwelling pursuant to a licence (except where the owner of the dwelling also resides therein);
+
+‘owner’ means, in relation to a dwelling, any person (other than a mortgagee not in possession) who has an estate or interest in the dwelling;
 
 ‘premises’ includes a building or any part of a building, any outdoor space surrounding or adjacent to the premises, whether or not used in conjunction with the premises, any land, premises, tent, caravan, or other temporary or moveable structure, ship or other vessel, aircraft, railway carriage or other vehicle (whether stationary or otherwise) and any storage container.
 
