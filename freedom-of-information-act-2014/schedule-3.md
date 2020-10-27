@@ -112,13 +112,13 @@ No. 10 of 2005 Safety, Health and Welfare at Work Section 73. Act 2005
 
 No. 31 of 2005 Railway Safety Act 2005 Section 21(1).
 
-No. 8 of 2006 Sea-Fisheries and Maritime Jurisdic- Section 58. tion Act 2006
+No. 8 of 2006 Sea-Fisheries and Maritime Section 58. Jurisdiction Act 2006
 
 No. 14 of 2006 Road Safety Authority Act 2006 Section 26.
 
 No. 17 of 2006 Health (Repayment Scheme) Act Section 12(4). 2006
 
-No. 19 of 2006 National Sports Campus Develop- Section 17. ment Authority Act 2006
+No. 19 of 2006 National Sports Campus Section 17. Development Authority Act 2006
 
 No. 21 of 2006 National Economic and Social Section 23. Development Office Act 2006
 
@@ -150,7 +150,7 @@ No. 175 of 1983 Fire Services Council (Establishment) Article 13. Order 1983.
 
 No. 222 of 1983 Housing (Rent Tribunal) Regulations 1983. Article 14(3).
 
-No. 279 of 1986 The Health Research Board (Establish- Article 23. ment) Order 1986.
+No. 279 of 1986 The Health Research Board Article 23. (Establishment) Order 1986.
 
 No. 252 of 1994 The European Communities (Medical Articles 24(A) and Devices) Regulations 1994. 26(1) (c).
 
@@ -158,8 +158,8 @@ No. 253 of 1994 The European Communities (Active Article 20(1) (c). Implantable 
 
 No. 376 of 1999 The National Council for the Professional Article 25. Development of Nursing and Midwifery (Establishment) Order 1999.
 
-No. 109 of 2000 The Pre-Hospital Emergency Care Council Article 35. (Establishment) Order 2000. No. 304 of 2001 European Communities (In Vitro Diagnostic Articles 17(4) (c) Medical Devices) Regulations 2001. and 20.
+No. 109 of 2000 The Pre-Hospital Emergency Care Council Article 35. (Establishment) Order 2000. No. 304 of 2001 European Communities (In Vitro Articles 17(4) (c) Diagnostic Medical Devices) Regulations and 20. 2001.
 
 No. 179 of 2004 National Treatment Purchase Fund Board Article 16. (Establishment) Order 2004.
 
-No. 451 of 2004 National Haemophilia Council (Establish- Article 23. ment) Order 2004.
+No. 451 of 2004 National Haemophilia Council Article 23. (Establishment) Order 2004.
