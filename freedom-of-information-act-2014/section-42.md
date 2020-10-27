@@ -98,6 +98,8 @@ Restriction of Act
 
 (C) a record relating to the appointment of persons under section 7 or 8 of the Commissions of Investigation Act 2004,
 
+(ea) a record held by the CervicalCheck Tribunal (in this paragraph referred to as ‘the Tribunal’) or, after the Tribunal has been dissolved, the Minister for Health, relating to the Tribunal, other than a record relating to the expenses of the Tribunal or other matters concerning the general administration of the Tribunal,
+
 (f) a record held or created by the Attorney General or the Director of Public Prosecutions or the Office of the Attorney General or the Office of Director of Public Prosecutions, other than a record relating to general administration,
 
 (g) a record relating to an audit, inspection, investigation or examination carried out by the Comptroller and Auditor General under the Comptroller and Auditor General Acts 1923 to 1993, the Exchequer and Audit Department Acts 1866 and 1921, or any other enactment, other than —
