@@ -2,7 +2,7 @@
 
 Duty of Board to decide on appropriate measures to be taken.
 
-69.— (1) Subject to subsection (3) andsection 70, the Board shall, as soon as is practicable after receiving and considering the report referred to in section 67(1) of the Fitness to Practise Committee in relation to a complaint concerning a registered nurse or registered midwife, decide that one or more than one of the following sanctions be imposed on the nurse or midwife:
+69.— (1) Subject to subsection (3) and section 70, the Board shall, as soon as is practicable after receiving and considering the report referred to in section 67(1) of the Fitness to Practise Committee in relation to a complaint concerning a registered nurse or registered midwife, decide that one or more than one of the following sanctions be imposed on the nurse or midwife:
 
 (a) an advice or admonishment, or a censure, in writing;
 
