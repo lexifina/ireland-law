@@ -1,0 +1,3 @@
+Board may refuse to register on ground that nurse, etc., is not fit and proper person to practise nursing, etc.
+
+51A. — ...
