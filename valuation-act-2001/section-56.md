@@ -18,7 +18,9 @@ Power to limit rates income.
 
 (A x (B + C) +G) + (A x (H+I)) where
 
-A is the figure specified in subsection (3), B is the total amount liable to be paid to the rating authority in respect of rates levied by it in respect of relevant property on the existing valuation list (but excluding relevant property on the Central Valuation List in the preceding year), and
+A is the figure specified in subsection (3),
+
+B is the total amount liable to be paid to the rating authority in respect of rates levied by it in respect of relevant property on the existing valuation list (but excluding relevant property on the Central Valuation List in the preceding year), and
 
 C is an amount determined by the formula
 
@@ -38,9 +40,7 @@ I is an amount determined by the formula
 
 D x (J + K) where
 
-D is the annual rate on valuation that was levied by the rating authority for the preceding year pursuant to section 3 of the Local Government Rates and Other Matters Act 2019,
-
-J is the aggregate of all global valuation amounts that have been apportioned to the relevant rating authority in accordance with section 53(8), and entered on the Central Valuation List pursuant to the exercise of the Commissioner’s powers under section 53(1) of this Act, during the preceding year, and which exercise resulted in amendments to the Central Valuation List for that preceding year in accordance with section 55,
+D is the annual rate on valuation that was levied by the rating authority for the preceding year pursuant to section 3 of the Local Government Rates and Other Matters Act 2019, J is the aggregate of all global valuation amounts that have been apportioned to the relevant rating authority in accordance with section 53(8), and entered on the Central Valuation List pursuant to the exercise of the Commissioner’s powers under section 53(1) of this Act, during the preceding year, and which exercise resulted in amendments to the Central Valuation List for that preceding year in accordance with section 55,
 
 K is the aggregate of the increases, if any, of the global valuation amounts that have been apportioned to the relevant rating authority in accordance with section 53(8), and entered on the Central Valuation List during the preceding year pursuant to the exercise of the Commissioner’s powers under section 53(6) and which exercise resulted in amendments to the central valuation list for that preceding year in accordance with section 55.
 
