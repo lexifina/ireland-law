@@ -24,7 +24,7 @@ Interpretation.
 
 “Directive 2005/36/EC” has the meaning assigned to “Directive” in Regulation 3(1) of the Regulations of 2017;
 
-“decision”, in relation to an appeal under section 52, 73, 81or 86, includes part of a decision;
+“decision”, in relation to an appeal under section 52, 73, 81 or 86, includes part of a decision;
 
 “Fitness to Practise Committee” means the committee established under section 24(2)(b);
 

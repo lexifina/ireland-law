@@ -26,7 +26,7 @@ Board’s power to make rules.
 
 (i) the register of nurses and midwives and the candidate register, and the divisions of those registers, including the setting of criteria relating to—
 
-(i) appropriate qualifications, education and training, and relevant competencies of nurses or midwives registered or to be registered,
+(i) appropriate qualifications, education and training , and relevant competencies of nurses or midwives registered or to be registered,
 
 (ii) the possession of sufficient knowledge of the language or languages necessary to practise as a nurse or midwife in the State,
 

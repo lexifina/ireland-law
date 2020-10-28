@@ -1,6 +1,6 @@
 Duty to notify registered nurse or registered midwife of compliance with decisions confirmed or given by Court.
 
-76.— (1) The Board shall, on complying with a decision confirmed or given by the Court under section 73 or 74to attach conditions to the registration of a nurse or midwife, give notice in writing to the nurse or midwife of the conditions as soon as is practicable after complying with section 46(8) in respect of the conditions.
+76.— (1) The Board shall, on complying with a decision confirmed or given by the Court under section 73 or 74 to attach conditions to the registration of a nurse or midwife, give notice in writing to the nurse or midwife of the conditions as soon as is practicable after complying with section 46(8) in respect of the conditions.
 
 (2) The Board shall, on complying with a decision confirmed or given by the Court under section 73 or 74 to transfer a registered nurse’s or registered midwife’s registration to another division of the register of nurses and midwives—
 
