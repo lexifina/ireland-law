@@ -1,0 +1,3 @@
+Board may request certain information concerning registered nurses, etc., from certain bodies in State or other jurisdictions.
+
+53A.— ...

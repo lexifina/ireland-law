@@ -1,0 +1,3 @@
+Appeal to Court against certain decisions of Board - candidates.
+
+52A. — ...
