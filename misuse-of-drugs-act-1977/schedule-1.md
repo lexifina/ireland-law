@@ -322,7 +322,7 @@ Methyl 2-[[1-(cyclohexylmethyl) indole-3-carbonyl]amino]-3,3-dimethylbutanoate
 
 Methyl (E)-2-[(2S,3S,7aS,12bS)-3-ethyl-7a-hydroxy-8-methoxy-2,3,4,6,7,12b-hexahydro-1H-indolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate and any product, whether natural or otherwise, including any plant or plant material of any kind or description, which contains any proportion of the said substance
 
-Methyl(E)-2-[(2S,3S,12bS)-3-ethyl-8-methoxy-1,2,3,4,6,7,12,12b-octahydroindolo[2,3- a]quinolizin-2-yl]-3-methoxyprop-2-enoate and any product, whether natural or otherwise, including any plant or plant material of any kind or description, which contains any proportion of the said substance
+Methyl (E)-2-[(2S,3S,12bS)-3-ethyl-8-methoxy-1,2,3,4,6,7,12,12b-octahydroindolo[2,3- a]quinolizin-2-yl]-3-methoxyprop-2-enoate and any product, whether natural or otherwise, including any plant or plant material of any kind or description, which contains any proportion of the said substance
 
 4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine
 
@@ -464,9 +464,9 @@ Chlordiazepoxide
 
 Clobazam
 
-Clonazepam
+Clonazepam Clorazepic acid
 
-Clorazepic acid Clotiazepam
+Clotiazepam
 
 Cloxazolam
 
@@ -528,9 +528,9 @@ Mecloqualone
 
 Medazepam
 
-Mefenorex
+Mefenorex Meprobamate
 
-Meprobamate Mesocarb
+Mesocarb
 
 Methyprylone
 

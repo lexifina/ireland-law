@@ -1,3 +1,3 @@
-Investigation on initiative of Dental Board, Medical Registration Council or Veterinary Council.
+Investigation on initiative of Dental Board, Medical Registration Council or Veterinary Council. (repealed)
 
 10.—...
