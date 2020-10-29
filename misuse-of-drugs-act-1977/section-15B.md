@@ -1,4 +1,4 @@
-F30[Importation of controlled drugs in excess of certain value.
+F30[ Importation of controlled drugs in excess of certain value.
 
 15B.— (1) A person shall be guilty of an offence where—
 

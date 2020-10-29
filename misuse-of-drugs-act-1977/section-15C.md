@@ -1,4 +1,4 @@
-F31[Supply of controlled drugs into prisons and places of detention.
+F31[ Supply of controlled drugs into prisons and places of detention.
 
 15C.— (1) A person shall be guilty of an offence where—
 
