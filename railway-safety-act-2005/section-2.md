@@ -4,29 +4,23 @@ Interpretation.
 
 “accident” means an unwanted or unintended sudden event or a specific chain of such events which have harmful consequences; accidents are divided into the following categories: collisions, derailments, level-crossing accidents, accidents to persons caused by rolling stock in motion, fires and others;
 
-“annual report” means the report published by the Commission under section 28A;
+...
 
 “causes” means actions, omissions, events or conditions, or a combination thereof, which led to an accident or incident, and includes a direct and immediate cause of the accident or incident including contributory factors relating to actions taken by persons involved or condition of the rolling stock or technical installations, underlying causes relating to skills, procedures or maintenance and root causes relating to the regulatory framework conditions and application of the safety management system;
 
 “Commission” means Commission for Railway Regulation;
 
-“Commission Regulation 851/2006/EC” means Commission Regulation 851/2006/EC of 9 June 2006 with the exception of the final indent;
+...
 
 “Council” means the Railway Safety Advisory Council established under section 82;
 
-“Directive” means Directive 2004/49/EC of the European Parliament and of the Council of 29 April 2004, as amended by the following:
-
-(a) the Railway Interoperability Directive;
-
-(b) Directive 2008/110/EC of the European Parliament and of the Council of 16 December 2008;
-
-(c) Commission Directive 2009/149/EC of 27 November 2009;
+...
 
 “establishment day” means the day appointed by the Minister under section 7 to be the establishment day for the purposes of Part 2;
 
-“European Commission” means Commission of the European Communities;
+...
 
-“European Railway Agency” means the European Railway Agency, the European Community agency for railway safety and interoperability;
+...
 
 “extensive damage” means damage that can immediately be assessed by the Investigation Unit to cost at least €2 million in total;
 
@@ -39,8 +33,6 @@ Interpretation.
 “inspector” means a person appointed under section 73 to be an inspector;
 
 “international service” means the operation of a railway service between the State and another state;
-
-2 OJ No. L 158, 10.6.2005, p, 3
 
 “intoxicant” includes alcohol and drugs and any combination of drugs or of drugs and alcohol;
 
@@ -76,21 +68,23 @@ Interpretation.
 
 “railway infrastructure” means the fixed assets used for the operation of a railway including, but not limited to, rail track, railway stations, permanent way and plant used for signalling or exclusively for supplying electricity for operational purposes to the railway;
 
-“Railway Interoperability Directive” means Directive 2008/57/EC of 17 June 2008 of the European Parliament and of the Council;
+...
 
 “railway property” has the meaning assigned to it by section 73(15);
 
-“railway organisation” means—
+'railway organisation' means—
 
-(a) a metro, tramway or other light rail system,
+(a) an organisation with responsibility in operating:
 
-(b) a heritage, museum or tourist railway that operates on its own network, including workshops, vehicles and staff,
+(i) a metro, tram or other light railway system,
 
-(c) a heritage railway that runs on the railway system in the State,
+(ii) a heritage railway, museum railway or tourist railway that operates on its own network, including workshops, vehicles and staff,
 
-(d) a railway undertaking or an infrastructure manager to which the European Union (Railway Safety) Regulations 2013 (S.I. No. 444 of 2013) apply except in the case of sections 39, 45, 46, 47, 48 and 50 of this Act, or
+(iii) a heritage railway that runs on the railway system in the State,
 
-(d) any other person who operates a railway;
+(b) a railway undertaking or an infrastructure manager to which the European Union (Railway Safety) Regulations 2020 (S.I. No. 476 of 2020) apply except in the case of sections 39, 45, 46, 47, 48 and 50 of this Act, or
+
+(c) any other person who operates a railway;
 
 “record” means any memorandum, book, plan, map, drawing, diagram, pictorial or graphic work or other document, any photograph, film or recording (whether of sound or images or both), any form ... (including machine-readable form) or thing in which information is held or stored manually, mechanically or electronically and any thing that is a part or a copy, in any form, of any of the foregoing or is a combination of two or more of the foregoing;
 
@@ -118,7 +112,7 @@ Interpretation.
 
 “train” means a vehicle with flanged wheels designed to operate on a railway for whatever purpose, and includes carriages and rolling stock.
 
-“vehicle” means a railway vehicle suitable for circulation on its own wheels on railway lines, with or without traction composed of one or more structural and func-tional subsystems or parts of such subsystems.
+...
 
 (2) In this Act—
 
