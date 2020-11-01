@@ -1,4 +1,4 @@
-Grants and local contributions to health boards.
+Grants and local contributions to health boards. (Repealed)
 
 32.—(1) ...
 

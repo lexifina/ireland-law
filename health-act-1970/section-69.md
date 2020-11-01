@@ -1,3 +1,3 @@
-Maintenance allowances for disabled persons.
+Maintenance allowances for disabled persons. (Repealed)
 
 69.—...

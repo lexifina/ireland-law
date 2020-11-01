@@ -1,3 +1,3 @@
-Committees of health boards.
+Committees of health boards. (Repealed)
 
 8.—...

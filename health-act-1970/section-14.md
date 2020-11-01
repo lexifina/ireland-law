@@ -1,3 +1,3 @@
-Other officers and servants of health boards.
+Other officers and servants of health boards. (Repealed)
 
 14.—...

@@ -1,3 +1,3 @@
-Arrangements
+Arrangements by health boards for provision of services. (Repealed)
 
 26.—...

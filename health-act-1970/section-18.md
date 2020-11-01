@@ -1,3 +1,3 @@
-Qualifications for offices under health boards.
+Qualifications for offices under health boards. (Repealed)
 
 18.—...

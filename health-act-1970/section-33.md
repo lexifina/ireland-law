@@ -1,3 +1,3 @@
-Borrowing and acceptance of gifts by health boards.
+Borrowing and acceptance of gifts by health boards. (Repealed)
 
 33.—...

@@ -1,3 +1,3 @@
-Local committees.
+Local committees. (Repealed)
 
 7.—...

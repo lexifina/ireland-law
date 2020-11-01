@@ -1,4 +1,4 @@
-Suspension and removal of chief executive officer.
+Suspension and removal of chief executive officer. (Repealed)
 
 21.—(1) ...
 

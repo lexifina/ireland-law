@@ -1,3 +1,3 @@
-Expenses of members of boards and committees.
+Expenses of members of boards and committees. (Repealed)
 
 9.—...

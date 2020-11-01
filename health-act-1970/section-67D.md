@@ -1,4 +1,4 @@
-Waiver of residential support services maintenance and accommodation contributions.
+Waiver
 
 67D.— (1) (a) The Health Service Executive may waive (in whole or in part) the obligation of a person to make payment of a residential support services maintenance and accommodation contribution.
 

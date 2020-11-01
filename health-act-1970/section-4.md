@@ -1,6 +1,6 @@
 ## PART II ADMINISTRATION CHAPTER I Health Boards
 
-Establishment of health boards.
+Establishment of health boards. (Repealed)
 
 4.—(1) ...
 

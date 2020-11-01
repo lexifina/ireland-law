@@ -1,3 +1,3 @@
-Dissolutions of joint boards under section 45 of Health Act, 1953.
+Dissolutions of joint boards under section 45 of Health Act, 1953. (Repealed)
 
 35.—...

@@ -1,3 +1,3 @@
-Abstract of health board accounts.
+Abstract of health board accounts. (Repealed)
 
 29.—...

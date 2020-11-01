@@ -1,3 +1,3 @@
-Allowances
+Allowances to chairmen and vice-chairmen of health boards. (Repealed)
 
 10.—...

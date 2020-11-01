@@ -14,7 +14,7 @@ No. 19 of 1945. Mental Treatment Act, 1945. Sections 5, 19, 96, 97 and 106, 248 
 
 No. 28 of 1947. Health Act, 1947. Parts II and VII, sections 99, 102 and 104.
 
-No. 47 of 1947. Health Services (Financial Provi- The whole Act. sions) Act, 1947.
+No. 47 of 1947. Health Services (Financial The whole Act. Provisions) Act, 1947.
 
 No. 27 of 1950. Nurses Act, 1950. Section 60.
 

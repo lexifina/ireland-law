@@ -1,3 +1,3 @@
-Transfers of certain property.
+Transfers of certain property. (Repealed)
 
 36.—...

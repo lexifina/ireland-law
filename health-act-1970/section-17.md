@@ -1,4 +1,4 @@
-Performance of duties of officers.
+Performance of duties of officers. (Repealed)
 
 17.—(1) ...
 

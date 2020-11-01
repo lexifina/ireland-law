@@ -1,3 +1,3 @@
-Committees for certain removals.
+Committees for certain removals. (Repealed)
 
 24.—...

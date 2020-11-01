@@ -1,3 +1,3 @@
-Functions of health boards.
+Functions of health boards. (Repealed)
 
 6.—....

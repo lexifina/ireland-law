@@ -1,3 +1,3 @@
-Joint action by health boards.
+Joint action by health boards. (Repealed)
 
 11.—...

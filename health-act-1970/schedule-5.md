@@ -1,8 +1,8 @@
 FIFTH SCHEDULE
 
-EACH OF THE HOSPITALS SPECIFIED HEREUNDER IS SPECIFIED AS A HOSPITAL FOR THE PURPOSES OF THIS SCHEDULE.
+EACH OF THE HOSPITALS SPECIFIED HEREUNDER IS SPECIFIED AS A HOSPITAL FOR THE PURPOSES OF THIS SCHEDULE. Section 55.
 
-Section 55. The Adelaide and Meath Hospital, Dublin, incorporating the National Children’s Hospital, Tallaght, Dublin.
+The Adelaide and Meath Hospital, Dublin, incorporating the National Children’s Hospital, Tallaght, Dublin.
 
 Beaumont Hospital, Beaumont, Dublin.
 
@@ -60,6 +60,4 @@ St. Vincent’s University Hospital, Elm Park, Dublin.
 
 University Hospital Galway and Merlin Park University Hospital, Galway.
 
-Waterford Regional Hospital, Waterford.
-
-A hospital specified for the purposes of this Schedule shall continue to stand specified notwithstanding that the name or title of the hospital is altered or the location at which the hospital provides in-patient services is altered.
+Waterford Regional Hospital, Waterford. A hospital specified for the purposes of this Schedule shall continue to stand specified notwithstanding that the name or title of the hospital is altered or the location at which the hospital provides in-patient services is altered.

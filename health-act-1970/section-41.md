@@ -1,4 +1,4 @@
-Bodies
+Bodies for co-ordination and development of hospital services. (Repealed)
 
 41.—(1) ...
 

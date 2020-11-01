@@ -1,3 +1,3 @@
-Limitations on expenditure by health board.
+Limitations on expenditure by health board. (Repealed)
 
 31.—...

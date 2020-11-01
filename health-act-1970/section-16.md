@@ -1,4 +1,4 @@
-Delegation by chief executive officer.
+Delegation by chief executive officer. (Repealed)
 
 16.—(1) ...
 

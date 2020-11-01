@@ -1,3 +1,3 @@
-Application of Local Authorities (Officers and Employees) Acts, 1926 and 1940.
+Application of Local Authorities (Officers and Employees) Acts, 1926 and 1940. (Repealed)
 
 15.—...

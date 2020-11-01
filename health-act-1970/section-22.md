@@ -1,3 +1,3 @@
-Suspension of other officers of health boards.
+Suspension of other officers of health boards. (Repealed)
 
 22.—...

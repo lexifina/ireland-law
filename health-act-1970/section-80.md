@@ -1,3 +1,3 @@
-Restriction
+Restriction of Health Services (Financial Provisions) Act, 1947. (Repealed)
 
 80.—...

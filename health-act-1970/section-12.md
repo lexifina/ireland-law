@@ -1,3 +1,3 @@
-Removal of board from office.
+Removal of board from office. (Repealed)
 
 12.—...

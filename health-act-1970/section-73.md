@@ -1,3 +1,3 @@
-Determination of doubt as to responsible Health Board.
+Determination of doubt as to responsible Health Board. (Repealed)
 
 73.—...

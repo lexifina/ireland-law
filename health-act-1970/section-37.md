@@ -1,3 +1,3 @@
-Transfer of certain officers and continuance of certain contracts of service.
+Transfer of certain officers and continuance of certain contracts of service. (Repealed)
 
 37.—...
