@@ -18,7 +18,7 @@ No. 19 of 1945. Mental Treatment Act, 1945. Sections 5, 19, 96, 97 and 106, 248 
 
 No. 28 of 1947. Health Act, 1947. Parts II and VII, sections 99, 102 and 104.
 
-No. 47 of 1947. Health Services (Financial Provi- The whole Act. sions) Act, 1947.
+No. 47 of 1947. Health Services (Financial The whole Act. Provisions) Act, 1947.
 
 No. 27 of 1950. Nurses Act, 1950. Section 60.
 
@@ -90,9 +90,9 @@ The amount of charges payable by a person to whom in-patient services are provid
 
 FIFTH SCHEDULE
 
-EACH OF THE HOSPITALS SPECIFIED HEREUNDER IS SPECIFIED AS A HOSPITAL FOR THE PURPOSES OF THIS SCHEDULE.
+EACH OF THE HOSPITALS SPECIFIED HEREUNDER IS SPECIFIED AS A HOSPITAL FOR THE PURPOSES OF THIS SCHEDULE. Section 55.
 
-Section 55. The Adelaide and Meath Hospital, Dublin, incorporating the National Children’s Hospital, Tallaght, Dublin.
+The Adelaide and Meath Hospital, Dublin, incorporating the National Children’s Hospital, Tallaght, Dublin.
 
 Beaumont Hospital, Beaumont, Dublin.
 
@@ -150,9 +150,7 @@ St. Vincent’s University Hospital, Elm Park, Dublin.
 
 University Hospital Galway and Merlin Park University Hospital, Galway.
 
-Waterford Regional Hospital, Waterford.
-
-A hospital specified for the purposes of this Schedule shall continue to stand specified notwithstanding that the name or title of the hospital is altered or the location at which the hospital provides in-patient services is altered.
+Waterford Regional Hospital, Waterford. A hospital specified for the purposes of this Schedule shall continue to stand specified notwithstanding that the name or title of the hospital is altered or the location at which the hospital provides in-patient services is altered.
 
 SIXTH SCHEDULE
 
@@ -198,7 +196,9 @@ Our Lady’s Hospice, Blackrock, County Dublin;
 
 Our Lady’s Hospice, Harold’s Cross, Dublin;
 
-Our Lady’s Hospital, Manorhamilton, County Leitrim. Our Lady’s Hospital, Navan, County Meath.
+Our Lady’s Hospital, Manorhamilton, County Leitrim.
+
+Our Lady’s Hospital, Navan, County Meath.
 
 Peamount Hospital, Newcastle, County Dublin;
 

@@ -1,4 +1,4 @@
-F123[Interpretation - sections 67A to 67D
+F134[Interpretation - sections 67A to 67D
 
 67A. (1) In this section and sections 67B to 67D—
 
@@ -14,9 +14,7 @@ F123[Interpretation - sections 67A to 67D
 
 (b) the relevant person’s electricity, gas, heating, refuse collection, water supply or other essential utilities, or
 
-(c) any combination of any such provisions and such utilities, and ‘maintenance costs’, ‘maintenance’, ‘maintain’ and cognate terms shall be construed accordingly;
-
-‘excluded costs’, in relation to the definition of ‘costs of maintenance’ and a relevant person referred to in that definition, means—
+(c) any combination of any such provisions and such utilities, and ‘maintenance costs’, ‘maintenance’, ‘maintain’ and cognate terms shall be construed accordingly; ‘excluded costs’, in relation to the definition of ‘costs of maintenance’ and a relevant person referred to in that definition, means—
 
 (a) the relevant person’s accommodation costs (if any), and
 

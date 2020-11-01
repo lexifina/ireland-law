@@ -1,6 +1,6 @@
 ## CHAPTER II Hospital In-Patient and Out-Patient Services
 
-F75[In-patient services.
+F77[In-patient services.
 
 51.— In this Part—
 
