@@ -2,9 +2,9 @@ Drugs, medicines and appliances.
 
 59.—(1) Subject to sections 20 and 23 of the Health (Pricing and Supply of Medical Goods) Act 2013, a health board shall make arrangements for the supply without charge of drugs, medicines and medical and surgical appliances , for the time being on the Reimbursement List within the meaning of section 2(1) of that Act, to persons with full eligibility.
 
-(1A) Notwithstanding subsection (1) but subject to subsections (1B) and (1C) and section 59A, a person with full eligibility who avails himself or herself of the service under subsection (1) shall be charged, by a community pharmacy contractor, an amount of €0.50, or such other amount as may be determined by regulations made by the Minister under this section, per item supplied to that person on the prescription of a registered medical practitioner or registered dentist, or on the prescription of a registered nurse (being a person whose name is entered in the register of nurses maintained under section 27 of the Nurses Act 1985) who is entitled pursuant to any enactment to prescribe the drugs, medicines or medical or surgical appliances so supplied.
+(1A) Notwithstanding subsection (1) but subject to subsections (1B) and (1C) and section 59A, a person with full eligibility who avails himself or herself of the service under subsection (1) shall be charged, by a community pharmacy contractor, an amount of €1.50, or such other amount as may be determined by regulations made by the Minister under this section, per item supplied to that person on the prescription of a registered medical practitioner or registered dentist, or on the prescription of a registered nurse (being a person whose name is entered in the register of nurses maintained under section 27 of the Nurses Act 1985) who is entitled pursuant to any enactment to prescribe the drugs, medicines or medical or surgical appliances so supplied.
 
-(1B) (a) Subject to paragraphs (b) and (c) and subsection (3) of section 59A, the maximum aggregate amount payable in respect of items referred to in subsection (1A) supplied in a month to an adult person and his or her dependants shall be €10.00 or such other amount as may be determined by regulations made by the Minister under this section.
+(1B) (a) Subject to paragraphs (b) and (c) and subsection (3) of section 59A, the maximum aggregate amount payable in respect of items referred to in subsection (1A) supplied in a month to an adult person and his or her dependants shall be €15.00 or such other amount as may be determined by regulations made by the Minister under this section.
 
 (b) The Health Service Executive shall make arrangements for the refunding, crediting or otherwise relieving persons from the payment of amounts charged that exceed the maximum aggregate amount referred to in paragraph (a) or subsection (3) of section 59A and where, for any reason, such an excess amount is charged in respect of an adult person and his or her dependants, that excess amount shall be refunded or credited, or relief shall otherwise be granted, as the case may be, in relation to any such excess amount in accordance with such arrangements and subject to any regulations that the Minister may make under this section.
 
@@ -52,7 +52,9 @@ Drugs, medicines and appliances.
 
 (iv) the necessity of controlling expenditure in relation to the provision by the State of health services.
 
-(c) The Minister shall make regulations under paragraph (a)(ii) only where he or she is of opinion that not to charge the amount referred to in subsection (1A) to such a class is just and equitable in the circumstances, having regard to such of the following as he or she considers appropriate:
+(c) The Minister shall make regulations under paragraph (a)(ii) only where he or she is of opinion that not to charge the amount referred to in subsection
+
+(1A) to such a class is just and equitable in the circumstances, having regard to such of the following as he or she considers appropriate:
 
 (i) the particular medical condition, disability or medical needs of persons of that class;
 
