@@ -82,9 +82,7 @@ Powers of Commission.
 
 24. (a) The Commission may, for the purpose of the performance of its functions, borrow money, but shall not do so without the consent of the Minister and the Minister for Public Expenditure and Reform.
 
-(b) The Minister shall consult with the Minister for the Environment, Community and Local Government, prior to giving his or her consent under subparagraph
-
-(a) in relation to a proposal to borrow money for the performance of the Commission’s functions under the Water Services (No. 2) Act 2013.
+(b) The Minister shall consult with the Minister for the Environment, Community and Local Government, prior to giving his or her consent under subparagraph (a) in relation to a proposal to borrow money for the performance of the Commission’s functions under the Water Services (No. 2) Act 2013.
 
 25. The Commission shall—
 

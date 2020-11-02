@@ -4,7 +4,7 @@ Single Electricity Market Committee.
 
 (2) The SEM Committee shall comprise such members as stand appointed to it from time to time.
 
-(3)Schedule 1A applies to the SEM Committee.
+(3) Schedule 1A applies to the SEM Committee.
 
 (4) Any decision as to the exercise of a relevant function of the Commission in relation to a SEM matter shall be taken on behalf of the Commission by the SEM Committee.
 

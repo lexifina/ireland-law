@@ -150,7 +150,7 @@ Functions of Commission.
 
 (h) to publish information and advice and settle disputes in accordance with the provisions of this Act,
 
-(i) to carry out the role assigned to it by section 39,...
+(i) to carry out the role assigned to it by section 39, ...
 
 (j) to comply with and implement relevant legally binding decisions of the Agency and of the European Commission,
 

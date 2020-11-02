@@ -152,11 +152,11 @@ Interpretation.
 
 (h) tidal,
 
+2 OJ No. L211, 14.8.2009, p.94 1 OJ No. L117, 3.5.2019, p.1
+
 (i) solar,
 
 (j) wave;
-
-2 OJ No. L211, 14.8.2009, p.94 1 OJ No. L117, 3.5.2019, p.1
 
 “the SEM Committee” means the committee referred to in Section 8A;
 
