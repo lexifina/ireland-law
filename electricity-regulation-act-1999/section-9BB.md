@@ -1,6 +1,8 @@
 Restriction on disclosure of information.
 
-9BB.— (1) (a) This subsection applies to information received by the Minister or tion on the Commission, which information has been given to that person under or disclosure of by virtue of— information.
+9BB.— (1) (a) This subsection applies to information received by the Minister or
+
+Restriction the Commission, which information has been given to that person under or on disclosure by virtue of— of information.
 
 (i) any provision of the law of Northern Ireland corresponding to a provision under this Act (including a condition in a licence, exemption or authorisation granted under it) or the Internal Market Regulations, or
 
