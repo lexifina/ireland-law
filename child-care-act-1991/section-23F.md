@@ -1,4 +1,4 @@
-F110[Determination by F111[Child and Family Agency] that child requires special care.
+F110[ Determination by F111[Child and Family Agency] that child requires special care.
 
 23F.— (1) The Child and Family Agency shall not apply for a special care order in respect of a child unless it is satisfied that the child has attained the age of 11 years and it has made a determination, in accordance with this section, that the child requires special care.
 

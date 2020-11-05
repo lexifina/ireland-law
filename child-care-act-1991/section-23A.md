@@ -1,6 +1,6 @@
 ## PART IVA CHILDREN IN NEED OF SPECIAL CARE OR PROTECTION
 
-F99[Interpretation.
+F99[ Interpretation.
 
 23A.— In this Part—
 
