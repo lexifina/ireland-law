@@ -4,7 +4,7 @@ Medical practitioners to be registered in General Division.
 
 (a) who is not able to be registered—
 
-(i) in the Specialist Division pursuant to section 47, or
+(i) in the Specialist Division pursuant to section 47 , or
 
 (ii) in the Trainee Specialist Division pursuant to section 48 or 49, and
 

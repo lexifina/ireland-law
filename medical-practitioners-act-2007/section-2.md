@@ -24,7 +24,7 @@ Interpretation.
 
 (c) a degree, diploma or other qualification recognised under section 88(7) to be at least the equivalent of a qualification referred to in paragraph (a);
 
-“business plan” means a business plan prepared pursuant to section 15(1);
+“business plan” means a business plan prepared pursuant to section 15(1) ;
 
 “cancel”, in relation to the registration of a medical practitioner, means to delete the practitioner’s name from the register pursuant to a decision referred to in section 78(3) to cancel the registration of the practitioner;
 
@@ -114,7 +114,7 @@ Interpretation.
 
 “Register of Medical Specialists” means the register established under section 30 of the Act of 1978;
 
-“‘Regulations of 2017’ means the European Union (Recognition of Professional Qualifications) Regulations 2017 (S.I. No. 8 of 2017);
+‘Regulations of 2017’ means the European Union (Recognition of Professional Qualifications) Regulations 2017 (S.I. No. 8 of 2017);
 
 “relevant conditions”, in relation to a registered medical practitioner, means any conditions attached to the registration of the practitioner pursuant to—
 

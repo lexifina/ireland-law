@@ -26,7 +26,7 @@ Training bodies and qualifications for the purposes of the Specialist and Traine
 
 (c) the reasons for the decision.
 
-(7) Notwithstanding the repeal of section 38 of the Act of 1978 by section 3—
+(7) Notwithstanding the repeal of section 38 of the Act of 1978 by section 3 —
 
 (a) a specialty which was, immediately before that repeal, recognised under section 38(1) of that Act shall be deemed to be a medical specialty recognised under subsection (1)—
 

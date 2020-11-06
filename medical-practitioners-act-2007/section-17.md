@@ -58,7 +58,7 @@ Members of Council.
 
 (a) a member of either House of the Oireachtas or of the European Parliament,
 
-(b) regarded, pursuant to section19 of the European Parliament Elections Act 1997, as having been elected to the European Parliament to fill a vacancy, or
+(b) regarded, pursuant to section 19 of the European Parliament Elections Act 1997, as having been elected to the European Parliament to fill a vacancy, or
 
 (c) a member of a local authority.
 

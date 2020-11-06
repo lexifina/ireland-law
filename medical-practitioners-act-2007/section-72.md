@@ -1,4 +1,4 @@
-Provisions supplementary to section 71.
+Provisions supplementary to section 71 .
 
 72.— (1) The Council shall, on deciding under section 71 to impose a sanction referred to in section 71(b), (c), (d), (e) or (g) on a registered medical practitioner, specify—
 
