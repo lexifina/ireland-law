@@ -1,0 +1,3 @@
+Council may request certain information concerning medical practitioners, etc., from certain bodies in State or other jurisdictions.
+
+55A.— ...

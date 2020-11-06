@@ -1,0 +1,3 @@
+Application of Parts 7, 8 and 9 to interns and adapters.
+
+56B.— ...

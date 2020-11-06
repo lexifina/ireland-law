@@ -1,0 +1,3 @@
+Conditions attached to registration.
+
+36G.— ...

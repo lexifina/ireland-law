@@ -1,0 +1,3 @@
+Register of adapters.
+
+36L.— ...

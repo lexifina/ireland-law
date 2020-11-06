@@ -1,0 +1,3 @@
+Requirements to be met for recognition of qualification.
+
+36D.— ...
