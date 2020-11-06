@@ -30,6 +30,6 @@ Duties of Health Service Executive in relation to medical and dental education a
 
 (5) The Health Service Executive shall comply with a notice given to it under subsection (4) except to the extent that it is prohibited from doing so by another provision of this Act.
 
-(6) Specialist medical and dental education and training shall, for the purposes of sections 38 and 39 of the Health Act 2004, be deemed to be a health and personal social service within the meaning of section2 of that Act.
+(6) Specialist medical and dental education and training shall, for the purposes of sections 38 and 39 of the Health Act 2004, be deemed to be a health and personal social service within the meaning of section 2 of that Act.
 
 (7) The Health Service Executive shall carry out such functions, other than functions assigned to it by this Act, as may be assigned to it from time to time by the Minister following consultation with it in relation to medical and dental education and training.

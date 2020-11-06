@@ -6,9 +6,9 @@ Expenses of Council and Minister.
 
 (3) The Minister may—
 
-(a) with the consent of the Minister for Finance, arrange for the provision of assistance to the Council, in the performance of its functions under Part 11, out of monies provided by the Oireachtas for the purpose,
+(a) with the consent of the Minister for Finance, arrange for the provision of assistance to the Council, in the performance of its functions under Part 11 , out of monies provided by the Oireachtas for the purpose,
 
-(b) after consultation with the Council and with the consent of the Minister for Finance, arrange for the provision of assistance to the Council, in the performance of specified functions of the Council not falling under Part 11, out of the monies provided by the Oireachtas for the purpose.
+(b) after consultation with the Council and with the consent of the Minister for Finance, arrange for the provision of assistance to the Council, in the performance of specified functions of the Council not falling under Part 11 , out of the monies provided by the Oireachtas for the purpose.
 
 (4) The Council may allocate, in a manner that it determines, the surplus of any funds at its disposal to—
 

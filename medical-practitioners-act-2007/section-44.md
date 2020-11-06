@@ -18,7 +18,7 @@ Transitional provisions applicable to register.
 
 (c) the name of a medical practitioner whose name is entered in both the General Register of Medical Practitioners and the Register of Medical Specialists immediately before that day is only entered in the Specialist Division,
 
-(d) the name of a medical practitioner whose name is entered in the General Register of Medical Practitioners immediately before that day pursuant to section28 (as substituted by section6 of the Act of 2002) of the Act of 1978 is entered in the Trainee Specialist Division,
+(d) the name of a medical practitioner whose name is entered in the General Register of Medical Practitioners immediately before that day pursuant to section 28 (as substituted by section 6 of the Act of 2002) of the Act of 1978 is entered in the Trainee Specialist Division,
 
 (e) the name of a medical practitioner—
 
