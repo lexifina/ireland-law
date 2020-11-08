@@ -1,4 +1,4 @@
-F25[Affected areas orders
+F30[Affected areas orders
 
 31B. (1) Subject to subsection (2), the Minister may, having regard to the matters specified in section 31A(2), by order declare an area or region in the State to be an area where there is known or thought to be sustained human transmission of Covid- 19 or from which there is a high risk of importation of infection or contamination with Covid-19 by travel from that area (in this Act referred to as an ‘affected areas order’).
 
