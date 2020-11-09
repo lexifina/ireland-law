@@ -2,7 +2,7 @@ Driving without driving licence.
 
 12.— Section 38 of the Principal Act is amended—
 
-(a) in subsection (2), by substituting for paragraph(a) the following:
+(a) in subsection (2), by substituting for paragraph (a) the following:
 
 “(a) A person who contravenes subsection (1) is guilty of an offence and, subject to subsection (5), is liable on summary conviction—
 

@@ -8,7 +8,7 @@ Prohibition on holding mobile phone by driver of mechanically propelled vehicle,
 
 (4) The Minister may, to avoid the impairment or interference with the driving capacity or capabilities of the driver of a mechanically propelled vehicle, make regulations in relation to the restriction or prohibition in mechanically propelled vehicles in public places of the use of—
 
-(a) a mobile phone (other than in the circumstances referred to in subsection (1)),
+(a) a mobile phone (other than in the circumstances referred to in subsection (1) ),
 
 (b) an in-vehicle communication device,
 
@@ -20,7 +20,7 @@ Prohibition on holding mobile phone by driver of mechanically propelled vehicle,
 
 (6) A person who contravenes or fails to comply with regulations made under subsection (4) is guilty of an offence.
 
-(7) It is a defence for a person charged with an offence under subsection (3), in relation to holding a mobile phone while driving a mechanically propelled vehicle, or under subsection (6), in relation to the use of a mobile phone or an in-vehicle communication device, to show that he or she was—
+(7) It is a defence for a person charged with an offence under subsection (3) , in relation to holding a mobile phone while driving a mechanically propelled vehicle, or under subsection (6) , in relation to the use of a mobile phone or an in-vehicle communication device, to show that he or she was—
 
 (a) using it to call the Garda Síochána, an ambulance, fire or other emergency service on numbers prescribed for such service, or
 
