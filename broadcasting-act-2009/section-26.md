@@ -16,13 +16,13 @@ Functions of Authority.
 
 (g) direct the Contract Awards Committee to make arrangements, in accordance with Parts 6 and 8, to invite, consider and recommend to the Authority, and the Authority shall follow such recommendation, proposals for the provision of—
 
-(i) broadcasting services additional to any broadcasting services provided by RTÉ, TG4, the Houses of the Oireachtas Channel and the Irish Film Channel under Part 7, and
+(i) broadcasting services additional to any broadcasting services provided by RTÉ, TG4, the Houses of the Oireachtas Channel and the Irish Film Channel under Part 7 , and
 
 (ii) multiplex services additional to any multiplex services provided by RTÉ under Parts 7 and 8,
 
 (h) prepare rules and enter into contracts in respect of electronic programme guides,
 
-(i) determine disputes arising undersection 76(2) and section 77(5),
+(i) determine disputes arising under section 76(2) and section 77(5),
 
 (j) make a report to the Minister under section 77 (15),
 
@@ -40,7 +40,7 @@ Functions of Authority.
 
 (q) provide information to the public on the availability of services by means of television multiplexes, and
 
-(r) prepare and implement schemes for the granting of funds under Part 10.
+(r) prepare and implement schemes for the granting of funds under Part 10 .
 
 (2) The Authority has the following ancillary functions—
 

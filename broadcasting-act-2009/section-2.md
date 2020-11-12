@@ -24,7 +24,7 @@ Definitions.
 
 “broadcasting code” means a code prepared under section 42;
 
-“broadcasting contract” means a contract entered into under section 63, 64, 68 or 70;
+“broadcasting contract” means a contract entered into under section 63, 64 , 68 or 70 ;
 
 “broadcasting contractor” means a person holding a broadcasting contract;
 
@@ -100,7 +100,7 @@ Definitions.
 
 (d) being retained under contract, directly or indirectly, in any capacity as an adviser, consultant or lobbyist, or for the provision of services, by or in any business related to the functions of the public body concerned;
 
-“establishment day” means the day appointed by the Minister under section 5 to be the establishment day for the purposes of Part 2, sections 49, 157 and Part 12;
+“establishment day” means the day appointed by the Minister under section 5 to be the establishment day for the purposes of Part 2, sections 49, 157 and Part 12 ;
 
 “excepted person” means a person who is under the jurisdiction of another Member State and, for the purposes of this definition, the Council Directive applies for the purpose of determining the state under the jurisdiction of which the person falls;
 

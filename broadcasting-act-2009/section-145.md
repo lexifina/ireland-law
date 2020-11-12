@@ -12,7 +12,7 @@ Issue of television licences by agent.
 
 (b) identify persons who have television sets not authorised by a licence for the time being in force, on such terms and conditions as the Minister may decide.
 
-(5) Summary proceedings may be brought and prosecuted by an issuing agent for an offence under section 147 (3) or148.
+(5) Summary proceedings may be brought and prosecuted by an issuing agent for an offence under section 147 (3) or 148 .
 
 (6) An issuing agent shall maintain and furnish such data and information, and in such format (including electronic formats), as the Minister may require in relation to the exercise of powers conferred on the issuing agent under this Part.
 

@@ -4,7 +4,7 @@ Criteria for membership.
 
 (a) media affairs,
 
-(b) public service broadcasting, commercial broadcasting or community broadcasting ,
+(b) public service broadcasting, commercial broadcasting or community broadcasting,
 
 (c) broadcast content production,
 

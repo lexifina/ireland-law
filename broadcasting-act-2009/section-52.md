@@ -12,4 +12,4 @@ Definitions (Chapter 2).
 
 “investigation” means an investigation by an investigating officer into any of the matters referred to in section 53 (1);
 
-“investigating officer” means a person appointed as such undersection 53 (1).
+“investigating officer” means a person appointed as such under section 53 (1).

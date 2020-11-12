@@ -4,7 +4,7 @@
 
 Investigation into affairs of contractor.
 
-50.— (1) The Compliance Committee may for any of the reasons specified in subsection (2) conduct an investigation into the operational, programming, financial, technical or other affairs of a holder of a contract underPart 6 or 8 (“contractor”).
+50.— (1) The Compliance Committee may for any of the reasons specified in subsection (2) conduct an investigation into the operational, programming, financial, technical or other affairs of a holder of a contract under Part 6 or 8 (“contractor”).
 
 (2) The Compliance Committee may conduct, by appointing as an investigator a member of the staff of the Authority or another person the Committee considers to be suitably qualified to conduct, an investigation under this section if it has reasonable grounds for believing that a contractor is not providing a service in accordance with the terms of the contractor’s contract.
 

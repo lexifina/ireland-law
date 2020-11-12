@@ -2,7 +2,7 @@ Broadcasting rules.
 
 43.— (1) The Authority shall, subject to the requirements of section 41(2) and, in accordance with subsection (4), prepare, and from time to time as occasion requires, revise rules (“broadcasting rules”) with respect to—
 
-(a) the total daily times that shall be allowed for the transmission of advertisements and teleshopping material on a broadcasting service, in respect of a contract under Part 6,
+(a) the total daily times that shall be allowed for the transmission of advertisements and teleshopping material on a broadcasting service, in respect of a contract under Part 6 ,
 
 (b) the maximum period that shall be allowed in any given hour for the transmission of advertisements and teleshopping material (within the meaning of section 42 (8)) on such a broadcasting service, and the Authority may make different such rules with respect to different classes of broadcasting service,
 

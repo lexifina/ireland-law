@@ -8,7 +8,7 @@ Functions of Compliance Committee.
 
 (c) monitor compliance by—
 
-(i) broadcasters with sections 39, 40 and 41,
+(i) broadcasters with sections 39 , 40 and 41 ,
 
 (ii) RTÉ and TG4 with section 106 (3), and
 
@@ -16,11 +16,11 @@ Functions of Compliance Committee.
 
 (d) enforce compliance by—
 
-(i) broadcasters with sections 39, 40 and 41,
+(i) broadcasters with sections 39 , 40 and 41 ,
 
 (ii) RTÉ and TG4 with section 106 (3), and
 
-(iii) the Irish Film Channel withsection 127 (6),
+(iii) the Irish Film Channel with section 127 (6),
 
 (e) monitor compliance by broadcasters with any broadcasting code or rule,
 

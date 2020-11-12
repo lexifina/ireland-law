@@ -6,7 +6,7 @@ Must-carry and must-offer obligations.
 
 (c) For the purposes of this section a holder of a licence referred to in section 76(1), the terms of which authorise the transmission by means of a MMD system of programme material, is not an appropriate network provider by virtue of being a licensee or associated activities.
 
-(d) For the purposes of this section a holder of a licence issued under section 59 or 121, the terms of which authorise the transmission of programme material, is not an appropriate network provider by virtue of being a licensee under that section or associated activities.
+(d) For the purposes of this section a holder of a licence issued under section 59 or 121 , the terms of which authorise the transmission of programme material, is not an appropriate network provider by virtue of being a licensee under that section or associated activities.
 
 (2) Where the Authority is of the view, after carrying out a review and after consultation with the Communications Regulator, that a type or class of network system, rather than an individual network system, is not used by a significant number of end-users as their principal means of receiving transmissions of programme material, it may propose to the Minister the full or partial removal of the obligations set out in subsections (3), (4), (5), (6), (7), (8), (9) and (10) on that type or class of network system. The Minister may make an order to that effect.
 

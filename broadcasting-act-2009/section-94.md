@@ -16,4 +16,4 @@ Disclosure by staff and contractors for services of certain interests.
 
 (4) In this section ‘‘member of staff’’ includes the director general.
 
-(5) In this section and sections 95, 104 and 116, “subsidiary” means a subsidiary of a corporation.
+(5) In this section and sections 95, 104 and 116 , “subsidiary” means a subsidiary of a corporation.

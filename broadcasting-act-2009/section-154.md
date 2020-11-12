@@ -22,7 +22,7 @@ Broadcasting funding scheme.
 
 (c) new television or sound broadcasting programmes which raise public awareness and understanding of global issues impacting on the State and countries other than the State,
 
-(d) programmes under paragraphs (a), (b) and (c) in the Irishlanguage,
+(d) programmes under paragraphs (a), (b) and (c) in the Irish language,
 
 (e) the development of archiving of programme material for all or any of the descriptions of programme specified in paragraphs (a), (b), (c), (d) and (f), including technological and system developments for the purposes of enhancing the availability of and access to archived programme material, and
 

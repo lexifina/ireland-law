@@ -1,6 +1,6 @@
 ## PART 9 TELEVISION LICENCE
 
-Definitions (Part 9) — order —
+Definitions (Part 9) — order —“specified place”.
 
 140.— (1) In this Part—
 

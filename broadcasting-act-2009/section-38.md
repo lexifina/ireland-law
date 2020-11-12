@@ -2,7 +2,7 @@ Reports to Minister.
 
 38.— (1) The Authority shall, not later than 30 June in each year, make a report to the Minister (in this section referred to as an “annual report”) in such form as the Minister may approve, on the performance of its functions and on its activities, during the preceding year. The Minister shall cause copies of each annual report to be laid before each House of the Oireachtas.
 
-(2) An annual report shall include details of any scheme approved under Part 10.
+(2) An annual report shall include details of any scheme approved under Part 10 .
 
 (3) An annual report shall include a report to the Minister by each statutory committee in such form as the Minister may approve, on the performance of its functions and on its activities, during the preceding year.
 

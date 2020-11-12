@@ -12,7 +12,7 @@ Transitional provisions — BCI.
 
 (6) Any legal proceedings pending immediately before the establishment day to which the BCI is a party shall be continued with the substitution in the proceedings for the BCI of the Authority.
 
-(7) Any licences granted by the Communications Regulator to the BCI under an enactment repealed by section 3which were extant on the passing of this Act continue.
+(7) Any licences granted by the Communications Regulator to the BCI under an enactment repealed by section 3 which were extant on the passing of this Act continue.
 
 (8) Any contracts entered into by the BCI under an enactment repealed by section 3 which were extant on the passing of this Act continue.
 
