@@ -18,11 +18,13 @@ Offences.
 
 (5) A person who is required by this Act to give to a registrar the required particulars relating to a birth, a new born child found abandoned, a stillbirth or a death and who, without reasonable cause, fails or refuses to answer a question put to him or her by a registrar in relation to those particulars is guilty of an offence.
 
+(5A) A person who, without reasonable cause, fails or refuses to furnish evidence requested by the registrar under subsection (1A) or (3)(ba) of section 19, or subsection (1A) or (2)(ba) of section 37 is guilty of an offence.
+
 (6) A person who is required by this Act to sign a register in the presence of a registrar and who, without reasonable cause, fails or refuses to do so is guilty of an offence.
 
 (7) A person who is required by this Act (other than section 41) to give a certificate to a registrar and who, without reasonable cause, fails or refuses to do so is guilty of an offence.
 
-(8) A person who, without reasonable cause, fails or refuses to comply with a direction given to him or her under section 13(6) or a requirement in a notice given to or served on him or her under section 19(3), 24(5), 37(2), 50(2), 64(2) or 65(2) is guilty of an offence.
+(8) A person who, without reasonable cause, fails or refuses to comply with a direction given to him or her under section 13(6) or a requirement in a notice given to or served on him or her under section 19(3), 22(1B)(ii), 22(3A), 24(5), 37(2), 50(2), 64(2) or 65(2) is guilty of an offence.
 
 (9) A registrar who, without reasonable cause, fails or refuses to give a marriage registration form to one of the parties to an intended marriage in respect of which he or she has received, pursuant to section 46, a notification under subsection (1)(a)(i) of that section or a copy of an order under section 47 granting an exemption from the application of the said subsection (1)(a)(i) is guilty of an offence.
 

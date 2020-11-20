@@ -14,7 +14,7 @@ Notification of marriages.
 
 (2) Except in such circumstances as may be prescribed, a notification referred to in subsection (1)(a)(i) shall be delivered by both of the parties to the intended marriage, in person, to the registrar.
 
-(3) The notification aforesaid shall be accompanied by the prescribed fee and such (if any) other documents and information as may be specified by an tArd-Chláraitheoir.
+(3) A notification or a copy of a court order referred to in subsection (1)(a) shall be accompanied by the prescribed fee and such (if any) other documents and information as may be specified by an tArd-Chláraitheoir.
 
 (3A) Where one or each of the persons notifying the registrar under this section is a foreign national, the notification or copy of the court order shall be accompanied by such documents and information as may be specified by an tArd-Chláraitheoir regarding the immigration status of the foreign national concerned or any other matter relating to that foreign national referred to at section 58(4C).
 

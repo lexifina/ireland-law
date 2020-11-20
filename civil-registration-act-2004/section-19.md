@@ -12,13 +12,17 @@ Provision of particulars, and registration, of births.
 
 (iii) there, to sign the register in the presence of the registrar.
 
+(1A) It is the duty of a person referred to in paragraph (a) or (b) of subsection (1) to furnish to the registrar such evidence in his or her possession or within his or her power to so furnish, relating to the required particulars of the birth as may be requested by the registrar.
+
 (2) Where a person complies with subsection (1) in relation to a birth, the other persons referred to in that subsection are discharged from the performance in relation to that birth of the duty imposed by that subsection.
 
 (3) Where, owing to non-compliance with subsection (1), a birth is not registered and, having made reasonable efforts to do so, the Superintendent Registrar in whose registration area the birth occurred is unable to contact either parent of the child concerned, the Superintendent Registrar may give a qualified informant a notice in writing requiring the informant—
 
 (a) to attend before a registrar in that registration area, at the office of the registrar or such other (if any) convenient place as may be specified by the Superintendent Registrar on or before a day so specified (not being less than 7 days from the date of the notice nor more than 12 months from the date of the birth),
 
-(b) there, to give to the registrar, to the best of his or her knowledge and belief, the required particulars of the birth, and
+(b) there, to give to the registrar, to the best of his or her knowledge and belief, the required particulars of the birth,
+
+(ba) to furnish to the registrar such evidence in his or her possession or within his or her power to so furnish, relating to the required particulars of the birth as may be requested by the registrar, and
 
 (c) there to sign the register in the presence of the registrar, and, unless the birth is registered before the date of the attendance aforesaid, the informant shall comply with the requirement.
 
@@ -30,9 +34,13 @@ Provision of particulars, and registration, of births.
 
 (b) neither the parents nor another qualified informant can be found after all reasonable efforts to do so have been made, an tArd-Chláraitheoir may cause the birth to be registered on production to him or her of such evidence as he or she considers adequate for the purpose which, in the case referred to in paragraph (b), shall include, if the place where the birth occurred is known, evidence that the Superintendent Registrar in whose registration area the birth occurred made all reasonable efforts to find the parents or a qualified informant.
 
+(5A) The registrar shall notify the Superintendent Registrar of the registration area to which the registrar is assigned, who shall advise an tArd-Chláraitheoir of a request in that behalf, and an tArd-Chláraitheoir, on production to him or her of such evidence as he or she considers adequate to show that exceptional circumstances exist such that it is necessary for the relief of undue hardship, may direct the Superintendent Registrar to cause the birth to be registered notwithstanding that a person referred to in paragraph (a) or (b) of subsection (1) or a qualified informant has not signed the register.
+
 (6) In this section “qualified informant”, in relation to the birth of a child, means—
 
 (a) the parents or the surviving parent of the child,
+
+(aa) in so far as it relates to a child who makes a request under section 22(2)(d) or 23A(1), the child,
 
 (b) a guardian of the child,
 

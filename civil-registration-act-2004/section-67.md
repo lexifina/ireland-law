@@ -6,6 +6,12 @@ Fees.
 
 (b) such other matters as may be prescribed, and the references aforesaid to registrar, within the meaning of section 17, include references to such a registrar acting as a registered solemniser (within the meaning of Part 6).
 
+(1A) The Minister may prescribe—
+
+(a) a fee of a lesser amount than that prescribed under subsection (1), and
+
+(b) an enactment by or under which it is required that age, civil status or death is proved, where the Minister is of the view that, in order that a person may comply with the enactment so prescribed, the lesser fee should be payable in respect of performance of functions under this Act relating to the giving of a copy certified to be a true copy, a copy, or a certified copy of an entry in a register maintained under section 13.
+
 (2) A person referred to in subsection (1) may refuse to perform a function (other than a prescribed function) in respect of which a fee is payable under this Act if the fee is not paid to him or her.
 
 (3) A fee under this Act that is due and unpaid may be recovered from the person by whom it is payable by the person to whom it is payable as a simple contract debt in any court of competent jurisdiction.
