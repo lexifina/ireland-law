@@ -30,9 +30,7 @@ Session and Chapter or Short Title Extent of Repeal Number and Year
 
 43 & 44 Vict., c. 13 Births and Deaths Registration Act The whole Act. (Ireland) 1880
 
-No. 13 of 1931 Legitimacy Act 1931 Section 1(4) and the Schedule. Session and Chapter or Short Title Extent of Repeal Number and Year
-
-(1) (2) (3)
+No. 13 of 1931 Legitimacy Act 1931 Section 1(4) and the Schedule.
 
 No. 34 of 1936 Registration of Births and Deaths Act The whole Act. 1936
 
@@ -40,7 +38,9 @@ No. 35 of 1936 Registration of Marriages Act 1936 The whole Act.
 
 No. 47 of 1936 Marriages Act 1936 The whole Act.
 
-No. 8 of 1952 Vital Statistics and Births, Deaths and The whole Act. Marriages Registration Act 1952
+No. 8 of 1952 Vital Statistics and Births, Deaths and The whole Act. Marriages Registration Act 1952 Session and Chapter or Short Title Extent of Repeal Number and Year
+
+(1) (2) (3)
 
 ... ... ...
 
