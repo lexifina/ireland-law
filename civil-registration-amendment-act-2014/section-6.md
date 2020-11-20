@@ -14,9 +14,7 @@ Amendment of section 22 of Principal Act
 
 (b) gives, unless subsection (1D) applies, to the registrar the required particulars of the birth, and
 
-(c) signs the register, the registrar shall—
-
-(i) register the birth of the child with required particulars, other than the surname of the child and those relating to the father of the child, and
+(c) signs the register, the registrar shall— (i) register the birth of the child with required particulars, other than the surname of the child and those relating to the father of the child, and
 
 (ii) make all reasonable efforts to give notice in writing to the person requiring him to within 28 days attend before a registrar, at the office of the registrar or such other (if any) convenient place in the registration area concerned, as may be specified by the registrar in the notice, and there to inform the registrar if he agrees that he is the father of the child.
 
