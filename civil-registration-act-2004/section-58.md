@@ -115,5 +115,3 @@ Objections.
 (10) A person who has lodged an objection under subsection (1) may withdraw the objection, but an tArd-Chláraitheoir may, if he or she considers it appropriate to do so, investigate, or complete his or her investigation of, the objection and issue any directions to the registrar concerned in relation to the matter that he or she considers necessary.
 
 (11) An objection on the ground that the marriage would be void by virtue of the Marriage of Lunatics Act 1811 shall be accompanied by a certificate of a registered medical practitioner supporting the objection.
-
-58A.

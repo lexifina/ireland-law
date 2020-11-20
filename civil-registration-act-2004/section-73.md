@@ -248,7 +248,7 @@ Personal public service number of deceased.
 
 Civil status of deceased.
 
-Date of birth or age last birthday of deceased.
+Date of birth ... of deceased.
 
 Profession or occupation of deceased.
 
@@ -273,8 +273,6 @@ If an inquest in relation to the death or a post-mortem examination of the body 
 Date of registration.
 
 Signature of registrar.
-
-## PARTICULARS OF DEATHS TO BE ENTERED IN REGISTER OF DEATHS
 
 ## PART 5B PARTICULARS OF PRESUMED DEATHS TO BE ENTERED IN THE REGISTER OF PRESUMED DEATHS
 
@@ -306,7 +304,9 @@ Year and record number of the proceedings.
 
 Forenames, surnames and birth surnames of the parties to the proceedings.
 
-Personal public service numbers of the parties to the proceedings. Date and place of civil partnership registration.
+Personal public service numbers of the parties to the proceedings.
+
+Date and place of civil partnership registration.
 
 Date of the decree.
 
@@ -340,15 +340,15 @@ Court by which the decree was granted.
 
 Year and record number of the proceedings.
 
-Forenames, surnames and birth surnames of the parties to the proceedings. Personal public service numbers of the parties to the proceedings.
+Forenames, surnames and birth surnames of the parties to the proceedings.
+
+Personal public service numbers of the parties to the proceedings.
 
 Date and place of civil partnership registration.
 
 Declaration of court.
 
-Date of the decree.
-
-Date of registration.
+Date of the decree. Date of registration.
 
 Forenames and surname of officer of Courts Service.
 
