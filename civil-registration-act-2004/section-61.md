@@ -12,6 +12,12 @@ Searches.
 
 (iii) a certified extract, of an entry specified by the person in such a register.
 
+(1A) Where the age, civil status or death of a person is required to be proved by or under an enactment prescribed under section 67(1A), a person—
+
+(a) on production by him or her of verification of the requirement for proof, as part of an application in that behalf under subsection (1), and
+
+(b) on payment by him or her of a fee prescribed under section 67(1A), shall be given a copy certified to be a true copy, a copy, or a certified extract of an entry in a register maintained under section 13.
+
 (2) Subject to subsections (3) and (4), an tArd-Chláraitheoir, a Superintendent Registrar, a registrar or an authorised officer shall, on application by a person to him or her in that behalf in writing and—
 
 (a) on payment to him or her of the prescribed fee, search such of the registers maintained under section 13, and the indexes thereto, as are specified in the application, or
@@ -42,7 +48,7 @@ Searches.
 
 (b) section 86 of the Adoption Act 2010.
 
-(4) A copy of an entry referred to in subsection (1) (b) or (2) (b) shall omit any reference to or particulars of a personal public service number and “true copy” in those provisions shall be construed accordingly.
+(4) A copy of an entry referred to in subsection (1) (b) , (1A) or (2) (b) shall omit any reference to or particulars of a personal public service number and “true copy” in those provisions shall be construed accordingly.
 
 (5) The Minister may make regulations specifying particulars to be included in a certified extract referred to in subsection (1) or (2).
 
