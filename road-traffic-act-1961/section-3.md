@@ -32,6 +32,8 @@ Interpretation.
 
 “contravenes” includes refuses or fails to comply with, and “contravention” shall be construed accordingly;
 
+‘detachable disc’ means that part of a test certificate, for the time being in force in respect of a vehicle, which may be detached from the certificate to be affixed to the vehicle;
+
 “driving” includes managing and controlling and, in relation to a bicycle or tricycle, riding, and “driver” and other cognate words shall be construed accordingly;
 
 ‘driving licence’ means—
@@ -39,6 +41,8 @@ Interpretation.
 (a) an Irish driving licence, or
 
 (b) a foreign driving licence;
+
+‘EU roadworthiness certificate’ in relation to a vehicle means a roadworthiness certificate within the meaning of the Roadworthiness Directive issued by a Member State competent authority or a Member State testing centre which has not expired or otherwise been cancelled or revoked and, insofar as the frequency intervals for vehicle testing are concerned, is still valid by reference to the frequency intervals prescribed by regulations made under section 18 for tests of mechanically propelled vehicles;
 
 “footway” means that portion of any road which is provided primarily for the use of pedestrians;
 
@@ -69,6 +73,10 @@ Interpretation.
 (a) a bicycle or tricycle with an attachment for propelling it by mechanical power, whether or not the attachment is being used,
 
 (b) a vehicle the means of propulsion of which is electrical or partly electrical and partly mechanical, but not including a tramcar or other vehicle running on permanent rails;
+
+‘Member State competent authority’ means an authority or public body in a Member State, other than the State, with responsibility for managing the system of roadworthiness testing in that Member State, including, where appropriate, the carrying out of roadworthiness tests for the purposes of the Roadworthiness Directive;
+
+‘Member State testing centre’ means a public or private body or establishment in a Member State, other than the State, authorised to carry out roadworthiness tests in that Member State for the purposes of the Roadworthiness Directive;
 
 ‘Minister’ means Minister for Transport;
 
@@ -138,6 +146,8 @@ Interpretation.
 
 “roadway” means that portion of a road which is provided primarily for the use of vehicles;
 
+‘Roadworthiness Directive’ means Directive 2014/45/EU of the European Parliament and of the Council of 3 April 2014;
+
 “small public service vehicle” means a public service vehicle which is not a large public service vehicle;
 
 “special disqualification order” has the meaning specified in subsection (5) of section 28;
@@ -146,7 +156,11 @@ Interpretation.
 
 “street service vehicle” means a small public service vehicle the driver of which offers in a public place himself and the vehicle for hire and for that purpose stands or drives the vehicle in a public place;
 
-“test certificate” has the meaning specified in paragraph (b) of subsection (8) of section 18;
+‘test certificate’ means -
+
+(a) a certificate issued under section 18, or
+
+(b) an EU roadworthiness certificate;
 
 “use”, in relation to a vehicle, includes park, and cognate words shall be construed accordingly;
 
