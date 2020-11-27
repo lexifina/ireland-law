@@ -16,13 +16,13 @@ Tests of mechanically propelled vehicles.
 
 (6) In this section “the issuing authority” means the person who, in the case in question and in accordance with the regulations under this section, is the issuing authority.
 
-(7) The owner of a ... vehicle to which this section applies may apply to the issuing authority for a test certificate in respect of the vehicle.
+(7) The owner of a ... vehicle to which this section applies may apply to the issuing authority for a certificate referred to in paragraph (a) of the definition of ‘test certificate’ in section 3 in respect of the vehicle.
 
 (8) Where an application is duly made under subsection (7) of this section and the prescribed fee is paid—
 
 (a) the issuing authority shall test or cause to be tested the vehicle in accordance with the regulations under this section,
 
-(b) in case the issuing authority is satisfied as a result of the test that the vehicle complies with the prescribed requirements, it shall issue a certificate (in this Act referred to as a test certificate) certifying such compliance,
+(b) in case the issuing authority is satisfied as a result of the test that the vehicle complies with the prescribed requirements, it shall issue a certificate ... certifying such compliance,
 
 (c) in case the issuing authority is not so satisfied—
 
@@ -44,9 +44,9 @@ Tests of mechanically propelled vehicles.
 
 (e) the specifying of the persons by whom new tests directed pursuant to subparagraph (ii) of paragraph (c) of subsection (8) of this section are to be carried out;
 
-(f) the making of applications for test certificates and the specifying of conditions subject to which such applications may be made;
+(f) the making of applications for certificates referred to in paragraph (a) of the definition of ‘test certificate’ in section 3 and the specifying of conditions subject to which such applications may be made;
 
-(g) the fees to be paid by applicants for test certificates and the disposition of such fees;
+(g) the fees to be paid by applicants for certificates referred to in paragraph (a) of the definition of ‘test certificate’ in section 3 and the disposition of such fees;
 
 (h) the requirements in respect of which tests are to be carried out;
 
@@ -60,9 +60,11 @@ Tests of mechanically propelled vehicles.
 
 (m) the keeping of records by specified persons;
 
-(n) the form and period of validity of test certificates;
+(n) the form of certificates referred to in paragraph (a) of the definition of ‘test certificate’ in section 3 and period of validity of test certificates;
 
-(o) the delegation by issuing authorities to specified persons of the functions of such authorities under paragraphs (b) and (c) of subsection (8) of this section.
+(o) the delegation by issuing authorities to specified persons of the functions of such authorities under paragraphs (b) and (c) of subsection (8);
+
+(p) the verification of the validity of a test certificate where there is doubt as to the validity of the certificate.
 
 (11) Regulations under this section may make different provisions for different classes of cases coming within the same matter.
 
