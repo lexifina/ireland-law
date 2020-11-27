@@ -18,7 +18,9 @@ Certificates of competency.
 
 (a) a licence taken out under section 1 of the Finance (Excise Duties) (Vehicles) Act 1952, and
 
-(b) where the vehicle is a vehicle to which section 18 applies, a test certificate, for the time being in force, in respect of the vehicle.
+(b) subject to subsection (3BB), where the vehicle is a vehicle to which section 18 applies, a test certificate, for the time being in force, in respect of the vehicle.
+
+(3BB) Where an EU roadworthiness certificate does not have a detachable disc, the proof of test issued by the Member State competent authority or the Member State testing centre concerned for the purposes of Article 10 of the Roadworthiness Directive shall be presented to the issuing authority for the purposes of subsection (3B).
 
 (3C) If a licence or test certificate referred to in subsection (3B) is not displayed in accordance with that subsection, the application for a certificate of competency is refused and any fee paid in respect of the application is forfeited.
 
