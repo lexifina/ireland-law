@@ -1,6 +1,6 @@
 Report following investigation under section 98.
 
-101.— (1) On completing an investigation under section 98, the designated officer concerned shall report in writing to the Ombudsman Commission the results of the section investigation.
+101.— (1) On completing an investigation under section 98, the designated officer concerned shall report in writing to the Ombudsman Commission the results of the investigation.
 
 (2) If the Ombudsman Commission, after considering the designated officer’s report, is of the opinion that the conduct under investigation may constitute an offence by the member of the Garda Síochána concerned, it shall—
 

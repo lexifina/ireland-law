@@ -1,6 +1,6 @@
 Regulations relating to police co-operation under sections 52 to 56.
 
-125.— (1) The Minister may, after consulting with the Garda Commissioner and the Authority and with the approval of the Government, make regulations— sections
+125.— (1) The Minister may, after consulting with the Garda Commissioner and the Authority and with the approval of the Government, make regulations—
 
 (a) specifying the ranks that members of the Police Service of Northern Ireland to 56 . must hold to be eligible for appointment under section 52 or 53 to specified ranks in the Garda Síochána and any experience that may be necessary or desirable for that appointment,
 

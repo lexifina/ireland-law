@@ -1,6 +1,6 @@
 Powers relating to investigation under section 95.
 
-96.— (1) For the purpose of an investigation under section 95, the Ombudsman Commission— section
+96.— (1) For the purpose of an investigation under section 95, the Ombudsman Commission—
 
 (a) may require a person who, in its opinion, possesses information or has a document or thing in his or her power or control that is relevant to the investigation, to provide that information, document or thing to the Commission, and
 
