@@ -32,7 +32,7 @@ Interpretation.
 
 ...
 
-“Regulation (EC) No. 261/2004” means Council Regulation (EC) No. 261/2004 of the European Parliament and of the Council of 11 February 2004, establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights;
+“Regulation (EC) No. 261/2004” means Council Regulation (EC) No. 261/2004 of the European Parliament and of the Council of 11 February 2004 , establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights;
 
 “superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death;
 
