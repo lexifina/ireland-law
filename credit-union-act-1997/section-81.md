@@ -8,7 +8,7 @@ General meetings: adjournment, quorum and minutes.
 
 (2) Subject to subsection (3), in section 80—
 
-(a) paragraphs (a), (b) and (d) of subsection (2) shall apply to a notice under subsection (1)(b) of this section as they apply to a notice under subsection (1) of that section; and
+(a) paragraphs (a), (b), (d) and (e) of subsection (2) shall apply to a notice under subsection (1)(b) of this section as they apply to a notice under subsection (1) of that section; and
 
 (b) subsections (6) and (7) shall apply in relation to an adjourned meeting as they apply in relation to a general meeting.
 
