@@ -20,7 +20,7 @@ Interpretation.
 
 “cyclically-adjusted” means adjusted to take account of effects estimated to be due to the operation of the economic cycle;
 
-“Estimates for Public Services” means the estimates of expenditure submitted by the Government to Dáil Éireann for approval in relation to supply grants and appro-priations-in-aid in respect of supply services for a year;
+“Estimates for Public Services” means the estimates of expenditure submitted by the Government to Dáil Éireann for approval in relation to supply grants and appropriations-in-aid in respect of supply services for a year;
 
 “European system of accounts” means the European system of national and regional accounts in the Community as provided for under Council Regulation (EC) No. 2223/96 of 25 June 1996 , as it has effect as amended from time to time;
 
