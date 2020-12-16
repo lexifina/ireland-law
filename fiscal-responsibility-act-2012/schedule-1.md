@@ -22,7 +22,7 @@ Term of office
 
 2. (1) Except where paragraph 3 or 4(5) makes provision for the term of office of a member of the Fiscal Council to be the period specified there, the term of office of a member of the Fiscal Council is 4 years.
 
-(2) A person may not be a member of the Fiscal Council for more than 2 consecutive terms of office but is otherwise eligible for reappointment.
+(2) A person may not be a member of the Fiscal Council for more than 3 consecutive terms of office but is otherwise eligible for reappointment.
 
 Appointment of initial members
 
