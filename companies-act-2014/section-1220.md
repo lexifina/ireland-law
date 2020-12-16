@@ -32,15 +32,9 @@ Exemption from filing with Registrar financial statements, etc.
 
 (b) those circumstances are such as would, but for the repeal of that section 128, warrant the relevant authority exercising the power of revocation that but, for that repeal, would have been available to them in relation to the particular order that had subsisted, under that subsection (5), in relation to that company, then the relevant authority shall, by virtue of those circumstances, be empowered to declare in writing that sections 347 and 348 shall, on and from a date specified in the declaration, apply to that company and, where the relevant authority so declares, sections 347 and 348 shall apply to that company on and from the date so specified.
 
-(7) In subsection (8)—
+(7) ...
 
-“electronic means” means those provided for under the Electronic Commerce Act 2000 and effected in compliance with any requirements of the Registrar of the kind referred to in sections 12(2)(b) and 13(2)(a) of that Act;
-
-“required documents” means the copy of the report referred to in paragraph (a) of subsection (3), accompanied by the certificate referred to in paragraph (b) of that subsection;
-
-“required period” means the period referred to in section 343(2) or (3), as the case may be, or, where that period stands extended in accordance with section 343(5) and (6), that period as it stands so extended.
-
-(8) Where a CLG makes its annual return by electronic means to the Registrar within the required period then, notwithstanding that the required documents have not been annexed to the annual return, the annual return shall be deemed to have been delivered to the Registrar within the required period with the foregoing documents annexed to it if those documents are delivered to the Registrar within 28 days after the date on which the annual return has been delivered to the Registrar by electronic means.
+(8) ...
 
 (9) In this section—
 

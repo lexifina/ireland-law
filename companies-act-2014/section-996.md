@@ -22,15 +22,9 @@ Exemption from filing with Registrar financial statements, etc.
 
 (b) it is accompanied by a certificate of a director and the secretary of the company, that bears the signature of the director and the secretary in electronic or written form, stating that the copy is a true copy of the original (and the foregoing statement need not be qualified on account of the difference permitted by paragraph (a) as to the form of a signature or of a date).
 
-(4) In subsection (5)—
+(4) ...
 
-“electronic means” means those provided for under the Electronic Commerce Act 2000 and effected in compliance with any requirements of the Registrar of the kind referred to in sections 12(2)(b) and 13(2)(a) of that Act;
-
-“required documents” means the copy of the report referred to in paragraph (a) of subsection (3), accompanied by the certificate referred to in paragraph (b) of that subsection;
-
-“required period” means the period referred to in section 343(2) or (3), as the case may be, or, where that period stands extended in accordance with section 343(5) and (6), that period as it stands so extended.
-
-(5) Where a DAC makes its annual return by electronic means to the Registrar within the required period then, notwithstanding that the required documents have not been annexed to the annual return, the annual return shall be deemed to have been delivered to the Registrar within the required period with the foregoing documents annexed to it if those documents are delivered to the Registrar within 28 days after the date on which the annual return has been delivered to the Registrar by electronic means.
+(5) ...
 
 (6) In this section “relevant authority” means—
 

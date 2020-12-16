@@ -8,7 +8,7 @@ Alteration of annual return date
 
 (2) Save in the case of a company delivering its first annual return and subject to subsections (3) and (4), a company may establish a new annual return date by delivering an annual return to the Registrar made up to its existing annual return date in accordance with section 343(2), being an annual return—
 
-(a) that is so delivered not later than 28 days after its existing annual return date, and
+(a) that is so delivered not later than 56 days after its existing annual return date, and
 
 (b) to which there is annexed a notification in the prescribed form nominating the new annual return date, but, notwithstanding anything to the contrary in this Act, the company shall not be required to annex statutory financial statements, or the other documents referred to in section 347(1), to such a return.
 
