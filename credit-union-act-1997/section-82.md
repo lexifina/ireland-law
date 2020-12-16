@@ -4,7 +4,7 @@ Supplementing provisions as to general meetings.
 
 (2) At a general meeting of a credit union, or any adjournment thereof, each member shall have only one vote on each question, irrespective of his shareholding in the credit union.
 
-(3) Subject to subsection (4), a member of a credit union may not vote by proxy at a general meeting of the credit union.
+(3) ...
 
 (4) Where a member of a credit union is not a natural person, that member may be represented at a general meeting by a representative who may vote on behalf of the member if—
 
@@ -17,3 +17,13 @@ Supplementing provisions as to general meetings.
 (a) of excluding the right to demand a poll at a general meeting (or an adjourned meeting) on any question, other than the election of the chair of the meeting (or the adjourned meeting); or
 
 (b) of making ineffective a demand for a poll on any such question which is made by not less than ten members having the right to vote at the meeting (or, as the case may be, the adjourned meeting).
+
+(6) The Minister may, if he or she considers it appropriate, by regulations under section 182, make further provision for all or any of the following in relation to general meetings to be held wholly or partly by the use of electronic communications technology:
+
+(a) the convening and conduct of the meetings;
+
+(b) attendance at the meetings;
+
+(c) access to and participation in the meetings;
+
+(d) such other matters relating to the meetings as he or she considers appropriate for the purposes of section 78A or 78B, as the case may be.

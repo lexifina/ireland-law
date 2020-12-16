@@ -22,6 +22,8 @@ Prohibition of certain secured borrowings.
 
 (b) the European Financial Stabilisation Mechanism,
 
-(c) the European Financial Stability Facility, and
+(c) the European Financial Stability Facility, ...
+
+(ca) the European Union as lender to the State under any loan agreement with the European Union, and
 
 (d) the lender under any bilateral loan agreement with a Member State.

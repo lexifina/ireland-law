@@ -38,6 +38,8 @@ Interpretation.
 
 ‘Court’ means the High Court;
 
+‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
+
 ‘credit institution’ means—
 
 (a) a recognised bank within the meaning of the Central Bank Acts 1942 to 2011,
@@ -62,6 +64,12 @@ Interpretation.
 
 ‘general meeting’ means an annual general meeting or a special general meeting;
 
+‘interim period’ means—
+
+(a) the period beginning on the date of the passing of the Finance (Miscellaneous Provisions) Act 2020 and ending on 30 April 2021, and
+
+(b) such other period (if any) as may be specified by order under section 3A;
+
 ‘internal audit charter’ has the meaning given by section 76K(2);
 
 ‘internal audit function’ has the meaning given by section 76K(1);
@@ -80,9 +88,7 @@ Interpretation.
 
 ‘nomination committee’ has the meaning given by section 56B(1);
 
-‘non-qualifying member’, in relation to a credit union, has the meaning given by section 17(4);
-
-‘officer’, in relation to a credit union, includes—
+‘non-qualifying member’, in relation to a credit union, has the meaning given by section 17(4); ‘officer’, in relation to a credit union, includes—
 
 (a) the chair, the secretary or any other member of the board of directors, a member of a principal Committee, a member of the board oversight committee, risk management officer, compliance officer, credit officer or credit control officer of the credit union,
 
@@ -124,15 +130,19 @@ Interpretation.
 
 ‘special general meeting’ shall be construed in accordance with section 79;
 
-‘special resolution’ means a resolution which is passed by a majority of not less than three quarters of such members of a credit union present and voting and who are for the time being entitled to vote in person at any general meeting of which notice, specifying the intention to propose the resolution, has been duly given according to the rules of the credit union;
+‘special resolution’ means a resolution which is passed by a majority of not less than three quarters of such members of a credit union present and voting and who are for the time being entitled to vote in person or, subject to the rules of the credit union, by proxy at any general meeting of which notice, specifying the intention to propose the resolution, has been duly given according to the rules of the credit union;
 
 ‘strategic objectives’ has the meaning given by section 76A(1);
 
-‘strategic plan’ has the meaning given by section 76A(1);
+‘strategic plan’ has the meaning given by section 76A(1); ‘voluntary assistant’, in relation to a credit union, means a member of the credit union who, although not a remunerated employee of the credit union, is engaged in any way in the operation of the credit union.
 
-‘voluntary assistant’, in relation to a credit union, means a member of the credit union who, although not a remunerated employee of the credit union, is engaged in any way in the operation of the credit union.
+(2) Any reference in this Act to a member present at a meeting means—
 
-(2) Any reference in this Act to a member present at a meeting means, in the case of a member which is not a natural person, being represented at the meeting by a representative, as mentioned in section 82 (4).
+(a) in the case of a member who is not a natural person, being represented at the meeting by a representative, as mentioned in section 82(4), and
+
+(b) in the case of a member who has appointed a proxy under section 82A, being represented at the meeting by such proxy.
+
+(2A) Any reference in this Act to a member present and voting at a general meeting shall be construed as including a reference to a member in attendance and voting at a general meeting conducted wholly or partly by the use of electronic communications technology (within the meaning of section 78A).
 
 (3) In this Act a reference to a Part, section or Schedule is to a Part, section or Schedule of or to this Act, unless it is indicated that reference to some other enactment is intended.
 

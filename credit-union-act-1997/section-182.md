@@ -26,6 +26,8 @@ General regulations.
 
 (l) making provision with respect to the settlement of disputes in accordance with section 125;
 
+(la) making provision with respect to all or any of the matters provided for in section 82(6);
+
 (m) ...
 
 (n) prescribing any other matter which, under any provision of this Act, is to be prescribed except where it is provided that the matter is to be prescribed by the Bank.

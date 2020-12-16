@@ -4,17 +4,31 @@ Notice of general meetings.
 
 (2) Subject to subsection (4), the notice required by subsection (1)—
 
-(a) shall state the date, time and place of the general meeting;
+(a) shall state the date, time, place (where applicable) and manner of holding (where applicable) of the general meeting;
 
 (b) shall be accompanied by the agenda for the meeting;
 
-(c) in the case of a notice of a special general meeting, shall contain a statement that the annual accounts for the most recent financial year may be obtained, not later than seven days before the date of the general meeting, at the registered office of the credit union; and
+(c) in the case of a notice of a special general meeting, shall contain a statement that the annual accounts for the most recent financial year may be obtained, not later than seven days before the date of the general meeting, at the registered office of the credit union;
 
-(d) shall, within the relevant period, be delivered personally or by post to the auditor and to each member of the credit union and, if delivered by post to any member, shall be so delivered to the address of that member as recorded in the books of the credit union.
+(d) shall, within the relevant period, be delivered personally or by post to the auditor and to each member of the credit union and, if delivered by post to any member, shall be so delivered to the address of that member as recorded in the books of the credit union, and
+
+(e) shall, in the case of a general meeting proposed to be held wholly or partly by the use of electronic communications technology, state—
+
+(i) the electronic platform to be used for the meeting,
+
+(ii) details for access to the electronic platform,
+
+(iii) where required by a credit union, the time and manner by which an attendee must confirm his or her intention to attend the meeting,
+
+(iv) any requirements or restrictions which the credit union has put in place in order to identify attendees who intend to attend the meeting,
+
+(v) the procedure for attendees to communicate questions and comments during the meeting, and
+
+(vi) the procedure to be adopted for voting on resolutions proposed to be passed at the meeting.
 
 (3) References in subsections (1) and (2) to the relevant period are references to the period which begins 21 days before and ends seven days before the date of the general meeting; and any provision in the rules of a credit union shall be void in so far as it provides for the calling of a general meeting of the credit union (other than an adjourned meeting) by less than seven or more than 21 days' notice.
 
-(4) With the consent of the Bank, given where the Bank considers there are exceptional circumstances justifying the application of this subsection, the notice required by subsection (1) shall be given by publishing a notice, in accordance with subsection (5), at such times (or within such period) and in such form as the Bank may require.
+(4) With the consent of the Bank, given where the Bank considers there are exceptional circumstances justifying the application of this subsection, the notice required by subsection (1) shall be given by publishing a notice, in accordance with subsection (5), at such times (or within such period) and in such form and containing such information as the Bank may require.
 
 (5) Where subsection (4) applies, the notice, which shall include the agenda for the meeting, shall be published—
 

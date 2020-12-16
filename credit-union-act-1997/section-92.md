@@ -22,7 +22,7 @@ Investigations and calling of meetings.
 
 (a) any such requirements shall have effect notwithstanding anything in the rules of the credit union;
 
-(b) without prejudice to the generality, such requirements may include provision as to the time and place of the meeting and the matters to be discussed and determined at the meeting;
+(b) without prejudice to the generality, such requirements may include provision as to the time, place (where applicable) and manner of holding (where applicable) of the meeting and the matters to be discussed and determined at the meeting;
 
 (c) the Bank may appoint a person to be chair of the meeting but, if it does not do so, the members present at the meeting shall appoint the chair; and
 
