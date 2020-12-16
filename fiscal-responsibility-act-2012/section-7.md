@@ -10,4 +10,4 @@ Irish Fiscal Advisory Council.
 
 (b) may sue, and be sued, in its corporate name.
 
-(3) The Scheduleshall apply in relation to the Fiscal Council.
+(3) The Schedule shall apply in relation to the Fiscal Council.
