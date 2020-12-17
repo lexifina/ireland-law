@@ -1,0 +1,3 @@
+Recognition of certain divorces, legal separations and marriage annulments granted in United Kingdom or Gibraltar before coming into operation of section (Repealed)
+
+6. ...
