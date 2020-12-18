@@ -12,6 +12,14 @@ Review of operation of this Part
 
 (b) not later than 1 year after the commencement of the review referred to in paragraph (a), make a report to the Minister on its findings and conclusions resulting from that review.
 
-(3) A report under subsection (1)(b) or (2)(b) may include such recommendations (including recommendations for the amendment of any provision of this Part that is the subject of the review) as the Authority considers necessary.
+(3) A report under
+
+## subsection (1)(b)
+
+or
+
+## (2)(b)
+
+may include such recommendations (including recommendations for the amendment of any provision of this Part that is the subject of the review) as the Authority considers necessary.
 
 (4) The Minister shall cause copies of any report under subsection (1)(b) or (2)(b) to be laid before each House of the Oireachtas within 30 days of its receipt by him or her.

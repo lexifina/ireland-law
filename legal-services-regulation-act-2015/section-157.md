@@ -1,6 +1,10 @@
 Determination of applications
 
-157. (1) A Legal Costs Adjudicator, having considered an application in accordance with section 155, shall, in accordance with this section, make a determination in respect of that application.
+157. (1) A Legal Costs Adjudicator, having considered an application in accordance with
+
+## section
+
+155, shall, in accordance with this section, make a determination in respect of that application.
 
 (2) A determination shall, as soon as practicable after it is made, be furnished to the parties to the adjudication.
 
