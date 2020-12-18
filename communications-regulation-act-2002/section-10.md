@@ -12,6 +12,8 @@ Functions of Commission.
 
 (ad) to closely monitor and ensure compliance by undertakings, including providers of internet access services within the meaning of Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015, with their obligations under Articles 3, 4 and 5 of those Regulations,
 
+(ae) the functions of a national regulatory authority under Article 5a (inserted by Article 50 of Regulation (EU) 2018/1971 of the European Parliament and of the Council of 11 December 2018) of Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015,
+
 (b) to manage the radio frequency spectrum and the national numbering resource, in accordance with a direction under section 13,
 
 (ba) to ensure the provision of a universal postal service that meets the reasonable needs of postal service users,
@@ -37,8 +39,6 @@ Functions of Commission.
 (1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
 
 (1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under:
-
-1 OJ No. L310, 26.11.2015, p.1
 
 (a) section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No 484 of 2013), and
 
