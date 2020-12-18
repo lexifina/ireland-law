@@ -1,4 +1,4 @@
-F28[Exemption from obligation to pay rate of remuneration provided by registered employment agreement.
+F28[ Exemption from obligation to pay rate of remuneration provided by registered employment agreement.
 
 33A.— (1) Where a registered employment agreement provides that an employer may apply to the Court under this section, the Court may in accordance with this section exempt an employer from the obligation to pay the rate of remuneration provided by a registered employment agreement in respect of a worker or number of workers.
 

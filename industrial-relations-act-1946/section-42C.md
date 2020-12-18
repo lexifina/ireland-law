@@ -1,4 +1,4 @@
-F37[Making of employment regulation orders.
+F37[ Making of employment regulation orders.
 
 42C.— (1) Where the Court adopts the proposals of a joint labour committee it shall forward a copy of the proposals to the Minister.
 

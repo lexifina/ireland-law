@@ -1,4 +1,4 @@
-F35[Proposals by joint labour committees in relation to remuneration and conditions of employment.
+F35[ Proposals by joint labour committees in relation to remuneration and conditions of employment.
 
 42A.— (1) Subject to this section and section 42B, a joint labour committee may, where it is satisfied that such proposals would promote harmonious relations between workers and employers and avoid industrial unrest, submit proposals for an employment regulation order to the Court.
 
