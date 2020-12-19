@@ -38,7 +38,11 @@ Preparation of draft development plan.
 
 (3) (a) As soon as may be after giving notice under this section of its intention to review a development plan and to prepare a new development plan, a planning authority shall take whatever additional measures it considers necessary to consult with the general public and other interested bodies.
 
-(b) Without prejudice to the generality of paragraph (a), a planning authority shall hold public meetings and seek written submissions regarding all or any aspect of the proposed development plan and may invite oral submissions to be made to the planning authority regarding the plan.
+(b) Without prejudice to the generality of paragraph (a), a planning authority—
+
+(i) shall consult with members of the public in such manner (which shall include the holding of a public meeting or an online public meeting) as it considers appropriate, and invite submissions in writing from members of the public, in relation to a proposed development plan, and
+
+(ii) may invite oral submissions from members of the public in relation to a proposed development plan.
 
 (c) In addition to paragraphs (a) and (b), a planning authority shall take whatever measures it considers necessary to consult with the providers of energy, telecommunications, transport and any other relevant infrastructure and of education, health, policing and other services in order to ascertain any long-term plans for the provision of the infrastructure and services in the area of the planning authority and the providers shall furnish the necessary information to the planning authority.
 

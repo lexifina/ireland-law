@@ -18,7 +18,7 @@ Application for substitute consent.
 
 (f) comply with any requirements prescribed under section 177N, and
 
-(g) be received by the Board within the period specified in section 177B, 177D or 261A, as appropriate.
+(g) be received by the Board within the period specified in section 177B, 177D or 261A, as appropriate, and the said application may be accompanied by any other documents that the applicant considers would be of assistance to the Board in making a decision in relation to his or her application.
 
 (2A)(a) Where an application for substitute consent is made in respect of a development pursuant to—
 
