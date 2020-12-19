@@ -206,6 +206,22 @@ Gambling and lotteries.
 
 (2) The issuing of tickets or coupons for the purpose of a lottery.
 
+Letting of immovable goods.
+
+11. (1) The letting of immovable goods, but not including any of the following:
+
+(a) letting machinery or a business installation when let separately from any other immovable goods of which the machinery or installation forms part;
+
+(b) supplies of the kind to which paragraph 11 of Schedule 3 relates;
+
+(c) providing facilities for taking part in sporting activities of the kind to which subparagraph (1) or (1A) of paragraph 12 of Schedule 3 relates;
+
+(d) providing parking accommodation for vehicles by the operators of car parks;
+
+(e) hiring safes.
+
+(2) Allowing a person to use a toll road or a toll bridge is not a letting of immovable goods for the purposes of this Act.
+
 Other supplies of goods.
 
 12. The supply of goods (other than immovable goods or goods of a kind specified in section 19(1)(h)) by a person, being goods—
