@@ -8,6 +8,12 @@ Penalties generally.
 
 (ii) the penalty which would otherwise arise under paragraph (a) only relates to the tax for which that person is jointly and severally liable by virtue of that section.
 
+(c) Paragraph (a) shall not apply to a person, being a tax representative appointed in accordance with section 109A, where—
+
+(i) that person is jointly and severally liable by virtue of section 109A, and
+
+(ii) the penalty which would otherwise arise under paragraph (a) only relates to the tax for which that person is jointly and severally liable by virtue of that section.
+
 (2) A person who is not a registered person and who, on or after 1 November 1972, issues an invoice in which an amount of tax is stated shall be liable to a penalty of €4,000.
 
 (3) Any person who, otherwise than under and in accordance with section 68(2)(a) or 86(1) issues an invoice in which an amount of flat-rate addition is stated shall be liable to a penalty of €4,000.
@@ -35,6 +41,8 @@ Penalties generally.
 (8A) A person who fails to furnish to the Revenue Commissioners the information, explanations or particulars specified in a notice served on the person under subsection (1) of section 108A within the period specified in the notice shall be liable to a penalty of €4,000.
 
 (8B) A person who fails to comply with a notice issued under section 108B shall be liable to a penalty of €4,000.
+
+(8C) A person who fails to comply with a notice served under section 109A(1) shall be liable to a penalty of €4,000.
 
 (9) In proceedings for recovery of a penalty under this Act—
 
