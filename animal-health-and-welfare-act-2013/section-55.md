@@ -2,7 +2,7 @@ Summary proceedings.
 
 55.—(1) An offence under this Act ... may be prosecuted summarily by—
 
-(a) the Minister, other than in respect of an offence under section 18or section 22,
+(a) the Minister, other than in respect of an offence under section 18 or section 22,
 
 (b) the local authority in whose functional area the offence is alleged to have been committed, or
 
