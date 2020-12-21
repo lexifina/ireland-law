@@ -4,7 +4,7 @@ Disqualification.
 
 (a) be disqualified from owning, having any interest in, keeping, dealing in or having charge or control, directly or indirectly, of an animal, animal product or animal feed or a class or classes of animal, animal product or animal feed, and
 
-(b) be disqualified from working with animals or having charge or control of the slaughter, manufacture, importation, preparation, handling, storage, transport, exportation, distribution, sale or supply of an animal, animal product or animal feed or of any class or classes of animal, animal product or animal feed, for a period, including, where appropriate, for the life of the person, as the court considers appropriate.
+(b) be disqualified from working with animals or having charge or control of the slaughter, manufacture, importation, preparation, handling , storage, transport, exportation, distribution, sale or supply of an animal, animal product or animal feed or of any class or classes of animal, animal product or animal feed, for a period, including, where appropriate, for the life of the person, as the court considers appropriate.
 
 (2) If any time after the expiration of 3 months from the date of a disqualification order or such further period as the court may determine, the person in respect of whom the order is made may apply to the court on notice for an order to vary or discharge the original order and the court may vary or discharge the order if satisfied that there is good reason to do so.
 

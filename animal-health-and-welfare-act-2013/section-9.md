@@ -1,3 +1,3 @@
-Disease eradication areas.
+Disease eradication areas. (Repealed)
 
 9.—...

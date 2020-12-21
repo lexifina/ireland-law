@@ -40,7 +40,7 @@ Interpretation.
 
 “compensation” means compensation which may be paid under section 31;
 
-“disease” means a disease including a zoonotic disease, specified in Schedule 2or in an order made under section 7;
+“disease” means a disease including a zoonotic disease, specified in Schedule 2 or in an order made under section 7;
 
 “disease agent” means any vector, prion, virus, rickettsia, bacterium, protozoan, fungus, helminth, arthropod, insect or other pathogen or organism that is capable of spreading a disease to, or causing a disease in, an animal or human being, but does not include an animal remedy (within the meaning of section 1 of the Animal Remedies Act 1993) that is lawfully administered to the animal;
 

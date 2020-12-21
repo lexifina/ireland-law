@@ -16,7 +16,7 @@ Prohibition on animal fighting, etc.
 
 (g) any other activity that may cause unnecessary suffering to an animal and is prohibited by animal health and welfare regulations.
 
-(2) A person shall not take part in, or be present (whether as a spectator or otherwise) at, an animal fight or performance or, an activity to which section 16refers except for an investigative purpose, the proof of which lies with that person.
+(2) A person shall not take part in, or be present (whether as a spectator or otherwise) at, an animal fight or performance or, an activity to which section 16 refers except for an investigative purpose, the proof of which lies with that person.
 
 (3) A person shall not keep or train or cause or permit another person to keep or train an animal for the purpose of an animal fight or performance.
 
