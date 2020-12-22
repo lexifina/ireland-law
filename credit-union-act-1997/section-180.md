@@ -26,4 +26,4 @@ Credit Union Advisory Committee.
 
 (7) There shall be paid to every member of the Advisory Committee such remuneration and expenses as the Minister ... may determine.
 
-(8) Nothing in subsection (3) shall be taken to affect the term of appointment of any person who is a member of the Advisory Committee at the commencement of this section.
+(8) Nothing in subsection (3) shall be taken to affect the term of appointment of any person who is a member of the Advisory Committee at the commencement of this section. have expertise or knowledge about credit unions, include references to the unincorporated association called the Irish League of Credit Unions.
