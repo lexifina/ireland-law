@@ -42,4 +42,4 @@ No. 15 of 1976 Industrial Relations Act, Section 2 1976
 
 Section 5.
 
-No. 15 of 1982 Trade Disputes (Amend- The whole Act. ment) Act, 1982
+No. 15 of 1982 Trade Disputes The whole Act. (Amendment) Act, 1982
