@@ -24,10 +24,10 @@ Ref. No. Term or Construction of term or expression for purposes of this section
 
 2. “Regulation 59” “section 14 of the Investment Funds, Compan- ies and Miscellaneous Provisions Act 2005”
 
-3. “these “Part 2 of the Investment Funds, Companies and Miscellaneous Provi- Regulations” sions Act 2005”
+3. “these “Part 2 of the Investment Funds, Companies and Miscellaneous Regulations” Provisions Act 2005”
 
 4. “repurchase” “purchase”
 
-5. “UCITS” “common contractual fund”
+5. “UCITS” “common contractual fund” Ref. No. Term or Construction of term or expression for purposes of this section expression referred to in UCITS Regulations (1) (2) (3)
 
 6. “section 8 of the “section 13 of the Investment Funds, Compan- ies and Miscellaneous Unit Trusts Act Provisions Act 2005” 1990”
