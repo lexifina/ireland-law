@@ -1,3 +1,3 @@
-Requirement to carry driving licence while driving vehicle.
+Requirement to carry driving licence while driving vehicle. (Repealed)
 
 13.— ...
