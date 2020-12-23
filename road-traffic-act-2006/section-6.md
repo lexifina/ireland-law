@@ -1,3 +1,3 @@
-Consequential disqualification orders.
+Consequential disqualification orders. (Repealed)
 
 6.— ...
