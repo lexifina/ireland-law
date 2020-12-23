@@ -22,7 +22,7 @@ Offences.
 
 (b) contravenes section 14,
 
-(c) except for the provisions of this section as they apply to this Act, contravenes any of the relevant statutory provisions, other than Chapter 3 (inserted by section 32of the Industrial Development (Forfás Dissolution) Act 2014) of Part 5 and Schedule 6A (inserted by section 36 of the Industrial Development (Forfás Dissolution) Act 2014),
+(c) except for the provisions of this section as they apply to this Act, contravenes any of the relevant statutory provisions, other than Chapter 3 (inserted by section 32 of the Industrial Development (Forfás Dissolution) Act 2014) of Part 5 and Schedule 6A (inserted by section 36 of the Industrial Development (Forfás Dissolution) Act 2014),
 
 (d) prevents, obstructs, impedes or delays an inspector from exercising any functions conferred on him or her by this Act,
 

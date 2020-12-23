@@ -42,7 +42,7 @@ Regulations.
 
 (c) all work activities or particular work activities,
 
-(d) designers, manufacturers, sellers or suppliers (or any classes thereof) of articles, substances or personal protective clothing or equipment (or any classes thereof ),
+(d) designers, manufacturers, sellers or suppliers (or any classes thereof) of articles, substances or personal protective clothing or equipment (or any classes thereof),
 
 (e) a specified article or substance or an article or substance of a particular class.
 
