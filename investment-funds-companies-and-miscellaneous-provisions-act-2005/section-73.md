@@ -1,3 +1,3 @@
-Miscellaneous amendments of Companies Acts related to penalties.
+Miscellaneous amendments of Companies Acts related to penalties. (Repealed)
 
 73.—...

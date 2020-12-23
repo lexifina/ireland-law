@@ -1,3 +1,3 @@
-Untrue statements and omissions in prospectus: criminal liability.
+Untrue statements and omissions in prospectus: criminal liability. (Repealed)
 
 48.—...

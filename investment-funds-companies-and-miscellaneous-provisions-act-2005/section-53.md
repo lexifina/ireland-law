@@ -1,3 +1,3 @@
-Amendment of section 53 of Act of 1963.
+Amendment of section 53 of Act of 1963. (Repealed)
 
 53.—...

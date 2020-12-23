@@ -1,3 +1,3 @@
-Civil liability for misstatements in prospectus.
+Civil liability for misstatements in prospectus. (Repealed)
 
 41.—...

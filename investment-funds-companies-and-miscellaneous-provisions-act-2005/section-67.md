@@ -1,3 +1,3 @@
-Amendment of section 19 of Act of 1990.
+Amendment of section 19 of Act of 1990. (Repealed)
 
 67.—...

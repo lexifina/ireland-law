@@ -1,3 +1,3 @@
-Exclusion of Investment Intermediaries Act 1995.
+Exclusion of Investment Intermediaries Act 1995. (Repealed)
 
 50.—...

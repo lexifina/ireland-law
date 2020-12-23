@@ -32,7 +32,7 @@ Addition of new Regulation 36F
 
 4. The following is inserted after Regulation 36E:
 
-“Application of 36F.—The provisions of sections 256A to 256E of the segregated liability Companies Act 1990 (inserted by section 25 of the Investment to investment Funds, Companies and Miscellaneous Provisions Act 2005) shall companies estab-apply to any investment company authorised pursuant to these lished as UCITS. Regulations and for this purpose the references to umbrella fund and sub-fund shall be interpreted in accordance with the provisions of these Regulations, the references to authorisation shall be read as referring to authorisation pursuant to these Regulations and the reference to the commencement date shall be read as referring to the commencement date of section 25 of the Investment Funds, Companies and Miscellaneous Provisions Act 2005.”.
+“Application of 36F.—The provisions of sections 256A to 256E of the segregated liability Companies Act 1990 (inserted by section 25 of the Investment to investment Funds, Companies and Miscellaneous Provisions Act 2005) shall companies apply to any investment company authorised pursuant to these established as UCITS. Regulations and for this purpose the references to umbrella fund and sub-fund shall be interpreted in accordance with the provisions of these Regulations, the references to authorisation shall be read as referring to authorisation pursuant to these Regulations and the reference to the commencement date shall be read as referring to the commencement date of section 25 of the Investment Funds, Companies and Miscellaneous Provisions Act 2005.”.
 
 Addition of new Regulation 51A
 

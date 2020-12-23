@@ -1,3 +1,3 @@
-Repeal of Part V of Act of 1990 and Companies (Amendment) Act 1999.
+Repeal of Part V of Act of 1990 and Companies (Amendment) Act
 
 31.—...

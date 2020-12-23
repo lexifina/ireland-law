@@ -1,3 +1,3 @@
-Penalties on conviction on indictment and defences in respect of certain offences.
+Penalties on conviction on indictment and defences in respect of certain offences. (repealed)
 
 47.—...

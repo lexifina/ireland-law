@@ -1,3 +1,3 @@
-Repeal
+Repeal of certain provisions of Act of 1963 and revocation. (Repealed)
 
 40.—...

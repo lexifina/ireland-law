@@ -1,3 +1,3 @@
-Application
+Application of Irish market abuse law to certain markets. (Repealed)
 
 37.—...

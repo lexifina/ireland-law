@@ -1,3 +1,3 @@
-Regulations (Part 5).
+Regulations (Part 5). (Repealed)
 
 46.—...

@@ -1,3 +1,3 @@
-Supplementary rules, etc., by competent authority.
+Supplementary rules, etc., by competent authority. (Repealed)
 
 34.—...

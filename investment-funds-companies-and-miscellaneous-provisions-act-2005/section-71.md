@@ -1,3 +1,3 @@
-Amendment of section 242 of Act of 1990.
+Amendment of section 242 of Act of 1990. (Repealed)
 
 71.—...

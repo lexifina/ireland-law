@@ -1,3 +1,3 @@
-Amendment of section 12B of Companies (Amendment) Act 1982.
+Amendment of section 12B of Companies (Amendment) Act 1982. (Repealed)
 
 65.—...

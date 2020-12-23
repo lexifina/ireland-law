@@ -1,3 +1,3 @@
-Amendment of section 257 of Act of 1990.
+Amendment of section 257 of Act of 1990. (Repealed)
 
 26.—...

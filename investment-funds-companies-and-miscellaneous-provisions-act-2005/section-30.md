@@ -1,3 +1,3 @@
-Regulations (Part 4).
+Regulations (Part 4). (Repealed)
 
 30.—...

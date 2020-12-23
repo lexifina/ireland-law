@@ -32,9 +32,7 @@ The whole Act and Miscellaneous Provisions Act 2005
 
 “
 
-S.I. No. 211 of 2003 European Communities The whole instrument (Undertakings for Collective Investments in Transferable Securities) Regulations 2003
-
-S.I. No. 198 of 2004 European Communities The whole instrument (Reorganisation and Winding- Up of Credit Institutions) Regulations 2004
+S.I. No. 211 of 2003 European Communities The whole instrument (Undertakings for Collective Investments in Transferable Securities) Regulations 2003 S.I. No. 198 of 2004 European Communities The whole instrument (Reorganisation and Winding- Up of Credit Institutions) Regulations 2004
 
 S.I. No. 727 of 2004 European Communities The whole instrument (Financial Conglomerates) Regulations 2004
 

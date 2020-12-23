@@ -1,3 +1,3 @@
-Reservation of company name.
+Reservation of company name. (Repealed)
 
 59.—...

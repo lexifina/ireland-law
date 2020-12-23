@@ -1,3 +1,3 @@
-Power to make certain rules and issue guidelines.
+Power to make certain rules and issue guidelines. (Repealed)
 
 51.—...

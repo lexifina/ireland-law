@@ -1,3 +1,3 @@
-Section 59: supplemental provisions.
+Section 59: supplemental provisions. (Repealed)
 
 60.—...

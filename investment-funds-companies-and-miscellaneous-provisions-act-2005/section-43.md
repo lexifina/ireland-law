@@ -1,3 +1,3 @@
-Restriction
+Restriction of liability where non-equity securities solely involved. (Repealed)
 
 43.—...

@@ -1,3 +1,3 @@
-Construction of certain terms in Act of 1963.
+Construction of certain terms in Act of 1963. (Repealed)
 
 39.—...

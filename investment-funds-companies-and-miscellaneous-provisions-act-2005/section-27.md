@@ -1,3 +1,3 @@
-Amendment of section 260 of Act of 1990.
+Amendment of section 260 of Act of 1990. (Repealed)
 
 27.—...

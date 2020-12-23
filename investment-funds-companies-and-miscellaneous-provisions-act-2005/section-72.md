@@ -1,3 +1,3 @@
-Replacement of references to Companies Registration Office Gazette for references to Iris Oifigiúil.
+Replacement of references to Companies Registration Office Gazette for references to Iris Oifigiúil. (Repealed)
 
 72.—...

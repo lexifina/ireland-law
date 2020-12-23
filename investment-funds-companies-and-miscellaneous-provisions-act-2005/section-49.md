@@ -1,3 +1,3 @@
-Local offers.
+Local offers. (Repealed)
 
 49.—...

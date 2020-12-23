@@ -1,3 +1,3 @@
-Amendment of section 57 of Act of 1963.
+Amendment of section 57 of Act of 1963. (Repealed)
 
 55.—...

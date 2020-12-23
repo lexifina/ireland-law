@@ -1,3 +1,3 @@
-Civil
+Civil liability for certain breaches of Irish market abuse law. (Repealed)
 
 33.—...

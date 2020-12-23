@@ -1,3 +1,3 @@
-Amendment
+Amendment of section 22 of Companies (Amendment) Act 1986. (Repealed)
 
 66.—...

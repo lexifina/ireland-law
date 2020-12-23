@@ -1,3 +1,3 @@
-Section 41: exceptions and exemptions.
+Section 41: exceptions and exemptions. (Repealed)
 
 42.—...

@@ -1,3 +1,3 @@
-Conviction on indictment of offences under Irish market abuse law: penalties.
+Conviction on indictment of offences under Irish market abuse law: penalties. (Repealed)
 
 32.—...
