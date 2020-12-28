@@ -1,6 +1,6 @@
 Presumptions and other matters.
 
-11.— (1) In this section “specified conduct” means any of the following acts referred to in section 7(1) (including section 7(1) as applied by section 8or 9):
+11.— (1) In this section “specified conduct” means any of the following acts referred to in section 7(1) (including section 7(1) as applied by section 8 or 9 ):
 
 (a) concealing or disguising the true nature, source, location, disposition, movement or ownership of property, or any rights relating to property;
 
