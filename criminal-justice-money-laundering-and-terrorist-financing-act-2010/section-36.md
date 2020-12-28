@@ -1,3 +1,3 @@
-Exemption from section 35(1).
+Exemption from section 35(1). (Repealed)
 
 36.—...

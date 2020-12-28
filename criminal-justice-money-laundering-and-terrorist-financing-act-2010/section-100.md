@@ -14,7 +14,7 @@ Appeals against decisions of Minister.
 
 (f) section 97 to revoke an authorisation, or
 
-(g) section 98to serve a direction on the holder of an authorisation.
+(g) section 98 to serve a direction on the holder of an authorisation.
 
 (2) A person aggrieved by an appealable decision may, within one month after being served with notice of the decision, serve a notice of the person’s intention to appeal against the decision on the Minister in the form provided or specified by the Minister.
 

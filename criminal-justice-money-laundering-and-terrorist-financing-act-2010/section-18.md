@@ -10,6 +10,6 @@ Notice of direction or order.
 
 (3) Nothing in subsection (1) or (2) requires notice to be given to a person to whom a direction is given or order is addressed under this section.
 
-(4) A notice given under this section shall include the reasons for the direction or order concerned and advise the person to whom the notice is given of the person’s right to make an application under section 19 or 20.
+(4) A notice given under this section shall include the reasons for the direction or order concerned and advise the person to whom the notice is given of the person’s right to make an application under section 19 or 20 .
 
 (5) The reasons given in the notice need not include details the disclosure of which there are reasonable grounds for believing would prejudice the investigation in respect of which the direction is given or order is made.

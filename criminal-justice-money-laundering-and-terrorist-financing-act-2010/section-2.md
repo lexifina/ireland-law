@@ -10,7 +10,7 @@ Interpretation.
 
 “Minister” means the Minister for Justice, Equality and Law Reform;
 
-“money laundering” means an offence under Part 2;
+“money laundering” means an offence under Part 2 ;
 
 ‘personal data’ means personal data within the meaning of—
 

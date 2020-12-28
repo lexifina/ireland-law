@@ -52,9 +52,9 @@ Reliance on other persons to carry out customer due diligence.
 
 (2) A reference in subsection (1)(b)(iii) and (c)(iii) to a legal professional is a reference to a person who, by way of business, provides legal or notarial services.
 
-(3) Subject to subsections (4) and (5), a designated person may rely on a relevant third party to apply, in relation to a customer of the designated person, any of the measures that the designated person is required to apply, in relation to the customer, under section 33 or 35(1).
+(3) Subject to subsections (4) and (5), a designated person may rely on a relevant third party to apply, in relation to a customer of the designated person, any of the measures that the designated person is required to apply, in relation to the customer, under section 33 or 35 (1).
 
-(4) A designated person may rely on a relevant third party to apply a measure under section 33 or 35(1) only if—
+(4) A designated person may rely on a relevant third party to apply a measure under section 33 or 35 (1) only if—
 
 (a) there is an arrangement between the designated person (or, in the case of a designated person who is an employee, the designated person’s employer) and the relevant third party under which it has been agreed that the designated person may rely on the relevant third party to apply any such measure, and
 

@@ -10,7 +10,11 @@ Consequential amendment of Criminal Justice Act 1994.
 
 (ii) in the case of conduct in a place outside of the State, other than conduct referred to in subparagraph (i)—
 
-(I) would be an offence under Part 2 of the Act of 2010 if done in corresponding circumstances in the State, or
+(I) would be an offence under
+
+## Part 2
+
+of the Act of 2010 if done in corresponding circumstances in the State, or
 
 (II) would have been an offence under that Part if done in corresponding circumstances in the State and if the Part had been in operation at the time when the conduct was engaged in, or”.
 
