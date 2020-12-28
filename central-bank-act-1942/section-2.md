@@ -32,9 +32,33 @@ Interpretation.
 
 ...
 
+‘Capital Requirements Regulation’ means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 as amended by—
+
+(a) Commission Delegated Regulation (EU) 2015/62 of 10 October 2014 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the leverage ratio,
+
+(b) Regulation (EU) 2016/1014 of the European Parliament and of the Council of 8 June 2016 amending Regulation (EU) No 575/2013 as regards exemptions for commodity dealers,
+
+(c) Commission Delegated Regulation (EU) 2017/2188 of 11 August 2017 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council as regards the waiver on own funds requirements for certain covered bonds,
+
+(d) Regulation (EU) 2017/2395 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 as regards transitional arrangements for mitigating the impact of the introduction of IFRS 9 on own funds and for the large exposures treatment of certain public sector exposures denominated in the domestic currency of any Member State,
+
+(e) Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms,
+
+(f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
+
+(g) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019 amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
+
+(h) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
+
+(i) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014, and
+
+(j) Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020 amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic;
+
 ‘Central Bank Acts’ means the Central Bank Acts 1942 to 1998 and includes any later Act that is to be construed as one with those or any of those Acts;
 
 ‘Commission’ means the Central Bank Commission;
+
+14 OJ No. L. 11, 17.1.2015, p. 37. 15 OJ No. L. 171, 29.6.2016, p. 153. 16 OJ No. L. 310, 25.11.2017, p. 1. 17 OJ No. L. 345, 27.12.2017, p. 27. 18 OJ No. L. 347, 28.12.2017, p. 1. 19 OJ No. L. 74, 16.3.2018, p. 3. 20 OJ No. L. 111, 25.4.2019, p. 4. 21 OJ No. L. 150, 7.6.2019, p. 1. 22 OJ No. L. 314, 5.12.2019, p. 1. 23 OJ. No. L. 204, 26.6.2020, p. 4.
 
 ‘consolidated bank note’ has the same meaning as in the Currency Act 1927;
 
@@ -168,7 +192,7 @@ Interpretation.
 
 (e) Commission Implementing Regulation (EU) No 448/2013 of 15 May 2013;
 
-(f) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013;
+(f) the Capital Requirements Regulation;
 
 (g) Commission Implementing Regulation (EU) No 1249/2012 of 19 December 2012;
 
