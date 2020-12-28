@@ -8,13 +8,33 @@ Definitions.
 
 “barrister” means a practising barrister;
 
-“beneficial owner” has the meaning assigned to it by sections 26 to 30;
+“beneficial owner” has the meaning assigned to it by sections 26 to 30 ;
 
 “business relationship”, in relation to a designated person and a customer of the person, means a business, professional or commercial relationship between the person and the customer that the person expects to be ongoing;
 
 ‘business risk assessment’ has the meaning given to it by section 30A;
 
-‘Capital Requirements Regulation’ means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012;
+‘Capital Requirements Regulation’ means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 as amended by—
+
+(a) Commission Delegated Regulation (EU) 2015/62 of 10 October 2014 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the leverage ratio,
+
+(b) Regulation (EU) 2016/1014 of the European Parliament and of the Council of 8 June 2016 amending Regulation (EU) No 575/2013 as regards exemptions for commodity dealers,
+
+(c) Commission Delegated Regulation (EU) 2017/2188 of 11 August 2017 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council as regards the waiver on own funds requirements for certain covered bonds,
+
+(d) Regulation (EU) 2017/2395 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 as regards transitional arrangements for mitigating the impact of the introduction of IFRS 9 on own funds and for the large exposures treatment of certain public sector exposures denominated in the domestic currency of any Member State,
+
+(e) Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms,
+
+(f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
+
+(g) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019 amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
+
+(h) Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012,
+
+(i) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014, and
+
+(j) Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020 amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic;
 
 ‘collective investment undertaking’ means—
 
