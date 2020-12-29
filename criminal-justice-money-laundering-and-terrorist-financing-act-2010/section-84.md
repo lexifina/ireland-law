@@ -4,7 +4,7 @@ Interpretation (Chapter 9).
 
 84.— (1) In this Chapter—
 
-“Appeal Tribunal” means an Appeal Tribunal established under section 101;
+...
 
 “authorisation” means an authorisation to carry on business as a trust or company service provider granted under this Chapter and, if such an authorisation is renewed or amended under this Chapter, means, unless the context otherwise requires, the authorisation as renewed or amended (as the case may be);
 
