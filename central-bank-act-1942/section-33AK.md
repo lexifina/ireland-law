@@ -238,7 +238,7 @@ Disclosure of information.
 
 (ar) to reorganisation bodies or authorities aiming at protecting the stability of the financial system, or
 
-(as) for the purposes of contractual or institutional protection schemes as referred to in Article 113(7) of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013, or
+(as) for the purposes of contractual or institutional protection schemes as referred to in Article 113(7) of the Capital Requirements Regulation, or
 
 (at) for any purpose connected with the functions of the Bank under Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012, or
 
@@ -266,11 +266,15 @@ Disclosure of information.
 
 (az) to the Workplace Relations Commission in accordance with Part 3 of the European Communities (Market Abuse) Regulations 2016 (S.I. No. 349 of 2016), or
 
-(ba) to the Data Protection Commission that is required for the performance of that Commission’s functions under the Data Protection Regulation or the Data Protection Acts 1988 to 2018.
+(ba) to the Data Protection Commission that is required for the performance of that Commission’s functions under the Data Protection Regulation or the Data Protection Acts 1988 to 2018, or
+
+(bb) to financial intelligence units (within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU).
 
 (5A) Subsection (5) shall not apply to confidential information received by the Bank in the performance of its functions as a competent authority designated as such for the purposes of the Payment Services Directive.
 
 (5B) A person to whom subsection (1) applies shall not disclose confidential information concerning—
+
+OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43.
 
 (a) the business of any person or body whether corporate or incorporate that has come to the person’s knowledge through the person’s office or employment with the Bank, or
 
@@ -298,11 +302,13 @@ Disclosure of information.
 
 (j) to the ESCB central banks and other bodies with a similar function in their capacity as monetary authorities when the information is relevant for the exercise of their respective statutory tasks,
 
-(k) to contractual or institutional protection schemes as referred to in Article 113(7) of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013,
+(k) to contractual or institutional protection schemes as referred to in Article 113(7) of the Capital Requirements Regulation
 
 (l) where appropriate, to other public authorities responsible for overseeing payment systems,
 
-(m) to the European Systemic Risk Board, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority, where that information is relevant for the exercise of their functions under Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010, Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 or Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010, as the case may be,
+(m) to the European Systemic Risk Board, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority, where
+
+OJ No. L. 60, 28.2.2014, p. 34. that information is relevant for the exercise of their functions under Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010, Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 or Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010, as the case may be,
 
 (n) to a clearing house or other similar body recognised under Irish law for the provision of clearing or settlement services where that information is necessary in order to ensure the proper functioning of those bodies in relation to defaults or potential defaults by market participants,
 
@@ -402,7 +408,17 @@ Disclosure of information.
 
 (q) ...
 
-(r) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC, and
+(r) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC as amended by—
+
+(i) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010,
+
+(ii) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council,
+
+(iii) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC,
+
+(iv) Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU, and
+
+(v) Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures;
 
 (s) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories,
 
@@ -429,8 +445,6 @@ Disclosure of information.
 (ad) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution.
 
 (ae) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017;
-
-OJ, No L171, 29.6.2016, p. 1
 
 (af) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017,
 
