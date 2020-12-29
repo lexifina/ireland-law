@@ -6,7 +6,7 @@ Interpretation.
 
 “authorisation” means an authorisation, licence or any other permission required to carry on business as a regulated financial service provider granted by the Bank pursuant to any provision of financial services legislation, and includes registration;
 
-“authorised officer” means a person appointed by the Bank undersection 24to be an authorised officer;
+“authorised officer” means a person appointed by the Bank under section 24 to be an authorised officer;
 
 “contravene” includes fail to comply, and also includes—
 
@@ -28,6 +28,8 @@ Interpretation.
 
 (c) a relevant borrower in a case where the regulated financial service provider undertakes credit servicing in respect of the credit agreement concerned, and includes a potential customer and a former customer;
 
+‘financial holding company’ has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014 ( S.I. No. 158 of 2014);
+
 “financial services legislation” means—
 
 (a) the designated enactments,
@@ -37,6 +39,8 @@ Interpretation.
 (c) the Central Bank Acts 1942 to 2013 and statutory instruments made under those Acts;
 
 “Minister” means the Minister for Finance;
+
+‘mixed financial holding company’ has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014;
 
 “prescribed contravention” has the same meaning as in section 33AN of the Act of 1942;
 

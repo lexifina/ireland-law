@@ -28,7 +28,11 @@ Persons to whom this Part applies.
 
 (i) a person who is or has been an officer or employee or agent of a person referred to in any of the preceding paragraphs or is, in relation to a person who is or has been such an officer, employee or agent, a person mentioned in subsection (2);
 
-(j) a special manager or administrator, within the meaning of the European Union (Bank Recovery and Resolution) Regulations 2015 (S.I. No. 289 of 2015), appointed in accordance with those Regulations.
+(j) a special manager or administrator, within the meaning of the European Union (Bank Recovery and Resolution) Regulations 2015 (S.I. No. 289 of 2015), appointed in accordance with those Regulations;
+
+(k) a financial holding company;
+
+(l) a mixed financial holding company.
 
 (2) The persons referred to in subsection (1)(h) and (i) are—
 
