@@ -8,9 +8,11 @@ Application of Part under Capital Requirements Directive.
 
 (ii) any direction given to a financial holding company, mixed-financial holding company or mixed-activity holding company under a provision of the Regulations referred to in subparagraph (i),
 
-(iii) any requirement imposed on a financial holding company, mixed-financial holding company or mixed-activity holding company under a provision of the Regulations referred to in subparagraph (i) or under any direction given to a financial holding company, mixed-financial holding company or mixed-activity holding company under a provision of those Regulations, or
+(iii) any requirement imposed on a financial holding company, mixed-financial holding company or mixed-activity holding company under a provision of the Regulations referred to in subparagraph (i) or under any direction given to a financial holding company, mixed-financial holding company or mixed-activity holding company under a provision of those Regulations,
 
-(iv) any obligation imposed on a financial holding company, mixed-financial holding company or mixed-activity holding company by this Part or imposed by the Bank pursuant to a power exercised under this Part, and
+(iv) any obligation imposed on a financial holding company, mixed-financial holding company or mixed-activity holding company by this Part or imposed by the Bank pursuant to a power exercised under this Part, or
+
+(v) any obligation imposed on a financial holding company or a mixed financial holding company by Part IV of the Central Bank Act 1997 or Part 2, 3 or 7 of the Central Bank (Supervision and Enforcement) Act 2013, and
 
 (b) participation, by a person concerned in the management of a financial holding company, mixed-financial holding company or mixed-activity holding company, in the commission by the financial holding company, mixed-financial holding company or mixed-activity holding company of such a contravention.
 
@@ -28,7 +30,7 @@ Application of Part under Capital Requirements Directive.
 
 (a)‘Capital Requirements Regulations’ means European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014);
 
-(b)‘Capital Requirements Regulation’ means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013;
+(b) the Capital Requirements Regulation;
 
 (c)‘financial holding company’ has the meaning assigned to it in point (20) of Article 4(1) of the Capital Requirements Regulation;
 
