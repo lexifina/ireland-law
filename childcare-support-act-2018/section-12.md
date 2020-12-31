@@ -1,0 +1,7 @@
+Determination of application for financial support
+
+12. (1) Where the scheme administrator determines that an applicant is eligible to apply for financial support in respect of a child the subject of the application, the scheme administrator shall calculate the amount (if any) of the financial support that the applicant is qualified to receive in accordance with the method of calculation set out in regulations under section 13 and it shall give notice in writing or by electronic means to the applicant of the determination and the notice shall include a statement of the maximum number of hours and the rate per hour that the applicant is qualified to receive under the determination (including a statement of any variation in the maximum number of hours or the rate per hour) and, in the case of an application for income-related support, the amount of income upon which the calculation was made.
+
+(2) Where the scheme administrator determines that an applicant is not eligible to apply for financial support or is not qualified to receive any financial support for which he or she has applied, it shall give notice in writing or by electronic means to the applicant of the determination and the reasons for the decision and of the applicant’s right to seek a review of the determination under section 17.
+
+(3) Subject to section 17, a determination under this section shall be valid for the period of 12 months from the date of its making or such lesser period as may be stated in the notice given under this section.
