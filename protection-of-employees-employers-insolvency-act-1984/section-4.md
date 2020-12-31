@@ -16,9 +16,11 @@ Insolvency for the purposes of Act.
 
 (ii) in any other case the date which, in relation to the company, is the relevant date within the meaning of section 285 of the Companies Act, 1963, ...
 
-(f) where the employer is an employer of a class or description specified in regulations under subsection (3) of this section which are for the time being in force, the day on which under the regulations such an employer is for such purposes to be regarded as having become insolvent, and
+(f) where the employer is an employer of a class or description specified in regulations under subsection (3) of this section which are for the time being in force, the day on which under the regulations such an employer is for such purposes to be regarded as having become insolvent,
 
-(g) where the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of another Member State in accordance with Article 2(1) of Council Directive 80/987/EEC of 20 October 1980 as amended by Article 1(2) of Directive 2002/74/EC of the European Parliament and of the Council of 23 September 2002 and the employees concerned are employed or habitually employed in the State, the date on which the insolvency was established under the laws, regulations and administrative procedures of that other Member State.
+(g) where the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of another Member State in accordance with Article 2(1) of the Directive, and the employees concerned are employed or habitually employed in the State, the date on which the insolvency was established under the laws, regulations and administrative procedures of that other Member State, and
+
+(h) where the employer is insolvent under the laws, regulations and administrative procedures of the United Kingdom and the employees concerned are employed or habitually employed in the State, the date on which the insolvency was established under the laws, regulations and administrative procedures of the United Kingdom.
 
 (2) The Minister may by regulations specify the circumstances in which employers who are of a class or description specified in the regulations are, for the purposes of this Act, to be taken to be, or to have become, insolvent.
 
