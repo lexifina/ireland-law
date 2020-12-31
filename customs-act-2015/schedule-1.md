@@ -128,7 +128,7 @@ Item S.I. No. and Year Short Title Extent of Revocation
 
 (1) (2) (3) (4)
 
-1 S.I. No. 189 of Customs and Excise (Aircraft) The whole Regula- 1964 Regulations 1964 tions
+1 S.I. No. 189 of Customs and Excise (Aircraft) The whole 1964 Regulations 1964 Regulations
 
 2 S.I. No. 143 of Relief from Customs Duties The whole Order 1965 (Fairs, Exhibitions and Similar Events)
 
@@ -138,52 +138,52 @@ Order 1965
 
 4 S.I. No. 223 of Relief from Customs Duties The whole Order 1965 (Packings) Order 1965
 
-5 S.I. No. 131 of Customs and Excise (Aircraft) The whole Regula- 1967 (Amendment) Regulations tions 1967
+5 S.I. No. 131 of Customs and Excise (Aircraft) The whole 1967 (Amendment) Regulations Regulations 1967
 
-6 S.I. No. 117 of Customs (Land Frontier) Regu- The whole Regula- 1968 lations 1968 tions
+6 S.I. No. 117 of Customs (Land Frontier) The whole 1968 Regulations 1968 Regulations
 
 7 S.I. No. 334 of European Communities Regulations 3, 4, 1972 (Customs) Regulations 1972 5, 6, 7, 8, 9, 10, 11, 12
 
-8 S.I. No. 324 of Customs (Land Frontier) Regu- The whole Regula- 1978 lations 1978 tions
+8 S.I. No. 324 of Customs (Land Frontier) The whole 1978 Regulations 1978 Regulations
 
-9 S.I. No. 211 of European Communities The whole Regula- 1980 (Customs) (Amendment) tions Regulations 1980
+9 S.I. No. 211 of European Communities The whole 1980 (Customs) (Amendment) Regulations Regulations 1980
 
-10 S.I. No. 202 of European Communities The whole Regula- 1982 (Customs) (No. 2) Regulations tions 1982
+10 S.I. No. 202 of European Communities The whole 1982 (Customs) (No. 2) Regulations Regulations 1982
 
-11 S.I. No. 78 of European Communities The whole Regula- 1983 (Customs) Regulations 1983 tions
+11 S.I. No. 78 of European Communities The whole 1983 (Customs) Regulations 1983 Regulations
 
-12 S.I. No. 365 of European Communities The whole Regula- 1984 (Customs) Regulations 1984 tions
+12 S.I. No. 365 of European Communities The whole 1984 (Customs) Regulations 1984 Regulations
 
-13 S.I. No. 366 of European Communities The whole Regula- 1984 (Customs) (No. 2) Regulations tions 1984
+13 S.I. No. 366 of European Communities The whole 1984 (Customs) (No. 2) Regulations Regulations 1984
 
-14 S.I. No. 299 of Customs (Land Frontier) Regu- The whole Regula- 1988 lations 1988 tions
+14 S.I. No. 299 of Customs (Land Frontier) The whole 1988 Regulations 1988 Regulations
 
-15 S.I. No. 177 of European Communities The whole Regula- 1989 (Customs) (Revocation of tions Statutory Instruments)
+15 S.I. No. 177 of European Communities The whole 1989 (Customs) (Revocation of Regulations Statutory Instruments)
 
 Regulations 1989
 
-16 S.I. No. 57 of European Communities The whole Regula- 1991 (Customs & Excise) Regulations tions 1991 Item S.I. No. and Year Short Title Extent of Revocation
+16 S.I. No. 57 of European Communities The whole 1991 (Customs & Excise) Regulations Regulations 1991 Item S.I. No. and Year Short Title Extent of Revocation
 
 (1) (2) (3) (4)
 
-17 S.I. No. 174 of European Communities The whole Regula- 1991 (Customs & Excise) tions (Amendment) Regulations 1991
+17 S.I. No. 174 of European Communities The whole 1991 (Customs & Excise) Regulations (Amendment) Regulations 1991
 
-18 S.I. No. 368 of European Communities The whole Regula- 1991 (Customs & Excise) tions (Amendment) (No. 2) Regulations 1991
+18 S.I. No. 368 of European Communities The whole 1991 (Customs & Excise) Regulations (Amendment) (No. 2) Regulations 1991
 
-19 S.I. No. 431 of European Communities Regulations 4, 5, 1992 (Customs) (No. 2) Regula- 6, 7, 8, 9, 10, tions 1992 15, 16, 17
+19 S.I. No. 431 of European Communities Regulations 4, 5, 1992 (Customs) (No. 2) 6, 7, 8, 9, 10, Regulations 1992 15, 16, 17
 
-20 S.I. No. 432 of European Communities The whole Regula- 1992 (Customs) (No. 3) Regulations tions 1992
+20 S.I. No. 432 of European Communities The whole 1992 (Customs) (No. 3) Regulations Regulations 1992
 
-21 S.I. No. 433 of European Communities The whole Regula- 1992 (CommunityTransit)Regulations tions 1992
+21 S.I. No. 433 of European Communities The whole 1992 (Community Transit) Regulations Regulations 1992
 
-22 S.I. No. 61 of European Communities (TIR The whole Regula- 1993 carnet and ATA Carnet-tions Transit) Regulations 1993
+22 S.I. No. 61 of European Communities (TIR The whole 1993 carnet and ATA Carnet- Regulations Transit) Regulations 1993
 
-23 S.I. No. 355 of European Communities The whole Regula- 1995 (Customs Appeals) Regulations tions 1995
+23 S.I. No. 355 of European Communities The whole 1995 (Customs Appeals) Regulations Regulations 1995
 
-24 S.I. No. 114 of European Communities The whole Regula- 1996 (Customs Declarations) tions Regulations 1996
+24 S.I. No. 114 of European Communities The whole 1996 (Customs Declarations) Regulations Regulations 1996
 
-25 S.I. No. 254 of Customs and Excise (Mutual The whole Regula- 2004 Assistance) Act 2001 tions
+25 S.I. No. 254 of Customs and Excise (Mutual The whole 2004 Assistance) Act 2001 Regulations
 
 (Section 8) (Protection of Manual Data) Regulations 2004
 
-26 S.I. No. 281 of European Communities The whole Regula- 2007 (Controls of Cash Entering tions or Leaving the Community) Regulations 2007
+26 S.I. No. 281 of European Communities The whole 2007 (Controls of Cash Entering Regulations or Leaving the Community) Regulations 2007
