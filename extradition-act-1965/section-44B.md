@@ -1,3 +1,3 @@
-Power of AG to revoke a direction
+Power of AG to revoke a direction (Repealed)
 
 44B.—...

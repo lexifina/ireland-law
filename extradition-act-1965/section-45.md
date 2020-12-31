@@ -1,4 +1,4 @@
-Execution of warrants.
+Execution of warrants. (Repealed)
 
 45.—(1) ...
 

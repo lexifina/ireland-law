@@ -1,3 +1,3 @@
-Restrictions on endorsement.
+Restrictions on endorsement. (Repealed)
 
 44.—... 44A.—...

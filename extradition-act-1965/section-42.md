@@ -1,3 +1,3 @@
-Definitions.
+Definitions. (Repealed)
 
 42.—...

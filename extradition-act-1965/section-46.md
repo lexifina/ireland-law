@@ -1,3 +1,3 @@
-Remand of arrested person to High Court.
+Remand of arrested person to High Court. (Repealed)
 
 46.—...

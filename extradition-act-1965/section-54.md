@@ -1,3 +1,3 @@
-Acceptance of documents by Commissioner of Garda Síochána.
+Acceptance of documents by Commissioner of Garda Síochána. (Repealed)
 
 54.—...

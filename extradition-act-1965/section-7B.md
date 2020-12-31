@@ -1,3 +1,3 @@
-Evidence by affidavit.
+Evidence by affidavit. (Repealed)
 
 7B.—...

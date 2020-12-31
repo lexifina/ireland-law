@@ -1,3 +1,3 @@
-Proof.
+Proof. (Repealed)
 
 44C.—...

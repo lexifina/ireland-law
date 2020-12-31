@@ -1,3 +1,3 @@
-Lapse of time before delivery of arrested person.
+Lapse of time before delivery of arrested person. (Repealed)
 
 48.—...

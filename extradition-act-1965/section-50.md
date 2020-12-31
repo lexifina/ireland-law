@@ -1,3 +1,3 @@
-Release of persons arrested.
+Release of persons arrested. (Repealed)
 
 50.—...

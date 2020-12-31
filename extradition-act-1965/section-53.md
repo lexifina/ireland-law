@@ -1,3 +1,3 @@
-Discharge of persons not taken out of State.
+Discharge of persons not taken out of State. (Repealed)
 
 53.—...

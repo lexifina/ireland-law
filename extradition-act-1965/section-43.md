@@ -1,3 +1,3 @@
-Endorsement of warrants.
+Endorsement of warrants. (Repealed)
 
 43.—...

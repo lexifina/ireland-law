@@ -1,3 +1,3 @@
-Section 44A restricted.
+Section 44A restricted. (Repealed)
 
 44D.—...

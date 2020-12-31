@@ -1,3 +1,3 @@
-Special provisions for summary offences.
+Special provisions for summary offences. (Repealed)
 
 51.—...

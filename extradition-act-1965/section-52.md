@@ -1,3 +1,3 @@
-Remand.
+Remand. (Repealed)
 
 52.—...
