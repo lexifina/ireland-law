@@ -4,7 +4,7 @@ Power to enter, inspect and patrol certain places
 
 25. (1) An officer of customs, and any person assisting such officer, may, for the purposes of carrying out their functions under the Customs Acts, at any time and without warrant—
 
-(a) enter and inspect a customs port or customs airport or any place approved under section 7(1) or section 13(2), or any conveyance within such port, airport or place,
+(a) enter and inspect a customs port or customs airport or any place approved under the Customs Acts, or any conveyance within such port, airport or place,
 
 (b) patrol upon and pass freely along and over any part of the coast or shore and over any land within 32 kms of the land frontier and may remain in any such place for the purposes of carrying out patrols or surveillance, and shall not be liable in any proceedings for anything done in the discharge or purported discharge of his or her functions under this section.
 
