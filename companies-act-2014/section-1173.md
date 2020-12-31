@@ -40,9 +40,7 @@ Section 19
 
 Certificate of incorporation to state that company
 
-Section 25(3) is a private company limited by shares
-
-Provisions as to names of companies Section 26(1) to (4)
+Section 25(3) is a private company limited by shares Provisions as to names of companies Section 26(1) to (4)
 
 Trading under a misleading name
 

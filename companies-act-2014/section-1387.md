@@ -14,7 +14,9 @@ Application of Parts 1 to 14 to investment companies
 
 (4) The specification in the foregoing Table of a provision (a “specified provision”) of Parts 1 to 14 also operates to disapply to an investment company any other provision of those Parts (notwithstanding that it is not specified in that Table) that makes consequential, incidental or supplemental provision on, or in relation to, the specified provision.
 
-Table Subject matter Provision disapplied
+Table
+
+Subject matter Provision disapplied
 
 Nominal value of shares Section 66(1) and (2)(a)
 
@@ -72,9 +74,7 @@ Section 320(1) company
 
 Directors’ report: acquisition or disposal of own
 
-Section 328 shares
-
-Signature of statutory auditor’s report to appear Section 337(4) and (5)(b) on certain copies
+Section 328 shares Signature of statutory auditor’s report to appear Section 337(4) and (5)(b) on certain copies
 
 Annual return and documents annexed to it Chapter 13 of Part 6
 

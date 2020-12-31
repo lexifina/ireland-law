@@ -4,9 +4,7 @@ Interests in shares and debentures for purposes of section 803: general
 
 (a) section 803, and
 
-(b) the subsequent sections of this Chapter as they relate to any spouse, minor child, body corporate or a party to an agreement,
-
-(in this section referred to, respectively, as the “relevant purposes” and the “relevant sections”) of references to—
+(b) the subsequent sections of this Chapter as they relate to any spouse, minor child, body corporate or a party to an agreement, (in this section referred to, respectively, as the “relevant purposes” and the “relevant sections”) of references to—
 
 (i) a person’s being interested in shares or debentures, or
 

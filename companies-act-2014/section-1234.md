@@ -24,6 +24,4 @@ The form of the constitution of a PULC
 
 (ii) be authenticated in the manner referred to in section 888.
 
-(4) Where, subsequent to the registration of the constitution, an amendment of the memorandum of association is made affecting a matter referred to in subsection
-
-(2), that subsection shall be read as requiring the memorandum to state the matter as it stands in consequence of that amendment.
+(4) Where, subsequent to the registration of the constitution, an amendment of the memorandum of association is made affecting a matter referred to in subsection (2), that subsection shall be read as requiring the memorandum to state the matter as it stands in consequence of that amendment.

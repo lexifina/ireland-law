@@ -18,7 +18,9 @@ Functions of Supervisory Authority
 
 (ii) any amendments to the approved constitution or bye laws of each prescribed accountancy body, including amendments to its investigation and disciplinary procedures and to its standards,
 
-(d) conduct under section 933 enquiries into whether a prescribed accountancy body has complied with the investigation and disciplinary procedures approved for that body under paragraph (c) or referred to in paragraph (a)(ii) or (iii) or (b)(ii) of the definition of ‘approved investigation and disciplinary procedures’ in subsection (1) of that section,
+(d) conduct under section 933 enquiries into whether a prescribed accountancy body has complied with the investigation and disciplinary procedures approved for that body under paragraph (c) or referred to in paragraph
+
+(a)(ii) or (iii) or (b)(ii) of the definition of ‘approved investigation and disciplinary procedures’ in subsection (1) of that section,
 
 (e) impose under section 933 sanctions on prescribed accountancy bodies in relation to enquiries referred to in paragraph (d),
 

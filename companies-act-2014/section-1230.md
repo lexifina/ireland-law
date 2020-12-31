@@ -194,9 +194,7 @@ Section 655 members
 
 Payment of debts due by contributory to the
 
-Section 659 company and extent to which set-off allowed
-
-Part 3
+Section 659 company and extent to which set-off allowed Part 3
 
 Provisions disapplied to PULCs
 
@@ -314,9 +312,7 @@ Statutory financial statements must be audited
 
 Section 333
 
-(unless audit exemption availed of)
-
-Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
+(unless audit exemption availed of) Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
 
 Audit exemption Chapter 15 of Part 6
 

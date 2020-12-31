@@ -44,6 +44,8 @@ Limitation on number of directorships
 
 (8) A notice referred to in subsection (4)(a) may, for the purposes of that provision, be delivered to the Registrar before the person concerned becomes a director of the company to which the notice relates.
 
-Table A company that is the holder of a licence under section 9 of the Central Bank Act 1971 or is exempt from the requirement under that Act to hold such a licence.
+Table
+
+A company that is the holder of a licence under section 9 of the Central Bank Act 1971 or is exempt from the requirement under that Act to hold such a licence.
 
 A company falling within any provision (in so far as applicable to a private company limited by shares) of Schedule 5.

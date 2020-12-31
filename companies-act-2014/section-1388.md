@@ -52,6 +52,4 @@ Additional rights of shareholders in certain PLCs Sections 1099 to 1110 (provisi
 
 Obligation to convene extraordinary general meeting
 
-Section 1111 in event of serious loss of capital
-
-Reorganisations Chapter 13 of Part 17
+Section 1111 in event of serious loss of capital Reorganisations Chapter 13 of Part 17

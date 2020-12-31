@@ -76,8 +76,6 @@ Creditors’ meetings conducted by electronic means during interim period
 
 ‘electronic communications technology’, in relation to a creditors’ meeting, means technology that enables real time transmission and real time two-way audio-visual or audio communication enabling relevant attendees as a whole with a reasonable opportunity to participate in the meeting using such technology from a remote location;
 
-‘electronic platform’, in relation to a creditors’ meeting, means an electronic system for the delivery of audio-visual or audio communication, including websites, access software and access telephone details or any other electronic technology that delivers such communication;
-
-‘relevant attendee’, in relation to a creditors’ meeting, means the creditor, contributory, liquidator, authorised person representing a body corporate under section 185, officer of the company, shareholder or member, as appropriate, who attends the meeting;
+‘electronic platform’, in relation to a creditors’ meeting, means an electronic system for the delivery of audio-visual or audio communication, including websites, access software and access telephone details or any other electronic technology that delivers such communication; ‘relevant attendee’, in relation to a creditors’ meeting, means the creditor, contributory, liquidator, authorised person representing a body corporate under section 185, officer of the company, shareholder or member, as appropriate, who attends the meeting;
 
 ‘relevant person’, in relation to a creditors’ meeting, means the person summoning, convening or calling the meeting.

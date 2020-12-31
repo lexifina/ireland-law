@@ -58,9 +58,7 @@ Section 672 Order for payment or delivery of property against person examined un
 
 Section 675 Order for arrest and seizure, etc.
 
-Section 684 Inspection of books by creditors and contributories
-
-Section 721 Other frauds by officers of companies which have gone into liquidation: offence
+Section 684 Inspection of books by creditors and contributories Section 721 Other frauds by officers of companies which have gone into liquidation: offence
 
 Section 722 Fraudulent trading of company: offence
 

@@ -2,9 +2,7 @@ Liquidator's powers
 
 627. The liquidator shall have the powers set out in each of the paragraphs of the Table to this section.
 
-Table
-
-Legal proceedings, carrying on company’s business, etc.
+Table Legal proceedings, carrying on company’s business, etc.
 
 1. Power to—
 
@@ -42,9 +40,7 @@ Ascertainment of debts and liabilities, sale of property, etc.
 
 (i) transfer the whole of the property to any company or other person;
 
-(ii) sell the property in lots, and, for the purpose of selling the company’s land or any part of it, to carry out such sales by grant, conveyance, transfer, lease, sublease, or otherwise, and to sell any rent reserved on any such grant or any reversion expectant upon the determination of any such lease.
-
-Execution of certain documents, drawing of negotiable instruments, etc.
+(ii) sell the property in lots, and, for the purpose of selling the company’s land or any part of it, to carry out such sales by grant, conveyance, transfer, lease, sublease, or otherwise, and to sell any rent reserved on any such grant or any reversion expectant upon the determination of any such lease. Execution of certain documents, drawing of negotiable instruments, etc.
 
 4. Power to—
 

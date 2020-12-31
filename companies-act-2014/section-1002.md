@@ -128,9 +128,7 @@ Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard
 
 Audit exemption Chapter 15 of Part 6
 
-Special audit exemption for dormant companies Chapter 16 of Part 6
-
-Small and medium companies
+Special audit exemption for dormant companies Chapter 16 of Part 6 Small and medium companies
 
 Section 377
 
