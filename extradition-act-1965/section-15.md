@@ -1,4 +1,4 @@
-F28[Proceedings in State for same offence.
+F28[ Proceedings in State for same offence.
 
 15.— (1) Extradition shall not be granted for an offence which is also an offence under the law of the State if—
 

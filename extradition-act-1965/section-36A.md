@@ -1,4 +1,4 @@
-F72[Identification procedures.
+F72[ Identification procedures.
 
 36A.— (1) Where a member of the Garda Síochána arrests a person under any power conferred by this Act, the member of the Garda Síochána may, in order to assist in verifying or establishing the person’s identity for the purpose of proceedings under this Act and for no other purpose—
 
