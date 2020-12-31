@@ -1,0 +1,3 @@
+Alternative special majority for Schemes of Arrangement
+
+1087D. ...

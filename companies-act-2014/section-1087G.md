@@ -1,0 +1,3 @@
+Record date for participation and voting in general meeting
+
+1087G. ...
