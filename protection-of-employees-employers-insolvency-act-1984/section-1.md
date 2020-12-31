@@ -42,7 +42,19 @@ Interpretation.
 
 “company” means, except when the context otherwise requires, a company within the meaning of section 2 of the Companies Act, 1963, or any other body corporate whether incorporated within or outside the State;
 
-‘competent authority’ means the authority referred to in Article 2(1) of Council Directive 80/987/EEC of 20 October 1980 as amended by Article 1(2) of Directive 2002/74/EC of the European Parliament and of the Council of 23 September 2002;
+'competent authority' means—
+
+(a) the authority referred to in Article 2(1) of the Directive, or
+
+(b) in the case of an employer taken to be, or to have become, insolvent under paragraph (f) of subsection (3), an authority that is competent, pursuant to the laws, regulations and administrative procedures of the United Kingdom, to—
+
+(i) appoint a liquidator or a person performing a similar task,
+
+(ii) open collective proceedings based on the insolvency of the employer, or
+
+(iii) establish that the employers undertaking or business has been definitively closed down and that the available assets are insufficient to warrant the opening of such proceedings;
+
+‘Directive’ means Directive 2008/94/EC of the European Parliament and of the Council of 22 October 2008 on the protection of employees in the event of the insolvency of their employer;
 
 “employee” means a person who has entered into or works under (or, in the case of a contract which has been terminated, worked under) a contract with an employer, whether the contract is for manual labour, clerical work or otherwise, is express or implied, oral or in writing, and whether it is a contract of service or apprenticeship or otherwise, and “employer” and any reference to employment shall be construed accordingly;
 
@@ -58,13 +70,19 @@ Interpretation.
 
 “occupational pension scheme” means any scheme or arrangement which, forming part of a contract of employment, provides or is capable of providing, in relation to employees in any description of employment, benefits (in the form of pensions or otherwise) payable to or in respect of any such employees on the termination of their employment or on their death or retirement;
 
-“prescribed” means prescribed by regulations under this Act;
+'relevant officer' means—
 
-“relevant officer” means an executor, an administrator, the official assignee or a trustee in bankruptcy, a liquidator, a receiver or manager, ...a trustee under an arrangement between an employer and his creditors or under a trust deed for his creditors executed by an employer, or, where the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of another Member State in accordance with Article 2(1) of Council Directive 80/987/EEC of 20 October 1980 as amended by Article 1(2) of Directive 2002/74/EC of the European Parliament and of the Council of 23 September 2002 and the employees concerned are employed or habitually employed in the State, the person appointed by the appropriate competent authority to perform the functions of a relevant officer.
+(a) where the employer is insolvent in the State and the employees concerned are employed or habitually employed in the State, an executor, an administrator, the official assignee or a trustee in bankruptcy, a liquidator, a receiver or manager, a trustee under an arrangement between an employer and his creditors or under a trust deed for his creditors executed by an employer,
+
+(b) where the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of another Member State in accordance with Article 2(1) of the Directive, and the employees concerned are employed or habitually employed in the State, the person appointed by the appropriate competent authority to perform the functions of a relevant officer, or
+
+(c) where the employer is insolvent under the laws, regulations and administrative procedures of the United Kingdom, and the employees concerned are employed or habitually employed in the State, the person appointed by the appropriate competent authority to perform the functions of a relevant officer;
 
 ‘the Social Insurance Fund’ means the Social Insurance Fund established under section 39 of the Social Welfare Act, 1952, and continued in being under section 122 of the Social Welfare (Consolidation) Act, 1981;
 
 “the Tribunal” means the Employment Appeals Tribunal.
+
+‘United Kingdom’ includes a territory or other place for whose external relations the United Kingdom is responsible and in which the law of the European Union applied while the United Kingdom was a Member State;
 
 (2) Any reference in this Act to the assets of an occupational pensions scheme is a reference to the funds or other property out of which the benefits provided by the scheme are payable from time to time, including the proceeds of any policy of insurance taken out, or contract entered into, for the purposes of the scheme.
 
@@ -78,4 +96,6 @@ Interpretation.
 
 (d) he is an employer of a class or description specified in regulations under section 4 (2) of this Act which are for the time being in force and the circumstances specified in the regulations as regards employers of such class or description obtain in relation to him; or
 
-(e) the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of another Member State in accordance with Article 2(1) of Council Directive 80/987/EEC of 20 October 1980 as amended by Article 1(2) of Directive 2002/74/EC of the European Parliament and of the Council of 23 September 2002 and the employees concerned are employed or habitually employed in the State.
+(e) the employer is an undertaking which is insolvent under the laws, regulations and administrative procedures of another Member State in accordance with Article 2(1) of the Directive, and the employees concerned are employed or habitually employed in the State; or
+
+(f) the employer is insolvent under the laws, regulations and administrative procedures of the United Kingdom and the employees concerned are employed or habitually employed in the State.
