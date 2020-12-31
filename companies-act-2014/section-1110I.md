@@ -8,6 +8,8 @@ Investment strategy of institutional investors and arrangements with asset manag
 
 (b) how that arrangement incentivises the asset manager to—
 
+6 OJ No. L 174, 1.7.2011, p. 1 5 OJ No. L 302, 17.11.2009, p. 32 2 OJ No. L 173, 12.6.2014, p. 349
+
 (i) make investment decisions based on assessments about the medium to long-term financial and non-financial performance of the investee company, and
 
 (ii) engage with investee companies in order to improve their performance in the medium to long term;

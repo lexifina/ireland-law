@@ -18,6 +18,8 @@ Identification of shareholders
 
 (i) inform the requester that it is not in possession or control of the information,
 
+9 OJ No. L 257, 28.8.2014, p. 1 10 OJ No. L 223, 4.9.2018, p. 1
+
 (ii) where the intermediary is part of a chain of intermediaries, transmit the request to each other intermediary in the chain known to the first-mentioned intermediary as being part of the chain, and
 
 (iii) provide the requester with the details of each intermediary, if any, to which the request has been transmitted under subparagraph (ii).

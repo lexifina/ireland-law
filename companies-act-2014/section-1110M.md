@@ -16,6 +16,8 @@ Right to vote on remuneration policy
 
 (ii) subject to subsection (8), until such time as the remuneration vote referred to in subparagraph (i) is held—
 
+7 OJ No. L 119, 4.5.2016, p.1
+
 (I) where the traded PLC has previously approved a remuneration policy by a binding vote, pay its directors in accordance with that remuneration policy, or
 
 (II) where the traded PLC has not previously approved a remuneration policy by a binding vote, pay its directors in accordance with its existing practices.

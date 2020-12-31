@@ -42,6 +42,8 @@ Engagement policy - institutional investors
 
 (ii) Articles 12(1)(b) and 14(1)(d) of Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS), and the relevant implementing rules and technical standards under that Directive;
 
+6 OJ No. L 174, 1.7.2011, p. 1 5 OJ No. L 302, 17.11.2009, p. 32
+
 (iii) Article 23 of Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (recast).
 
 (8) Where an asset manager implements an engagement policy on behalf of a relevant institutional investor, and such implementation involves the casting of a vote by that asset manager on behalf of the relevant institutional investor, the relevant institutional investor shall publicly disclose where the asset manager has published information regarding the casting of that vote.

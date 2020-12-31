@@ -36,8 +36,6 @@ Acquisitions of uncertificated securities from dissenting shareholders
 
 (ii) “operator”;
 
-2 OJ No. L 173, 12.06.2014, p. 190. 1 OJ No. L 345, 27.12.2017, p. 96.
-
 (iii) “operator-instruction”;
 
 (iv) “participating issuer”;

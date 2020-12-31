@@ -6,6 +6,8 @@ Transparency of asset managers
 
 (b) contributes to the medium to long-term performance of the assets of the institutional investor or of a fund managed by the institutional investor.
 
+11 OJ No. L 335, 17.12.2009, p. 1
+
 (2) The disclosure referred to in subsection (1) shall include reporting on—
 
 (a) the key material medium to long-term risks associated with the investments,
