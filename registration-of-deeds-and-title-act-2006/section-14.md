@@ -16,7 +16,7 @@ Disclosure of interests.
 
 (g) not vote on any decision relating to the matter.
 
-(2) Without prejudice to the generality of subsection (1), a person is regarded for the purposes of this section as having beneficial interest if—
+(2) Without prejudice to the generality of subsection (1) , a person is regarded for the purposes of this section as having beneficial interest if—
 
 (a) he or she or any connected relative or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, any nominee of his or hers or any connected relative or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 of the nominee is a member of a company or any other entity which has a beneficial interest in, or material to, a matter to be considered by the Authority or advisory committee,
 
@@ -26,9 +26,9 @@ Disclosure of interests.
 
 (d) any connected relative or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 has a beneficial interest in, or material to, such a matter.
 
-(3) For the purposes of this section a person is not regarded as having a beneficial interest in, or material to, any matter by reason only of an interest of the person, or of any company or other entity or person mentioned in subsection (2), which is so remote or insignificant that it could not reasonably be regarded as likely to influence a person in considering, discussing or voting on any question with respect to the matter or in performing any function in relation to it.
+(3) For the purposes of this section a person is not regarded as having a beneficial interest in, or material to, any matter by reason only of an interest of the person, or of any company or other entity or person mentioned in subsection (2) , which is so remote or insignificant that it could not reasonably be regarded as likely to influence a person in considering, discussing or voting on any question with respect to the matter or in performing any function in relation to it.
 
-(4) Where a question arises as to whether or not a course of conduct, if pursued by a person, would be a failure by the person to comply with subsection (1), it shall be determined by the Authority or advisory committee, and particulars of the determination shall be recorded in the minutes of the meeting concerned.
+(4) Where a question arises as to whether or not a course of conduct, if pursued by a person, would be a failure by the person to comply with subsection (1) , it shall be determined by the Authority or advisory committee, and particulars of the determination shall be recorded in the minutes of the meeting concerned.
 
 (5) Where a disclosure under subsection (1) is made to the Authority or an advisory committee, particulars of the disclosure shall be recorded in the minutes of the meeting concerned.
 

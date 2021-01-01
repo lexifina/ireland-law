@@ -4,7 +4,7 @@ Transfer of land and other property.
 
 (a) land that immediately before that day was vested in the Minister, the Minister for Finance or the Commissioners of Public Works and is designated by the Minister, with the consent of the Minister for Finance, for use solely for purposes related to the Authority's functions, and
 
-(b) any rights, powers and privileges relating to or connected with the land, stand vested in the Authority, without any conveyance or assignment, for the estate or interest therein that immediately before the establishment day was vested in any of the persons referred to in paragraph (a), but subject to any trusts and equities then affecting the land.
+(b) any rights, powers and privileges relating to or connected with the land, stand vested in the Authority, without any conveyance or assignment, for the estate or interest therein that immediately before the establishment day was vested in any of the persons referred to in paragraph (a) , but subject to any trusts and equities then affecting the land.
 
 (2) On the establishment day, property other than land, including any chose in action, that immediately before that day was being used in connection with a function of the Registrar of Deeds or Registrar of Titles or Registrar of Deeds and Titles corresponding to a function of the Authority stands vested in the Authority without any assignment.
 

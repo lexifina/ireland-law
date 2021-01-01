@@ -10,6 +10,6 @@ Substitution of section 108.
 
 (3) In determining whether to prescribe a longer period than 21 days under subsection (2) and the duration of any such period, the Registration of Deeds and Titles Rules Committee shall have regard to—
 
-(a) changes in the period generally elapsing between applications by persons under subsection (1) and those made by such persons under subsection(2), and
+(a) changes in the period generally elapsing between applications by persons under subsection (1) and those made by such persons under subsection (2), and
 
 (b) the need for adequate protection of the interests of parties to the contracts concerned.”.

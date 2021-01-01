@@ -1,6 +1,6 @@
 Vacancies.
 
-12.— (1) Subject to section 16(2), the Authority may act notwithstanding any vacancy or vacancies in its membership.
+12.— (1) Subject to section 16 (2) , the Authority may act notwithstanding any vacancy or vacancies in its membership.
 
 (2) If a member of the Authority dies, resigns, ceases to hold office or is removed from office, the Minister may appoint a person to be a member of the Authority to fill the vacancy.
 

@@ -1,6 +1,6 @@
 Registration of Deeds and Title Rules Committee.
 
-74.— (1) On the commencement of this section there stands established a committee, to be known as the Registration of Deeds and Title Rules Committee, to perform the functions assigned to it under section 48and under section 126, as amended by section 72, of the Act of 1964.
+74.— (1) On the commencement of this section there stands established a committee, to be known as the Registration of Deeds and Title Rules Committee, to perform the functions assigned to it under section 48 and under section 126, as amended by section 72 , of the Act of 1964.
 
 (2) The Committee shall consist of—
 

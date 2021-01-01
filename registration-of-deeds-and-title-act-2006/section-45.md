@@ -1,6 +1,6 @@
 Evidence in proceedings.
 
-45.— Without prejudice to section 9(6), a document purporting—
+45.— Without prejudice to section 9 (6) , a document purporting—
 
 (a) to be a copy or reproduction of any entry in the register or of any other record maintained, made or issued under this Part, including any document produced by the conversion into legible form of information kept in electronic or other non-legible form, and
 

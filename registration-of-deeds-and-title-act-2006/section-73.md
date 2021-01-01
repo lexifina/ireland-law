@@ -10,11 +10,11 @@ Abolition of land certificates and certificates of charge.
 
 (i) applies only in relation to land certificates and certificates of charge issued before the commencement of this subsection and not already cancelled, and
 
-(ii) ceases to have effect 3 years after the commencement of subsection (2).
+(ii) ceases to have effect 3 years after the commencement of subsection (2) .
 
-(2) Subject to subsection (3), land certificates and certificates of charge issued before the commencement of subsection (1) and not already cancelled cease to have any force or effect on the expiration of the period of 3 years after the commencement of this subsection.
+(2) Subject to subsection (3) , land certificates and certificates of charge issued before the commencement of subsection (1) and not already cancelled cease to have any force or effect on the expiration of the period of 3 years after the commencement of this subsection.
 
-(3) The following provisions have effect during the period referred to in subsection (2):
+(3) The following provisions have effect during the period referred to in subsection (2) :
 
 (a) the Authority shall cause adequate notice to be published of the coming into operation of subsection (2) and of its implications for persons to whom land certificates or certificates of charge have been issued and for any others who may be affected, including persons holding a lien on registered land or a registered charge through deposit or possession of those certificates;
 
@@ -26,7 +26,7 @@ Abolition of land certificates and certificates of charge.
 
 (e) the Authority shall register the lien without charging any fee or duty for doing so.
 
-(4) Notwithstanding subsection (2), where the holder of a lien has suffered loss by reason of not having applied to the Authority during the period referred to in subsection (3)for registration of the lien as a burden affecting the registered land, the holder may apply to the court for compensation for the loss, on notice to the Minister for Finance.
+(4) Notwithstanding subsection (2) , where the holder of a lien has suffered loss by reason of not having applied to the Authority during the period referred to in subsection (3) for registration of the lien as a burden affecting the registered land, the holder may apply to the court for compensation for the loss, on notice to the Minister for Finance.
 
 (5) On the application the court may, if satisfied—
 

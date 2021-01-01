@@ -1,6 +1,6 @@
 Fees.
 
-21.— (1) Subject to subsection (2), the Minister, with the consent of the Minister for Finance, may by order fix the fees to be charged by the Authority for its services and may revoke or amend any such order, including an order under this subsection.
+21.— (1) Subject to subsection (2) , the Minister, with the consent of the Minister for Finance, may by order fix the fees to be charged by the Authority for its services and may revoke or amend any such order, including an order under this subsection.
 
 (2) The fees shall not be fixed at a level calculated to produce an annual amount which is less than that sufficient to discharge the salaries, remuneration and other expenses payable under and incidental to the working of this Act and the Act of 1964.
 

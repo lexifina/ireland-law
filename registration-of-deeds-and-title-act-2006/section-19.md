@@ -14,6 +14,8 @@ Reports to Minister.
 
 (b) any specific document or account prepared by it, or
 
-(c) any report referred to in subsection (1)or (4).
+(c) any report referred to in subsection (1) or (4) .
 
-(6) For the purposes of subsection (1) the period between the date of the establishment of the Authority and the following 31 December is deemed to be the preceding year referred to in that subsection.
+(6) For the purposes of subsection
+
+(1) the period between the date of the establishment of the Authority and the following 31 December is deemed to be the preceding year referred to in that subsection.

@@ -2,7 +2,7 @@ Meetings.
 
 16.— (1) The Authority shall hold such and so many meetings as may be necessary for the due fulfilment of its functions but in each year it shall hold not less than one meeting in each period of 3 months.
 
-(2) Subject to section 11(7)(c), the quorum of a meeting of the Authority is 4 or such other number (not being less than 4) as the Authority may from time to time determine.
+(2) Subject to section 11 (7) (c) , the quorum of a meeting of the Authority is 4 or such other number (not being less than 4) as the Authority may from time to time determine.
 
 (3) The Minister shall fix the date, time and place of the first meeting of the Authority.
 

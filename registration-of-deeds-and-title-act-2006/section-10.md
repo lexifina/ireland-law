@@ -10,7 +10,7 @@ Functions of Authority.
 
 (d) to undertake or commission, or collaborate or assist in, research projects and activities relating to the registration of ownership of land, including the compilation of statistical data needed for the proper planning, development and provision of services related to such registration,
 
-(e) to perform any additional functions conferred on it under subsection (4), and
+(e) to perform any additional functions conferred on it under subsection (4) , and
 
 (f) to keep the Minister informed of progress in relation to the registration of ownership of land and to assist him or her in the development of policy in relation to such registration.
 

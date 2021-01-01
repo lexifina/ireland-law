@@ -1,6 +1,6 @@
 ## PART 3 REGISTRATION OF DEEDS
 
-Interpretation (
+Interpretation ( Part 3).
 
 32.— (1) In this Part, unless the context otherwise requires—
 
@@ -44,9 +44,9 @@ Interpretation (
 
 “record” includes any book, index or document and any information in electronic or other non-legible form which is capable of being converted into a permanent legible form;
 
-“register” means the register of deeds maintained under section 35;
+“register” means the register of deeds maintained under section 35 ;
 
-“Registry” has the meaning given to it by section 33;
+“Registry” has the meaning given to it by section 33 ;
 
 “repealed enactments” means the enactments repealed by this Act.
 

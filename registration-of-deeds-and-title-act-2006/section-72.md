@@ -2,7 +2,7 @@ Amendment of section 126.
 
 72.— Section 126 (power to make rules and orders) of the Act of 1964 is amended—
 
-(a) by the substitution of the following subsections for subsections(1)and (2):
+(a) by the substitution of the following subsections for subsections (1) and (2):
 
 “(1) The Registration of Deeds and Title Rules Committee established by section 74 of the Registration of Deeds and Title Act 2006, with the agreement of the Minister for Justice, Equality and Law Reform, may make general rules for carrying into effect the objects of this Act and, in particular, without prejudice to the generality of the foregoing, in respect of all or any of the following matters:
 

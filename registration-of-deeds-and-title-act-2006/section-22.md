@@ -30,4 +30,4 @@ Chief Executive.
 
 (8) The functions of the Chief Executive may be performed during his or her absence, or when the post of Chief Executive is vacant, by such member or members of the staff of the Authority as it may from time to time designate for that purpose.
 
-(9) Notwithstanding subsection (2), the person who is the Registrar of Deeds and Titles immediately before the establishment day shall be the first Chief Executive of the Authority and shall hold that office subject to terms and conditions which are not less favourable than those of the person’s appointment as such Registrar.
+(9) Notwithstanding subsection (2) , the person who is the Registrar of Deeds and Titles immediately before the establishment day shall be the first Chief Executive of the Authority and shall hold that office subject to terms and conditions which are not less favourable than those of the person’s appointment as such Registrar.
