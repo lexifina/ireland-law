@@ -8,7 +8,9 @@ Registration of person who would not otherwise qualify for registration under se
 
 (a) does not qualify for registration under section 40, 41, 42 or 43,
 
-(b) subject to subsection (8), has undergone programmes of training and education, passed examinations and obtained qualifications in veterinary medicine in a state outside of the State that, in the opinion of the Council, are of a standard that is not lower than the standard of such programmes, examinations or qualifications that is necessary for the practice of veterinary medicine,
+(b) subject to subsection (8), has undergone programmes of training and education, passed examinations and obtained qualifications in veterinary
+
+OJ No.L112, 24.4.2012, p. 21 medicine in a state outside of the State that, in the opinion of the Council, are of a standard that is not lower than the standard of such programmes, examinations or qualifications that is necessary for the practice of veterinary medicine,
 
 (c) shows to the satisfaction of the Council that he or she has sufficient linguistic skills for the purpose of the practice of veterinary medicine in the State,
 
