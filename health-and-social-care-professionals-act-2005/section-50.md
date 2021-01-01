@@ -10,7 +10,7 @@ Definitions (Part 6).
 
 “complaint” means a complaint made under section 52;
 
-“disciplinary sanction” means a sanction specified in any paragraph of section 65(1);
+“disciplinary sanction” means a sanction specified in any paragraph of section 66(1);
 
 “health committee” means a committee established under section 51(1)(c);
 
