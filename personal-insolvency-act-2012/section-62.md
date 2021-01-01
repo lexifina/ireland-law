@@ -34,6 +34,6 @@ Debt Settlement Arrangement: Effect of issue of protective certificate.
 
 (6) Subsections (4) and (5) do not apply where a protective certificate is also in force as respects the other person.
 
-(7) In reckoning any period of time for the purpose of any applicable limitation period in relation to any proceedings or process to which subsection (1) or (3) applies (including any limitation period under the Statute of Limitations 1957), the period in which the protective certificate concerned is in force under section 61shall be disregarded.
+(7) In reckoning any period of time for the purpose of any applicable limitation period in relation to any proceedings or process to which subsection (1) or (3) applies (including any limitation period under the Statute of Limitations 1957), the period in which the protective certificate concerned is in force under section 61 shall be disregarded.
 
 (8) A secured debt shall not be subject to or affected by a protective certificate under this Chapter.

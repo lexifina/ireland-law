@@ -14,9 +14,7 @@ Renewal of authorisation to carry on practice as a personal insolvency practitio
 
 (ii) the prescribed fee.
 
-(3) Subject to subsection (4), where an application under subsection (2) for the renewal of an authorisation is not determined by the Insolvency Service before the authorisation expires, and the application was made in accordance with paragraph
-
-(b) of that subsection, the authorisation shall continue in force until the application has been so determined.
+(3) Subject to subsection (4), where an application under subsection (2) for the renewal of an authorisation is not determined by the Insolvency Service before the authorisation expires, and the application was made in accordance with paragraph (b) of that subsection, the authorisation shall continue in force until the application has been so determined.
 
 (4) Subject to section 167, the Insolvency Service shall refuse to renew an authorisation to carry on practice as a personal insolvency practitioner if—
 

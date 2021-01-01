@@ -24,6 +24,6 @@ Debt Settlement Arrangement: Conduct of creditors’ meeting.
 
 (b) the debtor gives his or her written consent to the modification.
 
-(7) Where, on the taking of a vote under subsection (5), the proposal is not approved or deemed to have been approved in accordance with section 73, the Debt Settlement Arrangement procedure shall be deemed to have come to an end, and the protective certificate issued under section 61shall cease to have effect.
+(7) Where, on the taking of a vote under subsection (5), the proposal is not approved or deemed to have been approved in accordance with section 73, the Debt Settlement Arrangement procedure shall be deemed to have come to an end, and the protective certificate issued under section 61 shall cease to have effect.
 
 (8) ...

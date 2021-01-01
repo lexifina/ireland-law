@@ -26,7 +26,7 @@ Appointment of personal insolvency practitioner.
 
 (iii) such other information as may be prescribed.
 
-(3) Where the debtor, following the meeting referred to in subsection (2), wishes to become party to an arrangement, he or she shall appoint a personal insolvency practitioner (whether the personal insolvency practitioner referred to in subsection (1) or another personal insolvency practitioner) to act as his or her personal insolvency practitioner for the purposes of Chapter 3or 4, as the case may be.
+(3) Where the debtor, following the meeting referred to in subsection (2), wishes to become party to an arrangement, he or she shall appoint a personal insolvency practitioner (whether the personal insolvency practitioner referred to in subsection (1) or another personal insolvency practitioner) to act as his or her personal insolvency practitioner for the purposes of Chapter 3 or 4, as the case may be.
 
 (4) On being appointed under subsection (3), the personal insolvency practitioner shall—
 

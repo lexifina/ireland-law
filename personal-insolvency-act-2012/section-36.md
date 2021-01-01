@@ -6,7 +6,7 @@ General obligations of debtor arising under this Chapter.
 
 (b) where the specified debtor becomes aware of any inaccuracy or omission in his or her Prescribed Financial Statement or any other information provided, or documents submitted, by him or her, or on his or her behalf, to the Insolvency Service.
 
-(2)A specified debtor who, during the supervision period concerned, receives a gift or payment worth €500 or more shall surrender to the Insolvency Service 50 per cent of the value of that gift or payment.
+(2) A specified debtor who, during the supervision period concerned, receives a gift or payment worth €500 or more shall surrender to the Insolvency Service 50 per cent of the value of that gift or payment.
 
 (3) Subject to subsection (4), a specified debtor whose income increases by €400 or more per month during the supervision period concerned shall surrender to the Insolvency Service 50 per cent of that increase.
 

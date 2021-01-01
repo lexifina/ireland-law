@@ -6,7 +6,7 @@ Preferential debts in Personal Insolvency Arrangement.
 
 (3) Where a creditor fails to satisfy the personal insolvency practitioner that his or her debt is a preferential debt, the debt shall be treated as not being a preferential debt for the purposes of a Personal Insolvency Arrangement.
 
-(4) Subsection (1) shall not affect the operation of section 103unless the relevant secured creditors otherwise agree.
+(4) Subsection (1) shall not affect the operation of section 103 unless the relevant secured creditors otherwise agree.
 
 (5) In this Chapter, “preferential debt” means a debt which, if the debtor concerned were a bankrupt would be a debt—
 

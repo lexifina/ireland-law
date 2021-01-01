@@ -6,7 +6,7 @@ Authorisation to carry on practice as personal insolvency practitioner or refusa
 
 (3) Subject to section 165, the Insolvency Service shall refuse to authorise an individual to carry on practice as a personal insolvency practitioner if—
 
-(a) section 163has not been complied with as respects the individual,
+(a) section 163 has not been complied with as respects the individual,
 
 (b) the individual has not furnished sufficient evidence to show that there is available to him or her the required level of professional indemnity insurance,
 

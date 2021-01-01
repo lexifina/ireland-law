@@ -72,7 +72,7 @@ Measures to assist inspector in carrying out investigation.
 
 (15) For the purposes of an investigation, an inspector may, if he or she thinks it proper to do so, of his or her own volition or at the request of the personal insolvency practitioner to whom the investigation relates, conduct an oral hearing.
 
-(16) Part 1 of Schedule 2shall have effect for the purposes of an oral hearing referred to in subsection (15).
+(16) Part 1 of Schedule 2 shall have effect for the purposes of an oral hearing referred to in subsection (15).
 
 (17) Subject to subsection (12), a person who—
 

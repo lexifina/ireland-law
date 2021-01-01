@@ -46,7 +46,7 @@ Eligibility criteria for a Personal Insolvency Arrangement.
 
 (i) that the debtor has not—
 
-(i) been the subject of a protective certificate issued under section 95less than 12 months prior to the date of the application for a protective certificate,
+(i) been the subject of a protective certificate issued under section 95 less than 12 months prior to the date of the application for a protective certificate,
 
 (ii) had his or her debts discharged pursuant to a final Debt Relief Notice less than 3 years prior to the date of the application for a protective certificate,
 

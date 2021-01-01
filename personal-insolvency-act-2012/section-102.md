@@ -20,7 +20,7 @@ Secured creditors and Personal Insolvency Arrangement.
 
 (5) Where a Personal Insolvency Arrangement provides for the sale or other disposal of the property which is the subject of the security for a secured debt, and the realised value of that property is less than the amount due in respect of the secured debt, the balance due to the secured creditor shall abate in equal proportion to the unsecured debts covered by the Personal Insolvency Arrangement and shall be discharged with them on completion of the obligations specified in the Personal Insolvency Arrangement.
 
-(6) Without prejudice to the generality of section 100or subsections (1) to (3) and subject to sections 103 to 105, a Personal Insolvency Arrangement may include one or more of the following terms in relation to the secured debt:
+(6) Without prejudice to the generality of section 100 or subsections (1) to (3) and subject to sections 103 to 105, a Personal Insolvency Arrangement may include one or more of the following terms in relation to the secured debt:
 
 (a) that the debtor pay interest and only part of the capital amount of the secured debt to the secured creditor for a specified period of time which shall not exceed the duration of the Personal Insolvency Arrangement;
 

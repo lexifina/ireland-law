@@ -32,7 +32,7 @@ Debt Settlement Arrangement: Eligibility criteria.
 
 (f) that the debtor has not—
 
-(i) been the subject of a protective certificate issued under section 61less than 12 months prior to the date of the application for a protective certificate,
+(i) been the subject of a protective certificate issued under section 61 less than 12 months prior to the date of the application for a protective certificate,
 
 (ii) had his or her debts discharged pursuant to section 46(1) less than 3 years prior to the date of the application for a protective certificate,
 
@@ -42,4 +42,4 @@ Debt Settlement Arrangement: Eligibility criteria.
 
 (2) The criterion specified in subsection (1)(f) shall not apply where the debtor has, on notice to the Insolvency Service, made an application to the appropriate court and the court has made an order stating that it is satisfied that the current insolvency of the debtor arises by reason of exceptional circumstances or other factors which are substantially outside the control of the debtor and that it would be just to permit the debtor to make a proposal for a Debt Settlement Arrangement.
 
-(3) A debtor shall not be eligible to make a proposal for a Debt Settlement Arrangement where 25 per cent or more of his or her debts (other than excluded debts and secured debts) were incurred during the period of 6 months ending on the date on which an application is made under section 59for a protective certificate.
+(3) A debtor shall not be eligible to make a proposal for a Debt Settlement Arrangement where 25 per cent or more of his or her debts (other than excluded debts and secured debts) were incurred during the period of 6 months ending on the date on which an application is made under section 59 for a protective certificate.

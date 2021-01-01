@@ -14,7 +14,7 @@ Referral of application to appropriate court for issue of Debt Relief Notice.
 
 (2) Where the appropriate court receives the application and accompanying documentation pursuant to subsection (1)(a), it shall consider the application and documentation and, subject to subsection (3)—
 
-(a) if satisfied that the criteria specified in section 26(2) have been satisfied, shall issue a Debt Relief Notice in respect of the debts specified in the application under section 29which it is satisfied are qualifying debts, and
+(a) if satisfied that the criteria specified in section 26(2) have been satisfied, shall issue a Debt Relief Notice in respect of the debts specified in the application under section 29 which it is satisfied are qualifying debts, and
 
 (b) if not so satisfied, shall refuse to issue a Debt Relief Notice.
 

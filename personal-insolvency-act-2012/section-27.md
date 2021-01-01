@@ -18,7 +18,7 @@ Initiation of Debt Relief Notice process.
 
 (a) whether the debtor satisfies the criteria specified in section 26(2),
 
-(b) the general effect of making an application under section 29,and the consequences, including any adverse consequences, for the debtor in the event of his or her becoming a specified debtor,
+(b) the general effect of making an application under section 29, and the consequences, including any adverse consequences, for the debtor in the event of his or her becoming a specified debtor,
 
 (c) the other option or options (if any) available to him or her for addressing his or her financial difficulties including, in particular, becoming party to a Debt Settlement Arrangement, Personal Insolvency Arrangement or bankruptcy, and the general effect of choosing one or more than one of those options,
 

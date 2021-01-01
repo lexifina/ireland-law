@@ -76,7 +76,7 @@ Referral of application to court for issue of protective certificate.
 
 (c) of the right of the creditor under section 97 to appeal the issue of the protective certificate.
 
-(13) Notwithstanding the provisions of subsections (5), (6) and (7), a protective certificate that is in force on the date on which a proposal for a Personal Insolvency Arrangement is approved in accordance with section 110shall continue in force until it ceases to have effect in accordance with section 113.
+(13) Notwithstanding the provisions of subsections (5), (6) and (7), a protective certificate that is in force on the date on which a proposal for a Personal Insolvency Arrangement is approved in accordance with section 110 shall continue in force until it ceases to have effect in accordance with section 113.
 
 (14) A protective certificate issued under this section shall—
 

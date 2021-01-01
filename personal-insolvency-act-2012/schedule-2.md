@@ -1,6 +1,6 @@
 SCHEDULE 2
 
-PROVISIONS APPLICABLE TO ORAL HEARINGS CONDUCTED PURSUANT TO SECTIONS 181AND 182.
+PROVISIONS APPLICABLE TO ORAL HEARINGS CONDUCTED PURSUANT TO SECTIONS 181 AND 182.
 
 PART 1
 
@@ -26,7 +26,7 @@ ORAL HEARING CONDUCTED BY COMPLAINTS COMMITTEE PURSUANT TO SECTION
 
 182(6)
 
-1. The Complaints Committee, in conducting the oral hearing for the purposes of assisting it to make a determination under section 182or for the purposes of observing fair procedures, may take evidence on oath, and the administration of such an oath by any member of the Complaints Committee is hereby authorised.
+1. The Complaints Committee, in conducting the oral hearing for the purposes of assisting it to make a determination under section 182 or for the purposes of observing fair procedures, may take evidence on oath, and the administration of such an oath by any member of the Complaints Committee is hereby authorised.
 
 2. The Complaints Committee may by notice in writing require any person to attend the oral hearing at such time and place as is specified in the notice to give evidence in respect of any matter in issue in the making of the decision under section 182 or to produce any relevant documents within his or her possession or control or within his or her procurement.
 

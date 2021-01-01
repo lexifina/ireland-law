@@ -2,7 +2,7 @@ Conduct of creditors’ meeting for consideration of proposed Personal Insolvenc
 
 109.— (1) A creditors’ meeting called in accordance with section 106 shall consider the proposal for a Personal Insolvency Arrangement and, subject to subsection (4), shall vote on the proposal.
 
-(2) A creditors’ meeting called by the personal insolvency practitioner under section 106shall, subject to this section, be conducted in accordance with any regulations made under section 111.
+(2) A creditors’ meeting called by the personal insolvency practitioner under section 106 shall, subject to this section, be conducted in accordance with any regulations made under section 111.
 
 (3) Subject to subsection (4) the proposal for a Personal Insolvency Arrangement may, before the proposal has been voted upon, be subject to a proposal for a modification where the modification addresses an ambiguity or rectifies an error in the proposed Personal Insolvency Arrangement where—
 

@@ -2,7 +2,7 @@
 
 Debt Settlement Arrangement: General Conditions.
 
-55.— (1) Subject to the provisions of this Act, a debtor who satisfies the eligibility criteria specified in section 57may make a proposal for a Debt Settlement Arrangement with one or more of his or her creditors in respect of the payment or satisfaction of his or her debts.
+55.— (1) Subject to the provisions of this Act, a debtor who satisfies the eligibility criteria specified in section 57 may make a proposal for a Debt Settlement Arrangement with one or more of his or her creditors in respect of the payment or satisfaction of his or her debts.
 
 (2) A proposal for a Debt Settlement Arrangement shall be made on behalf of a debtor by a personal insolvency practitioner in accordance with the provisions of this Part.
 

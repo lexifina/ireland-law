@@ -6,7 +6,7 @@ Fraudulent disposal of property.
 
 (b) avoiding an obligation under section 36,
 
-(c) obtaining a protective certificate under Chapter 3or 4 of Part 3,
+(c) obtaining a protective certificate under Chapter 3 or 4 of Part 3,
 
 (d) avoiding an obligation under a Debt Settlement Arrangement or Personal Insolvency Arrangement,
 

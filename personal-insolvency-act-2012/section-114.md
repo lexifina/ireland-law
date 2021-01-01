@@ -4,4 +4,4 @@ Determination of objection lodged under section 112.
 
 (2) The hearing of an objection lodged under section 112(3) shall be heard with all due expedition.
 
-(3) Where the appropriate court upholds the objection to the Personal Insolvency Arrangement, the Personal Insolvency Arrangement procedure shall be deemed to have come to an end, and the protective certificate issued under section 95shall cease to have effect.
+(3) Where the appropriate court upholds the objection to the Personal Insolvency Arrangement, the Personal Insolvency Arrangement procedure shall be deemed to have come to an end, and the protective certificate issued under section 95 shall cease to have effect.

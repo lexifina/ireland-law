@@ -4,4 +4,4 @@ Determination of objection lodged under section 75.
 
 (2) The hearing of an objection lodged under section 75(3) shall be heard with all due expedition.
 
-(3) Where the appropriate court upholds the objection to the Debt Settlement Arrangement, the Debt Settlement Arrangement procedure shall be deemed to have come to an end, and the protective certificate issued under section 61shall cease to have effect.
+(3) Where the appropriate court upholds the objection to the Debt Settlement Arrangement, the Debt Settlement Arrangement procedure shall be deemed to have come to an end, and the protective certificate issued under section 61 shall cease to have effect.

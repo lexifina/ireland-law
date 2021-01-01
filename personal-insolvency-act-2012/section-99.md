@@ -16,7 +16,7 @@ Mandatory requirements concerning Personal Insolvency Arrangement.
 
 (f) a Personal Insolvency Arrangement shall—
 
-(i) make provision for the costs and outlays of the personal insolvency practitioner which relate to the matters referred to in sections 48 to 54and this Chapter and to the ongoing administration of the Arrangement,
+(i) make provision for the costs and outlays of the personal insolvency practitioner which relate to the matters referred to in sections 48 to 54 and this Chapter and to the ongoing administration of the Arrangement,
 
 (ia) make provision for the payment of all tax liabilities incurred by the debtor, or by the personal insolvency practitioner, under the Taxes Consolidation Act 1997 during the administration of the Arrangement and—
 

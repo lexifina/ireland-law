@@ -16,4 +16,4 @@ Application by Insolvency Service for direction of court.
 
 (e) make such other order as it deems appropriate.
 
-(4) The power conferred on the court under subsection (3)(d), section 42(3)(d),section 43(5)(c) and section 44(4)(d) does not include the power to specify in a Debt Relief Notice, as a specified qualifying debt, any debt that was not included in the schedule referred to in section 29(2)(d) or in any information provided, or documents submitted, by the specified debtor, or on his or her behalf, for the purpose of his or her application for that Notice.
+(4) The power conferred on the court under subsection (3)(d), section 42(3)(d), section 43(5)(c) and section 44(4)(d) does not include the power to specify in a Debt Relief Notice, as a specified qualifying debt, any debt that was not included in the schedule referred to in section 29(2)(d) or in any information provided, or documents submitted, by the specified debtor, or on his or her behalf, for the purpose of his or her application for that Notice.

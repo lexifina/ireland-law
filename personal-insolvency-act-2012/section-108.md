@@ -18,7 +18,7 @@ Voting rights at creditors’ meetings.
 
 (5) A creditor who is a connected person as respects the debtor may not vote in favour of a proposal for a Personal Insolvency Arrangement at a creditors’ meeting but that creditor may vote against the proposal.
 
-(6)...
+(6) ...
 
 (7) Subject to any regulations made under section 111, only the person who appears to the personal insolvency practitioner to be the owner of the debt (or an agent acting on behalf of that person) shall be entitled to receive notices required to be sent to a creditor under this Chapter or to vote at the creditors’ meeting.
 

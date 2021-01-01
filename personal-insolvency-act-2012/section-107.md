@@ -10,7 +10,7 @@ Documents to be given to creditors and the Insolvency Service when summoning a c
 
 (i) he or she has been instructed by the debtor to act as personal insolvency practitioner in connection with the Personal Insolvency Arrangement procedure, he or she has consented to so act and that he or she is a person entitled to act as a personal insolvency practitioner;
 
-(ii) he or she has advised the debtor in accordance with section 52of the debtor’s options for managing the debtor’s financial difficulties;
+(ii) he or she has advised the debtor in accordance with section 52 of the debtor’s options for managing the debtor’s financial difficulties;
 
 (iii) he or she is not aware of any reasonable grounds to believe that the information contained in the debtor’s Prescribed Financial Statement is other than complete and accurate;
 

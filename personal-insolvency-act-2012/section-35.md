@@ -32,7 +32,7 @@ Effect of issue of Debt Relief Notice.
 
 (5) Notwithstanding subsection (1), the fact that a Debt Relief Notice is in effect under this Chapter in relation to a specified debtor shall not operate to prevent a specified creditor taking the actions referred to in subsection (3) as respects a person who has jointly contracted with the specified debtor concerned or is jointly liable with that specified debtor to the specified creditor and that other person may sue or be sued in respect of the contract without joining the specified debtor.
 
-(6) Subsections (4) and (5) do not apply where a Debt Relief Notice, or a protective certificate issued under Chapter 3or 4, is in effect as respects the other person.
+(6) Subsections (4) and (5) do not apply where a Debt Relief Notice, or a protective certificate issued under Chapter 3 or 4, is in effect as respects the other person.
 
 (7) The Deeds of Arrangement Act 1887 does not apply to a Debt Relief Notice.
 

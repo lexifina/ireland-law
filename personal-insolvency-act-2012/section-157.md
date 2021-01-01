@@ -40,7 +40,7 @@ Objection to
 
 Entitlement
 
-85B.— (1) A bankrupt shall be entitled to an order discharging him from to discharge bankruptcy where provision has been made for the payment of the expenses, from fees and costs of the bankruptcy, and for preferential payments, and— bankruptcy.
+85B.— (1) A bankrupt shall be entitled to an order discharging him from bankruptcy to discharge where provision has been made for the payment of the expenses, fees and from costs of the bankruptcy, and for preferential payments, and— bankruptcy.
 
 (a) he has paid one euro in the euro, with such interest as the Court may allow, or
 
@@ -54,9 +54,9 @@ Entitlement
 
 Annulment of
 
-85C.— (1) A person shall be entitled to an annulment of his adjudication— adjudication in bankrupt-
+85C.— (1) A person shall be entitled to an annulment of his adjudication— adjudication in
 
-(a) where he has shown cause pursuant to section 16, or cy.
+(a) where he has shown cause pursuant to section 16, or bankruptcy.
 
 (b) in any other case where, in the opinion of the Court, he ought not to have been adjudicated bankrupt.
 

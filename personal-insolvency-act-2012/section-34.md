@@ -12,7 +12,7 @@ Duration of Debt Relief Notice.
 
 (4) Notwithstanding subsections (1) to (3), a Debt Relief Notice shall cease to have effect on the date—
 
-(a) on which the termination of the Notice, under section 42, 43or 44, takes effect, or
+(a) on which the termination of the Notice, under section 42, 43 or 44, takes effect, or
 
 (b) on which it ceases to have effect under section 37(3) (as amended by section 55 of the Courts and Civil Law (Miscellaneous Provisions) Act 2013).
 

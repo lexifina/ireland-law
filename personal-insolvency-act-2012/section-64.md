@@ -12,7 +12,7 @@ Actions to be taken by personal insolvency practitioner following issue of prote
 
 (b) Subject to paragraph (c), a creditor who does not comply with a request under paragraph (a) is not entitled to—
 
-(i) vote at a meeting referred to in section 72or82, or
+(i) vote at a meeting referred to in section 72 or 82, or
 
 (ii) share in any distribution that may be made under the Debt Settlement Arrangement concerned.
 
