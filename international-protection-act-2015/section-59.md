@@ -1,5 +1,3 @@
-## PART 9 PROGRAMME REFUGEES AND TEMPORARY PROTECTION
-
 Programme refugees, etc.
 
 59. (1) In this section, and subject to subsection (4), a “programme refugee” means a person to whom permission to enter and remain in the State for resettlement, or for temporary protection other than temporary protection provided for in section 60, has been given by the Government or the Minister and whose name is entered in a register established and maintained by the Minister, whether or not such person is a refugee within the meaning of the definition of “refugee” in section 2.
