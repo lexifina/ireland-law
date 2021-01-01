@@ -26,4 +26,4 @@ Proceeds of carbon revenue levy.
 
 (i) close the account not later than 45 days after the date of the direction given under paragraph (a), and
 
-(ii) pay moneys (if any) standing to the credit of the account as the Minister may direct under subsection (3).
+(ii) pay moneys (if any) standing to the credit of the account as the Minister may direct under subsection (3)

@@ -14,9 +14,7 @@ Definitions (Part IX and Schedule 4).
 
 (d) failure, by the holder of a licence under section 16(1)(a) of the Gas (Interim) (Regulation) Act 2002, under section 16(1F) of that Act, to keep, and make available on a request being made, data relating to transactions in gas supply contracts and gas derivatives with wholesale customers, transmission system operators and storage and LNG operators, or
 
-(e) failure by the holder of a licence under subsection (1)(a), (c) or (d) of section 16 of the Gas (Interim) (Regulation) Act 2002 to comply, under subsection
-
-(4A)(b) of that section, with such standards of performance as may be specified by the Commission under subsection (4A)(a) of that section in the licence concerned;
+(e) failure by the holder of a licence under subsection (1)(a), (c) or (d) of section 16 of the Gas (Interim) (Regulation) Act 2002 to comply, under subsection (4A)(b) of that section, with such standards of performance as may be specified by the Commission under subsection (4A)(a) of that section in the licence concerned;
 
 “inspector”means a person appointed under section 56(1) to be an inspector for the purposes of this Part;
 

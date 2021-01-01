@@ -1,6 +1,8 @@
 SCHEDULE 4
 
-Provisions Applicable to Oral Hearings Conducted Pursuant to Section 58 or 60 Part 1
+Provisions Applicable to Oral Hearings Conducted Pursuant to Section 58 or 60
+
+Part 1
 
 Oral Hearing Conducted by Inspector Pursuant to Section 58(15)
 

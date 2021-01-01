@@ -1,3 +1,3 @@
-Supplementary power to modify licence conditions.
+Supplementary power to modify licence conditions. (Repealed)
 
 14B. ...

@@ -20,11 +20,11 @@ H CHP is the amount of useful heat from combined heat and power (calculated as t
 
 2. If a share of the energy content of the fuel input to the combined heat and power process is recovered in chemicals and recycled this share can be subtracted from the fuel input before calculating the overall efficiency used in paragraph 1.
 
-3. The relative amount of primary energy savings provided by combined heat and power production shall be calculated as follows:
+3. The relative amount of primary energy savings provided by combined heat and power production shall be calculated as follows: Where:
 
-Where:
+PES is primary energy savings.
 
-PES is primary energy savings. CHPηH is the heat efficiency of the combined heat and power, defined as annual useful heat output divided by the fuel input used to produce the sum of useful heat output and electricity production from combined heat and power.
+CHPηH is the heat efficiency of the combined heat and power, defined as annual useful heat output divided by the fuel input used to produce the sum of useful heat output and electricity production from combined heat and power.
 
 RefηH is the efficiency reference value for separate heat production determined in accordance with section 7(6).
 
