@@ -2,7 +2,13 @@ Interpretation.
 
 2.—(1) In this Act, except where the context otherwise requires—
 
-“Agency” means the agency set up under the Regulation (EC) 713/2009 of the European Parliament and of the Council;
+‘2019 ACER Regulation’ means Regulation (EU) 2019/942 of the European Parliament and of the Council of 5 June 20192 establishing a European Agency for the Cooperation of Energy Regulators;
+
+‘2019 Internal Electricity Market Directive’ means Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 20193 on common rules for the internal market for electricity and amending Directive 2012/27/EU;
+
+‘2019 Internal Electricity Market Regulation’ means Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 20192 on the internal electricity market;
+
+‘Agency’ means the European Agency for the Cooperation of Energy Regulators established under the 2019 ACER Regulation;
 
 “authorisation” means an authorisation granted under section 16;
 
@@ -58,7 +64,11 @@ Interpretation.
 
 “energy undertaking” means an electricity undertaking or a natural gas undertaking;
 
+‘ENTSO for Electricity’ means the European Network of Transmission System Operators for Electricity referred to in Article 28 of the 2019 Internal Electricity Market Regulation;
+
 “establishment day” means the day appointed under section 8;
+
+‘EU DSO entity’ means the European Entity for Distribution System Operators referred to in Article 52 of the 2019 Internal Electricity Market Regulation;
 
 “final customer” means a person being supplied with electricity at a single premises for consumption on those premises;
 
@@ -73,6 +83,8 @@ Interpretation.
 “generating station” means a station for the generation of electricity;
 
 “grid code” means a code in respect of all technical aspects relating to connection to and operation of the transmission system prepared by the transmission system operator under section 33;
+
+‘guidelines’, in relation to electricity, means guidelines adopted pursuant to Article 61 of the 2019 Internal Electricity Market Regulation;
 
 “high efficiency combined heat and power” means combined heat and power production which on an annual basis—
 
@@ -122,6 +134,10 @@ Interpretation.
 
 “natural gas undertaking” means a person engaged in the transmission, distribution, supply or storage of natural gas, including any holder of a licence or a consent under this Act, or any person who has been granted a licence or given a consent under the Gas Acts, 1976 to 2002,
 
+‘network codes’, in relation to electricity, means network codes established pursuant to Article 59 of the 2019 Internal Electricity Market Regulation;
+
+‘non-frequency ancillary service’, in in relation to electricity, means a service used by a transmission system operator or distribution system operator for steady state voltage control, fast reactive current injections, inertia for local grid stability, short-circuit current, black start capability and island operation capability;
+
 “petroleum undertaking” has the meaning given to it by section 13A(1);
 
 “piped LPG distribution network” means a pipeline system connected to a central storage bulk tank or LPG cylinder but not including a bulk tank or LPG cylinder as the case may be, and includes pipework above and below ground and all other equipment necessary upstream of the point of delivery and downstream of the emergency control valve, supplying gas to two or more customers;
@@ -130,9 +146,13 @@ Interpretation.
 
 “Principal Act” means the Electricity (Supply) Act, 1927;
 
+2 OJ No. L211, 14.8.2009, p.94 1 OJ No. L117, 3.5.2019, p.1
+
 “public electricity supplier” means the holder of a licence under section 14(1)(h);
 
 “record” means any book, document or any other written or printed material in any form including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form;
+
+‘regional coordination centre’ means a regional coordination centre established pursuant to Article 35 of the 2019 Internal Electricity Market Regulation;
 
 “renewable, sustainable or alternative forms of energy” means energy used in the production of electricity which uses as its primary source one or a combination of more than one of the following—
 
@@ -151,8 +171,6 @@ Interpretation.
 (g) fuel cells,
 
 (h) tidal,
-
-2 OJ No. L211, 14.8.2009, p.94 1 OJ No. L117, 3.5.2019, p.1
 
 (i) solar,
 
@@ -182,9 +200,13 @@ Interpretation.
 
 “supply”, in relation to electricity, means supply through electric lines to final customers for consumption;
 
+‘system operation region’ means the system operation region to be approved by the Agency pursuant to Article 36 of the 2019 Internal Electricity Market Regulation;
+
 “transmission”, subject to section 2A, in relation to electricity, means the transport of electricity by means of a transmission system, that is to say, a system which consists, wholly or mainly, of high voltage lines and electric plant and which is used for conveying electricity from a generating station to a substation, from one generating station to another, from one substation to another or to or from any interconnector or to final customers but shall not include any such lines which the Board may, from time to time, with the approval of the Commission, specify as being part of the distribution system but shall include any interconnector owned by the Board.
 
 “transmission system operator” means the holder of a licence under section 14(1)(e);
+
+‘Union wide network development plan’ means the plan adopted pursuant to Article 30(1)(b) of the 2019 Internal Electricity Market Regulation;
 
 “useful heat” means heat produced in a cogeneration process to satisfy an economically justifiable demand for heat or cooling;
 
