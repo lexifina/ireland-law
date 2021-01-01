@@ -14,6 +14,8 @@ Council’s power to make rules.
 
 (c) the details relating to medical practitioners that, in addition to their names, are to be entered in the register or their certificates of registration or both,
 
+(ce) permits for the purposes of section 38B(3),
+
 (d) the manner in which appropriate fees are to be paid and the time limits for payment of appropriate fees for the retention of registration,
 
 (e) the receiving and recording of evidence by section 20(2) committees,

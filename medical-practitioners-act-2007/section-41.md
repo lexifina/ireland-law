@@ -2,7 +2,7 @@ Offences and penalties.
 
 41.— (1) A person is guilty of an offence if the person—
 
-(a) contravenes section 37(a) or (b) or 40(2),
+(a) contravenes section 37(1) or (2) or 40(2)
 
 (b) falsely represents to be a registered medical practitioner, or
 

@@ -14,7 +14,7 @@ Object, functions and powers of registration boards.
 
 (d) monitor, in accordance with section 49, the continuing suitability of programmes approved by the board for the education and training of applicants for registration, and
 
-(e) make recommendations under Part 6 with respect to sanctions to be imposed on registrants of the designated profession.
+(e) ...
 
 (4) The registration board of a designated profession has power to do anything that appears to it to be requisite, advantageous or incidental to, or to facilitate, the performance of its functions under this Act and it may, with the Council's approval—
 

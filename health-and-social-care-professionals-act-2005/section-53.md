@@ -16,7 +16,7 @@ Referral of complaints to preliminary proceedings committee.
 
 (a) prejudice the generality of section 60, or
 
-(b) limit the range of disciplinary sanctions which the registration board concerned may recommend to the Council under section 65(1) be imposed on the registrant concerned in any case where the Council has taken the action referred to in subsection (1A)(b).
+(b) ...
 
 (2) The preliminary proceedings committee may, by written notice, do one or more of the following:
 
