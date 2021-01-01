@@ -4,9 +4,9 @@ Transfer of functions to IFI.
 
 (2) The functions vested in the Central Board or a regional board by or under—
 
-(a) the provisions of the enactments mentioned in Schedule 2, and
+(a) the provisions of the enactments mentioned in Schedule 2 , and
 
-(b) the regulations mentioned in Schedule 3, are, on the establishment day, transferred to IFI.
+(b) the regulations mentioned in Schedule 3 , are, on the establishment day, transferred to IFI.
 
 (3) (a) The Acts specified in Schedule 2 are amended on the establishment day as indicated in that Schedule.
 

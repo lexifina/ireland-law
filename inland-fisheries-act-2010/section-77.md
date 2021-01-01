@@ -20,9 +20,7 @@ Alteration of certain penalties under the Principal Act, the Act of 1962 or the 
 
 (7) Where a person is convicted of an offence under section 152 of the Principal Act, the engine or other thing used to commit the offence, as a statutory consequence of conviction, stands forfeited.
 
-(8) This section has effect in respect of offences committed after the establishment day.
-
-TABLE
+(8) This section has effect in respect of offences committed after the establishment day. TABLE
 
 PART 1
 

@@ -1,6 +1,6 @@
 Effects of delegation and sub-delegation of functions.
 
-26.— (1) If a function of IFI is delegated by IFI to the chief executive undersection 16(1), references in a provision of this Act or any other enactment that assigns that function to IFI or that regulates the manner in which the function is to be performed are to be read as references to the chief executive.
+26.— (1) If a function of IFI is delegated by IFI to the chief executive under section 16(1), references in a provision of this Act or any other enactment that assigns that function to IFI or that regulates the manner in which the function is to be performed are to be read as references to the chief executive.
 
 (2) If a function of the chief executive under section 24 is delegated by him or her to an employee of IFI under section 25 or is sub-delegated by an employee authorised to do so under section 25, references in any provision of this Act or any other enactment that regulates the manner in which that function is to be performed are to be read as references to the employee to whom the function is delegated or sub-delegated.
 
