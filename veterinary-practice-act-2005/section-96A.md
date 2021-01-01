@@ -8,7 +8,7 @@ Registration of persons who would not otherwise qualify for registration under s
 
 (a) does not qualify for registration under section 95 or 96,
 
-(b) subject to subsection (9), has undergone programmes of training and education, passed examinations and obtained qualifications in veterinary nursing in a state other than of the State that, in the opinion of the Council, are of a standard that is not lower than the standard of such programmes, examinations or qualifications in the State necessary for the practice of veterinary nursing ,
+(b) subject to subsection (9), has undergone programmes of training and education, passed examinations and obtained qualifications in veterinary nursing in a state other than of the State that, in the opinion of the Council, are of a standard that is not lower than the standard of such programmes, examinations or qualifications in the State necessary for the practice of veterinary nursing,
 
 (c) shows to the satisfaction of the Council that he or she has sufficient language skills for the purpose of the practice of veterinary nursing in the State,
 
