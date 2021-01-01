@@ -24,9 +24,19 @@ Functions of Commission.
 
 (vi) any distortion or restriction of competition in the supply of electricity and gas to final customers,
 
-(vii) whether the development and operation of competition in the supply of electricity and gas is benefitting final customers, and
+(vii) whether the development and operation of competition in the supply of electricity and gas is benefitting final customers,
 
 (viii) the level of market opening and of competition on natural gas exchanges,
+
+(ix) the impact of dynamic price contracts and of the use of smart metering systems,
+
+(x) the relationship between household and wholesale prices,
+
+(xi) the evolution of grid tariffs and levies,
+
+(xii) the availability of comparison tools that meet the requirements set out in Article 14 of the 2019 Internal Electricity Market Directive, and (xiii) the removal of unjustified obstacles to and restrictions on the development of consumption of self-generated electricity and citizen energy communities,
+
+(xiii) the removal of unjustified obstacles to and restrictions on the development of consumption of self-generated electricity and citizen energy communities,
 
 (db) to take any actions which the Commission, on foot of the monitoring in paragraph (da), has determined to be necessary in order to—
 
@@ -66,13 +76,13 @@ Functions of Commission.
 
 (di) ...
 
-(dj) to publish recommendations, at least annually, in relation to compliance of supply prices with Article 3 of the Natural Gas Market Directive and Article 3 of the Electricity Market Directive,
+(dj) to publish recommendations, at least annually, in relation to compliance of supply prices with Article 3 of the Natural Gas Market Directive and Article 5 of the 2019 Internal Electricity Market Directive,
 
-(dk) to monitor the implementation of rules relating to the roles and responsibilities of transmission system operators, distribution system operators, suppliers and customers and other market parties pursuant to the Electricity Market Regulation and the Natural Gas Market Regulation,
+(dk) to monitor the implementation of rules relating to the roles and responsibilities of transmission system operators, distribution system operators, suppliers and customers and other market parties pursuant to the 2019 Internal Electricity Market Regulation and the Natural Gas Market Regulation,
 
 (dl) to respect contractual freedom with regard to interruptible supply contracts as well as with regard to long-term contracts provided that they are compatible with European Union law and consistent with European Union policies,
 
-(dm) to monitor the occurrence of restrictive contractual practices, including exclusivity clauses which may prevent large non-household customers from contracting simultaneously with more than one supplier or restrict their choice to do so and, where appropriate, to inform the Competition Authority of such practices,
+(dm) to monitor the occurrence of restrictive contractual practices, including exclusivity clauses which may prevent ... customers from contracting simultaneously with more than one supplier or restrict their choice to do so and, where appropriate, to inform the Competition Authority of such practices,
 
 (dn) where applicable, to monitor technical cooperation between electricity transmission system operators and third-country electricity transmission system operators, and
 
@@ -81,6 +91,12 @@ Functions of Commission.
 (i) be objective, published, applied in a non-discriminatory matter, and be without prejudice to the supply of electricity on the basis of existing contractual obligations ensuring the proper functioning of the internal market in electricity, and
 
 (ii) take into account the economic precedence of electricity from available generation installations or interconnector transfers and the technical constraints on the system,
+
+(dp) to monitor and assess the performance of transmission system operators and distribution system operators in relation to the development of a smart grid that promotes energy efficiency and the integration of energy from renewable sources, based on a limited set of indicators, and publish a national report every two years, including recommendations,
+
+(dq) to contribute to the compatibility of data exchange processes for the most important market processes at regional level,
+
+(dr) to cooperate, where appropriate with the Competition and Consumer Protection Commission, other regulatory bodies and the European Commission, as necessary, when conducting an investigation relating to competition law,
 
 (e) to advise the Minister on the development of the electricity and gas industries and on the exercise of the functions of the Minister under this Act,
 
@@ -96,11 +112,11 @@ Functions of Commission.
 
 (ed) to regulate the activities of LPG installers with respect to safety,
 
-(f) to contribute to the development of the internal market and to the development of compatible regulatory frameworks between regions of the European Union, by engaging, co-operating and consulting with other national regulatory authorities, the Agency and with the European Commission in regard to cross-border issues , and in respect of infrastructure to and from a third country, to co-operate with the relevant authorities of the third country, after consulting the regulatory authorities of other Member States, aiming at, as regards such infrastructure, consistent application of the Natural Gas Market Directive in the territory of the European Union,
+(f) to contribute to the development of the internal market and to the development of compatible regulatory frameworks between regions of the European Union, by engaging, co-operating and consulting with other national regulatory authorities, the Agency and with the European Commission in regard to cross-border issues , in particular through participation in the work of the Agency’s Board of Regulators pursuant to Article 21 of the 2019 ACER Regulationand in respect of infrastructure to and from a third country, to co-operate with the relevant authorities of the third country, after consulting the regulatory authorities of other Member States, aiming at, as regards such infrastructure, consistent application of the Natural Gas Market Directive in the territory of the European Union,
 
-(fa) to share information, as necessary for the fulfilment of its functions, with other national regulatory authorities and the Agency,
+(fa) to share information, as necessary for the fulfilment of its functions, with other national regulatory authorities and the Agency and, in particular, to share information within the Agency,
 
-(faa) to ensure that any information obtained from another regulatory authority in regard to a cross-border issue under the Natural Gas Market Directive, the Natural Gas Market Regulation, the Electricity Market Directive or the Electricity Market Regulation is treated confidentially to the same extent that is required of the other regulatory authority,
+(faa) to ensure that any information obtained from another regulatory authority in regard to a cross-border issue under the Natural Gas Market Directive, the Natural Gas Market Regulation, the 2019 Internal Electricity Market Directive or the Electricity Market Regulation is treated confidentially to the same extent that is required of the other regulatory authority,
 
 (fb) to co-operate with other regulatory authorities, at least at a regional level, to—
 
@@ -108,13 +124,13 @@ Functions of Commission.
 
 (ii) promote joint electricity and gas exchanges and the allocation of cross-border capacity,
 
-(iii) co-ordinate the development of network codes for electricity and gas transmission system operators and electricity and gas undertakings,
+(iii) co-ordinate the development of network codes and guidelines for electricity and gas transmission system operators and electricity and gas undertakings,
 
-(iv) develop rules on access to cross border infrastructure including allocation of capacity and congestion management,
+(iv) develop rules on access to cross border infrastructure including allocation of capacity and congestion management except where the Agency is competent to fix and approve the terms and conditions or methodologies for the implementation of network codes and guidelines under Chapter VII of the 2019 Internal Electricity Market Regulation pursuant to Article 5(2) of the 2019 ACER Regulation because of their coordinated nature,
 
 (v) foster operational arrangements to enable an adequate level of interconnection capacity within the region and between regions to allow the development of effective competition and improvement of security of supply,
 
-(vi) foster non-discriminatory operational arrangements in regard to supply undertakings, and
+(vi) foster non-discriminatory operational arrangements in regard to supply undertakings, ...
 
 (vii) contribute to safeguarding secure electricity and gas supplies on the internal market by co-operating with, and keeping other national regulatory authorities informed of any co-operation measure which the Commission takes pursuant to this section. Such cooperation shall cover situations resulting or likely to result in the short-term in a severe disruption of supply and shall include—
 
@@ -122,11 +138,13 @@ Functions of Commission.
 
 (II) identification and, where necessary, development or upgrading of electricity and natural gas interconnections, and
 
-(III) conditions and practical procedures for mutual assistance,
+(III) conditions and practical procedures for mutual assistance, and
+
+(viii) coordinate the joint oversight of entities performing functions at regional level, and
+
+(ix) coordinate, in cooperation with other involved authorities, the joint oversight of national, regional and European resource adequacy assessments,
 
 (fbb) to consult and co-operate with the relevant authorities of third countries in relation to the operation of gas infrastructure to and from third countries with a view to ensuring, as regards the infrastructure concerned, that the Natural Gas Market Directive is applied consistently in the territory and territorial seas of the State,
-
-5 OJ No. L 127, 29.04.2004, p.92
 
 (fc) to engage with transmission system operators in order to—
 
@@ -140,13 +158,17 @@ Functions of Commission.
 
 (fd) to ensure that electricity and gas transmission system operators have one or more integrated systems at regional level covering 2 or more Member States for capacity allocation and for checking the security of the network,
 
-(fe) to request the opinion of the Agency on the compliance of a decision, taken by another regulatory authority on a cross border trade issue, with guidelines referred to in the Natural Gas Market Regulation, the Natural Gas Market Directive, the Electricity Market Regulation or the Electricity Market Directive,
+(fda) to ensure that transmission system operators make available interconnector capacities to the utmost extent pursuant to Article 16 of the 2019 Internal Electricity Market Regulation,
 
-(ff) where it considers that a decision relevant for cross-border trade taken by another regulatory authority does not comply with the guidelines referred to in paragraph (fe), to, if it considers it necessary, inform the European Commission within 2 months of the taking of the decision by that other regulatory authority,
+(fe) to request the opinion of the Agency on the compliance of a decision, taken by another regulatory authority on a cross border trade issue, with network codes and guidelines referred to in the Natural Gas Market Regulation, the Natural Gas Market Directive, the 2019 Internal Electricity Market Directive or the Electricity Market Directive,
+
+(ff) where it considers that a decision relevant for cross-border trade taken by another regulatory authority does not comply with the network codes or guidelines referred to in paragraph (fe), to, if it considers it necessary, inform the European Commission within 2 months of the taking of the decision by that other regulatory authority,
 
 (fg) where, following a request to the Agency by another regulatory authority in regard to a decision made by the Commission on a cross-border trade issue, the European Commission has requested the Commission to withdraw its decision, to comply with any such decision within a period of 2 months and to inform the European Commission accordingly,
 
 (g) to grant, monitor the performance of, modify, revoke and enforce licences and authorisations pursuant to this Act,
+
+5 OJ No. L 127, 29.04.2004, p.92
 
 (h) to publish information and advice and settle disputes in accordance with the provisions of this Act,
 
@@ -158,7 +180,13 @@ Functions of Commission.
 
 (ka) to act as the competent authority for the purposes of European Communities (Geological Storage of Carbon Dioxide) Regulations 2011 and 2014,
 
-(l) ensure compliance by electricity and gas undertakings, including transmission system operators, distribution system operators and system owners, with their obligations under the Natural Gas Market Directive, the Electricity Market Directive including as regards cross-border issues in accordance with their statutory functions,
+(l) to ensure compliance by electricity and gas undertakings, including transmission system operators, distribution system operators and system owners, and other market participants, with their obligations under the Natural Gas Market Directive, the 2019 Internal Electricity Market Directive, the 2019 Internal Electricity Market Regulation, the network codes and the guidelines adopted pursuant to Articles 59, 60 and 61 of the 2019 Internal Electricity Market Regulation, and other relevant law of the European Union, including as regards cross-border issues, as well as with decisions of the Agency, in accordance with their statutory functions,
+
+(la) in close cooperation with the other regulatory authorities, to ensure the compliance of the ENTSO for Electricity and the EU DSO entity with their obligations under the 2019 Internal Electricity Market Directive, the 2019 Internal Electricity Market Regulation, the network codes and guidelines adopted pursuant to Articles 59, 60 and 61 of the 2019 Internal Electricity Market Regulation, and other relevant law of the European Union, including as regards cross-border issues, as well as with the Agency’s decisions, and jointly identify any failure of the ENTSO for Electricity and the EU DSO entity to comply with their respective obligations,
+
+(lb) where the Commission has not been able to reach an agreement (with the other regulatory authorities), within a period of 4 months after the start of consultations, on the matter of whether a failure to comply, as referred to in paragraph (la), has occurred or as to the extent of any such failure, to refer, jointly with those other authorities, the matter to the Agency for a decision, pursuant to Article 6(10) of the 2019 ACER Regulation,
+
+(lc) to implement the network codes and guidelines adopted pursuant to Articles 59, 60 and 61 of the 2019 Internal Electricity Market Regulation through national measures or, where so required, coordinated regional or Union-wide measures,
 
 (m) to carry out investigations into the functioning of the electricity and gas markets,
 
@@ -170,9 +198,13 @@ Functions of Commission.
 
 (q) to have regard to the need to provide for flexibility in the trading of electricity to facilitate trading close to real time in order to better integrate renewable electricity and provide accurate price signals to the market,
 
-(r) to have regard to the use of energy storage technologies in participating in the balancing of electricity demand and supply, and
+(r) to have regard to the use of energy storage technologies in participating in the balancing of electricity demand and supply, ...
 
-(s) to have regard to the need to ensure that grid connection policy takes account of renewable energy policy, including any such policy in relation to community energy projects.
+(s) to have regard to the need to ensure that grid connection policy takes account of renewable energy policy, including any such policy in relation to community energy projects,
+
+(t) to approve products and procurement process for non-frequency ancillary services, and
+
+(u) to require any information from electricity undertakings relevant for the fulfilment of its tasks, including the justification for any refusal to grant third-party access, and any information on measures necessary to reinforce the network.
 
 (1A) For the purposes of this Act, the functions of the Commission under the Electricity Market Directive and under the Natural Gas Market Directive and any regulations made under either, shall be deemed to be functions of the Commission under this Act.
 
@@ -186,7 +218,7 @@ Functions of Commission.
 
 (d) the publication of appropriate information by transmission and distribution system operators concerning interconnectors, grid usage and capacity allocation to interested parties, taking into account the need to treat non-aggregated information as commercially confidential,
 
-(e) effective unbundling of accounts to ensure that there are no cross-subsidies between generation, transmission, distribution, storage, LNG and supply activities,
+(e) effective unbundling of accounts to ensure that there are no cross-subsidies between generation, transmission, distribution, storage, LNG and supply activities, or other electricity and non-electricity activities
 
 (f) conditions of access to storage facilities, linepack and to other ancillary services in relation to gas,
 
@@ -196,7 +228,7 @@ Functions of Commission.
 
 (i) the level of competition and transparency in respect of wholesale prices,
 
-(j) ensuring compliance of transmission and distribution system owners and operators with transparency obligations,
+(j) ...
 
 (k) ensuring compliance by transmission system operators with recommendations of the Commission in regard to amendment or modification of investment plans of transmission system operators,
 
@@ -206,7 +238,11 @@ Functions of Commission.
 
 (1BA) ...
 
-(1C) The Commission shall in its annual report, under paragraph 25(c) of the Schedule include details on the carrying out and fulfilment of its duties under Article 37 of the Electricity Market Directive, and Article 41 of the Natural Gas Market Directive and subsection (3) of section 9BA.
+(1BA) The Commission shall ensure compliance of electricity undertakings, including transmission and distribution system owners and operators, with transparency obligations.
+
+(1C) The Commission shall in its annual report, under paragraph 25(c) of the Schedule include details on the carrying out and fulfilment of its duties under Articles 59 and 60 of the 2019 Internal Electricity Market Directive, and Article 41 of the Natural Gas Market Directive and subsection (3) of section 9BA.
+
+(1CA) The Commission shall report annually on its activity and the fulfilment of its duties to the European Commission and the Agency, including on the steps taken and the results obtained as regards each of the tasks listed in Articles 59 and 60 of the 2019 Internal Electricity Market Directive.
 
 (1D)(a) Any dispute between a gas transmission, gas distribution, LNG or gas storage system operator and a person regarding—
 
@@ -224,7 +260,7 @@ Functions of Commission.
 
 (c) This subsection does not apply to a dispute between a final customer and a system operator where the dispute concerns a refusal to offer to enter into a third party access agreement within the meaning of section 10A or 10B of the Gas Act 1976.
 
-(1E) The Commission when carrying out its monitoring at paragraph (k) of subsection (1B) may make recommendations in its reporting obligations under section 9(1C) to amend or modify those investment plans to ensure consistency with the network development plan referred to in Article 8(3)(b) of the Electricity Market Regulation and Article 8(3)(b) of the Natural Gas Market Regulation.
+(1E) The Commission, when carrying out the monitoring of compliance referred to in paragraph (k) of subsection (1B), may formulate proposals, by way of recommendations to be included by it in its report referred to in subsection (1C), for the amendment or modification of investment plans referred to in that paragraph (k) so as to ensure their consistency with the Union wide network development plan referred to in Article 30(1)(b) of the 2019 Internal Electricity Market Regulation and Article 8(3)(b) of the Natural Gas Market Regulation.
 
 (1F) It shall be a function of the Commission to ensure that there is a high standard of protection for all final customers, including in their dealings with energy undertakings.
 
@@ -260,6 +296,8 @@ Functions of Commission.
 
 (b) Without prejudice to the generality of paragraph (a), the Commission may direct a natural gas undertaking or a LPG undertaking, as the case may be, to engage in, either on its own or in concert with any other natural gas undertaking or LPG undertaking (whether or not such other undertaking operates within the State), campaigns promoting natural gas safety or LPG safety, as the case may be, which campaigns shall take such form as the Commission may specify in its direction and each natural gas undertaking or LPG undertaking concerned shall comply with any such direction.
 
+(1I) The Commission may, if necessary, direct a transmission system operator or a distribution system operator to modify the terms and conditions, including tariffs or methodologies referred to in Article 59 of the 2019 Internal Electricity Market Directive, so as to ensure that they are proportionate and applied in a non-discriminatory manner, in accordance with Article 18 of the 2019 Internal Electricity Market Regulation.
+
 (2) Notwithstanding the generality of subsection (1) (a), a policy direction of the Minister shall include a direction that procedures of the Commission enable the implementation of orders made by the Minister under sections 39 and 40.
 
 (3) It shall be the duty of the Minister and the Commission to carry out their functions and exercise the powers conferred on them under this Act in a manner which—
@@ -270,7 +308,7 @@ Functions of Commission.
 
 (c) the Minister or the Commission, as the case may be, considers protects the interests of final customers of electricity or gas or both, as the case may be.
 
-(4)(a) In carrying out the duty imposed by subsection (3), statutory functions in Article 37 of the Electricity Market Directive and Article 41 of the Natural Gas Market Directive, the Minister and the Commission shall have regard to the need—
+(4)(a) In carrying out the duty imposed by subsection (3) and the functions specified in Article 59 of the 2019 Internal Electricity Market Directive and Article 41 of the Natural Gas Market Directive, the Minister and the Commission shall, in close consultation with the authorities specified in paragraph (aa) and without prejudice to their competence, have regard to the need—
 
 (i) to promote competition in the generation and supply of electricity and in the supply of natural gas in accordance with this Act,
 
@@ -284,31 +322,43 @@ Functions of Commission.
 
 (vi) to promote the use of renewable, sustainable or alternative forms of energy,
 
-(vii) to secure that there is sufficient capacity in the natural gas system to enable reasonable expectations of demand to be met, and
+(vii) to secure that there is sufficient capacity in the natural gas system to enable reasonable expectations of demand to be met, ...
 
-(viii) to secure the continuity, security and quality of supplies of natural gas.
+(viii) to secure the continuity, security and quality of supplies of natural gas, and
+
+(ix) to promote flexibility in the internal market for electricity within the Union.
+
+(aa) The authorities referred to in paragraph (a) are every other relevant authority in the State, including the Competition and Consumer Protection Commission, and, as regards Article 59 of the 2019 Internal Electricity Market Directive, including every authority, including regulatory authority, in neighbouring Member States and neighbouring third countries, as appropriate, together with the European Commission and the Agency.
 
 (b) In carrying out its duties under paragraph (a) of this subsection, the Commission shall also have regard to the following objectives:
 
-(i) to integrate large and small scale production of electricity and gas from renewable resources and distributed production in both transmission and distribution networks in the most cost effective way;
+(i) to integrate large and small scale production of electricity and gas from renewable resources and distributed production in both transmission and distribution networks in the most cost effective way and facilitating their operation in relation to other energy networks of gas or heat;
 
-(ii) to develop competitive and properly efficient and reliable functioning regional electricity and gas markets;
+(ii) to develop –
+
+(I) competitive and properly efficient and reliable functional regional cross border electricity markets, and
+
+(II) competitive and properly efficient and reliable functional regional gas markets;
 
 (iii) to eliminate restrictions on trade in electricity and gas between Member States, including developing appropriate cross-border transmission capacities to meet demand and enhancing the integration of national markets which may facilitate electricity and gas flows across the European Union;
 
 (iv) to promote system adequacy;
 
-(v) to facilitate access to the network for electricity generation and for gas production, in particular removing barriers that could prevent access for new market entrants and of electricity and gas from renewable energy sources;
+(v) to facilitate access to the network for new electricity generation capacity, energy storage facilities and for gas production, in particular removing barriers that could prevent access for new market entrants and of electricity and gas from renewable sources;
 
 (vi) in fixing and approving tariffs or methodologies and the balancing services, to ensure that system operators and system users are granted appropriate incentives, in both the short and long term to—
 
-(I) increase the efficiencies in system performance,
+(I) increase the efficiencies , and, in relation to electricity especially energy efficiency, in system performance,
 
 (II) to foster market integration,
 
 (III) to foster security of supply, and
 
-(IV) to support research activities.
+(IV) to support research activities;
+
+(vii) to ensure that customers benefit through the efficient functioning of the market in the State, promoting effective competition and helping to ensure a high level of consumer protection, and in relation to duties under the 2019 Internal Electricity Market Directive in close cooperation with the Competition and Consumer Protection Commission;
+
+(viii) to contribute to the compatibility of necessary data exchange processes for customer switching.
 
 (5) Without prejudice to subsections (3) and (4), it shall be the duty of the Commission:
 
