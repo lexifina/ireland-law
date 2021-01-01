@@ -62,6 +62,12 @@ Interpretation.
 
 “relevant Minister” shall be construed in accordance with section 9(8);
 
+‘relevant specified jurisdiction’ means—
+
+(a) a country that, as respects a class of person standing prescribed under section 14A(1) for the purposes of section 14(1)(aa), is specified in the regulations concerned under section 14A(1) prescribing that class, or
+
+(b) where a class of person stands prescribed under section 14A(3) for the purposes of section 14(1)(aa), Northern Ireland;
+
 “student” shall be construed in accordance with section 14(1);
 
 “transferring awarding authority” shall be construed in accordance with section 9(1);
