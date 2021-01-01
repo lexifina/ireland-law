@@ -1,4 +1,4 @@
-F64[ Right to apply to Council in relation to performance of functions under section 27A.
+F72[Right to apply to Council in relation to performance of functions under section 27A.
 
 42B.— (1) A person may apply to the Council for the cancellation of a decision made by a registration board in the performance of its functions under section 27A(2)(b) where that decision was a decision—
 

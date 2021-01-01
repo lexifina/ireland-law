@@ -1,4 +1,4 @@
-F56[Conditions attached to registration
+F62[Conditions attached to registration
 
 40A. (1) A person making an application for registration as a member of a designated profession shall declare in the application whether he or she has any relevant medical disability.
 

@@ -1,4 +1,4 @@
-F110[ Use of professional titles.
+F143[ Use of professional titles.
 
 91A.— Section 79(4) shall not apply to the use of a title referred to in section 79(1), (2) or (3) for a designated profession—
 
