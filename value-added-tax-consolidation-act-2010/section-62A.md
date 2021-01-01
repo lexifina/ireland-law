@@ -20,9 +20,7 @@ C is the percentage rate of tax chargeable in relation to the supply of the good
 
 D x C where—
 
-D is the consideration or part thereof (exclusive of value-added tax) paid during that period, and
-
-C is the percentage rate of tax chargeable in relation to the supply of the goods or services.
+D is the consideration or part thereof (exclusive of value-added tax) paid during that period, and C is the percentage rate of tax chargeable in relation to the supply of the goods or services.
 
 (4) Where, on or before the due date for submission of the return required under section 76 or 77 relating to the third taxable period after the initial period, an accountable person satisfies the Revenue Commissioners that there are reasonable grounds for not having paid the full consideration, or part thereof, to the supplier on or before the date referred to in subsection (1)(b), this section shall not apply.
 

@@ -2,7 +2,7 @@
 
 ## CHAPTER 1 Interpretation
 
-Definitions —
+Definitions —Part 2 .
 
 4.—(1) In this Act—
 

@@ -12,7 +12,9 @@ Number and Year Short Title Extent of Repeal
 
 No. 19 of 1973. Finance Act 1973. Part V (sections 76 to 90), in so far as it is unrepealed. Section 98(5). Tenth Schedule.
 
-No. 6 of 1975. Finance Act 1975. Part V (sections 50 to 53), in so far as it is unrepealed. Section 29(3). No. 19 of 1975. Finance (No. 2) Act Sections 2 and 4(3) and (4). 1975. Schedule.
+No. 6 of 1975. Finance Act 1975. Part V (sections 50 to 53), in so far as it is unrepealed. Section 29(3).
+
+No. 19 of 1975. Finance (No. 2) Act Sections 2 and 4(3) and (4). 1975. Schedule.
 
 No. 16 of 1976. Finance Act 1976. Part IV (sections 49 to 63), in so far as it is unrepealed. Section 83(5). Fifth Schedule, Part II.
 
@@ -44,7 +46,9 @@ No. 10 of 1989. Finance Act 1989. Part III (sections 53 to 63), in so far as it 
 
 No. 10 of 1990. Finance Act 1990. Part III (sections 97 to 107), in so far as it is unrepealed. Section 140(4) and (9).
 
-No. 13 of 1991. Finance Act 1991. Part III (sections 76 to 87), in so far as it is unrepealed. Section 132(4) and (9). No. 9 of 1992. Finance Act 1992. Part III (sections 164 to 198), in so far as it is unrepealed. Section 254(4) and (11).
+No. 13 of 1991. Finance Act 1991. Part III (sections 76 to 87), in so far as it is unrepealed. Section 132(4) and (9).
+
+No. 9 of 1992. Finance Act 1992. Part III (sections 164 to 198), in so far as it is unrepealed. Section 254(4) and (11).
 
 No. 13 of 1993. Finance Act 1993. Part III (sections 81 to 99), in so far as it is unrepealed. Section 143(4) and (9).
 
@@ -66,9 +70,7 @@ No. 7 of 2001. Finance Act 2001. Part 4 (sections 181 to 200), in so far as it i
 
 No. 5 of 2002. Finance Act 2002. Part 3 (sections 98 to 110), in so far as it is unrepealed. Section 141(4) and (9). Schedule 6, paragraphs 1 and 6(a).
 
-No. 3 of 2003. Finance Act 2003. Part 3 (sections 112 to 131), in so far as it is unrepealed. Section 171(4) and (10). Schedule 6, paragraphs 2 and 3(b).
-
-No. 8 of 2004. Finance Act 2004. Part 3 (sections 54 to 65), in so far as it is unrepealed. Section 94(4) and (9).
+No. 3 of 2003. Finance Act 2003. Part 3 (sections 112 to 131), in so far as it is unrepealed. Section 171(4) and (10). Schedule 6, paragraphs 2 and 3(b). No. 8 of 2004. Finance Act 2004. Part 3 (sections 54 to 65), in so far as it is unrepealed. Section 94(4) and (9).
 
 No. 5 of 2005. Finance Act 2005. Part 3 (sections 98 to 113), in so far as it is unrepealed. Section 150(4).
 
@@ -96,9 +98,7 @@ S.I. No. 307 of 1975. Imposition of Duties (No. 221) (Excise Duties) Paragraph 1
 
 S.I. No. 146 of 1978. Value-Added Tax (Reduction of Rate) (No. 4) The whole statutory Order 1978. instrument.
 
-S.I. No. 53 of 1981. Value-Added Tax (Reduction of Rate) (No. 5) The whole statutory Order 1981. instrument.
-
-S.I. No. 430 of 1985. Value-Added Tax (Exempted Activities) (No. 1) The whole statutory Order 1985. instrument.
+S.I. No. 53 of 1981. Value-Added Tax (Reduction of Rate) (No. 5) The whole statutory Order 1981. instrument. S.I. No. 430 of 1985. Value-Added Tax (Exempted Activities) (No. 1) The whole statutory Order 1985. instrument.
 
 S.I. No. 413 of 1992. European Communities (Value-Added Tax) The whole statutory Regulations 1992. instrument.
 
@@ -108,4 +108,6 @@ S.I. No. 448 of 1994. European Communities (Value-Added Tax) The whole statutory
 
 S.I. No. 316 of 1997. Value-Added Tax (Eligibility To Determine Tax The whole statutory Due By Reference To Moneys Received) Order instrument. 1997.
 
-S.I. No. 520 of 2009. European Communities (Value-Added Tax) The whole statutory Regulations 2009. instrument. S.I. No. 317 of 2010. European Communities (Value-Added Tax) The whole statutory Regulations 2010. instrument.
+S.I. No. 520 of 2009. European Communities (Value-Added Tax) The whole statutory Regulations 2009. instrument.
+
+S.I. No. 317 of 2010. European Communities (Value-Added Tax) The whole statutory Regulations 2010. instrument.

@@ -2,7 +2,7 @@
 
 ## CHAPTER 1 Taxable amount — principal provisions
 
-Definitions —
+Definitions —Chapter 1.
 
 36.— In this Chapter—
 

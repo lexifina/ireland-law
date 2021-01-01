@@ -14,7 +14,9 @@ Capital goods scheme.
 
 A — B where—
 
-A is the amount of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, and B is the total reviewed deductible amount in relation to that capital good.
+A is the amount of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, and
+
+B is the total reviewed deductible amount in relation to that capital good.
 
 (b) Where in accordance with paragraph (a)—
 
@@ -46,7 +48,9 @@ D is the interval deductible amount in relation to that capital good.
 
 C is the reference deduction amount in relation to that capital good,
 
-D is the interval deductible amount in relation to that capital good, and N is the number of full intervals remaining in the adjustment period at the end of that interval plus one.
+D is the interval deductible amount in relation to that capital good, and
+
+N is the number of full intervals remaining in the adjustment period at the end of that interval plus one.
 
 (b) Where in accordance with paragraph (a)—
 
@@ -82,9 +86,7 @@ D is the interval deductible amount in relation to that capital good, and N is t
 
 (6)(a)(i) Where—
 
-(I) a capital goods owner supplies a capital good or transfers a capital good, being a transfer to which section 20(2)(c) applies (other than a transfer to which subsection
-
-(10)(c) applies), during the adjustment period in relation to that capital good,
+(I) a capital goods owner supplies a capital good or transfers a capital good, being a transfer to which section 20(2)(c) applies (other than a transfer to which subsection (10)(c) applies), during the adjustment period in relation to that capital good,
 
 (II) tax is chargeable on that supply, or tax would have been chargeable on that transfer but for the application of section 20(2)(c), and
 
@@ -116,9 +118,7 @@ T is the total number of intervals in the adjustment period in relation to that 
 
 B × N T where—
 
-B is the total reviewed deductible amount in relation to that capital good or, in the case of a supply to which subparagraph (i)(III)(B) applies, the amount of the total tax incurred in relation to that capital good which that owner claimed as a deduction in accordance with Chapter 1,
-
-N is the number of full intervals remaining in the adjustment period in relation to that capital good at the time of supply plus one, and
+B is the total reviewed deductible amount in relation to that capital good or, in the case of a supply to which subparagraph (i)(III)(B) applies, the amount of the total tax incurred in relation to that capital good which that owner claimed as a deduction in accordance with Chapter 1, N is the number of full intervals remaining in the adjustment period in relation to that capital good at the time of supply plus one, and
 
 T is the total number of intervals in the adjustment period in relation to that capital good.
 
@@ -182,7 +182,9 @@ T is the total number of intervals in the adjustment period in relation to that 
 
 H × N T where—
 
-H is the total tax incurred in relation to that capital good for the capital goods owner making that supply or transfer, N is the number of full intervals remaining in the adjustment period in relation to that capital good plus one, and
+H is the total tax incurred in relation to that capital good for the capital goods owner making that supply or transfer,
+
+N is the number of full intervals remaining in the adjustment period in relation to that capital good plus one, and
 
 T is the total number of intervals in the adjustment period in relation to that capital good.
 
@@ -216,7 +218,9 @@ J is the amount of tax chargeable on the supply of that capital good, or the amo
 
 K — L where—
 
-K is the total tax incurred in relation to that capital good by the capital goods owner making that supply or transfer, and L is the amount of tax chargeable on the supply of that capital good, or the amount of tax that would have been chargeable on the transfer of that capital good but for the application of section 20(2)(c), or the amount of tax that would have been chargeable on the supply but for the application of section 56.
+K is the total tax incurred in relation to that capital good by the capital goods owner making that supply or transfer, and
+
+L is the amount of tax chargeable on the supply of that capital good, or the amount of tax that would have been chargeable on the transfer of that capital good but for the application of section 20(2)(c), or the amount of tax that would have been chargeable on the supply but for the application of section 56.
 
 (9)(a) In this subsection—
 
@@ -350,9 +354,7 @@ G is the amount of that tax that would have been deductible in accordance with C
 
 (f) Where an amount of tax is payable in respect of an interval in accordance with subsection (2)(b)(i), (3)(b)(i) or (4)(b)(i), and where the start date or the end date or both occur during that interval, the amount of that tax that shall be payable by the mortgagee or the receiver shall be calculated in accordance with the following formula—
 
-J x K L where—
-
-J is the amount of the tax payable in accordance with subsection (2)(b)(i), (3)(b)(i) or (4)(b)(i),
+J x K L where— J is the amount of the tax payable in accordance with subsection (2)(b)(i), (3)(b)(i) or (4)(b)(i),
 
 K is the number of days during the interval in which the mortgagee has possession or the receiver has been appointed,
 

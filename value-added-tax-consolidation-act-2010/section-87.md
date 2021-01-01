@@ -92,11 +92,11 @@ Margin scheme — taxable dealers.
 
 (b) Notwithstanding subsection (3) but subject to and in accordance with regulations (if any)—
 
-(i) where a taxable dealer acquires low value margin scheme goods in job lots or otherwise, the amount of tax due and payable in respect of the dealer’s supplies of low value margin scheme goods shall, in respect of a taxable period, be the amount of tax included in that dealer’s aggregate margin, or margins, for that period and the amount of tax in each aggregate margin shall be determined by the formula— B A × B + 100 where—
+(i) where a taxable dealer acquires low value margin scheme goods in job lots or otherwise, the amount of tax due and payable in respect of the dealer’s supplies of low value margin scheme goods shall, in respect of a taxable period, be the amount of tax included in that dealer’s aggregate margin, or margins, for that period and the amount of tax in each aggregate margin shall be determined by the formula—
 
-A is the aggregate margin for the taxable period in question, and
+B A × B + 100 where—
 
-B is the percentage rate of tax chargeable in relation to the supply of those goods, and
+A is the aggregate margin for the taxable period in question, and B is the percentage rate of tax chargeable in relation to the supply of those goods, and
 
 (ii) where the taxable dealer referred to in subparagraph (i) makes supplies in any taxable period which are subject to different rates of tax, that taxable dealer shall calculate separate aggregate margins for that taxable period in respect of the supplies at each of the relevant rates.
 
