@@ -14,11 +14,7 @@ Definitions — Schedule 3.
 
 “food and drink table” means Table 1 to paragraph 8(1) of Schedule 2;
 
-“in the course of catering” means—
-
-(a) in the course of operating a hotel, restaurant, cafe, refreshment house, canteen, establishment licensed for the sale for consumption on the premises of intoxicating liquor, catering business or similar business, or
-
-(b) in the course of operating any other business in connection with the carrying on of which facilities are provided for the consumption of the food or drink supplied;
+...
 
 “margin scheme supply” means a supply—
 
@@ -46,21 +42,15 @@ This Part sets out supplies of goods and services as provided by Article 98 and 
 
 Food and drink for human consumption.
 
-3. (1) The provision of food and drink in a form suitable for human consumption without further preparation—
+3. ((1) The supply of restaurant or catering services, excluding—
 
-(a) by means of a vending machine, or
+(a) a supply to which paragraph 5(1) of Schedule 1 relates,
 
-(b) in the course of catering, being food and drink that fall within Part B of the food and drink table or that, apart from this subparagraph, would be chargeable to tax at the rate specified in section 46(1)(b).
+(b) the supply of food and drink that falls within Part A of the food and drink table, and
 
-(2) The supply in the course of catering of—
+(c) the supply of food and drink that falls within column (1) of Part E of the food and drink table, but not including juices extracted from fruit.
 
-(a) food and drink that fall within—
-
-(i) Part C or D of the food and drink table, or
-
-(ii) column (1) of Part F of the food and drink table, or
-
-(b) fruit juices other than fruit juices chargeable with a duty of excise, when that food and drink or juices are supplied in the course of a meal.
+(2) ...
 
 (3) The supply of food and drink that consists of or includes food and drink—
 
@@ -97,6 +87,8 @@ Live animals, animal feeding stuffs.
 Pharmaceutical products.
 
 5. Non-oral contraceptive products.
+
+5A. Menstrual cups, menstrual pants and menstrual sponges.
 
 Certain safety equipment.
 
@@ -136,15 +128,7 @@ Shows, exhibitions, cultural facilities, etc.
 
 (b) performances of the kind specified in paragraph 5(2) of Schedule 1.
 
-(3) Amusement services of the kind normally supplied in fairgrounds or amusement parks, but excluding—
-
-(a) services consisting of dances,
-
-(b) services consisting of circuses,
-
-(c) services consisting of gaming, as defined in section 2 of the Gaming and Lotteries Act 1956 (including services provided by means of a gaming machine of the kind referred to in section 43 of the Finance Act 1975), or
-
-(d) services provided by means of an amusement machine of the kind referred to in section 120 of the Finance Act 1992.
+(3) Admission to fairgrounds or amusement parks, but excluding any part of the fee for such admission which relates to goods or services other than such admission.
 
 (4) Admission to—
 
@@ -180,17 +164,21 @@ Agricultural goods and services.
 
 Hotel, holiday accommodation.
 
-11. Subject to regulations (if any)—
+11. Subject to regulations, if any—
 
-(a) letting immovable goods (other than in the course of the provision of facilities of the kind specified in subparagraph (1) or (1A) of paragraph 12), where those goods consist of—
+(a) letting immovable goods (other than in the course of the provision of facilities of a kind specified in paragraph 12), where those goods consist of a room in a hotel or guesthouse, or
 
-(i) a room or rooms in a hotel or guesthouse,
+(b) the provision of holiday or guest accommodation in—
 
-(ii) all or part of a house, apartment or other similar establishment that is let on a short-term basis for guest accommodation, or
+(i) a hotel,
 
-(iii) a part of a caravan park, camping site or other similar establishment, or
+(ii) a guesthouse,
 
-(b) the provision of holiday accommodation.
+(iii) all or part of a house,
+
+(iv) all or part of an apartment, or
+
+(v) another establishment, including the letting of a place in a caravan park or camping site.
 
 Sporting facilities.
 
@@ -266,9 +254,7 @@ Non-residential immovable goods.
 
 (2) Services consisting of the development of immovable goods (not being goods referred to in paragraph 9(1)) and work on those goods (including the installation of fixtures), where the value of any movable goods supplied under an agreement relating to the services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
 
-(3) Services consisting of the routine cleaning of immovable goods (not being immovable goods referred to in paragraph 9(2)).
-
-Concrete works.
+(3) Services consisting of the routine cleaning of immovable goods (not being immovable goods referred to in paragraph 9(2)). Concrete works.
 
 16. (1) The supply of concrete that is ready to pour, but excluding the margin scheme supply of the concrete.
 
@@ -298,25 +284,25 @@ Photographic and related supplies.
 
 (2) The supply of goods being—
 
-(a)photographic prints (other than goods produced by means of a photocopying process) mounted or unmounted, but unframed,
+(a) photographic prints (other than goods produced by means of a photocopying process) mounted or unmounted, but unframed,
 
-(b)slides and negatives, and
+(b) slides and negatives, and
 
-(c)cinematographic and video film, that record particular persons, objects or events, supplied under an agreement to photograph those persons, objects or events.
+(c) cinematographic and video film, that record particular persons, objects or events, supplied under an agreement to photograph those persons, objects or events.
 
 (3) The supply by a photographer of—
 
-(a)negatives that have been produced from film exposed for the purpose of the photographer’s business, and
+(a) negatives that have been produced from film exposed for the purpose of the photographer’s business, and
 
-(b)film that has been exposed for the purposes of the photographer’s business.
+(b) film that has been exposed for the purposes of the photographer’s business.
 
 (4) The supply of photographic prints produced by means of a vending machine which incorporates a camera and developing and printing equipment.
 
 (5) Services consisting of—
 
-(a)editing photographic, cinematographic and video film, or
+(a) editing photographic, cinematographic and video film, or
 
-(b)microfilming.
+(b) microfilming.
 
 (6) Agency services relating to a supply specified in subparagraph (1).
 
@@ -324,13 +310,13 @@ Hiring for short periods.
 
 19. Hiring—
 
-(a)a vehicle designed and constructed, or adapted, for the conveyance of persons by road,
+(a) a vehicle designed and constructed, or adapted, for the conveyance of persons by road,
 
-(b)a vessel designed and constructed for the conveyance of passengers and not exceeding 15 tonnes gross,
+(b) a vessel designed and constructed for the conveyance of passengers and not exceeding 15 tonnes gross,
 
-(c)any kind of sports or pleasure boat, or
+(c) any kind of sports or pleasure boat, or
 
-(d)a caravan, mobile home, tent or trailer tent, to a person under an agreement (other than an agreement of the kind referred to in section 19(1)(c)) for any term or part of a term that, when added to the term of a previous hiring (whether of the same goods or of other goods of the same kind) to the same person during the 12 months ending on the date of the beginning of the existing hiring, does not exceed 5 weeks.
+(d) a caravan, mobile home, tent or trailer tent, to a person under an agreement (other than an agreement of the kind referred to in section 19(1)(c)) for any term or part of a term that, when added to the term of a previous hiring (whether of the same goods or of other goods of the same kind) to the same person during the 12 months ending on the date of the beginning of the existing hiring, does not exceed 5 weeks.
 
 Certain repair and related services.
 
