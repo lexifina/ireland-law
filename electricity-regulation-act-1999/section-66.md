@@ -6,6 +6,12 @@ Powers of Commission.
 
 1. The Commission shall consist of at least one but not more than three members, each of whom shall be appointed by the Minister on such terms and conditions of appointment, including remuneration, as the Minister, following consultation with the Minister for the Environment, Community and Local Government may fix, with the consent of the Minister for Finance, to hold office in a full-time capacity for a period of not less than five and not more than seven years.
 
+1A. The members of the Commission shall be appointed –
+
+(a) by means of an independent and impartial procedure, and
+
+(b) on the basis of objective, transparent and published criteria, which ensure that candidates for appointment to membership of the Commission have the necessary skill and experience for such membership.
+
 2. Where there is more than one member of the Commission, the Minister shall appoint one of them to be chairperson of the Commission on such terms and conditions of appointment, including remuneration, as the Minister may fix, with the consent of the Minister for Finance ....
 
 2A. Where the chairperson appointed pursuant to paragraph 2 is not available to perform his or her duties, the Minister may appoint another member of the Commission to be the acting chairperson of the Commission for a specified period not exceeding 6 months, and a person so appointed shall perform the duties and functions of the chairperson.
@@ -22,7 +28,7 @@ Powers of Commission.
 
 (a) at any time resign his or her office by letter addressed to the Minister and the resignation shall take effect from the date of receipt of the letter, and
 
-(b) be removed from office by the Minister if, in his or her opinion, the member has become incapable through ill-health of effectively performing his or her duties or for stated misbehaviour and the Minister shall cause to be laid before each House of the Oireachtas a statement of the reasons for such removal.
+(b) be removed from office by the Minister, if in his or her opinion the member has become incapable through ill-health of effectively performing his or her duties, or for stated misbehaviour, being misbehaviour that is established by reference to transparent criteria that have been put in place prior to the act or default concerned, and in case a member is removed from office under this paragraph, the Minister shall cause to be laid before each House of the Oireachtas a statement of the reasons for the removal.
 
 6. The Commission may act notwithstanding a vacancy or vacancies in its membership.
 

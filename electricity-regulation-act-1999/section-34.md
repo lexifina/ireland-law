@@ -6,6 +6,8 @@ Terms for connection to and use of transmission or distribution system.
 
 (1B) An offer under subsection (1), made for the purpose of connecting a generating station to the distribution system, may, on request of the applicant, be on the basis that the applicant constructs, or that either or both the applicant and the distribution system operator arranges to have constructed, the connection to the distribution system, and any such connection constructed or arranged to be constructed by the applicant shall be the property of the person with whom the agreement is made, and shall, for the purposes of section 37(4), be deemed to be a direct line.
 
+(1C) The Commission shall publish directions that are given by it to the Board under this section.
+
 (2) Without prejudice to the generality of subsection (1), directions given by the Commission under this section may provide for:
 
 (a) the matters to be specified in an agreement for connection to and use of the transmission or distribution system;
@@ -19,6 +21,8 @@ Terms for connection to and use of transmission or distribution system.
 (e) the terms and conditions upon which applications for an agreement are to be made and the period of time within which an offer or refusal pursuant to an application is to be made by the Board; and
 
 (f) any other matters which the Commission considers necessary or expedient for the purpose of making an offer for connection to or use of the transmission or distribution system, and the Board shall comply with directions given by the Commission under this section within such time period as may be specified by the Commission.
+
+(2A) In a case where the Agency is competent to fix and approve the terms and conditions or methodologies for the implementation of network codes and guidelines under Chapter VII of the 2019 Internal Electricity Market Regulation pursuant to Article 5(2) of the 2019 ACER Regulation because of their coordinated nature, then subsection (1), in so far as it provides for the giving of directions by the Commission to the Board, and subsection (2) shall not apply and, in such a case, the terms and conditions to be specified in the agreement referred to in subsection (1) shall be those fixed and approved by the Agency.
 
 (3) An offer made under subsection (1) to a person who is not the holder of a licence under section 14 or an authorisation under section 16 or an eligible customer shall be subject to the grant of a licence or authorisation to that person or to that person becoming an eligible customer.
 
@@ -40,9 +44,13 @@ Terms for connection to and use of transmission or distribution system.
 
 (5) Where the Board refuses to offer to enter into an agreement under this section the Board shall serve notice on the applicant of the reasons for such refusal.
 
-(6)(a) Any dispute between the transmission system operator or the distribution system operator and any person who is, or claims to be, a person to whom the transmission system operator or the distribution system operator, as the case may be, is obliged to make an offer for connection to and use of the transmission system or distribution system, as the case may be, whether as to the terms and conditions (including proposed charges) or otherwise, shall, upon the application of such person, be determined by the Commission, and the Commission shall issue a direction regarding its determination and the transmission system operator or the distribution system operator, as the case may be shall comply with and be bound by any such direction.
+(6)(a) Any dispute between the transmission system operator or the distribution system operator and any person who is, or claims to be, a person to whom the transmission system operator or the distribution system operator, as the case may be, is obliged –
 
-(b) Any dispute between a transmission system operator or a distribution system operator in regard to duties under the Electricity Market Directive and a person as respects matters specified in section 9(1B) in relation to electricity shall, upon the application of such person, be determined by the Commission, and the Commission shall issue a direction regarding its determination and such direction shall be binding on all parties concerned.
+(i) to make an offer for connection to and use of the transmission system or distribution system, or
+
+(ii) to consult with regarding proposed charges in accordance with section 36(2), as the case may be, whether as to the terms and conditions (including proposed charges) or otherwise, shall, upon the application of such person, be determined by the Commission, and the Commission shall issue a direction regarding its determination and the transmission system operator or the distribution system operator, as the case may be shall comply with and be bound by any such direction.
+
+(b) Any dispute between a transmission system operator or a distribution system operator in regard to duties under the 2019 Internal Electricity Market Directive and a person as respects matters specified in section 9(1B) in relation to electricity shall, upon the application of such person, be determined by the Commission, and the Commission shall issue a direction regarding its determination and such direction shall be binding on all parties concerned.
 
 (c)(i) The Commission shall issue the determination referred to in paragraphs (a) and (b) within 2 months from the date of the receipt of the complaint.
 

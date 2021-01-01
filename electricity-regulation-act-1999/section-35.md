@@ -27,3 +27,9 @@ Charges for connection to and use of transmission or distribution system.
 (b) a reasonable rate of return on the capital represented by such costs.
 
 (5) The Commission, solely, will determine what constitutes an “appropriate proportion” referred to in subsection (4)(a) and a “reasonable rate of return” referred to in subsection (4)(b).
+
+(6) Subsections (1) to (5) shall not apply in a case where the Agency is competent to fix and approve the terms and conditions or methodologies for the implementation of network codes and guidelines under Chapter VII of the 2019 Internal Electricity Market Regulation pursuant to Article 5(2) of the 2019 ACER Regulation because of their coordinated nature.
+
+(7) The Commission shall publish the statement referred to in subsection (1).
+
+(8) With a view to increasing transparency in the market and providing all interested parties with all necessary information and decisions or proposals for decisions concerning transmission and distribution tariffs, as referred in Article 60(3) of the 2019 Internal Electricity Market Directive, the Commission shall make publicly available the detailed methodology and underlying costs used for the calculation of the relevant network tariffs, while preserving the confidentiality of commercially sensitive information.

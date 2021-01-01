@@ -26,19 +26,25 @@ SINGLE ELECTRICITY MARKET COMMITTEE
 
 5. (a) Subject to this Schedule, the members shall hold and vacate office in accordance with the terms of their appointment.
 
-(b) Those terms of appointment shall be determined by the Minister with the approval of the Minister for Finance and the Department.
+(b) Those terms of appointment shall be determined by the Minister with the approval of the Minister for Finance and the Department and those terms shall include a term that an appointee is not to disclose information which is subject to a duty of confidentiality either while holding office or after holding office.
+
+(c) The members of the SEM Committee shall be appointed –
+
+(i) by means of an independent and impartial procedure, and
+
+(ii) on the basis of objective, transparent and published criteria, which ensure that candidates for appointment to membership of the SEM Committee have the necessary skill and experience for such membership.
 
 6. A person shall not be appointed as a member for a term exceeding 5 years.
 
 7. A person holding office as a member may resign that office by giving notice in writing to the Minister and the Department.
 
-8. A person holding office as an independent member may be removed from office by the Minister with the approval of the Department on the grounds of incapacity or misbehaviour.
+8. A person holding office as an independent member may be removed from office by the Minister with the approval of the Department on the grounds of incapacity or misbehaviour , being incapacity or misbehaviour that is established by reference to transparent criteria that have been put in place prior to the incapacity coming to the Minister’s notice or the act or default concerned, as the case may be.
 
 9. A person holding office as a member under paragraph 1(a)—
 
 (a) may be removed from office by the Minister—
 
-(i) on the grounds of incapacity or misbehaviour, or
+(i) on the grounds of incapacity or misbehaviour , being incapacity or misbehaviour that is established by reference to transparent criteria that have been put in place prior to the incapacity coming to the Minister’s notice or the act or default concerned, as the case may be, or
 
 (ii) at the request of the Commission,
 
@@ -48,7 +54,7 @@ SINGLE ELECTRICITY MARKET COMMITTEE
 
 (a) may be removed from office by the Minister with the approval of the Department—
 
-(i) on the grounds of incapacity or misbehaviour, or
+(i) on the grounds of incapacity or misbehaviour , being incapacity or misbehaviour that is established by reference to transparent criteria that have been put in place prior to the incapacity coming to the Minister’s notice or the act or default concerned, as the case may be, or
 
 (ii) at the request of the Authority,
 

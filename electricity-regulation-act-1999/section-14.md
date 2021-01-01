@@ -64,11 +64,11 @@ Licences to generate and supply electricity.
 
 (2I) The data referred to in subsection (2H) shall include details on the characteristics of relevant transactions such as duration, delivery and settlement rules, the quantity, the dates and times of execution and the transaction prices and means of identifying the wholesale customer concerned, as well as specified details of all unsettled electricity supply contracts and electricity derivatives.
 
-(2J) The Commission may decide to make available to market participants elements of this information provided that commercially sensitive information on individual market players or individual transactions is not released. This subsection shall not apply to information about financial instruments which fall within the scope of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004.
+(2J) The Commission may decide to make available to market participants elements of this information provided that commercially sensitive information on individual market players or individual transactions is not released. This subsection shall not apply to information about financial instruments which fall within the scope of Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014.
 
-(2K) The obligations on undertakings under subsection (2H) with respect to transactions by them in electricity derivatives with wholesale customers and transmission system operators shall not apply until the European Commission has adopted Guidelines, referred to in Article 40 of the Electricity Market Directive, defining the methods and arrangements for record keeping as well as the form and content of the data to be kept by undertakings.
+(2K) ...
 
-(2L) In the event that the authorities referred to in subsection (2H) require access to data kept by entities falling within the scope of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004, the authorities responsible under that Directive shall provide them with the required data.
+(2L) In the event that the authorities referred to in subsection (2H) require access to data kept by entities falling within the scope of Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014, the authorities responsible under that Directive shall provide them with the required data.
 
 (2M) (a) The Commission may, in carrying out its function under section 9(1F), in a licence under subsection (1)(b), specify such standards of performance and quality in connection with the supply of electricity to final customers as the Commission determines ought to be achieved.
 
