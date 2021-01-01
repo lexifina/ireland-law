@@ -1,0 +1,3 @@
+Power to specify form of documents.
+
+100. ...
