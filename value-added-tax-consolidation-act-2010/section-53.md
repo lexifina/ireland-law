@@ -14,4 +14,4 @@ Imports — general provisions.
 
 (b) provides evidence, if so requested by the Revenue Commissioners, that the imported goods are to be transported or dispatched from the State to another Member State.
 
-(3) Subject to subsection (1) and section 54, the Customs Acts shall apply to tax referred to in this section or section 54 or 120(7)(b) or (c) as if it were a duty of customs, with such exceptions and modifications (if any) as may be specified in regulations.
+(3) Subject to subsection (1) and sections 53A and 54, the Customs Acts shall apply to tax referred to in this section or section 54 or 120(7)(b) or (c) as if it were a duty of customs, with such exceptions and modifications (if any) as may be specified in regulations.

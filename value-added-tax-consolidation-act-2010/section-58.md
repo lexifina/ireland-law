@@ -2,7 +2,7 @@ Retail export scheme.
 
 58.—(1) In this section—
 
-“traveller” means a person whose domicile or habitual residence is not situated within the Community and includes a person who is normally resident in the Community but who, at the time of the supply of the goods, intends to take up residence outside the Community in the near future and for a period of at least 12 consecutive months;
+‘traveller’ means a person whose domicile or habitual residence is not situated within the Community;
 
 “traveller’s qualifying goods” means goods (other than goods transported by the traveller for the equipping, fuelling and provisioning of pleasure boats, private aircraft or other means of transport for private use) which are supplied within the State to a traveller and which are exported by or on behalf of that traveller by the last day of the 3rd month following the month in which the supply takes place;
 
@@ -10,7 +10,7 @@ Retail export scheme.
 
 (2) The Revenue Commissioners shall, subject to and in accordance with regulations (if any), allow the application of section 46(1)(b) (in this section referred to as “zero-rating”) to—
 
-(a) the supply of a traveller’s qualifying goods, and
+(a) the supply of a traveller’s qualifying goods, where the total value of that supply of goods, including tax, is more than €75, and
 
 (b) the supply of services by a VAT refunding agent consisting of the service of repaying the tax claimed by a traveller in relation to the supply of a traveller’s qualifying goods or the procurement of the zero-rating of the supply of a traveller’s qualifying goods, where they are satisfied that the supplier of the goods or services, as the case may be—
 
@@ -19,6 +19,12 @@ Retail export scheme.
 (ii) has proof that the goods were exported by or on behalf of the traveller by the last day of the 3rd month following the month in which the supply takes place,
 
 (iii) has proof that, where an amount of tax has been charged to the traveller in respect of a supply of goods covered by paragraph (ii), that the amount to be repaid to the traveller has been repaid to that traveller no later than the 25th working day following receipt by the supplier of the traveller’s claim to repayment,
+
+(iiia) has, in respect of a traveller whose domicile or habitual residence is in the United Kingdom, proof that—
+
+(I) the goods have been imported into the United Kingdom by or on behalf of the traveller, and
+
+(II) value-added tax and duties of customs and excise, chargeable by virtue of the law of the United Kingdom, have been paid on the importation of those goods,
 
 (iv) notifies the traveller in writing of any amount (including the mark-up) charged by the supplier for procuring the repayment of the amount claimed or arranging for the zero-rating of the supply and where an amount so notified is expressed in terms of a percentage or a fraction, such percentage or fraction shall relate to the tax remitted or repayable under this subsection,
 
