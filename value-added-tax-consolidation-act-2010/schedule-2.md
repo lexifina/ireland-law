@@ -60,6 +60,12 @@ Services relating to vessels and aircraft.
 
 (b) aircraft used or to be used by a transport undertaking operating for reward chiefly on international routes.
 
+(2A) The supply of services, other than those referred to in subparagraph (2), to meet the direct needs of—
+
+(a) sea-going vessels to which subparagraph (2)(a) relates or their cargoes, or
+
+(b) aircraft to which subparagraph (2)(b) relates or their cargoes.
+
 (3) Subject to regulations (if any), the supply, hiring, repair and maintenance of equipment incorporated or for use in sea-going vessels to which subparagraph (2)(a) relates.
 
 (4) The supply, repair, maintenance and hiring of equipment incorporated or used in aircraft to which subparagraph (2)(b) relates.
@@ -77,6 +83,8 @@ Certain transactions treated as exports.
 (b) the bodies set up by either or both the Union and the Community to which the Protocol of 8 April 1965 on the privileges and immunities of the European Communities applies, within the limits and under the conditions of that Protocol and the agreements for its implementation or the agreements between the headquarters of those bodies and the host Member State of the headquarters, in so far as it does not lead to distortion of competition.
 
 (1A) The supply of goods and services to international bodies, other than those referred to in subparagraph (1), recognised as such by the host Member State, and to members of such bodies, within the limits and under the conditions laid down by the international conventions establishing the bodies or by the agreements between the headquarters of those bodies and the host Member State of the headquarters.
+
+(1B) The supply of goods or services to a Member State other than the State, where those goods or services are intended for the armed forces of any state which is party to the North Atlantic Treaty, other than the Member State of destination of the goods or services, as the case may be, for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens, when such forces take part in the common defence effort of the parties to the North Atlantic Treaty.
 
 (2) The supply of gold to the Central Bank of Ireland.
 
@@ -98,7 +106,11 @@ Services by intermediaries.
 
 (c) services of the kind referred to in paragraph 4(1) (Provision of docking, landing, loading or unloading facilities);
 
-(d) services of the kind referred to in paragraph 4(2) (Supply, hiring, repair, maintenance, etc. of sea-going vessels or aircraft);
+(d) services of the kind referred to in—
+
+(i) paragraph 4(2) (Supply, hiring, repair, maintenance, etc. of sea-going vessels or aircraft), or
+
+(ii) paragraph 4(2A) (To meet the direct needs of sea-going vessels or aircraft, or of their cargoes);
 
 (da) services of the kind referred to in paragraph 4(3) (Supply, hiring, repair, maintenance, etc. of equipment incorporated or for use in sea-going vessels to which paragraph 4(2)(a) relates);
 
@@ -140,11 +152,13 @@ Food and drink.
 
 8. (1) A supply of food and drink of a kind used for human consumption, other than—
 
-(a) a supply to which paragraph 3(3) of Schedule 3 relates,
+(a) a supply to which paragraph 3(1) or (3) of Schedule 3 relates,
 
-(b) supplies specified in Part A, B, C or D of Table 1 to this paragraph, and
+(b) supplies specified in Part A, B, C or D of Table 1 to this paragraph,
 
-(c) supplies specified in column (1) of Part E or F of that table.
+(c) supplies specified in column (1) of Part E or F of that table, and
+
+(d) a supply to which paragraph 5(1) of Schedule 1 relates.
 
 Table 1
 
@@ -247,6 +261,18 @@ Medicine, medical equipment and appliances.
 (c) walking frames and crutches,
 
 (d) parts or accessories suitable for use solely or principally with any of the goods specified in clauses (a), (b) and (c).
+
+(4) (a) The supply of personal protection equipment, thermometers, hand sanitiser, oxygen, medical ventilators and specialist respiratory equipment including respirators for intensive and sub-intensive care and other oxygen therapy apparatus including oxygen tents, when supplied—
+
+(i) to—
+
+(I) the Health Service Executive, for use in the delivery of Covid-19 related health care services, and
+
+(II) hospitals, general practitioners, nursing homes and residential care facilities, for use in the delivery of Covid-19 related health care services to their patients or residents, as the case may be, and
+
+(ii) subject to such order as may be made under section 46(5), during the period beginning on 9 April 2020 and ending on 30 April 2021.
+
+(b) In this subparagraph, ‘Covid-19’ has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020 .
 
 Fertilisers, feeding stuffs, certain seeds, etc.
 
