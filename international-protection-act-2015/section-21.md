@@ -1,12 +1,16 @@
 Inadmissible application
 
-21. (1) A person may not make an application for international protection where the application is, under subsection (2), inadmissible.
+21. (1) Subject to subsection (1A), a person may not make an application for international protection where the application is, under subsection (2), inadmissible.
+
+(1A) Subsection (1) shall not apply to a person who is deemed under section 50A(4) or 51C(5), as the case may be, to have made an application for international protection in accordance with section 15.
 
 (2) An application for international protection is inadmissible where one or more than one of the following circumstances applies in relation to the person who is the subject of the application:
 
 (a) another Member State has granted refugee status or subsidiary protection status to the person;
 
-(b) a country other than a Member State is, in accordance with subsection (15), a first country of asylum for the person.
+(b) a country other than a Member State is, in accordance with subsection (15), a first country of asylum for person;
+
+(c) the person arrived in the State from a safe third country that is, in accordance with subsection (17), a safe country for the person.
 
 (3) Where an international protection officer is of the opinion that an application for international protection is inadmissible, he or she shall recommend to the Minister that the application be determined to be inadmissible.
 
@@ -81,3 +85,21 @@ Inadmissible application
 (b) will be re-admitted to that country.
 
 (16) In this section, “refugee status” and “subsidiary protection status” shall be construed in accordance with Article 2 of Council Directive 2004/83/EC.
+
+(17) For the purposes of this section, a safe third country is a safe country for a person if he or she—
+
+(a) having regard to the matters referred to in subsection (18), has a sufficient connection with the country concerned on the basis of which it is reasonable for him or her to return there,
+
+(b) will not be subjected in the country concerned to the death penalty, torture or other inhuman or degrading treatment or punishment, and
+
+(c) will be re-admitted to the country concerned.
+
+(18) For the purposes of subsection (17)(a), the matters to which regard shall be had include (but are not limited to) the following:
+
+(a) the period the person concerned has spent, whether lawfully or unlawfully, in the country concerned;
+
+(b) any relationship between the person concerned and persons in the country concerned, including nationals and residents of that country and family members seeking to be recognised in that country as refugees;
+
+(c) the presence in the country concerned of any family members, relatives or other family relations of the person concerned;
+
+(d) the nature and extent of any cultural connections between the person concerned and the country concerned.

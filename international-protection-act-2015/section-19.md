@@ -2,7 +2,7 @@ Taking of fingerprints
 
 19. (1) Subject to subsection (2), a member of the Garda Síochána, or an immigration officer may—
 
-(a) for the purpose of establishing the identity of a person for any purpose of this Act, take or cause to be taken the fingerprints of an applicant, or
+(a) for the purpose of establishing the identity of a person for any purpose of this Act, take or cause to be taken the fingerprints of an applicant,
 
 (b) for the purpose of checking whether the person has previously lodged an application for international protection in another Member State, take or cause to be taken the fingerprints of a person who—
 
@@ -10,7 +10,9 @@ Taking of fingerprints
 
 (ii) has attained the age of 14 years, and
 
-(iii) not having permission, under any enactment or rule of law, to be present or remain in the State, has been found in the State.
+(iii) not having permission, under any enactment or rule of law, to be present or remain in the State, has been found in the State, or
+
+(c) for the purpose of establishing whether the circumstances referred to in section 21(2)(b) or (c) apply in relation to the person, take or cause to be taken the fingerprints of a person who is the subject of an application for international protection.
 
 (2) Fingerprints shall not be taken under this section from a person who has not attained the age of 14 years, other than in the presence of—
 

@@ -124,7 +124,11 @@ Regulation;
 
 “Regulations of 2013” means the European Union (Subsidiary Protection) Regulations 2013 (S.I. No. 426 of 2013);
 
+‘return order’ has the meaning assigned to it by section 51A;
+
 “safe country of origin” means a country that has been designated under section 72 as a safe country of origin;
+
+‘safe third country’ means a country that has been designated under section 72A as a safe third country;
 
 “serious harm” means—
 
