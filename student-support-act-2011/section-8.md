@@ -32,13 +32,19 @@ Approved course.
 
 (k) whether the course leads to a qualification that is recognised—
 
-(i) in the case of a qualification awarded following the successful completion of a course at an institution other than an institution mentioned at section 7(1)(e), pursuant to arrangements, procedures and systems that constitute for the time being the framework of qualifications established and maintained pursuant to section 7 of the Qualifications (Education and Training) Act 1999,
+(i) in the case of a qualification awarded following the successful completion of a course at an institution other than an institution mentioned at section 7(1)(e) or (g), pursuant to arrangements, procedures and systems that constitute for the time being the framework of qualifications established and maintained pursuant to section 7 of the Qualifications (Education and Training) Act 1999,
 
-(ii) in the case of a qualification awarded following the successful completion of a course at an institution mentioned at section 7(1)(e)—
+(ii) in the case of a qualification awarded following the successful completion of a course at an institution mentioned at section 7(1)(e) or (g)—
 
 (I) if such recognition is provided for by those laws in that manner, in a manner provided for by the laws of that Member State that corresponds to the arrangements, procedures and systems referred to in subparagraph (i), or
 
-(II) if such recognition is not provided for by those laws in that manner, then otherwise in accordance with the laws of that Member State;
+(II) if such recognition is not provided for by those laws in that manner, then otherwise in accordance with the laws of that Member State, or
+
+(iii) in the case of a qualification awarded following the successful completion of a course at an institution mentioned at section 7(1)(g) —
+
+(I) if such recognition is provided for by those laws in the following manner, in a manner provided for by the laws of a relevant specified jurisdiction that correspond to the arrangements, procedures and systems referred to in subparagraph (i), or
+
+(II) if such recognition is not provided for by those laws in that manner, then otherwise in accordance with the laws of the relevant specified jurisdiction;
 
 (l) any other matters which in the opinion of the Minister are proper matters to be taken into account having regard to the objective of enabling persons to attend courses of higher or further education, the need to maintain educational standards and the contribution that provision of the course would make to higher education in the State.
 
@@ -52,7 +58,7 @@ Approved course.
 
 (c) The Minister, in prescribing a course pursuant to paragraph (a), shall have regard to the following matters:
 
-(i) the matters referred to in subsection (2) (other than paragraph (k)(ii) of that subsection);
+(i) the matters referred to in subsection (2) (other than paragraph (k)(ii) or (iii) of that subsection);
 
 (ii) the extent to which the prescribing of the course would assist in addressing educational disadvantage;
 

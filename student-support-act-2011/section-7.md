@@ -12,9 +12,15 @@ Approved institution.
 
 (d) an educational institution in the State that receives a grant out of moneys provided by the Oireachtas ... for the provision of courses of education and training known for the time being as post-leaving certificate courses,
 
-(e) an educational institution that provides higher education and training which is situated in a Member State other than the State which is maintained or assisted by recurrent grants from public funds of that or any other Member State including the State, or
+(e) an educational institution that provides higher education and training which is situated in a Member State other than the State which is maintained or assisted by recurrent grants from public funds of that or any other Member State including the State,
 
-(f) an educational institution in the State that provides higher education and training and which stands prescribed for the time being pursuant to subsection (2).
+(f) an educational institution in the State that provides higher education and training and which stands prescribed for the time being pursuant to subsection (2), or
+
+(g) an educational institution that provides higher education and training and which—
+
+(i) is situated in a relevant specified jurisdiction, and
+
+(ii) is maintained or assisted by recurrent grants from public funds of that jurisdiction or of any Member State including the State.
 
 (2) Where the Minister is satisfied to do so, having—
 
