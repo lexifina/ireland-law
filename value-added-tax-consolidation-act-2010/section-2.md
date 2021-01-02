@@ -72,6 +72,12 @@ Interpretation — general.
 
 (b) the carrying out of any engineering or other operation in, on, over or under the land to adapt it for materially altered use;
 
+‘distance sales of goods imported from third territories or third countries’ means supplies of goods dispatched or transported by or on behalf of the supplier, including where the supplier intervenes indirectly in the transport or dispatch of the goods, from outside the Community, to a customer in a Member State, where—
+
+(a) the supply of goods is carried out for a taxable person, or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to value-added tax pursuant to Article 3(1), or for any other non-taxable person, and
+
+(b) the goods supplied are neither new means of transport nor goods supplied after assembly or installation, with or without a trial run, by or on behalf of the supplier;
+
 “electronically supplied services” includes—
 
 (a) website supply, web-hosting, distance maintenance of programmes and equipment,
@@ -137,6 +143,12 @@ Interpretation — general.
 “inspector of taxes” means an inspector of taxes appointed under section 852 of the Taxes Consolidation Act 1997;
 
 “intra-Community acquisition”, in relation to goods, has the meaning assigned to it by section 24;
+
+‘intra-Community distance sales of goods’ means supplies of goods dispatched or transported by or on behalf of the supplier, including where the supplier intervenes indirectly in the transport or dispatch of the goods, from a Member State other than that in which the dispatch or transport of the goods to the customer ends, where—
+
+(a) the supply of goods is carried out for a taxable person, or for a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to value-added tax pursuant to Article 3(1) of the VAT Directive, or for any other non-taxable person, and
+
+(b) the goods supplied are neither new means of transport nor goods supplied after assembly or installation, with or without a trial run, by or on behalf of the supplier;
 
 “joint option for taxation” has the meaning assigned to it by section 94;
 
