@@ -2,7 +2,7 @@ Assessment of tax due.
 
 111.—(1) Where, in relation to any period, the inspector of taxes, or such other officer as the Revenue Commissioners may authorise to exercise the powers conferred by this section (in this section referred to as “other officer”), has reason to believe that an amount of tax is due and payable to the Revenue Commissioners by a person in any of the following circumstances:
 
-(a) the total amount of tax payable by the person, including tax (if any) payable in accordance with section 108C(3), or 109A(4) was greater than the total amount of tax (if any) paid by that person;
+(a) the total amount of tax payable by the person , including tax (if any) payable in accordance with section 108C(3), 109A(4) or 91J(10)(b) was greater than the total amount of tax (if any) paid by that person;
 
 (b) the total amount of tax refunded to the person in accordance with section 99(1) was greater than the amount (if any) properly refundable to that person;
 
@@ -12,7 +12,7 @@ Assessment of tax due.
 
 (i) may, in accordance with regulations but subject to section 113, make an assessment in one sum of—
 
-(I) the total amount of tax , including tax (if any) payable in accordance with section 108C(3) or 109A(4), which in his or her opinion should have been paid,
+(I) the total amount of tax , including tax (if any) payable in accordance with section 108C(3), 109A(4) or 91J(10)(b) which in his or her opinion should have been paid,
 
 (II) the total amount of tax (including a nil amount) which in accordance with section 99(1) should have been refunded, or
 
