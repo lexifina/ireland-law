@@ -14,6 +14,12 @@ Penalties generally.
 
 (ii) the penalty which would otherwise arise under paragraph (a) only relates to the tax for which that person is jointly and severally liable by virtue of that section.
 
+(d) Paragraph (a) shall not apply to a person, being an intermediary (within the meaning of section 91I), where—
+
+(i) that person is jointly and severally liable by virtue of section 91J(10), and
+
+(ii) the penalty which would otherwise arise under paragraph (a) only relates to the tax for which that person is jointly and severally liable by virtue of section 91J(10).
+
 (2) A person who is not a registered person and who, on or after 1 November 1972, issues an invoice in which an amount of tax is stated shall be liable to a penalty of €4,000.
 
 (3) Any person who, otherwise than under and in accordance with section 68(2)(a) or 86(1) issues an invoice in which an amount of flat-rate addition is stated shall be liable to a penalty of €4,000.
