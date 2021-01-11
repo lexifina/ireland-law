@@ -156,13 +156,13 @@ Interpretation.
 
 “street service vehicle” means a small public service vehicle the driver of which offers in a public place himself and the vehicle for hire and for that purpose stands or drives the vehicle in a public place;
 
+1 OJ No. L 127, 29.4.2014, p. 51.
+
 ‘test certificate’ means -
 
 (a) a certificate issued under section 18, or
 
 (b) an EU roadworthiness certificate;
-
-1 OJ No. L 127, 29.4.2014, p. 51.
 
 “use”, in relation to a vehicle, includes park, and cognate words shall be construed accordingly;
 
