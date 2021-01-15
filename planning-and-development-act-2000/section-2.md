@@ -102,9 +102,9 @@ Interpretation.
 
 ‘Environmental impact assessment’ has the meaning given to it by section 171A;
 
-‘Environmental Impact Assessment Directive’ means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014 amending Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment;
+‘Environmental Impact Assessment Directive’ means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014
 
-3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
+3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1 amending Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment;
 
 ‘environmental impact assessment report’ means a report of the effects, if any, which proposed development, if carried out, would have on the environment and shall include the information specified in Annex IV of the Environmental Impact Assessment Directive;
 
