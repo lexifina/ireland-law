@@ -155,5 +155,3 @@ Environmental impact assessment.
 (9) ...
 
 (10) In carrying out an environmental impact assessment on a proposed road development under this section, An Bord Pleanála shall, where appropriate, coordinate the assessment with any assessment of the proposed development under Council Directive 92/43/EEC of 21 May 1992 or Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009.
-
-3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
