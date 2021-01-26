@@ -1,4 +1,4 @@
-F188[ Civil partnership registration form.
+F188[Civil partnership registration form.
 
 59C.— (1) ...
 

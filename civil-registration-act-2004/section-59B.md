@@ -1,3 +1,3 @@
-F186[ Notification of civil partnerships.
+F186[Notification of civil partnerships.
 
 59B.—...

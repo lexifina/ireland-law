@@ -1,3 +1,3 @@
-F200[ Effect of registration.
+F200[Effect of registration.
 
 59H.— ...

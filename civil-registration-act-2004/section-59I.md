@@ -1,3 +1,3 @@
-F202[ Effect of this Part.
+F202[Effect of this Part.
 
 59I.— ...
