@@ -1,4 +1,4 @@
-F14[Fees.
+F17[Fees.
 
 19.—(1) (a) There shall be paid to the Minister by the non-national concerned in respect of the making of an application for, or the giving of, a permission, or both, such fee (if any) as may be prescribed with the consent of the Minister for Public Expenditure and Reform.
 
@@ -28,4 +28,4 @@ F14[Fees.
 
 (c) persons in respect of whom a declaration (within the meaning of that Act) is in force.
 
-(7) In this section, ‘travel document’ means a document (other than a document to which section 4(1) of the Refugee Act 1996refers) issued solely for the purpose of providing the holder with a document which can serve in lieu of a national passport.
+(7) In this section, ‘travel document’ means a document (other than a document to which section 4(1) of the Refugee Act 1996 refers) issued solely for the purpose of providing the holder with a document which can serve in lieu of a national passport.
