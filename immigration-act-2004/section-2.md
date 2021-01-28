@@ -30,8 +30,10 @@ Application of Act.
 
 (c) section 9(1) of the Refugee Act 1996,
 
-(d) the European Communities (Aliens) Regulations 1977 (S.I. No. 393 of 1977), or
+(d) the European Communities (Aliens) Regulations 1977 (S.I. No. 393 of 1977),” for “the European Communities (Aliens) Regulations 1977 ( S.I. No. 393 of 1977 ), or
 
-(e) the European Communities (Right of Residence for NonEconomically Active Persons) Regulations 1997 (S.I. No. 57 of 1997).
+(e) the European Communities (Right of Residence for Non-Economically Active Persons) Regulations 1997 (S.I. No. 57 of 1997), or
+
+(f) the European Communities (Free Movement of Persons) Regulations 2015 ( S.I. No. 548 of 2015 ).
 
 (3) If, in any proceedings, whether civil or criminal, any question arises under or in relation to a provision of this Act, the Act of 1999 or the Immigration Act 2003 as to whether any person is or is not a non-national, or is or is not a non-national of a particular nationality or otherwise of a particular class, or is or is not a particular non-national specified in an order made under the Act of 1999, the onus of proving (as the case may require) that such person is not a non-national, or is not a non-national of a particular nationality or of a particular class, or is not such a particular non-national, shall lie on such person.
