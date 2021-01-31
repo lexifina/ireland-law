@@ -4,7 +4,7 @@ Refusal to confiscate.
 
 (a) subject to subsection (4), the conduct which resulted in the making of the external confiscation order is not an offence to which the relevant international instrument relates,
 
-(b) there is immunity or privilege under the law of the State which makes it impossible to make the confiscation co-operation order or execute the external confiscation order, as the case may be,
+(b) where the designated state concerned is a state other than the United Kingdom, there is immunity or privilege under the law of the State which makes it impossible to make the confiscation co-operation order or execute the external confiscation order, as the case may be,
 
 (c) it is immediately clear from the information provided in a certificate that compliance with the external confiscation order in relation to the offence that resulted in the making of that order would infringe the ne bis in idem principle,
 
@@ -22,7 +22,7 @@ Refusal to confiscate.
 
 (iv) in a case where he or she was not personally served with the external confiscation order, an undertaking has been given by the designated state concerned that he or she will be personally served with the external confiscation order without delay and will be expressly informed of his or her right to a retrial or an appeal in which he or she will be able to participate and which could lead to a reversal of the order, and of the time limit for exercising that right,
 
-(e) the criminal conduct concerned was either committed outside the territory of the designated state concerned or committed wholly or partly in the State, or
+(e) where the designated state concerned is a state other than the United Kingdom, the criminal conduct concerned was either committed outside the territory of the designated state concerned or committed wholly or partly in the State, or
 
 (f) the enforcement of the confiscation co-operation order, or the execution of the external confiscation order, as the case may be, is statute barred.
 
@@ -32,6 +32,6 @@ Refusal to confiscate.
 
 (b) shall refuse to make a confiscation co-operation order or, as the case may be, to execute the external confiscation order, unless it is satisfied, by the production of an equivalent document or otherwise, that the information provided by or on behalf of the court concerned is sufficient.
 
-(3) The High Court shall not make a confiscation co-operation order or, as the case may be, shall make an order refusing the execution of the external confiscation order if it is satisfied that the rights of any person holding an interest in the property the subject of the external confiscation order concerned make it impossible to execute that order.
+(3) Where the designated state concerned is a state other than the United Kingdom, the High Court shall not make a confiscation co-operation order or, as the case may be, shall make an order refusing the execution of the external confiscation order if it is satisfied that the rights of any person holding an interest in the property the subject of the external confiscation order concerned make it impossible to execute that order.
 
 (4) Where an external confiscation order is transmitted by or on behalf of a court in a designated state that is a member state, and the offence that resulted in the making of the order is an offence referred to in Article 6(1) of the 2006 Framework Decision punishable in that designated state by a maximum term of imprisonment of not less than 3 years, the High Court shall not make an order refusing the execution of the external confiscation order solely on the ground that the conduct constituting the offence that resulted in the making of that external confiscation order does not constitute an offence under the law of the State.

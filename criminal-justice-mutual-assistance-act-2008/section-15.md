@@ -20,7 +20,7 @@ Request from designated state for information about financial transactions.
 
 (iii) if available, the name or names of that institution or those institutions;
 
-(iv) the maximum period of imprisonment under the law of the designated state by which the offence is punishable; and
+(iv) in the case of request from a designated state other than the United Kingdom, the maximum period of imprisonment under the law of the designated state by which the offence is punishable; and
 
 (v) any other information that may facilitate compliance with the request.
 

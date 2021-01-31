@@ -12,7 +12,9 @@ Enforcement, etc., of confiscation co-operation orders.
 
 (b) the Court has taken into account those representations and any representations made by the Director of Public Prosecutions in reply.
 
-(5) A defendant shall not be imprisoned for non-compliance with a confiscation co-operation order if the request for the enforcement of the external confiscation order so specifies and the relevant international instrument so provides.
+(5) A defendant shall not be imprisoned for non-compliance with a confiscation co-operation order in respect of an external confiscation order transmitted by or on behalf of a court in a designated state other than the United Kingdom if the request for the enforcement of the external confiscation order so specifies and the relevant international instrument so provides.
+
+(5A) A defendant shall not be imprisoned for non-compliance with a confiscation co-operation order in respect of an external confiscation order transmitted by or on behalf of a court in the United Kingdom unless the competent authority in United Kingdom consents to such imprisonment.
 
 (6) Any term of imprisonment imposed under subsection (3) of this section shall be reduced in proportion to any sum or sums paid or recovered from time to time under the confiscation co-operation order.
 

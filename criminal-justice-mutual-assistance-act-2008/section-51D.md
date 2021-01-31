@@ -19,3 +19,5 @@ Variation or discharge of confiscation co-operation orders.
 (2) Notice of an application under this section and of the grounds for it shall be given by the applicant, in such manner as may be prescribed by rules of court or as the High Court may direct, to the Central Authority for transmission to the designated state concerned.
 
 (3) The making of an application under subsection (1) shall not suspend the execution of the confiscation co-operation order concerned.
+
+(4) Where the external confiscation order was made in the United Kingdom, the substantive grounds for making the external confiscation order may be reviewed only by a judicial authority in that state.

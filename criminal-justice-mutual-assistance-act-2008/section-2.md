@@ -6,7 +6,7 @@ Interpretation (general).
 
 “Agreement with Iceland and Norway” means the Agreement between the European Union and the Republic of Iceland and the Kingdom of Norway on the application of certain provisions of the 2000 Convention and 2001 Protocol, done at Brussels on 19 December 2003;
 
-‘Agreement with Japan’ means the Agreement between the European Union and Japan on mutual legal assistance in criminal matters, done at Brussels on 30 November 2009 and at Tokyo on 15 December 2009;
+"Agreement with Japan" means the Agreement between the European Union and Japan on mutual legal assistance in criminal matters, done at Brussels on 30 November 2009 and at Tokyo on 15 December 2009;
 
 “Articles 49 and 51”, in relation to the Schengen Convention, means those Articles of the Convention, as applied to the State by Council Decision (2002/192/EEC) of 28 February 2002 concerning Ireland’s request to take part in some of the provisions of the Schengen acquis, but does not include paragraph (a) (repealed by Article 2.2 of the 2000 Convention) of Article 49;
 
@@ -16,31 +16,31 @@ Interpretation (general).
 
 “1977 Terrorism Convention” means the European Convention on the Suppression of Terrorism, done at Strasbourg on 27 January 1977;
 
-‘1999 Protocol’ means the Protocol to the Convention for the Protection of Cultural Property in the event of Armed Conflict, done at The Hague on 26 March 1999;
+"1999 Protocol" means the Protocol to the Convention for the Protection of Cultural Property in the event of Armed Conflict, done at The Hague on 26 March 1999;
 
 “2000 Convention” means the Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union, done at Brussels on 29 May 2000;
 
-‘2003 Framework Decision’ means Council Framework Decision 2003/577/JHA of 22 July 2003 on the execution in the European Union of orders freezing property or evidence;
+"2003 Framework Decision" means Council Framework Decision 2003/577/JHA of 22 July 2003 on the execution in the European Union of orders freezing property or evidence;
 
 “2005 Convention” means the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime and on the Financing of Terrorism, done at Warsaw on 16 May 2005;
 
 “2005 Council Decision” means Council Decision 2005/671/JHA of 20 September 2005 on the exchange of information and co-operation concerning terrorist offences;
 
-‘2005 Framework Decision’ means Council Framework Decision 2005/214/JHA of 24 February 2005 on the application of mutual recognition to financial penalties;
+"2005 Framework Decision" means Council Framework Decision 2005/214/JHA of 24 February 2005 on the application of mutual recognition to financial penalties;
 
-‘2006 Framework Decision’ means Council Framework Decision 2006/783/JHA of 6 October 2006 on the application of the principle of mutual recognition to confiscation orders;
+"2006 Framework Decision" means Council Framework Decision 2006/783/JHA of 6 October 2006 on the application of the principle of mutual recognition to confiscation orders;
 
-‘2008 Council Decision’ means Council Decision 2008/615/JHA of 23 June 2008 on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime;
+"2008 Council Decision" means Council Decision 2008/615/JHA of 23 June 2008 on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime;
 
-‘2008 Council Decision (special intervention units)’ means Council Decision 2008/617/JHA of 23 June 2008 on the improvement of cooperation between special intervention units of the member states of the European Union in crisis situations;
+"2008 Council Decision (special intervention units)" means Council Decision 2008/617/JHA of 23 June 2008 on the improvement of cooperation between special intervention units of the member states of the European Union in crisis situations;
 
-‘2009 Agreement with Iceland and Norway’ means the Agreement between the European Union and Iceland and Norway on the application of certain provisions of Council Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime and Council Decision 2008/616/JHA on the implementation of Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime, and the Annex thereto, done at Stockholm on 26 November 2009 and at Brussels on 30 November 2009;
+"2009 Agreement with Iceland and Norway" means the Agreement between the European Union and Iceland and Norway on the application of certain provisions of Council Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime and Council Decision 2008/616/JHA on the implementation of Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime, and the Annex thereto, done at Stockholm on 26 November 2009 and at Brussels on 30 November 2009;
 
 ...
 
-‘2010 Council Decision’ means Council Decision 2010/616/EU of 7 October 2010 on the conclusion of the Agreement between the European Union and Japan on mutual legal assistance in criminal matters;
+"2010 Council Decision" means Council Decision 2010/616/EU of 7 October 2010 on the conclusion of the Agreement between the European Union and Japan on mutual legal assistance in criminal matters;
 
-‘2018 Regulation’ means Regulation (EU) 2018/1727 of the European Parliament and of the Council of 14 November 2018 on the European Union Agency for Criminal Justice Cooperation (Eurojust), and replacing and repealing Council Decision 2002/187/JHA1;
+"2018 Regulation" means Regulation (EU) 2018/1727 of the European Parliament and of the Council of 14 November 2018 on the European Union Agency for Criminal Justice Cooperation (Eurojust), and replacing and repealing Council Decision 2002/187/JHA1;
 
 “Central Authority” means the authority mentioned in section 8;
 
@@ -130,6 +130,8 @@ Interpretation (general).
 
 (ge) the 2018 Regulation;
 
+(gf) Titles VIII and XI of Part Three of the Trade and Cooperation Agreement;
+
 (h) the 1959 Convention;
 
 (i) the Second Additional Protocol;
@@ -148,7 +150,7 @@ Interpretation (general).
 
 (n) any reservation or declaration made in accordance with such an instrument;
 
-‘Istanbul Convention’ means the Council of Europe Convention on preventing and combating violence against women and domestic violence done at Istanbul on 11 May 2011;
+"Istanbul Convention" means the Council of Europe Convention on preventing and combating violence against women and domestic violence done at Istanbul on 11 May 2011;
 
 “member state” means—
 
@@ -164,7 +166,7 @@ Interpretation (general).
 
 (b) includes a revenue offence, if or to the extent that the relevant international instrument or the law of the designated state concerned provides for mutual assistance in respect of such an offence, but
 
-(c) does not include a political offence;
+(c) does not, other than in relation to a request for mutual assistance made under Title XI of Part Three of the Trade and Cooperation Agreement, include a political offence;
 
 “place” means a physical location and includes—
 
@@ -194,7 +196,7 @@ Interpretation (general).
 
 (c) a place specified under section 3 of the Prisons Act 1972;
 
-“property”, except in Part 4, includes—
+“property”, except in Part 4 , includes—
 
 (a) money and all other property, real or personal, movable or immovable,
 
@@ -237,6 +239,8 @@ Interpretation (general).
 (a) for whose external relations the state or its government is wholly or partly responsible, and
 
 (b) to which the relevant international instrument applies or whose law provides for mutual assistance in criminal matters, and “designated state” and “member state” are to be construed accordingly.
+
+"Trade and Cooperation Agreement" means the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, done at Brussels and London on 30 December 2020;
 
 (2) Reservations made pursuant to Article 13 of the 1977 Terrorism Convention do not apply to mutual assistance in criminal matters between member states.
 
@@ -283,6 +287,8 @@ Interpretation (general).
 (gb) ...
 
 (gc) Schedule 7C sets out the English text of the 2018 Regulation,
+
+(gd) Schedule 7D sets out the English text of Titles VIII and XI of Part Three of the Trade and Cooperation Agreement.
 
 (h) Schedule 8 sets out the English text of the 1959 Convention and the First Additional Protocol thereto,
 

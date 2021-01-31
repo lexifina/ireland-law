@@ -6,6 +6,12 @@ Recognition and enforcement of external freezing orders.
 
 (3) An application from a member state for the enforcement of an external freezing order shall be dealt with as soon as possible and, whenever practicable, within 24 hours of receipt of the order and a duly completed certificate.
 
+(3A) An application for the enforcement of an external freezing order from the United Kingdom shall be dealt with —
+
+(a) as soon as possible, and
+
+(b) where the designated state informs the Central Authority that there are legitimate grounds to believe that the property specified in the order will be immediately removed or destroyed, where practicable, within 96 hours of receipt of the order, the statement referred to in section 34(2)(b) and any other information required by Title XI of Part Three of the Trade and Cooperation Agreement.
+
 (4) On an application under this section the Court may, subject to subsection (5), make a freezing co-operation order, subject to any conditions that may be specified in the order.
 
 (5) The Court may—

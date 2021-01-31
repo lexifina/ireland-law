@@ -8,13 +8,13 @@ Interpretation (Part 4).
 
 “appeal” includes any proceedings for the discharge or setting aside of a judgment and any application for a new trial or stay of execution;
 
-‘certificate’ means—
+"certificate" means—
 
 (a) the certificate provided for in Article 9 of the 2003 Framework Decision, the standard form of which is set out in the Annex to that Framework Decision, or
 
 (b) the certificate provided for in Article 4 of the 2006 Framework Decision, the standard form of which is set out in the Annex to that Framework Decision, as the context requires;
 
-‘competent authority’—
+"competent authority"—
 
 (a) in relation to a member state, means the authority or authorities determined by that state in accordance with Article 3 of the 2006 Framework Decision to be the competent authority of that member state, and
 
@@ -38,7 +38,11 @@ Interpretation (Part 4).
 
 “external freezing order” means any measure—
 
-(a) taken provisionally by a competent judicial authority of a designated state in criminal proceedings to prevent the destruction, transformation, moving, transfer, disposal or use of specified property in the State that could be subject to confiscation or be evidence in those proceedings, and
+(a) taken provisionally by a competent judicial authority of -
+
+(i) a designated state in criminal proceedings, or
+
+(ii) the United Kingdom in a criminal investigation, to prevent the destruction, transformation, moving, transfer, disposal or use of specified property in the State that could be subject to confiscation or be evidence in those proceedings, and
 
 (b) made for the purpose of—
 
