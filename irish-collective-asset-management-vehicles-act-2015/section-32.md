@@ -20,7 +20,7 @@ Execution of documents
 
 (b) the ICAV does have such a seal.
 
-(5) A document has the same effect as if executed under the common seal of the ICAV if it is expressed (in whatever form of words) to be executed by the ICAV and it is signed on behalf of the ICAV—
+(5) A document has the same effect as if executed under the common seal of the ICAV (that is to say, executed under the ICAV’s common seal in compliance with section 33(4)) if it is expressed (in whatever form of words) to be executed by the ICAV and it is signed on behalf of the ICAV—
 
 (a) by 2 authorised signatories, or
 
@@ -34,6 +34,6 @@ Execution of documents
 
 (c) any person authorised by the directors of the ICAV in accordance with the ICAV’s instrument of incorporation.
 
-(7) Where a document is to be signed by a person on behalf of more than one ICAV, it is not duly signed by that person for the purposes of this section unless he or she signs it separately in each capacity.
+(7) ...
 
 (8) References in this section to a document being (or purporting to be) signed by a secretary are to be read, in a case where that office is held by a firm, as references to its being (or purporting to be) signed by an individual authorised by the firm to sign on its behalf.

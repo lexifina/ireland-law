@@ -24,7 +24,7 @@ Winding up
 
 (g) the words “into his or her custody or” in section 596 and paragraph 9 of the Table to section 627 are omitted;
 
-(h) sections 600 and 609 are omitted;
+(h) sections 599 and 609 are omitted;
 
 (i) section 636 has effect as if—
 

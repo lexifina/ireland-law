@@ -40,6 +40,6 @@ Priority of charges
 
 (b) contains a prohibition, either generally or in specified circumstances, on the doing by the ICAV of one or more things referred to in one, or more than one, provision of paragraph (a).
 
-(8) The registration of an investment company as an ICAV by continuation under Part 8 does not affect the priority of charges created by the investment company.
+(8) The registration of an investment company or an UCITS as an ICAV by continuation under Part 8 does not affect the priority of charges created by the investment company or the UCITS, as the case may be.
 
 (9) The registration of a body corporate as an ICAV by continuation under Part 9 does not affect the priority of charges created by the body corporate before its registration as an ICAV.

@@ -20,6 +20,8 @@ Definitions
 
 “category 3 offence” means an offence the penalties for which are specified in section 186(3);
 
+“category 4 offence” means an offence the penalties for which are specified in section 186(4);
+
 “Community act” means an act adopted by an institution of the European Union;
 
 “company” means a company formed and registered under the Companies Act 2014 or an existing company within the meaning of that Act;

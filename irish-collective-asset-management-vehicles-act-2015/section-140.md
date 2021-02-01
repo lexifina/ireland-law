@@ -28,7 +28,7 @@ Conversion of investment company or UCITS to ICAV
 
 (iv) the conversion is permitted by and has been approved in accordance with the memorandum of association and articles of association of the company, and
 
-(v) any consented approval to the proposed conversion required by any contract entered into or undertaking given by the company has been obtained or varied,
+(v) any consent or approval to the proposed conversion required by any contract entered into or undertaking given by the company has been obtained or waived,
 
 (e) a declaration of solvency prepared in accordance with section 141,
 

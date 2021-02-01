@@ -13,3 +13,5 @@ Categories of offences
 (b) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years, or to both.
 
 (3) A person guilty of an offence under this Act that is stated to be a category 3 offence is liable, on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months, or to both.
+
+(4) A person guilty of an offence under this Act that is stated to be a category 4 offence is liable, on summary conviction, to a class A fine.

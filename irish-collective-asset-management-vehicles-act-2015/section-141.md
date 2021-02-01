@@ -1,6 +1,6 @@
 Declaration of solvency
 
-141. (1) Where an application is made by a company under section 140 a director of the company making the application shall make a statutory declaration stating that he or she has made a full inquiry into its affairs and has formed the opinion that the company is able to pay its debts as they fall due.
+141. (1) Where an application is made by a company under section 140 a director of the company making the application shall make a statutory declaration stating that he or she has made a full inquiry into its affairs and has formed the opinion that the company is able to pay its debts (being the debts identified for the purposes of subsection (2)(b)) as they fall due.
 
 (2) A declaration is of no effect unless—
 

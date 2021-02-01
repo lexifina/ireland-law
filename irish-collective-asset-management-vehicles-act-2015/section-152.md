@@ -2,7 +2,7 @@
 
 Statutory declaration as to solvency
 
-152. (1) Where an application is made under Chapter 1 or 2 a director of the migrating body or ICAV making the application shall make a statutory declaration, in such form as may be specified by the Bank, stating that he or she has made a full inquiry into its affairs and has formed the opinion that the migrating body or ICAV is able to pay its debts as they fall due.
+152. (1) Where an application is made under Chapter 1 or 2 a director of the migrating body or ICAV making the application shall make a statutory declaration, in such form as may be specified by the Bank, stating that he or she has made a full inquiry into its affairs and has formed the opinion that the migrating body or ICAV is able to pay its debts (being the debts identified for the purposes of subsection (2)(b)) as they fall due.
 
 (2) A declaration under subsection (1) shall have no effect for the purposes of this Chapter unless—
 
