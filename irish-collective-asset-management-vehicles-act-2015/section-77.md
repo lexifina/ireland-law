@@ -17,5 +17,3 @@ Section 75: connected persons
 (a) “equity share capital”, in relation to an ICAV, means its issued share capital excluding any part of it which, neither as respects dividends nor as respects capital, carries any right to participate beyond a specified amount in a distribution;
 
 (b) references to voting power exercised by a director shall include references to voting power exercised by another body corporate which that director controls.
-
-Chapter 3

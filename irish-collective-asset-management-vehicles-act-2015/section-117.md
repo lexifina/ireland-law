@@ -64,6 +64,4 @@ Accounts to include information about directors
 
 (c) “pension” includes any superannuation allowance, superannuation gratuity or similar payment;
 
-(d) “pension scheme” means a scheme for the provision of pensions in respect of services as director or otherwise which is maintained in whole or in part by means of contributions and “contribution”, in relation to a pension scheme, means any payment (including an insurance premium) paid for the purposes of the scheme by or in respect of persons rendering services in respect of which pensions will or may become payable under the scheme, except that it does not include any payment in respect of 2 or more persons if the amount paid in respect of each of them is not ascertainable.
-
-Chapter 3
+(d) “pension scheme” means a scheme for the provision of pensions in respect of services as director or otherwise which is maintained in whole or in part by means of contributions and “contribution”, in relation to a pension scheme, means any payment (including an insurance premium) paid for the purposes of the scheme by or in respect of persons rendering services in respect of which pensions will or may become payable under the scheme, except that it does not include any payment in respect of 2 or more persons if the amount paid in respect of each of them is not ascertainable. Chapter 3
