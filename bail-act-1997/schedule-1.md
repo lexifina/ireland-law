@@ -62,7 +62,7 @@ Sexual offences
 
 9. Any offence under section 1 (incest by males) and section 2 (incest by female of or over 17 years) of the Punishment of Incest Act, 1908.
 
-10.An offence under the Criminal Law (Sexual Offences) Act 2006.
+10. An offence under the Criminal Law (Sexual Offences) Act 2006.
 
 11. Any offence under the following provisions of the Criminal Law (Rape) (Amendment) Act, 1990—
 
@@ -146,7 +146,7 @@ Firearms
 
 (d) section 27B (carrying firearm with criminal intent).
 
-16.Any offence under the following provisions of the Firearms and Offensive Weapons Act 1990:
+16. Any offence under the following provisions of the Firearms and Offensive Weapons Act 1990:
 
 (a) section 7 (possession, sale, etc., of silencers);
 
@@ -200,7 +200,7 @@ Offences in relation to aircraft and vehicles
 
 Maritime security offences
 
-22A.—Any offence under section 2 of the Maritime Security Act 2004.
+22A. Any offence under section 2 of the Maritime Security Act 2004.
 
 Forgery etc. offences
 
@@ -234,7 +234,7 @@ Public order offences
 
 Organised Crime.
 
-28A.—An offence under section 71, 71A, 72 or 73 of the Criminal Justice Act 2006.
+28A. An offence under section 71, 71A, 72 or 73 of the Criminal Justice Act 2006.
 
 Accomplices
 
@@ -254,7 +254,7 @@ Offences against United Nations workers
 
 Suppression of Terrorism.
 
-33.—Any offence under the Criminal Justice (Terrorist Offences) Act 2005.
+33. Any offence under the Criminal Justice (Terrorist Offences) Act 2005.
 
 Offences under the Prisons Act 2007.
 
@@ -299,3 +299,9 @@ Corruption Offences
 Offences under the Health (Regulation of Termination of Pregnancy) Act 2018
 
 41. Any offence under section 23 of the Health (Regulation of Termination of Pregnancy) Act 2018.
+
+Offence under the Harassment, Harmful Communications and Related Offences
+
+Act 2020
+
+42. An offence under section 2 of the Harassment, Harmful Communications and Related Offences Act 2020.
