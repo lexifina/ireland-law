@@ -12,9 +12,13 @@ Registration of medical practitioners in Supervised Division.
 
 (b) meets the criteria specified in rules made under section 11, to permit that practitioner to be registered in another division of the register.
 
-(3) A medical practitioner may not be registered in the Supervised Division for a period in excess of 2 years in aggregate.
+(3) A medical practitioner may not be registered in the Supervised Division for a period in excess of 2 years in aggregate or, with the approval in writing of the Health Service Executive, in excess of 3 years in aggregate in a particular case.
 
-(4) The registration of a medical practitioner in the Supervised Division shall apply to that practitioner only in respect of an individually numbered, identifiable post which has been approved by the Council for the purpose of this section and which post is certified by the Health Service Executive to be a publicly funded post.
+(4) The registration of a medical practitioner in the Supervised Division shall apply to that medical practitioner only in respect of an individually numbered, identifiable post which has been approved by the Council for the purposes of this section and which post is—
+
+(a) subject to subsection (7), certified by the Health Service Executive to be a publicly funded post, or
+
+(b) funded by a third country which is sponsoring that person.
 
 (5) The Council shall not approve a post pursuant to subsection (4) unless it is satisfied that adequate arrangements for the supervision of the medical practitioner to whom the application for registration relates in the performance of his or her duties in the post have been established, having regard to the level of experience of the practitioner to whom the application for registration relates, the seniority of the post and the duties to be performed by that practitioner.
 
