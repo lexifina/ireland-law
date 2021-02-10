@@ -1,4 +1,4 @@
-F6[Evidence in applications for bail under section 2.
+F6[ Evidence in applications for bail under section 2.
 
 2A.— (1) Where a member of the Garda Síochána not below the rank of chief superintendent, in giving evidence in proceedings under section 2, states that he or she believes that refusal of the application is reasonably necessary to prevent the commission of a serious offence by that person, the statement is admissible as evidence that refusal of the application is reasonably necessary for that purpose.
 

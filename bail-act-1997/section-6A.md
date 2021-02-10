@@ -1,4 +1,4 @@
-F21[Application of section 6 in relation to certain appellants.
+F21[ Application of section 6 in relation to certain appellants.
 
 6A.— Section 6 applies in relation to recognisances entered into by persons appealing against sentences of imprisonment imposed by the District Court with the following modifications:
 

@@ -6,7 +6,11 @@ Evidence of previous criminal record.
 
 (a) direct that the proceedings shall be heard otherwise than in public, or
 
-(b) exclude from the court during the hearing all persons except officers of the court, persons directly concerned in the proceedings, bona fide representatives of the Press and such other persons if any as the court may permit to remain.
+(b) exclude from the court during the hearing all persons except officers of the court, persons directly concerned in the proceedings,
+
+## bona fide
+
+representatives of the Press and such other persons if any as the court may permit to remain.
 
 (2A) Subsection (2) is without prejudice to the right of—
 

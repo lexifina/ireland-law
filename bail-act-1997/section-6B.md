@@ -1,3 +1,3 @@
-F22[Electronic monitoring of certain persons admitted to bail.
+F22[ Electronic monitoring of certain persons admitted to bail.
 
 6B.— ...

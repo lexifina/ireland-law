@@ -26,7 +26,7 @@ Conditions of bail.
 
 (3) Where an accused person is admitted to bail by a court on his or her entering into a recognisance subject to one or more of the conditions referred to in subsection (1)(b), that court may, on the application to it in that behalf at any time by the accused person, if it considers it appropriate to do so, vary (whether by the alteration, addition or revocation of a condition) a condition.
 
-(3A)A recognisance referred to in subsection (3) shall contain a statement that the accused person may apply to the court at any time to vary or revoke a condition of the recognisance.
+(3A) A recognisance referred to in subsection (3) shall contain a statement that the accused person may apply to the court at any time to vary or revoke a condition of the recognisance.
 
 (4) The prosecutor shall be given notice of, and be entitled to be heard in, any proceedings under subsection (3).
 
