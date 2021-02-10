@@ -1,6 +1,6 @@
 Harassment.
 
-10.—(1) Any person who, without lawful authority or reasonable excuse, by any means including by use of the telephone, harasses another by persistently following, watching, pestering, besetting or communicating with him or her, shall be guilty of an offence.
+10.—(1) Any person who, without lawful authority or reasonable excuse, by any means including by use of the telephone, harasses another by persistently following, watching, pestering, besetting or communicating with or about him or her, shall be guilty of an offence.
 
 (2) For the purposes of this section a person harasses another where—
 
@@ -8,7 +8,7 @@ Harassment.
 
 (b) his or her acts are such that a reasonable person would realise that the acts would seriously interfere with the other's peace and privacy or cause alarm, distress or harm to the other.
 
-(3) Where a person is guilty of an offence under subsection (1), the court may, in addition to or as an alternative to any other penalty, order that the person shall not, for such period as the court may specify, communicate by any means with the other person or that the person shall not approach within such distance as the court shall specify of the place of residence or employment of the other person.
+(3) Where a person is guilty of an offence under subsection (1), the court may, in addition to or as an alternative to any other penalty, order that the person shall not, for such period as the court may specify, communicate by any means with or about the other person or that the person shall not approach within such distance as the court shall specify of the place of residence or employment of the other person.
 
 (4) A person who fails to comply with the terms of an order under subsection (3) shall be guilty of an offence.
 
@@ -16,6 +16,6 @@ Harassment.
 
 (6) A person guilty of an offence under this section shall be liable—
 
-(a) on summary conviction to a fine not exceeding £1,500 or to imprisonment for a term not exceeding 12 months or to both, or
+(a) on summary conviction to a class A fine or to imprisonment for a term not exceeding 12 months, or both, or
 
-(b) on conviction on indictment to a fine or to imprisonment for a term not exceeding 7 years or to both.
+(b) on conviction on indictment to a fine or a term of imprisonment not exceeding 10 years, or both.
