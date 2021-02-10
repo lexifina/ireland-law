@@ -1,0 +1,5 @@
+An Act to consolidate the law on domestic violence; to provide for emergency barring orders in certain circumstances; to provide for evidence to be given through television link in certain proceedings; to provide for the right of an applicant to be accompanied in certain proceedings; to provide for the obtaining of the views of a child in certain proceedings; to provide for the giving of information on support services to victims of domestic violence; to provide for the making of recommendations for engagement with certain services by respondents; to provide for restrictions on those present in court during certain proceedings; to prohibit the publication or broadcast of certain matters; to provide for an offence of forced marriage; to repeal provisions for exemption, in certain cases, from minimum age requirements for marriage; for those and other purposes to repeal the Domestic Violence Act 1996 and the Domestic Violence (Amendment) Act 2002 and to provide for the consequential amendment of certain other enactments; and to provide for related matters
+
+[8th May, 2018]
+
+Be it enacted by the Oireachtas as follows:
