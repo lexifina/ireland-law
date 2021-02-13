@@ -12,4 +12,4 @@ Interpretation of references to pharmaceutical chemists, persons keeping open sh
 
 “prior enactment” means an enactment passed or made before the coming into operation of this section;
 
-“representative of a registered pharmacist” shall be construed in accordance with sections 25 and 26.
+“representative of a registered pharmacist” shall be construed in accordance with sections 25 and 26 .

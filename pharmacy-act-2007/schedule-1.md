@@ -6,7 +6,7 @@ Term of office
 
 1. (1) Members of the Council shall hold office for a term of 4 years from the date of appointment.
 
-(2) But 6 of the members first appointed by virtue of sections 10(3)(a), (b), (c), (d), and (e), and 5 of those first appointed by virtue of section 10(3)(f) (as read with section 10(5))and (g) after the passing of this Act shall hold office for a term of 2 years from the date of appointment.
+(2) But 6 of the members first appointed by virtue of sections 10(3)(a), (b), (c), (d), and (e), and 5 of those first appointed by virtue of section 10(3)(f) (as read with section 10(5)) and (g) after the passing of this Act shall hold office for a term of 2 years from the date of appointment.
 
 (3) The members making up the numbers mentioned in subparagraph (2) shall be determined by lot to be drawn in the manner fixed by the Minister.
 

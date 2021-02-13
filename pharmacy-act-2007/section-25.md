@@ -4,7 +4,7 @@ Interpretation of Part 5.
 
 25.— (1) This section has effect for the purposes of the interpretation of Part 5.
 
-(2) In Part 5—
+(2) In Part 5 —
 
 “3 year minimum post-registration experience” means experience of at least 3 years of—
 

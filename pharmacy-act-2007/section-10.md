@@ -18,7 +18,7 @@ The Council of the Society.
 
 (e) 11 (including the persons referred to in paragraphs (a) to (d)) shall be persons who are not and never have been—
 
-(i) registered as pharmacists or (before the coming into operation of Part 4) as pharmaceutical chemists or dispensing chemists and druggists, or
+(i) registered as pharmacists or (before the coming into operation of Part 4 ) as pharmaceutical chemists or dispensing chemists and druggists, or
 
 (ii) registered outside the State or otherwise qualified there as pharmacists,
 

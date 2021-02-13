@@ -36,4 +36,4 @@ Prohibitions on carrying on retail pharmacy businesses and medical practices tog
 
 (9) Subsections (1) to (4) and (10) and such much of the remainder of this section as relates to those subsections shall apply in relation to a registered retail pharmacy business or medical practice which was being lawfully carried on immediately before the passing of this Act only with effect on and from such later date as is specified by order made by the Minister.
 
-(10) In this section “registered medical practitioner” has the same meaning as in section 63.
+(10) In this section “registered medical practitioner” has the same meaning as in section 63 .
