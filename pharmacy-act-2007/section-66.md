@@ -2,27 +2,21 @@
 
 Definitions.
 
-66.— In this Part—
+66.— In this Part and Schedule 3—
 
 “authorised officer” means a person appointed under section 67(1) to be an authorised officer;
 
-“inspect” includes search;
+...
 
 “premises” is not restricted to land and buildings;
 
-“record” includes, in addition to a record in writing—
+...
 
-(a) a disc, tape, sound-track or other device in which information, sounds or signals are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in legible or audible form,
+‘relevant enactment’ means—
 
-(b) a film, tape or other device in which visual images are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in visual form, and
+(a) this Act, or
 
-(c) a photograph, and any reference to a copy of a record includes—
-
-(i) in the case of a record to which paragraph (a) applies, a transcript of the sounds or signals embodied therein,
-
-(ii) in the case of a record to which paragraph (b) applies, a still reproduction of the images embodied therein, and
-
-(iii) in the case of a record to which paragraphs (a) and (b) apply, such a transcript together with such a still reproduction;
+(b) any Act or statutory instrument referred to in section 7(1)(e)(ii).
 
 “relevant thing” means—
 
@@ -32,4 +26,4 @@ Definitions.
 
 (c) any veterinary medicinal product;
 
-“this Act” includes any rule or regulation made under this Act.
+...

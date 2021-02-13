@@ -12,9 +12,23 @@ Functions of the Society.
 
 (e) to—
 
-(i) supervise compliance with this Act and the instruments made under it, and
+(i) supervise compliance with this Act, and
 
-(ii) supervise compliance by pharmacists with Chapters 2 and 3 of Part 2, and Part 3, of the Health (Pricing and Supply of Medical Goods) Act 2013, and
+(ii) supervise compliance by pharmacists, pharmaceutical assistants and pharmacy owners in their respective capacities as such, with—
+
+(I) the Poisons Acts 1961 and 1977,
+
+(II) the Misuse of Drugs Acts 1977 to 2017,
+
+(III) the Animal Remedies Acts 1993 and 2006,
+
+(IV) the Irish Medicines Boards Acts 1995 and 2006,
+
+(V) the Health (Pricing and Supply of Medical Goods) Act 2013 ,
+
+(VI) any statutory instrument made under any of those Acts, and
+
+(VII) the European Communities (Animal Remedies) (No. 2) Regulations 2007 ( S.I. No. 786 of 2007), and
 
 (f) to establish and maintain, in accordance with regulation 19A (inserted by regulation 7 of the Medicinal Products (Prescription and Control of Supply) (Amendment) Regulations 2015 (S.I. No. 87 of 2015)) of the Medicinal Products (Prescription and Control of Supply) Regulations 2003 (S.I. No. 540 of 2003), the ISS supply list of persons entitled to supply non-prescription medicinal products at a distance to the public by means of information society services.
 
@@ -42,7 +56,7 @@ Functions of the Society.
 
 (ii) impose sanctions on pharmacists whom it finds (whether or not after an inquiry) to be unqualified or unfit to practise,
 
-(iii) impose sanctions on pharmacy owners whom it finds (whether or not after an inquiry) have failed to comply with regulations under section 18,
+(iii) impose sanctions on pharmacy owners whom it finds (whether or not after an inquiry) have failed to comply with regulations under section 18 ,
 
 (iv) to conduct or arrange for the conduct of examinations of persons who are applying or might apply for registration,
 

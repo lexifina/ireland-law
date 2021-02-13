@@ -16,9 +16,9 @@ Procedure and criteria for registration of pharmacists.
 
 (d) satisfies the Council that the person is fit to be a registered pharmacist,
 
-(e) holds a qualification appropriate for practice in accordance with section 16,
+(e) holds a qualification appropriate for practice in accordance with section 16 ,
 
-(f) is not an undischarged bankrupt,
+(f) ...
 
 (g) not being a national of the State or another Member State, satisfies the Council that he or she has the linguistic competence necessary to be a registered pharmacist in the State,
 

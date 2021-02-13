@@ -10,4 +10,6 @@ Undertaking and consents.
 
 (d) to consent to being admonished or censured by the Council.
 
+(1A) If a registered pharmacist or pharmacy owner gives an undertaking or consent the subject of a request under subsection (1) by the committee of inquiry, the inquiry into the complaint shall be considered to be completed.
+
 (2) If a registered pharmacist or pharmacy owner refuses to give an undertaking or consent so requested, the committee of inquiry may proceed as if the request had not been made.

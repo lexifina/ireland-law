@@ -44,7 +44,7 @@ Prohibition on certain economic relationships between pharmacists or pharmacies 
 
 “employee” means a person who works under a contract of employment (or has entered such a contract in order to do so) and includes a fixed-term employee and a temporary employee;
 
-“partner” shall be construed in accordance with the Partnership Act 1890;
+...
 
 “registered medical practitioner” has the meaning given by the Medical Practitioners Act 1978 or any enactment re-enacting that definition;
 

@@ -17,3 +17,5 @@ Action by Council on report by disciplinary committee.
 (v) a prohibition for a specified period on applying for restoration to the register.
 
 (2) The Council may not cancel the registration of a pharmacist or retail pharmacy business on the grounds of a conviction for an offence unless in the Council’s opinion, the nature of the offence or the circumstances in which it was committed are such that, were the pharmacist or pharmacy owner applying for registration, the Council would refuse the registration.
+
+(3) If the report referred to in section 47(1) follows an undertaking or consent under section 46(1), then the measures to be taken in respect of the registered pharmacist or the pharmacy owner shall be those contained in the report.

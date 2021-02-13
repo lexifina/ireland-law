@@ -1,6 +1,6 @@
 Functions of Council on receipt of report of investigation by authorised officer.
 
-71.— (1) The Council shall consider a written report from an authorised officer following his or her investigation under this Part, as soon as practicable after receipt of it and shall do whatever of the following that it considers appropriate—
+71.— (1) The Council shall consider a written report from an authorised officer following his or her investigation under this Act, as soon as practicable after receipt of it and shall do whatever of the following that it considers appropriate—
 
 (a) take no action,
 

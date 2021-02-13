@@ -16,7 +16,15 @@ Complaints about registered pharmacists.
 
 (eb) a failure to comply with any duties referred to in section 18(1A) imposed on the pharmacist by regulations made under section 18.
 
-(f) a contravention of this Act or rules made by the Council under this Act, or
+(ec) a failure to comply, in his or her capacity as a registered pharmacist, with a provision of an Act or statutory instrument referred to in section 7(1)(e)(ii),
+
+(ed) the imposition on the pharmacist of—
+
+(i) a prohibition against him or her providing one or more than one kind of health or social care in the State or another jurisdiction, or
+
+(ii) a restriction on his or her ability to provide one or more than one kind of health or social care in the State or another jurisdiction,
+
+(f) a contravention of this Act ..., or
 
 (g) a conviction in the State for an offence triable on indictment or a conviction outside the State for an offence consisting of an act or omission that, if done or made in the State, would constitute an offence triable on indictment.
 
