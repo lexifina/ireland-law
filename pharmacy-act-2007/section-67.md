@@ -52,6 +52,8 @@ Powers of entry, search, seizure, etc.
 
 (n) require a person, who makes available facilities such as post office boxes, telecommunications or electronic mail addresses or other like facilities, to give him or her such assistance and information as he or she may reasonably require for the purposes of his or her functions under this Act in any case where the officer has reasonable grounds for believing that any relevant thing is being supplied by mail or other means of delivery.
 
+(3A) Following an investigation under this section by an authorised officer, the officer shall furnish a written report on the investigation to the Council.
+
 (4) When performing a function under this Act, an authorised officer may, subject to any warrant under subsection (6), be accompanied by such number of—
 
 (a) other authorised officers,
