@@ -98,7 +98,7 @@ Amendment of Return of Payments (Insurance Undertakings) Regulations 2011
 
 (S.I. No. 641 of 2011)
 
-Item Provision affect- Amendment ed (1) (3) (2)
+Item Provision Amendment affected (1) (3) (2)
 
 1 Regulation 2 (a) Delete the definition of “Commission investment vehicle”.
 

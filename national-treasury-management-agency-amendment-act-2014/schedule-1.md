@@ -144,7 +144,7 @@ Part 5
 
 Amendments of Stamp Duties Consolidation Act 1999
 
-Item Provision affect- Amendment ed (1) (3) (2)
+Item Provision Amendment affected (1) (3) (2)
 
 1 Section 108A Repeal.
 

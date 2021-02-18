@@ -34,7 +34,7 @@ Transfer of property from Commission to Agency on Fund constitution date
 
 2. (1) On the Fund constitution date all property, including any chose-in-action, that, immediately before that date, was held by the Commission shall be transferred to the Agency by this subparagraph.
 
-(2) Every chose-in-action transferred to the Agency by subparagraph (1) may, on and from the Fund constitution date, be sued on, recovered or enforced by the Agency in its own name, and it shall not be necessary for the Agency to give notice of the transfer effected by that subparagraph to any person bound by the chose-in-action.
+(2) Every chose-in-action transferred to the Agency by subparagraph (1) may, on and from the Fund constitution date, be sued on, recovered or enforced by the Agency in its own name, and it shall not be necessary for the Agency to give notice of the transfer effected by that subparagraph to any person bound by the chose-in- action.
 
 Transfer of Commission’s rights and liabilities to Agency on Fund constitution date
 
