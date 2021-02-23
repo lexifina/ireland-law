@@ -8,9 +8,7 @@ Amendment of Defence Act 1954.
 
 (a) if he is convicted of manslaughter, be liable to imprisonment for life or any lesser punishment awardable by a court-martial;
 
-(b) if he is convicted of rape, rape under section 4 (within the meaning of the Criminal Law (Rape) (Amendment) Act 1990) or aggravated sexual assault (within the meaning of the Criminal Law (Rape)
-
-(Amendment) Act 1990), be liable to imprisonment for life or any lesser punishment awardable by a court-martial;
+(b) if he is convicted of rape, rape under section 4 (within the meaning of the Criminal Law (Rape) (Amendment) Act 1990) or aggravated sexual assault (within the meaning of the Criminal Law (Rape) (Amendment) Act 1990), be liable to imprisonment for life or any lesser punishment awardable by a court-martial;
 
 (c) if he is convicted of an act of genocide which would be punishable under the Genocide Act 1973 be liable—
 
