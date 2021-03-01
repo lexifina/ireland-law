@@ -1,4 +1,4 @@
-Unrestricted access to beneficial ownership information in central register
+Unrestricted access to beneficial ownership information in central register.
 
 18Q. (1) Subject to subsection (2), the following shall have the right to inspect the central register—
 
@@ -34,7 +34,7 @@ Unrestricted access to beneficial ownership information in central register
 
 (iv) a member or member of staff of the Legal Services Regulatory Authority,
 
-(each of which or whom is referred to in this subparagraph as a ‘relevant competent authority’) unless he or she holds a position not below that of Higher Executive Officer and has been authorised to exercise the right by a member or member of staff or, as the case may be, an officer of the relevant competent authority concerned, holding a position not below that of Principal Officer, or
+(each of which or whom is referred to in this subparagraph as a "relevant competent authority") unless he or she holds a position not below that of Higher Executive Officer and has been authorised to exercise the right by a member or member of staff or, as the case may be, an officer of the relevant competent authority concerned, holding a position not below that of Principal Officer, or
 
 (b) by a member or member of staff of—
 
@@ -48,7 +48,7 @@ Unrestricted access to beneficial ownership information in central register
 
 (6) The Registrar shall, neither during the taking of the steps to afford the maker the access referred to in subsection (5), nor afterwards, alert the beneficial owners of any common contractual fund concerned to the fact of such access having been afforded.
 
-(7) In subsection (6), ‘any common contractual fund concerned’ means any common contractual fund to which the information in the central register, the subject of the inspection concerned, relates.
+(7) In subsection (6), "any common contractual fund concerned" means any common contractual fund to which the information in the central register, the subject of the inspection concerned, relates.
 
 (8) Each of the following:
 
@@ -58,6 +58,6 @@ Unrestricted access to beneficial ownership information in central register
 
 (c) a competent authority;
 
-(d) the Criminal Assets Bureau, may disclose the information in the central register to any corresponding competent authority of another Member State (a ‘corresponding authority’); in the event of there being a request made of a body or other person referred to in any of paragraphs (a) to (d) by a corresponding authority for disclosure of such information, the request shall be complied with in a timely manner.
+(d) the Criminal Assets Bureau, may disclose the information in the central register to any corresponding competent authority of another Member State (a "corresponding authority"); in the event of there being a request made of a body or other person referred to in any of paragraphs (a) to (d) by a corresponding authority for disclosure of such information, the request shall be complied with in a timely manner.
 
 (9) No fee shall be charged to a corresponding authority for the disclosure of the information in the central register.

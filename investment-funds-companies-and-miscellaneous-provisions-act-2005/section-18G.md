@@ -1,4 +1,4 @@
-Offence for failure to comply with notice under section 18B, 18C or 18D
+Offence for failure to comply with notice under section 18B, 18C or 18D.
 
 18G. (1) A person to whom a notice under section 18B, 18C or 18D is given shall be guilty of an offence if the person—
 

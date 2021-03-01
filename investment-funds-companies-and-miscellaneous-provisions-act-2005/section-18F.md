@@ -1,4 +1,4 @@
-Duty of individual (in certain circumstances) to notify relevant change
+Duty of individual (in certain circumstances) to notify relevant change.
 
 18F. (1) This section applies to an individual if—
 

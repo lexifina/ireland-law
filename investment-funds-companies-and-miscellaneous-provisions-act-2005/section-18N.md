@@ -1,4 +1,4 @@
-Information which shall be delivered to Registrar
+Information which shall be delivered to Registrar.
 
 18N. (1) The following is the information referred to in section 18M(1) or (2) that shall be delivered by a management company of a common contractual fund to the Registrar:
 

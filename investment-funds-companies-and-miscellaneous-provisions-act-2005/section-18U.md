@@ -1,4 +1,4 @@
-Offence for failure to comply with section 18M, 18N, 18O or 18P and supplemental provisions
+Offence for failure to comply with section 18M, 18N, 18O or 18P and supplemental provisions.
 
 18U. (1) A management company that fails to comply with section 18M, 18N or 18O shall be guilty of an offence.
 
@@ -8,4 +8,4 @@ Offence for failure to comply with section 18M, 18N, 18O or 18P and supplemental
 
 (4) A person who, in purported compliance with section 18M, 18N, 18O or 18P, makes a statement that is false in a material particular, knowing it to be so false or being reckless as to whether it is so false, shall be guilty of an offence.
 
-(5) A designated person who fails to comply with section 18M(3) shall be guilty of an offence.”.
+(5) A designated person who fails to comply with section 18M(3) shall be guilty of an offence.

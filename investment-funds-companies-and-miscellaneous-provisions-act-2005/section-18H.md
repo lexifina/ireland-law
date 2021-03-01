@@ -1,6 +1,6 @@
-Duty to keep and maintain a beneficial ownership register
+Duty to keep and maintain a beneficial ownership register.
 
-18H. (1) The management company of a common contractual fund shall keep and maintain a register (which shall be known, and is in this Part referred to, as a ‘beneficial ownership register’) in which there shall be entered by it the information referred to in section 18A(1)(a) and (b) and (2).
+18H. (1) The management company of a common contractual fund shall keep and maintain a register (which shall be known, and is in this Part referred to, as a "beneficial ownership register") in which there shall be entered by it the information referred to in section 18A(1)(a) and (b) and (2).
 
 (2) A management company that fails to comply with subsection (1) shall be guilty of an offence.
 
@@ -18,4 +18,4 @@ Duty to keep and maintain a beneficial ownership register
 
 (b) more generally, decide any question necessary or expedient to be decided for rectification of the beneficial ownership register.
 
-(6) The reference in this section to ‘any other interested party’ is a reference to any other person who is a beneficial owner of the common contractual fund.
+(6) The reference in this section to "any other interested party" is a reference to any other person who is a beneficial owner of the common contractual fund.

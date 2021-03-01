@@ -1,4 +1,4 @@
-Obligations of competent authorities to report certain discrepancies to Registrar
+Obligations of competent authorities to report certain discrepancies to Registrar.
 
 18S. (1) If—
 
@@ -10,7 +10,7 @@ Obligations of competent authorities to report certain discrepancies to Registra
 
 (iii) a competent authority;
 
-(iv) the Criminal Assets Bureau, forms the opinion that there is a discrepancy between the information in the central register and the beneficial ownership information, as it relates to any common contractual fund, available to, as the case may be, the Garda Síochána, the Revenue Commissioners or other foregoing authority or bureau (each of which is referred to in this section as a ‘relevant person’), and
+(iv) the Criminal Assets Bureau, forms the opinion that there is a discrepancy between the information in the central register and the beneficial ownership information, as it relates to any common contractual fund, available to, as the case may be, the Garda Síochána, the Revenue Commissioners or other foregoing authority or bureau (each of which is referred to in this section as a "relevant person"), and
 
 (b) to the extent that the doing of the following does not interfere unnecessarily with the performance of the relevant person’s functions, then the relevant person shall deliver, in a timely manner, to the Registrar, in such manner as the Registrar determines, notice of that opinion, specifying the particulars as respects which the foregoing discrepancy exists.
 

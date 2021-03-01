@@ -1,4 +1,4 @@
-Restricted access to beneficial ownership information in central register
+Restricted access to beneficial ownership information in central register.
 
 18R. (1) When—
 
@@ -32,4 +32,4 @@ Restricted access to beneficial ownership information in central register
 
 (b) unless the Registrar, having considered such a written summary provided to the Registrar, is of the opinion that there are substantial grounds for the contention of the foregoing person that it is in the public interest that the information be disclosed to him or her, the designated person or member of the public shall not be permitted by the Registrar to have access to, or to inspect, any information in the central register so far as such information relates to the minor concerned.
 
-(7) In subsection (1), ‘occasional transaction’ has the same meaning as it has in section 18A(7).
+(7) In subsection (1), "occasional transaction" has the same meaning as it has in section 18A(7).

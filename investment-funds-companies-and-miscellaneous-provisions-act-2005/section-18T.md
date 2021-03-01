@@ -1,4 +1,4 @@
-Fees may be charged for access to central register
+Fees may be charged for access to central register.
 
 18T. (1) The Registrar may require any of the persons referred to in section 18R(1), (3) or (4) to pay to the Registrar a fee of such an amount as the Registrar may determine in respect of the access afforded to the central register under section 18R(1), (3) or (4).
 

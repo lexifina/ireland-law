@@ -1,4 +1,4 @@
-Duty to keep information in register up-todate
+Duty to keep information in register up-to-date.
 
 18D. (1) This section applies where particulars of an individual, as being a beneficial owner of a common contractual fund, are entered in the common contractual fund’s beneficial ownership register.
 
@@ -24,7 +24,7 @@ Duty to keep information in register up-todate
 
 (6) A notice under this section shall—
 
-(a) state that it is given under ‘section 18D of the Investment Funds, Companies and Miscellaneous Provisions Act 2005’, and
+(a) state that it is given under "section 18D of the Investment Funds, Companies and Miscellaneous Provisions Act 2005", and
 
 (b) as respects such of the particulars referred to in section 18A(1)(a) and (b) as are known by the management company (or with reasonable cause believed by it) to have been the subject of the change concerned—
 

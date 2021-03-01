@@ -1,4 +1,4 @@
-Other particular steps that may be taken to establish identity of beneficial owners
+Other particular steps that may be taken to establish identity of beneficial owners.
 
 18C. (1) This section—
 
@@ -30,7 +30,7 @@ Other particular steps that may be taken to establish identity of beneficial own
 
 (5) A notice under this section shall state—
 
-(a) that it is given under ‘section 18C of the Investment Funds, Companies and Miscellaneous Provisions Act 2005’, and
+(a) that it is given under "section 18C of the Investment Funds, Companies and Miscellaneous Provisions Act 2005", and
 
 (b) that the addressee is to comply with the notice by no later than the end of the period of one month beginning with the date of the notice.
 

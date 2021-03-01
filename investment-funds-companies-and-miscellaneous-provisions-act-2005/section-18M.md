@@ -1,4 +1,4 @@
-Obligation of management company to deliver beneficial ownership information to Registrar and related obligations of designated person where certain discrepancies discovered
+Obligation of management company to deliver beneficial ownership information to Registrar and related obligations of designated person where certain discrepancies discovered.
 
 18M. (1) A management company of a common contractual fund, being a fund that is in existence before the commencement of section 63 of the Investment Limited Partnerships (Amendment) Act 2020, shall deliver the information specified in section 18N to the Registrar within 6 months from such commencement.
 

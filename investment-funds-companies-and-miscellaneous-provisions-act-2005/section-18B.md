@@ -1,4 +1,4 @@
-Duty to give particular notice to individuals believed to be beneficial owners of common contractual fund
+Duty to give particular notice to individuals believed to be beneficial owners of common contractual fund.
 
 18B. (1) Without prejudice to the generality of section 18A(1), a management company of a common contractual fund shall give to any individual whom it has reasonable cause to believe to be a beneficial owner of the common contractual fund the notice referred to in subsection (2), but this is subject to subsection (5).
 

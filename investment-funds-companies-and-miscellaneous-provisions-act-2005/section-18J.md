@@ -1,4 +1,4 @@
-Delivery of information under sections 18M to 18P: delivery may be effected by persons external to management company (as well as by officers or employees of it)
+Delivery of information under sections 18M to 18P: delivery may be effected by persons external to management company (as well as by officers or employees of it).
 
 18J. (1) The provision made by subsection (2) is in addition to the general law whereby a management company acting through an officer or employee of the management company may discharge an obligation referred to in this section.
 

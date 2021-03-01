@@ -1,8 +1,8 @@
-Duty to keep information in beneficial ownership register and central register aligned and upto-date
+Duty to keep information in beneficial ownership register and central register aligned and up-to-date.
 
-18P. (1) The purpose of this section is to require that any changes that occur in the information contained in a common contractual fund’s beneficial ownership register be reflected by a corresponding change being made in the central register; accordingly there is imposed on the management company of a common contractual fund by this section an obligation, referred to in this section as the ‘follow up obligation’, to deliver information to the Registrar so as to allow any such change to be reflected in the central register.
+18P. (1) The purpose of this section is to require that any changes that occur in the information contained in a common contractual fund’s beneficial ownership register be reflected by a corresponding change being made in the central register; accordingly there is imposed on the management company of a common contractual fund by this section an obligation, referred to in this section as the "follow up obligation", to deliver information to the Registrar so as to allow any such change to be reflected in the central register.
 
-(2) The provisions of this section shall have effect in relation to a common contractual fund following the discharge by the management company of the common contractual fund of its initial central filing obligation (and in subsection (3) the time on which that obligation is so discharged is referred to as the ‘relevant time’).
+(2) The provisions of this section shall have effect in relation to a common contractual fund following the discharge by the management company of the common contractual fund of its initial central filing obligation (and in subsection (3) the time on which that obligation is so discharged is referred to as the "relevant time").
 
 (3) Where at any time, subsequent to the relevant time, the obligation referred to in subsection (4) falls to be discharged by a management company of the common contractual fund, then there is also imposed on the management company, by this section, the follow up obligation specified in subsection (5).
 

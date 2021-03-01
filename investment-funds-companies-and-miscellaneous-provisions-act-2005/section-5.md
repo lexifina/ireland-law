@@ -4,7 +4,7 @@ Expenses.
 
 (2) The Bank shall not provide any funds from its own resources, other than from those resources provided to it under subsection (3), to defray expenses of the Bank incurred by it in the performance of the functions under sections 18O to 18T (in subsections (3) and (4) referred to as ‘expenses of the Bank associated with its functions under sections 18O to 18T’).
 
-(3) The Central Bank Commission shall make regulations under section 32D of the Central Bank Act 1942 prescribing levies (in subsection (4) referred to as the ‘dedicated levies’) to be paid by common contractual funds, and the moneys received by the Bank by way of such levies shall be used by it to defray expenses of the Bank associated with its functions under sections 18O to 18T.
+(3) The Central Bank Commission shall make regulations under section 32D of the Central Bank Act 1942 prescribing levies (in subsection (4) referred to as the "dedicated levies") to be paid by common contractual funds, and the moneys received by the Bank by way of such levies shall be used by it to defray expenses of the Bank associated with its functions under sections 18O to 18T.
 
 (4) Where—
 

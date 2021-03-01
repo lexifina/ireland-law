@@ -1,4 +1,4 @@
-Duty of beneficial owner (in certain circumstances) to notify his or her status as such
+Duty of beneficial owner (in certain circumstances) to notify his or her status as such.
 
 18E. (1) This section applies to an individual if—
 
