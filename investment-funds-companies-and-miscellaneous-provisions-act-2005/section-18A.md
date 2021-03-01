@@ -1,3 +1,5 @@
+Requirement to hold information on beneficial ownership of common contractual fund.
+
 18A. (1) A management company of a common contractual fund shall take all reasonable steps to obtain and hold adequate, accurate and current information in respect of the common contractual fund’s beneficial owners, that is to say—
 
 (a) the name, date of birth, nationality, and residential address of each beneficial owner of it,
@@ -36,7 +38,7 @@
 
 (c) a competent authority;
 
-(d) the Criminal Assets Bureau, may disclose the information in a beneficial ownership register to any corresponding competent authority of another Member State (a ‘corresponding authority’); in the event of there being a request made of a body or other person referred to in any of paragraphs (a) to (d) by a corresponding authority for disclosure of such information, the request shall be complied with in a timely manner.
+(d) the Criminal Assets Bureau, may disclose the information in a beneficial ownership register to any corresponding competent authority of another Member State (a "corresponding authority"); in the event of there being a request made of a body or other person referred to in any of paragraphs (a) to (d) by a corresponding authority for disclosure of such information, the request shall be complied with in a timely manner.
 
 (7) Where a management company of a common contractual fund, acting as a management company, enters into an occasional transaction with a designated person within the meaning of section 25 of the Act of 2010, or forms a business relationship with such a designated person, the management company shall—
 
@@ -48,6 +50,6 @@
 
 (d) notify the designated person of any change to the common contractual fund’s beneficial ownership register that occurs which is relevant to the occasional transaction or that occurs during the course of the business relationship formed, and the date on which it occurred within 14 days from the date on which the management company became aware of the change.
 
-(8) For the purposes of subsection (7), ‘occasional transaction’ means a transaction in relation to which the designated person is required to apply customer due diligence measures under Part 4 of the Act of 2010.
+(8) For the purposes of subsection (7), "occasional transaction" means a transaction in relation to which the designated person is required to apply customer due diligence measures under Part 4 of the Act of 2010.
 
 (9) A management company that fails to comply with subsection (1), (2), (3), (4), (5) or (7) shall be guilty of an offence.

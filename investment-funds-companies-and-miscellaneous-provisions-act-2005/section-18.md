@@ -28,6 +28,6 @@ Ref. No. Term or Construction of term or expression for purposes of this section
 
 4. “repurchase” “purchase”
 
-5. “UCITS” “common contractual fund” Ref. No. Term or Construction of term or expression for purposes of this section expression referred to in UCITS Regulations (1) (2) (3)
+5. “UCITS” “common contractual fund”
 
 6. “section 8 of the “section 13 of the Investment Funds, Compan- ies and Miscellaneous Unit Trusts Act Provisions Act 2005” 1990”
