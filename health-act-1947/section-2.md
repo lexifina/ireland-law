@@ -4,7 +4,17 @@ Definitions.
 
 (a) the statement of the name of such thing or of any brand, trade description or designation by reference to which such thing is sold, where such statement may reasonably be regarded as a recommendation of such thing to the public,
 
-(b) the statement of any properties of such thing on a label, container or wrapper used for such thing or in a leaflet, circular, pamphlet or brochure issued to the public or on request or given to a purchaser of such thing, and cognate words shall be construed accordingly; the word “aircraft” has the same meaning as it has in the Air Navigation and Transport Act, 1936 (No. 40 of 1936); the expression “chief medical officer” means a county medical officer for a county or a city medical officer for a county borough; the word “child” means a person who is less than sixteen years of age; the expression “coastal waters” means waters within a distance of three nautical miles from any point on the coast measured from low-water mark of ordinary spring tides; the word “disinfestations” means the cleansing and protection of any person or thing from vermin; the expression “district medical officer” means a medical officer of health under section 73 of this Act; the word “dwelling” includes—
+(b) the statement of any properties of such thing on a label, container or wrapper used for such thing or in a leaflet, circular, pamphlet or brochure issued to the public or on request or given to a purchaser of such thing, and cognate words shall be construed accordingly; the word “aircraft” has the same meaning as it has in the Air Navigation and Transport Act, 1936 (No. 40 of 1936);
+
+‘applicable traveller’ has the meaning assigned to it by section 38B(1);
+
+‘approved person’ has the meaning assigned to it by section 38H(1);
+
+‘approved services provider’ has the meaning assigned to it by section 38I(1); the expression “chief medical officer” means a county medical officer for a county or a city medical officer for a county borough; the word “child” means a person who is less than sixteen years of age; the expression “coastal waters” means waters within a distance of three nautical miles from any point on the coast measured from low-water mark of ordinary spring tides;
+
+‘designated facility’ has the meaning assigned to it by section 38F(1);
+
+‘designated state’ has the meaning assigned to it by section 38E(1); the word “disinfestations” means the cleansing and protection of any person or thing from vermin; the expression “district medical officer” means a medical officer of health under section 73 of this Act; the word “dwelling” includes—
 
 (a) a part of a house, and
 
@@ -24,9 +34,13 @@ Definitions.
 
 (a) as respects a health authority which is the corporation of a county borough—the manager for the purposes of the Acts relating to the management of the borough, and
 
-“(b) as respects a health authority which is the council of a county or a health authority established by the Health Authorities Act, 1960—the manager for the purposes of the County Management Acts, 1940 to 1955;”, the expression “medical officer of health” means a chief medical officer, an assistant county medical officer for a county, an assistant city medical officer for a county borough or any other medical officer who is an assistant to a chief medical officer or a district medical officer; the expression “the Minister” means the Minister for Health; the word “parent” means, in relation to a child, the person having the legal custody of the child and, where owing to the absence of such person or for any other reason the child is not living with or is not in the actual custody of such person, includes the person with whom the child is living or in whose actual custody the child is;
+(b) as respects a health authority which is the council of a county or a health authority established by the Health Authorities Act, 1960—the manager for the purposes of the County Management Acts, 1940 to 1955; the expression “medical officer of health” means a chief medical officer, an assistant county medical officer for a county, an assistant city medical officer for a county borough or any other medical officer who is an assistant to a chief medical officer or a district medical officer; the expression “the Minister” means the Minister for Health;
 
-‘penal provision’ means a provision that is stated in regulations under section 31A to be a penal provision for the purposes of this Act; the word “prescribed” means prescribed by regulations made by the Minister under this Act; the expression “public conveyance” includes a conveyance available for private hire; the expression “sanitary authority” has the same meaning as in the Public Health Acts, 1878 to 1931; the expression “the school manager” means in relation to a school or college, the person for the time being managing the school or college; the expression “temporary dwelling” means any—
+‘non-designated state’ has the meaning assigned to it by section 38B(1); the word “parent” means, in relation to a child, the person having the legal custody of the child and, where owing to the absence of such person or for any other reason the child is not living with or is not in the actual custody of such person, includes the person with whom the child is living or in whose actual custody the child is;
+
+‘penal provision’ means a provision that is stated in regulations under section 31A to be a penal provision for the purposes of this Act; the word “prescribed” means prescribed by regulations made by the Minister under this Act; the expression “public conveyance” includes a conveyance available for private hire;
+
+‘responsible person’ has the meaning assigned to it by section 38I(4). the expression “sanitary authority” has the same meaning as in the Public Health Acts, 1878 to 1931; the expression “the school manager” means in relation to a school or college, the person for the time being managing the school or college; the expression “temporary dwelling” means any—
 
 (a) tent, or
 
