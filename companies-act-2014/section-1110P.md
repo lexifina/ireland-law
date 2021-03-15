@@ -1,3 +1,5 @@
+## Offences and penalties
+
 Offences and penalties
 
 1110P. (1) Where a person fails to comply with any of the following provisions, that person and, where that person is a company, the company and any officer of it who is in default, shall be guilty of a category 3 offence:
