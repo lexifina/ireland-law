@@ -10,8 +10,6 @@ Length of notice of general meetings to be given by traded PLC
 
 (2) Notwithstanding section 181(1) as it applies by virtue of subsection (1) of this section, a general meeting of a PLC which is a traded PLC (other than an annual general meeting or an extraordinary general meeting for the passing of a special resolution) may be called by not less than 14 days’ notice if—
 
-5 OJ No. L 302, 17.11.2009, p. 32 6 OJ No. L 174, 1.7.2011, p. 1
-
 (a) the PLC offers the facility for members to vote by electronic means accessible to all members who hold shares that carry rights to vote at general meetings; and
 
 (b) a special resolution reducing the period of notice to 14 days has been passed at the immediately preceding annual general meeting, or at a general meeting held since that meeting.
