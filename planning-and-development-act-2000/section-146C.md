@@ -72,7 +72,7 @@ Preparation of environmental impact statement for purposes of section 146B.
 
 (d) the provisions of any special amenity area order relating to the area;
 
-(e) if the area or part of the area is a European site or an area prescribed for the purposes of section 1(2)(c), that fact;
+(e) if the area or part of the area is a European site or an area prescribed for the purposes of section 10(2)(c), that fact;
 
 (f) if the development concerned (were it to be carried out in the terms as they are proposed to be altered) would have an effect on a European site or an area prescribed for the purposes of section 10(2)(c), that fact;
 
