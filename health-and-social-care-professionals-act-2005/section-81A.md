@@ -1,6 +1,6 @@
 ## Part 7A
 
-F130[Restriction on prescribing spectacles and dispensing prescriptions for spectacles
+F128[Restriction on prescribing spectacles and dispensing prescriptions for spectacles
 
 81A. (1) A person shall not, on or after the relevant day, issue a prescription for spectacles unless he or she is a registered medical practitioner or a registrant of the designated profession of optometrist.
 

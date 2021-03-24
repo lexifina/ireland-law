@@ -1,4 +1,4 @@
-F133[Bye-laws for control of advertising
+F131[Bye-laws for control of advertising
 
 81D. (1) The Optical Registration Board may, by bye-laws, make provision for the control of advertising (including advertising by way of canvassing) which advertises—
 

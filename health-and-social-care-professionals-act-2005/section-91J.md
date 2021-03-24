@@ -1,4 +1,4 @@
-F154[Liability of Opticians Board for acts or omissions
+F152[Liability of Opticians Board for acts or omissions
 
 91J. (1) Neither the Opticians Board nor any person who is or was a member, officer or employee of the Opticians Board or a committee of the Opticians Board is liable for damages for anything done or omitted to be done by the Opticians Board or that person in good faith and without negligence under the Act of 1956.
 
