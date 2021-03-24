@@ -8,8 +8,8 @@ Duty to notify registrant of Council’s directions.
 
 (c) the reasons for the imposition of the sanction.
 
-(2) If the registration board was directed to impose a disciplinary sanction other than an admonishment or a censure, the notification under subsection (1) must also specify—
+(2) If the registration board was directed to impose a disciplinary sanction, the notification under subsection (1) must also specify—
 
 (a) the time allowed to the registrant for bringing an application to the Court for cancellation of the direction, and
 
-(b) the time allowed to the Council for bringing an application to the Court for confirmation of the direction.
+(b) in the case of a disciplinary sanction other than an admonishment or a censure, the time allowed to the Council for bringing an application to the Court for confirmation of the direction.

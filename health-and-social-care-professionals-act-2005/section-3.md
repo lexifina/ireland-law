@@ -8,6 +8,8 @@ Interpretation.
 
 “bye-law” means a bye-law made by a registration board under section 31;
 
+‘condition’ includes a restriction;
+
 “contact lenses” includes any device, designed to be worn in contact with the ocular surface, for the correction of vision, for the provision of a decorative or cosmetic effect, for a therapeutic purpose, or for any other reason, and regardless of the optical properties or the absence of optical properties of the device;
 
 “Council” means the Health and Social Care Professionals Council established under section 6;
@@ -32,7 +34,21 @@ Interpretation.
 
 “functions” includes duties and responsibilities;
 
+‘health or social care’, in relation to a person (howsoever described), means the health or social care that the person provides or has provided in his or her capacity or former capacity as a member of a relevant profession;
+
 “health or social care profession” has the meaning given by section 4(3);
+
+‘material matter’, in relation to a person (howsoever described), means—
+
+(a) any of the following taken by any regulatory body (whether in or outside the State) in relation to the provision of one or more than one kind of health or social care by the person—
+
+(i) the imposition of conditions on any registration or licence,
+
+(ii) the suspension, withdrawal or removal of any registration or licence, or
+
+(iii) the refusal to grant registration or a licence, or
+
+(b) a conviction in the State for an offence triable on indictment (other than a spent conviction within the meaning of section 5 of the Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016 ) or a conviction outside the State for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment;
 
 “Minister” means the Minister for Health and Children;
 
@@ -62,6 +78,22 @@ Interpretation.
 
 “relevant medical disability”, in relation to a person seeking registration as a member of a designated profession, or who is a registrant of that profession, means a physical or mental disability of the person (including addiction to alcohol or drugs) which may impair his or her ability to practise that profession or a particular aspect thereof;
 
+‘relevant profession’ means any of the following professions:
+
+(a) dentist;
+
+(b) a designated profession;
+
+(c) medical practitioner;
+
+(d) midwife;
+
+(e) nurse;
+
+(f) pharmacist;
+
+‘restriction’ includes a condition;
+
 “rule” means a rule made by the Council under section 22;
 
 ”spectacles” includes—
@@ -83,6 +115,8 @@ Interpretation.
 (2) In this Act “material interest” is to be construed in accordance with section 2(3) of the Ethics in Public Office Act 1995.
 
 (3) Unless the context otherwise requires, any reference in this Act to a register includes a division of the register and “registered” and “registration” are to be construed accordingly.
+
+(3A) Unless otherwise specified in this Act, nothing in this Act shall be construed to prejudice the performance by a registration board of its functions under the Professional Qualifications Regulations as the competent authority in respect of the regulated professions (within the meaning of Regulation 3 of those Regulations) concerned.
 
 (4) In this Act—
 

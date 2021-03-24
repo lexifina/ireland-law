@@ -8,6 +8,6 @@ Privilege relating to disciplinary proceedings.
 
 (c) reports of a committee of inquiry under section 63;
 
-(d) communications by the Council under section 64;
+(d) ...
 
 (e) any other communication made by a committee established under this Part, the Council or a registration board in performing a function or exercising a power of the committee, Council or board, as the case may be.

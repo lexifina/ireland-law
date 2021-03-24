@@ -4,7 +4,7 @@ Performance of DAHR procedure
 
 (a) a registered medical practitioner, or
 
-(b) a registered nurse.
+(b) a registered nurse or registered midwife.
 
 (2) A person shall not perform a DAHR procedure other than on the request of an intending parent.
 

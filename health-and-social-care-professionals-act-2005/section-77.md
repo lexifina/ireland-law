@@ -1,6 +1,6 @@
 Disciplinary information may be published in public interest.
 
-77.—The Council may, if satisfied that it is in the public interest to do so, advise the public when any of the following measures take effect under this Part:
+77.—(1) The Council shall (if satisfied that, in the case of an action referred to in paragraph (h) or (i), it is in the public interest to do so) advise the public when any of the following measures take effect under this Part:
 
 (a) the cancellation of a person's registration;
 
@@ -18,4 +18,6 @@ Disciplinary information may be published in public interest.
 
 (h) the admonishment or censuring of a person;
 
-(i) any action in respect of which the Minister is required to be notified under section 76(2).
+(i) any action in respect of which the Health Service Executive is required to be notified under section 76(2).
+
+(2) The Council shall not publish anything under this section which is inconsistent with a decision (if any) of the Court arising from the performance of a function under section 69 or 70.

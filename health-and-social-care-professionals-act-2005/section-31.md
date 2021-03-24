@@ -20,7 +20,7 @@ Registration board's power to make bye-laws.
 
 (I) holds an approved qualification (within the meaning of section 38), or
 
-(II) was awarded a Bachelor of Science in Applied Health Science and a Diploma in Physical Therapy by the Institute of Physical Therapy and Applied Science Dublin after 1 January 2013, and he or she has not practised the profession, for a period specified in the bye-laws, since obtaining the approved qualification or Bachelor of Science and Diploma concerned, or
+(II) was awarded both a Bachelor of Science in Applied Health Science by the Institute of Physical Therapy and Applied Science Dublin and a Diploma in Physical Therapy by that Institute, and he or she has not practised the profession, for a period specified in the bye-laws, since obtaining the approved qualification or Bachelor of Science and Diploma concerned, or
 
 (ii) resume the practice of that profession after not having practised the profession for a period specified in the bye-laws, including criteria or conditions relating to—
 
