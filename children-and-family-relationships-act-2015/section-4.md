@@ -70,6 +70,8 @@ Interpretation (Parts 2 and 3)
 
 “registered medical practitioner” means a person who is a registered medical practitioner within the meaning of section 2 of the Medical Practitioners Act 2007;
 
+“registered midwife” means a person whose name is entered for the time being in the midwives division of the register of nurses and midwives established under section 46 of the Nurses and Midwives Act 2011;
+
 “registered nurse” means a person whose name is entered for the time being in the nurses division of the register of nurses and midwives established under section 46 of the Nurses and Midwives Act 2011;
 
 “relevant donor” means, in relation to a donor-conceived child—

@@ -8,9 +8,15 @@ Complaints about conduct or competence of registrants.
 
 (c) a relevant medical disability,
 
-(d) a failure to comply with a term or condition of registration imposed under this Part,
+(d) a failure to comply with a term or condition of registration imposed under this Act,
 
 (e) a failure to comply with an undertaking or to take any action specified in a consent given in response to a request under section 61,
+
+(ea) the imposition on the registrant of—
+
+(i) a prohibition against him or her providing one or more than one kind of health or social care in the State or another jurisdiction, or
+
+(ii) a restriction on his or her ability to provide one or more than one kind of health or social care in the State or another jurisdiction,
 
 (f) a contravention of this Act, the rules or bye-laws, or
 

@@ -32,6 +32,8 @@ Referral of complaints to preliminary proceedings committee.
 
 (5) If requested by the preliminary proceedings committee to supply any information relating to the complaint, the registrant shall supply the information within such reasonable time as may be specified by that committee.
 
+(5A) Subsections (1)(c) and (2) (in so far as the last-mentioned subsection relates to the production of records) of section 59 shall apply to and in relation to the preliminary proceedings committee and the chairperson of that committee as those subsections apply to and in relation to a committee of inquiry and the chairperson of the committee of inquiry and the other provisions of section 59 (including subsections (5) to (7)) shall, with all necessary modifications, be construed accordingly.
+
 (6) Before forming an opinion on whether there is sufficient cause to warrant further action being taken in relation to the complaint, the preliminary proceedings committee shall consider—
 
 (a) any information supplied under this section concerning the complaint, and

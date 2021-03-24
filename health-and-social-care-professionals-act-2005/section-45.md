@@ -10,9 +10,9 @@ Updating of registrant information and correction of errors.
 
 (d) any change in the status of such licence, certificate or registration (including the attachment of conditions to it),
 
-(e) any matter likely to affect the registrant's entitlement to such licence, certificate or registration, and
+(e) any matter (including any material matter) likely to affect the registrant's entitlement to such licence, certificate or registration, and
 
-(f) any matter likely to affect the registrant's entitlement to be registered under this Act.
+(f) any matter (including any material matter) likely to affect the registrant's entitlement to be registered under this Act.
 
 (2) A registration board shall take the steps it considers necessary to ensure the accuracy of the information in its register.
 
