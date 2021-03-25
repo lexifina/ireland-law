@@ -1,4 +1,4 @@
-F96[Environmental impact assessment of certain proposals relating to the foreshore.
+F99[Environmental impact assessment of certain proposals relating to the foreshore.
 
 13A.—(1)(a) The appropriate Minister shall, as part of his consideration of a relevant application, in accordance with paragraph (b), ensure that, before a decision on the application is given, projects likely to have significant effects on the environment by virtue, inter alia, of their nature, size or location are made subject to an environmental impact assessment.
 
@@ -16,23 +16,63 @@ F96[Environmental impact assessment of certain proposals relating to the foresho
 
 (B) no quantity, area or other limit is specified in that Part in respect of the development concerned.
 
-(ii) An environmental impact assessment shall be carried out by the appropriate Minister in respect of a proposed development where such development—
+(ii) An environmental impact assessment shall be carried out by the appropriate Minister in respect of a proposed development where—
+
+(I) such development would be of a class specified in Part 2 of Schedule 5 to the Planning and Development Regulations 2001 ( S.I. No. 600 of 2001 ) but does not exceed the relevant quantity, area or other limit specified in that Part, and
+
+(II) the appropriate Minister determines that the proposed development would be likely to have significant effects on the environment.
 
 (I) would be of a class specified in Part 2 of Schedule 5 of the Planning and Development Regulations 2001 but does not exceed the relevant quantity, area or other limit specified in that Part, and
 
 (II) the appropriate Minister determines that the proposed development would be likely to have significant effects on the environment.
 
-(c) An environmental impact statement shall be submitted with all applications for consent in respect of development referred to in paragraph (b)(i) and shall also be submitted where the appropriate Minister determines that development referred to in paragraph (b)(ii) would be likely to have significant effects on the environment.
+(bb) In carrying out an environmental impact assessment on a proposed development under this section, the appropriate Minister shall, where appropriate, coordinate the assessment with any assessment of the proposed development under Council Directive 92/43/EEC of 21 May 1992 or Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009.
 
-(d) The appropriate Minister shall require the production by the applicant of any additional or supplemental information that he considers necessary to enable him to make an assessment as required under this section.
+(c) An environmental impact assessment report shall be submitted with all applications for consent in respect of development referred to in paragraph (b)(i) and shall also be submitted where the appropriate Minister determines that development referred to in paragraph (b)(ii) would be likely to have significant effects on the environment.
 
-(e) The appropriate Minister shall consider the content of the environmental impact statement (and any other material including maps or plans) submitted as part of the application and determine whether same adequately identifies, describes and assesses the direct and indirect effects on the environment of the proposed development.
+(cc) An applicant who submits an environmental impact assessment report in accordance with this section shall ensure that an environmental impact assessment report is—
 
-(f) If he considers that the environmental impact statement (and other material) is inadequate, then the appropriate Minister shall serve a notice (in this section referred to as ‘a request for further information’) which sets out the manner in which the information is inadequate and requires the applicant to submit further information to remedy those inadequacies.
+(i) prepared by competent experts, and
 
-(2)(a) In carrying out his consideration and environmental impact assessment the appropriate Minister shall have regard to the following matters:
+(ii) subject to subsection (3A), contains the following information:
 
-(i) the particulars submitted with the application for consent, including the environmental impact statement and any other material, including maps and plans,
+(I) a description of the proposed development comprising information on the site, design, size and other relevant features of the proposed development;
+
+(II) a description of the likely significant effects of the proposed development on the environment;
+
+(III) a description of the features of the proposed development and of measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment;
+
+(IV) a description of the reasonable alternatives studied by the applicant, which are relevant to the proposed development and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the proposed development on the environment;
+
+(V) a non-technical summary of the information referred to in points (I) to (IV);
+
+(VI) any additional information specified in Schedule 6 to the Planning and Development Regulations 2001 that is relevant to the specific characteristics of the particular proposed development or type of proposed development and to the environmental features likely to be affected; and
+
+(iii) takes into account the available results of other relevant assessments carried out pursuant to any Act or under European Union legislation with a view to avoiding duplication of assessments.
+
+(cd) Where the appropriate Minister issues an opinion under subsection (3A)(a)(iii) the applicant shall —
+
+(i) prepare the environmental impact assessment report referred to in paragraph (cc) based on that opinion, and
+
+(ii) include in the report the information that may reasonably be required for reaching a reasoned conclusion on the significant effects of the proposed development on the environment, taking into account current knowledge and methods of assessment.
+
+(d) The appropriate Minister shall require the production by the applicant of any additional or supplemental information specified in Schedule 6 to the Planning and Development Regulations 2001 relevant to the specific characteristics of the particular project or type of project and to the environmental features likely to be affected that he considers necessary to enable him to make an assessment as required under this section.
+
+(e) The appropriate Minister shall consider the content of the environmental impact assessment report (and any other material including maps or plans) submitted as part of the application and determine whether same adequately identifies, describes and assesses the direct and indirect effects on the environment of the proposed development.
+
+(f) If he considers that the environmental impact assessment report (and other material) is inadequate, then the appropriate Minister shall serve a notice (in this section referred to as ‘a request for further information’) which sets out the manner in which the information is inadequate and requires the applicant to submit further information to remedy those inadequacies.
+
+(g) The appropriate Minister shall ensure that he or she has access to sufficient expertise to examine the environmental impact assessment report.
+
+(2) (a) In carrying out his or her consideration and environmental impact assessment of a relevant application the appropriate Minister shall duly take into account—
+
+(i) the particulars submitted with the relevant application, including the environmental impact assessment report and any other material, including maps and plans,
+
+(ii) any additional or supplemental information or any further information submitted in response to a requirement, if any, pursuant to paragraph (d) or (f) of subsection (1),
+
+(iii) any submissions or observations made in relation to the effects on the environment of the proposed development, including those made by bodies prescribed under section 18A(vi) or members of the public, and
+
+(iv) the views, if any, furnished by other Member States of the European Communities pursuant to section 19C, and reach a reasoned conclusion on the significant effects of the relevant application on the environment.
 
 (ii) any additional material submitted in response to a request for further information, if any, pursuant to paragraph (f) of subsection (1),
 
@@ -40,23 +80,45 @@ F96[Environmental impact assessment of certain proposals relating to the foresho
 
 (iv) the views, if any, furnished by other Member States of the European Communities pursuant to section 19C.
 
-(b) In the event that the appropriate Minister decides to grant consent for the relevant application, he may attach such conditions to the consent as he considers necessary to avoid, reduce and, if possible, offset the major adverse effects (if any) of the proposed development.
+(b) In the event that the appropriate Minister decides to grant consent for the relevant application, he may attach such conditions to the consent as he considers necessary to avoid, prevent or reduce and, if possible, offset significant adverse effects (if any) on the environment of the proposed development as well as, where appropriate, conditions regarding monitoring measures.
+
+(bb) A person who fails to comply with a condition attached to a consent under paragraph (b) shall be guilty of an offence and shall be liable —
+
+(i) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 6 months or to both, and
+
+(ii) on conviction on indictment, to a fine not exceeding €500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both.
 
 (c) In carrying out his consideration and environmental impact assessment, the appropriate Minister may have regard to, and adopt in whole or in part, any reports prepared by his officials or by consultants, experts or other advisors.
 
-(d) When a decision to grant or refuse consent for the relevant application has been taken, the appropriate Minister shall, without prejudice to section 21A, inform the applicant and the public thereof and shall make the following information available to the applicant and the public:
+(cc) The appropriate Minister having reached a reasoned conclusion under paragraph (a), and being satisfied that the reasoned conclusion remains up-to-date, shall make a decision to grant or refuse consent for the relevant application within a reasonable period of time after receipt of an environmental impact assessment report under subsection (1)(c), or of receipt of additional or supplemental information or any further information furnished under paragraph (d) or (f) of subsection (1), whichever is the later.
 
-(i) the content of the decision and any conditions attached thereto,
+(cd) A decision under paragraph (cc) to grant consent for the relevant application shall include —
 
-(ii) his evaluation of the project’s direct and indirect effects on the factors set out in paragraphs (a) to (c) of the definition of ‘environmental impact assessment’ and the interaction between those factors,
+(i) the reasoned conclusion referred to in paragraph (a),
 
-(iii) having examined the concerns and opinions expressed by the public concerned, the main reasons and considerations on which the decision is based and the main reasons and considerations for the attachment of any conditions,
+(ii) any conditions attached to the consent under subsection (2)(b), including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring, to which the consent is subject, and
 
-(iv) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects,
+(iii) a description of any features of the proposed development, or any measures envisaged, to avoid, prevent or reduce, or offset significant adverse effects on the environment.
 
-(v) the reports referred to in paragraph (c),
+(ce) A decision under paragraph (cc) to refuse consent for the relevant application shall include the main reasons for the refusal.
 
-(vi) information for the public on the procedures available to review the substantive and procedural legality of the decision.
+(d) Where the appropriate Minister makes a decision referred to in paragraph (cc) he or she shall, without prejudice to section 21A, inform the applicant and the public thereof and publish in one or more newspapers circulating in the area in which the proposed development would take place, and in electronic form on the website of the Department of which the appropriate Minister is in charge at the location referred to in section 19A(2A)(g), a notice stating —
+
+(i) that the appropriate Minister has made a decision to grant or, as the case may be, refuse consent for the relevant application,
+
+(ii) the main reasons and considerations on which the decision to grant or refuse consent is based, including —
+
+(I) information about the public participation process,
+
+(II) a summary of the results of the consultations and the information with the bodies prescribed under section 18A(vi) and where information was sent to another Member State in accordance with section 19C(1), the results of consultations and the information gathered under section 19C(3), and,
+
+(III) a description of how the results referred to in clause (II) have been incorporated or otherwise addressed,
+
+(iii) where conditions (including conditions regarding monitoring measures, parameters to be monitored and the duration of monitoring) were attached to the consent granted, particulars of those conditions,
+
+(iv) that a copy of the decision is available for inspection during specified hours, at a specified place, for a specified period of time, and in electronic form on the website of the Department of which the appropriate Minister is in charge at the location referred to in section 19A(2A)(g),
+
+(v) that practical information regarding the judicial review procedures by which a person may seek to question the validity of any determination by the appropriate Minister in respect of a relevant application for consent can be found in electronic form on the website of the appropriate Minister at the location referred to in section 19A(2A)(g).
 
 (2A) Where a relevant application would involve the undertaking of development which would—
 
@@ -88,13 +150,37 @@ F96[Environmental impact assessment of certain proposals relating to the foresho
 
 (vi) land designated as a refuge for fauna under section 17 of the Wildlife Act, 1976, (No. 39 of 1976), the appropriate Minister shall decide whether the said development would or would not be likely to have significant effects on the environment.
 
-(2B) The appropriate Minister shall, where he is deciding pursuant to this section whether a proposed development would or would not be likely to have significant effects on the environment, have regard to the criteria specified in Annex III to the Council Directive.
+(2AB) A person that makes a relevant application referred to in subsection 1(b)(ii)(I) shall provide the appropriate Minister with the information specified in the Schedule 7A to the Planning and Development Regulations 2001 and shall take into account, where relevant, the available results of other relevant assessments of the effects on the environment carried out pursuant to European Union legislation (other than the Council Directive).
 
-(2C) Where the appropriate Minister makes a decision pursuant to subsection (2A) on whether a proposed development would or would not be likely to have significant effects on the environment, he shall make arrangements to make the said decision available for inspection by members of the public.
+(2AC) A person that makes a relevant application referred to in subsection 1(b)(ii)(I) may also provide a description of any features of the development or measures envisaged to avoid or prevent significant adverse effects on the environment.
+
+(2B) Where the appropriate Minister receives information from an applicant in accordance with subsection (2AB) he or she shall decide whether the said development would or would not be likely to have significant effects on the environment on the basis of such information, taking into account the relevant selection criteria specified in Schedule 7 to the Planning and Development Regulations 2001 and, where relevant, the results of preliminary verifications or assessments of the effects on the environment carried out pursuant to European Union legislation (other than the Council Directive).
+
+(2BB) A decision by the appropriate Minister as to whether a relevant application referred to in subsection 1(b)(ii)(I) would or would not be likely to have significant effects on the environment shall—
+
+(a) where the appropriate Minister determines that the development would be likely to have significant effects on the environment, specify, with reference to the relevant criteria listed in Schedule 7 to the Planning and Development Regulations 2001 the main reasons for that determination, and
+
+(b) where the appropriate Minister determines that the development would not be likely to have significant effects on the environment, specify–
+
+(i) with reference to the relevant criteria listed in the Schedule 7 to the Planning and Development Regulations 2001, the main reasons for that determination, and
+
+(ii) any features of the proposed development, and measures proposed by the applicant, to avoid or prevent significant adverse effects on the environment.
+
+(2BC) Subject to subsection (2BD), the appropriate Minister shall make a decision as to whether a development would or would not be likely to have significant effects on the environment as soon as possible and within 90 days from the date on which the applicant has submitted all the information required by the appropriate Minister under subsection (2B).
+
+(2BD) The appropriate Minister may, in exceptional cases, including where it is justified by the nature, complexity, location or size of the project, extend the 90 day period referred to in subsection (2BC) in order to make his or her determination and in such cases it shall inform the applicant in writing of the reasons justifying the extension and of the date when his or her determination is expected.
+
+(2C) Where the appropriate Minister makes a decision as to whether a relevant application would or would not be likely to have significant effects on the environment, he shall make arrangements to make the said decision available for inspection by members of the public and shall make an electronic version of it available to the public on the website of the Department of which the appropriate Minister is in charge at the location referred to in section 19A(2A)(g).
 
 (3) ...
 
-(3A) (a) If a person, before submitting an environmental impact statement in accordance with a requirement of or under this section, so requests, the appropriate Minister shall, after consulting the person who made the request and such bodies as may be prescribed for that purpose, give a written opinion on the information to be contained in such statement.
+(3A) (a) The appropriate Minister shall, on the request of an applicant made before the applicant submits an environmental impact assessment report in accordance with this section —
+
+(i) consult with the applicant,
+
+(ii) consult with the bodies prescribed under section 18A(1)(a) in respect of applications under subparagraph (vi) of that paragraph, and
+
+(iii) taking into account the information provided by the applicant in particular on the specific characteristics of the project, including its location and technical capacity, and its likely impact on the environment, issue an opinion on the scope, and level of detail, of the information to be included by the applicant in the environmental impact assessment report in accordance with subsection (1)(cc).
 
 (b) The giving of a written opinion in accordance with paragraph (a) of this subsection shall not prejudice the exercise by the appropriate Minister of his powers under this Act to require the person who made the request to furnish further information in relation to the effects on the environment of development proposed in the relevant application concerned.
 
@@ -134,4 +220,4 @@ F96[Environmental impact assessment of certain proposals relating to the foresho
 
 (d) an application to the Minister for the Environment, Heritage and Local Government for his consent under section 13 of this Act for the deposit of material on the foreshore.
 
-(6) In this section ‘relevant application’ does not include an application for an aquaculture licence (within the meaning of the Fisheries (Amendment) Act 1997) that is accompanied by an environmental impact statement.
+(6) In this section ‘relevant application’ does not include an application for an aquaculture licence (within the meaning of the Fisheries (Amendment) Act 1997) that is accompanied by an environmental impact assessment report.
