@@ -1,4 +1,4 @@
-F150[Publication of notice of Minister’s decision in relation to certain relevant applications.
+F162[Publication of notice of Minister’s decision in relation to certain relevant applications.
 
 21A.— When the appropriate Minister determines a relevant application, that Minister shall—
 
@@ -8,4 +8,4 @@ F150[Publication of notice of Minister’s decision in relation to certain relev
 
 (c) inform a Member State to which section 19C of this Act applies in respect of the relevant application of the determination and matters specified in paragraph (a) of this section, and
 
-(d) arrange to make the environmental impact statement relating to the relevant application and other material upon which the determination was based available for inspection for such period as that Minister considers appropriate.
+(d) arrange to make the environmental impact assessment report relating to the relevant application and other material upon which the determination was based available for inspection for such period as that Minister considers appropriate.
