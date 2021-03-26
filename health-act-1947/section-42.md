@@ -2,13 +2,15 @@ Nurses for infectious diseases.
 
 42.—(1) A health authority may provide nurses for attendance on persons suffering from infectious disease.
 
-(2) Where a person is attended by a nurse provided under this section, the health authority concerned may either:—
+(2) Subject to subsection (2A), where a person is attended by a nurse provided under this section, the health authority concerned may either:—
 
 (a) at their discretion but subject to any relevant regulations under section 31 of this Act, make a charge for the attendance, or
 
 (b) make no charge therefor.
 
-(3) A charge under subsection (2) of this section for the attendance of a nurse on any person may be recovered as a simple contract debt in any court of competent jurisdiction from—
+(2A) A charge shall be made for the attendance on persons at a designated facility.
+
+(3) A charge under subsection (2) or (2A) of this section for the attendance of a nurse on any person may be recovered as a simple contract debt in any court of competent jurisdiction from—
 
 (a) such person or, in case such person has died, his legal personal representative, or
 

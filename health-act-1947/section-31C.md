@@ -6,7 +6,7 @@ Fixed payment notice in respect of certain alleged offences.
 
 (b) particulars of that alleged offence,
 
-(c) that the person may, during the period of 28 days beginning on the date of the notice, make to such person as is specified in the notice at such place as is so specified a payment of such amount as may be prescribed being an amount of not more than €500, accompanied by the notice,
+(c) that the person may, during the period of 28 days beginning on the date of the notice, make to such person as is specified in the notice at such place as is so specified a payment of such amount as may be prescribed being an amount of not more than €2,000, accompanied by the notice,
 
 (d) that the person is not obliged to make the payment specified in the notice, and
 
