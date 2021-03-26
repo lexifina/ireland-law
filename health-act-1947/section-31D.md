@@ -1,4 +1,4 @@
-F32[Power of member of Garda Síochána to give direction
+F37[Power of member of Garda Síochána to give direction
 
 31D. (1) Without prejudice to the generality of subsection (7) of section 31A, where a member of the Garda Síochána finds a person in a public place and suspects, with reasonable cause, that such person—
 
@@ -18,4 +18,4 @@ F32[Power of member of Garda Síochána to give direction
 
 (4) It shall be an offence for any person, without reasonable excuse, to fail to comply with a direction given by a member of the Garda Síochána under this section.
 
-(5) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding €1,000 or imprisonment for a term not exceeding one month or both.
+(5) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding €4,000 or imprisonment for a term not exceeding one month or both.

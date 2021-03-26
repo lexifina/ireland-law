@@ -1,4 +1,4 @@
-F31[Fixed payment notice in respect of certain alleged offences
+F35[Fixed payment notice in respect of certain alleged offences
 
 31C. (1) Where a member of the Garda Síochána has reasonable grounds for believing that a person has committed an offence consisting of a contravention of a fixed penalty provision, that member may give to the person a notice in writing (in this section referred to as a ‘fixed payment notice’) in the prescribed form stating—
 
@@ -6,7 +6,7 @@ F31[Fixed payment notice in respect of certain alleged offences
 
 (b) particulars of that alleged offence,
 
-(c) that the person may, during the period of 28 days beginning on the date of the notice, make to such person as is specified in the notice at such place as is so specified a payment of such amount as may be prescribed being an amount of not more than €500, accompanied by the notice,
+(c) that the person may, during the period of 28 days beginning on the date of the notice, make to such person as is specified in the notice at such place as is so specified a payment of such amount as may be prescribed being an amount of not more than €2,000, accompanied by the notice,
 
 (d) that the person is not obliged to make the payment specified in the notice, and
 
