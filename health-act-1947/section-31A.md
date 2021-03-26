@@ -1,4 +1,4 @@
-F24[Regulations for preventing, limiting, minimising or slowing spread of Covid-19
+F25[Regulations for preventing, limiting, minimising or slowing spread of Covid-19
 
 31A. (1) The Minister may, having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2), make regulations for the purpose of preventing, limiting, minimising or slowing the spread of Covid-19 (including the spread outside the State) or where otherwise necessary, to deal with public health risks arising from the spread of Covid-19 and, without prejudice to the generality of the foregoing, such regulations may, in particular, provide for all or any of the following:
 
@@ -138,6 +138,8 @@ F24[Regulations for preventing, limiting, minimising or slowing spread of Covid-
 
 (6E) In proceedings for an offence under this section consisting of a contravention of a dwelling event provision, it shall be presumed, unless the contrary is proved, that the occupier of the dwelling in respect of which the offence is alleged to have been committed was the event organiser.
 
+(6F) In any prosecution for an offence under this section in respect of which a person is seeking to rely on a defence of reasonable excuse, it shall be for the person, for that purpose, to adduce evidence of the existence of such reasonable excuse in respect of the offence concerned.
+
 (7) A member of the Garda Síochána who suspects, with reasonable cause, that a person is contravening or has contravened a provision of a regulation made under subsection (1) that is stated to be a penal provision, may, for the purposes of ensuring compliance with the regulation, direct the person to take such steps as the member considers necessary to comply with the provision.
 
 (8) (a) A person who, without lawful authority or reasonable excuse, fails to comply with a direction under subsection (7) shall be guilty of an offence.
@@ -152,11 +154,11 @@ F24[Regulations for preventing, limiting, minimising or slowing spread of Covid-
 
 (12) (a) Subject to paragraph (b), a person guilty of an offence under this section is liable on summary conviction—
 
-(i) in the case of a first such offence, to a fine not exceeding €1,000 or imprisonment for a term not exceeding one month or both,
+(i) in the case of a first such offence, to a fine not exceeding €4,000 or imprisonment for a term not exceeding one month or both,
 
-(ii) in the case of a second such offence, to a fine not exceeding €1,500 or imprisonment for a term not exceeding 3 months or both, and
+(ii) in the case of a second such offence, to a fine not exceeding €4,500 or imprisonment for a term not exceeding 3 months or both, and
 
-(iii) in the case of a third or subsequent such offence, to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
+(iii) in the case of a third or subsequent such offence, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 6 months or both.
 
 (b) Notwithstanding subparagraph (i) or (ii) of paragraph (a), the court may, in respect of an offence to which either of those subparagraphs applies, impose a fine or term of imprisonment or both, to which a person guilty of an offence referred to in subparagraph (iii) of that paragraph would be liable, if the court considers that there were aggravating circumstances in relation to the commission of the first-mentioned offence that warrant the imposition of such fine or term of imprisonment or both.
 
@@ -218,7 +220,7 @@ F24[Regulations for preventing, limiting, minimising or slowing spread of Covid-
 
 ‘premises’ includes a building or any part of a building, any outdoor space surrounding or adjacent to the premises, whether or not used in conjunction with the premises, any land, premises, tent, caravan, or other temporary or moveable structure, ship or other vessel, aircraft, railway carriage or other vehicle (whether stationary or otherwise) and any storage container.
 
-(17) In this section, section 31B and section 38A—
+(17) In this section, sections 31B, 38A, 38B, 38C, 38D, 38E, 38F and 38G—
 
 ‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
 
