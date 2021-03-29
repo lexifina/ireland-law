@@ -44,7 +44,11 @@ Interpretation.
 
 (e) Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms,
 
-(f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
+(f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the
+
+14 OJ No. L. 11, 17.1.2015, p. 37. 15 OJ No. L. 171, 29.6.2016, p. 153. 16 OJ No. L. 310, 25.11.2017, p. 1. 17 OJ No. L. 345, 27.12.2017, p. 27. 18 OJ No. L. 347, 28.12.2017, p. 1. 19 OJ No. L. 74, 16.3.2018, p. 3.
+
+European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
 
 (g) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019 amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
 
@@ -57,8 +61,6 @@ Interpretation.
 ‘Central Bank Acts’ means the Central Bank Acts 1942 to 1998 and includes any later Act that is to be construed as one with those or any of those Acts;
 
 ‘Commission’ means the Central Bank Commission;
-
-14 OJ No. L. 11, 17.1.2015, p. 37. 15 OJ No. L. 171, 29.6.2016, p. 153. 16 OJ No. L. 310, 25.11.2017, p. 1. 17 OJ No. L. 345, 27.12.2017, p. 27. 18 OJ No. L. 347, 28.12.2017, p. 1. 19 OJ No. L. 74, 16.3.2018, p. 3. 20 OJ No. L. 111, 25.4.2019, p. 4. 21 OJ No. L. 150, 7.6.2019, p. 1. 22 OJ No. L. 314, 5.12.2019, p. 1. 23 OJ. No. L. 204, 26.6.2020, p. 4.
 
 ‘consolidated bank note’ has the same meaning as in the Currency Act 1927;
 
@@ -87,6 +89,8 @@ Interpretation.
 ‘employee’, in relation to the Bank, includes the Secretary of the Bank;
 
 ‘enactment’ includes any instrument made under an enactment;
+
+20 OJ No. L. 111, 25.4.2019, p. 4. 21 OJ No. L. 150, 7.6.2019, p. 1. 22 OJ No. L. 314, 5.12.2019, p. 1. 23 OJ. No. L. 204, 26.6.2020, p. 4.
 
 ‘ESCB Statute’ means the Statute of the European System of Central Banks and of the European Central Bank as set out in Protocol (No. 3) (annexed by the Treaty on European Union done at Maastricht on February 1992) to the Rome Treaty;
 
@@ -282,13 +286,13 @@ Interpretation.
 
 (aw) Commission Delegated Regulation (EU) 2018/389 of of 27 November 2017;
 
-OJ, No L171, 29.6.2016, p. 1
-
 (ax) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017;
 
 (ay) Commission Delegated Regulation (EU) 2019/979 of 14 March 2019;
 
-(az) Commission Delegated Regulation (EU) 2019/980 of 14 March 2019.
+(az) Commission Delegated Regulation (EU) 2019/980 of 14 March 2019;
+
+(ba) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019.
 
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
 
@@ -297,3 +301,5 @@ OJ, No L171, 29.6.2016, p. 1
 (5) In this Act, a reference to the directors of a company, in relation to a company that does not have a board of directors, is a reference to the persons responsible for directing the operations of the company.
 
 (6) References in this Act to a regulated financial service provider shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider at the relevant time.
+
+OJ, No L171, 29.6.2016, p. 1
