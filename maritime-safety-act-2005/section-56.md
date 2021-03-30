@@ -36,7 +36,7 @@ Amendment of Canals Act 1986.
 
 “Fixed
 
-7A.—(1) Where an authorised officer of Waterways Ireland has reason- payment able grounds for believing that a person is committing or has committed notice. an offence under section 7, he or she may serve the person with a notice, in the form specified by Waterways Ireland in bye-laws under section 7 stating that—
+7A.—(1) Where an authorised officer of Waterways Ireland has payment reasonable grounds for believing that a person is committing or has notice. committed an offence under section 7, he or she may serve the person with a notice, in the form specified by Waterways Ireland in bye-laws under section 7 stating that—
 
 (a) the person is alleged to have committed the offence, and
 
