@@ -2,11 +2,11 @@ Committal of person named in European arrest warrant.
 
 16.—(1) Where a person does not consent to his or her surrender to the issuing state ... the High Court may, upon such date as is fixed under section 13 or such later date as it considers appropriate, make an order directing that the person be surrendered to such other person as is duly authorised by the issuing state to receive him or her, provided that—
 
-(a) the High Court is satisfied that the person before it is the person in respect of whom the European arrest warrant was issued,
+(a) the High Court is satisfied that the person before it is the person in respect of whom the relevant arrest warrant was issued,
 
-(b) the European arrest warrant, or a ... true copy thereof, has been endorsed in accordance with section 13 for execution of the warrant,
+(b) the relevant arrest warrant, or a ... true copy thereof, has been endorsed in accordance with section 13 for execution of the warrant,
 
-(c) the European arrest warrant states, where appropriate, the matters required by section 45 (inserted by section 23 of the European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012),
+(c) the European arrest warrant or Trade and Cooperation Agreement arrest warrant, as the case may be, states, where appropriate, the matters required by section 45 (inserted by section 23 of the European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012),
 
 (d) the High Court is not required, under section 21A, 22, 23 or 24 (inserted by sections 79, 80, 81 and 82 of the Criminal Justice (Terrorist Offences) Act 2005), to refuse to surrender the person under this Act, and
 
@@ -14,9 +14,9 @@ Committal of person named in European arrest warrant.
 
 (2) Where a person does not consent to his or her surrender to the issuing state ..., the High Court may, upon such date as is fixed under section 14 or such later date as it considers appropriate, make an order directing that the person be surrendered to such other person as is duly authorised by the issuing state to receive him or her, provided that—
 
-(a) the European arrest warrant, including, where appropriate, the matters required by section 45 (inserted by section 23 of the European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012), is provided to the court,
+(a) the European arrest warrant or Trade and Cooperation Agreement arrest warrant, as the case may be, including, where appropriate, the matters required by section 45 (inserted by section 23 of the European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012), is provided to the court,
 
-(b) the High Court is satisfied that the person before it is the person in respect of whom the European arrest warrant was issued,
+(b) the High Court is satisfied that the person before it is the person in respect of whom the relevant arrest warrant was issued,
 
 (c) the High Court is not required, under section 21A, 22, 23 or 24 (inserted by sections 79, 80, 81 and 82 of the Criminal Justice (Terrorist Offences) Act 2005), to refuse to surrender the person under this Act, and
 

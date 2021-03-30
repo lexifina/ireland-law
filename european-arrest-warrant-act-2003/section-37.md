@@ -10,11 +10,11 @@ Fundamental rights.
 
 (ii) the Protocols to the Convention,
 
-(b) his or her surrender would constitute a contravention of any provision of the Constitution (other than for the reason that the offence specified in the European arrest warrant is an offence to which section 38(1)(b) applies),
+(b) his or her surrender would constitute a contravention of any provision of the Constitution (other than for the reason that the offence specified in the relevant arrest warrant is an offence to which section 38(1)(b) applies),
 
 (c) there are reasonable grounds for believing that—
 
-(i) the European arrest warrant was issued in respect of the person for the purposes of facilitating his or her prosecution or punishment in the issuing state for reasons connected with his or her sex, race, religion, ethnic origin, nationality, language, political opinion or sexual orientation, or
+(i) the relevant arrest warrant was issued in respect of the person for the purposes of facilitating his or her prosecution or punishment in the issuing state for reasons connected with his or her sex, race, religion, ethnic origin, nationality, language, political opinion or sexual orientation, or
 
 (ii) in the prosecution or punishment of the person in the issuing state, he or she will be treated less favourably than a person who—
 

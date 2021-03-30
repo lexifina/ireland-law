@@ -1,6 +1,6 @@
 Issue of European arrest warrant by court in State.
 
-33.— (1) A court may, upon an application made by or on behalf of the Director of Public Prosecutions, issue a European arrest warrant in respect of a person where it is satisfied that—
+33.— (1) A court may, upon an application made by or on behalf of the Director of Public Prosecutions, issue a relevant arrest warrant in respect of a person where it is satisfied that—
 
 (a) a domestic warrant has been issued for the arrest of that person but has not been executed, and
 
@@ -10,35 +10,43 @@ Issue of European arrest warrant by court in State.
 
 (1B) ...
 
-(2) A European arrest warrant shall, in so far as is practicable, be in the form set out in the Annex to the Framework Decision as amended by Council Framework Decision 2009/299/JHA and shall specify—
+(2) A relevant arrest warrant shall, in so far as is practicable —
+
+(a) in the case of a European arrest warrant, be in the form set out in the Annex to the Framework Decision as amended by Council Framework Decision 2009/299/JHA,
+
+(b) in the case of a Trade and Cooperation Agreement arrest warrant, be in the form set out in Annex Law-5 to the Trade and Cooperation Agreement, and
+
+(c) in the case of an arrest warrant within the meaning of the EU-Iceland Norway Agreement, be in the form set out in the Annex to the EU-Iceland Norway Agreement.
+
+(2A) A relevant arrest warrant shall specify —
 
 (a) the name and the nationality of the person to whom it relates,
 
-(b) the name, address, fax number and e-mail address of—
+(b) the name, address, fax number and e-mail address of —
 
-(i) the District Court Office for the district in which the District Court was sitting when it issued the European arrest warrant,
+(i) the District Court Office for the district in which the District Court was sitting when it issued the relevant arrest warrant,
 
-(ii) the Circuit Court Office of the county in which the Circuit Criminal Court was sitting when it issued the European arrest warrant,
+(ii) the Circuit Court Office of the county in which the Circuit Criminal Court was sitting when it issued the relevant arrest warrant,
 
 (iii) the Central Office of the High Court, or
 
 (iv) the Registrar of the Special Criminal Court, as may be appropriate,
 
-(c) the offence to which the European arrest warrant relates including a description thereof,
+(c) the offence to which the relevant arrest warrant relates including a description thereof,
 
 (d) that a conviction, sentence or detention order is immediately enforceable against the person, or that a domestic warrant for his or her arrest has been issued in respect of that offence,
 
 (e) the circumstances in which the offence was committed or is alleged to have been committed, including the time and place of its commission or alleged commission, and the degree of involvement or alleged degree of involvement of the person in the commission of the offence, and
 
-(f)(i) the penalties to which the person named in the European arrest warrant would, if convicted of the offence to which the European arrest warrant relates, be liable,
+(f) (i) the penalties to which the person named in the relevant arrest warrant would, if convicted of the offence to which the relevant arrest warrant relates, be liable,
 
-(ii) where the person named in the European arrest warrant has been convicted of the offence specified therein and a sentence has been imposed in respect thereof, the penalties of which that sentence consists, and
+(ii) where the person named in the relevant arrest warrant has been convicted of the offence specified therein and a sentence has been imposed in respect thereof, the penalties of which that sentence consists, and
 
-(iii) where the person named in the European arrest warrant has been convicted of the offence specified therein but has not yet been sentenced, the penalties to which he or she is liable in respect of the offence.
+(iii) where the person named in the relevant arrest warrant has been convicted of the offence specified therein but has not yet been sentenced, the penalties to which he or she is liable in respect of the offence.
 
-(3) Where it is not practicable for the European arrest warrant to be in the form set out in the Annex to the Framework Decision, the European arrest warrant shall, in addition to containing the information specified in subsection (2), include such other information as would be required to be provided were it in that form.
+(3) Where it is not practicable for the relevant arrest warrant to be in the form referred to in subsection (2) the warrant shall, in addition to containing the information specified in subsection (2A), include such other information as would be required to be provided were it in that form.
 
-(4) For the avoidance of doubt, a European arrest warrant may be issued in respect of one or more than one offence.
+(4) For the avoidance of doubt, a relevant arrest warrant may be issued in respect of one or more than one offence.
 
 (5) In this section “court” means—
 

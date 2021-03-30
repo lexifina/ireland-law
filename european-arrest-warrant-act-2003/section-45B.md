@@ -2,7 +2,7 @@ Transfer of persons to state from which surrendered.
 
 45B.— (1) Where a national or resident of another state from which he or she is surrendered—
 
-(a) is surrendered to the State pursuant to a European arrest warrant with a view to being prosecuted in the State, and
+(a) is surrendered to the State pursuant to a relevant arrest warrant with a view to being prosecuted in the State, and
 
 (b) whose surrender is subject to the condition that he or she, after being so prosecuted, is returned if he or she so consents to that other state in order to serve any custodial sentence or detention order imposed upon him or her in the State, the Minister shall, following the final determination of the proceedings and if the person consents, issue a warrant for the transfer of the person from the State to that other state in order to serve there any custodial sentence or detention order so imposed.
 

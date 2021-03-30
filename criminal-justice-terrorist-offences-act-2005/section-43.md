@@ -20,11 +20,11 @@ Proceedings relating to offences committed outside the State.
 
 (b) that—
 
-(i) a European arrest warrant has been received from an issuing state for the purpose of bringing proceedings against the person for an offence in respect of that act,
+(i) a relevant arrest warrant has been received from an issuing state for the purpose of bringing proceedings against the person for an offence in respect of that act,
 
 (ii) except in the case of an act to which section 6(1) applies, jurisdiction is being exercised in accordance with the relevant provision of the applicable instrument, and
 
-(iii) a final determination has been made that the European arrest warrant should not be endorsed for execution in the State under the European Arrest Warrant Act 2003 or that the person should not be surrendered to the issuing state concerned, or
+(iii) a final determination has been made that the relevant arrest warrant should not be endorsed for execution in the State under the European Arrest Warrant Act 2003 or that the person should not be surrendered to the issuing state concerned, or
 
 (c) that, because of special circumstances (including, but not limited to, the likelihood of a refusal referred to in paragraph (a)(ii) or a determination referred to in paragraph (b)(iii)), it is expedient that proceedings be taken against the person for an offence under the law of the State in respect of the act.
 
@@ -40,7 +40,7 @@ Proceedings relating to offences committed outside the State.
 
 (d) in relation to an act to which section 13(1) or (2) applies, the Terrorist Financing Convention as defined in section 12;
 
-“European arrest warrant” and “issuing state” have the meanings given by section 2 of the European Arrest Warrant Act 2003;
+“relevant arrest warrant” and “issuing state” have the meanings given by section 2 of the European Arrest Warrant Act 2003;
 
 “relevant provision” means—
 

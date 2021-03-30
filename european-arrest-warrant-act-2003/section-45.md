@@ -1,6 +1,6 @@
 Persons convicted in absentia.
 
-45.— A person shall not be surrendered under this Act if he or she did not appear in person at the proceedings resulting in the sentence or detention order in respect of which the European arrest warrant was issued, unless the European arrest warrant indicates the matters required by points 2, 3 and 4 of point (d) of the form of warrant in the Annex to the Framework Decision as amended by Council Framework Decision 2009/299/JHA, as set out in the table to this section.
+45.— A person shall not be surrendered under this Act if he or she did not appear in person at the proceedings resulting in the sentence or detention order in respect of which the European arrest warrant or the Trade and Cooperation Agreement arrest warrant, as the case may be, was issued, unless in the case of a European arrest warrant, the warrant indicates the matters required by points 2, 3 and 4 of point (d) of the form of warrant in the Annex to the Framework Decision as amended by Council Framework Decision 2009/299/JHA and in the case of a Trade and Cooperation Agreement arrest warrant, the warrant indicates the matters required by paragraph 1(i) of Article LAW.SURR.81 of the Cooperation and Trade Agreement, as set out in the table to this section.
 
 TABLE
 
@@ -12,7 +12,9 @@ TABLE
 
 3. If you have ticked the box under point 2, please confirm the existence of one of the following:
 
-□ 3.1a. the person was summoned in person on . . . (day/month/year) and thereby informed of the scheduled date and place of the trial which resulted in the decision and was informed that a decision may be handed down if he or she does not appear for the trial; OR
+□ 3.1a. the person was summoned in person on . . . (day/month/year) and thereby informed of the scheduled date and place of the trial which resulted in the decision and was informed that a decision may be handed down if he or she does not appear for the trial;
+
+OR
 
 □ 3.1b. the person was not summoned in person but by other means actually received official information of the scheduled date and place of the trial which resulted in the decision, in such a manner that it was unequivocally established that he or she was aware of the scheduled trial, and was informed that a decision may be handed down if he or she does not appear for the trial;
 

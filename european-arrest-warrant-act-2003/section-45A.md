@@ -32,4 +32,4 @@ Identification procedures.
 
 (10) A person who obstructs a member of the Garda Síochána in exercise of the powers under this section shall be guilty of an offence and shall, on summary conviction, be liable to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(11) Where a fingerprint, palm print or photograph of a person to whom a European arrest warrant relates is transmitted by or on behalf of an issuing judicial authority, such fingerprint, palm print or photograph shall be received in evidence without further proof.
+(11) Where a fingerprint, palm print or photograph of a person to whom a relevant arrest warrant relates is transmitted by or on behalf of an issuing judicial authority, such fingerprint, palm print or photograph shall be received in evidence without further proof.
