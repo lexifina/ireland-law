@@ -1,3 +1,5 @@
+## PART 1 PRELIMINARY AND GENERAL
+
 Short title and commencement.
 
 1.—(1) This Act may be cited as the European Arrest Warrant Act 2003.
