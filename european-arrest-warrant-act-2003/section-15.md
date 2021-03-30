@@ -2,7 +2,7 @@ Consent to surrender.
 
 15.—(1) Where a person is brought before the High Court under section 13, he or she may consent to his or her being surrendered to the issuing state and, if he or she so consents, the High Court shall—
 
-(a) if the European arrest warrant, or a ... true copy thereof, has been endorsed in accordance with section 13 for execution of the warrant,
+(a) if the relevant arrest warrant, or a ... true copy thereof, has been endorsed in accordance with section 13 for execution of the warrant,
 
 (b) if it is satisfied that—
 
@@ -16,7 +16,7 @@ Consent to surrender.
 
 (2) Where a person is brought before the High Court under section 14, he or she may consent to his or her being surrendered to the issuing state and, if he or she so consents, the High Court shall—
 
-(a) upon production to the High Court of the European arrest warrant or a true copy thereof,
+(a) upon production to the High Court of the relevant arrest warrant or a true copy thereof,
 
 (b) if it is satisfied that—
 

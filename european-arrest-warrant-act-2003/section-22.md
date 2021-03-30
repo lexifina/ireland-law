@@ -1,14 +1,14 @@
 Rule of speciality disapplied.
 
-22.—(1) In this section, except where the context otherwise requires, ‘offence’ means, in relation to a person to whom a European arrest warrant applies, an offence (other than an offence specified in the European arrest warrant in respect of which the person’s surrender is ordered under this Act) under the law of the issuing state committed before the person's surrender, but shall not include an offence consisting, in whole, of acts or omissions of which the offence specified in the European arrest warrant consists in whole or in part.
+22.—(1) In this section, except where the context otherwise requires, ‘offence’ means, in relation to a person to whom a relevant arrest warrant applies, an offence (other than an offence specified in the relevant arrest warrant in respect of which the person’s surrender is ordered under this Act) under the law of the issuing state committed before the person's surrender, but shall not include an offence consisting, in whole, of acts or omissions of which the offence specified in the European arrest warrant consists in whole or in part.
 
 (2) Subject to this section, the High Court shall refuse to surrender a person under this Act if it is satisfied that—
 
-(a) the law of the issuing state does not provide that a person who is surrendered to it pursuant to a European arrest warrant shall not be proceeded against, sentenced or detained for the purposes of executing a sentence or detention order, or otherwise restricted in his or her personal liberty, in respect of an offence, and
+(a) the law of the issuing state does not provide that a person who is surrendered to it pursuant to a relevant arrest warrant shall not be proceeded against, sentenced or detained for the purposes of executing a sentence or detention order, or otherwise restricted in his or her personal liberty, in respect of an offence, and
 
 (b) the person will be proceeded against, sentenced, or detained for the purposes of executing a sentence or detention order, or otherwise restricted in his or her personal liberty, in respect of an offence.
 
-(3) It shall be presumed that, in relation to a person to whom a European arrest warrant applies, the issuing state does not intend to—
+(3) It shall be presumed that, in relation to a person to whom a relevant arrest warrant applies, the issuing state does not intend to—
 
 (a) proceed against him or her,
 

@@ -4,4 +4,4 @@
 
 Executing judicial authority in the State.
 
-9.—For the purposes of the Framework Decision, the High Court shall be the executing judicial authority in the State.
+9.—For the purposes of the relevant agreement, the High Court shall be the executing judicial authority in the State.
