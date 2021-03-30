@@ -34,7 +34,7 @@ Search warrants in relation to arrestable offences.
 
 (6) In this section—
 
-‘arrestable offence’ has the meaning it has in section 2 (as amended by section 8of the Criminal Justice Act 2006) of the Criminal Law Act 1997;
+‘arrestable offence’ has the meaning it has in section 2 (as amended by section 8 of the Criminal Justice Act 2006) of the Criminal Law Act 1997;
 
 ‘place’ means a physical location and includes—
 

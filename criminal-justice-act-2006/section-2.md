@@ -8,7 +8,7 @@ Interpretation.
 
 “Act of 1984” means Criminal Justice Act 1984;
 
-“arrestable offence” has the meaning it has in section 2 (as amended by section 8) of the Criminal Law Act 1997;
+“arrestable offence” has the meaning it has in section 2 (as amended by section 8 ) of the Criminal Law Act 1997;
 
 “Minister” means Minister for Justice, Equality and Law Reform;
 

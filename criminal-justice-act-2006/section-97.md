@@ -4,7 +4,7 @@ Proof of foreign conviction in certain cases.
 
 (a) particulars of the conviction in a state, other than the State, of that person for an offence and of the act constituting the offence,
 
-(b) a statement that, on a specified date, that person was subject to the first-mentioned requirement in section 95(1)(b)(ii), shall, without further proof, be evidence, until the contrary is shown, of the matters stated therein.
+(b) a statement that, on a specified date, that person was subject to the first-mentioned requirement in section 95(1)(b)(ii) , shall, without further proof, be evidence, until the contrary is shown, of the matters stated therein.
 
 (2) The condition mentioned in subsection (1) is that the document concerned purports to be signed or certified by a judge, magistrate or officer of the state referred to in that subsection and to be authenticated by the oath of some witness or by being sealed with the official seal of a minister of state of that state (judicial notice of which shall be taken by the court).
 

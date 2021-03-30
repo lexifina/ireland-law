@@ -4,7 +4,7 @@ Notification requirements.
 
 (a) the relevant date,
 
-(b) if an order is made under section 89(3) or 95(3), the date of the order, or
+(b) if an order is made under section 89 (3) or 95 (3) , the date of the order, or
 
 (c) if the relevant date is prior to the commencement of this Part and no such order is made, that commencement, notify to the Garda Síochána—
 
@@ -24,11 +24,11 @@ Notification requirements.
 
 (3) If a person who is subject to the requirements of this Part intends to leave the State for a continuous period of 7 days or more he or she shall notify the Garda Síochána of that intention and, if known, the address of the place outside the State he or she intends to reside or stay at.
 
-(4) If a person who is subject to the requirements of this Part is outside the State for a continuous period of 7 days or more and did not intend, on leaving the State, to be outside the State for such a continuous period, the person shall, subject to subsection (5), notify the Garda Síochána, before the expiry of a further period of 7 days, reckoned from the 7th day that he or she is so outside the State, of that fact and the address of the place at which he or she is residing or staying outside the State.
+(4) If a person who is subject to the requirements of this Part is outside the State for a continuous period of 7 days or more and did not intend, on leaving the State, to be outside the State for such a continuous period, the person shall, subject to subsection (5) , notify the Garda Síochána, before the expiry of a further period of 7 days, reckoned from the 7th day that he or she is so outside the State, of that fact and the address of the place at which he or she is residing or staying outside the State.
 
 (5) Subsection (4) shall not apply if the person concerned has returned to the State before the expiry of the further period of 7 days mentioned in that subsection.
 
-(6) A notification given to the Garda Síochána by any person shall not be regarded as complying with subsection (1), (2), (3) or (4) unless it also states the person’s—
+(6) A notification given to the Garda Síochána by any person shall not be regarded as complying with subsection (1) , (2) , (3) or (4) unless it also states the person’s—
 
 (a) date of birth,
 
@@ -36,7 +36,7 @@ Notification requirements.
 
 (c) home address on the relevant date.
 
-(7) For the purpose of determining any period for the purposes of subsection (1), (2), (3) or (4), there shall be disregarded any time when the person concerned is—
+(7) For the purpose of determining any period for the purposes of subsection (1) , (2) , (3) or (4) , there shall be disregarded any time when the person concerned is—
 
 (a) remanded in custody,
 
@@ -52,7 +52,7 @@ Notification requirements.
 
 (c) by such other means as may be prescribed.
 
-(9) The onus of proof of the sending by post of such a notification shall, in any proceedings for an offence under section 94(1)(a), lie on the defendant.
+(9) The onus of proof of the sending by post of such a notification shall, in any proceedings for an offence under section 94 (1) (a) , lie on the defendant.
 
 (10) A notification under this section shall be acknowledged in writing and that acknowledgement shall be in such form as may be prescribed.
 

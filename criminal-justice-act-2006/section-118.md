@@ -6,9 +6,9 @@ Legal aid.
 
 (b) an application by the person to vary or discharge a civil order,
 
-(c) any appeal by theperson against the making of the civil order, and
+(c) any appeal by the person against the making of the civil order, and
 
-(d) any proceedings in theHigh Court or Supreme Court arising out of the making of the application, the appeal or any subsequent proceedings.
+(d) any proceedings in the High Court or Supreme Court arising out of the making of the application, the appeal or any subsequent proceedings.
 
 (2) A legal aid (civil order) certificate may not be granted under subsection (1) unless it appears to the court hearing the application for the certificate that—
 
@@ -18,7 +18,7 @@ Legal aid.
 
 (3) A person who is granted a legal aid (civil order) certificate is entitled—
 
-(a) to free legal aid in preparation for and representation at the hearing of the application for a civil order and any proceedings referred to in subsection (1)(b), (c) and (d), and
+(a) to free legal aid in preparation for and representation at the hearing of the application for a civil order and any proceedings referred to in subsection (1)(b) , (c) and (d), and
 
 (b) to have, in such manner as may be prescribed,
 

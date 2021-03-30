@@ -1,3 +1,3 @@
-Imprisonment or distress and sale of goods on conviction on indictment in default of payment of fine.
+Imprisonment or distress and sale of goods on conviction on indictment in default of payment of fine. (Repealed)
 
 195.—...

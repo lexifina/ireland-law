@@ -32,7 +32,7 @@ Information concerning property held in trust.
 
 (ii) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years or both.
 
-(6) Any information disclosed by a person in accordance with this section is not admissible in evidence in any criminal proceedings against the person or his or her spouse, except in any proceedings for an offence under subsection (5)(b).
+(6) Any information disclosed by a person in accordance with this section is not admissible in evidence in any criminal proceedings against the person or his or her spouse, except in any proceedings for an offence under subsection (5) (b) .
 
 (7) In this section “information” includes—
 

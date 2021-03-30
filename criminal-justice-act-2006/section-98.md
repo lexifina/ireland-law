@@ -1,6 +1,6 @@
 ## PART 10 SENTENCING
 
-Definitions (Part 10).
+Definitions ( Part 10 ).
 
 98.— In this Part, unless the context otherwise requires—
 

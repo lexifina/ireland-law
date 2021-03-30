@@ -30,7 +30,9 @@ Admissibility of certain witness statements.
 
 (a) whether it was given on oath or affirmation or was videorecorded, or
 
-(b) if paragraph (a) does not apply in relation to the statement, whether by reason of the circumstances in which it was made, there is other sufficient evidence in support of its reliability, and shall also have regard to—
+(b) if paragraph
+
+(a) does not apply in relation to the statement, whether by reason of the circumstances in which it was made, there is other sufficient evidence in support of its reliability, and shall also have regard to—
 
 (i) any explanation by the witness for refusing to give evidence or for giving evidence which is inconsistent with the statement, or
 

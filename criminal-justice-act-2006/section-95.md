@@ -32,7 +32,7 @@ Application of this Part to persons convicted outside State.
 
 (a) 2 months of the date of the notification under subsection (1), or
 
-(b) if no such notification is given, 6 months of the date specified in paragraph (a), (b)or (c), as may be appropriate, of subsection (2), or such longer period as the Circuit Court may permit.
+(b) if no such notification is given, 6 months of the date specified in paragraph (a), (b) or (c), as may be appropriate, of subsection (2), or such longer period as the Circuit Court may permit.
 
 (5) For the purposes of this section, a person shall be deemed to be resident in the State if he or she is ordinarily resident, or has his or her principal residence, in the State, or is in the State for a qualifying period.
 

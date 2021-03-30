@@ -2,7 +2,7 @@ Amendment of section 155 of Act of 2001.
 
 142.— Section 155 of the Act of 2001 is amended—
 
-(a) by the substitution of the following subsections for subsections(1) to (3):
+(a) by the substitution of the following subsections for subsections (1) to (3):
 
 “(1) Where—
 
@@ -20,6 +20,6 @@ Amendment of section 155 of Act of 2001.
 
 (3) Notwithstanding any provision in any enactment, no child shall be transferred from a children detention school to a place of detention provided under section 2 of the Act of 1970 or a prison.”,
 
-(b) by the deletion of subsections(4) and (5), and
+(b) by the deletion of subsections (4) and (5), and
 
-(c) in subsection(6), by the deletion of “in a children detention centre,”.
+(c) in subsection (6), by the deletion of “in a children detention centre,”.

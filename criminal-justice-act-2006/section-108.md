@@ -16,4 +16,4 @@ Temporary release of prisoners.
 
 (b) a condition that the person shall, either continuously or for such periods of not more than 6 months as may be specified have an electronic monitoring device attached to his or her person for the purpose of enabling the monitoring of his or her compliance with the condition restricting his or her movements to be carried out.
 
-(5) A condition shall not be imposed under subsection (1) or (4)(b) unless the person concerned agrees to comply with it, but the absence of such agreement shall not confer an entitlement on that person to be released pursuant to a direction.
+(5) A condition shall not be imposed under subsection (1)(4) or (b) unless the person concerned agrees to comply with it, but the absence of such agreement shall not confer an entitlement on that person to be released pursuant to a direction.

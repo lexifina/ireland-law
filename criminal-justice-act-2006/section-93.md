@@ -1,8 +1,10 @@
 Discharge from obligation to comply with requirements of this Part.
 
-93.— (1) A person who, by reason of sections 89 and 90, is subject to the requirements of this Part for a period of 12 years or 6 years (in the case of a person to whom section 90(4)applies) may apply to the court for an order discharging the person from the obligation to comply with those requirements on the ground that the interests of the common good are no longer served by his or her continuing to be subject to them.
+93.— (1) A person who, by reason of sections
 
-(2) An application under this section shall not be made before the expiration of the period of 8 years, or 4 years in the case of a person to whom section 90(4) applies, from the date of the applicant’s release from prison.
+89 and 90 , is subject to the requirements of this Part for a period of 12 years or 6 years (in the case of a person to whom section 90 (4) applies) may apply to the court for an order discharging the person from the obligation to comply with those requirements on the ground that the interests of the common good are no longer served by his or her continuing to be subject to them.
+
+(2) An application under this section shall not be made before the expiration of the period of 8 years, or 4 years in the case of a person to whom section 90 (4) applies, from the date of the applicant’s release from prison.
 
 (3) The applicant shall, not later than the beginning of such period before the making of the application as may be prescribed, notify the superintendent of the Garda Síochána of the district in which he or she ordinarily resides or has his or her most usual place of abode of his or her intention to make an application under this section.
 
@@ -20,8 +22,8 @@ Discharge from obligation to comply with requirements of this Part.
 
 (10) In this section—
 
-“applicant” means the person referred to in subsection (1);
+“applicant” means the person referred to in subsection (1) ;
 
 “court” means the Circuit Court;
 
-“date of the applicant’s release from prison” means the date on which the applicant’s sentence of imprisonment for the purposes of section 90(3) expires or, as the case may be, his or her remission from the sentence begins.
+“date of the applicant’s release from prison” means the date on which the applicant’s sentence of imprisonment for the purposes of section 90 (3) expires or, as the case may be, his or her remission from the sentence begins.

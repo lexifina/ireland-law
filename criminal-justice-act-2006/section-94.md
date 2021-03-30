@@ -2,9 +2,9 @@ Offences in connection with notification requirements.
 
 94.— (1) A person who—
 
-(a) fails, without reasonable excuse, to comply with subsection (1),(2),(3)or (4) of section 92 or section 95(1), or
+(a) fails, without reasonable excuse, to comply with subsection (1), (2), (3) or (4) of section 92 or section 95(1), or
 
-(b) notifies to the Garda Síochána, in purported compliance with that subsection(1), (2), (3) or (4) or section 95(1), as may be appropriate, any information which he or she knows to be false or misleading in any respect, shall be guilty of an offence.
+(b) notifies to the Garda Síochána, in purported compliance with that subsection (1), (2), (3) or (4) or section 95(1), as may be appropriate, any information which he or she knows to be false or misleading in any respect, shall be guilty of an offence.
 
 (2) A person is guilty of an offence under subsection (1)(a) on the day on which he or she first fails, without reasonable excuse, to comply with subsection (1), (2), (3) or (4), as the case may be, of section 92 or section 95(1) and continues to be guilty of it throughout any period during which the failure continues; but a person shall not be prosecuted under that provision more than once in respect of the same failure.
 

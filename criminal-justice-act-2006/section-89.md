@@ -1,6 +1,6 @@
 Persons subject to the requirements of this Part.
 
-89.— (1) Without prejudice to subsections (2)and (3)and section 95, a person is subject to the requirements of this Part if he or she is convicted on indictment of a drug trafficking offence after the commencement of this Part.
+89.— (1) Without prejudice to subsections (2) and (3) and section 95 , a person is subject to the requirements of this Part if he or she is convicted on indictment of a drug trafficking offence after the commencement of this Part.
 
 (2) A person is also subject to the requirements of this Part if he or she has been convicted on indictment of a drug trafficking offence before the commencement of this Part and, at that commencement, the sentence to be imposed on the person in respect of the offence has yet to be determined.
 

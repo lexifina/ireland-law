@@ -66,7 +66,7 @@ Application
 
 23B.— (1) This section applies to a person of not less than 18 years of age of section who is suspected, with reasonable cause, by a member of the Garda Síochána
 
-23A in rela- of committing, or of having committed, an offence under section 4. tion to offence
+23A in of committing, or of having committed, an offence under section 4. relation to offence
 
 (2) Where— under section 4.
 

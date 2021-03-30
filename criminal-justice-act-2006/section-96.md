@@ -20,7 +20,7 @@ Certificate as evidence of person’s being subject to requirements of this Part
 
 (4) If—
 
-(a) the conviction referred to in subsection (1) or (3)(a) insofar as it relates to an order made under section 89(3)is quashed on appeal or otherwise, or
+(a) the conviction referred to in subsection (1) or (3)(a) insofar as it relates to an order made under section 89(3) is quashed on appeal or otherwise, or
 
 (b) the sentence imposed on foot of that conviction is varied on appeal or otherwise, the court which quashes the conviction or varies the sentence shall forthwith, after the quashing of the conviction or the variation of the sentence, issue to each of the persons referred to in subsection (6) a certificate stating that the conviction has been quashed or stating the variation that has been made in the sentence.
 

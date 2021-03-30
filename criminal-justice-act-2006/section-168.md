@@ -2,7 +2,7 @@ Functions of Committee.
 
 168.— (1) The function of the Committee shall be to oversee the development of a programme for the codification of the criminal law.
 
-(2) Without prejudice to the generality of subsection (1), the Committee shall—
+(2) Without prejudice to the generality of subsection (1) , the Committee shall—
 
 (a) plan, monitor and review the implementation of a programme for the development of a criminal code (“the code”),
 

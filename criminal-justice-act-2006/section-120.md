@@ -1,6 +1,6 @@
 ## PART 12 AMENDMENT OF CHILDREN ACT 2001
 
-Interpretation (Part 12).
+Interpretation ( Part 12 ).
 
 120.— In this Part—
 

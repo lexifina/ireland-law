@@ -1,6 +1,6 @@
 ## PART 7 ORGANISED CRIME
 
-Interpretation (Part 7).
+Interpretation ( Part 7 ).
 
 70.— (1) In this Part—
 

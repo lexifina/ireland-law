@@ -4,11 +4,13 @@ New section 257A in Act of 2001.
 
 159.— The following title and section is inserted in the Act of 2001 after section 257:
 
-Interpreta-
+Interpretation
 
 ## “PART 12A ANTI-SOCIAL BEHAVIOUR BY CHILDREN
 
-257A.— (1) In this Part— tion (Part 12A).
+257A.— (1) In this Part—
+
+(Part 12A).
 
 “behaviour order” means an order under section 257D;
 

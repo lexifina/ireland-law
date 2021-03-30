@@ -1,6 +1,6 @@
 ## PART 9 OBLIGATIONS OF DRUG TRAFFICKING OFFENDERS TO NOTIFY CERTAIN INFORMATION
 
-Definitions (Part 9).
+Definitions ( Part 9 ).
 
 87.— In this Part, unless the context otherwise requires—
 

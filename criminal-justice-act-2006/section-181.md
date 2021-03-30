@@ -42,7 +42,7 @@ Anonymity of certain witnesses.
 
 (b) the trial judge has made an order under this section, the judge, or a judge, of the appeal court may, on application made in that behalf, vary or revoke the order.
 
-(7) An application under this section, or an appeal under subsection (4), may be made by the prosecution or the defence on notice to the other party to the proceedings and shall be made to the judge concerned in chambers.
+(7) An application under this section, or an appeal under subsection (4) , may be made by the prosecution or the defence on notice to the other party to the proceedings and shall be made to the judge concerned in chambers.
 
 (8) Each of the following persons who publishes or broadcasts any matter in contravention of an order under this section is guilty of an offence and is liable on conviction on indictment to a fine not exceeding €25,000 or imprisonment for a term not exceeding 3 years or both:
 
@@ -52,7 +52,7 @@ Anonymity of certain witnesses.
 
 (c) if the matter is broadcast, any person transmitting or providing the programme in which the broadcast is made and any person having functions in relation to the programme corresponding to those of an editor of a newspaper.
 
-(9) Where a person is charged with an offence under subsection (8), it is a defence to prove that at the time of the alleged offence the person was not aware, and neither suspected nor had any reason to suspect, that the publication or broadcast concerned was of any such matter as is mentioned in subsection (1).
+(9) Where a person is charged with an offence under subsection (8) , it is a defence to prove that at the time of the alleged offence the person was not aware, and neither suspected nor had any reason to suspect, that the publication or broadcast concerned was of any such matter as is mentioned in subsection (1) .
 
 (10) (a) Where an offence under subsection (8) has been committed by a body corporate and it is proved to have been so committed with the consent or connivance of or to be attributable to any neglect on the part of any person who, when the offence was committed, was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
 
@@ -64,4 +64,4 @@ Anonymity of certain witnesses.
 
 “publish” means publish, other than by way of broadcast, to the public generally or a section of it;
 
-“trial judge” and “judge”, in relation to proceedings before a Special Criminal Court, means a member of that Court, and the references in subsections (2)(a) and (5)(a) to an accused person being sent forward for trial include, where appropriate, references to such a person being charged before that Court.
+“trial judge” and “judge”, in relation to proceedings before a Special Criminal Court, means a member of that Court, and the references in subsections (2) (a) and (5) (a) to an accused person being sent forward for trial include, where appropriate, references to such a person being charged before that Court.

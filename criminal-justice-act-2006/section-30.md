@@ -4,13 +4,13 @@ Substitution of section 3 of Principal Act.
 
 3.— (1) Application for a firearm certificate (other than a restricted firearm certificate) shall be made to the Superintendent of the Garda Síochána of the district in which the applicant resides.
 
-‘Applications for,
+‘Applications for, and
 
-(2) Application for a restricted firearm certificate shall be made to the and form and effect
+(2) Application for a restricted firearm certificate shall be made to the form and effect of,
 
-Commissioner. of, firearm certifi-
+Commissioner. firearm certificates.
 
-(3) The application shall be in the prescribed form, and if the applicant intends cates. to use the firearm to hunt and kill exempted wild mammals within the meaning of the Wildlife Act 1976 (other than hares), be accompanied by a current licence to do so under section 29(1) of that Act.
+(3) The application shall be in the prescribed form, and if the applicant intends to use the firearm to hunt and kill exempted wild mammals within the meaning of the Wildlife Act 1976 (other than hares), be accompanied by a current licence to do so under section 29(1) of that Act.
 
 (4) The applicant shall supply in writing any further information that the Superintendent or the Commissioner may require in the performance of his or her functions under this section.
 
@@ -22,7 +22,7 @@ Commissioner. of, firearm certifi-
 
 (c) at any one time to possess or carry not more than the amount of ammunition specified in the certificate.
 
-(6) Where the firearm is a shot-gun, the firearm certificate may, subject to subsection (11) of this section, authorise it to be used only for killing animals or birds other than protected wild animals or protected wild birds within the meaning of the Wildlife Act 1976by the holder of the certificate either (as may be expressed in the certificate)—
+(6) Where the firearm is a shot-gun, the firearm certificate may, subject to subsection (11) of this section, authorise it to be used only for killing animals or birds other than protected wild animals or protected wild birds within the meaning of the Wildlife Act 1976 by the holder of the certificate either (as may be expressed in the certificate)—
 
 (a) on land occupied by the holder, or
 
@@ -44,7 +44,7 @@ Commissioner. of, firearm certifi-
 
 (c) a limited certificate shall not be granted unless the whole of the land to which it would relate is occupied by the same person;
 
-(d) where a nomination referred to in paragraph (a)of this subsection is revoked, the limited certificate to which it related, if then in force, shall not be capable of being renewed.
+(d) where a nomination referred to in paragraph (a) of this subsection is revoked, the limited certificate to which it related, if then in force, shall not be capable of being renewed.
 
 (12) A firearm in respect of which a firearm certificate is granted shall be marked in the prescribed manner with a number or other prescribed identifying mark, and the number or mark shall be entered on the certificate.
 

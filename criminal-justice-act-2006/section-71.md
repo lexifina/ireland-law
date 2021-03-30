@@ -1,6 +1,6 @@
 Offence of conspiracy.
 
-71.— (1) Subject to subsections (2) and (3), a person who conspires, whether in the State or elsewhere, with one or more persons to do an act—
+71.— (1) Subject to subsections (2) and (3) , a person who conspires, whether in the State or elsewhere, with one or more persons to do an act—
 
 (a) in the State that constitutes a serious offence, or
 
@@ -16,7 +16,7 @@ Offence of conspiracy.
 
 (d) the conspiracy is committed by an Irish citizen or a person ordinarily resident in the State.
 
-(3) Subsection (1) shall also apply to a conspiracy committed outside the State in circumstances other than those referred to in subsection (2), but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings for an offence under subsection (1) except in accordance with section 74(3).
+(3) Subsection (1) shall also apply to a conspiracy committed outside the State in circumstances other than those referred to in subsection (2) , but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings for an offence under subsection (1) except in accordance with section 74 (3) .
 
 (4) A person charged with an offence under this section is liable to be indicted, tried and punished as a principal offender.
 

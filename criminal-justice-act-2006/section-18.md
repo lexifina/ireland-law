@@ -20,8 +20,8 @@ Other witness statements.
 
 (g) a company in which all the shares are held by, or on behalf of, or by directors appointed by, a Minister of the Government, or
 
-(h) a company in which all the shares are held by a board or other body referred to in paragraph (f), or by a company referred to in paragraph (g).
+(h) a company in which all the shares are held by a board or other body referred to in paragraph (f) , or by a company referred to in paragraph (g) .
 
 (2) A person who makes a statement to a competent person in the course of the performance of the competent person’s official duties may make a statutory declaration that the statement is true to the best of the person’s knowledge and belief.
 
-(3) For the purposes of section 1(1)(d) of the Statutory Declarations Act 1938 a competent person may take and receive a statutory declaration made under subsection (2).
+(3) For the purposes of section 1(1)(d) of the Statutory Declarations Act 1938 a competent person may take and receive a statutory declaration made under subsection (2) .
