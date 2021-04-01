@@ -32,7 +32,7 @@ Interpretation.
 
 (b) in the case of a harbour to which the Harbours Acts 1946 to 1976 apply, a harbour authority within the meaning of those Acts,
 
-(c)in the case of a fishery harbour centre to which the Fishery Harbour Centres Act 1968 applies or any other harbour under the control of the Minister for Agriculture, Fisheries and Food, that Minister,
+(c) in the case of a fishery harbour centre to which the Fishery Harbour Centres Act 1968 applies or any other harbour under the control of the Minister for Agriculture, Fisheries and Food, that Minister,
 
 (d) in the case of a harbour under the control of a local authority, the local authority concerned,
 
