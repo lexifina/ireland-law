@@ -2,7 +2,7 @@
 
 Membership of Board of Agency
 
-19. (1) The Agency shall have a Board consisting of a chairperson, a deputy chairperson and 7 ordinary members appointed by the Minister.
+19. (1) The Agency shall have a Board consisting of a chairperson, a deputy chairperson and 9 ordinary members appointed by the Minister.
 
 (2) The chairperson, deputy chairperson and members of the Board shall be appointed by the Minister, with the consent of the Minister for Public Expenditure and Reform, from among persons who, in the Minister’s opinion, have experience of, and expertise in—
 

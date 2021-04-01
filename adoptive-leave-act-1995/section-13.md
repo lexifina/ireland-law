@@ -1,6 +1,6 @@
 Certificate of placement to be issued.
 
-13.—(1) An adopting parent shall, if she so requests, be issued with a certificate (“the certificate of placement”) by—
+13.—(1) An adopting parent shall, if he or she so requests, be issued with a certificate (“the certificate of placement”) by—
 
 (a) the health board which arranges the placing of the child with the adopting parent, or
 
