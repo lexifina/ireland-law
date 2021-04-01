@@ -1,3 +1,3 @@
-Amendment of Schedule 3 to Principal Act
+Amendment of Schedule 3 to Principal Act (Repealed)
 
 134. ...

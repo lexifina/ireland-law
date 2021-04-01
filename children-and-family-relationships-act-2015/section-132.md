@@ -1,3 +1,3 @@
-Amendment of section 144 of Principal Act
+Amendment of section 144 of Principal Act (Repealed)
 
 132. ...

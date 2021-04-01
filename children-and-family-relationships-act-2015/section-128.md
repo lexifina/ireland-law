@@ -1,3 +1,3 @@
-Amendment of section 78 of Principal Act
+Amendment of section 78 of Principal Act (Repealed)
 
 128. ...

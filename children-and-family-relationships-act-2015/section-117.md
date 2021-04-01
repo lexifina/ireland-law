@@ -1,3 +1,3 @@
-Amendment of section 38 of Principal Act
+Amendment of section 38 of Principal Act (Repealed)
 
 117. ...

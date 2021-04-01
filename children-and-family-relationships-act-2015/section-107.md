@@ -1,3 +1,3 @@
-Amendment of section 17 of Principal Act
+Amendment of section 17 of Principal Act (Repealed)
 
 107. ...

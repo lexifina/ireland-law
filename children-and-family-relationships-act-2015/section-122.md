@@ -1,3 +1,3 @@
-Amendment of section 59 of Principal Act
+Amendment of section 59 of Principal Act (Repealed)
 
 122. ...

@@ -1,3 +1,3 @@
-Amendment of section 3 of Principal Act
+Amendment of section 3 of Principal Act (Repealed)
 
 102. ...

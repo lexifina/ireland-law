@@ -40,4 +40,4 @@ Special provisions in relation to registration of birth of donor-conceived child
 
 (9) Where the registrar, having made the enquiries referred to in subsection (8), is of the opinion that the child concerned is a child to whom subsection (1) applies, he or she shall re-register the birth of the child under this section and enter in the register the name of the person who is, or persons who are, under section 5 of the Act of 2015, the parent or parents of the child.
 
-(10) Where a person whose birth was registered in accordance with this section and who has attained the age of 18 years applies for a birth certificate, the registrar shall contact that person to inform him or her that further information relating to him or her is available from the National Donor-Conceived Person Register.”.
+(10) Where a person whose birth was registered in accordance with this section and who has attained the age of 18 years applies for a birth certificate, the registrar shall contact that person to inform him or her that further information relating to him or her is available from the National Donor- Conceived Person Register.”.

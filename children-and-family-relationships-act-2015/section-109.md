@@ -1,3 +1,3 @@
-No pre-placement consultation required
+No pre-placement consultation required (Repealed)
 
 109. ...

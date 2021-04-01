@@ -122,7 +122,7 @@ Rights and responsibilities equivalent to guardianship arising in another state
 
 ‘Convention’ means the Convention on jurisdiction, applicable law, recognition, enforcement and co-operation in respect of parental responsibility and measures for the protection of children, signed at the Hague on the 19th day of October, 1996;
 
-‘Council Regulation’ means Council Regulation (EC) No. 2201/2003 of 27 November 2003 concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility, repealing Regulation (EC) No. 1347/2000;
+‘Council Regulation’ means Council Regulation (EC) No. 2201/2003 of 27 November concerning jurisdiction and the recognition and enforcement of 2003 judgments in matrimonial matters and the matters of parental responsibility, repealing Regulation (EC) No. 1347/2000;
 
 ‘judgment’ means a judgment as defined in Chapter I of Article 2 of the Council Regulation;
 
