@@ -1,4 +1,4 @@
-F44[Amendment of Schedule 3 to Redundancy Payments Act 1967.
+F62[Amendment of Schedule 3 to Redundancy Payments Act 1967.
 
 28.—Schedule 3 to the Redundancy Payments Act 1967 is amended—
 
