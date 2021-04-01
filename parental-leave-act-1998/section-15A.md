@@ -1,4 +1,4 @@
-F27[Right to request changes when returning from parental leave.
+F28[Right to request changes when returning from parental leave.
 
 15A. (1) An employee who exercises or proposes to exercise an entitlement under section 15 may request, in accordance with subsection (2), changes to his or her working hours or patterns, or both, to apply for a set period of time following his or her return to work.
 
