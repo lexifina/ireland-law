@@ -1,6 +1,6 @@
 Termination of additional adoptive leave on sickness of adopting parent.
 
-11B.—(1) An adopting parent (‘the employee’)—
+11B.—(1) An adopting parent ("the employee")—
 
 (a) who is sick while on adoptive leave or while entitled to, or on, additional adoptive leave, and
 

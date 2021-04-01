@@ -4,7 +4,7 @@ Postponement of leave on hospitalisation of child.
 
 (a) an adopted child is in hospital, and
 
-(b) the child’s adopting parent (‘the employee’) is entitled to, or is on, adoptive leave or additional adoptive leave, the employee may request the employer in writing (or cause such a request to be made) to postpone in accordance with this section—
+(b) the child’s adopting parent ("the employee") is entitled to, or is on, adoptive leave or additional adoptive leave, the employee may request the employer in writing (or cause such a request to be made) to postpone in accordance with this section—
 
 (i) the whole of the adoptive leave and any additional adoptive leave,
 
@@ -18,7 +18,7 @@ Postponement of leave on hospitalisation of child.
 
 (b) the leave concerned shall be postponed or, as the case may be, postponed with effect from the date agreed under paragraph (a),
 
-(c) the employee shall be entitled in accordance with this section to the leave or the part of the leave not taken by reason of the postponement (in this Act referred to as ‘postponed leave’), and
+(c) the employee shall be entitled in accordance with this section to the leave or the part of the leave not taken by reason of the postponement (in this Act referred to as "postponed leave"), and
 
 (d) the postponed leave shall be taken as a continuous period beginning not later than 7 days after the child is discharged from hospital or such other date as may be agreed between the employer and the employee.
 

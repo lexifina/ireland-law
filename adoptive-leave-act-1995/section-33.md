@@ -12,4 +12,4 @@
 
 (b) an award of compensation (in favour of the adopting parent to be paid by the employer) of such amount, not exceeding 20 weeks’ remuneration in respect of the adopting parent’s employment calculated in accordance with regulations under section 32, as the Labour Court considers just and equitable having regard to all of the circumstances.
 
-(3) In this section ‘remuneration’ includes allowances in the nature of pay and benefits in lieu of or in addition to pay.
+(3) In this section "remuneration" includes allowances in the nature of pay and benefits in lieu of or in addition to pay.

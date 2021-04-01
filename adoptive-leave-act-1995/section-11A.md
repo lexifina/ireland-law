@@ -22,7 +22,7 @@ Time off to attend certain pre-adoption classes and meetings.
 
 (d) if the Commissioner of the Garda Síochána in exceptional circumstances so directs, to a member of the Garda Síochána who is required to perform a duty which is, in the opinion of the Commissioner of the Garda Síochána, of a special or urgent nature for so long as the member is performing the duty.
 
-(3) (a) In this subsection ‘classes’ refers to the pre-adoption classes and meetings mentioned in subsection (1).
+(3) (a) In this subsection "classes" refers to the pre-adoption classes and meetings mentioned in subsection (1).
 
 (b) The entitlement of an employee to time off under subsection (1) is subject to his or her having—
 
