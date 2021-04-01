@@ -6,6 +6,8 @@ Amendment of section 3 of Act of 1965
 
 “‘Act of 2015’ means the Children and Family Relationships Act 2015;”.
 
+Amendment of section 4A of Act of 1965
+
 65.Section 4A of the Act of 1965 is amended—
 
 (a) in subsection (1), by the substitution of “Subject to subsection (1A), in deducing any relationship” for “In deducing any relationship”,
