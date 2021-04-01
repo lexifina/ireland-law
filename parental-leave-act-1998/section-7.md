@@ -2,7 +2,7 @@ Manner in which parental leave may be taken.
 
 7.—(1) Subject to this Act, parental leave may consist of—
 
-(a) a continuous period of equal to the period referred to in section 6(1), ...
+(a) a continuous period equal to the period referred to in section 6(1), ...
 
 (aa) subject to subsection (1A), 2 separate periods—
 

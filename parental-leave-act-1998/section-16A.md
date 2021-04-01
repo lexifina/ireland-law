@@ -17,7 +17,3 @@ Protection of employees from penalisation.
 (a) shall be deemed to have been dismissed on the date on which he or she was entitled to so return to work and the dismissal shall be deemed, for the purposes of the Unfair Dismissals Acts 1977 to 2005, to have been an unfair dismissal unless, having regard to all the circumstances, there were substantial grounds justifying the dismissal, and
 
 (b) shall be deemed for the purposes of the Redundancy Payments Acts 1967 to 2003, to have had his or her contract of employment with his or her employer terminated on the date aforesaid.
-
-## PART IV RESOLUTION OF DISPUTES
-
-17....
