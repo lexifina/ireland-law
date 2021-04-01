@@ -24,7 +24,7 @@ Covid-19: employment wage subsidy scheme
 
 (ii) any individual who is connected with the employer, other than in a case in which that individual had been on the payroll of the employer at any time in the period from 1 July 2019 to 30 June 2020 and had received in that period a payment of emoluments from the employer and the employer has submitted to the Revenue Commissioners in that period a notification of the payment of the emoluments in accordance with Regulation 10 of the Regulations, and, for the purposes of this definition, the question of whether an individual is connected with any other person shall be determined in accordance with section 10 of the Act as it applies for the purposes of the Capital Gains Tax Acts;
 
-‘qualifying period’ means the period commencing on 1 July 2020 and expiring on 31 March 2021 or on such later day than 31 March 2021 as the Minister may specify in an order made by him or her under subsection (21)(a);
+‘qualifying period’ means the period commencing on 1 July 2020 and expiring on 31 December 2021 or on such later day than 31 December 2021 as the Minister may specify in an order made by him or her under subsection (21)(a);
 
 ‘Regulations’ means the Income Tax (Employments) Regulations 2018 (S.I. No. 345 of 2018);
 
@@ -62,11 +62,11 @@ Covid-19: employment wage subsidy scheme
 
 (b) the employer satisfies the conditions specified in subsection (3).
 
-(2A) Subject to subsections (4) and (5), this section shall apply to an employer for the period from 1 January 2021 to the date on which the qualifying period expires where—
+(2A) Subject to subsections (4) and (5), this section shall apply to an employer for the period from 1 January 2021 to 30 June 2021 (in this subsection referred to as ‘the second specified period’) where—
 
 (a) (i) in accordance with guidelines published by the Revenue Commissioners under subsection (20)(a), the employer demonstrates to the satisfaction of the Revenue Commissioners that, by reason of Covid-19 and the disruption that is being caused thereby to commerce—
 
-(I) there will occur in the period from 1 January 2021 to 30 June 2021 (in this subsection referred to as ‘the second specified period’) at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under subsection (21)(b), in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to the period from 1 January 2019 to 30 June 2019 (in this subsection referred to as ‘the second corresponding period’),
+(I) there will occur in the second specified period at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under subsection (21)(b), in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to the period from 1 January 2019 to 30 June 2019 (in this subsection referred to as ‘the second corresponding period’),
 
 (II) in the case where the business of the employer has not operated for the whole of the second corresponding period but the commencement of that business’s operation occurred no later than 1 May 2019, there will occur in the part of the second specified period, which corresponds to the part of the second corresponding period in which the business has operated, at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under subsection (21)(b), in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to that part of the second corresponding period, or
 
@@ -80,7 +80,25 @@ Covid-19: employment wage subsidy scheme
 
 (b) the employer satisfies the conditions specified in subsection (3).
 
-(3) The conditions referred to in subsection (2)(b) or (2A)(b) are—
+(2B) Subject to subsections (4) and (5), this section shall apply to an employer for the period from 1 July 2021 to the date on which the qualifying period expires where—
+
+(a) (i) in accordance with guidelines published by the Revenue Commissioners under subsection (20)(a), the employer demonstrates to the satisfaction of the Revenue Commissioners that, by reason of Covid-19 and the disruption that is being caused thereby to commerce—
+
+(I) there will occur in the period from 1 January 2021 to 31 December 2021 (in this subsection referred to as ‘the third specified period’) at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under subsection (21)(b), in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to the period from 1 January 2019 to 31 December 2019 (in this subsection referred to as ‘the third corresponding period’),
+
+(II) in the case where the business of the employer has not operated for the whole of the third corresponding period but the commencement of that business’s operation occurred no later than 1 November 2019, there will occur in the part of the third specified period, which corresponds to the part of the third corresponding period in which the business has operated, at least a 30 per cent reduction, or such other percentage reduction as the Minister may specify in an order made by him or her under subsection (21)(b), in either the turnover of the employer’s business or in the customer orders being received by the employer by reference to that part of the third corresponding period, or
+
+(III) in the case where the commencement of the operation of the employer’s business occurred after 1 November 2019, the nature of the business is such that the turnover of the employer’s business or the customer orders being received by the employer in the third specified period will be at least—
+
+(A) 30 per cent, or
+
+(B) such other percentage as the Minister may specify in an order made by him or her under subsection (21)(b), less than what that turnover or those customer orders, as the case may be, would otherwise have been had there been no disruption caused to the business by reason of Covid-19, or
+
+(ii) the employer’s name is entered in the register established and maintained under section 58C of the Child Care Act 1991, and
+
+(b) the employer satisfies the conditions specified in subsection (3).
+
+(3) The conditions referred to in subsection (2)(b), (2A)(b) or (2B)(b) are—
 
 (a) the employer has logged on to the online system of the Revenue Commissioners (in this section referred to as ‘ROS’) and applied on ROS to be registered as an employer to which this section applies,
 
@@ -92,11 +110,11 @@ Covid-19: employment wage subsidy scheme
 
 (4) Where on any date in the qualifying period the employer ceases to satisfy the condition specified in subsection (3)(d), the employer shall cease to be an employer to which this section applies as on and from that date.
 
-(5) Where, by virtue of subsection (2) (apart from paragraph (a)(ii) thereof) or (2A) (apart from paragraph (a)(ii) thereof), and subsection (3), an employer is an employer to which this section applies—
+(5) Where, by virtue of subsection (2) (apart from paragraph (a)(ii) thereof), (2A) (apart from paragraph (a)(ii) thereof) or (2B) (apart from paragraph (a)(ii) thereof), and subsection (3), an employer is an employer to which this section applies—
 
 (a) immediately upon the end of each income tax month (in this subsection referred to as ‘the relevant income tax month’) in the qualifying period, apart from July 2020 and the last such month, the employer shall review his or her business circumstances, and
 
-(b) if, based on the result of that review, it is manifest to the employer that the outcome referred to in clause (I), (II) or (III), as the case may be, of subsection (2)(a)(i) or (2A)(a)(i), as may be appropriate that had previously been envisaged would occur will not, in fact, now occur, then—
+(b) if, based on the result of that review, it is manifest to the employer that the outcome referred to in clause (I), (II) or (III), as the case may be, of subsection (2)(a)(i), (2A)(a)(i) or (2B)(a)(i) that had previously been envisaged would occur will not, in fact, now occur, then—
 
 (i) the employer shall immediately log on to ROS and declare that, from the first day of the income tax month following the relevant income tax month (in subparagraph (ii) referred to as ‘the relevant day’), the employer is no longer an employer to which this section applies, and
 
@@ -132,13 +150,13 @@ Covid-19: employment wage subsidy scheme
 
 (i) €151.50 per contribution week, or
 
-(ii) where the date of the payment of the emoluments by the employer to the qualifying employee is in the period beginning on 20 October 2020 and ending on 31 January 2021, €203 per contribution week, and
+(ii) where the date of the payment of the emoluments by the employer to the qualifying employee is in the period beginning on 20 October 2020 and ending on 30 September 2021, €203 per contribution week, and
 
 (b) in the case where the employer pays the qualifying employee gross pay of not less than €203 per week but not more than €1,462 per week, the sum of—
 
 (i) €203 per contribution week, or
 
-(ii) where the date of the payment of the emoluments by the employer to the qualifying employee is in the period beginning on 20 October 2020 and ending on 31 January 2021—
+(ii) where the date of the payment of the emoluments by the employer to the qualifying employee is in the period beginning on 20 October 2020 and ending on 30 September 2021—
 
 (I) €250 per contribution week, where the gross pay so paid to the qualifying employee is not more than €299.99 per week,
 
@@ -178,9 +196,9 @@ Covid-19: employment wage subsidy scheme
 
 (17) A person shall, without prejudice to any other penalty to which the person may be liable, be guilty of an offence under this section if the person—
 
-(a) knowingly or wilfully delivers any incorrect return or statement, or knowingly or wilfully furnishes any incorrect information, in connection with the operation of subsection (2) or (2A) or the eligibility for a wage subsidy payment in relation to any individual, or
+(a) knowingly or wilfully delivers any incorrect return or statement, or knowingly or wilfully furnishes any incorrect information, in connection with the operation of subsection (2), (2A) or (2B) or the eligibility for a wage subsidy payment in relation to any individual, or
 
-(b) knowingly aids, abets, assists, incites or induces another person to make or deliver knowingly or wilfully any incorrect return or statement, or knowingly or wilfully furnish any incorrect information, in connection with the operation of subsection (2) or (2A)or the eligibility for a wage subsidy payment in relation to any individual, and the provisions of subsections (3) to (10) of section 1078, and section 1079, of the Act shall, with any necessary modifications, apply for the purposes of this subsection as they apply for the purposes of offences in relation to tax within the meaning of section 1078 of the Act.
+(b) knowingly aids, abets, assists, incites or induces another person to make or deliver knowingly or wilfully any incorrect return or statement, or knowingly or wilfully furnish any incorrect information, in connection with the operation of subsection (2), (2A) or (2B)or the eligibility for a wage subsidy payment in relation to any individual, and the provisions of subsections (3) to (10) of section 1078, and section 1079, of the Act shall, with any necessary modifications, apply for the purposes of this subsection as they apply for the purposes of offences in relation to tax within the meaning of section 1078 of the Act.
 
 (18) Notwithstanding any obligation imposed on the Revenue Commissioners under section 851A of the Act or any other enactment in relation to the confidentiality of taxpayer information (within the meaning of that section) or any obligation imposed on the Minister for Employment Affairs and Social Protection under the Social Welfare Acts or any other enactment in relation to the confidentiality of information relating to employers and insured persons or other persons entitled to benefits or assistance under those Acts, information relevant to the effective operation of this section may be exchanged between the Minister for Employment Affairs and Social Protection and the Revenue Commissioners.
 
@@ -188,17 +206,17 @@ Covid-19: employment wage subsidy scheme
 
 (20) The Revenue Commissioners shall prepare and publish guidelines with respect to—
 
-(a) the matters that are considered by them to be matters to which regard shall be had in determining whether a reduction, as referred to in subsection (2) or (2A), will occur by reason of Covid-19 and the disruption that is being caused thereby to commerce, and
+(a) the matters that are considered by them to be matters to which regard shall be had in determining whether a reduction, as referred to in subsection (2), (2A) or (2B), will occur by reason of Covid-19 and the disruption that is being caused thereby to commerce, and
 
 (b) the matters to which an employer shall have regard in determining the appropriate class of Pay-Related Social Insurance to be operated by an employer in relation to a qualifying employee for the purposes of compliance by the employer with subsection (7)(e).
 
 (21) Where the Minister makes a determination of the kind lastly referred to in section 28A(6), the Minister shall, as he or she deems fit and necessary—
 
-(a) make an order that the day referred to in the definition of ‘qualifying period’ in subsection (1) as the day on which the period there referred to shall expire shall be such day as is later than 31 March 2021 (but not later than 30 June 2021) as the Minister considers appropriate and specifies in the order,
+(a) make an order that the day referred to in the definition of ‘qualifying period’ in subsection (1) as the day on which the period there referred to shall expire shall be such day as is later than 31 December 2021 (but not later than 30 June 2022) as the Minister considers appropriate and specifies in the order,
 
 (aa) make an order that any day referred to in paragraphs (a)(ii) and (b)(ii) of subsection (8) as the day on which the period there referred to shall begin on, or end on, shall be such other day as the Minister considers appropriate and specifies in the order,
 
-(b) make an order that the percentage reduction specified in clauses (I) to (III) of subsection (2)(a)(i) or (2A)(a)(i) shall be such percentage reduction, greater or lower than the percentage reduction specified in those clauses, as the Minister—
+(b) make an order that the percentage reduction specified in clauses (I) to (III) of subsection (2)(a)(i), (2A)(a)(i) or (2B)(a)(i) shall be such percentage reduction, greater or lower than the percentage reduction specified in those clauses, as the Minister—
 
 (i) considers necessary to—
 
