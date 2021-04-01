@@ -1,3 +1,3 @@
-Amendment of section 62 of Principal Act
+Amendment of section 62 of Principal Act (Repealed)
 
 125. ...

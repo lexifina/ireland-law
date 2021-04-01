@@ -1,3 +1,3 @@
-Amendment of section 30 of Principal Act
+Amendment of section 30 of Principal Act (Repealed)
 
 112. ...

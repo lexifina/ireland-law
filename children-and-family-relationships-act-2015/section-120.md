@@ -1,3 +1,3 @@
-Amendment of section 43 of Principal Act
+Amendment of section 43 of Principal Act (Repealed)
 
 120. ...

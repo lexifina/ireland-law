@@ -1,3 +1,3 @@
-Amendment of section 21 of Principal Act
+Amendment of section 21 of Principal Act (Repealed)
 
 111. ...
