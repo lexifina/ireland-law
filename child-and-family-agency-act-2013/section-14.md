@@ -18,6 +18,4 @@ Duty of Agency to furnish information
 
 (a) address matters of general or specific concern, and
 
-(b) be made in such form and within such period,
-
-(specified in the requirement.
+(b) be made in such form and within such period, (specified in the requirement.

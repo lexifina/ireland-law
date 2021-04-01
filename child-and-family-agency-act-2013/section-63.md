@@ -20,4 +20,6 @@ Matters excluded from right to complain
 
 (2) Subsection (1)(h) does not prevent a complaints officer from dealing with a complaint that was made to the Ombudsman or the Ombudsman for Children and that is referred by him or her to a complaints officer.
 
-(3) In relation to a contract referred to in subsection (1)(e) “terms or conditions”includes terms or conditions relating to superannuation benefits, disciplinary procedures or grievance procedures.
+(3) In relation to a contract referred to in subsection (1)(e)
+
+“terms or conditions”includes terms or conditions relating to superannuation benefits, disciplinary procedures or grievance procedures.

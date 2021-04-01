@@ -60,7 +60,9 @@ Item Provision Amendment affected
 
 5. Section 7 (a) Substitute the following for subsection (1):
 
-“(1) The Child and Family Agency shall establish one or more child care advisory committees to advise the Agency on Item Provision Amendment affected the performance of its functions under this Act and the Agency shall consider and have regard to any advice so tendered to it.
+“(1) The Child and Family Agency shall establish one or more child care advisory committees to advise the Agency on the performance of its functions under this Act and the Item Provision Amendment affected
+
+Agency shall consider and have regard to any advice so tendered to it.
 
 (1A) A child care advisory committee that, before the amendment of this section by the Child and Family Agency Act 2013, was established for a functional area of the Executive and that was in existence immediately before the establishment of the Child and Family Agency shall be deemed to have been established by the Agency in compliance with subsection (1) of this section.”.
 
@@ -88,7 +90,7 @@ Item Provision Amendment affected
 
 (a) each child care advisory committee, and
 
-(b) such bodies as the Agency sees fit whose purposes include the provision of child care and family support services, Item Provision Amendment affected and shall have regard to any views or information furnished by such committees or bodies in the preparation of the report.”.
+(b) such bodies as the Agency sees fit whose purposes include the provision of child care and family support services, and shall have regard to any views or information furnished by such committees or bodies in the preparation of the report.”. Item Provision Amendment affected
 
 7. Section 9 Substitute the following for subsection (2):
 
@@ -108,7 +110,7 @@ Item Provision Amendment affected
 
 (c) subsections (3) and (4) apply as though all of the investigation had been undertaken and completed by the Agency.”.
 
-10. Section (a) Substitute the following for subsection (4): 23B “(4) Notwithstanding subsection (3) and subject to subsection (5), the Child and Family Agency may, for the purposes of this Part, enter into an arrangement with a person under section 58 of the Child and Family Agency Act 2013 (relating to arrangements with service providers) in respect of the provision by that person of special care and Item Provision Amendment affected the provision, maintenance and administration of a special care unit.”.
+10. Section (a) Substitute the following for subsection (4): 23B “(4) Notwithstanding subsection (3) and subject to subsection (5), the Child and Family Agency may, for the purposes of this Part, enter into an arrangement with a person under section 58 of the Child and Family Agency Act 2013 (relating to arrangements with service providers) in respect of the provision by that person of special care and the provision, maintenance and administration of a special care unit.”. Item Provision Amendment affected
 
 (b) In subsection (5), substitute “section 58 of the Child and Family Agency Act 2013” for “section 38 (as amended by the Act of 2007) of the Health Act 2004)”.
 
@@ -126,9 +128,7 @@ Item Provision Amendment affected
 
 15. Section Insert the following after subsection (2): 46 “(2A) A request made by the Health Service Executive to the Garda Síochána under subsection (2) before the establishment of the Child and Family Agency shall be deemed to have been made by the Child and Family Agency if the child in respect of whom the request was made is not delivered up to the Health Service Executive before the establishment day of the Agency.”.
 
-16. Section Substitute— 59 Item Provision Amendment affected
-
-(a) in the definition of “children’s residential centre”, “the Child and Family Agency” for “the Health Service Executive” in each place where it occurs, and
+16. Section Substitute— 59 (a) in the definition of “children’s residential centre”, “the Child and Family Agency” for “the Health Service Executive” in each place where it occurs, and Item Provision Amendment affected
 
 (b) the following for the definition of “register”:
 
@@ -204,7 +204,7 @@ Item Provision Amendment affected
 
 4. First Schedule In paragraph 1(4), substitute “the Health Service Executive and the Child and Family Agency” for “the Health Service Executive”.
 
-5. Third Sched- Insert: ule, Part 1 (a) in column (2):
+5. Third Insert: Schedule, Part (a) in column (2): 1
 
 “Child and Family Agency Act 2013”, and opposite that insertion,
 
@@ -240,7 +240,7 @@ Item Provision affected Amendment
 
 2. Section 6 In paragraph (g), insert “the Child and Family Agency,” after “the Health Service Executive,”.
 
-3. Section 29 (amended by In subsection (4E), substitute “Child and Family the Education (Miscella- Agency” for “National Educational Welfare Board”. neous Provisions) Act 2007)
+3. Section 29 (amended by In subsection (4E), substitute “Child and Family the Education Agency” for “National Educational Welfare Board”. (Miscellaneous Provisions) Act 2007)
 
 4. Section 33 In paragraph (j)(iii), insert “and the Child and Family Agency” after “the Health Service Executive”.
 
@@ -274,9 +274,9 @@ Item Provision Amendment affected
 
 2. Part 2 After section 15A (as amended by section 72 of the Health Act 2004) insert the following:
 
-“Transitional provisions relating to the Child and
+“Transitional provisions relating to the Child and Family
 
-Family Agency Act 2013
+Agency Act 2013
 
 15B. (1) In this section, a reference to a provision of this Act is to that provision as it was before it was amended by the Child and Family Agency Act 2013.
 
