@@ -1,12 +1,12 @@
-F38[General right to return to work after adoptive leave or additional adoptive leave.
+F53[General right to return to work after adoptive leave or additional adoptive leave.
 
-18.—(1) An adopting parent (‘the employee’) who is absent from work while on adoptive leave or additional adoptive leave shall be entitled to return to work—
+18.—(1) An adopting parent ("the employee") who is absent from work while on adoptive leave or additional adoptive leave shall be entitled to return to work—
 
 (a) either—
 
 (i) with the employer with whom the employee was working immediately before the absence, or
 
-(ii) if during the absence there was a change of ownership of the undertaking in which the employee was employed immediately before the absence, with the owner (in this Act referred to as ‘the successor’) of the undertaking when the absence ended,
+(ii) if during the absence there was a change of ownership of the undertaking in which the employee was employed immediately before the absence, with the owner (in this Act referred to as "the successor") of the undertaking when the absence ended,
 
 (b) in the job which the employee held immediately before the absence began, and
 
@@ -18,4 +18,4 @@ F38[General right to return to work after adoptive leave or additional adoptive 
 
 (2) For the purposes of subsection (1)(b), where the job held by the employee immediately before the absence was not the employee’s normal or usual job, the employee shall be entitled to return to work, either in the normal or usual job or in the job so held, as soon as is practicable.
 
-(3) In this section, ‘job’ means the nature of the work which the employee is employed to do in accordance with the employee’s contract of employment and the capacity and place in which the employee is so employed.
+(3) In this section, "job" means the nature of the work which the employee is employed to do in accordance with the employee’s contract of employment and the capacity and place in which the employee is so employed.
