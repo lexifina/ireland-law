@@ -4,7 +4,7 @@ Notice of application for permit under section 5.
 
 (2) A notice under subsection (1) shall contain a brief sketch map showing the location of the proposed site or sites and the approximate distance therefrom to a specified place on the mainland and brief details of the commencement and duration of the proposed activity, the characteristics, composition and the approximate amounts of any substance or material involved and the method of the proposed dredging or dumping as the case may be, and indicate where any relevant documentation in relation to the proposal may be inspected or a copy thereof may be obtained at a reasonable cost.
 
-(3) Except in a case of dredging which, in the opinion of the Minister, is urgently required for the purposes of navigational safety and is specified in a notice under subsection (1), which is published in a newspaper circulating nationally, to be of an urgent nature for the reason or reasons stated in the notice, a person may, in writing, within—
+(3) Except in a case of dredging which, in the opinion of the Agency, is urgently required for the purposes of navigational safety and is specified in a notice under subsection (1), which is published in a newspaper circulating nationally, to be of an urgent nature for the reason or reasons stated in the notice, a person may, in writing, within—
 
 (a) in the case of proposed dredging, over a period of not more than 12 months, for the maintenance of navigable depths, 21 days, or
 
