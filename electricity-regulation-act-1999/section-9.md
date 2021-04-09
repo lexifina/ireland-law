@@ -162,13 +162,13 @@ Functions of Commission.
 
 (fe) to request the opinion of the Agency on the compliance of a decision, taken by another regulatory authority on a cross border trade issue, with network codes and guidelines referred to in the Natural Gas Market Regulation, the Natural Gas Market Directive, the 2019 Internal Electricity Market Directive or the Electricity Market Directive,
 
+5 OJ No. L 127, 29.04.2004, p.92
+
 (ff) where it considers that a decision relevant for cross-border trade taken by another regulatory authority does not comply with the network codes or guidelines referred to in paragraph (fe), to, if it considers it necessary, inform the European Commission within 2 months of the taking of the decision by that other regulatory authority,
 
 (fg) where, following a request to the Agency by another regulatory authority in regard to a decision made by the Commission on a cross-border trade issue, the European Commission has requested the Commission to withdraw its decision, to comply with any such decision within a period of 2 months and to inform the European Commission accordingly,
 
 (g) to grant, monitor the performance of, modify, revoke and enforce licences and authorisations pursuant to this Act,
-
-5 OJ No. L 127, 29.04.2004, p.92
 
 (h) to publish information and advice and settle disputes in accordance with the provisions of this Act,
 
