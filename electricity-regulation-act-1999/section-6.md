@@ -1,6 +1,6 @@
 Prosecution of offences.
 
-6.—(1) Summary proceedings for offences under this Act may be brought and prosecuted by the Commission.
+6.—(1) Summary proceedings for offences under this Act and under sections 40D to I of the Gas Act 1976 may be brought and prosecuted by the Commission.
 
 (2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act, 1851, summary proceedings for an offence under this Act may be instituted within 2 years from the date of the offence.
 
