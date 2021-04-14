@@ -1,3 +1,3 @@
-Active corruption.
+Active corruption. (Repealed)
 
 43.—...

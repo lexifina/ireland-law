@@ -1,3 +1,3 @@
-Amendment of section 56A of Criminal Justice Act, 1994.
+Amendment of section 56A of Criminal Justice Act, 1994. (Repealed)
 
 22.—...
