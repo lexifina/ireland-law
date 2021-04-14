@@ -4,7 +4,7 @@ Liability for offences by bodies corporate and unincorporated.
 
 58.—(1) Where—
 
-(a) an offence under this Act has been committed by a body corporate, and
+(a) an offence under this Act (other than Part 6) has been committed by a body corporate, and
 
 (b) the offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, a person who was either—
 

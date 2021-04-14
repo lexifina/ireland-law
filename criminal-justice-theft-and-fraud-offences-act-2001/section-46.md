@@ -6,4 +6,4 @@ Restriction on certain proceedings.
 
 (3) Proceedings for an offence to which this section applies may be taken in any place in the State, and the offence may for all incidental purposes be treated as having been committed in that place.
 
-(4) Proceedings shall not be taken under section 38 of the Extradition Act, 1965, in respect of an act that is an offence under both that section and section 45 of this Act.
+(4) ...

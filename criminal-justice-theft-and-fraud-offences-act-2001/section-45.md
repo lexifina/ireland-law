@@ -1,13 +1,17 @@
 Extra-territorial jurisdiction in case of certain offences.
 
-45.—(1) It is an offence for a person to commit fraud affecting the Communities' financial interests or to commit the offence of money laundering, or to participate in, instigate or attempt any such fraud or offence, outside the State if—
+45. (1) An Irish citizen who engages in conduct in a place outside the State that, if engaged in in the State, would constitute an offence under section 42, 42A or 42B, or would constitute an offence of inciting, aiding and abetting, or attempting the commission of such an offence, shall be guilty of an offence.
 
-(a) the benefit of the fraud or offence is obtained, or a pecuniary advantage is derived from it, by a person within the State, or
+(1A) A—
 
-(b) a person within the State knowingly assists or induces the commission of the fraud or offence, or
+(a) company formed and registered under the Companies Act 2014, an existing company within the meaning of that Act, or any other body corporate established under the law of the State, or
 
-(c) the offender is an Irish citizen, a national official or a Community official working for a European Community institution or a body set up in accordance with the Treaties establishing the European Communities which has its headquarters in the State.
+(b) person who has had his or her principal residence in the State for the period of 12 months immediately preceding the doing of the act concerned, who engages in conduct in a place outside the State that, if done in the State, would constitute—
+
+(i) an offence under section 42, 42A or 42B, or
+
+(ii) an offence of inciting, aiding and abetting, or attempting the commission of an offence referred to in paragraph (i), shall be guilty of an offence.
 
 (2) ...
 
-(3) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 5 years or both.
+(3) A person guilty of an offence under this section is liable on conviction to the penalty to which the person would have been liable had the person engaged in the conduct that constitutes the offence in the State.

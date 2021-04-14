@@ -2,58 +2,28 @@
 
 Interpretation (Part 6).
 
-40.—(1) In this Part—
+40. (1) In this Part—
 
-...
+‘Act of 2018’ means the Criminal Justice (Corruption Offences) Act 2018;
 
-“Community official” has the meaning given to it by Article 1.1(b) of the First Protocol;
+‘corruption offence’ means an offence under section 5 of the Act of 2018;
 
-“Convention” means the Convention drawn up on the basis of Article K.3 of the Treaty on European Union, on the protection of the European Communities' financial interests done at Brussels on 26 July 1995;
+‘Directive’ means Directive (EU) 2017/1371 of the European Parliament and of the Council of 5 July 2017 on the fight against fraud to the Union’s financial interests by means of criminal law, the text of which is, for convenience of reference, set out in Schedule 1A;
 
-“First Protocol” means the Protocol drawn up on the basis of Article K.3 of the Treaty on European Union to the Convention on the protection of the European Communities' financial interests done at Brussels on 27 September 1996;
+‘fraud affecting the financial interests of the European Union’ has the same meaning as ‘fraud affecting the Union’s financial interests’ in Article 3(2) of the Directive;
 
-“fraud affecting the European Communities' financial interests” has the meaning given to it by Article 1.1 of the Convention;
+‘misappropriation’ has the same meaning as it has in Article 4(3) of the Directive;
 
-‘money laundering’ means an offence under Part 2 of the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010;
+‘money laundering offence’ means an offence under Part 2 of the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010; ‘national official’, for the purposes of the application of Article 4(4)(a) of the Directive, means an Irish official within the meaning of section 2(1) of the Act of 2018;
 
-“national official”, for the purposes of the application in the State of Article 1.1(c) of the First Protocol, means any one of the following persons:
+‘public official’ means—
 
-(a) a Minister of the Government or Minister of State;
+(a) a Union official within the meaning of Article 4(4)(a)(i) of the Directive,
 
-(b) an Attorney General who is not a member of Dáil Éireann or Seanad Éireann;
+(b) a national official,
 
-(c) the Comptroller and Auditor General;
+(c) a foreign official within the meaning of section 2(1) of the Act of 2018, or
 
-(d) a member of Dáil Éireann or Seanad Éireann;
+(d) a person referred to in Article 4(4)(b) of the Directive.
 
-(e) a judge of a court in the State;
-
-(f) the Director of Public Prosecutions;
-
-(g) any other holder of an office who is remunerated wholly or partly out of moneys provided by the Oireachtas;
-
-(h) any person employed by a person referred to in any of paragraphs (d) to (g) in the performance of that person's official functions; and
-
-(i) a director of, or an occupier of a position of employment in, a public body as defined in the Ethics in Public Office Act, 1995, and, for the purposes of the application in the State of Article 4.2 of the First Protocol, any one of the following persons shall be treated as a national official:
-
-(i) a member of the Commission of the European Communities;
-
-(ii) a member of the European Parliament;
-
-(iii) a member of the Court of Justice of the European Communities;
-
-(iv) a member of the Court of Auditors of the European Communities;
-
-“official” has the meaning given to it by Article 1.1(a) of the First Protocol;
-
-...
-
-“Protocol on Interpretation” means the Protocol drawn up on the basis of Article K.3 of the Treaty on European Union, on the interpretation, by way of preliminary rulings, by the Court of Justice of the European Communities of the Convention on the protection of the European Communities’ financial interests done at Brussels on 29 November 1996; and
-
-“Second Protocol” means the Protocol drawn up on the basis of Article K.3 of the Treaty on European Union, to the Convention on the protection of the European Communities' financial interests done at Brussels on 19 June 1997.
-
-(2) For the purposes of sections 42(c) and 45(1)(a)—
-
-(a) a person benefits from fraud or money laundering if he or she obtains property as a result of or in connection with the commission of an offence under either of those provisions, and
-
-(b) a person derives a pecuniary advantage from fraud or money laundering if he or she obtains a sum of money as a result of or in connection with the commission of such an offence.
+(2) A word or expression that is used in this Part and that is also used in the Directive has, unless the context otherwise requires, the same meaning in this Part as it has in the Directive.
