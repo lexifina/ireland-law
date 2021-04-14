@@ -1,3 +1,3 @@
-Passive corruption.
+Passive corruption. (Repealed)
 
-44.—... h.
+44.—...
