@@ -1,0 +1,3 @@
+Proceedings in camera.
+
+12.—If in the course of proceedings, including proceedings on appeal, for an offence under section 9 or for an offence under Part II committed in a manner prejudicial to the safety or preservation of the State, application is made by the prosecution, on the ground that the publication of any evidence or statement to be given or made during any part of the hearing would be prejudicial to the safety or preservation of the State, that that part of the hearing should be in camera, the court shall make an order to that effect, but the verdict and sentence (if any) shall be announced in public.
