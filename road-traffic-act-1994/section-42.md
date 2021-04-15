@@ -1,3 +1,3 @@
-Power of road authority to provide and maintain certain equipment, etc. on public roads.
+Power of road authority to provide and maintain certain equipment, etc. on public roads. (Repealed)
 
 42.—...

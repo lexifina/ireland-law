@@ -1,3 +1,3 @@
-Functions of Director.
+Functions of Director. (Repealed)
 
 7.—...

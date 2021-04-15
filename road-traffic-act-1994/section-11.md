@@ -1,3 +1,3 @@
-Prohibition on being in charge of vehicle while under influence of intoxicant.
+Prohibition on being in charge of vehicle while under influence of intoxicant. (Repealed)
 
 11.—...

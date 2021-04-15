@@ -1,3 +1,3 @@
-Functions and duties of Bureau.
+Functions and duties of Bureau. (Repealed)
 
 6.—...

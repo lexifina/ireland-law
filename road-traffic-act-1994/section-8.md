@@ -1,3 +1,3 @@
-Protection of Director, etc., against legal proceedings.
+Protection of Director, etc., against legal proceedings. (Repealed)
 
 8.—...

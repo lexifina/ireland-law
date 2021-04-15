@@ -1,3 +1,3 @@
-Prohibition on driving vehicle while under influence of intoxicant.
+Prohibition on driving vehicle while under influence of intoxicant. (Repealed)
 
 10.—...

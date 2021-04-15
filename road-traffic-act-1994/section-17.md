@@ -1,3 +1,3 @@
-Procedure following provision of breath specimen under section 13.
+Procedure following provision of breath specimen under section
 
 17.—...

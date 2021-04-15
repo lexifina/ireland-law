@@ -1,3 +1,3 @@
-Detention of intoxicated drivers where a danger to selves or others.
+Detention of intoxicated drivers where a danger to selves or others. (Repealed)
 
 16.—...
