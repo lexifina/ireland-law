@@ -28,7 +28,7 @@ Repayment of adaptation grant.
 
 (b) have, in relation to the charge referred to in subsection (5), all the powers conferred by those Acts on mortgagees under mortgages made by deed.
 
-(7) Where a housing authority makes an order under subsection (3), it shall, as soon as practicable thereafter, cause the order to be registered in the Registry of Deeds or the Land Registry, as appropriate, and it shall be a sufficient description of the amount in respect of which the charge to which the order relates is being registered to state that amount to be the amount referred to insection 52 (4) of the Housing (Miscellaneous Provisions) Act 2009.
+(7) Where a housing authority makes an order under subsection (3), it shall, as soon as practicable thereafter, cause the order to be registered in the Registry of Deeds or the Land Registry, as appropriate, and it shall be a sufficient description of the amount in respect of which the charge to which the order relates is being registered to state that amount to be the amount referred to in section 52 (4) of the Housing (Miscellaneous Provisions) Act 2009.
 
 (8) An order under subsection (3) affecting a dwelling which is registered land within the meaning of the Registration of Title Act 1964 shall be registrable as a burden affecting such land whether the person named in the order as the owner of the land is or is not registered under that Act as the owner of the land.
 

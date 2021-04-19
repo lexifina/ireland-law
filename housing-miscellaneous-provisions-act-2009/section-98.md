@@ -6,9 +6,7 @@ Control on resale of certain sites or dwellings thereon.
 
 (3) The percentage referred to in subsection (2) is calculated in accordance with the following formula—
 
-Y x 100
-
-Z where—
+Y x 100 Z where—
 
 (a) Y is the difference between the market value of the site at the date of the sale to the qualified purchaser and the price actually paid, and
 

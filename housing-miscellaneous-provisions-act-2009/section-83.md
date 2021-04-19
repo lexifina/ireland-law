@@ -20,7 +20,7 @@ Affordable dwelling purchase arrangements.
 
 (iii) that the dwelling or any part thereof shall not, during the charged period, without the prior written consent of the housing authority, be let or sublet;
 
-(iv) terms and conditions relating to the making of payments under section 87, 89 or 90, as the case may be, and the consequences for the purchaser of failure to make those payments, and
+(iv) terms and conditions relating to the making of payments under section 87, 89 or 90 , as the case may be, and the consequences for the purchaser of failure to make those payments, and
 
 (b) may include the following:
 

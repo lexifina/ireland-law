@@ -2,7 +2,7 @@ Moneys owing to housing authority.
 
 33.— (1) This section applies to the following provisions:
 
-(a) sections 28, 31, 32 (8) and (9), 47 (4), 48 (5) and (6), 75 (4), 76 (5), 98and 99;
+(a) sections 28, 31, 32(8) and (9), 47(4), 48(5) and (6), 75(4), 76(5), 98 and 99;
 
 (b) section 13 of the Act of 1988;
 

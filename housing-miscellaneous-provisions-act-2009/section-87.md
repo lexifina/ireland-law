@@ -26,4 +26,4 @@ Y-Z% where—
 
 (7) Where the housing authority receives a payment under this section from the purchaser which is equivalent to the amount of the charge outstanding under the charging order, the housing authority shall discharge the charge.
 
-(8) Subject tosection 92, where a payment is made under this section, the housing authority shall be liable for any expenses, including in respect of the valuation of the dwelling, incurred under this section.
+(8) Subject to section 92, where a payment is made under this section, the housing authority shall be liable for any expenses, including in respect of the valuation of the dwelling, incurred under this section.

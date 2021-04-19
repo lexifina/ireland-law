@@ -62,7 +62,7 @@ Apartment complex comprising 20 or more 6 25% apartments
 
 (c) where the authority is not satisfied, having regard to the provisions of section 65(5), that the number of existing and prospective apartment purchasers willing to serve as directors of the management company is sufficient to enable the company to function effectively, or
 
-(d) where the designation of the apartment complex for tenant purchase has lapsed undersection 55 (3).
+(d) where the designation of the apartment complex for tenant purchase has lapsed under section 55 (3).
 
 (9A) In applying subsection (9)(a)(ii), a housing authority shall disregard the case where the authority or approved body concerned is satisfied that the failure of the tenant or the household member concerned to substantially comply with the terms of the rescheduling arrangements was due to circumstances outside the control of such tenant or household member.
 

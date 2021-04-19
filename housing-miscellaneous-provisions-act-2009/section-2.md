@@ -40,7 +40,7 @@ Interpretation.
 
 “joint homelessness consultative forum” shall be read in accordance with section 38;
 
-“household” means, subject to sections 20 and 84, a person who lives alone or 2 or more persons who live together;
+“household” means, subject to sections 20 and 84 , a person who lives alone or 2 or more persons who live together;
 
 “housing action programme” has the meaning given to it by section 18;
 
@@ -62,9 +62,9 @@ Interpretation.
 
 “material improvements” means improvements made to—
 
-(a) a dwelling sold under an incremental purchase arrangement under Part 3, or
+(a) a dwelling sold under an incremental purchase arrangement under Part 3 , or
 
-(b) subject to section 78(3), a dwelling sold under an affordable dwelling purchase arrangement under Part 5, whether for the purposes of extending, enlarging, repairing or converting the dwelling, but does not include decoration, or any improvements carried out on the land including the construction of the dwelling;
+(b) subject to section 78(3), a dwelling sold under an affordable dwelling purchase arrangement under Part 5 , whether for the purposes of extending, enlarging, repairing or converting the dwelling, but does not include decoration, or any improvements carried out on the land including the construction of the dwelling;
 
 “Minister” means the Minister for the Environment, Heritage and Local Government;
 

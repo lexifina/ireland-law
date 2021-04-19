@@ -6,9 +6,7 @@ Charging order.
 
 (3) The charged share is calculated in accordance with the following formula:
 
-Y x 100
-
-Z where—
+Y x 100 Z where—
 
 (a) Y is the difference between the purchase price of the dwelling at the time of sale to the purchaser and the purchase money, and
 
@@ -48,7 +46,7 @@ Z where—
 
 (ii) to obtain a further advance of moneys from the holder, society or institution referred to in subsection (10), for any purpose.
 
-(12) Any amount that becomes payable to a housing authority or an approved body under section 47 or 48may, without prejudice to any other power in that behalf, be recovered by the authority or approved body, as the case may be, from the person concerned as a simple contract debt in any court of competent jurisdiction.
+(12) Any amount that becomes payable to a housing authority or an approved body under section 47 or 48 may, without prejudice to any other power in that behalf, be recovered by the authority or approved body, as the case may be, from the person concerned as a simple contract debt in any court of competent jurisdiction.
 
 (13) For the avoidance of doubt, neither a charging order nor a charge that arises under it shall be regarded as a conveyance for the purposes of section 3 of the Family Home Protection Act 1976.
 

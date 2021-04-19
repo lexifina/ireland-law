@@ -4,9 +4,7 @@ Suspension of reduction of charged share.
 
 (2) Where the housing authority suspends the reduction of the charged share under subsection (1), the charged share on the property shall be calculated in accordance with the following formula:
 
-Y x 100 - R
-
-Z where—
+Y x 100 - R Z where—
 
 (a) Y is the difference between the purchase price of the apartment at the time of sale to the apartment purchaser and the purchase money,
 

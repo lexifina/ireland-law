@@ -1,6 +1,6 @@
 Management company annual charges.
 
-69.— (1) A management company may issue a single request for payment of the aggregate of the charges arising under sections 67 and 68, and every request for payment, whether in reliance on this section or on section 67 or 68 shall set out the basis of the calculation of the charge, a breakdown of how it is calculated and the amount payable in respect of the apartment concerned.
+69.— (1) A management company may issue a single request for payment of the aggregate of the charges arising under sections 67 and 68 , and every request for payment, whether in reliance on this section or on section 67 or 68 shall set out the basis of the calculation of the charge, a breakdown of how it is calculated and the amount payable in respect of the apartment concerned.
 
 (2) Where payment of charges arising under sections 67 and 68 are requested or collected together such charges may collectively be referred to as “management company annual charges”.
 

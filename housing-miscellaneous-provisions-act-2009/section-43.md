@@ -24,7 +24,7 @@ Interpretation (Part 3).
 
 “net market value” means the market value reduced by an allowance equal to the amount of the market value attributable to material improvements;
 
-“purchase money”, in relation to a dwelling to which this Part applies, means the monetary value of the proportion of the purchase price of the dwelling fixed by the housing authority, in accordance with regulations made under section 49for the purposes of calculating the purchase money, as the proportion that is required to be paid to purchase the dwelling;
+“purchase money”, in relation to a dwelling to which this Part applies, means the monetary value of the proportion of the purchase price of the dwelling fixed by the housing authority, in accordance with regulations made under section 49 for the purposes of calculating the purchase money, as the proportion that is required to be paid to purchase the dwelling;
 
 “purchase price”, in relation to a dwelling to which this Part applies, means the price of the dwelling determined by a housing authority in accordance with regulations made under section 49 for the purposes of calculating the purchase price;
 

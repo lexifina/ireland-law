@@ -4,7 +4,7 @@ Affordable Dwellings Fund.
 
 (2) Housing authorities shall pay into the Fund—
 
-(a) any moneys paid by purchasers pursuant to section 87, 89, 90 or 91,
+(a) any moneys paid by purchasers pursuant to section 87, 89 , 90 or 91 ,
 
 (b) in the case of dwellings purchased under section 3 of the Act of 1992 before the coming into operation of this Part and section 7 (in so far as it applies to the said Act and the Act of 2002), any moneys paid in accordance with section 10 of the Act of 2002 before the said coming into operation,
 

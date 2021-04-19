@@ -4,9 +4,9 @@ Charging order.
 
 (2) The charging order shall create a charge in favour of the housing authority in respect of an undivided percentage share (in this Part referred to as the “charged share”), calculated in accordance with subsection (3), in the apartment which charged share shall be reduced in accordance with subsection (4).
 
-(3) The charged share is calculated in accordance with the following formula: Y x 100
+(3) The charged share is calculated in accordance with the following formula:
 
-Z where—
+Y x 100 Z where—
 
 (a) Y is the difference between the purchase price of the apartment at the time of sale to the apartment purchaser and the purchase money, and
 
@@ -46,10 +46,10 @@ Z where—
 
 (ii) to obtain a further advance of moneys from the holder, society or institution referred to in subsection (10), for any purpose.
 
-(12) Any amount that becomes payable to a housing authority under section 75 or 76, as the case may be, may, without prejudice to any other power in that behalf, be recovered by the housing authority from the person concerned as a simple contract debt in any court of competent jurisdiction.
+(12) Any amount that becomes payable to a housing authority under section 75 or 76 , as the case may be, may, without prejudice to any other power in that behalf, be recovered by the housing authority from the person concerned as a simple contract debt in any court of competent jurisdiction.
 
 (13) For the avoidance of doubt, neither a charging order nor a charge that arises under it shall be regarded as a conveyance for the purposes of section 3 of the Family Home Protection Act 1976.
 
 (14) (a) On the occurrence of the earlier of the events specified in subsection (4)(a) and subject to the terms and conditions of the apartment assignment order and of the charging order having been complied with, the housing authority shall, where requested to do so by the apartment purchaser, execute a deed of discharge in respect of the charging order.
 
-(b) The housing authority shall be liable for any expenses incurred in the execution and registration of a deed of discharge but shall not otherwise be liable for any expenses incurred by an apartment purchaser under this section or under section 75 or 76.
+(b) The housing authority shall be liable for any expenses incurred in the execution and registration of a deed of discharge but shall not otherwise be liable for any expenses incurred by an apartment purchaser under this section or under section 75 or 76 .

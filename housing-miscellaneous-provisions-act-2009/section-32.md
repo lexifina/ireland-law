@@ -60,7 +60,7 @@ Information requirements.
 
 (6) (a) Without prejudice to subsection (2), the Minister may make regulations for the purposes of—
 
-(i) the purchase of a dwelling under an incremental purchase arrangement under Part 3,
+(i) the purchase of a dwelling under an incremental purchase arrangement under Part 3 ,
 
 (ii) the purchase of an apartment under Part 4, ...
 

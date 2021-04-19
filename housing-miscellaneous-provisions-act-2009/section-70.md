@@ -50,7 +50,7 @@ Apartment complex support fund.
 
 (c) transfer same to the sinking fund of the management company in such instalments and at such times as the housing authority considers reasonable having regard to the progress of the works concerned.
 
-(8) The management company in carrying out any of the worksreferred to insection 68 (1) (a) to (c) shall comply with such conditions if any as may be attached under subsection (7) (b) to the decision to transfer moneys under subsection (4).
+(8) The management company in carrying out any of the works referred to in section 68 (1) (a) to (c) shall comply with such conditions if any as may be attached under subsection (7) (b) to the decision to transfer moneys under subsection (4).
 
 (9) (a) The housing authority may, for the purpose of establishing that the moneys transferred under subsection (4) were used for the purpose for which they were intended and in compliance with the conditions attached under subsection (7) (b) to its decision to transfer moneys, carry out such further inspections, surveys and tests of the works concerned as it considers necessary.
 
