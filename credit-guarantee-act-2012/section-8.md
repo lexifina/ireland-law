@@ -1,4 +1,4 @@
-Payment of
+Payment of charge to Minister by participating borrower.
 
 8. (1) Subject to this section, a participating enterprise shall, in accordance with a credit guarantee scheme that applies to the enterprise and a qualifying finance agreement entered into by the enterprise with a participating finance provider, pay to the Minister an amount (in this section referred to as the ‘premium’) determined by the Minister in accordance with the methodology specified in the scheme for the purposes of making that determination.
 

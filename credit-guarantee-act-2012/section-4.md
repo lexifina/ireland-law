@@ -1,4 +1,4 @@
-Power of
+Power of Minister to give guarantees.
 
 4. (1) Subject to this section, section 4A and section 12 of the Credit Guarantee (Amendment) Act 2016, the Minister may, in accordance with a credit guarantee scheme, enter into an agreement with a participating finance provider guaranteeing the due repayment or payment, as the case may be, to that participating finance provider of such part of the credit amount under a qualifying finance agreement as is specified in the first-mentioned agreement.
 
@@ -8,9 +8,9 @@ Power of
 
 (b) stands unpaid.
 
-(3)Subject to subsection (4A), the Minister shall not exercise the powers conferred on him or her by this section in such manner as would result in his or her being liable, in respect of qualifying finance agreements entered into by the same participating finance provider, to pay to that participating finance provider amounts the aggregate of which would exceed 13 per cent of the aggregate of the credit amounts under those qualifying finance agreements.
+(3) Subject to subsection (4A), the Minister shall not exercise the powers conferred on him or her by this section in such manner as would result in his or her being liable, in respect of qualifying finance agreements entered into by the same participating finance provider, to pay to that participating finance provider amounts the aggregate of which would exceed 13 per cent of the aggregate of the credit amounts under those qualifying finance agreements.
 
-(4)Subject to subsection (4A), the Minister shall not exercise the powers conferred on him or her by this section in such manner as would result in the yearly credit amount to which guarantees under this section apply exceeding €150 million.
+(4) Subject to subsection (4A), the Minister shall not exercise the powers conferred on him or her by this section in such manner as would result in the yearly credit amount to which guarantees under this section apply exceeding €150 million.
 
 (4A) Subsections (3) and (4) shall not apply to—
 
