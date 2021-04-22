@@ -1,4 +1,4 @@
-Agreement
+Agreement for performance of functions under credit guarantee scheme.
 
 7.— (1) The Minister may enter into an agreement with another person (in this Act referred to as the “contractor”) for the performance by that person of such functions under a credit guarantee scheme as may be specified in the agreement.
 

@@ -78,11 +78,13 @@ Interpretation.
 
 (a) such date or dates as may be specified in the agreement, or
 
-(b) the happening of such event as may be so specified, in consideration of that qualifying enterprise agreeing to repay to the participating finance provider the principal of any sum or sums so given or advanced, and interest (if any) thereon, on such date or dates as may be so specified, but does not include an agreement to provide a facility (commonly known as an overdraft facility , credit card facility or credit line facility) to a qualifying enterprise; and “loan” shall be construed accordingly;
+(b) the happening of such event as may be so specified, in consideration of that qualifying enterprise agreeing to repay to the participating finance provider the principal of any sum or sums so given or advanced, and interest (if any) thereon, on such date or dates as may be so specified, but does not include an agreement to provide a facility commonly known as an overdraft facility , credit card facility or credit line facility) to a qualifying enterprise; and “loan” shall be construed accordingly;
 
 “Minister” means the Minister for Jobs, Enterprise and Innovation;
 
-... “participating enterprise” means a qualifying enterprise—
+...
+
+“participating enterprise” means a qualifying enterprise—
 
 (a) belonging to a class to which a credit guarantee scheme applies, and
 
