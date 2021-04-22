@@ -1,4 +1,4 @@
-Credit
+Credit guarantee scheme.
 
 5.— (1) The Minister may, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, make a scheme or schemes for the purposes of this Act.
 
@@ -8,11 +8,7 @@ Credit
 
 (b) the extent of the Minister’s liability to a participating finance provider in accordance with an agreement under section 4 in circumstances where the participating finance provider fails or refuses to comply with this Act or a scheme under this section;
 
-(c) variation of the terms of an agreement under
-
-## section 4
-
-in circumstances where a participating finance provider fails or refuses to comply with this Act or a scheme under this section;
+(c) variation of the terms of an agreement under section 4 in circumstances where a participating finance provider fails or refuses to comply with this Act or a scheme under this section;
 
 (d) without prejudice to the generality of section 8(4), the method of payment of the premium under section 8 and the time or times at which the premium shall be paid;
 
