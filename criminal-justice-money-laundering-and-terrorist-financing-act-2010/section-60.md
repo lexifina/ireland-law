@@ -16,10 +16,12 @@ Meaning of “competent authority”.
 
 (c) in the case of a designated person who is a solicitor, the Law Society of Ireland;
 
-(d) in the case of a designated person who is a barrister who is a member of the Law Library, the General Council of the Bar of Ireland;
+(d) in the case of a designated person who is a barrister, the Legal Services Regulatory Authority;
 
-(da) in the case of a designated person who is a barrister who is not a member of the Law Library, the Legal Services Regulatory Authority;
+(da) ...
 
-(e) in the case of any designated person other than a designated person referred to in paragraph (a), (b), (c) or (d), the Minister.
+(db) in the case of a designated person that is a property services provider, the Property Services Regulatory Authority;
+
+(e) in the case of any designated person other than a designated person referred to in paragraph (a), (b), (c) , (d) or (db), the Minister.
 
 (3) The Minister may prescribe a competent authority for a class of designated persons, for the purpose of subsection (1), only if the Minister is satisfied that the competent authority is more appropriate than the competent authority specified in subsection (2) for the class of designated persons, having regard to the nature of the business activities engaged in by that class.
