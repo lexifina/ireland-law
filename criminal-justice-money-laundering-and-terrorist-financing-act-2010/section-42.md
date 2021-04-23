@@ -41,3 +41,5 @@ Requirement for designated persons and related persons to report suspicious tran
 (a) comprise money laundering or terrorist financing, or
 
 (b) assist in money laundering or terrorist financing.
+
+(11) FIU Ireland shall, where practicable, provide timely feedback to a designated person who is required to make a report under this section on the effectiveness of and follow-up to reports made to it under this section.

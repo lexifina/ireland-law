@@ -34,6 +34,8 @@ Enhanced customer due diligence — politically exposed persons.
 
 (c) in addition to measures to be applied in accordance with section 35(3), apply enhanced monitoring of the business relationship with the customer.
 
+(4A) A designated person shall continue to apply the measures referred to in subsection (4) to a politically exposed person for as long as is reasonably required to take into account the continuing risk posed by that person and until such time as that person is deemed to pose no further risk specific to politically exposed persons.
+
 (5) Notwithstanding subsections (2)(a) and (4)(a), a credit institution or financial institution may allow a bank account to be opened with it by a customer before taking the steps referred to in subsection (1) or seeking the approval referred to in subsection (4)(a), so long as the institution ensures that transactions in connection with the account are not carried out by or on behalf of the customer or any beneficial owner concerned before taking the steps or seeking the approval, as the case may be.
 
 (6) If a designated person knows or has reasonable grounds to believe that a beneficial owner ... connected with a customer or with a service sought by a customer, is, or has become, a politically exposed person or an immediate family member or close associate of a politically exposed person, the designated person shall apply the measures specified in subsection (4)(a), (b) and (c) in relation to the customer concerned.
@@ -88,11 +90,13 @@ Enhanced customer due diligence — politically exposed persons.
 
 (g) any other family member of the politically exposed person who is of a prescribed class;
 
-“politically exposed person” means an individual who is, or has at any time in the preceding 12 months been, entrusted with a prominent public function, including either of the following individuals (but not including any middle ranking or more junior official):
+“politically exposed person” means an individual who is, or has at any time in the preceding 12 months been, entrusted with a prominent public function, including any of the following individuals (but not including any middle ranking or more junior official):
 
 (a) a specified official;
 
-(b) a member of the administrative, management orsupervisory body of a state-owned enterprise;
+(b) a member of the administrative, management or supervisory body of a state-owned enterprise;
+
+(c) any individual performing a prescribed function;
 
 “specified official” means any of the following officials (including any such officials in an institution of the European Communities or an international body):
 
@@ -111,3 +115,7 @@ Enhanced customer due diligence — politically exposed persons.
 (f) a director, deputy director or member of the board of, or person performing the equivalent function in relation to, an international organisation.
 
 (11) The Minister may prescribe a class of family member of a politically exposed person, for the purposes of paragraph (g) of the definition of “immediate family member” of a politically exposed person in subsection (10), only if the Minister is satisfied that it would be appropriate for the provisions of this section to be applied in relation to members of the class, having regard to any heightened risk, arising from their close family relationship with the politically exposed person, that such members may be involved in money laundering or terrorist financing.
+
+(12) The Minister may, with the consent of the Minister for Finance, issue guidelines to the competent authorities in respect of functions in the State that may be considered to be prominent public functions and each competent authority shall have regard to any such guidelines.
+
+(13) The Minister may, where he or she believes it is necessary to do so, and with the consent of the Minister for Finance, issue guidelines to the competent authorities for the purpose of facilitating the consistent, effective and risk-based application of this section.

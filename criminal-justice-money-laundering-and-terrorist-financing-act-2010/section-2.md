@@ -8,6 +8,8 @@ Interpretation.
 
 ...
 
+‘Fifth Money Laundering Directive’ means Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU;
+
 “Minister” means the Minister for Justice, Equality and Law Reform;
 
 “money laundering” means an offence under Part 2 ;
@@ -26,10 +28,12 @@ Interpretation.
 
 “terrorist financing” means an offence under section 13 of the Criminal Justice (Terrorist Offences) Act 2005;
 
-“Third Money Laundering Directive” means Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing , as amended by the following:
+“Third Money Laundering Directive” means Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing, as amended by the following:
 
-(a) Directive 2007/64/EC of the European Parliament and of the Council of 13 November 2007 on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC ;
+(a) Directive 2007/64/EC of the European Parliament and of the Council of 13 November 2007 on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC;
 
-(b) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC .
+(b) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC.
 
 (2) A word or expression used in this Act and also used in the Fourth Money Laundering Directive has, unless the contrary intention appears, the same meaning in this Act as in that Directive.
+
+(3) In this Act a reference to an Appeal Tribunal shall be construed as a reference to the Appeal Tribunal established under section 101A (inserted by section 24 of the Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021).

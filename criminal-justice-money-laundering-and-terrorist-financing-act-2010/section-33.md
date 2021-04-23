@@ -28,21 +28,27 @@ Identification and verification of customers and beneficial owners.
 
 (ii) the person has not obtained any other documents or information that the person has reasonable grounds to believe can be relied upon to confirm the identity of the customer, and
 
-(e) at any time, including a situation where the relevant circumstances of a customer have changed, where the risk of money laundering and terrorist financing warrants their application.
+(e) at any time, including a situation where the relevant circumstances of a customer have changed, where the risk of money laundering and terrorist financing warrants their application, or
+
+(f) at any time where the designated person is obliged by virtue of any enactment or rule of law, including the European Union (Administrative Cooperation in the Field of Taxation) Regulations 2012 (S.I. No. 549 of 2012), to contact a customer for the purposes of reviewing any relevant information relating to the beneficial owner connected with the customer.
 
 (2) The measures that shall be applied , in accordance with section 30B, by a designated person under subsection (1) are as follows:
 
 (a) identifying the customer, and verifying the customer’s identity on the basis of documents (whether or not in electronic form), or information, that the designated person has reasonable grounds to believe can be relied upon to confirm the identity of the customer, including—
 
-(i) documents from a government source (whether or not a State government source), or
+(i) documents from a government source (whether or not a State government source), ...
+
+(ia) information from relevant trust services as specified in the Electronic Identification Regulation, or
 
 (ii) any prescribed class of documents, or any prescribed combination of classes of documents;
 
 (b) identifying any beneficial owner connected with the customer or service concerned, and taking measures reasonably warranted by the risk of money laundering or terrorist financing—
 
-(i) to verify the beneficial owner’s identity to the extent necessary to ensure that the person has reasonable grounds to be satisfied that the person knows who the beneficial owner is, and
+(i) to verify the beneficial owner’s identity to the extent necessary to ensure that the person has reasonable grounds to be satisfied that the person knows who the beneficial owner is, ...
 
-(ii) in the case of a legal entity or legal arrangement of a kind referred to in section 26, 27, 28 or 30, to understand the ownership and control structure of the entity or arrangement concerned.
+(ii) in the case of a legal entity or legal arrangement of a kind referred to in section 26, 27, 28 or 30, to understand the ownership and control structure of the entity or arrangement concerned, and
+
+(iii) where the beneficial owner is the senior managing official referred to in Article 3(6)(a)(ii) of the Fourth Money Laundering Directive, a designated person shall take the necessary measures to verify the identity of that person and shall keep records of the actions taken to verify the person’s identity including any difficulties encountered in the verification process.
 
 (2A) When applying the measures specified in subsection (2), a designated person shall verify that any person purporting to act on behalf of the customer is so authorised and identify and verify the identity of that person in accordance with subsection (2).
 
