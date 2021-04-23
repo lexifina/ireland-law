@@ -4,7 +4,7 @@ Transitional provision for existing debt management firms.
 
 “Transitional provision for existing debt management firms.
 
-34D.— (1) Notwithstanding section 29, a person carrying on the business of a debt management firm immediately before the commencement of Part 10of the Central Bank (Supervision and Enforcement) Act 2013 is taken to be authorised to carry on the business of a debt management firm until the Bank has granted or refused authorisation to the person, provided that the person applies to the Bank under section 30 for authorisation no later than 3 months after that commencement.
+34D.— (1) Notwithstanding section 29, a person carrying on the business of a debt management firm immediately before the commencement of Part 10 of the Central Bank (Supervision and Enforcement) Act 2013 is taken to be authorised to carry on the business of a debt management firm until the Bank has granted or refused authorisation to the person, provided that the person applies to the Bank under section 30 for authorisation no later than 3 months after that commencement.
 
 (2) If a person is taken to be authorised to carry on the business of a debt management firm under subsection (1), the Bank may do either or both of the following:
 

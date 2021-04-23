@@ -10,7 +10,7 @@ Consultation before making regulations.
 
 (2) (a) This subsection applies to credit unions acting under an authorisation from the Bank under Part II of the Credit Union Act 1997.
 
-(b) Before making regulations under section 48in respect of credit unions to which this subsection applies, the Bank shall also consult with—
+(b) Before making regulations under section 48 in respect of credit unions to which this subsection applies, the Bank shall also consult with—
 
 (i) the Credit Union Advisory Committee (within the meaning of the Credit Union Act 1997), and
 

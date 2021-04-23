@@ -38,7 +38,7 @@ Definitions (Part 5).
 
 (j) threats of reprisal;
 
-“protected disclosure” shall be read in accordance withsection 38.
+“protected disclosure” shall be read in accordance with section 38.
 
 (2) For the purposes of this Part and Schedule 5, two employers shall be taken to be associated if one is a body corporate of which the other (whether directly or indirectly) has control or if both are bodies corporate of which a third person (whether directly or indirectly) has control and “associated employer” shall be read accordingly.
 
