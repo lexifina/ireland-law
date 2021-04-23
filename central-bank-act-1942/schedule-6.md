@@ -42,7 +42,9 @@ FINANCIAL SERVICES OMBUDSMAN COUNCIL
 
 5.—(1) If the office of a member becomes vacant, the Minister is required to arrange for a suitably qualified person to be appointed to fill the vacancy in accordance with this Act within 60 days after the date on which the vacancy occurred.
 
-(2) Subparagraph (1) does not apply if the term of office of the member concerned was due to expire within 60 days after the vacancy occurred. 6.—The procedure for convening meetings of the Council and for the conduct of business at those meetings is, subject to this Schedule, to be as determined by the Council. The Council may determine that procedure by means of rules or standing orders or by any other means.
+(2) Subparagraph (1) does not apply if the term of office of the member concerned was due to expire within 60 days after the vacancy occurred.
+
+6.—The procedure for convening meetings of the Council and for the conduct of business at those meetings is, subject to this Schedule, to be as determined by the Council. The Council may determine that procedure by means of rules or standing orders or by any other means.
 
 7.—The quorum for a meeting of the Council is a majority of the members of the Council.
 
