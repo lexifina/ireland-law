@@ -6,7 +6,7 @@ Duties of competent authorities.
 
 (b) sensitive information relating to its supervisory functions is appropriately handled within the competent authority,
 
-(c) it employs only persons with appropriate qualifications, integrity and professional skills to carry out the supervisory functions and maintain high professional standards, including standards of confidentiality and data protection, and
+(c) it employs only persons with appropriate qualifications, integrity and professional skills to carry out the supervisory functions and maintain high professional standards, including standards of confidentiality and data protection and standards addressing conflicts of interest, and
 
 (d) a contravention of a requirement imposed by or under this Act by a designated person it is responsible for supervising renders that person liable to effective, proportionate and dissuasive disciplinary measures under its rules.
 

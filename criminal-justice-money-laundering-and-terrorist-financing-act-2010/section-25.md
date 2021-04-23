@@ -6,19 +6,25 @@ Meaning of “designated person”.
 
 (b) a financial institution, except as provided by subsection (4),
 
-(c) an auditor, external accountant or tax adviser,
+(c) an auditor, external accountant , tax adviser or any other person whose principal business or professional activity is to provide, directly or by means of other persons to which that other person is related, material aid, assistance or advice on tax matters,
 
 (d) subject to subsection (1A), a relevant independent legal professional,
 
 (e) a trust or company service provider,
 
-(f) a property service provider,
+(f) a property service provider including a property service provider acting as an intermediary in the letting of immovable property, but only in respect of transactions for which the monthly rent amounts to a total of at least €10,000,
 
 (g) a casino,
 
 (h) a person who effectively directs a private members’ club at which gambling activities are carried on, but only in respect of those gambling activities,
 
-(i) any person trading in goods, but only in respect of transactions involving payments, to the person or by the person in cash, of a total of at least €10,000 (whether in one transaction or in a series of transactions that are or appear to be linked to each other), or
+(i) any person trading in goods, but only in respect of transactions involving payments, to the person or by the person in cash, of a total of at least €10,000 (whether in one transaction or in a series of transactions that are or appear to be linked to each other), ...
+
+(ia) a virtual asset service provider,
+
+(ib) a person trading or acting as an intermediary in the trade of works of art (including when carried out by an art gallery or an auction house) but only in respect of transactions of a total value of at least €10,000 (whether in one transaction or in a series of transactions that are or appear to be linked to each other),
+
+(ic) a person storing, trading or acting as an intermediary in the trade of works of art when this is carried out in a free port but only in respect of transactions of a total value of at least €10,000 (whether in one transaction or as a series of transactions that are or appear to be linked to each other), or
 
 (j) any other person of a prescribed class.
 

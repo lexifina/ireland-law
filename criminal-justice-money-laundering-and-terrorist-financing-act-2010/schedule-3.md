@@ -22,7 +22,7 @@ NON-EXHAUSTIVE LIST OF FACTORS SUGGESTING POTENTIALLY LOWER RISK
 
 (e) products where the risks of money laundering and terrorist financing are managed by other factors such as purse limits or transparency of ownership (e.g. certain types of electronic money).
 
-(3) Geographical risk factors:
+(3) Geographical risk factors - registration, establishment, residence in:
 
 (a) Member States;
 

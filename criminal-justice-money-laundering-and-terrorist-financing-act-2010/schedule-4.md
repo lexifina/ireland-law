@@ -16,7 +16,9 @@ NON-EXHAUSTIVE LIST OF FACTORS SUGGESTING POTENTIALLY HIGHER RISK
 
 (f) businesses that are cash intensive;
 
-(g) the ownership structure of the company appears unusual or excessively complex given the nature of the company’s business.
+(g) the ownership structure of the company appears unusual or excessively complex given the nature of the company’s business;
+
+(h) the customer is a third country national who applies for residence rights or citizenship in the State in exchange for capital transfers, purchase of property or government bonds or investment in corporate entities in the State.
 
 (2) Product, service, transaction or delivery channel risk factors:
 
@@ -24,11 +26,13 @@ NON-EXHAUSTIVE LIST OF FACTORS SUGGESTING POTENTIALLY HIGHER RISK
 
 (b) products or transactions that might favour anonymity;
 
-(c) non-face-to-face business relationships or transactions;
+(c) non face-to-face business relationships or transactions, without certain safeguards, such as electronic identification means, relevant trust services as defined in the Electronic Identification Regulation or any other secure, remote or electronic, identification process regulated, recognised, approved or accepted by the relevant national authorities;
 
 (d) payment received from unknown or unassociated third parties;
 
-(e) new products and new business practices, including new delivery mechanism, and the use of new or developing technologies for both new and pre-existing products.
+(e) new products and new business practices, including new delivery mechanism, and the use of new or developing technologies for both new and pre-existing products;
+
+(f) transactions related to oil, arms, precious metals, tobacco products, cultural artefacts and other items of archaeological, historical, cultural and religious importance, or of rare or scientific value, as well as ivory and protected species.
 
 (3) Geographical risk factors:
 

@@ -60,6 +60,8 @@ Definitions.
 
 (b) An Post in respect of any activity that it carries out, whether as principal or agent, that would render it, or a principal for whom it is an agent, a credit institution as a result of the application of paragraph (a);
 
+‘custodian wallet provider’ means an entity that provides services to safeguard private cryptographic keys on behalf of its customers, to hold, store and transfer virtual currencies;
+
 “customer”—
 
 (a) in relation to an auditor, means—
@@ -81,6 +83,8 @@ Definitions.
 ‘Directive of 2009’ means Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS);
 
 “EEA State” means a state that is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by the Protocol signed at Brussels on 17 March 1993;
+
+'Electronic Identification Regulation’ means Regulation (EU) No. 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC;
 
 ‘electronic money’ means electronic money within the meaning of the European Communities (Electronic Money) Regulations 2011 (S.I. No. 183 of 2011);
 
@@ -116,7 +120,9 @@ Definitions.
 
 (ii) that is set out at reference number 1 in the Schedule to the European Union (Capital Requirements) Regulations 2014, or
 
-(iii) that would render it, or a principal for whom it is an agent, an investment business firm within the meaning of the Investment Intermediaries Act 1995 (other than a non-life insurance intermediary within the meaning of that Act) if section 2(6) of that Act did not apply;
+(iii) that would render it, or a principal for whom it is an agent, an investment business firm within the meaning of the Investment Intermediaries Act 1995 (other than a non-life insurance intermediary within the meaning of that Act) if section 2(6) of that Act did not apply,
+
+(h) a virtual asset service provider;
 
 ‘group’ means a group of undertakings which consists of a parent undertaking, its subsidiaries, and the entities in which the parent undertaking or its subsidiaries hold a participation, as well as undertakings linked to each other by a relationship within the meaning of Article 22 of Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC;
 
@@ -170,7 +176,7 @@ Definitions.
 
 “professional service provider” means an auditor, external accountant, tax adviser, relevant independent legal professional or trust or company service provider;
 
-“property service provider” means a person who by way of business carries out any of the following services in respect of property located in or outside the State:
+‘property service provider’ means a person who provides a property service within the meaning of the Property Services (Regulation) Act 2011;
 
 (a) the auction of property other than land;
 
@@ -249,5 +255,19 @@ Definitions.
 (f) acting, or arranging for another person to act, as a trustee of a trust;
 
 (g) acting, or arranging for another person to act, as a nominee shareholder for a person other than a company whose securities are listed on a regulated market.
+
+‘virtual asset’ means a digital representation of value that can be digitally traded or transferred and can be used for payment or investment purposes but does not include digital representations of fiat currencies, securities or other financial assets;
+
+‘virtual asset service provider’ means a person who by way of business carries out one or more of the following activities for, or on behalf of, another person:
+
+(a) exchange between virtual assets and fiat currencies;
+
+(b) exchange between one or more forms of virtual assets;
+
+(c) transfer of virtual assets, that is to say, conduct a transaction on behalf of another person that moves a virtual asset from one virtual asset address or account to another;
+
+(d) custodian wallet provider;
+
+(e) participation in, and provision of, financial services related to an issuer’s offer or sale of a virtual asset or both; but does not include a designated person that is not a financial or credit institution and that provides virtual asset services in an incidental manner and is subject to supervision by a national competent authority, other than the Bank;
 
 (2) The Minister may prescribe a regulated financial market for the purposes of the definition of “regulated market” in subsection (1) only if the Minister is satisfied that the market is in a place other than an EEA State that imposes, on companies whose securities are admitted to trading on the market, disclosure requirements consistent with legislation of the European Communities.

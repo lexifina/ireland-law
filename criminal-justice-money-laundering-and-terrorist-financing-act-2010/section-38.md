@@ -1,6 +1,6 @@
 Enhanced customer due diligence — correspondent banking relationships.
 
-38. (1) A credit institution or financial institution (‘the institution’) shall not enter into a correspondent relationship with another credit institution or financial institution (‘the respondent institution’) situated in a place other than a Member State unless, prior to commencing the relationship, the institution—
+38. (1) A credit institution or financial institution (‘the institution’) shall not enter into a correspondent relationship involving the execution of payments with another credit institution or financial institution (‘the respondent institution’) situated in a place other than a Member State unless, prior to commencing the relationship, the institution—
 
 (a) has gathered sufficient information about the respondent institution to understand fully the nature of the business of the respondent institution,
 

@@ -58,7 +58,7 @@ Reliance on other persons to carry out customer due diligence.
 
 (a) there is an arrangement between the designated person (or, in the case of a designated person who is an employee, the designated person’s employer) and the relevant third party under which it has been agreed that the designated person may rely on the relevant third party to apply any such measure, and
 
-(b) the designated person is satisfied that the circumstances specified in paragraphs (a) to (c) of subsection (1A) exist, or on the basis of the arrangement, that the relevant third party will forward to the designated person, as soon as practicable after a request from the designated person, any documents (whether or not in electronic form) or information relating to the customer that has been obtained by the relevant third party in applying the measure.
+(b) the designated person is satisfied that the circumstances specified in paragraphs (a) to (c) of subsection (1A) exist, or on the basis of the arrangement, that the relevant third party will forward to the designated person, as soon as practicable after a request from the designated person, any documents (whether or not in electronic form) or information relating to the customer (including any information from relevant trust services as set out in the Electronic Identification Regulation) that has been obtained by the relevant third party in applying the measure.
 
 (5) A designated person who relies on a relevant third party to apply a measure under section 33 or 35(1) remains liable, under section 33 or 35(1), for any failure to apply the measure.
 
