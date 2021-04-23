@@ -268,13 +268,13 @@ Disclosure of information.
 
 (ba) to the Data Protection Commission that is required for the performance of that Commission’s functions under the Data Protection Regulation or the Data Protection Acts 1988 to 2018, or
 
-(bb) to financial intelligence units (within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU).
+(bb) to financial intelligence units (within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system
+
+OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU).
 
 (5A) Subsection (5) shall not apply to confidential information received by the Bank in the performance of its functions as a competent authority designated as such for the purposes of the Payment Services Directive.
 
 (5B) A person to whom subsection (1) applies shall not disclose confidential information concerning—
-
-OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43.
 
 (a) the business of any person or body whether corporate or incorporate that has come to the person’s knowledge through the person’s office or employment with the Bank, or
 
@@ -300,15 +300,15 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43.
 
 (i) to the persons responsible for carrying out statutory audits of the accounts of institutions, insurance undertakings and financial institutions,
 
+OJ No. L. 60, 28.2.2014, p. 34.
+
 (j) to the ESCB central banks and other bodies with a similar function in their capacity as monetary authorities when the information is relevant for the exercise of their respective statutory tasks,
 
 (k) to contractual or institutional protection schemes as referred to in Article 113(7) of the Capital Requirements Regulation
 
 (l) where appropriate, to other public authorities responsible for overseeing payment systems,
 
-(m) to the European Systemic Risk Board, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority, where
-
-OJ No. L. 60, 28.2.2014, p. 34. that information is relevant for the exercise of their functions under Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010, Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 or Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010, as the case may be,
+(m) to the European Systemic Risk Board, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority, where that information is relevant for the exercise of their functions under Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010, Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 or Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010, as the case may be,
 
 (n) to a clearing house or other similar body recognised under Irish law for the provision of clearing or settlement services where that information is necessary in order to ensure the proper functioning of those bodies in relation to defaults or potential defaults by market participants,
 
@@ -450,6 +450,12 @@ OJ No. L. 60, 28.2.2014, p. 34. that information is relevant for the exercise of
 
 (ag) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017,
 
-(ah) Regulation (EU) 2017/2394 of the European Parliament and of the Council of 12 December 2017;
+(ah) Regulation (EU) 2017/2394 of the European Parliament and of the Council of 12 December 2017,
+
+(ai) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019;
+
+(ai) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No. 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018;
 
 ‘supervised entity’ means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
+
+OJ, No L171, 29.6.2016, p. 1
