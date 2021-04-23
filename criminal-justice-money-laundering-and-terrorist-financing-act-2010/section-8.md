@@ -14,9 +14,9 @@ Money laundering outside State in certain circumstances.
 
 (d) a request for the person’s surrender, for the purpose of trying him or her for an offence in respect of the conduct, has been made under Part II of the Extradition Act 1965 by any country and the request has been finally refused (whether or not as a result of a decision of a court), or
 
-(e) a European arrest warrant has been received from an issuing state for the purpose of bringing proceedings against the person for an offence in respect of the conduct, and a final determination has been made that—
+(e) a relevant arrest warrant has been received from an issuing state for the purpose of bringing proceedings against the person for an offence in respect of the conduct, and a final determination has been made that—
 
-(i) the European arrest warrant should not be endorsed for execution in the State under the European Arrest Warrant Act 2003, or
+(i) the relevant arrest warrant should not be endorsed for execution in the State under the European Arrest Warrant Act 2003, or
 
 (ii) the person should not be surrendered to the issuing state.
 
@@ -28,4 +28,4 @@ Money laundering outside State in certain circumstances.
 
 (3) A person who has his or her principal residence in the State for the 12 months immediately preceding the commission of an offence under this section is, in a case where subsection (1)(c) applies, taken to be ordinarily resident in the State on the date of the commission of the offence.
 
-(4) In this section, “European arrest warrant” and “issuing state” have the same meanings as they have in the European Arrest Warrant Act 2003.
+(4) In this section, “relevant arrest warrant” and “issuing state” have the same meanings as they have in the European Arrest Warrant Act 2003.
