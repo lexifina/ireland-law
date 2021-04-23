@@ -6,7 +6,7 @@ Keeping of records by designated persons.
 
 (b) in the case of a designated person to whom section 38 applies, each correspondent relationship.
 
-(2) Without prejudice to the generality of subsection (1), a designated person shall take the original or a copy of all documents used by the designated person for the purposes of Chapter 3, including all documents used to verify the identity of customers or beneficial owners in accordance with section 33.
+(2) Without prejudice to the generality of subsection (1), a designated person shall take the original or a copy of all documents used by the designated person for the purposes of Chapter 3, including all documents used to verify the identity of customers (including information from relevant trust services as set out in the Electronic Identification Regulation) or beneficial owners in accordance with section 33.
 
 (3) A designated person shall keep records evidencing the history of services and transactions carried out in relation to each customer of the designated person.
 
