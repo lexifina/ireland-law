@@ -8,15 +8,13 @@ Defences — disclosures within undertaking or group.
 
 (2) It is a defence in any proceedings against a person for an offence under section 49, in relation to a disclosure, for the person to prove that, at the time of the disclosure—
 
-(a) the person was a credit institution or financial institution or a majority-owned subsidiary, or a branch, of a credit institution or financial institution, or made the disclosure on behalf of a credit institution or a financial institution or a majority-owned subsidiary, or a branch, of a credit institution or financial institution,
+(a) the person was a credit institution or financial institution or a majority-owned subsidiary, or a branch, of a credit institution or financial institution, or made the disclosure on behalf of a credit institution or a financial institution or a majority-owned subsidiary, or a branch, of a credit institution or financial institution, and
 
-(b) the disclosure was to a credit institution or a financial institution or a majority-owned subsidiary, or a branch, of a credit institution or financial institution,
+(b) the disclosure was to—
 
-(c) the institution to which the disclosure was made was situated in a Member State or a country other than a high-risk third country,
+(i) a credit institution or financial institution incorporated in a Member State, where both the institution making the disclosure, or on whose behalf the disclosure was made, and the institution to which it was made belonged to the same group, or
 
-(d) both the institution making the disclosure, or on whose behalf the disclosure was made, and the institution to which it was made belonged to the same group, and
-
-(e) both the institutions referred to in paragraph (d) were in compliance with group-wide policies and procedures adopted in accordance with section 54 or, as the case may be, Article 45 of the Fourth Money Laundering Directive.
+(ii) a majority-owned subsidiary or branch situated in a third country of a credit institution or financial institution incorporated in a Member State, where the subsidiary or branch was in compliance with group-wide policies and procedures adopted in accordance with section 54, or, as the case may be, Article 45 of the Fourth Money Laundering Directive.
 
 (3) It is a defence in any proceedings against a person for an offence under section 49, in relation to a disclosure, for the person to prove that, at the time of the disclosure—
 
