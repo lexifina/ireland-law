@@ -24,7 +24,7 @@ Discretion of Board not to arrange for making of assessment.
 
 (iv) in its opinion, the person purporting to act as a next friend, or as the case may be, a guardian of the claimant or a respondent has a conflict of interest in the matter, or otherwise would not be entitled to act as a next friend or guardian of the claimant or respondent were the relevant claim to be the subject of proceedings, and steps are unlikely to be taken in a timely fashion to secure an appropriate replacement for him or her, or
 
-(v) in its opinion, the relevant claim falls within a class of relevant claims as respects which the Board has, with the consent of the Minister and the Minister for Justice, Equality and Law Reform, for the time being declared there to be other good and substantial reasons for its not arranging the making of such an assessment in respect ofthem, or
+(v) in its opinion, the relevant claim falls within a class of relevant claims as respects which the Board has, with the consent of the Minister and the Minister for Justice, Equality and Law Reform, for the time being declared there to be other good and substantial reasons for its not arranging the making of such an assessment in respect of them, or
 
 (vi) the notice under section 13(1)(b) on the person or each of the persons who the claimant alleges in the application is or are liable to him or her in respect of the relevant claim cannot be served on, or given, or issued to the person in accordance with section 79, or
 

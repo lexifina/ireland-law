@@ -12,6 +12,4 @@ Enforceability of assessment.
 
 (ii) the amount, if any, directed to be paid under section 44 or 45 or both of those sections.
 
-(3) If the assessment is binding on more than one respondent, the liability of the respondents for payment of that amount or those amounts shall be joint and several and an order to pay shall include a statement to that effect.
-
-Chapter 3
+(3) If the assessment is binding on more than one respondent, the liability of the respondents for payment of that amount or those amounts shall be joint and several and an order to pay shall include a statement to that effect. Chapter 3

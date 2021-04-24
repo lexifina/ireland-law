@@ -38,7 +38,7 @@ Interpretation.
 
 “contract of employment” shall be deemed to include the legal relations that exist between a person holding an office of the kind referred to in the definition of “employee” in this subsection and the State, Government or other body referred to in that definition;
 
-‘Council Regulation (EC) No. 2027/97’means Council Regulation (EC) No. 2027/97 on air carrier liability in respect of the carriage of passengers and their baggage by air, as amended by Regulation (EC) No. 889/2002 and as amended from time to time;
+‘Council Regulation (EC) No. 2027/97’ means Council Regulation (EC) No. 2027/97 on air carrier liability in respect of the carriage of passengers and their baggage by air, as amended by Regulation (EC) No. 889/2002 and as amended from time to time;
 
 “employee” means a person of any age, who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment; and, for the purposes of this Act, a person holding office under, or in the service of, the State (including a civil servant within the meaning of the Civil Service Regulation Act 1956) shall be deemed to be an employee employed by the State or Government, as the case may be, and an employee, officer or servant of a local authority for the purposes of the Local Government Act 2001 or of a harbour authority or health board, or a member of staff of an education and training board shall be deemed to be an employee employed by the authority or board, as the case may be;
 
