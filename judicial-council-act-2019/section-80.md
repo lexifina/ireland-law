@@ -32,9 +32,7 @@ Referral by Judicial Conduct Committee to Minister of matter relating to conduct
 
 (8) Submissions to the Judicial Conduct Committee by a judge in relation to a report under subsection (3) shall be in writing.
 
-(9) The Judicial Conduct Committee shall, as soon as practicable after the expiration of the period specified in the notice referred to in subsection
-
-(7), consider the report received from the panel of inquiry under subsection (3) and the submissions (if any) made by the judge concerned.
+(9) The Judicial Conduct Committee shall, as soon as practicable after the expiration of the period specified in the notice referred to in subsection (7), consider the report received from the panel of inquiry under subsection (3) and the submissions (if any) made by the judge concerned.
 
 (10) If the Judicial Conduct Committee is satisfied that a referral is required in relation to the judge concerned, the Committee shall, as soon as practicable, furnish to the Minister—
 

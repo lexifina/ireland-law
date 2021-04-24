@@ -24,9 +24,7 @@ Accountability of Council to other Oireachtas committees
 
 (7) Pending the determination of an application under subsection (6), the Secretary shall not attend before the Oireachtas committee to give account for the matter that is the subject of the application.
 
-(8) If the High Court determines that the matter concerned is one to which subsection (2) applies, the Oireachtas committee shall withdraw the request referred to in subsection (1) but if the High Court determines that subsection
-
-(2) does not apply, the Secretary shall attend before the Oireachtas committee to give account for the matter.
+(8) If the High Court determines that the matter concerned is one to which subsection (2) applies, the Oireachtas committee shall withdraw the request referred to in subsection (1) but if the High Court determines that subsection (2) does not apply, the Secretary shall attend before the Oireachtas committee to give account for the matter.
 
 (9) In the performance of his or her duties under this section, the Secretary shall not question or express an opinion on the merits of any policy of the Government or any Minister of the Government or on the merits of the objectives of such a policy.
 
