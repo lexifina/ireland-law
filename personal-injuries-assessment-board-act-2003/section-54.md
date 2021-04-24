@@ -4,9 +4,9 @@ Functions of Board.
 
 (a) to arrange for the making, in accordance with this Act, of assessments of relevant claims the subject of applications to it under section 11,
 
-(b) to prepare and publish a document (which shall be known as the “Book of Quantum”) containing general guidelines as to the amounts that may be awarded or assessed in respect of specified types of injury,
+(b) ...
 
-(ba) to review from time to time the Book of Quantum and at least once every 3 years to prepare and publish a revised Book of Quantum,
+(ba) ...
 
 (c) to cause a cost-benefit analysis to be made of the legal procedures and the associated processes (including those provided for by this Act) that are currently employed in the State for the purpose of awarding compensation for personal injuries,
 
