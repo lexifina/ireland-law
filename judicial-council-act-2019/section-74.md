@@ -1,6 +1,6 @@
 Withdrawal of complaint while it is being investigated by panel of inquiry
 
-74. (1) Where a complaint is withdrawn by the complainant during the course of an investigation under this Chapter, the panel of inquiry appointed to conduct the investigation may, with the consent of the Judicial Conduct Committee, either—
+74. (1) Where a complaint is withdrawn by the complainant during the course complaint while of an investigation under this Chapter, the panel of inquiry appointed to it is being conduct the investigation may, with the consent of the Judicial Conduct investigated by Committee, either— panel of inquiry
 
 (a) decide that no further action should be taken in relation to the complaint, or
 
