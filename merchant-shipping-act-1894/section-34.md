@@ -1,0 +1,3 @@
+Mortgagee not treated as owner (Repealed)
+
+34.—...

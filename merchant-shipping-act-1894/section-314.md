@@ -1,0 +1,7 @@
+## Certificate for Clearance.
+
+Certificate for clearance
+
+314.—(1) A ship fitted or intended for the carriage of steerage passengers as an emigrant ship shall not clear outwards or proceed to sea until the master has obtained from the emigration officer at the port of clearance a certificate for clearance, that is to say a certificate that all the requirements of this Part of this Act, so far as the same can be complied with before the departure of the ship, have been duly complied with, and that the ship is in his opinion seaworthy, in safe trim, and in all respects fit for her intended voyage, and that the steerage passengers and crew are in a fit state to proceed, and that the master’s bond has been duly executed.
+
+(2) If the emigration officer refuses to grant such certificate, the owner or charterer of the ship may appeal in writing to the Board of Trade, and that Board shall thereupon appoint any two other emigration officers or any two competent persons to examine into the matter at the expense of the appellant, and if the officers or persons so appointed grant the master of the ship under their joint hands a certificate to the same purport as the certificate for clearance, it shall be of the same effect as a certificate for clearance.

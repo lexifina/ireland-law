@@ -1,0 +1,3 @@
+Documents to be handed over to successor on change of master
+
+258.—If during the progress of a voyage the master is removed, or superseded, or for any other reason quits the ship, and is succeeded in the command by some other person, he shall deliver to his successor the various documents relating to the navigation of the ship and to the crew thereof which are in his custody, and if he fails without reasonable cause so to do, he shall be liable to a fine not exceeding one hundred pounds; and his successor shall immediately on assuming the command of the ship enter in the official log-book a list of the documents so delivered to him.

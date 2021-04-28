@@ -1,0 +1,3 @@
+Penalty for acquiring ownership if unqualified (Repealed)
+
+71.—...

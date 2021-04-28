@@ -1,0 +1,7 @@
+Time of payment of wages for home trade ships
+
+135.—(1) The master or owner of every home trade ship shall pay to every seaman his wages within two days after the termination of the agreement with the crew, or at the time when the seaman is discharged, whichever first happens.
+
+(2) If a master or owner fails without reasonable cause to make payment at that time, he shall pay to the seaman a sum not exceeding the amount of two days pay for each of the days during which payment is delayed beyond that time, but the sum payable shall not exceed ten days double pay.
+
+(3) Any sum payable under this section may be recovered as wages.

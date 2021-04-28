@@ -1,0 +1,3 @@
+Rules as to certificates of sale (Repealed)
+
+44.—...

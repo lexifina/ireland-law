@@ -1,0 +1,3 @@
+Deserters and others may be sent back to their boats
+
+379.—Whenever any seaman or apprentice is brought before any court charged with the offence (under this Part of this Act) of desertion or of absence without leave, or with otherwise absenting himself from his boat without leave, the court may at the request of the owner or skipper or his agent, in addition to, or in lieu of, imposing any punishment to which he may be liable, cause him to be conveyed on board for the purpose of fulfilling his engagement, or deliver him to the skipper to be so conveyed by him, and may order any costs or expenses properly incurred to be paid by the offender, and if necessary to be deducted from any wages which he has then earned, or which he may thereafter earn under his engagement.

@@ -1,0 +1,3 @@
+Ascertainment of amount of forfeiture out of wages
+
+234.—If a seaman contracts for wages by the voyage or by the run or by the share, and not by the month or other stated period of time, the amount of forfeiture to be incurred under this Act shall be an amount bearing the same proportion to the whole wages or share, as a month or any other period herein-before mentioned in fixing the amount of such forfeiture (as the case may be) bears to the whole time spent in the voyage or run; and if the whole time spent in the voyage or run does not exceed the period for which the pay is to be forfeited, the forfeiture shall extend to the whole wages or share.

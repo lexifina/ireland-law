@@ -1,0 +1,7 @@
+Recovery of expenses incurred in conveying wrecked passengers and forwarding passengers
+
+334.— (1) All expenses incurred under this Part of this Act by or by the authority of a Secretary of State, governor of a British possession, or consular officer, in respect of a wrecked passenger, or forwarding of a passenger to his destination, including the cost of maintaining the passenger, until forwarded to his destination, and of all necessary bedding, provisions, and stores, shall be a joint and several debt to the Crown from the owner, charterer, and master of the ship on board of which the passenger had embarked.
+
+(2) In any proceeding for the recovery of that debt a certificate purporting to be under the hand of a Secretary of State, governor, or consular officer, and stating the circumstances of the case, and the total amount of the expenses, shall be admissible in evidence in manner provided by this Act, and shall be sufficient evidence of the amount of the expenses, and of the fact that the same were duly incurred, unless the defendant specially pleads and duly proves that the certificate is false and fraudulent, or that the expenses were not duly incurred under this Act.
+
+(3) The sum recovered on account of the expenses shall not exceed twice the total amount of passage money which the owner, charterer, or master of the emigrant ship proves to have been received by him or on his account, or to be due to and recoverable by him or on his account in respect of the whole number of passengers whether cabin or steerage who embarked in the ship.

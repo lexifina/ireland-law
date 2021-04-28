@@ -1,0 +1,9 @@
+Prevention of false lights
+
+667.—(1) Whenever any fire or light is burnt or exhibited at such place or in such manner as to be liable to be mistaken for a light proceeding from a lighthouse, the general lighthouse authority within whose area the place is situate, may serve a notice upon the owner of the place where the fire or light is burnt or exhibited, or on the person having the charge of the fire or light, directing that owner or person, within a reasonable time to be specified in the notice, to take effectual means for extinguishing or effectually screening the fire or light, and for preventing for the future any similar fire or light.
+
+(2) The notice may be served either personally or by delivery of the same at the place of abode of the person to be served, or by affixing the same in some conspicuous spot near to the fire or light to which the notice relates.
+
+(3) If any owner or person on whom a notice is served under this section fails, without reasonable cause, to comply with the directions contained in the notice, he shall be guilty of a common nuisance, and, in addition to any other penalties or liabilities he may incur, shall for each offence be liable to a fine not exceeding one hundred pounds.
+
+(4) If any owner or person on whom a notice under this section is served neglects for a period of seven days to extinguish or effectually screen the fire or light mentioned in the notice, the general lighthouse authority may, by their servants or workmen, enter upon the place where the fire or light is, and forthwith extinguish the same, doing no unnecessary damage; and may recover the expenses incurred by them in so doing from the owner or person on whom the notice has been served in the same manner as fines may be recovered under this Act. Commissioners of Northern Lighthouses.

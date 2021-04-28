@@ -1,0 +1,3 @@
+Power of Board of Trade to give facilities with respect to licences, rates, &c (Repealed)
+
+579.—...

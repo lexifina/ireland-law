@@ -1,0 +1,5 @@
+Transmission of documents to registrar by superintendents and other officers
+
+256.—(1) All superintendents and all officers of customs shall take charge of all documents which are delivered or transmitted to or retained by them in pursuance of this Act, and shall keep them for such time (if any) as may be necessary for the purpose of settling any business arising at the place where the documents come into their hands, or for any other proper purpose, and shall, if required, produce them for any of those purposes, and shall then transmit them to the Registrar-General of Shipping and Seamen, and he shall record and preserve them, and they shall be admissible in evidence in manner provided by this Act, and they shall, on payment of a moderate fee fixed by the Board of Trade, or without payment if the Board so direct, be open to the inspection of any person.
+
+(2) The documents aforesaid shall be public records and documents within the meaning of the Public Record Office Acts, 1838 and 1877, and these Acts shall, where applicable, apply to those documents in all respects, as if specifically referred to therein.

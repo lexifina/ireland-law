@@ -1,0 +1,3 @@
+Immediate sale of wreck by receiver in certain cases (Repealed)
+
+522.—...

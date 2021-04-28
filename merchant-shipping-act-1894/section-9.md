@@ -1,0 +1,3 @@
+Declaration of ownership on registry (Repealed)
+
+9.—...

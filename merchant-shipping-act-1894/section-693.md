@@ -1,0 +1,3 @@
+Sums ordered to be paid leviable by distress on ship
+
+693.—Where any court, justice of the peace, or other magistrate, has power to make an order directing payment to be made of any seaman’s wages, fines, or other sums of money, then, if the party so directed to pay the same is the master or owner of a ship, and the same is not paid at the time and in manner prescribed in the order, the. court, justice of the peace, or magistrate who made the order may, in addition to any other powers they may have for the purpose of compelling payment, direct the amount remaining unpaid to be levied by distress or poinding and sale of the ship, her tackle, furniture, and apparel.

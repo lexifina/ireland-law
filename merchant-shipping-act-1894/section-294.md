@@ -1,0 +1,5 @@
+Stowage of goods
+
+294.—(1) No part of the cargo or of the steerage passengers luggage, or of the provisions, water, or stores, whether for the use of the steerage passengers or of the crew, shall be carried on the upper deck or on the passenger decks, unless in the opinion of the emigration officer at the port of clearance the same is so placed as not to impede light or ventilation or to interfere with the comfort of the steerage passengers, nor unless the same is stowed and secured to the satisfaction of the emigration officer; and the space thereby occupied or rendered in the opinion of such officer unavailable for the accommodation of the steerage passengers shall (unless occupied by the said steerage passengers luggage) be deducted in calculating the space by which the number of steerage passengers is regulated.
+
+(2) If any requirement of this section is not complied with in the case of any emigrant ship, the owner charterer or master or any of them shall for each offence be liable to a fine not exceeding three hundred pounds.

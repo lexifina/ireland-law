@@ -1,0 +1,3 @@
+Power of court to prohibit transfer (Repealed)
+
+30.—...

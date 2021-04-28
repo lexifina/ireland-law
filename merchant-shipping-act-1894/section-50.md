@@ -1,0 +1,3 @@
+Provisional certificate and endorsement where ship is to be registered anew (Repealed)
+
+50.—...

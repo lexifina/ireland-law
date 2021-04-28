@@ -1,0 +1,3 @@
+Appeal by master or mate to Board of Trade (Repealed)
+
+600.—...

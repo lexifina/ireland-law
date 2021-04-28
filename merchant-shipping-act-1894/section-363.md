@@ -1,0 +1,5 @@
+Exemption from survey of foreign passenger steamer or emigrant ship in certain cases
+
+363.—Where a foreign ship is a passenger steamer or emigrant ship within the meaning of this Part of this Act, and the Board of Trade are satisfied, by the production of a foreign certificate of survey attested by a British consular officer at a port out of Her Majesty’s dominions, that the ship has been officially surveyed at that port, and are satisfied that any requirements of this Act are proved by that survey to have been substantially complied with, the Board may, if they think fit, dispense with any further survey of the ship in respect of any requirement so complied with, and grant or direct one of their officers to grant a certificate, which shall have the same effect as if given upon survey under this Part of this Act:
+
+Provided that Her Majesty in Council may order that this section shall not apply in the case of an official survey at any port at which it appears to Her Majesty that corresponding advantages are not extended to British ships.

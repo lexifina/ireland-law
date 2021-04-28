@@ -1,0 +1,5 @@
+Forfeiture of dangerous goods improperly sent or carried
+
+449.—(1) Where any dangerous goods have been sent or carried, or attempted to be sent or carried, on board any vessel, British or foreign, without being marked as aforesaid, or without such notice having been given as aforesaid, or under a false description, or with a false description of the sender or carrier thereof, any court having Admiralty jurisdiction may declare those goods, and any package or receptacle in which they are contained, to be, and they shall thereupon be. forfeited, and when forfeited, shall be disposed of as the court direct.
+
+(2) The court shall have, and may exercise, the aforesaid powers of forfeiture and disposal notwithstanding that the owner of the goods has not committed any offence under the provisions of this Act relating to dangerous goods, and is not before the court, and has not notice of the proceedings, and notwithstanding that there is no evidence to show to whom the goods belong; nevertheless the court may, in their discretion, require such notice as they may direct to be given to the owner or shipper of the goods before they are forfeited.

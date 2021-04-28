@@ -1,0 +1,3 @@
+Penalty for carrying passengers in excess
+
+283.—The owner or master of any passenger steamer shall not receive on board thereof, or on or in any part thereof, any number of passengers which, having regard to the time, occasion, and circumstances of the case, is greater than the number allowed by the passenger steamer’s certificate, and if he does so, he shall for each offence be liable to a fine not exceeding twenty pounds, and also to an additional fine not exceeding five shillings for every passenger above the number so allowed, or if the fare of any passenger on board exceeds five shillings, not exceeding double the amount of the fares of all the passengers above the number so allowed, reckoned at the highest rate of fare payable by any passenger on board.

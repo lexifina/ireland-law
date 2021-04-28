@@ -1,0 +1,3 @@
+Dealing with seaman who refuses to proceed to sea, &c
+
+381.—If a seaman or apprentice engaged or liable to serve on board any fishing boat neglects, or refuses to join, or deserts from, or refuses to proceed to sea in, or absents himself without leave from that fishing boat, the skipper owner or agent of the boat may, with or without the assistance of the local constables (who shall give their assistance in these cases when required by the skipper, owner, or agent) take the seaman or apprentice before some officer by whom, a warrant can be issued for his apprehension under this Part of this Act, who shall deal with him as if apprehended under such a warrant.

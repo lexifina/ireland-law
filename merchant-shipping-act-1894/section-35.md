@@ -1,0 +1,3 @@
+Mortgagee to have power of sale (Repealed)
+
+35.—...

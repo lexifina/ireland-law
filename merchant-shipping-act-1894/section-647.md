@@ -1,0 +1,3 @@
+Publication of light dues and regulations
+
+647.—Tables of all light dues, and a copy of the regulations for the time being in force in respect thereof, shall be posted up at all custom houses in the United Kingdom, and for that purpose each of the general lighthouse authorities shall furnish copies of all such tables and regulations to the Commissioners of Customs in London, and to the chief officers of customs resident at all places where light dues are collected on account of that lighthouse authority; and those copies shall be posted up by the Commissioners of Customs at the Custom House in London, and by the chief officers of customs at the custom houses of the places at which they are respectively resident.

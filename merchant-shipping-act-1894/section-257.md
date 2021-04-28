@@ -1,0 +1,9 @@
+Deposit of documents at foreign ports and in colonies
+
+257.—(1) Whenever a ship, in whatever part of Her Majesty’s dominions it is registered (except a ship whose business for the time being is to carry passengers, whether cabin or steerage passengers), arrives at a port in a British possession or at a port elsewhere at which there is a British consular officer, and remains thereat for forty-eight hours, the master shall, within forty-eight hours of the ship’s arrival, deliver to the chief officer of customs or to the consular officer (as the case may be), the agreement with the crew, and also all indentures and assignments of apprenticeships, or, if the ship is registered in a British possession, such of those documents as the ship is provided with.
+
+(2) The officer shall keep the documents during the ship’s stay in the port, and in cases where any endorsements upon the agreement are required by this Act shall make the same, and shall return the documents to the master within a reasonable time before his departure, with a certificate endorsed on the agreement, stating the time when the documents were respectively delivered and returned.
+
+(3) If it appears that the required forms have been neglected, or that the existing laws have been transgressed, the officer shall make an endorsement to that effect on the agreement, and forthwith transmit a copy of the endorsement, with the fullest information he can collect regarding the neglect or transgression, to the Registrar- General of Shipping and Seamen:
+
+(4) If the master of a ship fails without reasonable cause to deliver any document in pursuance of this section, he shall for each offence be liable to a fine not exceeding twenty pounds; and in any prosecution for that fine it shall lie upon the master either to produce the said certificate, or to prove that he duly obtained it, or that it was impracticable for him to obtain it.

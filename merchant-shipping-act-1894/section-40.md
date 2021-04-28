@@ -1,0 +1,3 @@
+Requisites for certificates of mortgage and sale (Repealed)
+
+40.—...

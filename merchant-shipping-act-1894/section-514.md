@@ -1,0 +1,3 @@
+Power of receiver to suppress plunder and disorder by force (Repealed)
+
+514.—...

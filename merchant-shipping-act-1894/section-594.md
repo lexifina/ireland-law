@@ -1,0 +1,3 @@
+Allowance to licensed pilot taken out of his district (Repealed)
+
+594.—...

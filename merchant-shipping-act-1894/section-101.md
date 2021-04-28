@@ -1,0 +1,3 @@
+Loss of certificate
+
+101.—If a master, mate, or engineer proves to the satisfaction of the Board of Trade that he has, without fault on his part, lost or been deprived of a certificate already granted to him, the Board of Trade shall, and in any other case may, upon payment of such fee (if any) as they direct, cause a copy of the certificate to which, by the record kept in pursuance of this Act, he appears to be entitled, to be certified by the Registrar-General of Shipping and Seamen, or other person directed to keep the record, and to be delivered to him; and a copy purporting to be so certified shall have all the effect of the original.

@@ -1,0 +1,9 @@
+Limitation of time for summary proceedings
+
+683.—(1) Subject to any special provisions of this Act neither a conviction for an offence nor an order for payment of money shall be made under this Act in any summary proceeding instituted in the United Kingdom, unless that proceeding is commenced within six months after the commission of the offence, or after the cause of complaint arises as the case may be; or, if both or either of the parties to the proceeding happen during that time to be out of the United Kingdom, unless the same is commenced, in the case of a summary conviction within two months, and in the case of a summary order within six months, after they both first happen to arrive, or tobe at one time, within the United Kingdom.
+
+(2) Subject to any special provisions of this Act neither a conviction for an offence nor an order for payment of money shall be made under this Act in any summary proceeding instituted in any British possession, unless that proceeding is commenced within six months after the commission of the offence or after the cause of complaint arises as the case may be; or if both or either of the parties to the proceeding happen during that time not to be within the jurisdiction of any court capable of dealing with the case, unless the same is commenced in the case of a summary conviction within two months, and in the case of a summary order within six months after they both first happen to arrive, or to be at one time, within that jurisdiction.
+
+(3) No law for the time being in force under any Act, ordinance, or otherwise, which limits the time within which summary proceedings may be instituted shall affect any summary proceeding under this Act.
+
+(4) Nothing in this section shall shall affect any proceeding to which the Public Authorities Protection Act, 1893, applies.

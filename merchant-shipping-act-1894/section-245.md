@@ -1,0 +1,7 @@
+Control of Board of Trade over local marine boards
+
+245.—(1) Every local marine board shall make and send to the Board of Trade such reports and returns as the Board of Trade require; and all minutes, books, and documents of, or used or kept by, any local marine board, or by any superintendent, or by any examiner or other officer or servant under the control of any local marine board, shall be open to the inspection of the Board of Trade and their officers.
+
+(2) If any local marine board, by reason of any election not being held or of the simultaneous resignation or continued non-attendance of all or the greater part of the members, or from any other cause, fail to meet or to discharge their duties, the Board of Trade may, in their discretion, either take into their own hands the performance of the duties of the local marine board until the next triennial appointment and election thereof, or direct that a new appointment and election of the local marine board shall take place immediately.
+
+(3) If on complaint made to the Board of Trade it appears to them that at any port, any appointments or arrangements made by the local marine board under this Act are not such as to meet the wants of the port, or are in any respect unsatisfactory or improper, the Board of Trade may annul, alter, or rectify the same, as they think expedient, having regard to the intention of this Act and to the wants of the port.

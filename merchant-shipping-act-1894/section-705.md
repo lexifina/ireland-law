@@ -1,0 +1,3 @@
+Warrants on summary proceedings
+
+705.—On any summary proceedings in Scotland the deliverance of the sheriff clerk or clerk of the peace shall contain warrant to arrest upon the dependence in common form, where that warrant has been prayed for in the complaint or other proceeding: Provided always, that where the apprehension of any party, with or without a warrant, is authorised by this Act, such party may be detained in custody until he can be brought at the earliest opportunity before any two justices or the sheriff who may have jurisdiction in the place, to be dealt with as this Act directs, and no citation or induciae shall in such case be necessary.

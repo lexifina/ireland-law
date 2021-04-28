@@ -1,0 +1,3 @@
+Restrictions on certificates of mortgage and sale (Repealed)
+
+41.—...

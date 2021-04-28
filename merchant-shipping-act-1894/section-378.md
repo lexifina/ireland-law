@@ -1,0 +1,3 @@
+Application of forfeitures
+
+378.—All effects and wages which are, under this Part of this Act, forfeited for desertion shall be applied first in reimbursing the expenses occasioned by such desertion to the skipper or owner of the boat, and, subject to that reimbursement, shall be paid into the Exchequer, and carried to the Consolidated Fund; and any court having cognizance of any proceedings in relation thereto may order the same to be applied accordingly, and where the effects forfeited do not consist of money, may order the same to be sold, and the proceeds of the sale to be applied in manner aforesaid.

@@ -1,0 +1,5 @@
+Granting of certificate of competency
+
+414.—(1) Certificates of competency as skipper or as second hand of fishing boats, or any particular class of fishing boats, may be granted by the Board of Trade in the same manner as certificates of competency as master or mate under the Second Part of this Act, and all the provisions of this Act with respect to or connected with the examination of applicants for certificates and the granting thereof, and the suspension and cancellation thereof, and inquiries and investigations into the conduct of the holders thereof, and all other provisions of this Act relating to or connected with certificates of masters or mates, shall apply to the certificates as skipper or second hand of fishing boats, and the holders thereof, as if the certificates had been granted under Part II. of this Act, and the holders thereof shall be entitled to such privileges, and subject to such liabilities as they would be if such certificates had been so granted.
+
+(2) A certificate of competency as skipper of a fishing boat shall not be granted to any person unless he has previously held a certificate as second hand for at least twelve months.

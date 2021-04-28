@@ -1,0 +1,3 @@
+Summary proceedings
+
+703.—In Scotland, all prosecutions, complaints, actions, or proceedings under this Act, other than prosecutions for felonies or misdemeanors, may be brought in a summary form before the sheriff of the county, or before any two justices of the peace of the county or burgh where the cause of such prosecution or action arises, or where the offender or defender may be for the time, and when of a criminal nature or for fines or penalties, at the instance of the procurator fiscal of court, or at the instance of any party aggrieved, with concurrence of the procurator fiscal of court; and the court may, if it think fit, order payment by the offender or defender of the costs of the prosecution or action.

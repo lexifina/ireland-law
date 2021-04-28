@@ -1,0 +1,9 @@
+Re-landing of persons for medical reasons
+
+307.—(1) If the emigration officer is satisfied that any person on board or about to proceed in any emigrant ship is by reason of sickness unfit to proceed, or is for that or any other reason in a condition likely to endanger the health or safety of the other persons on board, the emigration officer shall prohibit the embarkation of that person, or, if he is embarked, shall require him to be relanded; and if the emigration officer is satisfied that it is necessary for the purification of the ship or otherwise that all or any of the persons on board should be relanded, he may require the master of the ship to reland all those persons, and the master shall thereupon reland those persons, with so much of their effects and with such members of their families as cannot in the judgment of such emigration officer be properly separated from them.
+
+(2) If any requirement of this section is not complied with in the case of any emigrant ship, the master owner or charterer of the ship, or any of them, shall for each offence be liable to a fine not exceeding two hundred pounds.
+
+(3) If any person embarks when so prohibited to embark, or fails without reasonable cause to leave the ship when so required to be relanded, that person may be summarily removed, and shall be liable to a fine not exceeding forty shillings for each day during which he remains on board after the prohibition or requirement.
+
+(4) Upon such relanding the master of the ship shall pay to each steerage passenger so relanded, or, if he is lodged and maintained in any hulk or establishment under the superintendence of the Board of Trade, then to the emigration officer at the port, subsistence money at the rate of one shilling and sixpence a day for each statute adult until he has been re-embarked or declines or neglects to proceed, or until his passage money, if recoverable under this Part of this Act, has been returned to him.

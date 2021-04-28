@@ -1,0 +1,3 @@
+Time for payment of allotment note (Repealed)
+
+144.—...

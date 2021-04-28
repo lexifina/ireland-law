@@ -1,0 +1,3 @@
+Mortgage not affected by bankruptcy (Repealed)
+
+36.—...

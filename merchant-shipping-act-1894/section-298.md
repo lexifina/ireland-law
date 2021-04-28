@@ -1,0 +1,7 @@
+Issue of water or provisions during voyage
+
+298.—(1) The master of every emigrant ship shall during the voyage, including the time of detention at any place before the termination thereof, issue to each steerage passenger, or where the steerage passengers are divided into messes, to the head man for the time being of each mess, on behalf and for the use of all the members thereof, an allowance of pure water, and sweet and wholesome provisions of good quality, in accordance with the dietary scales in the Twelfth Schedule to this Act, which shall have effect as if they were contained in this section.
+
+(2) The Board of Trade may, by notice published in the London Gazette, add to the dietary scales in the said schedule any dietary scale which in their opinion contains in the whole the same amount of wholesome nutriment as any scale in that schedule, and any dietary scale so added, inclusive of any regulations relating thereto, shall have effect as if they were contained in the said schedule as an alternative of the dietary scales therein contained, and accordingly a master of a ship may issue provisions according to the latter scales or to any scale so added, whichever is mentioned in the contract ticket of the steerage passengers.
+
+(3) If any requirement of this section is not complied with in the case of any emigrant ship the master of the ship shall for each offence be liable to a fine not exceeding fifty pounds.

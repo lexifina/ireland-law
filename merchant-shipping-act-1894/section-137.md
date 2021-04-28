@@ -1,0 +1,5 @@
+Decision of questions by superintendents
+
+137.—(1) Where in the case of a foreign-going ship a question as to wages is raised before a superintendent between the master or owner of the ship and a seaman or apprentice, and the amount in question does not exceed five pounds, the superintendent may, on the application of either party, adjudicate, and the decision of the superintendent in the matter shall be final; but if the superintendent is of opinion that the question is one which ought to be decided by a court of law, he may refuse to decide it.
+
+(2) Where any question, of whatever nature and whatever the amount in dispute, between a master or owner and any of his crew is raised before a superintendent, and both parties agree in writing to submit the same to him, the superintendent shall hear and decide the question so submitted; and an award made by him upon the submission shall be conclusive as to the rights of the parties, and the submission or award shall not require a stamp; and a document purporting to be the submission or award shall be admissible as evidence thereof.

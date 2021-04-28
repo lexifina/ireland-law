@@ -1,0 +1,3 @@
+Public officers to be exempt from legal proceedings, except in case of wilful default
+
+153.—Legal proceedings shall not be instituted against the Board of Trade, or against any superintendent or officer employed in or about any seamen’s savings bank or about any seamen’s money order, on account of any regulations made by the Board of Trade with reference to those banks or orders, or on account of any act done or left undone in pursuance thereof, or on account of any refusal, neglect, or omission to pay any order or any deposit or interest thereon, unless that refusal, neglect, or omission arises from fraud or wilful misconduct on the part of the person against whom proceedings are instituted.

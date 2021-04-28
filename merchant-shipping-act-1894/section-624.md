@@ -1,0 +1,3 @@
+Ships from London coining past Dungeness to take the first pilot (Repealed)
+
+624.—...

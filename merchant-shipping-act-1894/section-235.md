@@ -1,0 +1,3 @@
+Deduction from wages, and payments to superintendents, &c of fines (Repealed)
+
+235.—...

@@ -1,0 +1,3 @@
+Penalty for failure to produce contract ticket
+
+322.—If a passenger whether a steerage or a cabin passenger fails, without reasonable cause, on demand of any emigration officer, to produce his contract ticket, and if any owner, charterer, or master of a ship, on like demand, fails without reasonable cause to produce for the inspection of such emigration officer and for the purposes of this Act the counterpart of any contract ticket issued by him or on his behalf, the passenger, owner, charterer, or master, as the case may be, shall for each offence be liable to a fine not exceeding ten pounds.

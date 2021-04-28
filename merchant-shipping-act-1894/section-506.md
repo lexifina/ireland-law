@@ -1,0 +1,3 @@
+Insurances of certain risks not invalid (Repealed)
+
+506.—...

@@ -1,0 +1,3 @@
+Power to grant new certificate (Repealed)
+
+17.—...

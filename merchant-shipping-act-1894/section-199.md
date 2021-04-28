@@ -1,0 +1,3 @@
+Allowance for short or bad provisions (Repealed)
+
+199.—...

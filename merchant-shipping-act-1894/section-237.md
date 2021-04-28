@@ -1,0 +1,5 @@
+Penalty on stowaways, and discipline of stowaways and seamen carried under compulsion
+
+237.—(1) If a person secretes himself and goes to sea in a ship without the consent of either the owner, consignee, or master, or of a mate, or of the person in charge of the ship, or of any other person entitled to give that consent, he shall be liable to a fine not exceeding twenty pounds, or, in the discretion of the court, to imprisonment, with or without hard labour, for a period not exceeding four weeks.
+
+(2) Every seafaring person whom the master of a ship is, under the authority of this or any other Act, compelled to take on board and convey, and every person who goes to sea in a ship without such consent as aforesaid, shall, so long as he remains in the ship, be deemed to belong to the ship, and be subject to the same laws and regulations for preserving discipline, and to the same fines and punishments for offences constituting or tending to a breach of discipline, as if he were a member of, and had signed the agreement with, the crew.

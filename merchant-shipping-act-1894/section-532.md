@@ -1,0 +1,3 @@
+Powers of removal to extend to tackle, cargo, &c (Repealed)
+
+532.—...

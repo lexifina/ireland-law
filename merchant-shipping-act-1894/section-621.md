@@ -1,0 +1,3 @@
+Power to revoke and suspend licences (Repealed)
+
+621.—...

@@ -1,0 +1,3 @@
+Appeal against byelaws or regulations not made under this Act (Repealed)
+
+584.—...

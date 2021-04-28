@@ -1,0 +1,3 @@
+Penalty for obstructing inspectors in the execution of their duty
+
+730.—If any person wilfully impedes a Board of Trade inspector or any person having the powers of a Board of Trade inspector in the execution of his duty, whether on board a ship or elsewhere, that person shall for each offence be liable to a fine not exceeding ten pounds, and may be seized and detained by the inspector or person having the powers of an inspector, or by any person or persons whom that inspector or person may call to his assistance, until he can be conveniently taken before some justice of the peace or other officer having proper jurisdiction. Exemption from Rates and Harbour Dues.
