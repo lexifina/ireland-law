@@ -2,4 +2,4 @@
 
 Agreements for fishing vessels in Scotland (Repealed)
 
-389.—... Fees and Control of Superintendents.
+389.—...

@@ -2,4 +2,4 @@
 
 Liability of owners (Repealed)
 
-58.—... Managing Owner.
+58.—...

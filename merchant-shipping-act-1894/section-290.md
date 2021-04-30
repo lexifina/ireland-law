@@ -18,4 +18,4 @@ Equipment with compasses, chronometers, fire engine, anchors, &c
 
 (g) Adequate means, to be approved by the emigration officer at the port of clearance, of making signals by night.
 
-(2) If any requirement of this section is not complied with in the case of any emigrant ship, the master of that ship shall for each offence be liable to a fine not exceeding fifty pounds. Number of, and Accommodation for, Passengers.
+(2) If any requirement of this section is not complied with in the case of any emigrant ship, the master of that ship shall for each offence be liable to a fine not exceeding fifty pounds.

@@ -2,4 +2,4 @@
 
 Foreign ports of registry (Repealed)
 
-88.—...
+88.—... Registry in Colonies.

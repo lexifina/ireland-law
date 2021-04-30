@@ -4,4 +4,4 @@ Accommodation for seamen
 
 (2) Every place so occupied and appropriated shall be kept free from goods and stores of any kind not being the personal property of the crew in use during the voyage, and if any such place is not so kept free, the master shall forfeit and pay to each seaman or apprentice lodged in that place the sum of one shilling for each day during which, after complaint has been made to him by any two or more of the seamen so lodged, it is not so kept free.
 
-(3) Such fees as the Board of Trade fix shall be paid in respect of an inspection for the purposes of this section, not exceeding the fees specified in the Sixth Schedule to this Act.
+(3) Such fees as the Board of Trade fix shall be paid in respect of an inspection for the purposes of this section, not exceeding the fees specified in the Sixth Schedule to this Act. Facilities for making Complaint.

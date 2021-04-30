@@ -6,4 +6,4 @@ Colonial certificates for passenger steamers
 
 (2) declare that all or any of the provisions of this Part of this Act which relate to passenger steamer’s certificates shall, either without modification or with such modifications as to Her Majesty may seem necessary, apply to the certificates granted in the said British possession; and
 
-(3) impose such conditions and make such regulations with respect to the certificates, and to the use, delivery, and cancellation thereof, as to Her Majesty may seem fit, and impose fines not exceeding fifty pounds for the breach of those conditions and regulations.
+(3) impose such conditions and make such regulations with respect to the certificates, and to the use, delivery, and cancellation thereof, as to Her Majesty may seem fit, and impose fines not exceeding fifty pounds for the breach of those conditions and regulations. General Equipment of Passenger Steamers.

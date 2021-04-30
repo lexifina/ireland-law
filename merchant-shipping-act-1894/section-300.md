@@ -8,4 +8,4 @@ Medical stores
 
 (4) An emigrant ship shall not clear outwards or proceed to sea unless a medical practitioner appointed by the emigration officer at the port of clearance has inspected the said medical stores, and certified to the emigration officer that they are sufficient in quantity and quality, or unless the emigration officer, in case he cannot on any particular occasion obtain the attendance of a medical practitioner, gives written permission for the purpose.
 
-(5) If an emigrant ship clears outwards or proceeds to sea without such certificate or permission, the master of the ship shall for each offence be liable to a fine not exceeding one hundred pounds.
+(5) If an emigrant ship clears outwards or proceeds to sea without such certificate or permission, the master of the ship shall for each offence be liable to a fine not exceeding one hundred pounds. Dangerous Goods, and Carriage of Cattle.

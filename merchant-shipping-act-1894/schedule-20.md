@@ -18,14 +18,12 @@ In cases where any services are rendered by a receiver, in respect of any vessel
 
 If that vessel with her cargo equals or exceeds in value six hundred pounds, the sum of two pounds for the first, and the sum of one pound for every subsequent day during which the receiver is employed on that service, but if that vessel with her cargo is less in value than six hundred pounds, one moiety of the above-mentioned sum.
 
-TWENTYFIRST SCHEDULE.
-
-Maximum Rates of Pilotage to be Demanded and Received by qualified Pilots for piloting Ships within the under-mentioned Limits.
+TWENTY-FIRST SCHEDULE. Maximum Rates of Pilotage to be Demanded and Received by qualified Pilots for piloting Ships within the under-mentioned Limits.
 
 ...
 
-TWENTYSECOND SCHEDULE.
+TWENTY-SECOND SCHEDULE.
 
 Repeal.
 
-...
+... 1894 (57 & 58 Vict.) c. 60

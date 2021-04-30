@@ -4,4 +4,4 @@ Carriage of military stores
 
 (2) The order shall be addressed to the emigration officer and shall be by him countersigned, and delivered to the master of the ship to which it refers, and shall be delivered up by the master to the chief officer of customs at the port where the stores are discharged.
 
-(3) The master shall comply with all the conditions and directions in the order, and, if he fails to do so, shall for each offence be liable to a fine not exceeding three hundred pounds.
+(3) The master shall comply with all the conditions and directions in the order, and, if he fails to do so, shall for each offence be liable to a fine not exceeding three hundred pounds. Medical Officer, Staff, and Crew.

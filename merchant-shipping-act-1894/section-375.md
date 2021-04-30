@@ -1,3 +1,3 @@
 Rules as to boats and life-buoys of fishing boats (Repealed)
 
-375.—...
+375.—... Discipline.
