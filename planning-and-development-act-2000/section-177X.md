@@ -8,23 +8,27 @@ European site that does not host priority habitat or species and draft Land use 
 
 (c) consider any views of a Minister of the Government consulted pursuant to paragraph (b) and which are received by the Minister before he or she issues a notice under subsection (5) or (6).
 
-(2) (a) Where the Minister considers that imperative reasons of overriding public interest may exist, he or she shall as soon as possible request the views of the Minister for Arts, Heritage and the Gaeltacht as to whether the compensatory measures specified in the statement of case are sufficient to ensure that the overall coherence of the Natura 2000 network is protected.
+(2) (a) Where the Minister considers that imperative reasons of overriding public interest may exist, he or she shall as soon as possible consider whether the compensatory measures specified in the statement of case are sufficient to ensure that the overall coherence of the Natura 2000 network is protected.
 
-(b) Following receipt of the views of the Minister for Arts, Heritage and the Gaeltacht, the Minister may enter into consultations with the competent authority, who may submit a revised or modified plan or revised or modified compensatory measures.
+(b) In considering under paragraph (a) whether the compensatory measures specified in the statement of case are sufficient to ensure that the overall coherence of the Natura 2000 network is protected, the Minister may enter into consultations with the competent authority, who may submit a revised or modified plan or revised or modified compensatory measures.
 
-(c) The Minister may enter into consultations with the Minister for Arts, Heritage and the Gaeltacht and further consultations with the competent authority in relation to the draft Land use plan, or revised or modified draft Land use plan or the compensatory measures or revised or modified compensatory measures.
+(c) The Minister may enter into ... further consultations with the competent authority in relation to the draft Land use plan, or revised or modified draft Land use plan or the compensatory measures or revised or modified compensatory measures.
 
-(3) The Minister for Arts, Heritage and the Gaeltacht, as soon as possible after the request of the Minister for views under subsection (2)(a) or, as the case may be, the completion of consultations with the Minister under subsection (2)(c) shall furnish an opinion to the Minister as to whether the compensatory measures, or revised or modified compensatory measures, as the case may be, are sufficient to ensure that the overall coherence of the Natura 2000 network is protected.
+(3) Having considered the compensatory measures proposed by the competent authority, the Minister shall, as soon as possible—
 
-(4) The Minister for Arts, Heritage and the Gaeltacht, when giving his or her opinion on the compensatory measures under subsection (3), may also give his or her views as to whether imperative reasons of overriding public interest exist, and any such views shall be considered by the Minister before he or she issues a notice under subsection (5) or (6).
+(a) after consultations (if any) under paragraphs (b) and (c) of subsection (2), and
 
-(5) Where the Minister forms the opinion that imperative reasons of overriding public interest exist, and the Minister for Arts, Heritage and the Gaeltacht has furnished an opinion that the compensatory measures, or revised or modified compensatory measures, as the case may be, are sufficient to ensure that the overall coherence of the Natura 2000 network is protected, the Minister shall as soon as possible issue a notice to this effect to the competent authority and the competent authority may decide to make—
+(b) after having considered revised or modified compensatory measures (if any) submitted under subsection (2)(b), form an opinion as to whether the compensatory measures, or revised or modified compensatory measures, as the case may be, are sufficient to ensure that the overall coherence of the Natura 2000 network is protected.
+
+(4) The Minister, when forming his or her opinion under subsection (3), may also give further consideration to whether imperative reasons of overriding public interest exist and shall form an opinion as to whether such reasons exist before he or she issues a notice under subsection (5) or (6).
+
+(5) Where the Minister forms the opinion that imperative reasons of overriding public interest exist and that the compensatory measures, or revised or modified compensatory measures, as the case may be, are sufficient to ensure that the overall coherence of the Natura 2000 network is protected, the Minister shall as soon as possible issue a notice to this effect to the competent authority and the competent authority may decide to make—
 
 (a) the Land use plan, or
 
 (b) that part of the Land use plan that would have an adverse effect on the integrity of a European site.
 
-(6) Where the Minister forms the opinion that imperative reasons of overriding public interest do not exist, or the Minister for Arts, Heritage and the Gaeltacht has furnished an opinion that the compensatory measures or revised or modified compensatory measures, as the case may be, are not sufficient to ensure that the overall coherence of the Natura 2000 network is protected, the Minister shall as soon as possible issue a notice to this effect to the competent authority and the competent authority shall not make—
+(6) Where the Minister forms the opinion that imperative reasons of overriding public interest do not exist or that the compensatory measures or revised or modified compensatory measures, as the case may be, are not sufficient to ensure that the overall coherence of the Natura 2000 network is protected, the Minister shall as soon as possible issue a notice to this effect to the competent authority and the competent authority shall not make—
 
 (a) the Land use plan, or
 

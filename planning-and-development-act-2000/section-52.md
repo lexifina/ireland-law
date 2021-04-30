@@ -1,6 +1,6 @@
 Guidelines by Minister for Arts, Heritage, Gaeltacht and the Islands.
 
-52.—(1) The Minister for Arts, Heritage, Gaeltacht and the Islands shall, after consulting with the Minister, issue guidelines to planning authorities concerning development objectives—
+52.—(1) The Minister shall issue guidelines to planning authorities concerning development objectives—
 
 (a) for protecting structures, or parts of structures, which are of special architectural, historical, archaeological, artistic, cultural, scientific, social or technical interest, and
 
