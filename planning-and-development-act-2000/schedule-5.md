@@ -42,7 +42,9 @@ CONDITIONS WHICH MAY BE IMPOSED, ON THE GRANTING OF PERMISSION TO DEVELOP LAND, 
 
 (d) the objects which may be affixed to structures;
 
-(e) the purposes for and the manner in which structures may be used or occupied, including, in the case of dwellings, the letting thereof in separate units.
+(e) the purposes for and the manner in which structures may be used or occupied, including, in the case of dwellings, the letting thereof in separate units;
+
+(f) the persons of a particular class or description to whom the use as a dwelling may be restricted.
 
 14. Any condition relating to the alteration or removal of unauthorised structures.
 

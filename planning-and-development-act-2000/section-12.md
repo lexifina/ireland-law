@@ -150,6 +150,8 @@ Making of development plan.
 
 (II) if appropriate in the circumstances, such longer period than 2 years and 4 weeks as is specified under subsection (7)(ab) (inserted by section 9 of the Act of 2010) by the chief executive as being required to facilitate an assessment referred to in subsection (7)(aa).
 
+(14A) During the period beginning on the date on which section 4 of the Planning and Development (Amendment) Act 2021 comes into operation and ending on 31 December 2023, notwithstanding the expiration of the period referred to in subsection (14), the chief executive shall not make the development plan under subsection (14)(a) if, in a case where section 9A applies, the planning authority makes the plan during any period extended in accordance with that section 9A.
+
 (15) When considering the draft development plan, or amendments thereto, a planning authority may invite such persons as it considers appropriate to make oral submissions regarding such plan or amendment.
 
 (16) A person shall not question the validity of the development plan by reason only that the procedures as set out under subsections (3) to (5) of section 11 and subsections (1), (4), (5), (6), (7), (8) and (9) of this section were not completed within the time required under the relevant subsection.

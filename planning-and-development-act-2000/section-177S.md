@@ -23,3 +23,7 @@ Competent Authority.
 (g) in relation to proposed development that is strategic infrastructure development, the Board, or
 
 (h) in relation to proposed development that may be carried out by a local authority under Part X or Part XAB, proposed development that may be carried out under Part XI or proposed local authority development on the foreshore, the Board.
+
+(2A) During the period beginning on the date on which section 8 of the Planning and Development (Amendment) Act 2021 comes into operation and ending on 31 December 2023, the competent authority in the State referred to in subsection (2) shall be construed and have effect as if the following paragraph were inserted after paragraph (h):
+
+‘(i) in relation to a proposed extension of the duration of an existing development plan, the planning authority for whose area the development plan is proposed to be extended in duration.’.

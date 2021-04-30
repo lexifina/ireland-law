@@ -98,4 +98,12 @@ Interpretation.
 
 ...
 
+(1A) During the period beginning on the date on which section 8 of the Planning and Development (Amendment) Act 2021 comes into operation and ending on 31 December 2023—
+
+(a) the definition of ‘Land use plan’ in subsection (1) shall be construed and have effect as if the following paragraph were inserted after paragraph (e):
+
+‘(f) a proposed extension of the duration of an existing development plan;’, and
+
+(b) in this Part, a reference to ‘draft Land use plan’ or ‘Land use plan’ shall be construed and have effect as including a reference to a proposed extension of the duration of an existing development plan referred to in paragraph (f) of the definition of ‘Land use plan’ (inserted by section 8 of the Planning and Development (Amendment) Act 2021).
+
 (2) Subject to this Part, a word or expression that is used in this Part, and that is also used in the Habitats Directive or the Birds Directive has, unless the context otherwise requires, the same meaning in this Part as it has in the Habitats Directive or the Birds Directive, as the case may be.

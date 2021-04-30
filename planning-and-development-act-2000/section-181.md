@@ -18,7 +18,7 @@ Development by State authorities.
 
 (vii) requiring a State authority, in deciding whether the proposed development is to be carried out, to have regard to any specified matters or considerations.
 
-(2) (a) Subject to Parts X and XAB and any regulations made under Parts X and XAB and subsections (2A) to (2AA), where development is proposed to be carried out by or on behalf of a Minister of the Government or the Commissioners, the Minister of the Government concerned or, in the case of development proposed to be carried out by or on behalf of the Commissioners, the Minister for Finance, may, if he or she is satisfied that the carrying out of the development is required by reason of an accident or emergency, by order provide that this Act or, as may be appropriate, any requirement or requirements of regulations under subsection (1)(b) specified in the order, shall not apply to the development, and for so long as such an order is in force this Act or the said requirement or requirements, as the case may be, shall not apply to the development.
+(2) (a) Subject to Parts X and XAB and any regulations made under Parts X and XAB and subsections (2A) to (2AA), where development is proposed to be carried out by or on behalf of a Minister of the Government, the Commissioners or a statutory undertaker, the Minister of the Government concerned or, in the case of development proposed to be carried out by or on behalf of the Commissioners, the Minister for Finance, may, if he or she is satisfied that the carrying out of the development is required by reason of an accident or emergency, by order provide that this Act (other than sections 50, 50A, 50B and 181) or, as may be appropriate, any requirement or requirements of regulations under subsection (1)(b) specified in the order, shall not apply to the development, and for so long as such an order is in force this Act or the said requirement or requirements, as the case may be, shall not apply to the development.
 
 (aa) Before making an order under paragraph (a), the Minister of the Government concerned (other than where the Minister concerned is the Minister) or, in the case of development proposed to be carried out by or on behalf of the Commissioners, the Minister for Public Expenditure and Reform, shall—
 
@@ -32,7 +32,7 @@ Development by State authorities.
 
 (c) A Minister of the Government shall cause an order made by him or her under this subsection to be published in Iris Oifigiúil and notice of the making of the order to be published in a newspaper circulating in the area of the development concerned.
 
-(2A) (a) In this subsection and in subsections (2B) to (2AA)—
+(2A) (a) In subsections (2) to (2AA)—
 
 (i) ‘approval’ means a decision by the Board under subparagraph (i), (ii), (iii) or (iv) of paragraph (a) of subsection (2L) in relation to an application for approval,
 
@@ -40,17 +40,21 @@ Development by State authorities.
 
 (I) the Minister of the Government who proposes to carry out development referred to in this subsection or subsection (2)(a), or have it carried out on his or her behalf, or
 
-(II) the Minister for Public Expenditure and Reform where the Commissioners propose to carry out development referred to in this subsection or subsection (2)(a), or have it carried out on their behalf, and
+(II) the Minister for Public Expenditure and Reform where the Commissioners propose to carry out development referred to in this subsection or subsection (2)(a), or have it carried out on their behalf, or
 
-(iii) ‘proposed development’ means development proposed to be carried out by or on behalf of a Minister of the Government or the Commissioners under subsection (2)(a).
+(III) where a statutory undertaker proposes to carry out a development referred to in this subsection or subsection (2)(a), or have it carried out on its behalf, the Minister of the Government responsible for the enactment or instrument under an enactment by or under which the statutory undertaker is authorised, and
 
-(b) Where development is proposed to be carried out by or on behalf of a Minister concerned pursuant to an order under subsection (2)(a) and the Minister concerned is satisfied, having had regard to Part X and Part XAB, that an environmental impact assessment or an appropriate assessment, or both such assessments of the proposed development is or are required, the Minister concerned shall prepare or cause to be prepared an application for approval, which shall include the documents and information referred to in paragraph (c), in respect of the development and shall apply to the Board for such approval.
+(iii) ‘proposed development’ means development proposed to be carried out by or on behalf of a Minister of the Government, the Commissioners or a statutory undertaker under subsection (2)(a).
+
+(aa) In this subsection, ‘enactment’ has the same meaning as it has in the Interpretation Act 2005.
+
+(b) Where development is proposed to be carried out by or on behalf of a Minister concerned or a statutory undertaker pursuant to an order under subsection (2)(a) and the Minister concerned is satisfied, having had regard to Part X and Part XAB, that an environmental impact assessment or an appropriate assessment, or both such assessments of the proposed development is or are required, the Minister concerned shall prepare or cause to be prepared an application for approval, which shall include the documents and information referred to in paragraph (c), in respect of the development and shall apply to the Board for such approval.
 
 (c) An application for approval referred to in paragraph (b) shall include a draft of the order the Minister concerned proposes to make under subsection (2)(a), the plans, drawings and particulars in relation to the proposed development and, other than where an exemption is granted under subsection (2I), an environmental impact assessment report or Natura impact statement, or both that report and that statement, as the case may be, in respect of the development.
 
 (d) The environmental impact assessment report and the Natura impact statement provided under paragraph (c) shall, as appropriate, comply with the requirements of Parts X and XAB respectively.
 
-(e) A Minister concerned shall not make an order under subsection (2)(a) in respect of development which requires an environmental impact assessment or an appropriate assessment, or, as necessary, both such assessments, proposed to be carried out by or on behalf of the Minister under the order, other than in accordance with an approval of that proposed development.
+(e) A Minister concerned shall not make an order under subsection (2)(a) in respect of development which requires an environmental impact assessment or an appropriate assessment, or, as necessary, both such assessments, proposed to be carried out by or on behalf of the Minister concerned or a statutory undertaker under the order, other than in accordance with an approval of that proposed development.
 
 (f) On receipt of an application for approval under paragraph (b), the Board shall, other than where an exemption is granted under subsection (2I), carry out an environmental impact assessment, or an appropriate assessment, or, as necessary, both such assessments, in accordance with Part X or Part XAB, as the case may require.
 
@@ -158,7 +162,7 @@ Development by State authorities.
 
 (iv) refuse to approve the proposed development, and may attach to an approval under subparagraph (i), (ii) or (iii) such conditions or compensatory measures, or both as the case may be, as it considers appropriate.
 
-(b) The Minister concerned shall carry out or have carried out the proposed development to which the approval relates in accordance with any conditions attached to that approval.
+(b) The Minister concerned or a statutory undertaker shall carry out or have carried out the proposed development to which the approval relates in accordance with any conditions attached to that approval.
 
 (2M) (a) The Board shall send a copy of the decision under subsection (2L)(a) to the Minister concerned, to any planning authority in whose area the proposed development shall be situated and to any person who made submissions or observations on the application for approval.
 
