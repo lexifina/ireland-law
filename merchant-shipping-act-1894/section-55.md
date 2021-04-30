@@ -1,3 +1,5 @@
+## Incapacitated Persons.
+
 Provision for cases of infancy or other incapacity (Repealed)
 
 55.—...

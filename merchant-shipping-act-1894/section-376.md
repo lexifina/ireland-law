@@ -1,5 +1,3 @@
-## Discipline.
-
 Offences by seamen and apprentices
 
 376.—(1) If a seaman lawfully engaged to serve in any fishing boat, or an apprentice in the sea-fishing service, commits any of the following offences, that seamen or apprentice shall be liable to be punished summarily as follows:—

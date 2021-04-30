@@ -4,9 +4,7 @@ Grades of certificates of competency
 
 Master of a foreign-going ship:
 
-First mate of foreign-going ship:
-
-Second mate of a foreign-going ship:
+First mate of foreign-going ship: Second mate of a foreign-going ship:
 
 Only mate of a foreign-going ship:
 

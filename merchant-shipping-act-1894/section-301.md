@@ -1,5 +1,3 @@
-## Dangerous Goods, and Carriage of Cattle.
-
 Regulations as to carnage of dangerous goods, and of horses and cattle
 
 301.—(1) Subject to the provisions of this Part of this Act as to military stores, an emigrant ship shall not clear outwards or proceed to sea, if there is on board—

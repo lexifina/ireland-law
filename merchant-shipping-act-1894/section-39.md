@@ -1,3 +1,5 @@
+## Certificates of Mortgage and Sale.
+
 Powers of mortgage and sale may be conferred by certificate (Repealed)
 
 39.—...

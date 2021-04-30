@@ -1,5 +1,3 @@
-## Official Logs.
-
 Official logs to be kept and to be evidence
 
 239.—(1) An official log shall be kept in every ship (except ships employed exclusively in trading between ports on the coasts of Scotland) in the appropriate form for that ship approved by the Board of Trade.

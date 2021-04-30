@@ -1,5 +1,3 @@
-## General Equipment of Passenger Steamers.
-
 Equipment of passenger steamers with compasses, hose, deck shelters, and safety appliances
 
 285.—(1) A sea-going passenger steamer shall have her compasses properly adjusted from time to time, to the satisfaction of the shipwright surveyor and according to such regulations as may be issued by the Board of Trade.

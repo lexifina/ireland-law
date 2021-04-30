@@ -1,3 +1,5 @@
+## Definition of Emigrant Ship, &c.
+
 "Emigrant ship" &c. to which Part applies
 
 268.—For the purposes of this Part of this Act, unless the context otherwise requires—

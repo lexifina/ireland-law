@@ -1,5 +1,3 @@
-## Medical Officer, Staff, and Crew.
-
 Medical practitioners
 
 303.—(1) Subject to any regulations made by Order in Council under this Part of this Act, a duly authorised medical practitioner shall be carried on board an emigrant ship—

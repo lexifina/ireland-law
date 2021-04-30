@@ -1,5 +1,3 @@
-## Provisions, Water, and Medical Stores.
-
 Supply of provisions and water
 
 295.—(1) There shall be placed on board every emigrant ship, for the steerage passengers provisions and water of good and wholesome quality and in sweet and good condition, and in quantities sufficient to secure throughout the voyage the issues required by this Part of this Act.

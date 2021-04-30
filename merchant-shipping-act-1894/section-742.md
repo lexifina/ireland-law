@@ -88,4 +88,6 @@ fraternity, or brotherhood of the most glorious and undivided Trinity and of St.
 
 “THE COMMISSIONERS OF IRISH LIGHTS” means the body incorporated by that name under the local Act of the session held in the thirtieth and thirty-first years of the reign of Her present Majesty, chapter eighty-one intituled “An Act to alter the constitution of the Corporation for preserving and improving the Port of Dublin and for other purposes connected with that body and with the Port of Dublin Corporation,” and any Act amending the same;
 
-“LIFEBOAT SERVICE” means the saving, or attempted saving of vessels, or of life, or property on board vessels, wrecked or aground or sunk, or in danger of being wrecked or getting aground or sinking. Any reference to failure to do any act or thing shall include a reference to refusal to do that act or thing.
+“LIFEBOAT SERVICE” means the saving, or attempted saving of vessels, or of life, or property on board vessels, wrecked or aground or sunk, or in danger of being wrecked or getting aground or sinking.
+
+Any reference to failure to do any act or thing shall include a reference to refusal to do that act or thing.

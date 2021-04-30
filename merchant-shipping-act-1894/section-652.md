@@ -1,5 +1,3 @@
-## Local Lighthouses.
-
 Inspection of local lighthouses
 
 652.— (1) It shall be the duty of each of the general lighthouse authorities, or of any persons authorised by that authority for the purpose, to inspect all lighthouses, buoys, and beacons situate within their area, but belonging to or under the management of any local lighthouse authority, and to make such inquiries in respect thereof and of the management thereof as they think fit.

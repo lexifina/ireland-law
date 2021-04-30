@@ -8,9 +8,7 @@ The expression “goods” includes every description of wares and merchandise:
 
 The expression “wharf” includes all wharves, quays, docks, and premises in or upon which any goods, when landed from ships, may be lawfully placed:
 
-The expression “warehouse” includes all warehouses, buildings, and premises in which goods, when landed from ships, may be lawfully placed:
-
-The expression “report” means the report required by the customs laws to be made by the master of an importing ship:
+The expression “warehouse” includes all warehouses, buildings, and premises in which goods, when landed from ships, may be lawfully placed: The expression “report” means the report required by the customs laws to be made by the master of an importing ship:
 
 The expression “entry” means the entry required by the customs laws to be made for the landing or discharge of goods from an importing ship:
 

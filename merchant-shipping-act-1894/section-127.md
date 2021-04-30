@@ -1,5 +1,3 @@
-## Discharge of Seamen.
-
 Discharge before superintendent
 
 127.—(1) When a seaman serving in a British foreign-going ship, whether registered within or without the United Kingdom, is on the termination of his engagement discharged in the United Kingdom, he shall, whether the agreement with the crew be an agreement for the voyage or a running agreement, be discharged in manner provided by this Act in the presence of a superintendent.

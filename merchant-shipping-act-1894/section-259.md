@@ -1,5 +1,3 @@
-## Sites for Sailors Homes.
-
 Corporations, &c. may grant sites for sailors homes
 
 259.—The corporation of a municipal borough, being a port in the United Kingdom, and any body corporate, association, or trustees in any such port, existing or constituted for any public purposes relating to the government or benefit of persons engaged in the British merchant service, or to the management of docks and harbours, or for any other public purposes connected with shipping or navigation, may, with the consent of the Local Government Board, appropriate any land vested in them or in the trustees for them as a site for a sailors home, and may for that purpose either retain and apply the same accordingly, or convey the same to trustees, with such powers for appointing new trustees and continuing the trust as they think fit.
