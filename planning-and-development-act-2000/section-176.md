@@ -1,6 +1,6 @@
 Prescribed classes of development requiring assessment.
 
-176.—The Minister shall, for the purpose of giving effect to the Environmental Impact Assessment Directive, make regulations—
+176. (1) —The Minister shall, for the purpose of giving effect to the Environmental Impact Assessment Directive, make regulations—
 
 (a) identifying development which may have significant effects on the environment, and
 
