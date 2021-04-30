@@ -36,6 +36,8 @@ Quarry substitute consent applications - Board’s jurisdiction in relation
 
 (b) The Board may agree to extend the period specified in subparagraph (a), provided that such period of extension shall not exceed 6 weeks.
 
-(c) The Board may make a decision under section 37N(3) notwithstanding that a planning authority has failed to submit a report requested under paragraph (a) within the time specified in that paragraph or within such period of extension as may have been agreed under paragraph (b).
+(c) The Board may make a decision under section 37N(3) notwithstanding that a planning authority has failed to submit a report requested under paragraph
+
+(a) within the time specified in that paragraph or within such period of extension as may have been agreed under paragraph (b).
 
 (13) In addition to the report referred to in subsection (12), the Board may, where it considers it necessary to do so, require the planning authority or authorities referred to in that subsection or any planning authority or authorities on whose functional area or areas the proposed development would have a significant effect to furnish to the Board such information in relation to the effects of the proposed development on the proper planning and sustainable development of the functional area concerned and on the environment as the Board may specify.

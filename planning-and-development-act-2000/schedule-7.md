@@ -24,9 +24,7 @@ Energy Infrastructure
 
 —An installation for the surface storage of oil or coal, where the storage capacity would exceed 100,000 tonnes.
 
-—An installation for hydroelectric energy production with an output of 300 megawatts or more, or where the new or extended superficial area of water impounded would be 30 hectares or more, or where there would be a 30 per cent change in the maximum, minimum or mean flows in the main river channel.
-
-—An installation for the harnessing of wind power for energy production (a wind farm) with more than 25 turbines or having a total output greater than 50 megawatts.
+—An installation for hydroelectric energy production with an output of 300 megawatts or more, or where the new or extended superficial area of water impounded would be 30 hectares or more, or where there would be a 30 per cent change in the maximum, minimum or mean flows in the main river channel. —An installation for the harnessing of wind power for energy production (a wind farm) with more than 25 turbines or having a total output greater than 50 megawatts.
 
 —An onshore terminal, building or installation, whether above or below ground, associated with a natural gas storage facility, where the storage capacity would exceed 1mscm.
 
@@ -68,7 +66,9 @@ Environmental Infrastructure
 
 (a) the incineration, or
 
-(b) the chemical treatment (within the meaning of Annex IIA to Council Directive 75/442/EEC under heading D9), of non-hazardous waste with a capacity for an annual intake greater than 100,000 tonnes. —An installation for the disposal, treatment or recovery of waste with a capacity for an annual intake greater than 100,000 tonnes.
+(b) the chemical treatment (within the meaning of Annex IIA to Council Directive 75/442/EEC under heading D9), of non-hazardous waste with a capacity for an annual intake greater than 100,000 tonnes.
+
+—An installation for the disposal, treatment or recovery of waste with a capacity for an annual intake greater than 100,000 tonnes.
 
 —A groundwater abstraction or artificial groundwater recharge scheme, where the annual volume of water abstracted or recharged is equivalent to or exceeds 2 million cubic metres.
 

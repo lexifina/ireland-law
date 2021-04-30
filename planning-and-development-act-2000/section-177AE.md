@@ -82,9 +82,7 @@ Appropriate Assessment of certain development carried out by or on behalf of loc
 
 (6) Before making a decision in respect of a proposed development under this section, the Board shall consider—
 
-(a) the Natura impact statement submitted pursuant to subsection (1) or (5)(a)(ii), any submission or observations made in accordance with subsection (4) or
-
-(5) and any other information furnished in accordance with subsection (5) relating to—
+(a) the Natura impact statement submitted pursuant to subsection (1) or (5)(a)(ii), any submission or observations made in accordance with subsection (4) or (5) and any other information furnished in accordance with subsection (5) relating to—
 
 (i) the likely effects on the environment of the proposed development,
 

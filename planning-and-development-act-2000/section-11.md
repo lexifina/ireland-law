@@ -32,7 +32,9 @@ Preparation of draft development plan.
 
 (bb) indicate that children, or groups or associations representing the interests of children, are entitled to make submissions or observations under paragraph (b),
 
-(bc) state that the planning authority intends to review the zoning of the area of the development plan for the purposes referred to in subsection (1A)(a) and (b) and indicate that requests or proposals for zoning of particular land for any purpose shall not be considered at this stage.
+(bc) state that the planning authority intends to review the zoning of the area of the development plan for the purposes referred to in subsection (1A)(a) and
+
+(b) and indicate that requests or proposals for zoning of particular land for any purpose shall not be considered at this stage.
 
 (c) indicate the time during which and the place or places where any background papers or draft proposals (if any) regarding the review of the existing plan and the preparation of the new development plan may be inspected.
 

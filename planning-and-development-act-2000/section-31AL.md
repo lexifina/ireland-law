@@ -36,6 +36,4 @@ Code of conduct
 
 (c) to the extent indicated in the code of conduct, to any person or class or classes of persons to whom section 31AJ relates, and the code of conduct shall be complied with by each person to the extent that it relates to him or her or has been duly applied to him or her.
 
-Chapter III
-
-Evaluation and assessment carried out by Office of the Planning Regulator
+Chapter III Evaluation and assessment carried out by Office of the Planning Regulator
