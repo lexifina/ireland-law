@@ -1,0 +1,3 @@
+Punishment of indecent assault on female. (Repealed)
+
+10. — ...
