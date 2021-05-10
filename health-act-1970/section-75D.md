@@ -1,3 +1,3 @@
-Orders and regulations.
+Orders and regulations. (Repealed)
 
 75D. ...

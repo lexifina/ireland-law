@@ -52,9 +52,7 @@ Drugs, medicines and appliances.
 
 (iv) the necessity of controlling expenditure in relation to the provision by the State of health services.
 
-(c) The Minister shall make regulations under paragraph (a)(ii) only where he or she is of opinion that not to charge the amount referred to in subsection
-
-(1A) to such a class is just and equitable in the circumstances, having regard to such of the following as he or she considers appropriate:
+(c) The Minister shall make regulations under paragraph (a)(ii) only where he or she is of opinion that not to charge the amount referred to in subsection (1A) to such a class is just and equitable in the circumstances, having regard to such of the following as he or she considers appropriate:
 
 (i) the particular medical condition, disability or medical needs of persons of that class;
 
