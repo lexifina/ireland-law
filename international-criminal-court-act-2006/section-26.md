@@ -1,6 +1,6 @@
 Adjournment and remand.
 
-26.— (1) In relation to a person who is before it under this Part the High Court may, subject to subsection (2), exercise its powers of adjournment and remand, including, but not limited to, the powers it has in that respect in relation to a person sent forward to the Central Criminal Court for trial.
+26.— (1) In relation to a person who is before it under this Part the High Court may, subject to subsection (2) , exercise its powers of adjournment and remand, including, but not limited to, the powers it has in that respect in relation to a person sent forward to the Central Criminal Court for trial.
 
 (2) (a) The High Court—
 

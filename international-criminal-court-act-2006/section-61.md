@@ -12,4 +12,4 @@ State or diplomatic immunity, etc.
 
 (b) under any rule of law;
 
-“state party to the Statute” includes a state which has accepted the jurisdiction of the International Criminal Court in accordance with Article 12 (preconditions to theexercise of jurisdiction).
+“state party to the Statute” includes a state which has accepted the jurisdiction of the International Criminal Court in accordance with Article 12 (preconditions to the exercise of jurisdiction).

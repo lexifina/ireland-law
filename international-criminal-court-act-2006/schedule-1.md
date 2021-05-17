@@ -1684,7 +1684,9 @@ PART 9. INTERNATIONAL COOPERATION AND JUDICIAL ASSISTANCE
 
 Article 86
 
-General obligation to cooperate States Parties shall, in accordance with the provisions of this Statute, cooperate fully with the Court in its investigation and prosecution of crimes within the jurisdiction of the Court.
+General obligation to cooperate
+
+States Parties shall, in accordance with the provisions of this Statute, cooperate fully with the Court in its investigation and prosecution of crimes within the jurisdiction of the Court.
 
 Article 87
 
@@ -1714,9 +1716,7 @@ Subsequent changes to this choice shall be made in accordance with the Rules of 
 
 Article 88
 
-Availability of procedures under national law
-
-States Parties shall ensure that there are procedures available under their national law for all of the forms of cooperation which are specified under this Part.
+Availability of procedures under national law States Parties shall ensure that there are procedures available under their national law for all of the forms of cooperation which are specified under this Part.
 
 Article 89
 
@@ -1902,9 +1902,7 @@ Postponement of execution of a request in respect of ongoing investigation or pr
 
 Article 95
 
-Postponement of execution of a request in respect of an admissibility challenge
-
-Where there is an admissibility challenge under consideration by the Court pursuant to article 18 or 19, the requested State may postpone the execution of a request under this Part pending a determination by the Court, unless the Court has specifically ordered that the Prosecutor may pursue the collection of such evidence pursuant to article 18 or 19.
+Postponement of execution of a request in respect of an admissibility challenge Where there is an admissibility challenge under consideration by the Court pursuant to article 18 or 19, the requested State may postpone the execution of a request under this Part pending a determination by the Court, unless the Court has specifically ordered that the Prosecutor may pursue the collection of such evidence pursuant to article 18 or 19.
 
 Article 96
 
@@ -2192,13 +2190,13 @@ The expenses of the Court and the Assembly of States Parties, including its Bure
 
 Article 116
 
-Voluntary contributions Without prejudice to article 115, the Court may receive and utilize, as additional funds, voluntary contributions from Governments, international organizations, individuals, corporations and other entities, in accordance with relevant criteria adopted by the Assembly of States Parties.
+Voluntary contributions
+
+Without prejudice to article 115, the Court may receive and utilize, as additional funds, voluntary contributions from Governments, international organizations, individuals, corporations and other entities, in accordance with relevant criteria adopted by the Assembly of States Parties.
 
 Article 117
 
-Assessment of contributions
-
-The contributions of States Parties shall be assessed in accordance with an agreed scale of assessment, based on the scale adopted by the United Nations for its regular budget and adjusted in accordance with the principles on which that scale is based.
+Assessment of contributions The contributions of States Parties shall be assessed in accordance with an agreed scale of assessment, based on the scale adopted by the United Nations for its regular budget and adjusted in accordance with the principles on which that scale is based.
 
 Article 118
 
@@ -2260,7 +2258,9 @@ Review of the Statute
 
 Article 124
 
-Transitional Provision Notwithstanding article 12, paragraphs 1 and 2, a State, on becoming a party to this Statute, may declare that, for a period of seven years after the entry into force of this Statute for the State concerned, it does not accept the jurisdiction of the Court with respect to the category of crimes referred to in article 8 when a crime is alleged to have been committed by its nationals or on its territory. A declaration under this article may be withdrawn at any time. The provisions of this article shall be reviewed at the Review Conference convened in accordance with article 123, paragraph 1.
+Transitional Provision
+
+Notwithstanding article 12, paragraphs 1 and 2, a State, on becoming a party to this Statute, may declare that, for a period of seven years after the entry into force of this Statute for the State concerned, it does not accept the jurisdiction of the Court with respect to the category of crimes referred to in article 8 when a crime is alleged to have been committed by its nationals or on its territory. A declaration under this article may be withdrawn at any time. The provisions of this article shall be reviewed at the Review Conference convened in accordance with article 123, paragraph 1.
 
 Article 125
 
@@ -2292,8 +2292,6 @@ Article 128
 
 Authentic texts
 
-The original of this Statute, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary- General of the United Nations, who shall send certified copies thereof to all States.
+The original of this Statute, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
 
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Statute.
-
-DONE at Rome, this 17th day of July 1998.
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Statute. DONE at Rome, this 17th day of July 1998.

@@ -44,6 +44,8 @@ Requests by International Criminal Court.
 
 (b) may subsequently consent to their disclosure.
 
-(6) Any request mentioned in subsection (1) and any supporting or related documents shall constitute official information within the meaning of the Official Secrets Act 1963.
+(6) Any request mentioned in subsection
+
+(1) and any supporting or related documents shall constitute official information within the meaning of the Official Secrets Act 1963.
 
 (7) Competing requests for assistance from the Court and from another state pursuant to an international obligation of the State, other than requests for surrender or extradition, shall be dealt with by the Minister in accordance with Article 93.9.

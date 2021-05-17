@@ -1,12 +1,14 @@
 Surrender order.
 
-25.— (1) (a) Subject to subsection (2), on application by or on behalf of the Minister for the surrender of a person arrested under section 23, the High Court may, if satisfied that the arrested person is the person named or described in the warrant of arrest and surrender issued by the International Criminal Court, make an order (in this Part referred to as a “surrender order”) for the surrender of the person either—
+25.— (1) (a) Subject to subsection (2) , on application by or on behalf of the Minister for the surrender of a person arrested under section 23 , the High Court may, if satisfied that the arrested person is the person named or described in the warrant of arrest and surrender issued by the International Criminal Court, make an order (in this Part referred to as a “surrender order”) for the surrender of the person either—
 
 (i) into the custody of that Court, or
 
 (ii) if that Court so directs in the case of a person convicted by it, into the custody of the state of enforcement, in accordance with arrangements to be made by the Minister.
 
-(b) Where the application relates to a person arrested under a provisional arrest warrant, copies of the request by the International Criminal Court for his or her surrender and of the accompanying documents and any other related documents, together with a certificate by the Minister under section 19 that the request has been duly made, shall be produced to the High Court.
+(b) Where the application relates to a person arrested under a provisional arrest warrant, copies of the request by the International Criminal Court for his or her surrender and of the accompanying documents and any other related documents, together with a certificate by the Minister under section
+
+19 that the request has been duly made, shall be produced to the High Court.
 
 (c) In accordance with paragraph 4, second sentence, of Article 59 the High Court may not consider whether the warrant of arrest was properly issued in accordance with paragraphs 1(a) and 1(b) of Article 58.
 
@@ -14,9 +16,9 @@ Surrender order.
 
 (i) any challenge before the International Criminal Court to the admissibility of a case on grounds referred to in Article 17 or 89(2) or to that Court's jurisdiction in the case, or
 
-(ii) a challenge to admissibility made before the High Court on the basis of the principle of ne bis in idem, as provided for in Article 89(2), and remand the arrested person in custody or, subject to section 26(2), on bail.
+(ii) a challenge to admissibility made before the High Court on the basis of the principle of ne bis in idem, as provided for in Article 89(2), and remand the arrested person in custody or, subject to section 26 (2) , on bail.
 
-(b) The High Court shall cause the Minister to be informed of any challenge mentioned in paragraph (a)(ii).
+(b) The High Court shall cause the Minister to be informed of any challenge mentioned in paragraph (a) (ii) .
 
 (c) On being so informed, the Minister shall consult the International Criminal Court and then inform the High Court either—
 
@@ -28,7 +30,7 @@ Surrender order.
 
 (a) determine—
 
-(i) whether section 23(2) was complied with in relation to the execution of the warrant of arrest, and
+(i) whether section 23 (2) was complied with in relation to the execution of the warrant of arrest, and
 
 (ii) whether any other rights of the person in relation to the arrest have been respected,
 
@@ -48,7 +50,7 @@ Surrender order.
 
 (6) An appeal shall lie to the Supreme Court against a surrender order only on a point of law.
 
-(7) (a) If an appeal is to be brought against a refusal of the High Court to make a surrender order and the Court is so informed without delay, the Court shall remand the arrested person in custody or, subject to section 26(2), on bail, until the appeal has been finally determined.
+(7) (a) If an appeal is to be brought against a refusal of the High Court to make a surrender order and the Court is so informed without delay, the Court shall remand the arrested person in custody or, subject to section 26 (2) , on bail, until the appeal has been finally determined.
 
 (b) If not so informed, the Court shall order that the arrested person be released.
 

@@ -1,6 +1,6 @@
 Service of documents.
 
-54.— (1) A request from the International Criminal Court for the service of documents, including summonses or other judicial documents, may, subject to section 4, be sent by the Minister to the Commissioner of the Garda Síochána.
+54.— (1) A request from the International Criminal Court for the service of documents, including summonses or other judicial documents, may, subject to section 4 , be sent by the Minister to the Commissioner of the Garda Síochána.
 
 (2) The Commissioner shall—
 

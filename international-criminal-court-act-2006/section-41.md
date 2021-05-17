@@ -2,7 +2,9 @@ Realisation of property.
 
 41.— (1) Where an enforcement order which is not subject to appeal has not been satisfied, the High Court may exercise the powers conferred by this section.
 
-(2) Where subsection (1) applies, the Court may, in relation to any realisable property—
+(2) Where subsection
+
+(1) applies, the Court may, in relation to any realisable property—
 
 (a) appoint a person to be a receiver in respect of it,
 

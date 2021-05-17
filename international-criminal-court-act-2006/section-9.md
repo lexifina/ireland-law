@@ -6,4 +6,4 @@ Proceedings for ICC offence.
 
 (3) Proceedings for an ICC offence committed outside the State may be taken in any place in the State, and the offence may for all incidental purposes be treated as having been committed in that place.
 
-(4) Without prejudice to section 7(4), proceedings may not be taken in respect of conduct constituting an ICC offence if the conduct occurred before the passing of this Act.
+(4) Without prejudice to section 7 (4) , proceedings may not be taken in respect of conduct constituting an ICC offence if the conduct occurred before the passing of this Act.

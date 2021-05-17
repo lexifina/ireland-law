@@ -2,7 +2,7 @@ Temporary transfer of prisoner.
 
 55.— (1) This section applies where the Minister receives a request from the International Criminal Court under Article 93.1(f) for the temporary transfer to it of a person in custody in the State for identification purposes or for obtaining testimony or other assistance.
 
-(2) The Minister may, subject to section 4, by order require such a person—
+(2) The Minister may, subject to section 4 , by order require such a person—
 
 (a) to be taken in custody from the place in which he or she is detained to a place of departure from the State for delivery into the custody of a person authorised in that behalf by the Court, and
 

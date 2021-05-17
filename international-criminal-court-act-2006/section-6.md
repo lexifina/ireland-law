@@ -1,6 +1,6 @@
 ## PART 2 DOMESTIC JURISDICTION IN ICC OFFENCES
 
-Interpretation (
+Interpretation ( Part 2).
 
 6.— (1) In this Part, unless the context otherwise requires—
 

@@ -8,7 +8,7 @@ Bankruptcy of defendant, etc.
 
 (ii) an ICC order which is the subject of an enforcement order made before the order of adjudication;
 
-(b) any property realised by virtue of section 38(11) or 41(2)and for the time being in the hands of a receiver.
+(b) any property realised by virtue of section 38 (11) or 41 (2) and for the time being in the hands of a receiver.
 
 (2) Where a person was adjudicated bankrupt before the passing of this Act, the powers of the High Court or a receiver under either of those sections shall not be exercised in relation to property of the bankrupt for the purposes of the Act of 1988.
 

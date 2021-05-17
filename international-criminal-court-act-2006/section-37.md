@@ -1,6 +1,6 @@
 ## PART 4 REQUESTS TO FREEZE ASSETS AND ENFORCE ORDERS OF INTERNATIONAL CRIMINAL COURT
 
-Interpretation (
+Interpretation ( Part 4).
 
 37.— In this Part, unless the context otherwise requires—
 
@@ -10,9 +10,9 @@ Interpretation (
 
 “enforceable ICC order” means an ICC order in relation to which an enforcement order has been made;
 
-“enforcement order” means an order under section 40(3) for the enforcement of an ICC order;
+“enforcement order” means an order under section 40 (3) for the enforcement of an ICC order;
 
-“freezing order” means an order under section 38(4);
+“freezing order” means an order under section 38 (4) ;
 
 “gift caught by this Part” means a gift—
 
@@ -20,7 +20,7 @@ Interpretation (
 
 (b) which the court considers it appropriate in all the circumstances to take into account;
 
-“ICC order” has the meaning given to it by section 40(1);
+“ICC order” has the meaning given to it by section 40 (1) ;
 
 “realisable property” means—
 

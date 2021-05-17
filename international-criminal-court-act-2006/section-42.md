@@ -1,8 +1,8 @@
 Exercise of powers by High Court or receiver.
 
-42.— (1) In this section “powers” means the powers conferred on the High Court by section 38(11) or 41(2) or on a receiver appointed under either of those provisions.
+42.— (1) In this section “powers” means the powers conferred on the High Court by section 38 (11) or 41 (2) or on a receiver appointed under either of those provisions.
 
-(2) Subject to subsection (3), the powers shall be exercised with a view to—
+(2) Subject to subsection (3) , the powers shall be exercised with a view to—
 
 (a) securing that the property covered by an order under either of those provisions is available to satisfy any order of the International Criminal Court imposing a fine or forfeiture or providing for reparation to, or in respect of, victims,
 

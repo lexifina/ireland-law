@@ -2,7 +2,7 @@ Questioning.
 
 53.— (1) This section applies where the Minister receives from the International Criminal Court a request under Article 93.1(c) for the questioning of any person who is suspected of having committed an ICC offence.
 
-(2) Where this section applies, the Minister shall, subject to section 4, send a copy of the request and any accompanying documents to the Commissioner of the Garda Síochána.
+(2) Where this section applies, the Minister shall, subject to section 4 , send a copy of the request and any accompanying documents to the Commissioner of the Garda Síochána.
 
 (3) The Commissioner shall arrange for the questioning of the person concerned by a member or members of the Garda Síochána in a Garda station.
 

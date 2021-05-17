@@ -18,7 +18,7 @@ Consent to surrender.
 
 (b) if such an order has been made, order that the person be returned to custody to await his or her surrender.
 
-(6) (a) A person who has consented to surrender in accordance with this section may, at any time up to the making of an order by the Minister under section 30, withdraw the consent.
+(6) (a) A person who has consented to surrender in accordance with this section may, at any time up to the making of an order by the Minister under section 30 , withdraw the consent.
 
 (b) On such withdrawal the person—
 

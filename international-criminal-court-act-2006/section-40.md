@@ -2,7 +2,7 @@ Enforcement of ICC orders.
 
 40.— (1) This section applies where the Minister has received a request from the International Criminal Court for the enforcement of an order of the Court (in this Part referred to as an “ICC order”) imposing a fine or forfeiture or providing for reparation to, or in respect of, victims.
 
-(2) (a) Where this section applies, the Minister shall, subject to section 4, cause an application to be made to the High Court for enforcement of the ICC order.
+(2) (a) Where this section applies, the Minister shall, subject to section 4 , cause an application to be made to the High Court for enforcement of the ICC order.
 
 (b) If the applicant—
 
@@ -10,9 +10,11 @@ Enforcement of ICC orders.
 
 (ii) is aware of its location, the applicant shall state in the application that he or she so believes and specify the location of the land.
 
-(3) (a) On such an application the High Court may, subject to subsection (4), make an order (in this Part referred to as an “enforcement order”) for the enforcement of the ICC order.
+(3) (a) On such an application the High Court may, subject to subsection (4) , make an order (in this Part referred to as an “enforcement order”) for the enforcement of the ICC order.
 
-(b) If subsection (2)(b) applies, the enforcement order shall include the statement referred to in that subsection.
+(b) If subsection
+
+(2) (b) applies, the enforcement order shall include the statement referred to in that subsection.
 
 (4) The High Court shall make an enforcement order only if—
 
@@ -36,13 +38,13 @@ Enforcement of ICC orders.
 
 (8) Nothing in subsection (6) or (7) authorises a person to be imprisoned.
 
-(9) Subject to subsection (10), if at any time after the making of the enforcement order it is reported to the High Court that any sum payable under the ICC order remains unpaid, the Court may, without prejudice to the validity of anything previously done under the order or to its future enforcement, order that the person to whom the ICC order relates be imprisoned for a period not exceeding that set out in the second column of the table to this section opposite the amount outstanding under the ICC order.
+(9) Subject to subsection (10) , if at any time after the making of the enforcement order it is reported to the High Court that any sum payable under the ICC order remains unpaid, the Court may, without prejudice to the validity of anything previously done under the order or to its future enforcement, order that the person to whom the ICC order relates be imprisoned for a period not exceeding that set out in the second column of the table to this section opposite the amount outstanding under the ICC order.
 
 (10) An order under subsection (9) of this section shall not be made unless the person to whom the ICC order relates has been given a reasonable opportunity to make representations to the Court.
 
 (11) Section 60 (voidance of dispositions designed to frustrate confiscation, etc.) of the Act of 1994 shall have effect as if the reference to forfeiture included a reference to an enforceable ICC order.
 
-(12) Money or other property received under an enforceable ICC order shall, without prejudice to section 49(1), be dealt with in accordance with the directions of the International Criminal Court.
+(12) Money or other property received under an enforceable ICC order shall, without prejudice to section 49 (1) , be dealt with in accordance with the directions of the International Criminal Court.
 
 (13) Section 39 shall apply in relation to the registration of enforcement orders as it does in relation to the registration of freezing orders and shall have effect accordingly, with any necessary modifications.
 

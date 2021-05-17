@@ -8,7 +8,7 @@ Issue of provisional arrest warrant.
 
 (c) that the person—
 
-(i) is accused or suspected by that Court of having committed an ICC offence or an offence under section 11(1)(a), or
+(i) is accused or suspected by that Court of having committed an ICC offence or an offence under section 11 (1) (a) , or
 
 (ii) has been convicted by it of such an offence, and
 

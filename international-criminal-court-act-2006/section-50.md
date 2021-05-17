@@ -118,7 +118,7 @@ Identification evidence.
 
 (1N) In this section a reference to identification evidence in the possession of the Garda Síochána shall include a reference to identification evidence in the possession of Forensic Science Ireland of the Department of Justice and Equality.
 
-(2) Subject to section 4, the Minister may, in pursuance of a request from the International Criminal Court under Article 93.1(a) for assistance in obtaining identification evidence, send the request to the Commissioner of the Garda Síochána for necessary action, if satisfied as to the matters mentioned in subsection (3).
+(2) Subject to section 4 , the Minister may, in pursuance of a request from the International Criminal Court under Article 93.1(a) for assistance in obtaining identification evidence, send the request to the Commissioner of the Garda Síochána for necessary action, if satisfied as to the matters mentioned in subsection (3) .
 
 (3) The matters referred to in subsection (2) are—
 
@@ -176,7 +176,7 @@ Identification evidence.
 
 (a) in the possession of the Garda Síochána, or
 
-(b) taken under subsection (5), together with a copy of the record made under subsection (10), for transmission to the Court.
+(b) taken under subsection (5) , together with a copy of the record made under subsection (10) , for transmission to the Court.
 
 (11A) Subject to subsections (12) and (13), any identification evidence taken under subsection (5) that is transmitted to the Court and returned by it when no longer required for the purpose specified in the request shall be destroyed as soon as practicable after its return.
 

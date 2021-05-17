@@ -1,6 +1,6 @@
 Investigations in State by Prosecutor.
 
-59.— (1) Subject to section 4, the Prosecutor—
+59.— (1) Subject to section 4 , the Prosecutor—
 
 (a) may conduct investigations in the State—
 

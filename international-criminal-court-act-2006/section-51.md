@@ -6,7 +6,7 @@ Locating persons and identifying or locating property, etc.
 
 (b) examining places or sites, including the exhumation and examination of grave sites, or
 
-(c) providing records or other documents, the Minister shall, subject to section 4 and subsection (2), send the request to the Commissioner of the Garda Síochána, and the Commissioner shall arrange for compliance with it.
+(c) providing records or other documents, the Minister shall, subject to section 4 and subsection (2) , send the request to the Commissioner of the Garda Síochána, and the Commissioner shall arrange for compliance with it.
 
 (2) The Minister shall not proceed in accordance with subsection (1) unless the Court undertakes—
 
@@ -44,7 +44,7 @@ Locating persons and identifying or locating property, etc.
 
 (ii) give the member access to the material within the period specified in the order.
 
-(c) The order shall also provide that in default of compliance a member of the Garda Síochána shall search the premises concerned, and for that purpose the member may exercise the powers of search given by subsection (7).
+(c) The order shall also provide that in default of compliance a member of the Garda Síochána shall search the premises concerned, and for that purpose the member may exercise the powers of search given by subsection (7) .
 
 (d) The judge may vary or discharge the order.
 
@@ -54,13 +54,13 @@ Locating persons and identifying or locating property, etc.
 
 (b) to search the premises or place and any person found there,
 
-(c) where necessary to comply with the request and subject to subsection (12), to excavate the place or any part of it,
+(c) where necessary to comply with the request and subject to subsection (12) , to excavate the place or any part of it,
 
 (d) to examine, seize and retain any material or other thing found there, or in the possession of a person present there at the time of the search, which the member reasonably believes to be evidence of or relating to the commission of an ICC offence or whose retention is necessary to comply with the request, and
 
 (e) to take such other steps as appear to the member to be necessary for preserving any such material or thing and preventing interference with it.
 
-(8) Where material referred to in subsection (6) or (7)(d) consists of material in non-legible form, the warrant or order shall have effect as an order to produce the material, or give access to it, in a form which is legible and in which it can be taken away.
+(8) Where material referred to in subsection (6) or (7) (d) consists of material in non-legible form, the warrant or order shall have effect as an order to produce the material, or give access to it, in a form which is legible and in which it can be taken away.
 
 (9) A warrant or an order under this section—
 
@@ -70,7 +70,7 @@ Locating persons and identifying or locating property, etc.
 
 (ii) which are subject to legal privilege, or to have the documents produced or to be given access to them, and
 
-(b) subject to paragraph (a) and subsection (10), has effect notwithstanding any obligation as to secrecy or other restriction on the disclosure of information imposed under any enactment or rule of law.
+(b) subject to paragraph (a) and subsection (10) , has effect notwithstanding any obligation as to secrecy or other restriction on the disclosure of information imposed under any enactment or rule of law.
 
 (10) Where the Court requests disclosure of any information or document which has been supplied in confidence to a Government department or other authority by or on behalf of the government of another state, the Minister shall in accordance with Article 73 (third-party information or documents)—
 
@@ -84,7 +84,7 @@ Locating persons and identifying or locating property, etc.
 
 (b) On such an exhumation the coroner concerned shall have the like powers and duties as if the body had not been buried.
 
-(13) Any material seized or obtained by virtue of this section may, subject to section 4, be transmitted to the International Criminal Court in accordance with the directions of the Minister, given after consultation with it.
+(13) Any material seized or obtained by virtue of this section may, subject to section 4 , be transmitted to the International Criminal Court in accordance with the directions of the Minister, given after consultation with it.
 
 (14) Where material obtained in response to the request consists of a document, the original or a copy shall be transmitted to the International Criminal Court and, where the material consists of any other article, the article itself or a description, photograph or other representation of it shall be so transmitted.
 

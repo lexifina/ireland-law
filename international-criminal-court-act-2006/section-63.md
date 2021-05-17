@@ -6,7 +6,7 @@ Evidence in proceedings.
 
 (i) to be a request by the International Criminal Court for the arrest and surrender, or provisional arrest, of a person, or for any other form of assistance, or
 
-(ii) to be a document (other than a document mentioned in paragraph (b)) supplied by the Court in relation to the request, and to be signed by an officer of the Court is admissible, without further proof, as evidence of the request or document and of the matters mentioned in it,
+(ii) to be a document (other than a document mentioned in paragraph (b) ) supplied by the Court in relation to the request, and to be signed by an officer of the Court is admissible, without further proof, as evidence of the request or document and of the matters mentioned in it,
 
 (b) a document purporting—
 
@@ -16,7 +16,7 @@ Evidence in proceedings.
 
 (c) a document purporting—
 
-(i) to be a translation of a document mentioned in paragraph (a) or (b), and
+(i) to be a translation of a document mentioned in paragraph (a) or (b) , and
 
 (ii) to be certified as correct by a person appearing to be competent to do so, is admissible, without further proof, as evidence of the translation,
 
@@ -26,7 +26,7 @@ Evidence in proceedings.
 
 (f) a document purporting to be a certificate by the Minister that a state is or is not a state party to the Statute is admissible, without further proof, as evidence of that matter, and
 
-(g) a document purporting to be a certificate by the Minister under section 38(8)(b)(ii) is admissible, without further proof, as evidence of the matters mentioned in it.
+(g) a document purporting to be a certificate by the Minister under section 38 (8) (b) (ii) is admissible, without further proof, as evidence of the matters mentioned in it.
 
 (2) In any proceedings against a person for an offence under this Act a certificate purporting to be signed by an officer of the Department of Foreign Affairs and stating that—
 

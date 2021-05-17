@@ -6,7 +6,7 @@ Interpretation (general).
 
 “Act of 1994” means the Criminal Justice Act 1994;
 
-“ancillary offence” shall be construed in accordance with section 8(1);
+“ancillary offence” shall be construed in accordance with section 8 (1) ;
 
 “another state” means a state other than the State;
 
@@ -24,7 +24,7 @@ Interpretation (general).
 
 “functions” includes powers and duties, and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the performance of the duties;
 
-“ICC offence” has the meaning given to it by section 9(1);
+“ICC offence” has the meaning given to it by section 9 (1) ;
 
 “Minister” means the Minister for Justice, Equality and Law Reform;
 
@@ -56,9 +56,11 @@ Interpretation (general).
 
 “Statute” means the Rome Statute of the International Criminal Court, done at Rome on 17 July 1998;
 
-“surrender order” means an order of the High Court under section 25 for the surrender of a person.
+“surrender order” means an order of the High Court under section
 
-(2) Nothing in this Act (except in so far as may be required by section 18) prevents the surrender of a person in accordance with the Extradition Acts or the European Arrest Warrant Act 2003.
+25 for the surrender of a person.
+
+(2) Nothing in this Act (except in so far as may be required by section 18 ) prevents the surrender of a person in accordance with the Extradition Acts or the European Arrest Warrant Act 2003.
 
 (3) In this Act, unless the context otherwise requires—
 
