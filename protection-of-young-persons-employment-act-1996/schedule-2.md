@@ -6,7 +6,7 @@ Number and Year Short Title Extent of Repeal
 
 (1) (2) (3)
 
-1936, No. 2 Conditions of Employ- Sections 15, 41 (1) (b), 45, 47 and ment Act, 1936 49 (7).
+1936, No. 2 Conditions of Sections 15, 41 (1) (b), 45, 47 and Employment Act, 1936 49 (7).
 
 1977, No. 9 Protection of Young The whole Act. Persons (Employment) Act, 1977
 
