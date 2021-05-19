@@ -26,4 +26,4 @@ No. 14 of 1971 Transport (Miscellaneous Sections 22 and 29 Provisions) Act 1971
 
 No. 27 of 1987 Transport Act 1987 Sections 10 and 11
 
-No. 55 of 2001 Transport(RailwayInfrastruc- Sections 11(1)(b), 51, 55 and 57 ture) Act 2001
+No. 55 of 2001 Transport (Railway Sections 11(1)(b), 51, 55 and 57 Infrastructure) Act 2001

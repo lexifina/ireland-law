@@ -2,7 +2,7 @@ Submission and assessment of safety management document.
 
 45.—(1) A safety management document prepared by a railway organisation which operates a railway immediately before the commencement of this section shall be submitted to the Commission by the railway organisation not later than 6 months after the commencement of this section.
 
-(2) A railway organisation shall, before it submits a safety management document to the Commission, engage a suitably qualified person to independently assess the safety management system described in such safety management documentand the report of such person shall be submitted to the Commission at the same time as the safety management document
+(2) A railway organisation shall, before it submits a safety management document to the Commission, engage a suitably qualified person to independently assess the safety management system described in such safety management document and the report of such person shall be submitted to the Commission at the same time as the safety management document
 
 (3) Where a railway organisation has altered its safety management system on the basis of the report of a person engaged in accordance with subsection (2), the safety management document shall be amended as appropriate and a statement of the actions taken by the railway organisation in response to the report, together with the report of the assessment and the safety management document as amended, shall be submitted to the Commission.
 

@@ -6,7 +6,7 @@ PART 1
 
 Session and Chapter or Short Title Provisions transferred to Commission Number and Year (2) (3) (1)
 
-8 Vic. c. 20 Railway Clauses Consolida- Section 47 tion Act 1845
+8 Vic. c. 20 Railway Clauses Section 47 Consolidation Act 1845
 
 26 & 27 Vic. c. 92 Railway Clauses Act 1863 Section 6
 
