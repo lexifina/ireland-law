@@ -16,7 +16,7 @@ Agency guidelines.
 
 (g) the provisions of the European Union (Online Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 500 of 2015).
 
-(h) the provisions of the European Union (Unjustified Geo-blocking of Consumers) Regulations 2018 (S.I. No. 513 of 2018… 2018);
+(h) the provisions of the European Union (Unjustified Geo-blocking of Consumers) Regulations 2018 (S.I. No. 513 of 2018 … 2018);
 
 (i) the provisions of Part 4A.
 
