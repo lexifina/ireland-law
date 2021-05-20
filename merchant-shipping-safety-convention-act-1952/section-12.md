@@ -1,0 +1,3 @@
+Amendment of section 430 of Principal Act.
+
+12. — ...

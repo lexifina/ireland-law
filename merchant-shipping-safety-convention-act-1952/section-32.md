@@ -1,0 +1,3 @@
+Information about ship's stability.
+
+32. — ...
