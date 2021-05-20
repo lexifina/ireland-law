@@ -24,8 +24,10 @@ S.I. No. 11 of 2003 European Communities (Sale of Consumer Goods and Associated 
 
 S.I. No. 68 of 2003 European Communities (Directive 2000/31/EC) Regulations 2003
 
-S.I. No. 490 of 2004 European Communities (Amendment of S.I. No. 68 of 2003) Regulations 2004 the European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011 Number and Year Short Title or Citation (1) (2)
+S.I. No. 490 of 2004 European Communities (Amendment of S.I. No. 68 of 2003) Regulations 2004
 
-S.I. No. 484 of 2013 the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013
+European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011 Number and Year Short Title or Citation (1) (2)
+
+S.I. No. 484 of 2013 European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013
 
 S.I. No. 14 of 2020 European Union (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) Regulations 2020
