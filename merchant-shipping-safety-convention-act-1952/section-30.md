@@ -1,0 +1,7 @@
+Miscellaneous privileges of ships holding Convention certificates.
+
+30. — (1) Where an accepted Safety Convention certificate is produced in respect of a Safety Convention passenger steamer not registered in the State, the steamer shall be exempt from paragraphs (d) and (f) of subsection (1) of section 290 of the Principal Act (which relate to the equipments of emigrant ships) and section 420 of that Act (which relates to lights and fog-signals) and from the rules for life-saving appliances.
+
+(2) Where an accepted Safety Convention certificate, being the equivalent of a safety equipment certificate, is produced in respect of a Safety Convention ship (other than a passenger steamer) not registered in the State, the ship shall be exempt from section 420 of the Principal Act (which relates to lights and fog-signals) and from the rules for life-saving appliances.
+
+(3) Where an accepted Safety Convention certificate is produced in respect of a Safety Convention ship not registered in the State, and the certificate shows that the ship complies with the requirements of the Safety Convention relating to radiocommunications and navigation and tracking rules, or that she is exempt from some of those requirements and complies with the rest, or that she is wholly exempt from those requirements, the ship shall be exempt from the provisions of the radio rules and navigation and tracking systems and equipment.

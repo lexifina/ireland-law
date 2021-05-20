@@ -1,0 +1,5 @@
+Modification of safety certificates as respects life-saving appliances.
+
+21. — (1) If, on any international voyage, a passenger steamer registered in the State in respect of which a general safety certificate, a short voyage safety certificate, a qualified safety certificate or a qualified short voyage safety certificate is in force has on board a total number of persons less than the number stated in that certificate to be the number for which the life-saving appliances on the steamer provide, the Minister may, at the request of the master of the steamer, issue a memorandum stating the total number of persons carried on the steamer on that voyage, and the consequent modifications which may be made for the purpose of that voyage in the particulars with respect to life-saving appliances stated in the certificate, and that memorandum shall be annexed to the certificate.
+
+(2) Every such memorandum shall be returned to the Minister at the end of the voyage to which it relates and, if it is not so returned, the master of the steamer shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding €500.

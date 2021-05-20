@@ -1,0 +1,3 @@
+Issue of general safety certificates, etc., on partial compliance with rules.
+
+24. — Where a ship complies with all the requirements of the construction rules, rules for life-saving appliances, radio rules or navigation and tracking rules applicable to the ship and to the voyages on which she is to be engaged so far as those requirements are requirements of the Safety Convention applicable as aforesaid, the Minister may issue in respect of the ship a general safety certificate, short-voyage safety certificate, safety equipment certificate or radio certificate, as the case may be, notwithstanding that she is exempt from, or for some other reason does not comply with, any requirements of those rules that are not applicable requirements of the Safety Convention.
