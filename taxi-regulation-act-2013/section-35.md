@@ -62,7 +62,7 @@ Section 7(5)
 
 Section 7(7)
 
-2 4 Reference Demerit offence under Demerits on payment of fixed Demerits on conviction Number charge or fixed payment (1) (2) (3) (4)
+2 4
 
 3
 
