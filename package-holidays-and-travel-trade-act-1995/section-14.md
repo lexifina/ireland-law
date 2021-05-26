@@ -1,0 +1,3 @@
+Essential terms of contract.
+
+14.— ...

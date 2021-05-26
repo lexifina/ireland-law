@@ -1,0 +1,3 @@
+Information to be provided before conclusion of contract.
+
+12.— ...

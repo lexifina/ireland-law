@@ -1,0 +1,11 @@
+F42[Administrative cooperation, certain obligations of retailers and traders, third party liability, non-waiver of rights or obligations and consumer information.
+
+25B.— (1) Where the organiser is established outside the European Economic Area, the retailer shall be subject to the obligations imposed on organisers under sections 19, 20, 20A, 20B and 22, unless the retailer can satisfy the Commission for Aviation Regulation that the organiser complies with those sections.
+
+(2) A trader shall be liable for any errors due to technical defects in the booking system which are attributable to the trader and, where the trader has agreed to arrange the booking of a package or of travel services which are part of linked travel arrangements, for the errors made during the booking process, other than where the booking errors are attributable to the traveller or caused by unavoidable and extraordinary circumstances.
+
+(3) Where an organiser or, pursuant to subsection (1), a retailer, pays compensation, grants a price reduction or otherwise complies with the obligations imposed on the organiser or retailer, as the case may be, under this Act, nothing in this Act shall be construed as preventing the organiser or retailer seeking redress from any third parties whose acts or omissions contributed to the event which gave rise to the requirement to pay compensation, grant a price reduction or to meet those other obligations.
+
+(4) The obligations imposed on an organiser or trader facilitating linked travel arrangements under this Act shall apply and have effect notwithstanding any declaration or purported declaration by such organiser or trader to the effect that he or she is acting exclusively as a travel service provider, as an intermediary or in any other capacity, or that a package or a linked travel arrangement does not constitute a package or a linked travel arrangement.
+
+(5) Travellers may not waive the rights conferred on them by this Act and any contractual arrangement or any statement by the traveller which directly or indirectly waives or limits, or purports to waive or limit, the rights conferred on travellers pursuant to this Act or which has, or intends to have, the aim or effect of avoiding the application of this Act shall not be binding on the traveller.
