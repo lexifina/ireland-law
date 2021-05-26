@@ -1,0 +1,3 @@
+Essential terms of contract. (Repealed)
+
+14.— ...

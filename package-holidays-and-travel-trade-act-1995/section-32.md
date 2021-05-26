@@ -1,0 +1,3 @@
+Amendment of section 20 of the Act of 1982. (Repealed)
+
+32. — ...
