@@ -30,7 +30,7 @@ Designation of major events.
 
 (c) practical broadcasting considerations.
 
-(5) The Minister shall consult with the Minister for Arts, Sport and Tourism before making, revoking or amending an order under this section.
+(5) The Minister shall consult with such Minister or Ministers of the Government as he or she considers appropriate before making, revoking or amending an order under this section.
 
 (6) Where it is proposed to make, revoke or amend an order under this section, a draft of the order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving the draft has been passed by each House.
 

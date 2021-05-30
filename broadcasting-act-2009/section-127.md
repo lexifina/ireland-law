@@ -10,7 +10,7 @@ Bealach Scannán na hÉireann (Irish Film Channel).
 
 (5) The Irish Film Channel may reject any advertisement presented for broadcast in whole or in part.
 
-(6) The Irish Film Channel in providing a broadcasting service under this section shall, subject to the consent of the Minister and the Minister for Arts, Sport and Tourism following consultation with the Authority, fix—
+(6) The Irish Film Channel in providing a broadcasting service under this section shall, subject to the consent of the Minister and ... following consultation with the Authority, fix—
 
 (a) the total daily time for broadcasting advertisements, and
 
