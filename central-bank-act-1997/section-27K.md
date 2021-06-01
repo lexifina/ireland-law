@@ -1,0 +1,3 @@
+Limitation period for bringing proceedings for summary trial of offence against this Part. (Repealed)
+
+27K.—...

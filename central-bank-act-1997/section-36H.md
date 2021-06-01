@@ -1,0 +1,3 @@
+Powers of inspectors with respect to holders of authorisations. (Repealed)
+
+36H.—...

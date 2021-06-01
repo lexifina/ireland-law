@@ -1,0 +1,3 @@
+Injunction to prevent an unauthorised person acting as a credit institution.
+
+74. — The Bank may apply to the Court to seek an injunction to prohibit the continuance by any person of any contravention of section 7 (as amended by section 30 of the Act of 1989, as amended by the European Communities (Deposit Guarantee Schemes) Regulations, 1995 (S.I. No. 168 of 1995) and as amended by this Act) of the Act of 1971, or section 27 (as amended by section 43 of the Act of 1989, as amended by the Regulations of 1992 and as amended by this Act) of the Act of 1971 where such a person is not a credit institution.

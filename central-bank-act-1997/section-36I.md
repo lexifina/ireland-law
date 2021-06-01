@@ -1,0 +1,3 @@
+Offence to obstruct inspectors in the exercise of their powers. (Repealed)
+
+36I.—...
