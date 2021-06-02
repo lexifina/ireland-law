@@ -1,6 +1,6 @@
 Review of licences.
 
-90.—(1) Subject to subsection (1A), the Agency—
+90.—(1) The Agency—
 
 (a) shall, subject to subsections (4) and (5) and section 99I(7), either periodically or after such period as may be prescribed (but not before the expiry of 3 years from the date on which the licence or revised licence was granted), review a licence or revised licence,
 
@@ -11,8 +11,6 @@ Review of licences.
 (ii) in conducting such examination or review, take account of the new or updated BAT conclusions applicable to the installation and adopted by the Commission of the European Union in accordance with Article 13(5) of the Industrial Emissions Directive since the licence concerned was granted or, as the case may be, last reviewed under this Part.
 
 (b) may review a licence or revised licence at any time with the consent or on the application of the licensee.
-
-(1A) Where an application for a licence is made under subsection (3) of section 82B, a review shall not be undertaken in accordance with subsection (1) in respect of the licence or revised licence in force in relation to the area to which the application relates.
 
 (2) As soon as may be after it has completed a review under this section, the Agency may—
 

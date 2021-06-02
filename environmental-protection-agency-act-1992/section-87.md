@@ -18,8 +18,6 @@ Processing of applications for licences or reviews of licences.
 
 (a) an application for permission for development under Part III of the Act of 2000,
 
-(ab) an application for permission for strategic housing development under section 4 of the Planning and Development (Housing) and Residential Tenancies Act 2016,
-
 (b) an application for approval for development under section 175, 177AE, 181A, 182A, 182C or 226 of the Act of 2000, or
 
 (c) an application for substitute consent under section 177E of the Act of 2000;
@@ -27,8 +25,6 @@ Processing of applications for licences or reviews of licences.
 “grant of permission” means—
 
 (a) a grant of permission for development under Part III of the Act of 2000,
-
-(ab) a grant of permission for strategic housing development under section 9 of the Planning and Development (Housing) and Residential Tenancies Act 2016,
 
 (b) an approval for development under section 175, 177AE, 181B, 182B, 182D or 226 of the Act of 2000, or
 
@@ -104,14 +100,6 @@ Processing of applications for licences or reviews of licences.
 
 (iii) enter into consultations, as the Agency considers appropriate, with the planning authority in relation to any environmental impacts of the proposed activity to which the application for a licence relates.
 
-(d) Where an environmental impact assessment report relating to peat extraction is submitted to the Agency in accordance with paragraph (iii) or (iv) of paragraph (d) of subsection (2A) of section 83, the Agency shall—
-
-(i) not later than 2 weeks from the date on which it receives the statement, notify the Minister for Culture, Heritage and the Gaeltacht in writing that the Agency has received an application for a licence and request that Minister to provide the Agency, not later than 6 weeks from the date specified in the notice, such observations (in such form as the Agency may specify) as he or she may have in relation to the application or the environmental impact assessment report accompanying the application,
-
-(ii) have regard to any such observations in the making of a determination in relation to the application, and
-
-(iii) consult with such persons (including the Minister referred to in subparagraph (i)) as the Agency considers appropriate in relation to the potential impact on the environment of the peat extraction to which the application relates.
-
 (1I)(a) This subsection applies—
 
 (i) notwithstanding subsections (1B) to (1H),
@@ -156,8 +144,6 @@ Processing of applications for licences or reviews of licences.
 
 (aa) where An Bord Pleanála is considering or has considered an application for permission for development comprising or for the purposes of the activity in relation to which the application for a licence to which section 83(2A) applies is required, An Bord Pleanála,
 
-(ab) in the case of an application to which paragraph (d) of subsection (1H) applies, the Minister for Culture, Heritage and the Gaeltacht in addition to the persons specified in paragraphs (a), (aa), (b), (c) and (d),
-
 (b) the applicant or the licensee, as the case may be,
 
 (c) any person who made a written submission in relation to the application or the review, and
@@ -177,8 +163,6 @@ Processing of applications for licences or reviews of licences.
 (3B)(a) Notwithstanding subsection (3), in relation to an application for a licence within the meaning of subsection (1A), to which subsection (1I) applies, the Agency may extend the period of 8 weeks referred to in subsection (3) by such period as the Agency considers necessary to enable the Agency to comply with subsection (1I).
 
 (b) The Agency shall give notice in writing of the extension of the period under paragraph (a) to a person referred to in paragraph (a), (aa), (b), (c) or (d) of subsection (2).
-
-(3C) Notwithstanding subsection (3), the Agency may, in relation to an application referred to in paragraph (d) of subsection (1H), extend the period referred to in subsection (3) by such further period as it considers necessary to enable it to comply with subsection (1H) and, where the Agency so extends the first-mentioned period, it shall notify each of the persons specified in paragraphs (a), (aa), (ab), (b), (c) and (d) of subsection (2) of the extension in writing.
 
 (4) The Agency shall, in relation to an application for a licence, or the review of a licence or revised licence—
 
@@ -211,8 +195,6 @@ Processing of applications for licences or reviews of licences.
 (ii) the local authority in whose functional area the activity the subject matter of a licence application or review will be or is situate,
 
 (iia) where a planning authority concerned or An Bord Pleanála is considering or has considered an application for permission for development comprising or for the purposes of the activity in relation to which the application for a licence to which section 83(2A) applies is required, the planning authority or An Bord Pleanála,
-
-(iib) the Minister for Culture, Heritage and the Gaeltacht in the case of an application referred to in paragraph (d) of subsection (1H),
 
 (iii) any person who requested an oral hearing, and
 

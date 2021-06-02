@@ -2,13 +2,15 @@ FIRST SCHEDULE
 
 ACTIVITIES TO WHICH PART IV APPLIES
 
-Interpretation (1) If 2 or more activities falling within the same paragraph under a particular heading of this Schedule are carried on in the same installation by the same person, then, for the purpose of any threshold specified in that paragraph, the capacities of such activities shall be aggregated.
+Interpretation
+
+(1) If 2 or more activities falling within the same paragraph under a particular heading of this Schedule are carried on in the same installation by the same person, then, for the purpose of any threshold specified in that paragraph, the capacities of such activities shall be aggregated.
 
 (2) For waste management activities, the calculation referred to in subparagraph (1) shall apply at the level of activities referred to in paragraphs 11.2, 11.4(a) and 11.4(b).
 
 (3) A process, development or operation specified in paragraph 1.1.1, 2.1, 3.1.1, 3.2.1, 3.3.1, 3.4.1, 3.6.1, 4.2.1, 4.3, 5.12, 5.13, 5.14, 5.15, 5.16, 5.17, 6.1, 6.2, 7.2.1, 7.4.1, 7.7.1, 7.8, 8.1, 8.2, 8.3, 8.5.1, 8.6.1, 8.7, 9.3.1, 9.4.1, 9.4.2, 9.4.3, 10.2, 10.3, 10.4, 11.1 (in so far as the process, development or operation specified in paragraph 11.1 is carried on in an installation connected or associated with another activity that is an industrial emissions directive activity), 11.2, 11.3, 11.4, 11.5, 11.6, 11.7, 12.2.1, 12.3, 13.4.1, 13.5 or 13.6 and carried out in an installation is an industrial emissions directive activity and an activity shall not be taken to be an industrial emissions directive activity if it is carried on at an installation solely used for research, development or testing of new products and processes.
 
-(4) A process, development or operation specified in paragraph 1.1.2, 1.2, 1.3, 1.4, 3.1.2, 3.2.2, 3.3.2, 3.4.2, 3.5, 3.6.2, 3.7, 3.8, 3.9, 4.1, 4.2.2, 4.4, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 5.9, 5.10, 5.11, 7.1, 7.2.2, 7.3.1, 7.3.2, 7.3.3, 7.4.2, 7.5, 7.6, 7.7.2, 8.4, 8.5.2, 8.6.2, 8.8,9.1, 9.2, 9.3.2, 9.4.4, 10.1, 11.1 (in so far as the process, development or operation specified in paragraph 11.1 is carried on in an installation connected or associated with another activity that is an integrated pollution control activity), 12.1, 12.2.2, 13.1, 13.2, 13.3 or 13.4.2 and carried out in an installation is an integrated pollution control activity.
+(4) A process, development or operation specified in paragraph 1.1.2, 1.2, 1.3, 1.4, 3.1.2, 3.2.2, 3.3.2, 3.4.2, 3.5, 3.6.2, 3.7, 3.8, 3.9, 4.1, 4.2.2, 4.4, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 5.9, 5.10, 5.11, 7.1, 7.2.2, 7.3.1, 7.3.2, 7.3.3, 7.4.2, 7.5, 7.6, 7.7.2, 8.4, 8.5.2, 8.6.2, 8.8, 9.1, 9.2, 9.3.2, 9.4.4, 10.1, 11.1 (in so far as the process, development or operation specified in paragraph 11.1 is carried on in an installation connected or associated with another activity that is an integrated pollution control activity), 12.1, 12.2.2, 13.1, 13.2, 13.3 or 13.4.2 and carried out in an installation is an integrated pollution control activity.
 
 (5) In this Schedule—
 
@@ -30,7 +32,7 @@ Interpretation (1) If 2 or more activities falling within the same paragraph und
 
 (b) any other operation where either the level of extracted or processed minerals is greater than 200,000 tonnes per annum or the total operational yield is greater than 1,000,000 tonnes, and storage of related mineral waste.
 
-1.4 Peat extraction.
+1.4 The extraction of peat in the course of business which involves an area exceeding 50 hectares.
 
 2 Energy
 
