@@ -1,4 +1,4 @@
-F87[Conditions attached to a licence.
+F122[Conditions attached to a licence.
 
 86.—(1) Without prejudice to the generality of section 83(1), conditions attached to a licence or revised licence granted under this Part—
 
@@ -19,8 +19,6 @@ F87[Conditions attached to a licence.
 (v) specify the measures to be taken other than in the circumstances that prevail during normal operating circumstances and, in particular, measures to be taken if there is a breakdown of any plant or other equipment or procedures which may affect emissions from the activity, including measures to be taken in relation to start-up, shutdown, leaks, malfunctions or momentary stoppages,
 
 (vi) specify that the Agency is to be informed without delay of any incident or accident significantly affecting the environment,
-
-(via) in the case of peat extraction, specify requirements to avoid, prevent, reduce and offset any significant adverse effects of such extraction on the environment,
 
 (vii) specify the measures to be taken, including as appropriate the duration of such measures, on and following the permanent cessation of an activity (including such a cessation resulting from the abandonment of the activity), and
 
@@ -118,17 +116,7 @@ F87[Conditions attached to a licence.
 
 (b) may attach to the licence or revised licence such conditions related to the above-mentioned development as may be specified by the planning authority for the purposes of the proper planning and sustainable development of the area or stricter conditions as the Agency may consider necessary for the prevention, limitation, elimination, abatement or reduction of emissions.
 
-(8A) Where the Agency proposes to attach a condition to a licence or revised licence that would necessitate development of a class referred to in paragraph (2) of Regulation 8H of the Planning and Development Regulations 2001, the Agency—
-
-(a) shall consult with each planning authority in whose functional area the peat extraction (in respect of which the licence or revised licence will apply) will be carried on, and
-
-(b) may attach to the licence or revised licence —
-
-(i) such conditions in respect of the carrying out of such development as may be recommended by any such planning authority for the purpose of ensuring the proper planning and sustainable development of that area, or
-
-(ii) such other conditions as the Agency considers necessary to avoid, prevent, reduce or offset any significant adverse effects of the activity on the environment,
-
-(9) Where a planning authority is consulted in accordance with subsection (8)(a) or (8A)(a), the Agency may specify a period (which period shall not in any case be less than 3 weeks from the date of the request) within which observations must be made.
+(9) Where a planning authority is consulted in accordance with subsection (8)(a) , the Agency may specify a period (which period shall not in any case be less than 3 weeks from the date of the request) within which observations must be made.
 
 (10) The Agency may, at any time after expiration of the period specified by it under subsection (9) for making observations, make its decision on the application or review.
 

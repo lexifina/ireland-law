@@ -1,8 +1,6 @@
-F87[Determination of applications for licences.
+F90[Determination of applications for licences.
 
 83.—(1) Where an application is made to the Agency in the prescribed manner for a licence under this Part it may, subject to section 99A and to compliance with any regulations under section 89, grant the licence subject to such conditions as it considers appropriate or refuse the application.
-
-(1A) Prior to, and for the purpose of considering an application for, the grant of a licence or a revised licence, the Agency shall carry out or cause to be carried out such investigations as it considers necessary or as may be prescribed.
 
 (2) Unless it considers that it is unnecessary to do so, the Agency shall carry out or cause to be carried out such investigations as it thinks appropriate or as may be prescribed—
 
@@ -84,35 +82,17 @@ F87[Determination of applications for licences.
 
 (bi) The Agency shall make an electronic version of any determination under paragraph (bd) available to the public on its website.
 
-(c) Subject to paragraphs (b) and (ca) and section 87(1A) to (1I), an environmental impact assessment shall be carried out by the Agency in respect of an application for a licence relating to an activity, where development comprising or for the purpose of the activity is:
+(c) Subject to paragraph (b) and section 87(1A) to (1I), an environmental impact assessment shall be carried out by the Agency in respect of an application for a licence relating to an activity, where development comprising or for the purpose of the activity is:
 
 (i) development of a class specified in Part 1 of Schedule 5 to the Planning and Development Regulations 2001, or
 
 (ii) development of a class specified in Part 2 of Schedule 5 to the Planning and Development Regulations 2001 that the Agency determines would be likely to have significant effects on the environment.
 
-(ca) Subject to subsections (1A) to (1I) of section 87, an environmental impact assessment shall be carried out by the Agency in respect of —
-
-(i) an application for a licence (other than an application by a licensee for the review of a licence or revised licence under paragraph (b) of subsection (1) of section 90) to carry on peat extraction, and
-
-(ii) a review, in accordance with subsection (1) of section 90, of a licence or revised licence to carry on peat extraction, relating to a change or extension of the licensed activity, where the change or extension—
-
-(I) involves an area of 30 hectares or more, or
-
-(II) is, in the opinion of the Agency, likely to have significant adverse effects on the environment.
-
 (d) Subject to section 87(1A) to (1I) an applicant for a licence shall submit an environmental impact assessment report with the application for the licence made to the Agency—
 
-(i) where the application for a licence concerned is in respect of an activity relating to development or proposed development referred to in paragraph (c)(i), ...
+(i) where the application for a licence concerned is in respect of an activity relating to development or proposed development referred to in paragraph (c)(i), or
 
-(ii) where the Agency determines that the application for a licence concerned is in respect of an activity relating to development or proposed development referred to in paragraph (c)(ii) that would be likely to have significant effects on the environment, or
-
-(iii) in the case of an application for a licence (other than an application by a licensee for the review of a licence or revised licence under paragraph (b) of subsection (1) of section 90), where the application is in respect of the carrying on of peat extraction, or
-
-(iv) in the case of a review, in accordance with subsection (1) of section 90, of a licence or revised licence to carry on peat extraction, where the review relates to a change or extension of the licensed activity and that change or extension—
-
-(I) involves an area of 30 hectares or more, or
-
-(II) is, in the opinion of the Agency, likely to have significant adverse effects on the environment.
+(ii) where the Agency determines that the application for a licence concerned is in respect of an activity relating to development or proposed development referred to in paragraph (c)(ii) that would be likely to have significant effects on the environment,
 
 (dd) The applicant for a licence shall ensure that an environmental impact assessment report referred to in paragraph (d)—
 
@@ -187,8 +167,6 @@ F87[Determination of applications for licences.
 (f) such other matters related to the prevention, elimination, limitation, abatement or reduction of emissions as it considers necessary, and
 
 (g) in a case where the application relates to an industrial emissions directive activity, any emerging techniques in so far as those techniques are relevant to the activity and in particular those emerging techniques identified in the BAT reference documents relevant to the activity concerned.
-
-(3A) Section 53 of the Waste Management Act, 1996, shall apply in relation to a licence or revised licence under this Part, with the substitution for references in that section to the grant or review of a waste licence of references to the grant or review of a licence or revised licence under this Part and with any other necessary modifications.
 
 (4) (a) In granting a licence or revised licence, the Agency shall, subject to section 86(3) and in the case of an industrial emissions directive activity, subject to section 86A(3)(b) or (4), specify in the licence or the revised licence emission limit values for environmental pollutants likely to be emitted from the activity in significant quantities, having regard to their nature and their potential to transfer from one environmental medium to another.
 

@@ -110,8 +110,6 @@ Interpretation.
 
 ‘occupier’, in relation to any installation or premises, includes the owner, a lessee, any person entitled to occupy the installation or premises and any other person having, for the time being, control of the installation or premises;
 
-‘peat extraction’ means the extraction of peat that involves an area of 30 hectares or more;
-
 ‘person in charge’ includes an occupier of an installation or premises or a manager, supervisor or operator of an activity;
 
 ‘planning authority’ has the meaning assigned to it by the Act of 2000;
