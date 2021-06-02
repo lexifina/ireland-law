@@ -1,4 +1,4 @@
-F22[Best available techniques.
+F21[Best available techniques.
 
 5.—(1) A reference in this Act to best available techniques shall be construed as a reference to the most effective and advanced stage in the development of an activity and its methods of operation, which indicate the practical suitability of particular techniques for providing, in principle, the basis for emission limit values, and in the case of an industrial emissions directive activity other additional licence conditions, designed to prevent or eliminate or, where that is not practicable, generally to reduce an emission and its impact on the environment as a whole.
 

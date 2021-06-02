@@ -1,4 +1,4 @@
-F87[Discharges to sewers.
+F190[Discharges to sewers.
 
 99E.—(1) Where the Agency proposes to grant a licence (including a revised licence) which involves a discharge of any trade effluent or other matter (other than domestic sewage or storm water) to a sewer, it shall obtain the consent of the sanitary authority in which the sewer is vested, or by which the sewer is controlled, to such a discharge being made.
 

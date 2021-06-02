@@ -1,4 +1,4 @@
-F87[Regulations regarding licences.
+F155[Regulations regarding licences.
 
 89.—(1) The Minister may make regulations in relation to—
 

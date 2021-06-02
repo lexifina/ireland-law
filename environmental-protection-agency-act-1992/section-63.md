@@ -1,4 +1,4 @@
-F74[Performance of statutory functions by local authorities.
+F73[Performance of statutory functions by local authorities.
 
 63.—(1) The Agency may request a local authority to furnish, within a specified period, to it information in relation to the performance by the authority, either generally or in a specific case, of a statutory function of that authority in relation to environmental protection and the authority shall comply with such a request.
 

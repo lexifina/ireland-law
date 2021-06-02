@@ -1,4 +1,4 @@
-F87[Transitional arrangements.
+F199[Transitional arrangements.
 
 99G.—(1) Without prejudice to the requirements of the Industrial Emissions Directive, where the Agency proposes to grant a licence or revised licence in respect of an established activity for which a licence has been granted under—
 

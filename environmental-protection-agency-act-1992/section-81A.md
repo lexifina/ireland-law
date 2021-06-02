@@ -1,4 +1,4 @@
-F85[Regulations in relation to environmental inspections.
+F84[Regulations in relation to environmental inspections.
 
 81A.—(1) The Minister may, for the purposes of environmental protection, make regulations providing for the carrying out by the Agency or a local authority of environmental inspections in connection with the performance of a statutory function of the Agency or a local authority in relation to environmental protection.
 
