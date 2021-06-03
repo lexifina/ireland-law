@@ -18,7 +18,7 @@ Determination of applications for licences.
 
 (ii) by the licensee under section 90(1)(b) for a review of a licence or revised licence;
 
-‘environmental impact assessment’ means a process –
+"environmental impact assessment" means a process –
 
 (i) consisting of—
 
@@ -50,9 +50,7 @@ Determination of applications for licences.
 
 (V) the interaction between the factors mentioned in subparagraphs (I) to (IV);
 
-(b) The Agency as part of its consideration of an application for a licence shall ensure before a licence or a revised licence is granted, and where the activity to which such licence or revised licence relates is likely to have significant
-
-5 OJ No. L 206, 22.7.1992, p. 7 6 OJ No. L 20, 26.1.2010, p. 7 effects on the environment by virtue, inter alia, of its nature, size or location, that, in accordance with this subsection and section 87(1A) to (1I), the application is made subject to an environmental impact assessment as respects the matters that come within the functions of the Agency including the functions conferred on the Agency by or under this Act.
+(b) The Agency as part of its consideration of an application for a licence shall ensure before a licence or a revised licence is granted, and where the activity to which such licence or revised licence relates is likely to have significant effects on the environment by virtue, inter alia, of its nature, size or location, that, in accordance with this subsection and section 87(1A) to (1I), the application is made subject to an environmental impact assessment as respects the matters that come within the functions of the Agency including the functions conferred on the Agency by or under this Act.
 
 (ba) Where the Agency receives an application for a licence in respect of an activity relating to development or proposed development referred to in paragraph (c)(ii) the Agency shall require the applicant for a licence to provide it with information on the characteristics of the activity and its likely significant effects on the environment.
 
@@ -141,8 +139,6 @@ Determination of applications for licences.
 (ii) if the Agency determines that the environmental impact assessment report and other material does not so adequately identify, describe or assess, the Agency shall give notice in writing to the applicant for the licence requesting further information, which notice shall—
 
 (I) identify the manner in which the content of the environmental impact assessment report and other material is inadequate, and
-
-7 OJ No. L 206, 22.7.1992, p. 7 8 OJ No. L 20, 26.1.2010, p. 7
 
 (II) require the applicant for the licence to furnish to the Agency additional information required to correct the inadequacy so identified.
 
