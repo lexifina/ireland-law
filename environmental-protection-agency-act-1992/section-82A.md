@@ -26,7 +26,7 @@ Transitional matters for activities licensed under this Act consequent upon Indu
 
 (d) an activity specified in paragraph 8.1, 8.2, 8.5.1, 8.6.1, or 7.4.1 of the First Schedule;
 
-(e) an activity specified in paragraph 7.8 of the First Schedule provided that Directive 2008/1/EC1 of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (in this section referred to as “Directive 2008/1/EC”) applies to the activity;
+(e) an activity specified in paragraph 7.8 of the First Schedule provided that Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (in this section referred to as “Directive 2008/1/EC”) applies to the activity;
 
 (f) an activity specified in paragraph 7.2.1, 7.7.1, 6.1, 6.2, 12.2.1, 9.4.3 or 13.5 of the First Schedule.
 
@@ -91,5 +91,3 @@ Transitional matters for activities licensed under this Act consequent upon Indu
 (c) The Agency shall, as soon as may be after the performance of functions conferred on it under subsection (8) or (9), notify particulars of the amendment effected by that performance to each person who made an objection to the Agency under section 87(5) in relation to any performance by the Agency of powers conferred on it under section 83 or 90 as respects the licence or revised licence concerned.
 
 (11) If the bringing into conformity with the Industrial Emissions Directive of a licence or revised licence under subsection (8) or (9) can, in the opinion of the Agency, be achieved by amending one or more of the conditions of or schedules to the licence or revised licence (and the making of the amendment will not significantly alter the character of the licence or revised licence) then, the Agency shall make those amendments of the conditions of or schedules to the licence or revised licence (which, by virtue of this subsection, it has power to do).
-
-1 O.J. No. L24, 29.1.2008, p, 8.

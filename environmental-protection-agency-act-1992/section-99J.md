@@ -32,7 +32,7 @@ Environmental Inspection Plan.
 
 (b) the record of compliance with licence conditions at the installation concerned, and
 
-(c) the participation of the licensee concerned in the Union Eco-Management and Audit Scheme under Regulation (EC) No. 1221/20091, known as “EMAS”.
+(c) the participation of the licensee concerned in the Union Eco-Management and Audit Scheme under Regulation (EC) No. 1221/2009, known as “EMAS”.
 
 (7) The Agency shall, as soon as possible, undertake a non-routine environmental inspection to investigate serious environmental complaints, serious environmental accidents or incidents and contraventions of provisions of this Part, or of licences or revised licences or conditions attached to licences or revised licences and, where appropriate, may undertake such an inspection before the Agency makes a decision under section 83 on an application for a licence, or under section 90 on the review of a licence or revised licence (including such a review conducted by it of its own volition).
 
@@ -57,5 +57,3 @@ Environmental Inspection Plan.
 (c) where relevant, the monitoring and inspection that the Agency proposes to undertake in relation to the remedial measures until the Agency is satisfied that compliance has been restored.
 
 (10) In this section “environmental inspection” means, in relation to an installation, all actions, including site visits, monitoring of emissions and checks of internal reports and follow-up documents, verification of self-monitoring, checking of the techniques used and adequacy of the environment management undertaken by or on behalf of the Agency to check and promote compliance of installations with their licences under this Part and any conditions attaching thereto, and where necessary, to monitor the environmental impact of the installations concerned.
-
-1 O.J. No. L342, 22.12.2009, p. 1.
