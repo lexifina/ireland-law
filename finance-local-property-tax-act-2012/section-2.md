@@ -46,11 +46,7 @@ Interpretation.
 
 “local property tax” has the meaning given to it by section 16;
 
-“Minister”, other than in section 20 and
-
-## Chapter 2
-
-or 3 of Part 10 , means the Minister for Finance;
+“Minister”, other than in section 20 and Chapter 2 or 3 of Part 10, means the Minister for Finance;
 
 “personal public service number” has the same meaning as in section 262 of the Social Welfare Consolidation Act 2005;
 

@@ -6,7 +6,7 @@ Power of elected members of local authority to vary basic rates.
 
 “Minister” means the Minister for the Environment, Community and Local Government.
 
-(2) Where the passing of such a resolution is a reserved function (within the meaning of the Local Government Act 2001, as amended by the Local Government Reform Act 2014) of a local authority, a local authority may pass a resolution that the basic rate should, for a period specified in the resolution and with effect from the date specified in section 21(2) (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), stand varied (either upwards or downwards) by a specified percentage in respect of relevant residential properties situated in the local authority’s functional area.
+(2) Where the passing of such a resolution is a reserved function (within the meaning of the Local Government Act 2001, as amended by the Local Government Reform Act 2014) of a local authority, a local authority may pass a resolution that the basic rate should , for a period specified in the resolution and with effect from the date specified in section 21(2) (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), stand varied (either upwards or downwards) by a specified percentage in respect of relevant residential properties situated in the local authority’s functional area.
 
 (2A) In making a decision as to whether to pass such a resolution as is referred to in subsection (2) or as to the percentage that should be specified in it, a local authority shall, in addition to the matters (if any) specified under subsection (6)(a) have regard to—
 
@@ -16,7 +16,7 @@ Power of elected members of local authority to vary basic rates.
 
 (c) the local authority’s estimation of the financial effect of the varied rate on the economy of its functional area, including on those persons who will be liable to pay local property tax.
 
-(3) Where a local authority passes a resolution under subsection (2), the rate of local property tax, in respect of relevant residential properties situated in the local authority’s functional area, shall be, for the period specified in the resolution and with effect from the date specified in section 21(2) (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), the basic rate, increased or decreased, as the case may be, by the local adjustment factor.
+(3) Where a local authority passes a resolution under subsection (2), the rate of local property tax, in respect of relevant residential properties situated in the local authority’s functional area, shall be , for the period specified in the resolution and with effect from the date specified in section 21(2) (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), the basic rate, increased or decreased, as the case may be, by the local adjustment factor.
 
 (4) Where a local authority passes a resolution under subsection (2), it shall notify the Minister in writing that it has passed the resolution and of the local adjustment factor.
 
