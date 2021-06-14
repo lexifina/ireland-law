@@ -14,11 +14,13 @@ Regulations permitting and regulating public access to certain land.
 
 (2) Regulations under this section may apply to all foreshore which is the property of the State, every refuge, State land nature reserve and seabed nature reserve, or to any such foreshore or any refuge, State land nature reserve or seabed nature reserve which is of a particular class or description, or to particular such foreshore or a particular refuge, State land nature reserve or seabed nature reserve, or to all or any other land held by the Minister for the purposes of the Wildlife Acts, 1976 and 2000.
 
-(3) Regulations under this section which apply to foreshore shall regulate access to or use of such foreshore to such extent as the Minister considers necessary for the conservation of wildlife or of a wildlife habitat or of geological or geomorphological features, as the case may be, and such regulations shall be made by him only with the consent of the Minister for the Marine and Natural Resources and in addition to the foregoing, where the regulations relate to foreshore other than foreshore which is held by the Minister, they shall be made only after consultation with—
+(3) Regulations under this section which apply to foreshore shall regulate access to or use of such foreshore to such extent as the Minister considers necessary for the conservation of wildlife or of a wildlife habitat or of geological or geomorphological features, as the case may be, and shall be made—
 
-(a) in case such foreshore is held by the Commissioners, the Commissioners,
+(a) after consultation with the Commissioners,
 
-(b) in any other case, the Minister of the Government by whom the foreshore is held,
+(b) with the consent of the Minister for Public Expenditure and Reform, and
+
+(c) where the regulations relate to foreshore in relation to which functions are vested in a Minister of the Government, other than the Minister, with the consent of that other Minister of the Government.
 
 (4) Regulations under this section which apply to a refuge shall regulate access to or use of the refuge to such extent as is necessary to enable the relevant designation order to have full effect.
 
