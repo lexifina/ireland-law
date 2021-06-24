@@ -44,15 +44,15 @@ Definitions.
 
 “firearm” means any lethal firearm or other lethal weapon of any description (including an airgun) from which any shot, bullet, slug or other missile can be discharged;
 
-“flora” means all plants (both aquatic and terrestrial) which occur in the wild (whether within or outside the State) and are not trees, shrubs or other plants being grown in the course of agriculture , aquaculture, forestry or horticulture and includes in particular lichens, mosses, liverworts, fungi, algae and vascular plants, namely flowering plants, conifers, ferns and fern-allied plants and any community of such plants;
+“flora” means all plants (both aquatic and terrestrial) which occur in the wild (whether within or outside the State) and are not trees, shrubs or other plants being grown in
+
+2 OJ No. L 61, 3.3. 1997, p.1 the course of agriculture , aquaculture, forestry or horticulture and includes in particular lichens, mosses, liverworts, fungi, algae and vascular plants, namely flowering plants, conifers, ferns and fern-allied plants and any community of such plants;
 
 “foreshore” has the same meaning as in section 1 of the Foreshore Act, 1933;
 
 “fossil” includes the remains or imprints, in whole or in part, of animals, plants or any other organisms of uncertain affinity, or of their activities, which are preserved in rocks or deposits at the surface, or beneath the surface, of land;
 
 “functions” includes powers and duties;
-
-2 OJ No. L 61, 3.3. 1997, p.1
 
 “geology” includes—
 
