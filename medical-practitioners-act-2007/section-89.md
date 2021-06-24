@@ -34,7 +34,9 @@ Training bodies and qualifications for the purposes of the Specialist and Traine
 
 (ii) on the same conditions as the specialty was recognised under section 38(1) of that Act immediately before that repeal, and the other provisions of this Act shall be construed accordingly, and
 
-(b) a body which was, immediately before the repeal of section 38 of that Act, recognised under subsection (3) of that section for the purpose of granting evidence of satisfactory completion of specialist training in relation to a specialty recognised under section 38(1) of that Act and which falls within paragraph (a) shall be deemed to be a body approved under subsection (3)(a)(ii) for the purposes of granting evidence of the satisfactory completion of specialist training in relation to that medical specialty—
+(b) a body which was, immediately before the repeal of section 38 of that Act, recognised under subsection (3) of that section for the purpose of granting evidence of satisfactory completion of specialist training in relation to a specialty recognised under section 38(1) of that Act and which falls within paragraph (a) shall be deemed to be a body approved under subsection
+
+(3)(a)(ii) for the purposes of granting evidence of the satisfactory completion of specialist training in relation to that medical specialty—
 
 (i) as if, on that repeal, the Council had approved it as such a body under that subsection, and
 
