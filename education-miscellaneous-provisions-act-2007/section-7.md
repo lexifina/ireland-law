@@ -6,7 +6,7 @@ Transfer of lands from City of Cork Vocational Education Committee.
 
 ...
 
-‘Board’ means Cork Education and Training Board;
+"Board" means Cork Education and Training Board;
 
 “relevant day specified in the order” means—
 
