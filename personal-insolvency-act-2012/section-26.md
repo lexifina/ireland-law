@@ -8,7 +8,7 @@ Eligibility criteria for a Debt Relief Notice.
 
 (b) has net disposable income, calculated in accordance with subsection (5), of €60 or less a month;
 
-(c) has assets, calculated in accordance with subsection (6), worth €400 or less;
+(c) has assets, calculated in accordance with subsection (6), worth €1,500 or less;
 
 (d) is domiciled in the State or, within one year before the application date, has ordinarily—
 

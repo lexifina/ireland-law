@@ -6,7 +6,7 @@ Court review of proposed Personal Insolvency Arrangement.
 
 (b) the debts that would be covered by the proposed Personal Insolvency Arrangement include a relevant debt, the personal insolvency practitioner may, where he or she considers that there are reasonable grounds for the making of such an application and if the debtor so instructs him or her in writing, make an application on behalf of the debtor to the appropriate court for an order under subsection (9).
 
-(2) An application under this section shall be made not later than 14 days after the creditors’ meeting referred to in subsection (16)(a) or, as the case may be, receipt by the personal insolvency practitioner of the notice of the creditor concerned under section 111A(6) (inserted by section 17 of the Personal Insolvency (Amendment) Act 2015), shall be on notice to the Insolvency Service, each creditor concerned and the debtor, and shall be accompanied by—
+(2) An application under this section shall be made not later than 28 days after the creditors’ meeting referred to in subsection (16)(a) or, as the case may be, receipt by the personal insolvency practitioner of the notice of the creditor concerned under section 111A(6) (inserted by section 17 of the Personal Insolvency (Amendment) Act 2015), shall be on notice to the Insolvency Service, each creditor concerned and the debtor, and shall be accompanied by—
 
 (a) a statement of the grounds of the application, which shall include—
 
@@ -40,7 +40,7 @@ Court review of proposed Personal Insolvency Arrangement.
 
 (4) A creditor who lodges a notice under subsection (3) shall at the same time send a copy of the notice to the Insolvency Service, the personal insolvency practitioner and each creditor concerned.
 
-(5) Where an application is made under this section before the expiry of the period of the protective certificate, such protective certificate shall continue in force until—
+(5) Where an application is made under this section , whether before or after the expiry of the period of the protective certificate, such protective certificate shall continue in force until—
 
 (a) the Personal Insolvency Arrangement comes into effect under subsection (13), or
 
@@ -148,8 +148,8 @@ Court review of proposed Personal Insolvency Arrangement.
 
 (a) the payment for which is secured by security in or over the debtor’s principal private residence, and
 
-(b) in respect of which—
+(b) in respect of which the debtor—
 
-(i) the debtor, on 1 January 2015, was in arrears with his or her payments, or
+(i) is in arrears with his or her payments, or
 
-(ii) the debtor, having been, before 1 January 2015, in arrears with his or her payments, has entered into an alternative repayment arrangement with the secured creditor concerned.
+(ii) having been in arrears with his or her payments, has entered into an alternative repayment arrangement with the secured creditor concerned.

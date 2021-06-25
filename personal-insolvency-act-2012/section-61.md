@@ -22,9 +22,9 @@ Debt Settlement Arrangement: Referral of application to court for issue of prote
 
 (4) ...
 
-(5) Subject to subsections (6) and (7) and section 76(2), a protective certificate shall be in force for a period of 70 days from the date of its issue.
+(5) Subject to subsections (6), (7) and (7A) and section 76(2), a protective certificate shall be in force for a period of 70 days from the date of its issue.
 
-(6) Where a protective certificate has been issued pursuant to subsection (2)(a), the appropriate court may, on application to that court by the personal insolvency practitioner, extend the period of the protective certificate by an additional period not exceeding 40 days where—
+(6) Where a protective certificate has been issued pursuant to subsection (2)(a), or extended under subsection (7) or (7A), the appropriate court may, on application to that court by the personal insolvency practitioner, extend the period of the protective certificate by an additional period not exceeding 40 days where—
 
 (a) the debtor and the personal insolvency practitioner satisfy the court that they have acted in good faith and with reasonable expedition, and
 
@@ -34,15 +34,17 @@ Debt Settlement Arrangement: Referral of application to court for issue of prote
 
 (ii) to be successfully completed by the debtor, will be made if the extension is granted.
 
-(7) Where a protective certificate has been issued pursuant to subsection (2)(a) or extended under subsection (6), the appropriate court may on application to that court extend the period of the protective certificate by a further additional period not exceeding 40 days where—
+(7) Where a protective certificate has been issued pursuant to subsection (2)(a) or extended under subsection (6) or (7A), the appropriate court may, on application to that court by a personal insolvency practitioner, extend the period of the protective certificate by an additional period not exceeding 40 days where—
 
-(a) the personal insolvency practitioner has been appointed in accordance with section 49(7), and
+(a) the personal insolvency practitioner has been appointed in accordance with section 49A, 49B or 49C, and
 
 (b) the court is satisfied that the extension is necessary to enable the personal insolvency practitioner so appointed to perform his or her functions under this Chapter.
 
-(8) A hearing held under subsection (7) shall be held with all due expedition.
+(7A) Where a protective certificate has been issued pursuant to subsection (2)(a), or extended under subsection (6) or (7), the appropriate court may, on application to that court by the personal insolvency practitioner, extend the period of the protective certificate by an additional period not exceeding 40 days, where the court is satisfied that, by reason of exceptional circumstances or of other factors which are substantially outside the control of the debtor and the personal insolvency practitioner, it would be just to grant the extension.
 
-(9) The period of a protective certificate may be extended under subsection (7) once only.
+(8) A hearing held under this section shall be held with all due expedition.
+
+(9) The period of a protective certificate may be extended once only under each of subsections (7) and (7A)..
 
 (10) The registrar of the appropriate court shall notify the Insolvency Service and the personal insolvency practitioner concerned where the court—
 
@@ -76,7 +78,7 @@ Debt Settlement Arrangement: Referral of application to court for issue of prote
 
 (c) of the right of the creditor under section 63 to appeal the issue of the protective certificate.
 
-(13) Notwithstanding the provisions of subsections (5), (6) and (7), a protective certificate that is in force on the date on which a proposal for a Debt Settlement Arrangement is approved in accordance with section 73 shall continue in force until it ceases to have effect in accordance with section 76.
+(13) Notwithstanding the provisions of subsections (5), (6), (7) and (7A), a protective certificate that is in force on the date on which a proposal for a Debt Settlement Arrangement is approved in accordance with section 73 shall continue in force until it ceases to have effect in accordance with section 76.
 
 (14) A protective certificate issued under this section shall—
 
