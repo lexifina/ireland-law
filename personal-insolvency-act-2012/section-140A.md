@@ -1,0 +1,3 @@
+Confirmation of truth.
+
+140A.— …
