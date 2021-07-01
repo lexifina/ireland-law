@@ -6,4 +6,6 @@ CERTIFICATE OF COMPLIANCE ON COMPLETION
 
 ANNEX
 
-Table of Plans, Calculations, Specifications, Ancillary Certificates and Particulars used for the purpose of construction and demonstrating compliance with the requirements of the Second Schedule to the Building Regulations and showing, in particular how the completed building or works differ from the design submitted to the Building Control Authority prior to construction. (Details of relevant plans, etc. may be listed below and attached hereto)
+Table of Plans, Calculations, Specifications, Ancillary Certificates and Particulars used for the purpose of construction and demonstrating compliance with the requirements of the Second Schedule to the Building Regulations and showing, in particular how the completed building or works differ from the design submitted to the Building Control Authority prior to construction. (Details of relevant plans, etc. may be listed below and attached hereto) S.I. No. 496 of 1997
+
+BUILDING CONTROL REGULATIONS 1997
