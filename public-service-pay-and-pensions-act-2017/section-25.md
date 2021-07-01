@@ -32,7 +32,9 @@ Up to €39,000 Exempt
 
 Any amount over €39,000 but not over 12 per cent €60,000
 
-Any amount over €60,000 but not over 17 per cent €100,000 Any amount over €100,000 28 per cent
+Any amount over €60,000 but not over 17 per cent €100,000
+
+Any amount over €100,000 28 per cent
 
 TABLE E
 
