@@ -6,7 +6,11 @@ Building control regulations.
 
 (a) requiring—
 
-(i) the submission to building control authorities of certificates (in this Act referred to as “certificates of compliance”) being certificates relating to compliance with the building regulations (subject to any relevant dispensation or relaxation already granted under section 4 or 5 or to any appeal under section 7 which has been allowed) prior to the commencement of, during, and after the completion of, the construction of any buildings, classes of buildings, works or classes of works, to which such building regulations apply,
+(i) the submission to building control authorities of certificates (in this Act referred to as “certificates of compliance”) being certificates relating to compliance with the building regulations (subject to any relevant dispensation or relaxation already granted under section 4 or 5 or to any appeal under
+
+## section 7
+
+which has been allowed) prior to the commencement of, during, and after the completion of, the construction of any buildings, classes of buildings, works or classes of works, to which such building regulations apply,
 
 (ii) in respect of a building, or buildings, of a prescribed class or classes, the submission to a building control authority of an application for a certificate (in this Act referred to as a “fire safety certificate”) that a building, if constructed in accordance with the plans, documents and information submitted, would, in the opinion of the building control authority, comply (subject to any relevant dispensation or relaxation already granted under section 4 or 5 or to any appeal under section 7 which has been allowed) with such provisions of building regulations as may be prescribed, ...
 
@@ -80,7 +84,7 @@ Building control regulations.
 
 (k) requiring the giving of notice to building control authorities of the erection of such buildings, or classes of buildings, or the carrying out of such works, or classes of works, as may be specified in the regulations;
 
-(2A) References in subsection (2)(a)(iv)to (xi) to a material alteration of a building include references to a material change of use of a building and, for the purposes of those provisions as they apply in relation to such a material change of use, references in those provisions to—
+(2A) References in subsection (2)(a)(iv) to (xi) to a material alteration of a building include references to a material change of use of a building and, for the purposes of those provisions as they apply in relation to such a material change of use, references in those provisions to—
 
 (a) work,
 

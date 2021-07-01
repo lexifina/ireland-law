@@ -1,4 +1,4 @@
-F15[Fees in respect of an appeal.
+F15[ Fees in respect of an appeal.
 
 7A.— (1) Subject to the approval of the Minister, An Bord Pleanála (hereafter in this section referred to as ‘the Board’) may determine that fees shall be payable in relation to appeals under section 7 and, subject to subsection (2), such a fee so determined shall be paid to the Board by the person making the appeal under section 7 at such time as the Board specifies.
 
