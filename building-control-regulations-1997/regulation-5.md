@@ -150,6 +150,8 @@ Interpretation.
 
 “works” includes any act or operation in connection with the construction, extension, alteration, repair or renewal of a building;
 
+“writing” has the meaning given to it by Part 1 of the Schedule to the Interpretation Act 2005;
+
 “7 day notice” means a notice referred to in section 6(2)(a)(iv) of the Act;
 
 “7 day notice statutory declaration” means a statutory declaration referred to in section 6(2)(a)(v) of the Act.
