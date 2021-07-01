@@ -24,17 +24,13 @@ Application for Fire Safety Certificate or a revised Fire Safety Certificate in 
 
 (ii) relevant floor area as the case may be, whichever is the greater.
 
-Submission of a 7 Day Notice in respect of (a) work in connection with the construction or €250, or €5.80 for each square metre of floor area extension of a building being provided, whichever is the greater. (b) work in connection with— (i) the material alteration of the interior of a €250, or €5.80 for each square metre of relevant building floor area, whichever is the greater. (ii) the material alteration of the external surfaces €250 of a building (iii) a combination of (i) and (ii) above €250, or €5.80 for each square metre of relevant floor area, whichever is the greater.
-
-(c) a building in which a material change of use €250, or €5.80 for each square metre of relevant takes place floor area, whichever is the greater. (d) works or a building, where the building €130, or €1.60 for each square metre in excess of concerned will be used as an agricultural building 300 square metres of—
+Submission of a 7 Day Notice in respect of (a) work in connection with the construction or €250, or €5.80 for each square metre of floor area extension of a building being provided, whichever is the greater. (b) work in connection with— (i) the material alteration of the interior of a €250, or €5.80 for each square metre of relevant building floor area, whichever is the greater. (ii) the material alteration of the external surfaces €250 of a building (iii) a combination of (i) and (ii) above €250, or €5.80 for each square metre of relevant floor area, whichever is the greater. (c) a building in which a material change of use €250, or €5.80 for each square metre of relevant takes place floor area, whichever is the greater. (d) works or a building, where the building €130, or €1.60 for each square metre in excess of concerned will be used as an agricultural building 300 square metres of—
 
 (i) gross floor area being provided, or
 
 (ii) relevant floor area as the case may be, whichever is the greater.
 
-Application for a Regularisation Certificate in respect of (a)work in connection with the construction or €500, or €11.60 for each square metre of floor area extension of a building being provided, whichever is the greater. (b) work in connection with— (i) the material alteration of the interior of a €500, or €11.60 for each square metre of relevant building floor area, whichever is the greater. (ii) the material alteration of the external surfaces €500 of a building (iii) a combination of (i) and (ii) above €500, or €11.60 for each square metre of relevant floor area, whichever is the greater. (c) a building in which a material change of use €500, or €11.60 for each square metre of relevant takes place floor area, whichever is the greater.
-
-(d) works or a building, where the building €260, or €3.20 for each square metre in excess of concerned will be used as an agricultural building 300 square metres of—
+Application for a Regularisation Certificate in respect of (a)work in connection with the construction or €500, or €11.60 for each square metre of floor area extension of a building being provided, whichever is the greater. (b) work in connection with— (i) the material alteration of the interior of a €500, or €11.60 for each square metre of relevant building floor area, whichever is the greater. (ii) the material alteration of the external surfaces €500 of a building (iii) a combination of (i) and (ii) above €500, or €11.60 for each square metre of relevant floor area, whichever is the greater. (c) a building in which a material change of use €500, or €11.60 for each square metre of relevant takes place floor area, whichever is the greater. (d) works or a building, where the building €260, or €3.20 for each square metre in excess of concerned will be used as an agricultural building 300 square metres of—
 
 (i) gross floor area being provided, or
 
