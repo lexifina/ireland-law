@@ -52,7 +52,7 @@ General rules.
 
 (ii) that service is actually provided by the supplier from his or her place of business or a fixed establishment situated in that place, the place where the pleasure boat is actually put at the disposal of the customer;
 
-(kc) subject to paragraph (kd), if the supply of services consists of the provision of—
+(kc) subject to section 35A if the supply of services consists of the provision of—
 
 (i) telecommunications services,
 
@@ -62,13 +62,7 @@ General rules.
 
 (other than the provision of those services to which paragraph (c) relates) to a non-taxable person, the place where that person is established, has a permanent address or usually resides;
 
-(kd) if the supply of services consists of the provision of services specified in paragraph (kc) and—
-
-(i) the supplier of the services is established or, in the absence of an establishment, has a permanent address or usually resides in only one Member State,
-
-(ii) the services are supplied to a non-taxable person who is established, has a permanent address or usually resides in a Member State other than the Member State referred to in subparagraph (i), and
-
-(iii) the total value (exclusive of value-added tax) of the services provided does not, in the current calendar year, and did not, in the preceding calendar year, exceed €10,000, paragraph (b) shall apply unless the supplier opts for the place of supply to be determined in accordance with paragraph (kc) (which option the supplier is empowered by this paragraph to exercise), and such option, if exercised, shall apply for a period of not less than 2 calendar years from the date the option is exercised;
+(kd) ...
 
 (l) ...
 
