@@ -54,6 +54,12 @@ Penalty for deliberately or carelessly making incorrect returns, etc.
 
 (b) the penalty which would otherwise arise under this section only relates to tax for which that person is jointly and severally liable by virtue of that section.
 
+(1C) This section shall not apply to a person, being an intermediary (within the meaning of section 91I), where—
+
+(a) that person is jointly and severally liable by virtue of section 91J(10), and
+
+(b) the penalty which would otherwise arise under this section only relates to tax for which that person is jointly and severally liable by virtue of section 91J(10).
+
 (2) Where a person furnishes a return or makes a claim or declaration for the purposes of this Act or of regulations and, in so doing, the person deliberately—
 
 (a) furnishes an incorrect return, or
