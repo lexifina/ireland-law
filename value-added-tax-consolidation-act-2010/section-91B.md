@@ -8,7 +8,7 @@ Non-Union scheme (where the State is Member State of identification).
 
 (b) A taxable person may not be registered in the State for the purposes of the non-Union scheme if he or she—
 
-(i) is already identified in another Member State for the purposes of the non- Union scheme or the Union scheme, or
+(i) is already identified in another Member State for the purposes of the non- Union scheme ..., or
 
 (ii) is excluded from applying the non-Union scheme by Article 363 of the VAT Directive or Article 58 of the Implementing Regulation.
 
@@ -54,13 +54,13 @@ Non-Union scheme (where the State is Member State of identification).
 
 (c) the identified person notifies the Commissioners under subsection (5)(b) or (c).
 
-(7)(a) Subject to paragraph (b), an identified person shall within 20 days immediately following the end of each calendar quarter—
+(7)(a) Subject to paragraph (b), an identified person shall by the end of the month immediately following the end of each calendar quarter—
 
 (i) furnish to the Revenue Commissioners a VAT return, by electronic means using such form as is made available by the Commissioners for the purposes of the non-Union scheme and prepared in accordance with, and containing such particulars as are specified in, subsection (8), in respect of supplies of scheme services made in the Community in that quarter, and
 
 (ii) remit to the Revenue Commissioners, at the same time as furnishing such VAT return, into a bank account designated by them and denominated in euro, the amount of EU value-added tax, if any, payable by that person in respect of that quarter in relation to—
 
-(I) supplies of scheme services made in the State in accordance with section 34(kc), and
+(I) supplies of scheme services made in the State in accordance with Chapters 3 and 4 of Part 4, and
 
 (II) supplies of scheme services made in other Member States in accordance with the provisions implementing Article 58 of the VAT Directive.
 
@@ -84,7 +84,17 @@ Non-Union scheme (where the State is Member State of identification).
 
 (10) An identified person shall not make any deduction of tax in the VAT return, or make any adjustment to the amounts therein, in relation to any value-added tax incurred by him or her in the Community.
 
-(11) Without prejudice to the provisions of section 99, corrections to a VAT return may be made by the identified person by electronic means within 3 years from the date the return concerned was due to be submitted.
+(10A) Notwithstanding subsection (10), where an identified person is required to be registered in the State under section 65 in respect of activities other than those undertaken under the non-Union scheme, any deduction made in accordance with section 59 shall include the tax charged in respect of all taxable activities covered by this scheme.
+
+(11) (a) Without prejudice to the provisions of section 99, where corrections to a VAT return (‘the initial return’) are required after it has been submitted, the corrections shall be included in a subsequent VAT return submitted by electronic means within 3 years from the date on which the initial return was required to be submitted in accordance with subsection (7).
+
+(b) The correction to the VAT return referred to in paragraph (a) shall contain—
+
+(i) the Member State of consumption to which the scheme services are supplied,
+
+(ii) the calendar quarter to which the correction relates, and
+
+(iii) the amount of value-added tax for which any corrections are required.
 
 (12) Where, on the 10th day following the due date for submission of the VAT return in accordance with subsection (7)(a), the return has not been submitted, the Revenue Commissioners shall issue a reminder by electronic means to the identified person.
 

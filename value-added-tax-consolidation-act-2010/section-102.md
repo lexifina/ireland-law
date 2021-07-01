@@ -14,6 +14,8 @@ Refunds to taxable persons established outside the Community.
 
 (b) supplies no goods or services in the State other than—
 
-(i) services for which, in accordance with section 10, 12, 16(3)(b) or 17(1), the person to whom they are supplied is solely liable for the tax that is chargeable, or
+(i) services for which, in accordance with section 10, 12, 16(3)(b) or 17(1), the person to whom they are supplied is solely liable for the tax that is chargeable,
 
-(ii) services, the supply of which is taxable in accordance with section 34(kc), to which the non-Union scheme (within the meaning of section 91A) applies.
+(ii) services, the supply of which is taxable in accordance with section 34(kc), to which the non-Union scheme (within the meaning of section 91A) applies, or
+
+(iii) goods, the supply of which is taxable in accordance with section 30, to which the import scheme (within the meaning of section 91A) applies.

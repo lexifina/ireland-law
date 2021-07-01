@@ -1,23 +1,9 @@
 Goods supplied to non-registered persons.
 
-30.—(1)(a) Notwithstanding section 29(1)(a) or (b) or (2) but subject to paragraph (b) and subsection (2), for the purposes of this Act, the place where goods are supplied shall be deemed to be, in the case of goods dispatched or transported by or on behalf of the supplier—
+30. Notwithstanding section 29(1)(a) or (2), for the purposes of this Act, the place where goods are supplied shall be deemed to be—
 
-(i) (I) from the territory of another Member State, or
+(a) subject to section 35A, in the case of an intra-Community distance sale of goods, the place where the goods are located when the dispatch or transport of the goods to the customer ends,
 
-(II) from outside the Community through the territory of another Member State into which those goods have been imported, to a person who is not an accountable person in the State, or
+(b) in the case of distance sales of goods imported from third territories or third countries into a Member State other than that in which the dispatch or transport of the goods to the customer ends, the place where the goods are located when the dispatch or transport of the goods to the customer ends;
 
-(ii) from the State to a person in another Member State who is not registered for value-added tax, the place where the goods are when the dispatch or transportation ends.
-
-(b) Paragraph (a) shall not apply to new means of transport.
-
-(2)(a) Subject to paragraph (b), subsection (1)(a) shall not apply to the supply of goods (other than goods subject to a duty of excise) where the total consideration for that supply does not exceed or is not likely to exceed—
-
-(i) in the case of goods to which subsection (1)(a)(i) relates, €35,000 in a calendar year, unless the supplier, in accordance with regulations, elects that subsection (1)(a) shall apply, and
-
-(ii) in the case of goods to which subsection (1)(a)(ii) relates, the amount specified in the Member State in question in accordance with Article 34 of the VAT Directive unless the supplier—
-
-(I) elects that subsection (1)(a) shall apply, and
-
-(II) registers and accounts for value-added tax in that Member State in respect of that supply.
-
-(b) Paragraph (a) shall not apply to new means of transport.
+(c) in the case of distance sales of goods imported from third territories or third countries into the Member State in which the dispatch or transport of the goods to the customer ends, that Member State, provided that the value-added tax on those goods is declared under the provisions implementing Section 4 of Chapter 6 of Title XII of the VAT Directive in that Member State.

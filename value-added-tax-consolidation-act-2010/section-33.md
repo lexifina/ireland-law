@@ -20,7 +20,7 @@ Application and interpretation of section 34.
 
 (4A) In paragraphs (ka) and (kb) of section 34 ‘long-term’ means the continuous possession or use of a means of transport throughout a period of more than 30 days or, if the means of transport is a vessel, more than 90 days.
 
-(4B) Where, during a calendar year, the threshold referred to in paragraph (kd)(iii) of section 34 is exceeded, paragraph (kc) shall apply from the date on which that threshold is exceeded.
+(4B) ...
 
 (5) The following services are specified for the purpose of section 34(m):
 

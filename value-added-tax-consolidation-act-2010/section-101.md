@@ -118,8 +118,10 @@ Intra-Community refunds of tax.
 
 (a) goods or services in respect of which the place of supply is the Member State of refund, other than—
 
-(i) goods or services for which the person who receives them is liable, or
+(i) goods or services for which the person who receives them is liable, ...
 
 (ii) services, the supply of which is taxable in accordance with section 34(kc), to which the Union scheme (within the meaning of section 91A) applies, or
+
+(iii) goods, the supply of which is taxable in accordance with section 30, to which the import scheme (within the meaning of section 91A) applies, or
 
 (b) a transport service, or a service ancillary to such a service, that is exempted in the Member State of supply in accordance with Article 144, 146, 148, 149, 151, 153, 159 or 160 of the VAT Directive.

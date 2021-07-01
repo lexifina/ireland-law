@@ -12,7 +12,9 @@ Tax due on supplies.
 
 (i) supplied to a person other than a person to whom an invoice is required to be issued under Chapter 2, and
 
-(ii) for which there is a statement of account (being a balancing statement or demand for payment which issues at least once every 3 months), at the time of issue of the statement of account in respect of those supplies, and
+(ii) for which there is a statement of account (being a balancing statement or demand for payment which issues at least once every 3 months), at the time of issue of the statement of account in respect of those supplies, ...
+
+(ca) in the case of a supply of goods in accordance with section 91G, at the time payment for the goods has been accepted, and
 
 (d) in any other case, at the time the goods or services are supplied.
 

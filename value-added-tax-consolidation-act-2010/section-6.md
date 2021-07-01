@@ -24,7 +24,7 @@ Persons not accountable persons unless they so elect.
 
 (II) supplies of other goods and services the total consideration for which is such that such person would not, because of paragraph (c) or (d), be an accountable person if such supplies were the only supplies made by him or her;
 
-(c)(i) subject to subparagraph (ii), a person for whose supply of taxable goods (other than supplies of the kind specified in section 30(1)(a)(i)) and services, the total consideration has not exceeded and is not likely to exceed the goods threshold in any continuous period of 12 months,
+(c)(i) subject to subparagraph (ii), a person for whose supply of taxable goods (other than supplies of the kind specified in section 30(a) and (b) and services, the total consideration has not exceeded and is not likely to exceed the goods threshold in any continuous period of 12 months,
 
 (ii) subparagraph (i) shall apply only if at least 90 per cent of the total consideration referred to therein is derived from the supply of taxable goods (other than goods chargeable at any of the rates specified in section 46(1)(a) and (c) which were produced or manufactured by the person referred to in subparagraph (i) wholly or mainly from materials chargeable at the rate specified in section 46(1)(b));
 

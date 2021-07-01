@@ -1,6 +1,6 @@
 Returns and remittances.
 
-76.—(1) Subject to subsection (2) and sections 91C(3) and 91E(3), an accountable person shall, within 9 days immediately after the 10th day of the month immediately following a taxable period—
+76.—(1) Subject to subsection (2) and sections 91C(3), 91E(3) and 91K(3), an accountable person shall, within 9 days immediately after the 10th day of the month immediately following a taxable period—
 
 (a) furnish to the Collector-General a true and correct return, prepared in accordance with regulations, of—
 

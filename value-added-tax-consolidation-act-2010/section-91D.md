@@ -1,12 +1,10 @@
 Union scheme (where the State is Member State of identification).
 
-91D.—(1)(a) A taxable person may opt to apply the Union scheme to his or her qualifying supplies of scheme services within the Community, provided that the taxable person—
+91D.—(1) (a) A taxable person may opt to apply the Union scheme to his or her qualifying supplies of scheme services, intra-Community distance sales of goods and qualifying domestic supplies of goods, provided that the taxable person—
 
-(i) makes or intends to make qualifying supplies of scheme services in the course or furtherance of business,
+(i) makes or intends to make qualifying supplies of scheme services, intra- Community distance sales of goods and qualifying domestic supplies of goods in the course or furtherance of business,
 
-4 OJ No. L326, 21.11.1986, p.40
-
-(ii) has established his or her business in the State or, if he or she has not established his or her business in the Community, the taxable person has a fixed establishment in the State, and
+(ii) has established his or her business in the State or, if he or she has not established his or her business in the Community, the taxable person has a fixed establishment in the State, or if he or she has not established his or her business in the Community and does not have a fixed establishment in the State, the taxable person supplies goods from the State and has indicated that he or she wishes to identify in the State for the purposes of the Scheme, and
 
 (iii) has been assigned a registration number under section 65(2).
 
@@ -18,7 +16,7 @@ Union scheme (where the State is Member State of identification).
 
 (c) A taxable person may not be registered in the State for the purposes of the Union scheme if he or she—
 
-(i) is already identified in another Member State for the purposes of the non- Union scheme or the Union scheme, or
+(i) is already identified in another Member State for the purposes of ... the Union scheme, or
 
 (ii) is excluded from applying the Union scheme by any provision of the Implementing Regulation.
 
@@ -32,7 +30,7 @@ Union scheme (where the State is Member State of identification).
 
 (c) the registration number assigned to the person under section 65(2);
 
-(d) the date when his or her supplies of qualifying scheme services shall commence or have commenced;
+(d) the date of commencement of supplies made under the Union scheme;
 
 (e) the date from which the person wishes to be identified in the State;
 
@@ -50,6 +48,10 @@ Union scheme (where the State is Member State of identification).
 
 (b) For the purposes of this section, a person who has been registered under paragraph (a) shall be referred to as an ‘identified person’.
 
+(c) Where the taxable person has not established his or her business in the Community and has more than one fixed establishment in the Community including a fixed establishment in the State, and has chosen the State as Member State of identification for the purposes of the Union scheme, he or she shall be bound by that decision for the remainder of the calendar year of registration plus an additional 2 calendar years.
+
+(d) Where the taxable person has not established his or her business in the Community and has no fixed establishment therein, and there is more than one Member State in which the dispatch or transport of the goods begins, including the State, and the taxable person has chosen the State as Member State of identification for the purposes of the Union scheme, he or she shall be bound by that decision for the remainder of the calendar year of registration plus an additional 2 calendar years.
+
 (5) An identified person shall notify the Revenue Commissioners by electronic means of the following:
 
 (a) any changes in the details provided under subsection (3);
@@ -66,33 +68,99 @@ Union scheme (where the State is Member State of identification).
 
 (c) the identified person notifies the Commissioners under subsection (5)(b) or (c).
 
-(7)(a) Subject to paragraph (b), an identified person shall, within 20 days immediately following the end of each calendar quarter—
+(7) (a) Subject to paragraph (b), an identified person shall, by the end of the month immediately following the end of each calendar quarter—
 
-(i) furnish to the Revenue Commissioners a VAT return, by electronic means using such form as is made available by the Commissioners for the purposes of the Union scheme and prepared in accordance with, and containing such particulars as are specified in, subsection (8), in respect of qualifying supplies of scheme services made in the Community in that quarter, and
+(i) furnish to the Revenue Commissioners a VAT return, by electronic means using such form as is made available by the Commissioners for the purposes of the Union scheme and prepared in accordance with, and containing such particulars as are specified in, subsection (8), in respect of—
 
-(ii) remit to the Revenue Commissioners, at the same time as furnishing such VAT return, into a bank account designated by them and denominated in euro, the amount of EU value-added tax, if any, payable by that person in respect of that quarter in relation to qualifying supplies of scheme services.
+(I) qualifying supplies of scheme services,
 
-(b) Where an identified person has not made any such qualifying supplies of scheme services during a calendar quarter, he or she shall furnish a nil VAT return in respect of that quarter.
+(II) qualifying domestic supplies of goods, and
 
-(8) The VAT return referred to in subsection (7) shall be made in euro and shall contain—
+(III) intra-Community distance sales of goods, made in the Community in that quarter, and
 
-(a) the person’s identification number,
+(ii) remit to the Revenue Commissioners, at the same time as furnishing such VAT return, into a bank account designated by them and denominated in euro, the amount of EU value-added tax, if any, payable by that person in respect of that quarter in relation to—
 
-(b) for each Member State where EU value-added tax has become due in respect of qualifying scheme services—
+(I) qualifying supplies of scheme services,
 
-(i) the total value, exclusive of EU value-added tax, of supplies of scheme services made during the calendar quarter,
+(II) qualifying domestic supplies of goods, and
 
-(ii) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+(III) intra-Community distance sales of goods.
 
-(iii) the amount of EU value-added tax corresponding to such value at the applicable rate or rates, and
+(b) Where an identified person has not made any such—
 
-(c) the total EU value-added tax due, if any.
+(i) qualifying supplies of scheme services,
+
+(ii) qualifying domestic supplies of goods, or
+
+(iii) intra-Community distance sales of goods, during a calendar quarter, he or she shall furnish a nil VAT return in respect of that quarter.
+
+(8) (a) The VAT return referred to in subsection (7) shall be made in euro and shall contain—
+
+(i) the person’s identification number,
+
+(ii) for each Member State where EU value-added tax has become due in respect of qualifying supplies of scheme services, qualifying domestic supplies of goods or intra-Community distance sales of goods—
+
+(I) the total value, exclusive of EU value-added tax, of qualifying supplies of scheme services, qualifying domestic supplies of goods, or intra- Community distance sales of goods made during the calendar quarter,
+
+(II) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(III) the amount of EU value-added tax corresponding to such value at the applicable rate or rates, and (iii) the total EU value-added tax due, if any.
+
+(b) Where a taxable person makes intra-Community distance sales of goods, other than those to which section 91G(1)(b) applies, and those goods are dispatched or transported from a Member State other than the State, the VAT return referred to in subsection (7) shall also contain—
+
+(i) the person’s identification number allocated by the Member State from which the goods are dispatched or transported,
+
+(ii) for each Member State where EU value-added tax has become due in respect of intra-Community distance sales of goods other than those to which section 91G(1)(b) applies, and those goods are dispatched or transported from a Member State other than the State, and for each Member State from which the goods are dispatched or transported—
+
+(I) the total value, exclusive of EU value-added tax, of supplies of intra- Community distance sales of goods other than those to which section 91G(1)(b) applies, and those goods are dispatched or transported from a Member State other than the State, made during the calendar quarter,
+
+(II) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(III) the amount of EU value-added tax corresponding to such value at the applicable rate or rates, and
+
+(iii) the total EU value-added tax due in each Member State from which the goods are dispatched or transported, if any.
+
+(c) Where a taxable person makes intra-Community distance sales of goods to which section 91G(1)(b) applies and the goods are dispatched or transported from a Member State other than the State, or makes qualifying domestic supplies of goods to which section 91G(1)(b) applies and the dispatch or transport of those goods begins and ends in the same Member State, the VAT return referred to in subsection (7) shall also contain—
+
+(i) the person’s identification number allocated by the Member State from which the goods are dispatched or transported, if available,
+
+(ii) for each Member State where EU value-added tax has become due in respect of intra-Community distance sales of goods and qualifying domestic supplies of goods—
+
+(I) the total value, exclusive of EU value-added tax, of supplies of intra- Community distance sales of goods and qualifying domestic supplies of goods, made during the calendar quarter,
+
+(II) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(III) the amount of EU value-added tax corresponding to such value at the applicable rate or rates, and
+
+(iii) the total EU value-added tax due in each Member State from which the goods are dispatched or transported from, if any.
+
+(d) Where a person supplying scheme services has one or more fixed establishments in the Community from which scheme services are provided, other than that in the Member State of identification, the VAT return referred to in subsection (7) shall also contain—
+
+(i) the person’s identification number allocated by the Member State from which scheme services are provided, and,
+
+(ii) for each Member State from which scheme services are provided, and for each Member State to which the scheme services are supplied—
+
+(I) the total value, exclusive of EU value-added tax, of supplies of scheme services, made during the calendar quarter,
+
+(II) the amount of such value liable to EU value-added tax at the applicable rate or rates, and
+
+(III) the amount of EU value-added tax corresponding to such value at the applicable rate or rates, and
+
+(iii) the total EU value-added tax due, if any.
 
 (9) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro on the VAT return shall be that published by the European Central Bank for the last day of the calendar quarter to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
 
 (10) An identified person shall not make any deduction of tax in the VAT return, or make any adjustment to the amounts therein, in relation to value-added tax deductible pursuant to Article 168 of the VAT Directive.
 
-(11) Without prejudice to the provisions of section 99, corrections to a VAT return may be made by the identified person by electronic means within 3 years from the date the return concerned was due to be submitted.
+(11) (a) Without prejudice to the provisions of section 99, where corrections to a VAT return (‘the initial return’) are required after it has been submitted, the corrections shall be included in a subsequent VAT return within 3 years from the date on which the initial return was required to be submitted in accordance with subsection (7).
+
+(b) The correction to the VAT return referred to in paragraph (a) shall contain—
+
+(i) the Member State of consumption of the goods or services,
+
+(ii) the calendar quarter to which the correction is made, and
+
+(iii) the amount of value-added tax for which a correction is required.
 
 (12) Where, on the 10th day following the due date for submission of the VAT return in accordance with subsection (7)(a), the return has not been submitted, the Revenue Commissioners shall issue a reminder by electronic means to the identified person.
 

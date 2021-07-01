@@ -20,21 +20,31 @@ Section 88(8)
 
 Section 91
 
+...
+
+...
+
+...
+
+...
+
+...
+
+Part 2
+
+Section 35A
+
+Section 59
+
 Section 91A
-
-Section 91B
-
-Section 91C
 
 Section 91D
 
 Section 91E
 
-Part 2
+Section 101
 
-Section 59
-
-Section 101 Section 102(3)
+Section 102(3)
 
 Paragraph 5(1A) of Schedule 2
 

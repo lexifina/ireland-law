@@ -16,7 +16,7 @@ Issue of invoices and other documents.
 
 (V) a person in another Member State who is liable to pay value-added tax pursuant to the VAT Directive on such supply, or
 
-(ii) who supplies goods to a person in another Member State in the circumstances referred to in section 30(1)(a)(ii), shall issue to the person so supplied, in respect of each such supply, an invoice, in paper format or subject to subsection (2) in electronic format, and containing such particulars as may be specified by regulations.
+(ii) who supplies goods to a person the supply of which goods is deemed, by virtue of section 30, to have taken place in another Member State, except where the Union scheme within the meaning of section 91A is used, shall issue to the person so supplied, in respect of each such supply, an invoice, in paper format or subject to subsection (2) in electronic format, and containing such particulars as may be specified by regulations.
 
 (b) Notwithstanding paragraph (a), an accountable person who supplies goods or services to—
 

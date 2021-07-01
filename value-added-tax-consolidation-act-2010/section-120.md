@@ -6,7 +6,7 @@ Regulations.
 
 (3) As regards Part 3, regulations may provide for the treatment under section 27(1) of the use and services specified therein as services supplied by a person for consideration in the course of business.
 
-(4) As regards Part 4, regulations may provide for the circumstances in which a person may exercise an election referred to in section 30(2).
+(4) As regards Part 4, regulations may provide for the circumstances in which a person may exercise an election referred to in section 35A.
 
 (5) As regards Part 5, regulations may provide for—
 
@@ -158,7 +158,11 @@ Regulations.
 
 (h) the manner in which the electronic services scheme referred to in section 91 shall operate,
 
-(i) the manner in which the non-Union scheme or Union scheme (both within the meaning of section 91A) shall operate.
+(i) the manner in which the non-Union scheme or Union scheme (both within the meaning of section 91A) shall operate,
+
+(j) the manner in which the import scheme (within the meaning of section 91A) shall operate,
+
+(k) the manner in which the special arrangements for value-added tax on import (within the meaning of section 91H) shall operate.
 
 (11) As regards Part 11, regulations may provide for—
 
