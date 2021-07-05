@@ -34,7 +34,7 @@ Control of terms and conditions of public servants.
 
 (9) This section applies to a term or condition agreed after the commencement of section 12 of the Financial Emergency Measures in the Public Interest Act 2015.
 
-(10) This section has effect notwithstanding—
+(10) Subject to subsection (10A), this section has effect notwithstanding—
 
 (a) any other enactment,
 
@@ -43,6 +43,12 @@ Control of terms and conditions of public servants.
 (c) any other agreement or contractual arrangement, or
 
 (d) any understanding, expectation, circular or instrument or other document.
+
+(10A) Where a contract of employment is amended in accordance with section 4 (2) of the Financial Emergency Measures in the Public Interest (No. 2) Act 2009 —
+
+(a) by the amendment or substitution of an existing term or condition of the contract, or
+
+(b) by the insertion of a new term or condition in the contract, this section shall not apply to the term or condition as so amended, substituted or inserted, as the case may be.
 
 (11) In this section—
 

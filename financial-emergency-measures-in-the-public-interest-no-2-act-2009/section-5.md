@@ -1,12 +1,8 @@
-No power to pay remuneration above rate determined in accordance with section 2, etc.
+No power to pay remuneration above rate determined in accordance with section 2 , etc.
 
-5.— (1) Where a relevant provision is taken to have been amended by section 2 or 2A—
+5. (1)— ...
 
-(a) a public servant whose remuneration falls to be determined in accordance with the relevant provision is not entitled to receive remuneration of an amount greater than the amount so determined, and
-
-(b) no person or body responsible for paying the remuneration of such a public servant is entitled to pay remuneration to the public servant of an amount greater than the amount so determined.
-
-(2) If a public service body pays remuneration to a public servant at a rate higher than that provided for by the appropriate relevant provision, as taken to have been amended in accordance with section 2 or 2A, then—
+(2) If a public service body pays remuneration to a public servant , in respect of a period falling between 1 January 2010 and the date on which the Public Service Pay Act 2021 comes into operation, at a rate higher than that provided for by the appropriate relevant provision, as taken to have been amended in accordance with section 2 or 2A, then—
 
 (a) the public servant shall hold the overpayment in trust for the public service body, and
 
