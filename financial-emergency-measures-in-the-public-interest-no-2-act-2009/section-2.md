@@ -36,7 +36,7 @@ Reduction in public servants’ remuneration.
 
 (h) in the case of the Comptroller and Auditor General, a 21.15 per cent reduction of remuneration in lieu of a reduction of 15 per cent of remuneration.
 
-(3) Where the remuneration of a public servant, other than a person to whom Table 1 to this section relates, is fixed by a relevant provision and that remuneration includes a fixed periodic allowance which is not a reimbursement of any expense actually incurred, then the relevant provision that fixes each such allowance shall be taken to have been amended so that the allowance is, subject to subsection (7), reduced in accordance with Table 4 to this section.
+(3) ...
 
 (4) Subject to subsection (7), where a public servant is entitled as part of his or her remuneration to the payment of an allowance and the allowance—
 
