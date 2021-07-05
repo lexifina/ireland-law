@@ -34,7 +34,9 @@ Public servants’ remuneration: reduction, with effect from 1 July 2013, for ce
 
 (iv) any written agreement or contractual arrangement, or
 
-(b) any verbal agreement, arrangement or understanding or any expectation. Table
+(b) any verbal agreement, arrangement or understanding or any expectation.
+
+Table
 
 Reduction in Remuneration of Public Servants Earning More Than €65,000
 
@@ -42,8 +44,6 @@ Annualised amount of Remuneration Reduction
 
 Up to €80,000 5.5 per cent
 
-Any amount over €80,000 but not over €150,000 8 per cent
-
-Any amount over €150,000 but not over €185,000 9 per cent
+Any amount over €80,000 but not over €150,000 8 per cent Any amount over €150,000 but not over €185,000 9 per cent
 
 Any amount over €185,000 10 per cent
