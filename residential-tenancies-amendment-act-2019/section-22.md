@@ -18,7 +18,7 @@ Amendment of section 134 of Act of 2004
 
 (iii) the insertion of the following paragraph:
 
-“(aa) in the case of a tenancy to which subsection (1A) of section 3 applies that commences during the period of 3 months from the commencement of section 3of the Residential Tenancies (Amendment) Act 2019, not later than 4 months from the commencement of the tenancy, and”, and
+“(aa) in the case of a tenancy to which subsection (1A) of section 3 applies that commences during the period of 3 months from the commencement of section 3 of the Residential Tenancies (Amendment) Act 2019, not later than 4 months from the commencement of the tenancy, and”, and
 
 (iv) the insertion, in paragraph (b), of “and one to which subsection (1A) of section 3 applies that commences after the period of 3 months from the commencement of section 3 of the Residential Tenancies (Amendment) Act 2019” after “passing of this Act”,
 
