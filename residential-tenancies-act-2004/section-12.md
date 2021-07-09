@@ -52,7 +52,7 @@ Obligations of landlords.
 
 (ii) the date the rent was last set under a tenancy for the dwelling;
 
-(iii) a statement as to how the rent set under the tenancy of the dwelling has been calculated having regard to section 19(4).
+(iii) a statement as to how the rent set under the tenancy of the dwelling has been calculated having regard to section 19 ....
 
 (2) Subsection (1)(b) does not apply to any repairs that are necessary due to the failure of the tenant to comply with section 16(f).
 
