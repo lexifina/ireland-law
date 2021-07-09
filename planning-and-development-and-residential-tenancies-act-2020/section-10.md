@@ -56,7 +56,7 @@ Application of Part
 
 (ii) belonging to a category prescribed under subsection (8) of the said section 40,
 
-(b) his or her having, at any time during the period commencing on 1 August 2020 and ending on 12 July 2021, been a person—
+(b) his or her having, at any time during the period commencing on 1 August 2020 and ending on 12 January 2022, been a person—
 
 (i) to whom the said subsection (7) applied, or
 

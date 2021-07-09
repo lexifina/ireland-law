@@ -8,7 +8,7 @@ Interpretation (Part 3)
 
 “Act of 2005” means the Social Welfare Consolidation Act 2005;
 
-“emergency period” means the period from 11 January 2021 to 12 July 2021.
+“emergency period” means the period from 11 January 2021 to 12 January 2022.
 
 (2) In this Part—
 

@@ -20,7 +20,7 @@ Amendment of section 24A of Act of 2004
 
 (a) the city of Dublin, and
 
-(b) the counties of South Dublin, Fingal and Dún Laoghaire-Rath-down;
+(b) the counties of South Dublin, Fingal and Dún Laoghaire- Rathdown;
 
 ‘Greater Dublin Area’ means—
 
@@ -28,4 +28,4 @@ Amendment of section 24A of Act of 2004
 
 (b) the counties of Kildare, Wicklow and Meath;”.
 
-(2) Notwithstanding subsection (5) of section 24A of the Act of 2004 or any order made thereunder, the period specified in any such order to be the period during which an area shall stand prescribed as a rent pressure zone shall expire on 31 December 2021.
+(2) Notwithstanding subsection (5) of section 24A of the Act of 2004 or any order made thereunder, the period specified in any such order to be the period during which an area shall stand prescribed as a rent pressure zone shall expire on 31 December 2024.
