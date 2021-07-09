@@ -90,7 +90,7 @@ Application of Act.
 
 (a) paragraphs (k) and (n) of section 16, subsections (2) and (3) of section 78 and clause (II) of subparagraph (i) of paragraph (e) of subsection (4) of section 135;
 
-(b) sections 70, 71, 72, 73, 81, 185, 186 and 195;
+(b) sections 60, 70, 71, 72, 73, 81, 185, 186 and 195;
 
 (c) Part 4; and
 

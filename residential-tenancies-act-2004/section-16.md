@@ -6,9 +6,11 @@ Obligations of tenants.
 
 (a) pay to the landlord or his or her authorised agent (or any other person where required to do so by any enactment)—
 
-(i) the rent provided for under the tenancy concerned on the date it falls due for payment, and
+(i) the rent provided for under the tenancy agreement on the date it falls due for payment, ...
 
-(ii) where the lease or tenancy agreement provides that any charges or taxes are payable by the tenant, pay those charges or taxes in accordance with the lease or tenancy agreement (unless provision to that effect in the lease or tenancy agreement is unlawful or contravenes any other enactment),
+(ii) where the lease or tenancy agreement provides that any charges or taxes are payable by the tenant, pay those charges or taxes in accordance with the lease or tenancy agreement (unless provision to that effect in the lease or tenancy agreement is unlawful or contravenes any other enactment), and
+
+(iii) the deposit, if any, provided for under the tenancy agreement,
 
 (b) ensure that no act or omission by the tenant results in there not being complied with the obligations of the landlord, under any enactment, in relation to the dwelling or the tenancy (and in particular, the landlord’s obligations under regulations under section 18 of the Housing (Miscellaneous Provisions) Act 1992),
 

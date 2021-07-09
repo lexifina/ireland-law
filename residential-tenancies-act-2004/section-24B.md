@@ -10,4 +10,4 @@ Areas deemed to be rent pressure zones
 
 (d) Fingal County Council;
 
-(e) South Dublin County Council; and, accordingly, each of those areas is deemed to be a rent pressure zone during the period commencing on the relevant date and ending on 31 December 2021.
+(e) South Dublin County Council; and, accordingly, each of those areas is deemed to be a rent pressure zone during the period commencing on the relevant date and ending on 31 December 2024.

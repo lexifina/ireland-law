@@ -4,6 +4,8 @@ Particular matters that may be referred (non-exhaustive list).
 
 (a) the retention or refund of a deposit,
 
+(aa) any payment made to which section 19B applies.
+
 (b) the amount that ought to be initially set (in compliance with section 19 or, as the case may be, section 19A) as the amount of rent under a tenancy,
 
 (c) the time at which a review of rent referred to in Part 3 should take place or the amount of rent that should be determined on foot of that review,

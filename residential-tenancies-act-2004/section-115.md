@@ -8,7 +8,7 @@ Redress that may be granted on foot of determination.
 
 (a) a direction that a specified amount of rent or other charge shall be paid on, or on and from, or by a specified date,
 
-(b) a declaration as to whether or not an amount of rent set under a tenancy of a dwelling complies with subsection (1) or (4) of section 19 (and if the declaration is that that amount does not so comply, the declaration shall be accompanied by an indication by the adjudicator or the Tribunal as to what amount, in his or her or its opinion, would comply with either of those subsections,
+(b) a declaration as to whether or not an amount of rent set under a tenancy of a dwelling complies with ... section 19 (and if the declaration is that that amount does not so comply, the declaration shall be accompanied by an indication by the adjudicator or the Tribunal as to what amount, in his or her or its opinion, would comply with section 19,
 
 (c) a direction as to the return or payment, in whole or in part, of the amount of a deposit,
 

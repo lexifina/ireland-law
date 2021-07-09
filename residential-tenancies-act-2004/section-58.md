@@ -4,9 +4,11 @@ Termination of tenancies restricted to means provided by this Part.
 
 (2) Accordingly, the termination by the landlord or the tenant of—
 
-(a) more beneficial rights referred to in section 26 that the tenant enjoys under a tenancy than those created by Part 4, or
+(a) more beneficial rights referred to in section 26 that the tenant enjoys under a tenancy than those created by Part 4, ...
 
-(b) a tenancy to which section 25 applies, must be effected by means of a notice of termination that complies with this Part.
+(b) a tenancy to which section 25 applies, or
+
+(c) a tenancy of a dwelling referred to in subsection (1A) of section 3. must be effected by means of a notice of termination that complies with this Part.
 
 (3) Each of the following—
 

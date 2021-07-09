@@ -38,7 +38,9 @@ Period of notice where section 67 or 68 is inapplicable.
 
 (vi) an adjudicator or Tribunal shall not permit the landlord or tenant, as the case may be, to remedy the original notice under subparagraph (i) if satisfied that the original notice was served by the landlord or tenant, as the case may be, knowingly in contravention of this Act.
 
-(2B) Where this section applies, the period of notice to be given in respect of a tenancy referred to in subsection (1A) of section 3 by the landlord or tenant and specified in the notice of termination shall be not less than 28 days.
+(2B) Where this section applies, the period of notice to be given in respect of a tenancy referred to in subsection (1A) of section 3 by the landlord and specified in the notice of termination shall be not less than 28 days.
+
+(2C) Where this section applies, the period of notice to be given in respect of a tenancy referred to in subsection (1A) of section 3 by the tenant and specified in the notice of termination shall be 28 days or such longer period as the tenant chooses.
 
 (3) This section is subject to section 69.
 

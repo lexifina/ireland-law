@@ -32,9 +32,11 @@ Tenant to be notified of new rent.
 
 ...
 
-(e) include the date on which the notice is signed, and
+(e) include the date on which the notice is signed, ...
 
-(f) where the dwelling is in a rent pressure zone (within the meaning given in section 19(7)), state how the rent set under the tenancy was calculated having regard to section 19(4) or, where section 19(4) does not apply, state why it does not apply.
+(f) where the dwelling is in a rent pressure zone (within the meaning given in section 19(7)), state how the rent set under the tenancy was calculated having regard to section 19(4) or, where section 19(4) does not apply, state why it does not apply, and
+
+(g) where the dwelling is in a rent pressure zone (within the meaning given by section 19(7)) to which section 19(4A) applies, state how any increase in the rent last set under the tenancy of the dwelling was calculated or, where section 19(4A) does not apply, state why it does not apply.
 
 (2B) The notice referred to in subsection (2) shall be signed by the landlord or his or her authorised agent.
 
