@@ -168,6 +168,6 @@ Section 123. The substitution for “an exempted person” in paragraph (a) (ii)
 
 Second The insertion after paragraph 4 of the following: Schedule. The substitution for paragraph 5 of the following paragraphs:
 
-Refusal or fail- 5A. An offence under section 33 (3) of the Road Traffic ure to provide, Act, 1968, being a second or any subsequent offence or to permit within any period of 3 years: taking of, speci-provided that, where a person who has previously been men at Garda convicted of an offence under section 49 or 50 of this station (section Act or section 30 (3) of the Road Traffic Act, 1968, is 50). convicted of an offence under section 33 (3) of the Road Traffic Act, 1968, the first-mentioned conviction shall, for the purposes of this paragraph, be regarded as a conviction under section 33 (3) of the Road Traffic Act, 1968.”
+Refusal or 5A. An offence under section 33 (3) of the Road Traffic failure to Act, 1968, being a second or any subsequent offence provide, or to within any period of 3 years: permit taking provided that, where a person who has previously been of, specimen at convicted of an offence under section 49 or 50 of this Garda station Act or section 30 (3) of the Road Traffic Act, 1968, is (section 50). convicted of an offence under section 33 (3) of the Road Traffic Act, 1968, the first-mentioned conviction shall, for the purposes of this paragraph, be regarded as a conviction under section 33 (3) of the Road Traffic Act, 1968.”
 
 The insertion after paragraph 5 of the following:
