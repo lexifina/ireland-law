@@ -6,7 +6,9 @@ Cancellation of election.
 
 (A + B) — C where—
 
-A is the amount of tax repaid to the person referred to in paragraph (a) for the period for which the election has effect in respect of tax borne or paid in relation to the supply of goods or services, other than services of the kind referred to in paragraph 11 of Schedule 3, B is the tax deductible in accordance with Chapter 1 of Part 8 in respect of intra-Community acquisitions made by that person during that period, and
+A is the amount of tax repaid to the person referred to in paragraph (a) for the period for which the election has effect in respect of tax borne or paid in relation to the supply of goods or services, other than services of the kind referred to in paragraph 11 of Schedule 3,
+
+B is the tax deductible in accordance with Chapter 1 of Part 8 in respect of intra-Community acquisitions made by that person during that period, and
 
 C is the net total amount of tax (if any) paid by such person in accordance with Chapter 3 of Part 9 in relation to the supply of goods or services (other than services of the kind referred to in paragraph 11 of Schedule 3) by that person in that same period.
 

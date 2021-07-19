@@ -11,3 +11,7 @@ Use and enjoyment provisions.
 (5) Where, in the case of a supply of services that consists of the provision to a non-taxable person of financial services (including banking services and financial fund management services but not including the provision of safe deposit facilities) or insurance services (including reinsurance), the place of supply of the services would, apart from this subsection, be a place outside the Community but the services are in effect used and enjoyed in the State, the place of supply is nevertheless taken to be the State for the purposes of this Act.
 
 (6) Where money transfer services provided to a person in the State are in effect used and enjoyed in the State, the place of supply of intermediary services that are provided in respect of, or in relation to, those services to a principal established outside the Community, is taken to be the State for the purposes of this Act.
+
+## CHAPTER 4
+
+Place of supply for certain taxable persons making supplies of intra-Community distance sales of goods and supplies of telecommunication services, radio or television broadcasting services or electronically supplied services

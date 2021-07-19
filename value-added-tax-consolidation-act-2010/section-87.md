@@ -96,7 +96,9 @@ Margin scheme — taxable dealers.
 
 B A × B + 100 where—
 
-A is the aggregate margin for the taxable period in question, and B is the percentage rate of tax chargeable in relation to the supply of those goods, and
+A is the aggregate margin for the taxable period in question, and
+
+B is the percentage rate of tax chargeable in relation to the supply of those goods, and
 
 (ii) where the taxable dealer referred to in subparagraph (i) makes supplies in any taxable period which are subject to different rates of tax, that taxable dealer shall calculate separate aggregate margins for that taxable period in respect of the supplies at each of the relevant rates.
 

@@ -254,7 +254,9 @@ Non-residential immovable goods.
 
 (2) Services consisting of the development of immovable goods (not being goods referred to in paragraph 9(1)) and work on those goods (including the installation of fixtures), where the value of any movable goods supplied under an agreement relating to the services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
 
-(3) Services consisting of the routine cleaning of immovable goods (not being immovable goods referred to in paragraph 9(2)). Concrete works.
+(3) Services consisting of the routine cleaning of immovable goods (not being immovable goods referred to in paragraph 9(2)).
+
+Concrete works.
 
 16. (1) The supply of concrete that is ready to pour, but excluding the margin scheme supply of the concrete.
 

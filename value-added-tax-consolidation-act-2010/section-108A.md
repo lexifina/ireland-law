@@ -1,4 +1,4 @@
-## CHAPTER 1A Special measures for the protection of the tax
+## Special measures for the protection of the tax
 
 Notice of requirement to furnish certain information, etc.
 

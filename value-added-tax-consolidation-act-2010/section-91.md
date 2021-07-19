@@ -115,3 +115,7 @@ Electronic services scheme.
 (15) The Revenue Commissioners may make regulations as necessary for the purpose of giving effect to the electronic services scheme.
 
 (16) This section shall not apply to electronic services supplied on or after 1 January 2015.
+
+## CHAPTER 2
+
+Special schemes for taxable persons supplying services to non-taxable persons, making intra-Community distance sales of goods, making certain domestic supplies of goods or importing goods

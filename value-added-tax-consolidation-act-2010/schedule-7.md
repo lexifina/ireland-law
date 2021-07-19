@@ -10,7 +10,9 @@ In the Act specified in column (1) of the following table for the words set out 
 
 Act amended Words to be replaced Words to be substituted
 
-(1) (2) (3) Criminal Justice (Legal Aid) Act 1962: section 10(1)(d)(i) the Value-Added Tax Act, the Value-Added Tax Consolidation Act 1972, and the enactments 2010, and the enactments amending or amending or extending that extending that Act Act section 10(1)(d)(ii) the Value-Added Tax Act, the Value-Added Tax Consolidation Act 1972, and the enactments 2010, and the enactments amending or amending or extending that extending that Act Act
+(1) (2) (3)
+
+Criminal Justice (Legal Aid) Act 1962: section 10(1)(d)(i) the Value-Added Tax Act, the Value-Added Tax Consolidation Act 1972, and the enactments 2010, and the enactments amending or amending or extending that extending that Act Act section 10(1)(d)(ii) the Value-Added Tax Act, the Value-Added Tax Consolidation Act 1972, and the enactments 2010, and the enactments amending or amending or extending that extending that Act Act
 
 Companies Act 1990: section 205E(1), in the the Value-Added Tax Act the Value-Added Tax Consolidation Act definition of “tax law”, in 1972 and the enactments 2010, and the enactments amending or paragraph (e) amending or extending that extending that Act Act
 
@@ -144,9 +146,7 @@ Criminal Justice (Legal Aid) (Tax Clearance Certificate) Regulations 1999 (S.I. 
 
 Income Tax (Relevant Contracts) Regulations 2000 (S.I. No. 71 of 2000): regulation 2, in the definition under section 9 of the Value-under section 65 of the Value-Added of “VAT registered number” Added Tax Act 1972 (No. 22
 
-Tax Consolidation Act 2010 of 1972)
-
-Taxes (Electronic Transmission of Certain Revenue Returns) (Specified Provisions and Appointed Day) Order 2000 (S.I. No. 289 of 2000): Schedule Section 19(3)(a) (as amended Section 76(1) of the Value-Added Tax by the Finance Act, 1983
+Tax Consolidation Act 2010 of 1972) Taxes (Electronic Transmission of Certain Revenue Returns) (Specified Provisions and Appointed Day) Order 2000 (S.I. No. 289 of 2000): Schedule Section 19(3)(a) (as amended Section 76(1) of the Value-Added Tax by the Finance Act, 1983
 
 Consolidation Act 2010
 
