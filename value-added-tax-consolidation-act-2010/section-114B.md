@@ -36,35 +36,13 @@ Covid-19: special warehousing and interest provisions.
 
 (ii) 1 January 2020, and
 
-(b) ending on the last day of the taxable period next following the taxable period in which the recommencement date falls; ‘Period 2’, in relation to an accountable person, means the period—
+(b) ending on 31 December 2021;
 
-(a) beginning on the day next following the last day of Period 1, and
+‘Period 2’, in relation to an accountable person, means the period beginning on 1 January 2022 and ending on 31 December 2022;
 
-(b) ending on—
+‘Period 3’, in relation to an accountable person, means the period beginning on 1 January 2023 and ending on the day on which the accountable person has discharged the Covid-19 liabilities in full.
 
-(i) the day that is the earlier of—
-
-(I) the day that is 12 months from the day first-mentioned in paragraph (a), and
-
-(II) 31 December 2022, or
-
-(ii) where the Minister makes an order for the purposes of this subparagraph, the day that is the earlier of—
-
-(I) the day specified in the order, and
-
-(II) 31 December 2022;
-
-‘Period 3’, in relation to an accountable person, means the period—
-
-(a) beginning on the day next following the last day of Period 2, and
-
-(b) ending on the day on which the accountable person has discharged the Covid- 19 liabilities in full;
-
-‘recommencement date’, in relation to an accountable person, means the later of—
-
-(a) the day on which the accountable person’s business ceased to be subject to restrictions provided for in regulations made under sections 5 and 31A of the Health Act 1947, and
-
-(b) where it is demonstrated to the satisfaction of the Revenue Commissioners that the business did not recommence on the day referred to in paragraph (a), the day on which the business recommenced after it ceased to be subject to the restrictions referred to in that paragraph.
+...
 
 (2) For the purposes of this section, the business of an accountable person shall be treated as being adversely affected by Covid-19 on the date on which the Revenue Commissioners agreed to temporarily suspend the collection of the liabilities of the accountable person in respect of value-added tax as a consequence of the effect on the accountable person’s business of Covid-19.
 
@@ -132,8 +110,4 @@ Covid-19: special warehousing and interest provisions.
 
 (ii) in the month immediately following Period 1, the value-added tax due and payable for that accounting period by the accountable person under this Act and any regulations under this Act shall be treated as Covid-19 liabilities.
 
-(15) (a) The Minister may, in order to mitigate the adverse economic consequences resulting, or likely to result, from the spread of Covid-19, by order specify a day for the purpose of subparagraph (ii) of paragraph (b) of the definition of ‘Period 2’ in subsection (1).
-
-(b) The Minister shall not specify in an order under paragraph (a) a day that falls after 31 December 2022.
-
-(c) An order under this subsection shall be laid before Dáil Éireann as soon as may be after it has been made and, if a resolution annulling the order is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+(15) ...
