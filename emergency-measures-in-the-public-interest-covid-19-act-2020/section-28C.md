@@ -4,7 +4,7 @@ Covid-19: special warehousing and interest (relevant tax due under section 28(9)
 
 ‘the Acts’ means—
 
-(a) Parts 18C and 18D,
+(a) Parts 18C and 18D of the Taxes Consolidation Act 1997,
 
 (b) the Stamp Duties Consolidation Act 1999 and the enactments amending or extending that Act,
 
@@ -32,25 +32,9 @@ Covid-19: special warehousing and interest (relevant tax due under section 28(9)
 
 (a) beginning on 26 March 2020, and
 
-(b) ending on the last day of the taxable period next following the taxable period in which the recommencement date falls;
+(b) ending on 31 December 2021;
 
-‘Period 2’, in relation to an employer, means the period—
-
-(a) beginning on the day next following the last day of Period 1, and
-
-(b) ending on—
-
-(i) the day that is the earlier of—
-
-(I) the day that is 12 months from the day first-mentioned in paragraph (a), and
-
-(II) 31 December 2022, or
-
-(ii) where the Minister makes an order for the purposes of this subparagraph, the day that is the earlier of—
-
-(I) the day specified in the order, and
-
-(II) 31 December 2022;
+‘Period 2’, in relation to an employer, means the period beginning on 1 January 2022 and ending on 31 December 2022;
 
 ‘Period 3’, in relation to an employer, means the period—
 
@@ -58,13 +42,9 @@ Covid-19: special warehousing and interest (relevant tax due under section 28(9)
 
 (b) ending on the day on which the employer has discharged the employer’s liability in respect of Covid-19 relevant tax in full;
 
-‘recommencement date’, in relation to an employer, means the later of—
+...
 
-(a) the day on which the employer’s business ceased to be subject to restrictions provided for in regulations made under sections 5 and 31A of the Health Act 1947, and
-
-(b) where it is demonstrated to the satisfaction of the Revenue Commissioners that the business did not recommence on the day referred to in paragraph (a), the day on which the business recommenced after it ceased to be subject to the restrictions referred to in that paragraph;
-
-‘taxable period’ has the same meaning as it has in the Value-Added Tax Consolidation Act 2010 .
+...
 
 (2) This section shall apply to an employer—
 
@@ -116,8 +96,4 @@ Covid-19: special warehousing and interest (relevant tax due under section 28(9)
 
 (10) Section 960E(2) of the Taxes Consolidation Act 1997 shall not apply in respect of Covid-19 relevant tax where the employer concerned complies with the employer’s requirements under Chapter 4 of Part 42 of the Taxes Consolidation Act 1997 and this Part.
 
-(11) (a) The Minister may, in order to mitigate the adverse economic consequences resulting, or likely to result, from the spread of Covid-19, by order specify a day for the purpose of subparagraph (ii) of paragraph (b) of the definition of ‘Period 2’ in subsection (1).
-
-(b) The Minister shall not specify in an order under paragraph (a) a day that falls after 31 December 2022.
-
-(c) An order under this subsection shall be laid before Dáil Éireann as soon as may be after it has been made and, if a resolution annulling the order is passed by Dáil Éireann within the next 21 days on which Dáil Éireann has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
+(11) ...
