@@ -14,8 +14,6 @@ Entitlement to remain in occupation of dwelling during emergency period
 
 ## PART 3 CALCULATION OF TIME LIMITS RELATING TO PLANNING AND DEVELOPMENT
 
-Calculation of time limits during emergency
-
 9.The Planning and Development Act 2000 is amended by the insertion of the following section after section 251:
 
 “251A. (1) Where calculating any appropriate period, specified period or other time limit referred to in the following Acts or provisions, or in any regulations made under those Acts or provisions, the period referred to in subsection (2) shall be disregarded:
@@ -61,8 +59,6 @@ Calculation of time limits during emergency
 (7) In this section ‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations.”.
 
 ## PART 4 AMENDMENTS TO CERTAIN ACTS REGULATING HEALTH AND SOCIAL CARE PROFESSIONS
-
-Special measures registration having regard to Covid-19
 
 10.The Dentists Act 1985 is amended by the insertion of the following section after section 68:
 
