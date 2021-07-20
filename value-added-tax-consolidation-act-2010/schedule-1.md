@@ -258,4 +258,8 @@ Imports by certain international bodies
 
 (b) the bodies set up by either or both the Union and the Community to which the Protocol of 8 April 1965 on the privileges and immunities of the European Communities applies, within the limits and under the conditions of that Protocol and the agreements for its implementation or the agreements between the headquarters of those bodies and the host Member State of the headquarters, in so far as it does not lead to distortion of competition.
 
+(1A) (a) The importation of goods by the European Commission or by an agency or body established under European Union law where the European Commission or such agency or body imports those goods in the execution of tasks conferred on it by European Union law in order to respond to the Covid- 19 pandemic, except where the goods imported are supplied for consideration by the European Commission or an agency or body established under European Union law.
+
+(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020 .
+
 (2) The importation of goods by international bodies, other than those referred to in subparagraph (1), recognised as such by the host Member State, or by members of such bodies, within the limits and under the conditions laid down by the international conventions establishing the bodies or by the agreements between the headquarters of those bodies and the host Member State of the headquarters.
