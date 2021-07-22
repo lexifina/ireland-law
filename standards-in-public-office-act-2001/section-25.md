@@ -4,7 +4,7 @@ Tax clearance certificates for purposes of section 21, 22, 23 or 24.
 
 (a) the payment or remittance of any taxes, interest or penalties required to be paid or remitted under the Acts to the Revenue Commissioners, and
 
-(b) the delivery of any returns required to be made under the Acts, applies to the Collector-General in such form as may be determined by the Revenue Commissioners in that behalf for the purposes of section 21, 22, 23 or 24, the Collector-General shall issue to the person a certificate (in this Act referred to as “a tax clearance certificate”) stating that, at the time of the issue of the certificate, the person is in compliance with those obligations.
+(b) the delivery of any returns required to be made under the Acts, applies to the Collector-General in such form as may be determined by the Revenue Commissioners in that behalf for the purposes of section 21, 22, 23 or 24, the Collector- General shall issue to the person a certificate (in this Act referred to as “a tax clearance certificate”) stating that, at the time of the issue of the certificate, the person is in compliance with those obligations.
 
 (2) A tax clearance certificate shall not be issued to a person unless—
 
