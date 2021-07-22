@@ -18,7 +18,7 @@ T is the local property tax payable which remains unpaid,
 
 D is the number of days (including part of a day) in the period during which the local property tax remains unpaid, and
 
-R is the rate of 0.0219 per cent.
+R is the rate, represented by P in the formula T x D x P in subsection (2)(c) of section 1080 of the Act of 1997, that would apply under that formula if the local property tax payable was tax, within the meaning of that section, and the period during which the local property tax remains unpaid was the period of delay, within the meaning of that section.
 
 (3) The interest payable under this section—
 

@@ -2,7 +2,7 @@ Unfinished housing estates.
 
 10.— (1) In this section, “unfinished housing estate” means a development of two or more buildings that is specified in a list prescribed, under subsection (3), by the Minister for the Environment, Community and Local Government for the purposes of this section.
 
-(2) A residential property shall not, for the purposes of this Act, be regarded as a relevant residential property where it is situated in an unfinished housing estate.
+(2) A residential property shall not, for the purposes of this Act, be regarded as a relevant residential property in relation to the liability dates in the years 2013 to 2020 where it is situated in an unfinished housing estate.
 
 (3) The Minister for the Environment, Community and Local Government shall, for the purposes of this section, prescribe a list of developments in the State, being developments each of which that Minister is satisfied is incomplete to a substantial extent.
 

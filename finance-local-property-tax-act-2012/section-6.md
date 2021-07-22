@@ -1,6 +1,6 @@
 Newly constructed residential properties.
 
-6.— A residential property shall not, for the purposes of this Act, be regarded as a relevant residential property where the property—
+6.— A residential property shall not, for the purposes of this Act, be regarded as a relevant residential property in relation to the liability dates in the years 2013 to 2020 where the property—
 
 (a) has been completed but not sold by the person who has constructed the property, or who has had the property constructed,
 

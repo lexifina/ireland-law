@@ -4,15 +4,17 @@ Interpretation.
 
 “the Act of 1997” means the Electoral Act, 1997;
 
-“the Acts” means—
+‘the Acts‘means—
 
 (a) the Tax Acts,
 
-(b) the Capital Acquisitions Tax Act, 1976, and the enactments amending or extending that Act,
+(b) the Capital Acquisitions Tax Consolidation Act 2003, and the enactments amending or extending that Act,
 
-(c) the Capital Gains Tax Acts, and
+(c) the Capital Gains Tax Acts,
 
-(d) the Value-Added Tax Consolidation Act 2010, and the enactments amending or extending that Act;
+(d) the Value-Added Tax Consolidation Act 2010, and the enactments amending or extending that Act, and
+
+(e) the Finance (Local Property Tax) Act 2012, and the enactments amending or extending that Act;
 
 “application statement” means a statement issued under section 25(4);
 

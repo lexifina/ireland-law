@@ -24,6 +24,8 @@ Independence of Revenue Commissioners.
 
 (h) the Value-Added Tax Consolidation Act 2010 or any statute amending, or extending the application of, that Act,
 
+(ha) the Finance (Local Property Tax) Act 2012, or any statute amending, or extending the application of, that Act,
+
 (i) any instrument made under any of the foregoing statutes, or
 
 (j) any statutory instrument relating to any tax, duty, charge or levy that is placed under the care and management of the Revenue Commissioners;
