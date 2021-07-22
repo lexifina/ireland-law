@@ -4,7 +4,9 @@ MODIFICATIONS OF ACT IN ITS APPLICATION TO RELEVANT PERSONS
 
 1.—Except as provided otherwise in this Schedule, sections 21 to 25, 26 (except subsections (2) and (3)), 28, 31 to 33 and 52 and paragraphs 14(1) (except subparagraphs (b), (c) and (e)) and 16(2)(a) of Schedule 2 shall not have effect in relation to relevant persons.
 
-2.—References in paragraphs (e), (i), (k) and (m) of section 8(2) to licensees are references to relevant persons. 3.—(a) In section 26(2)—
+2.—References in paragraphs (e), (i), (k) and (m) of section 8(2) to licensees are references to relevant persons.
+
+3.—(a) In section 26(2)—
 
 (i) the reference to a licensee is a reference to a relevant person,
 
