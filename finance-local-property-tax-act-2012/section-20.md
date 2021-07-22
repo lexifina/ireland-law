@@ -4,7 +4,7 @@ Power of elected members of local authority to vary basic rates.
 
 ...
 
-“Minister” means the Minister for the Environment, Community and Local Government.
+“Minister” means the Minister for Housing, Local Government and Heritage.
 
 (2) Where the passing of such a resolution is a reserved function (within the meaning of the Local Government Act 2001, as amended by the Local Government Reform Act 2014) of a local authority, a local authority may pass a resolution that the basic rate should , for a period specified in the resolution and with effect from the date specified in section 21(2) (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), stand varied (either upwards or downwards) by a specified percentage in respect of relevant residential properties situated in the local authority’s functional area.
 

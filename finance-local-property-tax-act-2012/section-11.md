@@ -8,11 +8,17 @@ Liable persons.
 
 (b) the receipt of rents or profits of such property for a period that may equal or exceed 20 years, shall, for the purposes of this Act, be a liable person in relation to that property.
 
+(1A) Where—
+
+(a) a local authority or an approved housing body enters into a lease in relation to a relevant residential property, and
+
+(b) the terms of the lease are such that the local authority or the approved housing body, as the case may be, would, but for this subsection, be the liable person in relation to the property, the lessor shall be the liable person in relation to the property.
+
 (2) If—
 
 (a) 2 or more persons each have an equal estate, interest or right in a relevant residential property that entitles each of them to the possession or receipt referred to in subsection (1)(a) or (b), all of those persons shall, for the purposes of this Act, be liable persons in relation to that property, or
 
-(b) 2 or more persons have unequal estates, interests or rights in relevant residential property, such or so many of those persons as have an estate, interest or right in the property that, as against the estate, interest or right of the other or others, is the minimum estate, interest or right giving rise, in the circumstances, to an entitlement to the possession or receipt referred to in subsection (1)(a) or (b) shall, for the purposes of this Act, be the liable person or persons in relation to that property.
+(b) 2 or more persons have unequal estates, interests or rights in a relevant residential property, such or so many of those persons as have an estate, interest or right in the property that, as against the estate, interest or right of the other or others, is the minimum estate, interest or right giving rise, in the circumstances, to an entitlement to the possession or receipt referred to in subsection (1)(a) or (b) shall, for the purposes of this Act, be the liable person or persons in relation to that property.
 
 (3) Without prejudice to subsections (1) and (2), the following persons shall, for the purposes of this Act, be liable persons in relation to a relevant residential property (the “property”)—
 

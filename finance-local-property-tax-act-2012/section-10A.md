@@ -52,7 +52,7 @@ Pyrite-induced damage.
 
 (c) any other information or documentation that the Revenue Commissioners consider to be relevant for the purpose of considering an application.
 
-(4) Notwithstanding subsection (3) and subject to subsection (5), a residential property shall not, for the purposes of this Act, be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date on or before which, in so far as it relates to a property referred to—
+(4) Notwithstanding subsection (3) and subject to subsections (5) and (6A), a residential property shall not, for the purposes of this Act, be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date on or before which, in so far as it relates to a property referred to—
 
 (a) in subsection (3)(a), a certificate under and in accordance with regulations made under subsection (1) has been issued in relation to the property, or
 
@@ -68,7 +68,7 @@ Pyrite-induced damage.
 
 (ii) where paragraph (d) of subsection (3) applies, the builder completes the remediation of the property or provides sufficient funds for the remediation of the property, but in either case shall not be earlier than 2 May 2013.
 
-(c) Notwithstanding subsection (3) and subject to subsection (5), a residential property shall not, for the purposes of this Act, be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date after the effective date.
+(c) Notwithstanding subsection (3) and subject to subsections (5) and (6A), a residential property shall not, for the purposes of this Act, be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date after the effective date.
 
 (d) The Revenue Commissioners shall, subject to this subsection, and on receipt of a claim for repayment by the liable person, repay to that person any local property tax that was paid by the person in respect of any liability date falling between the effective date and the coming into operation of this subsection.
 
@@ -79,6 +79,14 @@ Pyrite-induced damage.
 (b) a liable person makes an election in writing to the Revenue Commissioners on or before 31 January 2014 specifying one or other of those dates as that first liability date.
 
 (6) Where a liable person makes an election in accordance with subsection (5)(b), the Revenue Commissioners shall repay to the liable person any local property tax that was paid in respect of the liability date 1 May 2013 or 1 November 2013, as the case may be.
+
+(6A) Notwithstanding subsections (3) and (4), a residential property shall be regarded as a relevant residential property where—
+
+(a) a certificate under and in accordance with regulations made under subsection (1) is issued in relation to the property,
+
+(b) the liable person in relation to the property is notified under the Pyrite Resolution Act 2013 that the property has been included in the pyrite remediation scheme, or
+
+(c) the liable person in relation to the property makes an application under subsection (3A), after the end of the period of 2 years commencing on the date of the passing of the Finance (Local Property Tax) (Amendment) Act 2021.
 
 (7) In this section—
 

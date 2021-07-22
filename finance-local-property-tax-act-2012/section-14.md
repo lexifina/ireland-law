@@ -12,4 +12,10 @@ Change of liable person between consecutive valuation dates.
 
 (iii) where no return was prepared and delivered to the Revenue Commissioners, any Revenue estimate made under section 47.
 
-(2) Other than in the case of a residential property referred to in section 8, where a property is not a relevant residential property on 1 May 2013 or on the first valuation date for any consecutive 3-year period after the year 2019, it shall not be treated as a relevant residential property until the next valuation date.
+(1B) Where—
+
+(a) the person who was the liable person in relation to a relevant residential property before the change referred to in subsection (1) was a local authority or an approved housing body, and
+
+(b) the person who is the liable person in relation to the relevant residential property after the change referred to in subsection (1) is neither a local authority nor an approved housing body, subsection (1) shall not apply.
+
+(2) Other than in the case of a residential property referred to in section 8, where a property is not a relevant residential property on 1 May 2013 ..., it shall not be treated as a relevant residential property until the next valuation date.

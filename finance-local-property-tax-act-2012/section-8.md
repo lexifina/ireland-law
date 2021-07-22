@@ -1,6 +1,6 @@
 Exemption for first-time buyers.
 
-8.— (1) Subject to subsection (3), a residential property shall not, for the purposes of this Act, be regarded as a relevant residential property in respect of the liability dates in the years 2013, 2014, 2015, 2016, 2017 and 2018 where—
+8.— (1) Subject to subsection (3), a residential property shall not, for the purposes of this Act, be regarded as a relevant residential property in relation to the liability dates in the years 2013 to 2020 where—
 
 (a) the property is purchased in the period beginning on 1 January 2013 and ending on 31 December 2013,
 

@@ -12,6 +12,8 @@ Interpretation.
 
 ‘Appeal Commissioner’ has the meaning given to it by section 2 of the Finance (Tax Appeals) Act 2015;
 
+‘approved housing body’ means a body approved of or standing approved of, under, or for the purposes of, section 6 of the Housing (Miscellaneous Provisions) Act 1992;
+
 “building” includes—
 
 (a) part of a building, and
@@ -34,7 +36,7 @@ Interpretation.
 
 “lease”, “lessee” and “lessor” have the meaning given to them by section 96 of the Act of 1997;
 
-“liable person” shall be read in accordance with Part 3 ;
+“liable person” shall be read in accordance with Part 3;
 
 “liability date” means—
 
@@ -75,3 +77,7 @@ Interpretation.
 “self-assessment” has the meaning given to it by section 52;
 
 “Tax Acts” has the same meaning as in section 1(2) of the Act of 1997.
+
+‘valuation date’ shall be construed in accordance with section 13(1);
+
+‘valuation period’ shall be construed in accordance with section 13(1A);
