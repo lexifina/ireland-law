@@ -4,9 +4,7 @@ Evidence of compliance with Acts before appointment to judicial office.
 
 (a) a tax clearance certificate that was issued to the person not more than 18 months before the date of the recommendation, and
 
-(b) a statutory declaration made by the person not more than three months before that date to the effect that, at the time of the making of the declaration, the person is, to the best of his or her knowledge and belief, in compliance with the obligations specified in subsection (1) of section
-
-25 and that nothing in subsection (2) of that section prevents the issue to him or her of a tax clearance certificate.
+(b) a statutory declaration made by the person not more than three months before that date to the effect that, at the time of the making of the declaration, the person is, to the best of his or her knowledge and belief, in compliance with the obligations specified in subsection (1) of section 25 and that nothing in subsection (2) of that section prevents the issue to him or her of a tax clearance certificate.
 
 (2) The Government shall not advise the President to appoint to a judicial office a person who was not the holder of a judicial office on the date of the advice and who was not recommended to the Minister in relation to that appointment by the Board under the said section 16 unless the person has furnished to the Secretary to the Government—
 
