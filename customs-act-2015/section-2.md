@@ -18,6 +18,8 @@ Interpretation
 
 ‘Customs Code’ means the Union Customs Code established by the Customs Code Regulation, as last supplemented by Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 and as last implemented by Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015;
 
+2 OJ No. L69, 15.3.2016, p. 1. 3 OJ No. L343, 29.12.2015, p. 558.
+
 ‘Customs Code Regulation’ means Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013;
 
 “conveyance” means any vessel, aircraft, vehicle or other means of transport used in the transportation of goods or passengers;
@@ -54,8 +56,6 @@ Interpretation
 
 “land”, in relation to aircraft, includes alighting on water;
 
-2 OJ No. L69, 15.3.2016, p. 1. 3 OJ No. L343, 29.12.2015, p. 558. 4 OJ No. L269, 10.10.2013, p. 1.
-
 “land frontier” means the land frontier between the State and Northern Ireland;
 
 “master”, in relation to a vessel, means the person having or taking command or charge of the vessel, but does not include a pilot of that vessel;
@@ -68,7 +68,9 @@ Interpretation
 
 (b) a member of the Garda Síochána, or
 
-(c) a member of the Defence Forces, for the time being employed on any duty or service relating to customs;
+(c) a member of the Defence Forces,
+
+4 OJ No. L269, 10.10.2013, p. 1. for the time being employed on any duty or service relating to customs;
 
 “pilot-in-command” means, in relation to an aircraft, the person having or taking command or charge of the aircraft during flight time;
 

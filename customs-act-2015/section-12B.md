@@ -6,7 +6,9 @@ Procedures for goods entering or departing the State by ferry (from or to a plac
 
 ‘Council Regulation’ means Council Regulation (EC) No. 1186/2009 of 16 November 2009 setting up a Community system of reliefs from customs duty;
 
-‘Delegated Regulation’ means Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code;
+‘Delegated Regulation’ means Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013
+
+13 OJ No. L 324, 10.12.2009, p.23 14 OJ No. L 343, 29.12.2015, p.1 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code;
 
 ‘electronic data processing technique’ means such electronic data processing technique as stands specified by the Commissioners for the purposes of this section;
 
@@ -34,9 +36,7 @@ Procedures for goods entering or departing the State by ferry (from or to a plac
 
 (e) it is intended to apply for temporary admission relief in respect of imported goods using a valid ATA carnet (within the meaning of the Delegated Regulation);
 
-(f) a paper declaration is intended to be made upon entry into the State in respect of goods being transported in the vehicle concerned for relief
-
-13 OJ No. L 324, 10.12.2009, p.23 14 OJ No. L 343, 29.12.2015, p.1 from importation charges on the basis of transfer of residence under Chapter I of Title II of the Council Regulation;
+(f) a paper declaration is intended to be made upon entry into the State in respect of goods being transported in the vehicle concerned for relief from importation charges on the basis of transfer of residence under Chapter I of Title II of the Council Regulation;
 
 (g) a paper declaration is intended to be made upon entry into the State in respect of goods being transported in the vehicle concerned for relief from importation charges on the basis of transfer of business as provided for in Chapter VII of Title II of the Council Regulation;
 
