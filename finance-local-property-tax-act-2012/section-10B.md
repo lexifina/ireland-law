@@ -1,6 +1,6 @@
 Permanently and totally incapacitated individuals.
 
-10B. (1) A residential property shall not, for the purposes of this Act, be regarded as a relevant residential property where the property is occupied by an incapacitated individual as his or her sole or main residence and—
+10B.—(1) A residential property shall not, for the purposes of this Act, be regarded as a relevant residential property where the property is occupied by an incapacitated individual as his or her sole or main residence and—
 
 (a) either—
 

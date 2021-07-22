@@ -4,7 +4,7 @@ Long term mental or physical infirmity.
 
 (2) A residential property shall not, for the purposes of this Act, be regarded as a relevant residential property where—
 
-(a) the property was occupied by a person who, apart from this paragraph, would be a liable person, as his or her sole or main residence and—
+(a) the property was occupied by a person who, apart from this paragraph, would be a liable person as his or her sole or main residence and—
 
 (i) has been vacated by the person for a period of at least 12 months by reason of long term mental or physical infirmity of the person which infirmity has been certified by a registered medical practitioner, or
 
