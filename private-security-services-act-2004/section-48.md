@@ -6,9 +6,11 @@ Offences.
 
 (a) makes any false or misleading statement in any application or notice of appeal under this Act or in any document required thereunder or otherwise gives false or misleading information to the Authority or Appeal Board,
 
-(b) being a licensee who has been notified of the suspension or revocation of the licence, produces the licence or identity card to any other person with a view to providing a security service for that person, or
+(b) being a licensee who has been notified of the suspension or revocation of the licence, produces the licence or identity card to any other person with a view to providing a security service for that person,
 
-(c) being a licensee, fails or refuses to keep any prescribed records or to furnish to the Authority any prescribed information or returns, is guilty of an offence and liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
+(c) being a licensee, fails or refuses to keep any prescribed records or to furnish to the Authority any prescribed information or returns, or
+
+(d) falsely represents himself or herself to be an inspector, is guilty of an offence and liable on summary conviction to a fine not exceeding €3,000 or imprisonment for a term not exceeding 12 months or both.
 
 (2) Where—
 

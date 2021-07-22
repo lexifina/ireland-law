@@ -12,6 +12,8 @@ Interpretation.
 
 “corresponding authority” has the meaning given to it by section 42;
 
+‘county registrar’ means a person appointed as such under section 35 of the Court Officers Act 1926;
+
 “director”, in relation to a body corporate, includes—
 
 (a) any person occupying the position of director, by whatever name called,
@@ -113,6 +115,8 @@ Interpretation.
 (g) locksmith,
 
 (h) supplier or installer of safes.
+
+‘sheriff’ means a sheriff appointed by the Government under the Court Officers Act 1945.
 
 (2) In this Act, unless the context otherwise requires—
 
