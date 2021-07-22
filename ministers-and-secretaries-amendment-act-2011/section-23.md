@@ -8,6 +8,6 @@ Purported performance of certain functions by Minister for Finance.
 
 (a) a function transferred to the Minister under subsection (1) or (2) of section 8 or subsection (2) or (3) of section 9,
 
-(b) a function of the Minister to which section 16(3), 17,18, 20 or 21, or Part 4 applies, or
+(b) a function of the Minister to which section 16(3), 17, 18, 20 or 21, or Part 4 applies, or
 
 (c) a function transferred to the Minister by order under section 6(1) of the Act of 1939.
