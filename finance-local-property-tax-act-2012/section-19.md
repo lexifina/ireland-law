@@ -2,10 +2,16 @@ Local adjustment factor.
 
 19.— In section 20—
 
-(a) each of the following—
+(a) the following are referred to as the "basic rate":
 
-(i) the rate of local property tax represented by ‘C’ in the formula in section 17(1) (including the foregoing rate as it applies in the case specified in section 17(3)(b)(i)), and
+(i) each of the rates represented by—
 
-(ii) the rate of local property tax represented by ‘C’ in the formula in section 17(1) that section 17(3)(b)(ii) provides shall apply in the case specified in that provision, is referred to as the ‘basic rate’, and
+(I) "C" in the formulae in subsections (4), (5) and (6) of section 17,
+
+(II) "E" in the formulae in subsections (5) and (6) of section 17, and
+
+(III) "G" in the formula in subsection (6) of section 17;
+
+(ii) each amount of local property tax referred to in subsection (2) and (3) of section 17, and
 
 (b) the percentage specified in a resolution under section 20 as the percentage by which the basic rate should stand varied is referred to as the “local adjustment factor”.

@@ -1,6 +1,6 @@
 Permanently and totally incapacitated individuals.
 
-10B.—(1) A residential property shall not, for the purposes of this Act, be regarded as a relevant residential property where the property is occupied by an incapacitated individual as his or her sole or main residence and—
+10B.—(1) A residential property shall not, for the purposes of section 16(1), be regarded as a relevant residential property where the property is occupied by an incapacitated individual as his or her sole or main residence and—
 
 (a) either—
 
@@ -64,6 +64,6 @@ Permanently and totally incapacitated individuals.
 
 (3) In this section—
 
-‘incapacitated individual’ has the meaning assigned to it by section 189A of the Act of 1997;
+"incapacitated individual" has the meaning assigned to it by section 189A of the Act of 1997;
 
-‘general practitioner’, in relation to an incapacitated individual, means the medical practitioner, for the time being registered in the register of medical practitioners established under section 43 of the Medical Practitioners Act 2007, who provides a general practitioner medical service to the incapacitated individual.
+"general practitioner", in relation to an incapacitated individual, means the medical practitioner, for the time being registered in the register of medical practitioners established under section 43 of the Medical Practitioners Act 2007, who provides a general practitioner medical service to the incapacitated individual.

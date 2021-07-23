@@ -10,9 +10,9 @@ Interpretation.
 
 “Act of 2011” means the Local Government (Household Charge) Act 2011;
 
-‘Appeal Commissioner’ has the meaning given to it by section 2 of the Finance (Tax Appeals) Act 2015;
+"Appeal Commissioner" has the meaning given to it by section 2 of the Finance (Tax Appeals) Act 2015;
 
-‘approved housing body’ means a body approved of or standing approved of, under, or for the purposes of, section 6 of the Housing (Miscellaneous Provisions) Act 1992;
+"approved housing body" means a body approved of or standing approved of, under, or for the purposes of, section 6 of the Housing (Miscellaneous Provisions) Act 1992;
 
 “building” includes—
 
@@ -32,7 +32,7 @@ Interpretation.
 
 “company” includes any body corporate;
 
-‘electronic means’ has the meaning given to it by section 917EA of the Act of 1997;
+"electronic means" has the meaning given to it by section 917EA of the Act of 1997;
 
 “lease”, “lessee” and “lessor” have the meaning given to them by section 96 of the Act of 1997;
 
@@ -44,7 +44,7 @@ Interpretation.
 
 (b) in respect of any other year, 1 November in the preceding year;
 
-‘local authority’ means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
+"local authority" means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
 
 “local property tax” has the meaning given to it by section 16;
 
@@ -60,7 +60,7 @@ Interpretation.
 
 “rent” has the meaning given to it by section 96 of the Act of 1997;
 
-“residential property” means any building or structure which is in use as, or is suitable for use as, a dwelling and includes any shed, outhouse, garage or other building or structure and any yard, garden or other land, appurtenant to or usually enjoyed with that building, save that so much of any such yard, garden or other land that exceeds one acre shall not be taken into account for the purposes of this definition;
+“residential property” shall be construed in accordance with section 2A;
 
 “return” means a statement of particulars which is required to be prepared and delivered under Part 7;
 
@@ -78,6 +78,6 @@ Interpretation.
 
 “Tax Acts” has the same meaning as in section 1(2) of the Act of 1997.
 
-‘valuation date’ shall be construed in accordance with section 13(1);
+"valuation date" shall be construed in accordance with section 13(1);
 
-‘valuation period’ shall be construed in accordance with section 13(1A);
+"valuation period" shall be construed in accordance with section 13(1A);

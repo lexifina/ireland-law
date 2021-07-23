@@ -12,7 +12,7 @@ Pyrite-induced damage.
 
 (2) In making regulations under subsection (1), the Minister for the Environment, Community and Local Government shall have regard to Irish Standard 398-1:2013 published by the National Standards Authority of Ireland and any revisions of that standard as may from time to time be made.
 
-(3) Subject to subsection (4), a residential property shall not, for the purposes of this Act, be regarded as a relevant residential property where—
+(3) Subject to subsection (4), a residential property shall not, for the purposes of section 16(1), be regarded as a relevant residential property where—
 
 (a) a certificate under and in accordance with regulations under subsection (1) has been issued in relation to it,
 
@@ -22,7 +22,7 @@ Pyrite-induced damage.
 
 (d) the person who constructed the property, or who caused the property to be constructed (in this section referred to as the ‘builder’) remediates the property or puts the liable person in relation to that property in sufficient funds to remediate the property, and, in the case of a property referred to in paragraph (c) or (d), the Revenue Commissioners confirm, under subsection (3A), that the residential property shall not be so regarded.
 
-(3A) (a) A liable person may, in relation to a property referred to in subsection (3)(c) or (d), make an application in writing to the Revenue Commissioners for confirmation that the property shall not, for the purposes of this Act, be regarded as a relevant residential property.
+(3A) (a) A liable person may, in relation to a property referred to in subsection (3)(c) or (d), make an application in writing to the Revenue Commissioners for confirmation that the property shall not, for the purposes of section 16(1), be regarded as a relevant residential property.
 
 (b) For the purpose of an application under paragraph (a), the Revenue Commissioners may specify the form of an application and may require that the following information is provided to them:
 
@@ -42,7 +42,7 @@ Pyrite-induced damage.
 
 (viii) any other particulars the Revenue Commissioners may reasonably require for the purpose of considering the application.
 
-(c) No confirmation shall be given by the Revenue Commissioners on an application under paragraph (a) unless they are satisfied that paragraph (c) or (d), of subsection (3) applies in relation to a residential property.”,
+(c) No confirmation shall be given by the Revenue Commissioners on an application under paragraph (a) unless they are satisfied that paragraph (c) or (d), of subsection (3) applies in relation to a residential property.
 
 (3B) For the purposes of subsection (3A), the Revenue Commissioners shall publish guidelines in relation to—
 
@@ -52,7 +52,7 @@ Pyrite-induced damage.
 
 (c) any other information or documentation that the Revenue Commissioners consider to be relevant for the purpose of considering an application.
 
-(4) Notwithstanding subsection (3) and subject to subsections (5) and (6A), a residential property shall not, for the purposes of this Act, be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date on or before which, in so far as it relates to a property referred to—
+(4) Notwithstanding subsection (3) and subject to subsections (5) and (6A), a residential property shall not, for the purposes of section 16(1), be regarded as a relevant residential property in relation to six consecutive liability dates commencing with the first liability date on or before which, in so far as it relates to a property referred to—
 
 (a) in subsection (3)(a), a certificate under and in accordance with regulations made under subsection (1) has been issued in relation to the property, or
 
@@ -90,8 +90,8 @@ Pyrite-induced damage.
 
 (7) In this section—
 
-‘pyrite remediation scheme’ has the meaning assigned to it by the Pyrite Resolution Act 2013;
+"pyrite remediation scheme" has the meaning assigned to it by the Pyrite Resolution Act 2013;
 
-‘remediation’ means remediation carried out in accordance with the standard for remediation;
+"remediation" means remediation carried out in accordance with the standard for remediation;
 
-‘standard for remediation’ has the meaning assigned to it by the Pyrite Resolution Act 2013.
+"standard for remediation" has the meaning assigned to it by the Pyrite Resolution Act 2013.

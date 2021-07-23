@@ -6,7 +6,7 @@ Claim that person not a liable person.
 
 (b) shall be made within 30 days after the date of the notice referred to in section 33(1),
 
-(c) with reference to Part 2 or 3, as the case may be, shall include an explanation of the reason why the person does not consider himself or herself to be a liable person,
+(c) with reference to section 3 or Part 3, as the case may be, shall include an explanation of the reason why the person does not consider himself or herself to be a liable person,
 
 (d) shall be accompanied by whatever supporting documentation may be relevant, and
 
