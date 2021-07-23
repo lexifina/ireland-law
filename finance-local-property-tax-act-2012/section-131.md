@@ -4,7 +4,7 @@ Meaning of deferral.
 
 (a) the local property tax in respect of which deferral is claimed will be treated as not being payable until the occurrence of a relevant event in accordance with section 139,
 
-(b) interest shall be charged on the deferred amount from the due date for payment of that amount until such time as it is paid at the daily rate of 0.011 per cent (referred to in this Part as “deferral interest”), and
+(b) interest shall be charged on the deferred amount from the date on which that amount becomes payable until such time as it is paid at the daily rate of 0.008 per cent (referred to in this Part as "deferral interest"), and
 
 (c) any reference to the deferred amount in this Part shall include the accrued deferral interest referred to in paragraph (b).
 

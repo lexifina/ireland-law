@@ -1,6 +1,6 @@
 Change of liable person between consecutive valuation dates.
 
-14.— (1) Subject to section 35(5A) (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), where the person who is a liable person in respect of a relevant residential property changes in the period between two consecutive valuation dates, the chargeable value, as stated in or ascertained for the purposes of a self-assessment or a Revenue assessment in relation to the property by reference to the first valuation date, shall continue to apply until the next valuation date.
+14.— (1) Subject to subsections (1B) and section 35(5A) (inserted by the Finance (Local Property Tax) (Amendment) Act 2013), where the person who is a liable person in respect of a relevant residential property changes in the period between two consecutive valuation dates, the chargeable value, as stated in or ascertained for the purposes of a self-assessment or a Revenue assessment in relation to the property by reference to the first valuation date, shall continue to apply until the next valuation date.
 
 (1A) (a) Where subsection (1) applies, the person who was the liable person before the change referred to in that subsection shall provide the person who is the liable person following that change with any relevant information or documentation in the knowledge or possession of that person in relation to the first valuation date (as referred to in that subsection) and the relevant residential property before that change occurs.
 

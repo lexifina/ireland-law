@@ -1,6 +1,6 @@
 Properties used by a charity for recreational activities.
 
-7A.— A residential property shall not, for the purposes of this Act, be regarded as a relevant residential property where—
+7A.— A residential property shall not, for the purposes of section 16(1), be regarded as a relevant residential property where—
 
 (a) the liable person in relation to the property is a charity, and
 

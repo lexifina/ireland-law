@@ -2,7 +2,7 @@
 
 Making of Revenue estimate.
 
-47.— (1) Without prejudice to any other action which may be taken, the Revenue Commissioners may make, as regards a relevant residential property, an estimate of an amount of local property tax, in relation to a liability date (in this Act referred to as a “Revenue estimate”).
+47.— (1) Without prejudice to any other action which may be taken, the Revenue Commissioners may make, as regards a residential property, an estimate of an amount of local property tax, in relation to a liability date (in this Act referred to as a “Revenue estimate”).
 
 (2) Where a Revenue estimate is made under subsection (1), the Revenue Commissioners shall notify the person in respect of whom the Revenue estimate has been made—
 
