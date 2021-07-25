@@ -70,7 +70,7 @@ Regulations for preventing, limiting, minimising or slowing spread of Covid-19.
 
 (6) A person who—
 
-(a) contravenes a provision of a regulation made under subsection (1) that is stated to be a penal provision,
+(a) subject to section 31AB, contravenes a provision of a regulation made under subsection (1) that is stated to be a penal provision,
 
 (b) obstructs, interferes with or impedes a relevant person in the course of exercising a power conferred by regulations under this section on that relevant person,
 
@@ -186,9 +186,7 @@ Regulations for preventing, limiting, minimising or slowing spread of Covid-19.
 
 (14) Without prejudice to the generality of section 95, a relevant person may, in the course of exercising a power or performing a function conferred on that officer by regulations under subsection (1), require a member of the Garda Síochána to assist in the exercise of the power or the performance of the function, including by way of temporarily detaining any person, bringing a person to any place, breaking open of any premises, or any other action in which the use of force may be necessary and is lawful, and any member of the Garda Síochána so required shall comply with the requirement.
 
-(15) (a) Where an offence under this section is committed by a body corporate and it is proved that the offence was committed with the consent or connivance, or was attributable to any wilful neglect, of a person who was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, that person shall, as well as the body corporate, be guilty of an offence and may be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
-
-(b) Where the affairs of a body corporate are managed by its members, paragraph (a) shall apply in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director or manager of the body corporate.
+(15) ...
 
 (16) In this section, section 31B and section 38A—
 
