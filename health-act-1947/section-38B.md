@@ -22,9 +22,11 @@ Obligation on certain persons coming into State to quarantine in designated faci
 
 (I) where the person was asymptomatic at the time of taking the test, the expiration of a further 14 day period in isolation commencing on the day he or she took that test, if for the duration of that 14 day period he or she remained asymptomatic,
 
-(II) subject to clause (III), where the person was symptomatic at the time of taking the test, or subsequent to the taking of the test became symptomatic, the expiration of a further 14 day period in isolation commencing on the day he or she took the test (if symptomatic at that time) or became symptomatic (if later) subject to the person being fever free for the last 5 days of that 14 day period, or
+(II) subject to clause (III), where the person was symptomatic at the time of taking the test, or subsequent to the taking of the test became symptomatic, the expiration of a further 14 day period in isolation commencing on the day he or she took the test (if symptomatic at that time) or became symptomatic (if later) subject to the person being fever free for the last 5 days of that 14 day period,
 
 (III) where clause (II) applies and the person is not fever free for the last 5 days of that 14 day period, such time as the person is fever free for 5 consecutive days, or
+
+(IV) where the registered medical practitioner is satisfied, having regard to all the circumstances, that the person no longer poses a risk to others of infection with Covid-19 or the virus SARS-CoV-2, such earlier date, after the expiration of a period of 10 days commencing on the day the person is admitted to a designated facility, that the medical practitioner determines, or
 
 (b) where he or she is such a traveller by virtue of subsection (1)(b), until—
 
