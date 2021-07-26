@@ -1,4 +1,4 @@
-F47[Designated facilities.
+F73[Designated facilities.
 
 38F. (1) Subject to subsection (2), the Minister shall designate in writing such facility (in this Act referred to as a ‘designated facility’) or facilities in the State as he or she considers appropriate for the quarantine of applicable travellers under section 38B and different facilities may be designated for the quarantine of applicable travellers where a RT-PCR test in respect of such travellers detects the presence of Covid-19 or the virus SARS-CoV-2.
 

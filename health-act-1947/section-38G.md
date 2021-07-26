@@ -1,4 +1,4 @@
-F48[Regulations for giving further effect to certain matters relating to the requirement to quarantine.
+F74[Regulations for giving further effect to certain matters relating to the requirement to quarantine.
 
 38G. (1) The Minister may make regulations for the purposes of giving further effect to sections 38B to 38L and for any matter stated, in those sections, to be prescribed and without prejudice to the generality of the foregoing may—
 

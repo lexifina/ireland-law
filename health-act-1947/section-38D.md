@@ -1,4 +1,4 @@
-F45[Offences related to quarantine and power to give direction.
+F71[Offences related to quarantine and power to give direction.
 
 38D. (1) A person shall be guilty of an offence where he or she—
 

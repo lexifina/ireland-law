@@ -1,4 +1,4 @@
-F60[Regulations for prevention of danger from food and drink.
+F90[Regulations for prevention of danger from food and drink.
 
 54.— (1) The Minister may, after consultation with the Minister for Enterprise, Trade and Employment and the Minister for Agriculture and Food, make regulations providing for—
 

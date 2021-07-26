@@ -1,4 +1,4 @@
-F50[Service agreements for accommodation and maintenance for purposes of quarantine.
+F78[Service agreements for accommodation and maintenance for purposes of quarantine.
 
 38I. (1) The Minister or, at the direction of the Minister, the Health Service Executive, or other person may enter, on such terms and conditions as he or she or it considers appropriate, into one or more agreements with one or more persons (in this Act referred to as an ‘approved services provider’) for the provision by the approved person of services relating to any or all of the following:
 

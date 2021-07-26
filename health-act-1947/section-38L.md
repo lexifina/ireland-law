@@ -1,4 +1,4 @@
-F53[Arrangements with other Ministers of Government to carry out certain functions under Act.
+F83[Arrangements with other Ministers of Government to carry out certain functions under Act.
 
 38L. (1) The Minister may enter into an arrangement with another Minister of the Government (in this section referred to as a ‘relevant Minister’) for the performance by the relevant Minister of one or more specified functions.
 

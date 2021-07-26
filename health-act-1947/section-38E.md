@@ -1,4 +1,4 @@
-F46[Designated state.
+F72[Designated state.
 
 38E. (1) Subject to subsection (3), the Minister may designate in writing any state (in this Act referred to as a ‘designated state’) where there is known to be sustained human transmission of Covid-19 or any variant of concern or from which there is a high risk of importation of infection or contamination with Covid-19 or any variant of concern by travel from that state.
 

@@ -1,4 +1,4 @@
-F44[Return of applicable traveller to designated facility.
+F70[Return of applicable traveller to designated facility.
 
 38C. (1) Where an applicable traveller leaves a designated facility for a purpose other than a purpose specified in, or accordance with, subsection (19) of section 38B or for a purpose specified in that subsection but fails to return after the expiration of the period which is strictly necessary for the purpose, the responsible person shall arrange for an approved person to return the applicable traveller to the designated facility or, if the approved person is unable to do so, the approved person may require a member of the Garda Síochána to assist, in accordance with section 38B(24)(b), in returning the applicable traveller to the designated facility concerned.
 

@@ -1,4 +1,4 @@
-F51[Requirements in relation to maintaining records for the purposes of section 38B.
+F79[Requirements in relation to maintaining records for the purposes of section 38B.
 
 38J. (1) A relevant person, approved person or member of the Garda Síochána, as the case may be, referred to in section 38B shall make and retain the following records in respect of an applicable traveller—
 
