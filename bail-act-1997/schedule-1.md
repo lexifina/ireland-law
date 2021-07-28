@@ -305,3 +305,7 @@ Offence under the Harassment, Harmful Communications and Related Offences
 Act 2020
 
 42. An offence under section 2 of the Harassment, Harmful Communications and Related Offences Act 2020.
+
+Offences under the Criminal Justice (Perjury and Related Offences) Act 2021
+
+43. Any offence under the Criminal Justice (Perjury and Related Offences) Act 2021.
