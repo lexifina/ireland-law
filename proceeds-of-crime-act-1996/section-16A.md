@@ -22,16 +22,16 @@ F26[Admissibility of certain documents.
 
 (4) In this section—
 
-‘business’ includes—
+"business" includes—
 
 (a) an undertaking not carried on for profit, and
 
 (b) a public authority;
 
-‘deed’ means any document by which an estate or interest in land is created, transferred, charged or otherwise affected and includes a contract for the sale of land;
+"deed" means any document by which an estate or interest in land is created, transferred, charged or otherwise affected and includes a contract for the sale of land;
 
-‘document’ includes a reproduction in legible form of a record in non-legible form;
+"document" includes a reproduction in legible form of a record in non-legible form;
 
-‘public authority’ has the meaning given to it by section 2(1) of the Local Government Act 2001 and includes a local authority within the meaning of that section;
+"public authority" has the meaning given to it by section 2(1) of the Local Government Act 2001 and includes a local authority within the meaning of that section;
 
-‘records’ includes records in non-legible form and any reproduction thereof in legible form.
+"records" includes records in non-legible form and any reproduction thereof in legible form.

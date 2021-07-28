@@ -2,7 +2,7 @@ Interpretation.
 
 1.—(1) In this Act, save where the context otherwise requires—
 
-‘the applicant’ means a person, being a member, an authorised officer or the Criminal Assets Bureau, who has applied to the Court for the making of an interim order or an interlocutory order and, in relation to such an order that is in force, means, as appropriate, any member, any authorised officer or the Criminal Assets Bureau;
+"the applicant" means a person, being a member, an authorised officer or the Criminal Assets Bureau, who has applied to the Court for the making of an interim order or an interlocutory order and, in relation to such an order that is in force, means, as appropriate, any member, any authorised officer or the Criminal Assets Bureau;
 
 “authorisation” means an authorisation for the detention of property granted under section 1A;
 
@@ -10,9 +10,9 @@ Interpretation.
 
 “bureau officer” has the same meaning as it has in the Criminal Assets Bureau Act 1996;
 
-‘consent disposal order’ means an order under section 3(1A) or 4A(1);
+"consent disposal order" means an order under section 3(1A) or 4A(1);
 
-‘criminal conduct’ means any conduct—
+"criminal conduct" means any conduct—
 
 (a) which constitutes an offence or more than one offence, or
 
@@ -46,9 +46,9 @@ Interpretation.
 
 “the Minister” means the Minister for Finance;
 
-‘proceeds of crime’ means any property obtained or received at any time (whether before or after the passing of this Act) by or as a result of or in connection with criminal conduct;
+"proceeds of crime" means any property obtained or received at any time (whether before or after the passing of this Act) by or as a result of or in connection with criminal conduct;
 
-‘property’, in relation to proceeds of crime, includes—
+"property", in relation to proceeds of crime, includes—
 
 (a) money and all other property, real or personal, heritable or moveable,
 
@@ -60,7 +60,7 @@ Interpretation.
 
 (ii) all or any part of the criminal conduct concerned occurs therein, and references to property shall be construed as including references to any interest in property;
 
-‘the respondent’ means a person, wherever domiciled, resident or present, in respect of whom an interim order or interlocutory order, or an application for such an order, has been made and includes any person who, but for this Act, would become entitled, on the death of the first-mentioned person, to any property to which such an order relates (being an order that is in force and is in respect of that person);
+"the respondent" means a person, wherever domiciled, resident or present, in respect of whom an interim order or interlocutory order, or an application for such an order, has been made and includes any person who, but for this Act, would become entitled, on the death of the first-mentioned person, to any property to which such an order relates (being an order that is in force and is in respect of that person);
 
 (1A) (a) For the avoidance of doubt, a person shall be deemed for the purposes of this Act to be in possession or control of property notwithstanding that it (or any part of it)—
 

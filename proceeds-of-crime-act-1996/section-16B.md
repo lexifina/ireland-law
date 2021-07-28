@@ -4,9 +4,9 @@ F27[Corrupt enrichment order.
 
 (a) a person is corruptly enriched if he or she derives a pecuniary or other advantage or benefit as a result of or in connection with corrupt conduct, wherever the conduct occurred;
 
-(b)‘corrupt conduct’ is any conduct which at the time it occurred was an offence under the Prevention of Corruption Acts 1889 to 2010, the Official Secrets Act 1963, the Ethics in Public Office Act 1995 or the Criminal Justice (Corruption Offences) Act 2018;
+(b) "corrupt conduct" is any conduct which at the time it occurred was an offence under the Prevention of Corruption Acts 1889 to 2010, the Official Secrets Act 1963, the Ethics in Public Office Act 1995 or the Criminal Justice (Corruption Offences) Act 2018;
 
-(c) ‘property’ includes—
+(c) "property" includes—
 
 (i) money and all other property, real or personal, heritable or moveable,
 
@@ -14,7 +14,7 @@ F27[Corrupt enrichment order.
 
 (iii) property situated outside the State, and references to property shall be construed as including references to any interest in property.
 
-(2) Where, on application to it in that behalf by the applicant, it appears to the Court, on evidence tendered by the applicant, consisting of or including evidence admissible by virtue of subsection (5), that a person (a ‘defendant’) has been corruptly enriched, the Court may make an order (a ‘corrupt enrichment order’) directing the defendant to pay to the Minister or such other person as the Court may specify an amount equivalent to the amount by which it determines that the defendant has been so enriched.
+(2) Where, on application to it in that behalf by the applicant, it appears to the Court, on evidence tendered by the applicant, consisting of or including evidence admissible by virtue of subsection (5), that a person (a "defendant") has been corruptly enriched, the Court may make an order (a "corrupt enrichment order") directing the defendant to pay to the Minister or such other person as the Court may specify an amount equivalent to the amount by which it determines that the defendant has been so enriched.
 
 (3) Where—
 
