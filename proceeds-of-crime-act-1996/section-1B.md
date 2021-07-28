@@ -1,6 +1,6 @@
 Application to Court.
 
-1B. (1) A person who has possession or control of property which is the subject of an authorisation, or who is affected by an authorisation, may at any time while the authorisation is in force apply to the Court to have the authorisation varied or revoked, and the Court may, if it is satisfied that—
+1B.—(1) A person who has possession or control of property which is the subject of an authorisation, or who is affected by an authorisation, may at any time while the authorisation is in force apply to the Court to have the authorisation varied or revoked, and the Court may, if it is satisfied that—
 
 (a) there are no reasonable grounds for suspecting that the property the subject of the authorisation may, in whole or in part, directly or indirectly, constitute proceeds of crime,
 

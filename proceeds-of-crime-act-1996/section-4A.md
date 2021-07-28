@@ -4,7 +4,7 @@ Consent disposal order.
 
 (a) an interlocutory order has been in force for a period of less than 7 years, and
 
-(b) an application is made to the Court with the consent of all the parties concerned, the Court may make an order (a ‘consent disposal order’) directing that the whole or a specified part of the property be transferred to the Minister or to such other person as the Court may determine, subject to such terms and conditions as it may specify.
+(b) an application is made to the Court with the consent of all the parties concerned, the Court may make an order (a "consent disposal order") directing that the whole or a specified part of the property be transferred to the Minister or to such other person as the Court may determine, subject to such terms and conditions as it may specify.
 
 (2) A consent disposal order operates to deprive the respondent of his or her rights (if any) in or to the property to which the order relates and, on its being made, the property stands transferred to the Minister or that other person.
 

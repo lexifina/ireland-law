@@ -1,6 +1,6 @@
 Compensation.
 
-1C. (1) Where property is detained under an authorisation and—
+1C.—(1) Where property is detained under an authorisation and—
 
 (a) an application to the Court for an interim order or an interlocutory order in respect of the property, in whole or in part, is not made before the expiration of the authorisation, or
 

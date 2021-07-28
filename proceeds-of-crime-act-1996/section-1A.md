@@ -1,6 +1,6 @@
 Seizure and detention of property.
 
-1A. (1) Where a bureau officer who is—
+1A.—(1) Where a bureau officer who is—
 
 (a) in a public place,
 
@@ -30,4 +30,4 @@ Seizure and detention of property.
 
 (6) The Chief Bureau Officer may vary or revoke an authorisation and shall revoke an authorisation if any of the grounds on which it was issued no longer exists.
 
-(7) In this section, ‘property’ does not include land.
+(7) In this section, "property" does not include land.
