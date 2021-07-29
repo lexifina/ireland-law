@@ -70,6 +70,12 @@ Redundancy Appeals Tribunal and appeals and references thereto.
 
 (e) A person to whom a notice under paragraph (c) has been given and who refuses or wilfully neglects to attend in accordance with the notice or who, having so attended, refuses to give evidence or refuses or wilfully fails to produce any document to which the notice relates shall be guilty of an offence and shall be liable on summary conviction thereof to a fine not exceeding €5,000.
 
+(17A) Proceedings in relation to any matter referred to an adjudication officer under this section shall be conducted in public unless the adjudication officer, of his or her own motion or upon the application by or on behalf of the employee or employer, determines that, due to the existence of special circumstances, the proceedings (or part thereof) should be conducted otherwise than in public.
+
+(17B) (a) Subject to paragraph (b), the Commission shall publish on the internet in such form and in such manner as it considers appropriate every decision of an adjudication officer under this section.
+
+(b) In publishing a decision under paragraph (a), an adjudication officer may determine that, due to the existence of special circumstances, information that would identify the employee or employer in relation to whom the decision was made should not be published by the Commission.
+
 (18) The Tribunal shall submit an annual report to the Minister which shall be published.
 
 (19) The Minister may make regulations giving effect to this section and such regulations may, in particular but without prejudice to the generality of the foregoing, provide for all or any of the following matters—

@@ -1,6 +1,6 @@
 Power of Court to summon witnesses, etc.
 
-21.—(1) The Court may, for the purposes of any proceedings before it under this Act, the Unfair Dismissals Act 1977 or Part 4 of the Workplace Relations Act 2015, or any investigation under the Industrial Relations (Amendment) Act 2001, do all or any of the following things —
+21.—(1) The Court may, for the purposes of any proceedings before it under this Act, the Redundancy Payments Act 1967, the Unfair Dismissals Act 1977, the Protection of Employees (Employers’ Insolvency) Act 1984 or Part 4 of the Workplace Relations Act 2015, or any investigation under the Employment Equality Act 1998 or the Industrial Relations (Amendment) Act 2001, do all or any of the following things —
 
 (a) summon witnesses to attend before it,
 
@@ -15,6 +15,12 @@ Power of Court to summon witnesses, etc.
 (a) on being duly summoned as a witness before the Court makes default in attending, or
 
 (b) being in attendance as a witness refuses to take an oath legally required by the Court to be taken, or to produce any document in his power or control legally required by the Court to be produced by him, or to answer any question to which the Court may legally require an answer, he shall be guilty of an offence under this section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds.
+
+(3A) A person who, in or for the purpose of proceedings before the Court, gives a statement material in the proceedings while lawfully sworn as a witness that is false and that he or she knows to be false shall be guilty of an offence and shall be liable—
+
+(a) on summary conviction, to a class B fine or to imprisonment for a term not exceeding 12 months, or both, or
+
+(b) on conviction on indictment, to a fine not exceeding €100,000 or imprisonment for a term not exceeding 10 years, or both.
 
 (4) A document purporting to be signed by the chairman or the registrar of the Labour Court stating that—
 
