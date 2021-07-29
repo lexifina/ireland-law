@@ -1,0 +1,3 @@
+F43[Gender pay gap information
+
+20A. ...
