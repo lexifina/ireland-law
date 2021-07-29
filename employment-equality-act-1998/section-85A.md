@@ -1,4 +1,4 @@
-F152[Burden of proof.
+F155[Burden of proof.
 
 85A.—(1) Where in any proceedings facts are established by or on behalf of a complainant from which it may be presumed that there has been discrimination in relation to him or her, it is for the respondent to prove the contrary.
 

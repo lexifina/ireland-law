@@ -1,4 +1,4 @@
-Appeals from the F145[Director General of the Workplace Relations Commission] to the Labour Court.
+Appeals from the F148[Director General of the Workplace Relations Commission] to the Labour Court.
 
 83. Section 44 of the Act of 2015 shall apply to a decision of the Director General of the Workplace Relations Commission under section 79 as it applies to a decision of an adjudication officer under section 41 of that Act, subject to the following modifications:
 
