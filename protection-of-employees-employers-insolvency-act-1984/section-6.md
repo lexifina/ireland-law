@@ -92,11 +92,9 @@ Employees’ rights on insolvency of employer.
 
 (xxxii) any amount that an employer within the meaning of the Act of 2015 is required to pay by virtue of a decision of an adjudication officer or the Labour Court under Part 4 of that Act.
 
-(b) Any amount, damages, fine or compensation referred to in subparagraph (viii), (ix), (x) (xi), (xiv), (xv), (xvi), (xvii), (xviii), (xix), (xx), (xxi), (xxii), (xxiii), (xxiv) , (xxv) or , (xxvi) , (xxvii) , (xxviii) , (xxix) , (xxx) , (xxxi) or (xxxii) of paragraph (a) of this subsection shall be regarded as being a debt to which this section applies if, and only if, the relevant recommendation, decision, determination, award or order was made during, or after the expiration of, the relevant period.
+(b) Any amount, damages, fine or compensation referred to in subparagraph (viii), (ix), (x) (xi), (xiv), (xv), (xvi), (xvii), (xviii), (xix), (xx), (xxi), (xxii), (xxiii), (xxiv), (xxv) or , (xxvi) , (xxvii) , (xxviii) , (xxix) , (xxx) , (xxxi) or (xxxii) of paragraph (a) of this subsection shall be regarded as being a debt to which this section applies if, and only if, the relevant recommendation, decision, determination, award or order was made during, or after the expiration of, the relevant period.
 
-(c) A payment shall not be made under this section in respect of a debt referred to in subparagraph (xiv), (xv), (xvi), (xvii), (xviii), (xix), (xx), (xxi),
-
-(xxii), (xxiii) , (xxv) , (xxvi) , (xxvii) , (xxviii) , (xxix) , (xxx) , (xxxi) or (xxxii) of paragraph (a) of this subsection until the period for making an appeal against—
+(c) A payment shall not be made under this section in respect of a debt referred to in subparagraph (xiv), (xv), (xvi), (xvii), (xviii), (xix), (xx), (xxi), (xxii), (xxiii) , (xxv) , (xxvi) , (xxvii) , (xxviii) , (xxix) , (xxx), (xxxi) or (xxxii) of paragraph (a) of this subsection until the period for making an appeal against—
 
 (i) the decision or recommendation, as appropriate, of the rights commissioner, or the decision of the adjudication officer under Part 4 of the Act of 2015,
 
