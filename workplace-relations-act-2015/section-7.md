@@ -1,6 +1,6 @@
 Offences
 
-7. (1) A person guilty of an offence (other than an offence under section 51) under this Act shall be liable—
+7. (1) A person guilty of an offence (other than an offence under section 41(12), 41(12A)(b) or 51) under this Act shall be liable—
 
 (a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months or both, or
 

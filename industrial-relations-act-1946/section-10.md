@@ -71,3 +71,5 @@ Establishment of the Labour Court.
 (11) An ordinary member shall not hold the office of trustee, treasurer, secretary or any other office in, or be a member of any committee of, a trade union, or hold any office or employment which would prevent him from being at all times available for the work of the Court.
 
 (12) A person shall not be appointed to be chairman or a member of the court unless he is ordinarily resident in the State.
+
+(13) The chairman and the ordinary members shall be independent in the performance of their functions.
