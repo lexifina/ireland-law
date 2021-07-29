@@ -42,7 +42,7 @@ Presentation of complaints and referral of disputes
 
 (i) the day of placement (within the meaning of that Act) or, in circumstances where no placement takes place, the date on which the employer receives the first notification of the adopting parent’s intention to take leave under that Act (whether adoptive leave or additional adoptive leave, within the meaning of that Act), or
 
-(ii) in the case of an adopting father, the date on which the adopting mother died,
+(ii) in the case of a surviving parent (within the meaning of that Act), the date on which the qualifying adopter (within the meaning of that Act) who was the spouse, civil partner or cohabitant, as the case may be, of the surviving parent died,
 
 (b) in the case of a dispute relating to the entitlement of an employee under the Carer’s Leave Act 2001, it has been referred to the Director General after the expiration of the period of 6 months beginning on the date of the contravention concerned,
 
@@ -70,7 +70,7 @@ Presentation of complaints and referral of disputes
 
 (ii) in the case of an employee to whom paragraph (b) of the definition of relevant parent within the meaning of that Act applies, the date on which the employer is informed that the expectant mother of the child concerned is pregnant, or
 
-(iii) in the case of a surviving parent within the meaning of that Act, the date on which the employer is informed that the relevant adopting parent within the meaning of that Act or mother of the child, as the case may be, has died, and
+(iii) in the case of a surviving parent within the meaning of that Act, the date on which the employer is informed that the qualifying adopter within the meaning of that Act or mother of the child, as the case may be, has died, and
 
 (g) in the case of a dispute relating to the entitlement of an employee under the Parent’s Leave and Benefit Act 2019, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute.
 
@@ -92,9 +92,19 @@ Presentation of complaints and referral of disputes
 
 (b) refuses to give evidence in proceedings to which the notice relates or fails or refuses to produce any document to which the notice relates, shall be guilty of an offence and shall be liable, on summary conviction, to a class E fine.
 
-(13) Proceedings under this section before an adjudication officer shall be conducted otherwise than in public.
+(12A) (a) An adjudication officer may require a person giving evidence in proceedings under this section to give such evidence on oath or affirmation and, for that purpose, cause to be administered an oath or affirmation to such person.
 
-(14) The Commission shall publish on the internet in such form and in such manner as it considers appropriate every decision (other than information that would identify the parties in relation to whom the decision was made) of an adjudication officer under this section.
+(b) A person who, in or for the purpose of proceedings under this section, gives a statement material in the proceedings while lawfully sworn as a witness that is false and that he or she knows to be false shall be guilty of an offence and shall be liable—
+
+(i) on summary conviction, to a class B fine or to imprisonment for a term not exceeding 12 months, or both, or
+
+(ii) on conviction on indictment, to a fine not exceeding €100,000 or imprisonment for a term not exceeding 10 years, or both.
+
+(13) Proceedings under this section shall be conducted in public unless the adjudication officer, of his or her own motion or upon the application by or on behalf of a party to the proceedings, determines that, due to the existence of special circumstances, the proceedings (or part thereof) should be conducted otherwise than in public.
+
+(14) (a) Subject to paragraph (b), the Commission shall publish on the internet in such form and in such manner as it considers appropriate every decision of an adjudication officer under this section.
+
+(b) In publishing a decision under paragraph (a), an adjudication officer may determine that, due to the existence of special circumstances, information that would identify the parties in relation to whom the decision was made should not be published by the Commission.
 
 (15) (a) In proceedings before an adjudication officer in respect of a complaint presented, or dispute referred, under this Part, the complainant or respondent to the complaint or dispute (including a complainant or such a respondent to whom paragraph (b) applies) may be accompanied and represented by—
 
