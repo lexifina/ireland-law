@@ -33,3 +33,5 @@ Deputy chairman of the Court.
 (6) No person shall be appointed to be a deputy chairman unless he is ordinarily resident in the State.
 
 (7) The Civil Service Regulation Acts 1956 to 2005 shall not apply to the office of deputy chairman of the Court.
+
+(8) A deputy chairman shall be independent in the performance of his or her functions.
