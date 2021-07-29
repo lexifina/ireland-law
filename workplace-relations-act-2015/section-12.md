@@ -2,7 +2,7 @@ Director General of Workplace Relations Commission
 
 12. (1) There shall be a chief executive officer of the Commission (in this Act referred to as the “Director General”).
 
-(2) The Director General (other than the Director General first appointed after the commencement of this section or a Director General appointed under subsection (5) ) shall be appointed by the Minister from among persons in respect of whom a recommendation for the purposes of this section has been made by the Public Appointments Service consequent upon the holding of a competition in accordance with the Act of 2004.
+(2) The Director General (other than the Director General first appointed after the commencement of this section or a Director General appointed under subsection (5)) shall be appointed by the Minister from among persons in respect of whom a recommendation for the purposes of this section has been made by the Public Appointments Service consequent upon the holding of a competition in accordance with the Act of 2004.
 
 (3) The Public Appointments Service shall, in relation to a competition referred to in subsection (2), not make a recommendation for the purposes of that subsection in respect of more than 3 persons.
 
