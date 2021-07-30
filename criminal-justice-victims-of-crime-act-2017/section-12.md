@@ -4,7 +4,9 @@ Complaints
 
 12. (1) Subject to subsection (2), a victim may be accompanied by a person or persons of his or her choice, including his or her legal representative, when making a complaint.
 
-(2) Where a member of the Garda Síochána or an officer of the Ombudsman Commission, as the case may be, reasonably believes that the presence of a person referred to in subsection (1), including a victim’s legal representative, would be contrary to the best interests of the victim or would prejudice any investigation or criminal proceedings regarding an alleged offence, the member or officer, as the case may be, may require that the person concerned absent himself or herself prior to the member or officer engaging further with the victim in respect of the complaint concerned.
+(2) Where a member of the Garda Síochána or an officer of the Ombudsman Commission, as the case may be, reasonably believes that the presence of a person referred to in subsection
+
+(1), including a victim’s legal representative, would be contrary to the best interests of the victim or would prejudice any investigation or criminal proceedings regarding an alleged offence, the member or officer, as the case may be, may require that the person concerned absent himself or herself prior to the member or officer engaging further with the victim in respect of the complaint concerned.
 
 (3) Where a member of the Garda Síochána or an officer of the Ombudsman Commission, as the case may be, decides to exclude a person from accompanying a victim pursuant to subsection (2), the member or officer, as the case may be, shall inform the victim that subsection (1) continues to apply and he or she may be accompanied by another person under that subsection and may make such arrangements as are necessary to be so accompanied.
 
