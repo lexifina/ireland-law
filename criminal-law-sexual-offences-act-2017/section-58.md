@@ -36,9 +36,11 @@ Commission of another offence specified in Schedule within specified period
 
 (a) remanded in custody,
 
-(b) serving a sentence in prison, or
+(b) serving a sentence in prison,
 
-(c) temporarily released under section 2 of the Criminal Justice Act 1960.
+(c) temporarily released under section 2 of the Criminal Justice Act 1960, or
+
+(d) released on parole within the meaning of the Parole Act 2019.
 
 (8) References in this section to the subsequent offence shall include references to a second or subsequent offence specified in the Schedule of which a person (other than a person under the age of 18 years) is convicted on indictment during the specified period.
 

@@ -52,10 +52,20 @@ Absolute privilege.
 
 (v) made in the course of proceedings before an arbitral tribunal where the statement is connected with those proceedings,
 
-(w) made pursuant to and in accordance with an order of a court established by law in the State.
+(w) made pursuant to and in accordance with an order of a court established by law in the State, or
+
+(x) made in the course of the consideration by the Parole Board of—
+
+(i) an application for parole, or
+
+(ii) the variation or revocation of a parole order, where the statement is connected with that consideration, or
+
+(y) contained in a decision of the Parole Board, or a notification of such a decision, pursuant to the Parole Act 2019 or a parole order.
 
 (3) Section 2 of the Committees of the Houses of the Oireachtas (Privilege and Procedure) Act 1976 is amended by the insertion of the following subsection:
 
 “(3) In this section ‘utterance’ includes a statement within the meaning of the Defamation Act 2009 ;” .
 
 (4) A defence under this section shall be known as, and is referred to in this Act, as the “defence of absolute privilege”.
+
+(4) In this section, ‘application for parole’ and ‘parole order’ have the meanings they have in the Parole Act 2019.
