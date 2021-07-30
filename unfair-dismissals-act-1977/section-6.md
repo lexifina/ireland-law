@@ -22,7 +22,7 @@ Unfair dismissal.
 
 (d) criminal proceedings against the employer, whether actual, threatened or proposed, in relation to which the employee has made, proposed or threatened to make a complaint or statement to the prosecuting authority or to any other authority connected with or involved in the prosecution of the proceedings or in which the employee was or is likely to be a witness,
 
-(dd) the exercise or proposed exercise by the employee of the right to parental leave, force majeure leave under and in accordance with the Parental Leave Act, 1998, or carer’s leave under and in accordance with the Carer’s Leave Act, 2001,
+(dd) the exercise or proposed exercise by the employee of the right to parental leave, force majeure leave , leave for medical care purposes, domestic violence leave or a request for a flexible working arrangement under and in accordance with the Parental Leave Act, 1998, or carer’s leave under and in accordance with the Carer’s Leave Act, 2001,
 
 (e) the race, colour or sexual orientation of the employee,
 
@@ -40,11 +40,11 @@ Unfair dismissal.
 
 (j) the exercise or proposed exercise by the employee of the right under the Parent’s Leave and Benefit Act 2019 to parent’s leave or transferred parent’s leave within the meaning of that Act.
 
-(2A) Sections 3 and 4 of this Act do not apply to a case falling within paragraph (f), (g) (h), (i) or (j) of subsection (2) of this section and, for the purposes of those paragraphs, ‘employee’ and ‘adopting parent’ include a person who would otherwise be excluded from this Act by paragraph (a), (c), (f) or (g) of section 2 (1) of this Act.
+(2A) Sections 3 and 4 of this Act do not apply to a case falling within paragraph (f), (g) (h), (i) or (j) of subsection (2) of this section and, for the purposes of those paragraphs, "employee" and "adopting parent" include a person who would otherwise be excluded from this Act by paragraph (a), (c), (f) or (g) of section 2 (1) of this Act.
 
-(2B) Sections 3 and 4 do not apply to a case falling within subsection (2)(dd) and, for the purpose of that paragraph, ‘employee’ includes a person who would otherwise be excluded from this Act by paragraph (a), (c), (f) or (g) of section 2(1).
+(2B) Sections 3 and 4 do not apply to a case falling within subsection (2)(dd) and, for the purpose of that paragraph, "employee" includes a person who would otherwise be excluded from this Act by paragraph (a), (c), (f) or (g) of section 2(1).
 
-(2C) Sections 3 and 4 do not apply to a case falling within subsection (2)(dd) and, for the purpose of that paragraph, ‘employee’ includes a person who would otherwise be excluded from this Act by paragraph (a), (b), (c), (d), (e), (f), (g), (h), (i) or (j) of section 2(1).
+(2C) Sections 3 and 4 do not apply to a case falling within subsection (2)(dd) and, for the purpose of that paragraph, "employee" includes a person who would otherwise be excluded from this Act by paragraph (a), (b), (c), (d), (e), (f), (g), (h), (i) or (j) of section 2(1).
 
 (2D) Sections 3 and 4 do not apply to a case falling within paragraph (ba) of subsection (2) and that paragraph applies to a person who would otherwise be excluded from this Act by any of paragraphs (a) to (c) and (e) to (k) of section 2(1).
 
