@@ -76,7 +76,11 @@ Information regarding investigations and criminal proceedings
 
 (iv) any escape by the person from custody and any measures which are put in place for the victim’s protection as a result of such escape,
 
-(v) the death of the person concerned while in custody or on temporary release from prison under section 2 or 3 of the Act of 1960;
+(iva) any application for parole by the person,
+
+(ivb) any release of the person on parole and any conditions attaching to such release which relate to the victim, and
+
+(v) the death of the person concerned while in custody, on temporary release from prison under section 2 or 3 of the Act of 1960 or on parole;
 
 (n) where, pursuant to section 4(3)(b), 4(5)(c)(i), 4(6)(a), 5(2) or 5(3) of the Act of 2006, a person is committed to a designated centre by a court, other than a court martial, information regarding—
 
@@ -135,3 +139,5 @@ Information regarding investigations and criminal proceedings
 (7) Details of a request or an amended request and information which is the subject of the request or the amended request may only be transferred between the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, a children detention school or a designated centre, as the case may be, for the purposes of providing information which is the subject of the request concerned to the victim and shall not be used for any other purpose.
 
 (8) Subsections (6) and (7) are without prejudice to any power or duty which the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre may have to provide information to each other under any other enactment or rule of law.
+
+(9) In this section, ‘application for parole’ and ‘parole’ have the meanings they have in the Parole Act 2019.
