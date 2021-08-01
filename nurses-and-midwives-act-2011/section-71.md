@@ -8,4 +8,4 @@ Duty to notify registered nurse or midwife of Board’s sanction.
 
 (c) the reasons for the imposition of the sanction.
 
-(2) Where the Board has decided to impose a sanction on a registered nurse or registered midwife other than a sanction referred to in section 69(1)(a) or (2), the Board shall ensure that the notice under subsection (1) is accompanied by a copy of section 73 (and, if section 55(6)(a) is applicable, a copy of section 55).
+(2) Where the Board has decided to impose a sanction on a registered nurse or registered midwife (other than a sanction arising from measures referred to in section 69(2)), the Board shall give notice in writing to the nurse or midwife of the nurse’s or midwife’s entitlement, under section 73, to appeal to the Court against the decision.
