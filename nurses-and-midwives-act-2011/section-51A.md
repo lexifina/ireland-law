@@ -1,3 +1,3 @@
 Board may refuse to register on ground that nurse, etc., is not fit and proper person to practise nursing, etc.
 
-51A. — ...
+51A. Nothing in sections 48 to 51 shall operate to prevent the Board from refusing to register or restore the registration of a nurse, midwife or candidate on the ground that he or she is not a fit and proper person to practise nursing or midwifery in the State (including where the Board is of the view that such nurse, midwife or candidate is not so fit and proper based on a relevant finding of a disciplinary body, court or tribunal, whether in the State or in another jurisdiction).

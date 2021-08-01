@@ -1,33 +1,41 @@
 Refusal of registration, etc., and appeal to Court against Board’s decision.
 
-52.— (1) Nothing in sections 48 to 51 shall operate to prevent the Board from refusing to register or restore the registration of a person on the grounds of the unfitness of the person to practise nursing or midwifery, including where the Board is of the view that the person is unfit based on a relevant finding of a disciplinary body, court or tribunal, whether in the State or in another jurisdiction.
+52. (1) In this section, ‘relevant decision’ means a decision of the Board to—
 
-(2) Where the Board makes a decision—
+(a) refuse to recognise a qualification held by a nurse or midwife as a qualification he or she is entitled to have registered under this Act,
 
-(a) under subsection (1) to refuse to register or restore the registration of a person,
+(b) register a nurse or midwife in a division of the register of nurses and midwives other than the division specified in the application under section 48 for registration,
 
-(b) to register a nurse or midwife in a division of the register of nurses and midwives other than the division specified in the application under section 48 for registration, or
+(c) attach conditions to the registration of a nurse or midwife pursuant to section 51, or
 
-(c) to attach conditions to the registration of a nurse or midwife pursuant to section 51, the Board shall forthwith give notice in writing to the person of the decision, the date of the decision and the reasons for the decision.
+(d) refuse to register or restore the registration of a nurse or midwife pursuant to section 51A.
 
-(3) A person the subject of a decision referred to in subsection (2) may, not later than 3 months after the date on which the person was given notice of the decision pursuant to that subsection, appeal to the Court against the decision.
+(2) Where the Board makes a relevant decision, the Board shall forthwith give notice in writing to the person, the subject of the decision, of the decision, the date of the decision and the reasons for the decision.
 
-(4) The Court may, on the hearing of an appeal under subsection (3)—
+(3) The person the subject of a relevant decision may, not later than 3 months after the date on which the person was given notice of the decision pursuant to that subsection, appeal to the Court against the decision.
+
+(4) The Court may, on the hearing of an appeal under subsection (3) by a person—
 
 (a) either—
 
-(i) confirm the decision the subject of the appeal, or
+(i) confirm the relevant decision the subject of the appeal, or
 
-(ii) quash that decision and substitute such other decision as that court considers appropriate, which may be a decision—
+(ii) cancel that decision and substitute such other decision as the Court considers appropriate, which may be a decision to—
 
-(I) to register or restore the registration of the person in such division of the register of nurses and midwives as that court considers appropriate and with no conditions attached to the registration, or
+(I) recognise a qualification held by the person as a qualification he or she is entitled to have registered under this Act,
 
-(II) to register or restore the registration of the person—
+(II) register or restore the registration of the person in such division of the register of nurses and midwives as the Court considers appropriate and with no conditions attached to the registration,
 
-(A) in such division of the register of nurses and midwives as that court considers appropriate, and
+(III) register or restore the registration of the person—
 
-(B) with such conditions attached to that registration as that court considers appropriate, and
+(A) in such division of the register of nurses and midwives as the Court considers appropriate, and
 
-(b) give the Board such directions as that court considers appropriate and direct how the costs of the appeal are to be borne.
+(B) with such conditions attached to the registration as the Court considers appropriate,
+
+(IV) remove some or all, or replace some or all, of the conditions attached to the registration of the person, or
+
+(V) require the Board to reconsider the decision in accordance with such directions as are given to the Board for the purposes of that reconsideration, and
+
+(b) give the Board such directions or, in the case of paragraph (a)(ii)(V), such further directions as the Court considers appropriate and direct how the costs of the appeal are to be borne.
 
 (5) The Board shall, on complying with a direction given by the Court under subsection (4), give notice in writing to the nurse or midwife concerned of the Board’s compliance with the direction.

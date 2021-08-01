@@ -22,7 +22,13 @@ Board’s power to make rules.
 
 (g) the receiving of submissions by the Preliminary Proceedings Committee or the Fitness to Practise Committee,
 
-(h) the establishment, membership, functions and procedures of subcommittees of committees including, in the case of the Fitness to Practise Committee, subcommittees inquiring, on behalf of that Committee, into different grounds founding a complaint,
+(h) subject to subsection (3A), the establishment, membership, functions and procedures of subcommittees of committees, including—
+
+(i) in the case of the Preliminary Proceedings Committee, subcommittees to give initial consideration to complaints on behalf of that Committee, and
+
+(ii) in the case of the Fitness to Practise Committee, subcommittees inquiring, on behalf of that Committee, into complaints referred to that Committee,
+
+(ha) the recognition of a qualification held by a person,
 
 (i) the register of nurses and midwives and the candidate register, and the divisions of those registers, including the setting of criteria relating to—
 
@@ -67,6 +73,12 @@ Board’s power to make rules.
 (a) the form in which and the means by which evidence or submissions may be received by the Preliminary Proceedings Committee or the Fitness to Practise Committee, and
 
 (b) the conditions subject to which evidence or submissions may be received by the Preliminary Proceedings Committee or the Fitness to Practise Committee, by means of a live video link, a video recording, a sound recording or any other mode of transmission.
+
+(3A) Without prejudice to the generality of subsection (2)(h), rules made under that subsection may provide that—
+
+(a) the chairperson of the Preliminary Proceedings Committee, or such other member of that Committee who is authorised by the rules to do so, may establish, in accordance with the rules, a subcommittee referred to in subsection (2)(h)(i), or
+
+(b) the chairperson of the Fitness to Practise Committee, or such other member of that Committee who is authorised by the rules to do so, may establish, in accordance with the rules, a subcommittee referred to in subsection (2)(h)(ii).
 
 (4) The Board shall ensure that—
 

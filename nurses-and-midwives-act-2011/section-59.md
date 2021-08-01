@@ -4,7 +4,7 @@ No further action, or referral of complaint to another body or authority, etc.
 
 (a) there is not sufficient cause to warrant further action being taken in relation to the complaint,
 
-(b) the complaint should be referred to another body or authority or to a professional competence scheme, or
+(b) the complaint should be referred to another body or authority ..., or
 
 (c) the complaint is one that could be resolved by mediation or other informal means pursuant to guidelines prepared under section 60(1), it shall inform the Board of that opinion.
 
@@ -12,11 +12,11 @@ No further action, or referral of complaint to another body or authority, etc.
 
 (a) decide that no further action is to be taken in relation to the complaint;
 
-(b) direct the Preliminary Proceedings Committee to refer the complainant to another body or authority;
+(b) direct the Preliminary Proceedings Committee to refer the complaint to another body or authority;
 
 (c) refer information in relation to the complaint in accordance with a co-operation agreement entered into under section 15;
 
-(d) refer the complaint to a professional competence scheme;
+(d) refer the nurse or midwife the subject of the complaint to a professional competence scheme;
 
 (e) refer the complaint for resolution by mediation or other informal means; or
 

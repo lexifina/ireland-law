@@ -28,7 +28,7 @@ Committees of Board.
 
 (a) registered nurses and registered midwives with relevant medical disabilities, and
 
-(b) registered nurses and registered midwives who have given consents under section 65(1)(d).
+(b) registered nurses and registered midwives who have given consents under section 57A(1)(d) or 65(1)(d).
 
 (6) Subject to subsections (3) and (7) to (12), a committee may include in its membership persons who are not members of the Board.
 
@@ -40,11 +40,13 @@ Committees of Board.
 
 (10) At least one third of the members of the Fitness to Practise Committee, including the chairperson, shall, at the time of appointment, be members of the Board, and the majority of the membership of that committee shall consist of persons who are not and never have been registered nurses or registered midwives in the State or nurses or midwives in another jurisdiction.
 
-(11) Subject to subsections (9) and (10)—
+(11) Subject to subsections (9), (10) and (11A)—
 
 (a) there shall be at least one nurse and one midwife on each of the Preliminary Proceedings Committee and the Fitness to Practise Committee, and
 
 (b) at least one third of the membership of each of the Preliminary Proceedings Committee and the Fitness to Practise Committee shall consist of persons who are either registered nurses or registered midwives.
+
+(11A) Paragraph (a) of subsection (11) shall not apply to the Fitness to Practise Committee except in relation to the Committee’s inquiry into a complaint the hearing of which under section 63 has commenced before the date of coming into operation of section 146 of the Regulated Professions (Health and Social Care) (Amendment) Act 2020.
 
 (12) A member of a committee established under this section shall serve on the committee on such terms (including term of office, removal and resignation) as the Board determines.
 
@@ -71,3 +73,9 @@ Committees of Board.
 (b) the committee of which they are members, shall have the same protection and immunity as a judge of the Court performing the functions of a judge.
 
 (19) Where the Board establishes a subcommittee of any committee established under this section, that subcommittee may perform any of the functions of the committee concerned as if it were that committee, and every reference in this Act to that committee shall, unless the context otherwise requires, be construed as including a reference to that subcommittee.
+
+(20) (a) Subject to paragraph (c), where a subcommittee of the Preliminary Proceedings Committee is established pursuant to rules made under section 13, that subcommittee may perform any of the functions of that Committee, and every reference in this Act to the Preliminary Proceedings Committee shall, unless the context otherwise requires, be construed as including a reference to that subcommittee.
+
+(b) Subject to paragraph (c), where a subcommittee of the Fitness to Practise Committee is established pursuant to rules made under section 13, that subcommittee may perform any of the functions of that Committee, and every reference in this Act to the Fitness to Practise Committee shall, unless the context otherwise requires, be construed as including a reference to that subcommittee.
+
+(c) Neither paragraph (a) nor (b) shall be construed as entitling a subcommittee referred to in that paragraph to itself establish a subcommittee.

@@ -18,6 +18,8 @@ Privilege.
 
 (ii) the Board pursuant to any of Parts 7, 8 and 9 in performing a function of the Board.
 
+(1A) In any action for defamation, the proceedings, reports and communications of the chief executive officer under any of Parts 7, 8 and 9 are absolutely privileged.
+
 (2) Subject to subsection (4), a document which relates to a nurse’s or midwife’s participation in a professional competence scheme, to the extent that it does so relate, shall not be admitted in evidence (whether by discovery or otherwise) in any civil proceedings except with the consent of the nurse or midwife concerned (in this section referred to as the “relevant consent”).
 
 (3) No witness in any civil proceedings shall be obliged or permitted to disclose, in the absence of the relevant consent—

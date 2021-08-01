@@ -10,7 +10,7 @@ Duties of Board in relation to education and training of nurses and midwives.
 
 (a) after it has consulted with the Minister for Education and Skills, and in accordance with the relevant criteria specified in the rules—
 
-(i) approve, approve subject to conditions attached to the approval of, amend or remove conditions attached to the approval of, or withdraw the approval for, such programmes, and bodies which may deliver such programmes, or
+(i) where appropriate, approve, approve subject to conditions attached to the approval of, amend or remove conditions attached to the approval of, or withdraw the approval for, such programmes, and bodies which may deliver such programmes, or
 
 (ii) refuse to approve a body as a body which may deliver such programmes,
 

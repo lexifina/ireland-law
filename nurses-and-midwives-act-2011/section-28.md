@@ -2,7 +2,9 @@ Chief executive officer.
 
 28.— (1) Subject to subsection (4)(a), the Board shall appoint a person recruited in accordance with the Public Service Management (Recruitment and Appointments) Act 2004 to be the chief executive officer to—
 
-(a) carry on and manage and control generally the administration of the Board and the business of the Board, and
+(a) carry on and manage and control generally the administration of the Board and the business of the Board,
+
+(aa) investigate complaints, and,
 
 (b) perform any other functions that may be delegated by the Board.
 
@@ -28,4 +30,8 @@ Chief executive officer.
 
 (6) In the performance of the duties of the chief executive officer under subsection (5), the chief executive officer shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
 
-(7) If the chief executive officer is absent or the position of chief executive officer is vacant, the functions of the chief executive officer under this section may be performed by an employee of the Board designated by the Board.
+(7) If the chief executive officer is absent or the position of chief executive officer is vacant, the functions of the chief executive officer may be performed, by an employee of the Board designated by the Board, for a period of not more than 6 months in any year as specified by the Board or such further period as specified by the Board with the consent of the Minister.
+
+(8) The chief executive officer may delegate in writing any of his or her functions to a specified member of staff of the Board, and that member of staff shall be accountable to the chief executive officer for the performance of the functions so delegated.
+
+(9) The chief executive officer may revoke in writing a delegation made in accordance with this section.

@@ -1,6 +1,6 @@
 If registered nurse or registered midwife consents to censure or remedial action, etc.
 
-65.— (1) The Fitness to Practise Committee may, at any time after a complaint is referred to it, request, with the agreement of the Board, the registered nurse or registered midwife the subject of the complaint to do one or more than one of the following:
+65.— (1) The Fitness to Practise Committee may, at any time after a complaint is referred to it, request ... the registered nurse or registered midwife the subject of the complaint to do one or more than one of the following:
 
 (a) if appropriate, undertake to not repeat the conduct the subject of the complaint;
 
