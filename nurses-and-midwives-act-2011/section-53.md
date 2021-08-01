@@ -16,12 +16,6 @@ Correction of registers.
 
 (6) A registered nurse or registered midwife shall give notice in writing to the Board of any material matter which would be likely to affect the continuation of the nurse’s or midwife’s registration not later than 30 days after that matter comes to his or her knowledge.
 
-(7) In subsection (6), “material matter”, in relation to a registered nurse or registered midwife, includes—
-
-(a) the imposition of conditions on any registration or licence,
-
-(b) the suspension, withdrawal or removal of any registration or licence, or
-
-(c) the refusal to grant registration or a licence, in relation to any regulatory body in or outside the State, and any medical incapacity of the nurse or midwife, and includes any conviction of a criminal nature whether imposed in the State or in another jurisdiction.
+(7) ...
 
 (8) Failure to notify the Board as required by subsection (6) shall be sufficient grounds for the Board to make a complaint to the Preliminary Proceedings Committee under this Act.

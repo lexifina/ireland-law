@@ -2,7 +2,7 @@
 
 Complaints concerning registered nurses and registered midwives.
 
-55.— (1) A person (including the Board) may make a complaint to the Preliminary Proceedings Committee concerning a registered nurse or registered midwife on one or more than one of the grounds of—
+55.— (1) A person (including the Board) may make a complaint to the chief executive officer concerning a registered nurse or registered midwife on one or more than one of the grounds of—
 
 (a) professional misconduct,
 
@@ -14,7 +14,13 @@ Complaints concerning registered nurses and registered midwives.
 
 (e) a failure to comply with a relevant condition,
 
-(f) a failure to comply with an undertaking or to take any action specified in a consent given in response to a request under section 65(1),
+(ea) the imposition on the nurse or midwife of—
+
+(i) a prohibition against him or her providing one or more than one kind of health or social care in the State or another jurisdiction, or
+
+(ii) a restriction on his or her ability to provide one or more than one kind of health or social care in the State or another jurisdiction,
+
+(f) a failure to comply with an undertaking or to take any action specified in a consent given in response to a request under section 57A(1) or 65(1),
 
 (g) a contravention of a provision of this Act (including a provision of any regulations or rules made under this Act),
 
@@ -26,27 +32,41 @@ Complaints concerning registered nurses and registered midwives.
 
 (2) A complaint may be made on the grounds of professional misconduct or poor professional performance notwithstanding that the matter to which the complaint relates occurred outside the State.
 
-(3) The Preliminary Proceedings Committee shall make reasonable efforts to ensure that—
+(2A) ...
 
-(a) the complainant is kept informed of all decisions made under this Part and, if applicable, Parts 8 and 9 by the Committee, any other committee, or the Board, in relation to the complaint concerned,
+(2B) Subject to subsection (2C), where the chief executive officer receives a complaint, he or she shall comply with section 56A in respect of the complaint unless
 
-(b) the Committee acts expeditiously, and
+(a) he or she is satisfied that the complaint is not made in good faith, or
+
+(b) he or she is satisfied that the complaint is frivolous or vexatious.
+
+(2C) Subsection (2B) shall not apply to a complaint where the Board is the complainant.
+
+(2D) Where the chief executive officer decides that a complaint falls within subsection (2B)(a) or (b), he or she shall give notice in writing to the complainant (and, if the chief executive officer is of the opinion that it is in the interests of the complainant, or the registered nurse or registered midwife to whom the complaint relates, or of both, to do so, to such nurse or midwife) of the decision and the reasons for the decision.
+
+(3) The chief executive officer shall make reasonable efforts to ensure that—
+
+(a) the complainant is kept informed of all decisions made under this Part and, if applicable, Parts 8 and 9 by the chief executive officer, the Preliminary Proceedings Committee, any other committee, or the Board, in relation to the complaint concerned,
+
+(b) the authorised officers act expeditiously, and,
 
 (c) complaints are processed in a timely manner.
 
-(4) The Preliminary Proceedings Committee may use the services of a person appointed under section 56 in relation to the investigation of a complaint.
+(3A) The chief executive officer may, in relation to the complaint concerned, inform, in addition to the complainant, other parties to the proceedings under this Act concerning the complaint, of the decisions referred to in subsection (3)(a).
 
-(5) Where a complaint falls within subsection (1)(i), the Preliminary Proceedings Committee shall immediately refer the complaint to the Board.
+(4) ...
+
+(5) Where a complaint falls within subsection (1)(i), the chief executive officer shall immediately refer the complaint to the Board.
 
 (6) The Board shall consider a complaint referred to it under subsection (5) and—
 
 (a) if it is of the opinion that—
 
-(i) the nature of the offence that is the subject of the complaint or the circumstances in which the offence was committed render the nurse or midwife permanently unfit to continue to practise nursing or midwifery, and
+(i) the nature of the offence that is the subject of the complaint or the circumstances in which the offence was committed render the nurse or midwife a person who has permanently ceased to be a fit and proper person to continue to practise nursing or midwifery in the State, and
 
 (ii) it is in the public interest that it take action immediately under this paragraph, the Board shall decide under section 69(1) to cancel the nurse’s or midwife’s registration under section 69(1)(f), and
 
-(b) in any other case, the Board shall refer the complaint back to the Preliminary Proceedings Committee and direct the Committee to deal with the complaint as if the complaint had never been so referred.
+(b) in any other case, the Board shall refer the complaint back to the chief executive officer and direct that officer to deal with the complaint as if the complaint had never been so referred.
 
 (7) Nothing in subsection (6) shall be construed to—
 
@@ -54,6 +74,8 @@ Complaints concerning registered nurses and registered midwives.
 
 (b) limit the range of the measures which the Board may decide to take under section 69 with regard to a registered nurse or registered midwife in any case where the Board has taken the action referred to in subsection (6)(b).
 
-(8) The Preliminary Proceedings Committee shall refuse to consider or further consider a complaint in respect of a matter which occurred before the repeal of section 38 of the Act of 1985 by section 4 if the matter was the subject of an application under Part V of the Act of 1985.
+(8) The chief executive officer shall refuse to consider or further consider a complaint in respect of a matter which occurred before the repeal of section 38 of the Act of 1985 by section 4 if the matter was the subject of an application under Part V of the Act of 1985.
+
+(8A) A complaint made before the commencement of section 159 of the Regulated Professions (Health and Social Care) (Amendment) Act 2020 which has not been disposed of or otherwise dealt with under this Act before that commencement shall be disposed of or otherwise dealt with under this Act as this Act was in force immediately before that commencement.
 
 (9) A complaint is a protected disclosure under the Health Act 2004 (as amended by the Health Act 2007).

@@ -4,6 +4,8 @@ Fees that Board may charge.
 
 (a) the registration of a person in the register of nurses and midwives or a division of the register of nurses and midwives,
 
+(aa) the recognition of a qualification held by a person,
+
 (b) the annual retention of the registration of a person,
 
 (c) the restoration of the registration of the name of a person,

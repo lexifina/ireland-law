@@ -27,3 +27,5 @@ Disciplinary committees.
 (10) The registered medical practitioner must be present at the meetings of that committee, but may not vote.
 
 (11) The registered medical practitioner has, when advising that committee, the same protections and immunities as a judge of the High Court.
+
+(12) In this section, references to a pharmacy owner include references to a registered pharmacist who is a director of, or a shareholder in, a corporate body which carries on a retail pharmacy business.

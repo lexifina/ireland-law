@@ -12,6 +12,8 @@ Power to specify forms.
 
 (b) specify 2 or more forms of any document referred to in that subsection, whether as alternatives, or to provide for particular circumstances or particular cases, as the relevant body thinks fit.
 
+(2A) The relevant body’s power under subsection (1) may be exercised in such a way as to include in the specified form of any document a statement requiring the person completing the form to verify any particulars contained in the form, or contained in any document accompanying the form, in such manner as is specified in the form.
+
 (3) A form specified under this section shall be—
 
 (a) completed in accordance with such directions and instructions as are specified in the form,
@@ -30,7 +32,7 @@ Power to specify forms.
 
 (a) specify a form to be completed by a registered nurse or registered midwife, or a person who wishes to practise nursing or midwifery, in connection with the payment by the nurse or midwife of any fee determined under section 38(1),
 
-(b) in that form, require the registered nurse or registered midwife to supply the Board with such information that the nurse or midwife would have to supply the Board if he or she were not registered but were seeking registration (including information about any relevant medical disability).
+(b) in that form, require the registered nurse or registered midwife to supply the Board with such information that the nurse or midwife would have to supply the Board if he or she were not registered but were seeking registration (including information about any relevant medical disability or material matter).
 
 (5) In this section, “relevant body” means—
 

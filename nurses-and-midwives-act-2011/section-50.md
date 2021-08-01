@@ -12,9 +12,9 @@ Application to have registration removed, etc.
 
 (ii) a complaint which has not been disposed of or otherwise dealt with under Part 7 and, if applicable, Parts 8 and 9, or
 
-(b) the nurse or midwife has been convicted in the State of an offence triable on indictment or has been convicted outside the State of an offence consisting of acts or omissions which would constitute an offence triable on indictment if done or made in the State, then the Board shall not consider the application until such time as the Board has decided whether or not the nurse’s or midwife’s registration should be removed (including cancelled) pursuant to another provision of this Act.
+(b) the nurse or midwife has been convicted in the State of an offence triable on indictment or has been convicted outside the State of an offence consisting of acts or omissions which would constitute an offence triable on indictment if done or made in the State, the Board may consider such an application if the Board is satisfied that the removal of the nurse’s or midwife’s registration would not be contrary to the public interest,
 
-(4) A nurse or midwife whose registration has been removed pursuant to subsection (2) may make an application in accordance with the rules, accompanied by the appropriate fee, to the Board to have the nurse’s or midwife’s registration restored to the register of nurses and midwives or the division of that register concerned.
+(4) A nurse or midwife whose registration has been removed pursuant to subsection (2) may make an application in accordance with the rules, accompanied by the appropriate fee, to the Board to have the nurse’s or midwife’s registration restored , otherwise than where the removal of the registration was effected (whether in whole or in part) on the ground that the removal would not be contrary to the public interest as referred to in subsection (3), to the register of nurses and midwives or the division of that register concerned.
 
 (5) The Board shall determine an application under subsection (4) from a nurse or midwife by restoring the registration to the register of nurses and midwives or the division of that register and may impose conditions in accordance with the rules.
 

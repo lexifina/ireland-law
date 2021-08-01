@@ -14,6 +14,6 @@ Provisions supplementary to section 69.
 
 (2) The Board shall not decide under section 69 to impose the sanction referred to in section 69(1)(f) on a registered nurse or registered midwife on the grounds of a conviction for an offence referred to in section 55(1)(i) unless—
 
-(a) in the Board’s opinion, the nature of the offence or the circumstances in which it was committed render the nurse or midwife unfit to continue to practise nursing or midwifery, as the case may be, or
+(a) in the Board’s opinion, the nature of the offence or the circumstances in which it was committed render the nurse or midwife a person who is not a fit and proper person to practise nursing or midwifery, as the case may be, or
 
 (b) a conviction for such offence would render a person unable to be registered under this Act.
