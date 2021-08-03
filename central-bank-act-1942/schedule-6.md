@@ -56,9 +56,7 @@ FINANCIAL SERVICES OMBUDSMAN COUNCIL
 
 9.—(1) A decision supported by a majority of the votes cast at a meeting of the Council at which a quorum is present is the decision of the Council.
 
-(2) If the votes are equal on a motion put at a meeting of the Council, the person who is presiding at the meeting has a casting as well as a deliberative vote.
-
-10.—(1) The Council may, if it thinks fit, transact any of its business by the circulation of papers among all its existing members. A resolution approved in writing by a majority of those members is taken to be a decision of the Council.
+(2) If the votes are equal on a motion put at a meeting of the Council, the person who is presiding at the meeting has a casting as well as a deliberative vote. 10.—(1) The Council may, if it thinks fit, transact any of its business by the circulation of papers among all its existing members. A resolution approved in writing by a majority of those members is taken to be a decision of the Council.
 
 (2) The Council may, if it thinks fit, transact any of its business at a meeting at which its members (or some of its members) participate by telephone, closed circuit television or other means, but only if any member who speaks on a matter being considered by the meeting can be heard by the other members. For the purposes of—
 

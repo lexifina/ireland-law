@@ -12,9 +12,7 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 2.—(1) Subject to Part VIIA of this Act and to this Schedule, a member holds office for 5 years.
 
-(2) A member is eligible for re-appointment, but may not hold office for more than three consecutive terms of 5 years.
-
-3.—A member is required to take an oath before performing the functions of the member’s office. The regulations may make provision for the oaths that are to be taken by members.
+(2) A member is eligible for re-appointment, but may not hold office for more than three consecutive terms of 5 years. 3.—A member is required to take an oath before performing the functions of the member’s office. The regulations may make provision for the oaths that are to be taken by members.
 
 4.—A member has as such the same protection and immunities as a Judge of the High Court.
 
@@ -70,7 +68,9 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 8.—(1) Even though a person’s term of office as a member has come to an end, the person may finish or otherwise continue to deal with any matters relating to proceedings before the Appeals Tribunal that have been heard or partly heard (or were otherwise the subject of deliberations) by the person before the end of that term.
 
-(2) While finishing or otherwise dealing with matters referred to in subparagraph (1), the person is taken to have and may exercise all the rights and functions of a member that the person had immediately before the end of his or her term of office. 9.—(1) In this paragraph—
+(2) While finishing or otherwise dealing with matters referred to in subparagraph (1), the person is taken to have and may exercise all the rights and functions of a member that the person had immediately before the end of his or her term of office.
+
+9.—(1) In this paragraph—
 
 ‘eligible member’ means a member who, immediately before being appointed to the Appeals Tribunal, was a civil servant or an officer or employee of a public authority declared by an enactment or other law to be an authority to which this paragraph applies;
 
