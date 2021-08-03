@@ -64,7 +64,7 @@ Money laundering and terrorist offences
 
 Theft and fraud offences, etc.
 
-23. An offence under section 4, 6, 7, 9, 10, 11, 15, 17, 18, 25, 26, 27, 28, 29, 33, 34, 35, 36, 37, 38, 42, 43, 44, 45 or 51 of the Criminal Justice (Theft and Fraud Offences) Act 2001.
+23. An offence under section 4, 6, 7, 9, 10, 11, 15, 17, 18, 25, 26, 27, 28, 29, 33, 34, 35, 36, 37, 38, 38A, 42, 42A, 43, 44, 45 or 51 of the Criminal Justice (Theft and Fraud Offences) Act 2001.
 
 24. Conspiracy to defraud at common law.
 
@@ -92,6 +92,8 @@ Criminal damage to property offences
 
 (b) in so far as the offence relates to data (within the meaning of the Criminal Damage Act 1991 as that Act was in force before that commencement) or a storage medium in which such data are kept.
 
-30A. An offence under section 2, 3, 4, 5 or 6 of the Criminal Justice (Offences Relating to Information Systems) Act 2017 in so far as the offence relates to data (within the meaning of that Act). Competition offence
+30A. An offence under section 2, 3, 4, 5 or 6 of the Criminal Justice (Offences Relating to Information Systems) Act 2017 in so far as the offence relates to data (within the meaning of that Act).
+
+Competition offence
 
 31. An offence under section 6 of the Competition Act 2002, that is an offence involving an agreement, decision or concerted practice to which subsection (2) of that section applies.

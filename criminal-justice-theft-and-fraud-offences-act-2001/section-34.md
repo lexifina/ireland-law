@@ -8,8 +8,10 @@ Passing, etc. counterfeit currency notes or coins.
 
 (2) A person who, without lawful authority or excuse, delivers to another person anything which is, and which he or she knows or believes to be, a counterfeit of a currency note or coin is guilty of an offence.
 
+(2A) A person who receives, obtains or transports anything which is, and which he or she knows or believes to be, a counterfeit of a currency note or coin with the intention that he or she or another shall pass or tender it as genuine is guilty of an offence.
+
 (3) A person guilty of an offence under this section is liable on conviction on indictment to a fine or imprisonment for a term not exceeding—
 
 (a) in the case of an offence under subsection (1), 10 years, or
 
-(b) in the case of an offence under subsection (2), 5 years, or both.
+(b) in the case of an offence under subsection (2) or (2A), 5 years, or both.
