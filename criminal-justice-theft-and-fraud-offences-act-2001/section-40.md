@@ -14,7 +14,9 @@ Interpretation (Part 6).
 
 ‘misappropriation’ has the same meaning as it has in Article 4(3) of the Directive;
 
-‘money laundering offence’ means an offence under Part 2 of the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010; ‘national official’, for the purposes of the application of Article 4(4)(a) of the Directive, means an Irish official within the meaning of section 2(1) of the Act of 2018;
+‘money laundering offence’ means an offence under Part 2 of the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010;
+
+‘national official’, for the purposes of the application of Article 4(4)(a) of the Directive, means an Irish official within the meaning of section 2(1) of the Act of 2018;
 
 ‘public official’ means—
 
