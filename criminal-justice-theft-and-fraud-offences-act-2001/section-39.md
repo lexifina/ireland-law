@@ -2,27 +2,25 @@ Measures to detect counterfeiting.
 
 39.—(1) In this section—
 
-“designated body” means:
+‘credit institution’ means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012;
 
-(a) a body licensed to carry on banking business under the Central Bank Act, 1971, or authorised to carry on such business under the ACC Bank Acts, 1978 to 2001, or regulations under the European Communities Acts, 1972 to 1998,
+‘designated body’ means—
 
-(b) a building society within the meaning of the Building Societies Act, 1989,
+(a) a credit institution,
 
-(c) a trustee savings bank within the meaning of the Trustee Savings Banks Acts, 1989 and 2001,
+(b) within the limits of its payment activity, a payment service provider,
 
-(d) An Post,
+(c) An Post, and
 
-(e) a credit union within the meaning of the Credit Union Act, 1997,
+(d) any other person engaged in the processing and distribution to the public of currency notes or coins, or both, including—
 
-(f) a person or body authorised under the Central Bank Act, 1997, to provide bureau de change business,
+(i) a person whose activity consists of exchanging currency notes and coins of different currencies, including a person or body authorised under the Central Bank Act 1997 to carry on bureau de change business,
 
-(g) a person who in the course of business provides a service of sorting and redistributing currency notes or coins,
+(ii) a transporter of funds, and
 
-(h) any other person or body—
+(iii) a person who is engaged on a secondary basis in the processing and distribution to the public of currency notes via automated teller machines (ATMs), within the limit of that secondary basis;
 
-(i) whose business consists of or includes the provision of services involving the acceptance, exchange, transfer or holding of money for or on behalf of other persons or bodies, and
-
-(ii) who is designated for the purposes of this section by regulations made by the Minister after consultation with the Minister for Finance; and
+‘payment service provider’ means a person referred to in Regulation 6(1) of the European Union (Payment Services) Regulations 2018 ( S.I. No. 6 of 2018);
 
 “recognised code of practice” means a code of practice drawn up for the purposes of this section—
 
@@ -30,11 +28,17 @@ Measures to detect counterfeiting.
 
 (b) by the Central Bank of Ireland for a designated body or class of such bodies.
 
+‘transporter of funds’ has the same meaning as it has in Regulation (EC) No. 1338/2001 of 28 June 2001 laying down measures necessary for the protection of the euro against counterfeiting, as amended by Council Regulation (EC) No. 44/2009 of 18 December 2008;
+
+(1A) A reference in this section to a note or coin does not include a reference to a note or coin that is denominated, or purports to be denominated, in euro or in cent.
+
 (2) A designated body shall—
 
 (a) withdraw from circulation any notes or coins received by it or tendered to it which it knows or suspects to be counterfeit, and
 
 (b) transmit them as soon as possible to the Central Bank of Ireland with such information as to the time, location and circumstances of their receipt as may be available.
+
+8 OJ No. L 176, 27.06.2013, p.1
 
 (3) Counterfeit or suspect currency notes or coins may be transmitted to the Garda Síochána under subsection (2) in accordance with a recognised code of practice.
 
@@ -74,4 +78,4 @@ Measures to detect counterfeiting.
 
 (b) otherwise complies in good faith with subsection (2) or with a recognised code of practice, such disclosure or compliance shall not be treated as a breach of any restriction imposed by statute or otherwise on the disclosure of information or involve the person or body making the disclosure in liability in any proceedings.
 
-(8) Every regulation made under this section shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling it is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+(8) ...
