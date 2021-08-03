@@ -292,7 +292,15 @@ European Parliament and of the Council on prudential requirements for credit ins
 
 (az) Commission Delegated Regulation (EU) 2019/980 of 14 March 2019;
 
-(ba) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019.
+(ba) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019;
+
+(bb) Council Regulation (EC) No. 1338/2001 of 28 June 2001 laying down measures necessary for the protection of the euro against counterfeiting, as amended by Council Regulation (EC) No. 44/2009 of 18 December 2008;
+
+(bc) Regulation (EU) No. 1210/2010 of the European Parliament and of the Council of 15 December 2010 concerning authentication of euro coins and handling of euro coins unfit for circulation;
+
+(bd) Decision ECB/2010/14 of the European Central Bank of 16 September 2010 on the authenticity and fitness checking and recirculation of euro banknotes, as amended by Decision ECB/2012/19 of 7 September 2012 and by Decision ECB/2019/2195 of 5 December 2019.
+
+OJ, No L171, 29.6.2016, p. 1
 
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
 
@@ -301,5 +309,3 @@ European Parliament and of the Council on prudential requirements for credit ins
 (5) In this Act, a reference to the directors of a company, in relation to a company that does not have a board of directors, is a reference to the persons responsible for directing the operations of the company.
 
 (6) References in this Act to a regulated financial service provider shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider at the relevant time.
-
-OJ, No L171, 29.6.2016, p. 1
