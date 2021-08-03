@@ -2,7 +2,7 @@ Relevant offences for purposes of this Act.
 
 3.— (1) In this Act a relevant offence means—
 
-(a) an arrestable offence under a provision of an enactment, or at common law, specified in Schedule 1,
+(a) an arrestable offence under a provision of an enactment, or at common law, specified in Schedule 1 ,
 
 (b) an arrestable offence under a provision of an enactment, or at common law, specified in an order made under subsection (2),
 

@@ -2,7 +2,9 @@ Offences, etc.
 
 21.— (1) An employee who makes a disclosure knowing it to be false or being reckless as to whether it is false shall be guilty of an offence.
 
-(1A) Subsection (1) does not apply to the making of a disclosure that is a protected disclosure within the meaning of the Protected Disclosures Act 2014. (2) An employer who contravenes section 20(1) shall be guilty of an offence.
+(1A) Subsection (1) does not apply to the making of a disclosure that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.
+
+(2) An employer who contravenes section 20(1) shall be guilty of an offence.
 
 (3) A person who, upon examination on oath or affirmation authorised under paragraph 2(7) of Schedule 2, wilfully makes any statement which is material for that purpose and which the person knows to be false or does not believe to be true shall be guilty of an offence.
 

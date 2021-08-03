@@ -6,7 +6,9 @@ Protection for employees from penalisation for disclosing information relating t
 
 (b) for giving notice of his or her intention to do so.
 
-(1A) Subsection (1) does not apply to the making of a disclosure that is a protected disclosure within the meaning of the Protected Disclosures Act 2014. (2) Schedule 2 shall have effect in relation to an alleged contravention of subsection (1).
+(1A) Subsection (1) does not apply to the making of a disclosure that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.
+
+(2) Schedule 2 shall have effect in relation to an alleged contravention of subsection (1).
 
 (3) Nothing in paragraphs (a), (c), (d), (e) and (f) of the definition of “penalisation” shall be construed in a manner which prevents an employer from—
 

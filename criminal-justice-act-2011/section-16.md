@@ -2,7 +2,7 @@ Privileged legal material.
 
 16.— (1) In this section “privileged legal material” means a document which, in the opinion of the court concerned, a person is entitled to refuse to produce or to give access to it on the grounds of legal professional privilege.
 
-(2) If a person refuses to produce a document or give access to it pursuant to an order of a judge of the District Court under section 15on the grounds that the document is privileged legal material, a member of the Garda Síochána may apply to a judge of that Court for a determination as to whether the document is privileged legal material.
+(2) If a person refuses to produce a document or give access to it pursuant to an order of a judge of the District Court under section 15 on the grounds that the document is privileged legal material, a member of the Garda Síochána may apply to a judge of that Court for a determination as to whether the document is privileged legal material.
 
 (3) A person who refuses to produce a document or give access to it pursuant to an order of a judge of the District Court under section 15 on the grounds that the document is privileged legal material may apply to a judge of the District Court for a determination as to whether the document is privileged legal material.
 
