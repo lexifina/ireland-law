@@ -22,6 +22,12 @@ Ref. Name of Associated Bank In the In the In the In the No. period triennial tr
 
 6 The Provincial Bank of 555,000 417,000 278,000 139,000 Ireland, Limited.
 
+MAXIMUM AMOUNT OF CONSOLIDATED BANK NOTES
+
+Ref. Name of Associated Bank In the In the In the In the No. period triennial triennial triennial from the period period period day after ending on ending on ending on the date of 31st 31st 31st the passing December, December, December, of this Act 1947 1950 1953 to the 31st December, 1944
+
+(1) (2) (3) (4) (5) (6)
+
 7 The Royal Bank of Ireland, 273,000 205,000 137,000 69,000 Limited.
 
 8 The Ulster Bank, Limited. 319,000 240,000 160,000 80,000
