@@ -58,7 +58,7 @@ Amendment of section 4 of Act of 1984.
 
 (b) where a person whose detention is suspended under subsection (3A) in respect of an offence, is subsequently arrested and detained (‘subsequent arrest and detention’) in respect of another offence, the subsequent arrest and detention shall not operate to affect the detention which was suspended and it shall remain suspended until such time as it is continued under subsection (3E),
 
-(c) subject to subsection (9), where a person’s detention is suspended under subsection (3A) in respect of an offence but his or her detention is continued under subsection (5A) in respect of another offence, the continuation of the detention under subsection (5A) shall not operate to affect the detention which was suspended in respect of the first mentioned offence and the detention shall in so far as it relates to the first mentioned offence remain suspended until such time as it is continued under subsection (3E).”,
+(c) subject to subsection (9), where a person’s detention is suspended under subsection schedule(3A) in respect of an offence but his or her detention is continued under subsection (5A) in respect of another offence, the continuation of the detention under subsection (5A) shall not operate to affect the detention which was suspended in respect of the first mentioned offence and the detention shall in so far as it relates to the first mentioned offence remain suspended until such time as it is continued under subsection (3E).”,
 
 (b) in subsection (5A), by the substitution of “other than an offence to which the detention relates or an offence in respect of which the person’s detention has been suspended under subsection (3A)” for “other than an offence to which the detention relates”,
 
