@@ -1,0 +1,3 @@
+Functions of chief executive officer and their performance by deputy. (Repealed)
+
+18.— ...

@@ -1,0 +1,3 @@
+Conditions of office. (Repealed)
+
+13.— ...

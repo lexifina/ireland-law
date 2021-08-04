@@ -1,0 +1,3 @@
+Accountability of appointed directors to Director General for the performance of their functions as employees of Executive. (Repealed)
+
+16J.— ...

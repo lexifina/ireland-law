@@ -1,0 +1,3 @@
+General functions of Director General. (Repealed)
+
+16G.— ...

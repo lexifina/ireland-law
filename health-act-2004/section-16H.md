@@ -1,0 +1,3 @@
+Delegation of functions by Director General. (Repealed)
+
+16H.— ...

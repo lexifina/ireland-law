@@ -1,0 +1,3 @@
+Minister's permission needed for major capital spending. (Repealed)
+
+34.— ...
