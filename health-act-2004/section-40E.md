@@ -1,6 +1,6 @@
 Use of information and documents.
 
-40E.— (1) Subject to subsection (2), the Minister may use information and documents furnished to him or her under this Part as he or she requires for the performance of his or her functions (whether under this Act or otherwise).
+40E.— (1) Subject to subsection (2), the Minister or the Minister for Children, Equality, Disability, Integration and Youth may use information and documents furnished to him or her under this Part as he or she requires for the performance of his or her functions (whether under this Act or otherwise).
 
 (1A) ....
 
