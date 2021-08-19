@@ -21,3 +21,5 @@ TABLE
 (i) a notice of termination giving the required period of notice is served by the landlord in respect of the tenancy, and
 
 (ii) that period of notice expires on or after the end of the period of 6 years from the commencement of the tenancy.
+
+## CHAPTER 6 Rules governing operation of Part in cases of multiple occupants

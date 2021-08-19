@@ -4,7 +4,9 @@ PROVISIONS APPLICABLE TO ORAL HEARINGS CONDUCTED PURSUANT TO SECTION 148S OR 148
 
 Section 148S or 148X
 
-PART 1 ORAL HEARING CONDUCTED BY AUTHORISED OFFICER PURSUANT TO SECTION 148S(15)
+PART 1
+
+ORAL HEARING CONDUCTED BY AUTHORISED OFFICER PURSUANT TO SECTION 148S(15)
 
 1. The authorised officer conducting the oral hearing for the purposes of an investigation may take evidence on oath, and the administration of such an oath by the authorised officer is hereby authorised.
 
