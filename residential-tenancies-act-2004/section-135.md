@@ -10,10 +10,6 @@ Section 134: supplemental provisions.
 
 (2) ...
 
-(a) be signed by the landlord of the dwelling concerned or his or her authorised agent and bear the date on which it is so signed, and
-
-(b) be signed by the tenant or each of the tenants, as the case may be, of the dwelling concerned and bear the date or dates on which it is signed by the tenant or tenants.
-
 (3) The Board shall assign a unique number to each application made under section 134 to register a tenancy and that number shall be used by the Board as the reference number for the tenancy when it is registered.
 
 (4) An acknowledgement, in the prescribed form, shall be given to the applicant under section 134 and to the tenant and shall—
