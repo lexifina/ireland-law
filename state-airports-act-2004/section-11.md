@@ -1,0 +1,9 @@
+Liability for loss occurring before appointed days.
+
+11. —(1) Unless otherwise specified by the Minister, a claim in respect of any loss or injury alleged to have been suffered by any person arising out of the performance before the relevant appointed day of the functions assigned to a company by or under this Act shall after that day, lie against that company and not against Aer Rianta, or Dublin Airport Authority, as the case may be.
+
+(2) Unless otherwise specified by the Minister, any legal proceedings pending immediately before the relevant appointed day to which Aer Rianta or Dublin Airport Authority, as the case may be, is a party, that relate to a function of a company, shall be continued, with the substitution in the proceedings of the company, in so far as they so relate, for any such party.
+
+(3) Where, before the relevant appointed day, agreement has been reached between the parties concerned in settlement of a claim to which subsection (1) relates the terms of which have not been implemented, or judgment has been given in favour of a person but has not been enforced, the terms of the agreement or judgment, as the case may be, shall, in so far as it is enforceable against Aer Rianta or Dublin Airport Authority, as the case may be, be enforceable against the company concerned and not against Aer Rianta or Dublin Airport Authority, as the case may be.
+
+(4) Any claim made or to be made by Aer Rianta or Dublin Airport Authority, as the case may be, in respect of any loss or injury arising from the act or default of any person before the relevant appointed day shall, where the claim relates to functions assigned to a company by or under this Act, be regarded as made by or to be made by the company concerned and may be pursued and sued for by the company as if the loss or injury had been suffered by that company.
