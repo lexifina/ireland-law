@@ -86,9 +86,7 @@ RELEVANT PROPERTY NOT RATEABLE
 
 (c) the Garda Síochána, or used as a prison or place of detention, wherever situate , but in this paragraph ‘harbour’ does not include a harbour in respect of which a company has been established pursuant to section 7 of the Harbours Act 1996.
 
-13.—Any buoy, beacon or lighthouse.
-
-14.—Any land, building or part of a building occupied for the purpose of caring for elderly, handicapped or disabled persons by a body, being either—
+13.—Any buoy, beacon or lighthouse. 14.—Any land, building or part of a building occupied for the purpose of caring for elderly, handicapped or disabled persons by a body, being either—
 
 (a) a body which is not established and the affairs of which are not conducted for the purpose of making a private profit from an activity as aforesaid, or
 
