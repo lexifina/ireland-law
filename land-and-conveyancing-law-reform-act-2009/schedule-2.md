@@ -236,7 +236,7 @@ Session and Short Title Extent of Repeal Chapter (1) (2) (3)
 
 27 & 28 Vic. c. Improvement of Land Act 1864 The whole Act so far as 114 unrepealed
 
-28 & 29 Vic. c. Drainage and Improvement of Lands The whole Act 52 Amendment Act (Ireland)1865
+28 & 29 Vic. c. Drainage and Improvement of Lands The whole Act 52 Amendment Act (Ireland) 1865
 
 28 & 29 Vic. c. Drainage and Improvement of Lands The whole Act 53 Supplemental Act (No. 2 Ireland) 1865
 

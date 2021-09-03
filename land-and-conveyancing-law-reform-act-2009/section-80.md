@@ -4,19 +4,19 @@ Covenants for title.
 
 (a) by the person or by each person who conveys, to the extent of the estate or interest or share of the estate or interest expressed to be conveyed by such person (“the subject-matter of the conveyance”),
 
-(b) with the person to whom the conveyance is made, or with the persons jointly and severally, if more than one, to whom the conveyance is made as joint tenants, or with each of the persons, if more than one, to whom the conveyance is made as tenants in common, and have the effect specified in Parts 1 and 2 of Schedule 3.
+(b) with the person to whom the conveyance is made, or with the persons jointly and severally, if more than one, to whom the conveyance is made as joint tenants, or with each of the persons, if more than one, to whom the conveyance is made as tenants in common, and have the effect specified in Parts 1 and 2 of Schedule 3 .
 
 (2) The classes of conveyance referred to in subsection (1) are—
 
 Class 1: A conveyance (other than a mortgage) for valuable consideration of an estate or interest in land (other than a tenancy) made by a person who is expressed to convey “as beneficial owner”;
 
-Class 2: A conveyance (other than a mortgage) for valuable consideration of land comprised in a lease made by a person who is expressed to convey “as beneficial owner”;
-
-Class 3: A conveyance comprising a mortgage of land (other than land comprised in a lease) made by a person who is expressed to convey
+Class 2: A conveyance (other than a mortgage) for valuable consideration of land comprised in a lease made by a person who is expressed to convey “as beneficial owner”; Class 3: A conveyance comprising a mortgage of land (other than land comprised in a lease) made by a person who is expressed to convey
 
 “as beneficial owner”;
 
-Class 4: A conveyance comprising a mortgage of land comprised in a lease made by a person who is expressed to convey “as beneficial owner”; Class 5: A conveyance made by a person who is expressed to convey “as trustee”, “as mortgagee”, “as personal representative” or under an order of the court.
+Class 4: A conveyance comprising a mortgage of land comprised in a lease made by a person who is expressed to convey “as beneficial owner”;
+
+Class 5: A conveyance made by a person who is expressed to convey “as trustee”, “as mortgagee”, “as personal representative” or under an order of the court.
 
 (3) Where a conveyance is made by a person who is expressed to convey by direction of another person who is expressed to direct “as beneficial owner”, then, whether or not that other person is also expressed to convey “as beneficial owner”, the conveyance is for the purposes of this section a conveyance made by that other person expressed to convey “as beneficial owner” to the extent of the subject-matter of the conveyance made by that other person’s direction.
 

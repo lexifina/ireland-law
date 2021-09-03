@@ -18,4 +18,4 @@ Exercise of leasing powers.
 
 (a) the mortgagor, it, or, where it exceeds the mortgage debt, so much of it as is required for the purpose, shall be applied in or towards discharge of that debt, whether or not the date for redemption has arrived,
 
-(b) the mortgagee, it shall be applied in accordance with section 107as if it comprised the proceeds of a sale.
+(b) the mortgagee, it shall be applied in accordance with section 107 as if it comprised the proceeds of a sale.

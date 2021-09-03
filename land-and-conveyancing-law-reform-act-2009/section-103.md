@@ -1,6 +1,6 @@
 Obligations on selling.
 
-103.— (1) In the exercise of the power of sale conferred by thisChapteror any express power of sale, the mortgagee, or any receiver or other person appointed by the mortgagee, shall, notwithstanding any stipulation to the contrary in the mortgage, ensure as far as is reasonably practicable that the mortgaged property is sold at the best price reasonably obtainable.
+103.— (1) In the exercise of the power of sale conferred by this Chapter or any express power of sale, the mortgagee, or any receiver or other person appointed by the mortgagee, shall, notwithstanding any stipulation to the contrary in the mortgage, ensure as far as is reasonably practicable that the mortgaged property is sold at the best price reasonably obtainable.
 
 (2) Within 28 days after completion of the sale, the mortgagee shall serve a notice in the prescribed form on the mortgagor containing information relating to the sale.
 
