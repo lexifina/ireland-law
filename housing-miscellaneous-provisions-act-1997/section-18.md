@@ -1,4 +1,4 @@
-F36[Intimidation, etc.
+F38[Intimidation, etc.
 
 18. (1) A person commits an offence if he or she causes or attempts to cause any threat, intimidation or harassment, coerces, obstructs, impedes, or interferes with—
 
