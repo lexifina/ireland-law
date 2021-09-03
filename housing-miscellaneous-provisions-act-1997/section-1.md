@@ -2,7 +2,7 @@ Interpretation.
 
 1.—(1) In this Act, unless the context otherwise requires—
 
-‘affordable house’ means an affordable house provided under Part V of the Planning and Development Act 2000 or Part 2 of the Housing (Miscellaneous Provisions) Act 2002 or an affordable dwelling purchased under affordable dwelling purchase arrangements under Part 5 of the Housing (Miscellaneous Provisions) Act 2009 as the case may be;
+‘affordable house’ means an affordable house provided under Part V of the Planning and Development Act 2000 or Part 2 of the Housing (Miscellaneous Provisions) Act 2002 or an affordable dwelling purchased under an affordable dwelling purchase arrangement under Part 2 of the Affordable Housing Act 2021 as the case may be;
 
 ‘anti-social behaviour’ includes either or both of the following, namely—
 
