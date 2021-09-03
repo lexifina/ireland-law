@@ -1,6 +1,6 @@
 Site excluding orders.
 
-3A.—(1) A person who is authorised, including a person who is jointly authorised, by a housing authority or an approved body to occupy a caravan on a site (in this section referred to as an ‘authorised person’) may apply to the District Court for a site excluding order against another person (in this Act referred to as the ‘respondent’) whom the authorised person making the application believes to be engaging in anti-social behaviour.
+3A.—(1) A person who is authorised, including a person who is jointly authorised, by a housing authority or an approved body to occupy a caravan on a site (in this section referred to as an ‘authorised person’) may apply to the District Court for a site excluding order against another person (in this Act referred to as the ‘respondent’) whom the authorised person making the application believes to be engaging in antisocial behaviour.
 
 (2) A housing authority or an approved body may, in respect of a site provided by the housing authority or the approved body under the Housing Acts 1966 to 2014, apply to the District Court for a site excluding order against a respondent whom the housing authority or the approved body believes to be engaging in anti-social behaviour and where the housing authority or the approved body—
 
