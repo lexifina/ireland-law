@@ -4,7 +4,7 @@ Assistance towards non-public roads.
 
 81.—(1) In this section—
 
-‘functional area’ means—
+"functional area" means—
 
 (a) a county, or
 

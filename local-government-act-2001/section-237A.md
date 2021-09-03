@@ -1,6 +1,6 @@
 Regulations relating to members of House of Oireachtas.
 
-237A.—(1) In this section ‘dealing’ in relation to a member of either House of the Oireachtas means a dealing with such a member in his or her capacity as such a member.
+237A.—(1) In this section "dealing" in relation to a member of either House of the Oireachtas means a dealing with such a member in his or her capacity as such a member.
 
 (2) Local authorities shall conduct their dealings with members of either House of the Oireachtas in accordance with regulations under subsection (3).
 

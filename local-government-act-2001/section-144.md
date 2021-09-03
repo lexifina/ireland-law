@@ -2,7 +2,7 @@
 
 Position of chief executive.
 
-144.— (1) For every county, city and city and county there shall be a chief executive to be known as ‘the Chief Executive of.......’ (followed by the name of the city council, county council or city and county council, as the case may be) who shall hold employment under the council concerned.
+144.— (1) For every county, city and city and county there shall be a chief executive to be known as "the Chief Executive of....…" (followed by the name of the city council, county council or city and county council, as the case may be) who shall hold employment under the council concerned.
 
 (2) Subject to section 16 of the Local Government Reform Act 2014, a person who was, immediately before the 2014 establishment day, a county manager or city manager shall, unless he or she was retiring or resigning with effect from the end of that day, continue in office and shall be referred to in accordance with subsection (1).
 

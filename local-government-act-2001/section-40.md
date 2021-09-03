@@ -1,3 +1,3 @@
-Direct election and tenure of Cathaoirleach of county council and city council.
+Direct election and tenure of Cathaoirleach of county council and city council. (Repealed)
 
 40.—...

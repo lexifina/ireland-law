@@ -6,7 +6,7 @@ Interpretation (Part 19).
 
 “appropriate Minister”, in relation to any matter, means the Minister of the Government on whom functions stand conferred or who has general responsibility in respect of or connected to the matter in question;
 
-‘functional area’ means as respects—
+"functional area" means as respects—
 
 (a) a city council, the city,
 

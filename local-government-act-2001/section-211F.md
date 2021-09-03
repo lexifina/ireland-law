@@ -24,7 +24,7 @@ Recalculation of post-entry year levy if rateable valuation amended.
 
 (a) the amended rateable valuation for the property referred to in subsection (2) is consequently the subject of an appeal under Part 7 of the Valuation Act 2001, and
 
-(b) after all appeals under that Part have been exhausted, the final rateable valuation of the property for the post-entry year is different than it was for purposes of the recalculation under subsection (2), the rating authority shall recalculate the post-entry year levy for that property under section 211E(2) or (3), as the case may be, using the same formula applied in those provisions except where ‘B’ is now the final rateable valuation for the property referred to in paragraph (b) of this subsection.
+(b) after all appeals under that Part have been exhausted, the final rateable valuation of the property for the post-entry year is different than it was for purposes of the recalculation under subsection (2), the rating authority shall recalculate the post-entry year levy for that property under section 211E(2) or (3), as the case may be, using the same formula applied in those provisions except where "B" is now the final rateable valuation for the property referred to in paragraph (b) of this subsection.
 
 (6) If, as a result of recalculation under subsection (5), the amount of money paid by the levypayer in respect of the post-entry year levy involved an overpayment or an underpayment, then—
 

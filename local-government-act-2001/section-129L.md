@@ -12,7 +12,7 @@ Annual budget for BID scheme.
 
 (b) any income, other than the annual BID contribution under paragraph (c), estimated to accrue to the BID company;
 
-(c) the total sum of money (‘annual BID contribution’) that the BID company requests the rating authority contribute towards financing the scheme for the next chargeable period by means of imposing and collecting BID contribution levies under this Part.
+(c) the total sum of money ("annual BID contribution") that the BID company requests the rating authority contribute towards financing the scheme for the next chargeable period by means of imposing and collecting BID contribution levies under this Part.
 
 (2) The annual BID contribution under subsection (1)(c) is to be determined by the formula
 

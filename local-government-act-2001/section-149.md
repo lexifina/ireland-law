@@ -2,9 +2,9 @@ Executive functions.
 
 149.—(1) In this section—
 
-‘elected council’ includes the members of a joint body;
+"elected council" includes the members of a joint body;
 
-‘local authority’ includes a joint body.
+"local authority" includes a joint body.
 
 (2) In respect of each local authority for which he or she is chief executive, a chief executive is responsible for—
 

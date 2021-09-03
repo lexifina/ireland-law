@@ -1,3 +1,3 @@
-Casual vacancy in office of Cathaoirleach of county council or city council.
+Casual vacancy in office of Cathaoirleach of county council or city council. (Repealed)
 
 41.—...

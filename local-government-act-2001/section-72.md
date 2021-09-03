@@ -26,4 +26,4 @@ Transfer of certain functions to local authorities.
 
 (vi) provide for such other matters as are considered by the Government or the Minister, as appropriate, to be necessary to enable the transfer of a function concerned to which the order relates to have full effect and to enable such function to be performed by the local authorities concerned.
 
-(4) In this section ‘public authority’ does not include a body to which paragraph (g) of the definition of ‘public authority’ in section 2(1) relates.
+(4) In this section "public authority" does not include a body to which paragraph (g) of the definition of "public authority" in section 2(1) relates.

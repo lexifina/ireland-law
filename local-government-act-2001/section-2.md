@@ -2,11 +2,11 @@ Interpretation generally.
 
 2.—(1) In this Act, except where the context otherwise requires—
 
-‘2014 establishment day’ means the day appointed by order under section 8 of the Local Government Reform Act 2014 to be the establishment day for the purposes of that Act;
+"2014 establishment day" means the day appointed by order under section 8 of the Local Government Reform Act 2014 to be the establishment day for the purposes of that Act;
 
 “Act of 2000” means the Planning and Development Act, 2000;
 
-‘administrative area’ means an area standing established under section 10 for the purposes of local government and which is—
+"administrative area" means an area standing established under section 10 for the purposes of local government and which is—
 
 (a) a county in the case of a county council,
 
@@ -22,11 +22,11 @@ Interpretation generally.
 
 “Cathaoirleach” has the meaning given to it by section 31;
 
-‘chief executive’ means a chief executive for the purposes of section 144;
+"chief executive" means a chief executive for the purposes of section 144;
 
-‘city council’ means a local authority to which section 11(2)(b) relates;
+"city council" means a local authority to which section 11(2)(b) relates;
 
-‘city and county council’ means a local authority to which section 11(2)(c) relates;
+"city and county council" means a local authority to which section 11(2)(c) relates;
 
 ...
 
@@ -36,7 +36,7 @@ Interpretation generally.
 
 “corporate policy group” means a committee established under section 133(1);
 
-‘county council’ means a local authority to which section 11(2) (a) relates;
+"county council" means a local authority to which section 11(2) (a) relates;
 
 ...
 
@@ -86,7 +86,7 @@ Interpretation generally.
 
 “Leas-Chathaoirleach” has the meaning given to it by section 31;
 
-‘local authority’ means—
+"local authority" means—
 
 (a) in relation to a municipal district, the county council or the city and county council in which the municipal district is situated, and
 
@@ -106,13 +106,13 @@ Interpretation generally.
 
 “local consultative committee” has the meaning given to it by section 21 of the Housing (Traveller Accommodation) Act, 1998;
 
-‘local economic and community plan’ means a plan to which sections 66A to 66H relate;
+"local economic and community plan" means a plan to which sections 66A to 66H relate;
 
 “local election” means an election under Part 4;
 
 “local electoral area” means an area referred to in section 23 by reference to which a local election is held;
 
-‘local fund’ has the meaning given to it by section 97;
+"local fund" has the meaning given to it by section 97;
 
 ...
 
@@ -126,9 +126,9 @@ Interpretation generally.
 
 “Minister” means the Minister for the Environment and Local Government;
 
-‘municipal district’ shall be read in accordance with section 22A;
+"municipal district" shall be read in accordance with section 22A;
 
-‘municipal district members’ shall be read in accordance with section 22B;
+"municipal district members" shall be read in accordance with section 22B;
 
 “ordinary day of retirement” has the meaning given to it by section 17;
 
@@ -160,7 +160,7 @@ Interpretation generally.
 
 “public notice”, in the context of a local authority, means a notice published in at least one newspaper circulating in the local authority’s administrative area;
 
-‘rating authority’ means—
+"rating authority" means—
 
 (a) a county council,
 
@@ -170,7 +170,7 @@ Interpretation generally.
 
 “register of electors” has the meaning given to it by section 24(1);
 
-‘reserved function’ shall be read in accordance with sections 131 and 131A;
+"reserved function" shall be read in accordance with sections 131 and 131A;
 
 “standing orders”, in the context of a local authority, has the meaning given by paragraph 16(1) of Schedule 10;
 
@@ -178,7 +178,7 @@ Interpretation generally.
 
 “structure” means any building, erection, structure (including a movable structure), excavation, or other thing constructed, erected, made or placed on, in or under any land, or any part of a structure so defined and, where the context so admits, includes the land on, in or under which the structure is situated;
 
-‘transfer date’ has the meaning given in section 23 of the Local Government Reform Act 2014.
+"transfer date" has the meaning given in section 23 of the Local Government Reform Act 2014.
 
 ...
 

@@ -8,11 +8,11 @@ District Members
 
 Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
-1 Adopting or reverting to the title “Cathaoirleach” and “Leas- Section 32 and Schedule Chathaoirleach” and giving to the office of Cathaoirleach or 8. Leas-Chathaoirleach alternative titles.
+1 Adopting or reverting to the title “Cathaoirleach” and Section 32 and Schedule “Leas-Chathaoirleach” and giving to the office of Cathaoirleach 8. or Leas-Chathaoirleach alternative titles.
 
 2 Removal from office of the Cathaoirleach or Leas-Chathaoirleach. Section 34.
 
-3 Deciding to hold special meetings; appointing days and times Section 44 and para-of meetings; appointing a regular schedule for the holding of graphs 1, 2, 3, 8, 13, 16 ordinary meetings; appointing different days, times and places and 19 of Schedule 10. for different meetings; appointing the day for holding the annual meeting other than in a year in which a local election is held; making additional arrangements for the giving of public notice of meetings; resolving that a member leave a meeting; making, amending or revoking standing orders; making rules for the purpose of ensuring that appointments to bodies are made fairly and equitably.
+3 Deciding to hold special meetings; appointing days and times Section 44 and of meetings; appointing a regular schedule for the holding of paragraphs 1, 2, 3, 8, 13, ordinary meetings; appointing different days, times and places 16 and 19 of Schedule for different meetings; appointing the day for holding the annual 10. meeting other than in a year in which a local election is held; making additional arrangements for the giving of public notice of meetings; resolving that a member leave a meeting; making, amending or revoking standing orders; making rules for the purpose of ensuring that appointments to bodies are made fairly and equitably.
 
 4 Deciding to meet in committee for whole or part of a meeting Section 45. where the municipal district members consider that such action is not contrary to the overall public interest.
 
@@ -22,7 +22,7 @@ Reference Description of reserved function Provision under which No. (2) reserve
 
 7 Adoption of statements regarding the community elements of Section 66C (inserted by the local economic and community plan for the consideration section 44 of the Local of the elected council of the local authority. Government Reform Act 2014).
 
-8 Consideration of and making amendments to a draft budgetary Section 102(4A). plan.
+8 Consideration of and making amendments to a draft budgetary Section 102(4A). plan. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 9 Consideration and adoption of an annual schedule of proposed Section 103A. works to be carried out in the district.
 
@@ -30,19 +30,19 @@ Reference Description of reserved function Provision under which No. (2) reserve
 
 11 Adopting a scheme for the making of an annual contribution by Section 110. the occupier of each dwelling in the area to which the scheme applies towards particular community initiatives specified in the scheme.
 
-12 Deciding, subject to the approval of the Minister, that a partic- Section 131A. ular function of the municipal district members should be performed only by the local authority.
+12 Deciding, subject to the approval of the Minister, that a Section 131A. particular function of the municipal district members should be performed only by the local authority.
 
 13 A decision to pay an allowance for reasonable expenses of Section 143. Cathaoirleach and Leas-Chathaoirleach and the determination of the amount of the allowance.
 
-14 The approval of information to be included in an annual report Section 221. in relation to the performance of functions by the municipal district members. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+14 The approval of information to be included in an annual report Section 221. in relation to the performance of functions by the municipal district members.
 
-15 Deciding that a named member leave a meeting or that the Paragraph 13 of Sched-member was the cause of the meeting being adjourned. ule 10.
+15 Deciding that a named member leave a meeting or that the Paragraph 13 of member was the cause of the meeting being adjourned. Schedule 10.
 
 16 Deciding to pay certain expenses to non-members of a local Article 9 of the Local authority for attendance at committees or joint committees. Government (Expenses of Local Authority Members) Regulations 1993 (S.I. No. 391 of 1993).
 
-17 The delegation to a designated body of a function (including Section 9 of the Housing maintenance) in respect of the management and control of any (Miscellaneous Provi-specified dwellings or the revocation of any such delegation. sions) Act 1992.
+17 The delegation to a designated body of a function (including Section 9 of the Housing maintenance) in respect of the management and control of any (Miscellaneous specified dwellings or the revocation of any such delegation. Provisions) Act 1992.
 
-18 The delegation to a designated body of a function (including Section 30 of the Hous-maintenance) in respect of the management and control of a ing (Miscellaneous dwelling or the revocation of any such delegation. Provisions) Act 2009.
+18 The delegation to a designated body of a function (including Section 30 of the maintenance) in respect of the management and control of a Housing (Miscellaneous dwelling or the revocation of any such delegation. Provisions) Act 2009.
 
 19 Making representations to the Minister in relation to an order Section 94 of the Road made by the Minister closing particular roads to vehicles. Traffic Act 1961.
 
@@ -52,17 +52,17 @@ Reference Description of reserved function Provision under which No. (2) reserve
 
 22 The making of an order declaring a road to be a public road and Section 11 of the Roads consideration of objections or representations in relation to Act 1993, as applied by such declaration. section 180 of the Act of 2000.
 
-23 The making of an order abandoning a public road and the Section 12 of the Roads consideration of objections or representations in relation to a Act 1993. proposal to abandon a public road and the report and any recommendations of a person appointed to conduct an oral hearing.
+23 The making of an order abandoning a public road and the Section 12 of the Roads consideration of objections or representations in relation to a Act 1993. proposal to abandon a public road and the report and any recommendations of a person appointed to conduct an oral hearing. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 24 The making of an order extinguishing a public right of way and Section 73 of the Roads the consideration of objections or representations in relation Act 1993. to a proposal to extinguish a public right of way and the report and any recommendations of a person appointed to conduct an oral hearing.
 
 25 The making of a resolution (pursuant to regulations under section Section 35 of the Road 35(2) (l) of the Road Traffic Act 1994) specifying the places in Traffic Act 1994. which vehicles may be parked either indefinitely or for any period not exceeding a specified period.
 
-26 Making of bye-laws for the control and regulation of the parking Section 36 of the Road of vehicles in specified places on public roads (including provi- Traffic Act 1994. sion for the payment of fees for parking) and the consideration of observations or representations in relation to draft bye-laws.
+26 Making of bye-laws for the control and regulation of the parking Section 36 of the Road of vehicles in specified places on public roads (including Traffic Act 1994. provision for the payment of fees for parking) and the consideration of observations or representations in relation to draft bye-laws.
 
 27 Making of a resolution to determine the manner in which fees Section 36 of the Road in respect of parking shall be disposed of. Traffic Act 1994.
 
-28 The making of a decision to provide or remove prescribed traffic Section 38 of the Road calming measures and the consideration of observations or Traffic Act 1994. representations in relation to a proposal to provide or remove such measures. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+28 The making of a decision to provide or remove prescribed traffic Section 38 of the Road calming measures and the consideration of observations or Traffic Act 1994. representations in relation to a proposal to provide or remove such measures.
 
 29 The making of bye-laws in relation to stands for taxis. Section 84 (as amended by section 15 of the Road Traffic Act 2002) of the Road Traffic Act 1961.
 
@@ -76,11 +76,11 @@ Reference Description of reserved function Provision under which No. (2) reserve
 
 34 Making bye-laws for the purposes of preventing the creation of, Section 21 (as amended and controlling, litter. by section 57 of the Protection of the Environment Act 2003) of the Litter Pollution Act 1997.
 
-35 The making of submissions to a fire authority regarding a Section 23 of the Licens-proposed indoor event that requires a licence. ing of Indoor Events Act 2003.
+35 The making of submissions to a fire authority regarding a Section 23 of the proposed indoor event that requires a licence. Licensing of Indoor Events Act 2003.
 
 36 The approval of a draft bye-law, the consideration of submissions Section 199. in relation to such draft bye-law and the making, amendment or revocation of a bye-law.
 
-37 Adopting, amending or rescinding a resolution concerning the Section 5 (as amended expiry times of a special exemption order. by section 11 of the Intoxicating Liquor Act 2003) of the Intoxicating Liquor Act 1927.
+37 Adopting, amending or rescinding a resolution concerning the Section 5 (as amended expiry times of a special exemption order. by section 11 of the Intoxicating Liquor Act 2003) of the Intoxicating Liquor Act 1927. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 38 Making of bye-laws in respect of the use of temporary dwellings. Section 30 of the Local Government (Sanitary Services) Act 1948.
 
@@ -90,9 +90,9 @@ Reference Description of reserved function Provision under which No. (2) reserve
 
 41 Adopting a proposal to substitute a new placename in respect Section 189 (as amended of a place. by section 48 of the Environment (Miscellaneous Provisions) Act 2011).
 
-42 Deciding to hold a ballot in respect of a proposal to change a Section 189 (as amended placename or deciding not to proceed with the proposal. by section 48 of the Environment (Miscellaneous Provisions) Act 2011). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+42 Deciding to hold a ballot in respect of a proposal to change a Section 189 (as amended placename or deciding not to proceed with the proposal. by section 48 of the Environment (Miscellaneous Provisions) Act 2011).
 
-43 Adopting or rescinding Part III (Licensing for Gaming of Amuse- Section 13 of the ment Halls and Funfairs) of Gaming and Lotteries Act 1956. Gaming and Lotteries Act 1956.
+43 Adopting or rescinding Part III (Licensing for Gaming of Section 13 of the Amusement Halls and Funfairs) of Gaming and Lotteries Act Gaming and Lotteries 1956. Act 1956.
 
 44 Decision to make a charge in relation to amenities, facilities, Section 66. services or any other thing provided by a local authority under section 66 of the Local Government Act 2001.
 
@@ -106,7 +106,7 @@ Reference Description of reserved function Provision under which No. (2) reserve
 
 1 A decision of a local authority to confer a civic honour on a Section 74. person.
 
-2 A decision to enter into arrangements for twinning with any Section 75. other area.
+2 A decision to enter into arrangements for twinning with any Section 75. other area. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 3 A decision to incur reasonable expenditure for or in connection Section 76. with the provision of receptions and entertainment and the making of presentations.
 
@@ -118,7 +118,7 @@ Reference Description of reserved function Provision under which No. (2) reserve
 
 7 Deciding that a report on the capital programme may be Section 135. considered at a meeting other than the local authority budget meeting.
 
-8 Requiring a chief executive to prepare and submit plans, speci- Section 137. fications and an estimate of cost of any particular work specified in a resolution. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+8 Requiring a chief executive to prepare and submit plans, Section 137. specifications and an estimate of cost of any particular work specified in a resolution.
 
 9 Directing a chief executive to inform the council of the manner Section 138. in which he or she proposes to perform any specified executive function of the local authority.
 
@@ -136,9 +136,9 @@ Reference Description of reserved function Provision under which No. (2) reserve
 
 16 Making, or refusing to make an order creating a public right of Section 207 of the Act of way over any land. 2000.
 
-17 Deciding to vary or modify, or not to proceed with, an event Section 238 of the Act of proposed to be carried out by a local authority. 2000.
+17 Deciding to vary or modify, or not to proceed with, an event Section 238 of the Act of proposed to be carried out by a local authority. 2000. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
-18 The preparation, making, adoption or variation of a housing Section 14 of the Hous-services plan, or draft plan. ing (Miscellaneous Provisions) Act 2009.
+18 The preparation, making, adoption or variation of a housing Section 14 of the services plan, or draft plan. Housing (Miscellaneous Provisions) Act 2009.
 
 19 The making of a decision in relation to the representation of Section 64. the views of the local community.
 
@@ -146,9 +146,9 @@ Reference Description of reserved function Provision under which No. (2) reserve
 
 21 A declaration that a body be a recognised association for the Section 128. purposes of section 128.
 
-22 Observations in regard to a preliminary flood risk assessments, Sections 8, 12, 18, 20, a flood hazard map, a flood risk map, or both such maps, a flood 27 and 40 of European risk management plan, and a flood risk management scheme, Communities (Assess-prepared by the Commissioners of Public Works in Ireland; ment and Management deciding whether to adopt or otherwise a flood risk management of Flood Risks) Regula-plan; and objection to the issue of a certificate of completion tions 2010 (S.I. No. 122 of flood risk management works. of 2010).
+22 Observations in regard to a preliminary flood risk assessments, Sections 8, 12, 18, 20, a flood hazard map, a flood risk map, or both such maps, a flood 27 and 40 of European risk management plan, and a flood risk management scheme, Communities prepared by the Commissioners of Public Works in Ireland; (Assessment and deciding whether to adopt or otherwise a flood risk management Management of Flood plan; and objection to the issue of a certificate of completion Risks) Regulations 2010 of flood risk management works. (S.I. No. 122 of 2010).
 
-23 Consideration of and observations in regard to a drainage Section 5 of Arterial scheme prepared by the Commissioners of Public Works in Drainage Act 1945. Ireland. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+23 Consideration of and observations in regard to a drainage Section 5 of Arterial scheme prepared by the Commissioners of Public Works in Drainage Act 1945. Ireland.
 
 24 Objection to the issue of a certificate of completion of drainage Section 13 of Arterial works. Drainage Act 1945.
 
@@ -158,11 +158,11 @@ Reserved Functions to be Performed by the Local Authority
 
 Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
-1 Extending the period of permitted absence from attendance at Section 18. local authority meetings.
+1 Extending the period of permitted absence from attendance at Section 18. local authority meetings. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 2 Adopting a proposal for the alteration of the number of members Section 22. of certain local authorities.
 
-3 Adopting or reverting to the title “Cathaoirleach” and “Leas- Section 32 and Schedule Chathaoirleach” and giving to the office of Cathaoirleach or 8. Leas-Chathaoirleach alternative titles.
+3 Adopting or reverting to the title “Cathaoirleach” and Section 32 and Schedule “Leas-Chathaoirleach” and giving to the office of Cathaoirleach 8. or Leas-Chathaoirleach alternative titles.
 
 4 Removal from office of the Cathaoirleach or Leas-Chathaoirleach Section 34 (as amended or the chairperson of any strategic policy committee. by section 38 of the
 
@@ -170,9 +170,9 @@ Local Government
 
 Reform Act 2014).
 
-5 Deciding to fix the day or days for the first meetings of the Paragraph 4 Schedule 10 municipal district members for each of the municipal districts (as amended by section within the functional area of the local authority. 57 of the Local Government Reform Act 2014). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+5 Deciding to fix the day or days for the first meetings of the Paragraph 4 Schedule 10 municipal district members for each of the municipal districts (as amended by section within the functional area of the local authority. 57 of the Local Government Reform Act 2014).
 
-6 Deciding to hold special meetings; appointing days and times Section 44 and para-of meetings; appointing a regular schedule for the holding of graphs 1, 2, 3, 8, 13, 16 ordinary meetings; appointing different days, times and places and 19 of Schedule 10. for different meetings; appointing the day for holding the annual meeting other than in a year in which a local election is held; making additional arrangements for the giving of public notice of meetings; resolving that a member leave a meeting; making, amending or revoking standing orders; and making rules for the purpose of ensuring that appointments to bodies are made fairly and equitably.
+6 Deciding to hold special meetings; appointing days and times Section 44 and of meetings; appointing a regular schedule for the holding of paragraphs 1, 2, 3, 8, 13, ordinary meetings; appointing different days, times and places 16 and 19 of Schedule for different meetings; appointing the day for holding the annual 10. meeting other than in a year in which a local election is held; making additional arrangements for the giving of public notice of meetings; resolving that a member leave a meeting; making, amending or revoking standing orders; and making rules for the purpose of ensuring that appointments to bodies are made fairly and equitably.
 
 7 Deciding to meet in committee for whole or part of a meeting Section 45. where the authority considers that such action is not contrary to the overall public interest.
 
@@ -184,15 +184,15 @@ Reform Act 2014).
 
 11 Preparing, reviewing and updating the implementation strategy Section 66E (inserted by for the economic elements of the local economic and community section 44 of the Local plan. Government Reform Act 2014).
 
-12 Entering into an agreement with another local or public Section 85. authority for the performance by one of the authorities concerned of any function of the other.
+12 Entering into an agreement with another local or public authority Section 85. for the performance by one of the authorities concerned of any function of the other.
 
 13 Adopting the draft local authority budget. Section 103 (substituted by section 58 of the
 
 Local Government
 
-Reform Act 2014).
+Reform Act 2014). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
-14 Determining the annual rate on valuation to be levied. Section 103 (substituted by section 58 of the Local Government Reform Act 2014). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+14 Determining the annual rate on valuation to be levied. Section 103 (substituted by section 58 of the Local Government Reform Act 2014).
 
 15 Specifying a local electoral area or local electoral areas within Section 14 (as amended the administrative area of the local authority where owners of by section 31 of the vacant premises shall be entitled to claim and receive a refund
 
@@ -218,9 +218,9 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 25 Directing that certain works shall not proceed. Section 139.
 
-26 Requiring a particular act, matter or thing to be done or effected Section 140. in the performance of executive functions of the local authority, other than certain prescribed matters.
+26 Requiring a particular act, matter or thing to be done or effected Section 140. in the performance of executive functions of the local authority, other than certain prescribed matters. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
-27 Authorisation by an elected council of one or more of its Subsection (5A) (insert-members to avail of training or attend training events. ed by section 53 of the Local Government Reform Act 2014) of section 141. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+27 Authorisation by an elected council of one or more of its Subsection (5A) members to avail of training or attend training events. (inserted by section 53 of the Local Government Reform Act 2014) of section 141.
 
 28 Authorising representation of the authority by councillors at a Section 142. conference, seminar or other meeting or event, or to avail of training or attend training events.
 
@@ -232,23 +232,23 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 32 Making an order to declare an area to be an area of special Section 202 of the Act of amenity. 2000.
 
-33 Making, or refusing to make, or revocation or amendment of, Section 204 of the Act of an order designating any area or place as a landscape conserva- 2000. tion area.
+33 Making, or refusing to make, or revocation or amendment of, Section 204 of the Act of an order designating any area or place as a landscape 2000. conservation area.
 
 34 The adoption of an annual report under section 221. Section 221.
 
-35 Deciding to hold or to cease to hold membership of an associa- Section 225. tion of local authorities.
+35 Deciding to hold or to cease to hold membership of an Section 225. association of local authorities.
 
 36 Declaring that another local authority shall be the successor of Section 230. a specified joint burial board or cemetery joint committee which is to be dissolved.
 
-37 Deciding that a named member leave a meeting of a local Paragraph 13 of Sched-authority. ule 10 (as amended by section 57 of the Local Government Reform Act 2014).
+37 Deciding that a named member leave a meeting of a local Paragraph 13 of authority. Schedule 10 (as amended by section 57 of the Local Government Reform Act 2014).
 
-38 Deciding that a named member was the cause of a meeting being Paragraph 13 of Sched-adjourned, with a consequential reduction in remuneration and ule 10 (as amended by expenses. section 57 of the Local Government Reform Act 2014).
+38 Deciding that a named member was the cause of a meeting being Paragraph 13 of adjourned, with a consequential reduction in remuneration and Schedule 10 (as expenses. amended by section 57 of the Local Government Reform Act 2014).
 
-39 Deciding that a named member was the cause of a meeting being Paragraph 13 of Sched-adjourned and should be suspended from attendance at meet-ule 10 (as amended by ings, with a consequential cessation of payment of remuneration section 57 of the Local and expenses for the suspension period imposed, and the early Government Reform Act lifting of the suspension. 2014).
+39 Deciding that a named member was the cause of a meeting being Paragraph 13 of adjourned and should be suspended from attendance at Schedule 10 (as meetings, with a consequential cessation of payment of amended by section 57 remuneration and expenses for the suspension period imposed, of the Local Government and the early lifting of the suspension. Reform Act 2014).
 
-40 Deciding to pay certain expenses to non-members of a local Article 9 of the Local authority for attendance at committees or joint committees. Government (Expenses of Local Authority Members) Regulations 1993 (S.I. No. 391 of 1993).
+40 Deciding to pay certain expenses to non-members of a local Article 9 of the Local authority for attendance at committees or joint committees. Government (Expenses of Local Authority Members) Regulations 1993 (S.I. No. 391 of 1993). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
-41 Applying to the Minister to make an order under subsection (8) Section 29(8) of the of section 29 of the Local Government Reform Act 2014 that the Local Government adjustment period, referred to in that section and applicable to Reform Act 2014. a specified area within the administrative area of the local authority, may be extended by a period not greater than 10 years and stating the length of extension being sought. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+41 Applying to the Minister to make an order under subsection (8) Section 29(8) of the of section 29 of the Local Government Reform Act 2014 that the Local Government adjustment period, referred to in that section and applicable to Reform Act 2014. a specified area within the administrative area of the local authority, may be extended by a period not greater than 10 years and stating the length of extension being sought.
 
 42 Making or amendment of a scheme for the waiver of rates and Sections 2 and 4 of the determination of classes of property in respect of which rates Local Government may be paid by instalments. (Rates) Act 1970.
 
@@ -260,35 +260,35 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 46 The making of an agreement between authorities to enable a Section 109 of the housing authority to perform any of its housing functions outside Housing Act 1966. its functional area.
 
-47 The determination of the terms and conditions under which Section 6 of the Housing assistance is provided to another housing authority or an (Miscellaneous Provi-approved body. sions) Act 1992.
+47 The determination of the terms and conditions under which Section 6 of the Housing assistance is provided to another housing authority or an (Miscellaneous approved body. Provisions) Act 1992.
 
-48 Adoption of a policy for the effective performance of functions Section 9 of the Housing under section 58(1) of the Housing Act 1966 or an amendment (Miscellaneous Provi-to such a policy. sions) Act 1992.
+48 Adoption of a policy for the effective performance of functions Section 9 of the Housing under section 58(1) of the Housing Act 1966 or an amendment (Miscellaneous to such a policy. Provisions) Act 1992.
 
-49 The transfer, sale or assignment of mortgages, unless it is the Section 14 of the Hous-subject of a direction by the Minister. ing (Miscellaneous Provisions) Act 1992.
+49 The transfer, sale or assignment of mortgages, unless it is the Section 14 of the subject of a direction by the Minister. Housing (Miscellaneous Provisions) Act 1992.
 
 50 The adoption of a traveller accommodation programme or an Section 7 of the Housing amendment to, or replacement of, the programme. (Traveller Accommodation) Act 1998.
 
-51 The making of an appointment to a local traveller accommoda- Section 22 of the Hous-tion consultative committee. ing (Traveller Accommodation) Act 1998.
+51 The making of an appointment to a local traveller Section 22 of the accommodation consultative committee. Housing (Traveller Accommodation) Act 1998.
 
 52 The making and amending of a scheme which determines the Section 98 of the Act of order of priority for allocation of affordable houses provided 2000. under Part V of the Planning and Development Act 2000.
 
-53 Making and amending a scheme that determines the order of Section 8 of the Housing priorities for allocation of affordable houses made available for (Miscellaneous Provi-sale under Part 2 of the Housing (Miscellaneous Provisions) Act sions) Act 2002. 2002.
+53 Making and amending a scheme that determines the order of Section 8 of the Housing priorities for allocation of affordable houses made available for (Miscellaneous sale under Part 2 of the Housing (Miscellaneous Provisions) Act Provisions) Act 2002. 2002. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
-54 The making or amendment of an allocation scheme determining Section 22 of the Hous-the order of priority to be accorded in the allocation of ing (Miscellaneous dwellings. Provisions) Act 2009.
+54 The making or amendment of an allocation scheme determining Section 22 of the the order of priority to be accorded in the allocation of Housing (Miscellaneous dwellings. Provisions) Act 2009.
 
-55 The making and revocation of a rent scheme providing for the Section 31 of the Hous-manner in which rents and other charges in respect of dwellings ing (Miscellaneous shall be determined. Provisions) Act 2009. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+55 The making and revocation of a rent scheme providing for the Section 31 of the manner in which rents and other charges in respect of dwellings Housing (Miscellaneous shall be determined. Provisions) Act 2009.
 
-56 The drawing up and adoption of, and the amendment of, an anti- Section 35 of the Hous-social behaviour strategy. ing (Miscellaneous Provisions) Act 2009.
+56 The drawing up and adoption of, and the amendment of, an anti- Section 35 of the social behaviour strategy. Housing (Miscellaneous Provisions) Act 2009.
 
 57 The adoption or amendment of a Homelessness Action Plan. Section 40 of the Housing (Miscellaneous Provisions) Act 2009.
 
-58 The adoption of a proposal to designate an apartment complex Section 53 of the Hous-for the purpose of making the apartments available for sale to ing (Miscellaneous the tenants. Provisions) Act 2009.
+58 The adoption of a proposal to designate an apartment complex Section 53 of the for the purpose of making the apartments available for sale to Housing (Miscellaneous the tenants. Provisions) Act 2009.
 
-59 The designation of an apartment complex in accordance with a Section 55 of the Hous-section 53 proposal. ing (Miscellaneous Provisions) Act 2009.
+59 The designation of an apartment complex in accordance with a Section 55 of the section 53 proposal. Housing (Miscellaneous Provisions) Act 2009.
 
-60 The extension of the initial selling period for apartments in a Section 56 of the Hous-designated apartment complex. ing (Miscellaneous Provisions) Act 2009.
+60 The extension of the initial selling period for apartments in a Section 56 of the designated apartment complex. Housing (Miscellaneous Provisions) Act 2009.
 
-61 Functions of a road authority in relation to abandonment of a Section 21 of the Trans-railway line. port Act 1950.
+61 Functions of a road authority in relation to abandonment of a Section 21 of the railway line. Transport Act 1950.
 
 62 The making of representations by a road authority to the Section 22 of the Roads National Roads Authority and to the Minister for Transport Act 1993. regarding a proposed national road alignment.
 
@@ -304,41 +304,41 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 68 Entering into an agreement with the Commissioners for Public Section 16 of the Canals Works in Ireland for the transfer of a bridge over a canal. Act 1986.
 
-69 The making of a development plan and making or refusing to Sections 9, 12 and 13 of make a variation of a development plan which for the time being the Act of 2000. is in force.
+69 The making of a development plan and making or refusing to Sections 9, 12 and 13 of make a variation of a development plan which for the time being the Act of 2000. is in force. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 70 The revocation or modification of a permission to develop land Section 44 of the Act of if the development to which the permission relates no longer 2000. conforms with the provisions of the development plan.
 
-71 Making a development contribution scheme. Section 48 of the Act of 2000. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+71 Making a development contribution scheme. Section 48 of the Act of 2000.
 
 72 Making or amending a supplementary development contribution Section 49 of the Act of scheme. 2000.
 
 73 Deciding to make, subject to variations and modifications, or Section 169 (as amended deciding not to make a draft planning scheme for strategic by section 51 of the development zones. Planning and Development (Amendment) Act 2010) of the Act of 2000.
 
-74 Amending or revoking a planning scheme for strategic develop- Section 171 of the Act of ment zones. 2000.
+74 Amending or revoking a planning scheme for strategic Section 171 of the Act of development zones. 2000.
 
 75 Adoption by a planning authority of a code of conduct for dealing Section 150 of the Act of with conflicts of interest and promoting public confidence in 2000. the integrity of the conduct of its business.
 
 76 Making or terminating of an agreement by two or more planning Section 244 of the Act of authorities for sharing the cost of performing functions under 2000. the Planning and Development Act 2000.
 
-77 Directing the manner in which a list of the planning applications Article 27 (inserted by received shall be made available to the members of a planning the Planning and Devel-authority. opment Regulations 2006 (S.I. No. 685 of 2006)) of the Planning and Development Regulations 2001 (S.I. No. 600 of 2001).
+77 Directing the manner in which a list of the planning applications Article 27 (inserted by received shall be made available to the members of a planning the Planning and authority. Development Regulations 2006 (S.I. No. 685 of 2006)) of the Planning and Development Regulations 2001 (S.I. No. 600 of 2001).
 
-78 Directing the manner in which a list of planning applications in Article 32 (inserted by respect of which decisions were given shall be made available the Planning and Devel-to the members of a planning authority. opment Regulations 2006) of the Planning and Development Regulations 2001.
+78 Directing the manner in which a list of planning applications in Article 32 (inserted by respect of which decisions were given shall be made available the Planning and to the members of a planning authority. Development Regulations 2006) of the Planning and Development Regulations 2001.
 
 79 Examining and considering a drainage scheme sent to a county Section 5 of the Arterial council by the Commissioners of Public Works and providing Drainage Act 1945 and observations to the Commissioners in regard to such scheme. section 5 of the Arterial Drainage (Amendment) Act 1995
 
-80 The consideration of a report on proposed coast protection Sections 2, 5, 8, 10 and works and the making of a declaration for the promotion of a 18 of the Coast Protec-coast protection scheme, the consideration of a report by the tion Act 1963. Commissioners of Public Works and the making of a declaration on the preparation and execution of a coast protection scheme, the making of a declaration that a coast protection scheme is or is not to be proceeded with and the making of an objection to the issue of a certificate of completion.
+80 The consideration of a report on proposed coast protection Sections 2, 5, 8, 10 and works and the making of a declaration for the promotion of a 18 of the Coast coast protection scheme, the consideration of a report by the Protection Act 1963. Commissioners of Public Works and the making of a declaration on the preparation and execution of a coast protection scheme, the making of a declaration that a coast protection scheme is or is not to be proceeded with and the making of an objection to the issue of a certificate of completion. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
 81 The making of an agreement by a fire authority to provide Section 10 of the Fire services for, or avail of the services of, any body or person other Services Act 1981. than a fire authority and the making of an agreement between fire authorities for the purpose of any of their functions.
 
-82 The making and revision by a fire authority of a plan for fire and Section 26 of the Fire emergency operations. Services Act 1981. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+82 The making and revision by a fire authority of a plan for fire and Section 26 of the Fire emergency operations. Services Act 1981.
 
 83 The making of a financial contribution by a local authority to Section 18 of the Air support or assist any person, or body of persons, engaged, or Pollution Act 1987. proposing to engage, in any research, survey or investigation into the nature and extent, the cause and effect, and the prevention or limitation, of air pollution or in any educational programme relating to such matters.
 
 84 The making, revoking or amending by a local authority of a Section 39 of the Air special control area order to prevent or limit air pollution and Pollution Act 1987. the giving of consent to the making of such an order by any other local authority.
 
-85 Entry into an agreement with the Environmental Protection Section 45 of the Envi- Agency to exercise or perform any function or service on behalf ronmental Protection of the Agency. Agency Act 1992.
+85 Entry into an agreement with the Environmental Protection Section 45 of the Agency to exercise or perform any function or service on behalf Environmental of the Agency. Protection Agency Act 1992.
 
-86 The making, review, variation or replacement by a local Section 46 of the Air authority of an air quality management plan. Pollution Act 1987.
+86 The making, review, variation or replacement by a local authority Section 46 of the Air of an air quality management plan. Pollution Act 1987.
 
 87 The making, revision or replacement by a local authority of a Section 15 of the Local water quality management plan. Government (Water Pollution) Act 1977.
 
@@ -346,17 +346,17 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 89 The making by a local authority of bye-laws in relation to a Section 89 of the harbour under its control or management, including bye-laws Harbours Act 1996 and with respect to the use of, and the safety of navigation within, section 199. a harbour and generally with respect to the regulation of a harbour, and for the purpose of enabling it to impose charges.
 
-90 The making by a local authority of bye-laws declaring all or any Sections 13 and 17 of part of its functional area to be a control area where it is satis-the Control of Horses fied that horses in that area should be licensed. Act 1996.
+90 The making by a local authority of bye-laws declaring all or any Sections 13 and 17 of part of its functional area to be a control area where it is the Control of Horses satisfied that horses in that area should be licensed. Act 1996.
 
 91 The making of bye-laws providing certain exemptions in relation Sections 13 and 19 of to a horse licence. the Control of Horses Act 1996.
 
-92 The entering by a local authority into arrangements with Sections 13 and 20 of another local authority, or any termination thereof, in relation the Control of Horses to the application for and the granting of horse licences on its Act 1996. behalf.
+92 The entering by a local authority into arrangements with another Sections 13 and 20 of local authority, or any termination thereof, in relation to the the Control of Horses application for and the granting of horse licences on its behalf. Act 1996.
 
 93 The making, replacement or revision of a water services strategic Section 36 of the Water plan, an application to the Minister for an extension of not more Services Act 2007. than 3 months after the latest date for the making of a water services strategic plan, and approving a joint plan, by a water services authority.
 
-94 The making of bye-laws, for the purpose of preventing or elimi- Section 21 of the Local nating the entry of polluting matter to waters, prohibiting the Government (Water carrying on of a specified activity. Pollution) (Amendment) Act 1990.
+94 The making of bye-laws, for the purpose of preventing or Section 21 of the Local eliminating the entry of polluting matter to waters, prohibiting Government (Water the carrying on of a specified activity. Pollution) (Amendment) Act 1990. Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
-95 The establishment of environmental objectives and the estab- Article 12 of the Euro-lishment of a programme of measures in order to achieve those pean Communities objectives in relation to each river basin district. (Water Policy) Regulations 2003 (S.I. No. 722 of 2003). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+95 The establishment of environmental objectives and the Article 12 of the establishment of a programme of measures in order to achieve European Communities those objectives in relation to each river basin district. (Water Policy) Regulations 2003 (S.I. No. 722 of 2003).
 
 96 The making and updating of a river basin management plan. Article 13 of the European Communities (Water Policy) Regulations 2003.
 
@@ -372,7 +372,7 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 102 The making of a decision to provide a public abattoir. Section 19 of the Abattoirs Act 1988.
 
-103 The making of a scheme dividing a county or city into polling Section 28 (as amended districts and appointing a polling place for each polling district by section 2 of the Elec-and an appointment of an alternative polling place for a polling toral (Amendment) Act district in a scheme for the time being in force. 1996) of the Electoral Act 1992.
+103 The making of a scheme dividing a county or city into polling Section 28 (as amended districts and appointing a polling place for each polling district by section 2 of the and an appointment of an alternative polling place for a polling Electoral (Amendment) district in a scheme for the time being in force. Act 1996) of the Electoral Act 1992.
 
 104 Entry into arrangements under section 15(2) or 15(3) of the Section 15 (as amended Control of Dogs Act 1986and the granting of assistance (other by section 6 of the than the provision of services of staff) under section 15(4) of Control of Dogs that Act. (Amendment) Act 1992) of the Control of Dogs Act 1986.
 
@@ -382,15 +382,15 @@ Local Government of differing proportion of such rate to that that would otherwi
 
 107 The passing by a local authority of a resolution that the basic Section 20 of the rate of local property tax should stand varied (either upwards Finance (Local Property or downwards) by a specified percentage in respect of relevant Tax) Act 2012. residential properties situated in the local authority’s functional area.
 
-108 Establishing, dissolving or replacing a local community develop- Section 49A (inserted by ment committee. section 36(1) of the Local Government Reform Act 2014).
+108 Establishing, dissolving or replacing a local community Section 49A (inserted by development committee. section 36(1) of the Local Government Reform Act 2014). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
 
-109 Appointment of members of a local community development Section 128D (inserted committee. by section 36(2) of the Local Government Reform Act 2014). Reference Description of reserved function Provision under which No. (2) reserved function is (1) conferred (3)
+109 Appointment of members of a local community development Section 128D (inserted committee. by section 36(2) of the Local Government Reform Act 2014).
 
 110 Approving a local and community development programme. Section 128B (inserted by section 36(2) of the Local Government Reform Act 2014).
 
 111 Adoption of an implementation plan setting out the steps to be Section 126D (inserted taken in respect of a report of the National Oversight and Audit by section 61(1) of the Commission. Local Government Reform Act 2014).
 
-112 Adoption of a statement indicating the actions already taken or Section 132 (inserted by planned to be taken by the chief executive to carry out the section 47 of the Local directions of the council in relation to the exercise and perfor- Government Reform Act mance of the reserved functions are not sufficient, stating the 2014). reasons for such opinion.
+112 Adoption of a statement indicating the actions already taken or Section 132 (inserted by planned to be taken by the chief executive to carry out the section 47 of the Local directions of the council in relation to the exercise and Government Reform Act performance of the reserved functions are not sufficient, stating 2014). the reasons for such opinion.
 
 113 The adoption of a Framework for Public Participation in Local Section 127 (inserted by Government. section 46 of the Local Government Reform Act 2014).
 

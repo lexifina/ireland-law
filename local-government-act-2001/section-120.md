@@ -14,4 +14,4 @@ Audit opinion and report.
 
 (3) An audit opinion, auditor’s report or auditor’s special report shall be addressed to the local authority or other body concerned.
 
-(4) Before the finalisation of an auditor’s report or an auditor’s special report, the local government auditor shall consult with thechief executive or chief officer of the audited body concerned, as the case may be, in respect of the matters the subject of such report and shall consider and record the comments of the chief executive or chief officer, as the case may be, which are of material significance to such matters.
+(4) Before the finalisation of an auditor’s report or an auditor’s special report, the local government auditor shall consult with the chief executive or chief officer of the audited body concerned, as the case may be, in respect of the matters the subject of such report and shall consider and record the comments of the chief executive or chief officer, as the case may be, which are of material significance to such matters.

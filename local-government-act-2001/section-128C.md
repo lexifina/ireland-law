@@ -12,7 +12,7 @@ Membership of Local Community Development Committees.
 
 (d) representatives of local community interests,
 
-(e) individuals acting in a private capacity who are or have been members or otherwise associated with any body (however described) of a type referred to in the definition of ‘local community representatives’ in section 128A,
+(e) individuals acting in a private capacity who are or have been members or otherwise associated with any body (however described) of a type referred to in the definition of "local community representatives" in section 128A,
 
 (f) representatives of publicly funded or supported local development bodies concerned with promoting the interests of local communities, and
 

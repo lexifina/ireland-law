@@ -1,3 +1,3 @@
-Changing of name of locality situated in more than one local authority area.
+Changing of name of locality situated in more than one local authority area. (Repealed)
 
 195.—...

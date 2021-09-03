@@ -1,4 +1,4 @@
-Provisions relating to the employment of persons by local authorities.
+Provisions
 
 158.—(1) (a) Subject to this Chapter, Chapter 2 of this Part and the Local Authorities (Officers and Employees) Acts, 1926 to 1983, a local authority may employ such and so many persons as the local authority may, from time to time, think proper.
 

@@ -8,4 +8,4 @@ Library authorities.
 
 (b) a city council;
 
-(c) a city and county council; and references to ‘library authority’ shall be read accordingly.
+(c) a city and county council; and references to "library authority" shall be read accordingly.

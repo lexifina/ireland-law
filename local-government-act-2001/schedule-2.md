@@ -32,4 +32,4 @@ Government Act, 2001
 
 “urban district council” or “council of an Town council of a town mentioned in urban district” Chapter 2 of Part 1 of Schedule 6.
 
-“town commissioners” or “commission- Town council of a town mentioned in ers of a town” Part 2 of Schedule 6.
+“town commissioners” or Town council of a town mentioned in “commissioners of a town” Part 2 of Schedule 6.

@@ -14,7 +14,9 @@ Local authority meetings.
 
 (2) In addition, a local authority may hold such special meetings as may be requisitioned by virtue of paragraph 6 or section 140 or as may be decided by resolution.
 
-(3) This Schedule shall as regards a special meeting convened for the purposes of section 34 or 146 be read subject to and in accordance with the requirements of the relevant section. Place, date and time of meetings.
+(3) This Schedule shall as regards a special meeting convened for the purposes of section 34 or 146 be read subject to and in accordance with the requirements of the relevant section.
+
+Place, date and time of meetings.
 
 2.—(1) A local authority shall provide or arrange for the provision of accommodation for the holding of meetings.
 
@@ -74,9 +76,7 @@ Local authority budget meeting.
 
 5. —A local authority shall hold its budget meeting in accordance with section 103 within the period directed by the Minister for the purposes of that section.
 
-Special meetings.
-
-6.—(1) A requisition to have a special meeting of a local authority convened (in this paragraph referred to as a “requisition”) may be made—
+Special meetings. 6.—(1) A requisition to have a special meeting of a local authority convened (in this paragraph referred to as a “requisition”) may be made—
 
 (a) by the Cathaoirleach,
 
@@ -146,9 +146,9 @@ Public notice of meetings.
 
 (3) By resolution or standing orders, a local authority may make such additional arrangements for the giving of public notice of meetings, including display of notice at additional locations, including but not limited to public libraries, or publication in a newspaper, electronically or otherwise, as it considers appropriate.
 
-(4) Failure to display or to supply a copy of a notice by virtue of this paragraph does not affect the validity of a meeting or of any act or thing done at the meeting.
+(4) Failure to display or to supply a copy of a notice by virtue of this paragraph does not affect the validity of a meeting or of any act or thing done at the meeting. Business of meeting.
 
-Business of meeting. 9.—Subject to paragraph 16, no business shall be transacted at a meeting other than that specified in the agenda which relates to the meeting or business required by this Act or otherwise by law to be transacted at the meeting.
+9.—Subject to paragraph 16, no business shall be transacted at a meeting other than that specified in the agenda which relates to the meeting or business required by this Act or otherwise by law to be transacted at the meeting.
 
 Chairing of meetings.
 
@@ -210,19 +210,19 @@ Disorderly conduct.
 
 (ii) on the next or subsequent occasions of it being so resolved and where paragraph (iii), (iv), (v) or (vi) does not apply, 10 per cent;
 
-(iii) on the next occasion of it being so resolved within 3 months of it being resolved in circumstances to which paragraph (i)or (ii) relates, 30 per cent;
+(iii) on the next occasion of it being so resolved within 3 months of it being resolved in circumstances to which paragraph (i) or (ii) relates, 30 per cent;
 
-(iv) on the next occasion of it being so resolved within 3 months of it being resolved in circumstances to which paragraph (iii)relates, 50 per cent;
+(iv) on the next occasion of it being so resolved within 3 months of it being resolved in circumstances to which paragraph (iii) relates, 50 per cent;
 
-(v) on the next occasion of it being so resolved within 3 months of it being resolved in circumstances to which paragraph (iv)relates, 70 per cent;
+(v) on the next occasion of it being so resolved within 3 months of it being resolved in circumstances to which paragraph (iv) relates, 70 per cent;
 
-(vi) on the next occasion of it being so resolved within 3 months of it being resolved in circumstances to which paragraph (v)relates, 90 per cent.
+(vi) on the next occasion of it being so resolved within 3 months of it being resolved in circumstances to which paragraph (v) relates, 90 per cent.
 
 (5)(a) Where at a meeting—
 
 (i) the resolutions referred to in clauses (a) and (b) of subparagraph (4) have been resolved, and
 
-(ii) where, following the chair expressing the further opinion that the member has continued to be disorderly by disregarding the ruling of the chair, or by behaving irregularly, improperly or offensively, or by otherwise obstructing the business of the meeting and the chair has conveyed such further opinion to the members present by naming the member concerned, it has been resolved further by at least two-thirds of those present and voting, on a motion moved by the chair or any member (which motion, if seconded, shall have been put and determined without discussion) that for a specified period ‘the member stand suspended with immediate effect from all meetings of the local authority and any committee of the local authority, and all meetings of municipal district members’ and the period so specified is, subject to clause (c), for at least one month but does not exceed 3 months, then the consequences provided for by subparagraph (4) shall not apply to the member concerned in relation to that suspension except and to the extent provided for by clause (g) in respect of any other suspension.
+(ii) where, following the chair expressing the further opinion that the member has continued to be disorderly by disregarding the ruling of the chair, or by behaving irregularly, improperly or offensively, or by otherwise obstructing the business of the meeting and the chair has conveyed such further opinion to the members present by naming the member concerned, it has been resolved further by at least two-thirds of those present and voting, on a motion moved by the chair or any member (which motion, if seconded, shall have been put and determined without discussion) that for a specified period "the member stand suspended with immediate effect from all meetings of the local authority and any committee of the local authority, and all meetings of municipal district members" and the period so specified is, subject to clause (c), for at least one month but does not exceed 3 months, then the consequences provided for by subparagraph (4) shall not apply to the member concerned in relation to that suspension except and to the extent provided for by clause (g) in respect of any other suspension.
 
 (b) Having regard to clause (f), the members of the local authority may, at any subsequent meeting during the period specified in the resolution under clause (a) (ii), pass a further resolution lifting the suspension, and the suspension shall be lifted with immediate effect.
 

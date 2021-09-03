@@ -1,3 +1,3 @@
-Election petitions in relation to direct elections.
+Election petitions in relation to direct elections. (Repealed)
 
 43.—...

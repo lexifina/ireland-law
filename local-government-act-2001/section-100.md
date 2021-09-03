@@ -1,3 +1,3 @@
-County council expenditure: town services.
+County council expenditure: town services. (Repealed)
 
 100.—...

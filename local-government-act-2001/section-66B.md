@@ -1,6 +1,6 @@
 Local economic and community plan.
 
-66B.— (1) Each local authority shall make, in accordance with section 66C and any regulations made, or general policy guidelines issued, by the Minister for the purposes of that section, and the principles of sustainable development, a 6 year local economic and community plan (in this section referred to as the ‘Plan’), which shall be referred to as the ‘Local Economic and Community Plan’, prefixed by the name of the local authority concerned, and the Plan shall be for—
+66B.— (1) Each local authority shall make, in accordance with section 66C and any regulations made, or general policy guidelines issued, by the Minister for the purposes of that section, and the principles of sustainable development, a 6 year local economic and community plan (in this section referred to as the "Plan"), which shall be referred to as the "Local Economic and Community Plan", prefixed by the name of the local authority concerned, and the Plan shall be for—
 
 (a) the promotion of economic development in its functional area, and
 

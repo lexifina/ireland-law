@@ -1,6 +1,6 @@
 Temporary arrangements with respect to certain polling districts and register of electors.
 
-28.—(1) In this section the ‘chief executive’ means—
+28.—(1) In this section the "chief executive" means—
 
 (a) in relation to any part of a polling district situated in a city, the chief executive for the city,
 

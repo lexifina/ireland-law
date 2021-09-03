@@ -12,7 +12,7 @@ Regulations and determinations (Part 12A).
 
 (3)(a) Where—
 
-(i) any doubt, dispute or question arises or, in the opinion of the Minister, is likely to arise as to whether a trust or other body or a class of such trust or other body is or is not a trust or other body or a class thereof to which paragraph (c) of the definition of ‘local government body’ applies, and
+(i) any doubt, dispute or question arises or, in the opinion of the Minister, is likely to arise as to whether a trust or other body or a class of such trust or other body is or is not a trust or other body or a class thereof to which paragraph (c) of the definition of "local government body" applies, and
 
 (ii) the Minister is of the opinion that such trust, other body or class is one to which the said paragraph (c) applies, then the Minister shall determine the matter accordingly and shall communicate his or her determination in writing to the Commission and to the local authorities and regional assemblies concerned.
 

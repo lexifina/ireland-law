@@ -1,6 +1,6 @@
 Local authority service delivery plans.
 
-134A.—(1) In respect of the local financial year which follows the commencement of this section and in respect of every financial year thereafter, each local authority shall prepare in accordance with subsection (5) a plan (in this section and Part 3 of Schedule 14A referred to as a ‘service delivery plan’) identifying the services intended to be provided by it to the public.
+134A.—(1) In respect of the local financial year which follows the commencement of this section and in respect of every financial year thereafter, each local authority shall prepare in accordance with subsection (5) a plan (in this section and Part 3 of Schedule 14A referred to as a "service delivery plan") identifying the services intended to be provided by it to the public.
 
 (2) The service delivery plan of a local authority shall be consistent with the provisions in the local authority budget of the expenditure estimated to be necessary for the local authority to carry out its functions during the local financial year to which that plan relates.
 

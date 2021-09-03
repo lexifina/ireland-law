@@ -1,3 +1,3 @@
-General provisions relating to change of names.
+General provisions relating to change of names. (Repealed)
 
 196.—...

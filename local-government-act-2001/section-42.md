@@ -1,3 +1,3 @@
-Amendments
+Amendments to certain Acts, relating to direct elections, etc. (Repealed)
 
 42.—...

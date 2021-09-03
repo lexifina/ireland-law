@@ -4,7 +4,7 @@ Rating authority approval of a business improvement district scheme.
 
 (a) specify an area within the administrative area and establish that area as a business improvement district, and
 
-(b) approve implementation of a scheme (‘BID scheme’) to carry out or provide one or more projects, services or works described in subsection (2) and which scheme is financed in whole or in part by BID contribution levies under this Part.
+(b) approve implementation of a scheme ("BID scheme") to carry out or provide one or more projects, services or works described in subsection (2) and which scheme is financed in whole or in part by BID contribution levies under this Part.
 
 (2) The projects, services and works referred to in subsection (1)(b) shall, in the rating authority’s opinion, be—
 

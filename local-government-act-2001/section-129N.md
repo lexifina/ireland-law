@@ -12,7 +12,7 @@ B is the valuation of the rateable property, according to the latest valuation l
 
 (3) If a rateable property described in subsection (1) is unoccupied on the date that the annual BID multiplier is determined, the amount of the BID contribution levy is to be determined by applying the formula set out in subsection (2) and dividing that result by 2.
 
-(4) Notice of the BID contribution levy imposed on a rateable property under this section shall be sent by post or otherwise delivered to the person liable to pay the levy for that property under subsection (5) (the ‘BID levypayer’) and the notice shall include the following information:
+(4) Notice of the BID contribution levy imposed on a rateable property under this section shall be sent by post or otherwise delivered to the person liable to pay the levy for that property under subsection (5) (the "BID levypayer") and the notice shall include the following information:
 
 (a) the amount of the BID contribution levy;
 
@@ -30,9 +30,9 @@ B is the valuation of the rateable property, according to the latest valuation l
 
 (8) The BID contribution levy for which a BID levypayer is liable under this section is recoverable as a simple contract debt in any court of competent jurisdiction and, if there is more than one such levypayer in respect of a rateable property subject to the levy, those levypayers are jointly and severally liable for that levy.
 
-(9) A BID contribution levy is not invalidated by any error or defect in the statement of the name of the BID levypayer in the notice under subsection (4) or by the use of the description ‘the owner’ or ‘the occupier’ without any name or addition, and the levy is recoverable from the BID levypayer notwithstanding any such error or defect or the use of any such description.
+(9) A BID contribution levy is not invalidated by any error or defect in the statement of the name of the BID levypayer in the notice under subsection (4) or by the use of the description "the owner" or "the occupier" without any name or addition, and the levy is recoverable from the BID levypayer notwithstanding any such error or defect or the use of any such description.
 
-(10) For the purposes of this section, rateable property is ‘unoccupied’ if the person who owns the property on the date that the annual BID multiplier is determined (the ‘owner’) satisfies the rating authority that—
+(10) For the purposes of this section, rateable property is "unoccupied" if the person who owns the property on the date that the annual BID multiplier is determined (the "owner") satisfies the rating authority that—
 
 (a) the owner was not occupying the property on that date,
 

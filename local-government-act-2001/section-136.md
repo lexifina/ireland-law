@@ -28,4 +28,4 @@ Furnishing of information to elected council.
 
 (6) In respect of management reports not considered at a meeting of the local authority, such reports shall be on the agenda of the next appropriate meeting of the local authority for consideration.
 
-(7) In this section ‘quarterly basis’ means a period of 3 consecutive months ending on 31 March, 30 June, 30 September or 31 December in any year.
+(7) In this section "quarterly basis" means a period of 3 consecutive months ending on 31 March, 30 June, 30 September or 31 December in any year.

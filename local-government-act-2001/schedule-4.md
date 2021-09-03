@@ -34,7 +34,7 @@ Government Act,
 
 2001;” for “referred to in section 68(2) of the Local Government Act, 1941;”.
 
-No. 33 of 1998 Housing (Traveller Accom- In section 24, substitute modation) Act, 1998 “under subsections (4) and (5) of section 138 of the
+No. 33 of 1998 Housing (Traveller In section 24, substitute Accommodation) Act, 1998 “under subsections (4) and (5) of section 138 of the
 
 Local Government Act,
 

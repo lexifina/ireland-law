@@ -1,6 +1,6 @@
 Separate BID fund to be established following approval of BID scheme.
 
-129K.— (1) Within 60 days after the BID approval date, the rating authority that approves implementation of a BID scheme shall establish a fund (‘BID fund’) for that scheme.
+129K.— (1) Within 60 days after the BID approval date, the rating authority that approves implementation of a BID scheme shall establish a fund ("BID fund") for that scheme.
 
 (2) In the case of a BID scheme that is approved for renewal under section 129B, the BID fund previously established for that scheme is continued on that approval.
 

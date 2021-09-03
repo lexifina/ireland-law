@@ -2,7 +2,7 @@ Appointment of chief executive.
 
 145.— (1) The following are reserved functions—
 
-(a) the appointment by a county council, city council or a city and county council of a chief executive under section 6 of the Local Authorities (Officers and Employees) Act 1926 (in this section referred to as the ‘Act of 1926’) by virtue of a recommendation of the Chief Executive of the Public Appointments Service, and
+(a) the appointment by a county council, city council or a city and county council of a chief executive under section 6 of the Local Authorities (Officers and Employees) Act 1926 (in this section referred to as the "Act of 1926") by virtue of a recommendation of the Chief Executive of the Public Appointments Service, and
 
 (b) the suspension or removal from employment of a chief executive in accordance with section 146.
 

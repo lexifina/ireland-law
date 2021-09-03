@@ -1,3 +1,3 @@
-Expenses of certain town councils.
+Expenses of certain town councils. (Repealed)
 
 101.—...

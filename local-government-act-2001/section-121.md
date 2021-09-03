@@ -1,6 +1,6 @@
 Consideration of annual financial statement and auditor’s report.
 
-121.—(1) Following receipt by the local authority or joint body (in this section referred to as a ‘relevant authority’) of the audited financial statement, auditor’s report or auditor’s special report, the chief executive of the relevant authority shall provide that statement or report to the audit committee for consideration at the next practicable meeting of the committee.
+121.—(1) Following receipt by the local authority or joint body (in this section referred to as a "relevant authority") of the audited financial statement, auditor’s report or auditor’s special report, the chief executive of the relevant authority shall provide that statement or report to the audit committee for consideration at the next practicable meeting of the committee.
 
 (2) The local government auditor who conducted the audit, or who has been appointed in accordance with section 124, shall attend a meeting of the audit committee to present his or her report and clarify such issues as may be necessary in relation to the content of the auditor’s report or special report.
 

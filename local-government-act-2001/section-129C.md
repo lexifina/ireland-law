@@ -1,6 +1,6 @@
 BID proposal.
 
-129C.— (1) A person proposing a scheme for approval under section 129B may submit the proposal (‘BID proposal’) to the rating authority concerned.
+129C.— (1) A person proposing a scheme for approval under section 129B may submit the proposal ("BID proposal") to the rating authority concerned.
 
 (2) The BID proposal shall—
 
@@ -20,7 +20,7 @@ BID proposal.
 
 (iv) those terms of the scheme that may be altered by consent of the rating authority and the BID company referred to in subparagraph (iii),
 
-(e) specify the projects, services or works, if any, that are currently being carried out or provided by the rating authority concerned (‘baseline services’) and are relevant to the scheme being proposed,
+(e) specify the projects, services or works, if any, that are currently being carried out or provided by the rating authority concerned ("baseline services") and are relevant to the scheme being proposed,
 
 (f) provide estimates of the following for each year over which the scheme being proposed is to operate:
 

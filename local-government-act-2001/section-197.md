@@ -1,3 +1,3 @@
-Display of name of street, etc.
+Display of name of street, etc. (Repealed)
 
 197.—...

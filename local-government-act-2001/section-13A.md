@@ -4,4 +4,4 @@ Application of disqualification to members of Dáil Éireann and Seanad Éireann
 
 (2) In respect of local elections to be held in the year 2004 and thereafter, section 13(1) shall be read as if the following were substituted for paragraph (e):
 
-‘(e) is a member of Dáil Éireann or Seanad Éireann, or’.
+"(e) is a member of Dáil Éireann or Seanad Éireann, or".

@@ -28,4 +28,4 @@ B is the rateable valuation of the property.
 
 (a) any references in those provisions to section 211B shall be construed as references to this section;
 
-(b) any references in those provisions to ‘entry year’ shall be construed as references to ‘post-entry year’.
+(b) any references in those provisions to "entry year" shall be construed as references to "post-entry year".

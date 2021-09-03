@@ -1,3 +1,3 @@
-Submissions to Commission.
+Submissions to Commission. (Repealed)
 
 95.—...

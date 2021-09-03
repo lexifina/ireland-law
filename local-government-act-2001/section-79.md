@@ -1,3 +1,3 @@
-An Chomhairle Leabharlanna.
+An Chomhairle Leabharlanna. (Repealed)
 
 79.—....

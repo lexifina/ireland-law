@@ -20,4 +20,4 @@ General provisions relating to change of names.
 
 (b) Without prejudice to the generality of paragraph (a), regulations under that paragraph may make provision in relation to the bearing of the costs incurred by local authorities in the performance of their functions under section 190 or as a consequence of the substitution of a placename under that section.
 
-(6) In this section ‘Gaeltacht area’ has the same meaning as it has in the Official Languages Act 2003.
+(6) In this section "Gaeltacht area" has the same meaning as it has in the Official Languages Act 2003.

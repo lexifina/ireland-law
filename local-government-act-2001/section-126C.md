@@ -2,7 +2,7 @@ Functions of Commission.
 
 126C.—(1) The functions of the Commission are as follows:
 
-(a) to scrutinise the performance of any local government body against or in comparison with any indicative matter (in this Part referred to as ‘relevant indicators’) that—
+(a) to scrutinise the performance of any local government body against or in comparison with any indicative matter (in this Part referred to as "relevant indicators") that—
 
 (i) the Commission considers it appropriate to refer to (which shall include indicative matters relating to customer service), or
 

@@ -1,6 +1,6 @@
 Co-operation with Local Community Development Committees.
 
-128F.— (1) In this section ‘relevant body’ means—
+128F.— (1) In this section "relevant body" means—
 
 (a) a local authority,
 

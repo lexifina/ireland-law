@@ -1,3 +1,3 @@
-County or City Development Boards.
+County or City Development Boards. (Repealed)
 
 129.—...

@@ -1,6 +1,6 @@
 Submissions to Commission.
 
-126G.—(1) The Commission may give public notice of its intention to prepare a report (in this section referred to as a ‘proposed report’) to which section 126C(1)(i) or 126D relates.
+126G.—(1) The Commission may give public notice of its intention to prepare a report (in this section referred to as a "proposed report") to which section 126C(1)(i) or 126D relates.
 
 (2) The public notice referred to in subsection (1), which shall be published in a newspaper circulating in the area to which the subject matter of the proposed report relates, shall indicate that—
 

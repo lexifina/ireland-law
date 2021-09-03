@@ -22,7 +22,7 @@ Consultation with local community.
 
 (g) arrange for the holding of information meetings and the dissemination of information to the public in relation to any matter connected with its functions.
 
-(3) Without prejudice to the generality of subsection (1) each local authority shall, in accordance with regulations made under subsection (6) and general guidelines issued under subsection (7), adopt a document to be known as a Framework for Public Participation in Local Government (in this section referred to as the ‘Framework’) for the purposes of promoting, developing and implementing a coherent and integrated approach to participation in decision-making processes of the local authority by the local community.
+(3) Without prejudice to the generality of subsection (1) each local authority shall, in accordance with regulations made under subsection (6) and general guidelines issued under subsection (7), adopt a document to be known as a Framework for Public Participation in Local Government (in this section referred to as the "Framework") for the purposes of promoting, developing and implementing a coherent and integrated approach to participation in decision-making processes of the local authority by the local community.
 
 (4) For the purposes of subsection (3), the Framework shall seek to provide for participation by the local community within municipal districts and shall include the following:
 

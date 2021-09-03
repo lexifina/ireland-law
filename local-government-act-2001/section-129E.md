@@ -18,7 +18,7 @@ Public input to BID proposal.
 
 (iii) if a copy of the proposal is also published on the internet pursuant to section 129D(2), the website address for viewing that copy, and
 
-(e) indicate that any person may, in the manner and by a date specified in the notice (‘closing date’), make a submission in relation to the BID proposal.
+(e) indicate that any person may, in the manner and by a date specified in the notice ("closing date"), make a submission in relation to the BID proposal.
 
 (3) For the purposes of subsection (2)(b), the notice may include—
 

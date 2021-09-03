@@ -32,7 +32,7 @@ Functions of Local Community Development Committees.
 
 (3)(a) The Committee may enter into an agreement in writing with a public authority, local development or community development body, or other person for the carrying out of those functions by such an authority, body or person, as the case may be, which the Committee considers appropriate to be carried out by such an authority, body or person, subject to such terms, conditions, restrictions and other requirements as the Committee considers necessary and specifies in the agreement.
 
-(b) In this subsection a ‘local development or community development body’ includes a not-for-profit organisation that provides programmes, offers services or engages in other activities that promote and support the interests of a local community or any part of a community or group within a local community.
+(b) In this subsection a "local development or community development body" includes a not-for-profit organisation that provides programmes, offers services or engages in other activities that promote and support the interests of a local community or any part of a community or group within a local community.
 
 (4)(a) The Minister may, with the consent of the Minister for Public Expenditure and Reform, by order confer on a Committee or Committees such additional functions connected with the functions for the time being of a Committee, class of Committees or Committees generally (as the case may be) as the Minister determines, subject to such conditions (if any) as may be specified in the order.
 

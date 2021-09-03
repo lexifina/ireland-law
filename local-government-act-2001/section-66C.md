@@ -14,7 +14,7 @@ Preparation and making of local economic and community plans.
 
 (2)(a) Each local authority in developing the economic elements of the Plan shall, in accordance with regulations made by the Minister under section 66H—
 
-(i) consult with members of the public (in this subsection referred to as a ‘public consultation process’) by publishing a public notice (which notice may be given by means of the internet or otherwise) inviting them to make observations or other submissions in writing to the local authority in relation to its proposed development of those elements of the Plan and, in relation to the observations and other submissions so made—
+(i) consult with members of the public (in this subsection referred to as a "public consultation process") by publishing a public notice (which notice may be given by means of the internet or otherwise) inviting them to make observations or other submissions in writing to the local authority in relation to its proposed development of those elements of the Plan and, in relation to the observations and other submissions so made—
 
 (I) prepare and publish a report on them, and
 
@@ -42,7 +42,7 @@ Preparation and making of local economic and community plans.
 
 (3)(a) The Committee, in developing the community elements of the Plan shall, in accordance with regulations made by the Minister under section 66H—
 
-(i) consult with members of the public (in this subsection referred to as a ‘public consultation process’) by publishing a public notice (which notice may be given by means of the internet or otherwise) inviting them to make observations or other submissions in writing to the local authority in relation to its proposed development of those elements of the Plan and, in relation to the observations and other submissions so made—
+(i) consult with members of the public (in this subsection referred to as a "public consultation process") by publishing a public notice (which notice may be given by means of the internet or otherwise) inviting them to make observations or other submissions in writing to the local authority in relation to its proposed development of those elements of the Plan and, in relation to the observations and other submissions so made—
 
 (I) prepare and publish a report on them, and
 

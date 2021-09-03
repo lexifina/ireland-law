@@ -1,3 +1,3 @@
-Eligibility and tenure of office of members, etc.
+Eligibility and tenure of office of members, etc. (Repealed)
 
 92.—...

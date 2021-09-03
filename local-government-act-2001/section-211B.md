@@ -18,7 +18,7 @@ D is the total number of days in the entry year.
 
 (4) If qualifying property is unoccupied on the entry date, the amount of the levy is to be determined by applying the formula set out in subsection (3) and dividing that result by 2.
 
-(5) Notice of the levy shall be sent by post or otherwise delivered to the person liable to pay the levy for the qualifying property under subsection (6) (the ‘levypayer’) and the notice shall include the following information:
+(5) Notice of the levy shall be sent by post or otherwise delivered to the person liable to pay the levy for the qualifying property under subsection (6) (the "levypayer") and the notice shall include the following information:
 
 (a) the amount of the levy;
 
@@ -36,9 +36,9 @@ D is the total number of days in the entry year.
 
 (9) The levy for which a levypayer is liable under this section is recoverable as a simple contract debt in any court of competent jurisdiction and, if there is more than one levypayer in respect of the qualifying property, those levypayers are jointly and severally liable for that levy.
 
-(10) A levy is not invalidated by any error or defect in the statement of the name of the levypayer in the notice under subsection (5) or by the use of the description ‘the owner’ or ‘the occupier’ without any name or addition, and the levy is recoverable from the levypayer notwithstanding any such error or defect or the use of any such description.
+(10) A levy is not invalidated by any error or defect in the statement of the name of the levypayer in the notice under subsection (5) or by the use of the description "the owner" or "the occupier" without any name or addition, and the levy is recoverable from the levypayer notwithstanding any such error or defect or the use of any such description.
 
-(11) For the purposes of this section and section 211E, qualifying property is ‘unoccupied’ if the person who owns the property on the entry date (the ‘owner’) satisfies the rating authority that—
+(11) For the purposes of this section and section 211E, qualifying property is "unoccupied" if the person who owns the property on the entry date (the "owner") satisfies the rating authority that—
 
 (a) the owner was not occupying the property on that date,
 

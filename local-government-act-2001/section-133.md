@@ -1,6 +1,6 @@
 Corporate policy group.
 
-133.—(1) The elected council of each local authority shall form a committee, to be known as the corporate policy group and in this section referred to as the ‘policy group’, consisting of—
+133.—(1) The elected council of each local authority shall form a committee, to be known as the corporate policy group and in this section referred to as the "policy group", consisting of—
 
 (a) the Cathaoirleach of the local authority who shall chair the policy group,
 

@@ -22,7 +22,7 @@ Tenure of chief executive.
 
 (a) the form of the prescribed notification;
 
-(b) the period (in this section referred to as the ‘notification period’) within which a prescribed notification shall be given;
+(b) the period (in this section referred to as the "notification period") within which a prescribed notification shall be given;
 
 (c) subject to subsection (2), the period by which the tenure period shall be extended;
 
@@ -32,7 +32,7 @@ Tenure of chief executive.
 
 (5) Subject to regulations made under subsection (4)(d) —
 
-(a) a chief executive whose tenure period is extended under subsection (2) shall not apply for appointment to any position of chief executive during the period commencing on the date the chief executive gives a prescribed notification and ending on a date which is 6 months prior to the expiration of the extended tenure period (in this subsection referred to as the ‘exclusion period’), and
+(a) a chief executive whose tenure period is extended under subsection (2) shall not apply for appointment to any position of chief executive during the period commencing on the date the chief executive gives a prescribed notification and ending on a date which is 6 months prior to the expiration of the extended tenure period (in this subsection referred to as the "exclusion period"), and
 
 (b) notwithstanding section 6 of the Local Authorities (Officers Employees) Act 1926, a chief executive who has given a prescribed notification shall not be considered by the Public Appointments Service for selection for any position of chief executive during the exclusion period.
 
@@ -46,6 +46,6 @@ Tenure of chief executive.
 
 (9) Nothing in this section operates to interfere with or alter the tenure of a chief executive—
 
-(a) whose tenure is governed by an order under section 47 of the Local Government Act 1991 (in this subsection referred to as the ‘Act of 1991’), or
+(a) whose tenure is governed by an order under section 47 of the Local Government Act 1991 (in this subsection referred to as the "Act of 1991"), or
 
 (b) whose tenure is governed by such an order and section 47A (inserted by section 1 of the Local Government Act 2000) of the Act of 1991, notwithstanding the repeal by this Act of the Act of 1991 and of the Local Government Act 2000.

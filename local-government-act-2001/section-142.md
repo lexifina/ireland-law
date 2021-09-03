@@ -80,7 +80,7 @@ Members’ expenses, remuneration, etc.
 
 (c) A local authority may provide in its budget an amount to meet expenditure for the purposes of this subsection.
 
-(d) An elected council shall not authorise under this subsection unless, having had regard to the following matters, it is satisfied that the authorisation is justified having particular regard to any training referred to in guidelines issued in accordance with paragraph (f)and having regard to—
+(d) An elected council shall not authorise under this subsection unless, having had regard to the following matters, it is satisfied that the authorisation is justified having particular regard to any training referred to in guidelines issued in accordance with paragraph (f) and having regard to—
 
 (i) the benefits likely to accrue,
 
