@@ -16,7 +16,11 @@ Estoppel when contribution is claimed.
 
 (6) (a) A decision on the proportion of fault between claimant and contributor on a claim for contribution shall be binding upon the same persons in a subsequent claim in respect of damage suffered by one or both of them arising out of the same facts, and, conversely, such a decision in a claim in respect of such damage shall be binding upon the same persons in a subsequent claim for contribution.
 
-(b) Paragraph (a) of this subsection shall apply between two parties notwithstanding that one of them is party to the two actions in different capacities.
+(b) Paragraph
+
+## (a)
+
+of this subsection shall apply between two parties notwithstanding that one of them is party to the two actions in different capacities.
 
 (7) A concurrent wrongdoer who makes a payment to the injured person without action in settlement of the injured person’s claim against himself and who subsequently claims contribution under section 22 shall, where the injured person has sued the contributor, be bound by the apportionment made by the court in the injured person’s action in accordance with paragraph (h) of subsection (1) of section 35.
 
