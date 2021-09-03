@@ -34,6 +34,8 @@ Provision of housing services.
 
 (ii) to tenants of dwellings to which section 31 (1) applies,
 
-(c) the management, maintenance and refurbishment under section 28 of any dwelling, building or land of which the housing authority is the owner or which is under its management and control, and
+(c) the management, maintenance and refurbishment under section 28 of any dwelling, building or land of which the housing authority is the owner or which is under its management and control,
 
-(d) the reconstruction or improvement under section 12 of the Act of 1988 of certain houses provided by housing authorities.
+(d) the reconstruction or improvement under section 12 of the Act of 1988 of certain houses provided by housing authorities, and
+
+(e) cost rental dwellings within the meaning of Part 3 of the Affordable Housing Act 2021.

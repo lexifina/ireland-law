@@ -66,7 +66,7 @@ Information requirements.
 
 (iia) the purchase of a house under Part 3 of the Housing (Miscellaneous Provisions) Act 2014, or
 
-(iii) the purchase of a dwelling under an affordable dwelling purchase arrangement under Part 5.
+(iii) the purchase of an affordable dwelling within the meaning of section 4 of the Affordable Housing Act 2021 under Part 2 of that Act.
 
 (b) Regulations made under this subsection may provide for the following:
 

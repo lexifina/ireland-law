@@ -14,7 +14,7 @@ Development to which section 96 shall not apply.
 
 (3) A person may, before applying for permission in respect of a development—
 
-(a) consisting of the provision of 9 or fewer houses, or
+(a) consisting of the provision of 4 or fewer houses, or
 
 (b) for housing on land of 0.1 hectares or less, apply to the planning authority concerned for a certificate stating that section 96 shall not apply to a grant of permission in respect of the development concerned (in this section referred to as a “certificate”), and accordingly, where the planning authority grants a certificate, section 96 shall not apply to a grant of permission in respect of the development concerned.
 
@@ -60,7 +60,7 @@ Development to which section 96 shall not apply.
 
 (12) A planning authority shall not grant a certificate in relation to a development if the applicant for such certificate, or any person with whom the applicant is acting in concert—
 
-(a) has been granted, not earlier than 5 years before the date of the application, a certificate in respect of a development, and the certificate at the time of the application remains in force, or
+(a) has been granted, not earlier than 5 years before the date of the application, a certificate in respect of a development on the land on which it is proposed to carry out the first-mentioned development or land in its immediate vicinity, and the certificate at the time of the application remains in force, or
 
 (b) has carried out, or has been granted permission to carry out, a development referred to in subsection (3), not earlier than—
 

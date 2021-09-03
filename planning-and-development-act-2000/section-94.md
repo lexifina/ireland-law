@@ -32,15 +32,21 @@ Housing strategies.
 
 (4) (a) A housing strategy shall include an estimate of the amount of—
 
-(i) housing for the purposes of the provision of social housing support within the meaning of the Housing (Miscellaneous Provisions) Act 2009, and
+(i) housing for the purposes of the provision of social housing support within the meaning of the Housing (Miscellaneous Provisions) Act 2009, ...
 
-(ii) housing for eligible households (within the meaning of section 78 of the Housing (Miscellaneous Provisions) Act 2009, required in the area of the development plan during the period of the development plan and the estimate may state the different requirements for different areas within the area of the development plan.
+(ii) housing for eligible applicants within the meaning of Part 2 of the Affordable Housing Act 2021, and
 
-(b)...
+(iii) cost rental housing, required in the area of the development plan during the period of the development plan and the estimate may state the different requirements for different areas within the area of the development plan.
 
-(c) Subject to paragraph (d), a housing strategy shall provide that as a general policy a specified percentage, not being more than 10 per cent, of the land zoned for residential use, or for a mixture of residential and other uses, shall be reserved under this Part for the provision of housing for the purposes of either or both subparagraphs (i) and (ii) of paragraph (a).
+(b) ...
 
-(d) Paragraph (c) shall not operate to prevent any person (including a local authority) from using more than 10 per cent of land zoned for residential use, or for a mixture of residential and other uses, for the provision of housing to which paragraph (a) applies.
+(c) Subject to paragraph (d), a housing strategy shall provide that as a general policy a specified percentage, not being more than 20 per cent, of—
+
+(i) the land zoned for residential use, or for a mixture of residential and other uses, and
+
+(ii) any land which is not zoned for residential use, or for a mixture of residential and other uses, but in respect of which permission for the development of houses is granted, shall be reserved under this Part for the provision of housing for the purposes of one or more of subparagraphs (i), (ii) and (iii) of paragraph (a).
+
+(d) Paragraph (c) shall not operate to prevent any person (including a local authority) from using more than 20 per cent of land in respect of which permission for the development of houses is granted for the provision of housing to which paragraph (a) applies.
 
 (5) (a) When making an estimate under subsection (4)(a)(ii), the planning authority shall have regard to the following:
 
@@ -54,8 +60,30 @@ Housing strategies.
 
 (v) the relationship between the price of housing under subparagraph (ii), incomes under subparagraph (iii) and rates of interest under subparagraph (iv) for the purpose of establishing the affordability of houses in the area of the development plan;
 
-(va) the number of households who have applied to purchase an affordable dwelling under an affordable dwelling purchase arrangement pursuant to Part 5 of the Housing (Miscellaneous Provisions) Act 2009;
+(va) ...
 
 (vi) such other matters as the planning authority considers appropriate or as may be prescribed for the purposes of this subsection.
 
 (b) Regulations made for the purposes of this subsection shall not affect any housing strategy or the objectives of any development plan made before those regulations come into operation.
+
+(6) (a) When making an estimate under subsection (4)(a)(iii), the planning authority shall have regard to the following:
+
+(i) the supply of and demand for houses for rent in the whole or part of the area of the development plan;
+
+(ii) the cost of rents applicable to houses generally, or to houses of a particular class or classes, in the whole or part of the area of the development plan;
+
+(iii) the income of persons generally, or of a particular class or classes of person, who require houses for rent in the area of the development plan;
+
+(iv) the relationship between the cost of rents referred to in subparagraph (ii) and incomes referred to in subparagraph (iii) for the purpose of establishing the affordability of housing for rent in the area of the development plan;
+
+(v) such other matters as the planning authority considers appropriate or as may be prescribed for the purposes of this subsection.
+
+(b) Regulations made for the purposes of this subsection shall not affect any housing strategy or the objectives of any development plan made before those regulations come into operation.
+
+(7) Where on the date on which this subsection comes into operation a development plan includes a housing strategy—
+
+(a) the chief executive of the planning authority shall, for the purpose of the performance by a planning authority of its functions under this Part, make an estimate of the amount of housing referred to in subparagraphs (ii) and (iii) of subsection (4)(a) required in the area of the development plan during the period of the development plan,
+
+(b) such estimate may state the different requirements for housing for different areas within the area of the development plan, and
+
+(c) such estimate shall be deemed to be included in the housing strategy concerned.

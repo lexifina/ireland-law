@@ -20,7 +20,7 @@ Letting and sale of local authority housing.
 
 (b) Part 4 of the said Act, ...
 
-(c) Part 5 of the said Act or an affordable dwelling purchase arrangement under the said Part 5, ...
+(c) Part 2 of the Affordable Housing Act 2021,
 
 (d) section 90 of the Housing Act 1966 (inserted by section 26 of the Housing (Miscellaneous Provisions) Act 1992) or a purchase scheme under the said section 90, or
 
@@ -30,11 +30,11 @@ Letting and sale of local authority housing.
 
 (ii) in the case of Part 4 of the said Act, a tenant,
 
-(iii) in the case of an affordable dwelling purchase arrangement, an eligible household (within the meaning of Part 5 of the said Act), ...
+(iii) in the case of an affordable dwelling purchase arrangement under Part 2 of the Affordable Housing Act 2021, an eligible applicant within the meaning of section 4 of that Act,
 
 (iv) in the case of section 90 of the Housing Act 1966, a tenant, or
 
-(v) in the case of Part 3 of the Housing (Miscellaneous Provisions) Act 2014, a tenant, where the authority considers that the said tenant or the said eligible household or any member of the eligible household or of the tenant’s household, as the case may be, is or has been engaged in anti-social behaviour or that a sale to that eligible household or tenant would not be in the interest of good estate management.
+(v) in the case of Part 3 of the Housing (Miscellaneous Provisions) Act 2014, a tenant, where the authority considers that the said tenant or the said eligible applicant or any member of the eligible applicant’s household or of the tenant’s household, as the case may be, is or has been engaged in anti-social behaviour or that a sale to that eligible applicant’s household or tenant would not be in the interest of good estate management.
 
 (3) Section 90 (12) of the Housing Act, 1966 (inserted by section 26 of the Housing (Miscellaneous Provisions) Act, 1992), is hereby amended by the substitution of the following paragraph for paragraph (a)—
 
