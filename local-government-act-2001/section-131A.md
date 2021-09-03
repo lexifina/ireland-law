@@ -52,6 +52,6 @@ Performance of reserved functions in respect of municipal district members.
 
 (vi) that a particular function set out in paragraphs 5, 6 or 7 of Schedule 14 or Part 1 or 2 of Schedule 14A shall only be performable in every instance by the local authority concerned;
 
-(vii) provisions to determine whether a function specified in paragraph 5, 6 or 7 of Schedule 14 and Part 2 of Schedule 14A should, in particular circumstances be performed by municipal district members or by the local authority.
+(vii) provisions to determine whether a function specified in paragraphs 5, 6 or 7 of Schedule 14 and Part 2 of Schedule 14A should, in particular circumstances be performed by municipal district members or by the local authority.
 
 (6) The Minister may issue general policy guidelines to local authorities for the purposes of any provision of this section (including any regulations made under it) and each local authority shall comply with any such guidelines.
