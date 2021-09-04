@@ -1,6 +1,6 @@
 Security of periodic payments order.
 
-51J. (1) A court may make a periodic payments order where it is satisfied that continuity of the payments under the order is reasonably secure.
+51J.— (1) A court may make a periodic payments order where it is satisfied that continuity of the payments under the order is reasonably secure.
 
 (2) In considering whether continuity of the payments under a periodic payments order is reasonably secure, a court shall have regard to the following matters:
 
@@ -18,4 +18,4 @@ Security of periodic payments order.
 
 (a) are such as to be capable of making the proposed payments to a plaintiff during his or her lifetime, and
 
-(b) are capable of being adjusted in accordance with the Harmonised Index of Consumer Prices as published by the Central Statistics Office or such other index as may be specified by the Minister under section 51L.
+(b) are capable of being adjusted in accordance with the periodic payments index.

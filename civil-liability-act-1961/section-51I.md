@@ -1,6 +1,6 @@
 Award of damages by periodic payments.
 
-51I. (1) Subject to subsection (2) and section 51J, where a court awards damages for personal injuries to a plaintiff who has suffered a catastrophic injury, the court may order that the whole or part of such damages which relate to—
+51I.— (1) Subject to subsection (2) and section 51J, where a court awards damages for personal injuries to a plaintiff who has suffered a catastrophic injury, the court may order that the whole or part of such damages which relate to—
 
 (a) the future medical treatment of the plaintiff,
 
@@ -8,7 +8,7 @@ Award of damages by periodic payments.
 
 (c) the provision of assistive technology or other aids and appliances associated with the medical treatment and care of the plaintiff, and
 
-(d) where the parties consent in writing, damages in respect of future loss of earnings, be paid by a defendant in the proceedings concerned in the form of periodic payments to the plaintiff in such amounts as the court may determine (in this Part referred to as a ‘periodic payments order’).
+(d) where the parties consent in writing, damages in respect of future loss of earnings, be paid by a defendant in the proceedings concerned in the form of periodic payments to the plaintiff in such amounts as the court may determine (in this Part referred to as a "periodic payments order").
 
 (2) In deciding whether or not to make a periodic payments order, a court shall have regard to—
 
@@ -42,7 +42,7 @@ Award of damages by periodic payments.
 
 (iii) refuse the application and make a periodic payments order under subsection (1).
 
-(4) Where it is anticipated that there will be changes in a plaintiff’s circumstances during his or her life which are likely to have an effect on his or her needs, a court may make provision in a periodic payments order that a payment under the order shall, from a specified date, increase or decrease by a specified amount (in this Part referred to as a ‘stepped payment’).
+(4) Where it is anticipated that there will be changes in a plaintiff’s circumstances during his or her life which are likely to have an effect on his or her needs, a court may make provision in a periodic payments order that a payment under the order shall, from a specified date, increase or decrease by a specified amount (in this Part referred to as a "stepped payment").
 
 (5) The changes in circumstances which may form the basis of a stepped payment include:
 
@@ -68,17 +68,17 @@ Award of damages by periodic payments.
 
 (f) that the payments under the order are to be made to the plaintiff during his or her lifetime,
 
-(g) that the annual amount awarded to the plaintiff will be adjusted in accordance with the Harmonised Index of Consumer Prices as published by the Central Statistics Office or such other index as may be specified by the Minister under section 51L,
+(g) that the annual amount awarded to the plaintiff will be adjusted in accordance with the periodic payments index,
 
 (h) where a stepped payment is provided for—
 
-(i) the change in circumstances on which an increase or decrease in the amount of a payment (referred to subsequently in this paragraph as ‘the relevant increase or decrease’) is based,
+(i) the change in circumstances on which an increase or decrease in the amount of a payment (referred to subsequently in this paragraph as "the relevant increase or decrease") is based,
 
 (ii) the date on which the relevant increase or decrease shall take effect,
 
 (iii) the amount of the relevant increase or decrease at current value, and
 
-(iv) that the amount of the relevant increase or decrease shall, on the date that it takes effect, be applied to the annual amount awarded to the plaintiff as adjusted in accordance with the Harmonised Index of Consumer Prices as published by the Central Statistics Office or such other index as may be specified by the Minister under section 51L, and
+(iv) that the amount of the relevant increase or decrease shall, on the date that it takes effect, be applied to the annual amount awarded to the plaintiff as adjusted in accordance with the periodic payments index, and
 
 (i) any other matter that the court considers appropriate.
 
