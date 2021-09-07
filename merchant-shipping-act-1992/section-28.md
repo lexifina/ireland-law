@@ -1,0 +1,7 @@
+Amendment of Merchant Shipping Act, 1947.
+
+28. — (1) Section 7 of the Merchant Shipping Act, 1947 is hereby amended by the substitution of the following subsection for subsection (1):
+
+“(1) Where the Government of another state provides for the holding of examinations for the grant of certificates of competency as deck officers, engineer officers or engine operators on board ship or as skippers, second hands or engineer officers on board fishing vessels and the Minister is satisfied that the certificates so granted are granted on such principles as to show qualifications of competency which are adequate qualifications for service in Irish-registered ships or Irish-registered fishing vessels, as may be appropriate, the Minister may by order provide that certificates so granted shall be of the same force within the State as if they had been granted by the Minister under (as may be appropriate) Part II or section 414 of the Principal Act or section 3 or 8 of the Merchant Shipping (Certification of Seamen) Act, 1979, and such certificates shall have effect within the State and may, as respects their effect within the State, be suspended or cancelled accordingly.”.
+
+(2) An order made under subsection (1) of the said section 7 and in force immediately before the commencement of this section shall continue in force as if made under the said section 7 as amended by this section and may be amended or revoked accordingly.
