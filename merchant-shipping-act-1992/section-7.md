@@ -1,0 +1,3 @@
+Mode of survey and declaration of survey for purposes of issue of passenger ship's certificate.
+
+7. — The survey of a vessel for the purposes of this Part shall be carried out by a surveyor and, if the vessel is required to be provided with a radiocommunications installation, by a radio surveyor, and the surveyor or each surveyor, if satisfied on the survey that it is proper to do so, shall deliver to the owner a declaration (in this Part referred to as “a declaration of survey”) in such form, and containing statements in relation to such matters concerning the vessel and disclosed by the survey as may be prescribed.
