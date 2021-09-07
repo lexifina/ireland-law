@@ -1,6 +1,6 @@
 Climate Action Fund.
 
-37B. (1) There shall stand established on the commencement of the National Oil Reserves Agency (Amendment) and Provision of Central Treasury Services Act 2020 a fund which shall be known as the ‘Climate Action Fund’.
+37B. (1) There shall stand established on the commencement of the National Oil Reserves Agency (Amendment) and Provision of Central Treasury Services Act 2020 a fund which shall be known as the "Climate Action Fund".
 
 (2) Subject to subsection (3), the Minister shall manage and control the Climate Action Fund.
 
@@ -30,13 +30,23 @@ Climate Action Fund.
 
 (c) to support projects that seek to improve energy efficiency in the State;
 
+(ca) to support projects that seek to increase climate resilience in the State;
+
+(cb) to support nature based projects that enhance biodiversity and seek to reduce, or increase the removal of, greenhouse gas emissions or support climate resilience in the State;
+
 (d) to support initiatives involving potentially innovative solutions to—
 
 (i) reduce greenhouse gas emissions in the State,
 
 (ii) increase the production or use of renewable energy in the State,
 
-(iii) increase energy efficiency in the State;
+(iii) increase energy efficiency in the State,
+
+(iv) increase climate resilience in the State,
+
+(v) increase the removal of greenhouse gas in the State,
+
+(vi) enhance biodiversity through nature based projects that seek to reduce, or increase the removal of, greenhouse gas emissions or support climate resilience in the State;
 
 (e) to support research in relation to—
 
@@ -44,7 +54,13 @@ Climate Action Fund.
 
 (ii) increasing the production, or use, of renewable energy in the State,
 
-(iii) increasing energy efficiency in the State;
+(iii) increasing energy efficiency in the State,
+
+(iv) increasing climate resilience in the State,
+
+(v) increasing the removal of greenhouse gas in the State,
+
+(vi) enhancing biodiversity through nature based projects that seek to reduce, or increase the removal of, greenhouse gas emissions or support climate resilience in the State;
 
 (f) to support projects and initiatives in regions in the State and within sectors of the economy impacted by the transition to a low carbon economy.
 
@@ -62,4 +78,16 @@ Climate Action Fund.
 
 (14) The Minister may establish a committee to advise him or her with respect to the performance by him or her of functions under this section and a committee so established may advise the Minister accordingly.
 
-(15) In this section ‘financial year’ means the financial year of the Climate Action Fund.
+(15) In this section—
+
+"Act of 2015" means the Climate Action and Low Carbon Development Act 2015;
+
+"biodiversity" has the same meaning as in the Act of 2015;
+
+"financial year" means the financial year of the Climate Action Fund;
+
+"greenhouse gas" has the same meaning as in the Act of 2015;
+
+"nature based project" means a solution that is inspired and supported by the process and functioning of nature, which is cost-effective and provides environmental, social and economic benefits and helps to build resilience;
+
+"removal" has the same meaning as in the Act of 2015.
