@@ -38,7 +38,7 @@ Amendments relating to repeal of section 42 of Act of 2004
 
 Section 41
 
-Refer- Provision Amendment ence No.
+Reference Provision Amendment No.
 
 (1) (2) (3)
 
@@ -76,7 +76,7 @@ Amendments relating to the Board and the Director
 
 Section 48
 
-Refer- Provision Amendment ence No.
+Reference Provision Amendment No.
 
 (1) (2) (3)
 
@@ -86,13 +86,13 @@ Refer- Provision Amendment ence No.
 
 3 Subsection (1) Substitute “the Director shall prepare” for “the Board shall prepare”.
 
-4 Subsection (2) Substitute in paragraph (b) “to the Director” for “to the Board”. Refer- Provision Amendment ence No.
+4 Subsection (2) Substitute in paragraph (b) “to the Director” for “to the Board”. Reference Provision Amendment No.
 
 (1) (2) (3)
 
 5 Section 99(4) Substitute “Director” for “Board”.
 
-6 Section 109 Substitute in paragraph (d)(vi) “the Director must, from the date of receipt by the Board” for Subsection (2) “the Board must, from the date of receipt by it”.
+6 Section 109 Substitute in paragraph (d)(vi) “the Director must, from the date of receipt by the Board” Subsection (2) for “the Board must, from the date of receipt by it”.
 
 7 Subsection (2) Substitute in paragraph (d)(ix) “the Director must, from the date of receipt by the Board” for “the Board must, from the date of receipt by it”.
 

@@ -12,7 +12,7 @@ Requests to Board after consultation meeting has been held
 
 (b) give to the prospective applicant an opinion in writing prepared by the Board on what information will be required to be contained in an environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, in relation to the proposed strategic housing development.
 
-(2) (a) On receipt of a request under either paragraph (a) or (b) of subsection (1), which shall be accompanied by the appropriate fee,and except where paragraph (b) of this subsection applies, the Board shall, after consulting such bodies as may be prescribed for that purpose, comply with the request within 8 weeks of receipt of the request.
+(2) (a) On receipt of a request under either paragraph (a) or (b) of subsection (1), which shall be accompanied by the appropriate fee, and except where paragraph (b) of this subsection applies, the Board shall, after consulting such bodies as may be prescribed for that purpose, comply with the request within 8 weeks of receipt of the request.
 
 (b) Where a prospective applicant intends to make requests to the Board under paragraphs (a) and (b) of subsection (1), then such requests shall, unless the Board otherwise approves, be made at the same time and, accordingly, on receipt of such a request the Board—
 

@@ -10,7 +10,9 @@ R x (1 + 0.04 x t/m) where— m is—
 
 (a) 24, where section 24C(1)(a) applies, or
 
-(b) 12, in any other case, R is the amount of rent last set under a tenancy for the dwelling, t is the number of months between—
+(b) 12, in any other case,
+
+R is the amount of rent last set under a tenancy for the dwelling, t is the number of months between—
 
 (a) (i) the date the current rent came into effect under a tenancy for the dwelling, or
 

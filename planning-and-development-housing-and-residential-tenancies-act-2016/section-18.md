@@ -4,7 +4,11 @@ Construction of section 134 (oral hearings of appeals, referrals and application
 
 (a) as if the following were substituted for subsection (1):
 
-“(1) (a) The Board may in its absolute discretion, hold an oral hearing of an appeal, a referral under section 5, an application under section 37E or, subject to paragraph (b), an application under section 4 of the Planning and Development (Housing) and Residential Tenancies Act 2016.
+“(1) (a) The Board may in its absolute discretion, hold an oral hearing of an appeal, a referral under section 5, an application under section 37E or, subject to paragraph (b), an application under section 4 of the
+
+Planning and
+
+## Development (Housing) and Residential Tenancies Act 2016.
 
 (b) Before deciding if an oral hearing for an application under section 4 of the Planning and Development (Housing) and Residential Tenancies Act 2016 should be held, the Board—
 
