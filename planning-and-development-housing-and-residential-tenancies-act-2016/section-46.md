@@ -4,6 +4,8 @@ Publication of certain statistics by Board
 
 “114A.The Board shall publish statistics, including average waiting times and such other statistics as may be prescribed, in relation to the performance of its functions under section 151(1)(a) in respect of each successive period of 3 months in every calendar year.”.
 
+Amendment of section 115 (redress that may be granted on foot of determination) of Act of 2004
+
 47.Section 115(2) of the Act of 2004 is amended in paragraph (b) —
 
 (a) by substituting “subsection (1) or (4) of section 19” for “section 19(1)” where it first occurs, and

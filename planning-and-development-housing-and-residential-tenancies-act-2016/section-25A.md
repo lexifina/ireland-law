@@ -5,7 +5,3 @@ Construction of Fifth Schedule (conditions which may be imposed, on the granting
 (2) Section 1(3) of the Act of 2016 (which relates to commencement of provisions of that Act) applies to the commencement of the amendment provided for by subsection (1).
 
 Chapter 2
-
-## Environmental impact assessment - screening
-
-26....

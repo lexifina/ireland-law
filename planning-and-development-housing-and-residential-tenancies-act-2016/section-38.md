@@ -2,6 +2,8 @@ Amendment of section 34 (grounds for termination by landlord) of Act of 2004
 
 38. Section 34 of the Act of 2004 is amended by substituting “Subject to section 35A, a Part 4 tenancy” for “A Part 4 tenancy”.
 
+Amendment of section 35 (Table to section 34: interpretation and supplemental) of Act of 2004
+
 39.Section 35 of the Act of 2004 is amended by substituting the following for subsection (8):
 
 “(8) The statutory declaration that is to accompany a notice of termination in respect of a termination referred to in paragraph 3 of the Table shall include—
