@@ -1,26 +1,16 @@
 Power to extend appropriate period.
 
-42.— (1) On application to it in that behalf a planning authority shall, as regards a particular permission, extend the appropriate period by such additional period not exceeding 5 years as the authority considers requisite to enable the development to which the permission relates to be completed provided that each of the following requirements is complied with:
+42.— (1) On application to it in that behalf, but subject to subsection (8), a planning authority shall, as regards a particular permission, extend the appropriate period by such additional period not exceeding 5 years as the authority considers requisite to enable the development to which the permission relates to be completed provided that each of the following requirements is complied with:
 
-(a) either—
-
-(i) the authority is satisfied that—
+(a) (i) the authority is satisfied that—
 
 (I) the development to which the permission relates was commenced before the expiration of the appropriate period sought to be extended,
 
-(II) substantial works were carried out pursuant to the permission during that period, and
+(II) ...
 
-(III) the development will be completed within a reasonable time, or
+(III) substantial works were carried out pursuant to the permission during that period, and
 
-(ii) the authority is satisfied—
-
-(I) that there were considerations of a commercial, economic or technical nature beyond the control of the applicant which substantially militated against either the commencement of development or the carrying out of substantial works pursuant to the planning permission,
-
-(II) that there have been no significant changes in the development objectives in the development plan or in regional development objectives in the regional spatial and economic strategy for the area of the planning authority since the date of the permission such that the development would no longer be consistent with the proper planning and sustainable development of the area,
-
-(III) that the development would not be inconsistent with the proper planning and sustainable development of the area having regard to any guidelines issued by the Minister under section 28, notwithstanding that they were so issued after the date of the grant of permission in relation to which an application is made under this section, and
-
-(IV) where the development has not commenced, that an environmental impact assessment, or an appropriate assessment, or both of those assessments, if required, was or were carried out before the permission was granted.
+(IV) the development will be completed within a reasonable time,
 
 (b) the application is in accordance with such regulations under this Act as apply to it,
 
@@ -38,7 +28,7 @@ Power to extend appropriate period.
 
 (ii) in any other case, the day on which all of those requirements stand complied with.
 
-(4) A decision to extend an appropriate period shall be made once and once only under this section and a planning authority shall not further extend the appropriate period.
+(4) A decision to extend the appropriate period of a permission shall be made not more than twice under this section and a planning authority shall not further extend the appropriate period. Where a second decision to extend an appropriate period is made under this section, the combined duration of the 2 extensions of the appropriate period shall not exceed 5 years.
 
 (5) Particulars of any application made to a planning authority under this section and of the decision of the planning authority in respect of the application shall be recorded on the relevant entry in the register.
 
@@ -51,3 +41,5 @@ Power to extend appropriate period.
 (ii) any requirements of, or made under, the regulations are complied with as regards the application, and
 
 (iii) the authority is satisfied that the relevant development has not been completed due to circumstances beyond the control of the person carrying out the development.
+
+(8) A planning authority shall not extend the appropriate period under this section in relation to a permission if an environmental impact assessment or an appropriate assessment would be required in relation to the proposed extension concerned.
