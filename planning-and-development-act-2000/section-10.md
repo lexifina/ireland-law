@@ -72,9 +72,9 @@ Content of development plans.
 
 (i) reduce energy demand in response to the likelihood of increases in energy and other costs due to long-term decline in non-renewable resources,
 
-(ii) reduce anthropogenic greenhouse gas emissions, and
+(ii) reduce anthropogenic greenhouse gas emissions and address the necessity of adaptation to climate change, taking account of the local authority climate action plan (within the meaning of section 14B of the Climate Action and Low Carbon Development Act 2015), where such a plan has been made for the area in question;
 
-(iii) address the necessity of adaptation to climate change; in particular, having regard to location, layout and design of new development;
+(iii) ... in particular, having regard to location, layout and design of new development;
 
 (o) the preservation of public rights of way which give access to seashore, mountain, lakeshore, riverbank or other place of natural beauty or recreational utility, which public rights of way shall be identified both by marking them on at least one of the maps forming part of the development plan and by indicating their location on a list appended to the development plan, and
 
