@@ -1,0 +1,7 @@
+Regulations.
+
+5. —(1) The Minister may be regulations, provide for any matter referred to in this Act as prescribed or to be prescribed, and make regulations generally for the purpose of giving effect to this Act.
+
+(2) Regulations under this Act may contain such consequential, supplementary and ancillary provisions as the Minister considers to be necessary or expedient.
+
+(3) Every regulation made under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
