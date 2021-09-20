@@ -108,7 +108,7 @@ Section 24(7)
 
 Section 26(4)
 
-2 4
+2 4 Reference Demerit offence under Demerits on payment of fixed Demerits on conviction Number charge or fixed payment (1) (2) (3) (4)
 
 12
 
