@@ -80,7 +80,23 @@ Definitions.
 
 “designated person” has the meaning assigned to it by section 25;
 
-‘Directive of 2009’ means Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS);
+"Directive of 2009" means Directive 2009/65/EC of the European Parliament and of the Council of 13 July 200912 , as amended by—
+
+(a) Directive 2010/78/EU of the European Parliament and of the Council of 24 November 201013,
+
+(b) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 201114,
+
+(c) Directive 2013/14/EU of the European Parliament and of the Council of 21 May 201315,
+
+(d) Directive 2014/91/EU of the European Parliament and of the Council of 23 July 201416,
+
+(e) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 201717,
+
+(f) Directive (EU) 2019/1160 of the European Parliament and of the Council of 20 June 201918,
+
+(g) Directive (EU) 2019/2034 of the European Parliament and of the Council of 20 June 201919 , and
+
+(h) Directive (EU) 2019/2162 of the European Parliament and of the Council of 27 November 201920;
 
 “EEA State” means a state that is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by the Protocol signed at Brussels on 17 March 1993;
 
