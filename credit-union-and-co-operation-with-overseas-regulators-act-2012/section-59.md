@@ -18,7 +18,7 @@ Credit union levy.
 
 (b) the capacity of credit unions or categories of credit union to make the proposed contribution, and
 
-(c) the extent to which a credit union or credit unions have or may benefit from the provision of financial support from theCredit Union Fund.
+(c) the extent to which a credit union or credit unions have or may benefit from the provision of financial support from the Credit Union Fund.
 
 (6) Before making regulations under this section, the Minister—
 

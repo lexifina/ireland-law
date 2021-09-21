@@ -66,9 +66,7 @@ Amendment to Central Bank Reform Act 2010.
 
 ‘premises’ includes vessel, aircraft, vehicle and any other means of transport, as well as land and a building and any other fixed or moveable structure;
 
-‘regulated market’ has the same meaning as in Regulation 3 of the European Communities (Markets in Financial Instruments) Regulations 2007 (S.I. No. 60 of 2007);
-
-‘related undertaking’, in relation to a person (‘the first-mentioned person’), means—
+‘regulated market’ has the same meaning as in Regulation 3 of the European Communities (Markets in Financial Instruments) Regulations 2007 (S.I. No. 60 of 2007); ‘related undertaking’, in relation to a person (‘the first-mentioned person’), means—
 
 (a) if the first-mentioned person is a company, another company that is related within the meaning of section 140(5) of the Companies Act 1990,
 
@@ -208,13 +206,13 @@ Amendment to Central Bank Reform Act 2010.
 
 (2) The period of validity of a warrant shall be 28 days from its date of issue.
 
-(3) An application for a warrant under this section shall be made to a judge of the District Court in the district court district in which the premises concerned are situate.
-
-62.— (1) An authorised officer may attend any meeting relating to the business of a regulated financial service provider if the authorised officer considers that it is necessary to attend in order to assist the Bank in the performance of any of its functions under financial services legislation.
+(3) An application for a warrant under this section shall be made to a judge of the District Court in the district court district in which the premises concerned are situate. 62.— (1) An authorised officer may attend any meeting relating to the business of a regulated financial service provider if the authorised officer considers that it is necessary to attend in order to assist the Bank in the performance of any of its functions under financial services legislation.
 
 (2) The attendance of an authorised officer pursuant to subsection (1) at a meeting referred to in that subsection does not in any circumstances limit the powers of the authorised officer or of the Bank.
 
-63.— Nothing in this Part shall operate to confer any right to production of, or access to, any record subject to legal professional privilege. 64.— (1) The disclosure or production of any record or other information by a person under this Part shall not be treated, for any purpose, as a breach of any restriction under any enactment or rule of law on disclosure or production by the person or any other person on whose behalf the record or other information is disclosed or produced.
+63.— Nothing in this Part shall operate to confer any right to production of, or access to, any record subject to legal professional privilege.
+
+64.— (1) The disclosure or production of any record or other information by a person under this Part shall not be treated, for any purpose, as a breach of any restriction under any enactment or rule of law on disclosure or production by the person or any other person on whose behalf the record or other information is disclosed or produced.
 
 (2) Where a person from whom production of a record is required under this Part claims a lien on the record, the production of it shall be without prejudice to the lien.
 
