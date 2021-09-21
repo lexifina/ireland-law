@@ -299,3 +299,7 @@ Transfers and Direct Debits in Euro) Regulations 2013
 76 S.I. No. …... of 2020 European Union The whole instrument (Modifications of Statutory Instrument No. 110 of 2019) (Registration of Beneficial Ownership of Certain Financial Vehicles) Regulations 2020
 
 77 S.I. No. 146 of 2021 European Union The whole instrument (Sustainability-related Disclosures in the Financial Services Sector) Regulations 2021
+
+78 S.I. No. 355 of 2021 European Union (Investment The whole instrument Firms) Regulations 2021
+
+79 S.I. No. 356 of 2021 European Union (Investment The whole instrument Firms) (No. 2) Regulations 2021
