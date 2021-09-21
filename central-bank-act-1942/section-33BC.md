@@ -53,3 +53,5 @@ Bank may publish its decisions.
 (14) This section shall not apply where Regulation 52 of the European Union (Insurance Distribution) Regulations 2018 applies.
 
 (15) This section does not apply where Regulation 6 of the European Union (General Framework for Securitisation and Specific Framework for Simple Transparent and Standardised Securitisation) Regulations 2018 (S.I. No. 656 of 2018) applies.
+
+(16) This section shall not apply where Regulation 17 of the European Union (Investment Firms) Regulations 2021 (S.I. No. 355 of 2021) applies.

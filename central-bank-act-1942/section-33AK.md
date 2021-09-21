@@ -454,8 +454,12 @@ OJ No. L. 60, 28.2.2014, p. 34.
 
 (ai) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019;
 
-(ai) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No. 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018;
+(aj) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No. 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018;
+
+(ak) Regulation (EU) 2019/2033 of the European Parliament and Council of 27 November 2019;
 
 ‘supervised entity’ means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
 
 OJ, No L171, 29.6.2016, p. 1
+
+OJ No. L. 314, 5.12.2019, p. 1.
