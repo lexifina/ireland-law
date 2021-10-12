@@ -1,0 +1,3 @@
+Matters of which account is to be taken, and consultation, for the purposes of sections 5 and 6 (Repealed)
+
+7. ...

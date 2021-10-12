@@ -1,0 +1,3 @@
+Presentation of annual transition statement to each House of the Oireachtas (Repealed)
+
+14. ...
