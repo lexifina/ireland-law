@@ -114,6 +114,8 @@ Definitions (Part V).
 
 (n) any other person constituted, or holding office, under an enactment or funded (in whole or in part) by a Minister of the Government;
 
+‘exposure’ and “servicing” have the same meanings, respectively, as in the Securitisation Regulation;
+
 ‘home reversion agreement’ means an agreement between a vendor and a home reversion firm that provides—
 
 (a) for the conveyance by the vendor to the home reversion firm of an estate or interest in land (which includes the principal residence of the vendor or of the vendor’s dependants) for a discounted sum or an income (or both), and
@@ -166,6 +168,8 @@ Definitions (Part V).
 
 ‘officer’, in relation to a person that is a body corporate, means any person concerned in the direction or management of the body;
 
+‘originator’, ‘sponsor’, ‘original lender’, ‘securitisation’, ‘NPE securitisation’, ‘servicer’ and ‘traditional securitisation’ have the meanings given to them respectively by Article 2 of the Securitisation Regulation;
+
 ‘owner of credit’ means—
 
 (a) a person who is authorised, or, by virtue of subsection (4), taken to be authorised, to carry on the business of a credit servicing firm, or
@@ -210,7 +214,9 @@ Definitions (Part V).
 
 (e) a person who is exempted, or who belongs to a class of persons that is exempted, under section 29A from being required to hold an authorisation as a retail credit firm;
 
-‘retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 per cent’ shall be construed in accordance with Article 6 of Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017;
+‘retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 per cent’ shall be construed in accordance with Article 6 of the Securitisation Regulation;
+
+‘Securitisation Regulation’ means Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No. 1060/2009 and (EU) No. 648/2012 as amended by Regulation (EU) 2021/557 of the European Parliament and of the Council of 31 March 2021,
 
 ‘securitisation special purpose entity’ means a corporation, trust or other entity (other than an originator or sponsor)—
 
@@ -220,9 +226,9 @@ Definitions (Part V).
 
 (c) the structure of which is intended to isolate the obligations of the securitisation special purpose entity from those of the originator;
 
-‘securitisation’, ‘originator’, ‘sponsor’ and ‘original lender’ have the meanings given to them respectively by Article 2 of Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017;
-
 ‘this Part’ includes all regulations in force under this Part;
+
+‘traditional NPE securitisation’ shall be construed in accordance with the Securitisation Regulation;
 
 ‘transmitting’ includes transmitting—
 
@@ -240,7 +246,11 @@ Definitions (Part V).
 
 (b) the owner of credit retains the legal title to the credit so assigned or otherwise disposed of, and
 
-(c) the originator, sponsor or original lender of the securitisation is required to retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 per cent;
+(c) either –
+
+(i) the originator, sponsor or original lender of the securitisation, or
+
+(ii) in the case of a traditional NPE securitisation, the servicer, where it can demonstrate that it has expertise in servicing exposures of a similar nature to those securitised and that it has well-documented and adequate policies, procedures and risk-management controls in place relating to the servicing of exposures as required by Article 6 of the Securitisation Regulation, is required to retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 per cent.
 
 (3) For the purposes of this Part, a regulated financial service provider authorised, whether before or after the coming into operation of the Consumer Protection (Regulation of Credit Servicing Firms) Act 2015, by the Bank or an authority that performs functions in an EEA country that are comparable to the functions performed by the Bank, to provide credit in the State, is taken to be authorised to carry on the business of a credit servicing firm.
 
