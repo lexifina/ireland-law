@@ -4,7 +4,11 @@ Records.
 
 (2) Subject to subsection (3), the Executive shall, as soon as is practicable after the commencement of this section, prepare and cause to be published a code of practice to be complied with by a person accessing and processing any relevant records pursuant to subsection (1), or a person referred to in subsection (4) having any relevant information in the person’s possession, custody or control, in so far as the relevant records or relevant information, as the case may be, consist of personal data.
 
+(2A) Subject to subsection (3A), the Executive shall, as soon as practicable after the coming into operation of section 25 of the Act of 2021, and from time to time thereafter where it considers it appropriate to do so, prepare and publish a revised code of practice for the purposes referred to in subsection (2).
+
 (3) The Executive shall not perform the function under subsection (2) except after consultation with the Data Protection Commissioner within the meaning of the Data Protection Acts 1988 and 2003.
+
+(3A) The Executive shall not perform the function under subsection (2A) except after consultation with the Data Protection Commission.
 
 (4) Subject to subsection (5), a person shall not disclose relevant information except for the purpose of the performance of a function by the person under this Act.
 
@@ -14,7 +18,7 @@ Records.
 
 (7) The Executive shall determine the storage, retention or disposal of—
 
-(a) applications for State support (including any documents accompanying applications),
+(a) applications for State support, applications under section 14A, 14F, 14G, 14H, 14K or 14L and notifications under section 14F or 14G (including any documents accompanying such applications or notifications),
 
 (b) documents referred to in subsection (6), and
 
@@ -38,4 +42,14 @@ Records.
 
 “relevant information”, in relation to a person referred to in subsection (4), means information that is provided under this Act to the Executive, a suitable person, or a person appointed under section 32(2) and obtained by the first-mentioned person in the course of the performance of a function of the person under this Act;
 
-“relevant record” means any record which will or may assist the Executive to determine an application for State support or a request for refundable State support.
+"relevant record" means—
+
+(a) any record which will or may assist the Executive to determine an application for State support, an application under section 14A, 14F, 14G, 14H, 14K or 14L or a request for refundable State support,
+
+(b) any record pertaining to a notification under section 14F or 14G, or
+
+(c) any documents accompanying—
+
+(i) an application referred to in paragraph (a), or
+
+(ii) a notification referred to in paragraph (b).
