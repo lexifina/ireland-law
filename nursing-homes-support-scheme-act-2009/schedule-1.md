@@ -12,7 +12,9 @@ Assessment of means of a person who is not a member of a couple where the applic
 
 Assessment of income
 
-2. Assess the weekly income following the directions at steps A to E: A. Establish the annual income of the person using the definition of “income”.
+2. Assess the weekly income following the directions at steps A to E:
+
+A. Establish the annual income of the person using the definition of “income”.
 
 B. Deduct allowable deductions.
 
@@ -24,7 +26,9 @@ E. Where applying the rule in step C produces a result whereby 20 per cent of ne
 
 Assessment of cash assets
 
-3. Assess the weekly value of the cash assets by following the directions at steps A to F: A. Establish all the cash assets of the person being assessed using the definition of “cash assets” and value each cash asset on the basis of the estimated market value.
+3. Assess the weekly value of the cash assets by following the directions at steps A to F:
+
+A. Establish all the cash assets of the person being assessed using the definition of “cash assets” and value each cash asset on the basis of the estimated market value.
 
 B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce the net value of each cash asset.
 
@@ -56,9 +60,13 @@ Assessment of means of a person who is not a member of a couple where the applic
 
 1. (a) The means of a person who is not a member of a couple shall, subject to Part 3, be assessed on the basis of the rules in this Part.
 
-(b) This Part applies to applications for State support made on or after the relevant day. Assessment of income
+(b) This Part applies to applications for State support made on or after the relevant day.
 
-2. Assess the weekly income following the directions at steps A to E: A. Establish the annual income of the person using the definition of ‘income’.
+Assessment of income
+
+2. Assess the weekly income following the directions at steps A to E:
+
+A. Establish the annual income of the person using the definition of ‘income’.
 
 B. Deduct allowable deductions.
 
@@ -78,7 +86,9 @@ B. Deduct from the estimated market value of each cash asset the amount of allow
 
 C. Aggregate all net values of cash assets established under step B.
 
-D. Deduct general assets deductible amount from the amount produced by step C to produce annual assessed cash assets.
+CA. Where the person is entitled to the proceeds of sale deductible amount, deduct proceeds of sale deductible amount from the amount produced by step C.
+
+D. Deduct general assets deductible amount from the amount produced by step C or, if step CA applies, from the amount produced by step CA, to produce annual assessed cash assets.
 
 E. Take 7.5 per cent of the amount produced by step D to establish the amount of the annual assessed cash assets.
 
@@ -94,7 +104,9 @@ B. Deduct from the estimated market value of each relevant asset the amount of a
 
 C. Aggregate all net values of relevant assets to produce total net value of relevant assets.
 
-D. If the general assets deductible amount has not been fully used in connection with the cash assets assessment apply unused balance by deducting the unused amount from total net value of relevant assets produced by step C.
+CA. Where the person is entitled to the proceeds of sale deductible amount and the proceeds of sale deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from the total net value of relevant assets produced by step C.
+
+D. If the general assets deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from total net value of relevant assets produced by step C or, if step CA applies, from the amount produced by step CA.
 
 E. Take 7.5 per cent of the amount produced by step D or, if step D does not apply, by step C to produce the annual assessed relevant assets amount.
 
@@ -130,9 +142,7 @@ Assessment of cash assets
 
 A. Establish all the cash assets of the person to whom the assessment relates and his or her partner using the definition of “cash assets” and value each cash asset on the basis of the estimated market value.
 
-B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset.
-
-C. Aggregate all net values of cash assets established under step B.
+B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset. C. Aggregate all net values of cash assets established under step B.
 
 D. Deduct general assets deductible amount from the amount produced by step C to establish total assessed cash assets.
 
@@ -144,7 +154,9 @@ G. Divide amount established by step F by 52 to produce the assessed weekly cash
 
 Assessment of relevant assets
 
-4. Assess the weekly value of the relevant assets by following the directions at steps A to G: A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of “relevant assets” and value each relevant asset on the basis of estimated market value.
+4. Assess the weekly value of the relevant assets by following the directions at steps A to G:
+
+A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of “relevant assets” and value each relevant asset on the basis of estimated market value.
 
 B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
 
@@ -176,7 +188,9 @@ B. From the annual income of each of those persons deduct allowable deductions a
 
 C. Aggregate the two net annual incomes established under step B.
 
-D. Divide amount produced by step C by 52 to establish net weekly income. E. Take 40 per cent of amount produced by step D and the amount established following that calculation is, unless step F applies, the weekly assessed income.
+D. Divide amount produced by step C by 52 to establish net weekly income.
+
+E. Take 40 per cent of amount produced by step D and the amount established following that calculation is, unless step F applies, the weekly assessed income.
 
 F. Where applying the rule in step E produces a result whereby 60 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step D less the amount which is the minimum retained income threshold.
 
@@ -190,7 +204,9 @@ B. Deduct from the estimated market value of each cash asset the amount of allow
 
 C. Aggregate all net values of cash assets established under step B.
 
-D. Deduct general assets deductible amount from the amount produced by step C to establish total assessed cash assets.
+CA. Where the person is entitled to the proceeds of sale deductible amount, deduct proceeds of sale deductible amount from the amount produced by step C.
+
+D. Deduct general assets deductible amount from the amount produced by step C or, if step CA applies, from the amount produced by step CA, to establish total assessed cash assets.
 
 E. Take 7.5 per cent of the amount produced by step D to establish the amount of the annual assessed cash assets of the couple.
 
@@ -208,9 +224,13 @@ B. Deduct from the estimated market value of each relevant asset the amount of a
 
 C. Aggregate all net values of relevant assets established under step B.
 
-D. If the general assets deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from the amount established by step C.
+CA. Where the person is entitled to the proceeds of sale deductible amount and the proceeds of sale deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from the amount produced by step C.
 
-E. Take 7.5 per cent of the amount established by step D or, if step D does not apply, by step C to establish the annual assessed relevant assets amount. F. Divide amount established by step E by 2 to establish the amount of the annual assessed relevant assets of the person in respect of whom the financial assessment is being carried out.
+D. If the general assets deductible amount has not been fully used in connection with the cash assets assessment then apply the unused balance by deducting the unused amount from the amount established by step C or, if step CA applies, from the amount established by step CA.
+
+E. Take 7.5 per cent of the amount established by step D or, if step D does not apply, by step C to establish the annual assessed relevant assets amount.
+
+F. Divide amount established by step E by 2 to establish the amount of the annual assessed relevant assets of the person in respect of whom the financial assessment is being carried out.
 
 G. Divide the amount established by step F by 52 to produce the assessed weekly value of relevant assets of the person in respect of whom the financial assessment is being carried out.
 
@@ -222,7 +242,7 @@ INTERPRETATION AND MISCELLANEOUS
 
 “allowable deduction”—
 
-(a) subject to paragraph 2, in relation to income, means—
+(a) subject to paragraph 2 , in relation to income, means—
 
 (i) income tax required by law to be deducted or paid from the income and in respect of which (other than as respects payments or expenses to which clauses (iv), (v) or (vi) refer) the applicant or any other person is not entitled to claim an exemption, relief or allowance or the repayment of tax already paid,
 
@@ -274,13 +294,13 @@ INTERPRETATION AND MISCELLANEOUS
 
 (c) in the case of an asset not situated in a place the currency of which place is the currency of the State, by converting the value of such asset in the currency of the place where the asset is situated into the currency of the State at the official conversion rate specified by the Central Bank of Ireland on the date the application for State support is made;
 
-“family successor” means a partner or relative of the person applying for State support, which person, at the time of the application for State support—
+“family successor" means a person appointed under section 14A, 14F, 14G, 14H, 14K or 14L;
 
 (a) in the case of a farm, regularly and consistently applies a portion of his or her working day in farming the farm, or
 
 (b) in the case of a business, regularly and consistently applies a portion of his or her working day in the carrying on of the relevant business;
 
-“farm” means agricultural land, pasture and woodland, crops, trees and underwood growing thereon, farm buildings appropriate to the property and farm machinery, livestock and bloodstock thereon but excluding all residential property;
+“farm” means agricultural land, pasture and woodland, crops, trees and underwood growing thereon, farm buildings appropriate to the property and farm machinery, livestock and bloodstock thereon but excluding all residential property , and a reference to a farm includes a reference to part of a farm;
 
 “farming” includes dairy farming, livestock production, and the cultivation of grass, tillage, and other crops, including horticultural crops whether under protected cropping conditions or in the open;
 
@@ -336,17 +356,37 @@ INTERPRETATION AND MISCELLANEOUS
 
 “principal residence” means the principal private residence of a person and includes land which the person has for his or her own occupation and enjoyment with that residence as its garden or grounds up to an area (exclusive of the dwelling house) not exceeding one acre;
 
+"proceeds of sale" has the meaning assigned to it by paragraph 10D(d);
+
+"proceeds of sale deductible amount" means, subject to paragraphs 10A to 10D—
+
+(a) in the case where, following the sale of the person’s interest in a principal residence—
+
+(i) the person or his or her partner purchases an interest in a principal residence, and
+
+(ii) the purchase price of the principal residence is less than the proceeds of sale, an amount equal to the difference between the purchase price and the proceeds of sale,
+
+(b) in the case where, following the sale of the person’s interest in a principal residence—
+
+(i) the person or his or her partner acquires an interest in a principal residence for no consideration, or a relevant asset of the relevant person or his or her partner becomes the principal residence, and
+
+(ii) the estimated market value of the principal residence (less any borrowings referred to in paragraph (c) of the definition of "allowable deduction" which relate to the principal residence) is less than the proceeds of sale, an amount equal to the difference between the estimated market value of the principal residence (less any borrowings referred to in paragraph (c) of the definition of "allowable deduction" which relate to the principal residence) and the proceeds of sale, or
+
+(c) in any other case, an amount equal to the proceeds of sale;
+
+"purchase price" has the meaning assigned to it by paragraph 10D(d);
+
 “relevant assets” means all forms of property whether situated in the State or not other than cash assets, including, options and incorporeal property generally in which the relevant person has a beneficial interest including transferred assets which would have been relevant assets if not transferred;
 
-“relevant business” means—
+“relevant business" means—
 
 (a) the business or an interest in a business carried on by a sole trader or by a partnership, including any land, building, machinery or plant used wholly or mainly for the purpose of the business, or
 
-(b) the unquoted shares in or securities of a company carrying on a business in which the applicant or his or her partner has until the onset of the sudden illness or disability which caused that person to require care services been actively involved in carrying on the business;
+(b) where a business is carried on by a company, the unquoted shares in or securities of the company, and a reference to a relevant business includes a reference to part of a relevant business.
 
-‘relevant day’ means the day following the enactment of the Health (Amendment) Act 2013;
+"relevant day" means the day following the enactment of the Health (Amendment) Act 2013;
 
-‘relevant payment’ means, in relation to a person—
+"relevant payment" means, in relation to a person—
 
 (a) an ex-gratia payment or payments made to the person under the Scheme (within the meaning of section 1 (amended by section 2 of the Redress for Women Resident in Certain Institutions (Amendment) Act 2019) of the Redress for Women Resident in Certain Institutions Act 2015), and includes any benefit provided under that Scheme,
 
@@ -376,7 +416,7 @@ MV is the estimated market value of the asset concerned at the time of the trans
 
 CR is the amount of the consideration received by the person or the estimated market amount of the consideration received by the person (whichever is the higher);
 
-“transferred income” means any income which the person whose means is being assessed would have been entitled to receive in the assessable period, but which by reason of a particular action having been taken by or on behalf of that person, a person other than the person whose means are being assessed has received, is receiving or will receive an amount of money or monies worth (whether by way of a single payment or a series of payments) and which action by the person whose means are being assessed occurred within 5 years of the date of first application for State support but does not include payments made in respect of the maintenance of a child, a spouse or a former spouse under a maintenance agreement, a separation agreement or pursuant to an order of a court of competent jurisdiction;
+“transferred income” means any income which the person whose means is being assessed would have been entitled to receive in the assessable period, but which by reason of a particular action having been taken by or on behalf of that person, a person other than the person whose means are being assessed has received, is receiving or will receive an amount of money or monies worth (whether by way of a single payment or a series of payments) and which action by the person whose means are being assessed occurred within 5 years of the date of first application for State support but does not include income earned by a family successor in the course of running a family asset or payments made in respect of the maintenance of a child, a spouse or a former spouse under a maintenance agreement, a separation agreement or pursuant to an order of a court of competent jurisdiction;
 
 “unquoted” in relation to any shares or securities, means not quoted on a recognised stock exchange.
 
@@ -388,7 +428,7 @@ CR is the amount of the consideration received by the person or the estimated ma
 
 5. It shall be presumed, unless the Executive is satisfied that it is not the case, that where there is more than one person with an interest in an asset that each owner has an equal interest in the asset concerned.
 
-6. The interest of a person in a principal residence, or in a transferred asset which qualifies as a principal residence, shall not be or shall cease to be a relevant asset where the person concerned is receiving or has received—
+6. Subject to paragraph 6A, the interest of a person in a principal residence, or in a transferred asset which qualifies as a principal residence, shall not be or shall cease to be a relevant asset where the person concerned is receiving or has received—
 
 (a) care services,
 
@@ -398,25 +438,69 @@ CR is the amount of the consideration received by the person or the estimated ma
 
 (d) any combination of the services referred to in paragraphs (a) to (c), for a period of 3 years (which period need not be continuous).
 
-7. Subject to paragraphs 8 and 9, the interest of a person in a farm or relevant business shall not be or shall cease to be a relevant asset where the person concerned is receiving or has received—
+6A. (a) Where paragraph 6 applies in relation to a person who is a member of a couple, the reference in that paragraph to the interest of the person shall be construed as a reference to the interest of the person and the interest (if any) of the other member of the couple.
 
-(a) care services,
+(b) Where the partner of a person who has or (in the case of a transferred asset) had an interest in a principal residence does not have an interest in the principal residence concerned he or she shall, for the purposes of paragraph 6, be deemed to have or (in the case of a transferred asset) be deemed to have had an interest in that principal residence.
+
+6B. (a) Subject to subparagraphs (b) and (c), where a determination is made under section 14C(2)(a) or 14M(3) in respect of a person who has or (in the case of a transferred asset) had an interest in a particular family asset and that determination has not been revoked in so far as relating to that particular family asset, the interest of the person in the particular family asset shall not be, or shall cease to be, a relevant asset with effect from the date specified in the determination.
+
+(b) Where subparagraph (a) applies in relation to a person who is a member of a couple, the second reference in that subparagraph to the interest of the person shall be construed as a reference to the interest of the person and the interest (if any) of the other member of the couple.
+
+(c) Where the partner of a person who has or (in the case of a transferred asset) had an interest in a particular family asset does not have an interest in the particular family asset concerned he or she shall, for the purposes of subparagraph (a), be deemed to have or (in the case of a transferred asset) be deemed to have had an interest in that particular family asset.
+
+6C. (a) Subject to subparagraphs (b) and (c), subparagraph (d) applies only in a case where a person (in this paragraph referred to as the "relevant person") was a member of a couple, and—
+
+(i) paragraph 6B applies to the relevant person in relation to a particular family asset,
+
+(ii) a family successor was appointed in respect of the other member of the couple (in this paragraph referred to as the ‘other member’) in relation to the same particular family asset, and
+
+(iii) a repayment event has not occurred in respect of either the relevant person or the other member in relation to that particular family asset.
+
+(b) Subject to subparagraph (c), and other than in a case where both members of a couple are receiving care services on the coming into operation of section 31 (b) of the Act of 2021, subparagraph (d) shall only apply where a family successor was appointed in relation to the particular family asset in respect of the second member of the couple to receive care services before the date by which that member of the couple received any combination of relevant services for a period of one year (which period need not be continuous).
+
+(c) Where—
+
+(i) the relevant person received relevant services before the coming into operation of section 31(b) of the Act of 2021, and
+
+(ii) a family successor was not appointed in respect of the relevant person in relation to the particular family asset by the date of death of the other member, subparagraph (d) shall apply only if the relevant person made an application for the appointment of a family successor in relation to the particular family asset within the first three months following the death of the other member.
+
+(d) The total of the amounts of the assessed weekly means under this Act which relate to the particular family asset, arising pursuant to the financial assessment relating to the other member and the financial assessment relating to the relevant person, when aggregated, shall not exceed the relevant amount determined under subparagraph (e), and on that threshold being reached, notwithstanding any other provision of this Schedule, the particular family asset shall cease to be a relevant asset.
+
+(e) The relevant amount referred to in subparagraph (d) shall be the amount referred to in subparagraph (f)(i) or, where any of clauses (ii), (iii) or (iv) of subparagraph (f) apply, the relevant amount referred to in subparagraph (d) shall be the aggregate of the amount referred to in subparagraph (f)(i) and the additional amount referred to in such other clauses of subparagraph (f) as apply.
+
+(f) (i) The amount is 22.5 per cent of the relevant value in respect of the relevant person.
+
+(ii) Where the date specified in the determination under section 14C(2)(a) in respect of the relevant person in relation to the particular family asset is later than the date by which the relevant person received any combination of relevant services for a period of 3 years (which period need not be continuous), the additional amount is 3.75 per cent of the relevant value in respect of the relevant person per annum, prorated for the relevant period.
+
+(iii) Where a determination was made under section 14C(2)(a) in respect of the other member in relation to the particular family asset and the date specified in that determination is later than the date by which the other member received any combination of relevant services for a period of 3 years (which period need not be continuous), the additional amount is 3.75 per cent of the relevant value in respect of the other member per annum, prorated for the relevant period.
+
+(iv) Where a determination was not made under section 14C(2)(a) in respect of the other member in relation to the particular family asset, and the other member received any combination of relevant services for a period of at least 3 years (which period need not be continuous), the additional amount is 3.75 per cent of the relevant value in respect of the other member per annum, prorated for the relevant period.
+
+(g) In this paragraph—
+
+"relevant period" means—
+
+(a) where subparagraph (f)(ii) applies, the period between the date by which the relevant person received any combination of relevant services for a period of 3 years (which period need not be continuous) and the date specified in the determination under section 14C(2)(a) in respect of the relevant person in relation to the particular family asset;
+
+(b) where subparagraph (f)(iii) applies, the period between the date by which the other member received any combination of relevant services for a period of 3 years (which period need not be continuous) and the date specified in the determination under section 14C(2)(a) in respect of the other member in relation to the particular family asset;
+
+(c) where subparagraph (f)(iv) applies, the period between the date by which the other member received any combination of relevant services for a period of 3 years (which period need not be continuous) and the date of death of the other member;
+
+"relevant services" means—
+
+(a) care services (including any care services received before the coming into operation of section 5 of the Act of 2021),
 
 (b) transitional care services within the meaning of section 13,
 
-(c) services in a nursing home which services would, if they had been provided after the coming into operation of the definition of “approved nursing home”, have come within the meaning of the definition of “long-term residential care services”, or
+(c) services in a nursing home which services would, if they had been provided after the coming into operation of the definition of "approved nursing home" in section 3, have come within the meaning of the definition of "long-term residential care services" in section 3;
 
-(d) any combination of the services referred to in subparagraphs (a) to (c), for a period of 3 years (which period need not be continuous).
+"relevant value" means the estimated market value of the particular family asset at the date of valuation of the particular family asset in connection with the first financial assessment of the relevant person or the other member, as the case may be, less allowable deductions applicable to that asset.
 
-8. Paragraph 7 shall not apply unless—
+7. ...
 
-(a) the person receiving care services has suffered a sudden illness or disability which caused that person to require care services, and
+8. ...
 
-(b) a substantial part of the working day of the person requiring care services or his or her partner was regularly and consistently applied to the farming of the farm or carrying on of the relevant business until the onset of the sudden illness or disability, and
-
-(c) a family successor certifies in writing that he or she will on a consistent and regular basis apply a substantial part of his or her working day to the farming of the farm or carrying on of the relevant business.
-
-9. Paragraph 7 shall apply to a relevant asset which is a transferred asset and which is a farm or relevant business.
+9. ...
 
 10. (a) Subparagraph (b) applies only in a case where the person (“relevant person”) was a member of a couple, and—
 
@@ -431,6 +515,54 @@ CR is the amount of the consideration received by the person or the estimated ma
 (i) the other member and the relevant person both applied for State support on or after 27 October 2009 and prior to the relevant day, the reference to 22.5 per cent in subparagraph (b) shall be read as a reference to 15 per cent, and
 
 (ii) the other member applied for State support on or after 27 October 2009 and prior to the relevant day and the relevant person applied for State support on or after the relevant day, the reference to 22.5 per cent in subparagraph (b) shall be read as a reference to 18.75 per cent.
+
+10A. (a) Subject to paragraphs 10B to 10D, a person (in this paragraph and paragraphs 10B to 10D referred to as the "relevant person") shall be entitled to the proceeds of sale deductible amount where the relevant person or his or her partner sells (whether before or after the commencement day) the interest of the relevant person in a principal residence and the relevant person is receiving or has received (whether before or after the commencement day)—
+
+(i) care services,
+
+(ii) transitional care services within the meaning of section 13,
+
+(iii) services in a nursing home which services would, if they had been provided after the coming into operation of the definition of "approved nursing home" have come within the meaning of the definition of "long-term residential care services", or
+
+(iv) any combination of the services referred to in clauses (i) to (iii), for a period of 3 years (which period need not be continuous).
+
+(b) Where, but for this subparagraph, the relevant person would be entitled to the proceeds of sale deductible amount in respect of a period occurring before the commencement day, the relevant person shall not be so entitled and shall instead, by virtue of this subparagraph, be entitled to the proceeds of sale deductible amount with effect from the commencement day.
+
+(c) In this paragraph, ‘commencement day’ means the day on which section 31(d) of the Act of 2021 comes into operation.
+
+10B. (a) Where paragraph 10A applies in relation to a relevant person who is a member of a couple, a reference in that paragraph to the interest of the relevant person shall be construed as a reference to the interest of the person and the interest (if any) of the other member of the couple.
+
+(b) Where the partner of a person who has or (in the case of a transferred asset) had an interest in a principal residence does not have an interest in the principal residence concerned he or she shall, for the purposes of paragraph 10A, be deemed to have or (in the case of a transferred asset) be deemed to have had an interest in that principal residence.
+
+10C. Paragraph 10A shall apply only where—
+
+(a) the principal residence is situated within the State, and
+
+(b) the sale of the interest in the principal residence is completed after the relevant person begins receiving any of the services referred to in clauses (i) to (iii) of paragraph 10A(a).
+
+10D. (a) Where a relevant person is entitled to the proceeds of sale deductible amount under paragraph 10A and the relevant person or his or her partner purchases an interest in a principal residence—
+
+(i) if the purchase price is less than the proceeds of sale, paragraph 6 shall apply in relation to the interest in the principal residence and the relevant person shall be entitled to the proceeds of sale deductible amount under paragraph (a) of the definition of "proceeds of sale deductible amount", and
+
+(ii) if the purchase price is equal to or greater than the proceeds of sale, paragraph 6 shall apply in relation to the interest in the principal residence and the relevant person shall no longer be entitled to the proceeds of sale deductible amount under paragraph 10A.
+
+(b) Where a relevant person is entitled to the proceeds of sale deductible amount under paragraph 10A and the relevant person or his or her partner acquires an interest in a principal residence for no consideration—
+
+(i) if the estimated market value of the principal residence (less any borrowings referred to in paragraph (c) of the definition of "allowable deduction" which relate to the principal residence) is less than the proceeds of sale, paragraph 6 shall apply in relation to the interest in the principal residence and the relevant person shall be entitled to the proceeds of sale deductible amount under paragraph (b) of the definition of "proceeds of sale deductible amount", and
+
+(ii) if the estimated market value of the principal residence (less any borrowings referred to in paragraph (c) of the definition of "allowable deduction" which relate to the principal residence) is equal to or greater than the proceeds of sale, paragraph 6 shall apply in relation to the interest in the principal residence and the relevant person shall no longer be entitled to the proceeds of sale deductible amount under paragraph 10A.
+
+(c) Where a relevant person is entitled to the proceeds of sale deductible amount under paragraph 10A and a relevant asset of the relevant person or his or her partner becomes a principal residence—
+
+(i) if the estimated market value of the principal residence (less any borrowings referred to in paragraph (c) of the definition of "allowable deduction" which relate to the principal residence) is less than the proceeds of sale, paragraph 6 shall apply in relation to the interest in the principal residence and the relevant person shall be entitled to the proceeds of sale deductible amount under paragraph (b) of the definition of "proceeds of sale deductible amount", and
+
+(ii) if the estimated market value of the principal residence (less any borrowings referred to in paragraph (c) of the definition of "allowable deduction" which relate to the principal residence) is equal to or greater than the proceeds of sale, paragraph 6 shall apply in relation to the interest in the principal residence and the relevant person shall no longer be entitled to the proceeds of sale deductible amount under paragraph 10A.
+
+(d) In this paragraph—
+
+"proceeds of sale" means an amount equal to the consideration received by the relevant person or his or her partner on the sale of the interest in a principal residence after the discharge of all mortgages and other liabilities relating to the sale;
+
+"purchase price" means an amount equal to the consideration paid by the relevant person or his or her partner on the purchase of an interest in a principal residence (including the cost of any liabilities relating to the purchase) less any borrowings referred to in paragraph (c) of the definition of "allowable deduction" which relate to the principal residence.
 
 11. Where in relation to a person an asset is a transferred asset such asset shall not cease to be a transferred asset where—
 
