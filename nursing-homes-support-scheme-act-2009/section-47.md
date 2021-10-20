@@ -38,6 +38,12 @@ Authority of person to act on behalf of another person.
 
 (9) Subsection (1) shall not operate to permit a person—
 
-(a) to act as a care representative unless that person is appointed as a care representative under section 21, or
+(a) to act as a care representative unless that person is appointed as a care representative under section 21, ...
+
+(aa) to do anything—
+
+(i) falling within paragraph (b), (d) or (e) of subsection (1) of section 21, or
+
+(ii) prescribed under paragraph (f) of subsection (1) of that section, unless that person is appointed as a care representative under that section, or
 
 (b) to make a request that ancillary State support be paid unless that person is appointed as a care representative under section 21.

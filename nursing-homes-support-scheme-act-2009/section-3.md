@@ -2,6 +2,8 @@ Interpretation.
 
 3.— (1) In this Act, unless the context otherwise requires—
 
+"Act of 2021" means the Nursing Homes Support Scheme (Amendment) Act 2021;
+
 “ancillary State support” has the meaning assigned to it by section 15;
 
 “application for State support” means an application for State support under section 9 (1);
@@ -40,6 +42,8 @@ Interpretation.
 
 “charge” includes a mortgage;
 
+"chargeable land" has the meaning assigned to it by section 14B;
+
 “child” includes a step-child;
 
 “cost”—
@@ -59,6 +63,12 @@ Interpretation.
 “estimated market value” has the meaning assigned to it by Schedule 1;
 
 “Executive” means the Health Service Executive;
+
+"family successor" has the meaning assigned to it by Schedule 1;
+
+"farm" has the meaning assigned to it by Schedule 1;
+
+"farming" has the meaning assigned to it by Schedule 1;
 
 “financial assessment” means an assessment carried out under section 10;
 
@@ -128,9 +138,11 @@ Interpretation.
 
 “nursing home” has the meaning assigned to it by section 2 of the Health (Nursing Homes) Act 1990 and includes an institution referred to in section 2(1)(h) of that Act;
 
+"particular family asset", in relation to a family successor, means the asset or assets in relation to which the family successor was appointed under section 14A, 14F, 14G, 14H, 14K or 14L;
+
 “partner”, in relation to a person who is a member of a couple, means the person who is the other member of the couple;
 
-“principal residence” has the meaning assigned to it by Schedule 1;
+“principal residence” has the meaning assigned to it by Schedule 1 ;
 
 “proprietor”—
 
@@ -146,11 +158,23 @@ Interpretation.
 
 “relevant assets” has the meaning assigned to it by Schedule 1;
 
+"relevant business" has the meaning assigned to it by Schedule 1;
+
 “relevant event” has the meaning assigned to it by section 19;
 
 “relevant facility” means a facility which falls within paragraph (a)(i)(I) of the definition of “long-term residential care services”;
 
 “relevant subvention” has the meaning assigned to it by section 7 (inserted by section 3 of the Health (Nursing Homes) (Amendment) Act 2007) of the Health (Nursing Homes) Act 1990;
+
+"repayment event" has the meaning assigned to it by section 14I;
+
+"revoked", in relation to a determination of the Executive under section 14C(2) (a), means revoked under section 14G(12) or 14I(3);
+
+"running the family asset", in relation to a specified asset or a particular family asset, means—
+
+(a) where the specified asset or the particular family asset is a farm, farming the farm, and
+
+(b) where the specified asset or the particular family asset is a relevant business, carrying on the relevant business;
 
 “Scheme” means the Nursing Homes Support Scheme established under section 5;
 
@@ -158,14 +182,16 @@ Interpretation.
 
 “specified”, in relation to a form, means a form specified under section 44;
 
+"specified asset" has the meaning assigned to it by section 14A;
+
 “State support” means a payment made by the Executive in accordance with the Scheme following an application for such support to assist a person in meeting the cost of care services;
 
 “suitable”, in relation to a person (who may be an employee of the Executive) and a function to be performed under this Act, means that, in the opinion of the Executive, the person has the necessary qualifications, training or experience, or combination thereof, to perform that function;
 
 “transfer”, in relation to an asset or income, means the transfer by sale or gift of that asset or income and references to “transferred” shall be construed accordingly;
 
-“transferred asset” has the meaning assigned to it by Schedule 1;
+“transferred asset” has the meaning assigned to it by Schedule 1 ;
 
-“transferred income” has the meaning assigned to it by Schedule 1.
+“transferred income” has the meaning assigned to it by Schedule 1 .
 
 (2) Where the Executive is satisfied that a person who is or is to be provided with care services is unlikely to ever cease to require care services during the person’s lifetime, then paragraph (a)(i)(II) or (a)(ii)(II), as the case may be, of the definition of “long-term residential care services” shall not apply in the case of that person.

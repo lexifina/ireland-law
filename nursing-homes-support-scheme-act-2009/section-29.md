@@ -2,7 +2,7 @@
 
 Joint ownership.
 
-29.— (1) Subject to subsections (2) and (3), where the Executive makes an order under section 17(2) which relates to an interest in land the subject of a joint tenancy, notwithstanding any rule of law or statutory provision—
+29.— (1) Subject to subsections (2) and (3), where the Executive makes an order under section 14B(1) or section 17(2) which relates to an interest in land the subject of a joint tenancy, notwithstanding any rule of law or statutory provision—
 
 (a) the mortgage created thereby shall not, by reason of the absence of the prior consent in writing of the other joint tenant or, where there are more than one other, all the other joint tenants, cause the severance of the joint tenancy in the interest in the land the subject of the mortgage,
 
@@ -10,10 +10,32 @@ Joint ownership.
 
 (c) the severance of the joint tenancy, or the determination or extinguishment of the interest of the joint tenant who has created such mortgage, shall not cause the charge concerned to be determined, extinguished or otherwise cease to have effect as respects such land.
 
-(2) Subject to subsection (3), the amount secured by an order made under section 17(2) and to which subsection (1) refers shall not exceed the amount which represents the value of such share or proportion of the interest in the land concerned to which the person or persons requesting payment of ancillary State support would have been entitled had the joint tenancy been severed on—
+(2) Subject to subsection (3), the amount secured by an order made under section 14B(1) or section 17(2) and to which subsection (1) refers shall not exceed the amount which represents the value of such share or proportion of the interest in the land concerned to which , in the case of an order made under section 14B(1), the interested person or interested persons, or, in the case of an order made under section 17(2), the person or persons requesting payment of ancillary State support would have been entitled had the joint tenancy been severed on—
 
-(a) the date on which the mortgage is deemed to have been executed by reason of section 17(4), or
+(a) the date on which the mortgage is deemed to have been executed by reason of section 14B(3) or section 17(4) or
 
 (b) an order for partition of the land had been made on that date.
 
-(3) Subsection (2) shall not apply where all the joint tenants in the joint tenancy concerned have made a request to the Executive that the ancillary State support be paid in relation to the interest in the land concerned.
+(3) Subsection (2) shall not apply—
+
+(a) in the case of an order made under section 14B(1), where all the joint tenants in the joint tenancy concerned are interested persons, or
+
+(b) in the case of an order made under section 17(2), where all the joint tenants in the joint tenancy concerned have made a request to the Executive that the ancillary State support be paid in relation to the interest in the land concerned.
+
+(4) In this section—
+
+"interested person", in relation to an order made under section 14B(1), means—
+
+(a) where the chargeable land is not a transferred asset—
+
+(i) each member of the couple, where the relevant person is a member of a couple, or
+
+(ii) the relevant person, where the relevant person is not a member of a couple, or
+
+(b) where the chargeable land is a transferred asset, the person or persons who hold the interest that—
+
+(i) each member of the couple had in the chargeable land, where the relevant person is a member of a couple, or
+
+(ii) the relevant person had in the chargeable land, where the relevant person is not a member of a couple;
+
+"relevant person" means a person receiving care services.

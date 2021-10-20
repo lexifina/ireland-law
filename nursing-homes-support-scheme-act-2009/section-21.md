@@ -8,7 +8,13 @@ Appointment of care representative in case of person not having full capacity.
 
 (b) consenting to the creation of a charge in relation to an interest in land situated within the State,
 
-(c) taking necessary actions in connection with the application for ancillary State support, the making of an order under section 17(2) or the registration of such order in the Land Registry or the Registry of Deeds (including the perfection of the title of the person to whom the application relates).
+(c) taking necessary actions in connection with the application for ancillary State support, the making of an order under section 17(2) or the registration of such order in the Land Registry or the Registry of Deeds (including the perfection of the title of the person to whom the application relates),
+
+(d) the appointment of a family successor or family successors, including selecting an appropriate person or persons to act as family successor, the making of an application under section 14A, 14G, 14H, 14K or 14L for the appointment of a family successor and taking necessary actions in connection with such application or applications,
+
+(e) taking necessary actions in connection with the making of an order under section 14B(1) or the registration of such order in the Land Registry or the Registry of Deeds (including the perfection of the title of the person to whom the application relates),
+
+(f) such other matters as may be prescribed.
 
 (2) It shall be presumed, until the contrary is established, that a person has full mental capacity.
 

@@ -18,6 +18,8 @@ Submission of schedule of assets to Executive where deceased person received fin
 
 (i) in respect of the amount due in relation to advances of ancillary State support paid in respect of a person or at the request of a person,
 
+(ia) pursuant to section 14J(11) in respect of the deceased person,
+
 (ii) pursuant to section 42 in respect of the deceased person.
 
 (3) For the purposes of determining an amount referred to in subsection (2)(b), and notwithstanding any other provision of this Act, the means of the deceased person concerned, for the period during which the person was provided with financial support, shall, in the absence of evidence to the contrary, be calculated on the basis that the person’s assets at the time of the death of the person belonged to the person for that entire period.
