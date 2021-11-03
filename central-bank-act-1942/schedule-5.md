@@ -8,11 +8,11 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 (2) The acting Chairperson has the functions and powers of the Chairperson and anything done by an Acting Chairperson in the performance or exercise of those powers and functions has effect as if the Chairperson had done the thing.
 
-(3) In this paragraph, absence from duty includes a vacancy in the relevant office.
+(3) In this paragraph, absence from duty includes a vacancy in the relevant office. 2.—(1) Subject to Part VIIA of this Act and to this Schedule, a member holds office for 5 years.
 
-2.—(1) Subject to Part VIIA of this Act and to this Schedule, a member holds office for 5 years.
+(2) A member is eligible for re-appointment, but may not hold office for more than three consecutive terms of 5 years.
 
-(2) A member is eligible for re-appointment, but may not hold office for more than three consecutive terms of 5 years. 3.—A member is required to take an oath before performing the functions of the member’s office. The regulations may make provision for the oaths that are to be taken by members.
+3.—A member is required to take an oath before performing the functions of the member’s office. The regulations may make provision for the oaths that are to be taken by members.
 
 4.—A member has as such the same protection and immunities as a Judge of the High Court.
 

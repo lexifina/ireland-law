@@ -74,7 +74,9 @@ FINANCIAL SERVICES OMBUDSMAN, DEPUTY FINANCIAL SERVICES OMBUDSMEN AND OTHER BURE
 
 (6) Except with the written consent of the Minister, the Council may not provide superannuation benefits to or in respect of a beneficiary or make arrangements for the provision of such benefits otherwise than in accordance with a superannuation scheme approved by the Minister in accordance with this paragraph.
 
-(7) The Council is responsible for conciliating and settling any dispute that arises in relation to a claim made by a beneficiary or a dependant of a beneficiary for or in respect of the payment of a superannuation benefit under a superannuation scheme approved by the Minister. 6.—(1) As soon as practicable after the Minister has approved a superannuation scheme or an amendment to such a scheme in accordance with paragraph 4 or 5, the Council shall arrange for a copy of the document embodying the scheme or amendment to be laid before each House of the Oireachtas.
+(7) The Council is responsible for conciliating and settling any dispute that arises in relation to a claim made by a beneficiary or a dependant of a beneficiary for or in respect of the payment of a superannuation benefit under a superannuation scheme approved by the Minister.
+
+6.—(1) As soon as practicable after the Minister has approved a superannuation scheme or an amendment to such a scheme in accordance with paragraph 4 or 5, the Council shall arrange for a copy of the document embodying the scheme or amendment to be laid before each House of the Oireachtas.
 
 (2) Within 21 sitting days after a superannuation scheme or an amendment to such a scheme is laid before a House of the Oireachtas in accordance with subparagraph (1), the House may pass a resolution annulling the scheme or amendment. However, the annulment of such a scheme or amendment does not affect the validity of anything previously done under the scheme or the scheme as amended.
 
