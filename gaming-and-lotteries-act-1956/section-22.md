@@ -1,0 +1,3 @@
+Advertisement of lotteries. (Repealed)
+
+22. — ...

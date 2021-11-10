@@ -1,0 +1,3 @@
+Prohibition on taking or sending money or documents out of State. (Repealed)
+
+34.— ...

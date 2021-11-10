@@ -1,0 +1,3 @@
+Obstruction of Garda Síochána.
+
+41. —Any person who obstructs or impedes a member of the Garda Síochána in the exercise of his powers under this Act or who, on being asked his name and address by such member, fails to give them or gives a name or address which is false or misleading shall be guilty of an offence ....

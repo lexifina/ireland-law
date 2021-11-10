@@ -1,0 +1,3 @@
+Non-Application of Section 22. (Repealed)
+
+22A.—...
