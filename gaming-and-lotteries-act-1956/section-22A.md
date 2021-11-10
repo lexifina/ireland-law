@@ -1,0 +1,3 @@
+F19[Non-Application of Section 22
+
+22A.—...

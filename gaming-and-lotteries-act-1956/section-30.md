@@ -1,0 +1,3 @@
+False statements on application for licence or permit.
+
+30. — Any person who, in support of an application for a licence or permit, makes any statement or representation (whether written or oral) which is to his knowledge false or misleading in any material respect shall be guilty of an offence ....

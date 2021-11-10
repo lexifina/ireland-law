@@ -1,0 +1,3 @@
+Prohibition of slot-machines.
+
+10.— ...
