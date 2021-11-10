@@ -72,7 +72,7 @@ Interpretation.
 
 “railway property” has the meaning assigned to it by section 73(15);
 
-'railway organisation' means—
+"railway organisation" means—
 
 (a) an organisation with responsibility in operating:
 
@@ -104,7 +104,7 @@ Interpretation.
 
 “rolling stock”, in relation to a railway, means any train or any other vehicle with flanged wheels which is designed to operate on a railway;
 
-‘safety management certificate’ means a safety management certificate issued under section 46(1)(a);
+"safety management certificate" means a safety management certificate issued under section 46(1)(a);
 
 “safety management document” shall be construed in accordance with section 39;
 
