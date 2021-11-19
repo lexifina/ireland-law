@@ -1,0 +1,5 @@
+Optional contributor and employed contributor in same contribution year (assignment of contribution weeks).
+
+49. (1) Subject to sub-article (2), where in any contribution year an optional contributor who, having paid an optional contribution in respect of that year, is also an employed contributor by virtue of section 9(1)(a), the number of contribution weeks in respect of which optional contributions shall be regarded as having been paid shall be determined by deducting the number of contribution weeks in respect of which employment contributions have been paid or treated as paid, ... or have been credited, from 52 and treating the remainder as the number of contribution weeks in respect of which optional contributions have been paid.
+
+(2) An optional contribution may be treated as paid in respect of any contribution week for which an employment contribution has been credited for the purposes of the contribution conditions for illness benefit, jobseeker’s benefit , jobseeker’s benefit (self-employed), and Treatment Benefit which require a minimum number of qualifying contributions to have been paid. CHAPTER 6

@@ -1,0 +1,3 @@
+Furnishing information to social welfare inspector.
+
+20F. A self-employed contributor to whom article 20A applies shall on receipt, from an inspector, of a notice in writing addressed to him or her at the address at which he or she resides or carries on business and incorporating or having annexed to it a form of declaration, furnish on the said form of declaration such information in respect of his or her self-employment as is demanded in the notice and shall sign and otherwise complete the declaration and deliver the same by hand or by registered post to the inspector, within the time specified by the inspector, not being less than six days from the date of such notice.

@@ -1,0 +1,5 @@
+Determination of employment of inconsiderable extent.
+
+90. (1) Subject to article 91 and article 95, employment in any contribution week (which apart from these Regulations would be insurable employment) in one or more employments (other than systematic short-time employment) where the total amount of reckonable earnings payable to or in respect of an employee from such employment or employments is less than EUR 38 in or in respect of that contribution week is hereby specified as being employment of inconsiderable extent.
+
+(2) For the purposes of sub-article (1), systematic short- time employment shall be deemed to occur in a firm or undertaking where the employees of such firm or undertaking had, prior to its introduction, been engaged in full-time remunerative employment and where, subsequent to the introduction of systematic short-time employment, the employees are working a lesser number of hours in the working week than was normal to that firm or undertaking and where there is an expectation that the firm or undertaking will resume normal full-time working within a reasonable period.

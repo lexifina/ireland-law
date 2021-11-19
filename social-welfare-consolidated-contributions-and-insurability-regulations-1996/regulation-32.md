@@ -1,0 +1,3 @@
+Minimum rate of voluntary contribution (former employed contributors).
+
+32. ...
