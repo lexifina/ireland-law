@@ -4,4 +4,4 @@ Provision of personal protective equipment.
 
 (2) Without prejudice to the generality of paragraph (1), an employer when providing personal protective equipment shall take into account the appropriate matters specified in Schedule 2.
 
-(3) Without prejudice to section 16 of the Act, an employer shall ensure that personal protective equipment provided under these Regulations complies with relevant European Community directives regarding design and manufacture of personal protective equipment with respect to safety and health.
+(3) Without prejudice to section 16 of the Act, an employer shall ensure that personal protective equipment provided under these Regulations complies with relevant European Community directives and European Union regulations regarding design and manufacture of personal protective equipment with respect to safety and health.
