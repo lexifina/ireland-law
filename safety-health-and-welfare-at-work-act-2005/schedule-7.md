@@ -42,7 +42,7 @@ The Minister may make regulations under section 58 for or in respect of any matt
 
 (5) requirements to be imposed on persons as regards interference,misuse or damage of anything provided under the relevant statutory provisions or otherwise for securing the safety, health and welfare of persons at work;
 
-(6) requirements to be imposed on an employee as regards his or her own safety, health or welfare at work including requirements as regards the use of any appliance, protective clothing, convenience,equipment or means or thing provided for securing their safety,health or welfare at work and attendance at safety and health training;
+(6) requirements to be imposed on an employee as regards his or her own safety, health or welfare at work including requirements as regards the use of any appliance, protective clothing, convenience, equipment or means or thing provided for securing their safety,health or welfare at work and attendance at safety and health training;
 
 (7) requirements to be imposed on persons who design, manufacture,import or supply articles for use at work as regards—
 
@@ -138,6 +138,6 @@ The Minister may make regulations under section 58 for or in respect of any matt
 
 (42) requirements to be imposed as regards joint safety and health agreements;
 
-(43) such further requirements, arrangements, modifications or exemptions as the Minister considers necessary, from time to time,in relation to the operation of sections 25 and 26;
+(43) such further requirements, arrangements, modifications or exemptions as the Minister considers necessary, from time to time, in relation to the operation of sections 25 and 26;
 
 (44) such fees as may be charged under section 47.

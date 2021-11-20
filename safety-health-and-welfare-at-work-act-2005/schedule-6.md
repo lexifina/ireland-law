@@ -92,6 +92,6 @@ IRISH NATIONAL ACCREDITATION BOARD
 
 (7) Subject to the provisions of this Act, the Accreditation Board shall regulate its procedures (including procedures for electronic meetings).
 
-(8) The Accreditation Board may hold or continue a meeting by the use of any means of communication by which all the members can hear and be heard at the same time (in this Schedule referred to as an ‘electronic meeting’).
+(8) The Accreditation Board may hold or continue a meeting by the use of any means of communication by which all the members can hear and be heard at the same time (in this Schedule referred to as an "electronic meeting").
 
 (9) A member of the Accreditation Board who participates in an electronic meeting is taken for all purposes to have been present at the meeting.

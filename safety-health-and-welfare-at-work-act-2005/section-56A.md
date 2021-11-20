@@ -6,7 +6,7 @@ Irish National Accreditation Board
 
 (a) become and be a committee of the Authority under this section, and
 
-(b) be known as the Irish National Accreditation Board (in this Act referred to as the ‘Accreditation Board’).
+(b) be known as the Irish National Accreditation Board (in this Act referred to as the "Accreditation Board").
 
 (2) The Accreditation Board is the single national accreditation body for the purposes of the Accreditation Regulation.
 
@@ -16,7 +16,7 @@ Irish National Accreditation Board
 
 (5) The Accreditation Board shall be independent in the performance of its functions.
 
-(6) The Authority shall designate a member of its staff (in this Act referred to as the ‘Manager of the Accreditation Board’) to carry on and manage, and control generally the administration of the Accreditation Board.
+(6) The Authority shall designate a member of its staff (in this Act referred to as the "Manager of the Accreditation Board") to carry on and manage, and control generally the administration of the Accreditation Board.
 
 (7) Subject to subsection (8), the Accreditation Board may perform any one or more of its functions through or by—
 
@@ -44,4 +44,4 @@ Irish National Accreditation Board
 
 (d) the Irish National Accreditation Board as a committee of Forfás, shall be taken to be a reference to the Accreditation Board as a committee of the Authority referred to in subsection (1).
 
-(14) In this section ‘enactment’ has the same meaning as it has in the Interpretation Act 2005.
+(14) In this section "enactment" has the same meaning as it has in the Interpretation Act 2005.

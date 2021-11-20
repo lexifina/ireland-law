@@ -8,19 +8,19 @@ Interpretation.
 
 “advisory committee” means an advisory committee established under section 38;
 
-‘accreditation’ means attestation that a conformity assessment body meets the requirements—
+"accreditation" means attestation that a conformity assessment body meets the requirements—
 
 (a) of a harmonised standard and, where applicable, any additional requirements in accordance with the Accreditation Regulation, or
 
 (b) of a non-harmonised international standard, to carry out a specific conformity assessment activity;
 
-‘Accreditation Board’ shall be construed in accordance with section 56A;
+"Accreditation Board" shall be construed in accordance with section 56A;
 
-‘Accreditation Regulation’ means Regulation (EC) No. 765/2008 of the European Parliament and of the Council of 9 July 2008;
+"Accreditation Regulation" means Regulation (EC) No. 765/2008 of the European Parliament and of the Council of 9 July 2008;
 
-‘Act of 1993’ means the Industrial Development Act 1993;
+"Act of 1993" means the Industrial Development Act 1993;
 
-‘Appeals Board’ means an Appeals Board established under section 56G;
+"Appeals Board" means an Appeals Board established under section 56G;
 
 “approved” means approved in writing for the time being by the Authority or conforming with a specification in writing by the Authority;
 
@@ -48,9 +48,9 @@ Interpretation.
 
 (b) proposals of a commercial nature or tenders submitted to the Authority by contractors, consultants or any other person;
 
-‘conformity assessment’ means the process demonstrating whether specified requirements relating to a product, process, service, system or person have been fulfilled;
+"conformity assessment" means the process demonstrating whether specified requirements relating to a product, process, service, system or person have been fulfilled;
 
-‘conformity assessment body’ means a person who performs conformity assessment activities, including calibration, testing, certification and inspection;
+"conformity assessment body" means a person who performs conformity assessment activities, including calibration, testing, certification and inspection;
 
 “construction work” means the carrying out of any building, civil engineering or engineering construction work, as may be prescribed;
 
@@ -68,7 +68,7 @@ Interpretation.
 
 (e) any unintentional ignition or explosion of explosives, as may be prescribed;
 
-‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+"Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 “director” includes a person in accordance with whose directions or instructions the directors of the undertaking concerned are accustomed to act but does not include such a person if the directors are accustomed to so act by reason only that they do so on advice given by the person in a professional capacity;
 
@@ -92,7 +92,7 @@ Interpretation.
 
 “fixed-term employee” means an employee whose employment is governed by a contract of employment for a fixed-term or for a specified purpose, being a purpose of a kind that the duration of the contract was limited but was, at the time of its making, incapable of precise ascertainment;
 
-‘harmonised standard’ has the same meaning as it has in the Accreditation Regulation;
+"harmonised standard" has the same meaning as it has in the Accreditation Regulation;
 
 “health surveillance” means the periodic review, for the purpose of protecting health and preventing occupationally related disease, of the health of employees, so that any adverse variations in their health that may be related to working conditions are identified as early as possible;
 
@@ -106,7 +106,7 @@ Interpretation.
 
 “joint safety and health agreement” shall be read in accordance with section 24;
 
-‘Manager of the Accreditation Board’ shall be construed in accordance with section 56A(6);
+"Manager of the Accreditation Board" shall be construed in accordance with section 56A(6);
 
 “material interest” has the meaning assigned by section 2(3) of the Ethics in Public Office Act 1995;
 
@@ -148,7 +148,7 @@ Interpretation.
 
 “recognised trade unions and staff associations” means trade unions and staff associations recognised by the Authority for the purposes of negotiations concerned with the remuneration, conditions of employment or working conditions of its employees;
 
-‘record’ includes any memorandum, book, report, statement, register, plan, chart, map, drawing, specification, diagram, pictorial or graphic work or other document, any photograph, film or recording (whether of sound or images or both), any form in which data (including data that constitute personal data within the meaning of the Data Protection Regulation or Part 5 of the Data Protection Act 2018) are held, any form (including machine-readable form) or thing in which information is held or stored manually, mechanically or electronically, and anything that is a part or copy, in any form, of any of, or any combination of, the foregoing;
+"record" includes any memorandum, book, report, statement, register, plan, chart, map, drawing, specification, diagram, pictorial or graphic work or other document, any photograph, film or recording (whether of sound or images or both), any form in which data (including data that constitute personal data within the meaning of the Data Protection Regulation or Part 5 of the Data Protection Act 2018) are held, any form (including machine-readable form) or thing in which information is held or stored manually, mechanically or electronically, and anything that is a part or copy, in any form, of any of, or any combination of, the foregoing;
 
 “registered medical practitioner” means a person whose name is entered in the General Register of Medical Practitioners;
 
