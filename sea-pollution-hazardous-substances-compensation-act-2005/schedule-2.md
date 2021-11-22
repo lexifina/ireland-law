@@ -2,7 +2,9 @@ SCHEDULE 2
 
 PROTOCOL OF 1996 TO AMEND THE CONVENTION ON LIMITATION OF LIABILITY FOR MARITIME CLAIMS, 1976
 
-THE PARTIES TO THE PRESENT PROTOCOL, CONSIDERING that it is desirable to amend the Convention on Limitation of Liability for Maritime Claims, done at London on 19 November 1976, to provide for enhanced compensation and to establish a simplified procedure for updating the limitation amounts,
+THE PARTIES TO THE PRESENT PROTOCOL,
+
+CONSIDERING that it is desirable to amend the Convention on Limitation of Liability for Maritime Claims, done at London on 19 November 1976, to provide for enhanced compensation and to establish a simplified procedure for updating the limitation amounts,
 
 HAVE AGREED as follows:
 
