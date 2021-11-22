@@ -20,7 +20,9 @@ Alteration of certain penalties under the Principal Act, the Act of 1962 or the 
 
 (7) Where a person is convicted of an offence under section 152 of the Principal Act, the engine or other thing used to commit the offence, as a statutory consequence of conviction, stands forfeited.
 
-(8) This section has effect in respect of offences committed after the establishment day. TABLE
+(8) This section has effect in respect of offences committed after the establishment day.
+
+TABLE
 
 PART 1
 
@@ -34,7 +36,7 @@ Reference Number Section of Principal Act Penalty (1) (2) (3)
 
 4. 163. A fine not exceeding €2,000 or, in the case of
 
-5. 69, 123, 128, 129. A fine not exceeding €2,000 and, in the case
+5. 69, 123, 128, 129. A fine not exceeding €2,000 and, in the case Reference Number Section of Principal Act Penalty (1) (2) (3)
 
 6. 100(3). A fine not exceeding €2,000, and if after
 
@@ -48,7 +50,7 @@ Reference Number Section of Principal Act Penalty (1) (2) (3)
 
 10. 94. A fine (not exceeding in all €2,500) of an
 
-11. 95, 96, 97, 99, 102, 103, A fine not exceeding €2,000 or imprisonment 104, 107, 110, 114, 116, 131, 132, 164, 165, 166, 170, 173, 174, 285A, 301, 308. Reference Number Section of Principal Act Penalty (1) (2) (3)
+11. 95, 96, 97, 99, 102, 103, A fine not exceeding €2,000 or imprisonment 104, 107, 110, 114, 116, 131, 132, 164, 165, 166, 170, 173, 174, 285A, 301, 308.
 
 12. 183. A fine not exceeding €2,000 or, in the case of
 

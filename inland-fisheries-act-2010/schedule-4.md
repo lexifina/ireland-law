@@ -12,7 +12,9 @@ Decision under section 41 of Workplace Relations Act 2015
 
 (c) require IFI to pay the employee compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all the circumstances but not exceeding 2 years’ remuneration in respect of the employee’s employment.
 
-Decision of Labour Court on appeal from decision referred to in paragraph 1
+Decision of Labour Court on appeal from decision referred to in paragraph
+
+1
 
 2. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in paragraph 1, shall affirm, vary or set aside the decision of the adjudication officer.
 
