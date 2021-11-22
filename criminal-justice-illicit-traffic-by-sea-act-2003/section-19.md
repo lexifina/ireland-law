@@ -6,7 +6,7 @@ Time lapse before surrender.
 
 (b) the conclusion of any appeal proceedings brought by or on behalf of that person, whichever is the later.
 
-(2) In this section ‘appeal proceedings’ means proceedings relating to—
+(2) In this section "appeal proceedings" means proceedings relating to—
 
 (a) a complaint under Article 40.4.2° of the Constitution (including proceedings on an appeal from a decision about the complaint),
 
