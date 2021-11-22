@@ -2,7 +2,7 @@ Interpretation.
 
 1.—In this Act, save where the context otherwise requires—
 
-‘Agency’ means the Environmental Protection Agency;
+"Agency" means the Environmental Protection Agency;
 
 “authorised officer” shall be construed in accordance with section 6 (1) of this Act;
 
@@ -22,11 +22,13 @@ Interpretation.
 
 (iv) the discarding of unprocessed fish or fish offal from fishing vessels;
 
-‘exclusive economic zone of the State’ and ‘inland waters and territorial seas of the State’ have the meanings assigned by Part 3 of the Sea-Fisheries and Maritime Jurisdiction Act 2006;
+...
+
+"exclusive economic zone of the State" has the same meaning as it has in the Maritime Jurisdiction Act 2021;
 
 “functions” includes powers and duties and a reference to the performance of a function includes a reference to the exercise of a power and the carrying out of a duty;
 
-‘harbour authority’ means—
+"harbour authority" means—
 
 (a) in the case of a harbour to which the Harbours Acts 1996 and 2000 apply, a company within the meaning of those Acts,
 
@@ -38,17 +40,21 @@ Interpretation.
 
 (e) in the case of a harbour under the management of Iarnród Éireann - Irish Rail, that company;
 
+"inland waters of the State" shall be construed in accordance with section 8 of the Maritime Jurisdiction Act 2021;
+
 “Irish aircraft” means an aircraft registered in the State;
 
 “Irish vessel” means a ship which is an Irish ship within the meaning of the Mercantile Marine Act, 1955, or a vessel which is owned by, leased or chartered to, an individual resident in the State or an Irish company, and is not registered under the law of another country;
 
+"territorial sea of the State" has the same meaning as it has in the Maritime Jurisdiction Act 2021;
+
 “the London Convention” means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter done at London on the 29th day of December, 1972, as amended by the Consultative Meeting of Contracting Parties to the Convention on the 12th day of October, 1978;
 
-‘the maritime area’ comprises—
+"the maritime area" comprises—
 
-(I) the inland waters and territorial seas of the State, and the seabed and subsoil beneath them,
+(I) the inland waters and territorial sea of the State, and the seabed and subsoil beneath them,
 
-(II) any area for the time being standing designated by order under section 2 of the Continental Shelf Act 1968 for the purposes of that Act, and the waters above it, and
+(II) a designated area within the meaning of the Maritime Jurisdiction Act 2021, and
 
 (III) the exclusive economic zone of the State;
 
