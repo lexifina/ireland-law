@@ -16,6 +16,8 @@ Measures to detect counterfeiting.
 
 (i) a person whose activity consists of exchanging currency notes and coins of different currencies, including a person or body authorised under the Central Bank Act 1997 to carry on bureau de change business,
 
+8 OJ No. L 176, 27.06.2013, p.1
+
 (ii) a transporter of funds, and
 
 (iii) a person who is engaged on a secondary basis in the processing and distribution to the public of currency notes via automated teller machines (ATMs), within the limit of that secondary basis;
@@ -37,8 +39,6 @@ Measures to detect counterfeiting.
 (a) withdraw from circulation any notes or coins received by it or tendered to it which it knows or suspects to be counterfeit, and
 
 (b) transmit them as soon as possible to the Central Bank of Ireland with such information as to the time, location and circumstances of their receipt as may be available.
-
-8 OJ No. L 176, 27.06.2013, p.1
 
 (3) Counterfeit or suspect currency notes or coins may be transmitted to the Garda Síochána under subsection (2) in accordance with a recognised code of practice.
 

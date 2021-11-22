@@ -18,13 +18,13 @@ Liability for offences by body corporate, etc. (Part 6).
 
 (7) In this section—
 
-‘relevant person’, in relation to a body corporate, means—
+"relevant person", in relation to a body corporate, means—
 
 (a) a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, or
 
 (b) an employee, subsidiary or agent of the body corporate;
 
-‘relevant offence’ means—
+"relevant offence" means—
 
 (a) an offence under section 42 or 42A,
 
@@ -34,4 +34,4 @@ Liability for offences by body corporate, etc. (Part 6).
 
 (d) an offence of inciting, aiding and abetting, or attempting the commission of an offence referred to in paragraph (a), (b) or (c);
 
-‘subsidiary’, in relation to a body corporate, has the same meaning as it has in the Companies Act 2014.
+"subsidiary", in relation to a body corporate, has the same meaning as it has in the Companies Act 2014.

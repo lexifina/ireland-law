@@ -42,13 +42,13 @@ Amendment of section 31 of Criminal Justice Act, 1994.
 
 (7) (a) In this section—
 
-(i) ‘criminal conduct’ means conduct which—
+(i) criminal conduct’ means conduct which—
 
 (I) constitutes an indictable offence, or
 
 (II) where the conduct occurs outside the State, would constitute such an offence if it occurred within the State and also constitutes an offence under the law of the country or territorial unit in which it occurs, and includes participation in such conduct;
 
-(ii) ‘reckless’ shall be construed in accordance with section 16(2) of the Criminal Justice (Theft and Fraud Offences) Act, 2001;
+(ii) 'reckless' shall be construed in accordance with section 16(2) of the Criminal Justice Theft and Fraud Offences) Act, 2001;
 
 (iii) references to converting, transferring, handling or removing any property include references to the provision of any advice or assistance in relation to converting, transferring, handling or removing it;
 
