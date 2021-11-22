@@ -22,6 +22,8 @@ Procedures for goods entering or departing the State by ferry (from or to a plac
 
 ‘pre-boarding notification’ shall be construed in accordance with subsection (6);
 
+13 OJ No. L 324, 10.12.2009, p.23 14 OJ No. L 343, 29.12.2015, p.1
+
 ‘relevant movement’ means each of the following cases where goods are to be imported or exported by ferry in accordance with the Customs Acts and for which a master reference number has not been allocated by the Commissioners, that is to say, a case where:
 
 (a) a customs declaration for goods being imported through postal consignment is to be lodged in accordance with Article 144 of the Delegated Regulation;
