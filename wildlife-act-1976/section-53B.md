@@ -1,4 +1,4 @@
-F188[Simplified procedures for export or reexport of dead specimens of species listed in Annexes B and C to Council Regulation
+F189[Simplified procedures for export or reexport of dead specimens of species listed in Annexes B and C to Council Regulation
 
 53B. (1) A person may avail of the simplified procedures in respect of the export or re-export of a particular species only if the person is the subject of an entry in the register in respect of the species.
 

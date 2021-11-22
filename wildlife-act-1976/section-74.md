@@ -1,4 +1,4 @@
-F217[Penalties.
+F220[Penalties.
 
 74. (1) Where a person commits an offence under the Wildlife Acts 1976 to 2018, not being an offence mentioned in subsection (2), (3) or (4), such person is liable on summary conviction to a class A fine.
 

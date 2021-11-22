@@ -1,4 +1,4 @@
-F75[Licences to hunt with firearms.
+F76[Licences to hunt with firearms.
 
 29.—(1) Subject to section 75(1) of this Act, the Minister may, on application to the Minister in that behalf, if he or she thinks fit, and on payment of the prescribed fee (if any), grant to a person, who when making the application makes a declaration in a form approved of for the purposes of this section by the Minister, a licence (operating in the manner specified in subsection (4) of this section) to hunt and kill with firearms, subject to the restrictions contained in section 33 of this Act, and such conditions (if any) as the Minister may attach to the licence, exempted wild mammals (other than hares).
 

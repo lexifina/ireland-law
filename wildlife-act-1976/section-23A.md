@@ -1,4 +1,4 @@
-F70[ Prohibition on deer hunting with dogs.
+F71[ Prohibition on deer hunting with dogs.
 
 23A.— (1) In this section ‘deer’ includes a deer that is not a wild animal.
 
