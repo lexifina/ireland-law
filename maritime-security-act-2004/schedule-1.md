@@ -22,15 +22,9 @@ RECALLING FURTHER that resolution 40/61 “unequivocally condemns, as criminal, 
 
 RECALLING ALSO that by resolution 40/61, the International Maritime Organization was invited to “study the problem of terrorism aboard or against ships with a view to making recommendations on appropriate measures”,
 
-HAVING IN MIND resolution A.584(14) of 20 November 1985, of the Assembly of the International Maritime Organization, which called for development of measures
+HAVING IN MIND resolution A.584(14) of 20 November 1985, of the Assembly of the International Maritime Organization, which called for development of measures to prevent unlawful acts which threaten the safety of ships and the security of their passengers and crews,
 
-United Nations, Official Records of the General Assembly, Third Session, Part
-
-I, p. 71. United Nations, Treaty Series, vol. 999, p. 171; vol 1057, p. 407 (rectification of authentic Spanish text); vol. 1059, p. 451 (corrigendum to vol. 999). United Nations, Official Records of the General Assembly, Fortieth Session,
-
-Supplement 53 (A/40/53), p. 301. International Maritime Organization, Resolutions and Other Decisions, Assembly,
-
-Fourteenth Session, 11-22 November 1985, p. 152. to prevent unlawful acts which threaten the safety of ships and the security of their passengers and crews,
+United Nations, Official Records of the General Assembly, Third Session, Part I, p. 71. United Nations, Treaty Series, vol. 999, p. 171; vol 1057, p. 407 (rectification of authentic Spanish text); vol. 1059, p. 451 (corrigendum to vol. 999). United Nations, Official Records of the General Assembly, Fortieth Session, Supplement 53 (A/40/53), p. 301. International Maritime Organization, Resolutions and Other Decisions, Assembly, Fourteenth Session, 11-22 November 1985, p. 152.
 
 NOTING that acts of the crew which are subject to normal shipboard discipline are outside the purview of this Convention,
 
