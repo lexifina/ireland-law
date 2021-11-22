@@ -1,6 +1,6 @@
 Offence of using CVR vehicle without certificate of roadworthiness.
 
-6.— (1) A person shall not use a CVR vehicle in a public place unless at the time there is in force in respect of the vehicle a certificate of roadworthiness.
+6.— (1) A person shall not use a CVR vehicle in a public place unless at the time there is in force in respect of the vehicle a certificate of roadworthiness or the vehicle is the subject of an exemption under section 135 of the Finance Act 1992 (No. 9 of 1992) in force for the time being.
 
 (2) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to a class A fine or imprisonment for a term not exceeding 3 months, or to both.
 

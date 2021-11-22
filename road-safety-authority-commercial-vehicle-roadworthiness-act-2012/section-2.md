@@ -14,7 +14,11 @@ Definitions.
 
 “authorised officer” means a person appointed under section 24 as an authorised officer;
 
-“certificate of roadworthiness” means a certificate issued under section 5 or under Regulation 15 of the Regulations of 2004;
+"certificate of roadworthiness" means –
+
+(a) a certificate issued under section 5, or
+
+(b) an EU roadworthiness certificate;
 
 “CVR” means commercial vehicle roadworthiness;
 
@@ -24,7 +28,7 @@ Definitions.
 
 (b) an inspector appointed under section 33;
 
-“CVR test operator” means a person authorised under section 9or 10;
+“CVR test operator” means a person authorised under section 9 or 10;
 
 “CVR tester” means a person authorised under section 17;
 
@@ -38,9 +42,15 @@ Definitions.
 
 “direction” means a direction served under section 25, 31 or 35;
 
+"EU roadworthiness certificate" in relation to a vehicle means a certificate of roadworthiness within the meaning of the Roadworthiness Directive issued by a Member State competent authority or a Member State testing centre, as the case may be, which has not expired or otherwise been cancelled or revoked and, insofar as the frequency intervals for vehicle testing are concerned, is still valid by reference to the frequency intervals prescribed by regulations under section 4 for the mandatory roadworthiness testing of vehicles to which those regulations under section 4 apply;
+
 “guidelines” means guidelines issued by the Authority under section 38;
 
 “hire-purchase agreement” means a hire-purchase agreement within the meaning of section 2 of the Consumer Credit Act 1995;
+
+"Member State competent authority" means an authority or public body in a Member State (other than the State) with responsibility for managing the system of roadworthiness testing in that Member State including, where appropriate, the carrying out of roadworthiness tests for the purposes of the Roadworthiness Directive;
+
+"Member State testing centre" means a public or private body or establishment in a Member State (other than the State) authorised to carry out roadworthiness tests in that Member State for the purposes of the Roadworthiness Directive;
 
 “Minister” means Minister for Transport, Tourism and Sport;
 
@@ -65,6 +75,8 @@ Definitions.
 (c) the European Communities (Vehicle Testing) (Amendment) Regulations 2011 (S.I. No. 710 of 2011), and
 
 (d) the European Communities (Vehicle Testing) (Amendment) Regulations 2012 (S.I. No. 58 of 2012);
+
+"Roadworthiness Directive" means Directive 2014/45/EU of the European Parliament and of the Council of 3 April 2014 on periodic roadworthiness tests for motor vehicles and their trailers and repealing Directive 2009/40/EC;
 
 “risk rating” means a rating determined in accordance with section 39;
 
