@@ -8,4 +8,4 @@ Short title and commencement.
 
 (3) The Sea Pollution Acts 1991 to 1999, this paragraph and Part 3 of this Act may be cited together as the Sea Pollution Acts 1991 to 2006, and shall be construed together as one Act.
 
-(4) The Harbours Acts 1996 to 2005, this paragraph and Part 4may be cited together as the Harbours Acts 1996 to 2006.
+(4) The Harbours Acts 1996 to 2005, this paragraph and Part 4 may be cited together as the Harbours Acts 1996 to 2006.

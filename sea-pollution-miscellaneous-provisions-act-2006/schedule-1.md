@@ -144,7 +144,9 @@ Compulsory insurance or financial security
 
 (ii) the withdrawal of such authority; and
 
-(iii) the date from which such authority or withdrawal of such authority takes effect. An authority delegated shall not take effect prior to three months from the date on which notification to that effect was given to the Secretary- General.
+(iii) the date from which such authority or withdrawal of such authority takes effect.
+
+An authority delegated shall not take effect prior to three months from the date on which notification to that effect was given to the Secretary-General.
 
 (c) The institution or organization authorized to issue certificates in accordance with this paragraph shall, as a minimum, be authorized to withdraw these certificates if the conditions under which they have been issued are not maintained. In all cases the institution or organization shall report such withdrawal to the State on whose behalf the certificate was issued.
 

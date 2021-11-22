@@ -6,6 +6,6 @@ Orders.
 
 (b) make a declaration for the purposes of Article 7.15 of the Convention,
 
-(c) prescribe fees payable pursuant to section 9(8).
+(c) prescribe fees payable pursuant to section 9 (8) .
 
 (2) The Minister may by order amend or revoke an order made by him or her under this section.

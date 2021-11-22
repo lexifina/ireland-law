@@ -1,6 +1,6 @@
-Documents required to accompany application for enforcement order under section 10.
+Documents required to accompany application for enforcement order under section 10 .
 
-13.— (1) The following documents shall be attached to an application for an order under section 10:
+13.— (1) The following documents shall be attached to an application for an order under section 10 :
 
 (a) a duly certified copy of the judgment to which the application relates;
 
@@ -16,4 +16,4 @@ Documents required to accompany application for enforcement order under section 
 
 (ii) to be certified by any person in his or her capacity as a judge or officer of that court as being a true copy of the judgment, and
 
-(b) a document purporting to be a copy of a document specified in subsection (1)(b) shall be deemed to be duly certified if it purports to be certified by a person, who in relation to the Convention court concerned, performs functions the same as or similar to those performed in relation to a court in this State by the registrar or clerk of it, as being a true copy of such document.
+(b) a document purporting to be a copy of a document specified in subsection (1) (b) shall be deemed to be duly certified if it purports to be certified by a person, who in relation to the Convention court concerned, performs functions the same as or similar to those performed in relation to a court in this State by the registrar or clerk of it, as being a true copy of such document.

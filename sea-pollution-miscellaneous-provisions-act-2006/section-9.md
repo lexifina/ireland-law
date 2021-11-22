@@ -28,6 +28,8 @@ Insurance.
 
 (c) does not have on board a certificate that complies with, and is issued in accordance with Article 7 of the Convention, are each guilty of an offence.
 
-(8) An application under subsection (4) shall be accompanied by such fee, not exceeding the expense incurred by the Minister in considering such application and issuing a certificate, as may be prescribed by the Minister.
+(8) An application under subsection
+
+(4) shall be accompanied by such fee, not exceeding the expense incurred by the Minister in considering such application and issuing a certificate, as may be prescribed by the Minister.
 
 (9) The Public Offices Fees Act 1879 shall not apply to fees under this section.

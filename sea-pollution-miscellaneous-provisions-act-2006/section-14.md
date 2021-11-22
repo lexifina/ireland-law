@@ -18,12 +18,12 @@ Inspectors.
 
 (e) require the master or any member of the crew of the ship to furnish him or her with such information or documents and give such assistance as he or she may reasonably require for the purpose of carrying out functions under this Part,
 
-(f) detain a ship in accordance with section 15.
+(f) detain a ship in accordance with section 15 .
 
 (5) A person who—
 
 (a) obstructs or interferes with an inspector in the performance of his or her functions under this Part, or
 
-(b) fails or refuses to comply with a requirement of an inspector under subsection (4), is guilty of an offence.
+(b) fails or refuses to comply with a requirement of an inspector under subsection (4) , is guilty of an offence.
 
 (6) If a ship that has been detained pursuant to this section leaves or attempts to leave the place at which it has been detained, the owner, bareboat charterer (if any) and the master of the ship concerned are each guilty of an offence.

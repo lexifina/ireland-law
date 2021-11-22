@@ -1,10 +1,12 @@
 Payment of interest on judgment and payment of costs.
 
-12.— (1) An enforcement order under section 10 may, at the discretion of the court, provide for the payment to the applicant concerned by the judgment debtor of the reasonable costs of or incidental to the application for the order.
+12.— (1) An enforcement order under section
 
-(2) (a) Where, on an application for an order under section 10, it is shown that, in accordance with the law of the State Party in which the judgment was given, interest on a sum, the payment of which is provided for in the judgment, is recoverable under the judgment at a particular rate or rates and from a particular date or time, then the order, if made, shall provide that—
+10 may, at the discretion of the court, provide for the payment to the applicant concerned by the judgment debtor of the reasonable costs of or incidental to the application for the order.
 
-(i) the person by whom that sum is payable shall also be liable to pay the interest on it apart from any interest on costs recoverable by virtue of subsection (1), in accordance with the particulars noted in the order, and
+(2) (a) Where, on an application for an order under section 10 , it is shown that, in accordance with the law of the State Party in which the judgment was given, interest on a sum, the payment of which is provided for in the judgment, is recoverable under the judgment at a particular rate or rates and from a particular date or time, then the order, if made, shall provide that—
+
+(i) the person by whom that sum is payable shall also be liable to pay the interest on it apart from any interest on costs recoverable by virtue of subsection (1) , in accordance with the particulars noted in the order, and
 
 (ii) the amount of the interest shall be recoverable by the applicant concerned as if it were part of that sum.
 
