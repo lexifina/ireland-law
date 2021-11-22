@@ -1,6 +1,6 @@
 Minister to prepare plan for preventing and minimising oil pollution damage.
 
-8.— (1) The Minister shall prepare a plan (in this section referred to as ‘the plan’) specifying the measures to be taken to prevent and minimise damage in the State resulting from discharges (in this section referred to as ‘discharges’) of oil or hazardous and noxious substances from ships, offshore units, oil handling facilities and hazardous and noxious substances handling facilities (either or both of which handling facilities are, in this section, referred to as ‘handling facilities’).
+8.— (1) The Minister shall prepare a plan (in this section referred to as "the plan") specifying the measures to be taken to prevent and minimise damage in the State resulting from discharges (in this section referred to as "discharges") of oil or hazardous and noxious substances from ships, offshore units, oil handling facilities and hazardous and noxious substances handling facilities (either or both of which handling facilities are, in this section, referred to as "handling facilities").
 
 (2) Without prejudice to the generality of subsection (1), the plan shall provide for—
 
