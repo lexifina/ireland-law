@@ -1,6 +1,6 @@
 Release by order of Minister.
 
-21. —Where a person is remanded under section 6 or a vessel or thing is detained or retained by an enforcement officer, in the exercise of his or her powers under the Act of 1994, outside the outer limit of the territorial seas of the State and—
+21. —Where a person is remanded under section 6 or a vessel or thing is detained or retained by an enforcement officer, in the exercise of his or her powers under the Act of 1994, outside the outer limit of the territorial sea of the State and—
 
 (a) there are no longer reasonable grounds for suspecting that the person has committed the offence in respect of which he or she has been remanded,
 

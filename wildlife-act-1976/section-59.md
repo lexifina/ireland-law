@@ -10,7 +10,7 @@ Regulations permitting and regulating public access to certain land.
 
 (cc) any other land held by the Minister for the purposes of the Wildlife Acts, 1976 and 2000,
 
-(d) land other than foreshore mentioned in paragraph (a) of this subsection, which forms the seabed under part of the territorial seas of the State and to which an establishment order applies (which land is so referred to as a seabed nature reserve).
+(d) land other than foreshore mentioned in paragraph (a) of this subsection, which forms the seabed under part of the territorial sea of the State and to which an establishment order applies (which land is so referred to as a seabed nature reserve).
 
 (2) Regulations under this section may apply to all foreshore which is the property of the State, every refuge, State land nature reserve and seabed nature reserve, or to any such foreshore or any refuge, State land nature reserve or seabed nature reserve which is of a particular class or description, or to particular such foreshore or a particular refuge, State land nature reserve or seabed nature reserve, or to all or any other land held by the Minister for the purposes of the Wildlife Acts, 1976 and 2000.
 

@@ -4,7 +4,7 @@ Interpretation
 
 “authorised or exempted” means authorised or exempted by the Commissioners;
 
-“contiguous zone of the State” has the same meaning as in section 84 of the Sea-Fisheries and Maritime Jurisdiction Act 2006;
+“contiguous zone of the State” has the same meaning as in the Maritime Jurisdiction Act 2021;
 
 “controlled drug” has the same meaning as in section 2 of the Misuse of Drugs Act 1977;
 
@@ -16,9 +16,11 @@ Interpretation
 
 “cross-border mail” and “postal packets” have the meanings assigned to them, respectively, by section 6 of the Communications Regulation (Postal Services) Act 2011;
 
-‘Customs Code’ means the Union Customs Code established by the Customs Code Regulation, as last supplemented by Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 and as last implemented by Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015;
+"Customs Code" means the Union Customs Code established by the Customs Code Regulation, as last supplemented by Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 and as last implemented by Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015;
 
-‘Customs Code Regulation’ means Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013;
+"Customs Code Regulation" means Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013;
+
+2 OJ No. L69, 15.3.2016, p. 1. 3 OJ No. L343, 29.12.2015, p. 558. 4 OJ No. L269, 10.10.2013, p. 1.
 
 “conveyance” means any vessel, aircraft, vehicle or other means of transport used in the transportation of goods or passengers;
 

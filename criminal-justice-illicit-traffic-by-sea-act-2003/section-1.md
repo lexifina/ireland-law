@@ -14,7 +14,7 @@ Interpretation.
 
 “Minister” means the Minister for Justice, Equality and Law Reform;
 
-“outer limit of the territorial seas” has the meaning given to that expression by the Maritime Jurisdiction Acts 1959 to 1988;
+”outer limit of the territorial sea” has the meaning given to that expression by the Maritime Jurisdiction Act 2021;
 
 “territory of the State” includes a vessel registered in the State;
 

@@ -1,6 +1,6 @@
 Restriction on arrest and proceedings.
 
-14. —(1) Where a court or the Minister orders the release of a person who has been arrested, or of a vessel or thing which has been detained or retained, outside the outer limit of the territorial seas of the State, the release shall, subject to this Act and the Agreement, not of itself prejudice the commencement of proceedings in the State against that person or in relation to that vessel or thing in connection with the drug trafficking offence concerned or any other offence arising from the circumstances leading to or following the arrest, detention or retention.
+14. —(1) Where a court or the Minister orders the release of a person who has been arrested, or of a vessel or thing which has been detained or retained, outside the outer limit of the territorial sea of the State, the release shall, subject to this Act and the Agreement, not of itself prejudice the commencement of proceedings in the State against that person or in relation to that vessel or thing in connection with the drug trafficking offence concerned or any other offence arising from the circumstances leading to or following the arrest, detention or retention.
 
 (2) A person on board a vessel—
 

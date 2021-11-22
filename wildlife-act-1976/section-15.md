@@ -8,7 +8,7 @@ Nature reserves on lands owned by the Minister or by the State.
 
 (b) any foreshore which belongs to the State,
 
-(c) land, other than foreshore mentioned in paragraph (b) of this subsection, which forms the seabed under the territorial seas of the State.
+(c) land, other than foreshore mentioned in paragraph (b) of this subsection, which forms the seabed under the territorial sea of the State.
 
 (2) Where, after consultation with the Minister for Agriculture and Fisheries, the Minister for Transport and Power and the Commissioners, the Minister is satisfied that—
 
