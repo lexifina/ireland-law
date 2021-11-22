@@ -1,6 +1,6 @@
 ## PART 2 BUNKER OIL POLLUTION (CIVIL LIABILITY AND COMPENSATION)
 
-Interpretation (
+Interpretation ( Part 2).
 
 3.— (1) In this Part, except where the context otherwise requires—
 
@@ -18,7 +18,7 @@ Interpretation (
 
 (i) adjudicate on any appeal from a judgment, or
 
-(ii) review a judgment, of a court or tribunal referred to in paragraph (a);
+(ii) review a judgment, of a court or tribunal referred to in paragraph (a) ;
 
 “Council Regulation” means Council Regulation (EC) No. 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters;
 
@@ -36,7 +36,7 @@ Interpretation (
 
 “inspector” means one or more of the following:
 
-(a) a person duly appointed under section 14;
+(a) a person duly appointed under section 14 ;
 
 (b) a member of the Permanent Defence Forces holding commissioned rank, while in uniform;
 
@@ -62,18 +62,12 @@ Interpretation (
 
 “State Party” means a state (other than the State) that is declared by order under section 4 to be a State Party to the Convention.
 
-(2) (a) A reference in this Part to the State includes a reference to—
+(2) A reference in this Part to the State includes a reference to—
 
-(i) the inland waters of the State,
+(a) the internal waters of the State,
 
-(ii) the territorial seas of the State, and the seabed and subsoil beneath those seas, and
+(b) the territorial sea of the State, its seabed and subsoil, and
 
-(iii) subject to paragraph (b), any area lying within a line, every point of which is 200 nautical miles from the baselines for the purposes of the Maritime Jurisdiction Acts 1959 to 1988, and the waters above it.
-
-(b) Nothing in paragraph (a)(iii) shall be construed as constituting a claim by the State to any area that—
-
-(i) is under the jurisdiction of a state other than the State, and
-
-(ii) the State recognises as being under such jurisdiction.
+(c) the exclusive economic zone of the State within the meaning of the Maritime Jurisdiction Act 2021.
 
 (3) A word or expression that is used in this Part and that is also used in the Convention has, in this Part, the meaning that it has in the Convention.

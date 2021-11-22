@@ -4,11 +4,13 @@ Interpretation
 
 66. (1) In this Part—
 
-“Act of 2006” means the Sea-Fisheries and Maritime Jurisdiction Act 2006;
+...
+
+"Act of 2021" means the Maritime Jurisdiction Act 2021;
 
 “coastal waters” means, in relation to the State—
 
-(a) surface water on the landward side of a line, every point of which is at a distance of one nautical mile on the seaward side from the nearest point of the baseline (within the meaning of section 85 of the Act of 2006), and
+(a) surface water on the landward side of a line, every point of which is at a distance of one nautical mile on the seaward side from the nearest point of the baseline (within the meaning of the Act of 2021), and
 
 (b) the outer limit of those bodies of surface water in the vicinity of river mouths that are partly saline in character as a result of their proximity to surface water referred to in paragraph (a) and that are substantially influenced by freshwater flows;
 
@@ -24,11 +26,11 @@ Interpretation
 
 (a) the foreshore within the meaning of the Foreshore Act 1933,
 
-(b) the territorial seas within the meaning of Part 3 of the Act of 2006,
+(b) the territorial sea within the meaning of the Act of 2021,
 
-(c) the exclusive economic zone within the meaning of Part 3 of the Act of 2006,
+(c) the exclusive economic zone within the meaning of the Act of 2021,
 
-(d) any area of the sea bed or subsoil outside the said foreshore, territorial seas and exclusive economic zone over which the State has rights for the purposes of exploration thereof and exploitation of natural resources, and
+(d) any area of the sea bed or subsoil outside the said foreshore, territorial sea and exclusive economic zone over which the State has rights for the purposes of exploration thereof and exploitation of natural resources, and
 
 (e) coastal waters;
 

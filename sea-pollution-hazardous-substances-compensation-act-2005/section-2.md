@@ -52,11 +52,11 @@ Interpretation.
 
 (2) A reference in this Act to the State includes a reference to—
 
-(a) the inland waters of the State,
+(a) the internal waters of the State,
 
-(b) the territorial seas of the State, and the seabed and subsoil beneath those seas, and
+(b) the territorial sea of the State, its seabed and subsoil, and
 
-(c) the exclusive economic zone of the State (within the meaning of section 87 of the Sea-Fisheries and Maritime Jurisdiction Act 2006).
+(c) the exclusive economic zone within the meaning of the Maritime Jurisdiction Act 2021.
 
 (3) A word or expression that is used in this Act and that is also used in the Convention has, in this Act, the meaning that it has in the Convention.
 

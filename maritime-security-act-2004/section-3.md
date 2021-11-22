@@ -16,6 +16,6 @@ Extra-territorial jurisdiction.
 
 “outside the State” means—
 
-(a) in relation to a fixed platform, outside an area designated under section 2 of the Continental Shelf Act 1968, and
+(a) in relation to a fixed platform, outside an area designated under the Maritime Jurisdiction Act 2021, and
 
-(b) in relation to a ship, outside the territorial seas of the State.
+(b) in relation to a ship, outside the territorial sea of the State.

@@ -2,15 +2,15 @@ Interpretation.
 
 3.—(1) In this Act, except where the context otherwise requires—
 
-‘AFS Convention’ means the International Convention on the Control of Harmful Anti-fouling Systems done at London on 5 October 2001;
+"AFS Convention" means the International Convention on the Control of Harmful Anti-fouling Systems done at London on 5 October 2001;
 
-‘anti-fouling system’ means a coating, paint, surface treatment, surface, or device that is used on a ship to control or prevent attachment of unwanted organisms;
+"anti-fouling system" means a coating, paint, surface treatment, surface, or device that is used on a ship to control or prevent attachment of unwanted organisms;
 
-‘ballast water’ means water with its suspended matter taken on board a ship to control trim, list, draught, stability or stresses of the ship;
+"ballast water" means water with its suspended matter taken on board a ship to control trim, list, draught, stability or stresses of the ship;
 
-‘ballast water management’ means mechanical, physical, chemical, and biological processes, either singularly or in combination, to remove, render harmless, or avoid the uptake or discharge of harmful aquatic organisms and pathogens within ballast water and sediments;
+"ballast water management" means mechanical, physical, chemical, and biological processes, either singularly or in combination, to remove, render harmless, or avoid the uptake or discharge of harmful aquatic organisms and pathogens within ballast water and sediments;
 
-‘BWM Convention’ means the International Convention for the Control and Management of Ships’Ballast Water and Sediments 2004 done at London on 13 February 2004;
+"BWM Convention" means the International Convention for the Control and Management of Ships’Ballast Water and Sediments 2004 done at London on 13 February 2004;
 
 “discharge”, in relation to oil, oily mixtures, noxious liquid substances, harmful substances, sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments, or any effluent containing any of those substances, means any release, howsoever caused, from a ship and includes any escape, disposal, spilling, leaking, pumping, emitting or emptying of any substance from a ship, but does not include—
 
@@ -20,13 +20,13 @@ Interpretation.
 
 (c) the release of oil, oily mixtures, noxious liquid substances or harmful substances for the purpose of legitimate scientific research into pollution abatement or control;
 
-‘harmful aquatic organisms and pathogens’ means aquatic organisms or pathogens which, if introduced into the sea, including estuaries, or into fresh water courses, may create hazards to the environment, human health, property or resources, impair biological diversity or interfere with other legitimate uses of such areas;
+"harmful aquatic organisms and pathogens" means aquatic organisms or pathogens which, if introduced into the sea, including estuaries, or into fresh water courses, may create hazards to the environment, human health, property or resources, impair biological diversity or interfere with other legitimate uses of such areas;
 
-‘hazardous and noxious substances’ means any substance other than oil which, if introduced into the marine environment, is likely to create a hazard to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea;
+"hazardous and noxious substances" means any substance other than oil which, if introduced into the marine environment, is likely to create a hazard to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea;
 
-‘hazardous and noxious substances handling facility’ means a facility where hazardous and noxious substances are loaded into or unloaded from ships;
+"hazardous and noxious substances handling facility" means a facility where hazardous and noxious substances are loaded into or unloaded from ships;
 
-‘hazardous and noxious substances pollution emergency plan’ in relation to a harbour, offshore unit, oil handling facility, hazardous and noxious substances handling facility, Irish ship or an area of seashore in whole or in part within the functional area, or contiguous to the functional area, of a local authority, means a plan for the prevention and minimisation of damage arising out of a pollution incident by hazardous and noxious substances approved by the Minister under section 2 of the Sea Pollution (Amendment) Act 1999;
+"hazardous and noxious substances pollution emergency plan" in relation to a harbour, offshore unit, oil handling facility, hazardous and noxious substances handling facility, Irish ship or an area of seashore in whole or in part within the functional area, or contiguous to the functional area, of a local authority, means a plan for the prevention and minimisation of damage arising out of a pollution incident by hazardous and noxious substances approved by the Minister under section 2 of the Sea Pollution (Amendment) Act 1999;
 
 “fauna” means all wild animals (both aquatic and terrestrial) and includes in particular wild birds, wild mammals, reptiles, non-aquatic invertebrate animals and amphibians, and all such wild animals' eggs and young, and also includes all species of fish and other aquatic invertebrate animals and their eggs or spawn or brood or young;
 
@@ -78,7 +78,7 @@ Interpretation.
 
 “living marine resources” includes fish and the spawning grounds, or the food, of fish and includes all marine invertebrates, all crustaceans, and molluscs found in the sea;
 
-‘maritime casualty’ means a collision of ships, stranding or other incident of navigation, or other occurrence on board a ship or external to it, resulting in—
+"maritime casualty" means a collision of ships, stranding or other incident of navigation, or other occurrence on board a ship or external to it, resulting in—
 
 (a) material damage or imminent threat of material damage to a ship or cargo, or
 
@@ -112,11 +112,11 @@ Interpretation.
 
 “prescribe” means prescribe by regulations made by the Minister and “prescribed” shall be construed accordingly;
 
-‘prescribed area’ means an area outside the State prescribed by the Minister for the purposes of this Act;
+"prescribed area" means an area outside the State prescribed by the Minister for the purposes of this Act;
 
 “related interests” has the meaning specified in section 26 (5) (b);
 
-‘sediments’ means matter settled out of ballast water within a ship;
+"sediments" means matter settled out of ballast water within a ship;
 
 “sewage” means—
 
@@ -138,13 +138,13 @@ Interpretation.
 
 (2A) A reference in this Act to the State includes a reference to—
 
-(a) the inland waters of the State,
+(a) the internal waters of the State,
 
-(b) the territorial seas of the State, and the seabed and subsoil beneath those seas, and
+(b) the territorial sea of the State within the meaning of the Maritime Jurisdiction Act 2021, its seabed and subsoil, and
 
-(c) the exclusive economic zone of the State (within the meaning of section 87 of the Sea-Fisheries and Maritime Jurisdiction Act 2006).
+(c) the exclusive economic zone of the State (within the meaning of the Maritime Jurisdiction Act 2021).
 
-(3) A reference in this Act to a country other than the State includes a reference to the territorial seas and inland waters of that country.
+(3) A reference in this Act to a country other than the State includes a reference to the territorial sea and internal waters of that country.
 
 (4) A reference in this Act to a section is a reference to a section of this Act unless it is indicated that a reference to some other Act is intended.
 

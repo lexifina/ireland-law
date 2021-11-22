@@ -10,9 +10,9 @@ Inland Fisheries Ireland.
 
 (3) (a) IFI shall perform the functions conferred on it by this Act within and having regard to all waters within the State comprising of a fishery district and any other waters which are—
 
-(i) in any area of the sea to which the internal or inland waters of the State extend under section 86 of the Sea-Fisheries and Maritime Jurisdiction Act 2006, and
+(i) in any area of the sea to which the internal or inland waters of the State extend under section 8 of the Maritime Jurisdiction Act 2021, and
 
-(ii) in the portion of the sea which lies between the baseline for the purposes of this Act and the line every point of which is on the seaward side and at a distance of 12 nautical miles from the nearest point of that baseline.
+(ii) in the portion of the sea which lies between the baseline for the purposes of within the meaning of the Maritime Jurisdiction Act 2021 and the line every point of which is on the seaward side and at a distance of 12 nautical miles from the nearest point of that baseline.
 
 (b) The Minister may by order substitute for the reference to 12 nautical miles in subsection (3)(a)(ii) a reference to a number of nautical miles specified in the order.
 

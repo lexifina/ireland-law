@@ -22,7 +22,7 @@ Prohibition on unauthorised disclosure of information.
 
 “Act of 1960” means Petroleum and Other Minerals Development Act 1960;
 
-“Act of 1968” means Continental Shelf Act 1968;
+...
 
 “Act of 1976” means Gas Act 1976;
 
@@ -46,7 +46,7 @@ Prohibition on unauthorised disclosure of information.
 
 “decommissioning”, in relation to petroleum infrastructure, means taking the facility, structure or installation, or any part of such facility, structure or installation, permanently out of use with a view to its abandonment in situ or removal;
 
-“designated area” means an area designated by order under section 2 of the Act of 1968;
+‘designated area’ has the same meaning as it has in the Maritime Jurisdiction Act 2021;
 
 “designated petroleum activity” means a petroleum activity which is designated by regulations under section 13D;
 
@@ -58,15 +58,19 @@ Prohibition on unauthorised disclosure of information.
 
 “European Union Offshore Oil and Gas Authorities Group” means the forum set up under Commission Decision (2012/C18/07) of 19 January 2012;
 
-“exclusive economic zone”, “internal waters” and “territorial seas” have the meanings assigned to them, respectively, by Part 3 of the Sea-Fisheries and Maritime Jurisdiction Act 2006;
+...
+
+‘exclusive economic zone’ has the same meaning as it has in the Maritime Jurisdiction Act 2021;
 
 “foreshore” has the same meaning as in section 1 of the Foreshore Act 1933;
 
 “installation”means the class of petroleum infrastructure which includes a stationary, fixed or mobile facility, or combination of facilities permanently inter-connected by bridges or other structures, used for carrying out activities or in connection with such activities;
 
+‘internal waters’ shall be construed in accordance with section 8 of the Maritime Jurisdiction Act 2021;
+
 “licensed area”means the whole or any part of—
 
-(a) the State, including the internal waters and the territorial seas, and
+(a) the State, including the internal waters of the State and the territorial sea of the State, and
 
 (b) a designated area, in respect of which a petroleum authorisation is in force;
 
@@ -141,6 +145,8 @@ Prohibition on unauthorised disclosure of information.
 “safety framework” means the risk-based petroleum safety framework established under section 13I;
 
 “safety permit” means a permit issued under section 13P;
+
+‘territorial sea’ has the same meaning as it has in the Maritime Jurisdiction Act 2021;
 
 “tripartite consultation” means a formal arrangement established by the Commission under section 13H(2) (h) to enable dialogue and cooperation between the Commission, operators and owners, and workers’ representatives;
 

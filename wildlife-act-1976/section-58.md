@@ -1,6 +1,6 @@
 Right to hunt on or over territorial seas of State vested in State.
 
-58.—(1) It is hereby declared that the right to hunt fauna in or over the portion of the sea which is the territorial seas of the State belongs to the State.
+58.—(1) It is hereby declared that the right to hunt fauna in or over the portion of the sea which is the territorial sea of the State belongs to the State.
 
 (2) It shall not be lawful for a person without the permission of the Minister, to hunt fauna on, in or over any part of the portion of the sea mentioned in subsection (1) of this section.
 

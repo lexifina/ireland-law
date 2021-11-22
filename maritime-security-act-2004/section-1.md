@@ -8,7 +8,7 @@ Interpretation.
 
 “Convention state” means a state (other than the State) which is a state party to the Convention or Protocol;
 
-“fixed platform” means an artificial island, installation or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes and located within an area designated under section 2 of the Continental Shelf Act 1968;
+“fixed platform” means an artificial island, installation or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes and located within an area designated under the Maritime Jurisdiction Act 2021;
 
 “Irish ship” means a ship, as so defined in section 9 of the Mercantile Marine Act 1955, wherever situate;
 

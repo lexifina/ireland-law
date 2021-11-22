@@ -20,7 +20,7 @@ Interpretation (general).
 
 “owner” and “ownership”, in relation to property, have the meanings given to them by subsection (4);
 
-“premises” includes a vehicle, vessel, aircraft or hovercraft or an installation in the territorial seas or in a designated area (within the meaning of the Continental Shelf Act, 1968) or a tent, caravan or other temporary or movable structure;
+“premises” includes a vehicle, vessel, aircraft or hovercraft or an installation in the territorial sea or in a designated area (within the meaning of the Maritime Jurisdiction Act 2021) or a tent, caravan or other temporary or movable structure;
 
 “property” means money and all other property, real or personal, including things in action and other intangible property;
 

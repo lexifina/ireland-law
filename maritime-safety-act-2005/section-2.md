@@ -4,13 +4,17 @@ Interpretation.
 
 “Act of 1992” means Merchant Shipping Act 1992;
 
-“Act of 2000” means Merchant Shipping (Investigation of Marine Casualties) Act 2000;
+“Act of 2000” means Merchant Shipping (Investigation of Marine Casualties) Act 2000
 
-“Irish waters” includes the territorial seas, the waters on the landward side of the territorial seas, and the estuaries, rivers, lakes and other inland waters (whether or not artificially created or modified) of the State;
+"Inland waters of the State" shall be construed in accordance with section 8 of the Maritime Jurisdiction Act 2021;
 
-“inland waters of the State” and “territorial seas of the State” have the meanings assigned to them in Part 3 of the Sea-Fisheries and Maritime Jurisdiction Act 2006;
+“Irish waters” includes the territorial sea, the waters on the landward side of the territorial seas, and the estuaries, rivers, lakes and other inland waters (whether or not artificially created or modified) of the State;
 
-“Minister” means Minister for Communications, Marine and Natural Resources.
+...
+
+“Minister” means Minister for Communications, Marine and Natural Resources;
+
+"Territorial sea of the State" has the meaning assigned to it by the Maritime Jurisdiction Act 2021..
 
 (2) In this Act a reference to a member of the Garda Síochána or an officer of the Permanent Defence Forces holding commissioned naval rank is a reference to that member or officer while in uniform.
 
