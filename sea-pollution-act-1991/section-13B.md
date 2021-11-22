@@ -1,3 +1,5 @@
+Duty on offshore units and handling facilities to report pollution incidents.
+
 13B.— (1) Whenever an incident occurs on an offshore unit, oil handling facility or hazardous and noxious substances handling facility—
 
 (a) resulting in a discharge of oil or hazardous and noxious substances in the State or a designated area, or

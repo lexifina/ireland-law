@@ -1,3 +1,5 @@
+Duty on Irish ships to report pollution incident.
+
 13A.— (1) Whenever there is an incident, whether on board or outside an Irish ship—
 
 (a) resulting in a discharge, outside the State or a prescribed area, of oil or hazardous and noxious substances from a ship, or

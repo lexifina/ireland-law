@@ -20,4 +20,4 @@ Report of discharge in State or into harbour or prescribed area.
 
 (5) A person who contravenes this section or a requirement prescribed under subsection (4) shall be guilty of an offence.
 
-(6) In this section ‘pollutant’ means oil, an oily mixture, noxious liquid substance, harmful substance, sewage or garbage, other than hazardous and noxious substances.
+(6) In this section "pollutant" means oil, an oily mixture, noxious liquid substance, harmful substance, sewage or garbage, other than hazardous and noxious substances.
