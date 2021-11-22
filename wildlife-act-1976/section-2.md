@@ -128,7 +128,7 @@ Definitions.
 
 “sporting rights” does not include fishing rights;
 
-‘territorial seas of the State’ means the portion of the sea which is defined by section 82 of the Sea-Fisheries and Maritime Jurisdiction Act 2006 as the territorial seas of the State;
+"territorial sea of the State" has the same meaning as it has in the Maritime Jurisdiction Act 2021;
 
 “wild animal” includes an individual of a population which primarily lives independent of human husbandry but does not include—
 
