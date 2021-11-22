@@ -6,9 +6,7 @@ Procedures for goods entering or departing the State by ferry (from or to a plac
 
 ‘Council Regulation’ means Council Regulation (EC) No. 1186/2009 of 16 November 2009 setting up a Community system of reliefs from customs duty;
 
-‘Delegated Regulation’ means Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013
-
-13 OJ No. L 324, 10.12.2009, p.23 14 OJ No. L 343, 29.12.2015, p.1 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code;
+‘Delegated Regulation’ means Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code;
 
 ‘electronic data processing technique’ means such electronic data processing technique as stands specified by the Commissioners for the purposes of this section;
 
@@ -23,6 +21,8 @@ Procedures for goods entering or departing the State by ferry (from or to a plac
 ‘master reference number’ has the same meaning as it has in the Delegated Regulation;
 
 ‘pre-boarding notification’ shall be construed in accordance with subsection (6);
+
+13 OJ No. L 324, 10.12.2009, p.23 14 OJ No. L 343, 29.12.2015, p.1
 
 ‘relevant movement’ means each of the following cases where goods are to be imported or exported by ferry in accordance with the Customs Acts and for which a master reference number has not been allocated by the Commissioners, that is to say, a case where:
 
