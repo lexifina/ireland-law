@@ -126,7 +126,7 @@ Powers of authorised officers.
 
 (12) No action or other legal proceedings, whether civil or criminal, shall be instituted in any court in respect of the doing of anything authorised to be done by an authorised officer under this section, whether such thing is done personally by an authorised officer or by a person acting on the orders or instructions of an authorised officer.
 
-(13) In this section ‘other record’ includes, in addition to a document—
+(13) In this section "other record" includes, in addition to a document—
 
 (a) a disc, tape, sound-track or other device, including an electronic device, in which information, sounds or signals are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in legible or audible form,
 
