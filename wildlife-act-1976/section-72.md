@@ -30,7 +30,7 @@ Powers of Garda Síochána and authorised persons.
 
 (ii) any licence or permission granted by the Minister under the Wildlife Acts 1976 to 2018 (including any certificate deemed, pursuant to subsection (5) or (5A) of section 29, to be a licence so granted),
 
-(iii) in the case of a person who is resident in a Member State (other than the State), a European Firearms Pass within the meaning of Article 1(4) of Council Directive No. 91/477/EEC of 18 June 1991 issued to him or her by the competent authority of that Member State, or any other permit, licence, authorisation or other document to hold a firearm duly issued by a competent authority of such a Member State,
+(iii) in the case of a person who is resident in a Member State (other than the State), a European Firearms Pass within the meaning of Article 1(3) of Directive (EU) 2021/555 of the European Parliament and of the Council of 24 March 2021 on control of the acquisition and possession of weapons (codification) issued to him or her by the competent authority of that Member State, or any other permit, licence, authorisation or other document to hold a firearm duly issued by a competent authority of such a Member State,
 
 (iv) any permit or certificate issued for the purposes of the CITES Regulations together with any supporting documents in the person’s possession and any permit or certificate to which Article 11 of Council Regulation (EC) No. 338/97 of 9 December 1996 relates, or
 
