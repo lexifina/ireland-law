@@ -10,7 +10,9 @@ Covenants for title.
 
 Class 1: A conveyance (other than a mortgage) for valuable consideration of an estate or interest in land (other than a tenancy) made by a person who is expressed to convey “as beneficial owner”;
 
-Class 2: A conveyance (other than a mortgage) for valuable consideration of land comprised in a lease made by a person who is expressed to convey “as beneficial owner”; Class 3: A conveyance comprising a mortgage of land (other than land comprised in a lease) made by a person who is expressed to convey
+Class 2: A conveyance (other than a mortgage) for valuable consideration of land comprised in a lease made by a person who is expressed to convey “as beneficial owner”;
+
+Class 3: A conveyance comprising a mortgage of land (other than land comprised in a lease) made by a person who is expressed to convey
 
 “as beneficial owner”;
 

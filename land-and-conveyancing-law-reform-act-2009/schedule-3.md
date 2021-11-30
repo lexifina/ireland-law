@@ -40,7 +40,9 @@ Covenants implied in a conveyance (other than a mortgage) for valuable considera
 
 Paragraph 2
 
-Class 2 Conveyances Covenants implied in a conveyance (other than a mortgage) for valuable consideration of land comprised in a lease made by a person who is expressed to convey “as beneficial owner”.
+Class 2 Conveyances
+
+Covenants implied in a conveyance (other than a mortgage) for valuable consideration of land comprised in a lease made by a person who is expressed to convey “as beneficial owner”.
 
 (1) to (4) Covenants (1) to (4) in paragraph 1.
 
@@ -80,9 +82,7 @@ Covenants implied in a conveyance comprising a mortgage of land comprised in a l
 
 (6) That the covenantor will from time to time, so long as any money remains owing on the security of the land conveyed, pay the rent reserved by the grant or lease and perform and observe the covenants in it and will indemnify the person to whom the conveyance is made in respect of any consequences of the breach of this covenant.
 
-Paragraph 5
-
-Class 5 Conveyances
+Paragraph 5 Class 5 Conveyances
 
 Covenant implied in a conveyance made by a person who is expressed to convey “as trustee”, “as mortgagee”, “as personal representative” or under an order of the court.
 

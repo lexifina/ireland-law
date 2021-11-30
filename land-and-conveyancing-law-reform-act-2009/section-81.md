@@ -6,7 +6,9 @@ Additional covenants for land comprised in a lease.
 
 (b) with the person, or with the persons jointly and severally, if more than one, who is the other party, or are the other parties, to the conveyance, and have the effect specified in Parts 1 and 3 of Schedule 3 .
 
-(2) The classes of conveyance referred to in subsection (1) are— Class 6: A conveyance (other than a mortgage) for valuable consideration of—
+(2) The classes of conveyance referred to in subsection (1) are—
+
+Class 6: A conveyance (other than a mortgage) for valuable consideration of—
 
 (a) the entirety of the land comprised in a lease, or
 
