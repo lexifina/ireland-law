@@ -1,10 +1,10 @@
 Civil liability for fraudulent or reckless trading of company
 
-610. (1) If in the course of the winding up of a company or in the course of proceedings under Part 10 in relation to a company, it appears that—
+610. (1) If in the course of the winding up of a company or in the course of proceedings under Part 10 in relation to a company , or in the course of a rescue period under Part 10A in respect of an eligible company,, it appears that—
 
 (a) any person was, while an officer of the company, knowingly a party to the carrying on of any business of the company in a reckless manner, or
 
-(b) any person was knowingly a party to the carrying on of any business of the company with intent to defraud creditors of the company, or creditors of any other person or for any fraudulent purpose, the court, on the application of the liquidator or examiner of the company, a receiver of property of the company or any creditor or contributory of it, has the following power.
+(b) any person was knowingly a party to the carrying on of any business of the company with intent to defraud creditors of the company, or creditors of any other person or for any fraudulent purpose, the court, on the application of the liquidator, examiner or process adviser of the company, a receiver of property of the company or any creditor or contributory of it, has the following power.
 
 (2) That power of the court is to declare, if it thinks it proper to do so, that the person first-mentioned in paragraph (a) or (b) of subsection (1) shall be personally responsible, without any limitation of liability, for all or any part of the debts or other liabilities of the company as the court may direct.
 
@@ -27,3 +27,7 @@ Civil liability for fraudulent or reckless trading of company
 (7) On the hearing of an application under this section, the applicant may himself or herself give evidence or call witnesses.
 
 (8) Where it appears to the court that any person in respect of whom a declaration has been sought on the grounds set out in subsection (1)(a) has acted honestly and responsibly in relation to the conduct of the affairs of the company or any matter or matters on the ground of which such declaration is sought to be made, the court may, having regard to all the circumstances of the case, relieve him or her either wholly or in part, from personal liability on such terms as it may think fit.
+
+(9) In assessing any application under this section, the court may take into account whether section 558S(5) applies to a director of a company.
+
+(10) In this section, "eligible company", "process adviser" and "rescue period" have the meanings assigned to them by section 558A.

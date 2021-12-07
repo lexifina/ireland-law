@@ -1,6 +1,8 @@
 Appointment of committee of inspection in a creditors' voluntary winding up
 
-667. (1) The creditors of the company at the meeting to be held in pursuance of section 587, or at any subsequent meeting, may appoint a committee of inspection consisting of not more than 5 persons appointed under this subsection.
+667. (1) Subject to subsection (1A), the creditors of the company at the meeting to be held in pursuance of section 587, or at any subsequent meeting, may appoint a committee of inspection consisting of not more than 5 persons appointed under this subsection.
+
+(1A) Where the employees of the company elect or appoint one of their number as an employees’ representative for the purpose of serving on any committee of inspection as mentioned in subsection (1), the person so elected or appointed shall be one of the persons appointed under that subsection.
 
 (2) If such a committee is appointed, the company may, either at the meeting at which the resolution for voluntary winding up is passed or at any time subsequently in general meeting, appoint not more than 3 persons to act as members of the committee, provided that the number of members of the committee shall not at any time exceed eight.
 

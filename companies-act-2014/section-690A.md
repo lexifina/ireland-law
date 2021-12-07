@@ -40,7 +40,7 @@ Creditors’ meetings conducted by electronic means during interim period
 
 (11) In this section and sections 584(1A), 587(3)(aa), 680(2A) and (5A), 691(4A), 692(1A), 695(1A) and (2A), 697(1)(c) and 701(1A)—
 
-‘creditors’ meeting’ means a meeting summoned, convened or called under any of the following sections:
+"creditors’ meeting" means a meeting summoned, convened or called under any of the following sections:
 
 (a) section 473;
 
@@ -53,6 +53,8 @@ Creditors’ meetings conducted by electronic means during interim period
 (e) section 498;
 
 (f) section 540;
+
+(fa) section 558T;
 
 (g) section 580;
 
@@ -74,8 +76,10 @@ Creditors’ meetings conducted by electronic means during interim period
 
 (p) section 706;
 
-‘electronic communications technology’, in relation to a creditors’ meeting, means technology that enables real time transmission and real time two-way audio-visual or audio communication enabling relevant attendees as a whole with a reasonable opportunity to participate in the meeting using such technology from a remote location;
+"electronic communications technology", in relation to a creditors’ meeting, means technology that enables real time transmission and real time two-way audio-visual or audio communication enabling relevant attendees as a whole with a reasonable opportunity to participate in the meeting using such technology from a remote location;
 
-‘electronic platform’, in relation to a creditors’ meeting, means an electronic system for the delivery of audio-visual or audio communication, including websites, access software and access telephone details or any other electronic technology that delivers such communication; ‘relevant attendee’, in relation to a creditors’ meeting, means the creditor, contributory, liquidator, authorised person representing a body corporate under section 185, officer of the company, shareholder or member, as appropriate, who attends the meeting;
+"electronic platform", in relation to a creditors’ meeting, means an electronic system for the delivery of audio-visual or audio communication, including websites, access software and access telephone details or any other electronic technology that delivers such communication;
 
-‘relevant person’, in relation to a creditors’ meeting, means the person summoning, convening or calling the meeting.
+"relevant attendee", in relation to a creditors’ meeting, means the creditor, contributory, liquidator, authorised person representing a body corporate under section 185, officer of the company, shareholder or member, as appropriate, who attends the meeting;
+
+"relevant person", in relation to a creditors’ meeting, means the person summoning, convening or calling the meeting.

@@ -2,21 +2,21 @@ Liquidator's powers
 
 627. The liquidator shall have the powers set out in each of the paragraphs of the Table to this section.
 
-Table Legal proceedings, carrying on company’s business, etc.
+Table
+
+Legal proceedings, carrying on company’s business, etc.
 
 1. Power to—
 
-(a) bring any action or other legal proceeding in the name and on behalf of the company;
+(a) bring any action or other legal proceeding (including proceedings before the Workplace Relations Commission and the Labour Court) in the name and on behalf of the company;
 
-(b) defend any action or other legal proceeding in the name and on behalf of the company;
+(b) defend any action or other legal proceeding (including proceedings before the Workplace Relations Commission and the Labour Court) in the name and on behalf of the company;
 
 (c) recommence and carry on the business of the company so far as may be necessary for the beneficial winding up thereof, where such business was not continuing at the date of the appointment of the liquidator or had ceased after such appointment;
 
 (d) continue to carry on the business of a company so far as may be necessary for the beneficial winding up thereof, where such business was continuing at the date of the appointment of the liquidator and had not subsequently ceased;
 
-(e) appoint a legal practitioner to assist the liquidator in the performance of his or her duties.
-
-Payment of certain creditors, compromise of certain claims, etc.
+(e) appoint a legal practitioner to assist the liquidator in the performance of his or her duties. Payment of certain creditors, compromise of certain claims, etc.
 
 2. Power to—
 
@@ -40,7 +40,9 @@ Ascertainment of debts and liabilities, sale of property, etc.
 
 (i) transfer the whole of the property to any company or other person;
 
-(ii) sell the property in lots, and, for the purpose of selling the company’s land or any part of it, to carry out such sales by grant, conveyance, transfer, lease, sublease, or otherwise, and to sell any rent reserved on any such grant or any reversion expectant upon the determination of any such lease. Execution of certain documents, drawing of negotiable instruments, etc.
+(ii) sell the property in lots, and, for the purpose of selling the company’s land or any part of it, to carry out such sales by grant, conveyance, transfer, lease, sublease, or otherwise, and to sell any rent reserved on any such grant or any reversion expectant upon the determination of any such lease.
+
+Execution of certain documents, drawing of negotiable instruments, etc.
 
 4. Power to—
 

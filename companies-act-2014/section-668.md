@@ -22,7 +22,13 @@ Constitution and proceedings of committee of inspection
 
 (a) creditors of the company, or
 
-(b) if the person who vacated office had been appointed by the company, of the company, to fill the vacancy, and the meeting may, by resolution, reappoint the person who vacated office or appoint another person to fill the vacancy.
+(b) if the person who vacated office had been appointed by the company, of the company, to fill the vacancy, and the meeting may, by resolution, reappoint the person who vacated office , subject to subsection (6A),or appoint another person to fill the vacancy.
+
+(6A) Where—
+
+(a) the person who vacated office had been appointed by virtue of section 666(2A) or 667(1A), and
+
+(b) the employees of the company elect or appoint another of their number under section 666(2A) or, as the case may be, section 667(1A), the person so elected or appointed shall, subject to subsection (7), be appointed to fill the vacancy.
 
 (7) If the liquidator, having regard to the position in the winding up, is of the opinion that it is unnecessary for a vacancy occurring in the committee to be filled, he or she may apply to the court and the court may make an order that the vacancy shall not be filled or shall not be filled except in such circumstances as may be specified in the order.
 

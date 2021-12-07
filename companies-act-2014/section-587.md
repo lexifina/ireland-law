@@ -22,6 +22,8 @@ Meeting of creditors
 
 (vi) the procedure to be adopted for voting on resolutions proposed to be passed at the meeting;
 
+(ab) inform the creditors of the company of their power to appoint a committee of inspection under section 667,
+
 (b) state the name and address of the person at that time proposed for appointment as liquidator, if any, and
 
 (c) either—

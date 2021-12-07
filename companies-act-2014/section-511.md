@@ -12,7 +12,7 @@ Independent expert's report
 
 (c) a statement as to the affairs of the company, showing in so far as it is reasonably possible to do so, particulars of the company’s assets and liabilities (including contingent and prospective liabilities) as at the latest practicable date, the names and addresses of its creditors, the securities held by each of them and the dates when the securities were given to each of them;
 
-(d) his or her opinion as to whether any deficiency between the assets and liabilities of the company has been satisfactorily accounted for or, if not, as to whether there is evidence of a substantial disappearance of property that is not adequately accounted for;
+(d) his or her opinion as to whether any deficiency between the assets and liabilities of the company has been satisfactorily accounted for or, if not, as to whether there is evidence of a substantial dissipation of property that is not adequately accounted for;
 
 (e) his or her opinion as to whether the company, and the whole or any part of its undertaking, would have a reasonable prospect of survival as a going concern and a statement of the conditions which he or she considers are essential to ensure such survival, whether as regards the internal management and controls of the company or otherwise;
 

@@ -36,7 +36,7 @@ Interpretation generally
 
 (b) the measures adopted by another Member State to implement that Directive, to operate the business of a regulated market (within the meaning of that Directive);
 
-‘Bank Recovery and Resolution Regulations’ means the European Union (Bank Recovery and Resolution) Regulations 2015 (S.I. No. 289 of 2015);
+"Bank Recovery and Resolution Regulations" means the European Union (Bank Recovery and Resolution) Regulations 2015 (S.I. No. 289 of 2015);
 
 “Bankruptcy Acts” means the Bankruptcy Act 1988 and any enactment amending or extending that Act;
 
@@ -92,7 +92,7 @@ Interpretation generally
 
 (c) where used in connection with proceedings for a debt or the recovery of a sum otherwise provided by this Act to be recoverable and a particular court or a court of competent jurisdiction is not specified for the purpose, means any court of competent jurisdiction;
 
-‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 ( S.I. No. 390 of 1981 ) or any variant of the disease so specified as an infectious disease in those Regulations;
+"Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 ( S.I. No. 390 of 1981 ) or any variant of the disease so specified as an infectious disease in those Regulations;
 
 “CRO Gazette” means the Companies Registration Office Gazette referred to in section 887(7);
 
@@ -134,7 +134,7 @@ Interpretation generally
 
 “Insolvency Regulation” means Council Regulation (EC) No. 1346/2000 of 29 May 2000 on insolvency proceedings;
 
-‘interim period’ means—
+"interim period" means—
 
 (a) the period beginning on the commencement of section 3 of the Companies (Miscellaneous Provisions) (Covid-19) Act 2020 and ending on 31 December 2020, and
 
@@ -196,11 +196,13 @@ Interpretation generally
 
 “private company limited by shares” means, unless otherwise indicated, a private company limited by shares registered under Part 2 as distinct from a designated activity company of the type referred to in section 965(2)(a);
 
+"process adviser" has the meaning assigned to it by section 558A;
+
 “prospectus” means a document or documents in such form and containing such information as may be required by or under Irish prospectus law or EU prospectus law (within the meaning of Chapter 1 of Part 23), howsoever the document or documents are constituted, but does not include any advertisements in newspapers or journals derived from the foregoing;
 
 “public holiday” means a day which is a public holiday under the Organisation of Working Time Act 1997;
 
-‘public-interest entity’ has the meaning given to it by Part 27;
+"public-interest entity" has the meaning given to it by Part 27;
 
 “public limited company” includes (in Parts 2 to 15) an investment company within the meaning of Part 24;
 
@@ -216,7 +218,7 @@ Interpretation generally
 
 (b) the person referred to in subsection (6) (which relates to the existing Registrar of Companies) of section 887 for so long as the person holds office in accordance with subsection (5) of that section;
 
-‘Regulation (EU) 2016/679’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation);
+"Regulation (EU) 2016/679" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 “related company” shall be read in accordance with subsections (10) and (11);
 
@@ -236,7 +238,7 @@ Interpretation generally
 
 “special resolution” has the meaning given to it by section 191;
 
-‘statutory auditor’ means an individual or a firm (within the meaning of Part 27) that stands approved as a statutory auditor or statutory audit firm, as the case may be, under Part 27, and includes a firm registered in accordance with section 1465;
+"statutory auditor" means an individual or a firm (within the meaning of Part 27) that stands approved as a statutory auditor or statutory audit firm, as the case may be, under Part 27, and includes a firm registered in accordance with section 1465;
 
 “subscribe” includes, where the means of authentication referred to in section 888 are employed, subscribe in the prescribed non-legible form;
 
