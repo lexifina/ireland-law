@@ -38,7 +38,9 @@ Third country branches.
 
 (5) The Bank shall notify the European Commission, the European Banking Authority and the European Banking Committee of any authorisation granted under subsection (2).
 
-(6) The grant of an authorisation under subsection (2) shall not constitute a warranty as to the solvency of the relevant credit institution to which it is granted and the Bank shall not be liable in respect of any losses incurred through the insolvency or default of a relevant credit institution to which such authorisation is granted. 9B.— (1) The Bank shall not refuse to grant an authorisation under section 9A(2) unless it is satisfied that the grant of the authorisation would not be in the interest of the orderly and proper regulation of banking.
+(6) The grant of an authorisation under subsection (2) shall not constitute a warranty as to the solvency of the relevant credit institution to which it is granted and the Bank shall not be liable in respect of any losses incurred through the insolvency or default of a relevant credit institution to which such authorisation is granted.
+
+9B.— (1) The Bank shall not refuse to grant an authorisation under section 9A(2) unless it is satisfied that the grant of the authorisation would not be in the interest of the orderly and proper regulation of banking.
 
 (2) Whenever the Bank proposes to refuse to grant an authorisation under section 9A(2) it shall—
 
