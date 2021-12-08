@@ -1,4 +1,4 @@
-F8[Renewal of licence after its expiration
+F8[ Renewal of licence after its expiration
 
 19A.— (1) The power of the licensing authority to renew or to further renew an aquaculture licence under section 19 is exercisable notwithstanding the expiration of the period for which the licence was granted or renewed.
 

@@ -1,4 +1,4 @@
-F36[Cesser of aquaculture licences in certain circumstances.
+F42[ Cesser of aquaculture licences in certain circumstances.
 
 69.— (1) (a) Subject to paragraph (b), where aquaculture in respect of which a licence has been granted has not commenced within 2 years after the date on which the licence was granted, the licence ceases to have effect.
 
