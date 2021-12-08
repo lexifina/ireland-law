@@ -16,7 +16,7 @@ Special measures registration having regard to Covid-19.
 
 (b) a section 98 registration or the retention of such registration.
 
-(4) Where a previous registrant’s name is entered in the register for the relevant designated profession pursuant to a section 98 registration, the chief executive officer shall enter in that register, or cause to be entered in that register, the term ‘(section 98 registration)’ immediately after that name to indicate that his or her registration in that register arises from the operation of this section.
+(4) Where a previous registrant’s name is entered in the register for the relevant designated profession pursuant to a section 98 registration, the chief executive officer shall enter in that register, or cause to be entered in that register, the term "(section 98 registration)" immediately after that name to indicate that his or her registration in that register arises from the operation of this section.
 
 (5) (a) Nothing in this section shall be construed to prevent a previous registrant’s name from being entered in the register for the relevant designated profession pursuant to the operation of another section of this Act, whether or not his or her name is already entered in that register pursuant to a section 98 registration.
 
@@ -34,17 +34,17 @@ Special measures registration having regard to Covid-19.
 
 (8) In this section—
 
-‘previous registrant’ means a former registrant whose name was removed from the register for the relevant designated profession pursuant to section 39(1) or 40(1);
+"previous registrant" means a former registrant whose name was removed from the register for the relevant designated profession pursuant to section 39(1) or 40(1);
 
-‘section 98 application’ means an application under subsection (1);
+"section 98 application" means an application under subsection (1);
 
-‘section 98 registrant’ means a registrant who is such pursuant to—
+"section 98 registrant" means a registrant who is such pursuant to—
 
 (a) the chief executive officer’s determination of a section 98 application, or
 
 (b) a decision (howsoever called) of the Court arising from the chief executive officer’s determination of a section 98 application;
 
-‘section 98 registration’ means a registration effected in the register for the relevant designated profession pursuant to—
+"section 98 registration" means a registration effected in the register for the relevant designated profession pursuant to—
 
 (a) the chief executive officer’s determination of a section 98 application, or
 
