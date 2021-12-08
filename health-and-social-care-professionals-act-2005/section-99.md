@@ -16,7 +16,9 @@ F157[Admissibility of certain documents relating to proceedings in State or othe
 
 (i) the abandonment or withdrawal of the appeal, or
 
-(ii) the determination of the appeal, whichever first occurs; ‘relevant document’, in relation to a relevant person, means any of the following:
+(ii) the determination of the appeal, whichever first occurs;
+
+‘relevant document’, in relation to a relevant person, means any of the following:
 
 (a) a copy of a transcript of all or any part of relevant proceedings that has been certified, by or on behalf of the court, tribunal or other authority before which the proceedings were held, to be a true and accurate copy of that transcript;
 

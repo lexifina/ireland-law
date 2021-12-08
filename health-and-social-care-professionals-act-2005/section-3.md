@@ -8,7 +8,7 @@ Interpretation.
 
 “bye-law” means a bye-law made by a registration board under section 31;
 
-‘condition’ includes a restriction;
+"condition" includes a restriction;
 
 “contact lenses” includes any device, designed to be worn in contact with the ocular surface, for the correction of vision, for the provision of a decorative or cosmetic effect, for a therapeutic purpose, or for any other reason, and regardless of the optical properties or the absence of optical properties of the device;
 
@@ -22,7 +22,7 @@ Interpretation.
 
 (b) is designated by regulation under section 4(2);
 
-‘Directive 2005/36/EC’ has the meaning assigned to “Directive” in Regulation 3(1) of the Professional Qualifications Regulations;
+"Directive 2005/36/EC" has the meaning assigned to “Directive” in Regulation 3(1) of the Professional Qualifications Regulations;
 
 “establishment day” means—
 
@@ -34,11 +34,11 @@ Interpretation.
 
 “functions” includes duties and responsibilities;
 
-‘health or social care’, in relation to a person (howsoever described), means the health or social care that the person provides or has provided in his or her capacity or former capacity as a member of a relevant profession;
+"health or social care", in relation to a person (howsoever described), means the health or social care that the person provides or has provided in his or her capacity or former capacity as a member of a relevant profession;
 
 “health or social care profession” has the meaning given by section 4(3);
 
-‘material matter’, in relation to a person (howsoever described), means—
+"material matter", in relation to a person (howsoever described), means—
 
 (a) any of the following taken by any regulatory body (whether in or outside the State) in relation to the provision of one or more than one kind of health or social care by the person—
 
@@ -56,7 +56,7 @@ Interpretation.
 
 “professional qualification”, in relation to registration of a person in a designated profession, means a document, other than a document referred to in the definition of ‘qualification’ in this section, that attests to the person’s having achieved a standard of proficiency in that profession, whether or not that standard was achieved in part through practical experience in that profession;
 
-‘Professional Qualifications Regulations’ means the European Union (Recognition of Professional Qualifications) Regulations 2017 (S.I. No. 8 of 2017);
+"Professional Qualifications Regulations" means the European Union (Recognition of Professional Qualifications) Regulations 2017 (S.I. No. 8 of 2017);
 
 “qualification”, in relation to registration of a person in a designated profession, means a document that attests to the person’s having achieved the standard of proficiency required for registration in that profession, and that—
 
@@ -78,7 +78,7 @@ Interpretation.
 
 “relevant medical disability”, in relation to a person seeking registration as a member of a designated profession, or who is a registrant of that profession, means a physical or mental disability of the person (including addiction to alcohol or drugs) which may impair his or her ability to practise that profession or a particular aspect thereof;
 
-‘relevant profession’ means any of the following professions:
+"relevant profession" means any of the following professions:
 
 (a) dentist;
 
@@ -92,7 +92,7 @@ Interpretation.
 
 (f) pharmacist;
 
-‘restriction’ includes a condition;
+"restriction" includes a condition;
 
 “rule” means a rule made by the Council under section 22;
 
