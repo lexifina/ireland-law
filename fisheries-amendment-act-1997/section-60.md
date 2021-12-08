@@ -12,4 +12,6 @@ Appeal regulations.
 
 (d) the availability for inspection of documents or extracts from documents relating to appeals, the period of such availability, and the purchase of copies of or extracts from such documents.
 
+(3)OJ. No. L175, 5.7.1985.
+
 MISCELLANEOUS
