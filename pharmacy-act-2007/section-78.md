@@ -8,7 +8,7 @@ Admissibility of certain documents relating to proceedings in State or other jur
 
 (4) In this section—
 
-‘final determination’, in relation to any relevant proceedings and a relevant person, means—
+"final determination", in relation to any relevant proceedings and a relevant person, means—
 
 (a) the conclusion of those proceedings without any party to the proceedings making an appeal, against a decision in those proceedings to impose or to not impose a sanction on the relevant person, within the ordinary time in the State or other jurisdiction concerned, as appropriate, for making such an appeal, or
 
@@ -18,7 +18,7 @@ Admissibility of certain documents relating to proceedings in State or other jur
 
 (ii) the determination of the appeal, whichever first occurs;
 
-‘relevant document’, in relation to a relevant person, means any of the following:
+"relevant document", in relation to a relevant person, means any of the following:
 
 (a) a copy of a transcript of all or any part of relevant proceedings that has been certified, by or on behalf of the court, tribunal or other authority before which the proceedings were held, to be a true and accurate copy of that transcript;
 
@@ -28,7 +28,7 @@ Admissibility of certain documents relating to proceedings in State or other jur
 
 (d) if, after the final determination of such proceedings, no sanctions are, or continue to be, imposed on the relevant person in consequence of such proceedings, a statement in writing to that effect certified by or on behalf of the court, tribunal or other authority before which the proceedings were held;
 
-‘relevant person’ means—
+"relevant person" means—
 
 (a) a registered pharmacist,
 
@@ -40,7 +40,7 @@ Admissibility of certain documents relating to proceedings in State or other jur
 
 (e) where a corporate body owns all or part of a registered retail pharmacy business, any person being a director (including a shadow director as construed in accordance with section 221 of the Companies Act 2014), manager, secretary or any other officer of the corporate body or a person who was purporting to act in any such capacity;
 
-‘relevant proceedings’, in relation to a relevant person, means any disciplinary or judicial proceedings (other than any such proceedings under this Act), in respect of which the relevant person is the subject—
+"relevant proceedings", in relation to a relevant person, means any disciplinary or judicial proceedings (other than any such proceedings under this Act), in respect of which the relevant person is the subject—
 
 (a) in the State or another jurisdiction which may directly or indirectly result in the relevant person—
 
@@ -52,4 +52,4 @@ Admissibility of certain documents relating to proceedings in State or other jur
 
 (c) in the State which may result in the relevant person being convicted, in the State, for an offence triable on indictment;
 
-‘sanction’ includes any restriction or measure.
+"sanction" includes any restriction or measure.

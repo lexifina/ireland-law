@@ -8,7 +8,7 @@ Council may request certain information concerning registered pharmacists from c
 
 (2) In subsection (1) —
 
-‘material matter’, in relation to a registered pharmacist, means—
+"material matter", in relation to a registered pharmacist, means—
 
 (a) any of the following taken by any regulatory body (whether in or outside the State), other than the Council, in relation to the provision of one or more than one kind of health or social care by such pharmacist:
 
@@ -20,6 +20,6 @@ Council may request certain information concerning registered pharmacists from c
 
 (b) a conviction in the State for an offence triable on indictment (other than a spent conviction within the meaning of section 5 of the Criminal Justice (Spent Convictions and Certain Disclosures) Act 2016 ) or a conviction outside the State for an offence consisting of acts or omissions that, if done or made in the State, would constitute an offence triable on indictment;
 
-‘registered pharmacist’ includes a person who has made an application under section 14 for registration which has not yet been determined by the Council;
+"registered pharmacist" includes a person who has made an application under section 14 for registration which has not yet been determined by the Council;
 
-‘relevant statement’, in relation to a request under subsection (1), means a statement to the effect that any information provided to the Council, pursuant to that request, by the body to which the request is made may be used in any proceedings under this Act concerning the pharmacist the subject of the request.
+"relevant statement", in relation to a request under subsection (1), means a statement to the effect that any information provided to the Council, pursuant to that request, by the body to which the request is made may be used in any proceedings under this Act concerning the pharmacist the subject of the request.

@@ -12,7 +12,7 @@ Definitions.
 
 ...
 
-‘relevant enactment’ means—
+"relevant enactment" means—
 
 (a) this Act, or
 

@@ -40,7 +40,7 @@ Power to specify form of documents.
 
 (b) in the form, require the pharmacy owner to supply the Council with such information that the pharmacy owner would have to supply the Council if that retail pharmacy business were not registered but the pharmacy owner was seeking registration of the business.
 
-(7) In this section, ‘relevant body’ means the following:
+(7) In this section, "relevant body" means the following:
 
 (a) subject to paragraphs (b) and (c), the Council;
 

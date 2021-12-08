@@ -32,17 +32,17 @@ Special measures registration having regard to Covid-19.
 
 (8) In this section—
 
-‘previous registrant’ means a former registered pharmacist or registered pharmaceutical assistant, as appropriate, who was previously registered in the register and who was cancelled from the register pursuant to section 59 or 60;
+"previous registrant" means a former registered pharmacist or registered pharmaceutical assistant, as appropriate, who was previously registered in the register and who was cancelled from the register pursuant to section 59 or 60;
 
-‘section 77 application’ means an application under subsection (1);
+"section 77 application" means an application under subsection (1);
 
-‘section 77 registrant’ means a person registered in the register pursuant to—
+"section 77 registrant" means a person registered in the register pursuant to—
 
 (a) the Council’s determination of a section 77 application, or
 
 (b) a decision (howsoever called) of the High Court arising from the Council’s determination of a section 77 application;
 
-‘section 77 registration’ means a registration effected in the register pursuant to—
+"section 77 registration" means a registration effected in the register pursuant to—
 
 (a) the Council’s determination of a section 77 application, or
 
