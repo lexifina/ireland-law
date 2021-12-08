@@ -1,6 +1,6 @@
 ## PART IV MISCELLANEOUS
 
-Matters to which licensing authority shall have regard in determining aquaculture licence applications and appeals.
+Matters
 
 61.—The licensing authority, in considering an application for an aquaculture licence or an appeal against a decision on an application for a licence or a revocation or amendment of a licence, shall take account, as may be appropriate in the circumstances of the particular case, of—
 
@@ -15,8 +15,6 @@ Matters to which licensing authority shall have regard in determining aquacultur
 (e) the likely ecological effects of the aquaculture or proposed aquaculture on wild fisheries, natural habitats and flora and fauna, and
 
 (f) the effect or likely effect on the environment generally in the vicinity of the place or water on or in which that aquaculture is or is proposed to be carried on—
-
-(3)OJ. No. L175, 5.7.1985.
 
 (i) on the foreshore, or
 

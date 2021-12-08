@@ -11,3 +11,5 @@ Appeal regulations.
 (c) matters related to the implementation of Directive 85/337/EEC(3) on Environmental Impact Assessment, or any provision amending or replacing that Directive, and
 
 (d) the availability for inspection of documents or extracts from documents relating to appeals, the period of such availability, and the purchase of copies of or extracts from such documents.
+
+(3)OJ. No. L175, 5.7.1985.
