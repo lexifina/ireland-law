@@ -28,6 +28,6 @@ Amendment of Health Act 1970.
 
 (3) The charges referred to in subsection (2) shall be determined by the average cost of long-term residential care services as determined by the Health Service Executive in facilities operated by the Health Service Executive and publicly designated in writing as facilities predominantly for the care of older people.
 
-(4) Subject to subsection (5), this section shall not apply where a person has applied for a care needs assessment under section 7of the Nursing Homes Support Scheme Act 2009 and is awaiting a determination by the Executive under section 7of that Act.
+(4) Subject to subsection (5), this section shall not apply where a person has applied for a care needs assessment under section 7 of the Nursing Homes Support Scheme Act 2009 and is awaiting a determination by the Executive under section 7 of that Act.
 
-(5) Subsection (4) shall not apply where a person withdraws an application under section 7of the Nursing Homes Support Scheme Act 2009 and makes a subsequent application.”.
+(5) Subsection (4) shall not apply where a person withdraws an application under section 7 of the Nursing Homes Support Scheme Act 2009 and makes a subsequent application.”.

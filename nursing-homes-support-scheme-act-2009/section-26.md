@@ -34,7 +34,7 @@ Collection of monies advanced by way of ancillary State support.
 
 (5) Where an amount becomes a repayable amount by reason of the death of a person in respect of whom ancillary State support was advanced or the partner of such person, the repayable amount (together with interest accrued in accordance with subsection (6)) shall be a debt due and payable out of the estate of the deceased person.
 
-(6) Until the repayable amount is discharged to the Revenue Commissioners interest shall continue to accrue, in accordance with regulations made under section 36, on that part of the repayable amount which is comprised of the aggregate of amounts of ancillary State support adjusted in accordance with Schedule 2.
+(6) Until the repayable amount is discharged to the Revenue Commissioners interest shall continue to accrue, in accordance with regulations made under section 36, on that part of the repayable amount which is comprised of the aggregate of amounts of ancillary State support adjusted in accordance with Schedule 2 .
 
 (7) The Revenue Commissioners may furnish to the Executive such information as relates to the collection of the repayable amount and any interest accruing on that amount pursuant to regulations made under section 36.
 
