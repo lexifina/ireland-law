@@ -4,9 +4,9 @@ Reports by Minister to Dáil Éireann.
 
 (a) the aggregate value of contributions made by the State to the authorised capital stock of the ESM under section 2 during the reporting period,
 
-(b) the aggregate amount of moneys (including dividends) received by the State, to which section 4relates, during the reporting period,
+(b) the aggregate amount of moneys (including dividends) received by the State, to which section 4 relates, during the reporting period,
 
-(c) the aggregate value of contributions made by the State to the authorised capital stock of the ESM under section 2up to the end of the reporting period, and
+(c) the aggregate value of contributions made by the State to the authorised capital stock of the ESM under section 2 up to the end of the reporting period, and
 
 (d) the aggregate amount of all moneys (including dividends) received by the State, to which section 4 relates, up to the end of the reporting period.
 
