@@ -28,7 +28,7 @@ Authorised officers.
 
 (a) an airport authority,
 
-(b) a supplier of aviation terminal services,
+(b) ...
 
 (c) any person responsible for the carriage of passengers, mail or freight by air to or from an airport,
 
