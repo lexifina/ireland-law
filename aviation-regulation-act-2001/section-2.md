@@ -34,9 +34,13 @@ Interpretation.
 
 “Regulation (EC) No. 261/2004” means Council Regulation (EC) No. 261/2004 of the European Parliament and of the Council of 11 February 2004 , establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights;
 
+“Regulations of 2011” means the European Communities (Dublin Airport Charges) Regulations 2011 (S.I. No. 116 of 2011);
+
+“statement of strategy” means a statement of strategy prepared and submitted under section 27A;
+
 “superannuation benefits” means pensions, gratuities and other allowances payable on resignation, retirement or death;
 
-“terminal services” has the meaning assigned to it by the Irish Aviation Authority Act, 1993;
+...
 
 “tour operator” and “travel agent” have the meanings assigned to them, respectively, in the Transport (Tour Operators and Travel Agents) Act, 1982;
 
