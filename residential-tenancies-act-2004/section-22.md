@@ -36,11 +36,11 @@ Tenant to be notified of new rent.
 
 (f) where the dwelling is in a rent pressure zone (within the meaning given in section 19(7)), state how the rent set under the tenancy was calculated having regard to section 19(4) or, where section 19(4) does not apply, state why it does not apply, and
 
-(g) where the dwelling is in a rent pressure zone (within the meaning given by section 19(7)) to which section 19(4A) applies, state how any increase in the rent last set under the tenancy of the dwelling was calculated or, where section 19(4A) does not apply, state why it does not apply.
+(g) where the dwelling is in a rent pressure zone (within the meaning given by section 19(7)) to which section 19(4) applies, state how any increase in the rent last set under the tenancy of the dwelling was calculated or, where section 19(4) does not apply, state why it does not apply.
 
 (2B) The notice referred to in subsection (2) shall be signed by the landlord or his or her authorised agent.
 
-(2C) In this section ‘amount of rent sought’ means the amount of rent specified for the letting of a dwelling in an advertisement the date of which falls within the period of 4 weeks immediately preceding the date on which the notice referred to in subsection (2) is served.
+(2C) In this section "amount of rent sought" means the amount of rent specified for the letting of a dwelling in an advertisement the date of which falls within the period of 4 weeks immediately preceding the date on which the notice referred to in subsection (2) is served.
 
 (3) Where that condition is satisfied, a dispute in relation to a rent falling within subsection (1) must be referred to the Board under Part 6 before—
 
