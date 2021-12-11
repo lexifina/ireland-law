@@ -12,49 +12,81 @@ Setting of rent above market rent prohibited.
 
 (3) The setting of the rent under the tenancy of a dwelling that is carried out on or after the relevant date shall be subject to subsections (4) to (7).
 
-(4) Subject to subsections (4A) and (5), in setting, at any particular time, the rent under a tenancy of a dwelling in a rent pressure zone, an amount of rent shall not be provided for that is greater than the amount determined by the formula—
+(4) (a) The setting (in this subsection referred to as the "next setting") of a rent under the tenancy of a dwelling in a rent pressure zone at any time after the commencement of section 3 of the Residential Tenancies (Amendment) Act 2021 shall neither—
 
-R x (1 + 0.04 x t/m) where— m is—
+(i) result in such increase in rent as would cause the new rent under the tenancy to exceed the old rent by more than the relevant percentage, nor
 
-(a) 24, where section 24C(1)(a) applies, or
+(ii) result in such increase in rent as would cause the ratio of the new rent under the tenancy to the old rent to exceed the ratio of the current HICP value to the previous HICP value.
 
-(b) 12, in any other case, R is the amount of rent last set under a tenancy for the dwelling, t is the number of months between—
+(b) In this subsection—
 
-(a) (i) the date the current rent came into effect under a tenancy for the dwelling, or
+"current HICP value" means the HICP value published by the Board in accordance with subsection (4C) relating—
 
-(ii) where subparagraph (i) does not apply but the dwelling was previously let, other than in circumstances to which subsection (5) applies, the date rent became payable under a tenancy for the dwelling as last so let, and
+(a) to the month immediately preceding the month in which the next setting takes place, or
 
-(b) the date the rent for the tenancy of the dwelling will come into effect after its determination under this subsection.
+(b) in a case in which the HICP value relating to the month first-mentioned in paragraph (a) is not so published on or before the next setting, to the month immediately preceding that month;
 
-(4A) Notwithstanding subsection (4), and subject to subsection (5), in setting the rent under a tenancy of a dwelling in a rent pressure zone in respect of which the landlord serves a notice under section 22 on or after the coming into operation of section 6 of the Residential Tenancies (No. 2) Act 2021—
+"new rent" means, in relation to the tenancy of a dwelling, the rent under the tenancy set at the next setting;
 
-(a) an amount of rent shall not be provided for that increases the rent last set by more than any rent increase calculated in accordance with subsection (4B), or
+"old rent" means, in relation to the tenancy of a dwelling—
 
-(b) an amount of rent shall not be provided for that increases the rent last set where a calculation is made, in accordance with subsection (4B), that no increase in the rent last set has occurred.
+(a) the rent under that tenancy set at the previous setting, or
 
-(4B) Any increase in the rent last set shall be calculated by—
+(b) where that tenancy is a new tenancy, the rent under the tenancy (immediately preceding the new tenancy) of that dwelling set at the previous setting;
 
-(a) calculating as a percentage any difference between the HICP value that applied on the date the rent was last set and the HICP value that applies on the new date, and
+"previous HICP value" means—
 
-(b) applying the amount of the percentage calculated under paragraph (a) to the rent last set.
+(a) in relation to a previous setting that took place before the commencement of section 3 of the Residential Tenancies (Amendment) Act 2021, the HICP value published by the Board in accordance with subsection (4C) relating to the month in which the previous setting took place,
+
+(b) in relation to a previous setting that takes place on or after such commencement—
+
+(i) the HICP value published by the Board in accordance with subsection (4C) relating to the month immediately preceding the month in which the previous setting took place, or
+
+(ii) in circumstances where the HICP value referred to in subparagraph (i) was not so published by the time the previous setting took place, the HICP value so published relating to the month immediately preceding the month first-mentioned in that subparagraph;
+
+"previous setting" means, in relation to the next setting of a rent under the tenancy of a dwelling, the most recent setting (before the next setting) of the rent under—
+
+(a) that tenancy of the dwelling, or
+
+(b) where the next setting relates to a new tenancy of that dwelling, the tenancy of that dwelling immediately preceding the new tenancy;
+
+"relevant percentage" means, in relation to the setting of the rent under the tenancy of a dwelling—
+
+(a) 2 per cent of the old rent in respect of each year that has elapsed since the previous setting, and
+
+(b) as respects any additional period that has elapsed between the previous setting and the next setting that is shorter than a year, such percentage as bears to 2 per cent the same proportion that that period bears to a year.
+
+(c) For the purposes of this subsection, a tenancy immediately precedes a new tenancy if—
+
+(i) it expired at any time—
+
+(I) during the period of 2 years prior to the creation or coming into being of the new tenancy, or
+
+(II) in the case of a new tenancy to which subparagraph (i) of paragraph (a) of subsection (5) applies, during the period of one year prior to the creation or coming into being of the new tenancy, and
+
+(ii) no other tenancy was created or came into being during the period between the expiration of that tenancy and the creation, or coming into being, of the new tenancy.
+
+(4A) ...
+
+(4B) ...
 
 (4C) The Board shall—
 
-(a) establish and maintain a rent pressure zone calculator to calculate any increase in rent in a rent pressure zone in accordance with the method set out in subsection (4B), and
+(a) establish and maintain a rent pressure zone calculator to calculate any increase in rent in a rent pressure zone in accordance with subsection (4), and
 
 (b) publish and keep up to date a table of HICP values published by the Central Statistics Office.
 
-(4D) The Minister, for the purposes of subsections (4A) to (4C), may prescribe—
+(4D) The Minister, for the purposes of subsections (4) and (4C), may prescribe—
 
 (a) the means by which the rent pressure zone calculator referred to in subsection (4C)(a) shall operate to accurately calculate any increase in rent in a rent pressure zone by applying the HICP values to the rent,
 
-(b) the information to be furnished in the table referred to in subsection (4C)(b),
+(b) the information to be furnished in the table referred to in subsection (4C)(b), and
 
-(c) the form and manner of publication by the Board of that calculator and table, and
+(c) the form and manner of publication by the Board of that calculator and table.
 
-(d) an index or indices, containing data corresponding to HICP values, as may be published by the Central Statistics Office to be used for the purposes of the calculation under subsection (4B).
+(d) ...
 
-(5) Subsections (4) and (4A) do not apply—
+(5) Subsection (4) does not apply—
 
 (a) to the rent first set under the tenancy of—
 
@@ -106,9 +138,9 @@ R x (1 + 0.04 x t/m) where— m is—
 
 (a) a notice under section 22(2) has been served on the tenant, or
 
-(b) the review of the rent concerned has commenced, before the relevant date, or, if an order is made by the Minister under section 24A(5) in respect of an area where the dwelling concerned is situate, before the date of the coming into operation of the order, then subsections (3), (4) and (4A) shall not apply to the new rent, referred to in section 22(2), stated in that notice in accordance with that section.
+(b) the review of the rent concerned has commenced, before the relevant date, or, if an order is made by the Minister under section 24A(5) in respect of an area where the dwelling concerned is situate, before the date of the coming into operation of the order, then subsections (3) and (4) shall not apply to the new rent, referred to in section 22(2), stated in that notice in accordance with that section.
 
-(6A) A person who fails to comply with the requirements of subsection (4) or, as the case may be, (4A) shall be guilty of an offence.
+(6A) A person who fails to comply with the requirements of subsection (4) ... shall be guilty of an offence.
 
 (6B) A person, who in purported compliance with subsection (5B), furnishes information to the Board which is false or misleading in a material respect knowing it to be so false or misleading or being reckless as to whether it is so false or misleading shall be guilty of an offence.
 
@@ -116,13 +148,13 @@ R x (1 + 0.04 x t/m) where— m is—
 
 (7) In this section—
 
-‘HICP values’ means the values contained in the most recent data available monthly in the All-Items Harmonised Index of Consumer Prices in relation to Ireland and published monthly by the Central Statistics Office in accordance with Regulation (EU) 2016/792 of the European Parliament and of the Council of 11 May 2016 on harmonised indices of consumer prices and the house price index, and repealing Council Regulation (EC) No. 2494/95;
+"HICP values" means the values contained in the most recent data available monthly in the All-Items Harmonised Index of Consumer Prices in relation to Ireland and published monthly by the Central Statistics Office in accordance with Regulation (EU) 2016/792 of the European Parliament and of the Council of 11 May 2016 on harmonised indices of consumer prices and the house price index, and repealing Council Regulation (EC) No. 2494/95;
 
-‘new date’ shall be the date of publication by the Board under subsection (4C) of the table of HICP values that occurs most recently prior to the service of a notice under section 22 by the landlord on the tenant;
+...
 
-‘relevant date’ means the date section 33 of the Planning and Development (Housing) and Residential Tenancies Act 2016 comes into operation;
+"relevant date" means the date section 33 of the Planning and Development (Housing) and Residential Tenancies Act 2016 comes into operation;
 
-‘rent pressure zone’ means an area—
+"rent pressure zone" means an area—
 
 (a) prescribed by the Minister by order under section 24A as a rent pressure zone under that section, or
 
