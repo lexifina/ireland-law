@@ -303,3 +303,5 @@ Transfers and Direct Debits in Euro) Regulations 2013
 78 S.I. No. 355 of 2021 European Union (Investment The whole instrument Firms) Regulations 2021
 
 79 S.I. No. 356 of 2021 European Union (Investment The whole instrument Firms) (No. 2) Regulations 2021
+
+80 S.I. No. 702 of 2021 European Union The whole instrument (Crowdfunding) Regulations 2021
