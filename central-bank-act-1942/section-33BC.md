@@ -55,3 +55,9 @@ Bank may publish its decisions.
 (15) This section does not apply where Regulation 6 of the European Union (General Framework for Securitisation and Specific Framework for Simple Transparent and Standardised Securitisation) Regulations 2018 (S.I. No. 656 of 2018) applies.
 
 (16) This section shall not apply where Regulation 17 of the European Union (Investment Firms) Regulations 2021 (S.I. No. 355 of 2021) applies.
+
+(17) This section does not apply where section 99B of the Asset Covered Securities Act 2001 applies.
+
+(18) This section does not apply where Regulation 42 of Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020 applies.
+
+OJ No. L. 347, 20.10.2020, p. 1.
