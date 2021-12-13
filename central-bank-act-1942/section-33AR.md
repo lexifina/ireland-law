@@ -8,6 +8,8 @@ Alternative procedure when commission of, or participation in, prescribed contra
 
 (2) If, in a case where the Bank suspects on reasonable grounds that a person concerned in the management of a regulated financial service provider is committing or has committed a prescribed contravention, the person acknowledges that the person is participating or has participated in the commission of the contravention, the Bank may—
 
+19 OJ No. L 331, 15.12.2010, p. 84
+
 (a) with the person’s consent, dispense with an inquiry and impose on that person any sanction that it is empowered to impose on persons concerned in the management of regulated financial service providers under section 33AQ , or
 
 (b) hold an inquiry to determine what sanction (if any) should be imposed on the person in accordance with that section.
