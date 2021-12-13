@@ -268,9 +268,7 @@ Disclosure of information.
 
 (ba) to the Data Protection Commission that is required for the performance of that Commission’s functions under the Data Protection Regulation or the Data Protection Acts 1988 to 2018, or
 
-(bb) to financial intelligence units (within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system
-
-OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU).
+(bb) to financial intelligence units (within the meaning of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU).
 
 (5A) Subsection (5) shall not apply to confidential information received by the Bank in the performance of its functions as a competent authority designated as such for the purposes of the Payment Services Directive.
 
@@ -288,7 +286,11 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. for the purpose
 
 (c) to the European Banking Authority, in its capacity of contributing to the consistent and coherent functioning of supervising mechanisms (as referred to in point (a) of Article 1(5) of Regulation (EU) No 1093/2010 of 24 November 2010),
 
-(d) to the relevant authorities of other Member States designated under laws giving effect to the Payment Services Directive, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 and other Acts of the European Union applicable to payment service providers (including Acts applicable to the protection of individuals with regard to the processing of personal data and to money laundering and terrorist financing),
+(d) to the relevant authorities of other Member States designated under laws giving effect to the Payment Services Directive, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 and other Acts of the European Union applicable to payment service providers (including
+
+OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 28.2.2014, p. 34.
+
+Acts applicable to the protection of individuals with regard to the processing of personal data and to money laundering and terrorist financing),
 
 (e) to authorities entrusted with the public duty of supervising other financial sector entities and the authorities responsible for the supervision of financial markets,
 
@@ -299,8 +301,6 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. for the purpose
 (h) to bodies involved in the liquidation and bankruptcy of institutions and in other similar procedures,
 
 (i) to the persons responsible for carrying out statutory audits of the accounts of institutions, insurance undertakings and financial institutions,
-
-OJ No. L. 60, 28.2.2014, p. 34.
 
 (j) to the ESCB central banks and other bodies with a similar function in their capacity as monetary authorities when the information is relevant for the exercise of their respective statutory tasks,
 
@@ -364,15 +364,15 @@ OJ No. L. 60, 28.2.2014, p. 34.
 
 (10) In this section—
 
-‘approved professional body’ has the meaning given by section 55 of the Investment Intermediaries Act 1995;
+"approved professional body" has the meaning given by section 55 of the Investment Intermediaries Act 1995;
 
-‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+"Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
-‘product producer’ has the meaning given by section 2 of the Investment Intermediaries Act 1995;
+"product producer" has the meaning given by section 2 of the Investment Intermediaries Act 1995;
 
-‘restricted activity investment product intermediary’ has the meaning assigned to it by section 26 of the Investment Intermediaries Act 1995;
+"restricted activity investment product intermediary" has the meaning assigned to it by section 26 of the Investment Intermediaries Act 1995;
 
-‘supervisory EU legal acts’ means—
+"supervisory EU legal acts" means—
 
 (a) Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000,
 
@@ -454,12 +454,12 @@ OJ No. L. 60, 28.2.2014, p. 34.
 
 (ai) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019;
 
-(aj) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No. 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018;
-
-(ak) Regulation (EU) 2019/2033 of the European Parliament and Council of 27 November 2019;
-
-‘supervised entity’ means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
-
 OJ, No L171, 29.6.2016, p. 1
 
-OJ No. L. 314, 5.12.2019, p. 1.
+(aj) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No. 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018;
+
+(ak) Regulation (EU) 2019/2033 of the European Parliament and Council of 27 November 2019,
+
+(al) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020;
+
+"supervised entity" means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
