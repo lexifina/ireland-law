@@ -4,11 +4,11 @@ Section 57BC.
 
 FINANCIAL SERVICES OMBUDSMAN COUNCIL
 
-1.—The Chairperson shall, with the agreement of the Financial Services Ombudsman, designate a member of the Bureau staff to be Secretary to the Council.
+1.—The Chairperson shall, with the agreement of the Financial Services Ombudsman, designate a member of the Bureau staff to be Secretary to the Council. 2.—Whenever the Chairperson requests, the Financial Services Ombudsman shall, so far as it is possible to do so, arrange for the Council to be provided with such administrative services (including technical and legal advice) as the Council requires to enable it to perform its functions.
 
-2.—Whenever the Chairperson requests, the Financial Services Ombudsman shall, so far as it is possible to do so, arrange for the Council to be provided with such administrative services (including technical and legal advice) as the Council requires to enable it to perform its functions.
+3.—Members of the Council are entitled to be paid such fees and travelling and subsistence allowances as the Minister approves. Those fees and allowances are payable out of the funds of the Bureau.
 
-3.—Members of the Council are entitled to be paid such fees and travelling and subsistence allowances as the Minister approves. Those fees and allowances are payable out of the funds of the Bureau. 4.—(1) A person ceases to be a member if the person—
+4.—(1) A person ceases to be a member if the person—
 
 (a) dies, or
 
@@ -42,15 +42,15 @@ FINANCIAL SERVICES OMBUDSMAN COUNCIL
 
 (2) Subparagraph (1) does not apply if the term of office of the member concerned was due to expire within 60 days after the vacancy occurred.
 
-6.—The procedure for convening meetings of the Council and for the conduct of business at those meetings is, subject to this Schedule, to be as determined by the Council. The Council may determine that procedure by means of rules or standing orders or by any other means.
-
-7.—The quorum for a meeting of the Council is a majority of the members of the Council.
+6.—The procedure for convening meetings of the Council and for the conduct of business at those meetings is, subject to this Schedule, to be as determined by the Council. The Council may determine that procedure by means of rules or standing orders or by any other means. 7.—The quorum for a meeting of the Council is a majority of the members of the Council.
 
 8.—A meeting of the Council is to be presided over by—
 
 (a) the Chairperson, or
 
-(b) in the absence of the Chairperson, a member elected by the members of the Council present at the meeting. 9.—(1) A decision supported by a majority of the votes cast at a meeting of the Council at which a quorum is present is the decision of the Council.
+(b) in the absence of the Chairperson, a member elected by the members of the Council present at the meeting.
+
+9.—(1) A decision supported by a majority of the votes cast at a meeting of the Council at which a quorum is present is the decision of the Council.
 
 (2) If the votes are equal on a motion put at a meeting of the Council, the person who is presiding at the meeting has a casting as well as a deliberative vote.
 

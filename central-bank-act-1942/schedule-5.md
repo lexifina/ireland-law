@@ -8,7 +8,9 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 (2) The acting Chairperson has the functions and powers of the Chairperson and anything done by an Acting Chairperson in the performance or exercise of those powers and functions has effect as if the Chairperson had done the thing.
 
-(3) In this paragraph, absence from duty includes a vacancy in the relevant office. 2.—(1) Subject to Part VIIA of this Act and to this Schedule, a member holds office for 5 years.
+(3) In this paragraph, absence from duty includes a vacancy in the relevant office.
+
+2.—(1) Subject to Part VIIA of this Act and to this Schedule, a member holds office for 5 years.
 
 (2) A member is eligible for re-appointment, but may not hold office for more than three consecutive terms of 5 years.
 
@@ -40,9 +42,7 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 (j) is removed from office by a resolution passed in accordance with subparagraph (2).
 
-(2) The Chairperson and Deputy Chairperson can be removed from office only by the President on a resolution passed by both Houses of the Oireachtas in the same session seeking removal on the ground of proven misbehaviour or incapacity.
-
-7.—(1) A person who is a lay member ceases to be such a member if the person—
+(2) The Chairperson and Deputy Chairperson can be removed from office only by the President on a resolution passed by both Houses of the Oireachtas in the same session seeking removal on the ground of proven misbehaviour or incapacity. 7.—(1) A person who is a lay member ceases to be such a member if the person—
 
 (a) dies, or
 
@@ -118,9 +118,7 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 (b) the function or power is to be performed or exercised by the person for the time being occupying or acting in the office concerned.
 
-(8) The Chairperson may, despite the delegation, perform a function that has been delegated under this paragraph.
-
-11.—(1) If a person is, or is to be, a member of the Appeals Tribunal as constituted for the purposes of proceedings and the person has or acquires an interest (pecuniary or otherwise) that could conflict with the proper performance of the person’s functions in relation to the proceedings, the person—
+(8) The Chairperson may, despite the delegation, perform a function that has been delegated under this paragraph. 11.—(1) If a person is, or is to be, a member of the Appeals Tribunal as constituted for the purposes of proceedings and the person has or acquires an interest (pecuniary or otherwise) that could conflict with the proper performance of the person’s functions in relation to the proceedings, the person—
 
 (a) shall disclose the nature of the interest to the parties to the proceedings, and
 

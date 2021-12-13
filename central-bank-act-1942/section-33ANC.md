@@ -28,12 +28,12 @@ Application of Part under Capital Requirements Directive.
 
 (4) In this section—
 
-(a)‘Capital Requirements Regulations’ means European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014);
+(a) "Capital Requirements Regulations" means European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014);
 
 (b) the Capital Requirements Regulation;
 
-(c)‘financial holding company’ has the meaning assigned to it in point (20) of Article 4(1) of the Capital Requirements Regulation;
+(c) "financial holding company" has the meaning assigned to it in point (20) of Article 4(1) of the Capital Requirements Regulation;
 
-(d)‘mixed-financial holding company’ has the meaning assigned to it in point (21) of Article 4(1) of the Capital Requirements Regulation;
+(d) "mixed-financial holding company" has the meaning assigned to it in point (21) of Article 4(1) of the Capital Requirements Regulation;
 
-(e)‘mixed-activity holding company’ has the meaning assigned to it in point (22) of Article 4(1) of the Capital Requirements Regulation.
+(e) "mixed-activity holding company" has the meaning assigned to it in point (22) of Article 4(1) of the Capital Requirements Regulation.

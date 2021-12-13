@@ -36,9 +36,7 @@ FINANCIAL SERVICES OMBUDSMAN, DEPUTY FINANCIAL SERVICES OMBUDSMEN AND OTHER BURE
 
 (2) A decision of the Council under this paragraph does not take effect until approved by the Minister.
 
-3.—Neither the Financial Services Ombudsman nor a Deputy Financial Services Ombudsman may engage in paid employment outside the duties of the office unless the Council approves the employment.
-
-4.—(1) In this paragraph—
+3.—Neither the Financial Services Ombudsman nor a Deputy Financial Services Ombudsman may engage in paid employment outside the duties of the office unless the Council approves the employment. 4.—(1) In this paragraph—
 
 ‘superannuation scheme’ means a superannuation scheme prepared under subparagraph (2) or (4), and if the scheme is amended in accordance with this paragraph, means the scheme as amended;
 

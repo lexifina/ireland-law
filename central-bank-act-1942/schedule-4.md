@@ -10,17 +10,17 @@ Ref. Name of Associated Bank In the In the In the In the No. period triennial tr
 
 £ £ £ £
 
-1 The Bank of Ireland. 1,286,000 965,000 643,000 322,000
-
-2 The Hibernian Bank, Limited. 550,000 413,000 275,000 138,000
-
-3 The Munster & Leinster 900,000 675,000 450,000 225,000 Bank, Limited.
-
 MAXIMUM AMOUNT OF CONSOLIDATED BANK NOTES
 
 Ref. Name of Associated Bank In the In the In the In the No. period triennial triennial triennial from the period period period day after ending on ending on ending on the date of 31st 31st 31st the passing December, December, December, of this Act 1947 1950 1953 to the 31st December, 1944
 
 (1) (2) (3) (4) (5) (6)
+
+1 The Bank of Ireland. 1,286,000 965,000 643,000 322,000
+
+2 The Hibernian Bank, Limited. 550,000 413,000 275,000 138,000
+
+3 The Munster & Leinster 900,000 675,000 450,000 225,000 Bank, Limited.
 
 4 The National Bank of 1,141,000 856,000 571,000 286,000 Ireland Limited
 
