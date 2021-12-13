@@ -4,13 +4,13 @@ Interpretation.
 
 ...
 
-‘Appeals Tribunal’ means the Irish Financial Services Appeals Tribunal established by section 57C;
+"Appeals Tribunal" means the Irish Financial Services Appeals Tribunal established by section 57C;
 
 ...
 
-‘appointed member’ or ‘appointed member of the Commission’ means a member of the Commission referred to in section 18CA(1)(b);
+"appointed member" or "appointed member of the Commission" means a member of the Commission referred to in section 18CA(1)(b);
 
-‘associated entity’ in relation to a financial service provider, means—
+"associated entity" in relation to a financial service provider, means—
 
 (a) a holding company of the financial service provider, or
 
@@ -26,13 +26,13 @@ Interpretation.
 
 (e) a partnership or joint venture in which the financial service provider has a financial interest;
 
-‘approved stock exchange’ means a stock exchange approved under section 9 of the Stock Exchange Act 1995;
+"approved stock exchange" means a stock exchange approved under section 9 of the Stock Exchange Act 1995;
 
-‘Bank’ means the Central Bank of Ireland;
+"Bank" means the Central Bank of Ireland;
 
 ...
 
-‘Capital Requirements Regulation’ means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 as amended by—
+"Capital Requirements Regulation" means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 as amended by—
 
 (a) Commission Delegated Regulation (EU) 2015/62 of 10 October 2014 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the leverage ratio,
 
@@ -58,93 +58,93 @@ European Parliament and of the Council on prudential requirements for credit ins
 
 (j) Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020 amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic;
 
-‘Central Bank Acts’ means the Central Bank Acts 1942 to 1998 and includes any later Act that is to be construed as one with those or any of those Acts;
+"Central Bank Acts" means the Central Bank Acts 1942 to 1998 and includes any later Act that is to be construed as one with those or any of those Acts;
 
-‘Commission’ means the Central Bank Commission;
+"Commission" means the Central Bank Commission;
 
-‘consolidated bank note’ has the same meaning as in the Currency Act 1927;
-
-...
+"consolidated bank note" has the same meaning as in the Currency Act 1927;
 
 ...
 
-‘credit union’ has the meaning given by the Credit Union Act 1997;
+...
 
-‘Currency Act 1927’ means that Act as adapted in consequence of the Constitution;
+"credit union" has the meaning given by the Credit Union Act 1997;
 
-‘Deputy Financial Services and Pensions Ombudsman’ means a person appointed under section 8(1)(b) of the Financial Services and Pensions Ombudsman Act 2017 (No. 22 of 2017);
+"Currency Act 1927" means that Act as adapted in consequence of the Constitution;
+
+"Deputy Financial Services and Pensions Ombudsman" means a person appointed under section 8(1)(b) of the Financial Services and Pensions Ombudsman Act 2017 (No. 22 of 2017);
 
 ...
 
-‘designated enactments’ means, subject to subsection (2A), the enactments specified in Part 1 of Schedule 2 and the statutory instruments made under any of those enactments;
+"designated enactments" means, subject to subsection (2A), the enactments specified in Part 1 of Schedule 2 and the statutory instruments made under any of those enactments;
 
-‘designated statutory instruments’ means the statutory instruments specified in Part 2 of Schedule 2;
+"designated statutory instruments" means the statutory instruments specified in Part 2 of Schedule 2;
 
 ...
 
-‘ECB’ means the European Central Bank;
+"ECB" means the European Central Bank;
 
-‘EEA country’ means a country that is a member of the European Economic Area;
+"EEA country" means a country that is a member of the European Economic Area;
 
-‘employee’, in relation to the Bank, includes the Secretary of the Bank;
+"employee", in relation to the Bank, includes the Secretary of the Bank;
 
-‘enactment’ includes any instrument made under an enactment;
+"enactment" includes any instrument made under an enactment;
 
 20 OJ No. L. 111, 25.4.2019, p. 4. 21 OJ No. L. 150, 7.6.2019, p. 1. 22 OJ No. L. 314, 5.12.2019, p. 1. 23 OJ. No. L. 204, 26.6.2020, p. 4.
 
-‘ESCB Statute’ means the Statute of the European System of Central Banks and of the European Central Bank as set out in Protocol (No. 3) (annexed by the Treaty on European Union done at Maastricht on February 1992) to the Rome Treaty;
+"ESCB Statute" means the Statute of the European System of Central Banks and of the European Central Bank as set out in Protocol (No. 3) (annexed by the Treaty on European Union done at Maastricht on February 1992) to the Rome Treaty;
 
-‘ex-officio member’ or ‘ex-officio member of the Commission’ means a member of the Commission referred to in section 18CA(1)(a);
+"ex-officio member" or "ex-officio member of the Commission" means a member of the Commission referred to in section 18CA(1)(a);
 
-‘financial futures and options exchange’ has the meaning given by section 97 of the Central Bank Act 1989;
+"financial futures and options exchange" has the meaning given by section 97 of the Central Bank Act 1989;
 
-‘financial services’ include financial products;
+"financial services" include financial products;
 
-‘Financial Services and Pensions Ombudsman’ means a person appointed under section 8(1)(a) of the Financial Services and Pensions Ombudsman Act 2017 (No. 22 of 2017);
+"Financial Services and Pensions Ombudsman" means a person appointed under section 8(1)(a) of the Financial Services and Pensions Ombudsman Act 2017 (No. 22 of 2017);
 
 ...
 
-‘financial service provider’ means a person who carries on a business of providing one or more financial services;
+"financial service provider" means a person who carries on a business of providing one or more financial services;
 
-‘financial year’ means a period of 12 months ending on 31 December or, if the Minister, by order notified in Iris Oifigiúil, has prescribed a different period for the purposes of this Act, that other period;
+"financial year" means a period of 12 months ending on 31 December or, if the Minister, by order notified in Iris Oifigiúil, has prescribed a different period for the purposes of this Act, that other period;
 
-‘function’ includes duty;
+"function" includes duty;
 
-‘general fund’ means the fund referred to in section 32F;
+"general fund" means the fund referred to in section 32F;
 
-‘Governor’ means the person holding office as the Governor of the Bank, and includes—
+"Governor" means the person holding office as the Governor of the Bank, and includes—
 
 (a) any person appointed to act as Governor in accordance with section 22, and
 
 (b) the Head of Central Banking when carrying out responsibilities of the Governor in accordance with section 22A;
 
-‘Head of Central Banking’, ‘Head of Financial Regulation’ and ‘Head of Function’ shall be construed in accordance with section 23;
+"Head of Central Banking", "Head of Financial Regulation" and "Head of Function" shall be construed in accordance with section 23;
 
-‘holding company’ means a company that has one or more subsidiary companies;
+"holding company" means a company that has one or more subsidiary companies;
 
-‘law’ includes the Rome Treaty and the ESCB Statute;
+"law" includes the Rome Treaty and the ESCB Statute;
 
-‘local authority’ means a local authority for the purposes of the Local Government Act 2001;
+"local authority" means a local authority for the purposes of the Local Government Act 2001;
 
-‘member’ or ‘member of the Commission’ means an appointed member or an ex-officio member;
+"member" or "member of the Commission" means an appointed member or an ex-officio member;
 
-‘Minister’ means the Minister for Finance;
+"Minister" means the Minister for Finance;
 
-‘officer’ means each Head of Function, the Secretary of the Bank and the Registrar of Credit Unions;
+"officer" means each Head of Function, the Secretary of the Bank and the Registrar of Credit Unions;
 
 ...
 
-‘power’ includes right and privilege;
+"power" includes right and privilege;
 
-‘publication’, in relation to a report or other document, includes publishing the report or document in an accessible form on an Internet website;
+"publication", in relation to a report or other document, includes publishing the report or document in an accessible form on an Internet website;
 
-‘record’ means any record of information, however compiled, recorded or stored, and includes—
+"record" means any record of information, however compiled, recorded or stored, and includes—
 
 (a) any book, a register and any other document containing information,and
 
 (b) any disc, tape or other article from which information is capable of being produced in any form capable of being reproduced visually or aurally;
 
-‘regulated financial service provider’ means—
+"regulated financial service provider" means—
 
 (a) a financial service provider whose business is subject to regulation by the Bank under this Act or under a designated enactment or a designated statutory instrument,
 
@@ -154,23 +154,23 @@ European Parliament and of the Council on prudential requirements for credit ins
 
 (c) ...
 
-‘the regulations’ means regulations made by the Minister under section 61A and in force under this Act;
+"the regulations" means regulations made by the Minister under section 61A and in force under this Act;
 
 ...
 
-‘Rome Treaty’ means the Treaty on the Functioning of the European Union done at Rome on 25 March 1957, as amended by the Treaty of Lisbon amending the Treaty on European Union and the Treaty establishing the European Community signed at Lisbon on 13 December 2007;
+"Rome Treaty" means the Treaty on the Functioning of the European Union done at Rome on 25 March 1957, as amended by the Treaty of Lisbon amending the Treaty on European Union and the Treaty establishing the European Community signed at Lisbon on 13 December 2007;
 
-‘SRB’ means the Single Resolution Board established under Article 42 of the SRM Regulation;
+"SRB" means the Single Resolution Board established under Article 42 of the SRM Regulation;
 
-‘SRM Regulation’ means Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010;
+"SRM Regulation" means Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010;
 
-‘SSM Framework Regulation’ means Regulation (EU) No. 468/2014 of the European Central Bank of 16 April 2014 establishing the framework for co-operation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities;
+"SSM Framework Regulation" means Regulation (EU) No. 468/2014 of the European Central Bank of 16 April 2014 establishing the framework for co-operation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities;
 
-‘SSM Regulation’ means Council Regulation (EU) No. 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
+"SSM Regulation" means Council Regulation (EU) No. 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
 
-‘subsidiary company’ has the meaning given by section 2A;
+"subsidiary company" has the meaning given by section 2A;
 
-‘voting rights’ means—
+"voting rights" means—
 
 (a) in relation to a company that has a share capital, the rights conferred on shareholders by virtue of their shares, or
 
@@ -302,7 +302,9 @@ European Parliament and of the Council on prudential requirements for credit ins
 
 OJ, No L171, 29.6.2016, p. 1
 
-(be) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019.
+(be) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019;
+
+(bf) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020.
 
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
 
