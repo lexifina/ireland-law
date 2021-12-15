@@ -18,7 +18,7 @@ Interpretation (general).
 
 “information in non-legible form” includes information on microfilm, microfiche, magnetic tape or disk;
 
-‘sexual offence’ means rape, sexual assault (within the meaning of section 2 of the Criminal Law (Rape) (Amendment) Act 1990), aggravated sexual assault (within the meaning of section 3 of that Act), rape under section 4 of that Act or an offence under—
+"sexual offence" means rape, sexual assault (within the meaning of section 2 of the Criminal Law (Rape) (Amendment) Act 1990), aggravated sexual assault (within the meaning of section 3 of that Act), rape under section 4 of that Act or an offence under—
 
 (a) section 3 or 6 of the Criminal Law Amendment Act 1885,
 
