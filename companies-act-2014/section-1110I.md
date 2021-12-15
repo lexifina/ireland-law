@@ -18,6 +18,8 @@ Investment strategy of institutional investors and arrangements with asset manag
 
 (ii) take absolute long-term performance into account;
 
+6 OJ No. L 174, 1.7.2011, p. 1 5 OJ No. L 302, 17.11.2009, p. 32 2 OJ No. L 173, 12.6.2014, p. 349
+
 (d) how the relevant institutional investor monitors portfolio turnover costs incurred by the asset manager and how it defines and monitors a targeted portfolio turnover or turnover range;
 
 (e) the duration of the arrangement with the asset manager.

@@ -20,7 +20,7 @@ GENERAL RULES AND FORMATS
 
 GENERAL RULES
 
-2. (1) Group financial statements shall comply, except for any necessary modifications to take account of differences between group financial statements and entity financial statements, with the provisions of Schedule 3 as if the undertakings included in the consolidation (the 'group') were a single company.
+2. (1) Group financial statements shall comply, except for any necessary modifications to take account of differences between group financial statements and entity financial statements, with the provisions of Schedule 3 as if the undertakings included in the consolidation (the "group") were a single company.
 
 (2) In particular, for the purposes of paragraph 68 of Schedule 3 as it applies to group financial statements—
 
@@ -42,37 +42,37 @@ AMENDMENTS TO FORMATS IN SCHEDULE 3
 
 Non-controlling interests
 
-4. (1) In applying Balance Sheet Formats 1 and 2 set out in Part II of Schedule 3 to group financial statements a separate item under the heading 'Non-controlling Interests' shall be shown—
+4. (1) In applying Balance Sheet Formats 1 and 2 set out in Part II of Schedule 3 to group financial statements a separate item under the heading "Non-controlling Interests" shall be shown—
 
 (a) in Format 1 after item H, and
 
-(b) in Format 2 under the general heading 'CAPITAL, RESERVES AND LIABILITIES', between items A and B.
+(b) in Format 2 under the general heading "CAPITAL, RESERVES AND LIABILITIES", between items A and B.
 
-(2) The amount to be shown under the heading 'Non-controlling Interests' referred to in subparagraph (1) shall be the amount of share capital and reserves attributable to shares in subsidiary undertakings consolidated in the group financial statements held by or on behalf of persons other than the holding company and its subsidiary undertakings.
+(2) The amount to be shown under the heading "Non-controlling Interests" referred to in subparagraph (1) shall be the amount of share capital and reserves attributable to shares in subsidiary undertakings consolidated in the group financial statements held by or on behalf of persons other than the holding company and its subsidiary undertakings.
 
 5. (1) In applying Profit and Loss Account Formats 1 and 2 set out in Part II of Schedule 3 to group financial statements, the profit or loss for the year shown as—
 
 (a) in Format 1, item 16, and
 
-(b) in Format 2, item 18, shall be attributed between amounts due to 'Non-controlling Interests' and equity holders of the holding company.
+(b) in Format 2, item 18, shall be attributed between amounts due to "Non-controlling Interests" and equity holders of the holding company.
 
-(2) The amount to be shown under the heading 'Non-controlling Interests' in accordance with subparagraph (1) shall be the amount of any profit or loss for the year attributable to shares in subsidiary undertakings consolidated in the group financial statements held by or on behalf of persons other than the holding company and its subsidiary undertakings.
+(2) The amount to be shown under the heading "Non-controlling Interests" in accordance with subparagraph (1) shall be the amount of any profit or loss for the year attributable to shares in subsidiary undertakings consolidated in the group financial statements held by or on behalf of persons other than the holding company and its subsidiary undertakings.
 
 Other changes
 
 6. (1) The formats set out in Part II of Schedule 3 shall have effect in relation to group financial statements with the following modifications.
 
-(2) In the Balance Sheet Formats, the items headed 'Participating interests', that is—
+(2) In the Balance Sheet Formats, the items headed "Participating interests", that is—
 
 (a) in Format 1, item A.III.3, and
 
-(b) in Format 2, item A.III.3 under the heading 'ASSETS', shall be replaced by 2 items, 'Interests in associated undertakings' and 'Other participating interests'.
+(b) in Format 2, item A.III.3 under the heading "ASSETS", shall be replaced by 2 items, "Interests in associated undertakings" and "Other participating interests".
 
-(3) In the Profit and Loss Account Formats, the items headed 'Income from participating interests', that is—
+(3) In the Profit and Loss Account Formats, the items headed "Income from participating interests", that is—
 
 (a) in Format 1, item 8, and
 
-(b) in Format 2, item 10, shall be replaced by 2 items, 'Income from interests in associated undertakings' and 'Income from other participating interests'.
+(b) in Format 2, item 10, shall be replaced by 2 items, "Income from interests in associated undertakings" and "Income from other participating interests".
 
 PART III
 
@@ -116,7 +116,7 @@ Accounting for an acquisition
 
 12. (1) Paragraphs 13 to 16 apply where an undertaking becomes a subsidiary undertaking of the holding company.
 
-(2) That event is referred to in those provisions as an 'acquisition' and references to the undertaking acquired or acquired undertaking shall be read accordingly.
+(2) That event is referred to in those provisions as an "acquisition" and references to the undertaking acquired or acquired undertaking shall be read accordingly.
 
 13. An acquisition shall be accounted for by the acquisition method of accounting unless the conditions for accounting for it as a merger as set out in paragraph 15 are satisfied and the merger method of accounting is adopted.
 
@@ -130,9 +130,9 @@ Accounting for an acquisition
 
 (5) For the foregoing purpose—
 
-'acquisition cost' means the amount of any cash consideration and the fair value of any other consideration, together with such amounts (if any) in respect of fees and other expenses of the acquisition as the holding company may determine to have been incurred in relation to the acquisition;
+"acquisition cost" means the amount of any cash consideration and the fair value of any other consideration, together with such amounts (if any) in respect of fees and other expenses of the acquisition as the holding company may determine to have been incurred in relation to the acquisition;
 
-'adjusted capital and reserves of the undertaking acquired' means its capital and reserves at the date of the acquisition after adjusting the identifiable assets and liabilities of the undertaking to fair values as at that date.
+"adjusted capital and reserves of the undertaking acquired" means its capital and reserves at the date of the acquisition after adjusting the identifiable assets and liabilities of the undertaking to fair values as at that date.
 
 (6) The resulting amount—
 
@@ -164,7 +164,7 @@ Accounting for an acquisition
 
 (6) The resulting amount shall be shown as an adjustment to the consolidated reserves.
 
-(7) In subparagraph (5)(a), the 'appropriate amount' in respect of the shares issued shall be determined in accordance with the requirements of sections 71 to 75.
+(7) In subparagraph (5)(a), the "appropriate amount" in respect of the shares issued shall be determined in accordance with the requirements of sections 71 to 75.
 
 17. Where an acquisition has taken place in the financial year and the merger method of accounting has been adopted, the notes to the financial statements shall disclose—
 
@@ -190,13 +190,13 @@ ACCOUNTING FOR JOINT VENTURES AND ASSOCIATES IN GROUP FINANCIAL STATEMENTS
 
 Joint ventures
 
-20. (1) Where a holding company or one of its subsidiary undertakings consolidated in the group financial statements manages another undertaking jointly with one or more undertakings not consolidated in the group financial statements, that other undertaking (the 'joint venture') may, if it is not a subsidiary undertaking of the holding company, be proportionally consolidated in the group financial statements in proportion to the rights in its capital held by the holding company or the subsidiary undertakings consolidated in the group financial statements, as the case may be.
+20. (1) Where a holding company or one of its subsidiary undertakings consolidated in the group financial statements manages another undertaking jointly with one or more undertakings not consolidated in the group financial statements, that other undertaking (the "joint venture") may, if it is not a subsidiary undertaking of the holding company, be proportionally consolidated in the group financial statements in proportion to the rights in its capital held by the holding company or the subsidiary undertakings consolidated in the group financial statements, as the case may be.
 
 (2) The provisions of this Schedule relating to the preparation of consolidated financial statements shall apply, with any necessary modifications, to the inclusion of joint ventures in the consolidated financial statements by proportional consolidation in accordance with subparagraph (1).
 
 Associated undertakings
 
-21. (1) In paragraph 22, 'associated undertaking' means an undertaking in which an undertaking consolidated in the group financial statements has a participating interest and over whose operating and financial policy it exercises a significant influence and which is not—
+21. (1) In paragraph 22, 2associated undertaking" means an undertaking in which an undertaking consolidated in the group financial statements has a participating interest and over whose operating and financial policy it exercises a significant influence and which is not—
 
 (a) a subsidiary undertaking of the holding company, or
 
@@ -216,7 +216,7 @@ Associated undertakings
 
 Participating interest
 
-23. (1) Subject to subparagraph (5), in paragraph 21 and this paragraph, 'participating interest' means an interest held by one undertaking in the equity shares of another undertaking which it holds on a long term basis for the purpose of securing a contribution to that undertaking’s own activities by the exercise of control or influence arising from or related to that interest.
+23. (1) Subject to subparagraph (5), in paragraph 21 and this paragraph, "participating interest" means an interest held by one undertaking in the equity shares of another undertaking which it holds on a long term basis for the purpose of securing a contribution to that undertaking’s own activities by the exercise of control or influence arising from or related to that interest.
 
 (2) The reference in subparagraph (1) to an interest in equity shares includes—
 
@@ -228,7 +228,7 @@ Participating interest
 
 (4) For the purpose of this paragraph an interest held on behalf of an undertaking shall be treated as held by it.
 
-(5) In the balance sheet and profit and loss formats set out in Part II of Schedule 3, 'participating interest' does not include an interest in a group undertaking.
+(5) In the balance sheet and profit and loss formats set out in Part II of Schedule 3, "participating interest" does not include an interest in a group undertaking.
 
 PART IV
 
@@ -238,7 +238,7 @@ INFORMATION REQUIRED BY WAY OF NOTES TO GROUP FINANCIAL STATEMENTS
 
 25. Where sums originally denominated in currencies, other than the currency in which the group financial statements are presented, have been brought into account under any items shown in the balance sheet or profit and loss account, the basis on which those sums have been translated into the currency in which the group financial statements are presented shall be stated.
 
-26. In respect of the aggregate of the amounts shown in the group balance sheet under the heading 'creditors' there shall be stated the information required by paragraph 56 of Schedule 3 as if references in that paragraph to a company were to the company and its subsidiary undertakings taken as a whole.
+26. In respect of the aggregate of the amounts shown in the group balance sheet under the heading "creditors" there shall be stated the information required by paragraph 56 of Schedule 3 as if references in that paragraph to a company were to the company and its subsidiary undertakings taken as a whole.
 
 27. In relation to each joint venture proportionally consolidated, there shall be stated the nature of the joint management arrangement.
 
@@ -290,7 +290,7 @@ GENERAL RULES AND FORMATS
 
 GENERAL RULES
 
-2. (1) Group financial statements shall comply, except for any necessary modifications to take account of differences between group financial statements and entity financial statements, with the provisions of Schedule 3A as if the undertakings included in the consolidation (the 'group') were a single company.
+2. (1) Group financial statements shall comply, except for any necessary modifications to take account of differences between group financial statements and entity financial statements, with the provisions of Schedule 3A as if the undertakings included in the consolidation (the "group") were a single company.
 
 (2) In particular, for the purposes of paragraph 57 of Schedule 3A as it applies to group financial statements—
 
@@ -312,37 +312,37 @@ AMENDMENTS TO FORMATS IN SCHEDULE 3A
 
 Non-controlling interests
 
-4. (1) In applying Balance Sheet Formats 1 and 2 set out in Part II of Schedule 3A to group financial statements a separate item under the heading 'Non-controlling Interests' shall be shown—
+4. (1) In applying Balance Sheet Formats 1 and 2 set out in Part II of Schedule 3A to group financial statements a separate item under the heading "Non-controlling Interests" shall be shown—
 
 (a) in Format 1 after item H, and
 
-(b) in Format 2 under the general heading 'CAPITAL, RESERVES AND LIABILITIES', between items A and B.
+(b) in Format 2 under the general heading "CAPITAL, RESERVES AND LIABILITIES", between items A and B.
 
-(2) The amount to be shown under the heading 'Non-controlling Interests' referred to in subparagraph (1) shall be the amount of share capital and reserves attributable to shares in subsidiary undertakings consolidated in the group financial statements held by or on behalf of persons other than the holding company and its subsidiary undertakings.
+(2) The amount to be shown under the heading "Non-controlling Interests" referred to in subparagraph (1) shall be the amount of share capital and reserves attributable to shares in subsidiary undertakings consolidated in the group financial statements held by or on behalf of persons other than the holding company and its subsidiary undertakings.
 
 5. (1) In applying Profit and Loss Account Formats 1 and 2 set out in Part II of Schedule 3A to group financial statements the profit or loss for the year shown—
 
 (a) in Format 1, item 16, and
 
-(b) in Format 2, item 18, shall be attributed between amounts due to 'Non-controlling Interests' and equity holders of the holding company.
+(b) in Format 2, item 18, shall be attributed between amounts due to "Non-controlling Interests" and equity holders of the holding company.
 
-(2) The amount to be shown under the heading 'Non-controlling Interests' in accordance with subparagraph (1) shall be the amount of any profit or loss for the year attributable to shares in subsidiary undertakings consolidated in the group financial statements held by or on behalf of persons other than the holding company and its subsidiary undertakings.
+(2) The amount to be shown under the heading "Non-controlling Interests" in accordance with subparagraph (1) shall be the amount of any profit or loss for the year attributable to shares in subsidiary undertakings consolidated in the group financial statements held by or on behalf of persons other than the holding company and its subsidiary undertakings.
 
 Other changes
 
 6. (1) The formats set out in Part II of Schedule 3A shall have effect in relation to group financial statements with the following modifications.
 
-(2) In the Balance Sheet Formats, the items headed 'Participating interests', that is—
+(2) In the Balance Sheet Formats, the items headed "Participating interests", that is—
 
 (a) in Format 1, item A.III.3, and
 
-(b) in Format 2, item A.III.3 under the heading 'ASSETS', shall be replaced by 2 items, 'Interests in associated undertakings' and 'Other participating interests'.
+(b) in Format 2, item A.III.3 under the heading "ASSETS", shall be replaced by 2 items, "Interests in associated undertakings" and "Other participating interests".
 
-(3) In the Profit and Loss Account Formats, the items headed 'Income from participating interests', that is—
+(3) In the Profit and Loss Account Formats, the items headed "Income from participating interests", that is—
 
 (a) in Format 1, item 8, and
 
-(b) in Format 2, item 10, shall be replaced by 2 items, 'Income from interests in associated undertakings' and 'Income from other participating interests'.
+(b) in Format 2, item 10, shall be replaced by 2 items, "Income from interests in associated undertakings" and "Income from other participating interests".
 
 PART III
 
@@ -386,7 +386,7 @@ Accounting for an acquisition
 
 12. (1) Paragraphs 13 to 16 apply where an undertaking becomes a subsidiary undertaking of the holding company.
 
-(2) That event is referred to in those provisions as an 'acquisition' and references to the undertaking acquired or acquired undertaking shall be read accordingly.
+(2) That event is referred to in those provisions as an "acquisition" and references to the undertaking acquired or acquired undertaking shall be read accordingly.
 
 13. An acquisition shall be accounted for by the acquisition method of accounting unless the conditions for accounting for it as a merger as set out in paragraph 15 are satisfied and the merger method of accounting is adopted.
 
@@ -400,9 +400,9 @@ Accounting for an acquisition
 
 (5) For the foregoing purpose—
 
-'acquisition cost' means the amount of any cash consideration and the fair value of any other consideration, together with such amounts (if any) in respect of fees and other expenses of the acquisition as the holding company may determine to have been incurred in relation to the acquisition;
+"acquisition cost" means the amount of any cash consideration and the fair value of any other consideration, together with such amounts (if any) in respect of fees and other expenses of the acquisition as the holding company may determine to have been incurred in relation to the acquisition;
 
-'adjusted capital and reserves of the undertaking acquired' means its capital and reserves at the date of the acquisition after adjusting the identifiable assets and liabilities of the undertaking to fair values as at that date.
+"adjusted capital and reserves of the undertaking acquired" means its capital and reserves at the date of the acquisition after adjusting the identifiable assets and liabilities of the undertaking to fair values as at that date.
 
 (6) The resulting amount—
 
@@ -434,7 +434,7 @@ Accounting for an acquisition
 
 (6) The resulting amount shall be shown as an adjustment to the consolidated reserves.
 
-(7) In subparagraph (5)(a), the 'appropriate amount' in respect of the shares issued shall be determined in accordance with the requirements of sections 71 to 75.
+(7) In subparagraph (5)(a), the "appropriate amount" in respect of the shares issued shall be determined in accordance with the requirements of sections 71 to 75.
 
 17. Where an acquisition has taken place in the financial year and the merger method of accounting has been adopted, the notes to the financial statements shall disclose—
 
@@ -460,13 +460,13 @@ ACCOUNTING FOR JOINT VENTURES AND ASSOCIATES IN GROUP FINANCIAL STATEMENTS
 
 Joint ventures
 
-20. (1) Where a holding company or one of its subsidiary undertakings consolidated in the group financial statements manages another undertaking jointly with one or more undertakings not consolidated in the group financial statements, that other undertaking (the 'joint venture') may, if it is not a subsidiary undertaking of the holding company, be proportionally consolidated in the group financial statements in proportion to the rights in its capital held by the holding company or the subsidiary undertakings consolidated in the group financial statements, as the case may be.
+20. (1) Where a holding company or one of its subsidiary undertakings consolidated in the group financial statements manages another undertaking jointly with one or more undertakings not consolidated in the group financial statements, that other undertaking (the "joint venture") may, if it is not a subsidiary undertaking of the holding company, be proportionally consolidated in the group financial statements in proportion to the rights in its capital held by the holding company or the subsidiary undertakings consolidated in the group financial statements, as the case may be.
 
 (2) The provisions of this Schedule relating to the preparation of consolidated financial statements shall apply, with any necessary modifications, to the inclusion of joint ventures in the consolidated financial statements by proportional consolidation in accordance with subparagraph (1).
 
 Associated undertakings
 
-21. (1) In paragraph 22, 'associated undertaking' means an undertaking in which an undertaking consolidated in the group financial statements has a participating interest and over whose operating and financial policy it exercises a significant influence and which is not—
+21. (1) In paragraph 22, "associated undertaking" means an undertaking in which an undertaking consolidated in the group financial statements has a participating interest and over whose operating and financial policy it exercises a significant influence and which is not—
 
 (a) a subsidiary undertaking of the holding company, or
 
@@ -486,7 +486,7 @@ Associated undertakings
 
 Participating interest
 
-23. (1) Subject to subparagraph (5), in paragraph 21 and this paragraph 'participating interest' means an interest held by one undertaking in the equity shares of another undertaking which it holds on a long term basis for the purpose of securing a contribution to that undertaking’s own activities by the exercise of control or influence arising from or related to that interest.
+23. (1) Subject to subparagraph (5), in paragraph 21 and this paragraph "participating interest" means an interest held by one undertaking in the equity shares of another undertaking which it holds on a long term basis for the purpose of securing a contribution to that undertaking’s own activities by the exercise of control or influence arising from or related to that interest.
 
 (2) The reference in subparagraph (1) to an interest in equity shares includes—
 
@@ -498,7 +498,7 @@ Participating interest
 
 (4) For the purpose of this paragraph an interest held on behalf of an undertaking shall be treated as held by it.
 
-(5) In the balance sheet and profit and loss formats set out in Part II of Schedule 3A, 'participating interest' does not include an interest in a group undertaking.
+(5) In the balance sheet and profit and loss formats set out in Part II of Schedule 3A, "participating interest" does not include an interest in a group undertaking.
 
 PART IV
 
@@ -508,7 +508,7 @@ INFORMATION REQUIRED BY WAY OF NOTES TO GROUP FINANCIAL STATEMENTS
 
 25. Where sums originally denominated in currencies, other than the currency in which the group financial statements are presented, have been brought into account under any items shown in the balance sheet or profit and loss account, the basis on which those sums have been translated into the currency in which the group financial statements are presented shall be stated.
 
-26. In respect of the aggregate of the amounts shown in the group balance sheet under the heading 'creditors', there shall be stated the information required by paragraph 50 of Schedule 3A as if references in that paragraph to a company were to the company and its subsidiary undertakings taken as a whole.
+26. In respect of the aggregate of the amounts shown in the group balance sheet under the heading "creditors", there shall be stated the information required by paragraph 50 of Schedule 3A as if references in that paragraph to a company were to the company and its subsidiary undertakings taken as a whole.
 
 27. In relation to each joint venture proportionally consolidated, there shall be stated the nature of the joint management arrangement.
 

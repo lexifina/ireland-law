@@ -20,6 +20,8 @@ Transparency of asset managers
 
 (3) The disclosure referred to in subsection (1) shall also include information on—
 
+11 OJ No. L 335, 17.12.2009, p. 1
+
 (a) whether and, if so, how the relevant asset manager makes investments decisions based on its evaluation of medium to long-term performance of the investee company, including non-financial performance, and
 
 (b) whether and, if so, which conflicts of interest have arisen in connection with engagement activities and how the asset manager has dealt with them.

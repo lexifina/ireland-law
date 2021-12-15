@@ -47,3 +47,5 @@ Engagement policy - institutional investors
 (8) Where an asset manager implements an engagement policy on behalf of a relevant institutional investor, and such implementation involves the casting of a vote by that asset manager on behalf of the relevant institutional investor, the relevant institutional investor shall publicly disclose where the asset manager has published information regarding the casting of that vote.
 
 (9) A requirement in this section to publicly disclose any matter shall be read as a requirement to make the matter available free of charge on the website of the relevant institutional investor that is subject to the requirement.
+
+6 OJ No. L 174, 1.7.2011, p. 1 5 OJ No. L 302, 17.11.2009, p. 32 2 OJ No. L 173, 12.6.2014, p. 349

@@ -140,7 +140,7 @@ Individual identification number and storage of information in electronic form
 
 Definition
 
-5. In this Schedule, ‘address’, in relation to an individual, firm or entity, means the individual’s, firm’s or entity’s usual business address.
+5. In this Schedule, "address", in relation to an individual, firm or entity, means the individual’s, firm’s or entity’s usual business address.
 
 Schedule 21
 
@@ -226,4 +226,4 @@ Gross Capital Test
 
 (a) figures used must be, for shares and debt security aggregated for the purposes of the gross capital percentage ratio, the aggregate market value of all those shares (or if not available before the announcement, their nominal value) and the issue amount of the debt security, and
 
-(b) for shares and debt security aggregated for the purposes of paragraph (3)(b) above, any treasury shares held by the company are not to be taken into account.
+(b) for shares and debt security aggregated for the purposes of paragraph (3)(b) above, any treasury shares held by the company are not to be taken into account. Number 38 of

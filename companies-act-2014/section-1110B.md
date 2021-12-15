@@ -10,7 +10,7 @@ Identification of shareholders
 
 (c) A traded PLC may nominate a third party to make a request on its behalf.
 
-(d) In this section, ‘request’ means a request under paragraph (a), and ‘requester’ means the person making the request.
+(d) In this section, "request" means a request under paragraph (a), and "requester" means the person making the request.
 
 (2) (a) An intermediary that receives a request and is in possession or control of the information to which that request relates shall, as soon as practicable, provide the requester with that information.
 
@@ -29,6 +29,8 @@ Identification of shareholders
 (II) is in possession or control of the information to which that request relates.
 
 (ii) An intermediary to which this subparagraph applies, shall, as soon as practicable, provide the information to which the request relates—
+
+10 OJ No. L 223, 4.9.2018, p. 1
 
 (I) where the requester has made a statement under subsection (1)(b), to the intermediary that transmitted the request in accordance with subsection (2)(b), or
 

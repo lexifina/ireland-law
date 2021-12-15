@@ -36,13 +36,13 @@ Transparency and approval of related party transactions
 
 (iv) transactions offered to all shareholders on the same terms where equal treatment of all shareholders and protection of the interests of the traded PLC are ensured.
 
-(b) In subparagraph (iii) of paragraph (a), ‘director’ has the same meaning as it has in section 1110M.
+(b) In subparagraph (iii) of paragraph (a), "director" has the same meaning as it has in section 1110M.
 
 (6) (a) The directors of a traded PLC shall, as soon as practicable, establish an internal procedure to assess whether or not transactions are entered into in the ordinary course of business and concluded on normal market terms for the purposes of paragraph (5)(a)(i).
 
 (b) A related party shall not take part in an assessment under this subsection.
 
-(c) Notwithstanding section 1110L(2), in this subsection ‘directors’ shall be interpreted in accordance with section 2(1).
+(c) Notwithstanding section 1110L(2), in this subsection "directors" shall be interpreted in accordance with section 2(1).
 
 (7) When a related party of a traded PLC enters into a material transaction with a subsidiary of that traded PLC, the traded PLC shall publicly announce the material transaction no later than at the conclusion of the transaction.
 
@@ -58,12 +58,10 @@ Transparency and approval of related party transactions
 
 (11) In this section—
 
-12 OJ No. L 173, 12.6.2014, p.1
+"class test" means any one of the 4 tests set out in Schedule 21;
 
-‘class test’ means any one of the 4 tests set out in Schedule 21;
+"material transaction" means a transaction in which any percentage ratio, calculated in accordance with one or more class tests, is 5% or more;
 
-‘material transaction’ means a transaction in which any percentage ratio, calculated in accordance with one or more class tests, is 5% or more;
+"percentage ratio" means, in relation to a transaction, a figure, expressed as a percentage, that results from applying a calculation under a class test to the transaction;
 
-‘percentage ratio’ means, in relation to a transaction, a figure, expressed as a percentage, that results from applying a calculation under a class test to the transaction;
-
-‘related party transaction’ means a transaction between a traded PLC and its related party.
+"related party transaction" means a transaction between a traded PLC and its related party.

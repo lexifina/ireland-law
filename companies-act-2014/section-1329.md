@@ -12,6 +12,8 @@ Cases in which unregistered company shall be deemed to be unable to pay its debt
 
 (iii) by serving otherwise in such manner as the court may approve or direct, a demand in writing requiring the company to pay the sum so due, and
 
+1 OJ No. L 345, 27.12.2017, p. 96. 17 OJ No, L150, 7.6.2019, p. 296
+
 (b) the company has, for 21 days after the date of the service of the demand, neglected to pay the amount or to secure or compound for it to the satisfaction of the creditor.
 
 (3) This subsection relates to a case in which—
