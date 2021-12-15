@@ -12,7 +12,7 @@ Item Provision Amendment affected
 
 (a) substitute the following for paragraph (c):
 
-“(c) the child has been maintained in the care of the Health Service Executive under section 4 (as amended by section 4 of the Child Care (Amendment) Act 2011) of the Child Care Act 1991 or the Child and Family Agency.”,
+“source id="70841" type="amends" mark="start"(c) the child has been maintained in the care of the Health Service Executive under section 4 (as amended by section 4 of the Child Care (Amendment) Act 2011) of the Child Care Act 1991 or the Child and Family Agency.”,
 
 (b) insert “or the Child and Family Agency” after “pay to the Health Service Executive” and
 
@@ -22,7 +22,9 @@ Item Provision Amendment affected
 
 PART 2
 
-Family Law (Maintenance of Spouses and Children) Act 1976 Item Provision affected Amendment
+Family Law (Maintenance of Spouses and Children) Act 1976
+
+Item Provision affected Amendment
 
 1. Section 16 In subsection (1), insert “the Child and Family Agency,” after “the Health Service Executive,”.
 
@@ -58,11 +60,9 @@ Item Provision Amendment affected
 
 “A child who was taken into care under this section by the Health Service Executive before the coming into operation of the Child and Family Agency Act 2013 and who is in the care of the Health Service Executive immediately before the establishment day of that Agency shall be deemed to have been taken into care by the Agency and to be in its care on and from that day.”.
 
-5. Section 7 (a) Substitute the following for subsection (1):
+5. Section 7 (a) Substitute the following for subsection (1): Item Provision Amendment affected
 
-“(1) The Child and Family Agency shall establish one or more child care advisory committees to advise the Agency on the performance of its functions under this Act and the Item Provision Amendment affected
-
-Agency shall consider and have regard to any advice so tendered to it.
+“(1) The Child and Family Agency shall establish one or more child care advisory committees to advise the Agency on the performance of its functions under this Act and the Agency shall consider and have regard to any advice so tendered to it.
 
 (1A) A child care advisory committee that, before the amendment of this section by the Child and Family Agency Act 2013, was established for a functional area of the Executive and that was in existence immediately before the establishment of the Child and Family Agency shall be deemed to have been established by the Agency in compliance with subsection (1) of this section.”.
 
@@ -90,7 +90,7 @@ Agency shall consider and have regard to any advice so tendered to it.
 
 (a) each child care advisory committee, and
 
-(b) such bodies as the Agency sees fit whose purposes include the provision of child care and family support services, and shall have regard to any views or information furnished by such committees or bodies in the preparation of the report.”. Item Provision Amendment affected
+(b) such bodies as the Agency sees fit whose purposes include the provision of child care and family support services, Item Provision Amendment affected and shall have regard to any views or information furnished by such committees or bodies in the preparation of the report.”.
 
 7. Section 9 Substitute the following for subsection (2):
 
@@ -110,7 +110,11 @@ Agency shall consider and have regard to any advice so tendered to it.
 
 (c) subsections (3) and (4) apply as though all of the investigation had been undertaken and completed by the Agency.”.
 
-10. Section (a) Substitute the following for subsection (4): 23B “(4) Notwithstanding subsection (3) and subject to subsection (5), the Child and Family Agency may, for the purposes of this Part, enter into an arrangement with a person under section 58 of the Child and Family Agency Act 2013 (relating to arrangements with service providers) in respect of the provision by that person of special care and the provision, maintenance and administration of a special care unit.”. Item Provision Amendment affected
+10. Section (a) Substitute the following for subsection (4): 23B “(4) Notwithstanding subsection (3) and subject to subsection (5), the Child and Family Agency may, for the purposes of this Part, enter into an arrangement with a person under section 58 of the Child and Family Agency
+
+Act 2013
+
+(relating to arrangements with service providers) in respect of the provision by that person of special care and the provision, maintenance and administration of a special care unit.”. Item Provision Amendment affected
 
 (b) In subsection (5), substitute “section 58 of the Child and Family Agency Act 2013” for “section 38 (as amended by the Act of 2007) of the Health Act 2004)”.
 
@@ -128,9 +132,9 @@ Agency shall consider and have regard to any advice so tendered to it.
 
 15. Section Insert the following after subsection (2): 46 “(2A) A request made by the Health Service Executive to the Garda Síochána under subsection (2) before the establishment of the Child and Family Agency shall be deemed to have been made by the Child and Family Agency if the child in respect of whom the request was made is not delivered up to the Health Service Executive before the establishment day of the Agency.”.
 
-16. Section Substitute— 59 (a) in the definition of “children’s residential centre”, “the Child and Family Agency” for “the Health Service Executive” in each place where it occurs, and Item Provision Amendment affected
+16. Section Substitute— 59 (a) in the definition of “children’s residential centre”, “the Child and Family Agency” for “the Health Service Executive” in each place where it occurs, and
 
-(b) the following for the definition of “register”:
+(b) the following for the definition of “register”: Item Provision Amendment affected
 
 “‘register’ means a register of children’s residential centres that is established or deemed to have been established by the Child and Family Agency under section 61, and cognate words shall be construed accordingly;”.
 
@@ -148,15 +152,15 @@ Agency shall consider and have regard to any advice so tendered to it.
 
 PART 5
 
-Child Abduction and Enforcement of Custody Orders Act 1991 Item Provision affected Amendment
+Child Abduction and Enforcement of Custody Orders Act 1991
+
+Item Provision affected Amendment
 
 1. Whole Act Substitute “Child and Family Agency” for “Health Service Executive” in each place where it occurs.
 
 PART 6
 
-Family Law Act 1995
-
-Item Provision affected Amendment
+Family Law Act 1995 Item Provision affected Amendment
 
 1. Section 47(1)(b) In subsection (1)(b) substitute “Child and Family Agency” for “Health Service Executive” in each place where it occurs.
 
@@ -184,7 +188,7 @@ Item Provision Amendment affected
 
 1. Section 2 (a) In subsection (1) in the definition of “director”, substitute “, the Health Service Executive, the Child and Family Agency” for “or the Health Service Executive”.
 
-(b) In subsection (1) in paragraph (ix) of the definition of “personal information”, substitute “the Health Service Executive, the Child and Family Agency” for “Health Service Executive”. Item Provision Amendment affected
+(b) In subsection (1) in paragraph (ix) of the definition of “personal information”, substitute “the Health Service Executive, the Child and Family Agency” for “Health Service Executive”.
 
 2. Section 15 In subsection (2), substitute the following for paragraphs (c) and (d):
 
@@ -192,7 +196,7 @@ Item Provision Amendment affected
 
 (d) in the case of the Child and Family Agency, 6 months after the establishment day of that body, and
 
-(e) in case the body is a body standing prescribed under section 3 for the purposes of subparagraph (5) of paragraph (1) of the First Schedule, upon such prescription.”.
+(e) in case the body is a body standing prescribed under section 3 for the purposes of subparagraph (5) of paragraph (1) of the First Schedule, upon such prescription.”. Item Provision Amendment affected
 
 3. Section 16 In subsection (2), substitute the following for paragraphs (c) and (d):
 
@@ -222,11 +226,9 @@ Item Provision Amendment affected
 
 2. Section 2 Substitute the following for section 2:
 
-“2. (1) The Health Service Executive and the Child and Family Agency shall from time to time as occasion may require Item Provision Amendment affected
+“2. (1) The Health Service Executive and the Child and Family Agency shall from time to time as occasion may require (including a case in which a direction is given under this section), appoint one or more employees of the Health Service Executive or of the Child and Family Agency as the case may be, to be a designated officer or officers for the purposes of this Act; in making any such appointment, the Health Service Executive and the Child and Family Agency shall comply with any direction under this section for the time being in force.
 
-(including a case in which a direction is given under this section), appoint one or more employees of the Health Service Executive or of the Child and Family Agency as the case may be, to be a designated officer or officers for the purposes of this Act; in making any such appointment, the Health Service Executive and the Child and Family Agency shall comply with any direction under this section for the time being in force.
-
-(2) The Minister may, with the consent of the Minister for Health, give a direction in writing to the Health Service Executive or the Minister may give a direction in writing to the Child and Family Agency requiring it to appoint to be designated officers each person falling within a category or categories of employee of the Health Service Executive or the Child and Family Agency specified in the direction.
+(2) The Minister may, with the consent of the Minister for Health, give a direction in writing to the Health Service Executive or the Minister may give a direction in writing to the Child and Family Agency requiring it to appoint to Item Provision Amendment affected be designated officers each person falling within a category or categories of employee of the Health Service Executive or the Child and Family Agency specified in the direction.
 
 (3) The Minister may give a direction in writing to the Health Service Executive or the Child and Family Agency amending or revoking a direction given to it under this section (including a direction under this subsection).”.
 
@@ -246,7 +248,9 @@ Item Provision affected Amendment
 
 PART 12
 
-Immigration Act 1999 Item Provision affected Amendment
+Immigration Act 1999
+
+Item Provision affected Amendment
 
 1. Section 5 (as amended by section In subsection (4)(c), substitute “Child 75 of the Health Act 2004) and Family Agency” for “Health Service Executive”.
 
@@ -256,7 +260,7 @@ Education (Welfare) Act 2000
 
 Item Provision affected Amendment
 
-1. Whole Act Substitute “Child and Family Agency” for “Board” in each place where it occurs.
+1. Whole Act Substitute “Child and Family Agency” for “Board” in each place where it occurs. Item Provision affected Amendment
 
 2. Section 2 Delete the definitions of “Board” and “Chief Executive”.
 
@@ -284,13 +288,11 @@ Agency Act 2013
 
 (3) Where a direction given by the Health Service Executive under section 7(3) to a family welfare conference is not complied with before the establishment day of the Child and Family Agency, the direction shall be deemed to have been given by the Agency.
 
-(4) Where a recommendation has been made or a matter has been referred to the Health Service Executive by a family welfare conference under section 8 and all Item Provision Amendment affected matters relating to or arising from the conference proceedings relating to the child concerned have not been concluded under this Act or the Child Care Act 1991 before the establishment day of the Child and Family Agency, the recommendation shall be deemed for the purposes of this Act and the Child Care Act 1991 to have been made or the matter referred to the Agency.”.
+(4) Where a recommendation has been made or a matter has been referred to the Health Service Executive by a family welfare conference under section 8 and all matters relating to or arising from the conference proceedings relating to the child concerned have not been concluded under this Act or the Child Care Act 1991 before the establishment day of the Child and Family Agency, the recommendation shall be deemed for the purposes of this Act and the Child Care Act 1991 to have been made or the matter referred to the Agency.”.
 
 PART 15
 
-Local Government Act 2001
-
-Item Provision Amendment affected
+Local Government Act 2001 Item Provision Amendment affected
 
 1. Section 2 Substitute the following for paragraph (g) in the definition of “public authority”:
 
@@ -324,9 +326,7 @@ Item Provision affected Amendment
 
 PART 18
 
-Immigration Act 2003
-
-Item Provision affected Amendment
+Immigration Act 2003 Item Provision affected Amendment
 
 1. Section 5 (amended by section 75 In subsection (2)(d), substitute “Child of the Health Act 2004) and Family Agency” for “Health Service Executive”.
 
@@ -348,13 +348,13 @@ Item Provision Amendment affected
 
 (a) does not contain any information required to be included in the service plan pursuant to subsection (4),
 
-(b) does not in some other respect comply with subsection (4), Item Provision Amendment affected
+(b) does not in some other respect comply with subsection (4),
 
 (c) has been prepared by the Executive without sufficient regard to the matters referred to in subsection (5), or
 
 (d) does not accord with the policies and objectives of the Minister or the Government to the extent that those policies and objectives relate to the functions of the Executive and have been communicated in writing to the Executive prior to the commencement of the specified period.”.
 
-3. Section 32(5) In subsection (5), by substituting “the Minister may—” for “the Minister may, having consulted with the Minister for Children and Youth Affairs—”.
+3. Section 32(5) In subsection (5), by substituting “the Minister may—” for “the Minister may, having consulted with the Minister for Children and Youth Affairs—”. Item Provision Amendment affected
 
 4. Section By substituting “or as the Minister may specify.” for “as the 37(2)(g) Minister may, having consulted with the Minister for Children and Youth Affairs, may specify.”.
 
@@ -378,7 +378,7 @@ Item Provision Amendment affected
 
 (b) In subsection (2), by substituting “the Minister to furnish a person referred to in subsection (1) with information” for “the Minister or the Minister for Children and Youth Affairs to furnish a person referred to in subsection (1) or, as the case may be, subsection (1A), with information”.
 
-(c) In subsection (3), by substituting “the Minister from furnishing a person referred to in subsection (1) with information” for “the Minister or the Minister for Children and Youth Affairs from furnishing a Item Provision Amendment affected person referred to in subsection (1) or, as the case may be, subsection (1A), with information”.
+(c) In subsection (3), by substituting “the Minister from furnishing a person referred to in subsection (1) with information” for “the Minister or the Minister for Children and Youth Affairs from furnishing a person referred to in subsection (1) or, as the case may be, subsection (1A), with information”.
 
 (d) In subsection (4)(a), by substituting “the Minister from furnishing a person referred to in subsection (1) with information” for “the Minister or the Minister for Children and Youth Affairs from furnishing a person referred to in subsection (1) or, as the case may be, subsection (1A), with information”.
 
@@ -410,7 +410,7 @@ Item Provision Amendment affected
 
 (ii) to persons with disabilities, in relation to their disabilities, or
 
-(iii) to other dependent persons, in relation to their dependencies, Item Provision Amendment affected or
+(iii) to other dependent persons, in relation to their dependencies, or
 
 (b) that is a special care unit,
 
@@ -424,7 +424,7 @@ Item Provision Amendment affected
 
 (iv) an institution primarily used for the provision of educational, cultural, recreational, leisure, social or physical activities;
 
-(v) a children detention school as defined in section 3 of the Children Act 2001;”,
+(v) a children detention school as defined in section 3 of the Children Act 2001;”, Item Provision Amendment affected
 
 (c) substitute the following for the definition of “service provider”:
 
@@ -444,7 +444,7 @@ Item Provision Amendment affected
 
 (a) subject to this Act and to the extent practicable, to further the Authority’s object;
 
-(b) to set standards on safety and quality in relation to— Item Provision Amendment affected
+(b) to set standards on safety and quality in relation to—
 
 (i) services provided by the Executive, the Agency or a service provider in accordance with—
 
@@ -454,7 +454,9 @@ Item Provision Amendment affected
 
 (III) the Children Act 2001, and
 
-(ii) services provided by a nursing home as defined in section 2 of the Health (Nursing Homes) Act 1990, in this section called the “services”, and advise the Minister, the Minister for Children and Youth Affairs, the Agency and the Executive as may be appropriate in relation to the particular service in respect of which the standards are set.”,
+(ii) services provided by a nursing home as defined in section 2 of the Health (Nursing Homes) Act 1990, in this section called the “services”, and advise the Item Provision Amendment affected
+
+Minister, the Minister for Children and Youth Affairs, the Agency and the Executive as may be appropriate in relation to the particular service in respect of which the standards are set.”,
 
 (ii) in paragraph (c) insert “and the Agency’s” after “the Executive’s” and substitute “the Minister, the Minister for Children and Youth Affairs, the Executive and the Agency accordingly;” for “the Minister and the Executive accordingly;”,
 
@@ -464,7 +466,7 @@ Item Provision Amendment affected
 
 (v) in paragraph (k) substitute “the Executive, the Agency and service providers” for “the Executive and service providers”,
 
-(vi) in paragraph (l) substitute “the Minister, the Minister for Children and Youth Affairs, the Executive and the Agency” for “the Minister and the Executive”. Item Provision Amendment affected
+(vi) in paragraph (l) substitute “the Minister, the Minister for Children and Youth Affairs, the Executive and the Agency” for “the Minister and the Executive”.
 
 (b) In subsection (2)(c) substitute “the Executive and the Agency,” for “the Executive,”.
 
@@ -484,7 +486,7 @@ Item Provision Amendment affected
 
 (v) the registered provider of a designated centre to which paragraphs (a)(ii), (iii) or (c) of the definition of designated centre applies,
 
-(vi) the registered provider of a designated centre to which paragraphs (a)(i) or (b) of the definition of designated centre applies,
+(vi) the registered provider of a designated centre to which paragraphs (a)(i) or (b) of the definition of designated centre applies, Item Provision Amendment affected
 
 (vii) the person in charge of a designated centre referred to in subparagraph (v), if other than its registered provider,
 
@@ -498,7 +500,7 @@ Item Provision Amendment affected
 
 (b) the risk may be the result of any act, failure or negligence of the kind mentioned in paragraph (b)(i), (iii), (v) or (vii) of subsection (1), require the Authority to undertake an investigation in accordance with this section.
 
-(2A) The Minister for Children and Youth Affairs may, if he or she believes on reasonable grounds that— Item Provision Amendment affected
+(2A) The Minister for Children and Youth Affairs may, if he or she believes on reasonable grounds that—
 
 (a) there is a serious risk of the kind mentioned in paragraph (a)(i) of subsection (1), and
 
@@ -506,7 +508,7 @@ Item Provision Amendment affected
 
 4. Section In subsection (2), substitute “it shall submit the proposed standards 10 to the Minister for approval and, where the standards relate to services provided under the Child and Family Agency Act 2013, the Minister shall not approve the proposed standards without the consent of the Minister for Children and Youth Affairs” for “it shall submit the proposed standards to the Minister for approval”.
 
-5. Section (a) Substitute “the Executive, the Agency or a service 12 provider” for “the Executive or a service provider”.
+5. Section (a) Substitute “the Executive, the Agency or a service provider” 12 for “the Executive or a service provider”.
 
 (b) Substitute “the Executive, the Agency or by the service provider” for “the Executive or by the service provider”.
 
@@ -514,7 +516,9 @@ Item Provision Amendment affected
 
 7. Section In subsection (1), substitute the following for paragraph (a): 41 “(a) inspect the performance by the Executive of the Executive’s functions under section 10 of the Health (Nursing Homes) Act 1990 and the performance by the Agency of the Agency’s functions under sections 39 to 42 and 53 of the Child Care Act 1991,”.
 
-8. Section (a) Substitute the following for subsection (1): 45 “(1) The Minister, by written direction, may require the Executive to carry out inspections of nursing homes as defined in section 2 of the Health (Nursing Homes) Act 1990 and the Minister for Children and Youth Affairs, by written direction, may require the Agency to carry out inspections of children’s residential centres, as defined in section 2(1) of the Child Care Act 1991, which are provided in accordance with section 38(1) of that Act.”.
+8. Section (a) Substitute the following for subsection (1): 45 Item Provision Amendment affected
+
+“(1) The Minister, by written direction, may require the Executive to carry out inspections of nursing homes as defined in section 2 of the Health (Nursing Homes) Act 1990 and the Minister for Children and Youth Affairs, by written direction, may require the Agency to carry out inspections of children’s residential centres, as defined in section 2(1) of the Child Care Act 1991, which are provided in accordance with section 38(1) of that Act.”.
 
 (b) In subsections (2) to (5), substitute “Executive or the Agency” for “Executive” wherever it occurs.
 
@@ -524,7 +528,7 @@ Item Provision Amendment affected
 
 11. Section In subsection (3), substitute “Executive or the Agency as the case 68 may be” for “Executive”wherever it occurs.
 
-12. Section (a) In subsection (1), substitute “Executive or the Agency as 71 the case may be” for “Executive”. Item Provision Amendment affected
+12. Section (a) In subsection (1), substitute “Executive or the Agency as the 71 case may be” for “Executive”.
 
 (b) In subsection (2), substitute the following for paragraph (a):
 
@@ -536,7 +540,7 @@ Item Provision Amendment affected
 
 (iii) arrangements under section 56 or 58 of the Child and Family Agency Act 2013.”.
 
-13. Section (a) In subsection (1)(i), substitute “Executive, the Agency 73 or a service provider,” for “Executive or a service provider”.
+13. Section (a) In subsection (1)(i), substitute “Executive, the Agency or a 73 service provider,” for “Executive or a service provider”.
 
 (b) In subsection (2)—
 
@@ -550,7 +554,7 @@ Item Provision Amendment affected
 
 15. Section Insert “, having consulted the Minister for Children and Youth Affairs 99 as may be appropriate,” after “the Minister”.
 
-16. Section Insert “, having consulted the Minister for Children and Youth Affairs 100 as may be appropriate,” after “The Minister”.
+16. Section Insert “, having consulted the Minister for Children and Youth Affairs 100 as may be appropriate,” after “The Minister”. Item Provision Amendment affected
 
 17. Section In subsection (1)(a) insert “, having consulted the Minister for 101 Children and Youth Affairs as may be appropriate,” after “the Minister”.
 
