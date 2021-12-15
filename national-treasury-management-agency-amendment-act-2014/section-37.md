@@ -14,7 +14,7 @@ Interpretation
 
 “directed investment” means—
 
-(a) an investment made by the Agency pursuant to a direction under section 42, 42A or 47(4)(b) or the proceeds held by the Agency pursuant to a direction under section 47(4)(c),
+(a) an investment made by the Agency pursuant to a direction under section 42, 42A, 42B or 47(4)(b) or the proceeds held by the Agency pursuant to a direction under section 47(4)(c);
 
 (b) a shareholding or other interest that the Agency holds as a result of underwriting an issue of securities pursuant to such a direction,
 
