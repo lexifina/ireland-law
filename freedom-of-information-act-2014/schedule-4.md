@@ -32,4 +32,6 @@ Statutory Instruments
 
 Citation Short title Extent of repeal
 
-(1) (2) (3) S.I. No. 128 of 2001 Freedom of Information Act 1997 The entire instrument. (Prescribed Bodies) (No. 3) Regulations 2001.
+(1) (2) (3)
+
+S.I. No. 128 of 2001 Freedom of Information Act 1997 The entire instrument. (Prescribed Bodies) (No. 3) Regulations 2001.
