@@ -4,7 +4,11 @@ Amendment of Child Care Act 1991
 
 92. The Child Care Act 1991 is amended by the insertion of the following after Part VII:
 
-“PART VIIA Supervision of Early Years Services Definitions for this Part
+“PART VIIA
+
+Supervision of Early Years Services
+
+Definitions for this Part
 
 58A. In this Part—
 
