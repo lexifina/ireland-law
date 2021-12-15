@@ -2,13 +2,13 @@ Provisions that apply when recognised accountancy body is not able to perform Pa
 
 931B. (1) In this section—
 
-‘recognised accountancy body A’ means a recognised accountancy body which is not able to perform, either in all cases or in a particular case, one or more than one Part 27 function by virtue of section 930(1A) or a section 931 notice;
+"recognised accountancy body A" means a recognised accountancy body which is not able to perform, either in all cases or in a particular case, one or more than one Part 27 function by virtue of section 930(1A) or a section 931 notice;
 
-‘recognised accountancy body B’ means a recognised accountancy body which is able to perform, in all cases, the relevant Part 27 function by virtue of its recognition under section 930 or a section 931 notice;
+"recognised accountancy body B" means a recognised accountancy body which is able to perform, in all cases, the relevant Part 27 function by virtue of its recognition under section 930 or a section 931 notice;
 
-‘relevant members’, in relation to a relevant Part 27 function, means the statutory auditors or potential statutory auditors of recognised accountancy body A in relation to whom that body is not able to perform that function;
+"relevant members", in relation to a relevant Part 27 function, means the statutory auditors or potential statutory auditors of recognised accountancy body A in relation to whom that body is not able to perform that function;
 
-‘relevant Part 27 function’ means that one or more than one Part 27 function referred to in the definition of ‘recognised accountancy body A’.
+"relevant Part 27 function" means that one or more than one Part 27 function referred to in the definition of "recognised accountancy body A".
 
 (2) The following provisions shall apply in the case of the relevant Part 27 function and the relevant members:
 

@@ -12,4 +12,4 @@ Use to which information may be put
 
 (b) Such authorities or bodies shall not be prevented from communicating, to the Supervisory Authority, information that the Supervisory Authority may need in order to perform its functions under Regulation (EU) No 537/2014.
 
-(4) In this section, ‘relevant information’ means information that the Supervisory Authority or a recognised accountancy body receives pursuant to the cooperation or exchange of information that is required of counterpart authorities of Member States in this Chapter.
+(4) In this section, "relevant information" means information that the Supervisory Authority or a recognised accountancy body receives pursuant to the cooperation or exchange of information that is required of counterpart authorities of Member States in this Chapter.

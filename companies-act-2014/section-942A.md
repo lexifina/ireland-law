@@ -8,4 +8,4 @@ Liability of prescribed body for acts, omissions etc.
 
 (2) Subsection (1) applies to the issuing of accounting standards.
 
-(3) In this section, ‘prescribed body’ means a body prescribed under section 943(1)(h).
+(3) In this section, "prescribed body" means a body prescribed under section 943(1)(h).

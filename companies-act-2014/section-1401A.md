@@ -18,8 +18,8 @@ Filing of financial statements by investment company
 
 (4) Section 376 shall apply to an investment company as if the following subsection were substituted for subsection (1):
 
-‘(1) This section has effect where the directors of an investment company have prepared revised financial statements or a revised directors’ report under section 366 and a copy of the original statutory financial statements or directors’ report, has been delivered to the Registrar under section 1401A.’.
+"(1) This section has effect where the directors of an investment company have prepared revised financial statements or a revised directors’ report under section 366 and a copy of the original statutory financial statements or directors’ report, has been delivered to the Registrar under section 1401A.".
 
 (5) If an investment company fails to comply with the requirements of this section, the company and any officer of it who is in default shall be guilty of a category 3 offence.
 
-(6) In subsection (5), ‘officer’ includes any shadow director and de facto director.
+(6) In subsection (5), "officer" includes any shadow director and de facto director.

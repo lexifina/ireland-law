@@ -32,7 +32,7 @@ No. 30 of 1999 Companies (Amendment) (No. 2) Act The whole Act 1999
 
 No. 28 of 2001 Company Law Enforcement Act 2001 The whole Act
 
-No. 44 of 2003 Companies (Auditing and Accounting) The whole Act Act 2003
+No. 44 of 2003 Companies (Auditing and The whole Act Accounting) Act 2003
 
 No. 12 of 2005 Investment Funds, Companies and Parts 3, 4, 5 and 6 Miscellaneous Provisions Act 2005
 

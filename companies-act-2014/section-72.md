@@ -22,14 +22,14 @@ Restriction of section 71(5) in the case of mergers
 
 (7) In relation to a company and its shares and capital, the following definitions apply for the purposes of this section:
 
-‘arrangement’ means any agreement, scheme or arrangement (including an arrangement sanctioned under section 453 or 601);
+"arrangement" means any agreement, scheme or arrangement (including an arrangement sanctioned under section 453 or 601);
 
-‘company’, other than in relation to the issuing company, includes any body corporate;
+"company", other than in relation to the issuing company, includes any body corporate;
 
-‘equity share capital’ means the company’s issued share capital excluding any part of it which, neither as respects dividends nor as respects capital, carries any right to participate beyond a specified amount in a distribution;
+"equity share capital" means the company’s issued share capital excluding any part of it which, neither as respects dividends nor as respects capital, carries any right to participate beyond a specified amount in a distribution;
 
-‘equity shares’ means shares comprised in the company’s equity share capital;
+"equity shares" means shares comprised in the company’s equity share capital;
 
-‘non-equity shares’ means shares (of any class) not comprised in the company’s equity share capital.
+"non-equity shares" means shares (of any class) not comprised in the company’s equity share capital.
 
 (8) This section does not apply if the issue of shares took place before the commencement of this section.

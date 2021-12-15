@@ -2,9 +2,9 @@ Investigation by disciplinary committees of prescribed accountancy bodies
 
 931A. (1) In this section—
 
-‘client’ has the same meaning as it has in section 934;
+"client" has the same meaning as it has in section 934;
 
-‘relevant person’, in relation to an investigation of a member or former member of a prescribed accountancy body, means—
+"relevant person", in relation to an investigation of a member or former member of a prescribed accountancy body, means—
 
 (a) that member or any other member or former member of the prescribed accountancy body,
 

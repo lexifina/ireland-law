@@ -20,4 +20,4 @@ Certain agreements void
 
 (ii) EU prospectus law, within the meaning of this Chapter as it stood on the relevant date, applies, shall be void.
 
-(2) In this section, ‘relevant date’ means the date on which section 23 of the Finance (Tax Appeals and Prospectus Regulation) Act 2019 comes into operation.
+(2) In this section, "relevant date" means the date on which section 23 of the Finance (Tax Appeals and Prospectus Regulation) Act 2019 comes into operation.

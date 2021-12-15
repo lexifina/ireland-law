@@ -30,7 +30,7 @@ Content of consolidated payment report
 
 (7) Where payments in kind are made to a government, the consolidated payment report shall state the value of such payments in kind and, where applicable, the volume of those payments in kind, and the directors shall provide supporting notes to explain how the value of such payments in kind has been determined.
 
-(8) In this section, ‘relevant activities’, in relation to a holding company, means the activities of—
+(8) In this section, "relevant activities", in relation to a holding company, means the activities of—
 
 (a) the holding company, and
 

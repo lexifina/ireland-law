@@ -8,4 +8,4 @@ Professional scepticism
 
 (c) recognise the possibility of a material misstatement due to facts or behaviour indicating irregularities, including fraud or error, notwithstanding the statutory auditor’s or the audit firm’s past experience of the honesty and integrity of the audited undertaking’s management and of the persons charged with its governance.
 
-(2) For the purposes of this section, ‘professional scepticism’ means an attitude that includes a questioning mind, being alert to conditions which may indicate possible misstatement due to error or fraud, and a critical assessment of audit evidence.
+(2) For the purposes of this section, "professional scepticism" means an attitude that includes a questioning mind, being alert to conditions which may indicate possible misstatement due to error or fraud, and a critical assessment of audit evidence.

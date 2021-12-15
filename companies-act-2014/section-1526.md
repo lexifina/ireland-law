@@ -18,4 +18,4 @@ Auditing standards to be applied
 
 (6) In the case of the statutory audit of small companies, the Supervisory Authority may provide that the application of the auditing standards referred to in subsection (1) is to be proportionate to the scale and complexity of the activities of such companies and may take the measures necessary in order to ensure the proportionate application of the auditing standards to the statutory audits of small companies.
 
-(7) In this section, ‘standards’ include standards on professional ethics and internal quality control in addition to standards on auditing.
+(7) In this section, "standards" include standards on professional ethics and internal quality control in addition to standards on auditing.

@@ -44,7 +44,7 @@ Investigation of possible breaches of standards of prescribed accountancy bodies
 
 (ii) on its own initiative.
 
-(b) The Supervisory Authority shall not undertake an investigation into a possible relevant contravention committed by a specified person who falls within paragraph (a) of the definition of ‘specified person’ unless the Supervisory Authority is of the opinion that it is appropriate or in the public interest to do so.
+(b) The Supervisory Authority shall not undertake an investigation into a possible relevant contravention committed by a specified person who falls within paragraph (a) of the definition of "specified person" unless the Supervisory Authority is of the opinion that it is appropriate or in the public interest to do so.
 
 (3) An investigation shall not be undertaken into a matter that is or has been the subject of an enquiry under section 933 relating to the specified person except with the permission of the court granted on application under section 933(5).
 
@@ -82,9 +82,9 @@ Investigation of possible breaches of standards of prescribed accountancy bodies
 
 (8) Subject to sections 934G and 941(4) and (4A), if, in the case of a specified person who falls within paragraph (a) of the definition of ‘specified person’, the Supervisory Authority finds that the person committed a relevant contravention, the Supervisory Authority may impose on the person such sanction to which the person is liable under the approved constitution and bye laws of the prescribed accountancy body of which the person is a member (including a monetary sanction) as the Supervisory Authority considers appropriate after having regard to the circumstances referred to in section 934D(2).
 
-(9) Subject to section 941(4) and (4A), if, in the case of a specified person who falls within paragraph (b) of the definition of ‘specified person’, the Supervisory Authority finds that the person has committed a relevant contravention, the Supervisory Authority may impose such relevant sanction on the person as the Supervisory Authority considers appropriate after having regard to the circumstances referred to in section 934D(2).
+(9) Subject to section 941(4) and (4A), if, in the case of a specified person who falls within paragraph (b) of the definition of "specified person", the Supervisory Authority finds that the person has committed a relevant contravention, the Supervisory Authority may impose such relevant sanction on the person as the Supervisory Authority considers appropriate after having regard to the circumstances referred to in section 934D(2).
 
-(10) Subject to subsection (15) and section 941(4) and (4A), if subsection (8) or (9) applies, the costs incurred by the Supervisory Authority in investigating and determining a matter under this section (other than any costs of or incidental to an enquiry by the court under subsection (7)) shall be defrayed by, in the case of a specified person who falls within paragraph (a) of the definition of ‘specified person’, the prescribed accountancy body of which the specified person is a member and, in any other case, by the specified person.
+(10) Subject to subsection (15) and section 941(4) and (4A), if subsection (8) or (9) applies, the costs incurred by the Supervisory Authority in investigating and determining a matter under this section (other than any costs of or incidental to an enquiry by the court under subsection (7)) shall be defrayed by, in the case of a specified person who falls within paragraph (a) of the definition of "specified person", the prescribed accountancy body of which the specified person is a member and, in any other case, by the specified person.
 
 (11) Subject to subsection (12), the specified person who is the subject of a relevant decision made by the Supervisory Authority may appeal to the court against the decision.
 
@@ -106,4 +106,4 @@ Investigation of possible breaches of standards of prescribed accountancy bodies
 
 (16) The production of any books or documents under this section by a person who claims a lien on them does not prejudice the lien.
 
-(17) Nothing in this section shall be construed to prevent the undertaking of one investigation under this section into 2 or more possible relevant contraventions committed by the same specified person where one or more of such possible contraventions fall within paragraph (a) of the definition of ‘relevant contravention’ and one or more of such possible contraventions fall within paragraph (b) of that definition.
+(17) Nothing in this section shall be construed to prevent the undertaking of one investigation under this section into 2 or more possible relevant contraventions committed by the same specified person where one or more of such possible contraventions fall within paragraph (a) of the definition of "relevant contravention" and one or more of such possible contraventions fall within paragraph (b) of that definition.

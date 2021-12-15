@@ -12,11 +12,11 @@ Qualifications for appointment as liquidator or provisional liquidator — gener
 
 (4) In this section—
 
-‘liquidator’ includes provisional liquidator;
+"liquidator" includes provisional liquidator;
 
-‘prescribed fee’ means a fee prescribed by regulations made by the Supervisory Authority with the consent of the Minister;
+"prescribed fee" means a fee prescribed by regulations made by the Supervisory Authority with the consent of the Minister;
 
-‘prescribed form’ means a form prescribed by regulations made by the Supervisory Authority.
+"prescribed form" means a form prescribed by regulations made by the Supervisory Authority.
 
 Table
 

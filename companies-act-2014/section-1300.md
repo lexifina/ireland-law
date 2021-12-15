@@ -32,7 +32,7 @@ Interpretation (Part 21)
 
 “credit or financial institution” means a credit institution or financial institution to which Council Directive 89/117/EEC of 13 February 1989 applies;
 
-‘EEA company’ means—
+"EEA company" means—
 
 (a) a body corporate—
 
@@ -52,7 +52,7 @@ Interpretation (Part 21)
 
 “financial year” in relation to an external company, means the period for which the external company prepares its accounts in accordance with the law of the state in which it is incorporated;
 
-‘non-EEA company’ means—
+"non-EEA company" means—
 
 (a) a body corporate—
 

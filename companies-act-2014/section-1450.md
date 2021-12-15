@@ -6,4 +6,4 @@ Obligation to prepare entity report on payments to governments
 
 (a) a mining or quarrying company, or
 
-(b) a logging company, prepare and make available to the public each year a report on payments made to governments for each financial year (in this Part referred to as the ‘entity payment report’).
+(b) a logging company, prepare and make available to the public each year a report on payments made to governments for each financial year (in this Part referred to as the "entity payment report").

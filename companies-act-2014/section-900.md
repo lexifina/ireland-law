@@ -8,13 +8,13 @@ Interpretation (Chapter 2)
 
 ...
 
-‘2019 Qualifying Partnerships Regulations’ means the European Union (Qualifying Partnerships: Accounting and Auditing) Regulations 2019;
+"2019 Qualifying Partnerships Regulations" means the European Union (Qualifying Partnerships: Accounting and Auditing) Regulations 2019;
 
 “Act of 2003” means the Companies (Auditing and Accounting) Act 2003;
 
 “amount of turnover” has the same meaning as it has in section 275;
 
-‘applicable provisions’, in relation to a Part 27 function and a recognised accountancy body, means, in addition to the provision of this Act that confers that function—
+"applicable provisions", in relation to a Part 27 function and a recognised accountancy body, means, in addition to the provision of this Act that confers that function—
 
 (a) any other provisions of this Act or of a statutory instrument made under this Act,
 
@@ -24,7 +24,7 @@ Interpretation (Chapter 2)
 
 (d) the provisions of any rule, guideline, term or condition, relevant obligation, or direction, referred to in section 906 that are relevant to that function, in accordance with which that function shall be performed by that body;
 
-‘Audit Directive’ has the meaning assigned to it by Part 27;
+"Audit Directive" has the meaning assigned to it by Part 27;
 
 “balance sheet total” has the same meaning as it has in section 275;
 
@@ -34,13 +34,13 @@ Interpretation (Chapter 2)
 
 “chief executive officer” means the chief executive officer of the Supervisory Authority;
 
-‘court’ means the High Court;
+"court" means the High Court;
 
 “designated body” means a body that, under section 902(2), is a designated body at the relevant time;
 
 “disciplinary committee” means any disciplinary committee or tribunal (however called) of a prescribed accountancy body;
 
-‘firm’ has the meaning assigned to it by Part 27;
+"firm" has the meaning assigned to it by Part 27;
 
 “member”, in relation to a prescribed accountancy body, means—
 
@@ -54,13 +54,13 @@ Interpretation (Chapter 2)
 
 (iii) the Act of 1990, whether before or after the amendments of that Act that were made by section 32 of the Act of 2003;
 
-‘monetary sanction’—
+"monetary sanction"—
 
-(a) in relation to a specified person who falls within paragraph (a) of the definition of ‘specified person’, means the monetary sanction referred to in section 934(8), and
+(a) in relation to a specified person who falls within paragraph (a) of the definition of "specified person", means the monetary sanction referred to in section 934(8), and
 
-(b) in relation to a specified person who falls within paragraph (b) of the definition of ‘specified person’, means the monetary sanction referred to in section 934C(2)(g);
+(b) in relation to a specified person who falls within paragraph (b) of the definition of "specified person", means the monetary sanction referred to in section 934C(2)(g);
 
-‘Part 27 function’ means a function conferred on a recognised accountancy body by a provision of Part 27 or of Schedule 19 or 20;
+"Part 27 function" means a function conferred on a recognised accountancy body by a provision of Part 27 or of Schedule 19 or 20;
 
 “prescribed accountancy body” means—
 
@@ -68,15 +68,15 @@ Interpretation (Chapter 2)
 
 (b) any other body of accountants that is prescribed;
 
-‘public notice of relevant sanction imposed’, in relation to a specified person, means the publication in accordance with section 934F(1) of the specified person’s particulars referred to in that section together with the other related particulars referred to in that section;
+"public notice of relevant sanction imposed", in relation to a specified person, means the publication in accordance with section 934F(1) of the specified person’s particulars referred to in that section together with the other related particulars referred to in that section;
 
-‘recognised accountancy body’ means a body of accountants recognised under section 930 for the purposes of the relevant provisions;
+"recognised accountancy body" means a body of accountants recognised under section 930 for the purposes of the relevant provisions;
 
-‘Regulation (EU) No 537/2014’ has the meaning assigned to it by Part 27;
+"Regulation (EU) No 537/2014" has the meaning assigned to it by Part 27;
 
-‘relevant body’ has the meaning assigned to it by section 933(1);
+"relevant body" has the meaning assigned to it by section 933(1);
 
-‘relevant contravention’ means—
+"relevant contravention" means—
 
 (a) a breach of the standards of a prescribed accountancy body by a member of that body, or
 
@@ -88,7 +88,7 @@ Interpretation (Chapter 2)
 
 (iii) Regulation (EU) No 537/2014;
 
-‘relevant decision’, in relation to a specified person, means—
+"relevant decision", in relation to a specified person, means—
 
 (a) a decision under section 934(8) or (9) that a specified person has committed a relevant contravention,
 
@@ -96,9 +96,9 @@ Interpretation (Chapter 2)
 
 (c) both such decisions;
 
-‘relevant director’ means a director or former director of a public-interest entity;
+"relevant director" means a director or former director of a public-interest entity;
 
-‘relevant provisions’ means the provisions of—
+"relevant provisions" means the provisions of—
 
 (a) this Chapter,
 
@@ -106,23 +106,23 @@ Interpretation (Chapter 2)
 
 (c) Regulation (EU) No 537/2014;
 
-‘relevant sanction’—
+"relevant sanction"—
 
-(a) in relation to a specified person who falls within paragraph (a) of the definition of ‘specified person’, means a sanction referred to in section 934(8), and
+(a) in relation to a specified person who falls within paragraph (a) of the definition of "specified person", means a sanction referred to in section 934(8), and
 
-(b) in relation to a specified person who falls within paragraph (b) of the definition of ‘specified person’, means a sanction referred to in section 934C(2);
+(b) in relation to a specified person who falls within paragraph (b) of the definition of "specified person", means a sanction referred to in section 934C(2);
 
-‘section 931 notice’ shall be read in accordance with section 931(2);
+"section 931 notice" shall be read in accordance with section 931(2);
 
-‘section 933A agreement’ shall be read in accordance with section 933A(2);
+"section 933A agreement" shall be read in accordance with section 933A(2);
 
-‘section 934E agreement’ shall be read in accordance with section 934E(1);
+"section 934E agreement" shall be read in accordance with section 934E(1);
 
-‘specified person’, in relation to a relevant contravention, means—
+"specified person", in relation to a relevant contravention, means—
 
-(a) if the relevant contravention falls within paragraph (a) of the definition of ‘relevant contravention’, the member or former member concerned of the prescribed accountancy body, and
+(a) if the relevant contravention falls within paragraph (a) of the definition of "relevant contravention", the member or former member concerned of the prescribed accountancy body, and
 
-(b) if the relevant contravention falls within paragraph (b) of the definition of ‘relevant contravention’, the statutory auditor or former statutory auditor concerned;
+(b) if the relevant contravention falls within paragraph (b) of the definition of "relevant contravention", the statutory auditor or former statutory auditor concerned;
 
 “reserve fund” means the fund referred to in section 919;
 

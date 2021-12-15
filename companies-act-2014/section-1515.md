@@ -16,4 +16,4 @@ Removal of statutory auditors or audit firms by public-interest entities - suppl
 
 (a) diverging opinions on accounting treatments or audit procedures cannot constitute the basis for the passing of any resolution for the purposes of that subsection, and
 
-(b) ‘best interests of the public-interest entity’ shall not include any illegal or improper motive with regard to avoiding disclosures or detection of any contravention by the entity of this Act.
+(b) "best interests of the public-interest entity" shall not include any illegal or improper motive with regard to avoiding disclosures or detection of any contravention by the entity of this Act.

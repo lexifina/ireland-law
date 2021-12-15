@@ -6,7 +6,7 @@ Access by Supervisory Authority to information and documents held by recognised 
 
 (b) permit it to have access, under specified circumstances, to all relevant documents in the possession or control of the recognised accountancy body or relevant person, within a specified period.
 
-(2) In this section, ‘relevant person’ means—
+(2) In this section, "relevant person" means—
 
 (a) a member of a recognised accountancy body,
 
@@ -24,7 +24,7 @@ Access by Supervisory Authority to information and documents held by recognised 
 
 (b) explain any entry in the information or documents concerned and otherwise give assistance to it in clarifying the matter concerned.
 
-(5) In this section, ‘specified’ means specified in the notice concerned.
+(5) In this section, "specified" means specified in the notice concerned.
 
 (6) If a person fails, without reasonable excuse, to comply with a requirement under subsection (1) or (4), the person shall be guilty of a category 3 offence.
 

@@ -34,4 +34,4 @@ Approval and signing of statutory financial statements by board of directors
 
 (10) In subsection (8) “officer” includes any shadow director and de facto director.
 
-(11) In this section, 'minimum requirements of this Act', in relation to a company that qualifies for the micro companies regime, means the provisions of this Act with which the company is obliged to comply, having availed of the exemptions to which it is entitled by virtue of qualifying for the micro companies regime.
+(11) In this section, "minimum requirements of this Act", in relation to a company that qualifies for the micro companies regime, means the provisions of this Act with which the company is obliged to comply, having availed of the exemptions to which it is entitled by virtue of qualifying for the micro companies regime.

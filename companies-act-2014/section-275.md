@@ -2,7 +2,7 @@ Interpretation (Part 6): other definitions and construction provisions
 
 275. (1) In this Part and Part 26—
 
-‘Accounting Directive’ means Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC;
+"Accounting Directive" means Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC;
 
 “accounting standards” means—
 
@@ -10,7 +10,7 @@ Interpretation (Part 6): other definitions and construction provisions
 
 (b) any written interpretation of those standards, issued by a body or bodies prescribed for the purposes of this definition under section 943(1)(h);
 
-‘amount of turnover’, in relation to a company, means the amount of the turnover shown in the company’s profit and loss account;
+"amount of turnover", in relation to a company, means the amount of the turnover shown in the company’s profit and loss account;
 
 “associated undertaking” has the meaning given to it by paragraph 21 of Schedule 4 or 4A, as the case may be;
 
@@ -24,7 +24,7 @@ Interpretation (Part 6): other definitions and construction provisions
 
 “audit of the statutory financial statements” means work required to fulfil the duties imposed under section 336 on a statutory auditor of a company;
 
-‘balance sheet total’, in relation to a company, means the aggregate of the amounts shown as assets in the company’s balance sheet;
+"balance sheet total", in relation to a company, means the aggregate of the amounts shown as assets in the company’s balance sheet;
 
 “credit institution” means—
 
@@ -54,7 +54,7 @@ Interpretation (Part 6): other definitions and construction provisions
 
 (b) an unincorporated body of persons, falling within the definition of “undertaking” in this subsection;
 
-‘ineligible entities’ means undertakings that—
+"ineligible entities" means undertakings that—
 
 (a) have transferable securities admitted to trading on a regulated market of any Member State,
 
@@ -86,11 +86,11 @@ Interpretation (Part 6): other definitions and construction provisions
 
 (f) Regulation 3 of the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015);
 
-‘large company’ shall be read in accordance with section 280H;
+"large company" shall be read in accordance with section 280H;
 
-‘medium company’ shall be read in accordance with section 280F or 280G, as may be appropriate; and ‘medium group’ shall be read accordingly;
+"medium company" shall be read in accordance with section 280F or 280G, as may be appropriate; and ‘medium group’ shall be read accordingly;
 
-‘micro company’ shall be construed in accordance with section 280D;
+"micro company" shall be construed in accordance with section 280D;
 
 ‘micro companies regime’ has the meaning assigned to it by section 280E;
 
@@ -102,9 +102,9 @@ Interpretation (Part 6): other definitions and construction provisions
 
 “regulated market” has the same meaning as it has in the European Communities (Markets in Financial Instruments) Regulations 2007 (S.I. No. 60 of 2007);
 
-‘small company’ shall be read in accordance with section 280A or 280B, as may be appropriate; and ‘small group’ shall be read accordingly;
+"small company" shall be read in accordance with section 280A or 280B, as may be appropriate; and "small group" shall be read accordingly;
 
-‘small companies regime’ has the meaning assigned to it by section 280C;
+"small companies regime" has the meaning assigned to it by section 280C;
 
 “subsidiary undertaking” has the same meaning as “subsidiary” in section 7 has save that “company” in section 7 shall, for the purposes of this definition, include, as well as a body corporate—
 

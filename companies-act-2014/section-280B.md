@@ -4,7 +4,7 @@ Qualification of company as small company: holding company
 
 (2) A group that is not excluded by subsection (5) qualifies as a small group in relation to the first financial year of the holding company if the qualifying conditions are satisfied in respect of that year.
 
-(3) A group that is not excluded by subsection (5) qualifies as a small group in relation to a subsequent financial year (in this subsection referred to as 'relevant year') of the holding company if the qualifying conditions—
+(3) A group that is not excluded by subsection (5) qualifies as a small group in relation to a subsequent financial year (in this subsection referred to as "relevant year") of the holding company if the qualifying conditions—
 
 (a) are satisfied in respect of the relevant year and the financial year immediately preceding the relevant year,
 
@@ -36,16 +36,16 @@ Qualification of company as small company: holding company
 
 (10) In this section—
 
-‘first financial year of a holding company’ means the first financial year at the end of which the company qualifies as a holding company by virtue of having one or more subsidiaries;
+"first financial year of a holding company" means the first financial year at the end of which the company qualifies as a holding company by virtue of having one or more subsidiaries;
 
-‘qualifying conditions’ mean the requirements referred to in subsection (4).
+"qualifying conditions" mean the requirements referred to in subsection (4).
 
 (11) For the purposes of this section, in relation to the aggregate figures for turnover and balance sheet total—
 
-‘net’ means after set-offs and other adjustments made to eliminate group transactions—
+"net" means after set-offs and other adjustments made to eliminate group transactions—
 
 (i) in the case of Companies Act financial statements, in accordance with Schedule 4, and
 
 (ii) in the case of IFRS financial statements, in accordance with international financial reporting standards;
 
-‘gross’ means without those set-offs and other adjustments.
+"gross" means without those set-offs and other adjustments.

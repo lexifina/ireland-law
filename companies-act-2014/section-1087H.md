@@ -4,6 +4,6 @@ Definition of subsidiary
 
 (2) In subsection (1) —
 
-‘shares’ includes relevant securities;
+"shares" includes relevant securities;
 
-‘lower company’ and ‘superior company’ have the same meaning as they have respectively in section 7.
+"lower company" and "superior company" have the same meaning as they have respectively in section 7.

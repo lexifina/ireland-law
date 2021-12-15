@@ -2,7 +2,7 @@ No requirement to deliver financial statements, etc., with annual return in the 
 
 1274. (1) Other than in the case of a designated ULC, sections 347 and 348 (which require documents to be annexed to annual returns) shall not apply to an ULC.
 
-(2) In this section ‘designated ULC’ means—
+(2) In this section "designated ULC" means—
 
 (a) an ULC that at any time during the relevant financial year—
 
@@ -34,8 +34,8 @@ No requirement to deliver financial statements, etc., with annual return in the 
 
 (5) In this section—
 
-‘general partner’ has the same meaning as it has in the Limited Partnerships Act 1907;
+"general partner" has the same meaning as it has in the Limited Partnerships Act 1907;
 
-‘limited partnership’ means a partnership to which the Limited Partnerships Act 1907 applies;
+"limited partnership" means a partnership to which the Limited Partnerships Act 1907 applies;
 
-‘partnership’ has the same meaning as it has in the Partnership Act 1890.
+"partnership" has the same meaning as it has in the Partnership Act 1890.

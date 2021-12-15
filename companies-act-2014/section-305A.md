@@ -26,11 +26,11 @@ Payments to third parties for services of directors
 
 (4) For the purposes of subsection (1)—
 
-(a) (i) the reference to ‘consideration’ includes benefits otherwise than in cash and the reference to 'the aggregate amount' is to the estimated monetary value of the benefits, and
+(a) (i) the reference to "consideration" includes benefits otherwise than in cash and the reference to "the aggregate amount" is to the estimated monetary value of the benefits, and
 
 (ii) the nature of any such consideration referred to in subparagraph (i) shall be disclosed, and
 
-(b) the reference to ‘third parties’ means a person other than—
+(b) the reference to "third parties" means a person other than—
 
 (i) the director or a person connected with that director,
 

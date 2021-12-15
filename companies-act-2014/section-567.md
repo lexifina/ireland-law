@@ -40,9 +40,7 @@ Section Subject
 
 Section 286(3) Particular case of category 1 offence arising where adequate accounting records not kept, etc.
 
-Section 599 Related company may be required to contribute to debts of company being wound up
-
-Section 608 Power of court to order return of assets which have been improperly transferred
+Section 599 Related company may be required to contribute to debts of company being wound up Section 608 Power of court to order return of assets which have been improperly transferred
 
 Section 609 Personal liability of officers of company where adequate accounting records not kept
 
@@ -58,7 +56,9 @@ Section 672 Order for payment or delivery of property against person examined un
 
 Section 675 Order for arrest and seizure, etc.
 
-Section 684 Inspection of books by creditors and contributories Section 721 Other frauds by officers of companies which have gone into liquidation: offence
+Section 684 Inspection of books by creditors and contributories
+
+Section 721 Other frauds by officers of companies which have gone into liquidation: offence
 
 Section 722 Fraudulent trading of company: offence
 

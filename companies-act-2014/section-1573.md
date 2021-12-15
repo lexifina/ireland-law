@@ -36,4 +36,4 @@ Registration of third-country auditors and third-country audit entities
 
 (b) section 1487, as applied by subsection (7), to that Authority.
 
-(9) In subsection (3), ‘collective investment undertaking’ does not include such an undertaking of the closed-ended type.
+(9) In subsection (3), "collective investment undertaking" does not include such an undertaking of the closed-ended type.

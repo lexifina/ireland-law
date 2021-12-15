@@ -2,9 +2,9 @@ Conditions for registration of third-country auditor or third-country audit enti
 
 1577. (1) The Supervisory Authority may cause to be registered a third-country auditor or third-country audit entity pursuant to section 1573 only if—
 
-(a) where the applicant for registration is an audit entity (referred to in this section as the ‘potential registrant’), the applicant satisfies so many of the conditions specified in subsection (2) as are applicable to an entity, and
+(a) where the applicant for registration is an audit entity (referred to in this section as the "potential registrant"), the applicant satisfies so many of the conditions specified in subsection (2) as are applicable to an entity, and
 
-(b) where the applicant for registration is an auditor (also referred to in this section as the ‘potential registrant’), the applicant satisfies so many of the conditions specified in subsection (2) as are applicable to an individual.
+(b) where the applicant for registration is an auditor (also referred to in this section as the "potential registrant"), the applicant satisfies so many of the conditions specified in subsection (2) as are applicable to an individual.
 
 (2) The conditions are as follows:
 

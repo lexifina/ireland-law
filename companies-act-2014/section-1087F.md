@@ -6,6 +6,8 @@ Irrevocable power of attorney
 
 (b) acceptance of that offer is communicated by way of dematerialised instructions.
 
-(2) In subsection (1) — ‘dematerialised instructions’ mean instructions that are sent or received by means of a securities settlement system of a central securities depository in accordance with the procedures of that settlement system;
+(2) In subsection (1) —
 
-‘offeror’ includes a person nominated by the offeror.
+"dematerialised instructions" mean instructions that are sent or received by means of a securities settlement system of a central securities depository in accordance with the procedures of that settlement system;
+
+"offeror" includes a person nominated by the offeror.

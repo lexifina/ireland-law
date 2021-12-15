@@ -4,6 +4,6 @@ Disapplication of additional requirement
 
 (2) In subsection (1) —
 
-‘offeree company’ and ‘offeror’ have the same meaning as they have respectively in section 457(1);
+"offeree company" and "offeror" have the same meaning as they have respectively in section 457(1);
 
-‘relevant scheme, contract or offer’ has the same meaning as it has in section 457(1).
+"relevant scheme, contract or offer" has the same meaning as it has in section 457(1).

@@ -124,11 +124,11 @@ Section 333
 
 (unless audit exemption availed of)
 
-Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
+Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information Audit exemption Chapter 15 of Part 6
 
-Audit exemption Chapter 15 of Part 6
+Special audit exemption for dormant companies Chapter 16 of Part 6
 
-Special audit exemption for dormant companies Chapter 16 of Part 6 Small and medium companies
+Small and medium companies
 
 Section 377
 

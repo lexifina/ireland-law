@@ -2,7 +2,7 @@ Intervention in disciplinary process of prescribed accountancy bodies
 
 933. (1) In this section—
 
-‘approved investigation and disciplinary procedures’ means—
+"approved investigation and disciplinary procedures" means—
 
 (a) in relation to a prescribed accountancy body that is a recognised accountancy body, the investigation and disciplinary procedures approved under—
 
@@ -18,7 +18,7 @@ Intervention in disciplinary process of prescribed accountancy bodies
 
 (ii) section 9(2)(c) of the Act of 2003;
 
-‘relevant body’ means—
+"relevant body" means—
 
 (a) in relation to an enquiry referred to in subsection (2), the prescribed accountancy body the subject of the enquiry, and
 
@@ -38,17 +38,17 @@ Intervention in disciplinary process of prescribed accountancy bodies
 
 (a) inspect and make copies of all relevant documents in the possession or control of the relevant body,
 
-(b) if the relevant body falls within paragraph (a) of the definition of ‘relevant body’, require the body to explain why it reached a decision referred to in subsection (2)(a) or (c) or explain how it conducted its investigation, or
+(b) if the relevant body falls within paragraph (a) of the definition of "relevant body", require the body to explain why it reached a decision referred to in subsection (2)(a) or (c) or explain how it conducted its investigation, or
 
-(c) if the relevant body falls within paragraph (b) of the definition of ‘relevant body’, require the body to explain how it complied (if it in fact did comply) with the applicable provisions in performing the Part 27 function concerned (and, also, to explain how it conducted an investigation referred to in subsection (3) if the conduct of that investigation is, in the opinion of the Supervisory Authority, relevant to the enquiry).
+(c) if the relevant body falls within paragraph (b) of the definition of "relevant body", require the body to explain how it complied (if it in fact did comply) with the applicable provisions in performing the Part 27 function concerned (and, also, to explain how it conducted an investigation referred to in subsection (3) if the conduct of that investigation is, in the opinion of the Supervisory Authority, relevant to the enquiry).
 
 (5) If at any time before completing an enquiry under this section into a matter relating to a member of a relevant body, the Supervisory Authority forms the opinion that it is appropriate or in the public interest that a matter be investigated under section 934 as regards a possible relevant contravention committed by a specified person, the Authority may apply to the court for permission to investigate the matter under that section.
 
 (6) (a) Paragraph (b) applies if the Supervisory Authority is not satisfied, after completing the enquiry—
 
-(i) if the relevant body falls within paragraph (a) of the definition of ‘relevant body’, that the body complied with the approved investigation and disciplinary procedures, or
+(i) if the relevant body falls within paragraph (a) of the definition of "relevant body", that the body complied with the approved investigation and disciplinary procedures, or
 
-(ii) if the relevant body falls within paragraph (b) of the definition of ‘relevant body’, that the body complied with the applicable provisions in performing the Part 27 function.
+(ii) if the relevant body falls within paragraph (b) of the definition of "relevant body", that the body complied with the applicable provisions in performing the Part 27 function.
 
 (b) Subject to section 941(4) and (4A), the Supervisory Authority may advise, or admonish, the relevant body or may censure it by doing one or more of the following:
 
@@ -84,9 +84,9 @@ Intervention in disciplinary process of prescribed accountancy bodies
 
 (12) If the Supervisory Authority is not satisfied that a relevant body has, when undertaking an investigation or fresh investigation into any matter as required by a direction under subsection (6)(b)(ii)—
 
-(a) if the relevant body falls within paragraph (a) of the definition of ‘relevant body’, complied with the approved investigation and disciplinary procedures, or
+(a) if the relevant body falls within paragraph (a) of the definition of "relevant body", complied with the approved investigation and disciplinary procedures, or
 
-(b) if the relevant body falls within paragraph (b) of the definition of ‘relevant body’, complied with the applicable provisions in performing the Part 27 function, the Supervisory Authority may appeal to the court against any decision of the relevant body relating to the matter.
+(b) if the relevant body falls within paragraph (b) of the definition of "relevant body", complied with the applicable provisions in performing the Part 27 function, the Supervisory Authority may appeal to the court against any decision of the relevant body relating to the matter.
 
 (13) An appeal under subsection (12) shall be brought within 3 months after the date on which the Supervisory Authority was notified by the relevant body of its decision.
 
@@ -106,4 +106,4 @@ Intervention in disciplinary process of prescribed accountancy bodies
 
 (a) any decision made or any investigation conducted by the disciplinary committee of a relevant body is considered to have been made or conducted by the relevant body, and
 
-(b) ‘member’, in addition to the meaning given to that expression by section 900(1), includes, in relation to a relevant body that is a recognised accountancy body, an individual or firm who or which, though not a member of the recognised accountancy body, is an individual or firm in relation to whom that body may perform functions under the relevant provisions.
+(b) "member", in addition to the meaning given to that expression by section 900(1), includes, in relation to a relevant body that is a recognised accountancy body, an individual or firm who or which, though not a member of the recognised accountancy body, is an individual or firm in relation to whom that body may perform functions under the relevant provisions.

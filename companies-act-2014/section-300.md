@@ -50,8 +50,8 @@ Exemption from consolidation: holding company that is subsidiary undertaking of 
 
 (6) For the purposes of paragraphs (aa) and (b) of subsection (2), shares held by a wholly owned subsidiary of the first-mentioned undertaking in that paragraph, or held on behalf of that undertaking or its wholly owned subsidiary, shall be attributed to that undertaking.
 
-(7) In this section, ‘consolidated annual report’ means—
+(7) In this section, "consolidated annual report" means—
 
 (a) the report prepared by management of the group in accordance with the Accounting Directive, or
 
-(b) the report prepared by management of the group in a manner equivalent to consolidated reports referred to in subsection (4)(b) (ii), and, in either case, is equivalent to the expression ‘directors’ report’ as used in this Part.
+(b) the report prepared by management of the group in a manner equivalent to consolidated reports referred to in subsection (4)(b) (ii), and, in either case, is equivalent to the expression "directors’ report" as used in this Part.

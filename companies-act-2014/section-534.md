@@ -26,7 +26,7 @@ Report by examiner
 
 (iv) exceptional circumstances exist in respect of the company the subject of the application, the court may by order further extend the extended period by not more than 50 days to enable the examiner to make his or her report.
 
-(c) In paragraph (b), ‘exceptional circumstances’ include (but are not limited to) the nature and potential or actual impact of Covid-19 on the company.
+(c) In paragraph (b), "exceptional circumstances" include (but are not limited to) the nature and potential or actual impact of Covid-19 on the company.
 
 (4) Where the examiner has submitted a report under this section to the court and, but for this subsection, the period mentioned in section 520(2) (and any extended period allowed under subsection (3)) and any further extended period allowed under subsection (3A) would expire, the court may, of its own motion or on the application of the examiner, extend the period concerned by such period as the court considers necessary to enable it to take a decision under section 541.
 

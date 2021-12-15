@@ -1,6 +1,6 @@
 Annual audit programme and activity report
 
-930B. (1) The Supervisory Authority shall, not later than 6 months after the end of each financial year, prepare a report (in this Act referred to as the ‘annual audit programme and activity report’ or ‘AAPA report’) in accordance with this section on, amongst others, its oversight functions referred to in section 930A performed during that year.
+930B. (1) The Supervisory Authority shall, not later than 6 months after the end of each financial year, prepare a report (in this Act referred to as the "annual audit programme and activity report" or "AAPA report") in accordance with this section on, amongst others, its oversight functions referred to in section 930A performed during that year.
 
 (2) The AAPA report shall contain the following information:
 

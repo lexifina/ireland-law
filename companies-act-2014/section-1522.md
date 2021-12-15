@@ -14,7 +14,7 @@ Access by recognised accountancy body to audit documents
 
 (b) explain any entry in the documents concerned and otherwise give assistance to it in clarifying the matter concerned.
 
-(4) In this section, ‘specified’ means specified in the notice concerned.
+(4) In this section, "specified" means specified in the notice concerned.
 
 (5) Without prejudice to subsection (6), if a person fails, without reasonable excuse, to comply with a requirement under subsection (1) or (3), the person shall be guilty of a category 3 offence.
 

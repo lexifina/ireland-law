@@ -6,7 +6,7 @@ Review of members of recognised accountancy bodies
 
 (i) a specified person is the subject of a decision under section 934(9) that he or she has committed a relevant contravention, or
 
-(ii) the Supervisory Authority and a specified person who falls within paragraph (b) of the definition of ‘specified person’ have entered into a section 934E agreement in respect of a relevant contravention that the Supervisory Authority reasonably believes that the person has committed, and
+(ii) the Supervisory Authority and a specified person who falls within paragraph (b) of the definition of "specified person" have entered into a section 934E agreement in respect of a relevant contravention that the Supervisory Authority reasonably believes that the person has committed, and
 
 (b) that contravention relates, whether directly or indirectly, to the audit of a public-interest entity.
 

@@ -40,7 +40,7 @@ Disclosure of directors' remuneration
 
 “shares” means quoted shares (that is to say shares quoted on any securities or other market referred to in section 1072) or shares that are redeemable in cash or puttable in cash;
 
-‘share options’ means options over quoted shares or shares that are redeemable in cash or puttable in cash.
+"share options" means options over quoted shares or shares that are redeemable in cash or puttable in cash.
 
 (7) In subsection (1)(c), “long term incentive scheme” means any agreement or arrangement under which money or other assets may become receivable by a director and which includes one or more qualifying conditions with respect to services or performance which cannot be fulfilled within a single financial year; and for this purpose the following shall be disregarded:
 

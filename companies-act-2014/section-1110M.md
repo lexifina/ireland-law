@@ -2,11 +2,11 @@ Right to vote on remuneration policy
 
 1110M. (1) A traded PLC shall—
 
-(a) prepare a policy regarding the remuneration of its directors in accordance with subsection (6) (in this section referred to as a ‘remuneration policy’), and
+(a) prepare a policy regarding the remuneration of its directors in accordance with subsection (6) (in this section referred to as a "remuneration policy"), and
 
-(b) cause a vote on the remuneration policy (in this section referred to as a ‘remuneration vote’) to be held at a general meeting of the traded PLC.
+(b) cause a vote on the remuneration policy (in this section referred to as a "remuneration vote") to be held at a general meeting of the traded PLC.
 
-(2) Subject to any provision of the traded PLC’s constitution making a remuneration vote binding on the traded PLC (in this section referred to as a ‘binding vote’), a remuneration vote shall be advisory (in this section referred to as an ‘advisory vote’).
+(2) Subject to any provision of the traded PLC’s constitution making a remuneration vote binding on the traded PLC (in this section referred to as a "binding vote"), a remuneration vote shall be advisory (in this section referred to as an "advisory vote").
 
 (3) (a) Subject to subsection (8), where a remuneration policy is approved by a binding vote, the traded PLC shall pay remuneration to its directors in accordance with the remuneration policy to which that vote related.
 
@@ -88,7 +88,7 @@ Right to vote on remuneration policy
 
 (b) the derogation is in accordance with the procedural conditions and other provisions on derogation set out in the remuneration policy.
 
-(9) In this section, a reference to ‘director’ includes, in addition to the meaning assigned to that expression by section 2(1), a reference to—
+(9) In this section, a reference to "director" includes, in addition to the meaning assigned to that expression by section 2(1), a reference to—
 
 (a) a chief executive officer of a traded PLC, and
 

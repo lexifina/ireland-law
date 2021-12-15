@@ -58,4 +58,4 @@ Exemption from consolidation: holding company that is subsidiary undertaking of 
 
 (iii) the matters provided by, or referred to in, this Part or any other enactment that correspond to those relevant matters.
 
-(8) In this section, ‘consolidated annual report’ means the report prepared by management of the group in accordance with the Accounting Directive and is equivalent to the expression ‘directors’ report’ as used in this Part.
+(8) In this section, "consolidated annual report" means the report prepared by management of the group in accordance with the Accounting Directive and is equivalent to the expression "directors’ report" as used in this Part.

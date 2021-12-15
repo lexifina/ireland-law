@@ -8,7 +8,7 @@ Obligation to prepare a consolidated payment report
 
 (i) a mining or quarrying undertaking, or
 
-(ii) a logging undertaking, prepare and make available to the public each year a consolidated report on payments made to governments for each financial year of the holding company (in this Part referred to as a ‘consolidated payment report’).
+(ii) a logging undertaking, prepare and make available to the public each year a consolidated report on payments made to governments for each financial year of the holding company (in this Part referred to as a "consolidated payment report").
 
 (2) This section shall not apply to the directors of—
 

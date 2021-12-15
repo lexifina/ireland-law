@@ -6,4 +6,4 @@ Delivery of copy of entity payment reports and consolidated payment reports prep
 
 (3) If a company to which subsection (1) applies fails to comply with the requirements of this section, the company and any officer of it who is in default shall be guilty of a category 3 offence.
 
-(4) In subsection (3), ‘officer’ includes any shadow director and de facto director.
+(4) In subsection (3), "officer" includes any shadow director and de facto director.

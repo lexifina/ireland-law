@@ -14,7 +14,7 @@ Facilitation of exercise of shareholder rights
 
 (4) Subject to subsection (5), where an intermediary receives a confirmation under subsection (2) or (3), the intermediary shall, as soon as practicable, transmit the confirmation to the shareholder to whom the confirmation relates.
 
-(5) (a) Subject to paragraph (b), an intermediary (in this subsection referred to as a ‘relevant intermediary’) who is provided with a confirmation under subsection (2) or (3) (in this subsection referred to as the ‘relevant confirmation’), shall, as soon as practicable, transmit the relevant confirmation to the shareholder to whom it relates.
+(5) (a) Subject to paragraph (b), an intermediary (in this subsection referred to as a ‘relevant intermediary’) who is provided with a confirmation under subsection (2) or (3) (in this subsection referred to as the "relevant confirmation"), shall, as soon as practicable, transmit the relevant confirmation to the shareholder to whom it relates.
 
 (b) Where—
 
@@ -24,6 +24,6 @@ Facilitation of exercise of shareholder rights
 
 (c) An intermediary to whom a relevant confirmation is transmitted under paragraph (b) and who can transmit the relevant confirmation directly to the shareholder to whom it relates shall, as soon as practicable, transmit the relevant confirmation directly to that shareholder.
 
-(6) A shareholder in a traded PLC may nominate a third party to exercise rights, make requests, receive confirmations and carry out any other functions under this section on the shareholder’s behalf, and, accordingly, references in this section to ‘shareholder’ shall be construed as including any such third party.
+(6) A shareholder in a traded PLC may nominate a third party to exercise rights, make requests, receive confirmations and carry out any other functions under this section on the shareholder’s behalf, and, accordingly, references in this section to "shareholder" shall be construed as including any such third party.
 
 (7) This section shall come into operation on 3 September 2020.

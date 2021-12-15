@@ -1,6 +1,6 @@
 Certain companies may apply provisions of Act to certain earlier financial years
 
-277A. (1) Subject to this section, the directors of a company may, before the operative date of the provisions of the Act of 2017 specified in subsection (4) (the ‘specified provisions of the Act of 2017’), opt to prepare and approve statutory financial statements for the company in accordance with those specified provisions for any financial year which commenced on or after 1 January 2015.
+277A. (1) Subject to this section, the directors of a company may, before the operative date of the provisions of the Act of 2017 specified in subsection (4) (the "specified provisions of the Act of 2017"), opt to prepare and approve statutory financial statements for the company in accordance with those specified provisions for any financial year which commenced on or after 1 January 2015.
 
 (2) All obligations and rights that arise under this Act consequent on or in respect of financial statements having been approved by directors of a company shall likewise arise in relation to financial statements approved by directors in a case falling within subsection (1).
 
@@ -40,11 +40,11 @@ Certain companies may apply provisions of Act to certain earlier financial years
 
 (5) In this section—
 
-‘Act of 2017’ means the Companies (Accounting) Act 2017;
+"Act of 2017" means the Companies (Accounting) Act 2017;
 
-‘operative date’ means the date on which the specified provision comes into operation pursuant to an order under section 1(2) of the Act of 2017;
+"operative date" means the date on which the specified provision comes into operation pursuant to an order under section 1(2) of the Act of 2017;
 
-‘qualifying conditions’ has the same meaning as it has—
+"qualifying conditions" has the same meaning as it has—
 
 (a) in relation to a medium company, in section 280F(7) or 280G(10), as the case may be,
 

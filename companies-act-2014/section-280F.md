@@ -2,7 +2,7 @@ Qualification of company as medium company: general
 
 280F. (1) A company that is not excluded by subsection (4) qualifies as a medium company in relation to its first financial year if the qualifying conditions are satisfied in respect of that year.
 
-(2) A company that is not excluded by subsection (4) qualifies as a medium company in relation to a subsequent financial year (in this subsection referred to as 'relevant year') if the qualifying conditions—
+(2) A company that is not excluded by subsection (4) qualifies as a medium company in relation to a subsequent financial year (in this subsection referred to as "relevant year") if the qualifying conditions—
 
 (a) are satisfied in respect of the relevant year and the financial year immediately preceding the relevant year,
 
@@ -32,4 +32,4 @@ Qualification of company as medium company: general
 
 (6) For the purposes of subsection (3)(c), the average number of employees of a company shall be determined by applying the methods specified in section 317 for determining the number required by subsection (1)(a) of that section to be stated in a note to the financial statements of a company.
 
-(7) In this section, ‘qualifying conditions’ mean the conditions referred to in subsection (3).
+(7) In this section, "qualifying conditions" mean the conditions referred to in subsection (3).

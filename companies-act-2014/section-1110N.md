@@ -1,6 +1,6 @@
 Remuneration report
 
-1110N. (1) A traded PLC shall prepare a report in accordance with this section providing a comprehensive overview of the remuneration awarded or due, during the most recent financial year, to all of its directors in accordance with a remuneration policy prepared under section 1110M (referred to in this section as a ‘remuneration report’).
+1110N. (1) A traded PLC shall prepare a report in accordance with this section providing a comprehensive overview of the remuneration awarded or due, during the most recent financial year, to all of its directors in accordance with a remuneration policy prepared under section 1110M (referred to in this section as a "remuneration report").
 
 (2) The remuneration report shall be clear and understandable and, where applicable, contain the following information regarding each director’s remuneration:
 
@@ -56,7 +56,7 @@ Remuneration report
 
 (11) In this section—
 
-(a) other than in subsection (10), a reference to ‘director’ includes, in addition to the meaning assigned to that expression by section 2(1), a reference to—
+(a) other than in subsection (10), a reference to "director" includes, in addition to the meaning assigned to that expression by section 2(1), a reference to—
 
 (i) a former director,
 
@@ -64,6 +64,6 @@ Remuneration report
 
 (iii) a deputy chief executive officer, where such a position exists in relation to a traded PLC and by whatever name called, and
 
-(b) a reference to ‘remuneration awarded or due’ includes a reference to all benefits in whatever form awarded or due.
+(b) a reference to "remuneration awarded or due" includes a reference to all benefits in whatever form awarded or due.
 
 (12) This section, in so far as it relates to a traded PLC, applies to the traded PLC’s financial years commencing on or after 10 June 2019.

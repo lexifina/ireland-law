@@ -10,13 +10,11 @@ Priority of payments in a winding up
 
 (ii) deposit guarantee schemes that are subrogating to the rights and obligations of the holder or holders of the part of the eligible deposits referred to in subparagraph (i),
 
-(b) the following shall be paid in priority to the claims of all unsecured creditors, but after those referred to in paragraph (a), and shall rank equally amongst themselves -
-
-(i) the part of eligible deposits from natural persons and micro, small and medium-sized enterprises that exceeds the coverage level in Article 6 of
-
 3 OJ No. L 173, 12.06.2014, p. 149.
 
-Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014, and
+(b) the following shall be paid in priority to the claims of all unsecured creditors, but after those referred to in paragraph (a), and shall rank equally amongst themselves -
+
+(i) the part of eligible deposits from natural persons and micro, small and medium-sized enterprises that exceeds the coverage level in Article 6 of Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014, and
 
 (ii) deposits that would be eligible deposits from natural persons and micro, small and medium-sized enterprises were they not made through branches located outside the European Union of institutions established within the European Union,
 
@@ -42,18 +40,18 @@ Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2
 
 (4) In this section -
 
-‘company’, in addition to the meaning assigned to that expression by section 2(1), includes an unregistered company referred to in section 1326;
+"company", in addition to the meaning assigned to that expression by section 2(1), includes an unregistered company referred to in section 1326;
 
-‘debt instruments’ means bonds and other forms of transferable debt and instruments creating or acknowledging a debt;
-
-‘deposit guarantee scheme’ has the meaning given to it in the Bank Recovery and Resolution Regulations;
-
-‘eligible deposits’ has the meaning given to it in the Bank Recovery and Resolution Regulations and shall include a share account held with a building society or credit union;
+"debt instruments" means bonds and other forms of transferable debt and instruments creating or acknowledging a debt;
 
 3 OJ No. L 173, 12.06.2014, p. 149.
 
-‘institution’ has the meaning given to it in the Bank Recovery and Resolution Regulations;
+"deposit guarantee scheme" has the meaning given to it in the Bank Recovery and Resolution Regulations;
 
-‘micro, small and medium-sized enterprises’ has the meaning given to it in the Bank Recovery and Resolution Regulations.
+"eligible deposits" has the meaning given to it in the Bank Recovery and Resolution Regulations and shall include a share account held with a building society or credit union;
+
+"institution" has the meaning given to it in the Bank Recovery and Resolution Regulations;
+
+"micro, small and medium-sized enterprises" has the meaning given to it in the Bank Recovery and Resolution Regulations.
 
 (5) A word or expression that is used in this section and is also used in Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014, as amended by Directive (EU) 2017/2399 of the European Parliament and of the Council of 12 December 2017 and Directive (EU) 2019/879 of the European Parliament and of the Council of 20 May 2019, shall have, in this section, the same meaning as it has in that Directive.

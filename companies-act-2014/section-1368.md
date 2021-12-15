@@ -1,6 +1,6 @@
 Conviction on indictment of offences under Irish market abuse law: penalties
 
-1368. (1) In this section ‘offence created by Irish market abuse law’ means an offence created by regulations falling within paragraph (a) of the definition of ‘Irish market abuse law’ in section 1365(1).
+1368. (1) In this section "offence created by Irish market abuse law" means an offence created by regulations falling within paragraph (a) of the definition of "Irish market abuse law" in section 1365(1).
 
 (2) A person who is guilty of an offence created by Irish market abuse law (being an offence expressed by that law to be an offence to which this section applies) shall—
 

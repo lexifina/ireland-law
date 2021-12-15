@@ -2,7 +2,7 @@ Operation of certain provisions with regard to particular recognised accountancy
 
 930C. (1) Section 1461 applies to the interpretation of this section as it applies to the interpretation of Part 27.
 
-(2) This section applies where the provision referred to in subsection (3), (4), (5) or (6) uses the expression ‘recognised accountancy body’ without qualification and that provision does not, by its express terms, itself indicate which recognised accountancy body is being referred to.
+(2) This section applies where the provision referred to in subsection (3), (4), (5) or (6) uses the expression "recognised accountancy body" without qualification and that provision does not, by its express terms, itself indicate which recognised accountancy body is being referred to.
 
 (3) A provision of the relevant provisions that confers a function on a recognised accountancy body in relation to a statutory auditor or audit firm shall be read as conferring that function—
 
@@ -42,7 +42,7 @@ Operation of certain provisions with regard to particular recognised accountancy
 
 (9) Arrangements shall not be entered into under subsection (7)(a) by the recognised accountancy bodies save after consultation by them with the Supervisory Authority.
 
-(10) Subject to subsection (11), if in consequence of the operation of this section, the function of withdrawal of a particular approval of a statutory auditor or audit firm falls to be discharged by a recognised accountancy body (in this section referred to as the ‘first-mentioned accountancy body’) that is different from the recognised accountancy body (in this section referred to as the ‘second-mentioned accountancy body’) that granted the approval—
+(10) Subject to subsection (11), if in consequence of the operation of this section, the function of withdrawal of a particular approval of a statutory auditor or audit firm falls to be discharged by a recognised accountancy body (in this section referred to as the "first-mentioned accountancy body") that is different from the recognised accountancy body (in this section referred to as the "second-mentioned accountancy body") that granted the approval—
 
 (a) the first-mentioned accountancy body shall notify in writing the second-mentioned accountancy body of the proposal by it to withdraw the approval, and
 

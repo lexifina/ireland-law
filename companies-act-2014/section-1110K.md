@@ -44,7 +44,7 @@ Transparency of proxy advisors
 
 (6) A requirement in this section to publicly disclose any matter shall be read as a requirement to make the matter available free of charge on the website of the relevant proxy advisor that is subject to the requirement.
 
-(7) In this section, ‘relevant proxy advisor’ means a proxy advisor—
+(7) In this section, "relevant proxy advisor" means a proxy advisor—
 
 (a) that provides services to shareholders with respect to shares that are admitted to trading on a regulated market in any Member State, and
 

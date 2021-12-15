@@ -26,9 +26,7 @@ Application of Parts 1 to 14 to unlimited companies
 
 (8) The specification in the foregoing Table of a provision (a “specified provision”) of Parts 1 to 14 also operates to disapply to the particular type of unlimited company concerned any other provision of those Parts (notwithstanding that it is not specified in that Table) that makes consequential, incidental or supplemental provision on, or in relation to, the specified provision.
 
-Table
-
-Part 1
+Table Part 1
 
 Provisions disapplied to ULCs
 
@@ -250,9 +248,7 @@ Numbering of shares
 
 Section 67
 
-Allotment of shares and variation in capital Chapters 3 and 4 of Part 3
-
-Transfer of shares Chapter 5 of Part 3 (save section 94 in so far as it relates to debentures)
+Allotment of shares and variation in capital Chapters 3 and 4 of Part 3 Transfer of shares Chapter 5 of Part 3 (save section 94 in so far as it relates to debentures)
 
 Acquisition of own shares
 
@@ -260,7 +256,9 @@ Chapter 6 of
 
 Part 3
 
-(save sections 113 to 116) Procedures for declarations, payments, etc., of
+(save sections 113 to 116)
+
+Procedures for declarations, payments, etc., of
 
 Section 124 dividends and other things
 

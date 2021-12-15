@@ -4,11 +4,11 @@ Local offers
 
 (a) on the front page or otherwise in a prominent position:
 
-‘This document,
+"This document,
 
 — has not been prepared in accordance with Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 or any measures made under that Regulation or the laws of Ireland or of any EU Member State or EEA treaty adherent state that implement that Regulation or those measures,
 
-— has not been reviewed, prior to its being issued, by any regulatory authority in Ireland or in any other EU Member State or EEA treaty adherent state, and therefore may not contain all the information required where a document is prepared pursuant to that Regulation or those laws.’;
+— has not been reviewed, prior to its being issued, by any regulatory authority in Ireland or in any other EU Member State or EEA treaty adherent state, and therefore may not contain all the information required where a document is prepared pursuant to that Regulation or those laws.";
 
 (b) elsewhere in the offering document:
 

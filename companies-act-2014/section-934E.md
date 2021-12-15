@@ -1,6 +1,6 @@
 Resolution of suspected relevant contravention by agreement - specified person
 
-934E. (1) Subject to subsection (2), if the Supervisory Authority believes on reasonable grounds that a specified person is committing, or has committed, a relevant contravention, the Supervisory Authority and the person may, at their absolute discretion, enter into an agreement (in this section referred to as a ‘section 934E agreement’) to resolve the matters the subject of the contravention.
+934E. (1) Subject to subsection (2), if the Supervisory Authority believes on reasonable grounds that a specified person is committing, or has committed, a relevant contravention, the Supervisory Authority and the person may, at their absolute discretion, enter into an agreement (in this section referred to as a "section 934E agreement") to resolve the matters the subject of the contravention.
 
 (2) The following provisions shall apply to the section 934E agreement:
 
@@ -28,10 +28,10 @@ Resolution of suspected relevant contravention by agreement - specified person
 
 (a) the following subsection were substituted for subsection (1) of that section:
 
-‘(1) Subject to subsection (3), the Supervisory Authority shall, in so far as a relevant decision imposes a relevant sanction on a specified person, as soon as is practicable, publish on its website particulars of the relevant contravention for which the relevant sanction was imposed, particulars of the relevant sanction imposed and particulars of the specified person on whom the relevant sanction was imposed.’,
+"(1) Subject to subsection (3), the Supervisory Authority shall, in so far as a relevant decision imposes a relevant sanction on a specified person, as soon as is practicable, publish on its website particulars of the relevant contravention for which the relevant sanction was imposed, particulars of the relevant sanction imposed and particulars of the specified person on whom the relevant sanction was imposed.",
 
 (b) subsections (2) and (4) of that section were deleted, and
 
-(c) in subsection (5) of that section, the reference to ‘or (2)’ were deleted.
+(c) in subsection (5) of that section, the reference to "or (2)" were deleted.
 
 (7) Section 941 shall be disregarded for the purposes of a section 934E agreement.

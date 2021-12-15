@@ -10,9 +10,9 @@ Review of members of recognised accountancy bodies
 
 (2) The Supervisory Authority shall, as soon as may be after the end of a year, give to the CEAOB aggregated information in relation to—
 
-(a) all relevant sanctions imposed by it on specified persons (being specified persons who fall within paragraph (b) of the definition of ‘specified person’) during the year in accordance with this Chapter,
+(a) all relevant sanctions imposed by it on specified persons (being specified persons who fall within paragraph (b) of the definition of "specified person") during the year in accordance with this Chapter,
 
-(b) all public notices of relevant sanctions imposed by it on specified persons (being specified persons who fall within paragraph (b) of the definition of ‘specified person’) during the year in accordance with this Chapter,
+(b) all public notices of relevant sanctions imposed by it on specified persons (being specified persons who fall within paragraph (b) of the definition of "specified person") during the year in accordance with this Chapter,
 
 (c) all relevant sanctions (within the meaning of Chapter 9 of Part 27) imposed by it on specified persons (within the meaning of that Chapter) during the year in accordance with that Chapter,
 
@@ -34,7 +34,7 @@ Review of members of recognised accountancy bodies
 
 (6) The Supervisory Authority shall, as soon as may be after it is given the information referred to in subsection (5), give the information to the CEAOB.
 
-(7) In this section, ‘relevant person’, in relation to a recognised accountancy body, means—
+(7) In this section, "relevant person", in relation to a recognised accountancy body, means—
 
 (a) a member of the body, or
 

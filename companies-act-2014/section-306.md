@@ -22,4 +22,4 @@ Supplemental provisions in relation to section 305
 
 (ii) for the purpose of subsection (1) of section 305A, be taken as referring to a subsidiary undertaking at the time the services were rendered.
 
-(6) In sections 305 and 305A and this section, 'director' includes any shadow director and de facto director.
+(6) In sections 305 and 305A and this section, "director" includes any shadow director and de facto director.

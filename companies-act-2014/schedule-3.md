@@ -444,7 +444,7 @@ The amount for creditors in respect of taxation and social insurance shall be sh
 
 (8) Called-up share capital
 
-(Format 1, item C. 3, F. 3 and H. I, and Format 2, 'CAPITAL, RESERVES AND LIABILITIES' items A. I and C. 3)
+(Format 1, item C. 3, F. 3 and H. I, and Format 2, "CAPITAL, RESERVES AND LIABILITIES" items A. I and C. 3)
 
 In accordance with the accounting principle in paragraph 17, called-up share capital shall be analysed between shares that are presented as liabilities and share capital.
 
@@ -456,7 +456,7 @@ Amounts falling due within one year and after one year shall be shown separately
 
 (10) Profit and loss account
 
-(Format 1, items H.V and VI, Format 2, 'CAPITAL, RESERVES AND LIABILITIES' items A.V and V.I)
+(Format 1, items H.V and VI, Format 2, "CAPITAL, RESERVES AND LIABILITIES" items A.V and V.I)
 
 These items may be combined where the appropriation of profit required by paragraph 53 is given at the foot of the profit and loss account or in a note to the financial statements.
 
@@ -644,7 +644,7 @@ Rules for depreciation and diminution in value
 
 Rules for determining particular fixed asset items
 
-24. (1) Notwithstanding that an item in respect of 'development costs' is included under 'fixed assets' in the balance sheet formats set out in Part II, an amount may only be included in a company’s balance sheet in respect of that item in special circumstances.
+24. (1) Notwithstanding that an item in respect of "development costs" is included under "fixed assets" in the balance sheet formats set out in Part II, an amount may only be included in a company’s balance sheet in respect of that item in special circumstances.
 
 (2) If an amount is included in a company’s balance sheet in respect of development costs, the following information shall be given in a note to the financial statements—
 
@@ -704,7 +704,7 @@ DETERMINATION OF PURCHASE PRICE OR PRODUCTION COST
 
 30. (1) Subject to the qualification mentioned in subparagraph (2), the purchase price or production cost of—
 
-(a) any assets which fall to be included under any item shown in a company’s balance sheet under the general item 'stocks', and
+(a) any assets which fall to be included under any item shown in a company’s balance sheet under the general item "stocks", and
 
 (b) any assets which are fungible assets (including investments), may be determined by the application of any of the methods mentioned in subparagraph (3) in relation to any such assets of the same class.
 
@@ -712,7 +712,7 @@ DETERMINATION OF PURCHASE PRICE OR PRODUCTION COST
 
 (3) The methods are—
 
-(a) the method known as 'first in, first out' (FIFO),
+(a) the method known as "first in, first out" (FIFO),
 
 (b) a weighted average price, and
 
@@ -774,9 +774,9 @@ Additional information in case of departure from historical cost accounting rule
 
 Revaluation Reserve
 
-36. (1) With respect to any determination of the value of an asset of a company on any basis mentioned in paragraph 33(1) to (3), the amount of any profit or loss arising from that determination (after allowing, where appropriate, for any value adjustments for depreciation or diminution in value made otherwise than by reference to the value so determined and any adjustments of any such value adjustments made in the light of that determination) shall be credited or, as the case may be, debited to a separate reserve (referred to in this paragraph as the 'revaluation reserve').
+36. (1) With respect to any determination of the value of an asset of a company on any basis mentioned in paragraph 33(1) to (3), the amount of any profit or loss arising from that determination (after allowing, where appropriate, for any value adjustments for depreciation or diminution in value made otherwise than by reference to the value so determined and any adjustments of any such value adjustments made in the light of that determination) shall be credited or, as the case may be, debited to a separate reserve (referred to in this paragraph as the "revaluation reserve").
 
-(2) The amount of the revaluation reserve shall be shown in the company’s balance sheet under a separate sub-heading in the position given for the item 'revaluation reserve' under 'Capital and Reserves' in Format 1 or 2 of the balance sheet formats set out in Part II.
+(2) The amount of the revaluation reserve shall be shown in the company’s balance sheet under a separate sub-heading in the position given for the item "revaluation reserve" under "Capital and Reserves" in Format 1 or 2 of the balance sheet formats set out in Part II.
 
 (3) An amount may be transferred—
 
@@ -788,7 +788,7 @@ Revaluation Reserve
 
 (b) to or from the revaluation reserve in respect of the taxation relating to any profit or loss credited or debited to the reserve, and the revaluation reserve shall be reduced to the extent that the amounts transferred to it are no longer necessary for the purpose of the valuation methods used.
 
-(4) In subparagraph (3)(a)(ii) 'capitalisation', in relation to an amount standing to the credit of the revaluation reserve, means applying it in wholly or partly paying up unissued shares in the company to be allotted to members of the company as fully or partly paid shares.
+(4) In subparagraph (3)(a)(ii) "capitalisation", in relation to an amount standing to the credit of the revaluation reserve, means applying it in wholly or partly paying up unissued shares in the company to be allotted to members of the company as fully or partly paid shares.
 
 (5) The revaluation reserve shall not be reduced except as mentioned in this paragraph.
 
@@ -810,7 +810,7 @@ Inclusion of financial instruments at fair value
 
 38. (1) Financial instruments that, under IFRS, may be accounted for in financial statements at fair value, may be so accounted for in financial statements to which the provisions of this Schedule apply, provided that the disclosures required by IFRS are made.
 
-(2) In this paragraph, 'fair value' means fair value determined in accordance with relevant IFRS.
+(2) In this paragraph, "fair value" means fair value determined in accordance with relevant IFRS.
 
 Hedged items
 
@@ -826,7 +826,7 @@ Other assets that may be included at fair value
 
 (2) Such investment property and such living animals and plants may be included at fair value, provided that all such investment property or, as the case may be, all such living animals and plants are so included where their fair value can reliably be determined.
 
-(3) In this paragraph, 'fair value' means fair value determined in accordance with relevant IFRS.
+(3) In this paragraph, "fair value" means fair value determined in accordance with relevant IFRS.
 
 Accounting for changes in fair value
 
@@ -834,7 +834,7 @@ Accounting for changes in fair value
 
 (2) Notwithstanding paragraph 14, a change in the fair value of an investment property or living animal or plant shall be included in the profit and loss account.
 
-(3) Notwithstanding paragraph 14, a change in the fair value of a financial instrument shall be accounted for in accordance with IFRS and to the extent the change in fair value is not included in the profit and loss account the amount of the change in value shall be credited or (as the case may be) debited to a separate reserve to be known as the 'fair value reserve'.
+(3) Notwithstanding paragraph 14, a change in the fair value of a financial instrument shall be accounted for in accordance with IFRS and to the extent the change in fair value is not included in the profit and loss account the amount of the change in value shall be credited or (as the case may be) debited to a separate reserve to be known as the "fair value reserve".
 
 The fair value reserve
 
@@ -870,7 +870,7 @@ Debentures
 
 Fixed assets
 
-46. (1) In respect of each item which is or would, but for paragraphs 2(2) and 4(4)(b), be shown under the general item 'fixed assets' in the company’s balance sheet, the following information shall be given:
+46. (1) In respect of each item which is or would, but for paragraphs 2(2) and 4(4)(b), be shown under the general item "fixed assets" in the company’s balance sheet, the following information shall be given:
 
 (a) the appropriate amounts in respect of that item as at the date of the beginning of the financial year and as at the financial year end date respectively;
 
@@ -910,7 +910,7 @@ Fixed assets
 
 Financial assets and investments held as current assets
 
-48. (1) In respect of the amount of each item which is or would, but for paragraphs 2(2) or 4(4)(b), be shown in the company’s balance sheet under the general items 'financial assets' or 'investments held as current assets' there shall be stated how much of that amount is ascribable to listed investments.
+48. (1) In respect of the amount of each item which is or would, but for paragraphs 2(2) or 4(4)(b), be shown in the company’s balance sheet under the general items "financial assets" or "investments held as current assets" there shall be stated how much of that amount is ascribable to listed investments.
 
 (2) Where the amount of any listed investments is stated for any item in accordance with subparagraph (1), there shall also be stated the fair value of those investments where it differs from the amount so stated.
 
@@ -992,7 +992,7 @@ Dividends, reserves and provisions for liabilities
 
 (c) the source and application respectively of any amounts so transferred.
 
-(3) Particulars shall be given of each provision included in the item 'other provisions for liabilities' in the company’s balance sheet in any case where the amount of that provision is material.
+(3) Particulars shall be given of each provision included in the item "other provisions for liabilities" in the company’s balance sheet in any case where the amount of that provision is material.
 
 Provision for taxation
 
@@ -1000,23 +1000,23 @@ Provision for taxation
 
 Details of indebtedness
 
-56. (1) In respect of each item shown under 'creditors' in the company’s balance sheet there shall be stated the aggregate amount of any debts included under that item which fall due for payment or repayment after the end of the period of 5 years beginning with the day next following the end of the financial year.
+56. (1) In respect of each item shown under "creditors" in the company’s balance sheet there shall be stated the aggregate amount of any debts included under that item which fall due for payment or repayment after the end of the period of 5 years beginning with the day next following the end of the financial year.
 
 (2) Subject to subparagraph (3), in relation to each debt falling to be taken into account under subparagraph (1), the terms of payment or repayment and the rate of any interest payable on the debt shall be stated.
 
 (3) If the number of debts is such that, in the opinion of the directors, compliance with subparagraph (2) would result in a statement of excessive length, it shall be sufficient to give a general indication of the terms of payment or repayment and the rates of any interest payable on the debts.
 
-(4) In respect of each item shown under 'creditors' in the company’s balance sheet there shall be stated—
+(4) In respect of each item shown under "creditors" in the company’s balance sheet there shall be stated—
 
 (a) the aggregate amount of any debts included under that item in respect of which any security has been given, and
 
 (b) an indication of the nature of the securities so given.
 
-(5) References in subparagraph (1) to an item shown under 'creditors' in the company’s balance sheet include references, where amounts falling due to creditors within one year and after more than one year are distinguished in the balance sheet—
+(5) References in subparagraph (1) to an item shown under "creditors" in the company’s balance sheet include references, where amounts falling due to creditors within one year and after more than one year are distinguished in the balance sheet—
 
 (a) in a case within subparagraph (1), to an item shown under the latter of those categories, and
 
-(b) in a case within subparagraph (4), to an item shown under either of those categories, and references to items shown under 'creditors' include references to items which would, but for paragraphs 2(2) or 4(4)(b), be shown under that heading.
+(b) in a case within subparagraph (4), to an item shown under either of those categories, and references to items shown under "creditors" include references to items which would, but for paragraphs 2(2) or 4(4)(b), be shown under that heading.
 
 57. If any fixed cumulative dividends on the company’s shares are in arrears, there shall be stated, distinguishing between those shares presented as a liability and other shares—
 
@@ -1070,7 +1070,7 @@ Particulars of tax
 
 (3) The amount of the charge for corporation tax, income tax and other taxation on profits or capital gains, so far as charged to revenue, including taxation payable outside the State on profits (distinguishing where practicable between corporation tax and other taxation) shall be stated.
 
-(4) The amounts referred to in subparagraph (3) shall be stated separately in respect of each of the amounts which is or would, but for paragraph 4(4)(b), be shown under the following item in the profit and loss account, that is to say, 'tax on profit or loss'.
+(4) The amounts referred to in subparagraph (3) shall be stated separately in respect of each of the amounts which is or would, but for paragraph 4(4)(b), be shown under the following item in the profit and loss account, that is to say, "tax on profit or loss".
 
 Particulars of turnover
 
@@ -1078,7 +1078,7 @@ Particulars of turnover
 
 (2) If, in the course of the financial year, the company has supplied markets which, in the opinion of the directors, differ substantially from each other, the amount of the turnover attributable to each such market shall also be stated.
 
-(3) In subparagraph (2), 'market' means a market delimited by geographical bounds.
+(3) In subparagraph (2), "market" means a market delimited by geographical bounds.
 
 (4) In analysing for the purposes of this paragraph the source (in terms of business or in terms of market) of turnover, the directors of the company shall have regard to the manner in which the company’s activities are organised.
 
@@ -1208,11 +1208,11 @@ Capitalisation
 
 Investment property
 
-75. In this Schedule, 'investment property' means land or buildings (or both) held to earn rentals or for capital appreciation (or both).
+75. In this Schedule, "investment property" means land or buildings (or both) held to earn rentals or for capital appreciation (or both).
 
 Listed investments
 
-76. In this Schedule, 'listed investments' means investments as respects which there has been granted a listing on—
+76. In this Schedule, "listed investments" means investments as respects which there has been granted a listing on—
 
 (a) any regulated market or other stock exchange in the State,
 
@@ -1226,7 +1226,7 @@ Loans
 
 Materiality
 
-78. In this Schedule, 'material' means the status of information where its omission or misstatement could reasonably be expected to influence decisions that users make on the basis of the financial statements of the undertaking; and the materiality of individual items shall be assessed in the context of other similar items.
+78. In this Schedule, "material" means the status of information where its omission or misstatement could reasonably be expected to influence decisions that users make on the basis of the financial statements of the undertaking; and the materiality of individual items shall be assessed in the context of other similar items.
 
 Value adjustments
 
@@ -1678,7 +1678,7 @@ Payments received on account of orders shall be shown for each of these items in
 
 (6) Called-up share capital
 
-(Format 1, item C. 3, F. 3 and H. I, and Format 2, 'CAPITAL, RESERVES AND LIABILITIES' items A. I and C. 3)
+(Format 1, item C. 3, F. 3 and H. I, and Format 2, "CAPITAL, RESERVES AND LIABILITIES" items A. I and C. 3)
 
 In accordance with the accounting principle in paragraph 17, called-up share capital shall be analysed between shares that are presented as liabilities and share capital.
 
@@ -1690,7 +1690,7 @@ Amounts falling due within one year and after one year shall be shown separately
 
 (8) Profit and loss account
 
-(Format 1, items H.V and VI, Format 2, 'CAPITAL, RESERVES AND LIABILITIES' items A.V and VI)
+(Format 1, items H.V and VI, Format 2, "CAPITAL, RESERVES AND LIABILITIES" items A.V and VI)
 
 These items may be combined where the appropriation of profit required by paragraph 48 is given at the foot of the profit and loss account or in a note to the financial statements.
 
@@ -1880,7 +1880,7 @@ Rules for depreciation and diminution in value
 
 Rules for determining particular fixed asset items
 
-24. (1) Notwithstanding that an item in respect of 'development costs' is included under 'fixed assets' in the balance sheet formats set out in Part II, an amount may only be included in a company’s balance sheet in respect of that item in special circumstances.
+24. (1) Notwithstanding that an item in respect of "development costs" is included under "fixed assets" in the balance sheet formats set out in Part II, an amount may only be included in a company’s balance sheet in respect of that item in special circumstances.
 
 (2) If an amount is included in a company’s balance sheet in respect of development costs, the following information shall be given in a note to the financial statements—
 
@@ -1940,7 +1940,7 @@ DETERMINATION OF PURCHASE PRICE OR PRODUCTION COST
 
 30. (1) Subject to the qualification mentioned in subparagraph (2), the purchase price or production cost of—
 
-(a) any assets which fall to be included under any item shown in a company’s balance sheet under the general item 'stocks', and
+(a) any assets which fall to be included under any item shown in a company’s balance sheet under the general item "stocks", and
 
 (b) any assets which are fungible assets (including investments), may be determined by the application of any of the methods mentioned in subparagraph (3) in relation to any such assets of the same class.
 
@@ -1948,7 +1948,7 @@ DETERMINATION OF PURCHASE PRICE OR PRODUCTION COST
 
 (3) The methods are—
 
-(a) the method known as 'first in, first out' (FIFO),
+(a) the method known as "first in, first out" (FIFO),
 
 (b) a weighted average price, and
 
@@ -2010,9 +2010,9 @@ Additional information in case of departure from historical cost accounting rule
 
 Revaluation Reserve
 
-36. (1) With respect to any determination of the value of an asset of a company on any basis mentioned in paragraph 33(1) to (3), the amount of any profit or loss arising from that determination (after allowing, where appropriate, for any value adjustments for depreciation or diminution in value made otherwise than by reference to the value so determined and any adjustments of any such value adjustments made in the light of that determination) shall be credited or, as the case may be, debited to a separate reserve (referred to in this paragraph as the 'revaluation reserve').
+36. (1) With respect to any determination of the value of an asset of a company on any basis mentioned in paragraph 33(1) to (3), the amount of any profit or loss arising from that determination (after allowing, where appropriate, for any value adjustments for depreciation or diminution in value made otherwise than by reference to the value so determined and any adjustments of any such value adjustments made in the light of that determination) shall be credited or, as the case may be, debited to a separate reserve (referred to in this paragraph as the "revaluation reserve").
 
-(2) The amount of the revaluation reserve shall be shown in the company’s balance sheet under a separate sub-heading in the position given for the item 'revaluation reserve' under 'Capital and Reserves' in Format 1 or 2 of the balance sheet formats set out in Part II.
+(2) The amount of the revaluation reserve shall be shown in the company’s balance sheet under a separate sub-heading in the position given for the item "revaluation reserve" under "Capital and Reserves" in Format 1 or 2 of the balance sheet formats set out in Part II.
 
 (3) An amount may be transferred—
 
@@ -2024,7 +2024,7 @@ Revaluation Reserve
 
 (b) to or from the revaluation reserve in respect of the taxation relating to any profit or loss credited or debited to the reserve and the revaluation reserve shall be reduced to the extent that the amounts transferred to it are no longer necessary for the purpose of the valuation methods used.
 
-(4) In subparagraph (3)(a)(ii) 'capitalisation', in relation to an amount standing to the credit of the revaluation reserve, means applying it in wholly or partly paying up unissued shares in the company to be allotted to members of the company as fully or partly paid shares.
+(4) In subparagraph (3)(a)(ii) "capitalisation", in relation to an amount standing to the credit of the revaluation reserve, means applying it in wholly or partly paying up unissued shares in the company to be allotted to members of the company as fully or partly paid shares.
 
 (5) The revaluation reserve shall not be reduced except as mentioned in this paragraph.
 
@@ -2046,7 +2046,7 @@ Inclusion of financial instruments at fair value
 
 38. (1) Financial instruments that, under IFRS, may be accounted for in financial statements at fair value, may be so accounted for in financial statements to which the provisions of this Schedule apply, provided that the disclosures required by IFRS are made.
 
-(2) In this paragraph, 'fair value' means fair value determined in accordance with relevant IFRS.
+(2) In this paragraph, "fair value" means fair value determined in accordance with relevant IFRS.
 
 Hedged items
 
@@ -2062,7 +2062,7 @@ Other assets that may be included at fair value
 
 (2) Such investment property and such living animals and plants may be included at fair value, provided that all such investment property or, as the case may be, all such living animals and plants are so included where their fair value can reliably be determined.
 
-(3) In this paragraph, 'fair value' means fair value determined in accordance with relevant IFRS.
+(3) In this paragraph, "fair value" means fair value determined in accordance with relevant IFRS.
 
 Accounting for changes in fair value
 
@@ -2070,7 +2070,7 @@ Accounting for changes in fair value
 
 (2) Notwithstanding paragraph 14, a change in the fair value of an investment property or living animal or plant shall be included in the profit and loss account.
 
-(3) Notwithstanding paragraph 14, a change in the fair value of a financial instrument shall be accounted for in accordance with IFRS and to the extent the change in fair value is not referred to in the profit and loss account, the amount of the change in value shall be credited or (as the case may be) debited to a separate reserve to be known, for the purpose of this Schedule as the 'fair value reserve'.
+(3) Notwithstanding paragraph 14, a change in the fair value of a financial instrument shall be accounted for in accordance with IFRS and to the extent the change in fair value is not referred to in the profit and loss account, the amount of the change in value shall be credited or (as the case may be) debited to a separate reserve to be known, for the purpose of this Schedule as the "fair value reserve".
 
 The fair value reserve
 
@@ -2092,7 +2092,7 @@ Information supplementing the balance sheet
 
 Fixed assets
 
-45. (1) In respect of each item which is or would, but for paragraphs 2(2) and 4(4)(b), be shown under the general item 'fixed assets' in the company’s balance sheet, the following information shall be given:
+45. (1) In respect of each item which is or would, but for paragraphs 2(2) and 4(4)(b), be shown under the general item "fixed assets" in the company’s balance sheet, the following information shall be given:
 
 (a) the appropriate amounts in respect of that item as at the date of the beginning of the financial year and as at the financial year end date respectively;
 
@@ -2176,19 +2176,19 @@ Appropriation of profit and loss account
 
 Details of indebtedness
 
-50. (1) In respect of each item shown under 'creditors' in the company’s balance sheet there shall be stated the aggregate amount of any debts included under that item which fall due for payment or repayment after the end of the period of 5 years beginning with the day next following the end of the financial year.
+50. (1) In respect of each item shown under "creditors" in the company’s balance sheet there shall be stated the aggregate amount of any debts included under that item which fall due for payment or repayment after the end of the period of 5 years beginning with the day next following the end of the financial year.
 
-(2) In respect of each item shown under 'creditors' in the company’s balance sheet there shall be stated—
+(2) In respect of each item shown under "creditors" in the company’s balance sheet there shall be stated—
 
 (a) the aggregate amount of any debts included under that item in respect of which any security has been given, and
 
 (b) an indication of the nature of the securities so given.
 
-(3) References in subparagraph (1) to an item shown under 'creditors' in the company’s balance sheet include references, where amounts falling due to creditors within one year and after more than one year are distinguished in the balance sheet—
+(3) References in subparagraph (1) to an item shown under "creditors" in the company’s balance sheet include references, where amounts falling due to creditors within one year and after more than one year are distinguished in the balance sheet—
 
 (a) in a case within subparagraph (1), to an item shown under the latter of those categories, and
 
-(b) in a case within subparagraph (2), to an item shown under either of those categories, and references to items shown under 'creditors' include references to items which would, but for paragraph 2(2) or 4(4)(b), be shown under that heading.
+(b) in a case within subparagraph (2), to an item shown under either of those categories, and references to items shown under "creditors" include references to items which would, but for paragraph 2(2) or 4(4)(b), be shown under that heading.
 
 Guarantees and other financial commitments
 
@@ -2280,7 +2280,7 @@ Capitalisation
 
 Investment property
 
-61. In this Schedule, 'investment property' means land or buildings (or both) held to earn rentals or for capital appreciation (or both).
+61. In this Schedule, "investment property" means land or buildings (or both) held to earn rentals or for capital appreciation (or both).
 
 Loans
 
@@ -2288,7 +2288,7 @@ Loans
 
 Materiality
 
-63. In this Schedule, 'material' means the status of information where its omission or misstatement could reasonably be expected to influence decisions that users make on the basis of the financial statements of the undertaking; and the materiality of individual items shall be assessed in the context of other similar items.
+63. In this Schedule, "material" means the status of information where its omission or misstatement could reasonably be expected to influence decisions that users make on the basis of the financial statements of the undertaking; and the materiality of individual items shall be assessed in the context of other similar items.
 
 Value adjustments
 
@@ -2436,7 +2436,7 @@ NOTE ON THE BALANCE SHEET FORMATS
 
 (1) Creditors
 
-(Format 2, 'CAPITAL, RESERVES AND LIABILITIES', item C)
+(Format 2, "CAPITAL, RESERVES AND LIABILITIES", item C)
 
 Amounts falling due within one year and after one year shall be shown separately.
 
@@ -2526,7 +2526,7 @@ Rules for depreciation and diminution in value
 
 Rules for determining particular fixed asset items
 
-24. (1) Notwithstanding that an item in respect of 'development costs' is included under 'fixed assets' in the balance sheet formats set out in Part II, an amount may only be included in a company’s balance sheet in respect of that item in special circumstances.
+24. (1) Notwithstanding that an item in respect of "development costs" is included under "fixed assets" in the balance sheet formats set out in Part II, an amount may only be included in a company’s balance sheet in respect of that item in special circumstances.
 
 (2) If an amount is included in a company’s balance sheet in respect of development costs, the following information shall be given in a note to the financial statements—
 
@@ -2586,7 +2586,7 @@ DETERMINATION OF PURCHASE PRICE OR PRODUCTION COST
 
 30. (1) Subject to the qualification mentioned in subparagraph (2), the purchase price or production cost of—
 
-(a) any assets which fall to be included in the general item 'stocks' shown in a company’s balance sheet, and
+(a) any assets which fall to be included in the general item "stocks" shown in a company’s balance sheet, and
 
 (b) any assets which are fungible assets (including investments), may be determined by the application of any of the methods mentioned in subparagraph (3) in relation to any such assets of the same class.
 
@@ -2594,7 +2594,7 @@ DETERMINATION OF PURCHASE PRICE OR PRODUCTION COST
 
 (3) The methods are—
 
-(a) the method known as 'first in, first out' (FIFO),
+(a) the method known as "first in, first out" (FIFO),
 
 (b) a weighted average price, and
 
@@ -2634,7 +2634,7 @@ Appropriation of profit and loss account
 
 Details of indebtedness
 
-34. In respect of 'creditors' shown in the company’s balance sheet there shall be stated—
+34. In respect of "creditors" shown in the company’s balance sheet there shall be stated—
 
 (a) the aggregate amount of any debts included under that item in respect of which any security has been given, and
 
@@ -2670,7 +2670,7 @@ Assets: fixed or current
 
 Materiality
 
-37. In this Schedule, 'material' means the status of information where its omission or misstatement could reasonably be expected to influence decisions that users make on the basis of the financial statements of the undertaking. The materiality of individual items shall be assessed in the context of other similar items.
+37. In this Schedule, "material" means the status of information where its omission or misstatement could reasonably be expected to influence decisions that users make on the basis of the financial statements of the undertaking. The materiality of individual items shall be assessed in the context of other similar items.
 
 Value adjustments
 

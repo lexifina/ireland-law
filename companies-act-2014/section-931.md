@@ -2,11 +2,11 @@ Provisions in relation to recognition by Supervisory Authority under section 930
 
 931. (1) This section applies at any of the following times:
 
-(a) at the time of the grant of a recognition under section 930 (in this section referred to as the ‘relevant recognition’) to a body of accountants (in this section referred to as the ‘body concerned’);
+(a) at the time of the grant of a recognition under section 930 (in this section referred to as the "relevant recognition") to a body of accountants (in this section referred to as the "body concerned");
 
 (b) at any time during the currency of the relevant recognition.
 
-(2) The Supervisory Authority may give the body concerned a notice in writing (in this section referred to as a ‘section 931 notice’) providing for any, or any combination of, the following:
+(2) The Supervisory Authority may give the body concerned a notice in writing (in this section referred to as a "section 931 notice") providing for any, or any combination of, the following:
 
 (a) directing the body, with regard to the relevant recognition, to take the action or actions specified in the notice regarding such matters specified in the notice as the Authority thinks necessary or expedient;
 

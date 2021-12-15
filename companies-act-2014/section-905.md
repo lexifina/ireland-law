@@ -18,9 +18,7 @@ Functions of Supervisory Authority
 
 (ii) any amendments to the approved constitution or bye laws of each prescribed accountancy body, including amendments to its investigation and disciplinary procedures and to its standards,
 
-(d) conduct under section 933 enquiries into whether a prescribed accountancy body has complied with the investigation and disciplinary procedures approved for that body under paragraph (c) or referred to in paragraph
-
-(a)(ii) or (iii) or (b)(ii) of the definition of ‘approved investigation and disciplinary procedures’ in subsection (1) of that section,
+(d) conduct under section 933 enquiries into whether a prescribed accountancy body has complied with the investigation and disciplinary procedures approved for that body under paragraph (c) or referred to in paragraph (a)(ii) or (iii) or (b)(ii) of the definition of "approved investigation and disciplinary procedures" in subsection (1) of that section,
 
 (e) impose under section 933 sanctions on prescribed accountancy bodies in relation to enquiries referred to in paragraph (d),
 
@@ -72,7 +70,7 @@ Functions of Supervisory Authority
 
 (b) when engaging in such operation, take into account developments in auditing and the audit profession and, in particular, convergence that has already been achieved by the profession, and
 
-(c) cooperate with the Committee of European Auditing Oversight Bodies (in this Chapter referred to as ‘CEAOB’) established under Article 30 of Regulation (EU) No 537/2014 and the competent authorities referred to in Article 20 of that Regulation in so far as such convergence relates to the statutory audit of public-interest entities.
+(c) cooperate with the Committee of European Auditing Oversight Bodies (in this Chapter referred to as "CEAOB") established under Article 30 of Regulation (EU) No 537/2014 and the competent authorities referred to in Article 20 of that Regulation in so far as such convergence relates to the statutory audit of public-interest entities.
 
 (4) The Supervisory Authority shall—
 

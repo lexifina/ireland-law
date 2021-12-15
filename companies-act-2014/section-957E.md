@@ -1,6 +1,6 @@
 Resolution of suspected certain conduct by agreement - relevant director
 
-957E. (1) Subject to subsection (2), if the Director believes on reasonable grounds that a relevant director has engaged in conduct (in this section referred to as the ‘relevant conduct’) giving rise (whether in whole or in part) to a relevant contravention referred to in section 936A(1), the Director and the relevant director may, at their absolute discretion, enter into an agreement (in this section referred to as a ‘section 957E agreement’) to resolve the matters relating to such conduct.
+957E. (1) Subject to subsection (2), if the Director believes on reasonable grounds that a relevant director has engaged in conduct (in this section referred to as the "relevant conduct") giving rise (whether in whole or in part) to a relevant contravention referred to in section 936A(1), the Director and the relevant director may, at their absolute discretion, enter into an agreement (in this section referred to as a "section 957E agreement") to resolve the matters relating to such conduct.
 
 (2) The following provisions shall apply to the section 957E agreement:
 
@@ -24,10 +24,10 @@ Resolution of suspected certain conduct by agreement - relevant director
 
 (a) the following subsection were substituted for subsection (1) of that section:
 
-‘(1) Subject to subsection (3), the Director shall, in so far as a relevant decision imposes a relevant sanction on a relevant director, as soon as is practicable, publish on his or her website particulars of the relevant contravention to which the relevant sanction relates, particulars of the relevant conduct, particulars of the relevant sanction imposed and particulars of the relevant director on whom the relevant sanction was imposed.’,
+"(1) Subject to subsection (3), the Director shall, in so far as a relevant decision imposes a relevant sanction on a relevant director, as soon as is practicable, publish on his or her website particulars of the relevant contravention to which the relevant sanction relates, particulars of the relevant conduct, particulars of the relevant sanction imposed and particulars of the relevant director on whom the relevant sanction was imposed.",
 
 (b) subsections (2) and (4) of that section were deleted, and
 
-(c) in subsection (5) of that section, the reference to ‘or (2)’ were deleted.
+(c) in subsection (5) of that section, the reference to "or (2)" were deleted.
 
 (7) Section 957I shall be disregarded for the purposes of a section 957E agreement.

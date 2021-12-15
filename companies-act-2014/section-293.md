@@ -24,7 +24,7 @@ Obligation to prepare group financial statements under relevant financial report
 
 (6A) After a financial year in which the directors of a holding company prepare IFRS group financial statements, the directors of the company may, notwithstanding that there is not a relevant change of circumstances as referred to in subsection (7), subsequently prepare Companies Act group financial statements for the company provided they have not changed to preparing Companies Act group financial statements in the period of 5 years preceding the first day of that financial year.
 
-(6B) For the purposes of calculating the 5 year period referred to in subsection (6A), the reference to 'changed to Companies Act group financial statements' shall not be read as including a reference to a change to using those financial statements which was due to a relevant change in circumstances.
+(6B) For the purposes of calculating the 5 year period referred to in subsection (6A), the reference to "changed to Companies Act group financial statements" shall not be read as including a reference to a change to using those financial statements which was due to a relevant change in circumstances.
 
 (7) There is a relevant change of circumstances where at any time during or after the first IFRS year—
 

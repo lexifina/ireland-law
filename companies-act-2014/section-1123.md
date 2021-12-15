@@ -22,6 +22,8 @@ Acquisitions of uncertificated securities from dissenting shareholders
 
 “relevant regulations” means—
 
+2 OJ No. L 173, 12.06.2014, p. 190. 1 OJ No. L 345, 27.12.2017, p. 96. 17 OJ No, L150, 7.6.2019, p. 296
+
 (a) the Companies Act 1990 (Uncertificated Securities) Regulations 1996 (S.I. No. 68 of 1996) which regulations are continued in force by Schedule 6; or
 
 (b) if regulations under section 1086 are made and those regulations—
@@ -29,8 +31,6 @@ Acquisitions of uncertificated securities from dissenting shareholders
 (i) replace the regulations referred to in paragraph (a) — those replacement regulations; or
 
 (ii) amend the regulations referred to in paragraph (a) — the latter regulations as they stand so amended.
-
-2 OJ No. L 173, 12.06.2014, p. 190. 1 OJ No. L 345, 27.12.2017, p. 96. 17 OJ No, L150, 7.6.2019, p. 296
 
 (2) In this section each of the following:
 

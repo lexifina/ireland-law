@@ -6,9 +6,9 @@ General meetings during interim period
 
 (2) This section is in addition to, and does not derogate from, the provisions of subsection (3) of section 175.
 
-(3) If, as respects the year 2020, the requirement to hold an annual general meeting (the ‘relevant requirement’) would, but for this subsection, fall to be complied with by a company on a date in that year (the ‘relevant date’) that is earlier than 31 December 2020, then the company may opt to satisfy the relevant requirement by its holding the annual general meeting on a date that is a date subsequent to the relevant date (but that is not a date later than 31 December 2020).
+(3) If, as respects the year 2020, the requirement to hold an annual general meeting (the "relevant requirement") would, but for this subsection, fall to be complied with by a company on a date in that year (the "relevant date") that is earlier than 31 December 2020, then the company may opt to satisfy the relevant requirement by its holding the annual general meeting on a date that is a date subsequent to the relevant date (but that is not a date later than 31 December 2020).
 
-(4) Where a company opts to avail itself of subsection (3), section 341(2) shall apply to the company as if, in that section, the words ‘at the meeting last-mentioned in section 174A(3)’ were substituted for the words ‘not later than 9 months after the financial year end date’.
+(4) Where a company opts to avail itself of subsection (3), section 341(2) shall apply to the company as if, in that section, the words "at the meeting last-mentioned in section 174A(3)" were substituted for the words "not later than 9 months after the financial year end date".
 
 (5) A company need not hold a general meeting at a physical venue but may conduct the meeting wholly or partly by the use of electronic communications technology as long as all attendees have a reasonable opportunity to participate in the meeting in accordance with this section.
 
@@ -64,7 +64,7 @@ General meetings during interim period
 
 (14) In this section and sections 181(5)(aa), 181A, 182(2A), 186A, 195A and 1103(2)(aa)—
 
-‘attendee’, in relation to a general meeting of a company, means—
+"attendee", in relation to a general meeting of a company, means—
 
 (a) a member of the company,
 
@@ -76,11 +76,11 @@ General meetings during interim period
 
 (e) a person entitled to attend the meeting by virtue of provisions in the constitution of the company or the terms of issue of debt securities issued by the company;
 
-‘electronic communications technology’, in relation to a general meeting of a company, means technology that enables real time transmission and real time two-way audio-visual or audio communication enabling attendees as a whole with a reasonable opportunity to participate in the meeting using such technology from a remote location;
+"electronic communications technology", in relation to a general meeting of a company, means technology that enables real time transmission and real time two-way audio-visual or audio communication enabling attendees as a whole with a reasonable opportunity to participate in the meeting using such technology from a remote location;
 
-‘electronic platform’, in relation to a general meeting of a company, means an electronic system for the delivery of audio-visual or audio communication, including websites, access software and access telephone details or any other electronic technology that delivers such communication;
+"electronic platform", in relation to a general meeting of a company, means an electronic system for the delivery of audio-visual or audio communication, including websites, access software and access telephone details or any other electronic technology that delivers such communication;
 
-‘general meeting’, in relation to a company, means any of the following:
+"general meeting", in relation to a company, means any of the following:
 
 (a) an annual general meeting of the company;
 

@@ -78,6 +78,6 @@ Audit committees for public-interest entities
 
 (18) Section 167 shall not apply to a public-interest entity which is both a UCITS referred to in subsection (11)(b) and a company.
 
-(19) In this section, ‘2003 Prospectus Directive’ has the meaning assigned to it by section 1348.
+(19) In this section, "2003 Prospectus Directive" has the meaning assigned to it by section 1348.
 
 CHAPTER 17

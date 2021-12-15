@@ -1,6 +1,6 @@
 Notification of information to Registrar
 
-1485. (1) (a) An auditor or audit firm (other than a statutory audit firm which falls within paragraph (b) of the definition of ‘statutory audit firm’) shall, as soon as may be after he or she is approved under this Part as a statutory auditor or audit firm, notify the relevant information to the recognised accountancy body.
+1485. (1) (a) An auditor or audit firm (other than a statutory audit firm which falls within paragraph (b) of the definition of "statutory audit firm") shall, as soon as may be after he or she is approved under this Part as a statutory auditor or audit firm, notify the relevant information to the recognised accountancy body.
 
 (b) A Member State audit firm shall, as soon as may be after it is registered in accordance with section 1465, notify the relevant information to the recognised accountancy body.
 
@@ -16,11 +16,11 @@ Notification of information to Registrar
 
 (I) under section 1464(6) or 1465(4) such a number exists, and
 
-(II) by reason of the circumstances referred to in paragraph (b) of the definition of ‘relevant information’ in subsection (4), the relevant information notified to the recognised accountancy body or Supervisory Authority does not include that number, the number referred to in paragraph 1(c)(ii) or 2(g) of Schedule 20.
+(II) by reason of the circumstances referred to in paragraph (b) of the definition of "relevant information" in subsection (4), the relevant information notified to the recognised accountancy body or Supervisory Authority does not include that number, the number referred to in paragraph 1(c)(ii) or 2(g) of Schedule 20.
 
 (3) The notifications under subsections (1) and (2) shall each be made in such form and manner as the Registrar specifies.
 
-(4) In this section, ‘relevant information’ means the information set out in paragraph 1 or 2, as the case may be, of Schedule 20, other than that set out—
+(4) In this section, "relevant information" means the information set out in paragraph 1 or 2, as the case may be, of Schedule 20, other than that set out—
 
 (a) in subparagraph (b) of that paragraph 1 or 2, or
 
