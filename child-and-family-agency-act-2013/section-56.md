@@ -2,7 +2,7 @@
 
 Arrangements with service providers
 
-56. (1) The Agency may, subject to its available resources and having regard to the required level of service identified in the corporate plan or annual business plan and any directions issued by the Minister under section 47, enter, on such terms and conditions as it considers appropriate, into an arrangement with a person for the provision of child and family services or services provided pursuant to section 8(3)(b).
+56. (1) The Agency may, subject to its available resources and having regard to the required level of service identified in the corporate plan or annual business plan and any directions issued by the Minister or the Minister for Education under section 47, enter, on such terms and conditions as it considers appropriate, into an arrangement with a person for the provision of child and family services or services provided pursuant to section 8(3)(b).
 
 (2) Before entering into an arrangement under subsection (1), the Agency shall determine, in respect of a financial year of the Agency, the maximum amount of funding (whether capital funding or non-capital funding) that it proposes to make available during the course of that year under such an arrangement and the level of service it expects to be provided for that funding.
 
@@ -40,15 +40,25 @@ Arrangements with service providers
 
 (b) where such an arrangement has been entered into, the Agency may terminate the arrangement concerned.
 
-(11) When requested to do so by the Minister, the Agency shall supply the Minister with any information obtained in response to a request under subsection (8).
+(11) When requested to do so by the Minister or, where the request relates to the provision of services by a service provider in respect of the education welfare functions of the Agency, the Minister for Education, the Agency shall supply the Minister concerned with any information obtained in response to a request under subsection (8).
 
 (12) Nothing in this Act shall empower the Agency to delegate to a service provider the duty imposed on it under section 4 of the Child Care Act 1991 to take a child into its care or to make an application for an order under Part III, IV, IVA (as amended by the Child Care (Amendment) Act 2011) or VI of that Act.
 
-(13) The Minister may prescribe requirements in respect of—
+(13) The Minister may , other than in relation to the matters referred to in subsection (13A), prescribe requirements in respect of—
 
 (a) the expenditure incurred by the Agency in the provision of services by service providers, and
 
 (b) the provision of those services by service providers.
+
+(13A) The Minister for Education may make regulations to provide for the requirements in respect of—
+
+(a) the expenditure incurred by the Agency in the provision of services by service providers in respect of the education welfare functions of the Agency, and
+
+(b) the provision of those services by service providers.
+
+(13B) Regulations under subsection (13A) may contain such incidental, supplementary and consequential provisions as appear to the Minister for Education to be necessary or expedient for the purposes of the regulations.
+
+(13C) Every regulation made by the Minister for Education under subsection (13A) shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House sits after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
 
 (14) For the avoidance of doubt, an arrangement under this section shall not give rise to an employment relationship between a service provider, its employees or agents on the one hand and the Agency on the other.
 

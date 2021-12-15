@@ -38,6 +38,12 @@ Interpretation
 
 (d) any audio or video recording;
 
+"education welfare functions" means—
+
+(a) in the case of the Agency, the functions of the Agency under the Education (Welfare) Act 2000 transferred to it by section 72, and
+
+(b) in the case of the Minister for Education, the functions of that Minister under the Education (Welfare) Act 2000;
+
 “establishment day” means the day appointed under section 6;
 
 “family” means spouse, parent, grandparent, step-parent, child (including a step-child), grandchild, brother, sister, half-brother, half-sister, and any other person who, in the opinion of the Agency, has a bona fide interest in the child;

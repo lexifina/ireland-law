@@ -12,9 +12,9 @@ Functions of Agency
 
 (e) carry on such activities or publish such information concerning the functions specified in paragraphs (a), (b), (c) and (d) as it considers appropriate,
 
-(f) undertake or commission research into matters related to the functions specified in paragraphs (a), (b), (c) and (d) or into such other matters as the Minister may request, and
+(f) undertake or commission research into matters related to the functions specified in paragraphs (a), (b), (c) and (d) or into such other matters as the Minister or the Minister for Education, having regard to the performance of that Minister’s education welfare functions, may request, and
 
-(g) provide information or advice, or make proposals, to the Minister on matters relating to the functions of the Agency.
+(g) provide information or advice, or make proposals, to the Minister on matters relating to the functions of the Agency or the Minister for Education, in respect of the education welfare functions of the Agency.
 
 (2) The functions specified in subsection (1)(b) include providing for the protection and care of children in circumstances where their parents have not given, or are unlikely to be able to give, adequate protection and care.
 

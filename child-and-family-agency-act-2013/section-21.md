@@ -16,14 +16,18 @@ Role of Board
 
 (f) ensure, having regard to net expenditure limits determined under section 45, the integrity of the Agency’s accounting and financial reporting systems, including the independent audit, and that appropriate systems of control are in place, in particular, systems for risk management, financial and operational control, and compliance with the law and relevant standards.
 
-(3) The Board of the Agency shall be accountable to the Minister for the performance of its functions.
+(3) The Board of the Agency shall be accountable—
+
+(a) to the Minister for the performance of its functions, and
+
+(b) to the Minister for Education in respect of the performance by the Agency of its education welfare functions.
 
 (4) The Board may delegate to the chief executive officer any of the functions of the Agency with the exception of the functions of the Board under subsection (2).
 
 (5) If a function of the Agency is delegated to the chief executive officer under subsection (4), the delegation remains in force until the Board revokes the delegation.
 
-(6) The Board shall notify the Minister in writing of any delegation under subsection (4) or revocation under subsection (5).
+(6) The Board shall notify the Minister or, in respect of any education welfare functions of the Agency, the Minister for Education, in writing of any delegation under subsection (4) or revocation under subsection (5).
 
-(7) Without prejudice to section 14, the Board shall inform the Minister of any matter that it considers requires the Minister’s attention.
+(7) Without prejudice to section 14, the Board shall inform the Minister or the Minister for Education of any matter that it considers requires the attention of the Minister concerned.
 
-(8) The Minister may issue directions to the Board in relation to the delegation of functions to the chief executive officer under subsection (4).
+(8) The Minister or, in respect of any education welfare functions of the Agency, the Minister for Education, may issue directions to the Board in relation to the delegation of functions to the chief executive officer under subsection (4).

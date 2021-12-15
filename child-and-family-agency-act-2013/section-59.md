@@ -1,6 +1,6 @@
 Supplemental service
 
-59. (1) The Agency may, subject to any directions given by the Minister in accordance with section 47, and on such terms and conditions as it considers appropriate, give assistance to a person that provides or proposes to provide, otherwise than for profit, a service supplemental to services provided by the Agency.
+59. (1) The Agency may, subject to any directions given by the Minister or the Minister for Education in accordance with section 47, and on such terms and conditions as it considers appropriate, give assistance to a person that provides or proposes to provide, otherwise than for profit, a service supplemental to services provided by the Agency.
 
 (2) Assistance under this section may be provided by—
 

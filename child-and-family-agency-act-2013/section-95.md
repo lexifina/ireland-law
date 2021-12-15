@@ -1,6 +1,6 @@
 Charges in relation to functions
 
-95. (1) Notwithstanding section 70 of the Child Care Act 1991, the Agency may, with the consent of the Minister, make regulations specifying such charges as it considers necessary and appropriate in consideration of—
+95. (1) Notwithstanding section 70 of the Child Care Act 1991, the Agency may, with the consent of the Minister and, in respect of the performance by the Agency of its education welfare functions, with the consent of the Minister for Education, make regulations specifying such charges as it considers necessary and appropriate in consideration of—
 
 (a) the performance by it of its functions under paragraphs (a), (b) and (c) of section 8(1), and
 

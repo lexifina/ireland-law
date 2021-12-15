@@ -6,19 +6,25 @@ Annual report
 
 (a) a statement of the activities undertaken by the Agency,
 
-(b) a report in relation to the implementation of the Agency”s corporate plan approved under section 42,
+(b) a report in relation to the implementation of the Agency’s corporate plan approved under section 42,
 
-(c) a report in relation to the implementation of the Agency”s business plan submitted to the Minister under section 46,
+(c) a report in relation to the implementation of the Agency’s business plan submitted to the Minister and the Minister for Education under section 46,
 
-(d) an indication of the Agency”s arrangements for implementing the code of governance prepared in accordance with section 50,
+(d) an indication of the Agency’s arrangements for implementing the code of governance prepared in accordance with section 50,
 
 (e) particulars in relation to financial statements,
 
-(f) other particulars that the Agency considers appropriate or as the Minister after consulting the Minister for Health and the Minister for Education and Skills may require, and
+(f) other particulars—
+
+(i) that the Agency considers appropriate,
+
+(ii) as the Minister after consulting the Minister for Health and the Minister for Education may require, and
+
+(iii) as the Minister for Education, having regard to the performance of his or her education welfare functions and his or her functions under this Act, may require, and
 
 (g) the report required by section 70.
 
-(3) As soon as may be, but in any event not later than 21 days after adopting the annual report, the Agency shall submit a copy of the annual report to the Minister.
+(3) As soon as may be, but in any event not later than 21 days after adopting the annual report, the Agency shall submit a copy of the annual report to the Minister and the Minister for Education.
 
 (4) The Minister shall, within 21 days of receiving the annual report, cause copies of it to be laid before each House of the Oireachtas.
 

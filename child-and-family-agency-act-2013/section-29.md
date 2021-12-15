@@ -10,9 +10,11 @@ Functions of chief executive officer and their performance by deputy
 
 (c) provide the Board with such information (including financial information) relating to the performance of his or her functions and the implementation of the Board’s policies as the Board may require,
 
-(d) assist and provide the accounting officer with such information (including financial information and records) relating to the performance of the role of accounting officer within such time and in such format as may be requested by the accounting officer from time to time, and
+(d) assist and provide the accounting officer with such information (including financial information and records) relating to the performance of the role of accounting officer within such time and in such format as may be requested by the accounting officer from time to time,
 
-(e) supply the Minister with such information relating to the performance of his or her functions and the implementation of the Minister’s policies and priorities as the Minister may require.
+(e) supply the Minister with such information relating to the performance of his or her functions and the implementation of the Minister’s policies and priorities as the Minister may require, and
+
+(f) supply the Minister for Education with such information relating to the performance of his or her education welfare functions and the implementation of that Minister’s policies and priorities with regard to those functions as he or she may require.
 
 (3) If the chief executive officer is absent or the position of chief executive officer is vacant, the functions of the chief executive officer under this section may be performed by such employee of the Agency, as may be appointed by the Board from time to time to act as acting chief executive officer.
 

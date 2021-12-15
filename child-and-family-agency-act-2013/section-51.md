@@ -30,6 +30,8 @@ Accounts of Agency
 
 (8) If required by the Minister, the Agency shall furnish to the Minister the information the Minister may require in respect of any balance sheet, account or report of the Agency.
 
+(8A) If required by the Minister for Education, the Agency shall furnish to that Minister the information in respect of the education welfare functions of the Agency as that Minister may require in respect of any balance sheet, account or report of the Agency.
+
 (9) The Agency, the chief executive officer and other employees of the Agency—
 
 (a) whenever so requested by the Minister, shall permit any person appointed by the Minister to examine the books or other records of account of the Agency in respect of any financial year or other period, and

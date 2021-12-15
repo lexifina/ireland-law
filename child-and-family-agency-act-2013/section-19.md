@@ -10,6 +10,10 @@ Membership of Board of Agency
 
 (b) matters connected to organisational governance, management or public administration.
 
+(2A) Subject to subsection (2B), one member of the Board appointed under subsection (2) shall be a nominee of the Minister for Education who, in the opinion of that Minister, has experience of, and expertise in, matters connected to the education welfare functions of the Agency.
+
+(2B) The Minister shall appoint the first person as a member of the Board, in accordance with subsection (2A), no later than 24 September 2023.
+
 (3) The Minister shall designate one member of the Board to be the chairperson.
 
 (4) The Minister shall designate one member of the Board to be the deputy chairperson.

@@ -14,6 +14,6 @@ Unauthorised disclosure of confidential information
 
 (a) is made to or authorised by the Agency,
 
-(b) is made to the Minister by or on behalf of the Agency or in compliance with this Act, or
+(b) is made to the Minister or the Minister for Education by or on behalf of the Agency or in compliance with this Act, or
 
 (c) is required by law.

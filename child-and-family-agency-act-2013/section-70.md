@@ -1,6 +1,6 @@
 Annual report to include report on complaints and reviews
 
-70. (1) The Agency shall submit to the Minister, as part of the Agency’s annual report, a general report on the performance of its functions under this Part during the previous year containing such information as the Agency considers appropriate or as the Minister may specify.
+70. (1) The Agency shall submit to the Minister and the Minister for Education, as part of the Agency’s annual report, a general report on the performance of its functions under this Part during the previous year containing such information as the Agency considers appropriate or as the Minister or the Minister for Education may specify.
 
 (2) A service provider who has established a complaints procedure by agreement with the Agency shall in each year, at such time and in such manner as the Agency may determine, provide the Agency with a general report on the complaints received by the service provider during the previous year indicating—
 
