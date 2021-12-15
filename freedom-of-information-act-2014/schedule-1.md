@@ -192,9 +192,7 @@ Section 6 does not include a reference to—
 
 Part 2
 
-Exempt Agencies
-
-A board of management established under section 14 of the Education Act 1998, other than a board of management of a school established or maintained by an education and training board
+Exempt Agencies A board of management established under section 14 of the Education Act 1998, other than a board of management of a school established or maintained by an education and training board
 
 A bridge bank within the meaning of section 17 of the Central Bank and Credit Institutions (Resolution) Act 2011
 
@@ -220,7 +218,9 @@ Drogheda Port Company
 
 Dublin Airport Authority plc.
 
-Dublin Port Company Dun Laoghaire Harbour Company
+Dublin Port Company
+
+Dun Laoghaire Harbour Company
 
 Electricity Supply Board
 
@@ -250,9 +250,7 @@ Port of Cork Company
 
 Port of Waterford Company
 
-Private Security Appeals Board
-
-Private Security Authority
+Private Security Appeals Board Private Security Authority
 
 Shannon Airport Authority plc.
 

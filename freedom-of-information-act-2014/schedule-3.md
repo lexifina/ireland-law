@@ -6,7 +6,9 @@ Sections 35 and 41
 
 Part 1
 
-Statutes Number and Year Short Title Provision
+Statutes
+
+Number and Year Short Title Provision
 
 (1) (2) (3)
 
@@ -38,9 +40,7 @@ No. 18 of 1988 Agriculture (Research, Training and Section 14. Advice) Act 1988
 
 No. 26 of 1988 Forestry Act 1988 Section 33.
 
-No. 18 of 1990 National Treasury Management Section 14. Agency Act 1990
-
-No. 19 of 1990 Industrial Relations Act 1990 Section 25(6).
+No. 18 of 1990 National Treasury Management Section 14. Agency Act 1990 No. 19 of 1990 Industrial Relations Act 1990 Section 25(6).
 
 No. 25 of 1990 Pensions Act 1990 Section 24.
 
@@ -72,7 +72,9 @@ No.4 of 1996 Voluntary Health Insurance Section 8. (Amendment) Act 1996
 
 No. 11 of 1996 Harbours Act 1996 Section 33.
 
-No. 28 of 1998 National Standards Authority of Paragraph 5 of the Ireland Act 1996 Second Schedule. No. 39 of 1997 Taxes Consolidation Act 1997 Section 857.
+No. 28 of 1998 National Standards Authority of Paragraph 5 of the Ireland Act 1996 Second Schedule.
+
+No. 39 of 1997 Taxes Consolidation Act 1997 Section 857.
 
 No. 24 of 1998 Air Navigation and Transport Section 36. (Amendment) Act 1998
 
@@ -98,9 +100,7 @@ No. 10 of 2002 Gas (Interim) (Regulation) Act 2002 Section 19.
 
 No. 20 of 2002 Communications Regulation Act Section 24. 2002
 
-No. 10 of 2003 National Tourism Development Section 22. Authority Act 2003
-
-No. 23 of 2003 Digital Hub Development Agency Act Section 27. 2003
+No. 10 of 2003 National Tourism Development Section 22. Authority Act 2003 No. 23 of 2003 Digital Hub Development Agency Act Section 27. 2003
 
 No. 24 of 2003 Arts Act 2003 Section 20.
 
@@ -132,13 +132,13 @@ No. 15 of 2008 Dublin Transport Authority Act 2008 Section 38.
 
 No. 10 of 2010 Inland Fisheries Act 2010 Section 36.
 
-No. 41 of 2011 Nurses and Midwives Act 2011 Section 17. No. 28 of 2012 Qualifications and Quality Assurance Paragraph 13 of (Education and Training) Act 2012 Schedule 1.
+No. 41 of 2011 Nurses and Midwives Act 2011 Section 17.
+
+No. 28 of 2012 Qualifications and Quality Assurance Paragraph 13 of (Education and Training) Act 2012 Schedule 1.
 
 Part 2
 
-Statutory Instruments
-
-Number & Year Title of Instrument Provision
+Statutory Instruments Number & Year Title of Instrument Provision
 
 (1) (2) (3)
 
@@ -158,7 +158,9 @@ No. 253 of 1994 The European Communities (Active Article 20(1) (c). Implantable 
 
 No. 376 of 1999 The National Council for the Professional Article 25. Development of Nursing and Midwifery (Establishment) Order 1999.
 
-No. 109 of 2000 The Pre-Hospital Emergency Care Council Article 35. (Establishment) Order 2000. No. 304 of 2001 European Communities (In Vitro Articles 17(4) (c) Diagnostic Medical Devices) Regulations and 20. 2001.
+No. 109 of 2000 The Pre-Hospital Emergency Care Council Article 35. (Establishment) Order 2000.
+
+No. 304 of 2001 European Communities (In Vitro Articles 17(4) (c) Diagnostic Medical Devices) Regulations and 20. 2001.
 
 No. 179 of 2004 National Treatment Purchase Fund Board Article 16. (Establishment) Order 2004.
 

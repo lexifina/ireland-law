@@ -16,9 +16,7 @@ No. 46 of 1999 Freedom of Information Act 1997 (Section 6(4)(b)) Regulations 199
 
 No. 329 of 1999 Freedom of Information Act 1997 (Prescribed Bodies) Regulations 1999.
 
-No. 115 of 2000 Freedom of Information Act 1997 (Prescribed Bodies) (No. 2) Regulations 2000.
-
-No. 127 of 2001 Freedom of Information Act 1997 (Prescribed Bodies) (No. 2) Regulations 2001.
+No. 115 of 2000 Freedom of Information Act 1997 (Prescribed Bodies) (No. 2) Regulations 2000. No. 127 of 2001 Freedom of Information Act 1997 (Prescribed Bodies) (No. 2) Regulations 2001.
 
 No. 368 of 2001 Freedom of Information Act 1997 (Classes of Health Professionals) Regulations 2001.
 
