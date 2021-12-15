@@ -4,7 +4,7 @@ F7[Interpretation and application - Part III
 
 12. (1) In this Part—
 
-‘family member’, in relation to a victim, means—
+"family member", in relation to a victim, means—
 
 (a) a spouse, civil partner or cohabitant of the victim,
 
@@ -24,7 +24,7 @@ F7[Interpretation and application - Part III
 
 (ii) who a court considers has or, where the victim is deceased, had a sufficiently close connection with the victim as to warrant his or her being treated as a family member;
 
-‘relevant offence’ means—
+"relevant offence" means—
 
 (a) a sexual offence;
 
@@ -38,7 +38,7 @@ F7[Interpretation and application - Part III
 
 (e) an offence consisting of attempting or conspiring to commit, or of aiding or abetting, counselling, procuring or inciting the commission of, an offence mentioned in paragraph (a), (b), (c), (d) or (da);
 
-‘victim’ means—
+"victim" means—
 
 (a) a natural person, other than an accused, who has suffered harm, including physical, mental or emotional harm, or economic loss, which was directly caused by an offence, and
 

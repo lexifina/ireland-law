@@ -28,4 +28,4 @@ F21[Protection against crossexamination by accused
 
 (b) where the witness has been cross-examined by a legal representative appointed under subsection (5), by the fact that the cross-examination was carried out by such a legal representative and not by a person acting as the legal representative of the accused.
 
-(7) In addition to the meaning assigned to that expression by section 27 of the Civil Legal Aid Act 1995, ‘legal aid’ in that Act means representation by a solicitor or barrister, engaged by the Legal Aid Board under section 11 of that Act on behalf of the accused in relation to the cross-examination of a witness under subsection (3).
+(7) In addition to the meaning assigned to that expression by section 27 of the Civil Legal Aid Act 1995, "legal aid" in that Act means representation by a solicitor or barrister, engaged by the Legal Aid Board under section 11 of that Act on behalf of the accused in relation to the cross-examination of a witness under subsection (3).

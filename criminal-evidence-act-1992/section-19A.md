@@ -2,17 +2,17 @@ F37[Disclosure of third party records in certain trials
 
 19A. (1) In this section—
 
-‘Act of 1995’ means the Civil Legal Aid Act 1995;
+"Act of 1995" means the Civil Legal Aid Act 1995;
 
-‘competent person’ means a person who has undertaken training or study or has experience relevant to the process of counselling;
+"competent person" means a person who has undertaken training or study or has experience relevant to the process of counselling;
 
-‘counselling’ means listening to and giving verbal or other support or encouragement to a person, or advising or providing therapy or other treatment to a person (whether or not for remuneration);
+"counselling" means listening to and giving verbal or other support or encouragement to a person, or advising or providing therapy or other treatment to a person (whether or not for remuneration);
 
-‘counselling record’ means any record, or part of a record, made by any means, by a competent person in connection with the provision of counselling to a person in respect of whom a sexual offence is alleged to have been committed (‘the complainant’), which the prosecutor has had sight of, or about which the prosecutor has knowledge, and in relation to which there is a reasonable expectation of privacy;
+"counselling record" means any record, or part of a record, made by any means, by a competent person in connection with the provision of counselling to a person in respect of whom a sexual offence is alleged to have been committed (‘the complainant’), which the prosecutor has had sight of, or about which the prosecutor has knowledge, and in relation to which there is a reasonable expectation of privacy;
 
-‘court’ means the Circuit Criminal Court or the Central Criminal Court;
+"court" means the Circuit Criminal Court or the Central Criminal Court;
 
-‘sexual offence’ means an offence referred to in the Schedule to the Sex Offenders Act 2001.
+"sexual offence" means an offence referred to in the Schedule to the Sex Offenders Act 2001.
 
 (2) In criminal proceedings for a sexual offence the prosecutor shall notify the accused of the existence of any counselling record but shall not disclose the content of the record without the leave of the court given in accordance with this section.
 
@@ -84,6 +84,6 @@ F37[Disclosure of third party records in certain trials
 
 (15) For the purposes of a hearing pursuant to subsection (8), all persons, other than officers of the court, persons directly concerned in the hearing and such other persons (if any) as the court may determine, shall be excluded from the court during the hearing.
 
-(16) In addition to the meaning assigned to that expression by section 27 of the Act of 1995, ‘legal aid’ in that Act means representation by a solicitor or barrister, engaged by the Legal Aid Board under section 11 of that Act, on behalf of a complainant or witness in relation to a disclosure application that concerns the complainant or witness.
+(16) In addition to the meaning assigned to that expression by section 27 of the Act of 1995, "legal aid" in that Act means representation by a solicitor or barrister, engaged by the Legal Aid Board under section 11 of that Act, on behalf of a complainant or witness in relation to a disclosure application that concerns the complainant or witness.
 
 (17) This section does not apply where a complainant or witness has expressly waived his or her right to non-disclosure of a counselling record without leave of the court.
