@@ -98,7 +98,7 @@ Restriction of Act
 
 (C) a record relating to the appointment of persons under section 7 or 8 of the Commissions of Investigation Act 2004,
 
-(ea) a record held by the CervicalCheck Tribunal (in this paragraph referred to as ‘the Tribunal’) or, after the Tribunal has been dissolved, the Minister for Health, relating to the Tribunal, other than a record relating to the expenses of the Tribunal or other matters concerning the general administration of the Tribunal,
+(ea) a record held by the CervicalCheck Tribunal (in this paragraph referred to as "the Tribunal") or, after the Tribunal has been dissolved, the Minister for Health, relating to the Tribunal, other than a record relating to the expenses of the Tribunal or other matters concerning the general administration of the Tribunal,
 
 (f) a record held or created by the Attorney General or the Director of Public Prosecutions or the Office of the Attorney General or the Office of Director of Public Prosecutions, other than a record relating to general administration,
 
@@ -119,6 +119,8 @@ Restriction of Act
 (iii) any of the Supervisory Directives, within the meaning of the Central Bank Act 1942,
 
 (j) a record given by an FOI body to a member of the Government or a Minister of State for use by him or her for the purposes of any proceedings in either House of the Oireachtas or any committee of either or both of such Houses or any subcommittee of such a committee (including such proceedings in relation to questions put by members of either such House to members of the Government or Ministers of State (whether answered orally or in writing)),
+
+(ja) a record relating to a report, within the meaning of the Protected Disclosures Act 2014 , made under that Act, whether the report was made before or after the date of the passing of the Protected Disclosures (Amendment) Act 2022,
 
 (k) a record relating to any of the private papers (within the meaning of Article 15.10 of the Constitution) of a member of either House of the Oireachtas or an official document of either or both of such Houses that is required by the rules or standing orders of either or both of such Houses to be treated as confidential,
 
