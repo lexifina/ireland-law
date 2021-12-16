@@ -8,8 +8,6 @@ Interpretation and application (Chapter 8C)
 
 "personal data" has the meaning assigned to it in the General Data Protection Regulation;
 
-7 OJ No. L 119, 4.5.2016, p.1
-
 "special categories of personal data" has the meaning assigned to it in the General Data Protection Regulation;
 
 "traded PLC" has the meaning assigned to it by section 1099(4).
