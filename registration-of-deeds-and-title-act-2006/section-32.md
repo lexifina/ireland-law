@@ -38,7 +38,7 @@ Interpretation ( Part 3).
 
 (ii) any lease for a term not exceeding 21 years (or such other period as may be prescribed) where actual occupation is in accordance with the lease;
 
-‘land’ has the meaning given to it by section 3 of the Land and Conveyancing Law Reform Act 2009;
+"land" has the meaning given to it by section 3 of the Land and Conveyancing Law Reform Act 2009;
 
 “lease” means any contract of tenancy and includes an agreement for a lease;
 
