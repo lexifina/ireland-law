@@ -18,6 +18,8 @@ Permission for development.
 
 (e) The notice shall identify where practical information on the appeal and review mechanisms can be found.
 
+(1B) Where a planning authority receives an application for permission to which section 32A(1) applies it shall notify the elected members of the planning authority of the making of the application, of where the application is available for inspection, and of such other information as may be prescribed.
+
 (2) (a) When making its decision in relation to an application under this section, the planning authority shall be restricted to considering the proper planning and sustainable development of the area, regard being had to—
 
 (i) the provisions of the development plan,
@@ -63,6 +65,12 @@ Permission for development.
 (3A) In determining an application for permission that relates to an existing planning permission for a residential multi-unit development (within the meaning of section 1 of the Multi-Unit Development Act 2011) and where the purpose of the application for permission is to take account of specific planning policy requirements (within the meaning given by subsection (2)(d)) of new or revised guidelines issued by the Minister under section 28 with regard to the previously permitted development, the planning authority concerned or the Board (as the case may be) shall, notwithstanding section 34(2)(a), be restricted in its determination of the application to considering the modifications proposed by the applicant.
 
 (3B) Notwithstanding section 37, no appeal shall be made to the Board in respect of the determination by the planning authority concerned of an application to which subsection (3A) relates unless it would relate to a materially significant change to the approved external appearance of the proposed development.
+
+(3C) In determining an application for permission that relates to a development in respect of a part of which permission has previously been granted—
+
+(a) under section 9 of the Planning and Development (Housing) and Residential Tenancies Act 2016, or
+
+(b) on foot of an application in accordance with section 32A, the planning authority concerned shall, notwithstanding section 34(2)(a), be restricted in its determination of the application, other than in respect of any assessment of the effects of the proposed development on the environment, to considering the modifications proposed by the applicant to the previously permitted development and for the purposes of determining such an application the reference in subsection (6) to "the development concerned" shall be read as a reference to "the modifications to the previously permitted development".
 
 (4) Conditions under subsection (1) may, without prejudice to the generality of that subsection, include all or any of the following—
 
@@ -112,7 +120,19 @@ Permission for development.
 
 (q) conditions for regulating the hours and days during which a business premises may operate.
 
-(5) The conditions under subsection (1) may provide that points of detail relating to a grant of permission may be agreed between the planning authority and the person carrying out the development; if the planning authority and that person cannot agree on the matter the matter may be referred to the Board for determination.
+(5) The conditions under subsection (1) may provide that points of detail relating to a grant of permission be agreed between the planning authority and the person carrying out the development and, accordingly—
+
+(a) where for that purpose that person has submitted to the planning authority concerned such points of detail, then that authority shall, within 8 weeks of those points being so submitted, or such longer period as may be agreed between them in writing, either—
+
+(i) reach agreement with that person on those points, or
+
+(ii) where that authority and that person cannot so agree on those points, that authority may—
+
+(I) advise that person accordingly in writing, or
+
+(II) refer the matter to the Board for its determination, and, where clause (I) applies, that person may, within 4 weeks of being so advised, refer the matter to the Board for its determination, or
+
+(b) where none of the events referred to in subparagraph (i) or in clause (I) or (II) of subparagraph (ii) occur within those 8 weeks or such longer period as may have been so agreed, then that authority shall be deemed to have agreed to the points of detail as so submitted.
 
 (6) (a) In a case in which the development concerned would contravene materially the development plan or local area plan, a planning authority may, notwithstanding any other provision of this Act, decide to grant permission under this section, provided that the following requirements are complied with before the decision is made, namely—
 
@@ -164,7 +184,7 @@ Permission for development.
 
 (i) within 4 weeks of the notice being complied with, or
 
-(ii) if in relation to further information given or evidence produced in compliance with the notice, the planning authority—
+(ii) if, within the period specified in subparagraph (i), in relation to further information given or evidence produced in compliance with the notice, the planning authority—
 
 (I) considers that it contains significant additional data which requires the publication of a notice by the applicant in accordance with the permission regulations, and
 
@@ -174,7 +194,7 @@ Permission for development.
 
 (i) within 8 weeks of the notice being complied with, or
 
-(ii) if in relation to further information given or evidence produced in compliance with the notice, the planning authority—
+(ii) if, within the period specified in subparagraph (i), in relation to further information given or evidence produced in compliance with the notice, the planning authority—
 
 (I) considers that it contains significant additional data which requires the publication of a notice by the applicant in accordance with the permission regulations, and
 
@@ -188,7 +208,7 @@ Permission for development.
 
 (I) within 8 weeks, in the case of further information in relation to the environmental impact assessment report, and within 4 weeks, in the case of further information in relation to the Natura impact statement, of the notice being complied with, or
 
-(II) if in relation to further information given, the planning authority considers that it contains significant additional data which requires the publication of a notice by the applicant in accordance with regulations under this Act, and gives notice accordingly to the applicant, within 8 weeks, in the case of such further information given in relation to the environmental impact assessment report, and within 4 weeks, in the case of such further information given in relation to the Natura impact statement, beginning on the day on which notice of that publication is given by the applicant to the planning authority.
+(II) if, within the period specified in clause (I), in relation to further information given, the planning authority considers that it contains significant additional data which requires the publication of a notice by the applicant in accordance with regulations under this Act, and gives notice accordingly to the applicant, within 8 weeks, in the case of such further information given in relation to the environmental impact assessment report, and within 4 weeks, in the case of such further information given in relation to the Natura impact statement, beginning on the day on which notice of that publication is given by the applicant to the planning authority.
 
 (d) Where a notice referred to in subsection (6) is published in relation to the application, the authority shall make its decision within the period of 8 weeks beginning on the day on which the notice is first published.
 
@@ -198,11 +218,11 @@ Permission for development.
 
 (ii) is of such a nature as to be likely, if a major accident were to occur, and, having regard to all the circumstances, to cause there to be serious consequences, a planning authority consults, in accordance with the permission regulations, with a prescribed authority for the purpose of obtaining technical advice regarding such risk or consequences, the authority shall make a decision in relation to the application within 4 weeks beginning on the day on which the technical advice is received.
 
-(f) (i) Where a planning authority has failed to make a decision in relation to an application within the period specified in paragraph (a), (b), (c), (d) or (e) as appropriate (referred to in this paragraph as the ‘first period’) and becomes aware, whether through notification by the applicant or otherwise, that it has so failed, the authority shall proceed to make the decision notwithstanding that the first period has expired.
+(f) (i) Where a planning authority has failed to make a decision in relation to an application within the period specified in paragraph (a), (b), (c), (d) or (e) as appropriate (referred to in this paragraph as the "first period") and becomes aware, whether through notification by the applicant or otherwise, that it has so failed, the authority shall proceed to make the decision notwithstanding that the first period has expired.
 
 (ii) Where a planning authority fails to make a decision within the first period, it shall pay the appropriate sum to the applicant.
 
-(iii) Where a planning authority fails to make a decision within a period of 12 weeks after the expiry of the first period a decision (referred to in this paragraph as the ‘deemed decision’) of the planning authority to grant the permission shall be regarded as having been given on the last day of that period of 12 weeks.
+(iii) Where a planning authority fails to make a decision within a period of 12 weeks after the expiry of the first period a decision (referred to in this paragraph as the "deemed decision") of the planning authority to grant the permission shall be regarded as having been given on the last day of that period of 12 weeks.
 
 (iv) Any person, who has made submissions or observations in writing in relation to the planning application to the planning authority, may at any time within the period of 4 weeks after the expiry of the period of 12 weeks referred to in subparagraph (iii), appeal the deemed decision.
 
@@ -230,7 +250,7 @@ Permission for development.
 
 (vii) Any payment or refund due to be paid under this paragraph shall be paid as soon as may be and in any event not later than 4 weeks after it becomes due.
 
-(viii) In this paragraph, ‘appropriate sum’ means a sum which is equal to the lesser amount of 3 times the prescribed fee paid by the applicant to the planning authority in respect of his or her application for permission or €10,000.
+(viii) In this paragraph, "appropriate sum" means a sum which is equal to the lesser amount of 3 times the prescribed fee paid by the applicant to the planning authority in respect of his or her application for permission or €10,000.
 
 (9) Where, within the period of 8 weeks beginning on the date of receipt by the planning authority of the application, the applicant for a permission under this section gives to the planning authority in writing his or her consent to the extension of the period for making a decision under subsection (8), the period for making the decision shall be extended for the period consented to by the applicant.
 
