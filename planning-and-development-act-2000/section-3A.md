@@ -14,10 +14,10 @@ Short term lettings.
 
 (5) In this section—
 
-‘rent pressure zone’ means—
+"rent pressure zone" means—
 
 (a) any area standing prescribed for the time being under section 24A of the Residential Tenancies Act 2004, or
 
 (b) an administrative area deemed to be a rent pressure zone under section 24B of that Act;
 
-‘short term letting’ means the letting of a house or part of a house for any period not exceeding 14 days, and includes a licence that permits the licensee to enter and reside in the house or part thereof for any such period in consideration of the making by any person (whether or not the licensee) of a payment or payments to the licensor.
+"short term letting" means the letting of a house or part of a house for any period not exceeding 14 days, and includes a licence that permits the licensee to enter and reside in the house or part thereof for any such period in consideration of the making by any person (whether or not the licensee) of a payment or payments to the licensor.

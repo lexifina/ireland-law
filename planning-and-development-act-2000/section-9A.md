@@ -10,6 +10,6 @@ Modification to operation of section 9 of Act of 2000 having regard to Covid-19.
 
 (5) Where a planning authority decides, in accordance with subsection (3), that a further period or periods is or are required to complete the development plan review and to prepare and make a new development plan, the planning authority concerned shall, as soon as may be after making the decision or decisions, as the case may be, notify the Office of the Planning Regulator of its decision or decisions and the planning authority shall provide to the Office of the Planning Regulator an indicative programme for the making of a new development plan within that further period or periods.
 
-(6) In this section, ‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 ( S.I. No. 390 of 1981 ) or any variant of the disease so specified as an infectious disease in those Regulations.
+(6) In this section, "Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 ( S.I. No. 390 of 1981 ) or any variant of the disease so specified as an infectious disease in those Regulations.
 
 (7) This section shall cease to have effect on 1 January 2024.
