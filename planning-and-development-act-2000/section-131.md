@@ -6,7 +6,7 @@ Power of Board to request submissions or observations.
 
 (b) any person who has made submissions or observations to the Board in relation to the appeal or referral, or
 
-(c) any other person or body, to make submissions or observations in relation to any matter which has arisen in relation to the appeal or referral, the Board may, in its discretion, notwithstanding section 127(3), 129(4), 130(4) or 137(4)(b), serve on any such person a notice under this section—
+(c) any other person or body, to make submissions or observations in relation to any matter which has arisen in relation to the appeal or referral, the Board may, in its discretion, notwithstanding section 127(3), 129(4), 130(4) or 137(4)(b), serve on any such person , other than the applicant for permission in the case of an LRD appeal, a notice under this section—
 
 (i) requesting that person, within a period specified in the notice (not being less than 2 weeks or more than 4 weeks beginning on the date of service of the notice) to submit to the Board submissions or observations in relation to the matter in question, and
 

@@ -1,20 +1,6 @@
 Strategic housing developments and planning applications
 
-4. (1) Subject to subsection (4), during the specified period and notwithstanding anything to the contrary contained in any other provision of the Planning and Development Acts 2000 to 2016—
-
-(a) an application for permission for a strategic housing development shall—
-
-(i) be made to the Board under this section and not to a planning authority, other than an application for permission, the purpose of which is as set out in section 34(3A) of the Act of 2000,
-
-(ii) be so made only where section 6(7)(b) applies or, in the case that a request is made under section 7(1), when the Board has complied with the request pursuant to section 7(2),
-
-(iii) be so made only where the applicant for permission has fulfilled the requirements set out in section 8,
-
-(iv) be in such form and contain such information as is prescribed, and
-
-(v) be accompanied by the appropriate fee, and
-
-(b) a copy of the application, shall be sent by the applicant to the planning authority or authorities in whose area or areas the proposed strategic housing development would be situated.
+4. (1) ...
 
 (2) (a) Not later than 30 October 2019, the Minister shall—
 

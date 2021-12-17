@@ -1,6 +1,6 @@
 Penalties for offences.
 
-156.—(1) A person who is guilty of an offence under section 58(4), 63, 135(7), 151, 154, 205, 230(3), 239 or 247 shall be liable—
+156.—(1) A person who is guilty of an offence under section 32G, 58(4), 63, 135(7), 151, 154, 205, 230(3), 239 or 247 shall be liable—
 
 (a) on conviction on indictment, to a fine not exceeding £10,000,000, or to imprisonment for a term not exceeding 2 years, or to both, or
 

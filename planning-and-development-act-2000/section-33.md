@@ -26,6 +26,8 @@ Regulations regarding applications for permission.
 
 (g) requiring any applicants to submit any further information with respect to their applications (including any information as to any estate or interest in or right over land) or information regarding any effect on the environment which the development may have;
 
+(ga) enabling planning authorities to request applicants to submit further information with respect to their applications, for the purposes of paragraph (g), and providing for, in respect of different classes or descriptions of development, the information or type of information which may be requested and the number of requests that may be made;
+
 (h) enabling planning authorities to invite an applicant to submit to them revised plans or other drawings modifying, or other particulars providing for the modification of, the development to which the application relates and, in case the plans, drawings or particulars are submitted to a planning authority in response to such an invitation, enabling the authority in deciding the application to grant a permission for the relevant development as modified by all or any of the plans, drawings or particulars;
 
 (i) requiring the production of any evidence to verify any particulars of information given by any applicants;

@@ -2,11 +2,11 @@ Section 50: supplemental provisions.
 
 50A.— (1) In this section—
 
-‘Court’, where used without qualification, means the High Court (but this definition shall not be construed as meaning that subsections (2) to (6) and (9) do not extend to and govern the exercise by the Supreme Court of jurisdiction on any appeal that may be made);
+"Court", where used without qualification, means the High Court (but this definition shall not be construed as meaning that subsections (2) to (6) and (9) do not extend to and govern the exercise by the Supreme Court of jurisdiction on any appeal that may be made);
 
-‘Order’ shall be construed in accordance with section 50;
+"Order" shall be construed in accordance with section 50;
 
-‘section 50 leave’ means leave to apply for judicial review under the Order in respect of a decision or other act to which section 50(2) applies.
+"section 50 leave" means leave to apply for judicial review under the Order in respect of a decision or other act to which section 50(2) applies.
 
 (2) (a) An application for section 50 leave shall be made by motion ex parte and shall be grounded in the manner specified in the Order in respect of an ex parte motion for leave.
 
@@ -56,7 +56,7 @@ Section 50: supplemental provisions.
 
 (9) If an application is made for judicial review under the Order in respect of part only of a decision or other act to which section 50(2) applies, the Court may, if it thinks fit, declare to be invalid or quash the part concerned or any provision thereof without declaring invalid or quashing the remainder of the decision or other act or part of the decision or other act, and if the Court does so, it may make any consequential amendments to the remainder of the decision or other act or the part thereof that it considers appropriate.
 
-(10) The Court shall, in determining an application for section 50 leave or an application for judicial review on foot of such leave, act as expeditiously as possible consistent with the administration of justice.
+(10) The Court shall, in determining an application for section 50 leave, an application for judicial review on foot of such leave or an application for leave under subsection (7), act as expeditiously as possible consistent with the administration of justice.
 
 (11) On an appeal from a determination of the Court in respect of an application referred to in subsection (10), the Supreme Court shall—
 
@@ -65,3 +65,13 @@ Section 50: supplemental provisions.
 (b) in determining the appeal, act as expeditiously as possible consistent with the administration of justice.
 
 (12) Rules of court may make provision for the expeditious hearing of applications for section 50 leave and applications for judicial review on foot of such leave.
+
+(13) For the avoidance of doubt, where—
+
+(a) the Court has granted leave to appeal its decision in accordance with subsection (7), or
+
+(b) an appeal has been brought to the Court of Appeal in accordance with subsection (8), any party to the appeal may, at any time thereafter prior to the determination of such appeal, without any prior application to the Court of Appeal, apply to the Supreme Court under Article 34.5.4° of the Constitution to determine the appeal.
+
+(14) Where the Supreme Court grants an application referred to in subsection (13), the Court of Appeal shall, in respect of the proceedings before it in relation to the appeal, provide by order for the discontinuance of those proceedings, which order of discontinuance shall be confined to the grounds upon which the Supreme Court granted leave to appeal, whether or not any application in relation to the appeal has been made to the Court of Appeal.
+
+(15) The Supreme Court shall act as expeditiously as possible consistent with the administration of justice in determining any application referred to in subsection (13) and, where the Supreme Court grants the application, any appeal.

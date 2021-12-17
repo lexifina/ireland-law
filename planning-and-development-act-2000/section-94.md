@@ -26,9 +26,11 @@ Housing strategies.
 
 (b) the need to ensure that housing is available for persons who have different levels of income,
 
-(c) the need to ensure that a mixture of house types and sizes is developed to reasonably match the requirements of the different categories of households, as may be determined by the planning authority, and including the special requirements of elderly persons and persons with disabilities, and
+(c) the need to ensure that a mixture of house types and sizes is developed to reasonably match the requirements of the different categories of households, as may be determined by the planning authority, and including the special requirements of elderly persons and persons with disabilities, ...
 
-(d) the need to counteract undue segregation in housing between persons of different social backgrounds.
+(d) the need to counteract undue segregation in housing between persons of different social backgrounds , and
+
+(e) the existing need and the likely future need for housing, in particular houses and duplexes, for purchase by intending owner-occupiers.
 
 (4) (a) A housing strategy shall include an estimate of the amount of—
 
@@ -83,6 +85,14 @@ Housing strategies.
 (7) Where on the date on which this subsection comes into operation a development plan includes a housing strategy—
 
 (a) the chief executive of the planning authority shall, for the purpose of the performance by a planning authority of its functions under this Part, make an estimate of the amount of housing referred to in subparagraphs (ii) and (iii) of subsection (4)(a) required in the area of the development plan during the period of the development plan,
+
+(b) such estimate may state the different requirements for housing for different areas within the area of the development plan, and
+
+(c) such estimate shall be deemed to be included in the housing strategy concerned.
+
+(8) Where on the date on which this subsection comes into operation a development plan includes a housing strategy—
+
+(a) the chief executive of the planning authority shall, for the purpose of the performance by a planning authority of its functions under this Part, make an estimate of the amount of housing referred to in subsection (3)(e) required in the area of the development plan during the period of the development plan,
 
 (b) such estimate may state the different requirements for housing for different areas within the area of the development plan, and
 
