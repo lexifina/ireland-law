@@ -6,7 +6,7 @@ Provision of social and affordable housing, etc..
 
 (3) (a) Subject to paragraphs (b) and (j), an agreement under this section shall provide for the transfer to the planning authority of the ownership of 20 per cent of the land that is subject to the application for permission for the provision of housing referred to in section 94(4)(a).
 
-(b) Instead of the transfer of land referred to in subparagraph (iva) and subject to paragraph (c) and the other provisions of this section, an agreement under this section may provide for—
+(b) Instead of the transfer of land referred to in paragraph (a) and subject to paragraph (c) and the other provisions of this section, an agreement under this section may provide for—
 
 (i) the building and transfer, on completion, to the ownership of the planning authority, or to the ownership of persons nominated by the authority in accordance with this Part, of houses on the land which is subject to the application for permission of such number and description as may be specified in the agreement,
 
@@ -24,7 +24,7 @@ Provision of social and affordable housing, etc..
 
 (vii) a combination of a transfer of land referred to in paragraph (a) (but involving a lesser amount of such land than if the agreement solely provided for a transfer under that paragraph) and the doing of one or more of the things referred to in the preceding subparagraphs,
 
-(viii) a combination of the doing of 2 or more of the things referred to in subparagraphs (i) to (iva), but, subject, in every case, to the provision that is made under this paragraph resulting in the aggregate of the net monetary value of the property transferred, or the reduction in rent payable over the term of a lease referred to in paragraph (iva) (excluding any reduction for maintenance, management and void periods specified in such lease), by virtue of the agreement being equivalent to the net monetary value, that is to say, the open market value less the existing use value, of the land that the planning authority would receive if the agreement solely provided for a transfer of land under paragraph (a).
+(viii) a combination of the doing of 2 or more of the things referred to in subparagraphs (i) to (iva), but, subject, in every case, to the provision that is made under this paragraph resulting in the aggregate of the net monetary value of the property transferred, or the reduction in rent payable over the term of a lease referred to in subparagraph (iva) (excluding any reduction for maintenance, management and void periods specified in such lease), by virtue of the agreement being equivalent to the net monetary value, that is to say, the open market value less the existing use value, of the land that the planning authority would receive if the agreement solely provided for a transfer of land under paragraph (a).
 
 (bb) Where property is transferred to a planning authority under paragraph (a) or (b) or there is a reduction in rent payable over the term of a lease referred to in paragraph (b)(iva) (excluding any reduction for maintenance, management and void periods specified in such lease), the planning authority shall use at least half of the aggregate of the net monetary value of that property and of any reduction in rent calculated in accordance with paragraph (b) for the provision of housing referred to in section 94(4)(a)(i).
 
