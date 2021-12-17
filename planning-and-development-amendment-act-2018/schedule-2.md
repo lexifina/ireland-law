@@ -2,17 +2,17 @@ SCHEDULE 2
 
 AMENDMENTS TO PLANNING AND DEVELOPMENT ACT 2000 RELATING TO CHIEF EXECUTIVE OF LOCAL AUTHORITIES, ETC.
 
-Section 6 Refer- Provision Amendment ence No.
+Section 6 Reference Provision Amendment No.
 
 (1) (2) (3)
 
 1 Section 2(1) Delete definition of “manager”.
 
-2 Section 2(1) After definition of “chairperson” insert the following definition: Refer- Provision Amendment ence No.
+2 Section 2(1) After definition of “chairperson” insert the following definition:
 
-(1) (2) (3)
+“‘chief executive’, in relation to a local authority, including a local authority exercising functions as Reference Provision Amendment No.
 
-“‘chief executive’, in relation to a local authority, including a local authority exercising functions as a planning authority, means the chief executive appointed under Chapter 2 of Part 14 (as amended by section 54 of the Local Government Reform Act 2014) of the Local Government Act 2001;
+(1) (2) (3) a planning authority, means the chief executive appointed under Chapter 2 of Part 14 (as amended by section 54 of the Local Government Reform Act 2014) of the Local Government Act 2001;
 
 3 Section 5(6) In paragraph (d) substitute “chief executive” for “manager”.
 
@@ -48,11 +48,11 @@ Section 6 Refer- Provision Amendment ence No.
 
 19 Section 12(9) In paragraph (a) substitute “chief executive” for “manager”.
 
-20 Section 12(9) In paragraph (b) substitute “chief executive’s report” for “manager’s report” in both places where it occurs. Refer- Provision Amendment ence No.
+20 Section 12(9) In paragraph (b) substitute “chief executive’s report” for “manager’s report” in both places where it occurs.
+
+21 Section 12(10) In paragraph (a) substitute “chief executive’s report” for “manager’s report”. Reference Provision Amendment No.
 
 (1) (2) (3)
-
-21 Section 12(10) In paragraph (a) substitute “chief executive’s report” for “manager’s report”.
 
 22 Section 12(14) In paragraph (a) substitute “chief executive” for “manager” in both places where it occurs.
 
@@ -96,13 +96,13 @@ Section 6 Refer- Provision Amendment ence No.
 
 42 Section 20(3) In paragraph (n) substitute “chief executive’s report” for “manager’s report”.
 
-43 Section 31(2) Substitute “chief executive” for “Manager”. Refer- Provision Amendment ence No.
-
-(1) (2) (3)
+43 Section 31(2) Substitute “chief executive” for “Manager”.
 
 44 Section 31(5) Substitute “chief executive” for “manager”.
 
-45 Section 31(7) Substitute “chief executive” for “manager”.
+45 Section 31(7) Substitute “chief executive” for “manager”. Reference Provision Amendment No.
+
+(1) (2) (3)
 
 46 Section 31(8) Substitute “chief executive” for “manager”.
 
@@ -146,11 +146,11 @@ Section 6 Refer- Provision Amendment ence No.
 
 65 Section 177I(2) In paragraph (e) substitute “chief executive” for “manager”.
 
-66 Section 179(3) In paragraph (b)(iv) substitute “chief executive” for “manager”. Refer- Provision Amendment ence No.
+66 Section 179(3) In paragraph (b)(iv) substitute “chief executive” for “manager”.
+
+67 Section 179(4) In paragraph (a) substitute “chief executive” for “manager”. Reference Provision Amendment No.
 
 (1) (2) (3)
-
-67 Section 179(4) In paragraph (a) substitute “chief executive” for “manager”.
 
 68 Section 179(4) In paragraphs (b) and (c) substitute “chief executive’s report” for “manager’s report” in each place where it occurs.
 
