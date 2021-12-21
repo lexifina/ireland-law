@@ -8,6 +8,10 @@ Penalties generally.
 
 (ii) the penalty which would otherwise arise under paragraph (a) only relates to the tax for which that person is jointly and severally liable by virtue of that section.
 
+(1A) A person who does not comply with subsection (4B) of section 15 shall be liable to a penalty of €4,000 in respect of the taxable period during which the person failed to comply with that subsection and to a further penalty of €4,000 for each subsequent taxable period during which the person has failed to comply with that subsection.
+
+(1B) Where the person referred to in subsection (1A) is a body of persons, the secretary to that body of persons shall be liable to a separate penalty of €4,000 in respect of the taxable period during which the person referred to in subsection (1A) failed to comply with subsection (4B) of section 15 and to a separate further penalty of €4,000 for each subsequent taxable period during which that person has failed to comply with that subsection.
+
 (c) Paragraph (a) shall not apply to a person, being a tax representative appointed in accordance with section 109A, where—
 
 (i) that person is jointly and severally liable by virtue of section 109A, and
