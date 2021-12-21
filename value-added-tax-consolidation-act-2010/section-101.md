@@ -102,7 +102,7 @@ Intra-Community refunds of tax.
 
 (b) Any such interest is to be calculated at the rate provided for in section 114(2) from the date on which the refund was made to the day on which the applicant repays to the Revenue Commissioners the amount incorrectly obtained as a refund.
 
-(c) The liability imposed on an applicant by this subsection is in addition to the liability imposed by section 116.
+(c) The liability imposed on an applicant by this subsection is in addition to the liability imposed by section 116 or 116A, as appropriate.
 
 (12) While an applicant to whom subsection (11) applies continues to fail to pay the Revenue Commissioners an amount payable under that subsection, the Commissioners shall withhold any further refund to that applicant up to the amount that is due from the applicant under that subsection.
 
