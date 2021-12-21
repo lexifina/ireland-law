@@ -2,25 +2,25 @@ Interpretation.
 
 2.—(1) In this Act, except where the context otherwise requires—
 
-‘Act of 1998’ means the Education Act 1998;
+"Act of 1998" means the Education Act 1998;
 
-‘Act of 2012’ means the National Vetting Bureau (Children and Vulnerable Persons) Act 2012;
+"Act of 2012" means the National Vetting Bureau (Children and Vulnerable Persons) Act 2012;
 
-‘Act of 2015’ means the Teaching Council (Amendment) Act 2015;
+"Act of 2015" means the Teaching Council (Amendment) Act 2015;
 
-‘centre for education’ has the same meaning as it has in the Act of 1998;
+"centre for education" has the same meaning as it has in the Act of 1998;
 
-“chairperson” means the chairperson of the Council elected under paragraph 6 of Schedule 1 and includes the deputy chairperson and a member of the Council appointed under paragraph 11(c) of that Schedule to preside at a meeting, while so presiding;
+"chairperson" means the chairperson of the Council elected under paragraph 6 of Schedule 1 and includes the deputy chairperson and a member of the Council appointed under paragraph 11(c) of that Schedule to preside at a meeting, while so presiding;
 
-‘child’ has the same meaning as it has in the Act of 2012;
+"child" has the same meaning as it has in the Act of 2012;
 
 “committee” means a committee established under section 24;
 
-‘complainant’ means a person (including the Council) who makes a complaint under subsection (1) or subsection (1D), as the case may be, of section 42;
+"complainant" means a person (including the Council) who makes a complaint under subsection (1) or subsection (1D), as the case may be, of section 42;
 
 “Council” means the Teaching Council established under section 5;
 
-‘delivery of home tuition’ shall be construed in accordance with subsection (1A) (inserted by section 2(b) of the Act of 2015);
+"delivery of home tuition" shall be construed in accordance with subsection (1A) (inserted by section 2(b) of the Act of 2015);
 
 “Director” means the chief executive officer of the Council appointed under section 11;
 
@@ -32,11 +32,11 @@ Interpretation.
 
 “first Director” means a person appointed under section 12 to be the first Director of the Council;
 
-‘Garda Central Vetting Unit’ has the same meaning as it has in the Act of 2012;
+"Garda Central Vetting Unit" has the same meaning as it has in the Act of 2012;
 
-‘GCVU disclosure’ means vetting information in respect of a person received from the Garda Central Vetting Unit before the commencement of the Act of 2012;
+"GCVU disclosure" means vetting information in respect of a person received from the Garda Central Vetting Unit before the commencement of the Act of 2012;
 
-‘harm’ has the same meaning as it has in the Act of 2012;
+"harm" has the same meaning as it has in the Act of 2012;
 
 “Investigating Committee” means the committee established under section 24(2)(b)(i);
 
@@ -44,9 +44,9 @@ Interpretation.
 
 “national association of parents” has the same meaning as in the Education Act, 1998;
 
-‘panel’ means a panel of the Disciplinary Committee established under section 43(3);
+"panel" means a panel of the Disciplinary Committee established under section 43(3);
 
-‘poor professional performance’ means, in relation to a registered teacher, a failure by the registered teacher to meet the standards of competence (whether in knowledge, skill or the application of knowledge and skill or both) that can be reasonably expected of a registered teacher;
+"poor professional performance" means, in relation to a registered teacher, a failure by the registered teacher to meet the standards of competence (whether in knowledge, skill or the application of knowledge and skill or both) that can be reasonably expected of a registered teacher;
 
 “prescribed” means prescribed by regulations made by the Minister or the Council, as the case may be;
 
@@ -68,11 +68,11 @@ Interpretation.
 
 “Registration Council” means the Registration Council constituted under section 1 of the Intermediate Education (Ireland) Act, 1914;
 
-‘relevant organisation’ has the same meaning as it has in the Act of 2012;
+"relevant organisation" has the same meaning as it has in the Act of 2012;
 
 “renewal fee” means a fee charged under section 23(2)(d) or (e);
 
-‘specified information’ has the same meaning as it has in the Act of 2012;
+"specified information" has the same meaning as it has in the Act of 2012;
 
 “teacher” means a person who—
 
@@ -80,11 +80,11 @@ Interpretation.
 
 (b) in the case of a person to whom paragraph (a) does not apply, is eligible for registration under section 31(5).
 
-‘vetting disclosure’ has the same meaning as it has in the Act of 2012;
+"vetting disclosure" has the same meaning as it has in the Act of 2012;
 
-‘vetting procedures’ has the same meaning as it has in the Act of 2012;
+"vetting procedures" has the same meaning as it has in the Act of 2012;
 
-‘vulnerable person’ has the same meaning as it has in the Act of 2012.
+"vulnerable person" has the same meaning as it has in the Act of 2012.
 
 (1A) In this Act, a reference to the delivery of home tuition is a reference to any work or activity consisting of the provision of home tuition by a person pursuant to a scheme administered and funded by the Department of Education and Skills and known as the Home Tuition Scheme.
 
