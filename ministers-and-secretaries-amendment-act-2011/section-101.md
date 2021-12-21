@@ -16,7 +16,11 @@ Independence of Revenue Commissioners.
 
 (d) the Tax Acts,
 
-(e) Part 18A, 18B, 18C, or 18D of the Taxes Consolidation Act 1997,
+(e) Part 18A, 18B, 18C or 18D of the Taxes Consolidation Act 1997,
+
+(ea) Part 22A of the Taxes Consolidation Act 1997,
+
+(eb) Part 22B of the Taxes Consolidation Act 1997,
 
 (f) any statute relating to the duties of excise or the management of those duties,
 
