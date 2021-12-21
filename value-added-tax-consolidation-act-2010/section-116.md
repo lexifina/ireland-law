@@ -170,7 +170,7 @@ Penalty for deliberately or carelessly making incorrect returns, etc.
 
 (iii) to which the person who made the disclosure is linked, or about to be linked, publicly.
 
-(15A) (a) In this subsection the expressions ‘liability to tax or duty’, ‘offshore matters’, ‘penalty’ and ‘specified penalty’ have the same meanings as in section 1077E(15A)(a) (inserted by section 56(1) of the Finance Act 2016) of the Taxes Consolidation Act 1997.
+(15A) (a) In this subsection the expressions "liability to tax or duty", "offshore matters", "penalty" and "specified penalty" have the same meanings as in section 1077E(15A)(a) (inserted by section 56(1) of the Finance Act 2016) of the Taxes Consolidation Act 1997.
 
 (b) A disclosure in relation to a person made on or after 1 May 2017 shall not be a qualifying disclosure where—
 
@@ -237,3 +237,5 @@ Penalty for deliberately or carelessly making incorrect returns, etc.
 (22) The provisions of the Customs Acts relating to forfeiture and condemnation of goods shall apply to goods liable to forfeiture under subsection (20) or (21) as if they had become liable to forfeiture under those Acts and all powers which may be exercised by an officer of Customs under those Acts may be exercised by officers of the Revenue Commissioners authorised to exercise those powers for the purposes of those subsections and any provisions in relation to offences under those Acts shall apply, with any necessary modifications, in relation to those subsections.
 
 (23) Where an officer authorised by the Revenue Commissioners for the purposes of this subsection or a member of the Garda Síochána has reasonable grounds for suspecting that a criminal offence has been committed under section 1078 of the Taxes Consolidation Act 1997 in relation to tax, by a person who is not established in the State, or whom that officer believes is likely to leave the State, that officer may arrest the person.
+
+(24) This section shall not apply in respect of any disclosure made, act done or omission made after the date of the passing of the Finance Act 2021.
