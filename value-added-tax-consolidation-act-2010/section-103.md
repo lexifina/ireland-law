@@ -10,6 +10,8 @@ Ministerial refund orders.
 
 (b) the nature or purpose of the person referred to in subsection (1) in relation to the goods or services to which the refund the subject of the order relates.
 
+(2AA) Where a person referred to in subsection (1) has received a refund of tax, which is the subject of an order made under this section, and where, at any time after the refund of tax has been made, the Revenue Commissioners have reasonable grounds to believe that details of the claim giving rise to the refund were incorrect and that the person was therefore not entitled to all or part of that refund, it shall be considered that the conditions as specified in the order were not fulfilled by that person and accordingly that person shall be required to repay all or part of the refund, as appropriate, to the Revenue Commissioners.
+
 (2B) Where the Minister makes an order under this section, the Minister may specify requirements in the order, to be complied with by the person referred to in subsection (1) after the refund the subject of the order has been paid to him or her, relating to—
 
 (a) the carrying out of a review—

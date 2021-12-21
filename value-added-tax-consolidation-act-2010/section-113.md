@@ -26,4 +26,4 @@ Time limits.
 
 (ii) is liable to deliver an additional affidavit under section 48 of the Capital Acquisitions Tax Consolidation Act 2003, has been so notified by the Revenue Commissioners and did not deliver such additional affidavit in the year in which the deceased person died, the estimation or assessment under section 110 or 111 may be made at any time before the expiration of 2 years after the end of the year in which the corrective affidavit was lodged or the additional affidavit was or is delivered.
 
-(4) Subject to section 116(10), proceedings for the recovery of any penalty under this Act may be commenced at any time within 6 years next after the date on which it was incurred.
+(4) Subject to section 116(10) or 116A(13), as appropriate, proceedings for the recovery of any penalty under this Act may be commenced at any time within 6 years next after the date on which it was incurred.

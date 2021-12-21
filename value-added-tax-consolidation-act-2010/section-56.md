@@ -10,7 +10,7 @@ Zero-rating scheme for qualifying businesses.
 
 (b) supplies of contract work where the place of supply is deemed to be a Member State other than the State, and
 
-(c) supplies of contract work made in accordance with paragraph 3(4) of Schedule 2, amounts to ... 75 per cent of the person’s total turnover from supplying goods and services for the period of 12 months immediately preceding the making of an application for authorisation under subsection (2), except that turnover from goods supplied to an accountable person that are subsequently leased back from that person are excluded from the total turnover for the purpose of determining whether the accountable person is a qualifying person;
+(c) supplies of contract work made in accordance with paragraph 3(4) of Schedule 2, amounts to ... 75 per cent or more of the person’s total turnover from supplying goods and services for the period of 12 months immediately preceding the making of an application for authorisation under subsection (2), except that turnover from goods supplied to an accountable person that are subsequently leased back from that person are excluded from the total turnover for the purpose of determining whether the accountable person is a qualifying person;
 
 “qualifying goods” means all taxable goods excluding motor vehicles within the meaning of section 60(1) and petrol;
 
