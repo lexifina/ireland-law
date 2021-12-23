@@ -1,3 +1,3 @@
-Abolition of rules of descent in relation to registered freehold land.
+Abolition of rules of descent in relation to registered freehold land. (Repealed)
 
 112.—...

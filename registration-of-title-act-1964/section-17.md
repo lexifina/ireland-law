@@ -1,3 +1,3 @@
-Proceedings by and against the Authority.
+Proceedings by and against the Authority. (Repealed)
 
 17.—...

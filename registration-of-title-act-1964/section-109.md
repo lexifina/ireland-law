@@ -1,5 +1,5 @@
 ## PART IV DEVOLUTION ON DEATH AND DESCENT ON INTESTACY
 
-Application of Part IV.
+Application of Part IV. (Repealed)
 
 109.—...

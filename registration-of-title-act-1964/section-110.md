@@ -1,3 +1,3 @@
-Devolution of registered land.
+Devolution of registered land. (Repealed)
 
 110.—...

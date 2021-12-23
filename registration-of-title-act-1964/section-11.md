@@ -1,3 +1,3 @@
-Relations of the Authority and local registrars.
+Relations of the Authority and local registrars. (Repealed)
 
 11.—...

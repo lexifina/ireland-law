@@ -1,3 +1,3 @@
-Meaning of “heirs”.
+Meaning of “heirs”. (Repealed)
 
 114.—...

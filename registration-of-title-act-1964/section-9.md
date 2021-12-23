@@ -1,5 +1,5 @@
 ## [The Authority]
 
-The Authority.
+The Authority. (Repealed)
 
 9.—...

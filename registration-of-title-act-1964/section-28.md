@@ -1,3 +1,3 @@
-Land certificate.
+Land certificate. (Repealed)
 
 28.—...

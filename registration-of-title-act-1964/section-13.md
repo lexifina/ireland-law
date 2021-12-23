@@ -1,3 +1,3 @@
-Exercise of powers of the Authority.
+Exercise of powers of the Authority. (Repealed)
 
 13.—...

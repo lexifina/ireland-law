@@ -24,7 +24,7 @@ Classes of title which may be registered.
 
 (6) The applicant may be registered as owner with a possessory title on giving such evidence of title as may be prescribed.
 
-(7) If, on an application for registration under this section, the Authority is not satisfied that the grant of the title applied for would be warranted or appropriate, it may, subject to subsection(8), register the applicant as owner with such one of the other titles provided for in this section as it considers would be warranted or appropriate.
+(7) If, on an application for registration under this section, the Authority is not satisfied that the grant of the title applied for would be warranted or appropriate, it may, subject to subsection (8), register the applicant as owner with such one of the other titles provided for in this section as it considers would be warranted or appropriate.
 
 (8) Where registration of ownership is not compulsory, the Authority may not—
 

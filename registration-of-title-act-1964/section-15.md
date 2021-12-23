@@ -1,3 +1,3 @@
-Official seals.
+Official seals. (Repealed)
 
 15.—...

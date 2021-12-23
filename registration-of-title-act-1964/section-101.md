@@ -1,5 +1,5 @@
 ## Persons under Disability
 
-Infants.
+Infants. (Repealed)
 
 101.—...

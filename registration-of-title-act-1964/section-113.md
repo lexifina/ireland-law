@@ -1,3 +1,3 @@
-Saving for deaths before commencement of this Act.
+Saving for deaths before commencement of this Act. (Repealed)
 
 113.—...

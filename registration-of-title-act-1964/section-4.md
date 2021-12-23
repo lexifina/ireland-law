@@ -1,3 +1,3 @@
-Expenses.
+Expenses. (Repealed)
 
 4.—...

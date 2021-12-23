@@ -1,3 +1,3 @@
-Succession to beneficial interest in registered land on intestacy.
+Succession to beneficial interest in registered land on intestacy. (Repealed)
 
 111.—...
