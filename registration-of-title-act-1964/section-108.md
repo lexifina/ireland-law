@@ -1,4 +1,4 @@
-F141[Priority of certain applications for registration.
+F142[Priority of certain applications for registration.
 
 108.— (1) The Authority, if of opinion that a person has contracted to purchase or take a lease of registered land or to lend money on the security of a charge on it, shall, on application by the person and on notice by the person to the other party to the contract, make an entry in the register in the prescribed form.
 

@@ -1,4 +1,4 @@
-F32[The Authority] to obey order of court.
+F31[The Authority] to obey order of court.
 
 21.—(1) The Authority shall obey the order of a court of competent jurisdiction in relation to registered land.
 

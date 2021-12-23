@@ -6,7 +6,7 @@ Effect of words of transfer.
 
 (3) In an instrument of transfer of registered land a resulting use or trust for the transferor shall not be implied merely by reason that the property is not expressed to be transferred to the use or benefit of the transferee.
 
-(4) An instrument granting, or containing a grant or reservation of, an easement or a profit à prendre out of registered freehold land without words of limitation or any equivalent expression shall pass or reserve the whole estate which the grantor had power to grant or reserve in the easement or profit àprendre.
+(4) An instrument granting, or containing a grant or reservation of, an easement or a profit à prendre out of registered freehold land without words of limitation or any equivalent expression shall pass or reserve the whole estate which the grantor had power to grant or reserve in the easement or profit à prendre.
 
 (5) An instrument granting, or containing a grant or reservation of, an easement or a profit à prendre out of registered freehold land to a corporation sole by its corporate designation without the word ‘successors’ shall pass or reserve the whole estate which the grantor had power to grant or reserve in the easement or profit à prendre.
 

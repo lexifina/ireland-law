@@ -28,19 +28,19 @@ Interpretation.
 
 “former crown rent” has the same meaning as in the State Property Act, 1954;
 
-‘freehold land’ means land the ownership of which is an estate in fee simple in possession;
+"freehold land" means land the ownership of which is an estate in fee simple in possession;
 
 “general rules” means rules under section 126;
 
 “incumbrance” has the same meaning as in the Conveyancing Acts;
 
-‘index’ means an index maintained under this Act and includes, and is deemed always to have included, any index stored in electronic or other non-legible form which is capable of being converted into a permanent legible form;
+"index" means an index maintained under this Act and includes, and is deemed always to have included, any index stored in electronic or other non-legible form which is capable of being converted into a permanent legible form;
 
-‘instrument’ has the meaning given to it by section 3 of the Land and Conveyancing Law Reform Act 2009;
+"instrument" has the meaning given to it by section 3 of the Land and Conveyancing Law Reform Act 2009;
 
-‘judgment mortgage’ means a mortgage registered by a judgment creditor pursuant to section 116 of the Land and Conveyancing Law Reform Act 2009;
+"judgment mortgage" means a mortgage registered by a judgment creditor pursuant to section 116 of the Land and Conveyancing Law Reform Act 2009;
 
-‘land’ has the meaning given to it by section 3 of the Land and Conveyancing Law Reform Act 2009;
+"land" has the meaning given to it by section 3 of the Land and Conveyancing Law Reform Act 2009;
 
 “land certificate” has the meaning assigned to it by section 28;
 
@@ -62,7 +62,7 @@ Interpretation.
 
 “mortgage” has the same meaning as in the Conveyancing Acts;
 
-‘owner’ includes full owner;
+"owner" includes full owner;
 
 “personal representative” means the executor, original or by representation, or the administrator of a deceased person;
 
@@ -70,9 +70,9 @@ Interpretation.
 
 “prescribed” means prescribed by general rules;
 
-‘record’ includes any book, index or document and any information in electronic or other non-legible form which is capable of being converted into a permanent legible form;
+"record" includes any book, index or document and any information in electronic or other non-legible form which is capable of being converted into a permanent legible form;
 
-‘register’ means a register maintained under this Act and includes, and is deemed always to have included, any register kept in electronic or other non-legible form which is capable of being converted into a permanent legible form;
+"register" means a register maintained under this Act and includes, and is deemed always to have included, any register kept in electronic or other non-legible form which is capable of being converted into a permanent legible form;
 
 “registered land” means land of which an owner is or is deemed to be registered under this Act;
 
@@ -86,7 +86,7 @@ Interpretation.
 
 “registry map” has the meaning assigned to it by section 84;
 
-‘registry maps’ means the maps referred to in section 84;
+"registry maps" means the maps referred to in section 84;
 
 “repealed enactments” means the Registration of Title Acts, 1891 and 1942, repealed by this Act;
 

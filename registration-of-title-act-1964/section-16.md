@@ -1,4 +1,4 @@
-Powers of F23[the Authority].
+Powers of F22[the Authority].
 
 16.—(1) Subject to general rules, the Authority may, by summons under its seal, require the attendance of all such persons as it thinks fit in relation to the registration of any title.
 
