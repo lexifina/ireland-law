@@ -1,4 +1,4 @@
-High Court’s power to prohibit continuance of certain contraven-tions of Principal Act.
+High
 
 5.—(1) Where, on application to the High Court by—
 
