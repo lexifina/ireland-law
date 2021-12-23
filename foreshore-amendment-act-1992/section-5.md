@@ -20,7 +20,11 @@ High Court’s power to prohibit continuance of certain contraventions of Princi
 
 (III) make such other provision as that Court considers appropriate.
 
-(2) An application may be brought under subsection (1) of this section notwithstanding that a prosecution under the Principal Act has not been brought in respect of the matters to which the application relates.
+(2) An application may be brought under
+
+## subsection (1)
+
+of this section notwithstanding that a prosecution under the Principal Act has not been brought in respect of the matters to which the application relates.
 
 (3) An application for an order under this section shall be in a summary manner, and the High Court when considering the mattermay make such interim or interlocutory order as it considers appropriate.
 
