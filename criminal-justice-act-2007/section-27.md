@@ -22,9 +22,7 @@ Amendment of Criminal Justice (Legal Aid) Act 1962.
 
 (ii) by reason of the conditions specified in the order or of exceptional circumstances, it is essential in the interests of justice that the person should have legal aid in the preparation and conduct of the application to vary or revoke the order.
 
-(3) In this section ‘monitoring order’ has the meaning it has in section 26 of the Criminal Justice Act 2007.
-
-6B.— (1) Where—
+(3) In this section ‘monitoring order’ has the meaning it has in section 26 of the Criminal Justice Act 2007. 6B.— (1) Where—
 
 (a) a protection of persons order has been made in relation to a person, and
 

@@ -86,9 +86,9 @@ Powers of detention for specified offences.
 
 (h) In this subsection—
 
-‘broadcast’ means the transmission, relaying or distribution by wireless telegraphy, cable or the internet of communications, sounds, signs, visual images or signals, intended for direct reception by the general public whether such communications, sounds, signs, visual images or signals are actually received or not;
+"broadcast" means the transmission, relaying or distribution by wireless telegraphy, cable or the internet of communications, sounds, signs, visual images or signals, intended for direct reception by the general public whether such communications, sounds, signs, visual images or signals are actually received or not;
 
-‘publish’ means publish, other than by way of broadcast, to the public or a portion of the public.
+"publish" means publish, other than by way of broadcast, to the public or a portion of the public.
 
 (4B) Save where any rule of law requires such an issue to be determined by the Court, in an application under subsection (3) no issue as to the lawfulness of the arrest or detention of the person to whom the application relates may be raised.
 
@@ -112,6 +112,6 @@ Powers of detention for specified offences.
 
 (i) a certificate signed by the court clerk or registrar in attendance at the court house concerned stating the time of the arrival of the person concerned at that court house shall be evidence, until the contrary is shown, of the time of that person’s arrival there;
 
-(ii) ‘court house’ includes any venue at which the hearing of the application takes place.
+(ii) "court house" includes any venue at which the hearing of the application takes place.
 
 (10) Nothing in this section shall affect the operation of section 30 of the Offences Against the State Act 1939, section 4 of the Act of 1984 or section 2 of the Criminal Justice (Drug Trafficking) Act 1996.

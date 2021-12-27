@@ -8,7 +8,9 @@ Establishment and functions of Garda Síochána Executive Management Board.
 
 33A.— The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Chapter.
 
-33B.— On the establishment day, a body to be known as An Bord Bainistíochta Feidhmiúcháin an Gharda Síochána or, in the English language, the Garda Síochána Executive Management Board (in this Chapter referred to as “the Board”) stands established to perform the function assigned to it by this Chapter. 33C.— (1) The Board consists of—
+33B.— On the establishment day, a body to be known as An Bord Bainistíochta Feidhmiúcháin an Gharda Síochána or, in the English language, the Garda Síochána Executive Management Board (in this Chapter referred to as “the Board”) stands established to perform the function assigned to it by this Chapter.
+
+33C.— (1) The Board consists of—
 
 (a) executive members who are responsible for performing the Board’s function, and
 
@@ -56,9 +58,7 @@ Establishment and functions of Garda Síochána Executive Management Board.
 
 (c) is regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament to fill a vacancy, or
 
-(d) becomes a member of a local authority.
-
-33E.— (1) The function of the Board is to keep under review the performance by the Garda Síochána of its functions and the arrangements and strategies in place to support and enhance the performance of those functions.
+(d) becomes a member of a local authority. 33E.— (1) The function of the Board is to keep under review the performance by the Garda Síochána of its functions and the arrangements and strategies in place to support and enhance the performance of those functions.
 
 (2) In particular, the Board shall keep under review the adequacy of—
 
