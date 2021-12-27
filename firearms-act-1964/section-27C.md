@@ -1,4 +1,4 @@
-F33[Provisions relating to minimum sentences under Firearms Acts 1925 to 2006.
+F37[Provisions relating to minimum sentences under Firearms Acts 1925 to 2006.
 
 27C.— (1) In this section, “minimum term of imprisonment” means a term specified by a court under—
 
