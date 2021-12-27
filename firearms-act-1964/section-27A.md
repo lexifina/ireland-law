@@ -4,7 +4,7 @@ Possession of firearm or ammunition in suspicious circumstances.
 
 (2) A person guilty of an offence under this section is liable on conviction on indictment—
 
-(a) to imprisonment for a term not exceeding 14 years or such shorter term as the court may determine, subject to subsections (4) to (6) of this section or, where subsection (8) of this section applies, to that subsection, and
+(a) to imprisonment for a term not exceeding 14 years or such shorter term as the court may determine, subject to subsections (4) to (6) of this section ..., and
 
 (b) at the court’s discretion, to a fine of such amount as the court considers appropriate.
 
@@ -30,7 +30,7 @@ Possession of firearm or ammunition in suspicious circumstances.
 
 (b) whether the public interest in preventing the unlawful possession or use of firearms would be served by the imposition of a lesser sentence.
 
-(7) Subsections (4) to (6) of this section apply and have effect only in relation to a person convicted of a first offence under this section (other than a person who falls under subsection (8)(b) of this section), and accordingly references in those first-mentioned subsections to an offence under this section are to be construed as references to a first such offence.
+(7) ...
 
 (8) Where a person (except a person under the age of 18 years)—
 
@@ -38,6 +38,6 @@ Possession of firearm or ammunition in suspicious circumstances.
 
 (b) is convicted of a first offence under this section and has been convicted of an offence under section 15 of the Principal Act, section 26, 27 or 27B of this Act or section 12A of the Firearms and Offensive Weapons Act 1990, the court shall, in imposing sentence, specify a term of imprisonment of not less than 5 years as the minimum term of imprisonment to be served by the person.
 
-(9) Section 27C of this Act applies in relation to proceedings for an offence under this section and any minimum term of imprisonment imposed under subsection (4) or (8) of this section in those proceedings.
+(9) Section 27C of this Act applies in relation to proceedings for an offence under this section and any minimum term of imprisonment imposed under subsection (4) ... of this section in those proceedings.
 
 (10) In the application of section 2 of the Criminal Law (Jurisdiction) Act 1976 to this section, it shall be presumed, unless the contrary is shown, that a purpose that is unlawful in the State is unlawful in Northern Ireland.
