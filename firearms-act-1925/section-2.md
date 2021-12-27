@@ -44,7 +44,7 @@ Restrictions on possession, use, and carriage of firearms.
 
 (c) the possession or carriage of a firearm or ammunition for purposes of sale by an auctioneer who stands authorised under section 13 of the Firearms Act 1964 or by an employee of such an auctioneer in the ordinary course of business as an auctioneer,
 
-(d) the possession, use or carriage of a firearm or ammunition during a competition or target practice at a club, shooting range or any other place that stands authorised under this section or section 4A of this Act
+(d) the possession, use or carriage of a firearm or ammunition during a competition or target practice at a club, shooting range or any other place that stands authorised under this section or section 4A of this Act,
 
 (e) the possession, use or carriage of a firearm (other than a shot-gun) of a calibre not exceeding .23 inches or of ammunition by a person operating a range or shooting gallery in an amusement hall or at a fun fair, carnival or other like event for the purposes of the range or shooting gallery who stands authorised in that behalf under this section or by a person using such range or shooting gallery,
 
@@ -60,7 +60,7 @@ Restrictions on possession, use, and carriage of firearms.
 
 (k) the possession, use or carriage of a firearm or ammunition for the purpose of bird control at an airport by an employee or agent of the airport authority who stands authorised in that behalf under this section.
 
-(5) (a) The Superintendent of any district may authorise in writing the possession, use or carriage of firearms or ammunition in that district in any of the circumstances specified in paragraphs (d), (e), (f), (g), (h), (j) or (k) of subsection (4) of this section, or of any component parts of a firearm, during such period, not exceeding one year, as may be specified in the authorisation.
+(5) (a) The Superintendent of any district may authorise in writing the possession, use or carriage of firearms or ammunition in that district in any of the circumstances specified in paragraphs (d), (e), (f), (g) , (h) , (j) or (k) of subsection (4) of this section , or of any component parts of a firearm, during such period, not exceeding one year, as may be specified in the authorisation.
 
 (b) A Superintendent shall not grant an authorisation under this section unless he is satisfied having regard to all the circumstances (including the provision made or to be made for the storage of the firearms and ammunition to which the authorisation (if granted) would relate and the supervision of their use) that the possession, use or carriage, as the case may be, of firearms or ammunition in pursuance of the authorisation will not endanger the public safety or the peace.
 
