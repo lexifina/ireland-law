@@ -70,6 +70,6 @@ Power of court to remand persons convicted under section 3, 15, 16, 17 or 18 and
 
 “authorised medical practitioner” means a registered medical practitioner authorised for the purposes of this section by the Minister in writing or a registered medical practitioner of a class specified by the Minister as being authorised for the said purposes;
 
-‘probation and welfare officer’ means an officer employed in the probation and welfare service of the Department of Justice;
+"probation and welfare officer" means an officer employed in the probation and welfare service of the Department of Justice;
 
 ...

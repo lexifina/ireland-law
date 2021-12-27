@@ -18,6 +18,6 @@ Search warrants.
 
 (4) In this section—
 
-‘land’ includes any structure on land;
+"land" includes any structure on land;
 
-‘structure’ means building, structure or any other thing constructed, erected, placed or made on, in or under any land.
+"structure" means building, structure or any other thing constructed, erected, placed or made on, in or under any land.

@@ -32,12 +32,12 @@ Supply of controlled drugs into prisons and places of detention.
 
 (8) In this section—
 
-‘an authorised member of the staff’ —
+"an authorised member of the staff" —
 
 (a) in relation to a children detention school, means a member of the staff of the school who is authorised in writing for the purposes of this section by the Director (within the meaning of section 157 of the Children Act 2001) of the school, and
 
 (b) in relation to a remand centre, means a member of the staff of the centre who is authorised in writing for the purposes of this section by the owners or, as the case may be, the managers of the centre;
 
-‘children detention school’ and ‘remand centre’ have the meanings they have in section 3(1) of the Children Act 2001;
+"children detention school" and "remand centre" have the meanings they have in section 3(1) of the Children Act 2001;
 
-‘prison’ means a place of custody administered by the Minister for Justice, Equality and Law Reform and includes Saint Patrick’s Institution and a place of detention provided under section 2 of the Prisons Act 1970, and ‘prison officer’, in relation to a prison, shall be construed accordingly.
+"prison" means a place of custody administered by the Minister for Justice, Equality and Law Reform and includes Saint Patrick’s Institution and a place of detention provided under section 2 of the Prisons Act 1970, and "prison officer", in relation to a prison, shall be construed accordingly.
