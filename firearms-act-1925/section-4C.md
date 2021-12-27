@@ -1,4 +1,4 @@
-F42[ Prohibition of practical or dynamic shooting.
+F42[Prohibition of practical or dynamic shooting.
 
 4C.— (1) It is an offence for a person to facilitate or engage in the use of a firearm for the purposes of practical or dynamic shooting.
 

@@ -12,7 +12,7 @@ Definitions and interpretation.
 
 “Commissioner” means the Commissioner of the Garda Síochána or a member of the Garda Síochána, or members of a particular rank in the Garda Síochána, not below the rank of superintendent appointed in writing by the Commissioner for the purpose of performing any of the Commissioner’s functions under this Act;
 
-‘Directive’ means Council Directive 91/477/EEC of 18 June, 1991 on control of the acquisition and possession of weapons, as amended by Directive 2008/51/EC of the European Parliament and of the Council of 21 May 2008 and Directive (EU) 2017/853 of the European Parliament and of the Council of 17 May 2017, and includes Articles 10 and 11 of Chapter III of Council Directive 93/15/EEC of 5 April, 1993 on the harmonisation of the provisions relating to the placing on the market and supervision of explosives for civil uses;
+"Directive" means Council Directive 91/477/EEC of 18 June, 1991 on control of the acquisition and possession of weapons, as amended by Directive 2008/51/EC of the European Parliament and of the Council of 21 May 2008 and Directive (EU) 2017/853 of the European Parliament and of the Council of 17 May 2017, and includes Articles 10 and 11 of Chapter III of Council Directive 93/15/EEC of 5 April, 1993 on the harmonisation of the provisions relating to the placing on the market and supervision of explosives for civil uses;
 
 “firearm” means—
 
@@ -54,9 +54,9 @@ Definitions and interpretation.
 
 “muzzle energy”, in relation to a firearm, means the energy of a projectile discharged by it, measured at its muzzle in joules;
 
-‘prohibited ammunition’ means ammunition that is declared by order under section 2C of this Act to be prohibited ammunition;
+"prohibited ammunition" means ammunition that is declared by order under section 2C of this Act to be prohibited ammunition;
 
-‘prohibited firearm’ means a firearm that is declared by order under section 2C of this Act to be a prohibited firearm.
+"prohibited firearm" means a firearm that is declared by order under section 2C of this Act to be a prohibited firearm.
 
 “prohibited weapon” means and includes any weapon of whatever description designed for the discharge of any noxious liquid, noxious gas or other noxious thing, and also any ammunition (whether for any such weapon or any other weapon) which contains or is designed or adapted to contain any noxious liquid, noxious gas or other noxious thing;
 

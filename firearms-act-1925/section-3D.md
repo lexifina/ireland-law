@@ -1,4 +1,4 @@
-F36[ Restriction on licensing of short firearms.
+F36[Restriction on licensing of short firearms.
 
 3D.— (1) As and from the date of commencement of this section, no application for a firearm certificate in respect of a short firearm shall be considered by an issuing person other than for—
 

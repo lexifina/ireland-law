@@ -1,3 +1,3 @@
-F61[ Reloading of ammunition.
+F61[Reloading of ammunition.
 
 10A.—...
