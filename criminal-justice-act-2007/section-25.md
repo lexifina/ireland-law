@@ -18,13 +18,13 @@ Commission of another offence within specified period.
 
 (a) section 2 of the Criminal Justice Act 1990;
 
-(b) section 15(8) of the Act of 1925;
+(b) ...
 
-(c) section 26(8), 27(8), 27A(8) or 27B(8) of the Act of 1964;
+(c) ...
 
-(d) section 12A(13) of the Act of 1990; or
+(d) ...
 
-(e) section 27(3F) of the Misuse of Drugs Act 1977.
+(e) ...
 
 (3) Subsection (1) shall not apply where the court is satisfied that it would be disproportionate in all the circumstances of the case to specify as the minimum term of imprisonment to be served by the person concerned the term of imprisonment referred to in that subsection in respect of the subsequent offence.
 

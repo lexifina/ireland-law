@@ -42,7 +42,7 @@ Penalties.
 
 (3A) Every person guilty of an offence under section 15A or 15B of this Act shall be liable, on conviction on indictment—
 
-(a) to imprisonment for life or such shorter term as the court may determine, subject to subsections (3C) and (3D) of this section or, where subsection (3F) of this section applies, to that subsection, and
+(a) to imprisonment for life or such shorter term as the court may determine, subject to subsections (3C) and (3D) of this section ..., and
 
 (b) at the court’s discretion, to a fine of such amount as the court considers appropriate.
 
@@ -76,7 +76,7 @@ Penalties.
 
 (b) is convicted of a first offence under one of those sections and has been convicted under the other of those sections, the court shall, in imposing sentence, specify a term of not less than 10 years as the minimum term of imprisonment to be served by the person.
 
-(3G) The power conferred by section 23 of the Criminal Justice Act 1951 to commute or remit a punishment shall not, in the case of a person serving a sentence imposed under subsection (3A) of this section, be exercised before the expiry of the minimum term specified by the court under subsection (3C) or (3F), as may be appropriate, of this section less any reduction of that term under subsection (3H) of this section.
+(3G) The power conferred by section 23 of the Criminal Justice Act 1951 to commute or remit a punishment shall not, in the case of a person serving a sentence imposed under subsection (3A) of this section, be exercised before the expiry of the minimum term specified by the court under subsection (3C) ... of this section less any reduction of that term under subsection (3H) of this section.
 
 (3H) The rules or practice whereby prisoners generally may earn remission of sentence by industry and good conduct shall apply in the case of a person serving a sentence imposed under subsection (3A) of this section and the minimum term specified by the court under subsection (3C) of this section shall be reduced by the amount of any remission so earned by the person.
 
@@ -86,7 +86,7 @@ Penalties.
 
 (a) may inquire whether at the time of the commission of the offence the person was addicted to one or more controlled drugs, and
 
-(b) if satisfied that the person was so addicted at that time and that the addiction was a substantial factor leading to the commission of the offence, may list the sentence for review after the expiry of not less than one-half of the term specified by the court under subsection (3C) or (3F), as may be appropriate, of this section.
+(b) if satisfied that the person was so addicted at that time and that the addiction was a substantial factor leading to the commission of the offence, may list the sentence for review after the expiry of not less than one-half of the term specified by the court under subsection (3C) ... of this section.
 
 (3K) On reviewing a sentence listed under subsection (3J)(b) of this section, the court—
 
@@ -98,7 +98,7 @@ Penalties.
 
 (3M) The reference in subsection (3I) of this section to section 2 of the Criminal Justice Act 1960 shall be construed to include that section as applied by section 4 of the Prisons Act 1970.
 
-(3N) In subsections (3B) and (3D) of this section ‘drug trafficking offence’ has the meaning it has in section 3(1) of the Criminal Justice Act 1994 and in subsection (3D) of this section ‘drug trafficking’ has the meaning it has in the said section 3(1).
+(3N) In subsections (3B) and (3D) of this section "drug trafficking offence" has the meaning it has in section 3(1) of the Criminal Justice Act 1994 and in subsection (3D) of this section "drug trafficking" has the meaning it has in the said section 3(1).
 
 (4) Subject to section 28 of this Act, every person guilty of an offence under section 18 of this Act shall be liable—
 
