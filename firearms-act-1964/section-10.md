@@ -1,3 +1,3 @@
-Period of validity of firearm certificate granted by Minister.
+Period of validity of firearm certificate granted by Minister. (Repealed)
 
 10.—...

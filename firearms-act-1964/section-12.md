@@ -1,3 +1,3 @@
-Limited use of shot-gun.
+Limited use of shot-gun. (Repealed)
 
 12.—...

@@ -1,3 +1,3 @@
-Extension of Principal Act to airguns.
+Extension of Principal Act to airguns. (Repealed)
 
 2.—...
