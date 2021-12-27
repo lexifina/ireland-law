@@ -24,6 +24,6 @@ F27[Offence relating to possession of drugs with value of F28[€13,000]
 
 (5) In this section—
 
-‘market value’, in relation to a controlled drug, means the price that drug could be expected to fetch on the market for the unlawful sale or supply of controlled drugs;
+"market value", in relation to a controlled drug, means the price that drug could be expected to fetch on the market for the unlawful sale or supply of controlled drugs;
 
-‘an officer of customs and excise’ has the same meaning as in section 6 of the Criminal Justice (Drug Trafficking) Act, 1996.
+"an officer of customs and excise" has the same meaning as in section 6 of the Criminal Justice (Drug Trafficking) Act, 1996.

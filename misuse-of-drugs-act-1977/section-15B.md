@@ -1,4 +1,4 @@
-F30[ Importation of controlled drugs in excess of certain value.
+F30[Importation of controlled drugs in excess of certain value.
 
 15B.— (1) A person shall be guilty of an offence where—
 
@@ -16,4 +16,4 @@ F30[ Importation of controlled drugs in excess of certain value.
 
 (4) No proceedings may be instituted under this section except by or with the consent of the Director of Public Prosecutions.
 
-(5) In this section ‘market value’ and ‘an officer of customs and excise’ have the meanings they have in section 15A of this Act.
+(5) In this section "market value" and "an officer of customs and excise" have the meanings they have in section 15A of this Act.

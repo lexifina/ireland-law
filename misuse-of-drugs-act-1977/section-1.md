@@ -2,9 +2,9 @@ Interpretation.
 
 1.—(1) In this Act—
 
-‘business’includes a profession;
+"business" includes a profession;
 
-‘cannabis’ (except in ‘cannabis resin’) means any plant of the genus Cannabis or any part of any such plant (by whatever name designated) but includes neither cannabis resin nor any of the following products after separation from the rest of any such plant, namely—
+"cannabis" (except in "cannabis resin") means any plant of the genus Cannabis or any part of any such plant (by whatever name designated) but includes neither cannabis resin nor any of the following products after separation from the rest of any such plant, namely—
 
 (a) mature stalk of any such plant,
 
@@ -20,7 +20,7 @@ Interpretation.
 
 “forged prescription” has the meaning assigned to it by section 18 of this Act;
 
-‘Irish Medicines Board’ means the Irish Medicines Board established under section 3 of the Irish Medicines Board Act 1995;
+"Irish Medicines Board" means the Irish Medicines Board established under section 3 of the Irish Medicines Board Act 1995;
 
 “land” includes land covered wholly or partly with water;
 
@@ -28,7 +28,7 @@ Interpretation.
 
 “the Minister” means the Minister for Health;
 
-‘opium poppy’ means a plant of the species Papaver somniferum L or Papaver bracteatum Lindl;
+"opium poppy" means a plant of the species Papaver somniferum L or Papaver bracteatum Lindl;
 
 “pharmacist” means a registered pharmaceutical chemist, a registered dispensing chemist and druggist and a registered druggist;
 
@@ -62,9 +62,9 @@ Interpretation.
 
 “supply” includes giving without payment;
 
-‘temporary direction’ means a direction under section 9 of this Act;
+"temporary direction" means a direction under section 9 of this Act;
 
-‘vessel’ includes a hovercraft;
+"vessel" includes a hovercraft;
 
 “the Veterinary Council” means the Veterinary Council established under the Veterinary Surgeons Act, 1931.
 

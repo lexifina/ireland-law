@@ -48,6 +48,6 @@ Regulations to prevent misuse of controlled drugs.
 
 (4) In this section—
 
-‘relevant midwife’ means a registered midwife or a class of registered midwives;
+"relevant midwife" means a registered midwife or a class of registered midwives;
 
-‘relevant nurse’ means a registered nurse or a class of registered nurses.
+"relevant nurse" means a registered nurse or a class of registered nurses.
