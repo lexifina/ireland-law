@@ -2,11 +2,11 @@ Investment in Fossil Fuel Undertakings
 
 49A. (1) In this section—
 
-‘fellow subsidiary undertakings’, ‘higher holding undertaking’, ‘holding undertaking’, ‘subsidiary undertaking’ and ‘undertaking’ have the respective meanings given to them by the Companies Act 2014;
+"fellow subsidiary undertakings", "higher holding undertaking", "holding undertaking", "subsidiary undertaking" and "undertaking" have the respective meanings given to them by the Companies Act 2014;
 
-‘fossil fuel’ means coal, oil, natural gas, peat or any derivative thereof intended for use in the production of energy by combustion;
+"fossil fuel" means coal, oil, natural gas, peat or any derivative thereof intended for use in the production of energy by combustion;
 
-‘fossil fuel undertaking’ means an undertaking which is—
+"fossil fuel undertaking" means an undertaking which is—
 
 (a) engaged, for the time being, in the exploration for or extraction or refinement of a fossil fuel where such activity accounts for 20 per cent or more of the turnover of that undertaking, as derived from its most recently published audited financial statements,
 
@@ -14,15 +14,15 @@ Investment in Fossil Fuel Undertakings
 
 (c) a holding undertaking or, as the case may be, a higher holding undertaking of undertakings engaged, for the time being, in the exploration for or extraction or refinement of a fossil fuel, where the aggregate turnover of such undertakings accounts for 20 per cent or more of the turnover of the group on a consolidated basis, as derived from its most recently published audited financial statements;
 
-‘group’ means an undertaking together with any holding undertaking, higher holding undertaking, subsidiary undertaking and fellow subsidiary undertakings that such undertaking may have;
+"group" means an undertaking together with any holding undertaking, higher holding undertaking, subsidiary undertaking and fellow subsidiary undertakings that such undertaking may have;
 
-‘indirect investment’ means an investment of the assets of the Fund in an investment product or in a collective investment undertaking but does not include financial derivative instruments, exchange traded funds or hedge funds;
+"indirect investment" means an investment of the assets of the Fund in an investment product or in a collective investment undertaking but does not include financial derivative instruments, exchange traded funds or hedge funds;
 
-‘national transition objective’ has the meaning given by the Climate Action and Low Carbon Development Act 2015;
+"national transition objective" has the meaning given by the Climate Action and Low Carbon Development Act 2015;
 
-‘State’s climate change obligations’ means the existing or future obligations of the State referred to in paragraphs (a) and (b) (insofar as the obligations of the State referred to in paragraph (b) relate to climate change) of section 2 of the Climate Action and Low Carbon Development Act 2015;
+"State’s climate change obligations" means the existing or future obligations of the State referred to in paragraphs (a) and (b) (insofar as the obligations of the State referred to in paragraph (b) relate to climate change) of section 2 of the Climate Action and Low Carbon Development Act 2015;
 
-‘turnover’ in relation to an undertaking or a group of undertakings means the amount of revenue derived from the provision of goods and services falling within the ordinary activities of the undertaking or group of undertakings, after deduction of—
+"turnover" in relation to an undertaking or a group of undertakings means the amount of revenue derived from the provision of goods and services falling within the ordinary activities of the undertaking or group of undertakings, after deduction of—
 
 (a) trade discounts,
 
