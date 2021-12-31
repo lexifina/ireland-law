@@ -12,6 +12,8 @@ Fit and proper person.
 
 (e) an offence under section 2 of the Illegal Immigrants (Trafficking) Act 2000,
 
+(ea) an offence under section 6, 7 or 8 of the Criminal Justice (Smuggling of Persons) Act 2021,
+
 (f) a sexual offence (within the meaning of section 3 of the Sex Offenders Act 2001),
 
 (g) an offence under the Criminal Justice (Theft and Fraud Offences) Act 2001,

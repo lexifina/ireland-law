@@ -124,6 +124,12 @@ MARITIME SECURITY OFFENCES
 
 24. An offence under section 2 or 3 of the Maritime Security Act 2004.
 
+OFFENCES RELATED TO SMUGGING OF PERSONS
+
+25. An offence under section 2 of the Illegal Immigrants (Trafficking) Act 2000.
+
+26. An offence under section 6, 7 or 8 of the Criminal Justice (Smuggling of Persons) Act 2021.
+
 ACCOMPLICES
 
-Reference in this Schedule to an offence includes references to participation as an accomplice of a person who commits the offence.
+Reference in this Schedule to an offence includes references to participation as an accomplice of a person who commits the offence. 37 of 2013
