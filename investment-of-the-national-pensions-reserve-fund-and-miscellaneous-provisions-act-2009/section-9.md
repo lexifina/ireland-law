@@ -10,17 +10,13 @@ Amendment of the Taxes Consolidation Act 1997.
 
 (II) the National Pensions Reserve Fund Commission, or
 
-(III) a Commission investment vehicle (within the meaning given by section 2 of the National Pensions Reserve Fund Act 2000 (as amended by section 2 of the Invest-
-
-## ment of the National Pensions Reserve Fund and Miscellaneous Provisions Act 2009)),”;
+(III) a Commission investment vehicle (within the meaning given by section 2 of the National Pensions Reserve Fund Act 2000 (as amended by section 2 of the Investment of the National Pensions Reserve Fund and Miscellaneous Provisions Act 2009)),”;
 
 (b) in section 230A by inserting “or a Commission investment vehicle (within the meaning given by section 2 of the National Pensions Reserve Fund Act 2000 (as amended by section 2 of the Investment of the National Pensions Reserve Fund and Miscellaneous Provisions Act 2009))” after “National Pensions Reserve Fund Commission”;
 
 (c) in section 256(1), in paragraph (a) of the definition of “relevant deposit”, by substituting for subparagraphs (iiia) and (iiib)—
 
-“(iiia) the National Pensions Reserve Fund Commission or a Commission investment vehicle (within the meaning given by section 2 of the National Pensions Reserve Fund Act 2000 (as amended by section 2 of the Investment of the
-
-## National Pensions Reserve Fund and Miscellaneous Provi- sions Act 2009)),
+“(iiia) the National Pensions Reserve Fund Commission or a Commission investment vehicle (within the meaning given by section 2 of the National Pensions Reserve Fund Act 2000 (as amended by section 2 of the Investment of the National Pensions Reserve Fund and Miscellaneous Provisions Act 2009)),
 
 (iiib) the State acting through the National Pensions Reserve Fund Commission or a Commission investment vehicle (within the meaning given by section 2 of the National Pensions Reserve Fund Act 2000 (as amended by section 2 of the Investment of the National Pensions Reserve Fund and Miscellaneous Provisions Act 2009)),”,
 
@@ -28,11 +24,7 @@ Amendment of the Taxes Consolidation Act 1997.
 
 “(l) is—
 
-(i) the National Pensions Reserve Fund Commission or a Commission investment vehicle (within the meaning given by section 2 of the National Pensions Reserve Fund Act 2000 (as amended by section 2 of the Investment of the
-
-## National Pensions Reserve Fund and Miscellaneous Provi-
-
-sions Act 2009)), or
+(i) the National Pensions Reserve Fund Commission or a Commission investment vehicle (within the meaning given by section 2 of the National Pensions Reserve Fund Act 2000 (as amended by section 2 of the Investment of the National Pensions Reserve Fund and Miscellaneous Provisions Act 2009)), or
 
 (ii) the State acting through the National Pensions Reserve Fund Commission or a Commission investment vehicle (within the meaning given by section 2 of the National Pensions Reserve Fund Act 2000 (as amended by section 2 of the Investment of the National Pensions Reserve Fund and Miscellaneous Provisions Act 2009)), and has made a declaration to that effect to the investment undertaking, or”;
 
