@@ -218,7 +218,7 @@ Drugs offences
 
 27. A drug trafficking offence within the meaning of section 3 (1) of the Criminal Justice Act, 1994.
 
-27A. Any offence under section 2 of the Illegal Immigrants (Trafficking) Act, 2000.
+27A. ...
 
 Public order offences
 
@@ -309,3 +309,9 @@ Act 2020
 Offences under the Criminal Justice (Perjury and Related Offences) Act 2021
 
 43. Any offence under the Criminal Justice (Perjury and Related Offences) Act 2021.
+
+Offences relating to smuggling of persons
+
+43. Any offence under section 2 of the Illegal Immigrants (Trafficking) Act 2000.
+
+44. Any offence under section 6, 7, 8 or 14 of the Criminal Justice (Smuggling of Persons) Act 2021.
