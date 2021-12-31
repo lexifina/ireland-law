@@ -72,11 +72,11 @@ Definitions
 
 (b) designed or intended to be used for the conveyance of storm water (whether or not it is connected to a sewer by a storm water overflow within the meaning of the Waste Water Discharge (Authorisation) Regulations 2007 (S.I. No. 684 of 2007));
 
-‘strategic funding plan’ has the meaning assigned to it by section 34A (inserted by section 19 of the Water Services Act 2017);
+"strategic funding plan" has the meaning assigned to it by section 34A (inserted by section 19 of the Water Services Act 2017);
 
 “structure” has the same meaning as it has in the Act of 2007;
 
-‘threshold amount’ means the threshold amount specified by order under section 53B (inserted by section 9 of the Water Services Act 2017) of the Act of 2007;
+"threshold amount" means the threshold amount specified by order under section 53B (inserted by section 9 of the Water Services Act 2017) of the Act of 2007;
 
 “transfer day” shall be construed in accordance with section 6;
 
@@ -84,6 +84,6 @@ Definitions
 
 “water charges plan” has the meaning assigned to it by section 22;
 
-‘water services policy statement’ has the meaning assigned to it by section 32A (inserted by section 18 of the Water Services Act 2017);
+"water services policy statement" has the meaning assigned to it by section 32A (inserted by section 18 of the Water Services Act 2017);
 
 “waterworks” has the same meaning as it has in the Act of 2007.
