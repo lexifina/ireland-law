@@ -2,7 +2,7 @@
 
 Certain penalties and prosecutions.
 
-41.— (1) A person guilty of an offence under section 4(4), 12(6), 23(1) or 28(7) is liable—
+41.— (1) A person guilty of an offence under section 4(4), 12 (6), 23(1) or 28(7) is liable—
 
 (a) on summary conviction, to a class A fine or to imprisonment for a term not exceeding 6 months, or to both, and
 

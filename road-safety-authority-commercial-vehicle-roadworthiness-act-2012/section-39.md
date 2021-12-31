@@ -26,7 +26,7 @@ Risk rating system.
 
 (b) results of roadside inspections under section 32,
 
-(c) results of inspections of CVR vehicles and premises under sections 31 and 35,
+(c) results of inspections of CVR vehicles and premises under sections 31 and 35 ,
 
 (d) any directions to owners, drivers and persons in charge of CVR vehicles and compliance with those directions,
 
@@ -50,7 +50,7 @@ Risk rating system.
 
 (d) any convictions for offences under this Part,
 
-(e) the accuracy of any records held by a CVR test operator or transmitted using the information system established under section 28in relation to CVR vehicles,
+(e) the accuracy of any records held by a CVR test operator or transmitted using the information system established under section 28 in relation to CVR vehicles,
 
 (f) whether or not authorisations held by CVR test operators or CVR testers have been suspended or revoked, and
 
