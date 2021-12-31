@@ -22,4 +22,4 @@ Penalty for concealing offence.
 
 (5) A person who has his or her principal residence in the State for the 12 months immediately preceding the commission of an offence under subsection (1) is, for the purposes of subsection (1A)(d), ordinarily resident in the State on the date of the commission of the offence.
 
-(6) In this section ‘Irish ship’ has the same meaning as it has in section 7.
+(6) In this section "Irish ship" has the same meaning as it has in section 7.
