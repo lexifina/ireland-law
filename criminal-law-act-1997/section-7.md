@@ -46,4 +46,4 @@ Penalties for assisting offenders.
 
 (8) A person who has his or her principal residence in the State for the 12 months immediately preceding the commission of an offence referred to in subsection (1A) or an offence under subsection (2) is, for the purposes of subsection (1A)(d) or (in the case of an offence under subsection (2)) subsection (2A)(d), taken to be ordinarily resident in the State on the date of the commission of the offence.
 
-(9) In this section ‘Irish ship’ has the meaning it has in section 9 of the Mercantile Marine Act 1955.
+(9) In this section "Irish ship" has the meaning it has in section 9 of the Mercantile Marine Act 1955.
