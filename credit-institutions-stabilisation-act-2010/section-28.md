@@ -2,7 +2,7 @@
 
 Proposed subordinated liabilities orders.
 
-28.— (1) Subject to subsections (2) and (5) theMinister may make a proposed subordinated liabilities order in relation to the subordinated liabilities of a relevant institution to which the Minister has provided or intends to provide financial support under the Act of 2008 only if—
+28.— (1) Subject to subsections (2) and (5) the Minister may make a proposed subordinated liabilities order in relation to the subordinated liabilities of a relevant institution to which the Minister has provided or intends to provide financial support under the Act of 2008 only if—
 
 (a) the Minister has consulted with the Governor, and
 
