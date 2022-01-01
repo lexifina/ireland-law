@@ -1,6 +1,6 @@
 Cancellation of biofuel obligation certificate where biofuel exported from the State.
 
-44L.— (1) Where biofuel is exported from the State, being biofuel in respect of which a biofuel obligation certificate issued under section 44G, the biofuel obligation account holder to whom the certificate issued shall make an application to the Agency to cancel that certificate, whether or not the certificate has been transferred to another biofuel obligation account holder under section 44K before or after the date on which the biofuel was so exported.
+44L.—(1) Where biofuel is exported from the State, being biofuel in respect of which a biofuel obligation certificate issued under section 44G, the biofuel obligation account holder to whom the certificate issued shall make an application to the Agency to cancel that certificate, whether or not the certificate has been transferred to another biofuel obligation account holder under section 44K before or after the date on which the biofuel was so exported.
 
 (2) An application under subsection (1) shall be made within 28 days after the date on which the biofuel has been so exported—
 

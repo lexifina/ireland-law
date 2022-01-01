@@ -1,6 +1,6 @@
 Volume assessment.
 
-44O.— (1) Before the end of each month, the Minister shall notify the Agency of the Minister’s assessment of the volume of biofuel appearing to have been relevantly disposed of in the preceding month by each biofuel obligation account holder liable to pay the biofuel levy.
+44O.—(1) Before the end of each month, the Minister shall notify the Agency of the Minister’s assessment of the volume of biofuel appearing to have been relevantly disposed of in the preceding month by each biofuel obligation account holder liable to pay the biofuel levy.
 
 (2) The volume assessment is to be based on—
 

@@ -40,7 +40,7 @@ Board of directors.
 
 (7) Section 182 of the Act of 1963 does not apply to the Agency.
 
-(8) The directors (including the chairperson and chief executive) shall be paid by the Agency out ofthe proceeds of the levy collected and recovered and the proceeds of the biofuel levy collected and recovered such remuneration (if any) and allowances for expenses as the Minister, with the consent of the Minister for Finance, may determine.
+(8) The directors (including the chairperson and chief executive) shall be paid by the Agency out of the proceeds of the levy collected and recovered and the proceeds of the biofuel levy collected and recovered such remuneration (if any) and allowances for expenses as the Minister, with the consent of the Minister for Finance, may determine.
 
 (9) A person who, immediately before the commencement of this section, held office as a director of the Agency shall, subject to subsection (6) and section 23 and the terms and conditions upon which he or she was appointed, continue in office as such director until the end of the period for which he or she was appointed, as if appointed under subsection (2).
 

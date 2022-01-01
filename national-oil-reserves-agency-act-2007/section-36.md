@@ -4,9 +4,7 @@ Definitions for Part 5.
 
 36.— In this Part—
 
-"expenses" other than in section
-
-37B means the operating costs and administrative expenses of the Agency and each designated subsidiary, including the following:
+"expenses" other than in section 37B means the operating costs and administrative expenses of the Agency and each designated subsidiary, including the following:
 
 (a) oil storage costs;
 

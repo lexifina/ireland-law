@@ -4,6 +4,6 @@ Duties of Minister.
 
 (a) in calculating national oil reserves and Irish emergency stocks, and
 
-(b) in determining the volume of oil stocks to be maintained by the Agency in order to carry out its duty under section 32.
+(b) in determining the volume of oil stocks to be maintained by the Agency in order to carry out its duty under section 32 .
 
 (2) The Minister shall keep the Agency informed of the volume of oil stocks, calculated by reference to the information supplied to the Minister in accordance with the regulations relating to returns, that the Agency must maintain to comply with its duty under section 32.

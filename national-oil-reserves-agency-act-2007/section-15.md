@@ -1,6 +1,6 @@
 Strategy statement.
 
-15.— (1) As soon as practicable after the share transfer day, the Agency shall prepare and submit to the Minister for approval a strategy statement for—
+15.—(1) As soon as practicable after the share transfer day, the Agency shall prepare and submit to the Minister for approval a strategy statement for—
 
 (a) in the case of the initial strategy statement, the ensuing five year period, and
 

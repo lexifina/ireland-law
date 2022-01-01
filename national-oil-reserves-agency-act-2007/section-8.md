@@ -8,7 +8,7 @@ Object and functions of Agency.
 
 (c) (i) collecting and recovering the levy, and
 
-(ii) paying into the Climate Action Fund, out of the proceeds of the levy collected and recovered, such amount as is specified by the Minister pursuant to a direction (if any) given under section 37A,,
+(ii) paying into the Climate Action Fund, out of the proceeds of the levy collected and recovered, such amount as is specified by the Minister pursuant to a direction (if any) given under section 37A,
 
 (ca) administering the biofuel obligation in accordance with Part 5A,
 

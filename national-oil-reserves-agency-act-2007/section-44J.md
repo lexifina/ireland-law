@@ -1,18 +1,18 @@
 Discharge of biofuel obligation by payment.
 
-44J.— (1) Where the biofuel obligation notified under subsection (1) of section 44I is not discharged, in whole or in part, in respect of the obligated party concerned, in accordance with, and in the period specified in, subsection (3) of that section, or, as the case may be, under subsection (4) of that section, the obligated party shall pay to the Agency an amount in respect of the shortfall (in this section referred to as the ‘buy-out charge’) calculated in accordance with the formula—
+44J.— (1) Where the biofuel obligation notified under subsection (1) of section 44I is not discharged, in whole or in part, in respect of the obligated party concerned, in accordance with, and in the period specified in, subsection (3) of that section, or, as the case may be, under subsection (4) of that section, the obligated party shall pay to the Agency an amount in respect of the shortfall (in this section referred to as the "buy-out charge") calculated in accordance with the formula—
 
 X x Y where—
 
 X is the amount of the biofuel obligation notified under section 44I(1) which remains undischarged, and
 
-Y is the price per litre of biofuel prescribed in accordance with this section (in this section referred to as the ‘buy-out price’).
+Y is the price per litre of biofuel prescribed in accordance with this section (in this section referred to as the "buy-out price").
 
 (2) For the purposes of subsection (1), the Agency shall give a notice in such form as the Agency determines to the obligated party concerned within 14 days after the end of the period specified in section 44I(3), stating—
 
 (a) the amount of the biofuel obligation notified under section 44I(1) which remains undischarged, whether in whole or in part,
 
-(b) the amount of the buy-out charge in respect of the amount of the biofuel obligation which remains undis-charged,
+(b) the amount of the buy-out charge in respect of the amount of the biofuel obligation which remains undischarged,
 
 (c) the date by which the buy-out charge is to be paid, which date shall not be less than 14 days from the date of the notice, and
 

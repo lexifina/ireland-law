@@ -8,7 +8,7 @@ Information to Minister on performance of functions.
 
 (c) any strategy statement that has been laid before each House of the Oireachtas under section 15,
 
-(d) any report or account prepared by it under sections 28 or 29,
+(d) any report or account prepared by it under sections 28 or 29 ,
 
 (e) the economy and efficiency of use of the Agency in the use of its resources,
 

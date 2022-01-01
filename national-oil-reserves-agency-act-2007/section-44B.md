@@ -14,7 +14,7 @@ Conversion factors.
 
 (ii) the Minister for Finance,
 
-(iii)the Minister for Transport, Tourism and Sport,
+(iii) the Minister for Transport, Tourism and Sport,
 
 (iv) the Environmental Protection Agency,
 

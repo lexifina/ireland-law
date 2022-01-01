@@ -16,7 +16,7 @@ Biofuel obligation account.
 
 (3) The Agency may, in accordance with this section and any regulations made under it, open a biofuel obligation account on application to the Agency by a biofuel producer or biofuel supplier who is not an obligated party.
 
-(4) An application under subsection (3) by a biofuel producer or biofuel supplier (in this section referred to as the ‘applicant’) to open a biofuel obligation account shall be in the prescribed form and shall include—
+(4) An application under subsection (3) by a biofuel producer or biofuel supplier (in this section referred to as the "applicant") to open a biofuel obligation account shall be in the prescribed form and shall include—
 
 (a) a current tax clearance certificate,
 
@@ -104,4 +104,4 @@ Biofuel obligation account.
 
 (c) produces or furnishes, or causes or knowingly allows to be produced or furnished, any information, particulars, documentation or evidence which he or she knows to be false in a material particular.
 
-(16) In this section ‘tax clearance certificate’ means a certificate under section 1095 (as substituted by section 127(b) of the Finance Act 2002) of the Taxes Consolidation Act 1997.
+(16) In this section "tax clearance certificate" means a certificate under section 1095 (as substituted by section 127(b) of the Finance Act 2002) of the Taxes Consolidation Act 1997.

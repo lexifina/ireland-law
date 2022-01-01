@@ -10,7 +10,7 @@ Interpretation.
 
 “Agency” means the body corporate formed and registered under the Companies Acts and continued in existence under section 7 as An Ghníomhaireacht Chúltaca Ola Náisiúnta or, in the English language, as the National Oil Reserves Agency;
 
-“authorised officer” has the meaning assigned by section 46;
+“authorised officer” has the meaning assigned by section 46 ;
 
 ‘available and physically accessible’ in respect of stocks means that, in a case of particular urgency, the stocks are at the disposal of the Minister and arrangements are in place to release the stocks to the market within time frames and under conditions conducive to alleviating an oil supply disruption;
 
@@ -52,7 +52,7 @@ Interpretation.
 
 ‘International Energy Agency’ means the intergovernmental organisation of that name established within the framework of the Organisation for Economic Co-operation and Development;
 
-“levy” means the levy imposed under Part 5;
+“levy” means the levy imposed under Part 5 ;
 
 “local authority” has the same meaning as in the Local Government Act 2001;
 
@@ -112,9 +112,9 @@ Interpretation.
 
 (a) the Council Directive,
 
-(b) any provision of the treaties governing the European Communities,
-
 3 OJ No. L 304, 14.11.2008, p 1 4 OJ No. L 50, 22.02.2013, p. 1 5 OJ No. L 131, 1.05.2014, p. 1 6 OJ No. L 292, 10.11.2017, p. 3
+
+(b) any provision of the treaties governing the European Communities,
 
 (c) any act adopted by the institutions of those Communities,
 

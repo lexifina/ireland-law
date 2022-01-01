@@ -1,6 +1,6 @@
 Power to establish subsidiaries.
 
-16.— (1) The Agency may, with the consent of the Minister and the Minister for Finance, perform any of its functions through a subsidiary.
+16.—(1) The Agency may, with the consent of the Minister and the Minister for Finance, perform any of its functions through a subsidiary.
 
 (2) For the purpose of subsection (1), the Agency may do one or more of the following:
 

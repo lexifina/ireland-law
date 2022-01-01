@@ -14,9 +14,9 @@ Compliance with biofuel obligation.
 
 (5) For the purposes of this section, the discharge of the biofuel obligation notified under subsection (1) shall be effected by recording a debit in the biofuel obligation account concerned of the biofuel obligation certificates to be counted under subsection (3) or (4), as appropriate, towards the discharge of the biofuel obligation so notified.
 
-(6) (a) Subject to paragraphs (b)and (c) a biofuel obligation certificate, the period of validity of which has not expired, may be counted towards the discharge of the biofuel obligation notified under subsection (1) of the obligated party to whose biofuel obligation account the certificate is credited for any obligation period subsequent to the obligation period in respect of which the certificate issued.
+(6) (a) Subject to paragraphs (b) and (c) a biofuel obligation certificate, the period of validity of which has not expired, may be counted towards the discharge of the biofuel obligation notified under subsection (1) of the obligated party to whose biofuel obligation account the certificate is credited for any obligation period subsequent to the obligation period in respect of which the certificate issued.
 
-(b) For obligation periods beginning before 1 January 2020, a biofuel obligation certificate referred to in paragraph (a)may not be counted towards the discharge of more than 25 per cent of the amount of the biofuel obligation notified to the obligated party under subsection (1) in respect of that subsequent obligation period.
+(b) For obligation periods beginning before 1 January 2020, a biofuel obligation certificate referred to in paragraph (a) may not be counted towards the discharge of more than 25 per cent of the amount of the biofuel obligation notified to the obligated party under subsection (1) in respect of that subsequent obligation period.
 
 (c)For obligation periods beginning on or after 1 January 2020, a biofuel obligation certificate referred to in paragraph (a) may not be counted towards the discharge of more than 15 per cent of the amount of the biofuel obligation notified to the obligated party under subsection (1) in respect of that subsequent obligation period.
 

@@ -4,9 +4,9 @@ Transfer of biofuel obligation certificates.
 
 (2) Where a biofuel obligation account holder proposes to transfer biofuel obligation certificates to another biofuel obligation account holder, he or she shall give notice to the Agency in such form as the Agency determines of—
 
-(a) the name and account number of the biofuel obligation account holder who proposes to transfer biofuel obligation certificates (in this section referred to as the ‘transferor’),
+(a) the name and account number of the biofuel obligation account holder who proposes to transfer biofuel obligation certificates (in this section referred to as the "transferor"),
 
-(b) the name and account number of the biofuel obligation account holder to whom it is proposed to transfer the biofuel obligation certificates (in this section referred to as the ‘transferee’),
+(b) the name and account number of the biofuel obligation account holder to whom it is proposed to transfer the biofuel obligation certificates (in this section referred to as the "transferee"),
 
 (c) the number and date of each biofuel obligation certificate concerned,
 
