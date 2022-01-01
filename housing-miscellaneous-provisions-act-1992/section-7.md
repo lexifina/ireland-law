@@ -2,7 +2,7 @@ Subsidy towards rent of houses provided by certain bodies.
 
 7.—(1) Subject to such regulations as may be made by the Minister for the purposes of this section—
 
-(a) a housing authority may pay a subsidy towards the rent of a house provided (whether provided by erection, purchase, improvement or conversion) by a body approved of for the purposes of section 6, and
+(a) a housing authority may pay a subsidy towards the rent of a house provided (whether provided by erection, purchase, improvement or conversion) by an approved housing body,
 
 (b) the Minister may, with the consent of the Minister for Finance, recoup to a housing authority, out of moneys provided by the Oireachtas, all or part of a subsidy paid by them under paragraph (a).
 
@@ -26,8 +26,8 @@ Subsidy towards rent of houses provided by certain bodies.
 
 (i) the manner in and time within which an application for the subsidy shall be made;
 
-(j) the manner of payment of the subsidy to the body providing the house and the conditions under which it is so paid to that body;
+(j) the manner of payment of the subsidy to the approved housing body providing the house and the conditions under which it is so paid to that approved housing body;
 
-(k) the payment of the subsidy, on behalf of a body to whom it is payable under subsection (1), to a person who has made a loan towards the provision of the house, or who has provided funds to a housing authority for the purpose of making such a loan, and the conditions under which it is so paid to that person;
+(k) the payment of the subsidy, on behalf of an approved housing body to whom it is payable under subsection (1), to a person who has made a loan towards the provision of the house, or who has provided funds to a housing authority for the purpose of making such a loan, and the conditions under which it is so paid to that person;
 
 (l) requirements in relation to the payment under any enactment (including this Act) of any other grant, subsidy or assistance in respect of a house concerned.

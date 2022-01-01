@@ -6,7 +6,7 @@ Subsidy towards rent of houses leased by means of shared ownership leases.
 
 (b) the Minister may, with the consent of the Minister for Finance, out of moneys provided by the Oireachtas—
 
-(i) pay a subsidy to a housing authority towards the rent of a house leased to a person under a shared ownership lease by the authority or an approved body, as the case may be,
+(i) pay a subsidy to a housing authority towards the rent of a house leased to a person under a shared ownership lease by the authority or an approved housing body, as the case may be,
 
 (ii) recoup to a housing authority all or part of a subsidy paid by the authority under paragraph (a).
 

@@ -4,4 +4,4 @@ Extension of application of section 6 of Landlord and Tenant (Amendment) Act, 19
 
 (a) a house leased under a shared ownership lease, and
 
-(b) housing accommodation provided after the commencement of this section for letting by a body standing approved of for the purposes of section 6, as if the person granting the lease or the approved body, as the case may be, were a housing authority and the house or the housing accommodation were premises provided by the authority.
+(b) housing accommodation provided after the commencement of this section for letting by an approved housing body, as if the person granting the lease or the approved housing body, as the case may be, were a housing authority and the house or the housing accommodation were premises provided by the authority.
