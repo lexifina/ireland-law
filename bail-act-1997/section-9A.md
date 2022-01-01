@@ -1,6 +1,6 @@
-F31[Power to hear complainant evidence in bail applications
+F32[Power to hear complainant evidence in bail applications
 
-9A. (1) A court considering an application for bail may, on the application of a member of the Garda Síochána, hear evidence from the person in respect of whom the offence is alleged to have been committed as to:
+9A.—(1) A court considering an application for bail may, on the application of a member of the Garda Síochána, hear evidence from the person in respect of whom the offence is alleged to have been committed as to:
 
 (a) the likelihood of direct or indirect interference or attempted interference by the accused person with the person in respect of whom the offence is alleged to have been committed or a member or his or her family; and
 
@@ -32,11 +32,11 @@ F31[Power to hear complainant evidence in bail applications
 
 (7) In this section—
 
-‘broadcast’ has the meaning assigned to it by the Broadcasting Act 2009;
+"broadcast" has the meaning assigned to it by the Broadcasting Act 2009;
 
-‘child’ means a person under the age of 18 years;
+"child" means a person under the age of 18 years;
 
-‘family member’ means—
+"family member" means—
 
 (a) a spouse or partner of the person,
 
@@ -48,10 +48,8 @@ F31[Power to hear complainant evidence in bail applications
 
 (e) any other person with whom, in the opinion of the court, the person has a close connection;
 
-‘guardian’, in relation to a child, has the meaning assigned to it by the Children Act 2001;
+"guardian", in relation to a child, has the meaning assigned to it by the Children Act 2001;
 
-‘mental disorder’ has the meaning assigned to it by the Mental Health Act 2001;
+"mental disorder" has the meaning assigned to it by the Mental Health Act 2001;
 
-‘publish’ means publish, other than by way of broadcast, to the public or a portion of the public.
-
-9B.Where an application for bail is made or renewed by a person charged with an offence, a court shall give reasons for its decision to grant or refuse the application including reasons for a decision to impose or vary any conditions to be contained in the recognisance to be entered into by the person.
+"publish" means publish, other than by way of broadcast, to the public or a portion of the public.
