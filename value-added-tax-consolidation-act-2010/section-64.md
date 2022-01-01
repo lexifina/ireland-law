@@ -10,9 +10,7 @@ Capital goods scheme.
 
 (b) Where a capital goods owner supplies or transfers by means of a transfer to which section 20(2)(c) applies a capital good during the adjustment period, then the adjustment period for that capital good for that owner shall end on the date of that supply or transfer.
 
-(2)(a) Where the initial interval proportion of deductible use in relation to a capital good differs from the proportion of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, then that owner shall, at the end of the initial interval, calculate an amount in accordance with the formula—
-
-A — B where—
+(2)(a) Where the initial interval proportion of deductible use in relation to a capital good differs from the proportion of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, then that owner shall, at the end of the initial interval, calculate an amount in accordance with the formula— A — B where—
 
 A is the amount of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, and
 

@@ -146,7 +146,9 @@ Criminal Justice (Legal Aid) (Tax Clearance Certificate) Regulations 1999 (S.I. 
 
 Income Tax (Relevant Contracts) Regulations 2000 (S.I. No. 71 of 2000): regulation 2, in the definition under section 9 of the Value-under section 65 of the Value-Added of “VAT registered number” Added Tax Act 1972 (No. 22
 
-Tax Consolidation Act 2010 of 1972) Taxes (Electronic Transmission of Certain Revenue Returns) (Specified Provisions and Appointed Day) Order 2000 (S.I. No. 289 of 2000): Schedule Section 19(3)(a) (as amended Section 76(1) of the Value-Added Tax by the Finance Act, 1983
+Tax Consolidation Act 2010 of 1972)
+
+Taxes (Electronic Transmission of Certain Revenue Returns) (Specified Provisions and Appointed Day) Order 2000 (S.I. No. 289 of 2000): Schedule Section 19(3)(a) (as amended Section 76(1) of the Value-Added Tax by the Finance Act, 1983
 
 Consolidation Act 2010
 
