@@ -22,12 +22,4 @@ Tax due on supplies.
 
 (3) Subsection (2) does not apply to the tax chargeable in respect of supplies of goods or services where tax is due in accordance with subsection (1)(a), (b) or (c) by an accountable person who is not authorised under section 80 to account for tax due by reference to the amount of the moneys received during a taxable period or part thereof.
 
-(4) Where a person accounts in accordance with section 76 or 77 for tax referred to in subsection (2) on an amount received by way of a deposit from a customer before the supply of the goods or services to which it relates, and—
-
-(a) that supply does not subsequently take place owing to a cancellation by the customer,
-
-(b) the cancellation is recorded as such in the books and records of that person,
-
-(c) the deposit is not refunded to the customer, and
-
-(d) no other consideration, benefit or supply is provided to the customer by any person in lieu of the refund of that amount, then the tax chargeable under section 3(a) or (c) shall be reduced in the taxable period in which the cancellation is recorded by the amount of tax accounted for on the deposit.
+(4) ...

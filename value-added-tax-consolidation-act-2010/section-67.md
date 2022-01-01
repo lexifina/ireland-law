@@ -24,13 +24,7 @@ Amendments to invoices.
 
 (c) following the issue of a credit note in accordance with subsection (1)(b), the person shall issue another invoice in accordance with this Act and regulations.
 
-(4) Where, subsequent to the issue of an invoice by a person to another person in accordance with section 66(1) in respect of an amount received by way of a deposit, and section 74(4) applies, then—
-
-(a) the amount of the consideration stated on that invoice is deemed to be reduced to nil,
-
-(b) the person shall issue to that other person a document to be treated as if it were a credit note containing particulars of the reduction in such form and containing such other particulars as would be required to be included in that document if that document were a credit note, and
-
-(c) if that other person is an accountable person, the amount which that other person may deduct under Chapter 1 of Part 8 shall be reduced by the amount of tax shown on the document as if that document were a credit note.
+(4) ...
 
 (5) Notwithstanding subsection (1) but subject to subsection (6), where, subsequent to the issue to a registered person of an invoice in accordance with section 66(1), the consideration stated in that invoice is reduced or a discount is allowed in such circumstances that, by agreement between the persons concerned, the amount of tax stated in the invoice is unaltered, then—
 
@@ -44,6 +38,6 @@ Amendments to invoices.
 
 (6) Subsection (5) shall not apply in any case where—
 
-(a) subsection (4) applies, or
+(a) ...
 
 (b) the person who issued the invoice referred to in subsection (5) was, at the time of its issue, a person authorised, in accordance with section 80(1), to determine that person’s tax liability in respect of supplies of the kind in question by reference to the amount of moneys received.
