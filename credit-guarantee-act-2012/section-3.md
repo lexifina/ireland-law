@@ -1,6 +1,6 @@
 Qualifying enterprise.
 
-3.— (1) Subject to subsection (1A) of this Act, a person is a qualifying enterprise if—
+3.— (1) Subject to subsection (1A), for the purposes of this Act, a person is a qualifying enterprise if—
 
 (a) the person is established in the State and employs fewer than 250 persons (calculated in accordance with the Commission Recommendation) whether or not in the State, and
 
