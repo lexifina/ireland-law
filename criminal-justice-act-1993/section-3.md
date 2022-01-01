@@ -1,0 +1,3 @@
+Appeal on point of law to Supreme Court. (Repealed)
+
+3.—...
