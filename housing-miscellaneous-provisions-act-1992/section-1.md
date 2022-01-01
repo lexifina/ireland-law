@@ -6,6 +6,8 @@ Interpretation.
 
 “the Act of 1988” means the Housing Act, 1988;
 
+“approved housing body“has the meaning given to it by the Housing (Regulation of Approved Housing Bodies) Act 2019;
+
 “Central Bank“means the Central Bank and Financial Services Authority of Ireland;
 
 “functions” includes powers and duties;
