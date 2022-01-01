@@ -44,8 +44,10 @@ Import scheme (where the State is Member State of consumption).
 
 (ii) where that scheme participant is not established and does not have a fixed establishment in the Community, be entitled to claim a refund of such tax in accordance with, and using the rules applicable to, Council Directive No. 86/560/EEC of 17 November 1986, notwithstanding Articles 2(2) and (3) and 4(2) of that Directive, or
 
-(iii) where that scheme participant is an accountable person other than in relation to distance sales of goods imported from third territories or third countries, subject to Chapter 1 of Part 8, be entitled to deduct the tax
-
-19 OJ No. L326, 21.11.1986, p. 40 borne or paid in the return which he or she is obliged to submit in accordance with Chapter 3 of Part 9.
+(iii) where that scheme participant is an accountable person other than in relation to distance sales of goods imported from third territories or third countries, subject to Chapter 1 of Part 8, be entitled to deduct the tax borne or paid in the return which he or she is obliged to submit in accordance with Chapter 3 of Part 9.
 
 (7) Notwithstanding section 84, a scheme participant who makes distance sales of goods imported from third territories or third countries to the State which are taxable in the State shall be bound by the requirements of section 91J(18)(a), (b) and (d) in relation to such sales and retain such records until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.
+
+## CHAPTER 3 Suspension arrangements for alcohol products
+
+19 OJ No. L326, 21.11.1986, p. 40

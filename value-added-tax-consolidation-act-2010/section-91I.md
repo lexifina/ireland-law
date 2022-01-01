@@ -10,9 +10,7 @@ Import scheme - interpretation and general provisions.
 
 (a) the Member State in which the taxable person has established his or her business,
 
-(b) if the taxable person has not established his or her business in the Community but has one or more fixed establishments therein, the Member State in which
-
-14 OJ No. L343, 29.12.2015, p. 1 he or she has a fixed establishment and in which he or she chooses to be identified for the purposes of the import scheme,
+(b) if the taxable person has not established his or her business in the Community but has one or more fixed establishments therein, the Member State in which he or she has a fixed establishment and in which he or she chooses to be identified for the purposes of the import scheme,
 
 (c) the Member State in which the taxable person chooses to register for the purposes of the import scheme, where that taxable person is not established within the Community,
 
@@ -39,5 +37,3 @@ Import scheme - interpretation and general provisions.
 (6) Where a taxable person appoints an intermediary referred to in subsection (4)(b) for the purposes of the import scheme, the taxable person cannot appoint more than one intermediary at the same time.
 
 (7) Where value-added tax is declared on distance sales of goods imported from third territories or third countries under the import scheme, the goods shall be regarded as having been supplied at the time when the payment has been accepted and the value-added tax shall become chargeable at the time of that supply.
-
-15 OJ No. L84, 31.3.2010, p. 1 16 OJ No. L268, 12.10.2010, p. 1

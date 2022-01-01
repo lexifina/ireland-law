@@ -10,6 +10,8 @@ Import scheme (where the State is Member State of identification).
 
 (3) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the ‘import scheme identification register’) of persons who are identified in the State for the purposes of the import scheme.
 
+15 OJ No. L84, 31.3.2010, p. 1 16 OJ No. L268, 12.10.2010, p. 1
+
 (4) A taxable person who does not make use of an intermediary, shall provide the following information to the Revenue Commissioners before the person commences use of the import scheme:
 
 (a) his or her name and postal address;
@@ -88,7 +90,9 @@ Import scheme (where the State is Member State of identification).
 
 (v) it may otherwise be assumed by the Revenue Commissioners that the taxable activities of distance sales of goods imported from third territories or third countries of the taxable person have ceased.
 
-(10) (a) Where it appears requisite to them to do so for the protection of the revenue, the Revenue Commissioners may, in the case where the taxable person concerned is established outside the Community and no legal instrument relating to mutual assistance similar in scope to that provided for in Council Directive 2010/24/EU of 16 March 2010 and Council Regulation (EU) 904/2010 of 7 October 2010 exists with the country in which that taxable person is established, serve on an intermediary and the taxable person by whom the intermediary is appointed a notice in writing in accordance with paragraph (c).
+(10) (a) Where it appears requisite to them to do so for the protection of the revenue, the Revenue Commissioners may, in the case where the taxable person concerned is established outside the Community and no legal instrument relating to mutual assistance similar in scope to that provided for in Council Directive 2010/24/EU of 16 March 2010 and Council Regulation (EU) 904/2010 of 7 October 2010 exists with the country in which that taxable person is established, serve on an intermediary and the taxable
+
+17 OJ No. L84, 31.3.2010, p.1 18 OJ No. L268, 12.10.2010, p. 1 person by whom the intermediary is appointed a notice in writing in accordance with paragraph (c).
 
 (b) An intermediary shall be jointly and severally liable with the taxable person by whom the intermediary is appointed for the tax due and payable on the taxable supplies of that taxable person under the import scheme and shall be liable to pay that tax as if it were tax due and payable by the intermediary.
 
@@ -105,8 +109,6 @@ Import scheme (where the State is Member State of identification).
 (i) furnish to the Revenue Commissioners a VAT return, by electronic means using such form as is made available by the Commissioners for the purposes of the import scheme and prepared in accordance with, and containing such particulars as are specified in, subsection (12), in respect of supplies under the import scheme made in the Community in that month, and
 
 (ii) remit to the Revenue Commissioners, at the same time as furnishing such VAT return, into a bank account designated by them and denominated in euro, the amount of EU value-added tax, if any, payable by that person in respect of that month in relation to—
-
-17 OJ No. L84, 31.3.2010, p.1 18 OJ No. L268, 12.10.2010, p. 1
 
 (I) distance sales of goods imported from third territories or third countries where the place of supply is the State determined in accordance with section 30, and
 

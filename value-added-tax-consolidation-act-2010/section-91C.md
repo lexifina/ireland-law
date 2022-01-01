@@ -44,6 +44,4 @@ Non-Union scheme (where the State is Member State of consumption).
 
 (ii) where that scheme participant is an accountable person other than in relation to supplies of scheme services, subject to Chapter 1 of Part 8, be entitled to deduct the tax borne or paid in the return which he or she is obliged to submit in accordance with Chapter 3 of Part 9.
 
-12 OJ No. L326, 21.11.1986, p. 40
-
 (7) Notwithstanding section 84, a scheme participant who supplies scheme services which, in accordance with section 34(kc), are supplied in the State shall be bound by the requirements of section 91B(14)(a), (b) and (d) in relation to such supplies and retain such records until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.

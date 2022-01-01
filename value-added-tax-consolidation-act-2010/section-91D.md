@@ -2,6 +2,8 @@ Union scheme (where the State is Member State of identification).
 
 91D.—(1) (a) A taxable person may opt to apply the Union scheme to his or her qualifying supplies of scheme services, intra-Community distance sales of goods and qualifying domestic supplies of goods, provided that the taxable person—
 
+12 OJ No. L326, 21.11.1986, p. 40
+
 (i) makes or intends to make qualifying supplies of scheme services, intra- Community distance sales of goods and qualifying domestic supplies of goods in the course or furtherance of business,
 
 (ii) has established his or her business in the State or, if he or she has not established his or her business in the Community, the taxable person has a fixed establishment in the State, or if he or she has not established his or her business in the Community and does not have a fixed establishment in the State, the taxable person supplies goods from the State and has indicated that he or she wishes to identify in the State for the purposes of the Scheme, and

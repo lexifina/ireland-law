@@ -20,6 +20,8 @@ Special arrangements for value-added tax on import.
 
 (4) Where the person presenting the goods to customs decides to use the special arrangements for value-added tax on import—
 
+13 OJ No. L269, 10.10.2013, p.1
+
 (a) the person for whom the goods are destined shall be liable for the payment of value-added tax, and
 
 (b) the person presenting the goods to customs shall—
@@ -40,8 +42,6 @@ Special arrangements for value-added tax on import.
 
 (b) Where the person presenting the goods to customs has not collected any value-added tax due on import through the use of the special arrangements for value-added tax on import during a month, he or she shall furnish a nil declaration to the Revenue Commissioners in respect of that month.
 
-13 OJ No. L269, 10.10.2013, p.1
-
 (7) The declaration referred to in subsection (6) shall contain the following particulars for the relevant month:
 
 (a) the total value added tax collected during that month;
@@ -57,6 +57,8 @@ Special arrangements for value-added tax on import.
 (ii) the original corresponding declaration submitted for customs purposes.
 
 (8) A person using the special arrangements for value-added tax on import shall—
+
+14 OJ No. L343, 29.12.2015, p. 1
 
 (a) keep records of all transactions covered by those arrangements and those records shall be sufficiently detailed to verify that the value-added tax paid is correct,
 
