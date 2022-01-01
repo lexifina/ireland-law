@@ -90,6 +90,10 @@ Certain transactions treated as exports.
 
 (1B) The supply of goods or services to a Member State other than the State, where those goods or services are intended for the armed forces of any state which is party to the North Atlantic Treaty, other than the Member State of destination of the goods or services, as the case may be, for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens, when such forces take part in the common defence effort of the parties to the North Atlantic Treaty.
 
+(1E) (a) The supply of goods or services to the European Commission or to an agency or body established under European Union law where the European Commission or such agency or body purchases those goods or services in the execution of tasks conferred on it by European Union law in order to respond to the Covid-19 pandemic, except where the goods and services purchased are supplied for consideration by the European Commission or an agency or body established under European Union law.
+
+(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
+
 (2) The supply of gold to the Central Bank of Ireland.
 
 Services by intermediaries.
@@ -202,34 +206,6 @@ Any of the following items not being items (a)Tea, herbal tea and preparations s
 
 Part F
 
-(1) (2) Part A
-
-Beverages chargeable with excise duty specifically charged on spirits, beer, wine, cider, perry or Irish wine, and preparations derived from any of them.
-
-Part B
-
-(a) Tea, herbal tea and preparations derived from either or both of them, when supplied in drinkable form.
-
-(b) Cocoa, coffee and chicory and other roasted coffee substitutes, and preparations and extracts derived from them, when supplied in drinkable form.
-
-Part C
-
-(a) Ice cream, ice lollipops, water ices, frozen desserts, frozen yoghurts and similar frozen products, and prepared mixes and powders for making any of those products.
-
-(b) Savoury products made from cereal or grain, or from flour or starch derived from cereal or grain, pork scratchings, and similar products when supplied for human consumption without further preparation.
-
-Part D
-
-Any of the following when supplied for human consumption without further preparation:
-
-(a) potato crisps, potato sticks, potato puffs and similar products made from potato, or from potato flour or from potato starch;
-
-(b) popcorn;
-
-(c) salted or roasted nuts, whether or not in their shells.
-
-Part E
-
 (1) (2)
 
 All kinds of chocolates, sweets and similar For the purposes of this Part “bread” means food confectionery (including glacé or crystallised for human consumption manufactured by baking fruits), biscuits, crackers and wafers, and all other dough composed exclusively of a mixture of cereal kinds of confectionery and bakery products or other flour and any one or more of the (whether cooked or uncooked), excluding bread ingredients included in column (1) of Table 2 to this within the meaning assigned to it in column (2) paragraph that do not exceed the quantities (if any) of this Part. set out for each ingredient in column (2) of that table, but does not include food packaged for sale as a unit (not being a unit designated as containing only food specifically for babies) containing 2 or more slices, segments, sections or other similar pieces, having a crust over substantially the whole of their outside surfaces, being a crust formed in the course of baking, frying or toasting.
@@ -242,7 +218,9 @@ Ingredients and Weight Limits thereof for Bread as defined in column (2) of Part
 
 Fats and sugars (including any fats and Not exceeding 12% in aggregate sugars contained in any bread improver)
 
-Dried fruit, vegetables, herbs and spices Not exceeding 10% in aggregate Yeast or other leavening or aerating agent, No limit seeds, salt, malt extract, milk, water, gluten and bread improver
+Dried fruit, vegetables, herbs and spices Not exceeding 10% in aggregate
+
+Yeast or other leavening or aerating agent, No limit seeds, salt, malt extract, milk, water, gluten and bread improver
 
 (2) In this paragraph, a reference to supplying food and drink includes—
 
@@ -302,7 +280,15 @@ Medicine, medical equipment and appliances.
 
 (ii) subject to such order as may be made under section 46(5), during the period beginning on 9 April 2020 and ending on 31 December 2021.
 
-(b) In this subparagraph, ‘Covid-19’ has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020 .
+(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020 .
+
+(5) (a) The supply, during the period from 12 December 2020 to 31 December 2022, of—
+
+(i) Covid-19 vaccines and services closely linked to those vaccines, where those vaccines have been authorised by the State or by the European Commission, and
+
+(ii) Covid-19 in vitro diagnostic medical devices and services closely linked to those devices, where those devices comply with the requirements of EU legislation (or the law of a Member State giving effect to such legislation) applicable to such devices, including Directive 98/79/EC of the European Parliament and of the Council of 27 October 199838 and Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017.
+
+(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
 
 Fertilisers, feeding stuffs, certain seeds, etc.
 
@@ -322,4 +308,4 @@ Other zero-rated goods and services.
 
 (3) The supply of sanitary towels and sanitary tampons.
 
-(4) The supply of wax candles and night-lights that are white and cylindrical, excluding candles and night-lights that are decorated, spiralled, tapered or perfumed.
+(4) ...
