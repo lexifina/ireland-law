@@ -90,6 +90,10 @@ Certain transactions treated as exports.
 
 (1B) The supply of goods or services to a Member State other than the State, where those goods or services are intended for the armed forces of any state which is party to the North Atlantic Treaty, other than the Member State of destination of the goods or services, as the case may be, for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens, when such forces take part in the common defence effort of the parties to the North Atlantic Treaty.
 
+(1C) The supply of goods or services within the State, intended either for the armed forces of a Member State other than the State for the use of those forces, or the civilian staff accompanying them, or for supplying their messes or canteens, when such forces take part in a defence effort carried out for the implementation of a European Union activity under the European Union common security and defence policy.
+
+(1D) The supply of goods or services to a Member State other than the State, intended for the armed forces of any Member State, other than the Member State of destination of the goods or services, as the case may be, for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens, when such forces take part in a defence effort carried out for the implementation of a European Union activity under the European Union common security and defence policy.
+
 (1E) (a) The supply of goods or services to the European Commission or to an agency or body established under European Union law where the European Commission or such agency or body purchases those goods or services in the execution of tasks conferred on it by European Union law in order to respond to the Covid-19 pandemic, except where the goods and services purchased are supplied for consideration by the European Commission or an agency or body established under European Union law.
 
 (b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
@@ -126,9 +130,7 @@ Services by intermediaries.
 
 (e) services of the kind referred to in paragraph 5(2) (Supply of gold to the Central Bank of Ireland).
 
-(3) Services that are treated as intermediary services under the travel agent’s margin scheme in accordance with section 88(8).
-
-International trade, etc.
+(3) Services that are treated as intermediary services under the travel agent’s margin scheme in accordance with section 88(8). International trade, etc.
 
 7. (1) The supply of goods by a registered person within a free port to another registered person within a free port.
 
