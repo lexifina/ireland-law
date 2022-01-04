@@ -1,0 +1,3 @@
+An Act to make further provision in relation to housing provided by housing authorities and for that purpose to amend and extend the Housing Acts 1966 to 2014, to provide for financial assistance by housing authorities in respect of rent payable by certain housing tenants, to provide for the direct remission to a housing authority in respect of rent or rent-related obligations of certain social welfare payments and allowances payable to a person under the Social Welfare Acts and for that purpose to amend the law relating to such payments, to amend the Housing Finance Agency Act 1981, and to provide for connected matters. [28 th July, 2014]
+
+Be it enacted by the Oireachtas as follows:
