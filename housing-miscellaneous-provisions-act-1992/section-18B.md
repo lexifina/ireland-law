@@ -1,4 +1,4 @@
-F27[Prohibition notice.
+F39[Prohibition notice.
 
 18B.—(1) Where a landlord fails to comply with an improvement notice in accordance with section 18A, the housing authority may give notice in writing (in this Act referred to as a “prohibition notice”) to the landlord of the house concerned.
 
