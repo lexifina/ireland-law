@@ -1,0 +1,3 @@
+Regulations for giving further effect to certain matters relating to requirement to quarantine.
+
+38S. ...
