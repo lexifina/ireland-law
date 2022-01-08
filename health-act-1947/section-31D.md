@@ -1,4 +1,4 @@
-F54[Power of member of Garda Síochána to give direction
+F56[Power of member of Garda Síochána to give direction
 
 31D. (1) Without prejudice to the generality of subsection (7) of section 31A, where a member of the Garda Síochána finds a person in a public place and suspects, with reasonable cause, that such person—
 

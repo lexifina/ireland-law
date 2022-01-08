@@ -1,4 +1,4 @@
-F49[Appeal against order
+F51[Appeal against order
 
 31AK. (1) An appeal to the Circuit Court against a cessation order shall not have the effect of suspending the operation of the order unless the Circuit Court, on application made to it by the appellant, suspends the operation of the order pending the determination of the appeal.
 

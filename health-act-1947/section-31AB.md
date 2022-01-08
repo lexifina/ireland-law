@@ -1,4 +1,4 @@
-F40[Disapplication of certain provisions in respect of certain premises so as to enable those premises to grant access to members of the public under certain conditions
+F42[Disapplication of certain provisions in respect of certain premises so as to enable those premises to grant access to members of the public under certain conditions
 
 31AB. (1) Without prejudice to the generality of section 31A, and any regulations made from time to time thereunder requiring an indoor operator to ensure that persons (or such class of persons as may be prescribed in such regulations) are not permitted, or otherwise granted, access to a relevant indoor premises, it shall be lawful, subject to subsection (2), for an indoor operator to permit or otherwise grant access to such premises provided that the indoor operator—
 

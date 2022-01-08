@@ -1,4 +1,4 @@
-F59[Detention and isolation of persons in certain circumstances
+F61[Detention and isolation of persons in certain circumstances
 
 38A. (1) Where, having regard to the matters specified in subsection (2), a medical officer of health believes in good faith that—
 

@@ -1,4 +1,4 @@
-F45[Compliance notice
+F47[Compliance notice
 
 31AG. (1) A compliance officer may, where an indoor operator fails or refuses to comply with a direction given in respect of a relevant premises under section 31AE(2), but no emergency cessation order was made in respect of such failure or refusal, issue a notice (in this Act referred to as a ‘compliance notice’) in writing to the indoor operator setting out the matters specified in subsection (3).
 

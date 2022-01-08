@@ -1,4 +1,4 @@
-F6[Liability for offences by bodies corporate
+F8[Liability for offences by bodies corporate
 
 9A. (1) Where an offence under this Act is committed by a body corporate and it is proved that the offence was committed with the consent or connivance, or was attributable to any wilful neglect, of a person who was a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, that person shall, as well as the body corporate, be guilty of an offence and may be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
 

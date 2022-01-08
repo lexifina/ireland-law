@@ -1,4 +1,4 @@
-F47[Applicable provisions in relation to certain orders
+F49[Applicable provisions in relation to certain orders
 
 31AI. (1) While access to a relevant indoor premises or any part thereof is restricted in accordance with a cessation order or an emergency cessation order, the indoor operator concerned shall affix to the exterior of the premises, in a conspicuous place, a notice specifying the period of such restriction, whether the order applies to the whole or a part of the premises and stating that the restriction is in compliance with the order concerned.
 

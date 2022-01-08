@@ -1,4 +1,4 @@
-F8[Service of documents
+F10[Service of documents
 
 9C. (1) Subject to subsection (2) and other than in relation to Part VIII, a notice or other document that is required to be served on or given to a person by this Act shall be addressed to the person by name and may be so served on or given to the person in one of the following ways:
 
