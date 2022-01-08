@@ -8,8 +8,8 @@ Data Protection.
 
 (4) In this section—
 
-‘General Data Protection Regulation’ has the meaning it has in section 38K;
+"General Data Protection Regulation" has the meaning it has in section 38K;
 
-‘personal data’ has the meaning it has in section 38K;
+"personal data" has the meaning it has in section 38K;
 
-‘processing’ has the meaning it has in section 38K.
+"processing" has the meaning it has in section 38K.
