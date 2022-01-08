@@ -6,39 +6,39 @@ Definitions.
 
 (b) the statement of any properties of such thing on a label, container or wrapper used for such thing or in a leaflet, circular, pamphlet or brochure issued to the public or on request or given to a purchaser of such thing, and cognate words shall be construed accordingly; the word “aircraft” has the same meaning as it has in the Air Navigation and Transport Act, 1936 (No. 40 of 1936);
 
-‘applicable traveller’ has the meaning assigned to it by section 38B(1);
+...
 
-‘approved person’ has the meaning assigned to it by section 38H(1);
+...
 
-‘approved services provider’ has the meaning assigned to it by section 38I(1);
+...
 
-‘cessation order’ has the meaning assigned to it in section 31AH; the expression “chief medical officer” means a county medical officer for a county or a city medical officer for a county borough; the word “child” means a person who is less than sixteen years of age; the expression “coastal waters” means waters within a distance of three nautical miles from any point on the coast measured from low-water mark of ordinary spring tides;
+"cessation order" has the meaning assigned to it in section 31AH; the expression “chief medical officer” means a county medical officer for a county or a city medical officer for a county borough; the word “child” means a person who is less than sixteen years of age; the expression “coastal waters” means waters within a distance of three nautical miles from any point on the coast measured from low-water mark of ordinary spring tides;
 
-‘compliance notice’ has the meaning assigned to it by section 31AG;
+"compliance notice" has the meaning assigned to it by section 31AG;
 
-‘compliance officer’ means a person designated as a compliance officer under section 31AD;
+"compliance officer" means a person designated as a compliance officer under section 31AD;
 
-‘Covid-19’ has the meaning it has in section 31A;
+"Covid-19" has the meaning it has in section 31A;
 
-‘designated facility’ has the meaning assigned to it by section 38F(1);
+...
 
-‘designated state’ has the meaning assigned to it by section 38E(1);
+...
 
-‘Digital Covid Certificate Regulation’ means Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic; the word “disinfestations” means the cleansing and protection of any person or thing from vermin; the expression “district medical officer” means a medical officer of health under section 73 of this Act; the word “dwelling” includes—
+"Digital Covid Certificate Regulation" means Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic; the word “disinfestations” means the cleansing and protection of any person or thing from vermin; the expression “district medical officer” means a medical officer of health under section 73 of this Act; the word “dwelling” includes—
 
 (a) a part of a house, and
 
 (b) a temporary dwelling;
 
-‘dwelling event provision’ shall be construed in accordance with subsection (6D) of section 31A;
+"dwelling event provision" shall be construed in accordance with subsection (6D) of section 31A;
 
-‘emergency cessation order’ has the meaning assigned to it by section 31AF; the word “enactment” includes any order or regulation made under an Act;
+"emergency cessation order" has the meaning assigned to it by section 31AF; the word “enactment” includes any order or regulation made under an Act;
 
-‘EU Digital Covid Certificate’ has the meaning it has in the Digital Covid Certificate Regulation;
+"EU Digital Covid Certificate" has the meaning it has in the Digital Covid Certificate Regulation;
 
-‘fixed penalty provision’ shall be construed in accordance with subsection (6C) of section 31A; the expression “health authority” means a council of a county or a corporation of a county borough; the expression “health institution” means an institution maintained by a health authority pursuant to section 10 of this Act;
+"fixed penalty provision" shall be construed in accordance with subsection (6C) of section 31A; the expression “health authority” means a council of a county or a corporation of a county borough; the expression “health institution” means an institution maintained by a health authority pursuant to section 10 of this Act;
 
-‘indoor operator’ means—
+"indoor operator" means—
 
 (a) in relation to a relevant indoor premises subject to a licence for the sale by retail of intoxicating liquor for consumption on or off the premises (whether granted on production or without production of a certificate of the Circuit Court or District Court), the holder of such a licence,
 
@@ -64,11 +64,11 @@ Definitions.
 
 (b) as respects a health authority which is the council of a county or a health authority established by the Health Authorities Act, 1960—the manager for the purposes of the County Management Acts, 1940 to 1955; the expression “medical officer of health” means a chief medical officer, an assistant county medical officer for a county, an assistant city medical officer for a county borough or any other medical officer who is an assistant to a chief medical officer or a district medical officer; the expression “the Minister” means the Minister for Health;
 
-‘non-designated state’ has the meaning assigned to it by section 38B(1); the word “parent” means, in relation to a child, the person having the legal custody of the child and, where owing to the absence of such person or for any other reason the child is not living with or is not in the actual custody of such person, includes the person with whom the child is living or in whose actual custody the child is;
+... the word “parent” means, in relation to a child, the person having the legal custody of the child and, where owing to the absence of such person or for any other reason the child is not living with or is not in the actual custody of such person, includes the person with whom the child is living or in whose actual custody the child is;
 
-‘penal provision’ means a provision that is stated in regulations under section 31A to be a penal provision for the purposes of this Act;
+"penal provision" means a provision that is stated in regulations under section 31A to be a penal provision for the purposes of this Act;
 
-‘permitted person’ means—
+"permitted person" means—
 
 (a) a person in possession of a proof of immunity relating to that person,
 
@@ -82,7 +82,7 @@ Definitions.
 
 (d) a person that stands, or a member of a class of persons that stand, prescribed by the Minister in regulations made under section 31AB(4); the word “prescribed” means prescribed by regulations made by the Minister under this Act;
 
-‘proof of immunity’ means—
+"proof of immunity" means—
 
 (a) an EU Digital Covid Certificate—
 
@@ -94,17 +94,17 @@ Definitions.
 
 (b) a document as may be prescribed, in written or electronic form, issued by a body implementing a vaccination programme (howsoever described) on behalf of a state (including the State) that administered or caused to be administered the vaccination to the person concerned, verifying, in relation to the person to whom the document is issued, that the person has received such vaccination, or combination of vaccinations, as may be prescribed, including—
 
-(i) the medicinal product for active immunisation to prevent Covid-19 known as ‘COVID-19 Vaccine Moderna CX-024414’,
+(i) the medicinal product for active immunisation to prevent Covid-19 known as "COVID-19 Vaccine Moderna CX-024414",
 
-(ii) the medicinal product for active immunisation to prevent Covid-19 known as ‘Vaxzevria (previously COVID-19 Vaccine AstraZeneca) ChAdOx1-SARS- COV-2’ also known as ‘Covishield’,
+(ii) the medicinal product for active immunisation to prevent Covid-19 known as "Vaxzevria (previously COVID-19 Vaccine AstraZeneca) ChAdOx1-SARS- COV-2" also known as "Covishield",
 
-(iii) the medicinal product for active immunisation to prevent Covid-19 known as ‘Comirnaty BNT162b2’, and
+(iii) the medicinal product for active immunisation to prevent Covid-19 known as "Comirnaty BNT162b2", and
 
-(iv) the medicinal product for active immunisation to prevent Covid-19 known as ‘COVID-19 Vaccine Janssen (Ad26. COV2-S [recombinant])’, or
+(iv) the medicinal product for active immunisation to prevent Covid-19 known as "COVID-19 Vaccine Janssen (Ad26. COV2-S [recombinant])", or
 
 (c) any form of written information or proof verifying, in such manner as may be prescribed, in relation to the person to whom the document is issued, that the person has recovered from Covid-19; the expression “public conveyance” includes a conveyance available for private hire;
 
-‘relevant body’ means—
+"relevant body" means—
 
 (a) the Health Service Executive,
 
@@ -112,7 +112,7 @@ Definitions.
 
 (c) such other body as may be prescribed;
 
-‘relevant indoor premises’ means an indoor premises (or, where a premises is partly indoors and partly outdoors, the indoor part of such premises), other than a premises prescribed in regulations under section 31AB(4)(e)(ii) as being a premises to which this definition does not apply—
+"relevant indoor premises" means an indoor premises (or, where a premises is partly indoors and partly outdoors, the indoor part of such premises), other than a premises prescribed in regulations under section 31AB(4)(e)(ii) as being a premises to which this definition does not apply—
 
 (a) on or at which food or non-alcoholic beverages may be lawfully sold or supplied for consumption on such premises,
 
@@ -120,7 +120,7 @@ Definitions.
 
 (c) such other indoor premises, or class of indoor premises, that stands prescribed by the Minister in regulations under section 31AB(4);
 
-‘responsible person’ has the meaning assigned to it by section 38I(4). the expression “sanitary authority” has the same meaning as in the Public Health Acts, 1878 to 1931; the expression “the school manager” means in relation to a school or college, the person for the time being managing the school or college; the expression “temporary dwelling” means any—
+... the expression “sanitary authority” has the same meaning as in the Public Health Acts, 1878 to 1931; the expression “the school manager” means in relation to a school or college, the person for the time being managing the school or college; the expression “temporary dwelling” means any—
 
 (a) tent, or
 
