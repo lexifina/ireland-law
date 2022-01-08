@@ -1,4 +1,4 @@
-F50[Data Protection
+F52[Data Protection
 
 31AL. (1) Personal data contained in a proof of immunity shall be processed only for the purpose of accessing and verifying the information included in such proof of immunity in connection with the admittance of permitted persons to relevant indoor premises.
 
@@ -8,8 +8,8 @@ F50[Data Protection
 
 (4) In this section—
 
-‘General Data Protection Regulation’ has the meaning it has in section 38K;
+"General Data Protection Regulation" has the meaning it has in section 38K;
 
-‘personal data’ has the meaning it has in section 38K;
+"personal data" has the meaning it has in section 38K;
 
-‘processing’ has the meaning it has in section 38K.
+"processing" has the meaning it has in section 38K.
