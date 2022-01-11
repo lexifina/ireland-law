@@ -12,9 +12,9 @@ Power to enter into agreements with relevant persons or bodies outside the State
 
 (3) In this section—
 
-‘General Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC;
+"General Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC;
 
-‘relevant person or body’ means a person or body outside the State in whom or in which functions are vested under the law of a place other than the State that are equivalent, or similar, to the functions of—
+"relevant person or body" means a person or body outside the State in whom or in which functions are vested under the law of a place other than the State that are equivalent, or similar, to the functions of—
 
 (a) the Ombudsman Commission under this or any other enactment,
 

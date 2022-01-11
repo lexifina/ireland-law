@@ -1,3 +1,3 @@
-Reports to Minister. (repealed)
+Reports to Minister. (Repealed)
 
 33G.— ...

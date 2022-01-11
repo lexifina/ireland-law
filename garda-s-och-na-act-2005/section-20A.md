@@ -4,7 +4,7 @@ Setting of priorities by Minister for security services.
 
 (a) determine, and from time to time revise, priorities for the Garda Síochána in performing its functions relating to security services, and
 
-(b) establish, and from time to time revise, levels of performance (‘performance targets’) to be aimed at in seeking to achieve the objective of each priority referred to in paragraph (a).
+(b) establish, and from time to time revise, levels of performance ("performance targets") to be aimed at in seeking to achieve the objective of each priority referred to in paragraph (a).
 
 (2) The Minister shall—
 

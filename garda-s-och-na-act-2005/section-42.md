@@ -46,6 +46,6 @@ Special inquiries relating to administration, practice or procedure of Garda Sí
 
 (13) In this section—
 
-‘appointed person’ means a person appointed under this section to conduct an inquiry;
+"appointed person" means a person appointed under this section to conduct an inquiry;
 
-‘criminal proceedings’ does not include disciplinary proceedings.
+"criminal proceedings" does not include disciplinary proceedings.

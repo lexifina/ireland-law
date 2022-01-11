@@ -1,6 +1,6 @@
 Policing principles.
 
-3B. In this Act ‘policing principles’ means—
+3B. In this Act "policing principles" means—
 
 (a) the principle that policing services are to be provided—
 

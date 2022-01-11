@@ -1,3 +1,3 @@
-Saving. (repealed)
+Saving. (Repealed)
 
 33H.— ...

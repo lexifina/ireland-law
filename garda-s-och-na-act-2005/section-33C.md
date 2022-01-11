@@ -1,3 +1,3 @@
-Establishment of Garda Síochána Executive Management Board. (repealed)
+Establishment of Garda Síochána Executive Management Board. (Repealed)
 
 33C.— ...

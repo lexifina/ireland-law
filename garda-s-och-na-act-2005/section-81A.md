@@ -12,9 +12,9 @@ Power of Ombudsman Commission to enter into agreements with law enforcement agen
 
 (3) In this section—
 
-‘General Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC;
+"General Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC;
 
-‘relevant person or body’ means—
+"relevant person or body" means—
 
 (a) a police service or other law enforcement agency outside the State, or
 

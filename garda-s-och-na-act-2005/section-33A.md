@@ -1,3 +1,3 @@
-Establishment day. (repealed)
+Establishment day.(Repealed)
 
 33A.— ...

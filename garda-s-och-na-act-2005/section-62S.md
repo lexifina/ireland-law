@@ -18,7 +18,7 @@ Accountability of Authority to other Oireachtas Committees.
 
 (9) In carrying out duties under this section, the Chief Executive shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
 
-(10) In this section ‘committee’ means—
+(10) In this section "committee" means—
 
 (a) a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee of Public Accounts, the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann), or
 

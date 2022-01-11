@@ -6,7 +6,7 @@ Setting of priorities by Minister.
 
 (a) determine, and from time to time revise, priorities for the Garda Síochána in performing its functions relating to policing services, and
 
-(b) establish, and from time to time revise, levels of performance (‘performance targets’) to be aimed at in seeking to achieve the objective of each priority referred to in paragraph (a).
+(b) establish, and from time to time revise, levels of performance ("performance targets") to be aimed at in seeking to achieve the objective of each priority referred to in paragraph (a).
 
 (2) The Authority shall consult with the Garda Commissioner before determining or revising priorities or establishing or revising performance targets under this section.
 

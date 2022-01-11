@@ -1,6 +1,6 @@
 Security services.
 
-3A. (1) In this Act ‘security services’, subject to subsection (2), means the functions of the Garda Síochána referred to in section 7 that are concerned with—
+3A. (1) In this Act "security services", subject to subsection (2), means the functions of the Garda Síochána referred to in section 7 that are concerned with—
 
 (a) protecting the security of the State including, but not limited to, the following:
 
