@@ -14,7 +14,7 @@ Interpretation.
 
 “creditor”, in relation to a debt, means a natural or legal person to whom a debtor owes that debt or to whom the debtor otherwise has a liability in respect of that debt;
 
-‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+"Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 “debtor”, in relation to a debt, means a natural person who—
 
@@ -78,7 +78,7 @@ Interpretation.
 
 “Official Assignee” has the same meaning as it has in the Bankruptcy Act 1988;
 
-‘personal data’ means personal data within the meaning of—
+"personal data" means personal data within the meaning of—
 
 (a) the Data Protection Regulation, or
 
