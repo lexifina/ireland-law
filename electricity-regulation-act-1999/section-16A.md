@@ -1,6 +1,6 @@
 Construction of an interconnector.
 
-16A.— The Commission may, with the consent of the Minister, secure the construction of an interconnector or interconnectors by one or more of the following means:
+16A.— The Commission may, with the consent of the Minister , who shall take into account the electricity interconnection targets set out in point (1) of Article 4(d) of Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action , secure the construction of an interconnector or interconnectors by one or more of the following means:
 
 (a) a competitive tender;
 

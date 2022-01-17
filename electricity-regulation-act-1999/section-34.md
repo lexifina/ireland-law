@@ -42,7 +42,17 @@ Terms for connection to and use of transmission or distribution system.
 
 (c) the person making the application does not undertake to be bound by the terms of the grid code or distribution code in so far as those terms are applicable to that person.
 
-(5) Where the Board refuses to offer to enter into an agreement under this section the Board shall serve notice on the applicant of the reasons for such refusal.
+(5) (a) Where the Board refuses to offer to enter into an agreement under this section, it shall serve notice on the applicant of the reasons for such refusal, having regard to Article 9 of the 2019 Internal Electricity Market Directive.
+
+(b) The reasons referred to in subparagraph (a) shall be based on objective and technically and economically justified criteria.
+
+(c) The Commission shall ensure that the criteria referred to in subparagraph (b) are consistently applied.
+
+(5A) (a) The transmission system operator or the distribution system operator, as the case may be, shall, where refusal of access takes place, provide relevant information to the applicant on measures that would be necessary to reinforce the network.
+
+(b) The information specified in subparagraph (a) shall be provided in all cases when access for recharging points has been denied.
+
+(c) The party requesting such information may be charged by the transmission system operator a fee reflective of the administrative cost of providing the information referred to in paragraph (a) and any such fee shall be displayed by the transmission system operator on its website.
 
 (6)(a) Any dispute between the transmission system operator or the distribution system operator and any person who is, or claims to be, a person to whom the transmission system operator or the distribution system operator, as the case may be, is obliged –
 
@@ -63,3 +73,5 @@ Terms for connection to and use of transmission or distribution system.
 (7) In order to secure compliance with a determination made under this section the Commission may apply in a summary manner on notice to the High Court for an order requiring the Board to comply with the determination of the Commission made under this section.
 
 (8) Where providing for use of the transmission or distribution system or where offering terms for the carrying out of works for the purpose of connection to the transmission or distribution system of the Board, the Board shall not discriminate unfairly as between any persons or classes of persons.
+
+(9) The provisions of this section shall also apply to citizen energy communities that manage distribution networks.

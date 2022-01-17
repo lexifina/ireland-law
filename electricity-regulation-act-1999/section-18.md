@@ -22,7 +22,7 @@ Orders
 
 (i) public service obligations provided for in an order under under section 39, and
 
-(j) the contribution of the generating capacity to assisting in ensuring that the renewable share in the year 2020 is at least the national overall target of 16 per cent as provided for in paragraph A of Annex 1 to Directive 2009/28/EC of the European Parliament and of the Council of 23 April 2009, and
+(j) the contribution of generating capacity to meeting the overall European Union target of at least a 32% share of energy from renewable sources in the Union’s gross final consumption of energy in 2030 referred to in Article 3(1) of Directive (EU) 2018/2001 of the European Parliament and of the Council , and
 
 (k) the contribution of generating capacity to reducing emissions.
 

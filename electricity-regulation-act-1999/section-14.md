@@ -2,7 +2,7 @@
 
 Licences to generate and supply electricity.
 
-14.—(1) The Commission may grant or refuse to grant to any person a licence—
+14.—(1) The Commission may grant or refuse to grant to any person who is an electricity undertaking or who intends to carry out a function of an electricity undertaking a licence—
 
 (a) to generate electricity,
 
@@ -24,7 +24,13 @@ Licences to generate and supply electricity.
 
 (j) to act as the Single Electricity Market operator,
 
-(k) to discharge the functions of Distribution System Owner. and where the Commission grants such a licence, that licence shall be subject to such terms and conditions as may be specified in the licence.
+(k) to discharge the functions of Distribution System Owner,
+
+(l) to carry out the function of aggregation,
+
+(m) to carry out the function of demand response, and
+
+(n) to carry out the function of energy storage, and where the Commission grants such a licence, that licence shall be subject to such terms and conditions as may be specified in the licence.
 
 (1A) The Commission may by order provide that a person generating electricity by means of a specified class or classes of generating station shall stand licensed to generate electricity subject to such terms and conditions as may be specified in such order.
 
