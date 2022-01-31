@@ -10,7 +10,7 @@ Refusal to make freezing co-operation order.
 
 (d) it is immediately clear from the information provided in a certificate that compliance with a request for the transfer of evidence or confiscation of property in relation to the offence in respect of which the external freezing order has been made would infringe the ne bis in idem principle, or
 
-(e) in the case of an external freezing order from a designated state (other than a member state), there is not a reasonable basis for believing—
+(e) in the case of an external freezing order from a designated state (other than a member state or the United Kingdom), there is not a reasonable basis for believing—
 
 (i) that there are sufficient grounds for making the order, or
 
