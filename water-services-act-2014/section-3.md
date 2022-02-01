@@ -2,7 +2,7 @@ Water charges - dwellings
 
 3. (1) Notwithstanding section 21(1) of the No. 2 Act of 2013 and subject to subsection (1A), Irish Water shall not charge, before 1 January 2015, for water services provided by it to a dwelling.
 
-(1A) (a) Notwithstanding section 21(1) of the No. 2 Act of 2013, Irish Water shall not charge for water services provided to a dwelling in respect of the period (in this subsection referred to as the ‘first-mentioned period’) commencing on 1 July 2016 and ending on 31 March 2017.
+(1A) (a) Notwithstanding section 21(1) of the No. 2 Act of 2013, Irish Water shall not charge for water services provided to a dwelling in respect of the period (in this subsection referred to as the "first-mentioned period") commencing on 1 July 2016 and ending on 31 March 2017.
 
 (b) Where the Minister is informed by the committee that it will not complete its work on or before 31 March 2017 or is otherwise satisfied that the committee will not complete its work on or before that date, he or she may, on or before that date, make an order extending the first-mentioned period for such further period, commencing on the day immediately following the expiration of the first-mentioned period, as does not exceed the period that he or she believes the committee will require to complete its work and is specified in the order.
 
@@ -26,11 +26,11 @@ Water charges - dwellings
 
 (f) In this subsection—
 
-‘charge for water services’ does not include a charge to which paragraph (b) of subsection (16) relates;
+"charge for water services" does not include a charge to which paragraph (b) of subsection (16) relates;
 
-‘committee’ means a committee established before, on or after the passing of the Water Services (Amendment) Act 2016 by either House of the Oireachtas or by both Houses of the Oireachtas to examine, and make recommendations in relation to, the matter of funding of water services provided to dwellings;
+"committee" means a committee established before, on or after the passing of the Water Services (Amendment) Act 2016 by either House of the Oireachtas or by both Houses of the Oireachtas to examine, and make recommendations in relation to, the matter of funding of water services provided to dwellings;
 
-‘first-mentioned period’ has the meaning assigned to it by paragraph (a).
+"first-mentioned period" has the meaning assigned to it by paragraph (a).
 
 (2) Subsection (1) does not apply to non-domestic water supply and waste water charges made under the approved water charges plan in respect of the period from 1 October 2014 until 31 December 2014.
 

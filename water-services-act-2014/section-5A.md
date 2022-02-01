@@ -1,6 +1,6 @@
 Water conservation grant - database
 
-5A. (1) The Minister may, for the purposes of paying a grant under section 5 in respect of any year after 2015, arrange for the establishment and maintenance of a database of water services provided to dwellings (in this section referred to as ‘the database’).
+5A. (1) The Minister may, for the purposes of paying a grant under section 5 in respect of any year after 2015, arrange for the establishment and maintenance of a database of water services provided to dwellings (in this section referred to as "the database").
 
 (2) The database shall include the following information in respect of each dwelling:
 
@@ -30,7 +30,7 @@ Water conservation grant - database
 
 (4) The Minister may, in any year after 2015, by order prescribe a date to be the reckonable date for that year, for the purposes of subsection (3).
 
-(5) The Minister may request Irish Water or the Local Government Management Agency (in this section referred to as ‘the Agency’) to establish and maintain the database on behalf of the Minister.
+(5) The Minister may request Irish Water or the Local Government Management Agency (in this section referred to as "the Agency") to establish and maintain the database on behalf of the Minister.
 
 (6) For the purpose of the performance of the Minister’s functions under this section and section 5—
 
