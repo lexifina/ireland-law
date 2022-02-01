@@ -48,7 +48,9 @@ Consequential disqualification orders.
 
 (i) the concentration of alcohol in the blood, urine or breath, as the case may be, of the person concerned in relation to which that person was convicted of the offence concerned, and
 
-(ii) the concentrations of alcohol in blood, urine or breath, as may be appropriate, specified in column (2) of the Table to this subsection. TABLE
+(ii) the concentrations of alcohol in blood, urine or breath, as may be appropriate, specified in column (2) of the Table to this subsection.
+
+TABLE
 
 Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
 
@@ -62,11 +64,11 @@ Reference Concentration of alcohol First offence Second or any subsequent Number
 
 2. (a) Exceeding 80
 
+1 year 2 years Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
+
 (b)
 
-1 year 2 years
-
-(c) Exceeding 35 Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
+(c) Exceeding 35
 
 3. (a)
 
@@ -74,13 +76,15 @@ Reference Concentration of alcohol First offence Second or any subsequent Number
 
 2 years 4 years
 
-(c) Exceeding 44
+(c) Exceeding 44 Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
 
 4. (a)
 
-(b) 3 years 6 years
+(b)
 
-(c) Exceeding 66 Reference Concentration of alcohol First offence Second or any subsequent Number under the offence under the same section section concerned (1) (2) (3) (4)
+3 years 6 years
+
+(c) Exceeding 66
 
 (5) (a) Subject to paragraph (b), the period of disqualification specified in a consequential disqualification order shall, where the person to whom the order relates is convicted of an offence under section 52 or 53 tried summarily or under section 56, be not less than 2 years in the case of a first offence under the section concerned and not less than 4 years in the case of a second or any subsequent offence under the same section committed within the period of 3 years from the date of the commission of the previous offence or, in the case of more than one such offence, the last such offence.
 
