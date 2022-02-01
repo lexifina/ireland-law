@@ -214,7 +214,9 @@ Temporal application
 
 Article 13
 
-Non-derogation Subject to Article 4(5) and Article 9(2)(b), this Agreement is without prejudice to the invocation by the requested State of grounds for refusal of assistance available pursuant to a bilateral mutual legal assistance treaty, or, in the absence of a treaty, its applicable legal principles, including where execution of the request would prejudice its sovereignty, security, order public or other essential interests.
+Non-derogation
+
+Subject to Article 4(5) and Article 9(2)(b), this Agreement is without prejudice to the invocation by the requested State of grounds for refusal of assistance available pursuant to a bilateral mutual legal assistance treaty, or, in the absence of a treaty, its applicable legal principles, including where execution of the request would prejudice its sovereignty, security, order public or other essential interests.
 
 Article 14
 
@@ -250,7 +252,9 @@ Territorial application
 
 Article 17
 
-Review The Contracting Parties agree to carry out a common review of this Agreement no later than five years after its entry into force. The review shall address in particular the practical implementation of the Agreement and may also include issues such as the consequences of further development of the European Union relating to the subject matter of this Agreement.
+Review
+
+The Contracting Parties agree to carry out a common review of this Agreement no later than five years after its entry into force. The review shall address in particular the practical implementation of the Agreement and may also include issues such as the consequences of further development of the European Union relating to the subject matter of this Agreement.
 
 Article 18
 
@@ -274,7 +278,9 @@ With respect to the mutual legal assistance to administrative authorities under 
 
 The Contracting Parties agree that under the first sentence of Article 8(1) mutual legal assistance will be made available to a requesting administrative authority that is, at the time of making the request, conducting investigations or proceedings in contemplation of criminal prosecution or referral of the investigated conduct to the competent prosecuting authorities, within the terms of its statutory mandate, as further described immediately below. The fact that, at the time of making the request referral for criminal prosecution is being contemplated does not exclude that, other sanctions than criminal ones may be pursued by that authority. Thus, mutual legal assistance obtained under Article 8(1) may lead the requesting administrative authority to the conclusion that pursuance of criminal proceedings or criminal referral would not be appropriate. These possible consequences do not affect the obligation upon the Contracting Parties to provide assistance under this Article.
 
-However, the requesting administrative authority may not use Article 8(1) to request assistance where criminal prosecution or referral is not being contemplated, or for matters in which the conduct under investigation is not subject to criminal sanction or referral under the laws of the requesting State. The European Union recalls that the subject matter of the Agreement for its part falls under the provisions on police and judicial cooperation in criminal matters set out in Title VI of the Treaty on European Union and that the Agreement has been concluded within the scope of these provisions.
+However, the requesting administrative authority may not use Article 8(1) to request assistance where criminal prosecution or referral is not being contemplated, or for matters in which the conduct under investigation is not subject to criminal sanction or referral under the laws of the requesting State.
+
+The European Union recalls that the subject matter of the Agreement for its part falls under the provisions on police and judicial cooperation in criminal matters set out in Title VI of the Treaty on European Union and that the Agreement has been concluded within the scope of these provisions.
 
 On Article 9
 

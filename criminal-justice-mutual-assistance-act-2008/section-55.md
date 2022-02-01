@@ -4,6 +4,6 @@ Payments under confiscation co-operation orders to be expressed in euro.
 
 (2) For the purposes of subsection (1), a certificate—
 
-(a) purporting to be signed by an officer of a financial institution (within the meaning of Part 2) in the State, and
+(a) purporting to be signed by an officer of a financial institution (within the meaning of Part 2 ) in the State, and
 
 (b) stating the baseline rate of exchange prevailing on a specified date between a specified currency and the euro, is admissible, without further proof, as evidence of the exchange rate so prevailing on that date.

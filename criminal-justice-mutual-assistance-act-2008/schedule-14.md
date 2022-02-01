@@ -26,7 +26,9 @@ Instrument as contemplated by Article 3(2) of the Agreement on Mutual Legal Assi
 
 5. (a) This Instrument shall be subject to the completion by the United States of America and Ireland of their respective applicable internal procedures for entry into force. The Governments of the United States of America and Ireland shall thereupon exchange instruments indicating that such measures have been completed. This Instrument shall enter into force on the date of entry into force of the U.S.-EU Mutual Legal Assistance Agreement.
 
-(b) In the event of termination of the U.S.-EU Mutual Legal Assistance Agreement, this Instrument shall be terminated and the 2001 Mutual Legal Assistance Treaty shall be applied. The Governments of the United States of America and Ireland nevertheless may agree to continue to apply some or all of the provisions of this Instrument. IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Instrument.
+(b) In the event of termination of the U.S.-EU Mutual Legal Assistance Agreement, this Instrument shall be terminated and the 2001 Mutual Legal Assistance Treaty shall be applied. The Governments of the United States of America and Ireland nevertheless may agree to continue to apply some or all of the provisions of this Instrument.
+
+IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Instrument.
 
 DONE at Dublin, in duplicate, this 14th day of July, 2005.
 
@@ -56,9 +58,7 @@ Article 5 Execution of Requests
 
 Article 6 Costs
 
-Article 7 Limitations on Use
-
-Article 8 Testimony or Evidence in the Territory of the Requested Party
+Article 7 Limitations on Use Article 8 Testimony or Evidence in the Territory of the Requested Party
 
 Article 9 Records of Government Agencies
 
@@ -344,7 +344,9 @@ Return of Items
 
 The Central Authority of the Requesting Party shall return any items, including documents, records, or articles of evidence furnished to it in execution of a request under this Treaty as soon as possible unless the Central Authority of the Requested Party waives their return.
 
-Article 16 Assistance in Forfeiture Proceedings
+Article 16
+
+Assistance in Forfeiture Proceedings
 
 1. If the Central Authority of one Party becomes aware of proceeds or instrumentalities of offences which are located in the territory of the other Party and may be forfeitable or otherwise subject to seizure under the laws of that Party, it may so inform the Central Authority of the other Party. If that other Party has jurisdiction in this regard, it may present this information to its authorities for a determination whether any action is appropriate. These authorities shall issue their decision in accordance with the laws of their country, and the Central Authority shall report to the Central Authority of the other Party on the action taken.
 
@@ -406,7 +408,9 @@ Joint investigative teams
 
 4. Where the joint investigative team needs investigative measures to be taken in one of the States setting up the team, a member of the team of that State may request its own competent authorities to take those measures without the other States having to submit a request for mutual legal assistance. The required legal standard for obtaining the measure in that State shall be the standard applicable to its domestic investigative activities.
 
-Article 16 quater: Video conferencing
+Article 16 quater:
+
+Video conferencing
 
 1. The use of video transmission technology shall be available between the United States of America and Ireland for taking testimony in a proceeding for which mutual legal assistance is available of a witness or expert located in the Requested Party. To the extent not specifically set forth in this Article, the modalities governing such procedure shall be as otherwise provided under this Treaty.
 
@@ -442,7 +446,9 @@ FORM A1
 
 (for use when Ireland is the Requesting Party, pursuant to Article 8)
 
-CERTIFICATE OF AUTHENTICITY OF BUSINESS RECORDS I, ______________________________ , attest on penalty of criminal punishment
+CERTIFICATE OF AUTHENTICITY OF BUSINESS RECORDS
+
+I, ______________________________ , attest on penalty of criminal punishment
 
 (Name) for false statement or false attestation that I am employed by
 
@@ -484,7 +490,9 @@ I declare that I am employed by/associated with the
 
 ______________________________ in the position of ______________________________
 
-(Name of Business from which documents are sought) (Official Title) and by reason of my position am authorised and qualified to make this declaration. I further declare that the documents attached hereto are originals or true copies of records in the custody of ______________________________
+(Name of Business from which documents are sought) (Official Title) and by reason of my position am authorised and qualified to make this declaration.
+
+I further declare that the documents attached hereto are originals or true copies of records in the custody of ______________________________
 
 (Name of Business from which documents are sought) which:
 
@@ -506,9 +514,7 @@ Place of execution:
 
 Signature:
 
-Declared before me at , this day of .
-
-Signed
+Declared before me at , this day of . Signed
 
 Judge of the
 
@@ -534,7 +540,9 @@ As a result of my employment with the above-named business, I am familiar with t
 
 (B) are kept in the course of a regularly-conducted business activity;
 
-(C) are made by the business as a regular practice. Among the records so maintained are records of individuals and entities that have accounts or\otherwise transact business with the above-named business. I have made or caused to be made a diligent search of those records. No records have been found reflecting any business activity between the business and the following individuals and entities:
+(C) are made by the business as a regular practice.
+
+Among the records so maintained are records of individuals and entities that have accounts or\otherwise transact business with the above-named business. I have made or caused to be made a diligent search of those records. No records have been found reflecting any business activity between the business and the following individuals and entities:
 
 ______________________________ .
 
@@ -554,9 +562,7 @@ FORM B2
 
 (for use when the United States is the Requesting Party, pursuant to Article 8)
 
-CERTIFICATE OF ABSENCE OR NON-EXISTENCE OF BUSINESS RECORDS
-
-I, ______________________________ , the undersigned, aged 18 years and older, with the
+CERTIFICATE OF ABSENCE OR NON-EXISTENCE OF BUSINESS RECORDS I, ______________________________ , the undersigned, aged 18 years and older, with the
 
 (Name) understanding that I am subject to criminal penalty under the laws of Ireland for an intentionally false declaration, make this solemn declaration conscientiously believing the statements set forth in this declaration to be true.
 
@@ -574,7 +580,9 @@ I further declare that as a result of my employment with the above-named busines
 
 3. are made by the business as a regular practice.
 
-Among the records so maintained are records of individuals and entities that have accounts or\otherwise transact business with the above-named business. I have made or caused to be made a diligent search of those records. No records have been found reflecting any business activity between the business and the following individuals and entities:. If the business had maintained an account on behalf of or had participated in a transaction with any of the foregoing individuals or entities, its business records would reflect that fact.
+Among the records so maintained are records of individuals and entities that have accounts or\otherwise transact business with the above-named business. I have made or caused to be made a diligent search of those records. No records have been found reflecting any business activity between the business and the following individuals and entities:.
+
+If the business had maintained an account on behalf of or had participated in a transaction with any of the foregoing individuals or entities, its business records would reflect that fact.
 
 All by virtue of the Statutory Declarations Act, 1938.
 
@@ -638,9 +646,7 @@ I further declare that the documents attached and described below are true and a
 
 Description of Documents:
 
-All by virtue of the Statutory Declarations Act, 1938.
-
-Date of execution:
+All by virtue of the Statutory Declarations Act, 1938. Date of execution:
 
 Place of execution:
 
@@ -668,7 +674,9 @@ I, ______________________________ , attest on penalty of criminal punishment
 
 (Official Title) this attestation.
 
-I do hereby certify that I am the custodian of records of ______________________________ , and that I have made a diligent
+I do hereby certify that I am the custodian of records of
+
+______________________________ , and that I have made a diligent
 
 (Name of Public Office or Agency) search of the said records for the
 
@@ -684,9 +692,7 @@ FORM D2
 
 (for use when the United States is the Requesting Party, pursuant to Article 9)
 
-ATTESTATION REGARDING ABSENCE OR NON-EXISTENCE OF FOREIGN PUBLIC RECORDS
-
-I, ______________________________ , the undersigned, aged 18 years and older, with the
+ATTESTATION REGARDING ABSENCE OR NON-EXISTENCE OF FOREIGN PUBLIC RECORDS I, ______________________________ , the undersigned, aged 18 years and older, with the
 
 (Name) understanding that I am subject to criminal penalty under the laws of Ireland for an intentionally false declaration, make this solemn declaration conscientiously believing the statements set forth in this declaration to be true.
 
@@ -726,9 +732,7 @@ FORM E1
 
 (for use when Ireland is the Requesting Party, pursuant to Article 14)
 
-ATTESTATION WITH RESPECT TO SEIZED ARTICLES
-
-I, ______________________________ , attest on penalty of criminal punishment for
+ATTESTATION WITH RESPECT TO SEIZED ARTICLES I, ______________________________ , attest on penalty of criminal punishment for
 
 (Name) false statements or attestation that my position with the Government of ______________________________
 
@@ -756,7 +760,9 @@ ______________________
 
 ______________________
 
-(Date) FORM E2
+(Date)
+
+FORM E2
 
 (for use when the United States is the Requesting Party, pursuant to Article 14)
 
@@ -768,9 +774,7 @@ I, ______________________________ , the undersigned, aged 18 years and older, wi
 
 I declare that that my position with the Government of ______________________________ is ______________________________
 
-(Country) (Official Title) and that by reason of my position am authorised and qualified to make this declaration.
-
-I further declare that I received the articles listed below from ______________________________ on ______________________________ ,
+(Country) (Official Title) and that by reason of my position am authorised and qualified to make this declaration. I further declare that I received the articles listed below from ______________________________ on ______________________________ ,
 
 (Name of Person) (Date) at ______________________________ in the following condition:
 

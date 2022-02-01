@@ -96,9 +96,7 @@ Transmission of decisions and recourse to the central authority
 
 6. When an authority in the executing State which receives a decision has no jurisdiction to recognise it and take the necessary measures for its execution, it shall, ex officio, transmit the decision to the competent authority and shall inform the competent authority in the issuing State accordingly.
 
-7. The United Kingdom and Ireland, respectively, may state in a declaration that the decision together with the certificate must be sent via its central authority or authorities specified by it in the declaration. These Member States may at any time by a further declaration limit the scope of such a declaration for the purpose of giving greater effect to paragraph 3. They shall do so when the provisions on mutual assistance of the Schengen Implementation Convention are put into effect for them. Any declaration shall be deposited with the General Secretariat of the Council and notified to the Commission.
-
-Article 5
+7. The United Kingdom and Ireland, respectively, may state in a declaration that the decision together with the certificate must be sent via its central authority or authorities specified by it in the declaration. These Member States may at any time by a further declaration limit the scope of such a declaration for the purpose of giving greater effect to paragraph 3. They shall do so when the provisions on mutual assistance of the Schengen Implementation Convention are put into effect for them. Any declaration shall be deposited with the General Secretariat of the Council and notified to the Commission. Article 5
 
 Scope
 
@@ -178,7 +176,9 @@ Article 10
 
 Imprisonment or other alternative sanction by way of substitution for non-recovery of the financial penalty
 
-Where it is not possible to enforce a decision, either totally or in part, alternative sanctions, including custodial sanctions, may be applied by the executing State if its laws so provide in such cases and the issuing State has allowed for the application of such alternative sanctions in the certificate referred to in Article 4. The severity of the alternative sanction shall be determined in accordance with the law of the executing State, but shall not exceed any maximum level stated in the certificate transmitted by the issuing State. Article 11
+Where it is not possible to enforce a decision, either totally or in part, alternative sanctions, including custodial sanctions, may be applied by the executing State if its laws so provide in such cases and the issuing State has allowed for the application of such alternative sanctions in the certificate referred to in Article 4. The severity of the alternative sanction shall be determined in accordance with the law of the executing State, but shall not exceed any maximum level stated in the certificate transmitted by the issuing State.
+
+Article 11
 
 Amnesty, pardon, review of sentence
 
@@ -266,9 +266,7 @@ Implementation
 
 (a) decisions mentioned in Article 1(a) (i) and (iv) ; and/or
 
-(b) with regard to legal persons, decisions related to conduct for which a European instrument provides for the application of the principle of liability of legal persons.
-
-Any Member State that wants to make use of this paragraph, shall notify a declaration to that effect to the Secretary General of the Council upon the adoption of this Framework Decision. The declaration shall be published in the Official Journal of the European Union.
+(b) with regard to legal persons, decisions related to conduct for which a European instrument provides for the application of the principle of liability of legal persons. Any Member State that wants to make use of this paragraph, shall notify a declaration to that effect to the Secretary General of the Council upon the adoption of this Framework Decision. The declaration shall be published in the Official Journal of the European Union.
 
 3. Each Member State may, where the certificate referred to in Article 4 gives rise to an issue that fundamental rights or fundamental legal principles as enshrined in Article 6 of the Treaty may have been infringed, oppose the recognition and the execution of decisions. The procedure referred to in Article 7(3) shall apply.
 

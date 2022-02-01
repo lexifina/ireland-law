@@ -22,7 +22,7 @@ Whereas:
 
 (4) On 30 November 2000 the Council adopted a programme of measures to implement the principle of mutual recognition of decisions in criminal matters, giving first priority (measures 6 and 7) to the adoption of an instrument applying the principle of mutual recognition to the freezing of evidence and property. Moreover, pursuant to paragraph 3.3 of the programme, the aim is to improve, in accordance with the principle of mutual recognition, execution in one Member State of a confiscation order issued in another Member State, inter alia for the purpose of restitution to a victim of a criminal offence, taking into account the existence of the 1990 Convention. With a view to achieving this aim, this Framework Decision, within its field of application, reduces the grounds for refusal of enforcement and suppresses, among Member States, any system of conversion of the confiscation order into a national one.
 
-(5) Council Framework Decision 2001/500/JHA lays down provisions on money laundering, the identification, tracing, freezing, seizing and confiscation of instrumentalities and the proceeds from crime. Under that Framework Decision, Member States are also obliged not to make or uphold reservations in respect of Article 2 of the 1990 Convention, in so far as the offence is punishable by deprivation of liberty or a detention order for a maximum of more than one year.
+(5) Council Framework Decision 2001/500/JHA lays down provisions on money laundering, the identification, tracing, freezing , seizing and confiscation of instrumentalities and the proceeds from crime. Under that Framework Decision, Member States are also obliged not to make or uphold reservations in respect of Article 2 of the 1990 Convention, in so far as the offence is punishable by deprivation of liberty or a detention order for a maximum of more than one year.
 
 (6) Finally, on 22 July 2003 the Council adopted Framework Decision 2003/577/JHA on the execution in the European Union of orders freezing property or evidence.
 
@@ -134,7 +134,9 @@ Transmission of a confiscation order to one or more executing States
 
 — the competent authority of the issuing State has reasonable grounds to believe that a specific item of property covered by the confiscation order is located in one of two or more specified executing States.
 
-3. A confiscation order concerning an amount of money may be transmitted to more than one executing State at the same time, where the competent authority of the issuing State deems there is a specific need to do so, for example where: — the property concerned has not been frozen under Council Framework Decision 2003/577/JHA of, or
+3. A confiscation order concerning an amount of money may be transmitted to more than one executing State at the same time, where the competent authority of the issuing State deems there is a specific need to do so, for example where:
+
+— the property concerned has not been frozen under Council Framework Decision 2003/577/JHA of, or
 
 — the value of the property which may be confiscated in the issuing State and any one executing State is not likely to be sufficient for the execution of the full amount covered by the confiscation order.
 
@@ -198,11 +200,11 @@ Reasons for non-recognition or non-execution
 
 — the confiscation order falls outside the scope of the option adopted by the executing State under Article 3(2) of Framework Decision 2005/212/JHA, it shall execute the confiscation order at least to the extent provided for in similar domestic cases under national law.
 
-4. The competent authorities of the executing State shall give specific consideration to consulting, by any appropriate means, the competent authorities of the issuing State before deciding not to recognise and execute a confiscation order pursuant to paragraph 2, or to limit the execution thereof pursuant to paragraph 3. Consultation is obligatory where the decision is likely to be based on:
+4. The competent authorities of the executing State shall give specific consideration to consulting, by any appropriate means, the competent authorities of the issuing State before deciding not to recognise and execute a confiscation order pursuant to paragraph 2, or to limit the execution thereof pursuant to paragraph 3. Consultation is obligatory where the decision is likely to be based on: — paragraph 1,
 
-— paragraph 1,
+— paragraph 2(a), (e), (f) or (g),
 
-— paragraph 2(a), (e), (f) or (g), — paragraph 2(d) and information is not being provided under Article 9(3), or
+— paragraph 2(d) and information is not being provided under Article 9(3), or
 
 — paragraph 3.
 
@@ -262,7 +264,9 @@ Law governing execution
 
 3. A confiscation order issued against a legal person shall be executed even if the executing State does not recognise the principle of criminal liability of legal persons.
 
-4. The executing State may not impose measures as an alternative to the confiscation order, including custodial sanctions or any other measure limiting a person's freedom, as a result of a transmission pursuant to Articles 4 and 5, unless the issuing State has given its consent. Article 13
+4. The executing State may not impose measures as an alternative to the confiscation order, including custodial sanctions or any other measure limiting a person's freedom, as a result of a transmission pursuant to Articles 4 and 5, unless the issuing State has given its consent.
+
+Article 13
 
 Amnesty, pardon, review of confiscation order
 
@@ -336,9 +340,7 @@ Reimbursement
 
 1. Without prejudice to Article 9(2), where the executing State under its law is responsible for injury caused to one of the interested parties mentioned in Article 9 by the execution of a confiscation order transmitted to it pursuant to Articles 4 and 5, the issuing State shall reimburse to the executing State any sums paid in damages by virtue of that responsibility to the said party except if, and to the extent that, the injury or any part of it is exclusively due to the conduct of the executing State.
 
-2. Paragraph 1 is without prejudice to the law of the Member States on claims by natural or legal persons for compensation of damage.
-
-Article 19
+2. Paragraph 1 is without prejudice to the law of the Member States on claims by natural or legal persons for compensation of damage. Article 19
 
 Languages
 
@@ -374,11 +376,11 @@ Implementation
 
 5. The Member States, acting as executing States, shall inform the Council and the Commission, at the beginning of the calendar year, of the number of cases in which Article 17(b) has been applied and a summary of reasons for this.
 
-By 24 November 2013, the Commission shall establish a report on the basis of the information received, accompanied by any initiatives it may deem appropriate.
+By 24 November 2013, the Commission shall establish a report on the basis of the information received, accompanied by any initiatives it may deem appropriate. Article 23
 
-Article 23
+Entry into force
 
-Entry into force This Framework Decision shall enter into force on the day of its publication in the Official Journal of the European Union.
+This Framework Decision shall enter into force on the day of its publication in the Official Journal of the European Union.
 
 Done at Luxembourg, 6 October 2006.
 

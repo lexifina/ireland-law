@@ -28,7 +28,7 @@ Evidence in proceedings (general).
 
 (3) In any proceedings a document purporting—
 
-(a) to be a translation of a document mentioned in subsection (1) or (2) or of a statement or document mentioned in section 62(8), 73(8) or 77(8), and
+(a) to be a translation of a document mentioned in subsection (1) or (2) or of a statement or document mentioned in section 62(8), 73(8) or 77 (8), and
 
 (b) to be certified as correct by a person appearing to be competent to do so, is admissible, without further proof, as evidence of the translation.
 

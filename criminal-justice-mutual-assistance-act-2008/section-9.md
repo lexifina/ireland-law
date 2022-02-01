@@ -1,6 +1,6 @@
 Spontaneous exchange of information.
 
-9.— (1) Without prejudice to section 100, the Director of Public Prosecutions, Commissioner of the Garda Síochána or Revenue Commissioners (in this section referred to as the “providing authority”) may, in accordance with the relevant international instrument and without receiving a request to that effect, communicate information to a competent authority in a designated state either relating to matters which might give rise to such a request or for the purpose of current criminal investigations or criminal proceedings or of initiating either of them.
+9.— (1) Without prejudice to section 100 , the Director of Public Prosecutions, Commissioner of the Garda Síochána or Revenue Commissioners (in this section referred to as the “providing authority”) may, in accordance with the relevant international instrument and without receiving a request to that effect, communicate information to a competent authority in a designated state either relating to matters which might give rise to such a request or for the purpose of current criminal investigations or criminal proceedings or of initiating either of them.
 
 (2) The providing authority may impose conditions on the use by the competent authority of the information so communicated.
 

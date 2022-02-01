@@ -2,7 +2,7 @@ Central Authority.
 
 8.— (1) The Minister is the Central Authority for the purposes of this Act.
 
-(2) The Central Authority has the function of receiving, transmitting and otherwise dealing with requests, except those made under Part 3, and of co-operating, in accordance with the relevant international instrument, with corresponding persons or bodies in designated states in relation to requests received from them.
+(2) The Central Authority has the function of receiving, transmitting and otherwise dealing with requests, except those made under Part 3 , and of co-operating, in accordance with the relevant international instrument, with corresponding persons or bodies in designated states in relation to requests received from them.
 
 (3) The Minister may, if he or she considers it appropriate, designate persons to perform specified functions of the Central Authority, and different persons may be so designated to perform different such functions.
 

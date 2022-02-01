@@ -76,4 +76,6 @@ Interpretation (Part 2).
 
 (b) which is punishable, even if the person does not take part in the actual commission of the offence or offences, by a term of imprisonment for a period of 12 months or a more severe penalty, where the contribution was intentional and made with knowledge of the purpose and general criminal activity of the group or of its intention to commit the offence or offences concerned.
 
-(4) The reference in this section to section 3 of the Act of 1987 is to that section as amended by section 2 of the Extradition (Amendment) Act 1994 and sections 12 and 27 of the Extradition (European Union Conventions) Act 2001. Information about financial transactions for use in the State
+(4) The reference in this section to section 3 of the Act of 1987 is to that section as amended by section 2 of the Extradition (Amendment) Act 1994 and sections 12 and 27 of the Extradition (European Union Conventions) Act 2001.
+
+Information about financial transactions for use in the State
