@@ -10,10 +10,6 @@ Electronic money derogation.
 
 (b) the monetary value that may be stored electronically on the payment instrument concerned does not exceed €150,
 
-(i) €250, or
-
-(ii) where the payment instrument cannot be used outside the State, €500,
-
 (c) the payment instrument concerned is used exclusively to purchase goods and services,
 
 (d) the payment instrument concerned cannot be funded with anonymous electronic money,
