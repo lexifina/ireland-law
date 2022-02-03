@@ -305,3 +305,5 @@ Transfers and Direct Debits in Euro) Regulations 2013
 79 S.I. No. 356 of 2021 European Union (Investment The whole instrument Firms) (No. 2) Regulations 2021
 
 80 S.I. No. 702 of 2021 European Union The whole instrument (Crowdfunding) Regulations 2021
+
+81 S.I. No. 46 of 2022 European Union (Anti-Money The whole instrument Laundering: Central Mechanism for Information on Safe-Deposit Boxes and Bank and Payment Accounts) Regulations 2022
