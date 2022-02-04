@@ -18,8 +18,6 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (8) Commission Delegated Regulation (EU) No 148/2013 of 19 December 2012;
 
-2 OJ No. L 149, 30.04.2004, p.1 3 OJ No. L 61, 28.02.2007, p. 24 4 OJ No. L 150, 09.06.2012, p. 1 5 OJ No. L 256, 22.09.2012, p. 4 6 OJ No. L 251, 18.09.2012, p. 1 7 OJ No. L 251, 18.09.2012, p. 11 8 OJ No. L 274, 09.10.2012, p. 1 9 OJ No. L 52, 23.02.2013, p. 1
-
 (9) Commission Delegated Regulation (EU) No 149/2013 of 19 December 2012;
 
 (10) Commission Implementing Regulation (EU) No 1247/2012 of 19 December 2012;
@@ -62,8 +60,6 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (29) Commission Implementing Regulation (EU) No 484/2014 of 12 May 2014;
 
-10 OJ No. L 52, 23.02.2013, p. 11 11 OJ No. L 352, 21.12.2012, p. 20 12 OJ No. L 213, 08.08.2013, p. 1 13 OJ No. L 183, 24.06.2014, p. 18 14 OJ No. L 355, 31.12.2013, p. 60 15 OJ No. L 57, 27.02.2014, p. 3 16 OJ No. L 74, 14.03.2014, p. 8 17 OJ No. L 100, 03.04.2014, p. 1 18 OJ No. L 85, 21.03.2014, p. 1 19 OJ No. L 167, 06.06.2014, p. 30 20 OJ No. L 111, 15.04.2014, p. 36 21 OJ No. L 148, 20.05.2014, p. 4 22 OJ No. L 148, 20.05.2014, p. 15 23 OJ No. L 148, 20.05.2014, p. 17 24 OJ No. L 148, 20.05.2014, p. 21 25 OJ No. L 148, 20.05.2014, p. 29 26 OJ No. L 148, 20.05.2014, p. 36 27 OJ No. L 148, 20.05.2014, p. 50 28 OJ No. L 174, 13.06.2014, p. 16 29 OJ No. L 191, 28.06.2014, p. 1 30 OJ No. L 138, 13.05.2014, p. 57
-
 (30) Commission Delegated Regulation (EU) No 1151/2014 of 4 June 2014;
 
 (31) Commission Delegated Regulation (EU) No 1152/2014 of 4 June 2014;
@@ -102,11 +98,11 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (48) Commission Delegated Regulation (EU) 2015/1555 of 28 May 2015;
 
+34 OJ No. L 78, 24.03.2015, p. 1
+
 (49) Commission Delegated Regulation (EU) 2015/1798 of 2 July 2015;
 
 (50) Commission Implementing Regulation (EU) 2015/1278 of 9 July 2015;
-
-31 OJ No. L 309, 30.10.2014, p. 1 32 OJ No. L 309, 30.10.2014, p. 5 33 OJ No. L 254, 28.08.2014, p. 2 34 OJ No. L 78, 24.03.2015, p. 1 35 OJ No. L 265, 05.09.2014, p. 3 36 OJ No. L 284, 30.09.2014, p. 14 37 OJ No. L 324, 07.11.2014, p. 1 38 OJ No. L 11, 17.01.2015, p. 1 39 OJ No. L 11, 17.01.2015, p. 37 40 OJ No. L 11, 17.01.2015, p. 44 41 OJ No. L 120, 13.05.2015, p. 2 42 OJ No. L 98, 15.04.2015, p. 1 43 OJ No. L 14, 21.01.2015, p. 1 44 OJ No. L 48, 20.02.2015, p. 1 45 OJ No. L 135, 02.06.2015, p. 1 46 OJ No. L 39, 14.02.2015, p. 11 47 OJ No. L 154, 19.06.2015, p. 1 48 OJ No. L 150, 17.06.2015, p. 1 49 OJ No. L 244, 19.09.2015, p. 1 50 OJ No. L 263, 08.10.2015, p. 12 51 OJ No. L 205, 31.07.2015, p. 1
 
 (51) Commission Delegated Regulation (EU) 2015/2205 of 6 August 2015;
 
@@ -144,13 +140,13 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (68) Commission Implementing Regulation (EU) 2016/200 of 15 February 2016;
 
+51 OJ No. L 205, 31.07.2015, p. 1
+
 (69) Commission Delegated Regulation (EU) 2016/861 of 18 February 2016;
 
 (70) Commission Delegated Regulation (EU) 2016/592 of 1 March 2016;
 
 (71) Commission Implementing Regulation (EU) 2016/313 of 1 March 2016;
-
-52 OJ No. L 314, 01.12.2015, p. 13 53 OJ No. L 21, 28.01.2016, p. 54 54 OJ No. L 295, 12.11.2015, p. 3 55 OJ No. L 295, 12.11.2015, p. 5 56 OJ No. L 295, 12.11.2015, p. 9 57 OJ No. L 295, 12.11.2015, p. 16 58 OJ No. L 295, 12.11.2015, p. 18 59 OJ No. L 295, 12.11.2015, p. 21 60 OJ No. L 313, 28.11.2015, p. 30 61 OJ No. L 58, 04.03.2016, p. 13 62 OJ No. L 347, 31.12.2015, p. 1 63 OJ No. L 347, 31.12.2015, p. 1285 64 OJ No. L 330, 16.12.2015, p. 26 65 OJ No. L 78, 24.03.2016, p. 11 66 OJ No. L 125, 13.05.2016, p. 1 67 OJ No. L 32, 09.02.2016, p. 31 68 OJ No. L 64, 10.03.2016, p. 1 69 OJ No. L 39, 16.02.2016, p. 5 70 OJ No. L 144, 01.06.2016, p. 21 71 OJ No. L 103, 19.04.2016, p. 5 72 OJ No. L 60, 05.03.2016, p. 5
 
 (72) Commission Implementing Regulation (EU) 2016/428 of 23 March 2016;
 
@@ -186,13 +182,13 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (88) Commission Delegated Regulation (EU) 2016/1450 of 23 May 2016;
 
+5 OJ No. L 237, 03.09.2016, p. 1
+
 (89) Commission Delegated Regulation (EU) 2016/1712 of 7 June 2016;
 
 (90) Commission Implementing Regulation (EU) 2016/911 of 9 June 2016;
 
 (91) Commission Implementing Regulation (EU) 2016/1212 of 25 July 2016;
-
-73 OJ No. L 83, 31.03.2016, p. 1 74 OJ No. L 136, 25.05.2016, p. 4 75 OJ No. L 137, 26.05.2016, p. 10 76 OJ No. L 147, 03.06.2016, p. 1 77 OJ No. L 224, 18.08.2016, p. 1 78 OJ No. L 263, 29.09.2016, p. 1 79 OJ No. L 245, 14.09.2016, p. 5 80 OJ No. L 275, 12.10.2016, p. 3 81 OJ No. L 275, 12.10.2016, p. 27 82 OJ No. L 286, 21.10.2016, p. 35 11 OJ No. L 209, 12.08.2017, p. 19 12 OJ No. L 341, 20.12.2017, p. 1 13 OJ No. L 341, 20.12.2017, p. 8 2 OJ No. L 165, 04.06.2014, p. 41 3 OJ No. L 184, 08.07.2016, p. 1 4 OJ No. L 228, 23.08.2016, p. 1 5 OJ No. L 237, 03.09.2016, p. 1 6 OJ No. L 258, 24.09.2016, p. 1 7 OJ No. L 153, 10.06.2016, p. 25 8 OJ No. L 199, 26.07.2016, p. 6
 
 (92) Commission Implementing Regulation (EU) 2016/1630 of 9 September 2016;
 
@@ -228,6 +224,8 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (108) Commission Delegated Regulation (EU) 2017/323 of 20 January 2017;
 
+23 OJ No. L 65, 10.03.2017, p. 116
+
 (109) Commission Implementing Regulation (EU) 2017/309 of 23 February 2017;
 
 (110) Commission Delegated Regulation (EU) 2017/979 of 2 March 2017;
@@ -235,8 +233,6 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 (111) Commission Delegated Regulation (EU) 2017/751 of 16 March 2017;
 
 (112) Commission Implementing Regulation (EU) 2017/812 of 15 May 2017;
-
-9 OJ No. L 243, 10.09.2016, p. 1 10 OJ No. L 328, 02.12.2016, p. 1 11 OJ No. L 10, 14.01.2017, p. 1 12 OJ No. L 340, 15.12.2016, p. 9 13 OJ No. L 275, 12.10.2016, p. 19 14 OJ No. L 17, 21.01.2017, p. 1 15 OJ No. L 17, 21.01.2017, p. 17 16 OJ No. L 29, 03.02.2017, p. 1 17 OJ No. L 33, 08.02.2017, p. 14 18 OJ No. L 309, 16.11.2016, p. 1 19 OJ No. L 65, 10.03.2017, p. 1 20 OJ No. L 65, 10.03.2017, p. 9 21 OJ No. L 65, 10.03.2017, p. 44 22 OJ No. L 65, 10.03.2017, p. 48 23 OJ No. L 65, 10.03.2017, p. 116 24 OJ No. L 65, 10.03.2017, p. 145 25 OJ No. L 49, 25.02.2017, p. 1 26 OJ No. L 53, 28.02.2017, p. 1 27 OJ No. L 148, 10.06.2017, p. 1 28 OJ No. L 113, 29.04.2017, p. 15 29 OJ No. L 126, 18.05.2017, p. 1
 
 (113) Commission Delegated Regulation (EU) 2017/1230 of 31 May 2017;
 
@@ -280,8 +276,6 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 
 (133) Commission Implementing Regulation (EU) 2017/2382 of 14 December 2017;
 
-30 OJ No. L 177, 08.07.2017, p. 7 31 OJ No. L 236, 14.09.2017, p. 14 32 OJ No. L 213, 17.08.2017, p. 1 33 OJ No. L 259, 07.10.2017, p. 14 34 OJ No. L 225, 31.08.2017, p. 1 35 OJ No. L 204, 05.08.2017, p. 7 36 OJ No. L 312, 28.11.2017, p. 1 37 OJ No. L 329, 13.12.2017, p. 4 38 OJ No. L 329, 13.12.2017, p. 6 39 OJ No. L 304, 21.11.2017, p. 13 40 OJ No. L 12, 17.01.2018, p. 2 41 OJ No. L 6, 11.01.2018, p. 3 42 OJ No. L 6, 11.01.2018, p. 26 43 OJ No. L 6, 11.01.2018, p. 37 44 OJ No. L 32, 06.02.2018, p. 1 45 OJ No. L 296, 14.11.2017, p. 1 46 OJ No. L 321, 06.12.2017, p. 1 47 OJ No. L 310, 25.11.2017, p. 3 48 OJ No. L 310, 25.11.2017, p. 30 49 OJ No. L 69, 13.03.2018, p. 23 50 OJ No. L 340, 20.12.2017, p. 6
-
 (134) Commission Delegated Regulation (EU) 2018/728 of 24 January 2018;
 
 (135) Commission Implementing Regulation (EU) 2018/165 of 31 January 2018;
@@ -323,8 +317,6 @@ ACTS ADOPTED BY THE EUROPEAN COMMISSION REFERRED TO IN SECTION 2(2A)(AT)
 (153) Commission Delegated Regulation (EU) 2018/1645 of 13 July 2018;
 
 (154) Commission Delegated Regulation (EU) 2018/1646 of 13 July 2018;
-
-51 OJ No. L 123, 18.05.2018, p. 1 52 OJ No. L 31, 03.02.2018, p. 3 53 OJ No. L 124, 18.05.2018, p. 1 54 OJ No. L 177, 13.07.2018, p. 1 55 OJ No. L 119, 15.05.2018, p. 5 56 OJ No. L 105, 25.04.2018, p. 6 57 OJ No. L 105, 25.04.2018 p. 14 58 OJ No. L 123, 18.05.2018, p. 6 59 OJ No. L 230, 13.09.2018, p. 1 60 OJ No. L 271, 30.10.2018, p. 1 61 OJ No. L 271, 30.10.2018, p. 6 62 OJ No. L 271, 30.10.2018, p. 10 63 OJ No. L 274, 05.11.2018, p. 1 64 OJ No. L 274, 05.11.2018, p. 6 65 OJ No. L 274, 05.11.2018, p. 11 66 OJ No. L 274, 05.11.2018, p. 16 67 OJ No. L 274, 05.11.2018, p. 21 68 OJ No. L 274, 05.11.2018, p. 25 69 OJ No. L 274, 05.11.2018, p. 29 70 OJ No. L 274, 05.11.2018, p. 36 71 OJ No. L 274, 05.11.2018, p. 43
 
 (155) Commission Implementing Regulation (EU) 2018/ 1078 of 30 July 2018;
 
