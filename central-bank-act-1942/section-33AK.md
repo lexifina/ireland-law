@@ -286,11 +286,7 @@ Disclosure of information.
 
 (c) to the European Banking Authority, in its capacity of contributing to the consistent and coherent functioning of supervising mechanisms (as referred to in point (a) of Article 1(5) of Regulation (EU) No 1093/2010 of 24 November 2010),
 
-(d) to the relevant authorities of other Member States designated under laws giving effect to the Payment Services Directive, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 and other Acts of the European Union applicable to payment service providers (including
-
-OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 60, 28.2.2014, p. 34.
-
-Acts applicable to the protection of individuals with regard to the processing of personal data and to money laundering and terrorist financing),
+(d) to the relevant authorities of other Member States designated under laws giving effect to the Payment Services Directive, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 and other Acts of the European Union applicable to payment service providers (including Acts applicable to the protection of individuals with regard to the processing of personal data and to money laundering and terrorist financing),
 
 (e) to authorities entrusted with the public duty of supervising other financial sector entities and the authorities responsible for the supervision of financial markets,
 
@@ -453,8 +449,6 @@ Acts applicable to the protection of individuals with regard to the processing o
 (ah) Regulation (EU) 2017/2394 of the European Parliament and of the Council of 12 December 2017,
 
 (ai) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019;
-
-OJ, No L171, 29.6.2016, p. 1
 
 (aj) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No. 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018;
 
