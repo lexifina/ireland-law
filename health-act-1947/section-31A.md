@@ -190,7 +190,7 @@ F31[Regulations for preventing, limiting, minimising or slowing spread of Covid-
 
 (16) In this section, section 31B and section 38A—
 
-‘event’ means a gathering of persons, whether the gathering is for cultural, entertainment, recreational, sporting, commercial, work, social, community, educational, religious or other reasons, and includes but is not limited to a gathering which is required to be subject to a consent, licence or other form of permission granted in relation to it by any Minister of the Government or public body pursuant to any enactment or rule of law which provides for the regulation of proper planning and sustainable development, traffic management, sale of alcohol, safety and health at work or otherwise;
+"event" means a gathering of persons, whether the gathering is for cultural, entertainment, recreational, sporting, commercial, work, social, community, educational, religious or other reasons, and includes but is not limited to a gathering which is required to be subject to a consent, licence or other form of permission granted in relation to it by any Minister of the Government or public body pursuant to any enactment or rule of law which provides for the regulation of proper planning and sustainable development, traffic management, sale of alcohol, safety and health at work or otherwise;
 
 ‘event organiser’ means—
 
@@ -202,9 +202,9 @@ F31[Regulations for preventing, limiting, minimising or slowing spread of Covid-
 
 (ii) receives some or all of the proceeds (if any), from the event;
 
-‘licence’ means, in relation to a dwelling, a licence given to a person by the owner of the dwelling permitting the person to enter and reside in the dwelling (whether or not for valuable consideration);
+"licence" means, in relation to a dwelling, a licence given to a person by the owner of the dwelling permitting the person to enter and reside in the dwelling (whether or not for valuable consideration);
 
-‘occupier’ means, in relation to a dwelling—
+"occupier" means, in relation to a dwelling—
 
 (a) a person who—
 
@@ -214,12 +214,12 @@ F31[Regulations for preventing, limiting, minimising or slowing spread of Covid-
 
 (b) a person who resides in the dwelling pursuant to a licence (except where the owner of the dwelling also resides therein);
 
-‘owner’ means, in relation to a dwelling, any person (other than a mortgagee not in possession) who has an estate or interest in the dwelling;
+"owner" means, in relation to a dwelling, any person (other than a mortgagee not in possession) who has an estate or interest in the dwelling;
 
-‘premises’ includes a building or any part of a building, any outdoor space surrounding or adjacent to the premises, whether or not used in conjunction with the premises, any land, premises, tent, caravan, or other temporary or moveable structure, ship or other vessel, aircraft, railway carriage or other vehicle (whether stationary or otherwise) and any storage container.
+"premises" includes a building or any part of a building, any outdoor space surrounding or adjacent to the premises, whether or not used in conjunction with the premises, any land, premises, tent, caravan, or other temporary or moveable structure, ship or other vessel, aircraft, railway carriage or other vehicle (whether stationary or otherwise) and any storage container.
 
 (17) In this section, sections 31B, 38A, 38B, 38C, 38D, 38E, 38F and 38G—
 
-‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
+"Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
 
-‘European Centre for Disease Prevention and Control’ means the Agency established under the provisions of Regulation (EC) No. 851/2004 of the European Parliament and of the Council of 21 April 2004 establishing a European centre for disease prevention and control.
+"European Centre for Disease Prevention and Control" means the Agency established under the provisions of Regulation (EC) No. 851/2004 of the European Parliament and of the Council of 21 April 2004 establishing a European centre for disease prevention and control.
