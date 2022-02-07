@@ -1,3 +1,3 @@
-Inspectors.
+Inspectors. (Repealed)
 
 8.—...

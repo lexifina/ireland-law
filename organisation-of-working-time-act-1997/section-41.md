@@ -1,3 +1,3 @@
-Increase of penalties under certain enactments.
+Increase of penalties under certain enactments. (Repealed)
 
 41.—...

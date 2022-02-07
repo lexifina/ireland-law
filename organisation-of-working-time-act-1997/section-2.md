@@ -2,15 +2,15 @@ Interpretation.
 
 2.—(1) In this Act—
 
-‘the Activities of Doctors in Training Regulations’ means the European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004 (S.I. No. 494 of 2004);
+"the Activities of Doctors in Training Regulations" means the European Communities (Organisation of Working Time) (Activities of Doctors in Training) Regulations 2004 (S.I. No. 494 of 2004);
 
-‘adjudication officer’ means an adjudication officer appointed under section 40 of the Workplace Relations Act 2015;
+"adjudication officer" means an adjudication officer appointed under section 40 of the Workplace Relations Act 2015;
 
 “annual leave” shall be construed in accordance with section 19;
 
 “collective agreement” means an agreement by or on behalf of an employer on the one hand, and by or on behalf of a body or bodies representative of the employees to whom the agreement relates on the other hand;
 
-‘collective bargaining’ shall be construed in accordance with the Industrial Relations Acts 1946 to 2015.
+"collective bargaining" shall be construed in accordance with the Industrial Relations Acts 1946 to 2015.
 
 “contract of employment” means—
 
@@ -24,7 +24,7 @@ Interpretation.
 
 “employer” means in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment, subject to the qualification that the person who under a contract of employment referred to in paragraph (b) of the definition of “contract of employment” is liable to pay the wages of the individual concerned in respect of the work or service concerned shall be deemed to be the individual’s employer;
 
-‘employment regulation order’ means an employment regulation order within the meaning of Part IV of the Industrial Relations Act 1946;
+"employment regulation order" means an employment regulation order within the meaning of Part IV of the Industrial Relations Act 1946;
 
 “lay-off” has the meaning assigned to it by the Redundancy Payments Act, 1967;
 
@@ -36,9 +36,9 @@ Interpretation.
 
 “prescribed” means prescribed by regulations made by the Minister under this Act;
 
-“public holiday” shall be construed in accordance with the Second Schedule;
-
 (1) O.J. No. L307, 13.12.93, p.18
+
+“public holiday” shall be construed in accordance with the Second Schedule;
 
 “registered employment agreement” has the meaning assigned to it by section 25 of the Industrial Relations Act, 1946;
 

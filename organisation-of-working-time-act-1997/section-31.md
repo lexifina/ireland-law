@@ -1,3 +1,3 @@
-References to rights commissioner by Minister.
+References to rights commissioner by Minister. (Repealed)
 
 31.—...

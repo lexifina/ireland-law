@@ -8,7 +8,7 @@ Compensation on cesser of employment.
 
 (b) In this subsection—
 
-‘relevant period’ means—
+"relevant period" means—
 
 (i) in relation to a cessation of employment of an employee to whom subparagraph (i) of paragraph (c) of subsection (1) of section 20 applies, the current leave year,
 
