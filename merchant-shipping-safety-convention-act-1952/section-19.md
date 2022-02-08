@@ -1,3 +1,3 @@
 Further provisions as to radio navigational aids. (Repealed)
 
-19. — ...
+19. — ... Certificates.
