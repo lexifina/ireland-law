@@ -1,6 +1,6 @@
 Radio rules.
 
-15. — (1) The Minister, after consultation with the Minister for Communications, Energy and Natural Resources, may make rules (‘radio rules’ ) requiring—
+15. — (1) The Minister, after consultation with the Minister for Communications, Energy and Natural Resources, may make rules ("radio rules" ) requiring—
 
 (a) ships to which this section applies to be provided with a radio installation, other than a radio navigational aid, of such a nature as may be prescribed by the rules,
 

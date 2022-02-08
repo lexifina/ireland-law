@@ -2,7 +2,7 @@
 
 Construction rules.
 
-10. — (1) The Minister may make rules (‘construction rules’ ) prescribing the—
+10. — (1) The Minister may make rules ("construction rules") prescribing the—
 
 (a) requirements that the hull, superstructure, subdivision and stability, electrical installations, equipment and machinery of and fuel used in passenger steamers registered in the State, or other passenger steamers while in the territorial seas or elsewhere in the State, must comply with, and
 
@@ -38,4 +38,4 @@ Construction rules.
 
 (7) The powers conferred on the Minister by this section are in addition to the powers conferred by any other enactment enabling him or her to prescribe the requirements that passenger steamers must comply with.
 
-(8) In this section, other than subsection (1)(b) ‘passenger steamer’ includes a ‘passenger ship’ within the meaning of section 2(1) of the Act of 1992.
+(8) In this section, other than subsection (1)(b) "passenger steamer" includes a "passenger ship" within the meaning of section 2(1) of the Act of 1992.
