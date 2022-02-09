@@ -12,6 +12,10 @@ Such programmes shall be integrated either into the waste management plans requi
 
 (5) The Agency shall from time to time as it thinks appropriate, and at least once in each period of 6 years after the date of making of a waste prevention programme, evaluate the plan and make such revisions to it, in accordance with Article 9 of the Waste Directive and Regulation 31 of the Regulations of 2011, as it thinks fit and references in Part II and this Part to such a plan shall, unless the context otherwise requires, be construed as including references to such a plan as so revised.
 
-(6) Upon the establishment of a waste prevention programme or programmes or of any revisions thereto, the Agency shall— (a) cause to be published in at least one national newspaper a notice of that fact and of the means by which a copy of the plan, as made or revised, may be obtained by members of the public at a cost not exceeding the reasonable cost of making a copy, and (b) furnish a copy of the plan, as made or revised, to the Minister and each local authority, and any other public authority which in the opinion of the Agency has an interest in the programme or programmes.
+(6) Upon the establishment of a waste prevention programme or programmes or of any revisions thereto, the Agency shall—
 
-(7) In this section, ‘revise’, in relation to a waste prevention programme, includes a review of the programme.
+(a) cause to be published in at least one national newspaper a notice of that fact and of the means by which a copy of the plan, as made or revised, may be obtained by members of the public at a cost not exceeding the reasonable cost of making a copy, and
+
+(b) furnish a copy of the plan, as made or revised, to the Minister and each local authority, and any other public authority which in the opinion of the Agency has an interest in the programme or programmes.
+
+(7) In this section, "revise", in relation to a waste prevention programme, includes a review of the programme.

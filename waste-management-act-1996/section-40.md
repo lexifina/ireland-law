@@ -52,13 +52,15 @@ Grant of waste licences.
 
 (I) population and human health,
 
-(II) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992 and Directive 2009/147/EC of the European Parliament and of the Council of 30 November 20094,
+(II) biodiversity, with particular attention to species and habitats protected under Council Directive 92/43/EEC of 21 May 1992 and Directive
+
+3 OJ No. L 206, 22.7.1992, p. 7
+
+2009/147/EC of the European Parliament and of the Council of 30 November 20094,
 
 (III) land, soil, water, air and climate,
 
 (IV) material assets, cultural heritage and the landscape, and
-
-3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
 
 (V) the interaction between the factors mentioned in clauses (I) to (IV);
 
@@ -86,11 +88,11 @@ Grant of waste licences.
 
 (i) of a class specified in Part 1 or Part 2 of Schedule 5 to the Planning and Development Regulations, 2001 and either—
 
+4 OJ No. L 20, 26.1.2010, p. 7 3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
+
 (I) such development would equal or exceed, as the case may be, any relevant quantity, area or other limit specified in Part 1 or Part 2, or
 
 (II) no quantity, area or other limit is specified in that Part in respect of the development concerned, or
-
-3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
 
 (ii) of a class specified in Part 2 of Schedule 5 to the Planning and Development Regulations 2001 but does not equal or exceed, as the case may be, the relevant quantity, area or other limit specified in that Part and the Agency, in exercise of the powers conferred on it by regulations under section 45, determines that the proposed activity is likely to have significant effects on the environment.
 

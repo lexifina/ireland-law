@@ -56,6 +56,8 @@ Interpretation generally.
 
 “emission into the atmosphere” means the emission of a pollutant, within the meaning of the Act of 1987, into the atmosphere;
 
+1 OJ No. L 26, 28.1.2012, p.1 2 OJ No. L 124, 25.4.2014, p.1
+
 “emission limit value” means the mass, expressed in terms of a specific parameter, concentration or level of an emission, or both a specific concentration and level of an emission, which may not be exceeded during one or more periods of time;
 
 “Environment Fund” has the meaning assigned to it by section 74;
@@ -87,8 +89,6 @@ Interpretation generally.
 (b) in any other case, an activity which was being lawfully carried on immediately before the commencement of the provision concerned of this Act that requires the use of the best available techniques;
 
 “European Communities” has the meaning assigned to it by the European Communities Act, 1972;
-
-1 OJ No. L 26, 28.1.2012, p.1 2 OJ No. L 124, 25.4.2014, p.1
 
 “European Waste Catalogue” means the list of waste set out in Commission Decision 94/3/EC of 20 December, 1993, (made pursuant to Article 1 (a) of Council Directive 75/442/EEC on waste) and includes such list as amended from time to time;
 
