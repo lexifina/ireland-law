@@ -8,9 +8,9 @@ Commencement and operation
 
 (a) Part 2, subject to subsection (4), continue in operation until the 9th day of May 2020, and
 
-(b) Part 3, continue in operation for the period beginning on the 10th day of June 2021 and ending on the later of—
+(b) Part 3, continue in operation for the period beginning on the 10th day of February 2022 and ending on the later of—
 
-(i) the 9th day of November 2021, or
+(i) the 31st day of March 2022, or
 
 (ii) the date that is specified in a resolution passed by each House of the Oireachtas under subsection (6).
 
@@ -18,4 +18,4 @@ Commencement and operation
 
 (5) An order under subsection (4) shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
 
-(6) Each House of the Oireachtas may, before the 9th day of November 2021, pass a resolution to continue in operation the amendments effected by Part 3 for such period, not exceeding 3 months, that ends on a date specified in the resolution.
+(6) Each House of the Oireachtas may, before the 31st day of March 2022, pass a resolution to continue in operation the amendments effected by Part 3 for such period, not exceeding 3 months, that ends on a date specified in the resolution.
