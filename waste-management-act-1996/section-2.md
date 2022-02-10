@@ -34,11 +34,7 @@ Commission Directive 93/86/EEC of 4 October, 1993 adapting to technical progress
 
 Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste and Council Directive 2011/97/EU of 5 December 2011 amending Directive 1999/31/EC as regards specific criteria for the storage of metallic mercury considered as waste
 
-Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste
-
-2 OJ No. L 124, 25.4.2014, p.1
-
-European Parliament and Council Directive 94/62/EC of 20 December, 1994 on packaging and packaging waste
+Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste European Parliament and Council Directive 94/62/EC of 20 December, 1994 on packaging and packaging waste
 
 ...
 
