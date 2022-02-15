@@ -202,9 +202,25 @@ Functions of Commission.
 
 (s) to have regard to the need to ensure that grid connection policy takes account of renewable energy policy, including any such policy in relation to community energy projects,
 
-(t) to approve products and procurement process for non-frequency ancillary services, and
+(t) to approve products and procurement process for non-frequency ancillary services,
 
-(u) to require any information from electricity undertakings relevant for the fulfilment of its tasks, including the justification for any refusal to grant third-party access, and any information on measures necessary to reinforce the network.
+(u) to require any information from electricity undertakings relevant for the fulfilment of its tasks, including the justification for any refusal to grant third-party access, and any information on measures necessary to reinforce the network,
+
+(v) to ensure a level playing field where electricity undertakings are subject to transparent, proportionate and non-discriminatory rules, fees and treatment, in particular with respect to —
+
+(i) balancing responsibility,
+
+(ii) access to wholesale markets,
+
+(iii) access to data,
+
+(iv) switching processes and billing regimes, and
+
+(v) where applicable, licensing,
+
+(w) to ensure that market participants from third countries, when operating within the internal market for electricity, comply with applicable Union and national law, including that concerning environmental and safety policy, and
+
+(x) to perform its functions under the European Union (Renewable Energy) Regulations 2022 (S.I. No. 76 of 2022).
 
 (1A) For the purposes of this Act, the functions of the Commission under the Electricity Market Directive and under the Natural Gas Market Directive and any regulations made under either, shall be deemed to be functions of the Commission under this Act.
 
@@ -243,6 +259,8 @@ Functions of Commission.
 (1C) The Commission shall in its annual report, under paragraph 25(c) of the Schedule include details on the carrying out and fulfilment of its duties under Articles 59 and 60 of the 2019 Internal Electricity Market Directive, and Article 41 of the Natural Gas Market Directive and subsection (3) of section 9BA.
 
 (1CA) The Commission shall report annually on its activity and the fulfilment of its duties to the European Commission and the Agency, including on the steps taken and the results obtained as regards each of the tasks listed in Articles 59 and 60 of the 2019 Internal Electricity Market Directive.
+
+(1CB) The Commission shall report annually until at least 2032 on the developments in dynamic electricity price contracts, including market offers and the impact on consumers’ bills and specifically the level of price volatility.
 
 (1D)(a) Any dispute between a gas transmission, gas distribution, LNG or gas storage system operator and a person regarding—
 
@@ -304,9 +322,11 @@ Functions of Commission.
 
 (a) in relation to electricity, does not discriminate unfairly between holders of licences, authorisations and the Board or between applicants for authorisations or licences,
 
-(b) in relation to gas, does not discriminate unfairly between holders of licences, consents and Bord Gáis Éireann or between applicants for consents or licences, and
+(b) in relation to gas, does not discriminate unfairly between holders of licences, consents and Bord Gáis Éireann or between applicants for consents or licences,
 
-(c) the Minister or the Commission, as the case may be, considers protects the interests of final customers of electricity or gas or both, as the case may be.
+(c) the Minister or the Commission, as the case may be, considers protects the interests of final customers of electricity or gas or both, as the case may be, and
+
+(d) in relation to electricity, ensures that no undue barriers exist for electricity as regards market entry, operation and exit, without prejudice to any competence retained in relation to third countries.
 
 (4)(a) In carrying out the duty imposed by subsection (3) and the functions specified in Article 59 of the 2019 Internal Electricity Market Directive and Article 41 of the Natural Gas Market Directive, the Minister and the Commission shall, in close consultation with the authorities specified in paragraph (aa) and without prejudice to their competence, have regard to the need—
 
@@ -324,11 +344,21 @@ Functions of Commission.
 
 (vii) to secure that there is sufficient capacity in the natural gas system to enable reasonable expectations of demand to be met, ...
 
-(viii) to secure the continuity, security and quality of supplies of natural gas, and
+(viii) to secure the continuity, security and quality of supplies of natural gas,
 
-(ix) to promote flexibility in the internal market for electricity within the Union.
+(ix) to promote flexibility in the internal market for electricity within the Union, and
+
+(x) to ensure that electricity prices reflect actual demand and supply.
 
 (aa) The authorities referred to in paragraph (a) are every other relevant authority in the State, including the Competition and Consumer Protection Commission, and, as regards Article 59 of the 2019 Internal Electricity Market Directive, including every authority, including regulatory authority, in neighbouring Member States and neighbouring third countries, as appropriate, together with the European Commission and the Agency.
+
+(ab) Without prejudice to the duties of the Minister and the Commission under subsection (3) and paragraph (a), nothing in this Act or other legislation shall unduly hamper —
+
+(i) cross-border trade in electricity,
+
+(ii) consumer participation, including through demand response,
+
+(iii) investments into, in particular, variable and flexible energy generation, energy storage and the deployment of electromobility and new interconnectors between Member States.
 
 (b) In carrying out its duties under paragraph (a) of this subsection, the Commission shall also have regard to the following objectives:
 
@@ -378,7 +408,7 @@ Functions of Commission.
 
 (e) to require that the system operator gives priority to generating stations using renewable, sustainable or alternative energy sources when selecting generating stations, and
 
-(f) to take account of the rights of customers, particularly household customers and small enterprises, to be supplied with electricity of a quality specified by the Commission pursuant to Regulation 26 of the European Communities (Internal Market in Electricity) Regulations 2005 at reasonable, easily and clearly comparable and transparent prices.
+(f) to take account of the rights of customers, particularly household customers and small enterprises, to be supplied with electricity of a quality specified by the Commission pursuant to Regulation 26 of the European Communities (Internal Market in Electricity) Regulations 2005 at reasonable, competitive, easily and clearly comparable and transparent prices.
 
 (5A) Where the Single Electricity Market is in operation, subsections (3), (4) and (5) shall not apply in relation to a matter which is a SEM matter.
 
