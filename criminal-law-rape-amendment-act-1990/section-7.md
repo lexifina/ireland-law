@@ -1,0 +1,5 @@
+Corroboration of evidence in proceedings in relation to offences of a sexual nature.
+
+7. — (1) Subject to any enactment relating to the corroboration of evidence in criminal proceedings, where at the trial on indictment of a person charged with an offence of a sexual nature evidence is given by the person in relation to whom the offence is alleged to have been committed and, by reason only of the nature of the charge, there would, but for this section, be a requirement that the jury be given a warning about the danger of convicting the person on the uncorroborated evidence of that other person, it shall be for the judge to decide in his discretion, having regard to all the evidence given, whether the jury should be given the warning; and accordingly any rule of law or practice by virtue of which there is such a requirement as aforesaid is hereby abolished.
+
+(2) If a judge decides, in his discretion, to give such a warning as aforesaid, it shall not be necessary to use any particular form of words to do so.
