@@ -158,9 +158,7 @@ A is the proportion of the levy attributable to the category of Medium-Large Acc
 
 B is the maximum import capacity of the electricity account of the final customer expressed in kVA;
 
-C is the aggregate of the maximum import capacities of electricity accounts which are certified by the distribution system operator as Medium-Large Accounts expressed in kVA.
-
-Construction and Interpretation
+C is the aggregate of the maximum import capacities of electricity accounts which are certified by the distribution system operator as Medium-Large Accounts expressed in kVA. Construction and Interpretation
 
 4. (a) In this Schedule a reference to the distribution system operator shall in the case of a final customer who has a direct connection to the transmission system be construed as including a reference to the transmission system operator.
 
