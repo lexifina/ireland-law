@@ -1,3 +1,3 @@
-Grants by Minister for expenses of certain bodies.
+Grants by Minister for expenses of certain bodies. (Repealed)
 
 3.—...

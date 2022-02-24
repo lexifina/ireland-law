@@ -1,3 +1,3 @@
-Subsidies by Minister for certain loans guaranteed by housing authorities.
+Subsidies by Minister for certain loans guaranteed by housing authorities. (Repealed)
 
 12.—...

@@ -1,3 +1,3 @@
-Duty of housing authorities in certain circumstances to put houses into good structural condition.
+Duty of housing authorities in certain circumstances to put houses into good structural condition. (Repealed)
 
 13.—...

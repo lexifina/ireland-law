@@ -1,3 +1,3 @@
-Subsidies by Minister for houses provided by housing authorities for letting.
+Subsidies by Minister for houses provided by housing authorities for letting. (Repealed)
 
 10.—...

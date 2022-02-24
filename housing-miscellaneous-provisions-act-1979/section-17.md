@@ -1,3 +1,3 @@
-Amendment of section 90 of Principal Act.
+Amendment of section 90 of Principal Act. (Repealed)
 
 17.—...

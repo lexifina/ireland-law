@@ -1,3 +1,3 @@
-Loans by housing authorities for improvement of houses.
+Loans by housing authorities for improvement of houses. (Repealed)
 
 8.—...
