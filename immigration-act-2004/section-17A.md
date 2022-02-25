@@ -6,6 +6,6 @@ F16[Application for visa: taking of fingerprints
 
 (3) In this section—
 
-‘arrangement relating to the Common Travel Area’ has the meaning assigned to it by section 20 of the International Protection Act 2015;
+"arrangement relating to the Common Travel Area" has the meaning assigned to it by section 20 of the International Protection Act 2015;
 
-‘Irish visa’ and ‘Irish transit visa’ have the meanings assigned to them by the Immigration Act 2003.
+"Irish visa" and "Irish transit visa" have the meanings assigned to them by the Immigration Act 2003.
