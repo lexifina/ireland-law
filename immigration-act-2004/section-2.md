@@ -30,7 +30,7 @@ Application of Act.
 
 (c) section 9(1) of the Refugee Act 1996,
 
-(d) the European Communities (Aliens) Regulations 1977 (S.I. No. 393 of 1977),” for “the European Communities (Aliens) Regulations 1977 ( S.I. No. 393 of 1977 ), or
+(d) the European Communities (Aliens) Regulations 1977 (S.I. No. 393 of 1977)
 
 (e) the European Communities (Right of Residence for Non-Economically Active Persons) Regulations 1997 (S.I. No. 57 of 1997), or
 
