@@ -54,7 +54,7 @@ Permission to land.
 
 (c) A non-national to whom this subsection applies and who is arriving in the State to engage in employment, business or a profession in the State shall within 7 days of entering the State—
 
-(i) report in person to the registration officer for the place in which he or she intends to reside,
+(i) report in person to a registration officer,
 
 (ii) produce to the officer a valid passport or other equivalent document, issued by or on behalf of an authority recognised by the Government, which establishes his or her identity and nationality, and
 
