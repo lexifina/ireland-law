@@ -1,0 +1,3 @@
+Duty of Minister in respect of National Plan prepared under section 18C.
+
+18D.— ...
