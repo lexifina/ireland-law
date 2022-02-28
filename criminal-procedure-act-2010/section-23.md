@@ -12,11 +12,13 @@ Appeals by Director etc., in certain criminal proceedings.
 
 (2) Where a person’s conviction of an offence on indictment is quashed on appeal by the Court of Appeal and the Court makes no order for the re-trial of the person in respect of the offence, the Director, if he or she is the prosecuting authority in the trial, or the Attorney General, as may be appropriate, may, subject to subsection (3) and section 24, appeal the decision of the Court of Appeal not to order a re-trial of the offence concerned on a question of law to the Supreme Court under Article 34.5.3° of the Constitution.
 
-(3)An appeal referred to in this section shall lie only where—
+(3) An appeal referred to in this section shall lie only where—
 
 (a) a ruling was made by a court—
 
-(i) during the course of a trial referred to in subsection (1), or
+(i) during the course of a trial referred to in subsection (1),
+
+(ia) during the course of a preliminary trial hearing within the meaning of the Criminal Procedure Act 2021 which was not appealed under section 7 of that Act, or
 
 (ii) during the hearing of an appeal referred to in subsection (2), which erroneously excluded compelling evidence, or,
 
@@ -34,7 +36,7 @@ Appeals by Director etc., in certain criminal proceedings.
 
 (5) Where a person fails to appear before the Supreme Court or the Court of Appeal, as the case may be, in respect of the appeal, the Court, if it is satisfied that it is, in all the circumstances, in the interests of justice to do so, may proceed to hear and determine the appeal in the absence of the person concerned.
 
-(6)For the purposes of considering an appeal referred to in this section the Supreme Court or the Court of Appeal, as the case may be, shall hear argument—
+(6) For the purposes of considering an appeal referred to in this section the Supreme Court or the Court of Appeal, as the case may be, shall hear argument—
 
 (a) by, or by counsel on behalf of, the Director, or as the case may be, the Attorney General,
 
@@ -58,7 +60,7 @@ Appeals by Director etc., in certain criminal proceedings.
 
 (10) If a legal aid (trial on indictment) certificate was granted under the Act of 1962 in respect of the person concerned in relation to the earlier proceedings in respect of the offence concerned, a legal aid (Supreme Court) certificate or a legal aid (appeal) certificate, as the case may be, shall be deemed to have been granted in respect of him or her in relation to an appeal referred to in this section.
 
-(11)On hearing an appeal referred to in subsection (1) the Court of Appeal may—
+(11) On hearing an appeal referred to in subsection (1) the Court of Appeal may—
 
 (a) quash the acquittal ... and order the person to be re-tried for the offence concerned if it is satisfied—
 
@@ -92,10 +94,30 @@ Appeals by Director etc., in certain criminal proceedings.
 
 (b) Subject to paragraph (a), where the Court of Appeal or the Supreme Court, as the case may be, makes an order for a re-trial under this section, the re-trial shall take place as soon as practicable.
 
-(14) In this section “compelling evidence”, in relation to a person, means evidence which—
+(14) In this section—
+
+"compelling evidence", in relation to a person, means evidence which—
 
 (a) is reliable,
 
 (b) is of significant probative value, and
 
-(c) is such that when taken together with all the other evidence adduced in the proceedings concerned, a jury might reasonably be satisfied beyond a reasonable doubt of the person's guilt in respect of the offence concerned.
+(c) is such that, when taken together with—
+
+(i) all the other evidence adduced in the proceedings concerned, and
+
+(ii) to the extent that such evidence has not been adduced, the relevant evidence proposed to be adduced in the proceedings, a jury might reasonably be satisfied beyond a reasonable doubt of the person’s guilt in respect of the offence concerned;
+
+"relevant evidence", in relation to a person, means the proposed evidence—
+
+(a) contained in such of the following as have been served on the person or his or her solicitor pursuant to section 4B or 4C of the Act of 1967:
+
+(i) the documents specified in section 4B(1)(b) of that Act;
+
+(ii) exhibits listed in the list of exhibits referred to in section 4B(1)(b)(vii) of that Act;
+
+(iii) the documents specified in section 4C(1) of that Act;
+
+(iv) the exhibits referred to in the list of exhibits referred to in section 4C(1)(g) of that Act, or
+
+(b) given in a videorecording of an interview made under section 16(1) of the Act of 1992, in relation to which the accused has been notified and given an opportunity of seeing the videorecording in accordance with section 15(1) of that Act.
