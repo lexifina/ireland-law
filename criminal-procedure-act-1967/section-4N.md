@@ -1,4 +1,4 @@
-F23[Joinder of unrelated charges.
+F26[Joinder of unrelated charges.
 
 4N.—Where the accused has been sent forward for trial in accordance with this Part, the indictment against the accused may, with the consent of the accused and notwithstanding any other enactment, include counts that—
 

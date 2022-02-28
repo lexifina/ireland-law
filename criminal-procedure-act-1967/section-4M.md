@@ -1,4 +1,4 @@
-F22[Amendment of charges.
+F25[Amendment of charges.
 
 4M.—Where the accused has been sent forward for trial in accordance with this Part, the indictment against the accused may include, either in substitution for or in addition to counts charging the offence for which he has been sent forward, any counts that—
 

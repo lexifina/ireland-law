@@ -1,4 +1,4 @@
-F14[Admissibility of deposition or videorecording.
+F17[Admissibility of deposition or videorecording.
 
 4G.—(1) A deposition taken under section 4F may be considered by the trial court on an application under section 4E(1).
 

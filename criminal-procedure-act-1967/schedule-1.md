@@ -14,7 +14,7 @@ In section 13 the words “within the Jurisdiction of such Justice” and “for
 
 Sections 13.6, 14 to 17 and 19.
 
-4 & 5 Geo. 5 c. 58. Criminal Justice Adminis- Sections 19, 20, 21 and 43 (1) (d). tration Act, 1914.
+4 & 5 Geo. 5 c. 58. Criminal Justice Sections 19, 20, 21 and 43 (1) (d). Administration Act, 1914.
 
 No. 48 of 1936. Courts of Justice Act, In section 62, the words “to 1936. receive informations in relation to such charge or”.
 

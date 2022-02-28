@@ -1,4 +1,4 @@
-F6[Service of documents on accused, etc.
+F7[Service of documents on accused, etc.
 
 4B.—(1) (a) Subject to subsection (3), the prosecutor shall cause the documents specified in paragraph (b) to be served on the accused or his or her solicitor (if any) not later than 42 days from the date on which—
 

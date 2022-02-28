@@ -1,4 +1,4 @@
-F16[Power to exclude public.
+F19[Power to exclude public.
 
 4I.—(1) Subject to this section and any other enactment, a proceeding under this Part shall be conducted in open court.
 

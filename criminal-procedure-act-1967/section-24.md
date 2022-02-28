@@ -1,6 +1,6 @@
 Period of remand.
 
-24.—(1) The Court shall not remand a person, on the occasion of that person’s first appearance before the Court charged with a particular offence, for a period exceeding eight days, except where this section otherwise provides.
+24.— (1) The Court shall not remand a person, on the occasion of that person’s first appearance before the Court charged with a particular offence, for a period exceeding eight days, except where this section otherwise provides.
 
 (2) The Court may remand a person on bail for a period that is longer than eight days if the person and the prosecutor consent.
 
