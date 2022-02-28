@@ -1,6 +1,12 @@
 Application by accused for dismissal of charge.
 
-4E.—(1) At any time after the accused is sent forward for trial, the accused may apply to the trial court to dismiss one or more of the charges against the accused.
+4E.—(1) Subject to subsection (1A), at any time after the accused is sent forward for trial, the accused may apply to the trial court to dismiss one or more of the charges against the accused.
+
+(1A) Where—
+
+(a) a court makes a relevant order within the meaning of Part 2 of the Criminal Procedure Act 2021 at a preliminary trial hearing (within the meaning of that Part) to the effect that evidence shall not be admitted at trial, and
+
+(b) the order is appealed under section 7 of that Act, the accused may not make an application under subsection (1) to dismiss a charge to which the order relates until that appeal is determined or withdrawn.
 
 (2) Notice of an application under subsection (1) shall be given to the prosecutor not less than 14 days before the date on which the application is due to be heard.
 
@@ -10,7 +16,7 @@ Application by accused for dismissal of charge.
 
 (5) (a) Oral evidence may be given on an application under subsection (1) only if it appears to the trial court that such evidence is required in the interests of justice.
 
-(b) In paragraph (a) ‘oral evidence’ includes—
+(b) In paragraph (a) "oral evidence" includes—
 
 (i) any evidence given through a live television link pursuant to Part III of the Criminal Evidence Act, 1992, or section 39 of the Criminal Justice Act, 1999, or
 
