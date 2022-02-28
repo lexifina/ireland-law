@@ -1,4 +1,4 @@
-F17[ Offence of failing to return to Garda Síochána station.
+F17[Offence of failing to return to Garda Síochána station.
 
 4B.— (1) If a person whose detention has been suspended under section 4(3A) fails, without reasonable excuse, to return to the Garda Síochána station concerned in accordance with subsection (3B) of section 4, he or she shall be guilty of an offence and shall be liable on summary conviction to a class A fine or to imprisonment for a term not exceeding 12 months or to both.
 

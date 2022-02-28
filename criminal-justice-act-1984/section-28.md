@@ -1,4 +1,4 @@
-F57[Taking of fingerprints, palmprints or photographs of person dealt with under Probation of Offenders Act, 1907, or convicted.
+F59[Taking of fingerprints, palmprints or photographs of person dealt with under Probation of Offenders Act, 1907, or convicted.
 
 28.—(1) Where a person, on being prosecuted for an indictable offence, is the subject of an order under subsection (1) or (2) of section 1 of the Probation of Offenders Act, 1907, or is convicted and otherwise dealt with, a member of the Garda Síochána may—
 

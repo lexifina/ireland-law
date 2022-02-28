@@ -1,4 +1,4 @@
-F52[ Inferences from failure of accused to mention particular facts.
+F52[Inferences from failure of accused to mention particular facts.
 
 19A.— (1) Where in any proceedings against a person for an arrestable offence evidence is given that the accused—
 
@@ -28,4 +28,4 @@ F52[ Inferences from failure of accused to mention particular facts.
 
 (8) References in subsection (1) to evidence shall, in relation to the hearing of an application under Part IA of the Criminal Procedure Act 1967 for the dismissal of a charge, be taken to include a statement of the evidence to be given by a witness at the trial.
 
-(9) In this section ‘arrestable offence’ has the meaning it has in section 2 (as amended by section 8 of the Criminal Justice Act 2006) of the Criminal Law Act 1997.
+(9) In this section "arrestable offence" has the meaning it has in section 2 (as amended by section 8 of the Criminal Justice Act 2006) of the Criminal Law Act 1997.

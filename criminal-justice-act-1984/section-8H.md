@@ -4,4 +4,4 @@ F37[Records.
 
 (2) Subsection (1) shall operate in a manner that permits the Commissioner to retain such records as may be required by him or her to show that section 8D has been complied with.
 
-(3) In this section ‘record’, in relation to a fingerprint, palm print or photograph, includes a copy of a record.
+(3) In this section "record", in relation to a fingerprint, palm print or photograph, includes a copy of a record.

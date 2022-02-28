@@ -1,4 +1,4 @@
-F18[ Regulations regarding suspension of person’s detention under section 4(3A).
+F18[Regulations regarding suspension of person’s detention under section 4(3A).
 
 4C.— (1) Without prejudice to section 7 and to the Criminal Justice Act 1984 (Treatment of Persons in Custody in Garda Síochána Stations) Regulations 1987 (S.I. No. 119 of 1987), the Minister shall make regulations in relation to the procedures that are to apply where a person’s detention is suspended under section 4(3A) and, without prejudice to the generality of the foregoing, such regulations may make provision for—
 

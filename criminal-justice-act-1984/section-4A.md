@@ -1,4 +1,4 @@
-F16[ Power to arrest and return person for purpose of continuation of detention.
+F16[Power to arrest and return person for purpose of continuation of detention.
 
 4A.— (1) Notwithstanding section 10, where a member of the Garda Síochána reasonably suspects that a person has failed to return in accordance with section 4(3B) to a Garda Síochána station for the continuation of his or her detention, the member may, for the purpose of the continuation of the detention—
 
