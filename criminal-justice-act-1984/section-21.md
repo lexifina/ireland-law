@@ -14,6 +14,12 @@ Proof by written statement.
 
 (3) The conditions mentioned in paragraphs (c) and (d) of subsection (2) shall not apply if the parties agree at the hearing or the parties or their solicitors agree before the hearing that the statement shall be so tendered.
 
+(3A) Where a party ("the first-mentioned party") serves a notice pursuant to paragraph (d) of subsection (2) objecting to a statement being tendered in evidence under this section, the court may, at the hearing of the matter, on the application of the party who served, pursuant to paragraph (c) of that subsection, the copy of the statement to which the notice relates—
+
+(a) require the first-mentioned party to provide an explanation to the court of the reasons for serving that notice, and
+
+(b) where the court is satisfied, having taken into account the explanation provided in accordance with paragraph (a), that it is not contrary to the interests of justice to do so, direct that the statement be so tendered.
+
 (4) The following provisions shall also have effect in relation to any written statement tendered in evidence under this section:
 
 (a) if the statement is made by a person under the age of twenty-one years, it shall give his age;
@@ -26,7 +32,7 @@ Proof by written statement.
 
 (a) the party by whom or on whose behalf a copy of the statement was served may call that person to give evidence, and
 
-(b) the court may, of its own motion or on the application of any party to the proceedings, require that person to attend before the court and give evidence.
+(b) the court may, of its own motion or on the application of any party to the proceedings, require that person to attend before the court and give evidence, including for the purposes of cross-examination.
 
 (6) An application under subsection (5) (b) may be made before the hearing in a case in which the proceedings are in the Central Criminal Court, the Circuit Court or the Special Criminal Court and, for this purpose, the powers of the Central Criminal Court shall be exercisable by any judge of the High Court and the powers of the Circuit Court shall be exercisable by any judge of that court.
 
