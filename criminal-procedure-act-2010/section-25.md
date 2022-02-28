@@ -8,7 +8,7 @@ Orders to safeguard fairness of re-trial.
 
 (b) any particular person or persons, other than bona fide representatives of the Press.
 
-(3)The Court of Appeal or the Supreme Court, as the case may be, may, if it considers that it is in the interests of justice to do so, make an order prohibiting the publication or broadcast of—
+(3) The Court of Appeal or the Supreme Court, as the case may be, may, if it considers that it is in the interests of justice to do so, make an order prohibiting the publication or broadcast of—
 
 (a) any evidence given or referred to during the proceeding, or
 

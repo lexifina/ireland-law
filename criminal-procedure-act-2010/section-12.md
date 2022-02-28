@@ -12,7 +12,7 @@ Orders to safeguard fairness of re-trial.
 
 (a) any evidence given or referred to at a hearing of an application for a re-trial order, or
 
-(b) any matter identifying or having the effect of identifying any person who is the subject of an application for a re-trial order, or any other person connected with the re-trial for which an order is sought undersection 8 or 9.
+(b) any matter identifying or having the effect of identifying any person who is the subject of an application for a re-trial order, or any other person connected with the re-trial for which an order is sought under section 8 or 9 .
 
 (4) An order under subsection (3) ceases to have effect (unless it specifies an earlier date)—
 

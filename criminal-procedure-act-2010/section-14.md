@@ -1,3 +1,3 @@
-Appeals on point of law to Supreme Court.
+Appeals on point of law to Supreme Court. (repealed)
 
 14.—...

@@ -32,7 +32,7 @@ Re-trial orders.
 
 (d) generally make such order as may be necessary for doing justice in the application before the Court.
 
-(5) Evidence may be admitted in a hearing under this section, whether or not it would have been admissible in earlier proceedings against the person who is the subject of the application under section 8 or 9.
+(5) Evidence may be admitted in a hearing under this section, whether or not it would have been admissible in earlier proceedings against the person who is the subject of the application under section 8 or 9 .
 
 (6) Subject to subsection (1) or (2), where the Court makes a re-trial order, the re-trial shall take place as soon as practicable.
 

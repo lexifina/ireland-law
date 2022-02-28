@@ -38,7 +38,7 @@ Interpretation (Part 3).
 
 (iii) is such that when taken together with all the other evidence adduced in the proceedings concerned, a jury might reasonably be satisfied beyond a reasonable doubt of the person’s guilt in respect of the offence concerned;
 
-‘offence against the administration of justice’ means—
+"offence against the administration of justice" means—
 
 (a) an offence under—
 

@@ -1,6 +1,6 @@
 Search warrant in aid of investigation relating to relevant offences may be authorised by District Court in certain circumstances.
 
-18.— (1) A place that is owned or occupied, or partly owned or occupied by a person in respect of whom section 15applies may be searched in connection with a relevant offence in respect of which he or she has been acquitted in accordance with, and only in accordance with, this section.
+18.— (1) A place that is owned or occupied, or partly owned or occupied by a person in respect of whom section 15 applies may be searched in connection with a relevant offence in respect of which he or she has been acquitted in accordance with, and only in accordance with, this section.
 
 (2) A judge of the District Court who is satisfied—
 
