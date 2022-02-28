@@ -2,11 +2,11 @@
 
 Reference of question of law to Supreme Court.
 
-34.—(1) Where a person tried on indictment is acquitted (whether in respect of ence of ques- the whole or part of the indictment) the Attorney General in any case or, if he or she tion of law to is the prosecuting authority in the trial, the Director of Public Prosecutions may,
+34.—(1) Where a person tried on indictment is acquitted (whether in respect of the
 
-Supreme without prejudice to the verdict or decision in favour of the accused person, refer a
+Reference of whole or part of the indictment) the Attorney General in any case or, if he or she is question of the prosecuting authority in the trial, the Director of Public Prosecutions may, law to without prejudice to the verdict or decision in favour of the accused person, refer a
 
-Court. question of law arising during the trial to the Court of Appeal for determination or, in the case of a person who is tried on indictment in the Central Criminal Court, make application to the Supreme Court under Article 34.5.4° of the Constitution to refer a question of law arising during the trial to it for determination.
+Supreme Court. question of law arising during the trial to the Court of Appeal for determination or, in the case of a person who is tried on indictment in the Central Criminal Court, make application to the Supreme Court under Article 34.5.4° of the Constitution to refer a question of law arising during the trial to it for determination.
 
 (2) Where a question of law is referred to the Court of Appeal or the Supreme Court, as the case may be, under subsection (1), the statement of the question shall be settled by the Attorney General or the Director of Public Prosecutions, as may be appropriate, after consultation with the trial judge concerned or, in the case of a Special Criminal Court, with the member of that Court who pronounced the decision of the Court in the trial concerned following consultation by that member with the other members of the Court concerned and shall include any observations which the judge or that member, as may be appropriate, may wish to add.
 
@@ -18,13 +18,13 @@ Court. question of law arising during the trial to the Court of Appeal for deter
 
 (c) if counsel are assigned under subsection (4), such counsel.
 
-(4)The Court of Appeal or the Supreme Court, as the case may be, shall assign counsel to argue in support of the decision if—
+(4) The Court of Appeal or the Supreme Court, as the case may be, shall assign counsel to argue in support of the decision if—
 
 (a) the acquitted person waives his or her right to be represented or heard under subsection (3)(b), or
 
 (b) notwithstanding the fact that the acquitted person exercises his or her right to be represented or heard under subsection (3)(b), the Court considers it desirable in the public interest to do so.
 
-(5)The Court of Appeal or the Supreme Court, as the case may be, shall ensure, in so far as it is reasonably practicable to do so, that the identity of the acquitted person in proceedings referred to in this section is not disclosed in connection with the proceedings unless the person agrees to the use of his or her name in the proceedings.
+(5) The Court of Appeal or the Supreme Court, as the case may be, shall ensure, in so far as it is reasonably practicable to do so, that the identity of the acquitted person in proceedings referred to in this section is not disclosed in connection with the proceedings unless the person agrees to the use of his or her name in the proceedings.
 
 (6) If the acquitted person wishes to be represented in proceedings referred to in this section before the Court of Appeal or the Supreme Court, as the case may be, and a legal aid (appeal) certificate, or as the case may be, a legal aid (Supreme Court) certificate, is granted under subsection (7) or is deemed to have been granted under subsection (8), he or she shall be entitled to free legal aid in the preparation and presentation of any argument that he or she wishes to make to the Court of Appeal or the Supreme Court, as the case may be, and to have a solicitor and counsel assigned to him or her for that purpose in the manner prescribed by regulations under section 10 of the Criminal Justice (Legal Aid) Act 1962.
 
