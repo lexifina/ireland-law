@@ -1,3 +1,3 @@
-Sufficiency of bailsmen.
+Sufficiency of bailsmen. (repealed)
 
 27.—...

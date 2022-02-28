@@ -1,3 +1,3 @@
-Endorsement on warrants as to release on bail.
+Endorsement on warrants as to release on bail. (repealed)
 
 30.—...

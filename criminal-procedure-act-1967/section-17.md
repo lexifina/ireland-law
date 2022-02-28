@@ -1,3 +1,3 @@
-Prohibition of publication of proceedings.
+Prohibition of publication of proceedings. (repealed)
 
 17.—(1) ...

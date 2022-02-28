@@ -1,3 +1,3 @@
-Documents to be served on accused.
+Documents to be served on accused. (repealed)
 
 6.—...

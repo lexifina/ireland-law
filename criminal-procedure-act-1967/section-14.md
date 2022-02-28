@@ -1,3 +1,3 @@
-Further power to take depositions.
+Further power to take depositions. (repealed)
 
 14.—(1) ...

@@ -1,3 +1,3 @@
-Offences under the law of Scotland.
+Offences under the law of Scotland. (repealed)
 
 37.—...

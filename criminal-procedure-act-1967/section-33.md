@@ -1,3 +1,3 @@
-Arrest of accused about to abscond.
+Arrest of accused about to abscond. (repealed)
 
 33.—...

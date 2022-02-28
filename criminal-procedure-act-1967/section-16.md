@@ -1,3 +1,3 @@
-Power to exclude public.
+Power to exclude public. (repealed)
 
 16.—(1) ...

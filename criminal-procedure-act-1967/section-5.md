@@ -1,5 +1,5 @@
 ## PART II GUILTY PLEAS AND OTHER MATTERS
 
-Procedure.
+Procedure. (repealed)
 
 5.—...
