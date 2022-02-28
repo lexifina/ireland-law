@@ -64,13 +64,13 @@ Extension of retention period under section 8 for fingerprints, palm prints and 
 
 (11) In this section—
 
-‘child’ means a person who has not attained the age of 18 years;
+"child" means a person who has not attained the age of 18 years;
 
-‘civil partner’ has the meaning it has in section 3 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+"civil partner" has the meaning it has in section 3 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
-‘cohabitant’, in relation to a person, means another person who is neither married to the person nor a civil partner of the person who is living with the person as a husband or wife, or as a civil partner, of the person;
+"cohabitant", in relation to a person, means another person who is neither married to the person nor a civil partner of the person who is living with the person as a husband or wife, or as a civil partner, of the person;
 
-‘vulnerable person’ means a person, other than a child, whose capacity to guard himself or herself against violence, exploitation or abuse, whether physical, sexual or emotional, by another person is significantly impaired through—
+"vulnerable person" means a person, other than a child, whose capacity to guard himself or herself against violence, exploitation or abuse, whether physical, sexual or emotional, by another person is significantly impaired through—
 
 (a) a physical disability, illness or injury,
 

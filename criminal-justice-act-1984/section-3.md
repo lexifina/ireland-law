@@ -4,13 +4,13 @@ Interpretation.
 
 “the Act of 1939” means the Offences against the State Act, 1939;
 
-‘Commissioner’ means the Commissioner of the Garda Síochána;
+"Commissioner" means the Commissioner of the Garda Síochána;
 
 “imprisonment” includes penal servitude and detention in Saint Patrick’s Institution;
 
 “place” includes any building or part of a building, vehicle, vessel, aircraft or hovercraft and any other place whatsoever.
 
-‘photograph’ includes a negative or any other image howsoever produced of a photograph.
+"photograph" includes a negative or any other image howsoever produced of a photograph.
 
 (2) Any reference in this Act to any other enactment shall, except so far as the context otherwise requires, be construed as a reference to that enactment as amended by or under any other enactment, including this Act.
 
