@@ -16,4 +16,4 @@ F4[Accused to be sent forward for trial.
 
 (4) The striking out of proceedings under subsection (3) shall not prejudice the institution of proceedings against the accused by the prosecutor.
 
-(5) The accused shall not be sent forward for trial under subsection (1) until the documents mentioned in section 4B(1) have been served on the accused.
+(5) The accused shall not be sent forward for trial under subsection (1) until the documents mentioned in section 4B(1) have been served in accordance with that section.
