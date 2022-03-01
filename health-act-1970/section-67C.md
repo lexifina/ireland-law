@@ -2,7 +2,7 @@ Residential support services maintenance and accommodation contributions.
 
 67C.— (1) (a) Subject to subsections (3) to (6) and section 67D, a person provided with residential support services, whether provided by the Health Service Executive or on behalf of the Health Service Executive, shall pay a financial contribution, in accordance with regulations made by the Minister under this section, towards the costs of maintenance or accommodation, or both, associated with the provision of such residential support services.
 
-(b) In this section and in sections 67B and 67D, a ‘residential support services maintenance and accommodation contribution’ means a contribution required to be paid pursuant to this section and regulations made under subsection (2).
+(b) In this section and in sections 67B and 67D, a "residential support services maintenance and accommodation contribution" means a contribution required to be paid pursuant to this section and regulations made under subsection (2).
 
 (2) (a) The Minister may, with the consent of the Minister for Public Expenditure and Reform, make regulations—
 
@@ -22,7 +22,7 @@ Residential support services maintenance and accommodation contributions.
 
 (3) (a) The amount of a contribution required to be paid pursuant to regulations made under subsection (2) shall be expressed as a daily amount, which amount shall not exceed 80 per cent of the maximum daily rate of the State pension (non-contributory).
 
-(aa) The daily amount of the contribution required from a person to whom paragraph (b) of the definition of ‘accommodation’ in section 67A(1) applies shall be reduced by one-seventh of whichever of the following 2 amounts is the greater:
+(aa) The daily amount of the contribution required from a person to whom paragraph (b) of the definition of "accommodation" in section 67A(1) applies shall be reduced by one-seventh of whichever of the following 2 amounts is the greater:
 
 (i) the amount that the person provides for his or her accommodation, as calculated pro rata on a weekly basis, less—
 

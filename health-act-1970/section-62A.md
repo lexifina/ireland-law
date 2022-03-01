@@ -14,6 +14,6 @@ Services for women in accordance with Act of 2018.
 
 (5) In this section—
 
-‘Act of 2013’ means Health (Pricing and Supply of Medical Goods) Act 2013;
+"Act of 2013" means Health (Pricing and Supply of Medical Goods) Act 2013;
 
-‘Act of 2018’ means the Health (Regulation of Termination of Pregnancy) Act 2018.
+"Act of 2018" means the Health (Regulation of Termination of Pregnancy) Act 2018.

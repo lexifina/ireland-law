@@ -18,8 +18,8 @@ Information to be provided to Health Service Executive by home care providers.
 
 (3) In this section—
 
-‘home care provider’ means a natural or legal person who, whether or not pursuant to arrangements referred to in section 61(1), provides, at a charge, home care services;
+"home care provider" means a natural or legal person who, whether or not pursuant to arrangements referred to in section 61(1), provides, at a charge, home care services;
 
-‘home care service’ means a service made available in a private dwelling for a person who, by reason of illness, frailty or disability, is unable to provide the service for himself or herself without assistance;
+"home care service" means a service made available in a private dwelling for a person who, by reason of illness, frailty or disability, is unable to provide the service for himself or herself without assistance;
 
-‘private dwelling’, in relation to a person referred to in the definition of ‘home care service’, means a permanent dwelling that is not open to the general public to visit unless invited and where that person habitually resides.
+"private dwelling", in relation to a person referred to in the definition of "home care service", means a permanent dwelling that is not open to the general public to visit unless invited and where that person habitually resides.

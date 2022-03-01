@@ -26,6 +26,6 @@ Arrangements in relation to health services.
 
 (g) the policies and objectives of the Government to protect and improve the health and welfare of the public.
 
-(4) In this section, ‘transition period’ means the transition period provided in Article 126 of the Agreement on the Withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Agency Community.
+(4) In this section, "transition period" means the transition period provided in Article 126 of the Agreement on the Withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Agency Community.
 
 OJ No. CI 384, 12.11.2019, p.1
