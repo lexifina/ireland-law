@@ -36,19 +36,19 @@ F113[Agreement for provision of service under section 58B
 
 (12) In this section—
 
-‘eligible persons’ means persons who are entitled under section 58B (inserted by section 5 of the Health (General Practitioner Service) Act 2014) to have relevant services made available to them;
+"eligible persons" means persons who are entitled under section 58B (inserted by section 5 of the Health (General Practitioner Service) Act 2014) to have relevant services made available to them;
 
-‘General Medical Services Scheme’ has the meaning it has under section 1 of the Health (Provision of General Practitioner Services) Act 2012;
+"General Medical Services Scheme" has the meaning it has under section 1 of the Health (Provision of General Practitioner Services) Act 2012;
 
-‘registered medical practitioner’ has the same meaning as it has in section 2 of the Medical Practitioners Act 2007;
+"registered medical practitioner" has the same meaning as it has in section 2 of the Medical Practitioners Act 2007;
 
-‘relevant medical practitioner’, subject to subsection (11), means a registered medical practitioner—
+"relevant medical practitioner", subject to subsection (11), means a registered medical practitioner—
 
 (a) whose name is included in the Specialist Division of the register of medical practitioners established under section 43(2) (b) of the Medical Practitioners Act 2007, and
 
 (b) who holds a current certificate of registration within the meaning of section 2 of that Act in respect of the medical speciality “General Practice” recognised under section 89(1) of that Act;
 
-‘relevant services’ means the services that constitute the general practitioner medical and surgical service referred to in section 58B(1).
+"relevant services" means the services that constitute the general practitioner medical and surgical service referred to in section 58B(1).
 
 (13) Notwithstanding any other part of this section, the agreement, referred to in subsection (1) shall not:
 

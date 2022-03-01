@@ -1,4 +1,4 @@
-F89[ Charges for acute in-patient services.
+F89[Charges for acute in-patient services.
 
 53C.— (1) Charges shall be made for acute in-patient services provided by or on behalf of the Health Service Executive to a person who is a member of a class of persons specified in regulations made under subsection (3) for the purpose of this section.
 

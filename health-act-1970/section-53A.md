@@ -1,4 +1,4 @@
-F84[ Charges for in-patient services in certain cases.
+F84[Charges for in-patient services in certain cases.
 
 53A.—(1) This section applies where—
 
