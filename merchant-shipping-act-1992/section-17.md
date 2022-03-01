@@ -8,7 +8,9 @@ Production of licences and marking of passenger boats.
 
 (b) In a prosecution for an offence under this subsection, it shall be presumed, unless the contrary is shown by the defendant, that he did not within 10 days after the date of the request concerned produce a licence or copy, or, as the case may be, the proof referred to in paragraph (a), in accordance with that paragraph.
 
-(c) A person who, when the production of a licence or a copy of a licence or the proof aforesaid is requested of him under this section, does not produce the licence or copy or, as the case may be, the proof aforesaid because a licence was not in force at the time of the request in respect of the passenger boat concerned or does not produce such proof because of non-compliance in respect of the passenger boat concerned with regulations under section 18 (2) (d) shall be deemed, for the purposes of paragraph (a), to fail to produce the licence or a copy thereof or, as the case may be, the proof aforesaid.
+(c) A person who, when the production of a licence or a copy of a licence or the proof aforesaid is requested of him under this section, does not produce the licence or copy or, as the case may be, the proof aforesaid because a licence was not in force at the time of the request in respect of the passenger boat concerned or does not produce such proof because of non-compliance in respect of the passenger boat concerned with regulations under section 18
+
+(2) (d) shall be deemed, for the purposes of paragraph (a), to fail to produce the licence or a copy thereof or, as the case may be, the proof aforesaid.
 
 (2) A vessel shall not be used as a passenger boat unless there is painted on the outside of each side of the vessel above the waterline, in a colour contrasting with that of the outside of the vessel and in letters and figures that are not less than 3 centimetres in height and are formed by lines that are not less than one-half centimetre in width—
 
