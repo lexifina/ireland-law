@@ -32,7 +32,7 @@ Interpretation.
 
 “contravenes” includes refuses or fails to comply with, and “contravention” shall be construed accordingly;
 
-‘detachable disc’ means that part of a test certificate, for the time being in force in respect of a vehicle, which may be detached from the certificate to be affixed to the vehicle;
+"detachable disc" means that part of a test certificate, for the time being in force in respect of a vehicle, which may be detached from the certificate to be affixed to the vehicle;
 
 “driving” includes managing and controlling and, in relation to a bicycle or tricycle, riding, and “driver” and other cognate words shall be construed accordingly;
 
@@ -42,17 +42,17 @@ Interpretation.
 
 (b) a foreign driving licence;
 
-‘EU roadworthiness certificate’ in relation to a vehicle means a roadworthiness certificate within the meaning of the Roadworthiness Directive issued by a Member State competent authority or a Member State testing centre which has not expired or otherwise been cancelled or revoked and, insofar as the frequency intervals for vehicle testing are concerned, is still valid by reference to the frequency intervals prescribed by regulations made under section 18 for tests of mechanically propelled vehicles;
+"EU roadworthiness certificate" in relation to a vehicle means a roadworthiness certificate within the meaning of the Roadworthiness Directive issued by a Member State competent authority or a Member State testing centre which has not expired or otherwise been cancelled or revoked and, insofar as the frequency intervals for vehicle testing are concerned, is still valid by reference to the frequency intervals prescribed by regulations made under section 18 for tests of mechanically propelled vehicles;
 
 “footway” means that portion of any road which is provided primarily for the use of pedestrians;
 
-‘foreign driving licence’ means a licence or permit to drive a mechanically propelled vehicle—
+"foreign driving licence" means a licence or permit to drive a mechanically propelled vehicle—
 
 (a) in respect of a category of vehicle referred to in the European Communities (Recognition of Driving Licences of Other Member States) Regulations 2008 (S.I. No. 464 of 2008) issued by the competent authority of another Member State or a member state of the European Economic Area, but does not include a licence or permit so issued to a person to enable the person to learn to drive or provisionally to drive a vehicle, or
 
 (b) recognised by an order made under section 23A(1);
 
-‘general speed limit’ means a speed limit under section 44A of this Act;
+"general speed limit" means a speed limit under section 44A of this Act;
 
 “hire-drive agreement” means, in relation to a mechanically propelled vehicle, an agreement under which the vehicle is hired from its registered owner, other than—
 
@@ -64,7 +64,7 @@ Interpretation.
 
 “the insured” has the meaning assigned to it in paragraph (a) of subsection (1) of section 62;
 
-‘Irish driving licence’ means a driving licence (within the meaning of section 22(1)) granted by a licensing authority under section 23;
+"Irish driving licence" means a driving licence (within the meaning of section 22(1)) granted by a licensing authority under section 23;
 
 “large public service vehicle” means a public service vehicle having seating passenger accommodation for more than eight persons exclusive of the driver;
 
@@ -74,23 +74,23 @@ Interpretation.
 
 (b) a vehicle the means of propulsion of which is electrical or partly electrical and partly mechanical, but not including a tramcar or other vehicle running on permanent rails;
 
-‘Member State competent authority’ means an authority or public body in a Member State, other than the State, with responsibility for managing the system of roadworthiness testing in that Member State, including, where appropriate, the carrying out of roadworthiness tests for the purposes of the Roadworthiness Directive;
+"Member State competent authority" means an authority or public body in a Member State, other than the State, with responsibility for managing the system of roadworthiness testing in that Member State, including, where appropriate, the carrying out of roadworthiness tests for the purposes of the Roadworthiness Directive;
 
-‘Member State testing centre’ means a public or private body or establishment in a Member State, other than the State, authorised to carry out roadworthiness tests in that Member State for the purposes of the Roadworthiness Directive;
+"Member State testing centre" means a public or private body or establishment in a Member State, other than the State, authorised to carry out roadworthiness tests in that Member State for the purposes of the Roadworthiness Directive;
 
-‘Minister’ means Minister for Transport;
+"Minister" means Minister for Transport;
 
 “mobile weighbridge” has the meaning specified in subsection (7) of section 15;
 
-‘motorway’ has the meaning assigned to it by the Roads Act, 1993;
+"motorway" has the meaning assigned to it by the Roads Act, 1993;
 
-‘motorway speed limit’ has the meaning assigned to it by section 44B (inserted by the Road Traffic Act, 1994) of this Act;
+"motorway speed limit" has the meaning assigned to it by section 44B (inserted by the Road Traffic Act, 1994) of this Act;
 
 “omnibus” means a large public service vehicle which is for the time being used on a definite route for the carriage of passengers who are carried at separate fares and are picked up and set down along such route whether on request or at fixed stopping places;
 
 “ordinary speed limit” has the meaning specified in subsection (3) of section 44;
 
-‘owner’, when used in relation to a mechanically propelled vehicle, trailer or semi-trailer which is the subject of a hire-purchase agreement or letting agreement, means the person in possession of the vehicle under the agreement;
+"owner", when used in relation to a mechanically propelled vehicle, trailer or semi-trailer which is the subject of a hire-purchase agreement or letting agreement, means the person in possession of the vehicle under the agreement;
 
 “park”, in relation to a vehicle, means keep or leave stationary, and cognate words shall be construed accordingly;
 
@@ -104,7 +104,7 @@ Interpretation.
 
 “pedal tricycle” means a tricycle which is intended or adapted for propulsion solely by the physical exertions of a person or persons seated thereon;
 
-‘pedestrian controlled vehicle’ means a mechanically propelled vehicle—
+"pedestrian controlled vehicle" means a mechanically propelled vehicle—
 
 (a) which is neither intended nor adapted for use for carrying the driver or a passenger, or
 
@@ -116,7 +116,7 @@ Interpretation.
 
 “principal debtor” has the meaning assigned to it in paragraph (a) of subsection (1) of section 63;
 
-‘public place’ means—
+"public place" means—
 
 (a) any public road, and
 
@@ -126,13 +126,13 @@ Interpretation.
 
 “public service vehicle” means a mechanically propelled vehicle or combination of vehicles used for the carriage of persons for reward;
 
-‘registered owner’ has the meaning assigned to it by the Road Vehicles (Registration and Licensing) (Amendment) Regulations 1992 (S.I. No. 385 of 1992) (as amended by the Road Vehicles (Registration and Licensing) (Amendment) Regulations 2004 (S.I. No. 213 of 2004)), but, if those regulations should be revoked, it shall have the meaning assigned to it by such regulations corresponding to those regulations as may for the time being be in force;
+"registered owner" has the meaning assigned to it by the Road Vehicles (Registration and Licensing) (Amendment) Regulations 1992 (S.I. No. 385 of 1992) (as amended by the Road Vehicles (Registration and Licensing) (Amendment) Regulations 2004 (S.I. No. 213 of 2004)), but, if those regulations should be revoked, it shall have the meaning assigned to it by such regulations corresponding to those regulations as may for the time being be in force;
 
 “the repealed Act” means the Road Traffic Act, 1933 (repealed by this Act);
 
 “road” includes any bridge, pipe, arch, gully, footway, pavement, fence, railing or wall forming part thereof;
 
-‘road authority’ means—
+"road authority" means—
 
 (a) a county council, referred to in Part 1 of Schedule 5,
 
@@ -146,13 +146,13 @@ Interpretation.
 
 “roadway” means that portion of a road which is provided primarily for the use of vehicles;
 
-‘Roadworthiness Directive’ means Directive 2014/45/EU of the European Parliament and of the Council of 3 April 2014;
+"Roadworthiness Directive" means Directive 2014/45/EU of the European Parliament and of the Council of 3 April 2014;
 
 “small public service vehicle” means a public service vehicle which is not a large public service vehicle;
 
 “special disqualification order” has the meaning specified in subsection (5) of section 28;
 
-‘special speed limit’ has the meaning assigned to it by section 46 (inserted by the Road Traffic Act, 1994) of this Act;
+"special speed limit" has the meaning assigned to it by section 46 (inserted by the Road Traffic Act, 1994) of this Act;
 
 “street service vehicle” means a small public service vehicle the driver of which offers in a public place himself and the vehicle for hire and for that purpose stands or drives the vehicle in a public place;
 
@@ -166,7 +166,7 @@ Interpretation.
 
 “use”, in relation to a vehicle, includes park, and cognate words shall be construed accordingly;
 
-‘vehicle’ means a mechanically propelled vehicle, a trailer or semi-trailer, an animal-drawn vehicle or a pedal cycle;
+"vehicle" means a mechanically propelled vehicle, a trailer or semi-trailer, an animal-drawn vehicle or a pedal cycle;
 
 “vehicle guarantor” has the meaning specified in section 59;
 

@@ -1,6 +1,6 @@
 Application for Irish driving licence.
 
-22.—(1) Subject to this Part, a person may apply to a licensing authority for a licence (‘Irish driving licence’) to drive a mechanically propelled vehicle of a specified category.
+22.—(1) Subject to this Part, a person may apply to a licensing authority for a licence ("Irish driving licence") to drive a mechanically propelled vehicle of a specified category.
 
 (2) An application for an Irish driving licence—
 
@@ -36,4 +36,4 @@ Application for Irish driving licence.
 
 (ii) such other categories of person and the purpose for such access as may be prescribed.
 
-(5) In this section ‘licence records’ means records maintained under section 60 (as amended by section 86 of the Finance Act 1994) of the Finance Act 1993.
+(5) In this section "licence records" means records maintained under section 60 (as amended by section 86 of the Finance Act 1994) of the Finance Act 1993.

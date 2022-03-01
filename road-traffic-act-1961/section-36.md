@@ -42,4 +42,4 @@ Order for endorsement in case of conviction, disqualification order or removal o
 
 (c) under section 29 of this Act removing a consequential or ancillary disqualification.
 
-(9) In this section, ‘entry’ has the meaning assigned to it by the Road Traffic Act, 2002.
+(9) In this section, "entry" has the meaning assigned to it by the Road Traffic Act, 2002.

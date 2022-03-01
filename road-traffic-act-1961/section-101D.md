@@ -2,7 +2,7 @@ Roadworks.
 
 101D.—(1) In this section—
 
-‘local authority’ means—
+"local authority" means—
 
 (a) the council of a county,
 
@@ -10,9 +10,9 @@ Roadworks.
 
 (c) the council of an urban district standing prescribed for the time being for the purposes of this section;
 
-‘roadworks’ means repairs, maintenance, alterations, improvements or installations or any other works to, above or under, a public road;
+"roadworks" means repairs, maintenance, alterations, improvements or installations or any other works to, above or under, a public road;
 
-‘emergency roadworks’ means roadworks the carrying out of which is immediately required in order to prevent, or reduce the risk of, loss, injury or damage to persons or property.
+"emergency roadworks" means roadworks the carrying out of which is immediately required in order to prevent, or reduce the risk of, loss, injury or damage to persons or property.
 
 (2) (a) Notwithstanding any other enactment, a local authority may give a direction in writing to any person in relation to the carrying out of roadworks in its functional area.
 

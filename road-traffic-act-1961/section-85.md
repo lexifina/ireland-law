@@ -22,6 +22,6 @@ Stopping places and stands for omnibuses.
 
 (7) In this section—
 
-‘bus’ means omnibus;
+"bus" means omnibus;
 
-‘road authority’ has the meaning assigned to it by the Roads Act, 1993.
+"road authority" has the meaning assigned to it by the Roads Act, 1993.

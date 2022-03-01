@@ -2,19 +2,19 @@ Immobilisation, removal etc. of unlawfully parked vehicles.
 
 101B. (1) In this section—
 
-‘clamping officer’ means—
+"clamping officer" means—
 
 (a) a member of the Garda Síochána,
 
 (b) a traffic warden (within the meaning of the Local Authorities (Traffic Wardens) Act 1975), or
 
-(c) a person or a class of persons authorised by a local authority under subsection (2) ;
+(c) a person or a class of persons authorised by a local authority under subsection (2);
 
-‘immobilisation device’ means any device or appliance designed or adapted for fixing to a vehicle for the purpose of preventing it from being driven or otherwise put in motion;
+"immobilisation device" means any device or appliance designed or adapted for fixing to a vehicle for the purpose of preventing it from being driven or otherwise put in motion;
 
-‘prescribed charge’ means the amount of the charge prescribed under subsection (7) (a) and includes, where a vehicle is moved to another place for the purpose of fixing an immobilisation device to it, the costs involved in the removal of the vehicle;
+"prescribed charge" means the amount of the charge prescribed under subsection (7) (a) and includes, where a vehicle is moved to another place for the purpose of fixing an immobilisation device to it, the costs involved in the removal of the vehicle;
 
-‘vehicle’ means a mechanically propelled vehicle, a trailer or semi-trailer or a combination of two or more of them.
+"vehicle" means a mechanically propelled vehicle, a trailer or semi-trailer or a combination of two or more of them.
 
 (2) A local authority may authorise a person or a class of persons for the purposes of this section to fix immobilisation devices to vehicles within its functional area.
 

@@ -1,6 +1,6 @@
 Provisional licence.
 
-35.—(1) A person who wants to learn to drive a mechanically propelled vehicle of any category in order to pass a test for a certificate of competency may, except in such cases as may be prescribed, apply for a permit (‘learner permit’) licensing him or her provisionally to drive a mechanically propelled vehicle of that category in a public place.
+35.—(1) A person who wants to learn to drive a mechanically propelled vehicle of any category in order to pass a test for a certificate of competency may, except in such cases as may be prescribed, apply for a permit ("learner permit") licensing him or her provisionally to drive a mechanically propelled vehicle of that category in a public place.
 
 (2) An application for a learner permit shall be—
 
