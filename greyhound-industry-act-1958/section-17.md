@@ -1,0 +1,3 @@
+Power of the Board to borrow. (Repealed)
+
+17. — ...
