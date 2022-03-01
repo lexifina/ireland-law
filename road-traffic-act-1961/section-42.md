@@ -1,6 +1,6 @@
 Regulations under Part III.
 
-42.—(1) In this section ‘licence’ means a driving licence or learner permit.
+42.—(1) In this section "licence" means a driving licence or learner permit.
 
 (2) The Minister may make regulations to provide for all or any of the following:
 

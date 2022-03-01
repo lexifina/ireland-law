@@ -16,4 +16,4 @@ Removal of disqualification under consequential or ancillary disqualification or
 
 (6) The court hearing an application under this section may order the applicant to pay the whole or any part of the costs.
 
-(7) In this section ‘disqualification order’ means a consequential or an ancillary disqualification order.
+(7) In this section "disqualification order" means a consequential or an ancillary disqualification order.

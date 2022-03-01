@@ -4,9 +4,9 @@ Excepted persons.
 
 (a)any person claiming in respect of injury to himself sustained while he was in or on a mechanically propelled vehicle (or a vehicle drawn thereby) to which the relevant document relates, other than a mechanically propelled vehicle, or a drawn vehicle, or vehicles forming a combination of vehicles, of a class specified for the purposes of this paragraph by regulations made by the Minister, provided that such regulations shall not extend compulsory insurance in respect of civil liability to passengers to—
 
-(i)any part of a mechanically propelled vehicle, other than a large public service vehicle, unless that part is designed and constructed with seating accommodation for passengers, or
+(i) any part of a mechanically propelled vehicle, other than a large public service vehicle, unless that part is designed and constructed with seating accommodation for passengers, or
 
-(ii)a passenger seated in a caravan attached to a mechanically propelled vehicle while such a combination of vehicles is moving in a public place.
+(ii) a passenger seated in a caravan attached to a mechanically propelled vehicle while such a combination of vehicles is moving in a public place.
 
 (b) any person claiming in respect of injury to person to another person where—
 

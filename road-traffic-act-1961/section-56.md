@@ -40,8 +40,8 @@ Obligation to be insured or guaranteed.
 
 (9) In this Part —
 
-‘designated territories’ means the territories of the Member States (other than the State) and Croatia, Iceland, Norway and Switzerland;
+"designated territories" means the territories of the Member States (other than the State) and Croatia, Iceland, Norway and Switzerland;
 
-‘mechanically propelled vehicle’ includes a semi-trailer or trailer when used in a public place.
+"mechanically propelled vehicle" includes a semi-trailer or trailer when used in a public place.
 
 (10) ...

@@ -18,4 +18,4 @@ F167[ Vehicle insurers to provide details of motor insurance policies.
 
 (g) ...
 
-(2) In this subsection ‘motor insurance policies’ means approved policies of insurance (within the meaning of section 62) issued by a vehicle insurer.
+(2) In this subsection "motor insurance policies" means approved policies of insurance (within the meaning of section 62) issued by a vehicle insurer.
