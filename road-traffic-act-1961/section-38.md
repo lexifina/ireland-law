@@ -39,3 +39,17 @@ Prohibition on driving without driving licence.
 (a) is committing, or has committed, an offence under subsection (1), and
 
 (b) is disqualified from holding a driving licence.
+
+(9) In this section, notwithstanding the definition of driving licence in section 3, "driving licence" means —
+
+(a) an Irish driving licence,
+
+(b) a licence or permit to drive a mechanically propelled vehicle in respect of a category of vehicle referred to in the European Communities (Recognition of Driving Licences of Other Member States) Regulations 2008 issued by the competent authority of another Member State or a member state of the European Economic Area, but does not include a licence or permit so issued to a person to enable the person to learn to drive or provisionally to drive a vehicle,
+
+(c) a licence or permit to drive a mechanically propelled vehicle in respect of a category of vehicle recognised by an order made under section 23A(1), or
+
+(d) both—
+
+(i) a licence or permit to drive a mechanically propelled vehicle in respect of a category of vehicle recognised by an order made under section 23B(1), and
+
+(ii) the permission to reside given to a relevant person who holds the licence or permit referred to in subparagraph (i).
