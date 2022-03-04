@@ -1,0 +1,9 @@
+Number 1 of 2022
+
+ELECTRICITY COSTS (DOMESTIC ELECTRICITY ACCOUNTS) EMERGENCY MEASURES ACT 2022
+
+An Act to make provision, due to the exceptional rise in global energy prices, for the establishment of a scheme to be known as the Electricity Costs Emergency Benefit Scheme for the purpose of making, on a once-off basis, an electricity costs emergency benefit payment in the year ending 31 December 2022 in respect of domestic electricity accounts in accordance with this Act out of resources available to the Minister for the Environment, Climate and Communications; for that purpose to confer functions on the distribution system operator and electricity suppliers; to confer functions on the Commission for Regulation of Utilities in relation to the Scheme and for that purpose to amend the Electricity Regulation Act 1999; to provide that electricity costs emergency benefit payments are exempt from income tax and for that purpose to amend the Taxes Consolidation Act 1997; to enable the Minister for the Environment, Climate and Communications to make regulations in relation to the operation of the Scheme; and to provide for related matters.
+
+[4th March, 2022]
+
+Be it enacted by the Oireachtas as follows:
