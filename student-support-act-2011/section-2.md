@@ -44,7 +44,7 @@ Interpretation.
 
 “inquiry officer” means a person appointed pursuant to section 22;
 
-‘local authority’ means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
+"local authority" means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
 
 “Minister” means the Minister for Education and Skills;
 
@@ -62,7 +62,7 @@ Interpretation.
 
 “relevant Minister” shall be construed in accordance with section 9(8);
 
-‘relevant specified jurisdiction’ means—
+"relevant specified jurisdiction" means—
 
 (a) a country that, as respects a class of person standing prescribed under section 14A(1) for the purposes of section 14(1)(aa), is specified in the regulations concerned under section 14A(1) prescribing that class, or
 
