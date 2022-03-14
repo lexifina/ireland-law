@@ -18,11 +18,11 @@ Committees of Council.
 
 (5) Subject to subsections (7) and (8), a committee may include in its membership persons who are not members of the Council.
 
-(6) The chairperson of a section 20(2) committee shall be a member of the Council other than the President or Vice-President of the Council.
+(6) ...
 
 (7) No person shall be a member of more than one section 20(2) committee.
 
-(8) At least one third of the members of a section 20(2) committee, including the chairperson, shall be members of the Council.
+(8) At least one third of the members of a section 20(2) committee ... shall be members of the Council.
 
 (9) Subject to subsection (10), at least one third of the membership of the Fitness to Practise Committee shall consist of medical practitioners.
 
