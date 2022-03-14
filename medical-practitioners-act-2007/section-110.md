@@ -32,17 +32,17 @@ Special measures registration having regard to Covid-19.
 
 (8) In this section—
 
-‘previous registrant’ means a former registered medical practitioner whose name was removed from the register;
+"previous registrant" means a former registered medical practitioner whose name was removed from the register;
 
-‘section 110 application’ means an application under subsection (1);
+"section 110 application" means an application under subsection (1);
 
-‘section 110 registrant’ means a registered medical practitioner who is such pursuant to—
+"section 110 registrant" means a registered medical practitioner who is such pursuant to—
 
 (a) the Council’s determination of a section 110 application, or
 
 (b) a decision (howsoever called) of the Court arising from the Council’s determination of a section 110 application;
 
-‘section 110 registration’ means a registration effected pursuant to—
+"section 110 registration" means a registration effected pursuant to—
 
 (a) the Council’s determination of a section 110 application, or
 
