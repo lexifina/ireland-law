@@ -36,9 +36,9 @@ Complaints concerning registered medical practitioners.
 
 (a) if it is of the opinion that—
 
-(i) the nature of the offence that is the subject of the complaint or the circumstances in which the offence was committed render the practitioner permanently unfit to continue to practise medicine, and
+(i) the nature of the offence that is the subject of the complaint or the circumstances in which the offence was committed render the practitioner a person who has permanently ceased to be a fit and proper person to continue to practise medicine, and
 
-(ii) it is in the public interest that it take action immediately under this paragraph, the Council shall decide under section 71 to impose on the practitioner the sanction referred to in section 71(f) as if the complaint were a report referred to in section 69(1) of the Fitness to Practise Committee in relation to the complaint, and the other provisions of Part 9 (except section 72(2)) shall apply to that decision accordingly,
+(ii) it is in the public interest that it take action immediately under this paragraph, the Council shall decide under section 71 to impose on the practitioner the sanction referred to in section 71(1)(f) as if the complaint were a report referred to in section 69(1) of the Fitness to Practise Committee in relation to the complaint, and the other provisions of Part 9 (except section 72(2)) shall apply to that decision accordingly,
 
 (b) in any other case, shall refer the complaint back to the Preliminary Proceedings Committee and direct the Committee to deal with the complaint as if the complaint had never been so referred.
 

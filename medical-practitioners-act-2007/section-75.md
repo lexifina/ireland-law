@@ -1,6 +1,6 @@
 Appeal to Court against Council’s decision under section 71 .
 
-75.— (1) A registered medical practitioner the subject of a decision under section 71 or 71A to impose a sanction (other than a sanction referred to in section 71(a) or 71A(a)) may, not later than 21 days after the practitioner received the notice under section 73(1) of the decision, appeal to the Court against the decision.
+75.— (1) A registered medical practitioner the subject of a decision under section 71(1) or 71A(1) to impose a sanction (other than a sanction arising from measures referred to in section 71(2) or 71A(2)) may, not later than 21 days after the notice under section 73(1) of the decision was given by the Council, appeal to the Court against the decision.
 
 (2) The Court may, on the hearing of an appeal under subsection (1) by a medical practitioner, consider any evidence adduced or argument made, whether or not adduced or made to the Fitness to Practise Committee.
 
