@@ -4,7 +4,7 @@ Interpretation.
 
 “act” includes omission;
 
-‘country’ includes—
+"country" includes—
 
 (a) a place or territory for whose external relations a country, other than that place or territory, is (in whole or in part) responsible, and
 
@@ -32,7 +32,7 @@ Interpretation.
 
 “person claimed” means a person whose extradition is requested;
 
-‘political offence’ does not include any of the following:
+"political offence" does not include any of the following:
 
 (a) the taking or attempted taking of the life of a Head of State or a member of his family;
 
@@ -48,21 +48,21 @@ Interpretation.
 
 “requesting country” means a country which requests extradition;
 
-‘revenue offence’, in relation to any country or place outside the State, means an offence in connection with taxes, duties, customs or exchange control but does not include an offence involving the use or threat of force or perjury or the forging of a document issued under statutory authority or an offence alleged to have been committed by an officer of the revenue of that country or place in his capacity as such officer or an offence within the scope of Article 3 of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances done at Vienna on the 20th day of December, 1988;
+"revenue offence", in relation to any country or place outside the State, means an offence in connection with taxes, duties, customs or exchange control but does not include an offence involving the use or threat of force or perjury or the forging of a document issued under statutory authority or an offence alleged to have been committed by an officer of the revenue of that country or place in his capacity as such officer or an offence within the scope of Article 3 of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances done at Vienna on the 20th day of December, 1988;
 
 ...
 
 “sentence” includes detention order.
 
-‘torture’ has the meaning assigned to it by the Criminal Justice (United Nations Convention against Torture) Act, 2000.
+"torture" has the meaning assigned to it by the Criminal Justice (United Nations Convention against Torture) Act, 2000.
 
-(1A) For the purposes of the amendments to this Act effected by Part 2 of the Extradition (European Union Conventions) Act 2001, ‘Convention country’ means—
+(1A) For the purposes of the amendments to this Act effected by Part 2 of the Extradition (European Union Conventions) Act 2001, "Convention country" means—
 
 (a) a country designated under section 4(1) of that Act, or
 
 (b) in such provisions of this Act as are specified in an order under subsection (1A) (inserted by section 52 of the European Arrest Warrant Act 2003) of section 4 of the Extradition (European Union Conventions) Act 2001, a country designated by that order, to which the provisions so specified apply.
 
-(1B) For the purposes of the amendments to this Act effected by Part 3 of the Extradition (European Union Conventions) Act 2001, ‘Convention country’ means—
+(1B) For the purposes of the amendments to this Act effected by Part 3 of the Extradition (European Union Conventions) Act 2001, "Convention country" means—
 
 (a) a country designated under section 10(1) of that Act, or
 
