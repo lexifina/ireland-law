@@ -16,13 +16,13 @@ Extraditable offences.
 
 (b) an offence punishable under the laws of that country and of the State in respect of which there is a failure to comply with subsection (1A), extradition may, subject to this Part, be granted in respect of the second-mentioned offence, but where extradition is refused for the first-mentioned offence it shall be refused for the second-mentioned offence also.
 
-(3) In this section ‘an offence punishable under the laws of the State’ means—
+(3) In this section "an offence punishable under the laws of the State" means—
 
 (a) an act that, if committed in the State on the day on which the request for extradition is made, would constitute an offence, or
 
-(b) in the case of an offence under the law of a requesting country consisting of the commission of one or more acts including any act committed in the State (in this paragraph referred to as ‘the act concerned’), such one or more acts, being acts that, if committed in the State on the day on which the act concerned was committed or alleged to have been committed would constitute an offence, and cognate words shall be construed accordingly.
+(b) in the case of an offence under the law of a requesting country consisting of the commission of one or more acts including any act committed in the State (in this paragraph referred to as "the act concerned"), such one or more acts, being acts that, if committed in the State on the day on which the act concerned was committed or alleged to have been committed would constitute an offence, and cognate words shall be construed accordingly.
 
-(4) In this section ‘an offence punishable under the laws of the requesting country’ means an offence punishable under the laws of the requesting country on—
+(4) In this section "an offence punishable under the laws of the requesting country" means an offence punishable under the laws of the requesting country on—
 
 (a) the day on which the offence was committed or is alleged to have been committed, and
 
