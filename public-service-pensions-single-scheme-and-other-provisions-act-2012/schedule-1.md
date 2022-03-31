@@ -32,18 +32,20 @@ BODIES TO WHICH THE DEFINITION OF “PUBLIC SERVICE BODY” DOES NOT APPLY
 
 15. Irish Aviation Authority.
 
-16. An Post.
+16. Land Development Agency.
 
-17. An Post National Lottery Company.
+17. An Post.
 
-18. Raidió Teilifís Éireann.
+18. An Post National Lottery Company.
 
-19. Shannon Airport Authority, public limited company.
+19. Raidió Teilifís Éireann.
 
-20. Teilifís na Gaeilge.
+20. Shannon Airport Authority, public limited company.
 
-21. Railway Procurement Agency.
+21. Teilifís na Gaeilge.
 
-22. Voluntary Health Insurance Board.
+22. Railway Procurement Agency.
 
-23. A subsidiary of a body to which this Schedule relates, including a subsidiary of such a subsidiary.
+23. Voluntary Health Insurance Board.
+
+24. A subsidiary of a body to which this Schedule relates, including a subsidiary of such a subsidiary.
