@@ -1,6 +1,6 @@
 Provision of social and affordable housing, etc..
 
-96.—(1) Subject to subsection (13) and section 97, the provisions of this section shall apply to an application for permission for the development of houses on land, or where an application relates to a mixture of developments, to that part of the application which relates to the development of houses on such land, in addition to the provisions of section 34.
+96.—(1) Subject to subsection (13) and section 97, the provisions of this section shall apply to an application for permission for the development of houses on land, or where an application relates to a mixture of developments, to that part of the application which relates to the development of houses on such land, in addition to the provisions of section 34 and, where applicable, Part 9 of the Land Development Agency Act 2021.
 
 (2) A planning authority, or the Board on appeal, shall require as a condition of a grant of permission that the applicant, or any other person with an interest in the land to which the application relates, prior to the lodgement of a commencement notice within the meaning of Part II of the Building Control Regulations 1997, enter into an agreement under this section with the planning authority, providing, in accordance with this section, for the matters referred to in paragraph (a) or (b) of subsection (3).
 
@@ -132,6 +132,8 @@ Provision of social and affordable housing, etc..
 
 (b) A nominee of a planning authority may be a person eligible for social housing support within the meaning of the Housing (Miscellaneous Provisions) Act 2009 , an eligible applicant within the meaning of Part 2 of the Affordable Housing Act 2021 or a body approved for the purposes of section 6 of the Housing (Miscellaneous Provisions) Act 1992 for the provision of housing of the type referred to in section 94(4)(a).
 
+(10A) A dwelling that is the subject of an agreement referred to in section 75 of the Land Development Agency Act 2021 shall not be reckoned in determining whether or not the condition imposed by this section has been complied with.
+
 (11) Notwithstanding any provision of this or any other enactment, if a planning authority becomes satisfied that land, a site or a house transferred to it under subsection (3) is no longer required for the purposes specified in subsection (9) or (10), it may use the land, site or house for another purpose connected with its functions or sell it for the best price reasonably obtainable and, in either case, it shall pay an amount equal to the market value of the land, site or house or the proceeds of the sale, as the case may be, into the separate account referred to in subsection (12).
 
 (12) Any amount referred to in subsection (11) and any amount paid to a planning authority in accordance with subsection (3)(b)(vi), (vii) or (viii) shall be accounted for in a separate account and shall only be applied as capital for its functions in relation to the provision of housing under the Housing Acts 1966 to 2009 ....
@@ -148,7 +150,7 @@ Provision of social and affordable housing, etc..
 
 (14) A planning authority may, for the purposes of an agreement under this section, agree to sell, lease or exchange any land within its ownership to the applicant for permission, in accordance with section 211.
 
-(15) In this section, ‘owner’ means—
+(15) In this section, "owner" means—
 
 (a) a person, other than a mortgagee not in possession, who is for the time being entitled to dispose (whether in possession or reversion) of the fee simple of the land, and
 

@@ -17,3 +17,5 @@ Designation of sites for strategic development zones.
 (5) Development that is specified in an order under subsection (3) shall be deemed to include development that is ancillary to, or required for, the purposes of development so specified, and may include any necessary infrastructural and community facilities and services.
 
 (6) The Government may revoke or amend an order made under this section.
+
+(7) In this section, the Land Development Agency shall not be a relevant development agency unless each site referred to in subsection (2) is wholly or partly on relevant public land or land owned by the Agency.

@@ -37,3 +37,5 @@ Planning scheme for strategic development zones.
 (a) jointly by the planning authorities concerned, or
 
 (b) by one of the authorities, provided that the consent of the other authority or authorities, as appropriate, is obtained prior to the making of the scheme under section 169, and the words “planning authority” shall be construed accordingly.
+
+(6) In this section, the Land Development Agency shall not be a relevant development agency unless each site referred to in subsection (1) is wholly or partly on relevant public land or land owned by the Agency.
