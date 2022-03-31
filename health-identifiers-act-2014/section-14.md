@@ -32,7 +32,7 @@ Establishment and maintenance of National Register of Health Services Provider I
 
 (IV) any other particulars prescribed for the purposes of this clause that, in the opinion of the Minister, are relevant to identifying the body and the health services it provides,
 
-(c) in Part Cof the Register, in relation to a relevant employee referred to in paragraph (c) of the definition of “health services provider” in section 2(1) who has been assigned a health services provider identifier—
+(c) in Part C of the Register, in relation to a relevant employee referred to in paragraph (c) of the definition of “health services provider” in section 2(1) who has been assigned a health services provider identifier—
 
 (i) the health services provider identifier, and
 
