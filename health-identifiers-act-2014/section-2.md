@@ -6,7 +6,7 @@ Interpretation
 
 “Act of 2013” means the Health (Pricing and Supply of Medical Goods) Act 2013;
 
-‘Act of 2018’ means the Data Protection Act 2018;
+"Act of 2018" means the Data Protection Act 2018;
 
 “authorised disclosee” means—
 
@@ -16,7 +16,7 @@ Interpretation
 
 “conditions” includes terms;
 
-‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+"Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 “enactment” means an Act or statutory instrument or any portion of an Act or statutory instrument;
 
@@ -90,7 +90,7 @@ Interpretation
 
 “National Register of Health Services Provider Identifiers” means the National Register of Health Services Provider Identifiers established and maintained under section 14(1);
 
-National Register of Individual Health Identifiers” means the National Register of Individual Health Identifiers established and maintained under section 6(1);
+"National Register of Individual Health Identifiers” means the National Register of Individual Health Identifiers established and maintained under section 6(1);
 
 “number” includes an alphanumeric number;
 
@@ -124,7 +124,7 @@ National Register of Individual Health Identifiers” means the National Registe
 
 (n) subject to section 3(8), any other particulars (excluding clinical information relating to the individual) prescribed for the purpose of this paragraph that, in the opinion of the Minister, are relevant to identifying the individual;
 
-‘personal data’ means personal data within the meaning of—
+"personal data" means personal data within the meaning of—
 
 (a) the Data Protection Regulation, or
 
@@ -136,7 +136,7 @@ National Register of Individual Health Identifiers” means the National Registe
 
 “primary purpose” means the present, past or future provision of a health service to an individual;
 
-‘processing’ means processing within the meaning of—
+"processing" means processing within the meaning of—
 
 (a) the Data Protection Regulation, or
 
