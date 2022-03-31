@@ -1,4 +1,4 @@
-F9[ Transfer orders.
+F9[Transfer orders.
 
 5A.— (1) The Minister may, with the consent of the Minister for Public Expenditure and Reform, and having regard to the promotion of administrative efficiencies and economies of scale and the matters referred to in section 3(1A), by order transfer the assets and liabilities of a body or bodies specified in section 10 of the Local Government (Miscellaneous Provisions) Act 2012.
 

@@ -1,6 +1,8 @@
 Establishment of bodies to provide certain services.
 
-3.—(1) The Minister may, from time to time, with the consent of the Minister for Public Expenditure and Reform, and having regard to the matters referred to in subsection (1A), by order (in this Act referred to as an ‘establishment order’), establish a body to provide services for or on behalf of— (a) the Minister in the performance of his or her functions, or
+3.—(1) The Minister may, from time to time, with the consent of the Minister for Public Expenditure and Reform, and having regard to the matters referred to in subsection (1A), by order (in this Act referred to as an "establishment order"), establish a body to provide services for or on behalf of—
+
+(a) the Minister in the performance of his or her functions, or
 
 (b) one or more of the authorities to which this Act applies in the performance of the functions of that authority or those authorities.
 
@@ -30,7 +32,7 @@ Establishment of bodies to provide certain services.
 
 (8) The Minister may from time to time by order amend an establishment order or an order made under this subsection.
 
-(9) In this section ‘services’ includes—
+(9) In this section "services" includes—
 
 (a) the management and organisation of industrial relations and human resources activities, including representation, negotiation, training and development,
 
