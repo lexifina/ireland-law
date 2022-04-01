@@ -2,9 +2,9 @@ Arrangements for the secondment of certain employees
 
 24G. (1) In this section—
 
-‘Bank’ means the Central Bank of Ireland;
+"Bank" means the Central Bank of Ireland;
 
-‘secondee’ means an employee seconded from the Bank to the Commission under the arrangements referred to in subsection (2).
+"secondee" means an employee seconded from the Bank to the Commission under the arrangements referred to in subsection (2).
 
 (2) The Bank and the Commission may make arrangements for the secondment of employees from the Bank to the Commission for the purpose of carrying out the functions specified in section 10(3)(j) of the Competition and Consumer Protection Act 2014.
 

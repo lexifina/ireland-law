@@ -4,11 +4,11 @@ Interpretation
 
 63A. In this Chapter—
 
-‘allowance’ includes any discount, rebate, price concession or other advantage that is collateral to a sale or purchase of grocery goods but is not applied directly to the selling or purchase price;
+"allowance" includes any discount, rebate, price concession or other advantage that is collateral to a sale or purchase of grocery goods but is not applied directly to the selling or purchase price;
 
-‘contravention notice’ has the meaning assigned to it by section 63D;
+"contravention notice" has the meaning assigned to it by section 63D;
 
-‘grocery goods’ means—
+"grocery goods" means—
 
 (a) any food or drink that is intended to be sold for human consumption and includes—
 
@@ -24,9 +24,9 @@ Interpretation
 
 (d) garden plants and garden plant bulbs;
 
-‘grocery goods undertaking’ means an undertaking that is engaged for gain in the production, supply, distribution, wholesale or retail of grocery goods, whether or not the undertaking is engaged in the direct sale of those goods to the public;
+"grocery goods undertaking" means an undertaking that is engaged for gain in the production, supply, distribution, wholesale or retail of grocery goods, whether or not the undertaking is engaged in the direct sale of those goods to the public;
 
-‘marketing costs’ means costs relating to the marketing of grocery goods, including costs relating to—
+"marketing costs" means costs relating to the marketing of grocery goods, including costs relating to—
 
 (a) visits to a supplier by employees or representatives of a retailer or wholesaler directly involved in the purchase of grocery goods,
 
@@ -38,13 +38,13 @@ Interpretation
 
 (e) hospitality for the staff or representatives of a retailer or wholesaler, in relation to the goods concerned;
 
-‘payment’ means any compensation, consideration, allowance or inducement in any form (monetary or otherwise) and includes more favourable contractual terms;
+"payment" means any compensation, consideration, allowance or inducement in any form (monetary or otherwise) and includes more favourable contractual terms;
 
-‘promotion’ means an offer for sale at an introductory or a reduced retail price or with some other benefit to consumers that is intended to subsist for a specified period;
+"promotion" means an offer for sale at an introductory or a reduced retail price or with some other benefit to consumers that is intended to subsist for a specified period;
 
-‘relevant grocery goods undertaking’ means a grocery goods undertaking engaged in the production, supply, distribution, wholesale or retail of grocery goods in the State, that has, or is a member of a group of related undertakings that has, an annual worldwide turnover of more than €50 million;
+"relevant grocery goods undertaking" means a grocery goods undertaking engaged in the production, supply, distribution, wholesale or retail of grocery goods in the State, that has, or is a member of a group of related undertakings that has, an annual worldwide turnover of more than €50 million;
 
-‘related undertaking’, in relation to a person (the first-mentioned person), means—
+"related undertaking", in relation to a person (the first-mentioned person), means—
 
 (a) if the first-mentioned person is a company, another company that is related within the meaning of section 140(5) of the Companies Act 1990,
 
@@ -58,12 +58,12 @@ Interpretation
 
 (f) if provision is required to be made for the first-mentioned person and another person in any consolidated accounts compiled in accordance with the Seventh Council Directive 83/349/EEC of 13 June 1983, that other person;
 
-‘retailer’ means a grocery goods undertaking that offers for sale, sells or resells grocery goods directly, or indirectly through franchise arrangements, to the public in the State;
+"retailer" means a grocery goods undertaking that offers for sale, sells or resells grocery goods directly, or indirectly through franchise arrangements, to the public in the State;
 
-‘shrinkage’ means losses that occur as a result of theft, loss or accounting error, after goods are delivered by a grocery goods undertaking to a retailer’s premises;
+"shrinkage" means losses that occur as a result of theft, loss or accounting error, after goods are delivered by a grocery goods undertaking to a retailer’s premises;
 
-‘supplier’ means a grocery goods undertaking carrying on (or actively seeking to carry on) a business in the direct supply to any wholesaler or retailer of grocery goods for resale in the State, and includes any such undertaking whether located in the State or not;
+"supplier" means a grocery goods undertaking carrying on (or actively seeking to carry on) a business in the direct supply to any wholesaler or retailer of grocery goods for resale in the State, and includes any such undertaking whether located in the State or not;
 
-‘wastage’ means grocery goods that become unfit for sale after their delivery by a grocery goods undertaking to a retailer or a wholesaler;
+"wastage" means grocery goods that become unfit for sale after their delivery by a grocery goods undertaking to a retailer or a wholesaler;
 
-‘wholesaler’ means a grocery goods undertaking that purchases goods from a supplier for resale to a retailer.
+"wholesaler" means a grocery goods undertaking that purchases goods from a supplier for resale to a retailer.

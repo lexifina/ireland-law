@@ -4,21 +4,21 @@ Definitions and application.
 
 66A. (1) In this Part—
 
-‘durable medium’ means any medium on which information is provided and stored, including paper and email, that—
+"durable medium" means any medium on which information is provided and stored, including paper and email, that—
 
 (a) renders the information accessible for future reference for a period of time adequate for the purposes of the information, and
 
 (b) allows the unchanged reproduction of the information;
 
-‘expiry date’ means the date after which, by virtue of the passage of time, a gift voucher ceases to be redeemable for the purchase of goods or services;
+"expiry date" means the date after which, by virtue of the passage of time, a gift voucher ceases to be redeemable for the purchase of goods or services;
 
-‘gift voucher’ means, subject to subsection (2), any voucher, coupon or other document or instrument, including in electronic form, that is intended to be used as a substitute for money in the payment, in whole or in part, for goods or services or otherwise exchanged for goods or services;
+"gift voucher" means, subject to subsection (2), any voucher, coupon or other document or instrument, including in electronic form, that is intended to be used as a substitute for money in the payment, in whole or in part, for goods or services or otherwise exchanged for goods or services;
 
-‘gift voucher contract’ means a contract between a relevant trader and another person whereby the relevant trader supplies the person with a gift voucher;
+"gift voucher contract" means a contract between a relevant trader and another person whereby the relevant trader supplies the person with a gift voucher;
 
-‘relevant trader’ means a trader who supplies a gift voucher to a person in accordance with a gift voucher contract.
+"relevant trader" means a trader who supplies a gift voucher to a person in accordance with a gift voucher contract.
 
-(2) In this Part, ‘gift voucher’ does not include a voucher, coupon or other document or instrument, including in electronic form—
+(2) In this Part, "gift voucher" does not include a voucher, coupon or other document or instrument, including in electronic form—
 
 (a) that is redeemable only for the purposes of the purchase, at a discounted price, of specified goods or specified services, from a specified trader or traders—
 

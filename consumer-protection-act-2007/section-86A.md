@@ -2,7 +2,7 @@
 
 Commission may publish certain information in respect of grocery goods undertakings
 
-86A. (1) The Commission shall keep and maintain a list (the ‘grocery goods undertakings list’) of names and addresses of the following persons, together with a description of their trade, business or profession and the particulars described in subsection (2):
+86A. (1) The Commission shall keep and maintain a list (the "grocery goods undertakings list") of names and addresses of the following persons, together with a description of their trade, business or profession and the particulars described in subsection (2):
 
 (a) any person on whom a fine or other penalty was imposed by a court by or under Chapter 5 of Part 3;
 

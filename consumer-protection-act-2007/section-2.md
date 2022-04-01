@@ -6,7 +6,7 @@ Interpretation and application.
 
 “Agency” means the National Consumer Agency established by section 7;
 
-‘authorised officer’ has the same meaning as it has in the Competition and Consumer Protection Act 2014;
+"authorised officer" has the same meaning as it has in the Competition and Consumer Protection Act 2014;
 
 “chief executive” means the chief executive officer of the Agency;
 
@@ -14,7 +14,7 @@ Interpretation and application.
 
 “commercial practice” means any conduct (whether an act or omission), course of conduct or representation by the trader in relation to a consumer transaction, including any such conduct or representation made or engaged in before, during or after the consumer transaction;
 
-‘consumer’ means a natural person (whether in the State or not) who is acting wholly or mainly for purposes unrelated to the person’s trade, business or profession;
+"consumer" means a natural person (whether in the State or not) who is acting wholly or mainly for purposes unrelated to the person’s trade, business or profession;
 
 “consumer transaction” means a promotion or supply of a product to a consumer;
 
@@ -42,11 +42,11 @@ Interpretation and application.
 
 (a) ships, aircraft or other vehicles,
 
-O.J. No. L.149, 11/06/2005, p. 22.
-
 (b) animals,
 
 (c) minerals, trees or crops, whether on, under or attached to land or not,
+
+O.J. No. L.149, 11/06/2005, p. 22.
 
 (d) gas, electricity or water,
 
@@ -88,7 +88,7 @@ O.J. No. L.149, 11/06/2005, p. 22.
 
 “relevant State” means a state that is a contracting State to the EEA Agreement within the meaning of the European Communities (Amendment) Act 1993;
 
-‘relevant statutory instruments’ means the statutory instruments for the time being in force specified in Schedule 9;
+"relevant statutory instruments" means the statutory instruments for the time being in force specified in Schedule 9;
 
 “relevant statutory provisions” means—
 
@@ -164,7 +164,7 @@ O.J. No. L.149, 11/06/2005, p. 22.
 
 (b) a person acting on behalf of a person referred to in paragraph (a);
 
-‘transactional decision’ means, in relation to a consumer transaction, whether or not that transaction is completed, any decision by the consumer concerning whether, how or on what terms to do, or refrain from doing, any of the following:
+"transactional decision" means, in relation to a consumer transaction, whether or not that transaction is completed, any decision by the consumer concerning whether, how or on what terms to do, or refrain from doing, any of the following:
 
 (a) purchase the product;
 
