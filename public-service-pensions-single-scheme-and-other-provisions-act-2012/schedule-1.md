@@ -42,6 +42,8 @@ BODIES TO WHICH THE DEFINITION OF “PUBLIC SERVICE BODY” DOES NOT APPLY
 
 20. Shannon Airport Authority, public limited company.
 
+20A. Uisce Éireann.
+
 21. Teilifís na Gaeilge.
 
 22. Railway Procurement Agency.
