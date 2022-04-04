@@ -58,4 +58,8 @@ Amendment of section 137 of Act of 2004
 
 (b)€10 in respect of each month or part of a month falling after such expiration.”.
 
-(2) The amendment of section 137 of the Act of 2004 effected by this section shall not apply in relation to an application under subsection (1) of section 134 made after the commencement of this section that was required to be made at any time before such commencement.
+(2) The amendment of section 137 of the Act of 2004 effected by this section shall not apply in relation to an application under subsection (1) of section 134 of that Act—
+
+(a) made after the commencement of paragraph (a) (as it relates to paragraph (a) of subsection (1) of the said section 137) of subsection (1), and
+
+(b) that was required to have been made at any time before such commencement.
