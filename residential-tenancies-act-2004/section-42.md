@@ -1,3 +1,3 @@
-Termination of additional rights. (repealed)
+Termination of additional rights. (Repealed)
 
 42.—...

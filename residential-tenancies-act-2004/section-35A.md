@@ -2,9 +2,9 @@ Restriction on termination of certain tenancies by landlords.
 
 35A. (1) In this section—
 
-‘development’ means a development consisting of land upon which there stands erected a building or buildings comprising a unit or units where, as respects such unit or units, it is intended that amenities, facilities and services are to be shared;
+"development" means a development consisting of land upon which there stands erected a building or buildings comprising a unit or units where, as respects such unit or units, it is intended that amenities, facilities and services are to be shared;
 
-‘relevant period of time’ means any period of 6 months within the period—
+"relevant period of time" means any period of 6 months within the period—
 
 (a) beginning with the offering for sale in the development concerned of the first dwelling the subject of a tenancy, and
 

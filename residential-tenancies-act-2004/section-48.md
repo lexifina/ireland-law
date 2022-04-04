@@ -1,3 +1,5 @@
+## CHAPTER 6 Rules governing operation of Part in cases of multiple occupants
+
 Interpretation (Chapter 6).
 
 48.—(1) In this Chapter “multiple tenants” means, in relation to a dwelling, 2 or more persons who are tenants of the dwelling (whether as joint tenants, tenants-in-common or under any other form of co-ownership) and “multiple tenant” means any one of them.

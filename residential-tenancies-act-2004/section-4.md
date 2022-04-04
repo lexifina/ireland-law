@@ -4,7 +4,7 @@ Interpretation generally.
 
 “adjudicator” shall be construed in accordance with section 164(2);
 
-‘approved housing body’ means a body—
+"approved housing body" means a body—
 
 (a) approved under section 6(6) of the Housing (Miscellaneous Provisions) Act 1992 for the purposes of section 6 of that Act, and
 
@@ -16,7 +16,7 @@ Interpretation generally.
 
 “authorised agent” shall be construed in accordance with section 12(1)(e);
 
-‘Board’ shall be construed in accordance with section 150(1) and section 13 of the Residential Tenancies (Amendment) Act 2015;
+"Board" shall be construed in accordance with section 150(1) and section 13 of the Residential Tenancies (Amendment) Act 2015;
 
 “child” includes a person who is no longer a minor and cognate words shall be construed accordingly;
 
@@ -36,7 +36,7 @@ Interpretation generally.
 
 “further Part 4 tenancy” shall be construed in accordance with section 41(2) or 45(2), as appropriate;
 
-‘housing authority’ has the meaning assigned to it by section 23 of the Housing (Miscellaneous Provisions) Act 1992;
+"housing authority" has the meaning assigned to it by section 23 of the Housing (Miscellaneous Provisions) Act 1992;
 
 “local authority” means a local authority for the purposes of the Local Government Act 2001;
 
