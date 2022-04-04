@@ -18,7 +18,9 @@ Persons subject to military law as officers.
 
 (ii) he is voluntarily attending training, or
 
-(iii) he is undergoing treatment in a military hospital,
+(iii) he is undergoing treatment in a military hospital, or
+
+(iv) he is deployed on military service under section 86A,
 
 (d) subject to any general or special exemption made by the Minister (the proof whereof shall lie on the person claiming exemption), any person not otherwise subject to military law who, under the general or special orders of the Minister, accompanies in an official capacity equivalent to that of an officer any portion of the Defence Forces which is on active service,
 

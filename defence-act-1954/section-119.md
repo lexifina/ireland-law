@@ -16,7 +16,9 @@ Persons subject to military law as men.
 
 (v) he is employed on military service under the orders of an officer, who is himself subject to military law, or
 
-(vi) he is in uniform,
+(vi) he is in uniform, or
+
+(vii) he is deployed on military service under section 91A,
 
 (c) subject to any general or special exemption made by the Minister (the proof whereof shall lie on the person claiming exemption), any person not otherwise subject to military law who is employed by or is in the service of any portion of the Defence Force which is on active service,
 

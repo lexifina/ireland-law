@@ -1,6 +1,6 @@
 Amendments of the Principal Act.
 
-4.—(1) A member of the Permanent Defence Force who is serving outside the State with an armed International United Nations Force shall, for the purposes of the Principal Act, be deemed, while so serving, to be on active service.
+4.—(1) A member of the Defence Forces who is serving outside the State with an armed International United Nations Force shall, for the purposes of the Principal Act, be deemed, while so serving, to be on active service.
 
 (6) Subject to subsection (7) of this section, section 61 of the Principal Act is hereby amended by—
 
@@ -24,7 +24,7 @@ Amendments of the Principal Act.
 
 (b) Where, in relation to a man of the Permanent Defence Force, a period (being either a period of emergency or a period in which the man is serving outside the State with an International United Nations Force) is followed within three months after its expiration by a period (being either a period of emergency or a period in which the man is serving outside the State with an International United Nations Force), the former period shall, for the purposes of subsection (3) of section 75 of the Principal Act be deemed to have terminated at the time of the termination of the latter period.
 
-(5) Regulations made under subsection (4) of section 192 of the Principal Act and providing that the exercise of the jurisdiction conferred on courts-martial by section 169 of the Principal Act shall depend on the consent of a civil authority specified in the regulations shall not apply in relation to the exercise of that jurisdiction by a court-martial for the trial of a member of the Permanent Defence Force for an offence committed by him while serving outside the State with an International United Nations Force.
+(5) Regulations made under subsection (4) of section 192 of the Principal Act and providing that the exercise of the jurisdiction conferred on courts-martial by section 169 of the Principal Act shall depend on the consent of a civil authority specified in the regulations shall not apply in relation to the exercise of that jurisdiction by a court-martial for the trial of a member of the Defence Forces for an offence committed by him while serving outside the State with an International United Nations Force.
 
 (6) Subject to subsection (7) of this section, section 296 of the Principal Act is hereby amended by—
 

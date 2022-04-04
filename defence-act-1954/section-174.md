@@ -2,7 +2,7 @@ Court of inquiry on absent man.
 
 174.—(1) When a man of the Permanent Defence Force has been absent without leave from his duty for a period of twenty-one days, a court of inquiry in relation to such man may as soon as practicable be assembled.
 
-(2) When any man of the Reserve Defence Force is subject to military law by reason of his being called out on permanent service or in aid of the civil power or for annual training and is illegally absent from duty, a court of inquiry in relation to such man may be assembled after the expiration of twenty-one days from the date of such absence, whether the period during which such man was subject to military law is or is not less than twenty-one days or has or has not expired before the expiration of twenty-one days from the date of such absence.
+(2) When any man of the Reserve Defence Force is subject to military law by reason of his being called out on permanent service or in aid of the civil power or for annual training or being deployed on military service under section 91A and is illegally absent from duty, a court of inquiry in relation to such man may be assembled after the expiration of twenty-one days from the date of such absence, whether the period during which such man was subject to military law is or is not less than twenty-one days or has or has not expired before the expiration of twenty-one days from the date of such absence.
 
 (3) Where a court of inquiry in relation to a man is assembled under subsection (1) or (2) of this section, the following provisions shall have effect—
 

@@ -10,8 +10,8 @@ Appeal to summary court-martial.
 
 (3) An appeal under this section shall be brought—
 
-(a) within seven days beginning with the date on which the punishment was awarded (‘the initial period’), or
+(a) within seven days beginning with the date on which the punishment was awarded ("the initial period"), or
 
-(b) within such longer period as the summary court-martial may allow by leave given before the end of the initial period.
+(b) within such longer period as the summary court-martial may allow following an application made in that behalf to the summary court-martial before the end of the initial period.
 
 (4) The respondent to an appeal under this section shall be the Director.
