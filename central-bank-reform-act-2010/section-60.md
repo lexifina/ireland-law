@@ -1,3 +1,3 @@
-Powers of authorised officer.
+Powers of authorised officer. (Repealed)
 
 60.— ...

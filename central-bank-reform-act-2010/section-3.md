@@ -4,11 +4,11 @@ Interpretation.
 
 “Act of 1942” means the Central Bank Act 1942;
 
-‘authorised officer’ means an authorised officer appointed under Part 3 of the Central Bank (Supervision and Enforcement) Act 2013;
+"authorised officer" means an authorised officer appointed under Part 3 of the Central Bank (Supervision and Enforcement) Act 2013;
 
 “cessation date” means the last day on which section 33B of the Act of 1942 is in operation.
 
-‘financial services legislation’ means—
+"financial services legislation" means—
 
 (a) the designated enactments,
 

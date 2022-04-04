@@ -2,7 +2,7 @@
 
 Co-operation with overseas regulators.
 
-54.— (1) In this section ‘Member State authority or third country authority’ means an authority in a jurisdiction other than that of the State duly authorised to perform functions similar to any one or more of the statutory functions of the Bank.
+54.— (1) In this section "Member State authority or third country authority" means an authority in a jurisdiction other than that of the State duly authorised to perform functions similar to any one or more of the statutory functions of the Bank.
 
 (2) At the request of a Member State authority or a third country authority to do so in relation to any matter, the Bank may —
 

@@ -1,3 +1,3 @@
-Disclosure or production not to be treated as breach or to affect lien.
+Disclosure or production not to be treated as breach or to affect lien. (Repealed)
 
 64.— ...

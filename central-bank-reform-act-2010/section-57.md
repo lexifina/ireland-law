@@ -1,3 +1,3 @@
-Appointment of authorised officers.
+Appointment of authorised officers. (Repealed)
 
 57.— ...

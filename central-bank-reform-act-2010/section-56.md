@@ -1,3 +1,3 @@
-Persons to whom this Part applies.
+Persons to whom this Part applies. (Repealed)
 
 56.— ...

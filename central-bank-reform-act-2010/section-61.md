@@ -1,3 +1,3 @@
-Warrant required to enter premises.
+Warrant required to enter premises. (Repealed)
 
 61.— ...

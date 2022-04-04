@@ -1,3 +1,3 @@
-Authorised officer may attend meetings.
+Authorised officer may attend meetings. (Repealed)
 
 62.— ...
