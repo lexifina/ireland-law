@@ -1,3 +1,3 @@
-Registration of certain births and deaths occurring outside the State.
+Registration of certain births and deaths occurring outside the State. (Repealed)
 
 6.—...
