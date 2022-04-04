@@ -38,11 +38,11 @@ Item Provision Amendment affected
 
 15 Section Delete. 2(1), definition of
 
-16 Section Substitute: 2(1), definition of (a) a financial service provider whose business is subject to regulation
+16 Section Substitute: 2(1), definition of (a) a financial service provider whose business is subject to regulation by
 
-(b) a financial service provider whose business is subject to regulation
+(b) a financial service provider whose business is subject to regulation by
 
-(c) in relation to Part VIIB only, any other financial service provider of
+(c) in relation to Part VIIB only, any other financial service provider of a
 
 17 Section Delete. 2(1), definition of Item Provision Amendment affected
 
@@ -66,9 +66,7 @@ Item Provision Amendment affected
 
 21 Section 5A Substitute:
 
-5A.—(1) The Bank has the following functions:
-
-(a) to carry out the efficient and effective co-ordination of—
+5A.—(1) The Bank has the following functions: (a) to carry out the efficient and effective co-ordination of—
 
 (i) the activities of the Bank,
 
@@ -76,17 +74,17 @@ Item Provision Amendment affected
 
 (iii) the exchange of information between the Bank and any of those persons;
 
-(b) where appropriate, to represent and co-ordinate the representation
+(b) where appropriate, to represent and co-ordinate the representation of
 
-(c) to establish and maintain, either directly or indirectly, contact with
+(c) to establish and maintain, either directly or indirectly, contact with the
 
 (d) whenever it thinks fit, to provide governments of, and financial
 
 (e) the function of holding an inquiry under Part IIIC;
 
-(f) the function of monitoring the provision of financial services to Item Provision Amendment affected
+(f) the function of monitoring the provision of financial services to consumers Item Provision Amendment affected
 
-(g) to provide for the collection and study of data that deal with
+(g) to provide for the collection and study of data that deal with monetary
 
 (h) to provide advice and assistance to the Central Statistics Office about
 
@@ -98,7 +96,7 @@ Item Provision Amendment affected
 
 (5) The functions of the Agency referred to in subsection (4) are the following functions of it under the Consumer Protection Act 2007, namely, functions under—
 
-(a) subsections (1), (4), (5) and (6) of section 8 of that Act in relation
+(a) subsections (1), (4), (5) and (6) of section 8 of that Act in relation to—
 
 (i) sections 41 to 49 and 51 to 56 of that Act,and
 
@@ -110,11 +108,11 @@ Item Provision Amendment affected
 
 (a) the functions so specified are, subject to any relevant co-operation
 
-(b) subject to subsection (9), references to the Agency in the provisions
+(b) subject to subsection (9), references to the Agency in the provisions of
 
-(8) Subject to subsection (9), sections 80, 85 and 87 of the Consumer Protection Act 2007 apply to the Bank as they apply to the Agency and, accordingly, references to the Agency in those sections are to be read as including references to the Bank. Item Provision Amendment affected
+(8) Subject to subsection (9), sections 80, 85 and 87 of the Consumer Protection Act 2007 apply to the Bank as they apply to the Agency and, accordingly, references to the Agency in those sections are to be read as including references to the Bank.
 
-(9) Where any section of the Consumer Protection Act 2007 specified in subsection (5) or (8) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Bank as is specified in that agreement.
+(9) Where any section of the Consumer Protection Act 2007 specified in subsection (5) or (8) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned Item Provision Amendment affected if the thing is done in relation to the Agency or the Bank as is specified in that agreement.
 
 (10) The Bank is required to perform its functions and exercise its powers in a manner consistent with the Rome Treaty and the ESCB Statute.
 
@@ -130,9 +128,7 @@ Item Provision Amendment affected
 
 22 After section 5B, insert:
 
-5C.—(1) To enable the Bank to carry out its responsibilities, the Bank may—
-
-(a) undertake studies, analyses and surveys with respect to the provision
+5C.—(1) To enable the Bank to carry out its responsibilities, the Bank may— (a) undertake studies, analyses and surveys with respect to the provision
 
 (b) collect and compile information for that purpose, and
 
@@ -140,7 +136,7 @@ Item Provision Amendment affected
 
 (2) In undertaking such a study, analysis or survey, the Bank—
 
-(a) may, by notice in writing, require any person who, in the opinion of
+(a) may, by notice in writing, require any person who, in the opinion of the
 
 (b) may, by the same or another notice in writing, require the person to
 
@@ -148,27 +144,27 @@ Item Provision Amendment affected
 
 (4) A person commits an offence if the person—
 
-(a) intentionally prevents the Bank from exercising a power conferred
+(a) intentionally prevents the Bank from exercising a power conferred by
 
 (b) intentionally obstructs or hinders the Bank in the exercise of such a
 
-(c) without reasonable excuse, fails to comply with a requirement made
+(c) without reasonable excuse, fails to comply with a requirement made to
 
-(d) in purporting to comply with a requirement made under subsection Item Provision Amendment affected
+(d) in purporting to comply with a requirement made under subsection (2)
 
-(5) The Head of Financial Regulation may, in writing, authorise an officer or employee of the Bank to investigate the business, or any aspect of the business, of a financial service provider who has been required under this section to provide information, or a record or other thing. Such an officer or employee may take whatever steps are necessary for or in connection with carrying out such an investigation.
+(5) The Head of Financial Regulation may, in writing, authorise an officer or employee of the Bank to investigate the business, or any aspect of the business, of a financial service provider who has been required under this section to Item Provision Amendment affected provide information, or a record or other thing. Such an officer or employee may take whatever steps are necessary for or in connection with carrying out such an investigation.
 
 (6) A financial service provider who—
 
 (a) without reasonable excuse, fails to co-operate with an investigation
 
-(b) intentionally prevents such an investigation from being carried out, commits an offence.
+(b) intentionally prevents such an investigation from being carried out, or commits an offence.
 
 (7) A person who is convicted of an offence under this section is liable—
 
 (a) on conviction on indictment, to a fine not exceeding €30,000 or to
 
-(b) on summary conviction, to a fine not exceeding €3,000 or to
+(b) on summary conviction, to a fine not exceeding €3,000 or to imprisonment
 
 (8) Summary proceedings for an offence under this section may be brought and prosecuted by the Bank, but not to the exclusion of any other person who is authorised to bring and prosecute summary offences.”.
 
@@ -180,21 +176,19 @@ Item Provision Amendment affected
 
 (b) the proper and effective regulation of financial service providers and
 
-(c) the efficient and effective operation of payment and settlement
+(c) the efficient and effective operation of payment and settlement systems;
 
 (d) the provision of analysis and comment to support national economic
 
-(e) the discharge of such other functions and powers as are conferred Item Provision Amendment affected
+(e) the discharge of such other functions and powers as are conferred on it
 
 (3) The Minister may, from time to time, request the Governor or the Commission to consult with the Minister, in relation to their respective functions, as regards the performance by the Bank of any function of the Bank (other than one imposed on it by the Rome Treaty or the ESCB Statute).”.
 
-25 Section Substitute: 6A(5)
+25 Section Substitute: 6A(5) Item Provision Amendment affected
 
 26 Sections 6B Substitute: to 6E
 
-6B.— (1) For the purpose of enabling the Bank to perform its functions, the Bank—
-
-(a) may acquire and hold land, and
+6B.— (1) For the purpose of enabling the Bank to perform its functions, the Bank— (a) may acquire and hold land, and
 
 (b) may build, establish, equip and maintain offices and other premises, in such places, whether in the State or elsewhere, as it considers appropriate.
 
@@ -218,15 +212,13 @@ Item Provision Amendment affected
 
 (7) The Commission may, in relation to a particular competition, impose conditions of entry, limitations and safeguards.
 
-(8) Subsection (6) does not apply to an appointment to a position if the Commission decides that appointment to the position by competition would be inappropriate. Item Provision Amendment affected
+(8) Subsection (6) does not apply to an appointment to a position if the Commission decides that appointment to the position by competition would be inappropriate.
 
 (9) The Commission shall establish and operate a policy under which provision is made for employees of the Bank to be given opportunities for training and experience in various activities of the Bank.”.
 
-27 Section 10 Substitute:
+27 Section 10 Substitute: Item Provision Amendment affected
 
-10.—(1) The seal of the Bank shall be kept in such custody as the Commission directs.
-
-(2) The seal of the Bank may be used only as authorised—
+10.—(1) The seal of the Bank shall be kept in such custody as the Commission directs. (2) The seal of the Bank may be used only as authorised—
 
 (a) if the seal is to be used in relation to a function or power of the Bank
 
@@ -234,9 +226,9 @@ Item Provision Amendment affected
 
 (3) The seal of the Bank shall be authenticated by—
 
-(a) the signature of the Governor or a member of the Commission
+(a) the signature of the Governor or a member of the Commission authorised
 
-(b) the counter-signature of the Secretary of the Bank or some other
+(b) the counter-signature of the Secretary of the Bank or some other officer
 
 (4) A document purporting to be made or issued by the Bank and to be sealed with the seal of the Bank authenticated in accordance with subsection (3) is admissible in evidence and shall be taken to have been made or issued by the Bank until the contrary is proved, without proof of the signature or authority of any person purporting to have signed or counter-signed it.”.
 
@@ -252,11 +244,9 @@ Item Provision Amendment affected
 
 18C.—Any act, matter or thing done in the name of, or on behalf of, the Bank by the
 
-18CA.—(1) The Commission comprises—
+18CA.—(1) The Commission comprises— (a) the persons for the time being holding or performing the duties of the
 
-(a) the persons for the time being holding or performing the duties of
-
-(i) Governor; Item Provision Amendment affected
+(i) Governor;
 
 (ii) Head of Central Banking;
 
@@ -264,25 +254,23 @@ Item Provision Amendment affected
 
 (iv) Secretary General of the Department of Finance, and
 
-(b) at least 6, but no more than 8, other members appointed by the
-
-(2) The Governor is the Chairperson of the Commission.
+(b) at least 6, but no more than 8, other members appointed by the Minister. (2) The Governor is the Chairperson of the Commission. Item Provision Amendment affected
 
 18D.—(1) The Commission has power to do whatever is necessary for or in connection
 
 (2) Without prejudice to the generality of subsection (1) and subject to subsection (3), the Commission—
 
-(a) may establish committees of the Commission consisting of one or
+(a) may establish committees of the Commission consisting of one or more
 
-(b) may determine the procedure and define the functions and powers
+(b) may determine the procedure and define the functions and powers of
 
 (3) Subsection (2) does not authorise the Commission to delegate to a committee any function of the Bank that a provision of this Act requires to be performed by the Governor.
 
 18E.—(1) Subject to subsection (2), the Bank may establish an advisory group or
 
-(a) an advisory group to advise the Bank on the performance of its
+(a) an advisory group to advise the Bank on the performance of its functions
 
-(b) an advisory group to advise the Bank, where the Bank so requests,
+(b) an advisory group to advise the Bank, where the Bank so requests, on
 
 (2) The Bank shall not establish an advisory group in relation to the Governor’s
 
@@ -294,13 +282,13 @@ Item Provision Amendment affected
 
 (a) the effects of the Bank’s Strategic Plans on consumers of financial
 
-(b) initiatives aimed at further enhancing the protection of consumers Item Provision Amendment affected
+(b) initiatives aimed at further enhancing the protection of consumers of
 
-(c) if the Bank so requests, documents, consultation papers or other
+(c) if the Bank so requests, documents, consultation papers or other materials
 
 (6) The period for which a member of the consumer advisory group is appointed may be up to 3 years. A member is eligible for re-appointment.
 
-(7) The Bank shall determine the manner in which, and the reasons for which, a member of an advisory group may be removed from membership of the advisory group.
+(7) The Bank shall determine the manner in which, and the reasons for which, a member of an advisory group may be removed from membership of the advisory group. Item Provision Amendment affected
 
 (8) The Bank shall provide an advisory group with such administrative services and funds as the Bank believes necessary to carry out its functions.
 
@@ -308,11 +296,11 @@ Item Provision Amendment affected
 
 (2) Without prejudice to the generality of subsection (1), the Commission may in particular—
 
-(a) delegate to a specified person or body (including a committee
+(a) delegate to a specified person or body (including a committee established
 
-(b) impose conditions, limitations, or restrictions on the performance
+(b) impose conditions, limitations, or restrictions on the performance or
 
-(c) provide in appropriate cases for the review by the Commission of
+(c) provide in appropriate cases for the review by the Commission of decisions
 
 (3) Subsection (2) does not authorise the Commission to delegate to a committee any function of the Bank that a provision of this Act requires to be performed by the Governor.”.
 
@@ -326,7 +314,7 @@ Item Provision Amendment affected
 
 (b) the Governor has the sole right to determine the issue, and
 
-(c) the Governor’s decision is final.”. Item Provision Amendment affected
+(c) the Governor’s decision is final.”.
 
 31 Section Delete “if the other members of the Board have passed a unanimous resolution 21(2)
 
@@ -334,7 +322,7 @@ Item Provision Amendment affected
 
 33 Section Delete “Directors”, substitute “members”. 22(2)
 
-34 Subsections Substitute: (3) to (7) of section 22
+34 Subsections Substitute: (3) to (7) of section 22 Item Provision Amendment affected
 
 (4) A member appointed under this section, while acting as Governor, has the designated responsibilities of the office of Governor and also the powers relating to the carrying out of those responsibilities.
 
@@ -358,17 +346,17 @@ Item Provision Amendment affected
 
 23B.—(1) The Commission shall, with the consent of the Minister, appoint suitably
 
-(2) Subject to subsection (3), an appointment as a Head of Function shall be made by open competition. (3) Subsection (2) does not apply to the appointment of a Head of Function if the Commission, with the consent of the Minister, decides that appointment to the office by open competition would be inappropriate. Item Provision Amendment affected
+(2) Subject to subsection (3), an appointment as a Head of Function shall be made by open competition. (3) Subsection (2) does not apply to the appointment of a Head of Function if the Commission, with the consent of the Minister, decides that appointment to the office by open competition would be inappropriate.
 
 (4) A person is not eligible for appointment as a Head of Function if he or she—
 
 (a) is a member of either House of the Oireachtas,
 
-(b) is, with his or her consent, nominated as a candidate for election as
+(b) is, with his or her consent, nominated as a candidate for election as such
 
-(c) is a member of the European Parliament or is, with his or her consent,
+(c) is a member of the European Parliament or is, with his or her consent, Item Provision Amendment affected
 
-(d) is a member of a local authority or is, with his or her consent,
+(d) is a member of a local authority or is, with his or her consent, nominated
 
 23C.—(1) An appointment as a Head of Function has effect from the date on which
 
@@ -376,7 +364,7 @@ Item Provision Amendment affected
 
 (3) The following do not count towards determining the period for which a person has held office as a Head of Function:
 
-(a) any period during which the person was acting in either office of
+(a) any period during which the person was acting in either office of Head
 
 (b) any period during which the person held the other office of Head of
 
@@ -392,25 +380,23 @@ Item Provision Amendment affected
 
 (c) resigns the office by notice in writing addressed to the Governor,
 
-(d) is, with his or her consent, nominated as a candidate for election as
+(d) is, with his or her consent, nominated as a candidate for election as a
 
-(e) is, with his or her consent, nominated as a candidate for election as
+(e) is, with his or her consent, nominated as a candidate for election as a
 
-(f) is, with his or her consent, nominated as a candidate for election as
+(f) is, with his or her consent, nominated as a candidate for election as a
 
-(g) is adjudged bankrupt (either in the State or elsewhere) or enters into Item Provision Amendment affected
+(g) is adjudged bankrupt (either in the State or elsewhere) or enters into a
 
-(h) becomes physically or mentally incapable of performing the duties
+(h) becomes physically or mentally incapable of performing the duties of
 
-(i) is convicted of an offence (either in the State or elsewhere) and
+(i) is convicted of an offence (either in the State or elsewhere) and sentenced
 
 (j) is removed from office under subsection (7).
 
-(7) The Commission may remove or suspend a Head of Function from office, but only for reasons previously notified in writing to the Head of Function concerned.
+(7) The Commission may remove or suspend a Head of Function from office, but only for reasons previously notified in writing to the Head of Function concerned. Item Provision Amendment affected
 
-23D.—(1) In the event of—
-
-(a) the illness or absence of a Head of Function,
+23D.—(1) In the event of— (a) the illness or absence of a Head of Function,
 
 (b) the suspension from office of the holder of such an office, or
 
@@ -446,7 +432,7 @@ Item Provision Amendment affected
 
 (j) insurance,
 
-(k) law, Item Provision Amendment affected
+(k) law,
 
 (l) social policy, or
 
@@ -456,11 +442,11 @@ Item Provision Amendment affected
 
 (a) is a member of either House of the Oireachtas,
 
-(b) is, with his or her consent, nominated as a candidate for election as
+(b) is, with his or her consent, nominated as a candidate for election as such Item Provision Amendment affected
 
 (c) is a member of the European Parliament or is, with his or her consent,
 
-(d) is a member of a local authority or is, with his or her consent,
+(d) is a member of a local authority or is, with his or her consent, nominated
 
 24A.—An appointed member of the Commission is entitled to receive such
 
@@ -472,7 +458,7 @@ Item Provision Amendment affected
 
 (a) 2 or 3 of those persons shall be appointed for a first term of 5 years,
 
-(b) 2 or 3 of those persons shall be appointed for a first term of 4 years,
+(b) 2 or 3 of those persons shall be appointed for a first term of 4 years, and
 
 (c) 2 or 3 of those persons shall be appointed for a first term of 3 years.
 
@@ -488,19 +474,19 @@ Item Provision Amendment affected
 
 (c) resigns the office by notice in writing addressed to the Governor,
 
-(d) has, without the permission of the other members, been absent from Item Provision Amendment affected
+(d) has, without the permission of the other members, been absent from
 
-(e) is, with his or her consent, nominated as a candidate for election as
+(e) is, with his or her consent, nominated as a candidate for election as a
 
-(f) is, with his or her consent, nominated as a candidate for election as
+(f) is, with his or her consent, nominated as a candidate for election as a
 
-(g) is, with his or her consent, nominated as a candidate for election as
+(g) is, with his or her consent, nominated as a candidate for election as a
 
-(h) is adjudged bankrupt (either in the State or elsewhere) or enters into
+(h) is adjudged bankrupt (either in the State or elsewhere) or enters into a Item Provision Amendment affected
 
-(i) becomes physically or mentally incapable of performing the duties
+(i) becomes physically or mentally incapable of performing the duties of a
 
-(j) is convicted of an offence (either in the State or elsewhere) and
+(j) is convicted of an offence (either in the State or elsewhere) and sentenced
 
 (k) is removed from office under subsection (3).
 
@@ -508,7 +494,7 @@ Item Provision Amendment affected
 
 (a) for proven misconduct or incompetence, or
 
-(b) if in the Minister’s opinion it is necessary or desirable to do so to
+(b) if in the Minister’s opinion it is necessary or desirable to do so to enable
 
 37 Section 28 Substitute:
 
@@ -516,9 +502,9 @@ Item Provision Amendment affected
 
 38 Section 32 Delete “Board”, substitute “Commission”.
 
-39 Part IIIA, Substitute: Chapters 1 and 2
+39 Part IIIA, Substitute: Chapters 1
 
-“PART IIIA
+“PART IIIA and 2
 
 MANAGEMENT, FINANCE, AND ACCOUNTABILITY
 
@@ -532,15 +518,15 @@ Chapter 1A
 
 (b) to achieve any outputs specified in the assignment,
 
-(c) to accept responsibility for the operation of statutory schemes or Item Provision Amendment affected
+(c) to accept responsibility for the operation of statutory schemes or
 
-(d) to accept responsibility for the delivery of quality services pursuant
+(d) to accept responsibility for the delivery of quality services pursuant to
 
-(e) to ensure that the expenditure in relation to the area of the
+(e) to ensure that the expenditure in relation to the area of the assignment
 
 (f) to perform, on behalf of the Commission, functions in relation to
 
-(3) A Head of Function or an employee to whom the responsibility for the performance of a function has been assigned is accountable for the performance of the function to the Governor and to any other person specified for the purpose in the assignment.
+(3) A Head of Function or an employee to whom the responsibility for the performance of a function has been assigned is accountable for the performance of the function to the Governor and to any other person specified for the purpose in the assignment. Item Provision Amendment affected
 
 32B.—(1) At least 3 months before the beginning of each period specified in
 
@@ -548,9 +534,9 @@ Chapter 1A
 
 (b) submit the plan to the Minister.
 
-(2) The periods referred to in subsection (1) are— (a) the period of 3 financial years that begins on 1 January 2011, and
+(2) The periods referred to in subsection (1) are—
 
-(b) each subsequent period of 3 financial years. (3) A strategic plan shall specify—
+(a) the period of 3 financial years that begins on 1 January 2011, and (b) each subsequent period of 3 financial years. (3) A strategic plan shall specify—
 
 (a) the objectives of the Bank’s activities for the relevant period,
 
@@ -570,27 +556,27 @@ Chapter 1A
 
 32C.—No later than one month before the end of each financial year, the Bank shall
 
-(a) its income from levies and fees imposed by regulations under sections Item Provision Amendment affected
+(a) its income from levies and fees imposed by regulations under sections
 
 (b) any other source of funds for the purposes of its powers and functions
 
-(c) its expenditure in relation to the exercise of those powers and during the next financial year.
+(c) its expenditure in relation to the exercise of those powers and functions, during the next financial year.
 
 32D.—(1) The Commission may make regulations prescribing levies to be paid by
 
 (2) In particular, regulations under subsection (1) may provide for any of the following matters:
 
-(a) the activities, services or other matters for which specified kinds of
+(a) the activities, services or other matters for which specified kinds of levies Item Provision Amendment affected
 
 (b) the persons, or classes of persons, who are required to pay specified
 
 (c) the amounts of specified kinds of levies;
 
-(d) the periods for which, or the dates by which, specified levies are to
+(d) the periods for which, or the dates by which, specified levies are to be
 
 (e) penalties payable by a person who does not pay a levy on time;
 
-(f) the keeping of records, and the making of returns to the Bank, by
+(f) the keeping of records, and the making of returns to the Bank, by persons
 
 (g) the collection and recovery of levies. (3) Regulations made under this section do not take effect until approved by the Minister.
 
@@ -608,7 +594,7 @@ Chapter 1A
 
 32E.—(1) The Commission may make regulations prescribing fees for the purpose of
 
-(2) The Commission may make regulations providing for all or any of the following matters: Item Provision Amendment affected
+(2) The Commission may make regulations providing for all or any of the following matters:
 
 (a) the persons, or classes of persons, who are required to pay specified
 
@@ -622,7 +608,9 @@ Chapter 1A
 
 (6) The Bank may refund the whole or a part of a fee paid pursuant to regulations made under this section.
 
-(7) The Commission may amend or revoke a regulation made under this section. (8) An amendment or revocation of regulations made under this section does not take effect until approved by the Minister.
+(7) The Commission may amend or revoke a regulation made under this section. Item Provision Amendment affected
+
+(8) An amendment or revocation of regulations made under this section does not take effect until approved by the Minister.
 
 32F.—(1) The Bank shall continue to keep and operate the fund called the general
 
@@ -632,7 +620,7 @@ Chapter 1A
 
 32G.—(1) If the total sum received by the Bank on account of levies and fees
 
-(a) shall apply the surplus to the performance of those functions and
+(a) shall apply the surplus to the performance of those functions and the
 
 (b) shall reduce the levies and fees prescribed in relation to the latter
 
@@ -640,17 +628,17 @@ Chapter 1A
 
 (a) make good the deficiency, and
 
-(b) ensure that the sum received by the Bank on account of such levies Item Provision Amendment affected
+(b) ensure that the sum received by the Bank on account of such levies and
 
 32H.—(1) The Bank shall pay its surplus income as and when determined under this
 
 (2) The Minister may, after consultation with the Bank, make regulations providing for the periodic determination of the Bank’s surplus income and, in
 
-(a) enable provision to be made for reserves, depreciation and other
+(a) enable provision to be made for reserves, depreciation and other similar
 
-(b) provide for any matter arising from the implementation of Chapters
+(b) provide for any matter arising from the implementation of Chapters VI,
 
-(3) In exercising the powers conferred by this section, the Minister is required to have regard to the functions imposed and the powers conferred on the Bank by or under the Rome Treaty and the ESCB Statute.
+(3) In exercising the powers conferred by this section, the Minister is required to have regard to the functions imposed and the powers conferred on the Bank by or under the Rome Treaty and the ESCB Statute. Item Provision Amendment affected
 
 32I.—(1) If at any time it appears to the Commission that the funds raised from levies
 
@@ -660,29 +648,27 @@ Chapter 1A
 
 (a) the carrying out by the Bank of its obligations with respect to the
 
-(b) the performance of the functions of the Bank in its capacity as a
+(b) the performance of the functions of the Bank in its capacity as a member
 
 (4) In approving the application of an amount of funds under subsection (2), the Minister shall have regard to the functions and powers of the Bank under the Rome Treaty and the ESCB Statute.
 
-32J.—(1) The Bank shall keep all proper accounting records of all its transactions.
+32J.—(1) The Bank shall keep all proper accounting records of all its transactions. (2) The Bank’s accounts shall show separately—
 
-(2) The Bank’s accounts shall show separately—
+(a) receipts from funds raised from levies and fees prescribed by regulations
 
-(a) receipts from funds raised from levies and fees prescribed by
-
-(b) its income from penalties imposed under paragraphs (c) and (f) of
+(b) its income from penalties imposed under paragraphs (c) and (f) of section
 
 (c) other receipts and expenditure.
 
-(3) Within 6 months after the end of each financial year, the Bank shall prepare and transmit to the Comptroller and Auditor General a statement of accounts for the financial year concerned. The statement shall be in a form approved by the Minister after consulting the Bank. The approval of a form of statement of Item Provision Amendment affected accounts under this subsection remains in force until superseded by the approval of another form of statement of accounts. (4) The statement shall show separately—
+(3) Within 6 months after the end of each financial year, the Bank shall prepare and transmit to the Comptroller and Auditor General a statement of accounts for the financial year concerned. The statement shall be in a form approved by the Minister after consulting the Bank. The approval of a form of statement of accounts under this subsection remains in force until superseded by the approval of another form of statement of accounts. (4) The statement shall show separately—
 
-(a) receipts from funds raised from levies and fees prescribed by
+(a) receipts from funds raised from levies and fees prescribed by regulations
 
 (b) other receipts and expenditure.
 
 (5) The Comptroller and Auditor General shall audit, certify and report on the statement of accounts and, as soon as practicable after completing the report, give it and the statement of accounts to the Minister.
 
-(6) As soon as practicable after being given the report and statement of accounts, the Minister shall arrange for copies of those documents to be laid before each House of the Oireachtas. (7) The accounts of the Bank may be audited in accordance with Article 27 of the ESCB Statute and, for that purpose, the Bank shall provide any auditors appointed in accordance with that Article with full information, books and records.
+(6) As soon as practicable after being given the report and statement of accounts, the Minister shall arrange for copies of those documents to be laid before each House of the Oireachtas. (7) The accounts of the Bank may be audited in accordance with Article 27 of the ESCB Statute and, for that purpose, the Bank shall provide any auditors Item Provision Amendment affected appointed in accordance with that Article with full information, books and records.
 
 (8) The Bank shall keep its accounting records for at least 6 years.
 
@@ -700,9 +686,9 @@ Chapter 2A
 
 (2) A performance statement is to be in 3 parts—
 
-(a) details, including the aims and objectives, of regulatory activity
+(a) details, including the aims and objectives, of regulatory activity planned
 
-(b) a review of the Bank’s regulatory performance during the preceding Item Provision Amendment affected
+(b) a review of the Bank’s regulatory performance during the preceding year
 
 (c) the report of any international peer review carried out during the
 
@@ -716,9 +702,9 @@ Chapter 2A
 
 (6) If the Governor or a Head of Function is requested by a Committee of the Oireachtas to—
 
-(a) attend before the Committee, and
+(a) attend before the Committee, and Item Provision Amendment affected
 
-(b) provide that Committee with information relating to the Bank’s the Governor or Head of Function shall—
+(b) the Governor or Head of Function shall—
 
 (i) appear before the Committee, and
 
@@ -726,9 +712,7 @@ Chapter 2A
 
 (7) The reference in subsection (6) to a Committee of the Oireachtas is a reference to a Committee appointed by either House or by both Houses jointly to examine matters relating to the Bank and includes a subcommittee of such a Committee, but does not include the Committee on Members’ Interests of Dáil
 
-32M.—At least every 4 years the Bank shall make appropriate arrangements for—
-
-(a) another national central bank, or
+32M.—At least every 4 years the Bank shall make appropriate arrangements for— (a) another national central bank, or
 
 (b) another person or body certified by the Governor, after consultation to carry out a review of the Bank’s performance of its regulatory functions.”.
 
@@ -742,7 +726,7 @@ Chapter 2A
 
 44 Section Delete “members of the Regulatory Authority”, substitute “Bank”. 33X(8)(c)
 
-45 Section Delete “Regulatory Authority”, substitute “Bank”. 33X(9) Item Provision Amendment affected
+45 Section Delete “Regulatory Authority”, substitute “Bank”. 33X(9)
 
 46 Section Delete “The Regulatory Authority”, substitute “The Governor, with the consent of the 33Y(1)
 
@@ -756,15 +740,15 @@ Chapter 2A
 
 51 Subsections Substitute: (4) to (7) of section 33AA
 
-(5) A direction given in accordance with subsection (4) shall not be inconsistent with—
+(5) A direction given in accordance with subsection (4) shall not be inconsistent with— Item Provision Amendment affected
 
-(a) in relation to a function or power to which subsection (1)(a) relates,
+(a) in relation to a function or power to which subsection (1)(a) relates, the
 
 (b) in relation to a function or power the management of which stands
 
 (6) In issuing directions to the Registrar under subsection (4) which relate to the exercise of the responsibilities and powers referred to in subsection (1)(a),
 
-(a) the conditions for the registration of a credit union set out in section
+(a) the conditions for the registration of a credit union set out in section 6
 
 (b) the voluntary ethos of credit unions.
 
@@ -780,7 +764,7 @@ Chapter 2A
 
 (9) The Registrar shall provide the Head of Financial Regulation with such information and assistance as the Head of Financial Regulation requests in relation to any complaint to the Bank about the conduct of a credit union.”.
 
-52 Section Substitute: 33AB Item Provision Amendment affected
+52 Section Substitute: 33AB
 
 33AB.—(1) The Bank shall provide the Registrar with such funds as the Bank considers
 
@@ -792,7 +776,7 @@ Chapter 2A
 
 55 Section Substitute: 33AD
 
-33AD.—The Registrar shall provide the Head of Financial Regulation with such
+33AD.—The Registrar shall provide the Head of Financial Regulation with such Item Provision Amendment affected
 
 (a) the use by the Registrar of the resources of the Bank that have been
 
@@ -812,7 +796,7 @@ Chapter 2A
 
 (b) the nature and scope of the activities to be undertaken,
 
-(c) the strategies and policies for achieving those objectives and how
+(c) the strategies and policies for achieving those objectives and how the
 
 (d) targets and criteria for assessing the performance of the Registrar.
 
@@ -820,7 +804,7 @@ Chapter 2A
 
 (4) The Bank may approve a work plan either with or without amendment.
 
-(5) On being approved under subsection (4), a draft work plan prepared for a financial year becomes the work plan for the Registrar for that year. The Registrar shall take all reasonably practical steps to implement the plan.”. Item Provision Amendment affected
+(5) On being approved under subsection (4), a draft work plan prepared for a financial year becomes the work plan for the Registrar for that year. The Registrar shall take all reasonably practical steps to implement the plan.”.
 
 57 Section Delete “Chief Executive”, substitute “Head of Financial Regulation”. 33AF(3)
 
@@ -828,9 +812,9 @@ Chapter 2A
 
 59 Paragraphs Substitute: (b)
 
-(ba)
+(ba) appointed members and former appointed members of the Commission;
 
-(bb) ex-officio members of the Commission and former ex-officio
+(bb) ex-officio members of the Commission and former ex-officio members
 
 (c) former members of the Regulatory Authority;
 
@@ -838,7 +822,7 @@ Chapter 2A
 
 60 Section Delete “subsection (1)(a), (b) or (c),”, substitute “paragraph (a), (b), (ba) or (c) of 33AG(8), definition of
 
-61 Section Substitute: 33AJ(1)(b)
+61 Section Substitute: 33AJ(1)(b) Item Provision Amendment affected
 
 (ba) the Heads of Function;
 
@@ -850,23 +834,21 @@ Chapter 2A
 
 63 Section Delete “Chief Executive”, substitute “Head of Financial Regulation”. 33AJ(7)
 
-64 Section Substitute: 33AK(1)
+64 Section Substitute: 33AK(1) (a) the Governor and every former Governor;
 
-(a) the Governor and every former Governor;
+(b) every former Director of the Central Bank and Financial Services Authority
 
-(b) every former Director of the Central Bank and Financial Services
-
-(c) every former member of the Irish Financial Services Regulatory
+(c) every former member of the Irish Financial Services Regulatory Authority;
 
 (d) every member and every former member of the Commission;
 
 (e) every Head of Function and every former Head of Function;
 
-(f) the Registrar of Credit Unions and every former Registrar of Credit
+(f) the Registrar of Credit Unions and every former Registrar of Credit Unions;
 
 (g) every other officer or employee and every other former officer or
 
-(h) every person who is or was formerly employed as a consultant, auditor Item Provision Amendment affected
+(h) every person who is or was formerly employed as a consultant, auditor
 
 (i) every person to whom this subsection (as in force immediately before
 
@@ -874,7 +856,7 @@ Chapter 2A
 
 (a) the business of any person or body whether corporate or incorporate
 
-(b) any matter arising in connection with the performance of the if such disclosure is prohibited by the Rome Treaty, the ESCB Statute or the Supervisory Directives.”.
+(b) any matter arising in connection with the performance of the functions if such disclosure is prohibited by the Rome Treaty, the ESCB Statute or the Supervisory Directives.”.
 
 65 Section After paragraph (ah), insert: 33AK(5)
 
@@ -882,7 +864,7 @@ Chapter 2A
 
 67 Section Insert at the end: 33AK(5)
 
-68 Section Delete “section 6H applies”, substitute “subsections (3) and (4) of section 32I apply”. 33AK(5)(p)
+68 Section Delete “section 6H applies”, substitute “subsections (3) and (4) of section 32I apply”. 33AK(5)(p) Item Provision Amendment affected
 
 69 Section Substitute: 33AL
 
@@ -902,7 +884,7 @@ Chapter 2A
 
 (2) In the case of a person appointed as the Secretary General of the Department of Finance, the Commission shall inform him or her of the obligation imposed by section 33AK as soon as practicable after he or she is so appointed.
 
-(3) A person shall not accept office as Governor or as an appointed member of the Commission, as a Head of Function, or as an officer or employee of the Bank, unless he or she has acknowledged, in a form determined by the Commission, that he or she has been informed of the obligations imposed by section 33AK.”. Item Provision Amendment affected
+(3) A person shall not accept office as Governor or as an appointed member of the Commission, as a Head of Function, or as an officer or employee of the Bank, unless he or she has acknowledged, in a form determined by the Commission, that he or she has been informed of the obligations imposed by section 33AK.”.
 
 70 Paragraphs Substitute: (a) to (d) of
 
@@ -922,11 +904,11 @@ Chapter 2A
 
 74 Section Delete “(and in particular the Consumer Director)”. 57CQ(1)
 
-75 Section Substitute: 57CQ(2)
+75 Section Substitute: 57CQ(2) Item Provision Amendment affected
 
 (a) to effectively deal with persistent patterns of complaints made against
 
-(b) to improve the way in which regulated financial service providers
+(b) to improve the way in which regulated financial service providers deal
 
 (c) to effectively deal with any other matter relating to promoting the
 
@@ -936,7 +918,7 @@ Chapter 2A
 
 61DA.—Proceedings for an offence under this Act, a designated enactment or a
 
-78 Section Delete “or the Regulatory Authority”. 61G(1) Item Provision Amendment affected
+78 Section Delete “or the Regulatory Authority”. 61G(1)
 
 79 Section Delete “or Regulatory Authority”. 61G(3)(a)
 
@@ -956,7 +938,7 @@ Chapter 2A
 
 (c) the Agency;
 
-(d) any other body prescribed by the Minister by regulations made for
+(d) any other body prescribed by the Minister by regulations made for the
 
 81 Schedule 1 Substitute:
 
@@ -964,19 +946,19 @@ SCHEDULE 1
 
 PROCEDURE OF THE COMMISSION
 
+Item Provision Amendment affected
+
 1.—The procedure for the calling of meetings of the Commission and for the conduct
 
 2.—If there are 10 or 11 members of the Commission, 6 members constitute a quorum;
 
-3.—(1) A meeting of the Commission is to be presided over by—
-
-(a) the Governor, or
+3.—(1) A meeting of the Commission is to be presided over by— (a) the Governor, or
 
 (b) in the absence of the Governor, or if there is no Governor—
 
 (i) the member appointed under section 22 to act as Governor, or
 
-(ii) if no member has been appointed under that section, a member elected by the members present at the meeting. Item Provision Amendment affected
+(ii) if no member has been appointed under that section, a member elected by the members present at the meeting.
 
 (2) If the votes are equal on a motion put at a meeting of the Commission, the person who is presiding at the meeting has a casting as well as a deliberative vote.
 
@@ -992,33 +974,31 @@ PROCEDURE OF THE COMMISSION
 
 (3) Papers may be circulated among the members for the purposes of subparagraph (1) by the electronic transmission of the information in the papers.
 
-6.—(1) If—
+6.—(1) If— (a) a member of the Commission has a direct or indirect pecuniary interest
 
-(a) a member of the Commission has a direct or indirect pecuniary
-
-(b) the interest appears to raise a conflict with the proper performance the member shall, as soon as possible after the relevant facts have come to his or her knowledge, disclose the nature of the interest at a meeting of the Commission or to the Secretary of the Commission.
+(b) the interest appears to raise a conflict with the proper performance of Item Provision Amendment affected the member shall, as soon as possible after the relevant facts have come to his or her knowledge, disclose the nature of the interest at a meeting of the Commission or to the Secretary of the Commission.
 
 (2) In the case of a disclosure under subparagraph (1) to the Secretary of the Commission, the Secretary shall inform the next meeting of the Commission of the disclosure.
 
 (3) A disclosure by a member that he or she—
 
-(a) is a director, or is in the employment, of a specified company or
+(a) is a director, or is in the employment, of a specified company or other
 
 (b) is a partner, or is in the employment, of a specified person, or
 
-(c) has some other specified interest relating to a specified company or is a sufficient disclosure of the nature of the interest in any matter relating to that company or other body, or to that person, that may arise after the date of the disclosure and that is required to be disclosed under subparagraph (1). Item Provision Amendment affected
+(c) has some other specified interest relating to a specified company or is a sufficient disclosure of the nature of the interest in any matter relating to that company or other body, or to that person, that may arise after the date of the disclosure and that is required to be disclosed under subparagraph (1).
 
 (4) The Secretary of the Commission shall make and keep a record of particulars of any disclosure made under this paragraph and, subject to section 33AK, shall make that record available for inspection at all reasonable hours by any person who asks to see it.
 
 (5) After a member has disclosed the nature of an interest in a matter, he or she may not, unless the other members otherwise determine—
 
-(a) be present during any deliberation of the Commission with respect
+(a) be present during any deliberation of the Commission with respect to
 
-(b) take part in any decision of the Commission with respect to the
+(b) take part in any decision of the Commission with respect to the matter.
 
 (6) For the purposes of the making of a determination by the members under subparagraph (5)(b), a member who has a direct or indirect pecuniary interest in a
 
-(a) to be present during any deliberation of the Commission for the
+(a) to be present during any deliberation of the Commission for the purpose
 
 (b) to take part in the making by the Commission of the determination.
 

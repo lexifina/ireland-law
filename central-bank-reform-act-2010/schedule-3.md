@@ -42,7 +42,7 @@ AMENDMENTS OF EUROPEAN COMMUNITIES (UNDERTAKINGS FOR COLLECTIVE INVESTMENT IN TR
 
 Item Provision Amendment affected
 
-1 Regulation Delete “and Financial Services Authority”. 2(1), definition of “Bank” Item Provision Amendment affected
+1 Regulation Delete “and Financial Services Authority”. 2(1), definition of “Bank”
 
 2 Regulation Substitute: 98(8), definition of “qualified
 
@@ -84,7 +84,7 @@ Item Provision Amendment affected
 
 (b) the Chief Executive of IAASA, or
 
-(c) any person to whom that Head or that Chief Executive has delegated
+(c) any person to whom that Head or that Chief Executive has delegated the
 
 PART 8
 

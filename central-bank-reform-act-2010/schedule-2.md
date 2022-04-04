@@ -18,7 +18,9 @@ Item Number Short Title Provisions and year
 
 5 No. 33 of Companies Act 1963 Section 213 1963
 
-6 No. 18 of Insurance Act 1964 The whole Act 1964 7 No. 24 of Central Bank Act 1971 The whole Act, 1971 other than subsections (1) and (4) of section 7 and sections 44 to 46, 48 to 50 and 55
+6 No. 18 of Insurance Act 1964 The whole Act 1964
+
+7 No. 24 of Central Bank Act 1971 The whole Act, 1971 other than subsections (1) and (4) of section 7 and sections 44 to 46, 48 to 50 and 55
 
 8 No. 30 of Insurance (Amendment) The whole Act 1978 Act 1978
 
@@ -48,9 +50,7 @@ Item Number Short Title Provisions and year
 
 21 No. 11 of Investment Intermediaries The whole Act 1995 Act 1995
 
-22 No. 24 of Consumer Credit Act 1995 The whole Act 1995
-
-23 No. 25 of Netting of Financial Sections 2 and 3 1995 Contracts Act 1995
+22 No. 24 of Consumer Credit Act 1995 The whole Act 1995 23 No. 25 of Netting of Financial Sections 2 and 3 1995 Contracts Act 1995
 
 24 No. 8 of Central Bank Act 1997 The whole Act other 1997 than Parts II and III and section 77
 
@@ -60,7 +60,9 @@ Item Number Short Title Provisions and year
 
 27 No. 32 of Dormant Accounts Act The whole Act 2001 2001
 
-28 No. 47 of Asset Covered Securities The whole Act 2001 Act 2001 29 No. 28 of Company Law Section 110A 2001 Enforcement Act 2001
+28 No. 47 of Asset Covered Securities The whole Act 2001 Act 2001
+
+29 No. 28 of Company Law Section 110A 2001 Enforcement Act 2001
 
 30 No. 2 of Unclaimed Life Assurance The whole Act 2003 Policies Act 2003
 
@@ -88,13 +90,13 @@ Item Number Citation Provisions and Year
 
 1 S.R.&O. Actuary (Qualifications) The whole No. 75 of Regulations 1940 instrument 1940
 
-2 S.R.&O. Industrial Assurance The whole No. 76 of (Contents of Policies) instrument 1940 Order 1940
-
-3 S.R.&O. Insurance (Deposits) Rules The whole No. 78 of 1940 instrument 1940
+2 S.R.&O. Industrial Assurance The whole No. 76 of (Contents of Policies) instrument 1940 Order 1940 3 S.R.&O. Insurance (Deposits) Rules The whole No. 78 of 1940 instrument 1940
 
 4 S.R.&O. Insurance Regulations The whole No. 80 of 1940 instrument 1940
 
-5 S.R.&O. Industrial Assurance (Fees The whole No. 81 of for Determination of instrument 1940 Disputes) Regulations 1940 6 S.I. No. 64 Decimal Currency The whole of 1971 (Friendly Society and instrument Industrial Assurance Contracts) Regulations 1971
+5 S.R.&O. Industrial Assurance (Fees The whole No. 81 of for Determination of instrument 1940 Disputes) Regulations 1940
+
+6 S.I. No. 64 Decimal Currency The whole of 1971 (Friendly Society and instrument Industrial Assurance Contracts) Regulations 1971
 
 7 S.I. No. European Communities The whole 115 of (Non-Life Insurance) instrument 1976 Regulations 1976
 
@@ -116,13 +118,13 @@ Item Number Citation Provisions and Year
 
 16 S.I. No. European Communities The whole 244 of (Non-Life Insurance) instrument 1992 (Amendment) Regulations 1992
 
-17 S.I. No. European Communities Regulations 8, 14 294 of (Credit Institutions: and 15 1992 Accounts) Regulations 1992
-
-18 S.I. No. European Communities The whole 395 of (Licensing and Supervision instrument 1992 of Credit Institutions) Regulations 1992
+17 S.I. No. European Communities Regulations 8, 14 294 of (Credit Institutions: and 15 1992 Accounts) Regulations 1992 18 S.I. No. European Communities The whole 395 of (Licensing and Supervision instrument 1992 of Credit Institutions) Regulations 1992
 
 19 S.I. No. European Communities The whole 359 of (Non-Life Insurance) instrument 1994 Framework Regulations 1994
 
-20 S.I. No. European Communities The whole 360 of (Life Assurance) instrument 1994 Framework Regulations 1994 21 S.I. No. 27 European Communities The whole of 1995 (Unfair Terms in Consumer instrument Contracts) Regulations 1995
+20 S.I. No. European Communities The whole 360 of (Life Assurance) instrument 1994 Framework Regulations 1994
+
+21 S.I. No. 27 European Communities The whole of 1995 (Unfair Terms in Consumer instrument Contracts) Regulations 1995
 
 22 S.I. No. European Communities The whole 168 of (Deposit Guarantee instrument 1995 Schemes) Regulations 1995
 
@@ -140,15 +142,15 @@ Item Number Citation Provisions and Year
 
 29 S.I. No. European Communities The whole 307 of (Unfair Terms in Consumer instrument 2000 Contracts) (Amendment) Regulations 2000
 
-30 S.I. No. Insurance Act, 1989 The whole 473 of (Reinsurance) (Form of instrument 2000 Notice) Regulations 2000
-
-31 S.I. No. 15 Life Assurance (Provision The whole of 2001 of Information) instrument Regulations 2001
+30 S.I. No. Insurance Act, 1989 The whole 473 of (Reinsurance) (Form of instrument 2000 Notice) Regulations 2000 31 S.I. No. 15 Life Assurance (Provision The whole of 2001 of Information) instrument Regulations 2001
 
 32 S.I. No. European Communities The whole 221 of (Electronic Money) instrument 2002 Regulations 2002
 
 33 S.I. No. European Communities The whole 335 of (Cross Border Payments in instrument 2002 Euro) Regulations 2002
 
-34 S.I. No. European Communities The whole 168 of (Reorganisation and instrument 2003 Winding-up of Insurance Undertakings) Regulations 2003 35 S.I. No. European Communities The whole 211 of (Undertakings for instrument 2003 Collective Investments in Transferable Securities) Regulations 2003
+34 S.I. No. European Communities The whole 168 of (Reorganisation and instrument 2003 Winding-up of Insurance Undertakings) Regulations 2003
+
+35 S.I. No. European Communities The whole 211 of (Undertakings for instrument 2003 Collective Investments in Transferable Securities) Regulations 2003
 
 36 S.I. No. European Communities The whole 198 of (Reorganisation and instrument 2004 Winding-Up of Credit Institutions) Regulations 2004
 
@@ -168,13 +170,13 @@ Item Number Citation Provisions and Year
 
 44 S.I. No. European Communities The whole 661 of (Capital Adequacy of instrument 2006 Credit Institutions) Regulations 2006
 
-45 S.I. No. 60 European Communities The whole of 2007 (Markets in Financial instrument Instruments) Regulations 2007
-
-46 S.I. No. European Communities The whole 366 of (Insurance and instrument 2007 Reinsurance Groups Supplementary Supervision) Regulations 2007
+45 S.I. No. 60 European Communities The whole of 2007 (Markets in Financial instrument Instruments) Regulations 2007 46 S.I. No. European Communities The whole 366 of (Insurance and instrument 2007 Reinsurance Groups Supplementary Supervision) Regulations 2007
 
 47 S.I. No. European Communities The whole 383 of (Payment Services) instrument (other 2009 Regulations 2009 than Part 3)
 
-48 S.I. No. European Communities The whole 475 of (Credit Institutions) instrument 2009 (ConsolidatedSupervision) Regulations 2009 49 S.I. No. European Communities The whole 183 of (Cross Border Payments in instrument 2010 the Community) Regulations 2010
+48 S.I. No. European Communities The whole 475 of (Credit Institutions) instrument 2009 (ConsolidatedSupervision) Regulations 2009
+
+49 S.I. No. European Communities The whole 183 of (Cross Border Payments in instrument 2010 the Community) Regulations 2010
 
 50 S.I. No. European Communities The whole 281 of (Consumer Credit instrument 2010 Agreements) Regulations 2010
 
@@ -200,7 +202,7 @@ Item Provision Amendment affected
 
 1 Section Delete “and Financial Services Authority”. 2(1), definition of “Bank”
 
-2 Section Delete. 2(1), definition of Item Provision Amendment affected
+2 Section Delete. 2(1), definition of
 
 3 Section Delete “or the Chief Executive”, substitute “or the Head of Financial Regulation”. 17A(8), definition of “suitably
 
@@ -222,9 +224,9 @@ AMENDMENTS OF CENTRAL BANK ACT 1997
 
 Item Provision Amendment affected
 
-1 Section Delete “and Financial Services Authority”. 2(1), definition of
+1 Section Delete “and Financial Services Authority”. 2(1), definition of Item Provision Amendment affected
 
-2 Section Delete. 75(8), definition of Item Provision Amendment affected
+2 Section Delete. 75(8), definition of
 
 3 Section Substitute: 75(8), definition of
 
@@ -248,7 +250,7 @@ AMENDMENTS OF ANGLO IRISH BANK CORPORATION ACT 2009
 
 Item Provision Amendment affected
 
-1 Section 1, Delete “and Financial Services Authority”. definition of
+1 Section 1, Delete “and Financial Services Authority”. definition of Item Provision Amendment affected
 
 2 Section 1, Delete. definition of
 
@@ -256,7 +258,7 @@ Item Provision Amendment affected
 
 4 Section Delete “or the Regulatory Authority”. 2(3)
 
-5 Section Delete. 21(2)(f) Item Provision Amendment affected
+5 Section Delete. 21(2)(f)
 
 6 Section Delete “or the Regulatory Authority”. 21(2)(g)
 
@@ -284,7 +286,7 @@ Item Provision Amendment affected
 
 2 Section Substitute: 110A(8A)
 
-(a) the Head of Financial Regulation of the Central Bank of Ireland, or
+(a) the Head of Financial Regulation of the Central Bank of Ireland, or Item Provision Amendment affected
 
 (b) a person authorised by the Head of Financial Regulation, to be a true copy of, or an extract from, the document so kept is, without proof of the official position of the person purporting to so certify, admissible in evidence in all legal proceedings as of equal validity with the document so kept.”.
 
@@ -318,7 +320,7 @@ Item Provision Amendment affected
 
 3 After section 8, insert:
 
-8A.—(1) To enable the Agency to perform the functions set out in section 8(3)(ha),
+8A.—(1) To enable the Agency to perform the functions set out in section 8(3)(ha), Item Provision Amendment affected
 
 (a) undertake studies, analyses and surveys with respect to the provision
 
@@ -328,25 +330,25 @@ Item Provision Amendment affected
 
 (2) In undertaking such a study, analysis or survey, the Agency—
 
-(a) may, by notice in writing, require any person who, in the opinion of
+(a) may, by notice in writing, require any person who, in the opinion of the
 
 (b) may, by the same or another notice in writing, require the person to
 
-(3) A person commits an offence if the person— Item Provision Amendment affected
+(3) A person commits an offence if the person—
 
-(a) intentionally prevents the Agency from exercising a power conferred
+(a) intentionally prevents the Agency from exercising a power conferred by
 
-(b) intentionally obstructs or hinders the Agency in the exercise of such
+(b) intentionally obstructs or hinders the Agency in the exercise of such a
 
-(c) without reasonable excuse, fails to comply with a requirement made
+(c) without reasonable excuse, fails to comply with a requirement made to
 
-(d) in purporting to comply with a requirement made under subsection
+(d) in purporting to comply with a requirement made under subsection (2)
 
 (4) A person who is convicted of an offence under this section is liable—
 
 (a) on conviction on indictment, to a fine not exceeding €30,000 or to
 
-(b) on summary conviction, to a fine not exceeding €3,000 or to
+(b) on summary conviction, to a fine not exceeding €3,000 or to imprisonment
 
 (5) Summary proceedings for an offence under this section may be brought and prosecuted by the Agency, but not to the exclusion of any other person who is authorised to bring and prosecute summary offences.”.
 
@@ -358,19 +360,19 @@ Item Provision Amendment affected
 
 24B.—(1) The Agency may make regulations prescribing levies to be paid by persons
 
-(2) A levy prescribed under subsection (1) shall relate only to the Agency’s
+(2) A levy prescribed under subsection (1) shall relate only to the Agency’s Item Provision Amendment affected
 
 (3) In particular, regulations under subsection (1) may provide for any of the following matters:
 
-(a) the activities, services or other matters for which specified kinds of
+(a) the activities, services or other matters for which specified kinds of levies
 
 (b) the persons, or classes of persons, who are required to pay specified
 
 (c) the amounts of specified kinds of levies;
 
-(d) the periods for which, or the dates by which, specified levies are to
+(d) the periods for which, or the dates by which, specified levies are to be
 
-(e) penalties that are payable by a person who fails to pay a levy on Item Provision Amendment affected
+(e) penalties that are payable by a person who fails to pay a levy on time;
 
 (f) the keeping of records, and the making of returns to the Agency, by
 
@@ -390,15 +392,15 @@ Item Provision Amendment affected
 
 24C.—(1) If the total sum received by the Agency on account of levies prescribed
 
-(a) shall apply the surplus to the performance of those functions and
+(a) shall apply the surplus to the performance of those functions and the
 
-(b) shall reduce the levies prescribed in relation to the latter financial
+(b) shall reduce the levies prescribed in relation to the latter financial year
 
 (2) If the sum received by the Agency on account of levies prescribed under section 24B during a financial year is less than the Agency’s expenditure on the
 
 (a) make good the deficiency, and
 
-(b) ensure that the sum received by the Agency on account of such levies
+(b) ensure that the sum received by the Agency on account of such levies Item Provision Amendment affected
 
 24D.—(1) The Agency may enter into an arrangement with a prescribed body in
 
@@ -406,7 +408,7 @@ Item Provision Amendment affected
 
 (3) An arrangement referred to in subsection (1) shall provide for the costs associated with the collection of the levy concerned to be met by the entity entitled to receive the levy.
 
-(4) Nothing in this section affects any other power of the Agency to enter into an arrangement for the collection of levies. Item Provision Amendment affected
+(4) Nothing in this section affects any other power of the Agency to enter into an arrangement for the collection of levies.
 
 (5) In this section—
 
@@ -416,17 +418,23 @@ Item Provision Amendment affected
 
 (c) the Central Bank of Ireland;
 
-(d) any other body prescribed by the Minister by regulations made for the
+(d) any other body prescribed by the Minister by regulations made for the purposes
 
 24E.—In its annual report and annual accounts, the Agency shall include statements
 
 (a) the amounts collected by way of levies under section 24B, and
 
-(b) how those amounts were expended.”. affected
+(b) how those amounts were expended.”.
+
+PART 6
+
+AMENDMENTS OF CREDIT INSTITUTIONS (FINANCIAL SUPPORT) ACT 2008
+
+Item Provision Amendment affected
 
 1 Section Delete “the Governor and the Regulatory Authority”, substitute “the Central Bank and 2(2)
 
-2 Section Delete “or the Regulatory Authority”. 2(3)
+2 Section Delete “or the Regulatory Authority”. 2(3) Item Provision Amendment affected
 
 3 Section Delete “and the Regulatory Authority”. 7(1)(a)
 
@@ -446,7 +454,7 @@ Item Provision Amendment affected
 
 (ii) if the Bank so approves in writing, 40 per cent of the total gross loan book balance outstanding at that time in relation to all loans made by the credit union, or
 
-(b) for a period exceeding 10 years if, were the loan to be made, the
+(b) for a period exceeding 10 years if, were the loan to be made, the total
 
 (i) 10 per cent of the total gross loan book balance outstanding at that time in relation to all loans made by the credit union, or
 
@@ -458,11 +466,11 @@ Item Provision Amendment affected
 
 (2B) In subsection (2), ‘final repayment date’ for a loan means—
 
-(a) the date on which the loan is due to expire, as indicated on the
+(a) the date on which the loan is due to expire, as indicated on the relevant
 
-(b) any subsequent date agreed between the credit union and the
+(b) any subsequent date agreed between the credit union and the member
 
-(2C) Where the Bank considers it necessary for the adequate protection of the savings of members of a particular credit union, a class of credit unions or all credit unions, the Bank may by written notice impose on the credit union, the class of credit unions or all credit unions such requirements as the Bank considers appropriate in relation to any one or more of the following matters:
+(2C) Where the Bank considers it necessary for the adequate protection of the savings of members of a particular credit union, a class of credit unions or all credit unions, the Bank may by written notice impose on the credit union, the class of credit unions or all credit unions such requirements as the Bank considers appropriate in relation to any one or more of the following matters: Item Provision Amendment affected
 
 (a) lending practices;
 
@@ -472,7 +480,7 @@ Item Provision Amendment affected
 
 (d) the holding of liquid assets as a specified percentage based on the
 
-(e) systems, controls and reporting arrangements in relation to any of Item Provision Amendment affected
+(e) systems, controls and reporting arrangements in relation to any of the
 
 (2D) In exercising the power conferred on it by subsection (2C), the Bank shall have regard to the lending framework provided for in subsection (2).
 
@@ -538,11 +546,11 @@ Item Provision Amendment affected
 
 10 Section Substitute: 202(6)(e)
 
-11 Section Substitute: 203(v)
+11 Section Substitute: 203(v) Item Provision Amendment affected
 
 12 Section Delete “Regulatory Authority”, substitute “Central Bank”. 205(1)
 
-13 Section Delete “Regulatory Authority”, substitute “Central Bank”. 205(4) Item Provision Amendment affected
+13 Section Delete “Regulatory Authority”, substitute “Central Bank”. 205(4)
 
 14 Section Delete “Regulatory Authority”, substitute “Central Bank”. 206(1)
 
