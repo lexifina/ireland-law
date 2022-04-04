@@ -1,12 +1,6 @@
 Section 134: supplemental provisions.
 
-135.—(1) For the avoidance of doubt—
-
-(a) a fresh application must be made under section 134 in respect of each new tenancy that is created in respect of a dwelling,
-
-(b) the fact that a tenancy is continued in being as a Part 4 tenancy does not give rise to any requirement under section 134 to apply to register the Part 4 tenancy, and
-
-(c) the coming into being of a further Part 4 tenancy in respect of a dwelling does, however, give rise to a requirement under section 134 to apply to register that further Part 4 tenancy.
+135.—(1) ...
 
 (2) ...
 
@@ -27,6 +21,8 @@ Section 134: supplemental provisions.
 (i) a summary of the rights and obligations of tenants and landlords under this Act and without prejudice to the generality of the foregoing, the statement shall set out a summary of the rights and obligations of tenants and landlords in relation to—
 
 (I) the setting of rent under section 19, a review of rent under section 20 and the notification of a new rent under section 22,
+
+(IA) the obligation on the landlord to pay fees to the Board on an application to register a tenancy at its commencement and annually during the tenancy,
 
 (II) security of tenure under Part 4 (other than in the case of a tenancy referred to in subsection (1A) of section 3),
 

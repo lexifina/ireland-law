@@ -6,6 +6,8 @@ Particulars to be specified in application under section 134.
 
 (b) the name, address where the landlord ordinarily resides, any other address for correspondence the landlord may wish to provide and the personal public service number (if any) of the landlord and, where the application is made by his or her authorised agent, the name, address for correspondence and personal public service number (if any) of the agent,
 
+(ba) if the application relates to registration on the commencement of a tenancy or annual registration during a tenancy,
+
 (c) if the landlord is a company, the registered number and registered office of that company,
 
 (d) if (where the application is made by the landlord’s authorised agent) the authorised agent is a company, the registered number and registered office of that company,

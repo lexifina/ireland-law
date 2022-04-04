@@ -28,6 +28,16 @@ Functions of Board.
 
 (2) The Board shall provide information to the Minister on such matters related to its functions and the ... rented sector as may be requested by the Minister from time to time.
 
+(2A) (a) The Minister shall, not earlier than 12 months and not later than 15 months after the commencement of section 22 of the Residential Tenancies (Amendment) Act 2019, request the Board to provide him or her with such information in relation to prevailing rent levels in the rented sector (other than lettings referred to in paragraph (b) of the definition of that term) as he or she may specify by such date (which shall be a date that falls not later than 3 months after the date of the request concerned) as he or she may specify.
+
+(b) The Board shall comply with a request under paragraph (a).
+
+(c) The Minister shall, not later than 3 months after the date specified under paragraph (a) in respect of the request concerned—
+
+(i) prepare a report in relation to prevailing rent levels in the rented sector (other than lettings referred to in paragraph (b) of the definition of that term), and
+
+(ii) lay a copy of that report before each House of the Oireachtas.
+
 (3) The Minister may, if he or she so thinks fit or if so requested by another Minister of the Government, after consultation with—
 
 (a) the Board,
@@ -40,7 +50,7 @@ Functions of Board.
 
 (ii) make such provision as he or she considers necessary or expedient in relation to matters ancillary to or arising out of the conferral on the Board of functions under this subsection or the performance by the Board of functions so conferred.
 
-(4) In this section ‘rented sector’ means—
+(4) In this section "rented sector" means—
 
 (a) the sector of commercial activity in the State consisting of the letting of dwellings, and
 
