@@ -18,9 +18,7 @@ Adaptation of references to Defence Forces, etc., in certain enactments.
 
 (d) references to a commissioned military rank set out in the Table to section 3 of the Act of 1947 shall be construed as references to the similar commissioned army rank set out in column (2) of the Second Schedule to this Act or to the commissioned naval rank set out in column (3) of the said Second Schedule which corresponds to such commissioned army rank,
 
-(e) references to a non-commissioned military rank set out in the Table to section 5 of the Act of 1947 at any reference number shall be construed as references to the similar non-commissioned army rank set out in column (2) of the Third Schedule to this Act or to the non-commissioned naval rank set out in column
-
-(3) of the said Third Schedule which corresponds to such non-commissioned army rank,
+(e) references to a non-commissioned military rank set out in the Table to section 5 of the Act of 1947 at any reference number shall be construed as references to the similar non-commissioned army rank set out in column (2) of the Third Schedule to this Act or to the non-commissioned naval rank set out in column (3) of the said Third Schedule which corresponds to such non-commissioned army rank,
 
 (f) references to the former commissioned rank of major shall be construed as references to the commissioned rank of lieutenant-colonel.
 

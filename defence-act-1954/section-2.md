@@ -2,11 +2,11 @@ Interpretation generally.
 
 2.—(1) In this Act— the expression “absence without leave” means the act of a person absenting himself without leave within the meaning of section 137; the expression “absent himself without leave” has the same meaning as in section 137; the word “absentee” means a person who absents himself without leave within the meaning of section 137; the expression “on active service” has, in relation to a person subject to military law, the meaning assigned to it by section 5; the expression “the Act of 1923” means the Defence Forces (Temporary Provisions) Act, 1923 (No. 30 of 1923), as amended, extended and continued by subsequent enactments;
 
-‘Act of 1947’ means the Courts of Justice Act 1947.
+"Act of 1947" means the Courts of Justice Act 1947.
 
 ... the expression “the Army Nursing Service” means the nursing service established under section 289;
 
-‘assisting person’ means in relation to proceedings for an offence under Part V of this Act, subject to the consent of the member concerned, such member of the Defence Forces who is subject to military law as the person charged with the offence may choose for the purposes of providing assistance to that person as provided for in the said Part V; the expression “attestation paper” means the document referred to as an attestation paper in section 56; the expression “called out in aid of the civil power”, in relation to a reservist, shall be construed in accordance with subsection (2) of section 90; the expression “called out on permanent service”, in relation to a reservist, shall be construed in accordance with subsection (2) of section 87 or subsection (3) of section 88 (whichever of those subsections is applicable); the expression “certificate of discharge” means a certificate issued under section 82; the expression “the Chief of Staff” means the Chief of Staff of the Defence Forces; the expression “civil court” means any court established under Article 34 of the Constitution, and includes the courts established under the Courts of Justice Act, 1924 (No. 10 of 1924), and any Special Criminal Court established under the Offences against the State Act, 1939 (No. 13 of 1939); the expression “civil custody” means the custody of the Garda Síochána or other lawful civil authority authorised to retain in custody civil prisoners and includes confinement in a public prison; the expression “civil offence” has the meaning assigned to it by section 169; the expression “class of reservists” means any class of the Reserve Defence Force, being—
+"assisting person" means in relation to proceedings for an offence under Part V of this Act, subject to the consent of the member concerned, such member of the Defence Forces who is subject to military law as the person charged with the offence may choose for the purposes of providing assistance to that person as provided for in the said Part V; the expression “attestation paper” means the document referred to as an attestation paper in section 56; the expression “called out in aid of the civil power”, in relation to a reservist, shall be construed in accordance with subsection (2) of section 90; the expression “called out on permanent service”, in relation to a reservist, shall be construed in accordance with subsection (2) of section 87 or subsection (3) of section 88 (whichever of those subsections is applicable); the expression “certificate of discharge” means a certificate issued under section 82; the expression “the Chief of Staff” means the Chief of Staff of the Defence Forces; the expression “civil court” means any court established under Article 34 of the Constitution, and includes the courts established under the Courts of Justice Act, 1924 (No. 10 of 1924), and any Special Criminal Court established under the Offences against the State Act, 1939 (No. 13 of 1939); the expression “civil custody” means the custody of the Garda Síochána or other lawful civil authority authorised to retain in custody civil prisoners and includes confinement in a public prison; the expression “civil offence” has the meaning assigned to it by section 169; the expression “class of reservists” means any class of the Reserve Defence Force, being—
 
 (a) the Reserve of Men (First Line), or
 
@@ -20,13 +20,13 @@ Interpretation generally.
 
 (b) a commissioned naval rank; the expression “company commander” means in any section in which it occurs an officer declared by regulations made by the Minister under this Act to be a company commander for the purposes of that section;
 
-‘court-martial’, when used without qualification, means a general court-martial, a limited court-martial or a summary court-martial;
+"court-martial", when used without qualification, means a general court-martial, a limited court-martial or a summary court-martial;
 
-‘Court-Martial Administrator’ means the Court-Martial Administrator appointed under Chapter IVA of Part V of this Act;
+"Court-Martial Administrator" means the Court-Martial Administrator appointed under Chapter IVA of Part V of this Act;
 
-‘court-martial rules’ means rules made under section 240B with respect to courts-martial; references to the date of attestation of a man shall be construed as references to the date which is, by virtue of section 59, the date of his attestation;
+"court-martial rules" means rules made under section 240B with respect to courts-martial; references to the date of attestation of a man shall be construed as references to the date which is, by virtue of section 59, the date of his attestation;
 
-‘a day’s pay’ means—
+"a day’s pay" means—
 
 (a) in relation to a person who is convicted by a court-martial of an offence against military law or in respect of whom a determination is made or confirmed under Chapter IV of Part V of this Act and who is a member of the Defence Forces, the basic pay, excluding any additional pay or allowance, that is, or would be, payable to that person in respect of the day on which punishment is awarded in respect of the offence, or
 
@@ -34,25 +34,25 @@ Interpretation generally.
 
 (c) in relation to a person who is convicted by a court-martial of an offence against military law or in respect of whom a determination is made or confirmed under Chapter IV of Part V of this Act and who is not a member of the Defence Forces but who is, or was when the offence was committed, subject to military law as an officer pursuant to section 118(d) or (e) or as a man pursuant to section 119(c) or (d), the basic pay, excluding any additional pay or allowance, that would be payable to an officer in the rank of second lieutenant who is in receipt of the maximum pay applicable to that rank, or to a man in the rank of private of the highest grade who is in receipt of the maximum pay applicable to that rank, as the case may be, in respect of the day on which punishment is awarded in respect of the offence; the word “decoration” means any medal, clasp, good-conduct badge or other decoration; the expression “the Defence Forces” means the defence forces to be raised and maintained under this Act;
 
-‘Defence Forces Headquarters’ shall be construed in accordance with section 13 (inserted by section 4 of the Defence (Amendment) Act, 1998);
+"Defence Forces Headquarters" shall be construed in accordance with section 13 (inserted by section 4 of the Defence (Amendment) Act, 1998);
 
-‘Deputy Chief of Staff (Operations)’ means the Deputy Chief of Staff (Operations) of the Defence Forces;
+"Deputy Chief of Staff (Operations)" means the Deputy Chief of Staff (Operations) of the Defence Forces;
 
-‘Deputy Chief of Staff (Support)’ means the Deputy Chief of Staff (Support) of the Defence Forces; the word “desert” means desert the Defence Forces within the meaning of section 135; the word “deserter” means a person who deserts; the word “desertion” means the act of deserting the Defence Forces within the meaning of section 135; the expression “detention barrack” means a building or part of a building declared under section 232 to be a detention barrack;
+"Deputy Chief of Staff (Support)" means the Deputy Chief of Staff (Support) of the Defence Forces; the word “desert” means desert the Defence Forces within the meaning of section 135; the word “deserter” means a person who deserts; the word “desertion” means the act of deserting the Defence Forces within the meaning of section 135; the expression “detention barrack” means a building or part of a building declared under section 232 to be a detention barrack;
 
-‘Director’ means the Director of Military Prosecutions appointed under Chapter IVB of Part V of this Act;
+"Director" means the Director of Military Prosecutions appointed under Chapter IVB of Part V of this Act;
 
-‘document’ includes—
+"document" includes—
 
 (a) a map, plan, graph, drawing, photograph or record, or
 
-(b) a reproduction in permanent legible form, by a computer or other means (including enlarging), of information in non-legible form; the expression “employed on a State ship” has, in relation to a member of the Defence Forces, the meaning assigned to it by section 6; the word “enemy” includes armed mutineers, armed rebels, armed rioters and pirates; the expression ‘flag officer’ means an officer holding the commissioned naval rank of commodore or higher commissioned naval rank; the expression “fraudulent enlistment” means the act of fraudulently enlisting within the meaning of section 164; the expression ‘general officer’ means an officer holding the commissioned army rank of brigadier-general or higher commissioned army rank;
+(b) a reproduction in permanent legible form, by a computer or other means (including enlarging), of information in non-legible form; the expression “employed on a State ship” has, in relation to a member of the Defence Forces, the meaning assigned to it by section 6; the word “enemy” includes armed mutineers, armed rebels, armed rioters and pirates; the expression "flag officer" means an officer holding the commissioned naval rank of commodore or higher commissioned naval rank; the expression “fraudulent enlistment” means the act of fraudulently enlisting within the meaning of section 164; the expression "general officer" means an officer holding the commissioned army rank of brigadier-general or higher commissioned army rank;
 
-‘intoxicant’ includes any alcohol, drug, solvent or any other substance or combination of substances; the word “man” means a person who is for the time being a member of the Defence Forces, but does not include an officer;
+"intoxicant" includes any alcohol, drug, solvent or any other substance or combination of substances; the word “man” means a person who is for the time being a member of the Defence Forces, but does not include an officer;
 
 ...
 
-‘military judge’—
+"military judge"—
 
 (a) means a military judge appointed under Chapter IVC of Part V of this Act, and
 
@@ -74,11 +74,11 @@ Interpretation generally.
 
 ... the expression “recruiting regulations” means regulations made under section 56; the expression “registered place of abode” means, in relation to a reservist, the address registered by him, in accordance with regulations made by the Minister under this Act, as his registered place of abode; the expression “the Reserve Defence Force” means the constituent part of the Defence Forces which is to be called and known by that name; the word “reservist”, when used without qualification, means a man of the Reserve Defence Force; the expression “right over land” means any easement, profit á prendre or other right over or in respect of land; the expression “rules of procedure” means rules made under section 240;
 
-‘scheduled offence’, for the purposes of Part V of this Act, shall have the meaning assigned to it by section 176A; the expression “secret society” means an association, society or other body the members of which are required by the regulations thereof to take or enter into, or do in fact take or enter into, an oath, affirmation, declaration or agreement not to disclose the proceedings or some part of the proceedings of the association, society or body; the word “service”, when qualifying aircraft, aircraft material, equipment, vehicles, animals, messes, institutes, canteens, necessaries, clothing, books or property or any other matter, means belonging to or connected with the Defence Forces or any unit or part of a unit thereof; the expression “service corps” means any military body or combination of military bodies declared to be a service corps by regulations made under section 23 and for the time being in force; the expression “service custody” means the holding under arrest or in confinement of a person by the Defence Forces and includes confinement in a military prison or a detention barrack; the expression “State ship” means a ship or vessel belonging to, or employed in the service of, the State and used for defence purposes;
+"scheduled offence", for the purposes of Part V of this Act, shall have the meaning assigned to it by section 176A; the expression “secret society” means an association, society or other body the members of which are required by the regulations thereof to take or enter into, or do in fact take or enter into, an oath, affirmation, declaration or agreement not to disclose the proceedings or some part of the proceedings of the association, society or body; the word “service”, when qualifying aircraft, aircraft material, equipment, vehicles, animals, messes, institutes, canteens, necessaries, clothing, books or property or any other matter, means belonging to or connected with the Defence Forces or any unit or part of a unit thereof; the expression “service corps” means any military body or combination of military bodies declared to be a service corps by regulations made under section 23 and for the time being in force; the expression “service custody” means the holding under arrest or in confinement of a person by the Defence Forces and includes confinement in a military prison or a detention barrack; the expression “State ship” means a ship or vessel belonging to, or employed in the service of, the State and used for defence purposes;
 
 ...
 
-‘superior officer’ includes—
+"superior officer" includes—
 
 (a) when used in relation to a member of the Permanent Defence Force, an officer or non-commissioned officer of the Permanent Defence Force of equal or higher rank who is authorised, in relation to that member, by or under this Act or by custom of the service, to exercise authority over that member,
 

@@ -4,11 +4,11 @@ Order for payment of compensation.
 
 (a) a person subject to military law is convicted by a court-martial of an offence against military law, and
 
-(b) the offence occasioned any personal injury, expense or loss or destruction of, or damage to, any property, the military judge presiding at the court-martial may, instead of or in addition to any other punishment which he is authorised by this Act to award in respect of the offence, order that there shall be paid by the person convicted compensation for the personal injury, expense, loss, damage or destruction so occasioned to any person (in this Act referred to as the ‘injured party’) who has suffered such personal injury, expense, loss, damage or destruction.
+(b) the offence occasioned any personal injury, expense or loss or destruction of, or damage to, any property, the military judge presiding at the court-martial may, instead of or in addition to any other punishment which he is authorised by this Act to award in respect of the offence, order that there shall be paid by the person convicted compensation for the personal injury, expense, loss, damage or destruction so occasioned to any person (in this Act referred to as the "injured party") who has suffered such personal injury, expense, loss, damage or destruction.
 
 (2) The compensation payable under this section shall be of such amount as the military judge considers appropriate, having regard to any evidence and to any representations that are made by or on behalf of the convicted person, the injured party or the Director and, subject to the relevant maximum amounts specified in subsection (3) of this section, shall not exceed the amount of the damages that, in the opinion of the military judge, the injured party would be entitled to recover in a civil action against the convicted person in respect of the injury, expense, loss, damage or destruction concerned.
 
-(3) In this section ‘relevant maximum amount’ means—
+(3) In this section "relevant maximum amount" means—
 
 (a) in the case of a compensation order made by a summary court-martial, €10,000,
 
@@ -34,10 +34,10 @@ Order for payment of compensation.
 
 (a) in a case where death has resulted from an offence specified in subsection (1) of this section—
 
-‘loss’ means any matter (including mental distress resulting from the death and funeral expenses) for which damages could be awarded in respect of the death by virtue of Part V of the Civil Liability Act 1961;
+"loss" means any matter (including mental distress resulting from the death and funeral expenses) for which damages could be awarded in respect of the death by virtue of Part V of the Civil Liability Act 1961;
 
-‘injured party’ includes a dependant (within the meaning of the said Part V) of the deceased person concerned,
+"injured party" includes a dependant (within the meaning of the said Part V) of the deceased person concerned,
 
-(b) in a case where service property is the subject of an order under this section, ‘injured party’ includes the Minister.
+(b) in a case where service property is the subject of an order under this section, "injured party" includes the Minister.
 
 (10) An order under this section shall, for the purposes of this Act and the Courts- Martial Appeals Act 1983, be deemed to be a sentence of a court-martial.

@@ -1,3 +1,3 @@
-Powers of confirming authority as to confirmation.
+Powers of confirming authority as to confirmation. (Repealed)
 
 219.—...

@@ -42,8 +42,8 @@ Offences in relation to courts-martial, etc.
 
 (b) In this subsection ‘member of the family’ means spouse, parent, grandparent, step-parent, child (including a step-child or an adopted child), grandchild, brother, sister, half-brother, half-sister, aunt, uncle, niece or nephew of the person concerned;
 
-‘spouse’ means each person of a couple in relation to the other;
+"spouse" means each person of a couple in relation to the other;
 
-‘couple’ means a married couple or a man and woman who are not married to each other but are cohabiting as husband and wife.
+"couple" means a married couple or a man and woman who are not married to each other but are cohabiting as husband and wife.
 
 (5) Subsection (2) of this section shall apply in relation to the summary disposal of charges under section 177C, 178C or 179C, as the case may be, as it applies to a service tribunal and for the purposes of such application references in the said subsection (2) to a service tribunal shall be construed as references to the summary disposal of charges under section 177C, 178C or 179C, as the case may be.

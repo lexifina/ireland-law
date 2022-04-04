@@ -1,3 +1,3 @@
-Quashing of finding of court-martial.
+Quashing of finding of court-martial. (Repealed)
 
 224.—...

@@ -1,3 +1,3 @@
-Reference of finding and sentence by confirming authority to superior confirming authority.
+Reference of finding and sentence by confirming authority to superior confirming authority. (Repealed)
 
 217.—...

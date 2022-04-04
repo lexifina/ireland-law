@@ -2,7 +2,7 @@
 
 Appointment of Director of Military Prosecutions.
 
-184C.— (1) Subject to this Chapter, the Government shall appoint an officer of the Permanent Defence Force ,or a qualified person other than an officer of the Permanent Defence Force, to be the Director of Military Prosecutions (in this Act referred to as the ‘Director’).
+184C.— (1) Subject to this Chapter, the Government shall appoint an officer of the Permanent Defence Force , or a qualified person other than an officer of the Permanent Defence Force, to be the Director of Military Prosecutions (in this Act referred to as the "Director").
 
 (2) Subject to this Chapter, an officer , or a person other than an officer of the Permanent Defence Force, who is a practising barrister or practising solicitor of not less than 10 years standing shall be qualified for appointment as the Director.
 

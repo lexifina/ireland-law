@@ -1,3 +1,3 @@
-Exemption from jury service.
+Exemption from jury service. (Repealed)
 
 105.—...

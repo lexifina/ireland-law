@@ -2,9 +2,9 @@ Power to suspend sentence.
 
 212A.— (1) In this section—
 
-‘governor’ includes, in relation to a military prisoner or a person undergoing detention, a person for the time being performing the functions of governor;
+"governor" includes, in relation to a military prisoner or a person undergoing detention, a person for the time being performing the functions of governor;
 
-‘imprisonment’ includes—
+"imprisonment" includes—
 
 (a) detention in a military prison or detention barrack or in other service custody or in a public prison, as referred to in section 229 of this Act,
 
@@ -12,9 +12,9 @@ Power to suspend sentence.
 
 (c) detention in a place provided under section 2 of the Prisons Act 1970, and
 
-(d) detention in a place specified under section 3 of the Prisons Act 1972, and ‘sentence of imprisonment’ shall be construed accordingly;
+(d) detention in a place specified under section 3 of the Prisons Act 1972, and "sentence of imprisonment" shall be construed accordingly;
 
-‘mandatory term of imprisonment’ includes, in relation to an offence, a term of imprisonment awarded by a court-martial under this Act or any other enactment where provision is made that a person who is guilty of the offence concerned shall be liable to a term of imprisonment of not less than such term as is specified in this Act or that enactment.
+"mandatory term of imprisonment" includes, in relation to an offence, a term of imprisonment awarded by a court-martial under this Act or any other enactment where provision is made that a person who is guilty of the offence concerned shall be liable to a term of imprisonment of not less than such term as is specified in this Act or that enactment.
 
 (2) Where a person is sentenced by a court-martial in respect of an offence to a term of imprisonment (other than a mandatory term of imprisonment) or to detention, the military judge presiding at the court-martial may make an order suspending the execution of the sentence in whole or in part, subject to the person entering into a recognisance to comply with the conditions of, or imposed in relation to, the order.
 

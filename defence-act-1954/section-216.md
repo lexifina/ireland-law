@@ -1,3 +1,3 @@
-Confirming authorities.
+Confirming authorities. (Repealed)
 
 216.—...

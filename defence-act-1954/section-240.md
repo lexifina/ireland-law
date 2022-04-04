@@ -2,7 +2,7 @@
 
 Rules of procedure.
 
-240.—(1) The Minister may make rules (in this Act referred to as ‘rules of procedure’) in relation to all or any of the following matters:
+240.—(1) The Minister may make rules (in this Act referred to as "rules of procedure") in relation to all or any of the following matters:
 
 (a) the assembly and procedure of courts of inquiry and boards;
 

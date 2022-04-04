@@ -1,3 +1,3 @@
-Additional powers of confirming authority in relation to sentences passed by courts-martial.
+Additional powers of confirming authority in relation to sentences passed by courts-martial. (Repealed)
 
 220.—...

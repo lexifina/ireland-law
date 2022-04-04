@@ -12,9 +12,11 @@ Circuit Judge to perform functions of military judge in certain circumstances.
 
 (2) Where a Circuit Judge has been temporarily designated under section 11A of the Act of 1947 pursuant to a request under this section, sections 184J, 184K, 184L, 184N, 184O and 184P shall not apply to such Circuit Judge.
 
-(3) Where a Circuit Judge has been temporarily designated under section 11A of the Act of 1947 pursuant to a request under this section, notwithstanding the definition of military judge in section 2, references in this Act, or any instrument made under it, to a military judge in relation to the carrying out of the functions of a military judge shall be construed in accordance with such temporary designation of such Circuit Judge and nothing in this Act, or any statutory instrument made under it, shall be construed as preventing such Circuit Judge from carrying out such functions of a military judge. (4) For the purposes of this Act, without prejudice to the generality of subsection (1), references to functions of a military judge includes the judicial functions referred to in section 240(1)(r), if any, as may be provided for in rules of procedure made under that section.
+(3) Where a Circuit Judge has been temporarily designated under section 11A of the Act of 1947 pursuant to a request under this section, notwithstanding the definition of military judge in section 2, references in this Act, or any instrument made under it, to a military judge in relation to the carrying out of the functions of a military judge shall be construed in accordance with such temporary designation of such Circuit Judge and nothing in this Act, or any statutory instrument made under it, shall be construed as preventing such Circuit Judge from carrying out such functions of a military judge.
 
-(5) In this section, ‘functions of a military judge’ means—
+(4) For the purposes of this Act, without prejudice to the generality of subsection (1), references to functions of a military judge includes the judicial functions referred to in section 240(1)(r), if any, as may be provided for in rules of procedure made under that section.
+
+(5) In this section, "functions of a military judge" means—
 
 (a) the functions of a military judge under this Act and any instrument made under it, and under section 8 of the Defence (Amendment) Act 1987, and
 
@@ -22,6 +24,6 @@ Circuit Judge to perform functions of military judge in certain circumstances.
 
 (6) In this Act—
 
-‘Circuit Judge’ has the meaning assigned to it by the Act of 1947;
+"Circuit Judge" has the meaning assigned to it by the Act of 1947;
 
-‘President of the Circuit Court’ shall be construed in accordance with section 9 of the Act of 1947.
+"President of the Circuit Court" shall be construed in accordance with section 9 of the Act of 1947.

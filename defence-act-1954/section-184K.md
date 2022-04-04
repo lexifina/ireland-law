@@ -22,7 +22,7 @@ Committee.
 
 (3) The committee shall, whenever so requested by the Minister, select an officer or officers , or, as the case may be, one, or more than one, person other than an officer, for appointment under this section and shall inform the Minister of the selection made and of his or their suitability for the appointment and the Government shall consider for appointment the officer or officers, or such person or persons, so selected.
 
-(4) The committee shall not submit or recommend the name of an officer , or a person other than an officer, to the Minister under this section unless the officer or person concerned satisfies the requirements of section 184J(2) as regards the proposed appointment, and the committee shall not recommend the name of the officer, or a person other than an officer, to the Minister unless, in the opinion of the committee or person, the officer—
+(4) The committee shall not submit or recommend the name of an officer , or a person other than an officer, to the Minister under this section unless the officer or person concerned satisfies the requirements of section 184J(2) as regards the proposed appointment, and the committee shall not recommend the name of the officer , or a person other than an officer, to the Minister unless, in the opinion of the committee or person, the officer—
 
 (a) has displayed in his or her practice as a barrister or solicitor, as the case may be, a degree of competence and a degree of probity appropriate to and consistent with the appointment as a military judge,
 

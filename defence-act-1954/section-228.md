@@ -1,3 +1,3 @@
-Execution of sentence of penal servitude.
+Execution of sentence of penal servitude. (Repealed)
 
 228.—...

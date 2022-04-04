@@ -1,3 +1,3 @@
-Right of Minister to claim salvage in respect of services of State ships.
+Right of Minister to claim salvage in respect of services of State ships. (Repealed)
 
 315.—...

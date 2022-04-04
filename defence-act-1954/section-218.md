@@ -1,3 +1,3 @@
-Revision by courts-martial of findings and sentences.
+Revision by courts-martial of findings and sentences. (Repealed)
 
 218.—...

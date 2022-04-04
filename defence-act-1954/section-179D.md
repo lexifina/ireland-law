@@ -10,6 +10,6 @@ Appeal to commanding officer.
 
 (3) An appeal under this section shall be brought—
 
-(a) within two days beginning on the date on which the punishment was awarded (‘the initial period’), or
+(a) within two days beginning on the date on which the punishment was awarded ("the initial period"), or
 
 (b) within such longer period as the commanding officer of the private or seaman concerned may allow, by leave given before the end of the initial period, which longer period shall not exceed five days beginning on the date on which the punishment was awarded.

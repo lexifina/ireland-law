@@ -24,6 +24,6 @@ Mental disorder at time of trial.
 
 (4) After the military judge presiding at a court-martial has found that a person charged with an offence is unfit to take his trial, the military judge may on application to him and without prejudice to any further proceedings allow evidence to be adduced before the court-martial as to whether or not that person did the act or made the omission alleged against him and if the summary court-martial or, in the case of a general court-martial or limited court-martial, the court-martial board, is satisfied that there is a reasonable doubt that the person committed that act or made the omission, the summary court-martial or the court-martial board, as the case may be, shall acquit him.
 
-(5) In this section and in section 203 of this Act ‘mental disorder’ and ‘designated centre’ shall have the meanings respectively assigned to them by section 1 of the Criminal Law (Insanity) Act 2006, unless the context otherwise requires.
+(5) In this section and in section 203 of this Act "mental disorder" and "designated centre" shall have the meanings respectively assigned to them by section 1 of the Criminal Law (Insanity) Act 2006, unless the context otherwise requires.
 
-(5) In this section and in section 203 ‘consultant psychiatrist’ has the same meaning as in the Mental Health Act 2001.
+(5) In this section and in section 203 "consultant psychiatrist" has the same meaning as in the Mental Health Act 2001.

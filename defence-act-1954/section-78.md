@@ -1,5 +1,3 @@
-## Status of unenlisted person in receipt of pay as a man and of persons informally enlisted.
-
 Status of unenlisted person in receipt of pay as a man.
 
 78.—(1) Where a person—

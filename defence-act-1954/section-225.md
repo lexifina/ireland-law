@@ -18,7 +18,7 @@ Orders for restitution.
 
 (4) (a) The military judge shall not exercise the powers conferred by this section unless in his opinion the relevant facts sufficiently appear from evidence given at the trial or the available documents, together with admissions made by or on behalf of any person in connection with any proposed exercise of the powers.
 
-(b) In paragraph (a) of this subsection ‘available documents’ means—
+(b) In paragraph (a) of this subsection "available documents" means—
 
 (i) any written statements or admissions which were made for use, and would have been admissible in evidence, at the trial, and
 

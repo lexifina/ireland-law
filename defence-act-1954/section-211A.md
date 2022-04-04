@@ -12,4 +12,4 @@ Restriction on sentence of imprisonment or detention on person who is not repres
 
 (a) a previous sentence of imprisonment which has been suspended and has not taken effect is to be disregarded,
 
-(b) ‘sentenced to imprisonment’ does not include a committal for contempt of court under section 208.
+(b) "sentenced to imprisonment" does not include a committal for contempt of court under section 208.

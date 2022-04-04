@@ -1,3 +1,3 @@
-Suspension of sentences of penal servitude, imprisonment or detention passed on men.
+Suspension of sentences of penal servitude, imprisonment or detention passed on men. (Repealed)
 
 223.—...

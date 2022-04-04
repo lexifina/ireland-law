@@ -2,7 +2,7 @@ Jurisdiction of courts-martial.
 
 192.—(1) Subject to and in accordance with the provisions of this Act, a general court-martial, limited court-martial or summary court-martial shall, in addition to any other powers conferred on it by this Act, have jurisdiction to try and punish any person for an offence against military law committed by the person while subject to military law as an officer or as a man.
 
-(1A) In this section ‘relevant offence’ means—
+(1A) In this section "relevant offence" means—
 
 (a) the offence of treason or murder, or
 
