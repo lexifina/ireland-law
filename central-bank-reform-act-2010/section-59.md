@@ -1,3 +1,3 @@
-Power of authorised officer to enter premises.
+Power of authorised officer to enter premises. (Repealed)
 
 59.— ...

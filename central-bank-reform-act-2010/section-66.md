@@ -1,3 +1,3 @@
-Offence of obstruction or provision of false information.
+Offence of obstruction or provision of false information. (Repealed)
 
 66.— ...

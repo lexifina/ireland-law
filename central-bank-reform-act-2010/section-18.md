@@ -8,7 +8,7 @@ Definitions (Part 3).
 
 “Court” means the High Court;
 
-‘ECB’ means the European Central Bank;
+"ECB" means the European Central Bank;
 
 “evidentiary notice” means a notice under section 32;
 
@@ -16,9 +16,9 @@ Definitions (Part 3).
 
 “pre-approval controlled function” shall be construed in accordance with section 22;
 
-‘SSM Regulation’ means Council Regulation (EU) No. 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
+"SSM Regulation" means Council Regulation (EU) No. 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
 
-‘SSM Framework Regulation’ means Regulation (EU) No. 468/2014 of the European Central Bank of 16 April 2014 establishing the framework for co-operation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities;
+"SSM Framework Regulation" means Regulation (EU) No. 468/2014 of the European Central Bank of 16 April 2014 establishing the framework for co-operation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities;
 
 “suspension notice” means a notice under section 26.
 

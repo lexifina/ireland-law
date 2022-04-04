@@ -1,3 +1,3 @@
-Warrant of appointment.
+Warrant of appointment. (Repealed)
 
 58.— ...
