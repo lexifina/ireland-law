@@ -14,4 +14,4 @@ Capital offences by commanders when in action.
 
 (e) who unjustifiably fails to relieve or assist a known friend to the utmost of his power, or
 
-(f) who, when in action, unjustifiably forsakes his station, in guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment for life or any less punishment awardable by a court-martial.
+(f) who, when in action, unjustifiably forsakes his station, is guilty of an offence against military law and shall, on conviction by court-martial, be liable to suffer imprisonment for life or any less punishment awardable by a court-martial.
