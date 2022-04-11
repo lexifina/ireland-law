@@ -16,4 +16,4 @@ Service of documents.
 
 (2) For the purposes of this section, a company shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
 
-(3) In this section, ‘document exchange service’ means provision of means, including the supply of premises specifically for that purpose and transportation by a third party, allowing self-delivery by mutual exchange of postal packets between persons subscribing to the service.
+(3) In this section, "document exchange service" means provision of means, including the supply of premises specifically for that purpose and transportation by a third party, allowing self-delivery by mutual exchange of postal packets between persons subscribing to the service.

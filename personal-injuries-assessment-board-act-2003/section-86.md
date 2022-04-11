@@ -22,4 +22,4 @@ Supply of information to, or from, central database.
 
 (4) This section is without prejudice to the generality of the provisions of Chapter 4 of Part 2.
 
-(5) In this section, ‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+(5) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).

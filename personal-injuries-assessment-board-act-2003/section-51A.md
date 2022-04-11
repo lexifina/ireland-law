@@ -22,7 +22,7 @@ Costs in proceedings where assessment not accepted by claimant.
 
 (b) where the amount of damages (if any) awarded on foot of those proceedings does not exceed the amount of the assessment referred to in subsection (2), the court, in those proceedings, may, in its discretion, order the claimant to pay all or a portion of the costs of the defendant or defendants.
 
-(4) In subsection (3) ‘proceedings’ means proceedings against—
+(4) In subsection (3) "proceedings" means proceedings against—
 
 (a) one or more persons who consented, in accordance with this Part, to the making of an assessment of the relevant claim or on whose part a failure of the kind referred to in section 14(1)(b) occurred in relation to the relevant claim (or both), or
 

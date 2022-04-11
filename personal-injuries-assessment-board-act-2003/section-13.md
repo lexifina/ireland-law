@@ -1,6 +1,6 @@
 Notification of application to respondent and ascertainment of his or her wishes.
 
-13.—(1) (a) As soon as practicable after receipt of an application under section 11, the Board may serve a preliminary notice on the person or each of the persons who the claimant alleges in the application is or are liable to him or her in respect of the relevant claim (who or each of whom is referred to in this Part as a ‘respondent’) notifying the respondent of the relevant claim.
+13.—(1) (a) As soon as practicable after receipt of an application under section 11, the Board may serve a preliminary notice on the person or each of the persons who the claimant alleges in the application is or are liable to him or her in respect of the relevant claim (who or each of whom is referred to in this Part as a "respondent") notifying the respondent of the relevant claim.
 
 (b) As soon as practicable after receipt of—
 

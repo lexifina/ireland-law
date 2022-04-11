@@ -4,7 +4,7 @@ Interpretation.
 
 “Act of 1961” means the Civil Liability Act 1961;
 
-‘Athens Convention’ means the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 1974, as amended by the Protocol of 2002 (the Athens Convention) and as amended from time to time;
+"Athens Convention" means the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 1974, as amended by the Protocol of 2002 (the Athens Convention) and as amended from time to time;
 
 “Board” shall be construed in accordance with section 53;
 
@@ -38,7 +38,7 @@ Interpretation.
 
 “contract of employment” shall be deemed to include the legal relations that exist between a person holding an office of the kind referred to in the definition of “employee” in this subsection and the State, Government or other body referred to in that definition;
 
-‘Council Regulation (EC) No. 2027/97’ means Council Regulation (EC) No. 2027/97 on air carrier liability in respect of the carriage of passengers and their baggage by air, as amended by Regulation (EC) No. 889/2002 and as amended from time to time;
+"Council Regulation (EC) No. 2027/97" means Council Regulation (EC) No. 2027/97 on air carrier liability in respect of the carriage of passengers and their baggage by air, as amended by Regulation (EC) No. 889/2002 and as amended from time to time;
 
 “employee” means a person of any age, who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment; and, for the purposes of this Act, a person holding office under, or in the service of, the State (including a civil servant within the meaning of the Civil Service Regulation Act 1956) shall be deemed to be an employee employed by the State or Government, as the case may be, and an employee, officer or servant of a local authority for the purposes of the Local Government Act 2001 or of a harbour authority or health board, or a member of staff of an education and training board shall be deemed to be an employee employed by the authority or board, as the case may be;
 
@@ -48,15 +48,15 @@ Interpretation.
 
 “Minister” means the Minister for Enterprise, Trade and Employment;
 
-‘Montreal Convention’ means the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Montreal on 28 May 1999 and as amended from time to time;
+"Montreal Convention" means the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Montreal on 28 May 1999 and as amended from time to time;
 
 “personal injury” has the same meaning as it has in the Act of 1961;
 
 “proceedings” means proceedings in court;
 
-‘Regulation (EC) No. 392/2009’ means Regulation (EC) No. 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents, as amended from time to time;
+"Regulation (EC) No. 392/2009" means Regulation (EC) No. 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents, as amended from time to time;
 
-‘Warsaw Convention’ means the Convention for the Unification of Certain Rules Relating to International Carriage by Air, signed at Warsaw on 12 October 1929, or the Warsaw Convention as amended—
+"Warsaw Convention" means the Convention for the Unification of Certain Rules Relating to International Carriage by Air, signed at Warsaw on 12 October 1929, or the Warsaw Convention as amended—
 
 (a) at The Hague on 28 September 1955,
 
