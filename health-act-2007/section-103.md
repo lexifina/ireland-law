@@ -90,7 +90,9 @@ Protection of disclosures of information.
 
 (iii) any other statutory obligation;
 
-(c) that evidence of any matter falling within either of paragraphs (a) and (b) has been, is being or is likely to be deliberately concealed or destroyed; the disclosure shall be a protected disclosure under this Act. 55D.— Where an employee of a person providing mental health services other than a relevant body makes, in good faith, a disclosure to the Mental Health Commission or the Inspector of Mental Health Services, and the employee has reasonable grounds for believing that the disclosure will show one or more of the following:
+(c) that evidence of any matter falling within either of paragraphs (a) and (b) has been, is being or is likely to be deliberately concealed or destroyed; the disclosure shall be a protected disclosure under this Act.
+
+55D.— Where an employee of a person providing mental health services other than a relevant body makes, in good faith, a disclosure to the Mental Health Commission or the Inspector of Mental Health Services, and the employee has reasonable grounds for believing that the disclosure will show one or more of the following:
 
 (a) that the actions of any person employed by or acting on behalf of the person providing the services has posed, is posing or is likely to pose a risk to the health or welfare of a person receiving the service;
 
@@ -114,9 +116,7 @@ Protection of disclosures of information.
 
 (c) section 38 of the Nurses Act 1985, is a protected disclosure under this Act.
 
-(2) A complaint under section 52 of the Health and Social Care Professionals Act 2005 is a protected disclosure under this Act.
-
-55G.— Where a person makes, in good faith, a disclosure to—
+(2) A complaint under section 52 of the Health and Social Care Professionals Act 2005 is a protected disclosure under this Act. 55G.— Where a person makes, in good faith, a disclosure to—
 
 (a) an authorised person appointed by the Health Information and Quality Authority in accordance with section 70 of the Health Act 2007 to—
 
@@ -156,7 +156,9 @@ Protection of disclosures of information.
 
 (b) request that the opinion be given in writing to the Executive, or as the case may be, the body referred to in subsection (2) before the date specified in the request.
 
-(9) If, before that date, the Data Protection Commissioner provides a written opinion that a provision of the draft procedures would, if given effect, be likely to have the results referred to in subsection (8)(a), the Executive, or as the case may be, the body referred to in subsection (2) shall have regard to that opinion in its further deliberations on the draft procedures. 55I.— (1) It is a condition of any arrangement under section 38 or of assistance given under section 39 of this Act or section 10 of the Child Care Act 1991 that a service provider or person receiving assistance will—
+(9) If, before that date, the Data Protection Commissioner provides a written opinion that a provision of the draft procedures would, if given effect, be likely to have the results referred to in subsection (8)(a), the Executive, or as the case may be, the body referred to in subsection (2) shall have regard to that opinion in its further deliberations on the draft procedures.
+
+55I.— (1) It is a condition of any arrangement under section 38 or of assistance given under section 39 of this Act or section 10 of the Child Care Act 1991 that a service provider or person receiving assistance will—
 
 (a) adhere to the procedures established by the Executive in accordance with section 55H(1), or
 
@@ -350,9 +352,7 @@ Chief Inspector
 
 Comptroller and Auditor General
 
-Health Information and Quality Authority
-
-Inspector of Mental Health Services
+Health Information and Quality Authority Inspector of Mental Health Services
 
 Irish Medicines Board
 

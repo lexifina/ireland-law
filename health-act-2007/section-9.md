@@ -54,6 +54,6 @@ Investigations by Authority.
 
 (6) In this section—
 
-‘Act of 2013’ means the Protection of Life During Pregnancy Act 2013;
+"Act of 2013" means the Protection of Life During Pregnancy Act 2013;
 
-‘appropriate institution’ has the meaning it has in the Act of 2013.
+"appropriate institution" has the meaning it has in the Act of 2013.

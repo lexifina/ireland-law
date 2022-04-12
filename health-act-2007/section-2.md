@@ -2,7 +2,7 @@ Interpretation.
 
 2.— (1) In this Act:
 
-‘Agency’ means the Child and Family Agency established under the Child and Family Agency Act 2013;
+"Agency" means the Child and Family Agency established under the Child and Family Agency Act 2013;
 
 “Authority” means the Health Information and Quality Authority established under section 6;
 
@@ -10,7 +10,7 @@ Interpretation.
 
 “dependent person” means dependent person as defined in section 1(1) of the Health (Nursing Homes) Act 1990;
 
-‘designated centre’ means an institution—
+"designated centre" means an institution—
 
 (a) at which residential services are provided by the Executive, the Agency, a service provider under this Act or a person that is not a service provider but who receives assistance under section 39 of the Health Act 2004—
 
@@ -78,7 +78,7 @@ Interpretation.
 
 “registered provider” in relation to a designated centre means the person whose name is entered in a register as the person carrying on the business of the designated centre;
 
-‘service provider’ means a person who—
+"service provider" means a person who—
 
 (a) enters into an arrangement under section 38 of the Health Act 2004 to provide a health or personal social service on behalf of the Executive,
 
@@ -86,7 +86,7 @@ Interpretation.
 
 (c) is a service provider under the Child and Family Agency Act 2013;
 
-‘special care unit’ has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011) of the Child Care Act 1991;
+"special care unit" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011) of the Child Care Act 1991;
 
 “superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death.
 
