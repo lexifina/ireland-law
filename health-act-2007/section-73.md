@@ -16,7 +16,7 @@ Right of entry and inspection by authorised person or chief inspector.
 
 (b) used, or proposed to be used, for any purpose connected with the provision of a service under sections 39 to 42 and 53 of the Child Care Act 1991 or section 10 of the Health (Nursing Homes) Act 1990 by the Executive, the Agency or a service provider, or
 
-(c) used or proposed to be used as a designated centre used or proposed to be used as a designated centre ....
+(c) used or proposed to be used as a designated centre ....
 
 (3) If an authorised person considers it necessary or expedient for the purposes of monitoring compliance with standards in accordance with section 8(1)(c), or of an investigation referred to in section 8(1)(d), or the chief inspector considers it necessary or expedient for the purposes of an inspection referred to in section 41—
 
