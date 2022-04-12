@@ -1,0 +1,3 @@
+Cesser.
+
+65. Where, before the commencement of this section, the functions of the Minister for Health under the Principal Act, the Act of 2005 or the Act of 2007 included a function in relation to a specialist community-based disability services function, the Minister for Health shall cease to have any such function to the extent that that function has been conferred on the Minister for Children, Equality, Disability, Integration and Youth by virtue of the amendments to the Principal Act, the Act of 2005 or the Act of 2007 effected by this Act or transferred (whether before or after the coming into operation of this section) by an order under section 6(1) of the Ministers and Secretaries (Amendment) Act 1939.
