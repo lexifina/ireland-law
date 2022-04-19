@@ -6,9 +6,11 @@ Decisions by deciding officers.
 
 (b) in relation to the payment from the Social Insurance Fund of—
 
-(i) rebates to employers under section 29, or
+(i) rebates to employers under section 29,
 
 (ii) lump sums to employees under section 32, or
+
+(iii) payments to employees under section 32A(6) in respect of certain lay-off periods during the period referred to in section 32A(1)(c), or
 
 (c) on such other matters arising under this Act as are prescribed, shall be decided by a deciding officer.
 
