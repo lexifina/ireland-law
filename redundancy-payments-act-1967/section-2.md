@@ -4,19 +4,19 @@ Interpretation.
 
 “the Act of 1952” means the Social Welfare Act, 1952;
 
-‘Act of 2015’ means the Workplace Relations Act 2015;
+"Act of 2015" means the Workplace Relations Act 2015;
 
-‘adjudication officer’ has the same meaning as it has in the Act of 2015;
+"adjudication officer" has the same meaning as it has in the Act of 2015;
 
-‘adopting parent’ means an employee who is an adopting parent within the meaning of the Adoptive Leave Act 1995;
+"adopting parent" means an employee who is an adopting parent within the meaning of the Adoptive Leave Act 1995;
 
 “business” includes a trade, industry, profession or undertaking, or any activity carried on by a person or body of persons, whether corporate or unincorporate, or by a public or local authority or a Department of State, and the performance of its functions by a public or local authority or a Department of State;
 
-‘contract of employment’ means—
+"contract of employment" means—
 
 (a) a contract of service or apprenticeship, and
 
-(b) any other contract whereby an individual agrees with another person, who is carrying on the business of an employment agency within the meaning of the Employment Agency Act 1971 and is acting in the course of that business, to do or perform personally any work or service for a third person (whether or not the third person is a party to the contract), whether the contract is express or implied and, if express, whether it is oral or in writing and references to ‘contract’ shall be construed accordingly;
+(b) any other contract whereby an individual agrees with another person, who is carrying on the business of an employment agency within the meaning of the Employment Agency Act 1971 and is acting in the course of that business, to do or perform personally any work or service for a third person (whether or not the third person is a party to the contract), whether the contract is express or implied and, if express, whether it is oral or in writing and references to "contract" shall be construed accordingly;
 
 “date of dismissal”, in relation to an employee, means—
 
@@ -26,23 +26,23 @@ Interpretation.
 
 (c) where he is employed under a contract for a fixed term, and that term expires without the contract being renewed, the date on which that term expires, and cognate phrases shall be construed accordingly;
 
-‘Director General’ means the Director General of the Workplace Relations Commission;
+"Director General" means the Director General of the Workplace Relations Commission;
 
-‘employee’ means a person of 16 years and upwards who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment and references, in relation to an employer, to an employee shall be construed as references to an employee employed by that employer and, for the purposes of this Act, a person holding office under, or in the service of, the State (including a civil servant within the meaning of the Civil Service Regulation Act 1956) shall be deemed to be an employee employed by the State or Government, as the case may be, and an officer or servant of a local authority, a harbour authority, the Eastern Regional Health Authority, the Northern Area Health Board, the East Coast Area Health Board or the South-Western Area Health Board, a health board or education and training board shall be deemed to be an employee employed by the authority, health board or education and training board, as the case may be;
+"employee" means a person of 16 years and upwards who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment and references, in relation to an employer, to an employee shall be construed as references to an employee employed by that employer and, for the purposes of this Act, a person holding office under, or in the service of, the State (including a civil servant within the meaning of the Civil Service Regulation Act 1956) shall be deemed to be an employee employed by the State or Government, as the case may be, and an officer or servant of a local authority, a harbour authority, the Eastern Regional Health Authority, the Northern Area Health Board, the East Coast Area Health Board or the South-Western Area Health Board, a health board or education and training board shall be deemed to be an employee employed by the authority, health board or education and training board, as the case may be;
 
-‘employer’ means, in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment, subject to the qualification that the person who under a contract of employment referred to in paragraph (b) of the definition of ‘contract of employment’ is liable to pay the wages of the individual concerned in respect of the work or service concerned shall be deemed to be the individual’s employer;
+"employer" means, in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment, subject to the qualification that the person who under a contract of employment referred to in paragraph (b) of the definition of "contract of employment" is liable to pay the wages of the individual concerned in respect of the work or service concerned shall be deemed to be the individual’s employer;
 
 ...
 
 “lay-off” has the meaning assigned to it by section 11 (1);
 
-‘local authority’ means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
+"local authority" means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
 
 “lump sum” has the meaning assigned to it by section 19;
 
-‘Minister’ means the Minister for Enterprise, Trade and Employment;
+"Minister" means the Minister for Enterprise, Trade and Employment;
 
-‘the National Manpower Service’ means the service known by that title and operated under the control of the Minister;
+"the National Manpower Service" means the service known by that title and operated under the control of the Minister;
 
 “prescribed” means prescribed by regulations made by the Minister under this Act;
 
@@ -54,7 +54,7 @@ Interpretation.
 
 “sickness” or “illness” includes being incapable of work within the meaning of the Act of 1952;
 
-‘the Social Insurance Fund’ means the Social Insurance Fund established under section 39 of the Social Welfare Act, 1952, and continued in being under section 122 of the Social Welfare (Consolidation) Act, 1981;
+"the Social Insurance Fund" means the Social Insurance Fund established under section 39 of the Social Welfare Act, 1952, and continued in being under section 122 of the Social Welfare (Consolidation) Act, 1981;
 
 “special redundancy scheme” has the meaning assigned to it by section 47;
 
