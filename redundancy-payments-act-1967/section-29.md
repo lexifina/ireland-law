@@ -8,9 +8,9 @@ Rebates to employers from the Redundancy Fund.
 
 (4) Where an employer makes a claim for a rebate on or after 1 January 2012 in respect of a lump sum payment paid to an employee under section 19 and the date of dismissal by reason of redundancy, referred to in section 19, occurs before 1 January 2012—
 
-(a) subsection (1) shall be read as if ‘60 per cent’ were substituted for ‘15 per cent’, and
+(a) subsection (1) shall be read as if "60 per cent" were substituted for "15 per cent", and
 
-(b) subsection (2) shall be read as if ‘40 per cent’ were substituted for ‘5 per cent’.
+(b) subsection (2) shall be read as if "40 per cent" were substituted for "5 per cent".
 
 (5) Where an employer makes a claim for a rebate on or after 1 January 2012 in respect of a lump sum payment paid to an employee under section 19 in respect of an employee to whom section 12 applies and—
 
@@ -18,9 +18,9 @@ Rebates to employers from the Redundancy Fund.
 
 (b) the date of the termination of the contract of employment of the employee concerned, referred to in section 12(2), occurs before 1 January 2012—
 
-(i) subsection (1) shall be read as if ‘60 per cent’ were substituted for ‘15 per cent’, and
+(i) subsection (1) shall be read as if "60 per cent" were substituted for "15 per cent", and
 
-(ii) subsection (2) shall be read as if ‘40 per cent’ were substituted for ‘15 per cent’.
+(ii) subsection (2) shall be read as if "40 per cent" were substituted for "15 per cent".
 
 (6) Notwithstanding the provisions of this Act, a rebate shall not be made to an employer in respect of a lump sum payment paid to an employee under section 19—
 

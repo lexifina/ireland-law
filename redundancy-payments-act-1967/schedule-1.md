@@ -4,7 +4,7 @@ WEEKLY PAYMENTS FROM THE REDUNDANCY FUND
 
 1. Subject to paragraph 2, the amount of a weekly payment shall be equivalent to 50 per cent. of the employee’s normal weekly remuneration.
 
-2. (1) (a) In this subparagraph ‘the total amount being paid in respect of a week to a person’ means—
+2. (1) (a) In this subparagraph "the total amount being paid in respect of a week to a person" means—
 
 (i) in the case of a person normally resident in the State, the total amount being paid to him in respect of the following in a period of interruption of employment commencing on or after the 21st day of June, 1976— a weekly payment, unemployment benefit under the Social Welfare Acts, 1952 to 1976, unemployment assistance under the Unemployment Assistance Acts, 1933 to 1976, pay-related benefit under the Social Welfare (Pay-Related Benefit) Act, 1973 (No. 2 of 1973) together with the weekly equivalent (as determined by the Revenue Commissioners) of any refund of income tax which was paid as a result of that interruption of employment
 
@@ -34,15 +34,17 @@ WEEKLY PAYMENTS FROM THE REDUNDANCY FUND
 
 (v) In the case of a person whose entry into insurance under the Social Welfare Acts, 1952 to 1976, occurs after the 6th day of April in the relevant employment period, the following shall be substituted for clause (iii) of this subparagraph:
 
-‘(iii) dividing the remainder under clause (ii) by the number of complete weeks from his entry into insurance under the Social Welfare Acts, 1952 to 1976, to the termination of his relevant employment period, and’
+"(iii) dividing the remainder under clause (ii) by the number of complete weeks from his entry into insurance under the Social Welfare Acts, 1952 to 1976, to the termination of his relevant employment period, and"
 
-(vi)In the case of a person who was employed outside the State during his relevant employment period (other than a person who continued to be insured under the Social Welfare Acts, 1952 to 1976, while so employed), the following shall be substituted for clause (iii) of this subparagraph: ‘(iii) dividing the remainder under clause (ii) by the number of complete weeks during which he was insurably employed under the Social Welfare Acts, 1952 to 1976, during his relevant employment period, and,’
+(vi) In the case of a person who was employed outside the State during his relevant employment period (other than a person who continued to be insured under the Social Welfare Acts, 1952 to 1976, while so employed), the following shall be substituted for clause (iii) of this subparagraph:
+
+"(iii) dividing the remainder under clause (ii) by the number of complete weeks during which he was insurably employed under the Social Welfare Acts, 1952 to 1976, during his relevant employment period, and,"
 
 (vii) In the case of a person who did not receive reckonable earnings (within the meaning of the Social Welfare (Pay-Related Benefit) Act, 1973) on or after the last day of the first week of his relevant employment period the following shall be substituted for clauses (i) and (iii) respectively of this subparagraph,
 
-‘(i) ascertaining his reckonable earnings (within the meaning of the Social Welfare (Pay-Related Benefit) Act, 1973) in the income tax year preceding that in which his relevant employment period falls,
+"(i) ascertaining his reckonable earnings (within the meaning of the Social Welfare (Pay-Related Benefit) Act, 1973) in the income tax year preceding that in which his relevant employment period falls,
 
-(iii) dividing the remainder under clause (ii) by 52, and’
+(iii) dividing the remainder under clause (ii) by 52, and"
 
 (viii) In the case of a person (other than a person referred to in clause (vi) of this subparagraph) who proved unemployment or incapacity for work for at least six days since the commencement of his relevant employment period, or in the case of a person referred to in clause (vii) of this subparagraph, in the preceding income tax year, the amount of benefit or unemployment assistance (or of both benefit and such assistance) paid to him under the Social Welfare Acts, 1952 to 1976, and the Unemployment Assistance Acts, 1933 to 1976, in respect of such unemployment or incapacity (or in respect of both such unemployment and such incapacity) shall be added to the amount ascertained under clause (i) of this subparagraph, but the amount of any benefit paid to him in respect of incapacity for work for any period in respect of which he also received from his employer reckonable earnings (within the meaning of the Social Welfare (Pay-Related Benefit) Act, 1973) shall not be so added.
 
