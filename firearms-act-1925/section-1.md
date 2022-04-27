@@ -12,7 +12,7 @@ Definitions and interpretation.
 
 “Commissioner” means the Commissioner of the Garda Síochána or a member of the Garda Síochána, or members of a particular rank in the Garda Síochána, not below the rank of superintendent appointed in writing by the Commissioner for the purpose of performing any of the Commissioner’s functions under this Act;
 
-"Directive" means Council Directive 91/477/EEC of 18 June, 1991 on control of the acquisition and possession of weapons, as amended by Directive 2008/51/EC of the European Parliament and of the Council of 21 May 2008 and Directive (EU) 2017/853 of the European Parliament and of the Council of 17 May 2017, and includes Articles 10 and 11 of Chapter III of Council Directive 93/15/EEC of 5 April, 1993 on the harmonisation of the provisions relating to the placing on the market and supervision of explosives for civil uses;
+"Directive" means Directive (EU) 2021/555 of the European Parliament and of the Council of 24 March 2021 on control of the acquisition and possession of weapons (codification), and includes Articles 12 and 13 of Directive 2014/28/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market and supervision of explosives for civil uses (recast);
 
 “firearm” means—
 
@@ -32,11 +32,11 @@ Definitions and interpretation.
 
 (i) telescope sights with a light beam, or telescope sights with an electronic light amplification device or an infra-red device, designed to be fitted to a firearm specified in paragraph (a), (b), (c) or (e),
 
+1 OJ No. L 115, 6.4.2021, p.1 3 OJ No. L 96, 29.3.2014, p. 1
+
 (ii) a silencer designed to be fitted to a firearm specified in paragraph (a), (b) or (e), and
 
 (iii) any object—
-
-2 OJ No. L256, 13.09.91, p. 51. 3 OJ No. L179, 08.07.08, p.5. 1 OJ No. L137, 24.05.17, p.22. 4 OJ NO. L121, 15.05.93, p. 20.
 
 (I) manufactured for use as a component in connection with the operation of a firearm, and
 
