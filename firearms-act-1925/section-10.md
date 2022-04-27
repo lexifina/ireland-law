@@ -2,6 +2,12 @@ Restrictions on manufacture and sale of firearms.
 
 10.—(1) On and after the commencement of this Act it shall not be lawful for any person to manufacture, sell, repair, test, or prove, or expose for sale, or have in his possession for sale, repair, test, or proof, by way of trade or business, any firearm or ammunition unless such person is registered in the register of firearms dealers.
 
+(1A) Subsection (1) shall not apply to a person engaged in the State in trade or business as a broker (within the meaning of the European Union (Acquisition and Possession of Weapons and Ammunition) Regulations 2022)) provided that —
+
+(a) he or she stands registered in the register of brokers (within the meaning of those Regulations), and
+
+(b) he or she does not have in his or her possession any firearm or ammunition in respect of which he or she is engaged in trade or business as a broker.
+
 (2) It shall not be lawful for any person to sell to any person (other than a registered firearms dealer or a person officially authorised) any firearm or ammunition, unless at the time of such sale the person to whom such firearm or ammunition is sold—
 
 (a) produces a firearm certificate authorising him to purchase or hire (as the case may be) such firearm or ammunition, or
@@ -18,7 +24,7 @@ Restrictions on manufacture and sale of firearms.
 
 (b) This subsection is without prejudice to the other provisions of this section and to section 16 of this Act but subsection (4) of that section does not apply to a firearm or ammunition for a firearm carried by a person from the State for the purpose of transferring it permanently to such a country as aforesaid.
 
-(c) In this subsection ‘firearm’ does not include a firearm specified in paragraph (c) or (d) (or in paragraph (f) or (g) so far as either of those paragraphs relates to the said paragraph (c) or (d)) of section 4 (1) of the Firearms and Offensive Weapons Act, 1990.
+(c) In this subsection "firearm" does not include a firearm specified in paragraph (c) or (d) (or in paragraph (f) or (g) so far as either of those paragraphs relates to the said paragraph (c) or (d)) of section 4 (1) of the Firearms and Offensive Weapons Act, 1990.
 
 (4) It shall not be lawful for any registered firearms dealer to return to any person a firearm or ammunition given to the dealer for repair, test or proof unless the person—
 
