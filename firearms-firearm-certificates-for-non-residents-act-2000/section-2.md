@@ -32,7 +32,7 @@ Firearm certificates.
 
 (8) The issuing person may, for the purpose of establishing that there is no good reason to refuse to grant a firearm certificate, treat any of the following as prima facie evidence of suitability to so grant—
 
-(a) in the case of a person who is resident in a Member State of the European Community other than the State, any European Firearms Pass duly issued to such person to which paragraphs (4) and (5) of Regulation 7 of the European Communities (Acquisition and Possession of Weapons and Ammunition) Regulations, 1993 (S.I. No. 362 of 1993), relate, or
+(a) in the case of a person who is resident in a Member State of the European Community other than the State, any European Firearms Pass duly issued to such person to which paragraphs (4) and (5) of Regulation 19 of the European Union (Acquisition and Possession of Weapons and Ammunition) Regulations 2022 relate, or
 
 (b) in any other case, any other permit, licence, authorisation or other document duly issued by an appropriate authority or body outside the State which the issuing person considers acceptable.
 
