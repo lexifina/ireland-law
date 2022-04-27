@@ -4,35 +4,35 @@ Definitions for this Part.
 
 58A.— In this Part—
 
-‘Agency’ has the same meaning as it has in the Child and Family Agency Act 2013;
+"Agency" has the same meaning as it has in the Child and Family Agency Act 2013;
 
-‘arts’ has the same meaning as it has in the Arts Act 2003;
+"arts" has the same meaning as it has in the Arts Act 2003;
 
-‘authorised person’ means a person appointed under section 58I to be an authorised person for the purposes of this Part;
+"authorised person" means a person appointed under section 58I to be an authorised person for the purposes of this Part;
 
-‘competitive sport’ has the same meaning as it has in the Irish Sports Council Act 1999;
+"competitive sport" has the same meaning as it has in the Irish Sports Council Act 1999;
 
-‘early years service’ means a service providing—
+"early years service" means a service providing—
 
 (a) a pre-school service, or
 
 (b) a school age service;
 
-‘pre-school child’ means a child who has not attained the age of six years, and who is not attending a recognised school;
+"pre-school child" means a child who has not attained the age of six years, and who is not attending a recognised school;
 
-‘pre-school service’ means any pre-school, play group, day nursery, crèche, day-care or other similar service which caters for pre-school children;
+"pre-school service" means any pre-school, play group, day nursery, crèche, day-care or other similar service which caters for pre-school children;
 
-‘recognised school’ has the same meaning as it has in the Education Act 1998;
+"recognised school" has the same meaning as it has in the Education Act 1998;
 
-‘recreational sport’ has the same meaning as it has in the Irish Sports Council Act 1999;
+"recreational sport" has the same meaning as it has in the Irish Sports Council Act 1999;
 
-‘register’ means the register established and maintained in accordance with section 58C;
+"register" means the register established and maintained in accordance with section 58C;
 
-‘school’ has the same meaning as it has in the Education Act 1998;
+"school" has the same meaning as it has in the Education Act 1998;
 
-‘school age child’ means a child who is attending a school age service;
+"school age child" means a child who is attending a school age service;
 
-‘school age service’ means any early years service, play group, day nursery, crèche, day-care or other similar service which—
+"school age service" means any early years service, play group, day nursery, crèche, day-care or other similar service which—
 
 (a) caters for children under the age of 15 years enrolled in a school providing primary or post-primary education,
 
@@ -54,4 +54,4 @@ Definitions for this Part.
 
 (ii) for whom statutory provision for inspection exists, prior to the commencement of this section;
 
-‘youth work’ has the same meaning as it has in the Youth Work Act 2001.
+"youth work" has the same meaning as it has in the Youth Work Act 2001.

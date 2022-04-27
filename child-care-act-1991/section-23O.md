@@ -4,11 +4,11 @@ Definitions.
 
 23O.—In this Part—
 
-‘authorised officer’ means a person appointed by the Child and Family Agency under section 23S;
+"authorised officer" means a person appointed by the Child and Family Agency under section 23S;
 
 ...
 
-‘private foster care arrangement’ means any arrangement or undertaking whereby a child is for more than 14 days in the full-time care, for reward or otherwise, of a person other than his or her parent or guardian, a person cohabiting with a parent or guardian or a relative, except where the child—
+"private foster care arrangement" means any arrangement or undertaking whereby a child is for more than 14 days in the full-time care, for reward or otherwise, of a person other than his or her parent or guardian, a person cohabiting with a parent or guardian or a relative, except where the child—
 
 (a) is residing at a boarding school and receiving full-time education,
 
@@ -32,4 +32,4 @@ Definitions.
 
 (k) is placed with a friend of the child’s parent or guardian for a period not exceeding 42 days, while the parent or guardian is on holidays;
 
-‘relative’, in relation to a child, means a grandparent, brother, sister, uncle or aunt, whether of the whole blood, half blood or by affinity, and includes the spouse of any such person and any person cohabiting with any such person.
+"relative", in relation to a child, means a grandparent, brother, sister, uncle or aunt, whether of the whole blood, half blood or by affinity, and includes the spouse of any such person and any person cohabiting with any such person.

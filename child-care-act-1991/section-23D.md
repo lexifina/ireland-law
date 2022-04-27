@@ -68,4 +68,4 @@ Criminal proceedings and provision of special care.
 
 (b) where a special care order or an interim special care order has been made and has effect before the child is remanded in custody, nothing in this Act shall be construed as requiring the Child and Family Agency to continue to provide special care to that child and the Child and Family Agency shall apply to the High Court to have such special care order or interim special care order discharged.
 
-(7) In this section, ‘Court hearing that charge’ includes the Children Court referred to in section 71 (as amended by the Criminal Justice Act 2006) of the Act of 2001.
+(7) In this section, "Court hearing that charge" includes the Children Court referred to in section 71 (as amended by the Criminal Justice Act 2006) of the Act of 2001.

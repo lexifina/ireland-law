@@ -24,4 +24,4 @@ Prohibition on publication or broadcast of certain matters.
 
 (5) ...
 
-(5A) In this section, where the proceedings are proceedings under Part IVA (as amended by the Child Care (Amendment) Act 2011), ‘court’ means the High Court.
+(5A) In this section, where the proceedings are proceedings under Part IVA (as amended by the Child Care (Amendment) Act 2011), "court" means the High Court.

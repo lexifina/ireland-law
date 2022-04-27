@@ -18,7 +18,7 @@ Definitions for Part VIII.
 
 “centre” means a children’s residential centre;
 
-‘register’ means a register of children’s residential centres that is established or deemed to have been established by the Child and Family Agency under section 61, and cognate words shall be construed accordingly;
+"register" means a register of children’s residential centres that is established or deemed to have been established by the Child and Family Agency under section 61, and cognate words shall be construed accordingly;
 
 “registered proprietor”, in relation to a registered children’s residential centre, means the person whose name is entered in the register as the person carrying on the centre;
 

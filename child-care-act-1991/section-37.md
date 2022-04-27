@@ -18,4 +18,4 @@ Access to children in care.
 
 (4) This section is without prejudice to section 4 (2).
 
-(5) In this section, in proceedings under Part IVA (as amended by the Child Care (Amendment) Act 2011), ‘court’ means the High Court.
+(5) In this section, in proceedings under Part IVA (as amended by the Child Care (Amendment) Act 2011), "court" means the High Court.

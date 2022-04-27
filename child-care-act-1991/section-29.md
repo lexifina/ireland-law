@@ -66,9 +66,9 @@ Hearing of proceedings.
 
 (f) In this subsection—
 
-‘party to the proceedings’ includes a witness in the proceedings;
+"party to the proceedings" includes a witness in the proceedings;
 
-‘sensitive personal information’ means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+"sensitive personal information" means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
 
 (i) information relating to the medical, psychiatric or psychological history of the person,
 
@@ -86,4 +86,4 @@ Hearing of proceedings.
 
 (b) section 267(2) of the Children Act 2001.
 
-(9) In subsection (5), ‘proceedings’ include proceedings commenced but not completed before the commencement of that subsection.
+(9) In subsection (5), "proceedings" include proceedings commenced but not completed before the commencement of that subsection.
