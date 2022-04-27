@@ -1,0 +1,3 @@
+Evidence in relation to certain offences.
+
+26. — Where the contents of litter that has been deposited in contravention of this Act or of municipal waste that has been placed in contravention of section 3(3) gives rise to a reasonable suspicion as to the identity of the person from whom the litter or waste emanated, the contents shall, in a prosecution of the person for an offence under this Act, constitute evidence, in the absence of evidence to the contrary, that the litter or waste emanated from the person before the deposit or placement and that the person made the contravening deposit or placement.
