@@ -34,6 +34,6 @@ F275[Review and update of aftercare plan
 
 (8) In this section—
 
-‘public body’ has the same meaning as it has in section 45B;
+"public body" has the same meaning as it has in section 45B;
 
-‘service’ has the same meaning as it has in section 45B save that for the purposes of this section the reference to ‘any need of a person identified in the assessment of need carried out in respect of that person’ shall be taken to include any additional need of that person identified in a request under subsection (1)(c)(ii).
+"service" has the same meaning as it has in section 45B save that for the purposes of this section the reference to "any need of a person identified in the assessment of need carried out in respect of that person" shall be taken to include any additional need of that person identified in a request under subsection (1)(c)(ii).

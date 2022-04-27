@@ -4,7 +4,7 @@ F151[Existing orders.
 
 (2) Where an existing order has effect for a specified period, nothing in subsection (1) shall be construed as affecting that period.
 
-(3) In this section ‘existing order’ means—
+(3) In this section "existing order" means—
 
 (a) an interim care order made under section 17,
 

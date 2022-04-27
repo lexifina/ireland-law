@@ -38,7 +38,7 @@ F119[ Extension of period for which special care order has effect.
 
 (8) Each extension of the period for which a special care order has effect shall not exceed 3 months.
 
-(9) Where the High Court extends the period for which a special care order has effect (in this section referred to as the ‘extended period’) the extended period shall take effect—
+(9) Where the High Court extends the period for which a special care order has effect (in this section referred to as the "extended period") the extended period shall take effect—
 
 (a) pursuant to the first application, immediately following the expiration of the period specified in the special care order in accordance with section 23H(2), and
 

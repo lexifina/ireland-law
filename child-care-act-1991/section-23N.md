@@ -26,7 +26,7 @@ F129[ Extension of period for which interim special care order has effect.
 
 (8) An application to extend the period for which an interim special care order has effect shall not be made in respect of an interim special care order, referred to in section 23L(3), which has been made pursuant to an ex parte application and in respect of which the hearing referred to in section 23M(1)(a) has not taken place.
 
-(9) Where the High Court extends the period for which an interim special care order has effect (in this section referred to as the ‘extended period’) the extended period shall take effect immediately following the expiration of the period specified in the interim special care order in accordance with section 23L(2).
+(9) Where the High Court extends the period for which an interim special care order has effect (in this section referred to as the "extended period") the extended period shall take effect immediately following the expiration of the period specified in the interim special care order in accordance with section 23L(2).
 
 (10) Where an order was made under section 23NA(1) in respect of a child who is the subject of an application under this section, the High Court may, on the application of the Child and Family Agency, extend the period for which that order has effect.
 

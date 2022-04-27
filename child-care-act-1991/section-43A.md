@@ -54,7 +54,7 @@ F265[Orders relating to children in care of same foster parent or relative for f
 
 (12) This section and section 43B are without prejudice to any other provisions of this Act, or any provisions of the regulations for the time being in force under this Act, that in the interests of a child in care assign functions to the Child and Family Agency.
 
-(13) For the purpose of this section and section 43B, ‘relevant time’ means—
+(13) For the purpose of this section and section 43B, "relevant time" means—
 
 (a) in relation to a child in care under section 4, immediately before the child was taken into care under that section, and
 

@@ -8,4 +8,4 @@ Appointment of guardian ad litem for a child.
 
 (4) Where a child in respect of whom an order has been made under subsection (1) becomes a party to the proceedings in question (whether by virtue of an order under section 25 (1) or otherwise) then that order shall cease to have effect.
 
-(5) In this section, where the proceedings are proceedings under Part IVA (as amended by the Child Care (Amendment) Act 2011), ‘court’ means the High Court.
+(5) In this section, where the proceedings are proceedings under Part IVA (as amended by the Child Care (Amendment) Act 2011), "court" means the High Court.

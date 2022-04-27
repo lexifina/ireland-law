@@ -30,4 +30,4 @@ F274[Aftercare plan - eligible adult
 
 (b) if that person is an eligible adult he or she may make a request under subsection (1).
 
-(8) In this section, ‘public body’ and ‘service’ have the same meaning as they have in section 45B.
+(8) In this section, "public body" and "service" have the same meaning as they have in section 45B.

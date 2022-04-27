@@ -10,7 +10,7 @@ Interpretation.
 
 “assessment of need” shall be construed in accordance with section 45A;
 
-‘broadcast’ has the same meaning as it has in section 2 of the Broadcasting Act 2009;
+"broadcast" has the same meaning as it has in section 2 of the Broadcasting Act 2009;
 
 ...
 
@@ -28,21 +28,21 @@ Interpretation.
 
 ...
 
-‘interim special care order’ has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011);
+"interim special care order" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011);
 
-‘Minister’ means the Minister for Children and Youth Affairs.
+"Minister" means the Minister for Children and Youth Affairs.
 
 “parents” includes a surviving parent and, in the case of a child who has been adopted under the Adoption Acts, 1952 to 1988, or, where the child has been adopted outside the State, whose adoption is recognised by virtue of the law for the time being in force in the State, means the adopter or adopters or the surviving adopter;
 
 “prescribed” means prescribed by regulations made by the Minister.
 
-‘publish’ means publish, other than by way of broadcast, to the public or a portion of the public.
+"publish" means publish, other than by way of broadcast, to the public or a portion of the public.
 
-‘special care’ has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011);
+"special care" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011);
 
-‘special care order’ has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011);
+"special care order" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011);
 
-‘special care unit’ has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011).
+"special care unit" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011).
 
 (1A) (a) Where prior to the coming into operation of section 82 of the Child and Family Agency Act 2013 a person was in the care of the Health Service Executive in accordance with this Act for any period of time in the 5 year period immediately prior to the person attaining the age of 18 years, that period of time shall be considered as time spent in the care of the Child and Family Agency for the purpose of satisfying the 12 month period referred to in the definition of eligible adult.
 

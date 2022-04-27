@@ -4,4 +4,4 @@ Power to proceed in absence of child.
 
 (2) Where the child requests to be present during the hearing or a particular part of the hearing of the proceedings the court shall grant the request unless it appears to the court that, having regard to the age of the child or the nature of the proceedings, it would not be in the child’s interests to accede to the request.
 
-(3) In subsection (1) and (2), where the proceedings are proceedings under Part IVA (as amended by the Child Care (Amendment) Act 2011), ‘court’ means the High Court.
+(3) In subsection (1) and (2), where the proceedings are proceedings under Part IVA (as amended by the Child Care (Amendment) Act 2011), "court" means the High Court.

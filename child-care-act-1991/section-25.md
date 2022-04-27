@@ -10,4 +10,4 @@ Power of court to join child as a party and costs of child as a party.
 
 (5) The court which has made an order under subsection (2) may, on the application to it of the Child and Family Agency, order any other party to the proceedings in question to pay to the Agency any costs or expenses payable by the Agency under subsection (4).
 
-(6) In this section, where the proceedings are proceedings under Part IVA (as amended by the Child Care (Amendment) Act 2011), ‘court’ means the High Court.
+(6) In this section, where the proceedings are proceedings under Part IVA (as amended by the Child Care (Amendment) Act 2011), "court" means the High Court.

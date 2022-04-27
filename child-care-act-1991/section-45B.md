@@ -46,7 +46,7 @@ F273[Aftercare plan - eligible child
 
 (11) In this section—
 
-‘guardian’, in relation to an eligible child, means a person who—
+"guardian", in relation to an eligible child, means a person who—
 
 (a) is a guardian of the child pursuant to the Guardianship of Infants Act 1964 and who—
 
@@ -60,6 +60,6 @@ F273[Aftercare plan - eligible child
 
 (ii) order of a court in the State, and has not been removed from office;
 
-‘public body’ has the same meaning as it has in section 2 of the Child and Family Agency Act 2013;
+"public body" has the same meaning as it has in section 2 of the Child and Family Agency Act 2013;
 
-‘service’ means a service or support, available to or accessible by the public generally or a section of the public, where the service or support would assist in meeting any need of a person identified in the assessment of need carried out in respect of that person.
+"service" means a service or support, available to or accessible by the public generally or a section of the public, where the service or support would assist in meeting any need of a person identified in the assessment of need carried out in respect of that person.
