@@ -28,6 +28,6 @@ Gárda Síochána may search for and seize certain firearms, etc.
 
 (6) Where a firearm or ammunition is seized under this section or under section 22 of this Act and a prosecution for an offence under this Act in relation to the firearm or ammunition is not instituted, the firearm or ammunition shall be—
 
-(a) returned to the person who is the owner, consignor or consignee thereof, as may be appropriate (other than where the firearm or ammunition concerned is a prohibited firearm or prohibited ammunition, as the case may be, or a firearm or ammunition the acquisition or possession of which is prohibited by section 2D (inserted by Regulation 10(d) of the European Communities (Acquisition and Possession of Weapons And Ammunition) (Amendment) Regulations 2019)), or disposed of, subject to the provisions of this Act, in accordance with the directions of such person, or
+(a) returned to the person who is the owner, consignor or consignee thereof, as may be appropriate (other than where the firearm or ammunition concerned is a prohibited firearm or prohibited ammunition, as the case may be, or a firearm or ammunition the acquisition or possession of which is prohibited by section 2D ...), or disposed of, subject to the provisions of this Act, in accordance with the directions of such person, or
 
 (b) made the subject of an application to the District Court under the Police (Property) Act, 1897, and disposed of in accordance with the terms of the order made by the District Court under that Act in relation to the application.
