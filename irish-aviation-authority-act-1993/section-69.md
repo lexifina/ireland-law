@@ -14,4 +14,4 @@ Charge of rates on property of company.
 
 (4) The company shall provide the Commission with information in relation to such matters concerning the performance of functions transferred or assigned to it under this section as the Commission specifies in writing.
 
-(5) In this section, ‘the Commission’ means the Commission for Communications Regulation.
+(5) In this section, "the Commission" means the Commission for Communications Regulation.

@@ -14,7 +14,7 @@ Offences.
 
 (ii) on conviction on indictment, to a fine not exceeding €500,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(4) A person guilty of an offence under subsection (2) consisting of a contravention of a regulation under section 43 (4) or section 56 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €5,000or to imprisonment for a term not exceeding 6 months or to both.
+(4) A person guilty of an offence under subsection (2) consisting of a contravention of a regulation under section 43 (4) or section 56 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (5) A person who obstructs or impedes an authorised officer, an authorised officer of the company, a member of the staff of the company or an officer of Eurocontrol in the performance of any function conferred on him or her by or under this Act or fails to furnish to such a member information to which he or she is entitled under section 57B or an order under section 65 is guilty of an offence and is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or to both.
 

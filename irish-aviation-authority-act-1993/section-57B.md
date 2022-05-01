@@ -26,7 +26,7 @@ F17[Random checks and inspections.
 
 (7) In this section—
 
-‘authorised person’ means—
+" authorised person " means—
 
 (a) an authorised officer,
 
@@ -34,4 +34,4 @@ F17[Random checks and inspections.
 
 (c) an officer of Eurocontrol;
 
-‘premises’ includes an aircraft.
+" premises " includes an aircraft.
