@@ -8,6 +8,6 @@ Acquisition of land.
 
 (4) The Second Schedule to the Air Navigation and Transport (Amendment) Act, 1998, shall, for the purposes of the acquisition of land by the company under this section, apply with the following modifications:
 
-(a) the reference in subparagraph (1) of paragraph 1 to ‘section 17’ shall be construed as a reference to this section, and
+(a) the reference in subparagraph (1) of paragraph 1 to "section 17" shall be construed as a reference to this section, and
 
-(b) a reference to ‘the company’ shall be construed as a reference to the Irish Aviation Authority.
+(b) a reference to "the company" shall be construed as a reference to the Irish Aviation Authority.

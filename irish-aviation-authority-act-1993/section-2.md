@@ -40,13 +40,13 @@ Interpretation.
 
 “the company” means the company referred to in section 11 ;
 
-‘contracting state’ means a state, including the State, which is a party to Annex IV of the Eurocontrol Convention;
+" contracting state " means a state, including the State, which is a party to Annex IV of the Eurocontrol Convention;
 
 “determination”, in relation to a relevant authority, means a decision of the authority as to whether or not any sum is due to Eurocontrol, the company or the Minister in respect of air navigation services or aeronautical communications services provided by Eurocontrol, the company, the Minister or any other person;
 
-‘Eurocontrol’ means the European Organisation for the Safety of Air Navigation (Eurocontrol) established by the Eurocontrol Convention and references to Eurocontrol include references to the General Assembly and the Council comprised in Eurocontrol and to the Agency;
+" Eurocontrol " means the European Organisation for the Safety of Air Navigation (Eurocontrol) established by the Eurocontrol Convention and references to Eurocontrol include references to the General Assembly and the Council comprised in Eurocontrol and to the Agency;
 
-‘Eurocontrol Convention’ means the International Convention relating to Cooperation for the Safety of Air Navigation signed at Brussels on 13 December 1960, as amended by the Additional Protocol signed at Brussels on 6 July 1970, the Protocol signed at Brussels on 21 November 1978 and the Protocol signed at Brussels on 12 February 1981, as consolidated by the Protocol signed at Brussels on 27 June 1997, (the consolidated text of which is set out for convenience of reference in the English language in Schedule 1 to the Aviation Act 2006), the Final Act and Protocol on the accession of the European Community to the Eurocontrol Convention signed at Brussels on 8 October 2002 (the text of which is set out for convenience of reference in the English language in Schedule 2 to the Aviation Act 2006), and by any other protocol or other instrument which may be signed after the passing of the Aviation Act 2006;
+" Eurocontrol Convention " means the International Convention relating to Cooperation for the Safety of Air Navigation signed at Brussels on 13 December 1960, as amended by the Additional Protocol signed at Brussels on 6 July 1970, the Protocol signed at Brussels on 21 November 1978 and the Protocol signed at Brussels on 12 February 1981, as consolidated by the Protocol signed at Brussels on 27 June 1997, (the consolidated text of which is set out for convenience of reference in the English language in Schedule 1 to the Aviation Act 2006), the Final Act and Protocol on the accession of the European Community to the Eurocontrol Convention signed at Brussels on 8 October 2002 (the text of which is set out for convenience of reference in the English language in Schedule 2 to the Aviation Act 2006), and by any other protocol or other instrument which may be signed after the passing of the Aviation Act 2006;
 
 “functions” includes powers and duties, and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
 
@@ -58,7 +58,7 @@ Interpretation.
 
 “land” includes land covered by water and “land areas” shall be construed accordingly;
 
-‘The Minister’ means the Minister for Transport;
+" The Minister " means the Minister for Transport;
 
 ...
 

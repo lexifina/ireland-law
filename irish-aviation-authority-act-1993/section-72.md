@@ -14,7 +14,7 @@ Miscellaneous amendments of Acts.
 
 (a) the Acts or this Act or an instrument made or given thereunder and relating to a matter to which a function of the company relates,
 
-(b) the Annexes to the Chicago Convention specified in the Schedule , or
+(b) the Annexes to the Chicago Convention specified in the Schedule, or
 
 (c) the Eurocontrol Convention, exercise any of the powers conferred by section 18 of the Act of 1988 on an authorised person within the meaning of that section and, for the purposes of such exercise, subsections (2) and (4) of that section shall apply in relation to an authorised officer of the company as they apply in relation to an authorised person within the meaning aforesaid.
 
