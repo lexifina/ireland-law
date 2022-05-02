@@ -12,7 +12,7 @@ Detention of aircraft.
 
 “(a) any provision of the Irish Aviation Authority Act, 1993, or order or regulations made or directions given thereunder,
 
-(b) the Annexes to the Chicago Convention specified in the Schedule to the Irish Aviation Authority Act, 1993,
+(b) the Annexes to the Chicago Convention specified in Schedule 1 to the Irish Aviation Authority Act, 1993,
 
 (c) (i) the Eurocontrol Convention,
 
