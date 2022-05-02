@@ -2,11 +2,11 @@ Objects of company.
 
 14.— (1) The principal objects of the company shall be stated in its memorandum of association to be—
 
-(a) to give effect to the Annexes to the Chicago Convention specified in the Schedule except in so far as they relate to the making of agreements between the State and other states,
+(a) to give effect to the Annexes to the Chicago Convention specified in Schedule 1 except in so far as they relate to the making of agreements between the State and other states,
 
 (b) to ensure that Irish airspace and other airspace in relation to which air navigation services are provided by the company are used in a safe and efficient manner and to facilitate their use,
 
-(c) subject to section 68 , to provide, operate and manage, or arrange for the provision, operation and management of, air navigation services in Irish and other airspace,
+(c) subject to section 68, to provide, operate and manage, or arrange for the provision, operation and management of, air navigation services in Irish and other airspace,
 
 (d) to such extent as the company considers appropriate, to operate and manage terminal services at State aerodromes and licensed aerodromes and to regulate the provision, operation and management of terminal services at State aerodromes and at licensed aerodromes,
 
@@ -60,4 +60,16 @@ Objects of company.
 
 (5) Any function conferred on the company by or under this Act and which, immediately before the commencement of this section, was a function of the Minister shall, upon such commencement, cease to be a function of the Minister.
 
-(6) In this section “the Arrangements” means the Arrangements concerning the development, the acceptance and the implementation of joint aviation requirements of the Joint Aviation Authorities of Europe (J.A.A.) (being the associated body of the European Civil Aviation Conference which is referred to by that title in the Arrangements) concluded in Cyprus on the 11th day of September, 1990.
+(6) (a) For the avoidance of doubt, the reference to "(including making regulations)" in subsection (3) includes making regulations that apply to the Irish Coast Guard.
+
+(b) The company shall consult with the Irish Coast Guard before it makes regulations that apply to the Irish Coast Guard.
+
+(c) The company shall, in making regulations that apply to the Irish Coast Guard, have regard to—
+
+(i) the public benefit of the Irish Coast Guard,
+
+(ii) the need to balance safety regulation with the need to provide effective emergency aviation responses to medical emergencies, accidents and serious incidents within the State,
+
+(iii) the need to provide for greater specificity in relation to the regulatory framework for the oversight of aviation activities by and for the Irish Coast Guard, and
+
+(iv) any regulations made under section 69A.
