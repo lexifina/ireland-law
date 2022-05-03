@@ -10,7 +10,9 @@ Definitions.
 
 “Community law” means an act adopted by an institution of the European Communities;
 
-“Department” means Department of Communications, Marine and Natural Resources;
+“Department” means Department of Agriculture, Food and the Marine;
+
+“fisheries monitoring centre“has the same meaning as it has in Article 4 of Council Regulation (EC) No. 1224/2009 of 20 November 2009;
 
 “foreign sea-fishing boat” means a sea-fishing boat which is not an Irish sea-fishing boat;
 
@@ -22,7 +24,7 @@ Definitions.
 
 (c) exempt from such registration by regulations under that section;
 
-“Minister” means Minister for Communications, Marine and Natural Resources;
+“Minister” means Minister for Agriculture, Food and the Marine;
 
 “Principal Act” means Fisheries (Consolidation) Act 1959;
 

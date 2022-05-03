@@ -8,7 +8,7 @@ Sea-fisheries protection officers.
 
 (b) a person appointed under subsection (1), or authorised under subsection (2)(a), of section 51,
 
-(c) a member of the Permanent Defence Forces (not below the rank of leading seaman or corporal) for the time being serving on board any ship, vessel or aircraft belonging to or employed in the service of the State,
+(c) a member of the Permanent Defence Forces (not below the rank of leading seaman or corporal) for the time being serving on board any ship, vessel or aircraft belonging to or employed in the service of the State, or serving in the fisheries monitoring centre,
 
 (d) a member of the Garda Síochána, and
 

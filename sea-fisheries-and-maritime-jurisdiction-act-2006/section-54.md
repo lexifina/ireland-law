@@ -4,7 +4,7 @@ Indemnity.
 
 (a) a member of the Authority or a member of the staff of the Authority,
 
-(b) a person authorised by the Authority under section 51(2)(a),
+(b) a person authorised by the Authority under section 51(2),
 
 (c) a person engaged by the Authority under section 53, or
 

@@ -4,7 +4,7 @@ Presumption.
 
 (a) any fish relevant to the offence on board such sea-fishing boat,
 
-(b) any nets or other equipment or articles on board such sea-fishing boat indicating use of the boat for fishing, the retention, storage on board, trans-shipment or landing of fish relevant to the offence,
+(b) any fishing gear or other equipment or articles on board such sea-fishing boat indicating use of the boat for fishing, the retention, storage on board, trans-shipment or landing of fish relevant to the offence,
 
 (c) evidence that such sea-fishing boat had on board any records from which it appears to the court that on the day on which the offence is alleged to have been committed fish relevant to the offence were caught, retained, stored on board, trans-shipped or landed contrary to the provision concerned,
 

@@ -6,7 +6,7 @@ National regulatory measures to supplement common fisheries policy.
 
 (b) an Irish sea-fishing boat, wherever it may be;
 
-(c) any person engaged in buying, handling, weighing, trans-shipping, transporting, landing, processing, storing, documenting or selling of fish; and
+(c) any person engaged in fishing or buying, handling, weighing, trans-shipping, transporting, landing, processing, storing, documenting or selling of fish; and
 
 (d) nets and their usage during any time or season or at any place within the exclusive fishery limits or internal waters.
 
@@ -14,7 +14,7 @@ National regulatory measures to supplement common fisheries policy.
 
 (a) prescribe such measures as—
 
-(i) prohibitions of or restrictions on areas or times or methods of fishing or use of sea-fishing boats or equipment on them,
+(i) prohibitions of or restrictions on areas or times or methods of fishing or use of sea-fishing boats or fishing gear or equipment,
 
 (ii) prohibitions of or restrictions on fishing effort,
 

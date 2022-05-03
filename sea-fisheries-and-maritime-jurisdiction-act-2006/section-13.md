@@ -2,21 +2,21 @@ Management and Regulation of State’s fishing opportunities and fishing effort 
 
 13.— (1) The Minister may, for the proper and effective management and conservation and rational exploitation of fishing opportunities and fishing effort for Irish sea-fishing boats under the common fisheries policy, at his or her discretion—
 
-(a) upon—
+(a)upon—
 
-(i) the application from, in such form as the Minister decides, or
+(i) the application from any person, in such form as the Minister decides, or
 
-(ii) the Minister’s own initiative in respect of any person who—
+(ii) the Minister’s own initiative, in respect of any person,
 
 (I) is the owner of an Irish sea-fishing boat which is entered in the Register of Fishing Boats, and
 
 (II) to whom a sea-fishing boat licence has been granted, and
 
-(b) upon the person giving to the Minister such information as the Minister may reasonably require in relation to the application or the fishing capacity or operation of the boat concerned, grant to the person an authorisation (“authorisation”) in respect of the boat, authorising, subject to this section, the utilisation of the boat’s fishing effort for the capture and retention on board of a specified fish stock (“stock”) or group of fish stocks (“stocks”) from the boat in a specified area mentioned in the authorisation and the landing or trans-shipment of the specified stock or stocks taken in that area during such period as is specified in the authorisation.
+(b) upon the person giving to the Minister such information as the Minister may reasonably require in relation to the application or the fishing capacity or operation of the boat concerned, grant (in electronic form or otherwise) to the person an authorisation (“authorisation”) in respect of the boat, authorising, subject to this section, the utilisation of the boat’s fishing effort for the capture and retention on board of a specified fish stock (“stock”) or group of fish stocks (“stocks”) from the boat in a specified area mentioned in the authorisation and the landing or trans-shipment of the specified stock or stocks taken in that area during such period as is specified in the authorisation.
 
 (2) The Minister may renew, subject to this section, without application, at his or her discretion, an authorisation for such period as may be stated in the renewed authorisation, where the Minister is satisfied that—
 
-(a) the holder of the authorisation upon its expiration continues to be the owner, charterer or hirer, as the case may be, of the boat in respect of which the authorisation was granted, and
+(a) the holder of the authorisation upon its expiration continues to be the owner, ... of the boat in respect of which the authorisation was granted, and
 
 (b) the boat concerned upon the expiration of the authorisation continues to be—
 
@@ -50,7 +50,7 @@ Management and Regulation of State’s fishing opportunities and fishing effort 
 
 (j) requiring the facilitation of the placing of any person appointed by the Department or its agencies on board the boat for the purposes of ensuring compliance with the requirements of the authorisation, fisheries legislation, scientific observation, and requiring the provision of assistance and co-operation to that person in carrying out his or her duties or otherwise,
 
-(k) requiring the keeping of the authorisation on the boat concerned.
+(k) requiring the keeping of the authorisation, or where the authorisation is issued in electronic form, a printed copy of the authorisation, on the boat concerned.
 
 (6) The Minister may, as a condition of the authorisation, from time to time, restrict the quantity of fish, during such period as he or she decides—
 

@@ -32,7 +32,7 @@ Powers of sea-fisheries protection officer related to the inspection, examinatio
 
 (j) to require the owner of or any person connected with—
 
-(i) any premises referred to in paragraph (b)(i) and (ii) and (v),
+(i) any premises referred to in paragraph (b)(i), (ii) or (v),
 
 (ii) any pier, quay, wharf, jetty, dock or dock premises, seafood factory or processing facility or warehouse referred to in paragraph (b)(iii), or
 

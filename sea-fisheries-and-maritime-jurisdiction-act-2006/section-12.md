@@ -26,9 +26,9 @@ Management of State’s fishing quota — notices.
 
 (8) A notice, specifying the date and time of its issue and the date from which it comes into force, not being a day earlier than the day after its first publication, shall be published, in such manner as the Minister considers appropriate and expedient in the circumstances (including electronic means, whether by electronic-mail, facsimile, the internet, or otherwise, or by publication in a newspaper published and circulating in the State or to organisations the Minister considers representative of the interests of persons engaged in sea-fishing).
 
-(9) Without prejudice to subsection (8), notice of the publication of a notice shall be made by publishing the notice in the Iris Oifigiúil.
+(9) Without prejudice to subsection (8), notification of the publication of a notice under that subsection shall be made by publishing a notification in Iris Oifigiil and such notification shall include the date on which, and manner in which, the notice was published.
 
-(10) A copy of the Iris Oifigiúil purporting to contain a notice may be produced in every court and in all legal proceedings and is evidence, unless the contrary is shown, of the notice.
+(10) A copy of the Iris Oifigiúil purporting to contain a notification may be produced in every court and in all legal proceedings and is evidence, unless the contrary is shown, of the notification.
 
 (11) A copy of a notice, which has endorsed on it a certificate purporting to be signed by an officer of the Department (authorised in that behalf by the Secretary General) stating that the copy is a true copy of the notice may, without proof of signature of that officer, be produced in every court and in all legal proceedings and is evidence, unless the contrary is shown, of the notice.
 

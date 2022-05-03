@@ -1,0 +1,5 @@
+Extension of time limits.
+
+15T.—(1) Any time limit referred to in this Chapter within which any action is required to be taken or may not be taken, or anything is required to be done or may not be done, may be extended by the Determination Panel or the Appeals Officer, as the case may be, by such period as is necessary to align the time limit concerned with a corresponding time limit in the Regulations of 2020 relating to a determination or appeal under those Regulations arising out of the same alleged serious infringement.
+
+(2) Any time limit referred to in the Regulations of 2020 within which any action is required to be taken or may not be taken, or anything is required to be done or may not be done, may be extended by the Determination Panel or the Appeals Officer, as the case may be, within the meaning of those Regulations, by such period as is necessary to align the time limit concerned with a corresponding time limit in this Chapter relating to a determination or appeal under this Chapter arising out of the same alleged serious infringement.
