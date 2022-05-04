@@ -1,0 +1,3 @@
+Delegation of certain functions of Superintendent.
+
+25CA. …
