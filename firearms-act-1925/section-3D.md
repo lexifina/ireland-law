@@ -4,7 +4,7 @@ Restriction on licensing of short firearms.
 
 (a) a device capable of discharging blank ammunition and to be used as a starting gun or blank firing gun;
 
-(b) a short firearm of a type specified at paragraph 4(2)(e) of the Fire-arms (Restricted Firearms and Ammunition) Order 2008 (S.I. No. 21 of 2008) and designed for use as so specified;
+(b) a short firearm of a type specified at paragraph 4(2)(e) of the Firearms (Restricted Firearms and Ammunition) Order 2008 (S.I. No. 21 of 2008) and designed for use as so specified;
 
 (c) a short firearm for which the applicant for the firearm certificate held a firearm certificate on or before 19 November 2008.
 
