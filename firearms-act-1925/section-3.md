@@ -1,4 +1,4 @@
-F32[Applications for, and form and effect of, firearm certificates.
+F36[Applications for, and form and effect of, firearm certificates.
 
 3.— (1) Application for a firearm certificate (other than a restricted firearm certificate) shall be made to the Superintendent of the Garda Síochána of the district in which the applicant resides.
 

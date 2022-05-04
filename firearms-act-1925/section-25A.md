@@ -1,4 +1,4 @@
-F88[Surrender of firearms and offensive weapons.
+F101[Surrender of firearms and offensive weapons.
 
 25A.— (1) The Minister may by order appoint a specified period during which a person may surrender at any Garda station or at any other place approved for the purpose by a superintendent of the Garda Síochána any of the following weapons:
 

@@ -1,4 +1,4 @@
-F28[Prohibited firearms and ammunition.
+F31[Prohibited firearms and ammunition.
 
 2C.— (1) The Minister may, in the interests of public safety and security, by order—
 

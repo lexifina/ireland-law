@@ -1,4 +1,4 @@
-F29[Prohibition on acquisition or possession of firearms classified in Category A of Directive
+F32[Prohibition on acquisition or possession of firearms classified in Category A of Directive
 
 2D. (1) Subject to subsections (2), (3) and (4), a person who acquires or possesses a firearm or ammunition classified in Category A of the Directive shall be guilty of an offence and shall be liable—
 
