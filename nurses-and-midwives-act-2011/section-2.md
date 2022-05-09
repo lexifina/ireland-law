@@ -4,7 +4,7 @@ Interpretation.
 
 “Act of 1985” means the Nurses Act 1985;
 
-‘allegation’, in relation to a complaint, means an allegation—
+"allegation", in relation to a complaint, means an allegation—
 
 (a) arising out of the complaint, and
 
@@ -14,7 +14,7 @@ Interpretation.
 
 “appropriate fee”, in relation to a provision of this Act, means the fee (if any) determined under section 38(1) that is appropriate for that provision;
 
-‘authorised officer’ means a member of the staff of the Board appointed under section 56(1) to be an authorised officer to perform the functions specified under section 56(2);
+"authorised officer" means a member of the staff of the Board appointed under section 56(1) to be an authorised officer to perform the functions specified under section 56(2);
 
 “Board” means the Board established by section 6 of the Act of 1985 and continued and renamed by section 6(1);
 
@@ -36,17 +36,17 @@ Interpretation.
 
 “Fitness to Practise Committee” means the committee established under section 24(2)(b);
 
-‘health or social care’, in relation to a person (howsoever described), means the health or social care that the person provides or has provided in his or her capacity or former capacity as a member of a relevant profession;
+"health or social care", in relation to a person (howsoever described), means the health or social care that the person provides or has provided in his or her capacity or former capacity as a member of a relevant profession;
 
 “inquiry” means an inquiry into a complaint by the Fitness to Practise Committee pursuant to a referral under section 61;
 
-‘investigation’, in relation to a complaint, means an investigation referred to in section 56A(1);
+"investigation", in relation to a complaint, means an investigation referred to in section 56A(1);
 
-‘investigation report’, in relation to a complaint, means a report referred to in section 56A(3) following the investigation of the complaint;
+"investigation report", in relation to a complaint, means a report referred to in section 56A(3) following the investigation of the complaint;
 
 “local authority” has the same meaning as it has in the Local Government Act 2001;
 
-‘material matter’, in relation to a person (howsoever described), means—
+"material matter", in relation to a person (howsoever described), means—
 
 (a) any of the following taken by any regulatory body (whether in or outside the State), other than the Board, in relation to the provision of one or more than one kind of health or social care by the person:
 
@@ -82,13 +82,13 @@ Interpretation.
 
 “register of nurses” means the register established under section 27 of the Act of 1985;
 
-‘registered address’ —
+"registered address" —
 
 (a) in relation to a registered nurse or registered midwife, means the address specified in the register of nurses and midwives as the nurse’s or midwife’s address, and
 
 (b) in relation to a registered candidate, means the address specified in the candidate register as the candidate’s address;
 
-‘registered candidate’ means a candidate whose name is entered in the candidate register;
+"registered candidate" means a candidate whose name is entered in the candidate register;
 
 “registered medical practitioner” has the same meaning as it has in the Medical Practitioners Act 2007;
 
@@ -120,9 +120,9 @@ Interpretation.
 
 (e) a decision confirmed or given under section 81(3);
 
-‘relevant medical disability‘, in relation to a person, means a physical or mental disability of the person (including addiction to alcohol or drugs) which may impair his or her ability to practise nursing or midwifery or a particular aspect thereof;
+"relevant medical disability", in relation to a person, means a physical or mental disability of the person (including addiction to alcohol or drugs) which may impair his or her ability to practise nursing or midwifery or a particular aspect thereof;
 
-‘relevant profession’ means any of the following professions:
+"relevant profession" means any of the following professions:
 
 (a) dentist;
 
@@ -136,7 +136,7 @@ Interpretation.
 
 (f) pharmacist;
 
-‘restriction’ includes a condition;
+"restriction" includes a condition;
 
 “rules” means rules made under section 13;
 

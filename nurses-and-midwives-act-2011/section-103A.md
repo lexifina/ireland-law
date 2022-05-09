@@ -8,7 +8,7 @@ Admissibility of certain documents relating to proceedings in other jurisdiction
 
 (4) In this section—
 
-‘final determination’, in relation to any relevant proceedings and a nurse or midwife, means—
+"final determination", in relation to any relevant proceedings and a nurse or midwife, means—
 
 (a) the conclusion of those proceedings without any party to the proceedings making an appeal, against a decision in those proceedings to impose or to not impose a sanction on the nurse or midwife, within the ordinary time in the State or other jurisdiction concerned, as appropriate, for making such an appeal, or
 
@@ -18,7 +18,7 @@ Admissibility of certain documents relating to proceedings in other jurisdiction
 
 (ii) the determination of the appeal, whichever first occurs;
 
-‘relevant document’, in relation to a nurse or midwife, means any of the following:
+"relevant document", in relation to a nurse or midwife, means any of the following:
 
 (a) a copy of a transcript of all or any part of relevant proceedings that has been certified, by or on behalf of the court, tribunal or other authority before which the proceedings were held, to be a true and accurate copy of that transcript;
 
@@ -28,7 +28,7 @@ Admissibility of certain documents relating to proceedings in other jurisdiction
 
 (d) if, after the final determination of such proceedings, no sanctions are, or continue to be, imposed on the nurse or midwife in consequence of such proceedings, a statement in writing to that effect certified by or on behalf of the court, tribunal or other authority before which the proceedings were held;
 
-‘relevant proceedings’, in relation to a nurse or midwife, means any disciplinary or judicial proceedings (other than proceedings under this Act), in respect of which the nurse or midwife is the subject—
+"relevant proceedings", in relation to a nurse or midwife, means any disciplinary or judicial proceedings (other than proceedings under this Act), in respect of which the nurse or midwife is the subject—
 
 (a) in the State or another jurisdiction which may directly or indirectly result in the nurse or midwife—
 
@@ -40,4 +40,4 @@ Admissibility of certain documents relating to proceedings in other jurisdiction
 
 (c) in the State which may result in the nurse or midwife being convicted, in the State, for an offence triable on indictment;
 
-‘sanction’ includes any restriction or measure.
+"sanction" includes any restriction or measure.

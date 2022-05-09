@@ -1,6 +1,6 @@
 Fitness to Practise Committee may order that certain information not be published.
 
-63A. (1) Subject to subsections (2) and (3), where the Fitness to Practise Committee is satisfied that there is reasonable cause that all or part of the information (in this section referred to as the ‘relevant information’) relating to all or part of a hearing (in this section referred to as the ‘relevant hearing’) before the committee being held in public should not be disclosed, it may request that the relevant information not be disclosed.
+63A. (1) Subject to subsections (2) and (3), where the Fitness to Practise Committee is satisfied that there is reasonable cause that all or part of the information (in this section referred to as the "relevant information") relating to all or part of a hearing (in this section referred to as the "relevant hearing") before the committee being held in public should not be disclosed, it may request that the relevant information not be disclosed.
 
 (2) A person may disclose all or part of any relevant information if the disclosure is in such form as to prevent particulars relating to the identity of a party to the proceedings at the relevant hearing being ascertained from it.
 

@@ -1,3 +1,5 @@
+## PART 9 MEASURES TAKEN WITH REGARD TO REGISTERED NURSES AND REGISTERED MIDWIVES FOLLOWING REPORTS OF FITNESS TO PRACTISE COMMITTEE
+
 Measures to be taken by Board after receiving report referred to in section 57A(2)(c).
 
 68A. (1) Subsection (2) applies as soon as is practicable after the Board has received and considered the report referred to in section 57A(2)(c) of the Preliminary Proceedings Committee in relation to a complaint concerning a registered nurse or registered midwife.
