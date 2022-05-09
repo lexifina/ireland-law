@@ -1,6 +1,6 @@
 Refusal of registration, etc., and appeal to Court against Board’s decision.
 
-52. (1) In this section, ‘relevant decision’ means a decision of the Board to—
+52. (1) In this section, "relevant decision" means a decision of the Board to—
 
 (a) refuse to recognise a qualification held by a nurse or midwife as a qualification he or she is entitled to have registered under this Act,
 

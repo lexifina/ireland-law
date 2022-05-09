@@ -14,7 +14,7 @@ Special measures registration having regard to Covid-19.
 
 (b) a section 108 registration or the retention of such registration.
 
-(4) Where a previous registrant’s name is entered in the register of nurses and midwives pursuant to a section 108 registration, the Board shall enter in that register, or cause to be entered in that register, the term ‘(section 108 registration)’ immediately after the name to indicate that his or her registration arises from the operation of this section.
+(4) Where a previous registrant’s name is entered in the register of nurses and midwives pursuant to a section 108 registration, the Board shall enter in that register, or cause to be entered in that register, the term "(section 108 registration)" immediately after the name to indicate that his or her registration arises from the operation of this section.
 
 (5) (a) Nothing in this section shall be construed to prevent a previous registrant’s name from being entered in the register of nurses and midwives pursuant to the operation of another section of this Act, whether or not his or her name is already entered in that register pursuant to a section 108 registration.
 
@@ -32,17 +32,17 @@ Special measures registration having regard to Covid-19.
 
 (8) In this section—
 
-‘previous registrant’ means a former registered nurse or former registered midwife, as appropriate, whose name was removed from the register of nurses and midwives pursuant to section 50 or 77;
+"previous registrant" means a former registered nurse or former registered midwife, as appropriate, whose name was removed from the register of nurses and midwives pursuant to section 50 or 77;
 
-‘section 108 application’ means an application under subsection (1);
+"section 108 application" means an application under subsection (1);
 
-‘section 108 registrant’ means a registered nurse or registered midwife, as appropriate, who is such pursuant to—
+"section 108 registrant" means a registered nurse or registered midwife, as appropriate, who is such pursuant to—
 
 (a) the Board’s determination of a section 108 application, or
 
 (b) a decision (howsoever called) of the Court arising from the Board’s determination of a section 108 application;
 
-‘section 108 registration’ means registration in the register of nurses and midwives pursuant to—
+"section 108 registration" means registration in the register of nurses and midwives pursuant to—
 
 (a) the Board’s determination of a section 108 application, or
 

@@ -1,6 +1,6 @@
 Appeal to Court against certain decisions of Board - candidates.
 
-52A. (1) In this section, ‘relevant decision’ means a decision of the Board to refuse to register or restore the registration of a candidate pursuant to section 51A.
+52A. (1) In this section, "relevant decision" means a decision of the Board to refuse to register or restore the registration of a candidate pursuant to section 51A.
 
 (2) Where the Board makes a relevant decision, the Board shall forthwith give notice in writing to the person, the subject of the decision, of the decision, the date of the decision and the reasons for the decision.
 
