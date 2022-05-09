@@ -8,6 +8,8 @@ Terms for connection to and use of transmission or distribution system.
 
 (1C) The Commission shall publish directions that are given by it to the Board under this section.
 
+(1D) In relation to an application to the transmission system operator under subsection (1), by any person, including new generation installations and energy storage facilities, the terms and conditions mentioned in that subsection shall be published by the transmission system operator, following their approval by the Commission.
+
 (2) Without prejudice to the generality of subsection (1), directions given by the Commission under this section may provide for:
 
 (a) the matters to be specified in an agreement for connection to and use of the transmission or distribution system;
@@ -53,6 +55,18 @@ Terms for connection to and use of transmission or distribution system.
 (b) The information specified in subparagraph (a) shall be provided in all cases when access for recharging points has been denied.
 
 (c) The party requesting such information may be charged by the transmission system operator a fee reflective of the administrative cost of providing the information referred to in paragraph (a) and any such fee shall be displayed by the transmission system operator on its website.
+
+(5B) (a) The transmission system operator shall not be entitled to refuse the connection of a new generating installation or energy storage facility on the grounds of possible future limitations to available network capacities, such as congestion in distant parts of the transmission system;
+
+(b) The transmission system operator shall supply necessary information if refusing connection to those seeking connection;
+
+(c) Paragraphs (a) and (b) shall be without prejudice to the possibility for the transmission system operator to limit the guaranteed connection capacity or to offer connections subject to operational limitations, in order to ensure economic efficiency regarding new generating installations or energy storage facilities, provided that such limitations have been approved by the Commission;
+
+(d) The Commission shall ensure that any limitations in guaranteed connection capacity or operational limitations are introduced on the basis of transparent and non-discriminatory procedures and do not create undue barriers to market entry;
+
+(e) Where the generating installation or energy storage facility bears the costs related to ensuring unlimited connection, no limitation shall apply;
+
+(f) The transmission system operator shall not be entitled to refuse a new connection point, on the ground that it would lead to additional costs resulting from the necessary capacity increase of system elements in the close-up range to the connection point.
 
 (6)(a) Any dispute between the transmission system operator or the distribution system operator and any person who is, or claims to be, a person to whom the transmission system operator or the distribution system operator, as the case may be, is obliged –
 
