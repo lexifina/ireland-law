@@ -1,6 +1,6 @@
 Termination of appointment of a personal insolvency practitioner due to death, incapacity or withdrawal of authorisation.
 
-49C.— (1) Where a personal insolvency practitioner appointed under section 49(3) (‘the original personal insolvency practitioner’)—
+49C.— (1) Where a personal insolvency practitioner appointed under section 49(3) ("the original personal insolvency practitioner")—
 
 (a) dies,
 

@@ -56,7 +56,7 @@ Variation of Personal Insolvency Arrangement confirmed by order under section 11
 
 (8) Where a creditor fails to comply with subsection (7), the creditor shall be deemed to have approved the proposal concerned.
 
-(9) Where a creditor notifies the personal insolvency practitioner in accordance with subsection (7) that the creditor does not approve of the proposal, the personal insolvency practitioner may, if the debtor so instructs him or her in writing, make an application on behalf of the debtor to the appropriate court for an order confirming the coming into effect of the Personal Insolvency Arrangement as varied in accordance with the proposal (in this section referred to as ‘an order under this section’).
+(9) Where a creditor notifies the personal insolvency practitioner in accordance with subsection (7) that the creditor does not approve of the proposal, the personal insolvency practitioner may, if the debtor so instructs him or her in writing, make an application on behalf of the debtor to the appropriate court for an order confirming the coming into effect of the Personal Insolvency Arrangement as varied in accordance with the proposal (in this section referred to as "an order under this section").
 
 (10) Where subsection (9) applies and the personal insolvency practitioner does not make an application in accordance with this section, the Personal Insolvency Arrangement concerned shall, without prejudice to the other provisions of this Act, continue in effect without being subject to such variation.
 

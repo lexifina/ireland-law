@@ -1,3 +1,3 @@
-Repeals.
+Repeals. (Repealed)
 
 6.— ...

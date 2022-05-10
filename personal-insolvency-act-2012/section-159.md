@@ -8,13 +8,13 @@ Interpretation (Part 5).
 
 “accounting records”, in relation to a personal insolvency practitioner, mean the books of account and all other documents required to be kept by the personal insolvency practitioner in accordance with regulations made under section 173;
 
-‘authorised officer’ means a person appointed under section 176B to be an authorised officer;
+"authorised officer" means a person appointed under section 176B to be an authorised officer;
 
 “complainant”, in relation to a complaint, means the person who made the complaint;
 
 “complaint” means a complaint under section 178;
 
-‘improper conduct’, in relation to a personal insolvency practitioner, means—
+"improper conduct", in relation to a personal insolvency practitioner, means—
 
 (a) the commission by the personal insolvency practitioner of an act which renders the personal insolvency practitioner no longer a fit and proper person to carry on practice as a personal insolvency practitioner,
 

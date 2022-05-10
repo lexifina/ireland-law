@@ -24,7 +24,7 @@ Initiation of Debt Relief Notice process.
 
 (d) the fee (if any) that is prescribed for making an application under section 29.
 
-(2A) For the purposes of subsection (2), ‘meeting’ means a consultation between the approved intermediary and the debtor held in accordance with any regulations made under this section and at which—
+(2A) For the purposes of subsection (2), "meeting" means a consultation between the approved intermediary and the debtor held in accordance with any regulations made under this section and at which—
 
 (a) both are present in person at the same time and in the same place, or
 

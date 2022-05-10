@@ -4,7 +4,7 @@ Performance by others of certain functions of personal insolvency practitioner
 
 (a) employed by a personal insolvency practitioner or by a partnership in which a personal insolvency practitioner is a partner, or
 
-(b) having a common employer with a personal insolvency practitioner, from performing, when requested to do so by the personal insolvency practitioner (in this subsection referred to as the ‘requesting personal insolvency practitioner’) and under the requesting personal insolvency practitioner’s direction and control, any function (or any act in relation to such function) that is authorised or required by or under this Act to be performed by the requesting personal insolvency practitioner.
+(b) having a common employer with a personal insolvency practitioner, from performing, when requested to do so by the personal insolvency practitioner (in this subsection referred to as the "requesting personal insolvency practitioner") and under the requesting personal insolvency practitioner’s direction and control, any function (or any act in relation to such function) that is authorised or required by or under this Act to be performed by the requesting personal insolvency practitioner.
 
 (2) Nothing in this Act shall be taken to prevent a personal insolvency practitioner—
 
@@ -12,7 +12,7 @@ Performance by others of certain functions of personal insolvency practitioner
 
 (b) employed by another personal insolvency practitioner or by a partnership in which another personal insolvency practitioner is a partner, or
 
-(c) having a common employer with another personal insolvency practitioner, from performing, subject to any regulations under section 161, when requested to do so by that other personal insolvency practitioner (in this subsection referred to as the ‘requesting personal insolvency practitioner’) and acting under the requesting personal insolvency practitioner’s direction, any function (or any act in relation to such function) that is authorised or required by or under this Act to be performed by the requesting personal insolvency practitioner.
+(c) having a common employer with another personal insolvency practitioner, from performing, subject to any regulations under section 161, when requested to do so by that other personal insolvency practitioner (in this subsection referred to as the "requesting personal insolvency practitioner") and acting under the requesting personal insolvency practitioner’s direction, any function (or any act in relation to such function) that is authorised or required by or under this Act to be performed by the requesting personal insolvency practitioner.
 
 (3) The requesting personal insolvency practitioner under the subsection concerned shall, for all purposes under this Act, remain responsible in all respects for the performance, pursuant to the subsection concerned, of any function or act by a person referred to in subsection (1) or a personal insolvency practitioner referred to in subsection (2).
 

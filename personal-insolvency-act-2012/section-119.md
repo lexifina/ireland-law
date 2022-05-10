@@ -2,7 +2,7 @@ Variation of a Personal Insolvency Arrangement.
 
 119. (1) Subject to this section and section 119A, a Personal Insolvency Arrangement may be varied in accordance with its terms.
 
-(2) A personal insolvency practitioner, whether on his or her own initiative or on a request made in accordance with subsection (3), shall propose a variation of a Personal Insolvency Arrangement (in this section referred to as a ‘variation’) where—
+(2) A personal insolvency practitioner, whether on his or her own initiative or on a request made in accordance with subsection (3), shall propose a variation of a Personal Insolvency Arrangement (in this section referred to as a "variation") where—
 
 (a) it appears to the personal insolvency practitioner that there has been a material change in the debtor’s circumstances, and
 
@@ -138,4 +138,4 @@ Variation of a Personal Insolvency Arrangement.
 
 (15) A reference in this Chapter to a Personal Insolvency Arrangement shall be construed as including such an arrangement as proposed to be varied or as varied in accordance with this section or section 119A, unless the context otherwise requires.
 
-(16) In this section, ‘material change in the debtor’s circumstances’ means a change in the debtor’s circumstances that would materially affect his or her ability to make payments, or otherwise perform his or her obligations, under the Personal Insolvency Arrangement, and includes an increase or decrease in the extent of the debtor’s assets, liabilities or income.
+(16) In this section, "material change in the debtor’s circumstances" means a change in the debtor’s circumstances that would materially affect his or her ability to make payments, or otherwise perform his or her obligations, under the Personal Insolvency Arrangement, and includes an increase or decrease in the extent of the debtor’s assets, liabilities or income.

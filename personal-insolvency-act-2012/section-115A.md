@@ -144,7 +144,7 @@ Court review of proposed Personal Insolvency Arrangement.
 
 (18) In this section—
 
-‘relevant debt’ means a debt—
+"relevant debt" means a debt—
 
 (a) the payment for which is secured by security in or over the debtor’s principal private residence, and
 

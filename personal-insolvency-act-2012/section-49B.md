@@ -4,7 +4,7 @@ Termination by a personal insolvency practitioner of his or her appointment by a
 
 (2) A personal insolvency practitioner who terminates an appointment under subsection (1) shall notify the Insolvency Service of that termination as soon as is practicable thereafter.
 
-(3) A debtor who receives notice from a personal insolvency practitioner of the termination of his or her appointment under subsection (1) shall, no later than 2 months from the date of termination, appoint a replacement personal insolvency practitioner (in this section referred to as a ‘replacement personal insolvency practitioner’) and, as soon as practicable thereafter, notify the Insolvency Service of that appointment.
+(3) A debtor who receives notice from a personal insolvency practitioner of the termination of his or her appointment under subsection (1) shall, no later than 2 months from the date of termination, appoint a replacement personal insolvency practitioner (in this section referred to as a "replacement personal insolvency practitioner") and, as soon as practicable thereafter, notify the Insolvency Service of that appointment.
 
 (4) Where a replacement personal insolvency practitioner has been appointed under subsection (3), he or she, as soon as practicable thereafter, shall inform the Insolvency Service and the creditors concerned of that fact.
 
