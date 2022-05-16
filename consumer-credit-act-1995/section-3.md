@@ -18,7 +18,7 @@ Application.
 
 (d) an agreement for the provision on a continuing basis of a service or a utility where the consumer has the right to pay for it, by means of instalments or deferred payments,
 
-(e) credit granted or made available without payment of interest or any other charge other than by a seller of goods who has invited by advertisement consumers to avail of such credit,
+(e) credit granted or made available without payment of interest or any other charge, other than where such credit is granted or made available by a person who has invited, by way of advertisement, consumers to avail of such credit,
 
 (ea) payments of ancillary State support advanced by the Health Service Executive under the Nursing Homes Support Scheme Act 2009,
 
@@ -26,6 +26,6 @@ Application.
 
 (g) a credit agreement between an employer and an employee made on terms which are more favourable to the employee than terms offered generally to the public in the normal course of business.
 
-(3) (a) The provisions of this Act may be applied to housing loans advanced by a local authority only by regulations made by the Minister for Finance after consultation with the Minister for the Environment and Local Government. Different provisions may be applied at different times to different classes of loans, by reference to such matters as that Minister considers appropriate..
+(3) (a) The provisions of this Act may be applied to housing loans advanced by a local authority only by regulations made by the Minister for Finance after consultation with the Minister for the Environment and Local Government. Different provisions may be applied at different times to different classes of loans, by reference to such matters as that Minister considers appropriate.
 
 (b) A loan, not secured by mortgage, made by a local authority for the purposes of carrying out improvement works (within the meaning of section 1 of the Housing (Miscellaneous Provisions) Act, 1979) to a house shall be regarded as a housing loan (within the meaning of this Act) for the purposes of this Act.
