@@ -2,6 +2,8 @@ EIGHTH SCHEDULE
 
 AMENDMENT OF PAWNBROKERS ACT, 1964
 
+Insert name and address of borrower. Insert name of moneylender.
+
 PART I
 
 Provision of Extent of Amendment Pawnbrokers Act, 1964 amended
@@ -38,13 +40,13 @@ Section 20 (3) The substitution of “Part III” for “Part IV”.
 
 Section 20 (4) The substitution of the following subsection:
 
-“(4) Where a pawnbroker fails or refuses to give a receipt in accordance with subsection (3) of this section, he shall be guilty of an offence.”. Provision of Extent of Amendment Pawnbrokers Act, 1964 amended
-
-(1) (2)
+“(4) Where a pawnbroker fails or refuses to give a receipt in accordance with subsection (3) of this section, he shall be guilty of an offence.”.
 
 Section 21 (4) The substitution of the following subsection:
 
-“(4) A pledge shall further continue redeemable until it is disposed of as provided in this Act although the redemption period has expired.”.
+“(4) A pledge shall further continue redeemable until it is disposed of as provided in this Act although the redemption period has expired.”. Provision of Extent of Amendment Pawnbrokers Act, 1964 amended
+
+(1) (2)
 
 Section 27 The substitution of the following section:
 
@@ -96,7 +98,7 @@ Notes:
 
 (3) Where the loan is less than £1.00, it will be charged for as £1.00. Where it exceeds £1.00 or any even multiple of £1.00 any odd fraction of £1.00 will not be charged for.
 
-2. for valuation fee on each £5 or part of £5 value put by pawn-pence. broker on the pledge
+2. for valuation fee on each £5 or part of £5 value put by pence. pawnbroker on the pledge
 
 Charge on Inspection of Sale Book and Auctioneer's Catalogue
 
