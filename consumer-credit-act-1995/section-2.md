@@ -4,21 +4,23 @@ Interpretation.
 
 “the Act of 1980” means the Sale of Goods and Supply of Services Act, 1980;
 
+“Act of 1997” means the Central Bank Act 1997;
+
 “advertisement” includes every form of advertising, whether in a publication, by television or radio, by display of notices, signs, labels, showcards or goods, by distribution of samples, circulars, catalogues, price lists or other material, by exhibition of pictures, models or films, or in any other way, and references to the publishing of advertisements shall be construed accordingly;
 
 “agreement” means an agreement to which this Act applies;
 
-“APR” means the annual percentage rate of charge, being the total cost of credit to the consumer, expressed as an annual percentage of the amount of credit granted and calculated in accordance with section 9;
+"APR" means the annual percentage rate of charge (being, in the case of a credit agreement, the total cost of credit to the consumer, expressed as an annual percentage of the amount of credit granted), calculated in accordance with section 9;
 
 ...
 
 ...
 
-‘Bank’ means the Central Bank ...;
+"Bank" means the Central Bank ...;
 
 “borrower” means a consumer acting as a borrower;
 
-‘business’ includes trade and profession;
+"business" includes trade and profession;
 
 “business name” means the name or style under which any business is carried on;
 
@@ -38,7 +40,7 @@ Interpretation.
 
 (b) a body established under the laws of a state other than the State and corresponding to a body referred to in paragraph (a);
 
-‘consumer’ means—
+"consumer" means—
 
 (a) a natural person acting outside the person's business, or
 
@@ -66,19 +68,17 @@ Interpretation.
 
 (c) a building society incorporated or deemed to be incorporated under section 10 of the Building Societies Act, 1989,
 
+(1) O.J. No. L42,12.2.87, p. 48 (2) O.J. No. C30, 30.1.1997, p. 94. (3) O.J. No. L101, 1.4.98, p 17,
+
 (d) a society licensed to carry on the business of a trustee savings bank under section 10 of the Trustee Savings Banks Act, 1989,
 
-(e) such person or class of persons as may be prescribed by the Bank for the purposes of this Act;
-
-(e) ...
+(e) a retail credit firm authorised under the Act of 1997;
 
 (f) ...
 
 (g) ...
 
-“credit intermediary” means a person, other than a credit institution or a mortgage lender, who in the course of his business arranges or offers to arrange for a consumer the provision of credit or the letting of goods in return for a commission, payment
-
-(1) O.J. No. L42,12.2.87, p. 48 (2) O.J. No. C30, 30.1.1997, p. 94. (3) O.J. No. L101, 1.4.98, p 17, or consideration of any kind from the provider of the credit or the owner, as the case may be;
+“credit intermediary” means a person, other than a credit institution or a mortgage lender, who in the course of his business arranges or offers to arrange for a consumer the provision of credit or the letting of goods in return for a commission, payment or consideration of any kind from the provider of the credit or the owner, as the case may be;
 
 “credit intermediaries authorisation” means an authorisation granted under section 144;
 
@@ -98,7 +98,7 @@ Interpretation.
 
 “house” includes any building or part of a building used or suitable for use as a dwelling and any outoffice, yard, garden or other land appurtenant thereto or usually enjoyed therewith;
 
-‘housing loan’ means—
+"housing loan" means—
 
 (a) an agreement for the provision of credit to a person on the security of a mortgage of a freehold or leasehold estate or interest in land—
 
@@ -122,7 +122,7 @@ Interpretation.
 
 (c) where it is reasonably necessary that any such goods should be constructed or erected on the premises where they are to be used, any work carried out for the purpose of such construction or erection;
 
-‘local authority’ means a local authority for the purposes of the Local Government Act 2001;
+"local authority" means a local authority for the purposes of the Local Government Act 2001;
 
 ...
 
@@ -156,9 +156,9 @@ Interpretation.
 
 “mortgage” includes charge;
 
-‘mortgage lender’ means a person who carries on a business that consists of or includes making housing loans;
+"mortgage lender" means a person who carries on a business that consists of or includes making housing loans;
 
-‘mortgage intermediary’ means a person (other than a mortgage lender or credit institution) who, in return for commission or some other form of consideration—
+"mortgage intermediary" means a person (other than a mortgage lender or credit institution) who, in return for commission or some other form of consideration—
 
 (a) arranges, or offers to arrange, for a mortgage lender to provide a consumer with a housing loan, or
 
@@ -170,7 +170,7 @@ Interpretation.
 
 “partnership” has the meaning assigned to it by the Partnership Act, 1890;
 
-‘pawnbroker’ means the holder of a licence granted under section 8 of the Pawnbrokers Act 1964;
+"pawnbroker" means the holder of a licence granted under section 8 of the Pawnbrokers Act 1964;
 
 “premises” includes any building, dwelling, temporary construction, vehicle, ship or aircraft;
 
@@ -179,6 +179,10 @@ Interpretation.
 “record” means any book, document or any other written or printed material in any form including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form;
 
 ...
+
+"relevant date" means the date on which section 14 of the Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022 comes into operation;
+
+"retail credit firm" has the same meaning as it has in Part V of the Act of 1997;
 
 ...
 
@@ -202,4 +206,4 @@ Interpretation.
 
 (8) In this Act a reference to any enactment shall be construed as a reference to that enactment as amended or adapted by or under any subsequent enactment.
 
-(9) The Minister for Finance may, by order notified in Iris Oifigiúil, declare any specified person, or any person of a specified class of persons, to be a consumer for the purposes of the definition of ‘consumer’ in subsection (1).
+(9) The Minister for Finance may, by order notified in Iris Oifigiúil, declare any specified person, or any person of a specified class of persons, to be a consumer for the purposes of the definition of "consumer" in subsection (1).
