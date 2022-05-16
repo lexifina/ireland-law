@@ -1,4 +1,4 @@
-F76[Licences to hunt with firearms.
+F77[Licences to hunt with firearms.
 
 29.—(1) Subject to section 75(1) of this Act, the Minister may, on application to the Minister in that behalf, if he or she thinks fit, and on payment of the prescribed fee (if any), grant to a person, who when making the application makes a declaration in a form approved of for the purposes of this section by the Minister, a licence (operating in the manner specified in subsection (4) of this section) to hunt and kill with firearms, subject to the restrictions contained in section 33 of this Act, and such conditions (if any) as the Minister may attach to the licence, exempted wild mammals (other than hares).
 
@@ -8,7 +8,7 @@ F76[Licences to hunt with firearms.
 
 (b) The Minister may, for the purpose of establishing that there is no good reason to refuse to grant or renew a licence under this section to a person ordinarily resident outside the State, treat any of the following as prima facie evidence of suitability to so grant or renew:
 
-(i) in the case of a person resident in a Member State of the European Community other than the State, any European Firearms Pass duly issued to such person to which paragraphs (4) and (5) of Regulation 7 of the European Communities (Acquisition and Possession of Weapons and Ammunition) Regulations, 1993 (S.I. No. 362 of 1993), relate, or
+(i) in the case of a person resident in a Member State of the European Community other than the State, any European Firearms Pass duly issued to such person to which paragraphs (4) and (5) of Regulation 19 of the European Union (Acquisition and Possession of Weapons and Ammunition) Regulations 2022 relate, or
 
 (ii) in any other case, any other permit, licence, authorisation or other document duly issued by an appropriate authority or body outside the State which the Minister considers acceptable.
 
