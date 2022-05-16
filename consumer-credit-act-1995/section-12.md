@@ -8,6 +8,8 @@ Offences.
 
 (c) in Part II, contravenes section 26 or 27, or regulations under section 28, or
 
+(ca) in Part IIA, contravenes section 28A(2) or 28B(2), or
+
 (d) in Part III, contravenes section 39, or
 
 (e) in Part IV, contravenes section 43(2), or
