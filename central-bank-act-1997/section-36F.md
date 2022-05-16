@@ -12,4 +12,6 @@ Holders of authorisations to keep certain records.
 
 (4) The holder of an authorisation may keep documents wholly or partly in a non-legible form so long as they are capable of being reproduced in a legible form.
 
+OJ No. L. 119, 4.5.2016, p.1.
+
 CHAPTER 4
