@@ -8,7 +8,9 @@ Meaning of letters and symbols:
 
 K is the number of a loan
 
-K’ is the number of a repayment or a payment of charges Ak is the amount of loan number K
+K’ is the number of a repayment or a payment of charges
+
+Ak is the amount of loan number K
 
 A’k’ is the amount of repayment number K’
 

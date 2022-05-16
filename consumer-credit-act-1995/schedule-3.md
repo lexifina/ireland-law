@@ -14,9 +14,9 @@ PART II
 
 Form of Notice to be included on front page of a housing loan.
 
-IMPORTANT INFORMATION 1. Amount of credit advanced _____________________ :
+IMPORTANT INFORMATION 1. Amount of credit advanced _____________________ : 2. Period of Agreement _____________________ : 3. Number of Repayment Instalments _____________________ :
 
-2. Period of Agreement _____________________ : 3. Number of Repayment Instalments _____________________ : 4. Amount of Each Instalment* _____________________ :
+4. Amount of Each Instalment* _____________________ :
 
 5. Total Amount Repayable* £____________________ :
 

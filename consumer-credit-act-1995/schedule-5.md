@@ -12,7 +12,7 @@ Right of hirer to terminate agreement
 
 (ii) if, when the hirer has paid those instalments, the total amount which he has paid under the agreement is less than (here insert the minimum amount the hirer is required to pay under section 63 (2) (a)) the hirer must also pay enough to make up that sum, or
 
-(b)purchase the goods by paying the difference between the amount already paid under this agreement and either the hire-purchase price reduced in arrordance with section 52 or 53 of the Consumer Credit Act, 1995, or such lesser amount if specified in this agreement.
+(b) purchase the goods by paying the difference between the amount already paid under this agreement and either the hire-purchase price reduced in arrordance with section 52 or 53 of the Consumer Credit Act, 1995, or such lesser amount if specified in this agreement.
 
 3. Where a hirer has not purchased the goods and the goods have been damaged owing to the hirer having failed to take reasonable care of them, the owner may sue the hirer for the amount of the damage unless that amount can be agreed between the hirer and the owner.
 

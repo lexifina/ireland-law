@@ -6,7 +6,7 @@ Advertising of financial accommodation related to goods or services.
 
 (b) the cash price of the goods or service,
 
-(c)the APR and the total cost of credit or the hire-purchase price,
+(c) the APR and the total cost of credit or the hire-purchase price,
 
 (d) the number and amount of instalments,
 

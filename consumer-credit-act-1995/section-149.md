@@ -102,7 +102,7 @@ Customer charges, etc., by credit institutions that are subject to regulation by
 
 (13) In this section—
 
-‘service’ means any service provided by a credit institution to a customer in respect of the following—
+"service" means any service provided by a credit institution to a customer in respect of the following—
 
 (a) making and receiving payments;
 
@@ -114,7 +114,7 @@ Customer charges, etc., by credit institutions that are subject to regulation by
 
 (e) any other service that may be pre-scribed by regulations for the purposes of this section;
 
-‘charge’ includes a penalty or surcharge interest by whichever name called, being an interest charge imposed in respect of arrears on a credit agreement or a loan, but does not include any rate of interest or any charge, cost or expense levied by a party other than a credit institution in connection with the provision of a service to the credit institution or the customer and that is to be discharged by the customer.
+"charge" includes a penalty or surcharge interest by whichever name called, being an interest charge imposed in respect of arrears on a credit agreement or a loan, but does not include any rate of interest or any charge, cost or expense levied by a party other than a credit institution in connection with the provision of a service to the credit institution or the customer and that is to be discharged by the customer.
 
 (14) For the purposes of this section, a notification made to the Director of Consumer Affairs before the substitution of this section by item 42 of Part 21 of Schedule 1 to the Central Bank and Financial Services Authority of Ireland Act 2003, is taken to have been made to the Bank.
 
@@ -124,4 +124,4 @@ Customer charges, etc., by credit institutions that are subject to regulation by
 
 (17) A notification under subsection (16) shall be treated as a notification under subsection (1) for the purposes of this section; and references in this section to a proposal include a decision to impose charges notified under subsection (16).
 
-(18) In subsection (16) ‘relevant new credit institution’ means a credit institution which commences business as a credit institution in the State after the coming into operation of section 78(d) of the Central Bank (Supervision and Enforcement) Act 2013 and is not when it does so a related undertaking (within the meaning of that Act) of another credit institution carrying on business as a credit institution in the State.
+(18) In subsection (16) "relevant new credit institution" means a credit institution which commences business as a credit institution in the State after the coming into operation of section 78(d) of the Central Bank (Supervision and Enforcement) Act 2013 and is not when it does so a related undertaking (within the meaning of that Act) of another credit institution carrying on business as a credit institution in the State.

@@ -4,11 +4,11 @@ Interpretation: Part IB.
 
 8G.—(1) In this Part—
 
-‘authorised officer’ means an authorised officer appointed under section 8M;
+"authorised officer" means an authorised officer appointed under section 8M;
 
-‘designated provisions’ means the provisions of this Act referred to in subsection (2);
+"designated provisions" means the provisions of this Act referred to in subsection (2);
 
-‘Minister’ means the Minister for Finance;
+"Minister" means the Minister for Finance;
 
 ...
 

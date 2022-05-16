@@ -10,9 +10,9 @@ Licensing of pawnbrokers.
 
 (2) A person who contravenes this section shall be guilty of an offence.
 
-Pawn-
+Pawnbroker's
 
-8.—(1) The Director may grant to a person a licence (‘a pawnbroker's broker's licence’) upon such terms and conditions as he sees fit to a person to carry licence. on the business of pawnbroker at a particular premises.
+8.—(1) The Director may grant to a person a licence (‘a pawnbroker's licence. licence’) upon such terms and conditions as he sees fit to a person to carry on the business of pawnbroker at a particular premises.
 
 (2) An application for a licence shall be in writing and in such form as the Director may determine and shall be accompanied by a fee of £1,000 or such other amount as may stand specified in regulations made by the Minister.
 
@@ -62,9 +62,9 @@ Pawn-
 
 (13) In an appeal under subsection (7) the Director shall not be awarded or ordered to pay costs.
 
-Trans-
+Transfer
 
-9.—(1) The holder of a licence may apply to the Director to transfer the fer of licence to another person and the Director may at his absolute discretion licence. transfer the licence according to such terms and conditions as he sees fit subject to the person satisfying the requirements of section 8 (3).
+9.—(1) The holder of a licence may apply to the Director to transfer the of licence to another person and the Director may at his absolute discretion licence. transfer the licence according to such terms and conditions as he sees fit subject to the person satisfying the requirements of section 8 (3).
 
 (2) An application for the transfer of a licence under subsection (1) shall be accompanied by a fee of £500 or such other amount as may stand specified in regulations made by the Minister.
 

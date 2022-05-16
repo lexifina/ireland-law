@@ -6,9 +6,9 @@ Application of, definitions, Part IX.
 
 (2) In this Part—
 
-‘authorised person’ means the Bank, a person authorised by the Bank for the purposes of this section, a delegate of the Bank or a member, officer or employee of such a delegate;
+"authorised person" means the Bank, a person authorised by the Bank for the purposes of this section, a delegate of the Bank or a member, officer or employee of such a delegate;
 
-‘certified’ means certified by an authorised person;
+"certified" means certified by an authorised person;
 
 “endowment loan” means a housing loan which is to be repaid out of the proceeds of an insurance policy on its maturity, other than a policy providing mortgage protection insurance only;
 

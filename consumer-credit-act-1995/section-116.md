@@ -154,6 +154,6 @@ Provided that the amount of the fee that would be payable on the application for
 
 (18) A decision of the Circuit Court on an appeal under subsection (13) shall be final save that, by leave of that Court, an appeal from the decision shall lie to the High Court on a specified question of law.
 
-(19) In this section, ‘authorisation’ means a mortgage intermediaries authorisation.
+(19) In this section, "authorisation" means a mortgage intermediaries authorisation.
 
 (20) ...

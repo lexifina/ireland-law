@@ -58,9 +58,7 @@ Whereas the consumer should be allowed to discharge his obligations before the d
 
 Whereas the assignment of the creditor's rights arising under a credit agreement should not be allowed to weaken the position of the consumer;
 
-Whereas those Member States which permit consumers to use bills of exchange, promissory notes or cheques in connection with credit agreements should ensure that the consumer is suitably protected when so using such instruments;
-
-Whereas, as regards goods or services which the consumer has contracted to acquire on credit, the consumer should, at least in the circumstances defined below, have rights vis-à-vis the grantor of credit which are in addition to his normal contractual rights against him and against the supplier of the goods or services; whereas the circumstances referred to above are those where grantor of credit and the supplier of goods or services have a pre-existing agreement whereunder credit is made available exclusively by that grantor of credit to customers of that supplier for the purpose of enabling the consumer to acquire goods or services from the latter;
+Whereas those Member States which permit consumers to use bills of exchange, promissory notes or cheques in connection with credit agreements should ensure that the consumer is suitably protected when so using such instruments; Whereas, as regards goods or services which the consumer has contracted to acquire on credit, the consumer should, at least in the circumstances defined below, have rights vis-à-vis the grantor of credit which are in addition to his normal contractual rights against him and against the supplier of the goods or services; whereas the circumstances referred to above are those where grantor of credit and the supplier of goods or services have a pre-existing agreement whereunder credit is made available exclusively by that grantor of credit to customers of that supplier for the purpose of enabling the consumer to acquire goods or services from the latter;
 
 Whereas the ECU is as defined in Council Regulation (EEC) No 3180/78(1), as last amended by Regulation (EEC) No 2626/84(2); whereas Member States should to a limited extent be at liberty to round off the amounts in national currency resulting from the conversion of amounts of this Directive expressed in ECU; whereas the amounts in this Directive should be periodically re-examined in the light of economic and monetary trends in the Community, and, if need be, revised;
 
@@ -450,13 +448,13 @@ ANNEX
 
 THE BASIC EQUATION EXPRESSING THE EQUIVALENCE OF LOANS ON THE ONE HAND, AND REPAYMENTS AND CHARGES ON THE OTHER:
 
-Meaning of letters and symbols: K is the number of a loan
+Meaning of letters and symbols:
+
+K is the number of a loan
 
 K′ is the number of a repayment or a payment of charges
 
-AK is the amount of loan number K
-
-A′K′ is the amount of repayment number K′ represents a sum m is the number of the last loan m′ is the number of the last repayment or payment of charges tK is the interval, expressed in years and fractions of a year, between the date of loan No. 1 and those of subsequent loans Nos. 2 to m tK′ is the interval expressed in years and fractions of a year between the date of loan No. 1 and those of repayments or payments of charges Nos. 1 to m′ i is the percentage rate that can be calculated (either by algebra, by successive approximations, or by a computer programme) where the other terms in the equation are known from the contract or otherwise.
+AK is the amount of loan number K A′K′ is the amount of repayment number K′ represents a sum m is the number of the last loan m′ is the number of the last repayment or payment of charges tK is the interval, expressed in years and fractions of a year, between the date of loan No. 1 and those of subsequent loans Nos. 2 to m tK′ is the interval expressed in years and fractions of a year between the date of loan No. 1 and those of repayments or payments of charges Nos. 1 to m′ i is the percentage rate that can be calculated (either by algebra, by successive approximations, or by a computer programme) where the other terms in the equation are known from the contract or otherwise.
 
 Remarks
 
@@ -478,13 +476,13 @@ It is repaid in a single payment of ECU 1 200 made 18 months, i.e. 1,5 years, af
 
 1200 The equation becomes _______ 1000 = (1 + i)1,5 or (1 + i)1,5 = 1,2
 
-1 + i = 1,129243 i = 0,129243 This amount will be rounded down to 12,9% or 12,92% depending on whether the State or habitual practice allows the percentage to be rounded off to the first or second decimal.
+1 + i = 1,129243 i = 0,129243
+
+This amount will be rounded down to 12,9% or 12,92% depending on whether the State or habitual practice allows the percentage to be rounded off to the first or second decimal.
 
 Second example
 
-The sum agreed is S = ECU 1 000 but the creditor retains ECU 50 for enquiry and administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1 200, as in the first example, is made 18 months after the date of the loan.
-
-1200 _______ The equation becomes 950 = (1 + i)1,5
+The sum agreed is S = ECU 1 000 but the creditor retains ECU 50 for enquiry and administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1 200, as in the first example, is made 18 months after the date of the loan. 1200 _______ The equation becomes 950 = (1 + i)1,5
 
 1200 or (1 + i)1,5 = ______ = 1,263157 950
 
@@ -520,23 +518,13 @@ The result is: i = 0,1321 rounded off 13,2 or 13,21%.’
 
 PART III
 
-DIRECTIVE 98/7/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 February 1998 amending Directive 87/102/EEC for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit
-
-THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+DIRECTIVE 98/7/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 February 1998 amending Directive 87/102/EEC for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
 Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof,
 
-Having regard to the proposal of the Commission(1).
+Having regard to the proposal of the Commission(1). Having regard to the opinion of the Economic and Social Committee(2), Acting in accordance with the procedure laid down in Article 189b of the Treaty(3) Whereas it is desirable, in order to promote the establishment and functioning of the internal market and to ensure that consumers benefit from a high level of protection, that a single method of calculating the annual percentage rate of charge for consumer credit should be used throughout the Community;
 
-Having regard to the opinion of the Economic and Social Committee(2),
-
-Acting in accordance with the procedure laid down in Article 189b of the Treaty(3)
-
-Whereas it is desirable, in order to promote the establishment and functioning of the internal market and to ensure that consumers benefit from a high level of protection, that a single method of calculating the annual percentage rate of charge for consumer credit should be used throughout the Community;
-
-Whereas Article 5 of Directive 87/102/EEC(4) provides for the introduction of a Community method or methods of calculating the annual percentage rate of charge;
-
-Whereas, in order to introduce this single method, it is desirable to draw up a single methematical formula for calculating the annual percentage rate of charge and for determining the credit cost items to be used in the calculation by indicating those costs which must not be taken into account;
+Whereas Article 5 of Directive 87/102/EEC(4) provides for the introduction of a Community method or methods of calculating the annual percentage rate of charge; Whereas, in order to introduce this single method, it is desirable to draw up a single methematical formula for calculating the annual percentage rate of charge and for determining the credit cost items to be used in the calculation by indicating those costs which must not be taken into account;
 
 Whereas Annex II of Directive 87/102/EEC introduced a mathematical formula for the calculation of the annual percentage rate of charge and Article 1a(2) of that Directive provided for the charges to be excluded from the calculation of the ‘total cost of credit to the consumer’.
 
@@ -548,17 +536,17 @@ Whereas, since no Member State has made use of Article 1a(3) of Directive 87/102
 
 Whereas accuracy to at least one decimal place is necessary;
 
+Whereas a year is presumed to have 365 or 365,25 days or (for leap years) 366 days, 52 weeks or 12 equal months; whereas an equal month is persumed to have 30,41666 days;
+
+Whereas it is desirable that consumers should be able to recognize the terms used different Member States to indicate the "annual percentage rate of charge";
+
+Whereas it is appropriate to study without delay to what extent a further degree of harmonization of the cost elements of consumer credit is necessary in order to put the European consumer in a position to make a better comparison between the actual percentage rates of charges offered by institutions in the various Member State, thereby ensuring harmonious functioning of the internal market,
+
 (1) O.J. No. C235, 13.8.1996, p.8 and O.J. No. C137, 3.5.1997, p. 9. (2) O.J. No. C30, 30.1.1997, p. 94. (3) Opinion of the European Parliament of 20 February 1997 (O.J. No. C85,
 
 17.3.1997, p. 108), Council Common Position of 7 July 1997 (O.J. No. C284, 19.9.1997, p. 1) and Decision of the European Parliament of 19 November 1997, Council Decision of 18 December 1997. (4) O.J. No. L42, 12.2.1987, p.48 directive as amended by Directive 90/88/EEC
 
 (O.J. No. L61, 10.3.1990, p. 14).
-
-Whereas a year is presumed to have 365 or 365,25 days or (for leap years) 366 days, 52 weeks or 12 equal months; whereas an equal month is persumed to have 30,41666 days;
-
-Whereas it is desirable that consumers should be able to recognize the terms used different Member States to indicate the ‘annual percentage rate of charge’;
-
-Whereas it is appropriate to study without delay to what extent a further degree of harmonization of the cost elements of consumer credit is necessary in order to put the European consumer in a position to make a better comparison between the actual percentage rates of charges offered by institutions in the various Member State, thereby ensuring harmonious functioning of the internal market,
 
 HAVE ADOPTED THIS DIRECTIVE:
 
@@ -580,9 +568,7 @@ Directive 87/102/EEC shall be amended as follows:
 
 (d) Article 3 shall be replaced by the following:
 
-‘Without prejudice to Council Directive 84/450/EEC of 10 September 1984 relating to the approximation of the laws, regulations and administrative provisions of the Member States concerning misleading advertising(*), and to the rules and principles applicable to unfair advertising, any advertisement, or any offer which is displayed at business premises, in which a person offers credit or offers to arrange a credit agreement and in which a rate of interest or any figures relating to the cost of the credit are indicated, shall also include a statement of the annual percentage rate of charge, by means of a
-
-(e) Annex II shall be replaced by the text of Annex I representative example if no other means is practicable. attached hereto;
+‘Without prejudice to Council Directive 84/450/EEC of 10 September 1984 relating to the approximation of the laws, regulations and administrative provisions of the Member States concerning misleading advertising(*), and to the rules and principles applicable to unfair advertising, any advertisement, or any offer which is displayed at business premises, in which a person offers credit or offers to arrange a credit agreement and in which a rate of interest or any figures relating to the cost of the credit are indicated, shall also include a statement of the annual percentage rate of charge, by means of a (e) Annex II shall be replaced by the text of Annex I representative example if no other means is practicable. attached hereto;
 
 (f) Annex III shall be replaced by the text of Annex II attached hereto.
 
@@ -590,11 +576,7 @@ Article 2
 
 1. Member States shall bring into force the laws, regulations and administrative provisions necessary for them to comply with this Directive no later than two years after the entry into force of this Directive. They shall inform the Commission thereof.
 
-When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompained by such reference on the occasion of their official
-
-(*) O.J. No. L250, 19.9.1984, p.17. Directive as last amended by Directive 97/55/EC
-
-(O.J. No. L280, 23.10.1997, p.18). publication. The methods of making such reference shall be laid down by Member States.
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompained by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
 
 2. The Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field governed by this Directive.
 
@@ -607,6 +589,10 @@ Done at Brussels, 16 February 1998.
 For the European Parliament
 
 For the Council
+
+(*) O.J. No. L250, 19.9.1984, p.17. Directive as last amended by Directive 97/55/EC
+
+(O.J. No. L280, 23.10.1997, p.18).
 
 The President
 
@@ -676,7 +662,9 @@ The equation becomes: 950 = 1200
 
 (1+ i)546/365 or:
 
-(1+ i)546/365 = 1,263157 1+ i = 1,169026 i = 0,169026
+(1+ i)546/365 = 1,263157
+
+1+ i = 1,169026 i = 0,169026
 
 This amount will be rounded to 16,9%.
 
@@ -720,9 +708,7 @@ The equation becomes:
 
 (1+ i)1,5 = 1,2
 
-1+ i = 1,129243 i = 0,129243
-
-This amount will be rounded to 12,9% (or 12,92% if an accuracy of two decimal places is preferred).
+1+ i = 1,129243 i = 0,129243 This amount will be rounded to 12,9% (or 12,92% if an accuracy of two decimal places is preferred).
 
 Second example
 

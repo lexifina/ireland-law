@@ -2,7 +2,7 @@ Customer charges, etc. payable by persons authorised to carry on business of a b
 
 149A.—(1) In this section—
 
-‘authorisation’ means an authorisation granted by the Bank under Part V of the Central Bank Act 1997, to carry on a regulated business.
+"authorisation" means an authorisation granted by the Bank under Part V of the Central Bank Act 1997, to carry on a regulated business.
 
 (2) The holder of an authorisation or, subject to the Competition Act 1991, a group of holders of authorisations in respect of a service offered jointly by the group, shall notify the Bank of every proposal—
 
@@ -100,10 +100,10 @@ Customer charges, etc. payable by persons authorised to carry on business of a b
 
 (17) In this section—
 
-‘bureau de change business’ has the same meaning as in section 28 of the Central Bank Act 1997 (as substituted by section 27 of the Central Bank and Financial Services Authority of Ireland Act 2004);
+"bureau de change business" has the same meaning as in section 28 of the Central Bank Act 1997 (as substituted by section 27 of the Central Bank and Financial Services Authority of Ireland Act 2004);
 
-‘service’ means any service provided by the holder of an authorisation to a customer in relation to a bureau de change business or money transmission business carried on by that holder;
+"service" means any service provided by the holder of an authorisation to a customer in relation to a bureau de change business or money transmission business carried on by that holder;
 
-‘money transmission business’ has the same meaning as in section 28 of the Central Bank Act 1997 (as substituted by section 27 of the Central Bank and Financial Services Authority of Ireland Act 2004).
+"money transmission business" has the same meaning as in section 28 of the Central Bank Act 1997 (as substituted by section 27 of the Central Bank and Financial Services Authority of Ireland Act 2004).
 
 (15) For the purposes of this section, a notification made to the Director of Consumer Affairs before the substitution of this section by item 43 of Part 21 of Schedule 1 to the Central Bank and Financial Services Authority of Ireland Act 2003, is taken to have been made to the Bank.

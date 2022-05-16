@@ -1,4 +1,4 @@
-Regulations relating to form and content of hire-purchase agreements.
+Regulations
 
 60.—(1) The Bank may make regulations amending section 58 or the Fifth Schedule with respect to the form or content of hire-purchase agreements.
 
