@@ -32,4 +32,4 @@ Burning of vegetation near woods or certain other land restricted.
 
 (d) in case the contravention is a contravention of the said subsection (3), any wood which is not the property of such person or any land mentioned in paragraph (b) of the said subsection (1), shall be deemed to have been caused by the negligent act of that person, and damages to the extent of that injury shall be recoverable accordingly in any court of competent jurisdiction from that person by the owner of such wood or land, as the case may be.
 
-(6) In this section ‘wood’ includes a forest within the meaning of section 2 of the Forestry Act 2014.
+(6) In this section "wood" includes a forest within the meaning of section 2 of the Forestry Act 2014.
