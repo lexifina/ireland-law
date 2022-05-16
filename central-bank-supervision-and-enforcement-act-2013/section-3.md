@@ -20,15 +20,17 @@ Interpretation.
 
 (e) conspiring with others to commit a contravention;
 
-‘customer’, in relation to a regulated financial service provider, means—
+"customer", in relation to a regulated financial service provider, means—
 
 (a) any person to whom the regulated financial service provider provides or offers financial services,
 
-(b) any person who requests the provision of financial services from the regulated financial service provider, or
+(b) any person who requests the provision of financial services from the regulated financial service provider,
 
-(c) a relevant borrower in a case where the regulated financial service provider undertakes credit servicing in respect of the credit agreement concerned, and includes a potential customer and a former customer;
+(c) a relevant borrower in a case where the regulated financial service provider undertakes credit servicing in respect of the credit agreement concerned, or
 
-‘financial holding company’ has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014 ( S.I. No. 158 of 2014);
+(d) a hirer in a case where the regulated financial service provider undertakes credit servicing in respect of the consumer-hire agreement or hire-purchase agreement concerned, and includes a potential customer and a former customer;
+
+"financial holding company" has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014 ( S.I. No. 158 of 2014);
 
 “financial services legislation” means—
 
@@ -40,7 +42,7 @@ Interpretation.
 
 “Minister” means the Minister for Finance;
 
-‘mixed financial holding company’ has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014;
+"mixed financial holding company" has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014;
 
 “prescribed contravention” has the same meaning as in section 33AN of the Act of 1942;
 
@@ -60,7 +62,7 @@ Interpretation.
 
 (f) if provision is required to be made for the first-mentioned person and another person in any consolidated accounts compiled in accordance with the Seventh Council Directive 83/349/EEC of 13 June 1983 , that other person.
 
-(1A) For the purposes of paragraph (c) of the definition of ‘customer’ in subsection (1) ‘relevant borrower’, ‘credit servicing’ and ‘credit agreement’ have the same meaning as in section 28 of the Central Bank Act 1997.
+(1A) For the purposes of paragraph (c) of the definition of "customer" in subsection (1) "relevant borrower", "credit servicing" and "credit agreement" have the same meaning as in section 28 of the Central Bank Act 1997.
 
 (2) References in this Act to a regulated financial service provider, or a related undertaking, shall, unless the context otherwise requires, be read as including a person who was a regulated financial service provider, or a related undertaking, at the relevant time.
 

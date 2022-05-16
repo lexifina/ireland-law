@@ -50,13 +50,15 @@ Interpretation
 
 (C) has sought the provision of a financial service,
 
-(b) a consumer who was, in relation to a credit agreement, a customer of the financial service provider in a case where a credit servicing firm undertakes credit servicing in respect of the credit agreement concerned,
+(b) a consumer who was, in relation to a credit agreement, a consumer-hire agreement or a hire-purchase agreement, a customer of the financial service provider in a case where a credit servicing firm undertakes credit servicing in respect of the agreement concerned,
 
 (c) an actual or potential beneficiary of a financial service, or
 
 (d) an employee or a former employee entitled to benefit from an income continuance plan;
 
 “consumer”, in relation to a pension product, means an actual or potential beneficiary of an occupational pensions scheme, a trust RAC or a PRSA who believes they have suffered financial loss because of maladministration of the scheme, trust or PRSA, as the case may be;
+
+"consumer-hire agreement" has the meaning given to it in section 28 of the Central Bank Act 1997;
 
 “Council” has the meaning given to it by section 37;
 
@@ -124,11 +126,13 @@ Interpretation
 
 “financial services industry levy” has the meaning given to it by section 43;
 
+"hire-purchase agreement" has the meaning given to it in section 28 of the Central Bank Act 1997;
+
 “income continuance plan” means an insurance contract taken out by an employer (whether or not in conjunction with employees) designed to pay an income to an employee on the occurrence of certain events specified in the contract that render the employee unable to continue to perform the duties under his or her contract of employment on a long-term basis;
 
 “investment manager” means any person appointed to manage the funds of a scheme or to implement the statement of investment policies and principles of the trustees;
 
-‘long-term financial service’ means—
+"long-term financial service" means—
 
 (a) subject to paragraph (b) and subsection (3), a financial service the duration of which is a fixed term of 5 years and one month, or more, but, notwithstanding that the aggregate term of them may be 5 years and one month (or more), there does not fall within this paragraph a series of consecutive terms in respect of a financial service’s duration (provided no individual one of them is 5 years and one month, or more, in length), or
 
@@ -198,7 +202,7 @@ Interpretation
 
 (2) A word or expression that is used in this Act and is also used in the Act of 1942 or the Act of 1990 shall have, unless the context otherwise requires, the same meaning in this Act as it has in either of those Acts.
 
-(3) Notwithstanding the fact that the financial service does not fix its duration to be of a term such as is referred to in paragraph (a) of the definition of ‘long-term financial service’ in subsection (1), a financial service shall be regarded as falling within that definition if it would be reasonable for a consumer to expect its duration to be of at least the length referred to in that paragraph and that reasonable expectation arises by reason of—
+(3) Notwithstanding the fact that the financial service does not fix its duration to be of a term such as is referred to in paragraph (a) of the definition of "long-term financial service" in subsection (1), a financial service shall be regarded as falling within that definition if it would be reasonable for a consumer to expect its duration to be of at least the length referred to in that paragraph and that reasonable expectation arises by reason of—
 
 (a) the manner in which the financial service operates to provide a financial benefit to the consumer,
 

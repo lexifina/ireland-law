@@ -1,22 +1,22 @@
 Power of Bank to exempt certain persons from being required to hold authorisation as a retail credit firm.
 
-29A.— (1) The Bank may exempt a person from being required to hold an authorisation as a retail credit firm in relation to the provision of credit if, in the opinion of the Bank—
+29A.— (1) The Bank may exempt a person for the purposes of paragraph (e) of the definition of "retail credit firm" in section 28(1) if, in the opinion of the Bank—
 
-(a) the total amount or value of the credit that is to be provided by the person is such that it is reasonable to assume that the borrower will be in a position to negotiate on equal terms or to obtain appropriate legal and financial advice, or
+(a) the total amount or value of the relevant activities that are to be carried out by the person is such that it is reasonable to assume that the borrower or hirer, as the case may be, will be in a position to negotiate on equal terms or to obtain appropriate legal and financial advice, or
 
 (b) the person is one who, under section 8 (2) of the Central Bank Act 1971, is exempted, or is a member of a class of persons that is exempted, from being required to hold a banking licence, or
 
-(c) the person is one who provides credit solely for charitable or public purposes and at a rate of interest or on other terms more favourable than those that are currently available commercially, and the exemption would not be inconsistent with the proper and orderly regulation of the provision of credit and the protection of customers of retail credit firms.
+(c) the person is one who carries out relevant activities solely for charitable or public purposes and at a rate of interest or on other terms more favourable than those that are currently available commercially, and the exemption would not be inconsistent with the proper and orderly regulation of relevant activities and the protection of customers of retail credit firms.
 
-(2) The Bank may also exempt the persons belonging to a specified class of persons from being required to hold an authorisation as a retail credit firm in relation to the provision of credit if, in the opinion of the Bank—
+(2) The Bank may also exempt the persons belonging to a specified class of persons for the purposes of paragraph (e) of the definition of "retail credit firm" in section 28(1) if, in the opinion of the Bank—
 
-(a) the total amount or value of the credit that is to be provided by those persons is such that it is reasonable to assume that borrowers from those persons will be in a position to negotiate on equal terms or to obtain appropriate legal and financial advice, or
+(a) the total amount or value of the relevant activities that are to be carried out by those persons is such that it is reasonable to assume that the borrowers or hirers, as the case may be, will be in a position to negotiate on equal terms or to obtain appropriate legal and financial advice, or
 
 (b) the persons are ones who, under section 8 (2) of the Central Bank Act 1971, are exempted, or belong to a class of persons that is exempted, from being required to hold a banking licence, or
 
-(c) the persons are ones who provide credit solely for charitable or public purposes and at a rate of interest or on other terms more favourable than those that are currently available commercially, and the exemption would not be inconsistent with the proper and orderly regulation of the provision of credit and the protection of customers of retail credit firms.
+(c) the persons are ones who carry out relevant activities solely for charitable or public purposes and at a rate of interest or on other terms more favourable than those that are currently available commercially, and the exemption would not be inconsistent with the proper and orderly regulation of relevant activities and the protection of customers of retail credit firms.
 
-(3) The power to exempt a person, or the persons belonging to a specified class, from being required to hold an authorisation as a retail credit firm may be exercised by the Bank either on its own initiative or on an application made by or on behalf of the person, or the persons or any of the persons belonging to that class.
+(3) The power to exempt a person, or the persons belonging to a specified class, for the purposes of paragraph (e) of the definition of "retail credit firm" in section 28(1) may be exercised by the Bank either on its own initiative or on an application made by or on behalf of the person, or the persons or any of the persons belonging to that class.
 
 (4) An exemption granted under this section is subject to such conditions as the Bank thinks fit to impose.
 
@@ -36,10 +36,18 @@ Power of Bank to exempt certain persons from being required to hold authorisatio
 
 (8) Failure to comply with subsection (7) does not affect the validity of an exemption granted, or a revocation made, under this section.
 
-(9) Section 29(1) does not apply to a person who, or a person belonging to a class of persons that, is exempted under this section so long as the person—
+(9) An exemption granted under this section shall apply to a person who, or a person belonging to a class of persons that, is exempted under this section, so long as the person—
 
 (a) does not carry on any kind of regulated business other than that to which the exemption relates, and
 
 (b) complies with all conditions subject to which the exemption is granted.
+
+(10) For the purposes of subsection (1)(a) and subsection (2)(a), “the total amount or value of the relevant activities that are to be carried out” means—
+
+(a) in relation to the provision of credit, the total amount or value of credit that is to be provided, together with any interest payable in respect of the credit,
+
+(b) in relation to a consumer-hire agreement, the sum of the instalments and any other amounts payable under the agreement, and
+
+(c) in relation to a hire-purchase agreement, the hire-purchase price (within the meaning of section 65 of the Act of 1995).
 
 CHAPTER 3

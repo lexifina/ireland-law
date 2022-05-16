@@ -22,6 +22,8 @@ Contents of hire-purchase agreements.
 
 (c) the amount of each of the instalments by which the hire-purchase price is to be paid,
 
+(ca) where the agreement is made after the date on which section 15 of the Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022 comes into operation, the APR in respect of the agreement,
+
 (d) the date, or the method of determining the date, upon which each instalment is payable,
 
 (e) the number of instalments,
