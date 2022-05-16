@@ -16,6 +16,8 @@ Death or disability of complainant
 
 (b) the reference to “complainant”, in so far as that subsection relates to a person who is a minor or who is otherwise unable to act for himself or herself, includes a reference to an intending complainant.
 
+Continuation of investigation on death of complainant
+
 46.The power of the Ombudsman in relation to the continuation of an investigation on the death of a complainant may be exercised in relation to the following:
 
 (a) any complaint received by the Ombudsman on or after the establishment day;

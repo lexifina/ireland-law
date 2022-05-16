@@ -22,6 +22,8 @@ Declining to investigate
 
 (5) As soon as practicable after deciding not to investigate a complaint, or to discontinue an investigation of a complaint, the Ombudsman shall inform the complainant in writing of the decision and the reasons for it.
 
+Complaints declined where section 52 applies
+
 53.The Ombudsman may, where section 52 applies,decline to investigate, or discontinue an investigation of, a complaintreceived—
 
 (a) by the Ombudsman on or after the establishment day,
