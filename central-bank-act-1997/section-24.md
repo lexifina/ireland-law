@@ -58,6 +58,4 @@ Interpretation (Part IV).
 
 (b) a reference to a regulated financial service provider shall include a reference to a financial holding company or a mixed financial holding company, and
 
-(c) a reference to a person concerned in the management of a financial service provider shall include a reference to a person concerned in the management of a financial holding company or a mixed financial holding company.
-
-CHAPTER 2
+(c) a reference to a person concerned in the management of a financial service provider shall include a reference to a person concerned in the management of a financial holding company or a mixed financial holding company. CHAPTER 2

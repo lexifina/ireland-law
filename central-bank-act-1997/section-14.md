@@ -1,10 +1,10 @@
 Offences.
 
-14. — Any person who contravenes section 7 or section 8 (1) and a payment system or a member thereof who—
+14. — Any person who contravenes section 7 or section 8(1) and a payment system or a member thereof who—
 
 (a) commits by act or omission a breach of a condition or requirement duly imposed and which relates to the approval by the Bank of the rules of the system, or
 
-(b) fails by act or omission to comply with a direction confirmed by the Court under section 12 or section 13 , shall be guilty of an offence and shall be liable—
+(b) fails by act or omission to comply with a direction confirmed by the Court under section 12 or section 13, shall be guilty of an offence and shall be liable—
 
 (i) on summary conviction, to a fine not exceeding £1,500 or, at the discretion of the court, to imprisonment for a term not exceeding 12 months, or to both, or
 
