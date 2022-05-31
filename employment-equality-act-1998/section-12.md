@@ -36,4 +36,4 @@ Vocational training.
 
 (c) in the case of a university or other third-level institution, it provides different treatment in the allocation of places on any such course to mature students (within the meaning of the Local Authorities (Higher Education Grants) Acts, 1968 to 1992).
 
-(8) In this section, ‘member state of the European Economic Area’ means a state that is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by all subsequent amendments to that Agreement.
+(8) In this section, "member state of the European Economic Area" means a state that is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by all subsequent amendments to that Agreement.

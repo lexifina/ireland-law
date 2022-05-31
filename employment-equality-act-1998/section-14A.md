@@ -2,7 +2,7 @@ F32[Harassment and sexual harassment.
 
 14A.—(1) For the purposes of this Act, where—
 
-(a) an employee (in this section referred to as ‘the victim’) is harassed or sexually harassed either at a place where the employee is employed (in this section referred to as ‘the workplace’) or otherwise in the course of his or her employment by a person who is—
+(a) an employee (in this section referred to as "the victim") is harassed or sexually harassed either at a place where the employee is employed (in this section referred to as "the workplace") or otherwise in the course of his or her employment by a person who is—
 
 (i) employed at that place or by the same employer,
 
@@ -30,7 +30,7 @@ F32[Harassment and sexual harassment.
 
 (4) The reference in subsection (1)(a)(iii) to a client, customer or other business contact of the victim’s employer includes a reference to any other person with whom the employer might reasonably expect the victim to come into contact in the workplace or otherwise in the course of his or her employment.
 
-(5) In this section ‘employee’ includes an individual who is—
+(5) In this section "employee" includes an individual who is—
 
 (a) seeking or using any service provided by an employment agency, and
 
@@ -44,4 +44,6 @@ F32[Harassment and sexual harassment.
 
 (ii) references to sexual harassment are to any form of unwanted verbal, non-verbal or physical conduct of a sexual nature, being conduct which in either case has the purpose or effect of violating a person’s dignity and creating an intimidating, hostile, degrading, humiliating or offensive environment for the person.
 
-(b) Without prejudice to the generality of paragraph (a), such unwanted conduct may consist of acts, requests, spoken words, gestures or the production, display or circulation of written words, pictures or other material. Vicarious Liability etc.
+(b) Without prejudice to the generality of paragraph (a), such unwanted conduct may consist of acts, requests, spoken words, gestures or the production, display or circulation of written words, pictures or other material.
+
+Vicarious Liability etc.

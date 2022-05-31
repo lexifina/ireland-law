@@ -4,7 +4,7 @@ Discrimination for the purposes of this Act.
 
 6.—(1) For the purposes of this Act and without prejudice to its provisions relating to discrimination occurring in particular circumstances discrimination shall be taken to occur where—
 
-(a) a person is treated less favourably than another person is, has been or would be treated in a comparable situation on any of the grounds specified in subsection (2) (in this Act referred to as the ‘discriminatory grounds’) which—
+(a) a person is treated less favourably than another person is, has been or would be treated in a comparable situation on any of the grounds specified in subsection (2) (in this Act referred to as the "discriminatory grounds") which—
 
 (i) exists,
 
@@ -52,4 +52,4 @@ Discrimination for the purposes of this Act.
 
 (ii) the means of achieving that aim are appropriate and necessary.
 
-(d) Subsection (1)(b) of section 2 (exclusions) of the Unfair Dismissals Act 1977 is amended by deleting ‘or who on that date was a person to whom by reason of his age the Redundancy Payments Acts 1967 to 1973, did not apply’ and inserting ‘or who on that date had not attained the age of 16 years’.
+(d) Subsection (1)(b) of section 2 (exclusions) of the Unfair Dismissals Act 1977 is amended by deleting "or who on that date was a person to whom by reason of his age the Redundancy Payments Acts 1967 to 1973, did not apply" and inserting "or who on that date had not attained the age of 16 years".

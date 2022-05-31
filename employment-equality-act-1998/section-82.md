@@ -54,7 +54,7 @@ Redress which may be ordered.
 
 (ii) both discrimination on one or more than one of such grounds and harassment or sexual harassment.
 
-(b) In paragraph (a) ‘discrimination’ does not include non-compliance with an equal remuneration term.
+(b) In paragraph (a) "discrimination" does not include non-compliance with an equal remuneration term.
 
 (7) An order for compensation under this section may not be made in favour of the Authority in a case referred by it to the Director General of the Workplace Relations Commission under section 85(1).
 

@@ -30,9 +30,9 @@ Savings and exceptions related to the family, age or disability.
 
 (3A) In subsection (3)—
 
-‘occupational benefits scheme’ includes any scheme (whether statutory or non-statutory) providing for benefits to employees or any category of employees on their becoming ill, incapacitated or redundant but does not include any occupational pension scheme providing for pensions, gratuities or other allowances payable on retirement or death;
+"occupational benefits scheme" includes any scheme (whether statutory or non-statutory) providing for benefits to employees or any category of employees on their becoming ill, incapacitated or redundant but does not include any occupational pension scheme providing for pensions, gratuities or other allowances payable on retirement or death;
 
-‘severance payment’ means a sum paid voluntarily by an employer to an employee otherwise than as pay when the employee leaves the employment.
+"severance payment" means a sum paid voluntarily by an employer to an employee otherwise than as pay when the employee leaves the employment.
 
 (4) Without prejudice to subsection (3), it shall not constitute discrimination on the age ground to fix different ages for the retirement (whether voluntarily or compulsorily) of employees or any class or description of employees if—
 
