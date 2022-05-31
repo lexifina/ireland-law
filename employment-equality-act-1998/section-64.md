@@ -1,3 +1,3 @@
-Register of non-discrimination notices.
+Register of non-discrimination notices. (Repealed)
 
 64.—...

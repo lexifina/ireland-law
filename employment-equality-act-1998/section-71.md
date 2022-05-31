@@ -1,3 +1,3 @@
-Appeal against substantive notice.
+Appeal against substantive notice. (Repealed)
 
 71.—...

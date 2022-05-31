@@ -4,19 +4,17 @@ Interpretation (Part VII).
 
 74.—(1) In this Part, unless the context otherwise requires:
 
-‘Act of 2015’ means the Workplace Relations Act 2015;
+"Act of 2015" means the Workplace Relations Act 2015;
 
-‘adjudication officer’ has the same meaning as it has in the Act of 2015;
+"adjudication officer" has the same meaning as it has in the Act of 2015;
 
-“the complainant” has the meaning given by section 77(4);
-
-‘mediation officer’ and ‘adjudication officer’ mean officers appointed as such under subsection (4) or (4A) of section 75;
+“the complainant” has the meaning given by section 77(4); mediation officer" and "adjudication officer" mean officers appointed as such under subsection (4) or (4A) of section 75;
 
 “the Equal Pay Directive” means Council Directive No. 75/117/EEC on the approximation of the laws of the Member States relating to the application of the principle of equal pay for men and women;
 
 “the Equal Treatment Directive” means Council Directive No. 76/207/EEC on the implementation of the principle of equal treatment for men and women as regards access to employment, vocational training and promotion, and working conditions;
 
-‘mediation officer’ has the same meaning as it has in the Act of 2015;
+"mediation officer" has the same meaning as it has in the Act of 2015;
 
 “the respondent” has the meaning given by section 77(4);
 

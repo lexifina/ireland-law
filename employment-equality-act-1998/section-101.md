@@ -28,11 +28,11 @@ Alternative avenues of redress.
 
 (b) In this subsection—
 
-‘Act of 1977’ means the Unfair Dismissals Act 1977;
+"Act of 1977" means the Unfair Dismissals Act 1977;
 
-‘dismissal’ has the same meaning as it has in the Act of 1977;
+"dismissal" has the same meaning as it has in the Act of 1977;
 
-‘relevant date’ means such date as may be prescribed by, or determined in accordance with, regulations made by the Minister for Jobs, Enterprise and Innovation.
+"relevant date" means such date as may be prescribed by, or determined in accordance with, regulations made by the Minister for Jobs, Enterprise and Innovation.
 
 (5) Where the Director General of the Workplace Relations Commission issues a direction under subsection (2)(b), the resulting entitlement of the employee under that subsection is deemed to have effect from the date of the direction.
 

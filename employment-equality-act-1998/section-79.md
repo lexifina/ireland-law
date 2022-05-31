@@ -1,4 +1,4 @@
-Investigations by [Director General of the Workplace Relations Commission].
+Investigations by Director General of the Workplace Relations Commission.
 
 79.—(1) Where a case which has been referred to the Director General of the Workplace Relations Commission under section 77—
 

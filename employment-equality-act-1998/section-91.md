@@ -6,7 +6,7 @@ Enforcement
 
 (a) the modification that the following paragraph is substituted for paragraph (a) of subsection (1):
 
-‘(a) on application to it in that behalf by the complainant concerned, the Irish Human Rights and Equality Commission, or’, and
+"(a) on application to it in that behalf by the complainant concerned, the Irish Human Rights and Equality Commission, or", and
 
 (b) the following modifications:
 
@@ -22,4 +22,4 @@ Enforcement
 
 (2) Section 45 of the Act of 2015 shall apply to a decision of the Labour Court under section 44 of that Act upon an appeal from a decision of the Director General of the Workplace Relations Commission under section 79 subject to the modification that the following paragraph is substituted for paragraph (b) of subsection (1):
 
-‘(b) on application to it in that behalf, with the consent of the complainant, by the Irish Human Rights and Equality Commission,’.
+"(b) on application to it in that behalf, with the consent of the complainant, by the Irish Human Rights and Equality Commission,".

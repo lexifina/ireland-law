@@ -1,3 +1,3 @@
-Assistance by Authority in connection with certain references.
+Assistance by Authority in connection with certain references. (Repealed)
 
 67.—...

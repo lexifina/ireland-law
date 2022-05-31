@@ -1,3 +1,3 @@
-Grants and borrowing powers.
+Grants and borrowing powers. (Repealed)
 
 55.—...

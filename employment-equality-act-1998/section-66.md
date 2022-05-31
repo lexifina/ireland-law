@@ -1,3 +1,3 @@
-Offence relating to failure to comply with non-discrimination notice.
+Offence relating to failure to comply with non-discrimination notice. (Repealed)
 
 66.—...

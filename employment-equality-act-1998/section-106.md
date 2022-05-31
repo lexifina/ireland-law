@@ -2,7 +2,7 @@ Transitional provision.
 
 106.—(1) This section applies to a claim for redress under a repealed enactment—
 
-(a) which is made on or after the commencement of Part VII (the ‘commencement date’), and
+(a) which is made on or after the commencement of Part VII (the "commencement date"), and
 
 (b) which relates—
 
@@ -12,11 +12,11 @@ Transitional provision.
 
 (2) In this section—
 
-‘commencement date’ means the 18th day of October, 1999;
+"commencement date" means the 18th day of October, 1999;
 
-‘conduct’ means conduct alleged to have occurred;
+"conduct" means conduct alleged to have occurred;
 
-‘repealed enactment’ means the Anti-Discrimination (Pay) Act, 1974, or the Employment Equality Act, 1977.
+"repealed enactment" means the Anti-Discrimination (Pay) Act, 1974, or the Employment Equality Act, 1977.
 
 (3) A claim for redress to which this section applies shall—
 

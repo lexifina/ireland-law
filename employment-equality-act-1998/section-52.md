@@ -1,3 +1,3 @@
-Seal of Authority.
+Seal of Authority. (Repealed)
 
 52.—...

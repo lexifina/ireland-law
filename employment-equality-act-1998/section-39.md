@@ -1,3 +1,3 @@
-Functions of Authority.
+Functions of Authority. (Repealed)
 
 39.—...

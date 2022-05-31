@@ -1,3 +1,3 @@
-Accountability of Chief Executive Officer.
+Accountability of Chief Executive Officer. (Repealed)
 
 50.—...

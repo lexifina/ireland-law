@@ -1,3 +1,3 @@
-Chairperson and ordinary members may be re-appointed.
+Chairperson and ordinary members may be re-appointed. (Repealed)
 
 45.—...

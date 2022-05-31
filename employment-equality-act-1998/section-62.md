@@ -1,3 +1,3 @@
-Non-discrimination notices.
+Non-discrimination notices. (Repealed)
 
 62.—...

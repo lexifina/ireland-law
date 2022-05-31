@@ -1,6 +1,6 @@
 ## Equality Investigations
 
-[Director General of the Workplace Relations Commission] and other officers.
+Director General of the Workplace Relations Commission and other officers.
 
 75.—(1) ...
 

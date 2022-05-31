@@ -4,7 +4,7 @@ Entitlement to equal remuneration.
 
 19.—(1) It shall be a term of the contract under which A is employed that, subject to this Act, A shall at any time be entitled to the same rate of remuneration for the work which A is employed to do as B who, at that or any other relevant time, is employed to do like work by the same or an associated employer.
 
-(2) In this section ‘relevant time’, in relation to a particular time, is any time (including a time before the commencement of this section) during the 3 years which precede, or the 3 years which follow, the particular time.
+(2) In this section "relevant time", in relation to a particular time, is any time (including a time before the commencement of this section) during the 3 years which precede, or the 3 years which follow, the particular time.
 
 (3) For the purposes of this Part, where B’s employer is an associated employer of A’s employer, A and B shall not be regarded as employed to do like work unless they both have the same or reasonably comparable terms and conditions of employment.
 

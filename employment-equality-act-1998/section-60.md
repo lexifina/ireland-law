@@ -1,3 +1,3 @@
-Offences relating to inquiries etc.
+Offences relating to inquiries etc. (Repealed)
 
 60.—...

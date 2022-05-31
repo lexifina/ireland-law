@@ -1,3 +1,3 @@
-Recommendations arising out of and reports of inquiries.
+Recommendations arising out of and reports of inquiries. (Repealed)
 
 61.—...

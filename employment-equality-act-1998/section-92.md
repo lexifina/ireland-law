@@ -1,3 +1,3 @@
-Additional powers of Circuit Court on enforcement.
+Additional powers of Circuit Court on enforcement. (Repealed)
 
 92.—...

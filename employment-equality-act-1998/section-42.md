@@ -1,3 +1,3 @@
-Chairperson.
+Chairperson. (Repealed)
 
 42.—...

@@ -20,7 +20,7 @@ The forum for seeking redress.
 
 (4) In this Part, in relation to a claim referred under any provision of this section—
 
-(a) ‘the complainant’ means—
+(a) "the complainant" means—
 
 (i) the person by whom it is referred, or
 

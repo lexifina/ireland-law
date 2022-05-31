@@ -6,7 +6,7 @@ Burden of proof.
 
 (3) Where, in any proceedings arising from a reference of a matter by the Authority to the Director General of the Workplace Relations Commission under section 85(1), facts are established by or on behalf of the Authority from which it may be presumed that an action or a failure mentioned in a paragraph of that provision has occurred, it is for the respondent to prove the contrary.
 
-(4) In this section ‘discrimination’ includes—
+(4) In this section "discrimination" includes—
 
 (a) indirect discrimination,
 

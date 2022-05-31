@@ -1,3 +1,3 @@
-Enforcement powers in respect of equality reviews and action plans.
+Enforcement powers in respect of equality reviews and action plans. (Repealed)
 
 70.—...

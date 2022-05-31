@@ -1,5 +1,5 @@
 ## PART V EQUALITY AUTHORITY General
 
-Continuation of Employment Equality Agency as Equality Authority.
+Continuation of Employment Equality Agency as Equality Authority. (Repealed)
 
 38.—...

@@ -1,3 +1,3 @@
-Obtaining information etc. for purposes of inquiry.
+Obtaining information etc. for purposes of inquiry. (Repealed)
 
 59.—...

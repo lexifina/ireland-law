@@ -12,11 +12,11 @@ Interpretation.
 
 “the Authority” means the Equality Authority;
 
-‘civil status’ means being single, married, separated, divorced, widowed, in a civil partnership within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 or being a former civil partner in a civil partnership that has ended by death or been dissolved;
+"civil status" means being single, married, separated, divorced, widowed, in a civil partnership within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 or being a former civil partner in a civil partnership that has ended by death or been dissolved;
 
-‘collective agreement’ means an agreement between an employer and a body or bodies representative of the employees to which the agreement relates;
+"collective agreement" means an agreement between an employer and a body or bodies representative of the employees to which the agreement relates;
 
-‘contract of employment’ means, subject to subsection (3)—
+"contract of employment" means, subject to subsection (3)—
 
 (a) a contract of service or apprenticeship, or
 
@@ -26,7 +26,7 @@ Interpretation.
 
 (ii) an individual agrees with a person carrying on the business of an employment agency within the meaning of the Employment Agency Act 1971 to do or perform personally any work or service for another person (whether or not the other person is a party to the contract), whether the contract is express or implied and, if express, whether oral or written;
 
-‘the Director General of the Workplace Relations Commission’ means the Director General of the Workplace Relations Commission;
+"the Director General of the Workplace Relations Commission" means the Director General of the Workplace Relations Commission;
 
 “disability” means—
 
@@ -40,13 +40,13 @@ Interpretation.
 
 (e) a condition, illness or disease which affects a person’s thought processes, perception of reality, emotions or judgement or which results in disturbed behaviour, and shall be taken to include a disability which exists at present, or which previously existed but no longer exists, or which may exist in the future or which is imputed to a person;
 
-‘discrimination’ includes the issue of an instruction to discriminate and, in Part V and VI, includes prohibited conduct within the meaning of the Equal Status Act 2000, and cognate words shall be construed accordingly;
+"discrimination" includes the issue of an instruction to discriminate and, in Part V and VI, includes prohibited conduct within the meaning of the Equal Status Act 2000, and cognate words shall be construed accordingly;
 
 “the discriminatory grounds” has the meaning given by section 6(2);
 
 “dismissal” includes the termination of a contract of employment by the employee (whether prior notice of termination was or was not given to the employer) in circumstances in which, because of the conduct of the employer, the employee was or would have been entitled to terminate the contract without giving such notice, or it was or would have been reasonable for the employee to do so, and “dismissed” shall be construed accordingly;
 
-‘employee’, subject to subsection (3), means a person who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment and, where the context admits, includes a member or former member of a regulatory body, but, so far as regards access to employment, does not include a person employed in another person’s home for the provision of personal services for persons residing in that home where the services affect the private or family life of those persons;
+"employee", subject to subsection (3), means a person who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment and, where the context admits, includes a member or former member of a regulatory body, but, so far as regards access to employment, does not include a person employed in another person’s home for the provision of personal services for persons residing in that home where the services affect the private or family life of those persons;
 
 “employer”, subject to subsection (3), means, in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment;
 
@@ -78,19 +78,19 @@ Interpretation.
 
 “pension rights” means a pension or any other benefits flowing from an occupational pension scheme;
 
-‘proceedings’ means—
+"proceedings" means—
 
 (a) proceedings before the person, body or court dealing with a request or reference under this Act by or on behalf of a person, and
 
 (b) any subsequent proceedings, including proceedings on appeal, arising from the request or reference, but does not include proceedings for an offence under this Act;
 
-‘personal services’, in relation to such services provided in a person’s home, includes but is not limited to services that are in the nature of services in loco parentis or involve caring for those residing in the home;
+"personal services", in relation to such services provided in a person’s home, includes but is not limited to services that are in the nature of services in loco parentis or involve caring for those residing in the home;
 
-‘persons’, in sections 19, 22, 29 and 31 does not import the singular;
+"persons", in sections 19, 22, 29 and 31 does not import the singular;
 
 “provider of agency work” shall be construed in accordance with subsection (5);
 
-‘provision’ means a term in a contract of employment or a requirement, criterion, practice, regime, policy or condition relating to employment;
+"provision" means a term in a contract of employment or a requirement, criterion, practice, regime, policy or condition relating to employment;
 
 “regulatory body” means a body which falls within any of paragraphs (a) to (c) of section 13;
 
@@ -104,7 +104,7 @@ Interpretation.
 
 “trade union” means a trade union which is the holder of a negotiation licence under Part II of the Trade Union Act, 1941;
 
-‘Traveller community’ means the community of people commonly so called who are identified (both by themselves and others) as people with a shared history, culture and traditions including, historically, a nomadic way of life on the island of Ireland;
+"Traveller community" means the community of people commonly so called who are identified (both by themselves and others) as people with a shared history, culture and traditions including, historically, a nomadic way of life on the island of Ireland;
 
 “vocational training” shall be construed in accordance with section 12(2); and cognate words or expressions shall be construed accordingly.
 
@@ -118,7 +118,7 @@ Interpretation.
 
 (c) in relation to an agency worker, the person who is liable for the pay of the agency worker shall be deemed to be the employer.
 
-(d) in the case of a contract mentioned in paragraph (b)(i) of the definition of ‘contract of employment’—
+(d) in the case of a contract mentioned in paragraph (b)(i) of the definition of "contract of employment"—
 
 (i) references in this Act to an employee shall be construed as references to the party to the contract who agrees personally to execute the work or service concerned and references to an employer as references to the person for whom it is to be executed,
 

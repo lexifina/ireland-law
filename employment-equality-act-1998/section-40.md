@@ -1,3 +1,3 @@
-Strategic Plans.
+Strategic Plans. (Repealed)
 
 40.—...
