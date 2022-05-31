@@ -16,7 +16,9 @@ Form and content of decisions and determinations.
 
 (b) in the case of a determination under section 83, the parties to the appeal,
 
-(c) in the case of a decision under section 85, the Authority and the persons referred to in subsections (2) (b) and (c) of that section, and
+(c) in the case of a decision under section 85, the Authority and the persons referred to in subsections (2) (b) and (c) of that section,
+
+(ca) in the case of a decision or determination under section 85C, the complainant and the respondent, within the meaning of that section, and
 
 (d) in the case of a decision under section 86 or a determination under section 87, the complainant and the respondents, within the meaning of section 86.
 

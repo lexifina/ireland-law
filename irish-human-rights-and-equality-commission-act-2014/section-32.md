@@ -23,3 +23,5 @@ Equality reviews and equality action plans
 (a) the Act of 1998, and
 
 (b) the Act of 2000, the review or the action plan, as the case may be, shall deal separately with those matters and each part of the review or plan, as the case may be, shall be treated as a separate equality review plan or equality action plan, as the case may be.
+
+(5) Arising out of the operation of section 20A of the Employment Equality Act 1998 as read with regulations made thereunder, the Minister may request the Commission to consider exercising its powers under this section in relation to a particular undertaking, group of undertakings or the undertakings making up a particular industry or sector thereof and the Commission shall comply with such request.
