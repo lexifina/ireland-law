@@ -1,6 +1,6 @@
 Medical practitioners to be registered in Specialist Division.
 
-47.— (1) The Council shall, in accordance with the relevant criteria specified in rules made under section 11, register in the Specialist Division the following medical practitioners:
+47. (1) The Council shall, in accordance with the relevant criteria specified in rules made under section 11, register in the Specialist Division the following medical practitioners:
 
 (a) every medical practitioner who has, in the opinion of the Council, completed specialist training in a medical specialty recognised by the Council under section 89(1);
 
@@ -14,6 +14,12 @@ Medical practitioners to be registered in Specialist Division.
 
 (f) any medical practitioner who satisfies the Council that the practitioner has completed a programme of training and has acquired sufficient experience in specialised medicine of a standard considered by the Council to be adequate for the purposes of registration in the Specialist Division.
 
-(2) The Council may, until the 5th anniversary of the commencement of this subsection, grant registration in any particular list of the Specialist Division to any medical practitioner who, being able to be registered in the General Division, satisfies the Council that the practitioner has obtained sufficient training and experience such that the practitioner should be registered as a specialist in that list.
+(2) The Council may, until the 1st anniversary of the commencement of section 99 of the Regulated Professions (Health and Social Care) (Amendment) Act 2020, grant registration in any particular list of the Specialist Division to a medical practitioner who—
 
-(3) For the purposes of subsection (2), the Council shall, until the 5th anniversary of the commencement of that subsection, work with the bodies approved under section 89(3)(a) to assist medical practitioners registered in the General Division to achieve the necessary standard for registration in the Specialist Division.
+(a) is registered, or is able to be registered, in the General Division,
+
+(b) on or before 31 December 2008, both met the qualifying criteria for appointment to a medical post in the State as a consultant and occupied such post, and
+
+(c) satisfies the Council that he or she has sufficient competency such that he or she should be registered as a specialist in that list.
+
+(3) For the purposes of subsection (2), the Council shall, until the 1st anniversary referred to in that subsection, work with the bodies approved under section 89(3)(a) to assist medical practitioners registered in the General Division to achieve the necessary standard for registration in the Specialist Division.
