@@ -8,7 +8,7 @@ Modification of operation of section 105(1)(a).
 
 (2) This section shall cease to have effect on the date on which a section 110 registration (within the meaning of section 110(8)) ceases to have effect pursuant to section 110(6).
 
-(3) In this section, ‘relevant individual’ means—
+(3) In this section, "relevant individual" means—
 
 (a) a dentist registered under the Dentists Act 1985,
 

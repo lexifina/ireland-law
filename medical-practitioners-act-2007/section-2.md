@@ -50,7 +50,7 @@ Interpretation.
 
 “Dental Council” means An Chomhairle Fiaclóireachta or the Dental Council established by the Dentists Act 1985;
 
-‘Directive 2005/36/EC’ has the meaning assigned to “Directive” in Regulation 3(1) of the Regulations of 2017;
+"Directive 2005/36/EC" has the meaning assigned to “Directive” in Regulation 3(1) of the Regulations of 2017;
 
 “Fitness to Practise Committee” means the committee established under section 20(2)(b);
 
@@ -114,7 +114,7 @@ Interpretation.
 
 “Register of Medical Specialists” means the register established under section 30 of the Act of 1978;
 
-‘Regulations of 2017’ means the European Union (Recognition of Professional Qualifications) Regulations 2017 (S.I. No. 8 of 2017);
+"Regulations of 2017" means the European Union (Recognition of Professional Qualifications) Regulations 2017 (S.I. No. 8 of 2017);
 
 “relevant conditions”, in relation to a registered medical practitioner, means any conditions attached to the registration of the practitioner pursuant to—
 
