@@ -2,7 +2,9 @@ An Act, to make exceptional provision, in the public interest and having regard 
 
 ## [27th March, 2020]
 
-WHEREAS an emergency has arisen in the State by virtue of the spread of the disease known as Covid-19; AND WHEREAS the State is and its citizens are, in significant respects, highly exposed to the effect of the spread of that disease; and having regard to the constitutional duty of the State to respect and, as far as practicable, by its laws to defend and vindicate the rights of citizens to life and to bodily integrity, it is necessary to introduce a range of extraordinary measures and safeguards to prevent, minimise, limit or reduce the risk of persons being infected with that disease;
+WHEREAS an emergency has arisen in the State by virtue of the spread of the disease known as Covid-19;
+
+AND WHEREAS the State is and its citizens are, in significant respects, highly exposed to the effect of the spread of that disease; and having regard to the constitutional duty of the State to respect and, as far as practicable, by its laws to defend and vindicate the rights of citizens to life and to bodily integrity, it is necessary to introduce a range of extraordinary measures and safeguards to prevent, minimise, limit or reduce the risk of persons being infected with that disease;
 
 AND WHEREAS the emergency that has arisen is of such a character that it is necessary for compelling reasons of public interest and for the common good that extraordinary measures should be taken to mitigate, to the extent practicable, the adverse economic consequences resulting, or likely to result, from the spread of that disease and to mitigate its impact on the administration of vital public service functions;
 
