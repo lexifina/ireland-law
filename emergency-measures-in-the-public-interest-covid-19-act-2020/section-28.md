@@ -6,7 +6,7 @@ Covid-19: temporary wage subsidy provisions
 
 “Act” means the Taxes Consolidation Act 1997;
 
-‘applicable period’ means the period commencing on 26 March 2020 and ending on 31 August 2020;
+"applicable period" means the period commencing on 26 March 2020 and ending on 31 August 2020;
 
 “emoluments”, “employer” and “employee” have the same meanings as they have in Chapter 4 of Part 42 of the Act;
 
@@ -16,7 +16,7 @@ Covid-19: temporary wage subsidy provisions
 
 “Regulations” means the Income Tax (Employments) Regulations 2018 (S.I. No. 345 of 2018);
 
-‘specified employee’, in relation to an employer, means—
+"specified employee", in relation to an employer, means—
 
 (a) an individual who was on the payroll of the employer as at 29 February 2020, and the following is the case, the employer—
 

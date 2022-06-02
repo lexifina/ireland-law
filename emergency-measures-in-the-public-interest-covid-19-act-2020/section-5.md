@@ -20,7 +20,7 @@ Notices of termination under Act of 2004
 
 (5) Section 67 of the Act of 2004 shall have effect during the emergency period as if, in subsection (3), “28 days” were substituted for “14 days”.
 
-(6) In this section ‘revised termination date’ means, in relation to a notice of termination served before the emergency period, the later of the following dates:
+(6) In this section "revised termination date" means, in relation to a notice of termination served before the emergency period, the later of the following dates:
 
 (a) the date immediately following the expiration of a period that consists of the aggregate of—
 
