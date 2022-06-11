@@ -20,9 +20,9 @@ Application of Act.
 
 (II) to which this Act would apply had sections 3 and 5 of the Residential Tenancies (Amendment) Act 2019 not been enacted, in the same manner as it would apply to a dwelling referred to in subparagraph (i).
 
-(c) The definition of ‘dwelling’ in section 4 shall apply for the purposes of this subsection as if ‘residential unit (whether or not self-contained)’ were substituted for ‘self-contained residential unit’.
+(c) The definition of "dwelling" in section 4 shall apply for the purposes of this subsection as if "residential unit (whether or not self-contained)" were substituted for "self-contained residential unit".
 
-(d) In this subsection ‘student’ means a person registered as a student with a relevant provider (within the meaning of the Qualifications and Quality Assurance (Education and Training) Act 2012).
+(d) In this subsection "student" means a person registered as a student with a relevant provider (within the meaning of the Qualifications and Quality Assurance (Education and Training) Act 2012).
 
 (2) Subject to section 4(2), this Act does not apply to any of the following dwellings—
 
@@ -56,7 +56,7 @@ Application of Act.
 
 (iii) references in this Act to a sub-tenancy shall not include a dwelling that is the subject of a tenancy between the approved housing body and the household within the meaning of section 20 of the Housing (Miscellaneous Provisions) Act 2009.
 
-(3) Notwithstanding the definition of “tenancy” in section 5(1), in this section a reference to a tenancy does not include a tenancy the term of which is more than 35 years.
+(3) Notwithstanding the definition of “tenancy” in section 5(1), in this section a reference to a tenancy does not include a tenancy (other than a Part 4 tenancy) the term of which is more than 35 years.
 
 (4) Without prejudice to subsection (1), for the purposes of the application of this Act to—
 

@@ -1,16 +1,8 @@
 Statutory
 
-28.—(1) Where a person has, under a tenancy, been in occupation of a dwelling for a continuous period of 6 months then, if the condition specified in subsection (3) is satisfied, the following protection applies for the benefit of that person.
+28.—(1) Where a person has been in occupation of a dwelling under a tenancy for a continuous period of 6 months and the condition specified in subsection (3) is satisfied, that tenancy shall, subject to Chapter 3, continue in existence for a period of unlimited duration from the date on which the first-mentioned period expires.
 
-(2) That protection is that, subject to Chapter 3, the tenancy mentioned in subsection (1) shall (if it would not or might not do so otherwise) continue in being—
-
-(a) unless paragraph (b) applies, for the period of 6 years from—
-
-(i) the commencement of the tenancy, or
-
-(ii) the relevant date, whichever is the later, or
-
-(b) if a notice of termination under section 34(b) is served in respect of the tenancy giving a period of notice that expires after the period of 6 years mentioned in paragraph (a), until the expiry of that period of notice.
+(2) ...
 
 (3) The condition mentioned in subsection (1) is that no notice of termination (giving the required period of notice) has been served in respect of the tenancy before the expiry of the period of 6 months mentioned in that subsection.
 
