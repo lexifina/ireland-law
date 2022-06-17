@@ -2,7 +2,9 @@ Prosecution of offences by members of Garda Síochána.
 
 8.— (1) No member of the Garda Síochána in the course of his or her official duties may institute a prosecution except as provided under this section.
 
-(2) Subject to subsection (3), any member of the Garda Síochána may institute and conduct prosecutions in a court of summary jurisdiction, but only in the name of the Director of Public Prosecutions.
+(2) Subject to subsection (3), any member of the Garda Síochána may institute or conduct prosecutions in a court of summary jurisdiction, but only in the name of the Director of Public Prosecutions.
+
+(2A) Where a prosecution is instituted by a member of the Garda Síochána pursuant to subsection (2), the prosecution may be conducted by that member or any other such member.
 
 (3) In deciding whether to institute and in instituting or conducting a prosecution, a member of the Garda Síochána shall comply with any applicable direction (whether of a general or specific nature) given by the Director of Public Prosecutions under subsection (4).
 
