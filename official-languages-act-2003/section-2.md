@@ -2,6 +2,10 @@ Interpretation.
 
 2. —(1) In this Act, save where the context otherwise requires—
 
+"Act of 2012" means the Gaeltacht Act 2012;
+
+"Advisory Committee" has the meaning assigned to it by section 18A;
+
 “Commissioner” means, as the context may require, Oifig Choimisinéir na dTeangacha Oifigiúla established by section 20 or the holder, for the time being, of that office;
 
 “court” includes a tribunal established under the Tribunals of Inquiry (Evidence) Acts 1921 to 2002;
@@ -10,9 +14,15 @@ Interpretation.
 
 “enactment” means a statute or an instrument made under a power conferred by a statute;
 
+"establishment day" shall be construed in accordance with section 18A;
+
 “functions” includes powers and duties and references to the performance of functions include, with respect to powers and duties, references to the exercise of the powers and the carrying out of the duties;
 
 “Gaeltacht area”means an area for the time being determined to be a Gaeltacht area by order made under section 2 of the Ministers and Secretaries (Amendment) Act 1956 ;
+
+"Gaeltacht Language Planning Area" has the same meaning as it has in Part 2 of the Act of 2012;
+
+"Gaeltacht Service Town" has the same meaning as it has in Part 2 of the Act of 2012;
 
 “head” means the head of a public body;
 
@@ -38,9 +48,15 @@ Interpretation.
 
 (j) in relation to any other public body, the person who holds, or performs the functions of, the office of chief executive officer (by whatever name called) of the body;
 
+"Irish Language Network" has the same meaning as it has in Part 2 of the Act of 2012;
+
 “local authority” has the meaning assigned to it by subsection (1) of section 2 of the Local Government Act 2001;
 
 “the Minister” means the Minister for Community, Rural and Gaeltacht Affairs;
+
+"National Plan" has the meaning assigned to it by section 18C;
+
+"official form" means a form, including an electronic form, used by a public body in connection with the provision of a service by that body;
 
 “the official languages” means the Irish language (being the national language and the first official language) and the English language (being a second official language) as specified in Article 8 of the Constitution;
 
@@ -52,10 +68,12 @@ Interpretation.
 
 “record” includes any memorandum, book, plan, map, drawing, diagram, pictorial or graphic work or other document, any photograph, film or recording (whether of sound or images or both), any form in which data are held (including machine-readable form) or thing in which information is held or stored manually, mechanically or electronically and anything that is a part or a copy, in any form, of any of the foregoing or is a combination of two or more of the foregoing;
 
-“a scheme” means a scheme confirmed by the Minister under section 14 ;
+“a scheme” means a scheme confirmed by the Minister under section 14;
 
 “service” means a service offered or provided (whether directly or indirectly) to the general public or a class of the general public by a public body.
 
 (2) (a) In this Act a reference to a section or schedule is a reference to a section of or Schedule to this Act unless it is indicated that reference to some other enactment is intended.
 
 (b) In this Act a reference to a subsection or paragraph or subparagraph is a reference to the subsection or paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended.
+
+"statutory body" means a body established by or under statute.
