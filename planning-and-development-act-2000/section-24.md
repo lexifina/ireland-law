@@ -32,7 +32,9 @@ Consultation regarding regional spatial and economic strategy.
 
 (7) When a regional assembly (other than the regional assemblies in respect of the GDA) prepares the draft of the regional spatial and economic strategy it shall include a statement in that draft on the actions being taken or proposed to ensure effective integration of transport and land use planning, including in particular—
 
-(a) a statement explaining how it proposes to address the matters identified in the report of the NTA prepared in accordance with section 31FF, and b) where it does not propose to address, or proposes to only partially address, any matter identified in the report of the NTA prepared in accordance with section 31FF, a statement of the reasons for that course of action.
+(a) a statement explaining how it proposes to address the matters identified in the report of the NTA prepared in accordance with section 31FF, and
+
+(b) where it does not propose to address, or proposes to only partially address, any matter identified in the report of the NTA prepared in accordance with section 31FF, a statement of the reasons for that course of action.
 
 (8) (a) Subject to paragraphs (b) and (e), following consideration of submissions or observations under subsection (5), and subject to section 25, the regional assembly shall, subject to any amendments that it considers necessary, make the regional spatial and economic strategy.
 

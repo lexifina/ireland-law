@@ -1,6 +1,6 @@
 Electricity transmission lines.
 
-182A.— (1) Where a person (hereafter referred to in this section as the ‘undertaker’) intends to carry out development comprising or for the purposes of electricity transmission, (hereafter referred to in this section and section 182B as ‘proposed development’), the undertaker shall prepare, or cause to be prepared, an application for approval of the development under section 182B and shall apply to the Board for such approval accordingly.
+182A.— (1) Where a person (hereafter referred to in this section as the "undertaker") intends to carry out development comprising or for the purposes of electricity transmission, (hereafter referred to in this section and section 182B as "proposed development"), the undertaker shall prepare, or cause to be prepared, an application for approval of the development under section 182B and shall apply to the Board for such approval accordingly.
 
 (2) In the case of development referred to in subsection (1) which belongs to a class of development identified for the purposes of section 176, the undertaker shall prepare, or cause to be prepared, an environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, in respect of the development.
 
@@ -84,7 +84,7 @@ Electricity transmission lines.
 
 (b) 3 weeks where the report has not been furnished to the Board.
 
-(9) In this section ‘transmission’, in relation to electricity, shall be construed in accordance with section 2(1) of the Electricity Regulation Act 1999 but, for the purposes of this section, the foregoing expression, in relation to electricity, shall also be construed as meaning the transport of electricity by means of—
+(9) In this section "transmission", in relation to electricity, shall be construed in accordance with section 2(1) of the Electricity Regulation Act 1999 but, for the purposes of this section, the foregoing expression, in relation to electricity, shall also be construed as meaning the transport of electricity by means of—
 
 (a) a high voltage line where the voltage would be 110 kilovolts or more, or
 

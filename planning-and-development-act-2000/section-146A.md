@@ -18,4 +18,4 @@ Amendments of permissions, etc. of clerical or technical nature.
 
 (3) A planning authority or the Board, before it decides whether to exercise the powers under subsection (1) in a particular case, may invite submissions in relation to the matter to be made to it by any person who made submissions or observations to the planning authority or the Board in relation to the permission or other matter concerned, and shall have regard to any submissions made to it on foot of that invitation.
 
-(4) In this section ‘term’ includes a condition.
+(4) In this section "term" includes a condition.

@@ -10,4 +10,4 @@ Requirement for impact assessment for certain classes of development.
 
 (3) Before granting permission for a development which requires a transport impact assessment under regulations made under subsection (1), a planning authority shall satisfy itself that the applicant has demonstrated that the proposed development would be consistent with the transport strategy of the DTA.
 
-(4) In this section ‘transport impact assessment’ means a report outlining what additional transport impacts a particular proposed development will generate and how it will integrate into existing transport patterns.
+(4) In this section "transport impact assessment" means a report outlining what additional transport impacts a particular proposed development will generate and how it will integrate into existing transport patterns.

@@ -16,7 +16,7 @@ Co-operation of public bodies with regional assemblies.
 
 (b) for the purpose of subsection (3), were the body a public body, then the Minister may so declare such body to be a public body for the purposes of consultation under this section and regulations may be made either generally or in respect of one or more than one regional assembly.
 
-(5) In this section ‘public body’ means—
+(5) In this section "public body" means—
 
 (a) the Minister,
 

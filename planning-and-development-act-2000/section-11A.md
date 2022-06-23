@@ -2,13 +2,13 @@ Extension of certain development plans and restriction of section 11.
 
 11A.—(1) In this section—
 
-‘specified planning authority’ means—
+"specified planning authority" means—
 
 (a) in respect of its administrative area, a town council, or
 
 (b) in respect of its administrative area, North Tipperary County Council, South Tipperary County Council, Limerick County Council, Limerick City Council, Waterford County Council or Waterford City Council;
 
-‘town council’ means the town council of a town set out in Part 1 of Schedule 6 to the Local Government Act 2001 and to which section 11(4) of that Act relates.
+"town council" means the town council of a town set out in Part 1 of Schedule 6 to the Local Government Act 2001 and to which section 11(4) of that Act relates.
 
 (2) Except as provided for by section 11B(2), subsection (1) of section 11 shall not apply to a specified planning authority—
 

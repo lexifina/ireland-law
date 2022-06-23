@@ -34,9 +34,9 @@ Development by State authorities.
 
 (2A) (a) In subsections (2) to (2AA)—
 
-(i) ‘approval’ means a decision by the Board under subparagraph (i), (ii), (iii) or (iv) of paragraph (a) of subsection (2L) in relation to an application for approval,
+(i) "approval" means a decision by the Board under subparagraph (i), (ii), (iii) or (iv) of paragraph (a) of subsection (2L) in relation to an application for approval,
 
-(ii) ‘Minister concerned’ means—
+(ii) "Minister concerned" means—
 
 (I) the Minister of the Government who proposes to carry out development referred to in this subsection or subsection (2)(a), or have it carried out on his or her behalf, or
 
@@ -44,9 +44,9 @@ Development by State authorities.
 
 (III) where a statutory undertaker proposes to carry out a development referred to in this subsection or subsection (2)(a), or have it carried out on its behalf, the Minister of the Government responsible for the enactment or instrument under an enactment by or under which the statutory undertaker is authorised, and
 
-(iii) ‘proposed development’ means development proposed to be carried out by or on behalf of a Minister of the Government, the Commissioners or a statutory undertaker under subsection (2)(a).
+(iii) "proposed development" means development proposed to be carried out by or on behalf of a Minister of the Government, the Commissioners or a statutory undertaker under subsection (2)(a).
 
-(aa) In this subsection, ‘enactment’ has the same meaning as it has in the Interpretation Act 2005.
+(aa) In this subsection, "enactment" has the same meaning as it has in the Interpretation Act 2005.
 
 (b) Where development is proposed to be carried out by or on behalf of a Minister concerned or a statutory undertaker pursuant to an order under subsection (2)(a) and the Minister concerned is satisfied, having had regard to Part X and Part XAB, that an environmental impact assessment or an appropriate assessment, or both such assessments of the proposed development is or are required, the Minister concerned shall prepare or cause to be prepared an application for approval, which shall include the documents and information referred to in paragraph (c), in respect of the development and shall apply to the Board for such approval.
 
@@ -198,7 +198,7 @@ Development by State authorities.
 
 (2Q) Nothing in subsections (2A) to (2AA) shall require the disclosure by a Minister of the Government, the Commissioners or the Board of details of the internal arrangements of a proposed development which might prejudice the internal or external security of the development or facilitate any unauthorised entrance to, or exit from, the development of any person when it is completed.
 
-(2R) (a) A Minister concerned who is considering whether to apply for approval for proposed development under subsection (2A) (referred to in this subsection and in subsections (2S), (2T), (2V) and (2W) as a ‘prospective applicant’) may, before making the application, enter into consultations with the Board in relation to the proposed development.
+(2R) (a) A Minister concerned who is considering whether to apply for approval for proposed development under subsection (2A) (referred to in this subsection and in subsections (2S), (2T), (2V) and (2W) as a "prospective applicant") may, before making the application, enter into consultations with the Board in relation to the proposed development.
 
 (b) The prospective applicant may notify the Board in writing of the intention of the prospective applicant to end the consultations with the Board referred to in paragraph (a) and, upon receipt of such notification by the Board, the consultations shall be deemed to have ended on the date of such receipt by the Board.
 
@@ -216,23 +216,23 @@ Development by State authorities.
 
 (b) Sections 176A and 176B shall apply to a determination of the Board referred to in paragraph (a)(i) subject to the following modifications:
 
-(i) in sections 176A and 176B, ‘planning authority’ or ‘authority’ shall be read as ‘the Board’;
+(i) in sections 176A and 176B, "planning authority" or "authority" shall be read as "the Board";
 
 (ii) in section 176A(3), as if the following were omitted:
 
-‘and be accompanied by such fee as may be prescribed under section 246(1)(ca)’;
+"and be accompanied by such fee as may be prescribed under section 246(1)(ca)";
 
 (iii) in section 176B(2)—
 
-(I) in paragraph (a), as if ‘4 weeks’ were substituted for ‘3 weeks’, and
+(I) in paragraph (a), as if "4 weeks" were substituted for "3 weeks", and
 
-(II) in paragraph (b), as if ‘5 weeks’ were substituted for ‘4 weeks’;
+(II) in paragraph (b), as if "5 weeks" were substituted for "4 weeks";
 
 (iv) in section 176B(4), as if paragraph (ii) were omitted;
 
 (v) in section 176B, as if the following subsection were substituted for subsection (4A):
 
-‘(4A) The notice under subsection (4) shall be placed with any application for approval under section 181(2A) subsequently made in respect of which an application for a screening for environmental impact assessment was made under section 176A(2).’;
+"(4A) The notice under subsection (4) shall be placed with any application for approval under section 181(2A) subsequently made in respect of which an application for a screening for environmental impact assessment was made under section 176A(2).";
 
 (vi) in section 176B(5)—
 
@@ -240,7 +240,7 @@ Development by State authorities.
 
 (II) as if the following paragraph were substituted for paragraph (ii):
 
-‘(ii) stating that a person may question the validity of the screening determination for environmental impact assessment by the Board, by way of an application for judicial review, under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986), in accordance with sections 50 and 50A,’;
+"(ii) stating that a person may question the validity of the screening determination for environmental impact assessment by the Board, by way of an application for judicial review, under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986), in accordance with sections 50 and 50A,";
 
 (vii) any other necessary modifications have been made.
 
@@ -272,9 +272,9 @@ Development by State authorities.
 
 (3)(a) In this subsection—
 
-‘foreshore’ has the meaning assigned to it by section 224;
+"foreshore" has the meaning assigned to it by section 224;
 
-‘Minister concerned’ means—
+"Minister concerned" means—
 
 (i) the Minister of the Government who proposes to carry out development to which this subsection applies, or have it carried out on his or her behalf, or
 
@@ -296,9 +296,9 @@ Development by State authorities.
 
 “(1) Where development to which section 181(3) applies, belonging to a class of development identified for the purposes of section 176, is proposed to be carried out (in this section referred to as “proposed development”) by the Minister concerned within the meaning of section 181(3) (in this section referred to as the “Minister concerned”), that Minister concerned shall prepare, or cause to be prepared, an environmental impact assessment report in respect thereof.”,
 
-(II) in the section, other than as modified under clause (I), ‘Minister concerned’ were substituted for ‘local authority’,
+(II) in the section, other than as modified under clause (I), "Minister concerned" were substituted for "local authority",
 
-(III) in subsections (4)(b) and (5)(d)(ii), ‘prescribed authorities’ and ‘prescribed authority’ includes the local authority within whose functional area the proposed development is to be carried out, and
+(III) in subsections (4)(b) and (5)(d)(ii), "prescribed authorities" and "prescribed authority" includes the local authority within whose functional area the proposed development is to be carried out, and
 
 (IV) any other necessary modifications have been made,
 
@@ -308,9 +308,9 @@ Development by State authorities.
 
 “(1) Where an appropriate assessment is required in respect of development to which section 181(3) applies, on land or on the foreshore (in this section referred to as “proposed development”), the Minister concerned within the meaning of section 181(3) (in this section referred to as the “Minister concerned”) shall prepare, or cause to be prepared, a Natura impact statement in respect thereof.”,
 
-(II) in the section, other than as modified under clause (I), ‘Minister concerned’ were substituted for ‘local authority’,
+(II) in the section, other than as modified under clause (I), "Minister concerned" were substituted for ‘local authority’,
 
-(III) in subsections (4)(b) and (5)(d)(ii), ‘prescribed authorities’ and ‘prescribed authority’ includes the local authority within whose functional area the proposed development is to be carried out, and
+(III) in subsections (4)(b) and (5)(d)(ii), "prescribed authorities" and "prescribed authority" includes the local authority within whose functional area the proposed development is to be carried out, and
 
 (IV) any other necessary modifications have been made,
 
@@ -320,7 +320,7 @@ Development by State authorities.
 
 “(1) Where an environmental impact assessment is required in respect of developments to which section 181(3) applies, on the foreshore (in this section referred to as “proposed development”), the Minister concerned within the meaning of section 181(3) (in this section referred to as the “Minister concerned”) shall apply to the Board for approval of the proposed development.”,
 
-(II) in the section, other than as modified under clause (I), ‘Minister concerned’ were substituted for ‘local authority concerned’,
+(II) in the section, other than as modified under clause (I), "Minister concerned" were substituted for "local authority concerned",
 
 (III) subsection 4 and paragraph (c) of subsection (9) were deleted, and
 

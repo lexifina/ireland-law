@@ -1,6 +1,6 @@
 Access to information (Part IIB)
 
-31AW. (1) The Office may appoint any person (in this section referred to as an ‘authorised person’) to carry out a review or examination authorised by this Chapter.
+31AW. (1) The Office may appoint any person (in this section referred to as an "authorised person") to carry out a review or examination authorised by this Chapter.
 
 (2) The planning authority or the Board shall supply the authorised person with such information, records, or documents relating to the performance by the planning authority or the Board of its functions as the authorised person may from time to time request.
 

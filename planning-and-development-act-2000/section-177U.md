@@ -32,7 +32,7 @@ Screening for appropriate assessment.
 
 (b) any notice that it issues under subsection (6) in relation to a proposed development.
 
-(8) In this section ‘consent for proposed development’ means, as appropriate—
+(8) In this section "consent for proposed development" means, as appropriate—
 
 (a) a grant of permission,
 

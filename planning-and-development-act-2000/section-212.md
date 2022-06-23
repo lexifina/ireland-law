@@ -30,7 +30,7 @@ Development by planning authority, etc.
 
 (4) A planning authority may use any of the powers available to it under any enactment, including any powers in relation to the compulsory acquisition of land, in relation to its functions under this section and in particular in order to facilitate the assembly of sites for the purposes of the orderly development of land.
 
-(5) In this section ‘Nature Conservation Site’ means—
+(5) In this section "Nature Conservation Site" means—
 
 (a) a European site,
 

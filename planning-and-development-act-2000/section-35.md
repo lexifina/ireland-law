@@ -4,7 +4,7 @@ Refusal of planning permission for past failures to comply.
 
 (a) any information furnished pursuant to regulations made under section 33(2)(l),
 
-(b) any information available to the planning authority concerning development carried out by a person to whom this section applies pursuant to a permission (in this section referred to as a ‘previous permission’ ) granted to the applicant or to any other person under this Part or Part IV of the Act of 1963,
+(b) any information available to the planning authority concerning development carried out by a person to whom this section applies pursuant to a permission (in this section referred to as a "previous permission") granted to the applicant or to any other person under this Part or Part IV of the Act of 1963,
 
 (c) any information otherwise available to the planning authority concerning a substantial unauthorised development, or
 

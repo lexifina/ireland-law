@@ -10,9 +10,9 @@ Information and records to be made available to Office
 
 (5) In this section—
 
-‘company’ has the meaning assigned to it by the Companies Act 2014;
+"company" has the meaning assigned to it by the Companies Act 2014;
 
-‘public body’ means—
+"public body" means—
 
 (a) a Department of State,
 

@@ -1,6 +1,6 @@
 Application
 
-182C.— (1) Where a person (hereafter referred to in this section as the ‘undertaker’) intends to carry out a strategic gas infrastructure development (hereafter referred to in this section and section 182D as ‘proposed development’) , and where the Board determines following consultations under section 182E that the development comes within paragraph (a), (b) or (c) of section 37A(2), the undertaker shall prepare, or cause to be prepared—
+182C.— (1) Where a person (hereafter referred to in this section as the "undertaker") intends to carry out a strategic gas infrastructure development (hereafter referred to in this section and section 182D as "proposed development") , and where the Board determines following consultations under section 182E that the development comes within paragraph (a), (b) or (c) of section 37A(2), the undertaker shall prepare, or cause to be prepared—
 
 (a) an application for approval of the development under section 182D, and
 
@@ -136,10 +136,10 @@ Application
 
 (9F) In subsection (9E)—
 
-(a) ‘Act of 1999’ means the Electricity Regulation Act 1999;
+(a) "Act of 1999" means the Electricity Regulation Act 1999;
 
 (b) a term or expression used in that subsection has the same meaning as it has in Part IIA of the Electricity Regulation Act 1999.
 
 (10) The Minister, after consultation with the Minister for Communications, Marine and Natural Resources, may make regulations to provide for matters of procedure in relation to the making of a request of the Commission under subsection (9) and the making of observations by the Commission on foot of such a request.
 
-(11) In this section ‘Commission’ means the Commission for Energy Regulation.
+(11) In this section "Commission" means the Commission for Energy Regulation.

@@ -18,4 +18,4 @@ Office to have regard to certain policies and objectives and to requirements
 
 (iv) the Birds Directives, in so far as those requirements relate to planning authorities by virtue of being designated as competent authorities for the purposes of those acts.
 
-(2) In this section ‘public authority’ means any body established by or under statute which is for the time being declared, by regulations made by the Minister, to be a public authority for the purposes of this section.
+(2) In this section "public authority" means any body established by or under statute which is for the time being declared, by regulations made by the Minister, to be a public authority for the purposes of this section.

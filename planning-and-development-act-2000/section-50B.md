@@ -36,6 +36,6 @@ Costs in environmental matters.
 
 (4) Subsection (2) does not affect the Court’s entitlement to award costs in favour of a party in a matter of exceptional public importance and where in the special circumstances of the case it is in the interests of justice to do so.
 
-(5) In this section a reference to ‘the Court’ shall be construed as, in relation to particular proceedings to which this section applies, a reference to the High Court or the Supreme Court, as may be appropriate.
+(5) In this section a reference to "the Court" shall be construed as, in relation to particular proceedings to which this section applies, a reference to the High Court or the Supreme Court, as may be appropriate.
 
-(6) In this section ‘statutory provision’ means a provision of an enactment or instrument under an enactment.
+(6) In this section "statutory provision" means a provision of an enactment or instrument under an enactment.

@@ -30,7 +30,7 @@ Injunctions in relation to unauthorised development.
 
 (d) Where the market value of any land which is the subject of an application under this section exceeds €3,000,000, the Circuit Court shall, if an application is made to it in that behalf by any person having an interest in the proceedings, transfer the proceedings to the High Court, but any order made or act done in the course of such proceedings before the transfer shall be valid unless discharged or varied by the High Court by order.
 
-(e) In this subsection ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.
+(e) In this subsection "market value" means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.
 
 (6) (a) An application to the High Court or Circuit Court for an order under this section shall not be made—
 

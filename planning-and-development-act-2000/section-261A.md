@@ -48,7 +48,7 @@ Further matters in relation to control of quarries.
 
 (v) any other relevant information.
 
-(3) (a) Where a planning authority makes a determination under subsection (2)(a) that subparagraph (i) or (ii) or both, if applicable, of that paragraph apply in relation to a quarry (in this section referred to as a ‘determination under subsection (2)(a)’), and the authority also decides that—
+(3) (a) Where a planning authority makes a determination under subsection (2)(a) that subparagraph (i) or (ii) or both, if applicable, of that paragraph apply in relation to a quarry (in this section referred to as a " determination under subsection (2)(a) "), and the authority also decides that—
 
 (i) either the quarry commenced operation before 1 October 1964 or permission was granted in respect of the quarry under Part III of this Act or Part IV of the Act of 1963, and
 

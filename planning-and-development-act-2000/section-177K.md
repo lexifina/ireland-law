@@ -1,6 +1,8 @@
 Decision of Board.
 
-177K.— (1) Where an application is made to the Board for substitute consent in accordance with this Act and regulations under this Act— ( a) the Board shall ensure that it has, or has access to, sufficient expertise to enable it to examine the remedial environmental impact assessment report and ensure its adequacy, and
+177K.— (1) Where an application is made to the Board for substitute consent in accordance with this Act and regulations under this Act—
+
+(a) the Board shall ensure that it has, or has access to, sufficient expertise to enable it to examine the remedial environmental impact assessment report and ensure its adequacy, and
 
 (b) the Board may, subject to subsection (1A)—
 

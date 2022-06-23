@@ -14,7 +14,7 @@ Judicial review of applications,appeals,referrals and other matters.
 
 (i) the competent authority (within the meaning of the Aircraft Noise (Dublin Airport) Regulation Act 2019), or
 
-(ii) the Board in its capacity as the appeal body from decisions of such competent authority, otherwise than by way of an application for judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) (the ‘Order’).
+(ii) the Board in its capacity as the appeal body from decisions of such competent authority, otherwise than by way of an application for judicial review under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986) (the "Order").
 
 (3) Subsection (2)(a) does not apply to an approval or consent referred to in Chapter I or II of Part VI.
 

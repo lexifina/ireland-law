@@ -10,7 +10,7 @@ Board’s jurisdiction in relation to certain planning applications.
 
 (c) the development would have a significant effect on the area of more than one planning authority.
 
-(3) In subsection (2) ‘prospective applicant’ means the person referred to in section 37B(1).
+(3) In subsection (2) "prospective applicant" means the person referred to in section 37B(1).
 
 (4) (a) Notwithstanding subsection (1), where an application for permission is being made in relation to a development specified in the Seventh Schedule that is located in a strategic development zone, the applicant may elect to make the application to the planning authority under section 34 and regulations made thereunder.
 

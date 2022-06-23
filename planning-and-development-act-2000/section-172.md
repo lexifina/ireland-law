@@ -34,7 +34,7 @@ Requirement for environmental impact statement.
 
 (1A) In subsection (1)—
 
-(a) ‘proposed development’ means—
+(a) "proposed development" means—
 
 (i) a proposal to carry out one of the following:
 
@@ -52,7 +52,7 @@ Requirement for environmental impact statement.
 
 (ii) notwithstanding that development has been carried out, development in relation to which an application for substitute consent is required under Part XA;
 
-(b) ‘consent for proposed development’ means, as appropriate—
+(b) "consent for proposed development" means, as appropriate—
 
 (i) grant of permission;
 

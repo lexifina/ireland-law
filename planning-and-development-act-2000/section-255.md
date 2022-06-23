@@ -18,7 +18,7 @@ Performance of functions by planning authorities.
 
 (d) there are serious diseconomies or inefficiencies in the conduct of its functions by a planning authority, he or she may, where he or she considers it necessary or appropriate, for stated reasons appoint a commissioner to carry out and have full responsibility for all or any one or more of the functions of the planning authority under this Act and in doing so may distinguish between reserved functions and other functions.
 
-(4A) In subsection (4) ‘information available to him or her’ includes any information or recommendation of the Office of the Planning Regulator having regard to—
+(4A) In subsection (4) "information available to him or her" includes any information or recommendation of the Office of the Planning Regulator having regard to—
 
 (a) a draft report under subsection (4) of section 31AS or, where the report has been finalised, in the report under subsection (6) of that section,
 

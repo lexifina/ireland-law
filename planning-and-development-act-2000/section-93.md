@@ -4,11 +4,11 @@ Interpretation.
 
 93.—(1) In this Part—
 
-‘cost rental housing’ means housing comprising cost rental dwellings within the meaning of Part 3 of the Affordable Housing Act 2021;
+"cost rental housing" means housing comprising cost rental dwellings within the meaning of Part 3 of the Affordable Housing Act 2021;
 
-‘housing strategy’ means a strategy included in a development plan in accordance with section 94(1);
+"housing strategy" means a strategy included in a development plan in accordance with section 94(1);
 
-'market value’—
+"market value"—
 
 (a) in relation to a house, means the price which the unencumbered fee simple of the house would fetch if sold on the open market, and
 

@@ -34,12 +34,12 @@ Area of special planning control.
 
 (6) In this section, and sections 85 and 86—
 
-‘city’ means—
+"city" means—
 
 (a) the administrative area of a city council,
 
 (b) a municipal district that includes the area of a city to which subsection (6) of section 10 (inserted by the Local Government Reform Act 2014) of the Local Government Act 2001 relates;
 
-‘municipal district’ has the meaning given to it by section 22A (inserted by the Local Government Reform Act 2014) of the Local Government Act 2001;
+"municipal district" has the meaning given to it by section 22A (inserted by the Local Government Reform Act 2014) of the Local Government Act 2001;
 
-‘town’ means a municipal district with a population in excess of 2,000 that is not a municipal district to which paragraph (b) of the definition of ‘city’ relates.
+"town" means a municipal district with a population in excess of 2,000 that is not a municipal district to which paragraph (b) of the definition of "city" relates.

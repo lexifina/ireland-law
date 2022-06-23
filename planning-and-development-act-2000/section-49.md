@@ -2,7 +2,7 @@ Supplementary development contribution schemes.
 
 49.—(1) A planning authority may, when granting a permission under section 34, include conditions requiring the payment of a contribution in respect of any public infrastructure service or project—
 
-(a) specified in a scheme made by the planning authority (in this section referred to as a ‘supplementary development contribution scheme’),
+(a) specified in a scheme made by the planning authority (in this section referred to as a "supplementary development contribution scheme"),
 
 (b) provided or carried out or proposed to be provided or carried out—
 
@@ -14,7 +14,7 @@ Supplementary development contribution schemes.
 
 (c) that will benefit the development to which the permission relates when carried out.
 
-(1A) In this section, ‘public authority’ means any body established by or under statute which is for the time being declared, by regulations made by the Minister, to be a public authority for the purposes of this section.
+(1A) In this section, "public authority" means any body established by or under statute which is for the time being declared, by regulations made by the Minister, to be a public authority for the purposes of this section.
 
 (2) (a) The amount, and manner of payment, of a contribution under subsection (1) shall be determined in accordance with a supplementary development contribution scheme.
 

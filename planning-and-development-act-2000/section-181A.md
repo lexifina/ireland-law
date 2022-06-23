@@ -6,7 +6,7 @@ Approval of certain State development requiring environmental impact assessment.
 
 (b) identified as likely to have significant effects on the environment or adverse effects on the integrity of a European site, as the case may be, in accordance with section 176,
 
-(hereafter referred to in this section and sections 181B and 181C as ‘proposed development’), the authority shall prepare, or cause to be prepared, an application for approval of the development under section 181B and an environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, in respect of the development and shall apply to the Board for such approval accordingly.
+(hereafter referred to in this section and sections 181B and 181C as "proposed development"), the authority shall prepare, or cause to be prepared, an application for approval of the development under section 181B and an environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, in respect of the development and shall apply to the Board for such approval accordingly.
 
 (2) Subject to section 181B(4), the proposed development shall not be carried out unless the Board has approved it with or without modifications.
 

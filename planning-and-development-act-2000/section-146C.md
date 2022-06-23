@@ -4,7 +4,7 @@ Preparation of environmental impact statement for purposes of section 146B.
 
 (2) In a case to which this section applies, the Board shall require the person who made the request under section 146B
 
-(‘the requester’) to prepare an environmental impact assessment report in relation to the proposed alteration of the terms of the development concerned and, in this subsection and the following subsections of this section, ‘proposed alteration of the terms of the development concerned’ means—
+("the requester") to prepare an environmental impact assessment report in relation to the proposed alteration of the terms of the development concerned and, in this subsection and the following subsections of this section, "proposed alteration of the terms of the development concerned" means—
 
 (a) the alteration referred to in subsection (3)(b)(ii)(I) of that section, and
 
@@ -68,7 +68,7 @@ Preparation of environmental impact statement for purposes of section 146B.
 
 (b) where such alteration is likely to have significant effects on the environment in another Member State of the European Communities, or a state which is a party to the Transboundary Convention, the views of such Member State or party;
 
-(c) the development plan or plans for the area in which the development concerned is proposed to be, or is being, carried out (referred to subsequently in this subsection as ‘the area’);
+(c) the development plan or plans for the area in which the development concerned is proposed to be, or is being, carried out (referred to subsequently in this subsection as "the area");
 
 (d) the provisions of any special amenity area order relating to the area;
 

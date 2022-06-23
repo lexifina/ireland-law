@@ -158,7 +158,7 @@ Making of development plan.
 
 (17) A development plan made under this section shall have effect 6 weeks from the day that it is made.
 
-(18) In this section ‘statutory obligations’ includes, in relation to a local authority, the obligation to ensure that the development plan is consistent with—
+(18) In this section "statutory obligations" includes, in relation to a local authority, the obligation to ensure that the development plan is consistent with—
 
 (a) the national and regional development objectives specified in—
 

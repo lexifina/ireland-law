@@ -20,7 +20,7 @@ Corporate strategy of Office
 
 (3) Within 3 months of the preparation of the statement of strategy for the purposes of subsection (1), the Office shall cause copies of it to be submitted to the Minister and laid before each House of the Oireachtas.
 
-(4) In this section ‘principal activities’ includes the following:
+(4) In this section "principal activities" includes the following:
 
 (a) any observations and recommendations issued in respect of—
 

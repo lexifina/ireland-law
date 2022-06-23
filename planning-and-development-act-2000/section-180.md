@@ -38,16 +38,16 @@ Taking in charge of estates.
 
 (c) A planning authority that is not a water services authority within the meaning of section 2 of the Act of 2007 shall not take in charge any sewers, watermains or service connections under paragraph (a)(i) or (b)(i), but shall request the relevant water services authority to do so.
 
-(d) In paragraph (a)(ii), ‘public open spaces’ or ‘public car parks’ means open spaces or car parks to which the public have access whether as of right or by permission.
+(d) In paragraph (a)(ii), "public open spaces" or "public car parks" means open spaces or car parks to which the public have access whether as of right or by permission.
 
-(e) In this subsection, ‘public open spaces’ means open spaces or car parks to which the public have access whether as of right or by permission.
+(e) In this subsection, "public open spaces" means open spaces or car parks to which the public have access whether as of right or by permission.
 
 (5) Where a planning authority acts in compliance with this section, references in section 11 of the Roads Act, 1993, to a road authority shall be deemed to include references to a planning authority.
 
-(6) In this section ‘appropriate period’ has the meaning given to the term in section 40, as extended under section 42 or 42A as the case may be.
+(6) In this section "appropriate period" has the meaning given to the term in section 40, as extended under section 42 or 42A as the case may be.
 
 (7) This section applies to that part of a development for which permission is granted under section 9 of the Planning and Development (Housing) and Residential Tenancies Act 2016 that relates to the construction of houses and the provision of—
 
 (a) new roads, open spaces or car parks, or
 
-(b) sewers, water mains or service connections, within the meaning of the Water Services Act 2007, relating to such houses and references to ‘development’ in other provisions of this section shall be read accordingly.
+(b) sewers, water mains or service connections, within the meaning of the Water Services Act 2007, relating to such houses and references to "development" in other provisions of this section shall be read accordingly.

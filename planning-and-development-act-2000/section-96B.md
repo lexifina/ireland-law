@@ -2,15 +2,15 @@ Levy to be paid in consideration of restoration effected by section 96A.
 
 96B.—(1) In this section—
 
-‘house’ means—
+"house" means—
 
 (a) a building or part of a building which has been built for use as a dwelling, and
 
 (b) in the case of a block of apartments or other building or part of a building comprising 2 or more dwellings, each of those dwellings;
 
-‘market value’, in relation to a house, means the price which the house might reasonably be expected to fetch on a sale in the open market;
+"market value", in relation to a house, means the price which the house might reasonably be expected to fetch on a sale in the open market;
 
-‘relevant house’ means a house, permission for which would have ceased to have effect or expired but for section 4 of the Planning and Development (Amendment) Act, 2002.
+"relevant house" means a house, permission for which would have ceased to have effect or expired but for section 4 of the Planning and Development (Amendment) Act, 2002.
 
 (2) There shall be deemed to be attached to a permission referred to in section 96A a condition providing that there shall, in accordance with subsections (3) to (5), be paid to the planning authority an amount in respect of—
 
@@ -72,4 +72,4 @@ Levy to be paid in consideration of restoration effected by section 96A.
 
 (10) This section shall not apply to permissions for development consisting of the provision of 4 or less houses, or for housing on land of 0.1 hectares or less.
 
-(11) For the avoidance of doubt, in this section ‘sale’, in relation to a house, includes any transaction or series of transactions whereby the vesting by the builder in another person of the interest in the land on which the house is built by the builder is effected separately from the conclusion of the arrangements under which the house is built for that other person by the builder.
+(11) For the avoidance of doubt, in this section "sale", in relation to a house, includes any transaction or series of transactions whereby the vesting by the builder in another person of the interest in the land on which the house is built by the builder is effected separately from the conclusion of the arrangements under which the house is built for that other person by the builder.

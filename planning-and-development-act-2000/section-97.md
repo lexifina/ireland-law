@@ -70,9 +70,7 @@ Development to which section 96 shall not apply.
 
 (I) the aggregate of any development to which paragraph (a) or (b) relates and the first-mentioned development would not, if carried out, exceed 4 houses, or
 
-(II) (in circumstances where the said aggregate would exceed 4 houses) the aggregate of the land on which any development to which paragraph
-
-(a) or (b) relates, and the land on which it is proposed to carry out the first-mentioned development, does not exceed 0.1 hectares.
+(II) (in circumstances where the said aggregate would exceed 4 houses) the aggregate of the land on which any development to which paragraph (a) or (b) relates, and the land on which it is proposed to carry out the first-mentioned development, does not exceed 0.1 hectares.
 
 (13) Where a planning authority refuses to grant a certificate, it shall by notice in writing inform the applicant of the reasons for its so refusing.
 

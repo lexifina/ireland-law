@@ -160,7 +160,7 @@ Supplementary provisions relating to operating restriction included in planning 
 
 (23) In this section—
 
-‘relevant action’, in relation to a relevant operating restriction the subject of a relevant application, means—
+"relevant action", in relation to a relevant operating restriction the subject of a relevant application, means—
 
 (a) to revoke the operating restriction,
 
@@ -174,11 +174,11 @@ Supplementary provisions relating to operating restriction included in planning 
 
 (f) to take an action referred to in paragraph (a), (b), (c), (d) or (e) together with revoking, revoking and replacing, or amending the terms of, a condition of the relevant permission;
 
-‘relevant application’ means an application referred to in subsection (1)(a);
+"relevant application" means an application referred to in subsection (1)(a);
 
-‘relevant operating restriction’, in relation to a relevant permission, means an operating restriction included in that permission;
+"relevant operating restriction", in relation to a relevant permission, means an operating restriction included in that permission;
 
-‘relevant permission’ means a permission granted under section 34—
+"relevant permission" means a permission granted under section 34—
 
 (a) for development at the airport, and
 

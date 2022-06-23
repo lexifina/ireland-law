@@ -108,7 +108,7 @@ Variation of development plan.
 
 (13) An appropriate assessment of a draft variation of a development plan shall be carried out in accordance with Part XAB.
 
-(14) In this section ‘statutory obligations’ includes, in relation to a local authority, the obligation to ensure that the development plan is consistent with—
+(14) In this section "statutory obligations" includes, in relation to a local authority, the obligation to ensure that the development plan is consistent with—
 
 (a) the national and regional development objectives specified in—
 

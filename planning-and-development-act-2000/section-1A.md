@@ -12,7 +12,9 @@ Environmental Impact Assessment Directive
 
 Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment
 
-Habitats Directive Major Accidents Directive
+Habitats Directive
+
+Major Accidents Directive
 
 Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy
 

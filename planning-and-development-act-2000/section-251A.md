@@ -40,4 +40,4 @@ Calculation of time limits during emergency.
 
 (6) The date that shall be specified by order under subsection (3), or that may be specified by order under subsection (4), as the date on which the period to be disregarded under subsection (1) shall end, shall be a date not later than the 9th day of November 2020.
 
-(7) In this section ‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations.
+(7) In this section "Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations.

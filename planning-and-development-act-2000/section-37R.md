@@ -100,10 +100,10 @@ Supplementary provisions relating to decisions on applications referred to in se
 
 (14) In this section—
 
-‘related report (subsection (4)(b))’ means the report (if any) prepared by the Board pursuant to subsection (4)(b);
+"related report (subsection (4)(b))" means the report (if any) prepared by the Board pursuant to subsection (4)(b);
 
-‘related report (subsection (7)(a))’ means the report prepared by the Board pursuant to subsection (7)(a);
+"related report (subsection (7)(a))" means the report prepared by the Board pursuant to subsection (7)(a);
 
-‘relevant appeal’ means an appeal referred to in subsection (1)(a);
+"relevant appeal" means an appeal referred to in subsection (1)(a);
 
-‘relevant regulatory decision’, in relation to a relevant appeal, means the relevant regulatory decision referred to in subsection (1) which is incorporated into the planning authority’s decision under section 34 that is the subject of the relevant appeal.
+"relevant regulatory decision", in relation to a relevant appeal, means the relevant regulatory decision referred to in subsection (1) which is incorporated into the planning authority’s decision under section 34 that is the subject of the relevant appeal.

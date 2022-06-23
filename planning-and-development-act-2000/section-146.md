@@ -8,7 +8,7 @@ Reports and documents of the Board.
 
 (a) is required by or under this Act or that other enactment to supply to any person documents, maps, particulars or other information in relation to the matter, or
 
-(b) considers it appropriate, in the exercise of its discretion, to supply to any person such documents, maps, particulars or information (‘relevant material or information’), subsection (4) applies as regards compliance with that requirement or such supply in the exercise of that discretion.
+(b) considers it appropriate, in the exercise of its discretion, to supply to any person such documents, maps, particulars or information ("relevant material or information"), subsection (4) applies as regards compliance with that requirement or such supply in the exercise of that discretion.
 
 (4) It shall be sufficient compliance with the requirement referred to in subsection (3) for the Board—
 

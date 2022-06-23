@@ -88,4 +88,4 @@ Alteration by Board of strategic infrastructure development on request made of i
 
 (c) The Board shall notify any person who made a submission or observation to it in accordance with that invitation of its determination under subsection (3)(b)(ii) or (4).
 
-(9) In this section ‘term’ has the same meaning as it has in section 146A.
+(9) In this section "term" has the same meaning as it has in section 146A.

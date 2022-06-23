@@ -138,7 +138,7 @@ Content of development plans.
 
 (2B) The information referred to in subparagraphs (vii) to (ix) of paragraph (f) and in paragraph (g) shall also be represented in the core strategy by a diagrammatic map or other such visual representation.
 
-(2C) In subsection (2A)(f) ‘settlement hierarchy’ means a rank given by a planning authority to a city or town in the area of its development plan, with a population that exceeded 1,500 persons in the census of population most recently published before the making by the planning authority of the hierarchy, and given on the basis of—
+(2C) In subsection (2A)(f) " settlement hierarchy " means a rank given by a planning authority to a city or town in the area of its development plan, with a population that exceeded 1,500 persons in the census of population most recently published before the making by the planning authority of the hierarchy, and given on the basis of—
 
 (a) its designation as a gateway city or town or as a hub town, as the case may be, under the National Planning Framework,
 
@@ -164,4 +164,4 @@ Content of development plans.
 
 (9) Nothing in this section shall affect the existence or validity of any public right of way.
 
-(10) No objective included in a development plan under this section shall be construedas affecting the power of a local authority to extinguish a public right of way under section 73 of the Roads Act 1993.
+(10) No objective included in a development plan under this section shall be construed as affecting the power of a local authority to extinguish a public right of way under section 73 of the Roads Act 1993.

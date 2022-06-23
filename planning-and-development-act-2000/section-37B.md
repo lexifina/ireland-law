@@ -2,7 +2,7 @@ Discussions with Board before making of application.
 
 37B.— (1) A person who proposes to apply for permission for any development specified in the Seventh Schedule shall, before making the application, enter into consultations with the Board in relation to the proposed development.
 
-(2) Such a person is referred to subsequently in this section and in sections 37C and 37D as a ‘prospective applicant’.
+(2) Such a person is referred to subsequently in this section and in sections 37C and 37D as a "prospective applicant".
 
 (3) In any consultations under subsection (1), the Board may give advice to the prospective applicant regarding the proposed application and, in particular, regarding—
 
@@ -24,4 +24,4 @@ Discussions with Board before making of application.
 
 (7) No application for permission in respect of a development referred to in subsection (1) shall be made to a planning authority unless or until a notice is served under subsection (4)(b) in relation to the development.
 
-(8) In this section ‘appropriate planning authority’ means whichever planning authority would, but for the enactment of section 3 of the Planning and Development (Strategic Infrastructure) Act 2006, be the appropriate planning authority to deal with the application referred to in subsection (1).
+(8) In this section "appropriate planning authority" means whichever planning authority would, but for the enactment of section 3 of the Planning and Development (Strategic Infrastructure) Act 2006, be the appropriate planning authority to deal with the application referred to in subsection (1).

@@ -10,7 +10,7 @@ Revocation of planning scheme.
 
 ## PART X ENVIRONMENTAL IMPACT ASSESSMENT
 
-‘environmental impact assessment’ means a process—
+"environmental impact assessment" means a process—
 
 (a) consisting of—
 
@@ -46,4 +46,4 @@ Revocation of planning scheme.
 
 (ii) as regards the factors mentioned in subparagraph (i)(I) to (V), such examination, analysis and evaluation of the expected direct and indirect significant effects on the environment derived from the vulnerability of the proposed development to risks of major accidents or disasters, or both major accidents and disasters, that are relevant to that development;
 
-‘proposed development’ means proposed development within the meaning of section 172(1A)(a).
+"proposed development" means proposed development within the meaning of section 172(1A)(a).

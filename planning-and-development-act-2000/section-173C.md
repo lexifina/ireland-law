@@ -46,7 +46,7 @@ Environmental impact assessment relating to waste water discharges.
 
 (10) In this section –
 
-‘permission’ means –
+"permission" means –
 
 (a) permission under Part III,
 
@@ -54,6 +54,6 @@ Environmental impact assessment relating to waste water discharges.
 
 (c) substitute consent under section 177K;
 
-‘Regulations of 2007’ means the Waste Water Discharge (Authorisation) Regulations 2007 (S.I. No. 684 of 2007);
+"Regulations of 2007" means the Waste Water Discharge (Authorisation) Regulations 2007 (S.I. No. 684 of 2007);
 
-‘Regulations of 2020’ means the European Union (Waste Water Discharge) Regulations 2020.
+"Regulations of 2020" means the European Union (Waste Water Discharge) Regulations 2020.
