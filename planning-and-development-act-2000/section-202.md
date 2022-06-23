@@ -18,7 +18,7 @@ Area of special amenity.
 
 (4) An order under this section shall come into operation on being confirmed, whether with or without modification, under section 203.
 
-(5) Where the functional areas of two planning authorities are continuous, either authority may, with the consent of the other, make an order under this section in respect of an area in or partly in the functional area of the other.
+(5) Where the functional areas of two planning authorities are contiguous, either authority may, with the consent of the other, make an order under this section in respect of an area in or partly in the functional area of the other.
 
 (6) Any order under this section may be revoked or varied by a subsequent order under this section.
 

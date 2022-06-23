@@ -1,12 +1,8 @@
 Procedures in advance of seeking approval under section 182B or 182D.
 
-182E.— (1) A person (a ‘prospective applicant’) who proposes to apply for approval
+182E.— (1) A person (a "prospective applicant") who proposes to apply for approval under section 182B or 182D shall, before making the application, enter into consultations with the Board in relation to the proposed development.
 
-Procedures in under section 182B or 182D shall, before making the application, enter into advance of consultations with the Board in relation to the proposed development. seeking approval
-
-(2) In any consultations under subsection (1), the Board may give advice to the under section 182B or prospective applicant regarding the proposed application and, in particular, regarding—
-
-182D.
+(2) In any consultations under subsection (1), the Board may give advice to the prospective applicant regarding the proposed application and, in particular, regarding—
 
 (a) the procedures involved in making such an application, and
 
