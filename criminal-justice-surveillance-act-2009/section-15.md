@@ -2,11 +2,11 @@ Disclosure of information.
 
 15.— (1) Unless authorised by the court, the existence or non-existence of the following shall not be disclosed by way of discovery or otherwise in the course of any proceedings:
 
-(a) an application under section 4 or 6 ;
+(a) an application under section 4 or 6;
 
 (b) an authorisation;
 
-(c) an approval granted under section 7 or 8 ;
+(c) an approval granted under section 7 or 8;
 
 (d) surveillance carried out under an authorisation or under an approval granted under section 7;
 
@@ -14,7 +14,7 @@ Disclosure of information.
 
 (f) documentary or other information or evidence in relation to—
 
-(i) the decision to apply for an authorisation or an approval under section 7 or 8 , or
+(i) the decision to apply for an authorisation or an approval under section 7or 8 , or
 
 (ii) anything referred to in paragraphs (a) to (e).
 

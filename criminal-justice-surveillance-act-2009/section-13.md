@@ -1,6 +1,6 @@
 Confidentiality of information.
 
-13.— (1) A person shall not disclose, inside or outside the State, any information in connection with the operation of this Act in relation to surveillance carried out under an authorisation or under an approval granted in accordance with section 7 or 8 , including any information or documents obtained as a result of such surveillance, or reveal the existence of an application for the issue of an authorisation, the variation or renewal of an authorisation under section 6 or the grant of an approval under section 7 or 8 , unless the disclosure is to an authorised person and is—
+13.— (1) A person shall not disclose, inside or outside the State, any information in connection with the operation of this Act in relation to surveillance carried out under an authorisation or under an approval granted in accordance with section 7 or 8, including any information or documents obtained as a result of such surveillance, or reveal the existence of an application for the issue of an authorisation, the variation or renewal of an authorisation under section 6 or the grant of an approval under section 7 or 8, unless the disclosure is to an authorised person and is—
 
 (a) for the purposes of the prevention, investigation or detection of crime,
 

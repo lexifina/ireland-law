@@ -8,9 +8,9 @@ Interpretation.
 
 “authorisation” means an authorisation for the carrying out of surveillance issued under section 5 or varied or renewed under section 6;
 
-‘chairperson’, in relation to the Ombudsman Commission, means the member of the Ombudsman Commission who is appointed or acting as its chairperson under section 65 of the Garda Síochána Act 2005;
+"chairperson", in relation to the Ombudsman Commission, means the member of the Ombudsman Commission who is appointed or acting as its chairperson under section 65 of the Garda Síochána Act 2005;
 
-‘designated officer of the Ombudsman Commission’ means—
+"designated officer of the Ombudsman Commission" means—
 
 (a) an officer of the Ombudsman Commission, or
 
@@ -28,11 +28,11 @@ Interpretation.
 
 “member of the Garda Síochána” means a member of the Garda Síochána within the meaning of section 3 of the Garda Síochána Act 2005, other than a person referred to in paragraph (b) of that definition;
 
-‘member of the Ombudsman Commission’ means a member of the Ombudsman Commission appointed under section 65 of the Garda Síochána Act 2005;
+"member of the Ombudsman Commission" means a member of the Ombudsman Commission appointed under section 65 of the Garda Síochána Act 2005;
 
 “Minister” means the Minister for Justice, Equality and Law Reform;
 
-‘Ombudsman Commission’ means the Garda Síochána Ombudsman Commission;
+"Ombudsman Commission" means the Garda Síochána Ombudsman Commission;
 
 “place” includes—
 
