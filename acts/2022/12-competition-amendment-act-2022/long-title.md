@@ -1,0 +1,11 @@
+Number 12 of 2022
+
+COMPETITION (AMENDMENT) ACT 2022
+
+An Act to give effect to the implementation of Directive (EU) 2019/1 of the European Parliament and of the Council of 11 December 201811 OJ No. L 11 14.1.2019, p. 3
+
+to empower the competition authorities of the Member States to be more effective enforcers and to ensure the proper functioning of the internal market; for that purpose to provide for a system of non‑criminal enforcement of certain provisions of competition law, including the appointment and empowerment of independent adjudication officers, and the issuing of prohibition notices in response to certain suspected infringements of competition law; to provide for a system of enforcement and non-criminal penalties in relation to certain breaches of competition law, including by the imposition of non-criminal structural and behavioural remedies and certain non-criminal financial sanctions, and to provide for processes by which such non-criminal sanctions may be appealed, remitted or confirmed by the High Court; to provide for a leniency programme in relation to certain undertakings; to provide for cooperation between competition authorities in the European Union and certain bodies in the State; to increase the penalties for certain criminal offences for breach of competition law; to provide additional powers of surveillance to the Competition and Consumer Protection Commission in relation to the investigation of certain criminal offences; to amend certain provisions relating to the procedure for notifying mergers to the relevant authorities; to make provision relating to the period of time within which certain proceedings relating to competition law may be brought; to make further provision regarding the power of the National Standards Authority of Ireland to charge fees in respect of certain matters; for those and other purposes to amend the Competition Act 2002, the Competition and Consumer Protection Act 2014, the Communications Regulation Act 2002, the Consumer Protection Act 2007, the National Standards Authority of Ireland Act 1996 and the Criminal Justice (Surveillance) Act 2009; and to provide for related matters.
+
+[29th June, 2022]
+
+Be it enacted by the Oireachtas as follows:
