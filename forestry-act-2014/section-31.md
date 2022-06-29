@@ -1,5 +1,3 @@
-## PART 10 MISCELLANEOUS
-
 Repeal of Forestry Act 1946, etc.
 
 31. (1) The Forestry Act 1946 is repealed.

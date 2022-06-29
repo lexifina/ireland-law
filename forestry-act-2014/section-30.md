@@ -122,7 +122,7 @@ Regulations
 
 (8) The Minister may make regulations for the purpose of giving effect to a provision of the treaties governing the European Union, or an act adopted by an institution of or the European Union, relating to forestry and forestry-related activities, including—
 
-(a) the implementation of Council Directive 1999/105/EC of 22 December 1993 on the marketing of forest reproductive material,
+(a) the implementation of Council Directive 1999/105/EC of 22 December 1993on the marketing of forest reproductive material,
 
 (b) the establishment of procedures for afforestation and forest road works in respect of development consent (within the meaning of Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment),
 
@@ -143,3 +143,5 @@ Regulations
 (c) apply either generally or to such class or classes of trees, persons, places or activities as may be specified in the regulations, and
 
 (d) prescribe persons to perform the functions of a competent authority for the purposes of the regulations and the provision of the treaties governing the European Union or act adopted by an institution of the European Union to which the regulations give effect.
+
+## PART 10 MISCELLANEOUS

@@ -1,6 +1,6 @@
 Minister may appoint committees
 
-8. (1) The Minister may establish one or more committees to assist and advise him or her in the performance of any of his or her functionsunder the relevant statutory provisions.
+8. (1) The Minister may establish one or more committees to assist and advise him or her in the performance of any of his or her functions under the relevant statutory provisions.
 
 (2) The Minister may, subject to—
 
