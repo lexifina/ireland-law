@@ -31,5 +31,3 @@ Specific functions of Minister
 (j) prescribe forms for the purposes of the Forestry Acts 1988 to 2014, and
 
 (k) make regulations relating to any of the foregoing functions.
-
-6A....

@@ -1,0 +1,3 @@
+Minister not authorised to dispose of State minerals
+
+6A. ...
