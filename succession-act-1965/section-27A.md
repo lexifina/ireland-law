@@ -1,4 +1,4 @@
-F15[Entitlement to grant of probate or administration.
+F18[Entitlement to grant of probate or administration.
 
 27A.—(1)Subject to subsection (2), for the purpose of the application of section 26 or 27 in respect of the estate of a deceased person, the deceased shall be presumed, unless the contrary is shown, not to have been survived by any person related to him whose parents have not married each other or whose parents are not civil partners of each other or by any person whose relationship with the deceased is deduced through a person whose parents have not married each other or whose parents are not civil partners of each other.
 
