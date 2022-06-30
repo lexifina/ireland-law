@@ -1,6 +1,6 @@
 F6[Succession rights.
 
-4A.—(1) Subject to subsection (1A), in deducing any relationship for the purposes of this Act, the relationship between every person and his father and mother shall, subject to section 27A of this Act (inserted by the Act of 1987), be determined in accordance with section 3 of the Act of 1987, and all other relationships shall be determined accordingly.
+4A.—(1) Subject to subsection (1A) and section 4B, in deducing any relationship for the purposes of this Act, the relationship between every person and his father and mother shall, subject to section 27A of this Act (inserted by the Act of 1987), be determined in accordance with section 3 of the Act of 1987, and all other relationships shall be determined accordingly.
 
 (1A) In deducing any relationship for the purposes of this Act, the relationship between every donor-conceived child (within the meaning of the Act of 2015) and his or her parents shall be determined in accordance with section 5 of the Act of 2015 and all other relationships shall be determined accordingly.
 
@@ -14,4 +14,4 @@ F6[Succession rights.
 
 (5) This section shall not affect any rights under the intestacy of a person dying before the commencement of Part V of the Act of 1987.
 
-(6) In this section "the Act of 1987" means the Status of Children Act, 1987.
+(6) In this section and section 4B, "the Act of 1987" means the Status of Children Act, 1987.
