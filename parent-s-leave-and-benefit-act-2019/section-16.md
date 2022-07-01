@@ -1,6 +1,6 @@
 Entitlement of employed surviving parent to leave on death of relevant parent
 
-16. (1) Where a relevant parent who was an employee entitled to parent’s leave in relation to a child dies on or before the expiration of the period of the entitlement concerned, an employee who is a surviving parent of the child shall be entitled to leave (in this section referred to as “transferred parent’s leave”) from his or her employment, to enable him or her to provide, or assist in the provision of, care to the child for a period of 5 weeks or, if applicable, such shorter period of parent’s leave that remained to be taken by the relevant parent under this Part at the time of his or her death.
+16. (1) Where a relevant parent who was an employee entitled to parent’s leave in relation to a child dies on or before the expiration of the period of the entitlement concerned, an employee who is a surviving parent of the child shall be entitled to leave (in this section referred to as “transferred parent’s leave”) from his or her employment, to enable him or her to provide, or assist in the provision of, care to the child for a period of 7 weeks or, if applicable, such shorter period of parent’s leave that remained to be taken by the relevant parent under this Part at the time of his or her death.
 
 (2) A period of transferred parent’s leave may comprise—
 
