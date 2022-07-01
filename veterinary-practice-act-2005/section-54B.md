@@ -12,4 +12,4 @@ Considerations applicable to exercise of power conferred by section 54A.
 
 (e) whether the procedure relates to a condition in an animal which would be likely to cause a significant risk to human health.
 
-(2) In subsection (1) ‘non-registered person’ means a person who is not a registered person.
+(2) In subsection (1) "non-registered person" means a person who is not a registered person.

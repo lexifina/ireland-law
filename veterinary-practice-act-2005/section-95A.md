@@ -58,8 +58,8 @@ Mutual recognition — veterinary nurses.
 
 (10) In this section—
 
-‘competent authority’, ‘Mutual Recognition Directive’, ‘relevant State’, and ‘third country’ have the meanings assigned to them, respectively, in section 43(15);
+"competent authority", "Mutual Recognition Directive", "relevant State", and "third country" have the meanings assigned to them, respectively, in section 43(15);
 
-‘home relevant State’ in relation to a veterinary nurse, means the relevant State in which he or she acquired his or her diploma, certificate or other evidence of formal qualification or where he or she is registered as a veterinary nurse.
+"home relevant State" in relation to a veterinary nurse, means the relevant State in which he or she acquired his or her diploma, certificate or other evidence of formal qualification or where he or she is registered as a veterinary nurse.
 
 (11) A word or expression that is used in this section and is also used in the Mutual Recognition Directive has, unless the contrary intention appears, the same meaning in this section, as it has in that Directive.

@@ -28,4 +28,4 @@ Veterinary nursing.
 
 (c) procedures standing prescribed under section 92 and, if the carrying out of any such procedures is made subject to conditions specified under that section, those procedures if carried out in compliance with those conditions.
 
-(3) In paragraphs (a)(iii) and (b)(iv) of subsection (2), ‘minor’ relates to a procedure or surgery that does not involve entry beneath the skin, mucosa or into the cornea.
+(3) In paragraphs (a)(iii) and (b)(iv) of subsection (2), "minor" relates to a procedure or surgery that does not involve entry beneath the skin, mucosa or into the cornea.

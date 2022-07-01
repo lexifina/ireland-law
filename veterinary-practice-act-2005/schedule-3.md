@@ -8,11 +8,11 @@ INTERPRETATION
 
 1. In this Schedule—
 
-‘application’ means an application for registration under section 43 or section 95A(1) or (4);
+"application" means an application for registration under section 43 or section 95A(1) or (4);
 
-‘competent authority’, ‘Mutual Recognition Directive’, ‘relevant State’, ‘third country’ and ‘veterinary practitioner’ have the meanings assigned to them, respectively, in section 43(15);
+"competent authority", "Mutual Recognition Directive", "relevant State", "third country" and "veterinary practitioner" have the meanings assigned to them, respectively, in section 43(15);
 
-‘home relevant State’ in relation to a veterinary practitioner or veterinary nurse, means the relevant State in which he or she acquired his or her diploma, certificate or other evidence of formal qualification or where he or she is registered as a veterinary practitioner or veterinary nurse, as the case may be.
+"home relevant State" in relation to a veterinary practitioner or veterinary nurse, means the relevant State in which he or she acquired his or her diploma, certificate or other evidence of formal qualification or where he or she is registered as a veterinary practitioner or veterinary nurse, as the case may be.
 
 2. A word or expression that is used in this Schedule and is also used in the Mutual Recognition Directive has, unless the contrary intention appears, the same meaning in this Schedule, as it has in that Directive.
 

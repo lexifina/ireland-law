@@ -32,9 +32,9 @@ Power to inspect premises for the purposes of section 125(a) or (c).
 
 (4) In this section and section 126A—
 
-‘premises’ means any place, ship or other vessel, aircraft, railway wagon or other vehicle, and includes a container used to transport animal remedies, animals, or equipment used in the practice of veterinary medicine but does not include a State premises within the meaning of section 105;
+"premises" means any place, ship or other vessel, aircraft, railway wagon or other vehicle, and includes a container used to transport animal remedies, animals, or equipment used in the practice of veterinary medicine but does not include a State premises within the meaning of section 105;
 
-‘record’ includes, in addition to a record in writing—
+"record" includes, in addition to a record in writing—
 
 (a) a disc, tape, sound-track or other device, including an electronic device, in which information, sounds or signals are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in legible or audible form,
 
@@ -48,7 +48,7 @@ Power to inspect premises for the purposes of section 125(a) or (c).
 
 (iii) in the case of a record to which paragraphs (a) and (b) apply, such a transcript together with such a still reproduction;
 
-‘vehicle’ means any conveyance in or by which any person or thing, or both, is transported which is designed for use on land, or in water or in the air, or in more than one of those ways, and includes—
+"vehicle" means any conveyance in or by which any person or thing, or both, is transported which is designed for use on land, or in water or in the air, or in more than one of those ways, and includes—
 
 (a) part of a vehicle,
 

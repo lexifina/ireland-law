@@ -28,6 +28,6 @@ Interpretation (Part 9).
 
 (b) a local authority;
 
-‘under the care of a registered practitioner’ has the same meaning as it has in Regulation 43 of the European Communities (Animal Remedies) (No. 2) Regulations 2007 (S.I. No. 786 of 2007);
+"under the care of a registered practitioner" has the same meaning as it has in Regulation 43 of the European Communities (Animal Remedies) (No. 2) Regulations 2007 (S.I. No. 786 of 2007);
 
 “veterinary premises” includes any place where the practice of veterinary medicine by a registered person occurs, including an ambulance or other vehicle equipped to facilitate such practice.

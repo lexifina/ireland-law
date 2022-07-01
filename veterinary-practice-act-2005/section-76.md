@@ -60,7 +60,7 @@ Consideration of an application for an inquiry.
 
 (10) In this section—
 
-‘professional misconduct’, in relation to a registered person, means any act, omission or pattern of conduct that—
+"professional misconduct", in relation to a registered person, means any act, omission or pattern of conduct that—
 
 (a) is connected with the practice of veterinary medicine or veterinary nursing and represents a serious falling short of the standard that could reasonably be expected of a registered person,
 

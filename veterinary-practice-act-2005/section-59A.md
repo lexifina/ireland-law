@@ -1,6 +1,6 @@
 Indemnity insurance.
 
-59A.— (1) The Council may, with the consent of the Minister, make regulations (referred to in this section as ‘indemnity regulations’)—
+59A.— (1) The Council may, with the consent of the Minister, make regulations (referred to in this section as "indemnity regulations")—
 
 (a) specifying circumstances in which there shall be in place indemnity insurance against losses arising from claims in respect of civil liability incurred by a registered person arising from the practice of veterinary medicine, and
 

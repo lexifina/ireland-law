@@ -10,7 +10,7 @@ Establishment of Register of Veterinary Practitioners.
 
 (4) The Register shall contain the following parts:
 
-(a) a part consisting of the names and particulars of persons registered under sections 40 to subsections (2), (4) and (6) of section 43 , and section 44;
+(a) a part consisting of the names and particulars of persons registered under sections 40 to subsections (2), (4) and (6) of section 43, and section 44;
 
 (b) a part consisting of names and particulars of persons registered for the purpose of provision of services under
 
@@ -24,7 +24,7 @@ Establishment of Register of Veterinary Practitioners.
 
 (b) where appropriate, the educational qualifications of the person,
 
-(c) in case the registration is under section 43(9), or where appropriate under section 44,, the date on which the registration is to expire,
+(c) in case the registration is under section 43(9), or where appropriate under section 44, the date on which the registration is to expire,
 
 (d) in case the registration is under section 45, the date on which the registration is to expire and any condition attached to it,
 

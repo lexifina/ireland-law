@@ -1,3 +1,3 @@
-Power to inspect premises for the purpose of section 125(c). (repealed)
+Power to inspect premises for the purpose of section 125(c). (Repealed)
 
 127.—...

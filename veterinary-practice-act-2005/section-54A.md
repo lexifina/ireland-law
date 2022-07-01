@@ -20,4 +20,4 @@ Power of Minister to prescribe procedures that may be carried out by non-registe
 
 (3) Before making regulations under this section the Minister shall consult with the Council.
 
-(4) In this section ‘non-registered person’ means a person who is not a registered person.
+(4) In this section "non-registered person" means a person who is not a registered person.

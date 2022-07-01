@@ -64,4 +64,4 @@ Inquiry by Fitness to Practise Committee.
 
 (10) (a) If the Fitness to Practise Committee requires the veterinary records of an animal that is under the care of a registered person to be produced for the purposes of an inquiry conducted by that Committee, such records shall not be made available to the Fitness to Practise Committee without the consent of the owner of the animal concerned unless the Committee specifically directs the registered person to produce such records.
 
-(b) In this subsection ‘under the care of a registered person’ has the same meaning as it has in Regulation 43 of the European Communities (Animal Remedies) (No. 2) Regulations 2007 (S.I. No. 786 of 2007).
+(b) In this subsection "under the care of a registered person" has the same meaning as it has in Regulation 43 of the European Communities (Animal Remedies) (No. 2) Regulations 2007 (S.I. No. 786 of 2007).

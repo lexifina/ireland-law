@@ -34,7 +34,7 @@ Interpretation.
 
 “functions” includes powers and duties, and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
 
-‘limited registration’ in relation to—
+"limited registration" in relation to—
 
 (a) a veterinary practitioner, means registration under section 44, and
 
@@ -42,7 +42,7 @@ Interpretation.
 
 “local authority” has the same meaning as it has in the Local Government Act 2001;
 
-‘Minister’ means Minister for Agriculture, Food and the Marine;
+"Minister" means Minister for Agriculture, Food and the Marine;
 
 “practice of veterinary medicine” has the meaning given to it by section 53;
 
