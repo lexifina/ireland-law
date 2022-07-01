@@ -1,6 +1,8 @@
 Entitlement of employed surviving parent to leave on death of relevant parent
 
-15. (1) Where a relevant parent entitled to paternity leave in relation to a child dies before the expiry of the twenty-eighth week following the date of confinement or day of placement, as the case may be, the employed surviving parent of the child shall be entitled to leave (in this section referred to as “transferred paternity leave”) from his or her employment, to enable him or her to provide, or assist in the provision of, care to the child, for—
+15. (1) Where a relevant parent entitled to paternity leave in relation to a child dies before the expiry of the twenty-eighth week following the date of confinement or day of placement, as the case may be, the employed surviving parent of the child shall be entitled to leave (in this section referred to as
+
+“transferred paternity leave”) from his or her employment, to enable him or her to provide, or assist in the provision of, care to the child, for—
 
 (a) where the relevant parent was an employee, a period of 2 weeks or, if applicable, such shorter period of paternity leave that remained to be taken by the relevant parent under this Act at the time of his or her death, and
 
