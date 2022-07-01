@@ -4,9 +4,9 @@ Interpretation (Part 2).
 
 7.—(1) In this Part—
 
-‘reviewee’ shall be read in accordance with section 8;
+"reviewee" shall be read in accordance with section 8;
 
-‘reviewer’ shall be read in accordance with section 11.
+"reviewer" shall be read in accordance with section 11.
 
 (2) In this Part—
 
