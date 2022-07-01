@@ -24,6 +24,8 @@ Intra-Community acquisitions of goods.
 
 (2) An intra-Community acquisition of goods shall be deemed not to occur where the supply of those goods is subject to value-added tax referred to in the VAT Directive in the Member State of dispatch under the provisions implementing Articles 4 and 35, first subparagraph of Article 139(3) and Articles 311 to 341 of that Directive in that Member State.
 
+(2A) The application by the armed forces of a Member State taking part in a defence effort carried out for the implementation of a European Union activity under the European Union common security and defence policy, for the use of those armed forces or for the use of the civilian staff accompanying those armed forces, of goods which those armed forces have not purchased subject to the general rules governing taxation on the domestic market of a Member State shall be treated as an intra- Community acquisition of goods for consideration, where the importation of those goods would not be eligible for the exemption provided for in the provisions implementing Article 143(1)(ga) of the VAT Directive in the Member State on whose domestic market the goods were purchased.
+
 (3) For the purposes of this section and section 32—
 
 (a) a supply in the territory of another Member State shall be deemed to have arisen where, under similar circumstances, a supply would have arisen in the State under Chapter 1 or Chapter 1 of Part 4 (including either of those Chapters as read with section 2(3)),
