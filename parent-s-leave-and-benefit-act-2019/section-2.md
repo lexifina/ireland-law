@@ -72,7 +72,7 @@ Interpretation
 
 “paternity leave” has the same meaning as it has in the Act of 2016;
 
-'qualifying adopter', in relation to a child who is, or is to be adopted, means the qualifying adopter, within the meaning of the Act of 1995 (as amended by the Family Leave and Miscellaneous Provisions Act 2021), of the child and includes, for the purposes of this Act, a person who would be a qualifying adopter but for the fact that he or she is not an employee;
+"qualifying adopter", in relation to a child who is, or is to be adopted, means the qualifying adopter, within the meaning of the Act of 1995 (as amended by the Family Leave and Miscellaneous Provisions Act 2021), of the child and includes, for the purposes of this Act, a person who would be a qualifying adopter but for the fact that he or she is not an employee;
 
 “registered medical practitioner” has the same meaning as it has in the Medical Practitioners Act 2007;
 

@@ -72,7 +72,9 @@ Interpretation
 
 (i) where the deceased relevant parent of the child was a parent referred to in paragraph (b)(ii)(I) or (b)(ii)(III), as the case may be, of the definition of relevant parent, the other parent of the child or the spouse, civil partner or cohabitant, as the case may be, of the deceased relevant parent, and
 
-(ii) where the deceased relevant parent of the child was the spouse, civil partner or cohabitant, as the case may be, of a parent referred to in paragraph (b)(ii)(I) or (b)(ii)(III), as the case may be, of the definition of relevant parent, the parent concerned; ‘transferred parent’s leave’ has the same meaning as it has in the Act of 2019.
+(ii) where the deceased relevant parent of the child was the spouse, civil partner or cohabitant, as the case may be, of a parent referred to in paragraph (b)(ii)(I) or (b)(ii)(III), as the case may be, of the definition of relevant parent, the parent concerned;
+
+‘transferred parent’s leave’ has the same meaning as it has in the Act of 2019.
 
 (2) For the purpose of this Chapter, a reference to a child who is adopted is a reference to a child who is the subject of—
 
