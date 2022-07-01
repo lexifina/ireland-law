@@ -42,7 +42,7 @@ Meetings of Board
 
 Quorum and procedures
 
-2B. (1) The quorum for a meeting of the Board shall be 7 ordinary members of the Board and—
+2B. (1) The quorum for a meeting of the Board shall be 7 members of the Board and—
 
 (a) subject to paragraph (b), the chairperson, deputy chairperson or other member chosen in accordance with subparagraph (2)(c) to be the chairperson of the meeting, or
 

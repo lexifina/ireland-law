@@ -10,7 +10,7 @@ Audit committee.
 
 (3) A person is not eligible for appointment to the audit committee pursuant to subsection (2)(b) if that person is an employee of the Executive.
 
-(4) The Board shall designate one of the persons appointed pursuant to subsection (2)(b) to be the chairperson of the audit committee.
+(4) The Board shall designate one of the persons appointed pursuant to subsection (2) to be the chairperson of the audit committee.
 
 (5) The duration of a person’s membership of the audit committee shall be determined by the Board when appointing that person.
 
