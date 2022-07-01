@@ -98,19 +98,17 @@ Mutual recognition — veterinary practitioners.
 
 (15) In this section—
 
-‘competent authority’ means—
+"competent authority" means—
 
 (a) in relation to a relevant State, the authority designated in accordance with Article 56(3) of the Mutual Recognition Directive, and
 
 (b) in relation to the State, the Council;
 
-‘home relevant State’ in relation to a veterinary practitioner, means the relevant State in which he or she acquired his or her diploma, certificate or other evidence of formal qualification or where he or she is registered as a veterinary practitioner;
+"home relevant State" in relation to a veterinary practitioner, means the relevant State in which he or she acquired his or her diploma, certificate or other evidence of formal qualification or where he or she is registered as a veterinary practitioner;
 
-‘Mutual Recognition Directive’ means Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005, as amended by Council Directive 2006/100/EC of 20 November 2006, Commission Regulation (EC) No. 1430/2007 of 5 December 2007, Commission Regulation (EC) No. 755/2008 of 31 July 2008, Regulation (EC) No. 1137/2008 of the European Parliament and of the Council of 22 October 2008, Commission Regulation (EC) No. 279/2009 of 6 April 2009, Commission Regulation (EU) No. 213/2011 of 3 March 2011, the Act concerning the conditions
+"Mutual Recognition Directive" means Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005, as amended by Council Directive 2006/100/EC of 20 November 2006, Commission Regulation (EC) No. 1430/2007 of 5 December 2007, Commission Regulation (EC) No. 755/2008 of 31 July 2008, Regulation (EC) No. 1137/2008 of the European Parliament and of the Council of 22 October 2008, Commission Regulation (EC) No. 279/2009 of 6 April 2009, Commission Regulation (EU) No. 213/2011 of 3 March 2011, the Act concerning the conditions of accession of the Republic of Croatia, Commission Regulation (EU) No. 623/2012 of 11 July 2012 and Council Directive 2013/25/EU of 13 May 2013.
 
-OJ No.L 205,1.8.2008, p.10 OJ No.L 311, 21.11.2008, p.1 OJ No.L 93, 7.4.2009, p.11 OJ No.L59, 4.3.2011, p.4 of accession of the Republic of Croatia, Commission Regulation (EU) No. 623/2012 of 11 July 2012 and Council Directive 2013/25/EU of 13 May 2013.
-
-‘relevant State’ means—
+"relevant State" means—
 
 (a) another Member State,
 
@@ -118,8 +116,8 @@ OJ No.L 205,1.8.2008, p.10 OJ No.L 311, 21.11.2008, p.1 OJ No.L 93, 7.4.2009, p.
 
 (c) the Swiss Confederation;
 
-‘third country’ means a country that is not a relevant State or the State;
+"third country" means a country that is not a relevant State or the State;
 
-‘veterinary practitioner’ has the same meaning as ‘veterinary surgeon’ in the Mutual Recognition Directive.
+"veterinary practitioner" has the same meaning as ‘veterinary surgeon’ in the Mutual Recognition Directive.
 
 (16) A word or expression that is used in this section and is also used in the Mutual Recognition Directive has, unless the contrary intention appears, the same meaning in this section, as it has in that Directive.
