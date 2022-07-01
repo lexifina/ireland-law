@@ -2,7 +2,7 @@ Retail export scheme.
 
 58.—(1) In this section—
 
-‘traveller’ means a person whose domicile or habitual residence is not situated within the Community;
+"traveller" means a person whose domicile or habitual residence is not situated within the Community;
 
 “traveller’s qualifying goods” means goods (other than goods transported by the traveller for the equipping, fuelling and provisioning of pleasure boats, private aircraft or other means of transport for private use) which are supplied within the State to a traveller and which are exported by or on behalf of that traveller by the last day of the 3rd month following the month in which the supply takes place;
 

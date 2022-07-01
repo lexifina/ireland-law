@@ -10,11 +10,11 @@ Capital goods scheme.
 
 (b) Where a capital goods owner supplies or transfers by means of a transfer to which section 20(2)(c) applies a capital good during the adjustment period, then the adjustment period for that capital good for that owner shall end on the date of that supply or transfer.
 
-(2)(a) Where the initial interval proportion of deductible use in relation to a capital good differs from the proportion of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, then that owner shall, at the end of the initial interval, calculate an amount in accordance with the formula— A — B where—
+(2)(a) Where the initial interval proportion of deductible use in relation to a capital good differs from the proportion of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, then that owner shall, at the end of the initial interval, calculate an amount in accordance with the formula—
 
-A is the amount of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, and
+A — B where—
 
-B is the total reviewed deductible amount in relation to that capital good.
+A is the amount of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, and B is the total reviewed deductible amount in relation to that capital good.
 
 (b) Where in accordance with paragraph (a)—
 
@@ -46,9 +46,7 @@ D is the interval deductible amount in relation to that capital good.
 
 C is the reference deduction amount in relation to that capital good,
 
-D is the interval deductible amount in relation to that capital good, and
-
-N is the number of full intervals remaining in the adjustment period at the end of that interval plus one.
+D is the interval deductible amount in relation to that capital good, and N is the number of full intervals remaining in the adjustment period at the end of that interval plus one.
 
 (b) Where in accordance with paragraph (a)—
 
@@ -182,9 +180,7 @@ T is the total number of intervals in the adjustment period in relation to that 
 
 H × N T where—
 
-H is the total tax incurred in relation to that capital good for the capital goods owner making that supply or transfer,
-
-N is the number of full intervals remaining in the adjustment period in relation to that capital good plus one, and
+H is the total tax incurred in relation to that capital good for the capital goods owner making that supply or transfer, N is the number of full intervals remaining in the adjustment period in relation to that capital good plus one, and
 
 T is the total number of intervals in the adjustment period in relation to that capital good.
 
@@ -218,9 +214,7 @@ J is the amount of tax chargeable on the supply of that capital good, or the amo
 
 K — L where—
 
-K is the total tax incurred in relation to that capital good by the capital goods owner making that supply or transfer, and
-
-L is the amount of tax chargeable on the supply of that capital good, or the amount of tax that would have been chargeable on the transfer of that capital good but for the application of section 20(2)(c), or the amount of tax that would have been chargeable on the supply but for the application of section 56.
+K is the total tax incurred in relation to that capital good by the capital goods owner making that supply or transfer, and L is the amount of tax chargeable on the supply of that capital good, or the amount of tax that would have been chargeable on the transfer of that capital good but for the application of section 20(2)(c), or the amount of tax that would have been chargeable on the supply but for the application of section 56.
 
 (9)(a) In this subsection—
 
@@ -308,11 +302,11 @@ G is the amount of that tax that would have been deductible in accordance with C
 
 (12A) (a) In this subsection—
 
-‘end date’ means the date on which either the mortgagee ceases to have possession or the receiver’s appointment ends;
+"end date" means the date on which either the mortgagee ceases to have possession or the receiver’s appointment ends;
 
-‘mortgagee’ includes any person having the benefit of a charge or lien or any person deriving title to the mortgage under the original mortgagee;
+"mortgagee" includes any person having the benefit of a charge or lien or any person deriving title to the mortgage under the original mortgagee;
 
-‘start date’ means—
+"start date" means—
 
 (i) where subparagraph (i) or (ii) of paragraph (b) applies, the date on which either the mortgagee takes possession or the receiver is appointed, or
 

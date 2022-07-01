@@ -24,7 +24,7 @@ Deduction for tax borne or paid.
 
 (f) supplies of goods or services outside the State which would be taxable supplies if made in the State;
 
-‘qualifying vehicle’ means a motor vehicle which, for the purposes of vehicle registration tax, is first registered, in accordance with section 131 of the Finance Act 1992—
+"qualifying vehicle" means a motor vehicle which, for the purposes of vehicle registration tax, is first registered, in accordance with section 131 of the Finance Act 1992—
 
 (a) in the period on or after 1 January 2009 and up to 31 December 2020, and has, for the purposes of that registration, a level of CO emissions of less than 156g/km, or
 

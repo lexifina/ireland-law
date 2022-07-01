@@ -2,21 +2,21 @@ Definitions.
 
 91A.— In this Chapter—
 
-‘broadcasting services’ means either or both radio and television broadcasting services;
+"broadcasting services" means either or both radio and television broadcasting services;
 
-‘EU value-added tax’ means value-added tax referred to in the VAT Directive and includes tax within the meaning of section 2;
+"EU value-added tax" means value-added tax referred to in the VAT Directive and includes tax within the meaning of section 2;
 
-‘identified person’ has the meaning assigned to it by section 91B(4) or 91D(4), as the case may be;
+"identified person" has the meaning assigned to it by section 91B(4) or 91D(4), as the case may be;
 
-‘Implementing Regulation’ means Council Implementing Regulation (EU) 282/2011 of 15 March 2011 (as amended by Council Regulation (EU) 967/2012 of 9 October 2012, Council Regulation (EU) 2019/2026 of 21 November 2019 and Council Regulation (EU) 2020/1112 of 20 July 2020);
+"Implementing Regulation" means Council Implementing Regulation (EU) 282/2011 of 15 March 2011 (as amended by Council Regulation (EU) 967/2012 of 9 October 2012, Council Regulation (EU) 2019/2026 of 21 November 2019 and Council Regulation (EU) 2020/1112 of 20 July 2020);
 
 7 OJ No. L77, 23.3.2011, p.1 8 OJ No. L290, 20.10.2012, p.1 9 OJ No. L313, 4.12.2019, p. 14 10 OJ No. L244, 29.7.2020, p. 9
 
-‘import scheme’ means the scheme for the payment of value-added tax provided for in sections 91I to 91K;
+"import scheme" means the scheme for the payment of value-added tax provided for in sections 91I to 91K;
 
-‘intrinsic value’ has the same meaning as it has in Article 1(48) of Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015;
+"intrinsic value" has the same meaning as it has in Article 1(48) of Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015;
 
-‘Member State of consumption’ means—
+"Member State of consumption" means—
 
 (a) in the case of the non-Union scheme, the Member State in which the supply of scheme services is deemed to take place according to Chapter 3 of Title V of the VAT Directive, and
 
@@ -28,7 +28,7 @@ Definitions.
 
 (iii) in respect of the supply of goods made by a taxable person facilitating those supplies in accordance with section 91G(1)(b), and where the dispatch or transport of the goods supplied begins and ends in the same Member State, that Member State;
 
-‘Member State of identification’ means—
+"Member State of identification" means—
 
 (a) in the case of the non-Union scheme, the Member State in which the taxable person applies to be identified for the purposes of that scheme, and
 
@@ -44,21 +44,21 @@ Definitions.
 
 (v) where the taxable person has not established his or her business in the Community and has no fixed establishment in the Community, and there is more than one Member State in which the dispatch or transport of the goods begins, the Member State in which the dispatch or transport of the goods begins which he or she has chosen to be the Member State of identification for the purposes of the Union scheme.
 
-‘national tax number’ means a number (whether consisting of either or both numbers and letters) assigned to a taxable person who has not established his or her place of business in the Community by the person’s own national taxation authority;
+"national tax number" means a number (whether consisting of either or both numbers and letters) assigned to a taxable person who has not established his or her place of business in the Community by the person’s own national taxation authority;
 
-'non-Union scheme’ means the scheme for scheme services supplied by a taxable person whose business is not established in the Community, and who has no fixed establishment in the Community;
+"non-Union scheme" means the scheme for scheme services supplied by a taxable person whose business is not established in the Community, and who has no fixed establishment in the Community;
 
 11 OJ No. L343, 29.12.2015, p. 1
 
-‘qualifying domestic supplies of goods’ means supplies of goods facilitated through the use of an electronic interface such as a marketplace, platform, portal or similar means in accordance with Article 14a(2) of the VAT Directive where the dispatch or transport of those goods begins and ends in the same Member State;
+"qualifying domestic supplies of goods" means supplies of goods facilitated through the use of an electronic interface such as a marketplace, platform, portal or similar means in accordance with Article 14a(2) of the VAT Directive where the dispatch or transport of those goods begins and ends in the same Member State;
 
-‘scheme services’ means services supplied to non-taxable persons within the Community;
+"scheme services" means services supplied to non-taxable persons within the Community;
 
-‘taxable person not established within the Community’ means a taxable person who has not established his or her business in the Community and who has no fixed establishment there;
+"taxable person not established within the Community" means a taxable person who has not established his or her business in the Community and who has no fixed establishment there;
 
-‘taxable person not established in the Member State of consumption’ means a taxable person who has established his or her business in the Community or who has a fixed establishment there but who has not established his or her business, and has no fixed establishment, within the territory of the Member State of consumption;
+"taxable person not established in the Member State of consumption" means a taxable person who has established his or her business in the Community or who has a fixed establishment there but who has not established his or her business, and has no fixed establishment, within the territory of the Member State of consumption;
 
-‘Union scheme’ means the scheme for—
+"Union scheme" means the scheme for—
 
 (a) scheme services, supplied by a taxable person whose business is established in the Community or who has a fixed establishment in the Community but whose business is not established in, and who has no fixed establishment in, the Member State of consumption,
 
@@ -66,7 +66,7 @@ Definitions.
 
 (c) qualifying domestic supplies of goods;
 
-‘VAT return’ means the statement containing the information necessary to establish the amount of EU value-added tax that has become chargeable in each Member State in respect of the following supplies within the scope of the Union or non-Union scheme, as the case may be, made during a calendar quarter:
+"VAT return" means the statement containing the information necessary to establish the amount of EU value-added tax that has become chargeable in each Member State in respect of the following supplies within the scope of the Union or non-Union scheme, as the case may be, made during a calendar quarter:
 
 (a) supplies of scheme services;
 

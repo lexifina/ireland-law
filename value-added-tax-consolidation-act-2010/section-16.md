@@ -46,11 +46,11 @@ Reverse charge for certain supplies.
 
 (4)(a) In this subsection—
 
-‘dealing in scrap metal’ means the purchase, sale, resale or recovery of scrap metal;
+"dealing in scrap metal" means the purchase, sale, resale or recovery of scrap metal;
 
-‘recovery’, in relation to scrap metal, means any activity carried on for the purposes of reclaiming, recycling or re-using, in whole or in part, scrap metal and any activities related to such reclamation, recycling or re-use;
+"recovery", in relation to scrap metal, means any activity carried on for the purposes of reclaiming, recycling or re-using, in whole or in part, scrap metal and any activities related to such reclamation, recycling or re-use;
 
-‘scrap metal’ includes scrapped metal and metal waste originating from, or extracted from, the processing of metals, metal derived from vehicles, metal derived from construction and demolition waste, machine parts and metal items no longer useable in their original form due to their breaking, obsolescence, shearing, wearing or the like, and also includes goods listed in paragraphs (1) to (3) of Annex VI of the VAT Directive.
+"scrap metal" includes scrapped metal and metal waste originating from, or extracted from, the processing of metals, metal derived from vehicles, metal derived from construction and demolition waste, machine parts and metal items no longer useable in their original form due to their breaking, obsolescence, shearing, wearing or the like, and also includes goods listed in paragraphs (1) to (3) of Annex VI of the VAT Directive.
 
 (b) Notwithstanding section 56, where a taxable person carries on a business in the State, which consists of or includes dealing in scrap metal (in this subsection referred to as a ‘recipient’) and he or she receives a supply of scrap metal from another taxable person who carries on a business in the State, then—
 
@@ -58,13 +58,13 @@ Reverse charge for certain supplies.
 
 (ii) the person who supplied the scrap metal shall not be accountable for or liable to pay such tax in respect of that supply.
 
-(5)(a) In this subsection ‘construction work’, in relation to immovable goods, includes—
+(5)(a) In this subsection "construction work", in relation to immovable goods, includes—
 
 (i) construction, extension, alteration and demolition services, and
 
 (ii) engineering work or other operations which adapt those immovable goods for materially altered use.
 
-(b) Where an accountable person supplies construction work in the State to a taxable person (in this subsection referred to as a ‘recipient’) to whom the accountable person is connected (within the meaning of section 97(3)), then—
+(b) Where an accountable person supplies construction work in the State to a taxable person (in this subsection referred to as a "recipient") to whom the accountable person is connected (within the meaning of section 97(3)), then—
 
 (i) the recipient shall, in relation to such supplies, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if that recipient made that supply in the course or furtherance of business, and
 
@@ -72,9 +72,9 @@ Reverse charge for certain supplies.
 
 (6)(a) In this subsection—
 
-‘gas’ means gas supplied through the natural gas distribution system.
+"gas" means gas supplied through the natural gas distribution system.
 
-(b) Where a taxable person who carries on a business in the State makes a supply of gas or of electricity to a taxable dealer who carries on a business in the State (in this subsection referred to as a ‘recipient’), then—
+(b) Where a taxable person who carries on a business in the State makes a supply of gas or of electricity to a taxable dealer who carries on a business in the State (in this subsection referred to as a "recipient"), then—
 
 (i) the recipient shall, in relation to that supply, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if that recipient made that supply in the course or furtherance of business, and
 
@@ -82,9 +82,9 @@ Reverse charge for certain supplies.
 
 (7)(a) In this subsection—
 
-‘a gas or an electricity certificate’ means an electronic document which conveys information about the source and production of energy.
+"a gas or an electricity certificate" means an electronic document which conveys information about the source and production of energy.
 
-(b) Where a taxable person who carries on a business in the State makes a supply of a gas or an electricity certificate to another taxable person who carries on a business in the State (in this subsection referred to as a ‘recipient’), then—
+(b) Where a taxable person who carries on a business in the State makes a supply of a gas or an electricity certificate to another taxable person who carries on a business in the State (in this subsection referred to as a "recipient"), then—
 
 (i) the recipient shall, in relation to that supply, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if that recipient made that supply in the course or furtherance of business, and
 

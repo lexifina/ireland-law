@@ -12,7 +12,7 @@ Non-Union scheme (where the State is Member State of identification).
 
 (ii) is excluded from applying the non-Union scheme by Article 363 of the VAT Directive or Article 58 of the Implementing Regulation.
 
-(2) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the ‘identification register’) of persons who are identified in the State for the purposes of the non-Union scheme.
+(2) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the "identification register") of persons who are identified in the State for the purposes of the non-Union scheme.
 
 (3) A person who opts to be identified in the State for the purposes of the non- Union scheme shall notify the Revenue Commissioners by electronic means using such form as is made available by the Commissioners for that purpose, and shall, at the same time, provide them by electronic means with the following details:
 
@@ -36,7 +36,7 @@ Non-Union scheme (where the State is Member State of identification).
 
 (iii) notify that person by electronic means of the identification number and the date from which the registration takes effect.
 
-(b) For the purposes of this section, a person to whom such an identification number has been allocated under paragraph (a)(ii) shall be referred to as an ‘identified person’.
+(b) For the purposes of this section, a person to whom such an identification number has been allocated under paragraph (a)(ii) shall be referred to as an "identified person".
 
 (5) An identified person shall notify the Revenue Commissioners by electronic means of the following:
 
@@ -86,7 +86,7 @@ Non-Union scheme (where the State is Member State of identification).
 
 (10A) Notwithstanding subsection (10), where an identified person is required to be registered in the State under section 65 in respect of activities other than those undertaken under the non-Union scheme, any deduction made in accordance with section 59 shall include the tax charged in respect of all taxable activities covered by this scheme.
 
-(11) (a) Without prejudice to the provisions of section 99, where corrections to a VAT return (‘the initial return’) are required after it has been submitted, the corrections shall be included in a subsequent VAT return submitted by electronic means within 3 years from the date on which the initial return was required to be submitted in accordance with subsection (7).
+(11) (a) Without prejudice to the provisions of section 99, where corrections to a VAT return ("the initial return") are required after it has been submitted, the corrections shall be included in a subsequent VAT return submitted by electronic means within 3 years from the date on which the initial return was required to be submitted in accordance with subsection (7).
 
 (b) The correction to the VAT return referred to in paragraph (a) shall contain—
 

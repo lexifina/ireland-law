@@ -42,7 +42,7 @@ Interpretation — general.
 
 “calendar quarter” means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October;
 
-‘call-off stock arrangements’ means the dispatch or transport of goods from one Member State to another Member State where, at the time of the dispatch or transport of the goods to such other Member State, the identity of the person to whom those goods will be supplied at a later stage and after the goods have arrived in the Member State of destination is known to the supplier.
+"call-off stock arrangements" means the dispatch or transport of goods from one Member State to another Member State where, at the time of the dispatch or transport of the goods to such other Member State, the identity of the person to whom those goods will be supplied at a later stage and after the goods have arrived in the Member State of destination is known to the supplier.
 
 “capital goods” means developed immovable goods and includes refurbishment within the meaning of section 63(1), and a reference to a capital good includes a reference to any part thereof and the term “capital good” shall be construed accordingly;
 
@@ -62,7 +62,7 @@ Interpretation — general.
 
 “contract work” means the service of handing over by a contractor to another person of movable goods made or assembled by the contractor from goods entrusted to the contractor by that other person, whether or not the contractor has provided any part of the goods used;
 
-‘Customs Acts’ has the meaning given to it by section 2(3) of the Customs Act 2015;
+"Customs Acts" has the meaning given to it by section 2(3) of the Customs Act 2015;
 
 “customs-free airport” means the land which, under the Customs-free Airport Act 1947, for the time being constitutes the Customs-free airport;
 
@@ -72,7 +72,7 @@ Interpretation — general.
 
 (b) the carrying out of any engineering or other operation in, on, over or under the land to adapt it for materially altered use;
 
-‘distance sales of goods imported from third territories or third countries’ means supplies of goods dispatched or transported by or on behalf of the supplier, including where the supplier intervenes indirectly in the transport or dispatch of the goods, from outside the Community, to a customer in a Member State, where—
+"distance sales of goods imported from third territories or third countries" means supplies of goods dispatched or transported by or on behalf of the supplier, including where the supplier intervenes indirectly in the transport or dispatch of the goods, from outside the Community, to a customer in a Member State, where—
 
 (a) the supply of goods is carried out for a taxable person, or a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to value-added tax pursuant to Article 3(1), or for any other non-taxable person, and
 
@@ -128,7 +128,7 @@ Interpretation — general.
 
 “hire”, in relation to movable goods, includes a letting on any terms including a leasing;
 
-‘immovable goods’ has the same meaning as ‘immovable property’ has in Article 13b (inserted by Council Implementing Regulation 1042/2013 of 7 October 2013 ) of Council Implementing Regulation 282/2011/EU of 15 March 2011;
+"immovable goods" has the same meaning as "immovable property" has in Article 13b (inserted by Council Implementing Regulation 1042/2013 of 7 October 2013 ) of Council Implementing Regulation 282/2011/EU of 15 March 2011;
 
 “importation of goods” means the importation of goods from outside the Community into the State—
 
@@ -144,7 +144,7 @@ Interpretation — general.
 
 “intra-Community acquisition”, in relation to goods, has the meaning assigned to it by section 24;
 
-‘intra-Community distance sales of goods’ means supplies of goods dispatched or transported by or on behalf of the supplier, including where the supplier intervenes indirectly in the transport or dispatch of the goods, from a Member State other than that in which the dispatch or transport of the goods to the customer ends, where—
+"intra-Community distance sales of goods" means supplies of goods dispatched or transported by or on behalf of the supplier, including where the supplier intervenes indirectly in the transport or dispatch of the goods, from a Member State other than that in which the dispatch or transport of the goods to the customer ends, where—
 
 (a) the supply of goods is carried out for a taxable person, or for a non-taxable legal person, whose intra-Community acquisitions of goods are not subject to value-added tax pursuant to Article 3(1) of the VAT Directive, or for any other non-taxable person, and
 
@@ -154,7 +154,7 @@ Interpretation — general.
 
 “landlord’s option to tax” has the meaning assigned to it by section 97;
 
-‘livestock’ means live—
+"livestock" means live—
 
 (a) cattle, sheep, goats, pigs and deer, and
 

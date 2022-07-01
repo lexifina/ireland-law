@@ -46,4 +46,4 @@ Duty to keep records.
 
 (5) This Chapter shall not require the retention of records, linking documents or invoices or any of the other documents in respect of which the Revenue Commissioners notify the person concerned that retention is not required.
 
-(6) In this section ‘linking documents’ means documents drawn up in the making up of accounts and returns and showing details of the calculations linking the records required to be kept by a person pursuant to this Chapter to the accounts and returns.
+(6) In this section "linking documents" means documents drawn up in the making up of accounts and returns and showing details of the calculations linking the records required to be kept by a person pursuant to this Chapter to the accounts and returns.

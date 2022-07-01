@@ -6,7 +6,7 @@ Union scheme (where the State is Member State of consumption).
 
 (b) makes intra-Community distance sales of goods, or
 
-(c) makes qualifying domestic supplies of goods, which are taxable in the State shall, in relation to those supplies or sales, be an accountable person for the purposes of this Act and, for the purposes of this section, shall be referred to as a ‘scheme participant’.
+(c) makes qualifying domestic supplies of goods, which are taxable in the State shall, in relation to those supplies or sales, be an accountable person for the purposes of this Act and, for the purposes of this section, shall be referred to as a "scheme participant".
 
 (2) Notwithstanding subsection (3) of section 65, a scheme participant shall, in relation to—
 
@@ -22,11 +22,11 @@ Union scheme (where the State is Member State of consumption).
 
 (b) deemed to have been received by the Collector-General on the date it was received by the tax authorities of the Member State of identification, and this Act shall apply to a scheme participant and have effect as if in section 76(1)—
 
-(i) ‘by the end of the month’ were substituted for ‘within 9 days immediately after the 10th day of the month’,
+(i) "by the end of the month" were substituted for "within 9 days immediately after the 10th day of the month",
 
-(ii) ‘a calendar quarter’ were substituted for ‘a taxable period’, and
+(ii) "a calendar quarter" were substituted for "a taxable period", and
 
-(iii) in paragraphs (a)(i) and (b) ‘that calendar quarter’ were substituted for ‘that taxable period’ in each place.
+(iii) in paragraphs (a)(i) and (b) "that calendar quarter" were substituted for "that taxable period" in each place.
 
 (4) A scheme participant shall remit the tax payable in relation to a calendar quarter under the provisions of the Union scheme to the tax authorities of the Member State of identification by the end of the month immediately following the end of the relevant calendar quarter and, for the purposes of this Act, to the extent that that tax payable relates to—
 
@@ -40,11 +40,11 @@ Union scheme (where the State is Member State of consumption).
 
 (ii) deemed to have been paid to the Collector-General on the date it was received by the tax authorities of the Member State of identification, and this Act shall apply to a scheme participant and have effect as if in section 76(1)—
 
-(I) ‘by the end of the month’ were substituted for ‘within 9 days immediately after the 10th day of the month’,
+(I) "by the end of the month" were substituted for "within 9 days immediately after the 10th day of the month",
 
-(II) ‘a calendar quarter’ were substituted for ‘a taxable period’, and
+(II) "a calendar quarter" were substituted for "a taxable period", and
 
-(III) in paragraphs (a)(i) and (b) ‘that calendar quarter’ were substituted for ‘that taxable period’ in each place.
+(III) in paragraphs (a)(i) and (b) "that calendar quarter" were substituted for "that taxable period" in each place.
 
 (5) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro in the VAT return shall be that published by the European Central Bank for the last day of the calendar quarter to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
 

@@ -2,11 +2,11 @@ Joint and several liability for tax.
 
 108C.— (1) In this section—
 
-‘first accountable person’ means the person who, in relation to any taxable supply of goods or services or intra-Community acquisition of goods chargeable to tax in accordance with section 3(a), (c), (d) or (e) is, apart from this section, liable to pay the tax chargeable in accordance with Chapter 3 of Part 9;
+"first accountable person" means the person who, in relation to any taxable supply of goods or services or intra-Community acquisition of goods chargeable to tax in accordance with section 3(a), (c), (d) or (e) is, apart from this section, liable to pay the tax chargeable in accordance with Chapter 3 of Part 9;
 
-‘second accountable person’ means a person, other than the first accountable person, who participates as a purchaser or as a supplier in a series of taxable supplies;
+"second accountable person" means a person, other than the first accountable person, who participates as a purchaser or as a supplier in a series of taxable supplies;
 
-‘series of taxable supplies’ means a supply of taxable goods or services made or received by an accountable person and any previous or subsequent supply of those taxable goods or services made or received by other accountable persons and includes intra-Community acquisitions of goods.
+"series of taxable supplies" means a supply of taxable goods or services made or received by an accountable person and any previous or subsequent supply of those taxable goods or services made or received by other accountable persons and includes intra-Community acquisitions of goods.
 
 (2) Where, in relation to a particular series of taxable supplies—
 

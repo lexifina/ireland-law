@@ -12,7 +12,7 @@ This Part sets out the exemptions for certain activities in the public interest 
 
 Postal services.
 
-1. Public postal services, including the supply of goods and services incidental to their provision, which are provided as part of a universal service, in accordance with Chapter 2 (as amended by Directive 2008/6/EC of the European Parliament and of the Council of 20 February 2008 ) of Directive 97/67/EC of the European Parliament and of the Council of 15 December 1997 , by An Post (including postmasters) or by any other persons designated by the State in accordance with that Chapter (as so amended), but only if that supply is not on terms that have been individually negotiated.
+1. Public postal services, including the supply of goods and services incidental to their provision, which are provided as part of a universal service, in accordance with Chapter 2 (as amended by Directive 2008/6/EC of the European Parliament and of the Council of 20 February 2008) of Directive 97/67/EC of the European Parliament and of the Council of 15 December 1997, by An Post (including postmasters) or by any other persons designated by the State in accordance with that Chapter (as so amended), but only if that supply is not on terms that have been individually negotiated.
 
 Medical and related services.
 

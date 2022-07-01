@@ -18,7 +18,7 @@ Application and interpretation of section 34.
 
 (4) In section 34(k) “short-term” means the continuous possession or use of a means of transport throughout a period of not more than 30 days or, if the means of transport is a vessel, not more than 90 days.
 
-(4A) In paragraphs (ka) and (kb) of section 34 ‘long-term’ means the continuous possession or use of a means of transport throughout a period of more than 30 days or, if the means of transport is a vessel, more than 90 days.
+(4A) In paragraphs (ka) and (kb) of section 34 "long-term" means the continuous possession or use of a means of transport throughout a period of more than 30 days or, if the means of transport is a vessel, more than 90 days.
 
 (4B) ...
 

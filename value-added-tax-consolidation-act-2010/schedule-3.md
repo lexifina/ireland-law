@@ -22,7 +22,7 @@ Definitions — Schedule 3.
 
 (b) by an auctioneer within the meaning of section 89(1) and in accordance with section 89(3);
 
-‘open farm’ means a facility the principal function of which is the exhibition (other than on an occasional basis) of animals and agricultural activities, and such exhibition may also include rural heritage.
+"open farm" means a facility the principal function of which is the exhibition (other than on an occasional basis) of animals and agricultural activities, and such exhibition may also include rural heritage.
 
 Other interpretative provisions.
 

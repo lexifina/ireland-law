@@ -2,11 +2,11 @@ Import scheme - interpretation and general provisions.
 
 91I. (1) In this section and sections 91J and 91K—
 
-‘intermediary’ means a person established in the Community appointed by the taxable person making distance sales of goods imported from third territories or third countries as the person liable for the payment of the value-added tax and to fulfil the obligations laid down in the import scheme in the name and on behalf of the taxable person;
+"intermediary" means a person established in the Community appointed by the taxable person making distance sales of goods imported from third territories or third countries as the person liable for the payment of the value-added tax and to fulfil the obligations laid down in the import scheme in the name and on behalf of the taxable person;
 
-‘Member State of consumption’ means the Member State where the dispatch or transport of the goods to the customer ends;
+"Member State of consumption" means the Member State where the dispatch or transport of the goods to the customer ends;
 
-‘Member State of identification’ means—
+"Member State of identification" means—
 
 (a) the Member State in which the taxable person has established his or her business,
 
@@ -18,9 +18,9 @@ Import scheme - interpretation and general provisions.
 
 (e) if the intermediary has not established his or her business in the Community but has one or more fixed establishments therein, the Member State in which he or she has a fixed establishment and in which he or she chooses to be identified for the purposes of the scheme;
 
-‘VAT return’ means the statement containing the information necessary to establish the amount of EU value-added tax that has become chargeable in each Member State in respect of distance sales of goods imported from third territories or third countries during a month.
+"VAT return" means the statement containing the information necessary to establish the amount of EU value-added tax that has become chargeable in each Member State in respect of distance sales of goods imported from third territories or third countries during a month.
 
-(2) For the purposes of paragraphs (b) and (e) of the definition of ‘Member State of identification’ in subsection (1), where the taxable person or the intermediary has more than one fixed establishment in the Community, he or she shall be bound by the decision to indicate the Member State of establishment for the calendar year concerned and the following two calendar years.
+(2) For the purposes of paragraphs (b) and (e) of the definition of "Member State of identification" in subsection (1), where the taxable person or the intermediary has more than one fixed establishment in the Community, he or she shall be bound by the decision to indicate the Member State of establishment for the calendar year concerned and the following two calendar years.
 
 (3) Sections 91J and 91K apply to distance sales of goods imported from third territories or third countries, except products subject to duties of excise, in consignments of an intrinsic value which does not exceed €150.
 

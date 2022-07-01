@@ -4,7 +4,7 @@ Non-Union scheme (where the State is Member State of consumption).
 
 (a) is an identified person within the meaning of section 91B, or
 
-(b) applies the non-Union scheme under the provisions implementing the scheme in another Member State, where that other Member State is the Member State of identification, shall be an accountable person for the purposes of this Act in relation to scheme services only insofar as those services are supplied in the State in accordance with Chapter 3 of Part 4 and, in relation to those supplies, for the purposes of this section shall be referred to as a ‘scheme participant’.
+(b) applies the non-Union scheme under the provisions implementing the scheme in another Member State, where that other Member State is the Member State of identification, shall be an accountable person for the purposes of this Act in relation to scheme services only insofar as those services are supplied in the State in accordance with Chapter 3 of Part 4 and, in relation to those supplies, for the purposes of this section shall be referred to as a "scheme participant".
 
 (2) A scheme participant shall be regarded as having fulfilled his or her obligations as an accountable person under subsection (3) of section 65 and shall not otherwise be obliged or entitled to be registered under that section.
 
@@ -14,11 +14,11 @@ Non-Union scheme (where the State is Member State of consumption).
 
 (b) deemed to have been received by the Collector-General on the date it was received by the tax authorities of the Member State of identification, and this Act shall apply to the scheme participant and have effect as if in section 76(1)—
 
-(i) ‘by the end of the month’ were substituted for ‘within 9 days immediately after the 10th day of the month’,
+(i) "by the end of the month" were substituted for "within 9 days immediately after the 10th day of the month",
 
-(ii) ‘a calendar quarter’ were substituted for ‘a taxable period’, and
+(ii) "a calendar quarter" were substituted for "a taxable period", and
 
-(iii) in paragraphs (a)(i) and (b) ‘that calendar quarter’ were substituted for ‘that taxable period’ in each place.
+(iii) in paragraphs (a)(i) and (b) "that calendar quarter" were substituted for "that taxable period" in each place.
 
 (4) A scheme participant shall remit the tax payable in relation to a calendar quarter under the provisions of the non-Union scheme to the tax authorities of the Member State of identification by the end of the month immediately following the end of the relevant calendar quarter and, for the purposes of this Act, to the extent that the tax payable relates to scheme services taxable in the State, the tax payable shall be—
 
@@ -26,11 +26,11 @@ Non-Union scheme (where the State is Member State of consumption).
 
 (b) deemed to have been paid to the Collector-General on the date it was received by the tax authorities of the Member State of identification, and this Act shall apply to the scheme participant and have effect as if in section 76(1)—
 
-(i) ‘by the end of the month’ were substituted for ‘within 9 days immediately after the 10th day of the month’,
+(i) "by the end of the month" were substituted for "within 9 days immediately after the 10th day of the month",
 
-(ii) ‘a calendar quarter’ were substituted for ‘a taxable period’, and
+(ii) "a calendar quarter" were substituted for "a taxable period", and
 
-(iii) in paragraphs (a)(i) and (b) ‘that calendar quarter’ were substituted for ‘that taxable period’ in each place.
+(iii) in paragraphs (a)(i) and (b) "that calendar quarter" were substituted for "that taxable period" in each place.
 
 (5) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro in the VAT return shall be that published by the European Central Bank for the last day of the calendar quarter to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
 

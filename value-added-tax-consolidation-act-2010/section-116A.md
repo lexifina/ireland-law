@@ -124,9 +124,7 @@ Penalty for deliberately or carelessly making incorrect returns, etc.
 
 (d) Where a third or subsequent qualifying disclosure is made by a person within 5 years of such person’s second qualifying disclosure, the penalty referred to in subsection (3) or (5), as the case may be, for a careless default with significant consequences shall be reduced to 40 per cent of the difference.
 
-(8) (a) Subject to paragraphs (b), (c) and (d), where a person is liable to a penalty under subsection (2) or (4), as the case may be, for a careless default which does not have significant consequences, the penalty referred to in subsection
-
-(3) or (5), as the case may be, shall be reduced to 20 per cent of the difference.
+(8) (a) Subject to paragraphs (b), (c) and (d), where a person is liable to a penalty under subsection (2) or (4), as the case may be, for a careless default which does not have significant consequences, the penalty referred to in subsection (3) or (5), as the case may be, shall be reduced to 20 per cent of the difference.
 
 (b) Where paragraph (a) applies and the person cooperated fully with any inquiry or investigation started by the Revenue Commissioners or by a Revenue officer into any matter occasioning a liability to tax of that person, the penalty referred to in subsection (3) or (5), as the case may be, shall be reduced to 15 per cent of the difference.
 

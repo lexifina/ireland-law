@@ -2,7 +2,7 @@ Adjustment of tax deductible in relation to unpaid consideration.
 
 62A.— (1) Subject to subsection (4), where—
 
-(a) an accountable person has, during a taxable period (referred to in this section as the ‘initial period’), deducted tax in accordance with subsection (2) ... of section 59, and
+(a) an accountable person has, during a taxable period (referred to in this section as the "initial period"), deducted tax in accordance with subsection (2) ... of section 59, and
 
 (b) the consideration, or part thereof, due to the supplier of the goods or services has not been paid by that accountable person on or before the last day of the third taxable period following the initial period, that accountable person shall reduce the amount of tax deductible by him or her in accordance with subsection (2).
 

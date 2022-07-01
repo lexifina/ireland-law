@@ -48,7 +48,7 @@ Union scheme (where the State is Member State of identification).
 
 (ii) notify that person by electronic means of the date from which the registration takes effect.
 
-(b) For the purposes of this section, a person who has been registered under paragraph (a) shall be referred to as an ‘identified person’.
+(b) For the purposes of this section, a person who has been registered under paragraph (a) shall be referred to as an "identified person".
 
 (c) Where the taxable person has not established his or her business in the Community and has more than one fixed establishment in the Community including a fixed establishment in the State, and has chosen the State as Member State of identification for the purposes of the Union scheme, he or she shall be bound by that decision for the remainder of the calendar year of registration plus an additional 2 calendar years.
 

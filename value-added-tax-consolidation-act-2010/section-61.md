@@ -6,7 +6,7 @@ Apportionment for dual-use inputs.
 
 “dual-use inputs” means movable goods or services (other than goods or services on the purchase or acquisition of which, by virtue of section 60(2), a deduction of tax shall not be made, or services related to the development of immovable goods that are subject to Chapter 2) which are not used solely for the purposes of either deductible supplies or activities or non-deductible supplies or activities;
 
-‘non-deductible supplies or activities’ means the supply of goods or services or the carrying out of activities other than deductible supplies or activities, and, in the case of immovable goods acquired or developed by an accountable person on or after 1 January 2011, includes any activity consisting of the use of those goods, or part of those goods, for any purpose other than the accountable person’s business;
+"non-deductible supplies or activities" means the supply of goods or services or the carrying out of activities other than deductible supplies or activities, and, in the case of immovable goods acquired or developed by an accountable person on or after 1 January 2011, includes any activity consisting of the use of those goods, or part of those goods, for any purpose other than the accountable person’s business;
 
 “total supplies and activities” means deductible supplies or activities and non-deductible supplies or activities.
 

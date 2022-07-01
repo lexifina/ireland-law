@@ -4,7 +4,7 @@ Import scheme (where the State is Member State of consumption).
 
 (a) is registered in the import scheme identification register (within the meaning of section 91J), or
 
-(b) applies the special scheme for distance sales of goods imported from third territories or third countries under the provisions implementing that scheme in another Member State, where that other Member State is the Member State of identification, shall, in relation to goods supplied in the State under the import scheme, be an accountable person for the purposes of this Act and, in relation to those supplies, shall, for the purposes of this section, be referred to as a ‘scheme participant’.
+(b) applies the special scheme for distance sales of goods imported from third territories or third countries under the provisions implementing that scheme in another Member State, where that other Member State is the Member State of identification, shall, in relation to goods supplied in the State under the import scheme, be an accountable person for the purposes of this Act and, in relation to those supplies, shall, for the purposes of this section, be referred to as a "scheme participant".
 
 (2) Notwithstanding subsection (3) of section 65, a scheme participant shall, in relation to supplies covered by the import scheme, be regarded as having fulfilled his or her obligations as an accountable person under the said subsection (3) and shall not otherwise be obliged or entitled to be registered under that section for supplies covered by the import scheme.
 
@@ -14,11 +14,11 @@ Import scheme (where the State is Member State of consumption).
 
 (b) deemed to have been received by the Collector-General on the date it was received by the relevant authorities of the Member State of identification, and this Act shall apply to a scheme participant and have effect as if in section 76(1)—
 
-(i) ‘by the end of the month immediately following the end of the period covered by the return’ were substituted for ‘within 9 days immediately after the 10th day of the month immediately following a taxable period’,
+(i) "by the end of the month immediately following the end of the period covered by the return" were substituted for "within 9 days immediately after the 10th day of the month immediately following a taxable period",
 
-(ii) ‘a month’ were substituted for ‘a taxable period’, and
+(ii) "a month" were substituted for "a taxable period", and
 
-(iii) in paragraphs (a)(i) and (b) ‘that month’ were substituted for ‘that taxable period’ in each place.
+(iii) in paragraphs (a)(i) and (b) "that month" were substituted for "that taxable period" in each place.
 
 (4) A scheme participant shall remit the tax payable in relation to a month under the provisions of the import scheme to the relevant authorities of the Member State of identification by the end of the month immediately following the end of the period covered by the return and, for the purposes of this Act, to the extent that the tax payable relates to goods supplied under the import scheme taxable in the State, the tax payable shall be—
 
@@ -26,11 +26,11 @@ Import scheme (where the State is Member State of consumption).
 
 (b) deemed to have been paid to the Collector-General on the date it was received by the relevant authorities of the Member State of identification, and this Act shall apply to a scheme participant and have effect as if in section 76(1)—
 
-(i) ‘by the end of the month immediately following the end of the period covered by the return’ were substituted for ‘within 9 days immediately after the 10th day of the month immediately following a taxable period’,
+(i) "by the end of the month immediately following the end of the period covered by the return" were substituted for "within 9 days immediately after the 10th day of the month immediately following a taxable period",
 
-(ii) ‘a month’ were substituted for ‘a taxable period’, and
+(ii) "a month" were substituted for "a taxable period", and
 
-(iii) in paragraphs (a)(i) and (b) ‘that month’ were substituted for ‘that taxable period’ in each place.
+(iii) in paragraphs (a)(i) and (b) "that month" were substituted for "that taxable period" in each place.
 
 (5) Where supplies have been made using a currency other than the euro, the exchange rate to be used for the purpose of expressing the corresponding amount in euro in the VAT return shall be that published by the European Central Bank for the last day of the month to which the VAT return relates or, if there is no publication on that date, on the next date of publication.
 

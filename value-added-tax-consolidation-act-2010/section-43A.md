@@ -2,11 +2,11 @@ Vouchers — Multi-purpose and single - purpose, etc.
 
 43A. (1) In this section—
 
-‘multi-purpose voucher’ means a voucher other than a single-purpose voucher;
+"multi-purpose voucher" means a voucher other than a single-purpose voucher;
 
-‘single-purpose voucher’ means a voucher where the place of supply of the goods or the services to which the voucher relates, and the tax due on those goods or services, are known at the time of issue of the voucher;
+"single-purpose voucher" means a voucher where the place of supply of the goods or the services to which the voucher relates, and the tax due on those goods or services, are known at the time of issue of the voucher;
 
-‘voucher’ means an instrument, whether in an electronic or physical format, where there is an obligation to accept it as consideration or part consideration for a supply of goods or services and where the goods or services to be supplied or the identities of their potential suppliers are either indicated on the instrument itself or in related documentation, including the terms and conditions of use of such instruments.
+"voucher" means an instrument, whether in an electronic or physical format, where there is an obligation to accept it as consideration or part consideration for a supply of goods or services and where the goods or services to be supplied or the identities of their potential suppliers are either indicated on the instrument itself or in related documentation, including the terms and conditions of use of such instruments.
 
 (2)(a) The actual handing over of goods or the actual provision of services in return for a multi-purpose voucher, accepted as consideration or part consideration by a supplier shall be a supply, but each preceding transfer of that multi-purpose voucher shall be disregarded for the purposes of this Act.
 

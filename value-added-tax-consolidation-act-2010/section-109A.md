@@ -1,6 +1,6 @@
 Tax representative.
 
-109A. (1) Subject to subsections (2) and (3), the Revenue Commissioners may, where it appears requisite to them to do so for the protection of the revenue, serve on a taxable person a notice in writing requiring the person to appoint a representative (in this section referred to as a ‘tax representative’) who is established in the Community to be the person who shall be liable for the payment of tax due and payable by the taxable person.
+109A. (1) Subject to subsections (2) and (3), the Revenue Commissioners may, where it appears requisite to them to do so for the protection of the revenue, serve on a taxable person a notice in writing requiring the person to appoint a representative (in this section referred to as a "tax representative") who is established in the Community to be the person who shall be liable for the payment of tax due and payable by the taxable person.
 
 (2) Subsection (1) shall apply where the taxable person is not established in the State and no legal instrument relating to mutual assistance similar in scope to that provided for in Directive 76/308/EEC and Regulation (EC) No 1798/2003 exists with the country in which that taxable person is established.
 
