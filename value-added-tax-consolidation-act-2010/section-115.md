@@ -34,6 +34,8 @@ Penalties generally.
 
 (5) A person who does not comply with section 108(5) or with a requirement of an authorised officer under that section shall be liable to a penalty of €4,000.
 
+(5A) A financial institution which fails to comply with a notice served under section 108(8)(c) shall be liable to a penalty of €4,000.
+
 (6) Where—
 
 (a) a person is authorised in accordance with section 98(2)(a) to inspect any immovable goods for the purpose of reporting to the Revenue Commissioners the open market value of an interest in those goods, and
