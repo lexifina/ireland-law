@@ -1,0 +1,3 @@
+Remuneration and expenses.
+
+14. There shall be paid to the Registrar, staff of the body, chairpersons and other members of the Board, committees of the Board and the appeals committee by the registration body such remuneration, allowances for expenses and, in the case of the Registrar and staff of the body, payment of contributions to pension arrangements, as the registration body, or where the registration body is a body referred to in paragraph (a) of section 8(4) the registration body with the consent of the Minister and the Minister for Public Expenditure and Reform, may determine and payment of such remuneration and allowances shall be made from funds at their disposal in accordance with section 15(1) of the registration body.
