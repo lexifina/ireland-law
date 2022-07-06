@@ -12,4 +12,4 @@ Further matters about umbrella funds
 
 (b) a “member” or “members” shall be read as referring to the holders of the shares in that sub-fund or sub-funds;
 
-(c) “creditors” shall be read as referring to the creditors of that sub-fund or sub-funds.
+(c) “creditors” shall be read as referring to the creditors of that sub-fund or sub- funds.

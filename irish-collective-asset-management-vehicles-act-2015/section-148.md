@@ -1,6 +1,6 @@
 Supplementary provision in relation to section 147
 
-148. (1) The migrating body shall notify the Bank, within 3 days after the date of its de- registration in the relevant jurisdiction, of that de-registration in such manner and form as may be specified by the Bank.
+148. (1) The migrating body shall notify the Bank, within 3 days after the date of its de-registration in the relevant jurisdiction, of that de-registration in such manner and form as may be specified by the Bank.
 
 (2) On registration of the migrating body under section 147(5) the Bank shall forthwith authorise the migrating body to carry on business.
 

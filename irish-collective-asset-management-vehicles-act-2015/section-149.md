@@ -28,6 +28,6 @@ Definitions
 
 (b) a declaration of solvency prepared in accordance with the provisions of Chapter 3;
 
-(c) a copy of a special resolution of the applicant that approves the proposed de-registration and the transfer of the applicant to the relevant jurisdiction.
+(c) a copy of a special resolution of the applicant that approves the proposed de- registration and the transfer of the applicant to the relevant jurisdiction.
 
 (2) The Minister may make regulations prescribing places, outside the State, for the purposes of the definition of “relevant jurisdiction” in subsection (1), where he or she is satisfied that the law of the place concerned makes provision for bodies corporate that are substantially similar to applicants under section 150 to continue under the laws of the State in a substantially similar manner to continuations under section 147 or for Irish collective asset-management vehicles to continue under the laws of that place.

@@ -6,7 +6,7 @@ Prohibition of loans etc. to directors and connected persons
 
 (b) enter into a credit transaction as creditor for such a director or a person so connected, or
 
-(c) enter into a guarantee or provide any security in connection with a loan, quasi-loan or credit transaction made by any other person for such a director or a person so connected.
+(c) enter into a guarantee or provide any security in connection with a loan, quasi- loan or credit transaction made by any other person for such a director or a person so connected.
 
 (2) An ICAV shall not arrange for the assignment to it or the assumption by it of any rights, obligations or liabilities under a transaction which, if it had been entered into by the ICAV, would have contravened subsection (1); but for the purposes of this Act the transaction shall be treated as having been entered into on the date of the arrangement.
 

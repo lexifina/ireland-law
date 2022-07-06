@@ -2,7 +2,7 @@ De-registration of ICAVs when continued under law of place outside the State
 
 150. (1) An ICAV which proposes to be registered in a relevant jurisdiction by way of continuation as a body corporate may apply to the Bank to be de-registered in the State.
 
-(2) Where an application is made under subsection (1), the Bank shall not de-register the applicant as an ICAV in the State unless it is satisfied that all of the requirements of this Act in respect of the de-registration and of matters precedent and incidental to de- registration have been complied with and, in particular, but without prejudice to the generality of the foregoing, it is satisfied that—
+(2) Where an application is made under subsection (1), the Bank shall not de-register the applicant as an ICAV in the State unless it is satisfied that all of the requirements of this Act in respect of the de-registration and of matters precedent and incidental to de-registration have been complied with and, in particular, but without prejudice to the generality of the foregoing, it is satisfied that—
 
 (a) the applicant has delivered to the Bank an application for the purpose, in such form as may be specified by the Bank and signed by a director of the applicant, together with the transfer documents,
 
@@ -14,7 +14,7 @@ De-registration of ICAVs when continued under law of place outside the State
 
 (3) An application under this section shall be accompanied by a statutory declaration, in such form as may be specified by the Bank, made by a solicitor engaged for this purpose by the applicant, or by a director of the applicant, and stating that the requirements mentioned in subsection (2) have been complied with, and the Bank may accept such a declaration as sufficient evidence of compliance.
 
-(4) The Bank shall, as soon as is practicable after receipt of the application for de-registration, publish notice of it in the Iris Oifigiúil.
+(4) The Bank shall, as soon as is practicable after receipt of the application for de- registration, publish notice of it in the Iris Oifigiúil.
 
 (5) Where an application is made under subsection (1) a person mentioned in subsection (6) may apply to the High Court, on notice to the applicant, the Bank and all creditors of the applicant, not later than 60 days after the date of the publication of the notice under subsection (4), for an order preventing the proposal or passage of a resolution specified in paragraph (c) of the definition of “transfer documents” in section 149(1) from taking effect in relation to the application, and the High Court may, subject to subsection (9) make such an order accordingly.
 

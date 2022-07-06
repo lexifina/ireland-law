@@ -10,12 +10,16 @@ Amendments of Central Bank Act 1942
 
 (b) in Part 1 of Schedule 2 by inserting the following:
 
-“43 No._of 2015
+“
 
-Irish Collective Asset-
+No._of 2015 43
 
-The whole Act, apart from management Vehicles Act 2015
+Irish Collective Asset-management
 
-Parts 5, 10 and 12
+The whole Act, apart from Parts
+
+Vehicles Act 2015
+
+5, 10 and 12
 
 ”.

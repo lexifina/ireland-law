@@ -40,7 +40,7 @@ Annual accounts
 
 (b) may consult any such other persons as he or she considers appropriate.
 
-(8) Separate accounts may be prepared and presented in respect of a sub-fund or sub- funds; and all references to an ICAV be read as, where appropriate, referring to the sub-fund or sub-funds in respect of which the separate accounts are to be prepared.
+(8) Separate accounts may be prepared and presented in respect of a sub-fund or sub-funds; and all references to an ICAV be read as, where appropriate, referring to the sub-fund or sub-funds in respect of which the separate accounts are to be prepared.
 
 (9) The requirement for annual accounts prepared in accordance with International Financial Reporting Standards to present fairly the assets, liabilities, financial position, financial performance and cash flow of the ICAV at the end of the financial year is deemed to be equivalent to the true and fair view required to be given by subsection (3) .
 

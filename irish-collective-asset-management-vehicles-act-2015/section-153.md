@@ -16,6 +16,4 @@ Receivers
 
 (d) in section 439(4) the reference to section 220 is to section 77 of this Act and paragraphs (b) and (c) are omitted;
 
-(e) the references in section 447 to the Director of Corporate Enforcement include the Bank.
-
-Chapter 2
+(e) the references in section 447 to the Director of Corporate Enforcement include the Bank. Chapter 2

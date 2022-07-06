@@ -6,7 +6,7 @@ Power to issue shares and debentures
 
 (2) An ICAV may issue shares as fully paid up, or subscribed and partly paid up, in such manner as may be provided by its instrument of incorporation and in accordance with its prospectus, Bank regulations and conditions imposed under section 27.
 
-(3) An ICAV may issue more than one class of shares, and may create more than one sub- fund, in accordance with its instrument of incorporation, its prospectus, Bank regulations and conditions imposed under section 27.
+(3) An ICAV may issue more than one class of shares, and may create more than one sub-fund, in accordance with its instrument of incorporation, its prospectus, Bank regulations and conditions imposed under section 27.
 
 (4) The assets of an ICAV shall belong exclusively to the ICAV and no shareholder has any interest in the assets of the ICAV.
 

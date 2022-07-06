@@ -2,7 +2,7 @@
 
 Execution of documents
 
-32. (1)Contracts on behalf of an ICAV may be made as follows:
+32. (1) Contracts on behalf of an ICAV may be made as follows:
 
 (a) a contract which, if made between natural persons, would be by law required to be in writing and to be under seal, may be made on behalf of the ICAV in writing under the common seal of the ICAV in accordance with this section;
 
