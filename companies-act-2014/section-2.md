@@ -36,6 +36,8 @@ Interpretation generally
 
 (b) the measures adopted by another Member State to implement that Directive, to operate the business of a regulated market (within the meaning of that Directive);
 
+"Authority" means the Corporate Enforcement Authority (but that title appears set out in full in any provision where it is desirable to avoid confusion or otherwise to provide clarity on the matter);
+
 "Bank Recovery and Resolution Regulations" means the European Union (Bank Recovery and Resolution) Regulations 2015 (S.I. No. 289 of 2015);
 
 “Bankruptcy Acts” means the Bankruptcy Act 1988 and any enactment amending or extending that Act;
@@ -152,13 +154,15 @@ Interpretation generally
 
 “officer”, in relation to a body corporate, includes a director or secretary;
 
-“officer of the Director” means—
+"officer of the Authority" means—
 
-(a) an officer of the Minister assigned to the Director;
+(a) a member of staff of the Authority,
 
-(b) a member of An Garda Síochána seconded to the Director; or
+(b) an officer of the Minister assigned to the Authority,
 
-(c) a person employed by the Minister or the Director under a contract for service or otherwise, to assist the Director in performing functions of the Director under this Act or any other enactment;
+(c) a member of the Garda Síochána seconded to the Authority, or
+
+(d) a person employed by the Minister or the Authority, under a contract for service or otherwise, to assist the Authority in performing functions of the Authority under this Act or any other enactment;
 
 “ordinary resolution” has the meaning given to it by section 191;
 
