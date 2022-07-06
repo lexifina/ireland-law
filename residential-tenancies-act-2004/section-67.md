@@ -36,6 +36,6 @@ Period of notice for termination by landlord where tenant in default.
 
 (3B) The Board shall assist a tenant in obtaining advice referred to in subsection (3A) if the tenant gives his or her consent pursuant to a request referred to in that subsection.
 
-(3C) Service of a notice of termination for failure by a tenant to pay an amount of rent due in respect of the tenancy of a dwelling shall be deemed to be invalid if the landlord contravenes subsection (1) of section 39A (inserted by section 11 of the Residential Tenancies and Valuation Act 2020).
+(3C) ...
 
 (4) This section is subject to section 69.

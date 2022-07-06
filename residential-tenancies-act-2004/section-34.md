@@ -18,11 +18,7 @@ Grounds for termination by landlord.
 
 (II) such a risk is likely to exist for such period as is specified in the certificate which shall not be less than 3 weeks,
 
-(b) irrespective of whether any of those grounds exist, if—
-
-(i) a notice of termination giving the required period of notice is served by the landlord in respect of the tenancy, and
-
-(ii) that period of notice expires on or after the end of the period of 6 years mentioned in section 28(2)(a) in relation to the tenancy.
+(b) ...
 
 TABLE
 
@@ -48,11 +44,11 @@ Grounds for termination
 
 (ii) the expected duration of that occupation, and
 
-(b) that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if the contact details requirement is complied with and the following conditions are satisfied—
+(b) that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if ... the following conditions are satisfied—
 
 (i) the dwelling is vacated by the person referred to in subparagraph (a) within the period of 12 months from expiry of the period of notice required to be given by the notice or, if a dispute in relation to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, and
 
-(ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 2, 3 or 6 of this Table.
+(ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 1A, 2, 3 or 6 of this Table.
 
 5. The landlord intends to substantially refurbish or renovate the dwelling or the property containing the dwelling in a way which requires the dwelling to be vacated for that purpose (and, where planning permission is required for the carrying out of that refurbishment or renovation, that permission has been obtained) and the notice of termination (the “notice”) contains or is accompanied, in writing, by a statement—
 
@@ -62,11 +58,11 @@ Grounds for termination
 
 (ab) that planning permission is not required and he or she has complied with the requirements of section 35(9)(b), and
 
-(b) that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if the contact details requirement is complied with and the following conditions are satisfied—
+(b) that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if ... the following conditions are satisfied—
 
 (i) the dwelling becomes available for reletting by reason of the completion of the works of refurbishment or renovation, and
 
-(ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 2, 3 or 6 of this Table.
+(ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 1A, 2, 3 or 6 of this Table.
 
 6. The landlord intends to change the use of the dwelling or the property containing the dwelling to some other use (and, where planning permission is required for that change of use, that permission has been obtained) and the notice of termination (the “notice”) contains or is accompanied, in writing, by a statement—
 
@@ -82,8 +78,8 @@ Grounds for termination
 
 (iii) the dates on which the intended works are to be carried out and the proposed duration of the period in which those works are to be carried out, and
 
-(b) that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if the contact details requirement is complied with and the following conditions are satisfied—
+(b) that the landlord, by virtue of the notice, is required to offer to the tenant a tenancy of the dwelling if ... the following conditions are satisfied—
 
 (i) the dwelling becomes available for reletting within the period of 12 months from expiry of the period of notice required to be given by the notice or, if a dispute in relation to the validity of the notice was referred to the Board under Part 6 for resolution, the final determination of the dispute, and
 
-(ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 2 or 3 of this Table.
+(ii) the tenancy to which the notice related had not otherwise been validly terminated by virtue of the citation in the notice of the ground specified in paragraph 1, 1A, 2 or 3 of this Table.
