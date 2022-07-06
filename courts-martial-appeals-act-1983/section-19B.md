@@ -16,4 +16,4 @@ Appeals (mental disorder at time of commission of offence).
 
 (5) If on appeal to the Court, the Court is satisfied, having considered the evidence or any new evidence relating to the mental condition of the appellant, that he was at the time that the offence alleged was committed suffering from a mental disorder of the nature referred to in section 203(1) of the Act of 1954 and that but for that disorder the appellant would have been found guilty of the offence charged or of another offence of which the person could have been found guilty by virtue of the charge, the Court shall dismiss the appeal.
 
-(6) In this section and in section 19C of this Act ‘consultant psychiatrist’ has the same meaning as in the Mental Health Act 2001.
+(6) In this section and in section 19C of this Act "consultant psychiatrist" has the same meaning as in the Mental Health Act 2001.
