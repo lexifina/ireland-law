@@ -1,10 +1,10 @@
-F34[ Legal aid (case stated) certificate.
+F36[Legal aid (case stated) certificate.
 
 27A.—(1) Where—
 
 (a) a person appeals to the summary court-martial under section 178E (inserted by the Defence (Amendment) Act 2007) of the Act of 1954 and the military judge before whom the appeal is heard refers a question of law arising in the proceedings to the Court pursuant to section 22A of this Act, and
 
-(b) a certificate for free legal aid (in this Part of this Act referred to as ‘a legal aid (case stated) certificate’) is granted in respect of the person by the prescribed authority or under subsection (3) of this section, the person shall be entitled to free legal aid in the preparation and conduct of his case in relation to the case stated and to have a solicitor and counsel assigned to him for that purpose in such manner as may be prescribed by regulations under section 33 of this Act.
+(b) a certificate for free legal aid (in this Part of this Act referred to as "a legal aid (case stated) certificate") is granted in respect of the person by the prescribed authority or under subsection (3) of this section, the person shall be entitled to free legal aid in the preparation and conduct of his case in relation to the case stated and to have a solicitor and counsel assigned to him for that purpose in such manner as may be prescribed by regulations under section 33 of this Act.
 
 (2) A legal aid (case stated) certificate shall be granted in respect of the person concerned if (but only if)—
 
