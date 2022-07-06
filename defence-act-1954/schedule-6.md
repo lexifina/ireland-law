@@ -9,7 +9,3 @@ Mionnaímse (nó dearbhaímse), ___________, go solamanta go mbead dílis d’Ei
 PART II.
 
 I, ___________, do solemnly swear (or declare) that I will be faithful to Ireland and loyal to the Constitution and that while I am an officer of the Permanent Defence Force I will obey all lawful orders issued to me by my superior officers and will not join or be a member of or subscribe to any political organisation or society or any secret society whatsoever.
-
-Insert here “na Buan-Oglaigh”, “the Permanent Defence Force”, “na hOglaigh Cúltaca” or “the Reserve Defence Force” (whichever is appropriate).
-
-Insert here “Arm”, “Army”, “Chabhlach cr “Naval”” (Whichever is appropriate

@@ -28,7 +28,7 @@ OFFENCES OF A DISCIPLINARY NATURE WHICH MAY BE DISPOSED OF SUMMARILY UNDER SECTI
 
 Provision of Principal Act Offence (1) (2)
 
-Section 131 Disobedience to superior officer
+Section 131 Disobedience to superior officer Provision of Principal Act Offence (1) (2)
 
 Section 136 Connivance at desertion
 
