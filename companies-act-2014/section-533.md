@@ -28,7 +28,7 @@ Hearing regarding irregularities
 
 (f) if the company concerned is a company referred to in section 510(2), (3) or (4) — the Central Bank;
 
-(g) irrespective of whether it constitutes any of the foregoing kinds of company — the Director of Corporate Enforcement.
+(g) irrespective of whether it constitutes any of the foregoing kinds of company — the Authority.
 
 (9) The court may, on a hearing under this section, make such order or orders as it deems fit (including, where appropriate, an order for the trial of any issue relating to the matter concerned).
 

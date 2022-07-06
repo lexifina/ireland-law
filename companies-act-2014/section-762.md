@@ -26,4 +26,4 @@ Expenses of investigation by court appointed inspector
 
 (a) in the case of an appointment of an inspector or inspectors under section 747(1), the Minister for Justice and Equality;
 
-(b) in the case of an appointment of an inspector or inspectors under section 748(1), the Director.
+(b) in the case of an appointment of an inspector or inspectors under section 748(1), the Authority.

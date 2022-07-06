@@ -1,6 +1,6 @@
 Information, books or documents may be disclosed for certain purposes
 
-791. Any information, book or document relating to a company (the “company”) that has been obtained under any of sections 778 to 780, 783 or 787 may be published or disclosed without the consent of the company if, in the opinion of the Director, publication or disclosure is required—
+791. Any information, book or document relating to a company (the “company”) that has been obtained under any of sections 778 to 780, 783 or 787 may be published or disclosed without the consent of the company if, in the opinion of the Authority, publication or disclosure is required—
 
 (a) with a view to the investigation or prosecution of any offence under—
 
@@ -48,14 +48,14 @@ Information, books or documents may be disclosed for certain purposes
 
 (i) any company in relation to which an inspector has been appointed under section 763 or 764;
 
-(ii) any person required by the Director to give any information under section 767;
+(ii) any person required by the Authority to give any information under section 767;
 
-(iii) any company to which the Director has given a direction under section 778; or
+(iii) any company to which the Authority has given a direction under section 778; or
 
-(iv) any person named in a report or other document prepared by the Director, in the ordinary course of administration, in consequence of the exercise of powers under section 767 or 778;
+(iv) any person named in a report or other document prepared by the Authority, in the ordinary course of administration, in consequence of the exercise of powers under section 767 or 778;
 
-(l) for the purpose of complying with any requirement, or exercising any power, imposed or conferred by this Part with respect to reports made by inspectors who have been appointed, under this Part or that section, by the court or by the Director;
+(l) for the purpose of complying with any requirement, or exercising any power, imposed or conferred by this Part with respect to reports made by inspectors who have been appointed, under this Part or that section, by the court or by the Authority;
 
-(m) with a view to the institution by the Director of proceedings for the winding up under this Act of the company or otherwise for the purposes of proceedings instituted by him or her for that purpose; or
+(m) with a view to the institution by the Authority of proceedings for the winding up under this Act of the company or otherwise for the purposes of proceedings instituted by him or her for that purpose; or
 
 (n) for the purpose of proceedings under section 787 or 842.

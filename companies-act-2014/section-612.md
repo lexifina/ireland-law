@@ -6,7 +6,7 @@ Power of court to assess damages against certain persons
 
 (b) any past or present officer, liquidator, provisional liquidator or examiner of the company, or receiver of the property of the company, has misapplied or retained or become liable or accountable for any money or property of the company, or has been guilty of any misfeasance or other breach of duty or trust in relation to the company.
 
-(2) The court may, on the application of the Director or the liquidator or any creditor or contributory of the company, examine into the conduct of the promoter, officer, liquidator, examiner or receiver, and compel him or her—
+(2) The court may, on the application of the Authority or the liquidator or any creditor or contributory of the company, examine into the conduct of the promoter, officer, liquidator, examiner or receiver, and compel him or her—
 
 (a) to repay or restore the money or property or any part of it respectively with interest at such rate as the court thinks just, or
 

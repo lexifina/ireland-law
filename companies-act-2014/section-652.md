@@ -4,7 +4,7 @@ Enforcement of duty of liquidator to make returns
 
 (2) Where this subsection applies, the court may, on an application made for the purpose, make an order directing the liquidator to make good the default within such time as may be specified in the order.
 
-(3) Any contributory or creditor of the company, the Director or the Registrar may make an application for the purposes of this section.
+(3) Any contributory or creditor of the company, the Authority or the Registrar may make an application for the purposes of this section.
 
 (4) The order under this section may provide that all costs of and incidental to the application shall be borne by the liquidator.
 

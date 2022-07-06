@@ -8,15 +8,15 @@ Court may order sale of shares
 
 (2) The court may make the order under subsection (1) on the application of—
 
-(a) the Director; or
+(a) the Authority; or
 
-(b) the company, if the company has given notice of the application to the Director.
+(b) the company, if the company has given notice of the application to the Authority.
 
 (3) Where the court has made an order that the shares shall be sold, on the application of a person specified in subsection (4) the court may make any further order relating to the sale or to the transfer of the shares as it sees fit.
 
 (4) The court may make a further order under subsection (3) on the application of—
 
-(a) the Director;
+(a) the Authority;
 
 (b) the company;
 

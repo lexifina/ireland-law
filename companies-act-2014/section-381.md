@@ -14,6 +14,6 @@ Remuneration of statutory auditors
 
 (II) in such other manner as the members may from time to time resolve, or
 
-(c) where they are appointed by the Director of Corporate Enforcement pursuant to section 385, may be fixed by the Director of Corporate Enforcement or, to the extent, and in the circumstances, that the Director of Corporate Enforcement authorises such to be done, by the directors or members.
+(c) where they are appointed by the Authority pursuant to section 385, may be fixed by the Authority or, to the extent, and in the circumstances, that the Authority authorises such to be done, by the directors or members.
 
 (2) For the purposes of this section, any sums paid by the company in respect of the statutory auditors’ expenses shall be deemed to be included in the expression “remuneration”.

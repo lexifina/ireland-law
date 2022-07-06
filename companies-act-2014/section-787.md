@@ -48,7 +48,7 @@ Entry and search of premises
 
 (iv) the apparatus or equipment that it would be necessary or appropriate to use for the carrying out of the determination or separation;
 
-(v) the costs of carrying out the determination or separation on those premises as against the costs of carrying out the determination or separation in another place (being a place in which the Director can show it would be appropriate to do the thing concerned and in which the Director intends to arrange, or does arrange, for the thing to be done); and
+(v) the costs of carrying out the determination or separation on those premises as against the costs of carrying out the determination or separation in another place (being a place in which the Authority can show it would be appropriate to do the thing concerned and in which the Authority intends to arrange, or does arrange, for the thing to be done); and
 
 (vi) in the case of separation, whether the separation—
 
@@ -86,7 +86,7 @@ Entry and search of premises
 
 “computer at the place that is being searched” includes any other computer, whether at the place being searched or at any other place, that is lawfully accessible by means of that computer;
 
-“designated officer” means the Director or a duly authorised officer of the Director;
+“designated officer” means the Authority or a duly authorised officer of the Authority;
 
 “material information” means—
 

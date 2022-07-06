@@ -18,7 +18,7 @@ Court may order compliance by company or officer
 
 (b) any creditor of the company;
 
-(c) the Director; or
+(c) the Authority; or
 
 (d) the Registrar.
 

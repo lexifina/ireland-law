@@ -40,7 +40,7 @@ Credit institutions: requirement for register, etc., in the case of holding comp
 
 (b) the company’s being required by a rule, instrument, direction or requirement referred to in section 313 to disclose such information in the following manner, the company has included in its entity or group financial statements for the last complete financial year mentioned in subsection (5) the particulars referred to in section 307(1) or (2) or section 309(1) or (2), as the case may be, of the transaction, arrangement or agreement which, but for either of those reasons, it would not have disclosed in those financial statements by virtue of section 310.
 
-(9) A company shall, if required by the Director, produce to the Director for inspection the register kept by it in accordance with subsection (1) and shall give the Director such facilities for inspecting and taking copies of the contents of the register as the Director may require.
+(9) A company shall, if required by the Authority, produce to the Authority for inspection the register kept by it in accordance with subsection (1) and shall give the Authority such facilities for inspecting and taking copies of the contents of the register as the Authority may require.
 
 (10) It shall be the duty of the statutory auditors of the company to examine any such statement specified in subsection (5) before it is made available to the members of the company in accordance with subsections (3) and (4) and to make a report to the members on that statement; and the report shall be annexed to the statement before it is made so available.
 

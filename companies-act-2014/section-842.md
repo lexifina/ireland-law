@@ -10,7 +10,7 @@ Court may make disqualification order
 
 (d) that the conduct of the person as promoter, officer, statutory auditor, receiver, liquidator or examiner of a company makes him or her unfit to be concerned in the management of a company,
 
-(e) that, as disclosed in a report of inspectors appointed by the court or the Director under this Act, the conduct of the person makes him or her unfit to be concerned in the management of a company,
+(e) that, as disclosed in a report of inspectors appointed by the court or the Authority under this Act, the conduct of the person makes him or her unfit to be concerned in the management of a company,
 
 (f) that the person has been persistently in default in relation to the relevant requirements,
 

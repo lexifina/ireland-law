@@ -1,8 +1,8 @@
 Director's power to require information as to persons interested in shares or debentures
 
-767. (1) This section applies if the Director considers that an investigation of the ownership of the shares in or debentures of a company is necessary for any of the reasons set out in section 764(2) but that it is unnecessary to appoint an inspector for the purpose.
+767. (1) This section applies if the Authority considers that an investigation of the ownership of the shares in or debentures of a company is necessary for any of the reasons set out in section 764(2) but that it is unnecessary to appoint an inspector for the purpose.
 
-(2) In any case to which this section applies, the Director may, subject to section 800(5), require a person to give the following information to the Director if the Director has reasonable cause to believe that the person has or is able to obtain the information:
+(2) In any case to which this section applies, the Authority may, subject to section 800(5), require a person to give the following information to the Authority if the Authority has reasonable cause to believe that the person has or is able to obtain the information:
 
 (a) any information as to the past and present interests in the shares or debentures;
 
@@ -22,10 +22,10 @@ Director's power to require information as to persons interested in shares or de
 
 (4) A person shall be guilty of a category 2 offence if that person, when required to give any information under this section—
 
-(a) fails to give the information to the Director; or
+(a) fails to give the information to the Authority; or
 
-(b) makes any statement to the Director false in a material particular knowing it to be so false or being reckless as to whether it is so false.
+(b) makes any statement to the Authority false in a material particular knowing it to be so false or being reckless as to whether it is so false.
 
-(5) Without prejudice to subsection (4), if a person fails to give information to the Director under this section when required by the Director to do so, the court, on application by the Director, and having given the person an opportunity to be heard, may make an order requiring the person to comply with the Director’s requirement.
+(5) Without prejudice to subsection (4), if a person fails to give information to the Authority under this section when required by the Authority to do so, the court, on application by the Authority, and having given the person an opportunity to be heard, may make an order requiring the person to comply with the Authority’s requirement.
 
 (6) In making an order under subsection (5), the court may order the third party to pay all costs of and incidental to the application.

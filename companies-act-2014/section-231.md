@@ -26,7 +26,7 @@ Duty of director to disclose his or her interest in contracts made by company
 
 (b) any meeting of its directors if any of its directors so requests in sufficient time to enable the book to be available at the meeting.
 
-(8) A company shall, if required by the Director of Corporate Enforcement, produce to the Director for inspection the book kept by it in accordance with subsection (6) and shall give the Director such facilities for inspecting and taking copies of the contents of the book as the Director may require.
+(8) A company shall, if required by the Authority, produce to the Authority for inspection the book kept by it in accordance with subsection (6) and shall give the Authority such facilities for inspecting and taking copies of the contents of the book as the Authority may require.
 
 (9) Nothing in this section shall be taken to prejudice the operation of any enactment or rule of law restricting directors of a company from having interests in contracts with the company.
 

@@ -12,7 +12,7 @@ Provisions as to applications for winding up
 
 (3) A winding-up petition on the grounds mentioned in section 569(1)(f) may be presented by any person entitled to bring proceedings for an order under section 212 in relation to the company concerned.
 
-(4) In a case falling within section 569(1)(g) a winding-up petition may be presented by the Director.
+(4) In a case falling within section 569(1)(g) a winding-up petition may be presented by the Authority.
 
 (5) A contributory shall not be entitled to present a winding-up petition unless the shares in respect of which the person is a contributory, or some of them, either—
 

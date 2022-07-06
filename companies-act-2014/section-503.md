@@ -52,9 +52,11 @@ Confirmation order
 
 (g) every contract, agreement or instrument to which the transferor company is a party becomes a contract, agreement or instrument between the relevant successor company or companies and the counterparty with the same rights, and subject to the same obligations, liabilities and incidents (including rights of set-off), as would have been applicable thereto if that contract, agreement or instrument had continued in force between the transferor company and the counterparty;
 
-(h) any money due and owing (or payable) by or to the transferor company under or by virtue of any such contract, agreement or instrument as is mentioned in paragraph (g) shall become due and owing (or payable) by or to the relevant successor company or companies instead of the transferor company; and
+(h) any money due and owing (or payable) by or to the transferor company under or by virtue of any such contract, agreement or instrument as is mentioned in paragraph (g) shall become due and owing (or payable) by or to the relevant successor company or companies instead of the transferor company;
 
-(i) an offer or invitation to treat made to or by the transferor company before the effective date shall be read and have effect, respectively, as an offer or invitation to treat made to or by the relevant successor company or companies.
+(i) an offer or invitation to treat made to or by the transferor company before the effective date shall be read and have effect, respectively, as an offer or invitation to treat made to or by the relevant successor company or companies; and
+
+(j) any fully paid shares previously issued by a successor company, and held by a transferor company, and which are acquired by a successor company in itself pursuant to a division under this Chapter, shall be deemed to be treasury shares held by the successor company concerned to which section 109 applies.
 
 (5) The following provisions have effect for the purposes of subsection (4)—
 

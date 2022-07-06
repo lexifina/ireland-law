@@ -10,4 +10,4 @@ Penalty for failure to provide information
 
 (5) Where an order is made under this section directing that shares shall be subject to restrictions under section 768, the PLC or any person aggrieved by the order may apply to the court for an order directing that the shares shall cease to be subject thereto.
 
-(6) Sections 769 to 776 shall apply in relation to any shares subject to the restrictions imposed by section 768 by virtue of an order under this section but with the omission in sections 769 to 775 of any reference to the Director.
+(6) Sections 769 to 776 shall apply in relation to any shares subject to the restrictions imposed by section 768 by virtue of an order under this section but with the omission in sections 769 to 775 of any reference to the Corporate Enforcement Authority.

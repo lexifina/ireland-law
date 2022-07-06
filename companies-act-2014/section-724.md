@@ -4,7 +4,7 @@ Supplemental provisions in relation to section 723: duty to provide assistance t
 
 (a) the Director of Public Prosecutions, or
 
-(b) the Director of Corporate Enforcement, the Director of Public Prosecutions or, as the case may be, the Director of Corporate Enforcement considers that the case is one in which a prosecution ought to be instituted and institutes proceedings accordingly, it shall be the duty of each of the following persons to give all assistance in connection with the prosecution which he or she is reasonably able to give.
+(b) the Authority, the Director of Public Prosecutions or, as the case may be, the Authority considers that the case is one in which a prosecution ought to be instituted and institutes proceedings accordingly, it shall be the duty of each of the following persons to give all assistance in connection with the prosecution which he or she is reasonably able to give.
 
 (2) The persons referred to in subsection (1) are the liquidator of the company and—
 
@@ -20,6 +20,6 @@ Supplemental provisions in relation to section 723: duty to provide assistance t
 
 (c) any persons employed by the company as auditors, accountants, book-keepers or taxation advisers, or other persons employed by it in a professional, consultancy or similar capacity, whether those persons are (or were) or are not (or were not) officers of the company.
 
-(4) If any person fails or neglects to give assistance in the manner required by subsection (1), the court may, on the application of the Director of Public Prosecutions or, as the case may be, the Director of Corporate Enforcement, direct that person to comply with the requirements of that subsection.
+(4) If any person fails or neglects to give assistance in the manner required by subsection (1), the court may, on the application of the Director of Public Prosecutions or, as the case may be, the Authority, direct that person to comply with the requirements of that subsection.
 
 (5) Where an application is made under subsection (4) or section 723(9) in relation to a liquidator, the court may, unless it appears that the failure or neglect to comply was due to the liquidator not having in his or her hands sufficient assets of the company to enable him or her so to do, direct that the costs of the application shall be borne by the liquidator personally.

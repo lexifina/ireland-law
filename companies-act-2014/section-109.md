@@ -6,7 +6,9 @@ Treasury shares
 
 (a) shares held in the company by any subsidiary in pursuance of section 114;
 
-(b) shares held in the company by any person acting in his or her own name but on the company’s behalf.
+(b) shares held in the company by any person acting in his or her own name but on the company’s behalf;
+
+(c) shares previously issued by a successor company, and held by a transferor company, which are acquired by a successor company pursuant to section 480 or 503.
 
 (3) For the purposes of subsection (1), shares of the company acquired by it otherwise than for valuable consideration shall not be deemed to be treasury shares.
 

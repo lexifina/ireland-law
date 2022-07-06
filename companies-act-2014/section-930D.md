@@ -6,7 +6,7 @@ Conflicts of interest to be avoided
 
 (a) the Supervisory Authority,
 
-(b) the Director,
+(b) the Corporate Enforcement Authority,
 
 (c) the Registrar, and
 

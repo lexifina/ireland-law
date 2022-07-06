@@ -2,11 +2,11 @@
 
 Investigation of share dealing by inspector appointed by Director
 
-763. (1) If the Director considers that there are circumstances suggesting that a contravention of Chapter 5 of Part 5 has occurred in relation to shares in or debentures of a company, the Director may appoint one or more competent inspectors to—
+763. (1) If the Authority considers that there are circumstances suggesting that a contravention of Chapter 5 of Part 5 has occurred in relation to shares in or debentures of a company, the Authority may appoint one or more competent inspectors to—
 
 (a) investigate whether such a contravention has occurred; and
 
-(b) report the results of the investigation to the Director.
+(b) report the results of the investigation to the Authority.
 
 (2) The appointment under this section of an inspector may limit the period to which his or her investigation is to extend or confine it to shares or debentures of a particular class or both.
 
@@ -16,12 +16,12 @@ Investigation of share dealing by inspector appointed by Director
 
 (b) with the necessary modification of the reference in section 756 to the affairs of the company or other body corporate, so, however, it shall apply to members of an authorised market operator who are individuals and to officers (past and present) of members of such an authorised market operator who are bodies corporate as it applies to officers of the company or body corporate.
 
-(4) The inspector may, and if directed by the Director, shall make interim reports to the Director, and on the conclusion of the investigation shall make a final report to the Director.
+(4) The inspector may, and if directed by the Authority, shall make interim reports to the Authority, and on the conclusion of the investigation shall make a final report to the Authority.
 
-(5) An inspector’s interim or final report shall be written or printed as the Director shall direct, and the Director may cause it to be published.
+(5) An inspector’s interim or final report shall be written or printed as the Authority shall direct, and the Authority may cause it to be published.
 
 (6) Sections 750, 757, 768 to 777, 795 (other than subsection (8)) and 881(4) shall, with any necessary modifications, apply for the purposes of this section.
 
-(7) The expenses of an investigation under this section shall be defrayed by the Director.
+(7) The expenses of an investigation under this section shall be defrayed by the Authority.
 
-(8) Where a person is convicted on indictment of an offence on a prosecution instituted as a result of an investigation under this section, the court may, on the application of the Director, order that person to pay all or part of the expenses of the investigation as the court may direct.
+(8) Where a person is convicted on indictment of an offence on a prosecution instituted as a result of an investigation under this section, the court may, on the application of the Authority, order that person to pay all or part of the expenses of the investigation as the court may direct.

@@ -32,6 +32,6 @@ Financial year
 
 (b) that is being wound up, or
 
-(c) where the Director, on application to him or her by the company, directs that it shall not apply.
+(c) where the Authority, on application to him or her by the company, directs that it shall not apply.
 
 (11) In this section “EEA undertaking” means an undertaking established under the law of the State or the law of any other EEA state.

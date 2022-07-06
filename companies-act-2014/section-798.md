@@ -18,7 +18,7 @@ Court may restrain directors and others from removing assets
 
 (b) a director, member, liquidator, receiver or creditor of the company, or
 
-(c) the Director.
+(c) the Authority.
 
 (4) In subsection (2)(a), “qualifying claim” means a claim that—
 

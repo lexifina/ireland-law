@@ -14,7 +14,7 @@ Annual audit programme and activity report
 
 (e) a report for the financial year to which the AAPA report relates on the overall results of the quality assurance system required by section 1494(1), including—
 
-(i) information on recommendations issued, follow-up on the recommendations, supervisory measures taken and relevant sanctions (including relevant sanctions within the meaning of section 957AA) and public notices of relevant sanctions imposed (including public notices of relevant sanctions imposed within the meaning of section 957AA), and
+(i) information on recommendations issued, follow-up on the recommendations, supervisory measures taken and relevant sanctions (including relevant sanctions within the meaning of section 944Z) and public notices of relevant sanctions imposed (including public notices of relevant sanctions imposed within the meaning of section 944Z), and
 
 (ii) quantitative information and other key performance information on financial resources and staffing, and the efficiency and effectiveness of the quality assurance system.
 

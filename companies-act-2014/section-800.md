@@ -4,7 +4,7 @@ Court may make disclosure order
 
 (a) any person who has a financial interest in a company, or
 
-(b) the Director, the court may make an order specified in section 801 in respect of all or any of the shares in or debentures of the company.
+(b) the Authority, the court may make an order specified in section 801 in respect of all or any of the shares in or debentures of the company.
 
 (2) An application under this section shall be supported by such evidence as the court may require.
 
@@ -12,11 +12,11 @@ Court may make disclosure order
 
 (a) it is just and equitable to do so, and
 
-(b) in the case of an application made other than by the Director, the financial interest of the applicant is or will be prejudiced by the non-disclosure of any interest in the shares in or debentures of the company.
+(b) in the case of an application made other than by the Authority, the financial interest of the applicant is or will be prejudiced by the non-disclosure of any interest in the shares in or debentures of the company.
 
 (4) The court may, before hearing an application under this section, require the applicant to give security for the payment of the costs of hearing the application or any consequential proceedings.
 
-(5) If an application is made under this section by the Director then there are not available to the Director—
+(5) If an application is made under this section by the Authority then there are not available to the Authority—
 
 (a) the powers under section 764(1) as regards appointing one or more competent inspectors to investigate and report on any matter in so far as such investigation and reporting would relate to the same shares or debentures of the company in question, or
 

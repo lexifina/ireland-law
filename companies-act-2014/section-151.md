@@ -1,6 +1,6 @@
 Particulars to be shown on all business letters of company
 
-151. (1) Subject to subsection (5), a company shall, in all business letters on or in which the company's name appears and which are sent by the company to any person, state in legible characters in relation to every director of the company the following particulars:
+151. (1) A company shall, in all business letters on or in which the company's name appears and which are sent by the company to any person, state in legible characters in relation to every director of the company the following particulars:
 
 (a) his or her present forename, or the initials thereof, and present surname;
 
@@ -24,7 +24,7 @@ Particulars to be shown on all business letters of company
 
 (b) the reference shall be displayed in a prominent and easily accessible place on the website.
 
-(5) If special circumstances exist which render it, in the opinion of the Minister, expedient that such an exemption should be granted, the Minister may, subject to such conditions as he or she may think fit to impose and specifies in the exemption, grant, in writing, an exemption from the obligations imposed by subsection (1).
+(5) ...
 
 (6) If a company makes default in complying with this section, the company and any officer of it who is in default shall be guilty of a category 4 offence.
 

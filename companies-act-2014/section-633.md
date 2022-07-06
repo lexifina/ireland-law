@@ -10,6 +10,10 @@ Qualifications for appointment as liquidator or provisional liquidator — gener
 
 (3) In addition to subsection (2), nothing in this section shall prevent a relevant applicant from continuing to act as a liquidator in a winding up in relation to which he or she was appointed liquidator before the commencement of this section notwithstanding that the Supervisory Authority has refused his or her application made under and in accordance with paragraph 5 of the Table to this section.
 
+(3A) The Authority may, by notice in writing given to a person standing to be qualified for appointment, or who is so qualified, as liquidator, request the person to provide the Authority, within 28 days of the receipt by the person of the notice, with such evidence specified in the notice as the Authority may require, to prove to the Authority that the person complies with the requirements of the Table to this section.
+
+(3B) Any person who, without just cause, fails to comply with a request under subsection (3A) shall be guilty of a category 4 offence.
+
 (4) In this section—
 
 "liquidator" includes provisional liquidator;
@@ -66,6 +70,6 @@ Fifth (and limited) category — person with practical experience of windings-up
 
 (II) having practised in an EEA state (not being the State) as a liquidator;
 
-(ii) the person is, in the opinion of the Supervisory Authority, after consultation with the Director, a fit and proper person to act as a liquidator; and
+(ii) the person is, in the opinion of the Supervisory Authority, after consultation with the Authority, a fit and proper person to act as a liquidator; and
 
 (iii) the person does not fall within paragraph 1, 2, 3 or 4.

@@ -24,7 +24,7 @@ Recognition of body of accountants
 
 (e) the Institute of Certified Public Accountants in Ireland;
 
-(f) the Institute of Incorporated Public Accountants; shall be deemed to have been granted recognition under this section by the Supervisory Authority for the purposes of the relevant provisions and, subject to sections 931 and 931B, for such recognition to have stated that each such body may perform each of the Part 27 functions.
+(f) ... shall be deemed to have been granted recognition under this section by the Supervisory Authority for the purposes of the relevant provisions and, subject to sections 931 and 931B, for such recognition to have stated that each such body may perform each of the Part 27 functions.
 
 (3) A body of accountants granted recognition under subsection (1) or (2) shall continue to satisfy the Supervisory Authority as referred to in subsection (1) for the duration of such recognition.
 

@@ -6,7 +6,7 @@ Power to apply to court for determination of questions or concerning exercise of
 
 (b) any contributory or creditor of the company;
 
-(c) the Director; may apply to the court to determine any question arising in the winding up of a company (including any question in relation to any exercise or proposed exercise of any of the powers of the liquidator).
+(c) the Authority; may apply to the court to determine any question arising in the winding up of a company (including any question in relation to any exercise or proposed exercise of any of the powers of the liquidator).
 
 (2) The court, if satisfied that the determination of the question will be just and beneficial, may accede wholly or partially to such an application on such terms and conditions as it thinks fit or may make such other order on the application as it thinks just.
 

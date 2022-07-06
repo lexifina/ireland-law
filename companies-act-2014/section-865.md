@@ -6,7 +6,7 @@ Summary prosecutions
 
 (a) the Director of Public Prosecutions; or
 
-(b) the Director.
+(b) the Authority.
 
 (2) Without prejudice to the generality of subsection (1), summary proceedings in relation to an offence under each of the following provisions may be brought and prosecuted by the Registrar:
 

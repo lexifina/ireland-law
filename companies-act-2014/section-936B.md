@@ -6,7 +6,7 @@ Review of members of recognised accountancy bodies
 
 (b) any direction given by the Authority under section 934C(2)(e) or (f), and
 
-(c) any direction given by the Director under section 957C(2)(b).
+(c) any direction given by the Corporate Enforcement Authority under section 944AB(2)(b).
 
 (2) The Supervisory Authority shall, as soon as may be after the end of a year, give to the CEAOB aggregated information in relation to—
 
@@ -18,9 +18,13 @@ Review of members of recognised accountancy bodies
 
 (d) all public notices of relevant sanctions imposed (within the meaning of Chapter 9 of Part 27) by it on specified persons (within the meaning of that Chapter) during the year in accordance with that Chapter,
 
-(e) all relevant sanctions (within the meaning of section 957AA) imposed by the Director during the year in accordance with Chapter 3, and
+(e) in so far as all or part of the year has elapsed before the relevant date, all relevant sanctions (within the meaning of section 957AA as in force before the relevant date) imposed by the Corporate Enforcement Authority during the year in accordance with Chapter 3,
 
-(f) all public notices of relevant sanctions imposed (within the meaning of section 957AA) by the Director during the year in accordance with Chapter 3.
+(f) on and after the relevant date, all relevant sanctions (within the meaning of section 944Z) imposed by the Authority during the year in accordance with Chapter 3B,
+
+(g) in so far as all or part of the year has elapsed before the relevant date, all public notices of relevant sanctions (within the meaning of section 957AA as in force before the relevant date) imposed by the Director during the year in accordance with Chapter 3, and
+
+(h) on and after the relevant date, all public notices of relevant sanctions (within the meaning of section 944Z) imposed by the Authority during the year in accordance with Chapter 3B.
 
 (3) A recognised accountancy body shall immediately communicate to the Supervisory Authority particulars of any temporary prohibition referred to in point (c) or (e) of Article 30a(1) of the Audit Directive imposed by the body on a relevant person.
 
@@ -34,7 +38,11 @@ Review of members of recognised accountancy bodies
 
 (6) The Supervisory Authority shall, as soon as may be after it is given the information referred to in subsection (5), give the information to the CEAOB.
 
-(7) In this section, "relevant person", in relation to a recognised accountancy body, means—
+(7) In this section—
+
+"relevant date" means the date of commencement of section 3 of the Companies (Corporate Enforcement Authority) Act 2021;
+
+"relevant person", in relation to a recognised accountancy body, means—
 
 (a) a member of the body, or
 

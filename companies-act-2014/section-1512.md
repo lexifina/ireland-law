@@ -8,7 +8,7 @@ Prohibition of contractual clauses restricting choice of auditors
 
 (3) The Supervisory Authority, on receipt of a report under subsection (2), may share the report with—
 
-(a) the Director,
+(a) the Corporate Enforcement Authority,
 
 (b) the Revenue Commissioners,
 

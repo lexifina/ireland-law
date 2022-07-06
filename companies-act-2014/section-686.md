@@ -4,4 +4,4 @@ Books of company to be evidence in civil proceedings
 
 (a) the members, officers and contributories of the company, and
 
-(b) any of the persons referred to in paragraph (a) and the liquidator, the provisional liquidator (if any) and the Director of Corporate Enforcement, be admissible, in all civil proceedings, as evidence of any fact therein.
+(b) any of the persons referred to in paragraph (a) and the liquidator, the provisional liquidator (if any) and the Authority, be admissible, in all civil proceedings, as evidence of any fact therein.

@@ -14,7 +14,7 @@ Notifications and filings of appointments and removals
 
 (5) The liquidator, following receipt of notice of his or her appointment (other than an appointment made by the court), shall forthwith deliver to the Registrar notice of his or her appointment in the prescribed form.
 
-(6) The Registrar shall forward a copy of such notice to the Director.
+(6) The Registrar shall forward a copy of such notice to the Authority.
 
 (7) Where an order is made appointing or removing a liquidator—
 
@@ -24,7 +24,7 @@ Notifications and filings of appointments and removals
 
 (8) Where an order is made appointing or removing a liquidator, such officer of the court as may be prescribed shall, following the making of the order, forthwith cause the Registrar to be furnished with such particulars of the order as may be prescribed.
 
-(9) The Registrar shall forward a copy of such particulars to the Director.
+(9) The Registrar shall forward a copy of such particulars to the Authority.
 
 (10) Subject to subsection (11), a person who fails to comply with a provision of this section shall be guilty of a category 3 offence.
 

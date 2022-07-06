@@ -4,7 +4,7 @@ Restriction on disclosure of information, books or documents
 
 (a) the company consents to the publication or disclosure,
 
-(b) the publication or disclosure is, in the opinion of the Director, required under any of section 791(a) to (n), or
+(b) the publication or disclosure is, in the opinion of the Authority, required under any of section 791(a) to (n), or
 
 (c) the publication or disclosure is made to a competent authority specified in section 792.
 

@@ -10,9 +10,9 @@ Application of certain provisions to investigation of company ownership
 
 (c) any other person whom the inspector has reasonable cause to believe has information relevant to the investigation.
 
-(3) For the references to the court (except in section 757) there shall be substituted references to the Director.
+(3) For the references to the court (except in section 757) there shall be substituted references to the Authority.
 
-(4) The Director may—
+(4) The Authority may—
 
 (a) where he or she considers that there is good reason for not divulging any part of a report made by virtue of this section, disclose the report with that part omitted,
 

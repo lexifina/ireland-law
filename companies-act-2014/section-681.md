@@ -8,7 +8,7 @@ Information about progress of liquidation
 
 (a) as regards the first of them — the interval ending on the date of the first anniversary of the commencement of the winding up (but, for the purposes of this interval, the obligation of the liquidator under subsection (2) may be fulfilled at any time before the expiry of 14 days after that anniversary), and
 
-(b) as regards subsequent intervals — intervals of 6 months, or such greater period as may be prescribed, following on from that first anniversary.
+(b) as regards subsequent intervals — intervals of 6 months, or such other period as may be prescribed, following on from that first anniversary.
 
 (4) The obligation under subsection (2) does not apply in relation to a particular winding up if and to the extent that the court specifies in a direction given by it.
 

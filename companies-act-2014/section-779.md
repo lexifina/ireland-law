@@ -1,6 +1,6 @@
 When Director may exercise power to require company to produce books or documents
 
-779. The Director may give the direction described in section 778 to a company if the Director considers that there are circumstances suggesting that—
+779. The Authority may give the direction described in section 778 to a company if the Authority considers that there are circumstances suggesting that—
 
 (a) it is necessary to examine the books or documents of the company with a view to determining whether an inspector should be appointed to investigate the company under this Act;
 

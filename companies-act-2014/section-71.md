@@ -8,7 +8,17 @@ Payment of shares
 
 (4) Subsections (1) and (2) shall not prevent a company from allotting bonus shares as provided by this Part.
 
-(5) Subject to sections 72, 73 and 75, any value received in respect of the allotment of a share in excess of its nominal value shall be credited to and form part of undenominated capital of the company and, for that purpose, shall be transferred to an account which shall be known, and in this Act is referred to, as the “share premium account”.
+(5) Subject to subsection (5A) and sections 72, 73 and 75, any value received in respect of the allotment of a share in excess of its nominal value shall be credited to and form part of undenominated capital of the company and, for that purpose, shall be transferred to an account which shall be known, and in this Act is referred to, as the “share premium account”.
+
+(5A) The share premium account may be applied by the company—
+
+(a) in writing off—
+
+(i) the preliminary expenses of the company, or
+
+(ii) the expenses of, or the commission paid on, any issue of shares or debentures of the company, or
+
+(b) in providing for the premium payable on redemption of any redeemable preference shares issued by the company before 1 July 1991 or of any debentures of the company issued by a company before 1 June 2015.
 
 (6) Where any person becomes a holder of any shares in respect of which—
 

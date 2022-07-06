@@ -12,7 +12,7 @@ Membership of Supervisory Authority
 
 (2) Unless a regulation under section 943(1)(b) provides otherwise, each of the following is, on and from the commencement of this section, a designated body for the purposes of subsection (1):
 
-(a) the Director of Corporate Enforcement;
+(a) the Corporate Enforcement Authority;
 
 (b) the Central Bank;
 

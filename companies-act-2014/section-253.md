@@ -30,6 +30,6 @@ Duty of director to disclose to company payments to be made to him or her in con
 
 (a) this Part and the rest of Parts 1 to 14, and
 
-(b) the company’s constitution, relating to general meetings of the company shall, for that purpose, apply to the meeting either without modification or with such modifications as the Director of Corporate Enforcement, on the application of any person concerned, may direct for the purpose of adapting them to the circumstances of the meeting.
+(b) the company’s constitution, relating to general meetings of the company shall, for that purpose, apply to the meeting either without modification or with such modifications as the Authority, on the application of any person concerned, may direct for the purpose of adapting them to the circumstances of the meeting.
 
 (7) If at a meeting summoned for the purpose of approving any payment as required by paragraph (b) of subsection (5), a quorum is not present and after the meeting has been adjourned to a later date a quorum is again not present, the payment shall be deemed for the purposes of that subsection to have been approved.

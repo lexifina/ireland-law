@@ -52,7 +52,7 @@ Continuity of law relating to disqualifications and restrictions, etc.
 
 (4) Without prejudice to the generality of paragraph 6, the powers of the court under section 842 (court may make disqualification order) are exercisable by reference to matters or things done or omitted to be done under the prior Companies Acts as they are exercisable by reference to matters or things done or omitted to be done under this Act.
 
-(5) Chapter 5 (Disqualification and Restriction Undertakings) of Part 14 shall be read as being operative and as applicable in a case where the Director has reasonable grounds for the belief referred to in section 850(2) or 852(2) by reference to matters or things done or omitted to be done, or circumstances, under the prior Companies Acts as they are operative and applicable in a case where the Director has reasonable grounds for such belief by reference to matters or things done or omitted to be done, or circumstances, under this Act.
+(5) Chapter 5 (Disqualification and Restriction Undertakings) of Part 14 shall be read as being operative and as applicable in a case where the Authority has reasonable grounds for the belief referred to in section 850(2) or 852(2) by reference to matters or things done or omitted to be done, or circumstances, under the prior Companies Acts as they are operative and applicable in a case where the Authority has reasonable grounds for such belief by reference to matters or things done or omitted to be done, or circumstances, under this Act.
 
 Continuation of acts not completed
 

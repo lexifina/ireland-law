@@ -18,7 +18,7 @@ Registration of, and obligation of company to supply copies of, certain resoluti
 
 (e) resolutions conferring authority for the allotment of shares;
 
-(f) resolutions that a company be wound up voluntarily passed under section 580;
+(f) resolutions that a company be wound up voluntarily passed under section 580 or 586(2);
 
 (g) resolutions attaching rights or restrictions to any share;
 

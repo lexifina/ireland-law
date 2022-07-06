@@ -1,6 +1,6 @@
 Appointment and removal by the court
 
-638. (1) In any winding up, the court may, on the application by a member, creditor, liquidator or the Director or on its own motion—
+638. (1) In any winding up, the court may, on the application by a member, creditor, liquidator or the Authority or on its own motion—
 
 (a) appoint a liquidator if from any cause whatever there is no liquidator acting, or
 

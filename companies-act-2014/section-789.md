@@ -14,11 +14,11 @@ Offences in relation to entry and search of premises and provisions catering for
 
 (a) the designated officer named therein (including any designated officer who is named therein by reason of any prior application under this subsection)—
 
-(i) has ceased to be an officer of the Director (by reason of death, retirement, resignation, dismissal, reassignment or any other cause), or
+(i) has ceased to be an officer of the Authority (by reason of death, retirement, resignation, dismissal, reassignment or any other cause), or
 
 (ii) is otherwise unable to perform his or her functions (by reason of absence from duty, illness, incapacity or any other cause), or
 
-(b) the Director has reasonable grounds for apprehending that any of the circumstances referred to in paragraph (a) is likely to arise, then another designated officer may apply to a judge of the District Court for an order under subsection (3).
+(b) the Authority has reasonable grounds for apprehending that any of the circumstances referred to in paragraph (a) is likely to arise, then another designated officer may apply to a judge of the District Court for an order under subsection (3).
 
 (3) On the hearing of an application under subsection (2) the judge of the District Court may, if—
 

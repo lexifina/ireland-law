@@ -20,7 +20,7 @@ Investigation of company's affairs by court appointed inspectors on application 
 
 (4) The court may require the applicant or the applicants to give security for payment of the costs of the investigation.
 
-(5) A person who intends making an application under this section shall give not less than 14 days’ notice in writing of his or her intention to apply to the Director, and the Director shall be entitled to appear and be heard on the hearing of the application.
+(5) A person who intends making an application under this section shall give not less than 14 days’ notice in writing of his or her intention to apply to the Authority, and the Authority shall be entitled to appear and be heard on the hearing of the application.
 
 (6) In this section “court” means—
 

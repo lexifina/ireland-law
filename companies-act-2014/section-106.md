@@ -1,6 +1,6 @@
 Supplemental provisions in relation to section 105
 
-106. (1) Shares acquired by a company under section 105, or otherwise acquired by it under section 102(1)(a), shall be cancelled or held by it (as “treasury shares”).
+106. (1) Shares acquired by a company under section 105, or otherwise acquired by it under section 102(1)(a) or (g), shall be cancelled or held by it (as “treasury shares”).
 
 (2) Where a company—
 

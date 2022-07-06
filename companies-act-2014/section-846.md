@@ -4,7 +4,7 @@ Costs and expenses of application
 
 (a) the costs of the application, and
 
-(b) in the case of an application by the Director, the Director of Public Prosecutions, a liquidator, a receiver or an examiner, the whole (or so much of them as the court specifies) of the costs and expenses that are incurred by the applicant—
+(b) in the case of an application by the Authority, the Director of Public Prosecutions, a liquidator, a receiver or an examiner, the whole (or so much of them as the court specifies) of the costs and expenses that are incurred by the applicant—
 
 (i) in investigating the matters that are the subject of the application, and
 

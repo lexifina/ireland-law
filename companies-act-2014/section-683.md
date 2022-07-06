@@ -10,14 +10,14 @@ Obligation (unless relieved) of liquidator of insolvent company to apply for res
 
 (3) As respects subsection (2)—
 
-(a) that subsection applies unless the Director has relieved the liquidator of the obligation to make the application under section 819(1) in relation to the winding up concerned or a particular director or directors (which power to so relieve is conferred on the Director by this paragraph), and
+(a) that subsection applies unless the Authority has relieved the liquidator of the obligation to make the application under section 819(1) in relation to the winding up concerned or a particular director or directors (which power to so relieve is conferred on the Authority by this paragraph), and
 
-(b) where the Director relieves the liquidator of that obligation in respect of one or more but not all of the directors, that subsection shall be read as applying to the director or directors as respects whom the liquidator has not been relieved of that obligation.
+(b) where the Authority relieves the liquidator of that obligation in respect of one or more but not all of the directors, that subsection shall be read as applying to the director or directors as respects whom the liquidator has not been relieved of that obligation.
 
 (4) An application in respect of a director under section 819(1), in compliance with subsection (2), shall be made not later than the expiry of—
 
-(a) 2 months after the date on which the Director has notified the liquidator that the Director has not relieved the liquidator of the obligation to make the application in respect of the director, or
+(a) 2 months after the date on which the Authority has notified the liquidator that the Authority has not relieved the liquidator of the obligation to make the application in respect of the director, or
 
-(b) such greater period of time as the Director may allow for the purposes of the application.
+(b) such greater period of time as the Authority may allow for the purposes of the application.
 
 (5) A liquidator who fails to comply with subsection (2) shall be guilty of a category 3 offence.

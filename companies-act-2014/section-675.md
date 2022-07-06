@@ -14,4 +14,4 @@ Order for arrest and seizure, etc.
 
 (a) of its own motion, or
 
-(b) on the application of the Director, a creditor of the company or any other interested person.
+(b) on the application of the Authority, a creditor of the company or any other interested person.

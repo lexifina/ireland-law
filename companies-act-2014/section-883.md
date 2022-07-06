@@ -20,7 +20,7 @@ Certificate evidence
 
 (a) in respect of functions that, under this Act, are to be performed by the Minister, the Minister or an officer of the Minister;
 
-(b) in respect of functions that, under this Act, are to be performed by the Director, the Director or an officer of the Director;
+(b) in respect of functions that, under this Act, are to be performed by the Authority, the Authority or an officer of the Authority;
 
 (c) in respect of functions that, under this Act, are to be performed by the inspector or inspectors appointed under Part 13, an inspector or, where more than one inspector is appointed, any inspector;
 

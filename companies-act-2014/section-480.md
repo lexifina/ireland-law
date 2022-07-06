@@ -20,6 +20,8 @@ Confirmation order
 
 (a) all the assets and liabilities of the transferor company or companies are transferred to the successor company;
 
+(aa) any fully paid shares previously issued by a successor company, and held by a transferor company, and which are acquired by that successor company in itself pursuant to a merger under this Chapter, shall be deemed to be treasury shares held by the successor company concerned to which section 109 applies;
+
 (b) in the case of a merger by acquisition or a merger by formation of a new company, where no request has been made by minority shareholders under section 476, all remaining members of the transferor company or companies except the successor company (if it is a member of a transferor company) become members of the successor company;
 
 (c) the transferor company or companies is or are dissolved;

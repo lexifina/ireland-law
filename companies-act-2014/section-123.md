@@ -8,9 +8,15 @@ Meaning of “distribution”, “capitalisation”, etc., and supplemental prov
 
 (c) the redemption or purchase of shares pursuant to section 105 and the other relevant provisions of this Part out of the proceeds of a fresh issue of shares made for the purposes of the redemption or purchase;
 
-(d) the payment pursuant to section 106(5) of any premium out of the company’s undenominated capital on a redemption referred to in that provision; and
+(d) the payment pursuant to section 106(5) of any premium out of the company’s undenominated capital on a redemption referred to in that provision; ...
 
-(e) a distribution of assets to members of the company on its winding up.
+(e) a distribution of assets to members of the company on its winding up; and
+
+(f) the reduction of share capital—
+
+(i) by paying off paid up share capital (effected in accordance with section 84 in the case of a company limited by shares), or
+
+(ii) by extinguishing or reducing all or part of a member’s liability on shares not fully paid up (effected in accordance with section 84 in the case of a company limited by shares).
 
 (2) In this Part “capitalisation”, in relation to any profits of a company, means any of the following operations, that is to say, applying the profits in wholly or partly paying up unissued shares in the company to be allotted to members of the company as fully or partly paid bonus shares or transferring the profits to undenominated capital.
 

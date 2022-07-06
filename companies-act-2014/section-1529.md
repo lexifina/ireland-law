@@ -10,7 +10,7 @@ Additional report to audit committee
 
 (a) the Supervisory Authority;
 
-(b) the Director;
+(b) the Corporate Enforcement Authority;
 
 (c) the Revenue Commissioners;
 

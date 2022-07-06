@@ -34,9 +34,9 @@ Saving for privileged information
 
 (7) An application under subsection (4), (5) or (6) shall be by motion and may, if the court directs, be heard otherwise than in public.
 
-(8) The Director shall not, under any of sections 778 to 780, require the production, by a person carrying on the business of banking, of a book or document relating to the affairs of a customer, or relating to the affairs of any other person, unless either—
+(8) The Authority shall not, under any of sections 778 to 780, require the production, by a person carrying on the business of banking, of a book or document relating to the affairs of a customer, or relating to the affairs of any other person, unless either—
 
-(a) the Director considers it necessary to do so for the purposes of investigating the affairs of the person carrying on the business of banking, or
+(a) the Authority considers it necessary to do so for the purposes of investigating the affairs of the person carrying on the business of banking, or
 
 (b) the customer or other person is a person on whom a requirement has been imposed by virtue of that section.
 

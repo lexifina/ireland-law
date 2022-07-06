@@ -1,6 +1,6 @@
 Persons who may apply for disqualification order under section 842
 
-844. (1) The Director may make an application under any of section 842(a) to (i).
+844. (1) The Authority may make an application under any of section 842(a) to (i).
 
 (2) The Director of Public Prosecutions may make an application under any of section 842(a) to (g).
 

@@ -10,7 +10,7 @@ Review of members of recognised accountancy bodies
 
 (b) that contravention relates, whether directly or indirectly, to the audit of a public-interest entity.
 
-(2) The Supervisory Authority shall, as soon as is practicable, give the Director particulars of—
+(2) The Supervisory Authority shall, as soon as is practicable, give the Corporate Enforcement Authority particulars of—
 
 (a) the specified person,
 
@@ -18,8 +18,8 @@ Review of members of recognised accountancy bodies
 
 (c) the public-interest entity.
 
-(3) The Supervisory Authority shall, in addition to complying with subsection (2), give the Director such information and documents and assistance as the Director may reasonably require for the Director to decide whether or not—
+(3) The Supervisory Authority shall, in addition to complying with subsection (2), give the Corporate Enforcement Authority such information and assistance as the Corporate Enforcement Authority may reasonably require for the Corporate Enforcement Authority may reasonably require for the Director to decide whether or not—
 
 (a) to investigate under Part 13 a relevant director, or
 
-(b) to impose, under section 957B, a relevant sanction (within the meaning of section 957AA) on a relevant director for engaging in conduct giving rise (whether in whole or in part) to the relevant contravention, or both.
+(b) to impose, under section 944AB, a relevant sanction (within the meaning of section 944Z) on a relevant director for engaging in conduct giving rise (whether in whole or in part) to the relevant contravention, or both.

@@ -42,7 +42,7 @@ Supplemental provisions in relation to section 787(3) to (5)
 
 (ii) anything separated from another thing in the exercise of the power that is not material information, to return, as soon as practicable, and, in any event, subject to subsection (7), within the prescribed period, after the date of that finding or separation, the thing to its owner or the person appearing to the officer to be lawfully entitled to the custody or possession of it.
 
-(7) On application to the court by the Director or any person affected by the exercise of an extended power of seizure, the court may, if it thinks fit and having had regard, in particular, to any submissions made on behalf of the Director with regard to the progress of any investigation being carried on by the Director for the purpose of which the powers under this section had been exercised, give one or more of the following:
+(7) On application to the court by the Authority or any person affected by the exercise of an extended power of seizure, the court may, if it thinks fit and having had regard, in particular, to any submissions made on behalf of the Authority with regard to the progress of any investigation being carried on by the Authority for the purpose of which the powers under this section had been exercised, give one or more of the following:
 
 (a) a direction that the doing of an act referred to in subsection (6)(a) or (b) shall be done within such lesser or greater period of time than that specified in that provision as the court determines;
 
@@ -54,7 +54,7 @@ Supplemental provisions in relation to section 787(3) to (5)
 
 (a) relate to some or all of the things the subject of the exercise of the extended power of seizure,
 
-(b) be expressed to operate subject to such terms and conditions as the court specifies, including, in the case of a direction under subsection (7)(c), a condition that an officer of the Director be permitted, during a specified subsequent period, to re-take and retain possession of the thing returned for the purpose of carrying out the determination or separation concerned (and, retain after the expiry of that period, that which is found to be material information or is material information).
+(b) be expressed to operate subject to such terms and conditions as the court specifies, including, in the case of a direction under subsection (7)(c), a condition that an officer of the Authority be permitted, during a specified subsequent period, to re-take and retain possession of the thing returned for the purpose of carrying out the determination or separation concerned (and, retain after the expiry of that period, that which is found to be material information or is material information).
 
 (9) An application under subsection (7) shall be by motion and may, if the court directs, be heard otherwise than in public.
 

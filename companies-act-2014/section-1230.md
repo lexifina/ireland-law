@@ -26,7 +26,9 @@ Application of Parts 1 to 14 to unlimited companies
 
 (8) The specification in the foregoing Table of a provision (a “specified provision”) of Parts 1 to 14 also operates to disapply to the particular type of unlimited company concerned any other provision of those Parts (notwithstanding that it is not specified in that Table) that makes consequential, incidental or supplemental provision on, or in relation to, the specified provision.
 
-Table Part 1
+Table
+
+Part 1
 
 Provisions disapplied to ULCs
 
@@ -72,13 +74,21 @@ Returns of allotments Section 70(7) and (8)
 
 Variation in capital Chapter 4 of Part 3 (other than sections 83, 89, 90, 92 and 93)
 
+Acquisition of own shares
+
+Section 105(2) and (3)
+
+Supplemental provisions in relation to section
+
+Section 106(4)
+
+105
+
 Directors
 
 Section 128
 
-Certain particulars to be shown on all business Section 151(2) to (4) letters
-
-Majority written resolutions
+Certain particulars to be shown on all business Section 151(2) to (4) letters Majority written resolutions
 
 Section 194
 
@@ -148,11 +158,21 @@ Section 70 allotments
 
 Variation in capital Chapter 4 of Part 3 (other than sections 83, 89, 90, 92 and 93)
 
+Acquisition of own shares
+
+Section 105(2) and (3)
+
+Supplemental provisions in relation to section
+
+Section 106(4)
+
+105
+
 Directors
 
 Section 128
 
-Certain particulars to be shown on all business letters Section 151(2) to (4)
+Certain particulars to be shown on all business Section 151(2) to (4) letters
 
 Majority written resolutions
 
@@ -178,9 +198,7 @@ Section 333
 
 Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
 
-Audit exemption Chapter 15 of Part 6
-
-Special audit exemption for dormant companies Chapter 16 of Part 6
+Audit exemption Chapter 15 of Part 6 Special audit exemption for dormant companies Chapter 16 of Part 6
 
 Small and medium companies
 
@@ -248,7 +266,9 @@ Numbering of shares
 
 Section 67
 
-Allotment of shares and variation in capital Chapters 3 and 4 of Part 3 Transfer of shares Chapter 5 of Part 3 (save section 94 in so far as it relates to debentures)
+Allotment of shares and variation in capital Chapters 3 and 4 of Part 3
+
+Transfer of shares Chapter 5 of Part 3 (save section 94 in so far as it relates to debentures)
 
 Acquisition of own shares
 

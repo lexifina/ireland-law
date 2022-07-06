@@ -8,7 +8,7 @@ Application of certain provisions of section 82(6) in relation to PLCs
 
 (c) as if the following paragraph were substituted for paragraph (n):
 
-“(n) in connection with an allotment of shares by a company or its holding company, the payment by the company of commissions, not exceeding 10 per cent of the money received in respect of such allotment, to intermediaries, and the payment by the company of professional fees;”.
+“(n) in connection with an allotment of shares by a company or its holding company, the payment by the company of commissions, not exceeding 10 per cent of the money received in respect of such allotment, ... and the payment by the company of professional fees;”.
 
 (2) Subject to subsection (3), section 82(6)(a) shall not apply to a PLC.
 

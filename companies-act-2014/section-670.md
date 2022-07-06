@@ -1,6 +1,6 @@
 Attendance of officers of company at meetings
 
-670. The court may, on the application of the Director or the liquidator, or on its own motion, make an order requiring the attendance of any officer of the company at—
+670. The court may, on the application of the Authority or the liquidator, or on its own motion, make an order requiring the attendance of any officer of the company at—
 
 (a) any meeting of creditors,
 

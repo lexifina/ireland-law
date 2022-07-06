@@ -20,6 +20,6 @@ Minutes of proceedings of directors
 
 (c) all appointments of officers made by its directors at the meeting shall be deemed to be valid.
 
-(5) A company shall, if required by the Director of Corporate Enforcement, produce to the Director for inspection the book or books kept in accordance with subsection (1) by it and shall give to the Director of Corporate Enforcement such facilities for inspecting and taking copies of the contents of the book or books as the Director may require.
+(5) A company shall, if required by the Authority, produce to the Authority for inspection the book or books kept in accordance with subsection (1) by it and shall give to the Authority such facilities for inspecting and taking copies of the contents of the book or books as the Authority may require.
 
 (6) If a company fails to comply with subsection (1) or with a requirement made of it under subsection (5), the company and any officer of it who is in default shall be guilty of a category 4 offence.

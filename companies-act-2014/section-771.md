@@ -1,10 +1,10 @@
 Court may lift restrictions imposed on shares under section 768
 
-771. (1) Where the Director directs that shares shall be subject to the restrictions imposed under section 768 or refuses to direct that such restrictions shall cease to apply to the shares, any person aggrieved by the direction or refusal of the Director may apply to the court for an order that the restrictions shall cease to apply to the shares.
+771. (1) Where the Authority directs that shares shall be subject to the restrictions imposed under section 768 or refuses to direct that such restrictions shall cease to apply to the shares, any person aggrieved by the direction or refusal of the Authority may apply to the court for an order that the restrictions shall cease to apply to the shares.
 
 (2) The court may make an order under subsection (1) if—
 
-(a) the court is satisfied that the relevant facts about the shares have been disclosed to the company or, as the case requires, to the Director;
+(a) the court is satisfied that the relevant facts about the shares have been disclosed to the company or, as the case requires, to the Authority;
 
 (b) the court is satisfied that it is otherwise equitable to lift the restrictions; or
 

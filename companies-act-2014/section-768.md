@@ -1,6 +1,6 @@
 Director may impose restrictions on shares
 
-768. (1) Where, in connection with an investigation under section 764 or an enquiry under section 767, the Director considers that there is any difficulty in finding out the relevant facts about any shares (whether issued or to be issued), the Director may, by notice in writing, direct that the shares shall, subject to further notice, be subject to the restrictions imposed by this section.
+768. (1) Where, in connection with an investigation under section 764 or an enquiry under section 767, the Authority considers that there is any difficulty in finding out the relevant facts about any shares (whether issued or to be issued), the Authority may, by notice in writing, direct that the shares shall, subject to further notice, be subject to the restrictions imposed by this section.
 
 (2) The following restrictions apply to the shares referred to in subsection (1) for as long as the direction in respect of the shares is in force:
 

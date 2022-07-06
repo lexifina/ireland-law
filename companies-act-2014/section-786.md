@@ -1,8 +1,8 @@
 Expenses relating to examination of books or documents
 
-786. (1) On the application of the Director, the court may direct that a company that is the subject of a direction given under section 778 shall be liable to repay the Director so much of the expenses of and incidental to the examination of books or documents produced as the court directs.
+786. (1) On the application of the Authority, the court may direct that a company that is the subject of a direction given under section 778 shall be liable to repay the Authority so much of the expenses of and incidental to the examination of books or documents produced as the court directs.
 
-(2) Without prejudice to subsection (1) but subject to subsection (4), where a court enters a conviction or makes an order in a case set out in subsection (3), the court may, in the same proceedings, order the person concerned to repay the Director so much of the expenses of and incidental to an examination following a direction given under section 778 as the court directs.
+(2) Without prejudice to subsection (1) but subject to subsection (4), where a court enters a conviction or makes an order in a case set out in subsection (3), the court may, in the same proceedings, order the person concerned to repay the Authority so much of the expenses of and incidental to an examination following a direction given under section 778 as the court directs.
 
 (3) The cases referred to in subsection (2) are where the court—
 

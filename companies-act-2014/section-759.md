@@ -1,6 +1,6 @@
 Distribution of inspectors' report
 
-759. (1) The court shall provide a copy of every inspectors’ report to the Director.
+759. (1) The court shall provide a copy of every inspectors’ report to the Authority.
 
 (2) The court may—
 
@@ -14,7 +14,7 @@ Distribution of inspectors' report
 
 (iii) the statutory auditors of the company or other body corporate;
 
-(iv) if other than the Director, the person or persons who applied for the appointment of the inspectors;
+(iv) if other than the Authority, the person or persons who applied for the appointment of the inspectors;
 
 (v) any other person (including an employee or creditor of the company or other body corporate) whose financial interests appear to the court to be affected by the matters dealt with in the report;
 

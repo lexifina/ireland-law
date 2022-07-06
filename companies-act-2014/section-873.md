@@ -1,6 +1,6 @@
 Notice by Director to remedy default
 
-873. (1) The Director may deliver a notice that complies with subsection (2) to a person if the Director has reasonable grounds for believing that the person has committed a category 3 or 4 offence.
+873. (1) The Authority may deliver a notice that complies with subsection (2) to a person if the Authority has reasonable grounds for believing that the person has committed a category 3 or 4 offence.
 
 (2) The notice referred to in subsection (1) is a notice that—
 
@@ -10,26 +10,26 @@ Notice by Director to remedy default
 
 (c) states that the person to whom the notice is delivered may during a period of 21 days beginning after the date of the notice, or such greater period as may be specified in the notice—
 
-(i) remedy as far as practicable to the satisfaction of the Director any default that constitutes the offence, and
+(i) remedy as far as practicable to the satisfaction of the Authority any default that constitutes the offence, and
 
-(ii) pay to the Director a prescribed amount which shall be accompanied by the notice, and
+(ii) pay to the Authority a prescribed amount which shall be accompanied by the notice, and
 
 (d) states that a prosecution of the person to whom the notice is delivered—
 
 (i) will not be instituted during the period referred to in paragraph (c), and
 
-(ii) will not be instituted in any event if, within the period referred to in paragraph (c), the default is remedied to the satisfaction of the Director and payment is made in accordance with the notice.
+(ii) will not be instituted in any event if, within the period referred to in paragraph (c), the default is remedied to the satisfaction of the Authority and payment is made in accordance with the notice.
 
 (3) Where a notice is delivered under subsection (1)—
 
-(a) a person to whom it is delivered may, during the period specified in the notice, make to the Director payment of the amount specified in the notice, accompanied by the notice,
+(a) a person to whom it is delivered may, during the period specified in the notice, make to the Authority payment of the amount specified in the notice, accompanied by the notice,
 
-(b) the Director may receive the payment and issue a receipt for it and no payment so received shall in any circumstances be recoverable by the person who made it, and
+(b) the Authority may receive the payment and issue a receipt for it and no payment so received shall in any circumstances be recoverable by the person who made it, and
 
-(c) a prosecution in respect of the alleged offence shall not be instituted in the period specified in the notice and if the default is remedied to the satisfaction of the Director and payment of the amount specified in the notice is made during that period, no prosecution in respect of the alleged offence shall be instituted in any event.
+(c) a prosecution in respect of the alleged offence shall not be instituted in the period specified in the notice and if the default is remedied to the satisfaction of the Authority and payment of the amount specified in the notice is made during that period, no prosecution in respect of the alleged offence shall be instituted in any event.
 
 (4) In a prosecution for an offence to which this section applies, the defendant shall bear the onus of showing that a payment pursuant to a notice under this section has been made.
 
-(5) All payments made to the Director in pursuance of this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Public Expenditure and Reform may direct.
+(5) All payments made to the Authority in pursuance of this section shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Public Expenditure and Reform may direct.
 
 (6) If the person mentioned in subsection (1) is a company, then that subsection authorises the delivery of the notice mentioned in it to an officer of the company but, where the notice is delivered to that officer, the second reference in that subsection to person, and each reference in subsections (2) and (3) to the person to whom the notice is delivered or otherwise to person, is to be read as a reference to the company.

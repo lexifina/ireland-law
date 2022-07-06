@@ -42,8 +42,8 @@ Provisions in relation to recognition by Supervisory Authority under section 930
 
 (b) a notice under subsection (4) given to the body concerned and the body’s response (if any) thereto.
 
-(8) Where a disciplinary committee of the body concerned has reasonable grounds for believing that a category 1 or 2 offence may have been committed by a person while the person was a member of the body, the body shall, as soon as is practicable, provide a report to the Director giving details of the alleged offence and shall furnish the Director with such further information in relation to the matter as the Director may require.
+(8) Where a disciplinary committee of the body concerned has reasonable grounds for believing that a category 1 or 2 offence may have been committed by a person while the person was a member of the body, the body shall, as soon as is practicable, provide a report to the Corporate Enforcement Authority giving details of the alleged offence and shall furnish the Corporate Enforcement Authority with such further information in relation to the matter as the Corporate Enforcement Authority may require.
 
-(9) Where the body concerned fails to comply with subsection (8) or a requirement of the Director under that subsection, the body, and any officer of that body to whom the failure is attributable, shall be guilty of a category 3 offence.
+(9) Where the body concerned fails to comply with subsection (8) or a requirement of the Corporate Enforcement Authority under that subsection, the body, and any officer of that body to whom the failure is attributable, shall be guilty of a category 3 offence.
 
 (10) Any terms and conditions which were, immediately before the commencement of section 28 of the Companies (Statutory Audits) Act 2018, attached under this section as in force immediately before that commencement to the relevant recognition of the body concerned shall, on and from that commencement, be deemed to be terms and conditions attached to that recognition by virtue of a section 931 notice, and section 906(4)(d) and the other provisions of this section (including subsection (3)) shall be read accordingly.

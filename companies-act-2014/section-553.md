@@ -10,4 +10,4 @@ Revocation
 
 (b) if the company to which the order relates is a company referred to in section 510(2), (3) or (4) — the Central Bank;
 
-(c) irrespective of whether it constitutes any of the foregoing kinds of company — the Director of Corporate Enforcement, by such person as the court may direct.
+(c) irrespective of whether it constitutes any of the foregoing kinds of company — the Authority, by such person as the court may direct.

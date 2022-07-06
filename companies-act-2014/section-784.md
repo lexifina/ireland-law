@@ -14,4 +14,4 @@ Powers ancillary to power to require production of books or documents
 
 (c) if the books or documents are not produced, the power to require the person who was required to produce them to state, to the best of that person’s knowledge and belief, where they are; and
 
-(d) the power to require the company or any of the persons specified in paragraph (b) to give all assistance to the Director as the company or the person is reasonably able to give in connection with an examination of the books or documents in question.
+(d) the power to require the company or any of the persons specified in paragraph (b) to give all assistance to the Authority as the company or the person is reasonably able to give in connection with an examination of the books or documents in question.

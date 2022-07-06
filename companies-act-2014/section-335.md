@@ -20,11 +20,11 @@ Statement to be included in balance sheet if audit exemption availed of
 
 (4) If the company referred to in subsection (1) is a holding company that prepares group financial statements for the financial year concerned, that subsection shall be read as applying both to its entity balance sheet and its group balance sheet.
 
-(5) Whenever a company has availed itself of the audit exemption in respect of a financial year, the company shall, if required by the Director of Corporate Enforcement to do so—
+(5) Whenever a company has availed itself of the audit exemption in respect of a financial year, the company shall, if required by the Authority to do so—
 
-(a) give to the Director such access to and facilities for inspecting and taking copies of the books and documents of the company, and
+(a) give to the Authority such access to and facilities for inspecting and taking copies of the books and documents of the company, and
 
-(b) furnish to the Director such information, as the Director may reasonably require for the purpose of satisfying himself or herself that the company did, in respect of that financial year, comply with section 358 or 359, as appropriate.
+(b) furnish to the Authority such information, as the Authority may reasonably require for the purpose of satisfying himself or herself that the company did, in respect of that financial year, comply with section 358 or 359, as appropriate.
 
 (6) If a company fails to comply with a requirement under subsection (5), the company and any officer of it who is in default shall be guilty of a category 4 offence.
 

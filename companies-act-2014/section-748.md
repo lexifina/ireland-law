@@ -1,6 +1,6 @@
 Investigation of company's affairs by court appointed inspectors on application of Director
 
-748. (1) On the application of the Director, the court may appoint one or more competent inspectors to investigate the affairs of a company and to report on those affairs in such manner as the court directs, if the court is satisfied that there are circumstances suggesting that—
+748. (1) On the application of the Authority, the court may appoint one or more competent inspectors to investigate the affairs of a company and to report on those affairs in such manner as the court directs, if the court is satisfied that there are circumstances suggesting that—
 
 (a) the affairs of the company are being or have been conducted with intent to defraud—
 
@@ -30,7 +30,7 @@ Investigation of company's affairs by court appointed inspectors on application 
 
 (2) The court’s power of appointment under this section is without prejudice to its powers under section 747 and is exercisable notwithstanding that the company is in the course of being wound up.
 
-(3) Inspectors appointed under this section may be or include an officer or officers of the Director.
+(3) Inspectors appointed under this section may be or include an officer or officers of the Authority.
 
 (4) A reference in subsection (1) to the members of a company shall have effect as if it included a reference to any person who is not a member but to whom shares in the company have been transferred or transmitted by operation of law.
 

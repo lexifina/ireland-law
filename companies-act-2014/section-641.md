@@ -2,7 +2,7 @@ Resignation of liquidator
 
 641. (1) In any winding up, a liquidator may resign from office.
 
-(2) Where a liquidator resigns, he or she shall give notice in writing of that fact, within 2 days after the date of resigning, to the Registrar and the Director and, within 14 days after the date of resigning—
+(2) Where a liquidator resigns, he or she shall give notice in writing of that fact, within 2 days after the date of resigning, to the Registrar and the Authority and, within 14 days after the date of resigning—
 
 (a) in the case of a winding up by the court, to the court and—
 

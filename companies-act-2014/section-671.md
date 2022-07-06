@@ -4,7 +4,7 @@ Power of court to summon persons for examination
 
 (a) of its own motion; or
 
-(b) on the application of the Director or the liquidator or provisional liquidator; at any time after the appointment of a provisional liquidator, the making of a winding-up order or the passing of a resolution to wind up a company voluntarily.
+(b) on the application of the Authority or the liquidator or provisional liquidator; at any time after the appointment of a provisional liquidator, the making of a winding-up order or the passing of a resolution to wind up a company voluntarily.
 
 (2) That power of the court is to summon before it—
 

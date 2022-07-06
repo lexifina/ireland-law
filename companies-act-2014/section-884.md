@@ -4,7 +4,7 @@ Documentary evidence
 
 (2) A document submitted under this Act on behalf of any person is deemed to have been submitted by that person unless that person proves that it was submitted without that person’s consent or knowledge.
 
-(3) A document that purports to be a copy of, or an extract from, any document kept by or on behalf of the Director and that purports to be certified by the Director, an officer of the Director or any person authorised by the Director to be a true copy of or extract from the original document is, without proof of the official position of the person certifying the document, admissible in evidence in all legal proceedings and of the same evidential effect as the original document.
+(3) A document that purports to be a copy of, or an extract from, any document kept by or on behalf of the Authority and that purports to be certified by the Authority, an officer of the Authority or any person authorised by the Authority to be a true copy of or extract from the original document is, without proof of the official position of the person certifying the document, admissible in evidence in all legal proceedings and of the same evidential effect as the original document.
 
 (4) A document that purports to be a copy of, or an extract from, any document kept by the Minister and that purports to be certified by the Minister, an officer of the Minister or any person authorised by the Minister to be a true copy of or extract from the original document is, without proof of the official position of the person certifying the document, admissible in evidence in all legal proceedings and of the same evidential effect as the original document.
 

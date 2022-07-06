@@ -8,4 +8,4 @@ Continuance of certain restrictions
 
 (2) Any direction or order to which this section applies may continue the restrictions referred to in section 768(2)(c) and (d) in whole or in part, so far as they relate to any right acquired or offer made before the transfer of the shares in question.
 
-(3) Any such continuance provided by a foregoing direction or order may be varied or cancelled by a subsequent direction of the Director or, as the case may be, by a subsequent order of the court (power to provide for which variation or cancellation is conferred on the Director and the court, respectively, by this subsection).
+(3) Any such continuance provided by a foregoing direction or order may be varied or cancelled by a subsequent direction of the Authority or, as the case may be, by a subsequent order of the court (power to provide for which variation or cancellation is conferred on the Authority and the court, respectively, by this subsection).

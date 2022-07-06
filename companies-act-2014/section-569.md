@@ -14,7 +14,7 @@ Circumstances in which company may be wound up by the court
 
 (f) if the court is satisfied that the company’s affairs are being conducted, or the powers of the directors are being exercised, in a manner oppressive to any member or in disregard of his or her interests as a member and that, despite the existence of an alternative remedy, winding up would be justified in the general circumstances of the case but this paragraph is subject to subsection (2),
 
-(g) if the court is satisfied, on a petition of the Director, that it is in the public interest that the company should be wound up, or
+(g) if the court is satisfied, on a petition of the Authority, that it is in the public interest that the company should be wound up, or
 
 (h) in the circumstances referred to in section 535(2) or 542(5).
 

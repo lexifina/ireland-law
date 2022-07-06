@@ -12,7 +12,7 @@ Supplemental power of court in relation to a share acquisition agreement
 
 (2) That power of the court is to make an order requiring any other party or former party to the share acquisition agreement to give, in writing, to the court such particulars as the court specifies, and which the party or former party is able to give, in relation to matters affecting the application of section 806 as it applies, or applied, to that agreement and, in particular, the party’s or former party’s interests in shares in the company that are or were the subject of attribution to another party to that agreement by virtue of that application.
 
-(3) An application under subsection (1)(b) may be made by a person having a financial interest (within the meaning of section 800) in the company or by the Director.
+(3) An application under subsection (1)(b) may be made by a person having a financial interest (within the meaning of section 800) in the company or by the Authority.
 
 (4) A person intending to make an application under subsection (1)(b) shall give not less than 10 days’ notice of the intention to apply to—
 

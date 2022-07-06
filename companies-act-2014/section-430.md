@@ -36,7 +36,7 @@ Information to be given when receiver is appointed in certain circumstance
 
 (iii) the aggregate amounts of his or her receipts and of his or her payments during all preceding periods since his or her appointment.
 
-(4) Where a receiver ceases to act as receiver of the property of the company, the abstract under subsection (3) shall be accompanied by a statement from the receiver of his or her opinion as to whether or not the company is solvent and the Registrar shall, on receiving the statement, forward a copy of it to the Director of Corporate Enforcement.
+(4) Where a receiver ceases to act as receiver of the property of the company, the abstract under subsection (3) shall be accompanied by a statement from the receiver of his or her opinion as to whether or not the company is solvent and the Registrar shall, on receiving the statement, forward a copy of it to the Authority.
 
 (5) Where a receiver is appointed under the powers contained in any instrument, this section shall have effect with the omission of the references to the court in subsection (1), and in any other case, references to the court shall be taken as referring to the court by which the receiver was appointed.
 
@@ -46,6 +46,6 @@ Information to be given when receiver is appointed in certain circumstance
 
 (8) Nothing in subsection (3) shall be taken to prejudice the duty of the receiver to render proper accounts of his or her receipts and payments to the persons to whom, and at the times at which, he or she may be required to do so apart from that subsection.
 
-(9) Where the Registrar becomes aware of the appointment of a receiver referred to in this section, he or she shall forthwith inform the Director of Corporate Enforcement of the appointment.
+(9) Where the Registrar becomes aware of the appointment of a receiver referred to in this section, he or she shall forthwith inform the Authority of the appointment.
 
 (10) If the receiver makes default in complying with this section, he or she shall be guilty of a category 4 offence.

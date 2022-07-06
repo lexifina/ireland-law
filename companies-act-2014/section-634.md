@@ -26,7 +26,7 @@ Supplemental provisions in relation to section 633 (including requirements for p
 
 (i) the Registrar,
 
-(ii) the Director, and
+(ii) the Corporate Enforcement Authority, and
 
 (iii) if the person had been authorised pursuant to paragraph 5 of the Table to section 633 to be appointed as a liquidator — the Supervisory Authority, and
 

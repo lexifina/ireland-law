@@ -62,7 +62,7 @@ Financial assistance for acquisition of shares
 
 (m) the reimbursement by a private limited subsidiary of an offeree (within the meaning of the Irish Takeover Panel Act 1997) of expenses of an offeror (within the meaning of that Act) pursuant to an agreement approved by, or on terms approved by, the Irish Takeover Panel;
 
-(n) in connection with an allotment of shares by a parent public company, the payment by a private limited subsidiary of that company of commissions, not exceeding 10 per cent of the money received in respect of such allotment, to intermediaries, and the payment by that subsidiary of professional fees;
+(n) in connection with an allotment of shares by a parent public company, the payment by a private limited subsidiary of that company of commissions, not exceeding 10 per cent of the money received in respect of such allotment, ... and the payment by that subsidiary of professional fees;
 
 (o) to the extent that provision of this kind is not authorised by paragraph (f) or (g), the provision of financial assistance by a holding company or a subsidiary of it in connection with the holding company or subsidiary purchasing or subscribing for shares in the holding company on behalf of—
 

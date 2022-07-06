@@ -44,7 +44,7 @@ Application to external companies of certain provisions of Parts 1 to 14
 
 “(e) a person who is a creditor of the company, but only if the person is the company’s creditor by reference to a liability which has arisen under and by virtue of business carried on in the State by the company.”;
 
-(b) section 763 (investigation of share dealing by inspector appointed by Director) shall not apply;
+(b) section 763 (investigation of share dealing by inspector appointed by Authority) shall not apply;
 
 (c) in section 797 (court may order compliance by company or officer) “officer” shall include the one or more persons authorised by the relevant external company to ensure compliance with this Part;
 

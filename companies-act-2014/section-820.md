@@ -2,7 +2,7 @@ Application for declaration of restriction
 
 820. (1) An application for a declaration under section 819(1) may be made by—
 
-(a) the Director,
+(a) the Authority,
 
 (b) the liquidator of the insolvent company, or
 
