@@ -40,7 +40,7 @@ Offences in relation to courts-martial, etc.
 
 (ii) communications made by a person involved in the matter either personally or as legal or medical adviser to a person involved in the matter or as a social worker or a member of the family or the civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 of a person involved in the matter.
 
-(b) In this subsection ‘member of the family’ means spouse, parent, grandparent, step-parent, child (including a step-child or an adopted child), grandchild, brother, sister, half-brother, half-sister, aunt, uncle, niece or nephew of the person concerned;
+(b) In this subsection "member of the family" means spouse, parent, grandparent, step-parent, child (including a step-child or an adopted child), grandchild, brother, sister, half-brother, half-sister, aunt, uncle, niece or nephew of the person concerned;
 
 "spouse" means each person of a couple in relation to the other;
 
