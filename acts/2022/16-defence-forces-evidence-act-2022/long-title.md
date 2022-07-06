@@ -1,0 +1,9 @@
+Number 16 of 2022
+
+DEFENCE FORCES (EVIDENCE) ACT 2022
+
+An Act to amend the law to authorise the taking of bodily samples from military persons suspected of certain offences under military law for forensic testing; to provide for the taking of certain bodily samples from military persons or other persons who volunteer to have such samples taken from them for the purpose of the investigation of offences or incidents that may have involved the commission of offences under military law; to provide for the establishment and operation by Forensic Science Ireland of the Department of Justice and Equality of a DNA (Military Police) Database System; to provide for the purposes of that System; to provide for the taking of certain bodily samples from persons suspected of certain offences under military law for the purpose of generating DNA profiles in respect of those persons to be entered in the DNA (Military Police) Database System; to provide for the taking of certain bodily samples from certain persons for elimination purposes and, where appropriate, the entry of their DNA profiles in the DNA (Military Police) Database System; to provide for the taking of bodily samples from military persons, or samples from things, for the purpose of generating DNA profiles to be entered in the DNA (Military Police) Database System; to provide for the collection and analysis of other evidence; to provide, in certain circumstances, for the destruction of evidence and samples taken under this Act and the destruction, or removal from the DNA (Military Police) Database System, of any DNA profiles generated from those samples; to amend the Defence Act 1954, the Courts-Martial Appeals Act 1983 and the Criminal Justice (Forensic Evidence and DNA Database System) Act 2014; and to provide for related matters.
+
+[6th July, 2022]
+
+Be it enacted by the Oireachtas as follows:

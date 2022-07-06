@@ -1,0 +1,15 @@
+Application to summary court-martial to retain certain samples and certain DNA profiles beyond retention period.
+
+60. (1) If a summary court-martial is satisfied, on an application in that behalf by the provost marshal made within the retention period under section 51 and any extension of that period under an authorisation given under section 52, that there is good reason why a DNA profile in respect of a person generated from a sample taken from him or her under section 9, 10 or 11 should not be removed from the DNA (Military Police) Database System in accordance with section 51 within that retention period as so extended, the summary court-martial may make an order authorising the retention of the DNA profile in that System for such period as it considers appropriate.
+
+(2) If a summary court-martial is satisfied, on an application in that behalf by the provost marshal, that there is good reason relating to the investigation of a particular offence in connection with which a sample was taken under section 22 why that sample and the DNA profile generated from it in respect of the person from whom it was taken should not be destroyed in accordance with section 58, the summary court-martial may make an order authorising the retention of the sample or the DNA profile, or both, for such period as it considers appropriate.
+
+(3) If a summary court-martial is satisfied, on an application in that behalf by the provost marshal made within the period referred to in section 59(1), that there is good reason why an intimate or non-intimate sample taken from a person should not be destroyed in accordance with section 59(1) within that period, the summary court-martial may make an order authorising the retention of the sample for such period as it considers appropriate.
+
+(4) If a summary court-martial is satisfied, on an application in that behalf by the provost marshal made within the period referred to in section 59(2), that there is good reason why a DNA profile entered in the DNA (Military Police) Database System should not be removed from that System in accordance with section 59(2) within that period, the summary court-martial may make an order authorising the retention of the DNA profile in that System for such period as it considers appropriate.
+
+(5) If the provost marshal intends to make an application under subsection (1), (2), (3) or (4), the provost marshal shall inform, or cause to be informed, by notice in writing the person from whom the sample concerned was taken or in respect of whom the DNA profile was generated, as the case may be, of that intention.
+
+(6) If, on an application under subsection (1), (2), (3) or (4), the person from whom the sample concerned was taken or in respect of whom the DNA profile was generated, as the case may be, applies to be heard by the summary court-martial, an order shall not be made under this section unless a reasonable opportunity has been given to that person to be heard.
+
+(7) An application under this section shall be heard otherwise than in public.
