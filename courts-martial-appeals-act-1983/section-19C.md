@@ -1,4 +1,4 @@
-F20[ Appeals (supplementary provisions).
+F19[Appeals (supplementary provisions).
 
 19C.—(1) Where an appeal is made to the Court against a decision by a court-martial to make or not to make an order of committal under section 202(1)(b) or 203(2) of the Act of 1954, the Court may, having considered the evidence or any new evidence relating to the mental condition of the person charged given by a consultant psychiatrist, make such order, being an order that it was open to the court-martial to make, as it considers appropriate and, without prejudice to the provisions of section 13 of the Criminal Law (Insanity) Act 2006 relating to the review of orders of committal, no further appeal shall lie from an order made on an appeal under this section.
 

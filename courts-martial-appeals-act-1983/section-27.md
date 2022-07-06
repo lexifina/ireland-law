@@ -2,7 +2,7 @@ Legal aid (courtmartial) certificate.
 
 27.—(1) Where—
 
-(a) a person (in this section referred to as ‘the accused’)—
+(a) a person (in this section referred to as "the accused")—
 
 (i) is, at the direction of the Director of Military Prosecutions, to be tried by court-martial, or
 

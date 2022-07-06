@@ -2,7 +2,7 @@ Legal aid (Courts- Martial Appeal Court) certificate.
 
 28.—(1) Where—
 
-(a) a person (in this section referred to as ‘the accused’)—
+(a) a person (in this section referred to as "the accused")—
 
 (i) is convicted by a court-martial, or
 
