@@ -1,0 +1,5 @@
+Further measures for specified purpose.
+
+9. (1) Without prejudice to its functions under any other enactment, the Commission may, with the consent of the Minister, direct EirGrid, the public electricity supplier or an electricity generator, as appropriate, to undertake all or any measures as the Commission considers necessary, including financial arrangements, relating to security of supply in a manner approved by the Commission and consistent with its designation as the competent authority under the European Union (Risk Preparations) Regulations 2020 (S.I. No. 342 of 2020), including in particular the giving of directions in order to achieve the specified purpose.
+
+(2) Where the Commission is of the opinion that EirGrid, the public electricity supplier or an electricity generator is not complying with a direction, the Commission may apply in a summary manner on notice to the High Court for an order requiring EirGrid, the public electricity supplier or the electricity generator to comply with the direction and for the purpose of this subsection, the High Court may make such order as it thinks fit and may confirm, revoke or vary a direction.
