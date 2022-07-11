@@ -26,11 +26,13 @@ Public service obligations.
 
 (4) The Minister shall send a copy of an order made under this section, to the Commission of the European Communities not later than 28 days after the making of the order.
 
-(5) Subject to subsection (6), an order under this section shall provide for—
+(5) Subject to subsections (6), (6A) and (7), an order under this section shall provide, following a calculation by the Commission of whether any additional costs are incurred or additional benefits are received by the Board or holders of a licence or an authorisation or holders of a permit under section 37 of the Principal Act in complying with an order under this section, including any such costs incurred or benefits received after the variation or revocation of such an order—
 
-(a) the recovery, by way of a levy on final customers ..., of the additional costs including a reasonable rate of return on the capital represented by such costs, where appropriate, incurred by the Board or holders of a licence or an authorisation or holders of a permit under section 37 of the Principal Act in complying with an order under this section including costs incurred after the variation or revocation of such an order,
+(a) (i) where it is calculated that there are additional costs incurred, for the recovery, by way of a levy on final customers of the additional costs, including a reasonable rate of return on the capital represented by such costs where appropriate,
 
-(b) the collection and recovery of payments in respect of the levy—
+(ii) where it is calculated that there are additional benefits received, for the making of a payment to final customers representing the additional benefits,
+
+(b) in relation to a calculation under paragraph (a)(i), for the collection and recovery of payments in respect of the levy—
 
 (i) from final customers by the Board or the holder of a licence or an authorisation or the holder of a permit under section 37 of the Principal Act,
 
@@ -38,31 +40,63 @@ Public service obligations.
 
 (iii) from the distribution system operator by the transmission system operator,
 
-(c) the making, out of such payments so collected, of payments to the Board and holders of licences or authorisations, or holders of permits under section 37 of the Principal Act as appropriate.
+(bb) in relation to a calculation under paragraph (a)(ii), for the collection and recovery of amounts in respect of the payments under that paragraph—
 
-(5A) (a) The levy referred to in paragraph (a) of subsection (5) shall be imposed on final customers in respect of a levy period in such a manner that—
+(i) from the Board or the holder of a licence or an authorisation or the holder of a permit under section 37 of the Principal Act by the distribution system operator or the transmission system operator, and
 
-(i) the levy is apportioned between each category of electricity accounts specified in paragraph 1 of Schedule 2 on the basis of the maximum demand attributable to that category of accounts as a proportion of the aggregate of the maximum demand attributable to each of the three categories of accounts, and
+(ii) from the distribution system operator by the transmission system operator,
 
-(ii) each holder of an electricity account who is a final customer is charged and liable to pay the levy in respect of each electricity account on the basis set out in paragraph 2 of Schedule 2.
+(c) for the making, out of payments collected under paragraph (b), of payments to the Board and holders of licences or authorisations, or holders of permits under section 37 of the Principal Act as appropriate, and
 
-(b) The attribution of the maximum demand in respect of each category of electricity account shall be carried out by the distribution system operator with the approval of the Commission in respect of each levy period.
+(d) for the making, out of payments collected under paragraph (bb), of payments—
 
-(c) In this subsection “levy period” means a calendar year or such shorter period as may be specified in the order.
+(i) to the distribution system operator by the transmission system operator,
 
-(6) An order made under this section which, in accordance with subsection (5), provides for the recovery of additional costs referred to in that subsection shall provide that such costs shall be recovered in respect of a specified period and that the amount to be paid in respect of each year or part of a year in that period to the Board or to a holder of a licence or an authorisation or the holder of a permit under section 37 of the Principal Act shall be the amount of the additional costs certified by the Commission as having been incurred by the Board or such holder of a licence or an authorisation or the holder of a permit under section 37 of the Principal Act in accordance with the order.
+(ii) to the Board, the holder of a licence or an authorisation or the holder of a permit under section 37 of the Principal Act by the distribution system operator or the transmission system operator, and
+
+(iii) to final customers by the Board or holders of a licence or an authorisation or holders of a permit under section 37 of the Principal Act.
+
+(5A) (a) The levy referred to in paragraph (a)(i) of subsection (5) shall be imposed on final customers in respect of a levy period and the payment referred to in paragraph (a)(ii) of subsection (5) shall be made to final customers in respect of a payment period in such a manner that—
+
+(i) the levy or payment is apportioned between each category of electricity accounts specified in paragraph 1 of Schedule 2 on the basis of the maximum demand attributable to that category of accounts as a proportion of the aggregate of the maximum demand attributable to each of the three categories of accounts, and
+
+(ii) each holder of an electricity account who is a final customer is charged and liable to pay the levy in respect of each electricity account on the basis set out inparagraph 2 of Schedule 2.
+
+(b) The attribution of the maximum demand in respect of each category of electricity account shall be carried out by the distribution system operator with the approval of the Commission in respect of each levy period or payment period.
+
+(c) In this subsection and in Schedule 2—
+
+"levy period" means a calendar year or such shorter period as may be specified in the order;
+
+"payment period" means a calendar year or such shorter period as may be specified in the order.
+
+(6) An order made under this section which, in accordance with subparagraph (i) of subsection (5)(a), provides for the recovery of additional costs referred to in that subparagraph shall provide that such costs shall be recovered in respect of a specified period and that the amount to be paid in respect of each year or part of a year in that period to the Board or to a holder of a licence or an authorisation or the holder of a permit under section 37 of the Principal Act shall be the amount of the additional costs certified by the Commission as having been incurred by the Board or such holder of a licence or an authorisation or the holder of a permit under section 37 of the Principal Act in accordance with the order.
+
+(6A) An order made under this section which, in accordance with subparagraph (ii) of subsection (5)(a), provides for a payment referred to in that subparagraph shall provide that such payment shall be made in respect of a specified period and that the amount to be paid in respect of each year or part of a year by the Board or holders of a licence or an authorisation or holders of a permit under section 37 of the Principal Act to a final customer shall be the amount of the additional benefits certified by the Commission as having been received by the Board or holders of a licence or an authorisation or holders of a permit under section 37 of the Principal Act in accordance with the order.
 
 (7) An order made under this section may—
 
-(a) impose requirements (whether as to the furnishing of records or other information or the affording of facilities for the examination and testing of meters or otherwise) on the Board and on holders of licences or authorisations,
+(a) impose requirements (whether as to the furnishing of records or other information or the affording of facilities for the examination and testing of meters or otherwise) on the Board , the transmission system operator, the distribution system operator and on holders of licences or authorisations,
 
-(b) provide for the times at which payments are to be made (whether payments by way of levy or payments to the Board and holders of licences or authorisations), and
+(b) provide for the times at which any payments under subsection (5) are to be made,
 
-(c) require the amount of any overpayment or underpayment which is made by or to any person to be set off against or added to any subsequent liability or entitlement of that person.
+(c) require the amount of any overpayment or underpayment which is made by or to any person to be set off against or added to any subsequent liability or entitlement of that person,
 
-(8) The Minister shall exercise the powers conferred by this section so as to ensure that the sums realised by the levy or otherwise are sufficient (after the payment of the administrative expenses, as certified by the Commission, of the Board and holders of licences or authorisations or holders of permits under section 37 of the Principal Act incurred in the collection of the levy) to pay to the Board and holders of licences or authorisations or holders of permits under section 37 of the Principal Act the payment required to be made by the order.
+(d) without prejudice to the generality of paragraph (c)—
 
-(9) The Minister may by order, amend or revoke an order made under this section including an order made under this subsection but such amendment or revocation shall be without prejudice to the continued operation of the order in respect of additional costs of the type referred to in subsection (5) which the Commission certifies in respect of each year or part thereof of the unexpired part of the specified period of years to have been reasonably incurred notwithstanding the amendment or revocation.
+(i) provide for estimated and actual additional costs to be included in the calculation of additional costs and estimated and actual additional benefits to be included in the calculation of additional benefits,
+
+(ii) provide for adjustment in the calculation of additional costs or additional benefits to account for—
+
+(I) over recovery or under recovery of additional costs, or
+
+(II) over recovery or under recovery of additional benefits, arising in a previous payment period or levy period (within the meaning of subsection (5A)) and
+
+(e) provide that payments referred to in subsection (5)(d)(iii) may be made to a final customer by way of credit given for purchase of electricity.
+
+(8) The Minister shall exercise the powers conferred by this section so as to ensure that the sums realised by payments pursuant to subsection (5) or otherwise are sufficient (after the payment of the administrative expenses, as certified by the Commission, of the Board and holders of licences or authorisations or holders of permits under section 37 of the Principal Act incurred in the collection of the payments) to pay to the Board and holders of licences or authorisations or holders of permits under section 37 of the Principal Act , the distribution system operator and final customers the payment required to be made by the order.
+
+(9) The Minister may by order, amend or revoke an order made under this section including an order made under this subsection but such amendment or revocation shall be without prejudice to the continued operation of the order in respect of additional costs or additional benefits of the type referred to in subsection (5) which the Commission certifies in respect of each year or part thereof of the unexpired part of the specified period of years to have been reasonably incurred notwithstanding the amendment or revocation.
 
 (10) A draft of the order proposed to be made under this section shall be given by the Minister to the person or persons upon whom the obligation is to be imposed one month before the order is made.
 
