@@ -8,7 +8,7 @@ Interpretation and application of Act.
 
 “appropriate authority” has the meaning assigned to it by the Civil Service Regulation Acts, 1956 and 1958;
 
-‘automated data’ means information that—
+"automated data" means information that—
 
 (a) is being processed by means of equipment operating automatically in response to instructions given for that purpose, or
 
@@ -16,7 +16,7 @@ Interpretation and application of Act.
 
 “back-up data” means data kept only for the purpose of replacing other data in the event of their being lost, destroyed or damaged;
 
-‘blocking’, in relation to data, means so marking the data that it is not possible to process it for purposes in relation to which it is marked;
+"blocking", in relation to data, means so marking the data that it is not possible to process it for purposes in relation to which it is marked;
 
 “civil servant” has the meaning assigned to it by the Civil Service Regulation Acts, 1956 and 1958;
 
@@ -28,7 +28,7 @@ Interpretation and application of Act.
 
 “the Court” means the Circuit Court
 
-‘data’ means automated data and manual data;
+"data" means automated data and manual data;
 
 “data controller” means a person who, either alone or with others, controls the contents and use of personal data;
 
@@ -40,19 +40,21 @@ Interpretation and application of Act.
 
 “data subject” means an individual who is the subject of personal data;
 
-‘the Directive’ means Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data(1);
+"the Directive" means Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data(1);
 
 ...
 
 “disclosure”, in relation to personal data, includes the disclosure of information extracted from such data and the transfer of such data but does not include a disclosure made directly or indirectly by a data controller or a data processor to an employee or agent of his for the purpose of enabling the employee or agent to carry out his duties; and, where the identification of a data subject depends partly on the data and partly on other information in the possession of the data controller, the data shall not be regarded as disclosed unless the other information is also disclosed;
 
-‘the EEA Agreement’means the Agreement on the European Economic Area signed at Oporto on 2 May 1992 as adjusted by the Protocol signed at Brussels on 17 March 1993;
+"the EEA Agreement"means the Agreement on the European Economic Area signed at Oporto on 2 May 1992 as adjusted by the Protocol signed at Brussels on 17 March 1993;
 
-‘enactment’ means a statute or a statutory instrument (within the meaning of the Interpretation Act 1937);
+(1) O.J. No. L 281/38 of 23.11.95, p.31.
+
+"enactment" means a statute or a statutory instrument (within the meaning of the Interpretation Act 1937);
 
 “enforcement notice” means a notice under section 10 of this Act;
 
-‘the European Economic Area’ has the meaning assigned to it by the EEA Agreement;
+"the European Economic Area" has the meaning assigned to it by the EEA Agreement;
 
 ...
 
@@ -60,15 +62,15 @@ Interpretation and application of Act.
 
 “local authority” means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
 
-‘manual data’means information that is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system;
+"manual data" means information that is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system;
 
 “the Minister” means the Minister for Justice;
 
-‘personal data’ means data relating to a living individual who is or can be identified either from the data or from the data in conjunction with other information that is in, or is likely to come into, the possession of the data controller;
+"personal data" means data relating to a living individual who is or can be identified either from the data or from the data in conjunction with other information that is in, or is likely to come into, the possession of the data controller;
 
 “prescribed”, in the case of fees, means prescribed by regulations made by the Minister with the consent of the Minister for Finance and, in any other case, means prescribed by regulations made by the Commissioner with the consent of the Minister;
 
-‘processing’ of or in relation to information or data, means performing any operation or set of operations on the information or data, whether or not by automatic means, including—
+"processing" of or in relation to information or data, means performing any operation or set of operations on the information or data, whether or not by automatic means, including—
 
 (a) obtaining, recording or keeping the information or data,
 
@@ -84,9 +86,9 @@ Interpretation and application of Act.
 
 ...
 
-‘relevant filing system’ means any set of information relating to individuals to the extent that, although the information is not processed by means of equipment operating automatically in response to instructions given for that purpose, the set is structured, either by reference to individuals or by reference to criteria relating to individuals, in such a way that specific information relating to a particular individual is readily accessible;
+"relevant filing system" means any set of information relating to individuals to the extent that, although the information is not processed by means of equipment operating automatically in response to instructions given for that purpose, the set is structured, either by reference to individuals or by reference to criteria relating to individuals, in such a way that specific information relating to a particular individual is readily accessible;
 
-‘sensitive personal data’ means personal data as to—
+"sensitive personal data" means personal data as to—
 
 (a) the racial or ethnic origin, the political opinions or the religious or philosophical beliefs of the data subject,
 
