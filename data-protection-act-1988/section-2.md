@@ -2,7 +2,7 @@
 
 Collection, processing, keeping, use and disclosure of personal data.
 
-2.— (1) A data controller shall, as respects personal data kept by him or her, comply with the following provisions:
+2.—(1) A data controller shall, as respects personal data kept by him or her, comply with the following provisions:
 
 (a) the data or, as the case may be, the information constituting the data shall have been obtained, and the data shall be processed, fairly,
 

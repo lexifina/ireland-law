@@ -1,6 +1,6 @@
 Powers of authorised officers.
 
-24.—(1) In this section ‘authorised officer’ has the same meaning that it has in section 2(1) of the Data Protection Act 2018.
+24.—(1) In this section "authorised officer" has the same meaning that it has in section 2(1) of the Data Protection Act 2018.
 
 (2) An authorised officer may, for the purpose of obtaining any information that is necessary or expedient for the performance by the Commissioner of his functions, on production of the officer’s authorisation, if so required—
 

@@ -80,6 +80,6 @@ Processing of sensitive personal data.
 
 (4) In this section—
 
-‘health professional’ includes a registered medical practitioner, within the meaning of the Medical Practitioners Act 1978, a registered dentist, within the meaning of the Dentists Act 1985 or a member of any other class of health worker or social worker standing specified by regulations made by the Minister after consultation with the Minister for Health and Children and any other Minister of the Government who, having regard to his or her functions, ought, in the opinion of the Minister, to be consulted;
+"health professional" includes a registered medical practitioner, within the meaning of the Medical Practitioners Act 1978, a registered dentist, within the meaning of the Dentists Act 1985 or a member of any other class of health worker or social worker standing specified by regulations made by the Minister after consultation with the Minister for Health and Children and any other Minister of the Government who, having regard to his or her functions, ought, in the opinion of the Minister, to be consulted;
 
-‘medical purposes’ includes the purposes of preventive medicine, medical diagnosis, medical research, the provision of care and treatment and the management of healthcare services.
+"medical purposes" includes the purposes of preventive medicine, medical diagnosis, medical research, the provision of care and treatment and the management of healthcare services.
