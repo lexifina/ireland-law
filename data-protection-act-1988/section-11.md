@@ -24,7 +24,7 @@ Prohibition on transfer of personal data outside State.
 
 (ii) a Community finding has been made in relation to transfers of the kind in question, the question shall be determined in accordance with that finding.
 
-(b) In paragraph (a) of this subsection ‘Community finding’ means a finding of the European Commission made for the purposes of paragraph (4) or (6) of Article 25 of the Directive under the procedure provided for in Article 31(2) of the Directive in relation to whether the adequate level of protection specified in subsection (1) of this section is ensured by a country or territory outside the European Economic Area.
+(b) In paragraph (a) of this subsection "Community finding" means a finding of the European Commission made for the purposes of paragraph (4) or (6) of Article 25 of the Directive under the procedure provided for in Article 31(2) of the Directive in relation to whether the adequate level of protection specified in subsection (1) of this section is ensured by a country or territory outside the European Economic Area.
 
 (3) ...
 
@@ -112,6 +112,6 @@ Prohibition on transfer of personal data outside State.
 
 (14) (a) This section applies, with any necessary modifications, to a transfer of information from the State to a place outside the State for conversion into personal data as it applies to a transfer of personal data from the State to such a place.
 
-(b) In paragraph (a) of this subsection ‘information’ means information (not being data) relating to a living individual who can be identified from it.
+(b) In paragraph (a) of this subsection "information" means information (not being data) relating to a living individual who can be identified from it.
 
 (15) A person who, without reasonable excuse, fails or refuses to comply with a prohibition specified in a prohibition notice shall be guilty of an offence.

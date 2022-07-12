@@ -36,7 +36,7 @@ F39[Prior checking of processing by Commissioner.
 
 (b) the data controller has complied with any information notice served on him or her in relation to the matter, and
 
-(c) (i) the period of 90 days from the date of the receipt of the application or request referred to in subsection (3) of this section (or that period as extended under subsections (4) and (5) of this section or either of them) has elapsed without the receipt by the data controller of a notice under the said subsection (3), or
+(c)(i) the period of 90 days from the date of the receipt of the application or request referred to in subsection (3) of this section (or that period as extended under subsections (4) and (5) of this section or either of them) has elapsed without the receipt by the data controller of a notice under the said subsection (3), or
 
 (ii) the data controller has received a notice under the said subsection (3) stating that the particular processing proposed to be carried on is likely to comply with the provisions of this Act, or
 
