@@ -1,0 +1,3 @@
+Use of sample referred to in section 51 where person providing sample participates in Identification Programme.
+
+55. Where a person who gave a sample referred to in subsection (1) of section 51 does not die or become incapacitated as referred to in paragraph (c) of that subsection and he or she, having made an application to participate in the Identification Programme under subsection (1) of section 48, is notified by a Director under that section that he or she may participate in the Programme, the sample shall be treated as a sample taken under section 60 and the provisions of this Act shall apply accordingly.
