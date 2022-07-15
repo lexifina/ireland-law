@@ -1,23 +1,31 @@
-Compliance with biofuel obligation.
+Compliance with renewable transport fuel obligation.
 
 44I.— (1) The Agency shall notify each obligated party in such form as the Agency determines within 60 days after the end of the obligation period concerned of—
 
-(a) the biofuel obligation relating to the obligated party for that period, and
+(a) the renewable transport fuel obligation relating to the obligated party for that period,
 
-(b) the number of biofuel obligation certificates (if any) held to the credit of the biofuel obligation account concerned which may be counted towards the discharge of the biofuel obligation for that period.
+(b) the advanced biofuel obligation relating to the obligated party for that period
 
-(2) For the purposes of subsection (1)(b), each biofuel obligation certificate shall have a value equivalent to one litre of the specified amount calculated in accordance with section 44C(3) for the purpose of determining the biofuel obligation.
+(c) the renewable transport fuel obligation certificates (if any) held against the renewable transport fuel obligation account concerning (a) and (b) above which may be counted towards the discharge of the renewable transport fuel obligation, and advanced biofuel obligation respectively for that period.
 
-(3) Within 75 days after the date of the notification under subsection (1), each obligated party shall, for the purpose of discharging the biofuel obligation, notify the Agency in such form as the Agency determines specifying by reference to such particulars as the Agency determines the biofuel obligation certificates held to the credit of the biofuel obligation account concerned which are to be counted towards the discharge of the biofuel obligation notified under subsection (1).
+(d) the renewable transport fuel obligation certificates (if any) held that may be counted towards the contributions specified in 44C(4)(b) and (c).
 
-(4) Where an obligated party fails to notify the Agency within the period specified in subsection (3) of the number of biofuel obligation certificates to be so counted, the Agency shall determine which certificates held to the credit of the biofuel obligation account concerned are to be so counted in the date order according to which those certificates were issued and shall notify the obligated party accordingly in such form as the Agency determines as soon as is reasonably practicable.
+(2) For the purposes of subsection (1)(c), each certificate shall have a value equivalent to one megajoule of the specified amount calculated in accordance with section 44C(3) for the purpose of determining the renewable transport fuel obligation.
 
-(5) For the purposes of this section, the discharge of the biofuel obligation notified under subsection (1) shall be effected by recording a debit in the biofuel obligation account concerned of the biofuel obligation certificates to be counted under subsection (3) or (4), as appropriate, towards the discharge of the biofuel obligation so notified.
+(3) Within 75 days after the date of the notification under subsection (1), each obligated party shall, for the purpose of discharging the renewable transport fuel obligation, notify the Agency in such form as the Agency determines specifying by reference to such particulars as the Agency determines the renewable transport fuel obligation certificates held to the credit of the renewable transport fuel obligation account concerned which are to be counted towards the discharge of the renewable transport fuel obligation notified under subsection (1).
 
-(6) (a) Subject to paragraphs (b) and (c) a biofuel obligation certificate, the period of validity of which has not expired, may be counted towards the discharge of the biofuel obligation notified under subsection (1) of the obligated party to whose biofuel obligation account the certificate is credited for any obligation period subsequent to the obligation period in respect of which the certificate issued.
+(4) Where an obligated party fails to notify the Agency within the period specified in subsection (3) of the number of renewable transport fuel obligation certificates to be so counted, the Agency shall determine which certificates held to the credit of the renewable transport fuel obligation account concerned are to be so counted in the date order according to which those certificates were issued and shall notify the obligated party accordingly in such form as the Agency determines as soon as is reasonably practicable.
 
-(b) For obligation periods beginning before 1 January 2020, a biofuel obligation certificate referred to in paragraph (a) may not be counted towards the discharge of more than 25 per cent of the amount of the biofuel obligation notified to the obligated party under subsection (1) in respect of that subsequent obligation period.
+(5) For the purposes of this section, the discharge of the renewable transport fuel obligation notified under subsection (1) shall be effected by recording a debit in the renewable transport fuel obligation account concerned of the renewable transport fuel obligation certificates to be counted under subsection (3) or (4), as appropriate, towards the discharge of the renewable transport fuel obligation so notified.
 
-(c)For obligation periods beginning on or after 1 January 2020, a biofuel obligation certificate referred to in paragraph (a) may not be counted towards the discharge of more than 15 per cent of the amount of the biofuel obligation notified to the obligated party under subsection (1) in respect of that subsequent obligation period.
+(6) (a) Subject to paragraphs (b) and (c) a renewable transport fuel obligation certificate, the period of validity of which has not expired, may be counted towards the discharge of the renewable transport fuel obligation notified under subsection (1) of the obligated party to whose renewable transport fuel obligation account the certificate is credited for any obligation period subsequent to the obligation period in respect of which the certificate issued.
 
-(7) A biofuel obligation certificate held to the credit of a biofuel obligation account may not be counted towards the discharge of the biofuel obligation notified under subsection (1) in respect of any obligation period which is prior to the period of validity of the certificate concerned.
+(b) For obligation periods beginning before 1 January 2020, a renewable transport fuel obligation certificate referred to in paragraph (a) may not be counted towards the discharge of more than 25 per cent of the amount of the renewable transport fuel obligation notified to the obligated party under subsection (1) in respect of that subsequent obligation period.
+
+(c)For obligation periods beginning on or after 1 January 2020, a certificate referred to in paragraph (a) and (b) may not be counted towards the discharge of more than 15 per cent of the amount of the obligation notified to the obligated party under subsection (1) in respect of that subsequent obligation period.
+
+(d) for obligation periods beginning on or after 1 January 2023, the Minister may also make regulations to specify a percentage (lower than 15 per cent) amount of certificates which may be counted against that obligation period, when considering the amount of buyout price for discharge of the obligations by payment under Section 44J (5) under this Part.
+
+(e) for the purpose of this section, certificates in respect of the advanced biofuel obligation are not interchangeable with certificates in respect of the renewable transport fuel obligation.
+
+(7) A renewable transport fuel obligation certificate held to the credit of a renewable transport fuel obligation account may not be counted towards the discharge of the renewable transport fuel obligation notified under subsection (1) in respect of any obligation period which is prior to the period of validity of the certificate concerned.
