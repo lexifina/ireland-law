@@ -6,10 +6,18 @@ Biofuel obligation.
 
 (b) in the case of an oil consumer, whether or not the oil consumer is exempt from, or has claimed an exemption from, the levy in accordance with section 38.
 
-(2) Every oil company and oil consumer liable to pay the levy (in this Part referred to as an ‘obligated party’) is required to ensure that in each obligation period not less than a specified amount of its relevant disposal of road transport fuel to which this section applies is biofuel (in this Part referred to as the ‘biofuel obligation’ ).
+(2) Every oil company and oil consumer liable to pay the levy (in this Part referred to as an "obligated party") is required to ensure that in each obligation period not less than a specified amount of its relevant disposal of road transport fuel to which this section applies is renewable transport fuel (in this Part referred to as the "renewable transport fuel obligation").
 
-(3) The specified amount, referred to in subsection (1), for the purpose of determining the biofuel obligation, shall be expressed in litres and shall be calculated by reference to—
+(3) The specified amount, referred to in subsection (1), for the purpose of determining the renewable transport fuel obligation, shall be expressed in megajoules and shall be calculated by reference to—
 
 (a) the relevant disposals of petroleum products by each obligated party during the obligation period concerned, and
 
 (b) the percentage rate provided for by section 44D(1).
+
+(4) Within the renewable transport fuel obligation referred to in subsection (3):
+
+(a) the contribution from advanced biofuels and biogas shall meet the requirements of Article 25 (1) subparagraph 4 of the Directive (in this Part referred to as the "advanced biofuel obligation");
+
+(b) the contribution from biofuels and biogas produced from food and feed crops shall meet the requirements of Article 26 (1) of the Directive (in this Part referred to as the "crop cap");
+
+(c) the contribution from biofuels and biogas produced from high indirect land-use change-risk (in this Part referred to as "high ILUC-risk") feedstocks shall be no more than the amount disposed of in 2019 by the oil companies or oil consumers that disposed of such biofuels and biogas in 2019.

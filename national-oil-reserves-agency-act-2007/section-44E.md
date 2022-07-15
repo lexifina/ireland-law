@@ -1,26 +1,26 @@
-Biofuel obligation account.
+Renewable transport fuel obligation account.
 
-44E.— (1) The Agency shall, in respect of each obligated party, open an account (in this Part referred to as a ‘biofuel obligation account’) within—
+44E.— (1) The Agency shall, in respect of each obligated party, open an account (in this Part referred to as a "renewable transport fuel obligation account") within—
 
 (a) 21 days after the coming into operation of this section, or
 
 (b) 21 days after the oil company or oil consumer concerned first becomes liable to pay the levy, whichever is the earlier.
 
-(2) The following matters shall be recorded in a biofuel obligation account:
+(2) The following matters shall be recorded in a renewable transport fuel obligation account:
 
-(a) the balance of biofuel obligation certificates held to the credit of the account;
+(a) the balance of renewable transport fuel obligation certificates held to the credit of the account;
 
-(b) the issuing, transfer, cancellation and revocation of biofuel obligation certificates;
+(b) the issuing, transfer, cancellation and revocation of renewable transport fuel obligation certificates;
 
-(c) such other information as the Agency determines relating to the administration of the biofuel obligation.
+(c) such other information as the Agency determines relating to the administration of the renewable transport fuel obligation.
 
-(3) The Agency may, in accordance with this section and any regulations made under it, open a biofuel obligation account on application to the Agency by a biofuel producer or biofuel supplier who is not an obligated party.
+(3) The Agency may, in accordance with this section and any regulations made under it, open a renewable transport fuel obligation account on application to the Agency by a renewable transport fuel producer or renewable transport fuel supplier who is not an obligated party.
 
-(4) An application under subsection (3) by a biofuel producer or biofuel supplier (in this section referred to as the "applicant") to open a biofuel obligation account shall be in the prescribed form and shall include—
+(4) An application under subsection (3) by a renewable transport fuel producer or renewable transport fuel supplier (in this section referred to as the "applicant") to open a renewable transport fuel obligation account shall be in the prescribed form and shall include—
 
 (a) a current tax clearance certificate,
 
-(b) such information, particulars and documentation as the Agency may reasonably require in order to be satisfied that the applicant is a biofuel producer or a biofuel supplier, and
+(b) such information, particulars and documentation as the Agency may reasonably require in order to be satisfied that the applicant is a renewable transport fuel producer or a renewable transport fuel supplier, and
 
 (c) such other information, particulars and documentation as may be prescribed.
 
@@ -34,9 +34,9 @@ Biofuel obligation account.
 
 (7) When making an application under subsection (3), without prejudice to any other powers which the Agency may have in that behalf, the applicant shall give consent to the Agency in the prescribed form allowing the Agency or an authorised officer of the Agency such access to premises (within the meaning of section 45), documents, books, records, computers and equipment as the Agency may reasonably require in order to verify the information, particulars and documentation given in the application or any additional information, particulars or documentation or evidence given under this section.
 
-(8) The Agency may refuse to grant an application under subsection (3) to open a biofuel obligation account where—
+(8) The Agency may refuse to grant an application under subsection (3) to open a renewable transport fuel obligation account where—
 
-(a) the Agency is not satisfied that the applicant is a biofuel producer or biofuel supplier, as the case may be,
+(a) the Agency is not satisfied that the applicant is a renewable transport fuel producer or renewable transport fuel supplier, as the case may be,
 
 (b) the application is incomplete,
 
@@ -46,7 +46,7 @@ Biofuel obligation account.
 
 (e) the Agency is of the opinion that any of the information, particulars or documentation given in the application or any additional information, particulars or documentation or evidence given under this section is incorrect, or
 
-(f) the applicant is already a biofuel obligation account holder.
+(f) the applicant is already a renewable transport fuel obligation account holder.
 
 (9) If the Agency proposes to refuse an application under subsection (3), it shall give the applicant a notice in such form as the Agency determines—
 
