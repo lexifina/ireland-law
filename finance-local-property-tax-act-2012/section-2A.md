@@ -1,6 +1,6 @@
 Residential property.
 
-2A. —(1) In this Act, ‘residential property’ means any building which is in use as, or is suitable for use as, a dwelling.
+2A. —(1) In this Act, "residential property" means any building which is in use as, or is suitable for use as, a dwelling.
 
 (2) A shed, outhouse, garage or other building which is appurtenant to or usually enjoyed with a residential property shall be considered, for the purposes of this Act, to form part of the residential property.
 

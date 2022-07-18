@@ -1,3 +1,3 @@
-Application and modification of Part 40 of the Act of 1997.
+Application and modification of Part 40 of the Act of 1997. (Repealed)
 
 62.— ...

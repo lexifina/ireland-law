@@ -48,7 +48,7 @@ Liable persons.
 
 (5A) (a) Subject to paragraph (b), where—
 
-(i) at any time on or after the lapse of 12 months from the death of a person (the ‘deceased’) a person occupies or receives the rents or profits from a relevant residential property comprised in the estate of the deceased (and whether or not such occupation or receipt by that person also occurred before that lapse), and
+(i) at any time on or after the lapse of 12 months from the death of a person (the "deceased") a person occupies or receives the rents or profits from a relevant residential property comprised in the estate of the deceased (and whether or not such occupation or receipt by that person also occurred before that lapse), and
 
 (ii) during that period of 12 months no grant of representation in respect of the deceased’s estate has been made, then, unless and until a grant of representation is made in respect of that estate, the person shall be deemed to be a liable person in relation to that relevant residential property for so long as such occupation or receipt by the person in relation to that property continues.
 

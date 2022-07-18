@@ -6,4 +6,4 @@ Transfer of local property tax to the Local Government Fund.
 
 (2) Notwithstanding section 960D of the Taxes Consolidation Act 1997, in each financial year commencing with the year 2018, the Revenue Commissioners shall pay into the Local Government Fund the local property tax received by them during that year.
 
-(3) In this section ‘local property tax’ includes any interest or penalties paid thereon.
+(3) In this section "local property tax" includes any interest or penalties paid thereon.

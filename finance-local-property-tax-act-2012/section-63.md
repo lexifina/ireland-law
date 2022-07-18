@@ -1,3 +1,3 @@
-Power to issue precepts.
+Power to issue precepts. (Repealed)
 
 63.— ...

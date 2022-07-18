@@ -8,7 +8,9 @@ Deduction by employer.
 
 (4) Subject to subsection (5), the amount of local property tax to be deducted from a liable person’s net emoluments on each payday is the amount determined by the following formula:
 
-A/B, where— A is the amount of local property tax contained in the direction given under section 65, and
+A/B, where—
+
+A is the amount of local property tax contained in the direction given under section 65, and
 
 B is the number of paydays between the date on which the direction under section 65 is given and the end of the period for which that direction is given.
 
