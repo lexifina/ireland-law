@@ -1,5 +1,5 @@
 ## PART 9 APPEALS
 
-Appeals against Revenue assessments.
+Appeals against Revenue assessments. (Repealed)
 
-61.—....
+61.—...
