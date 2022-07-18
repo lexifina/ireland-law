@@ -6,7 +6,7 @@ Interpretation (Chapter 1).
 
 64.— In this Chapter—
 
-‘Income Tax Regulations’ means the Income Tax (Employments) Regulations 2018 (S.I. No. 345 of 2018);
+"Income Tax Regulations" means the Income Tax (Employments) Regulations 2018 (S.I. No. 345 of 2018);
 
 “emoluments” has the same meaning as in section 983 of the Act of 1997;
 

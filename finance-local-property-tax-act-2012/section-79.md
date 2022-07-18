@@ -1,6 +1,6 @@
 Return by employer at end of year.
 
-79. (1) In this section, ‘filing date’, in relation to a month, means the day that is 15 days from the last day of the month.
+79. (1) In this section, "filing date", in relation to a month, means the day that is 15 days from the last day of the month.
 
 (2) An employer shall, on or before the filing date of a month, send to the Revenue Commissioners, in relation to a liable person in respect of whom the employer was given a direction under section 65, a declaration specifying the total local property tax deducted in respect of the month.
 

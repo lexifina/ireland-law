@@ -1,5 +1,5 @@
 ## PART 13 REVENUE POWERS
 
-Authorised person.
+Authorised person. (Repealed)
 
 140.— ...

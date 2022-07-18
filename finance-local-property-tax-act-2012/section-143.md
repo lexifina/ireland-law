@@ -1,3 +1,3 @@
-Power to inspect property.
+Power to inspect property. (Repealed)
 
 143.— ...
