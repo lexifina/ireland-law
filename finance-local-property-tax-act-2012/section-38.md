@@ -2,7 +2,7 @@ Surcharge for late submission of income tax and corporation tax returns.
 
 38.— (1) For the purposes of this section—
 
-(a) ‘chargeable period’, ‘chargeable person’ and ‘specified return date for the chargeable period’ have the same meanings, respectively, as in section 959A of the Act of 1997, and
+(a) "chargeable period", "chargeable person" and "specified return date for the chargeable period" have the same meanings, respectively, as in section 959A of the Act of 1997, and
 
 (b) where a liable person delivers a return required under section 959I(1) of the Act of 1997 on a date earlier than the specified return date for the chargeable period concerned, the specified return date shall be read as that earlier date.
 
@@ -24,6 +24,6 @@ Surcharge for late submission of income tax and corporation tax returns.
 
 (a) prepares and delivers all returns required under this Part, and
 
-(b) pays the local property tax payable in respect of those returns or enters into an arrangement with the Revenue Commissioners for payment of that tax, the surcharge arising by virtue of subsection (3) shall not exceed the amount of the local property tax payable by reference to those returns.
+(b) pays the local property tax payable in respect of those returns or enters into an arrangement with the Revenue Commissioners for payment of that tax, the surcharge arising by virtue of subsection (3) shall not exceed 50 per cent of the amount of the local property tax payable by reference to those returns.
 
 (5) Where the liable person has not, in fact, submitted the return required under section 959I(1) of the Act of 1997 on or before the specified return date for the chargeable period concerned and a surcharge is applied under section 1084(2) of that Act then this section shall not apply.
