@@ -24,9 +24,9 @@ Certain convictions are not required to be disclosed.
 
 (5) In this section—
 
-‘effective date of conviction’ means, in relation to the imposition by the District Court of a sentence for an offence, the date on which the sentence becomes operative in accordance with the order of the court;
+"effective date of conviction" means, in relation to the imposition by the District Court of a sentence for an offence, the date on which the sentence becomes operative in accordance with the order of the court;
 
-‘excluded offence’ means—
+"excluded offence" means—
 
 (a) an offence specified in Schedule 3, or
 
