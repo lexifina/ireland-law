@@ -40,4 +40,4 @@ Section 14A
 
 16. An offence under the Misuse of Drugs Acts 1977 to 2015, other than a first offence under section 3 of the Misuse of Drugs Act 1977.
 
-17. An offence under section 14, 15, 16, 17, 18 or 19 of the Criminal Justice (Public Order) Act 1994.
+17. An offence under section 14, 15, 16, 17, 18 , 18A or 19 of the Criminal Justice (Public Order) Act 1994.
