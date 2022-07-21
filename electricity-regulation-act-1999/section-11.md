@@ -1,6 +1,6 @@
 Authorised officers.
 
-11.—(1) In this section, a “person to whom this section applies” means the Board, a holder of a licence or an authorisation or a natural gas licence granted under section 16 of the Gas (Interim) (Regulation) Act, 2002, or a consent given under the Gas Act, 1976 , or Bord Gáis Éireann or Irish Water.
+11.—(1) In this section, a “person to whom this section applies” means the Board, a holder of a licence or an authorisation or a registration granted under Part IIIA or a natural gas licence granted under section 16 of the Gas (Interim) (Regulation) Act, 2002, or a consent given under the Gas Act, 1976 , or Bord Gáis Éireann or Irish Water.
 
 (2) The Commission may appoint persons to be authorised officers for the purposes of this section.
 
