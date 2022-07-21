@@ -1,3 +1,3 @@
-Duties of designated judge in relation to this Part. (repealed)
+Duties of designated judge in relation to this Part. (Repealed)
 
 67.—...

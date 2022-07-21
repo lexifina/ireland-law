@@ -12,7 +12,7 @@ Penalties for terrorist offences.
 
 (e) in the case of an offence that is a terrorist-linked activity referred to—
 
-(i) in paragraph (c) of the definition in section 4 of ‘terrorist-linked activity’—
+(i) in paragraph (c) of the definition in section 4 of "terrorist-linked activity"—
 
 (I) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
 

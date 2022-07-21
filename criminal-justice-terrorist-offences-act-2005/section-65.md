@@ -1,3 +1,3 @@
-Complaints procedure. (repealed)
+Complaints procedure. (Repealed)
 
 65.—...

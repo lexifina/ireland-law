@@ -4,17 +4,17 @@ Definitions for Part 2.
 
 4.—(1) In this Part—
 
-‘Framework Decision’ means Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism, the text of which is set out for convenience of reference in—
+"Framework Decision" means Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism, the text of which is set out for convenience of reference in—
 
 (a) Part 1 of Schedule 1, in the case of the Irish language text, and
 
 (b) Part 2 of Schedule 1, in the case of the English language text, as amended by Council Framework Decision 2008/919/JHA of 28 November 2008 amending Framework Decision 2002/475/JHA on combating terrorism, the English language text of which is set out for convenience of reference in Schedule 1A;
 
-‘Prevention of Terrorism Convention’ means the Council of Europe Convention on the Prevention of Terrorism, done at Warsaw on 16 May 2005, the English language text of which is set out for convenience of reference in Schedule 1B;
+"Prevention of Terrorism Convention" means the Council of Europe Convention on the Prevention of Terrorism, done at Warsaw on 16 May 2005, the English language text of which is set out for convenience of reference in Schedule 1B;
 
-‘public provocation to commit a terrorist offence’ shall be construed in accordance with section 4A;
+"public provocation to commit a terrorist offence" shall be construed in accordance with section 4A;
 
-‘recruitment for terrorism’ shall be construed in accordance with section 4B;
+"recruitment for terrorism" shall be construed in accordance with section 4B;
 
 “terrorist activity” means an act that is committed in or outside the State and that—
 
@@ -30,7 +30,7 @@ Definitions for Part 2.
 
 “terrorist group” has the same meaning as in the Framework Decision;
 
-‘terrorist-linked activity’, subject to subsections (2) and (3), means—
+"terrorist-linked activity", subject to subsections (2) and (3), means—
 
 (a) an act that is committed in or outside the State and that—
 
@@ -50,7 +50,7 @@ Definitions for Part 2.
 
 (e) training for terrorism;
 
-‘training for terrorism’ shall be construed in accordance with section 4C.
+"training for terrorism" shall be construed in accordance with section 4C.
 
 (2) A terrorist-linked activity may be committed wholly or partially by electronic means.
 

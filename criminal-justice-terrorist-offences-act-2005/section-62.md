@@ -1,3 +1,3 @@
-Application of this Part. (repealed)
+Application of this Part. (Repealed)
 
 62.—...

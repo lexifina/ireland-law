@@ -1,5 +1,5 @@
 ## PART 7 COMMUNICATIONS DATA
 
-Interpretation of this Part. (repealed)
+Interpretation of this Part. (Repealed)
 
 61.—...

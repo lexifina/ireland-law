@@ -32,12 +32,12 @@ Training for terrorism.
 
 (3) In this section—
 
-‘biological weapon’ and ‘prohibited weapon’ have the same meanings as in the Biological Weapons Act 2011;
+"biological weapon" and "prohibited weapon" have the same meanings as in the Biological Weapons Act 2011;
 
-‘chemical weapons’ has the same meaning as in section 2 of the Chemical Weapons Act 1997;
+"chemical weapons" has the same meaning as in section 2 of the Chemical Weapons Act 1997;
 
-‘explosive’ means an explosive within the meaning of the Explosives Act 1875 and any other substance or thing that is an explosive substance within the meaning of the Explosive Substances Act 1883;
+"explosive" means an explosive within the meaning of the Explosives Act 1875 and any other substance or thing that is an explosive substance within the meaning of the Explosive Substances Act 1883;
 
-‘firearm’ has the same meaning as in section 1 of the Firearms Act 1925;
+"firearm" has the same meaning as in section 1 of the Firearms Act 1925;
 
-‘nuclear material’ has the same meaning as in section 2 of the Radiological Protection Act 1991.
+"nuclear material" has the same meaning as in section 2 of the Radiological Protection Act 1991.
