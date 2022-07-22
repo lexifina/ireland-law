@@ -1,4 +1,4 @@
-F17[Fees.
+F26[Fees.
 
 19.—(1) (a) There shall be paid to the Minister by the non-national concerned in respect of the making of an application for, or the giving of, a permission, or both, such fee (if any) as may be prescribed with the consent of the Minister for Public Expenditure and Reform.
 
@@ -20,6 +20,8 @@ F17[Fees.
 
 (5) Regulations under subsection (1)(a) may prescribe different fees to be paid in different circumstances or in respect of different permissions (including permissions to which different conditions are attached under section 4(6)).
 
+(5A) Regulations under subsection (1)(b) may prescribe different fees to be paid in different circumstances.
+
 (6) Regulations under this section may provide for the waiver in specified circumstances of any prescribed fees, including fees payable by—
 
 (a) adult persons unable without undue hardship to arrange for their payment for themselves and their dependants,
@@ -28,4 +30,4 @@ F17[Fees.
 
 (c) persons in respect of whom a declaration (within the meaning of that Act) is in force.
 
-(7) In this section, ‘travel document’ means a document (other than a document to which section 4(1) of the Refugee Act 1996 refers) issued solely for the purpose of providing the holder with a document which can serve in lieu of a national passport.
+(7) In this section, "travel document" means a document (other than a document to which section 4(1) of the Refugee Act 1996 refers) issued solely for the purpose of providing the holder with a document which can serve in lieu of a national passport.

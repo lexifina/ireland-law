@@ -34,9 +34,9 @@ Interpretation.
 
 “prescribed” means prescribed by regulations made by the Minister and “prescribe” shall be construed accordingly;
 
-“registration district” means the Dublin Metropolitan Area or a Garda Síochána District situated outside that Area;
+...
 
-“registration officer” means the officer in charge of the Garda National Immigration Bureau in the Dublin Metropolitan Area or the Superintendent of the Garda Síochána in a Garda Síochána District outside that Area;
+“registration officer” shall be construed in accordance with section 9B;
 
 “residence” means a dwelling-place where a non-national ordinarily resides and, where a non-national has more than one dwelling-place, each of such dwelling-places; and “resident” shall be construed accordingly;
 
