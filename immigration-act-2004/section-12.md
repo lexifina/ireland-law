@@ -1,4 +1,4 @@
-F14[Requirements as to production of documents.
+F20[Requirements as to production of documents.
 
 12.— (1) Every non-national present in the State (other than a non-national under the age of 16 years) shall produce on demand—
 
@@ -10,4 +10,4 @@ F14[Requirements as to production of documents.
 
 (b) In proceedings brought against a person for an offence under this section, it shall be a defence for the person to prove that, at the time of the alleged offence, he or she had reasonable cause for not complying with the requirements of this section to which the offence relates.
 
-(3) In this section ‘on demand’ means on demand made at any time by the Minister, any immigration officer or a member of the Garda Síochána, for the purposes of establishing that the presence in the State of the non-national concerned is not in contravention of section 5.
+(3) In this section "on demand" means on demand made at any time by the Minister, any immigration officer or a member of the Garda Síochána, for the purposes of establishing that the presence in the State of the non-national concerned is not in contravention of section 5.
