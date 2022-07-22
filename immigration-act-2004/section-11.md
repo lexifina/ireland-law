@@ -1,4 +1,4 @@
-F12[Requirements as to documents of identity and supply of information.
+F18[Requirements as to documents of identity and supply of information.
 
 11.— (1) Every person (other than a person under the age of 16 years) landing in the State shall be in possession of a valid passport or other equivalent document, issued by or on behalf of an authority recognised by the Government, which establishes his or her identity and nationality.
 
