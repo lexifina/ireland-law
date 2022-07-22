@@ -1,6 +1,6 @@
 Legal aid and legal advice for inquests.
 
-60. (1) Where an inquest in relation to the death of a person is to be held under Part III of this Act, a family member of the deceased (in this section referred to as ‘the applicant’) may apply to the coroner for a request to be submitted by that coroner to the Legal Aid Board in relation to the granting of legal aid or legal advice, or both, to the applicant pursuant to the Civil Legal Aid Act 1995.
+60. (1) Where an inquest in relation to the death of a person is to be held under Part III of this Act, a family member of the deceased (in this section referred to as "the applicant") may apply to the coroner for a request to be submitted by that coroner to the Legal Aid Board in relation to the granting of legal aid or legal advice, or both, to the applicant pursuant to the Civil Legal Aid Act 1995.
 
 (2) An application referred to in subsection (1) shall be made before the commencement of the inquest, unless the coroner otherwise permits.
 
@@ -36,6 +36,6 @@ Legal aid and legal advice for inquests.
 
 ...
 
-‘legal advice’ has the same meaning as it has in the Civil Legal Aid Act 1995;
+"legal advice" has the same meaning as it has in the Civil Legal Aid Act 1995;
 
-‘legal aid’ has the same meaning as it has in the Civil Legal Aid Act 1995.
+"legal aid" has the same meaning as it has in the Civil Legal Aid Act 1995.
