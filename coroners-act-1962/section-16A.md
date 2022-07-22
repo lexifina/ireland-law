@@ -2,7 +2,7 @@
 
 F34[Reportable deaths
 
-16A. (1) The following shall be a reportable death for the purposes of this Act (in this Act referred to as a ‘reportable death’):
+16A. (1) The following shall be a reportable death for the purposes of this Act (in this Act referred to as a "reportable death"):
 
 (a) the death of a person which occurred, or may have occurred, either directly or indirectly—
 

@@ -4,7 +4,7 @@ F21[Assignment and appointment of temporary coroner in exceptional circumstances
 
 (a) subject to subsection (2), assign a person who stands appointed as a coroner or deputy coroner for another coroner’s district, or
 
-(b) subject to subsections (3) and (6), appoint a person (including a person who previously stood appointed as a coroner or deputy coroner for any coroner’s district) who has not attained the age of 75 years at the time of the appointment and is qualified for such appointment under section 14, to act temporarily as a coroner (in this section referred to as a ‘temporary coroner’) for the first-mentioned coroner’s district if the Minister is satisfied that such assignment or appointment is necessary for the purpose of increasing the number and progress of inquiries under this Act into deaths in that district.
+(b) subject to subsections (3) and (6), appoint a person (including a person who previously stood appointed as a coroner or deputy coroner for any coroner’s district) who has not attained the age of 75 years at the time of the appointment and is qualified for such appointment under section 14, to act temporarily as a coroner (in this section referred to as a "temporary coroner") for the first-mentioned coroner’s district if the Minister is satisfied that such assignment or appointment is necessary for the purpose of increasing the number and progress of inquiries under this Act into deaths in that district.
 
 (2) An assignment of a person under subsection (1)(a) shall be made only with the consent of the person to be assigned.
 
