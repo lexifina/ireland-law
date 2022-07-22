@@ -8,7 +8,7 @@ Provision for particular non-nationals.
 
 (i) an officer of the Minister, an immigration officer or a member of the Garda Síochána specified in the notice, or
 
-(ii) the registration officer of the registration district in which he or she is resident;
+(ii) a registration officer;
 
 (c) where, and only for so long as, it is reasonably necessary to facilitate his or her removal from the State in accordance with any enactment or other law, that he or she surrender his or her passport and any other travel document that he or she holds, and the non-national shall comply with the requirement.
 
@@ -20,7 +20,7 @@ Provision for particular non-nationals.
 
 (b) in proceedings referred to in section 12(2)(b), a certificate signed by the Minister, an immigration officer or a member of the Garda Síochána stating that the non-national concerned was, at the time of the alleged offence under section 12, in compliance with the notice, shall, in the absence of evidence to the contrary, be proof of that fact.
 
-(4) In this section, ‘enactment’ means—
+(4) In this section, "enactment" means—
 
 (a) an Act of the Oireachtas,
 
