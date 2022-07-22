@@ -1,0 +1,3 @@
+An Act to amend the Employment Permits Act 2003, to provide a defence to a foreign national in certain proceedings under that Act, to provide for civil proceedings to recompense certain foreign nationals for work done or services rendered in certain circumstances; to amend and extend the Employment Permits Act 2006; to make further provision for the grant of employment permits; to amend the Illegal Immigrants (Trafficking) Act 2000; to amend the Immigration Act 2004; to amend the Aliens Order 1946; to amend the Taxes Consolidation Act 1997; and to provide for related matters. [27 th July, 2014]
+
+Be it enacted by the Oireachtas as follows:
