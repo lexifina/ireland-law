@@ -1,12 +1,12 @@
 Revision of valuation lists.
 
-28. (1) In this section ‘property concerned’ means a property in relation to which a person, by virtue of his or her appointment under this section, is entitled to exercise the powers conferred by this section.
+28. (1) In this section "property concerned" means a property in relation to which a person, by virtue of his or her appointment under this section, is entitled to exercise the powers conferred by this section.
 
-(2) (a) The Commissioner may of his or her own volition appoint an officer of the Commissioner to exercise, in relation to such one or more properties as the Commissioner considers appropriate, the powers expressed by this section to be exercisable by a revision manager, and such an officer who is so appointed is referred to in this Act as a ‘revision manager’.
+(2) (a) The Commissioner may of his or her own volition appoint an officer of the Commissioner to exercise, in relation to such one or more properties as the Commissioner considers appropriate, the powers expressed by this section to be exercisable by a revision manager, and such an officer who is so appointed is referred to in this Act as a "revision manager".
 
 (b) A revision manager appointed under paragraph (a) or subsection (3) may assign to another officer of the Commissioner any of his or her functions under this section.
 
-(3) If an application under section 27 is made to the Commissioner, the Commissioner shall appoint an officer of the Commissioner to exercise, in relation to the property or properties to which the application relates, the powers expressed by this section to be exercisable by a revision manager, and such manager who is so appointed is also referred to in this Act as a ‘revision manager’.
+(3) If an application under section 27 is made to the Commissioner, the Commissioner shall appoint an officer of the Commissioner to exercise, in relation to the property or properties to which the application relates, the powers expressed by this section to be exercisable by a revision manager, and such manager who is so appointed is also referred to in this Act as a "revision manager".
 
 (4) A revision manager, if he or she considers that a material change of circumstances which has occurred since a valuation under section 19 was last carried out in relation to the rating authority area in which the property concerned is situate or, as the case may be, since the last previous exercise (if any) of the powers under this subsection, or of comparable powers under the repealed enactments, in relation to the property warrants the doing of such, may, in respect of that property—
 

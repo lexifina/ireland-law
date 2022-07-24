@@ -1,6 +1,6 @@
 Valuation orders.
 
-19.—(1) The Commissioner, after consultation with the Minister for the Environment, Community and Local Government and the rating authority concerned, may make an order (in this Act referred to as a ‘valuation order’) specifying a rating authority area as being an area in relation to which the Commissioner proposes to appoint a person under subsection (2) to organise and secure the carrying out of a valuation of relevant property situate in that area (other than any property specified in paragraph (a) or (b) of that subsection).
+19.—(1) The Commissioner, after consultation with the Minister for the Environment, Community and Local Government and the rating authority concerned, may make an order (in this Act referred to as a "valuation order") specifying a rating authority area as being an area in relation to which the Commissioner proposes to appoint a person under subsection (2) to organise and secure the carrying out of a valuation of relevant property situate in that area (other than any property specified in paragraph (a) or (b) of that subsection).
 
 (1A) A valuation order may specify that the valuation of a rating authority area, or a portion thereof, shall be carried out in accordance with regulations made under section 26B.
 
@@ -10,7 +10,7 @@ Valuation orders.
 
 (b) any relevant property specified in Schedule 4.
 
-(3) The person so appointed is referred to in this Act as a ‘valuation manager’.
+(3) The person so appointed is referred to in this Act as a "valuation manager".
 
 (4) For the purposes of subsection (2) a valuation manager shall, in accordance with subsection (5), arrange for—
 

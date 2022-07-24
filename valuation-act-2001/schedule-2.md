@@ -178,4 +178,4 @@ THE VALUATION TRIBUNAL
 
 (11) For the purposes of subparagraphs (2) and (9) of this paragraph, “spouse”, in relation to a person, does not include a spouse who is living separately and apart from the person.
 
-(12) For the purposes of subparagraphs (2) and (9) of this paragraph, ‘civil partner’ in relation to a person, does not include a civil partner who is living separately and apart from the person.
+(12) For the purposes of subparagraphs (2) and (9) of this paragraph, "civil partner" in relation to a person, does not include a civil partner who is living separately and apart from the person.

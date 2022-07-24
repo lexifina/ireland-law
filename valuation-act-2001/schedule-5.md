@@ -2,7 +2,7 @@ SCHEDULE 5
 
 PLANT REFERRED TO IN SECTION 51
 
-1. A construction affixed to a relevant property (whether on or below the ground) and used for the containment of a substance or for the transmission of a substance or electric current, including any such construction designed or used primarily for storage or containment (whether or not the purpose of such containment is to allow a natural or chemical process to take place), but excluding any such construction used solely to induce a process of change in the substance contained or transmitted (in paragraph 2 referred to as the ‘substance concerned’).
+1. A construction affixed to a relevant property (whether on or below the ground) and used for the containment of a substance or for the transmission of a substance or electric current, including any such construction designed or used primarily for storage or containment (whether or not the purpose of such containment is to allow a natural or chemical process to take place), but excluding any such construction used solely to induce a process of change in the substance contained or transmitted (in paragraph 2 referred to as the "substance concerned").
 
 2. For the purposes of paragraph 1 the following shall not be regarded as a construction used solely to induce a process of change in the substance concerned, namely any individual item of plant used or primarily used—
 

@@ -12,7 +12,7 @@ RELEVANT PROPERTY NOT RATEABLE
 
 4A. (1) Any building or part of a building used exclusively for community sport, and otherwise than for profit and not being the premises of a club for the time being registered under the Registration of Clubs (Ireland) Act 1904.
 
-(2) In this paragraph ‘community sport’ means sport, the principal participants in which are—
+(2) In this paragraph "community sport" means sport, the principal participants in which are—
 
 (a) inhabitants of the locality in which the building concerned (or part of the building concerned) is situate,
 
@@ -32,7 +32,7 @@ RELEVANT PROPERTY NOT RATEABLE
 
 (iii) income received from participants in community sport for the use of the building or part for the purposes of community sport.
 
-(2) In this paragraph ‘community sport’ has the same meaning as it has in paragraph 4A of this Schedule but with the modification that, in the case of subparagraph (1)(b)(iii) of this paragraph, the definition of that expression in that paragraph 4A shall be read as if for ‘the principal participants in which are—’ there were substituted ‘the principal participants in which are, ordinarily—’.
+(2) In this paragraph "community sport" has the same meaning as it has in paragraph 4A of this Schedule but with the modification that, in the case of subparagraph (1)(b)(iii) of this paragraph, the definition of that expression in that paragraph 4A shall be read as if for "the principal participants in which are—" there were substituted "the principal participants in which are, ordinarily—".
 
 5.—Farm buildings.
 
@@ -84,7 +84,7 @@ RELEVANT PROPERTY NOT RATEABLE
 
 (b) the Defence Forces, or
 
-(c) the Garda Síochána, or used as a prison or place of detention, wherever situate , but in this paragraph ‘harbour’ does not include a harbour in respect of which a company has been established pursuant to section 7 of the Harbours Act 1996.
+(c) the Garda Síochána, or used as a prison or place of detention, wherever situate , but in this paragraph "harbour" does not include a harbour in respect of which a company has been established pursuant to section 7 of the Harbours Act 1996.
 
 13.—Any buoy, beacon or lighthouse. 14.—Any land, building or part of a building occupied for the purpose of caring for elderly, handicapped or disabled persons by a body, being either—
 

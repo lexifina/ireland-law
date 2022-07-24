@@ -8,7 +8,7 @@ Data sharing.
 
 (2) In this section—
 
-‘relevant person’ means any of the following:
+"relevant person" means any of the following:
 
 (a) a rating authority;
 

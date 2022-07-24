@@ -12,4 +12,4 @@ Unit of valuation.
 
 (4) Where the officer values or causes to be valued relevant properties or, as the case may be, parts of a relevant property in the manner referred to in subsection (2) or (3), the relevant properties or parts shall be treated as a single relevant property or, as the case may be, separate relevant properties for all the other purposes of this Act.
 
-(5) In subsections (2) to (4) ‘officer’ means a valuation manager or a revision manager.
+(5) In subsections (2) to (4) "officer" means a valuation manager or a revision manager.
