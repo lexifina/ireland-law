@@ -10,7 +10,7 @@ Duty of schools.
 
 (ii) consulted with regard to, and invited to participate in, the making of all decisions of a significant nature concerning their child's education.
 
-(c) co-operate to the greatest extent practicable with the Council and its employees and, in particular, provide to the Council such information as the Council may from time to time reasonably request for the performance by it of its functions,
+(c) co-operate ... with the Council and its employees and, in particular, provide to the Council such information as the Council may from time to time reasonably request for the performance by it of its functions,
 
 (d) ensure that all relevant teachers and other relevant employees of the school are aware of the special educational needs of students.
 

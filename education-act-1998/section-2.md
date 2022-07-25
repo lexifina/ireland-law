@@ -2,7 +2,7 @@ Interpretation.
 
 2.—(1) In this Act, except where the context otherwise requires—
 
-‘admission policy’ has the meaning assigned to it by section 62 (inserted by section 9 of the Education (Admission to Schools) Act 2018);
+"admission policy" has the meaning assigned to it by section 62 (inserted by section 9 of the Education (Admission to Schools) Act 2018);
 
 “articles of management” means any instruments, relating to the operation and management of schools, as are in operation on the commencement of this Act and as shall be agreed from time to time by patrons of schools, national associations of parents and recognised trade unions and staff associations representing teachers;
 
@@ -16,9 +16,9 @@ Interpretation.
 
 “curriculum” shall be construed in accordance with section 30;
 
-‘disability’ means, in relation to a person, a restriction in the capacity of the person to participate in and benefit from education on account of an enduring physical, sensory, mental health or learning disability, or any other condition which results in a person learning differently from a person without that condition and cognate words shall be construed accordingly;
+"disability" means, in relation to a person, a restriction in the capacity of the person to participate in and benefit from education on account of an enduring physical, sensory, mental health or learning disability, or any other condition which results in a person learning differently from a person without that condition and cognate words shall be construed accordingly;
 
-‘educational disadvantage’ means the impediments to education arising from social or economic disadvantage which prevent students from deriving appropriate benefit from education in schools;
+"educational disadvantage" means the impediments to education arising from social or economic disadvantage which prevent students from deriving appropriate benefit from education in schools;
 
 “examination” has the meaning assigned to it by section 49;
 
@@ -48,7 +48,7 @@ Interpretation.
 
 “prescribed” means prescribed by regulations made by the Minister and cognate words shall be construed accordingly;
 
-‘Principal’ means a person appointed to be a Principal;
+"Principal" means a person appointed to be a Principal;
 
 “recognised school” means a school which is recognised by the Minister in accordance with section 10;
 
@@ -67,6 +67,8 @@ Interpretation.
 “school week” means the period of time during a week when a school is open for the reception of students;
 
 “school year” means such twelve month period commencing on a day that falls between the first day of July and the first day of October in any year as may be prescribed from time to time by the Minister, either generally or in respect of any school or class of school;
+
+"special class" has the same meaning as it has in Part X (inserted by section 9 of the Education (Admission to Schools) Act 2018);
 
 “special educational needs” means the educational needs of students who have a disability and the educational needs of exceptionally able students;
 
