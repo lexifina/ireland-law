@@ -132,7 +132,7 @@ Interpretation.
 
 “officer of the Commissioner” means—
 
-(a) a person who is an officer of the Commissioner, or
+(a) a member of the staff of Tailte Éireann,
 
 (b) a person who is empowered, by virtue of arrangements entered into under section 9(11), to perform functions or portions of functions under this Act;
 
