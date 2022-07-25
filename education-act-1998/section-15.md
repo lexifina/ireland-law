@@ -12,6 +12,12 @@ Functions of a board.
 
 (d) Subject to this Act, publish the admission policy of the school, and ensure that as regards that policy principles of inclusion, equality and the right of parents to send their children to a school of the parents’ choice are respected and such directions as may be made from time to time by the Minister, having regard to the characteristic spirit of the school and the constitutional rights of all persons concerned, are complied with,
 
+(da) cooperate with the National Council for Special Education in the performance by the Council of its functions under the Education for Persons with Special Educational Needs Act 2004 relating to the provision of education to children with special educational needs, including, in particular, by the provision and operation of a special class or classes when requested to do so by the Council,
+
+(db) ensure that the admission policy of the school accommodates the admission of children with a disability or other special educational needs,
+
+(dc) comply with any direction served on the board under section 37A and any direction served on the board under section 67(4B),
+
 (e) have regard to the principles and requirements of a democratic society and have respect and promote respect for the diversity of values, beliefs, traditions, languages and ways of life in society,
 
 (f) have regard to the efficient use of resources (and, in particular, the efficient use of grants provided under section 12), the public interest in the affairs of the school and accountability to students, their parents, the patron, staff and the community served by the school, and
