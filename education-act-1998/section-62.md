@@ -16,7 +16,7 @@ Admission policy.
 
 (5) Where the patron has approved the draft admission policy under subsection (4)(b), the patron shall return the draft to the board and specify the modifications to be made to the draft and the board shall, as soon as practicable, make the specified modifications and return the amended draft to the patron and the patron shall approve the amended draft.
 
-(6) Where the patron has approved a draft admission policy under subsection (4)(a) or an amended draft under subsection (5) the patron shall forward the approved policy to the board and the board shall, within the prescribed period, publish the policy (in this Act referred to as an ‘admission policy’).
+(6) Where the patron has approved a draft admission policy under subsection (4)(a) or an amended draft under subsection (5) the patron shall forward the approved policy to the board and the board shall, within the prescribed period, publish the policy (in this Act referred to as an "admission policy").
 
 (7) An admission policy shall—
 
@@ -142,9 +142,9 @@ Admission policy.
 
 (h) In this subsection—
 
-‘Irish language school’ means a school that provides education through the medium of Irish;
+"Irish language school" means a school that provides education through the medium of Irish;
 
-‘level of fluency in the Irish language’, in relation to a student, means a level of fluency indicative of what would be expected of a student who uses the Irish language as a normal means of communication in a non-educational environment, taking into account the age and any special educational needs of the student concerned.
+"level of fluency in the Irish language", in relation to a student, means a level of fluency indicative of what would be expected of a student who uses the Irish language as a normal means of communication in a non-educational environment, taking into account the age and any special educational needs of the student concerned.
 
 (10) Subsection (7)(e)(vi) shall not apply to selection criteria based on a student’s connection to the school by virtue of—
 
@@ -158,6 +158,6 @@ Admission policy.
 
 (12) In this section—
 
-‘code of behaviour’ has the same meaning as it has in the Education (Welfare) Act 2000;
+"code of behaviour" has the same meaning as it has in the Education (Welfare) Act 2000;
 
-‘pre-school service’ has the same meaning as it has in section 58A (inserted by section 92 of the Child and Family Agency Act 2013) of the Child Care Act 1991.
+"pre-school service" has the same meaning as it has in section 58A (inserted by section 92 of the Child and Family Agency Act 2013) of the Child Care Act 1991.

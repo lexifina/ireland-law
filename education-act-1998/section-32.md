@@ -1,3 +1,3 @@
-Educational disadvantage. (repealed)
+Educational disadvantage. (Repealed)
 
 32.— ...

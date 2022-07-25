@@ -80,8 +80,8 @@ Provisions relating to staff.
 
 (14) In this section—
 
-(a) ‘Act of 2001’ means the Teaching Council Act 2001;
+(a) "Act of 2001" means the Teaching Council Act 2001;
 
-‘register’ means the Register of Teachers established under section 29 of the Teaching Council Act 2001 and ‘registration’ and ‘registered’ shall be construed accordingly; and
+"register" means the Register of Teachers established under section 29 of the Teaching Council Act 2001 and "registration" and "registered" shall be construed accordingly; and
 
 (b) a reference to a person being, or to be, paid or remunerated out of monies provided by the Oireachtas includes a person being partly so paid or remunerated.
