@@ -1,6 +1,6 @@
-F69[Annual admission notice
+F67[Annual admission notice
 
-63. (1) Subject to this Act and any regulations made under this Act, the board of a school shall, each year, prepare a notice (in this Part referred to as an ‘annual admission notice’) in respect of the admission of students to the school for the school year concerned.
+63. (1) Subject to this Act and any regulations made under this Act, the board of a school shall, each year, prepare a notice (in this Part referred to as an "annual admission notice") in respect of the admission of students to the school for the school year concerned.
 
 (2) The board shall, prior to accepting applications for admission to the school for the school year concerned, in the prescribed manner and within the prescribed period, publish the annual admission notice.
 
