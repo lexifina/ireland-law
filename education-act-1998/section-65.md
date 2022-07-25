@@ -1,4 +1,4 @@
-F71[Regulations
+F69[Regulations
 
 65. (1) The Minister may, having regard to the principles of inclusion and equality of access to and participation in education and the principles of efficiency, effectiveness, clarity and fairness for applicants and schools, and following consultation with bodies representative of patrons, national associations of parents, recognised school management organisations and recognised trade unions and staff associations representing teachers, make regulations for the purpose of the preparation and publication by schools of admission policies and the admission of students to schools.
 

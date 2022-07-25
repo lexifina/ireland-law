@@ -1,4 +1,4 @@
-F29[ The Principal.
+F34[ The Principal.
 
 23.— (1) In addition to the functions conferred on a Principal by section 22, the Principal of a recognised school shall—
 

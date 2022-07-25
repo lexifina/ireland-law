@@ -1,6 +1,6 @@
 Refusal of access to certain information.
 
-53. (1) Notwithstanding any other enactment, the Minister may refuse access to information specified in subsection (4) (in this section referred to as the ‘specified information’).
+53. (1) Notwithstanding any other enactment, the Minister may refuse access to information specified in subsection (4) (in this section referred to as the "specified information").
 
 (2) The Minister may, following consultation with the Minister for Public Expenditure and Reform, by regulations prescribe a public body for the purposes of this section.
 
@@ -26,10 +26,10 @@ Refusal of access to certain information.
 
 (5) In this section—
 
-‘Act of 2013’ means the Education and Training Boards Act 2013;
+"Act of 2013" means the Education and Training Boards Act 2013;
 
-‘education or training facility’ has the same meaning as it has in the Act of 2013;
+"education or training facility" has the same meaning as it has in the Act of 2013;
 
-‘learner’ has the same meaning as it has in the Act of 2013;
+"learner" has the same meaning as it has in the Act of 2013;
 
-‘public body’ has the same meaning as it has in the Freedom of Information Act 2014.
+"public body" has the same meaning as it has in the Freedom of Information Act 2014.
