@@ -14,6 +14,8 @@ Functions of Council.
 
 (f) to assess and review the resources required in relation to educational provision for children with special educational needs;
 
+(fa) to coordinate and manage, having regard, in particular, to section 37A of the Act of 1998, the admission of children to special classes (within the meaning of the Act of 1998) and to schools that provide an education exclusively for children with special educational needs;
+
 (g) to ensure that a continuum of special educational provision is available as required in relation to each type of disability;
 
 (h) to review generally the provision made for adults with disabilities to avail of higher education and adult and continuing education, rehabilitation and training and to publish reports on the results of such reviews (which reviews may include recommendations as to the manner in which such provision could be improved);
