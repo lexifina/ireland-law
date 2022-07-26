@@ -12,6 +12,8 @@ Persons eligible to apply for financial support
 
 (iii) a programme refugee within the meaning of section 59 of the Act of 2015, or
 
+(iiia) a person who has been given a permission to reside in the State under section 60(6) of the Act of 2015, which permission is valid, or
+
 (iv) a national of a Member State of the European Union, of the Swiss Confederation or of a State which is a contracting State to the EEA Agreement, or
 
 (iva) a citizen of the United Kingdom of Great Britain and Northern Ireland, or

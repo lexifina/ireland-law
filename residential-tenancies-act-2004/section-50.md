@@ -16,7 +16,9 @@ Entitlement of multiple occupant to benefit from Part 4 tenancy.
 
 (6) For the purpose of, amongst other things, ensuring that the distinction that exists between licences and tenancies does not operate to frustrate the objectives of this Part in cases to which this Chapter applies, subsections (7) and (8) are enacted.
 
-(7) A person who is lawfully in occupation of the dwelling concerned as a licensee of the tenant or the multiple tenants, as the case may be, during the subsistence of a Part 4 tenancy may, subject to section 3B(d) (inserted by section 4 of the Residential Tenancies (Amendment) Act 2015), request the landlord of the dwelling to allow him or her to become a tenant of the dwelling.
+(7) A person who is lawfully in occupation of the dwelling concerned as a licensee of the tenant or the multiple tenants, as the case may be, during the subsistence of a Part 4 tenancy may, subject to section 3B(d) and subsection (7A), request the landlord of the dwelling to allow him or her to become a tenant of the dwelling.
+
+(7A) Subsection (7) shall not apply where the person in lawful occupation of the dwelling concerned is a temporary protection beneficiary within the meaning of Part 2 of the Civil Law (Miscellaneous Provisions) Act 2022.
 
 (8) The landlord may not unreasonably refuse to accede to such a request; if the request is acceded to—
 
