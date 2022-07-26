@@ -1,4 +1,4 @@
-Application of section 20 (frequency with which rent reviews may occur) to rent pressure zones
+Application of section 20 (frequency with which rent reviews may occur) to rent pressure zones.
 
 24C. (1) Where a tenancy commenced before the relevant date (within the meaning of section 19(7)) and the area in which the tenancy is situated is in a rent pressure zone (within the meaning of that section), then—
 

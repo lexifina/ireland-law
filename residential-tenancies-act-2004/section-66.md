@@ -12,7 +12,7 @@ Period of notice where section 67 or 68 is inapplicable.
 
 (b) in the case of a termination by the tenant, the period mentioned in column (2) of Table 2 to this section opposite the mention of the duration of the tenancy concerned in column (1) of that Table.
 
-(2A) (a) Where, on the hearing of a complaint under Part 6 in respect of a notice of termination served by a landlord or a tenant (the ‘original notice’), an adjudicator or the Tribunal, as the case may be, makes a determination that—
+(2A) (a) Where, on the hearing of a complaint under Part 6 in respect of a notice of termination served by a landlord or a tenant (the "original notice"), an adjudicator or the Tribunal, as the case may be, makes a determination that—
 
 (i) the original notice is invalid due to a defect contained in, or occurring during the service of, the original notice,
 
@@ -22,7 +22,7 @@ Period of notice where section 67 or 68 is inapplicable.
 
 (b) In the circumstances set out in paragraph (a), the following shall apply:
 
-(i) the landlord or tenant, as may be appropriate, shall be permitted to remedy the original notice to cure the defect identified by the adjudicator or Tribunal, as the case may be, by serving a new notice (the ‘remedial notice’);
+(i) the landlord or tenant, as may be appropriate, shall be permitted to remedy the original notice to cure the defect identified by the adjudicator or Tribunal, as the case may be, by serving a new notice (the "remedial notice");
 
 (ii) the remedial notice shall be served within 28 days of the issue of the determination order under section 121;
 

@@ -1,4 +1,4 @@
-Setting of rent under tenancy for dwellings referred to in section 3(4)
+Setting of rent under tenancy for dwellings referred to in section 3(4).
 
 19A. (1) In setting the rent under the tenancy of a dwelling referred to in section 3(4) the amount of rent under the tenancy of a dwelling—
 

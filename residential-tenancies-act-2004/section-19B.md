@@ -1,4 +1,4 @@
-Restrictions on amounts payable
+Restrictions on amounts payable.
 
 19B. (1) A person shall not be required, for the purpose of securing a tenancy, to make any payment other than—
 

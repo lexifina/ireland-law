@@ -1,4 +1,4 @@
-Rent pressure zones
+Rent pressure zones.
 
 24A. (1) The Housing Agency, following consultation with the relevant housing authority, may make a proposal in writing to the Minister that an area be prescribed by order as a rent pressure zone.
 
@@ -38,26 +38,26 @@ Rent pressure zones
 
 (10) In this section—
 
-‘area’ means—
+"area" means—
 
 (a) the administrative area of a housing authority, or
 
 (b) a local electoral area within the meaning of section 2 of the Local Government Act 2001;
 
-‘Dublin Area’ means—
+"Dublin Area" means—
 
 (a) the city of Dublin, and
 
 (b) the counties of South Dublin, Fingal and Dún Laoghaire-Rathdown;
 
-‘Greater Dublin Area’ means—
+"Greater Dublin Area" means—
 
 (a) the Dublin Area, and
 
 (b) the counties of Kildare, Wicklow and Meath;
 
-‘Housing Agency’ has the same meaning as it has in the Pyrite Resolution Act 2013;
+"Housing Agency" has the same meaning as it has in the Pyrite Resolution Act 2013;
 
-‘Rent Index quarterly reports’ has the meaning given in the definition of ‘Rent Index’;
+"Rent Index quarterly reports" has the meaning given in the definition of "Rent Index";
 
-‘Rent Index’ means the publication known as the Residential Tenancies Board Rent Index which is published by the Board in respect of each successive period of 3 months in every calendar year (in this section referred to as ‘Rent Index quarterly reports’) pursuant to its functions under section 151(1)(e) and includes any other publication that it replaced or may replace it for the purposes of those functions.
+"Rent Index" means the publication known as the Residential Tenancies Board Rent Index which is published by the Board in respect of each successive period of 3 months in every calendar year (in this section referred to as "Rent Index quarterly reports") pursuant to its functions under section 151(1)(e) and includes any other publication that it replaced or may replace it for the purposes of those functions.

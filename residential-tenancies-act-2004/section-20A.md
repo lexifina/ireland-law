@@ -1,4 +1,4 @@
-Rent review for dwellings referred to in section 3(4)
+Rent review for dwellings referred to in section 3(4).
 
 20A. (1) A review of the rent under the tenancy of a dwelling referred to in section 3(4) shall be carried out in accordance with the tenancy agreement relating to the tenancy of the dwelling.
 

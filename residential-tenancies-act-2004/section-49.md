@@ -1,4 +1,4 @@
-General principle in relation to dwellings occupied by more
+General principle in relation to dwellings occupied by more.
 
 49.—(1) Subject to this Chapter, the provisions of this Part apply regardless of the fact that the dwelling concerned is occupied at the particular time by either or both—
 

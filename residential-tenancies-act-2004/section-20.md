@@ -18,7 +18,7 @@ Frequency with which rent reviews may occur.
 
 (ii) the rent under the tenancy, were it to be set immediately after that change, would, by virtue of that change, be different to what was the market rent for the tenancy at the time of that last review or the commencement of the tenancy, as the case may be.
 
-(4) The references to ‘12 months’ in—
+(4) The references to "12 months" in—
 
 (a) paragraphs (a) and (b) of subsection (1), and
 
@@ -30,4 +30,4 @@ Frequency with which rent reviews may occur.
 
 (b) subsection (3), shall be read as if subsection (4) had not been enacted.
 
-(6) In subsection (4), ‘relevant period’ means the period commencing on the day on which section 25 of the Residential Tenancies (Amendment) Act 2015 comes into operation and ending on 31 December 2024.
+(6) In subsection (4), "relevant period" means the period commencing on the day on which section 25 of the Residential Tenancies (Amendment) Act 2015 comes into operation and ending on 31 December 2024.

@@ -32,7 +32,7 @@ Non-application of Part.
 
 (ii) provides, in the case of a dwelling referred to in paragraph (b) of section 3(4), the assistance referred to in that paragraph, has, in respect of the designation referred to in paragraph (a), been obtained by the approved housing body before it makes the designation.
 
-(6) In subsection (5) ‘transitional dwelling’ means a dwelling that an approved housing body leases for periods not exceeding 18 months for the purposes of the approved housing body concerned.
+(6) In subsection (5) "transitional dwelling" means a dwelling that an approved housing body leases for periods not exceeding 18 months for the purposes of the approved housing body concerned.
 
 (7) Where, before the coming into operation of section 3 of the Residential Tenancies (Amendment) Act 2015, an approved housing body had not, for the purposes of subsection (5), made a designation in respect of a dwelling referred to in paragraph (a) or (b) of section 3(4) that it leases to a household referred to in subsection (2A) or (4)(b) of section 3 for a period not exceeding 18 months, the approved housing body concerned—
 
