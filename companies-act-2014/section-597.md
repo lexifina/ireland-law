@@ -1,6 +1,6 @@
 Circumstances in which floating charge is invalid
 
-597. (1) Where a company is being wound up, a floating charge on the undertaking or property of the company created within 12 months before the date of commencement of the winding up shall, unless it is proved that the company immediately after the creation of the charge was solvent, be invalid.
+597. (1) Subject to section 598A, where a company is being wound up, a floating charge on the undertaking or property of the company created within 12 months before the date of commencement of the winding up shall, unless it is proved that the company immediately after the creation of the charge was solvent, be invalid.
 
 (2) Subsection (1) does not apply to—
 

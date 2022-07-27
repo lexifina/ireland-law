@@ -30,7 +30,9 @@ Statement of principal fiduciary duties of directors
 
 (ii) the knowledge and experience which the director has; and
 
-(h) in addition to the duty under section 224 (duty to have regard to the interests of its employees in general), have regard to the interests of its members.
+(h) in addition to the duty under section 224 (duty to have regard to the interests of its employees in general), have regard to the interests of its members; and
+
+(i) in addition to the duties under section 224A (directors to have regard to certain matters where company is, or is likely to be, unable to pay its debts), have regard to the interests of its creditors where the directors become aware of the company’s insolvency.
 
 (2) If a director of a company considers in good faith that it is in the interests of the company for a transaction or engagement to be entered into and carried into effect, a director may restrict the director’s power to exercise an independent judgment in the future by agreeing to act in a particular way to achieve this.
 

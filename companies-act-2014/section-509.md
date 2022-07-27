@@ -10,9 +10,13 @@ Power of court to appoint examiner
 
 (c) no order has been made for the winding up of the company, the court may, on application by petition presented, appoint an examiner to the company for the purpose of examining the state of the company’s affairs and performing such functions in relation to the company as may be conferred by or under this Part.
 
-(2) The court shall not make an order under this section unless it is satisfied that there is a reasonable prospect of the survival of the company and the whole or any part of its undertaking as a going concern.
+(2) The court shall not make an order under this section unless it is satisfied that –
 
-(3) For the purposes of this section, a company is unable to pay its debts if—
+(a) there is a reasonable prospect of the survival of the company and the whole or any part of its undertaking as a going concern, and
+
+(b) the individual to be appointed as examiner has, in cases including cross-border elements, in addition to meeting the requirements of section 519, sufficient experience and expertise to perform the role, having due consideration to the examiner’s experience and to the specific features of the case.
+
+(3) For the purposes of this section, sections 224A, 271A and 520A, a company is unable to pay its debts if—
 
 (a) it is unable to pay its debts as they fall due,
 

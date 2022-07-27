@@ -34,6 +34,8 @@ Effect of petition to appoint examiner on creditors and others
 
 (g) no order for relief shall be made under section 212 against the company in respect of complaints as to the conduct of the affairs of the company or the exercise of the powers of the directors prior to the presentation of the petition.
 
-(5) Subject to subsection (4), no other proceedings in relation to the company may be commenced except by leave of the court and subject to such terms as the court may impose and the court may, on the application of the examiner, make such order as it thinks proper in relation to any existing proceedings including an order to stay such proceedings.
+(5) Subject to subsections (4) and (5A), no other proceedings in relation to the company may be commenced except by leave of the court and subject to such terms as the court may impose and the court may, on the application of the examiner, make such order as it thinks proper in relation to any existing proceedings including an order to stay such proceedings.
+
+(5A) Notwithstanding subsections (4) and (5), nothing in this section shall prevent an employee of the company from seeking to commence or advance actions or proceedings falling within subsection (4) against the company.
 
 (6) Complaints concerning the conduct of the affairs of the company while it is under the protection of the court shall not constitute a basis for the making of an order for relief under section 212.

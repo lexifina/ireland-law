@@ -27,3 +27,11 @@ Unfair preference: effect of winding up on antecedent and other transactions
 (b) to be an unfair preference, and be invalid accordingly.
 
 (5) Subsections (2) and (4) shall not affect the rights of any person making title in good faith and for valuable consideration through or under a creditor of the company.
+
+(6) In any winding up of a company under this Part, an act carried out as part of a transaction that was –
+
+(a) reasonable,
+
+(b) immediately necessary for the implementation of a scheme of arrangement under Part 10, and
+
+(c) carried out in accordance with a scheme of arrangement confirmed by a court under section 541, shall not be deemed to be an unfair preference under this section on the basis that the transaction was detrimental to the general body of creditors of the company unless there are other reasons why the transaction should be deemed invalid.

@@ -18,7 +18,7 @@ Independent expert's report
 
 (f) his or her opinion as to whether the formulation, acceptance and confirmation of proposals for a compromise or scheme of arrangement would offer a reasonable prospect of the survival of the company, and the whole or any part of its undertaking, as a going concern;
 
-(g) his or her opinion as to whether an attempt to continue the whole or any part of the undertaking would be likely to be more advantageous to the members as a whole and the creditors as a whole than a winding-up of the company;
+(g) his or her opinion as to whether an attempt to continue the whole or any part of the undertaking meets the best-interest-of-creditors test and would be likely to be more advantageous to the members as a whole than a winding-up of the company;
 
 (h) recommendations as to the course he or she thinks should be taken in relation to the company including, if warranted, draft proposals for a compromise or scheme of arrangement;
 

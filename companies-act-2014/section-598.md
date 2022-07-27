@@ -1,6 +1,6 @@
 Other circumstances in which floating charge is invalid
 
-598. (1) Where—
+598. (1) Subject to section 598A, where —
 
 (a) a company is being wound up,
 

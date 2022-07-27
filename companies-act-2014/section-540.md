@@ -6,7 +6,9 @@ Consideration by members and creditors of proposals
 
 (3) At a meeting to which this section applies a modification of the proposals may be put to the meeting but may only be accepted with the consent of the examiner.
 
-(4) Proposals shall be deemed to have been accepted by a meeting of creditors or of a class of creditors when a majority in number representing a majority in value of the claims represented at that meeting have voted, either in person or by proxy, in favour of the resolution for the proposals.
+(4) Subject to subsection (4A), proposals shall be deemed to have been accepted by a meeting of creditors or of a class of creditors when a majority in number representing a majority in value of the claims represented at that meeting have voted, either in person or by proxy, in favour of the resolution for the proposals.
+
+(4A) Creditors or classes of creditors whose interests or claims will not be impaired by the proposals shall not have voting rights in the adoption of the proposals, and the majority calculated in accordance with subsection (4) shall not take into account the number and value of the claims of any such creditors.
 
 (5) Nothing in subsection (4) shall, in the case of a creditor who abstains from voting, or otherwise fails to cast a vote, in respect of the proposals, be read as permitting such an abstention or failure to be regarded as a casting by that person of a vote against the proposals.
 

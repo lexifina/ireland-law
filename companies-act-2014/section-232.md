@@ -1,6 +1,6 @@
 Breaches of certain duties: liability to account and indemnify
 
-232. (1) Subject to section 233, where a director of a company acts in breach of his or her duty under section 228(1)(a), (c), (d), (e), (f) or (g), he or she shall be liable to do either or both (as the corresponding common law rule or equitable principle with respect to the matter would have required) of the following things, namely—
+232. (1) Subject to section 233, where a director of a company acts in breach of his or her duty under section 228(1)(a), (c), (d), (e), (f), (g) or (i), he or she shall be liable to do either or both (as the corresponding common law rule or equitable principle with respect to the matter would have required) of the following things, namely—
 
 (a) account to the company for any gain which he or she makes directly or indirectly from the breach of duty;
 
