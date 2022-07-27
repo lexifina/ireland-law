@@ -1,3 +1,3 @@
-Interpretation of sections 935A to 935D and 941A(Repealed)
+Interpretation of sections 935A to 935D and 941A (Repealed)
 
 935A. ...

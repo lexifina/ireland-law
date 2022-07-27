@@ -2,9 +2,9 @@ Investigation of possible breaches of standards of prescribed accountancy bodies
 
 934. (1) In this section—
 
-‘client’ includes an individual, a body corporate, an unincorporated body of persons and a partnership;
+"client" includes an individual, a body corporate, an unincorporated body of persons and a partnership;
 
-‘relevant person’—
+"relevant person"—
 
 (a) in relation to an investigation of a member or former member of a prescribed accountancy body, means—
 

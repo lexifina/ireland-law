@@ -14,9 +14,7 @@ Application of Parts 1 to 14 to PLCs
 
 (4) The specification in the foregoing Table of a provision (a “specified provision”) of Parts 1 to 14 also operates to disapply to a PLC any other provision of those Parts (notwithstanding that it is not specified in that Table) that makes consequential, incidental or supplemental provision on, or in relation to, the specified provision.
 
-Table
-
-Subject matter Provision disapplied
+Table Subject matter Provision disapplied
 
 Way of forming a private company limited by
 
@@ -110,9 +108,7 @@ Summary Approval Procedure Chapter 7 of Part 4 (save as it applies to—
 
 (b) an activity specified in section 118 (prohibition on pre-acquisition profits or losses being treated in holding company’s financial statements as profits available for distribution); or
 
-(c) the making of a loan or quasi-loan or the doing of any other thing referred to in section 239).
-
-Directors’ compliance statement and related The words “to which this section statement— exemption for companies below a applies” in section 225(2), and particular size section 225(7)
+(c) the making of a loan or quasi-loan or the doing of any other thing referred to in section 239). Directors’ compliance statement and related The words “to which this section statement— exemption for companies below a applies” in section 225(2), and particular size section 225(7)
 
 Qualification of company based on size of Sections 280A to 280G company
 
@@ -124,7 +120,9 @@ Section 333
 
 (unless audit exemption availed of)
 
-Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information Audit exemption Chapter 15 of Part 6
+Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
+
+Audit exemption Chapter 15 of Part 6
 
 Special audit exemption for dormant companies Chapter 16 of Part 6
 

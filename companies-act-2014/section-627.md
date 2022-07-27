@@ -16,7 +16,9 @@ Legal proceedings, carrying on company’s business, etc.
 
 (d) continue to carry on the business of a company so far as may be necessary for the beneficial winding up thereof, where such business was continuing at the date of the appointment of the liquidator and had not subsequently ceased;
 
-(e) appoint a legal practitioner to assist the liquidator in the performance of his or her duties. Payment of certain creditors, compromise of certain claims, etc.
+(e) appoint a legal practitioner to assist the liquidator in the performance of his or her duties.
+
+Payment of certain creditors, compromise of certain claims, etc.
 
 2. Power to—
 
@@ -76,9 +78,7 @@ Security for costs and appointment of agents.
 
 (a) give security for costs in any proceedings commenced by the company or by the liquidator in the name of the company;
 
-(b) appoint an agent to do any business which the liquidator is unable to do or that it is unreasonable to expect the liquidator to do, in person.
-
-Custody and control of property and disposal of perishables, etc.
+(b) appoint an agent to do any business which the liquidator is unable to do or that it is unreasonable to expect the liquidator to do, in person. Custody and control of property and disposal of perishables, etc.
 
 9. Power to—
 

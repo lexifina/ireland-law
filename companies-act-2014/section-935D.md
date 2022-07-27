@@ -1,3 +1,3 @@
-Publication of relevant sanction imposed, etc(Repealed)
+Publication of relevant sanction imposed, etc (Repealed)
 
 935D. ...

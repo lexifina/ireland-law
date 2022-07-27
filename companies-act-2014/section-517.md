@@ -28,4 +28,6 @@ Related companies
 
 (8) The Circuit Court shall only have jurisdiction to make an order referred to in subsection (1)(a) or (b) if the related company is a company that, in respect of the latest financial year of it that has ended prior to the relevant time referred to in subsection (1), fell to be treated as a small company by virtue of section 280A or 280B.
 
-(9) For the purposes of subsection (8), if the latest financial year of the company concerned ended within 3 months prior to the relevant time referred to in subsection (1), the reference in subsection (8) to the latest financial year of the company shall be read as a reference to the financial year of the company that preceded its latest financial year (but that reference shall only be so read if that preceding financial year ended no more than 15 months prior to the relevant time referred to in subsection (1)).
+(9) For the purposes of subsection (8), if the latest financial year of the company concerned ended within 3 months prior to the relevant time referred to in subsection
+
+(1), the reference in subsection (8) to the latest financial year of the company shall be read as a reference to the financial year of the company that preceded its latest financial year (but that reference shall only be so read if that preceding financial year ended no more than 15 months prior to the relevant time referred to in subsection (1)).
