@@ -10,8 +10,6 @@ Offences and penalties
 
 (c) subsection (2), (3) or (5) of section 1110B;
 
-12 OJ No. L 173, 12.6.2014, p.1
-
 (d) subsection (1), (2) or (4) of section 1110C;
 
 (e) subsection (1), (2), (3), (4) or (5) of section 1110D;

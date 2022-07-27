@@ -4,6 +4,8 @@ Engagement policy - asset managers
 
 (2) A relevant asset manager who does not develop and publicly disclose an engagement policy in accordance with this section shall publicly disclose a clear and reasoned explanation for its failure to do so.
 
+6 OJ No. L 174, 1.7.2011, p. 1 5 OJ No. L 302, 17.11.2009, p. 32 2 OJ No. L 173, 12.6.2014, p. 349
+
 (3) The engagement policy developed under subsection (1) shall describe how the relevant asset manager—
 
 (a) integrates shareholder engagement in its investment strategy,
@@ -43,5 +45,7 @@ Engagement policy - asset managers
 (ii) Article 12(1)(b) and 14(1)(d) of Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS), and the relevant implementing rules and technical standards under that Directive;
 
 (iii) Article 23 of Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (recast).
+
+6 OJ No. L 174, 1.7.2011, p. 1 5 OJ No. L 302, 17.11.2009, p. 32 2 OJ No. L 173, 12.6.2014, p. 349
 
 (8) A requirement in this section to publicly disclose any matter shall be read as a requirement to make the matter available free of charge on the website of the relevant asset manager that is subject to the requirement.

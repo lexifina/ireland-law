@@ -20,8 +20,8 @@ Interpretation, application and commencement (Chapter 8A)
 
 (2) A word or expression that is used in this Chapter and is also used in the Shareholders’ Rights Directive has, unless the context otherwise requires, the same meaning in this Chapter as it has in that Directive.
 
-(3) This Chapter shall be read in conjunction with any applicable provision of European Union law adopted by the European Commission as an implementing act in
-
-7 OJ No. L 119, 4.5.2016, p.1 8 OJ No. L 176, 27.6.2013, p. 1 9 OJ No. L 257, 28.8.2014, p. 1 accordance with the Shareholders’ Rights Directive, including Commission Implementing Regulation (EU) 2018/1212 of 3 September 2018 laying down minimum requirements implementing the provisions of Directive 2007/36/EC of the European Parliament and of the Council as regards shareholder identification, the transmission of information and the facilitation of the exercise of shareholders rights.
+(3) This Chapter shall be read in conjunction with any applicable provision of European Union law adopted by the European Commission as an implementing act in accordance with the Shareholders’ Rights Directive, including Commission Implementing Regulation (EU) 2018/1212 of 3 September 2018 laying down minimum requirements implementing the provisions of Directive 2007/36/EC of the European Parliament and of the Council as regards shareholder identification, the transmission of information and the facilitation of the exercise of shareholders rights.
 
 (4) This section shall come into operation on 3 September 2020.
+
+7 OJ No. L 119, 4.5.2016, p.1 8 OJ No. L 176, 27.6.2013, p. 1 9 OJ No. L 257, 28.8.2014, p. 1 10 OJ No. L 223, 4.9.2018, p. 1
