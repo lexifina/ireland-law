@@ -8,7 +8,9 @@ Report by examiner
 
 (2) Notwithstanding any provision of Part 4 relating to notice of general meetings (but subject to notice of not less than 3 days in any case) the examiner shall—
 
-(a) convene and preside at such meetings of members and creditors as he or she thinks proper for the purpose of section 540, and
+(a) convene and preside at such meetings of members and creditors as he or she thinks proper for the purpose of section 540,
+
+(aa) ensure that every member or creditor, or class of members or creditors, whose interests or claims will be impaired by the proposals is invited to attend a meeting convened in accordance with paragraph (a), and
 
 (b) in accordance with section 536, report on those proposals to the court, within 35 days after the date of his or her appointment or such longer period as the court may allow.
 
@@ -28,7 +30,7 @@ Report by examiner
 
 (c) In paragraph (b), "exceptional circumstances" include (but are not limited to) the nature and potential or actual impact of Covid-19 on the company.
 
-(4) Where the examiner has submitted a report under this section to the court and, but for this subsection, the period mentioned in section 520(2) (and any extended period allowed under subsection (3)) and any further extended period allowed under subsection (3A) would expire, the court may, of its own motion or on the application of the examiner, extend the period concerned by such period as the court considers necessary to enable it to take a decision under section 541.
+(4) Where the examiner has submitted a report under this section to the court and, but for this subsection, the period mentioned in section 520(2) (and any extended period allowed under subsection (3)) and any further extended period allowed under subsection (3A) would expire, the court may, of its own motion or on the application of the examiner, extend the period concerned by such period as the court considers necessary to enable it to take a decision under section 541, but the total duration of the period referred to in section 520(2), any extended period allowed under subsection (3), any further extended period allowed under subsection (3A), and any further extended period allowed under this subsection, shall not exceed 12 months..
 
 (5) The examiner shall supply a copy of his or her report under this section—
 
@@ -40,7 +42,7 @@ Report by examiner
 
 (a) if the company concerned is a company referred to in section 510(2), (3) or (4) — the Central Bank, and
 
-(b) irrespective of whether it constitutes any of the foregoing kinds of company — the Director of Corporate Enforcement.
+(b) irrespective of whether it constitutes any of the foregoing kinds of company — the Authority.
 
 (7) If the court, on application to it in that behalf, directs that that supply may be the subject of such omission, there may be omitted from any copy of the report supplied under subsection (5)(b) to an interested party such parts of it as are specified in the direction of the court.
 
