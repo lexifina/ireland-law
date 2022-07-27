@@ -36,21 +36,25 @@ Interpretation.
 
 “driving” includes managing and controlling and, in relation to a bicycle or tricycle, riding, and “driver” and other cognate words shall be construed accordingly;
 
-‘driving licence’ means—
+"driving licence" means—
 
 (a) an Irish driving licence, or
 
 (b) a foreign driving licence;
 
-"EU roadworthiness certificate" in relation to a vehicle means a roadworthiness certificate within the meaning of the Roadworthiness Directive issued by a Member State competent authority or a Member State testing centre which has not expired or otherwise been cancelled or revoked and, insofar as the frequency intervals for vehicle testing are concerned, is still valid by reference to the frequency intervals prescribed by regulations made under section 18 for tests of mechanically propelled vehicles;
+“EU roadworthiness certificate” in relation to a vehicle means a roadworthiness certificate within the meaning of the Roadworthiness Directive issued by a Member State competent authority or a Member State testing centre which has not expired or otherwise been cancelled or revoked and, insofar as the frequency intervals for vehicle testing are concerned, is still valid by reference to the frequency intervals prescribed by regulations made under section 18 for tests of mechanically propelled vehicles;
+
+“European Economic Area” means the European Economic Area created by the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as amended for the time being
 
 “footway” means that portion of any road which is provided primarily for the use of pedestrians;
 
 "foreign driving licence" means a licence or permit to drive a mechanically propelled vehicle—
 
-(a) in respect of a category of vehicle referred to in the European Communities (Recognition of Driving Licences of Other Member States) Regulations 2008 (S.I. No. 464 of 2008) issued by the competent authority of another Member State or a member state of the European Economic Area, but does not include a licence or permit so issued to a person to enable the person to learn to drive or provisionally to drive a vehicle, or
+(a) in respect of a category of vehicle referred to in the European Communities (Recognition of Driving Licences of Other Member States) Regulations 2008 (S.I. No. 464 of 2008) issued by the competent authority of another Member State or a member state of the European Economic Area, but does not include a licence or permit so issued to a person to enable the person to learn to drive or provisionally to drive a vehicle,
 
-(b) recognised by an order made under section 23A(1);
+(b) recognised by an order made under section 23A(1), or;
+
+(c) recognised by an order under section 23B;
 
 "general speed limit" means a speed limit under section 44A of this Act;
 
@@ -112,6 +116,8 @@ Interpretation.
 
 “period of cover” has the meaning assigned to it in paragraph (b) of subsection (1) of section 62 or paragraph (b) of subsection (1) of section 63 (as may be appropriate);
 
+“permission to reside” means a permission under section 60(6) of the International Protection Act 2015, which permission is valid;
+
 “prescribed” means prescribed by regulations made by the Minister under this Act;
 
 “principal debtor” has the meaning assigned to it in paragraph (a) of subsection (1) of section 63;
@@ -127,6 +133,8 @@ Interpretation.
 “public service vehicle” means a mechanically propelled vehicle or combination of vehicles used for the carriage of persons for reward;
 
 "registered owner" has the meaning assigned to it by the Road Vehicles (Registration and Licensing) (Amendment) Regulations 1992 (S.I. No. 385 of 1992) (as amended by the Road Vehicles (Registration and Licensing) (Amendment) Regulations 2004 (S.I. No. 213 of 2004)), but, if those regulations should be revoked, it shall have the meaning assigned to it by such regulations corresponding to those regulations as may for the time being be in force;
+
+“relevant person” means a person who has been given a permission to reside;
 
 “the repealed Act” means the Road Traffic Act, 1933 (repealed by this Act);
 
@@ -156,9 +164,7 @@ Interpretation.
 
 “street service vehicle” means a small public service vehicle the driver of which offers in a public place himself and the vehicle for hire and for that purpose stands or drives the vehicle in a public place;
 
-1 OJ No. L 127, 29.4.2014, p. 51.
-
-‘test certificate’ means -
+"test certificate" means -
 
 (a) a certificate issued under section 18, or
 
