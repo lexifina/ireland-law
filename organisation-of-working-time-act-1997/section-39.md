@@ -18,9 +18,7 @@ Parental Leave Act, 1998
 
 Payment of Wages Act, 1991
 
-Protection of Employees (Employers’ Insolvency) Acts, 1984 to 1991
-
-Protection of Young Persons (Employment) Act, 1996
+Protection of Employees (Employers’ Insolvency) Acts, 1984 to 1991 Protection of Young Persons (Employment) Act, 1996
 
 Redundancy Payments Acts, 1967 to 1991
 
