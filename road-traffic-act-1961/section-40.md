@@ -29,3 +29,5 @@ Production of driving licence on demand by member of Garda Síochána.
 (8) A person who, when the production of a driving licence or learner permit is demanded or required of him or her under this section, does not produce the licence or permit because he or she is not the holder of a driving licence or learner permit is deemed to fail to produce his or her driving licence or learner permit, as the case may be, under this section.
 
 (9) Section 1(1) of the Probation of Offenders Act 1907 does not apply to an offence under this section.
+
+(10) In this section "driving licence" has the meaning given to it by section 38(9).

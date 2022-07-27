@@ -26,4 +26,12 @@ Production of driving licence to member of Garda Síochána subsequent to commis
 
 (8) A requirement under this section shall not be made after the time in which proceedings may be brought in respect of the alleged offence.
 
+(8A) In this section—
+
+"driving licence" has the meaning given to it by section 60(6A);
+
+"permission to reside" means a permission under section 60(6) of the International Protection Act 2015, which permission is valid;
+
+"relevant person" means a person who has been given a permission to reside.
+
 (9) Section 33 of the Act of 2004 is repealed.
