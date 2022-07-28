@@ -28,7 +28,7 @@ Penalties and forfeiture for certain indictable fishery offences.
 
 (a) in the case of a conviction under section 8 or 9, it may order the forfeiture of all or any fish and fishing gear found on the boat to which the offence relates, or
 
-(b) in the case of a conviction under any other provision mentioned in a Table, any fish and fishing gear found on the boat to which the offence relates or in any other place where they may be are, as a statutory consequence of the conviction, forfeited.
+(b) in the case of a conviction under any other provision mentioned in a Table, any fish and fishing gear found on the boat to which the offence relates or found in any other place to which they had been moved from the boat are, as a statutory consequence of the conviction, forfeited.
 
 (6) Where a person is convicted summarily of an offence specified in a Table, in addition to any fine the court may impose under this section—
 
@@ -38,11 +38,15 @@ Penalties and forfeiture for certain indictable fishery offences.
 
 (ii) any fishing gear used in the commission of the offence or to which the offence relates, or
 
-(b) in the case of a second or subsequent conviction under any provision (other than section 8 or 9) mentioned in a Table, all or any of the following found on the boat to which the offence relates, namely—
+(b) in the case of a second or subsequent conviction under any provision (other than section 8 or 9) mentioned in a Table, ... the following found on the boat to which the offence relates, namely—
 
 (i) any fish unlawfully caught, and
 
 (ii) any fishing gear used in the commission of the offence or to which the offence relates, are as a statutory consequence of the conviction, forfeited.
+
+(6A) Where a person who is convicted of an offence to which subsection (1A), (5)(b) or (6)(b) applies demonstrates that the mandatory forfeiture required by the subsection concerned is disproportionate, the court may in those exceptional circumstances adjust, modulate or mitigate the extent of the mandatory forfeiture order. In making this assessment the court shall have regard to the requirement that the severity of the sanctions must be commensurate with the seriousness of the breaches for which they are imposed, in particular by ensuring a genuinely dissuasive effect.
+
+(6B) Where the Court decides under subsection (6A) to substitute an order of forfeiture that it deems appropriate in place of a mandatory forfeiture required by this section as a statutory consequence of conviction, it shall give reasons for doing so.
 
 Where the Court decides under paragraph (a) not to order the forfeiture of all or any of the above it shall give reasons for not doing so.
 
