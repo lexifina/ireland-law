@@ -20,7 +20,7 @@ Weekly working hours.
 
 (a) any period of annual leave granted to the employee concerned in accordance with this Act (save so much of it as exceeds the minimum period of annual leave required by this Act to be granted to the employee),
 
-(aa) any period during which the employee was absent from work while on parental leave, force majeure leave or carer’s leave within the meaning of the Carer’s Leave Act, 2001,
+(aa) any period during which the employee was absent from work while on parental leave, force majeure leave , leave for medical care purposes, domestic violence leave or an approved flexible working arrangement within the meaning of the Parental Leave Act 1998 or carer’s leave within the meaning of the Carer’s Leave Act, 2001,
 
 (b) any absences from work by the employee concerned authorised under the Maternity Protection Act, 1994, or the Adoptive Leave Act, 1995, or
 
