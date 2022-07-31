@@ -30,7 +30,9 @@ Licences to generate and supply electricity.
 
 (m) to carry out the function of demand response, and
 
-(n) to carry out the function of energy storage, and where the Commission grants such a licence, that licence shall be subject to such terms and conditions as may be specified in the licence.
+(n) to carry out the function of energy storage,
+
+(o) to discharge the functions of an electricity undertaking engaged in purchasing electricity, not for own use and where the Commission grants such a licence, that licence shall be subject to such terms and conditions as may be specified in the licence.
 
 (1A) The Commission may by order provide that a person generating electricity by means of a specified class or classes of generating station shall stand licensed to generate electricity subject to such terms and conditions as may be specified in such order.
 
@@ -43,6 +45,16 @@ Licences to generate and supply electricity.
 (2) The Commission may grant to the Board a licence to supply electricity to eligible customers, subject to terms and conditions as may be specified in the licence.
 
 (2A) A licence under paragraph (e) of subsection (1) shall only be granted to EirGrid.
+
+(2AA) A licence under paragraph (e) of subsection (1) shall provide for the ownership, by the transmission system operator concerned, of transmission assets for the following purposes:
+
+(a) the development or proposed development of a transmission system which is offshore;
+
+(b) the extension or proposed extension of an existing transmission system to a transmission system referred to in paragraph (a);
+
+(c) facilities that are not offshore but that relate, or will relate, to connecting a transmission system (or part thereof) referred to in paragraph (a) to an existing transmission system;
+
+(d) any transmission assets as may be determined by the Commission as assets of the transmission system operator.
 
 (2B) A licence under paragraph (f) of subsection (1) shall only be granted to the Board or a subsidiary of the Board.
 
@@ -127,3 +139,5 @@ Licences to generate and supply electricity.
 (14) The Commission shall grant a licence to generate electricity pursuant to subsection (1)(a) to the Board in respect of existing generating stations which are not already licensed under this Act as soon as practicable after the coming into operation of this subsection.
 
 (15) For the purposes of this section a person acts as Single Electricity Market operator if the responsibilities of that person include responsibility, pursuant to the Trading and Settlement Code under the Single Electricity Market, for calculating charges and other payments due under that code.
+
+(16) For the purposes of this section, "any person" means an electricity undertaking.
