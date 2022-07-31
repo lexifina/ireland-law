@@ -28,9 +28,7 @@ PES is primary energy savings.
 
 CHPηH is the heat efficiency of the combined heat and power, defined as annual useful heat output divided by the fuel input used to produce the sum of useful heat output and electricity production from combined heat and power.
 
-RefηH is the efficiency reference value for separate heat production determined in accordance with section 7(6).
-
-CHPηE is the electrical efficiency of the combined heat and power, defined as annual electricity production from combined heat and power divided by the fuel input used to produce the sum of useful heat output and electricity production from combined heat and power. Where a combined heat and power unit generates mechanical energy, the annual electricity from combined heat and power may be increased by the amount of electricity which is equivalent to that of mechanical energy.
+RefηH is the efficiency reference value for separate heat production determined in accordance with section 7(6). CHPηE is the electrical efficiency of the combined heat and power, defined as annual electricity production from combined heat and power divided by the fuel input used to produce the sum of useful heat output and electricity production from combined heat and power. Where a combined heat and power unit generates mechanical energy, the annual electricity from combined heat and power may be increased by the amount of electricity which is equivalent to that of mechanical energy.
 
 RefηE is the efficiency reference value for separate electricity production determined in accordance with section 7(6).
 
