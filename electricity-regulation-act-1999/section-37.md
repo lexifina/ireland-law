@@ -16,9 +16,11 @@ Direct lines.
 
 (3) The owner of a direct line constructed under subsection (1) may allow the direct line to be used for the transport of electricity to customers within the State, individually or jointly.
 
-(4) (a) Where there is a connection made between a direct line and the transmission or distribution system of the Board, on the application of the Board, the Commission may direct the owner of a direct line constructed under subsection (1) to transfer the ownership of the direct line to the Board on such terms, including terms as to compensation, as may be agreed between the Board and the owner of the direct line.
+(4) (a) Where there is a connection made between a direct line and the transmission or distribution system of the Board, on the application of the Board, the Commission may direct the owner of a direct line constructed under section 34(1A) or (1B) or subsection (1) to transfer the ownership of the direct line to the Board on such terms, including terms as to compensation, as may be agreed between the Board and the owner of the direct line.
 
-(b) In default of agreement between the Board and the owner as to compensation, such compensation shall be assessed under the provisions of the Acquisition of Land (Assessment of Compensation) Act, 1919, and for this purpose the Board shall be deemed to be a public authority.
+(aa) Where there is a connection made between a direct line constructed under section 34(1A) and the transmission system of the transmission system operator, the Commission shall, on the application of the transmission system operator, direct the owner of such direct line to transfer the ownership of the direct line to the transmission system operator on such terms, including terms as to compensation, as may be agreed between the transmission system operator and the owner of the direct line or as may be determined by the Commission.
+
+(b) In default of agreement between the Board, or the transmission system operator, and the owner as to compensation (and save where such compensation is determined by the Commission under paragraph (aa)), such compensation shall be assessed under the provisions of the Acquisition of Land (Assessment of Compensation) Act 1919, and for this purpose the Board, or the transmission system operator, as appropriate, shall be deemed to be a public authority.
 
 (5) This section applies to the holder of a licence, the holder of an authorisation or any customer.
 
