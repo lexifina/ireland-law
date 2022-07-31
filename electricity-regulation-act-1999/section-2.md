@@ -12,6 +12,8 @@ Interpretation.
 
 "aggregation" means a function performed by a natural or legal person who combines multiple customer loads or generated electricity for sale, purchase or auction in any electricity market;
 
+"aggregation" means a function performed by a natural or legal person who combines multiple customer loads or generated electricity for sale, purchase or auction in any electricity market;
+
 "ancillary service", in relation to electricity, means a service necessary for the operation of a transmission or distribution system, including balancing and non-frequency ancillary services, but not including congestion management;
 
 “authorisation” means an authorisation granted under section 16;
@@ -44,7 +46,7 @@ Interpretation.
 
 “Commission” means the Commission for Energy Regulation;
 
-"congestion", in relation to electricity, means congestion as defined in Article 2(10) of Regulation (EU) 2019/9433 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity;
+"congestion", in relation to electricity, means congestion as defined in Article 2 (4) of Regulation (EU) 2019/9433 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity;
 
 "demand response" means the change of electricity load by final customers from their normal or current consumption patterns in response to market signals, including in response to time-variable electricity prices or incentive payments, or in response to the acceptance of the final customer’s bid to sell demand reduction or increase at a price in an organised market as defined in Article 2(4) of Commission Implementing Regulation (EU) No 1348/2014, whether alone or through aggregation;
 
@@ -62,9 +64,9 @@ Interpretation.
 
 "electricity derivative" means a financial instrument specified in point 5, 6 or 7 of Section C of Annex I to Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU4 , where that instrument relates to electricity;
 
-“Electricity Market Directive” means Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009;
+“Electricity Market Directive” means Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the Internal market for electricity and amending Directive 2012/27/EU;
 
-“Electricity Market Regulation” means Regulation (EC) 714/2009 of the European Parliament and of the Council of 13 July 2009;
+“Electricity Market Regulation” means Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal electricity market;
 
 “electricity production from combined heat and power” means electricity produced from combined heat and power calculated in accordance with section 7;
 
@@ -83,6 +85,8 @@ Interpretation.
 (c) an electrical appliance under the control of a consumer;
 
 "energy storage" means, in the electricity system, deferring the final use of electricity to a moment later than when it was generated, or the conversion of electrical energy into a form of energy which can be stored, the storing of such energy, and the subsequent reconversion of such energy into electrical energy or use as another energy carrier;
+
+"energy storage facility" means, in the electricity system, a facility where energy storage occurs;
 
 “energy undertaking” means an electricity undertaking or a natural gas undertaking;
 
@@ -166,6 +170,8 @@ Interpretation.
 
 "non-frequency ancillary service", in in relation to electricity, means a service used by a transmission system operator or distribution system operator for steady state voltage control, fast reactive current injections, inertia for local grid stability, short-circuit current, black start capability and island operation capability;
 
+"offshore" has the meaning assigned to it by section 13A;
+
 “petroleum undertaking” has the meaning given to it by section 13A(1);
 
 “piped LPG distribution network” means a pipeline system connected to a central storage bulk tank or LPG cylinder but not including a bulk tank or LPG cylinder as the case may be, and includes pipework above and below ground and all other equipment necessary upstream of the point of delivery and downstream of the emergency control valve, supplying gas to two or more customers;
@@ -204,6 +210,8 @@ Interpretation.
 
 (j) wave;
 
+(k) ambient energy.
+
 “the SEM Committee” means the committee referred to in Section 8A;
 
 “SEM matter” shall be construed in accordance with section 8A(5);
@@ -230,7 +238,7 @@ Interpretation.
 
 "system operation region" means the system operation region to be approved by the Agency pursuant to Article 36 of the 2019 Internal Electricity Market Regulation;
 
-“transmission”, subject to section 2A, in relation to electricity, means the transport of electricity by means of a transmission system, that is to say, a system which consists, wholly or mainly, of high voltage lines and electric plant and which is used for conveying electricity from a generating station to a substation, from one generating station to another, from one substation to another or to or from any interconnector or to final customers but shall not include any such lines which the Board may, from time to time, with the approval of the Commission, specify as being part of the distribution system but shall include any interconnector owned by the Board.
+“transmission”, subject to section 2A, in relation to electricity, means the transport of electricity by means of a transmission system, “in the State or offshore, or both, that is to say, a system which consists, wholly or mainly, of high voltage lines and electric plant and which is used for conveying electricity from a generating station to a substation, from one generating station to another, from one substation to another or to or from any interconnector or to final customers but shall not include any such lines which the Board may, from time to time, with the approval of the Commission, specify as being part of the distribution system but shall include any interconnector owned by the Board.
 
 “transmission system operator” means the holder of a licence under section 14(1)(e);
 
