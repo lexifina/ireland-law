@@ -10,7 +10,7 @@ Amendment of Act of 1976.
 
 (k) a maintenance pending suit order under the Family Law Act, 1995, or a periodical payments order under that Act;”, and
 
-(ii) in the definition of ‘dependent child’ the substitution of ‘18’ for ‘sixteen’ and ‘23’ for ‘twenty-one’, and
+(ii) in the definition of "dependent child" the substitution of "18" for "sixteen" and "23" for "twenty-one", and
 
 (b) in section 6 (3), the substitution of “18” for “sixteen” and “23” for “twenty-one”,
 
@@ -46,10 +46,10 @@ Amendment of Act of 1976.
 
 (e) in section 23, after subsection (2), the insertion of the following subsections:
 
-‘(3) In proceedings under this Act—
+"(3) In proceedings under this Act—
 
 (a) each of the spouses concerned shall give to the other spouse and to, or to a person acting on behalf of, any dependent member of the family concerned, and
 
 (b) any dependent member of the family concerned shall give to, or to a person acting on behalf of, any other such member and to each of the spouses concerned, such particulars of his or her property and income as may reasonably be required for the purpose of the proceedings.
 
-(4) Where a person fails or refuses to comply with subsection (3), the Court, on application to it in that behalf by a person having an interest in the matter, may direct the person to comply with that subsection.
+(4) Where a person fails or refuses to comply with subsection (3), the Court, on application to it in that behalf by a person having an interest in the matter, may direct the person to comply with that subsection.".

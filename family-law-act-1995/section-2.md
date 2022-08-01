@@ -14,11 +14,11 @@ Interpretation.
 
 ...
 
-(‘Act of 2018’ means the Domestic Violence Act 2018;
+"Act of 2018" means the Domestic Violence Act 2018;
 
-‘civil partnership’ has the meaning assigned to it by the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+"civil partnership" has the meaning assigned to it by the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
-‘cohabitant’ shall be construed in accordance with section 172(1) of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 and includes a former cohabitant;
+"cohabitant" shall be construed in accordance with section 172(1) of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 and includes a former cohabitant;
 
 “conveyance” includes a mortgage, lease, assent, transfer, disclaimer, release and any other disposition of property otherwise than by a will or a donatio mortis causa and also includes an enforceable agreement (whether conditional or unconditional) to make any such disposition;
 
@@ -76,7 +76,7 @@ Interpretation.
 
 “property adjustment order” has the meaning assigned to it by section 9;
 
-‘registration’, with respect to a civil partnership, includes entering into a relationship of a class of legal relationships that is the subject of an order made under section 5 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+"registration", with respect to a civil partnership, includes entering into a relationship of a class of legal relationships that is the subject of an order made under section 5 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
 “relief order” means an order under Part II made by virtue of section 23;
 

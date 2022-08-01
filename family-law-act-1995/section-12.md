@@ -12,7 +12,7 @@ Pension adjustment orders.
 
 “contingent benefit” means a benefit payable under a scheme, other than a payment under subsection (7) to or for one or more of the following, that is to say, the widow or the widower and any dependants of the member spouse concerned and the personal representative of the member spouse, if the member spouse dies while in relevant employment and before attaining any normal pensionable age provided for under the rules of the scheme;
 
-‘defined contribution scheme’ has the same meaning as in the Pensions Act 1990;
+"defined contribution scheme" has the same meaning as in the Pensions Act 1990;
 
 “designated benefit”, in relation to a pension adjustment order, means an amount determined by the trustees of the scheme concerned, in accordance with relevant guidelines, and by reference to the period and the percentage of the retirement benefit specified in the order concerned under subsection (2);
 
