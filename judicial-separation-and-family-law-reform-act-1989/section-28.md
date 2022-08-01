@@ -1,3 +1,3 @@
-Amendment of Enforcement of Court Orders Act, 1940.
+Amendment of Enforcement of Court Orders Act, 1940. (Repealed)
 
 28.—...

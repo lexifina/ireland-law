@@ -1,5 +1,5 @@
 ## PART II ANCILLARY FINANCIAL, PROPERTY, CUSTODY AND OTHER ORDERS
 
-Definitions (Part II).
+Definitions (Part II). (Repealed)
 
 10.—...

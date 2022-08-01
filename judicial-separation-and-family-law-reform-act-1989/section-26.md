@@ -1,3 +1,3 @@
-Payments to be made without deduction of income tax.
+Payments to be made without deduction of income tax. (Repealed)
 
 26.—...

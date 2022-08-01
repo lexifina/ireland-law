@@ -1,3 +1,3 @@
-Periodical payments and lump sum orders.
+Periodical payments and lump sum orders. (Repealed)
 
 14.—...

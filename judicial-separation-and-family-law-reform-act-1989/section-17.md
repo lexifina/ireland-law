@@ -1,3 +1,3 @@
-Order extinguishing succession rights.
+Order extinguishing succession rights. (Repealed)
 
 17.—...

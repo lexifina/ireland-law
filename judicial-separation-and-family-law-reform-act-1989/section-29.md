@@ -1,3 +1,3 @@
-Voidance of transactions intended to prevent or reduce financial relief.
+Voidance of transactions intended to prevent or reduce financial relief. (Repealed)
 
 29.—...

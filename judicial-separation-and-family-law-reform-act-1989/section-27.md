@@ -1,3 +1,3 @@
-Application of maintenance and periodical payments orders to men of Defence Forces.
+Application of maintenance and periodical payments orders to men of Defence Forces. (Repealed)
 
 27.—...

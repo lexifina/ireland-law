@@ -1,3 +1,3 @@
-Orders for sale of property.
+Orders for sale of property. (Repealed)
 
 18.—...

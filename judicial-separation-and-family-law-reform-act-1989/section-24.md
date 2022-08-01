@@ -1,3 +1,3 @@
-Transmission of periodical payments through District Court clerk.
+Transmission of periodical payments through District Court clerk. (Repealed)
 
 24.—...
