@@ -1,0 +1,3 @@
+Public service contracts in respect of services partially outside GDA. (Repealed)
+
+54.— ...
