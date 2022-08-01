@@ -30,9 +30,7 @@ Insertion of new Part (DTA and land use provisions) into Act of 2000.
 
 (b) not consistent with its transport strategy and in such case what amendments to the proposed variation it considers necessary to achieve such consistency.
 
-(2) The DTA shall send copies of a submission prepared under this section to the Minister and Minister for Transport.
-
-31E.— (1) Where a notice is received by the DTA under section 20(3)(a)(i), it shall prepare and submit to the relevant planning authority a report on the issues which, in its opinion, should be considered by the planning authority in making, amending or revoking a local area plan.
+(2) The DTA shall send copies of a submission prepared under this section to the Minister and Minister for Transport. 31E.— (1) Where a notice is received by the DTA under section 20(3)(a)(i), it shall prepare and submit to the relevant planning authority a report on the issues which, in its opinion, should be considered by the planning authority in making, amending or revoking a local area plan.
 
 (2) The report under subsection (1) shall address, but shall not be limited to—
 
@@ -66,9 +64,7 @@ Insertion of new Part (DTA and land use provisions) into Act of 2000.
 
 (b) not consistent with its transport strategy and in such case what amendments to the draft guidelines it considers necessary to achieve such consistency.
 
-(2) The DTA shall send copies of a submission prepared under this section to the Minister and Minister for Transport.
-
-31H.— The DTA may, in relation to its functions, request the Minister to issue guidelines under section 28 or a policy directive under section 29 to a planning authority within the GDA.
+(2) The DTA shall send copies of a submission prepared under this section to the Minister and Minister for Transport. 31H.— The DTA may, in relation to its functions, request the Minister to issue guidelines under section 28 or a policy directive under section 29 to a planning authority within the GDA.
 
 31I.— (1) The Minister may, in respect of the GDA and following consultation with the DTA, make regulations specifying—
 

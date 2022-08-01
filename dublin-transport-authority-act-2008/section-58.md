@@ -8,9 +8,7 @@ Integrated ticketing scheme.
 
 (4) The Authority shall prescribe measures for the regulation of an integrated ticketing scheme including revenue-sharing among the public transport operators involved.
 
-(5) Any integrated ticketing system established or in design at the time of commencement of this section, in accordance with the order revoked by subsection
-
-(11), is transferred to the Authority. Any contract entered into by or property belonging to the RPA in relation to such a system transfers to the Authority.
+(5) Any integrated ticketing system established or in design at the time of commencement of this section, in accordance with the order revoked by subsection (11), is transferred to the Authority. Any contract entered into by or property belonging to the RPA in relation to such a system transfers to the Authority.
 
 (6) Notwithstanding any enactment, other rules of law or, in the case of a company any provision contained in the memorandum and articles of association of that company, the Authority shall give a direction to all or such public transport operators as it considers appropriate to—
 

@@ -22,9 +22,9 @@ Definitions.
 
 “Act of 2005” means Grangegorman Development Agency Act 2005;
 
-‘Act of 2009’ means Public Transport Regulation Act 2009;
+"Act of 2009" means Public Transport Regulation Act 2009;
 
-‘ancillary public passenger transport service’ means passenger transport services of general economic interest provided to the public on a non-discriminatory and continuous basis that are not either a rail passenger service or a public bus service;
+"ancillary public passenger transport service" means passenger transport services of general economic interest provided to the public on a non-discriminatory and continuous basis that are not either a rail passenger service or a public bus service;
 
 “authorised officer” means a person appointed under section 78 as an authorised officer of the Authority;
 
@@ -66,7 +66,7 @@ Definitions.
 
 “light railway” means a railway designated as a light railway in a railway order made under the Act of 2001;
 
-‘local authority’ has the meaning assigned to it by the Local Government Act 2001, other than in the context of the exercise of functions under the Act of 2003 where it has the meaning in section 2(1) of that Act.
+"local authority" has the meaning assigned to it by the Local Government Act 2001, other than in the context of the exercise of functions under the Act of 2003 where it has the meaning in section 2(1) of that Act.
 
 “mechanically propelled vehicle” has the meaning assigned to it by the Act of 1961;
 
@@ -92,7 +92,7 @@ Definitions.
 
 (d) a charge or charges are paid in respect of each passenger, and is not a bus service solely for carrying children to or from school;
 
-‘public passenger transport service’ means—
+"public passenger transport service" means—
 
 (a) a rail passenger service,
 
@@ -104,9 +104,9 @@ Definitions.
 
 “public transport authority” means CIÉ, Irish Rail, Bus Éireann, Dublin Bus, the RPA or a road authority;
 
-‘public transport infrastructure’ means infrastructure constructed or provided, or proposed to be constructed or provided, in connection with the provision of public passenger transport services, which includes but is not limited to railway infrastructure, metro railway infrastructure, light railway infrastructure, bus infrastructure, rolling stock, buses, busways, bus lanes, bus garages, cycleways, cycle and pedestrian facilities, interchange facilities or such other class of infrastructure, facility, building or vehicle, whether of the same kind as the aforementioned or not, which the Authority has prescribed to be public transport infrastructure under section 44(13);
+"public transport infrastructure" means infrastructure constructed or provided, or proposed to be constructed or provided, in connection with the provision of public passenger transport services, which includes but is not limited to railway infrastructure, metro railway infrastructure, light railway infrastructure, bus infrastructure, rolling stock, buses, busways, bus lanes, bus garages, cycleways, cycle and pedestrian facilities, interchange facilities or such other class of infrastructure, facility, building or vehicle, whether of the same kind as the aforementioned or not, which the Authority has prescribed to be public transport infrastructure under section 44(13);
 
-‘public transport operator’ means—
+"public transport operator" means—
 
 (a) Irish Rail, Bus Éireann, Dublin Bus or the RPA,
 
@@ -130,7 +130,7 @@ Definitions.
 
 “RPA” means Railway Procurement Agency;
 
-‘statutory body’ means a body established by or under statute;
+"statutory body" means a body established by or under statute;
 
 “subsidiary” in sections 24, 32 and 36 to 40 means subsidiary (within the meaning of section 155 of the Companies Act 1963) of the Authority;
 

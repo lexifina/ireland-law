@@ -78,4 +78,4 @@ Functions of Authority in relation to public transport infrastructure.
 
 (15) For the purposes of section 175 and 177AE of the Act of 2000 where a proposed development relates to public transport infrastructure an application for approval under section 175(3) or 177AE(3) may be made by the Authority, with the concurrence of the local authority concerned, and, accordingly, references in those sections to a local authority shall be read as references to the Authority.
 
-(16) In this section ‘function’ includes a part of or any aspect of the function.
+(16) In this section "function" includes a part of or any aspect of the function.

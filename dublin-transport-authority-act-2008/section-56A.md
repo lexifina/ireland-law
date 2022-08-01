@@ -1,6 +1,6 @@
 Powers of Authority to make bye-laws for public passenger transport services (other than rail passenger services), enforcement etc.
 
-56A. (1) Subject to subsection (8), bye-laws may be made by the Authority in relation to the performance by the Authority of any function conferred on it in connection with the provision of public passenger transport services (other than in respect of a rail passenger service, including light railway and metro) whether pursuant to a public transport services contract or a direct award contract under section 52, other than in respect of such a contract awarded by the Authority to Dublin Bus or Bus Éireann, in relation to any one or more of the following matters:
+56A.— (1) Subject to subsection (8), bye-laws may be made by the Authority in relation to the performance by the Authority of any function conferred on it in connection with the provision of public passenger transport services (other than in respect of a rail passenger service, including light railway and metro) whether pursuant to a public transport services contract or a direct award contract under section 52, other than in respect of such a contract awarded by the Authority to Dublin Bus or Bus Éireann, in relation to any one or more of the following matters:
 
 (a) the general regulation, subject to any statutory provisions in that behalf, of the travelling by way of or use of such means of transport services, (including a requirement to travel with a valid ticket or pass and the issue of such);
 

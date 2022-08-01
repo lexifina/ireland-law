@@ -24,4 +24,4 @@ Powers of authorised person.
 
 (4) In this section a reference to the committal of an offence or an act includes a reference to an attempt to commit the offence or the act.
 
-(5) In this section and section 56D ‘authorised person’ means a person appointed under section 56B(1) or a member of the Garda Síochána whose attendance is requested by an authorised person or by the Authority.
+(5) In this section and section 56D "authorised person" means a person appointed under section 56B(1) or a member of the Garda Síochána whose attendance is requested by an authorised person or by the Authority.
