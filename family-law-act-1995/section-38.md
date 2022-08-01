@@ -24,4 +24,4 @@ Jurisdiction of courts and venue.
 
 (8) Where a person fails or refuses to comply with subsection (7), the court, on application to it in that behalf by a person having an interest in the matter, may direct the person to comply with that subsection.
 
-(9) In this section ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.
+(9) In this section "market value" means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.

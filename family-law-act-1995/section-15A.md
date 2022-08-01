@@ -1,6 +1,6 @@
 Orders for provision for spouse out of estate of other spouse.
 
-15A.—(1) Subject to the provisions of this section, where, following the grant of a decree of judicial separation, a court makes an order under section 14 in relation to the spouses concerned and one of the spouses dies, the court, on application to it in that behalf by the other spouse (‘the applicant’) not more than 6 months after representation is first granted under the Act of 1965 in respect of the estate of the deceased spouse, may by order make such provision for the applicant out of the estate of the deceased spouse as it considers appropriate having regard to the rights of any other person having an interest in the matter and specifies in the order if it is satisfied that proper provision in the circumstances was not made for the applicant during the lifetime of the deceased spouse under section 8, 9, 10 (1) (a), 11 or 12 for any reason (other than conduct referred to in subsection (2) (i) of section 16 of the applicant).
+15A.—(1) Subject to the provisions of this section, where, following the grant of a decree of judicial separation, a court makes an order under section 14 in relation to the spouses concerned and one of the spouses dies, the court, on application to it in that behalf by the other spouse ("the applicant") not more than 6 months after representation is first granted under the Act of 1965 in respect of the estate of the deceased spouse, may by order make such provision for the applicant out of the estate of the deceased spouse as it considers appropriate having regard to the rights of any other person having an interest in the matter and specifies in the order if it is satisfied that proper provision in the circumstances was not made for the applicant during the lifetime of the deceased spouse under section 8, 9, 10 (1) (a), 11 or 12 for any reason (other than conduct referred to in subsection (2) (i) of section 16 of the applicant).
 
 (2) The court shall not make an order under this section if the applicant concerned has remarried or registered in a civil partnership since the granting of the decree of judicial separation concerned.
 
@@ -16,7 +16,7 @@ Orders for provision for spouse out of estate of other spouse.
 
 (6) The personal representative of a deceased spouse in respect of whom a decree of judicial separation has been granted shall make a reasonable attempt to ensure that notice of his or her death is brought to the attention of the other spouse concerned and, where an application is made under this section, the personal representative of the deceased spouse shall not, without the leave of the court, distribute any of the estate of that spouse until the court makes or refuses to make an order under this section.
 
-(7) Where the personal representative of a deceased spouse in respect of whom a decree of judicial separation has been granted gives notice of his or her death to the other spouse concerned (‘the spouse’) and—
+(7) Where the personal representative of a deceased spouse in respect of whom a decree of judicial separation has been granted gives notice of his or her death to the other spouse concerned ("the spouse") and—
 
 (a) the spouse intends to apply to the court for an order under this section,
 

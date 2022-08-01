@@ -18,7 +18,7 @@ Orders for provision for spouse out of estate of other spouse.
 
 (7) The personal representative of a deceased spouse in respect of whom a decree of divorce has been granted in a country or jurisdiction other than the State shall make a reasonable attempt to ensure that notice of his or her death is brought to the attention of the other spouse concerned and, where an application is made under this section, the personal representative of the deceased spouse shall not, without the leave of the court, distribute any of the estate of that spouse until the court makes or refuses to make an order under this section.
 
-(8) Where the personal representative of a deceased spouse in respect of whom a decree of divorce has been granted in a country or jurisdiction other than the State gives notice of his or her death to the other spouse concerned (‘the spouse’) and—
+(8) Where the personal representative of a deceased spouse in respect of whom a decree of divorce has been granted in a country or jurisdiction other than the State gives notice of his or her death to the other spouse concerned ("the spouse") and—
 
 (a) the spouse intends to apply to the court for an order under this section,
 
