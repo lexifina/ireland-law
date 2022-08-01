@@ -1,6 +1,6 @@
 ## Part V BEST INTERESTS OF THE CHILD
 
-F95[Determination by court of best interests of child
+F98[Determination by court of best interests of child
 
 31. (1) In determining for the purposes of this Act what is in the best interests of a child, the court shall have regard to all of the factors or circumstances that it regards as relevant to the child concerned and his or her family.
 
@@ -54,4 +54,4 @@ F95[Determination by court of best interests of child
 
 (b) may make an order under section 32.
 
-(7) In this section ‘household violence’ includes behaviour by a parent or guardian or a household member causing or attempting to cause physical harm to the child or another child, parent or household member, and includes sexual abuse or causing a child or a parent or other household member to fear for his or her safety or that of another household member.
+(7) In this section "household violence" includes behaviour by a parent or guardian or a household member causing or attempting to cause physical harm to the child or another child, parent or household member, and includes sexual abuse or causing a child or a parent or other household member to fear for his or her safety or that of another household member.

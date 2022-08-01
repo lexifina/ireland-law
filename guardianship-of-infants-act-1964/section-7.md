@@ -1,6 +1,6 @@
-F29[Power of parents to appoint testamentary guardians
+F32[Power of parents to appoint testamentary guardians
 
-7.— (1) On the death of the guardian (‘deceased guardian’) of a child, a guardian (‘surviving guardian’) surviving the deceased guardian, if any, shall be guardian of the child jointly, where applicable, with—
+7.— (1) On the death of the guardian ("deceased guardian") of a child, a guardian ("surviving guardian") surviving the deceased guardian, if any, shall be guardian of the child jointly, where applicable, with—
 
 (a) any other surviving guardian, and
 
@@ -10,7 +10,7 @@ F29[Power of parents to appoint testamentary guardians
 
 (a) the parent of a child, or
 
-(b) not being the parent of the child, has custody of him or her to the exclusion of any living parent of the child, may by deed or will appoint a person or persons to be guardian (‘testamentary guardian’) of the child after his or her death.
+(b) not being the parent of the child, has custody of him or her to the exclusion of any living parent of the child, may by deed or will appoint a person or persons to be guardian ("testamentary guardian") of the child after his or her death.
 
 (3) On the death of a guardian referred to in subsection (2), the testamentary guardian appointed by the deceased guardian shall, subject to subsections (4) and (5), act jointly with a surviving guardian of the child so long as that surviving guardian remains alive.
 

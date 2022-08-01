@@ -1,6 +1,6 @@
-F78[Safeguards to ensure respondent’s awareness of alternatives to custody, access and guardianship proceedings and to assist attempts at agreement.
+F81[Safeguards to ensure respondent’s awareness of alternatives to custody, access and guardianship proceedings and to assist attempts at agreement.
 
-21.—(1) In this section ‘the respondent’ means a respondent in proceedings in the court under section 6A, 11 or 11B.
+21.—(1) In this section "the respondent" means a respondent in proceedings in the court under section 6A, 11 or 11B.
 
 (2) If a solicitor is acting for the respondent, the solicitor shall, as soon as practicable after receiving instructions from the respondent in relation to proceedings under section 6A, 11 or 11B discuss with the respondent the possibility of the respondent—
 
