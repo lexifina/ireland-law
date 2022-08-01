@@ -4,6 +4,6 @@ Jurisdiction of the Court for purposes of Part II.
 
 (2) For the purposes of such applications—
 
-(a) references to ‘judicial or administrative authority’ in the Hague Convention, and
+(a) references to "judicial or administrative authority" in the Hague Convention, and
 
-(b) references to ‘competent authorities in a Member State’ and to ‘court’ in Article 11 of the Council Regulation, shall be construed as references to the Court unless the context otherwise requires.
+(b) references to "authority competent for enforcement" and to "court" in Chapter III of the Council Regulation, shall be construed as references to the Court unless the context otherwise requires.

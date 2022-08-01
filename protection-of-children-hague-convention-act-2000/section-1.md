@@ -18,7 +18,7 @@ Interpretation.
 
 “the Convention” means the Convention on jurisdiction, applicable law, recognition, enforcement and co-operation in respect of parental responsibility and measures for the protection of children, signed at the Hague on the 19th day of October, 1996;
 
-‘Council Regulation’ means Council Regulation (EC) No. 2201/2003 of 27 November 2003;
+"Council Regulation" means Council Regulation (EU) 2019/1111 of 25 June 2019;
 
 “decision” means a decision (other than a judgment) which is directed to the protection of the person or property of a child and is made pursuant to the Child Care Act, 1991, or by a duly authorised person or body in another contracting state pursuant to the law of that state;
 

@@ -6,7 +6,7 @@ Interpretation.
 
 “child” where used in the context of the Children Act, 1908, includes a young person within the meaning of that Act;
 
-‘Council Regulation’ means Council Regulation (EC) No. 2201/2003 of 27 November 2003;
+"Council Regulation" means Council Regulation (EU) 2019/1111 of 25 June 2019;
 
 “the Court” means the High Court;
 
@@ -23,3 +23,5 @@ Interpretation.
 “probation and welfare officer” means a person appointed by the the Minister for Justice, Equality and Law Reform to be a probation and welfare officer or to be a welfare officer or probation officer.
 
 (2) References in this Act to the Hague Convention shall, where the context requires in relation to applications under the Hague Convention to which the Council Regulation relates, be deemed to include references to the Council Regulation.
+
+1 OJ L 178, 2.7.2019, p. 1
