@@ -1,3 +1,3 @@
-Income tax treatment of divorced persons.
+Income tax treatment of divorced persons. (Repealed)
 
 32.—...

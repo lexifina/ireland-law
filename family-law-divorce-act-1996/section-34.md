@@ -1,3 +1,3 @@
-Exemption of certain transfers from capital acquisitions tax.
+Exemption of certain transfers from capital acquisitions tax. (Repealed)
 
 34.—...

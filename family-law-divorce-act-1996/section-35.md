@@ -1,3 +1,3 @@
-Capital gains tax treatment of certain disposals by divorced persons.
+Capital gains tax treatment of certain disposals by divorced persons. (Repealed)
 
 35.—...

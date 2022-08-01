@@ -1,3 +1,3 @@
-Exemption of certain transfers from stamp duty.
+Exemption of certain transfers from stamp duty. (Repealed)
 
 33.—...
