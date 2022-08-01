@@ -20,4 +20,4 @@ Rights of parents to guardianship.
 
 (4) Subject to subsection (1A), where the mother of a child has not married the child’s father, and no other person is, under this Act, the guardian of the child, she, while living, shall alone be the guardian of the child.
 
-(5) In this section, ‘cohabiting couple’ has the same meaning as it has in the Adoption Act 2010.
+(5) In this section, "cohabiting couple" has the same meaning as it has in the Adoption Act 2010.
