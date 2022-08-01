@@ -12,7 +12,7 @@ Pension adjustment orders.
 
 “contingent benefit” means a benefit payable under a scheme, other than a payment under subsection (7) to or for one or more of the following, that is to say, the widow or the widower and any dependants of the member spouse concerned and the personal representative of the member spouse, if the member spouse dies while in relevant employment and before attaining any normal pensionable age provided for under the rules of the scheme;
 
-‘defined contribution scheme’ has the same meaning as in the Pensions Act 1990;
+"defined contribution scheme" has the same meaning as in the Pensions Act 1990;
 
 “designated benefit”, in relation to a pension adjustment order, means an amount determined by the trustees of the scheme concerned, in accordance with relevant guidelines, and by reference to the period and the percentage of the retirement benefit specified in the order concerned under subsection (2);
 
@@ -142,7 +142,9 @@ Pension adjustment orders.
 
 (21) The registrar or clerk of the court concerned shall cause a copy of a pension adjustment order to be served on the trustees of the scheme concerned.
 
-(22) (a) Any costs incurred by the trustees of a scheme under subsection (18) or in complying with a pension adjustment order or a direction under subsection (20) or (25) shall be borne, as the court may determine, by the member spouse or by the other person concerned or by both of them in such proportion as the court may determine and, in the absence of such determination, those costs shall be borne by them equally.
+(22) (a) Any costs incurred by the trustees of a scheme under subsection (18) or in complying with a pension adjustment order or a direction under subsection
+
+(20) or (25) shall be borne, as the court may determine, by the member spouse or by the other person concerned or by both of them in such proportion as the court may determine and, in the absence of such determination, those costs shall be borne by them equally.
 
 (b) Where a person fails to pay an amount in accordance with paragraph (a) to the trustees of the scheme concerned, the court may, on application to it in that behalf by the trustees, order that the amount be deducted from the amount of any benefit payable to the person under the scheme or pursuant to an order under subsection (2) or (3) and be paid to the trustees.
 
