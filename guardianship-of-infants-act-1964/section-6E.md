@@ -8,7 +8,7 @@ Power of court to appoint temporary guardian.
 
 (b) specify such limitations (if any) as the qualifying guardian wishes to impose on the rights and responsibilities of guardianship that the temporary guardian, if appointed under this section, may exercise.
 
-(3) Where a qualifying guardian who has nominated a person under subsection (1), or a person so-nominated (in this section referred to as the ‘nominated person’), is of opinion that the qualifying guardian is incapable through serious illness or injury of exercising the rights and responsibilities of guardianship, that guardian or nominated person may apply to the court for an order under this section.
+(3) Where a qualifying guardian who has nominated a person under subsection (1), or a person so-nominated (in this section referred to as the "nominated person"), is of opinion that the qualifying guardian is incapable through serious illness or injury of exercising the rights and responsibilities of guardianship, that guardian or nominated person may apply to the court for an order under this section.
 
 (4) An application under subsection (3) shall be on notice to—
 

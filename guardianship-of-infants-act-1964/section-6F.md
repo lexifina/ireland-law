@@ -1,6 +1,6 @@
 Declaration that person is guardian.
 
-6F.—(1) A person specified in subsection (2) may apply to the court for a declaration under this section that a person named in the application is or is not a guardian by virtue of the circumstances set out in section 2(4A) or 6B(3) of a child named in the application (in this section referred to as the ‘child concerned’).
+6F.—(1) A person specified in subsection (2) may apply to the court for a declaration under this section that a person named in the application is or is not a guardian by virtue of the circumstances set out in section 2(4A) or 6B(3) of a child named in the application (in this section referred to as the "child concerned").
 
 (2) An application for a declaration under this section may be made, in relation to a child concerned, by—
 

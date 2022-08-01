@@ -54,4 +54,4 @@ Determination by court of best interests of child.
 
 (b) may make an order under section 32.
 
-(7) In this section ‘household violence’ includes behaviour by a parent or guardian or a household member causing or attempting to cause physical harm to the child or another child, parent or household member, and includes sexual abuse or causing a child or a parent or other household member to fear for his or her safety or that of another household member.
+(7) In this section "household violence" includes behaviour by a parent or guardian or a household member causing or attempting to cause physical harm to the child or another child, parent or household member, and includes sexual abuse or causing a child or a parent or other household member to fear for his or her safety or that of another household member.
