@@ -114,4 +114,4 @@ Regulations governing grant of permits, etc.
 
 (II) a category of employment or an employment falling into a category of employment, specified in regulations under this section as employments or categories of employment for which an employment permit may be granted for the purpose referred to in section 3(2A)(e).
 
-(7) In this Act, ‘regulatory body’ means a body which is concerned with regulating the entry to or the carrying on of, a profession or an employment in the State and includes a body established by or under any enactment.
+(7) In this Act, "regulatory body" means a body which is concerned with regulating the entry to or the carrying on of, a profession or an employment in the State and includes a body established by or under any enactment.

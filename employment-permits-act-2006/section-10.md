@@ -1,6 +1,6 @@
 Restriction on grant of employment permit.
 
-10.—(1)...
+10.—(1) ...
 
 (2) Subject to subsections (2A) and (2B), an employment permit shall not be granted unless the Minister is satisfied that on the date the application for the employment permit was made 50 per cent or more of the employees of—
 
@@ -42,8 +42,8 @@ Restriction on grant of employment permit.
 
 (b) in addition to the other requirements that this Act specifies must be satisfied with respect to the grant of an employment permit and are without prejudice to—
 
-(i) any regulations for the time being in force under section 14 , and
+(i) any regulations for the time being in force under section 14, and
 
 (ii) section 2(11) of the Act of 2003.
 
-(4) In subsection (2)(iia), 'United Kingdom of Great Britain and Northern Ireland' includes the Channel Islands and the Isle of Man and 'citizens of the United Kingdom of Great Britain and Northern Ireland' shall be construed accordingly.
+(4) In subsection (2)(iia), "United Kingdom of Great Britain and Northern Ireland" includes the Channel Islands and the Isle of Man and "citizens of the United Kingdom of Great Britain and Northern Ireland" shall be construed accordingly.
