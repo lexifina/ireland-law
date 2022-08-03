@@ -12,7 +12,7 @@ Amendment of section 2 of Act of 2003.
 
 (a) the foreign national’s being employed in the State by a person,
 
-(b) his or her being employed by a person outside the State (the ‘contractor’) to perform duties in the State, the subject of an agreement between the contractor and another person, or
+(b) his or her being employed by a person outside the State (the "contractor") to perform duties in the State, the subject of an agreement between the contractor and another person, or
 
 (c) any other arrangement.
 

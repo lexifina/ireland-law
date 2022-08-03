@@ -56,7 +56,7 @@ Supplemental provisions relating to the grant of employment permit for purpose r
 
 (5) A foreign national referred to in section 3A(2)(d) shall be employed by the foreign employer concerned for a period that is not less than the minimum period of employment specified in regulations made under section 14 before an application for an employment permit may be made in respect of him or her.
 
-(6) In this section ‘statement of earnings’ means the statement of the remuneration paid by a foreign employer to a foreign national—
+(6) In this section "statement of earnings" means the statement of the remuneration paid by a foreign employer to a foreign national—
 
 (a) that is provided to the foreign national by the foreign employer to demonstrate that the foreign employer has paid the foreign national his or her remuneration, and
 

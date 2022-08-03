@@ -2,27 +2,27 @@ Interpretation.
 
 1.— (1) In this Act—
 
-‘Act of 1963’ means the Registration of Business Names Act 1963;
+"Act of 1963" means the Registration of Business Names Act 1963;
 
-‘Act of 1967’ means the Redundancy Payments Act 1967;
+"Act of 1967" means the Redundancy Payments Act 1967;
 
-‘Act of 1997’ means the Taxes Consolidation Act 1997;
+"Act of 1997" means the Taxes Consolidation Act 1997;
 
-“Act of 2003” means the Employment Permits Act 2003;
+"Act of 2003" means the Employment Permits Act 2003;
 
-‘Act of 2010’ means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+"Act of 2010" means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
-“application” means an application under section 4 ;
+"application" means an application under section 4 ;
 
 ...
 
 “citizen” means an Irish citizen within the meaning of the Irish Nationality and Citizenship Act 1956;
 
-‘civil partner’ means a civil partner within the meaning of the Act of 2010;
+"civil partner" means a civil partner within the meaning of the Act of 2010;
 
-‘civil partnership registration’ has the meaning assigned to it by the Act of 2010;
+"civil partnership registration" has the meaning assigned to it by the Act of 2010;
 
-‘connected’, in relation to the connection between a connected person and a foreign employer, means—
+"connected", in relation to the connection between a connected person and a foreign employer, means—
 
 (a) the connected person is a subsidiary of the foreign employer,
 
@@ -32,15 +32,15 @@ Interpretation.
 
 (d) the connected person and the foreign employer have entered into an agreement with another person whereby each of them agree to carry on business or provide services with each other in more than one state and to carry on business or provide services in the manner provided for in the agreement;
 
-‘connected person’ means a person carrying on business in the State who is connected to a foreign employer;
+"connected person" means a person carrying on business in the State who is connected to a foreign employer;
 
-‘contractor’ shall be construed in accordance with section 2(1A)(b) of the Act of 2003;
+"contractor" shall be construed in accordance with section 2(1A)(b) of the Act of 2003;
 
-‘contract service agreement’ means the agreement referred to in section 2(1A)(b) of the Act of 2003;
+"contract service agreement" means the agreement referred to in section 2(1A)(b) of the Act of 2003;
 
-‘date of dismissal’, in relation to a foreign national who is dismissed by reason of redundancy, has the meaning assigned to it by section 2 of the Act of 1967;
+"date of dismissal", in relation to a foreign national who is dismissed by reason of redundancy, has the meaning assigned to it by section 2 of the Act of 1967;
 
-‘dependant’ means a foreign national who—
+"dependant" means a foreign national who—
 
 (a) has been determined by the Minister for Justice and Equality to be a dependant of a primary permit holder or a research project researcher,
 
@@ -48,11 +48,11 @@ Interpretation.
 
 (c) is not in full-time education, and
 
-(d) resides with the primary permit holder or the research project researcher referred to in paragraph (a) ;
+(d) resides with the primary permit holder or the research project researcher referred to in paragraph (a);
 
-‘Directive 2005/71/EC’ means Council Directive 2005/71/EC of 12 October 2005 on a specific procedure for admitting third-country nationals for the purposes of scientific research;
+"Directive 2005/71/EC" means Council Directive 2005/71/EC of 12 October 2005 on a specific procedure for admitting third-country nationals for the purposes of scientific research;
 
-‘dismissed by reason of redundancy’ means—
+"dismissed by reason of redundancy" means—
 
 (a) the dismissal by an employer from employment within the meaning of section 9 of the Act of 1967, and
 
@@ -74,27 +74,27 @@ Interpretation.
 
 ...
 
-‘enactment’ has the meaning assigned to it by the Interpretation Act 2005;
+"enactment" has the meaning assigned to it by the Interpretation Act 2005;
 
-‘enterprise development agency’ means Enterprise Ireland or the Industrial Development Agency (Ireland);
+"enterprise development agency" means Enterprise Ireland or the Industrial Development Agency (Ireland);
 
-‘exchange agreement’ means an agreement, including an international agreement to which the State is a party, that provides for the reciprocal employment—
+"exchange agreement" means an agreement, including an international agreement to which the State is a party, that provides for the reciprocal employment—
 
 (a) of citizens, or certain citizens, in the state in which a contracting party is located, and
 
 (b) in the State, of foreign nationals, or certain foreign nationals, of a contracting party;
 
-‘foreign employer’ means a person carrying on business outside the State;
+"foreign employer" means a person carrying on business outside the State;
 
-‘health insurance’ means insurance providing for the costs and charges of medical treatment;
+"health insurance" means insurance providing for the costs and charges of medical treatment;
 
-‘health insurer’ means a person entered in the Register of Health Benefits Undertakings referred to in section 14 of the Health Insurance Act 1994;
+"health insurer" means a person entered in the Register of Health Benefits Undertakings referred to in section 14 of the Health Insurance Act 1994;
 
 “holder”, in relation to an employment permit, means the foreign national to whom it has been granted;
 
-‘holding company’ has the meaning assigned to it by section 155 of the Companies Act 1963;
+"holding company" has the meaning assigned to it by section 155 of the Companies Act 1963;
 
-‘medical treatment’ includes medical services or medical care;
+"medical treatment" includes medical services or medical care;
 
 “Member State of the EEA” means a state that is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as amended for the time being;
 
@@ -104,11 +104,11 @@ Interpretation.
 
 “foreign national” has the meaning assigned to it by the Act of 2003;
 
-“foreign national concerned” shall be construed in accordance with section 5 (1) ;
+“foreign national concerned” shall be construed in accordance with section 5 (1);
 
 “prescribed” means prescribed by regulations made by the Minister under this Act;
 
-‘primary permit holder’ means a foreign national to whom an employment permit in respect of the purpose referred to in section 3A(2)(a) —
+"primary permit holder" means a foreign national to whom an employment permit in respect of the purpose referred to in section 3A(2)(a) —
 
 (a) has been granted and is in force, or
 
@@ -126,19 +126,19 @@ Interpretation.
 
 ...
 
-‘registered with the Revenue Commissioners’ means registered with the Revenue Commissioners in accordance with regulations under section 986 of the Act of 1997;
+"registered with the Revenue Commissioners" means registered with the Revenue Commissioners in accordance with regulations under section 986 of the Act of 1997;
 
-‘relevant person’ means the person referred to in section 2(1A)(b) of the Act of 2003 with whom a contractor has made the contract service agreement;
+"relevant person" means the person referred to in section 2(1A)(b) of the Act of 2003 with whom a contractor has made the contract service agreement;
 
 “remuneration” shall be construed in accordance with section 1A;
 
-‘research project researcher’ means a foreign national—
+"research project researcher" means a foreign national—
 
 (a) who, pursuant to Directive 2005/71/EC, has been granted permission by the Minister for Justice and Equality to be in the State to carry out research pursuant to the Directive, or
 
 (b) who, having been granted the permission referred to in paragraph (a), has been given the permission referred to in section 2(10)(d) of the Act of 2003 to remain in the State and who is in employment in the State pursuant to the condition, referred to in section 2(10)(d) of the Act of 2003, of that permission;
 
-‘subsidiary’ has the meaning assigned to it by section 155 of the Companies Act 1963.
+"subsidiary" has the meaning assigned to it by section 155 of the Companies Act 1963.
 
 (2) For the purposes of this Act, a person (the “first person”) is not, by virtue of the following contract with another (the “second person”), an employer of the second person.
 
