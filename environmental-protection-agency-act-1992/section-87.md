@@ -18,7 +18,7 @@ F135[Processing of applications for licences or reviews of licences.
 
 (a) an application for permission for development under Part III of the Act of 2000,
 
-(b) an application for approval for development under section 175, 177AE, 181A, 182A, 182C or 226 of the Act of 2000, or
+(b) an application for approval for development under section 175, 177AE, 181(2A), 181A, 182A, 182C or 226 of the Act of 2000, or
 
 (c) an application for substitute consent under section 177E of the Act of 2000;
 
@@ -30,21 +30,21 @@ F135[Processing of applications for licences or reviews of licences.
 
 (c) a grant of substitute consent under section 177K of the Act of 2000.
 
-(1B) Where an application for a licence is made to the Agency in respect of an activity that involves development or proposed development for which a grant of permission is required the applicant shall furnish to the Agency—
+(1B) Where an application for a licence is made to the Agency in respect of an activity that involves development or proposed development for which a grant of permission is required or that involves development that is carried out or is proposed to be carried out ... pursuant to an order made, or proposed to be made, under section 181(2)(a) of the Act of 2000 (in this section referred to as a "section 181(2)(a) order"), the applicant shall furnish to the Agency—
 
 (a) confirmation in writing from a planning authority or An Bord Pleanála, as the case may be, that an application for permission comprising or for the purposes of the activity to which the application for a licence relates, is currently under consideration by the planning authority concerned or An Bord Pleanála, and in that case shall also furnish to the Agency either—
 
 (i) a copy of the environmental impact assessment report where one is required by or under the Act of 2000 relating to that application for permission, or
 
-(ii) confirmation in writing from the planning authority or An Bord Pleanála that an environmental impact assessment is not required by or under the Act of 2000, or
+(ii) confirmation in writing from the planning authority or An Bord Pleanála that an environmental impact assessment is not required by or under the Act of 2000 or was exempted, in accordance with that Act, from being so required, or
 
-(b) a copy of a grant of permission comprising or for the purposes of the activity to which the application for the licence relates that was issued by the planning authority concerned or An Bord Pleanála and in that case shall also furnish to the Agency either—
+(b) a copy of a grant of permission comprising or for the purposes of the activity to which the application for the licence relates that was issued by the planning authority concerned or An Bord Pleanála or where a section 181(2)(a) order has been made, a copy of that order, and in that case shall also furnish to the Agency either—
 
 (i) where the planning authority or An Bord Pleanála, accepted or required the submission of an environmental impact assessment report in relation to the application for permission, a copy of the environmental impact assessment report, or
 
-(ii) confirmation in writing from the planning authority or An Bord Pleanála that an environmental impact assessment was not required by or under the Act of 2000.
+(ii) confirmation in writing from the planning authority or An Bord Pleanála that an environmental impact assessment was not required by or under the Act of 2000 or was exempted, in accordance with that Act, from being so required.
 
-(1C) Where an application for a licence is made to the Agency in respect of an activity that involves development or proposed development for which a grant of permission is required but the applicant does not comply with subsection (1B), the Agency shall refuse to consider the application and shall inform the applicant accordingly.
+(1C) Where an application for a licence is made to the Agency in respect of an activity referred to in subsection (1B) but the applicant does not comply with that subsection, the Agency shall refuse to consider that application and shall inform the applicant accordingly.
 
 (1D) The Agency, on receipt of an application for a licence where an environmental impact assessment report is required under subsection (1B)(a)(i) shall—
 
@@ -54,15 +54,19 @@ F135[Processing of applications for licences or reviews of licences.
 
 (c) enter into consultations, as the Agency considers appropriate, with the planning authority or An Bord Pleanála in relation to any environmental impacts of the proposed development comprising or for the purposes of the activity to which the application for a licence relates,
 
-(d) ensure that a grant of permission has been made or a decision has been made to refuse a grant of permission for development comprising or for the purposes of the activity to which the application for the licence relates and the period for any appeal under section 37 of the Act of 2000 has expired without an appeal being made before notifying under section 87(2), indicating its proposed determination in relation to the application for a licence.
+(d) ensure that—
+
+(i) a grant of permission has been made or a decision has been made to refuse a grant of permission for development comprising or for the purposes of the activity to which the application for the licence relates and the period for any appeal under section 37 of the Act of 2000 has expired without an appeal being made before notifying under section 87(2), indicating its proposed determination in relation to the application for a licence, or
+
+(ii) a section 181(2)(a) order has been made for development comprising or for the purposes of the activity to which the application for the licence relates or An Bord Pleánala has refused to grant approval under section 181(2L) of the Act of 2000 in respect of the development before notifying under section 87(2), indicating its proposed determination in relation to the application for a licence.
 
 (1E) The Agency, on receipt of an application for a licence where an environmental impact assessment report is required under subsection (1B)(b)(i) shall—
 
 (a) within 2 weeks of the date of receipt of such application notify the planning authority in whose functional area the activity is or will be situate or An Bord Pleanála, as the case may be, that it has received an application to which subsection (1B)(b)(i) applies and request the planning authority or An Bord Pleanála to respond to the Agency within 4 weeks of receipt of the notice—
 
-(i) stating whether the activity to which the application for a licence relates is permitted by the grant of permission referred to in subsection (1B)(b), and
+(i) stating whether the activity to which the application for a licence relates is permitted by the grant of permission referred to in subsection (1B)(b) or by an approval granted under section 181(2L) of the Act of 2000, as the case may be, and
 
-(ii) furnishing all documents relating to the environmental impact assessment carried out by the planning authority or An Bord Pleanála in respect of the development or proposed development to which the grant of permission referred to in subsection (1B)(b) refers and any observations that the planning authority or An Bord Pleanála has in relation to the application for a licence,
+(ii) furnishing all documents relating to the environmental impact assessment carried out by the planning authority or An Bord Pleanála in respect of the development or proposed development to which the grant of permission referred to in subsection (1B)(b) or an approval granted under section 181(2L) of the Act of 2000, as the case may be, refers and any observations that the planning authority or An Bord Pleanála has in relation to the application for a licence,
 
 (b) consider any observations furnished to the Agency by the planning authority or An Bord Pleanála following a request under paragraph (a) before notifying under section 87(2) indicating its proposed determination in relation to the application for a licence,
 
@@ -144,6 +148,8 @@ F135[Processing of applications for licences or reviews of licences.
 
 (aa) where An Bord Pleanála is considering or has considered an application for permission for development comprising or for the purposes of the activity in relation to which the application for a licence to which section 83(2A) applies is required, An Bord Pleanála,
 
+(ab) where a section 181(2)(a) order has been made for development comprising or for the purposes of the activity to which the application for a licence relates, the Minister who made the order,
+
 (b) the applicant or the licensee, as the case may be,
 
 (c) any person who made a written submission in relation to the application or the review, and
@@ -195,6 +201,8 @@ F135[Processing of applications for licences or reviews of licences.
 (ii) the local authority in whose functional area the activity the subject matter of a licence application or review will be or is situate,
 
 (iia) where a planning authority concerned or An Bord Pleanála is considering or has considered an application for permission for development comprising or for the purposes of the activity in relation to which the application for a licence to which section 83(2A) applies is required, the planning authority or An Bord Pleanála,
+
+(iib) where a section 181(2)(a) order has been made for development comprising or for the purposes of the activity to which the application for a licence relates, the Minister who made the order,
 
 (iii) any person who requested an oral hearing, and
 
@@ -292,6 +300,6 @@ F135[Processing of applications for licences or reviews of licences.
 
 (11) The provisions of this section shall not, to such extent as may be prescribed, apply to an application for a licence, or to the review (including a review by the Agency of its own volition) of a licence or revised licence, to discharge to a sewer.
 
-(12) In this section, ‘the appropriate period’ means the period of 28 days beginning on the day on which notification is sent under subsection (2) in respect of the matter concerned.
+(12) In this section, "the appropriate period" means the period of 28 days beginning on the day on which notification is sent under subsection (2) in respect of the matter concerned.
 
 (13) When calculating the appropriate period or any other time limit under this Act or in any regulations made under this Act, the period between the 24th day of December and the 1st day of January, both days inclusive, shall be disregarded.
