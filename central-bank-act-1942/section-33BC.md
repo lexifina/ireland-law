@@ -59,3 +59,5 @@ Bank may publish its decisions.
 (17) This section does not apply where section 99B of the Asset Covered Securities Act 2001 applies.
 
 (18) This section does not apply where Regulation 42 of Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020 applies.
+
+(19) This section does not apply where Article 69 of Regulation (EU) No 2019/1238 of the European Parliament and Council of 20 June 2019 applies.
