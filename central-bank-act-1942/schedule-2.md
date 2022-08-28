@@ -114,7 +114,7 @@ Financial Services The whole Act (Deposit Guarantee Scheme) Act 2009
 
 46 No. - of 2018 Central Bank (National Sections 8 and 12 Claims Information Database) Act 2018
 
-47 No. - of 2019 Consumer Insurance Sections 10, 11, 12, 13, 14 Contracts Act 2019 and 16
+47 No. 53 of 2019 Consumer Insurance Sections 10, 11, 12, 13, 14, Contracts Act 2019 16, 16A and 16B (including those sections as modified by section 10(2) and (3) of the Insurance (Miscellaneous Provisions) Act 2022)
 
 49 No. 16 of 2021 Counterfeiting Act 2021 Part 3
 
@@ -134,9 +134,9 @@ Item Number and Year Citation Provisions
 
 5 S.R.&O. No. 81 of 1940 Industrial Assurance (Fees The whole instrument for Determination of Disputes) Regulations 1940
 
-6 S.I. No. 64 of 1971 Decimal Currency (Friendly The whole instrument Society and Industrial Assurance Contracts) Regulations 1971
+6 S.I. No. 64 of 1971 Decimal Currency (Friendly The whole instrument Society and Industrial Assurance Contracts) Regulations 1971 Item Number and Year Citation Provisions
 
-7 S.I. No. 115 of 1976 EuropeanCommunities(Non- The whole instrument Life Insurance) Regulations 1976 Item Number and Year Citation Provisions
+7 S.I. No. 115 of 1976 EuropeanCommunities(Non- The whole instrument Life Insurance) Regulations 1976
 
 8 S.I. No. 178 of 1978 European Communities The whole instrument (Insurance Agents and Brokers) Regulations 1978
 
@@ -307,3 +307,5 @@ Transfers and Direct Debits in Euro) Regulations 2013
 80 S.I. No. 702 of 2021 European Union The whole instrument (Crowdfunding) Regulations 2021
 
 81 S.I. No. 46 of 2022 European Union (Anti-Money The whole instrument Laundering: Central Mechanism for Information on Safe-Deposit Boxes and Bank and Payment Accounts) Regulations 2022
+
+82 S.I. No. 435 of 2022 European Union (Pan- The whole instrument European Personal Pension Product) Regulations 2022
