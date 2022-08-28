@@ -44,11 +44,7 @@ Interpretation.
 
 (e) Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms,
 
-(f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the
-
-14 OJ No. L. 11, 17.1.2015, p. 37. 15 OJ No. L. 171, 29.6.2016, p. 153. 16 OJ No. L. 310, 25.11.2017, p. 1. 17 OJ No. L. 345, 27.12.2017, p. 27. 18 OJ No. L. 347, 28.12.2017, p. 1. 19 OJ No. L. 74, 16.3.2018, p. 3.
-
-European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
+(f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
 
 (g) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019 amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
 
@@ -89,8 +85,6 @@ European Parliament and of the Council on prudential requirements for credit ins
 "employee", in relation to the Bank, includes the Secretary of the Bank;
 
 "enactment" includes any instrument made under an enactment;
-
-20 OJ No. L. 111, 25.4.2019, p. 4. 21 OJ No. L. 150, 7.6.2019, p. 1. 22 OJ No. L. 314, 5.12.2019, p. 1. 23 OJ. No. L. 204, 26.6.2020, p. 4.
 
 "ESCB Statute" means the Statute of the European System of Central Banks and of the European Central Bank as set out in Protocol (No. 3) (annexed by the Treaty on European Union done at Maastricht on February 1992) to the Rome Treaty;
 
@@ -300,11 +294,11 @@ European Parliament and of the Council on prudential requirements for credit ins
 
 (bd) Decision ECB/2010/14 of the European Central Bank of 16 September 2010 on the authenticity and fitness checking and recirculation of euro banknotes, as amended by Decision ECB/2012/19 of 7 September 2012 and by Decision ECB/2019/2195 of 5 December 2019;
 
-OJ, No L171, 29.6.2016, p. 1
-
 (be) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019;
 
-(bf) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020.
+(bf) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020;
+
+(bg) Regulation (EU) No 2019/1238 of the European Parliament and Council of 20 June 2019.
 
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
 
