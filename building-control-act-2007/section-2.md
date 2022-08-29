@@ -60,7 +60,7 @@ Interpretation.
 
 (a) Part 3, the Royal Institute of the Architects of Ireland,
 
-(b) Parts 4 and 5, the Society of Chartered Surveyors,
+(b) Parts 4 and 5, the the Society of Chartered Surveyors Ireland,
 
 (c) Parts 6 and 7, each of the bodies referred to in paragraphs (a) and (b), with respect to such body performing its functions for the purpose of the relevant Parts;
 
