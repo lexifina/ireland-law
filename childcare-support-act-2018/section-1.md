@@ -74,6 +74,6 @@ Interpretation
 
 (e) a company in which all the shares are held by a board, company, or other body referred to in paragraph (c) or a company referred to in paragraph (d) of this definition.
 
-‘United Kingdom of Great Britain and Northern Ireland’ includes the Channel Islands and the Isle of Man and ‘citizen of the United Kingdom of Great Britain and Northern Ireland’ shall be construed accordingly;
+"United Kingdom of Great Britain and Northern Ireland" includes the Channel Islands and the Isle of Man and "citizen of the United Kingdom of Great Britain and Northern Ireland" shall be construed accordingly;
 
 (2) In this Act any reference to a partner of a person shall apply only if the person is a member of a couple.
