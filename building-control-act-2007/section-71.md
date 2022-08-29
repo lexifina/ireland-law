@@ -10,7 +10,7 @@ Proceedings at meetings of boards or committees.
 
 (5) The quorum for such a meeting shall be—
 
-(a) 6 members in the case of a Professional Conduct Committee, or
+(a) 5 members in the case of a Professional Conduct Committee, or
 
 (b) 4 members in any other case, of which, subject to subsection (6), the majority shall be members who were nominated for appointment as members of the board or committee, as the case may be, by the Minister.
 

@@ -10,7 +10,7 @@ Registration of building surveyors.
 
 (ii) such other educational body as may be prescribed, who has received from it in any year prior to 2005 a degree of Bachelor of Science in Building Surveying or in 2005 or any subsequent year an Honours degree of Bachelor of Science in Building Surveying or such other degree, diploma or qualification as may be prescribed and who, in each case, has at least 2 years appropriate experience of performing duties commensurate with those of a building surveryor;
 
-(b) a fellow or associate of the Society of Chartered Surveyors, Building Surveying Division, who has at least 2 years practical experience of performing duties commensurate with those of a building surveyor;
+(b) a fellow or professional member of the Society of Chartered Surveyors Ireland, Building Surveying Division, who has at least 2 years practical experience of performing duties commensurate with those of a building surveyor;
 
 (c) a fellow or member of the Chartered Institute of Building, Building Surveying Section, who has at least 2 years practical experience of performing duties commensurate with those of a building surveyor;
 
@@ -18,7 +18,7 @@ Registration of building surveyors.
 
 (e) a fellow or member of the Association of Building Engineers, Building Surveying Section, who has at least 2 years practical experience of performing duties commensurate with those of a building surveyor;
 
-(f) a person who on or after 1 January 2001 and prior to 2005 attained a degree of Bachelor of Science in Building Surveying or in 2005 or any subsequent year an Honours degree of Bachelor of Science in Building Surveying and is enrolled as a fellow or associate of the Society of Chartered Surveyors, or as a fellow or member of the Chartered Institute of Building, the Architecture and Surveying Institute or the Association of Building Engineers;
+(f) a person who on or after 1 January 2001 and prior to 2005 attained a degree of Bachelor of Science in Building Surveying or in 2005 or any subsequent year an Honours degree of Bachelor of Science in Building Surveying and is enrolled as a fellow or professional member of the Society of Chartered Surveyors Ireland, or as a fellow or member of the Chartered Institute of Building, the Architecture and Surveying Institute or the Association of Building Engineers;
 
 (g) a person eligible for such registration by virtue of section 44 (which relates to holders of qualifications from other states);
 

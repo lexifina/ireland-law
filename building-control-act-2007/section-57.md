@@ -4,11 +4,13 @@ Complaints to Professional Conduct Committee.
 
 (2) Where the Committee is of the opinion that a prima facie case has not been established for an inquiry under subsection (5) with respect to the complaint, it shall so inform the complainant in writing and shall not proceed further.
 
+(2A) The opinion of the Committee referred to in subsection (2) shall be final and shall not be a decision of the Committee for the purposes of section 25(1), 39(1) or 53(1).
+
 (3) The Committee may, where it considers it appropriate to do so, request the complainant and the registered professional who is the subject of the complaint to seek resolution of the complaint by mediation before a person or persons appointed under rules made by the relevant registration body and if the complainant and the registered professional consent to such mediation being conducted, such mediation shall be conducted accordingly.
 
 (4) If the mediation does not result in the resolution of the complaint, the Committee shall proceed to consider the complaint.
 
-(5) The Committee may decide to hold an inquiry with respect to a complaint and where it does so the chairperson of the Committee shall notify the other members of the Committee and the complainant and the registered professional of the date, time and place for the hearing, and the notice under this subsection to the registered professional shall be sent by prepaid registered post to the address given in the register, shall contain details of the nature of the alleged complaint against the registered professional and shall inform the registered professional of his or her right to appear before the Committee and to be represented at the hearing by a person of his or her choice.
+(5) Subject to subsection (2A), the Committee may decide to hold an inquiry with respect to a complaint and where it does so the chairperson of the Committee shall notify the other members of the Committee and the complainant and the registered professional of the date, time and place for the hearing, and the notice under this subsection to the registered professional shall be sent by prepaid registered post to the address given in the register, shall contain details of the nature of the alleged complaint against the registered professional and shall inform the registered professional of his or her right to appear before the Committee and to be represented at the hearing by a person of his or her choice.
 
 (6) For an inquiry under this section, the Committee has the powers, rights and privileges vested in the High Court or a judge thereof in hearing an action, for the purpose of—
 

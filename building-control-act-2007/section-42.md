@@ -2,7 +2,7 @@
 
 Registration body and Admissions Board (Part 5).
 
-42.— (1) The Society of Chartered Surveyors shall be the registration body for the purposes of this Part.
+42.— (1) The Society of Chartered Surveyors Ireland shall be the registration body for the purposes of this Part.
 
 (2) For the purposes of the Directive, the registration body is the competent authority in the State as respects building surveyors.
 

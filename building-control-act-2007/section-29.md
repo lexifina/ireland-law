@@ -18,7 +18,7 @@ Registration of quantity surveyors.
 
 (III) such other degree, diploma or qualification as may be prescribed, and who, in each case, has at least 2 years appropriate experience of performing duties commensurate with those of a quantity surveyor;
 
-(b) a fellow or associate of the Society of Chartered Surveyors, Quantity Surveying Division;
+(b) a fellow or professional member of the Society of Chartered Surveyors Ireland, Quantity Surveying Division;
 
 (c) a fellow or member of the Chartered Institute of Building, who has at least 3 years practical experience of performing duties commensurate with those of a quantity surveyor;
 
