@@ -25,3 +25,39 @@ Application of Part to insurance holding companies and mixed financial holding c
 (3) Nothing in this section limits the application of this Part in relation to matters other than those referred to in subsection (1).
 
 (4) In this section “insurance holding company” and “mixed financial holding company” have the meaning assigned to them in the European Union (Insurance and Reinsurance) Regulations 2015.
+
+33ANFA. (1) This Part applies in relation to the commission or suspected commission by a relevant person of a contravention of —
+
+(a) a relevant provision,
+
+(b) any direction given to a relevant person under a relevant provision or Regulation 4 of the Regulations of 2022,
+
+(c) any direction given under financial services legislation to a relevant person pursuant to a relevant provision,
+
+(d) any requirement imposed on a relevant person under—
+
+(i) a relevant provision,
+
+(ii) any direction given to a relevant person under a relevant provision or Regulation 4 of the Regulations of 2022, or
+
+(iii) any direction given under financial services legislation to a relevant person pursuant to a relevant provision, or
+
+(e) any obligation imposed on a relevant person by this Part or imposed by the Bank pursuant to a power exercised under this Part.
+
+(2) For the purposes of this section—
+
+(a) a reference in this Part to a regulated financial service provider or a financial service provider includes a reference to a relevant person,
+
+(b) a reference in this Part to a prescribed contravention includes a reference to a contravention, by a relevant person, of a relevant provision.
+
+(3) Nothing in this section limits the application of this Part in relation to matters other than those referred to in subsection (1).
+
+(4) In this section—
+
+(a) "PEPP Regulation" means Regulation (EU) No 2019/1238 of the European Parliament and Council of 20 June 2019
+
+(b) "Regulations of 2022" means the European Union (Pan-European Personal Pension Product) Regulations 2022 (S.I. No. 435 of 2022);
+
+(c) "relevant person" means an undertaking referred to in point (c) of Article 6(1) of the PEPP Regulation;
+
+(d) "relevant provision" means a provision of the PEPP Regulation.

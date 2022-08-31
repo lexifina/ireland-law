@@ -2,7 +2,7 @@ Limitations on imposing monetary penalties.
 
 33AS.—(1) If the Bank decides to impose a monetary penalty on a regulated financial service provider under section 33AQ or 33AR, it may not impose an amount that would be likely to cause the financial service provider to cease business.
 
-(2) If the Bank decides to impose a monetary penalty on a person under section 33AQ or 33AR, it may not impose an amount that would be likely to cause the person to be adjudicated bankrupt.
+(2) If the Bank decides to impose a monetary penalty on a person under section 33AQ or 33AR, it may not impose an amount that would be likely to cause the person to be adjudicated bankrupart
 
 (3) If conduct engaged in—
 
