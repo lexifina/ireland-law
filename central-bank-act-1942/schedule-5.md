@@ -42,7 +42,9 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 (j) is removed from office by a resolution passed in accordance with subparagraph (2).
 
-(2) The Chairperson and Deputy Chairperson can be removed from office only by the President on a resolution passed by both Houses of the Oireachtas in the same session seeking removal on the ground of proven misbehaviour or incapacity. 7.—(1) A person who is a lay member ceases to be such a member if the person—
+(2) The Chairperson and Deputy Chairperson can be removed from office only by the President on a resolution passed by both Houses of the Oireachtas in the same session seeking removal on the ground of proven misbehaviour or incapacity.
+
+7.—(1) A person who is a lay member ceases to be such a member if the person—
 
 (a) dies, or
 
@@ -72,9 +74,9 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 9.—(1) In this paragraph—
 
-‘eligible member’ means a member who, immediately before being appointed to the Appeals Tribunal, was a civil servant or an officer or employee of a public authority declared by an enactment or other law to be an authority to which this paragraph applies;
+"eligible member" means a member who, immediately before being appointed to the Appeals Tribunal, was a civil servant or an officer or employee of a public authority declared by an enactment or other law to be an authority to which this paragraph applies;
 
-‘superannuation scheme’ means a scheme, fund or arrangement under which any superannuation or retirement benefits are provided and which is established by or under an Act.
+"superannuation scheme" means a scheme, fund or arrangement under which any superannuation or retirement benefits are provided and which is established by or under an Act.
 
 (2) An eligible member—
 
@@ -118,7 +120,9 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 (b) the function or power is to be performed or exercised by the person for the time being occupying or acting in the office concerned.
 
-(8) The Chairperson may, despite the delegation, perform a function that has been delegated under this paragraph. 11.—(1) If a person is, or is to be, a member of the Appeals Tribunal as constituted for the purposes of proceedings and the person has or acquires an interest (pecuniary or otherwise) that could conflict with the proper performance of the person’s functions in relation to the proceedings, the person—
+(8) The Chairperson may, despite the delegation, perform a function that has been delegated under this paragraph.
+
+11.—(1) If a person is, or is to be, a member of the Appeals Tribunal as constituted for the purposes of proceedings and the person has or acquires an interest (pecuniary or otherwise) that could conflict with the proper performance of the person’s functions in relation to the proceedings, the person—
 
 (a) shall disclose the nature of the interest to the parties to the proceedings, and
 
@@ -136,4 +140,4 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 12.—(1) All of the provisions of this Schedule except paragraph 2 apply to acting members.
 
-(2) In this paragraph, ‘acting member’ means a person appointed under section 57F to act as a member.
+(2) In this paragraph, "acting member" means a person appointed under section 57F to act as a member.

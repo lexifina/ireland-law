@@ -1,3 +1,3 @@
-Regulatory Authority to keep proper accounts.
+Regulatory Authority to keep proper accounts. (Repealed)
 
 33M.— ...

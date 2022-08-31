@@ -54,7 +54,7 @@ Interpretation (Part IIIC).
 
 “SFT Regulation” means Regulation (EU) No 2015/2365 of the European Parliament and of the Council of 25 November 2015;
 
-(2)"prescribed contravention", in respect of the CSD Regulation, means an infringement listed in Article 63(1) of the CSD Regulation.
+(2) "prescribed contravention", in respect of the CSD Regulation, means an infringement listed in Article 63(1) of the CSD Regulation.
 
 (3) In this Part "prescribed contravention" means, in respect of the European Union (Markets in Financial Instruments) Regulations 2017 (S.I. No. 375 of 2017), a contravention of any of the provisions listed in Regulation 119(5), (6) and (7) of those Regulations.
 

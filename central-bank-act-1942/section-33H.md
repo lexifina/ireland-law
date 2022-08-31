@@ -1,3 +1,3 @@
-Responsibilities of Chief Executive of the Regulatory Authority.
+Responsibilities of Chief Executive of the Regulatory Authority. (Repealed)
 
 33H.— ...

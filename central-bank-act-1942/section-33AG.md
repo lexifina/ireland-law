@@ -36,6 +36,6 @@ Superannuation schemes for the benefit of officers and employees of Bank and its
 
 (8) In this section—
 
-‘retirement’, in relation to a person referred to in paragraph (a), (b), (ba) or (c) of subsection (1), includes not being re-appointed after the end of the person’s term of office;
+"retirement", in relation to a person referred to in paragraph (a), (b), (ba) or (c) of subsection (1), includes not being re-appointed after the end of the person’s term of office;
 
-‘superannuation benefit’ means a superannuation benefit payable to or in respect of a person to whom this section applies or, where such a person has died, to the spouse or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 or a child of that person, and includes a pension, a retirement allowance and a gratuity.
+"superannuation benefit" means a superannuation benefit payable to or in respect of a person to whom this section applies or, where such a person has died, to the spouse or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 or a child of that person, and includes a pension, a retirement allowance and a gratuity.

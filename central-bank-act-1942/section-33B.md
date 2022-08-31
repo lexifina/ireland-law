@@ -1,3 +1,3 @@
-Establishment of Regulatory Authority.
+Establishment of Regulatory Authority. (Repealed)
 
 33B.— ...

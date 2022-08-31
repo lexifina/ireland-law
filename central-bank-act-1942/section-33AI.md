@@ -8,4 +8,4 @@ Provisions applicable to superannuation schemes established under section 33AG o
 
 (4) A superannuation benefit is not payable under a superannuation scheme established under section 33AG or continued under section 33AH if the benefit relates to the same period of service as that in respect of which a superannuation benefit has been paid under another such scheme.
 
-(5) For the purposes of this section, ‘superannuation benefit’ has the same meaning as in section 33AG.
+(5) For the purposes of this section, "superannuation benefit" has the same meaning as in section 33AG.

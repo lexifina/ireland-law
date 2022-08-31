@@ -1,3 +1,3 @@
-Power to impose levies.
+Power to impose levies. (Repealed)
 
 33J.— ...

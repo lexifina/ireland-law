@@ -14,4 +14,4 @@ Acting Governor.
 
 (7) This section does not apply to responsibilities of the Governor that are required, by virtue of section 22A, to be carried out by the Head of Central Banking in any of the circumstances specified in that section.
 
-(8) In this section, ‘designated responsibilities’, in relation to the office of Governor, means those responsibilities of the Governor other than those specified in section 19A(1)(a) and (b) and (2).
+(8) In this section, "designated responsibilities", in relation to the office of Governor, means those responsibilities of the Governor other than those specified in section 19A(1)(a) and (b) and (2).

@@ -1,4 +1,4 @@
-Regulatory Authority to prepare strategic plan.
+Regulatory Authority to prepare strategic plan. (Repealed)
 
 33P.—...
 

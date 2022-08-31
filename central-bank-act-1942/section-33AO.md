@@ -1,5 +1,3 @@
-## Power of Bank to hold inquiries
-
 Bank may hold inquiry into conduct of regulated financial service provider or person concerned in its management.
 
 33AO.—(1) Whenever the Bank suspects on reasonable grounds that a regulated financial service provider is committing or has committed a prescribed contravention, it may hold an inquiry to determine whether or not the financial service provider is committing or has committed the contravention.

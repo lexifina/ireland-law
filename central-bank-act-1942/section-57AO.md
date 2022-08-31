@@ -1,4 +1,4 @@
-Act or omission that is both an offence and contempt.
+Act or omission that is both an offence and contempart
 
 57AO.—(1) An act or omission may be punished as a contempt of the Appeals Tribunal even though it could be punished as an offence.
 

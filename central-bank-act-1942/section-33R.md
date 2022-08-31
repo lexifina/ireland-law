@@ -1,3 +1,3 @@
-Appointment of acting Consumer Director in certain cases.
+Appointment
 
 33R.—...

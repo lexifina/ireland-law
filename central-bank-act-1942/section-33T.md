@@ -1,3 +1,3 @@
-Consumer Director to prepare Annual Report.
+Consumer Director to prepare Annual Report. (Repealed)
 
 33T.—...

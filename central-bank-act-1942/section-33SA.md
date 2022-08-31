@@ -1,3 +1,3 @@
-Supplementary powers of Consumer Director with respect to carrying out the responsibilities imposed under section 33S.
+Supplementary powers of Consumer Director with respect to carrying out the responsibilities imposed under section 33S. (Repealed)
 
 33SA.—...

@@ -2,6 +2,6 @@
 
 ## Chapter 1 Constitution, functions and powers of Regulatory Authority
 
-Interpretation: Part IIIB and Schedule 3.
+Interpretation: Part IIIB and Schedule 3. (Repealed)
 
 33A.—...

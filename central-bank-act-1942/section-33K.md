@@ -1,3 +1,3 @@
-Power of Chief Executive to prescribe fees.
+Power of Chief Executive to prescribe fees. (Repealed)
 
 33K.— ...

@@ -1,3 +1,3 @@
-Appointment of Chief Executive of the Regulatory Authority.
+Appointment of Chief Executive of the Regulatory Authority. (Repealed)
 
 33F.— ...

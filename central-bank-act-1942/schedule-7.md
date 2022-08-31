@@ -38,9 +38,9 @@ FINANCIAL SERVICES OMBUDSMAN, DEPUTY FINANCIAL SERVICES OMBUDSMEN AND OTHER BURE
 
 3.—Neither the Financial Services Ombudsman nor a Deputy Financial Services Ombudsman may engage in paid employment outside the duties of the office unless the Council approves the employment. 4.—(1) In this paragraph—
 
-‘superannuation scheme’ means a superannuation scheme prepared under subparagraph (2) or (4), and if the scheme is amended in accordance with this paragraph, means the scheme as amended;
+"superannuation scheme" means a superannuation scheme prepared under subparagraph (2) or (4), and if the scheme is amended in accordance with this paragraph, means the scheme as amended;
 
-‘beneficiary’ means the Financial Services Ombudsman or a Deputy Financial Services Ombudsman or a person who formerly held either of those offices.
+"beneficiary" means the Financial Services Ombudsman or a Deputy Financial Services Ombudsman or a person who formerly held either of those offices.
 
 (2) The Council shall prepare a scheme for the provision of superannuation benefits to or in respect of the Financial Services Ombudsman and each Deputy Financial Services Ombudsman and any person who formerly held any of those offices. More than one scheme may be prepared under this subparagraph. However, a scheme prepared under this subparagraph does not take effect until the Minister has approved it.
 
@@ -56,11 +56,11 @@ FINANCIAL SERVICES OMBUDSMAN, DEPUTY FINANCIAL SERVICES OMBUDSMEN AND OTHER BURE
 
 5.—(1) In this paragraph—
 
-‘superannuation benefit’ means a superannuation benefit payable to a beneficiary or, if the beneficiary has died, to the spouse or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 or a child of the beneficiary, and includes a pension, a retirement allowance and a gratuity;
+"superannuation benefit" means a superannuation benefit payable to a beneficiary or, if the beneficiary has died, to the spouse or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 or a child of the beneficiary, and includes a pension, a retirement allowance and a gratuity;
 
-‘superannuation scheme’ means a superannuation scheme prepared under subparagraph (2) or (4), and if the scheme is amended in accordance with this paragraph, means the scheme as amended;
+"superannuation scheme" means a superannuation scheme prepared under subparagraph (2) or (4), and if the scheme is amended in accordance with this paragraph, means the scheme as amended;
 
-‘beneficiary’ means a member or former member of the Bureau staff.
+"beneficiary" means a member or former member of the Bureau staff.
 
 (2) The Council shall prepare a scheme for the provision of superannuation benefits to or in respect of members and former members of the Bureau staff. More than one scheme may be prepared under this subparagraph. However, a scheme prepared under this subparagraph does not take effect until the Minister has approved it.
 

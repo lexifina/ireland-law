@@ -10,7 +10,7 @@ Bank may establish advisory groups.
 
 (3) Subject to subsection (4), an advisory group established under subsection (1) shall be made up of persons who have expertise, knowledge or experience relevant to the functions of the advisory group concerned, and may include members of the Commission, officers of the Bank or employees of the Bank.
 
-(4) The advisory group (in this section called ‘the consumer advisory group’) established to advise the Bank on the performance of its functions and the exercise of its powers in relation to consumers of financial services shall not include members of the Commission, officers of the Bank or employees of the Bank.
+(4) The advisory group (in this section called "the consumer advisory group") established to advise the Bank on the performance of its functions and the exercise of its powers in relation to consumers of financial services shall not include members of the Commission, officers of the Bank or employees of the Bank.
 
 (5) The consumer advisory group shall advise the Bank on the exercise of the Bank’s powers and the performance of the Bank’s functions in relation to the consumers of financial services and in particular in relation to—
 

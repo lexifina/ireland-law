@@ -1,3 +1,3 @@
-Consumer Director to prepare strategic plan.
+Consumer Director to prepare strategic plan. (Repealed)
 
 33V.—...

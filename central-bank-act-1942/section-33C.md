@@ -1,3 +1,3 @@
-Functions and powers of Regulatory Authority.
+Functions and powers of Regulatory Authority. (Repealed)
 
 33C.— ...

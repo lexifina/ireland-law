@@ -8,9 +8,9 @@ Arrangements for collection of certain levies.
 
 (4) In this section—
 
-‘levy’ means a levy imposed under section 32D or any other enactment;
+"levy" means a levy imposed under section 32D or any other enactment;
 
-‘prescribed body’ means the following:
+"prescribed body" means the following:
 
 (a) the Pensions Board;
 

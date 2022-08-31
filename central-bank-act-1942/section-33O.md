@@ -1,3 +1,3 @@
-Regulatory Authority to provide Minister with annual report and other reports.
+Regulatory Authority to provide Minister with annual report and other reports. (Repealed)
 
 33O.—...

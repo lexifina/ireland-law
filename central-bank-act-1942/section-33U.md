@@ -1,3 +1,3 @@
-Consumer Director to provide information, reports and advice to Chief Executive.
+Consumer Director to provide information, reports and advice to Chief Executive. (Repealed)
 
 33U.—...

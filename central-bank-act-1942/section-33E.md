@@ -1,3 +1,3 @@
-Membership of Regulatory Authority.
+Membership of Regulatory Authority. (Repealed)
 
 33E.— ...

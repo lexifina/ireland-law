@@ -1,3 +1,3 @@
-Assignment of employees of Bank.
+Assignment of employees of Bank. (Repealed)
 
 6E.—...

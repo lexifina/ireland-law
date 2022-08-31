@@ -1,3 +1,3 @@
-Regulatory Authority to comply with certain guidelines.
+Regulatory Authority to comply with certain guidelines. (Repealed)
 
 33D.—...

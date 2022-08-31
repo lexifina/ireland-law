@@ -1,3 +1,3 @@
-Provision of funds by Bank to Regulatory Authority to meet shortfall.
+Provision of funds by Bank to Regulatory Authority to meet shortfall. (Repealed)
 
 33L.—...

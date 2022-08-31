@@ -1,3 +1,3 @@
-Membership of Board and Regulatory Authority.
+Membership of Board and Regulatory Authority. (Repealed)
 
 18BA.—...

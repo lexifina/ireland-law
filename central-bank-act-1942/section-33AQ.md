@@ -72,4 +72,4 @@ What decisions Bank can make at conclusion of inquiry held under section 33AO.
 
 (c) if the Bank finds that the person is participating or has participated in the contravention, the sanctions (if any) imposed under this section in respect of the participation.
 
-(9) In this section ‘authorisation’ means an authorisation, licence or any other permission required to carry on business as a regulated financial service provider granted by the Bank pursuant to any provision of financial services legislation, and includes registration.
+(9) In this section "authorisation" means an authorisation, licence or any other permission required to carry on business as a regulated financial service provider granted by the Bank pursuant to any provision of financial services legislation, and includes registration.

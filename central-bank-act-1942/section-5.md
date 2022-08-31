@@ -2,7 +2,7 @@
 
 Establishment of Central Bank of Ireland.
 
-5.—(1) The body corporate formerly called the Central Bank and Financial Services Authority of Ireland is continued in existence under the name ‘Central Bank of Ireland’.
+5.—(1) The body corporate formerly called the Central Bank and Financial Services Authority of Ireland is continued in existence under the name "Central Bank of Ireland".
 
 (2) The Bank—
 

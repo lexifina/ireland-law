@@ -14,7 +14,7 @@ Representation of parties.
 
 (4) In this section—
 
-‘incapacitated person’ means—
+"incapacitated person" means—
 
 (a) a minor, or
 
@@ -22,4 +22,4 @@ Representation of parties.
 
 (c) any other person of a class prescribed by regulations made under section 57AZ for the purposes of this paragraph;
 
-‘interpreter’ includes a person who interprets signs or other things made or done by a person who cannot speak adequately for the purposes of giving evidence in proceedings.
+"interpreter" includes a person who interprets signs or other things made or done by a person who cannot speak adequately for the purposes of giving evidence in proceedings.

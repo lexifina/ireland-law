@@ -1,3 +1,3 @@
-Power of the Bank to establish divisions, etc. within the Bank
+Power of the Bank to establish divisions, etc. within the Bank (Repealed)
 
 6C.—...

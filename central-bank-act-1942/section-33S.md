@@ -1,3 +1,3 @@
-Responsibilities of Consumer Director.
+Responsibilities of Consumer Director. (Repealed)
 
 33S.—...

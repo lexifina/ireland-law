@@ -10,4 +10,4 @@ Bank’s power to hold and deal in land etc.
 
 (3) The Bank may sell, lease or otherwise dispose of land held by the Bank whenever the Commission considers that the land is no longer required for the purpose of enabling the Bank to perform its functions.
 
-(4) In this section ‘acquire’ includes acquire by purchase, lease or exchange.
+(4) In this section "acquire" includes acquire by purchase, lease or exchange.

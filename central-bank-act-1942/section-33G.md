@@ -1,3 +1,3 @@
-Appointment of acting Chief Executive in certain cases.
+Appointment of acting Chief Executive in certain cases. (Repealed)
 
 33G.— ...

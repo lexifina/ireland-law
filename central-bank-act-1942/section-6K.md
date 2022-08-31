@@ -6,7 +6,7 @@ Provisions relating to documents of the Bank.
 
 (3) In any legal proceedings, a copy or reproduction in legible form of a document, or an entry in a document, kept or formerly kept by the Bank is admissible as evidence of the entry and the matters contained in it where the document has been destroyed or is kept by the Bank in a non-legible form.
 
-(4) In this section, ‘document’ means any record of information, and includes—
+(4) In this section, "document" means any record of information, and includes—
 
 (a) anything on which there is writing, or
 

@@ -1,3 +1,3 @@
-Regulatory Authority to prepare annual estimate of income and expenditure.
+Regulatory Authority to prepare annual estimate of income and expenditure. (Repealed)
 
 33N.—...

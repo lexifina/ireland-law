@@ -1,6 +1,6 @@
 Application of Part under Bank Recovery and Resolution Directive.
 
-33ANE. (1) For the purposes of this section, ‘designated entity’ shall include the following:
+33ANE. (1) For the purposes of this section, "designated entity" shall include the following:
 
 (a) a financial holding company;
 
@@ -46,6 +46,6 @@ Application of Part under Bank Recovery and Resolution Directive.
 
 (5) In this section—
 
-(a)‘Bank Recovery and Resolution Regulations’ means the European Union (Bank Recovery and Resolution) Regulations 2015 (S.I. No. 289 of 2015);
+(a) "Bank Recovery and Resolution Regulations" means the European Union (Bank Recovery and Resolution) Regulations 2015 (S.I. No. 289 of 2015);
 
-(b)‘financial holding company’, ‘mixed financial holding company’, ‘mixed-activity holding company’, ‘parent financial holding company in a Member State’, ‘parent mixed financial holding company in a Member State’, “parent undertaking”, “Union branch’, “Union parent financial holding company’ and ‘Union parent mixed financial holding company’ have the meanings assigned to them, respectively, in the Bank Recovery and Resolution Regulations.”,
+(b) "financial holding company", "mixed financial holding company", "mixed-activity holding company", "parent financial holding company in a Member State", "parent mixed financial holding company in a Member State", "parent undertaking", "Union branch", "Union parent financial holding company" and "Union parent mixed financial holding company" have the meanings assigned to them, respectively, in the Bank Recovery and Resolution Regulations.

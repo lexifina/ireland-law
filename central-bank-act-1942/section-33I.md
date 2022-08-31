@@ -1,3 +1,3 @@
-Chairperson of the Regulatory Authority.
+Chairperson of the Regulatory Authority. (Repealed)
 
 33I.— ...

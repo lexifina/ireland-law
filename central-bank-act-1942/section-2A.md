@@ -1,4 +1,4 @@
-Definition of ‘subsidiary company’.
+Definition of "subsidiary company".
 
 2A.—(1) For the purposes of this Act, a company is a subsidiary of another company if (but only if)—
 
@@ -52,10 +52,10 @@ Definition of ‘subsidiary company’.
 
 (5) For the purposes of subsection (1)(b), a company is not to be treated as having the right to exercise a dominant influence over another company unless it has a right to give directions with respect to the operating and financial policies of that other company and the directors of that other company are obliged to comply with those directions.
 
-(6) In subsection (1)(b), ‘control contract’ means a contract in writing conferring a right that—
+(6) In subsection (1)(b), "control contract" means a contract in writing conferring a right that—
 
 (a) is of a kind authorised by the memorandum or articles of the company in relation to which the right is exercisable, and
 
 (b) is permitted by the law under which that company is established.
 
-(7) Subsection (5) does not limit the construction of the expression ‘actually exercises a dominant influence’ in subsection (1)(c).
+(7) Subsection (5) does not limit the construction of the expression "actually exercises a dominant influence" in subsection (1)(c).
