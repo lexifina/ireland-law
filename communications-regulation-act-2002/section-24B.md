@@ -4,7 +4,7 @@ Tortious liability of undertaking or associate for victimising whistleblower.
 
 (1A) Subsection (1) does not apply where the disclosure is a protected disclosure within the meaning of the Protected Disclosures Act 2014.
 
-(2) In this section, ‘detriment’ includes—
+(2) In this section, "detriment" includes—
 
 (a) injury, damage or loss, or
 

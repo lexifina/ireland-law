@@ -82,6 +82,6 @@ However, if the regulations concerned provide for a person to be tried summarily
 
 (10) In this section—
 
-‘European Communities’ and ‘treaties governing the European Communities’ have the same meanings as they have in the European Communities Act 1972; and
+"European Communities" and "treaties governing the European Communities" have the same meanings as they have in the European Communities Act 1972; and
 
-‘turnover’ means, in relation to a body corporate, the turnover of the body in the financial year of the body ending immediately before the financial year in which the offence of which the body has been convicted was committed.
+"turnover" means, in relation to a body corporate, the turnover of the body in the financial year of the body ending immediately before the financial year in which the offence of which the body has been convicted was committed.

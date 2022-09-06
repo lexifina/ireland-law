@@ -6,7 +6,7 @@ Authorised officers.
 
 (2) A person appointed under subsection (1) shall, on his or her appointment, be furnished by the Commission with a certificate of his or her appointment and when exercising a power conferred by subsection (3) shall, if requested by any person thereby affected, produce such certificate to that person for inspection.
 
-(3) For the purposes of the exercise by the Commission of its functions under this Act, the Competition Act 2002 a transferred function or any regulations made under the Act of 1972, an authorised officer may—
+(3) For the purposes of the exercise by the Commission of its functions under this Act, the Competition Act 2002, a transferred function or any regulations made under the Act of 1972, an authorised officer may—
 
 (a) enter, at any reasonable time, any premises or place or any vehicle or vessel where any activity connected with the provision of electronic communications services, networks or associated facilities or postal services or premium rate services takes place or, in the opinion of the officer takes place, and search and inspect the premises, place, vehicle or vessel and any books, documents or records found therein,
 

@@ -18,6 +18,6 @@ Undertaking not to overcharge or charge for services not supplied.
 
 (4) In this section—
 
-‘consumer’ means a person to whom an electronic communications service or electronic communications product is supplied, otherwise than for the purpose of resupply;
+"consumer" means a person to whom an electronic communications service or electronic communications product is supplied, otherwise than for the purpose of resupply;
 
-‘tariff of charges’, in relation to an undertaking, includes any list setting out the prices charged by the undertaking for providing electronic communications services or electronic communications products to consumers.
+"tariff of charges", in relation to an undertaking, includes any list setting out the prices charged by the undertaking for providing electronic communications services or electronic communications products to consumers.

@@ -6,7 +6,7 @@ Levies and fees.
 
 (b) enabling the Minister to pay contributions or other membership charges to international telecommunications organisations, and
 
-(c) ... the Commission may make an order imposing a levy on providers of electronic communications services and on providers of electronic communications networks which are deemed to be authorised under Regulation 4 of the European Communities (Electronic Communications Networks and Services)(Authorisation) Regulations 2003 (S.I. No. 306 of 2003).
+(c) ... the Commission may make an order imposing a levy on providers of electronic communications services and on providers of electronic communications networks which are deemed to be authorised under Regulation 4 of the European Communities (Electronic Communications Networks and Services) (Authorisation) Regulations 2003 (S.I. No. 306 of 2003).
 
 (1A) For the purposes of subsection (1), the expenses of the Commission in relation to the discharge of its functions in relation to electronic communications shall —
 

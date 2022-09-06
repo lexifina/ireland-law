@@ -32,4 +32,4 @@ Commission may apply to High Court for order to restrain repeated or apprehended
 
 (8) If the High Court makes an order under this section, it may make such ancillary orders as it considers appropriate.
 
-(9) In this section, ‘consumer’ has the same meaning as in section 45.
+(9) In this section, "consumer" has the same meaning as in section 45.

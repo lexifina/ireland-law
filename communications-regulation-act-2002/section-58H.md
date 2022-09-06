@@ -2,11 +2,11 @@ Interim measure pending the Minister entering into contract under section 58B.
 
 58H.— (1) In this section—
 
-‘call handling fee’ means a fee fixed under subsection (2), and includes that amount as varied under that subsection;
+"call handling fee" means a fee fixed under subsection (2), and includes that amount as varied under that subsection;
 
-‘current operator’, in relation to the emergency call answering service operating at the commencement of this section, means Eircom plc;
+"current operator", in relation to the emergency call answering service operating at the commencement of this section, means Eircom plc;
 
-‘payment period’ means the period beginning with the date on which an order made under subsection (2) takes effect and ending with—
+"payment period" means the period beginning with the date on which an order made under subsection (2) takes effect and ending with—
 
 (a) the date (as publicly notified by the Minister) on which a contract entered into under section 58B becomes fully effective, or
 
