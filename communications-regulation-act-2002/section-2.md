@@ -30,7 +30,7 @@ Interpretation.
 
 (b) an electronic communications service, which enable or support the provision of services by way of that network or service, and includes conditional access systems and electronic programme guides;
 
-“association of undertakings” means a body corporate that comprises one or more undertakings but is not itself an undertaking;
+“association of undertakings” a body corporate that comprises one or more undertakings but is not itself an undertaking;
 
 “Civil Service” has the meaning assigned to it by the Civil Service Regulation Act, 1956;
 

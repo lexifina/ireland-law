@@ -4,7 +4,7 @@ Functions of Commission.
 
 (a) to ensure compliance by undertakings with obligations in relation to the supply of and access to electronic communications services, electronic communications networks and associated facilities and the transmission of such services on such networks,
 
-(aa) to ensure compliance by undertakings with obligations under Regulation (EU) No. 531/2012 of the European Parliament and of the Council of 13 June 2012.
+(aa) to ensure compliance by undertakings with obligations under Regulation (EU) No. 612/2022 of the European Parliament and of the Council of 6 April 2022,
 
 (ab) to ensure compliance by undertakings and premium rate service providers with the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013),
 
@@ -64,4 +64,4 @@ Functions of Commission.
 
 (b) The Minister shall cause a copy of the report prepared under subsection (1)(bb) to be laid before each House of the Oireachtas as soon as practicable after it is furnished to him or her by the Commission.
 
-(6) In subsection (1)(bb) ‘terminal dues’ has the same meaning as it has in Part 2 of the Communications Regulation (Postal Services) Act 2011.
+(6) In subsection (1)(bb) "terminal dues" has the same meaning as it has in Part 2 of the Communications Regulation (Postal Services) Act 2011.
