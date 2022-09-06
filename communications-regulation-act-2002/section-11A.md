@@ -1,0 +1,3 @@
+Objectivity and transparency of Commission in regulating under Electronic Communications Code Regulations.
+
+11A.— ...
