@@ -2,7 +2,7 @@
 
 Conditional supply of listed items.
 
-20.— (1) The Executive may attach conditions to the supply or reimbursement, under section 59 or 62A of the Act of 1970, of listed items (including classes of listed items) in the interests of one or more of the following:
+20.— (1) The Executive may attach conditions to the supply or reimbursement, under section 59, 62A or 67E of the Act of 1970, of listed items (including classes of listed items) in the interests of one or more of the following:
 
 (a) patient safety;
 
@@ -12,7 +12,7 @@ Conditional supply of listed items.
 
 (d) appropriately applying the resources available to the Executive.
 
-(2) Without prejudice to the generality of the Executive’s power under subsection (1) to attach conditions to the supply or reimbursement, under section 59 or 62A of the Act of 1970, of listed items (including classes of listed items), such conditions may include one or more of the following:
+(2) Without prejudice to the generality of the Executive’s power under subsection (1) to attach conditions to the supply or reimbursement, under section 59, 62A or 67E of the Act of 1970, of listed items (including classes of listed items), such conditions may include one or more of the following:
 
 (a) protocols for the supply of the listed items;
 
@@ -26,4 +26,4 @@ Conditional supply of listed items.
 
 (f) restrictions on the classes of patients who may be supplied with, or reimbursed under that section for, the listed items.
 
-(3) The Executive shall, as soon as is practicable after the commencement of this section, establish and keep under review procedures designed to ensure that listed items are supplied or reimbursed, under section 59 or 62A of the Act of 1970, only if the conditions (if any) attached under this section to such supply or reimbursement, as the case may be, are complied with.
+(3) The Executive shall, as soon as is practicable after the commencement of this section, establish and keep under review procedures designed to ensure that listed items are supplied or reimbursed, under section 59, 62A or 67E of the Act of 1970, only if the conditions (if any) attached under this section to such supply or reimbursement, as the case may be, are complied with.
