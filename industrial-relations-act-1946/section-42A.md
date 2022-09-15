@@ -50,7 +50,7 @@ Proposals by joint labour committees in relation to remuneration and conditions 
 
 (e) the terms of any relevant national agreement relating to pay and conditions for the time being in existence.
 
-(7) In this section ‘remuneration’ means consideration, whether in cash or in kind, which a worker receives from his or her employer in respect of his or her employment but does not include:
+(7) In this section "remuneration" means consideration, whether in cash or in kind, which a worker receives from his or her employer in respect of his or her employment but does not include:
 
 (a) pay or time off from work in lieu of public holidays;
 

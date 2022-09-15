@@ -32,7 +32,7 @@ Variation of registered employment agreement.
 
 (ii) the date on which any previous application under paragraph (a) in respect of the agreement was refused by the Court, whichever is the later.
 
-(11) (a) Where, after the commencement of Part 2 of the Industrial Relations (Amendment) Act 2012, the Court makes an order varying an agreement (in this subsection referred to as a ‘variation order’) the Court shall forward a copy of the variation order to the Minister.
+(11) (a) Where, after the commencement of Part 2 of the Industrial Relations (Amendment) Act 2012, the Court makes an order varying an agreement (in this subsection referred to as a "variation order") the Court shall forward a copy of the variation order to the Minister.
 
 (b) As soon as practicable after receipt of a copy of a variation order, the Minister shall, where he or she is satisfied that this section has been complied with, and where he or she considers it appropriate to do so, by order confirm the terms of the variation order, and the order shall have effect from such date (on or after the date of the order) as the Minister shall specify in the order.
 

@@ -18,9 +18,9 @@ Establishment of the Labour Court.
 
 (4) (a) The Minister shall—
 
-(i) in respect of each workers’ member, designate an organisation (in this section referred to as a ‘designated body’) representative of trade unions of workers to nominate persons for the purposes of this section, and
+(i) in respect of each workers’ member, designate an organisation (in this section referred to as a "designated body") representative of trade unions of workers to nominate persons for the purposes of this section, and
 
-(ii) in respect of each employers’ member, designate a trade union (in this section also referred to as a ‘designated body’) of employers to nominate persons for the purposes of this section, and each such designated body shall nominate 3 persons for those purposes.
+(ii) in respect of each employers’ member, designate a trade union (in this section also referred to as a "designated body") of employers to nominate persons for the purposes of this section, and each such designated body shall nominate 3 persons for those purposes.
 
 (b) The Minister shall—
 
