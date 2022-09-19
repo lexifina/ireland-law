@@ -1,0 +1,3 @@
+Payment of compensation by Minister.
+
+71L. ...

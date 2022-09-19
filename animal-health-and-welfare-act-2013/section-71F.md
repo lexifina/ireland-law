@@ -1,0 +1,3 @@
+Assignment of application to assessor.
+
+71F. …
