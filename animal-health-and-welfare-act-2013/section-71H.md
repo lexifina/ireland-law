@@ -1,0 +1,3 @@
+Failure by applicant to cooperate.
+
+71H. ...

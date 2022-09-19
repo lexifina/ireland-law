@@ -1,0 +1,3 @@
+Appointment of assessor.
+
+71E. ...
