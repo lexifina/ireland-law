@@ -22,7 +22,7 @@ Interpretation.
 
 “Assessor” has the meaning given by section 36;
 
-‘authorised credit institution’ means a credit union;
+"authorised credit institution" means a credit union;
 
 “Bank” means the Central Bank of Ireland;
 
@@ -42,11 +42,11 @@ Interpretation.
 
 “Court” means the High Court;
 
-‘credit institution’ means a credit union;
+"credit institution" means a credit union;
 
 “credit union” means a society registered as such under the Credit Union Act 1997, including a society deemed to be so registered by virtue of section 5(3) of that Act;
 
-‘designated credit institution’ means—
+"designated credit institution" means—
 
 (a) a bank authorised (or deemed to be authorised by the European Central Bank on application therefor) under section 9 of the Act of 1971,
 
@@ -94,7 +94,7 @@ Interpretation.
 
 “Minister” means the Minister for Finance;
 
-‘recognised credit institution’ means a person authorised in the State to accept deposits or other repayable funds from the public and to grant credit on its own account;
+"recognised credit institution" means a person authorised in the State to accept deposits or other repayable funds from the public and to grant credit on its own account;
 
 “regulated market” has the same meaning as in the European Communities (Markets in Financial Instruments) Regulations 2007 (S.I. No. 60 of 2007);
 
