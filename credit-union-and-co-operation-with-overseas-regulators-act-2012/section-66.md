@@ -1,8 +1,6 @@
 Stabilisation Committee.
 
-66.— (1) On the appointed day there shall stand established by the Minister a body known as the Credit Union Stabilisation Committee (in this Part referred to as the
-
-“Stabilisation Committee”) which shall exercise the functions assigned to it by this section.
+66.— (1) On the appointed day there shall stand established by the Minister a body known as the Credit Union Stabilisation Committee (in this Part referred to as the “Stabilisation Committee”) which shall exercise the functions assigned to it by this section.
 
 (2) The Stabilisation Committee shall examine the implementation by the Bank of the Bank’s requirements and procedures in relation to its functions under this Part and the exercise of those functions by the Bank. Where after such examination the Stabilisation Committee forms a conclusion on any matter, it shall forward it in writing to the Minister and the Bank.
 
