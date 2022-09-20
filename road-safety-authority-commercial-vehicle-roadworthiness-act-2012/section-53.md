@@ -1,3 +1,3 @@
-Amendment of section 5 of Act of 2006.
+Amendment of section 5 of Act of 2006. (Repealed)
 
 53.— ...
