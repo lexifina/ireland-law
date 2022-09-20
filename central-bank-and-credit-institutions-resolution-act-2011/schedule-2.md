@@ -380,9 +380,9 @@ After paragraph (g), insert:
 
 (ii) a requirement as to the composition of the assets or liabilities of the relevant institution as specified by the Bank under section 23A of that Act.”.
 
-53 Section 50 After subsection (2), insert:
+53 Section 50 After subsection (2), insert: 54 Section 52 Insert “or requirement imposed under section 50” after “Act”.
 
-54 Section 52 Insert “or requirement imposed under section 50” after “Act”. 55 New section After section 52, insert the following:
+55 New section After section 52, insert the following:
 
 52A.—Where the Courts Service, or another body funded, wholly or partly,
 

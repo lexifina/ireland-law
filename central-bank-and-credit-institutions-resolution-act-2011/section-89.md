@@ -8,7 +8,9 @@ Section 2(1) After the definition of “Act of 2003”, insert:
 
 Section 2(1) After the definition of “auditor” insert:
 
-Section 2(1) Before the definition of “book and paper” insert: Section 217 Insert “or the Bank” after “any creditor or contributory”.
+Section 2(1) Before the definition of “book and paper” insert:
+
+Section 217 Insert “or the Bank” after “any creditor or contributory”.
 
 Section 223 Delete.
 
