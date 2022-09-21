@@ -1,4 +1,4 @@
-F149[Regulations to give full effect to this Part
+F155[Regulations to give full effect to this Part.
 
 75B. (1) The Minister may, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, and having regard to the matters specified in section 75A(3), make regulations for the purposes of giving full effect to this Part and such regulations may, in particular, but without prejudice to the generality of the foregoing, provide for all or any of the following:
 

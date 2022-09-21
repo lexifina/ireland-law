@@ -1,4 +1,4 @@
-F109[General practitioner medical and surgical service for persons under 6 years of age
+F113[General practitioner medical and surgical service for persons under 6 years of age.
 
 58B. (1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is ordinarily resident in the State and has not attained the age of six years.
 
