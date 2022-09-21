@@ -16,7 +16,7 @@ F89[Charges for acute in-patient services.
 
 (5) Where in regulations made pursuant to subsection (3)(b) the Minister specifies the maximum number of days in respect of which charges are to be imposed, that maximum period shall not be fewer than 7 days and not be greater than 15 days.
 
-(6) In this section ‘average daily cost of providing acute in-patient services to a patient’ means the amount most recently certified by the chief executive officer of the Health Service Executive to the Minister as being the average daily cost of providing acute in-patient services to a patient determined by establishing the total cost of acute in-patient services over a period of 12 months provided by—
+(6) In this section "average daily cost of providing acute in-patient services to a patient" means the amount most recently certified by the chief executive officer of the Health Service Executive to the Minister as being the average daily cost of providing acute in-patient services to a patient determined by establishing the total cost of acute in-patient services over a period of 12 months provided by—
 
 (a) the Health Service Executive under sections 52 and 55, and
 
@@ -38,19 +38,23 @@ F89[Charges for acute in-patient services.
 
 (ii) where the person is otherwise discharged as a patient from the hospital.
 
-(8) In determining whether or not a person is required to pay a charge under this section by reference to the number of days in respect of which charges have been imposed on that person in the period (the ‘relevant period’) specified in the regulations made pursuant to subsection (3)(b), account shall be taken of any day in respect of which charges were imposed on that person pursuant to section 53 (other than in respect of services referred to in section 53(6)) within the relevant period.
+(8) In determining whether or not a person is required to pay a charge under this section by reference to the number of days in respect of which charges have been imposed on that person in the period (the "relevant period") specified in the regulations made pursuant to subsection (3)(b), account shall be taken of any day in respect of which charges were imposed on that person pursuant to section 53 (other than in respect of services referred to in section 53(6)) within the relevant period.
 
 (9) A person shall not be required to pay a charge under this section where the person is—
 
 (a) a person with full eligibility,
 
+(aa) a person in respect of whom a charge is made under section 55 in respect of in-patient services that constitute acute in-patient services,
+
 (b) a woman receiving services in respect of motherhood,
 
 (ba) a woman receiving services for the purpose of a termination of pregnancy in accordance with section 9, 10, 11 or 12 of the Health (Regulation of Termination of Pregnancy) Act 2018,
 
-(c) a child who is not more than six weeks of age,
+(bb) a person who is ordinarily resident in the State and has not attained the age of 16 years,
 
-(d) a child receiving services in respect of a defect identified at a health examination held pursuant to the service provided under section 66,
+(c) without prejudice to the generality of paragraph (bb), a child who is not more than six weeks of age,
+
+(d) without prejudice to the generality of paragraph (bb), a child receiving services in respect of a defect identified at a health examination held pursuant to the service provided under section 66,
 
 (e) a person receiving services for the diagnosis or treatment of infectious diseases prescribed under Part IV of the Health Act 1947,
 
