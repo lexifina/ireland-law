@@ -1,4 +1,4 @@
-F178[Inspection by authorised persons.
+F183[Inspection by authorised persons.
 
 23T.—(1) Where the Child and Family Agency has received a notice in accordance with section 23P in respect of a private foster care arrangement, an authorised officer may at all reasonable times enter any premises (including a private dwelling) in which the child concerned is residing.
 

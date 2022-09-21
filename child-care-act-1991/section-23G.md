@@ -1,4 +1,4 @@
-F113[ Notice of application for special care order or interim special care order.
+F114[Notice of application for special care order or interim special care order.
 
 23G.— (1) An application for a special care order or an interim special care order shall, subject to subsection (6) and section 23L(3), be made on notice to—
 

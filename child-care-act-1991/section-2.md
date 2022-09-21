@@ -71,3 +71,5 @@ Interpretation.
 (b) a reference to a subsection, paragraph or subparagraph is to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended;
 
 (c) a reference to any other enactment shall, unless the context otherwise requires, be construed as a reference to that enactment as amended or extended by or under any other enactment, including this Act.
+
+O.J. No. L. 119, 4.5.2016, p. 1

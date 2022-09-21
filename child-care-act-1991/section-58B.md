@@ -1,4 +1,4 @@
-F299[Regulations
+F333[Regulations
 
 58B.—(1) The Minister shall, after consultation with the Minister for Education and Skills and the Minister for the Environment, Community and Local Government, make regulations for the purpose of securing the health, safety and welfare and promoting the development of children attending early years services.
 
