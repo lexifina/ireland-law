@@ -14,7 +14,9 @@ Full eligibility.
 
 (ii) if the death occurred on or after 1 January 2009, and
 
-(iii) for a period of 3 years after the death, so long as their gross income does not exceed the gross income limit set out in paragraph (b) of subsection (2) during that period; and (c) dependants of the persons referred to in paragraph (a) or section 45(5A).
+(iii) for a period of 3 years after the death, so long as their gross income does not exceed the gross income limit set out in paragraph (b) of subsection (2) during that period; and
+
+(c) dependants of the persons referred to in paragraph (a) or section 45(5A).
 
 (1A) Where—
 
@@ -102,4 +104,4 @@ Full eligibility.
 
 "civil partner" has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
-"relevant date" means the date on which section 2 of the Health (General Practitioner Service and Alteration of Criteria for Eligibility) Act 2020 comes into operation.
+"relevant date" means the date on which section 2 of the Health (General Practitioner Service and Alteration of Criteria for Eligibility) Act 2020 comes into operation. shall, subject to section 52(3), have limited eligibility for the services under this Part.
