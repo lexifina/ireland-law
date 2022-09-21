@@ -50,7 +50,7 @@ Determination by Health Service Executive that child requires special care.
 
 (7) Where a family welfare conference—
 
-(a) has been convened in accordance with subsection (5) and theChild and Family Agency has had regard to the recommendations, if any, notified under section 12 of the Act of 2001, or
+(a) has been convened in accordance with subsection (5) and the Child and Family Agency has had regard to the recommendations, if any, notified under section 12 of the Act of 2001, or
 
 (b) has not been convened in accordance with subsection (6), and the Child and Family Agency is satisfied that there is reasonable cause to believe that the child requires special care it shall make a determination as to whether the child requires special care.
 

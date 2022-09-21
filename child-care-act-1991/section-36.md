@@ -12,7 +12,7 @@ Accommodation and maintenance of children in care.
 
 (d) by making such other suitable arrangements (which may include placing the child with a relative) as the Agency thinks proper.
 
-(2) In this Act, “foster parent” means a person other than a relative of a child who is taking care of the child on behalf of the Child and Family Agency in accordance with regulations made under section 39 and“foster care“shall be construed accordingly.
+(2) In this Act, “foster parent” means a person other than a relative of a child who is taking care of the child on behalf of the Child and Family Agency in accordance with regulations made under section 39 and “foster care“shall be construed accordingly.
 
 (3) Nothing in this section shall prevent the Child and Family Agency sending a child in its care to any hospital or to any institution which provides nursing or care for children suffering from physical or mental disability.
 
