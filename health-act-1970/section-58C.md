@@ -1,4 +1,4 @@
-F113[Agreement for provision of service under section 58B
+F117[Agreement for provision of service under section 58B.
 
 58C. (1) The Health Service Executive may, subject to this section, enter, on such terms and conditions as it considers appropriate, into an agreement with a relevant medical practitioner for the provision by him or her of relevant services to eligible persons.
 
@@ -18,7 +18,7 @@ F113[Agreement for provision of service under section 58B
 
 (7) Regulations made under subsection (3) shall prescribe amounts or rates that the Minister considers to be fair and reasonable having regard to the matters the Minister considers appropriate, including either or both of the following:
 
-(a) any submissions made and views expressed during the consultations under subsection (5) ;
+(a) any submissions made and views expressed during the consultations under subsection (5);
 
 (b) the nature of the services concerned and the general nature of expenses and commitments of the relevant medical practitioners providing those services.
 
@@ -32,7 +32,7 @@ F113[Agreement for provision of service under section 58B
 
 (11) (a) Notwithstanding subsection (1), the Health Service Executive may, during the period that begins on the date on which this section comes into operation and ends six months after that date, enter into an agreement referred to in that subsection with a registered medical practitioner who is not a relevant medical practitioner, where that registered medical practitioner, at the time the agreement is entered into, is party to an agreement with the Health Service Executive to provide one or more services which may be provided, under the General Medical Services Scheme, to a person entitled under section 58 to have those services made available to him or her.
 
-(b) A reference in this section (other than in paragraph (a) ) to a relevant medical practitioner shall be deemed to include a reference to a registered medical practitioner who has, in accordance with paragraph (a), entered into an agreement referred to in subsection (1).
+(b) A reference in this section (other than in paragraph (a)) to a relevant medical practitioner shall be deemed to include a reference to a registered medical practitioner who has, in accordance with paragraph (a), entered into an agreement referred to in subsection (1).
 
 (12) In this section—
 
@@ -44,7 +44,7 @@ F113[Agreement for provision of service under section 58B
 
 "relevant medical practitioner", subject to subsection (11), means a registered medical practitioner—
 
-(a) whose name is included in the Specialist Division of the register of medical practitioners established under section 43(2) (b) of the Medical Practitioners Act 2007, and
+(a) whose name is included in the Specialist Division of the register of medical practitioners established under section 43(2)(b) of the Medical Practitioners Act 2007, and
 
 (b) who holds a current certificate of registration within the meaning of section 2 of that Act in respect of the medical speciality “General Practice” recognised under section 89(1) of that Act;
 
@@ -60,4 +60,4 @@ F113[Agreement for provision of service under section 58B
 
 (d) require any general practitioner to receive prior approval from the Health Service Executive, or the Department of Health, for any public statement they wish to make;
 
-(e) require any general practitioner to dilute their natural rights to freedom of expression implicit in article 40.3.1º;, of Bunreacht na hÉireann and explicit in article 10.1 in the European Convention on Human Rights.
+(e) require any general practitioner to dilute their natural rights to freedom of expression implicit in article 40.3.1º of Bunreacht na hÉireann and explicit in article 10.1 in the European Convention on Human Rights.

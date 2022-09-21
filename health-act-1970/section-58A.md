@@ -1,4 +1,4 @@
-F107[General practitioner medical and surgical service for certain persons over 70 years of age.
+F111[General practitioner medical and surgical service for certain persons over 70 years of age.
 
 58A.— (1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is ordinarily resident in the State in one of the following categories—
 
@@ -74,4 +74,4 @@ F107[General practitioner medical and surgical service for certain persons over 
 
 (9) Insofar as it is considered practicable by the Health Service Executive, a choice of medical practitioner shall be offered under the general practitioner medical and surgical service made available under this section.
 
-(10) In this section ‘civil partner’ has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010.
+(10) In this section "civil partner" has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010.
