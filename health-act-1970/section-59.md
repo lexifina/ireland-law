@@ -18,7 +18,7 @@ Drugs, medicines and appliances.
 
 (a) children who are in the care of the Health Service Executive under the Child Care Acts 1991 to 2007;
 
-(b) persons to whom are supplied specified controlled drugs, within the meaning of the Misuse of Drugs (Supervision of Prescription andSupply of Methadone) Regulations 1998 or such other regulations as may be made by the Minister under section 5 of the Misuse of Drugs Act 1977 for the purpose of preventing the misuse of controlled drugs, in respect of those specified controlled drugs;
+(b) persons to whom are supplied specified controlled drugs, within the meaning of the Misuse of Drugs (Supervision of Prescription and Supply of Methadone) Regulations 1998 or such other regulations as may be made by the Minister under section 5 of the Misuse of Drugs Act 1977 for the purpose of preventing the misuse of controlled drugs, in respect of those specified controlled drugs;
 
 (c) persons who are of a class specified by the Minister in regulations made under this section.
 
@@ -26,9 +26,9 @@ Drugs, medicines and appliances.
 
 (1E) In subsections (1A) to (1D)—
 
-" community pharmacy contractor " means a registered pharmacist, company or other body corporate that provides services to the Health Service Executive under an agreement made in accordance with conditions specified by the Minister in 1971 or 1996, as amended from time to time, for the provision of community pharmacy services to eligible persons under subsection (1);
+"community pharmacy contractor" means a registered pharmacist, company or other body corporate that provides services to the Health Service Executive under an agreement made in accordance with conditions specified by the Minister in 1971 or 1996, as amended from time to time, for the provision of community pharmacy services to eligible persons under subsection (1);
 
-" dependant ", in relation to a person with full eligibility, includes an adult person with full eligibility, so long as that adult person is under the age of 21 years and receiving full time education and is wholly or mainly maintained by the first-mentioned person.
+"dependant", in relation to a person with full eligibility, includes an adult person with full eligibility, so long as that adult person is under the age of 21 years and receiving full time education and is wholly or mainly maintained by the first-mentioned person.
 
 (2) When a person with limited eligibility, or a person with full eligibility who does not avail himself of the service under subsection (1), satisfies the chief effective officer of the health board that, in respect of a prescribed period and to a prescribed amount, he has incurred expenditure on drugs, medicines and medical and surgical appliances , for the time being on the Reimbursement List within the meaning of section 2(1) of the Health (Pricing and Supply of Medical Goods) Act 2013, which were obtained on the prescription of a registered medical practitioner , or on the prescription of a registered nurse (being a person whose name is entered in the register of nurses maintained under section 27 of the Nurses Act 1985) entitled pursuant to any enactment to prescribe the drugs, medicines or medical or surgical appliances so obtained, and were for the treatment of that person or his dependants, the health board shall make arrangements to meet the balance of the cost, or a proportion thereof (as may be prescribed) of the person's being supplied in respect of that period with such drugs, medicines and medical and surgical appliances.
 

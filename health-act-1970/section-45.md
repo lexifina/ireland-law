@@ -14,7 +14,7 @@ Full eligibility.
 
 (4) A draft of regulations which it is proposed to make under this section shall be laid before each House of the Oireachtas and the regulations shall not be made until a resolution approving of the draft has been passed by each House.
 
-(5) Section 5 (5) of the Health Act, 1947, shall not apply to regulations under this section.
+(5) Section 5(5) of the Health Act, 1947, shall not apply to regulations under this section.
 
 (5A) Notwithstanding any other enactment, with effect from 2 March 2009 a person also shall have full eligibility for the services under this Part if the person attained the age of 70 years before 1 January 2009 and is ordinarily resident in the State, so long as the person’s gross income does not exceed the relevant gross income limit under section 45A.
 

@@ -6,4 +6,4 @@ Provision of in-patient services.
 
 (2) ...
 
-(3) Where, in respect of in-patient services, a person with full eligibility or limited eligibility for such services does not avail of or waives his or her right to avail of, some part of those services but instead avails of like services not provided under section 52 (1), then the person shall, while being maintained for the said in-patient services, be deemed not to have full eligibility or limited eligibility, as the case may be, for those in-patient services.
+(3) Where, in respect of in-patient services, a person with full eligibility or limited eligibility for such services does not avail of or waives his or her right to avail of, some part of those services but instead avails of like services not provided under section 52(1), then the person shall, while being maintained for the said in-patient services, be deemed not to have full eligibility or limited eligibility, as the case may be, for those in-patient services.
