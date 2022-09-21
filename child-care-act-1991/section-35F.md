@@ -1,0 +1,3 @@
+Powers of guardians ad litem appointed under section 35C.
+
+35F.— ...

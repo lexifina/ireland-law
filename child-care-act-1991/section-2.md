@@ -71,3 +71,11 @@ Interpretation.
 (b) a reference to a subsection, paragraph or subparagraph is to the subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended;
 
 (c) a reference to any other enactment shall, unless the context otherwise requires, be construed as a reference to that enactment as amended or extended by or under any other enactment, including this Act.
+
+O.J. No. L. 119, 4.5.2016, p. 1
+
+(e) a children detention school as defined in section 3 of the Children Act 2001;
+
+...
+
+(3) For the purposes of the definition of "children’s residential centre" in subsection (1), "institution" means a home, centre or institution or part of a home, centre or institution.
