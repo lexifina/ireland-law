@@ -34,9 +34,7 @@ Declarations by registrants in relation to certain matters in State or other jur
 
 (i) the abandonment or withdrawal of the appeal, or
 
-(ii) the determination of the appeal, whichever first occurs;
-
-‘relevant proceedings’, in relation to a registrant, means any disciplinary or judicial proceedings (other than any such proceedings under this Act), in respect of which the registrant is the subject—
+(ii) the determination of the appeal, whichever first occurs; ‘relevant proceedings’, in relation to a registrant, means any disciplinary or judicial proceedings (other than any such proceedings under this Act), in respect of which the registrant is the subject—
 
 (a) in the State or another jurisdiction which may directly or indirectly result in the registrant—
 
