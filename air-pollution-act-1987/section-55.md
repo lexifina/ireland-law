@@ -1,0 +1,7 @@
+Power of court to authorise works.
+
+55. — (1) If the occupier of any premises is unable, without the consent of some other person, to carry out works which he is required to carry out in order to comply with the provisions of this Act, and such other person withholds his consent to the carrying out of the works, the occupier may apply to the District Court for an order under this section.
+
+(2) If, on the hearing of an application under subsection (1), the District Court determines that the consent of the other person has been unreasonably withheld, the District Court may, in its discretion, deem the consent to have been given and direct the occupier of the premises to carry out the works.
+
+(3) If the occupier of any premises is required to carry out, pursuant to this Act, works on the premises, and such occupier considers that the cost of such works should be borne, in whole or in part, by the owner of the premises or some other person who has an interest therein, or by the owner or occupier of an adjoining premises, he may apply to a court of competent jurisdiction for an order directing that the whole, or such part as may be specified in the order, of the cost of the works be borne by, as the case may be, the owner of the premises, the other person interested therein or the owner or occupier of the adjoining premises; and the court shall make such order on the hearing of the application as it considers just having regard to all the circumstances of the case.
