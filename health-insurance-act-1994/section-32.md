@@ -1,0 +1,5 @@
+Accounts and audits of Authority.
+
+32. — (1) The Authority shall, in addition to any account kept by it under the Risk Equalisation Scheme, keep in such form as may be approved by the Minister with the concurrence of the Minister for Finance all proper and usual accounts of all moneys received or expended by it including an income and expenditure account and balance sheet and, in particular, shall keep all such special accounts as the Minister may direct.
+
+(2) Accounts kept in pursuance of this section shall be submitted as soon as may be after the end of the financial year of the Authority to which they relate to the Comptroller and Auditor General for audit and a copy of the income and expenditure account and of the balance sheet and of such other (if any) of its accounts as the Minister may direct and a copy of the Comptroller and Auditor General's report on the accounts shall be furnished to the Minister as soon as may be and the Minister shall cause copies of each of the documents aforesaid to be laid before each House of the Oireachtas.
