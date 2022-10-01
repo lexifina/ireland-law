@@ -4,11 +4,27 @@ Appropriate Assessment of certain development carried out by or on behalf of loc
 
 (a) by a local authority that is a planning authority, whether in its capacity as a planning authority or in any other capacity, or
 
-(b) by some other person on behalf of, or jointly or in partnership with, such a local authority, pursuant to a contract entered into by that local authority whether in its capacity as a planning authority or in any other capacity, within the functional area of the local authority concerned, or on the foreshore, (hereinafter in this section referred to as “proposed development”), the local authority shall prepare, or cause to be prepared, a Natura impact statement in respect thereof.
+(b) by some other person on behalf of, or jointly or in partnership with, such a local authority, pursuant to a contract entered into by that local authority whether in its capacity as a planning authority or in any other capacity, within the functional area of the local authority concerned ..., (hereinafter in this section referred to as “proposed development”), the local authority shall prepare, or cause to be prepared, a Natura impact statement in respect thereof.
 
 (2) Proposed development in respect of which an appropriate assessment is required shall not be carried out unless the Board has approved it with or without modifications.
 
 (3) Where a Natura impact statement has been prepared pursuant to subsection (1), the local authority shall apply to the Board for approval and the provisions of Part XAB shall apply to the carrying out of the appropriate assessment.
+
+(3A) A local authority shall not be eligible to make an application under subsection (3) in relation to proposed development in the maritime area, unless it—
+
+(a) is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
+
+(b) is the owner of land on which it is proposed to carry out the development concerned, or
+
+(c) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned.
+
+(3B) The Board shall neither consider an application for permission under subsection (3) in relation to proposed development in the maritime area nor grant approval for such development under subparagraph (i), (ii) or (iii) of paragraph (a) of subsection (8), unless the applicant for such approval—
+
+(a) is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
+
+(b) is the owner of land on which it is proposed to carry out the development concerned, or
+
+(c) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned.
 
 (4) Before a local authority makes an application for approval under subsection (3), it shall—
 

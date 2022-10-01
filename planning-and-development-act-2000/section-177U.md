@@ -46,9 +46,11 @@ Screening for appropriate assessment.
 
 (f) approval for development under section 43 of the Act of 2001,
 
-(g) approval for development under section 51 of the Roads Act 1993, or
+(g) approval for development under section 51 of the Roads Act 1993, ...
 
-(h) a substitute consent under Part XA.
+(h) a substitute consent under Part XA, or
+
+(i) a decision to make a requested alteration under subsection (2) of section 297.
 
 (9) In deciding upon a declaration or a referral under section 5 of this Act a planning authority or the Board, as the case may be, shall where appropriate, conduct a screening for appropriate assessment in accordance with the provisions of this section.
 
