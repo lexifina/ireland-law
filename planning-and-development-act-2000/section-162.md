@@ -2,7 +2,7 @@ Evidence of permission.
 
 162.—(1) In any proceedings for an offence under this Act, the onus of proving the existence of—
 
-(a) any permission granted under Part III,
+(a) any permission granted under Part III or section 293,
 
 (b) any certificate issued by the Custom House Docks Development Authority under section 12(6)(b) of the Urban Renewal Act 1986, or
 

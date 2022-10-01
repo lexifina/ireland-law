@@ -10,6 +10,8 @@ Service of notices, etc.
 
 (d) where the address at which he or she ordinarily resides cannot be ascertained by reasonable inquiry and the notice or copy is so required or authorised to be given or served in respect of any land or premises, by delivering it to some person over the age of 16 years resident or employed on the land or premises or by affixing it in a conspicuous place on or near the land or premises;
 
+(dd) where the address at which he or she ordinarily resides cannot be ascertained by reasonable inquiry and the notice or copy is so required or authorised to be given or served in respect of any maritime site, by publishing the notice or copy on 7 consecutive days in a national newspaper;
+
 (e) in addition to the methods of service provided for in paragraphs (a), (b), (c) and (d), by delivering it (in the case of an enforcement notice) to some person over the age of 16 years who is employed, or otherwise engaged, in connection with the carrying out of the development to which the notice relates, or by affixing it in a conspicuous place on the land or premises concerned.
 
 (2) Where a notice or copy of an order is required by this Act or any order or regulation made under this Act to be served on or given to the owner or to the occupier of any land or premises and the name of the owner or of the occupier cannot be ascertained by reasonable inquiry, it may be addressed to “the owner” or “the occupier”, as the case may require, without naming him or her.

@@ -32,11 +32,19 @@ Injunctions in relation to unauthorised development.
 
 (e) In this subsection "market value" means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.
 
+(5A) (a) An application under this section to the Circuit Court shall, in respect of development situated wholly or partly in the nearshore area of a coastal planning authority, be made to the judge of the Circuit Court for the circuit in which the functional area (other than the nearshore area) of that coastal planning authority is situated.
+
+(b) The Circuit Court shall have jurisdiction to hear and determine an application under this section in relation to a development referred to in paragraph (a) where the aggregate amount of the levy or levies payable under Chapter 7 of Part 4 of the Maritime Area Planning Act 2021 in respect of the maritime area consent granted to the person who carried out the development does not exceed €500,000.
+
+(5B) (a) An application under this section, in respect of development situated wholly or partly in the nearshore area of a coastal planning authority, shall be made to the High Court if that development was carried out by or on behalf of a person who at the time of the carrying out of the development was not the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development.
+
+(b) An application under this section, in respect of development situated wholly in the outer maritime area, shall be made to the High Court.
+
 (6) (a) An application to the High Court or Circuit Court for an order under this section shall not be made—
 
 (i) in respect of a development where no permission has been granted, after the expiration of a period of 7 years from the date of the commencement of the development, ...
 
-(ii) in respect of a development for which permission has been granted under Part III, after the expiration of a period of 7 years beginning on the expiration, as respects the permission authorising the development, of the appropriate period (within the meaning of section 40) or, as the case may be, of the appropriate period as extended under section 42, or
+(ii) in respect of a development for which permission has been granted under Part III or section 293, after the expiration of a period of 7 years beginning on the expiration, as respects the permission authorising the development, of the appropriate period (within the meaning of section 40) or, as the case may be, of the appropriate period as extended under section 42, or
 
 (iii) in respect of a development in respect of which a certificate has been issued by the Dublin Docklands Development Authority under section 25(7)(a)(ii) of the Dublin Docklands Development Authority Act 1997 or by the Custom House Docks Development Authority under section 12(6)(b) of the Urban Renewal Act 1986, after the expiration of a period of 7 years beginning on the date the certificate ceases to have effect in accordance with Part 4 of the Dublin Docklands Development Authority (Dissolution) Act 2015.
 

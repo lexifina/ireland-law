@@ -1,6 +1,6 @@
 Limit of duration of permission.
 
-40.—(1) Subject to subsection (2), a permission granted under this Part, shall on the expiration of the appropriate period (but without prejudice to the validity of anything done pursuant thereto prior to the expiration of that period) cease to have effect as regards—
+40.—(1) Subject to subsection (2), a permission granted under this Part or Part XXI, shall on the expiration of the appropriate period (but without prejudice to the validity of anything done pursuant thereto prior to the expiration of that period) cease to have effect as regards—
 
 (a) in case the development to which the permission relates is not commenced during that period, the entire development, and
 

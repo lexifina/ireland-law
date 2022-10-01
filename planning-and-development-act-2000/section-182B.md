@@ -88,7 +88,9 @@ Section 182A: criteria for decision, certain exemptions, etc.
 
 (10) In considering under subsection (1) information furnished relating to the likely consequences for proper planning and sustainable development of a proposed development in the area in which it is proposed to situate such development, the Board shall have regard to—
 
-(a) the provisions of the development plan for the area,
+(a) in the case of proposed development on land or partly on land and partly in the nearshore area of a coastal planning authority, the development plan for the area,
+
+(aa) in the case of proposed development wholly or partly in the maritime area, the National Marine Planning Framework,
 
 (b) the provisions of any special amenity area order relating to the area,
 
@@ -100,7 +102,7 @@ Section 182A: criteria for decision, certain exemptions, etc.
 
 (f) the provisions of this Act and regulations under this Act where relevant.
 
-(11) (a) No permission under section 34 or 37G shall be required for any development which is approved under this section.
+(11) (a) No permission under section 34, 37G or 293 shall be required for any development which is approved under this section.
 
 (b) Part VIII shall apply to any case where development referred to in section 182A(1) is carried out otherwise than in compliance with an approval under this section or any condition to which the approval is subject as it applies to any unauthorised development with the modification that a reference in that Part to a permission shall be construed as a reference to an approval under this section.
 

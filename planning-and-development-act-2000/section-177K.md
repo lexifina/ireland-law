@@ -1,6 +1,6 @@
 Decision of Board.
 
-177K.— (1) Where an application is made to the Board for substitute consent in accordance with this Act and regulations under this Act—
+177K.—(1) Where an application is made to the Board for substitute consent in accordance with this Act and regulations under this Act—
 
 (a) the Board shall ensure that it has, or has access to, sufficient expertise to enable it to examine the remedial environmental impact assessment report and ensure its adequacy, and
 
@@ -108,7 +108,7 @@ Decision of Board.
 
 (h) if the area or part of the area is a European site or an area prescribed for the purposes of section 10(2)(c), that fact;
 
-(i) conditions that may be imposed in relation to a grant of permission under section 34(4);
+(i) conditions that may be imposed in relation to a grant of permission under section 34(4), 282(3) or 293(7);
 
 (j) the matters referred to in section 143;
 
@@ -166,7 +166,7 @@ Decision of Board.
 
 (3) The conditions referred to in subsection (1) may include—
 
-(a) one or more than one condition referred to in section 34(4),
+(a) one or more than one condition referred to in section 34(4), 282(3) or 293(7), as may be appropriate,
 
 (b) a condition or conditions relating to remediation of all or part of the site on which the development the subject of the grant of substitute consent is situated,
 

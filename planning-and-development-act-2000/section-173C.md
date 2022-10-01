@@ -46,13 +46,17 @@ Environmental impact assessment relating to waste water discharges.
 
 (10) In this section –
 
-"permission" means –
+"permission" means—
 
-(a) permission under Part III,
+(a) permission for development under Part III,
 
-(b) approval for development under section 175, 177AE, 181B, 182B, 182D or 226, or
+(b) permission for development under section 293,
 
-(c) substitute consent under section 177K;
+(c) approval for development under section 175, 177AE, 181B, 182D or 226,
+
+(d) substitute consent under section 177K, or
+
+(e) the alteration of the terms of a permission for development in accordance with a decision under section 297;
 
 "Regulations of 2007" means the Waste Water Discharge (Authorisation) Regulations 2007 (S.I. No. 684 of 2007);
 

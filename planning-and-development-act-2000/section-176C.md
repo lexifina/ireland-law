@@ -48,9 +48,9 @@ Review of screening determination for environmental impact assessment and referr
 
 (ii) the planning authority,
 
-(iii) the owner of the land the subject of the proposed development, if he or she is not the applicant,
+(iii) the owner (if any) of the land the subject of the proposed development, if he or she is not the applicant,
 
-(iv) the occupier of the land the subject of the proposed development, if he or she is not the applicant or owner of such land, and
+(iv) the occupier (if any) of the land the subject of the proposed development, if he or she is not the applicant or owner of such land, and
 
 (v) any other person from whom further information was sought or any body which was consulted pursuant to section 176A(4), before the expiration of the period of 5 weeks or 4 weeks referred to in subsection (6)(a) or (b), as the case may be, inform him or her of the reasons why it would not be possible or appropriate to comply with that subsection within that period and shall specify the date before which the Board intends that the determination concerned shall be made.
 
@@ -72,7 +72,7 @@ Review of screening determination for environmental impact assessment and referr
 
 (c) any person or body consulted under section 176A(4),
 
-(d) where section 176A(5) applies, the owner, occupier or both the owner and the occupier, as appropriate in the circumstances, and
+(d) where subsection (5) of section 176A applies, the owner (if any) and the occupier (if any) of the land that is the subject of the proposed development, and
 
 (e) any other person, requested by the Board under subsection (6)(b) to provide further information with regard to the determination review or application referral, by issuing in writing to each of them a notice to that effect and the notice shall include the Board’s reasons for that decision.
 
@@ -104,9 +104,9 @@ Review of screening determination for environmental impact assessment and referr
 
 (I) the applicant,
 
-(II) the owner of the land the subject of the proposed development, if he or she is not the applicant,
+(II) the owner (if any) of the land the subject of the proposed development, if he or she is not the applicant,
 
-(III) the occupier of the land the subject of the proposed development, if he or she is not the applicant or owner of such land,
+(III) the occupier (if any) of the land the subject of the proposed development, if he or she is not the applicant or owner of such land,
 
 (IV) any other person from whom further information was sought or any body which was consulted pursuant to section 176A(4), and
 

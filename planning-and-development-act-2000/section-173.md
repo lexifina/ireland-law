@@ -1,6 +1,6 @@
 Permission for development requiring environmental impact assessment.
 
-173.—(1) In addition to the requirements of section 34(3), where an application in respect of which an environmental impact assessment report was submitted to the planning authority in accordance with section 172, the planning authority, and the Board on appeal, shall have regard to the report, any supplementary information furnished relating to the report and any submissions or observations furnished concerning the effects on the environment of the proposed development.
+173.—(1) In addition to the requirements of section 34(3) or Chapter III of Part XXI, where an application in respect of which an environmental impact assessment report was submitted to the planning authority in accordance with section 172, the planning authority, and the Board on appeal, shall have regard to the report, any supplementary information furnished relating to the report and any submissions or observations furnished concerning the effects on the environment of the proposed development.
 
 (2) (a)(i) Subparagraph (ii) applies where an applicant or a person intending to apply for permission requests the planning authority concerned to give him or her a written opinion on the scope and level of detail of the information required to be included in an environmental impact assessment report.
 

@@ -2,6 +2,8 @@ Prosecution of offences.
 
 157.—(1) Subject to section 149, summary proceedings for an offence under this Act may be brought and prosecuted by a planning authority whether or not the offence is committed in the authority’s functional area.
 
+(1A) Summary proceedings for an offence under this Part may be brought and prosecuted by the Maritime Area Regulatory Authority whether or not the offence is committed in the maritime area.
+
 (2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act, 1851, and subject to subsection (3) of this section, summary proceedings may be commenced—
 
 (a) at any time within 6 months from the date on which the offence was committed, or
@@ -14,7 +16,7 @@ Prosecution of offences.
 
 (i) in respect of a development where no permission has been granted, after seven years from the date of the commencement of the development,
 
-(ii) in respect of a development for which permission has been granted under Part III, after seven years beginning on the expiration, as respects the permission authorising the development, of the appropriate period within the meaning of section 40 or, as the case may be, of the period as extended under section 42,
+(ii) in respect of a development for which permission has been granted under Part III or section 293, after seven years beginning on the expiration, as respects the permission authorising the development, of the appropriate period within the meaning of section 40 or, as the case may be, of the period as extended under section 42,
 
 (iii) in respect of a development in respect of which a certificate has been issued by the Dublin Docklands Development Authority under section 25(7)(a)(ii) of the Dublin Docklands Development Authority Act 1997 or by the Custom House Docks Development Authority under section 12(6)(b) of the Urban Renewal Act 1986, after seven years beginning on the date the certificate ceases to have effect in accordance with Part 4 of the Dublin Docklands Development Authority (Dissolution) Act 2015.
 

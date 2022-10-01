@@ -8,7 +8,23 @@ Environmental impact assessment of certain development carried out by or on beha
 
 (2) Proposed development in respect of which an environmental impact assessment report has been prepared in accordance with subsection (1) shall not be carried out unless the Board has approved it with or without modifications.
 
-(3) Where an environmental impact assessment report has been prepared pursuant to subsection (1), the local authority shall apply to the Board for approval.
+(3) Subject to subsection (3A), where an environmental impact assessment report has been prepared in accordance with subsection (1), the local authority shall apply to the Board for approval of the proposed development to which the report relates.
+
+(3A) A local authority shall not be eligible to make an application under subsection (3) in relation to proposed development in the maritime area unless it—
+
+(a) is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
+
+(b) is the owner of land on which it is proposed to carry out the development concerned, or
+
+(c) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned.
+
+(3B) The Board shall neither consider an application under subsection (3) in relation to proposed development in the maritime area nor grant approval for such development under subparagraph (i), (ii) or (iii) of paragraph (a) of subsection (9) unless the applicant for such approval—
+
+(a) is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
+
+(b) is the owner of land on which it is proposed to carry out the development concerned, or
+
+(c) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned.
 
 (4) Before a local authority makes an application for approval under subsection (3), it shall—
 
@@ -182,7 +198,9 @@ Environmental impact assessment of certain development carried out by or on beha
 
 (12) In considering under subsection (6) information furnished relating to the likely consequences for proper planning and sustainable development of a proposed development in the area in which it is proposed to situate such development, the Board shall have regard to—
 
-(a) the provisions of the development plan for the area,
+(a) in the case of an area other than a maritime site, the provisions of the development plan for the area,
+
+(aa) in the case of a maritime site, the matters to which the Board is required to have regard under subsection (3) of section 293 when making a decision in relation to an application under section 291,
 
 (b) the provisions of any special amenity area order relating to the area,
 

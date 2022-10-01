@@ -6,13 +6,19 @@ Education, training and research functions
 
 (i) the role of such authorities, assemblies and their members under the Planning and Development Acts 2000 to 2018, including ministerial guidelines and policy directives under Chapter IV of Part II,
 
+(ia) the role of such members, authorities and assemblies in relation to guidelines under section 7 of the Maritime Area Planning Act 2021 and directives under section 8 of that Act,
+
 (ii) such matters relating to proper planning and sustainable development as the Minister may request, and
 
 (iii) such other matters as the Office considers are of relevance to its functions, in particular, the functions relating to proper planning and sustainable development,
 
 (b) for members of the staff of local authorities or regional assemblies in respect of—
 
-(i) such matters relating to proper planning and sustainable development as the Minister may request, and
+(i) such matters as the Minister may specify relating to—
+
+(I) proper planning and sustainable development, and
+
+(II) maritime spatial planning, and
 
 (ii) such other matters as the Office considers are of relevance to its functions, in particular, the functions relating to proper planning and sustainable development.
 

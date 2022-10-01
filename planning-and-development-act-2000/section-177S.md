@@ -2,7 +2,7 @@ Competent Authority.
 
 177S.— (1) A competent authority, in performing the functions conferred on it by or under this Part, shall take appropriate steps to avoid in a European site the deterioration of natural habitats and the habitats of species as well as the disturbance of the species for which the site has been designated, insofar as such disturbance could be significant in relation to the objectives of the Habitats Directive.
 
-(2) The competent authority in the State for the purposes of this Part and Articles 6 and 7 of the Habitats Directive, shall be—
+(2) Subject to subsection (3), the competent authority in the State for the purposes of this Part and Articles 6 and 7 of the Habitats Directive, shall be—
 
 (a) in relation to draft regional spatial and economic strategy, the regional assembly for whose area the strategy is made,
 
@@ -22,8 +22,10 @@ Competent Authority.
 
 (g) in relation to proposed development that is strategic infrastructure development, the Board, or
 
-(h) in relation to proposed development that may be carried out by a local authority under Part X or Part XAB, proposed development that may be carried out under Part XI or proposed local authority development on the foreshore, the Board.
+(h) in relation to proposed development that may be carried out by a local authority under Part X or XAB or proposed development that may be carried out under Part XI, the Board.
 
 (2A) During the period beginning on the date on which section 8 of the Planning and Development (Amendment) Act 2021 comes into operation and ending on 31 December 2023, the competent authority in the State referred to in subsection (2) shall be construed and have effect as if the following paragraph were inserted after paragraph (h):
 
-‘(i) in relation to a proposed extension of the duration of an existing development plan, the planning authority for whose area the development plan is proposed to be extended in duration.’.
+"(i) in relation to a proposed extension of the duration of an existing development plan, the planning authority for whose area the development plan is proposed to be extended in duration.".
+
+(3) The competent authority in the State for the purposes of this Part and Articles 6 and 7 of the Habitats Directive, shall, in relation to proposed development to which Chapter III of Part XXI applies, be the Board.

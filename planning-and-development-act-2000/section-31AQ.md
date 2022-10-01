@@ -10,7 +10,7 @@ Evaluation and assessment by Office of matters relating to regional spatial and 
 
 (a) matters generally within the scope of section 23 and, in particular, subsection (2)(c)(viii) of that section in relation to climate change;
 
-(b) consistency with the regional spatial and economic strategies and the National Planning Framework (or, where appropriate, the National Spatial Strategy) and the long-term strategic planning framework for the development of the region or regions, as the case may be, in respect of which they are made, in accordance with the principles of proper planning and sustainable development;
+(b) consistency with the regional spatial and economic strategies and the National Planning Framework (or, where appropriate, the National Spatial Strategy) and the National Marine Planning Framework and the long-term strategic planning framework for the development of the region or regions, as the case may be, in respect of which they are made, in accordance with the principles of proper planning and sustainable development;
 
 (c) relevant guidelines for planning authorities made under section 28;
 

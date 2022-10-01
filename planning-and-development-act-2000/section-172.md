@@ -48,7 +48,9 @@ Requirement for environmental impact statement.
 
 (V) development under section 43 of the Act of 2001;
 
-(VI) development under section 51 of the Roads Act 1993; and
+(VI) development under section 51 of the Roads Act 1993; ...
+
+(VII) development to which Chapter III of Part XXI applies; and
 
 (ii) notwithstanding that development has been carried out, development in relation to which an application for substitute consent is required under Part XA;
 
@@ -112,7 +114,7 @@ Requirement for environmental impact statement.
 
 (a) the content of the decision and any conditions attached thereto;
 
-(b) an evaluation of the direct and indirect significant effects of the proposed development on the matters set out in paragraph (b) of the definition of ‘environmental impact assessment’ in section 171A;
+(b) an evaluation of the direct and indirect significant effects of the proposed development on the matters set out in paragraph (b) of the definition of "environmental impact assessment" in section 171A;
 
 (c) having examined any submission or observation validly made,
 

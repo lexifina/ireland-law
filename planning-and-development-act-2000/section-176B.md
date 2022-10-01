@@ -18,9 +18,9 @@ Screening for environmental impact assessment.
 
 (i) the applicant,
 
-(ii) the owner of the land the subject of the proposed development, if he or she is not the applicant,
+(ii) the owner (if any) of the land the subject of the proposed development, if he or she is not the applicant,
 
-(iii) the occupier of the land the subject of the proposed development, if he or she is not the applicant or owner of such land, and
+(iii) the occupier (if any) of the land the subject of the proposed development, if he or she is not the applicant or owner of such land, and
 
 (iv) any other person from whom further information was sought or any body which was consulted pursuant to section 176A(4), before the expiration of the period of 3 weeks or 4 weeks, referred to in subsection (2)(a) or (b), as the case may be, inform him or her of the reasons why it would not be possible or appropriate to comply with that subsection within that period and shall specify the date before which the authority intends that the screening determination for environmental impact assessment concerned shall be made.
 
@@ -48,7 +48,7 @@ Screening for environmental impact assessment.
 
 (b) any person or body consulted under section 176A(4), and
 
-(c) where section 176A(5) applies, the owner, the occupier, or both the owner and the occupier, as appropriate in the circumstances, and the notice shall include—
+(c) where subsection (5) of section 176A applies, the owner (if any) and the occupier (if any) of the land that is the subject of the proposed development, and the notice shall include—
 
 (i) the planning authority’s reasons for that determination, and
 
@@ -66,9 +66,9 @@ Screening for environmental impact assessment.
 
 (I) the applicant,
 
-(II) the owner of the land, where he or she is not the applicant,
+(II) the owner (if any) of the land, where he or she is not the applicant,
 
-(III) the occupier of the land, where he or she is not the applicant or the owner of the land, and
+(III) the occupier (if any) of the land, where he or she is not the applicant or the owner of the land, and
 
 (IV) any person or body consulted by the planning authority about the application,
 
@@ -86,9 +86,9 @@ Screening for environmental impact assessment.
 
 (I) the applicant,
 
-(II) the owner of the land the subject of the proposed development, if he or she is not the applicant,
+(II) the owner (if any) of the land the subject of the proposed development, if he or she is not the applicant,
 
-(III) the occupier of the land the subject of the proposed development, if he or she is not the applicant or owner of such land, and
+(III) the occupier (if any) of the land the subject of the proposed development, if he or she is not the applicant or owner of such land, and
 
 (IV) any other person from whom further information was sought or any body which was consulted pursuant to section 176A(4),
 

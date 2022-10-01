@@ -12,21 +12,29 @@ Environmental impact assessment and waste licences.
 
 (b) by the holder of the licence, for a review of a waste licence under section 46 of the Act of 1996;
 
-“application for permission” means—
+"application for permission" means—
 
 (a) an application for permission for development under Part III,
 
-(b) an application for approval for development under section 175, 177AE, 181A, 182A, 182C or 226, or
+(b) an application for permission for development under section 291,
 
-(c) an application for substitute consent under section 177E;
+(c) an application for approval for development under section 175, 177AE, 181A, 182A, 182C or 226,
 
-“grant of permission” means—
+(d) an application for substitute consent under section 177E, or
+
+(e) a request under section 297;
+
+"grant of permission" means—
 
 (a) a grant of permission for development under Part III,
 
-(b) an approval for development under section 175, 177AE, 181B, 182B, 182D or 226, or
+(b) a grant of permission for development under section 293,
 
-(c) a grant of substitute consent under section 177K.
+(c) an approval for development under section 175, 177AE, 181B, 182D, or 226,
+
+(d) a grant of substitute consent under section 177K, or
+
+(e) a decision under section 299 consisting of the grant of an alteration of the terms of a permission for development;
 
 (2) Where a planning authority or the Board is considering an application for permission and is requested by the applicant for a grant of permission to confirm in writing that the development the subject of the application for permission relates to an activity in respect of which a waste licence under Part V of the Act of 1996 is required, the planning authority or the Board shall, as soon as possible, confirm in writing that the development the subject of the application for permission so relates to the activity.
 

@@ -10,6 +10,8 @@ Appeals against conditions.
 
 (2) In exercising the power conferred on it by subsection (1), apart from considering the condition or conditions to which the relevant appeal relates, the Board shall be restricted to considering—
 
-(a) the matters set out in section 34(2)(a), and
+(a) the matters to which a planning authority shall have regard specified in paragraph (a) of subsection (2) of section 34,
+
+(aa) in the case of the appeal of a decision of a planning authority in respect of development to which Chapter II of Part XXI applies or proposed such development, the matters referred to in paragraph (a) and the matters to which a planning authority shall have regard specified in subsection (2) of section 282,
 
 (b) the terms of any previous permission considered by the Board to be relevant.

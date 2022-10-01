@@ -2,6 +2,14 @@ Electricity transmission lines.
 
 182A.— (1) Where a person (hereafter referred to in this section as the "undertaker") intends to carry out development comprising or for the purposes of electricity transmission, (hereafter referred to in this section and section 182B as "proposed development"), the undertaker shall prepare, or cause to be prepared, an application for approval of the development under section 182B and shall apply to the Board for such approval accordingly.
 
+(1A) An undertaker shall not be eligible to apply for approval referred to in subsection (1) for development in a maritime site and no such approval shall be given to him or her, unless he or she—
+
+(a) is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
+
+(b) is the owner of land on which it is proposed to carry out the development concerned, or
+
+(c) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned.
+
 (2) In the case of development referred to in subsection (1) which belongs to a class of development identified for the purposes of section 176, the undertaker shall prepare, or cause to be prepared, an environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, in respect of the development.
 
 (3) The proposed development shall not be carried out unless the Board has approved it with or without modifications.

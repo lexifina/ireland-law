@@ -1,6 +1,10 @@
 Development.
 
-3.—(1) In this Act, “development” means, except where the context otherwise requires, the carrying out of any works on, in, over or under land or the making of any material change in the use of any structures or other land.
+3.—(1) In this Act, except where the context otherwise requires, "development" means—
+
+(a) the carrying out of any works in, on, over or under land, or the making of any material change in the use of any land or structures situated on land, or
+
+(b) development within the meaning of Part XXI (inserted by section 171 of the Maritime Area Planning Act 2021).
 
 (2) For the purposes of subsection (1) and without prejudice to the generality of that subsection—
 

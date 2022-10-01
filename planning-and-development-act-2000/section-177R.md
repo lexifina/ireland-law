@@ -70,21 +70,25 @@ Interpretation.
 
 "proposed development" means—
 
-(a) a proposal to carry out one of the following:
+(a) a proposal to carry out—
 
 (i) development to which Part III applies,
 
 (ii) development that may be carried out under Part IX,
 
-(iii) development that may be carried out by a local authority under Part X or Part XAB or development that may be carried out under Part XI
+(iii) development that may be carried out by a local authority under Part X or XAB or development that may be carried out under Part XI,
 
 (iv) development on the foreshore under Part XV,
 
 (v) development under section 43 of the Act of 2001,
 
-(vi) development under section 51 of the Roads Act 1993; and
+(vi) development under section 51 of the Roads Act 1993, or
 
-(b) notwithstanding that the development has been carried out, development in relation to which an application for substitute consent is required under Part XA;
+(vii) development to which Chapter II or III of Part XXI applies,
+
+(b) notwithstanding that the development has been carried out, development in relation to which an application for substitute consent is required under Part XA, or
+
+(c) a requested alteration within the meaning of Chapter III of Part XXI;
 
 "road authority" has the same meaning as it has in section 2 (amended by section 11 of the Roads Act 2007) of the Roads Act 1993;
 
@@ -100,7 +104,9 @@ Interpretation.
 
 (1A) During the period beginning on the date on which section 8 of the Planning and Development (Amendment) Act 2021 comes into operation and ending on 31 December 2023—
 
-(a) the definition of "Land use plan" in subsection (1) shall be construed and have effect as if the following paragraph were inserted after paragraph (e): ‘(f) a proposed extension of the duration of an existing development plan;’, and
+(a) the definition of "Land use plan" in subsection (1) shall be construed and have effect as if the following paragraph were inserted after paragraph (e):
+
+"(f) a proposed extension of the duration of an existing development plan;", and
 
 (b) in this Part, a reference to "draft Land use plan" or "Land use plan" shall be construed and have effect as including a reference to a proposed extension of the duration of an existing development plan referred to in paragraph (f) of the definition of ‘Land use plan’ (inserted by section 8 of the Planning and Development (Amendment) Act 2021).
 

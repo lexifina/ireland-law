@@ -1,6 +1,6 @@
 Revocation or modification of permission.
 
-44.—(1) If the planning authority considers that it is expedient that any permission to develop land granted under this Part should be revoked or modified, it may serve a notice in accordance with subsection (3) on the applicant and on any other person who, in its opinion, will be materially affected by the revocation or modification.
+44.—(1) If the planning authority considers that it is expedient that any permission to develop land granted under this Part or Part XXI should be revoked or modified, it may serve a notice in accordance with subsection (3) on the applicant and on any other person who, in its opinion, will be materially affected by the revocation or modification.
 
 (2) A planning authority shall neither revoke nor modify a permission under this section unless the development to which the permission relates no longer conforms with the provisions of the development plan.
 

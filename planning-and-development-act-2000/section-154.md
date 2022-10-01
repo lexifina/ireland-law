@@ -16,7 +16,7 @@ Enforcement notice.
 
 (a) (i) in respect of a development where no permission has been granted, require that development to cease or not to commence, as appropriate, ...
 
-(ii) in respect of a development for which permission has been granted under Part III, require that the development will proceed in conformity with the permission, or with any condition to which the permission is subject, or
+(ii) in respect of a development for which permission has been granted under Part III or section 293, require that the development will proceed in conformity with the permission, or with any condition to which the permission is subject, or
 
 (iii) in respect of a development in respect of which a certificate has been issued by the Dublin Docklands Development Authority under section 25(7)(a)(ii) of the Dublin Docklands Development Authority Act 1997 or by the Custom House Docks Development Authority under section 12(6)(b) of the Urban Renewal Act 1986, require that the development will proceed in conformity with the planning scheme made under those Acts in respect of which the development was certified to be consistent and any conditions to which the certificate is subject,
 

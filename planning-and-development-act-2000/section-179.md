@@ -42,6 +42,20 @@ Local authority own development.
 
 (v) recommend whether or not the proposed development should be proceeded with as proposed, or as varied or modified as recommended in the report, or should not be proceeded with, as the case may be.
 
+(c) A report prepared in accordance with paragraph (a) shall—
+
+(i) in the case of development situated wholly within the maritime area—
+
+(I) contain an evaluation of the consistency of the proposed development with principles of proper planning and sustainable development and the objectives of maritime spatial planning, having regard to the National Planning Framework, the National Marine Planning Framework and any maritime spatial plan applicable to the maritime site in which it is proposed that the development would be carried out, and
+
+(II) specify the reasons and considerations for that evaluation, and
+
+(ii) in the case of development proposed to be situated partly on the landward side of a coastal planning authority’s functional area and partly in the maritime area—
+
+(I) contain an evaluation referred to in subparagraph (ii) of paragraph (b) and an evaluation of the consistency of the proposed development with principles of proper planning and sustainable development and objectives of maritime spatial planning, having regard to the National Planning Framework, the National Marine Planning Framework and any maritime spatial plan applicable to the maritime site in which it is proposed that the development would be carried out, and
+
+(II) specify the reasons and considerations for those evaluations, in addition to the matters referred to in subparagraphs (i), (iia), (iii), (iv) and (v) of paragraph (b).
+
 (4) (a) The members of a local authority shall , within 6 weeks of the receipt of the report of the chief executive, consider the proposed development and the report of the chief executive under subsection (3).
 
 (b) Following the consideration of the chief executive’s report under paragraph (a), the proposed development may be carried out as recommended in the chief executive’s report, unless the local authority, by resolution, decides to vary or modify the development, otherwise than as recommended in the chief executive’s report, or decides not to proceed with the development.

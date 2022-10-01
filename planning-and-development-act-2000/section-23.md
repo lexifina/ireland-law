@@ -58,6 +58,8 @@ Content and objectives of regional spatial and economic strategy.
 
 (iii) national planning policy as set out in the National Planning Framework,
 
+(iiia) the National Marine Planning Framework, in circumstances where the strategy is likely to affect the maritime area,
+
 (iv) any relevant directives, policies or guidelines issued by the Minister under the Planning and Development Acts 2000 to 2014,
 
 (v) any direction by the Minister in respect of such programmes, policies and guidelines of any Minister of the Government (including the Minister) requiring a regional assembly to have regard to, and
