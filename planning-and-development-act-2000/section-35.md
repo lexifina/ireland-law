@@ -46,7 +46,7 @@ Refusal of planning permission for past failures to comply.
 
 (a) the applicant for the permission concerned,
 
-(b) a partnership of which the applicant is or was a member and which, during the membership of that applicant, carried out a development pursuant to a previous permission, carried out a substantial unauthorised development or has been convicted of an offence under this Act,
+(b) any information available to the planning authority concerning development carried out by a person to whom this section applies pursuant to a permission (in this section referred to as a "previous permission") granted to the applicant or to any other person under this Part or Chapter III of Part XXI, or Part IV of the Act of 1963,
 
 (ba) a registered society under the Industrial and Provident Societies Acts 1893 to 2014 that—
 
