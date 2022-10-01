@@ -10,7 +10,11 @@ Fees payable to Board.
 
 (b) an application to the Board for any strategic infrastructure development or an application for leave to appeal under section 37(6)(a);
 
+(bb) an application under section 291 or a request under section 297;
+
 (c) an application for a consultation under section 37B, 181C, or 182E or under section 47B of the Act of 2001;
+
+(cd) the provision of an opinion or notification under section 287B,
 
 (d) a request under section 146B;
 
@@ -26,7 +30,7 @@ Fees payable to Board.
 
 (i) request for an oral hearing under section 134 or 177Q; and
 
-(j) making a submission or observation under section 37E, 37F, 130, 135(2B)(e), 146B, 146C, 146D, 175, 181A, 182A, 182C, 217B, or 226, section 51 of the Roads Act 1993, section 40 (other than by persons required to be served with a notice under section 40(1)(d)), section 41, or section 47D of the Act of 2001 or making an objection under section 48 of the Roads Act 1993 (other than by persons on whom notice is served under section 48(b));
+(j) making a submission or observation under section 37E, 37F, 130, 135(2B)(e), 146B, 146C, 146D, 175, 181A, 182A, 182C, 217B, or 226, or pursuant to a notice under section 291 or 297 or an invitation under section 292, or under section 51 of the Roads Act 1993, section 40 (other than by persons required to be served with a notice under section 40(1)(d)), section 41, or section 47D of the Act of 2001 or making an objection under section 48 of the Roads Act 1993 (other than by persons on whom notice is served under section 48(b));
 
 (k) an appeal under section 10 of the Aircraft Noise (Dublin Airport) Regulation Act 2019 against a relevant regulatory decision within the meaning of that section.
 

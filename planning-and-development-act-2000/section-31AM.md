@@ -18,7 +18,7 @@ Evaluation and assessment by Office of matters relating to development plans
 
 (a) matters generally within the scope of section 10 and, in particular, subsection (2)(n) of that section in relation to climate change;
 
-(b) consistency with the development plan and the National Planning Framework (or, where appropriate, the National Spatial Strategy) and regional spatial and economic strategies;
+(b) consistency of the development plan with the National Planning Framework (or, where appropriate, the National Spatial Strategy) and the National Marine Planning Framework and regional spatial and economic strategies;
 
 (c) relevant guidelines for planning authorities made under section 28, including the consistency of development plans with any specific planning policy requirements specified in those guidelines;
 
@@ -52,7 +52,7 @@ Evaluation and assessment by Office of matters relating to development plans
 
 (b) any observation or submissions, including recommendations, it makes to a planning authority under section 27B(1) in respect of a draft development plan,
 
-(c) any observation or submissions, including recommendations, it makes to a planning authority under section 27C(1) in respect of a proposed variation in a development plan.
+(c) any observation or submissions, including recommendations, it makes to a planning authority under section 27C(1) in respect of a proposed variation of a development plan.
 
 (6) A planning authority shall notify the Office within 5 working days of the making of a development plan or a variation to a development plan and send a copy of the written statement and maps as duly made and where the planning authority—
 
@@ -80,12 +80,12 @@ Evaluation and assessment by Office of matters relating to development plans
 
 (a) subsection (1) shall be construed and have effect as if the following paragraph were inserted after paragraph (a):
 
-‘(aa) a notice given under section 11D(3) by a planning authority to the Office for the purposes of that section of the intention of the planning authority to extend the duration of its existing development plan,’,
+"(aa) a notice given under section 11D(3) by a planning authority to the Office for the purposes of that section of the intention of the planning authority to extend the duration of its existing development plan,",
 
 (b) subsection (4) shall be construed and have effect as if the following paragraph were inserted after paragraph (a):
 
-‘(aa) section 11D(5), in respect of an extension of the duration of an existing development plan,’, and
+"(aa) section 11D(5), in respect of an extension of the duration of an existing development plan,", and
 
 (c) subsection (5) shall be construed and have effect as if the following paragraph were inserted after paragraph (c):
 
-‘(d) any observations or submissions it makes to a planning authority under section 27D(2) in respect of the extension of the duration of an existing development plan.’.
+"(d) any observations or submissions it makes to a planning authority under section 27D(2) in respect of the extension of the duration of an existing development plan.".
