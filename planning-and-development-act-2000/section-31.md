@@ -2,7 +2,7 @@ Ministerial directions regarding development plans.
 
 31.— (1) Where the Minister is of the opinion that—
 
-(a) a planning authority, in making a development plan, a variation of a development plan, a local area plan or an amendment to a local area plan (in this section referred to as a ‘plan’) has failed to—
+(a) a planning authority, in making a development plan, a variation of a development plan, a local area plan or an amendment to a local area plan (in this section referred to as a "plan") has failed to—
 
 (i) implement a recommendation made to the planning authority by—
 
@@ -20,7 +20,9 @@ Ministerial directions regarding development plans.
 
 (ba) a plan is not consistent with—
 
-(i) the national and regional development objectives set out in the National Planning Framework and the regional spatial and economic strategy, or
+(i) the national and regional development objectives set out in the National Planning Framework and the regional spatial and economic strategy, ...
+
+(ia) the National Marine Planning Framework, or
 
 (ii) specific planning policy requirements specified in guidelines issued by the Minister under subsection (1) of section 28,
 
@@ -30,13 +32,13 @@ Ministerial directions regarding development plans.
 
 (2) Where the Minister issues a direction under this section the planning authority, notwithstanding anything contained in Chapter I or II of this Part, shall comply with that direction and the chief executive or elected members shall not exercise a power or perform a function conferred on them by this Act in a manner that contravenes the direction so issued.
 
-(3) Before he or she issues a direction under this section, the Minister shall, no later than 6 weeks after a plan is made, issue a notice in writing to a planning authority consequent on a recommendation being made to him or her by the Office of the Planning Regulator under section 31AN(9) or 31AP(9), as the case may be.
+(3) Before he or she issues a direction under this section, the Minister shall, no later than 6 weeks after a plan is made, issue a notice in writing to a planning authority consequent on a recommendation being made to him or her by the Office of the Planning Regulator under section 31AM(8) or 31AO(7), as the case may be.
 
 (4) The notice referred to in subsection (3) shall, for stated reasons, inform the planning authority of—
 
 (a) the forming of the opinion referred to in subsection (1),
 
-(b) the intention of the Minister to issue a direction (a draft of which shall be contained in the notice) to the planning authority to take certain measures specified in the notice in order to ensure that the plan is in compliance with the requirements of this Act and, in the case of a plan, sets out an overall strategy for the proper planning and sustainable development of the area,
+(b) the intention of the Minister to issue a direction (a draft of which shall be contained in the notice) to the planning authority to take certain measures specified in the notice in order to ensure that the plan is in compliance with the requirements of this Act and ... sets out an overall strategy for the proper planning and sustainable development of the area,
 
 (c) those parts of the plan that by virtue of the issuing of the notice under this subsection shall be taken not to have come into effect, been made or amended under subsection (6), and
 
@@ -64,7 +66,7 @@ Ministerial directions regarding development plans.
 
 (c) that written submissions or observations in respect of the draft direction may be made to the planning authority during such period and shall be taken into consideration by the Office of the Planning Regulator before it makes a recommendation to the Minister on the matter.
 
-(8) No later than 4 weeks after the expiry of the period referred to in subsection (7)(b), the chief executive shall prepare a report on any submissions or observations received under subsection (7)(c) which shall be furnished to the elected members of the planning authority, the Office of the Planning Regulator and the Minister.
+(8) No later than 4 weeks after the expiry of the period referred to in subsection (7)(b), the chief executive shall prepare a report on any submissions or observations received under subsection (7)(c) which shall be furnished to the elected members of the planning authority, the Office of the Planning Regulator , the Minister and, where relevant, the regional assembly concerned.
 
 (9) The report referred to in subsection (8) shall—
 
@@ -92,7 +94,7 @@ Ministerial directions regarding development plans.
 
 (15) ...
 
-(16) Where paragraph (a) or (c) of section 31AN(9) or paragraph (a) or (c) of section 31AP(9) applies to a matter to which this section relates, then the Minister shall issue a direction accordingly.
+(16) Where paragraph (a) of section 31AN(4A), paragraph (a) or (c) of section 31AN(9), paragraph (a) of section 31AP(4A) or paragraph (a) or (c) of section 31AP(9) applies to a matter to which this section relates, then the Minister shall issue a direction accordingly.
 
 (17) The direction issued by the Minister under subsection (16) is deemed to have immediate effect and its terms are considered to be incorporated into the plan, or, if appropriate, to constitute the plan.
 
