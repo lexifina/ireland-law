@@ -158,12 +158,16 @@ Making of development plan.
 
 (17) A development plan made under this section shall have effect 6 weeks from the day that it is made.
 
-(18) In this section "statutory obligations" includes, in relation to a local authority, the obligation to ensure that the development plan is consistent with—
+(18) In this section "statutory obligations" includes—
 
-(a) the national and regional development objectives specified in—
+(a) in relation to a local authority, the obligation to ensure that the development plan is consistent with—
 
-(i) the National Planning Framework, and
+(i) the national and regional development objectives specified in—
 
-(ii) the regional spatial and economic strategy, and
+(I) the National Planning Framework, and
 
-(b) specific planning policy requirements specified in guidelines under subsection (1) of section 28.
+(II) the regional spatial and economic strategy, and
+
+(ii) specific planning policy requirements specified in guidelines under subsection (1) of section 28, and
+
+(b) in relation to a local authority that is a coastal planning authority, the obligation to ensure that the development plan is, in addition to being consistent with the obligation referred to in paragraph (a), consistent with the National Marine Planning Framework.
