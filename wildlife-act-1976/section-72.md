@@ -34,9 +34,11 @@ Powers of Garda Síochána and authorised persons.
 
 (iv) any permit or certificate issued for the purposes of the CITES Regulations together with any supporting documents in the person’s possession and any permit or certificate to which Article 11 of Council Regulation (EC) No. 338/97 of 9 December 1996 relates, or
 
-(v) any thing which is mentioned in subsection (7) which is in the person’s possession, and such member or authorised person may seize and retain any specimen or part, product or derivative of a specimen or any thing so produced which appears to him or her to be something which might be required as evidence in proceedings for an offence under the Wildlife Acts 1976 to 2018.
+(v) any thing which is mentioned in subsection (7) which is in the person’s possession,
 
-(2A) A member of the Garda Síochána or an authorised person may, if such member or authorised person has reasonable grounds for suspecting from the activity of any person (in this subsection referred to as the ‘suspected person’) that an offence under any provision of the Wildlife Acts 1976 to 2018 is being, or has been, committed, in the presence of such member or person, by the suspected person and that person has, or had at the time of being so suspected, in his or her possession, or under his or her control, any thing which is mentioned in subsection (7) or any other thing capable of being used to commit an offence, then such member or authorised person may, without prejudice to any other function exercisable by such member or person—
+1 OJ No. L 115, 6.4.2021, p.1 1 OJ No. L 115, 6.4.2021, p.1 and such member or authorised person may seize and retain any specimen or part, product or derivative of a specimen or any thing so produced which appears to him or her to be something which might be required as evidence in proceedings for an offence under the Wildlife Acts 1976 to 2018.
+
+(2A) A member of the Garda Síochána or an authorised person may, if such member or authorised person has reasonable grounds for suspecting from the activity of any person (in this subsection referred to as the "suspected person") that an offence under any provision of the Wildlife Acts 1976 to 2018 is being, or has been, committed, in the presence of such member or person, by the suspected person and that person has, or had at the time of being so suspected, in his or her possession, or under his or her control, any thing which is mentioned in subsection (7) or any other thing capable of being used to commit an offence, then such member or authorised person may, without prejudice to any other function exercisable by such member or person—
 
 (a) require the suspected person—
 
