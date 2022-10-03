@@ -24,6 +24,8 @@ Functions of Ard- Chláraitheoir.
 
 (eeeee) to establish and maintain a register and index for the purpose of the registration of presumed deaths,
 
+(eeeeee) to establish and maintain a register and index for the purpose of the registration of the particulars to which section 30I applies,
+
 (f) to monitor the operation of this Act,
 
 (g) to make recommendations to the Minister on any measures that are estimated to cost in excess of such amount as may be specified by the Minister from time to time and are, in the opinion of an tArd-Chláraitheoir, necessary to achieve and maintain appropriate standards of efficiency in the Civil Registration Service and, subject to the consent of the Minister, to implement those measures or, instead of or in addition to them, such measures as the Minister may specify in relation to those standards,

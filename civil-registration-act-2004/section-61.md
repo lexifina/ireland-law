@@ -42,7 +42,7 @@ Searches.
 
 (2C) The Minister for Culture, Heritage and the Gaeltacht may by order designate a body, in connection with which functions are performable by him or her, to be a relevant body for the purposes of this section.
 
-(3) This section does not apply to the register of stillbirths or gender recognition or an index to either of those registers or an index kept under—
+(3) This section does not apply to the register of stillbirths, gender recognition or to the register under Part 3B or an index to any of those registers or an index kept under—
 
 (a) section 22(5) of the Adoption Act 1952, or
 
