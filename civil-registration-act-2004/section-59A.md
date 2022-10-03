@@ -1,11 +1,11 @@
 ## PART 7A REGISTRATION OF CIVIL PARTNERSHIPS
 
-F184[Definitions (Part 7A).
+F194[Definitions (Part 7A).
 
 59A.—In this Part—
 
-‘civil partnership registration form’ means a form prescribed under section 59C;
+"civil partnership registration form" means a form prescribed under section 59C;
 
-‘place that is open to the public’ has the meaning given by section 59D(1A);
+"place that is open to the public" has the meaning given by section 59D(1A);
 
-‘register’ means the register of civil partnerships.
+"register" means the register of civil partnerships.

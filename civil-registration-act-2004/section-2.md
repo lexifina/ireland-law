@@ -6,13 +6,13 @@ Interpretation.
 
 “the Act of 1863” means the Registration of Births and Deaths (Ireland) Act 1863;
 
-‘Act of 2010’ means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+"Act of 2010" means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
-‘Act of 2015’ means the Gender Recognition Act 2015;
+"Act of 2015" means the Gender Recognition Act 2015;
 
 ...
 
-‘Act of 2019’ means the Civil Law (Presumption of Death) Act 2019;
+"Act of 2019" means the Civil Law (Presumption of Death) Act 2019;
 
 “the Acts” means the Births and Deaths Registration Acts 1863 to 1996;
 
@@ -26,31 +26,31 @@ Interpretation.
 
 “birth” does not include stillbirth;
 
-‘civil partner’ has the meaning assigned to it by the Act of 2010;
+"civil partner" has the meaning assigned to it by the Act of 2010;
 
-‘civil partnership of convenience’ means a civil partnership where at least one of the parties to the civil partnership—
+"civil partnership of convenience" means a civil partnership where at least one of the parties to the civil partnership—
 
 (a) at the time of entry into the civil partnership is a foreign national, and
 
 (b) enters into the civil partnership solely for the purpose of securing an immigration advantage for at least one of the parties to the civil partnership;
 
-‘civil partnership registration’ means registration under section 59D;
+"civil partnership registration" means registration under section 59D;
 
 “Civil Registration Service” shall be construed in accordance with section 8;
 
 “civil servant” has the meaning assigned to it by the Civil Service Regulation Acts 1956 to 1996;
 
-‘civil status’ means being single, married, separated, divorced, widowed, in a civil partnership or being a former civil partner in a civil partnership that has ended by death or been dissolved;
+"civil status" means being single, married, separated, divorced, widowed, in a civil partnership or being a former civil partner in a civil partnership that has ended by death or been dissolved;
 
-‘cohabitant’ shall be construed in accordance with section 172 of the Act of 2010;
+"cohabitant" shall be construed in accordance with section 172 of the Act of 2010;
 
-‘decree of divorce’ has the meaning assigned to it by the Family Law (Divorce) Act 1996;
+"decree of divorce" has the meaning assigned to it by the Family Law (Divorce) Act 1996;
 
-‘dissolution’ means dissolution of a civil partnership under section 110 of the Act of 2010;
+"dissolution" means dissolution of a civil partnership under section 110 of the Act of 2010;
 
-‘donor-conceived child’ has the same meaning as it has in Part 2 of the Children and Family Relationships Act 2015;
+"donor-conceived child" has the same meaning as it has in Part 2 of the Children and Family Relationships Act 2015;
 
-‘enactment’ means—
+"enactment" means—
 
 (a) an Act of the Oireachtas,
 
@@ -60,21 +60,21 @@ Interpretation.
 
 “event” means a birth, stillbirth, ..., ..., marriage, death, decree of divorce, decree of nullity, civil partnership registration or dissolution, occurring or granted anywhere in the State or a birth to which section 26 or 27 applies or a death to which section 38 or 39 applies and includes a birth, stillbirth, adoption, foreign adoption, marriage or death that could have been, but was not, registered in a register formerly maintained under the repealed enactments;
 
-‘evidence’ includes documentary evidence;
+"evidence" includes documentary evidence;
 
-‘Executive’ means the Health Service Executive;
+"Executive" means the Health Service Executive;
 
 ...
 
-‘foreign national’ means a person who is neither an Irish citizen, nor a citizen of a member state;
+"foreign national" means a person who is neither an Irish citizen, nor a citizen of a member state;
 
 “functions” includes powers and duties and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
 
-‘gender recognition certificate’ has the meaning assigned to it by the Act of 2015;
+"gender recognition certificate" has the meaning assigned to it by the Act of 2015;
 
 ...
 
-‘immigration advantage’ means a determination in a person’s favour by or on behalf of the Minister for Justice and Equality of any question relating to the grant of a visa to, or the entry into, presence in or removal from the State of a foreign national or any determination of a right to enter or reside in the State pursuant to the—
+"immigration advantage" means a determination in a person’s favour by or on behalf of the Minister for Justice and Equality of any question relating to the grant of a visa to, or the entry into, presence in or removal from the State of a foreign national or any determination of a right to enter or reside in the State pursuant to the—
 
 (a) European Communities (Aliens) Regulations 1977 (S.I. No. 393 of 1977),
 
@@ -82,9 +82,9 @@ Interpretation.
 
 (c) European Communities (Free Movement of Persons) (No. 2) Regulations 2006 (S.I. No. 656 of 2006);
 
-‘immigration status’ means entitlement of a person to reside in the State and the basis for that entitlement;
+"immigration status" means entitlement of a person to reside in the State and the basis for that entitlement;
 
-‘marriage of convenience’ means a marriage where at least one of the parties to the marriage—
+"marriage of convenience2 means a marriage where at least one of the parties to the marriage—
 
 (a) at the time of entry into the marriage is a foreign national, and
 
@@ -92,17 +92,17 @@ Interpretation.
 
 “Minister” means Minister for Health and Children;
 
-‘missing person’ has the same meaning as missing person in section 2 of the Act of 2019;
+"missing person" has the same meaning as missing person in section 2 of the Act of 2019;
 
 “Oifig an Ard-Chláraitheora” shall be construed in accordance with section 12;
 
-‘parent’, in relation to a donor-conceived child, means the parent or parents of that child under section 5 of the Children and Family Relationships Act 2015;
+"parent", in relation to a donor-conceived child, means the parent or parents of that child under section 5 of the Children and Family Relationships Act 2015;
 
 “personal public service number” has the meaning assigned to it by the Social Welfare (Consolidation) Act 1993;
 
 “prescribed” means prescribed by regulations made by the Minister;
 
-‘presumed death’ means a presumed death where a presumption of death order has been made under section 5 of the Act of 2019;
+"presumed death" means a presumed death where a presumption of death order has been made under section 5 of the Act of 2019;
 
 “qualified informant” in relation to a birth or death, shall be construed in accordance with section 19 or 37, as may be appropriate;
 
@@ -126,7 +126,7 @@ Interpretation.
 
 (g) in relation to a decree of nullity of a civil partnership or the register of decrees of nullity of civil partnerships, means the Courts Service, and references to a registrar include references to a person authorised by the registrar to act on the registrar’s behalf and to the successor of the registrar;
 
-‘registration area’ shall be construed in accordance with section 15(1) and (2A);
+"registration area" shall be construed in accordance with section 15(1) and (2A);
 
 “repealed enactments” means the enactments repealed by section 4;
 
@@ -144,7 +144,7 @@ Interpretation.
 
 (f) in relation to a presumed death, the particulars specified in Part 5B of that Schedule;
 
-‘scheme’ means a scheme approved under section 14;
+"scheme" means a scheme approved under section 14;
 
 “signature” includes an electronic signature within the meaning of the Electronic Commerce Act 2000 and cognate words shall be construed accordingly;
 
@@ -176,7 +176,7 @@ Interpretation.
 
 (2A) ...
 
-(2B)...
+(2B) ...
 
 (3) In this Act—
 

@@ -1,6 +1,6 @@
-F42[Performance of functions of registrar and Superintendent Registrar by staff of Ard- Chláraitheoir in certain exceptional circumstances
+F43[Performance of functions of registrar and Superintendent Registrar by staff of Ard- Chláraitheoir in certain exceptional circumstances
 
-8A. (1) A Superintendent Registrar of a registration area may make a request in writing to an tArd-Chláraitheoir (in this section referred to as a ‘request’) that an tArd-Chláraitheoir issue a direction (in this section referred to as a ‘direction’) that the relevant functions of registrars and Superintendent Registrars in the registration area to which the request relates are to be performed in accordance with this section.
+8A. (1) A Superintendent Registrar of a registration area may make a request in writing to an tArd-Chláraitheoir (in this section referred to as a "request") that an tArd-Chláraitheoir issue a direction (in this section referred to as a "direction") that the relevant functions of registrars and Superintendent Registrars in the registration area to which the request relates are to be performed in accordance with this section.
 
 (2) Where an tArd-Chláraitheoir receives a request under subsection (1), he or she shall issue a direction in relation to a registration area where he or she is satisfied that—
 
@@ -56,8 +56,8 @@ F42[Performance of functions of registrar and Superintendent Registrar by staff 
 
 (10) In this section—
 
-‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
+"Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
 
-‘relevant function’ means a function of a registrar or a Superintendent Registrar under a relevant provision;
+"relevant function" means a function of a registrar or a Superintendent Registrar under a relevant provision;
 
-‘relevant provision’ means Part 3 or Part 5.
+"relevant provision" means Part 3 or Part 5.
