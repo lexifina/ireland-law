@@ -20,11 +20,13 @@ Registers.
 
 (i) a register of all decrees of dissolution (which shall be known, and is referred to in this Act, as the register of decrees of dissolution),
 
-(j) a register of all decrees of nullity of civil partnerships (which shall be known, and is referred to in this Act, as the register of decrees of nullity of civil partnerships), and
+(j) a register of all decrees of nullity of civil partnerships (which shall be known, and is referred to in this Act, as the register of decrees of nullity of civil partnerships),
 
-(k) a register of gender recognition (which shall be known, and is referred to in this Act, as the register of gender recognition).
+(k) a register of gender recognition (which shall be known, and is referred to in this Act, as the the register of gender recognition),
 
-(l) a register of all presumed deaths where a presumption of death order has been made under section 5 of the Act of 2019 (which shall be known, and is referred to in this Act as the register of presumed deaths),
+(l) a register of all presumed deaths where a presumption of death order has been made under section 5 of the Act of 2019 (which shall be known, and is referred to in this Act as the register of presumed deaths), and
+
+(m) a register of particulars to which section 30I applies (which shall be known as the register under Part 3B of the Civil Registration Act 2004 , and is referred to in this Act as the register under Part 3B).
 
 (2) A register formerly maintained under the repealed enactments shall be deemed, for the purposes of subsection (1) and the other provisions of this Act, to be part of the appropriate register.
 
