@@ -1,3 +1,3 @@
-Wildlife Advisory Council.
+Wildlife Advisory Council. (Repealed)
 
 13.—...

@@ -124,19 +124,19 @@ Simplified procedures for export or re-export of dead specimens of species liste
 
 (25) In this section—
 
-‘Commission Regulation’ means Commission Regulation (EC) No. 865/2006 of 4 May 2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No. 338/97 on the protection of species of wild fauna and flora by regulating trade therein, together with any amendments to or replacements of those Regulations;
+"Commission Regulation" means Commission Regulation (EC) No. 865/2006 of 4 May 2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No. 338/97 on the protection of species of wild fauna and flora by regulating trade therein, together with any amendments to or replacements of those Regulations;
 
-‘Council Regulation’ means Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein together with any amendments to or replacements of those Regulations;
+"Council Regulation" means Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein together with any amendments to or replacements of those Regulations;
 
-‘management authority’ means the management authority designated under section 53A(1);
+"management authority" means the management authority designated under section 53A(1);
 
-‘registered person’ means a person who is the subject of an entry in the register;
+"registered person" means a person who is the subject of an entry in the register;
 
-‘scientific authority’ means a person designated under section 53A(2)(b);
+"scientific authority" means a person designated under section 53A(2)(b);
 
-‘simplified procedures’ mean the simplified procedures, referred to in Article 19 of the Commission Regulation, for the export or re-export of a dead specimen of a species, including any part or derivative thereof, listed in Annexes B and C to the Council Regulation;
+"simplified procedures" mean the simplified procedures, referred to in Article 19 of the Commission Regulation, for the export or re-export of a dead specimen of a species, including any part or derivative thereof, listed in Annexes B and C to the Council Regulation;
 
-‘species’ means a species listed in Annexes B and C to the Council Regulation.
+"species" means a species listed in Annexes B and C to the Council Regulation.
 
 (26) A reference in this section to the trade, export or re-export of a particular species is a reference to the trade, export or re-export of dead specimens of the species, including any parts or derivatives thereof.
 
