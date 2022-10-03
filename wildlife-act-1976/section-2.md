@@ -20,7 +20,7 @@ Definitions.
 
 “the CITES Convention” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora done at Washington on the 3rd day of March, 1973, as subsequently duly amended;
 
-‘CITES Regulations’ means Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein and Commission Regulation (EC) No. 865/2006 of 4 May 2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No. 338/97 on the protection of species of wild fauna and flora by regulating trade therein, together with any amendments to or replacements of those Regulations;
+"CITES Regulations" means Council Regulation (EC) No. 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein and Commission Regulation (EC) No. 865/2006 of 4 May 2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No. 338/97 on the protection of species of wild fauna and flora by regulating trade therein, together with any amendments to or replacements of those Regulations;
 
 “the Commissioners” means the Commissioners of Public Works in Ireland;
 

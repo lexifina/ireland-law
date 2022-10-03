@@ -42,4 +42,4 @@ Functions of Minister in relation to wildlife.
 
 (4) Nothing in this section shall restrict, prejudice or affect the performance by the Minister for Agriculture and Fisheries of any function which could have been performed by him immediately before the commencement of this section.
 
-(5) In this section ‘biological diversity’ means the variability among living organisms from all sources, including terrestrial, marine and other aquatic ecosystems, and the ecological complexes of which they are part and ‘diversity’ includes diversity within species, between species and of ecosystems.
+(5) In this section "biological diversity" means the variability among living organisms from all sources, including terrestrial, marine and other aquatic ecosystems, and the ecological complexes of which they are part and "diversity" includes diversity within species, between species and of ecosystems.

@@ -44,11 +44,11 @@ F77[Licences to hunt with firearms.
 
 (8) Where a firearm certificate is granted to a person described in subsection (5)(a) of this section, there shall be endorsed on the certificate the following:
 
-`This certificate, for so long as it is in force, authorises the person to whom it is granted, with the firearm to which it relates—
+"This certificate, for so long as it is in force, authorises the person to whom it is granted, with the firearm to which it relates—
 
 (a) to hunt and kill pursuant to any order under section 24 of the Wildlife Act, 1976, which is for the time being in force any protected wild bird within the meaning of that Act,
 
-(b) to hunt and kill pursuant to and in accordance with any order under section 25 of the said Act which is so in force, any hare.'.
+(b) to hunt and kill pursuant to and in accordance with any order under section 25 of the said Act which is so in force, any hare.".
 
 (9) Where any convention, protocol or other agreement between the State and any other country or territory provides for the reciprocal recognition of licences granted or deemed to have been granted under this section and other licences, permits, permissions or authorisations granted or issued in that country or territory, the Minister may by regulations declare and provide that any such other licence, permit, permission or authorisation which is for the time being in force shall be deemed to be, and shall have the same legal effect as a licence under this section.
 

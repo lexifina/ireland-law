@@ -12,4 +12,4 @@ Use of mechanicallypropelled vehicles, vessels and aircraft in hunting prohibite
 
 (4) Subject to subsections (2) and (3) of this section, a person who contravenes subsection (1) of this section shall be guilty of an offence.
 
-(5) In this section, ‘mechanically-propelled’ includes propulsion which is electrical or partly electrical and partly mechanical.
+(5) In this section, "mechanically-propelled" includes propulsion which is electrical or partly electrical and partly mechanical.

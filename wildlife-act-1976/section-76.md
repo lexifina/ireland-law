@@ -1,6 +1,6 @@
 Forfeiture.
 
-76.— (1) (a) Where any specimen of fauna, flora, fossils or minerals or any part, product or derivative of such a specimen or any firearm, trap, snare, net or any mechanically-propelled vehicle or any vessel or aircraft or other thing has come into the possession of a member of the Garda Síochána or an authorised person in respect of which, or with which, or by means of which, an offence is with reasonable cause suspected by the member or authorised person of having been committed under the Wildlife Acts, 1976 and 2000, or where an offence has been committed or is alleged to have been committed under those Acts, and on the application before a court of—
+76.—(1) (a) Where any specimen of fauna, flora, fossils or minerals or any part, product or derivative of such a specimen or any firearm, trap, snare, net or any mechanically-propelled vehicle or any vessel or aircraft or other thing has come into the possession of a member of the Garda Síochána or an authorised person in respect of which, or with which, or by means of which, an offence is with reasonable cause suspected by the member or authorised person of having been committed under the Wildlife Acts, 1976 and 2000, or where an offence has been committed or is alleged to have been committed under those Acts, and on the application before a court of—
 
 (i) the Minister, or
 
@@ -8,7 +8,7 @@ Forfeiture.
 
 (b) In this subsection—
 
-‘appropriate court' means—
+"appropriate court" means—
 
 (i) in case the estimated value of the thing to be forfeited does not exceed €15,000, the District Court,
 
@@ -16,7 +16,7 @@ Forfeiture.
 
 (iii) in any case, the High Court;
 
-‘estimated value', in relation to the thing sought to be forfeited, means the estimated amount of money which, in the opinion of the court, a willing purchaser would pay to a willing seller when such a thing could be sold legally and after deduction for—
+"estimated value", in relation to the thing sought to be forfeited, means the estimated amount of money which, in the opinion of the court, a willing purchaser would pay to a willing seller when such a thing could be sold legally and after deduction for—
 
 (i) the estimated costs incidental to such a sale, and
 
