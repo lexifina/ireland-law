@@ -12,8 +12,8 @@ Consideration of personal injuries guidelines as amended in certain circumstance
 
 (2) In this section—
 
-‘Act of 2003’ means the Personal Injuries Assessment Board Act 2003;
+"Act of 2003" means the Personal Injuries Assessment Board Act 2003;
 
-‘assessment’ has the same meaning as it has in section 20(1) of the Act of 2003;
+"assessment" has the same meaning as it has in section 20(1) of the Act of 2003;
 
-‘relevant claim’ has the same meaning as it has in section 9 of the Act of 2003.
+"relevant claim" has the same meaning as it has in section 9 of the Act of 2003.
