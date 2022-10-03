@@ -1,3 +1,3 @@
-Notification of civil partnerships. (repealed)
+Notification of civil partnerships. (Repealed)
 
 59B.—...

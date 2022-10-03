@@ -32,11 +32,11 @@ Provision of particulars, and registration, of deaths.
 
 (5) In this section—
 
-‘next of kin’ means a person nominated in writing as next of kin by the deceased for the purposes of his or her medical treatment or medical records;
+"next of kin" means a person nominated in writing as next of kin by the deceased for the purposes of his or her medical treatment or medical records;
 
-‘personal representative’ means the executor or executrix or the administrator or administratrix for the time being of a deceased person;
+"personal representative" means the executor or executrix or the administrator or administratrix for the time being of a deceased person;
 
-‘qualified informant’ in relation to a death means—
+"qualified informant" in relation to a death means—
 
 (a) a relative, civil partner, cohabitant, next of kin, personal representative or religious superior of the deceased who has knowledge of the required particulars concerned,
 
@@ -56,4 +56,4 @@ Provision of particulars, and registration, of deaths.
 
 (i) any other person who has knowledge of the death;
 
-‘religious superior’ in relation to a deceased person who was a member of a religious body within the meaning of section 45 living as a member of the religious body in an order or community, means the person in charge of the order or community in which the deceased person resided prior to his or her death.
+"religious superior" in relation to a deceased person who was a member of a religious body within the meaning of section 45 living as a member of the religious body in an order or community, means the person in charge of the order or community in which the deceased person resided prior to his or her death.

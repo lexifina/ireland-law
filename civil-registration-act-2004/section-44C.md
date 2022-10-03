@@ -44,4 +44,4 @@ Provision of information.
 
 (3) The informant shall provide his or her signature, in such manner as an tArd- Chláraitheoir may direct, to the registrar.
 
-(4) In this section ‘informant’ means a relative, civil partner or cohabitant of a deceased person in relation to whose death this Part applies, or, if all of those persons are unavailable, such other person having knowledge of the death as an tArd- Chláraitheoir may specify.
+(4) In this section "informant" means a relative, civil partner or cohabitant of a deceased person in relation to whose death this Part applies, or, if all of those persons are unavailable, such other person having knowledge of the death as an tArd- Chláraitheoir may specify.

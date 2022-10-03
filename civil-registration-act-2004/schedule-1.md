@@ -48,15 +48,15 @@ Date of birth of parent.
 
 Civil status of parent.
 
+Personal public service number of parent.
+
+Birth surname of parent’s mother.
+
 * The surname of the child to be entered shall, subject to any linguistic modifications be—
 
 (a) that of the parents of the child as stated in the register of births or of either of them, as may be determined by the person who, pursuant to section 19, gives the required particulars of the birth concerned to the registrar, or
 
-(b) such other name as may be requested by both of the parents or by one of them if the other parent is dead or, after reasonable efforts to do so have been made, cannot be contacted (if an tArd-Chláraitheoir or an officer of an tArd- Chláraitheoir duly authorised by him or her in that behalf or a Superintendent Registrar is satisfied that the circumstances warrant it and he or she agrees to the request).
-
-Personal public service number of parent.
-
-Birth surname of parent’s mother.
+(b) such other name as may be requested by both of the parents or by one of them if the other parent is dead or, after reasonable efforts to do so have been made, cannot be contacted (if an tArd-Chláraitheoir or an officer of an tArd-Chláraitheoir duly authorised by him or her in that behalf or a Superintendent Registrar is satisfied that the circumstances warrant it and he or she agrees to the request).
 
 Forename(s), surname, qualification, address and signature of informant.
 
@@ -88,12 +88,6 @@ Former surname(s) (if any) of mother.
 
 Date of birth of mother.
 
-* The surname of the child to be entered shall, subject to any linguistic modifications be—
-
-(a) that of the parents of the child as stated in the register of stillbirths or of either of them, as may be determined by the person who, pursuant to section 28, gives the required particulars of the stillbirth concerned to the registrar, or
-
-(b) such other name as may be requested by both of the parents or by one of them if the other parent is dead or, after reasonable efforts to do so have been made, cannot be contacted (if an tArd-Chláraitheoir or an officer of an tArd- Chláraitheoir duly authorised by him or her in that behalf or a Superintendent Registrar is satisfied that the circumstances warrant it and he or she agrees to the request).
-
 Civil status of mother.
 
 Personal public service number of mother.
@@ -101,6 +95,12 @@ Personal public service number of mother.
 Birth surname of mother's mother.
 
 Forename(s), surname, birth surname, address and occupation of father.
+
+* The surname of the child to be entered shall, subject to any linguistic modifications be—
+
+(a) that of the parents of the child as stated in the register of stillbirths or of either of them, as may be determined by the person who, pursuant to section 28, gives the required particulars of the stillbirth concerned to the registrar, or
+
+(b) such other name as may be requested by both of the parents or by one of them if the other parent is dead or, after reasonable efforts to do so have been made, cannot be contacted (if an tArd-Chláraitheoir or an officer of an tArd-Chláraitheoir duly authorised by him or her in that behalf or a Superintendent Registrar is satisfied that the circumstances warrant it and he or she agrees to the request).
 
 Former surname(s) (if any) of father.
 
@@ -136,7 +136,9 @@ PARTICULARS TO BE ENTERED IN REGISTER OF GENDER RECOGNITION
 
 Date and place of birth.
 
-Time of birth. Sex of child.
+Time of birth.
+
+Sex of child.
 
 Forename(s) of child.
 
@@ -144,9 +146,7 @@ Surname of child.
 
 Personal public service number of child.
 
-Forename(s), surname, birth surname, address and occupation of mother.
-
-Former surname(s) (if any) of mother.
+Forename(s), surname, birth surname, address and occupation of mother. Former surname(s) (if any) of mother.
 
 Date of birth of mother.
 
@@ -188,7 +188,9 @@ Sex of child.
 
 Forename(s) and surname of child.
 
-Forename(s), surname(s), birth surname(s), address and occupation(s) of adopters. Former surname(s) of adopters.
+Forename(s), surname(s), birth surname(s), address and occupation(s) of adopters.
+
+Former surname(s) of adopters.
 
 Date(s) of birth of adopters.
 
@@ -198,9 +200,7 @@ Personal public service number(s) of adopter or adopters.
 
 Date of adoption order.
 
-Date of registration.
-
-Signature of an tArd-Chláraitheoir.
+Date of registration. Signature of an tArd-Chláraitheoir.
 
 PART 3
 
@@ -218,7 +218,9 @@ PART 5
 
 PARTICULARS OF DEATHS TO BE ENTERED IN REGISTER OF DEATHS
 
-Date and place of death. Place of birth of deceased.
+Date and place of death.
+
+Place of birth of deceased.
 
 Sex of deceased.
 
@@ -306,9 +308,7 @@ Court by which the decree was granted.
 
 Year and record number of the proceedings.
 
-Forename, surnames and birth surnames of the parties to the proceedings.
-
-Personal public service numbers of the parties to the proceedings.
+Forename, surnames and birth surnames of the parties to the proceedings. Personal public service numbers of the parties to the proceedings.
 
 Date and place of marriage.
 
@@ -336,6 +336,8 @@ Date and place of civil partnership registration.
 
 Declaration of court.
 
-Date of the decree. Date of registration.
+Date of the decree.
+
+Date of registration.
 
 Forenames and surname of officer of Courts Service.

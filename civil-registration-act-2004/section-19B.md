@@ -32,6 +32,6 @@ Alleviation of requirement on certain persons to appear in person under Part 3 o
 
 (5) In this section—
 
-‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
+"Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
 
-‘emergency period’ means the period beginning on 13 March 2020 and ending on 31 May 2020.
+"emergency period" means the period beginning on 13 March 2020 and ending on 31 May 2020.

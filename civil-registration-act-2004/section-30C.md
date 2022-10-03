@@ -28,6 +28,6 @@ Index to register and privacy.
 
 (iv) if no surviving spouse or civil partner, child or parent, a surviving brother or sister.
 
-(4) A copy of an entry or an extract thereof referred to in subsection (2)(b) shall omit any reference to or particulars of a personal public service number and ‘true copy’ in those provisions shall be construed accordingly.
+(4) A copy of an entry or an extract thereof referred to in subsection (2)(b) shall omit any reference to or particulars of a personal public service number and "true copy" in those provisions shall be construed accordingly.
 
 (5) The Minister, by regulations under this Act, may specify the particulars to be included in a certified extract referred to in subsection (2)(b)(iii).

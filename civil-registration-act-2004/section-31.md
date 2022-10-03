@@ -1,5 +1,5 @@
 ## PART 4 REGISTRATION OF ADOPTIONS
 
-Definitions (Part 4). (repealed)
+Definitions (Part 4). (Repealed)
 
 31.—...

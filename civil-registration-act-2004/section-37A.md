@@ -12,7 +12,7 @@ Alleviation of requirement on certain persons to appear in person under Part 5 o
 
 (a) after consultation with any other Minister of the Government as he or she considers appropriate having regard to the functions of that Minister of the Government, and
 
-(b) having had regard to the matters referred to in subsection (4), by order specify a date that is later than the expiration date of the emergency period specified in the definition of ‘emergency period’ or the last order under this subsection, as the case may be, and the emergency period shall be read as extending to, and including, the date so specified.
+(b) having had regard to the matters referred to in subsection (4), by order specify a date that is later than the expiration date of the emergency period specified in the definition of "emergency period" or the last order under this subsection, as the case may be, and the emergency period shall be read as extending to, and including, the date so specified.
 
 (3) An order under subsection (2) shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
 
@@ -32,6 +32,6 @@ Alleviation of requirement on certain persons to appear in person under Part 5 o
 
 (5) In this section—
 
-‘Covid-19’ means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
+"Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 (S.I. No. 390 of 1981) or any variant of the disease so specified as an infectious disease in those Regulations;
 
-‘emergency period’ means the period beginning on 13 March 2020 and ending on 31 May 2020.
+"emergency period" means the period beginning on 13 March 2020 and ending on 31 May 2020.

@@ -1,3 +1,3 @@
-Where interpretation required. (repealed)
+Where interpretation required. (Repealed)
 
 59G.—...

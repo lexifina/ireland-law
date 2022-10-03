@@ -1,3 +1,3 @@
-Objections. (repealed)
+Objections. (Repealed)
 
 59F.—...

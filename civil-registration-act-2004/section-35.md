@@ -1,3 +1,3 @@
-Privacy of adoption records. (repealed)
+Privacy of adoption records. (Repealed)
 
 35.—...

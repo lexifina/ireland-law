@@ -16,7 +16,9 @@ Father’s brother Mother’s sister
 
 Mother’s brother Father’s sister
 
-Brother Sister Nephew Niece
+Brother Sister
+
+Nephew Niece
 
 Son Daughter
 

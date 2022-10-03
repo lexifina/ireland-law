@@ -6,7 +6,7 @@ Re-registration of birth to include name of father.
 
 (b) the mother of the child was married at the date of the birth of the child or at some time during the period of 10 months before such date and her husband or former husband is registered as the child’s father.
 
-(1A) Subject to subsection (2), a registrar shall re-register the birth of a child to whom subsection (1) applies in such manner as an tArd- Chláraitheoir may direct and shall enter in the register the name of a person (in this section referred to as the ‘person’) as the father of the child—
+(1A) Subject to subsection (2), a registrar shall re-register the birth of a child to whom subsection (1) applies in such manner as an tArd- Chláraitheoir may direct and shall enter in the register the name of a person (in this section referred to as the "person") as the father of the child—
 
 (a) if the mother of the child and the person jointly so request the registrar in writing and give to him or her a statutory declaration, in a form for the time being standing approved by an tArd-Chláraitheoir, of the person, that he is the father of the child, or
 
@@ -28,7 +28,7 @@ Re-registration of birth to include name of father.
 
 (a) a statutory declaration of the person to whom the mother was married at that date and of the person or each person to whom she was married at some time during the period aforesaid, in a form standing approved for the time being by an tArd-Chláraitheoir, that he is not the father of the child,
 
-(b) a statutory declaration of the mother in a form standing approved for the time being by an tArd-Chláraitheoir, that she has been living apart from the person who is, or the person or each person who was formerly, her husband (in this section referred to as the ‘husband’) during the period of 10 months ending immediately before the birth of the child by virtue of a decree of divorce, a decree of divorce a mensa et thoro, a decree of nullity of marriage or a deed of separation, or
+(b) a statutory declaration of the mother in a form standing approved for the time being by an tArd-Chláraitheoir, that she has been living apart from the person who is, or the person or each person who was formerly, her husband (in this section referred to as the "husband") during the period of 10 months ending immediately before the birth of the child by virtue of a decree of divorce, a decree of divorce a mensa et thoro, a decree of nullity of marriage or a deed of separation, or
 
 (c) subject to subsections (3A) to (3G) a statutory declaration of the mother, that she has been living apart from her husband during the period of 10 months ending immediately before the birth of the child and that a decree or deed referred to in paragraph (b) has not been granted by a court or entered into, and in that case the declaration shall contain the name and last known contact details of the person who is her husband, and as necessary exhibit information, particulars and evidence relied on by the mother to satisfy the registrar that she has been living apart from the husband during the period of 10 months ending immediately before the birth of the child.
 
