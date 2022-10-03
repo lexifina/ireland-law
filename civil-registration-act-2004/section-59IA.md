@@ -1,4 +1,4 @@
-F204[Civil Partnership ceremonies performed at certain embassies or diplomatic missions
+F214[Civil Partnership ceremonies performed at certain embassies or diplomatic missions
 
 59IA. (1) This section applies to a civil partnership where the ceremony of civil partnership took place during the period commencing on 1 January 2011 and ending on the day before the commencement of this section, in an embassy or diplomatic mission in the State.
 

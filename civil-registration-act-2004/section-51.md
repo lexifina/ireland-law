@@ -20,7 +20,7 @@ Solemnisation of marriages.
 
 (d) he or she is satisfied that the parties to the marriage understand the nature of the marriage ceremony and the declarations specified in subsection (4).
 
-(2A) In subsection (2) ‘place that is open to the public’ means—
+(2A) In subsection (2) "place that is open to the public" means—
 
 (a) a building that is open to the public, or
 
