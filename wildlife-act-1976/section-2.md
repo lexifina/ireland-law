@@ -38,7 +38,7 @@ Definitions.
 
 “export”, where the context so admits, includes re-export and cognate words shall be construed accordingly;
 
-“falconry” means hunting by means of birds of the order orders Accipitriformes, Falconiformes and Strigiformes which are trained to hawk for sport;
+“falconry” means hunting by means of birds of the orders Accipitriformes, Falconiformes and Strigiformes which are trained to hawk for sport;
 
 “fauna” means all wild birds and all wild animals (both aquatic and terrestrial) and includes wild mammals, reptiles, amphibians and aquatic and non-aquatic invertebrate animals, and all such wild animals' eggs, larvae, pupae or other immature stage and young;
 
