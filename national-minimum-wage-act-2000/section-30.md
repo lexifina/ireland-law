@@ -1,3 +1,3 @@
-Referral or appeal to High Court on question of law.
+Referral or appeal to High Court on question of law. (Repealed)
 
 30.—...

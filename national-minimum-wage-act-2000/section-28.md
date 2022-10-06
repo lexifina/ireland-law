@@ -1,3 +1,3 @@
-Power of Labour Court in relation to evidence.
+Power of Labour Court in relation to evidence. (Repealed)
 
 28.—...

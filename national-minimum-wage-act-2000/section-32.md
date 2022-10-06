@@ -1,3 +1,3 @@
-Enforcement of determination of Labour Court.
+Enforcement of determination of Labour Court. (Repealed)
 
 32.—...

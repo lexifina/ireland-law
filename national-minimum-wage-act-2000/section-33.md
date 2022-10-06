@@ -1,5 +1,5 @@
 ## Inspectors and Inspections
 
-Inspectors and their powers.
+Inspectors and their powers. (Repealed)
 
 33.—...

@@ -34,6 +34,6 @@ Working hours of employee for pay reference period.
 
 (i) time spent on standby or on call at a place other than a place of work or training provided by or on behalf of the employer for whom the employee is on standby or on call,
 
-(ii) time spent absent from work on annual leave, sick leave, protective leave, adoptive leave, parental leave, carer’s leave under the Carer’s Leave Act, 2001, while laid-off, on strike or on ‘lock-out’, or time for which the employee is paid in lieu of notice, or
+(ii) time spent absent from work on annual leave, sick leave, protective leave, adoptive leave, parental leave, carer’s leave under the Carer’s Leave Act, 2001, while laid-off, on strike or on "lock-out", or time for which the employee is paid in lieu of notice, or
 
 (iii) time spent on travelling between an employee’s place of residence and place of work and back.

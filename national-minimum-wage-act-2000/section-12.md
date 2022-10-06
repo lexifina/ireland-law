@@ -1,3 +1,3 @@
-National economic agreement recommending national minimum hourly rate of pay.
+National economic agreement recommending national minimum hourly rate of pay. (Repealed)
 
 12.—...

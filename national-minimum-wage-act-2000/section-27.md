@@ -1,3 +1,3 @@
-Appeal against rights commissioner’s decision.
+Appeal against rights commissioner’s decision. (Repealed)
 
 27.—...

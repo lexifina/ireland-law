@@ -1,3 +1,3 @@
-Labour Court may recommend national minimum hourly rate of pay where no national economic agreement.
+Labour Court may recommend national minimum hourly rate of pay where no national economic agreement. (Repealed)
 
 13.—...

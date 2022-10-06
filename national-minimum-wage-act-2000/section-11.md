@@ -1,3 +1,3 @@
-National minimum hourly rate of pay.
+National minimum hourly rate of pay. (Repealed)
 
 11.—...
