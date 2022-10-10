@@ -72,8 +72,8 @@ Interpretation.
 
 “service” means a service offered or provided (whether directly or indirectly) to the general public or a class of the general public by a public body.
 
+"statutory body" means a body established by or under statute.
+
 (2) (a) In this Act a reference to a section or schedule is a reference to a section of or Schedule to this Act unless it is indicated that reference to some other enactment is intended.
 
 (b) In this Act a reference to a subsection or paragraph or subparagraph is a reference to the subsection or paragraph or subparagraph of the provision in which the reference occurs unless it is indicated that reference to some other provision is intended.
-
-"statutory body" means a body established by or under statute.
