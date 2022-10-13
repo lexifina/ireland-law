@@ -10,7 +10,7 @@ Interpretation.
 
 “ordinary referendum” means a referendum on a proposal other than a proposal for the amendment of the Constitution;
 
-‘prison’ means a place to which the Prisons Acts 1826 to 2015 apply;
+"prison" means a place to which the Prisons Acts 1826 to 2015 apply;
 
 “referendum” means a constitutional referendum or an ordinary referendum;
 
