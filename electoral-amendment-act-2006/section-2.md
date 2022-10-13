@@ -2,7 +2,7 @@ Entry of names in postal voters list.
 
 2.— (1) The registration authority shall enter in the postal voters list the name of every elector who—
 
-(a) not later than the last date for making claims for corrections in the draft register applies to be so entered,
+(a) applies, subject to section 14(2) of the Act of 1992, to be so entered,
 
 (b) satisfies the registration authority that the circumstances of the elector’s detention in prison, pursuant to an order of a court, are such as to render it likely that he or she will be unable to go in person on polling day to vote at the polling place for the polling district, and
 

@@ -1,6 +1,6 @@
 Notices and application forms.
 
-5.— (1) The registration authority shall, within the period of 14 days ending on the qualifying date for registration as an elector, arrange for the giving of public notice of—
+5.— (1) The registration authority shall arrange, at least on an annual basis, for the giving of public notice of—
 
 (a) the category of electors entitled to apply to be entered in the postal voters list pursuant to section 2 ,
 

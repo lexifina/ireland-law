@@ -6,7 +6,7 @@ Application to be entered in postal voters list.
 
 (b) the application shall be signed by the applicant or, if the applicant is unable to write, he or she shall place his or her mark on the application form and, in either case, the form shall be completed in accordance with the instructions provided thereon;
 
-(c) the application form, duly completed and accompanied by the certificate referred to in subsection (2) , shall be handed to the relevant official who shall send it or cause it to be sent by post so as to be received by the registration authority not later than the last date for making claims for corrections in the draft register.
+(c) the application form, duly completed and accompanied by the certificate referred to in subsection (2), shall be handed to the relevant official who shall send it or cause it to be sent to the registration authority, and where polling day has been appointed in respect of a particular election or referendum, or both, shall be sent so as to be received by the authority before the dates specified in section 14(2) of the Act of 1992.
 
 (2) The certificate referred to in subsection
 

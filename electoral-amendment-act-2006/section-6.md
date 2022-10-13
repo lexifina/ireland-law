@@ -36,8 +36,4 @@ Consideration of applications.
 
 (b) applicants who have applied for entry in the first-mentioned list before the date appointed by that order and whose applications are granted under this section shall, in lieu of being entered in the first-mentioned list, be duly entered in the postal voters list which comes into force immediately following the first-mentioned list ceasing to be in force.
 
-(6) Rules 16 and 17 of Part II of the Second Schedule to the Act of 1992 shall apply to an appeal against a ruling of a registration authority in respect of an application under section 2 (including that section as it has effect by virtue of subsection (4) ) as they apply to an application for entry in the supplement to the register and, accordingly, the reference in the said Rule 16 to an application for entry in the supplement to the register shall, for the purposes of the application of that Rule by this subsection, be construed as a reference to an application for entry in the postal voters list under section
-
-2
-
-(including that section as it has effect by virtue of subsection (4) ).
+(6) Where an application to be entered in the postal voters list under section 2 is refused by the registration authority, the applicant may appeal in writing to the county registrar in accordance with Rule 39 of Part VIII of the Second Schedule to the Act of 1992..
