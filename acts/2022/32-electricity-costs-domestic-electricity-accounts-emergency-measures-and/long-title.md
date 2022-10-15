@@ -1,0 +1,9 @@
+Number 32 of 2022
+
+ELECTRICITY COSTS (DOMESTIC ELECTRICITY ACCOUNTS) EMERGENCY MEASURES AND MISCELLANEOUS PROVISIONS ACT 2022
+
+An Act to make provision, due to the continued exceptional rise in global energy prices since the completion of payments under the Electricity Costs Emergency Benefit Scheme, for the establishment of a further scheme to be known as the Electricity Costs Emergency Benefit Scheme II for the purpose of making further electricity costs emergency benefit payments during the period commencing on the date of the passing of this Act and ending on 30 June 2023 in respect of domestic electricity accounts in accordance with this Act out of resources available to the Minister for the Environment, Climate and Communications; for that purpose to confer functions on the distribution system operator and electricity suppliers; to confer functions on the Commission for Regulation of Utilities in relation to the Scheme and for that purpose to amend the Electricity Regulation Act 1999; to provide that these further electricity costs emergency benefit payments are exempt from income tax and for that purpose to amend the Taxes Consolidation Act 1997; to enable the Minister for the Environment, Climate and Communications to make regulations in relation to the operation of the Scheme; to make certain other amendments to the Electricity Regulation Act 1999 relating to registration under Part IIIA of that Act to give further effect to Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 20191 OJ No. L.158, 14.6.2019, p.125 on common rules for the internal market for electricity; to amend the rate of the levy under section 37 of the National Oil Reserves Agency Act 2007 for a certain period; and to provide for related matters.
+
+[15 th October, 2022]
+
+Be it enacted by the Oireachtas as follows:
