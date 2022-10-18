@@ -26,7 +26,7 @@ Terms for connection to and use of transmission or distribution system.
 
 (2A) In a case where the Agency is competent to fix and approve the terms and conditions or methodologies for the implementation of network codes and guidelines under Chapter VII of the 2019 Internal Electricity Market Regulation pursuant to Article 5(2) of the 2019 ACER Regulation because of their coordinated nature, then subsection (1), in so far as it provides for the giving of directions by the Commission to the Board, and subsection (2) shall not apply and, in such a case, the terms and conditions to be specified in the agreement referred to in subsection (1) shall be those fixed and approved by the Agency.
 
-(3) An offer made under subsection (1) to a person who is not the holder of a licence under section 14 or an authorisation under section 16 or an eligible customer shall be subject to the grant of a licence or authorisation to that person or to that person becoming an eligible customer.
+(3) An offer made under subsection (1) to a person who is not the holder of a licence under section 14 or an authorisation under section 16 or a registration granted under Part IIIA or an eligible customer shall be subject to the grant of a licence or authorisation or registration to that person or to that person becoming an eligible customer or to that person being a relevant market participant of a class specified by order under section 28AC(2)(a)(i) or engaging in a class of electricity activity specified by order under 28AC(2)(a)(ii).
 
 (4) The Board shall not be required under subsection (1) to enter into an agreement where—
 

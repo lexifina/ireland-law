@@ -6,7 +6,11 @@ Liability of oil companies and oil consumers to pay levy.
 
 (b) contributing to the funding of the Climate Action Fund in accordance with this Act, oil companies and oil consumers, shall, in accordance with this Part and the regulations under section 44 pay to the Agency in each month a levy on their relevant disposals of petroleum products in the preceding month.
 
-(1A) The rate of the levy shall be €0.02 per litre of relevant disposals of petroleum products.
+(1A) The rate of the levy shall be—
+
+(a) other than during the period referred to in paragraph (b), €0.02 per litre of relevant disposals of petroleum products, and
+
+(b) during the period commencing on 12 October 2022 and ending on 28 February 2023, €0.001 per litre of relevant disposals of petroleum products.
 
 (2) A relevant disposal of petroleum products is the volume (expressed in tonnes or litres) of petroleum products that in any month—
 
