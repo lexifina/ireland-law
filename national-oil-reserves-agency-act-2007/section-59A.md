@@ -1,10 +1,10 @@
 Claims for repayment where overpayment in respect of levy or biofuel levy.
 
-59A.— (1) In this section ‘a person to whom this section applies’ means—
+59A.— (1) In this section "a person to whom this section applies" means—
 
 (a) in the case of the levy, an oil company or oil consumer, as the case may be, and
 
-(b) in the case of the biofuel levy, a biofuel obligation account holder, and references to ‘person’ shall be construed accordingly.
+(b) in the case of the biofuel levy, a biofuel obligation account holder, and references to "person" shall be construed accordingly.
 
 (2) Where a person to whom this section applies considers that there has been an overpayment to the Agency in respect of the liability arising under Part 5 to pay the levy or under Part 5A to pay the biofuel levy, as the case may be, the person concerned may make a claim, at such intervals as may be prescribed, to the Minister in the prescribed form for repayment of the amount of the overpayment and including the prescribed information, particulars and documentation.
 

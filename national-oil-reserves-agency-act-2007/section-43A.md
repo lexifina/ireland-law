@@ -10,10 +10,10 @@ Exchange of Information.
 
 (5) In this section—
 
-‘excise law’ means the statutes and the instruments made under statute that relate to the duties of excise or the management of those duties;
+"excise law" means the statutes and the instruments made under statute that relate to the duties of excise or the management of those duties;
 
-‘mineral oil’ has the meaning given to it by section 94 of the Finance Act 1999;
+"mineral oil" has the meaning given to it by section 94 of the Finance Act 1999;
 
-‘taxpayer information’ has the meaning given to it by section 851A of the Taxes Consolidation Act 1997;
+"taxpayer information" has the meaning given to it by section 851A of the Taxes Consolidation Act 1997;
 
-‘the Acts’ has the meaning given to it by section 1078 of the Taxes Consolidation Act 1997.
+"the Acts" has the meaning given to it by section 1078 of the Taxes Consolidation Act 1997.

@@ -2,11 +2,11 @@ Payment into Climate Action Fund by direction of Minister.
 
 37A. (1) In this section—
 
-‘combined actual and estimated income of the Agency’ means the combined actual and estimated income of the Agency in the financial year in which it is proposed to give a direction under subsection (2) as determined in accordance with subsection (4);
+"combined actual and estimated income of the Agency" means the combined actual and estimated income of the Agency in the financial year in which it is proposed to give a direction under subsection (2) as determined in accordance with subsection (4);
 
-‘combined actual and estimated expenses of the Agency’ means the combined actual and estimated expenses of the Agency in the financial year in which it is proposed to give a direction under subsection (2) as determined in accordance with subsection (5);
+"combined actual and estimated expenses of the Agency" means the combined actual and estimated expenses of the Agency in the financial year in which it is proposed to give a direction under subsection (2) as determined in accordance with subsection (5);
 
-‘financial year’ means the financial year of the Agency.
+"financial year" means the financial year of the Agency.
 
 (2) Subject to subsection (3), the Minister may, in each financial year commencing with the financial year in which the National Oil Reserves Agency (Amendment) and Provision of Central Treasury Services Act 2020 is commenced, following consultation with the Agency, the Minister for Public Expenditure and Reform and the Minister for Finance, give a direction to the Agency to pay into the Climate Action Fund in that financial year the amount specified in the direction.
 

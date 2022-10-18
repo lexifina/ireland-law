@@ -1,6 +1,6 @@
 Appointment of National Treasury Management Agency to act on behalf of Agency in certain matters.
 
-31A.— (1) In this section ‘NTMA’ means the National Treasury Management Agency.
+31A.— (1) In this section "NTMA" means the National Treasury Management Agency.
 
 (2) (a) Subject to the prior consent of the Minister for Finance, the Agency may from time to time request the NTMA to perform, on its behalf, all or any part of the functions of the Agency under—
 
