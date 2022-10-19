@@ -32,7 +32,7 @@ Appeals.
 
 (a) notice of the refusal, revocation or suspension shall be served on the applicant, licensee or permit holder within the period of seven days beginning on the day on which the Board decides on the refusal, revocation or suspension,
 
-(b) in the case of a revocation or suspension, the revocation or suspension shall be expressed (and, subject to subsection (6) of this section, shall have effect accordingly) as coming into operation on a specified day after the expiration of the period of twenty-one days beginning on the day on which the Board decides on the revocation or refusal.
+(b)in the case of a revocation or suspension, the revocation or suspension shall be expressed (and, subject to subsection (6) of this section, shall have effect accordingly) as coming into operation on a specified day after the expiration of the period of twenty-one days beginning on the day on which the Board decides on the revocation or refusal.
 
 (5) For the purposes of subsection (2) of this section, where a regulation referred to in that subsection is made—
 
