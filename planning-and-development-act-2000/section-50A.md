@@ -32,7 +32,7 @@ Section 50: supplemental provisions.
 
 (3) The Court shall not grant section 50 leave unless it is satisfied that—
 
-(a) there are substantial grounds for contending that the decision or act concerned is invalid or ought to be quashed, and
+(a) there are substantial grounds for contending that the decision or act concerned is invalid or ought to be quashed,
 
 (b) (i) the applicant has a sufficient interest in the matter which is the subject of the application, or
 
@@ -42,7 +42,9 @@ Section 50: supplemental provisions.
 
 (II) has, during the period of 12 months preceding the date of the application, pursued those aims or objectives, and
 
-(III) satisfies such requirements (if any) as a body or organisation, if it were to make an appeal under section 37(4)(c), would have to satisfy by virtue of section 37(4)(d)(iii) (and, for this purpose, any requirement prescribed under section 37(4)(e)(iv) shall apply as if the reference in it to the class of matter into which the decision, the subject of the appeal, falls were a reference to the class of matter into which the decision or act, the subject of the application for section 50 leave, falls).
+(III) satisfies such requirements (if any) as a body or organisation, if it were to make an appeal under section 37(4)(c), would have to satisfy by virtue of section 37(4)(d)(iii) (and, for this purpose, any requirement prescribed under section 37(4)(e)(iv) shall apply as if the reference in it to the class of matter into which the decision, the subject of the appeal, falls were a reference to the class of matter into which the decision or act, the subject of the application for section 50 leave, falls), and
+
+(c) the applicant has exhausted any available appeal procedures or any other administrative remedy available to him or her in respect of the decision or act concerned.
 
 (4) A sufficient interest for the purposes of subsection (3)(b)(i) is not limited to an interest in land or other financial interest.
 
@@ -55,6 +57,8 @@ Section 50: supplemental provisions.
 (8) Subsection (7) shall not apply to a determination of the Court in so far as it involves a question as to the validity of any law having regard to the provisions of the Constitution.
 
 (9) If an application is made for judicial review under the Order in respect of part only of a decision or other act to which section 50(2) applies, the Court may, if it thinks fit, declare to be invalid or quash the part concerned or any provision thereof without declaring invalid or quashing the remainder of the decision or other act or part of the decision or other act, and if the Court does so, it may make any consequential amendments to the remainder of the decision or other act or the part thereof that it considers appropriate.
+
+(9A) If, on an application for judicial review under the Order, the Court decides to quash a decision or other act to which section 50(2) applies, made or done on an application for permission or approval, the Court shall, if requested by the applicant for permission or approval, remit the matter to the planning authority, the local authority or the Board, as may be appropriate, for reconsideration, subject to such directions as the Court considers appropriate, unless the Court considers, having regard to the circumstances of the case, that it would not be lawful to do so.
 
 (10) The Court shall, in determining an application for section 50 leave, an application for judicial review on foot of such leave or an application for leave under subsection (7), act as expeditiously as possible consistent with the administration of justice.
 
