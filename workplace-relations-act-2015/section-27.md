@@ -14,7 +14,7 @@ Powers of inspectors
 
 (d) require any person at the place of work or premises concerned, including the owner or person in charge of that place or premises, to give the inspector such information and assistance as the inspector may reasonably require for the purposes of his or her functions under this Act,
 
-(e) require any person at the place of work or premises concerned, including the owner or person in charge of that place or premises, to produce to the inspector such books, documents or other records (and in the case of documents or records stored in non-legible form, a legible reproduction thereof) that are in that person’s possession or procurement, or under that person’s control, as he or she may reasonably require for the purposes of his or her functions under this Act,
+(e) require any person at the place of work or premises concerned, including the owner or person in charge of that place or premises, to produce to the inspector such books, documents or other records (and in the case of documents or records stored in non-legible form, a legible reproduction thereof ) that are in that person’s possession or procurement, or under that person’s control, as he or she may reasonably require for the purposes of his or her functions under this Act,
 
 (f) require any person, whom the inspector has reasonable grounds for believing to be, or to have been, an employer or employee, to answer such questions as the inspector may ask relative to any matter under this Act or a relevant enactment and to make a declaration of the truth of the answers to those questions, and
 
@@ -45,3 +45,5 @@ Powers of inspectors
 “place of work” has the same meaning as it has in the Safety, Health and Welfare at Work Act 2005;
 
 “premises” includes vehicle, vessel, ship and railway carriage.
+
+(9) Where an inspector exercises powers under this section in relation to section 4F of the Payment of Wages Act 1991 , references in this section to employer shall be read as references to a person to whom the said section 4F applies, references in this section to employee shall be read as references to a contract worker within the meaning of that Act and references in this section to the employment of persons shall be read as including a reference to the relationship between such persons and such contract workers.
