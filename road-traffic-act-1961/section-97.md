@@ -1,4 +1,4 @@
-F194[Removal of vehicles abandoned or unlawfully parked.
+F200[Removal of vehicles abandoned or unlawfully parked.
 
 97.—(1) The Minister may make regulations authorising and providing for the removal, storage and disposal of vehicles which—
 
@@ -22,10 +22,10 @@ F194[Removal of vehicles abandoned or unlawfully parked.
 
 (6) No action shall lie in respect of anything done in good faith and without negligence in the course of the removal, storage or disposal of a vehicle under this section.
 
-(7) For the purposes of this section ‘vehicle’ shall include—
+(7) For the purposes of this section "vehicle" shall include—
 
 (a) a part of a vehicle,
 
-(b) an article designed as a vehicle but not at the time of removal capable of functioning as a vehicle,
+(b) an article designed as a vehic12le but not at the time of removal capable of functioning as a vehicle,
 
 (c) a load on or in a vehicle.
