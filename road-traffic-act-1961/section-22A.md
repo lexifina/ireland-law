@@ -1,4 +1,4 @@
-F48[Disqualification for applying for Irish driving licence or learner permit if disqualified for holding such.
+F51[Disqualification for applying for Irish driving licence or learner permit if disqualified for holding such.
 
 22A.—(1) Where a person is disqualified by this Act for holding any driving licence or learner permit—
 
