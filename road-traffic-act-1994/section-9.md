@@ -14,6 +14,6 @@ Interpretation of Part III.
 
 “intoxicant” includes alcohol and drugs and any combination of drugs or of drugs and alcohol.
 
-‘nurse’ means a person registered in the register of nurses established under section 27 of the Nurses Act 1985.
+"nurse" means a person registered in the register of nurses established under section 27 of the Nurses Act 1985.
 
 (2) A reference in this Part (other than sections 10 and 11) to section 49 or 50 of the Principal Act is to the section inserted by this Part.

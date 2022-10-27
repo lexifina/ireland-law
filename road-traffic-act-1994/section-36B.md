@@ -30,6 +30,6 @@ Inspection of permits.
 
 (6) In this section—
 
-‘permit’ means a permit issued under regulations made under section 35 or the means of identification of an exempted or permitted vehicle specified in bye-laws made under section 36 or 36A;
+"permit" means a permit issued under regulations made under section 35 or the means of identification of an exempted or permitted vehicle specified in bye-laws made under section 36 or 36A;
 
-‘traffic warden’ means a traffic warden within the meaning of the Local Authorities (Traffic Wardens) Act 1975 or section 103 (19) (inserted by section 11 of the Road Traffic Act 2002) of the Principal Act.
+"traffic warden" means a traffic warden within the meaning of the Local Authorities (Traffic Wardens) Act 1975 or section 103 (19) (inserted by section 11 of the Road Traffic Act 2002) of the Principal Act.

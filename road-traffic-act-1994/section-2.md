@@ -18,7 +18,7 @@ Interpretation.
 
 “the Principal Act” means the Road Traffic Act, 1961;
 
-‘reserved function’ is to be read in accordance with section 131 of the Local Government Act 2001;
+"reserved function" is to be read in accordance with section 131 of the Local Government Act 2001;
 
 (2) In this Act—
 
