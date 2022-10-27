@@ -4,11 +4,11 @@ Sections 4(1A) and 5(1A)
 
 Specified Drugs
 
-Reference Drug Level Number (2) (units in whole blood)
+Reference Drug Level Number (units in whole blood)
 
-(3) (1)
+(2) (1) (3)
 
-1 Δ-Tetrahydrocannabinol 1ng /ml (Cannabis)
+1 Δ-Tetrahydrocannabinol (Cannabis) 1ng /ml
 
 2 11-nor-9- 5ng /ml carboxy-Δ-tetrahydrocannabinol (Cannabis)
 

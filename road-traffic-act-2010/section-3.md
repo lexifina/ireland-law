@@ -28,7 +28,7 @@ Interpretation —Part 2.
 
 “nurse” means a person registered in the register of nurses established under section 27 of the Nurses Act 1985;
 
-‘specified person’ means a person who at the time of an alleged offence under section 4 or 5—
+"specified person" means a person who at the time of an alleged offence under section 4 or 5—
 
 (a) is the holder of a learner permit permitting the holder to drive a vehicle of the category concerned,
 
