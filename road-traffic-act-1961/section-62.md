@@ -20,4 +20,4 @@ Approved policy of insurance.
 
 (3) A policy of insurance shall not be prevented from being an approved policy of insurance merely by reason of the insurance being subject to a limitation or an exception referred to in subsection (2) of section 56 of this Act.
 
-(4) In this section ‘national insurers’ bureau’ means a professional organisation which is constituted in accordance with Recommendation No. 5 adopted on 25 January 1949 by the Road Transport Sub-committee of the Inland Transport Committee of the United Nations Economic Commission for Europe and which groups together insurance undertakings which, in a state, are authorised to conduct the business of motor vehicle insurance against civil liability.
+(4) In this section "national insurers’ bureau" means a professional organisation which is constituted in accordance with Recommendation No. 5 adopted on 25 January 1949 by the Road Transport Sub-committee of the Inland Transport Committee of the United Nations Economic Commission for Europe and which groups together insurance undertakings which, in a state, are authorised to conduct the business of motor vehicle insurance against civil liability.

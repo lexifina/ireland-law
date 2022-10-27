@@ -36,6 +36,6 @@ Maximum weights.
 
 (b) that an estimate of the laden weight of the vehicle or combination of vehicles carried out by the consignor prior to the dispatch of the goods indicated that the weight of the vehicle or combination of vehicles did not exceed the maximum weight laden specified by a regulation under this section applying in relation to the vehicle or combination of vehicles.
 
-(4C) In this section ‘consignor’ means a person who engages the services of another person for the carriage by road of merchandise in a vehicle or combination of vehicles.
+(4C) In this section "consignor" means a person who engages the services of another person for the carriage by road of merchandise in a vehicle or combination of vehicles.
 
 (5) Where a person charged with an offence under this section is the owner of the vehicle or combination of vehicles, it shall be a good defence to the charge for him to show that the vehicle or combination was being used on the occasion in question by another person and that such use was unauthorised.

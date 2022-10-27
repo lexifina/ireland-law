@@ -6,11 +6,11 @@ Traffic signs.
 
 “traffic sign” means any sign, device, notice or road marking, or any instrument for giving signals by mechanical means, which does one or more of the following in relation to a public road or public roads:
 
-(a) gives information (such a sign being referred to in this section as ‘an information sign’),
+(a) gives information (such a sign being referred to in this section as "an information sign"),
 
-(b) warns persons of danger or advises persons of the precautions to be taken against such danger, or both (such a sign being referred to in this section as ‘a warning sign’),
+(b) warns persons of danger or advises persons of the precautions to be taken against such danger, or both (such a sign being referred to in this section as "a warning sign"),
 
-(c) indicates the existence of a road regulation or implements such a regulation, or both, or indicates the existence of a provision in an enactment relating to road traffic (such a sign being referred to in this section as ‘a regulatory sign’);
+(c) indicates the existence of a road regulation or implements such a regulation, or both, or indicates the existence of a provision in an enactment relating to road traffic (such a sign being referred to in this section as "a regulatory sign");
 
 “provide” includes erect or place, maintain and (in the case of an instrument for giving signals by mechanical means) operate and cognate words shall be construed accordingly.
 

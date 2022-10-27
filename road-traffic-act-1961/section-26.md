@@ -1,6 +1,6 @@
 Consequential disqualification orders.
 
-26.—(1) Subject to subsection (5)(b), where a person is convicted of an offence specified in the Second Schedule, the court shall make an order (‘consequential disqualification order’) declaring him or her to be disqualified for holding a driving licence.
+26.—(1) Subject to subsection (5)(b), where a person is convicted of an offence specified in the Second Schedule, the court shall make an order ("consequential disqualification order") declaring him or her to be disqualified for holding a driving licence.
 
 (2) Subject to subsection (3), a consequential disqualification order operates to disqualify the person to whom the order relates for holding any driving licence whatsoever during a specified period or during a specified period and thereafter until he or she has produced to the ... licensing authority, as may be specified in the order, a certificate of competency or a certificate of fitness or both.
 
@@ -52,7 +52,7 @@ Consequential disqualification orders.
 
 (II) a first offence under that section, where the person has been previously convicted of an offence under the other section.
 
-(c) In paragraph (b) ‘appropriate period’ means the period that is appropriate having regard to—
+(c) In paragraph (b) "appropriate period" means the period that is appropriate having regard to—
 
 (i) the concentration of alcohol in the blood, urine or breath, as the case may be, of the person concerned in relation to which that person was convicted of the offence concerned, and
 
@@ -64,9 +64,9 @@ Reference Concentration of alcohol First offence Second or any Number under the 
 
 1. (a)
 
-6 months 1 year Reference Concentration of alcohol First offence Second or any Number under the subsequent offence under section the same section or first concerned offence where previously convicted under the other section (1) (2) (3) (4)
-
 (b)
+
+6 months 1 year
 
 (c)
 
@@ -88,7 +88,7 @@ Reference Concentration of alcohol First offence Second or any Number under the 
 
 4. (a) Exceeding 150 milligrammes
 
-(b) Exceeding 200 milligrammes 3 years 6 years
+3 years 6 years (b) Exceeding 200 milligrammes Reference Concentration of alcohol First offence Second or any Number under the subsequent offence under section the same section or first concerned offence where previously convicted under the other section (1) (2) (3) (4)
 
 (c) Exceeding 66 microgrammes
 
@@ -102,9 +102,9 @@ Reference Concentration of alcohol First offence Second or any Number under the 
 
 (6) The period of disqualification specified in a consequential disqualification order shall, in a case not coming within subsection (4) or (5), be not less than 1 year.
 
-(7) Where a person is convicted of an offence under section 49 or 50 of this Act or section 13 or 15 of the Road Traffic Act 1994 (‘the former section’) whether before or after the commencement of section 4, 5, 12 or 14 of the Road Traffic Act 2010 and is subsequently convicted of one or more offences under any other of those sections (‘the latter section’) the conviction under the latter section shall, for the purposes of this section, be regarded as a second or, as the case may be, a subsequent conviction for an offence under the latter section.
+(7) Where a person is convicted of an offence under section 49 or 50 of this Act or section 13 or 15 of the Road Traffic Act 1994 ("the former section") whether before or after the commencement of section 4, 5, 12 or 14 of the Road Traffic Act 2010 and is subsequently convicted of one or more offences under any other of those sections ("the latter section") the conviction under the latter section shall, for the purposes of this section, be regarded as a second or, as the case may be, a subsequent conviction for an offence under the latter section.
 
-(8) Where a person is convicted of an offence (‘the latter conviction’) under section 49 or 50 of this Act or section 13 or 15 of the Road Traffic Act 1994 whether before or after the commencement of section 4, 5, 12 or 14 of the Road Traffic Act 2010, and
+(8) Where a person is convicted of an offence ("the latter conviction") under section 49 or 50 of this Act or section 13 or 15 of the Road Traffic Act 1994 whether before or after the commencement of section 4, 5, 12 or 14 of the Road Traffic Act 2010, and
 
 (a) the conviction is, or is by virtue of subsection (7) to be regarded as, a second or subsequent conviction for an offence under the same section, and
 
