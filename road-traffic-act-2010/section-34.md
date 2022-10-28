@@ -26,6 +26,6 @@ Fixed charge offences.
 
 (i) section 73 of the Finance Act 1976, and
 
-(ii) section 139 of the Finance Act 1992.
+(ii) paragraphs (b), (bb) and (c) of section 139(1) of the Finance Act 1992.
 
 (3) The Minister may make regulations for the purposes of declaring an offence to be a fixed charge offence.
