@@ -54,7 +54,7 @@ It is not necessary to prove that the apparatus is of a type so approved.
 
 “member of the civilian staff of the Garda Síochána” means a person appointed or designated as being transferred under section 19 of the Garda Síochána Act 2005;
 
-“member of the Garda Síochána” other than in subsections (4) and (7), includes a member of the civillian staff of the Garda Síochána”;
+“member of the Garda Síochána” other than in subsections (4) and (7), includes a member of the civilian staff of the Garda Síochána”;
 
 “permanent visual record” includes a photograph;
 
