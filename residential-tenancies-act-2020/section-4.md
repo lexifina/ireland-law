@@ -8,4 +8,4 @@ Entitlement to remain in occupation of dwelling during emergency period
 
 (2) A person shall not, by virtue of the operation of this section, acquire any rights under Part 4 of the Act of 2004.
 
-(3) In this section ‘notice of termination’ does not include a notice of termination that cites as a reason for the termination concerned the failure by the tenant to comply with paragraph (a) of section 16 of the Act of 2004.
+(3) In this section "notice of termination" does not include a notice of termination that cites as a reason for the termination concerned the failure by the tenant to comply with paragraph (a) of section 16 of the Act of 2004.
