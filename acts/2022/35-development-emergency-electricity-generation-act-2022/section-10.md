@@ -1,0 +1,3 @@
+Section 15 of Climate Action and Low Carbon Development Act 2015.
+
+10. Taking into account the exceptional circumstances and the urgent and compelling necessity for securing the supply of electricity in the State, the Minister and the Board, in performing their functions under this Act, shall do so in a manner consistent with the plans, strategy, framework and objectives referred to in section 15(1) of the Climate Action and Low Carbon Development Act 2015 to the extent that they consider practicable, taking particular account of the said exceptional circumstances and urgent and compelling necessity.
