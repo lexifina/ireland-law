@@ -1,8 +1,8 @@
-F169[Transfer of licences.
+F172[Transfer of licences.
 
 94.—(1) A licence or revised licence under this Part may be transferred from the licensee to another person in accordance with this section.
 
-(2) Where the licensee desires that his licence or revised licence be transferred to another person (hereafter in this section referred to as ‘the proposed transferee’), the licensee and the proposed transferee shall jointly make an application to the Agency requesting that such a transfer be effected by the Agency.
+(2) Where the licensee desires that his licence or revised licence be transferred to another person (hereafter in this section referred to as "the proposed transferee"), the licensee and the proposed transferee shall jointly make an application to the Agency requesting that such a transfer be effected by the Agency.
 
 (3) An application under subsection (2) shall be made in such form and include such information as may be prescribed and shall be accompanied by such fee as may be prescribed under section 99A and by the licence or revised licence concerned.
 

@@ -1,6 +1,6 @@
-F166[Register of licences.
+F169[Register of licences.
 
-91.—(1) The Agency shall maintain a register (in this Act referred to as the ‘register of licences’) for the purposes of this Part and shall make therein all such entries and additions as may, from time to time, be prescribed.
+91.—(1) The Agency shall maintain a register (in this Act referred to as the "register of licences") for the purposes of this Part and shall make therein all such entries and additions as may, from time to time, be prescribed.
 
 (2) The register of licences shall be kept at the headquarters of the Agency and shall be made available for inspection by any person free of charge during office hours.
 

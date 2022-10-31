@@ -1,10 +1,10 @@
-F189[Mass balances of specified substances.
+F192[Mass balances of specified substances.
 
 99D.—(1) The Minister may, for the purposes of—
 
 (a) determining the extent of, and making available to members of the public information in relation to, the release of substances to environmental media resulting from the use or consumption of any specified class or classes of substance in any specified class or classes of process, development or operation (whether or not comprising an activity to which this Part applies),
 
-(b) determining, and making available information in relation to, the relationship (‘the mass balance’) between such a release of a substance and the use or consumption of a substance aforesaid in a process, development or operation aforesaid, make regulations requiring a person who carries out a process, development or operation aforesaid to make such determination of, and provide to the Agency or specified public authorities, or publish, such information in relation to, the matters referred to in paragraphs (a) and (b) as may be specified in the regulations.
+(b) determining, and making available information in relation to, the relationship ("the mass balance") between such a release of a substance and the use or consumption of a substance aforesaid in a process, development or operation aforesaid, make regulations requiring a person who carries out a process, development or operation aforesaid to make such determination of, and provide to the Agency or specified public authorities, or publish, such information in relation to, the matters referred to in paragraphs (a) and (b) as may be specified in the regulations.
 
 (2) Without prejudice to the generality of subsection (1), regulations under this section may provide for all or any of the following:
 
