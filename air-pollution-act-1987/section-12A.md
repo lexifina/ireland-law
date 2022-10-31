@@ -18,7 +18,7 @@ Fixed payment notice.
 
 (c) a prosecution in respect of the alleged offence shall not be instituted in the period specified in the notice, and if the payment so specified is made during that period, no prosecution in respect of the alleged offence shall be instituted.
 
-(3) In ...proceedings for a relevant offence it shall be a defence for the defendant to prove that he or she has made a payment in accordance with this section, pursuant to a fixed payment notice issued in respect of that offence.
+(3) In ... proceedings for a relevant offence it shall be a defence for the defendant to prove that he or she has made a payment in accordance with this section, pursuant to a fixed payment notice issued in respect of that offence.
 
 (4) The amount to be specified in a fixed payment notice in respect of a relevant offence is—
 
