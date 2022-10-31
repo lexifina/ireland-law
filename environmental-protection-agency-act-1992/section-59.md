@@ -22,6 +22,8 @@ Sewage or other effluents.
 
 (3) Standards or other requirements prescribed under subsection (2) may relate to—
 
+1 O.J. No. L135/40 of 30 May, 1991.
+
 (a) all, or specified classes of, or specified volumes of, effluents,
 
 (b) effluents in designated areas or classes of areas or specified plant, sewers or drainage pipes, or specified classes of plant, sewers or drainage pipes, or
@@ -36,9 +38,7 @@ Sewage or other effluents.
 
 (b) effluents in designated areas or classes of areas or specified plant, sewers or drainage pipes, or specified classes of plant, sewers or drainage pipes, or
 
-(c) effluents discharged to designated waters or classes of waters,
-
-1 O.J. No. L135/40 of 30 May, 1991. requiring compliance by such sanitary authority with such standards or other requirements as have been specified under subsection (2) (c).
+(c) effluents discharged to designated waters or classes of waters, requiring compliance by such sanitary authority with such standards or other requirements as have been specified under subsection (2) (c).
 
 (6) Where a standard or other requirement is prescribed under subsection (2), the sanitary authority shall, where necessary, take steps as soon as is practicable, or within such period as may be prescribed for compliance with such standard or other requirement, to ensure that the said effluent complies with the standard or other requirement.
 

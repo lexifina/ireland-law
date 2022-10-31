@@ -38,6 +38,6 @@ Baseline report and permanent cessation of activity.
 
 (11) In this section—
 
-‘baseline report’ means information on the state of soil and groundwater contamination by relevant hazardous substances;
+"baseline report" means information on the state of soil and groundwater contamination by relevant hazardous substances;
 
-‘soil’ has the meaning given by section 86A(11).
+"soil" has the meaning given by section 86A(11).

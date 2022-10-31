@@ -10,7 +10,7 @@ Performance of statutory functions by local authorities.
 
 (b) provide, on such terms and conditions as may be agreed, such assistance, support or guidance as the Agency considers, in consultation with the authority, would be helpful,
 
-(c) without prejudice to any of its powers under this Act or any other enactment, issue to the authority the terms of a direction (‘the proposed direction’) it proposes to issue, under subsection (5), to the authority requiring it to carry out, cause to be carried out, or arrange for, within a specified period, such action related to the function in question as the Agency considers necessary for the purposes of environmental protection.
+(c) without prejudice to any of its powers under this Act or any other enactment, issue to the authority the terms of a direction ("the proposed direction") it proposes to issue, under subsection (5), to the authority requiring it to carry out, cause to be carried out, or arrange for, within a specified period, such action related to the function in question as the Agency considers necessary for the purposes of environmental protection.
 
 (4) The proposed direction shall specify a period within which the local authority may make observations to the Agency in relation to the proposal to make the direction (and the authority may make such observations within that period accordingly).
 
@@ -30,4 +30,4 @@ Performance of statutory functions by local authorities.
 
 (10) Nothing in this section shall be construed as enabling the Agency to exercise any power or control under this section in relation to the making of a decision on an application for a permission under section 34 of the Act of 2000.
 
-(11) In this section, ‘local authority’ has the meaning assigned to it by the Local Government Act 2001.
+(11) In this section, "local authority" has the meaning assigned to it by the Local Government Act 2001.

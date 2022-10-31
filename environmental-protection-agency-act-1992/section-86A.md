@@ -60,4 +60,4 @@ Best
 
 (10) Other than where subsection (4) or (6) applies, the Agency shall apply conclusions on best available techniques from BAT reference documents adopted by the Commission prior to 6 January 2011 as BAT conclusions pending the adoption of decisions on BAT conclusions under Article 13(5) of the Industrial Emissions Directive.
 
-(11) In this section ‘soil’ means the top layer of the Earth’s crust situated between the bedrock and the surface and the soil is composed of mineral particles, organic matter, water, air and living organisms.
+(11) In this section "soil" means the top layer of the Earth’s crust situated between the bedrock and the surface and the soil is composed of mineral particles, organic matter, water, air and living organisms.

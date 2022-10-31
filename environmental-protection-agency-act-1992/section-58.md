@@ -12,4 +12,4 @@ Drinking water.
 
 (4) Each report under subsection (3) shall be laid by the Minister before each House of the Oireachtas and shall be published by the Agency.
 
-(5) In this section and section 58A ‘parametric values’ and ‘water services authority’ have the meanings assigned to them, respectively, in section 2 of the Water Services Act 2007.
+(5) In this section and section 58A "parametric values" and "water services authority" have the meanings assigned to them, respectively, in section 2 of the Water Services Act 2007.

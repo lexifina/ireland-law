@@ -28,7 +28,7 @@ Transboundary environmental impacts.
 
 (ii) requiring the Agency to submit information to the Minister regarding the activity;
 
-(iii) requiring the Agency to provide information to the other state concerned, its competent authority for the purposes of the Industrial Emissions Directive (in this paragraph referred to as the ‘competent authority of that state’) or other persons in that state;
+(iii) requiring the Agency to provide information to the other state concerned, its competent authority for the purposes of the Industrial Emissions Directive (in this paragraph referred to as the "competent authority of that state") or other persons in that state;
 
 (iv) requiring the Agency to consult with the competent authority of that state;
 
@@ -42,7 +42,7 @@ Transboundary environmental impacts.
 
 (b) in respect of an activity to which subsection (3) applies—
 
-(i) requiring the Agency to request the competent authority, for the purposes of the Industrial Emissions Directive, of the other state concerned (in this paragraph referred to as the ‘competent authority of the other state concerned’) to provide to it information regarding the activity or proposed activity;
+(i) requiring the Agency to request the competent authority, for the purposes of the Industrial Emissions Directive, of the other state concerned (in this paragraph referred to as the "competent authority of the other state concerned") to provide to it information regarding the activity or proposed activity;
 
 (ii) requiring the Agency to consult with the competent authority of the other state concerned;
 
@@ -54,4 +54,4 @@ Transboundary environmental impacts.
 
 (6) The Minister may by regulations provide that this section shall apply to a Member State of the EEA as it applies to a Member State of the European Communities.
 
-(7) In subsection (6) ‘Member State of the EEA’ means a state that is a contracting party to the Agreement on the European Economic Area signed at Oporto on the 2nd day of May, 1992, as amended for the time being.
+(7) In subsection (6) "Member State of the EEA" means a state that is a contracting party to the Agreement on the European Economic Area signed at Oporto on the 2nd day of May, 1992, as amended for the time being.

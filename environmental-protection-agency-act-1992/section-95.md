@@ -6,7 +6,7 @@ Surrender of licences.
 
 (3) Upon receiving an application for the surrender of a licence or revised licence, the Agency—
 
-(a) shall inspect the installation at which the activity to which the licence or revised licence relates is carried on (‘the relevant installation’), and
+(a) shall inspect the installation at which the activity to which the licence or revised licence relates is carried on ("the relevant installation"), and
 
 (b) may require the applicant to furnish to it such further information or evidence as it may specify.
 

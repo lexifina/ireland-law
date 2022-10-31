@@ -6,6 +6,4 @@ Increase of certain penalties.
 
 (b) Where an offence referred to in subsection (1) is described as a continuing or further offence the penalty for each day on which the contravention continues shall, in lieu of any other monetary penalty, forfeiture or fine provided in respect thereof, be a fine not exceeding £200.
 
-(3) This section shall have effect in relation to offences committed after the commencement of this section.
-
-TABLE
+(3) This section shall have effect in relation to offences committed after the commencement of this section. TABLE

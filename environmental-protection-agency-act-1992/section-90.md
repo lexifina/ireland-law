@@ -18,13 +18,13 @@ Review of licences.
 
 (i) refuse to grant a revised licence, or
 
-(ii) amend the licence by altering any or all of the conditions thereto (and a licence that is so amended is referred to in this Act as a ‘revised licence’), or
+(ii) amend the licence by altering any or all of the conditions thereto (and a licence that is so amended is referred to in this Act as a "revised licence"), or
 
 (b) in the case of—
 
-(i) a licence, grant to the licensee a licence (in this Act also referred to as a ‘revised licence’) the conditions of which are, in such respects as the Agency thinks appropriate, different from those of the first-mentioned licence and the revised licence shall have effect in lieu of the first-mentioned licence,
+(i) a licence, grant to the licensee a licence (in this Act also referred to as a "revised licence") the conditions of which are, in such respects as the Agency thinks appropriate, different from those of the first-mentioned licence and the revised licence shall have effect in lieu of the first-mentioned licence,
 
-(ii) a revised licence, exercise, in relation to it, a like power to that which it may exercise under subparagraph (i) in relation to a licence and a licence granted under this subparagraph is in this Act also referred to as a ‘revised licence’ and such a licence shall have effect in lieu of the first-mentioned revised licence.
+(ii) a revised licence, exercise, in relation to it, a like power to that which it may exercise under subparagraph (i) in relation to a licence and a licence granted under this subparagraph is in this Act also referred to as a "revised licence" and such a licence shall have effect in lieu of the first-mentioned revised licence.
 
 (3) The reference where it first occurs in subparagraph (ii) of subsection (2)(b) to a revised licence includes—
 

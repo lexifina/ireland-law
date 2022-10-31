@@ -4,11 +4,11 @@ Groundwater Protection.
 
 99I.—(1) In this Part, unless where the context otherwise requires—
 
-‘aquifer’ means a stratum or combination of strata that stores or transmits groundwater;
+"aquifer" means a stratum or combination of strata that stores or transmits groundwater;
 
-‘the Directive’ means Council Directive 80/68/EEC of 17 December 1979 on the control of groundwater against pollution by certain dangerous substances;
+"the Directive" means Council Directive 80/68/EEC of 17 December 1979 on the control of groundwater against pollution by certain dangerous substances;
 
-‘hazardous substance’ means a substance specified in the Annex to the Directive.
+"hazardous substance" means a substance specified in the Annex to the Directive.
 
 (2) This Part applies to an activity which gives rise to, or could give rise to, an emission containing a hazardous substance which is discharged to an aquifer.
 
