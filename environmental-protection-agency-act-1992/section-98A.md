@@ -1,4 +1,4 @@
-F179[Alterations of industrial emissions directive activity.
+F182[Alterations of industrial emissions directive activity.
 
 98A. (1) The person in charge of an industrial emissions directive activity shall give notice in writing to the Agency of any proposal to effect any alteration in the nature or functioning, or a reconstruction or extension of the installation if such alteration, reconstruction or extension would, or is likely to, change or increase emissions from the activity or cause new emissions therefrom in a manner which would have consequences for the environment.
 

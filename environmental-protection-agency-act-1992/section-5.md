@@ -4,11 +4,11 @@ F21[Best available techniques.
 
 (2) In subsection (1)—
 
-(a) ‘best’, in relation to techniques, means the most effective in achieving a high general level of protection of the environment as a whole;
+(a) "best", in relation to techniques, means the most effective in achieving a high general level of protection of the environment as a whole;
 
-(b) ‘available techniques’ means those techniques developed on a scale which allows implementation in the relevant class of activity specified in the First Schedule, under economically and technically viable conditions, taking into consideration the costs and advantages, whether or not the techniques are used or produced within the State, as long as they are reasonably accessible to the person carrying on the activity;
+(b) "available techniques" means those techniques developed on a scale which allows implementation in the relevant class of activity specified in the First Schedule, under economically and technically viable conditions, taking into consideration the costs and advantages, whether or not the techniques are used or produced within the State, as long as they are reasonably accessible to the person carrying on the activity;
 
-(c) ‘techniques’ includes both the technology used and the way in which the installation is designed, built, managed, maintained, operated and decommissioned.
+(c) "techniques" includes both the technology used and the way in which the installation is designed, built, managed, maintained, operated and decommissioned.
 
 (3) (a) For the purposes of subsection (1), the Agency—
 

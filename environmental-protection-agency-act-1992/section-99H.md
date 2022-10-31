@@ -1,4 +1,4 @@
-F204[Powers of High Court or Circuit Court in relation to activities in contravention of this Act.
+F207[Powers of High Court or Circuit Court in relation to activities in contravention of this Act.
 
 99H.—(1) Where, on application by any person to the High Court or the Circuit Court, that Court is satisfied that an activity is being carried on in contravention of the requirements of this Act, it may by order—
 

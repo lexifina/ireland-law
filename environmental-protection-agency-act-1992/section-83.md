@@ -18,7 +18,7 @@ F90[Determination of applications for licences.
 
 (ii) by the licensee under section 90(1)(b) for a review of a licence or revised licence;
 
-‘environmental impact assessment’ means a process –
+"environmental impact assessment" means a process –
 
 (i) consisting of—
 

@@ -6,9 +6,7 @@ Increase of certain penalties.
 
 (b) Where an offence referred to in subsection (1) is described as a continuing or further offence the penalty for each day on which the contravention continues shall, in lieu of any other monetary penalty, forfeiture or fine provided in respect thereof, be a fine not exceeding £200.
 
-(3) This section shall have effect in relation to offences committed after the commencement of this section.
-
-TABLE
+(3) This section shall have effect in relation to offences committed after the commencement of this section. TABLE
 
 FIRST SCHEDULE
 
@@ -26,11 +24,11 @@ Interpretation
 
 (5) In this Schedule—
 
-‘fuel’ means any solid, liquid or gaseous combustible material;
+"fuel" means any solid, liquid or gaseous combustible material;
 
-‘waste incineration plant’ means any stationary or mobile technical unit and equipment dedicated to the thermal treatment of waste, with or without recovery of the combustion heat generated, through the incineration by oxidation of waste as well as other thermal treatment processes, such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated;
+"waste incineration plant" means any stationary or mobile technical unit and equipment dedicated to the thermal treatment of waste, with or without recovery of the combustion heat generated, through the incineration by oxidation of waste as well as other thermal treatment processes, such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated;
 
-‘waste co-incineration plant’ means any stationary or mobile technical unit whose main purpose is the generation of energy or production of material products and which uses waste as a regular or additional fuel or in which waste is thermally treated for the purpose of disposal through the incineration by oxidation of waste as well as other thermal treatment processes, such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated.
+"waste co-incineration plant" means any stationary or mobile technical unit whose main purpose is the generation of energy or production of material products and which uses waste as a regular or additional fuel or in which waste is thermally treated for the purpose of disposal through the incineration by oxidation of waste as well as other thermal treatment processes, such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated.
 
 1 Minerals and Other Materials
 
@@ -96,7 +94,7 @@ Interpretation
 
 4.2.2 The manufacture of glass fibre or mineral fibre, not included in paragraph 4.2.1 or 4.3.
 
-4.3 The manufacture of glass including glass fibre with a melting capacity exceeding 20 tonnes per day....
+4.3 The manufacture of glass including glass fibre with a melting capacity exceeding 20 tonnes per day ....
 
 4.4 The production of industrial diamonds.
 
@@ -170,13 +168,13 @@ Production, for the purposes of the activities mentioned in paragraph 5.12 to 5.
 
 6 Intensive Agriculture 6.1 (a) The rearing of poultry in installations where the capacity exceeds 40,000 places.
 
-(b) In clause (a) ‘poultry’ shall be construed in accordance with Regulation 2(2) of the European Communities (Poultry and Hatching Eggs) Regulations 2010 (S.I. No. 564 of 2010).
+(b) In clause (a) "poultry" shall be construed in accordance with Regulation 2(2) of the European Communities (Poultry and Hatching Eggs) Regulations 2010 (S.I. No. 564 of 2010).
 
 6.2 The rearing of pigs in an installation where the capacity exceeds—
 
-(a)750 places for sows, or
+(a) 750 places for sows, or
 
-(b)2,000 places for production pigs which are each over 30kg.
+(b) 2,000 places for production pigs which are each over 30kg.
 
 7 Food and Drink
 
@@ -220,7 +218,7 @@ Production, for the purposes of the activities mentioned in paragraph 5.12 to 5.
 
 (I)75 if A is equal to 10 or more; or
 
-(II)[300-(22.5 x A)] in any other case, where ‘A’ is the portion of animal material (in percent of weight) of the finished product production capacity.
+(II)[300-(22.5 x A)] in any other case, where "A" is the portion of animal material (in percent of weight) of the finished product production capacity.
 
 (b) For the purposes of clause (a), packaging shall not be included in the final weight of the product.
 

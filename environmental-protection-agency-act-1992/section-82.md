@@ -2,7 +2,7 @@
 
 Licences.
 
-82.—(1) In this section ‘previous Part IV’ means this Part as it had effect before the amendment of it by section 15 of the Protection of the Environment Act 2003.
+82.—(1) In this section "previous Part IV" means this Part as it had effect before the amendment of it by section 15 of the Protection of the Environment Act 2003.
 
 (2) A person shall not carry on an activity, other than an established activity or an activity to which subsection (3) applies, unless a licence or revised licence under this Part is in force in relation to the activity.
 

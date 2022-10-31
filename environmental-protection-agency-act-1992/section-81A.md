@@ -16,8 +16,8 @@ F84[Regulations in relation to environmental inspections.
 
 (3) In this section—
 
-‘environmental inspections’ shall be construed in accordance with European Parliament and Council Recommendation of 4 April 2001 providing for minimum criteria for environmental inspections in the Member States (1);
+"environmental inspections" shall be construed in accordance with European Parliament and Council Recommendation of 4 April 2001 providing for minimum criteria for environmental inspections in the Member States (1);
 
-‘local authority’ has the meaning assigned to it by the Local Government Act 2001;
+"local authority" has the meaning assigned to it by the Local Government Act 2001;
 
-‘site visit’ means a visit to a site at which there is being, or has been, carried on any activity (whether an activity within the meaning of this Act or not), being a visit which the Agency or the local authority, as the case may be, may make in exercise of the powers conferred on it by any enactment (other than this section).
+"site visit" means a visit to a site at which there is being, or has been, carried on any activity (whether an activity within the meaning of this Act or not), being a visit which the Agency or the local authority, as the case may be, may make in exercise of the powers conferred on it by any enactment (other than this section).

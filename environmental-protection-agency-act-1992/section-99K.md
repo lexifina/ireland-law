@@ -1,6 +1,6 @@
 ## PART IVC TITANIUM DIOXIDE
 
-F210[Titanium Dioxide.
+F213[Titanium Dioxide.
 
 99K. (1) This Part applies in relation to an installation where an industrial emissions directive activity that produces titanium dioxide is carried on.
 
