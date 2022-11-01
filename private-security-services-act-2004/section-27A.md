@@ -1,4 +1,4 @@
-F23[ Temporary licence.
+F23[Temporary licence.
 
 27A.— (1) Where the Authority has received an application for a licence under section 21 and, having considered the application it is satisfied that—
 
