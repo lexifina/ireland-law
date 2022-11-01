@@ -4,6 +4,8 @@ Interpretation.
 
 "Act of 2021" means the Nursing Homes Support Scheme (Amendment) Act 2021;
 
+"Act of 2022" means the Regulation of Providers of Building Works and Miscellaneous Provisions Act 2022;
+
 “ancillary State support” has the meaning assigned to it by section 15;
 
 “application for State support” means an application for State support under section 9 (1);
@@ -59,6 +61,8 @@ Interpretation.
 “deferred relevant event” has the meaning assigned to it by section 20;
 
 “designated person” means the person designated under section 40;
+
+"eligible rental income" has the meaning assigned to it by Schedule 1;
 
 “estimated market value” has the meaning assigned to it by Schedule 1;
 
