@@ -62,11 +62,11 @@ Assessment of means of a person who is not a member of a couple where the applic
 
 (b) This Part applies to applications for State support made on or after the relevant day.
 
-Assessment of income
+Assessment of income where no eligible rental income applicable
 
-2. Assess the weekly income following the directions at steps A to E:
+2. Where there is no eligible rental income, assess the weekly income by following the directions at steps A to E:
 
-A. Establish the annual income of the person using the definition of ‘income’.
+A. Establish the annual income of the person using the definition of "income".
 
 B. Deduct allowable deductions.
 
@@ -74,13 +74,39 @@ C. Divide amount produced by step B by 52 to establish net weekly income.
 
 D. Take 80 per cent of amount produced by step C (net weekly income) which amount, unless step E applies, is the weekly assessed income.
 
-E. Where applying the rule in step C produces a result whereby 20 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step C less the minimum retained income threshold.
+E. Where applying the rule in step D produces a result whereby 20 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step C less the minimum retained income threshold.
+
+Assessment of income where eligible rental income applicable
+
+2A. Where there is eligible rental income, assess the weekly income by following the directions at steps A to K:
+
+A. Establish the annual income of the person using the definition of "income".
+
+B. Deduct allowable deductions.
+
+C. Divide amount produced by step B by 52.
+
+D. Establish the annual eligible rental income of the person.
+
+E. Deduct income tax required by law to be deducted or paid in respect of eligible rental income and in respect of which the applicant or any other person is not entitled to claim an exemption, relief or allowance or the repayment of tax already paid.
+
+F. Divide amount produced by step E by 52.
+
+G. Add amount produced by step C to amount produced by step F to establish net weekly income.
+
+H. Take 80 per cent of amount produced by step C.
+
+I. Take 40 per cent of amount produced by step F.
+
+J. Add amount produced by step H to amount produced by step I which amount, unless step K applies, is the weekly assessed income.
+
+K. Where applying the rule in step J produces a result whereby the sum of 20 per cent of the amount produced by step C and 60 per cent of the amount produced by step F is less than the minimum retained income threshold, the weekly assessed income is the amount established by step G less the minimum retained income threshold.
 
 Assessment of cash assets
 
 3. Assess the weekly value of the cash assets by following the directions at steps A to F:
 
-A. Establish all the cash assets of the person being assessed using the definition of ‘cash assets’ and value each cash asset on the basis of the estimated market value.
+A. Establish all the cash assets of the person being assessed using the definition of "cash assets" and value each cash asset on the basis of the estimated market value.
 
 B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce the net value of each cash asset.
 
@@ -98,7 +124,7 @@ Assessment of relevant assets
 
 4. Assess the weekly value of the relevant assets by following the directions at steps A to F:
 
-A. Establish all assets which are relevant assets using the definition of ‘relevant assets’ of the person being assessed and value each relevant asset on the basis of the estimated market value.
+A. Establish all assets which are relevant assets using the definition of "relevant assets" of the person being assessed and value each relevant asset on the basis of the estimated market value.
 
 B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
 
@@ -142,7 +168,9 @@ Assessment of cash assets
 
 A. Establish all the cash assets of the person to whom the assessment relates and his or her partner using the definition of “cash assets” and value each cash asset on the basis of the estimated market value.
 
-B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset. C. Aggregate all net values of cash assets established under step B.
+B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset.
+
+C. Aggregate all net values of cash assets established under step B.
 
 D. Deduct general assets deductible amount from the amount produced by step C to establish total assessed cash assets.
 
@@ -156,9 +184,7 @@ Assessment of relevant assets
 
 4. Assess the weekly value of the relevant assets by following the directions at steps A to G:
 
-A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of “relevant assets” and value each relevant asset on the basis of estimated market value.
-
-B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
+A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of “relevant assets” and value each relevant asset on the basis of estimated market value. B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
 
 C. Aggregate all net values of relevant assets established under step B.
 
@@ -174,15 +200,15 @@ PART 2A
 
 Assessment of means of a person who is a member of a couple where the application for State support is made on or after the relevant day
 
-1. (a)The means of a person who is a member of a couple shall, subject to Part 3, be assessed on the basis of the rules in this Part.
+1. (a) The means of a person who is a member of a couple shall, subject to Part 3, be assessed on the basis of the rules in this Part.
 
-(b)This Part applies to applications for State support made on or after the relevant day.
+(b) This Part applies to applications for State support made on or after the relevant day.
 
-Assessment of income
+Assessment of income where no eligible rental income applicable
 
-2. Assess the weekly income by following the directions at steps A to F:
+2. Where there is no eligible rental income, assess the weekly income by following the directions at steps A to F:
 
-A. Establish the annual income of the person and his or her partner using the definition of ‘income’.
+A. Establish the annual income of the person and his or her partner using the definition of "income".
 
 B. From the annual income of each of those persons deduct allowable deductions applicable to that person’s income to establish net annual income of each member of the couple.
 
@@ -190,9 +216,37 @@ C. Aggregate the two net annual incomes established under step B.
 
 D. Divide amount produced by step C by 52 to establish net weekly income.
 
-E. Take 40 per cent of amount produced by step D and the amount established following that calculation is, unless step F applies, the weekly assessed income.
+E. Take 40 per cent of amount produced by step D and the amount established following that calculation is, unless step F applies, the weekly assessed income. F. Where applying the rule in step E produces a result whereby 60 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step D less the amount which is the minimum retained income threshold.
 
-F. Where applying the rule in step E produces a result whereby 60 per cent of net weekly income is less than the minimum retained income threshold, the weekly assessed income is the amount established by step D less the amount which is the minimum retained income threshold.
+Assessment of income where eligible rental income applicable
+
+2A. Where there is eligible rental income, assess the weekly income by following the directions at steps A to M:
+
+A. Establish the annual income of the person and his or her partner using the definition of "income".
+
+B. From the annual income of each of those persons deduct allowable deductions applicable to that person’s income.
+
+C. Aggregate the two amounts produced by step B.
+
+D. Divide amount produced by step C by 52.
+
+E. Establish the amount of annual eligible rental income of the person and his or her partner.
+
+F. From the annual eligible rental income of each of those persons deduct income tax required by law to be deducted or paid in respect of eligible rental income and in respect of which the applicant or any other person is not entitled to claim an exemption, relief or allowance or the repayment of tax already paid.
+
+G. Aggregate the two amounts produced by step F.
+
+H. Divide amount produced by step G by 52.
+
+I. Add amount produced by step D to amount produced by step H to establish net weekly income.
+
+J. Take 40 per cent of amount produced by step D.
+
+K. Take 20 per cent of amount produced by step H.
+
+L. Add amount produced by step J to amount produced by step K which amount, unless step M applies, is the weekly assessed income.
+
+M. Where applying the rule in step L produces a result whereby the sum of 60 per cent of the amount produced by step D and 80 per cent of the amount produced by step H is less than the minimum retained income threshold, the weekly assessed income is the amount established by step I less the minimum retained income threshold.
 
 Assessment of cash assets
 
@@ -286,6 +340,16 @@ INTERPRETATION AND MISCELLANEOUS
 
 (d) a transferred asset which is a cash asset, in which in the case of an asset referred to in paragraphs (a) to (c) the person concerned has a beneficial interest and in the case of an asset referred to in paragraph (d) the person concerned had a beneficial interest;
 
+“eligible rental income“means—
+
+(a) any payments made to a person who is receiving care services or his or her partner in respect of rent under—
+
+(i) a tenancy of the principal residence of the person who is receiving care services that is registered under Part 7 of the Residential Tenancies Act 2004, or
+
+(ii) a tenancy of the principal residence of the person who is receiving care services where the principal residence is situated within the State and is a dwelling of a type described in any of paragraphs (b) to (e) or (g) to (i) of section 3(2) of that Act, in respect of a period beginning on or after the day on which section 84(3)(a) of the Act of 2022 comes into operation, and
+
+(b) any payments made in respect of rent under a tenancy such as is mentioned in subparagraph (i) or (ii) of paragraph (a) in respect of a period beginning on or after the day on which section 84(3)(a) of the Act of 2022 comes into operation which the person whose means are being assessed would have been entitled to receive in the assessable period, but which by reason of a particular action having been taken by or on behalf of that person, a person other than the person whose means are being assessed has received, is receiving or will receive an amount of money or monies worth (whether by way of a single payment or a series of payments) and which action by the person whose means are being assessed occurred within 5 years of the date of first application for State support but does not include any such payments earned by a family successor in the course of running a family asset;
+
 “estimated market value” means—
 
 (a) subject to paragraphs (b) and (c), the price the asset concerned would fetch on the open market on the date on which the application for State support is made subject to such conditions as might reasonably be calculated to obtain for the vendor of the asset the best price of the asset,
@@ -295,10 +359,6 @@ INTERPRETATION AND MISCELLANEOUS
 (c) in the case of an asset not situated in a place the currency of which place is the currency of the State, by converting the value of such asset in the currency of the place where the asset is situated into the currency of the State at the official conversion rate specified by the Central Bank of Ireland on the date the application for State support is made;
 
 “family successor" means a person appointed under section 14A, 14F, 14G, 14H, 14K or 14L;
-
-(a) in the case of a farm, regularly and consistently applies a portion of his or her working day in farming the farm, or
-
-(b) in the case of a business, regularly and consistently applies a portion of his or her working day in the carrying on of the relevant business;
 
 “farm” means agricultural land, pasture and woodland, crops, trees and underwood growing thereon, farm buildings appropriate to the property and farm machinery, livestock and bloodstock thereon but excluding all residential property , and a reference to a farm includes a reference to part of a farm;
 
@@ -318,7 +378,7 @@ INTERPRETATION AND MISCELLANEOUS
 
 (ii) the amount prescribed, under regulations made under section 36, for the purposes of this subparagraph, whichever is the greater;
 
-“income” means—
+“income (other than eligible rental income)” means—
 
 (a) income from an employment, trade, profession or vocation,
 
@@ -421,6 +481,8 @@ CR is the amount of the consideration received by the person or the estimated ma
 “unquoted” in relation to any shares or securities, means not quoted on a recognised stock exchange.
 
 2. In relation to the definition of “allowable deduction”, as respects income, a deduction shall be allowed in respect of either paragraph (a)(iv)(I) or paragraph (a)(iv)(II) of that definition, but not both.
+
+2A. For the purposes of the definition of "eligible rental income", the definition of "principal residence" applies notwithstanding that a person is not residing in his or her principal residence because the person is receiving care services.
 
 3. Where in relation to a cash asset or a relevant asset a deduction is claimed as an allowable deduction by reason of borrowings relating to such asset as permitted by paragraphs 3 and 4 of Part 1, 1A, 2 or 2A, an allowance in respect of such borrowings may not be given where to do so would permit a deduction in relation to the same indebtedness more than once.
 
