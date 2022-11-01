@@ -2,9 +2,9 @@ Death or change in circumstances of family successor.
 
 14G. (1) This section applies where—
 
-(a) a person is or has been receiving care services (in this section referred to as the ‘relevant person’),
+(a) a person is or has been receiving care services (in this section referred to as the "relevant person"),
 
-(b) a family successor has been appointed (in this section referred to as the ‘current family successor’) in respect of the relevant person in relation to a particular family asset,
+(b) a family successor has been appointed (in this section referred to as the "current family successor") in respect of the relevant person in relation to a particular family asset,
 
 (c) the current family successor dies or is no longer able to comply with the undertaking given by him or her under subsection (4)(b), section 14A(3)(d), 14F(8)(b) or 14H(5)(b),
 

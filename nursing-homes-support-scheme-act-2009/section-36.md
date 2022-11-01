@@ -64,7 +64,7 @@ Regulations.
 
 (5) The Minister may make regulations for the purposes of paragraph (j) of the definition of “income” in paragraph 1 of Part 3 of Schedule 1 by prescribing a class or classes of benefit not coming within paragraphs (a) to (i) of that definition but which the Minister considers to be a form of income, and for the purposes of this subsection benefit shall include capital gains.
 
-(5A) The Minister may make regulations for the purposes of paragraph (f) of the definition of ‘relevant payment’ (amended by section 8 of the Health (Miscellaneous Provisions) Act 2017) in paragraph 1 of Part 3 of Schedule 1 by prescribing a class or classes of ex-gratia payment or payments, not coming within paragraphs (a) to (e) of that definition, if—
+(5A) The Minister may make regulations for the purposes of paragraph (f) of the definition of "relevant payment" (amended by section 8 of the Health (Miscellaneous Provisions) Act 2017) in paragraph 1 of Part 3 of Schedule 1 by prescribing a class or classes of ex-gratia payment or payments, not coming within paragraphs (a) to (e) of that definition, if—
 
 (a) the class or classes of ex-gratia payment or payments is, or are, payment or payments made under a scheme or schemes (howsoever described) approved by the Government, and
 

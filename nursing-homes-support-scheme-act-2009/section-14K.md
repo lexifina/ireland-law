@@ -6,7 +6,7 @@ Application by partner for appointment of family successor.
 
 (b) the period to which the undertaking given by that family successor in relation to the particular family asset under section 14A(3)(d), 14F(8)(b), 14G(4)(b) or 14H(5)(b) relates has not expired,
 
-(c) the Executive has made a determination under section 7(8)(a) that the relevant person’s partner (in this section referred to as ‘the partner’) needs care services,
+(c) the Executive has made a determination under section 7(8)(a) that the relevant person’s partner (in this section referred to as "the partner") needs care services,
 
 (d) the Executive has made a determination under section 11(1) in relation to the partner, and
 

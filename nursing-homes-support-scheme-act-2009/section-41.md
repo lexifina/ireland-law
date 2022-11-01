@@ -4,7 +4,7 @@ Amendment of National Treatment Purchase Fund Board (Establishment) Order 2004.
 
 (a) in Article 2, by inserting the following definitions:
 
-“‘approved nursing home’ has the same meaning as in the Nursing Homes Support Scheme Act 2009;
+“‘approved nursing home has the same meaning as in the Nursing Homes Support Scheme Act 2009;
 
 ‘long-term residential care services’ means long-term residential care services within the meaning of paragraph (a)(ii) of the definition of ‘long-term residential care services’ in section 3(1) of the Nursing Homes Support Scheme Act 2009;
 

@@ -2,7 +2,7 @@ Death of person receiving care services following determination under section 14
 
 14F. (1) This section applies where—
 
-(a) a determination is made under section 14C(2)(a) in respect of a person (in this section referred to as the ‘relevant person’) in relation to a particular family asset,
+(a) a determination is made under section 14C(2)(a) in respect of a person (in this section referred to as the "relevant person") in relation to a particular family asset,
 
 (b) the relevant person dies,
 
@@ -18,7 +18,7 @@ Death of person receiving care services following determination under section 14
 
 (a) the particular family asset is not a transferred asset,
 
-(b) the current family successor is the person who is, or one of the persons who are, entitled to succeed on the death of the relevant person to the interest that the relevant person had in the particular family asset (in this section referred to as the ‘lawful successor’), and
+(b) the current family successor is the person who is, or one of the persons who are, entitled to succeed on the death of the relevant person to the interest that the relevant person had in the particular family asset (in this section referred to as the "lawful successor"), and
 
 (c) that current family successor notifies the Executive in writing in accordance with subsection (10) that, with the agreement of—
 

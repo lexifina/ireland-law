@@ -2,9 +2,9 @@ Change of family successor following transfer of particular family asset.
 
 14H. (1) This section applies where—
 
-(a) a person is or has been receiving care services (in this section referred to as the ‘relevant person’),
+(a) a person is or has been receiving care services (in this section referred to as the "relevant person"),
 
-(b) a family successor has been appointed (in this section referred to as the ‘current family successor’) in respect of the relevant person in relation to a particular family asset,
+(b) a family successor has been appointed (in this section referred to as the "current family successor") in respect of the relevant person in relation to a particular family asset,
 
 (c) the period to which the undertaking under subsection (5)(b) or section 14A(3)(d), 14F(8)(b) or 14G(4)(b) relates has not expired, and
 
