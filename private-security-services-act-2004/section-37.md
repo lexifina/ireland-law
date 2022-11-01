@@ -1,6 +1,6 @@
 Prohibition of unlicensed security service.
 
-37.—(1)A person shall not provide a security service insofar as this Act has come into operation as respects the security service concerned and shall not hold himself or herself out or represent himself or herself by—
+37.—(1) A person shall not provide a security service insofar as this Act has come into operation as respects the security service concerned and shall not hold himself or herself out or represent himself or herself by—
 
 (a) advertisement,
 
