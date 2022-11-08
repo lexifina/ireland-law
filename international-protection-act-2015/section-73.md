@@ -26,4 +26,8 @@ Prioritisation
 
 (i) whether the applicant is a person in respect of whom the Child and Family Agency is providing care and protection;
 
-(j) whether the applicant has, without reasonable cause, failed to comply with the requirements of paragraphs (a), (c) or (d) of section 16(3).
+(j) whether the applicant has, without reasonable cause, failed to comply with the requirements of paragraphs (a), (c) or (d) of section 16(3);
+
+(k) whether the applicant is from a safe country of origin;
+
+(l) whether the country of origin of the applicant is a country in respect of which there are a large number of applications or appeals, and the need to ensure that these and all other applications or appeals are dealt with in an efficient manner.
