@@ -38,4 +38,4 @@ Offence to provide or advertise cheating services.
 
 (b) an advertisement for any service consisting of the doing of either act specified in subsection (4) knowing that the service has or would have the effect of giving an enrolled learner an unfair advantage over other similarly enrolled learners.
 
-(7) In this section ‘programme’ does not include post-primary schooling leading to the sitting of the Junior Certificate or Leaving Certificate examination or any examination prescribed under section 50(2) of the Education Act 1998.
+(7) In this section "programme" does not include post-primary schooling leading to the sitting of the Junior Certificate or Leaving Certificate examination or any examination prescribed under section 50(2) of the Education Act 1998.

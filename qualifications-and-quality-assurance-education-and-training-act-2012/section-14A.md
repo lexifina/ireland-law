@@ -12,4 +12,4 @@ Furnishing of information by Authority to other bodies.
 
 (ii) any Act of the Oireachtas that is passed, before, on or after the commencement of section 6 of the Qualifications and Quality Assurance (Education and Training) (Amendment) Act 2019, for the purpose of, amongst other things, the regulation of the sharing of personal data (or both personal data and other information) between public bodies.
 
-(3) In subsection (2) ‘General Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
+(3) In subsection (2) "General Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
