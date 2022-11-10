@@ -1,3 +1,3 @@
-Joint industrial training committees.
+Joint industrial training committees. (Repealed)
 
 25.—...

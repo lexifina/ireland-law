@@ -1,3 +1,3 @@
-Officers and servants (other than Chief Officer) of An Chomhairle.
+Officers and servants (other than Chief Officer) of An Chomhairle. (Repealed)
 
 12.—...

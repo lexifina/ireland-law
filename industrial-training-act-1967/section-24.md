@@ -1,3 +1,3 @@
-Industrial training committees.
+Industrial training committees. (Repealed)
 
 24.—...

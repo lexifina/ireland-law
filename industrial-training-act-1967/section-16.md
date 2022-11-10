@@ -1,3 +1,3 @@
-Grants to, and investment of moneys by, An Chomhairle.
+Grants to, and investment of moneys by, An Chomhairle. (Repealed)
 
 16.—...

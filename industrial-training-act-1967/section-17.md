@@ -1,3 +1,3 @@
-Power of An Chomhairle to borrow temporarily.
+Power of An Chomhairle to borrow temporarily. (Repealed)
 
 17.—...

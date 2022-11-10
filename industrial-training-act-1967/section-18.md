@@ -1,3 +1,3 @@
-Gifts.
+Gifts. (Repealed)
 
 18.—...

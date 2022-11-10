@@ -1,3 +1,3 @@
-Chief Officer.
+Chief Officer. (Repealed)
 
 11.—...

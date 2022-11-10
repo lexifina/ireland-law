@@ -1,3 +1,3 @@
-Chairman’s superannuation scheme.
+Chairman’s superannuation scheme. (Repealed)
 
 10.—...

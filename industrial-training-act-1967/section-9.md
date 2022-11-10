@@ -1,3 +1,3 @@
-Functions of An Chomhairle.
+Functions of An Chomhairle. (Repealed)
 
 9.—...
