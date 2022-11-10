@@ -72,7 +72,7 @@ Interpretation
 
 (h) an entity on which any functions are conferred by or under any enactment (other than the Companies Acts), statutory instrument or charter,
 
-(i) an institution of higher education (within the meaning of the Higher Education Authority Act 1971) in receipt of public funding;
+(i) a designated institution of higher education within the meaning of the Higher Education Authority Act 2022 that falls under paragraph (a) of section 53(1) of that Act and that is also a funded body within the meaning of that Act;
 
 “service provider” means a person who enters into an arrangement under section 56 or 58;
 

@@ -16,7 +16,7 @@ Interpretation.
 
 “Appeals Board” means an Appeals Board appointed under section 69 (3);
 
-‘associated provider’ has the meaning assigned to it by section 55F(1);
+"associated provider" has the meaning assigned to it by section 55F(1);
 
 “Authority” has the meaning assigned to it by section 8;
 
@@ -28,7 +28,7 @@ Interpretation.
 
 (c) a degree;
 
-‘award that is included within the Framework’ shall be construed in accordance with section 55B;
+"award that is included within the Framework" shall be construed in accordance with section 55B;
 
 “awarding body” means a body which makes an award;
 
@@ -44,9 +44,11 @@ Interpretation.
 
 “designated awarding body” means a previously established university, the National University of Ireland, an educational institution established as a university under section 9 of the Act of 1997, a technological university, an Institute of Technology, the Dublin Institute of Technology and the Royal College of Surgeons in Ireland;
 
+"designated institution of higher education" has the same meaning as it has in the Higher Education Authority Act 2022;
+
 “dissolved body” shall be construed in accordance with section 71;
 
-‘English language education and training’ means a programme of education and training in English as a foreign language and ‘English language programme’ shall be construed accordingly;
+"English language education and training" means a programme of education and training in English as a foreign language and "English language programme" shall be construed accordingly;
 
 “enrolled learner” means a learner who has enrolled in a programme of education and training;
 
@@ -56,7 +58,7 @@ Interpretation.
 
 “Institute of Technology” means an institution referred to in section 3 (amended by section 4 of the Institutes of Technology Act 2006) of the Regional Technical Colleges Act 1992;
 
-“institution of higher education” has the same meaning as it has in the Higher Education Authority Act 1971;
+...
 
 “international education mark” means the international education mark specified under section 61;
 
@@ -68,7 +70,7 @@ Interpretation.
 
 “linked provider” shall be construed in accordance with subsection (3);
 
-‘listed awarding body’ has the meaning assigned to it by section 55A(1)(a);
+"listed awarding body" has the meaning assigned to it by section 55A(1)(a);
 
 “Minister” means the Minister for Education and Skills;
 
@@ -130,13 +132,13 @@ Interpretation.
 
 (k) a listed awarding body providing one or more programmes leading to its own awards that are awards included within the Framework;
 
-‘Solas’ means An tSeirbhís Oideachais Leanúnaigh agus Scileanna;
+"Solas" means An tSeirbhís Oideachais Leanúnaigh agus Scileanna;
 
 “superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death;
 
 “Teagasc” means Teagasc — The Agriculture and Food Development Authority;
 
-‘technological university’ has the meaning assigned to it by the Technological Universities Act 2018;
+"technological university" has the meaning assigned to it by the Technological Universities Act 2018;
 
 “validation”, in relation to a programme of education and training, shall be construed in accordance with subsection (2);
 

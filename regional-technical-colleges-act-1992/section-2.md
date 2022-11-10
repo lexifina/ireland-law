@@ -4,17 +4,17 @@ Interpretation.
 
 “academic council” has the meaning assigned to it by section 10 of this Act;
 
-‘An tÚdarás’ means An tÚdarás umArd-Oideachas;
+"An tÚdarás" means An tÚdarás umArd-Oideachas;
 
-‘college’ means an institution of higher education declared by paragraph (a) of section 3(1) (as amended by the Institutes of Technology Act 2006) to be a college to which this Act applies and, in relation to the Cork Institute of Technology, includes a school of that college declared to be such under of that subsection;
+"college" means an institution of higher education declared by paragraph (a) of section 3(1) (as amended by the Institutes of Technology Act 2006) to be a college to which this Act applies and, in relation to the Cork Institute of Technology, includes a school of that college declared to be such under of that subsection;
 
 “course of study” means a course of study, instruction or training leading to an educational award by the National Council for Educational Awards, an university in the State or such other certifying authority as may be approved by the Minister from time to time;
 
 “the Director” in relation to a college, means the person appointed under section 9 of this Act to be the Director of the college;
 
-‘education and training board’ in relation to a college, means the education and training board in whose education and training board area the college is situated;
+"education and training board" in relation to a college, means the education and training board in whose education and training board area the college is situated;
 
-‘education and training board’ means an education and training board established under the Education and Training Boards Act 2013;
+"education and training board" means an education and training board established under the Education and Training Boards Act 2013;
 
 “establishment” and “establishment date” refer, in the case of a regional technical college established by section 3 (1) of this Act, to the commencement of this Act and, in the case of a college established by order under section 3 (2) of this Act or an educational institution or part of such an institution which by order under section 3 (3) of this Act forms part of a college, to the commencement of the order;
 
@@ -29,6 +29,12 @@ Interpretation.
 “the Minister” means the Minister for Education;
 
 ...
+
+“regulations of the college”, in relation to a college, means rules made by the governing body of the college under paragraph 12 of the Second Schedule;
+
+“student”, in relation to a college, means a person registered as a student by the college or a full-time officer of the student union who was first elected or appointed to his or her office while he or she was registered as a student by the college;
+
+“student union”, in relation to a college, means the student union or other student representative body recognised by the college;
 
 (2) A reference in this Act to the performance of functions includes a reference to the exercise of powers and the performance of duties.
 

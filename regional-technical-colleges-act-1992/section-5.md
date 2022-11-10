@@ -30,7 +30,7 @@ Functions of colleges.
 
 (h) to accept gifts of money, land or other property upon such trusts and conditions, if any, as may be specified by the donors: provided that nothing in any such trust or condition is contrary to the provisions of this Act;
 
-(i) subject to the approval of An tÚdarás, to acquire land;
+(i) subject to the consent of the Minister to acquire, hold and dispose of land, an interest in land or any other property;
 
 (j) to do all such acts and things as may be necessary to further the objects and development of the college.
 

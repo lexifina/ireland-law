@@ -6,7 +6,7 @@ Quality reviews by Authority.
 
 (a) that review relates to a provider referred to in that subsection, and
 
-(b) that provider is an institution of higher education.
+(b) that provider is a designated institution of higher education.
 
 (2A) The Authority shall consult with Solas in carrying out a review under subsection (1) where—
 

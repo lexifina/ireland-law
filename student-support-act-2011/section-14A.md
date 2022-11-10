@@ -4,7 +4,7 @@ Operation of section 14 of Act of 2011 (prescribing of certain matters).
 
 (a) regard to any of the matters specified in subsection (2),
 
-(b) consulted with the Higher Education Authority, and
+(b) consulted with the An tÚdarás um Ard-Oideachas, and
 
 (c) obtained the consent of the Minister for Public Expenditure and Reform, he or she may prescribe a class of person, being a national of a country (not being the State or any other state referred to in section 14(1)(a)) specified in the regulations concerned prescribing that class, for the purposes of section 14(1)(aa).
 

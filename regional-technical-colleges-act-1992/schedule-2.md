@@ -2,108 +2,170 @@ SECOND SCHEDULE
 
 THE GOVERNING BODY
 
-1. (1) As soon as may be after its establishment the governing body of a college shall provide and retain in its possession a seal of the college.
+Section 6.
 
-(2) The seal of a college shall be authenticated by the signature of the chairman or a member of the governing body authorised by the governing body to act in that behalf and by the signature of an officer of the college authorised to act in that behalf.
+1. (1) The governing body shall retain in its possession a seal of the college.
 
-(3) Judicial notice shall be taken of the seal of a college and every document purporting to be an instrument made by a college and to be sealed with the seal (purporting to be authenticated in accordance with this Schedule) of the college shall be received in evidence and shall be deemed to be such instrument without proof unless the contrary is shown.
+(2) The seal of the college shall be authenticated by the signature of the chairperson or a member of the governing body authorised by the governing body to act in that behalf and by the signature of an officer of the college authorised to act in that behalf.
 
-2. (1) Each governing body shall have a chairman who may be designated by such title as the governing body may determine.
+(3) Judicial notice shall be taken of the seal and any document purporting to be an instrument made by, and sealed with the seal of, the college shall, unless the contrary is shown, be received in evidence and taken to be such an instrument without further proof.
 
-(2) The chairman shall be appointed by the Minister and may be removed from office by the Minister.
+2. (1) A member of the governing body, other than the Director, shall, subject to the provisions of this Act, hold office upon such terms and conditions (including terms and conditions relating to remuneration and allowances for expenses) as may be determined by the Minister, with the consent of the Minister for Public Expenditure and Reform.
 
-(3) The chairman may, at any time, resign from office as chairman by letter addressed to the Minister and the resignation shall take effect from the date on which the letter is received.
+(2) There may be paid by the governing body to its members, other than the Director, such remuneration (if any) and such allowances for expenses (if any) as the Minister, with the approval of the Minister for Public Expenditure and Reform, may determine.
 
-(4) Subject to the provisions of this Act, the chairman shall hold office on such terms and conditions as the Minister may, at the date of the appointment, decide.
+3. (1) A member of the governing body, other than the Director, may resign from office by giving notice in writing to the chairperson (or if the member concerned is the chairperson, to the Director) of his or her resignation and the resignation shall take effect on the day when the chairperson, or as the case may be, the Director receives the notice.
 
-(5) ...
+(2) Where the chairperson of the governing body resigns as chairperson he or she shall at the same time cease to be a member of the governing body.
 
-3. (1) Every ordinary member of a governing body shall be appointed by the Minister on the recommendation of the education and training board and may be removed from office by the Minister on the recommendation of the education and training board.
+(3) The governing body may at any time remove from office a member of the governing body if, in the opinion of the governing body—
 
-(2) An ordinary member may, at any time, resign from office as such member by letter addressed to the education and training board and the resignation shall take effect from the date on which the letter is received. The education and training board shall forthwith notify the Minister of the receipt of the letter.
+(a) the member has become incapable through ill-health of performing his or her functions,
 
-(3) ...
+(b) the member has committed stated misbehaviour, or
 
-(4) A member of the governing body who is absent from all meetings of the governing body for a period of six consecutive months, unless such absence was due to illness or was approved by the governing body, shall be disqualified at the expiry of such period from continuing to be a member of the said governing body for the remainder of that person's term of office.
+(c) the removal of the member appears to be necessary for the effective performance by the governing body of its functions.
 
-(5) A member (including the chairman) whose term of office expires by effluxion of time shall be eligible for reappointment.
+(4) A member of the governing body shall cease to be qualified for office and shall cease to hold office if he or she—
 
-4. (1) A member (including the chairman but excluding an ordinary member who is a registered student of the college) shall hold office for a period not exceeding five years.
+(a) is adjudicated bankrupt,
 
-(2) An ordinary member who is a registered student of the college shall hold office for a period of one year.
+(b) makes a composition or arrangement with creditors,
 
-5. (1) Each governing body shall, from time to time as occasion requires, appoint from amongst its members (other than the chairman or the Director) a member to be deputy-chairman thereof.
+(c) is sentenced by a court of competent jurisdiction to a term of imprisonment,
 
-(2) The deputy-chairman of a governing body shall, unless that member sooner resigns or ceases to be deputy-chairman under subparagraph (3) of this paragraph, hold office until the expiration of that member's period of office as a member of the governing body.
+(d) is convicted of any indictable offence in relation to a company or any other body corporate,
 
-(3) The deputy-chairman, on ceasing to be a member of the governing body, shall thereupon cease to be deputy-chairman.
+(e) is convicted of an offence involving fraud or dishonesty,
 
-6. (1) Where a member of a governing body—
+(f) has a declaration under section 819 of the Companies Act 2014 made against him or her or is deemed to be subject to such a declaration by virtue of Chapter 5 of Part 14 of that Act, or
 
-(a) is nominated as a member of Seanad Éireann, or
+(g) is subject or is deemed to be subject to a disqualification order, within the meaning of Chapter 4 of Part 14 of the Companies Act 2014, whether by virtue of that Chapter or any other provision of that Act.
 
-(b) is elected as a member of either House of the Oireachtas or as a representative in the European Parliament, or
+4. (1) If a member of the governing body, other than the Director, dies, resigns, ceases to be qualified for or ceases, for any reason, to be a member of the governing body, the governing body may appoint a person to fill the casual vacancy.
 
-(c) is regarded pursuant to section 13 (inserted by the European Assembly Elections Act, 1984) of the European Assembly Elections Act, 1977, as having been elected to the European Parliament to fill a vacancy, or
+(2) A person appointed to be a member of the governing body pursuant to subparagraph (1)—
 
-(d) is adjudged bankrupt or makes, under the protection orprocedure of a court, a composition or arrangement with creditors, or
+(a) shall be representative of the person, referred to in paragraph (a), (b), (d) or (e) of section 6(4), who occasioned the casual vacancy,
 
-(e) is sentenced to a term of imprisonment by a court of competent jurisdiction, or
+(b) shall hold office for so much of the term of office of the member who occasioned the casual vacancy concerned as remains unexpired at the date of the appointment, and
 
-(f) who was appointed on foot of an election by the academic staff or by the non-academic staff of the college, ceases to be a member of such staff, that member shall thereupon cease to be a member of the governing body.
+(c) shall be eligible for re-appointment as a member of the governing body on the expiry of that term of office.
 
-(2) A person shall not be eligible to be a member of a governing body if that person—
+5. (1) The governing body shall hold not less than 6 meetings in every 12 month period and such and so many additional meetings as may be necessary, as determined by the chairperson, for the due fulfilment of its functions.
 
-(a) is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein, or
+(2) The chairperson shall convene a meeting of the governing body when requested to do so by not less than the number of members that constitutes a quorum.
 
-(b) is for the time being a member of the European Parliament, or
+(3) The quorum for a meeting of the governing body shall be set by the governing body at its first meeting and may be amended from time to time in accordance with standing orders under paragraph 11.
 
-(c) is an undischarged bankrupt, or
+(4) At a meeting of the governing body it shall appoint from amongst its members a member (other than the Director) to be its deputy-chairperson and the deputy-chairperson shall, unless he or she sooner resigns as deputy-chairperson, hold office until he or she ceases to be a member of the governing body.
 
-(d) within the immediately preceding three years has, under the protection or procedure of a court, made a composition or arrangement with creditors, or
+(5) At a meeting of the governing body—
 
-(e) within the immediately preceding five years, has been sentenced to a term of imprisonment by a court of competent jurisdiction.
+(a) the chairperson shall, if present, be the chairperson of the meeting,
 
-7. (1) A member of the governing body of a college who has—
+(b) if and so long as the chairperson is not present or if the office of chairperson is vacant, the deputy-chairperson, if present, shall be chairperson of the meeting, and
 
-(a) any interest in any company or concern with which the college proposes to make any contract, or
+(c) if and so long as the chairperson is not present or the office of chairperson is vacant, and the deputy-chairperson is not present or the office of deputy-chairperson is vacant, the members of the governing body who are present shall choose one of their number to be chairperson of the meeting.
 
-(b) any interest in any contract which the college proposes to make, shall disclose to the governing body the fact of the interest and the nature thereof and shall take no part in any deliberation or decision of the governing body relating to the contract, and the disclosure shall be recorded in the minutes of the governing body.
+(6) Every question at a meeting of the governing body shall be determined by a majority of the votes of the members of the governing body present and voting on the question, and, in the case of an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
 
-(2) A member of the governing body of a college who is related to a person who is a candidate for appointment by the governing body as an officer or servant of the college shall disclose to the governing body the fact of the relationship and the nature thereof and shall, if the governing body so decides, take no part in any deliberation or decision of the governing body relating to the appointment, and the disclosure and decision shall be recorded in the minutes of the governing body.
+(7) Subject to subparagraph (3), the governing body may act notwithstanding one or more vacancies among its members.
 
-8. The chairman and ordinary members of the governing body of a college shall be paid out of funds at the disposal of the governing body such remuneration (if any) and such allowances for expenses as the Minister, with the approval of the Minister for Finance, may decide.
+(8) The governing body may hold or continue a meeting by the use of any means of communication by which all the members can hear and be heard at the same time (in this Schedule referred to as an "electronic meeting").
 
-9. (a) A governing body shall hold such and so many meetings as may be necessary for the performance of its functions.
+(9) A member of the governing body who participates in an electronic meeting is taken for all purposes to have been present at the meeting.
 
-(b) The education and training board shall fix the date, time and place of the first meeting of the governing body.
+6. (1) he governing body may establish committees (including committees relating to audit and risk management functions), consisting in whole or in part of persons who are members of the governing body or members of staff of the college to assist and advise it in relation to the performance of any of its functions.
 
-(c) The quorum for a meeting of a governing body shall be six members.
+(2) In appointing members of a committee established under this paragraph, the governing body shall have regard to—
 
-10. At a meeting of a governing body—
+(a) the range of qualifications and experience necessary for the proper and effective discharge of the functions of the committee, and
 
-(a) the chairman shall, if present, be the chairman of the meeting,
+(b) the objective that not less than 40 per cent of members of the committee shall be women and not less than 40 per cent of them shall be men.
 
-(b) if and so long as the chairman is not present or if the office of chairman is vacant, the deputy-chairman shall, if present, be chairman of the meeting,
+(3) The governing body may pay to members of a committee established under this paragraph such expenses incurred by them as the governing body may, with the consent of the Minister and the Minister for Public Expenditure and Reform, determine.
 
-(c) if and so long as the chairman is not present or the office of chairman is vacant, and the deputy-chairman is not present or the office of deputy-chairman is vacant, the members of the governing body who are present shall choose one of their number to be chairman of the meeting.
+(4) The governing body may remove a member of a committee established under this paragraph from the committee at any time.
 
-11. Every question at a meeting of a governing body shall be determined by a majority of the votes of members present and voting on the question and, in the case of an equal division of votes, the chairman of the meeting shall have a second or casting vote.
+(5) The acts of a committee shall be subject to confirmation by the governing body, unless the governing body otherwise determines.
 
-12. Subject to paragraph 9 (c) of this Schedule a governing body may act notwithstanding one or more than one vacancy among its members.
+(6) The governing body may determine the terms of reference and regulate the procedure of a committee established under this paragraph.
 
-13. Subject to the provisions of this Act a governing body shall regulate, by standing orders or otherwise, its procedure and business.
+(7) The governing body may appoint a person to be chairperson of a committee established under this paragraph.
 
-14. The governing body of a college shall control and conduct the affairs of the college subject to the provisions of this Act and shall carry out all functions assigned to it by this Act, and, in particular, a governing body—
+(8) A committee shall provide the governing body with such information as the governing body may from time to time require, in respect of the activities and operations of the committee, for the purposes of the performance by the governing body of its functions.
 
-(a) shall determine subject to such directions as the Minister may give from time to time the conditions under which persons shall be admitted to the college and to any particular course of study therein,
+(9) The governing body may at any time dissolve a committee established under this paragraph.
 
-(b) shall determine the conditions under which students, having been admitted to the college, may be excluded from it,
+7. (1) Where a member of the governing body is—
 
-(c) may enter into relationships or co-operate with any other institution, authority or body for any purpose of the college,
+(a) nominated as a member of Seanad Éireann,
 
-(d) subject to subparagraph (a) of this paragraph may accept, in fulfilment or partial fulfilment of the requirement for entry to any course of study in the college, attendance by a student at a course or portion of a course in another college or such other institution as the governing body may decide,
+(b) elected as a member of either House of the Oireachtas or to be a member of the European Parliament, or
 
-(e) ... may engage such consultants or advisors as it may consider necessary for the performance of its functions and any fees payable to such consultants or advisors shall be paid by the college out of moneys at its disposal, and
+(c) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to that Parliament, he or she shall thereupon cease to be a member of the governing body.
 
-(f) may make, from time to time, such regulations as it sees fit for the conduct of the affairs of the college.
+(2) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit in that House or who is a member of the European Parliament shall be disqualified, while he or she is so entitled or is such a member, from being a member of the governing body or a member of a committee established under paragraph 6.
+
+8. (1) Subparagraph (2) applies where, at a meeting of the governing body, any of the following matters arise, namely—
+
+(a) an arrangement to which the governing body is a party,
+
+(b) an arrangement to which the governing body proposes to become a party,
+
+(c) a contract or other agreement with the governing body, or
+
+(d) a proposed contract or other agreement with the governing body.
+
+(2) A member of the governing body present at the meeting referred to in subparagraph (1) who has a pecuniary interest or other beneficial interest in, or material to, the matter concerned shall—
+
+(a) disclose to the governing body at the meeting the fact of that interest and its nature,
+
+(b) not influence (or seek to influence) a decision to be made in relation to the matter,
+
+(c) absent himself or herself from the meeting or that part of the meeting during which the matter is being discussed,
+
+(d) take no part in any deliberation of the governing body relating to the matter, and
+
+(e) not vote on a decision relating to the matter.
+
+(3) Where an interest is disclosed pursuant to this paragraph, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being dealt with by the meeting, the member of the governing body by whom the disclosure is made shall not be counted in the quorum for the meeting.
+
+(4) Where, at a meeting of the governing body, a question arises as to whether or not a course of conduct, if pursued by a member of the governing body, would constitute a failure by him or her to comply with the requirements of subparagraph (2), the question may, subject to subparagraph (5), be determined by the chairperson of the meeting, whose decision shall be final, and where the question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+
+(5) Where, at a meeting of the governing body, the chairperson of the meeting is the member in respect of whom a question to which subparagraph (4) applies falls to be determined, the other members of the governing body attending the meeting shall choose one of their number to be chairperson of the meeting for the purpose of determining the question concerned.
+
+9. Paragraph 8 shall apply to a member of a committee established under paragraph 6 where the member is not also a member of the governing body and for the purposes of that application—
+
+(a) a reference to a member of the governing body shall be construed as reference to a member of the committee, and
+
+(b) a reference to the governing body shall be construed as reference to the committee.
+
+10. (1) A person shall not disclose confidential information obtained by him or her while performing functions as—
+
+(a) a member of or an adviser or consultant to the governing body, or a member of the staff of such an adviser or consultant, or
+
+(b) a member of a committee established under paragraph 6, unless he or she is authorised by the governing body to so do.
+
+(2) A person who contravenes subparagraph (1) commits an offence.
+
+(3) Nothing in this paragraph shall prevent the disclosure of information—
+
+(a) in a report made to the governing body,
+
+(b) by or on behalf of the governing body to the Minister,
+
+(c) by a member of the governing body to the Minister, or
+
+(d) by a person in the circumstances referred to in section 35(2) of the Ethics in Public Office Act 1995.
+
+(4) In this paragraph, "confidential information" includes—
+
+(a) information that is expressed by the governing body to be confidential either as regards particular information or as regards information of a particular class or description, and
+
+(b) information relating to proposals of a commercial nature or tenders submitted to the governing body by contractors, consultants or any other person.
+
+11. Subject to this Act, the governing body shall regulate, by standing orders or otherwise, its procedure and business.
+
+12. Subject to this Act, the governing body may make, amend or revoke rules (in this Act called "regulations of the college") as it thinks fit for the conduct of the affairs of the college.

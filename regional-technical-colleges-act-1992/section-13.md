@@ -1,6 +1,6 @@
 Programmes and budget.
 
-13.—(1) An tÚdarás shall, on or before the first day of March in each year, notify the Director of the funding (in this section referred to as ‘allocated funding’) to be provided by An tÚdarás for that year to a college, from moneys provided to An tÚdarás under section 12 of the Higher Education Authority Act 1971.
+13.—(1) An tÚdarás shall, on or before the first day of March in each year, notify the Director of the funding (in this section referred to as "allocated funding") to be provided by An tÚdarás for that year to a college, from moneys provided to An tÚdarás under section 19 of the Higher Education Authority Act 2022.
 
 (2) The Director shall, on or before the first day of April in each year, or such other date as An tÚdarás may approve, prepare and submit following approval by the governing body, to An tÚdarás, in such form and manner as may from time to time be approved by An tÚdarás, a statement of the proposed expenditure and, other than allocated funding, expected income of the college for that year.
 
@@ -14,7 +14,7 @@ Programmes and budget.
 
 (a) the actual expenditure in a ... year, or
 
-(b) a proposed course of action, taking into account any increased allocation under subsection (4), will or is likely to result in expenditure in excess of the budget for that ... year (in this section referred to as a ‘material departure from the budget’), the Director shall so inform the governing body.
+(b) a proposed course of action, taking into account any increased allocation under subsection (4), will or is likely to result in expenditure in excess of the budget for that ... year (in this section referred to as a "material departure from the budget"), the Director shall so inform the governing body.
 
 (6) Where the governing body, despite being so informed, decides—
 

@@ -14,7 +14,7 @@ Review by Authority of quality assurance procedures of relevant providers.
 
 (a) that review relates to a relevant provider, and
 
-(b) that relevant provider is an institution of higher education.
+(b) that relevant provider is a designated institution of higher education.
 
 (4A) The Authority shall consult with Solas in carrying out a review under subsection (1) where—
 

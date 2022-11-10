@@ -48,7 +48,7 @@ Arrangements by providers for protection of enrolled learners.
 
 (e) An Foras,
 
-(f) the National Tourism Development Authority,
+(f) ...
 
 (g) Teagasc,
 

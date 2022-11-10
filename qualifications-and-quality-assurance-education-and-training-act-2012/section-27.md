@@ -28,9 +28,9 @@ Quality assurance.
 
 (b) to establish effectiveness review procedures, or any other procedures, includes, respectively, the power of the Authority to amend any of the foregoing guidelines, or issue guidelines to replace existing such guidelines, and the power of the Authority to amend any of the foregoing procedures, or establish procedures to replace existing such procedures.
 
-(1C) In consequence of what is provided in the preceding subsection, a reference in this section to ‘issue’ or ‘issuing’, in respect of guidelines, or ‘establish’ or ‘establishing’, in respect of procedures, includes a reference, as the case may be—
+(1C) In consequence of what is provided in the preceding subsection, a reference in this section to "issue" or "issuing", in respect of guidelines, or "establish" or "establishing", in respect of procedures, includes a reference, as the case may be—
 
-(a) to ‘amend’ or to ‘amending’, or
+(a) to "amend" or to "amending", or
 
 (b) to do, or to the doing of, the act of issuing or establishing, as appropriate, guidelines or procedures by way of replacement of existing guidelines or procedures.
 
@@ -42,7 +42,7 @@ Quality assurance.
 
 (a) quality assurance guidelines and effectiveness review procedures apply to providers, and
 
-(b) any or all of those providers are institutions of higher education, the Authority shall consult with An tÚdarás um Ard-Oideachas before issuing those guidelines and establishing those review procedures.
+(b) any or all of those providers are designated institutions of higher education, the Authority shall consult with An tÚdarás um Ard-Oideachas before issuing those guidelines and establishing those review procedures.
 
 (4A) Where—
 

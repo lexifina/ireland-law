@@ -10,7 +10,7 @@ Functions relating to projects
 
 (d) to act as agent for any State authority in connection with the entry or proposed entry by that State authority into a public private partnership arrangement, or
 
-(e) to enter into any arrangement or contract to procure as agent for the Minister for Education and Skills any public investment project in relation to a school, educational facility or other building or structure, including the financing, management, design and construction of such building or structure, as that Minister may from time to time designate.
+(e) to enter into any arrangement or contract to procure as agent for the Minister for Education, the Minister for Further and Higher Education, Research, Innovation and Science or for a local authority (within the meaning of the Local Government Act 2001 ) any public investment project in relation to building or other infrastructure, including the financing, management, design and construction of such building or other infrastructure, as the Minister of the Government concerned or the local authority, as the case may be, may from time to time designate.
 
 (2) In performing its functions under this Part the Agency shall comply with all guidelines and instructions that the Minister for Public Expenditure and Reform may, from time to time, with the consent of the Minister, issue to the Agency.
 
