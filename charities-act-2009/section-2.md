@@ -74,7 +74,7 @@ Interpretation.
 
 (e) a student council established in accordance with section 27 of the Act of 1998,
 
-(f) an institution of higher education within the meaning of the Higher Education Authority Act 1971 (amended by section 52 of the Institutes of Technology Act 2006), or
+(f) a designated institution of higher education within the meaning of the Higher Education Authority Act 2022 that falls under paragraph (a) of section 53(1) of that Act, or
 
 (g) a body established solely for the purpose of funding not more than one such institution of higher education;
 

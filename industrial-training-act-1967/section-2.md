@@ -4,7 +4,7 @@ Interpretation.
 
 “the Act of 1959” means the Apprenticeship Act, 1959 (repealed by this Act);
 
-“activity of industry” includes any activity of commerce or of a trade or occupation, and also includes any activity of a distinct branch of an industry, of commerce or of a trade or occupation, but does not include an activity of agriculture, horticulture or fishing which is an activity of primary production, or any activity of a professional occupation;
+“activity of industry” includes any activity of commerce or of a trade or occupation, and also includes any activity of a distinct branch of an industry, of commerce or of a trade or occupation;
 
 “An Cheard Chomhairle” means the body established by section 8 of the Act of 1959;
 

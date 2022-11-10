@@ -26,7 +26,7 @@ Approved institution.
 
 (a) regard to any of the matters specified in subsection (3),
 
-(b) consulted with the Higher Education Authority, and
+(b) consulted with the An tÚdarás um Ard-Oideachas, and
 
 (c) obtained the consent of the Minister for Finance, he or she may prescribe an educational institution as being an approved institution for the purposes of this section.
 
