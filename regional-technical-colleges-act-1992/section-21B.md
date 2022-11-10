@@ -1,6 +1,6 @@
 Executive functions.
 
-21B.—(1) Every function that is not a reserved function shall be an executive function, and ‘executive function’ shall, in this Act, be construed and have effect accordingly.
+21B.—(1) Every function that is not a reserved function shall be an executive function, and "executive function" shall, in this Act, be construed and have effect accordingly.
 
 (2) Executive functions shall be performed by the Director.
 
