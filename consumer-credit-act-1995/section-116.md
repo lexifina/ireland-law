@@ -2,7 +2,7 @@ Mortgage intermediaries.
 
 116.—(1) Subject to section 116A (inserted by the European Union (Consumer Mortgage Credit Agreements) Regulations 2016) a person shall not engage in the business of being a mortgage intermediary unless—
 
-(a) he is the holder of an authorisation (“a mortgage intermediaries authorisation”) granted for that purpose by the Bank, and
+(a) he is the holder of an authorisation ("a mortgage intermediaries authorisation") granted for that purpose by the Bank, and
 
 (b) he holds an appointment in writing from each undertaking for which he is an intermediary.
 
@@ -56,7 +56,7 @@ Mortgage intermediaries.
 
 (iv) a pawnbroker’s licence granted under the Pawnbrokers Act 1964, or
 
-(v) a moneylender’s licence;
+(v) a high cost credit provider’s licence;
 
 (d) the applicant has failed to provide a current Revenue tax clearance certificate in respect of himself or his business;
 
@@ -118,7 +118,7 @@ Provided that the amount of the fee that would be payable on the application for
 
 (iv) a pawnbroker’s licence granted under the Pawnbrokers Act 1964, or
 
-(v) a moneylender’s licence;
+(v) a high cost credit provider’s licence;
 
 (d) the holder is failing, or has failed, to provide a current Revenue tax clearance certificate in respect of the holder or the holder's business;
 

@@ -4,7 +4,7 @@ Transitional provision.
 
 (b) Part VI shall not apply to any hire-purchase agreement,
 
-(c) sections 100, 101 and 103 shall not apply to a moneylending agreement, and
+(c) sections 100, 101 and 103 shall not apply to a high cost credit agreement, and
 
 (d) Part IX, other than sections 121, 124, 130 (b), 133 (6), 134 and 136, shall not apply to a housing loan, made before the commencement of this Act.
 

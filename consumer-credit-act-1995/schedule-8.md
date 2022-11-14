@@ -2,8 +2,6 @@ EIGHTH SCHEDULE
 
 AMENDMENT OF PAWNBROKERS ACT, 1964
 
-Insert name and address of borrower. Insert name of moneylender.
-
 PART I
 
 Provision of Extent of Amendment Pawnbrokers Act, 1964 amended
@@ -30,7 +28,9 @@ Section 15 (2) (a) The substitution of the following paragraph:
 
 “(a) Where a pawnbroker makes a special contract with a pawner, the pawnbroker shall at the time of the pawning give to the pawner a special contract pawn-ticket which shall contain the particulars set out in the Third Schedule suitably modified to take account of the conditions applicable to the special contract, including any modification to the redemption period (being a period of not less than 4 months), and the pawn-ticket shall be signed by the pawnbroker and the pawner.”.
 
-Section 16 (1) (b) The substitution of the following paragraph:
+Section 16 (1) (b) The substitution of the following paragraph: Provision of Extent of Amendment Pawnbrokers Act, 1964 amended
+
+(1) (2)
 
 “(b) use, as occasion requires, the document set out in the Third Schedule in the form therein prescribed.”.
 
@@ -44,9 +44,7 @@ Section 20 (4) The substitution of the following subsection:
 
 Section 21 (4) The substitution of the following subsection:
 
-“(4) A pledge shall further continue redeemable until it is disposed of as provided in this Act although the redemption period has expired.”. Provision of Extent of Amendment Pawnbrokers Act, 1964 amended
-
-(1) (2)
+“(4) A pledge shall further continue redeemable until it is disposed of as provided in this Act although the redemption period has expired.”.
 
 Section 27 The substitution of the following section:
 
@@ -60,15 +58,15 @@ Section 32 The substitution of the following subsection:
 
 “(1) The person who holds a pawn ticket in respect of a pledge may, at any time before the expiration of 12 months from the date on which the goods are sold, request the pawnbroker with whom the goods were pawned to produce the sale book and catalogue containing the entries of the sale and may, on payment of a fee of 25 pence, inspect such entries.”.
 
-Section 33 (1) The substitution of the following subsection:
+Section 33 (1) The substitution of the following subsection: Provision of Extent of Amendment Pawnbrokers Act, 1964 amended
+
+(1) (2)
 
 “(1) Where the amount obtained on the sale of a pledge exceeds the amount of the loan given on the pledge with the addition of the interest and lawful charges thereon and the fees paid by the pawnbroker in respect of the sale, the holder of the pawn ticket in respect of the pledge, may, subject to the provisions of this Act, demand and obtain the amount of the excess from the pawnbroker at any time before the expiration of 12 months from the date of the sale.”.
 
 Section 45 The substitution of “£250” for “ten pounds”.
 
-Section 47 The substitution of the following section: Provision of Extent of Amendment Pawnbrokers Act, 1964 amended
-
-(1) (2)
+Section 47 The substitution of the following section:
 
 The insertion after section 47 of the following section:
 
@@ -146,9 +144,7 @@ Pledge No.
 
 Pawned with (name of pawnbroker) of (address of pawnbroker) this ______ day of, [month], [year], by (name of pawner, as entered in the Pledge Book) of (address of pawner, as entered in the Pledge Book)
 
-(Description of pledge)
-
-(Amount of the loan)
+(Description of pledge) (Amount of the loan)
 
 Terms of the special contract* *To be printed on the front of the ticket or partly on the front and partly on the back.
 
@@ -186,9 +182,7 @@ Received on redemption of Pledge No________
 
 £
 
-Amount of Loan
-
-Interest
+Amount of Loan Interest
 
 Other Charges
 
@@ -268,8 +262,6 @@ Pawnbrokers Act, 1964 1964, No. 31
 
 Petty Sessions (Ireland) Act, 1851 1851, c. 93
 
-Sale of Goods Act, 1893 1893, c. 71
-
-Sale of Goods and Supply of Services Act, 1980 1980, No. 16
+Sale of Goods Act, 1893 1893, c. 71 Sale of Goods and Supply of Services Act, 1980 1980, No. 16
 
 Trustee Savings Banks Act, 1989 1989, No. 21

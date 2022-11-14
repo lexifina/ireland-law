@@ -2,7 +2,7 @@
 
 Maximum APR: credit agreements.
 
-28A. (1) The APR in respect of a credit agreement, other than a moneylending agreement, shall not be greater than 23 per cent.
+28A. (1) The APR in respect of a credit agreement, other than a high cost credit agreement, shall not be greater than 23 per cent.
 
 (2) A credit institution that is a party to a credit agreement shall ensure that the agreement complies with subsection (1).
 

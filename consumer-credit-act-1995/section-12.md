@@ -32,7 +32,7 @@ Offences.
 
 (b) in Part V, contravenes section 54, or
 
-(c) in Part VIII, contravenes section 96, 97, 98(1) or (2), 100, 101, 102, 103(2), 107, 110 or 111, or
+(c) in Part VIII, contravenes section 94A(1), 96, 97, 98(1) or (2), 98A(1), 100, 101, 102, 103(2), 107, 110 or 111, or
 
 (d) in Part IX, contravenes section 118 or 127, or
 

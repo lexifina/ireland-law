@@ -1,6 +1,6 @@
-Records to be maintained by moneylender.
+Records to be maintained by high cost credit provider.
 
-101.—(1) A moneylender shall, in respect of every moneylending agreement, made after the commencement of this section, to which the moneylender is a party, keep a record of the agreement which shall include the following information:
+101.—(1) A high cost credit provider shall, in respect of every high cost credit agreement, made after the commencement of this section, to which the high cost credit provider is a party, keep a record of the agreement which shall include the following information:
 
 (a) the agreement number or other reference to identify the agreement,
 
@@ -30,9 +30,9 @@ Records to be maintained by moneylender.
 
 (iv) the name of the person to whom the repayment is made.
 
-(2) A moneylender shall retain a record kept under subsection (1) for a period of not less than 5 years after the final repayment instalment under the agreement.
+(2) A high cost credit provider shall retain a record kept under subsection (1) for a period of not less than 5 years after the final repayment instalment under the agreement.
 
-(3) Neither a moneylender nor a person acting on the moneylender's behalf may divulge to a person other than an authorised person any of the contents of records kept by the moneylender under this section.
+(3) Neither a high cost credit provider nor a person acting on the high cost credit provider's behalf may divulge to a person other than an authorised person any of the contents of records kept by the high cost credit provider under this section.
 
 (3A) The following persons are authorised for the purposes of subsection (3):
 

@@ -16,6 +16,6 @@ Duty to supply documents and information.
 
 (5) A request referred to in subsection (1) must be accompanied by a fee of €2.50 or, if some other amount is specified in a regulation made by the Bank for the purposes of this subsection, that other amount. The Bank may make such a regulation only after consulting the Director.
 
-(6) Subsection (5) shall not apply where the request is in relation to a moneylending agreement.
+(6) Subsection (5) shall not apply where the request is in relation to a high cost credit agreement.
 
 (7) This section does not apply to a housing loan.

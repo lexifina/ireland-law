@@ -1,18 +1,18 @@
-Register of moneylenders and mortgage intermediaries.
+Register of high cost credit providers and mortgage intermediaries.
 
 151A.—(1) The Bank shall establish and keep—
 
-(a) a register of moneylenders, and
+(a) a register of high cost credit providers, and
 
 (b) a register of mortgage intermediaries.
 
 (2) Each of the registers is to be kept in a form determined by the Bank.
 
-(3) The register of moneylenders must contain the following particulars:
+(3) The register of high cost credit providers must contain the following particulars:
 
 (a) the information referred to in section 93(8);
 
-(b) any revocation, suspension or variation of the terms or conditions of a moneylender’s licence;
+(b) any revocation, suspension or variation of the terms or conditions of a high cost credit provider's licence;
 
 (c) such other particulars as the Minister for Finance prescribes from time to time.
 

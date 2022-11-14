@@ -10,4 +10,4 @@ Power of court to re-open credit agreement where charge is excessive.
 
 (d) order the repayment to the consumer of the whole or part of any sums paid.
 
-(2) Where an agreement to which subsection (1) relates is a moneylending agreement the court may also order the Bank to revoke, suspend or alter the moneylending licence of the holder concerned either immediately or as from such date as the court may decide.
+(2) Where an agreement to which subsection (1) relates is a high cost credit agreement the court may also order the Bank to revoke, suspend or alter the high cost credit provider’s licence of the holder concerned either immediately or as from such date as the court may decide.
