@@ -60,7 +60,7 @@ Credit intermediaries.
 
 (iv) a pawnbroker’s licence granted under the Pawnbrokers Act, 1964, as amended by this Act, or
 
-(v) a moneylender's licence,
+(v) high cost credit provider’s licence,
 
 (d) the applicant has failed to provide satisfactory evidence that a current tax clearance certificate issued in relation to the authorisation has been issued in accordance with the provisions of section 1094 of the Taxes Consolidation Act, 1997,
 
