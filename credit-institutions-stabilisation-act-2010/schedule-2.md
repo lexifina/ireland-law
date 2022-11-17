@@ -4,13 +4,13 @@ AMENDMENTS OF REGULATIONS OF 2004
 
 Item Provision Amendment Amended
 
-1 Regulation 2(1), Insert after sub-subparagraph (i): definition of
+1 Regulation 2(1), Insert after sub-subparagraph (i): definition of Item Provision Amendment Amended
 
 2 Regulation 2(1), Insert after subparagraph (h): definition of
 
-(j) a direction order, special management order or transfer order
+(j) a direction order, special management order or transfer order (within
 
-(k) an order under section 33(1) of the Central Bank Act 1971 (No.
+(k) an order under section 33(1) of the Central Bank Act 1971 (No. 24 of
 
 3 Regulation 2(2) Substitute:
 

@@ -16,7 +16,7 @@ Item Provision Amendment Amended
 
 4 Section Substitute: 101(3)(k)
 
-(ka) in the case of a building society that has issued special
+(ka) in the case of a building society that has issued special investment
 
 5 Section 101(5) Substitute:
 
@@ -38,9 +38,9 @@ Item Provision Amendment Amended
 
 14 Paragraphs (a) Substitute:
 
-(b) on the conversion date, the business, property, rights and
+(b) on the conversion date, the business, property, rights and liabilities
 
-(c) except where the consent of the holder of special investment
+(c) except where the consent of the holder of special investment shares
 
 15 Section 107 After subsection (1), insert:
 
@@ -52,9 +52,9 @@ Item Provision Amendment Amended
 
 1 Paragraphs Substitute: numbered (am)
 
-(an) to a body or authority that is a competent authority for the
+(an) to a body or authority that is a competent authority for the purposes
 
-(ao) for any purpose connected with the functions of the Bank, the
+(ao) for any purpose connected with the functions of the Bank, the Minister,
 
 PART 3
 
@@ -90,11 +90,11 @@ Item Provision Amendment Amended
 
 4 Section 33 After subsection (3), insert:
 
-(a) the relevant order under subsection (1) shall be expressed as
+(a) the relevant order under subsection (1) shall be expressed as having
 
 (b) sections 33A and 33B have effect in relation to the transfer, and
 
-(c) the Minister may dispense with the requirement in subsection Item Provision Amendment Amended
+(c) the Minister may dispense with the requirement in subsection (1)(b) Item Provision Amendment Amended
 
 5 After section 33, insert:
 
@@ -104,19 +104,19 @@ Item Provision Amendment Amended
 
 (3) Any provision in a relevant agreement that would (apart from this subsection) cause any of the consequences specified in subsection (4) to follow by virtue of—
 
-(a) the amendment of this Act by the Credit Institutions (Stabilisation)
+(a) the amendment of this Act by the Credit Institutions (Stabilisation) Act
 
 (b) the publication of the Bill for that Act,
 
 (c) the making of an order under section 33(1) or any step taken in
 
-(d) an act done or omitted to be done in compliance with such an
+(d) an act done or omitted to be done in compliance with such an order,
 
 (e) any consequences of such an act or omission,
 
 (f) any consequence of a transfer expressed as set out in section 33(4),
 
-(g) any other thing done or authorised to be done under, under or is of no effect, and—
+(g) any other thing done or authorised to be done under, under or resulting is of no effect, and—
 
 (i) no interest or right of any third party arises or becomes exercisable, and
 
@@ -126,19 +126,19 @@ Item Provision Amendment Amended
 
 (a) the creation of an obligation or liability;
 
-(b) the suspension or extinction (however described, and whether in
+(b) the suspension or extinction (however described, and whether in whole
 
-(c) the termination or extinguishment of the relevant agreement
+(c) the termination or extinguishment of the relevant agreement concerned
 
-(d) a right becoming exercisable to terminate or modify the relevant Item Provision Amendment Amended
+(d) a right becoming exercisable to terminate or modify the relevant
 
-(e) an amount becoming due and payable or capable of being declared
+(e) an amount becoming due and payable or capable of being declared due
 
-(f) any other change in the amount or timing of any payment falling
+(f) any other change in the amount or timing of any payment falling to be Item Provision Amendment Amended
 
-(g) a right becoming exercisable to withhold, net or set off any
+(g) a right becoming exercisable to withhold, net or set off any payment
 
-(h) the occurrence of an event giving rise to a default or breach of a
+(h) the occurrence of an event giving rise to a default or breach of a right
 
 (i) a right becoming exercisable not to advance any amount;
 
@@ -146,17 +146,17 @@ Item Provision Amendment Amended
 
 (k) a right of transfer or assignment of an asset or liability;
 
-(l) any right to enforce a guarantee, indemnity or security interest
+(l) any right to enforce a guarantee, indemnity or security interest (however
 
 (m) the triggering of any mandatory prepayment event (howsoever
 
 (n) any obligation to return collateral or its equivalent;
 
-(o) the cancellation of any obligation to advance any amount or to
+(o) the cancellation of any obligation to advance any amount or to provide
 
 (p) legal proceedings becoming maintainable to enforce the relevant
 
-(q) the termination or modification of an obligation to provide a
+(q) the termination or modification of an obligation to provide a service
 
 (r) the accrual of any right to give or withhold any consent or approval;
 
@@ -166,21 +166,23 @@ Item Provision Amendment Amended
 
 (u) the imposition of any condition on the relevant agreement;
 
-(v) the imposition of any condition on any right or obligation under
+(v) the imposition of any condition on any right or obligation under the
 
-(w) the creation of any constructive or resulting trust or other
+(w) the creation of any constructive or resulting trust or other equitable
 
-(x) the accrual of any right to trace any property or to claim an
+(x) the accrual of any right to trace any property or to claim an equitable
 
 (y) any other right or remedy (whether or not similar in kind to those
 
-Minister’s power to modify application of section 33A. 33B.—(1) In this section ‘relevant agreement’ has the same meaning as in
+Minister’s power to modify application of section 33A.
 
-(2) If the Minister is of the opinion that in a particular case or cases the effect of section 33A is in all the circumstances unduly onerous, or causes unfairness or undue hardship, and that it is appropriate in all the circumstances to do so, he or she may by order provide that, Item Provision Amendment Amended notwithstanding anything in that section, a provision in a relevant agreement that provides for a consequence mentioned or referred to in section 33A(4) has effect to the extent specified in the order.
+33B.—(1) In this section ‘relevant agreement’ has the same meaning as in
+
+(2) If the Minister is of the opinion that in a particular case or cases the effect of section 33A is in all the circumstances unduly onerous, or causes unfairness or undue hardship, and that it is appropriate in all the circumstances to do so, he or she may by order provide that, notwithstanding anything in that section, a provision in a relevant agreement that provides for a consequence mentioned or referred to in section 33A(4) has effect to the extent specified in the order.
 
 (3) An order under subsection (2)—
 
-(a) may make provision in relation to the effect of a provision in—
+(a) may make provision in relation to the effect of a provision in— Item Provision Amendment Amended
 
 (i) a particular relevant agreement,
 
@@ -190,15 +192,15 @@ Minister’s power to modify application of section 33A. 33B.—(1) In this sect
 
 (b) in the case of an order that makes provision in relation to relevant
 
-(c) in the case of an order that makes provision in relation to rights
+(c) in the case of an order that makes provision in relation to rights held
 
-(d) may be expressed to have retrospective effect to a date falling
+(d) may be expressed to have retrospective effect to a date falling after
 
 (4) If the Minister considers that an order under subsection (2) contains matter that is commercially sensitive, he or she may direct—
 
-(a) that the obligations in relation to the order under section 3(1) of
+(a) that the obligations in relation to the order under section 3(1) of the
 
-(b) if the preparation of such a version would be impracticable, or
+(b) if the preparation of such a version would be impracticable, or would
 
 (5) A version of an order prepared in accordance with a direction given by the Minister under subsection (4)(a) shall indicate that matter has been
 
@@ -210,9 +212,9 @@ Minister’s power to modify application of section 33A. 33B.—(1) In this sect
 
 7 After section 34, insert:
 
-34A.—All contracts, agreements, conveyances, mortgages, deeds, leases, Item Provision Amendment Amended
+34A.—All contracts, agreements, conveyances, mortgages, deeds, leases,
 
-8 Section 35 After “transferor” (second occurring), insert: “(whether inside or outside the
+8 Section 35 After “transferor” (second occurring), insert: “(whether inside or outside the Item Provision Amendment Amended
 
 9 Section 36 After “in relation to” (first occurring), insert “any property transferred in
 
@@ -240,17 +242,17 @@ Item Provision Amendment Amended
 
 (a) the matters set out in section 2,
 
-(b) the extent and nature of the obligations (including the degree of
+(b) the extent and nature of the obligations (including the degree of control
 
 (c) the resources available to him or her for that purpose.
 
-(1A) For the purposes of this section, the provision of indirect financial support includes the provision of financial support to a person (in particular, a company whose objects include the provision of such financial support) in connection with financial support provided or to be provided by that person to— Item Provision Amendment Amended
+(1A) For the purposes of this section, the provision of indirect financial support includes the provision of financial support to a person (in particular, a company whose objects include the provision of such financial support) in connection with financial support provided or to be provided by that person to—
 
 (a) a credit institution or former credit institution or current or former
 
-(b) credit institutions (including former credit institutions and current
+(b) credit institutions (including former credit institutions and current or
 
-(1B) The Minister may establish a company incorporated under the Companies Acts whose objects include the provision of financial support or operating as a parent undertaking of one or more credit institutions to whom the Minister has provided financial support.”.
+(1B) The Minister may establish a company incorporated under the Companies Acts whose objects include the provision of financial support Item Provision Amendment Amended or operating as a parent undertaking of one or more credit institutions to whom the Minister has provided financial support.”.
 
 2 Section 6(2) Delete.
 
@@ -268,6 +270,6 @@ Item Provision Amendment Amended
 
 1 Section 194 After subsection (2), insert:
 
-(a) has jurisdiction to determine only the point of law certified by the
+(a) has jurisdiction to determine only the point of law certified by the Court
 
 (b) shall, in determining the appeal, act as expeditiously as possible
