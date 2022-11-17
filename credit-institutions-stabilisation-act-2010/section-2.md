@@ -44,7 +44,7 @@ Interpretation.
 
 “financial support” has the same meaning as in the Act of 2008;
 
-‘functions’ includes powers, duties, rights and entitlements, and references to the performance of a function include reference to—
+"functions" includes powers, duties, rights and entitlements, and references to the performance of a function include reference to—
 
 (a) in relation to a power, the exercise of the power,
 
@@ -82,7 +82,7 @@ Interpretation.
 
 (ii) that is, or was on the date on which this Act came into operation, a bank licensed under section 9 of the Central Bank Act 1971, and
 
-(iii) to which financial support, other than a financial incentive under section 38, or under section 46 of the Central Bank and Credit Institutions (Resolution) Act 2011, No. — of 2011), has been given or is to be given by the Minister,
+(iii) to which financial support , other than a financial incentive under section 38, or under section 46 of the Central Bank and Credit Institutions (Resolution) Act 2011, No. — of 2011), has been given or is to be given by the Minister,
 
 (b) a body that has its chief office in the State and is, or was on the date on which this Act came into operation, a building society within the meaning of the Building Societies Act 1989,
 

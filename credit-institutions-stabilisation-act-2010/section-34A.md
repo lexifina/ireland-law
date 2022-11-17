@@ -1,6 +1,6 @@
 Publication of transfer orders.
 
-34A.—(1) The Minister shall, as soon as practicable after a transfer order is made—
+34A.— (1) The Minister shall, as soon as practicable after a transfer order is made—
 
 (a) serve a copy of the transfer order on the relevant institution concerned, and
 

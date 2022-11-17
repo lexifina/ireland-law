@@ -1,6 +1,6 @@
 Publication of special management orders.
 
-14A.—(1) The Minister shall, as soon as practicable after a special management order is made—
+14A.— (1) The Minister shall, as soon as practicable after a special management order is made—
 
 (a) serve a copy of the special management order on the relevant institution concerned, and
 

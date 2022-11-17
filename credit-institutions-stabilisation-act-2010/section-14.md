@@ -16,6 +16,4 @@ Special management orders.
 
 (c) to do so is necessary to secure the achievement of the purpose specified in the proposed special management order or any other purpose of this Act.
 
-(6) ...
-
-(7) A special management order is effective immediately on its making, subject to the right of application under section 16.
+(6) ... (7) A special management order is effective immediately on its making, subject to the right of application under section 16.

@@ -26,7 +26,7 @@ Content of transfer order.
 
 (c) any combination of some or all of the assets and liabilities of the transferor.
 
-(7) Where a transfer order transfers a netting agreement (within the meaning of the Netting of Financial Contracts Act 1995) or a financial collateral arrangement (within the meaning of Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements, as amended by Directive 2009/44/EC of the European Parliament and of the Council of 6 May 2009 , and of the European Communities (Financial Collateral Arrangements) Regulations 2010 (S.I. No. 626 of 2010)), the transfer order shall transfer the whole of that agreement or arrangement.
+(7) Where a transfer order transfers a netting agreement (within the meaning of the Netting of Financial Contracts Act 1995) or a financial collateral arrangement (within the meaning of Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements, as amended by Directive 2009/44/EC of the European Parliament and of the Council of 6 May 2009, and of the European Communities (Financial Collateral Arrangements) Regulations 2010 (S.I. No. 626 of 2010)), the transfer order shall transfer the whole of that agreement or arrangement.
 
 (8) Notwithstanding any enactment or rule of law, a cause of action capable of being exercised by the transferor may be transferred to the transferee by a transfer order.
 

@@ -14,7 +14,9 @@ Effect of appointment of special manager.
 
 (f) subject to subsection (2), no receiver over any part of the property of the relevant institution shall be appointed without the prior consent in writing of the Minister,
 
-(g) subject to subsection (2), no enforcement (whether by attachment, sequestration, distress or execution) of any judgment or order shall be put into force against any part of the property of the relevant institution without the prior consent in writing of the Minister, unless the party seeking to do so is the Minister,
+(g) subject to subsection
+
+(2), no enforcement (whether by attachment, sequestration, distress or execution) of any judgment or order shall be put into force against any part of the property of the relevant institution without the prior consent in writing of the Minister, unless the party seeking to do so is the Minister,
 
 (h) subject to subsection (2), where any claim against a relevant institution is secured by security affecting the whole or any part of the assets of the relevant institution, any person other than the Minister who wishes to realise the whole or any part of that security shall give written notice to the Minister 90 days (or a shorter period to which the Minister agrees) before such realisation, and
 

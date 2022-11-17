@@ -1,6 +1,6 @@
 Publication of direction orders.
 
-9A.—(1) The Minister shall, as soon as practicable after a direction order is made—
+9A.— (1) The Minister shall, as soon as practicable after a direction order is made—
 
 (a) serve a copy of the direction order on the relevant institution concerned, and
 

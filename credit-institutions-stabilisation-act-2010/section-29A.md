@@ -1,6 +1,6 @@
 Publication of subordinated liabilities orders.
 
-29A.—(1) The Minister shall, as soon as practicable after a subordinated liabilities order is made—
+29A.— (1) The Minister shall, as soon as practicable after a subordinated liabilities order is made—
 
 (a) serve a copy of the subordinated liabilities order on the relevant institution concerned, and
 
