@@ -2,7 +2,7 @@
 
 Authorised officers.
 
-39.—(1) The Commission may appoint persons to be authorised officers for the purposes of this Act or the Competition Act 2002.
+39.—(1) The Commission may appoint persons to be authorised officers for the purposes of this Act , the Competition Act 2002, the Consumer Protection Act 2007, the Competition and Consumer Protection Act 2014, the Consumer Rights Act 2022, a transferred function or any regulations made under the Act of 1972.
 
 (2) A person appointed under subsection (1) shall, on his or her appointment, be furnished by the Commission with a certificate of his or her appointment and when exercising a power conferred by subsection (3) shall, if requested by any person thereby affected, produce such certificate to that person for inspection.
 
