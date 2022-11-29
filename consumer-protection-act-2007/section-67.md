@@ -18,7 +18,7 @@ Definition (Part 5).
 
 (f) any contravention of an order under section 62 (1);
 
-(g) any contravention of the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013),
+(g) ...
 
 (h) any contravention of the European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 343 of 2015),
 
@@ -36,4 +36,22 @@ Definition (Part 5).
 
 (ii) the payer (within the meaning of those Regulations) is a consumer,
 
-(n) any contravention of the European Union (Promoting Fairness and Transparency for Business Users of Online Intermediation Services) Regulations 2020 (S.I. No. 256 of 2020), but subject to the exclusion of one or more of the foregoing provisions provided for in section 71, 73, 74 or 75.
+(n) any contravention of the European Union (Promoting Fairness and Transparency for Business Users of Online Intermediation Services) Regulations 2020 (S.I. No. 256 of 2020),
+
+(o) any contravention of section 7 of the Act of 2022;
+
+(p) a failure or refusal by a trader to provide a remedy to which a consumer has a right under section 23 (1)(b), 26 (2)(a), 29 (1), 61 (1), 62 (2)(a), 85 (1) or section 86 (2)(a) of the Act of 2022;
+
+(q) where a consumer is entitled to reimbursement under section 31, 68 or 90 of the Act of 2022, a failure or refusal by a trader to reimburse the consumer;
+
+(r) any contravention of section 39 (1), 44 (1) or (2), 71 (1) or 94 (1) of the Act of 2022;
+
+(s) any contravention of Part 5 of the Act of 2022;
+
+(t) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is unfair under section 132 of that Act;
+
+(u) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is presumed to be unfair under section 133 of that Act;
+
+(v) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is not transparent in contravention of section 134 (1) of that Act;
+
+(w) any contravention of section 140 of the Act of 2022, but subject to the exclusion of one or more of the foregoing provisions provided for in section 71, 73, 74 or 75.
