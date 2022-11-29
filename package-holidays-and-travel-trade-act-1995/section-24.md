@@ -18,9 +18,7 @@ Bonding where an approved body does not have a reserve fund or insurance.
 
 (2) A security provided under section 23(a) or (b) shall be available to defray any reasonable expenses incurred by the Commission for Aviation Regulation, or provide for any payments made by the Commission, in the refund of travellers affected by the insolvency of an organiser or a trader facilitating linked travel arrangements, as the case may be, in accordance with section 22 or 22A.
 
-(3) Where a security provided under section 23(a) is made available to the Commission for Aviation Regulation in the event of the insolvency of an organiser or a trader facilitating linked travel arrangements, and the Commission is satisfied that all payments have been refunded to travellers in accordance with section 22 or 22A, and any expenses of the Commission have been defrayed in accordance with subsection
-
-(2), any residual amount of the security shall be returned to the provider of the security.
+(3) Where a security provided under section 23(a) is made available to the Commission for Aviation Regulation in the event of the insolvency of an organiser or a trader facilitating linked travel arrangements, and the Commission is satisfied that all payments have been refunded to travellers in accordance with section 22 or 22A, and any expenses of the Commission have been defrayed in accordance with subsection (2), any residual amount of the security shall be returned to the provider of the security.
 
 (4) The Commission for Aviation Regulation may release an organiser or a trader or a provider of the security from any liability under the security where it is satisfied that the organiser or trader facilitating linked travel arrangements, has discharged all of the obligations the organiser or trader has to refund all payments to travellers in accordance with section 22 or 22A, in respect of package travel contracts or linked travel arrangements or that no such obligations will arise.
 
@@ -58,11 +56,11 @@ Bonding where an approved body does not have a reserve fund or insurance.
 
 (8) In this section—
 
-‘Act of 2014’ means the Companies Act 2014;
+"Act of 2014" means the Companies Act 2014;
 
-‘de facto director’ shall be construed in accordance with section 222 of the Act of 2014;
+"de facto director" shall be construed in accordance with section 222 of the Act of 2014;
 
-‘financial statements’ means a summary (as at a particular date) of the assets, liabilities and financial position of the organiser or trader facilitating linked travel arrangements, as the case may be, together with the profit or loss, since the date of the previous financial statements and shall comprise—
+"financial statements" means a summary (as at a particular date) of the assets, liabilities and financial position of the organiser or trader facilitating linked travel arrangements, as the case may be, together with the profit or loss, since the date of the previous financial statements and shall comprise—
 
 (a) a balance sheet as at the end of the financial year,
 
@@ -70,12 +68,12 @@ Bonding where an approved body does not have a reserve fund or insurance.
 
 (c) any other additional statements and information attached to the foregoing and forming part of them, and such statements shall give a true and fair view of the assets, liabilities and financial position as at the end of the financial year, and the profit or loss for the financial year, of the organiser or trader;
 
-‘financial year’ shall be construed in accordance with section 288 of the Act of 2014;
+"financial year" shall be construed in accordance with section 288 of the Act of 2014;
 
-‘projected turnover’ means the total of receipts estimated by an organiser or a trader facilitating linked travel arrangements in respect of package travel contracts or linked travel arrangements, as appropriate, to be sold or offered for sale during the period of the security of the type referred to in section 24 being arranged by such organiser or trader, as the case may be;
+"projected turnover" means the total of receipts estimated by an organiser or a trader facilitating linked travel arrangements in respect of package travel contracts or linked travel arrangements, as appropriate, to be sold or offered for sale during the period of the security of the type referred to in section 24 being arranged by such organiser or trader, as the case may be;
 
-‘restricted person’ has the same meaning as it has in section 818(1) of the Act of 2014;
+"restricted person" has the same meaning as it has in section 818(1) of the Act of 2014;
 
-‘shadow director’ shall be construed in accordance with section 221(1) of the Act of 2014;
+"shadow director" shall be construed in accordance with section 221(1) of the Act of 2014;
 
-‘undischarged bankrupt’ has the same meaning as it has in section 2(1) of the Act of 2014.
+"undischarged bankrupt" has the same meaning as it has in section 2(1) of the Act of 2014.
