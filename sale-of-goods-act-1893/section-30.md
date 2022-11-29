@@ -7,3 +7,5 @@ Delivery of wrong quantity.
 (3) Where the seller delivers to the buyer the goods he contracted to sell mixed with goods of a different description not included in the contract, the buyer may accept the goods which are in accordance with the contract and reject the rest, or he may reject the whole.
 
 (4) The provisions of this section are subject to any usage of trade, special agreement, or course of dealing between the parties.
+
+(5) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.

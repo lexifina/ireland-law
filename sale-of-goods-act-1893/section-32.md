@@ -1,9 +1,11 @@
 Delivery to carrier.
 
-32.—(1) Where, in pursuance of a contract of sale, the seller is authorised or required to send the goods to the buyer, delivery of the goods to a carrier, whether named by the buyer or not, for the purpose of transmission to the buyer is primâ facie deemed to be a delivery of the goods to the buyer.
+32.—(1) Where, in pursuance of a contract of sale, the seller is authorised or required to send the goods to the buyer, delivery of the goods to a carrier, whether named by the buyer or not, for the purpose of transmission to the buyer is prima facie deemed to be a delivery of the goods to the buyer.
 
 (2) Unless otherwise authorised by the buyer, the seller must make such contract with the carrier on behalf of the buyer as may be reasonable having regard to the nature of the goods and the other circumstances of the case. If the seller omit so to do, and the goods are lost or damaged in course of transit, the buyer may decline to treat the delivery to the carrier as a delivery to himself, or may hold the seller responsible in damages.
 
 (3) Unless otherwise agreed, where goods are sent by the seller to the buyer by a route involving sea transit, under circumstances in which it is usual to insure, the seller must give such notice to the buyer as may enable him to ensure them during their sea transit, and, if the seller fails to do so, the goods shall be deemed to be at his risk during such sea transit.
 
-(4) In a contract of sale where the buyer deals as consumer, subsections (1) to (3) do not apply.
+(3A) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.
+
+(4) ...

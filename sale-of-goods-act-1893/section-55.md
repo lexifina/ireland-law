@@ -1,6 +1,6 @@
 ## PART VI. SUPPLEMENTARY.
 
-F14[Exclusion of implied terms and conditions.
+F33[Exclusion of implied terms and conditions.
 
 55.—(1) Subject to the subsequent provisions of this section, where any right, duty or liability would arise under a contract of sale of goods by implication of law, it may be negatived or varied by express agreement, or by the course of dealing between the parties, or by usage if the usage is such as to bind both parties to the contract.
 
@@ -17,3 +17,5 @@ F14[Exclusion of implied terms and conditions.
 (7) Any reference in this section to a term of a contract includes a reference to a term which although not contained in a contract is incorporated in the contract by another term of the contract.
 
 (8) This section is subject to section 61 (6) of this Act.
+
+(9) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.

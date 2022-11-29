@@ -1,4 +1,4 @@
-F5[Implied undertakings as to quality or fitness.
+F11[Implied undertakings as to quality or fitness.
 
 14.—(1) Subject to the provisions of this Act and of any statute in that behalf, there is no implied condition or warranty as to the quality or fitness for any particular purpose of goods supplied under a contract of sale.
 
@@ -15,3 +15,5 @@ F5[Implied undertakings as to quality or fitness.
 (5) An implied condition or warranty as to quality or fitness for a particular purpose may be annexed to a contract of sale by usage.
 
 (6) The foregoing provisions of this section apply to a sale by a person who in the course of a business is acting as agent for another as they apply to a sale by a principal in the course of a business, except where that other is not selling in the course of a business and either the buyer knows that fact or reasonable steps are taken to bring it to the notice of the buyer before the contract is made.
+
+(7) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.
