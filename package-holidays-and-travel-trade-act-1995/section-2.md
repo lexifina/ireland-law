@@ -16,15 +16,15 @@ Interpretation.
 
 “the Director” means the Director of Consumer Affairs;
 
-‘Directive’ means Directive (EU) No. 2015/2302 of the European Parliament and the Council of 25 November 2015 on package travel and linked travel arrangements;
+"Directive" means Directive (EU) No. 2015/2302 of the European Parliament and the Council of 25 November 2015 on package travel and linked travel arrangements;
 
-‘durable medium’ means any instrument which enables the traveller or the trader to store information addressed personally to him or her in a way accessible for future reference for a period of time adequate for the purposes of the information and which allows the unchanged reproduction of the information stored;
+"durable medium" means any instrument which enables the traveller or the trader to store information addressed personally to him or her in a way accessible for future reference for a period of time adequate for the purposes of the information and which allows the unchanged reproduction of the information stored;
 
-‘establishment’ shall be construed in accordance with Article 49 of the Treaty on the Functioning of the European Union and means the actual pursuit of an economic activity, as referred to in that Article, by the provider for an indefinite period and through a stable infrastructure from where the business of providing services is actually carried out and, in this Act, a reference to an organiser or a retailer being “established” is to be construed accordingly;
+"establishment" shall be construed in accordance with Article 49 of the Treaty on the Functioning of the European Union and means the actual pursuit of an economic activity, as referred to in that Article, by the provider for an indefinite period and through a stable infrastructure from where the business of providing services is actually carried out and, in this Act, a reference to an organiser or a retailer being “established” is to be construed accordingly;
 
 “functions” includes powers and duties;
 
-‘insolvency’ means the organiser or the trader facilitating a linked travel arrangement is unable to, or is failing to, meet its financial or contractual obligations under this Act owed by it to travellers in respect of package travel contracts or linked travel arrangements and that, in relation to that organiser or trader, one or more of the following events has occurred:
+"insolvency" means the organiser or the trader facilitating a linked travel arrangement is unable to, or is failing to, meet its financial or contractual obligations under this Act owed by it to travellers in respect of package travel contracts or linked travel arrangements and that, in relation to that organiser or trader, one or more of the following events has occurred:
 
 (a) a petition is granted by a court for the compulsory winding up of the business of the organiser or trader;
 
@@ -38,11 +38,11 @@ Interpretation.
 
 (f) the Commission for Aviation Regulation has reasonable grounds for believing that, having regard to all the circumstances, the organiser or trader is unable to, or has failed to, carry out the obligations under this Act owed by it to travellers in respect of package travel contracts or linked travel arrangements;
 
-‘insurance undertaking’ means a person who carries out non-life insurance business authorised under the European Communities (Non-Life Insurance) Framework Regulations 1994 ( S.I. No. 359 of 1994 ) or under the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015);
+"insurance undertaking" means a person who carries out non-life insurance business authorised under the European Communities (Non-Life Insurance) Framework Regulations 1994 ( S.I. No. 359 of 1994 ) or under the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015);
 
-‘lack of conformity’ means a failure to perform or improper performance of the travel services included in a package;
+"lack of conformity" means a failure to perform or improper performance of the travel services included in a package;
 
-‘linked travel arrangement’ means at least two different types of travel services purchased for the purpose of the same trip or holiday, not constituting a package, resulting in the conclusion of separate contracts with the individual travel service providers, if a trader facilitates—
+"linked travel arrangement" means at least two different types of travel services purchased for the purpose of the same trip or holiday, not constituting a package, resulting in the conclusion of separate contracts with the individual travel service providers, if a trader facilitates—
 
 (a) on the occasion of a single visit or contact with the trader’s point of sale, the separate selection and separate payment of each travel service by travellers, or
 
@@ -56,9 +56,9 @@ Interpretation.
 
 “offer” includes an invitation to a person, whether by means of advertising or otherwise, to make an offer to buy a package;
 
-‘organiser’ means a trader who combines and sells or offers for sale packages, either directly or through another trader or together with another trader, or a trader who transmits the traveller’s data to another trader in accordance with paragraph (b)(v) of the definition of ‘package’ in this subsection;
+"organiser" means a trader who combines and sells or offers for sale packages, either directly or through another trader or together with another trader, or a trader who transmits the traveller’s data to another trader in accordance with paragraph (b)(v) of the definition of ‘package’ in this subsection;
 
-‘package’ means a combination of at least two different types of travel services for the purpose of the same trip or holiday, if—
+"package" means a combination of at least two different types of travel services for the purpose of the same trip or holiday, if—
 
 (a) those services are combined by one trader, including at the request of or in accordance with the selection of the traveller, before a single contract on all services is concluded, or
 
@@ -76,7 +76,7 @@ Interpretation.
 
 (I) the name, payment details and e-mail address of the traveller are transmitted from the trader with whom the first contract is concluded to another trader or traders, and
 
-(II) a contract with the latter trader or traders is concluded not later than 24 hours after the confirmation of the booking of the first travel service, but a combination of travel services where not more than one type of travel service referred to in paragraph (a), (b) or (c) of the definition of ‘travel service’ is combined with one or more tourist services referred to in paragraph (d) of that definition is not a package if the latter tourist service or services —
+(II) a contract with the latter trader or traders is concluded not later than 24 hours after the confirmation of the booking of the first travel service, but a combination of travel services where not more than one type of travel service referred to in paragraph (a), (b) or (c) of the definition of "travel service" is combined with one or more tourist services referred to in paragraph (d) of that definition is not a package if the latter tourist service or services —
 
 (a) do not exceed 25 per cent of the value of the combination and are not advertised as and do not otherwise represent an essential feature of the combination; or
 
@@ -84,9 +84,9 @@ Interpretation.
 
 ...
 
-‘package travel contract’ means a contract on the package as a whole or, if the package is provided under separate contracts, all contracts covering travel services included in the package;
+"package travel contract" means a contract on the package as a whole or, if the package is provided under separate contracts, all contracts covering travel services included in the package;
 
-‘point of sale’ means—
+"point of sale" means—
 
 (a) any retail premises, whether movable or immovable,
 
@@ -98,15 +98,15 @@ Interpretation.
 
 “record” means any book, document or any other written or printed material in any form including any information stored, maintained or preserved by means of any mechanical or electronic device, whether or not stored, maintained or preserved in a legible form;
 
-‘repatriation’ means the traveller’s return to the place of departure or to another place the contracting parties agree upon;
+"repatriation" means the traveller’s return to the place of departure or to another place the contracting parties agree upon;
 
-‘retailer’ means a trader other than the organiser who sells or offers for sale packages combined by an organiser;
+"retailer" means a trader other than the organiser who sells or offers for sale packages combined by an organiser;
 
-‘start of the package’ means the beginning of the performance of travel services included in the package;
+"start of the package" means the beginning of the performance of travel services included in the package;
 
-‘trader’ means a natural person or legal person, irrespective of whether privately or publicly owned, who is acting, including through any other person acting in the name of the trader or on behalf of the trader, for purposes relating to the trader’s trade, business, craft or profession in relation to contracts to which this Act applies, whether acting in the capacity of organiser, retailer, trader facilitating a linked travel arrangement or as a travel service provider;
+"trader" means a natural person or legal person, irrespective of whether privately or publicly owned, who is acting, including through any other person acting in the name of the trader or on behalf of the trader, for purposes relating to the trader’s trade, business, craft or profession in relation to contracts to which this Act applies, whether acting in the capacity of organiser, retailer, trader facilitating a linked travel arrangement or as a travel service provider;
 
-‘travel service’ means—
+"travel service" means—
 
 (a) the carriage of passengers,
 
@@ -122,9 +122,9 @@ Interpretation.
 
 (d) any other tourist service not intrinsically part of a travel service within the meaning of paragraphs (a), (b) or (c);
 
-‘traveller’ means any person who is seeking to conclude a contract, or is entitled to travel on the basis of a contract concluded, within the scope of this Act;
+"traveller" means any person who is seeking to conclude a contract, or is entitled to travel on the basis of a contract concluded, within the scope of this Act;
 
-‘unavoidable and extraordinary circumstances’ means a situation beyond the control of the party who seeks to rely on such a situation and the consequences of which could not have been avoided even if all reasonable measures had been taken.
+"unavoidable and extraordinary circumstances" means a situation beyond the control of the party who seeks to rely on such a situation and the consequences of which could not have been avoided even if all reasonable measures had been taken.
 
 (2) ...
 

@@ -34,7 +34,7 @@ Significant failure of performance after start of the package.
 
 (12) (a) The limitation on the liability of an organiser for the cost of necessary accommodation for a traveller for the period referred to in subsection (11) shall not apply to any person with reduced mobility and any person accompanying such a person, pregnant women, unaccompanied minors and persons in need of specific medical assistance, provided that the organiser has been notified of the particular needs of such persons not later than 48 hours before the start of the package.
 
-(b) In paragraph (a), ‘person with reduced mobility’ means any person whose mobility when using transport is reduced due to any physical disability (sensory or locomotor, permanent or temporary), intellectual disability or impairment, or any other cause of disability, or age, and whose situation needs appropriate attention and the adaptation to his or her particular needs of the service made available to all passengers.
+(b) In paragraph (a), "person with reduced mobility" means any person whose mobility when using transport is reduced due to any physical disability (sensory or locomotor, permanent or temporary), intellectual disability or impairment, or any other cause of disability, or age, and whose situation needs appropriate attention and the adaptation to his or her particular needs of the service made available to all passengers.
 
 (13) The organiser shall not be entitled to rely on the existence of unavoidable and extraordinary circumstances to limit the organiser’s liability under subsection (11) where the relevant transport provider is not entitled to rely on such circumstances under applicable European Union passenger rights legislation.
 

@@ -16,7 +16,9 @@ Security requirements in the event of insolvency.
 
 (4) Where the performance of the package is affected by the insolvency of an organiser, the security referred to in subsection (1) shall ensure repatriations and, if necessary, the financing of accommodation prior to the repatriation, or the continuation of the package shall be available to travellers at no cost to the traveller.
 
-(5) Where a travel service included in a package travel contract has not been performed due to the insolvency of the organiser, the security referred to in subsection (1) shall provide for refunds to travellers of the costs of the package travel contract without undue delay after the traveller’s request.
+(5) Where a travel service included in a package travel contract has not been performed due to the insolvency of the organiser, the security referred to in subsection
+
+(1) shall provide for refunds to travellers of the costs of the package travel contract without undue delay after the traveller’s request.
 
 (6) The security referred to in subsection (1) shall be effective and provide for reasonably foreseeable costs including in particular—
 
