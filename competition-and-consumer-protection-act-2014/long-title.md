@@ -1,0 +1,3 @@
+An Act to provide for the establishment of a body to be known in the Irish language as An Coimisiún um Iomaíocht agus Cosaint Tomhaltóirí or in the English language the Competition and Consumer Protection Commission, to provide for the dissolution of the Competition Authority and the National Consumer Agency, to amend the law relating to media mergers and for that and other purposes to amend the Competition Act 2002, the Central Bank Act 1942, the Consumer Protection Act 2007, the Criminal Justice Act 2011 and the Communications (Retention of Data) Act 2011, and to provide for related matters. [28 th July, 2014]
+
+Be it enacted by the Oireachtas as follows:
