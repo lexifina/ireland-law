@@ -52,6 +52,8 @@ Prohibited commercial practices.
 
 (q) using editorial content in the media to promote a product (if a trader has paid for that promotion) if it is not made clear that the promotion is a paid promotion, whether in the content itself or in any oral, written, visual or descriptive representation in the promotion;
 
+(qa) providing search results in response to a consumer’s online search query without clearly disclosing any paid advertisement or payment specifically for achieving higher ranking of products within the search results;
+
 (r) making a representation to a consumer that is materially inaccurate in respect of the nature and extent of risk to the consumer’s personal security, or that of other members of the consumer’s household, if the consumer does not purchase the trader’s product;
 
 (s) promoting a product (similar to that of another manufacturer) in such a manner as to deliberately mislead or deceive a consumer into thinking that the product is manufactured by that manufacturer, when it is not;
@@ -75,6 +77,12 @@ Prohibited commercial practices.
 (ii) is acting as a consumer, when the trader is not;
 
 (y) making a representation or creating an impression that after-supply service in relation to a product is available in a relevant State other than the one in which the product is supplied, when it is not so available.
+
+(z) reselling event tickets to consumers if the trader acquired them by using automated means to circumvent any limit on the number of tickets that a person may buy or any other rules applicable to the purchase of tickets;
+
+(za) stating that reviews of a product are submitted by consumers who have actually used or purchased the product without taking reasonable and proportionate steps to check that the reviews originate from such consumers;
+
+(zb) submitting or commissioning a person to submit false reviews or endorsements by consumers, or misrepresenting reviews or social endorsements by consumers, in order to promote products.
 
 (2) ...
 
