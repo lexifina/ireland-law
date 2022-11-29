@@ -1,3 +1,3 @@
-Power to withdraw acceptance of contract.
+Power to withdraw acceptance of contract. (Repealed)
 
 50.—...

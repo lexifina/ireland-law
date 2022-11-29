@@ -1,3 +1,3 @@
-Exclusion of implied terms and conditions.
+Exclusion of implied terms and conditions. (Repealed)
 
 31.—...

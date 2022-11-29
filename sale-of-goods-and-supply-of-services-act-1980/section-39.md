@@ -1,5 +1,3 @@
-## PART IV SUPPLY OF SERVICES
-
 Implied undertakings as to quality of service.
 
 39.—Subject to section 40, in every contract for the supply of a service where the supplier is acting in the course of a business, the following terms are implied—

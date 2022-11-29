@@ -1,3 +1,3 @@
-Implied terms as to title.
+Implied terms as to title. (Repealed)
 
 26.—...

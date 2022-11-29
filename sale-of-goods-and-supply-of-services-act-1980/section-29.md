@@ -1,3 +1,3 @@
-Samples.
+Samples. (Repealed)
 
 29.—...

@@ -1,3 +1,3 @@
-Liability of persons conducting negotiations antecedent to hire-purchase agreements.
+Liability of persons conducting negotiations antecedent to hire-purchase agreements. (Repealed)
 
 32.—...

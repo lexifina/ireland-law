@@ -1,3 +1,3 @@
-Implied undertakings as to quality or fitness.
+Implied undertakings as to quality or fitness. (Repealed)
 
 28.—...

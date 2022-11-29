@@ -1,3 +1,3 @@
-Letting by description.
+Letting by description. (Repealed)
 
 27.—...

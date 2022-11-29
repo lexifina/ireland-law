@@ -6,13 +6,13 @@ Interpretation generally.
 
 “business” includes profession and the activities of any State authority or local authority;
 
-‘consumer-hire agreement’ has the meaning assigned to it by section 2 (1) of the Consumer Credit Act, 1995;
+"consumer-hire agreement" has the meaning assigned to it by section 2 (1) of the Consumer Credit Act, 1995;
 
 “deals as consumer” shall be construed in accordance with section 3;
 
 “fair and reasonable” shall be construed in accordance with subsection (3);
 
-‘hire-purchase agreement’ has the meaning assigned to it by section 2 (1) of the Consumer Credit Act, 1995;
+"hire-purchase agreement" has the meaning assigned to it by section 2 (1) of the Consumer Credit Act, 1995;
 
 “the Minister” means the Minister for Industry, Commerce and Tourism;
 

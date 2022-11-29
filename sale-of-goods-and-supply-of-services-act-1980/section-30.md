@@ -1,3 +1,3 @@
-Statements purporting to restrict rights of hirer.
+Statements purporting to restrict rights of hirer. (Repealed)
 
 30.—...

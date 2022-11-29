@@ -1,3 +1,3 @@
-Goods let otherwise than under hire-purchase agreement.
+Goods
 
 38.—...

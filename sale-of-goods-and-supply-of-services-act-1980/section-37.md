@@ -1,3 +1,3 @@
-International hire-purchase agreements.
+International hire-purchase agreements. (Repealed)
 
 37.—...

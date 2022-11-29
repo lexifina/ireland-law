@@ -1,3 +1,3 @@
-Conflict of laws.
+Conflict of laws. (Repealed)
 
 36.—...

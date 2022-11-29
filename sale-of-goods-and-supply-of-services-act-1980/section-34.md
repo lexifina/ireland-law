@@ -1,3 +1,3 @@
-Application of section 13 to hire-purchase of motor vehicles.
+Application of section 13 to hire-purchase of motor vehicles. (Repealed)
 
 34.—...

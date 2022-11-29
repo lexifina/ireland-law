@@ -1,3 +1,3 @@
-Application of sections 12, 15 to 19 to hire-purchase agreements.
+Application of sections 12, 15 to 19 to hire-purchase agreements. (Repealed)
 
 33.—...
