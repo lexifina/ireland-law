@@ -1,0 +1,3 @@
+Consumer’s right to price reduction and termination of contract.
+
+74A. ...
