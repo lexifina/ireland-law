@@ -14,19 +14,17 @@ PART II
 
 Form of Notice to be included on front page of a housing loan.
 
-IMPORTANT INFORMATION 1. Amount of credit advanced _____________________ : 2. Period of Agreement _____________________ : 3. Number of Repayment Instalments _____________________ :
+IMPORTANT INFORMATION 1. Amount of credit advanced _____________________ : 2. Period of Agreement _____________________ : 3. Number of Repayment Instalments _____________________ : 4. Amount of Each Instalment* _____________________ :
 
-4. Amount of Each Instalment* _____________________ :
-
-5. Total Amount Repayable* £____________________ :
+5. Total Amount Repayable* €____________________ :
 
 6. Cost of this credit* (5 minus 1) _____________________ :
 
 7. APR** ___________________% :
 
-8. Amount of endowment premium* (if applicable) : £____________________ :
+8. Amount of endowment premium* (if applicable) : €____________________ :
 
-9. Amount of mortgage protection premium* (if applicable) : £____________________ :
+9. Amount of mortgage protection premium* (if applicable) : €____________________ :
 
 10. Effect on amount of instalment of 1% increase in first year in interest rate*** _____________________ :
 

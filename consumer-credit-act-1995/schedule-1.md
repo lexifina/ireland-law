@@ -542,15 +542,11 @@ Whereas it is desirable that consumers should be able to recognize the terms use
 
 Whereas it is appropriate to study without delay to what extent a further degree of harmonization of the cost elements of consumer credit is necessary in order to put the European consumer in a position to make a better comparison between the actual percentage rates of charges offered by institutions in the various Member State, thereby ensuring harmonious functioning of the internal market,
 
-(1) O.J. No. C235, 13.8.1996, p.8 and O.J. No. C137, 3.5.1997, p. 9. (2) O.J. No. C30, 30.1.1997, p. 94. (3) Opinion of the European Parliament of 20 February 1997 (O.J. No. C85,
-
-17.3.1997, p. 108), Council Common Position of 7 July 1997 (O.J. No. C284, 19.9.1997, p. 1) and Decision of the European Parliament of 19 November 1997, Council Decision of 18 December 1997. (4) O.J. No. L42, 12.2.1987, p.48 directive as amended by Directive 90/88/EEC
-
-(O.J. No. L61, 10.3.1990, p. 14).
-
 HAVE ADOPTED THIS DIRECTIVE:
 
 Article 1
+
+(1) O.J. No. C235, 13.8.1996, p.8 and O.J. No. C137, 3.5.1997, p. 9. (2) O.J. No. C30, 30.1.1997, p. 94. (3) Opinion of the European Parliament of 20 February 1997 (O.J. No. C85, 17.3.1997, p. 108), Council Common Position of 7 July 1997 (O.J. No. C284, 19.9.1997, p. 1) and Decision of the European Parliament of 19 November 1997, Council Decision of 18 December 1997. (4) O.J. No. L42, 12.2.1987, p.48 directive as amended by Directive 90/88/EEC (O.J. No. L61, 10.3.1990, p. 14).
 
 Directive 87/102/EEC shall be amended as follows:
 
@@ -590,15 +586,13 @@ For the European Parliament
 
 For the Council
 
-(*) O.J. No. L250, 19.9.1984, p.17. Directive as last amended by Directive 97/55/EC
-
-(O.J. No. L280, 23.10.1997, p.18).
-
 The President
 
 The President
 
 J.M. GIL-ROBLES J. CUNNINGHAM
+
+(*) O.J. No. L250, 19.9.1984, p.17. Directive as last amended by Directive 97/55/EC (O.J. No. L280, 23.10.1997, p.18).
 
 ANNEX I
 
@@ -708,11 +702,11 @@ The equation becomes:
 
 (1+ i)1,5 = 1,2
 
-1+ i = 1,129243 i = 0,129243 This amount will be rounded to 12,9% (or 12,92% if an accuracy of two decimal places is preferred).
+1+ i = 1,129243 i = 0,129243
 
-Second example
+This amount will be rounded to 12,9% (or 12,92% if an accuracy of two decimal places is preferred).
 
-The sum loaned is S = ECU 1,000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1,200, as in the first example, is again made 1.5 years after the date of the loan.
+Second example The sum loaned is S = ECU 1,000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1,200, as in the first example, is again made 1.5 years after the date of the loan.
 
 The equation becomes:
 
