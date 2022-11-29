@@ -2,11 +2,17 @@ Interpretation and application.
 
 2.— (1) In this Act—
 
+"Act of 2022" means the Consumer Rights Act 2022;
+
 “advertisement” includes any form of advertising or marketing;
 
 “Agency” means the National Consumer Agency established by section 7;
 
-"authorised officer" has the same meaning as it has in the Competition and Consumer Protection Act 2014;
+"authorised officer"—
+
+(a) in relation to the functions performed by the Competition and Consumer Protection Commission under this Act, has the same meaning as it has in the Competition and Consumer Protection Act 2014, and
+
+(b) in relation to the functions performed by the Commission for Communications Regulation under this Act, has the same meaning as it has in section 39 of the Communications Regulation Act 2002;
 
 “chief executive” means the chief executive officer of the Agency;
 
@@ -20,9 +26,15 @@ Interpretation and application.
 
 “contravene”, in relation to a provision, includes fail to comply with the provision;
 
-“Directive” means Directive No. 2005/29/EC of the European Parliament and of the Council of 11 May 2005 1 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No. 2006/2004 of the European Parliament and of the Council;
+"digital content" has the same meaning as it has in the Act of 2022;
+
+"digital service" has the same meaning as it has in the Act of 2022;
+
+“Directive” means Directive No. 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No. 2006/2004 of the European Parliament and of the Council;
 
 “Director” means the Director of Consumer Affairs;
+
+"distance contract" has the same meaning as it has in Part 5 of the Act of 2022;
 
 “enactment” means an Act (within the meaning of the Interpretation Act 2005) or any instrument made under a power conferred by an Act (within that meaning);
 
@@ -33,6 +45,8 @@ Interpretation and application.
 (a) food legislation, within the meaning of the Food Safety Authority of Ireland Act 1998;
 
 (b) the enactments specified in Part 1 of Schedule 1 and any instruments made under those enactments for the time being in force; and
+
+O.J. No. L.149, 11/06/2005, p. 22.
 
 (c) the regulations made under the European Communities Act 1972 for the time being in force specified in Part 2 of Schedule 1;
 
@@ -45,8 +59,6 @@ Interpretation and application.
 (b) animals,
 
 (c) minerals, trees or crops, whether on, under or attached to land or not,
-
-O.J. No. L.149, 11/06/2005, p. 22.
 
 (d) gas, electricity or water,
 
@@ -68,9 +80,13 @@ O.J. No. L.149, 11/06/2005, p. 22.
 
 “Minister” means the Minister for Enterprise, Trade and Employment;
 
+"online marketplace" means a service using software, including a website, part of a website or an application, operated by or on behalf of a trader which allows consumers to conclude distance contracts with other traders or consumers;
+
+"ranking" means the relative prominence given to products, as presented, organised or communicated by the trader, irrespective of the technological means used for such presentation, organisation or communication;
+
 “prescribed” means prescribed by regulations made by the Minister;
 
-“product” means goods or services;
+"product" means any goods or services including immovable property, a digital service and digital content, as well as rights and obligations;
 
 “public body” means—
 
@@ -114,11 +130,11 @@ O.J. No. L.149, 11/06/2005, p. 22.
 
 (j) the European Union (Requirements for Credit Transfers and Direct Debits in Euro) Regulations 2013 (S.I. No. 132 of 2013),
 
-(k) the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013),
+(k) ...
 
-(l) the European Union (Consumer Information, Cancellation and Other Rights) (Amendment) Regulations 2014 (S.I. No. 250 of 2014) ,
+(l) ...
 
-(m) the European Union (Interchange Fees for Card-based Payment Transactions) Regulations 2015 (S.I. No. 550 of 2015) , and
+(m) the European Union (Interchange Fees for Card-based Payment Transactions) Regulations 2015 (S.I. No. 550 of 2015) , ...
 
 (n) the following provisions of the European Union (Payment Services) Regulations 2018 (No. 6 of 2018):
 
@@ -129,6 +145,10 @@ O.J. No. L.149, 11/06/2005, p. 22.
 (I) the payee (within the meaning of those Regulations) is a trader that is not a regulated financial service provider (within the meaning of the Central Bank Act 1942), and
 
 (II) the payer (within the meaning of those Regulations) is a consumer;
+
+, and
+
+(o) the Act of 2022.
 
 “representation” includes—
 
