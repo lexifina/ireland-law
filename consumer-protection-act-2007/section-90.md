@@ -10,7 +10,7 @@ Agency guidelines.
 
 (d) the form and manner of submitting codes of practice to the Agency for approval under section 88;
 
-(e) the provisions of the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013);
+(e) the Act of 2022;
 
 (f) the provisions of the European Union (Alternative Dispute Resolution for Consumer Disputes) Regulations 2015 (S.I. No. 343 of 2015);
 
