@@ -1,3 +1,3 @@
-Advances by Minister to Agency.
+Advances by Minister to Agency. (Repealed)
 
 24.— ...

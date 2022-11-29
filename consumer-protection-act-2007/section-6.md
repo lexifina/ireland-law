@@ -2,6 +2,6 @@
 
 ## CHAPTER 1 The Agency
 
-Establishment day.
+Establishment day. (Repealed)
 
 6.— ...

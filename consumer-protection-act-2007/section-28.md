@@ -1,3 +1,3 @@
-Seal of Agency.
+Seal of Agency. (Repealed)
 
 28.—...

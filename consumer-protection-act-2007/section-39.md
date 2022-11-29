@@ -1,3 +1,3 @@
-Transfer of assets and liabilities.
+Transfer of assets and liabilities. (Repealed)
 
 39.— ...

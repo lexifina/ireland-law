@@ -1,3 +1,3 @@
-Functions of Agency.
+Functions of Agency. (Repealed)
 
 8.—...

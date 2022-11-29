@@ -1,3 +1,3 @@
-Functions of chief executive.
+Functions of chief executive. (Repealed)
 
 15.— ...

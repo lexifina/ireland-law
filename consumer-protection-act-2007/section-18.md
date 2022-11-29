@@ -1,3 +1,3 @@
-Membership of either House of the Oireachtas, European Parliament or local authority.
+Membership of either House of the Oireachtas, European Parliament or local authority. (Repealed)
 
 18.—...

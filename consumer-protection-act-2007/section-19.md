@@ -1,3 +1,3 @@
-Indemnity for members of Agency.
+Indemnity for members of Agency. (Repealed)
 
 19.—...

@@ -1,3 +1,3 @@
-Power to enter into contracts and to engage consultants and advisers.
+Power to enter into contracts and to engage consultants and advisers. (Repealed)
 
 26.—...

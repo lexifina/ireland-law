@@ -1,3 +1,3 @@
-Disclosure of interests.
+Disclosure of interests. (Repealed)
 
 25.— ...

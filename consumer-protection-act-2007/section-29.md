@@ -1,3 +1,3 @@
-Power to borrow.
+Power to borrow. (Repealed)
 
 29.— ...

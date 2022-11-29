@@ -1,3 +1,3 @@
-Chief executive.
+Chief executive. (Repealed)
 
 14.—...
