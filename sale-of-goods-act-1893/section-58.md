@@ -8,4 +8,6 @@ Auction sales.
 
 (3) Where a sale by auction is not notified to be subject to a right to bid on behalf of the seller, it shall not be lawful for the seller to bid himself or to employ any person to bid at such sale, or for the auctioneer knowingly to take any bid from the seller or any such person: Any sale contravening this rule may be treated as fraudulent by the buyer:
 
-(4) A sale by auction may be notified to be subject to a reserved or upset price, and a right to bid may also be reserved expressly by or on behalf of the seller. Where a right to bid is expressly reserved, but not otherwise, the seller, or any one person on his behalf, may bid at the auction.
+(4) A sale by auction may be notified to be subject to a reserved or upset price, and a right to bid may also be reserved expressly by or on behalf of the seller.
+
+Where a right to bid is expressly reserved, but not otherwise, the seller, or any one person on his behalf, may bid at the auction.
