@@ -12,6 +12,8 @@ Extent and financial limits of liability.
 
 (c) due to unavoidable and extraordinary circumstances.
 
+OJ No. L. 46, 17.2.2004, p. 1 OJ No. L. 315, 3.12.2007, p. 14 OJ No. L. 334, 17.12.2010, p. 1 OJ No. L. 55, 28.2.2011, p. 1
+
 (4) Where the relevant international conventions limit the extent of or the conditions under which compensation shall be paid by a travel service provider carrying out a travel service which is part of a package, the same limitation shall apply to the liability, if any, of an organiser to pay compensation to a traveller under this Act.
 
 (5) Without prejudice to subsection (4), a package travel contract may include a term limiting the amount of compensation which an organiser shall pay to a traveller for damage sustained by the traveller as a result of any lack of conformity, which compensation shall not be less than three times the total price of the package, but such term shall not have the effect or purport to have the effect of limiting compensation in respect of —
@@ -38,11 +40,13 @@ Extent and financial limits of liability.
 
 (8) In this section—
 
-‘relevant international conventions’ means—
+"relevant international conventions" means—
 
 (a) the Athens Convention,
 
 (b) the Convention concerning International Carriage by Rail (COTIF),
+
+OJ No. L 46, 17.2.2004, p. 1 OJ No. L 315, 3.12.2007, p. 14 OJ No. L 131, 28.5.2009, p. 24 OJ No. L 334, 17.12.2010, p.1 OJ No. L. 55, 28.2.2011, p. 1
 
 (c) the Montreal Convention, and
 
@@ -50,13 +54,13 @@ Extent and financial limits of liability.
 
 (9) In subsection (8) —
 
-‘Athens Convention’ means the Convention relating to the Carriage of Passengers and their Luggage by Sea 1974, done at Athens on 13 December 1974, as amended by the Protocol to the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea 1974, done at London on 1 November 2002;
+"Athens Convention" means the Convention relating to the Carriage of Passengers and their Luggage by Sea 1974, done at Athens on 13 December 1974, as amended by the Protocol to the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea 1974, done at London on 1 November 2002;
 
-‘Convention concerning International Carriage by Rail (COTIF)’ means the Convention concerning International Carriage by Rail (COTIF), done at Berne on 9 May 1980, as amended by the Protocol for the Modification of the Convention concerning International Carriage by Rail (COTIF) of 9 May 1980, done at Vilnius on 3 June 1999;
+"Convention concerning International Carriage by Rail (COTIF)" means the Convention concerning International Carriage by Rail (COTIF), done at Berne on 9 May 1980, as amended by the Protocol for the Modification of the Convention concerning International Carriage by Rail (COTIF) of 9 May 1980, done at Vilnius on 3 June 1999;
 
-‘Montreal Convention’ means the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Montreal on 28 May 1999;
+"Montreal Convention" means the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Montreal on 28 May 1999;
 
-‘Warsaw Convention’ means the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Warsaw on 12 October 1929, or the Warsaw Convention as amended:
+"Warsaw Convention" means the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Warsaw on 12 October 1929, or the Warsaw Convention as amended:
 
 (a) by the Protocol to Amend the Convention for the Unification of Certain Rules for International Carriage by Air, signed at Warsaw on 12 October 1929, done at The Hague on 28 September 1955;
 

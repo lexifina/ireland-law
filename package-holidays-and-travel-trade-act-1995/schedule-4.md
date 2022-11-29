@@ -1,8 +1,6 @@
 SCHEDULE 4
 
-PACKAGE HOLIDAY AND TRAVEL TRADE ACT 1995 (“the Act”)
-
-Terms of Security to be Provided by an Organiser or Trader and Guaranteed by a Bank
+PACKAGE HOLIDAY AND TRAVEL TRADE ACT 1995 (“the Act”) Terms of Security to be Provided by an Organiser or Trader and Guaranteed by a Bank
 
 Part I
 
@@ -80,7 +78,9 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-(euro) upon demand in writing from the Commission for Aviation Regulation. IT IS A CONDITION of this Guarantee that the Commission for Aviation Regulation will repay to us as the Guarantor such part of the sum paid by us to the Commission as shall not be expended in accordance with Part I above or to defray the reasonable expenses incurred by the Commission under section 24(2) of the Act.
+(euro) upon demand in writing from the Commission for Aviation Regulation.
+
+IT IS A CONDITION of this Guarantee that the Commission for Aviation Regulation will repay to us as the Guarantor such part of the sum paid by us to the Commission as shall not be expended in accordance with Part I above or to defray the reasonable expenses incurred by the Commission under section 24(2) of the Act.
 
 IT IS AGREED THAT in circumstances outlined in paragraph (f) of Part I above, the Commission for Aviation Regulation will, before calling on the Guarantor for payment under the security, notify the organiser or trader facilitating linked travel arrangements in writing by delivering the notice to the organiser or trader’s principal place of business or registered office in the State, of its proposal to apply the security and the reasons for such proposal and shall afford the organiser or trader all reasonable opportunity to make representations to the Commission.
 
@@ -96,7 +96,7 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________ this _________________ day of ____________________ 20____.
 
-ACTS REFERRED TO
+Acts Referred to
 
 Companies Act, 1963 1963, No. 33
 
