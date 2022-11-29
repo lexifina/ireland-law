@@ -6,13 +6,17 @@ Functions of Commission.
 
 (aa) to ensure compliance by undertakings with obligations under Regulation (EU) No. 612/2022 of the European Parliament and of the Council of 6 April 2022,
 
-(ab) to ensure compliance by undertakings and premium rate service providers with the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No. 484 of 2013),
+(ab) ...
 
-(ac) to ensure compliance by undertakings and premium rate service providers with the European Communities (Unfair Terms in Consumer Contracts) Regulations 1995 (S.I. No. 27 of 1995),
+(ac) ...
 
 (ad) to closely monitor and ensure compliance by undertakings, including providers of internet access services within the meaning of Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015, with their obligations under Articles 3, 4 and 5 of those Regulations,
 
 (ae) the functions of a national regulatory authority under Article 5a (inserted by Article 50 of Regulation (EU) 2018/1971 of the European Parliament and of the Council of 11 December 2018) of Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015,
+
+(af) to monitor and ensure compliance by undertakings and premium rate service providers with Part 3 of the Consumer Protection Act 2007,
+
+(ag) to monitor and ensure compliance by undertakings and premium rate service providers with Parts 4 to 6 of the Consumer Rights Act 2022,
 
 (b) to manage the radio frequency spectrum and the national numbering resource, in accordance with a direction under section 13,
 
@@ -36,13 +40,15 @@ Functions of Commission.
 
 (e) to ensure compliance, as appropriate, by persons in relation to the placing on the market of communications equipment and the placing on the market and putting into service of radio equipment.
 
-(1A) The functions of the Agency specified in subsection (1B) are (insofar as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission, and subsections (1B) to (1E) have effect for the purposes of this subsection.
+(1A) The functions of the Competition and Consumer Protection Commission specified in subsection (1B) are (in so far as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission for Communications Regulation, and subsections (1B) to (1E) have effect for the purposes of this subsection.
 
-(1B) The functions of the Agency referred to in subsection (1A) are the functions of the Agency under:
+(1B) The functions of the Competition and Consumer Protection Commission referred to in subsection (1A) are the functions of that Commission under—
 
-(a) section 67, section 71, section 73, sections 75 to 77, section 80, sections 83 to 87 and section 90 of the Consumer Protection Act 2007 in relation to the European Union (Consumer Information, Cancellation and Other Rights) Regulations 2013 (S.I. No 484 of 2013), and
+(a) sections 71 to 73, 75, 77, 80 to 82, 85 to 88 and 90 of the Consumer Protection Act 2007 in relation to Part 3 of that Act,
 
-(b) sections 73 and 86 of the Consumer Protection Act 2007 in relation to the European Communities (Unfair Terms in Consumer Contracts) Regulations 1995.
+(b) sections 71 to 73, 75, 77, 80, 85 to 88 and 90 of the Consumer Protection Act 2007 in relation to Parts 4 and 5 of the Consumer Rights Act 2022, and
+
+(c) sections 73, 75, 77, 80, 85 to 87 and 90 of the Consumer Protection Act 2007 in relation to Part 6 of the Consumer Rights Act 2022.
 
 (1C) Subsection (1A) operates to vest in the Commission, concurrently with the vesting in the Agency of those functions by the Consumer Protection Act 2007, the functions specified in subsection (1B).
 
@@ -50,7 +56,7 @@ Functions of Commission.
 
 (a) functions so specified are, subject to any relevant co-operation agreement entered into under section 21 of the Consumer Protection Act 2007, capable of being performed by either the Agency or the Commission, and
 
-(b) subject to subsection (1E), references to the Agency in the provisions of the Act specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
+(b) subject to subsection (1E), references to the Agency in the provisions of the Consumer Protection Act 2007 specified in subsection (1B) are to be read as including references to the Commission and those provisions otherwise apply.
 
 (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.
 
