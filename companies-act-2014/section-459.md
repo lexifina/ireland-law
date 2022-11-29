@@ -80,8 +80,46 @@ Supplementary provisions in relation to sections 457 and 458 (including provisio
 
 (b) pay any sums received by the offeree company under this section into a separate bank account and, for a period of 7 years after the date of such receipt, hold any such sums and any other consideration so received on trust for the several persons entitled to the shares in respect of which those sums or other consideration were respectively received,
 
-(c) after the expiry of the foregoing period of 7 years, transfer any money standing to the credit of that bank account and any shares, other securities or other property vested in it as consideration, together with the names of the persons believed by the company to be entitled thereto to the Minister for Public Expenditure and Reform, who shall indemnify the company in respect of such sums, shares, securities or property and any claim which may be made therefor by the persons entitled thereto,
+(c) after the expiry of the period of 7 years referred to in paragraph (b), realise as soon as practicable any shares, other securities or other property vested in it as consideration and lodge the proceeds so realised and any money standing to the credit of the bank account referred to in paragraph (b), together with the names of the persons believed by the offeree company to be entitled thereto, to an account as the Minister for Public Expenditure and Reform may nominate and operated under the control of the Accountant of the Courts of Justice (in this section referred to as the "nominated account"),
 
 (d) for as long as shares in the offeror are vested in the offeree company (where shares in the offeror have been issued as all or part of the consideration) not be entitled to exercise any right of voting conferred by those shares except by and in accordance with instructions given by the shareholder in respect of whom those shares were so issued or his or her successor-in-title.
 
 (8) Where the relevant scheme, contract or offer becomes binding on or is approved or accepted by a person in respect of a part only of the shares held by him or her, he or she shall be treated as an assenting shareholder as regards that part of his or her holding and as a dissenting shareholder as regards the remainder of his or her holding.
+
+(9) (a) Where the offeree company is unable to realise under subsection (7)(c) the shares, other securities or other property vested in it as consideration, such shares, other securities, or other property and any money standing to the credit of the bank account referred to in subsection (7)(b) shall continue to be held on trust by the offeree company concerned for the persons whom the offeree company believes are entitled thereto until such time as—
+
+(i) the shares, other securities, or other property and any money standing to the credit of the bank account referred to in subsection (7)(b) are claimed by a person claiming to be entitled thereto, or
+
+(ii) the shares, other securities or other property are realised by the offeree company concerned.
+
+(b) Where the offeree company realises the shares, other securities or other property referred to in paragraph (a)(ii), it shall lodge the proceeds so realised and any money standing to the credit of the bank account referred to in subsection (7)(b), together with the names of the persons believed by the offeree company to be entitled thereto, to the nominated account.
+
+(10) Any person claiming to be entitled to any moneys which were lodged to the nominated account under subsection (7)(c) or (9)(b) may make an application to the court in that regard and the court may, where it is satisfied that the person so claiming is so entitled, order that payment be made to that person.
+
+(11) After the expiry of the period of 7 years after the date of any lodgment to the nominated account made under subsection (7)(c), (9)(b) or (13), the amount of the lodgment remaining unclaimed shall be paid into the Exchequer.
+
+(12) Any person claiming to be entitled to any moneys which were paid into the Exchequer under subsection (11) may make an application to the court in that regard and the court may, where it is satisfied that the person so claiming is so entitled, order that the Minister for Public Expenditure and Reform make payment to that person and that Minister shall issue such sum as may be necessary to provide for that payment.
+
+(13) Where, before the commencement of section 175 of the Consumer Rights Act 2022—
+
+(a) money standing to the credit of the bank account referred to in subsection (7)(b) was, after the expiry of the period of 7 years referred to in that subsection, transferred pursuant to the previous subsection (7)(c) to the Minister for Public Expenditure and Reform together with the names of the persons believed by the offeree company to be entitled thereto, that money shall, on the commencement of section 175 of the Consumer Rights Act 2022, be lodged by that Minister, together with those names, to the nominated account, and
+
+(b) any shares, other securities or other property vested in the offeree company as consideration were, after the expiry of the period of 7 years referred to in subsection (7)(b), transferred pursuant to the previous subsection (7)(c) to the Minister for Public Expenditure and Reform—
+
+(i) those shares, other securities or other property shall, on the commencement of section 175 of the Consumer Rights Act 2022, be returned to the offeree company concerned to be held by that company on trust for the persons whom the company believes are entitled thereto,
+
+(ii) the offeree company concerned shall as soon as practicable realise such shares, other securities or other property and shall lodge the proceeds so realised, together with the names of the persons believed by the company to be entitled thereto to the nominated account,
+
+(iii) where the offeree company is unable to realise the shares, other securities or other property vested in it as consideration, such shares, other securities, or other property shall continue to be held on trust by the offeree company concerned for the persons whom the offeree company believes are entitled thereto until such time as the shares, other securities or other property are claimed by a person claiming to be entitled thereto or are realised by the offeree company concerned, and
+
+(iv) where the offeree company has realised the shares, other securities or other property concerned, it shall lodge the proceeds together with the names of the persons believed by the company to be entitled thereto to the nominated account.
+
+(14) On and after the commencement of section 175 of the Consumer Rights Act 2022, any person claiming to be entitled to any moneys which were lodged to the nominated account under subsection (13)(a) or any sum representing the value of the proceeds lodged to the nominated account under subsection (13)(b), whether that claim arises before or after the commencement of section 175 of the Consumer Rights Act 2022, may make an application to the court in that regard, and the court may, where it is satisfied that the person claiming is so entitled, order that payment be made to that person.
+
+(15) No liability shall attach to the Minister for Public Expenditure and Reform in respect of or arising from any action or omission of the offeree company or any other person in relation to—
+
+(a) the shares, other securities or other property vested in the offeree company as consideration referred to in this section, or
+
+(b) the proceeds or moneys referred to in this section prior to or subsequent to their lodgment to the nominated account.
+
+(16) In this section, "previous subsection (7)(c)" means subsection (7)(c) as it stood enacted immediately before the commencement of section 175 of the Consumer Rights Act 2022.

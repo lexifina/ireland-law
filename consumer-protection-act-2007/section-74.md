@@ -1,10 +1,6 @@
 Consumer's right of action for damages.
 
-74.— (1) In this section, “prohibited act or practice” does not include—
-
-(a) a misleading commercial practice described in section 45, or
-
-(b) a contravention of section 65(1) (respecting pyramid promotional schemes).
+74.— (1) ...
 
 (2) A consumer who is aggrieved by a prohibited act or practice shall have a right of action for relief by way of damages, including exemplary damages, against the following:
 

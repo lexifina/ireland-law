@@ -17,3 +17,5 @@ Implied undertaking as to title, etc.
 (ii) in a case where the parties to the contract intend that the seller should transfer only such title as a third person may have, that person, nor
 
 (iii) anyone claiming through or under the seller or that third person otherwise than under a charge or encumbrance disclosed to the buyer before the contract is made, will disturb the buyer's quiet possession of the goods.
+
+(3) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.

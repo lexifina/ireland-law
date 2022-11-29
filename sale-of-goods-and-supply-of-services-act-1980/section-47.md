@@ -38,36 +38,14 @@ Unsolicited goods.
 
 “unsolicited” means, in relation to goods sent to any person, that they are sent without any prior request by him or on his behalf.
 
-(6) Where unsolicited goods are supplied, or unsolicited services are provided, by a trader to a consumer—
+(5A) This section shall not apply in any case where section 125 of the Consumer Rights Act 2022 applies.
 
-(a) subsections (1) to (5) do not apply, and
+(6) ...
 
-(b) subsections (7) to (10) apply.
+(7) ...
 
-(7) The consumer is exempted from any requirement to provide consideration for unsolicited goods or services supplied by the trader.
+(8)...
 
-(8) The absence of a response from the consumer following the supply of unsolicited goods or the provision of unsolicited services does not constitute consent to—
+(9)...
 
-(a) the provision of consideration for the goods or services, or
-
-(b) the return or safekeeping of the goods.
-
-(9) In the case of an unsolicited supply of goods, the consumer may treat the goods as if they were an unconditional gift.
-
-(10) The following definitions apply for the purposes of subsections (6) to (9): consumer means a natural person who is acting for purposes which are outside the person’s trade, business, craft or profession; services includes, without limitation—
-
-(a) digital content not supplied on a tangible medium,
-
-(b) water, gas, and electricity not put up for sale in a fixed volume or set quantity, and
-
-(c) district heating; trader means—
-
-(a) a natural person, or
-
-(b) a legal person, whether—
-
-(i) privately owned,
-
-(ii) publicly owned, or
-
-(iii) partly privately owned and partly publicly owned, who is acting for purposes related to the person’s trade, business, craft or profession, and includes any person acting in the name, or on behalf, of the trader; unsolicited, in relation to goods supplied or services provided to a consumer, means that they are supplied or provided without any request by or on behalf of the consumer.
+(10) ...

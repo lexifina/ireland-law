@@ -2,9 +2,33 @@
 
 Civil relief by way of prohibition orders.
 
-71.— (1) In this section “prohibited act or practice” does not include a contravention of section 59(2) (respecting weighing facilities in grocery retail) or section 60(1) (respecting preventing the reading of prices).
+71.— (1) In this section, "prohibited act or practice" does not include:
+
+(a) a contravention of section 59(2) (respecting weighing facilities in grocery retail);
+
+(b) a contravention of section 60(1) (respecting preventing the reading of prices);
+
+(c) in relation to a financial service (within the meaning of the Central Bank Act 1942) provided by a trader who is a regulated financial service provider (within the meaning of that Act), a failure or refusal by the trader to provide—
+
+(i) a remedy to which a consumer is entitled under section 85 (1) or 86 (2)(a) of the Act of 2022, or
+
+(ii) a reimbursement to which a consumer is entitled under section 90 of the Act of 2022;
+
+(d) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is unfair under section 132 of that Act;
+
+(e) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is presumed to be unfair under section 133 of that Act;
+
+(f) the use by a trader in a consumer contract (within the meaning of the Act of 2022) of a term that is not transparent in contravention of section 134 (1) of that Act.
 
 (2) Any person, including the Agency or any other public body that is prescribed for the purposes of this subsection, may apply to the Circuit Court or High Court for an order prohibiting a trader or person from committing or engaging in a prohibited act or practice.
+
+(2A) An application may be made under subsection (2) for—
+
+(a) an interim order,
+
+(b) an interlocutory order, or
+
+(c) an order for an indefinite period or for a period specified in the application.
 
 (3) An application under subsection (2) shall be on notice to—
 
@@ -17,6 +41,8 @@ Civil relief by way of prohibition orders.
 (5) If the applicant for an order under this section is not the Agency, the court may not make the order unless the Agency has been afforded an opportunity to be heard and adduce evidence.
 
 (6) If the court considers it necessary or appropriate in the circumstances, taking into account all interests involved and, in particular, the public interest, the court may make an order under this section without proof of any actual loss or damage or of any intention or negligence on the part of the trader.
+
+(6A) Where an application under this section relates to a particular prohibited act or practice which relates to any of Parts 2 to 5 of the Act of 2022, an order may be made in relation to any similar prohibited act or practice (or prohibited act or practice having like effect) committed or engaged in by a trader.
 
 (7) In making an order under this section, the court may impose terms or conditions in the order that the court considers appropriate, including a requirement that the trader or person publish a corrective statement, at the trader’s or person’s own expense and in any manner the court considers appropriate, in respect of the matters the subject of the order.
 

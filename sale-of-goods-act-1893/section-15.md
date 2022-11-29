@@ -11,3 +11,5 @@ Sale by sample.
 (b) There is an implied condition that the buyer shall have a reasonable opportunity of comparing the bulk with the sample:
 
 (c) There is an implied condition that the goods shall be free from any defect, rendering them unmerchantable, which would not be apparent on reasonable examination of the sample.
+
+(3) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.

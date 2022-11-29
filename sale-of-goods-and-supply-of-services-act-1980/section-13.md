@@ -35,3 +35,5 @@ Implied condition on sale of motor vehicles.
 “(5) In the case of an action claiming damages under section 13 (7) of the Sale of Goods and Supply of Services Act, 1980, subsection (1) of this section shall have effect as if for the words ‘six years’ there were substituted the words ‘two years’.”.
 
 (9) Notwithstanding section 55 (1) of the Act of 1893 (inserted by section 22 of this Act) any term of a contract exempting from all or any of the provisions of this section shall be void.
+
+(10) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.

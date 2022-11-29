@@ -17,3 +17,5 @@ Exclusions of implied terms and conditions.
 (7) Any reference in this section to a term of a contract includes a reference to a term which although not contained in a contract is incorporated in the contract by another term of the contract.
 
 (8) This section is subject to section 61 (6) of this Act.
+
+(9) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.

@@ -1,6 +1,16 @@
 Undertakings with the Agency.
 
-73.— (1) In this section “prohibited act or practice” does not include a contravention of section 59(2) (respecting weighing facilities in grocery retail) or section 60(1) (respecting preventing the reading of prices).
+73.— (1) In this section, "prohibited act or practice" does not include:
+
+(a) a contravention of section 59(2) (respecting weighing facilities in grocery retail);
+
+(b) a contravention of section 60(1) (respecting preventing the reading of prices);
+
+(c) in relation to a financial service (within the meaning of the Central Bank Act 1942) provided by a trader who is a regulated financial service provider (within the meaning of that Act), a failure or refusal by the trader to provide—
+
+(i) a remedy to which a consumer is entitled under section 85 (1) or 86 (2)(a) of the Act of 2022, or
+
+(ii) a reimbursement to which a consumer is entitled under section 90 of the Act of 2022.
 
 (2) If the Agency has reason to believe that a trader—
 
@@ -26,7 +36,11 @@ Undertakings with the Agency.
 
 (6) The Agency may terminate proceeding against a trader under section 71 (respecting civil relief by way of prohibition orders) on the acceptance of an undertaking from the trader.
 
-(7) Despite subsection (6), the Agency may apply for an order against a trader under section 71 if the trader fails to comply with the terms and conditions of an undertaking under this section.
+(7) Despite subsection (6), the Commission may—
+
+(a) apply for an order against a trader under section 71, or
+
+(b) serve a compliance notice on a trader under section 75, if the trader fails to comply with the terms and conditions of an undertaking under this section.
 
 (8) Subsections (2) to (5) shall, with the following modifications and any other necessary modifications, apply in respect of any trader the Agency has reason to believe is contravening, is about to contravene or has contravened an enactment specified in Schedule 4, namely, the modifications that—
 

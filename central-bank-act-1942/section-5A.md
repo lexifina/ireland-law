@@ -42,7 +42,7 @@ General functions and powers of the Bank.
 
 (i) sections 41 to 56 (other than section 50) of the Consumer Protection Act 2007, and
 
-(ii) the European Communities (Unfair Terms in Consumer Contracts) Regulations 1995 and 2000,
+(ii) Parts 4 and 6 of the Consumer Rights Act 2022,
 
 (b) sections 34, 35 and 36 of the Competition and Consumer Protection Act 2014, and
 

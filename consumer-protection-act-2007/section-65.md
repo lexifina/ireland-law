@@ -4,7 +4,7 @@ Indictable offence: participating in, establishing, operating or promoting pyram
 
 (a) establish, operate or promote a pyramid promotional scheme,
 
-(b) knowingly participate in such a scheme, or
+(b) ...
 
 (c) induce or attempt to induce another person to participate in such a scheme.
 

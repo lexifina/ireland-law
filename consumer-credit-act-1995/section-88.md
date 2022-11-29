@@ -1,3 +1,11 @@
-Application of sections 75 to 83 to consumer-hire agreements.
+Application of sections 73A to 83 to consumer-hire agreements.
 
-88.—Where goods are let under a consumer-hire agreement, the provisions of sections 75 to 83 shall apply to the agreement as if it were a hire-purchase agreement and in every such agreement there is an implied warranty that the goods are free, and will remain free, from any charge or encumbrance not disclosed, before the agreement is made, to the person taking the goods and that that person will enjoy quiet possession of the goods except so far as it may be disturbed by any person entitled to the benefit of any charge or encumbrance so disclosed.
+88.—(1) Subject to subsection (2), where goods are let under a consumer-hire agreement, the provisions of sections 73A to 83 shall apply to the consumer-hire agreement as if it were a hire-purchase agreement.
+
+(2) In the application of section 73P to a consumer-hire agreement, the entitlement to reimbursement of the price referred to in subsection (1)(a) applies only so far as relating to any price paid by the hirer for a period of hire during which the hirer is not in possession of the goods because of the termination of the consumer-hire agreement.
+
+(3) In a consumer-hire agreement, the owner shall ensure that—
+
+(a) the goods are free from any charge or encumbrance that is not disclosed to the hirer before the agreement is entered into, and
+
+(b) the hirer shall enjoy quiet possession of the goods except so far as it may be disturbed by the owner or any other person who is entitled to the benefit of any charge or encumbrance so disclosed.

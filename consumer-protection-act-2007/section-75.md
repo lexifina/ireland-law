@@ -2,7 +2,15 @@
 
 Compliance notices.
 
-75.— (1) In this section “prohibited act or practice” does not include a contravention of a regulation under section 57 (respecting price display regulations).
+75.— (1) In this section, "prohibited act or practice" does not include—
+
+(a) a contravention of a regulation under section 57 (respecting price display regulations),
+
+(b) in relation to a financial service (within the meaning of the Central Bank Act 1942) provided by a trader who is a regulated financial service provider (within the meaning of that Act), a failure or refusal by the trader to provide—
+
+(i) a remedy to which a consumer is entitled under section 85 (1) or 86 (2)(a) of the Act of 2022, or
+
+(ii) a reimbursement to which a consumer is entitled under section 90 of the Act of 2022.
 
 (2) An authorised officer who is of the opinion that a person is committing or engaging in, or has committed or engaged in, a prohibited act or practice or is contravening or has contravened an enactment specified in Schedule 5 may serve, personally or by post, a written notice on that person (a “compliance notice”).
 
@@ -14,7 +22,7 @@ Compliance notices.
 
 (c) specify the date by which the person is to comply with the compliance direction and requirements,
 
-(d) contain a statement that the person may appeal the notice to the District Court within 14 days after service of the notice, including information specifying—
+(d) contain a statement that the person may appeal the notice to the relevant court specified in the notice within 14 days after service of the notice, including information specifying—
 
 (i) the form and manner of such an appeal, and
 
@@ -28,9 +36,11 @@ Compliance notices.
 
 (iii) any failure or refusal to so comply is an offence and, on summary conviction, the person will be liable to the fine and penalties set out in Chapter 4.
 
+(3A) Where the person on whom the compliance notice is served is a trader, an authorised officer may include a requirement under subsection (3)(b) that the trader refund any payments made by the consumer in any transaction relating to the contravention to which the notice relates;
+
 (4) The date specified under subsection (3)(c) shall not be earlier than the end of the period within which an appeal may be made under subsection (5).
 
-(5) If the person on whom the compliance notice is served wishes to dispute the notice, the person may, no later than 14 days after the notice is served and in accordance with this section and in the form and manner specified in the notice, appeal the notice to a judge of the District Court in the district court district in which the notice was served.
+(5) If the person on whom the compliance notice is served wishes to dispute the notice, the person may, no later than 14 days after the notice is served and in accordance with this section and in the form and manner specified in the notice, appeal the notice to a judge of the relevant court specified in the notice.
 
 (6) A person who appeals under subsection (5) shall at the same time notify the Agency of the appeal and the grounds for the appeal and the Agency shall be entitled to appear, be heard and adduce evidence on the hearing of the appeal.
 
@@ -63,3 +73,11 @@ Compliance notices.
 (13) If a compliance notice takes effect in accordance with this section, the Agency shall publish the compliance notice, or cause it to be published, in any form or manner the Agency considers appropriate.
 
 (14) Nothing in this section prevents the commencement of proceedings for an offence.
+
+(15) In this section, "relevant court" means—
+
+(a) the District Court,
+
+(b) the Circuit Court, or
+
+(c) the High Court.

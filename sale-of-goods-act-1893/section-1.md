@@ -1,4 +1,4 @@
-## AN ACT for codifying the Law relating to the Sale of Goods []. [20th February 1894.] PART I. FORMATION OF THE CONTRACT. Contract of Sale.
+## PART I. FORMATION OF THE CONTRACT. Contract of Sale.
 
 Sale and agreement to sell.
 
@@ -9,3 +9,5 @@ Sale and agreement to sell.
 (3) Where under a contract of sale the property in the goods is transferred from the seller to the buyer the contract is called a sale; but where the transfer of the property in the goods is to take place at a future time or subject to some condition thereafter to be fulfilled the contract is called an agreement to sell.
 
 (4) An agreement to sell becomes a sale when the time elapses or the conditions are fulfilled subject to which the property in the goods is to be transferred.
+
+(5) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.

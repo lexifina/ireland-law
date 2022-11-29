@@ -5,3 +5,5 @@ Sale by description.
 (2) A sale of goods shall not be prevented from being a sale by description by reason only that, being exposed for sale, they are selected by the buyer.
 
 (3) A reference to goods on a label or other descriptive matter accompanying goods exposed for sale may constitute or form part of a description.
+
+(4) This section shall not apply to a contract to which Part 2 of the Consumer Rights Act 2022 applies.
