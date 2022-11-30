@@ -8,6 +8,8 @@ Interpretation.
 
 "Act of 2022" means the Consumer Rights Act 2022;
 
+"Act of 2024" means the Gambling Regulation Act 2024;
+
 "advertisement" includes every form of advertising, whether in a publication, by television or radio, by display of notices, signs, labels, showcards or goods, by distribution of samples, circulars, catalogues, price lists or other material, by exhibition of pictures, models or films, or in any other way, and references to the publishing of advertisements shall be construed accordingly;
 
 "agreement" means an agreement to which this Act applies;
@@ -58,7 +60,9 @@ Interpretation.
 
 "cooling-off period" has the meaning assigned to it by section 50;
 
-"the Council Directive" means Council Directive No. 87/102/EEC of 22 December 1986(1), for the approximation of the laws, regulations and administrative provisions of the Member States of the European Communities concerning consumer credit, as amended by Council Directive No. 90/88/EEC of 22 February 1990(2) and Directive 98/7/EC of the European Parliament and of the Council of 16 February 1998(3), the texts of which are set out for convenience of reference in Parts I, II and III, respectively, of the First Schedule;
+"the Council Directive" means Council Directive No. 87/102/EEC of 22 December 1986(1), for the approximation of the laws, regulations and administrative provisions of the Member States of the European Communities concerning consumer credit, as amended by Council Directive No. 90/88/EEC of 22 February 1990(2) and Directive 98/7/EC of the European Parliament and of
+
+(1) O.J. No. L42,12.2.87, p. 48 (2) O.J. No. C30, 30.1.1997, p. 94. the Council of 16 February 1998(3), the texts of which are set out for convenience of reference in Parts I, II and III, respectively, of the First Schedule;
 
 "credit" includes a deferred payment, cash loan or other similar financial accommodation;
 
@@ -67,8 +71,6 @@ Interpretation.
 "credit card" means a card issued by a credit institution or other person to an individual by means of which goods, services or cash may be obtained by the individual on credit and amounts in respect of the goods, services or cash may be charged to the credit card account of the individual maintained by the credit institution or other person;
 
 "credit institution" means—
-
-(1) O.J. No. L42,12.2.87, p. 48 (2) O.J. No. C30, 30.1.1997, p. 94. (3) O.J. No. L101, 1.4.98, p 17.
 
 (a) the holder of a licence granted under section 9 of the Central Bank Act, 1971,
 
@@ -100,7 +102,9 @@ Interpretation.
 
 (a) a service that allows a hirer to create, process, store or access data in digital form, or
 
-(b) a service that allows the sharing of or any other interaction with data in digital form uploaded or created by a hirer or any other user of the service, and includes in particular video and audio sharing and other file hosting, social media and word processing and games offered in the cloud computing environment;
+(b) a service that allows the sharing of or any other interaction with data in digital form uploaded or created by a hirer or any other user of the service,
+
+(3) O.J. No. L101, 1.4.98, p 17. and includes in particular video and audio sharing and other file hosting, social media and word processing and games offered in the cloud computing environment;
 
 "the Director" means the Director of Consumer Affairs;
 
