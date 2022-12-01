@@ -1,0 +1,17 @@
+Amendment of section 3 of Act of 2021
+
+43. Section 3 of the Act of 2021 is amended—
+
+(a) by renumbering the section as section 3(1), and
+
+(b) by the insertion of the following subsections after subsection (1):
+
+“(2) Where, but for this subsection, a public body would not be able to perform, in relation to any matter whatsoever, one or more than one of its public functions by virtue of the matter relating, whether in whole or in part, to the continental shelf or any part thereof, then, by virtue of this subsection, the public body may perform the public function concerned in relation to that matter as if the continental shelf or the part thereof concerned were a part of the State where the public body may perform such function, and the other provisions of this Act or of any other enactment shall, with all necessary modifications, be construed accordingly.
+
+(3) A public body shall, in the performance, in relation to any matter whatsoever, of its functions under this Act or any enactment amended by this Act, have regard to—
+
+(a) the obligations placed on the State by the Convention, and
+
+(b) the obligations in respect of the rights of the public or any class of the public over the foreshore in relation to navigation and fishing.
+
+(4) For the purposes of this section, ‘foreshore’ means the bed and shore, below the line of high water of ordinary or medium tides, of the sea and of every tidal river and tidal estuary and of every channel, creek, and bay of the sea or of any such river or estuary.”.
