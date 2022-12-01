@@ -1,3 +1,3 @@
-Supplementary grants by housing authority where certain grants are made under section 3 of Housing (Gaeltacht) Act 1929.
+Supplementary grants by housing authority where certain grants are made under section 3 of Housing (Gaeltacht) Act 1929. (Repealed)
 
 31.—...

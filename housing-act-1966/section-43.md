@@ -1,3 +1,3 @@
-Guarantee of advances to builders.
+Guarantee of advances to builders. (Repealed)
 
 43.—...

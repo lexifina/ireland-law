@@ -1,3 +1,3 @@
-Grants by Minister to housing authority in respect of works executed in pursuance of section 69 of Act.
+Grants by Minister to housing authority in respect of works executed in pursuance of section 69 of Act. (Repealed)
 
 25.—...

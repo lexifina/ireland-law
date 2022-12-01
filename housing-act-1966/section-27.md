@@ -1,3 +1,3 @@
-Supplementary grants by housing authority for erection of flats or maisonettes.
+Supplementary grants by housing authority for erection of flats or maisonettes. (Repealed)
 
 27.—...

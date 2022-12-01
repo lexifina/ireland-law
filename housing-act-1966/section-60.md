@@ -1,3 +1,3 @@
-Duty of housing authority to make scheme of priorities for letting housing accommodation.
+Duty of housing authority to make scheme of priorities for letting housing accommodation. (Repealed)
 
 60.—...

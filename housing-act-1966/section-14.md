@@ -1,3 +1,3 @@
-Regulations for purposes of sections in Chapter III of part II.
+Regulations for purposes of sections in Chapter III of part II. (Repealed)
 
 14.—...

@@ -1,3 +1,3 @@
-Modification and restriction on increase of rateable valuation in certain cases.
+Modification and restriction on increase of rateable valuation in certain cases. (Repealed)
 
 33.—...

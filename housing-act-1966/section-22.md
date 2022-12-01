@@ -1,3 +1,3 @@
-Further grants by Minister for reconstruction of houses.
+Further grants by Minister for reconstruction of houses. (Repealed)
 
 22.—...

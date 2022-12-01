@@ -1,3 +1,3 @@
-Charging of expenses of housing authority who are county council.
+Charging of expenses of housing authority who are county council. (Repealed)
 
 8.—...

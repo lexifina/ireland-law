@@ -1,3 +1,3 @@
-Restriction of local Acts and other provisions.
+Restriction of local Acts and other provisions. (Repealed)
 
 37.—...

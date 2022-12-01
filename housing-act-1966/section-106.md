@@ -1,5 +1,5 @@
 ## CHAPTER IV Miscellaneous
 
-Duty of housing authority to put certain cottages and dwellings into good structural condition.
+Duty of housing authority to put certain cottages and dwellings into good structural condition. (Repealed)
 
 106.—...

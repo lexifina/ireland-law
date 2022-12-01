@@ -1,3 +1,3 @@
-Subsidy by Minister in respect of certain loan charges.
+Subsidy by Minister in respect of certain loan charges. (Repealed)
 
 48.—...

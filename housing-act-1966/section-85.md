@@ -1,3 +1,3 @@
-Appropriation of land to purposes of this Act.
+Appropriation of land to purposes of this Act. (Repealed)
 
 85.—...

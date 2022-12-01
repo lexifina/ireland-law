@@ -1,3 +1,3 @@
-Amendment of section 12 of Finance Act, 1895.
+Amendment of section 12 of Finance Act, 1895. (Repealed)
 
 51.—...

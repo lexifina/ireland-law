@@ -1,3 +1,3 @@
-Review by housing authority of cost of housing services.
+Review by housing authority of cost of housing services. (Repealed)
 
 54.—...

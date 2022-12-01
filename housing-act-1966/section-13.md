@@ -1,5 +1,5 @@
 ## CHAPTER III Housing Loans and Grants, etc.
 
-Definition for purposes of Chapter III of part II.
+Definition for purposes of Chapter III of part II. (Repealed)
 
 13.—...

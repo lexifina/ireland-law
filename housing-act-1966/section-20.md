@@ -1,3 +1,3 @@
-Grants by Minister for provision of prototype houses.
+Grants by Minister for provision of prototype houses. (Repealed)
 
 20.—...

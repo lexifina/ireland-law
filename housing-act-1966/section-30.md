@@ -1,3 +1,3 @@
-Supplementary grants and other assistance by housing authority for essential repairs.
+Supplementary grants and other assistance by housing authority for essential repairs. (Repealed)
 
 30.—...

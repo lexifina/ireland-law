@@ -1,3 +1,3 @@
-Recovery of Possession of dwellings and other buildings.
+Recovery of Possession of dwellings and other buildings. (Repealed)
 
 62.—...

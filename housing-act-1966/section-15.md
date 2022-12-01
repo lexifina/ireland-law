@@ -1,3 +1,3 @@
-Grants by Minister for provision of houses.
+Grants by Minister for provision of houses. (Repealed)
 
 15.—...

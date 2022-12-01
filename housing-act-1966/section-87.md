@@ -1,3 +1,3 @@
-Amendment of section 10 of Local Government (Ireland) Act, 1898.
+Amendment of section 10 of Local Government (Ireland) Act, 1898. (Repealed)
 
 87.—...

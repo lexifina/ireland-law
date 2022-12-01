@@ -1,3 +1,3 @@
-Grants by certain housing authorities for accommodation for person suffering from Pulmonary tuberculosis.
+Grants by certain housing authorities for accommodation for person suffering from Pulmonary tuberculosis. (Repealed)
 
 32.—...

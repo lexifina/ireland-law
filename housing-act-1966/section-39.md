@@ -1,3 +1,3 @@
-Loans by housing authority for acquisition or construction of houses.
+Loans by housing authority for acquisition or construction of houses. (Repealed)
 
 39.—...

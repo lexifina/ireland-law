@@ -1,3 +1,3 @@
-Supplementary grants by housing authority for reconstruction of houses.
+Supplementary grants by housing authority for reconstruction of houses. (Repealed)
 
 29.—...

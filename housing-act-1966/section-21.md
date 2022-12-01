@@ -1,3 +1,3 @@
-Grants by Minister to persons for reconstruction of houses.
+Grants by Minister to persons for reconstruction of houses. (Repealed)
 
 21.—...

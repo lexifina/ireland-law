@@ -1,3 +1,3 @@
-Assistance by housing authority of certain bodies.
+Assistance by housing authority of certain bodies.(Repealed)
 
 12.—...

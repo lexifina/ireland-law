@@ -1,3 +1,3 @@
-Grants by Minister for provision of second houses on transfer of certain holdings.
+Grants by Minister for provision of second houses on transfer of certain holdings. (Repealed)
 
 17.—...

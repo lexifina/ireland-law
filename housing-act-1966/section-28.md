@@ -1,3 +1,3 @@
-Supplementary grants by housing authority to bodies for provision of houses for elderly persons and for other purposes.
+Supplementary grants by housing authority to bodies for provision of houses for elderly persons and for other purposes. (Repealed)
 
 28.—...

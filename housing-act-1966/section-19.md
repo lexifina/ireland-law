@@ -1,3 +1,3 @@
-Grants by Minister for housing of elderly persons and others.
+Grants by Minister for housing of elderly persons and others. (Repealed)
 
 19.—...

@@ -1,3 +1,3 @@
-Amendment of section 1 of Local Government (Rates on Small Dwellings) Act, 1928.
+Amendment of section 1 of Local Government (Rates on Small Dwellings) Act, 1928. (Repealed)
 
 59.—...

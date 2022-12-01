@@ -1,3 +1,3 @@
-Bye-laws in relation to rented houses.
+Bye-laws in relation to rented houses. (Repealed)
 
 70.—...
