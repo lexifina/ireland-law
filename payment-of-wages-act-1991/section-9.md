@@ -1,3 +1,3 @@
-Powers of authorised officers.
+Powers of authorised officers. (Repealed)
 
 9.—...
