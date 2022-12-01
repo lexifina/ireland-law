@@ -2,7 +2,7 @@
 
 Appointment of chief executive officer
 
-56. (1) The Board (M) shall, as soon as is practicable after the establishment day and thereafter as required, appoint a person, being a person who has been recommended by the Public Appointments Service, to be the chief executive officer of the MARA (in this Act referred to as the “chief executive officer”).
+56. (1) Subject to subsection (9), the Board (M) shall, as soon as is practicable after the establishment day and thereafter as required, appoint a person, being a person who has been recommended by the Public Appointments Service, to be the chief executive officer of the MARA (in this Act referred to as the “chief executive officer”).
 
 (2) Subject to subsection (4), the Public Appointments Service shall recommend a person for appointment as the chief executive officer following an open selection competition held by the Service for that purpose.
 
@@ -19,3 +19,9 @@ Appointment of chief executive officer
 (8) The chief executive officer, although not eligible, by virtue of section
 
 54(1), to be a member of the Board (M) or a committee of the Board (M), may, in accordance with procedures established by the Board (M) or a committee of the Board (M), as the case may be, attend meetings of the Board (M) or a committee of the Board (M) and shall be entitled to speak at and advise such meetings.
+
+(9) (a) A selection competition to appoint a chief executive officer may be held before the establishment day and the successful candidate may be appointed by the Minister as the chief executive designate of the MARA.
+
+(b) The chief executive designate shall be appointed chief executive officer on the establishment of the MARA.
+
+(c) The date of the person’s appointment under paragraph (a) shall be deemed to be the date of his or her appointment as chief executive officer.
