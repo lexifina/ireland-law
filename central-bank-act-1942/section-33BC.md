@@ -61,3 +61,5 @@ Bank may publish its decisions.
 (18) This section does not apply where Regulation 42 of Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020 applies.
 
 (19) This section does not apply where Article 69 of Regulation (EU) No 2019/1238 of the European Parliament and Council of 20 June 2019 applies.
+
+(20) This section does not apply where Regulation 10 of the European Union (Recovery and Resolution of Central Counterparties) Regulations 2022 (S.I. No. 547 of 2022) applies.

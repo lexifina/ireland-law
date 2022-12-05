@@ -300,6 +300,8 @@ Interpretation.
 
 (bg) Regulation (EU) No 2019/1238 of the European Parliament and Council of 20 June 2019.
 
+(bg) Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020.
+
 (3) A function or responsibility imposed, or a power conferred, on a person by a provision of this Act is not to be taken to be limited merely by implication from another provision, whether of this or any other Act, that imposes a function or responsibility, or confers a power, on that person.
 
 (4) For the purposes of this Act, a person is concerned in the management of a body corporate, or a firm, that is a regulated financial service provider if the person is in any way involved in directing, managing or administering the affairs of the body or firm.
