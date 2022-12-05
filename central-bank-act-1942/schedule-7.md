@@ -30,13 +30,13 @@ FINANCIAL SERVICES OMBUDSMAN, DEPUTY FINANCIAL SERVICES OMBUDSMEN AND OTHER BURE
 
 (a) for proven misconduct or incompetence, or
 
-(b) if the removal appears to the Council to be necessary for the effective performance of the functions of the office concerned.
-
-2.—(1) The Financial Services Ombudsman and each Deputy Financial Services Ombudsman is entitled to be paid such remuneration and allowances (including travel and subsistence allowances) as the Council decides.
+(b) if the removal appears to the Council to be necessary for the effective performance of the functions of the office concerned. 2.—(1) The Financial Services Ombudsman and each Deputy Financial Services Ombudsman is entitled to be paid such remuneration and allowances (including travel and subsistence allowances) as the Council decides.
 
 (2) A decision of the Council under this paragraph does not take effect until approved by the Minister.
 
-3.—Neither the Financial Services Ombudsman nor a Deputy Financial Services Ombudsman may engage in paid employment outside the duties of the office unless the Council approves the employment. 4.—(1) In this paragraph—
+3.—Neither the Financial Services Ombudsman nor a Deputy Financial Services Ombudsman may engage in paid employment outside the duties of the office unless the Council approves the employment.
+
+4.—(1) In this paragraph—
 
 "superannuation scheme" means a superannuation scheme prepared under subparagraph (2) or (4), and if the scheme is amended in accordance with this paragraph, means the scheme as amended;
 
@@ -52,9 +52,7 @@ FINANCIAL SERVICES OMBUDSMAN, DEPUTY FINANCIAL SERVICES OMBUDSMEN AND OTHER BURE
 
 (6) Except with the written consent of the Minister, the Council may not provide superannuation benefits to or in respect of a beneficiary or make arrangements for the provision of such benefits otherwise than in accordance with a superannuation scheme approved by the Minister in accordance with this paragraph.
 
-(7) The Council is responsible for conciliating and settling any dispute that arises in relation to a claim made by a beneficiary or a dependant of a beneficiary for or in respect of the payment of a superannuation benefit under a superannuation scheme approved by the Minister.
-
-5.—(1) In this paragraph—
+(7) The Council is responsible for conciliating and settling any dispute that arises in relation to a claim made by a beneficiary or a dependant of a beneficiary for or in respect of the payment of a superannuation benefit under a superannuation scheme approved by the Minister. 5.—(1) In this paragraph—
 
 "superannuation benefit" means a superannuation benefit payable to a beneficiary or, if the beneficiary has died, to the spouse or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 or a child of the beneficiary, and includes a pension, a retirement allowance and a gratuity;
 

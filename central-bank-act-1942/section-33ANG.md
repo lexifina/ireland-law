@@ -42,6 +42,8 @@ Application of Part under Investment Firms Directive.
 
 "Regulations of 2021" means the European Union (Investment Firms) Regulations 2021;
 
-"relevant provisions" means a provision of Regulations 42 to 50 of the Regulations of 2021. CHAPTER 2
+"relevant provisions" means a provision of Regulations 42 to 50 of the Regulations of 2021.
+
+CHAPTER 2
 
 Power of Bank to hold inquiries
