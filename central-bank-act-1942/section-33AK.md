@@ -454,6 +454,8 @@ Disclosure of information.
 
 (ak) Regulation (EU) 2019/2033 of the European Parliament and Council of 27 November 2019,
 
-(al) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020;
+(al) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020,
+
+(am) Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020;
 
 "supervised entity" means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
