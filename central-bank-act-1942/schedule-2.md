@@ -118,6 +118,8 @@ Financial Services The whole Act (Deposit Guarantee Scheme) Act 2009
 
 49 No. 16 of 2021 Counterfeiting Act 2021 Part 3
 
+50 Consumer Rights Act 2022 Parts 4 and 6
+
 PART 2
 
 STATUTORY INSTRUMENTS
@@ -164,7 +166,7 @@ Item Number and Year Citation Provisions
 
 20 S.I. No. 360 of 1994 European Communities (Life The whole instrument Assurance) Framework Regulations 1994
 
-21 S.I. No. 27 of 1995 European Communities The whole instrument (Unfair Terms in Consumer Contracts) Regulations 1995
+21 ... ... ...
 
 22 S.I. No. 168 of 1995 European Communities The whole instrument (Deposit Guarantee Schemes) Regulations 1995
 
@@ -180,7 +182,7 @@ Item Number and Year Citation Provisions
 
 28 S.I. No. 381 of 1997 Rules entitled Investment The whole instrument Intermediaries Act 1995 (Determination Committee) Rules of Procedure 1997
 
-29 S.I. No. 307 of 2000 European Communities The whole instrument (Unfair Terms in Consumer Contracts) (Amendment) Regulations 2000
+29 ... ... ...
 
 30 S.I. No. 473 of 2000 Insurance Act, 1989 The whole instrument (Reinsurance) (Form of Notice) Regulations 2000
 
@@ -200,9 +202,9 @@ Winding-up of Credit Institutions) Regulations 2011
 
 37 S.I. No. 727 of 2004 European Communities The whole instrument (Financial Conglomerates) Regulations 2004
 
-38 S.I. No. 853 of 2004 European Communities The whole instrument (Distance Marketing of Consumer Financial Services) Regulations 2004 Item Number and Year Citation Provisions
+38 S.I. No. 853 of 2004 European Communities The whole instrument (Distance Marketing of Consumer Financial Services) Regulations 2004
 
-39 S.I. No. 13 of 2005 European Communities The whole instrument (Insurance Mediation) Regulations 2005
+39 S.I. No. 13 of 2005 European Communities The whole instrument (Insurance Mediation) Regulations 2005 Item Number and Year Citation Provisions
 
 40 S.I. No. 380 of 2019 European Union (Prospectus) The whole instrument Regulations 2019
 
@@ -230,11 +232,11 @@ S.I. No. 247 of 2010 EuropeanCommunities The whole instrument (Credit Rating Age
 
 Regulations 2010
 
-50 S.I. No. 281 of 2010 European Communities The whole instrument (Consumer Credit Agreements) Regulations 2010 Item Number and Year Citation Provisions
+50 S.I. No. 281 of 2010 European Communities The whole instrument (Consumer Credit Agreements) Regulations 2010
 
 51. S.I. No. 183 of 2011 European Communities The whole instrument (Electronic Money)
 
-Regulations 2011 (S.I. No. 183 of 2011)
+Regulations 2011 (S.I. No. 183 of 2011) Item Number and Year Citation Provisions
 
 S.I. No. 352 of 2011 EuropeanCommunities The whole instrument (Undertakings for Collective
 
@@ -266,9 +268,9 @@ Transfers and Direct Debits in Euro) Regulations 2013
 
 62 S.I. No. 516 of 2015 European Union (Deposit The whole instrument Guarantee Schemes) Regulations
 
-63 S.I. No. 550 of 2015 European Union (Interchange The whole instrument Fees For Card-based Payment Transactions) Regulations 2015 Item Number and Year Citation Provisions
+63 S.I. No. 550 of 2015 European Union (Interchange The whole instrument Fees For Card-based Payment Transactions) Regulations 2015
 
-63 S.I. No. 554 of 2015 European Union (European The whole instrument Long-term investment funds) Regulations 2015
+63 S.I. No. 554 of 2015 European Union (European The whole instrument Long-term investment funds) Regulations 2015 Item Number and Year Citation Provisions
 
 64 S.I. No. 142 of 2016 European Union (Consumer The whole instrument Mortgage Credit Agreements) Regulations 2016
 
@@ -292,9 +294,9 @@ Transfers and Direct Debits in Euro) Regulations 2013
 
 73 S.I. No. ...... of 2018 European Union (Money The whole instrument Market Funds) Regulations 2018
 
-74 S.I. No. 656 of 2018 European Union (General The whole instrument Framework for Securitisation and Specific Framework for Simple Transparent and Standardised Securitisation) Regulations 2018 Item Number and Year Citation Provisions
+74 S.I. No. 656 of 2018 European Union (General The whole instrument Framework for Securitisation and Specific Framework for Simple Transparent and Standardised Securitisation) Regulations 2018
 
-75 S.I. No. 21 of 2020 European Union The whole instrument (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020
+75 S.I. No. 21 of 2020 European Union The whole instrument (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020 Item Number and Year Citation Provisions
 
 76 S.I. No. …... of 2020 European Union The whole instrument (Modifications of Statutory Instrument No. 110 of 2019) (Registration of Beneficial Ownership of Certain Financial Vehicles) Regulations 2020
 
@@ -308,4 +310,8 @@ Transfers and Direct Debits in Euro) Regulations 2013
 
 81 S.I. No. 46 of 2022 European Union (Anti-Money The whole instrument Laundering: Central Mechanism for Information on Safe-Deposit Boxes and Bank and Payment Accounts) Regulations 2022
 
+81 S.I. No. 46 of 2022 European Union (Anti-Money The whole instrument Laundering: Central Mechanism for Information on Safe-Deposit Boxes and Bank and Payment Accounts) Regulations 2022
+
 82 S.I. No. 435 of 2022 European Union (Pan- The whole instrument European Personal Pension Product) Regulations 2022
+
+82 S.I. No. 547 of 2022 European Union (Recovery The whole instrument and Resolution of Central Counterparties) Regulations 2022
