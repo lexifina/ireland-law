@@ -4,11 +4,11 @@ CONVENTION FOR THE SUPPRESSION OF UNLAWFUL ACTS AGAINST THE SAFETY OF CIVIL AVIA
 
 THE STATES Parties to this Convention
 
-CONSIDERING that unlawful acts against the safety of civil aviation jeopardize the safety of persons and property, seriously affect the operation of air services, and undermine the confidence of the peoples of the world in the safety of civil aviation;
+CONSIDER-that unlawful acts against the safety of civil aviation ING jeopardize the safety of persons and property, seriously affect the operation of air services, and undermine the confidence of the peoples of the world in the safety of civil aviation;
 
-CONSIDERING that the occurrence of such acts is a matter of grave concern;
+CONSIDER-that the occurrence of such acts is a matter of grave ING concern;
 
-CONSIDERING that, for the purpose of deterring such acts, there is an urgent need to provide appropriate measures for punishment of offenders;
+CONSIDER-that, for the purpose of deterring such acts, there is ING an urgent need to provide appropriate measures for punishment of offenders;
 
 HAVE AGREED as follows:
 
@@ -100,9 +100,7 @@ Article 8
 
 3. Contracting States which do not make extradition conditional on the existence of a treaty shall recognize the offences as extraditable offences between themselves subject to the conditions provided by the law of the requested State.
 
-4. Each of the offences shall be treated, for the purpose of extradition between Contracting States, as if it had been committed not only in the place in which it occurred but also in the territories of the States required to establish their jurisdiction in accordance with Article 5, paragraph 1 (b), (c) and (d).
-
-Article 9
+4. Each of the offences shall be treated, for the purpose of extradition between Contracting States, as if it had been committed not only in the place in which it occurred but also in the territories of the States required to establish their jurisdiction in accordance with Article 5, paragraph 1 (b), (c) and (d). Article 9
 
 The Contracting States which establish joint air transport operating organizations or international operating agencies, which operate aircraft which are subject to joint or international registration shall, by appropriate means, designate for each aircraft the State among them which shall exercise the jurisdiction and have the attributes of the State of registration for the purpose of this Convention and shall give notice thereof to the International Civil Aviation Organisation which shall communicate the notice to all States Parties to this Convention.
 
