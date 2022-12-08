@@ -22,7 +22,7 @@ Credit guarantee scheme.
 
 (i) such other matters as the Minister, after consultation with the Minister for Finance and the Minister for Public Expenditure and Reform considers necessary or expedient.
 
-(3) A scheme under this section shall specify conditions (in this Act referred to as ‘applicable conditions’), with which a finance provider shall, for the purposes of the granting of approval under section 2, comply, relating to—
+(3) A scheme under this section shall specify conditions (in this Act referred to as "applicable conditions"), with which a finance provider shall, for the purposes of the granting of approval under section 2, comply, relating to—
 
 (a) the policies and practices of the finance provider as respects—
 
@@ -42,7 +42,7 @@ Credit guarantee scheme.
 
 (d) the accounts and financial performance of the finance provider,
 
-(e) in the case of a finance provider referred to in paragraph (b) of the definition of ‘finance provider’, the payment by the finance provider of any moneys that may be received by that provider from the Minister pursuant to a guarantee under section 4 in respect of a qualifying finance agreement, to the person who provided the financial product to which that agreement relates,
+(e) in the case of a finance provider referred to in paragraph (b) of the definition of "finance provider", the payment by the finance provider of any moneys that may be received by that provider from the Minister pursuant to a guarantee under section 4 in respect of a qualifying finance agreement, to the person who provided the financial product to which that agreement relates,
 
 (f) the administration and management of the finance provider,
 
