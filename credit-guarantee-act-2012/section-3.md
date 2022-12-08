@@ -12,7 +12,7 @@ Qualifying enterprise.
 
 (iii) annual balance sheet total does not exceed €43 million (calculated in accordance with the Commission Recommendation).
 
-(1A) For the purposes of this Act, insofar as it applies to a Covid-19 credit guarantee scheme, a person is a qualifying enterprise if—
+(1A) For the purposes of this Act, insofar as it applies to a Covid-19 credit guarantee scheme or a Ukraine credit guarantee scheme, a person is a qualifying enterprise if—
 
 (a) the person is a qualifying enterprise within the meaning of subsection (1), or
 
