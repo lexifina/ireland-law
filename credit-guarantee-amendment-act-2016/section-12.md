@@ -8,8 +8,12 @@ Monetary limit on Minister’s liability
 
 (2) Subsection (1) shall not apply to—
 
-(a) guarantees given under section 4 of the Principal Act in accordance with a Covid-19 credit guarantee scheme, or
+(a) guarantees given under section 4 of the Principal Act in accordance with a Covid-19 credit guarantee scheme or a Ukraine credit guarantee scheme, or
 
 (b) qualifying finance agreements to which those guarantees apply.
 
-(3) In this section, ‘Covid-19 credit guarantee scheme’ has the same meaning as it has in the Principal Act.
+(3) In this section—
+
+"Covid-19 credit guarantee scheme" has the same meaning as it has in the Principal Act;
+
+"Ukraine credit guarantee scheme" has the same meaning as it has in the Principal Act.

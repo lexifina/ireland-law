@@ -1,8 +1,8 @@
 Power of Minister to give guarantees.
 
-4. (1) Subject to this section, section 4A and section 12 of the Credit Guarantee (Amendment) Act 2016, the Minister may, in accordance with a credit guarantee scheme, enter into an agreement with a participating finance provider guaranteeing the due repayment or payment, as the case may be, to that participating finance provider of such part of the credit amount under a qualifying finance agreement as is specified in the first-mentioned agreement.
+4. (1) Subject to this section, sections 4A and 4B, and section 12 of the Credit Guarantee (Amendment) Act 2016, the Minister may, in accordance with a credit guarantee scheme, enter into an agreement with a participating finance provider guaranteeing the due repayment or payment, as the case may be, to that participating finance provider of such part of the credit amount under a qualifying finance agreement as is specified in the first-mentioned agreement.
 
-(2) Subject to subsection (3), section 4A and section 12 of the Credit Guarantee (Amendment) Act 2016, the Minister shall not, pursuant to a guarantee under this section, be liable, in relation to any particular qualifying finance agreement, to pay an amount exceeding 80 per cent of the credit amount that—
+(2) Subject to subsection (3), sections 4A and 4B, and section 12 of the Credit Guarantee (Amendment) Act 2016, the Minister shall not, pursuant to a guarantee under this section, be liable, in relation to any particular qualifying finance agreement, to pay an amount exceeding 80 per cent of the credit amount that—
 
 (a) the participating enterprise concerned stands liable, for the time being, to pay to the participating finance provider concerned, and
 
@@ -14,7 +14,7 @@ Power of Minister to give guarantees.
 
 (4A) Subsections (3) and (4) shall not apply to—
 
-(a) guarantees given under this section in accordance with a Covid-19 credit guarantee scheme, or
+(a) guarantees given under this section in accordance with a Covid-19 credit guarantee scheme or a Ukraine credit guarantee scheme, or
 
 (b) qualifying finance agreements to which those guarantees apply.
 
