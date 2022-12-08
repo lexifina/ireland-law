@@ -113,3 +113,5 @@ Interpretation.
 “qualifying enterprise” shall be construed in accordance with section 3;
 
 ...
+
+"Ukraine credit guarantee scheme" has the meaning assigned to it by section 4B(1).
