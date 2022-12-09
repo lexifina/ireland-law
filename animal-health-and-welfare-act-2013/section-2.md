@@ -20,6 +20,8 @@ Interpretation.
 
 (c) an animal by-product or anything containing an animal by-product,
 
+(ca) the wool, skin, fur or feathers derived from an animal,
+
 (d) a sample derived from an animal, or
 
 (e) any thing derived from an animal or that consists of or contains an animal product;
