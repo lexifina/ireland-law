@@ -142,9 +142,9 @@ Administrative
 
 39. The carrying out of surveys or programmes to monitor, assess or enhance animal welfare or animal health, to monitor or assess disease, or disease surveillance.
 
-40. The granting of licences, permits, approvals or authorisations, certificates or other documents in respect of any matter or activity referred to in this Act and the attachment of conditions to such and the limitation or restriction of them should any conditions not be met.
+40. The granting (including the suspension and revocation) of licences, permits, approvals or authorisations, certificates or other documents in respect of any matter or activity referred to in this Act and the attachment of conditions to such and the limitation or restriction of them should any conditions not be met.
 
-41. An application for any of the documents referred to in paragraph 40 and appeal procedures by an applicant refused such document and, in the case of the suspension or revocation of such, by its holder.
+40A. The granting (including the suspension and revocation) of licences in respect of the operation of a livestock mart, where the mart holds livestock on its land or premises immediately before or after the sale, supply, auction or brokerage of the livestock. 41. An application for any of the documents referred to in paragraph 40 and appeal procedures by an applicant refused such document and, in the case of the suspension or revocation of such, by its holder.
 
 42. The extent to which animal health and welfare regulations are to be administered by local authorities.
 
