@@ -1,3 +1,3 @@
-Application (Part 12).
+Application (Part 12). (Repealed)
 
-71.— This Part is in addition to, and not in substitution for, animal health and welfare regulations.
+71.— ...

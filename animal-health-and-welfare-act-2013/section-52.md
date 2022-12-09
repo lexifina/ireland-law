@@ -8,4 +8,6 @@ Penalties.
 
 (b) is liable, on conviction on indictment, to a fine not exceeding €250,000 or imprisonment for a term not exceeding 5 years, or to both.
 
+(2A) A person who commits an offence under section 71B(2) is liable, on conviction on indictment, to a fine not exceeding €250,000 or imprisonment for a term not exceeding 5 years, or to both.
+
 (3) A fine imposed on conviction for an offence under this Act shall be paid to the prosecutor, other than a member of the Garda Síochána, and, subject to section 6, disposed of in a manner that the prosecutor determines.
