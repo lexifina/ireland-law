@@ -1,3 +1,3 @@
-Registration districts and registration officers.
+Registration districts and registration officers. (Repealed)
 
 9A. ...
