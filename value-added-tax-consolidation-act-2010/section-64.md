@@ -14,7 +14,9 @@ Capital goods scheme.
 
 A — B where—
 
-A is the amount of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, and B is the total reviewed deductible amount in relation to that capital good.
+A is the amount of the total tax incurred in relation to that capital good which was deductible by that owner in accordance with Chapter 1, and
+
+B is the total reviewed deductible amount in relation to that capital good.
 
 (b) Where in accordance with paragraph (a)—
 
@@ -46,7 +48,9 @@ D is the interval deductible amount in relation to that capital good.
 
 C is the reference deduction amount in relation to that capital good,
 
-D is the interval deductible amount in relation to that capital good, and N is the number of full intervals remaining in the adjustment period at the end of that interval plus one.
+D is the interval deductible amount in relation to that capital good, and
+
+N is the number of full intervals remaining in the adjustment period at the end of that interval plus one.
 
 (b) Where in accordance with paragraph (a)—
 
@@ -180,7 +184,9 @@ T is the total number of intervals in the adjustment period in relation to that 
 
 H × N T where—
 
-H is the total tax incurred in relation to that capital good for the capital goods owner making that supply or transfer, N is the number of full intervals remaining in the adjustment period in relation to that capital good plus one, and
+H is the total tax incurred in relation to that capital good for the capital goods owner making that supply or transfer,
+
+N is the number of full intervals remaining in the adjustment period in relation to that capital good plus one, and
 
 T is the total number of intervals in the adjustment period in relation to that capital good.
 
@@ -214,7 +220,9 @@ J is the amount of tax chargeable on the supply of that capital good, or the amo
 
 K — L where—
 
-K is the total tax incurred in relation to that capital good by the capital goods owner making that supply or transfer, and L is the amount of tax chargeable on the supply of that capital good, or the amount of tax that would have been chargeable on the transfer of that capital good but for the application of section 20(2)(c), or the amount of tax that would have been chargeable on the supply but for the application of section 56.
+K is the total tax incurred in relation to that capital good by the capital goods owner making that supply or transfer, and
+
+L is the amount of tax chargeable on the supply of that capital good, or the amount of tax that would have been chargeable on the transfer of that capital good but for the application of section 20(2)(c), or the amount of tax that would have been chargeable on the supply but for the application of section 56.
 
 (9)(a) In this subsection—
 
@@ -316,7 +324,7 @@ G is the amount of that tax that would have been deductible in accordance with C
 
 (i) a mortgagee takes possession, or
 
-(ii) a receiver is appointed by or on the application of a mortgagee or under section 147 of the National Asset Management Agency Act 2009 or by any other means, then the capital goods owner (in this subsection referred to as the ‘defaulter’) shall furnish a copy of the capital goods record to that mortgagee or that receiver and on and from the start date, but subject to the subsequent provisions of this subsection, that mortgagee or that receiver shall be treated for the purposes of this Chapter as if that mortgagee or that receiver were the capital goods owner.
+(ii) a receiver is appointed by or on the application of a mortgagee or under section 147 of the National Asset Management Agency Act 2009 or by any other means, then the capital goods owner (in this subsection referred to as the "defaulter") shall furnish a copy of the capital goods record to that mortgagee or that receiver and on and from the start date, but subject to the subsequent provisions of this subsection, that mortgagee or that receiver shall be treated for the purposes of this Chapter as if that mortgagee or that receiver were the capital goods owner.
 
 (ba) Where a capital good is held as security or is subject to a charge or lien and, before 27 March 2013, either—
 

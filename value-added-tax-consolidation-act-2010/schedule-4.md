@@ -56,9 +56,7 @@ PART 2
 
 ANNEX VIII OF THE VAT DIRECTIVE
 
-List of Agricultural Services
-
-Supplies of agricultural services which normally play a part in agricultural production shall be considered the supply of agricultural services and include the following in particular:
+List of Agricultural Services Supplies of agricultural services which normally play a part in agricultural production shall be considered the supply of agricultural services and include the following in particular:
 
 (a) Field work, reaping and mowing, threshing, baling, collecting, harvesting, sowing and planting.
 

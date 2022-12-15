@@ -10,8 +10,6 @@ Definitions.
 
 "Implementing Regulation" means Council Implementing Regulation (EU) 282/2011 of 15 March 2011 (as amended by Council Regulation (EU) 967/2012 of 9 October 2012, Council Regulation (EU) 2019/2026 of 21 November 2019 and Council Regulation (EU) 2020/1112 of 20 July 2020);
 
-7 OJ No. L77, 23.3.2011, p.1 8 OJ No. L290, 20.10.2012, p.1 9 OJ No. L313, 4.12.2019, p. 14 10 OJ No. L244, 29.7.2020, p. 9
-
 "import scheme" means the scheme for the payment of value-added tax provided for in sections 91I to 91K;
 
 "intrinsic value" has the same meaning as it has in Article 1(48) of Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015;
@@ -34,6 +32,8 @@ Definitions.
 
 (b) in the case of the Union scheme—
 
+7 OJ No. L77, 23.3.2011, p.1 8 OJ No. L290, 20.10.2012, p.1 9 OJ No. L313, 4.12.2019, p. 14 10 OJ No. L244, 29.7.2020, p. 9 11 OJ No. L343, 29.12.2015, p. 1
+
 (i) the Member State in which the taxable person has established his or her business,
 
 (ii) where the taxable person has not established his or her business in the Community, but has a fixed establishment in the Community, the Member State in which he or she has that fixed establishment,
@@ -47,8 +47,6 @@ Definitions.
 "national tax number" means a number (whether consisting of either or both numbers and letters) assigned to a taxable person who has not established his or her place of business in the Community by the person’s own national taxation authority;
 
 "non-Union scheme" means the scheme for scheme services supplied by a taxable person whose business is not established in the Community, and who has no fixed establishment in the Community;
-
-11 OJ No. L343, 29.12.2015, p. 1
 
 "qualifying domestic supplies of goods" means supplies of goods facilitated through the use of an electronic interface such as a marketplace, platform, portal or similar means in accordance with Article 14a(2) of the VAT Directive where the dispatch or transport of those goods begins and ends in the same Member State;
 

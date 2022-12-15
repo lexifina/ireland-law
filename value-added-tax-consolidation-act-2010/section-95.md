@@ -70,7 +70,9 @@ N is the number of full years since the landlord acquired the interest in the im
 
 (8)(a) Notwithstanding Chapter 1 of Part 5, the amount on which tax is chargeable on a taxable assignment or surrender to which subsection (7) applies shall be the amount calculated in accordance with the formula set out in paragraph (b) divided by the rate as specified in paragraph (c) or (ca), as appropriate, of section 46(1) expressed in decimal form.
 
-(b) The amount of tax due and payable in respect of a taxable assignment or surrender to which subsection (7) applies is an amount calculated in accordance with the formula— T × N Y where—
+(b) The amount of tax due and payable in respect of a taxable assignment or surrender to which subsection (7) applies is an amount calculated in accordance with the formula—
+
+T × N Y where—
 
 T is the total tax incurred referred to in subsection (12)(d) except for the amount of tax charged in respect of any development by the person who makes the assignment or surrender following the acquisition of the interest,
 

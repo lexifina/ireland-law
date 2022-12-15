@@ -52,7 +52,7 @@ Reverse charge for certain supplies.
 
 "scrap metal" includes scrapped metal and metal waste originating from, or extracted from, the processing of metals, metal derived from vehicles, metal derived from construction and demolition waste, machine parts and metal items no longer useable in their original form due to their breaking, obsolescence, shearing, wearing or the like, and also includes goods listed in paragraphs (1) to (3) of Annex VI of the VAT Directive.
 
-(b) Notwithstanding section 56, where a taxable person carries on a business in the State, which consists of or includes dealing in scrap metal (in this subsection referred to as a ‘recipient’) and he or she receives a supply of scrap metal from another taxable person who carries on a business in the State, then—
+(b) Notwithstanding section 56, where a taxable person carries on a business in the State, which consists of or includes dealing in scrap metal (in this subsection referred to as a "recipient") and he or she receives a supply of scrap metal from another taxable person who carries on a business in the State, then—
 
 (i) the recipient shall, in relation to that supply, be an accountable person or be deemed to be an accountable person and shall be liable to pay the tax chargeable as if that recipient made that supply in the course or furtherance of business, and
 
