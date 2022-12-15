@@ -20,7 +20,13 @@ Medical and related services.
 
 (2) Services closely related to medical care covered by section 61 or 61A of the Health Act 1970 which are undertaken by or on behalf of the Health Service Executive or by home care providers duly recognised by that Executive under section 61A of that Act.
 
-(3) Professional medical care services recognised as such by the Department of Health and Children (other than dental or optical services), but only if those services are not supplied in the course of carrying on a business that wholly or partly consists of selling goods.
+(3) Professional medical care services (other than dental or optical services) supplied by—
+
+(a) a member of a designated profession (within the meaning of section 3 of the Health and Social Care Professionals Act 2005) whose name is entered in the register of members of that profession under and in accordance with that Act,
+
+(b) a registered medical practitioner (within the meaning of section 2 of the Medical Practitioners Act 2007), or
+
+(c) a registered midwife or registered nurse (both within the meaning of section 2 of the Nurses and Midwives Act 2011), but only if those services are not supplied in the course of carrying on a business that wholly or partly consists of selling goods.
 
 (4) The supply by dental technicians of services of a dental nature and of dentures or other dental prostheses.
 
@@ -32,7 +38,7 @@ Medical and related services.
 
 Certain independent groups, non-profit making organisations and other bodies.
 
-3. (1) The supply of services by an independent group of persons (being a group that is an independent entity established for the purpose of administrative convenience by persons whose activities are exempt from, or are not subject to, tax) for the purpose of rendering to its members the services directly necessary to enable them to carry out their activities, but only if the group recovers from its members the exact amount of each member’s share of the joint expenses.
+3. (1) The supply of services by an independent group of persons, being a group that is an independent entity established for administrative convenience by persons each of whom carries on an activity which is exempt from, or is not subject to, tax, for the purpose of rendering to its members the services directly necessary to enable them to carry on that activity, but only if the group recovers from its members the exact amount of each member’s share of the joint expenses.
 
 (2) The supply of goods and services closely related to welfare and social security by non-profit making organisations.
 
@@ -128,7 +134,7 @@ Financial services.
 
 6. (1) Financial services that consist of any of the following:
 
-(a) issuing, transferring or otherwise dealing in stocks, shares, debentures and other securities (other than new stocks, new shares, new debentures or new securities for raising capital and documents establishing title to goods);
+(a) issuing, transferring or otherwise dealing in stocks, shares, debentures and other securities (other than documents establishing title to goods);
 
 (b) arranging for, or underwriting, an issue of stocks, shares, debentures and other securities (other than documents establishing title to goods);
 
@@ -136,7 +142,7 @@ Financial services.
 
 (d) issuing, transferring, receiving or otherwise dealing in currency, bank notes and metal coins, in use as legal tender in any country, but excluding any such bank notes and coins that are supplied as investment goods or as collectors’ pieces;
 
-(e) giving and negotiating credit and managing credit by the giver of the credit;
+(e) an undertaking that is a qualifying company for the purposes of section 110 of the Taxes Consolidation Act 1997, other than a qualifying company which holds qualifying assets (within the meaning of the said section 110) that consist of plant and machinery;
 
 (f) giving, or dealing in, credit guarantees or any other securities for money, and managing credit guarantees by the giver of the credit;
 
@@ -158,11 +164,15 @@ Financial services.
 
 (d) a unit trust scheme established solely for the purpose of superannuation fund schemes or charities;
 
-(e) an undertaking that is a qualifying company for the purposes of section 110 of the Taxes Consolidation Act 1997;
+(e) an undertaking that is a qualifying company for the purposes of section 110 of the Taxes Consolidation Act 1997, other than a qualifying company which holds qualifying assets (within the meaning of the said section 110) that consist of plant and machinery;
 
 (ea) an undertaking that enters into specified financial transactions within the meaning of Part 8A of the Taxes Consolidation Act 1997 where that undertaking corresponds to an undertaking specified elsewhere in this subparagraph;
 
 (eb) a defined contribution scheme (within the meaning of the Pensions Act 1990), other than a one-member arrangement (within the meaning of that Act);
+
+(ec) an undertaking for collective investment in transferable securities (within the meaning of Article 1 of Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009) which has been authorised by the competent authority (as defined in point (h) of Article 2(1) of that Directive) of another Member State;
+
+(ed) an EU AIF (as defined in point (k) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011) managed by an AIFM (as defined in point (b) of Article 4(1) of that Directive) which has been authorised by the competent authority (as defined in point (g) of Article 4(1) of that Directive) of another Member State;
 
 (f) any other undertaking that is determined by the Minister to be a collective investment undertaking for the purposes of this subparagraph.
 
@@ -174,7 +184,7 @@ Agency services.
 
 7. (1) The supply of agency services relating to the financial services specified in subparagraph (1) of paragraph 6, excluding management and safekeeping services in regard to the services specified in clause (a) of that subparagraph.
 
-(2) The supply of agency services relating to the financial services specified in paragraph 6(2).
+(2) ...
 
 Insurance and reinsurance services.
 
