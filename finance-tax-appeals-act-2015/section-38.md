@@ -176,7 +176,7 @@ Consequential amendments to Parts 24A to 33 of Act of 1997
 
 “(7A) (a) Subject to paragraph (b), a person aggrieved by an assessment made on that person under this section may appeal the assessment to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of assessment.
 
-(b) Where, in accordance with this section, a person is required to make a return and account for appropriate tax to the Collector-General, no appeal lies against an assessment until such time as the person makes the return and pays or has paid the amount of the appropriate tax payable on the basis of that return.”,
+(b) Where, in accordance with this section, a person is required to make a return and account for appropriate tax to the Collector- General, no appeal lies against an assessment until such time as the person makes the return and pays or has paid the amount of the appropriate tax payable on the basis of that return.”,
 
 (e) in section 789(1) by substituting “by any determination of the inspector on any such question may appeal the determination to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of that determination” for “by any decision of the inspector on any such question may appeal within the prescribed time to the Appeal Commissioners”,
 

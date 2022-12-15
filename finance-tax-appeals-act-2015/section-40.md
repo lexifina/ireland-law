@@ -42,7 +42,9 @@ Consequential amendments to Parts 44 to 48 of Act of 1997
 
 (a) a merchant, or
 
-(b) where the goods are retailed by or on behalf of the manufacturer or producer, a retailer of the goods sold, who had bought direct from the manufacturer or producer and, on proving the amount of the profits or gains on that basis to the satisfaction of the inspector, the inspector shall make or amend the assessment accordingly. (2) A resident person or a non-resident person aggrieved by an assessment or an amended assessment made on that person under subsection (1) may appeal the assessment or amended assessment to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of assessment.”.
+(b) where the goods are retailed by or on behalf of the manufacturer or producer, a retailer of the goods sold, who had bought direct from the manufacturer or producer and, on proving the amount of the profits or gains on that basis to the satisfaction of the inspector, the inspector shall make or amend the assessment accordingly.
+
+(2) A resident person or a non-resident person aggrieved by an assessment or an amended assessment made on that person under subsection (1) may appeal the assessment or amended assessment to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of assessment.”.
 
 (4) Part 47 of the Act of 1997 is amended in section 1066 by substituting “the Acts (within the meaning of section 1077A)” for “the Tax Acts”.
 

@@ -28,7 +28,7 @@ Interpretation
 
 (e) the Capital Acquisitions Tax Consolidation Act 2003, and the enactments amending or extending that Act,
 
-(f) the Value-Added Tax Consolidation Act 2010, and the enactments amending or extending that Act,
+(f ) the Value-Added Tax Consolidation Act 2010, and the enactments amending or extending that Act,
 
 (g) the statutes relating to the duties of excise and to the management of those duties,
 
@@ -108,7 +108,9 @@ Directions
 
 (a) by sending, in writing, the application to the Appeal Commissioners, or
 
-(b) orally, during the course of a hearing or preliminary hearing, and shall include the reason for seeking the direction. (4) A direction by the Appeal Commissioners may be given by them orally but, where this happens, the terms of the direction shall be reduced to writing as soon as practicable thereafter unless the Appeal Commissioners consider this to be unnecessary.
+(b) orally, during the course of a hearing or preliminary hearing, and shall include the reason for seeking the direction.
+
+(4) A direction by the Appeal Commissioners may be given by them orally but, where this happens, the terms of the direction shall be reduced to writing as soon as practicable thereafter unless the Appeal Commissioners consider this to be unnecessary.
 
 (5) Where the Appeal Commissioners give a direction then, unless they consider that there is a good reason not to do so, they shall send a written notice of the direction to each party and to any other person affected by that direction.
 
@@ -148,7 +150,9 @@ Withdrawal and dismissal of appeals
 
 (b) an appeal is refused by the Appeal Commissioners under section 949N(1)(b) or (c), or
 
-(c) an appeal is treated as withdrawn under section 949AA(2), then, in each case, the appeal shall, subject to subsection (4), be treated as if it has been dismissed by the Appeal Commissioners. (4) To the extent that the basis for an agreement, as referred to in subsection (3), involves acceptance by the parties that the decision appealed from shall not stand in whole or in part, then nothing in that subsection shall be construed as affecting any agreement of the parties in that regard.
+(c) an appeal is treated as withdrawn under section 949AA(2), then, in each case, the appeal shall, subject to subsection (4), be treated as if it has been dismissed by the Appeal Commissioners.
+
+(4) To the extent that the basis for an agreement, as referred to in subsection (3), involves acceptance by the parties that the decision appealed from shall not stand in whole or in part, then nothing in that subsection shall be construed as affecting any agreement of the parties in that regard.
 
 (5) Where an appeal is dismissed under section 949AV, or treated as dismissed—
 
@@ -210,7 +214,9 @@ Valid appeal and references in this Part to acceptance of an appeal
 
 (a) the appeal is a valid appeal, and
 
-(b) there are no grounds for their invoking section 949N(1)(c) as a basis for not proceeding as subsequently mentioned in this subsection, and, accordingly, that they should proceed to deal with the appeal. (3) However, any such determination of the Appeal Commissioners may be reversed by them as and when facts and information become available to them that, in their opinion, warrant that course of action.
+(b) there are no grounds for their invoking section 949N(1)(c) as a basis for not proceeding as subsequently mentioned in this subsection, and, accordingly, that they should proceed to deal with the appeal.
+
+(3) However, any such determination of the Appeal Commissioners may be reversed by them as and when facts and information become available to them that, in their opinion, warrant that course of action.
 
 (4) Subsection (3) shall not affect the operation of section 949N(3) (provision with regard to finality of Appeal Commissioners’ refusal to accept an appeal).
 
@@ -224,7 +230,9 @@ Objection by Revenue Commissioners
 
 (a) an appeal is not a valid appeal, or
 
-(b) the appellant has not complied with the requirements of section 949O, they may send to the Appeal Commissioners a written notice of objection to the making of the appeal and that notice shall state the reason for their objection. (2) Where the Revenue Commissioners do not send the notice referred to in subsection (1) to the Appeal Commissioners within 30 days after the date on which the Appeal Commissioners send the notice of appeal to them, the Appeal Commissioners shall not be required to have regard to the objection in deciding whether to accept an appeal.
+(b) the appellant has not complied with the requirements of section 949O, they may send to the Appeal Commissioners a written notice of objection to the making of the appeal and that notice shall state the reason for their objection.
+
+(2) Where the Revenue Commissioners do not send the notice referred to in subsection (1) to the Appeal Commissioners within 30 days after the date on which the Appeal Commissioners send the notice of appeal to them, the Appeal Commissioners shall not be required to have regard to the objection in deciding whether to accept an appeal.
 
 (3) Where the Revenue Commissioners send a notice of objection in accordance with subsection (1), the Appeal Commissioners shall notify such objection to the appellant.
 
@@ -240,7 +248,9 @@ Refusal to accept an appeal
 
 (b) become aware, having previously formed the view that an appeal was a valid appeal, that it is not a valid appeal, or
 
-(c) are satisfied that an appeal is without substance or foundation, they shall refuse to accept the appeal. (2) Where the Appeal Commissioners refuse to accept an appeal, they shall notify the parties in writing accordingly stating the reason for the refusal.
+(c) are satisfied that an appeal is without substance or foundation, they shall refuse to accept the appeal.
+
+(2) Where the Appeal Commissioners refuse to accept an appeal, they shall notify the parties in writing accordingly stating the reason for the refusal.
 
 (3) Where, in respect of a refusal on their part to accept an appeal, the Appeal Commissioners declare that their decision in that regard is final, then that decision shall be final and conclusive.
 
@@ -278,7 +288,7 @@ Late appeals
 
 (ii) section 159D of the Stamp Duties Consolidation Act 1999,
 
-(iii) Fsection 103 of the Finance Act 2001,
+(iii) F section 103 of the Finance Act 2001,
 
 (iv) section 51 of the Capital Acquisitions Tax Consolidation Act 2003,
 
@@ -426,7 +436,9 @@ Public hearings
 
 (a) applies, in accordance with subsection (4), to the Appeal Commissioners for a direction that the hearing of an appeal, or a specified part of the hearing of an appeal, be held in camera, or
 
-(b) has stated, in the appellant’s statement of case, that the appellant wishes the hearing of an appeal, or a specified part of the hearing of an appeal, to be held in camera, the Appeal Commissioners shall give a direction that the hearing or the specified part of it, as the case may be, shall be held in camera. (4) An application under subsection (3) shall be sent to the Appeal Commissioners not later than 14 days after the date on which a notice of the time and place for the hearing of the appeal has been sent in accordance with section 949X to the appellant.
+(b) has stated, in the appellant’s statement of case, that the appellant wishes the hearing of an appeal, or a specified part of the hearing of an appeal, to be held in camera, the Appeal Commissioners shall give a direction that the hearing or the specified part of it, as the case may be, shall be held in camera.
+
+(4) An application under subsection (3) shall be sent to the Appeal Commissioners not later than 14 days after the date on which a notice of the time and place for the hearing of the appeal has been sent in accordance with section 949X to the appellant.
 
 Exclusion from hearings
 
@@ -582,7 +594,9 @@ Determinations in relation to assessments
 
 (a) assesses an amount that is chargeable to tax, and
 
-(b) charges tax on the amount assessed, the Appeal Commissioners consider that the appellant is overcharged or, as the case may be, undercharged by the assessment, they may, unless the circumstances of the case otherwise require, give as their determination in the matter a determination solely to the effect that the amount chargeable to tax be reduced or increased. (3) In relation to an appeal against an assessment on the grounds referred to in section 959AF(2), if the Appeal Commissioners determine that a Revenue officer was precluded from making the assessment or the amendment, as the case may be, the Acts (within the meaning of section 959A) shall apply as if the assessment or the amendment had not been made and, accordingly, that assessment or amended assessment shall be void.
+(b) charges tax on the amount assessed, the Appeal Commissioners consider that the appellant is overcharged or, as the case may be, undercharged by the assessment, they may, unless the circumstances of the case otherwise require, give as their determination in the matter a determination solely to the effect that the amount chargeable to tax be reduced or increased.
+
+(3) In relation to an appeal against an assessment on the grounds referred to in section 959AF(2), if the Appeal Commissioners determine that a Revenue officer was precluded from making the assessment or the amendment, as the case may be, the Acts (within the meaning of section 959A) shall apply as if the assessment or the amendment had not been made and, accordingly, that assessment or amended assessment shall be void.
 
 (4) In relation to an appeal against an assessment on the grounds referred to in section 959AF(2), if the Appeal Commissioners determine that a Revenue officer was not precluded from making the assessment or the amendment, as the case may be, that assessment or amended assessment shall stand, but this is without prejudice to the Appeal Commissioners making a determination in relation to that assessment or amended assessment on foot of an appeal on grounds other than those referred to in section 959AF(2).
 
@@ -592,7 +606,9 @@ Determinations other than in relation to assessments
 
 (a) an assessment, or
 
-(b) a matter referred to in section 949AK(3), the Appeal Commissioners shall, if they consider that the decision, determination or other matter, as the case may be, ought to be varied, determine that the decision, determination or other matter be varied, even if such variation is not to the advantage of the appellant; otherwise they shall determine that the decision, determination or other matter stand. (2) The Appeal Commissioners shall, if they consider that a Revenue officer was precluded from making the enquiry or taking the action, as the case may be, referred to in section 959AJ, determine that the officer was so precluded; otherwise they shall determine that the officer was not so precluded.
+(b) a matter referred to in section 949AK(3), the Appeal Commissioners shall, if they consider that the decision, determination or other matter, as the case may be, ought to be varied, determine that the decision, determination or other matter be varied, even if such variation is not to the advantage of the appellant; otherwise they shall determine that the decision, determination or other matter stand.
+
+(2) The Appeal Commissioners shall, if they consider that a Revenue officer was precluded from making the enquiry or taking the action, as the case may be, referred to in section 959AJ, determine that the officer was so precluded; otherwise they shall determine that the officer was not so precluded.
 
 Revenue Commissioners to give effect to determinations
 
@@ -702,7 +718,9 @@ Case stated for High Court
 
 (a) send to the parties a draft of the case stated that they propose signing, and
 
-(b) include, with that draft, a notice indicating that each of the parties may, within 21 days after the date on which the draft has been sent to them, make to the Appeal Commissioners representations in writing in relation to the draft, and each of the parties may make such representations within that period accordingly. (4) The Appeal Commissioners shall have regard to any representations so made and may, if they consider it appropriate to do so, modify the draft of the case stated before completing and signing it.
+(b) include, with that draft, a notice indicating that each of the parties may, within 21 days after the date on which the draft has been sent to them, make to the Appeal Commissioners representations in writing in relation to the draft, and each of the parties may make such representations within that period accordingly.
+
+(4) The Appeal Commissioners shall have regard to any representations so made and may, if they consider it appropriate to do so, modify the draft of the case stated before completing and signing it.
 
 (5) If a party makes representations pursuant to subsection (3), the party shall, at the same time as the party sends the representations to the Appeal Commissioners, send a copy of them to the other party.
 
@@ -720,7 +738,9 @@ Determinations of High Court
 
 (b) shall remit the matter to the Appeal Commissioners with its opinion on the matter, or
 
-(c) may make such other order in relation to the matter as it thinks just, and may make such order as to costs as it thinks fit. (2) The High Court may send the case stated back to the Appeal Commissioners for amendment, in which case—
+(c) may make such other order in relation to the matter as it thinks just, and may make such order as to costs as it thinks fit.
+
+(2) The High Court may send the case stated back to the Appeal Commissioners for amendment, in which case—
 
 (a) the Appeal Commissioners shall amend the case stated accordingly, and
 
@@ -754,13 +774,17 @@ Summoning and examination of witnesses
 
 (b) so appears but refuses to swear an oath,
 
-(c) so appears but refuses to answer any lawful questions relating to a matter under appeal, shall, subject to subsection (2), be liable to a penalty of €3,000. (2) Subsection (1)(b) and (c) shall not apply to any employee, agent or other person confidentially employed in the affairs of an appellant.
+(c) so appears but refuses to answer any lawful questions relating to a matter under appeal, shall, subject to subsection (2), be liable to a penalty of €3,000.
+
+(2) Subsection (1)(b) and (c) shall not apply to any employee, agent or other person confidentially employed in the affairs of an appellant.
 
 (3) A document purporting to be signed by the Appeal Commissioners stating that—
 
 (a) a person named in the document was, by summons under section 949AE, required to attend before them on a day and at a time and place specified in the document, and
 
-(b) a sitting of the Appeal Commissioners was held on that day and at that time and place, shall, in proceedings for a penalty under subsection (1), be evidence of the matters so stated unless the contrary is shown. (4) Where—
+(b) a sitting of the Appeal Commissioners was held on that day and at that time and place, shall, in proceedings for a penalty under subsection (1), be evidence of the matters so stated unless the contrary is shown.
+
+(4) Where—
 
 (a) in the absence of an agreement between a person and the Appeal Commissioners that the person is liable to a penalty under this section, or
 

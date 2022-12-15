@@ -88,7 +88,9 @@ CONSEQUENTIAL AMENDMENTS TO FINANCE ACT 2001
 
 (v) by inserting the following after subsection (12):
 
-“(12A) Where a person is required to furnish a return or to pay an amount of vehicle registration tax for the purpose of any requirement of excise law, no appeal lies under this section until such time as the person furnishes the return and, as the case may be, pays or has paid the amount of vehicle registration tax.”, (c) in section 146—
+“(12A) Where a person is required to furnish a return or to pay an amount of vehicle registration tax for the purpose of any requirement of excise law, no appeal lies under this section until such time as the person furnishes the return and, as the case may be, pays or has paid the amount of vehicle registration tax.”,
+
+(c) in section 146—
 
 (i) in subsection (1) by substituting “and is aggrieved by any of the matters referred to in paragraphs (a) to (c), may, subject to subsection (3), in respect of the liability to excise duty concerned or the amount of that liability, or the amount of the repayment or the refusal to repay, appeal to the Appeal Commissioners in accordance with section 949I of the Taxes Consolidation Act 1997 within the period specified in subsection (2)” for all the words following paragraph (c) of that subsection,
 
