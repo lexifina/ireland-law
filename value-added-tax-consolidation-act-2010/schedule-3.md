@@ -42,7 +42,7 @@ This Part sets out supplies of goods and services as provided by Article 98 and 
 
 Food and drink for human consumption.
 
-3. ((1) The supply of restaurant or catering services, excluding—
+3. (1) The supply of restaurant or catering services, excluding—
 
 (a) a supply to which paragraph 5(1) of Schedule 1 relates,
 
@@ -88,7 +88,7 @@ Pharmaceutical products.
 
 5. Non-oral contraceptive products.
 
-5A. Menstrual cups, menstrual pants and menstrual sponges.
+5A. ...
 
 Certain safety equipment.
 
@@ -98,7 +98,7 @@ Books, newspapers and other printed matter.
 
 7. Printed matter consisting of—
 
-(a) newspapers and periodicals,
+(a) ... periodicals,
 
 (b) brochures, leaflets and programmes,
 
@@ -116,7 +116,7 @@ Books, newspapers and other printed matter.
 
 Electronic publications
 
-7A. Electronic publications being books, newspapers and periodicals, supplied electronically, but excluding electronic publications which wholly or predominantly are devoted to advertising, or consist wholly or predominantly of audible music or video content.
+7A. Electronic publications being books ... and periodicals, supplied electronically, but excluding electronic publications which wholly or predominantly are devoted to advertising, or consist wholly or predominantly of audible music or video content.
 
 Shows, exhibitions, cultural facilities, etc.
 
@@ -270,9 +270,9 @@ Energy products and supplies.
 
 (3) The supply of gas of a kind used for domestic or industrial heating or lighting, whether in gaseous or liquid form, but not including—
 
-(a) ‘vehicle gas’ within the meaning of section 94(1) of the Finance Act 1999,
+(a) "vehicle gas" within the meaning of section 94(1) of the Finance Act 1999,
 
-(aa) ‘liquefied petroleum gas’ within the meaning of section 94(1) of the Finance Act 1999 when used or intended for use as a ‘propellant’ within the meaning of that section,
+(aa) "liquefied petroleum gas" within the meaning of section 94(1) of the Finance Act 1999 when used or intended for use as a "propellant" within the meaning of that section,
 
 (b) gas of a kind normally used for welding or cutting metal, or
 
@@ -374,9 +374,7 @@ PART 6
 
 SUPPLIES OF CERTAIN WORKS OF ART, ANTIQUES AND LITERARY MANUSCRIPTS
 
-This Part deals with special arrangements made in accordance with Article 311 and Annex IX of the VAT Directive.
-
-Works of art.
+This Part deals with special arrangements made in accordance with Article 311 and Annex IX of the VAT Directive. Works of art.
 
 23. The supply of a work of art that is—
 
