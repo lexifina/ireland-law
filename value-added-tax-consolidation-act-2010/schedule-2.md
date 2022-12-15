@@ -130,7 +130,9 @@ Services by intermediaries.
 
 (e) services of the kind referred to in paragraph 5(2) (Supply of gold to the Central Bank of Ireland).
 
-(3) Services that are treated as intermediary services under the travel agent’s margin scheme in accordance with section 88(8). International trade, etc.
+(3) Services that are treated as intermediary services under the travel agent’s margin scheme in accordance with section 88(8).
+
+International trade, etc.
 
 7. (1) The supply of goods by a registered person within a free port to another registered person within a free port.
 
@@ -204,9 +206,37 @@ Part E
 
 (1) (2)
 
-Any of the following items not being items (a)Tea, herbal tea and preparations specified in column (2) of this Part: derived from either or both of them, when supplied in non-drinkable form. (a) drinking water, juice extracted from, and other drinkable products derived from, (b) Cocoa, coffee and chicory and other roasted fruit or vegetables, and syrups, coffee substitutes, and preparations and concentrates, essences, powders, extracts derived from any of them, when crystals or other products for the supplied in non-drinkable form. preparation of beverages; (c) Milk and preparations and extracts derived (b) beverages other than those specified in from milk. Part A or B. (d) Preparations and extracts derived from meat, yeast or eggs.
+Any of the following items not being items (a)Tea, herbal tea and preparations specified in column (2) of this Part: derived from either or both of them, when supplied in non-drinkable form. (a) drinking water, juice extracted from, and other drinkable products derived from, (b) Cocoa, coffee and chicory and other roasted fruit or vegetables, and syrups, coffee substitutes, and preparations and concentrates, essences, powders, extracts derived from any of them, when crystals or other products for the supplied in non-drinkable form. preparation of beverages; (c) Milk ... (b) beverages other than those specified in (d) Preparations and extracts derived from Part A or B. meat, yeast or eggs.
 
 Part F
+
+(1) (2) Part A
+
+Beverages chargeable with excise duty specifically charged on spirits, beer, wine, cider, perry or Irish wine, and preparations derived from any of them.
+
+Part B
+
+(a) Tea, herbal tea and preparations derived from either or both of them, when supplied in drinkable form.
+
+(b) Cocoa, coffee and chicory and other roasted coffee substitutes, and preparations and extracts derived from them, when supplied in drinkable form.
+
+Part C
+
+(a) Ice cream, ice lollipops, water ices, frozen desserts, frozen yoghurts and similar frozen products, and prepared mixes and powders for making any of those products.
+
+(b) Savoury products made from cereal or grain, or from flour or starch derived from cereal or grain, pork scratchings, and similar products when supplied for human consumption without further preparation.
+
+Part D
+
+Any of the following when supplied for human consumption without further preparation:
+
+(a) potato crisps, potato sticks, potato puffs and similar products made from potato, or from potato flour or from potato starch;
+
+(b) popcorn;
+
+(c) salted or roasted nuts, whether or not in their shells.
+
+Part E
 
 (1) (2)
 
@@ -220,9 +250,7 @@ Ingredients and Weight Limits thereof for Bread as defined in column (2) of Part
 
 Fats and sugars (including any fats and Not exceeding 12% in aggregate sugars contained in any bread improver)
 
-Dried fruit, vegetables, herbs and spices Not exceeding 10% in aggregate
-
-Yeast or other leavening or aerating agent, No limit seeds, salt, malt extract, milk, water, gluten and bread improver
+Dried fruit, vegetables, herbs and spices Not exceeding 10% in aggregate Yeast or other leavening or aerating agent, No limit seeds, salt, malt extract, milk, water, gluten and bread improver
 
 (2) In this paragraph, a reference to supplying food and drink includes—
 
@@ -232,9 +260,9 @@ Yeast or other leavening or aerating agent, No limit seeds, salt, malt extract, 
 
 Certain printed matter.
 
-9. The supply of printed books and booklets, including atlases, but excluding—
+9. The supply of printed books and booklets, including atlases and newspapers, but excluding—
 
-(a) newspapers, periodicals, brochures, catalogues, directories and programmes,
+(a) newspapers which are wholly or predominantly devoted to advertising, periodicals, brochures, catalogues, directories and programmes,
 
 (b) books of stationery, cheque books and similar products,
 
@@ -243,6 +271,10 @@ Certain printed matter.
 (d) albums and similar products, and
 
 (e) books of stamps, tickets or coupons.
+
+Electronically supplied newspapers
+
+9A. Newspapers, supplied electronically, but excluding those which are wholly or predominantly devoted to advertising, or consist wholly or predominantly of audible music or video content.
 
 Children’s clothing and footwear.
 
@@ -258,7 +290,15 @@ Children’s clothing and footwear.
 
 Medicine, medical equipment and appliances.
 
-11. (1) The supply of medicine of a kind used for human oral consumption.
+11. (1) The supply of medicine of a kind used for—
+
+(a) human oral consumption, or
+
+(b) human non-oral consumption when supplied for the purpose of—
+
+(i) hormone replacement therapy, or
+
+(ii) nicotine replacement therapy.
 
 (2) The supply of medicine of a kind used for animal oral consumption, excluding medicine which is packaged, sold or otherwise designated for the use of dogs, cats, cage birds or domestic pets.
 
@@ -268,9 +308,11 @@ Medicine, medical equipment and appliances.
 
 (b) orthopaedic appliances, surgical belts, trusses and similar products, deaf aids, and artificial limbs and other artificial parts of the body excluding artificial teeth, corrective spectacles and contact lenses,
 
+(ba) automated external defibrillators,
+
 (c) walking frames and crutches,
 
-(d) parts or accessories suitable for use solely or principally with any of the goods specified in clauses (a), (b) and (c).
+(d) parts or accessories suitable for use solely or principally with any of the goods specified in clauses (a), (b), (ba) and (c)
 
 (4) (a) The supply of personal protection equipment, thermometers, hand sanitiser, oxygen, medical ventilators and specialist respiratory equipment including respirators for intensive and sub-intensive care and other oxygen therapy apparatus including oxygen tents, when supplied—
 
@@ -280,9 +322,9 @@ Medicine, medical equipment and appliances.
 
 (II) hospitals, general practitioners, nursing homes and residential care facilities, for use in the delivery of Covid-19 related health care services to their patients or residents, as the case may be, and
 
-(ii) subject to such order as may be made under section 46(5), during the period beginning on 9 April 2020 and ending on 31 December 2021.
+(ii) subject to such order as may be made under section 46(5), during the period beginning on 9 April 2020 and ending on 30 June 2022.
 
-(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020 .
+(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
 
 (5) (a) The supply, during the period from 12 December 2020 to 31 December 2022, of—
 
@@ -290,9 +332,7 @@ Medicine, medical equipment and appliances.
 
 (ii) Covid-19 in vitro diagnostic medical devices and services closely linked to those devices, where those devices comply with the requirements of EU legislation (or the law of a Member State giving effect to such legislation) applicable to such devices, including Directive 98/79/EC of the European Parliament and of the Council of 27 October 199838 and Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017.
 
-(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
-
-Fertilisers, feeding stuffs, certain seeds, etc.
+(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020. Fertilisers, feeding stuffs, certain seeds, etc.
 
 12. (1) For the purpose of this paragraph “fertiliser” has the meaning assigned to it by the Fertilisers, Feeding Stuffs and Mineral Mixtures Act 1955.
 
@@ -308,6 +348,8 @@ Other zero-rated goods and services.
 
 (2) Life saving services provided by the Royal National Lifeboat Institution including the organisation and maintenance of the lifeboat service.
 
-(3) The supply of sanitary towels and sanitary tampons.
+(3) The supply of sanitary towels, sanitary tampons, menstrual cups, menstrual pants and menstrual sponges.
+
+The supply of sanitary towels and sanitary tampons.
 
 (4) ...
