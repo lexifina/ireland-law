@@ -48,7 +48,9 @@ Consequential amendments to Parts 34 to 43 of Act of 1997
 
 (ii) by inserting the following after subsection (1):
 
-“(1A) Any person aggrieved by a determination under subsection (1) on any claim, matter or question referred to in that subsection may, subject to Chapter 6 of Part 41A, appeal the determination to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of that determination.”, (e) in section 865(7) by substituting “the person may appeal the decision to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of that decision” for “the provisions of section 949 shall apply to such decision as if it were a determination made on a matter referred to in section 864”, and
+“(1A) Any person aggrieved by a determination under subsection (1) on any claim, matter or question referred to in that subsection may, subject to Chapter 6 of Part 41A, appeal the determination to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of that determination.”,
+
+(e) in section 865(7) by substituting “the person may appeal the decision to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of that decision” for “the provisions of section 949 shall apply to such decision as if it were a determination made on a matter referred to in section 864”, and
 
 (f) in section 869 by deleting subsection (4).
 
@@ -122,7 +124,9 @@ Consequential amendments to Parts 34 to 43 of Act of 1997
 
 (a) in the case of a chargeable person, by reason of section 959AA, 959AC or 959AD, or
 
-(b) in the case of a person other than a chargeable person, by reason of section 959AB or 959AD, those grounds may be stated in the notice of appeal for the purpose of section 949I(2)(d). (3) In default of an appeal, in accordance with section 949I, being made by a person to whom a notice of assessment has been given, the assessment made on the person shall be final and conclusive.”,
+(b) in the case of a person other than a chargeable person, by reason of section 959AB or 959AD, those grounds may be stated in the notice of appeal for the purpose of section 949I(2)(d).
+
+(3) In default of an appeal, in accordance with section 949I, being made by a person to whom a notice of assessment has been given, the assessment made on the person shall be final and conclusive.”,
 
 (h) by deleting subsection (2) of section 959AH,
 
@@ -144,7 +148,9 @@ Consequential amendments to Parts 34 to 43 of Act of 1997
 
 (a) any requirement that there be taken, by the chargeable person (pursuant to the officer’s enquiry or action) any action, shall be suspended, and
 
-(b) no further action proposed to be taken by a Revenue officer (pursuant to the officer’s enquiry or action) shall be taken, pending the determination of the Appeal Commissioners on that officer’s right to make the enquiry or take the action. (5) Where, as a result of an appeal to the Appeal Commissioners under subsection (2), the Appeal Commissioners determine that a Revenue officer—
+(b) no further action proposed to be taken by a Revenue officer (pursuant to the officer’s enquiry or action) shall be taken, pending the determination of the Appeal Commissioners on that officer’s right to make the enquiry or take the action.
+
+(5) Where, as a result of an appeal to the Appeal Commissioners under subsection (2), the Appeal Commissioners determine that a Revenue officer—
 
 (a) was precluded from making the enquiry or taking the action by reason of section 959Z(3), the chargeable person shall not be required to take any action pursuant to the officer’s enquiry or action and the officer shall be prohibited from pursuing his or her enquiry or action, or
 

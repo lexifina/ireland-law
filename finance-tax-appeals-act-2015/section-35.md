@@ -64,7 +64,9 @@ Consequential amendments to Parts 1 to 7 of Act of 1997
 
 (a) to whom the determination was sent, or
 
-(b) who was made a party to the appeal, shall be bound by the Appeal Commissioners’ determination, and their successors in title shall also be so bound. (8) A notice under subsection (1) may, notwithstanding any obligation on the inspector as to confidentiality or the disclosure of information imposed by any enactment or otherwise, include a statement of the grounds on which the inspector proposes to make the determination.”, and
+(b) who was made a party to the appeal, shall be bound by the Appeal Commissioners’ determination, and their successors in title shall also be so bound.
+
+(8) A notice under subsection (1) may, notwithstanding any obligation on the inspector as to confidentiality or the disclosure of information imposed by any enactment or otherwise, include a statement of the grounds on which the inspector proposes to make the determination.”, and
 
 (f) in section 111—
 

@@ -28,7 +28,9 @@ Consequential amendments to Parts 18A to 24 of Act of 1997
 
 (v) by inserting the following after subsection (8):
 
-“(8A) The inspector shall give notice of a determination under subsection (8)(b) to the individual who, if aggrieved by the determination, may appeal it to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of that determination.”. (5) Part 20 of the Act of 1997 is amended in section 621 by substituting the following for subsections (6) and (7):
+“(8A) The inspector shall give notice of a determination under subsection (8)(b) to the individual who, if aggrieved by the determination, may appeal it to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of that determination.”.
+
+(5) Part 20 of the Act of 1997 is amended in section 621 by substituting the following for subsections (6) and (7):
 
 “(6) A person making an ultimate disposal who is or has at any time been a member of the group of companies referred to in subsection (3) or (4) shall, for the purposes of making a self-assessment, reduce any loss on the disposal to such an extent that the loss does not reflect any diminution in the value of the company’s assets attributable to a depreciatory transaction; but, if the person making the ultimate disposal is not a member of that group when disposing of the shares or securities, no reduction of the loss shall be made by reference to a depreciatory transaction that took place when that person was not a member of that group.
 
@@ -44,7 +46,9 @@ Consequential amendments to Parts 18A to 24 of Act of 1997
 
 (a) it appears, at the time of the apportionment, that it is material as respects the liability to tax (for whatever period) of 2 or more companies, and
 
-(b) it is not possible for a company making the apportionment and the appropriate inspector to agree on that apportionment, the inspector shall determine the apportionment and give notice in writing of the determination to each company affected by that apportionment. (2) A company aggrieved by a determination made under subsection (1) in respect of that company may appeal the determination to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of that determination, for their determination of a just and reasonable apportionment.”.
+(b) it is not possible for a company making the apportionment and the appropriate inspector to agree on that apportionment, the inspector shall determine the apportionment and give notice in writing of the determination to each company affected by that apportionment.
+
+(2) A company aggrieved by a determination made under subsection (1) in respect of that company may appeal the determination to the Appeal Commissioners, in accordance with section 949I, within the period of 30 days after the date of the notice of that determination, for their determination of a just and reasonable apportionment.”.
 
 (7) Part 22 of the Act of 1997 is amended in section 641(4)(c) by substituting “on a just and reasonable basis” for “as appear to the inspector or on appeal to the Appeal Commissioners to be just and reasonable”.
 
