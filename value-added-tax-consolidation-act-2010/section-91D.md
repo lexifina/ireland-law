@@ -2,8 +2,6 @@ Union scheme (where the State is Member State of identification).
 
 91D.—(1) (a) A taxable person may opt to apply the Union scheme to his or her qualifying supplies of scheme services, intra-Community distance sales of goods and qualifying domestic supplies of goods, provided that the taxable person—
 
-12 OJ No. L326, 21.11.1986, p. 40
-
 (i) makes or intends to make qualifying supplies of scheme services, intra- Community distance sales of goods and qualifying domestic supplies of goods in the course or furtherance of business,
 
 (ii) has established his or her business in the State or, if he or she has not established his or her business in the Community, the taxable person has a fixed establishment in the State, or if he or she has not established his or her business in the Community and does not have a fixed establishment in the State, the taxable person supplies goods from the State and has indicated that he or she wishes to identify in the State for the purposes of the Scheme, and
@@ -22,7 +20,7 @@ Union scheme (where the State is Member State of identification).
 
 (ii) is excluded from applying the Union scheme by any provision of the Implementing Regulation.
 
-(2) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the ‘identification register’) of persons who are identified in the State for the purposes of the Union scheme.
+(2) The Revenue Commissioners shall establish and maintain a register (in this section referred to as the "identification register") of persons who are identified in the State for the purposes of the Union scheme.
 
 (3) A person who opts to be identified in the State for the purposes of the Union scheme shall notify the Revenue Commissioners by electronic means using such form as is made available by the Commissioners for that purpose, and shall, at the same time, provide them by electronic means with the following details (unless that information has already been provided):
 
@@ -154,7 +152,7 @@ Union scheme (where the State is Member State of identification).
 
 (10) An identified person shall not make any deduction of tax in the VAT return, or make any adjustment to the amounts therein, in relation to value-added tax deductible pursuant to Article 168 of the VAT Directive.
 
-(11) (a) Without prejudice to the provisions of section 99, where corrections to a VAT return (‘the initial return’) are required after it has been submitted, the corrections shall be included in a subsequent VAT return within 3 years from the date on which the initial return was required to be submitted in accordance with subsection (7).
+(11) (a) Without prejudice to the provisions of section 99, where corrections to a VAT return ("the initial return") are required after it has been submitted, the corrections shall be included in a subsequent VAT return within 3 years from the date on which the initial return was required to be submitted in accordance with subsection (7).
 
 (b) The correction to the VAT return referred to in paragraph (a) shall contain—
 
