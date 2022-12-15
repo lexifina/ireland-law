@@ -6,7 +6,7 @@ Non-Union scheme (where the State is Member State of consumption).
 
 (b) applies the non-Union scheme under the provisions implementing the scheme in another Member State, where that other Member State is the Member State of identification, shall be an accountable person for the purposes of this Act in relation to scheme services only insofar as those services are supplied in the State in accordance with Chapter 3 of Part 4 and, in relation to those supplies, for the purposes of this section shall be referred to as a "scheme participant".
 
-(2) A scheme participant shall be regarded as having fulfilled his or her obligations as an accountable person under subsection (3) of section 65 and shall not otherwise be obliged or entitled to be registered under that section.
+(2) A scheme participant shall be regarded as having fulfilled his or her obligations as an accountable person under subsection (3)(a) of section 65 and shall not otherwise be obliged or entitled to be registered under that section.
 
 (3) A scheme participant shall furnish the VAT return required for a calendar quarter under the provisions of the non-Union scheme to the tax authorities of the Member State of identification by the end of the month immediately following the end of the relevant calendar quarter and, for the purposes of this Act, to the extent that the VAT return relates to scheme services taxable in the State, the VAT return shall be—
 

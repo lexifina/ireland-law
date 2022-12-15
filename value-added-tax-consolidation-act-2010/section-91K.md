@@ -6,7 +6,7 @@ Import scheme (where the State is Member State of consumption).
 
 (b) applies the special scheme for distance sales of goods imported from third territories or third countries under the provisions implementing that scheme in another Member State, where that other Member State is the Member State of identification, shall, in relation to goods supplied in the State under the import scheme, be an accountable person for the purposes of this Act and, in relation to those supplies, shall, for the purposes of this section, be referred to as a "scheme participant".
 
-(2) Notwithstanding subsection (3) of section 65, a scheme participant shall, in relation to supplies covered by the import scheme, be regarded as having fulfilled his or her obligations as an accountable person under the said subsection (3) and shall not otherwise be obliged or entitled to be registered under that section for supplies covered by the import scheme.
+(2) Notwithstanding subsection (3)(a) of section 65, a scheme participant shall, in relation to supplies covered by the import scheme, be regarded as having fulfilled his or her obligations as an accountable person under the said subsection (3) and shall not otherwise be obliged or entitled to be registered under that section for supplies covered by the import scheme.
 
 (3) A scheme participant shall furnish the VAT return required for a month under the provisions of the import scheme to the relevant authorities of the Member State of identification by the end of the month immediately following the end of the period covered by the return and, for the purposes of this Act, to the extent that the VAT return relates to goods supplied under the import scheme taxable in the State, the VAT return shall be—
 
@@ -47,7 +47,3 @@ Import scheme (where the State is Member State of consumption).
 (iii) where that scheme participant is an accountable person other than in relation to distance sales of goods imported from third territories or third countries, subject to Chapter 1 of Part 8, be entitled to deduct the tax borne or paid in the return which he or she is obliged to submit in accordance with Chapter 3 of Part 9.
 
 (7) Notwithstanding section 84, a scheme participant who makes distance sales of goods imported from third territories or third countries to the State which are taxable in the State shall be bound by the requirements of section 91J(18)(a), (b) and (d) in relation to such sales and retain such records until the expiry of a period of 10 years from 31 December of the year during which the transaction was carried out.
-
-## CHAPTER 3 Suspension arrangements for alcohol products
-
-19 OJ No. L326, 21.11.1986, p. 40

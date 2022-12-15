@@ -8,7 +8,7 @@ Union scheme (where the State is Member State of consumption).
 
 (c) makes qualifying domestic supplies of goods, which are taxable in the State shall, in relation to those supplies or sales, be an accountable person for the purposes of this Act and, for the purposes of this section, shall be referred to as a "scheme participant".
 
-(2) Notwithstanding subsection (3) of section 65, a scheme participant shall, in relation to—
+(2) Notwithstanding subsection (3)(a) of section 65, a scheme participant shall, in relation to—
 
 (a) supplies of scheme services,
 
