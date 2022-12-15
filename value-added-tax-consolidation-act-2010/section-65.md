@@ -14,6 +14,16 @@ Registration.
 
 (2A) The Revenue Commissioners may cancel the registration number which has been assigned to a person in accordance with subsection (2), where that person does not become or ceases to be an accountable person.
 
-(3) Every accountable person shall, within the period of 30 days beginning on the day on which the person first becomes an accountable person, furnish in writing to the Revenue Commissioners the particulars specified in regulations as being required for the purpose of registering the person for tax.
+(3) (a) Every accountable person shall, within the period of 30 days beginning on the day on which the person first becomes an accountable person, furnish in writing to the Revenue Commissioners the particulars specified in regulations as being required for the purpose of registering the person for tax.
+
+(b) Where an accountable person, when registering for tax, has furnished particulars specified in regulations referred to in paragraph (a) stating that he or she shall not engage in intra-Community trade, and the person subsequently engages in intra-Community trade, that person shall, within the period of 30 days beginning on the date on which he or she first engages in intra-Community trade, notify the Revenue Commissioners in writing of such an engagement.
+
+(c) Where an accountable person notifies the Revenue Commissioners under paragraph (b) regarding his or her engagement in intra-Community trade, the Revenue Commissioners shall request that person to correct the particulars furnished as specified in regulations referred to in paragraph (a).
+
+(d) In this subsection, "intra-Community trade" means—
+
+(i) the intra-Community supply of goods made by an accountable person and dispatched or transported from the State to a person registered for value-added tax in another Member State, or
+
+(ii) the intra-Community acquisition of goods.
 
 (4) Every person who disposes of goods or supplies services which pursuant to section 22(3) or 28(4) or (5) are deemed to be supplied by an accountable person in the course of his or her business shall, within 14 days of the disposal or the supply of a service, furnish in writing to the Revenue Commissioners the particulars specified in regulations as being required for the purpose of registering the person for tax.
