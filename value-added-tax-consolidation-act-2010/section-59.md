@@ -18,9 +18,9 @@ Deduction for tax borne or paid.
 
 (i) outside the Community, or
 
-(ii) directly in connection with the export of goods to a place outside the Community,
+(ii) directly in connection with the export of goods to a place outside the Community, and
 
-(e) services consisting of the issue of new stocks, new shares, new debentures or other new securities by the accountable person in so far as such issue is made to raise capital for the purposes of the accountable person’s taxable supplies, and
+(e) ...
 
 (f) supplies of goods or services outside the State which would be taxable supplies if made in the State;
 
