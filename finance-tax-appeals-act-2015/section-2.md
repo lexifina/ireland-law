@@ -6,7 +6,7 @@ Interpretation
 
 “Appeal Commissioner” or “Commissioner” means, unless the context otherwise requires, a member of the Commission;
 
-'chairperson’ means the chairperson of the Commission;
+"chairperson" means the chairperson of the Commission;
 
 “Commission” shall be read in accordance with section 3(1);
 
@@ -21,6 +21,8 @@ Interpretation
 (b) the Capital Gains Tax Acts (within the meaning of section 1 of the Act of 1997),
 
 (c) Parts 18A to 18D of the Act of 1997,
+
+(ca) Part 22B of the Act of 1997,
 
 (d) the Stamp Duties Consolidation Act 1999, and the enactments amending or extending that Act,
 
