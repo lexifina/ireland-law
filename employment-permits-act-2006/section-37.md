@@ -14,7 +14,7 @@ Data exchange in respect of certain matters.
 
 (a) the Minister for Social and Family Affairs,
 
-(aa) the Garda Síochána,,
+(aa) the Garda Síochána,
 
 (b) the Minister for Justice, Equality and Law Reform, or
 
