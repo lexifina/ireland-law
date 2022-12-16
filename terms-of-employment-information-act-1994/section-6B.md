@@ -1,6 +1,6 @@
 Offences.
 
-6B. (1) An employer who, without reasonable cause, fails to provide an employee with a statement required by section 3(1A), within one month of the date of the commencement of that employee’s employment, shall be guilty of an offence.
+6B.— (1) An employer who, without reasonable cause, fails to provide an employee with a statement required by section 3(1A), within one month of the date of the commencement of that employee’s employment, shall be guilty of an offence.
 
 (2) An employer who deliberately provides false or misleading information to an employee, or who is reckless as to whether or not false or misleading information is provided, as part of the statement required by section 3(1A), shall be guilty of an offence.
 

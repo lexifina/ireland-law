@@ -4,7 +4,7 @@ Short title and commencement.
 
 (2) This Act shall come into operation on such day as the Minister may appoint by order.
 
-ACTS REFERRED TO
+Acts Referred to
 
 Civil Service Regulation Act, 1956 1956, No. 46
 

@@ -1,6 +1,6 @@
 Protection against penalisation.
 
-6C. (1) An employer shall not penalise or threaten penalisation of an employee for—
+6C.— (1) An employer shall not penalise or threaten penalisation of an employee for—
 
 (a) invoking any right conferred on him or her by this Act,
 
@@ -16,7 +16,7 @@ Protection against penalisation.
 
 (4) If a penalisation of an employee, in contravention of subsection (1), constitutes a dismissal of the employee within the meaning of the Unfair Dismissals Acts 1977 to 2015, relief may not be granted to the employee in respect of that penalisation both under this Act and under those Acts.
 
-(5) In this section ‘penalisation’ means any act or omission by an employer or a person acting on behalf of an employer that affects an employee to his or her detriment with respect to any term or condition of his or her employment, and, without prejudice to the generality of the foregoing, includes—
+(5) In this section "penalisation" means any act or omission by an employer or a person acting on behalf of an employer that affects an employee to his or her detriment with respect to any term or condition of his or her employment, and, without prejudice to the generality of the foregoing, includes—
 
 (a) suspension, lay-off or dismissal (including a dismissal within the meaning of the Unfair Dismissals Acts 1977 to 2015), or the threat of suspension, lay-off or dismissal,
 
