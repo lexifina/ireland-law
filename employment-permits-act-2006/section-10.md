@@ -47,3 +47,5 @@ Restriction on grant of employment permit.
 (ii) section 2(11) of the Act of 2003.
 
 (4) In subsection (2)(iia), "United Kingdom of Great Britain and Northern Ireland" includes the Channel Islands and the Isle of Man and "citizens of the United Kingdom of Great Britain and Northern Ireland" shall be construed accordingly.
+
+O.J.L141, 27.5.2011, p. 1.
