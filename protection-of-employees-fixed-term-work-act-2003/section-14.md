@@ -1,6 +1,6 @@
 ## PART 3 ENFORCEMENT
 
-F3[Decision of adjudication officer under section 41 of Workplace Relations Act 2015
+F4[Decision of adjudication officer under section 41 of Workplace Relations Act 2015
 
 14. A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of this Act shall do one or more of the following, namely—
 
