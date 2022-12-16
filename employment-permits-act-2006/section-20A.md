@@ -20,7 +20,9 @@ Redundancy of foreign national to whom employment permit granted for purpose ref
 
 (b) the Minister is satisfied that the dismissal by the employer of the foreign national from the employment in respect of which the employment permit referred to in subsection (1) was granted, was a dismissal by reason of redundancy, the application may be made for that employment by a foreign national to whom this section applies notwithstanding that the employment is no longer an employment, or falls within a category of employment, for which an employment permit may be granted or is an employment, or falls within a category of employment specified in regulations under section 14 for which an employment permit shall not be granted.
 
-(5) Notwithstanding section 12(3), the Minister may, subject to subsection (6), grant, under section 8, an employment permit for the employment referred to in subsection (4) pursuant to an application referred to in subsection (4) that is made within the period referred to in subsection (3) and for the avoidance of doubt—
+(5) Notwithstanding section 12(3), the Minister may, subject to subsection (6), grant, under section 8, an employment permit for the employment referred to in subsection
+
+(4) pursuant to an application referred to in subsection (4) that is made within the period referred to in subsection (3) and for the avoidance of doubt—
 
 (a) section 12(3) shall apply in respect of any other provision or requirement, specified in regulations under section 14 that is required to be satisfied, and
 
