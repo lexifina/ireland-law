@@ -12,6 +12,8 @@ Compliance with renewable transport fuel obligation.
 
 (2) For the purposes of subsection (1)(c), each certificate shall have a value equivalent to one megajoule of the specified amount calculated in accordance with section 44C(3) for the purpose of determining the renewable transport fuel obligation.
 
+(2A) At the end of the 2022 obligation period, the Agency may carry out a calculation as it sees fit and determine the conversion rate applied to certificates expressed in litres held for the 2022 period and the previous periods into certificates expressed in megajoules, for the purposes of determining certificates pursuant to subsection (6)(c).
+
 (3) Within 75 days after the date of the notification under subsection (1), each obligated party shall, for the purpose of discharging the renewable transport fuel obligation, notify the Agency in such form as the Agency determines specifying by reference to such particulars as the Agency determines the renewable transport fuel obligation certificates held to the credit of the renewable transport fuel obligation account concerned which are to be counted towards the discharge of the renewable transport fuel obligation notified under subsection (1).
 
 (4) Where an obligated party fails to notify the Agency within the period specified in subsection (3) of the number of renewable transport fuel obligation certificates to be so counted, the Agency shall determine which certificates held to the credit of the renewable transport fuel obligation account concerned are to be so counted in the date order according to which those certificates were issued and shall notify the obligated party accordingly in such form as the Agency determines as soon as is reasonably practicable.

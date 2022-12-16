@@ -12,12 +12,16 @@ Biofuel obligation.
 
 (a) the relevant disposals of petroleum products by each obligated party during the obligation period concerned, and
 
-(b) the percentage rate provided for by section 44D(1).
+(b) the percentage rates provided for by section 44D(1).
 
-(4) Within the renewable transport fuel obligation referred to in subsection (3):
+(4) The renewable transport fuel obligation referred to in subsection (3) encompasses—
 
-(a) the contribution from advanced biofuels and biogas shall meet the requirements of Article 25 (1) subparagraph 4 of the Directive (in this Part referred to as the "advanced biofuel obligation");
+(a) the contribution from advanced biofuels and biogas (in this Part referred to as the "advanced biofuel obligation");
 
-(b) the contribution from biofuels and biogas produced from food and feed crops shall meet the requirements of Article 26 (1) of the Directive (in this Part referred to as the "crop cap");
+(b) the contribution from biofuels and biogas produced from food and feed crops which shall be no more than 2% (in this Part referred to as the "crop cap");
 
-(c) the contribution from biofuels and biogas produced from high indirect land-use change-risk (in this Part referred to as "high ILUC-risk") feedstocks shall be no more than the amount disposed of in 2019 by the oil companies or oil consumers that disposed of such biofuels and biogas in 2019.
+(c) the percentage reduction (no later than 31 December 2030, to 0% supply) in the amount of supply from biofuels and biogas produced from high indirect land-use change-risk (in this Part referred to as "high ILUC-risk") feedstocks as referred to under subsection (5).
+
+(d) The percentage rates shall be those provided for by section 44D(1).
+
+(5) The renewable transport fuel obligation referred to in subsection (3) also encompasses the contribution of supply of biofuels and biogas produced from high ILUC-risk feedstock, which shall be no more than the amount disposed of in 2019 and may only be disposed of by the oil companies or oil consumers that disposed of such biofuels and biogas in 2019.
