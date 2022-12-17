@@ -226,7 +226,9 @@ Article 35 - Admissibility criteria
 
 1 The Court may only deal with the matter after all domestic remedies have been exhausted, according to the generally recognised rules of international law, and within a period of six months from the date on which the final decision was taken.
 
-2 The Court shall not deal with any application submitted under Article 34 that a is anonymous; or b is substantially the same as a matter that has already been examined by the Court or has already been submitted to another procedure of international investigation or settlement and contains no relevant new information. 3 The Court shall declare inadmissible any individual application submitted under Article 34 if it considers that: a the application is incompatible with the provisions of the Convention or the Protocols thereto, manifestly ill-founded, or an abuse of the right of individual application; or b the applicant has not suffered a significant disadvantage, unless respect for human rights as defined in the Convention and the Protocols thereto requires an examination of the application on the merits and provided that no case may be rejected on this ground which has not been duly considered by a domestic tribunal.
+2 The Court shall not deal with any application submitted under Article 34 that a is anonymous; or b is substantially the same as a matter that has already been examined by the Court or has already been submitted to another procedure of international investigation or settlement and contains no relevant new information.
+
+3 The Court shall declare inadmissible any individual application submitted under Article 34 if it considers that: a the application is incompatible with the provisions of the Convention or the Protocols thereto, manifestly ill-founded, or an abuse of the right of individual application; or b the applicant has not suffered a significant disadvantage, unless respect for human rights as defined in the Convention and the Protocols thereto requires an examination of the application on the merits and provided that no case may be rejected on this ground which has not been duly considered by a domestic tribunal.
 
 4 The Court shall reject any application which it considers inadmissible under this Article. It may do so at any stage of the proceedings.
 
@@ -250,11 +252,11 @@ Article 38 - Examination of the case
 
 The Court shall examine the case together with the representatives of the parties and, if need be, undertake an investigation, for the effective conduct of which the High Contracting Parties concerned shall furnish all necessary facilities.
 
-Article 39 - Friendly settlements 4 1 At any stage of the proceedings, the Court may place itself at the disposal of the parties concerned with a view to securing a friendly settlement of the matter on the basis of respect for human rights as defined in the Convention and the Protocols thereto.
+Article 39 - Friendly settlements 4
 
-2 Proceedings conducted under paragraph 1 shall be confidential.
+1 At any stage of the proceedings, the Court may place itself at the disposal of the parties concerned with a view to securing a friendly settlement of the matter on the basis of respect for human rights as defined in the Convention and the Protocols thereto.
 
-3 If a friendly settlement is effected, the Court shall strike the case out of its list by means of a decision which shall be confined to a brief statement of the facts and of the solution reached.
+2 Proceedings conducted under paragraph 1 shall be confidential. 3 If a friendly settlement is effected, the Court shall strike the case out of its list by means of a decision which shall be confined to a brief statement of the facts and of the solution reached.
 
 4 This decision shall be transmitted to the Committee of Ministers, which shall supervise the execution of the terms of the friendly settlement as set out in the decision.
 
@@ -284,13 +286,13 @@ Article 44 - Final judgments
 
 1 The judgment of the Grand Chamber shall be final.
 
-2 The judgment of a Chamber shall become final a when the parties declare that they will not request that the case be referred to the Grand Chamber; or b three months after the date of the judgment, if reference of the case to the Grand Chamber has not been requested; or c when the panel of the Grand Chamber rejects the request to refer under Article 43. 3 The final judgment shall be published.
+2 The judgment of a Chamber shall become final a when the parties declare that they will not request that the case be referred to the Grand Chamber; or b three months after the date of the judgment, if reference of the case to the Grand Chamber has not been requested; or c when the panel of the Grand Chamber rejects the request to refer under Article 43.
+
+3 The final judgment shall be published.
 
 Article 45 - Reasons for judgments and decisions
 
-1 Reasons shall be given for judgments as well as for decisions declaring applications admissible or inadmissible.
-
-2 If a judgment does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
+1 Reasons shall be given for judgments as well as for decisions declaring applications admissible or inadmissible. 2 If a judgment does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
 
 Article 46 - Binding force and execution of judgments
 
@@ -318,7 +320,9 @@ The Court shall decide whether a request for an advisory opinion submitted by th
 
 Article 49 - Reasons for advisory opinions
 
-1 Reasons shall be given for advisory opinions of the Court. 2 If the advisory opinion does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
+1 Reasons shall be given for advisory opinions of the Court.
+
+2 If the advisory opinion does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
 
 3 Advisory opinions of the Court shall be communicated to the Committee of Ministers.
 
@@ -358,9 +362,7 @@ Article 56 - Territorial application
 
 4 Any State which has made a declaration in accordance with paragraph 1 of this article may at any time thereafter declare on behalf of one or more of the territories to which the declaration relates that it accepts the competence of the Court to receive applications from individuals, non-governmental organisations or groups of individuals as provided by Article 34 of the Convention.
 
-Article 57 - Reservations
-
-1 Any State may, when signing this Convention or when depositing its instrument of ratification, make a reservation in respect of any particular provision of the Convention to the extent that any law then in force in its territory is not in conformity with the provision. Reservations of a general character shall not be permitted under this article.
+Article 57 - Reservations 1 Any State may, when signing this Convention or when depositing its instrument of ratification, make a reservation in respect of any particular provision of the Convention to the extent that any law then in force in its territory is not in conformity with the provision. Reservations of a general character shall not be permitted under this article.
 
 2 Any reservation made under this article shall contain a brief statement of the law concerned.
 
