@@ -14,7 +14,7 @@ Interpretation
 
 “Commission” has the meaning assigned to it by section 9 ;
 
-“Council Regulation 168/2007” means Council Regulation (EC) No. 168/2007 of 15 February 2007 establishing a European Union Agency for Fundamental Rights ;
+“Council Regulation 168/2007” means Council Regulation (EC) No. 168/2007 of 15 February 2007 establishing a European Union Agency for Fundamental Rights;
 
 “dignity” means, in relation to a person, the inviolable intrinsic value, equal to other persons, that the person has and includes the recognition by other persons of such value with respect of that person;
 
@@ -38,7 +38,9 @@ Interpretation
 
 “European Union Agency for Fundamental Rights” means the agency established under Council Regulation 168/2007;
 
-“human rights”, other than in Part 3, means— (a) the rights, liberties and freedoms conferred on, or guaranteed to, persons by the Constitution,
+“human rights”, other than in Part 3, means—
+
+(a) the rights, liberties and freedoms conferred on, or guaranteed to, persons by the Constitution,
 
 (b) the rights, liberties or freedoms conferred on, or guaranteed to, persons by any agreement, treaty or convention to which the State is a party, and
 
@@ -58,7 +60,7 @@ Interpretation
 
 “public body” means—
 
-(a) a Department of State (other than, in relation to the Department of Defence, the Defence Forces) for which a Minister of the Government is responsible,
+(a) a Department of State (other than, in relation to the Department of Defence, the Defence Forces) for which a Minister of the Governme1nt is responsible,
 
 (b) a local authority within the meaning of the Local Government Act 2001,
 
