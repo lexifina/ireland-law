@@ -16,6 +16,4 @@ Amendment of section 1 of Act of 2003
 
 “(e) Protocol No. 13 to the Convention, concerning the abolition of the death penalty in all circumstances done at Vilnius on the 3rd day of May 2002,”, and
 
-(ii) by the substitution of “Schedules 2, 3, 4, 5 and 6 (inserted by section
-
-55 of the Irish Human Rights and Equality Commission Act 2014) respectively, to this Act;” for “Schedules 2, 3, 4 and 5 respectively, to this Act;”.
+(ii) by the substitution of “Schedules 2, 3, 4, 5 and 6 (inserted by section 55 of the Irish Human Rights and Equality Commission Act 2014) respectively, to this Act;” for “Schedules 2, 3, 4 and 5 respectively, to this Act;”.

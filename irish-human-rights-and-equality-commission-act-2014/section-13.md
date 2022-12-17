@@ -42,7 +42,7 @@ Appointment of members of Commission
 
 (13) In making recommendations for appointment of persons to the Commission under this section, the Service, and the Government shall have regard to the need to ensure that the members of the Commission broadly reflect the nature of Irish society and that such persons possess knowledge of, or experience in—
 
-(a) mattersconnected with human rights, and
+(a) matters connected with human rights, and
 
 (b) without prejudice to the generality of paragraph (a),matters connected with persons or classes of persons who are disadvantaged by reference to the following factors:
 
