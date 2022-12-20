@@ -1,14 +1,14 @@
 Approval of certain State development requiring environmental impact assessment.
 
-181A.—(1) Subject to section 181B(4), where a State authority proposes to carry out or have carried out development—
+181A.—(1) Subject to section 181B(4) and (4A), where a State authority proposes to carry out or have carried out development—
 
 (a) of a class specified in regulations made under section 181(1)(a), and
 
-(b) identified as likely to have significant effects on the environment or adverse effects on the integrity of a European site, as the case may be, in accordance with section 176,
+(b) identified as likely to have significant effects on the environment in accordance with section 176 or, in respect of such development not directly connected with or necessary to the management of a European site, likely to have a significant effect either individually or in combination with other plans or projects on a European site in accordance with section 177U,
 
 (hereafter referred to in this section and sections 181B and 181C as "proposed development"), the authority shall prepare, or cause to be prepared, an application for approval of the development under section 181B and an environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, in respect of the development and shall apply to the Board for such approval accordingly.
 
-(2) Subject to section 181B(4), the proposed development shall not be carried out unless the Board has approved it with or without modifications.
+(2) Subject to section 181B(4) and (4A), the proposed development shall not be carried out unless the Board has approved it with or without modifications.
 
 (3) Before a State authority makes an application for approval under subsection (1), it shall—
 

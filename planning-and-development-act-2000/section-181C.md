@@ -10,7 +10,7 @@ Procedures in advance of seeking approval under section 181B.
 
 (3) A prospective applicant may request the Board—
 
-(a) to make a determination of whether a development of a class specified in regulations made under section 181(1)(a) which it proposes to carry out or have carried out is likely to have significant effects on the environment or adverse effects on the integrity of a European site as the case may be in accordance with section 176 (and inform the applicant of the determination), or
+(a) to make a determination of whether a development of a class specified in regulations made under section 181(1)(a) which it proposes to carry out or have carried out is likely to have significant effects on the environment in accordance with section 176 or, in respect of such a development not directly connected with or necessary to the management of a European site, is likely to have a significant effect either individually or in combination with other plans or projects on a European site in accordance with section 177U (and inform the applicant of the determination), or
 
 (b) to give to the applicant an opinion in writing prepared by the Board on what information will be required to be contained in an environmental impact assessment report or Natura impact statement or both that report and that statement as the case may be in relation to the proposed development.
 
