@@ -40,8 +40,6 @@ Environmental impact assessment of certain proposals relating to the foreshore.
 
 (II) a description of the likely significant effects of the proposed development on the environment;
 
-9 OJ No. L 206, 22.7.1992, p. 7. 10 OJ No. L 20, 26.1.2010, p. 7.
-
 (III) a description of the features of the proposed development and of measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment;
 
 (IV) a description of the reasonable alternatives studied by the applicant, which are relevant to the proposed development and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the proposed development on the environment;
@@ -62,7 +60,7 @@ Environmental impact assessment of certain proposals relating to the foreshore.
 
 (e) The appropriate Minister shall consider the content of the environmental impact assessment report (and any other material including maps or plans) submitted as part of the application and determine whether same adequately identifies, describes and assesses the direct and indirect effects on the environment of the proposed development.
 
-(f) If he considers that the environmental impact assessment report (and other material) is inadequate, then the appropriate Minister shall serve a notice (in this section referred to as ‘a request for further information’) which sets out the manner in which the information is inadequate and requires the applicant to submit further information to remedy those inadequacies.
+(f) If he considers that the environmental impact assessment report (and other material) is inadequate, then the appropriate Minister shall serve a notice (in this section referred to as "a request for further information") which sets out the manner in which the information is inadequate and requires the applicant to submit further information to remedy those inadequacies.
 
 (g) The appropriate Minister shall ensure that he or she has access to sufficient expertise to examine the environmental impact assessment report.
 
@@ -222,4 +220,4 @@ Environmental impact assessment of certain proposals relating to the foreshore.
 
 (d) an application to the Minister for the Environment, Heritage and Local Government for his consent under section 13 of this Act for the deposit of material on the foreshore.
 
-(6) In this section ‘relevant application’ does not include an application for an aquaculture licence (within the meaning of the Fisheries (Amendment) Act 1997) that is accompanied by an environmental impact assessment report.
+(6) In this section "relevant application" does not include an application for an aquaculture licence (within the meaning of the Fisheries (Amendment) Act 1997) that is accompanied by an environmental impact assessment report.
