@@ -1,6 +1,6 @@
 Environmental impact assessments, etc., carried out by the Minister for Communications, Energy and Natural Resources.
 
-13B. (1) When considering a relevant application in respect of a petroleum activity the appropriate Minister shall consult with the Minister for Communications, Energy and Natural Resources.
+13B. — (1) When considering a relevant application in respect of a petroleum activity the appropriate Minister shall consult with the Minister for Communications, Energy and Natural Resources.
 
 (2) Notwithstanding section 13A, the appropriate Minister shall not be required to carry out a screening or assessment, in relation to a relevant application in respect of a petroleum activity where the appropriate Minister—
 
@@ -22,13 +22,13 @@ Environmental impact assessments, etc., carried out by the Minister for Communic
 
 (5) In this section—
 
-‘appropriate assessment’ has the meaning given to it by Regulation 2 of the European Communities (Birds and Natural Habitats) Regulations 2011;
+"appropriate assessment" has the meaning given to it by Regulation 2 of the European Communities (Birds and Natural Habitats) Regulations 2011;
 
-‘petroleum activity’ has the meaning given to it by section 13A(2) (inserted by section 3 of the Petroleum (Exploration and Extraction) Safety Act 2010 (No. 4 of 2010)) of the Electricity Regulation Act 1999 (No. 23 of 1999);
+"petroleum activity" has the meaning given to it by section 13A(2) (inserted by section 3 of the Petroleum (Exploration and Extraction) Safety Act 2010 (No. 4 of 2010)) of the Electricity Regulation Act 1999 (No. 23 of 1999);
 
-‘petroleum authorisation’ has the meaning given to it by section 13A(1) (inserted by section 3 of the Petroleum (Exploration and Extraction) Safety Act 2010) of the Electricity Regulation Act 1999;
+"petroleum authorisation" has the meaning given to it by section 13A(1) (inserted by section 3 of the Petroleum (Exploration and Extraction) Safety Act 2010) of the Electricity Regulation Act 1999;
 
-‘screening or assessment’ means—
+"screening or assessment" means—
 
 (a) a screening for an environmental impact assessment or an environmental impact assessment, or
 

@@ -26,7 +26,7 @@ Regulations relating to the submission of observations by certain bodies.
 
 (3) Regulations to which sections 13A and 19A relate may be amended or revoked under this section.
 
-(4) In this section ‘public authority’ means—
+(4) In this section "public authority" means—
 
 (a) a local authority for the purposes of the Local Government Act 2001,
 

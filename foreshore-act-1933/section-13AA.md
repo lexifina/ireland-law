@@ -1,6 +1,6 @@
 Compliance by developer.
 
-13AA. (1) The Minister shall take all reasonable steps to ensure that a developer complies with any environmental condition.
+13AA. — (1) The Minister shall take all reasonable steps to ensure that a developer complies with any environmental condition.
 
 (2) For the purposes of subsection (1), the Minister may request the developer to furnish, within a specified period, specified information in relation to the developer’s compliance with an environmental condition, and that developer shall comply with such a request.
 
@@ -34,7 +34,7 @@ Compliance by developer.
 
 (b) on conviction on indictment, to a fine not exceeding €500,000 or to imprisonment for a term not exceeding 3 years or, at the discretion of the court, to both such fine and such imprisonment.
 
-(8) The Minister, having made a request under subsection (2) and considered any information furnished to him or her, or that has otherwise come into his or her possession, in consequence of that request, or under subsection (5), may issue to the developer to whom the request was made the terms of a direction (in this section referred to as ‘the proposed direction’) that the Minister proposes to issue to the developer, requiring the developer to carry out, cause to be carried out, or arrange for, within a specified period, such action as the Minister considers necessary for the purposes of subsection (1) to ensure that that the developer complies with an environmental condition.
+(8) The Minister, having made a request under subsection (2) and considered any information furnished to him or her, or that has otherwise come into his or her possession, in consequence of that request, or under subsection (5), may issue to the developer to whom the request was made the terms of a direction (in this section referred to as "the proposed direction") that the Minister proposes to issue to the developer, requiring the developer to carry out, cause to be carried out, or arrange for, within a specified period, such action as the Minister considers necessary for the purposes of subsection (1) to ensure that that the developer complies with an environmental condition.
 
 (9) The proposed direction shall specify a period within which the developer may make observations to the Minister in relation to the proposal to make the direction (and the developer may make such observations within that period accordingly).
 

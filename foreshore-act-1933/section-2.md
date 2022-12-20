@@ -1,6 +1,6 @@
 Power for Minister to make leases of foreshore.
 
-2.—(1)— If, in the opinion of the appropriate Minister, it is in the public interest that a lease shall be made to any person of any foreshore belonging to the State, that Minister may, subject to the provisions of this Act, demise by deed under his official seal such foreshore with the buildings and other structures (if any) thereon to such person by way of lease for such term, not exceeding ninety-nine years, commencing at or before the date of such lease, as that Minister shall think proper.
+2.—(1) If, in the opinion of the appropriate Minister, it is in the public interest that a lease shall be made to any person of any foreshore belonging to the State, that Minister may, subject to the provisions of this Act, demise by deed under his official seal such foreshore with the buildings and other structures (if any) thereon to such person by way of lease for such term, not exceeding ninety-nine years, commencing at or before the date of such lease, as that Minister shall think proper.
 
 (1A) Where the Minister for Agriculture, Fisheries and Food or the Minister for the Environment, Heritage and Local Government (being the appropriate Minister) is considering making a lease in accordance with this section, then the Minister so considering shall consult with the other Minister on the matter before deciding on whether or not to make the lease.
 
