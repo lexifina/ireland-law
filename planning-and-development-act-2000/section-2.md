@@ -6,6 +6,8 @@ Interpretation.
 
 “the Act of 1919” means the Acquisition of Land (Assessment of Compensation) Act, 1919;
 
+"Act of 1933" means the Foreshore Act 1933;
+
 “the Act of 1934” means the Town and Regional Planning Act, 1934;
 
 “the Act of 1963” means the Local Government (Planning and Development) Act, 1963;
@@ -72,6 +74,8 @@ Interpretation.
 
 "chief executive", in relation to a local authority, including a local authority exercising functions as a planning authority, means the chief executive appointed under Chapter 2 of Part 14 (as amended by section 54 of the Local Government Reform Act 2014) of the Local Government Act 2001;
 
+"coastal planning authority" has the meaning assigned to it by the Maritime Area Planning Act 2021;
+
 “Commissioners” means the Commissioners of Public Works in Ireland;
 
 “company”, except in section 149(5), means a company within the meaning of section 2 of the Companies Act, 1963, or a company incorporated outside the State;
@@ -116,6 +120,8 @@ Interpretation.
 
 “existing establishment” has the meaning that it has in the Major Accidents Directive;
 
+3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
+
 “fence” includes a hoarding or similar structure but excludes any bank, wall or other similar structure composed wholly or mainly of earth or stone;
 
 "flood risk assessment" means an assessment of the likelihood of flooding, the potential consequences arising and measures, if any, necessary to manage those consequences;
@@ -133,8 +139,6 @@ Interpretation.
 (b) is not in use but when last used was used, disregarding any unauthorised use, as a dwelling and is not derelict, or
 
 (c) was provided for use as a dwelling but has not been occupied;
-
-3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
 
 "Habitats Directive" means Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Corrigendum to Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora amended by Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded; Council Directive 97/62/EC of 27 October 1997 adapting to technical and scientific progress Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded, and Council Directive 2006/105/EC of 20 November 2006 adapting Directives 73/239/EEC, 74/557/EEC and 2002/83/EC in the field of environment, by reason of the accession of Bulgaria and Romania;
 
@@ -192,11 +196,35 @@ Interpretation.
 
 ...
 
+"maritime area" has the meaning assigned to it by the Maritime Area Planning Act 2021;
+
+"maritime area consent" has the meaning assigned to it by the Maritime Area Planning Act 2021;
+
+"maritime site" means a part of the maritime area, and includes—
+
+(a) the waters of that part of the maritime area,
+
+(b) the seabed in that part of the maritime area, and
+
+(c) all substrata beneath the seabed in that part of the maritime area;
+
+"maritime spatial plan" has the meaning assigned to it by the Maritime Area Planning Act 2021;
+
+"maritime spatial planning" means—
+
+(a) maritime spatial planning within the meaning of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014, and
+
+(b) land-sea interactions within the meaning of that Directive;
+
 “mine” means an excavation or system of excavations made for the purpose of, or in connection with, the getting, wholly or substantially by means involving the employment of persons below ground, of minerals (whether in their natural state or in solution or suspension) or products of minerals;
 
 “minerals” includes stone, slate, clay, gravel, sand and other natural deposits except peat;
 
 “Minister” means the Minister for the Environment and Local Government;
+
+"National Marine Planning Framework" has the meaning assigned to it by the Maritime Area Planning Act 2021;
+
+"national newspaper" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
 "National Spatial Strategy" means the "National Spatial Strategy: 2002 – 2020" published by the Government on 28 November 2002, or any document published by the Government which amends or replaces that Strategy;
 
@@ -206,9 +234,19 @@ Interpretation.
 
 "Natura impact report" shall be construed in accordance with section 177T;
 
+"nearshore area" has the meaning assigned to it by the Maritime Area Planning Act 2021;
+
 “new establishment” has the meaning that it has in the Major Accidents Directive;
 
 "NTA" means the National Transport Authority, being the name to which the name of the Dublin Transport Authority was changed with effect from 1 December 2009 pursuant to section 30 of the Public Transport Regulation Act 2009;
+
+"objectives of maritime spatial planning" means—
+
+(a) those matters to which the State is required, in accordance with paragraph 1 of Article 5 of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014, to give consideration when establishing and implementing maritime spatial planning,
+
+(b) those matters to which the State is required, in accordance with paragraph 2 of the said Article 5, to aim to contribute through maritime spatial plans, and
+
+(c) objectives that the State is, for the time being, seeking to pursue in accordance with the second sentence of the said paragraph 2;
 
 “occupier”, in relation to a protected structure or a proposed protected structure, means—
 
@@ -221,6 +259,8 @@ Interpretation.
 "operator" in relation to a quarry means a person who at all material times is in charge of the carrying on of quarrying activities at a quarry or under whose direction such activities are carried out;
 
 “ordinary member” means a member of the Board other than the chairperson;
+
+"outer maritime area" means that part of the maritime area that is not within the nearshore area of any coastal planning authority;
 
 “owner”, in relation to land, means a person, other than a mortgagee not in possession, who, whether in his or her own right or as trustee or agent for any other person, is entitled to receive the rack rent of the land or, where the land is not let at a rack rent, would be so entitled if it were so let;
 
@@ -246,11 +286,11 @@ Interpretation.
 
 (i) in the case of a referral under section 193, the person by whom the application for permission for erection of the new structure was made,
 
-(j) the applicant for a licence under section 254 in relation to which an appeal is made by another person (other than a person acting on behalf of the appellant), and “party” shall be construed accordingly;
+(j) the applicant for a licence under section 254 in relation to which an appeal is made by another person (other than a person acting on behalf of the appellant), and “party” shalcl be construed accordingly;
 
-"permission" means a permission granted under section 34, 37G or 37N, as appropriate;
+"permission" means a permission granted under section 34, 37G, 37N or 293, as appropriate;
 
-"permission regulations" means regulations under section 33, 37P, 172(2) or 174;
+"permission regulations" means regulations under section 33, 37P, 172(2), 174 or 306;
 
 "planning application" means an application to a planning authority, or the Board, as the case may be, in accordance with permission regulations for permission for the development of land required by those regulations;
 
@@ -404,19 +444,19 @@ Interpretation.
 
 (a) a structure which was in existence on 1 October 1964, or
 
-(b) a structure, the construction, erection or making of which was the subject of a permission for development granted under Part IV of the Act of 1963 or deemed to be such under section 92 of that Act or under section 34, 37G or 37N of this Act, being a permission which has not been revoked, or which exists as a result of the carrying out of exempted development (within the meaning of section 4 of the Act of 1963 or section 4 of this Act);
+(b) a structure, the construction, erection or making of which was the subject of a permission for development granted under Part IV of the Act of 1963 or deemed to be such under section 92 of that Act or under section 34, 37G or 37N or 293 of this Act, being a permission which has not been revoked, or which exists as a result of the carrying out of exempted development (within the meaning of section 4 of the Act of 1963 or section 4 of this Act);
 
 “unauthorised use” means, in relation to land, use commenced on or after 1 October 1964, being a use which is a material change in use of any structure or other land and being development other than—
 
 (a) exempted development (within the meaning of section 4 of the Act of 1963 or section 4 of this Act), or
 
-(b) development which is the subject of a permission granted under Part IV of the Act of 1963 or under section 34, 37G or 37N of this Act, being a permission which has not been revoked, and which is carried out in compliance with that permission or any condition to which that permission is subject;
+(b) development which is the subject of a permission granted under Part IV of the Act of 1963 or under section 34, 37G, 37N or 293 of this Act, being a permission which has not been revoked, and which is carried out in compliance with that permission or any condition to which that permission is subject;
 
 “unauthorised works” means any works on, in, over or under land commenced on or after 1 October 1964, being development other than—
 
 (a) exempted development (within the meaning of section 4 of the Act of 1963 or section 4 of this Act), or
 
-(b) development which is the subject of a permission granted under Part IV of the Act of 1963 or under section 34, 37G or 37N of this Act, being a permission which has not been revoked, and which is carried out in compliance with that permission or any condition to which that permission is subject;
+(b) development which is the subject of a permission granted under Part IV of the Act of 1963 or under section 34, 37G, 37N or 293 of this Act, being a permission which has not been revoked, and which is carried out in compliance with that permission or any condition to which that permission is subject;
 
 “use”, in relation to land, does not include the use of the land by the carrying out of any works thereon;
 
