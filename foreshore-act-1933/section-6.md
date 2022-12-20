@@ -34,6 +34,6 @@ Order prohibiting removal of beach material from seashore.
 
 (8) In this section—
 
-‘fauna’ means all wild animals (both aquatic and terrestrial) and includes in particular wild birds, wild mammals, reptiles, non-aquatic invertebrate animals and amphibians, and all such wild animals’ eggs, larvae, pupae or other immature stage and young;
+"fauna" means all wild animals (both aquatic and terrestrial) and includes in particular wild birds, wild mammals, reptiles, non-aquatic invertebrate animals and amphibians, and all such wild animals’ eggs, larvae, pupae or other immature stage and young;
 
-‘flora’ means all plants (both aquatic and terrestrial) which occur in the wild (whether within or outside the State) and are not trees, shrubs or other plants being grown in the course of agriculture, forestry or horticulture, and includes in particular lichens, mosses, liverworts, fungi, algae and vascular plants, namely flowering plants, ferns and fern-allied plants and any community of such plants.
+"flora" means all plants (both aquatic and terrestrial) which occur in the wild (whether within or outside the State) and are not trees, shrubs or other plants being grown in the course of agriculture, forestry or horticulture, and includes in particular lichens, mosses, liverworts, fungi, algae and vascular plants, namely flowering plants, ferns and fern-allied plants and any community of such plants.

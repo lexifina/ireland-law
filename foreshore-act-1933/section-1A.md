@@ -1,4 +1,4 @@
-F11[Outer limit of foreshore.
+F12[Outer limit of foreshore.
 
 1A.—(1) The outer limit of the foreshore is, and shall be deemed always to have been and to be, coterminous with the seaward limit of the territorial seas of the State as provided, from time to time, by Act of the Oireachtas.
 
