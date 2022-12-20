@@ -1,0 +1,3 @@
+General power of deputy chairperson to perform functions of chairperson where office is vacant.
+
+107A. ...

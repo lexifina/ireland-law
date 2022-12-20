@@ -1,0 +1,3 @@
+Effect of steps not being completed within the time period.
+
+32K. ...

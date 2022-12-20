@@ -2,7 +2,15 @@
 
 Consultations in relation to proposed development.
 
-247.—(1) Subject to subsection (1A), a person who has an interest in land and who intends to make a planning application may, with the agreement of the planning authority concerned (which shall not be unreasonably withheld), enter into consultations with the planning authority in order to discuss any proposed development in relation to the land and the planning authority may give advice to that person regarding the proposed application.
+247.— (1) Subject to subsection (1A), a person who—
+
+(a) has an interest (including a lease granted under section 2 of the Act of 1933, of a part of the foreshore that consists of, or includes, the maritime site on which it is proposed to carry out the development concerned) in land, or
+
+(b) is the holder of—
+
+(i) a maritime area consent granted for the occupation of a maritime site for the purposes of proposed development, or
+
+(ii) a licence granted under section 3 of the Act of 1933 authorising the licensee to do any act or acts referred to in that section for the purposes of proposed development on, or in relation to, the maritime site in which the development is proposed to be situated, and who intends to make a planning application may, with the agreement (which shall not be unreasonably withheld) of the planning authority concerned, consult with the planning authority for the purposes of discussing any proposed development in relation to the land or maritime site, as the case may be, and the planning authority may advise the person regarding the proposed application.
 
 (1A) (a) Subject to subsection (7) and section 5 of the Planning and Development (Housing) and Residential Tenancies Act 2016, prior to making an application to a planning authority or authorities under section 34 in respect of a development that—
 

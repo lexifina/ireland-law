@@ -1,0 +1,3 @@
+Opinion as to flexibility with regard to application for approval.
+
+182G. ...
