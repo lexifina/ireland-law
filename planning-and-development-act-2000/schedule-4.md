@@ -116,7 +116,7 @@ REASONS FOR THE REFUSAL OF PERMISSION WHICH EXCLUDE COMPENSATION
 
 (b) the estate to which the previous development relates has not been taken in charge by the local authority concerned because the estate has not been completed to the satisfaction of that authority.
 
-(2) In this paragraph ‘associated’, in relation to a previous development, means a development under the Planning and Development Acts 2000 to 2018 to which section 180 relates and in respect of which the development has not been satisfactorily completed or taken in charge by the local authority concerned due to the actions (whether of commission or omission) of—
+(2) In this paragraph "associated", in relation to a previous development, means a development under the Planning and Development Acts 2000 to 2018 to which section 180 relates and in respect of which the development has not been satisfactorily completed or taken in charge by the local authority concerned due to the actions (whether of commission or omission) of—
 
 (a) the applicant for the proposed development,
 
@@ -142,7 +142,7 @@ REASONS FOR THE REFUSAL OF PERMISSION WHICH EXCLUDE COMPENSATION
 
 (e) a company that carried out a development pursuant to a previous permission, carried out a substantial unauthorised development or has been convicted of an offence under this Act, which company is controlled by the applicant—
 
-(i) where ‘control’ has the same meaning as in section 220(5) of the Companies Act 2014, or
+(i) where "control" has the same meaning as in section 220(5) of the Companies Act 2014, or
 
 (ii) as a shadow director within the meaning of section 2(1) of the Companies Act 2014.
 

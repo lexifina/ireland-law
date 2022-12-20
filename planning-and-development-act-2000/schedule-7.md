@@ -24,7 +24,9 @@ Energy Infrastructure
 
 —An installation for the surface storage of oil or coal, where the storage capacity would exceed 100,000 tonnes.
 
-—An installation for hydroelectric energy production with an output of 300 megawatts or more, or where the new or extended superficial area of water impounded would be 30 hectares or more, or where there would be a 30 per cent change in the maximum, minimum or mean flows in the main river channel. —An installation for the harnessing of wind power for energy production (a wind farm) with more than 25 turbines or having a total output greater than 50 megawatts.
+—An installation for hydroelectric energy production with an output of 300 megawatts or more, or where the new or extended superficial area of water impounded would be 30 hectares or more, or where there would be a 30 per cent change in the maximum, minimum or mean flows in the main river channel.
+
+—An installation for the harnessing of wind power for energy production (a wind farm) with more than 25 turbines or having a total output greater than 50 megawatts.
 
 —An onshore terminal, building or installation, whether above or below ground, associated with a natural gas storage facility, where the storage capacity would exceed 1mscm.
 

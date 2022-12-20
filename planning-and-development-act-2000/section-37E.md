@@ -1,4 +1,4 @@
-Application to Board.
+Offence of taking payment, etc. in connection with section 37CD procedure.
 
 37E.— (1) An application for permission for development in respect of which a notice has been served under section 37B(4)(a) shall be made to the Board and shall be accompanied by an environmental impact assessment report in respect of the proposed development.
 

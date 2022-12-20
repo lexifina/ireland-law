@@ -24,6 +24,4 @@ Directive 2003/4/EC of the European Parliament and of the Council of 28 January 
 
 Directive 2003/35/EC of the European Parliament and of the Council of 26 May 2003 providing for public participation in respect of the drawing up of certain plans and programmes relating to the environment and amending with regard to public participation and access to justice Council Directives 85/337/EEC and 96/61/EC
 
-Directive 2006/11/EC of the European Parliament and of the Council of 15 February 2006 on pollution caused by certain dangerous substances discharged into the aquatic environment of the Community
-
-Birds Directive
+Directive 2006/11/EC of the European Parliament and of the Council of 15 February 2006 on pollution caused by certain dangerous substances discharged into the aquatic environment of the Community Birds Directive
