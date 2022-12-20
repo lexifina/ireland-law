@@ -22,23 +22,25 @@ Section 181A: criteria for decision, certain exemptions, etc.
 
 (c) No exemption may be granted under paragraph (b) in respect of the proposed development where another Member State of the European Union or a state which is a party to the Transboundary Convention, having been informed about the proposed development and its likely significant effects on the environment in that State or state, as the case may be, has indicated that it wishes to furnish views on those effects.
 
-(d) The Board may, where it is satisfied that exceptional circumstances so warrant, grant an exemption in respect of proposed development from a requirement under section 181A(1) to prepare a Natura impact statement except that no exemption may be granted in respect of proposed development where another Member State of the European Union or a state which is a party to the Transboundary Convention has indicated that it wishes to furnish views on the effects on the environment in that Member State or state, as the case may be, of the proposed development.
+(d) ...
 
 (3) The Board shall, in granting an exemption under subsection (2), consider whether—
 
-(a) the effects, if any of the proposed development on the environment or adverse effects, if any of the proposed development on the integrity of a European site should be assessed in some other manner, and
+(a) the effects, if any of the proposed development on the environment ... should be assessed in some other manner, and
 
 (b) the information arising from such an assessment should be made available to the members of the public, and it may apply such requirements regarding these matters in relation to the application for approval as it considers necessary or appropriate.
 
-(4)(a) The Minister for Defence may, in the case of a proposed development or part of a proposed development, the sole purpose of which is national defence, grant an exemption in respect of the development or the relevant part of the development from a requirement under section 181A(1) to apply for approval and prepare an environmental impact assessment report if he or she is satisfied that the application of section 181A or 181C would have adverse effects on such purpose.
+(4) The Minister for Defence may, where he or she is satisfied that a proposed development or part of a proposed development is for the sole purpose of national defence, declare that the proposed development or relevant part of the proposed development is exempt from a requirement under section 181A(1), arising only on the basis that an environmental impact assessment of the proposed development is required, to apply for approval and prepare an environmental impact assessment report, if he or she considers that the application of section 181A or 181C would have adverse effects on such purpose.
 
-(b) The Minister for Defence may, in the case of proposed development in connection with, or for the purposes of, national defence, grant an exemption in respect of the development from a requirement under section 181A(1) to apply for approval and prepare a Natura impact statement if he or she is satisfied that the application of section 181A or 181C would have adverse effects on those purposes.
+(4A) A Minister of the Government may, where he or she is satisfied that a proposed development or part of a proposed development is for the sole purpose of responding to a civil emergency, declare that the proposed development or relevant part of the proposed development is exempt from a requirement under section 181A(1), arising only on the basis that an environmental impact assessment of the proposed development is required, to apply for approval and prepare an environmental impact assessment report, if he or she considers that the application of section 181A or 181C would have adverse effects on such purpose.
 
-(5) Notice of any exemption granted under subsection (2) or (4), of the reasons for granting the exemption and, where appropriate, of any requirements applied under subsection (3) shall, as soon as may be—
+(5) Notice of any exemption granted under subsection (2) ..., of the reasons for granting the exemption and, where appropriate, of any requirements applied under subsection (3) shall, as soon as may be—
 
 (a) be published in Iris Oifigiúil and in at least one daily newspaper published in the State, and
 
 (b) be given, together with a copy of the information, if any, made available to the members of the public in accordance with subsection (3), to the Commission of the European Communities.
+
+(5A) Notice of any exemption granted under subsection (4) or (4A) shall, as soon as may be, be published in Iris Oifigiúil and in at least one daily newspaper published in the State.
 
 (6) The Board shall, in respect of an application under section 181A for approval of proposed development, make its decision within a reasonable period of time and may, in respect of such application—
 
@@ -76,7 +78,9 @@ Section 181A: criteria for decision, certain exemptions, etc.
 
 (11) In considering under subsection (1) information furnished relating to the likely consequences for proper planning and sustainable development of a proposed development in the area in which it is proposed to situate such development, or on the environment, the Board shall have regard to—
 
-(a) the provisions of the development plan for the area,
+(a) in the case of proposed development on land or partly on land and partly in the nearshore area of a coastal planning authority, the development plan for the area,
+
+(aa) in the case of proposed development wholly or partly in the maritime area, the National Marine Planning Framework,
 
 (b) the provisions of any special amenity area order relating to the area,
 

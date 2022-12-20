@@ -14,7 +14,11 @@ Development by State authorities.
 
 (v) the making of submissions or observations to a State authority with respect to the proposed development;
 
-(vi) the reference to a specified person of any dispute or disagreement, with respect to the proposed development, between a State authority and the planning authority for the area in which the proposed development is to be carried out;
+(vi) the reference to a specified person of any dispute or disagreement, with respect to the proposed development—
+
+(I) between a State authority and the planning authority for the area (including, in circumstances where the planning authority is a coastal planning authority, the nearshore area of that authority) in which the proposed development is to be carried out, or
+
+(II) between a State authority and the Board or the Maritime Area Regulatory Authority in relation to proposed development that is to be carried out in the outer maritime area;
 
 (vii) requiring a State authority, in deciding whether the proposed development is to be carried out, to have regard to any specified matters or considerations.
 
@@ -48,15 +52,25 @@ Development by State authorities.
 
 (aa) In this subsection, "enactment" has the same meaning as it has in the Interpretation Act 2005.
 
-(b) Where development is proposed to be carried out by or on behalf of a Minister concerned or a statutory undertaker pursuant to an order under subsection (2)(a) and the Minister concerned is satisfied, having had regard to Part X and Part XAB, that an environmental impact assessment or an appropriate assessment, or both such assessments of the proposed development is or are required, the Minister concerned shall prepare or cause to be prepared an application for approval, which shall include the documents and information referred to in paragraph (c), in respect of the development and shall apply to the Board for such approval.
+(b) Where development is proposed to be carried out by or on behalf of a Minister concerned or a statutory undertaker pursuant to an order under subsection (2)(a) and the Minister concerned is satisfied, having had regard to Part X and Part XAB, that an environmental impact assessment or an appropriate assessment, or both such assessments of the proposed development is or are required, the Minister concerned shall , other than where a declaration has been made under paragraph (ba)(i), prepare or cause to be prepared an application for approval, which shall include the documents and information referred to in paragraph (c), in respect of the development and shall apply to the Board for such approval.
 
-(c) An application for approval referred to in paragraph (b) shall include a draft of the order the Minister concerned proposes to make under subsection (2)(a), the plans, drawings and particulars in relation to the proposed development and, other than where an exemption is granted under subsection (2I), an environmental impact assessment report or Natura impact statement, or both that report and that statement, as the case may be, in respect of the development.
+(ba) Where a Minister concerned is satisfied that the carrying out of a proposed development is for the sole purpose of responding to a civil emergency, he or she may –
+
+(i) declare that the proposed development is exempt from a requirement under paragraph (b), arising only on the basis that an environmental impact assessment of the proposed development is required, to prepare an application for approval and apply to the Board for such approval, or
+
+(ii) declare that the proposed development is exempt from a requirement under paragraph (c) to prepare an environmental impact assessment report in respect of the development and include such report with an application to the Board under paragraph (b), if the Minister considers that the application of the requirement concerned would have an adverse effect on that purpose.
+
+(bb) Notice of a declaration made under paragraph (ba) shall, as soon as may be, be published in Iris Oifigiúil and in at least one daily newspaper published in the State.
+
+(c) An application for approval referred to in paragraph (b) shall include a draft of the order the Minister concerned proposes to make under subsection (2)(a), the plans, drawings and particulars in relation to the proposed development and, other than where an exemption is granted under subsection (2I) or a declaration is made under paragraph
+
+(ba)(ii), an environmental impact assessment report or Natura impact statement, or both that report and that statement, as the case may be, in respect of the development.
 
 (d) The environmental impact assessment report and the Natura impact statement provided under paragraph (c) shall, as appropriate, comply with the requirements of Parts X and XAB respectively.
 
-(e) A Minister concerned shall not make an order under subsection (2)(a) in respect of development which requires an environmental impact assessment or an appropriate assessment, or, as necessary, both such assessments, proposed to be carried out by or on behalf of the Minister concerned or a statutory undertaker under the order, other than in accordance with an approval of that proposed development.
+(e) A Minister concerned shall not , except where a declaration is made under paragraph (ba)(i), make an order under subsection (2)(a) in respect of development which requires an environmental impact assessment or an appropriate assessment, or, as necessary, both such assessments, proposed to be carried out by or on behalf of the Minister concerned or a statutory undertaker under the order, other than in accordance with an approval of that proposed development.
 
-(f) On receipt of an application for approval under paragraph (b), the Board shall, other than where an exemption is granted under subsection (2I), carry out an environmental impact assessment, or an appropriate assessment, or, as necessary, both such assessments, in accordance with Part X or Part XAB, as the case may require.
+(f) On receipt of an application for approval under paragraph (b), the Board shall, other than where an exemption is granted under subsection (2I)or a declaration is made under paragraph (ba)(ii), carry out an environmental impact assessment, or an appropriate assessment, or, as necessary, both such assessments, in accordance with Part X or Part XAB, as the case may require.
 
 (2B) Before a Minister concerned makes an application for approval under subsection (2A), the Minister shall—
 
@@ -80,7 +94,15 @@ Development by State authorities.
 
 (vi) stating where practical information on the review mechanism can be found,
 
-(b) send a copy of the application and the environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, to the planning authority or each planning authority in whose functional area the proposed development would be situate and to any prescribed authorities, those prescribed authorities being, for the purposes of this subsection and subsection (2F), the same as those authorities prescribed for the purposes of section 175(4), together with a notice stating that submissions or observations may, during the period referred to in paragraph (a)(ii), be made in writing to the Board in relation to the likely significant effects on the environment or adverse effects on the integrity of a European site, as the case may be, of the proposed development, if carried out, and
+(b) send a copy of the application and the environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, to the planning authority or each planning authority in whose functional area the proposed development would be situate and to any prescribed authorities, those prescribed authorities being, for the purposes of this subsection and subsection (2F), the same as those authorities prescribed for the purposes of section 175(4), together with a notice stating that submissions or observations may, during the period referred to in paragraph (a)(ii), be made in writing to the Board in relation to the likely significant effects on the environment or adverse effects on the integrity of a European site, as the case may be, of the proposed development, if carried out
+
+(bb) in the case of proposed development in the maritime area, send a—
+
+(i) copy of the application,
+
+(ii) copy of the environmental impact assessment report (if any) and Natura impact statement (if any), and
+
+(iii) a notice stating that submissions or observations may, during the period referred to in subparagraph (ii) of paragraph (a), be made in writing to the Board in relation to the application for approval, to the Maritime Area Regulatory Authority, and
 
 (c) where the proposed development is likely to have significant effects on the environment of a Member State of the European Union or a state that is a party to the Transboundary Convention, send a copy of the application and the environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, to the prescribed authority of the relevant state or states together with a notice stating that submissions or observations may, during the period referred to in paragraph (a)(ii), be made in writing to the Board.
 
@@ -166,6 +188,16 @@ Development by State authorities.
 
 (2M) (a) The Board shall send a copy of the decision under subsection (2L)(a) to the Minister concerned, to any planning authority in whose area the proposed development shall be situated and to any person who made submissions or observations on the application for approval.
 
+(aa) The Board shall, in the case of development proposed to be situated wholly or partly in the outer maritime area, send a copy of the decision under paragraph (a) of subsection (2L) to—
+
+(i) the Minister concerned,
+
+(ii) any coastal planning authority in whose nearshore area it is proposed that part of the development would be situated,
+
+(iii) the Maritime Area Regulatory Authority, and
+
+(iv) any person who made submissions or observations on the application for approval.
+
 (b) The Board shall cause to be published as soon as may be, in one or more newspapers circulating in the area or areas and on its website, a notice informing the public of the decision under subsection (2L)(a).
 
 (c) The notice referred to in paragraph (b) shall state that details of the decision by the Board referred to in subsection (2N) shall be published on the website of the Board as soon as may be.
@@ -210,7 +242,7 @@ Development by State authorities.
 
 (2T) (a) A prospective applicant who is considering whether to apply for approval for proposed development under subsection (2A) may apply to the Board—
 
-(i) for a determination under sections 176A and 176B or section 177U, as to whether a proposed development would be likely to have a significant effect on the environment or an adverse effect on the integrity of a European site, as the case may be (and inform the prospective applicant of the determination), or
+(i) for a determination under sections 176A and 176B or section 177U, as to whether a proposed development would be likely to have a significant effect on the environment or, in respect of a proposed development not directly connected with or necessary to the management of a European site, would be likely to have a significant effect either individually or in combination with other plans or projects on a European site, as the case may be (and inform the prospective applicant of the determination), or
 
 (ii) for an opinion in writing prepared by the Board on what information will be required to be contained in an environmental impact assessment report or Natura impact statement or both that report and that statement as the case may be, in relation to the proposed development.
 
@@ -254,7 +286,7 @@ Development by State authorities.
 
 (b) the making of a determination or the giving of an opinion by the Board on an application under subsection (2T)(a), supply to the Board sufficient information in relation to the proposed development so as to enable the Board to assess the proposed development.
 
-(2W) (a) Without prejudice to subsection (2V) and subject to paragraph (b), where a prospective applicant has made an application under subsection (2T)(a)(ii) for an opinion in relation to what information will be required to be contained in an environmental impact assessment report or Natura impact statement or both that report and that statement as the case may be, the Board shall, after taking into account the information provided by the prospective applicant, in particular on the specific characteristics of the proposed development, including its location and technical capacity, and its likely significant effect on the environment or adverse effect on the integrity of a European site, give an opinion in writing on the scope and level of detail of the information to be included in such report or such statement or both that report and that statement as the case may be, subject to any consultations carried out by the Board in relation to such opinion.
+(2W) (a) Without prejudice to subsection (2V) and subject to paragraph (b), where a prospective applicant has made an application under subsection (2T)(a)(ii) for an opinion in relation to what information will be required to be contained in an environmental impact assessment report or Natura impact statement or both that report and that statement as the case may be, the Board shall, after taking into account the information provided by the prospective applicant, in particular on the specific characteristics of the proposed development, including its location and technical capacity, and its likely significant effect on the environment or, in respect of a proposed development not directly connected with or necessary to the management of a European site, its likely significant effect either individually or in combination with other plans or projects on a European site, give an opinion in writing on the scope and level of detail of the information to be included in such report or such statement or both that report and that statement as the case may be, subject to any consultations carried out by the Board in relation to such opinion.
 
 (b) The Board shall give the opinion before the submission by the prospective applicant of the environmental impact assessment report or Natura impact statement or both that report and that statement as the case may be.
 
@@ -268,11 +300,23 @@ Development by State authorities.
 
 (2Z) The Board shall keep a record in writing of any consultations under this section in relation to a proposed development, including the names of those who participated in the consultations, and a copy of such record shall be placed and kept with the documents to which any application in respect of the proposed development relates.
 
-(2AA) Where an application for approval is made to the Board under subsection (2A), or where further information is required by and furnished to the Board in relation to an application made under that subsection, the Minister concerned shall at the same time forward a copy of the application and the environmental impact assessment report or Natura impact statement, or both that report and that statement as the case may be, or the further information, to the planning authority or each planning authority in whose functional area it is proposed to carry out the development, and the Board and the planning authority or each such planning authority shall as soon as possible make the application, and the environmental impact assessment report or Natura impact statement, or both that report and that statement as the case may be, or the further information, available for inspection at their offices during office hours.
+(2AA) Where an application for approval is made to the Board under subsection (2A), or where further information is required by and furnished to the Board in relation to an application made under that subsection, the Minister concerned shall, simultaneously, forward a copy of the application, any environmental impact assessment report or Natura impact statement prepared in relation to the application and any further information provided in relation to the application, to—
+
+(a) the planning authority or each planning authority in whose functional area it is proposed to carry out the development, or
+
+(b) in the case of an application for approval for development in the outer maritime area, the Maritime Area Regulatory Authority, and the Board, and any such planning authority or the Maritime Area Regulatory Authority (as may be appropriate), shall, as soon as may be thereafter, publish on their internet websites and make available for inspection at their offices during normal office hours—
+
+(i) that application,
+
+(ii) any such environmental impact assessment report,
+
+(iii) any such Natura impact statement, and
+
+(iv) any such further information.
 
 (3)(a) In this subsection—
 
-"foreshore" has the meaning assigned to it by section 224;
+...
 
 "Minister concerned" means—
 
@@ -280,7 +324,7 @@ Development by State authorities.
 
 (ii) the Minister for Public Expenditure and Reform where the Commissioners propose to carry out development to which this subsection applies, or have it carried out on their behalf.
 
-(b) This subsection applies to development (other than development prescribed for the time being under subsection (1) or in respect of which an order under subsection (2) is in force), including development on the foreshore, proposed to be carried out by or on behalf of a Minister concerned where that Minister is satisfied—
+(b) This subsection applies to development (other than development prescribed for the time being under subsection (1) or in respect of which an order under subsection (2) is in force) ... proposed to be carried out by or on behalf of a Minister concerned where that Minister is satisfied—
 
 (i) that the carrying out of the proposed development is urgent in order to preserve, protect or improve the quality of the environment or protect human health, and
 
@@ -306,27 +350,29 @@ Development by State authorities.
 
 (I) the following were substituted for subsection (1):
 
-“(1) Where an appropriate assessment is required in respect of development to which section 181(3) applies, on land or on the foreshore (in this section referred to as “proposed development”), the Minister concerned within the meaning of section 181(3) (in this section referred to as the “Minister concerned”) shall prepare, or cause to be prepared, a Natura impact statement in respect thereof.”,
+"(1) Where an appropriate assessment is required in respect of development (in this section referred to as “proposed development”) to which subsection (3) of section 181 applies, the Minister concerned (in this section referred to as the “Minister concerned”) within the meaning of that subsection shall prepare, or cause to be prepared, a Natura impact statement in respect thereof."
 
-(II) in the section, other than as modified under clause (I), "Minister concerned" were substituted for ‘local authority’,
+(II) in the section, other than as modified under clause (I), "Minister concerned" were substituted for "local authority",
 
 (III) in subsections (4)(b) and (5)(d)(ii), "prescribed authorities" and "prescribed authority" includes the local authority within whose functional area the proposed development is to be carried out, and
 
 (IV) any other necessary modifications have been made,
 
-(iii) section 226 shall apply to the application for approval where the proposed development is wholly or partly on the foreshore and an environmental impact assessment is required, as it applies to such an application by a local authority, subject to the modifications that the section shall be read as if—
+(iii) ...
 
-(I) the following were substituted for subsection (1):
+(e) Where an application is made to the Board under this subsection, or where further information is required by and furnished to the Board in relation to an application made under this subsection, the Minister concerned shall at the same time forward a copy of the application, any environmental impact assessment report or Natura impact statement prepared in relation to the application and any further information provided in relation to the application, to—
 
-“(1) Where an environmental impact assessment is required in respect of developments to which section 181(3) applies, on the foreshore (in this section referred to as “proposed development”), the Minister concerned within the meaning of section 181(3) (in this section referred to as the “Minister concerned”) shall apply to the Board for approval of the proposed development.”,
+(i) the planning authority in whose functional area it is proposed to carry out the development, or
 
-(II) in the section, other than as modified under clause (I), "Minister concerned" were substituted for "local authority concerned",
+(ii) in the case of an application for approval for development in the outer maritime area, the Maritime Area Regulatory Authority, and the Board, and the planning authority or the Maritime Area Regulatory Authority (as may be appropriate), shall as soon as may be thereafter, publish on their internet websites and make available for inspection at their offices during normal office hours—
 
-(III) subsection 4 and paragraph (c) of subsection (9) were deleted, and
+(I) the application,
 
-(IV) any other necessary modifications have been made.
+(II) any environmental impact assessment report,
 
-(e) Where an application is made to the Board under this subsection, or where further information is required by and furnished to the Board in relation to an application made under this subsection, the Minister concerned shall at the same time forward copy of the application and the environmental impact assessment report or Natura impact statement, or both that report and that statement as the case may be, or the further information, to the planning authority in whose functional area it is proposed to carry out the development and the Board and the planning authority shall as soon as possible make the application, and the environmental impact assessment report or Natura impact statement, or both that report and that statement as the case may be, or the further information, available for inspection at their offices during office hours.
+(III) any Natura impact statement, and
+
+(IV) any such further information.
 
 (f) Any matter or thing prescribed—
 
