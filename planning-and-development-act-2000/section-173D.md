@@ -1,0 +1,3 @@
+Environmental impact assessment relating to abstractions.
+
+173D. ...
