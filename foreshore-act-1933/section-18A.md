@@ -1,4 +1,4 @@
-F138[Regulations relating to the submission of observations by certain bodies.
+F156[Regulations relating to the submission of observations by certain bodies.
 
 18A.— (1) The Minister for the Environment, Heritage and Local Government may, following consultation with the Minister for Agriculture, Fisheries and Food, by regulations under this section, prescribe—
 
@@ -26,7 +26,7 @@ F138[Regulations relating to the submission of observations by certain bodies.
 
 (3) Regulations to which sections 13A and 19A relate may be amended or revoked under this section.
 
-(4) In this section ‘public authority’ means—
+(4) In this section "public authority" means—
 
 (a) a local authority for the purposes of the Local Government Act 2001,
 

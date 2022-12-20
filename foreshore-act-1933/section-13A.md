@@ -1,4 +1,4 @@
-F99[Environmental impact assessment of certain proposals relating to the foreshore.
+F114[Environmental impact assessment of certain proposals relating to the foreshore.
 
 13A.—(1)(a) The appropriate Minister shall, as part of his consideration of a relevant application, in accordance with paragraph (b), ensure that, before a decision on the application is given, projects likely to have significant effects on the environment by virtue, inter alia, of their nature, size or location are made subject to an environmental impact assessment.
 
@@ -60,7 +60,7 @@ F99[Environmental impact assessment of certain proposals relating to the foresho
 
 (e) The appropriate Minister shall consider the content of the environmental impact assessment report (and any other material including maps or plans) submitted as part of the application and determine whether same adequately identifies, describes and assesses the direct and indirect effects on the environment of the proposed development.
 
-(f) If he considers that the environmental impact assessment report (and other material) is inadequate, then the appropriate Minister shall serve a notice (in this section referred to as ‘a request for further information’) which sets out the manner in which the information is inadequate and requires the applicant to submit further information to remedy those inadequacies.
+(f) If he considers that the environmental impact assessment report (and other material) is inadequate, then the appropriate Minister shall serve a notice (in this section referred to as "a request for further information") which sets out the manner in which the information is inadequate and requires the applicant to submit further information to remedy those inadequacies.
 
 (g) The appropriate Minister shall ensure that he or she has access to sufficient expertise to examine the environmental impact assessment report.
 
@@ -220,4 +220,4 @@ F99[Environmental impact assessment of certain proposals relating to the foresho
 
 (d) an application to the Minister for the Environment, Heritage and Local Government for his consent under section 13 of this Act for the deposit of material on the foreshore.
 
-(6) In this section ‘relevant application’ does not include an application for an aquaculture licence (within the meaning of the Fisheries (Amendment) Act 1997) that is accompanied by an environmental impact assessment report.
+(6) In this section "relevant application" does not include an application for an aquaculture licence (within the meaning of the Fisheries (Amendment) Act 1997) that is accompanied by an environmental impact assessment report.

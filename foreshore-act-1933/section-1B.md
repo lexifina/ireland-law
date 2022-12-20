@@ -1,6 +1,6 @@
-F12[ Meaning assigned to ‘appropriate Minister’ in Foreshore Acts 1933 to 2009.
+F14[Meaning assigned to "appropriate Minister" in Foreshore Acts 1933 to 2009.
 
-1B.— In the Foreshore Acts 1933 to 2011 ‘appropriate Minister’ means—
+1B.— In the Foreshore Acts 1933 to 2011 "appropriate Minister" means—
 
 (a) in relation to a fishery harbour centre, the Minister for Agriculture, Fisheries and Food,
 
