@@ -1,3 +1,3 @@
-Appeal to High Court on point of law.
+Appeal to High Court on point of law. (Repealed)
 
 34.—...

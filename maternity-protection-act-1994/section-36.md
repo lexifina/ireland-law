@@ -1,3 +1,3 @@
-Provisions relating to winding up and bankruptcy.
+Provisions relating to winding up and bankruptcy. (Repealed)
 
 36.—...
