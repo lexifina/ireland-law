@@ -14,7 +14,7 @@ Resignation from membership.
 
 (b) of which he or she is a member by virtue of being a member of the local authority.
 
-(4) (a) A person shall be deemed to have resigned from membership of a local authority where the person is absent from attendance at any meeting of the authority for a continuous period of 6 consecutive months (“the relevant period”) from the date (“the relevant date”) of his or her last attendance at a meeting of the authority.
+(4) (a) Subject to subsection (4A), a person shall be deemed to have resigned from membership of a local authority where the person is absent from attendance at any meeting of the authority for a continuous period of 6 consecutive months (“the relevant period”) from the date (“the relevant date”) of his or her last attendance at a meeting of the authority.
 
 (b) paragraph (a) does not apply where the absence was—
 
@@ -35,6 +35,8 @@ Resignation from membership.
 (ii) in the case of paragraph (b), the end of the relevant period as extended under that paragraph, or
 
 (iii) in the case of paragraph (c), the end of the relevant period as extended to 18 months under that paragraph.
+
+(4A) An absence referred to in subsection (4)(a) does not include an absence occasioned by a member of a local authority taking leave in accordance with the Maternity Protection Act 1994.
 
 (5) In relation to a local authority, attendance as a member at a meeting of—
 
