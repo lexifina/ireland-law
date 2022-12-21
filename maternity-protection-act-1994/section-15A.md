@@ -1,4 +1,4 @@
-F24[Entitlement to time off from work to attend ante-natal classes.
+F27[Entitlement to time off from work to attend ante-natal classes.
 
 15A.—(1) Subject to subsection (3), a pregnant employee shall be entitled to time off from her work, without loss of pay, in accordance with regulations made under this section by the Minister, for the purpose of attending one set of ante-natal classes (other than the last 3 classes in such a set) and those classes may be attended by her during one or more pregnancies.
 
