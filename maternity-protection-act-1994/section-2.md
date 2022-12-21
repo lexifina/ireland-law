@@ -10,7 +10,9 @@ Interpretation.
 
 “the 1992 Directive” means Council Directive 92/85/EEC of 19 October 1992 on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding;
 
-‘Act of 2015’ means the Children and Family Relationships Act 2015;
+"Act of 2001" means the Local Government Act 2001;
+
+"Act of 2015" means the Children and Family Relationships Act 2015;
 
 “additional maternity leave” has the meaning assigned by section 14;
 
@@ -34,23 +36,25 @@ Interpretation.
 
 “employer”, subject to subsection (2), means, in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment;
 
-‘expectant father’ shall be construed in accordance with subsection (1A) (inserted by section 176 of the Act of 2015);
+"expectant father" shall be construed in accordance with subsection (1A) (inserted by section 176 of the Act of 2015);
 
 “job” has the meaning assigned by section 26 (3);
+
+"local authority" has the meaning assigned to it by the Act of 2001;
 
 “maternity leave” has the meaning assigned by section 8;
 
 “the Minister” means the Minister for Equality and Law Reform;
 
-‘other parent’ means a person (other than the mother) who is, under section 5 of the Act of 2015, a parent of a child;
+"other parent" means a person (other than the mother) who is, under section 5 of the Act of 2015, a parent of a child;
 
-‘parent’s leave’ has the same meaning as it has in the Parent’s Leave and Benefit Act 2019;
+"parent’s leave" has the same meaning as it has in the Parent’s Leave and Benefit Act 2019;
 
-‘paternity leave’ and ‘transferred paternity leave’ have the same meanings as they have in the Paternity Leave and Benefit Act 2016;
+"paternity leave" and "transferred paternity leave" have the same meanings as they have in the Paternity Leave and Benefit Act 2016;
 
 “pregnant employee” means an employee who is pregnant and who has informed her employer of her condition;
 
-‘premature birth period’ has the meaning assigned to it by the Social Welfare Consolidation Act 2005;
+"premature birth period" has the meaning assigned to it by the Social Welfare Consolidation Act 2005;
 
 “successor” has the meaning assigned by section 26 (1);
 
@@ -62,9 +66,11 @@ Interpretation.
 
 (a) a person holding office under, or in the service of, the State (including a member of the Garda Síochána or the Defence Forces) or otherwise as a civil servant, within the meaning of the Civil Service Regulation Act, 1956, shall be deemed to be an employee employed by the State or Government, as the case may be, under a contract of service;
 
-(b) an officer or servant of a local authority for the purposes of the Local Government Act, 1941, a harbour authority, a health board or a member of staff of an education and training board shall be deemed to be an employee employed by the authority or board, as the case may be, under a contract of service; and
+(b) an officer or servant of a local authority for the purposes of the Local Government Act, 1941, a harbour authority, a health board or a member of staff of an education and training board shall be deemed to be an employee employed by the authority or board, as the case may be, under a contract of service;
 
-(c) in relation to an employee whose contract of employment falls (or, where the employment has ceased, fell) within paragraph (b) of the definition of “contract of employment” in subsection (1), the person who is liable to pay the employee’s wages shall be deemed to be the employer.
+(c) in relation to an employee whose contract of employment falls (or, where the employment has ceased, fell) within paragraph (b) of the definition of “contract of employment” in subsection (1), the person who is liable to pay the employee’s wages shall be deemed to be the employer; and
+
+(d) a member of a local authority shall be deemed to be an employee of the local authority employed under a contract of service for a fixed term.
 
 (3) Subject to subsections (1) and (2), expressions used in this Act have the same meaning as in the 1992 Directive.
 
