@@ -1,4 +1,4 @@
-Entitlement of employed F26[father or other parent, as the case may be,] to leave on death of mother.
+Entitlement of employed F29[father or other parent, as the case may be,] to leave on death of mother.
 
 16.—(1) If a woman who has been delivered of a living child (in this section referred to as ‘the mother’) dies at any time before the expiry of the fortieth week following the week of her confinement, the father or other parent, as the case may be, of the child (if he is employed under a contract of employment) shall be entitled in accordance with this section to leave from his employment for a period ending as follows—
 
@@ -20,11 +20,11 @@ Entitlement of employed F26[father or other parent, as the case may be,] to leav
 
 (3) Subject to subsections (10) and (10A) and section 16B, the period of leave under subsection (1) or (1A) shall commence within 7 days of the mother’s death; and in this section and sections 16A and 16B—
 
-(a) a period of leave which ends as mentioned in paragraph (a) of subsection (1) is referred to as ‘subsection (1)(a) leave’, and
+(a) a period of leave which ends as mentioned in paragraph (a) of subsection (1) is referred to as "subsection (1)(a) leave", and
 
-(aa) a period of leave which ends as mentioned in subsection (1A) is referred to as ‘subsection (1A) leave’,
+(aa) a period of leave which ends as mentioned in subsection (1A) is referred to as "subsection (1A) leave",
 
-(b) a period of leave which ends as mentioned in paragraph (b) of that subsection is referred to as ‘subsection (1)(b) leave’.
+(b) a period of leave which ends as mentioned in paragraph (b) of that subsection is referred to as "subsection (1)(b) leave".
 
 (4) A father or other parent, as the case may be, who has taken subsection (1)(a) leave shall, if he so wishes, be entitled to further leave from his employment for a maximum period of—
 
@@ -42,9 +42,7 @@ Entitlement of employed F26[father or other parent, as the case may be,] to leav
 
 (b) if it relates to leave under subsection (4), not later than the latest date on which, under subsection (6), the notification which is to be revoked could have been given.
 
-(8) The Minister may by order, made with the consent of the Minister for Social Welfare and with the consent of the Minister for Finance, amend subsections (1) and
-
-(4) and paragraphs (a) and (b) of subsection (10) so as to extend the periods mentioned in those subsections or paragraphs.
+(8) The Minister may by order, made with the consent of the Minister for Social Welfare and with the consent of the Minister for Finance, amend subsections (1) and (4) and paragraphs (a) and (b) of subsection (10) so as to extend the periods mentioned in those subsections or paragraphs.
 
 (9) Any reference in this section to the week of the mother’s confinement is a reference to the week in which fell the date of her confinement.
 
@@ -80,7 +78,7 @@ Entitlement of employed F26[father or other parent, as the case may be,] to leav
 
 (iii) subsection (1)(b) leave shall be deemed to include a reference to a period of leave to which paragraph (c) applies.
 
-(11) In this section ‘combined period’ means a period comprising—
+(11) In this section "combined period" means a period comprising—
 
 (a) 42 weeks following the week of confinement, and
 

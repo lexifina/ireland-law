@@ -1,8 +1,8 @@
-F59[Burden of proof.
+F64[Burden of proof.
 
 33A.—(1) In this section—
 
-‘discrimination’ means—
+"discrimination" means—
 
 (a) a failure, which gives rise to a dispute, to comply with a provision of Parts II to IV, or
 
@@ -12,11 +12,11 @@ F59[Burden of proof.
 
 (ii) the exercise or proposed exercise by the employee of the right under this Act to any form of protective leave or natal care absence, within the meaning of Part IV, or to time off from work to attend ante-natal classes in accordance with section 15A (inserted by section 8 of the Maternity Protection (Amendment) Act 2004), or to time off from work or a reduction of working hours for breastfeeding in accordance with section 15B (inserted by section 9 of the Maternity Protection (Amendment) Act 2004);
 
-‘employee’, in relation to proceedings under the 1977 Act, has the meaning assigned to it by that Act;
+"employee", in relation to proceedings under the 1977 Act, has the meaning assigned to it by that Act;
 
-‘indirect discrimination’ shall be construed in accordance with section 22 (as amended by Regulation 4(b) of the European Communities (Burden of Proof in Gender Discrimination Cases) Regulations 2001 (S.I. No. 337 of 2001)) of the Employment Equality Act 1998 insofar as that section relates to discrimination on the gender ground within the meaning of that Act;
+"indirect discrimination" shall be construed in accordance with section 22 (as amended by Regulation 4(b) of the European Communities (Burden of Proof in Gender Discrimination Cases) Regulations 2001 (S.I. No. 337 of 2001)) of the Employment Equality Act 1998 insofar as that section relates to discrimination on the gender ground within the meaning of that Act;
 
-‘proceedings’ means—
+"proceedings" means—
 
 (a) any proceedings under Part 4 of the Workplace Relations Act 2015 before—
 
