@@ -1,6 +1,6 @@
 Alteration of number of members of local authority.
 
-22.—(1)(a) A county council, a city council or a city and county council may by resolution adopt a proposal (in this section referred to as a "proposal") for the alteration of the number of members of that council.
+22.—(1) (a) A county council, a city council or a city and county council may by resolution adopt a proposal (in this section referred to as a "proposal") for the alteration of the number of members of that council.
 
 (b) A proposal under paragraph (a) and a public notice under paragraph (d) shall specify the current number of members of the authority and the number by which it is proposed to be altered and whether by way of increase or decrease.
 

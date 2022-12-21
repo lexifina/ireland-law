@@ -1,3 +1,3 @@
-Municipal policy committees.
+Municipal policy committees. (Repealed)
 
 49.—...

@@ -1,3 +1,3 @@
-Dissolution of town council.
+Dissolution of town council. (Repealed)
 
 187.—...

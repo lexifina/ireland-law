@@ -1,3 +1,3 @@
-Proposal by local authority for alteration of boundary.
+Proposal by local authority for alteration of boundary. (Repealed)
 
 56.—...

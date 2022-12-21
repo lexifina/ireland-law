@@ -1,3 +1,3 @@
-Provisions consequential on boundary alteration.
+Provisions consequential on boundary alteration. (Repealed)
 
 62.—...

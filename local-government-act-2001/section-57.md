@@ -1,3 +1,3 @@
-Application for boundary alteration.
+Application for boundary alteration. (Repealed)
 
 57.—...

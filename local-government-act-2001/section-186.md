@@ -1,3 +1,3 @@
-First election to town council.
+First election to town council. (Repealed)
 
 186.— ...

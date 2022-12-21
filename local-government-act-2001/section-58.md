@@ -1,3 +1,3 @@
-Supplementary provision to sections 56 and 57.
+Supplementary provision to sections 56 and 57. (Repealed)
 
 58.—...

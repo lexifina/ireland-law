@@ -1,3 +1,3 @@
-Functions of Commission.
+Functions of Commission. (Repealed)
 
 90.—...

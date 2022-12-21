@@ -1,3 +1,3 @@
-Report by Local Government Commission.
+Report by Local Government Commission. (Repealed)
 
 60.—...

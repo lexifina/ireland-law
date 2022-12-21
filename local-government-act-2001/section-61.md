@@ -1,3 +1,3 @@
-Power to alter boundaries, etc.
+Power to alter boundaries, etc. (Repealed)
 
 61.—...

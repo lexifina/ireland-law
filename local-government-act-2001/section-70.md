@@ -1,3 +1,3 @@
-Exercise of certain functions.
+Exercise of certain functions. (Repealed)
 
 70.—...
