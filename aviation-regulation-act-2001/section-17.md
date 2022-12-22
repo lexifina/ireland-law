@@ -36,7 +36,7 @@ Declaration of interests.
 
 (ii) an airport authority,
 
-(iii) an aviation terminal services provider,
+(iii) ...
 
 (iv) a provider of groundhandling services,
 

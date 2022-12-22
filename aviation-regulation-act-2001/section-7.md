@@ -1,3 +1,3 @@
 Principal function of Commission.
 
-7.—The principal function of the Commission shall be to regulate airport charges and aviation terminal services charges.
+7.—The principal function of the Commission shall be to regulate airport charges ....

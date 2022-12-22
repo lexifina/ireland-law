@@ -1,0 +1,3 @@
+F24[Commission to prepare statement of strategy
+
+27A.— ...
