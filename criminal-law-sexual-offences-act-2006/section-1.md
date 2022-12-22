@@ -6,7 +6,7 @@ Definitions.
 
 “Act of 1990” means the Criminal Law (Rape) (Amendment) Act 1990;
 
-‘foster parent’ means a person other than a relative of a child who is caring for the child on behalf of the Child and Family Agency in accordance with regulations made under the Child Care Act 1991;
+"foster parent" means a person other than a relative of a child who is caring for the child on behalf of the Child and Family Agency in accordance with regulations made under the Child Care Act 1991;
 
 “person in authority”, in relation to a child against whom an offence is alleged to have been committed, means—
 
