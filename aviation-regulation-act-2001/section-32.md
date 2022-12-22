@@ -6,7 +6,7 @@ Airport charges.
 
 (a) as soon as is practicable, but not later than 12 months after the Dublin appointed day, make a determination, and
 
-(b) upon the expiration of that determination and each subsequent determination, make a determination, specifying the maximum levels of airport charges that may be levied by daa in respect of Dublin Airport under the European Communities (Dublin Airport Charges) Regulations 2011.
+(b) upon the expiration of that determination and each subsequent determination, make a determination, specifying the maximum levels of airport charges that may be levied by daa in respect of Dublin Airport under the Regulations of 2011.
 
 (3) ...
 
@@ -64,9 +64,9 @@ Airport charges.
 
 (i) at its own initiative, or
 
-(ii) at the request of an airport authority or user concerned in respect of the determination, if it considers that there are substantial grounds for so doing, review the determination and, if it sees fit, amend the determination.
+(ii) at the request of an airport authority or user concerned in respect of the determination, if it considers that there are substantial grounds for so doing, review the determination and, if it sees fit, amend the determination or extend the period referred to in subsection (5)(a) by not more than 2 years.
 
-(b) An amendment made under paragraph (a) shall be in force for the remainder of the period of the determination referred to in subsection (5)(a).
+(b) An amendment made under paragraph (a) shall be in force for the remainder of the period of the determination referred to in subsection (5)(a) , or as extended under paragraph (a).
 
 (c) Subsection (5)(b) and subsections (7) to (13) shall apply to an amendment made under paragraph (a).
 
