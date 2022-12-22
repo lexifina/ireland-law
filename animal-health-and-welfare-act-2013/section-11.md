@@ -14,6 +14,4 @@ Duty to protect animal welfare.
 
 (2) A person who fails to comply with this section commits an offence.
 
-(3) Where a person having possession or control of a protected animal fails to comply with subsection (1) and the person is not the owner of the protected animal, then the owner of the animal shall also have committed an offence under subsection
-
-(2), unless the owner shows that he or she took all reasonable steps to ensure that all necessary measures in the circumstances were taken to comply with subsection (1).
+(3) Where a person having possession or control of a protected animal fails to comply with subsection (1) and the person is not the owner of the protected animal, then the owner of the animal shall also have committed an offence under subsection (2), unless the owner shows that he or she took all reasonable steps to ensure that all necessary measures in the circumstances were taken to comply with subsection (1).
