@@ -50,7 +50,9 @@ Orders under the Diseases of Animals Act 1966
 
 23. Diseases of Animals (Prohibition on the Use of Swill) Order 2001 (S.I. No. 597 of 2001)
 
-24. Diseases of Animals Act (Carriage of Cattle by Sea) Order 1996 (Extension to Sheep and Consequential Provisions) Order 2002 (S.I. No. 99 of 2002) 25. Diseases of Animals Act 1966 (National Pig Identification and Tracing System) Order 2002 (S.I. No. 341 of 2002)
+24. Diseases of Animals Act (Carriage of Cattle by Sea) Order 1996 (Extension to Sheep and Consequential Provisions) Order 2002 (S.I. No. 99 of 2002)
+
+25. Diseases of Animals Act 1966 (National Pig Identification and Tracing System) Order 2002 (S.I. No. 341 of 2002)
 
 26. Brucellosis in Cattle (General Provisions) (Amendment) Order 2002 (S.I. No. 415 of 2002)
 
@@ -58,9 +60,7 @@ Orders under the Diseases of Animals Act 1966
 
 28. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) Order 2002 (S.I. No. 528 of 2002)
 
-29. Bovine Tuberculosis (Attestation of State and General Provisions) (Amendment) Order 2003 (S.I. No. 32 of 2003)
-
-30. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2003 (S.I. No. 159 of 2003)
+29. Bovine Tuberculosis (Attestation of State and General Provisions) (Amendment) Order 2003 (S.I. No. 32 of 2003) 30. Diseases of Animals Act 1966 (Control on Animal and Poultry Vaccines) (Amendment) Order 2003 (S.I. No. 159 of 2003)
 
 31. Importation of Dogs and Cats Order 2003 (S.I. No. 192 of 2003)
 
@@ -108,4 +108,6 @@ Orders under the Diseases of Animals Act 1966
 
 53. Diseases of Animals Act 1966 (Notification and Control of Animal Diseases) (Amendment) Order 2011 (S.I. No. 277 of 2011)
 
-54. Brucellosis in Cattle (General Provisions) (Amendment) Order 2012 (S.I. No. 554 of 2012) 55. Bovine Tuberculosis (Attestation of the State and General Provisions) (Amendment) Order 2012 (S.I. No. 555 of 2012)
+54. Brucellosis in Cattle (General Provisions) (Amendment) Order 2012 (S.I. No. 554 of 2012)
+
+55. Bovine Tuberculosis (Attestation of the State and General Provisions) (Amendment) Order 2012 (S.I. No. 555 of 2012)
