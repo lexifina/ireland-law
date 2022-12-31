@@ -30,7 +30,9 @@ Appearances before other Oireachtas committees
 
 (a) the Chairperson or the Chief Executive may, not later than 21 days after being informed by the Committee of its decision not to do so, apply to the High Court in a summary manner for determination of the question whether the matter is one to which subsection (3) applies, or
 
-(b) the person who chairs the Committee may, on behalf of the Committee, make such an application, and the High Court shall determine the matter. (6) Pending the determination of an application under subsection (5), the Chairperson and the Chief Executive shall not attend before the Committee to give account for the matter the subject of the application.
+(b) the person who chairs the Committee may, on behalf of the Committee, make such an application, and the High Court shall determine the matter.
+
+(6) Pending the determination of an application under subsection (5), the Chairperson and the Chief Executive shall not attend before the Committee to give account for the matter the subject of the application.
 
 (7) If the High Court determines that the matter concerned is one to which subsection (3) applies, the Committee shall withdraw the request referred to in subsection (2), but if the High Court determines that subsection (3) does not apply, the Chairperson and the Chief Executive shall attend before the Committee to give account for the matter.
 

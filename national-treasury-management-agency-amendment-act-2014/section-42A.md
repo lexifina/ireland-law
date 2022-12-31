@@ -28,4 +28,4 @@ Funding of HBFI
 
 (6) The Agency shall comply with a direction given under subsection (1).
 
-(7) In this section ‘HBFI’ and ‘HBFI group entity’ have the same meanings as they have in the Home Building Finance Ireland Act 2018.
+(7) In this section "HBFI" and "HBFI group entity" have the same meanings as they have in the Home Building Finance Ireland Act 2018.

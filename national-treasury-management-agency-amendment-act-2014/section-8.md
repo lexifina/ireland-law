@@ -46,7 +46,9 @@ Membership
 
 (2) The Act of 1990 is amended by inserting the following Schedule before the First Schedule:
 
-“SCHEDULE A Section 3A
+“SCHEDULE A
+
+Section 3A
 
 Members of Agency
 

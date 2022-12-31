@@ -172,7 +172,7 @@ Transfers on Finance Agency Dissolution Date
 
 Transfer of property from Finance Agency to Agency on Finance Agency dissolution date
 
-10. (1) On the Finance Agency dissolution date all property, including any chose-in-action, that, immediately before that date, was vested in the Finance Agency shall be transferred to the Agency by this subparagraph.
+10. (1) On the Finance Agency dissolution date all property, including any chose-in- action, that, immediately before that date, was vested in the Finance Agency shall be transferred to the Agency by this subparagraph.
 
 (2) Every chose-in-action transferred to the Agency by subparagraph (1) may, on and from the Finance Agency dissolution date, be sued on, recovered or enforced by the Agency in its own name, and it shall not be necessary for the Agency to give notice of the transfer effected by that subparagraph to any person bound by the chose-in-action.
 
