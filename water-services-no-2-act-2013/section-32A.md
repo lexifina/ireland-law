@@ -1,6 +1,6 @@
 Water services policy statement
 
-32A. (1) The Minister shall prepare a statement, in this Act referred to as a ‘water services policy statement’, which shall be prepared—
+32A. (1) The Minister shall prepare a statement, in this Act referred to as a "water services policy statement", which shall be prepared—
 
 (a) in respect of the first statement, not later than 6 months after the coming into operation of this section, and
 
@@ -30,4 +30,4 @@ Water services policy statement
 
 (5) The Minister shall publish, on a website maintained by the Minister, a water services policy statement as soon as may be after it has been laid under subsection (4).
 
-(6) In this section, ‘Act of 1992’ means the Environmental Protection Agency Act 1992.
+(6) In this section, "Act of 1992" means the Environmental Protection Agency Act 1992.

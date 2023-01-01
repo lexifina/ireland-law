@@ -1,6 +1,6 @@
 Strategic funding plan
 
-34A. (1) Irish Water shall prepare and submit to the Minister a plan, in this Act referred to as a ‘strategic funding plan’ which shall specify the arrangements that Irish Water proposes to make and measures that it proposes to take to implement the objectives of the water services strategic plan.
+34A. (1) Irish Water shall prepare and submit to the Minister a plan, in this Act referred to as a "strategic funding plan" which shall specify the arrangements that Irish Water proposes to make and measures that it proposes to take to implement the objectives of the water services strategic plan.
 
 (2) Irish Water shall submit a strategic funding plan to the Minister as soon as may be, and in any case, not more than 3 months after the Minister publishes a water services policy statement under section 32A(5) (inserted by section 18 of the Water Services Act 2017).
 

@@ -26,4 +26,4 @@ Registration with Irish Water
 
 (6) A person who registers with, or notifies, Irish Water under subsection (1) and provides information which to his or her knowledge is false or misleading in a material respect commits an offence and is liable on summary conviction to a class A fine.
 
-(7) In this section ‘dwelling’ means a premises occupied, or which may be occupied, by a person as his or her place of private residence (whether or not as his or her principal private residence).
+(7) In this section "dwelling" means a premises occupied, or which may be occupied, by a person as his or her place of private residence (whether or not as his or her principal private residence).
