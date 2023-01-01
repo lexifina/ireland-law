@@ -2,11 +2,11 @@ Persons becoming pensioners after 29 February 2012: reduction in public service 
 
 2A.— (1) For the purposes of this section—
 
-(a) the definition of ‘pensioner’ in section 1 shall apply with the modification that references to the relevant date in paragraphs (b) and (c) of the definition shall be read as references to 31 August 2014 or such other date as may be specified in accordance with section 9(1)(b)(ii) of the Financial Emergency Measures in the Public Interest Act 2013;
+(a) the definition of "pensioner" in section 1 shall apply with the modification that references to the relevant date in paragraphs (b) and (c) of the definition shall be read as references to 31 August 2014 or such other date as may be specified in accordance with section 9(1)(b)(ii) of the Financial Emergency Measures in the Public Interest Act 2013;
 
-(b) ‘relevant (post 29 February 2012) pensioner’ means, subject to subsection (2), a person who became a pensioner after 29 February 2012, or becomes such after the passing of the Financial Emergency Measures in the Public Interest Act 2013, but no later than 31 August 2014 or such other date as may be specified in accordance with section 9(1)(b)(ii) of the Financial Emergency Measures in the Public Interest Act 2013 and the annual pension of whom (in either case) exceeds €32,500.
+(b) "relevant (post 29 February 2012) pensioner" means, subject to subsection (2), a person who became a pensioner after 29 February 2012, or becomes such after the passing of the Financial Emergency Measures in the Public Interest Act 2013, but no later than 31 August 2014 or such other date as may be specified in accordance with section 9(1)(b)(ii) of the Financial Emergency Measures in the Public Interest Act 2013 and the annual pension of whom (in either case) exceeds €32,500.
 
-(2) In subsection (1)(b) the words ‘but no later than 31 August 2014 or such other date as may be specified in accordance with section 9(1)(b)(ii) of the Financial Emergency Measures in the Public Interest Act 2013’ shall be disregarded in the case of a pensioner falling under paragraph (c) of the definition in section 1 of ‘pensioner’, as that definition applies by virtue of subsection (1)(a).
+(2) In subsection (1)(b) the words "but no later than 31 August 2014 or such other date as may be specified in accordance with section 9(1)(b)(ii) of the Financial Emergency Measures in the Public Interest Act 2013" shall be disregarded in the case of a pensioner falling under paragraph (c) of the definition in section 1 of "pensioner", as that definition applies by virtue of subsection (1)(a).
 
 (3) The annualised amount of a public service pension payable in accordance with his or her entitlement to a person who is a relevant (post 29 February 2012) pensioner shall be reduced—
 
@@ -46,7 +46,7 @@ Annualised amount of public service pension Reduction
 
 Up to €60,000 Exempt
 
-Any amount over €60,000 but not over €100,000
+Any amount over €60,000 but not over €100,000 3 per cent
 
 Any amount over €100,000 6 per cent
 
