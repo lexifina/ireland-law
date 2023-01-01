@@ -10,7 +10,7 @@ Amendment of definitions in section 2 of Metrology Act 1996
 
 (b) by substituting for the definition of “user” the following:
 
-“‘user’ means—
+“user” means—
 
 (a) the person or organisation responsible for the use of the instrument for the purposes of this Act,
 

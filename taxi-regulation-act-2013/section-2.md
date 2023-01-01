@@ -32,13 +32,13 @@ Definitions
 
 “company” means a company formed and registered under the Companies Acts;
 
-‘dispatch operator’ means a person who provides for reward—
+“dispatch operator” means a person who provides for reward—
 
 (a) a booking service for an intending passenger to contact him or her to arrange for the hire of, and carriage of the intending passenger in, a small public service vehicle operated or driven by another person (other than an employee of the first-mentioned person), or
 
 (b) a service allowing an intending passenger to arrange the hire of a small public service vehicle, but does not include a person employed by the first-mentioned person to take or manage the taking of bookings in the course of that service or a person marshalling in a public place (within the meaning of the Act of 1961) the services of small public service vehicles;
 
-‘driving licence’ means a driving licence (within the meaning of the Act of 1961) which is for the time being in force;
+“driving licence” means a driving licence (within the meaning of the Act of 1961) which is for the time being in force;
 
 “Garda Commissioner” means Commissioner of the Garda Síochána;
 
@@ -46,7 +46,7 @@ Definitions
 
 “licence” means a licence provided for under licensing regulations and granted under section 9 ;
 
-‘licence to drive a small public service vehicle’ means a licence to drive a small public service vehicle for the carriage of persons for reward;
+“licence to drive a small public service vehicle” means a licence to drive a small public service vehicle for the carriage of persons for reward;
 
 “licensing authority” means a licensing authority under section 6;
 
