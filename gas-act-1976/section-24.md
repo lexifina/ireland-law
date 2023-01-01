@@ -1,0 +1,3 @@
+Temporary borrowing by Board.
+
+24.— The Board may, with the consent of the majority-shareholding Minister given (where the majority-shareholding Minister is not the Minister for Finance, with the approval of the Minister for Finance) having consulted with the Minister, the Minister for Public Expenditure and Reform and any other Minister of the Government who, in the opinion of the majority-shareholding Minister having regard to the functions of that other Minister, ought to be consulted, borrow temporarily either by arrangement with bankers or otherwise such sums as it may require for the purpose of providing for current expenditure.

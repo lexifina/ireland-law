@@ -1,0 +1,3 @@
+Restriction on compulsory acquisition etc. of land held by Board and certain rights over or in respect of land.
+
+28. — Notwithstanding anything contained in any enactment other than this Act, a person (other than the Minister) shall not, without the previous consent of the Minister, acquire compulsorily any land held by the Board or acquire, terminate, restrict or otherwise interfere with compulsorily or alienate, without the consent of the Board, any easement, wayleave or other right whatsoever over or in respect of any such land or interfere with compulsorily any easement, wayleave or other right whatsoever of the Board over or in respect of land.
