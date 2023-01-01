@@ -14,6 +14,6 @@ Information obtained in confidence
 
 (a) an FOI request relates to a record to which subsection (1) applies but to which subsection (2) and (3) do not apply or would not, if the record existed, apply, and
 
-(b) in the opinion of the head concerned, the disclosure of the existence or non-existence of the record would have an effect specified in subsection (1), he or she shall refuse to grant the request and shall not disclose to the requester concerned whether or not the record exists.
+(b) in the opinion of the head concerned, the disclosure of the existence or non- existence of the record would have an effect specified in subsection (1), he or she shall refuse to grant the request and shall not disclose to the requester concerned whether or not the record exists.
 
 (5) Subject to section 2, in this section “record” includes information conveyed in confidence in person, by telephone, electronically or in writing (including a written note taken of a phone message by a person authorised to receive such message).

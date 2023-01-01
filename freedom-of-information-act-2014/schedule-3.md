@@ -40,13 +40,13 @@ No. 18 of 1988 Agriculture (Research, Training and Section 14. Advice) Act 1988
 
 No. 26 of 1988 Forestry Act 1988 Section 33.
 
-No. 18 of 1990 National Treasury Management Section 14. Agency Act 1990 No. 19 of 1990 Industrial Relations Act 1990 Section 25(6).
+No. 18 of 1990 National Treasury Management Section 14. Agency Act 1990
+
+No. 19 of 1990 Industrial Relations Act 1990 Section 25(6).
 
 No. 25 of 1990 Pensions Act 1990 Section 24.
 
-No. 25 of 1990 Pensions Act 1990 Section 145 (inserted by the Pensions (Amendment) Act 2002).
-
-No. 2 of 1991 Marine Institute Act 1991 Section 15.
+No. 25 of 1990 Pensions Act 1990 Section 145 (inserted by the Pensions (Amendment) Act 2002). No. 2 of 1991 Marine Institute Act 1991 Section 15.
 
 No. 9 of 1991 Radiological Protection Act 1991 Section 36(1) (d).
 
@@ -100,7 +100,9 @@ No. 10 of 2002 Gas (Interim) (Regulation) Act 2002 Section 19.
 
 No. 20 of 2002 Communications Regulation Act Section 24. 2002
 
-No. 10 of 2003 National Tourism Development Section 22. Authority Act 2003 No. 23 of 2003 Digital Hub Development Agency Act Section 27. 2003
+No. 10 of 2003 National Tourism Development Section 22. Authority Act 2003
+
+No. 23 of 2003 Digital Hub Development Agency Act Section 27. 2003
 
 No. 24 of 2003 Arts Act 2003 Section 20.
 
@@ -108,9 +110,7 @@ No. 42 of 2004 Health Act 2004 Section 26.
 
 No. 22 of 2005 Veterinary Practice Act 2005 Section 25.
 
-No. 10 of 2005 Safety, Health and Welfare at Work Section 73. Act 2005
-
-No. 31 of 2005 Railway Safety Act 2005 Section 21(1).
+No. 10 of 2005 Safety, Health and Welfare at Work Section 73. Act 2005 No. 31 of 2005 Railway Safety Act 2005 Section 21(1).
 
 No. 8 of 2006 Sea-Fisheries and Maritime Section 58. Jurisdiction Act 2006
 
@@ -138,7 +138,9 @@ No. 28 of 2012 Qualifications and Quality Assurance Paragraph 13 of (Education a
 
 Part 2
 
-Statutory Instruments Number & Year Title of Instrument Provision
+Statutory Instruments
+
+Number & Year Title of Instrument Provision
 
 (1) (2) (3)
 
@@ -146,9 +148,7 @@ No. 105 of 1971 Health Services Regulations 1971. Article 5.
 
 No. 187 of 1971 St. James’s Hospital Board (Establishment) Article 29. Order 1971.
 
-No. 175 of 1983 Fire Services Council (Establishment) Article 13. Order 1983.
-
-No. 222 of 1983 Housing (Rent Tribunal) Regulations 1983. Article 14(3).
+No. 175 of 1983 Fire Services Council (Establishment) Article 13. Order 1983. No. 222 of 1983 Housing (Rent Tribunal) Regulations 1983. Article 14(3).
 
 No. 279 of 1986 The Health Research Board Article 23. (Establishment) Order 1986.
 

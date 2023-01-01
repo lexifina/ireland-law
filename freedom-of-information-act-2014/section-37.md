@@ -36,7 +36,7 @@ Personal information
 
 (a) an FOI request relates to a record to which subsection (1) applies but to which subsection (2) and (5) do not apply or would not, if the record existed, apply, and
 
-(b) in the opinion of the head concerned the disclosure of the existence or non-existence of the record would have the effect specified in subsection (1), he or she shall refuse to grant the request and shall not disclose to the requester concerned whether or not the record exists.
+(b) in the opinion of the head concerned the disclosure of the existence or non- existence of the record would have the effect specified in subsection (1), he or she shall refuse to grant the request and shall not disclose to the requester concerned whether or not the record exists.
 
 (7) Notwithstanding paragraph (a) of subsection (2), a head shall, subject to paragraphs (b) to (e) of that subse ction and subsections (5) and (8), refuse to grant an FOI request if, in the opinion of the head, access to the record concerned would, in addition to involving the disclosure of personal information relating to the requester, also involve the disclosure of personal information relating to an individual or individuals other than the requester.
 

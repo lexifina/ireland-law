@@ -1,5 +1,3 @@
-## Appeal to High Court
-
 Appeal to High Court, etc.
 
 24. (1) A party to an application under section 22 or any other person affected by the decision of the Commissioner following a review under that section may appeal to the High Court—
