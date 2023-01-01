@@ -16,9 +16,7 @@ No. 26 of 1935 Agricultural Produce (Cereals) Act 1935 Section 20
 
 No. 23 of 1938 Industrial Alcohol Act 1938 Paragraph 4(d) (inserted by section 10(c) of the Industrial Alcohol (Amendment) Act 1980) of Schedule
 
-No. 9 of 1941 Dairy Produce (Price Stabilisation) Section 9 (Amendment) Act 1941
-
-No. 13 of 1941 Minerals Exploration and Development Section 10 Company Act 1941
+No. 9 of 1941 Dairy Produce (Price Stabilisation) Section 9 (Amendment) Act 1941 No. 13 of 1941 Minerals Exploration and Development Section 10 Company Act 1941
 
 No. 21 of 1944 Transport Act 1944 Section 17(3)
 
@@ -26,7 +24,9 @@ No. 31 of 1945 National Stud Act 1945 Section 24
 
 No. 9 of 1946 Harbours Act 1946 Section 120
 
-No. 35 of 1947 Minerals Company Act 1947 Section 3 No. 12 of 1950 Transport Act 1950 Section 29(5)
+No. 35 of 1947 Minerals Company Act 1947 Section 3
+
+No. 12 of 1950 Transport Act 1950 Section 29(5)
 
 No. 28 of 1951 Grain Storage (Loans) Act 1951 Sections 4 and 5
 
@@ -92,15 +92,15 @@ No. 11 of 1996 Harbours Act 1996 Section 23
 
 No. 28 of 1996 National Standards Authority of Ireland Act Sections 14 and 15(5) 1996
 
-No. 7 of 1997 Dublin Docklands Development Authority Act Section 30(1) 1997
-
-No. 11 of 1997 National Cultural Institutions Act 1997 Sections 34, 43(1), 44(3) and 46(2)
+No. 7 of 1997 Dublin Docklands Development Authority Act Section 30(1) 1997 No. 11 of 1997 National Cultural Institutions Act 1997 Sections 34, 43(1), 44(3) and 46(2)
 
 No. 37 of 1997 Merchant Shipping (Commissioners of Irish Section 6A Lights) Act 1997
 
 No. 21 of 1998 Employment Equality Act 1998 Section 55(2)
 
-No. 24 of 1998 Air Navigation and Transport (Amendment) Sections 13 and 22(3)(g) Act 1998 No. 26 of 1998 Turf Development Act 1998 Section 22
+No. 24 of 1998 Air Navigation and Transport (Amendment) Sections 13 and 22(3)(g) Act 1998
+
+No. 26 of 1998 Turf Development Act 1998 Section 22
 
 No. 29 of 1998 Food Safety Authority of Ireland Act 1998 Section 23
 
@@ -164,9 +164,7 @@ No. 19 of 2007 Consumer Protection Act 2007 Section 29
 
 No. 20 of 2007 Pharmacy Act 2007 Paragraph 18(1) of Schedule 1
 
-No. 25 of 2007 Medical Practitioners Act 2007 Section 33
-
-No. 11 of 2008 Electricity Regulation (Amendment) (Eirgrid) Section 6 Act 2008
+No. 25 of 2007 Medical Practitioners Act 2007 Section 33 No. 11 of 2008 Electricity Regulation (Amendment) (Eirgrid) Section 6 Act 2008
 
 No. 15 of 2008 Dublin Transport Authority Act 2008 Section 30
 
