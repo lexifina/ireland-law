@@ -30,7 +30,7 @@ Rent schemes and charges.
 
 (ii) the provision of services where those services are also provided to the occupants of other dwellings.
 
-(5) (a) A housing authority shall, in accordance with regulations made for the purposes of this section, not later than the date prescribed by the Minister for the purposes of this subsection, make a scheme (in this Act referred to as a ‘rent scheme’) providing for the manner in which rents and other charges referred to in subsection (3) shall be determined.
+(5) (a) A housing authority shall, in accordance with regulations made for the purposes of this section, not later than the date prescribed by the Minister for the purposes of this subsection, make a scheme (in this Act referred to as a "rent scheme") providing for the manner in which rents and other charges referred to in subsection (3) shall be determined.
 
 (b) A housing authority may, from time to time, as it considers appropriate, or as the Minister directs, revoke the rent scheme and make a new rent scheme.
 

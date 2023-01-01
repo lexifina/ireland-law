@@ -1,6 +1,6 @@
 Social housing assessment.
 
-20.—(1) For the purposes of this section ‘household’ means—
+20.—(1) For the purposes of this section "household" means—
 
 (a) a person who lives alone,
 
@@ -62,7 +62,7 @@ Social housing assessment.
 
 (b) In making an offer of housing social support referred to in paragraph (a), a housing authority may, unless it has been prescribed for the purpose of the paragraph concerned, specify a period or date within which the offer has to be accepted before it lapses and if the offer lapses it shall be deemed to be a refusal for the purposes of that subsection.
 
-(c) In this subsection ‘specified form of social housing support’ means social housing support of a kind referred to in paragraph (a), (b) or (d) of section 19(2).
+(c) In this subsection "specified form of social housing support" means social housing support of a kind referred to in paragraph (a), (b) or (d) of section 19(2).
 
 (6) The Minister may make regulations providing for the matters by reference to which a household’s need for social housing support and the form of such support shall be determined including, but not necessarily limited to, the following:
 

@@ -32,7 +32,7 @@ Interpretation (Part 3).
 
 “transfer order” has the meaning given to it by section 45.
 
-(2) (a) A housing authority shall not proceed with the sale of a dwelling under an incremental purchase arrangement to a household referred to in paragraph (b) of the definition of ‘eligible household’ in subsection (1) where—
+(2) (a) A housing authority shall not proceed with the sale of a dwelling under an incremental purchase arrangement to a household referred to in paragraph (b) of the definition of "eligible household" in subsection (1) where—
 
 (i) at any time during the 3 years immediately before applying to the authority to purchase a dwelling under this Part, the household or a household member was in arrears of rent, rent contributions, charges, fees or any other moneys due and owing to a housing authority or an approved body for an accumulated period of 12 weeks or more in respect of a dwelling or site to which Chapter 3 of Part 2 of the Act of 2009 relates, and
 
