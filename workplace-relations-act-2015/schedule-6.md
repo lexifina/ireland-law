@@ -84,6 +84,8 @@ Acts of Oireachtas
 
 37. Sections 24(1) and (2) of the Parent’s Leave and Benefit Act 2019
 
+38. Section 12 of the Sick Leave Act 2022
+
 Statutory Instruments
 
 1. Regulation 10 of the European Communities (Protection of Employees on Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003)
@@ -113,8 +115,6 @@ Acts of Oireachtas
 2. Section 12A of the Minimum Notice and Terms of Employment Act 1973
 
 3. Section 11B of the Protection of Employment Act 1977
-
-Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Commission and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007.
 
 4. Section 7 of the Payment of Wages Act 1991
 
@@ -183,6 +183,8 @@ Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 A
 36. Section 28(2) of the Paternity Leave and Benefit Act 2016
 
 37. Section 24(3) of the Parent’s Leave and Benefit Act 2019
+
+38. Section 12 of the Sick Leave Act 2022
 
 Statutory Instruments
 
