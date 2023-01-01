@@ -8,8 +8,6 @@ Interpretation (Part 17)
 
 “authorised minimum” means—
 
-2 OJ No. L 173, 12.06.2014, p. 190. 1 OJ No. L 345, 27.12.2017, p. 96. 17 OJ No, L150, 7.6.2019, p. 296
-
 (a) subject to paragraph (b), €25,000; or
 
 (b) such greater sum as may be specified by order made by the Minister under subsection (2);
@@ -17,6 +15,8 @@ Interpretation (Part 17)
 “authorised share capital” shall be read in accordance with section 1006(2)(e);
 
 “constitution” shall be read in accordance with section 1006(1);
+
+OJ No, L150, 7.6.2019, p. 296
 
 “public limited company” or “PLC” means a company limited by shares and having a share capital, being a company—
 
@@ -38,9 +38,7 @@ Interpretation (Part 17)
 
 (a) require any PLC, having an allotted share capital of which the nominal value is less than the amount specified in the order as the authorised minimum, to increase that value to not less than that amount or make an application to be re-registered as another form of company,
 
-(b) make, in connection with any such requirement, provision for any of the matters for which provision is made by any provision of this Act relating to
-
-2 OJ No. L 173, 12.6.2014, p. 349 3 OJ No. L 184, 14.7.2007, p. 17 4 OJ No. L 173, 12.6.2014, p.190 1 OJ No. L 132, 20.5.2017, p.1 a PLC’s registration, re-registration or change of name, payment for any share comprised in a company’s capital and offers of shares in, or debentures of, a company to the public, including provision as to the consequences (whether in criminal law or otherwise) of a failure to comply with any requirement of the order, and
+(b) make, in connection with any such requirement, provision for any of the matters for which provision is made by any provision of this Act relating to a PLC’s registration, re-registration or change of name, payment for any share comprised in a company’s capital and offers of shares in, or debentures of, a company to the public, including provision as to the consequences (whether in criminal law or otherwise) of a failure to comply with any requirement of the order, and
 
 (c) contain such supplemental and transitional provision as the Minister thinks appropriate, make different provision for different cases and, in particular, provide for any provision of the order to come into operation on different days for different purposes.
 

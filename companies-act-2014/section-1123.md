@@ -30,8 +30,6 @@ Acquisitions of uncertificated securities from dissenting shareholders
 
 (ii) amend the regulations referred to in paragraph (a) — the latter regulations as they stand so amended.
 
-2 OJ No. L 173, 12.06.2014, p. 190. 1 OJ No. L 345, 27.12.2017, p. 96. 17 OJ No, L150, 7.6.2019, p. 296
-
 (2) In this section each of the following:
 
 (i) “issuer-instruction”;

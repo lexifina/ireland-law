@@ -1,10 +1,8 @@
 Winding up of unregistered companies
 
-1328. (1) Subject to the provisions of this Chapter, any unregistered company may be wound up under Part 11 and all the provisions of Part 11 relating to winding up shall apply to an unregistered company with the exceptions and additions mentioned in this section and, for the purposes of Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014, as amended by Directive (EU)
+1328. (1) Subject to the provisions of this Chapter, any unregistered company may be wound up under Part 11 and all the provisions of Part 11 relating to winding up shall apply to an unregistered company with the exceptions and additions mentioned in this section and, for the purposes of Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014, as amended by Directive (EU) 2017/2399 of the European Parliament and of the Council of 12 December 2017 and Directive (EU) 2019/879 of the European Parliament and of the Council of 20 May 2019, Chapter 1A of Part 25.
 
-2 OJ No. L 173, 12.06.2014, p. 190.
-
-2017/2399 of the European Parliament and of the Council of 12 December 2017 and Directive (EU) 2019/879 of the European Parliament and of the Council of 20 May 2019, Chapter 1A of Part 25.
+OJ No, L150, 7.6.2019, p. 296
 
 (2) The principal place of business in the State of an unregistered company shall, for all the purposes of the winding up, be deemed to be the registered office of the company.
 

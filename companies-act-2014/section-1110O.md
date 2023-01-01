@@ -58,8 +58,6 @@ Transparency and approval of related party transactions
 
 (11) In this section—
 
-12 OJ No. L 173, 12.6.2014, p.1
-
 "class test" means any one of the 4 tests set out in Schedule 21;
 
 "material transaction" means a transaction in which any percentage ratio, calculated in accordance with one or more class tests, is 5% or more;

@@ -2,7 +2,7 @@ Civil liability for improper purchase in holding company
 
 115. (1) This section applies where—
 
-(a) the winding up of a company which has acquired shares in its holding company in accordance with section 114 commences within 6 months after the date of such acquisition; and
+(a) the winding up of a company which has acquired shares in its holding com5pany in accordance with section 114 commences within 6 months after the date of such acquisition; and
 
 (b) the company is, at the time of the commencement of the winding up, unable to pay its debts (taking into account the contingent and prospective liabilities).
 

@@ -19,5 +19,3 @@ Mergers to which Chapter applies — definitions and supplementary provision
 (b) opt to avail itself of the provisions of Chapters 1 and 2 of Part 9 or section 601.
 
 (6) Subject to subsection (5), the provisions of Chapters 1 and 2 of Part 9 and section 601 shall not apply to a merger by acquisition, a merger by absorption or a merger by formation of a new company.
-
-31 OJ No. L 110, 29.04.2011, p.1 32 OJ No. L 173, 12.06.2014, p. 190

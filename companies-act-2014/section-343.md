@@ -2,7 +2,7 @@ Obligation to make annual return
 
 343. (1) In this section “annual return date”, in relation to a company, means the date in relation to that company as provided under section 345 and “first annual return date”, in relation to a company, shall be read accordingly.
 
-(2) Subject to the provisions of this section, a company shall deliver to the Registrar C73 an annual return in accordance with subsection (4) not later than 56 days after the annual return date of the company.
+(2) Subject to the provisions of this section, a company shall deliver to the Registrar an annual return in accordance with subsection (4) not later than 56 days after the annual return date of the company.
 
 (3) However, if the annual return is made up to an earlier date than the company’s annual return date, it shall be so delivered not later than 56 days after that earlier date.
 
