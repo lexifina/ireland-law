@@ -1,41 +1,21 @@
 Disclosure in other cases
 
-10. (1) A disclosure is made in the manner specified in this section if it is made otherwise than in the manner specified in sections 6 to 9 and—
+10. A disclosure is made in the manner specified in this section if—
 
-(a) the worker reasonably believes that the information disclosed, and any allegation contained in it, are substantially true,
+(a) it is made otherwise than in the manner specified in sections 6 to 9,
 
-(b) the disclosure is not made for personal gain,
+(b) the worker reasonably believes that the information disclosed in the report, and any allegation contained in it, are substantially true, and
 
-(c) any one or more of the conditions in subsection (2) is met, and
+(c) the worker—
 
-(d) in all the circumstances of the case, it is reasonable for the worker to make the disclosure.
+(i) has previously made a disclosure of substantially the same information in the manner specified in section 6, 7 or 8, as the case may be, but no appropriate action was taken in response to the report within the period specified in section 6A(1)(e), 7A(1)(c), 10C(7)(b), 10D(7)(b) or 10E(1)(c), as the case may be, or
 
-(2) The conditions referred to in subsection (1)(c) are—
+(ii) reasonably believes that—
 
-(a) that, at the time the worker makes the disclosure, the worker reasonably believes that the worker will be subjected to penalisation by the worker’s employer if the worker makes a disclosure in the manner specified in section 6, 7 or 8,
+(I) the relevant wrongdoing concerned may constitute an imminent or manifest danger to the public interest, such as where there is an emergency situation or a risk of irreversible damage, or
 
-(b) that, in a case where no relevant person is prescribed for the purposes of section 7 in relation to the relevant wrongdoing, the worker reasonably believes that it is likely that evidence relating to the relevant wrongdoing will be concealed or destroyed if the worker makes a disclosure in the manner specified in section 6,
+(II) if he or she were to make a report in the manner specified in section 7 or 8, as the case may be—
 
-(c) that the worker has previously made a disclosure of substantially the same information—
+(A) there is a risk of penalisation, or
 
-(i) in the manner specified in section 6, or
-
-(ii) in the manner specified in section 7 or 8, and
-
-(d) that the relevant wrongdoing is of an exceptionally serious nature.
-
-(3) In determining for the purposes of subsection (1)(d) whether it is reasonable for the worker to make the disclosure regard shall be had, in particular, to—
-
-(a) the identity of the person to whom the disclosure is made,
-
-(b) in a case falling within subsection (2) (a), (b) or (c), the seriousness of the relevant wrongdoing,
-
-(c) in a case falling within subsection (2)(a), (b) or (c), whether the relevant wrongdoing is continuing or is likely to occur in the future,
-
-(d) in a case falling within subsection (2)(c), any action which the employer of the worker or the person to whom the previous disclosure was made has taken or might reasonably be expected to have taken as a result of the previous disclosure, and
-
-(e) in a case falling within subsection (2)(c)(i), whether in making the disclosure to the employer the worker complied with any procedure the use of which by the worker was authorised by the employer.
-
-(4) For the purposes of this section a subsequent disclosure may be regarded as a disclosure of substantially the same information as that disclosed by a previous disclosure as mentioned in subsection (2)(c) even though the subsequent disclosure extends to information about action taken or not taken by any person as a result of the previous disclosure.
-
-(5) In subsection (1)(b) “personal gain” excludes any reward payable under or by virtue of any enactment.
+(B) there is a low prospect of the relevant wrongdoing being effectively addressed, due to the particular circumstances of the case, such as those where evidence may be concealed or destroyed or where a prescribed person may be in collusion with the perpetrator of the wrongdoing or involved in the wrongdoing.

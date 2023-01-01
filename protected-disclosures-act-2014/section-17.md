@@ -1,5 +1,3 @@
-## PART 4 SPECIAL CASES
-
 Law enforcement, etc.
 
 17. (1) This section applies to a disclosure of relevant information, other than a disclosure of relevant information to which section 18 applies, that might reasonably be expected to facilitate the commission of an offence or to prejudice or impair—
@@ -20,7 +18,7 @@ Law enforcement, etc.
 
 (a) it is made in the manner specified in section 6(1)(a), 7 or 9, or
 
-(b) if it is taxpayer information, it is made in the manner specified in section 10 to the Comptroller and Auditor General, or
+(b) if it is taxpayer information (other than taxpayer information that relates to a breach referred to in subparagraph (ii) or (iii) of paragraph (a) of the definition of "breach" in section 3), it is made in the manner specified in section 10 to the Comptroller and Auditor General, or
 
 (c) in any other case, it is made in the manner specified in section 10, the conditions in subsection (3) are met and it is made to a member of Dáil Éireann or Seanad Éireann.
 

@@ -14,12 +14,8 @@ Tort action for suffering detriment because of making protected disclosure
 
 (iii) a complaint under section 114 of the Defence Act 1954 or section 6 of the Ombudsman (Defence Forces) Act 2004.
 
-(3) In subsection (1) “detriment” includes—
+(2A) Where the investigation of the relevant wrongdoing concerned was not the sole or main motivation for making the protected disclosure concerned, in determining the amount of any damages to be awarded, in proceedings under this section, to a person to whom detriment is caused, the amount may be up to 25 per cent less than the amount that it would otherwise be.
 
-(a) coercion, intimidation or harassment,
+(2B) In any proceedings under this section in respect of alleged detriment caused to a person, the detriment so caused shall be deemed, for the purposes of this section, to have been caused as a result of the person or another person having made a protected disclosure, unless the person whom it is alleged caused the detriment proves that the act or omission concerned was based on duly justified grounds.
 
-(b) discrimination, disadvantage or adverse treatment in relation to employment (or prospective employment),
-
-(c) injury, damage or loss, and
-
-(d) threat of reprisal.
+(3) In subsection (1), "detriment" means an act or omission referred to in any of paragraphs (a) to (q) of the definition of "penalisation" in section 3, subject to the modification that references in any of the said paragraphs to a worker shall be read as a reference to the person to whom the detriment is caused.
