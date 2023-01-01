@@ -6,7 +6,9 @@ Section 24.
 
 PART 1
 
-Amendment of Acts Section 24(1).
+Amendment of Acts
+
+Section 24(1).
 
 Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
 
@@ -16,7 +18,7 @@ Section 4 After subsection (1) insert—
 
 “(1A) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
-Section 5 After subsection (1) insert—
+Section 5 After subsection (1) insert— Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
 
 “(1A) This section does not apply to the making of a statement that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
@@ -34,7 +36,7 @@ Section 5 After subsection (1) insert—
 
 “(3A) Subsection (3) does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
-(c) After subsection (5) insert— Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
+(c) After subsection (5) insert—
 
 “(5A) Subsection (5) does not apply to the making of a statement that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
@@ -44,7 +46,7 @@ Section After subsection (1) insert— 24B
 
 “(1A) Subsection (1) does not apply where the disclosure is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
-Section Renumber as subsection (1) and after that 24C subsection insert—
+Section Renumber as subsection (1) and after that 24C subsection insert— Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
 
 “(2) Subsection (1) does not apply where the disclosure is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
@@ -64,7 +66,7 @@ Section After subsection (1) insert— 55S
 
 8 Consumer Section (a) After subsection (2) insert— Protection Act 87 “(2A) Subsection (1) does not apply to a 2007 (No. 19 of communication that is a protected disclosure 2007) within the meaning of the Protected Disclosures Act 2014.”.
 
-(b) After subsection (3) insert— Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
+(b) After subsection (3) insert—
 
 “(3A) Subsection (3) does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
@@ -74,7 +76,7 @@ Section After subsection (1) insert— 55S
 
 9 Chemicals Act Section Renumber as subsection (1) and after that 2008 (No. 13 of 25 subsection insert— 2008)
 
-“(2) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
+“(2) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”. Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
 
 Section After subsection (1) insert— 26
 
@@ -92,7 +94,7 @@ Section After subsection (1) insert— 62
 
 Section After subsection (3) insert— 223
 
-“(3A) Subsection (3) does not apply to the making of a complaint that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”. Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
+“(3A) Subsection (3) does not apply to the making of a complaint that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
 Section After subsection (1) insert— 224
 
@@ -100,7 +102,7 @@ Section After subsection (1) insert— 224
 
 12 Inland Fisheries Section After subsection (3) insert— Act 2010 (No. 10 37 “(4) This section does not apply to a of 2010) communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
-Section After subsection (1) insert— 38
+Section After subsection (1) insert— 38 Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
 
 “(1A) Subsection (1) does not apply to the making of a complaint that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
@@ -120,13 +122,13 @@ Section After subsection (1) insert— 21
 
 “(3A) Subsection (3) does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
-(c) After subsection (5) insert— Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
+(c) After subsection (5) insert—
 
 “(5A) Subsection (5) does not apply to a communication, or furnishing of information, that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
 15 Protection of Section Renumber as subsection (1) and after that Employees 21 subsection insert— (Temporary “(2) Subsection (1) does not apply to a Agency Work) communication that is a protected disclosure Act 2012 (No. 13 within the meaning of the Protected Disclosures of 2012) Act 2014.”.
 
-Section After subsection (1) insert— 22
+Section After subsection (1) insert— 22 Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
 
 “(1A) This section does not apply to the making of a statement that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
@@ -144,11 +146,13 @@ Section After subsection (1) insert— 24
 
 PART 2
 
-Amendment of Statutory Instrument Section 24(2).
+Amendment of Statutory Instrument
+
+Section 24(2).
 
 Item Citation, number Provision Amendment and year affected (1) (4) (2) (3)
 
-1 European Regulation 5 After paragraph (3) insert— Communities “(4) Paragraph (3) (b) does not apply where (Occurrence the making of the report or the giving of the Reporting in Civil information is a protected disclosure within Aviation) the meaning of the Protected Disclosures Act Regulations 2007 2014.”. (S.I. No. 285 of 2007)
+1 European Regulation 5 After paragraph (3) insert— Communities “(4) Paragraph (3) (b) does not apply where (Occurrence the making of the report or the giving of the Reporting in Civil information is a protected disclosure within Aviation) the meaning of the Protected Disclosures Act Regulations 2007 2014.”. (S.I. No. 285 of 2007) Item Citation, number Provision Amendment and year affected (1) (4) (2) (3)
 
 Regulation 6 After paragraph (3) insert—
 
