@@ -6,7 +6,7 @@ Amendment of Equal Status Act 2000
 
 (i) the insertion of the following definitions:
 
-‘Act of 2015’ means the Workplace Relations Act 2015;
+"‘Act of 2015’ means the Workplace Relations Act 2015;
 
 ‘adjudication officer’ has the same meaning as it has in the Act of 2015;
 

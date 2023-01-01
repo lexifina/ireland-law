@@ -4,7 +4,7 @@ Disclosure of certain information
 
 (2) Section 1093A (inserted by section 38 of the Act of 2007) of the Taxes Consolidation Act 1997 is amended by the substitution of the following definition for the definition of “specified body”:
 
-“‘specified body’ means the Workplace Relations Commission;”.
+“'specified body' means the Workplace Relations Commission;”.
 
 (3) Section 261A (inserted by paragraph (b) of section 31 of the Act of 2007) of the Act of 2005 is amended by the substitution of the following definition for the definition of “specified body”:
 

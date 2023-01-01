@@ -12,7 +12,7 @@ Interpretation
 
 “Act of 1981” means the Courts Act 1981;
 
-‘Act of 1984’ means the Protection of Employees (Employers’ Insolvency) Act 1984;
+"Act of 1984" means the Protection of Employees (Employers’ Insolvency) Act 1984;
 
 “Act of 1990” means the Industrial Relations Act 1990;
 
@@ -56,9 +56,9 @@ Interpretation
 
 “enactment” has the same meaning as it has in the Interpretation Act 2005;
 
-‘equality officer’ has the same meaning as it has in Part VII of the Act of 1998;
+"equality officer" has the same meaning as it has in Part VII of the Act of 1998;
 
-‘equality mediation officer’ has the same meaning as it has in Part VII of the Act of 1998;
+"equality mediation officer" has the same meaning as it has in Part VII of the Act of 1998;
 
 “establishment day” shall be construed in accordance with section 9;
 
@@ -128,4 +128,4 @@ Interpretation
 
 (c) the Act of 2000.
 
-‘rights commissioner’ means a person appointed under section 13 of the Act of 1969;
+"rights commissioner" means a person appointed under section 13 of the Act of 1969;

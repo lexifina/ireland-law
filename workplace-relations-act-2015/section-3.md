@@ -18,7 +18,9 @@ Construction of references to employer and employee
 
 (5) For the purpose of the operation of this Act, and to the extent only that this Act applies, in relation to the Inland Fisheries Act 2010 (in this subsection referred to as the “Act of 2010”), references in this Act to employer shall be construed as references to IFI within the meaning of the Act of 2010.
 
-(5A) For the purpose of the operation of this Act, and to the extent only that this Act applies, in relation to Part 2 of the Industrial Relations (Amendment) Act 2015, references in this Act to employee shall be construed as references to worker within the meaning of that Part.
+(5A) For the purpose of the operation of this Act, and to the extent only that this Act applies, in relation to Part 2 of the Industrial Relations
+
+(Amendment) Act 2015, references in this Act to employee shall be construed as references to worker within the meaning of that Part.
 
 (6) For the purpose of the operation of this Act, and to the extent only that this Act applies, in relation to the European Communities (Organisation of Working Time) (Mobile Staff in Civil Aviation) Regulations 2006 (S.I. No. 507 of 2006), references in this Act to employee shall be construed as references to crew member within the meaning of those Regulations.
 

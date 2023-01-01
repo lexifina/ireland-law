@@ -48,7 +48,7 @@ Compliance notice
 
 (a) affirm the decision or direction concerned;
 
-(b) in the case of an appeal from a decision of the Labour Court affirming a compliance notice in accordance with paragraph (a) of subsection (10) , annul that decision and order the withdrawal of the compliance notice; or
+(b) in the case of an appeal from a decision of the Labour Court affirming a compliance notice in accordance with paragraph (a) of subsection (10), annul that decision and order the withdrawal of the compliance notice; or
 
 (c) in the case of an appeal from a direction given in accordance with paragraph (c) of subsection (10), annul that direction.
 
