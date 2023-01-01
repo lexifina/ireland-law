@@ -1,4 +1,4 @@
-F28[ Records.
+F28[Records.
 
 57F.—(1) The public service body from which the person concerned is, or is proposed, to be redeployed shall, on being requested to do so by the Public Appointments Service, process personal data in relation to that person, and disclose them to the Public Appointments Service, where such processing and disclosure is reasonably necessary for the purpose of the exercise by the latter of its powers under this Part in relation to that person.
 

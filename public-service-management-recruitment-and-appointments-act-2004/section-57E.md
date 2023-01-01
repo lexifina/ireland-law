@@ -1,4 +1,4 @@
-F27[ Exclusions.
+F27[Exclusions.
 
 57E.—(1) Without prejudice to subsection (2), this Part does not apply to the following:
 

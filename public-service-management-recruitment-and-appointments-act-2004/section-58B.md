@@ -1,4 +1,4 @@
-F32[ Regulations concerning payment of remuneration during sick leave.
+F32[Regulations concerning payment of remuneration during sick leave.
 
 58B.—(1) Without prejudice to subsection (5) and subject to subsections (2) and (7), the Minister may make regulations providing for the payment of remuneration, in circumstances specified in the regulations and subject to such conditions as are specified therein, to a relevant person during a period of sick leave on his or her part, and that remuneration shall be (as the Minister determines and specifies in the regulations)—
 

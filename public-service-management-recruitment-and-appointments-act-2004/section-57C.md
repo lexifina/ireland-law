@@ -1,4 +1,4 @@
-F25[ Terms and conditions of redeployment.
+F25[Terms and conditions of redeployment.
 
 57C.—(1) Save—
 

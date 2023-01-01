@@ -1,12 +1,12 @@
 ## PART 7A SICK LEAVE REMUNERATION
 
-F31[ Interpretation of Part.
+F31[Interpretation of Part.
 
 58A.— (1) In this Part—
 
-‘condition’ includes, if the Minister so determines and makes (whether in respect of the whole of a period claimed to be sick leave or portion of such a period) provision in that behalf in the regulations concerned, a condition that a medical practitioner of a class specified in the regulations certify in writing that the public servant concerned is unable to attend to his or her duties due to illness or injury;
+"condition" includes, if the Minister so determines and makes (whether in respect of the whole of a period claimed to be sick leave or portion of such a period) provision in that behalf in the regulations concerned, a condition that a medical practitioner of a class specified in the regulations certify in writing that the public servant concerned is unable to attend to his or her duties due to illness or injury;
 
-‘public service body’ means—
+"public service body" means—
 
 (a) the Civil Service,
 
@@ -30,7 +30,7 @@ F31[ Interpretation of Part.
 
 (i) any subsidiary of, or company controlled (within the meaning given by section 10 of the Taxes Consolidation Act 1997) by, a body to which paragraph (d), (e) or (g) relates and in respect of which a pre-existing public service pension scheme exists or applies or may be made;
 
-‘public servant’ means—
+"public servant" means—
 
 (a) an employee or officer of, or the holder of a position in, a public service body,
 
@@ -42,6 +42,6 @@ F31[ Interpretation of Part.
 
 (e) the Comptroller and Auditor General;
 
-‘relevant person’ means a public servant falling within a class of public servants specified in the regulations concerned;
+"relevant person" means a public servant falling within a class of public servants specified in the regulations concerned;
 
-‘sick leave’ means a case in which a public servant is unable to attend to his or her duties due to illness or injury.
+"sick leave" means a case in which a public servant is unable to attend to his or her duties due to illness or injury.

@@ -1,4 +1,4 @@
-F26[ Matters to be considered.
+F26[Matters to be considered.
 
 57D.—When making a designation under section 57B, the Public Appointments Service shall have regard to the following:
 

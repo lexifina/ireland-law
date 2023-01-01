@@ -1,4 +1,4 @@
-F33[ Application of Part.
+F33[Application of Part.
 
 58C.—This Part has effect notwithstanding—
 

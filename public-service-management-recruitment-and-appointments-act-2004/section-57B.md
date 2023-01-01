@@ -1,4 +1,4 @@
-F24[ Power to designate certain staff for redeployment.
+F24[Power to designate certain staff for redeployment.
 
 57B.—(1) The Public Appointments Service may designate an employee of a public service body for redeployment to a position in another public service body, being a position that is, in the opinion of the Public Appointments Service, comparable to the position held by the employee before the redeployment day.
 

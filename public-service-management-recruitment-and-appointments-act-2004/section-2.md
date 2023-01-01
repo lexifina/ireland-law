@@ -68,9 +68,9 @@ Interpretation.
 
 (d) the Captain of the Guard, Houses of the Oireachtas;
 
-‘pre-existing public service pension scheme’ has the meaning it has in section 5 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012;
+"pre-existing public service pension scheme" has the meaning it has in section 5 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012;
 
-‘public service body’ means, other than for the purposes of Parts 6A and 7A—
+"public service body" means, other than for the purposes of Parts 6A and 7A—
 
 (a) the Civil Service,
 
@@ -82,7 +82,7 @@ Interpretation.
 
 (e) an education and training board, and
 
-(f) such other body or bodies as may be prescribed by the Minister by order under section 6 in accordance with that section, and reference to ‘public service’ shall be read accordingly;
+(f) such other body or bodies as may be prescribed by the Minister by order under section 6 in accordance with that section, and reference to "public service" shall be read accordingly;
 
 “recruitment licence” has the meaning given in section 44;
 
@@ -94,9 +94,9 @@ Interpretation.
 
 “scheduled occupation” has the meaning given in section 7(3)(a);
 
-‘Single Public Service Pension Scheme’ means the scheme established by Chapter 2 of Part 2 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012;
+"Single Public Service Pension Scheme" means the scheme established by Chapter 2 of Part 2 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012;
 
-‘superannuation benefit’ has the meaning it has in section 1 of the Public Service Superannuation (Miscellaneous Provisions) Act 2004;
+"superannuation benefit" has the meaning it has in section 1 of the Public Service Superannuation (Miscellaneous Provisions) Act 2004;
 
 “unestablished position” means a position that is not an established position, and includes a position that is held on a temporary basis or for a definite limited period;
 

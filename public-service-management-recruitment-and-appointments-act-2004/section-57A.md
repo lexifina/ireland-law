@@ -4,7 +4,7 @@ F23[ Interpretation of Part and operation of designations under it.
 
 57A.—(1) In this Part—
 
-(a) ‘basic pay’ means, in relation to the person the subject of the designation concerned, the amount of the person’s pay or salary, by virtue of the position held in the public service body, by the person immediately before the redeployment day, other than amounts in respect of—
+(a) "basic pay" means, in relation to the person the subject of the designation concerned, the amount of the person’s pay or salary, by virtue of the position held in the public service body, by the person immediately before the redeployment day, other than amounts in respect of—
 
 (i) specific work or a specific duty undertaken,
 
@@ -16,9 +16,9 @@ F23[ Interpretation of Part and operation of designations under it.
 
 (v) overtime;
 
-(b) ‘employee’ includes an officer and the holder of a position;
+(b) "employee" includes an officer and the holder of a position;
 
-(c) ‘public service body’ means—
+(c) "public service body" means—
 
 (i) the Civil Service,
 
@@ -38,11 +38,11 @@ F23[ Interpretation of Part and operation of designations under it.
 
 (vii) any other body (other than a body referred to in Schedule 3) that is wholly or partly funded directly or indirectly out of monies provided by the Oireachtas or from the Central Fund or the growing produce of that Fund and in respect of which a pre-existing public service pension scheme exists or applies or may be made, or in respect of which the Single Public Service Pension Scheme is applicable,
 
-(viii) any subsidiary of, or company controlled (within the meaning given by section 10 of the Taxes Consolidation Act 1997) by, a body to which subparagraph (iii), (iv), or (vi) relates and in respect of which a pre-existing public service pension scheme exists or applies or may be made, or in respect of which the Single Public Service Pension Scheme is applicable, and reference to ‘public service’ shall be read accordingly;
+(viii) any subsidiary of, or company controlled (within the meaning given by section 10 of the Taxes Consolidation Act 1997) by, a body to which subparagraph (iii), (iv), or (vi) relates and in respect of which a pre-existing public service pension scheme exists or applies or may be made, or in respect of which the Single Public Service Pension Scheme is applicable, and reference to "public service" shall be read accordingly;
 
-(d) ‘recognised trade union or staff association’ means a trade union or staff association recognised by the Minister for the purposes of negotiations which are concerned with the remuneration or conditions of employment, or the working conditions of employees of public service bodies;
+(d) "recognised trade union or staff association" means a trade union or staff association recognised by the Minister for the purposes of negotiations which are concerned with the remuneration or conditions of employment, or the working conditions of employees of public service bodies;
 
-(e) ‘redeployment day’ shall be read in accordance with subsection (2); and
+(e) "redeployment day" shall be read in accordance with subsection (2); and
 
 (f) a reference to a person’s being redeployed to a position is a reference to the appointment of the person to the position as provided for by subsection (2).
 
