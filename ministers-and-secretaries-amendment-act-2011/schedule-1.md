@@ -42,6 +42,8 @@ SCHEDULE 1
 
 19. Teilifís na Gaeilge.
 
+19A. Uisce Éireann.
+
 20. Railway Procurement Agency.
 
 21. Voluntary Health Insurance Board.

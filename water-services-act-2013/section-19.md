@@ -2,8 +2,4 @@
 
 Definition.
 
-19.— In this Part “metering authority” means—
-
-(a) the Board, or
-
-(b) the subsidiary.
+19.— In this Part “metering authority” means Uisce Éireann.

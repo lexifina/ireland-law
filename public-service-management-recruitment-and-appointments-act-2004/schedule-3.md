@@ -1,6 +1,6 @@
 SCHEDULE 3
 
-BODIES TO WHICH THE DEFINITION OF ‘PUBLIC SERVICE BODY’ (AS IT RELATES TO PARTS 6A AND 7A) DOES NOT APPLY
+BODIES TO WHICH THE DEFINITION OF "PUBLIC SERVICE BODY" (AS IT RELATES TO PARTS 6A AND 7A) DOES NOT APPLY
 
 1. Any body corporate established by Act of Parliament before 6 December 1922 that, upon its establishment, was of a commercial character.
 
@@ -41,6 +41,8 @@ BODIES TO WHICH THE DEFINITION OF ‘PUBLIC SERVICE BODY’ (AS IT RELATES TO PA
 19. Shannon Airport Authority, public limited company.
 
 20. Teilifís na Gaeilge.
+
+20A. Uisce Éireann.
 
 21. Railway Procurement Agency.
 

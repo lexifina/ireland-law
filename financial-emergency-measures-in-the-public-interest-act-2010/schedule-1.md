@@ -42,6 +42,8 @@ BODIES TO WHICH THE DEFINITION OF “PUBLIC SERVICE BODY” DOES NOT APPLY
 
 20. Teilifís na Gaeilge.
 
+20A. Uisce Éireann.
+
 21. Voluntary Health Insurance Board.
 
 22. A subsidiary of a body to which this Schedule relates, including a subsidiary of any such subsidiary.
