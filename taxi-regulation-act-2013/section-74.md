@@ -8,9 +8,9 @@ Public service contracts
 
 (i) by inserting after the definition of “Act of 2005” the following:
 
-“‘Act of 2009’ means Public Transport Regulation Act 2009;
+“Act of 2009” means Public Transport Regulation Act 2009;
 
-‘ancillary public passenger transport service’ means passenger transport services of general economic interest provided to the public on a non-discriminatory and continuous basis that are not either a rail passenger service or a public bus service;”,
+“ancillary public passenger transport service” means passenger transport services of general economic interest provided to the public on a non-discriminatory and continuous basis that are not either a rail passenger service or a public bus service;”,
 
 (ii) by substituting for the definition of “public passenger transport service” the following:
 

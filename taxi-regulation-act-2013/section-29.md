@@ -12,7 +12,7 @@ Regulation of passengers in small public service vehicles
 
 (e) consume any intoxicating liquor, tobacco or controlled drug (within the meaning of the Misuse of Drugs Act 1977) in the vehicle, or
 
-(f) deliberately or recklessly leave any syringe (within the meaning of the Non- Fatal Offences Against the Person Act 1997) or sharp instrument, broken glass or other thing likely to cause harm in any part of the vehicle.
+(f) deliberately or recklessly leave any syringe (within the meaning of the Non-Fatal Offences Against the Person Act 1997) or sharp instrument, broken glass or other thing likely to cause harm in any part of the vehicle.
 
 (2) A passenger or intending passenger in a small public service vehicle shall—
 
