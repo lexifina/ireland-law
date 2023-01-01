@@ -20,6 +20,6 @@ F4[Age of retirement for relevant public servants
 
 (4) For the purpose of supplementing subsection (1), the Acts referred to in columns 1 and 2 of Part 3 of Schedule 2 are amended to the extent specified in column 3 of that Part opposite the references to the Act concerned.
 
-(5) In subsection (3)(b), ‘pensionable age’ means pensionable age within the meaning of section 2(1) (amended by section 7of the Social Welfare and Pensions Act 2011 ) of the Social Welfare Consolidation Act 2005.
+(5) In subsection (3)(b), "pensionable age" means pensionable age within the meaning of section 2(1) (amended by section 7of the Social Welfare and Pensions Act 2011 ) of the Social Welfare Consolidation Act 2005.
 
 (6) The Minister shall, within three months of the passing of this Act, prepare and lay before the Oireachtas a report on the public servants who were forced to retire between 6 December 2017 and the commencement of this Act due to reaching the age of 65 years and on potential remedies to assist this cohort of worker.
