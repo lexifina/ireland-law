@@ -1,6 +1,6 @@
 No power to pay remuneration above rate determined in accordance with section 2 , etc.
 
-5. (1)— ...
+5.— (1) ...
 
 (2) If a public service body pays remuneration to a public servant , in respect of a period falling between 1 January 2010 and the date on which the Public Service Pay Act 2021 comes into operation, at a rate higher than that provided for by the appropriate relevant provision, as taken to have been amended in accordance with section 2 or 2A, then—
 
