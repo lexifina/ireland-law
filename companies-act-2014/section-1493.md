@@ -15,3 +15,5 @@ Arrangements for enforcement of standards
 (b) making available to the public information relating to the measures taken and the penalties imposed in respect of statutory auditors and audit firms.
 
 CHAPTER 7
+
+## Quality assurance

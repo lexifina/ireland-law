@@ -1,5 +1,3 @@
-## Approval of statutory auditors and audit firms
-
 Applications for approval, general principle as to good repute, etc.
 
 1464. (1) A recognised accountancy body may, on application made to it by an individual or a firm, approve, under this Part, the applicant as a statutory auditor or audit firm.

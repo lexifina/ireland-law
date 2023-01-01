@@ -24,7 +24,7 @@ Accounting documents to be filed by non-EEA company
 
 (a) subject to paragraph (b)—
 
-(i) in the case of those accounting documents, the last date on which, in accordance with the laws of the state in which it is incorporated, the non- EEA company was required to make public such accounting documents, or
+(i) in the case of those accounting documents, the last date on which, in accordance with the laws of the state in which it is incorporated, the non-EEA company was required to make public such accounting documents, or
 
 (ii) in the case of the accounts and other documents referred to in subsection (4), the last date on which, in accordance with those laws, the non-EEA company would have been required to make those accounts and other documents public were they accounting documents referred to in subsection (2), and
 

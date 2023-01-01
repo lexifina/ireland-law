@@ -1,5 +1,3 @@
-## CHAPTER 10 Inspection of registers, provision of copies of information in them and service of notices
-
 Definitions for purposes of section 216 concerning registers, etc. and construction of reference to company keeping registers, etc.
 
 215. In—

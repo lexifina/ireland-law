@@ -30,7 +30,13 @@ Section 338 (circulation of statutory financial statements);
 
 Section 339 (right of members to demand copies of financial statements and reports);
 
-Section 340 (requirements in relation to publication of financial statements); Section 341 (financial statements and reports to be laid before company in general meeting);
+Section
+
+340
+
+(requirements in relation to publication of financial statements);
+
+Section 341 (financial statements and reports to be laid before company in general meeting);
 
 Section 347 (documents to be annexed to annual return);
 

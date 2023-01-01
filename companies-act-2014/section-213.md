@@ -1,5 +1,3 @@
-## CHAPTER 9 Form of registers, indices and minute books
-
 Form of registers, minutes, etc.
 
 213. (1) Any register, index or minute book required by this Act to be kept by a company or by the Registrar may be kept either by making entries in bound books or by recording the matters in question in any other manner.

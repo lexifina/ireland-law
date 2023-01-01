@@ -56,9 +56,7 @@ Certain requirements concerning notice of meeting to consider special resolution
 
 (c) references in subparagraph (1) to the notice of a meeting shall be read as references to the notice in writing under clause (a), and references elsewhere in this Schedule to the notice of a meeting shall be read accordingly.
 
-Notice to creditors of meeting to consider special resolution under paragraph
-
-1(1)
+Notice to creditors of meeting to consider special resolution under paragraph 1(1)
 
 4. (1) The requirement in subparagraph (1)(a) of paragraph 3 to give all creditors of the umbrella fund notice of the meeting referred to in that paragraph shall be regarded as having been complied with if—
 

@@ -18,7 +18,7 @@ Way of forming an investment company
 
 (d) the continuance, as an investment company, pursuant to Chapter 9, of a legal entity de-registering as a company in another jurisdiction; or
 
-(e) the merger operation provided for by the European Communities (Cross-Border Mergers) Regulations 2008 (S.I. No. 157 of 2008).
+(e) the merger operation provided for by the European Communities (Cross- Border Mergers) Regulations 2008 (S.I. No. 157 of 2008).
 
 (3) The liability of a member of an investment company at any time shall be limited to the amount, if any, unpaid on the shares registered in the member’s name at that time.
 

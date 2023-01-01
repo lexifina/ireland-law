@@ -1,4 +1,4 @@
-## related party transactions
+## approval of related party transactions
 
 Interpretation and application (Chapter 8C)
 

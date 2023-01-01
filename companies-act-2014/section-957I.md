@@ -22,11 +22,11 @@ Definitions (Chapter 3A)
 
 "Member" has the meaning assigned to it by section 944F(2) and includes a person authorised to act in place of a Member under section 944I.
 
- Establishment day
+Establishment day
 
 944B. The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Chapter.
 
- Establishment of Corporate Enforcement Authority
+Establishment of Corporate Enforcement Authority
 
 944C. (1) On the establishment day there shall stand a body to be known as An tÚdarás um Fhorfheidhmiú Corparáideach or, in the English language, the Corporate Enforcement Authority, to perform the functions conferred on it by this Act.
 
@@ -194,7 +194,7 @@ Staff of Authority, etc.
 
 (9) The Authority is the appropriate authority (within the meaning of the Act of 2004 and the Civil Service Regulation Acts 1956 to 2005) in relation to its staff.
 
- Superannuation of Members
+Superannuation of Members
 
 944L. (1) The Minister shall, if he or she considers it appropriate to do so and with the consent of the Minister for Public Expenditure and Reform, make and carry out a scheme or schemes for the granting of superannuation benefits to or in respect of the Members (other than a Member who is a civil servant).
 
@@ -232,7 +232,7 @@ Secondment to Authority of member of Garda Síochána
 
 (4) A member of the Garda Síochána seconded to the office of the Director immediately before the establishment day shall, on the establishment day, be seconded to the Authority on the same terms and conditions on which he or she was seconded to that office, and the other provisions of this section shall apply to the member accordingly.
 
- Accountability of Authority to Committee of Public Accounts
+Accountability of Authority to Committee of Public Accounts
 
 944N. (1) The chairperson shall, whenever required in writing to do so by the Committee of Public Accounts, give evidence to that Committee in relation to—
 
@@ -246,7 +246,7 @@ Secondment to Authority of member of Garda Síochána
 
 (2) In the performance of his or her duties under this section, the chairperson shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
 
- Accountability of Member to certain Oireachtas Committees
+Accountability of Member to certain Oireachtas Committees
 
 944O. (1) In this section, "Committee" means a Committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee on Public Accounts, the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a sub-committee of such a Committee.
 
@@ -270,7 +270,7 @@ Secondment to Authority of member of Garda Síochána
 
 (9) In this section, a reference to "Member" shall, where more than one Member has been appointed under section 944F, be taken to be a reference to the chairperson.
 
- Confidentiality of information
+Confidentiality of information
 
 944P. (1) No person shall disclose, except in accordance with law, information that—
 

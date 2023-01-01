@@ -26,34 +26,32 @@ Division Group Class Description International Standard Industrial Classificatio
 
 06 Extraction of crude petroleum and natural gas
 
-06.1 06.10 Extraction of crude 0610 petroleum
+06.1 06.10 Extraction of crude petroleum 0610
 
-06.2 06.20 Extraction of natural 0620 gas
+06.2 06.20 Extraction of natural gas 0620
 
 07 Mining of metal ores
 
-07.1 07.10 Mining of iron ores 0710
-
-07.2 Mining of non-ferrous metal ores
+07.1 07.10 Mining of iron ores 0710 07.2 Mining of non-ferrous metal ores
 
 07.21 Mining of uranium and 0721 thorium ores
 
-07.29 Mining of other non- 0729 ferrous metal ores
+07.29 Mining of other non-ferrous 0729 metal ores
 
 08 Other mining and quarrying
 
 08.1 Quarrying of stone, sand and clay
 
-08.11 Quarrying of 0810 (part ornamental and of ) building stone, limestone, gypsum, chalk and slate
+08.11 Quarrying of ornamental and 0810 (part building stone, limestone, of ) gypsum, chalk and slate
 
-08.12 Operation of gravel 0810 (part and sand pits; of ) mining of clays and kaolin
+08.12 Operation of gravel and sand 0810 (part pits; mining of clays and of ) kaolin
 
 08.9 Mining and quarrying not elsewhere classified
 
-08.91 Mining of chemical 0891 and fertiliser minerals
+08.91 Mining of chemical and 0891 fertiliser minerals
 
 08.92 Extraction of peat 0892
 
 08.93 Extraction of salt 0893
 
-08.99 Other mining and 0899 quarrying not elsewhere classified
+08.99 Other mining and quarrying 0899 not elsewhere classified

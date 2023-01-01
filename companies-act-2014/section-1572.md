@@ -12,4 +12,4 @@ Approval of third-country auditor
 
 CHAPTER 21
 
-Registration and oversight of third-country auditors and third-country audit
+Registration and oversight of third-country auditors and third-country

@@ -37,3 +37,5 @@ Loans, etc., by directors or connected persons to company or holding company: ev
 (a) the written terms of the loan or quasi-loan do not make provision in respect of the matter concerned, and
 
 (b) provision in respect of that matter is alleged to be made by those of the terms of the loan or quasi-loan that are not in writing.
+
+## CHAPTER 4 Substantive prohibitions or restrictions on loans to directors and other particular transactions involving conflict of interest

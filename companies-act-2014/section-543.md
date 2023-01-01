@@ -12,7 +12,9 @@ Objection to confirmation by court of proposals
 
 (e) that the proposals fail to satisfy the best-interest-of-creditors test;
 
-(f) that the proposals breach the conditions specified in section 541(3B)(a)(ii).
+(f ) that the proposals breach the conditions specified in section
+
+541(3B)(a)(ii).
 
 (1A) Where a member or creditor objects to the confirmation by the court of the proposals on the grounds set out in subsection (1)(e) or (1)(f), the court shall take a decision on the valuation of the company’s business.
 

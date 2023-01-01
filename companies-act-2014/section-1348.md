@@ -66,7 +66,7 @@ Interpretation (Chapter 1)
 
 (b) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020 on European crowdfunding service providers for business, and amending Regulation (EU) 2017/1129 and Directive (EU) 2019/1937, and
 
-(c) Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID- 19 crisis;
+(c) Regulation (EU) 2021/337 of the European Parliament and of the Council of 16 February 2021 amending Regulation (EU) 2017/1129 as regards the EU Recovery prospectus and targeted adjustments for financial intermediaries and Directive 2004/109/EC as regards the use of the single electronic reporting format for annual financial reports, to support the recovery from the COVID-19 crisis;
 
 “securities” has the same meaning as it has in the Prospectus Regulation, and includes shares and debentures of a company.
 

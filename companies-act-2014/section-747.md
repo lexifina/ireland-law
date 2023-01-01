@@ -1,5 +1,3 @@
-## CHAPTER 2 Investigations by court appointed inspectors
-
 Investigation of company's affairs by court appointed inspectors on application of company etc.
 
 747. (1) On the application of a person or persons specified in subsection (2), the court may appoint one or more competent inspectors to investigate the affairs of a company in order to enquire into matters specified by the court and to report on those matters in such manner as the court directs.

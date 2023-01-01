@@ -32,9 +32,7 @@ The provisions of the Companies Act 2014 are adopted.
 
 *See section 968(5)
 
-We, the several persons whose names and addresses are subscribed, wish to be formed into a company in pursuance of this constitution, and we agree to take the number of shares in the capital of the company set opposite our respective names.
-
-As appropriate: signatures in writing of the above subscribers, attested by witness as provided for below; or authentication in the manner referred to in section 888.
+We, the several persons whose names and addresses are subscribed, wish to be formed into a company in pursuance of this constitution, and we agree to take the number of shares in the capital of the company set opposite our respective names. As appropriate: signatures in writing of the above subscribers, attested by witness as provided for below; or authentication in the manner referred to in section 888.
 
 Dated the _____ day of _____________ 20___
 

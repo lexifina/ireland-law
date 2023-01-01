@@ -24,7 +24,7 @@ Way of forming a DAC and the 2 types of DAC
 
 (d) the division of a company pursuant to Chapter 4 of Part 9, or
 
-(e) the merger operation provided for by the European Communities (Cross-Border Mergers) Regulations 2008 (S.I. No. 157 of 2008).
+(e) the merger operation provided for by the European Communities (Cross- Border Mergers) Regulations 2008 (S.I. No. 157 of 2008).
 
 (4) The liability of a member of a DAC at any time shall be limited—
 

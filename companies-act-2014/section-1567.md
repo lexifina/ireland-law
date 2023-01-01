@@ -16,4 +16,4 @@ Mutual recognition of regulatory arrangements between Member States
 
 CHAPTER 19
 
-Transfer of audit working papers, etc., to third-country competent authorities
+Transfer of audit working papers, etc., to third-country competent

@@ -78,7 +78,9 @@ Security for costs and appointment of agents.
 
 (a) give security for costs in any proceedings commenced by the company or by the liquidator in the name of the company;
 
-(b) appoint an agent to do any business which the liquidator is unable to do or that it is unreasonable to expect the liquidator to do, in person. Custody and control of property and disposal of perishables, etc.
+(b) appoint an agent to do any business which the liquidator is unable to do or that it is unreasonable to expect the liquidator to do, in person.
+
+Custody and control of property and disposal of perishables, etc.
 
 9. Power to—
 
@@ -86,8 +88,6 @@ Security for costs and appointment of agents.
 
 (b) dispose of perishable goods and other goods the value of which is likely to diminish if they are not immediately disposed of;
 
-(c) do all such other things as may be necessary for the protection of the company’s property.
-
-Residual power.
+(c) do all such other things as may be necessary for the protection of the company’s property. Residual power.
 
 10. Power to do all such other things as may be necessary for winding up the affairs of the company and distributing its property.

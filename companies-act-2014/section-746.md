@@ -11,3 +11,5 @@ Interpretation (Part 13)
 (a) membership of the company or body corporate, and
 
 (b) the rights or obligations attaching to such membership.
+
+## CHAPTER 2 Investigations by court appointed inspectors

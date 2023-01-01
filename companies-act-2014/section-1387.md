@@ -14,7 +14,9 @@ Application of Parts 1 to 14 to investment companies
 
 (4) The specification in the foregoing Table of a provision (a “specified provision”) of Parts 1 to 14 also operates to disapply to an investment company any other provision of those Parts (notwithstanding that it is not specified in that Table) that makes consequential, incidental or supplemental provision on, or in relation to, the specified provision.
 
-Table Subject matter Provision disapplied
+Table
+
+Subject matter Provision disapplied
 
 Nominal value of shares Section 66(1) and (2)(a)
 
@@ -34,19 +36,17 @@ Reduction of company capital
 
 Section 84
 
-Notice to Registrar of certain alterations in share Sections 92 and 93 capital
+Notice to Registrar of certain alterations in Sections 92 and 93 share capital
 
-Restriction on company acquiring its own shares Sections 102 and 103
+Restriction on company acquiring its own Sections 102 and 103 shares
 
-Acquisition of own shares Sections 105 to 107 and 109 to
+Acquisition of own shares Sections 105 to 107 and 109 to 112
 
-112
+Holding by subsidiary of shares in its Sections 114 to 116 holding company
 
-Holding by subsidiary of shares in its holding Sections 114 to 116 company
+Restrictions on distribution of profits and Sections 117 to 123 assets
 
-Restrictions on distribution of profits and assets Sections 117 to 123
-
-Procedure for declarations, payments, etc. of Sections 124 and 125 dividends and other things
+Procedure for declarations, payments, etc. Sections 124 and 125 of dividends and other things
 
 Bonus issues
 
@@ -60,30 +60,30 @@ Audit committees
 
 Section 167
 
-Inspection of registers, provision of copies of Sections 215 to 217 information in them, etc.
+Inspection of registers, provision of copies Sections 215 to 217 of information in them, etc.
 
-Directors’ compliance statement and related
+Directors’ compliance statement and
 
-Section 225 statement
+Section 225 related statement
 
 Holding of own shares or shares in holding
 
 Section 320(1) company
 
-Directors’ report: acquisition or disposal of own
+Directors’ report: acquisition or disposal of
 
-Section 328 shares
+Section 328 own shares
 
-Signature of statutory auditor’s report to appear Section 337(4) and (5)(b) on certain copies
+Signature of statutory auditor’s report to Section 337(4) and (5)(b) appear on certain copies
 
-Annual return and documents annexed to it Chapter 13 of Part 6
+Annual return and documents annexed to Chapter 13 of Part 6 it
 
-Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
+Exclusions, exemptions and special Chapter 14 of Part 6 arrangements with regard to public disclosure of financial information
 
 Audit exemption Chapter 15 of Part 6
 
-Special audit exemption for dormant companies Chapter 16 of Part 6
+Special audit exemption for dormant Chapter 16 of Part 6 companies
 
-Company may be required to contribute to debts
+Company may be required to contribute to
 
-Section 599 of related companies
+Section 599 debts of related companies

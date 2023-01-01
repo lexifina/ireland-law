@@ -1,5 +1,3 @@
-## CHAPTER 4 Substantive prohibitions or restrictions on loans to directors and other particular transactions involving conflict of interest
-
 Substantial transactions in respect of non-cash assets and involving directors, etc.
 
 238. (1) Subject to subsections (4) and (5), a company (the “relevant company”) shall not enter into an arrangement under which—

@@ -7,3 +7,5 @@ Application
 (b) as regards each other matter provision for which is made by this Part, on and from that date.
 
 CHAPTER 2
+
+## Approval of statutory auditors and audit firms

@@ -94,7 +94,7 @@ Interpretation generally
 
 (c) where used in connection with proceedings for a debt or the recovery of a sum otherwise provided by this Act to be recoverable and a particular court or a court of competent jurisdiction is not specified for the purpose, means any court of competent jurisdiction;
 
-"Covid-19" means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 ( S.I. No. 390 of 1981 ) or any variant of the disease so specified as an infectious disease in those Regulations;
+"Covid-19" means a disease caused by infection with the virus SARS- CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 ( S.I. No. 390 of 1981 ) or any variant of the disease so specified as an infectious disease in those Regulations;
 
 “CRO Gazette” means the Companies Registration Office Gazette referred to in section 887(7);
 

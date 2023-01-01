@@ -15,3 +15,5 @@ Prohibition on acting in relation to audit while disqualification order in force
 (b) such other (shorter or longer) further period as the court, on the application of the prosecutor or the defendant and having regard to all the circumstances of the case, may order.
 
 (3) Section 847 shall not apply to a person convicted of an offence under subsection (1).
+
+## CHAPTER 22 False statements — offence

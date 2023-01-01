@@ -32,4 +32,6 @@ General meetings of companies involved in a division
 
 (c) the right, conferred by subsection (8), to requisition a general meeting has not been exercised during the notice period.
 
-(8) One or more members of the particular successor company who hold or together hold not less than 5 per cent of the paid-up capital of the company which carries the right to vote at general meetings of the company (excluding any shares held as treasury shares) may require the convening of a general meeting of the company to consider the common draft terms of division, and section 178(3) to (7) apply, with any necessary modifications, in relation to the requisition.
+(8) One or more members of the particular successor company who hold or together hold not less than 5 per cent of the paid-up capital of the company which carries the right to vote at general meetings of the company (excluding any shares held as treasury shares) may require the convening of a general meeting of the company to consider the common draft terms of division, and section 178(3) to
+
+(7) apply, with any necessary modifications, in relation to the requisition.

@@ -8,50 +8,46 @@ Application of Part 17 to investment companies
 
 (4) The provisions of Part 17 specified in the Table to this section shall not apply to an investment company.
 
-Table
+Table Subject matter Provision disapplied
 
-Subject matter Provision disapplied
+Ministerial power in relation to a defined
 
-Ministerial power in relation to a defined expression
+Section 1000(2) expression
 
-Section 1000(2)
+Way of forming a PLC and form of its Section 1004(1) to (4) and constitution sections 1005 to 1007
 
-Way of forming a PLC and form of its constitution
+Restriction on commencement of business by
 
-Section 1004(1) to
+Section 1010 a PLC
 
-(4) and sections 1005 to 1007
-
-Restriction on commencement of business by a PLC
-
-Section 1010
-
-Power to allot certain securities and notification of Section 1021(3), (4) and (8) allotments
+Power to allot certain securities and Section 1021(3), (4) and (8) notification of allotments
 
 Pre-emption rights Sections 1022 and 1023
 
 Expert’s report on non-cash consideration Sections 1028 to 1035 (requirements in respect thereof and dispensations therefrom)
 
-Treatment of shares held by or on behalf of a PLC Sections 1040 and 1041
+Treatment of shares held by or on behalf of Sections 1040 and 1041 a PLC
 
-Application of certain provisions of section 82(6) in
+Application of certain provisions of section
 
-Section 1043 relation to PLCs
+Section 1043
 
-Interests in shares: disclosure of individual and group Chapter 4 of Part 17 acquisitions
+82(6) in relation to PLCs
 
-Acquisition of own shares and certain acquisitions Chapter 5 of Part 17 by subsidiaries
+Interests in shares: disclosure of individual Chapter 4 of Part 17 and group acquisitions
+
+Acquisition of own shares and certain Chapter 5 of Part 17 acquisitions by subsidiaries
 
 Distribution by a PLC Chapter 6 of Part 17
 
-Application of section 167 to PLC that is not a public-
+Application of section 167 to PLC that is not
 
-Section 1097 interest entity under S.I. No. 220 of 2010
+Section 1097 a public-interest entity under S.I. No. 220 of 2010
 
-Additional rights of shareholders in certain PLCs Sections 1099 to 1110 (provisions implementing Shareholders’ Rights Directive 2007/36/EC)
+Additional rights of shareholders in certain Sections 1099 to 1110 PLCs (provisions implementing Shareholders’ Rights Directive 2007/36/EC)
 
-Obligation to convene extraordinary general meeting
+Obligation to convene extraordinary general
 
-Section 1111 in event of serious loss of capital
+Section 1111 meeting in event of serious loss of capital
 
 Reorganisations Chapter 13 of Part 17

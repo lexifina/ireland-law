@@ -33,3 +33,5 @@ Remedy in case of oppression
 (b) any trustee of, or person beneficially interested in, the shares of a company by virtue of the will or intestacy of any such person, may apply to the court under subsection (1) for an order under this section and, accordingly, any reference in that subsection to a member of a company shall be read as including a reference to any such personal representative, trustee or person beneficially interested as mentioned in paragraph (a) or (b) or to all of them.
 
 (9) If, in the opinion of the court, the hearing of proceedings under this section would involve the disclosure of information the publication of which would be seriously prejudicial to the legitimate interests of the company, the court may order that the hearing of the proceedings or any part of them shall be in camera.
+
+## CHAPTER 9 Form of registers, indices and minute books

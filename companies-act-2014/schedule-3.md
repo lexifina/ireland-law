@@ -174,9 +174,7 @@ II. Debtors (3)
 
 6. Prepayments
 
-7. Accrued income
-
-III. Investments
+7. Accrued income III. Investments
 
 1. Shares in group undertakings
 
@@ -262,7 +260,9 @@ IV. Other reserves
 
 4. Other reserves including the fair value reserve (specified as necessary)
 
-V. Profit or loss brought forward (10) VI. Profit or loss for the financial year (10).
+V. Profit or loss brought forward (10)
+
+VI. Profit or loss for the financial year (10).
 
 Format 2
 
@@ -422,9 +422,7 @@ The amount falling due after more than one year shall be shown separately for ea
 
 (4) Debenture loans
 
-(Format 1, item C. 1 and F. 1 and Format 2, item C.1)
-
-The amount of any convertible loans shall be shown separately and the terms and conditions under which those loans are convertible into share capital shall be disclosed in the notes to the financial statements.
+(Format 1, item C. 1 and F. 1 and Format 2, item C.1) The amount of any convertible loans shall be shown separately and the terms and conditions under which those loans are convertible into share capital shall be disclosed in the notes to the financial statements.
 
 (5) Payments received on account
 
@@ -440,7 +438,9 @@ The amount for creditors in respect of taxation and social insurance shall be sh
 
 (7) Deferred income
 
-(Format 1, items C. 11 and F. 11 and Format 2, items C.11) The amount in respect of Government grants, that is to say, grants made by or on behalf of the Government, included in this item shall be shown separately in a note to the financial statements unless it is shown separately in the balance sheet.
+(Format 1, items C. 11 and F. 11 and Format 2, items C.11)
+
+The amount in respect of Government grants, that is to say, grants made by or on behalf of the Government, included in this item shall be shown separately in a note to the financial statements unless it is shown separately in the balance sheet.
 
 (8) Called-up share capital
 
@@ -1048,7 +1048,9 @@ Guarantees and other financial commitments
 
 Information supplementing the profit and loss account
 
-59. Paragraphs 60 to 63 require information which either supplements the information given with respect to any particular items shown in the profit and loss account or otherwise provides particulars of income or expenditure of the company or of circumstances affecting the items shown in the profit and loss account. Separate statement of certain items of income and expenditure
+59. Paragraphs 60 to 63 require information which either supplements the information given with respect to any particular items shown in the profit and loss account or otherwise provides particulars of income or expenditure of the company or of circumstances affecting the items shown in the profit and loss account.
+
+Separate statement of certain items of income and expenditure
 
 60. Each of the following amounts shall be stated—
 
@@ -1606,11 +1608,11 @@ IV. Other reserves
 
 3. Reserves provided for by the constitution
 
-4. Other reserves including the fair value reserve (specify as necessary)
+4. Other reserves including the fair value reserve (specify as necessary) V. Profit or loss brought forward (8)
 
-V. Profit or loss brought forward (8)
+VI. Profit or loss for the financial year (8)
 
-VI. Profit or loss for the financial year (8) B. Provisions for liabilities
+B. Provisions for liabilities
 
 1. Retirement benefit and similar obligations
 
@@ -1668,7 +1670,9 @@ The amount falling due after more than one year shall be shown separately for ea
 
 (4) Debenture loans
 
-(Format 1, item C. 1 and F. 1 and Format 2, item C.1) The amount of any convertible loans shall be shown separately.
+(Format 1, item C. 1 and F. 1 and Format 2, item C.1)
+
+The amount of any convertible loans shall be shown separately.
 
 (5) Payments received on account
 

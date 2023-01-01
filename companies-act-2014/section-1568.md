@@ -1,3 +1,5 @@
+## authorities
+
 Transfer of audit documentation to third-country competent authority
 
 1568. (1) Subject to section 1569, audit working papers or other documents held by a statutory auditor or audit firm and inspection or investigation reports relating to the audits concerned may be transferred to a third-country competent authority only if the Supervisory Authority, on a request being made of it in that behalf by the first-mentioned authority, determines that the following conditions are complied with (and authorises such transfer accordingly), namely—

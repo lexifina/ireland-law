@@ -1,5 +1,3 @@
-## Quality assurance
-
 Quality assurance by Supervisory Authority of statutory audit of public-interest entities and third-country auditors, etc.
 
 1494. (1) The Supervisory Authority shall put in place a quality assurance system as set out in Article 26 of Regulation (EU) No 537/2014.

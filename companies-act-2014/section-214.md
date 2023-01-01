@@ -17,3 +17,5 @@ Use of computers, etc., for certain company records
 (6) Any computer (the “server computer”) that provides services to another computer, being services the provision of which to the latter is necessary so that the information of the kind referred in subsection (1) stored in the latter can be accessed at all times, shall be kept in a place in the State.
 
 (7) The Minister may, by regulations, make such provision, being provision in addition to subsection (4), as he or she considers appropriate in connection with such registers or other records as are mentioned in that subsection and are kept as there mentioned and may also, by regulations, provide for such exceptions to subsection (6) as he or she considers appropriate.
+
+## CHAPTER 10 Inspection of registers, provision of copies of information in them and service of notices

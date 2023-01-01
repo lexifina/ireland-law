@@ -58,4 +58,4 @@ Scope of penalties and publicity in relation to their imposition
 
 CHAPTER 9
 
-Actions to be taken after decision by recognised accountancy body that statutory auditor or audit firm of public-interest entity has committed relevant
+Actions to be taken after decision by recognised accountancy body that statutory auditor or audit firm of public-interest entity has committed

@@ -22,7 +22,7 @@ Obligation to prepare entity financial statements under relevant financial repor
 
 (6A) After a financial year in which the directors of a company prepare IFRS entity financial statements, the directors of the company may, notwithstanding that there is not a relevant change of circumstances as referred to in subsection (7), subsequently prepare Companies Act entity financial statements for the company provided they have not changed to preparing Companies Act entity financial statements in the period of 5 years preceding the first day of that financial year.
 
-(6B) For the purposes of calculating the 5 year period referred to in subsection (6A), the reference to ‘changed to Companies Act entity financial statements’ shall not be read as including a reference to a change to using those financial statements which was due to a relevant change in circumstances.
+(6B) For the purposes of calculating the 5 year period referred to in subsection (6A), the reference to "changed to Companies Act entity financial statements" shall not be read as including a reference to a change to using those financial statements which was due to a relevant change in circumstances.
 
 (7) There is a relevant change of circumstances where at any time during or after the first IFRS year—
 

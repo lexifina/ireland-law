@@ -22,9 +22,9 @@ Provisions disapplied to DACs
 
 Subject matter Provision disapplied
 
-Way of forming a private company limited by shares
+Way of forming a private company limited by
 
-Section 17
+Section 17 shares
 
 Company to carry on activity in the State and
 
@@ -34,9 +34,9 @@ Form of the constitution
 
 Section 19
 
-Certificate of incorporation to state that company is a
+Certificate of incorporation to state that
 
-Section 25(3) private company limited by shares
+Section 25(3) company is a private company limited by shares
 
 Provisions as to names of companies Section 26(1) to (4)
 
@@ -52,9 +52,9 @@ Capacity of private company limited by shares
 
 Section 38
 
-Variation of rights attached to special classes of shares
+Variation of rights attached to special classes
 
-Section 88
+Section 88 of shares
 
 Directors
 
@@ -64,6 +64,6 @@ Share qualifications of directors
 
 Section 136
 
-Liability as contributories of past and present members
+Liability as contributories of past and present
 
-Section 655
+Section 655 members

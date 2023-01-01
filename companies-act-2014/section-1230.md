@@ -26,17 +26,15 @@ Application of Parts 1 to 14 to unlimited companies
 
 (8) The specification in the foregoing Table of a provision (a “specified provision”) of Parts 1 to 14 also operates to disapply to the particular type of unlimited company concerned any other provision of those Parts (notwithstanding that it is not specified in that Table) that makes consequential, incidental or supplemental provision on, or in relation to, the specified provision.
 
-Table
-
-Part 1
+Table Part 1
 
 Provisions disapplied to ULCs
 
 Subject matter Provision disapplied
 
-Way of forming a private company limited by shares
+Way of forming a private company limited by
 
-Section 17
+Section 17 shares
 
 Company to carry on activity in the State and
 
@@ -56,9 +54,9 @@ Trading under a misleading name
 
 Section 27
 
-Amendment of constitution by special resolution
+Amendment of constitution by special
 
-Section 32(1)
+Section 32(1) resolution
 
 Capacity of private company limited by shares
 
@@ -68,7 +66,7 @@ Security for costs
 
 Section 52
 
-Conversion of existing private company to private Chapter 6 of Part 2 company limited by shares to which Parts 1 to 15 apply
+Conversion of existing private company to Chapter 6 of Part 2 private company limited by shares to which Parts 1 to 15 apply
 
 Returns of allotments Section 70(7) and (8)
 
@@ -78,23 +76,25 @@ Acquisition of own shares
 
 Section 105(2) and (3)
 
-Supplemental provisions in relation to section
+Supplemental provisions in relation to
 
-Section 106(4)
-
-105
+Section 106(4) section 105
 
 Directors
 
 Section 128
 
-Certain particulars to be shown on all business Section 151(2) to (4) letters Majority written resolutions
+Certain particulars to be shown on all Section 151(2) to (4) business letters
+
+Majority written resolutions
 
 Section 194
 
-Supplemental provisions in relation to section 194
+Supplemental provisions in relation to section
 
 Section 195
+
+194
 
 Directors’ compliance statement and related
 
@@ -114,9 +114,9 @@ Provisions disapplied to PUCs
 
 Subject matter Provision disapplied
 
-Way of forming a private company limited by shares
+Way of forming a private company limited by
 
-Section 17
+Section 17 shares
 
 Company to carry on activity in the State and
 
@@ -136,9 +136,9 @@ Trading under a misleading name
 
 Section 27
 
-Amendment of constitution by special resolution
+Amendment of constitution by special
 
-Section 32(1)
+Section 32(1) resolution
 
 Capacity of private company limited by shares
 
@@ -152,9 +152,9 @@ Allotment of shares
 
 Section 69
 
-Supplemental and additional provisions as regards
+Supplemental and additional provisions as
 
-Section 70 allotments
+Section 70 regards allotments
 
 Variation in capital Chapter 4 of Part 3 (other than sections 83, 89, 90, 92 and 93)
 
@@ -162,11 +162,9 @@ Acquisition of own shares
 
 Section 105(2) and (3)
 
-Supplemental provisions in relation to section
+Supplemental provisions in relation to
 
-Section 106(4)
-
-105
+Section 106(4) section 105
 
 Directors
 
@@ -178,27 +176,33 @@ Majority written resolutions
 
 Section 194
 
-Supplemental provisions in relation to section 194
+Supplemental provisions in relation to section
 
 Section 195
+
+194
 
 Directors’ compliance statement and related
 
 Section 225 statement
 
-Qualification of company based on size of Sections 280A to 280G company
+Qualification of company based on size
+
+Sections 280A to of company
+
+280G
 
 Exemption from consolidation: size of group ...
 
-Statutory financial statements must be audited
+Statutory financial statements must be
 
-Section 333
+Section 333 audited (unless audit exemption availed of)
 
-(unless audit exemption availed of)
+Exclusions, exemptions and special Chapter 14 of Part 6 arrangements with regard to public disclosure of financial information
 
-Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
+Audit exemption Chapter 15 of Part 6
 
-Audit exemption Chapter 15 of Part 6 Special audit exemption for dormant companies Chapter 16 of Part 6
+Special audit exemption for dormant Chapter 16 of Part 6 companies
 
 Small and medium companies
 
@@ -218,11 +222,9 @@ Provisions disapplied to PULCs
 
 Subject matter Provision disapplied
 
-Way of forming a private company limited by shares
+Way of forming a private company limited
 
-Section 17
-
-Company to carry on activity in the State and
+Section 17 by shares Company to carry on activity in the State and
 
 Section 18 prohibition of certain activities
 
@@ -240,19 +242,19 @@ Trading under a misleading name
 
 Section 27
 
-Amendment of constitution by special resolution
+Amendment of constitution by special
 
-Section 32(1)
+Section 32(1) resolution
 
-Capacity of private company limited by shares
+Capacity of private company limited by
 
-Section 38
+Section 38 shares
 
 Security for costs
 
 Section 52
 
-Conversion of existing private company to private Chapter 6 of Part 2 company limited by shares to which Parts 1 to 15 apply
+Conversion of existing private company to Chapter 6 of Part 2 private company limited by shares to which Parts 1 to 15 apply
 
 Powers to convert shares into stock, etc.
 
@@ -270,21 +272,17 @@ Allotment of shares and variation in capital Chapters 3 and 4 of Part 3
 
 Transfer of shares Chapter 5 of Part 3 (save section 94 in so far as it relates to debentures)
 
-Acquisition of own shares
+Acquisition of own shares Chapter 6 of Part 3 (save sections 113 to 116)
 
-Chapter 6 of
+Procedures for declarations, payments, etc.,
 
-Part 3
+Section 124 of dividends and other things
 
-(save sections 113 to 116)
-
-Procedures for declarations, payments, etc., of
-
-Section 124 dividends and other things
-
-Supplemental provisions in relation to section 124
+Supplemental provisions in relation to section
 
 Section 125
+
+124
 
 Bonus issues
 
@@ -298,7 +296,7 @@ Share qualifications of directors
 
 Section 136
 
-Certain particulars to be shown on all business Section 151(2) to (4) letters
+Certain particulars to be shown on all Section 151(2) to (4) business letters
 
 Definition of member
 
@@ -308,15 +306,21 @@ Majority written resolutions
 
 Section 194
 
-Supplemental provisions in relation to section 194
+Supplemental provisions in relation to section
 
 Section 195
+
+194
 
 Directors’ compliance statement and related
 
 Section 225 statement
 
-Qualification of company based on size of Sections 280A to 280G company
+Qualification of company based on size
+
+Sections 280A to of company
+
+280G
 
 Holding of own shares
 
@@ -326,17 +330,13 @@ Directors’ report as it relates to dividends
 
 Section 326(1)(d)
 
-Statutory financial statements must be audited
+Statutory financial statements must be
 
-Section 333
+Section 333 audited (unless audit exemption availed of)
 
-(unless audit exemption availed of)
+Exclusions, exemptions and special Chapter 14 of Part 6 arrangements with regard to public disclosure of financial information
 
-Exclusions, exemptions and special arrangements Chapter 14 of Part 6 with regard to public disclosure of financial information
-
-Audit exemption Chapter 15 of Part 6
-
-Special audit exemption for dormant companies Chapter 16 of Part 6
+Audit exemption Chapter 15 of Part 6 Special audit exemption for dormant Chapter 16 of Part 6 companies
 
 Small and medium companies
 

@@ -66,7 +66,7 @@ Interpretation (Part 6): provisions relating to financial statements
 
 (I) a profit and loss account, and
 
-(II) in the case of group financial statements, a consolidated profit and loss account, shall be read accordingly, and.
+(II) in the case of group financial statements, a consolidated profit and loss account, shall be read accordingly, and
 
 (b) subsection (4) supplements this definition;
 

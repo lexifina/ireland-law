@@ -26,9 +26,9 @@ Table
 
 Subject matter Provision disapplied
 
-Way of forming a private company limited by shares
+Way of forming a private company limited
 
-Section 17
+Section 17 by shares
 
 Company to carry on activity in the State and
 
@@ -38,9 +38,9 @@ Form of the constitution
 
 Section 19
 
-Certificate of incorporation to state that company
+Certificate of incorporation to state that
 
-Section 25(3) is a private company limited by shares
+Section 25(3) company is a private company limited by shares
 
 Provisions as to names of companies Section 26(1) to (4)
 
@@ -48,11 +48,11 @@ Trading under a misleading name
 
 Section 27
 
-Capacity of private company limited by shares
+Capacity of private company limited by
 
-Section 38
+Section 38 shares
 
-Conversion of existing private company to private Chapter 6 of Part 2 company limited by shares to which Parts 1 to 15 apply
+Conversion of existing private company to Chapter 6 of Part 2 private company limited by shares to which Parts 1 to 15 apply
 
 Power to convert shares into stock, etc.
 
@@ -70,21 +70,17 @@ Allotment of shares and variation in capital Chapters 3 and 4 of Part 3
 
 Transfer of shares Chapter 5 of Part 3 (save section 94 in so far as it relates to debentures)
 
-Acquisition of own shares
+Acquisition of own shares Chapter 6 of Part 3 (save sections 113 to 116)
 
-Chapter 6 of
+Procedures for declarations, payments, etc.,
 
-Part 3
+Section 124 of dividends and other things
 
-(save sections 113 to 116)
-
-Procedures for declarations, payments, etc., of
-
-Section 124 dividends and other things
-
-Supplemental provisions in relation to section 124
+Supplemental provisions in relation to section
 
 Section 125
+
+124
 
 Bonus issues
 
@@ -98,21 +94,23 @@ Share qualifications of directors
 
 Section 136
 
-Director voting on contract, etc., in which director
+Director voting on contract, etc., in which
 
-Section 161(7) is interested
+Section 161(7) director is interested
 
-Holding of any other office or place of profit under
+Holding of any other office or place of profit
 
-Section 162 the company by a director
+Section 162 under the company by a director
 
 Majority written resolutions
 
 Section 194
 
-Supplemental provisions in relation to section 194
+Supplemental provisions in relation to section
 
 Section 195
+
+194
 
 Holding of own shares
 

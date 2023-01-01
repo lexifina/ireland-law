@@ -18,7 +18,9 @@ Credit institutions: disclosures by holding company of aggregate amounts in resp
 
 (d) agreements to enter into guarantees or provide any security on behalf of relevant persons in connection with a loan, quasi-loan or credit transaction entered into with or for such persons;
 
-(e) arrangements referred to in subparagraph (i) or (ii) of either section 307(1)(e) or (2)(e) where the transactions referred to in that subparagraph (that is to say, transactions that, if they had been made by the institution, would have fallen into a preceding paragraph of section 307(1) or (2), as the case may be, or (in the case of that subparagraph (ii)) that subparagraph (i)) were entered into with or for relevant persons.
+(e) arrangements referred to in subparagraph (i) or (ii) of either section 307(1)(e) or
+
+(2)(e) where the transactions referred to in that subparagraph (that is to say, transactions that, if they had been made by the institution, would have fallen into a preceding paragraph of section 307(1) or (2), as the case may be, or (in the case of that subparagraph (ii)) that subparagraph (i)) were entered into with or for relevant persons.
 
 (2) The group financial statements of a company which is the holding company of a credit institution shall contain a statement, by way of notes to those statements, of the matters specified in subsection (3) in relation to transactions, arrangements or agreements made by the credit institution.
 

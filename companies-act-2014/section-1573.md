@@ -1,4 +1,4 @@
-## entities
+## audit entities
 
 Registration of third-country auditors and third-country audit entities
 

@@ -18,17 +18,15 @@ Definition of “subsidiary”
 
 Section 7
 
-Definitions of “holding company”, “wholly owned
+Definitions of “holding company”, “wholly
 
-Section 8 subsidiary” and “group of companies”
+Section 8 owned subsidiary” and “group of companies”
 
-Construction of references to directors, board of
+Construction of references to directors, board
 
-Section 11 directors and interpretation of certain other plural forms
+Section 11 of directors and interpretation of certain other plural forms
 
-Amendment of constitution by special resolution
-
-Section 32(3) and section and publication of certain notices 33(1)(b) to (h) and (2)
+Amendment of constitution by special Section 32(3) and section resolution and publication of certain notices 33(1)(b) to (h) and (2)
 
 Registered person
 
@@ -54,17 +52,17 @@ Share premium
 
 Section 71(5)
 
-Restriction of Section 71(5) in the case of mergers
+Restriction of Section 71(5) in the case of
 
-Section 72
+Section 72 mergers
 
-Restriction of Section 71(5) in the case of group
+Restriction of Section 71(5) in the case of
 
-Section 73 reconstructions
+Section 73 group reconstructions
 
-Supplementary provisions in relation to sections 72
+Supplementary provisions in relation to
 
-Section 74 and 73
+Section 74 sections 72 and 73
 
 Financial assistance for acquisition of shares
 
@@ -92,13 +90,13 @@ Register of directors and secretaries
 
 Section 149
 
-Supplemental provisions (including offences) in
+Supplemental provisions (including offences)
 
-Section 150 relation to section 149
+Section 150 in relation to section 149
 
-Particulars to be shown on all business letters of
+Particulars to be shown on all business letters
 
-Section 151 company
+Section 151 of company
 
 Summary Approval Procedure Chapter 7 of Part 4 (in so far as it relates to sections 82, 84 and 239)
 
@@ -110,37 +108,37 @@ Form of registers, minutes, etc.
 
 Section 213
 
-Use of computers, etc. for certain company records
+Use of computers, etc. for certain company
 
-Section 214
+Section 214 records
 
-Inspection of registers, provision of copies of Chapter 10 of Part 4 (in so far information in them and service of notices as it relates to provisions applied by section 1312)
+Inspection of registers, provision of copies of Chapter 10 of Part 4 (in so information in them and service of notices far as it relates to provisions applied by section 1312)
 
-Power of court to grant relief to officers of company
+Power of court to grant relief to officers of
 
-Section 233
+Section 233 company
 
-Anticipated claim: similar power of relief as under
+Anticipated claim: similar power of relief as
 
-Section 234 section 229
+Section 234 under section 229
 
-Any provision exempting officers of company from
+Any provision exempting officers of company
 
-Section 235 liability void (subject to exceptions)
+Section 235 from liability void (subject to exceptions)
 
-Evidential provisions with respect to loans, other Chapter 3 of Part 5 transactions, etc., between company and directors
+Evidential provisions with respect to loans, Chapter 3 of Part 5 other transactions, etc., between company and directors
 
-Substantive prohibitions or restrictions on loans to Chapter 4 of Part 5 directors and other particular transactions involving conflict of interest
+Substantive prohibitions or restrictions on Chapter 4 of Part 5 loans to directors and other particular transactions involving conflict of interest
 
-Disclosure of interests in shares and debentures Chapter 5 of Part 5
-
-Meaning of “in default” in context of sanctions
+Disclosure of interests in shares and Chapter 5 of Part 5 debentures Meaning of “in default” in context of sanctions
 
 Section 270 specified in respect of officers (whether directors or secretaries or not)
 
-Presumption that default permitted and certain
+Presumption that default permitted and
 
-Section 271 defence Financial statements, annual return and audit
+Section 271 certain defence
+
+Financial statements, annual return and audit
 
 Part 6
 
@@ -158,13 +156,13 @@ Investigations
 
 Part 13
 
-Court may order compliance by company or officer
+Court may order compliance by company or
 
-Section 797
+Section 797 officer
 
 Disclosure orders Chapter 2 of Part 14
 
-Restrictions on, and disqualification of, directors Chapters 3 to 6 of Part 14
+Restrictions on, and disqualification of, Chapters 3 to 6 of Part 14 directors
 
 Provisions relating to offences generally Chapter 7 of Part 14
 
@@ -176,19 +174,17 @@ Fees
 
 Section 889
 
-Inspection and production of documents kept by
+Inspection and production of documents kept
 
-Section 891
-
-Registrar
+Section 891 by Registrar
 
 Admissibility of certified copy or extract
 
 Section 892
 
-Certificate by Registrar admissible as evidence of
+Certificate by Registrar admissible as evidence
 
-Section 893 facts stated
+Section 893 of facts stated
 
 Capacity of a PLC
 
@@ -202,8 +198,10 @@ Share capital
 
 Chapter 3 of Part 17
 
-Interests in shares: disclosure of individual and group Chapter 4 of Part 17 acquisitions
+Interests in shares: disclosure of individual Chapter 4 of Part 17 and group acquisitions
 
-Mergers and divisions Chapters 16 and 17 of Part 17
+Mergers and divisions Chapters 16 and 17 of Part
 
-Public Offers of Securities, Financial Reporting by Part 23 (other than section Traded Companies, Prevention of Market Abuse, etc. 1374)
+17
+
+Public Offers of Securities, Financial Reporting Part 23 (other than section by Traded Companies, Prevention of Market 1374) Abuse, etc.
