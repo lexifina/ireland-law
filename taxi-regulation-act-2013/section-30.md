@@ -2,7 +2,9 @@
 
 Mandatory disqualification for holding small public service vehicle driver licences on certain convictions
 
-30. (1) In this section— appropriate court means—
+30. (1) In this section—
+
+"appropriate court" means—
 
 (a) in relation to a conviction—
 
@@ -18,7 +20,7 @@ Mandatory disqualification for holding small public service vehicle driver licen
 
 “licence” means a licence to drive a small public service vehicle;
 
-‘sexual offence’ means an offence referred to in paragraphs 5 to 11A of Part 1, or paragraphs 4 to 7A of Part 2 of the Schedule;
+"sexual offence" means an offence referred to in paragraphs 5 to 11A of Part 1, or paragraphs 4 to 7A of Part 2 of the Schedule;
 
 “specified offence” means—
 
@@ -42,13 +44,13 @@ Mandatory disqualification for holding small public service vehicle driver licen
 
 (II) from the end of the term of imprisonment imposed, a further period of—
 
-(A) 18 months, where the term of imprisonment imposed is not more than 3 years,
+(a) 18 months, where the term of imprisonment imposed is not more than 3 years,
 
-(B) 2 years, where the term of imprisonment imposed is more than 3 years but not more than 5 years,
+(b) 2 years, where the term of imprisonment imposed is more than 3 years but not more than 5 years,
 
-(C) 3 years, where the term of imprisonment imposed is more than 5 years but not more than 7 years, or
+(c) 3 years, where the term of imprisonment imposed is more than 5 years but not more than 7 years, or
 
-(D) 5 years, where the term of imprisonment imposed is more than 7 years.
+(d) 5 years, where the term of imprisonment imposed is more than 7 years.
 
 (3) Where a person being the applicant for, or the holder of, a licence is convicted after the commencement of this subsection of any of the following offences, namely—
 
