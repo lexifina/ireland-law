@@ -1,0 +1,3 @@
+Duration of entrustment act.
+
+6B. ...
