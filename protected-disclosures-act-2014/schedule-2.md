@@ -12,11 +12,17 @@ Decision under section 41 of Workplace Relations Act 2015
 
 (b) require the employer to take a specified course of action,
 
-(c) require the employer to pay to the employee compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all the circumstances, but not exceeding 260 weeks’ remuneration in respect of the employee’s employment calculated in accordance with regulations under section 17 of the Unfair Dismissals Act 1977.
+(c) subject to paragraph 2A, require the employer to pay to the employee compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all the circumstances, but not exceeding—
+
+(i) subject to clause (ii), 260 weeks’ remuneration in respect of the employee’s employment calculated in accordance with regulations under section 17 of the Unfair Dismissals Act 1977, or
+
+(ii) in the case of an employee who is a worker referred to in paragraph (h) of the definition of "worker" in section 3(1), and is not in receipt of remuneration, including allowances in the nature of pay and benefits in lieu of or in addition to pay, from the employer concerned, €15,000.
 
 Decision of Labour Court on appeal from decision referred to in paragraph 1
 
 2. A decision of the Labour Court under section 44 of the Workplace Relations Act 2015, on appeal from a decision of an adjudication officer referred to in paragraph 1, shall affirm, vary or set aside the decision of the adjudication officer.
+
+2A. Where the investigation of the relevant wrongdoing was not the sole or main motivation for making the protected disclosure concerned, in determining the amount of compensation that is just and equitable for the purposes of paragraph 1(c), the amount that would be just and equitable may be up to 25 per cent less than the amount that it would otherwise be.
 
 Paragraphs 1 and 2: supplementary provisions.
 
