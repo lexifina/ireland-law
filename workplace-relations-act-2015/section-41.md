@@ -70,9 +70,11 @@ Presentation of complaints and referral of disputes
 
 (ii) in the case of an employee to whom paragraph (b) of the definition of relevant parent within the meaning of that Act applies, the date on which the employer is informed that the expectant mother of the child concerned is pregnant, or
 
-(iii) in the case of a surviving parent within the meaning of that Act, the date on which the employer is informed that the qualifying adopter within the meaning of that Act or mother of the child, as the case may be, has died, and
+(iii) in the case of a surviving parent within the meaning of that Act, the date on which the employer is informed that the qualifying adopter within the meaning of that Act or mother of the child, as the case may be, has died,
 
-(g) in the case of a dispute relating to the entitlement of an employee under the Parent’s Leave and Benefit Act 2019, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute.
+(g) in the case of a dispute relating to the entitlement of an employee under the Parent’s Leave and Benefit Act 2019, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute,
+
+(h) in the case of a dispute relating to the entitlement of an employee under the Sick Leave Act 2022, it has been referred to the Director General after the expiration of the period of 6 months beginning on the day immediately following the date of the occurrence of the dispute.
 
 (8) An adjudication officer may entertain a complaint or dispute to which this section applies presented or referred to the Director General after the expiration of the period referred to in subsection (6) or (7) (but not later than 6 months after such expiration), as the case may be, if he or she is satisfied that the failure to present the complaint or refer the dispute within that period was due to reasonable cause.
 
