@@ -52,6 +52,8 @@ Acts of the Oireachtas
 
 22. Parent’s Leave and Benefit Act 2019
 
+23. Sick Leave Act 2022
+
 Part 2
 
 Provisions of Acts of Oireachtas
@@ -93,6 +95,8 @@ Provisions of Acts of Oireachtas
 18. Section 12(1) of the Protected Disclosures Act 2014
 
 19. Part 2 of the Industrial Relations (Amendment) Act 2015
+
+20. Section 6(3) of the Protected Disclosures Act 2014
 
 Part 3
 
