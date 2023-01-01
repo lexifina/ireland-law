@@ -6,4 +6,4 @@ Ministerial expenditure ceilings: provision of information to Minister.
 
 (3) Where the Minister requests information under subsection (1) the information shall be provided in such form and manner and within such period as the Minister may specify.
 
-(4) In this section, ‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+(4) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).

@@ -18,7 +18,7 @@ Performance of certain functions by Minister for Finance.
 
 (g) ...
 
-(h)National Asset Management Agency;
+(h) National Asset Management Agency;
 
 (i) Office of the Comptroller and Auditor General;
 
