@@ -40,6 +40,8 @@ BODIES TO WHICH THE DEFINITION OF “PUBLIC SERVICE BODY” DOES NOT APPLY
 
 19. Teilifís na Gaeilge.
 
+19A. Uisce Éireann.
+
 20. Voluntary Health Insurance Board.
 
 21. ...
