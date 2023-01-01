@@ -10,9 +10,9 @@ Part 1
 
 2. Section 9 or 10 of the Protection of Employment Act 1977
 
-3. Section 5 of the Payment of Wages Act 1991
+3. Sections 4B(1) and (2), 4C and 5 of the Payment of Wages Act 1991
 
-4. Section 3, 4, 5, 6 or 6C of the Terms of Employment (Information) Act 1994
+4. Section 3, 4, 5, 6, 6C, 6D, 6E, 6F or 6G of the Terms of Employment (Information) Act 1994
 
 5. Section 13 or 17 of the Protection of Young Persons (Employment) Act 1996
 
@@ -105,3 +105,5 @@ Part 3
 6. Parts 2 and 3 of the Paternity Leave and Benefit Act 2016
 
 7. Parts 2 and 3 of the Parent’s Leave and Benefit Act 2019
+
+8. Sick Leave Act 2022
