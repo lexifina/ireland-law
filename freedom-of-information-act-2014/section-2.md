@@ -54,7 +54,7 @@ Interpretation
 
 “give” includes send, whether by post, electronic or other means;
 
-‘HBFI group entity’ has the same meaning as it has in the Home Building Finance Ireland Act 2018;
+"HBFI group entity" has the same meaning as it has in the Home Building Finance Ireland Act 2018;
 
 “head” means head of an FOI body;
 

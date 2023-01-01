@@ -40,7 +40,7 @@ Meetings of the Government
 
 “record” includes a preliminary or other draft of the whole or part of the material contained in the record;
 
-‘‘Government’’ includes a committee of the Government, that is to say, a committee appointed by the Government whose membership consists of—
+"Government" includes a committee of the Government, that is to say, a committee appointed by the Government whose membership consists of—
 
 (a) members of the Government, or
 

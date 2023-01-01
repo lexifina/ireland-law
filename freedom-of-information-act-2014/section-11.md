@@ -14,7 +14,7 @@ Access to records
 
 (a) the need to achieve greater openness in the activities of FOI bodies and to promote adherence by them to the principle of transparency in government and public affairs,
 
-(b) the need to strengthen the accountability and improve the quality of decision-making of FOI bodies, and
+(b) the need to strengthen the accountability and improve the quality of decision- making of FOI bodies, and
 
 (c) the need to inform scrutiny, discussion, comment and review by the public of the activities of FOI bodies and facilitate more effective participation by the public in consultations relating to the role, responsibilities and performance of FOI bodies.
 
