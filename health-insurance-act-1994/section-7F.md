@@ -42,11 +42,11 @@ Overcompensated undertaking required to make payment to Exchequer if it has made
 
 (a) ...
 
-OJC 8/04, 11.01.2012, p.15
-
 (b) as soon as may be, make a determination as to whether or not the cumulative net financial impact of the relevant financial provisions on a registered undertaking or former registered undertaking is positive for—
 
 (i) ...
+
+OJC 8/04, 11.01.2012, p.15
 
 (ii) if paragraph (b) of subsection (4) is applicable, the period from 1 January of 2011 to the end of 2013,
 

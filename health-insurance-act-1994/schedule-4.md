@@ -70,13 +70,15 @@ Female aged 85 years and over on the date the €2,700.00 relevant contract (bei
 
 Female aged 85 years and over on the date the €2,700.00 relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be
 
-TABLE 2 AMOUNT APPLICABLE ON OR AFTER 1 APRIL 2022
+TABLE 2
+
+AMOUNT APPLICABLE ON OR AFTER 1 APRIL 2022
 
 Class of Insured Person Amount of premium to be paid from Fund
 
-Male aged 50 years and over but less than 55 years Nil on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be
+Male aged 50 years and over but less than 55 years Nil on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be Male aged 50 years and over but less than 55 years Nil on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be
 
-Male aged 50 years and over but less than 55 years Nil on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be Female aged 50 years and over but less than 55 Nil years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be
+Female aged 50 years and over but less than 55 Nil years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be
 
 Female aged 50 years and over but less than 55 Nil years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be
 
@@ -98,9 +100,9 @@ Female aged 60 years and over but less than 65 Nil years on the date the relevan
 
 Male aged 65 years and over but less than 70 years €325.00 on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be
 
-Male aged 65 years and over but less than 70 years €950.00 on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be
+Male aged 65 years and over but less than 70 years €950.00 on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be Female aged 65 years and over but less than 70 €150.00 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be
 
-Female aged 65 years and over but less than 70 €150.00 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be Female aged 65 years and over but less than 70 €500.00 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be
+Female aged 65 years and over but less than 70 €500.00 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be
 
 Male aged 70 years and over but less than 75 years €500.00 on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be
 
@@ -122,9 +124,9 @@ Male aged 80 years and over but less than 85 years €950.00 on the date the rel
 
 Male aged 80 years and over but less than 85 years €2,975.00 on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be
 
-Female aged 80 years and over but less than 85 €650.00 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be
+Female aged 80 years and over but less than 85 €650.00 years on the date the relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be Female aged 80 years and over but less than 85 €2,125.00 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be
 
-Female aged 80 years and over but less than 85 €2,125.00 years on the date the relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be Male aged 85 years and over on the date the €1,150.00 relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be
+Male aged 85 years and over on the date the €1,150.00 relevant contract (being a relevant contract (non-advanced cover)) is renewed or entered into, as the case may be
 
 Male aged 85 years and over on the date the €3,550.00 relevant contract (being a relevant contract (advanced cover)) is renewed or entered into, as the case may be
 
