@@ -6,4 +6,4 @@ Use of Personal Public Service Number (PPSN).
 
 (3) A paying authority may use the personal public service number of a pensioner as a unique identifier to record information in respect of a public service pension payable to the pensioner and, whenever it transfers information in relation to that pensioner to the Minister or another paying authority, it may use that number which shall, where appropriate, be deemed to have been supplied under subsection (1) or (2), as the case may be.
 
-(4) In this section ‘personal public service number’, in relation to a pensioner, has the meaning it has in section 262 of the Social Welfare Consolidation Act 2005.
+(4) In this section "personal public service number", in relation to a pensioner, has the meaning it has in section 262 of the Social Welfare Consolidation Act 2005.

@@ -4,7 +4,7 @@ Interpretation.
 
 “Act of 2009” means the Financial Emergency Measures in the Public Interest (No. 2) Act 2009;
 
-‘aggregation of public service pensions’ means the aggregation under subsection (3) of section 2 or subsection (5) of section 2A of two or more public service pensions payable to a pensioner for the purposes of the application of subsection (1) or (2) of section 2 or subsection (3) of section 2A, as the case may be, in relation to the pensioner;
+"aggregation of public service pensions" means the aggregation under subsection (3) of section 2 or subsection (5) of section 2A of two or more public service pensions payable to a pensioner for the purposes of the application of subsection (1) or (2) of section 2 or subsection (3) of section 2A, as the case may be, in relation to the pensioner;
 
 “Civil Service” means the Civil Service of the Government and the Civil Service of the State;
 
@@ -30,7 +30,7 @@ Interpretation.
 
 “paying authority”, in relation to a public service pension, means the person or body responsible for making payments of the public service pension under the public service pension scheme concerned, or causing such payments to be made, to or in respect of a public servant or former public servant;
 
-‘pension adjustment order’ means an order under—
+"pension adjustment order" means an order under—
 
 (a) section 12 of the Family Law Act 1995,
 

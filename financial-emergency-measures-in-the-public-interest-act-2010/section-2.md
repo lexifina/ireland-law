@@ -1,6 +1,6 @@
 Reduction in public service pension.
 
-2. (1) The annualised amount of a public service pension payable in accordance with his or her entitlement to a person who—
+2.— (1) The annualised amount of a public service pension payable in accordance with his or her entitlement to a person who—
 
 (a) is a pensioner, or
 
@@ -58,11 +58,11 @@ Annualised amount of public service pension Reduction
 
 Up to €17,000 Exempt
 
-Any amount over €17,000 but not over €24,000 8 per cent Any amount over €24,000 but not over €60,000 12 per cent
+Any amount over €17,000 but not over €24,000 8 per cent
 
-Any amount over €60,000 but not over €100,000 17 per cent
+Any amount over €24,000 but not over €60,000 12 per cent
 
-Any amount over €100,000 28 per cent
+Any amount over €60,000 but not over €100,000 17 per cent Any amount over €100,000 28 per cent
 
 TABLE B
 
