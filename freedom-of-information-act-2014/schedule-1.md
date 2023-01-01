@@ -188,11 +188,15 @@ Section 6 does not include a reference to—
 
 (II) an asset, or
 
-(III) an asset securing a loan, held or managed by Home Building Finance Ireland or any HBFI group entity.
+(III) an asset securing a loan, held or managed by Home Building Finance Ireland or any HBFI group entity;
+
+(an) the Office of the Protected Disclosures Commissioner, in the performance of the functions conferred on it by or under the Protected Disclosures Act 2014, other than insofar as it relates to records concerning the general administration of those functions.
 
 Part 2
 
-Exempt Agencies A board of management established under section 14 of the Education Act 1998, other than a board of management of a school established or maintained by an education and training board
+Exempt Agencies
+
+A board of management established under section 14 of the Education Act 1998, other than a board of management of a school established or maintained by an education and training board
 
 A bridge bank within the meaning of section 17 of the Central Bank and Credit Institutions (Resolution) Act 2011
 
@@ -210,9 +214,7 @@ Coillte Teoranta
 
 Commissioners for Irish Lights
 
-Córas Iompair Éireann Holding Company
-
-Cork Airport Authority plc.
+Córas Iompair Éireann Holding Company Cork Airport Authority plc.
 
 Drogheda Port Company
 
@@ -250,7 +252,9 @@ Port of Cork Company
 
 Port of Waterford Company
 
-Private Security Appeals Board Private Security Authority
+Private Security Appeals Board
+
+Private Security Authority
 
 Shannon Airport Authority plc.
 

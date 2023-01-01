@@ -32,7 +32,7 @@ Terms and conditions.
 
 Administration and support services.
 
-4. The Minister shall provide such administration and support services to the Disclosures Recipient as are necessary for the performance of his or her functions.
+4. ...
 
 Functions.
 
