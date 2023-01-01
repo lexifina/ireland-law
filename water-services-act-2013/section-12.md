@@ -1,3 +1,3 @@
-Borrowing by Board and subsidiary.
+Borrowing by Board and subsidiary. (Repealed)
 
 12.— ...
