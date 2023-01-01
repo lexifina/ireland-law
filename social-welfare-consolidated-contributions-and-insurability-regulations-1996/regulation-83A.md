@@ -1,4 +1,4 @@
-Certain former employees of An Post
+Certain former employees of An Post.
 
 83A. (1) This article applies to a person who—
 
@@ -14,7 +14,7 @@ Certain former employees of An Post
 
 (iv) continues to be so employed in a permanent and pensionable capacity by Premier Lotteries Ireland Ltd.
 
-(2) In sub-article (1) ‘employed in a permanent and pensionable capacity’ means employed under terms and conditions which provide—
+(2) In sub-article (1) "employed in a permanent and pensionable capacity" means employed under terms and conditions which provide—
 
 (a) that the person is employed in a permanent and pensionable capacity, and
 
@@ -30,4 +30,6 @@ Certain former employees of An Post
 
 (b) subject to section 13(2)(da) of the Act of 2005, where in any contribution week a payment is made to or for the benefit of an employed contributor in respect of reckonable earnings of that employed contributor, a contribution shall be payable by the employed contributor’s employer under section 13(2)(d) of the Act of 2005 at the rate of 2.35 per cent of those reckonable earnings, and
 
-(c) employment contributions paid under this subarticle in respect of a person shall be disregarded in determining whether the contribution conditions for any benefit other than carer’s benefit, parent’s benefit, widow’s (contributory) pension, widower’s (contributory) pension, surviving civil partner’s (contributory) pension, guardians payment (contributory) or occupational injuries benefits are satisfied.
+(c) employment contributions paid under this subarticle in respect of a person shall be disregarded in determining whether the contribution conditions for any benefit other than carer’s benefit, parent’s benefit, widow’s
+
+(contributory) pension, widower’s (contributory) pension, surviving civil partner’s (contributory) pension, guardians payment (contributory) or occupational injuries benefits are satisfied.

@@ -1,4 +1,4 @@
-Restriction on return of contributions
+Restriction on return of contributions.
 
 78. (1) The return of any contributions under this Chapter that have been paid by or in respect of an employed contributor, a special contributor, a self-employed contributor, an optional contributor or a voluntary contributor shall be subject to paragraphs (a) and (b) of section 341(9) of the Act of 2005.
 

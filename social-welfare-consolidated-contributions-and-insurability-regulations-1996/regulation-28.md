@@ -1,6 +1,6 @@
 ## Voluntary Contributors
 
-Application to become voluntary contributor
+Application to become voluntary contributor.
 
 28. The application to be made under section 24 of the Act of 2005 to become a voluntary contributor shall be made to the Minister, in writing in the form for the time being approved by him or her for that purpose, within sixty months after the end of the contribution year in which—
 

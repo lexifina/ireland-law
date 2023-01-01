@@ -2,11 +2,13 @@ Refund of contribution - payments to personal pensions.
 
 72C. (1) Section 91 of the Pensions Act, 1990 (No. 25 of 1990) is prescribed for the purpose of section 29C(2).
 
-(2) In this article— health contribution’ means a health contribution payable under section 5 of the Health Contributions Act, 1979;
+(2) In this article—
 
-‘pension payment’ means a payment specified in Section 29C in respect of any contribution year commencing on or after 1 January, 2003.
+"health contribution" means a health contribution payable under section 5 of the Health Contributions Act, 1979;
 
-‘allowable pension payment’ in relation to a contribution year and an insured person, means the amount of a pension payment made by the insured person on or after January 1, 2003, to the extent to which, as the case may be—
+"pension payment" means a payment specified in Section 29C in respect of any contribution year commencing on or after 1 January, 2003.
+
+"allowable pension payment" in relation to a contribution year and an insured person, means the amount of a pension payment made by the insured person on or after January 1, 2003, to the extent to which, as the case may be—
 
 (a) it is, by virtue of section 774 or 776 of the Taxes Consolidation Act 1997 (No. 39 of 1997), allowed as a deduction from emoluments for the purposes of an assessment to income tax on the insured person under Schedule E of the Income Tax Acts for the year of assessment corresponding to the contribution year, or
 

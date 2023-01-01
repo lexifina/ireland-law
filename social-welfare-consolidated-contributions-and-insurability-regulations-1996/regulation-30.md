@@ -1,4 +1,4 @@
-Evidence of reckonable income
+Evidence of reckonable income.
 
 30. A person applying to become a voluntary contributor shall—
 

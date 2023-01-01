@@ -1,4 +1,4 @@
-Return of contributions — maintenance arrangements
+Return of contributions — maintenance arrangements.
 
 72B. (1) In this article In this article maintenance means a payment made under or pursuant to a maintenance arrangement—
 

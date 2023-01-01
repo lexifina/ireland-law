@@ -1,4 +1,4 @@
-Commencement as voluntary contributor
+Commencement as voluntary contributor.
 
 29. A person who wishes to become a voluntary contributor under section 24 of the Act of 2005 shall elect to become a voluntary contributor—
 

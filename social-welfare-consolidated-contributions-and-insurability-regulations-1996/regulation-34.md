@@ -1,4 +1,4 @@
-Time limit for payment of voluntary contributions
+Time limit for payment of voluntary contributions.
 
 34. A voluntary contribution paid in one payment or in instalments shall be paid in full—
 
