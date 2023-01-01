@@ -1,12 +1,12 @@
-Return of employment contributions in respect of certain seafarers
+Return of employment contributions in respect of certain seafarers.
 
 72A. (1) In this article—
 
-‘qualifying ship’ has the meaning given to it in section 36 of the Act of 2005;
+"qualifying ship" has the meaning given to it in section 36 of the Act of 2005;
 
-‘qualifying seafarer’ has the meaning given to it in section 36 of the Act of 2005.
+"qualifying seafarer" has the meaning given to it in section 36 of the Act of 2005.
 
-(2) The period prescribed for the purposes of section 36(1) of the Act of 2005 is the period commencing on 1 January 2017 and expiring on 31 December 2022.
+(2) The period prescribed for the purposes of section 36(1) of the Act of 2005 is the period commencing on 1 January 2023 and expiring on 31 December 2028.
 
 (3) An application for a return of employment contributions under section 36(1) of the Act of 2005 shall be made—
 
@@ -16,7 +16,7 @@ Return of employment contributions in respect of certain seafarers
 
 (c) in the form for the time being approved by the Minister or the Collector- General, as appropriate, or in such other manner as the Minister or the Collector-General may accept as being sufficient in the circumstances.
 
-(4) The following vessels are prescribed for the purposes of paragraph (i) of the definition of ‘qualifying ship’ contained in section 36(3) of the Act of 2005 as not being included in that definition:
+(4) The following vessels are prescribed for the purposes of paragraph (i) of the definition of "qualifying ship" contained in section 36(3) of the Act of 2005 as not being included in that definition:
 
 (a) a fishing vessel;
 
