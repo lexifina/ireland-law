@@ -2,7 +2,7 @@ Definitions.
 
 2.— In this Act—
 
-‘Act of 1962’ means the Fisheries (Amendment) Act 1962;
+"Act of 1962" means the Fisheries (Amendment) Act 1962;
 
 “Act of 1980” means Fisheries Act 1980;
 
