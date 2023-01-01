@@ -40,6 +40,8 @@ Section 7
 
 18. Teilifís na Gaeilge.
 
+18A. Uisce Éireann.
+
 19. Railway Procurement Agency.
 
 20. Voluntary Health Insurance Board.

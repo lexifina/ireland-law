@@ -1,16 +1,12 @@
 Provision of information to Board and subsidiary.
 
-26.— (1) The subsidiary may request a relevant person to provide the subsidiary with such information—
+26.— (1) Uisce Éireannmay request a relevant person to provide Uisce Éireann with such information—
 
-(a) as the subsidiary may reasonably require to enable it to perform its functions under this Act, or
+(a) as Uisce Éireann may reasonably require to enable it to perform its functions under this Act, or
 
-(b) as the subsidiary could reasonably be expected to require, were functions (other than functions referred to in paragraph (a)) the same as or similar to those vested in a water services authority under the Act of 2007 conferred on it.
+(b) as Uisce Éireann could reasonably be expected to require, were functions (other than functions referred to in paragraph (a)) the same as or similar to those vested in a water services authority under the Act of 2007 conferred on it.
 
-(2) The Board may request a relevant person to provide the Board with such information—
-
-(a) as the Board may reasonably require to enable it to perform its functions under this Act, or
-
-(b) as the Board could reasonably be expected to require, were functions (other than functions referred to in paragraph (a)) the same as or similar to those vested in a water services authority under the Act of 2007 conferred on it.
+(2) ...
 
 (3) A relevant person shall comply with a request under this section.
 
@@ -38,4 +34,4 @@ Provision of information to Board and subsidiary.
 
 (h) any other person for the time being standing prescribed by order made by the Minister after consultation with the Data Protection Commissioner;
 
-(i) a customer within the meaning of the Gas (Interim) (Regulation) Act 2002, or a final customer within the meaning of the Act of 1999, of the Board.
+(i) a customer within the meaning of the Gas (Interim) (Regulation) Act 2002, or a final customer within the meaning of the Act of 1999.
