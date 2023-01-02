@@ -104,4 +104,4 @@ F54[Full eligibility.
 
 "civil partner" has the same meaning as it has in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
-"relevant date" means the date on which section 2 of the Health (General Practitioner Service and Alteration of Criteria for Eligibility) Act 2020 comes into operation. shall, subject to section 52(3), have limited eligibility for the services under this Part.
+"relevant date" means the date on which section 2 of the Health (General Practitioner Service and Alteration of Criteria for Eligibility) Act 2020 comes into operation.
