@@ -62,18 +62,6 @@ Restriction of Act
 
 (v) the Independent Reporting Commission established by the Agreement (within the meaning of the Independent Reporting Commission Act 2017),
 
-(d) a record relating to—
-
-(i) an inquiry within the meaning of section 42 of the Garda Síochána Act 2005, whether the record concerned is held by—
-
-(I) persons conducting the inquiry, or
-
-(II) on the dissolution of the inquiry, any other body having custody of such a record, other than—
-
-(A) a record relating to the appointment of a person to conduct an inquiry under section 42 of the Garda Síochána Act 2005, or
-
-(B) a record relating to the expenses or other matters concerning the general administration of an inquiry under that section,
-
 (e) a record relating to—
 
 (i) an inquiry into any matter by a tribunal to which the Tribunals of Inquiry (Evidence) Act 1921, is applied, whether the record concerned—
@@ -99,6 +87,8 @@ Restriction of Act
 (C) a record relating to the appointment of persons under section 7 or 8 of the Commissions of Investigation Act 2004,
 
 (ea) a record held by the CervicalCheck Tribunal (in this paragraph referred to as "the Tribunal") or, after the Tribunal has been dissolved, the Minister for Health, relating to the Tribunal, other than a record relating to the expenses of the Tribunal or other matters concerning the general administration of the Tribunal,
+
+(eb) a record relating to an investigation under section 15, 30, 47, 76 or 88 of the Assisted Decision-Making (Capacity) Act 2015 that has been, or is being, carried out by the Director of the Decision Support Service or a person to whom he or she has delegated his or her functions under section 98(2) of that Act.
 
 (f) a record held or created by the Attorney General or the Director of Public Prosecutions or the Office of the Attorney General or the Office of Director of Public Prosecutions, other than a record relating to general administration,
 
