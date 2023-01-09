@@ -1,6 +1,6 @@
 Supplementary welfare allowance — amendments.
 
-11.— (1) The Principal Act is amended in the manner specified in Schedule 2.
+11.— (1) The Principal Act is amended in the manner specified in Schedule 2 .
 
 (2) Schedule 1 to the Social Welfare and Pensions Act 2008 is amended by—
 
@@ -18,6 +18,6 @@ Section 207 Repeal this section.
 
 ”, and
 
-(c) [...]
+(c) ...
 
-(3) [...]
+(3) ...

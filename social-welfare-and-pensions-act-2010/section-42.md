@@ -4,7 +4,9 @@ New Part IVA of Principal Act.
 
 ## “PART IVA APPROVAL OF CERTAIN POLICIES OR CONTRACTS OF ASSURANCE
 
-53A.— In this Part ‘undertaking’ means an undertaking within the meaning of the Insurance Act 1989. 53B.— (1) The Board may approve a policy or contract of assurance, submitted to the Board by an undertaking in that behalf, in respect of schemes that are approved by the Revenue Commissioners under Chapter 1 of Part 30 of the Taxes Consolidation Act 1997, where it is satisfied that the policy or contract of assurance secures the benefits payable—
+53A.— In this Part ‘undertaking’ means an undertaking within the meaning of the Insurance Act 1989.
+
+53B.— (1) The Board may approve a policy or contract of assurance, submitted to the Board by an undertaking in that behalf, in respect of schemes that are approved by the Revenue Commissioners under Chapter 1 of Part 30 of the Taxes Consolidation Act 1997, where it is satisfied that the policy or contract of assurance secures the benefits payable—
 
 (a) to the scheme in respect of a person who under the scheme—
 

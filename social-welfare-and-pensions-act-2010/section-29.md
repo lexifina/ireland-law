@@ -34,4 +34,4 @@ Functions of Minister in relation to employment schemes and related schemes and 
 
 (4) The Minister shall not be, or be deemed to be, an employer, within the meaning of the Terms of Employment (Information) Acts 1994 and 2001 by reason only of the provision of funding by him or her to a person pursuant to a scheme or programme provided under this section.”.
 
-(2) The Principal Act is amended in the manner specified in Schedule 1.
+(2) The Principal Act is amended in the manner specified in Schedule 1 .

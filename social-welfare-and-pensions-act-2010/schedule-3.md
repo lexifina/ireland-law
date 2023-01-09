@@ -28,15 +28,15 @@ Item No. Provision affected Amendment
 
 11 Sections 160(1), 161E(2) and Insert 161E(3)
 
-12 Sections 160(2) and 160(3) Insert
+12 Sections 160(2) and 160(3) Insert Item No. Provision affected Amendment
+
+(1) (2) (3)
 
 13 Sections 241(2)(c), 248(2)(f), Insert
 
 14 Section 287(1) and Schedule Insert 3, Part 5, Rule 1.(2)(b)(ii)
 
-15 Section 241(2)(c) Substitute “widowed or surviving civil Item No. Provision affected Amendment
-
-(1) (2) (3)
+15 Section 241(2)(c) Substitute “widowed or surviving civil
 
 16 Sections 247(1)(a), 247(1)(b), Substitute “widowed or surviving civil
 

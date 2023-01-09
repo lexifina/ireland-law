@@ -22,4 +22,4 @@ No. Provision affected Amendment
 
 8 Section 198B(b) Substitute “a designated person” for “the
 
-9 [...] [...]
+9 ... ...
