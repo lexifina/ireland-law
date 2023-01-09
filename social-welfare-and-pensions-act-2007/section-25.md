@@ -32,4 +32,4 @@ Supplementary welfare allowance — amendments.
 
 (3D) The Executive may determine that a payment referred to in subsection (3) is not payable where a notification is received by the Executive from a housing authority (within the meaning of the Housing (Miscellaneous Provisions) Act 1992) regarding non-compliance with standards prescribed for the time being under section 18 of the Housing (Miscellaneous Provisions) Act 1992.”.
 
-(2) [...]
+(2) ...

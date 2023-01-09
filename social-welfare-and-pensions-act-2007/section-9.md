@@ -12,7 +12,7 @@ Jobseeker’s allowance, pre-retirement allowance, disability allowance and farm
 
 (g) Where for any period of not less than 4 consecutive weeks after the commencement of section 9 of the Social Welfare and Pensions Act 2007, a claimant whose means were calculated in accordance with paragraph (e) ceases to be entitled to or in receipt of jobseeker’s allowance, paragraph (d) shall apply to any subsequent claims.”,
 
-(b) [...]
+(b) ...
 
 (c) by substituting the following section for section 146:
 
@@ -38,7 +38,7 @@ Jobseeker’s allowance, pre-retirement allowance, disability allowance and farm
 
 (e) in section 150—
 
-(i) [...]
+(i) ...
 
 (ii) by substituting the following for subsection (3):
 
@@ -58,7 +58,7 @@ Jobseeker’s allowance, pre-retirement allowance, disability allowance and farm
 
 (g) in section 211—
 
-(i) [...]
+(i) ...
 
 (ii) by substituting the following for subsection (3):
 
@@ -76,7 +76,7 @@ Jobseeker’s allowance, pre-retirement allowance, disability allowance and farm
 
 (5) Where for any period of not less than 4 consecutive weeks after the commencement of section 9 of the Social Welfare and Pensions Act 2007, a claimant whose means were calculated in accordance with subsection (3) ceases to be entitled to or in receipt of farm assist, subsection (2) shall apply to any subsequent claims.”,
 
-(i) [...]
+(i) ...
 
 (j) by substituting the following section for section 216:
 
