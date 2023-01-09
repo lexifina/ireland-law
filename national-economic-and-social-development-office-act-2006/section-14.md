@@ -1,6 +1,6 @@
 Composition of Council.
 
-14.— (1) The Council shall consist of a chairperson, a deputy chairperson and such number of ordinary members as the Taoiseach may determine in accordance with subsection (3) .
+14.— (1) The Council shall consist of a chairperson, a deputy chairperson and such number of ordinary members as the Taoiseach may determine in accordance with subsection (3).
 
 (2) The members of the Council shall be appointed by the Taoiseach.
 
