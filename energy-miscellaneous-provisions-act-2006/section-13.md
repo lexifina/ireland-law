@@ -1,6 +1,6 @@
 Amendment of Act of 1999 relating to gas safety and gas installers.
 
-13.— The Act of 1999 is amended by the insertion after section 9E (inserted by section 4) of the following sections:
+13.— The Act of 1999 is amended by the insertion after section 9E (inserted by section 4 ) of the following sections:
 
 “Regulation of gas installers.
 
@@ -254,9 +254,7 @@ Amendment of Act of 1999 relating to gas safety and gas installers.
 
 (iii) the terms ‘lease’, ‘landlord’, ‘tenant’, and ‘tenancy’ as they are used in paragraph (b)(i), are to be interpreted in accordance with the meaning given to them by section 5 of the Residential Tenancies Act 2004, and
 
-(iv) the terms ‘lease’, ‘lessee’, ‘landlord’ and ‘tenant’ as they are used in paragraph (b)(ii) are to be interpreted in accordance with the meaning given to them by section 3 of the Landlord and Tenant (Amendment) Act 1980.
-
-9I.— (1) A transmission system operator or a distribution system operator in relation to natural gas may appoint a person to be a gas emergency officer for the purposes of this section.
+(iv) the terms ‘lease’, ‘lessee’, ‘landlord’ and ‘tenant’ as they are used in paragraph (b)(ii) are to be interpreted in accordance with the meaning given to them by section 3 of the Landlord and Tenant (Amendment) Act 1980. 9I.— (1) A transmission system operator or a distribution system operator in relation to natural gas may appoint a person to be a gas emergency officer for the purposes of this section.
 
 (2) A gas emergency officer may, subject to the provisions of this section, enter and inspect any land (with force if he or she considers it necessary in the circumstances) without giving notice or obtaining the consent of any person, and there take such measures as the officer considers appropriate for the protection of any person or any property from any danger arising from natural gas.
 
@@ -272,7 +270,7 @@ Amendment of Act of 1999 relating to gas safety and gas installers.
 
 (a) instruct any person to evacuate any place until such time as the premises are, in the opinion of the officer, safe,
 
-(b) instruct any person to perform or refrain from performing any act, if in the opinion of the officer, the performance or non-perfor-mance of such act is necessary in order to reduce or prevent any danger arising from natural gas,
+(b) instruct any person to perform or refrain from performing any act, if in the opinion of the officer, the performance or non-performance of such act is necessary in order to reduce or prevent any danger arising from natural gas,
 
 (c) search for any escaped natural gas, or any leak or defect in any pipeline or natural gas fitting,
 
@@ -338,7 +336,7 @@ Amendment of Act of 1999 relating to gas safety and gas installers.
 
 (a) instruct any person to evacuate any premises until such time as the premises are, in the opinion of the officer, safe,
 
-(b) instruct any person to perform or refrain from performing any act, if in the opinion of the officer, the performance or non-perfor-mance of such act is necessary in order to reduce or prevent any danger arising from natural gas,
+(b) instruct any person to perform or refrain from performing any act, if in the opinion of the officer, the performance or non-performance of such act is necessary in order to reduce or prevent any danger arising from natural gas,
 
 (c) search for any escaped natural gas, or any leak or defect in any pipeline or natural gas fitting,
 

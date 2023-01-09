@@ -4,7 +4,7 @@ Mine rehabilitation plan.
 
 (a) is wholly or mainly necessary for the purpose of public or animal health or safety, for the protection of the environment or is otherwise in the public interest, and
 
-(b) it is not feasible to expect that the site will otherwise be rehabilitated within a reasonable time having regard to paragraph (a), then the Minister, a local authority as agent of the Minister under section 26 or a local authority acting on its own behalf with the consent of the Minister─
+(b) it is not feasible to expect that the site will otherwise be rehabilitated within a reasonable time having regard to paragraph (a) , then the Minister, a local authority as agent of the Minister under section 26 or a local authority acting on its own behalf with the consent of the Minister─
 
 (i) may prepare a plan for the long-term rehabilitation of the site (“mine rehabilitation plan”), and
 
@@ -12,7 +12,7 @@ Mine rehabilitation plan.
 
 (2) A mine rehabilitation plan, whether or not implemented, may be revised from time to time—
 
-(a) by a local authority acting as agent of the Minister under section 26(1),
+(a) by a local authority acting as agent of the Minister under section 26 (1) ,
 
 (b) by the local authority concerned with the consent of the Minister,
 
@@ -34,6 +34,6 @@ Mine rehabilitation plan.
 
 (c) any other person who may have obligations in respect of the site of the former mine, and may consult such any other person, including any group or association of persons, as the Minister or the local authority (as the case may be) considers appropriate in the circumstances.
 
-(5) In revising a mine rehabilitation plan, the Minister or a local authority (as the case may be) shall, where appropriate, consult with each of the persons referred to in subsection (4).
+(5) In revising a mine rehabilitation plan, the Minister or a local authority (as the case may be) shall, where appropriate, consult with each of the persons referred to in subsection (4) .
 
 (6) Nothing in this Part shall be read as requiring the Minister or a local authority (as the case may be) to implement a plan prepared under this section.

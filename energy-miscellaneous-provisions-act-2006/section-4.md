@@ -1,6 +1,6 @@
 Functions of Commission regarding electrical safety and regulation of electrical contractors.
 
-4.— The Act of 1999 is amended by the insertion after section 9B (inserted by section 3) of the following sections—
+4.— The Act of 1999 is amended by the insertion after section 9B (inserted by section 3 ) of the following sections—
 
 “Function of Commission relating to electrical safety.
 

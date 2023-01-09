@@ -28,7 +28,9 @@ Power of Bord Gáis Éireann to create capital stock.
 
 (2) Subject to the provisions of this Act, the Minister for Communications, Marine and Natural Resources may, in respect of the capital stock held by him or her, exercise all the rights or powers of a holder of such capital stock and, where such right or power is exercisable by attorney, exercise it by his or her attorney.
 
-(3) The Minister for Communications, Marine and Natural Resources shall not sell, exchange, surrender or otherwise dispose of all or any of the capital stock in the Board held by him or her without the prior consent of the Minister for Finance. 7D.— If further legislation is enacted after the passing of this Act to reconstitute the Board as a company, then the capital stock shall be converted into ordinary share capital in the company in a manner so that the new share holdings in the company equate with the capital stock holdings in the Board immediately before the reconstitution of the Board as a company.
+(3) The Minister for Communications, Marine and Natural Resources shall not sell, exchange, surrender or otherwise dispose of all or any of the capital stock in the Board held by him or her without the prior consent of the Minister for Finance.
+
+7D.— If further legislation is enacted after the passing of this Act to reconstitute the Board as a company, then the capital stock shall be converted into ordinary share capital in the company in a manner so that the new share holdings in the company equate with the capital stock holdings in the Board immediately before the reconstitution of the Board as a company.
 
 7E.— (1) The Board may make a scheme (in this section referred to as a ‘capital stock scheme’) as respects—
 

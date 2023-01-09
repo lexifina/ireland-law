@@ -36,8 +36,8 @@ Certain development approvals under Part XI of Planning and Development Act 2000
 
 (a) under section 34 or 37G of the Act of 2000, and
 
-(b) granted after the commencement of the amendments of that Act made by the Act of 2006, is required, either in circumstances generally or in the circumstances referred to in subsection (5), in respect of the terminal referred to in subsection (6).
+(b) granted after the commencement of the amendments of that Act made by the Act of 2006, is required, either in circumstances generally or in the circumstances referred to in subsection (5) , in respect of the terminal referred to in subsection (6) .
 
 (5) The circumstances mentioned in subsection (4) are that an application is made under section 182C in relation to a development which, if it is carried out, will consist of the alteration or modification of the terms of the strategic gas infrastructure development referred to in subsection (6) other than the terms of that development that comprise the terminal referred to in that subsection.
 
-(6) The terminal mentioned in subsections (4) and (5) is a terminal comprised in a strategic gas infrastructure development (within the meaning of the Act of 2000) the pipeline comprised in which development has been the subject of a consent referred to in subsection (3)(iii)(I).
+(6) The terminal mentioned in subsections (4) and (5) is a terminal comprised in a strategic gas infrastructure development (within the meaning of the Act of 2000) the pipeline comprised in which development has been the subject of a consent referred to in subsection (3) (iii) (I) .

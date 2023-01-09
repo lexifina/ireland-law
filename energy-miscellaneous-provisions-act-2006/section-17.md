@@ -16,12 +16,14 @@ Amendment of section 10A of Act of 1976.
 
 (v) a customer purchasing natural gas which is not exclusively for his or her household use, and
 
-(vi) subject to the provisions of section 17(2) of the Energy (Miscellaneous Provisions) Act 2006, with effect from the coming into operation of this paragraph, any person.”.
+(vi) subject to the provisions of section
 
-(2) (a) Subject to the provisions of this subsection, subparagraph (vi) of section 10A(2)(b) of the Gas Act 1976 (inserted by subsection (1)) shall come into operation on—
+17 (2) of the Energy (Miscellaneous Provisions) Act 2006, with effect from the coming into operation of this paragraph, any person.”.
+
+(2) (a) Subject to the provisions of this subsection, subparagraph (vi) of section 10A(2)(b) of the Gas Act 1976 (inserted by subsection (1) ) shall come into operation on—
 
 (i) such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different provisions or different purposes and in particular the Minister may in any such order under this section specify or delimit a geographical area as respects which the order is to apply, or
 
 (ii) to the extent that subparagraph (vi) has not previously been commenced, the 1st day of July 2007, whichever is the earlier.
 
-(b) Before making an order under paragraph (a)(i) the Minister shall consult the Commission which shall indicate to the Minister whether, in its opinion, the making of such an order would be in the best interests of the natural gas market and natural gas consumers in the State generally or any part of the State.
+(b) Before making an order under paragraph (a) (i) the Minister shall consult the Commission which shall indicate to the Minister whether, in its opinion, the making of such an order would be in the best interests of the natural gas market and natural gas consumers in the State generally or any part of the State.

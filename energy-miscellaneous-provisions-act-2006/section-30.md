@@ -1,4 +1,4 @@
-Scope of Part 9.
+Scope of Part 9 .
 
 30.— (1) This Part is in addition to, and not in substitution or restrictive of, any other requirement or obligation imposed by law.
 

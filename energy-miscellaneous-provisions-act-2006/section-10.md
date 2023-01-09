@@ -6,7 +6,7 @@ Amendment of Schedule to Act of 1999.
 
 (b) in section 8(3) by substituting “Schedule 1” for “The Schedule”.
 
-(2) Schedule 1 to the Act of 1999 (as renumbered by subsection (1)) is amended—
+(2) Schedule 1 to the Act of 1999 (as renumbered by subsection (1) ) is amended—
 
 (a) in paragraph 2, by the deletion of “, to hold office in a full-time capacity for a period of not less than three and not more than five years”,
 

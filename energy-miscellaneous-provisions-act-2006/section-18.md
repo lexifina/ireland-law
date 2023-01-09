@@ -16,9 +16,11 @@ Amendment of section 10B of Act of 1976.
 
 (v) a customer purchasing natural gas which is not exclusively for his or her household use, and
 
-(vi) subject to the provisions of section 18(2) of the Energy (Miscellaneous Provisions) Act 2006, with effect from the coming into operation of this subparagraph, any person.”.
+(vi) subject to the provisions of section
 
-(2) Subject to the provisions of this subsection, subparagraph (vi) of section 10B(1)(b) of the Gas Act 1976 (inserted by subsection (1)) shall come into operation on—
+18 (2) of the Energy (Miscellaneous Provisions) Act 2006, with effect from the coming into operation of this subparagraph, any person.”.
+
+(2) Subject to the provisions of this subsection, subparagraph (vi) of section 10B(1)(b) of the Gas Act 1976 (inserted by subsection (1) ) shall come into operation on—
 
 (a) such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different provisions or different purposes, or
 

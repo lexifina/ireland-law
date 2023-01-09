@@ -4,7 +4,7 @@ Power of Minister to acquire lands, etc.
 
 (a) purchase by agreement such lands, or rights in, under or over such lands or any substratum of such lands, as the Minister considers necessary or expedient for the purposes of that plan;
 
-(b) by order acquire compulsorily lands, or rights in, under or over lands or any substratum of lands, that are specified in an order made under subsection (2).
+(b) by order acquire compulsorily lands, or rights in, under or over lands or any substratum of lands, that are specified in an order made under subsection (2) .
 
 (2) (a) If for the purposes of any mine rehabilitation plan the Minister thinks it necessary or expedient to acquire compulsorily any land, or rights in, under or over land or any substratum of land, then the Minister may, with the consent of the Minister for Finance, by order declare his or her intention to so acquire such land or rights. Every such order shall operate to confer on the Minister power to acquire compulsorily in accordance with this section the land or rights concerned.
 
@@ -16,7 +16,7 @@ Power of Minister to acquire lands, etc.
 
 (iii) if he or she considers it expedient so to do, cause a public inquiry to be held in regard to the making of the order.
 
-(3) (a) Where, immediately before an order is made by the Minister under this section, any person has any estate, right, easement, title or other interest in, over or in respect of the land acquired by the order, the person may apply to the Minister at any time after the making of the order for compensation in respect of that interest and the Minister shall, subject to subsection (4), thereupon pay to the person by way of compensation an amount equal to the value (if any), on the date of the order, of that interest together with interest at such rate as the Minister, with the consent of the Minister for Finance, may determine from time to time, on the amount from that date to the date of payment thereof.
+(3) (a) Where, immediately before an order is made by the Minister under this section, any person has any estate, right, easement, title or other interest in, over or in respect of the land acquired by the order, the person may apply to the Minister at any time after the making of the order for compensation in respect of that interest and the Minister shall, subject to subsection (4) , thereupon pay to the person by way of compensation an amount equal to the value (if any), on the date of the order, of that interest together with interest at such rate as the Minister, with the consent of the Minister for Finance, may determine from time to time, on the amount from that date to the date of payment thereof.
 
 (b) The compensation to be paid under this paragraph in respect of any estate, right, easement, title or interest of any kind in, over or in respect of land shall, in default of agreement, be determined by arbitration under and in accordance with the Acquisition of Land (Assessment of Compensation) Act 1919.
 

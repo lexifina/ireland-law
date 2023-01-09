@@ -44,7 +44,7 @@ Functions of Commission regarding all-island energy market.
 
 (a) the generation, supply, transmission, distribution and trading, including the export or import, of electricity, including electricity generated from renewable sources,
 
-(b) the storage, supply, transmission, distribution and trading , including the export and import, of natural gas,
+(b) the storage, supply, transmission, distribution and trading, including the export and import, of natural gas,
 
 (c) energy efficiency services,
 
