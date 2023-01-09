@@ -30,7 +30,7 @@ Conditions of membership.
 
 (h) is disqualified or restricted from being a director of any company (within the meaning of the Companies Acts).
 
-(8) A disqualification pursuant to an order of a court referred to in subsection (7) (d) , (f) , (g) or (h) shall not take effect until the ordinary time for appealing against any such order has expired, or if an appeal is lodged within that time, until any such appeal, or a further appeal therefrom is determined.
+(8) A disqualification pursuant to an order of a court referred to in subsection (7)(d), (f), (g) or (h) shall not take effect until the ordinary time for appealing against any such order has expired, or if an appeal is lodged within that time, until any such appeal, or a further appeal therefrom is determined.
 
 (9) A member of a body may at any time resign his or her membership by letter addressed to the Taoiseach and the resignation shall take effect from the date specified therein or upon receipt of the letter by the Taoiseach, whichever is the later.
 

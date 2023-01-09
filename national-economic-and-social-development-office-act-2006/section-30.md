@@ -10,6 +10,6 @@ Seal of Office.
 
 (c) two officers of the Office, authorised by the Office to act in that behalf.
 
-(3) Judicial notice shall be taken of the seal of the Office and every document purporting to be an instrument made by the Office and to be sealed with the seal of the Office (purporting to be authenticated in accordance with subsection (2) ) shall be received in evidence and be deemed to be such instrument without proof unless the contrary is shown.
+(3) Judicial notice shall be taken of the seal of the Office and every document purporting to be an instrument made by the Office and to be sealed with the seal of the Office (purporting to be authenticated in accordance with subsection (2)) shall be received in evidence and be deemed to be such instrument without proof unless the contrary is shown.
 
 (4) Any contract or instrument which if entered into or executed by an individual, would not require to be under seal may be entered into or executed on behalf of the Office by a member of the staff of the Office or a person generally or specially authorised by the Office for that purpose.
