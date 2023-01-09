@@ -1,8 +1,6 @@
 Amendment of rules 17 and 88 of Second Schedule to European Parliament Elections Act 1997.
 
-13.— The Second Schedule to the European Parliament Elections Act 1997 is amended—
-
-(a) in rule 17—
+13.— The Second Schedule to the European Parliament Elections Act 1997 is amended— (a) in rule 17—
 
 (i) in paragraph (a)(i) by substituting “six” for “four”, and
 

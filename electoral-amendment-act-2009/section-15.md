@@ -96,9 +96,7 @@ Substitution of articles 11 to 20 of Local Elections Regulations.
 
 (3) The amount of the deposit shall be €100 in the case of an election of members of a county or city council and €50 in the case of any other election.
 
-(4) The deposit that may be made by or on behalf of a candidate pursuant to this article may be made by means of legal tender or, with the consent of the returning officer, in any other manner.
-
-16.— (1) The deposit made by or on behalf of a candidate in respect of a local electoral area shall be returned where the candidate—
+(4) The deposit that may be made by or on behalf of a candidate pursuant to this article may be made by means of legal tender or, with the consent of the returning officer, in any other manner. 16.— (1) The deposit made by or on behalf of a candidate in respect of a local electoral area shall be returned where the candidate—
 
 (a) withdraws his or her candidature in accordance with article 22 in respect of the local electoral area,
 
@@ -128,9 +126,7 @@ Substitution of articles 11 to 20 of Local Elections Regulations.
 
 (3) The returning officer shall attend to receive nominations at the place specified in that behalf in the notice of election between the hours of 10 a.m. and 12 noon and between the hours of 2 p.m. and 5 p.m. on the day (disregarding any excluded day) before the latest day for receiving nominations and between the hours of 10 a.m. and 12 noon on such latest day.
 
-19.— The returning officer shall number the nomination papers in the order in which they are received and the first valid nomination paper received by the returning officer nominating a candidate for election for a local electoral area shall be deemed to be the nomination of that candidate for that local electoral area.
-
-20.— (1) (a) The returning officer shall rule on the validity of each nomination paper within one hour after its delivery and may rule that it is invalid if, but only if, the returning officer considers that the paper is not properly made out or signed.
+19.— The returning officer shall number the nomination papers in the order in which they are received and the first valid nomination paper received by the returning officer nominating a candidate for election for a local electoral area shall be deemed to be the nomination of that candidate for that local electoral area. 20.— (1) (a) The returning officer shall rule on the validity of each nomination paper within one hour after its delivery and may rule that it is invalid if, but only if, the returning officer considers that the paper is not properly made out or signed.
 
 (b) Without prejudice to paragraph (a), the returning officer may also rule that the nomination paper of a candidate referred to in article 14(7)(a) is invalid if he or she considers that the provisions of sub-articles (7)(a) and (8) of article 14 have not been complied with.
 

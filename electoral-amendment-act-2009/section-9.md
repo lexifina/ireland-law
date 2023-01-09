@@ -124,7 +124,9 @@ Substitution of Part II of Electoral Act 1997.
 
 (2) The Director General of the Central Statistics Office and the Chief Executive Officer of Ordnance Survey Ireland shall, on a request being made in that behalf, provide free of charge to a Constituency Commission such assistance as the Commission may reasonably require for the purpose of the performance of its functions.
 
-12.— The reasonable expenses of a Constituency Commission, including the travelling and other expenses of the members of the Commission, shall, subject to such conditions as the Minister with the consent of the Minister for Finance may determine, be paid out of moneys provided by the Oireachtas. 13.— Subject to the provisions of this Act, a Constituency Commission shall regulate its own procedure.
+12.— The reasonable expenses of a Constituency Commission, including the travelling and other expenses of the members of the Commission, shall, subject to such conditions as the Minister with the consent of the Minister for Finance may determine, be paid out of moneys provided by the Oireachtas.
+
+13.— Subject to the provisions of this Act, a Constituency Commission shall regulate its own procedure.
 
 14.— (1) No person shall, without the consent of a Constituency Commission, disclose to any person any information obtained while serving as (or during service as) a member of the Commission or as a person whose services are made available to the Commission under section 11 relative to the business of the Commission or the performance of the functions of the Commission.
 

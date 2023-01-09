@@ -18,6 +18,8 @@ North-West The counties of: 3
 
 Cavan, Clare, Donegal, Galway, Leitrim, Longford, Mayo, Monaghan, Roscommon, Sligo and Westmeath; and the city of Galway.
 
-South The counties of: 3 Cork, Kerry, Limerick, North Tipperary, South Tipperary and Waterford; and the cities of Cork, Limerick and Waterford.
+South The counties of: 3
+
+Cork, Kerry, Limerick, North Tipperary, South Tipperary and Waterford; and the cities of Cork, Limerick and Waterford.
 
 ”.
