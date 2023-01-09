@@ -10,7 +10,9 @@ Blind welfare allowance.
 
 ‘institution’ has the same meaning as in section 59 of the Health Act 1970;
 
-‘weekly means’, in relation to a person, means the weekly means of the person as calculated in accordance with Part 4 of Schedule 3 and the amount so calculated shall be rounded up to the nearest 10 cent where it is a multiple of 5 cent but not also a multiple of 10 cent and shall be rounded to the nearest 10 cent where it is not a multiple of 5 cent or 10 cent. 161G.— Subject to this Act and to regulations made under this Act, an allowance (in this Act referred to as ‘blind welfare allowance’) is payable to a person if—
+‘weekly means’, in relation to a person, means the weekly means of the person as calculated in accordance with Part 4 of Schedule 3 and the amount so calculated shall be rounded up to the nearest 10 cent where it is a multiple of 5 cent but not also a multiple of 10 cent and shall be rounded to the nearest 10 cent where it is not a multiple of 5 cent or 10 cent.
+
+161G.— Subject to this Act and to regulations made under this Act, an allowance (in this Act referred to as ‘blind welfare allowance’) is payable to a person if—
 
 (a) the person—
 
@@ -200,4 +202,4 @@ Blind welfare allowance.
 
 (ii) at reference 3 by inserting “(for the purposes of supplementary welfare allowance)” after “Part 4”, and
 
-(d) [...]
+(d) ...

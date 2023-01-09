@@ -64,4 +64,4 @@ Miscellaneous amendments of Pensions Act 1990.
 
 (b) the party against whom the determination is made has its registered office (in the case of a company) or place of business.”.
 
-(2) The Principal Act is amended as set out in Schedule 2.
+(2) The Principal Act is amended as set out in Schedule 2 .

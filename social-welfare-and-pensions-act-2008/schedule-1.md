@@ -10,31 +10,29 @@ Section Repeal the section. 194
 
 Section Substitute “A designated person” for “The Executive”. 195
 
-Section (a)In subsection (3C)(b) (inserted by section 25(1)(b) of the Act of 2007), substitute “a 198
+Section (a) In subsection (3C)(b) (inserted by section 25(1)(b) of the Act of 2007), substitute “a 198
 
-(b)In subsection (3D) (inserted by section 25(1)(b) of the Act of 2007)—
+(b) In subsection (3D) (inserted by section 25(1)(b) of the Act of 2007)—
 
 (i) substitute “A designated person” for “The Executive”, and
 
 (ii) substitute “by the designated person” for “by the Executive”.
 
-Section (a)In subsection (3), substitute “A designated person” for “The Executive”. 199 (b)In subsection (4)—
+Section (a) In subsection (3), substitute “A designated person” for “The Executive”. 199 (b) In subsection (4)—
 
 (i) substitute “a designated person may” for “the Executive may”, and
 
 (ii) substitute “opinion of the designated person” for “opinion of the Executive”.
 
-(c)In subsection (5), substitute “a designated person” for “the Executive”.
+(c) In subsection (5), substitute “a designated person” for “the Executive”.
 
-Section (a)In subsection (1)— 200 (i) substitute “a designated person or” for “the Executive or” where it occurs, and
+Section (a) In subsection (1)— 200 (i) substitute “a designated person or” for “the Executive or” where it occurs, and
 
 (ii) substitute “by a designated person” for “by the Executive”.
 
-(b)In subsection (2), substitute “a designated person” for “the Executive”.
+(b) In subsection (2), substitute “a designated person” for “the Executive”.
 
-[(c) In subsection (3), substitute “by a designated person” for “by the Executive”.
-
-]
+(c) In subsection (3), substitute “by a designated person” for “by the Executive”.
 
 Section Substitute “A designated person or deciding officer may, in any case where the designated person” 201
 
@@ -50,23 +48,23 @@ Section (a) In subsection (1)— 202 (i) substitute “a designated person” fo
 
 Section Substitute “a designated person” for “the Executive”. 203(a)
 
-Section (a)In paragraph (a), substitute “a designated person” for “the Executive”. 204 (b)In paragraph (c)—
+Section (a) In paragraph (a), substitute “a designated person” for “the Executive”. 204 (b) In paragraph (c)—
 
 (i) substitute “designated person or” for “Executive or”, and
 
 (ii) delete “by the Executive”.
 
-Section (a)In paragraph (a), substitute “that a designated person” for “the Executive”. 205
+Section (a) In paragraph (a), substitute “that a designated person” for “the Executive”. 205
 
-(b)In paragraph (c)—
+(b) In paragraph (c)—
 
 (i) substitute “the designated person or” for “the Executive or”, and
 
 (ii) delete “by the Executive”.
 
-(c)Substitute “the designated person” for “the Executive” (last occurring).
+(c) Substitute “the designated person” for “the Executive” (last occurring).
 
-[Section [Repeal this section.] 207]
+Repeal this section. Section 207
 
 Section Insert the following after subparagraph (iii): 244(1)(c)
 
@@ -76,9 +74,9 @@ Section Insert “supplementary welfare allowance,” after “pre-retirement al
 
 Section Substitute the following for subsection (1): 272
 
-(a)the Minister, or
+(a) the Minister, or
 
-(b)the Collector-General in any case arising out of the exercise of his or her functions
+(b) the Collector-General in any case arising out of the exercise of his or her functions
 
 Section Substitute the following section for section 299: 299
 
@@ -86,21 +84,21 @@ Section Substitute the following section for section 299: 299
 
 (2) The Minister may appoint such and so many persons as he or she thinks proper to be designated persons for the purposes of the determination of the entitlement of any person to supplementary welfare allowance and the amount of any such allowance.”.
 
-Section (a)In subsection (2)— 300 (i) substitute “Subject to subsections (3) and (3A),” for “Subject to subsection
+Section (a) In subsection (2)— 300 (i) substitute “Subject to subsections (3) and (3A),” for “Subject to subsection
 
-[(ii) substitute the following for paragraph (b):
+(ii) substitute the following for paragraph (b):
 
-“(b) Part 3 (social assistance), being a question other than one relating to supplementary welfare allowance (unless it relates to a category of claim specified in subsection (3A) or section 195, 200, 201, 202, 203, 204 or 205),]
+“(b) Part 3 (social assistance), being a question other than one relating to supplementary welfare allowance (unless it relates to a category of claim specified in subsection (3A) or section 195, 200, 201, 202, 203, 204 or 205),
 
-(b)Insert the following after subsection (3):
+(b) Insert the following after subsection (3):
 
 (a) a claim made under section 197 in any case where—
 
 (i) a person has made an application for such benefit under Part 2 or such assistance under Part 3, as is prescribed, and
 
-Section (a)In subsection (2), substitute “a designated person in relation” for “an employee of 301
+Section (a) In subsection (2), substitute “a designated person in relation” for “an employee of 301
 
-(b)Insert the following after subsection (2):
+(b) Insert the following after subsection (2):
 
 (a) it appears to the deciding officer that the determination was erroneous—
 
@@ -110,9 +108,9 @@ Section (a)In subsection (2), substitute “a designated person in relation” f
 
 (b) where it appears to the deciding officer that there has been any relevant and the provisions of this Part as to appeals shall apply to a decision of a deciding officer under this subsection in the same manner as they apply to an original decision of a deciding officer.”.
 
-(c)Substitute the following for subsection (4):
+(c) Substitute the following for subsection (4):
 
-Section (a)In subsection (1), insert “or the determination of a designated person in relation to 311 (b) Substitute the following for subsection (3):
+Section (a) In subsection (1), insert “or the determination of a designated person in relation to 311 (b) Substitute the following for subsection (3):
 
 Section Repeal the section. 312
 
@@ -142,7 +140,7 @@ Section Substitute the following section for section 324: 324
 
 (2) Subsection (1) shall not apply to a determination relating to a matter which is on appeal under section 311 or 323 unless the revised determination would be in favour of the claimant.”.
 
-Section (a)Substitute “made by a designated person” for “given by an employee of the Executive”. 325 (b)In paragraphs (a), (b) and (c), substitute “the designated person” for “the employee
+Section (a) Substitute “made by a designated person” for “given by an employee of the Executive”. 325 (b) In paragraphs (a), (b) and (c), substitute “the designated person” for “the employee
 
 Section Substitute the following for section 328: 328
 
@@ -152,33 +150,33 @@ Section Substitute the following for section 328: 328
 
 Section Substitute “a designated person” for “an employee of the Executive”. 329
 
-Section (a)In paragraph (b), substitute “sections 303 and 311” for “sections 303, 311 and 312”. 330 (b)Substitute the following for paragraph (c):
+Section (a) In paragraph (b), substitute “sections 303 and 311” for “sections 303, 311 and 312”. 330 (b) Substitute the following for paragraph (c):
 
-Section (a)In subsection (2)(a), delete “(other than supplementary welfare allowance determined 334 (b)Delete subsection (3).
+Section (a) In subsection (2)(a), delete “(other than supplementary welfare allowance determined 334 (b) Delete subsection (3).
 
-Section (a)Substitute “a designated person” for “an employee of the Executive”. 335 (b)In paragraph (b), delete “(other than supplementary welfare allowance determined
-
-(c)Delete paragraph (c).
-
-Section (a)In paragraph (i) insert “and” after “benefit,”. 336 (b)Substitute the following for paragraph (ii):
-
-(c)Delete paragraph (iii).
-
-Section (a)In paragraph (a), insert “and” after “benefit,”. 337 (b) Substitute the following for paragraph (b):
+Section (a) Substitute “a designated person” for “an employee of the Executive”. 335 (b) In paragraph (b), delete “(other than supplementary welfare allowance determined
 
 (c) Delete paragraph (c).
 
-Section (a)In paragraph (a), insert “and” after “benefit,”. 338 (b)Substitute the following for paragraph (b):
+Section (a) In paragraph (i) insert “and” after “benefit,”. 336 (b) Substitute the following for paragraph (ii):
 
-(c)Delete paragraph (c).
+(c) Delete paragraph (iii).
 
-Section (a)Delete subsection (6). 341 (b)In subsection (9)—
+Section (a) In paragraph (a), insert “and” after “benefit,”. 337 (b) Substitute the following for paragraph (b):
+
+(c) Delete paragraph (c).
+
+Section (a) In paragraph (a), insert “and” after “benefit,”. 338 (b) Substitute the following for paragraph (b):
+
+(c) Delete paragraph (c).
+
+Section (a) Delete subsection (6). 341 (b) In subsection (9)—
 
 (i) delete “or the Executive” where it occurs, and
 
 (ii) delete “(as the case may be)”.
 
-Section [...] 342
+Section ... 342
 
 Section Substitute the following for the definition of “competent authority”: 344
 

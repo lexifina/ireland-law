@@ -348,7 +348,9 @@ Registered administrators.
 
 (2) The Board shall place details of that address on the Register of Administrators.
 
-(3) Every notice required by or under this Act to be given to a registered administrator by the Board shall be served by the Board personally on, or sent by post to, the registered administrator at the address so furnished to the Board. 64L.— Subject to section 64I, if the Board—
+(3) Every notice required by or under this Act to be given to a registered administrator by the Board shall be served by the Board personally on, or sent by post to, the registered administrator at the address so furnished to the Board.
+
+64L.— Subject to section 64I, if the Board—
 
 (a) terminates the registration of a registered administrator under section 64H,
 
@@ -362,9 +364,7 @@ Registered administrators.
 
 (b) has no duty to any trustee or any other person regarding the performance by a registered administrator of the core administration functions.
 
-64N.— Where, under this Part, the Board terminates, or decides not to renew, a registration, the decision of the Board shall not operate as a discharge of any liabilities of a person who has acted as a registered administrator.
-
-64O.— (1) Subject to section 64I, where a person has been notified by the Board—
+64N.— Where, under this Part, the Board terminates, or decides not to renew, a registration, the decision of the Board shall not operate as a discharge of any liabilities of a person who has acted as a registered administrator. 64O.— (1) Subject to section 64I, where a person has been notified by the Board—
 
 (a) that its registration is terminated,
 
