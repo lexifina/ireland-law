@@ -36,9 +36,7 @@ Interpretation (Part IIA).
 
 (b) has been approved by the Commission;
 
-‘Court’ means the High Court;
-
-‘decommissioning’, in relation to petroleum infrastructure, means taking the facility, structure or installation or any part of such facility, structure or installation permanently out of use with a view to its abandonment in situ or removal;
+‘Court’ means the High Court; ‘decommissioning’, in relation to petroleum infrastructure, means taking the facility, structure or installation or any part of such facility, structure or installation permanently out of use with a view to its abandonment in situ or removal;
 
 ‘designated area’ means an area designated by order under section 2 of the Act of 1968;
 
