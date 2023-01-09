@@ -512,6 +512,8 @@ This instrument is an irrevocable de-registration and export request authorisati
 
 (a) procure the de-registration of the aircraft from the [insert name of aircraft register] maintained by the [insert name of registry authority] for the purposes of Chapter III of the Convention on International Civil Aviation, signed at Chicago, on 7 December 1944, and
 
+*Select the term that reflects the relevant nationality registration criterion.
+
 (b) procure the export and physical transfer of the aircraft from [insert name of country]; and
 
 (ii) confirmation that the authorised party or the person it certifies as its designee may take the action specified in clause (i) above on written demand without the consent of the undersigned and that, upon such demand, the authorities in [insert name of country] shall co-operate with the authorised party with a view to the speedy completion of such action.
