@@ -48,7 +48,7 @@ Pensions Insolvency Payment Scheme.
 
 (9) Sums required to be paid by the trustees of an eligible pension scheme, as a condition of its being certified to be a participating pension scheme under subsection (3) or otherwise in accordance with the Pensions Insolvency Payment Scheme shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister directs.
 
-(10) All monies required for the making of payments in accordance with the Pensions Insolvency Payment Scheme and for the payment of expenses incurred in connection with the administration of the Pensions Insolvency Payment Scheme [shall, with the approval of the Minister for Public Expenditure and Reform, be advanced by the Minister for Finance] from the Central Fund or the growing produce thereof.
+(10) All monies required for the making of payments in accordance with the Pensions Insolvency Payment Scheme and for the payment of expenses incurred in connection with the administration of the Pensions Insolvency Payment Scheme shall, with the approval of the Minister for Public Expenditure and Reform, be advanced by the Minister for Finance from the Central Fund or the growing produce thereof.
 
 (11) The First Schedule to the National Treasury Management Agency Act 1990 is amended by the insertion of the following paragraph after paragraph (t):
 

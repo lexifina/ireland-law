@@ -12,7 +12,9 @@ Amendment of Financial Emergency Measures in the Public Interest Act 2009.
 
 (c) in the case of the period 1 May 2009 to 31 December 2009 (other than where subsection (3A) applies), at the applicable rate or rates specified in Table C to this subsection in respect of that period, and
 
-(d) in the case of the year 2010 and each subsequent year, at the applicable rate or rates specified in Table D to this subsection in respect of that year, from the remuneration from time to time payable to the relevant person for the period concerned or any such year. TABLE A
+(d) in the case of the year 2010 and each subsequent year, at the applicable rate or rates specified in Table D to this subsection in respect of that year, from the remuneration from time to time payable to the relevant person for the period concerned or any such year.
+
+TABLE A
 
 Amount of Remuneration Rate of deduction
 

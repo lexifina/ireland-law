@@ -52,9 +52,7 @@ The first €75,036 4%
 
 The remainder 5%
 
-.”,
-
-(d) in section 5—
+.”, (d) in section 5—
 
 (i) in subsection (1)(a) by substituting “the health contribution being calculated in accordance with the rates specified in the table referred to in section 4A(1) or 4A(2) as the case may be in respect of such reckonable earnings” for “the health contribution being calculated at the rate of two per cent of the amount of such reckonable earnings”, and
 
