@@ -24,7 +24,7 @@ Receipts, certificates and requirements on sale of residential property.
 
 (8) In this section—
 
-“purchaser” includes, in relation to a residential property, a transferee under a transfer referred to in the definition of ‘sale’ in this subsection;
+“purchaser” includes, in relation to a residential property, a transferee under a transfer referred to in the definition of "sale" in this subsection;
 
 “sale” includes, in relation to a residential property, the transfer of the residential property by the owner to another person—
 

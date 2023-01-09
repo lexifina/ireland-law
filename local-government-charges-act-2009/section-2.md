@@ -1,6 +1,6 @@
 Meaning of residential property.
 
-2.—(1) In this Act ‘residential property’ means, subject to subsection (2), a building that is situated in the State and that is occupied, or suitable for occupation, as a separate dwelling, whether or not the occupier shares, or would be entitled to share, in connection therewith, any accommodation, amenity or facility with any other person, and includes—
+2.—(1) In this Act "residential property" means, subject to subsection (2), a building that is situated in the State and that is occupied, or suitable for occupation, as a separate dwelling, whether or not the occupier shares, or would be entitled to share, in connection therewith, any accommodation, amenity or facility with any other person, and includes—
 
 (a) a house, maisonette, flat or apartment (including the form of accommodation commonly known as a bedsit), and
 
@@ -30,7 +30,7 @@ Meaning of residential property.
 
 (f) an approved building within the meaning of section 482 of the Act of 1997.
 
-(3) In this section ‘business’ includes—
+(3) In this section "business" includes—
 
 (a) the business of a company to which—
 
