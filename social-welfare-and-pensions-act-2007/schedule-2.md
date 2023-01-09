@@ -18,11 +18,11 @@ Section (a) In the definition of “auditor”, insert “, trust RAC” after �
 
 (e) Insert the following after the definition of “small scheme”:
 
-(f) Substitute the following for the definition of “trustees”:
+(f) Substitute the following for the definition of “trustees”: Provision Amendment affected (1) (2)
 
 (a) in relation to a scheme which is established under a trust or a trust
 
-(b) in relation to a scheme established otherwise than under a trust, the Provision Amendment affected (1) (2)
+(b) in relation to a scheme established otherwise than under a trust, the
 
 Section (a) In subsection (1)(a)(iv), insert “or an auditor of a trust RAC” after “PRSA”. 3 (b) In subsection (2A)(b), insert “, trust RAC” after “scheme”.
 
@@ -54,9 +54,9 @@ Section (a) Substitute the following for subsection (1): 54
 
 (b) In subsection (4)—
 
-(i) substitute the following for paragraph (b):
+(i) substitute the following for paragraph (b): Provision Amendment affected (1) (2)
 
-(ii) substitute the following for paragraph (c): Provision Amendment affected (1) (2)
+(ii) substitute the following for paragraph (c):
 
 (c) Insert the following after subsection (6):
 
@@ -96,11 +96,11 @@ Section (a) In subsection (1)— 56 (i) insert “or a trust RAC” after “a s
 
 (f) In subsection (6)(a)(ii), insert “or a trust RAC” after “scheme”.
 
-(g) Insert the following after subsection (6):
+(g) Insert the following after subsection (6): Provision Amendment affected (1) (2)
 
 Section Insert “or trust RACs” after “schemes” where it occurs. 57
 
-Section (a) In subsection (1), insert “or trust RAC” after “scheme”. 58 (b) In subsection (2)— Provision Amendment affected (1) (2)
+Section (a) In subsection (1), insert “or trust RAC” after “scheme”. 58 (b) In subsection (2)—
 
 (i) in paragraph (a), insert “or a trust RAC” after “scheme”, and
 
@@ -134,13 +134,13 @@ Section (a) In subsection (1)— 59 (i) insert “and trust RACs” after “sch
 
 Section In subsections (1), (2)(a), (4), (8), (9)(c) and (10), insert “or trust RAC” after “scheme” where it 59A
 
-Section (a) In subsection (1), insert “or trust RAC” after “scheme” where it occurs. 60 (b) Insert the following after subsection (2):
+Section (a) In subsection (1), insert “or trust RAC” after “scheme” where it occurs. 60 (b) Insert the following after subsection (2): Provision Amendment affected (1) (2)
 
 (a) in case the trust RAC commenced before the commencement of Part
 
 (b) in any other case, one year after the commencement of the trust
 
-(c) In subsection (3), insert “or trust RAC” after “scheme”. Provision Amendment affected (1) (2)
+(c) In subsection (3), insert “or trust RAC” after “scheme”.
 
 Section Insert “or trust RAC” after “scheme” where it occurs. 61B
 
@@ -174,11 +174,11 @@ Section (a) In subsections (1), (3), (5), (6), (7) and (9), insert “or trust R
 
 Section (a) In subsection (1), insert “or trust RAC” after “scheme”. 64A (b) In subsection (2)—
 
-(i) in paragraph (a), insert “or a trust RAC” after “scheme”, and
+(i) in paragraph (a), insert “or a trust RAC” after “scheme”, and Provision Amendment affected (1) (2)
 
 (ii) substitute the following for all the words from “shall be determined” to
 
-(a) in the case of a scheme, by a person who, in relation to the Provision Amendment affected (1) (2)
+(a) in the case of a scheme, by a person who, in relation to the
 
 (b) in the case of a trust RAC, by a person who is a member or trustee
 
@@ -208,7 +208,7 @@ Section (a) In subsection (1)— 126 (i) in paragraph (b) of the definition of �
 
 (b) Substitute the following for subsection (3):
 
-(a) any trustee of the scheme or trust RAC;
+(a) any trustee of the scheme or trust RAC; Provision Amendment affected (1) (2)
 
 (b) any former trustee of the scheme or trust RAC;
 
@@ -216,7 +216,7 @@ Section (a) In subsection (1)— 126 (i) in paragraph (b) of the definition of �
 
 (d) any former employer to whom the scheme relates;
 
-(e) any employer or former employer required under section 58A to remit Provision Amendment affected (1) (2)
+(e) any employer or former employer required under section 58A to remit
 
 (f) such other person or category of persons as may be prescribed.”.
 
@@ -248,13 +248,13 @@ Section (a) In subsection (1), insert “or trust RAC” after “a scheme” wh
 
 (II) insert “or a small trust RAC” after “small scheme”, and
 
-(ii) in paragraph (b), insert “or trust RAC” after “scheme”.
+(ii) in paragraph (b), insert “or trust RAC” after “scheme”. Provision Amendment affected (1) (2)
 
 (e) In subsection (5), insert “or trust RAC” after “scheme”.
 
 Section (a) In subsection (1)(b), insert “or trust RAC” after “scheme”. 150 (b) In subsections (2), (3) and (4), insert “or trust RAC” after “scheme” where it occurs.
 
-Section In subsections (1), (4), (6) and (7), insert “or trust RAC” after “scheme” where it occurs. 151 Provision Amendment affected (1) (2)
+Section In subsections (1), (4), (6) and (7), insert “or trust RAC” after “scheme” where it occurs. 151
 
 Section Insert “or trust RAC” after “scheme” where it occurs. 152
 
@@ -288,11 +288,11 @@ Section 3A (a) In subsection (1), substitute “an offence to which this section
 
 (c) regulations made under any of the provisions referred to in paragraphs
 
-(c) Insert the following after subsection (6)—
+(c) Insert the following after subsection (6)— Provision Amendment affected (1) (2)
 
 Section 18 (a) In subsection (5)—
 
-(i) in subparagraph (i), substitute “€5,000” for “£1,500”, and Provision Amendment affected (1) (2)
+(i) in subparagraph (i), substitute “€5,000” for “£1,500”, and
 
 (ii) in subparagraph (ii), substitute “€25,000” for “£10,000”.
 
@@ -334,7 +334,7 @@ Provision Amendment affected (1) (2)
 
 Section 3 In subsection (2A)(c), substitute “, 64A or 81G” for “or 64A”.
 
-Section 10(1) (a) Insert the following after paragraph (f): Provision Amendment affected (1) (2)
+Section 10(1) (a) Insert the following after paragraph (f):
 
 New section Insert the following section after section 22:
 
@@ -362,7 +362,7 @@ Section 49 Substitute the following for subsection (3):
 
 (i) the assets of the scheme being less than expected where—
 
-(I) this is due to the performance of relevant markets in relation to investments made with the resources of the scheme and that the performance of those markets in relation to those investments is not inconsistent with the performance generally of relevant markets for investment in the same period, and Provision Amendment affected (1) (2)
+(I) this is due to the performance of relevant markets in relation to investments made with the resources of Provision Amendment affected (1) (2) the scheme and that the performance of those markets in relation to those investments is not inconsistent with the performance generally of relevant markets for investment in the same period, and
 
 (II) having regard to the performance generally of relevant markets for investment, the Board considers that specifying a later date is necessary or appropriate and not contrary to the interests of the members of the scheme; or
 
@@ -388,9 +388,9 @@ Section 50 (a) In subsection (1)(b), substitute “section 49, or” for “sect
 
 (ii) in the case of a scheme referred to in subsection (1)(c), the
 
-(e) In subparagraph (3)(a)(i) insert “or, in the case of a scheme where a funding
+(e) In subparagraph (3)(a)(i) insert “or, in the case of a scheme where a funding Provision Amendment affected (1) (2)
 
-(f) Substitute the following for subparagraph (3)(b)(ii): Provision Amendment affected (1) (2)
+(f) Substitute the following for subparagraph (3)(b)(ii):
 
 (I) at the effective date, being the date of the reduction in benefits, the scheme satisfies the funding standard, or
 
@@ -424,9 +424,9 @@ Section 104 In subsection (11), substitute “increases in” for “changes to�
 
 New section Insert the following section after section 143—
 
-143A.—(1) The Pensions Ombudsman shall, whenever he is required to do so by the
+143A.—(1) The Pensions Ombudsman shall, whenever he is required to do so by the Provision Amendment affected (1) (2)
 
-(a) the regularity and propriety of the transactions recorded or required Provision Amendment affected (1) (2)
+(a) the regularity and propriety of the transactions recorded or required
 
 (b) the economy and efficiency of the Pensions Ombudsman in the use of
 

@@ -12,7 +12,7 @@ New section Insert the following section after section 12:
 
 12A.—(1) The Director shall, whenever he is required to do so by the Committee
 
-(a) the regularity and propriety of the transactions recorded or Provision Amendment affected (1) (2)
+(a) the regularity and propriety of the transactions recorded or
 
 (b) the economy and efficiency of the Agency in the use of its
 
@@ -30,7 +30,7 @@ Provision Amendment affected (1) (2)
 
 Section 26 Substitute the following section for section 26:
 
-26.—(1) The chief executive shall, whenever he or she is required to do so by
+26.—(1) The chief executive shall, whenever he or she is required to do so by Provision Amendment affected (1) (2)
 
 (a) the regularity and propriety of the transactions recorded or
 
@@ -38,6 +38,6 @@ Section 26 Substitute the following section for section 26:
 
 (c) the systems, procedures and practices employed by the
 
-(d) any matter affecting the Agency referred to in a special report Provision Amendment affected (1) (2)
+(d) any matter affecting the Agency referred to in a special report
 
 (2) In the performance of his or her duties under subsection (1), the chief executive shall not question nor express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.”.
