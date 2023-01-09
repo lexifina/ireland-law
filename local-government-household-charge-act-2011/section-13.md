@@ -18,7 +18,7 @@ Delegation of functions of local authority.
 
 (7) The functions conferred on a local authority by this section shall be executive functions for the purposes of the Act of 2001.
 
-(8) In this section ‘relevant board’ means—
+(8) In this section "relevant board" means—
 
 (a) the Local Government Computer Services Board established by the Local Government Computer Services Board (Establishment) Order 1975 (S.I. No. 212 of 1975), or a body to whom the functions of that Board have been transferred by order under section 5A (inserted by section 7 of the Local Government (Miscellaneous Provisions) Act 2012) of the Local Government Services (Corporate Bodies) Act 1971, and
 
