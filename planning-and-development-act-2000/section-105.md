@@ -40,15 +40,7 @@ Appointment of chairperson.
 
 (b) In selecting candidates the committee shall have regard to the special knowledge and experience and other qualifications or personal qualities which the committee considers appropriate to enable a person effectively to perform the functions of the chairperson.
 
-(8) Except in the case of a re-appointment under subsection (12), the Government shall not appoint a person to be the chairperson unless the person was selected by the committee under subsection (7) in relation to that appointment but—
-
-(a) if the committee is unable to select any suitable candidate pursuant to a particular request under subsection (7), or
-
-(b) if the Government decides not to appoint to be the chairperson any of the candidates selected by the committee pursuant to a particular request, then either—
-
-(i) the Government shall appoint a person to be the chairperson who was a candidate selected by the committee pursuant to a previous request (if any) in relation to that appointment, or
-
-(ii) the Minister shall make a further request to the committee and the Government shall appoint to be the chairperson a person who is selected by the committee pursuant to the request or pursuant to a previous request.
+(8) Except in the case of an appointment under section 105A or a re-appointment under subsection (12), the Government shall not appoint a person to be the chairperson unless the person was selected by the committee under subsection (7) in relation to that appointment but—
 
 (9) The Minister may make regulations as regards—
 
@@ -68,7 +60,7 @@ Appointment of chairperson.
 
 (11) The chairperson shall be appointed in a wholetime capacity and shall not at any time during his or her term of office hold any other office or employment in respect of which emoluments are payable.
 
-(12) Subject to the other provisions of this section, the chairperson shall hold office for a term of 7 years and may be re-appointed by the Government for a second or subsequent term of office, provided that a person shall not be re-appointed under this subsection unless, at the time of his or her re-appointment, he or she is or was the outgoing chairperson.
+(12) Subject to the other provisions of this section, the chairperson (other than a chairperson appointed on an interim basis under section 105A) shall hold office for a term of 7 years and may be re-appointed by the Government for a second or subsequent term of office, provided that a person shall not be re-appointed under this subsection unless, at the time of his or her re-appointment, he or she is or was the outgoing chairperson.
 
 (13) (a) The chairperson may resign his or her office as chairperson by letter addressed to the Minister and the resignation shall take effect on and from the date of the receipt of the letter by the Minister.
 

@@ -1,80 +1,34 @@
 Appointment of ordinary members.
 
-106.—(1) The Minister shall appoint the 9 ordinary members of the Board as follows:
+106.—(1) The Minister shall ensure, in so far as is practicable, that—
 
-(a) 2 members shall be appointed from amongst persons nominated for such appointment by such organisations that, in the Minister’s opinion, are representative of persons whose professions or occupations relate to physical planning, engineering and architecture as may be prescribed;
+(a) the ordinary members of the Board are persons who, in the opinion of the Minister, have satisfactory experience of, or a satisfactory mix of experience and knowledge of, infrastructure delivery, housing, physical planning, sustainable development, architecture, heritage, community affairs, social affairs, planning, the environment, the marine, climate change, law and corporate governance, and
 
-(b) 2 members shall be appointed from amongst persons nominated for such appointment by such organisations that, in the Minister’s opinion, are concerned with economic development, the promotion of and carrying out of development, the provision of infrastructure or the development of land or otherwise connected with the construction industry as may be prescribed;
+(b) there is an equitable balance among the ordinary members between men and women.
 
-(c) 2 members shall be appointed from among persons nominated for such appointment by such—
+(2) The Minister shall establish a suitable, independent, objective, and transparent procedure (which may include the establishment of a committee), in accordance with which recommendations may be made to the Minister in relation to the appointment of ordinary members of the Board.
 
-(i) organisations that, in the Minister’s opinion, are representative of the interests of local government,
+(3) The Minister may make regulations providing for such matters as the Minister considers necessary for the purpose of establishing the procedure referred to in subsection (2) including, where a committee is established under that section, regulations pertaining to the membership of the committee.
 
-(ii) bodies representing farming, and
+(4) The procedure provided for under subsection (2) shall require that—
 
-(iii) trade unions, as may be prescribed;
+(a) applications be invited from suitably qualified persons for appointment as an ordinary member of the Board,
 
-(d) 2 members shall be appointed from among persons nominated for such appointment by such—
+(b) a panel of candidates suitable for appointment as an ordinary member be prepared having regard to the knowledge, experience, qualifications and personal qualities appropriate to enable a person to perform the functions of an ordinary member effectively,
 
-(i) organisations that, in the Minister’s opinion, are representative of persons concerned with the protection and preservation of the environment and of amenities,
+(c) the Minister be informed of the names of the candidates on the panel and the reasons why such candidates are suitable for the appointment, and
 
-(ii) voluntary bodies and bodies having charitable objects,
+(d) a recommendation be made to the Minister regarding which candidate on the panel the Minister should appoint as an ordinary member.
 
-(iii) bodies that, in the Minister’s opinion, have a special interest or expertise in matters relating to rural and local community development, the promotion of the Irish language or the promotion of heritage, the arts and culture,
+(5) Except in the case of a re-appointment under subsection (12) and subject to section 104(4) and section 108(4), the Minister shall not appoint a person to be an ordinary member other than a person recommended in accordance with the procedure established under subsection (2).
 
-(iv) bodies that are representative of people with disabilities, and
+(6) ...
 
-(v) bodies that are representative of young people, as may be prescribed;
+(7) ...
 
-(e) one member who, in the Minister’s opinion, has satisfactory experience, competence or qualifications as respects issues relating to the environment and sustainability.
+(8) ...
 
-(2) The Minister shall prescribe at least 2 organisations for the purposes of each of paragraphs (a) to (d) of subsection (1).
-
-(3) Where the Minister decides to appoint one or more members to the Board pursuant to an order under section 104(2)—
-
-(a) where not more than 6 additional members are appointed, not more than one shall be appointed from among persons selected by organisations which are prescribed for the purposes of a particular paragraph of subsection (1);
-
-(b) where more than 6 but not more than 12 additional members are appointed, not more than 2 shall be appointed from among persons selected by organisations which are prescribed for the purposes of a particular paragraph of subsection (1).
-
-(4) An organisation prescribed for the purposes of paragraph (a), (b), (c) or (d) of subsection (1), shall, whenever so requested by the Minister, nominate such number of candidates (not being less than two) as the Minister may specify for appointment as an ordinary member and shall inform the Minister of the names of the candidates nominated and of the reasons why, in the opinion of the organisation, they are suitable for appointment.
-
-(5) Except in the case of an appointment pursuant to subsection (1)(e) or a re-appointment under subsection (12) and subject to subsection (6) and section 108(4), the Minister shall not appoint a person to be an ordinary member unless the person was nominated pursuant to a request under subsection (4) in relation to that appointment.
-
-(6) Where—
-
-(a) pursuant to a particular request under subsection (4), an organisation refuses or fails to nominate any candidate, or
-
-(b) the Minister decides not to appoint as an ordinary member any candidate nominated by the organisations pursuant to a particular request under that subsection, then—
-
-(i) the Minister shall appoint as an ordinary member a person who was among those nominated by such an organisation pursuant to a previous request (if any) under that subsection in relation to that appointment,
-
-(ii) the Minister shall make a further request and shall appoint as an ordinary member a person who was among those nominated pursuant to that request or pursuant to another request made in relation to that appointment, or
-
-(iii) the Minister shall appoint as an ordinary member a person selected by a committee established under subsection (7).
-
-(7) (a) There shall be a committee (“the committee”) consisting of—
-
-(i) the chairperson,
-
-(ii) the Assistant-Secretary of the Department of the Environment and Local Government with responsibility for planning and sustainable development, and
-
-(iii) the Chairperson of the Heritage Council.
-
-(b) The committee shall, whenever so requested by the Minister—
-
-(i) by notice in one or more national newspapers, invite applications for appointment as an ordinary member by suitably qualified persons,
-
-(ii) select 3 candidates, or if in the opinion of the committee there is not such a sufficient number of suitable applicants, such lesser number of candidates as the committee shall determine, for appointment as an ordinary member, having regard to the knowledge and experience and other qualifications or personal qualities which the committee considers appropriate to enable a person effectively to perform the functions of an ordinary member, and
-
-(iii) inform the Minister of the names of the candidates or, as may be appropriate, the name of the candidate, selected and of the reasons why, in the opinion of the committee, they are or he or she is suitable for the appointment.
-
-(8) Where a request is made under subsection (4), failure or refusal by the organisation of whom the request is made to nominate the number of candidates specified in the request shall not preclude the appointment as an ordinary member of a person who was nominated in relation to that appointment either by the organisation or by any other organisation.
-
-(9) The Minister may make regulations as regards—
-
-(a) the period within which the Minister is to be informed in accordance with subsection (4), and
-
-(b) any other matter which the Minister considers expedient for the purposes of this section.
+(9) The Minister may make regulations as regards any matter which the Minister considers expedient for the purposes of this section.
 
 (10) A person who is for the time being—
 

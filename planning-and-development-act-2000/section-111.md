@@ -25,3 +25,7 @@ Meetings and procedure of Board.
 (c) Paragraph (a) shall not be construed as enabling the Board to authorise a person who is not a member of the Board finally to determine any particular case with which the Board is concerned.
 
 (7) The Board shall arrange to keep a written record of all its decisions including the names of those present at a meeting of the Board and the number of those persons who vote for or against those decisions.
+
+(8) Notwithstanding any provision of this Act, a meeting of An Bord Pleanála, including a division of the board, may take place using remote video or telephone conferencing facilities or by any means of communication by which all of the board members and other persons participating in different locations can hear and be heard at the same time.
+
+(9) In subsection (8), "meeting" includes any meeting for the purpose of making any decision in relation to any appeal, referral or application.
