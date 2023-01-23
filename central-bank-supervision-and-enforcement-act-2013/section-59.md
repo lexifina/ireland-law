@@ -54,7 +54,9 @@ Amendment of section 28 of Central Bank Act 1997.
 
 (m) the National Consumer Agency, and
 
-(n) any other person constituted, or holding office, under an enactment or funded (in whole or in part) by a Minister of the Government; ‘qualifying shareholder’, in relation to another person, means a person with a direct or indirect holding in the other person—
+(n) any other person constituted, or holding office, under an enactment or funded (in whole or in part) by a Minister of the Government;
+
+‘qualifying shareholder’, in relation to another person, means a person with a direct or indirect holding in the other person—
 
 (a) that represents 10 per cent or more of the capital of, or the voting rights in, the other person, or
 
