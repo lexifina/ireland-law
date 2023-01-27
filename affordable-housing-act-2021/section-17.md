@@ -16,9 +16,7 @@ Sale of affordable dwelling prior to redemption of affordable dwelling equity
 
 (6) Any sale shall be conducted in accordance with any conditions included in the written consent of the housing authority.
 
-(7) After the homeowner enters into an enforceable contract for any sale in respect of which consent has been granted under this section but prior to the completion of that sale, the homeowner shall notify the housing authority of the actual sale price, and the monetary value of the affordable dwelling equity shall be determined by the housing authority in accordance with the valuation mechanism in accordance with the following formula and shall be notified to the homeowner:
-
-X% x (€Y - €Z) where—
+(7) After the homeowner enters into an enforceable contract for any sale in respect of which consent has been granted under this section but prior to the completion of that sale, the homeowner shall notify the housing authority of the actual sale price, and the monetary value of the affordable dwelling equity shall be determined by the housing authority in accordance with the valuation mechanism in accordance with the following formula and shall be notified to the homeowner: X% x (€Y - €Z) where—
 
 (a) X% is the affordable dwelling equity as stated in the affordable dwelling purchase arrangement unless redemption payments have previously been made, in which case it shall be the affordable dwelling equity as revised pursuant to the last previous redemption payment made,
 
