@@ -16,4 +16,4 @@ Decisions of Ombudsman
 
 (4) For the purposes of the law of defamation, the publication by the Ombudsman of any report under subsection (2) or (3) shall be absolutely privileged, and immune from legal proceedings.
 
-(5) In this section, ‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+(5) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
