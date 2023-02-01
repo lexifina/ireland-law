@@ -15,11 +15,3 @@ Death or disability of complainant
 (ii) in any other case, a member of his or her family, or some other person who is considered by the Ombudsman to be a suitable person to represent him or her, and
 
 (b) the reference to “complainant”, in so far as that subsection relates to a person who is a minor or who is otherwise unable to act for himself or herself, includes a reference to an intending complainant.
-
-Continuation of investigation on death of complainant
-
-46.The power of the Ombudsman in relation to the continuation of an investigation on the death of a complainant may be exercised in relation to the following:
-
-(a) any complaint received by the Ombudsman on or after the establishment day;
-
-(b) any complaint received by the Financial Services Ombudsman or the Pensions Ombudsman before the establishment day where a decision of the Financial Services Ombudsman or the Pensions Ombudsman, as the case may be, has not been made.
