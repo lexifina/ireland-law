@@ -20,11 +20,7 @@ Regulation of fees and other payments
 
 (7) A regulation made under subsection (1) may fix different amounts or rates for different services, and as and from the date of the regulation, there shall be no entitlement to payment in excess of the amounts and rates so specified, although nothing in this section shall prevent service providers from providing a service for a lesser amount or at a lower rate.
 
-(8) A regulation made under
-
-## subsection (1)
-
-may contain such incidental, supplementary and consequential provisions as appear to the Minister of the Government concerned to be necessary or expedient for the purposes of the regulations.
+(8) A regulation made under subsection (1) may contain such incidental, supplementary and consequential provisions as appear to the Minister of the Government concerned to be necessary or expedient for the purposes of the regulations.
 
 (9) Prior to making a regulation under subsection (1), the Minister of the Government concerned, or, at that Minister’s direction, the public service body concerned, shall engage in such consultations as that Minister considers appropriate.
 
