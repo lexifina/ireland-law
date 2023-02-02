@@ -1,6 +1,6 @@
 Transitional provision for existing virtual asset service providers.
 
-106F. (1) Notwithstanding section 106E, a person carrying on business as a virtual asset service provider immediately before the coming into operation of this Chapter, is taken to be registered to carry on business as a virtual asset service provider until the Bank has granted or refused an application to register the person, provided that the person applies to the Bank under section 106G for registration, no later than 3 months after that section comes into operation.
+106F.— (1) Notwithstanding section 106E, a person carrying on business as a virtual asset service provider immediately before the coming into operation of this Chapter, is taken to be registered to carry on business as a virtual asset service provider until the Bank has granted or refused an application to register the person, provided that the person applies to the Bank under section 106G for registration, no later than 3 months after that section comes into operation.
 
 (2) Where a person is taken to be registered to carry on business as a virtual asset service provider under subsection (1), the Bank may do either or both of the following:
 

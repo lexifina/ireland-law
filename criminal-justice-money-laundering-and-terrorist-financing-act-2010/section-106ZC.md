@@ -1,10 +1,10 @@
 Relevant trust - designated meaning.
 
-106ZC. (1) The following definition is designated with respect to ‘relevant trust’:
+106ZC.— (1) The following definition is designated with respect to "relevant trust":
 
-‘relevant trust’ means an express trust established by deed or other declaration in writing and any other arrangement or class of arrangements as may be prescribed but does not include an excluded arrangement.
+"relevant trust" means an express trust established by deed or other declaration in writing and any other arrangement or class of arrangements as may be prescribed but does not include an excluded arrangement.
 
-(2) For the purposes of the definition, designated by subsection (1), with respect to ‘relevant trust’, ‘excluded arrangement’ means an arrangement of the following kind:
+(2) For the purposes of the definition, designated by subsection (1), with respect to "relevant trust", "excluded arrangement" means an arrangement of the following kind:
 
 (a) an occupational pension scheme that is an approved scheme pursuant to Chapter 1 of Part 30 of the Act of 1997;
 
@@ -30,7 +30,7 @@ Relevant trust - designated meaning.
 
 (b) the non-application of Article 31 of the Fourth Money Laundering Directive to arrangements in other Member States having comparable purposes and structures to such arrangement or class of arrangements.
 
-(4) For the purpose of ensuring the uniform application of European Union law between Member States, the Minister for Finance may prescribe any arrangement or class of arrangements to be a relevant trust for the purpose of the definition, designated by subsection (1), with respect to ‘relevant trust’ where he or she is satisfied that such arrangement or class of arrangements is an express trust or a similar legal arrangement within the meaning of the Fourth Money Laundering Directive, taking into consideration such information as is available to him or her on the following matters—
+(4) For the purpose of ensuring the uniform application of European Union law between Member States, the Minister for Finance may prescribe any arrangement or class of arrangements to be a relevant trust for the purpose of the definition, designated by subsection (1), with respect to "relevant trust" where he or she is satisfied that such arrangement or class of arrangements is an express trust or a similar legal arrangement within the meaning of the Fourth Money Laundering Directive, taking into consideration such information as is available to him or her on the following matters—
 
 (a) the risk of money laundering or terrorist financing presented by such arrangement or class of arrangements having regard, in particular, to:
 

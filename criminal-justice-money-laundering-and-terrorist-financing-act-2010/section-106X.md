@@ -1,6 +1,6 @@
 Bank’s power to make regulations.
 
-106X. (1) The Bank may by regulations provide for any matter referred to in this Chapter as prescribed or to be prescribed.
+106X.— (1) The Bank may by regulations provide for any matter referred to in this Chapter as prescribed or to be prescribed.
 
 (2) Without prejudice to any provision of this Chapter, regulations under this Chapter may contain such incidental, supplementary and consequential provisions as appear to the Bank to be necessary or expedient for the purposes of the regulations.
 

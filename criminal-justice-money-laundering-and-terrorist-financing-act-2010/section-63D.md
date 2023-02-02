@@ -1,6 +1,6 @@
 Duties of competent authorities.
 
-63D. (1) A competent authority, other than a State competent authority, shall make arrangements to ensure that—
+63D.— (1) A competent authority, other than a State competent authority, shall make arrangements to ensure that—
 
 (a) its supervisory functions are exercised independently of any of its other functions which do not relate to disciplinary matters,
 

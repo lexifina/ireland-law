@@ -14,7 +14,7 @@ Relationships between credit institutions and shell banks.
 
 (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years (or both).
 
-(6) In this section, ‘shell bank’ means a credit institution or financial institution (or a body corporate that is engaged in activities equivalent to those of a credit institution or financial institution) that—
+(6) In this section, "shell bank" means a credit institution or financial institution (or a body corporate that is engaged in activities equivalent to those of a credit institution or financial institution) that—
 
 (a) does not have a physical presence, involving meaningful decision-making and management, in the jurisdiction in which it is incorporated,
 

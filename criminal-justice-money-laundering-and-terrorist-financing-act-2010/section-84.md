@@ -18,7 +18,7 @@ Interpretation (Chapter 9).
 
 (ii) in a case where a partner of the partnership is a body corporate, any person who is a director, manager, secretary or other similar officer of such a partner or any person purporting to act in such a capacity;
 
-‘subsidiary’ has the meaning assigned to it by section 155 of the Companies Act 1963
+"subsidiary" has the meaning assigned to it by section 155 of the Companies Act 1963
 
 “trust or company service provider” does not include any of the following:
 

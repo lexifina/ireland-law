@@ -1,6 +1,6 @@
 Notice of refusal or cancellation of registration and right to make representations.
 
-108D. (1) If the Bank proposes to—
+108D.— (1) If the Bank proposes to—
 
 (a) refuse to register a person under section 108B, or
 

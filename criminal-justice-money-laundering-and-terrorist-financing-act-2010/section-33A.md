@@ -1,6 +1,6 @@
 Electronic money derogation.
 
-33A. (1) Subject to section 33(1)(c) and (d) and subsection (2), a designated person is not required to apply the measures specified in subsection (2) or (2A) of section 33, or section 35, with respect to electronic money if—
+33A.— (1) Subject to section 33(1)(c) and (d) and subsection (2), a designated person is not required to apply the measures specified in subsection (2) or (2A) of section 33, or section 35, with respect to electronic money if—
 
 (a) the payment instrument concerned—
 

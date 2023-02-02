@@ -1,6 +1,6 @@
 Register of Virtual Asset Service Providers.
 
-106S. (1) The Bank shall establish and maintain a register (to be known as ‘the Register of Virtual Asset Service Providers’ and in this Act referred to as ‘the Register’) of persons registered under this Chapter to carry on business as a virtual asset service provider containing—
+106S.— (1) The Bank shall establish and maintain a register (to be known as "the Register of Virtual Asset Service Providers" and in this Act referred to as "the Register") of persons registered under this Chapter to carry on business as a virtual asset service provider containing—
 
 (a) the name and the address of the principal place of business of each person registered to carry on business as a virtual asset service provider,
 

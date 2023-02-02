@@ -1,6 +1,6 @@
 Revocation of registration other than on application of holder.
 
-106P. (1) The Bank may revoke a registration under this Chapter only if the Bank has reasonable grounds to be satisfied of any of the following:
+106P.— (1) The Bank may revoke a registration under this Chapter only if the Bank has reasonable grounds to be satisfied of any of the following:
 
 (a) the holder of the registration has not commenced carrying on business as a virtual asset service provider within 12 months after the date on which the registration was granted;
 

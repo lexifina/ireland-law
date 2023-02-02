@@ -1,6 +1,6 @@
 Restriction on acquisition of beneficial interest in holders of registrations.
 
-106T. (1) A proposed acquirer shall not, directly or indirectly, acquire a beneficial interest in the holder of a registration without the prior approval of the Bank in writing of the intended size of the interest.
+106T.— (1) A proposed acquirer shall not, directly or indirectly, acquire a beneficial interest in the holder of a registration without the prior approval of the Bank in writing of the intended size of the interest.
 
 (2) A notification under subsection (1) shall include sufficient information to enable the Bank to consider the proposed acquisition according to the nature of the proposed acquirer and the proposed acquisition, and in particular shall include information on who the proposed acquirers are, the persons to be responsible for their management (where applicable), how the proposed acquisition is to be financed and the structure of the resulting group.
 
@@ -30,6 +30,6 @@ Restriction on acquisition of beneficial interest in holders of registrations.
 
 (7) In this section—
 
-‘proposed acquirer’ means a person who proposes to acquire or increase a beneficial interest in the holder of a registration and includes a group of persons acting in concert to acquire such an interest;
+"proposed acquirer" means a person who proposes to acquire or increase a beneficial interest in the holder of a registration and includes a group of persons acting in concert to acquire such an interest;
 
-‘proposed acquisition’ means the proposed acquisition of a beneficial interest in the holder of a registration.
+"proposed acquisition" means the proposed acquisition of a beneficial interest in the holder of a registration.

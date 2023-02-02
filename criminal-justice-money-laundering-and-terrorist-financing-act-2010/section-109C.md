@@ -1,6 +1,6 @@
 Grounds of refusal to grant certificate of fitness.
 
-109C. (1) A Superintendent of the Garda Síochána or, as the case may be, the Minister shall not refuse an application for a certificate of fitness made in accordance with section 109B unless—
+109C.— (1) A Superintendent of the Garda Síochána or, as the case may be, the Minister shall not refuse an application for a certificate of fitness made in accordance with section 109B unless—
 
 (a) a relevant consideration exists, or
 
@@ -32,7 +32,7 @@ Grounds of refusal to grant certificate of fitness.
 
 (ii) on appeal to the District Court, the refusal was affirmed.
 
-(3) In this section, ‘enactment’ means—
+(3) In this section, "enactment" means—
 
 (a) an Act of the Oireachtas,
 

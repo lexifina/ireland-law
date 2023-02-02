@@ -1,6 +1,6 @@
 Holder of registration to ensure that beneficial owners are fit and proper persons.
 
-106N. (1) The holder of a registration shall take reasonable steps to ascertain that any person who is a beneficial owner of the virtual asset service provider concerned is a fit and proper person.
+106N.— (1) The holder of a registration shall take reasonable steps to ascertain that any person who is a beneficial owner of the virtual asset service provider concerned is a fit and proper person.
 
 (2) A person who contravenes subsection (1) commits an offence.
 

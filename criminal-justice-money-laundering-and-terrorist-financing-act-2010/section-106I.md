@@ -1,6 +1,6 @@
 Bank may impose conditions when granting an application for registration.
 
-106I. (1) In granting an application for registration under this Chapter, the Bank may impose on the holder of the registration any conditions that the Bank considers necessary for the proper and orderly regulation of the holder’s business as a virtual asset service provider and, in particular, for preventing the business from being used to carry out money laundering or terrorist financing.
+106I.— (1) In granting an application for registration under this Chapter, the Bank may impose on the holder of the registration any conditions that the Bank considers necessary for the proper and orderly regulation of the holder’s business as a virtual asset service provider and, in particular, for preventing the business from being used to carry out money laundering or terrorist financing.
 
 (2) The Bank shall specify any such conditions in the registration granted to the holder or in one or more documents annexed to that registration.
 

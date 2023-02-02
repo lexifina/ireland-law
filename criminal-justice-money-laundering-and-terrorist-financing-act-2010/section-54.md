@@ -44,7 +44,7 @@ Internal policies and procedures and training.
 
 (6A) A designated person shall have in place appropriate procedures for their employees, or persons in a comparable position, to report a contravention of this Act internally through a specific, independent and anonymous channel, proportionate to the nature and size of the designated person concerned.
 
-(7) A designated person shall appoint an individual at management level, (to be called a ‘compliance officer’) to monitor and manage compliance with, and the internal communication of, internal policies, controls and procedures adopted by the designated person under this section if directed in writing to do so by the competent authority for that designated person.
+(7) A designated person shall appoint an individual at management level, (to be called a "compliance officer") to monitor and manage compliance with, and the internal communication of, internal policies, controls and procedures adopted by the designated person under this section if directed in writing to do so by the competent authority for that designated person.
 
 (8) A designated person shall appoint a member of senior management with primary responsibility for the implementation and management of anti-money laundering measures in accordance with this Part if directed in writing to do so by the competent authority for that designated person.
 

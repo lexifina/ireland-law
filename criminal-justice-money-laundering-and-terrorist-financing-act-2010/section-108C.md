@@ -1,6 +1,6 @@
 Cancellation of registration and removal from register.
 
-108C. (1) Subject to section 108D, the Bank may cancel the registration of a person under this section only if the Bank has reasonable grounds to be satisfied of any of the following:
+108C.— (1) Subject to section 108D, the Bank may cancel the registration of a person under this section only if the Bank has reasonable grounds to be satisfied of any of the following:
 
 (a) the person registered has not commenced to carry on business as a cheque cashing office within 12 months after the date on which the person was registered;
 

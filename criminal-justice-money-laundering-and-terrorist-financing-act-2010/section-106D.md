@@ -1,6 +1,6 @@
 Scope of Bank’s supervision - performance of certain functions.
 
-106D. (1) The functions conferred on the Bank under—
+106D.— (1) The functions conferred on the Bank under—
 
 (a) Parts II, IIIC, VIIA, VIIIA and IX of the Act of 1942,
 

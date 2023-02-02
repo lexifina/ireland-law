@@ -1,6 +1,6 @@
 Appeal Tribunal.
 
-101A. (1) On the commencement of section 24 of the Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021 there shall stand established a tribunal which shall be known as the Appeal Tribunal to consider and determine appeals made pursuant to this Act.
+101A.— (1) On the commencement of section 24 of the Criminal Justice (Money Laundering and Terrorist Financing) (Amendment) Act 2021 there shall stand established a tribunal which shall be known as the Appeal Tribunal to consider and determine appeals made pursuant to this Act.
 
 (2) The Appeal Tribunal shall be independent in the exercise of its functions under this Act and shall regulate its own procedures.
 

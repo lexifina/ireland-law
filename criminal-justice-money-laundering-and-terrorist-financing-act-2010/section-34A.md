@@ -1,6 +1,6 @@
 Simplified customer due diligence.
 
-34A. (1) Subject to section 33(1)(c) and (d), a designated person may take the measures specified in sections 33(2) and 35 in such manner, to such extent and at such times as is reasonably warranted by the lower risk of money laundering or terrorist financing in relation to a business relationship or transaction where the designated person—
+34A.— (1) Subject to section 33(1)(c) and (d), a designated person may take the measures specified in sections 33(2) and 35 in such manner, to such extent and at such times as is reasonably warranted by the lower risk of money laundering or terrorist financing in relation to a business relationship or transaction where the designated person—
 
 (a) identifies in the relevant business risk assessment, an area of lower risk into which the relationship or transaction falls, and
 

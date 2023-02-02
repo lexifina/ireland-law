@@ -1,6 +1,6 @@
 Application of risk assessment in applying customer due diligence
 
-30B. (1) For the purposes of determining the extent of measures to be taken under subsections (2) and (2A) of section 33 and subsections (1) and (3) of section 35 a designated person shall identify and assess the risk of money laundering and terrorist financing in relation to the customer or transaction concerned, having regard to—
+30B.— (1) For the purposes of determining the extent of measures to be taken under subsections (2) and (2A) of section 33 and subsections (1) and (3) of section 35 a designated person shall identify and assess the risk of money laundering and terrorist financing in relation to the customer or transaction concerned, having regard to—
 
 (a) the relevant business risk assessment,
 

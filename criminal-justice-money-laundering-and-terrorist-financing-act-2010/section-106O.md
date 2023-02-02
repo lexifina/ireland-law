@@ -1,6 +1,6 @@
 Revocation of registration by Bank on application of holder.
 
-106O. The Bank shall revoke a registration on the application of the holder of the registration, but only if satisfied that the holder of the registration has fully complied with each of the following:
+106O.— The Bank shall revoke a registration on the application of the holder of the registration, but only if satisfied that the holder of the registration has fully complied with each of the following:
 
 (a) any conditions of the registration;
 

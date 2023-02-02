@@ -1,6 +1,6 @@
 Enhanced customer due diligence — high-risk third countries.
 
-38A. (1) Subject to subsection (2), a designated person shall apply the following measures to manage and mitigate the risk of money laundering and terrorist financing additional to those specified in this chapter, when dealing with a customer established or residing in a high-risk third country:
+38A.— (1) Subject to subsection (2), a designated person shall apply the following measures to manage and mitigate the risk of money laundering and terrorist financing additional to those specified in this chapter, when dealing with a customer established or residing in a high-risk third country:
 
 (a) obtaining additional information on the customer and on the beneficial owner;
 

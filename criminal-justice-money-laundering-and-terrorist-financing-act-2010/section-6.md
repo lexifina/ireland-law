@@ -4,7 +4,7 @@ Interpretation (Part 2).
 
 6.— In this Part—
 
-‘criminal conduct’ means—
+"criminal conduct" means—
 
 (a) conduct that constitutes an offence,
 

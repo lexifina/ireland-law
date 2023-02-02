@@ -1,6 +1,6 @@
 Direction not to carry out business other than as directed.
 
-106Q. (1) If the Bank reasonably believes that there may be grounds for revoking a registration under section 106P, the Bank may serve on the holder of the registration a direction in writing prohibiting the holder from carrying on business as a virtual asset service provider other than in accordance with conditions specified by the Bank in the direction.
+106Q.— (1) If the Bank reasonably believes that there may be grounds for revoking a registration under section 106P, the Bank may serve on the holder of the registration a direction in writing prohibiting the holder from carrying on business as a virtual asset service provider other than in accordance with conditions specified by the Bank in the direction.
 
 (2) The Bank shall include in a direction under this section a statement—
 

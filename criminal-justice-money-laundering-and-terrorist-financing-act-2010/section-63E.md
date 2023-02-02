@@ -1,6 +1,6 @@
 Reporting breaches to competent authority.
 
-63E. (1) Each competent authority shall establish effective and reliable mechanisms to encourage the reporting of potential and actual breaches of this Act.
+63E.— (1) Each competent authority shall establish effective and reliable mechanisms to encourage the reporting of potential and actual breaches of this Act.
 
 (2) Each competent authority shall provide one or more secure communication channels for persons reporting the matters referred to in subsection (1).
 

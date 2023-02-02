@@ -1,6 +1,6 @@
 Registrations held by partnerships.
 
-106C. (1) A reference in a relevant document to a holder or proposed holder of a registration includes, in a case where the holder or proposed holder is a partnership, a reference to each partner of the partnership unless otherwise specified.
+106C.— (1) A reference in a relevant document to a holder or proposed holder of a registration includes, in a case where the holder or proposed holder is a partnership, a reference to each partner of the partnership unless otherwise specified.
 
 (2) A reference in subsection (1) to a relevant document is a reference to any of the following:
 

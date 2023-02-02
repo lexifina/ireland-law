@@ -1,6 +1,6 @@
 Provision of information by Garda Síochána as to whether or not person is fit and proper person.
 
-108H. (1) The Bank may request the Commissioner of the Garda Síochána to provide any information that is required to assist the Bank in determining, for the purposes of sections 108B to 108I, whether or not any of the following persons is a fit and proper person:
+108H.— (1) The Bank may request the Commissioner of the Garda Síochána to provide any information that is required to assist the Bank in determining, for the purposes of sections 108B to 108I, whether or not any of the following persons is a fit and proper person:
 
 (a) the person who proposes to carry on or carries on, as the case may be, the business of a cheque cashing office;
 

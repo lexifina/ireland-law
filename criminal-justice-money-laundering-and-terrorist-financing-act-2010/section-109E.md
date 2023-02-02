@@ -1,6 +1,6 @@
 Appeal where application for certificate of fitness is refused.
 
-109E. (1) If a Superintendent of the Garda Síochána, or as the case may be, the Minister refuses an application for a certificate of fitness, he or she shall, on the request in writing of the applicant made not later than 14 days after the refusal, give the applicant a statement in writing of the reasons for the refusal.
+109E.— (1) If a Superintendent of the Garda Síochána, or as the case may be, the Minister refuses an application for a certificate of fitness, he or she shall, on the request in writing of the applicant made not later than 14 days after the refusal, give the applicant a statement in writing of the reasons for the refusal.
 
 (2) A person to whom a certificate of fitness has been refused may, not later than 14 days after receiving a statement in writing under subsection (1), appeal the refusal to the District Court.
 

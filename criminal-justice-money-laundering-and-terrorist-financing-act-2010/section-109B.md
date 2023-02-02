@@ -1,6 +1,6 @@
 Application for certificate of fitness.
 
-109B. (1) Upon compliance with subsection (2), an individual shall make an application for a certificate of fitness—
+109B.— (1) Upon compliance with subsection (2), an individual shall make an application for a certificate of fitness—
 
 (a) where the individual ordinarily resides in the State—
 
