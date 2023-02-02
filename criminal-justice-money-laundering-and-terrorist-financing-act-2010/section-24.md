@@ -6,15 +6,17 @@ Definitions.
 
 24.— (1) In this Part—
 
+"Article 3(2) authorities" means the authorities designated under Regulation 3(2) of the European Union (Money Laundering and Terrorist Financing) (Use of Financial and Other Information) Regulations 2023;
+
 “barrister” means a practising barrister;
 
 “beneficial owner” has the meaning assigned to it by sections 26 to 30 ;
 
 “business relationship”, in relation to a designated person and a customer of the person, means a business, professional or commercial relationship between the person and the customer that the person expects to be ongoing;
 
-‘business risk assessment’ has the meaning given to it by section 30A;
+"business risk assessment" has the meaning given to it by section 30A;
 
-‘Capital Requirements Regulation’ means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 as amended by—
+"Capital Requirements Regulation" means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 as amended by—
 
 (a) Commission Delegated Regulation (EU) 2015/62 of 10 October 2014 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the leverage ratio,
 
@@ -26,6 +28,8 @@ Definitions.
 
 (e) Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms,
 
+OJ No. L. 11, 17.1.2015, p. 37. OJ No. L. 171, 29.6.2016, p. 153. OJ No. L. 310, 25.11.2017, p. 1. OJ No. L. 345, 27.12.2017, p. 27. OJ No. L. 347, 28.12.2017, p. 1.
+
 (f) Commission Delegated Regulation (EU) 2018/405 of 21 November 2017 correcting certain language versions of Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012,
 
 (g) Regulation (EU) 2019/630 of the European Parliament and of the Council of 17 April 2019 amending Regulation (EU) No 575/2013 as regards minimum loss coverage for non-performing exposures,
@@ -36,7 +40,7 @@ Definitions.
 
 (j) Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020 amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic;
 
-‘collective investment undertaking’ means—
+"collective investment undertaking" means—
 
 (a) an undertaking for collective investment in transferable securities authorised in accordance with the European Communities (Undertakings for Collective Investment in Transferable Securities) Regulations 2011 (S.I. No. 352 of 2011) or otherwise in accordance with the Directive of 2009,
 
@@ -48,11 +52,13 @@ Definitions.
 
 “competent authority” has the meaning assigned to it by sections 60 and 61;
 
-‘correspondent relationship’ means—
+"correspondent relationship" means—
 
 (a) the provision of banking services by one bank as the correspondent to another bank as the respondent, including providing a current or other liability account and related services, such as cash management, international funds transfers, cheque clearing, payable-through accounts and foreign exchange services, or
 
 (b) the relationships between and among credit institutions and financial institutions including where similar services are provided by a correspondent institution to a respondent institution, and including relationships established for securities transactions or funds transfers;
+
+OJ No. L. 74, 16.3.2018, p. 3. OJ No. L. 111, 25.4.2019, p. 4. OJ No. L. 150, 7.6.2019, p. 1. OJ No. L. 314, 5.12.2019, p. 1. OJ. No. L. 204, 26.6.2020, p. 4.
 
 “credit institution” means—
 
@@ -60,7 +66,7 @@ Definitions.
 
 (b) An Post in respect of any activity that it carries out, whether as principal or agent, that would render it, or a principal for whom it is an agent, a credit institution as a result of the application of paragraph (a);
 
-‘custodian wallet provider’ means an entity that provides services to safeguard private cryptographic keys on behalf of its customers, to hold, store and transfer virtual currencies;
+"custodian wallet provider" means an entity that provides services to safeguard private cryptographic keys on behalf of its customers, to hold, store and transfer virtual currencies;
 
 “customer”—
 
@@ -79,6 +85,8 @@ Definitions.
 “designated accountancy body” means a prescribed accountancy body, within the meaning of Part 2 of the Companies (Auditing and Accounting) Act 2003;
 
 “designated person” has the meaning assigned to it by section 25;
+
+"Directive (EU) 2019/1153" means Directive (EU) 2019/1153 of the European Parliament and of the Council of 20 June 2019 laying down rules facilitating the use of financial and other information for the prevention, detection, investigation or prosecution of certain criminal offences, and repealing Council Decision 2000/642/JHA;
 
 "Directive of 2009" means Directive 2009/65/EC of the European Parliament and of the Council of 13 July 200912 , as amended by—
 
@@ -100,15 +108,17 @@ Definitions.
 
 “EEA State” means a state that is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by the Protocol signed at Brussels on 17 March 1993;
 
-'Electronic Identification Regulation’ means Regulation (EU) No. 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC;
+"Electronic Identification Regulation" means Regulation (EU) No. 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC;
 
-‘electronic money’ means electronic money within the meaning of the European Communities (Electronic Money) Regulations 2011 (S.I. No. 183 of 2011);
+"electronic money" means electronic money within the meaning of the European Communities (Electronic Money) Regulations 2011 (S.I. No. 183 of 2011);
 
 ...
 
+"Europol" means the body established under Article 1(1) of Regulation (EU) 2016/794;
+
 “external accountant” means a person who by way of business provides accountancy services (other than when providing such services to the employer of the person) whether or not the person holds accountancy qualifications or is a member of a designated accountancy body;
 
-‘financial institution’ means—
+"financial institution" means—
 
 (a) an undertaking that carries out one or more of the activities set out at reference numbers 2 to 12, 14 and 15 of the Schedule to the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014) or foreign exchange services, but does not include an undertaking—
 
@@ -140,9 +150,11 @@ Definitions.
 
 (h) a virtual asset service provider;
 
-‘group’ means a group of undertakings which consists of a parent undertaking, its subsidiaries, and the entities in which the parent undertaking or its subsidiaries hold a participation, as well as undertakings linked to each other by a relationship within the meaning of Article 22 of Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC;
+"FIU Ireland" has the meaning assigned to it by section 40A(2);
 
-‘high-risk third country’ means a jurisdiction identified by the European Commission in accordance with Article 9 of the Fourth Money Laundering Directive;
+"group" means a group of undertakings which consists of a parent undertaking, its subsidiaries, and the entities in which the parent undertaking or its subsidiaries hold a participation, as well as undertakings linked to each other by a relationship within the meaning of Article 22 of Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC;
+
+"high-risk third country" means a jurisdiction identified by the European Commission in accordance with Article 9 of the Fourth Money Laundering Directive;
 
 “Insurance Mediation Directive” means Directive 2002/92/EC of the European Parliament and of the Council of 9 December 2002 on insurance mediation ;
 
@@ -154,7 +166,7 @@ Definitions.
 
 “member”, in relation to the Irish Taxation Institute, means a person who is subject to the professional and ethical standards of the Institute, including its investigation and disciplinary procedures, but does not include a person who is admitted to its membership as a student;
 
-‘monitoring’, in relation to a business relationship between a designated person and a customer, means the designated person, on an ongoing basis—
+"monitoring", in relation to a business relationship between a designated person and a customer, means the designated person, on an ongoing basis—
 
 (a) scrutinising transactions, and the source of wealth or of funds for those transactions, undertaken during the relationship in order to determine if the transactions are consistent with the designated person’s knowledge of—
 
@@ -166,9 +178,9 @@ Definitions.
 
 (b) ensuring that documents, data and information on customers are kept up to date in accordance with its internal policies, controls and procedures adopted in accordance with section 54;
 
-‘national risk assessment’ means the assessment carried out by the State in accordance with paragraph 1 of Article 7 of the Fourth Money Laundering Directive;
+"national risk assessment" means the assessment carried out by the State in accordance with paragraph 1 of Article 7 of the Fourth Money Laundering Directive;
 
-’occasional transaction’ means, in relation to a customer of a designated person where the designated person does not have a business relationship with the customer, a single transaction, or a series of transactions that are or appear to be linked to each other, and—
+"occasional transaction" means, in relation to a customer of a designated person where the designated person does not have a business relationship with the customer, a single transaction, or a series of transactions that are or appear to be linked to each other, and—
 
 (a) in a case where the designated person concerned is a person referred to in section 25(1)(h), that the amount of money or the monetary value concerned—
 
@@ -192,17 +204,17 @@ Definitions.
 
 “professional service provider” means an auditor, external accountant, tax adviser, relevant independent legal professional or trust or company service provider;
 
-‘property service provider’ means a person who provides a property service within the meaning of the Property Services (Regulation) Act 2011;
+"property service provider" means a person who provides a property service within the meaning of the Property Services (Regulation) Act 2011;
 
 (a) the auction of property other than land;
 
 (b) the purchase or sale, by whatever means, of land; but does not include a service provided by a local authority in the course of the performance of its statutory functions under any statutory provision;
 
-‘public body’ means an FOI body within the meaning of the Freedom of Information Act 2014;
+"public body" means an FOI body within the meaning of the Freedom of Information Act 2014;
 
 ...
 
-‘regulated market’ means—
+"regulated market" means—
 
 (a) a regulated market with the meaning of point (21) of Article 4(1) of Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU, located within the EEA, or
 
@@ -215,6 +227,8 @@ Definitions.
 (iii) disclosure obligations consistent with Articles 4 to 6, 14, 16 to 19 and 30 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC, and
 
 (iv) disclosure requirements consistent with EU legislation made under the provisions mentioned in subparagraphs (i) to (iii);
+
+"Regulation (EU) 2016/794" means Regulation (EU) 2016/794 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA;
 
 “relevant independent legal professional” means a barrister, solicitor or notary who carries out any of the following services:
 
@@ -234,7 +248,7 @@ Definitions.
 
 “relevant professional adviser” means an accountant, auditor or tax adviser who is a member of a designated accountancy body or of the Irish Taxation Institute;
 
-‘senior management’ means an officer or employee with sufficient knowledge of the institution’s money laundering and terrorist financing risk exposure and sufficient seniority to take decisions affecting its risk exposure, and need not, in all cases, be a member of the board of directors;
+"senior management" means an officer or employee with sufficient knowledge of the institution’s money laundering and terrorist financing risk exposure and sufficient seniority to take decisions affecting its risk exposure, and need not, in all cases, be a member of the board of directors;
 
 “solicitor” means a practising solicitor;
 
@@ -254,7 +268,7 @@ Definitions.
 
 (b) in relation to a casino or private members’ club, a transaction, such as the purchase or exchange of tokens or chips, or the placing of a bet, carried out in connection with gambling activities carried out on the premises of the casino or club by a customer of the casino or club;
 
-‘transferable securities’ means transferable securities within the meaning of the European Union (Markets in Financial Instruments) Regulations 2017;
+"transferable securities" means transferable securities within the meaning of the European Union (Markets in Financial Instruments) Regulations 2017;
 
 “trust or company service provider” means any person whose business it is to provide any of the following services:
 
@@ -272,9 +286,9 @@ Definitions.
 
 (g) acting, or arranging for another person to act, as a nominee shareholder for a person other than a company whose securities are listed on a regulated market.
 
-‘virtual asset’ means a digital representation of value that can be digitally traded or transferred and can be used for payment or investment purposes but does not include digital representations of fiat currencies, securities or other financial assets;
+"virtual asset" means a digital representation of value that can be digitally traded or transferred and can be used for payment or investment purposes but does not include digital representations of fiat currencies, securities or other financial assets;
 
-‘virtual asset service provider’ means a person who by way of business carries out one or more of the following activities for, or on behalf of, another person:
+"virtual asset service provider" means a person who by way of business carries out one or more of the following activities for, or on behalf of, another person:
 
 (a) exchange between virtual assets and fiat currencies;
 
