@@ -14,7 +14,7 @@ Interpretation (Part 4)
 
 “NILGOSC member” means a public servant—
 
-(a) who is a ‘‘Reserved Rights scheme Member’’, as that term is defined in Rule A10 of the North/South Pension Scheme, and
+(a) who is a "Reserved Rights scheme Member", as that term is defined in Rule A10 of the North/South Pension Scheme, and
 
 (b) to whom the terms of the scheme constituted by the Local Government Pension Scheme Regulations (Northern Ireland) 2000, the Local Government Pension Scheme (Amendment No. 2 and Transitional Provisions) Regulations (Northern Ireland) 2002 and the Local Government Pension Scheme Regulations (Northern Ireland) 2002 applied on 28 April 2005;
 

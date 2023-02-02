@@ -1,6 +1,6 @@
 Pensionable pay
 
-29. (1) In this Part, ‘pensionable pay’, in relation to a public servant and in respect of a specified period, means—
+29. (1) In this Part, "pensionable pay", in relation to a public servant and in respect of a specified period, means—
 
 (a) basic pay (excluding overtime) due to the public servant in respect of that period, and
 
@@ -22,8 +22,8 @@ Pensionable pay
 
 (5) In this section—
 
-‘Act of 1997’ means the Taxes Consolidation Act 1997;
+"Act of 1997" means the Taxes Consolidation Act 1997;
 
-‘exempt employee benefit’ means a benefit specifically approved by the Revenue Commissioners which is referred to in section 118B(2)(a)(i) or (iii) of the Act of 1997;
+"exempt employee benefit" means a benefit specifically approved by the Revenue Commissioners which is referred to in section 118B(2)(a)(i) or (iii) of the Act of 1997;
 
-‘salary sacrifice arrangement’ has the same meaning as it has in section 118B of the Act of 1997.
+"salary sacrifice arrangement" has the same meaning as it has in section 118B of the Act of 1997.

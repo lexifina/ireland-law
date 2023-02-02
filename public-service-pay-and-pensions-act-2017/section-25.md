@@ -44,9 +44,7 @@ Up to €54,000 Exempt
 
 Any amount over €54,000 but not over 12 per €60,000 cent
 
-Any amount over €60,000 but not over 17 per €100,000 cent
-
-Any amount over €100,000 28 per cent
+Any amount over €60,000 but not over 17 per €100,000 cent Any amount over €100,000 28 per cent
 
 ”.
 
