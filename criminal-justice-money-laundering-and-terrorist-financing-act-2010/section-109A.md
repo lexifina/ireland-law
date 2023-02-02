@@ -1,10 +1,10 @@
 Managers and beneficial owners of private members’ clubs to hold certificates of fitness.
 
-109A. (1) An individual who—
+109A.— (1) An individual who—
 
 (a) effectively directs a private members’ club at which gambling activities are carried on, or
 
-(b) is a beneficial owner of a private members’ club at which gambling activities are carried on, shall hold a certificate of fitness and probity (referred to in this section and sections 109B, 109C, 109D and 109E as a ‘certificate of fitness’) granted by a Superintendent of the Garda Síochána or, as the case may be, by the Minister.
+(b) is a beneficial owner of a private members’ club at which gambling activities are carried on, shall hold a certificate of fitness and probity (referred to in this section and sections 109B, 109C, 109D and 109E as a "certificate of fitness") granted by a Superintendent of the Garda Síochána or, as the case may be, by the Minister.
 
 (2) An individual who fails to comply with subsection (1) commits an offence and is liable—
 

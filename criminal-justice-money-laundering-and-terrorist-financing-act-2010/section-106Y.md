@@ -1,6 +1,6 @@
 Holders of registrations to retain certain records.
 
-106Y. (1) The holder of a registration shall—
+106Y.— (1) The holder of a registration shall—
 
 (a) retain at an office or other premises in the State such records as may be specified by the Bank, and
 

@@ -1,6 +1,6 @@
 Examination of background and purpose of certain transactions.
 
-36A. (1) A designated person shall, as far as possible, in accordance with policies and procedures adopted in accordance with section 54, examine the background and purpose of all transactions that—
+36A.— (1) A designated person shall, as far as possible, in accordance with policies and procedures adopted in accordance with section 54, examine the background and purpose of all transactions that—
 
 (a) are complex,
 

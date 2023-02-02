@@ -1,6 +1,6 @@
 Co-operation with Member State competent authorities.
 
-63B. (1) This section applies to designated persons—
+63B.— (1) This section applies to designated persons—
 
 (a) which operate establishments in the State and which have their head offices in another Member State, or
 

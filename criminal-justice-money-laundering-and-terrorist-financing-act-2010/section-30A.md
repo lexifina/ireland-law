@@ -1,6 +1,6 @@
 Business risk assessment by designated persons
 
-30A. (1) A designated person shall carry out an assessment (in this Act referred to as a ‘business risk assessment’) to identify and assess the risks of money laundering and terrorist financing involved in carrying on the designated person’s business activities taking into account at least the following risk factors:
+30A.— (1) A designated person shall carry out an assessment (in this Act referred to as a "business risk assessment") to identify and assess the risks of money laundering and terrorist financing involved in carrying on the designated person’s business activities taking into account at least the following risk factors:
 
 (a) the type of customer that the designated person has;
 

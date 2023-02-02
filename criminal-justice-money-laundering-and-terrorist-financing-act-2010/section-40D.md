@@ -1,6 +1,6 @@
 Power of FIU Ireland to respond to requests for information from competent authorities.
 
-40D. (1) FIU Ireland shall respond as soon as practicable to any request for information which is based on a concern relating to money laundering or terrorist financing that it receives from—
+40D.— (1) FIU Ireland shall respond as soon as practicable to any request for information which is based on a concern relating to money laundering or terrorist financing that it receives from—
 
 (a) a competent authority,
 

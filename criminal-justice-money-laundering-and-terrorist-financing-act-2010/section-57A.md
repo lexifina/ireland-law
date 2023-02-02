@@ -1,6 +1,6 @@
 Additional measures where implementation of policies and procedures is not possible.
 
-57A. (1) Where a competent authority receives a notification under section 57(3)(b) and is not satisfied that the additional measures applied in accordance with that subsection are sufficient for the purposes of carrying out customer due diligence and preventing and detecting the commission of money laundering and terrorist financing it shall exercise additional supervisory actions, where necessary requesting a group to close down its operations in the third country and may, by notice in writing, direct the designated person to take such additional actions as the competent authority considers necessary to mitigate the risk of money laundering or terrorist financing.
+57A.— (1) Where a competent authority receives a notification under section 57(3)(b) and is not satisfied that the additional measures applied in accordance with that subsection are sufficient for the purposes of carrying out customer due diligence and preventing and detecting the commission of money laundering and terrorist financing it shall exercise additional supervisory actions, where necessary requesting a group to close down its operations in the third country and may, by notice in writing, direct the designated person to take such additional actions as the competent authority considers necessary to mitigate the risk of money laundering or terrorist financing.
 
 (2) A notice under subsection (1)—
 

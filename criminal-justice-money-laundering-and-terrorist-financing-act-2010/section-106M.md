@@ -1,6 +1,6 @@
 Offence to fail to comply with conditions or prescribed requirements.
 
-106M. (1) The holder of a registration commits an offence if the holder fails to comply with—
+106M.— (1) The holder of a registration commits an offence if the holder fails to comply with—
 
 (a) any condition of the registration, or
 

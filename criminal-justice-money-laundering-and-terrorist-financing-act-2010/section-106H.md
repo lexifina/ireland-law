@@ -1,6 +1,6 @@
 Grant and refusal of applications for registration.
 
-106H. (1) The Bank may refuse an application for registration under section 106G only if—
+106H.— (1) The Bank may refuse an application for registration under section 106G only if—
 
 (a) the application does not comply with the requirements of section 106G,
 

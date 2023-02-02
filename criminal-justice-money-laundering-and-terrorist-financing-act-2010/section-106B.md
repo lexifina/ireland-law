@@ -1,6 +1,6 @@
 Fit and proper person.
 
-106B. For the purposes of this Chapter, a person is not a fit and proper person if any of the following apply:
+106B.— For the purposes of this Chapter, a person is not a fit and proper person if any of the following apply:
 
 (a) the person has been convicted of any of the following offences:
 

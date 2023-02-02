@@ -1,6 +1,6 @@
 Obligation on virtual asset service providers to register with Bank.
 
-106E. (1) A person shall not carry on business as a virtual asset service provider, claim to be a virtual asset service provider or represent that the person is a virtual asset service provider unless the person is registered with the Bank under this Chapter.
+106E.— (1) A person shall not carry on business as a virtual asset service provider, claim to be a virtual asset service provider or represent that the person is a virtual asset service provider unless the person is registered with the Bank under this Chapter.
 
 (2) A person who contravenes subsection (1) commits an offence and is liable—
 

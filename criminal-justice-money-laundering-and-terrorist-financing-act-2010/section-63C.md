@@ -1,6 +1,6 @@
 Supervision by competent authorities.
 
-63C. Each competent authority shall—
+63C.— Each competent authority shall—
 
 (a) adopt a risk-based approach to the exercise of its supervisory functions,
 

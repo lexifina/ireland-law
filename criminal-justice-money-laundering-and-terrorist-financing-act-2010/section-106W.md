@@ -1,6 +1,6 @@
 Provision of information by Garda Síochána as to whether or not person is fit and proper person.
 
-106W. (1) The Bank may request the Commissioner of the Garda Síochána to provide any information that is required to assist the Bank in determining, for the purposes of this Chapter, whether or not any of the following persons is a fit and proper person:
+106W.— (1) The Bank may request the Commissioner of the Garda Síochána to provide any information that is required to assist the Bank in determining, for the purposes of this Chapter, whether or not any of the following persons is a fit and proper person:
 
 (a) the holder or proposed holder of a registration;
 

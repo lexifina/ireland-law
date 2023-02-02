@@ -1,6 +1,6 @@
 Powers of Bank in relation to beneficial owners.
 
-106U. (1) Where the Bank has reason to believe that a person who is a beneficial owner of the business of the holder of a registration is exercising an influence on the direction of the affairs of the holder of the registration which is, or is likely to be, prejudicial to the compliance by the holder concerned with any obligations under this Act, the Bank shall, subject to subsection (2), notify the person that it so believes, and direct the person in writing to take specified measures to bring that influence to an end within a specified period.
+106U.— (1) Where the Bank has reason to believe that a person who is a beneficial owner of the business of the holder of a registration is exercising an influence on the direction of the affairs of the holder of the registration which is, or is likely to be, prejudicial to the compliance by the holder concerned with any obligations under this Act, the Bank shall, subject to subsection (2), notify the person that it so believes, and direct the person in writing to take specified measures to bring that influence to an end within a specified period.
 
 (2) Before issuing a direction to a person under subsection (1), the Bank shall notify the person of its intention to issue the direction and shall give the person an opportunity to make such representations on the matter as he or she may wish to make within a period specified by the Bank in the notification.
 
@@ -18,4 +18,4 @@ Powers of Bank in relation to beneficial owners.
 
 (5) Where the Court is satisfied, because of the nature or the circumstances of the case or otherwise in the interests of justice that it is desirable, the whole or any part of proceedings before it may be heard otherwise than in public.
 
-(6) In this section ‘Court’ means the High Court.
+(6) In this section "Court" means the High Court.

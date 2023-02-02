@@ -1,6 +1,6 @@
 Direction not to carry out business other than as directed.
 
-108G. (1) If the Bank reasonably believes that there may be grounds for cancelling a registration under section 108C, the Bank may serve on the person registered a direction in writing prohibiting that person from carrying on business as a cheque cashing office other than in accordance with conditions specified by the Bank in the direction.
+108G.— (1) If the Bank reasonably believes that there may be grounds for cancelling a registration under section 108C, the Bank may serve on the person registered a direction in writing prohibiting that person from carrying on business as a cheque cashing office other than in accordance with conditions specified by the Bank in the direction.
 
 (2) The Bank shall include in a direction under this section a statement—
 

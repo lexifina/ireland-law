@@ -1,6 +1,6 @@
 Persons registered to retain certain records.
 
-108I. (1) A person registered shall—
+108I.— (1) A person registered shall—
 
 (a) retain at an office or other premises in the State such records as may be specified by the Bank, and
 

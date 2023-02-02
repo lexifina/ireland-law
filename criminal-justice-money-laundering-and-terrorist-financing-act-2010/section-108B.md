@@ -1,6 +1,6 @@
 Obligation for cheque cashing offices to register with Central Bank of Ireland.
 
-108B. (1) A person shall not carry on business as a cheque cashing office unless the person is registered under this section.
+108B.— (1) A person shall not carry on business as a cheque cashing office unless the person is registered under this section.
 
 (2) A person who contravenes subsection (1) commits an offence and is liable—
 
@@ -68,7 +68,7 @@ Obligation for cheque cashing offices to register with Central Bank of Ireland.
 
 (8) If the Bank does not refuse an application for registration, the Bank shall register the applicant under this section.
 
-(9) The Bank shall establish and maintain a register of persons registered under this section (referred to in this section as ‘the Register’).
+(9) The Bank shall establish and maintain a register of persons registered under this section (referred to in this section as "the Register").
 
 (10) The following particulars shall be entered into the Register in respect of each person registered under this section (in this section and sections 108C to 108I referred to as “the person registered”):
 
@@ -84,6 +84,6 @@ Obligation for cheque cashing offices to register with Central Bank of Ireland.
 
 (13) In this section and sections 108C to 108I—
 
-‘Bank’ means the Central Bank of Ireland;
+"Bank" means the Central Bank of Ireland;
 
-‘principal officer’ has the same meaning as it has in Chapter 9.
+"principal officer" has the same meaning as it has in Chapter 9.

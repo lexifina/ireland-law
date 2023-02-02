@@ -1,6 +1,6 @@
 Bank may amend registration.
 
-106K. (1) The Bank may amend a registration granted under this Chapter by varying, replacing or revoking any conditions or by adding a new condition if the Bank considers that the variation, replacement, revocation or addition is necessary for the proper and orderly regulation of the business of the holder of the registration as a virtual asset service provider and, in particular, for preventing the business from being used to carry out money laundering or terrorist financing.
+106K.— (1) The Bank may amend a registration granted under this Chapter by varying, replacing or revoking any conditions or by adding a new condition if the Bank considers that the variation, replacement, revocation or addition is necessary for the proper and orderly regulation of the business of the holder of the registration as a virtual asset service provider and, in particular, for preventing the business from being used to carry out money laundering or terrorist financing.
 
 (2) If the Bank proposes to amend a registration under this section, the Bank shall serve on the holder of the registration, a notice in writing informing the holder of the Bank’s intention to amend the registration.
 

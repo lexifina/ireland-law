@@ -1,6 +1,6 @@
 Application for registration.
 
-106G. (1) An individual, body corporate or partnership may apply to the Bank to be registered under this section.
+106G.— (1) An individual, body corporate or partnership may apply to the Bank to be registered under this section.
 
 (2) An application for registration under this section shall—
 

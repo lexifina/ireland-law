@@ -1,6 +1,6 @@
 Supervision
 
-63A. (1) Competent authorities shall take the necessary measures to prevent persons convicted of a relevant offence from performing a management function in or being the beneficial owners of the designated persons referred to in paragraphs (c), (d) and (f) of section 25(1).
+63A.— (1) Competent authorities shall take the necessary measures to prevent persons convicted of a relevant offence from performing a management function in or being the beneficial owners of the designated persons referred to in paragraphs (c), (d) and (f) of section 25(1).
 
 (2) Any person performing a management function in or being the beneficial owner of the designated persons referred to in subsection (1) and who is convicted of a relevant offence must inform the relevant competent authority within 30 days of the day on which that person was convicted of the relevant offence.
 

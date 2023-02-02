@@ -1,6 +1,6 @@
 Duration of certificate of fitness.
 
-109D. (1) A certificate of fitness shall remain in force until the expiration of 3 years after the date on which the certificate was issued.
+109D.— (1) A certificate of fitness shall remain in force until the expiration of 3 years after the date on which the certificate was issued.
 
 (2) If, before the expiration of a certificate of fitness, the individual to whom it was issued makes an application for a new certificate of fitness, the first-mentioned certificate of fitness shall remain in force—
 

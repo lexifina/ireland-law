@@ -1,6 +1,6 @@
 Obligation for certain designated persons to register with Central Bank of Ireland.
 
-108A. (1) Subject to subsection (2), a person who is a designated person pursuant to paragraph (a) of the definition of ‘financial institution’ in section 24(1) and section 25(1)(b) ... shall register with the Bank.
+108A.— (1) Subject to subsection (2), a person who is a designated person pursuant to paragraph (a) of the definition of "financial institution" in section 24(1) and section 25(1)(b) ... shall register with the Bank.
 
 (2) Subsection (1) shall not apply to a designated person that is authorised or licensed to carry on its activities by, or is registered with, the Bank under—
 
@@ -16,7 +16,7 @@ Obligation for certain designated persons to register with Central Bank of Irela
 
 (b) on conviction on indictment to a fine or imprisonment for a term not exceeding 5 years (or both).
 
-(4) The Bank shall establish and maintain a register of persons that register under this section (referred to in this section as ‘the Register’).
+(4) The Bank shall establish and maintain a register of persons that register under this section (referred to in this section as "the Register").
 
 (5) The following particulars shall be entered into the Register in respect of each designated person registered:
 
@@ -36,4 +36,4 @@ Obligation for certain designated persons to register with Central Bank of Irela
 
 (10) ...
 
-(11) In this section ‘Bank’ means the Central Bank of Ireland.
+(11) In this section "Bank" means the Central Bank of Ireland.
