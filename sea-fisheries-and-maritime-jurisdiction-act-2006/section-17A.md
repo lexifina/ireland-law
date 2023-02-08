@@ -50,10 +50,10 @@ Search warrants.
 
 (9) In this section—
 
-‘commission’, in relation to an offence, includes an attempt to commit the offence;
+"commission", in relation to an offence, includes an attempt to commit the offence;
 
-‘computer at the place which is being searched’ includes any other computer, whether at that place or at any other place, which is lawfully accessible by means of that computer;
+"computer at the place which is being searched" includes any other computer, whether at that place or at any other place, which is lawfully accessible by means of that computer;
 
-‘place’ includes a dwelling, a building or other structure or part of a building or other structure, a vehicle, a sea-fishing boat or other vessel, an aircraft, an installation in the territorial seas or in a designated area (within the meaning of the Maritime Jurisdiction Act 2021) and a tent, caravan or other temporary or movable structure;
+"place" includes a dwelling, a building or other structure or part of a building or other structure, a vehicle, a sea-fishing boat or other vessel, an aircraft, an installation in the territorial seas or in a designated area (within the meaning of the Maritime Jurisdiction Act 2021) and a tent, caravan or other temporary or movable structure;
 
-‘thing’ includes any thing that may be inspected by a sea-fisheries protection officer pursuant to section 17 or 18.
+"thing" includes any thing that may be inspected by a sea-fisheries protection officer pursuant to section 17 or 18.

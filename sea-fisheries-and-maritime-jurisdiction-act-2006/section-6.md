@@ -22,9 +22,9 @@ Definitions (Part 2).
 
 “exclusive fishery limits” means exclusive fishery limits of the State;
 
-‘exclusive economic zone’ has the same meaning as it has in the Maritime Jurisdiction Act 2021;
+"exclusive economic zone" has the same meaning as it has in the Maritime Jurisdiction Act 2021;
 
-'exclusive fishery limits of the State’ comprise all seas that lie inside the outer limit of the exclusive economic zone;
+"exclusive fishery limits of the State" comprise all seas that lie inside the outer limit of the exclusive economic zone;
 
 “fish” and “sea-fish” include anadromous and catadromous species and all crustaceans and molluscs found in the sea and the brood and spawn of fish, and references to a fish are to be read as including references to part of that fish;
 
