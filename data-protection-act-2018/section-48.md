@@ -8,4 +8,4 @@ Processing of personal data revealing political opinions for electoral activitie
 
 (ii) a candidate for election to, or a holder of, elective political office in the State, and
 
-(b) by the Referendum Commission in the performance of its functions.
+(b) by An Coimisiún Toghcháin in the performance of its functions.
