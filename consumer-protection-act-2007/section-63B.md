@@ -1,4 +1,4 @@
-Regulations in respect of grocery goods undertakings
+Regulations in respect of grocery goods undertakings.
 
 63B. (1) Where the Minister considers it to be appropriate having regard to—
 

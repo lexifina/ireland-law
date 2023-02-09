@@ -1,4 +1,4 @@
-Enforcement
+Enforcement.
 
 63E. (1) A relevant grocery goods undertaking that contravenes a requirement in a contravention notice commits an offence and is liable—
 

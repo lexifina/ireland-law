@@ -24,9 +24,9 @@ No. 48 of 1931 Merchandise Marks Act 1931 The whole Act
 
 No. 6 of 1936 Spanish Trade Agreement Act 1936 The whole Act
 
-No. 14 of 1955 Seed Production Act 1955 Section 22(3) Session and Chapter or Short Title Extent of Repeal Number and Year (1) (2) (3)
+No. 14 of 1955 Seed Production Act 1955 Section 22(3)
 
-No. 4 of 1958 Prices Act 1958 The whole Act, except to the extent specified in section 92
+No. 4 of 1958 Prices Act 1958 The whole Act, except to the extent specified in section 92 Session and Chapter or Short Title Extent of Repeal Number and Year (1) (2) (3)
 
 No. 25 of 1968 Road Traffic Act 1968 Section 14(1), (2) and (3)
 

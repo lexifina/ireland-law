@@ -1,4 +1,4 @@
-Inspections and investigations by the Commission
+Inspections and investigations by the Commission.
 
 63C. (1) The Commission may from time to time carry out such and so many inspections of relevant grocery goods undertakings as it considers necessary to monitor compliance with regulations under section 63B.
 

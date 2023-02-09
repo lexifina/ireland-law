@@ -16,9 +16,9 @@ Prompt Payment of Accounts Schedule Substitute “National Consumer Agency” Ac
 
 Taxes Consolidation Act Schedule 13 Substitute the following for paragraph 1997 (No. 39 of 1997) 112 (inserted by section 14 of the Finance Act 2001):
 
-Electronic Commerce Act Section 15 Substitute “role of the National Consumer 2000 (No. 27 of 2000) Short Title, Number and Provision affected Amendment Year (1) (2) (3)
+Electronic Commerce Act Section 15 Substitute “role of the National Consumer 2000 (No. 27 of 2000)
 
-Competition Act 2002 (No. Schedule 1 (as amended by In column (1), substitute 14 of 2002) the Competition Act 2002 (Section 34(11)) (Director of Consumer Affairs) Order 2003 (S.I. No. 130 of 2003)
+Competition Act 2002 (No. Schedule 1 (as amended by In column (1), substitute 14 of 2002) the Competition Act 2002 (Section 34(11)) (Director of Consumer Affairs) Order 2003 (S.I. No. 130 of 2003) Short Title, Number and Provision affected Amendment Year (1) (2) (3)
 
 Ombudsman for Children Act Schedule 1 In Part 2, substitute “National Consumer 2002 (No. 22 of 2002)
 
@@ -44,11 +44,9 @@ Citation, Number and Year Provision affected Amendment (1) (2) (3)
 
 Air Quality Standards Schedule 14 Substitute the following for paragraph Regulations 2002 (S.I. No. (6): 271 of 2002)
 
-Genetically Modified Regulation 62(1) (a) Substitute the following for paragraph Organisms (Deliberate Release) Regulations 2003 (S.I. No. 500 of 2003) Citation, Number and Year Provision affected Amendment (1) (2) (3)
+Genetically Modified Regulation 62(1) (a) Substitute the following for paragraph Organisms (Deliberate Release) Regulations 2003 (S.I. No. 500 of 2003) (b)
 
-(b)
-
-Ozone in Ambient Air Schedule 10 Substitute the following for paragraph Regulations 2004 (S.I. No. 53 (6): of 2004)
+Ozone in Ambient Air Schedule 10 Substitute the following for paragraph Regulations 2004 (S.I. No. 53 (6): of 2004) Citation, Number and Year Provision affected Amendment (1) (2) (3)
 
 Investor Compensation Act Regulation 2 Substitute the following for paragraph 1998 (Section 18(4)) (b): (Prescription of Bodies and Individuals) Regulations 2004 (S.I. No. 570 of 2004)
 

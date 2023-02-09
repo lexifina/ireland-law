@@ -18,7 +18,9 @@ S.I. No. 808 of 2007 European Communities (Labelling, Presentation and Advertisi
 
 S.I. No. 316 of 2008 European Communities (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (Amendment) Regulations 2008
 
-S.I. No. 407 of 2008 European Communities (Machinery) Regulations 2008 S.I. No. 424 of 2008 European Communities (Labelling, Presentation and Advertising of Foodstuffs) (Amendment) Regulations 2008
+S.I. No. 407 of 2008 European Communities (Machinery) Regulations 2008
+
+S.I. No. 424 of 2008 European Communities (Labelling, Presentation and Advertising of Foodstuffs) (Amendment) Regulations 2008
 
 S.I. No. 566 of 2008 European Communities (Prepacked Products) Regulations 2008
 
@@ -30,9 +32,7 @@ S.I. No. 383 of 2009 European Communities (Payment Services) Regulations 2009
 
 S.I. No. 463 of 2009 European Communities (Plastics and other materials) (Contact with food) (Amendment) (No. 2) Regulations 2009
 
-S.I. No. 1 of 2010 European Communities (Placing on the Market of Pyrotechnic Articles) Regulations 2010
-
-S.I. No. 281 of 2010 European Communities (Consumer Credit Agreements) Regulations 2010
+S.I. No. 1 of 2010 European Communities (Placing on the Market of Pyrotechnic Articles) Regulations 2010 S.I. No. 281 of 2010 European Communities (Consumer Credit Agreements) Regulations 2010
 
 S.I. No. 416 of 2010 European Communities (Placing on the Market of Pyrotechnic Articles) (Amendment) Regulations 2010
 

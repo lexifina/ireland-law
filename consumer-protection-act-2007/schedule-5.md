@@ -20,13 +20,13 @@ S.I. No. 103 of 1997 Consumer Information (Advertisements for Concert or Theatre
 
 S.I. No. 468 of 2000 Consumer Information (Advertisements for Airfares) Order 2000
 
-... ... Number and Year Short Title or Citation (1) (2)
-
 ... ...
 
 S.I. No. 68 of 2003 European Communities (Directive 2000/31/EC) Regulations 2003
 
-European Communities (Amendment of S.I. No. 68 of 2003) Regulations S.I. No. 490 of 2004 2003 the European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011
+European Communities (Amendment of S.I. No. 68 of 2003) Regulations S.I. No. 490 of 2004 2003 Number and Year Short Title or Citation (1) (2)
+
+... ... the European Union (Protection of Consumers in respect of Timeshare, Long-term Holiday Product, Resale and Exchange Contracts) Regulations 2011
 
 ... ...
 

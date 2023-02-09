@@ -1,6 +1,6 @@
 ## CHAPTER 5 Grocery Goods Undertakings
 
-Interpretation
+Interpretation.
 
 63A. In this Chapter—
 
