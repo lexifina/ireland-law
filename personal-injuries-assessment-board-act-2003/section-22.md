@@ -32,4 +32,6 @@ Power to impose charges.
 
 (7) Charges may be imposed pursuant to regulations under subsection (1) even though, before the making of an assessment of the claim would otherwise have fallen to be made under section 20, a settlement is entered into in respect of the relevant claim concerned.
 
+(7A) A respondent referred to in section 14(1) shall be liable to the Board for any and all charges incurred by the Board in respect of the respondent in relation to the relevant claim concerned pursuant to regulations made under this section.
+
 (8) In subsection (2) “respondent” includes a non-accepting respondent (within the meaning of section 34).

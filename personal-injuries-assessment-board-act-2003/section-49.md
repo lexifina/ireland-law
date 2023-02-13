@@ -20,6 +20,8 @@ Assessments to be made expeditiously.
 
 (6) If the assessment is not made before that date, then unless the claimant consents in writing to the Board's continuing to deal with the matter, it shall be the duty of the Board, as soon as may be after that date, to issue to the claimant a document that contains the statement and operates to have the effect mentioned in subsection (8).
 
-(7) Such a document is also referred to in this Act as an “authorisation”.
+(6A) Where a claimant who has consented under subsection (6), subsequently gives notice in writing to the Board of the withdrawal of his or her consent, it shall be the duty of the Board, as soon as may be after the date of the notice, to issue to the claimant a document that contains the statement and operates to have the effect mentioned in subsection (8).
+
+(7) A document referred to in subsection (6) or (6A) is also referred to in this Act as an “authorisation”.
 
 (8) An authorisation under this section shall state that the claimant is authorised to, and operate to authorise the claimant to, bring proceedings in respect of his or her relevant claim.
