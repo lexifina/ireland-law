@@ -14,9 +14,9 @@ Appeal to High Court against decision to impose major sanction.
 
 (I) to do either or both of the following:
 
-(A) impose a different major sanction on the specified body;
+(a) impose a different major sanction on the specified body;
 
-(B) impose a minor sanction on the specified body, or
+(b) impose a minor sanction on the specified body, or
 
 (II) to impose neither a major sanction nor a minor sanction on the specified body, and
 
