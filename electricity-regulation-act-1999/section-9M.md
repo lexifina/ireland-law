@@ -50,4 +50,4 @@ Informative billing.
 
 (10) For the purposes of subsection (9), a company registered under the Companies Acts is deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body is deemed to be ordinarily resident at its principal office or place of business.
 
-(11) In this section, ‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+(11) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).

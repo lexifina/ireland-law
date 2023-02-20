@@ -38,10 +38,10 @@ Construction and Interpretation
 
 (b) In this Schedule—
 
-‘formula determined by the Commission’ means a formula determined by the Commission following consultation with the electricity industry, and having been approved by the Minister, which formula is, after such approval, published by the Commission;
+"formula determined by the Commission" means a formula determined by the Commission following consultation with the electricity industry, and having been approved by the Minister, which formula is, after such approval, published by the Commission;
 
-‘maximum import capacity’ means in relation to an individual electricity account—
+"maximum import capacity" means in relation to an individual electricity account—
 
 (i) the agreed maximum import capacity being the maximum import capacity expressed in kVA agreed by the holder of the electricity account with the distribution system operator, or
 
-(ii) in a case where the maximum import capacity has not been agreed with such an operator, the deemed maximum import capacity being the level of maximum import capacity calculated by the distribution system operator (in accordance with a formula determined by the Commission) as being the maximum import capacity in relation to that account.”.
+(ii) in a case where the maximum import capacity has not been agreed with such an operator, the deemed maximum import capacity being the level of maximum import capacity calculated by the distribution system operator (in accordance with a formula determined by the Commission) as being the maximum import capacity in relation to that account.

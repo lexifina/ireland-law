@@ -1,6 +1,6 @@
 Safety case guidelines.
 
-13L. (1) Subject to subsection (2), the Commission shall, from time to time, prepare guidelines (‘safety case guidelines’) relating to the preparation and contents of a safety case applicable to all or any designated petroleum activity or activities.
+13L. (1) Subject to subsection (2), the Commission shall, from time to time, prepare guidelines ("safety case guidelines") relating to the preparation and contents of a safety case applicable to all or any designated petroleum activity or activities.
 
 (2) For the purpose of developing safety case guidelines, the Commission—
 

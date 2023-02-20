@@ -22,8 +22,8 @@ Regional coordination centres.
 
 (4) For the purposes of Article 62(2)(a) and (b) and (3) of the 2019 Internal Electricity Market Directive, section 55 shall be construed as if –
 
-(a) ‘improper conduct’ includes failure by a regional coordination centre (which has its seat in the State) to comply with an obligation under the 2019 Internal Electricity Market Directive or the 2019 Internal Electricity Market Regulation or with any decision referred to in subsection (5) or any relevant legally binding decision of the Agency, and
+(a) "improper conduct" includes failure by a regional coordination centre (which has its seat in the State) to comply with an obligation under the 2019 Internal Electricity Market Directive or the 2019 Internal Electricity Market Regulation or with any decision referred to in subsection (5) or any relevant legally binding decision of the Agency, and
 
-(b) in circumstances of improper conduct referred to in paragraph (a), ‘specified body’ means such a regional coordination centre, and Part IX and Schedule 4 shall apply in accordance with this subsection with any other necessary modifications.
+(b) in circumstances of improper conduct referred to in paragraph (a), "specified body" means such a regional coordination centre, and Part IX and Schedule 4 shall apply in accordance with this subsection with any other necessary modifications.
 
 (5) For the purposes of Article 62(2)(c) of the 2019 Internal Electricity Market Directive, the Commission, in conjunction with other regulatory authorities in its system operation region, may make and issue to a regional coordination centre a decision that the centre shall do, or shall refrain from doing, one or more things specified in the decision and the centre shall comply with any such decision.

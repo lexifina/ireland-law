@@ -2,7 +2,7 @@ Notice of amount of carbon revenue levy.
 
 40H.— The Commission shall, within 10 working days of receipt of the return under section 40G, or within such longer period as the Commission may, in any particular case, determine, give to each electricity generator, in such form and manner as the Commission may determine, a notice in respect of the levy period concerned specifying—
 
-(a) the average of the daily price of allowances for the levy period concerned referred to in the construction of ‘P’ in the formula in section 40D(1),
+(a) the average of the daily price of allowances for the levy period concerned referred to in the construction of "P" in the formula in section 40D(1),
 
 (b) the percentage rate provided for by section 40F,
 
