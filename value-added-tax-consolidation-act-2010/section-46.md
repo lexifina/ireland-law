@@ -14,9 +14,9 @@ Rates of tax.
 
 (ca) ... 9 per cent in relation to goods or services of a kind specified in paragraphs 7(a), 7A and 12 of Schedule 3 on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
 
-(caa) during the period from 1 May 2022 to 28 February 2023, 9 per cent in relation to goods of a kind specified in paragraph 17(2) and (3) of Schedule 3 on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
+(caa) during the period from 1 May 2022 to 31 October 2023, 9 per cent in relation to goods of a kind specified in paragraph 17(2) and (3) of Schedule 3 on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
 
-(cb) during the period from 1 November 2020 to 28 February 2023, 9 per cent in relation to goods or services of a kind specified in paragraphs 3(1), 3(3), 7(b) to (e), 8, 11 and 13(3) of Schedule 3 on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
+(cb) during the period from 1 November 2020 to 31 August 2023, 9 per cent in relation to goods or services of a kind specified in paragraphs 3(1), 3(3), 7(b) to (e), 8, 11 and 13(3) of Schedule 3 on which tax would, but for this paragraph, be chargeable in accordance with paragraph (c);
 
 (d) 4.8 per cent of the amount on which tax is chargeable in relation to the supply of livestock ....
 
