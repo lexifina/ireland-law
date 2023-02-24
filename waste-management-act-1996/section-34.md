@@ -28,7 +28,7 @@ Waste collection permits.
 
 (b) A local authority shall have regard to any guidance and comply with any direction given to it under paragraph (a) in performing any of its functions under this section or section 33, as appropriate.
 
-(3) On an application being made to a local authority for the grant of a permit under this section, the authority may decide to grant the permit, subject to, or without, conditions or to refuse to grant the permit.
+(3) On an application being made to a local authority for the grant of a permit under this section, the authority may decide to grant the permit, subject to, or without, conditions or to refuse to grant the permit for stated reasons which may include the abandonment of the application by the applicant.
 
 (4) A local authority shall not grant a waste collection permit unless it is satisfied that—
 
@@ -46,41 +46,41 @@ Waste collection permits.
 
 (b) Conditions may, or, if the Minister so prescribes under paragraph (e) or subsection (11)(b)(v), shall be attached under paragraph (a) to a waste collection permit specifying requirements in relation to the following:
 
-(i) weighing of household waste collected or transported;
+(i) weighing of household waste or commercial waste collected or transported;
 
-(ii) reporting of the weight of household waste collected or transported to the person who presents the household waste for collection being either the original waste producer or, as the case may be, the person who arranges, on behalf of more than one original waste producer occupying apartments, duplexes, maisonettes or any combination of such dwellings for collection of their waste (“person who presents household waste for collection”);
+(ii) reporting of the weight of household waste or commercial waste collected or transported to the person who presents the household waste or commercial waste for collection being either the original waste producer or, as the case may be, the person who arranges, on behalf of more than one original waste producer occupying apartments, duplexes, maisonettes or any combination of such dwellings for collection of their waste (“person who presents household waste or commercial waste for collection”);
 
-(iii) subject to paragraph (f)(i) and (ii), charging of fees for household waste collection or transport services;
+(iii) subject to paragraph (f)(i) and (ii), charging of fees for household waste or commercial waste collection or transport services;
 
-(iv) in relation to collection of household waste, preparing and publishing a customer charter and its form and content;
+(iv) in relation to collection of household waste or commercial waste, preparing and publishing a customer charter and its form and content;
 
-(v) providing information to the person who presents household waste for collection that identifies the vehicle used for that collection;
+(v) providing information to the person who presents household waste or commercial wastefor collection that identifies the vehicle used for that collection;
 
 (vi) requiring that waste is segregated before it can be collected or transported;
 
-(vii) providing separate receptacles for different household waste;
+(vii) providing separate receptacles for different household waste or commercial waste;
 
-(viii) collection or transport of different household waste at specified frequencies;
+(viii) collection or transport of different household waste or commercial waste at specified frequencies;
 
-(ix) with regard to persons from whom household waste is collected by an authorised waste collector, providing the following information to the local authority, when requested to do so under section 18, regarding collections of household waste from those persons—
+(ix) with regard to persons from whom household waste or commercial waste is collected by an authorised waste collector, providing the following information to the local authority, when requested to do so under section 18, regarding collections of household waste or commercial waste from those persons—
 
-(I) details of the collection of separate classes of household waste,
+(I) details of the collection of separate classes of household waste or commercial waste,
 
-(II) details of persons who choose not to partake in the collection of separate classes of household waste,
+(II) details of persons who choose not to partake in the collection of separate classes of household waste or commercial waste,
 
-(III) details of when household waste was last collected, and
+(III) details of when household waste or commercial waste was last collected, and
 
-(IV) written confirmation of the structure of the fees being charged to the person from whom the waste is collected, including, where appropriate, billing information which indicates the pay by weight charge element of the fees charged for the collection of household waste.
+(IV) written confirmation of the structure of the fees being charged to the person from whom the waste is collected, including, where appropriate, billing information which indicates the pay by weight charge element of the fees charged for the collection of household waste or commercial waste.
 
 (c) Conditions may, or if the Minister so prescribes under paragraph (e) or subsection (11)(b)(v), shall also be attached under paragraph (a) to a waste collection permit specifying requirements in relation to the following:
 
-(i) waste which may be collected;
+(i) waste which may or shall be collected;
 
 (ii) separate collection of waste;
 
 (iii) prohibition of certain practices by a permit holder in order that waste which has been segregated prior to collection or transport does not become unsuitable for recycling or recovery;
 
-(iv) the place to which waste is required to be delivered for preparation for reuse, recovery or disposal;
+(iv) the place to which waste is required to be delivered, or to which it is prohibited from being delivered, for preparation for reuse, recovery or disposal;
 
 (v) methods, receptacles (including skips and skip bags) and vehicles to be employed by a permit holder in the collection or transport of waste, including requirements regarding dimensions of receptacles, care and disposal of the contents of the receptacles, the periods during which receptacles may be left in a public place, the locations from which different receptacles may be collected, the supervision by the permit holder of their use and the restriction to such persons as may be prescribed of the placing in or removal from any place of receptacles;
 
@@ -88,7 +88,7 @@ Waste collection permits.
 
 (vii) complying with technical, environmental, inspection or safety measures or standards (including standards regarding the presentation, segregation, weighing, packaging or labelling of waste);
 
-(viii) keeping and preserving of records and supplying information to the local authority, or any other person as may be prescribed, in relation to the activities concerned;
+(viii) keeping and preserving of records and supplying information to the local authority, or any other person as may be prescribed, in relation to the activities concerned, and the form in which such records are to be kept and preserved and in which the information is to be supplied;
 
 (ix) effecting and maintaining a policy of insurance insuring the permit holder as respects any liability on his or her part to pay damages or costs on account of injury to a person or property arising from the activities concerned;
 
@@ -116,7 +116,7 @@ Waste collection permits.
 
 (xxi) having information, in such form as may be specified in a waste collection permit, to accompany and be carried in the vehicle transporting the waste;
 
-(xxii) as respects contamination that may be caused by the incorrect separation of household waste from other waste in receptacles for segregated household waste—
+(xxii) as respects contamination that may be caused by the incorrect separation of waste in receptacles for segregated waste—
 
 (I) monitoring by a permit holder of levels of contamination,
 
@@ -124,7 +124,15 @@ Waste collection permits.
 
 (III) training to be provided for staff of a permit holder in relation to monitoring contamination, or
 
-(IV) protocols and procedures where contamination is detected by the collector, including for informing the person who presents household waste for collection or non-collection of the receptacle.
+(IV) protocols and procedures where contamination is detected by the collector, including for informing the person who presents household waste for collection or non-collection of the receptacle;
+
+(xxiii) the achievement of such targets as may be specified in the permit in relation to recycling rates;
+
+(xxiv) effecting and maintaining a record, document and data management system of such standard, or in accordance with such criteria, as the Minister may prescribe and which may include an electronic record, document and data management system;
+
+(xxv) the requirement to collect waste where a waste service is not provided;
+
+(xxvi) the requirement to effect and maintain a customer communication and awareness programme.
 
 (d) Conditions shall be attached under paragraph (a) to a waste collection permit specifying requirements in relation to the following:
 
@@ -142,21 +150,21 @@ Waste collection permits.
 
 (vii) where a weighing system is used to determine weight-based collection charges, submission of confirmation of an annual inspection of the weighing system used by the permit holder in accordance with the Legal Metrology (General) Regulations 2008 (S.I. No. 323 of 2008), in such form that may be specified on the waste collection permit.
 
-(e) The Minister, where he or she considers that it is necessary for waste management in accordance with the principle that the costs of that management shall be borne by the original waste producer or by the current or previous waste holders, shall make regulations prescribing a requirement for attachment of a condition to a waste collection permit that a permit holder shall charge fees for the collection or transport of household waste.
+(e) The Minister, where he or she considers that it is necessary for waste management in accordance with the principle that the costs of that management shall be borne by the original waste producer or by the current or previous waste holders, shall make regulations prescribing a requirement for attachment of a condition to a waste collection permit that a permit holder shall charge fees for the collection or transport of household waste or commercial waste.
 
-(f) Regulations under paragraph (e) shall provide for the means by which fees for collection or transport of household waste shall be calculated by a permit holder and shall require a permit holder to—
+(f) Regulations under paragraph (e) shall provide for the means by which fees for collection or transport of household waste or commercial waste, as the case may be, shall be calculated by a permit holder and shall require a permit holder to—
 
-(i) charge a fee for each kilogramme of household waste collected or transported which fee shall only be calculated by reference to weight of household waste collected and transported, and for the avoidance of doubt, methods of calculation of a fee based on pay by lift or throw, tags or a flat-rate shall not be considered to be calculated by reference to weight of waste collected,
+(i) charge a fee for each kilogramme of household waste or commercial waste, as the case may be, collected or transported, or both, which fee shall only be calculated by reference to weight of household waste or commercial waste, as the case may be, collected and transported, and for the avoidance of doubt, methods of calculation of a fee based on pay by lift or throw, tags or a flat-rate shall not be considered to be calculated by reference to weight of waste collected,
 
 (ii) charge a service fee, as considered appropriate by the permit holder (including a nil fee), in addition to the fee referred to in subparagraph (i),
 
-(iii) demonstrate by prescribed means if the fees charged for collection or transport of waste incentivise household waste prevention and household waste segregation, and
+(iii) demonstrate by prescribed means if the fees charged for collection or transport of household waste or commercial waste, as the case may be, incentivise waste prevention and segregation, and
 
 (iv) furnish to an authorised person, information in a prescribed form, regarding the billing system used by the permit holder in respect of fees referred to under subparagraph (i) or (ii).
 
-(g) (i) For the purposes of paragraph (f)(i), the Minister shall prescribe the minimum amount of the fee required to be charged for each kilogramme of household waste collected or transported and that minimum fee shall be based on the approximate cost per kilogramme of managing segregated household waste, including its collection from the person who presented that waste for collection, its delivery to an authorised facility by a permit holder and its final treatment, which in any event shall not exceed an amount of 30 cent per kilogramme of household waste.
+(g) (i) For the purposes of paragraph (f)(i), the Minister shall prescribe the minimum amount of the fee required to be charged for each kilogramme of household waste or commercial waste, as the case may be, collected or transported and that minimum fee shall be based on the approximate cost per kilogramme of managing segregated household waste or commercial waste, as the case may be, including its collection from the person who presented that waste for collection, its delivery to an authorised facility by a permit holder and its final treatment, which in any event shall not exceed an amount of 30 cent per kilogramme of household waste or commercial waste, as the case may be.
 
-(ii) The Minister shall review the costs of managing household waste, on which the minimum charges prescribed under subparagraph (i) are based, at least every 12 months and may amend the amount of the fee prescribed under subparagraph (i).
+(ii) The Minister shall review the costs of managing household waste and commercial waste, on which the minimum charges prescribed under subparagraph (i) are based, at least every 12 months and may amend the amount of the fee prescribed under subparagraph (i).
 
 (iii) The Minister following a review under subparagraph (ii), once and only once in each financial year beginning in the financial year that he or she first prescribes under subparagraph (i), may substitute for the amount of the fee prescribed under subparagraph (i), an amount which does not exceed the amount so prescribed by 5 cent.
 
@@ -168,7 +176,7 @@ Waste collection permits.
 
 (ii) to refuse to grant ... such a permit, forthwith notify the applicant therefor ... of the decision and the reasons for the decision.
 
-(9) (a) An applicant for ... a waste collection permit may, within one month of the date of a notice under subsection (8), appeal against the decision of the local authority concerned to the judge of the District Court for the District Court district in which the principal office of the local authority is situate.
+(9) (a) An applicant for ... a waste collection permit may, within 28 days of the date of a notice under subsection (8), appeal against the decision of the local authority concerned to the judge of the District Court for the District Court district in which the principal office of the local authority is situate.
 
 (b) On the hearing of an appeal under this subsection, the judge of the District Court may make an order giving such directions to the local authority concerned as he or she thinks proper in relation to the grant ... of a waste collection permit ....
 
@@ -190,7 +198,7 @@ Waste collection permits.
 
 (iv) matters in respect of which a local authority must be satisfied prior to the granting of a permit;
 
-(v) requiring a local authority to attach specified conditions to a permit, including a condition referred to in subsection (7)(b) or (c) ;
+(v) requiring a local authority to attach specified conditions to a permit, including a condition referred to in subsection (7)(b) or (c);
 
 (vi) specifying conditions that a local authority may attach to a permit;
 
