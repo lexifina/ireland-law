@@ -86,6 +86,8 @@ Interpretation.
 
 1,000 or more tonnes of petroleum products exclusively for that person’s own consumption in the State and not for resale or for disposal to a third party;
 
+"Oil Emergency Plan" has the meaning assigned to it by section 68;
+
 "oil stocks" means stocks of the energy products listed in Chapter 3.4 of Annex A to Regulation (EC) No. 1099/2008;
 
 “petroleum products” includes the following categories of products:
@@ -96,9 +98,35 @@ Interpretation.
 
 (c) fuel oils;
 
-"prescribed" means prescribed by regulations made by the Minister under this Act;
+"prescribed" means prescribed (other than in sections 44D, 44E, 44G, 44GA, 44X and 44J) by regulations made by the Minister;
+
+"public body" means any of the following:
+
+(a) a Minister of the Government;
+
+(b) a local authority;
+
+(c) the Health Service Executive;
+
+(d) a university or institute of technology;
+
+(e) an education and training board established under section 9 of the Education and Training Boards Act 2013;
+
+(f) any other person, body or organisation established—
+
+(i) by or under an enactment (other than the Companies Act 2014) or charter,
+
+(ii) by any scheme administered by a Minister of the Government, or
+
+(iii) under the Companies Act 2014 in pursuance of powers conferred by or under another enactment, and financed wholly or partly by means of money provided, or loans made or guaranteed, by a Minister of the Government or the issue of shares held by or on behalf of a Minister of the Government;
+
+(g) a company (within the meaning of the Companies Act 2014) a majority of the shares in which are held by or on behalf of a Minister of the Government;
+
+(h) any other person, body, organisation or group that the Minister may prescribe for the purposes of this Act;
 
 "reference year" means the calendar year of the consumption or of the net import data used to calculate either the stocks to be held, or the stocks actually held, at any given time;
+
+"register" has the meaning assigned to it by section 69.
 
 "Regulation (EC) No. 1099/2008" means Regulation (EC) No. 1099/2008 of the European Parliament and of the Council of 22 October 2008, as amended by Commission Regulation (EU) No. 147/2013 of 13 February 2013, Commission Regulation (EU) No. 431/2014 of 24 April 2014 and Commission Regulation (EU) 2017/2010 of 9 November 2017;
 
