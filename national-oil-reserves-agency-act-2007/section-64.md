@@ -2,9 +2,11 @@ Prosecution of offences.
 
 64.— (1) Summary proceedings for an offence may be brought and prosecuted—
 
-(a) in the case of an offence under section 44E, 44G, 44U or 50, by the Minister or the Agency, and
+(a) in the case of an offence under section 44E, 44G or 44GA, by the Minister for Transport or the Agency,
 
-(b) in relation to an offence under section 59, by the Minister.
+(b) in the case of an offence under section 44U or 50, by the Minister or the Agency, and
+
+(c) in the case of an offence under section 59, by the Minister.
 
 (2) Notwithstanding section 10(4) of the Petty Sessions (Ireland) Act 1851, proceedings for an offence under this Act may be instituted at any time within 2 years from the date of the alleged commission of the offence.
 

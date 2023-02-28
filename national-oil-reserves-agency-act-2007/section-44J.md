@@ -50,14 +50,14 @@ Y is the price per megajoule of renewable transport fuel prescribed in accordanc
 
 (i) the Minister for Finance,
 
-(ia) the Minister for Finance,
+(ii) the Minister for Public Expenditure and Reform,
 
-(ii) the Minister for Transport, Tourism and Sport,
+(iii) the Minister for the Environment, Climate and Communications,
 
-(iii) the Agency,
+(iv) the Agency,
 
-(iv) the Environmental Protection Agency,
+(v) the Environmental Protection Agency,
 
-(v) the National Standards Authority of Ireland, and
+(vi) the National Standards Authority of Ireland, and
 
-(vi) Sustainable Energy Ireland — The Sustainable Energy Authority of Ireland.
+(vii) Sustainable Energy Ireland — The Sustainable Energy Authority of Ireland.

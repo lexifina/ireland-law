@@ -4,9 +4,9 @@ Authorised officers.
 
 (a) any officer of Customs and Excise;
 
-(b) an auditor appointed by the Agency with the consent of the Minister;
+(b) an auditor appointed by the Agency with the consent of the Minister and the Minister for Transport;
 
-(c) any other person (including an officer of the Minister or the Agency) appointed by the Minister.
+(c) any other person including an officer of the Minister or the Agency appointed to be an authorised officer by the Minister or including an officer of the Minister for Transport appointed to be an authorised officer by the Minister for Transport, as the case may be,
 
 (2) An appointment under subsection (1)(b) or (c) may, subject to subsection (3), be for a fixed period for the purposes of all or any of the provisions of this Act.
 
@@ -16,7 +16,7 @@ Authorised officers.
 
 (a) in the case of a person appointed under subsection (1)(b), by the Agency, and
 
-(b) in the case of a person appointed under subsection (1)(c), by the Minister.
+(b) in the case of a person appointed under subsection (1)(c), by the Minister or the Minister for Transport, as the case may be.
 
 (5) An authorised officer, when exercising a power conferred on him or her by this Act shall, if requested by a person affected by the exercise of such power, produce the certificate of his or her appointment to that person.
 
@@ -25,6 +25,8 @@ Authorised officers.
 (a) if made by the Agency, on the Agency revoking the appointment,
 
 (b) if made by the Minister, on the Minister revoking the appointment,
+
+(ba) if made by the Minister for Transport, on the Minister for Transport revoking the appointment,
 
 (c) if for a fixed period, on the expiry of that period, or
 

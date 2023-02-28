@@ -1,6 +1,6 @@
 Minister’s power to make regulations relating to returns.
 
-44U.— (1) The Minister may make regulations, for the purposes of this Part, requiring the Agency and renewable transport fuel obligation account holders to make written returns to the Minister in each month.
+44U.— (1) The Minister may, following consultation with the Minister for Transport, make regulations for the purposes of this Part, requiring the Agency and renewable transport fuel obligation account holders to make written returns to the Minister in each month.
 
 (2) Regulations under this section may, among other things, provide for the following matters:
 

@@ -1,6 +1,6 @@
 Regulations and orders.
 
-58.— (1) The Minister may make regulations—
+58.— (1) The Minister may make regulations, other than the regulations referred to in section 58A(1)—
 
 (a) for any purpose in relation to which regulations are provided for in this Act,
 

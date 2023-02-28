@@ -12,4 +12,6 @@ Accounts and audit.
 
 (3) After the audit, the Agency shall present to the Minister the audited accounts together with the Comptroller and Auditor General’s report.
 
+(3A) The Minister shall, as soon as may be after he or she has been presented, under subsection (3), with the documents referred to in that subsection, provide copies of those documents to the Minister for Transport.
+
 (4) The Minister shall cause copies of the documents presented under subsection (3) to be laid before each House of the Oireachtas not later than 6 months after the end of the financial year to which the audited accounts relate.

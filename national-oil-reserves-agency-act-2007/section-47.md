@@ -1,6 +1,6 @@
 Powers of authorised officers.
 
-47.— (1) For the purpose of obtaining any information necessary for the performance by the Minister or the Agency of their functions under this Act (including any functions relating to the holding of oil stocks in the State on behalf of another state in accordance with an oil stocks agreement), an authorised officer may do any or all of the following:
+47.— (1) For the purpose of obtaining any information necessary for the performance by the Minister, the Minister for Transport or the Agency of their respective functions under this Act (including any functions relating to the holding of oil stocks in the State on behalf of another state in accordance with an oil stocks agreement), an authorised officer may do any or all of the following:
 
 (a) at all reasonable times enter and inspect any premises at or by means of which a relevant activity is carried on or in which records in relation to such activity are kept;
 
@@ -20,7 +20,9 @@ Powers of authorised officers.
 
 (i) take photographs or make any record or visual recording of any relevant activity carried on at such premises.
 
-(2) Any information obtained by an auditor appointed under section 46(1)(b) shall be given directly to the Minister who, if he or she considers it appropriate for the purpose of the effective performance of the Agency’s functions, may pass on all or any of that information to the Agency.
+(2) Any information obtained by an auditor appointed under section 46(1)(b) shall be given directly to both the Minister and the Minister for Transport.
+
+(2A) The Minister or the Minister for Transport, as the case may be, may send to the Agency any information given to him or her under subsection (2) where he or she considers it appropriate to do so.
 
 (3) Where an authorised officer in exercise of his or her powers under this section is prevented from entering any premises, an application may be made under section 48 for a warrant authorising such entry.
 
