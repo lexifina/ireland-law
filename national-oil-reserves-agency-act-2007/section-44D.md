@@ -1,18 +1,14 @@
 Rate of renewable transport fuel obligation, advanced biofuel obligation, crop cap and high ILUC-risk biofuel.
 
-44D.— (1) The percentage rates referred to in section 44C(3)(b) and 44C(4), shall be—
+44D.— (1) The percentage rates referred to in sections 44C(3)(b) and 44C(4) shall be such percentage as stands specified by order under subsection (2).
 
-(a) such percentage rates as stand specified by order under subsection (2).
+(2) The Minister may, from time to time, review the percentage rates provided for by subsection
 
-(b) ...
-
-(2) (a) The Minister may, from time to time, review the percentage rate provided for by subsection (1) and may, subject to this section, having considered any representations made under subsection (4)(a), by order provide for a percentage rate in lieu of the percentage rate provided for by subsection (1)(a). ...
-
-(b) ...
+(1) and may, subject to this section, having considered any representations made under subsection (4)(a), by order provide for percentage rates in lieu of the percentage rates provided for by subsection (1).
 
 (3) For the purposes of a review under this section the Minister shall have regard to—
 
-(a) the effect of the renewable transport fuel obligation, the advanced biofuel obligation, crop cap and high ILUC-risk on fuel prices in the State,
+(a) the effect of the renewable transport fuel obligation, the advanced biofuel obligation, crop cap and high-ILUC-risk on fuel prices in the State,
 
 (b) the reports required to be submitted to the Commission of the European Communities on progress in the promotion and use of energy from renewable sources pursuant to Article 30(3) of the Directive, and
 
@@ -24,14 +20,14 @@ Rate of renewable transport fuel obligation, advanced biofuel obligation, crop c
 
 (i) the Minister for Finance,
 
-(ia) the Minister for Finance,
+(ii) the Minister for Public Expenditure and Reform,
 
-(ii) the Minister for Transport, Tourism and Sport,
+(iii) the Minister for the Environment, Climate and Communications,
 
-(iii) the Agency,
+(iv) the Agency,
 
-(iv) the Environmental Protection Agency,
+(v) the Environmental Protection Agency,
 
-(v) the National Standards Authority of Ireland, and
+(vi) the National Standards Authority of Ireland, and
 
-(vi) Sustainable Energy Ireland — The Sustainable Energy Authority of Ireland, and may consult with such other persons as the Minister considers appropriate.
+(vii) Sustainable Energy Ireland — The Sustainable Energy Authority of Ireland, and may consult with such other persons as he or she considers appropriate.
