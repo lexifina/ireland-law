@@ -1,4 +1,4 @@
-F38[ Improvement notice.
+F38[Improvement notice.
 
 18A.—(1) Where, in the opinion of a housing authority, a landlord is contravening or has contravened a requirement of a regulation made under section 18, the authority may give notice in writing (in this Act referred to as an “improvement notice”) to the landlord of the house concerned.
 
