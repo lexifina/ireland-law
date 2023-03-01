@@ -2,7 +2,7 @@
 
 Establishment, membership and functions of Commission.
 
-21.—(1) There is hereby established, in place of the Public Offices Commission, a commission (which shall be known as the Standards in Public Office Commission and is referred to in this Act as ‘the Commission’).
+21.—(1) There is hereby established, in place of the Public Offices Commission, a commission (which shall be known as the Standards in Public Office Commission and is referred to in this Act as "the Commission").
 
 (2) The Commission shall consist of 6 members, namely—
 
@@ -68,7 +68,7 @@ Establishment, membership and functions of Commission.
 
 (e) may be removed from office at any time by the Government but shall not be removed from office except for stated misbehaviour, incapacity or bankruptcy and then only following resolutions passed by each House calling for his or her removal.
 
-(2I)— Notwithstanding anything contained in the Act of 2001 or this Act, such functions of the Commission as it may determine may be performed in relation to such matter or matters as it may determine by the Commission consisting only of the chairperson of the Commission, and the Ethics in Public Office Acts, 1995 and 2001, and the Electoral Acts, 1992 to 2001, and the Regulation of Lobbying Act 2015, and any regulations made under section 72 of the Act of 1997 shall have effect accordingly in relation to any such determinations with any necessary modifications.
+(2I) Notwithstanding anything contained in the Act of 2001 or this Act, such functions of the Commission as it may determine may be performed in relation to such matter or matters as it may determine by the Commission consisting only of the chairperson of the Commission, and the Ethics in Public Office Acts, 1995 and 2001, and the Electoral Acts, 1992 to 2001, and the Regulation of Lobbying Act 2015, and any regulations made under section 72 of the Act of 1997 shall have effect accordingly in relation to any such determinations with any necessary modifications.
 
 (2J) The Commission shall from time to time, but not less than twice each year, consult with the Committees in relation to the operation of this Act, the Act of 2001 and, in so far as it is relevant to the functions of the Commission and the Committees, the Electoral Act, 1997, and in relation to such (if any) other matters as they consider appropriate.
 
