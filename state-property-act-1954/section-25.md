@@ -1,0 +1,5 @@
+Confirmation of agreement to sell Aldborough House, Dublin.
+
+25.—(1) The agreement (in this section referred to as the said agreement) made in the year 1937, between the Minister for Posts and Telegraphs (in this section referred to as the Minister) of the one part and the Right Honourable the Lord Mayor, Aldermen and Burgesses of Dublin (in this section referred to as the Dublin Corporation) of the other part whereby (inter alia) the Minister agreed to sell and the Dublin Corporation agreed to buy at the price of nine thousand nine hundred and fifty pounds the premises (in this section referred to as the leasehold premises) known as Aldborough House, Dublin, and held, immediately before the 6th day of December, 1922, by the Postmaster General under two indentures of lease, is hereby confirmed.
+
+(2) The Minister, in performance of the said agreement, is hereby authorised and empowered to execute an assignment of the leasehold premises to the Dublin Corporation and such assignment shall operate to vest the leasehold premises in the Corporation.

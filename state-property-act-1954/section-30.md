@@ -1,0 +1,7 @@
+Determination of claims by the State to certain property.
+
+30.—(1) Whenever the Minister claims that any property (including land) has devolved upon the State by way of escheat or has become the property of the State as bona vacantia or by virtue of section 28, the Minister may, if he so thinks fit, apply to the High Court for an order declaring (as the case may require) that such property has so devolved upon the State or that such property has so become the property of the State.
+
+(2) Every application to the High Court under subsection (1) of this section shall in the first instance be made ex parte and the High Court shall thereupon give such directions as it thinks proper in regard to service or publication of notice of such application and shall not finally determine such application unless or until the directions so given have been complied with and such time as the Court shall consider reasonable in the circumstances has elapsed since such compliance.
+
+(3) An order made by the High Court on an application under this section declaring that any particular property has devolved upon the State by way of escheat or has become the property of the State by way of bona vacantia or by virtue of section 28 shall (subject to appeal to the Supreme Court) be conclusive evidence binding on all persons whatsoever (whether they had or had not notice of such application) that the said property has so devolved upon or so become the property of the State in accordance with such declaration.
