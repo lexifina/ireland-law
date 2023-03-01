@@ -30,14 +30,14 @@ Standards for rented houses.
 
 (h) fire safety.
 
-(8) For the purposes of subsection (7)(b) ‘a proper state of structural repair’ means sound, internally and externally, with roof, roofing tiles and slates, windows, floors, ceilings, walls, stairs, doors, skirting boards, fascia, tiles on any floor, ceiling and wall, gutters, down pipes, fittings, furnishings, gardens and common areas maintained in good condition and repair and not defective due to dampness or otherwise.
+(8) For the purposes of subsection (7)(b) "a proper state of structural repair" means sound, internally and externally, with roof, roofing tiles and slates, windows, floors, ceilings, walls, stairs, doors, skirting boards, fascia, tiles on any floor, ceiling and wall, gutters, down pipes, fittings, furnishings, gardens and common areas maintained in good condition and repair and not defective due to dampness or otherwise.
 
 (9) In this section and sections 18A and 18B—
 
-‘common areas’ means common areas, works and services that are appurtenant to houses and enjoyed therewith and that are in the ownership or under the control of the landlord;
+"common areas" means common areas, works and services that are appurtenant to houses and enjoyed therewith and that are in the ownership or under the control of the landlord;
 
-‘landlord’ means the person for the time being entitled to receive (otherwise than as agent for another person) the rent paid in respect of a house by the tenant thereof;
+"landlord" means the person for the time being entitled to receive (otherwise than as agent for another person) the rent paid in respect of a house by the tenant thereof;
 
-‘tenancy’ includes a periodic tenancy and a tenancy for a fixed term, whether oral or in writing or implied;
+"tenancy" includes a periodic tenancy and a tenancy for a fixed term, whether oral or in writing or implied;
 
-‘tenant’ means the person for the time being entitled to the occupation of a house under a tenancy.
+"tenant" means the person for the time being entitled to the occupation of a house under a tenancy.
