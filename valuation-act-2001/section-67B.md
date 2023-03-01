@@ -6,4 +6,4 @@ Rateable valuation of property for purposes of condition 5 of section 10 of Act 
 
 (3) A certified copy extract of a valuation list issued under this section shall, until the contrary is proved, be regarded as a true copy of that extract.
 
-(4) The production to a court or the Property Registration Authority of a certified copy extract of a valuation list issued under subsection (1), purporting to be an extract of a valuation list, shall, without proof of the signature of the Commissioner or other person duly authorised by the Commissioner, be sufficient evidence, until the contrary is proved, of the matters stated in the document.
+(4) The production to a court or Tailte Éireann of a certified copy extract of a valuation list issued under subsection (1), purporting to be an extract of a valuation list, shall, without proof of the signature of the person duly authorised to certify such a copy extract, be sufficient evidence, until the contrary is proven, of the matters stated in the document.

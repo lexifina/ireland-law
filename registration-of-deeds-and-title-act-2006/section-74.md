@@ -6,9 +6,9 @@ Registration of Deeds and Title Rules Committee.
 
 (a) the judge of the High Court for the time being assigned for that purpose by the President of the High Court,
 
-(b) the chairperson of the Authority,
+(b) the chairperson of the Board of Tailte Éireann,
 
-(c) the Chief Executive of the Authority,
+(c) the chief executive of Tailte Éireann or such member of the staff of Tailte Éireann as the chief executive may nominate for that purpose,
 
 (d) a practising barrister nominated by the General Council of the Bar of Ireland, and
 

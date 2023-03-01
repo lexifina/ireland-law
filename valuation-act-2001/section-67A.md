@@ -10,6 +10,6 @@ Valuation for certain purposes of property not falling within Schedule 4.
 
 (5) A reference in this section to a certificate issued by the Commissioner includes a reference to a certificate issued by a person duly authorised by the Commissioner to so issue.
 
-(6) The production to a court or the Property Registration Authority of a certificate issued under subsection (4), purporting to state the value of a property determined under subsection (2), shall, without proof of the signature of the Commissioner or other person duly authorised by the Commissioner, be sufficient evidence, until the contrary is proven, of the matters stated in the certificate.
+(6) The production to a court or Tailte Éireann of a certificate issued under subsection (4), purporting to state the value of a property determined under subsection (2), shall, without proof of the signature of the person duly authorised to issue such a certificate, be sufficient evidence, until the contrary is proven, of the matters stated in the certificate.
 
 (7) In this section and section 67B, “Act of 1978” means the Landlord and Tenant (Ground Rents) (No. 2) Act 1978.

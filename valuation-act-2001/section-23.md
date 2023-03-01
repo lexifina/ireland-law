@@ -19,3 +19,7 @@ Publication of valuation list consequent on valuation.
 (i) beginning on that date, and
 
 (ii) ending on the date on which that list is replaced by another valuation list in relation to the same rating authority area.
+
+(5) (a) A valuation list that has been replaced in accordance with subsection (3)(a) (in this subsection referred to as a "replaced valuation list") may be made available for inspection at such place or in such manner as Tailte Éireann may determine.
+
+(b) A person may apply in writing to Tailte Éireann for information from a replaced valuation list.

@@ -1,5 +1,5 @@
 ## PART 2 PROPERTY REGISTRATION AUTHORITY
 
-Establishment day.
+Establishment day. (Repealed)
 
-7.— The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Act.
+7.—...
