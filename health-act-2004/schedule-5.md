@@ -108,9 +108,7 @@ Transitional provision relating to option to use existing service plan or plans
 
 (amendment of approved service plan) and section 33
 
-(implementation of approved service plan) apply with the necessary modifications in relation to a service plan of the Executive constituted in accordance with this section.
-
-Transitional provision relating to funding for the year 2005
+(implementation of approved service plan) apply with the necessary modifications in relation to a service plan of the Executive constituted in accordance with this section. Transitional provision relating to funding for the year 2005
 
 7. (1) On the establishment day, there shall be established a Vote for the Executive, to be known as the Health Service Executive Vote, which shall be Vote 40.
 

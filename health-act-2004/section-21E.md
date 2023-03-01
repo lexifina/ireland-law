@@ -24,7 +24,7 @@ Accountability of chief executive officer to committees of Houses of Oireachtas.
 
 (b) an employee of the Executive nominated by the chief executive officer, may attend before the Committee in place of the chief executive officer to give an account of the general administration of the Executive, and in that case a reference in subsections (2) to (7) to the chief executive officer shall be read as including a reference to the person attending in his or her place.
 
-(9) In this section, ‘Committee’ means a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas, other than—
+(9) In this section, "Committee" means a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas, other than—
 
 (a) the Committee of Public Accounts, the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann, or
 

@@ -10,9 +10,9 @@ Refusal to investigate or further investigate complaints.
 
 (a) is of the opinion that—
 
-(i) the complaint does not disclose a ground of complaint provided for in section 46 ,
+(i) the complaint does not disclose a ground of complaint provided for in section 46,
 
-(ii) the subject-matter of the complaint is excluded by section 48 ,
+(ii) the subject-matter of the complaint is excluded by section 48,
 
 (iii) the subject-matter of the complaint is trivial, or
 

@@ -2,7 +2,7 @@ Adherence to complaint and review procedures to be condition of arrangements wit
 
 52.— (1) It is a condition of any arrangement under section 38 with a service provider that the service provider will—
 
-(a) adhere to the complaints procedures established by the Executive in accordance with section 49(1) and any regulations under section 53 , or
+(a) adhere to the complaints procedures established by the Executive in accordance with section 49(1) and any regulations under section 53, or
 
 (b) establish the procedures agreed under section 49(2) and adhere to those procedures.
 

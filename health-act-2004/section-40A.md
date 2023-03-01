@@ -2,7 +2,7 @@
 
 Definition.
 
-40A.— In this Part ‘document’ means—
+40A.— In this Part "document" means—
 
 (a) a book, record or other written or printed material,
 

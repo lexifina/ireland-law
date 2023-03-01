@@ -12,8 +12,8 @@ Provisions supplementary to section 40H
 
 (6) In this section and section 40I—
 
-‘new audit committee’ means the audit committee established pursuant to section 40H after the commencement of section 23 of the Health Service Executive (Governance) Act 2019;
+"new audit committee" means the audit committee established pursuant to section 40H after the commencement of section 23 of the Health Service Executive (Governance) Act 2019;
 
-‘old audit committee’ means the audit committee established pursuant to section 40H before the commencement of section 23 of the Health Service Executive (Governance) Act 2019;
+"old audit committee" means the audit committee established pursuant to section 40H before the commencement of section 23 of the Health Service Executive (Governance) Act 2019;
 
-‘relevant day’ shall be construed in accordance with subsection (1).
+"relevant day" shall be construed in accordance with subsection (1).

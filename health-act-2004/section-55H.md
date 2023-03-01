@@ -12,7 +12,7 @@ Duty of relevant body to establish procedures.
 
 (b) for the investigation of any matter which is the subject matter of a protected disclosure.
 
-(3) The Executive, or as the case may be, a body referred to in subsection (2), shall appoint a person (the ‘authorised person’) to whom protected disclosures may be made.
+(3) The Executive, or as the case may be, a body referred to in subsection (2), shall appoint a person (the "authorised person") to whom protected disclosures may be made.
 
 (4) A service provider may, with the agreement of the Executive, establish procedures for the purposes set out in paragraphs (a) and (b) of subsection (1) so far as relating to matters within the remit of the service provider.
 
@@ -30,4 +30,4 @@ Duty of relevant body to establish procedures.
 
 (9) If, before that date, the the Data Protection Commission provides a written opinion that a provision of the draft procedures would, if given effect, be likely to have the results referred to in subsection (8)(a), the Executive, or as the case may be, the body referred to in subsection (2) shall have regard to that opinion in its further deliberations on the draft procedures.
 
-(10) In this section, ‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 201630 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+(10) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 201630 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).

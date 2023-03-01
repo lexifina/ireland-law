@@ -18,11 +18,11 @@ Unauthorised disclosure of confidential information.
 
 (b) the disclosure is made to the Minister by or on behalf of the Executive, or by or on behalf of a person referred to in paragraph (e) of subsection (1), or in compliance with a requirement of this Act, or
 
-(c) the disclosure is a protected disclosure under Part 9A or the Protected Disclosures Act 2014 .
+(c) the disclosure is a protected disclosure under Part 9A or the Protected Disclosures Act 2014.
 
 (3) A person who contravenes subsection (1) is guilty of an offence.
 
-(4) In this section, ‘confidential information’ means—
+(4) In this section, "confidential information" means—
 
 (a) in the case of persons referred to in paragraphs (a) to (d) of subsection (1)—
 

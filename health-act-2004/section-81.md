@@ -30,12 +30,12 @@ Savers.
 
 (7) In this section—
 
-‘excluded action or thing’, in relation to the Director General, means an action taken, or a thing done, by the Director General for the purpose of this Act or any other enactment in his or her capacity as a member of the Directorate or as the chairperson of the Directorate;
+"excluded action or thing", in relation to the Director General, means an action taken, or a thing done, by the Director General for the purpose of this Act or any other enactment in his or her capacity as a member of the Directorate or as the chairperson of the Directorate;
 
-‘excluded function’, in relation to the Director General, means a function of the Director General in his or her capacity as a member of the Directorate or as the chairperson of the Directorate;
+"excluded function", in relation to the Director General, means a function of the Director General in his or her capacity as a member of the Directorate or as the chairperson of the Directorate;
 
-‘relevant date’ means the date of commencement of section 31 of the Health Service Executive (Governance) Act 2019;
+"relevant date" means the date of commencement of section 31 of the Health Service Executive (Governance) Act 2019;
 
-‘relevant delegation’ means a delegation made in accordance with this Act before the relevant date and which was in force immediately before that date;
+"relevant delegation" means a delegation made in accordance with this Act before the relevant date and which was in force immediately before that date;
 
-‘relevant subdelegation’ means a subdelegation made in accordance with this Act before the relevant date and which was in force immediately before that date.
+"relevant subdelegation" means a subdelegation made in accordance with this Act before the relevant date and which was in force immediately before that date.

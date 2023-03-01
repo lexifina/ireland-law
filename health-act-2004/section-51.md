@@ -4,7 +4,7 @@ Restriction on type of recommendations complaints officers may make
 
 (a) the Executive to make a material amendment to its approved service plan, or
 
-(b) a service provider and the Executive to make a material amendment to an arrangement under section 38 .
+(b) a service provider and the Executive to make a material amendment to an arrangement under section 38.
 
 (2) If, in the opinion of the relevant person, such a recommendation is made, that person shall either—
 

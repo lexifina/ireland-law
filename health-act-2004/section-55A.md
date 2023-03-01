@@ -4,15 +4,15 @@ Definition of expressions in this Part.
 
 55A.— In this Part and Schedule 2A:
 
-‘actions’ means anything done or omitted to be done;
+"actions" means anything done or omitted to be done;
 
-‘authorised person’ means, unless otherwise specified, a person appointed in accordance with section 55H(3);
+"authorised person" means, unless otherwise specified, a person appointed in accordance with section 55H(3);
 
-‘chief inspector’ means the person who is appointed to the Office of the Chief Inspector of Social Services in accordance with section 40 of the Health Act 2007;
+"chief inspector" means the person who is appointed to the Office of the Chief Inspector of Social Services in accordance with section 40 of the Health Act 2007;
 
-‘designated centre’ means a designated centre as defined in section 2 (1) of the Health Act 2007;
+"designated centre" means a designated centre as defined in section 2 (1) of the Health Act 2007;
 
-‘employee’ means a person who has entered into or works under (or, where the employment has ceased, had entered into or worked under) a contract of employment with or is (or was) placed for the purpose of vocational training with any of the following:
+"employee" means a person who has entered into or works under (or, where the employment has ceased, had entered into or worked under) a contract of employment with or is (or was) placed for the purpose of vocational training with any of the following:
 
 (a) the Executive;
 
@@ -30,15 +30,15 @@ Definition of expressions in this Part.
 
 (h) any other person who provides a service for the purpose of providing staff to any of the persons or bodies referred to in paragraphs (a) to (g);
 
-‘employer’, in relation to an employee, means a person or body (including a service provider or designated centre or mental health service) listed in the definition of ‘employee’;
+"employer", in relation to an employee, means a person or body (including a service provider or designated centre or mental health service) listed in the definition of "employee";
 
-‘Health Information and Quality Authority’ means the body established in accordance with section 6 of the Health Act 2007;
+"Health Information and Quality Authority" means the body established in accordance with section 6 of the Health Act 2007;
 
-‘mental health services’ means mental health services as defined in section 2 (1) of the Mental Health Act 2001 ;
+"mental health services" means mental health services as defined in section 2 (1) of the Mental Health Act 2001 ;
 
-‘Pharmaceutical Society of Ireland’ means the body constituted in accordance with section 4 of the Pharmacy Act (Ireland) 1875;
+"Pharmaceutical Society of Ireland" means the body constituted in accordance with section 4 of the Pharmacy Act (Ireland) 1875;
 
-‘professional regulatory body’ means—
+"professional regulatory body" means—
 
 (a) an Bord Altranais,
 
@@ -50,7 +50,7 @@ Definition of expressions in this Part.
 
 (e) the Pharmaceutical Society of Ireland;
 
-‘relevant body’ means—
+"relevant body" means—
 
 (a) the Executive,
 
@@ -58,6 +58,6 @@ Definition of expressions in this Part.
 
 (c) any other person who has received or is receiving assistance in accordance with section 39 of this Act or section 10 of the Child Care Act 1991, or
 
-(d) a body established under the Health (Corporate Bodies) Act 1961 ;
+(d) a body established under the Health (Corporate Bodies) Act 1961;
 
-‘Scheduled body’ means a body referred to in Schedule 2A.
+"Scheduled body" means a body referred to in Schedule 2A.

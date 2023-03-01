@@ -1,6 +1,6 @@
 Membership of either House of Oireachtas or European Parliament.
 
-16Q. (1) A person is not eligible for appointment as a member of the Board or a committee of the Board if the person is—
+16Q.— (1) A person is not eligible for appointment as a member of the Board or a committee of the Board if the person is—
 
 (a) nominated as a member of Seanad Éireann,
 
