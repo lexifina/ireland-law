@@ -14,4 +14,6 @@ Provisions as to bankruptcy of registered owner.
 
 (c) in the case of an arrangement, if no vesting of registered land or a registered charge takes place by virtue of the arrangement, the registrar of the court shall furnish the Authority with notice to that effect and the Authority shall thereupon cancel any entry made under subsection (1).
 
-(4) Where registered land or a registered charge becomes by law vested in assignees or trustees for the benefit of the creditors of the registered owner, the assignees or trustees shall be entitled to be registered as owners of the land or charge .... On such registration the Authority shall cancel any entry made under subsection (1). Stamp Duties.
+(4) Where registered land or a registered charge becomes by law vested in assignees or trustees for the benefit of the creditors of the registered owner, the assignees or trustees shall be entitled to be registered as owners of the land or charge .... On such registration the Authority shall cancel any entry made under subsection (1).
+
+Stamp Duties.
