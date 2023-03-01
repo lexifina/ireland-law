@@ -16,7 +16,7 @@ Evidence of compliance with Acts before appointment to judicial office.
 
 “the Board” means the Judicial Appointments Advisory Board;
 
-‘judicial office’ means the office of—
+"judicial office" means the office of—
 
 (a) judge of the Supreme Court,
 
