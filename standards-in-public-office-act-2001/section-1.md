@@ -4,7 +4,7 @@ Interpretation.
 
 “the Act of 1997” means the Electoral Act, 1997;
 
-‘the Acts‘means—
+"the Acts" means—
 
 (a) the Tax Acts,
 
