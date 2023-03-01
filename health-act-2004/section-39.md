@@ -1,6 +1,6 @@
 Assistance for certain bodies.
 
-39.— (1) The Executive may, subject to any directions given by the Minister under section 10 and on such terms and conditions as it sees fit to impose, give assistance to any person or body that provides or proposes to provide a service similar or ancillary to a service that the Executive may provide.
+39.— (1) The Executive may, subject to any directions given by the Minister under section 10 or the Minister for Children, Equality, Disability, Integration and Youth under section 10C and on such terms and conditions as it sees fit to impose, give assistance to any person or body that provides or proposes to provide a service similar or ancillary to a service that the Executive may provide.
 
 (2) Assistance may be provided under this section in any of the following ways:
 
