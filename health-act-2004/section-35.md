@@ -14,11 +14,11 @@ Code of governance.
 
 (f) procedures established under section 55H, and
 
-(2) Subject to subsection (2A), the Executive shall review the code of governance periodically and at such times as may be specified by the Minister and shall revise the code as the Executive considers appropriate.
+(2) Subject to subsection (2A), the Executive shall review the code of governance periodically and at such times as may be specified by the Minister , after consultation with the Minister for Children, Equality, Disability, Integration and Youth, and shall revise the code as the Executive considers appropriate.
 
 (2A) The Executive shall, as soon as practicable after the commencement of section 21 of the Health Service Executive (Governance) Act 2019 and without prejudice to the generality of subsection (2), revise the code of governance to take account of the amendment made to subsection (1) by that section.
 
-(3) In preparing, or making any revisions to, the code of governance, the Executive shall have regard to any directions issued by the Minister under section 10 .
+(3) In preparing, or making any revisions to, the code of governance, the Executive shall have regard to any directions issued by the Minister or the Minister for Children, Equality, Disability, Integration and Youth under section 10C under section 10 .
 
 (4) Following the Minister's approval of the code of governance or of any revisions to it, the Executive shall arrange for the publication of the code or the revised code.
 
