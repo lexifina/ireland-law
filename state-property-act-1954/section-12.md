@@ -1,0 +1,15 @@
+Waiver and release of rent and arrears of rent and mesne rates in respect of State land.
+
+12.—(1) In this section, “rent” includes a former crown rent, a rent charge, a rent service and a rent sec, and also includes royalties, charges for the use and occupation of State land and money payable periodically under a licence.
+
+(2) Whenever a State authority is satisfied, in respect of any rent payable to that State authority out of land, that it is not practicable or is not expedient to enforce the payment of such rent or a part thereof, that State authority may waive the payment of such rent or such part thereof and release such land therefrom to the extent either that such rent or such part thereof shall cease to be payable at all thereafter or that such rent or such part thereof shall cease to be payable during a certain period or during the continuance of certain circumstances or until the happening of a specified event, and where such waiver or release is made that State authority may attach thereto such (if any) conditions as that State authority thinks proper.
+
+(3) Where a State authority is satisfied in respect of any arrears (whether such arrears accrued due before or after or partly before and partly after the passing of this Act) of rent payable to that State authority that such arrears or any part thereof cannot be recovered or that it is not expedient to enforce payment thereof, that State authority may waive the payment of such arrears or such part thereof and discharge the person liable therefor from payment thereof and make such waiver, release and discharge either unconditionally or subject to specified conditions.
+
+(4) Where a person is liable to pay to a State authority any mesne rates in respect of State land, that State authority may release such person from such liability in whole or in part either unconditionally or subject to specified conditions.
+
+(5) As soon as may be after the 30th day of June and the 31st day of December in every year the Minister shall cause to be laid before each House of the Oireachtas a statement giving particulars of all waivers, releases and discharges made or granted during the preceding half year in exercise of the powers conferred by this section.
+
+## CHAPTER III.
+
+Provisions in relation to certain rents payable to the State.
