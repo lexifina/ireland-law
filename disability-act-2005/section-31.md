@@ -12,7 +12,9 @@ Sectoral plans.
 
 (e) the Minister for the Environment, Heritage and Local Government, and
 
-(f) the Minister for Enterprise, Trade and Employment, shall prepare and publish a plan (referred to in this Act as a “sectoral plan”) in relation to the matters specified in sections 32 to 37 outlining the programme of the measures proposed to be taken by or on behalf of the Minister of the Government concerned for and in relation to those matters as they relate to the provision of services to persons with specified disabilities by him or her or by public bodies or other persons in relation to which he or she performs functions or allocates moneys under section 5.
+(f) the Minister for Enterprise, Trade and Employment,
+
+(g) the Minister for Children, Equality, Disability, Integration and Youth, shall prepare and publish a plan (referred to in this Act as a “sectoral plan”) in relation to the matters specified in sections 32 to 37 outlining the programme of the measures proposed to be taken by or on behalf of the Minister of the Government concerned for and in relation to those matters as they relate to the provision of services to persons with specified disabilities by him or her or by public bodies or other persons in relation to which he or she performs functions or allocates moneys under section 5.
 
 (2) Before publishing a sectoral plan under subsection (1), a Minister of the Government shall consult with such persons representative of persons with disabilities as he or she considers appropriate.
 

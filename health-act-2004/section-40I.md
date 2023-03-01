@@ -6,7 +6,7 @@ Functions of audit committee.
 
 (b) report in writing at least once in every year to the chief executive officer on those matters and on the activities of the committee in the previous year, and
 
-(c) provide a copy of that report to the Board and the Minister.
+(c) provide a copy of that report to the Board , the Minister and the Minister for Children, Equality, Disability, Integration and Youth.
 
 (2) The audit committee shall, on and after the relevant day—
 
@@ -14,7 +14,7 @@ Functions of audit committee.
 
 (b) report in writing at least once in every year to the Board on those matters, and
 
-(c) provide a copy of that report to the Minister.
+(c) provide a copy of that report to the Minister and the Minister for Children, Equality, Disability, Integration and Youth.
 
 (3) The audit committee’s functions under subsections (1)(a) and (2)(a) include advising on the following matters:
 

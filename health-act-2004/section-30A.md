@@ -1,6 +1,6 @@
 Minister to determine net non-capital expenditure of Executive.
 
-30A.— (1) Subject to subsections (5) and (6), the Minister shall determine the maximum amount of net non-capital expenditure that may be incurred by the Executive for—
+30A.— (1) Subject to subsections (5) and (6), the Minister , after consultation with the Minister for Children, Equality, Disability, Integration and Youth, shall determine the maximum amount of net non-capital expenditure that may be incurred by the Executive for—
 
 (a) a financial year of the Executive, or
 

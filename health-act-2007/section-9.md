@@ -32,11 +32,13 @@ Investigations by Authority.
 
 (b) the risk may be the result of any act, failure or negligence of the kind mentioned in paragraph (b)(i), (iii), (v) or (vii) of subsection (1), require the Authority to undertake an investigation in accordance with this section.
 
-(2A) The Minister for Children and Youth Affairs may, if he or she believes on reasonable grounds that—
+(2A) The Minister for Children, Equality, Disability, Integration and Youth may, if he or she believes on reasonable grounds that—
 
 (a) there is a serious risk of the kind mentioned in paragraph (a)(i) of subsection (1), and
 
-(b) the risk may be the result of any act, failure or negligence mentioned in paragraph (b)(ii), (iv), (vi) or (viii) of subsection (1), require the Authority to undertake an investigation in accordance with this section.
+(b) (i) the risk may be the result of any act, failure or negligence mentioned in paragraph (b)(ii), (iv), (vi) or (viii) of subsection (1), or
+
+(ii) the risk may be the result of any act, failure or negligence mentioned in paragraph (b)(i), (iii), (v) or (vii) of subsection (1) in so far as such act, failure or negligence relates to the performance by the Executive of its specialist community-based disability services functions, require the Authority to undertake an investigation in accordance with this section.
 
 (3) The Authority must ensure that an investigation under this section does not interfere, or conflict, with the functions of other statutory bodies.
 

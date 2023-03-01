@@ -2,9 +2,9 @@
 
 National Health Consultative Forum.
 
-41.— (1) The Minister may convene, at such time as he or she may determine, a National Health Consultative Forum to advise the Minister on matters relating to the provision of health and personal social services.
+41.— (1) The Minister, after consultation with the Minister for Children, Equality, Disability, Integration and Youth, may convene, at such time as the Minister may determine, a National Health Consultative Forum to advise the Minister or the Minister for Children, Equality, Disability, Integration and Youth, as appropriate, on matters relating to the provision of health and personal social services.
 
-(2) The Minister may, ...—
+(2) The Minister , after consultation with the Minister for Children, Equality, Disability, Integration and Youth, may, ...—
 
 (a) specify the number of members of the Forum,
 

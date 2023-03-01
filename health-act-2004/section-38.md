@@ -1,12 +1,12 @@
 Arrangements with service providers.
 
-38.— (1) The Executive may, subject to its available resources and any directions issued by the Minister under section 10 , enter, on such terms and conditions as it considers appropriate, into an arrangement with a person for the provision of a health or personal social service by that person on behalf of the Executive.
+38.— (1) The Executive may, subject to its available resources and any directions issued by the Minister under section 10 or the Minister for Children, Equality, Disability, Integration and Youth under section 10C, enter, on such terms and conditions as it considers appropriate, into an arrangement with a person for the provision of a health or personal social service by that person on behalf of the Executive.
 
 (2) Before entering into an arrangement under this section, the Executive shall determine, in respect of a financial year of the Executive, the maximum amount of funding (whether capital funding or non-capital funding) that it proposes to make available in that year under the arrangement and the level of service it expects to be provided for that funding.
 
 (3) A service provider shall—
 
-(a) keep, in such form as may be approved by the Executive in accordance with any general direction issued by the Minister, all proper and usual accounts and records of income received and expenditure incurred by it,
+(a) keep, in such form as may be approved by the Executive in accordance with any general direction issued by the Minister or, in relation to the performance by the Executive of its specialist community-based disability services functions, the Minister for Children, Equality, Disability, Integration and Youth, all proper and usual accounts and records of income received and expenditure incurred by it,
 
 (b) submit such accounts annually for examination, and
 
@@ -20,9 +20,9 @@ Arrangements with service providers.
 
 (5) The Executive may exempt from the requirements of subsection (3)—
 
-(a) a service provider who in any one financial year receives from the Executive in respect of health and personal social services provided on behalf of the Executive a total sum that does not exceed the amount that may be determined by the Minister, or
+(a) a service provider who in any one financial year receives from the Executive in respect of health and personal social services provided on behalf of the Executive a total sum that does not exceed the amount that may be determined by the Minister or, in relation to the performance by the Executive of its specialist community-based disability services functions, the Minister for Children, Equality, Disability, Integration and Youth, or
 
-(b) such other categories of service providers as may be specified by the Minister.
+(b) such other categories of service providers as may be specified by the Minister or, in relation to the performance by the Executive of its specialist community-based disability services functions, the Minister for Children, Equality, Disability, Integration and Youth.
 
 (6) The Executive may make such arrangements as it considers appropriate to monitor—
 
@@ -34,4 +34,4 @@ Arrangements with service providers.
 
 (8) A service provider shall comply with a request made under subsection (7) to the service provider.
 
-(9) At the Minister's request, the Executive shall supply the Minister with any information obtained in response to a request under subsection (7).
+(9) At the request of the Minister or the Minister for Children, Equality, Disability, Integration and Youth, the Executive shall supply the Minister or, in relation to the performance by the Executive of its specialist community-based disability services functions, the Minister for Children, Equality, Disability, Integration and Youth, with any information obtained in response to a request made under subsection (7).

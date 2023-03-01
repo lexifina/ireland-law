@@ -16,9 +16,9 @@ Annual report.
 
 (f) the report required by section 55 (complaints), and
 
-(g) such other information as the Executive considers appropriate or as the Minister may specify.
+(g) such other information as the Executive considers appropriate or as the Minister or, in relation to the performance by the Executive of its specialist community-based disability services functions, the Minister for Children, Equality, Disability, Integration and Youth, may specify.
 
-(3) The Executive shall submit a copy of the annual report to the Minister as soon as practicable after adopting the report and in any event not later than 21 days after its adoption.
+(3) The Executive shall submit a copy of the annual report to the Minister and the Minister for Children, Equality, Disability, Integration and Youth as soon as practicable after adopting the report and in any event not later than 21 days after its adoption.
 
 (4) The Minister shall ensure that copies of the annual report are laid before each House of the Oireachtas within 21 days after the Minister receives that report.
 

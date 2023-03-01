@@ -1,6 +1,6 @@
 Remuneration and expenses of members of Board and committees.
 
-16U. (1) The Minister may, with the consent of the Minister for Public Expenditure and Reform, determine the remuneration and expenses payable under this section.
+16U.— (1) The Minister, may, after consultation with the Minister for Children, Equality, Disability, Integration and Youth, and with the consent of the Minister for Public Expenditure and Reform, determine the remuneration and expenses payable under this section.
 
 (2) The remuneration and allowances for expenses, if any, determined in accordance with subsection (1) are payable by the Executive out of funds at its disposal to—
 

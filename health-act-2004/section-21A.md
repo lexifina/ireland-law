@@ -2,11 +2,11 @@
 
 Appointment of chief executive officer.
 
-21A.— (1) Subject to subsection (2), the Board shall as soon as practicable after the commencement of section 10 of the Health Service Executive (Governance) Act 2019 and thereafter as required, appoint a person recruited in accordance with the Public Service Management (Recruitment and Appointments) Act 2004 to be the chief executive officer of the Executive (in this Act referred to as the ‘chief executive officer’).
+21A.— (1) Subject to subsection (2), the Board shall as soon as practicable after the commencement of section 10 of the Health Service Executive (Governance) Act 2019 and thereafter as required, appoint a person recruited in accordance with the Public Service Management (Recruitment and Appointments) Act 2004 to be the chief executive officer of the Executive (in this Act referred to as the "chief executive officer").
 
 (2) Subsection (1) shall not apply to a person deemed under subsection (6) to be the first chief executive officer.
 
-(3) The chief executive officer shall hold office upon and subject to such terms and conditions (including terms and conditions relating to remuneration, allowances and superannuation) as may be determined by the Board with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform.
+(3) The chief executive officer shall hold office upon and subject to such terms and conditions (including terms and conditions relating to remuneration, allowances and superannuation) as may be determined by the Board with the approval of the Minister, after consultation with the Minister for Children, Equality, Disability, Integration and Youth, given with the consent of the Minister for Public Expenditure and Reform.
 
 (4) The remuneration and allowances determined under subsection (3) shall be paid out of funds at the disposal of the Executive.
 

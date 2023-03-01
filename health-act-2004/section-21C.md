@@ -20,6 +20,6 @@ Functions of chief executive officer.
 
 (c) provide the Board with such information (including financial information) relating to the performance of his or her functions and the implementation of the policies of the Executive as the Board may require, and
 
-(d) assist and provide the accounting officer (other than for the purposes referred to in section 40G) with such information (including financial information and records) relating to the accounting officer’s functions within such period as the accounting officer may require.
+(d) assist and provide the accounting officer of the Department of Health and, in respect of the specialist community-based disability services functions of the Executive, the accounting officer of the Department of Children, Equality, Disability, Integration and Youth (other than, in either case, for the purposes referred to in section 40G) with such information (including financial information and records) relating to the functions of the accounting officer concerned within such period as the accounting officer concerned may require.
 
 (2) The chief executive officer shall be accountable to the Board for the effective and efficient management of the Executive and for the due performance of his or her functions.

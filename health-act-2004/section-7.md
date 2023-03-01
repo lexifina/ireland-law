@@ -6,7 +6,7 @@ Object and functions of Executive.
 
 (3) Without limiting the Executive's responsibilities under subsection (2) or (4), it has—
 
-(a) the functions transferred to it by section 59 or by an order under section 70 , and
+(a) the functions transferred to it by section 59 or by an order under section 70, and
 
 (b) such other functions as are assigned to it by this Act or any other enactment.
 
@@ -18,9 +18,13 @@ Object and functions of Executive.
 
 (i) students training to be registered medical practitioners, nurses or other health professionals, and
 
-(ii) its employees and the employees of service providers, and
+(ii) its employees and the employees of service providers,
 
-(c) provide advice to the Minister in relation to its functions as the Minister may request.
+...
+
+(c) provide advice to the Minister in relation to its functions as the Minister may request, and
+
+(d) provide advice to the Minister for Children, Equality, Disability, Integration and Youth in relation to its specialist community-based disability services functions as that Minister may request.
 
 (5) In performing its functions, the Executive shall have regard to—
 

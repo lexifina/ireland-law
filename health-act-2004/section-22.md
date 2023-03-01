@@ -8,7 +8,7 @@ Employees of Executive.
 
 (3) Subsection (2) does not apply to employees appointed under this section during the period of 3 months beginning with the establishment day or during such shorter period as the Minister may specify.
 
-(4) The Executive shall, with the approval of the Minister given with the consent of the Minister for Finance, determine—
+(4) The Executive shall, with the approval of the Minister, after consultation with the Minister for Children, Equality, Disability, Integration and Youth, given with the consent of the Minister for Finance, determine—
 
 (a) the terms and conditions of employment (including terms and conditions relating to remuneration and allowances) of employees appointed under this section, and
 

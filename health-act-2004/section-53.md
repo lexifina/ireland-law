@@ -1,6 +1,6 @@
 Minister to make regulations for purposes of this Part.
 
-53.— (1) The Minister may make regulations for the purposes of this Part.
+53.— (1) The Minister , after consultation with the Minister for Children, Equality, Disability, Integration and Youth, may make regulations for the purposes of this Part.
 
 (2) Regulations under this section may, among other things, make provision for the following matters:
 
@@ -10,7 +10,7 @@ Minister to make regulations for purposes of this Part.
 
 (c) the procedure to be followed in investigating complaints;
 
-(d) the making of recommendations by complaints officers following the investigation of complaints and the nature of the recommendations that, subject to section 51 , they are authorised to make;
+(d) the making of recommendations by complaints officers following the investigation of complaints and the nature of the recommendations that, subject to section 51, they are authorised to make;
 
 (e) the implementation of recommendations made by complaints officers;
 

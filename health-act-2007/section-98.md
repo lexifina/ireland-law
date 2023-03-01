@@ -2,9 +2,11 @@
 
 Regulations and orders.
 
-98.— (1) The Minister , having consulted the Minister for Children and Youth Affairs as may be appropriate, may make regulations that the Minister considers necessary or expedient for purposes under this Act.
+98.—(1) The Minister, after such consultation with the Minister for Children, Equality, Disability, Integration and Youth as may be appropriate, may, subject to subsection (1A), make regulations (other than in respect of matters to which subsection (1A) relates) that the Minister considers necessary or expedient for purposes under this Act.
 
-(2) Without limiting the generality of subsection (1), the Minister may make regulations—
+(1A) The Minister for Children, Equality, Disability, Integration and Youth, in relation to the performance by the Executive of its specialist community-based disability services functions, after such consultation with the Minister as may be appropriate, may make regulations that the Minister for Children, Equality, Disability, Integration and Youth considers necessary or expedient for purposes under this Act.
+
+(2) Without limiting the generality of subsection (1), the Minister or, in relation to the performance by the Executive of its specialist community-based disability services functions, the Minister for Children, Equality, Disability, Integration and Youth, may make regulations—
 
 (a) for any purpose in relation to which regulations are provided for in this Act,
 
@@ -14,7 +16,7 @@ Regulations and orders.
 
 (d) specifying a body established under the Health (Corporate Bodies) Act 1961 and making applicable to the specified body one or more of the functions of the Authority under section 8.
 
-(3) A regulation under this section may contain consequential, supplementary and ancillary provisions as the Minister considers necessary or expedient.
+(3) A regulation under this section may contain consequential, supplementary and ancillary provisions as the Minister or the Minister for Children, Equality, Disability, Integration and Youth, as appropriate, considers necessary or expedient.
 
 (4) The Minister may—
 

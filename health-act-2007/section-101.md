@@ -1,12 +1,18 @@
 Regulations respecting designated centres.
 
-101.— (1) Without limiting the generality of section 98 for the purpose of ensuring proper standards in relation to designated centres, the Minister—
+101.— (1) Without limiting the generality of section 98, for the purpose of ensuring proper standards in relation to designated centres, the Minister (other than in respect of matters to which subsection (1A) relates)—
 
-(a) shall make regulations as the Minister , having consulted the Minister for Children and Youth Affairs as may be appropriate, thinks appropriate, and
+(a) shall make regulations as the Minister, after such consultation with the Minister for Children, Equality, Disability, Integration and Youth as may be appropriate, thinks appropriate, and
 
 (b) may make different regulations for different purposes and for different categories of designated centres.
 
-(2) Without limiting the generality of subsection (1), regulations under this section may provide as respects one or more of the following:
+(1A) For the purpose of ensuring proper standards in relation to designated centres, the Minister for Children, Equality, Disability, Integration and Youth, in relation to the performance by the Executive of its specialist community-based disability services functions—
+
+(a) shall make regulations as that Minister, after such consultation with the Minister as may be appropriate, thinks appropriate, and
+
+(b) may make different regulations for different purposes and for different categories of designated centres.
+
+(2) Without limiting the generality of subsection (1) or (1A), regulations under this section may provide as respects one or more of the following:
 
 (a) the maintenance, care, welfare and well-being of persons resident in a designated centre;
 

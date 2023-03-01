@@ -1,6 +1,6 @@
 Removal of member of Board.
 
-16R.— (1) The Minister may at any time remove from office a member of the Board if, in the Minister’s opinion—
+16R.— (1) The Minister , after consultation with the Minister for Children, Equality, Disability, Integration and Youth, may at any time remove from office a member of the Board if, in the Minister’s opinion—
 
 (a) the member has become incapable through ill-health of performing his or her functions,
 
@@ -28,6 +28,6 @@ Removal of member of Board.
 
 (g) is removed by a competent authority for any reason (other than failure to pay a fee) from any register established for the purpose of registering members of a profession in the State or another jurisdiction.
 
-(3) A member who does not, for a consecutive period of 6 months, attend a meeting of the Board ceases at the end of that period to hold office unless the member demonstrates to the Minister’s satisfaction that the failure was due to ill-health.
+(3) A member who does not, for a consecutive period of 6 months, attend a meeting of the Board ceases at the end of that period to hold office unless the member demonstrates to the satisfaction of the Minister, after consultation with the Minister for Children, Equality, Disability, Integration and Youth, that the failure was due to ill-health.
 
-(4) In this section, ‘applicable provision of the Ethics in Public Office Act 1995’, in relation to a member, means a provision of that Act that, by virtue of a regulation under section 3 of that Act, applies to that member.
+(4) In this section, "applicable provision of the Ethics in Public Office Act 1995", in relation to a member, means a provision of that Act that, by virtue of a regulation under section 3 of that Act, applies to that member.

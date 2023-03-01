@@ -6,9 +6,9 @@ Superannuation.
 
 (3) A superannuation scheme may be amended or revoked by a subsequent scheme prepared, submitted and approved under this section.
 
-(4) A superannuation scheme submitted by the Executive under this section shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the Executive in accordance with its terms.
+(4) A superannuation scheme submitted by the Executive under this section shall, if approved by the Minister, after consultation with the Minister for Children, Equality, Disability, Integration and Youth, with the consent of the Minister for Finance, be carried out by the Executive in accordance with its terms.
 
-(5) The Executive may not grant, or enter into any arrangement for the provision of, any superannuation benefit to or in respect of an employee (including the chief executive officer) except in accordance with a scheme approved under this section or except as approved by the Minister with the consent of the Minister for Finance.
+(5) The Executive may not grant, or enter into any arrangement for the provision of, any superannuation benefit to or in respect of an employee (including the chief executive officer) except in accordance with a scheme approved under this section or except as approved by the Minister, after consultation with the Minister for Children, Equality, Disability, Integration and Youth, with the consent of the Minister for Finance.
 
 (6) Each scheme must include provision for appeals from a decision relating to a superannuation benefit under the scheme.
 
