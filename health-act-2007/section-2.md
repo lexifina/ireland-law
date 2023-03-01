@@ -88,6 +88,8 @@ Interpretation.
 
 "special care unit" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011) of the Child Care Act 1991;
 
+"specialist community-based disability services functions" has the same meaning as it has in the Health Act 2004;
+
 “superannuation benefit” means a pension, gratuity or other allowance payable on resignation, retirement or death.
 
 (2) For the purposes of the definition of designated centre in subsection (1), “institution” means a home, unit, centre or institution or part of a home, unit, centre or institution.
