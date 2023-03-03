@@ -6,7 +6,7 @@ Transfer of prisoner to give evidence or assist criminal investigation in State.
 
 (a) under a sentence or order of a court exercising criminal jurisdiction in that state, or
 
-(b) having been transferred there from the State under section 5 (issue of warrants for the transfer of sentenced prisoners outside State) of the Transfer of Sentenced Prisoners Act 1995.
+(b) having been transferred there from the State under section 5 (issue of warrants for the transfer of sentenced prisoners outside State) of the Transfer of Sentenced Prisoners Act 1995 or under section 22 (transfer warrant for removal of sentenced person from State) of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023.
 
 (2) Where—
 
