@@ -1,6 +1,6 @@
 Membership of Agency and term of office of members.
 
-15. —(1) The Agency shall consist of 14 members.
+15. —(1) The Agency shall consist of 8 members.
 
 (2) The Agency shall include the chief executive.
 

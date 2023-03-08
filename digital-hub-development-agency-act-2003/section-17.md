@@ -4,7 +4,7 @@ Meetings of Agency.
 
 (2) The Minister, in consultation with the chairperson of the Agency, shall fix the time of the first meeting of the Agency.
 
-(3) The quorum for a meeting of the Agency shall be 6.
+(3) The quorum for a meeting of the Agency shall be 4.
 
 (4) The chairperson of the Agency shall chair any meetings of the Agency except in the case that the chairperson is not present or such office is vacant in which case the members who are present shall choose one of their number to chair the meeting.
 
