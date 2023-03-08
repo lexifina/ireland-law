@@ -24,6 +24,8 @@ Exempted development.
 
 (f) development carried out on behalf of, or jointly or in partnership with, a local authority, pursuant to a contract entered into by the local authority concerned, whether in its capacity as a planning authority or in any other capacity;
 
+(fa) development to which section 179A applies;
+
 (g) development consisting of the carrying out by any local authority or statutory undertaker of any works for the purpose of inspecting, repairing, renewing, altering or removing any sewers, mains, pipes, cables, overhead wires, or other apparatus, including the excavation of any street or other land for that purpose;
 
 (h) development consisting of the carrying out of works for the maintenance, improvement or other alteration of any structure, being works which affect only the interior of the structure or which do not materially affect the external appearance of the structure so as to render the appearance inconsistent with the character of the structure or of neighbouring structures;

@@ -1,6 +1,6 @@
 Local authority own development.
 
-179.—(1) (a) The Minister may prescribe a development or a class of development for the purposes of this section where he or she is of the opinion that by reason of the likely size, nature or effect on the surroundings of such development or class of development there should, in relation to any such development or development belonging to such class of development, be compliance with the provisions of this section and regulations under this section.
+179.—(1) (a) The Minister may prescribe a development , other than development to which section 179A applies, or a class of development for the purposes of this section where he or she is of the opinion that by reason of the likely size, nature or effect on the surroundings of such development or class of development there should, in relation to any such development or development belonging to such class of development, be compliance with the provisions of this section and regulations under this section.
 
 (b) Where a local authority that is a planning authority proposes to carry out development, or development belonging to a class of development prescribed under paragraph (a) (hereafter in this section referred to as “proposed development”) it shall in relation to the proposed development comply with this section and any regulations under this section.
 
