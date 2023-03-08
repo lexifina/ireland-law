@@ -4,7 +4,7 @@ Change of placename of place situated in more than one local authority area.
 
 (i) in its functional area, and
 
-(ii) in the functional area of another local authority or the functional areas of other local authorities, by resolution passed by not less than half of the members standing elected or coopted for the time being to the first-mentioned local authority, propose to substitute a new placename (in this section referred to as the ‘proposed new placename’) for the then existing placename in respect of that place.
+(ii) in the functional area of another local authority or the functional areas of other local authorities, by resolution passed by not less than half of the members standing elected or coopted for the time being to the first-mentioned local authority, propose to substitute a new placename (in this section referred to as the "proposed new placename") for the then existing placename in respect of that place.
 
 (b) A proposal referred to in paragraph (a) shall stand adopted by the local authority first-mentioned in that paragraph upon the passing, in accordance with paragraph (c), of a resolution by each other local authority within whose functional area part of the place concerned is also situated consenting to the adoption of the proposal.
 

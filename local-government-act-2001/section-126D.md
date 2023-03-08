@@ -30,7 +30,7 @@ Reports to Minister or appropriate Minister.
 
 (i) each local government body that is the subject matter of the report,
 
-(ii) in the case of a local government body other than a local authority or a regional assembly, to each local authority or regional assembly that exercises actual or effective control within the meaning of ‘local government body’ in section 126A,
+(ii) in the case of a local government body other than a local authority or a regional assembly, to each local authority or regional assembly that exercises actual or effective control within the meaning of "local government body" in section 126A,
 
 (iii) the Joint Committee of the Houses of the Oireachtas to which has been assigned the role of examining matters relating to local government, and
 

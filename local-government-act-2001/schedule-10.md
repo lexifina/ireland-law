@@ -16,9 +16,7 @@ Local authority meetings.
 
 (3) This Schedule shall as regards a special meeting convened for the purposes of section 34 or 146 be read subject to and in accordance with the requirements of the relevant section.
 
-Place, date and time of meetings.
-
-2.—(1) A local authority shall provide or arrange for the provision of accommodation for the holding of meetings.
+Place, date and time of meetings. 2.—(1) A local authority shall provide or arrange for the provision of accommodation for the holding of meetings.
 
 (2) In so far as practicable, the place for holding of meetings is the principal offices of the authority and meetings shall normally be held at such place.
 
@@ -76,7 +74,9 @@ Local authority budget meeting.
 
 5. —A local authority shall hold its budget meeting in accordance with section 103 within the period directed by the Minister for the purposes of that section.
 
-Special meetings. 6.—(1) A requisition to have a special meeting of a local authority convened (in this paragraph referred to as a “requisition”) may be made—
+Special meetings.
+
+6.—(1) A requisition to have a special meeting of a local authority convened (in this paragraph referred to as a “requisition”) may be made—
 
 (a) by the Cathaoirleach,
 
@@ -146,9 +146,9 @@ Public notice of meetings.
 
 (3) By resolution or standing orders, a local authority may make such additional arrangements for the giving of public notice of meetings, including display of notice at additional locations, including but not limited to public libraries, or publication in a newspaper, electronically or otherwise, as it considers appropriate.
 
-(4) Failure to display or to supply a copy of a notice by virtue of this paragraph does not affect the validity of a meeting or of any act or thing done at the meeting. Business of meeting.
+(4) Failure to display or to supply a copy of a notice by virtue of this paragraph does not affect the validity of a meeting or of any act or thing done at the meeting.
 
-9.—Subject to paragraph 16, no business shall be transacted at a meeting other than that specified in the agenda which relates to the meeting or business required by this Act or otherwise by law to be transacted at the meeting.
+Business of meeting. 9.—Subject to paragraph 16, no business shall be transacted at a meeting other than that specified in the agenda which relates to the meeting or business required by this Act or otherwise by law to be transacted at the meeting.
 
 Chairing of meetings.
 

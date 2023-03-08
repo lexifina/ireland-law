@@ -6,7 +6,7 @@ Co-operation with Local Community Development Committees.
 
 (b) a regional assembly,
 
-(c) a trust or other body to which paragraph (c) of the definition of ‘local government body’ in section 126A relates or in respect of which there is a determination under section 126L(3),
+(c) a trust or other body to which paragraph (c) of the definition of "local government body" in section 126A relates or in respect of which there is a determination under section 126L(3),
 
 (d) a body referred to in Schedule 16,
 

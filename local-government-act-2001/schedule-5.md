@@ -160,7 +160,9 @@ Galway Galway City Council
 
 PART 3
 
-CITIES AND COUNTIES CHAPTER 1
+CITIES AND COUNTIES
+
+CHAPTER 1
 
 Names of Cities and Counties in the Irish Language and Names of Local Authorities
 

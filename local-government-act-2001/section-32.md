@@ -18,9 +18,9 @@ Alternative titles to Cathaoirleach and Leas-Chathaoirleach, etc.
 
 (3) Where titles are continued in accordance with subsection (1) or (1A), the holders of the offices concerned shall, as appropriate, be styled—
 
-(a) in the case of Cork City Council, in the Irish language "Ard-Mhéara Chathair Chorcaí" and "Leas-Ardmhéara Chathair Chorcaí", and in the English language ‘Lord Mayor of the City of Cork’ and ‘Deputy Lord Mayor of the City of Cork’,
+(a) in the case of Cork City Council, in the Irish language "Ard-Mhéara Chathair Chorcaí" and "Leas-Ardmhéara Chathair Chorcaí", and in the English language "Lord Mayor of the City of Cork" and "Deputy Lord Mayor of the City of Cork",
 
-(b) in the case of Dublin City Council, in the Irish language "Ard- Mhéara Chathair Bhaile Átha Cliath" and "Leas-Ardmhéara Chathair Bhaile Átha Cliath", and in the English language ‘Lord Mayor of the City of Dublin’ and ‘Deputy Lord Mayor of the City of Dublin’,
+(b) in the case of Dublin City Council, in the Irish language "Ard- Mhéara Chathair Bhaile Átha Cliath" and "Leas-Ardmhéara Chathair Bhaile Átha Cliath", and in the English language "Lord Mayor of the City of Dublin" and "Deputy Lord Mayor of the City of Dublin",
 
 (c) in the case of Galway City Council, in the Irish language "Méara Chathair na Gaillimhe" and "Leas-Mhéara Chathair na Gaillimhe", and in the English language "Mayor of the City of Galway" and "Deputy Mayor of the City of Galway",
 

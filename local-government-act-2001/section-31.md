@@ -14,9 +14,7 @@ Cathaoirleach and Leas-Chathaoirleach.
 
 (c) in the case of a city and county council, in the Irish language "Cathaoirleach Chathair agus Chontae....…" and "Leas-Chathaoirleach Chathair agus Chontae....…" followed by the name of the city and county in Irish, and in the English language "Cathaoirleach of the City and County of....…" and "Leas- Chathaoirleach of the City and County of....…" followed by the name of the city and county in English,
 
-(d) in the case of a municipal district whose area contains the area of a city council dissolved by the Local Government Reform Act 2014, in the Irish language "Cathaoirleach Cheantar Cathrach....…" and "Leas-Chathaoirleach Cheantar Cathrach....…" followed by the name of the municipal district in Irish, and in the English language "Cathaoirleach of the Metropolitan District of....…" and
-
-"Leas-Chathaoirleach of the Metropolitan District of....…" followed by the name of the municipal district in English,
+(d) in the case of a municipal district whose area contains the area of a city council dissolved by the Local Government Reform Act 2014, in the Irish language "Cathaoirleach Cheantar Cathrach....…" and "Leas-Chathaoirleach Cheantar Cathrach....…" followed by the name of the municipal district in Irish, and in the English language "Cathaoirleach of the Metropolitan District of....…" and "Leas-Chathaoirleach of the Metropolitan District of....…" followed by the name of the municipal district in English,
 
 (e) in the case of a municipal district whose area contains the area of a borough council in being (other than in respect of the borough of Kilkenny) immediately before the transfer date as provided for by the Local Government Reform Act 2014, in the Irish language "Cathaoirleach Cheantar Buirge....…" and "Leas-Chathaoirleach Cheantar Buirge....…" followed by the name of the municipal district in Irish, and in the English language "Cathaoirleach of the Borough District of....…" and "Leas-Chathaoirleach of the Borough District of....…" followed by the name of the municipal district in English,
 

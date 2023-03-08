@@ -6,7 +6,7 @@ Tenure of chief executive.
 
 (b) the period from the date of the appointment to the date on which he or she attains the age of 70 years or, where a higher age is prescribed by order under section 3A(2) of the Public Service Superannuation (Miscellaneous Provisions) Act 2004 for the purposes of that Act, that age, and on the expiration of that period he or she ceases to hold the employment but, where the person is a new entrant (within the meaning of the aforementioned Act) appointed on or after 1 April 2004, the requirement to cease to hold the employment on grounds of age shall not apply.
 
-(2) Notwithstanding any enactment (including subsection (1)) or instrument made under such enactment, the tenure period of a chief executive referred to in subsection (1)(a) shall, subject to and in accordance with this section and with regulations made by the Minister for the purposes of this subsection, be extended where notification (in this section referred to as the ‘prescribed notification’)—
+(2) Notwithstanding any enactment (including subsection (1)) or instrument made under such enactment, the tenure period of a chief executive referred to in subsection (1)(a) shall, subject to and in accordance with this section and with regulations made by the Minister for the purposes of this subsection, be extended where notification (in this section referred to as the "prescribed notification")—
 
 (a) is given by the chief executive to the Cathaoirleach of the local authority concerned, and
 
