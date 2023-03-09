@@ -1,0 +1,3 @@
+Application of Part IIIC of Act of 1942 to participation in prescribed contraventions before commencement of section 46.
+
+92. Part IIIC of the Act of 1942, as amended by this Act, applies as if references to participation, while performing a relevant controlled function, in the commission of a prescribed contravention by a regulated financial service provider were, in the case of participation or suspected participation before the commencement of section 46 , references to participation, while concerned in the management of a regulated financial service provider, in the commission of a prescribed contravention by the regulated financial service provider.

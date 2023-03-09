@@ -1,0 +1,7 @@
+Continuing functions under section 33BE of Act of 1942.
+
+96. (1) A person who, before the commencement of section 66 , has taken any action referred to in any of the paragraphs of subsection (4) of section 33BE of the Act of 1942, as amended by section 66 , as the said subsection (4) applies in relation to an inquiry, is not, by reason of having taken that action, or by reason of taking any action referred to in any of those paragraphs after the commencement of section 66 , prevented by the said subsection (4) from performing or exercising a function or power which, in relation to the inquiry, is restricted under paragraph (a) of subsection (3) of the said section 33BE.
+
+(2) A person who, before the commencement of section 66 , was involved in making submissions, leading evidence or examining witnesses on behalf of the Bank at an inquiry is not, by reason of that involvement, or by reason of any such involvement after the commencement of section 66 , prevented by subsection (6) of section 33BE of the Act of 1942, as amended by section 66 , from performing or exercising functions or powers which, in relation to the inquiry, are restricted under any of paragraphs (b) to (d) of subsection (3) of the said section 33BE.
+
+(3) A person who, before the commencement of section 66 , has exercised the power referred to in subsection (8) of section 33BE, as amended by section 66 , in relation to an investigation, is not prevented by the said subsection (8) from being involved in carrying out the investigation.
