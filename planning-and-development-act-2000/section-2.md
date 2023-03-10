@@ -80,6 +80,8 @@ Interpretation.
 
 “company”, except in section 149(5), means a company within the meaning of section 2 of the Companies Act, 1963, or a company incorporated outside the State;
 
+O.J.No. 20, 26.1.2010 p 7-25
+
 "confirmation notice" means the confirmation notice sent pursuant to article 97B(2) of the Planning and Development Regulations 2001 (S.I. No. 600 of 2001) following the entering onto the EIA portal of the information referred to in article 97A of those Regulations to which that notice relates;
 
 "core strategy" shall be construed in accordance with section 10 (inserted by section 7 of the Planning and Development (Amendment) Act 2010);
@@ -152,6 +154,10 @@ Interpretation.
 
 "landscape" has the same meaning as it has in Article 1 of the European Landscape Convention done at Florence on 20 October 2000;
 
+O.J.No.L206, 22.7.1992, p. 7 O.J.No.L 176, 20.7.1993, p 29-30
+
+O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63
+
 "large-scale residential development" means a development that includes—
 
 (a) the development of 100 or more houses,
@@ -195,6 +201,8 @@ Interpretation.
 "Major Accidents Directive" means Council Directive 96/82/EC of 9 December 1996 amended by Directive 2003/105/EC of the European Parliament and Council of 16 December 2003;
 
 ...
+
+O.J.No. L345, 31.12.2003 p.97-105
 
 "maritime area" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
