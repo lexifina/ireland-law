@@ -14,9 +14,7 @@ Energy Infrastructure
 
 —An industrial installation for the production of electricity, steam or hot water with a heat output of 300 megawatts or more.
 
-—An industrial installation for carrying gas, steam or hot water with a potential heat output of 300 megawatts or more, or transmission of electrical energy by overhead cables, where the voltage would be 220 kilovolts or more, but excluding any proposed development referred to in section 182A(1).
-
-—An oil pipeline and any associated terminals, buildings and installations, where the length of the pipeline (whether as originally provided or as extended) would exceed 20 kilometres.
+—An industrial installation for carrying gas, steam or hot water with a potential heat output of 300 megawatts or more, or transmission of electrical energy by overhead cables, where the voltage would be 220 kilovolts or more, but excluding any proposed development referred to in section 182A(1). —An oil pipeline and any associated terminals, buildings and installations, where the length of the pipeline (whether as originally provided or as extended) would exceed 20 kilometres.
 
 —An installation for surface storage of natural gas, where the storage capacity would exceed 200 tonnes.
 
@@ -86,9 +84,7 @@ Environmental Infrastructure
 
 (b) more than 20 hectares of wetland would be affected, or
 
-(c) the length of river channel on which works are proposed would be greater than 2 kilometres.
-
-—A dam or other installation designed for the holding back or the permanent or long-term storage of water, where the new or extended area of water impounded would be 30 hectares or more or where a new or additional amount of water held back or stored would exceed 10 million cubic metres.
+(c) the length of river channel on which works are proposed would be greater than 2 kilometres. —A dam or other installation designed for the holding back or the permanent or long-term storage of water, where the new or extended area of water impounded would be 30 hectares or more or where a new or additional amount of water held back or stored would exceed 10 million cubic metres.
 
 —An installation of overground aqueducts each of which would have a diameter of 1,000 millimetres or more and a length of 500 metres or more.
 
