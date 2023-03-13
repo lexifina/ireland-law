@@ -18,7 +18,7 @@ Interpretation.
 
 “functions” includes powers and duties and references to the performance of functions include, with respect to powers and duties, references to the exercise of the powers and the carrying out of the duties;
 
-“Gaeltacht area”means an area for the time being determined to be a Gaeltacht area by order made under section 2 of the Ministers and Secretaries (Amendment) Act 1956 ;
+“Gaeltacht area” has the same meaning as it has in Part 2 of the Act of 2012;
 
 "Gaeltacht Language Planning Area" has the same meaning as it has in Part 2 of the Act of 2012;
 
@@ -26,11 +26,7 @@ Interpretation.
 
 “head” means the head of a public body;
 
-“head of a public body” means—
-
-(a) in relation to a Department of State, the Minister of the Government having charge of it,
-
-(b) in relation to the Office of the Attorney General, the Attorney General,
+“head of a public body” means the person appointed as the principal officer of the public body or, where no such person has been appointed, the person designated by order of the Government made under section 4A to be the head of the public body for the purposes of this Act;
 
 (c) in relation to the Office of the Commission for Public Service Appointments, the Director of the Office of the Commission for Public Service Appointments,
 
@@ -60,7 +56,7 @@ Interpretation.
 
 “the official languages” means the Irish language (being the national language and the first official language) and the English language (being a second official language) as specified in Article 8 of the Constitution;
 
-“prescribed” means prescribed by the Minister by regulations under section 4 ;
+“prescribed” means prescribed by the Minister by regulations under section 4;
 
 “proceedings” means civil or criminal proceedings before any court;
 

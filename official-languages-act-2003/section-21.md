@@ -4,6 +4,8 @@ Functions of Commissioner.
 
 (a) to monitor compliance by public bodies with the provisions of this Act,
 
+(aa) to monitor, where he or she considers appropriate, compliance by public bodies with any other enactment relating to the status or use of an official language,
+
 (b) to take all necessary measures within his or her authority to ensure compliance by public bodies with the provisions of this Act,
 
 (c) to carry out investigations, whether on his or her own initiative, on request by the Minister or pursuant to a complaint made to him or her by any person, into any failure by a public body to comply with the provisions of this Act that he or she or, as appropriate, the Minister, considers may have occurred,
