@@ -2,7 +2,7 @@
 
 Updating of particulars entered in the register.
 
-139.—(1) Within 1 month from an alteration of the rent payable under a tenancy registered in the register taking effect, the landlord under the tenancy shall furnish to the Board the information mentioned in subsection (2) in the prescribed form.
+139.—(1) Within 1 month from an alteration of the rent payable under a tenancy registered in the register taking effect, the landlord under the tenancy shall furnish to the Board , by a notice in writing in the prescribed form, the information specified in subsection (2).
 
 (2) That information is—
 
