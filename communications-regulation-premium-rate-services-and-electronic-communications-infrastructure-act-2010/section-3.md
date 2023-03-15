@@ -6,7 +6,7 @@ Definitions (Part 2).
 
 “Act of 2007” means Communications Regulation (Amendment) Act 2007;
 
-“broadcasting service” has the meaning assigned to it by the Broadcasting Act 2009;
+“broadcasting service” has the meaning assigned to it by the Broadcasting Act 2009 , except that it does not include any audio or audiovisual services provided by way of the internet;
 
 “end user” has the meaning assigned to it by section 13 (5);
 
