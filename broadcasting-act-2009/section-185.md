@@ -13,3 +13,5 @@ Amendment of section 5 of Act of 1998 (advertisement, etc., by Referendum Commis
 ‘BAI’ means Broadcasting Authority of Ireland;
 
 ‘RTÉ’ and ‘TG4’ have the meaning assigned to them, respectively, by section 2 of the Broadcasting Act 2009.”.
+
+Section 3.

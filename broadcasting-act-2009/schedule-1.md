@@ -49,3 +49,5 @@ No. 14 of 2005 Disability Act 2005 Section 53
 No. 15 of 2007 Broadcasting (Amendment) Act 2007 The whole Act
 
 No. 22 of 2007 Communications Regulation Paragraph (b) in the third column at item (Amendment) Act 2007
+
+Section 182.
