@@ -26,4 +26,4 @@ Amendment of section 139 of Principal Act
 
 (b) In subsection (4), the reference to information shall include particulars notified under paragraph (a).
 
-(8) ...
+(8) ...”

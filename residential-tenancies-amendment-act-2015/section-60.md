@@ -4,9 +4,13 @@ Amendment of section 135 of Principal Act
 
 (a) by inserting the following subsection after subsection (1):
 
-“(1A) Where— (a) a further Part 4 tenancy comes into being, and
+“(1A) Where—
 
-(b) pursuant to subsection (1)(c), such further Part 4 tenancy is required to be registered, the requirement under section 134(3A) that such registration be accompanied by the deposit referred to in section 135A or the notice referred to in section 135A(2) shall be satisfied if— (i) the deposit that, in accordance with section 134(3A), accompanied the registration of the tenancy under section 134, has not been returned to either or both parties and remains in the designated tenancy deposit account,
+(a) a further Part 4 tenancy comes into being, and
+
+(b) pursuant to subsection (1)(c), such further Part 4 tenancy is required to be registered, the requirement under section 134(3A) that such registration be accompanied by the deposit referred to in section 135A or the notice referred to in section 135A(2) shall be satisfied if—
+
+(i) the deposit that, in accordance with section 134(3A), accompanied the registration of the tenancy under section 134, has not been returned to either or both parties and remains in the designated tenancy deposit account,
 
 (ii) the deposit that, in accordance with section 148P, was transmitted to the Board, has not been returned to either or both parties and remains in the designated tenancy deposit account,
 
@@ -48,7 +52,9 @@ Amendment of section 135 of Principal Act
 
 (c) by inserting the following subsections after subsection (4):
 
-“(4A) An acknowledgement referred to in subsection (4) shall specify— (a) the procedures for the return of the deposit and the requirement on the parties under this Act and the conditions, in respect of such return, referred to in section 12(4),
+“(4A) An acknowledgement referred to in subsection (4) shall specify—
+
+(a) the procedures for the return of the deposit and the requirement on the parties under this Act and the conditions, in respect of such return, referred to in section 12(4),
 
 (b) the obligations on the parties referred to in sections 12(1)(d)(ii), 16(o) and 148A,
 
@@ -56,7 +62,11 @@ Amendment of section 135 of Principal Act
 
 (d) that any interest that accrues on the deposit held by the Board will be retained by the Board in accordance with this Act.
 
-(4B) Where an application under section 134 is received by the Board and is not accompanied by the deposit, or statement, referred to in section 135A(2), without prejudice to subsections (4) and (5), the Board shall, as soon as practicable, notify the parties in writing of the omission concerned and request the landlord to transmit such deposit or provide such statement not later than 14 days from the receipt of the notice under this subsection. (4C) The notification in writing under subsection (4B) shall be in the prescribed form.”, (d) by substituting the following subsection for subsection (5):
+(4B) Where an application under section 134 is received by the Board and is not accompanied by the deposit, or statement, referred to in section 135A(2), without prejudice to subsections (4) and (5), the Board shall, as soon as practicable, notify the parties in writing of the omission concerned and request the landlord to transmit such deposit or provide such statement not later than 14 days from the receipt of the notice under this subsection.
+
+(4C) The notification in writing under subsection (4B) shall be in the prescribed form.”,
+
+(d) by substituting the following subsection for subsection (5):
 
 “(5) Where an application, other than an application referred to in subsection (6), under section 134 is received by the Board and the application is—
 
@@ -78,6 +88,8 @@ Amendment of section 135 of Principal Act
 
 (i) the information provided with that application, and
 
-(ii) the information required to be contained in the register pursuant to section 127(3), is satisfied that the information provided with the application, is sufficient to effect the registration of the tenancy concerned, the Board, having regard to the proper discharge by it of its functions under this Act and where in its opinion it is appropriate, may, subject to subsection (7), treat the application as complete for the purposes of this Part and register the tenancy concerned. (7) Subsection (6) shall not apply where the deposit, or the statement, referred to in section 134(3A), have not accompanied the application under section 134.
+(ii) the information required to be contained in the register pursuant to section 127(3), is satisfied that the information provided with the application, is sufficient to effect the registration of the tenancy concerned, the Board, having regard to the proper discharge by it of its functions under this Act and where in its opinion it is appropriate, may, subject to subsection (7), treat the application as complete for the purposes of this Part and register the tenancy concerned.
+
+(7) Subsection (6) shall not apply where the deposit, or the statement, referred to in section 134(3A), have not accompanied the application under section 134.
 
 (8) Where an application referred to in subsection (6) is received by the Board before the coming into operation of subsection (6), and has not been determined before such coming into operation, subsection (6) shall apply to such application.”.

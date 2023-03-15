@@ -416,7 +416,9 @@ Transitional provisions relating to transmission of deposits of certain tenancie
 
 (c) a notice of termination has not been served in respect of the tenancy, and
 
-(d) a deposit had been paid by the tenant to the landlord on entering into the agreement for the tenancy or lease and in respect of which sections 12(1)(d) and 12(4) applied to the return or repayment, by the landlord, of the deposit before those sections were amended by section 23 of the Residential Tenancies (Amendment) Act 2015, the landlord shall transmit the deposit to the Board not later than 6 months from the date on which sections 23 and 64 of the Residential Tenancies (Amendment) Act 2015 come into operation.
+(d) a deposit had been paid by the tenant to the landlord on entering into the agreement for the tenancy or lease and in respect of which sections 12(1)(d) and 12(4) applied to the return or repayment, by the landlord, of the deposit before those sections were amended by section 23 of the Residential Tenancies (Amendment) Act 2015, the landlord shall transmit the deposit to the Board not later than 6 months from the date on which sections 23 and 64 of the
+
+Residential Tenancies (Amendment) Act 2015 come into operation.
 
 (2) Where, on or before the coming into operation of sections 23 and 64 of the Residential Tenancies (Amendment) Act 2015—
 

@@ -34,10 +34,6 @@ Notification to Minister of designations
 
 (2) Section 5 of the Principal Act is amended in the definition of “relevant date” by inserting “or, in the case of a dwelling the subject of a tenancy referred to in section 3(4) (inserted by section 3 of the Residential Tenancies (Amendment) Act 2015), shall be construed in accordance with section 3B(b) (inserted by section 4 of the Residential Tenancies (Amendment) Act 2015)” after “is commenced”.
 
-(3) Section 16(k) of the Principal Act is amended by substituting “subject to section 3A(4) (inserted by section 4 of the
-
-Residential Tenancies
-
-(Amendment) Act 2015), not assign or sub-let” for “not assign or sub-let”.
+(3) Section 16(k) of the Principal Act is amended by substituting “subject to section 3A(4) (inserted by section 4 of the Residential Tenancies (Amendment) Act 2015), not assign or sub-let” for “not assign or sub-let”.
 
 (4) Section 27 of the Principal Act is amended by inserting “or, in the case of a dwelling the subject of a tenancy referred to in section 3(4) (inserted by section 3 of the Residential Tenancies (Amendment) Act 2015), shall be construed in accordance with section 3B(a) (inserted by section 4 of the Residential Tenancies (Amendment) Act 2015)” after “commences on or after the relevant date”.
