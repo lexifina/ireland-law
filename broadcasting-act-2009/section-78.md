@@ -1,6 +1,6 @@
 Offences (Part 6).
 
-78.— (1) A person who contravenes section 71(1) or 74(2) commits an offence.
+78.— (1) A person who contravenes section 71(1) ... commits an offence.
 
 (2) A person guilty of an offence under subsection (1) is liable—
 

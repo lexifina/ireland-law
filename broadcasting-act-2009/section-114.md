@@ -4,9 +4,9 @@ Principal objects and associated powers of RTÉ.
 
 (a) to establish, maintain and operate a national television and sound broadcasting service which shall have the character of a public service, be a free-to-air service and be made available, in so far as it is reasonably practicable, to the whole community on the island of Ireland,
 
-(b) to establish and maintain a website and teletext services in connection with the services of RTÉ under paragraphs (a), (c), (d), (e), (f), (g), (h) and (i),
+(b) to establish and maintain a website ... in connection with the services of RTÉ under paragraphs (a), (c), (d), (e), (f), (g), (h) and (i),
 
-(c) to establish and maintain orchestras, choirs and other cultural performing groups in connection with the services of RTÉ under paragraphs (a), (f), (g) and (h),
+(c) to establish and maintain a concert orchestra and other cultural performing groups in connection with the services of RTÉ under paragraphs (a), (f), (g) and (h),
 
 (d) to assist and co-operate with the relevant public bodies in preparation for, and execution of, the dissemination of relevant information to the public in the event of a major emergency,
 
@@ -16,7 +16,7 @@ Principal objects and associated powers of RTÉ.
 
 (g) subject to the consent of the Minister, the Minister having consulted with the Authority, to establish, maintain and operate, in so far as it is reasonably practicable, community, local, or regional broadcasting services, which shall have the character of a public service, and be available free-to-air,
 
-(h) subject to the consent of the Minister, the Minister having consulted with the Authority, to establish and maintain non-broadcast non-linear audio-visual media services, in so far as it is reasonably practicable, which shall have the character of a public broadcasting service (such consent not being required in respect of such services which are ancillary to a broadcasting service provided under paragraphs (a), (d), (f) and (g)),
+(h) subject to the consent of the Minister, the Minister having consulted with the Authority, to establish and maintain audiovisual on-demand media services, in so far as it is reasonably practicable, which shall have the character of a public broadcasting service (such consent not being required in respect of such services which are ancillary to a broadcasting service provided under paragraphs (a), (d), (f) and (g)),
 
 (i) to establish, maintain, and operate one or more national multiplexes,
 

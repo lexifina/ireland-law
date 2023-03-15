@@ -1,39 +1,9 @@
-Objectives of Authority.
+Deposits and charges for services.
 
-25.— (1) The Authority and the statutory committees, in performing their functions, shall endeavour to ensure—
+25.— (1) The Commission may require a person to pay a deposit of such amount as the Commission considers reasonable in respect of an application made by the person to the Commission for a broadcasting contract.
 
-(a) that the number and categories of broadcasting services made available in the State by virtue of this Act best serve the needs of the people of the island of Ireland, bearing in mind their languages and traditions and their religious, ethical and cultural diversity,
+(2) The Commission may charge for services or facilities provided by it.
 
-(b) that the democratic values enshrined in the Constitution, especially those relating to rightful liberty of expression, are upheld, and
+(3) Any surplus of income under subsection (2) over the expenses incurred by the Commission in respect of the provision of the services or facilities concerned in a particular financial year shall be applied in such manner as the Minister, after consultation with the Commission and with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, may direct and any such direction may require that all or part of such excess be paid into the Exchequer.
 
-(c) the provision of open and pluralistic broadcasting services.
-
-(2) Without prejudice to the generality of subsection (1), the Authority, and the statutory committees, shall—
-
-(a) stimulate the provision of high quality, diverse and innovative programming by commercial, community and public service broadcasters and independent producers,
-
-(b) facilitate public service broadcasters in the fulfilment of their public service objects as set out in this Act,
-
-(c) promote diversity in control of the more influential commercial and community broadcasting services,
-
-(d) provide a regulatory environment that will sustain independent and impartial journalism,
-
-(e) provide a regulatory environment that will sustain compliance with applicable employment law,
-
-(f) protect the interests of children taking into account the vulnerability of children and childhood to undue commercial exploitation,
-
-(g) provide a regulatory environment that will facilitate the development of a broadcasting sector in Ireland that is responsive to audience needs and in particular is accessible to people with disabilities, and
-
-(h) promote and stimulate the development of Irish language programming and broadcasting services.
-
-(3) The Authority and the statutory committees, in performing their functions, shall seek to ensure that measures taken—
-
-(a) are proportionate having regard to the objectives set out in this section,
-
-(b) are applied across the range of broadcasting services taking account of the degree of influence that the different types of broadcasting services are able to exert in shaping audience views in the State,
-
-(c) are mindful of the objects, functions and duties set for public service broadcasters in Parts 7 and 8,
-
-(d) will produce regulatory arrangements that are stable and predictable, and
-
-(e) will readily accommodate and encourage technological development, and its application, by the broadcasting sector.
+(4) The Commission may recover any amount due and owing to it under this section from any person as a simple contract debt in any court of competent jurisdiction.

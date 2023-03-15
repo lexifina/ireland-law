@@ -1,17 +1,35 @@
-Accounts and audits.
+Disclosure of interests.
 
-37.— (1) The chief executive, following the agreement of the Authority, shall not later than 30 September in each year, submit estimates of income and expenditure to the Minister in respect of the subsequent three financial years, in such form as may be required by the Minister, and shall furnish to the Minister any information which the Minister may require in relation to such estimates, including proposals and future plans relating to the performance by the Authority, the Contract Awards Committee and the Compliance Committee of their functions, as required.
+37.— (1) Where a relevant person or a connected relative of a relevant person is likely to derive a benefit from any matter to be considered by the Commission, or where a relevant person has a relevant interest in any business or organisation representative of any business, which is likely to derive a benefit from such a matter, the relevant person—
 
-(2) The chief executive, under the direction of the Authority, shall cause to be kept, on a continuous basis, all proper books and records of account of all income and expenditure of the Authority, and of the sources of such income and the subject matter of such expenditure, and of the property, assets and liabilities of the Authority and shall keep and shall account to the Authority for all such special accounts required by Part 10, and as the Authority, with the consent of the Minister, or the Minister may from time to time direct should be kept.
+(a) shall, in advance of any consideration of the matter, disclose that fact to the Commission,
 
-(3) (a) The Authority, the chief executive and any relevant member of the staff of the Authority shall, whenever so requested by the Minister, permit any person appointed by the Minister to examine the books or other records of account of the Authority in respect of any financial year or other period and shall facilitate any such examination.
+(b) shall take no part in the deliberation by the Commissioners or members of the staff of the Commission in relation to the matter,
 
-(b) In this subsection “relevant member of the staff of the Authority” means a member of the staff of the Authority in respect of whom there have been duly assigned duties which relate to the books or other records of account referred to in paragraph (a).
+(c) shall withdraw from a meeting at which the matter is being considered for so long as it is being so considered, and shall not be counted towards a quorum during any such consideration,
 
-(4) The accounts of the Authority for each financial year shall be kept in such a form and manner as may be specified by the Minister with the consent of the Minister for Finance and be prepared by the chief executive and approved by the Authority as soon as practicable but not later than 3 months after the end of the financial year to which they relate for submission to the Comptroller and Auditor General for audit.
+(d) shall not influence or seek to influence a decision to be made in relation to the matter, and
 
-(5) A copy of the accounts referred to in subsection (4) and the report of the Comptroller and Auditor General thereon shall, immediately after the audit of the Comptroller and Auditor General, be presented to the members of the Authority and to the Minister as soon as may be but not later than 6 months after the end of the financial year to which they relate and the Minister shall cause a copy of these documents to be laid before each House of the Oireachtas.
+(e) shall not make any recommendation to the Commission in relation to the matter.
 
-(6) The financial year of the Authority shall be the period of 12 months ending on 31 December in any year, and for the purposes of this section the period commencing on the establishment day and ending on the following 31 December is deemed to be a financial year.
+(2) Subsection (1) does not apply to a person as regards—
 
-(7) The Authority shall publish, with the consent of the Minister and the Minister for Finance, on a website maintained by the Authority, such estimates of income and expenditure as are required to be prepared under subsection (1) or a summary of them.
+(a) a contract or proposed contract of employment of that person as a member of the staff of the Commission, or
+
+(b) a contract or proposed contract for services in respect of that person, provided that person is not a Commissioner or a member of staff.
+
+(3) Where a Commissioner fails to comply with this section, and that failure has not resulted in the Government issuing a notice under section 12(6), the Minister shall decide the appropriate action to be taken.
+
+(4) Where a person other than a Commissioner fails to comply with this section, the Commission shall decide the appropriate action to be taken, which may include termination of the person’s contract of employment or contract for services.
+
+(5) For the purposes of this section—
+
+“connected relative” shall be construed in accordance with section 12(15);
+
+“relevant interest” shall be construed in accordance with section 12(13) and (14), subject to the modifications that—
+
+(a) references to a “provider of communications media” or “the provider” in those subsections shall be construed as references to the “business” or “organisation representative of any business” referred to in subsection (1), and
+
+(b) references to a person shall be construed as references to the relevant person referred to in subsection (1);
+
+“relevant person” means a Commissioner, a member of the staff of the Commission, or a consultant or adviser engaged under section 20.

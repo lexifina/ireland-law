@@ -1,27 +1,11 @@
-Meetings of Authority or statutory committee.
+Appointment of Acting Commissioner.
 
-13.— (1) The Authority and a statutory committee shall hold such and so many meetings as may be necessary for the due performance of their functions.
+13.— (1) If a vacancy occurs in the office of a Commissioner, or if a Commissioner is absent from the State or is, for any other reason, unable to perform the functions of a Commissioner, the Minister may appoint a member of the staff of the Commission to perform the functions of the Commissioner (referred to in this section and in section 14 as an “Acting Commissioner”, and the term “Commissioner” shall be construed as including an Acting Commissioner).
 
-(2) The Minister may fix the date, time and place of the first meeting of the Authority and a statutory committee.
+(2) An appointment under subsection (1)—
 
-(3) Subject to this Part, the Authority and a statutory committee shall regulate their procedure and practice by rules made under this section.
+(a) shall be made for a period of not more than 6 months, and
 
-(4) Any rules made under this section shall be published on a website on the Internet to be maintained by the Authority.
+(b) subject to paragraph (a), may be made for all or part of the period of vacancy, absence or inability.
 
-(5) At a meeting of the Authority or a statutory committee—
-
-(a) the chairperson of the Authority or the committee, as the case may be, shall, if present, be chairperson of the meeting, and
-
-(b) if and so long as the chairperson is not present or the office of chairperson is vacant, the members of the Authority or the committee, as the case may be, who are present shall choose one of their number to be the chairperson of the meeting.
-
-(6) At a meeting of the Authority or a statutory committee, each member of the Authority or the committee, as the case may be, present, including the chairperson, shall have a vote and any question on which a vote is required in order to establish the Authority’s or committee’s view shall be determined by a majority of the votes of the members of the Authority or statutory committee, as the case may be, present when the vote is called and voting on the question and, in the case of an equal division of votes, the chairperson of the meeting shall have a second and casting vote.
-
-(7) The quorum for a meeting of the Authority shall be 5.
-
-(8) The quorum for a meeting of the Contract Awards Committee shall be 5 of which 2 shall be members appointed by the Government under section 8 (4) (a).
-
-(9) The quorum for a meeting of the Compliance Committee shall be 5 of which 2 shall be members appointed by the Government under section 8 (6) (a).
-
-(10) The Authority or a statutory committee may act notwithstanding one or more vacancies among its members.
-
-(11) Subject to any rule made under subsection (3), meetings of the Authority or a statutory committee shall be capable of being held by telephone or other suitable electronic means whereby all the members of the Authority or the relevant statutory committee can hear and be heard.
+(3) If, in a case of vacancy, the Minister is satisfied that it is not reasonably practicable for an appointment under section 11 to be made before the end of the period referred to in subsection (2), the Minister may extend the appointment by such further period, not exceeding 6 months, as he or she is satisfied is necessary for an appointment to be made under that section.

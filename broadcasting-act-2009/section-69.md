@@ -22,9 +22,9 @@ Terms and conditions of broadcasting contract.
 
 (b) in considering whether to grant its consent to an assignment of a broadcasting contract, a change in the Memorandum or Articles of Association of a company which is a broadcasting contractor, or a material change in the ownership of such a company, the Authority shall have regard to the criteria specified in section 66 (2) and, where applicable, section 66 (4).
 
-(4) Every broadcasting contract shall provide that the broadcasting contractor shall provide such information (including copies of his or her accounts) which the Authority or the Compliance Committee considers it requires in order to enable it carry out its functions under this Act.
+(4) Every broadcasting contract shall provide that the broadcasting contractor shall provide such information (including copies of his or her accounts) which the Commission considers it requires in order to enable it carry out its functions under this Act.
 
-(5) Every broadcasting contract shall be open to inspection by members of the public at the Authority’s registered office and the Authority shall, on request made by any person and on payment of such sum (if any) as the Authority may reasonably require, give to that person a copy of that contract.
+(5) Every broadcasting contract shall be open to inspection by members of the public at the Authority’s ... office and the Authority shall, on request made by any person and on payment of such sum (if any) as the Authority may reasonably require, give to that person a copy of that contract.
 
 (6) In order to avoid the loss of sound programme material inimical to the preservation of a historical record of Irish culture, heritage and experience and as an initial step towards the development of an integrated approach to the archiving of programme material produced in the State, every sound broadcasting contract shall contain a term or condition requiring the sound broadcasting contractor to make a recording and to store categories of programme material, which may be inspected by the Authority, for the term of the sound broadcasting contract and for a period of 6 years thereafter.
 

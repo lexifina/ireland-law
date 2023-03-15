@@ -1,19 +1,15 @@
-Powers.
+Reporting by Commission.
 
-31.— (1) The Authority and a statutory committee shall have all the powers necessary, incidental or conducive to their functions.
+31.— (1) The Commission shall not later than the 30th day of June in each year prepare and submit to the Minister a report on its activities in the immediately preceding year (in this section referred to as the “annual report”), and the Minister shall, as soon as may be after receiving the annual report, cause copies of the annual report to be laid before each House of the Oireachtas.
 
-(2) Without prejudice to the generality of subsection (1), the Authority shall have power necessary, incidental or conducive to its functions—
+(2) An annual report shall include information in such form and regarding such matters as the Minister may direct but nothing in this subsection shall be construed as requiring the Commission to include information the inclusion of which would, in the opinion of the Commission, be likely to prejudice the performance of its functions.
 
-(a) to make contracts, agreements and arrangements,
+(3) An annual report shall include details of any scheme approved under Part 10 or 10A of this Act.
 
-(b) to require contractors to enter into financial bonds with the Authority on the recommendation of the Contract Awards Committee,
+(4) An annual report shall include a report to the Minister on progress made towards increasing the accessibility of audiovisual media services to people with disabilities, and in particular, on progress made to achieve the intended outcomes relating to such accessibility set out in any media service rules.
 
-(c) to acquire and make use of copyrights, patents, licences, privileges and concessions,
+(5) The Commission may furnish to the Minister such information or reports, in addition to the annual report, about the performance of its functions as it considers appropriate.
 
-(d) to compile, prepare, publish and distribute, with or without charge, printed, audio and audio-visual material,
+(6) In addition to information provided by the Commission in its annual report and in any reports made under subsection (5) the Commission shall supply to the Minister such information as the Minister may require regarding the performance of its functions.
 
-(e) subject to the consent of the Minister, to arrange for the provision of broadcasting and related services for and on behalf of any Minister of the Government, and
-
-(f) to undertake, sponsor or commission research.
-
-(3) The Authority may invest any of its funds in any manner in which a trustee is empowered by law to invest trust funds.
+(7) The Commission shall arrange for an annual report that has been laid before each House of the Oireachtas in accordance with subsection (1) to be published, on a website maintained by the Commission, as soon as practicable after copies of the report are so laid.

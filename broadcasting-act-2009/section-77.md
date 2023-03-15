@@ -1,10 +1,10 @@
-Must-carry and must-offer obligations.
+Must-carry and must-offer obligations. (Repealed in part)
 
 77.— (1) (a) In this Part “appropriate network” means an electronic communications network provided by a person (“appropriate network provider”) which is used for the distribution or transmission of broadcasting services to the public.
 
 (b) For the purposes of this section a multiplex contractor in relation to multiplexes referred to in section 132(1), (2), (3) and (4) or in section 133 is not an appropriate network provider by virtue of being a multiplex contractor or associated activities.
 
-(c) For the purposes of this section a holder of a licence referred to in section 76(1), the terms of which authorise the transmission by means of a MMD system of programme material, is not an appropriate network provider by virtue of being a licensee or associated activities.
+(c) ...
 
 (d) For the purposes of this section a holder of a licence issued under section 59 or 121 , the terms of which authorise the transmission of programme material, is not an appropriate network provider by virtue of being a licensee under that section or associated activities.
 
@@ -32,7 +32,7 @@ Must-carry and must-offer obligations.
 
 (13) Arrangements entered into under subsection (12) shall not result in an additional charge on any subscriber to a satellite television service by reason of the making available to that subscriber of any must-offer service by way of the satellite television service.
 
-(14) Subject to the requirements of any contract made under section 74 any arrangement entered into under subsection (12) shall ensure that the electronic programme guide by which members of the public access the satellite television service shall prioritise the positioning of the must-offer service for the purposes of that satellite television service and for the purposes of any other satellite television service which also utilises the same electronic programme guide for the purposes of making a satellite television service available for reception in an intelligible form by members of the public in the whole of or in part of the State.
+(14) ...
 
 (15) The Authority shall report to the Minister on an annual basis in relation to the operation of this section.
 

@@ -1,6 +1,6 @@
 Broadcasting fund.
 
-157.— (1) The Authority shall establish and maintain on the establishment day a fund which shall be known as the Broadcasting Fund and is referred to in this Part as the “Fund”.
+157.— (1) The Authority shall continue to maintain a fund which shall be known as the Broadcasting Fund and is referred to in this Part as the “Fund”.
 
 (2) The Fund shall be managed and controlled by the Authority and shall consist of a current account (“current account”) and an investment account (“investment account”).
 

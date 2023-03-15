@@ -34,7 +34,7 @@ Broadcasting funding scheme.
 
 (i) on a free television service which provides near universal coverage in the State, or
 
-(ii) on an appropriate network provider or MMD system as part of a community content provision contract under section 72, and which, other than in the case of programmes for children or educational programmes or programmes in the Irish language broadcast by commercial and community broadcasters, are broadcast during peak viewing times,
+(ii) on an appropriate network provider ... as part of a community content provision contract under section 72, and which, other than in the case of programmes for children or educational programmes or programmes in the Irish language broadcast by commercial and community broadcasters, are broadcast during peak viewing times,
 
 (b) may only fund sound broadcasting programmes under subsection (1) which are carried on sound broadcasting services under a contract made by the Authority or operated by RTÉ and which, other than in the case of programmes for children or educational programmes or programmes in the Irish language broadcast by commercial and community broadcasters, are broadcast during peak listening times,
 
@@ -82,4 +82,4 @@ The Authority shall comply with the direction.
 
 (c) The annulment under paragraph (b) of a scheme takes effect immediately on the passing of the resolution concerned but does not affect anything that was done under a scheme before the passing of the resolution.
 
-(11) On the passing of this Act any scheme made by the BCI and approved by the Minister under section 2 of the Broadcasting (Funding) Act 2003 which is in force on such passing continues and is deemed to have been made and approved under this section.
+(11) ...

@@ -1,5 +1,3 @@
-Inspection of draft broadcasting codes and rules.
+Inspection of draft broadcasting codes and rules. (Repealed)
 
-44.— (1) Before preparing a broadcasting code or making a broadcasting rule, the Authority shall make available for inspection on request by any person a draft of the broadcasting code it proposes to prepare or the broadcasting rule it proposes to make and shall have regard to any submissions made to it, within such period as it specifies for the purpose, by that person in relation to the draft before it prepares the broadcasting code or makes the broadcasting rule concerned.
-
-(2) The Authority shall cause to be published on a website maintained by the Authority, and may cause to be published in a newspaper circulating in the State, notice of the fact that, under subsection (1), a draft referred to in that subsection is available for inspection, of the place at which or the means by which the draft can be inspected and of the period specified by it under that subsection within which submissions may be made to it in relation to the draft.
+44.— ...

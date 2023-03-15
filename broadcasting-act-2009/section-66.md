@@ -34,7 +34,7 @@ Determination of applications for award of sound broadcasting contracts and tele
 
 (k) any other matters which the Contract Awards Committee considers to be necessary to secure the orderly development of broadcasting services, and
 
-(l) where directed by the Authority, any of—
+(l) ... any of—
 
 (i) the amount of a single cash sum payment, as specified by the applicant during the course of his or her application, which the applicant is willing to pay to the Authority in respect of the award of the broadcasting contract,
 
@@ -46,11 +46,11 @@ Determination of applications for award of sound broadcasting contracts and tele
 
 (4) In considering the suitability of an applicant for the award of a broadcasting contract, the Contract Awards Committee shall have regard to—
 
-(a) the overall quality of the performance of the applicant with respect to the provision by him or her of a broadcasting service under any broadcasting contract held by him or her at, or before, the date of the making of the application, and
+(a) the overall quality of the performance of the applicant with respect to the provision by him or her of a broadcasting service under any broadcasting contract held by him or her at, or before, the date of the making of the application.
 
-(b) reports of the Compliance Committee.
+(b) ...
 
-(5) Where the Contract Awards Committee decides to refuse to recommend the award of a broadcasting contract to an applicant, the Contract Awards Committee shall notify the applicant of—
+(5) Where the Commission decides to refuse to award a broadcasting contract to an applicant, it shall notify the applicant of—
 
 (a) the reasons for the decision,
 

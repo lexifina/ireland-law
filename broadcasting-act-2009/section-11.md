@@ -1,17 +1,21 @@
-Chairperson of Authority or statutory committee.
+Membership of Commission.
 
-11.— (1) The Government shall from time to time as occasion requires appoint, on the nomination of the Minister—
+11.— (1) The membership of the Commission shall consist of a chairperson and such number of other whole-time members, not being less than 3 nor greater than 6, as the Minister determines.
 
-(a) a member of the Authority to be the chairperson of it,
+(2) Each member of the Commission, including the chairperson, shall be known as a Commissioner.
 
-(b) a member of the Contract Awards Committee appointed by the Government under section 8 (4) (a) to be chairperson of it, and
+(3) The chairperson and each of the other Commissioners shall be appointed by the Minister on the recommendation of the Public Appointments Service.
 
-(c) a member of the Compliance Committee appointed by the Government under section 8 (6) (a) to be chairperson of it.
+(4) A Commissioner shall hold office for such term, not exceeding 5 years from the date of his or her appointment, as the Minister determines.
 
-(2) A chairperson shall, unless he or she sooner dies, resigns the office of chairperson or ceases to be chairperson under subsection (4), hold office until the expiration of his or her period of office as a member of the Authority or statutory committee, as the case may be.
+(5) A Commissioner whose term of office expires or is due to expire shall be eligible for reappointment to the Commission.
 
-(3) A chairperson may at any time resign his or her office as chairperson by letter sent to the Government and the resignation shall, unless it is previously withdrawn in writing, take effect at the commencement of the meeting of the Authority or statutory committee, as the case may be, held next after the body has been informed by the Government of the resignation.
+(6) A Commissioner who has served 2 terms of office shall not be eligible for reappointment to the Commission.
 
-(4) Where a chairperson ceases during his or her term of office as chairperson to be a member of the Authority or statutory committee, as the case may be, he or she shall also cease to be chairperson of the body.
+(7) One or more of the Commissioners shall be designated in writing by the Minister on the recommendation of the Public Appointments Service as an Online Safety Commissioner.
 
-(5) In this section “chairperson” means chairperson of the Authority or a statutory committee, as the case may be.
+(8) Notwithstanding subsection (3), a person who immediately before the establishment day was the chief executive officer of the Authority may be appointed by the Minister to be a Commissioner for such period as the Minister determines (which period shall be no longer than one year from the establishment day).
+
+(9) A person who becomes a Commissioner under subsection (8) shall be eligible for appointment as a Commissioner under subsection (3) at any time during or after the period referred to in subsection (8).
+
+(10) The period referred to in subsection (8) shall not be considered a term of office for the purposes of subsection (6).

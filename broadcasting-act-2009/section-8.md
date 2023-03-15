@@ -1,45 +1,23 @@
-Appointment of Authority, Contract Awards Committee and Compliance Committee.
+Delegation of functions.
 
-8.— (1) The members of the Authority shall be 9 in number, of which—
+8.— (1) Subject to subsection (3), the Commission may delegate the performance of any of its functions to a Commissioner, or to a member of the staff of the Commission, on such terms and conditions as it may determine, and the Commissioner or member of the staff of the Commission shall be accountable to the Commission for the performance of that function.
 
-(a) 5 of them shall be appointed by the Government on the nomination of the Minister, and
+(2) Without prejudice to the generality of subsection (1), a function may be delegated under that subsection so as to be capable of being performed by any Online Safety Commissioner for the time being.
 
-(b) subject to subsection (2), 4 of them shall be appointed by the Government on the nomination of the Minister.
+(3) The Commission may not delegate the performance of its functions under—
 
-(2) Where an appointment is to be made by the Government under subsection (1)(b) or under that paragraph arising from a vacancy referred to in section 10 (11)—
+(a) section 17, 24, 29, or 31,
 
-(a) the Minister shall inform the Joint Oireachtas Committee of the proposed appointment,
+(b) subsection (3), (4) or (5) of section 48,
 
-(b) the Minister in respect of an appointment under subsection (1) (a) shall provide a statement to the Joint Oireachtas Committee indicating the relevant experience and expertise of the persons or person nominated by the Minister for appointment or appointed by the Government on the nomination of the Minister, and such other matters as the Minister considers relevant,
+(c) section 50 or 51,
 
-(c) the Joint Oireachtas Committee shall within the period of 90 days of being so informed, advise the Minister of the names of the persons or name of the person it proposes that the Minister should nominate under subsection (1) (b) giving reasons, such as relevant experience and expertise, in relation to the proposed named persons or person,
+(d) Part 6 or 8,
 
-(d) the Minister shall have regard to the advice and may accept the proposed named persons or some of them or the named person or decide to nominate as he or she sees fit other persons or another person, and
+(e) subsection (6) or (8) of section 139ZE,
 
-(e) inform the Joint Oireachtas Committee of his or her decision.
+(f) Part 8B, or
 
-(3) Not less than 4 of the members of the Authority shall be men and not less than 4 of them shall be women.
+(g) Part 3A of the Competition Act 2002.
 
-(4) The members of the Contract Awards Committee shall be 8 in number, of which—
-
-(a) 4 shall be appointed by the Government on the nomination of the Minister, and
-
-(b) 4 shall be appointed by the Authority, being 2 of the members, and 2 of the members of staff, of the Authority.
-
-(5) The Government and the Authority shall, insofar as is practicable, endeavour to ensure that among the members of the Contract Awards Committee there is an equal balance between men and women.
-
-(6) The members of the Compliance Committee shall be 8 in number, of which—
-
-(a) 4 shall be appointed by the Government on the nomination of the Minister, and
-
-(b) 4 shall be appointed by the Authority, being 2 of the members, and 2 of the members of staff, of the Authority.
-
-(7) The Government and the Authority shall, insofar as is practicable, endeavour to ensure that among the members of the Compliance Committee there is an equal balance between men and women.
-
-(8) The Joint Oireachtas Committee for the purposes of providing advice to the Minister under subsection (2) may establish a panel, for such duration, and consisting of such number of persons as the Joint Oireachtas Committee thinks proper.
-
-(9) Persons placed on a panel established under subsection (8) shall have experience of or have shown capacity in one or more of the areas stated in section 9 (1) and shall be chosen with a view to representing the public interest in respect of broadcasting matters.
-
-(10) The Joint Oireachtas Committee shall, insofar as is practicable, endeavour to ensure that among the persons placed on a panel under subsection (8) there is an equal balance between men and women.
-
-(11) The Joint Oireachtas Committee shall have sole responsibility for the selection and placing of candidates on a panel established under subsection (8).
+(4) A function delegated by the Commission under subsection (1) continues to be vested in the Commission and is capable of being performed concurrently by either the Commission or the delegate.

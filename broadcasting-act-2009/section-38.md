@@ -1,19 +1,31 @@
-Reports to Minister.
+Judicial review.
 
-38.— (1) The Authority shall, not later than 30 June in each year, make a report to the Minister (in this section referred to as an “annual report”) in such form as the Minister may approve, on the performance of its functions and on its activities, during the preceding year. The Minister shall cause copies of each annual report to be laid before each House of the Oireachtas.
+38.— (1) Leave shall not be granted for judicial review of a decision under section 139ZS.
 
-(2) An annual report shall include details of any scheme approved under Part 10 .
+(2) Leave shall not be granted for judicial review of any other decision made or act done by the Commission under this Act unless—
 
-(3) An annual report shall include a report to the Minister by each statutory committee in such form as the Minister may approve, on the performance of its functions and on its activities, during the preceding year.
+(a) the application for leave is made to the High Court within the period of 28 days beginning on the date of the decision or the date of the doing of the act, or
 
-(4) An annual report shall include a report to the Minister on progress made towards increasing accessibility of broadcasting services to people with disabilities, and in particular, on progress made to achieve the targets set out in any broadcasting rules.
+(b) the High Court is satisfied that it may extend the period provided for in paragraph (a) because—
 
-(5) An annual report shall include a report to the Minister in respect of contracts entered into by the Authority under section 67 and any consequent strategy the Authority proposes to adopt to encourage competition in respect of the award of sound broadcasting contracts, excluding contracts entered into under sections 64 and 68.
+(i) there is good and sufficient reason for doing so, and
 
-(6) An annual report shall include a report to the Minister of the attendance of members of the Authority and each statutory committee at their meetings during the preceding year.
+(ii) the circumstances that resulted in the failure to make the application for leave within the period in paragraph (a) were outside the control of the applicant for the extension.
 
-(7) An annual report shall include information in such form and regarding such matters as the Minister may direct.
+(3) The Commission may, at any time after the bringing of an application for leave to apply for judicial review which relates to a matter for the time being before the Commission, apply to the High Court to stay the judicial review proceedings pending the making of a decision by the Commission in relation to the matter.
 
-(8) The Authority and each statutory committee may, from time to time, make such other reports to the Minister relating to their functions as they think fit or as the Minister may require.
+(4) On the making of an application referred to in subsection (3), the High Court may, where it considers that the matter is within the jurisdiction of the Commission, stay the proceedings on such terms as it thinks fit.
 
-(9) In addition to information provided by the Authority in its annual report and in any reports made under subsection (8), the Authority and each statutory committee shall supply to the Minister such information as the Minister may from time to time require regarding the performance of their functions.
+(5) Subject to subsection (6), no appeal shall lie to the Court of Appeal from a decision of the High Court on:
+
+(a) an application for leave for judicial review made in accordance with subsection (1) or (2);
+
+(b) an application to extend the period for the making of such an application in accordance with subsection (2);
+
+(c) an application for judicial review following leave granted under subsection (2);
+
+(d) any other application made in proceedings referred to in paragraph (a), (b) or (c).
+
+(6) The High Court may grant leave to appeal from a decision referred to in subsection (5), where it certifies that its decision involves a point of law of exceptional public importance and that it is desirable in the public interest that an appeal should be taken to the Court of Appeal.
+
+(7) On an appeal referred to in subsection (6), the Court of Appeal shall have jurisdiction to determine only the point of law certified by the High Court under subsection (6), and to make only such order as necessarily follows from that determination.

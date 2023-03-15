@@ -4,7 +4,7 @@ Principal objects and associated powers of TG4.
 
 (a) to establish, maintain and operate a national television broadcasting service, which shall have the character of a public service, be a free-to-air service and be made available, in so far as it is reasonably practicable, to the whole community on the island of Ireland,
 
-(b) to establish and maintain a website and teletext services in connection with the services of TG4 under paragraphs (a), (c), (d), (e), (f), (g) and (h),
+(b) to establish and maintain a website ... in connection with the services of TG4 under paragraphs (a), (c), (d), (e), (f), (g) and (h),
 
 (c) to establish and maintain choirs and other cultural performing groups in connection with the services of TG4 under paragraphs (a), (f), (g) and (h),
 
@@ -16,7 +16,7 @@ Principal objects and associated powers of TG4.
 
 (g) subject to the consent of the Minister, the Minister having consulted with the Authority, to establish, maintain and operate in so far as it is reasonably practicable, community, local, or regional broadcasting services, which shall have the character of a public service, and be available free-to-air,
 
-(h) subject to the consent of the Minister, the Minister having consulted with the Authority, to establish and maintain non-broadcast non-linear audio-visual media services, in so far as it is reasonably practicable, which shall have the character of a public broadcasting service (such consent not being required in respect of such services which are ancillary to a broadcasting service provided under paragraphs (a), (d), (f) and (g)),
+(h) subject to the consent of the Minister, the Minister having consulted with the Authority, to establish and maintain audiovisual on-demand media services, in so far as it is reasonably practicable, which shall have the character of a public broadcasting service (such consent not being required in respect of such services which are ancillary to a broadcasting service provided under paragraphs (a), (d), (f) and (g)),
 
 (i) so far as it is reasonably practicable, to exploit such commercial opportunities as may arise in pursuit of the objects outlined in paragraphs (a) to (h).
 

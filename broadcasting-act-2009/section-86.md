@@ -18,7 +18,7 @@ Exclusions from board membership.
 
 (3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a member of the European Parliament, shall, while so entitled or such a member, be disqualified from becoming a member of the board of a corporation or the director general or a member of the staff of a corporation.
 
-(4) A person who is appointed a member of the Authority, the Contract Awards Committee or the Compliance Committee shall be disqualified from becoming or ceases to be a member of the board of a corporation or a director general or a member of staff of a corporation.
+(4) A person who is appointed a Commissioner shall be disqualified from becoming or ceases to be a member of the board of a corporation or a director general or a member of staff of a corporation.
 
 (5) A person who holds employment, save for educational or performing creative work, or has an interest in an undertaking holding a contract under this Act, shall be disqualified from becoming or ceases to be a member of the board of a corporation.
 

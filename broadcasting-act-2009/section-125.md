@@ -24,4 +24,4 @@ Bealach Thithe an Oireachtais (Houses of the Oireachtas Channel).
 
 (6) The Commission of the Houses of the Oireachtas may enter into such contracts as are necessary to establish and maintain the Houses of the Oireachtas Channel.
 
-(7) The Houses of the Oireachtas Channel shall not broadcast advertisements and material which, if transmitted, would constitute a direct offer to the public for the sale or supply to them of goods or other property (whether real or personal) or services.
+(7) The Houses of the Oireachtas Channel shall not broadcast advertisements ....

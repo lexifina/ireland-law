@@ -10,7 +10,7 @@ Right of reply.
 
 (2) Subject to this section, any person whose honour or reputation has been impugned by an assertion of incorrect facts or information in a broadcast shall have a right of reply.
 
-(3) The Authority shall prepare, within 6 months of the establishment day, following a period of public consultation, a scheme for the exercise of the right of reply.
+(3) The Authority shall prepare, ... following a period of public consultation, a scheme for the exercise of the right of reply.
 
 (4) A scheme shall set out the procedures to be followed in the exercise of the right of reply.
 
@@ -68,7 +68,7 @@ Right of reply.
 
 (16) Evidence of the granting of a right of reply under this section by a broadcaster in respect of a statement to which the action relates is not admissible in any civil proceedings as evidence of liability of the defendant.
 
-(17) Subject to this section, the Compliance Committee, on application to them in that behalf, in writing, by a requester, shall endeavor to within 21 days after the receipt of such an application, review a decision to refuse by a broadcaster under subsection (8) or (9) and as they consider appropriate—
+(17) Subject to this section, the Compliance Committee, on application to it in that behalf, in writing, by a requester, shall endeavor to within 21 days after the receipt of such an application, review a decision to refuse by a broadcaster under subsection (8) or (9) and [as it considers appropriate]—
 
 (a) affirm the decision, or
 
@@ -76,13 +76,13 @@ Right of reply.
 
 (18) An application under subsection (17) shall be made to the Compliance Committee not more than 21 days after receipt of a decision to refuse under subsection (8) or (9).
 
-(19) Where the Compliance Committee propose to investigate an application made under subsection (17), the Compliance Committee shall afford to the broadcaster to whom the application relates (hereafter in this section referred to as the “broadcaster concerned”) an opportunity to comment on the application.
+(19) Where the Commission proposes to investigate an application made under subsection (17), the Compliance Committee shall afford to the broadcaster to whom the application relates (hereafter in this section referred to as the “broadcaster concerned”) an opportunity to comment on the application.
 
-(20) As soon as may be after they decide on an application made under subsection (17), the Compliance Committee shall send to—
+(20) As soon as may be after it decides on an application made under subsection (17), the Compliance Committee shall send to—
 
 (a) the person who made the application, and
 
-(b) the broadcaster concerned, a statement in writing of their decision, including the reasons for their decision.
+(b) the broadcaster concerned, a statement in writing of its decision, including the reasons for its decision.
 
 (21) The Compliance Committee may reject any request for a right of reply where it is of the opinion inter alia that—
 
@@ -118,7 +118,7 @@ Right of reply.
 
 (p) the matter concerned relates to a party political broadcast,
 
-(q) the matter concerned relates to a broadcast under section 3 of the Act of 1998,
+(q) the matter concerned relates to a broadcast under section 31 of the Electoral Reform Act 2022,
 
 (r) the broadcast of a right of reply is not in the public interest, or
 
@@ -126,11 +126,11 @@ Right of reply.
 
 (22) Where the Compliance Committee finds that the broadcaster has failed to comply with a decision under subsection (17) the Compliance Committee shall notify the broadcaster of those findings and give the broadcaster an opportunity to make representations in relation to the notification or remedy any non-compliance, not later than—
 
-(a) 10 days after issue of the notification, or
+(a) 10 days after the giving of the notification, or
 
 (b) the end of such longer period as is agreed by the Compliance Committee with the broadcaster concerned.
 
-(23) Where, at the end of the period referred to in subsection (22), the Compliance Committee is of the opinion that the broadcaster concerned has not remedied its non-compliance, the Compliance Committee may recommend to the Authority, and the Authority shall follow such recommendation, that the Authority apply to the High Court for such order as may be appropriate in order to ensure compliance with a decision under subsection (17).
+(23) Where, at the end of the period referred to in subsection (22), the Compliance Committee is of the opinion that the broadcaster concerned has not remedied its non-compliance, the Commission may, on notice to the broadcaster, apply to the High Court for such order as may be appropriate in order to ensure compliance with a decision under subsection (17).
 
 (24) The High Court may, as it thinks fit, on the hearing of the application make an order—
 
@@ -146,6 +146,8 @@ Right of reply.
 
 (b) carried out in accordance with its terms by the Compliance Committee.
 
+(25A) The Commission may amend a scheme prepared under subsection (3) and an amended scheme shall be considered to be a scheme prepared under subsection (3).
+
 (26) (a) A scheme shall be laid before each House of the Oireachtas by the Minister as soon as may be after it is prepared.
 
 (b) Either House of the Oireachtas may, by resolution passed within 21 sitting days after the day on which a scheme was laid before it in accordance with paragraph (a), annul the scheme.
@@ -155,3 +157,5 @@ Right of reply.
 (27) The Authority shall review and report to the Minister on the operation, effectiveness and impact of a scheme not later than 3 years from the date on which it comes into operation and every 5 years thereafter or at such time as may be requested by the Minister.
 
 (28) A copy of a report under subsection (27) shall be laid by the Minister before each House of the Oireachtas as soon as may be after it has been made to him or her.
+
+(29) A scheme prepared under subsection (3) before the date of coming into operation of section 13 of the Online Safety and Media Regulation Act 2022 shall, if in force immediately before that date, continue in force as if made under this section as amended by that section.

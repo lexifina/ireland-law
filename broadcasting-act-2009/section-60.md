@@ -26,24 +26,6 @@ Variation of broadcasting licence.
 
 (c) On and from the day following service on the contractor of notice of the Communications Regulator’s decision the licence shall have effect subject to the variation of it by that decision.
 
-(4) Where a notice is required under this section to be given to the Authority or a broadcasting contractor, it shall be addressed to the Authority or the broadcasting contractor and shall be given to the Authority or the broadcasting contractor in one of the following ways—
+(4) ...
 
-(a) by delivering it to the Authority or the broadcasting contractor,
-
-(b) by leaving it at the address at which the Authority or the broadcasting contractor carries on business,
-
-(c) by sending it by post in a pre-paid registered letter addressed to the Authority or the broadcasting contractor at the address at which the Authority or the broadcasting contractor carries on business,
-
-(d) if an address for the service of a notice has been furnished by the Authority or the broadcasting contractor, by leaving it at, or sending it by pre-paid registered post addressed to the Authority or the broadcasting contractor to, that address, or
-
-(e) by sending it by means of electronic mail or a facsimile machine, to a device or facility for the reception of electronic mail or facsimiles located at the address at which the Authority or the broadcasting contractor carries on business or, if an address for the service of a notification has been furnished by the Authority or the broadcasting contractor, that address, but only if—
-
-(i) the sender’s—
-
-(I) facility for the reception of electronic mail generates a message confirming a receipt of the electronic mail, or
-
-(II) facsimile machine generates a message confirming successful transmission of the total number of pages of the notice, and
-
-(ii) the notice is also given in one of the other ways mentioned in any of the preceding paragraphs.
-
-(5) For the purposes of subsection (4), a company registered under the Companies Acts is deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body is deemed to be ordinarily resident at its principal office or place of business.
+(5) ...

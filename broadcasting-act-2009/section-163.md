@@ -2,7 +2,7 @@ Consultation.
 
 163.— (1) Before making a designation order, the Minister shall—
 
-(a) make reasonable efforts to consult with the organisers of the event and with broadcasters who are under the jurisdiction of the State for the purpose of the Council Directive,
+(a) make reasonable efforts to consult with the organisers of the event and with broadcasters who are under the jurisdiction of the State ...,
 
 (b) publish a notice of the event which the Minister intends to designate under that section on a website maintained by him or her and where appropriate in a newspaper circulating in the State, and
 

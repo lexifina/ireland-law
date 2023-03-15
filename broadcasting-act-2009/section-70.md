@@ -1,6 +1,6 @@
 Television programme service contract.
 
-70.— (1) The Authority, on the recommendation of the Contract Awards Committee, shall enter into a contract (“television prog ramme service contract”) with a person or persons (“television programme service contractor”) who shall have the right and duty to establish and maintain a television programme service and who, subject to section 139, shall have the right and duty, subject to the terms of the contract, to establish, maintain and operate television broadcasting transmitters for the purpose of transmitting the television programme service as a free-to-air service.
+70.— (1) The Commission shall enter into a contract (“television programme service contract”) with a person or persons (“television programme service contractor”) who shall have the right and duty to establish and maintain a television programme service and who, subject to section 139, shall have the right and duty, subject to the terms of the contract, to establish, maintain and operate television broadcasting transmitters for the purpose of transmitting the television programme service as a free-to-air service.
 
 (2) The Authority shall ensure that a television programme service provided by a television programme service contractor under this section shall in its programming—
 

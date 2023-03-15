@@ -4,7 +4,7 @@ Definitions (Part 11).
 
 160.— (1) In this Part—
 
-“broadcaster” has the meaning assigned to it in the Council Directive;
+“broadcaster” has the meaning assigned to it in the Directive;
 
 “designated” means designated by a designation order;
 
@@ -26,7 +26,7 @@ Definitions (Part 11).
 
 “rights” in relation to the broadcast of a designated event, means the exclusive or non-exclusive rights to broadcast the event;
 
-“television broadcasting” has the meaning assigned in the Council Directive.
+“television broadcasting” has the meaning assigned in the Directive.
 
 (2) A broadcaster who provides near universal coverage of a designated event is deemed to be a qualifying broadcaster.
 

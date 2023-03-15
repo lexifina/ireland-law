@@ -1,5 +1,9 @@
-Exchequer funding.
+Co-operation with self-regulatory systems.
 
-34.— (1) Where in the opinion of the Minister an expense incurred by the Authority in performing its functions is of an exceptional nature, the Minister, after consultation with the Authority and with the consent of the Minister for Finance, may from time to time pay to the Authority such an amount as he or she determines to be reasonable for the purposes of defraying expenses incurred by the Authority and its statutory committees in performing their functions under this Act.
+34.— (1) The Commission may co-operate with, or give assistance to, a person or group of persons, whether established in the State or elsewhere—
 
-(2) The Minister, with the approval of the Minister for Finance, may pay to the Authority such amount as he or she considers reasonable in respect of the expenses of the Authority and its statutory committees for the one year period from the establishment day.
+(a) in the preparation by that person or group of standards, or
+
+(b) in the establishment and administration by that person or group of a self-regulatory system, relating to the regulation of programme material, user-generated video or other content.
+
+(2) In this section, “self-regulatory system” means a system whereby the members of a group of persons with a shared interest voluntarily adhere to rules or codes of conduct established by that group, and may include a system which provides for the resolution of disputes.

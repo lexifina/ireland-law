@@ -1,19 +1,7 @@
-Disclosure by staff of Authority of certain interests.
+Levies under section 21: enforcement and procedure.
 
-22.— (1) Where a member of the staff of the Authority or a consultant or adviser engaged under section 18, in a category specified before engagement by the Authority, has an interest, otherwise than in his or her capacity as such, in any contract, or any proposed contract to which the Authority is or is proposed to be a party, or in any agreement or arrangement or proposed agreement or arrangement to which the Authority or a statutory committee is or is proposed to be a party, that person—
+22.— (1) A levy payable under a levy order by any person may be recovered by the Commission from that person as a simple contract debt in any court of competent jurisdiction.
 
-(a) shall disclose to the Authority his or her interest and the nature of it,
+(2) A person shall be guilty of a category 2 offence if in purported compliance with a requirement imposed by or under a levy order, he or she provides information to the Commission which is to his or her knowledge false or misleading.
 
-(b) shall take no part in the negotiation of the contract, agreement or arrangement or in any deliberation by members of the Authority or the committee or members of the staff of the Authority in relation to it,
-
-(c) shall not influence or seek to influence a decision to be made in the matter, and
-
-(d) shall not make any recommendation in relation to the contract, agreement or arrangement.
-
-(2) Subsection (1) does not apply to a person as regards a contract or proposed contract of employment of that person as a member of the staff of the Authority.
-
-(3) Subsection (1) does not apply to a person as regards a contract or proposed contract for services in respect of that person.
-
-(4) In this section “member of staff” includes the chief executive officer.
-
-(5) Where a person to whom subsection (1) applies fails to comply with a requirement of this section, the Authority shall decide the appropriate action (including removal from office or termination of contract) to be taken.
+(3) A levy order shall be laid by the Commission before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House sits after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.

@@ -1,0 +1,3 @@
+Laying of rules, orders and schemes.
+
+159J.— (1) Any rule, order or scheme made under this Part shall be laid by the Commission, or in the case of a scheme made by Fís Éireann in accordance with section 159H, by Fís Éireann before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the rule, order or scheme is passed by either such House within the next 21 days on which that House sits after the rule, order or scheme is laid before it, the rule, order or scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.

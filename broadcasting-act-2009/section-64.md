@@ -1,6 +1,6 @@
 Community sound broadcasting contracts.
 
-64.— The Authority, on the recommendation of the Contract Awards Committee, may enter into a class of sound broadcasting contract (“community sound broadcasting contract”) with 2 or more members of a local community or of a community of interest if it is satisfied that—
+64.— The Commission may enter into a class of sound broadcasting contract (“community sound broadcasting contract”) with 2 or more members of a local community or of a community of interest if it is satisfied that—
 
 (a) those members are representative of, and accountable to, the community concerned, and
 

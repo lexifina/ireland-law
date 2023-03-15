@@ -36,9 +36,9 @@ Terms and conditions of multiplex contracts.
 
 (a) provide that a multiplex contractor shall pay to the Authority the fees (if any) specified in it, including any fees payable by the Authority to the Communications Regulator under section 135, and
 
-(b) provide that the multiplex contractor shall provide such information (including copies of his or her accounts) as the Authority or the Compliance Committee may consider it requires in order to enable it carry out its functions under this Part.
+(b) provide that the multiplex contractor shall provide such information (including copies of his or her accounts) as the Commission may consider it requires in order to enable it carry out its functions under this Part.
 
-(5) Every multiplex contract shall be open to inspection by members of the public at the Authority’s registered office and the Authority shall, on request made by any person and on payment of such sum (if any) as the Authority may reasonably require, give to that person a copy of that contract.
+(5) Every multiplex contract shall be open to inspection by members of the public at the Authority’s ... office and the Authority shall, on request made by any person and on payment of such sum (if any) as the Authority may reasonably require, give to that person a copy of that contract.
 
 (6) The Authority shall, if it considers it appropriate in the context of the interests of the viewer of multiplex services and in the context of satisfactory and orderly operation of multiplexes by multiplex contractors, through further multiplex contract conditions, ensure that each television multiplex contractor operates multiplexes, and any associated services, for which they have entered into multiplex contracts in relation to multiplexes referred to in section 132 (3) and (4)—
 

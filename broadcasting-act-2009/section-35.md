@@ -1,9 +1,29 @@
-Borrowings.
+Policy communications.
 
-35.— (1) The Authority may, with the approval of the Minister, given with the consent of the Minister for Finance, borrow temporarily such sums as it may require for the purpose of providing for current expenditure.
+35.— (1) The Commission may consider any communication issued to it by the Minister in accordance with this section (a “policy communication”), if the Commission is satisfied that doing so is consistent with its independence in the performance of its functions.
 
-(2) The Authority may, with the approval of the Minister, given with the consent of the Minister for Finance, borrow money by means of the creation of stock or other forms of security to be issued, transferred, dealt with and redeemed in such manner and on such terms and conditions as the Authority, with the consent of the Minister for Finance, may determine.
+(2) The Minister may issue a policy communication if—
 
-(3) The borrowing powers conferred by subsection (2) on the Authority may, subject to the consent of the Minister, be exercised for any purpose arising in connection with the performance of its functions, but there may be attached to a consent to borrow the condition that the monies shall be utilised only for the purpose of a programme of capital works approved by the Minister.
+(a) the Minister thinks the Commission should consider the matters referred to in the communication in formulating policy relating to the performance of its functions, and
 
-(4) The terms upon which monies are borrowed under subsection (2) may include provisions charging the monies and interest thereon upon all property of whatsoever kind for the time being vested in the Authority or upon any particular property of the Authority and provisions establishing the priority of such charges amongst themselves.
+(b) the Minister is satisfied that issuing the communication is consistent with the Commission’s independence in the performance of its functions.
+
+(3) Before issuing a policy communication, the Minister—
+
+(a) shall give the Commission a draft of the proposed communication and the reasons for it, and
+
+(b) shall publish the draft and the reasons with a notice specifying the period within which representations relating to the communication may be made by any person.
+
+(4) The period specified must not be less than 21 days from the date of publication of the notice.
+
+(5) After considering any representations made under subsection (3), the Minister may issue the policy communication with or without amendment.
+
+(6) Before issuing a policy communication that relates to the functions of another Minister of the Government, the Minister shall consult that other Minister.
+
+(7) The Minister shall not issue a policy communication that relates to the Commission’s performance of its functions in relation to a particular person.
+
+(8) The Minister shall not issue a policy communication that relates to the Commission’s performance of its functions under Part 5, 6, 8 or 8B of this Act.
+
+(9) A policy communication shall be laid before each House of the Oireachtas by the Minister as soon as may be after it is issued.
+
+(10) The Commission shall publish a policy communication on a website maintained by it.

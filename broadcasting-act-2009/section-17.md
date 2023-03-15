@@ -1,9 +1,49 @@
-Advisory committees.
+Staff of Commission.
 
-17.— (1) The Authority may establish advisory committees to advise and assist it or a statutory committee in the performance of its functions.
+17.— (1) The Commission may, with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform, appoint such and so many persons to be members of the staff of the Commission as it may determine.
 
-(2) Where advisory committees include members other than members of the Authority or a statutory committee or staff of the Authority, such members may be paid such remuneration (if any) and allowances for expenses as the Authority considers reasonable, subject to the consent of the Minister and the Minister for Finance.
+(2) The terms and conditions of service of a member of the staff of the Commission shall, with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform, be determined by the Commission.
 
-(3) The Authority may regulate the procedure of its advisory committees, but subject to such regulation, an advisory committee may regulate its own procedure.
+(3) There shall be paid by the Commission to the members of its staff such remuneration and allowances as the Commission may, with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform, determine.
 
-(4) The Authority or a statutory committee and the chief executive shall have regard to, but shall not be bound by, the advice of any advisory committee under this section.
+(4) A member of the staff of the Commission shall, unless otherwise provided for under subsection (2), stand seconded from employment by the Commission and shall not be paid by, nor entitled to receive from, the Commission any remuneration or allowances for the period of that secondment, if he or she is—
+
+(a) nominated as a member of Seanad Éireann,
+
+(b) elected as a member of either House of the Oireachtas or to be a member of the European Parliament,
+
+(c) regarded pursuant to Part XIII of the Second Schedule to the European Parliament Elections Act 1997 as having been elected to the European Parliament, or
+
+(d) elected or co-opted as a member of a local authority.
+
+(5) Without prejudice to the generality of subsection (4), a period of secondment referred to in subsection (4) shall not be considered as service with the Commission for the purposes of any superannuation benefits. consent of the Minister for Public Expenditure and Reform, make a scheme granting superannuation benefits to or in respect of—
+
+(a) a Commissioner, or
+
+(b) a member of the staff of the Commission.
+
+(2) A scheme made under this section shall not provide for the granting of superannuation benefits to or in respect of any person where the Single Public Service Pension Scheme applies to or in respect of that person by virtue of Chapter 2 of Part 2 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012.
+
+(3) A scheme made under this section shall fix the time and conditions of retirement of all persons to or in respect of whom superannuation benefits are payable under the scheme and different times and conditions may be fixed in respect of different classes of persons.
+
+(4) The Commission may, with the approval of the Minister given with the consent of the Minister for Public Expenditure and Reform, amend or revoke a scheme.
+
+(5) A scheme shall be carried out by the Commission in accordance with its terms.
+
+(6) A scheme shall include provision for appeals from a decision relating to a superannuation benefit under the scheme.
+
+(7) No superannuation benefits shall be granted by the Commission to or in respect of a person who is a member of a scheme under this section on ceasing to be a Commissioner or a member of the staff of the Commission otherwise than—
+
+(a) in accordance with a scheme or schemes under this section, or
+
+(b) with the approval of the Minister, given with the consent of the Minister for Public Expenditure and Reform.
+
+(8) A scheme shall be laid by the Commission before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling the scheme is passed by either such House within the next 21 days on which that House sits after the scheme is laid before it, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done under it.
+
+(9) Subsection (8) shall, with all necessary modifications, apply to an amendment to a scheme or a revocation of a scheme as it applies to a scheme.
+
+(10) A scheme shall not provide for less favourable conditions in respect of people who immediately before the establishment day were members of the staff of the Authority than those conditions to which they were entitled immediately before the establishment day.
+
+(11) Disbursement of superannuation benefits which may be granted to or in respect of persons who, immediately before the establishment day, were members of the staff of the Authority shall not be on less favourable conditions than would apply if the benefits had continued to be paid out of moneys provided by the Authority.
+
+(12) In this section, “scheme” means a scheme made under subsection (1).

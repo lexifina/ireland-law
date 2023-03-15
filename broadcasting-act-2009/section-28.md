@@ -1,51 +1,21 @@
-Functions of Compliance Committee.
+Accountability of Commissioner to Oireachtas committees.
 
-28.— (1) The principal functions of the Compliance Committee are to—
+28.— (1) The chairperson, if required in writing to do so by a committee, shall attend before it to give account for the general administration of the Commission.
 
-(a) monitor compliance by contractors with the terms and conditions of any contract entered into by the Authority on the recommendation of the Contract Awards Committee under this Act,
+(2) Any Commissioner, if required in writing to do so by a committee, shall attend before it to give account for the performance of any functions of the Commission delegated to him or her.
 
-(b) enforce the terms and conditions of any contract entered into by the Authority on the recommendation of the Contract Awards Committee under this Act,
+(3) Subsections (1) and (2) do not require a Commissioner to give account before a committee for any matter which is or has been, or which may in the future be, the subject of proceedings before a court or tribunal.
 
-(c) monitor compliance by—
+(4) Where a Commissioner is of the opinion that a matter in respect of which he or she is requested to give an account before a committee is a matter to which subsection (3) applies, he or she shall inform the committee of that opinion and the reasons for the opinion and, unless the information is conveyed to the committee at a time when the Commissioner is before it, the information shall be so conveyed in writing.
 
-(i) broadcasters with sections 39 , 40 and 41 ,
+(5) Where the Commissioner has informed a committee of his or her opinion in accordance with subsection (4) and the committee does not withdraw the requirement referred to in subsection (1) or (2) in so far as it relates to a matter the subject of that opinion—
 
-(ii) RTÉ and TG4 with section 106 (3), and
+(a) the Commissioner may, not later than 21 days after being informed by the committee of its decision not to do so, apply to the High Court in a summary manner for determination of the question whether the matter is one to which subsection (3) applies, or
 
-(iii) the Irish Film Channel with section 127 (6),
+(b) the chairperson of the committee may, on behalf of the committee, make such an application, and the High Court shall determine the matter.
 
-(d) enforce compliance by—
+(6) Pending the determination of an application under subsection (5), the Commissioner shall not attend before the committee to give account for the matter the subject of the application.
 
-(i) broadcasters with sections 39 , 40 and 41 ,
+(7) If the High Court determines that subsection (3) applies to the matter concerned, the committee shall withdraw the requirement referred to in subsection (1) or (2), but if the High Court determines that subsection (3) does not apply, the Commissioner shall attend before the committee and give account for the matter.
 
-(ii) RTÉ and TG4 with section 106 (3), and
-
-(iii) the Irish Film Channel with section 127 (6),
-
-(e) monitor compliance by broadcasters with any broadcasting code or rule,
-
-(f) enforce compliance by broadcasters with any broadcasting code or rule,
-
-(g) investigate and decide upon a complaint made under section 48, and
-
-(h) investigate and decide upon a request made under section 49.
-
-(2) The Compliance Committee has the following additional functions—
-
-(a) at the request of the Minister, to report on compliance by a corporation under sections 108 (3), 109 (13), 111 (11), and 112 (10),
-
-(b) at the request of the Minister, to report on the proportion of the television programme service of a broadcaster which is—
-
-(i) produced in the State or in another Member State, and
-
-(ii) devoted to original programme material produced therein by persons other than the broadcaster, his or her subsidiary, his or her parent or existing broadcasting organisations.
-
-(3) The Compliance Committee may delegate some of its functions to a member of staff of the Authority, who is not a member of the Compliance Committee, subject to such conditions as the Compliance Committee considers appropriate and the member of staff concerned shall be accountable to the Compliance Committee for the performance of the functions so delegated to him or her.
-
-(4) The Compliance Committee may delegate some of its functions to a subcommittee of the Compliance Committee, subject to such conditions as the Compliance Committee considers appropriate.
-
-(5) The Compliance Committee shall review on an ongoing basis the extent to which the television broadcasts of broadcasters under the jurisdiction of another Member State which are wholly or mainly directed towards audiences in the State comply with broadcasting codes, in particular the codes referred to in section 42 (2) (g) and (h).
-
-(6) The Compliance Committee shall each year make a report to the Minister in respect of the matters in subsection (5).
-
-(7) The Minister shall cause a copy of the report referred to in subsection (6) to be laid before each House of the Oireachtas.
+(8) In this section, “committee” means a committee appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the committee referred to in section 27 or the Committee on Members’ Interests of Dáil Éireann or the Committee on Members’ Interests of Seanad Éireann) or a subcommittee of such a committee.

@@ -1,29 +1,19 @@
-Superannuation.
+Meetings of Commission.
 
-16.— (1) As soon as may be after the establishment day, the Authority, with the consent of the Minister and the consent of the Minister for Finance, shall make a scheme or schemes for the granting of superannuation benefits to or in respect of the members of staff, including the chief executive, of the Authority.
+16.— (1) The Commission shall hold such and so many meetings as it considers necessary for the performance of its functions.
 
-(2) A superannuation scheme shall fix the time and conditions of retirement of all persons to or in respect of whom superannuation benefits are payable under the scheme or schemes and different times and conditions may be fixed in respect of different classes of persons.
+(2) At a meeting of the Commission—
 
-(3) The Authority may, with the consent of the Minister and the consent of the Minister for Finance, make a scheme amending or revoking a superannuation scheme including a scheme under this subsection.
+(a) the chairperson shall, if present, be the chairperson of the meeting, or
 
-(4) A superannuation scheme submitted by the Authority shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the Authority in accordance with its terms.
+(b) if the chairperson is not present, the Commissioners present shall choose one of their number to be the chairperson of the meeting.
 
-(5) Each superannuation scheme shall include a provision for appeals from a decision relating to a superannuation benefit under the scheme.
+(3) Every question at a meeting on which a vote is required shall be determined by a majority of the votes of the Commissioners present and voting on the question and, in the case of an equal division of votes, the chairperson of the meeting shall have a second or casting vote.
 
-(6) No superannuation benefits shall be granted by the Authority to or in respect of a person on ceasing to be chief executive or a member of the staff of the Authority otherwise than—
+(4) Subject to subsection (5), the Commission may act notwithstanding one or more vacancies among the Commissioners.
 
-(a) in accordance with a superannuation scheme or schemes, or
+(5) The quorum for a meeting of the Commission shall, unless the Minister otherwise directs, be 3.
 
-(b) with the consent of the Minister and the Minister for Finance.
+(6) A meeting of the Commission may take place by any means of communication by which all of the Commissioners participating can hear and be heard at the same time.
 
-(7) Every superannuation scheme shall provide for not less favourable conditions in respect of persons who, immediately before establishment day, were members of staff of the BCI than those to which they were entitled immediately before establishment day.
-
-(8) Disbursement of superannuation benefits which may be granted to or in respect of persons who, immediately before the establishment day, were members of staff of the BCI shall not be on less favourable conditions than would apply if the benefits referred to had continued to be paid out of monies provided by the BCI.
-
-(9) Where a superannuation benefit falls due for payment to or in respect of a person to whom subsection (7) applies in the period beginning on the establishment day and ending immediately before the coming into operation of a scheme submitted by the Authority and approved of under this section, the allowance shall be calculated and paid by the Authority in accordance with such superannuation arrangements or such enactments in relation to superannuation, as applied to such person immediately before the establishment day and, for that purpose, his or her pensionable service with the Authority shall be aggregated with his or her previous pensionable service.
-
-(10) (a) A superannuation scheme shall be laid before each House of the Oireachtas by the Minister as soon as may be after it is made.
-
-(b) Either House of the Oireachtas may, by resolution passed within 21 sitting days after the day on which a scheme was laid before it in accordance with paragraph (a), annul the scheme.
-
-(c) The annulment of a scheme under paragraph (b) takes effect immediately on the passing of the resolution concerned but does not affect anything that was done under the scheme before the passing of the resolution.
+(7) Subject to the provisions of this Act, the Commission shall regulate its procedures in such manner as it determines.

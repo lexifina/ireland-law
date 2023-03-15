@@ -1,29 +1,69 @@
-Disclosure by members of Authority and statutory committee of certain interests.
+Power to impose levies.
 
-21.— (1) A member of the Authority or a statutory committee who has—
+21.— (1) The Commission may make an order (a “levy order”) imposing a levy on any of the following:
 
-(a) any interest in any body or concern with which the Authority has made a contract or proposes to make a contract, or
+(a) providers of audiovisual media services;
 
-(b) any interest in any contract which the Authority has made or proposes to make, shall disclose to the Authority or the committee the fact of such interest and the nature of it and shall not be present at any deliberation or decision of the Authority or the committee relating to the contract.
+(b) providers of sound broadcasting services;
 
-(2) Where at a meeting of the Authority or a statutory committee, any of the following matters arise, namely—
+(c) providers of designated online services.
 
-(a) an arrangement to which the Authority or the committee is a party or a proposed such arrangement, or
+(2) A levy order shall specify the period in respect of which a levy is imposed (the “levy period”).
 
-(b) a contract or other agreement with the Authority or a proposed such contract or other agreement, then, any member of the Authority or a statutory committee present at the meeting who otherwise than in his or her capacity as such a member has an interest in the matter shall—
+(3) Levy periods shall run successively, and shall be the same for all levies imposed.
 
-(i) at the meeting disclose to the Authority or the committee the fact of such interest and the nature of it,
+(4) The Commission shall seek to ensure that the amount of all levies imposed under subsection (1) in respect of a levy period is sufficient to meet the Commission’s expenses properly incurred in that period and its working capital requirements in that period, in so far as those expenses and requirements are not met in any other way.
 
-(ii) neither influence nor seek to influence a decision to be made in relation to the matter,
+(5) In calculating the amount of a levy under any paragraph of subsection (1) in respect of a levy period, the Commission—
 
-(iii) absent himself or herself from the meeting or that part of the meeting during which the matter is discussed,
+(a) shall consider the Commission’s expenses in that period in performing functions in relation to services mentioned in that paragraph, as a proportion of its expenses in that period in performing functions in relation to all services mentioned in subsection (1), and
 
-(iv) take no part in any deliberation of the Authority or the committee relating to the matter, and
+(b) shall seek to ensure that the total amount imposed by way of levy under that paragraph in respect of that period, represents a corresponding proportion of the total amount imposed by way of levy under this section in respect of that period.
 
-(v) not vote on a decision relating to the matter.
+(6) A levy order shall provide for the collection, payment and administration of a levy, including—
 
-(3) Where an interest is disclosed under this section, the disclosure shall be recorded in the minutes of the meeting concerned and, for so long as the matter to which the disclosure relates is being considered or discussed by the meeting, the member by whom the disclosure is made shall not be counted in the quorum for the meeting.
+(a) the method of calculation of the levy,
 
-(4) Where at a meeting of the Authority or a statutory committee a question arises as to whether or not a course of conduct, if pursued by a member of the Authority, or a statutory committee of the Authority, would constitute a failure by him or her to comply with the requirements of subsections (1) or (2), the question may be determined by the Authority or the committee, whose decision shall be final, and where such a question is so determined, particulars of the determination shall be recorded in the minutes of the meeting.
+(b) the times at which payment is to be made and the form of payment,
 
-(5) For the purposes of this section and section 22 a person shall not be regarded as having an interest in any matter by reason only of an interest of that person, or of any company in which he or she has an interest, which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a person in considering, discussing or in voting on, any question relating to the matter, or in performing any function in relation to that matter.
+(c) requirements for providers subject to the levy to keep relevant records, and to make them available to the Commission,
+
+(d) any provision for exemptions, deferrals or refunds, and
+
+(e) the consideration of applications by providers for the review of decisions under the order.
+
+(7) A levy order—
+
+(a) shall not impose a levy on a provider providing only a community broadcasting service, and
+
+(b) shall exempt any such service from the calculation of a levy imposed on a provider also providing other services.
+
+(8) In subsection (7), “community broadcasting service” means a service provided under a contract under section 64, 68(1)(b), or 72.
+
+(9) In making provision by levy order for the method of calculation of a levy and for any exemption or deferral, the Commission shall consider the relevance of the following factors:
+
+(a) the financing of a provider, including any public funding;
+
+(b) the desirability of promoting new or innovative services;
+
+(c) the nature and scale of services provided by a provider;
+
+(d) any other factor that may affect the exercise by the Commission of functions in relation to a provider, including, in the case of designated online services, matters referred to in section 139E(3)(d), (e) and (f).
+
+(10) Levy orders may (subject to subsection (3)):
+
+(a) make different provision for different providers, including providers within the same paragraph of subsection (1);
+
+(b) in the case of providers who fall within more than one of those paragraphs, make different provision under different paragraphs.
+
+(11) Any surplus of income, from levies imposed in respect of a levy period, over the expenses properly incurred by the Commission in that period and its working capital requirements in that period shall either—
+
+(a) be retained by the Commission to be offset proportionately against subsequent levy obligations of the providers on whom the levy was imposed, or
+
+(b) be refunded proportionately to those providers.
+
+(12) In this section and section 22—
+
+“levy order” has the meaning given in subsection (1);
+
+“levy period” has the meaning given in subsection (2).

@@ -68,9 +68,7 @@ The special notice is required to be in writing and to be sent by registered pos
 
 (4) In a prosecution for an offence under subsection (3) in which it is shown that a specific notice has been sent by registered post, it shall be presumed, until the contrary is shown, that the person to whom the notice was sent has not complied with the requirements of that subsection.
 
-8.— (1) A judge of the District Court may, upon the information on oath of an officer of the appropriate authority or of a member of the Garda Síochána that there is reasonable ground for believing that apparatus for wireless telegraphy is being kept or is being worked or used at any specified place, specified vehicle or in any specified ship or other vessel in contravention of the Wireless Telegraphy Acts 1926 to 2009 or any regulation made or condition imposed under those Acts or the Broadcasting
-
-(Offences) Acts 1968 to 2009, issue to such officer or (with the consent of the appropriate authority) to such member of the Garda Síochána (as the case may be) a search warrant which shall be expressed and shall operate to authorise the officer of that authority or member of the Garda Síochána to whom the same is granted—
+8.— (1) A judge of the District Court may, upon the information on oath of an officer of the appropriate authority or of a member of the Garda Síochána that there is reasonable ground for believing that apparatus for wireless telegraphy is being kept or is being worked or used at any specified place, specified vehicle or in any specified ship or other vessel in contravention of the Wireless Telegraphy Acts 1926 to 2009 or any regulation made or condition imposed under those Acts or the Broadcasting (Offences) Acts 1968 to 2009, issue to such officer or (with the consent of the appropriate authority) to such member of the Garda Síochána (as the case may be) a search warrant which shall be expressed and shall operate to authorise the officer of that authority or member of the Garda Síochána to whom the same is granted—
 
 (a) to enter, within one month from the date of issue of the warrant, on production of the warrant, if so requested, and if need be by force, the place, vehicle, ship or other vessel named in the information,
 
@@ -146,8 +144,10 @@ The special notice is required to be in writing and to be sent by registered pos
 
 (ii) in the case of an association, company (within the meaning of the Companies Acts) or other body (whether corporate or unincorporate) has its principal office in the State.
 
-(6) In this section, ‘appropriate authority’—
+(6) In this section, "appropriate authority"—
 
 (a) in relation to apparatus for wireless telegraphy on ships or other vessels, means the Minister for Transport, and
 
 (b) in relation to apparatus for wireless telegraphy on aircraft, means the Commission.
+
+Section 139A

@@ -48,7 +48,7 @@ Recommendations as to changes to public funding.
 
 (g) developments in public service broadcasting internationally,
 
-(h) reports of the Compliance Committee,
+(h) ...
 
 (i) such other matters as the Authority may consider relevant, and
 
