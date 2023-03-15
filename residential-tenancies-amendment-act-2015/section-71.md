@@ -26,8 +26,6 @@ Designated tenancy deposit account
 
 (b) references in section 178(1) to books or other records of account shall include books or other records of account relating to designated tenancy deposit accounts and accounts referred to in section 177(3A)(c).
 
-Withdrawal by Board of interest from designated tenancy deposit account
-
 177B. (1) The Board shall, for the purposes of the withdrawal of moneys representing the interest which has accrued on a designated tenancy deposit account, direct the manner in which, and the times at which, interest that has accrued on a designated tenancy deposit account is to be withdrawn from that account and placed in a bank account referred to in subsection (2).
 
 (2) The Board shall cause to be maintained one or more bank accounts for the purpose of holding interest that is withdrawn from a designated tenancy deposit account for the purpose of the performance by it of its functions under section 151(1)(bb).
