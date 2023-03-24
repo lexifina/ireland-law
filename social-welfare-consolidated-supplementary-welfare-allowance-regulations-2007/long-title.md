@@ -1,0 +1,1 @@
+The Minister for Social and Family Affairs, in exercise of the powers conferred on him by sections 4, 188, 190, 191, 194, 195, 198, 241, 242, 244, 251, 294, 295, 312 and 330, Rules 1(2), 1(2)(b)(iv) and 1(5)(a) of Part 4, and reference 19 of Table 2 of Schedule 3 to the Social Welfare Consolidation Act 2005 (No. 26 of 2005), hereby makes the following Regulations:
