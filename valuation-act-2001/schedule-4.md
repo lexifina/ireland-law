@@ -46,9 +46,7 @@ RELEVANT PROPERTY NOT RATEABLE
 
 (b) a body the expenses incurred by which in carrying on an activity as aforesaid are defrayed wholly or mainly out of moneys provided by the Exchequer and the care or treatment provided by which is made available to the general public (whether with or without a charge being made therefor).
 
-9.—Any burial ground or crematorium which is not established or operated for the purposes of making a private profit and the income derived from the operation of which is used wholly to defray the expenses (including expenses of a capital nature) incurred in its operation.
-
-10.—Any land, building or part of a building occupied by a school, college, university, institute of technology or any other educational institution and used exclusively by it for the provision of the educational services referred to subsequently in this paragraph and otherwise than for private profit, being a school, college, university, institute of technology or other educational institution as respects which the following conditions are complied with—
+9.—Any burial ground or crematorium which is not established or operated for the purposes of making a private profit and the income derived from the operation of which is used wholly to defray the expenses (including expenses of a capital nature) incurred in its operation. 10.—Any land, building or part of a building occupied by a school, college, university, institute of technology or any other educational institution and used exclusively by it for the provision of the educational services referred to subsequently in this paragraph and otherwise than for private profit, being a school, college, university, institute of technology or other educational institution as respects which the following conditions are complied with—
 
 (a) (i) it is not established and the affairs of it are not conducted for the purposes of making a private profit, or
 
@@ -86,7 +84,9 @@ RELEVANT PROPERTY NOT RATEABLE
 
 (c) the Garda Síochána, or used as a prison or place of detention, wherever situate , but in this paragraph "harbour" does not include a harbour in respect of which a company has been established pursuant to section 7 of the Harbours Act 1996.
 
-13.—Any buoy, beacon or lighthouse. 14.—Any land, building or part of a building occupied for the purpose of caring for elderly, handicapped or disabled persons by a body, being either—
+13.—Any buoy, beacon or lighthouse.
+
+14.—Any land, building or part of a building occupied for the purpose of caring for elderly, handicapped or disabled persons by a body, being either—
 
 (a) a body which is not established and the affairs of which are not conducted for the purpose of making a private profit from an activity as aforesaid, or
 
