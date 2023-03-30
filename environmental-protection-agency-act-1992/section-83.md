@@ -12,6 +12,8 @@ Determination of applications for licences.
 
 (2A)(a) In this subsection:
 
+“alternative assessment” has the meaning given to it by section 89(2A);
+
 “application for a licence” means an application made to the Agency—
 
 (i) for a licence under this Part, or
@@ -50,9 +52,11 @@ Determination of applications for licences.
 
 (V) the interaction between the factors mentioned in subparagraphs (I) to (IV);
 
-(b) The Agency as part of its consideration of an application for a licence shall ensure before a licence or a revised licence is granted, and where the activity to which such licence or revised licence relates is likely to have significant effects on the environment by virtue, inter alia, of its nature, size or location, that, in accordance with this subsection and section 87(1A) to (1I), the application is made subject to an environmental impact assessment as respects the matters that come within the functions of the Agency including the functions conferred on the Agency by or under this Act.
+“environmental report” means a report prepared in accordance with Regulation 7 of the Development (Emergency Electricity Generation) Regulations 2022 (S.I. No. 719 of 2022);
 
-(ba) Where the Agency receives an application for a licence in respect of an activity relating to development or proposed development referred to in paragraph (c)(ii) the Agency shall require the applicant for a licence to provide it with information on the characteristics of the activity and its likely significant effects on the environment.
+(b) The Agency as part of its consideration of an application for a licence , other than a designated application, shall ensure before a licence or a revised licence is granted, and where the activity to which such licence or revised licence relates is likely to have significant effects on the environment by virtue, inter alia, of its nature, size or location, that, in accordance with this subsection and section 87(1A) to (1I), the application is made subject to an environmental impact assessment as respects the matters that come within the functions of the Agency including the functions conferred on the Agency by or under this Act.
+
+(ba) Where the Agency receives an application for a licence , other than a designated application, in respect of an activity relating to development or proposed development referred to in paragraph (c)(ii) the Agency shall require the applicant for a licence to provide it with information on the characteristics of the activity and its likely significant effects on the environment.
 
 (bb) Where an applicant is subject to a requirement by the Agency under paragraph (ba) it shall—
 
@@ -82,13 +86,17 @@ Determination of applications for licences.
 
 (bi) The Agency shall make an electronic version of any determination under paragraph (bd) available to the public on its website.
 
-(c) Subject to paragraph (b) and section 87(1A) to (1I), an environmental impact assessment shall be carried out by the Agency in respect of an application for a licence relating to an activity, where development comprising or for the purpose of the activity is:
+(c) Subject to paragraph (b) and section 87(1A) to (1I), an environmental impact assessment shall be carried out by the Agency in respect of an application for a licence , other than a designated application, relating to an activity, where development comprising or for the purpose of the activity is:
 
 (i) development of a class specified in Part 1 of Schedule 5 to the Planning and Development Regulations 2001, or
 
 (ii) development of a class specified in Part 2 of Schedule 5 to the Planning and Development Regulations 2001 that the Agency determines would be likely to have significant effects on the environment.
 
-(d) Subject to section 87(1A) to (1I) an applicant for a licence shall submit an environmental impact assessment report with the application for the licence made to the Agency—
+(ca) An alternative assessment shall be carried out by the Agency in respect of a designated application.
+
+(cb) A person making a designated application shall submit an environmental report to the Agency with the application.
+
+(d) Subject to section 87(1A) to (1I) an applicant for a licence , other than a person making a designated application, shall submit an environmental impact assessment report with the application for the licence made to the Agency—
 
 (i) where the application for a licence concerned is in respect of an activity relating to development or proposed development referred to in paragraph (c)(i), or
 
@@ -142,7 +150,7 @@ Determination of applications for licences.
 
 (II) require the applicant for the licence to furnish to the Agency additional information required to correct the inadequacy so identified.
 
-(g) In carrying out its consideration of an application for a licence and in carrying out an environmental impact assessment the Agency may have regard to, and adopt in whole or in part, any reports prepared by its officials or by consultants, experts or other advisors.
+(g) In carrying out its consideration of an application for a licence and in carrying out an environmental impact assessment or, as the case may be, an alternative assessment the Agency may have regard to, and adopt in whole or in part, any reports prepared by its officials or by consultants, experts or other advisors.
 
 (3) In considering an application for a licence or a revised licence, or the review of a licence or a revised licence under this Part, the Agency shall have regard to—
 
@@ -154,11 +162,11 @@ Determination of applications for licences.
 
 (d) the policies and objectives of the Minister or the Government in relation to the prevention, elimination, limitation, abatement or reduction of emissions for the time being extant,
 
-(e) (i) the particulars submitted with the application including the environmental impact assessment report (if any) and any other material including maps or plans,
+(e) (i) the particulars submitted with the application including the environmental impact assessment report (if any) or the environmental report (if any) and any other material including maps or plans,
 
-(ii) any submissions or observations made to the Agency in relation to the environmental impact assessment report,
+(ii) any submissions or observations made to the Agency in relation to the environmental impact assessment report, or the environmental report
 
-(iii) any further information or particulars submitted in relation to the environmental impact assessment report in compliance with a notice given under regulations under section 89,
+(iii) any further information or particulars submitted in relation to the environmental impact assessment report or the environmental report in compliance with a notice given under regulations under section 89,
 
 (iv) where appropriate, the comments of other Member States of the European Communities in relation to the effects on the environment of the proposed activity, and
 

@@ -2,13 +2,13 @@ Processing of applications for licences or reviews of licences.
 
 87.—(1) Without prejudice to the requirements of any regulations under section 85 or 89—
 
-(a) where an applications is to be made to the Agency for a licence under section 83, or the review of a licence or a revised licence under section 90, the applicant shall notify in writing the planning authority in whose functional area the activity is or will be situate and such other person (if any) as may be prescribed, and shall publish or give such notices as may be prescribed under section 89, and
+(a) where an application , other than a designated application, is to be made to the Agency for a licence under section 83, or the review of a licence or a revised licence under section 90, the applicant shall notify in writing the planning authority in whose functional area the activity is or will be situate and such other person (if any) as may be prescribed, and shall publish or give such notices as may be prescribed under section 89, and
 
 (b) where the Agency proposes to review a licence or revised licence under section 90 of its own volition, it shall publish or give such notice as may be prescribed under section 89, and shall notify in writing the licensee and the planning authority in whose functional area the activity is situate and such other person (if any) as may be prescribed, of its intention to review the licence or revised licence.
 
 (1A) In subsections (1B) to (1I)—
 
-“application for a licence” means an application made to the Agency—
+“application for a licence” means an application other than a designated application made to the Agency—
 
 (a) for a licence or a revised licence under this Part, or
 
@@ -142,7 +142,7 @@ Processing of applications for licences or reviews of licences.
 
 (iii) enter into consultations, as the Agency considers appropriate, with the planning authority or any person or body that it considers appropriate in relation to any environmental impacts of the proposed activity to which the application for a licence relates.
 
-(2) Before making its decision under section 83 on an application for a licence, or under section 90 on the review of a licence or revised licence (including such a review conducted by it of its own volition) including an application for a licence, within the meaning of subsection (1A), to which section 83(2A) applies, the Agency shall notify—
+(2) Before making its decision under section 83 on an application for a licence other than a designated application, or under section 90 on the review of a licence or revised licence (including such a review conducted by it of its own volition) including an application for a licence, within the meaning of subsection (1A), to which section 83(2A) applies, the Agency shall notify—
 
 (a) the planning authority in whose functional area the activity is or will be situate,
 
@@ -170,7 +170,7 @@ Processing of applications for licences or reviews of licences.
 
 (b) The Agency shall give notice in writing of the extension of the period under paragraph (a) to a person referred to in paragraph (a), (aa), (b), (c) or (d) of subsection (2).
 
-(4) The Agency shall, in relation to an application for a licence, or the review of a licence or revised licence—
+(4) The Agency shall, in relation to an application for a licence other than a designated application, or the review of a licence or revised licence—
 
 (a) in case no objection is taken against the proposed determination as indicated under subsection (2), or
 
@@ -238,7 +238,7 @@ Processing of applications for licences or reviews of licences.
 
 (9A) When—
 
-(a) in relation to an application for a licence under this Part a decision to grant or refuse the licence has been taken, or
+(a) in relation to an application for a licence , other than a designated application, under this Part a decision to grant or refuse the licence has been taken, or
 
 (b) a decision is made on the review of a licence or a revised licence under section 90(1)(b) on the application of a licensee, the Agency, in accordance with regulations under section 89, shall inform the persons referred to in or prescribed under subsection (2), including the public, of its decision and shall make available the following information:
 

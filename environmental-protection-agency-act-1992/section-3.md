@@ -8,6 +8,8 @@ Interpretation.
 
 "the Act of 2000" means the Planning and Development Act 2000;
 
+"the Act of 2022" means the Development (Emergency Electricity Generation) Act 2022;
+
 "the Agency" shall be construed in accordance with section 19(1);
 
 "atmosphere" means the gaseous envelope surrounding the earth, and includes air;
@@ -17,6 +19,14 @@ Interpretation.
 "BAT conclusions" means a document containing the parts of a BAT reference document laying down the conclusions on best available techniques, their description, information to assess their applicability, the emission levels associated with the best available techniques, associated monitoring, associated consumption levels and, where appropriate, relevant site remediation measures;
 
 "BAT reference document" in relation to an industrial emissions directive activity, means a document drawn up by the Commission of the European Union in accordance with Article 13 of the Industrial Emissions Directive, resulting from the exchange of information in accordance with that Article of that Directive and describing, in particular, applied techniques, present emissions and consumption levels, techniques considered for the determination of best available techniques as well as BAT conclusions and any emerging techniques, particular consideration having been given to the same matters as are specified in subparagraphs (i) to (xii) of section 5(3)(b);
+
+"designated application" means an application made to the Agency for a licence under Part IV in relation to designated development, after an application has been made under section 4 of the Act of 2022 to the Minister for the Environment, Climate and Communications for approval under section 7 of that Act to carry out the designated development, and does not include an application made to the Agency—
+
+(a) for a revised licence under Part IV, or
+
+(b) by the licensee under section 90(1)(b) for a review of a licence or a revised licence;
+
+"designated development" has the same meaning as it has in the Act of 2022;
 
 "development" has the meaning assigned to it by section 3 of the Act of 2000;
 
@@ -36,9 +46,7 @@ Interpretation.
 
 (c) a discharge of polluting matter, sewage effluent or trade effluent within the meaning of the Local Government (Water Pollution) Act 1977, to waters or sewers within the meaning of that Act, or
 
-(d) waste,
-
-3 OJ No. L 26, 28.1.2012, p. 1 4 OJ No. L 124, 25.4.2014, p. 1 but does not include a radioactive substance within the meaning of Council Directive 96/29/Euratom, a genetically modified micro-organism within the meaning of Council Directive 90/219/EEC or a genetically modified organism within the meaning of Directive 2001/18/EC of the European Parliament and of the Council;
+(d) waste, but does not include a radioactive substance within the meaning of Council Directive 96/29/Euratom, a genetically modified micro-organism within the meaning of Council Directive 90/219/EEC or a genetically modified organism within the meaning of Directive 2001/18/EC of the European Parliament and of the Council;
 
 "emission levels associated with the best available techniques" means the range of emission levels obtained under normal operating conditions using a best available technique or a combination of best available techniques, as described in BAT conclusions, expressed as an average over a given period of time, under specified reference conditions;
 
@@ -64,7 +72,7 @@ Interpretation.
 
 (b) an activity—
 
-(I) in respect of which permission under section 34 of the Act of 2000 had been granted, or an application for such permission had been made, before 30 October 1999, or such other date as may be prescribed in relation to the activity, and
+(i) in respect of which permission under section 34 of the Act of 2000 had been granted, or an application for such permission had been made, before 30 October 1999, or such other date as may be prescribed in relation to the activity, and
 
 (ii) which on 29 October 2000, or such other date as may be prescribed in relation to the activity—
 
