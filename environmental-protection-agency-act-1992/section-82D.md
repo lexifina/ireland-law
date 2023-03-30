@@ -1,0 +1,3 @@
+F92[Section 15 of Climate Action and Low Carbon Development Act 2015
+
+82D. Taking into account the exceptional circumstances and the urgent and compelling necessity for securing the supply of electricity in the State set out in the Act of 2022, the Agency, in considering designated applications, shall do so in a manner consistent with the plans, strategy, framework and objectives referred to in section 15 (1) of the Climate Action and Low Carbon Development Act 2015 to the extent that it considers practicable, taking particular account of the said exceptional circumstances and urgent and compelling necessity.

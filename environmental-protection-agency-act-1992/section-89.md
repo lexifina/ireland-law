@@ -1,4 +1,4 @@
-F158[Regulations regarding licences.
+F167[Regulations regarding licences.
 
 89.—(1) The Minister may make regulations in relation to—
 
@@ -42,6 +42,32 @@ F158[Regulations regarding licences.
 
 (j) requiring an applicant or licensee to defray or contribute towards the cost of any investigation carried out, caused to be carried out, or arranged for, by the Agency in relation to an application or review.
 
+(2A) Without prejudice to the generality of subsection (1), regulations under this section shall make provision for an assessment (in this Part referred to as an "alternative assessment") to be carried out by the Agency in relation to a designated application, in such form and manner as may be prescribed, for the purposes of ensuring that the objectives of the EIA Directive are met.
+
+(2B) The Minister may prescribe such requirements and such matters of procedure and administration as appear to the Minister to be necessary or expedient in respect of an alternative assessment.
+
+(2C) Regulations for the purposes of subsection (2A) may in particular provide for all or any of the following:
+
+(a) the time periods within which the Agency is to carry out an alternative assessment;
+
+(b) the information, including supplementary or additional information where required, relating to the alternative assessment to be provided to the Agency by a person making a designated application;
+
+(c) the manner in which (which may include by electronic means) and the time periods within which, the information referred to in paragraph (b) is to be provided to the Agency;
+
+(d) requirements and procedures for consultation and public participation in relation to the alternative assessment and the provision of information obtained under the alternative assessment to the public;
+
+(e) the giving of notice, and publication of such notices as may be specified, in respect of the carrying out of the alternative assessment;
+
+(f) requirements and procedures for co-ordination of assessments in accordance with subsection (2D);
+
+(g) a requirement that, as part of the alternative assessment, the Agency assess the impacts (if any) of the designated development on the species listed in Annex IV of the Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, amended by Council Directive 97/62/EC of 27 October 1997, Regulation (EC) No. 1882/2003 of the European Parliament and of the Council of 29 September
+
+O.J. No. L206, 22.7.1992, p.7. O.J. No. L305, 8.11.1997, p.42.
+
+2003, Council Directive 2006/105/EC of 20 November 2006 and Council Directive 2013/17/EU of 13 May 2013 and their breeding sites and resting places and consider whether there is a need for a derogation for the purpose of Article 16 of that Directive in respect of the designated development.
+
+(2D) An alternative assessment shall be co-ordinated with any appropriate assessment of the designated development that is carried out under Part 5 of the European Communities (Birds and Natural Habitats) Regulations 2011 (S.I. No. 477 of 2011).
+
 (3) (a) A person who in relation to an application for a licence, or to a review of a licence or revised licence, under this Part, makes a statement in writing which to his knowledge is false or misleading in a material respect, shall be guilty of an offence.
 
 (b) Where a person is convicted of an offence under this subsection, any licence or revised licence granted to that person, or to some other person on whose behalf the convicted person was authorised to act, consequent on the application or review in relation to which the information was furnished, shall stand revoked from the date of the conviction.
@@ -53,3 +79,5 @@ F158[Regulations regarding licences.
 (b) such provisions as appear to the Minister to be necessary for the purposes or in consequence of the requirements of Council Directive 85/337/EC of 27 June 1985 on the assessment of the effects of certain public and private projects on the environment.
 
 (5) A defrayment or contribution the payment of which is required under regulations made under this section shall be payable on demand and, in default of being so paid, shall be recoverable as a simple contract debt in any court of competent jurisdiction.
+
+O.J. No. L284, 31.10.2003, p.1. O.J. No. L363, 20.12.2006, p.368. O.J. No. L158, 10.6.2013, p.193. O.J. No. L175, 05.07.1985, p.40.

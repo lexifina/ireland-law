@@ -8,6 +8,8 @@ Interpretation.
 
 "the Act of 2000" means the Planning and Development Act 2000;
 
+"the Act of 2022" means the Development (Emergency Electricity Generation) Act 2022;
+
 "the Agency" shall be construed in accordance with section 19(1);
 
 "atmosphere" means the gaseous envelope surrounding the earth, and includes air;
@@ -18,6 +20,14 @@ Interpretation.
 
 "BAT reference document" in relation to an industrial emissions directive activity, means a document drawn up by the Commission of the European Union in accordance with Article 13 of the Industrial Emissions Directive, resulting from the exchange of information in accordance with that Article of that Directive and describing, in particular, applied techniques, present emissions and consumption levels, techniques considered for the determination of best available techniques as well as BAT conclusions and any emerging techniques, particular consideration having been given to the same matters as are specified in subparagraphs (i) to (xii) of section 5(3)(b);
 
+"designated application" means an application made to the Agency for a licence under Part IV in relation to designated development, after an application has been made under section 4 of the Act of 2022 to the Minister for the Environment, Climate and Communications for approval under section 7 of that Act to carry out the designated development, and does not include an application made to the Agency—
+
+(a) for a revised licence under Part IV, or
+
+(b) by the licensee under section 90(1)(b) for a review of a licence or a revised licence;
+
+"designated development" has the same meaning as it has in the Act of 2022;
+
 "development" has the meaning assigned to it by section 3 of the Act of 2000;
 
 "the Directive" shall be construed in accordance with section 3A(1);
@@ -27,6 +37,8 @@ Interpretation.
 "EIA Directive" means Directive No. 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as amended by Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014;
 
 "emerging technique" means a novel technique for an industrial emissions directive activity that, if commercially developed, could provide either a higher general level of protection of the environment or at least the same level of protection of the environment and higher cost savings than existing best available techniques;
+
+OJ No. L 26, 28.1.2012, p. 1 OJ No. L 124, 25.4.2014, p. 1
 
 "emission" means, in relation to an activity referred to in Part IV, IVA, IVB or IVC, any direct or indirect release of substances, heat or noise from individual or diffuse sources in the activity into the atmosphere, water or land, and includes—
 
@@ -60,9 +72,11 @@ Interpretation.
 
 (a) an activity which on 29 October 1999, or such other date as may be prescribed in relation to the activity, was being carried on and did not involve or have an association with unauthorised development within the meaning of the Act of 2000, or
 
+O.J. No. L159, 29.06.1996, p.1. O.J. No. L117, 08.05.1990, p.1. O.J. No. L106, 17.04.2001, p.1. OJ No. L 26, 28.1.2012 p.1
+
 (b) an activity—
 
-(I) in respect of which permission under section 34 of the Act of 2000 had been granted, or an application for such permission had been made, before 30 October 1999, or such other date as may be prescribed in relation to the activity, and
+(i) in respect of which permission under section 34 of the Act of 2000 had been granted, or an application for such permission had been made, before 30 October 1999, or such other date as may be prescribed in relation to the activity, and
 
 (ii) which on 29 October 2000, or such other date as may be prescribed in relation to the activity—
 
