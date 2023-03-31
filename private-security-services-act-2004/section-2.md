@@ -14,6 +14,8 @@ Interpretation.
 
 "county registrar" means a person appointed as such under section 35 of the Court Officers Act 1926;
 
+"court messenger" means a person appointed as such under section 4 of the Enforcement of Court Orders Act 1926;
+
 “director”, in relation to a body corporate, includes—
 
 (a) any person occupying the position of director, by whatever name called,
@@ -31,6 +33,14 @@ Interpretation.
 (b) controlling or monitoring the behaviour of persons therein,
 
 (c) removing persons therefrom because of their behaviour;
+
+"enforcement guard" means a person other than a sheriff, county registrar or court messenger who for remuneration, as part of his or her duties, is authorised to perform any of the following functions:
+
+(a) removing one or more persons from any premises or any other place in order to take possession of the premises or place,
+
+(b) controlling, supervising or restricting entry by one or more persons to any premises or any other place in order to take possession of the premises or place, or
+
+(c) seizing goods or other property in lieu of an outstanding debt, which said authorisation is conferred by or under an enactment, pursuant to a court order, in accordance with an agreement or a consent, pursuant to a contract, or otherwise in accordance with the law;
 
 “functions” includes powers and duties, and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the performance of the duties;
 
@@ -114,7 +124,9 @@ Interpretation.
 
 (g) locksmith,
 
-(h) supplier or installer of safes.
+(h) supplier or installer of safes,
+
+(i) enforcement guard.
 
 "sheriff" means a sheriff appointed by the Government under the Court Officers Act 1945.
 
