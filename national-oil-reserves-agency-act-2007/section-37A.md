@@ -1,6 +1,6 @@
 Payment into Climate Action Fund by direction of Minister.
 
-37A. (1) In this section—
+37A.— (1) In this section—
 
 "combined actual and estimated income of the Agency" means the combined actual and estimated income of the Agency in the financial year in which it is proposed to give a direction under subsection (2) as determined in accordance with subsection (4);
 

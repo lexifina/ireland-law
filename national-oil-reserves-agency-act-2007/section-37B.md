@@ -1,6 +1,6 @@
 Climate Action Fund.
 
-37B. (1) There shall stand established on the commencement of the National Oil Reserves Agency (Amendment) and Provision of Central Treasury Services Act 2020 a fund which shall be known as the "Climate Action Fund".
+37B.— (1) There shall stand established on the commencement of the National Oil Reserves Agency (Amendment) and Provision of Central Treasury Services Act 2020 a fund which shall be known as the "Climate Action Fund".
 
 (2) Subject to subsection (3), the Minister shall manage and control the Climate Action Fund.
 
