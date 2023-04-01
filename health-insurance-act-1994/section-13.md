@@ -28,7 +28,7 @@ Advertising and promotion of health insurance business.
 
 (6) In this section—
 
-" accompanied "—
+"accompanied"—
 
 (a) in relation to information to accompany a health insurance contract—
 
@@ -42,9 +42,9 @@ Advertising and promotion of health insurance business.
 
 (ii) there being a reference in the advertisement to the means by which the information may be readily obtained;
 
-" advertisement " includes any form of advertising or marketing;
+"advertisement" includes any form of advertising or marketing;
 
-" contract decision ", in relation to a type of health insurance contract, means—
+"contract decision", in relation to a type of health insurance contract, means—
 
 (a) a decision on whether or not to enter into a contract of health insurance of that type, or
 
@@ -56,4 +56,4 @@ Advertising and promotion of health insurance business.
 
 (iii) exercise a contractual right under the contract;
 
-" supply ", in relation to a health insurance contract, includes furnish, offer or agree to supply and expose or display for supply.
+"supply" in relation to a health insurance contract, includes furnish, offer or agree to supply and expose or display for supply.

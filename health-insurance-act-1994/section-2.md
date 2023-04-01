@@ -2,19 +2,19 @@ Interpretation.
 
 2. — (1) In this Act, save where the context otherwise requires—
 
-" Act of 2001 " means the Health Insurance (Amendment) Act 2001;
+"Act of 2001" means the Health Insurance (Amendment) Act 2001;
 
 ...
 
-" authorised officer " means a person appointed under section 18E to be an authorised officer;
+"authorised officer" means a person appointed under section 18E to be an authorised officer;
 
 “the Authority” means the Health Insurance Authority established by section 20 ;
 
-" community rated health insurance contract " means a health insurance contract which complies with section 7(1) or which would comply with that section but for its falling within section 7(5) or 7A;
+"community rated health insurance contract" means a health insurance contract which complies with section 7(1) or which would comply with that section but for its falling within section 7(5) or 7A;
 
-" community rating " means measures which, whether in whole or in part, apply towards the achievement of the principal objective ...;
+"community rating" means measures which, whether in whole or in part, apply towards the achievement of the principal objective ...;
 
-" day patient service " means a health service provided in, or by persons attached to, a hospital in the following circumstances—
+"day patient service" means a health service provided in, or by persons attached to, a hospital in the following circumstances—
 
 (a) the patient concerned is admitted on an elective basis for care or treatment or both,
 
@@ -22,19 +22,19 @@ Interpretation.
 
 (c) the patient is discharged as scheduled;
 
-" effect ", in relation to a health insurance contract or other agreement, means to enter into or renew such contract or agreement, as the case may be;
+"effect", in relation to a health insurance contract or other agreement, means to enter into or renew such contract or agreement, as the case may be;
 
 “establishment day” means the day appointed under section 19;
 
-" frequency of provision of health services " includes history of health insurance claims;
+"frequency of provision of health services" includes history of health insurance claims;
 
-" functions " includes powers and duties and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
+"functions" includes powers and duties and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
 
 “health benefits undertaking” means a person (including a body established under the laws of a place outside the State) carrying on health insurance business;
 
 “health insurance business” means the business of effecting health insurance contracts;
 
-“health insurance contract " means, without prejudice to section 2A, a contract of insurance, or any other insurance arrangement, the purpose or one of the purposes of which is to provide for the making of payments by an undertaking, whether or not in conjunction with other payments, specifically for the reimbursement or discharge in whole or in part of fees or charges in respect of the provision of hospital in-patient services or relevant health services, but does not include—
+“health insurance contract" means, without prejudice to section 2A, a contract of insurance, or any other insurance arrangement, the purpose or one of the purposes of which is to provide for the making of payments by an undertaking, whether or not in conjunction with other payments, specifically for the reimbursement or discharge in whole or in part of fees or charges in respect of the provision of hospital in-patient services or relevant health services, but does not include—
 
 (a) a contract of insurance, or any other insurance arrangement, the sole purpose of which is to provide for the making of payments, directly to the person who effected the contract or entered into the arrangement or to any of the persons named in the contract or the arrangement, by an undertaking in respect of sickness, injury or disease of amounts calculated by reference only to the duration of—
 
@@ -62,9 +62,9 @@ Interpretation.
 
 “health services” means medical, surgical, diagnostic, nursing, dental, chiropody, chiropractic, eye therapy, occupational therapy, physiotherapy or speech therapy services or treatment or services or treatment provided in connection therewith, or similar services or treatment;
 
-" hospital in-patient services " means in-patient services within the meaning of the Health Act, 1970, and includes any day patient service;
+"hospital in-patient services" means in-patient services within the meaning of the Health Act, 1970, and includes any day patient service;
 
-" health risk status ", in relation to any person (howsoever described), includes—
+"health risk status", in relation to any person (howsoever described), includes—
 
 (a) the present use of, or likely future use of, hospital services by the person,
 
@@ -72,9 +72,9 @@ Interpretation.
 
 (c) the suffering or prospective suffering of the person from a chronic illness or other medical condition or from an illness or medical condition of a particular kind;
 
-" in-patient indemnity payment " means any payment made pursuant to a health insurance contract by a registered undertaking for the purposes of reimbursing or discharging, in whole or in part, fees or charges in respect of the provision of hospital in-patient services.
+"in-patient indemnity payment" means any payment made pursuant to a health insurance contract by a registered undertaking for the purposes of reimbursing or discharging, in whole or in part, fees or charges in respect of the provision of hospital in-patient services.
 
-“net premium " —
+“net premium" —
 
 (a) in relation to a health insurance contract effected for a period other than a period commencing on or after 1 January 2013, means the premium payable under the contract in respect of an individual in any year of assessment after—
 
@@ -92,11 +92,11 @@ Interpretation.
 
 “out-patient services” has the meaning assigned to it by section 56 of the Health Act, 1970;
 
-" premium " has the meaning assigned to it by the Insurance Act, 1936, and, in relation to a health insurance contract, includes any payment made to the undertaking concerned in respect of each person party to or named in the contract;
+"premium" has the meaning assigned to it by the Insurance Act, 1936, and, in relation to a health insurance contract, includes any payment made to the undertaking concerned in respect of each person party to or named in the contract;
 
 “prescribed” means prescribed by regulations made by the Minister;
 
-" principal objective " means the principal objective specified in section 1A(1);
+"principal objective" means the principal objective specified in section 1A(1);
 
 “quarter” means a period of three months ending on the 31st day of March, 30th day of June, 30th day of September or 31st day of December;
 
@@ -106,21 +106,21 @@ Interpretation.
 
 “the Registrar” means the Registrar and Chief Executive of the Authority;
 
-" relevant health services " means out-patient services, general medical practitioner services and services consisting of the supply of drugs or medical preparations;
+"relevant health services" means out-patient services, general medical practitioner services and services consisting of the supply of drugs or medical preparations;
 
 “restricted membership undertaking” means an undertaking which effects health insurance contracts with its members and the membership of which is restricted to persons and their dependants of a common vocational, occupational or other group or class;
 
 ...
 
-" risk equalisation credits " has the meaning assigned to it by section 6A(1);
+"risk equalisation credits" has the meaning assigned to it by section 6A(1);
 
-" Risk Equalisation Scheme " shall be construed in accordance with section 11A;
+"Risk Equalisation Scheme" shall be construed in accordance with section 11A;
 
 ...
 
 “undertaking” means a health benefits undertaking;
 
-" year of assessment " has the same meaning as in section 2 of the Taxes Consolidation Act 1997.
+"year of assessment" has the same meaning as in section 2 of the Taxes Consolidation Act 1997.
 
 (2) (a) In this Act a reference to a section or a Schedule is a reference to a section of, or a Schedule to, this Act unless it is indicated that reference to some other enactment is intended.
 

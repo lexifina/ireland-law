@@ -28,6 +28,8 @@ Overcompensated undertaking required to make payment to Exchequer if it has made
 
 (c) Paragraph (b) shall, with all necessary modifications, apply to each relevant 3 year period as it applies to the 3 year period referred to in that paragraph.
 
+OJC 8/04, 11.01.2012, p.15
+
 (4A) (a) The Authority shall take what would constitute a reasonable profit for a registered undertaking in respect of its relevant health insurance business in the State, in respect of the 3 year period from 1 January 2016 to the end of 2018, as being a return on sales, gross of reinsurance and excluding investment income, that does not exceed 6 per cent per annum in respect of that business for that 3 year period taken as a whole and as calculated using approved accounting standards and having regard to the European Union framework for State aid in the form of public service compensation (2011) (2012/C8/03).
 
 (b) Subject to paragraph (c), paragraph (a) shall, with all necessary modifications, apply to each applicable 3 year period as it applies to the 3 year period referred to in that paragraph.
@@ -45,8 +47,6 @@ Overcompensated undertaking required to make payment to Exchequer if it has made
 (b) as soon as may be, make a determination as to whether or not the cumulative net financial impact of the relevant financial provisions on a registered undertaking or former registered undertaking is positive for—
 
 (i) ...
-
-OJC 8/04, 11.01.2012, p.15
 
 (ii) if paragraph (b) of subsection (4) is applicable, the period from 1 January of 2011 to the end of 2013,
 
@@ -100,24 +100,24 @@ OJC 8/04, 11.01.2012, p.15
 
 (14) In this section—
 
-" applicable 3 year period " means—
+"applicable 3 year period" means—
 
 (a) the 3 year period from 1 January 2017 to the end of 2019, and
 
 (b) the 3 year period from 1 January 2018 to the end of 2020, and so on for each succeeding 3 year period;
 
-" reasonable profit "—
+"reasonable profit"—
 
 (a) shall be construed in accordance with subsection (4) in respect of a 3 year period referred to in paragraph (b) of that subsection and in respect of a relevant 3 year period, and
 
 (b) shall be construed in accordance with subsection (4A) in respect of a 3 year period referred to in paragraph (a) of that subsection and in respect of an applicable 3 year period;
 
-" relevant health insurance business in the State ", in relation to a registered undertaking or former registered undertaking, means all of the undertaking’s health insurance business in the State;
+"relevant health insurance business in the State", in relation to a registered undertaking or former registered undertaking, means all of the undertaking’s health insurance business in the State;
 
-" relevant 3 year period " means—
+"relevant 3 year period" means—
 
 (a) the period from 1 January 2012 to the end of 2014;
 
 (b) the period from 1 January 2013 to the end of 2015.
 
-" return on equity ", in relation to a registered undertaking or former registered undertaking, not being a company established under the Companies Acts, and its relevant health insurance business in the State, includes the equivalent, as calculated using approved accounting standards, for such an undertaking, of a return on equity for a registered undertaking that is such a company.
+"return on equity", in relation to a registered undertaking or former registered undertaking, not being a company established under the Companies Acts, and its relevant health insurance business in the State, includes the equivalent, as calculated using approved accounting standards, for such an undertaking, of a return on equity for a registered undertaking that is such a company.

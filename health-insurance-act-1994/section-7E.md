@@ -34,7 +34,7 @@ Evaluation and analysis of information returns, etc.
 
 (1A) The Minister may, by notice in writing given to the Authority, require the Authority to prepare any report to be furnished to him or her pursuant to paragraph (b) of subsection (1), in so far as the report relates to subparagraph (iii) of that paragraph—
 
-(a)in the case of hospital utilisation credit, on the basis of the amount specified in the notice or on the basis of the amount specified in Schedule 3 or both,
+(a) in the case of hospital utilisation credit, on the basis of the amount specified in the notice or on the basis of the amount specified in Schedule 3 or both,
 
 (b) on the basis of the classes of insured person specified in the notice or on the basis of the classes of insured person specified in column 1 of Table 2 set out in Schedule 4 or both, or
 
@@ -66,10 +66,10 @@ Evaluation and analysis of information returns, etc.
 
 (4) In this section—
 
-" net ", in relation to the average insurance claim payment per insured person for—
+"net", in relation to the average insurance claim payment per insured person for—
 
 (a) a relevant age group of insured persons, or
 
 (b) all age groups of insured persons, means after the application of the projected net financial impact of the relevant financial provisions for the 12 consecutive months concerned referred to in subsection (1)(b)(iii)(II);
 
-" relevant age group of insured persons " means an age group of insured persons specified in column 1 of Table 2 set out in Schedule 4 in respect of which, in accordance with section 11C, part of the premium payable in respect of such insured person is, or is expected to be, payable from the Fund.
+"relevant age group of insured persons" means an age group of insured persons specified in column 1 of Table 2 set out in Schedule 4 in respect of which, in accordance with section 11C, part of the premium payable in respect of such insured person is, or is expected to be, payable from the Fund.

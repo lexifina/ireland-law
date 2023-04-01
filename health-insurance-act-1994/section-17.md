@@ -2,7 +2,7 @@ Levy on registered undertakings.
 
 17. — (1) In this section,
 
-" assessable amount ", in relation to a quarter, means the gross amount received by a registered undertaking by way of premiums in that quarter in respect of the health insurance business of the undertaking in the State on or after the establishment day, but excluding any amount—
+"assessable amount", in relation to a quarter, means the gross amount received by a registered undertaking by way of premiums in that quarter in respect of the health insurance business of the undertaking in the State on or after the establishment day, but excluding any amount—
 
 (a) so received in the course of or by way of reinsurance, or
 

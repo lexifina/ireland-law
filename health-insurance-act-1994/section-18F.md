@@ -102,13 +102,13 @@ Powers of authorised officers.
 
 (12) In this section—
 
-" agent ", in relation to a person to whom this section applies, includes past as well as present agents, and includes its bankers, accountants, solicitors, auditors and its financial and other advisers, whether or not those persons are officers or persons to whom this section applies;
+"agent", in relation to a person to whom this section applies, includes past as well as present agents, and includes its bankers, accountants, solicitors, auditors and its financial and other advisers, whether or not those persons are officers or persons to whom this section applies;
 
-" Data Protection Regulation " means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 201618 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+"Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 201618 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 "person to whom this section applies" shall be construed in accordance with subsection (1)(b) and (c);
 
-" personal data " means personal data within the meaning of—
+"personal data" means personal data within the meaning of—
 
 (a) the Data Protection Regulation, or
 

@@ -1,12 +1,12 @@
 Premiums which may be charged under health insurance contracts in certain circumstances.
 
-7A. — (1) In this section, " insured person " means any person, other than the registered undertaking, who—
+7A. — (1) In this section, "insured person" means any person, other than the registered undertaking, who—
 
 (a) is party to or named in the health insurance contract concerned (other than a health insurance contract of a type referred to in section 10(3)), and
 
 (b) is of or over the age of 30 years.
 
-(2) Notwithstanding section 7, but subject to subsections (2A) and (3), a registered undertaking shall require, on account of any of the circumstances referred to in paragraph (a), (b), (c), (cc) or (d) of subsection (4), the payment under a health insurance contract of a net premium the amount of which is greater than that of the net premium (in this section referred to as the " unadjusted net premium ") which could have been required to be paid if this section had not been enacted.
+(2) Notwithstanding section 7, but subject to subsections (2A) and (3), a registered undertaking shall require, on account of any of the circumstances referred to in paragraph (a), (b), (c), (cc) or (d) of subsection (4), the payment under a health insurance contract of a net premium the amount of which is greater than that of the net premium (in this section referred to as the "unadjusted net premium") which could have been required to be paid if this section had not been enacted.
 
 (2A)(a) Subject to paragraph (b), a registered undertaking shall ensure that any requirement it has made under subsection (2) is not withdrawn and otherwise continues to have effect.
 

@@ -26,8 +26,8 @@ Privileged legal material.
 
 (7) In this section—
 
-" court " means the High Court;
+"court" means the High Court;
 
-" information " means information contained in a document, a computer (including a personal organiser or any other electronic means of information storage or retrieval) or otherwise;
+"information" means information contained in a document, a computer (including a personal organiser or any other electronic means of information storage or retrieval) or otherwise;
 
-"privileged legal material " means information which, in the opinion of the court, a person is entitled to refuse to produce on the grounds of legal professional privilege.
+"privileged legal material" means information which, in the opinion of the court, a person is entitled to refuse to produce on the grounds of legal professional privilege.

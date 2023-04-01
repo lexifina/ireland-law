@@ -2,11 +2,11 @@ Provision of information.
 
 7B. — (1) In this section—
 
-" any insured person concerned " means any person who is a party to or named in the health insurance contract referred to in subsection (3) (other than the requester);
+"any insured person concerned" means any person who is a party to or named in the health insurance contract referred to in subsection (3) (other than the requester);
 
-" the first-mentioned undertaking " shall be construed in accordance with subsection (2);
+"the first-mentioned undertaking" shall be construed in accordance with subsection (2);
 
-" the requester " shall be construed in accordance with subsection (2).
+"the requester" shall be construed in accordance with subsection (2).
 
 (2) The Minister may by regulations require each registered undertaking ("the first-mentioned undertaking") to furnish to another registered undertaking ("the requester"), if—
 
