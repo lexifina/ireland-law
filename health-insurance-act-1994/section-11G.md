@@ -25,5 +25,3 @@ Power to specify form of documents for purposes of Risk Equalisation Scheme.
 (ii) another person on behalf of the Authority, or
 
 (iii) any other person, so provided in the manner (if any) specified in the document.
-
-12....
