@@ -1,0 +1,3 @@
+Review of Part.
+
+29. The Minister shall, not earlier than one year and not later than 2 years after the commencement of this section, after consultation with the Minister for Children, Equality, Disability, Integration and Youth, the Commission, persons whom he or she considers to be representative of employers generally and persons whom he or she considers to be representative of employees generally, conduct a review of the operation of this Part and shall prepare a report in writing of the findings of the review and shall cause copies of the report to be laid before each House of the Oireachtas.
