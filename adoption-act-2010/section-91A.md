@@ -1,6 +1,6 @@
 Register of gender recognition of intercountry adoptions.
 
-91A. (1) The Authority shall establish and maintain, in the Authority, a register to be called the register of gender recognition of intercountry adoptions, for the purpose of the registration of gender recognition of intercountry adoptions.
+91A.— (1) The Authority shall establish and maintain, in the Authority, a register to be called the register of gender recognition of intercountry adoptions, for the purpose of the registration of gender recognition of intercountry adoptions.
 
 (2) An entry in the register of gender recognition of intercountry adoptions shall be in such form and contain such particulars as may be prescribed by regulations made under section 152A.
 

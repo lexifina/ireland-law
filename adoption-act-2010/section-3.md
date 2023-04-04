@@ -70,7 +70,9 @@ Interpretation.
 
 “domestic adoption” means the adoption of a child who was habitually resident in the State before his or her adoption by a person or persons habitually resident in the State;
 
-‘donor-conceived child’ has the same meaning as it has in Part 2 of the Children and Family Relationships Act 2015; ‘father’, in relation to a child, includes a man who is, under section 5 of the Children and Family Relationships Act 2015, a parent of the child where that child is a donor-conceived child;
+"donor-conceived child" has the same meaning as it has in Part 2 of the Children and Family Relationships Act 2015;
+
+"father", in relation to a child, includes a man who is, under section 5 of the Children and Family Relationships Act 2015, a parent of the child where that child is a donor-conceived child;
 
 “establishment day” means the establishment day appointed under section 6;
 

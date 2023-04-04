@@ -1,6 +1,6 @@
 Consultation with father.
 
-30. (1) In this section “father”, in relation to a child, includes a person who believes himself to be the father of the child.
+30.— (1) In this section “father”, in relation to a child, includes a person who believes himself to be the father of the child.
 
 (2) Subject to this section, on the receipt of an application for an adoption order, the Authority shall take such steps as are reasonably practicable to ensure that every relevant non-guardian of the child is consulted in relation to the adoption.
 

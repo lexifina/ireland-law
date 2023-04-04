@@ -1,6 +1,6 @@
 Pre-placement consultation procedure.
 
-17. (1) Where an accredited body proposes to place a child for adoption—
+17.— (1) Where an accredited body proposes to place a child for adoption—
 
 (a) the accredited body shall request the Authority in writing and in a form and manner approved by the Authority to provide the body with a copy of any notice received by the Authority under section 16(1) from a relevant non-guardian of that child, and
 

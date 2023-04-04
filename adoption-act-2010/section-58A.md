@@ -1,6 +1,6 @@
 Effect of adoption where adopter is step parent of child.
 
-58A. (1) Section 58 shall not apply where the adopter of a child is a step parent of the child and, in that case, upon an adoption order being made—
+58A.— (1) Section 58 shall not apply where the adopter of a child is a step parent of the child and, in that case, upon an adoption order being made—
 
 (a) the child concerned shall be considered, with regard to the rights and duties of parents and children in relation to each other, as the child of—
 

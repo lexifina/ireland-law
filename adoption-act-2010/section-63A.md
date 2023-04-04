@@ -1,6 +1,6 @@
 Continuation in force of certain declarations of eligibility and suitability
 
-63A. (1) A declaration of eligibility and suitability to which section 63(2)(a) applies and which—
+63A.— (1) A declaration of eligibility and suitability to which section 63(2)(a) applies and which—
 
 (a) was in force on the relevant date, and
 
@@ -8,4 +8,4 @@ Continuation in force of certain declarations of eligibility and suitability
 
 (2) A declaration of eligibility and suitability which continues in force by virtue of subsection (1) shall not be amended under section 41(2) to specify any state other than the Russian Federation as the state to which the declaration applies.
 
-(3) In this section ‘relevant date’ means, in relation to a declaration of eligibility and suitability, 31 October 2013.
+(3) In this section "relevant date" means, in relation to a declaration of eligibility and suitability, 31 October 2013.

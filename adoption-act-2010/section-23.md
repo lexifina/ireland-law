@@ -1,6 +1,6 @@
 Children who may be adopted.
 
-23. (1) The Authority shall not make an adoption order in respect of a child unless—
+23.— (1) The Authority shall not make an adoption order in respect of a child unless—
 
 (a) the child—
 

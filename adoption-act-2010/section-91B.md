@@ -1,6 +1,6 @@
 Certified copy of entry in register of gender recognition of intercountry adoptions as evidence of facts stated.
 
-91B. (1) Subject to subsection (3), the Authority shall, on application by a person referred to in subsection (2), in that behalf in writing and on payment to the Authority of the prescribed fee—
+91B.— (1) Subject to subsection (3), the Authority shall, on application by a person referred to in subsection (2), in that behalf in writing and on payment to the Authority of the prescribed fee—
 
 (a) search the register of gender recognition of intercountry adoptions and the index to that register, or
 
@@ -30,4 +30,4 @@ Certified copy of entry in register of gender recognition of intercountry adopti
 
 (4) Any requirement of law for the production of a certificate of birth is satisfied by the production of a certified copy of the document described in subsection (1).
 
-(5) In subsection (2) ‘civil partner’ has the same meaning as in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010.
+(5) In subsection (2) "civil partner" has the same meaning as in the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010.

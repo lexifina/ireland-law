@@ -4,7 +4,7 @@
 
 Welfare of child.
 
-19. (1) In any matter, application or proceedings under this Act which is, or are, before—
+19.— (1) In any matter, application or proceedings under this Act which is, or are, before—
 
 (a) the Authority, or
 

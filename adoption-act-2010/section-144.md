@@ -4,7 +4,7 @@
 
 Prohibition against certain advertisements.
 
-144. (1) A person shall not publish or cause to be published an advertisement indicating—
+144.— (1) A person shall not publish or cause to be published an advertisement indicating—
 
 (a) that a parent or guardian of a child desires to have the child adopted,
 
