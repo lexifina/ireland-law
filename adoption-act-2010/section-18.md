@@ -1,6 +1,6 @@
 Where father not consulted.
 
-18. (1) If an accredited body is unable to consult a relevant non-guardian of a child for the purposes of section 17(2), the accredited body shall in a form and manner approved by the Authority, notify the Authority to that effect.
+18.— (1) If an accredited body is unable to consult a relevant non-guardian of a child for the purposes of section 17(2), the accredited body shall in a form and manner approved by the Authority, notify the Authority to that effect.
 
 (2) The Authority may, if satisfied that the accredited body has taken such steps as are reasonably practicable to consult any relevant non-guardian, authorise the accredited body to place the child for adoption.
 
@@ -45,5 +45,3 @@ Where father not consulted.
 (a) the Authority may, after first obtaining the approval of the High Court, authorise the accredited body to place the child for adoption, and
 
 (b) the accredited body may, at any time thereafter, place the child for adoption, if the accredited body has not any other practical way of ascertaining that father’s identity.
-
-18A....
