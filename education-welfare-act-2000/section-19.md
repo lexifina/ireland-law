@@ -1,0 +1,3 @@
+Admission of child to recognised school. (Repealed)
+
+19.—...
