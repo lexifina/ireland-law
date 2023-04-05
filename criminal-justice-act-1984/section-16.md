@@ -1,3 +1,3 @@
-Withholding information regarding stolen property, etc.
+Withholding information regarding stolen property, etc. (Repealed)
 
 16.— ...

@@ -26,4 +26,4 @@
 
 (3) Subsection (2)(c) shall not apply to an order under section 1(2) of the Probation of Offenders Act 1907 discharged on the appeal of a person against conviction for the offence concerned if on appeal his or her conviction is affirmed.
 
-(4) For the purposes of this section the ‘retention period’, in relation to a fingerprint, palm print or photograph, means the period from the taking of the fingerprint, palm print or photograph, as the case may be, from a person to the latest date for the destruction of that fingerprint, palm print or photograph under subsection (2).
+(4) For the purposes of this section the "retention period", in relation to a fingerprint, palm print or photograph, means the period from the taking of the fingerprint, palm print or photograph, as the case may be, from a person to the latest date for the destruction of that fingerprint, palm print or photograph under subsection (2).

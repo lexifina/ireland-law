@@ -44,7 +44,7 @@ Extension of retention period under section 8 for fingerprints, palm prints and 
 
 (5) Whenever the Commissioner gives an authorisation under subsection (3) or (4), he or she shall, in relation to a fingerprint, palm print or photograph taken from or of a person that is the subject of the authorisation, cause the person to be informed by notice in writing that the authorisation has been given under subsection (3) or (4), as may be appropriate, the date on which that authorisation was given and of the right of appeal under subsection (6).
 
-(6) The person to whom the authorisation concerned relates (in this section called ‘the appellant’) may, within the period of 3 months from the date of the notice under subsection (5) concerned, appeal to the District Court against that authorisation.
+(6) The person to whom the authorisation concerned relates (in this section called "the appellant") may, within the period of 3 months from the date of the notice under subsection (5) concerned, appeal to the District Court against that authorisation.
 
 (7) An appeal under subsection (6) shall—
 
