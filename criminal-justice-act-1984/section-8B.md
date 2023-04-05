@@ -1,4 +1,4 @@
-F31[Destruction of fingerprints, palm prints and photographs in exceptional circumstances
+F32[Destruction of fingerprints, palm prints and photographs in exceptional circumstances
 
 8B.— (1) Notwithstanding sections 8 and 8A, if the Commissioner is satisfied that exceptional circumstances exist that justify the destruction of a fingerprint, palm print or photograph of a person, the fingerprint, palm print or photograph concerned shall be destroyed as soon as practicable after the application of those circumstances in relation to that fingerprint, palm print or photograph becomes known.
 

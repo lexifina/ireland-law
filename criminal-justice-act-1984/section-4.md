@@ -70,7 +70,7 @@ Detention after arrest.
 
 (a) where a person’s detention is suspended under subsection (3A), the detention shall remain suspended until such time as it is continued under subsection (3E) and, accordingly, the period of time during which the detention remains suspended shall be excluded in reckoning a period of detention permitted by this section,
 
-(b) where a person whose detention is suspended under subsection (3A) in respect of an offence, is subsequently arrested and detained (‘subsequent arrest and detention’) in respect of another offence, the subsequent arrest and detention shall not operate to affect the detention which was suspended and it shall remain suspended until such time as it is continued under subsection (3E),
+(b) where a person whose detention is suspended under subsection (3A) in respect of an offence, is subsequently arrested and detained ("subsequent arrest and detention") in respect of another offence, the subsequent arrest and detention shall not operate to affect the detention which was suspended and it shall remain suspended until such time as it is continued under subsection (3E),
 
 (c) subject to subsection (9), where a person’s detention is suspended under subsection (3A) in respect of an offence but his or her detention is continued under subsection (5A) in respect of another offence, the continuation of the detention under subsection (5A) shall not operate to affect the detention which was suspended in respect of the first mentioned offence and the detention shall in so far as it relates to the first mentioned offence remain suspended until such time as it is continued under subsection (3E).
 

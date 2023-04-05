@@ -1,4 +1,4 @@
-F36[Service of notices.
+F37[Service of notices.
 
 8G.— A notice that is required to be sent or given to a person under section 8A or 8D may be sent or given to the person in one of the following ways:
 

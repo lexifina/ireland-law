@@ -1,4 +1,4 @@
-F35[Delegation of functions of Commissioner under certain sections.
+F36[Delegation of functions of Commissioner under certain sections.
 
 8F.— (1) The Commissioner may, in writing, delegate any of his or her functions under sections 8A, 8B, 8D and 8H to—
 
