@@ -4,7 +4,7 @@ Claims and counterclaims to which Part 2 applies.
 
 “claim” (other than in section 12(4)) means a claim, other than one involving a question as to the validity of any law having regard to the provisions of the Constitution, that is wholly, or in the opinion of the Minister is mainly, one for compensation or damages for loss of life or personal injury, or loss of or damage to property, occasioned by an act, omission or other matter constituting a cause of action made against any one or more State authorities either alone or with any other person, but does not include—
 
-(a) an application for compensation under the Garda Síochána (Compensation) Acts, 1941 and 1945,
+(a) ...
 
 (b) a claim against the Minister for Justice, Equality and Law Reform, the Commissioner of the Garda Síochána and the Governor of a prison or any of them in respect of an alleged assault upon the claimant by a member of the Garda Síochána or a prison officer of a prison, or
 
