@@ -12,7 +12,7 @@ Interpretation.
 
 “the Commissioner” means the Commissioner of the Garda Síochána;
 
-‘criminal conduct’ means any conduct which—
+"criminal conduct" means any conduct which—
 
 (a) constitutes an offence or more than one offence, or
 
@@ -26,7 +26,7 @@ Interpretation.
 
 “the Minister” means the Minister for Justice;
 
-‘place’ includes a dwelling;
+"place" includes a dwelling;
 
 “proceedings” includes any hearing before the Appeal Commissioners (within the meaning of the Revenue Acts) or before an appeals officer or the Social Welfare Tribunal under the Social Welfare Acts or a hearing before any committee of the Houses of the Oireachtas;
 

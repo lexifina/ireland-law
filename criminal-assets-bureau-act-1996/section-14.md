@@ -48,6 +48,6 @@ Search warrants.
 
 (9) In this section—
 
-‘computer at the place which is being searched’ includes any other computer, whether at that place or at any other place, which is lawfully accessible by means of that computer, and
+"computer at the place which is being searched" includes any other computer, whether at that place or at any other place, which is lawfully accessible by means of that computer, and
 
-‘material’ includes a copy of the material and a document or record.
+"material" includes a copy of the material and a document or record.

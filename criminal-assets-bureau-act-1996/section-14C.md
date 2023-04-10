@@ -30,7 +30,7 @@ Property held in trust.
 
 (6) Any information given by a person in compliance with an order under this section is not admissible in evidence in any criminal proceedings against the person or his or her spouse, except in any proceedings for an offence under subsection (5).
 
-(7) In this section ‘information’ includes—
+(7) In this section "information" includes—
 
 (a) a document or record, and
 
