@@ -4,6 +4,8 @@ Interpretation.
 
 “Act of 1961” means the Civil Liability Act 1961;
 
+“Act of 2022” means the Garda Síochána (Compensation) Act 2022;
+
 "Athens Convention" means the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 1974, as amended by the Protocol of 2002 (the Athens Convention) and as amended from time to time;
 
 “Board” shall be construed in accordance with section 53;
@@ -16,7 +18,7 @@ Interpretation.
 
 (i) an action intended to be pursued in which, in addition to damages for the foregoing matters, it is bona fide intended, and not for the purpose of circumventing the operation of section 3, to claim damages or other relief in respect of any other cause of action,
 
-(ii) an application for compensation intended to be made under the Garda Síochána (Compensation) Acts 1941 and 1945,
+(ii) ...
 
 (iii) an action intended to be pursued in respect of an alleged breach by the State or any other person of a provision of the Constitution,
 
@@ -24,21 +26,19 @@ Interpretation.
 
 “claimant” means a person who would, subject to this Act, be entitled to pursue a civil action to which this Act applies and includes—
 
-(a) a personal representative in whom a cause of action comprising a civil action is vested by virtue of the Act of 1961,
+(a) other than in a civil action referred to in paragraph (e), a personal representative in whom a cause of action comprising a civil action is vested by virtue of the Act of 1961,
 
-(b) a person specified in subsection (3) of section 48 of the Act of 1961 who would, subject to this Act, be entitled to pursue an action for damages under that section,
+(b) other than in a civil action referred to in paragraph (e), a person specified in subsection (3) of section 48 of the Act of 1961 who would, subject to this Act, be entitled to pursue an action for damages under that section,
 
 (c) a person who would be entitled to act as a next friend of a minor or a person of unsound mind were a civil action to which this Act applies to be pursued on his or her behalf,
 
-(d) the committee of a person of unsound mind acting on his or her behalf in relation to a civil action to which this Act applies that is proposed to be pursued;
+(d) the committee of a person of unsound mind acting on his or her behalf in relation to a civil action to which this Act applies that is proposed to be pursued, and
 
-“Community act” means an act adopted by an institution of the European Communities;
-
-“company” means a company within the meaning of the Companies Acts 1963 to 2001;
-
-“contract of employment” shall be deemed to include the legal relations that exist between a person holding an office of the kind referred to in the definition of “employee” in this subsection and the State, Government or other body referred to in that definition;
+(e) for the purposes of a civil action referred to in section 3(aa), an applicant within the meaning of the Act of 2022 in relation to whom an application to the Board referred to in section 19 of that Act was made;
 
 "Council Regulation (EC) No. 2027/97" means Council Regulation (EC) No. 2027/97 on air carrier liability in respect of the carriage of passengers and their baggage by air, as amended by Regulation (EC) No. 889/2002 and as amended from time to time;
+
+“damages” includes compensation for the purposes of civil actions referred to in section 3(aa);
 
 “employee” means a person of any age, who has entered into or works under (or, where the employment has ceased, entered into or worked under) a contract of employment; and, for the purposes of this Act, a person holding office under, or in the service of, the State (including a civil servant within the meaning of the Civil Service Regulation Act 1956) shall be deemed to be an employee employed by the State or Government, as the case may be, and an employee, officer or servant of a local authority for the purposes of the Local Government Act 2001 or of a harbour authority or health board, or a member of staff of an education and training board shall be deemed to be an employee employed by the authority or board, as the case may be;
 
