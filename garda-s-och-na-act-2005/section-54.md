@@ -10,6 +10,6 @@ Secondment from Garda Síochána to Police Service of Northern Ireland.
 
 (b) the member’s service shall be regarded as service with the Garda Síochána for pension, promotion and seniority purposes, and
 
-(c) the member is entitled to claim compensation under the Garda Síochána Compensation Acts 1941 and 1945 for malicious injuries received in the course of or in relation to the carrying out of his or her duties with the Police Service of Northern Ireland as if he or she had not been seconded and the injuries had been received in the course of or in relation to the carrying out of his or her duties as a member of the Garda Síochána.
+(c) the member is entitled to claim compensation under the Garda Síochána (Compensation) Act 2022 for injuries inflicted as a result of a malicious incident within the meaning of that Act in the course of or in relation to the carrying out of his or her duties with the Police Service of Northern Ireland as if he or she had not been seconded and the injuries had been received in the course of or in relation to the carrying out of his or her duties as a member of the Garda Síochána.
 
 (4) The number and rank of members of the Garda Síochána who may be seconded under this section may be prescribed.

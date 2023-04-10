@@ -16,7 +16,7 @@ Secondment from Police Service of Northern Ireland to certain ranks in Garda Sí
 
 (b) subject to subsection (5), have the powers, immunities, privileges and duties of a member of the Garda Síochána of the rank to which he or she was appointed.
 
-(5) The Garda Síochána Compensation Acts 1941 and 1945 do not apply in relation to a person appointed under this section.
+(5) The Garda Síochána (Compensation) Act 2022 does not apply in relation to a person appointed under this section.
 
 (6) The Garda Commissioner or the Authority, with the approval of the Government,, as the case may be, may terminate an appointment under this section.
 

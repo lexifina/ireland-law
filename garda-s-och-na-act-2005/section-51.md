@@ -20,6 +20,6 @@ International service.
 
 (3) An eligible member may be assigned under this section only for the period specified by the member in his or her offer to be available for international service.
 
-(4) This Act, the regulations, and the Garda Síochána Compensation Acts 1941 and 1945 continue to apply to members while on international service.
+(4) This Act, the regulations, and the the Garda Síochána (Compensation) Act 2022 continue to apply to members while on international service.
 
 (5) Nothing in this section prevents members of the Garda Síochána stationed in the State from travelling outside the State in the course of carrying out their duties.

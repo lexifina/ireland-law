@@ -1,6 +1,6 @@
 Rules.
 
-46.—(1) Subject to the provisions of this Part, the Board may make rules concerning the procedure to be followed under this Part in relation to—
+46.—(1) Subject to the provisions of this Part (including this Part as applied by section 19 of the Act of 2022), the Board may make rules concerning the procedure to be followed under this Part in relation to—
 
 (a) the making of applications under section 11,
 
@@ -8,9 +8,9 @@ Rules.
 
 (c) matters consequential on, or incidental to the foregoing.
 
-(2) Rules under this section shall enable the Board to supply a copy of any records or other documents furnished by a claimant or a respondent to it, pursuant to this Act or the exercise by it or any member of its staff of powers under this Act, to a respondent or, as the case may be, a claimant in relation to the relevant claim concerned.
+(2) Rules under this section shall enable the Board to supply a copy of any records or other documents furnished by a claimant or a respondent to it, pursuant to this Act (including this Act as applied by section 19 of the Act of 2022) or the exercise by it or any member of its staff of powers under this Act (including this Act as applied by section 19 of the Act of 2022), to a respondent or, as the case may be, a claimant in relation to the relevant claim concerned.
 
-(3) Rules under this section shall enable the Board (subject to rules under subsection (4)) to issue to a claimant a document (in this Act also referred to as an “authorisation”), in circumstances where the claimant is not otherwise authorised under a provision of this Act to bring proceedings in respect of his or her relevant claim, in either or both of the following cases, namely—
+(3) Except in relation to a civil action to which section 3(aa) refers, rules under this section shall enable the Board (subject to rules under subsection (4)) to issue to a claimant a document (in this Act also referred to as an “authorisation”), in circumstances where the claimant is not otherwise authorised under a provision of this Act to bring proceedings in respect of his or her relevant claim, in either or both of the following cases, namely—
 
 (a) section 18(3) or (6) applies in respect of one or more of the respondents to the relevant claim and the claimant wishes to bring proceedings in respect of that claim against that respondent or those respondents (acting, unless he, she or they are no longer of unsound mind, by a guardian or a committee),
 

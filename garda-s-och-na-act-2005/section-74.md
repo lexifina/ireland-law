@@ -18,4 +18,4 @@ Special assistance.
 
 (b) the member’s service with the Commission is considered to be service with the Garda Síochána for pension, seniority and promotion purposes, and
 
-(c) the member is entitled to claim compensation under the Garda Síochána Compensation Acts 1941 and 1945 for malicious injuries received in the course of, or in relation to, the carrying out of duties with the Commission.
+(c) the member is entitled to claim compensation under the Garda Síochána (Compensation) Act 2022 for injuries inflicted as a result of a malicious incident within the meaning of that Act in the course of, or in relation to, the carrying out of duties with the Commission.

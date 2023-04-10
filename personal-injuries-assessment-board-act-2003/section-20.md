@@ -13,3 +13,9 @@ Assessment.
 (a) have regard to the personal injuries guidelines (within the meaning of that Act) in force, and
 
 (b) where they depart from those guidelines, state the reasons for such departure and include those reasons in the assessment in writing under section 30(1).
+
+(6) Notwithstanding subsections (4) and (5), the Board, when making an assessment of a claim in a civil action referred to in section 3(aa), shall take into account the following:
+
+(a) in the case of a claim relating to personal injuries not causing death, paragraphs (a) and (b) of section 23(3) of the Act of 2022 and section 23(4) of the Act of 2022,
+
+(b) in the case of a claim relating to a death, paragraphs (b) to (e) of section 23(6) of the Act of 2022 and section 23(7) of the Act of 2022.
