@@ -46,9 +46,7 @@ Powers relating to investigation under section 95.
 
 (ii) for any other reason not be in the public interest, the Court shall, to that extent, set aside, vary or attach conditions to the requirement.
 
-(10) Any information, document or thing provided by a person in accordance with a requirement under subsection (1)(a) or (3)(a) or with a direction under subsection
-
-(6) is not admissible against that person in criminal proceedings and this shall be explained to the person in ordinary language by the Ombudsman Commission.
+(10) Any information, document or thing provided by a person in accordance with a requirement under subsection (1)(a) or (3)(a) or with a direction under subsection (6) is not admissible against that person in criminal proceedings and this shall be explained to the person in ordinary language by the Ombudsman Commission.
 
 (11) A person who fails to comply with a direction under subsection (6) or an order under subsection (8) is guilty of an offence and is liable on summary conviction to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both.
 
