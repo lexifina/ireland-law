@@ -12,4 +12,6 @@ Supplemental provisions as to committees of Board.
 
 (6) The Board may at any time dissolve a committee.
 
-(7) A committee shall provide the Board with such information as the Board may from time to time require, in respect of its activities and operation, for the purposes of the performance of the functions of the Board. Chapter 4
+(7) A committee shall provide the Board with such information as the Board may from time to time require, in respect of its activities and operation, for the purposes of the performance of the functions of the Board.
+
+Chapter 4

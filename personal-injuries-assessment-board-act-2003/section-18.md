@@ -24,4 +24,4 @@ Presumption as to capacity of claimant and respondent.
 
 (6) If such an opinion as is referred to in subsection (3) is furnished in respect of one or more than one, but not all, of 2 or more respondents and subsection (4) does not apply then the Board shall record in writing the fact of its having received that opinion and no assessment made under this Part in relation to the relevant claim shall bind the respondent or respondents to whom the opinion relates.
 
-Chapter 2
+Chapter 1A
