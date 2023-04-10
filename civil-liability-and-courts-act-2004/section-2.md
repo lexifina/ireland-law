@@ -36,7 +36,7 @@ Interpretation.
 
 (b) for both such injuries and damage to property (but only if both have been caused by the same wrong), or
 
-(c) under section 48 of the Act of 1961, but shall not include an application for compensation under the Garda Síochána (Compensation) Acts 1941 and 1945, or an action where the damages claimed include damages for false imprisonment or trespass to the person;
+(c) under section 48 of the Act of 1961, but shall not include ... an action where the damages claimed include damages for false imprisonment or trespass to the person;
 
 “personal injuries summons” has the meaning assigned to it by section 10;
 
