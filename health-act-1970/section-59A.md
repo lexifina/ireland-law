@@ -1,4 +1,4 @@
-F129[Prescription charges for persons who have attained age of 70 years and their dependants.
+F122[Prescription charges for persons who have attained age of 70 years and their dependants.
 
 59A. (1) This section applies to persons with full eligibility who avail of the service under subsection (1) of section 59 and who fall within any of the following classes:
 

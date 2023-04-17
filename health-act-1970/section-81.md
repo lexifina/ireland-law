@@ -2,7 +2,9 @@ Amendment of section 3 of Mental Treatment Act, 1945.
 
 81.—The Mental Treatment Act, 1945, is hereby amended by—
 
-(a) the deletion in section 3 of the definitions of “the appropriate assistance officer”, “authorised medical officer”, “chargeable patient”, “joint authority”, “joint board”, “mental hospital assistance”, “visiting committee of an auxiliary mental hospital”, and “visiting committee of a district mental hospital”,
+(a) the deletion in section 3 of the definitions of “the appropriate assistance officer”, “authorised medical officer”, “chargeable patient”, “joint authority”,
+
+“joint board”, “mental hospital assistance”, “visiting committee of an auxiliary mental hospital”, and “visiting committee of a district mental hospital”,
 
 (b) the insertion in section 3 after the definition of “district mental hospital” of the following—
 

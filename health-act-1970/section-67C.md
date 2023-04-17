@@ -1,4 +1,4 @@
-F140[Residential support services maintenance and accommodation contributions.
+F133[Residential support services maintenance and accommodation contributions.
 
 67C.— (1) (a) Subject to subsections (3) to (6) and section 67D, a person provided with residential support services, whether provided by the Health Service Executive or on behalf of the Health Service Executive, shall pay a financial contribution, in accordance with regulations made by the Minister under this section, towards the costs of maintenance or accommodation, or both, associated with the provision of such residential support services.
 

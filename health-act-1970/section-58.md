@@ -1,6 +1,6 @@
 ## CHAPTER III General Medical Services
 
-F102[General practitioner medical and surgical service.
+F95[General practitioner medical and surgical service.
 
 58.—(1) Subject to subsection (4), the Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person in any of the following categories—
 

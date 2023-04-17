@@ -1,4 +1,4 @@
-F146[ Contraception services for certain women.
+F139[ Contraception services for certain women.
 
 67E. (1) The Health Service Executive shall make available without charge contraception services for women who are ordinarily resident in the State—
 
