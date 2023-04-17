@@ -4,6 +4,8 @@ Regulations to give full effect to this Part.
 
 (a) the arrangements that shall apply with regard to assessing such classes of persons, including persons residing outside the State, as may be specified, in relation to access to health services in the State;
 
+OJ No. CI 384, 12.11.2019, p.1
+
 (b) the arrangements that shall apply with regard to assessing, where appropriate (including by reference to such qualifying criteria as may be specified) such classes of persons, as may be specified, in relation to access to planned health services in the United Kingdom;
 
 (c) the arrangements to be administered by the Health Service Executive to ensure access to planned health services in the United Kingdom;
