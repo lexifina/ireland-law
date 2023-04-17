@@ -42,9 +42,7 @@ Our Lady’s Hospice, Blackrock, County Dublin;
 
 Our Lady’s Hospice, Harold’s Cross, Dublin;
 
-Our Lady’s Hospital, Manorhamilton, County Leitrim.
-
-Our Lady’s Hospital, Navan, County Meath.
+Our Lady’s Hospital, Manorhamilton, County Leitrim. Our Lady’s Hospital, Navan, County Meath.
 
 Peamount Hospital, Newcastle, County Dublin;
 
