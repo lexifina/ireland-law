@@ -1,8 +1,10 @@
-F155[Regulations to give full effect to this Part.
+F148[Regulations to give full effect to this Part.
 
 75B. (1) The Minister may, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, and having regard to the matters specified in section 75A(3), make regulations for the purposes of giving full effect to this Part and such regulations may, in particular, but without prejudice to the generality of the foregoing, provide for all or any of the following:
 
 (a) the arrangements that shall apply with regard to assessing such classes of persons, including persons residing outside the State, as may be specified, in relation to access to health services in the State;
+
+OJ No. CI 384, 12.11.2019, p.1
 
 (b) the arrangements that shall apply with regard to assessing, where appropriate (including by reference to such qualifying criteria as may be specified) such classes of persons, as may be specified, in relation to access to planned health services in the United Kingdom;
 
