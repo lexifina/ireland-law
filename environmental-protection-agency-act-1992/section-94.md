@@ -1,4 +1,4 @@
-F172[Transfer of licences.
+F182[Transfer of licences.
 
 94.—(1) A licence or revised licence under this Part may be transferred from the licensee to another person in accordance with this section.
 

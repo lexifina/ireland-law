@@ -1,4 +1,4 @@
-F122[Conditions attached to a licence.
+F127[Conditions attached to a licence.
 
 86.—(1) Without prejudice to the generality of section 83(1), conditions attached to a licence or revised licence granted under this Part—
 
