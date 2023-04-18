@@ -28,6 +28,8 @@ Functions generally.
 
 (e) ensure, in so far as is practicable, that a proper balance is achieved between the need to protect the environment (and the cost of such protection) and the need for infrastructural, economic and social progress and development.
 
+O.J. No. L120/1 of 11 May, 1990. O.J. No. L194/1 of 25 July, 1975.
+
 (3) The Agency may have custody of, produce, process, handle, hold, store, use, manufacture, import, distribute, transport, export or otherwise dispose of radioactive substances for any purpose in connection with its functions under paragraph (b) of subsection (1).
 
 (4) The Agency shall not be required to be a registered person or licensee within the meaning of section 2 of the Radiological Protection Act 1991 to have custody of, produce, process, handle, hold, store, use, manufacture, import, distribute, transport, export or otherwise dispose of radioactive substances for any purpose in connection with its functions under paragraph (b) of subsection (1).

@@ -24,6 +24,8 @@ Sewage or other effluents.
 
 (a) all, or specified classes of, or specified volumes of, effluents,
 
+O.J. No. L135/40 of 30 May, 1991.
+
 (b) effluents in designated areas or classes of areas or specified plant, sewers or drainage pipes, or specified classes of plant, sewers or drainage pipes, or
 
 (c) effluents discharged to designated waters or classes of waters, and different standards or other requirements may be prescribed in relation to different effluents or classes of effluents, different areas or classes of areas, different waters or classes of waters or different plant, sewers or drainage pipes or classes of plant, sewers or drainage pipes.

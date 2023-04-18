@@ -1,4 +1,4 @@
-F87[Transitional matters for activities licensed under this Act consequent upon Industrial Emissions Directive.
+F88[Transitional matters for activities licensed under this Act consequent upon Industrial Emissions Directive.
 
 82A. (1) In this section “earlier Part IV” means this Part as it had effect before the amendment of it by the European Union (Industrial Emissions) Regulations 2013.
 
@@ -57,6 +57,8 @@ F87[Transitional matters for activities licensed under this Act consequent upon 
 (e) an activity specified in paragraph 8.3, 8.7 or 13.6 of the First Schedule.
 
 (6)(a) Where an application to which subsection (2)(b) refers is determined or completed by the Agency before 30 September 2013 it shall be dealt with by the Agency, and be determined or completed by it under the earlier Part IV.
+
+O.J. No. L24, 29.1.2008, p, 8.
 
 (b) Where an application to which subsection (2)(b) refers is determined or completed by the Agency on or after 30 September 2013, it shall, subject to this section, be dealt with by the Agency, and be determined or completed by it, under this Part.
 

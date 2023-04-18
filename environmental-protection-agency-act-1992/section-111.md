@@ -6,6 +6,8 @@ Genetically modified organisms.
 
 (i) environmental protection,
 
+O.J. No. L158/56 of 23 June, 1990.
+
 (ii) the prevention of danger to health or damage to property, or
 
 (iii) the preservation of amenities, and

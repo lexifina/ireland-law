@@ -1,10 +1,12 @@
 ## Part IVB ENVIRONMENTAL INSPECTION PLAN
 
-F211[Environmental Inspection Plan
+F221[Environmental Inspection Plan
 
 99J. (1) This section applies to an installation where an industrial emissions directive activity is or will be carried on.
 
 (2) The Agency, as soon as may be after the commencement of this Part, shall make a national plan (in this Part called “the environmental inspection plan”) with regard to the inspection of installations.
+
+O.J. No. L20, 26.01.1980, pp 43-48.
 
 (3) Every installation shall be referred to in the environmental inspection plan and the Agency, from time to time as it thinks appropriate, shall review the environmental inspection plan and make such revisions thereto as it thinks fit and references in this Part to the environmental inspection plan shall, unless the context otherwise requires, be construed as including references to the plan as so revised.
 
@@ -39,6 +41,8 @@ F211[Environmental Inspection Plan
 (8) After each site visit undertaken by it, the Agency shall—
 
 (a) prepare a report describing its findings regarding—
+
+O.J. No. L342, 22.12.2009, p. 1.
 
 (i) if the installation concerned complies with the licence or any conditions attached to the licence, and
 
