@@ -2,7 +2,7 @@
 
 Appointment of authorised officers.
 
-24.— (1) Where it is necessary to do so for the purpose of the performance by the Bank of its functions under financial services legislation relating to the proper and effective regulation of financial service providers, financial holding companies or mixed financial holding companies, the Bank may appoint any of its officers or employees or other suitably qualified persons to be authorised officers and to exercise any of the powers conferred by this Chapter.
+24.— (1) Where it is necessary to do so for the purpose of the performance by the Bank of its functions under financial services legislation relating to the proper and effective regulation of financial service providers, financial holding companies or mixed financial holding companies, or, subject to section 21(4), any other holding company within the meaning of Part 3 of the Central Bank Reform Act 2010 the Bank may appoint any of its officers or employees or other suitably qualified persons to be authorised officers and to exercise any of the powers conferred by this Chapter.
 
 (2) The Bank may revoke any appointment made by it under subsection (1).
 

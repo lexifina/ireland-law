@@ -32,7 +32,9 @@ Persons to whom this Part applies.
 
 (k) a financial holding company;
 
-(l) a mixed financial holding company.
+(l) a mixed financial holding company;
+
+(m) subject to subsection (4), a holding company within the meaning of Part 3 of the Central Bank Reform Act 2010.
 
 (2) The persons referred to in subsection (1)(h) and (i) are—
 
@@ -51,3 +53,5 @@ Persons to whom this Part applies.
 (g) a person with functions corresponding to those of any of the persons within the preceding paragraphs under the law of a territory other than the State.
 
 (3) In subsection (1)(i) “agent”, in relation to a person referred to in subsection (1)(a) to (h), includes a past (as well as a present) agent and includes the person’s banker, accountant, solicitor, auditor and financial or other adviser.
+
+(4) In the case of a person referred to in paragraph (m) of subsection (1) (and not in any other paragraph of that subsection), this Part applies only for the purpose of the performance by the Bank of functions under Part 3 of the Central Bank Reform Act 2010.

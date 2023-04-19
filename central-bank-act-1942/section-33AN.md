@@ -1,10 +1,8 @@
-## PART IIIC ENFORCEMENT OF DESIGNATED ENACTMENTS AND DESIGNATED STATUTORY INSTRUMENTS
-
-## CHAPTER 1 Interpretation
-
 Interpretation (Part IIIC).
 
 33AN.— (1) In this Part—
+
+"authorised officer" means, subject to subsection (1A), a person appointed under section 24 of the Central Bank (Supervision and Enforcement) Act 2013;
 
 "Benchmarks Regulation" means Regulation (EU) No. 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014;
 
@@ -22,17 +20,15 @@ Interpretation (Part IIIC).
 
 (e) conspiring with others to commit a contravention;
 
-"decision of the Bank" means—
+"controlled function" has the meaning given by section 18(1) of the Central Bank Reform Act 2010;
 
-(a) in relation to an inquiry held by the Bank under section 33AO, a finding made by the Bank in accordance with section 33AQ and any decision of the Bank imposing a sanction under that section in consequence of the finding, or
-
-(b) any decision of the Bank imposing a sanction under section 33AR;
+...
 
 "designated enactment" does not include Part 4 or 5 of the Investment Funds, Companies and Miscellaneous Provisions Act 2005, Part 3 of the Investment Funds, Companies and Miscellaneous Provisions Act 2006 , Title II of Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012, the SFT Regulation but (in relation to the SFT Regulation) wherever and only in so far as it imposes a requirement on a person who is not a regulated financial service provider, the Benchmarks Regulation but (in relation to the Benchmarks Regulation) wherever and only in so far as it imposes a requirement on a person who is not a regulated financial service provider, Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014, Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 or Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 but (in relation to the last-mentioned Regulation) wherever and only in so far as it imposes a requirement on a person who is not a regulated financial service provider , or the Securitisation Regulation but (in relation to the Securitisation Regulation) wherever and only in so far as it imposes a requirement on a person who is not a regulated financial service provider,; and
 
 "designated statutory instrument" does not include the European Union (Market Abuse) Regulations 2016 (S.I. No. 349 of 2016), the European Union (Prospectus) Regulations 2019 (S.I. No. 380 of 2019), regulations for the time being in force under section 20 of the Investment Funds, Companies and Miscellaneous Provisions Act 2006, European Union (Securities Financing Transactions) Regulations 2017 (S.I. No. 631 of 2017) but (in relation to the European Union (Securities Financing Transactions) Regulations 2017) wherever and only in so far as they impose a requirement on a person who is not a regulated financial service provider; the European Union (Indices used as Benchmarks in Financial Instruments and Financial Contracts or to Measure the Performance of Investment Funds) Regulations 2017 (S.I. No. 644 of 2017) but (in relation to the European Union (Indices used as Benchmarks in Financial Instruments and Financial Contracts or to Measure the Performance of Investment Funds) Regulations 2017) wherever and only in so far as they impose a requirement on a person who is not a regulated financial service provider, the European Union (European Markets Infrastructure) Regulations 2014 (S.I. No. 443 of 2014) or the European Union (Markets in Financial Instruments) Regulations 2017 but (in relation to the last-mentioned Regulation) wherever and only in so far as they impose a requirement on a person who is not a regulated financial service provider , or the European Union (General Framework for Securitisation and Specific Framework for Simple Transparent and Standardised Securitisation) Regulations 2018 (S.I. No. 656 of 2018) but (in relation to the European Union (General Framework for Securitisation and Specific Framework for Simple Transparent and Standardised Securitisation) Regulations 2018) wherever and only in so far as they impose a requirement on a person who is not a regulated financial service provider, or the European Union (Anti-Money Laundering: Central Mechanism for Information on Safe-Deposit Boxes and Bank and Payment Accounts) Regulations 2022 (S.I. No. 46 of 2022);
 
-"disqualification direction" means a direction given under section 33AQ or 33AR disqualifying a specified person from being concerned in the management of a regulated financial service provider;
+...
 
 "inquiry" means an inquiry held under section 33AO or section 33AR, and includes such an inquiry begun by the former Regulatory Authority and continued by the Bank;
 
@@ -50,9 +46,15 @@ Interpretation (Part IIIC).
 
 "prescribed contravention" means, in respect of the European Union (Cooperation between National Authorities Responsible for the Enforcement of Consumer Protection Laws) (No. 2) Regulations 2020 (S.I. No. 21 of 2020), a contravention of Regulation 4(2) of those Regulations;
 
+"relevant controlled function" in relation to participation in the commission by a regulated financial service provider of a prescribed contravention, means a controlled function in relation to the regulated financial service provider;
+
 “Securitisation Regulation” means Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017;
 
 “SFT Regulation” means Regulation (EU) No 2015/2365 of the European Parliament and of the Council of 25 November 2015;
+
+(1A) Where, under a provision of a designated enactment other than section 24 of the Central Bank (Supervision and Enforcement) Act 2013, or under a designated statutory instrument, the Bank has power to appoint authorised officers with powers exercisable in relation to a prescribed contravention, references in this Part to an authorised officer include, in relation to that prescribed contravention, references to an authorised officer so appointed.
+
+(1B) For the purposes of this Part, a person is concerned in the management of a body corporate or other entity if the person is in any way involved in directing, managing or administering the affairs of the body or other entity.
 
 (2) "prescribed contravention", in respect of the CSD Regulation, means an infringement listed in Article 63(1) of the CSD Regulation.
 

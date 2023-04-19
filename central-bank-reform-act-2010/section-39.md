@@ -6,7 +6,7 @@ Payment of allowances and expenses to persons who appear before Head of Financia
 
 (a) a person whose fitness and probity is being investigated under this Part,
 
-(b) a regulated financial service provider or a former regulated financial service provider, and
+(b) a regulated financial service provider or holding company or a former regulated financial service provider or former holding company, and
 
 (c) a person called or put forward by a person referred to in paragraph (a) or (b) to give evidence.
 

@@ -1,6 +1,6 @@
 Application of Part under Bank Recovery and Resolution Directive.
 
-33ANE. (1) For the purposes of this section, "designated entity" shall include the following:
+33ANE.— (1) For the purposes of this section, "designated entity" shall not include any regulated financial service provider but, subject to that, shall include the following:
 
 (a) a financial holding company;
 
@@ -32,7 +32,7 @@ Application of Part under Bank Recovery and Resolution Directive.
 
 (iv) any obligation imposed on a designated entity by this Part or imposed by the Bank pursuant to a power exercised under this Part, and
 
-(b) participation, by a person concerned in the management of a designated entity in the commission by the designated entity of such a contravention.
+(b) participation by a person, while concerned in the management of a designated entity, in the commission by the designated entity of such a contravention.
 
 (3) For the purposes of this section—
 
@@ -40,9 +40,9 @@ Application of Part under Bank Recovery and Resolution Directive.
 
 (b) a reference in this Part to a prescribed contravention includes a reference to a contravention, by a designated entity of a provision, direction, requirement or obligation referred to in subsection (2), and
 
-(c) a reference in this Part to a person concerned in the management of a regulated financial service provider includes a reference to a person concerned in the management of a designated entity.
+(c) a reference in this Part to performing a controlled function in relation to a regulated financial service provider includes a reference to being concerned in the management of a designated entity.
 
-(4) Nothing in this section limits the application of this Part in relation to matters other than those referred to in subsection (2).
+(4) ...
 
 (5) In this section—
 

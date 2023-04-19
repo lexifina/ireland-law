@@ -2,7 +2,7 @@ Suspension notices that have not been confirmed — period of effect.
 
 28.— A suspension notice that has not been confirmed by the Head of Financial Regulation pursuant to section 29—
 
-(a) takes effect on its service on the regulated financial service provider for whom the suspended person performs the relevant controlled function, and
+(a) takes effect on its service on the regulated financial service provider or holding company for whom the suspended person performs the relevant controlled function, and
 
 (b) ceases to have effect—
 

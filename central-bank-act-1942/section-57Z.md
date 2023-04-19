@@ -16,7 +16,7 @@ What decisions the Appeals Tribunal can make in determining an appeal.
 
 (d) remit the matter concerned for reconsideration by the Bank, together with any recommendation or direction of the Appeals Tribunal as to what aspects of the matter should be reconsidered and, in the case of an appealable decision made under Part IIIC, set aside the decision.
 
-(2A) Paragraphs (b) and (c) of subsection (2) apply only to an appealable decision made under Part IIIC.
+(2A) Paragraphs (b) and (c) of subsection (2) apply only to a decision which is an appealable decision under section 33AW(2) of this Act or section 29 (7) of the Central Bank Reform Act 2010.
 
 (3) The Appeals Tribunal may dismiss an appeal against an appealable decision on the ground that the appellant has failed to attend a hearing of that Tribunal, but only if it is satisfied that the appellant was notified of the date, time and place fixed for the hearing.
 

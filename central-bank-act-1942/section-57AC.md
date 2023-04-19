@@ -7,3 +7,5 @@ Effect of decision of Appeals Tribunal.
 (a) to be the decision of the Bank, and
 
 (b) unless that Tribunal orders otherwise — to have had effect as the decision of the Bank on and from the date of its original decision.
+
+(3) This section is subject to section 33AW(4) and (9).

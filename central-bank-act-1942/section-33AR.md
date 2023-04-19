@@ -1,17 +1,43 @@
 Alternative procedure when commission of, or participation in, prescribed contravention is acknowledged.
 
-33AR.—(1) If, in a case where the Bank suspects on reasonable grounds that a regulated financial service provider is committing or has committed a prescribed contravention, the financial service provider acknowledges that the financial service provider is committing or has committed the contravention, the Bank may—
+33AR.— (1) Subsection (2) applies if—
 
-(a) with the consent of the financial service provider, dispense with an inquiry and impose on the financial service provider any sanction that it is empowered to impose on regulated financial service providers under section 33AQ , or
+(a) the Bank—
 
-(b) hold an inquiry to determine what sanction (if any) should be imposed on the financial service provider in accordance with that section.
+(i) after considering the final report of an investigation, and any submissions, provided to it under section 33ANK(5), or
 
-(2) If, in a case where the Bank suspects on reasonable grounds that a person concerned in the management of a regulated financial service provider is committing or has committed a prescribed contravention, the person acknowledges that the person is participating or has participated in the commission of the contravention, the Bank may—
+(ii) where there are undisputed facts that in the reasonable opinion of the Bank render an investigation unnecessary, suspects on reasonable grounds that a person is committing or has committed a prescribed contravention, and
 
-(a) with the person’s consent, dispense with an inquiry and impose on that person any sanction that it is empowered to impose on persons concerned in the management of regulated financial service providers under section 33AQ , or
+(b) the person acknowledges the commission of the contravention.
 
-(b) hold an inquiry to determine what sanction (if any) should be imposed on the person in accordance with that section.
+(2) Where this subsection applies, the Bank may—
 
-(3) At the conclusion of an inquiry under subsection (1)(b), the Bank shall notify its decision to the financial service provider concerned. The decision must set out in writing the sanctions (if any) imposed under that subsection in respect of the relevant contravention.
+(a) with the person’s consent, dispense with an inquiry and impose on the person any sanction that it is empowered to impose under section 33AQ(3), or
 
-(4) At the conclusion of an inquiry held under paragraph (b) of subsection (2), the Bank shall notify the person concerned of its decision. The decision must set out the sanctions (if any) imposed under that paragraph in respect of the participation.
+(b) hold an inquiry to determine what (if any) such sanction should be imposed on the person.
+
+(3) Subsection (4) applies if—
+
+(a) the Bank—
+
+(i) after considering the final report of an investigation, and any submissions provided to it under section 33ANK(5), or
+
+(ii) where there are undisputed facts that in the reasonable opinion of the Bank render an investigation unnecessary, suspects on reasonable grounds that a person is participating or has participated, while performing a relevant controlled function, in the commission of a prescribed contravention, and
+
+(b) the person acknowledges participation in the contravention.
+
+(4) Where this subsection applies, the Bank may—
+
+(a) with the person’s consent, dispense with an inquiry and impose on that person any sanction that it is empowered to impose under section 33AQ(5), or
+
+(b) hold an inquiry to determine what (if any) such sanction should be imposed on the person.
+
+(5) The imposition of a sanction under subsection (2)(a) or (4)(a) does not take effect unless confirmed by the High Court under section 33AWA.
+
+(6) The imposition of a sanction under subsection (2)(b) or (4)(b) is subject to section 33AW(4).
+
+(7) Section 33AP, except subsection (2), applies to an inquiry under subsection (2)(b) or (4)(b) of this section as it applies to an inquiry under section 33AO.
+
+(8) At the conclusion of an inquiry held under subsection (2)(b) or (4)(b) the Bank shall notify the person concerned of its decision, which shall set out the sanctions (if any) imposed under that paragraph.
+
+(9) A notification under subsection (8) must also state that the person may, under Part VIIA, appeal against the finding, and any decision to impose a sanction, in accordance with section 33AW.

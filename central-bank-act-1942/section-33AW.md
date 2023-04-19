@@ -1,59 +1,55 @@
-When decisions of the Bank under this Part take effect.
+Appeal, confirmation and taking effect of decisions under this Part.
 
-33AW.—(1) A decision of the Bank imposing a caution or reprimand takes effect—
+33AW.— (1) In this section—
 
-(a) if no appeal against the decision is lodged with the Appeals Tribunal within the period allowed for lodging such an appeal—at the end of that period, or
+(a) an "inquiry decision" means any of the following:
 
-(b) if such an appeal is lodged with the Appeals Tribunal within that period and the decision is confirmed by that Tribunal (with or without variation) — at the time when the period allowed for lodging an appeal with the High Court against that decision has ended, no appeal having been lodged within that period, or
+(i) a finding made by the Bank under section 33AQ(1) or (2);
 
-(c) if such an appeal is lodged with the Appeals Tribunal within that period but is later withdrawn — at the time of the withdrawal of the appeal, or
+(ii) a decision of the Bank imposing a sanction under section 33AQ;
 
-(d) if an appeal is made to the High Court against the determination of the Appeals Tribunal in respect of the decision and, on the hearing of the appeal by that Court, that determination is confirmed (with or without variation) — at the time of confirmation of that determination, or
+(iii) a decision of the Bank imposing a sanction under section 33AR(2)(b) or (4)(b), and
 
-(e) if an appeal is made to the High Court against the determination of the Appeals Tribunal but is later withdrawn — at the time of the withdrawal of the appeal.
+(b) an "appeal decision" means a decision of the Appeals Tribunal affirming or varying, or made in substitution for, an inquiry decision.
 
-(2) A decision of the Bank directing payment of a monetary penalty, a refund of money or costs takes effect—
+(2) An inquiry decision is an appealable decision for the purposes of Part VIIA.
 
-(a) if—
+(3) An appeal under Part VIIA against an inquiry decision may be made only on one or more of the following grounds:
 
-(i) the amount of the penalty, refund or costs is not paid to the Bank within the period allowed for appeals against such a decision, and
+(a) any ground that could, but for section 33BF, be relied on in an application seeking judicial review of the inquiry decision;
 
-(ii) no appeal to the Appeals Tribunal is lodged within that period or, having been lodged within that period, is later withdrawn, at the time when the decision is confirmed by an order of a court of competent jurisdiction, or
+(b) so far as it is not within paragraph (a), the ground that any sanction imposed is not proportionate.
 
-(b) if such an appeal is lodged with the Appeals Tribunal within that period and the decision is confirmed by that Tribunal (with or without variation) — at the time when the period allowed for lodging an appeal with the High Court against the determination of that Tribunal in respect of the decision has ended, no appeal having been lodged within that period, or
+(4) An inquiry decision and an appeal decision do not take effect unless confirmed by the High Court on an application under this section.
 
-(c) if such an appeal is lodged with the Appeals Tribunal within that period but is later withdrawn — at the time of the withdrawal of the appeal, or
+(5) Where—
 
-(d) if an appeal is made to the High Court against the determination of the Appeals Tribunal in respect of the decision and, on the hearing of the appeal by that Court, that determination is confirmed (either with or without variation) — at the time of confirmation of that determination, or
+(a) a person who is the subject of an inquiry decision does not, under Part VIIA, appeal against that decision within the period required by that Part,
 
-(e) if an appeal is made to the High Court against the decision of that Tribunal but is later withdrawn — at the time when the appeal is withdrawn.
+(b) an appeal under Part VIIA against an inquiry decision is withdrawn, or
 
-(3) A disqualification direction takes effect—
+(c) the Appeals Tribunal makes an appeal decision, the Bank shall, as soon as practicable, make an application to the High Court for confirmation of the inquiry decision or appeal decision, as the case may be.
 
-(a) if no appeal to the Appeals Tribunal is lodged within the period allowed for bringing such an appeal, or is lodged within that period but is later withdrawn — at the time when it is confirmed by an order of a District Court, or
+(6) On an application under subsection (5), the High Court shall confirm the decision unless it is satisfied, on the basis of the evidence that was before the Bank or the Appeals Tribunal when making the decision—
 
-(b) if such an appeal is lodged with the Appeals Tribunal within that period and the direction is confirmed by that Tribunal — at the time when the period allowed for lodging an appeal in the High Court against the determination of that Tribunal in respect of the direction has ended, no appeal having been lodged within that period, or
+(a) that the Bank or the Appeals Tribunal made an error of law which is—
 
-(c) if such an appeal is lodged within that period but is later withdrawn — at the time when the appeal is withdrawn, or
+(i) manifest from the record of the decision, and
 
-(d) if an appeal is made to the High Court against the determination of the Appeals Tribunal in respect of the direction and, on the hearing of the appeal by that Court, that determination is confirmed (with or without variation) — at the time of confirmation of that determination, or
+(ii) fundamental so as to deprive the decision of its basis, or
 
-(e) if an appeal is made to the High Court against the determination of the Appeals Tribunal but is later withdrawn, at the time when the appeal is withdrawn.
+(b) that any sanction imposed is manifestly disproportionate.
 
-(4) Any other decision of the Bank under this Part takes effect—
+(7) Where, on an application under subsection (5), the High Court does not confirm the decision, the Court may—
 
-(a) if no appeal against the decision is lodged with the Appeals Tribunal within the period allowed for lodging such an appeal, at the end of that period, or
+(a) substitute for the decision any appropriate decision that the Bank or the Appeals Tribunal, as the case may be, could have lawfully made in relation to the matter, or
 
-(b) if such an appeal is lodged with the Appeals Tribunal within that period and the decision is confirmed by that Tribunal (with or without variation) — at the time when the period allowed for lodging an appeal with the High Court against the determination of that Tribunal in respect of the decision has ended, no appeal having been lodged within that period, or
+(b) set aside the decision and remit the matter for reconsideration by the Bank or the Appeals Tribunal, as the case may be, together with any recommendation or direction of the Court as to what aspects of the matter should be reconsidered.
 
-(c) if such an appeal is lodged with the Appeals Tribunal within that period but is later withdrawn — at the time of the withdrawal of the appeal, or
+(8) An application under subsection (5) may be made on an ex parte basis provided that the person who is the subject of the decision informs the Bank in writing that the person agrees to the application being made ex parte.
 
-(d) if an appeal is made to the High Court against the determination of the Appeals Tribunal in respect of the decision and, on the hearing of the appeal by that Court, that determination is confirmed (with or without variation) — at the time of confirmation of that determination, or
+(9) A decision confirmed by the High Court under this section, and a decision of the High Court made under subsection (7)(a) in substitution for a decision—
 
-(e) if an appeal is made to the High Court against the determination of the Appeals Tribunal in respect of the decision but is later withdrawn — at the time of the withdrawal of the appeal.
+(a) takes effect on the day on which the Court’s decision is given or such later date as the Court may specify in its decision, and
 
-(5) A court of competent jurisdiction may hear an application by the Bank under this section otherwise than in public if—
-
-(a) evidence may be given, or a matter may arise, during the hearing that is of a confidential nature or relates to the commission, or to the alleged or suspected commission, of an offence against a law of the State, or
-
-(b) a person’s reputation would be unfairly prejudiced unless the court exercises its discretion under this section.
+(b) has effect as an order of the Court and may be enforced accordingly.
