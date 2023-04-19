@@ -6,7 +6,7 @@ How the Bank may give or serve notices or other documents.
 
 (i) by delivering the notice or other document to the person personally, or
 
-(ii) by leaving the notice or other document at, or by sending it by prepaid post to, the person’s residential or business address last known to the Bank or Regulatory Authority, or
+(ii) by leaving the notice or other document at, or by sending it by prepaid post to, the person’s residential or business address last known to the Bank ..., or
 
 (b) in the case of a body corporate—
 
