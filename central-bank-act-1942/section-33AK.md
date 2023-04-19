@@ -22,9 +22,9 @@ Disclosure of information.
 
 (1A) A person to whom subsection (1) applies shall not disclose confidential information concerning—
 
-(a) the business of any person or body whether corporate or incorporate that has come to the person’s knowledge through the person’s office or employment with the Bank, or
+(a) the business of any person or body whether corporate or unincorporate that has come to the person’s knowledge through the person’s office or employment with the Bank, or
 
-(b) any matter arising in connection with the performance of the functions of the Bank or the exercise of its powers, if such disclosure is prohibited by the Rome Treaty, the ESCB Statute or the supervisory EU legal acts.
+(b) any matter arising in connection with the performance of the functions of the Bank or the exercise of its powers, if the Rome Treaty, the ESCB Statute or any of the supervisory EU legal acts prohibits the disclosure or requires it to be prohibited.
 
 (2) (a) If requested by the Bank, the directors or those charged with the direction of a supervised entity shall, in accordance with paragraph (b), inform the Bank on the extent of any disclosure duly made by or on behalf of them or the entity to any authority, whether within the State or otherwise.
 
@@ -94,15 +94,15 @@ Disclosure of information.
 
 (I) specify the name of the authority concerned, and
 
+O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.12.2010, p. 48. O J No. 331, 15.12.2010, p. 120.
+
 (II) identify the information that the Bank has identified as causing it to issue the Disclosure Issue Notice.
 
 (b) The Bank shall advise the authority concerned when a Disclosure Issue Notice is issued.
 
 (c) Where a Disclosure Issue Notice is issued in respect of a company to which section 158 of the Companies Act 1963 applies (which relates to the directors’ report), the directors’ report shall comply with subsection (6B) of that section.
 
-(5) Subject to subsection
-
-(1A), the Bank may disclose confidential information—
+(5) Subject to subsection (1A), the Bank may disclose confidential information—
 
 (a) required for the purposes of criminal proceedings, or
 
@@ -274,9 +274,11 @@ Disclosure of information.
 
 (5B) A person to whom subsection (1) applies shall not disclose confidential information concerning—
 
-(a) the business of any person or body whether corporate or incorporate that has come to the person’s knowledge through the person’s office or employment with the Bank, or
+(a) the business of any person or body whether corporate or unincorporate that has come to the person’s knowledge through the person’s office or employment with the Bank, or
 
 (b) any matter arising in connection with the performance of the functions of the Bank or the exercise of its powers, if such disclosure is required to be prohibited by the Payment Services Directive.
+
+OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43.
 
 (5C) Subject to subsection (5B), the Bank may disclose confidential information received by it in the performance of its functions as a competent authority (so designated for the purposes of the Payment Services Directive)—
 
@@ -306,6 +308,8 @@ Disclosure of information.
 
 (m) to the European Systemic Risk Board, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority, where that information is relevant for the exercise of their functions under Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010, Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 or Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010, as the case may be,
 
+OJ No. L. 60, 28.2.2014, p. 34.
+
 (n) to a clearing house or other similar body recognised under Irish law for the provision of clearing or settlement services where that information is necessary in order to ensure the proper functioning of those bodies in relation to defaults or potential defaults by market participants,
 
 (o) to a liquidator, examiner, receiver or any other person or body involved in the liquidation or bankruptcy of a supervised entity in relation to that entity,
@@ -332,9 +336,9 @@ Disclosure of information.
 
 (5F) Subsections (5A), (5B), (5C) and (5D) shall apply to confidential information received in connection with the operation of the European Communities (Electronic Money) Regulations 2011, subject to the modification that a reference to the Payment Services Directive shall be construed as a reference to Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009.
 
-(6) Any person or entity to whom confidential information is provided under subsection (3)(a) or (5) shall comply with the provisions on professional secrecy in the supervisory EU legal acts and in the ESCB Statute in holding and dealing with information provided to them by the Bank.
+(6) Any person or entity to whom confidential information is provided by the Bank under subsection (3)(a) or (5) shall hold and deal with that confidential information in a manner consistent with the provisions on professional secrecy in the supervisory EU legal acts and in the ESCB Statute.
 
-(6A) Any member of either House of the Oireachtas to whom confidential information is provided under subsection (5) and who fails to comply with the provisions of professional secrecy referred to in subsection (6) in respect of that information may be subject to the sanction of the House of which the person is a member in accordance with rules and standing orders made by that House.
+(6A) Any member of either House of the Oireachtas to whom confidential information is provided under subsection (5) and who fails to comply with ... subsection (6) in respect of that information may be subject to the sanction of the House of which the person is a member in accordance with rules and standing orders made by that House.
 
 (6B) Any person or entity to whom confidential information is provided under subsection (5C) shall, when holding and dealing with that information, ensure its confidentiality.
 
@@ -410,6 +414,8 @@ Disclosure of information.
 
 (ii) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council,
 
+OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190.
+
 (iii) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC,
 
 (iv) Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU, and
@@ -439,6 +445,10 @@ Disclosure of information.
 (ac) Regulation (EU) No. 2016/1011 of the European Parliament and of the Council of 8 June 2016;
 
 (ad) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution.
+
+OJ No. L. 337, 23.12.2015, p. 35. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253.
+
+OJ, No L171, 29.6.2016, p. 1
 
 (ae) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017;
 
