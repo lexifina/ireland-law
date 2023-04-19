@@ -12,9 +12,29 @@ Definitions (Part 3).
 
 “evidentiary notice” means a notice under section 32;
 
-“controlled function” means a function prescribed in regulations made under section 20;
+“controlled function”—
 
-“pre-approval controlled function” shall be construed in accordance with section 22;
+(a) in relation to a regulated financial service provider, means a function prescribed in regulations made under section 20 as a controlled function in relation to a regulated financial service provider, and
+
+(b) in relation to a holding company, means a function prescribed in regulations made under section 20 as a controlled function in relation to a holding company;
+
+"holding company" means any of the following established in the State:
+
+(a) a financial holding company, within the meaning given by point (20) of Article 4(1) of the Capital Requirements Regulation;
+
+(b) a mixed financial holding company, within the meaning given by point (21) of Article 4(1) of the Capital Requirements Regulation;
+
+(c) an insurance holding company, within the meaning given by Regulation 215(1) of the European Union (Insurance and Reinsurance) Regulations 2015 (S.I. No. 485 of 2015);
+
+(d) an investment holding company, within the meaning of the European Union (Investment Firms) Regulations 2021 (S.I. No. 355 of 2021);
+
+"prohibition notice" means a notice under section 43;
+
+“pre-approval controlled function”—
+
+(a) in relation to a regulated financial service provider, shall be construed in accordance with section 22(1), and
+
+(b) in relation to a holding company, shall be construed in accordance with section 22(1A);
 
 "SSM Regulation" means Council Regulation (EU) No. 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
 
@@ -22,6 +42,6 @@ Definitions (Part 3).
 
 “suspension notice” means a notice under section 26.
 
-(2) This Part applies to and in relation to regulated financial service providers other than credit unions.
+(2) ...
 
-(3) On and from a date to be fixed by the Minister by order, this Part applies to and in relation to all regulated financial service providers, including credit unions.
+(3) ...

@@ -14,6 +14,6 @@ Interpretation.
 
 (b) the designated statutory instruments, and
 
-(c) the Central Bank Acts 1942 to 2012 and statutory instruments made under those Acts;
+(c) the Central Bank Acts 1942 to 2013 and statutory instruments made under those Acts;
 
 (2) An expression used in this Act and also in the Act of 1942 has, unless the contrary intention appears, the same meaning in this Act as in the Act of 1942.

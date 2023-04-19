@@ -1,10 +1,14 @@
-Approval of appointment to management body.
+Notification and approval of appointment.
 
-23A. (1) A significant supervised entity (within the meaning of the SSM Framework Regulation) which is a regulated financial service provider shall not appoint a person to its management body (within the meaning of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014)) unless the Bank has notified the entity in writing that the ECB has approved the appointment of the person to the management body.
+23A.—(1) A significant supervised entity (within the meaning of the SSM Framework Regulation) which is a regulated financial service provider or holding company shall not—
+
+(a) appoint a person to its management body (within the meaning of the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014)), or
+
+(b) make any other appointment the approval of which is subject to the exclusive competence of the ECB under Article 4(1)(e) of the SSM Regulation, unless the entity has been notified in writing by the ECB that it has approved the appointment.
 
 (2) Where the Bank receives an application from an entity for the purposes of seeking approval from the ECB under subsection (1), it shall send that application to the ECB without delay.
 
-(3) For the purposes of the making of a decision by the ECB as to whether or not to approve a person under subsection (1), the Bank may request the person, or a specified officer or employee of the entity that proposes to appoint the person to the management body, by notice in writing to do any one or more of the following:
+(3) For the purposes of the making of a decision by the ECB as to whether or not to approve the appointment of a person under subsection (1), the Bank may request the person, or a specified officer or employee of the entity that proposes to appoint the person ..., by notice in writing to do any one or more of the following:
 
 (a) produce a specified document or documents to the Bank;
 
@@ -28,4 +32,4 @@ Approval of appointment to management body.
 
 (6) An application for approval under subsection (1) shall be determined by the ECB in accordance with relevant European Union law.
 
-(7) The Bank shall, as soon as practicable after the receipt of the decision of the ECB, notify the entity concerned of that decision.
+(7) ...

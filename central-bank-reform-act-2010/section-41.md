@@ -1,15 +1,31 @@
 Head of Financial Regulation to prepare report.
 
-41.— (1) After carrying out an investigation under this Chapter, the Head of Financial Regulation shall prepare a report for consideration by the Bank and the Governor.
+41.— (1) Where the Head of Financial Regulation has completed an investigation under this Chapter, he or she shall, after considering—
 
-(2) The Head of Financial Regulation shall serve a copy of a report prepared in accordance with subsection (1) on each of—
+(a) the notice under section 25A(1),
 
-(a) the person whose fitness and probity was the subject of the relevant investigation, and
+(b) any relevant information or evidence gathered or received by the Head of Financial Regulation in the course of the investigation, and
 
-(b) any regulated financial service provider concerned.
+(c) any response made by the person to whom the investigation relates in accordance with a statement referred to in section 25A(2)(c), and any other relevant submission or statement made by the person in the course of the investigation, as soon as practicable prepare a draft report of the investigation.
 
-(3) A copy of a report may be served in any of the ways that a suspension notice may be served.
+(2) The Head of Financial Regulation shall, as soon as practicable after preparing the draft report, serve on the person whose fitness and probity was the subject of the investigation, and any regulated financial service provider or holding company concerned—
 
-(4) A person (including a regulated financial service provider) on whom a copy of a report is served pursuant to subsection (2) may make, within the period specified in accordance with subsection (5), a submission in writing to the Head of Financial Regulation in relation to any matter in the report.
+(a) a copy of the draft report,
 
-(5) When the Head of Financial Regulation serves a copy of a report on a person (including a regulated financial service provider) pursuant to subsection (2), the Head of Financial Regulation shall inform the person in writing of the person’s right under subsection (4) to make a submission in relation to any matter in the report, and shall specify the period within which the person may do so. The period specified shall be 7 days, or such longer period as the Head of Financial Regulation considers reasonable in all the circumstances.
+(b) a copy of this section, and
+
+(c) a notice in writing stating that the person, and any regulated financial service provider or holding company concerned, may make submissions in writing to the Head of Financial Regulation on the draft report within the period stated in the notice, which shall be—
+
+(i) 7 days from the date on which the notice is served, or
+
+(ii) such longer period as the Head of Financial Regulation considers necessary to provide an opportunity to respond.
+
+(3) The Head of Financial Regulation shall, as soon as practicable after the end of the period referred to in paragraph (c) of subsection (2), and having considered any submissions made in accordance with that paragraph, make any revisions to the draft report that in the opinion of the Head of Financial Regulation are warranted, and finalise the report.
+
+(4) The Head of Financial Regulation shall not make any recommendation, or express any opinion, in a draft report under subsection (1) or in a final report under subsection (3), as to whether any prohibition (or, if so, what prohibition) should be imposed under section 43 if the Bank or the Governor forms the opinion referred to in subsection (1) of that section.
+
+(5) The Head of Financial Regulation shall, as soon as practicable after the report has been finalised under subsection (3), provide to the Bank and the Governor, and serve on the person whose fitness and probity was the subject of the investigation, and any regulated financial service provider or holding company concerned a copy of—
+
+(a) the final report, and
+
+(b) any submissions made in accordance with paragraph (c) of subsection (2).

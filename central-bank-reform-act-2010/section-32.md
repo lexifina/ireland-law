@@ -14,11 +14,11 @@ Head of Financial Regulation may require persons to give evidence or produce doc
 
 (2) Without prejudice to the generality of subsection (1), the Head of Financial Regulation may serve a notice under subsection (1) on—
 
-(a) a regulated financial service provider,
+(a) a regulated financial service provider or holding company,
 
-(b) a former regulated financial service provider, or
+(b) a former regulated financial service provider or former holding company, or
 
-(c) an officer or employee, or former officer or employee, of a regulated financial service provider or a former regulated financial service provider.
+(c) an officer or employee, or former officer or employee, of a regulated financial service provider or holding company or a former regulated financial service provider or former holding company.
 
 (3) An evidentiary notice shall—
 

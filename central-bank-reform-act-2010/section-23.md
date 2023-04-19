@@ -1,8 +1,8 @@
 Appointment of persons to perform pre-approval controlled functions.
 
-23.—(1) Subject to section 23A, a regulated financial service provider shall not appoint a person to perform a pre-approval controlled function unless the Bank has approved in writing the appointment of the person to perform the function.
+23.—(1) Subject to section 23A, a regulated financial service provider or holding company shall not appoint a person to perform a pre-approval controlled function in relation to it unless the Bank has approved in writing the appointment of the person to perform the function.
 
-(2) For the purposes of considering whether or not to approve a person under subsection (1), the Bank may request the person, or a specified officer or employee of the regulated financial service provider that proposes to appoint the person to perform a controlled function, by notice in writing to do any one or more of the following:
+(2) For the purposes of considering whether or not to approve the appointment of a person under subsection (1), the Bank may request the person, or a specified officer or employee of the regulated financial service provider or holding company that proposes to appoint the person to perform a pre-approval controlled function, by notice in writing to do any one or more of the following:
 
 (a) produce a specified document or documents to the Bank;
 
@@ -32,8 +32,16 @@ Appointment of persons to perform pre-approval controlled functions.
 
 (6) Without prejudice to the generality of subsection (5), the Bank may refuse to approve the appointment of a person under subsection (1) if—
 
-(a) the person, or an officer or employee of the regulated financial service provider concerned, has failed to comply with a request under subsection (2), or
+(a) the person, or an officer or employee of the regulated financial service provider or holding company concerned, has failed to comply with a request under subsection (2), or
 
 (b) any of the grounds set out in paragraphs (a) to (h) of section 25(3) apply.
 
 (7) A refusal pursuant to subsection (5) is an appealable decision for the purposes of Part VIIA of the Act of 1942.
+
+(8) Where—
+
+(a) the Bank is considering under subsection (1) whether to approve an appointment,
+
+(b) the appointment will be to perform a pre-approval controlled function in relation to a regulated financial service provider, and
+
+(c) the person proposing to make the appointment is not yet a regulated financial service provider, subsection (2) applies as if references in that subsection to a regulated financial service provider were references to that person.
