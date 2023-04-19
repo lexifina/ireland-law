@@ -1,5 +1,5 @@
-Decision of Bank to be appealable.
+Decision of Bank to be appealable. (Repealed)
 
-33AX.—A decision of the Bank made at the conclusion of an inquiry held under section 33AO or section 33AR is an appealable decision for the purposes of Part VIIA.
+33AX.— ...
 
-CHAPTER 3
+Chapter 3
