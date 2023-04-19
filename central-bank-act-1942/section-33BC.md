@@ -1,30 +1,34 @@
 Bank may publish its decisions.
 
-33BC.— (1) If on the holding of an inquiry under section 33AO the Bank has found that—
+33BC.— (1) If, under section 33AQ(1) or (2), the Bank has found that—
 
-(a) a regulated financial service provider is committing or has committed a prescribed contravention, or
+(a) a person is committing or has committed a prescribed contravention, or
 
-(b) a person concerned in the management of the financial service provider is participating or has participated in such a contravention, it shall publish, subject to subsection (4), in such form and manner as it thinks appropriate, the finding and such (if any) of the particulars specified in subsection (3) as it thinks appropriate.
+(b) a person is participating or has participated, while performing a relevant controlled function, in the commission of a prescribed contravention by a regulated financial service provider, it shall, subject to subsection (4), after complying with section 33AQ(7) or (8), as the case may be, publish in such form and manner as it thinks appropriate the finding and such (if any) of the particulars specified in subsection (3) as it thinks appropriate.
 
-(2) If the Bank has, in accordance with section 33AR, imposed—
+(2) If the Bank has imposed a sanction under section 33AQ(3) or (5) or 33AR, it shall, subject to subsection (4), after complying with section 33AQ(7) or (8) or 33AR(8), as the case may be, publish in such form and manner as it thinks appropriate, such (if any) of the particulars specified in subsection (3) as it thinks appropriate.
 
-(a) a sanction on a regulated financial service provider in respect of the commission of a prescribed contravention, or
+(3) The particulars referred to in subsections (1) and (2) are:
 
-(b) a sanction on a person concerned in the management of a financial service provider in respect of the person’s participation in the commission by the financial service provider of such a contravention, it shall publish, subject to subsection (4), in such form and manner as it thinks appropriate, such (if any) of the particulars specified in subsection (3) as it thinks appropriate.
+(a) the name of the person to whom the finding relates or on whom the sanction is imposed;
 
-(3) The particulars referred to in subsections (1) and (2) are as follows:
+(b) the grounds on which the finding is based;
 
-(a) the name of the regulated financial service provider or person concerned on whom a sanction has been imposed;
+(c) details of the prescribed contravention in respect of which the sanction has been imposed;
 
-(b) details of the prescribed contravention in respect of which the sanction has been imposed;
+(d) details of the sanction imposed.
 
-(c) details of the sanction imposed;
+(3A) If the Bank has entered into an agreement with a person under section 33AV, it may publish, subject to subsection (4), in such form and manner as it thinks appropriate, such (if any) of the following particulars as it thinks appropriate:
 
-(d) the grounds on which the finding is based.
+(a) the name of the person;
 
-(4) Subsections (1) and (2) do not apply to the finding or particulars specified in subsection (3)—
+(b) details of the prescribed contravention which the Bank suspects is being or has been committed or participated in;
 
-(a) if publication of the finding or particulars involves the disclosure of confidential information the disclosure of which is prohibited by the Rome Treaty, the ESCB Statute or the supervisory EU legal acts (within the meaning of section 33AK(10)), or
+(c) details of any sanction whose imposition is accepted under the agreement.
+
+(4) Subsections (1), (2) and (3A) do not apply to a finding or particulars—
+
+(a) if publication of the finding or particulars involves a disclosure of confidential information which the Rome Treaty, the ESCB Statute or any of the supervisory EU legal acts (within the meaning of section 33AK) prohibits or requires to be prohibited, or
 
 (b) if the Bank determines—
 
