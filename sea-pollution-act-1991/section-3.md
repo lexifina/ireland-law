@@ -10,7 +10,7 @@ Interpretation.
 
 "ballast water management" means mechanical, physical, chemical, and biological processes, either singularly or in combination, to remove, render harmless, or avoid the uptake or discharge of harmful aquatic organisms and pathogens within ballast water and sediments;
 
-"BWM Convention" means the International Convention for the Control and Management of Ships’Ballast Water and Sediments 2004 done at London on 13 February 2004;
+"BWM Convention" means the International Convention for the Control and Management of Ships’ Ballast Water and Sediments 2004 done at London on 13 February 2004;
 
 “discharge”, in relation to oil, oily mixtures, noxious liquid substances, harmful substances, sewage, garbage, substances subject to control by Annex VI to the MARPOL Convention, anti-fouling systems or ships’ ballast water and sediments, or any effluent containing any of those substances, means any release, howsoever caused, from a ship and includes any escape, disposal, spilling, leaking, pumping, emitting or emptying of any substance from a ship, but does not include—
 
