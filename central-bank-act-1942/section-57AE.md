@@ -10,4 +10,4 @@ Recovery of amounts ordered to be paid.
 
 (b) is filed in the registry of a court having jurisdiction to give judgment for a debt of the same amount as the amount stated in the certificate, operates as such a judgment.
 
-(4) A party to proceedings in respect of which an amount has been certified by the Registrar under this section may apply to the Appeals Tribunal fo68.r a review of the decision to certify that amount.
+(4) A party to proceedings in respect of which an amount has been certified by the Registrar under this section may apply to the Appeals Tribunal for a review of the decision to certify that amount.
