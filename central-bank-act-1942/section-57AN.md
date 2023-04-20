@@ -1,4 +1,4 @@
-## CHAPTER 5 Miscellaneous
+## Miscellaneous
 
 Contempt of Appeals Tribunal.
 

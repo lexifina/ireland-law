@@ -2,4 +2,4 @@ Council chairperson to appear before Oireachtas committee when required. (Repeal
 
 57BH.—...
 
-CHAPTER 3
+Chapter 3

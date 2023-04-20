@@ -1,4 +1,4 @@
-## CHAPTER 4 References and appeals to High Court
+## References and appeals to High Court
 
 References of questions of law to High Court.
 

@@ -1,6 +1,6 @@
 ## PART VIIA IRISH FINANCIAL SERVICES APPEALS TRIBUNAL
 
-## CHAPTER 1 Preliminary
+## Chapter 1 Preliminary
 
 Interpretation: Part VIIA and Schedule 5.
 

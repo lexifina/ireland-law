@@ -66,11 +66,11 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 (j) is removed from office under subparagraph (2).
 
-(2) The President may, on the advice of the Government, remove a lay member from office for proven incompetence or misbehaviour. 8.—(1) Even though a person’s term of office as a member has come to an end, the person may finish or otherwise continue to deal with any matters relating to proceedings before the Appeals Tribunal that have been heard or partly heard (or were otherwise the subject of deliberations) by the person before the end of that term.
+(2) The President may, on the advice of the Government, remove a lay member from office for proven incompetence or misbehaviour.
 
-(2) While finishing or otherwise dealing with matters referred to in subparagraph (1), the person is taken to have and may exercise all the rights and functions of a member that the person had immediately before the end of his or her term of office.
+8.—(1) Even though a person’s term of office as a member has come to an end, the person may finish or otherwise continue to deal with any matters relating to proceedings before the Appeals Tribunal that have been heard or partly heard (or were otherwise the subject of deliberations) by the person before the end of that term.
 
-9.—(1) In this paragraph—
+(2) While finishing or otherwise dealing with matters referred to in subparagraph (1), the person is taken to have and may exercise all the rights and functions of a member that the person had immediately before the end of his or her term of office. 9.—(1) In this paragraph—
 
 "eligible member" means a member who, immediately before being appointed to the Appeals Tribunal, was a civil servant or an officer or employee of a public authority declared by an enactment or other law to be an authority to which this paragraph applies;
 
@@ -134,6 +134,8 @@ PROVISIONS APPLICABLE TO MEMBERS OF THE APPEALS TRIBUNAL
 
 (3) For the purposes of this paragraph, the expertise or experience of a member in relation to a class of matters in relation to which the Appeals Tribunal has jurisdiction does not constitute an interest that could conflict with the proper performance of the functions of the member.
 
-(4) A failure to comply with this paragraph does not affect the validity of any decision made by the Appeals Tribunal. 12.—(1) All of the provisions of this Schedule except paragraph 2 apply to acting members.
+(4) A failure to comply with this paragraph does not affect the validity of any decision made by the Appeals Tribunal.
+
+12.—(1) All of the provisions of this Schedule except paragraph 2 apply to acting members.
 
 (2) In this paragraph, "acting member" means a person appointed under section 57F to act as a member.

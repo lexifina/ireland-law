@@ -1,4 +1,4 @@
-## CHAPTER 2 Constitution and jurisdiction of Appeals Tribunal
+## Constitution and jurisdiction of Appeals Tribunal
 
 Establishment of the Appeals Tribunal.
 

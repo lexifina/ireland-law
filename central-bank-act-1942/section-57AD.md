@@ -1,6 +1,6 @@
 Amendments and irregularities.
 
-57AD.—(1) The Appeals Tribunal may, in any proceedings before it, make any amendments to the proceedings that that Tribunal considers to be necessary in the interests of justice.
+57AD.—(1) The Appeals Tribunal may, in any proceedings before it, make any amendments to the proceedings that thatTribunal considers to be necessary in the interests of justice.
 
 (2) Any such amendment may be made—
 

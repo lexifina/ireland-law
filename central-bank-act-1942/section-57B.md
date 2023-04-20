@@ -11,3 +11,5 @@ Objects of this Part.
 (b) to ensure that the Appeals Tribunal is accessible, its proceedings are efficient and effective and its decisions are fair;
 
 (c) to enable proceedings before the Appeals Tribunal to be determined in an informal and expeditious manner.
+
+Chapter 2

@@ -1,6 +1,6 @@
 ## PART VIIC CONSULTATIVE PANELS
 
-## CHAPTER 1 General
+## Chapter 1 General
 
 Interpretation: Part VIIC. (Repealed)
 

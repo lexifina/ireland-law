@@ -6,4 +6,4 @@ Government may make regulations with respect to the Appeals Tribunal.
 
 ...
 
-CHAPTER 1
+Chapter 1

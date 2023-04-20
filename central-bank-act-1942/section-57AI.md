@@ -29,3 +29,5 @@ Appeals Tribunal may make rules of procedure.
 (j) the award of costs in respect of proceedings before the Appeals Tribunal;
 
 (k) the use of the seal of the Appeals Tribunal.
+
+Chapter 4

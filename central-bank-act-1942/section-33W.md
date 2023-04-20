@@ -1,4 +1,4 @@
-## CHAPTER 3 Registrar of Credit Unions
+## Registrar of Credit Unions
 
 Interpretation: Chapter 3.
 

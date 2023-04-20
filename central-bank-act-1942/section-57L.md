@@ -1,4 +1,4 @@
-## CHAPTER 3 Hearing and determination of appeals
+## Hearing and determination of appeals
 
 Right of appeal to Appeals Tribunal against appealable decision.
 
