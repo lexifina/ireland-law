@@ -90,11 +90,11 @@ Disclosure of information.
 
 (ii) which it believes it is unable, due to the provisions of subsection (1A) or (5B), to disclose to that authority, and
 
+O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.12.2010, p. 48. O J No. 331, 15.12.2010, p. 120.
+
 (iii) in respect of which it is not satisfied that the information has been disclosed to that authority by the directors, or those charged with the direction, of the supervised entity, then, the Bank shall issue to the directors or others duly charged with the direction of the supervised entity a document, to be known as a Disclosure Issue Notice, and the notice shall—
 
 (I) specify the name of the authority concerned, and
-
-O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.12.2010, p. 48. O J No. 331, 15.12.2010, p. 120.
 
 (II) identify the information that the Bank has identified as causing it to issue the Disclosure Issue Notice.
 
@@ -272,13 +272,13 @@ O J No. 331, 15.12.2010, p. 1. O J No. 331, 15.12.2010, p. 12. O J No. 331, 15.1
 
 (5A) Subsection (5) shall not apply to confidential information received by the Bank in the performance of its functions as a competent authority designated as such for the purposes of the Payment Services Directive.
 
+OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43.
+
 (5B) A person to whom subsection (1) applies shall not disclose confidential information concerning—
 
 (a) the business of any person or body whether corporate or unincorporate that has come to the person’s knowledge through the person’s office or employment with the Bank, or
 
 (b) any matter arising in connection with the performance of the functions of the Bank or the exercise of its powers, if such disclosure is required to be prohibited by the Payment Services Directive.
-
-OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43.
 
 (5C) Subject to subsection (5B), the Bank may disclose confidential information received by it in the performance of its functions as a competent authority (so designated for the purposes of the Payment Services Directive)—
 
@@ -306,9 +306,9 @@ OJ No. L. 141, 5.6.2015, p. 73. OJ No. L. 156, 19.6.2018, p. 43.
 
 (l) where appropriate, to other public authorities responsible for overseeing payment systems,
 
-(m) to the European Systemic Risk Board, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority, where that information is relevant for the exercise of their functions under Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010, Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 or Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010, as the case may be,
-
 OJ No. L. 60, 28.2.2014, p. 34.
+
+(m) to the European Systemic Risk Board, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority, where that information is relevant for the exercise of their functions under Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010, Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 or Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010, as the case may be,
 
 (n) to a clearing house or other similar body recognised under Irish law for the provision of clearing or settlement services where that information is necessary in order to ensure the proper functioning of those bodies in relation to defaults or potential defaults by market participants,
 
@@ -410,11 +410,11 @@ OJ No. L. 60, 28.2.2014, p. 34.
 
 (r) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC as amended by—
 
+OJ No. L. 176, 27.06.2013, p. 338.
+
 (i) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010,
 
 (ii) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council,
-
-OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190.
 
 (iii) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC,
 
@@ -438,6 +438,8 @@ OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173
 
 (z) Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014, and
 
+OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173, 12.6.2014, p. 190. OJ No. L. 337, 23.12.2015, p. 35. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253.
+
 (aa) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU.
 
 (ab) Regulation (EU) No 2015/2365 of the European Parliament and of the Council of 25 November 2015;
@@ -445,10 +447,6 @@ OJ No. L. 176, 27.06.2013, p. 338. OJ No. L. 60, 28.2.2014, p. 34. OJ No. L. 173
 (ac) Regulation (EU) No. 2016/1011 of the European Parliament and of the Council of 8 June 2016;
 
 (ad) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution.
-
-OJ No. L. 337, 23.12.2015, p. 35. OJ No. L. 156, 19.6.2018, p. 43. OJ No. L. 150, 7.6.2019, p. 253.
-
-OJ, No L171, 29.6.2016, p. 1
 
 (ae) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017;
 
@@ -469,3 +467,7 @@ OJ, No L171, 29.6.2016, p. 1
 (am) Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020;
 
 "supervised entity" means any person or body in relation to which the Bank exercises functions under the designated enactments or the designated statutory instruments.
+
+OJ, No L171, 29.6.2016, p. 1
+
+OJ No. L. 314, 5.12.2019, p. 1. OJ No. L. 347, 20.10.2020, p. 1.
