@@ -6,7 +6,7 @@ Interpretation (Part 4).
 
 ...
 
-‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+"Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 “genetic data” means data relating to a living person derived from genetic testing of the person;
 
@@ -18,4 +18,4 @@ Interpretation (Part 4).
 
 (c) identifying the carrier of a disease;
 
-‘processing’ means processing within the meaning of the Data Protection Regulation;
+"processing" means processing within the meaning of the Data Protection Regulation;

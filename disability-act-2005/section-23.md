@@ -8,4 +8,4 @@ Search warrants.
 
 ## PART 3 ACCESS TO BUILDINGS AND SERVICES AND SECTORAL PLANS
 
-24. In this Part ‘housing authority’ means a local authority.
+24. In this Part "housing authority" means a local authority.

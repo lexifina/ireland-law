@@ -6,7 +6,7 @@ Application of Ombudsman Act 1980.
 
 “‘head’, in relation to a public body, and ‘public body’, have the meanings assigned to them by the Disability Act 2005;”;
 
-(b) in section 4, in subsection (2), the words from and including ‘in the performance’ to the end of the subsection and subsection (4) shall be deleted;
+(b) in section 4, in subsection (2), the words from and including "in the performance" to the end of the subsection and subsection (4) shall be deleted;
 
 (c) in section 5, in subsection (1)(a), subparagraph (iii) shall be deleted;
 
