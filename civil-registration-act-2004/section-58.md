@@ -108,10 +108,18 @@ Objections.
 
 (8) If, notwithstanding the steps taken by the registrar concerned pursuant to subsection (7)(b), the marriage concerned is solemnised, the marriage shall not be registered.
 
-(9) (a) A party to a proposed marriage may appeal to the Circuit Family Court against the decision of an tArd-Chláraitheoir in relation to the marriage under subsection (7).
+(9) (a) Subject to subsection (12), a party to a proposed marriage may appeal to the Circuit Family Court against the decision of an tArd-Chláraitheoir in relation to the marriage under subsection (7).
 
 (b) The jurisdiction conferred on the Circuit Family Court by paragraph (a) may be exercised by a judge of the circuit in which either of the parties to the intended marriage concerned ordinarily resides or carries on any profession, business or occupation or where the place at which the marriage concerned had been intended to be solemnised is situated.
 
 (10) A person who has lodged an objection under subsection (1) may withdraw the objection, but an tArd-Chláraitheoir may, if he or she considers it appropriate to do so, investigate, or complete his or her investigation of, the objection and issue any directions to the registrar concerned in relation to the matter that he or she considers necessary.
 
-(11) An objection on the ground that the marriage would be void by virtue of the Marriage of Lunatics Act 1811 shall be accompanied by a certificate of a registered medical practitioner supporting the objection.
+(11) An objection on the ground that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to consent to the marriage shall be accompanied by—
+
+(a) a copy of a declaration by the Circuit Court under section 37(1) of the Assisted Decision-Making (Capacity) Act 2015 that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to make a decision to consent to being married,
+
+(b) a copy of a declaration by the Circuit Court under section 37(1) of the Assisted Decision-Making (Capacity) Act 2015 that one of the parties to the proposed marriage lacks, or both of the parties to the proposed marriage lack, the capacity to make the class of decisions specified in the declaration where the decision to consent to being married is a decision which falls within that class of decisions, or
+
+(c) a copy of an application made under Part 5 of the Assisted Decision-Making (Capacity) Act 2015 (accompanied by a copy of a related interim order of the Circuit Court under that Part) to the Circuit Court by the person making the objection where the application relates (whether in whole or in part) to the capacity of one of the parties, or both of the parties, to the proposed marriage to make a decision to consent to being married.
+
+(12) Without prejudice to section 141 of the Assisted Decision-Making (Capacity) Act 2015, subsection (9) shall not apply to a decision referred to in that subsection to the extent that the decision relates to an objection referred to in subsection (11).
