@@ -24,6 +24,6 @@ Transfer of engagements between credit unions.
 
 (6) Where its engagements have been transferred, a credit union shall, by virtue of this subsection, be dissolved on the date specified in the certificate issued under subsection (5)(b); but the transfer effected by subsection (5) shall be deemed to have been effected immediately before the dissolution.
 
-(7) (a) Where the engagements of a credit union (in this subsection referred to as the ‘transferor credit union’) are transferred to another credit union (in this subsection referred to as the ‘transferee credit union’), the common bond of the transferee credit union is taken to include the common bond of the transferor credit union and the rules of the transferee credit union are amended accordingly, on and from the date on which the transfer takes effect in accordance with this section.
+(7) (a) Where the engagements of a credit union (in this subsection referred to as the "transferor credit union") are transferred to another credit union (in this subsection referred to as the "transferee credit union"), the common bond of the transferee credit union is taken to include the common bond of the transferor credit union and the rules of the transferee credit union are amended accordingly, on and from the date on which the transfer takes effect in accordance with this section.
 
 (b) Section 14 shall not apply to the amendment of the rules of the transferee credit union effected by paragraph (a).

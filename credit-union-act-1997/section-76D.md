@@ -1,6 +1,6 @@
 Compliance officer.
 
-76D.— (1) The board of directors of a credit union shall appoint a person (in this Act referred to as a ‘compliance officer’) with the necessary authority and resources to manage the compliance programme, as provided for by section 76B, within the credit union.
+76D.— (1) The board of directors of a credit union shall appoint a person (in this Act referred to as a "compliance officer") with the necessary authority and resources to manage the compliance programme, as provided for by section 76B, within the credit union.
 
 (2) Except where subsection (3)(a) applies or where otherwise prescribed by the Bank under subsection (3)(b), nothing in this section shall be read as preventing the appointment of a person as compliance officer of a credit union who—
 

@@ -50,7 +50,7 @@ General meetings during interim period.
 
 (11) In this section and sections 78B, 80, 80A and 82—
 
-‘attendee’, in relation to a general meeting of a credit union, means—
+"attendee", in relation to a general meeting of a credit union, means—
 
 (a) a member of the credit union,
 
@@ -62,6 +62,8 @@ General meetings during interim period.
 
 (e) the Bank by virtue of section 82(1), or (f) any other person entitled to attend the meeting by virtue of the provisions of this Act or the rules of the credit union;
 
-‘electronic communications technology’, in relation to a general meeting of a credit union, means technology that enables real time transmission and real time two-way audio-visual or audio communication enabling attendees as a whole with a reasonable opportunity to participate in the meeting using such technology from a remote location; ‘electronic platform’, in relation to a general meeting of a credit union, means an electronic system for the delivery of audio-visual or audio communication, including websites, access software and access telephone details or any other electronic technology that delivers such communication;
+"electronic communications technology", in relation to a general meeting of a credit union, means technology that enables real time transmission and real time two-way audio-visual or audio communication enabling attendees as a whole with a reasonable opportunity to participate in the meeting using such technology from a remote location;
 
-‘general meeting’, in relation to a credit union, includes a meeting that has been rescheduled.
+"electronic platform", in relation to a general meeting of a credit union, means an electronic system for the delivery of audio-visual or audio communication, including websites, access software and access telephone details or any other electronic technology that delivers such communication;
+
+"general meeting", in relation to a credit union, includes a meeting that has been rescheduled.

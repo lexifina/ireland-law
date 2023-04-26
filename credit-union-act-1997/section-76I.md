@@ -2,9 +2,9 @@ Business continuity plan.
 
 76I.— (1) In this section—
 
-‘business continuity’, in relation to the occurrence of one or more abnormal events which could cause a material interruption to the business of a credit union, means the continuation of its business during and after such an occurrence;
+"business continuity", in relation to the occurrence of one or more abnormal events which could cause a material interruption to the business of a credit union, means the continuation of its business during and after such an occurrence;
 
-‘business continuity plan’, in relation to a credit union, means the contingency arrangements put in place to ensure that its essential functions can continue during and after the occurrence of one or more abnormal events which could cause a material interruption to the business of the credit union.
+"business continuity plan", in relation to a credit union, means the contingency arrangements put in place to ensure that its essential functions can continue during and after the occurrence of one or more abnormal events which could cause a material interruption to the business of the credit union.
 
 (2) A credit union shall put in place a business continuity plan—
 

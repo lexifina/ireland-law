@@ -2,11 +2,11 @@ Supplemental provisions to sections 85 and 85A.
 
 85B.— (1) In this section—
 
-‘liquid assets’ has the meaning given by section 85 or 85A, as appropriate in the circumstances;
+"liquid assets" has the meaning given by section 85 or 85A, as appropriate in the circumstances;
 
-‘maturity mismatch’ has the meaning given by section 85A(1);
+"maturity mismatch" has the meaning given by section 85A(1);
 
-‘stress test’, in relation to a credit union, means the analysis of its cash flows under various headings and the placing of such cash flows in pre-determined time periods subject to specified conditions, including monetary limits where appropriate, to estimate the extent to which a credit union may have a maturity mismatch in respect of its assets and liabilities.
+"stress test", in relation to a credit union, means the analysis of its cash flows under various headings and the placing of such cash flows in pre-determined time periods subject to specified conditions, including monetary limits where appropriate, to estimate the extent to which a credit union may have a maturity mismatch in respect of its assets and liabilities.
 
 (2) (a) Pending the prescribing by the Bank of minimum liquidity requirements for the purposes of section 85A in respect of a category of credit unions, the liquidity requirements applicable to credit unions under section 85 shall continue to apply to such category of credit unions in respect of matters so prescribed.
 

@@ -1,3 +1,3 @@
-Functions of treasurer.
+Functions of treasurer. (Repealed)
 
 64.—...

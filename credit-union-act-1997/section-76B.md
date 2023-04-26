@@ -2,11 +2,11 @@ Risk management systems and systems and control.
 
 76B.— (1) In this section—
 
-‘compliance programme’, in relation to a credit union, means the policies, procedures, systems and plans the credit union puts in place to monitor compliance, on an ongoing basis, with its obligations including requirements under all legal and regulatory requirements;
+"compliance programme", in relation to a credit union, means the policies, procedures, systems and plans the credit union puts in place to monitor compliance, on an ongoing basis, with its obligations including requirements under all legal and regulatory requirements;
 
-‘risk management system’, in relation to a credit union, means the sum of those components that provide the basis (including organisational arrangements) for designing, implementing, monitoring, reviewing and continually improving risk management processes throughout the credit union;
+"risk management system", in relation to a credit union, means the sum of those components that provide the basis (including organisational arrangements) for designing, implementing, monitoring, reviewing and continually improving risk management processes throughout the credit union;
 
-‘systems and controls’, in relation to a credit union, means a set of arrangements designed to provide reasonable assurance regarding the achievement of objectives in relation to the effectiveness and efficiency of operations, reliability of financial reporting and compliance with all legal and regulatory requirements.
+"systems and controls", in relation to a credit union, means a set of arrangements designed to provide reasonable assurance regarding the achievement of objectives in relation to the effectiveness and efficiency of operations, reliability of financial reporting and compliance with all legal and regulatory requirements.
 
 (2) A credit union shall develop, implement, document and maintain a risk management system with such governance arrangements and systems and controls to allow it to identify, assess, measure, monitor, report and manage the risks which it is, or might reasonably be, exposed to.
 

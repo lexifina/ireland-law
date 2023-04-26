@@ -1,6 +1,6 @@
 Operational risk.
 
-76E.— (1) In this Act ‘operational risk’, in relation to a credit union, means the risk of loss (financial or otherwise) resulting from—
+76E.— (1) In this Act "operational risk", in relation to a credit union, means the risk of loss (financial or otherwise) resulting from—
 
 (a) inadequate or failed internal processes or systems of the credit union,
 

@@ -1,6 +1,6 @@
 Nomination Committee.
 
-56B.— (1) The board of directors of a credit union shall establish a committee (in this Act referred to as the ‘nomination Committee’) whose members shall be elected in accordance with subsection (13).
+56B.— (1) The board of directors of a credit union shall establish a committee (in this Act referred to as the "nomination Committee") whose members shall be elected in accordance with subsection (13).
 
 (2) The nomination committee shall comprise not less than 3 members and not more than 5 members.
 

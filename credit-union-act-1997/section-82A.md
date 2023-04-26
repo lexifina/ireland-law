@@ -6,7 +6,7 @@ Proxies.
 
 (3) Unless the rules of the credit union otherwise provide, a member of a credit union shall not be entitled to appoint more than one proxy to attend on the same occasion.
 
-(4) The instrument appointing a proxy (the ‘instrument of proxy’) shall be in the form provided for in the rules of a credit union and shall be in writing—
+(4) The instrument appointing a proxy (the "instrument of proxy") shall be in the form provided for in the rules of a credit union and shall be in writing—
 
 (a) under the hand of the appointer or of his or her attorney duly authorised in writing, or
 

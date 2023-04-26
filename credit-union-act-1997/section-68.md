@@ -1,6 +1,6 @@
 Limitation of remuneration.
 
-68.— (1) A credit union shall not pay any remuneration, directly or indirectly, to—
+68.—(1) A credit union shall not pay any remuneration, directly or indirectly, to—
 
 (a) a director of the credit union, or
 

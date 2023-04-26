@@ -1,18 +1,18 @@
 Internal audit.
 
-76K.— (1) The board of a credit union shall appoint a person (in this Act referred to as the ‘internal audit function’)—
+76K.— (1) The board of a credit union shall appoint a person (in this Act referred to as the "internal audit function")—
 
 (a) to provide for independent internal oversight, and
 
 (b) to evaluate and improve the effectiveness, of the credit union’s risk management, internal controls and governance processes.
 
-(2) The internal audit function shall prepare, implement and maintain a document (in this Act referred to as the ‘internal audit charter’) which, subject to subsection (4), shall define—
+(2) The internal audit function shall prepare, implement and maintain a document (in this Act referred to as the "internal audit charter") which, subject to subsection (4), shall define—
 
 (a) the activities of the internal audit function within the credit union, and
 
 (b) the scope of those activities, and, relevant to the performance of its audits, shall authorise the access by the internal audit function to records, personnel and physical properties of the credit union. The internal audit charter shall be reviewed and modified in accordance with section 55(8).
 
-(3) There shall be prepared by the internal audit function and approved by the board of a credit union or, where an audit committee exists for the credit union, by the audit committee with the agreement of that board, a written plan (in this Act referred to as an ‘internal audit plan’) detailing the scope and objectives of audits, setting priorities as regards areas to be audited and determine the necessary resources required to implement the plan. The internal audit plan shall be reviewed and modified in accordance with section 55(8).
+(3) There shall be prepared by the internal audit function and approved by the board of a credit union or, where an audit committee exists for the credit union, by the audit committee with the agreement of that board, a written plan (in this Act referred to as an "internal audit plan") detailing the scope and objectives of audits, setting priorities as regards areas to be audited and determine the necessary resources required to implement the plan. The internal audit plan shall be reviewed and modified in accordance with section 55(8).
 
 (4) The internal audit function shall be separate from other functions and activities of the credit union, and be capable of operating independently of management and without undue influence over its activities.
 

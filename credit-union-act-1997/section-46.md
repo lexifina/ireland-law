@@ -1,3 +1,3 @@
-Savings protection scheme.
+Savings protection scheme. (Repealed)
 
 46.—...

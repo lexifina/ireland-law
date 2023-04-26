@@ -1,3 +1,3 @@
-Supervisory Committee: supplemental provisions.
+Supervisory Committee: supplemental provisions. (Repealed)
 
 62.—...

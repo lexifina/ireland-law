@@ -16,9 +16,9 @@ Restrictions on withdrawal of shares and deposits.
 
 (d) In this subsection—
 
-‘attached savings’ means a share in, or deposit with, a credit union which is pledged in writing by a member as security for a loan at the time of the issuing of the loan to the member or guaranteed by the member;
+"attached savings" means a share in, or deposit with, a credit union which is pledged in writing by a member as security for a loan at the time of the issuing of the loan to the member or guaranteed by the member;
 
-‘savings’ means a share in, or deposit with, the credit union.
+"savings" means a share in, or deposit with, the credit union.
 
 (4) If the Bank sees fit to do so in the circumstances of a credit union, it may, on such terms as it thinks proper, by notice in writing addressed to the credit union provide that subsection (3) shall apply in relation to the credit union with the substitution of a higher or lower percentage than that for the time being applicable to the credit union under that subsection.
 

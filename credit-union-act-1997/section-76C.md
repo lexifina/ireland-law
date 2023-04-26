@@ -1,6 +1,6 @@
 Risk management officer.
 
-76C.— (1) The board of directors of a credit union shall appoint a person (in this Act referred to as a ‘risk management officer’) with the necessary authority and resources to manage the risk management function within the credit union.
+76C.— (1) The board of directors of a credit union shall appoint a person (in this Act referred to as a "risk management officer") with the necessary authority and resources to manage the risk management function within the credit union.
 
 (2) Except where subsection (3)(a) applies or where otherwise prescribed by the Bank under subsection (3)(b), nothing in this section shall be read as preventing the appointment of a person as risk management officer of a credit union who—
 

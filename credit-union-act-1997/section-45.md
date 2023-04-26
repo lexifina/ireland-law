@@ -2,9 +2,9 @@ Statutory reserve.
 
 45.— (1) In this section—
 
-‘assets’ means such assets as the Bank may from time to time specify for the purposes of this section;
+"assets" means such assets as the Bank may from time to time specify for the purposes of this section;
 
-‘regulatory reserve’ means a reserve that is a realised financial reserve which is—
+"regulatory reserve" means a reserve that is a realised financial reserve which is—
 
 (a) unrestricted and non-distributable,
 
@@ -12,7 +12,7 @@ Statutory reserve.
 
 (c) to be maintained by a credit union pursuant to this section;
 
-‘regulatory reserve requirement’ means the amount required to be held in the regulatory reserve of a credit union, expressed as a percentage of the assets of a credit union and prescribed by the Bank.
+"regulatory reserve requirement" means the amount required to be held in the regulatory reserve of a credit union, expressed as a percentage of the assets of a credit union and prescribed by the Bank.
 
 (2) A credit union shall maintain reserves that are adequate having regard to the nature, scale, complexity and risk profile of its business.
 

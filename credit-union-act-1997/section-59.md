@@ -1,3 +1,3 @@
-Supervisory Committee: procedural provisions.
+Supervisory Committee: procedural provisions. (Repealed)
 
 59.—...

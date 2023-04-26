@@ -1,3 +1,3 @@
-Supervisory Committee: removal from office.
+Supervisory Committee: removal from office. (Repealed)
 
 61.—...

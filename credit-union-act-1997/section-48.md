@@ -4,7 +4,7 @@ Power to provide additional services.
 
 48.—(1) Subject to the following provisions of this Part, a credit union may provide, as principal or agent, additional services of a description that appears to the credit union and to the Bank, to be of mutual benefit to its members.
 
-(2) In this section and the following provisions of this Part ‘additional services’, in relation to a credit union, means any services other than those—
+(2) In this section and the following provisions of this Part "additional services", in relation to a credit union, means any services other than those—
 
 (a) for which provision is made by the preceding provisions of this Part, or
 

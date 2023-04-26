@@ -1,6 +1,6 @@
 Outsourcing.
 
-76J.— (1) Subject to the other provisions of this section, a credit union may by an agreement in writing entered into with any person (in this section referred to as a ‘service provider’) and upon such terms and conditions as may be specified in the agreement, provide for the performance by that person, subject to such terms and conditions (if any) as may be so specified, of such process, service or activity (in this section referred to as ‘outsourced activities’) of the credit union as may be so specified.
+76J.— (1) Subject to the other provisions of this section, a credit union may by an agreement in writing entered into with any person (in this section referred to as a "service provider") and upon such terms and conditions as may be specified in the agreement, provide for the performance by that person, subject to such terms and conditions (if any) as may be so specified, of such process, service or activity (in this section referred to as "outsourced activities") of the credit union as may be so specified.
 
 (2) The respective rights and obligations of the credit union and of the service provider shall be clearly allocated and set out in a written agreement.
 
@@ -82,7 +82,7 @@ Outsourcing.
 
 (ii) of any material development affecting the service provider and his or her ability to fulfil its obligations.
 
-(b) In this subsection and subsection (12) ‘material business activity’ means an activity where a defect or failure inits performance would materially impair—
+(b) In this subsection and subsection (12) "material business activity" means an activity where a defect or failure inits performance would materially impair—
 
 (i) the continuing compliance with the conditions and obligations of its registration or its other obligations under the financial services legislation,
 

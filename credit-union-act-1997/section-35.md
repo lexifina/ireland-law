@@ -2,13 +2,13 @@
 
 Making of loans.
 
-35.— (1) (a) In this section ‘large exposure’, in relation to loans of a credit union to a borrower or a group of borrowers who are connected, means the total exposure (including contingent liabilities) of the credit union where the total exposure to such borrower or group of borrowers would be greater than an amount (whether expressed as a monetary amount or as a percentage of some monetary amount or determinable monetary amount) prescribed by the Bank.
+35.— (1) (a) In this section "large exposure", in relation to loans of a credit union to a borrower or a group of borrowers who are connected, means the total exposure (including contingent liabilities) of the credit union where the total exposure to such borrower or group of borrowers would be greater than an amount (whether expressed as a monetary amount or as a percentage of some monetary amount or determinable monetary amount) prescribed by the Bank.
 
 (b) For the purposes of this subsection—
 
-‘control’ has the meaning assigned to it by section 432 of the Taxes Consolidation Act 1997 and the other relevant provisions of Part 13 of that Act;
+"control" has the meaning assigned to it by section 432 of the Taxes Consolidation Act 1997 and the other relevant provisions of Part 13 of that Act;
 
-‘group of borrowers who are connected’ means 2 or more persons—
+"group of borrowers who are connected" means 2 or more persons—
 
 (i) who, unless it is shown otherwise, constitute a single risk because one of them, directly or indirectly, has control over the other person or persons (not being individuals); or
 

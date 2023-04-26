@@ -1,3 +1,3 @@
-Functions of Supervisory Committee.
+Functions of Supervisory Committee. (Repealed)
 
 60.—...

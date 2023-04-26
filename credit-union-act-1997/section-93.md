@@ -4,7 +4,7 @@ Provisions supplementary to investigations under section 92.
 
 (a) any reference to the inspector, the credit union or the other body shall be construed accordingly; and
 
-(b) ‘agent’ has the same meaning as in section 21 of the Central Bank (Supervision and Enforcement) Act 2013.
+(b) "agent" has the same meaning as in section 21 of the Central Bank (Supervision and Enforcement) Act 2013.
 
 (2) It shall be the duty—
 
