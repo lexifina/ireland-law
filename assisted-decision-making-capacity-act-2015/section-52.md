@@ -12,11 +12,11 @@ Amendment of Act of 1995
 
 (i) in paragraph (a), by substituting “has already been given,” for “has already been given, and”,
 
-(ii) in paragraph (b), by substituting “section 28(9)(c), and” for “section 28(9)(c).”, and
+(ii) in paragraph (b), by substituting “section 28(9)(c), ...” for “section 28(9)(c).”, and
 
 (iii) by inserting, after paragraph (b), the following:
 
-“(c) a party to an application under Part 5 of the Assisted Decision- Making (Capacity) Act 2015 shall qualify for legal advice.”,
+“(c) a party to an application under Part 5 of the Assisted Decision- Making (Capacity) Act 2015 shall qualify for legal advice, and”,
 
 (c) in section 28 by inserting after subsection (3) the following:
 

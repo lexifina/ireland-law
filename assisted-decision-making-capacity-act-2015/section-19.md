@@ -38,7 +38,7 @@ Performance of functions of co-decision-maker
 
 (a) shall acquiesce with the wishes of the appointer in respect of the relevant decision, and
 
-(b) shall not refuse to sign a document referred to in section 23(3), unless it is reasonably fores eeable that such acquiescence or signature, as the case may be, will result in serious harm to the appointer or to another person.
+(b) shall not refuse to sign a document referred to in section 23(3), unless it is reasonably foreseeable that such acquiescence or signature, as the case may be, will result in serious harm to the appointer or to another person.
 
 (6) A co-decision-maker shall not have authority to make decisions jointly with a relevant person other than the relevant decisions specified in the co-decision-making agreement.
 

@@ -1,5 +1,3 @@
-## CHAPTER 3 Declarations as to capacity, etc., and matters following declarations
-
 Power of court to make declarations as to capacity, etc.
 
 37. (1) The court, on application to it by a person entitled by virtue of section 36 to make the application, may make one or both of the following declarations:
@@ -17,3 +15,5 @@ Power of court to make declarations as to capacity, etc.
 (a) the intervener is the court or High Court, or
 
 (b) the intervention is being taken pursuant to an order made, or a direction given, under this Act by the court or High Court.
+
+## CHAPTER 4 Decisions by court or decision-making representative appointed by court

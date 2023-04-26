@@ -5,3 +5,5 @@
 Application of this Part
 
 35. This Part shall not apply to relevant persons who have not attained the age of 18 years.
+
+## CHAPTER 2 Applications under this Part
