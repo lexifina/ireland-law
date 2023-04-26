@@ -12,14 +12,6 @@ Mental Health Tribunals.
 
 (c) one shall be a person other than a person referred to in paragraphs (a) or (b) or a registered medical practitioner or a registered nurse.
 
-(3A) Notwithstanding subsections (2) and (3), where it appears to the Commission that, due to the exigencies of the public health emergency, a tribunal cannot be appointed in accordance with those subsections, it may appoint a tribunal consisting of one member who shall be a practising barrister or solicitor who has had not less than 7 years’ experience as a practising barrister or solicitor ending immediately before such appointment.
-
-(3B) Where subsection (3A) applies—
-
-(a) subsection (4) shall not have effect, and
-
-(b) the reference in subsection (8) to each member of the tribunal shall be construed as a reference to the member of the tribunal.
-
 (4) At a sitting of a tribunal, each member of the tribunal shall have a vote and every question shall be determined by a majority of the votes of the members.
 
 (5) A member of the Commission shall be disqualified for membership of a tribunal.

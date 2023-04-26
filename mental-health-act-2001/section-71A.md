@@ -1,4 +1,4 @@
-F52[ Removal of persons and bringing back of patients to approved centres by authorised persons or by relevant persons.
+F40[Removal of persons and bringing back of patients to approved centres by authorised persons or by relevant persons.
 
 71A.— (1) The registered proprietor of an approved centre may enter into an arrangement with a person for the purposes of arranging for persons who are members of the staff of that person to provide services relating to—
 
@@ -16,7 +16,7 @@ F52[ Removal of persons and bringing back of patients to approved centres by aut
 
 (5) In this section—
 
-‘relevant person’—
+"relevant person"—
 
 (a) in relation to a removal referred to in subsection (3) of a person to an approved centre, means a person who carried out (whether in whole or in part) such removal pursuant to an arrangement entered into by the registered proprietor of that centre,
 
