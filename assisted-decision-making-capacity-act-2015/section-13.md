@@ -46,7 +46,7 @@ Disqualification as decision-making assistant
 
 (ii) a person residing with, or an employee or agent of, such owner or registered provider, as the case may be, unless the decision-making assistant is a spouse, civil partner, cohabitant, parent, child or sibling of the appointer,
 
-(g) the decision-making assistant is convicted of an offence under section 34, 80, 90 or 145, or
+(g) the decision-making assistant is convicted of an offence under section 15A, 34, 80, 90 or 145, or
 
 (h) the decision-making assistant—
 
@@ -54,7 +54,7 @@ Disqualification as decision-making assistant
 
 (ii) enters into a co-decision-making agreement as a relevant person,
 
-(iii) has an enduring power of attorney or enduring power under the Act of 1996 registered in respect of himself or herself, or
+(iii) has an enduring power of attorney that is the subject of a notification that has been accepted by the Director under section 71C, or an enduring power under the Act of 1996 that has been registered, in respect of himself or herself, or
 
 (iv) becomes the subject of a declaration under section 37(1), the decision-making assistant shall be disqualified from being a decision-making assistant for the appointer with effect from the date on which the decision-making assistant falls within any of paragraphs (a) to (h).
 

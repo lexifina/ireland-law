@@ -1,8 +1,8 @@
 Revocation and variation of enduring power
 
-73. (1) An enduring power of attorney may be varied or revoked by the donor, where the instrument creating the enduring power of attorney has not been registered and where the donor has capacity to make the variation or revocation, as the case may be.
+73. (1) An enduring power of attorney that has been registered under section 69 may be varied or revoked by the donor where the instrument creating the enduring power of attorney has not been the subject of a notification under section 71A that has been accepted by the Director under section 71C.
 
-(2) A variation or revocation under subsection (1) shall be done in such form as shall be prescribed.
+(2) A variation or revocation under subsection (1) shall be done in such form as shall be specified by the Director under section 79A.
 
 (3) Subject to section 60(3), a revocation or variation of an enduring power of attorney shall be signed by the donor and his or her signature shall be acknowledged by 2 witnesses and section 60(4) shall apply with the necessary modifications.
 
@@ -16,16 +16,20 @@ Revocation and variation of enduring power
 
 (ii) has no reason to believe that the variation or revocation, as the case may be, is the result of fraud, coercion or undue pressure on the donor;
 
-(c) by a registered medical practitioner that in his or her opinion, at the time of the variation or revocation, as the case may be, the donor had the capacity to understand the implication of the variation or revocation;
+(c) ...
 
-(d) by such other healthcare professional as shall be prescribed that in his or her opinion, at the time of the variation or revocation, as the case may be, the donor had the capacity to understand the implication of the variation or revocation; and
+(d) ...
 
-(e) by the attorney, that he or she is aware of the variation or revocation and undertakes to act accordingly.
+(e) by the attorney, in the case of a variation, that he or she is aware of the variation and undertakes to act accordingly.
 
-(5) Subject to subsection (6) a donor may, after an instrument creating an enduring power of attorney has been registered, revoke the enduring power where he or she has capacity to do so.
+(4A) The donor shall, as soon as practicable after the revocation of an enduring power of attorney, give notice to the attorney, in the form specified by the Director under section 79A, of the revocation.
 
-(6) A revocation referred to in subsection (5) is not valid unless an application is made to the court and the court is satisfied that—
+(4B) A variation of an enduring power of attorney may be made—
 
-(a) the donor has done whatever is necessary in law to effect an express revocation of the enduring power of attorney and had capacity at the time of the purported revocation, and
+(a) subject to paragraph (b), at any time after the expiry of 6 months from the date of the registration of the instrument creating the enduring power under section 69, and
 
-(b) the donor has given notice to the attorney of the revocation.
+(b) where more than one variation is made, at intervals of at least 12 months from the date of the previous variation, unless an earlier variation in the case of paragraph (a), or variation at more frequent intervals in the case of paragraph (b), is agreed by the Director.
+
+(5) ...
+
+(6) ...

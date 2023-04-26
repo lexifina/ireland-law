@@ -14,9 +14,9 @@ Review of co-decision-making agreements
 
 (e) the matters provided for in subparagraphs (ii) and (iii) of section 21(4)(f) continue to apply.
 
-(3) In order to determine whether the matters provided for in subparagraphs (ii) and (iii) of section 21(4)(f) continue to apply, the Director shall require statements to that effect to be submitted to him or her by—
+(3) In order to determine whether the matters provided for in subparagraphs (ii) and (iii) of section 21(4)(f) continue to apply, the Director shall require a statement to that effect to be submitted to him or her by—
 
-(a) the same registered medical practitioner who provided the original statement under section 21(4)(f) or, where that practitioner is not reasonably available, another registered medical practitioner, and
+(a) the same registered medical practitioner who provided the original statement under section 21(4)(f) or, where that practitioner is not reasonably available, another registered medical practitioner, or
 
 (b) the same healthcare professional who provided the original statement under section 21(4)(f) or, where that professional is not reasonably available, another healthcare professional of the class prescribed by regulations made under section 31.
 

@@ -30,18 +30,12 @@ Validity and applicability of advance healthcare directive
 
 (b) if, after the healthcare professional has complied with paragraph (a), the ambiguity still has not been resolved, the healthcare professional shall resolve the ambiguity in favour of the preservation of the directive-maker’s life.
 
-(6) (a) Where a directive-maker lacks capacity and is pregnant, but her advance healthcare directive does not specifically state whether or not she intended a specific refusal of treatment set out in the directive to apply if she were pregnant, and it is considered by the healthcare professional concerned that complying with the refusal of treatment would have a deleterious effect on the unborn, there shall be a presumption that treatment shall be provided or continued.
+(6) ...
 
-(b) Where a directive-maker lacks capacity and is pregnant and her advance healthcare directive sets out a specific refusal of treatment that is to apply even if she were pregnant, and it is considered by the healthcare professional concerned that the refusal of treatment would have a deleterious effect on the unborn, an application shall be made to the High Court to determine whether or not the refusal of treatment should apply.
+(7) (a) Subject to subsections (1) to (5) and paragraph (b), an advance healthcare directive shall, insofar as provided for by this Part, be complied with unless, at the time when it is proposed to treat the directive-maker—
 
-(c) In determining an application under paragraph (b), the High Court shall have regard to the following:
+(i) his or her treatment is regulated by Part 4 of the Act of 2001, other than where he or she is detained under that Act on the grounds that he or she is suffering from a mental disorder within the meaning of section 3(1)(b) of that Act, or
 
-(i) the potential impact of the refusal of treatment on the unborn;
-
-(ii) if the treatment that is refused were given to the directive-maker, the invasiveness and duration of the treatment and the risk of harm to the directive-maker;
-
-(iii) any other matter which the High Court considers relevant to the application.
-
-(7) (a) Subject to subsections (1) to (6) and paragraph (b), an advance healthcare directive shall be complied with unless, at the time when it is proposed to treat the directive-maker, his or her treatment is regulated by Part 4 of the Mental Health Act 2001 or he or she is the subject of a conditional discharge order under section 13A (inserted by section 8 of the Criminal Law (Insanity) Act 2010) of the Criminal Law (Insanity) Act 2006.
+(ii) he or she is the subject of a conditional discharge order under section 13A of the Criminal Law (Insanity) Act 2006, and sections 56, 57, 59 and 60 of the Act of 2001 shall be construed accordingly.
 
 (b) Notwithstanding paragraph (a), where a refusal of treatment set out in an advance healthcare directive by a directive-maker relates to the treatment of a physical illness not related to the amelioration of a mental disorder of the directive-maker, the refusal shall be complied with.

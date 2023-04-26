@@ -1,5 +1,3 @@
-## CHAPTER 4 Decisions by court or decision-making representative appointed by court
-
 Power of court to make orders and appoint decision-making representative, etc.
 
 38. (1) This section applies where—
@@ -75,6 +73,12 @@ Power of court to make orders and appoint decision-making representative, etc.
 (c) the attachment of conditions relating to the making of any relevant decision by a decision-making representative or the exercise of any power by a decision-making representative in his or her capacity as a decision-making representative, and
 
 (d) the period of time for which the order is to have effect.
+
+(8A) Notwithstanding subsection (2)(b), the court, in making a decision-making representation order in the circumstances where subsection (1)(a) or section 55(4) applies, shall—
+
+(a) in attaching any conditions under subsection (8)(c), take into account the application of section 41(3) to the decision-making representative, and
+
+(b) make provision for the decision-making representation order to cease to have effect on the date of registration of a co-decision-making agreement in relation to the relevant person under Part 4.
 
 (9) In making a decision-making representation order, the court shall, in so far as the order relates to the conferral of powers referred to in subsection (8)(a), ensure that the powers conferred are as limited in scope and duration as is necessary in the circumstances having regard to the interests of the relevant person the subject of the order.
 

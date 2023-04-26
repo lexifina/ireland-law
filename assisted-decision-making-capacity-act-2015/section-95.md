@@ -22,11 +22,13 @@ Functions of Director
 
 (j) to establish a website on the internet or provide, or arrange for the provision of, other electronic means by which to disseminate information to members of the public relevant to the performance of the Director’s functions and which will, in the opinion of the Director, assist members of the public to understand the operation of this Act and the Director’s role in relation thereto;
 
+(ja) to make recommendations to the Minister for Health on any matter relating to the operation of Part 8;
+
 (k) to make recommendations to the Minister on any matter relating to the operation of this Act.
 
 (2) The Director shall have all such powers as are necessary or expedient for, or incidental to, the performance of his or her functions.
 
-(3) The Director, with the consent of the Minister, may, and if directed by the Minister to do so and in accordance with the terms of the direction, shall prescribe by regulations the fees to be paid to him or her and when they fall due in respect of—
+(3) Save where the Minister is empowered under this Act to prescribe fees by regulations, the Director, with the consent of the Minister, may, and if directed by the Minister to do so and in accordance with the terms of the direction, shall specify the fees to be paid to him or her and when they fall due in respect of—
 
 (a) the performance of functions,
 
@@ -34,6 +36,10 @@ Functions of Director
 
 (c) the provision of information and guidance, by him or her under the Act.
 
-(4) Without prejudice to the generality of subsection (3), the Director’s power under that subsection to prescribe fees includes the power to provide for exemptions from the payment of fees, in different circumstances or classes of circumstances or in different cases or classes of cases.
+(4) Without prejudice to the generality of subsection (3), the Director’s power under that subsection to specify fees includes the power to provide for exemptions from the payment of fees, in different circumstances or classes of circumstances or in different cases or classes of cases.
 
-(5) In carrying out his or her functions, the Director may consult with any person who has any functions in relation to the care or treatment of a relevant person.
+(5) In carrying out his or her functions, the Director may—
+
+(a) consult with any person who has any functions in relation to the care or treatment of a relevant person, and
+
+(b) request information relating to the carrying out of functions under this Act from decision-making assistants, co-decision-makers, decision-making representatives, attorneys, designated healthcare representatives or relevant persons.

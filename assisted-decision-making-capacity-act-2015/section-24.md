@@ -2,7 +2,7 @@ Objections to registration
 
 24. (1) Any of the persons referred to in section 21(3) may, not later than 5 weeks from the date on which notice is given in accordance with that provision, notify the Director that he or she objects to the proposed registration.
 
-(2) An objection shall be in such form and shall be accompanied by such fee as shall be prescribed by regulations made under section 31 and may be made on one or more of the following grounds:
+(2) An objection shall be in such form as shall be specified under section 31A and shall be accompanied by such fee as shall be prescribed by regulations made under section 31 and may be made on one or more of the following grounds:
 
 (a) that the co-decision-making agreement was not signed or witnessed in accordance with section 17;
 
@@ -28,24 +28,26 @@ Objections to registration
 
 (c) consult with such other persons as he or she considers relevant, and shall—
 
-(i) where he or she is of the view that the objection is not well founded, notify the person who made the objection of his or her view, provide reasons for that view and proceed, subject to section 22(1), to register the co-decision-making agreement concerned, or
+(i) where he or she is of the view that the objection is not well founded, notify the appointer, the co-decision-maker and the person who made the objection of his or her view, provide reasons for that view and proceed, subject to section 22(1), to register the co-decision-making agreement concerned, or
 
-(ii) where he or she is of the view that the objection is well founded, notify the person who made the objection of his or her view and make an application to the court for a determination as to whether or not the co-decision-making agreement concerned should be registered.
+(ii) where he or she is of the view that the objection is well founded, notify the appointer, the co-decision-maker and the person who made the objection of his or her decision and refuse to register the co-decision-making agreement.
 
-(4) The court, pursuant to an application made to it under subsection (3)(ii), may—
+(4) ...
 
-(a) require the Director to register the co-decision-making agreement,
-
-(b) declare that the co-decision-making agreement concerned should not be registered, or
-
-(c) make such other declaration or order as it considers appropriate.
-
-(5) A person who makes an objection under subsection (1) may, not later than 21 days after the date of issue of the notification by the Director under subsection (3)(i), appeal a decision to register the co-decision-making agreement concerned to the court.
+(5) A person who has been notified under subsection (3) of the Director’s decision may, not later than 21 days after the date of issue of the notification by the Director, appeal the decision concerned to the court.
 
 (6) Upon appeal under subsection (5), the court may—
 
-(a) require the Director to remove the co-decision-making agreement concerned from the Register,
+(a) where the Director has made a decision to which subsection (3)(i) refers—
 
-(b) affirm the decision of the Director, or
+(i) declare that the objection is well founded and require the Director to remove the co-decision-making agreement concerned from the Register, or
+
+(ii) affirm the decision of the Director,
+
+(b) where the Director has made a decision to which subsection (3)(ii) refers—
+
+(i) declare that the objection is not well founded and require the Director to proceed to consider, in accordance with section 22, whether the co-decision-making agreement should be registered, taking the court’s declaration into account, or
+
+(ii) affirm the decision of the Director and declare that the co-decision-making agreement should not be registered, or
 
 (c) make such other declaration or order as it considers appropriate.

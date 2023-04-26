@@ -2,9 +2,9 @@ Persons who are not eligible to be attorneys
 
 65. (1) A person shall not be eligible for appointment as an attorney under an enduring power of attorney if he or she—
 
-(a) has been convicted of an offence in relation to the person or property of the person who intends to appoint an attorney,
+(a) has been convicted of an offence in relation to the person or property of the person who intends to appoint an attorney, or the person or property of a child of that person,
 
-(b) has been the subject of a safety or barring order in relation to the person who intends to appoint an attorney,
+(b) has been the subject of a safety or barring order in relation to the person who intends to appoint an attorney, or a child of that person,
 
 (c) is an undischarged bankrupt or is currently in a debt settlement arrangement or personal insolvency arrangement or has been convicted of an offence involving fraud or dishonesty,
 
@@ -18,6 +18,6 @@ Persons who are not eligible to be attorneys
 
 (ii) residing with, or an employee or agent of, such owner or registered provider, unless the person is a spouse, civil partner, cohabitant, parent, child or sibling of the intending donor, or
 
-(g) has been convicted of an offence under section 34, 80, 90 or 145.
+(g) has been convicted of an offence under section 15A, 34, 80, 90 or 145.
 
 (2) Subsection (1)(c), (d) and (e) shall not apply where it is proposed to confer authority only in relation to personal welfare matters.

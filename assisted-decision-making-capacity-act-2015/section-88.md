@@ -22,7 +22,11 @@ Functions and scope of authority of designated healthcare representatives
 
 (4) (a) The Director shall receive and consider complaints and allegations in relation to the way in which a designated healthcare representative is exercising his or her relevant powers.
 
-(b) The Director shall review any complaint referred to in paragraph (a) and, if satisfied that the complaint has substance, shall conduct an investigation into the matter.
+(b) The Director—
+
+(i) shall review any complaint referred to in paragraph (a) and shall, if satisfied that the complaint has substance, conduct an investigation into the matter, or
+
+(ii) may, notwithstanding that no complaint has been received, on his or her own initiative conduct an investigation in relation to the way in which a designated healthcare representative is exercising his or her relevant powers.
 
 (c) The Director may, following the completion of an investigation under paragraph (b), decide to, as appropriate—
 

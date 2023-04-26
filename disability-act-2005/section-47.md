@@ -24,7 +24,13 @@ Employment in public service.
 
 (iv) that the public body concerned shall offer a specified number of work experience placements of specified duration to persons with disabilities each year.
 
-(4) If no compliance targets stand prescribed under subsection (3) in relation to a public body, the body shall ensure, unless there is good reason to the contrary for not doing so, that not less than 3 per cent of the persons employed by it are persons with disabilities.
+(4) If no compliance targets stand prescribed under subsection (3) in relation to a public body, the body shall ensure, unless there is good reason to the contrary, that—
+
+(a) for the period from the date of commencement of section 101(b) of the Assisted Decision-Making (Capacity) (Amendment) Act 2022 up to and including 31 December 2023, not less than 3 per cent of the persons employed by it are persons with disabilities,
+
+(b) for the period from 1 January 2024 up to and including 31 December 2024, not less than 4.5 per cent of the persons employed by it are persons with disabilities, and
+
+(c) on and from 1 January 2025, not less than 6 per cent of the persons employed by it are persons with disabilities.
 
 (5) An order under subsection (3) may relate to all public bodies, or specified public bodies, that are accountable to the relevant Minister who makes the order.
 

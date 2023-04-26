@@ -56,7 +56,7 @@ Nullity
 
 (ii) a person residing with, or an employee or agent of, such owner or registered provider, as the case may be, unless the co-decision-maker is the spouse, civil partner, cohabitant, parent, child or sibling of the appointer,
 
-(g) the co-decision-maker is convicted of an offence under section 34, 80, 90 or 145,
+(g) the co-decision-maker is convicted of an offence under section 15A, 34, 80, 90 or 145,
 
 (h) the co-decision-maker—
 
@@ -64,7 +64,7 @@ Nullity
 
 (ii) enters into a co-decision-making agreement as a relevant person,
 
-(iii) has an enduring power of attorney or enduring power under the Act of 1996 registered in respect of himself or herself, or
+(iii) has an enduring power of attorney that is the subject of a notification that has been accepted by the Director under section 71C, or an enduring power under the Act of 1996 that has been registered, in respect of himself or herself, or
 
 (iv) becomes the subject of a declaration under section 37(1), or
 

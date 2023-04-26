@@ -6,6 +6,8 @@ Review of detention orders in certain circumstances (approved centres)
 
 (3) Before the period referred to in subsection (2), or such other period as may be determined by the wardship court, expires, the wardship court shall review the continued detention of the person concerned in the approved centre and, if satisfied that the person concerned is suffering from a mental disorder, may direct that the person concerned shall continue to be detained in that centre or such other approved centre as may be determined by the wardship court having obtained the views of the clinical director of that other centre.
 
+(3A) A person detained pursuant to a direction made under subsection (3) for a period exceeding 3 months (in this subsection referred to as a "renewal period") or his or her committee or legal representative, may, after a period of 3 months has expired from the date the direction was made but before the expiry of the renewal period, make an application to have the person’s detention reviewed by the wardship court under subsection (3) and no more than one such application may be made in each renewal period.
+
 (4) Where the wardship court determines that the person concerned is no longer suffering from a mental disorder, it shall order the discharge of the person concerned from detention.
 
 (5) The wardship court, when reviewing a detention order, shall hear evidence from the consultant psychiatrist responsible for the care or treatment of the person concerned and from an independent consultant psychiatrist selected by the wardship court.

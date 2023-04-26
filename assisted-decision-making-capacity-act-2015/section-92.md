@@ -26,13 +26,13 @@ Persons who may make applications to relevant court under this Part, etc.
 
 (g) a decision-making representative for the directive-maker,
 
-(h) an attorney for the directive-maker,
+(h) an attorney or an attorney under the Act of 1996 for the directive-maker,
 
 (i) a designated healthcare representative for the directive-maker, or
 
 (j) a person specified for that purpose in an existing order of the court under this Part where the application relates to that order.
 
-(4) An application to the relevant court under this Part (including an ex parte application under subsection (2) ) shall state—
+(4) An application to the relevant court under this Part (including an ex parte application under subsection (2)) shall state—
 
 (a) the applicant’s connection with the directive-maker,
 

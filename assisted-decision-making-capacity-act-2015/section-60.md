@@ -8,19 +8,23 @@ Content of instrument creating an enduring power of attorney
 
 (ii) intends the power to be effective at any subsequent time when he or she lacks capacity in relation to one or more relevant decisions which are the subject of the power, and
 
-(iii) is aware that he or she may vary or revoke the power prior to its registration;
+(iii) is aware that he or she may vary or revoke the power prior to its registration, and on or after its registration until the attorney notifies the Director under section 71A that the donor lacks capacity in relation to one or more of the relevant decisions which are the subject of the power of attorney and this notification has been accepted by the Director under section 71C;
 
 (b) by a legal practitioner that, after interviewing the donor and making any necessary enquiries, he or she—
 
 (i) is satisfied that the donor understands the implications of creating the power,
 
-(ii) is satisfied that the donor is aware that he or she may vary or revoke the power prior to its registration, and
+(ii) is satisfied that the donor is aware that he or she may vary or revoke the power prior to its registration, and on or after its registration until the attorney notifies the Director under section 71A that the donor lacks capacity in relation to one or more of the relevant decisions which are the subject of the power of attorney and this notification has been accepted by the Director under section 71C, and
 
 (iii) has no reason to believe that the instrument is being executed by the donor as a result of fraud, coercion or undue pressure;
 
-(c) by a registered medical practitioner that in his or her opinion at the time the power was executed, the donor had the capacity to understand the implications of creating the power;
+(c) by—
 
-(d) by a healthcare professional of a class that shall be prescribed, that in his or her opinion at the time the power was executed, the donor had the capacity to understand the implications of creating the power; and
+(i) a registered medical practitioner that in his or her opinion at the time the power was executed, the donor had the capacity to understand the implications of creating the power, or
+
+(ii) a healthcare professional of a class that shall be prescribed, that in his or her opinion at the time the power was executed, the donor had the capacity to understand the implications of creating the power;
+
+(d) ...
 
 (e) by the attorney, that he or she—
 
@@ -32,7 +36,7 @@ Content of instrument creating an enduring power of attorney
 
 (iv) understands and undertakes to comply with the reporting obligations under section 75, and
 
-(v) understands the requirements in relation to registration of the power.
+(v) understands the requirements in relation to registration of the power, and in relation to notification of the Director under section 71A when the donor lacks capacity in relation to one or more of the relevant decisions which are the subject of the power.
 
 (2) An instrument creating an enduring power of attorney shall include the following:
 

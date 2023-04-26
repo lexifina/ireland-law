@@ -28,7 +28,7 @@ Definitions — Part 8
 
 (b) the powers (if any) conferred on the representative in accordance with section 88(1)(b);
 
-“treatment”, in relation to a person, means an intervention that is or may be done for a therapeutic, preventative, diagnostic, palliative or other purpose related to the physical or mental health of the person, and includes life-sustaining treatment;
+...
 
 “valid”, in relation to an advance healthcare directive, shall be construed in accordance with section 85;
 

@@ -4,7 +4,7 @@ Expert reports
 
 (2) For the purposes of an application referred to in subsection (1), the court may direct that such reports as the court considers necessary be furnished to it, including—
 
-(a) medical reports relating to the relevant person the subject of the application (including reports relating to the cognitive ability of that person),
+(a) medical reports relating to the relevant person the subject of the application ...,
 
 (b) reports relating to the circumstances of the relevant person (including financial reports and valuations of property in which the relevant person has an interest), and
 

@@ -46,7 +46,7 @@ Disqualification of attorney
 
 (ii) a person residing with, or an employee or agent of, a person referred to in sub paragraph (i), unless the person is a spouse, civil partner, cohabitant, parent, child or sibling of the intending donor,
 
-(g) the attorney is convicted of an offence under section 34, 80, 90 or 145,
+(g) the attorney is convicted of an offence under section 15A, 34, 80, 90 or 145,
 
 (h) the attorney—
 
@@ -54,7 +54,7 @@ Disqualification of attorney
 
 (ii) enters into a co-decision-making agreement as a relevant person,
 
-(iii) has an enduring power of attorney or an enduring power under the Act of 1996 registered in respect of himself or herself, or
+(iii) has executed as a donor an enduring power of attorney that has been the subject of a notification under section 71A that has been accepted by the Director under section 71C or has executed as a donor an enduring power under the Act of 1996 that has been registered under that Act,
 
 (iv) becomes the subject of a declaration under section 37(1), or
 

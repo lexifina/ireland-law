@@ -24,4 +24,4 @@ Role of courts
 
 (i) a serious deterioration in the health of the directive-maker, or
 
-(ii) if the directive-maker is a pregnant woman, a deleterious effect on the unborn.
+(ii) if the directive-maker is a pregnant woman, a deleterious effect on her pregnancy.

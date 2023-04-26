@@ -8,10 +8,10 @@ Staff of Director of the Decision Support Service
 
 (3) The Director may revoke a delegation made pursuant to subsection (2).
 
-(4) The Mental Health Commission shall appoint such number of persons to be members of the staff of the Director as may be approved by the Minister for Health with the consent of the Minister for Public Expenditure and Reform.
+(4) The Mental Health Commission shall appoint such number of persons to be members of the staff of the Director as may be approved by the Minister after consultation with the Minister for Health and with the consent of the Minister for Public Expenditure and Reform.
 
-(5) The numbers and grades of staff to be appointed under this section and the conditions (including those relating to remuneration and allowances) of their appointment shall be determined by the Mental Health Commission with the approval of the Minister for Health given with the consent of the Minister for Public Expenditure and Reform.
+(5) The numbers and grades of staff to be appointed under this section and the conditions (including those relating to remuneration and allowances) of their appointment shall be determined by the Mental Health Commission with the approval of the Minister after consultation with the Minister for Health and given with the consent of the Minister for Public Expenditure and Reform.
 
-(6) The Mental Health Commission may, from time to time, engage such specialist advisers as the Director may consider necessary to assist him or her in the discharge of his or her functions under this Act.
+(6) The Director may, from time to time, engage such specialist advisers as he or she may consider necessary to assist him or her in the discharge of his or her functions under this Act.
 
-(7) Any fees due to an adviser engaged under subsection (6) shall be subject to the prior agreement of the Minister for Health, given with the consent of the Minister for Public Expenditure and Reform, and shall form part of the expenses of the Mental Health Commission.
+(7) Any fees due to an adviser engaged under subsection (6) shall be subject to the prior agreement of the Minister, given with the consent of the Minister for Public Expenditure and Reform, and shall form part of the expenses of the Decision Support Service.

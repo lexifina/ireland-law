@@ -2,9 +2,9 @@ Application for registration of co-decision-making agreement
 
 21. (1) A co-decision-making agreement shall not enter into force until it has been registered in accordance with section 22.
 
-(2) An application to register a co-decision-making agreement shall be made not later than 5 weeks from the date the agreement was signed, in such form and accompanied by such fee as shall be prescribed by regulations made under section 31 and, subject to section 17(6), shall be signed by both the appointer and the co-decision-maker (in this section referred to as “the applicants”).
+(2) An application to register a co-decision-making agreement shall be made not later than 5 weeks from the date the agreement was signed, in such form as shall be specified under section 31A and accompanied by such fee as shall be prescribed by regulations made under section 31 and, subject to section 17(6), shall be signed by both the appointer and the co-decision-maker (in this section referred to as “the applicants”).
 
-(3) The applicants shall, at the same time as making an application to register a co-decision-making agreement under this section, jointly give notice, in such form as shall be prescribed by regulations made under section 31, of the application and give a copy of the co-decision-making agreement to the following persons:
+(3) The applicants shall, at the same time as making an application to register a co-decision-making agreement under this section, jointly give notice, in such form as shall be specified under section 31A, of the application and give a copy of the co-decision-making agreement to the following persons:
 
 (a) the spouse or civil partner (if any) of the appointer;
 
@@ -21,6 +21,24 @@ Application for registration of co-decision-making agreement
 (g) any designated healthcare representative for the appointer;
 
 (h) any co-decision-maker of the appointer under another co-decision-making agreement.
+
+(3A) Subsection (3)(a) shall not apply—
+
+(a) in relation to the spouse of an appointer, where, at the time at which the application is made under subsection (2)—
+
+(i) a decree of judicial separation has been granted to either the appointer or his or her spouse by a court in the State or any decree has been so granted by a court outside the State and is recognised in the State as having like effect,
+
+(ii) a written agreement to separate has been entered into between the appointer and his or her spouse, or
+
+(iii) subject to section 2(2), the appointer and his or her spouse have separated and have ceased to cohabit for a continuous period of 12 months, and
+
+(b) in relation to the civil partner of an appointer, where, at the time at which the application is made under subsection (2)—
+
+(i) a written agreement to separate has been entered into between the appointer and his or her civil partner, or
+
+(ii) subject to section 2(2), the civil partners have separated and have ceased to cohabit for a continuous period of not less than 12 months.
+
+(3B) Subject to section 2(2), subsection (3)(b) shall not apply in relation to the cohabitant of an appointer where, at the time at which the application is made under subsection (2), the appointer and his or her cohabitant have separated and have ceased to cohabit for a continuous period of not less than 12 months.
 
 (4) An application under subsection (2) shall be accompanied by the following:
 
@@ -52,7 +70,7 @@ Application for registration of co-decision-making agreement
 
 (e) details of any existing decision-making assistance agreement, co-decision-making agreement, decision-making order, decision-making representation order, power of attorney (whether an enduring power or otherwise and whether registered or not) or advance healthcare directive in respect of the appointer;
 
-(f) a statement by a registered medical practitioner and a statement by such other healthcare professional of a class as shall be prescribed by regulations made under section 31 that in their opinion—
+(f) a statement by a registered medical practitioner or a statement by such other healthcare professional of a class as shall be prescribed by regulations made under section 31 that in his or her opinion—
 
 (i) the appointer has capacity to make a decision to enter into the co-decision- making agreement,
 
@@ -60,7 +78,7 @@ Application for registration of co-decision-making agreement
 
 (iii) the appointer has capacity to make the relevant decisions specified in the co-decision-making agreement with the assistance of the co-decision-maker;
 
-(g) references, in such form as shall be prescribed by regulations made under section 31, by 2 persons as to the personal character of the co-decision-maker;
+(g) references, in such form as shall be specified under section 31A, by 2 persons as to the personal character of the co-decision-maker;
 
 (h) a copy of any notice given pursuant to subsection (3); and
 

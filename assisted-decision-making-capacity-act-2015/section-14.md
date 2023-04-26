@@ -4,7 +4,7 @@ Performance of functions of decision-making assistant
 
 (a) assist the appointer to obtain the appointer’s relevant information,
 
-(b) advise the appointer by explaining relevant information and considerations relating to a relevant decision,
+(b) assist the appointer by explaining relevant information and considerations relating to a relevant decision,
 
 (c) ascertain the will and preferences of the appointer on a matter the subject or to be the subject of a relevant decision and assist the appointer to communicate them,
 

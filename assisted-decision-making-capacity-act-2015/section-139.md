@@ -10,4 +10,6 @@ Application under Part 5, 7 or 8 to be heard in presence of relevant person or p
 
 (d) the relevant person is unwilling to attend.
 
+(1A) Subsection (1) shall, with all necessary modifications, apply to a review under Part 6 by the wardship court of the capacity of a ward as it applies to an application under Part 5, 7 or 8 to the court or High Court in respect of the relevant person the subject of the application.
+
 (2) Subsection (1) shall, with all necessary modifications, apply to a review under Part 10 by the wardship court of a detention order in respect of the person concerned (within the meaning of section 104) as it applies to an application under Part 5, 7 or 8 to the court or High Court in respect of the relevant person the subject of the application.

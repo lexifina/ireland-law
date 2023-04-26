@@ -4,15 +4,15 @@ Variation of co-decision-making agreement
 
 (2) Subject to section 17(6), a varied co-decision-making agreement shall include the signature of the appointer and the co-decision-maker (in this section referred to as “the applicants”) and shall be witnessed in accordance with section 17(7).
 
-(3) An application to register a varied co-decision-making agreement shall be made in such form and accompanied by such fee as shall be prescribed by regulations made under section 31 and, subject to section 17(6), shall be signed by both the appointer and the co-decision-maker.
+(3) An application to register a varied co-decision-making agreement shall be made in such form as shall be specified under section 31A and accompanied by such fee as shall be prescribed by regulations made under section 31 and, subject to section 17(6), shall be signed by both the appointer and the co-decision-maker.
 
-(4) The applicants shall, at the same time as making an application to register a varied co-decision-making agreement, give notice, in such form as shall be prescribed by regulations made under section 31, to the persons specified in section 21(3) and the application shall be accompanied by the following:
+(4) The applicants shall, at the same time as making an application to register a varied co-decision-making agreement, give notice, in such form as shall be specified under section 31A, to the persons specified in section 21(3) and the application shall be accompanied by the following:
 
 (a) the varied co-decision-making agreement;
 
 (b) a statement by the applicants outlining the variation and why it is considered necessary;
 
-(c) a statement by a registered medical practitioner and a statement by such other healthcare professional as shall be prescribed by regulations made under section 31 that in his or her opinion—
+(c) a statement by a registered medical practitioner or a statement by such other healthcare professional as shall be prescribed by regulations made under section 31 that in his or her opinion—
 
 (i) the appointer has capacity to vary the co-decision-making agreement,
 

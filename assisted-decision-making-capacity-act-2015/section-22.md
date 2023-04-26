@@ -38,4 +38,6 @@ Registration of co-decision-making agreement
 
 (6) Following the registration of a co-decision-making agreement, the Director shall send an authenticated copy of the agreement to the applicants.
 
-(7) A document purporting to be a copy of a co-decision-making agreement that has been authenticated by the Director shall be evidence of the contents of the agreement and the date upon which it was registered.
+(7) For the purposes of subsection (6), a document purporting to be a copy of a co-decision-making agreement that has been authenticated by the Director shall be evidence of the contents of the agreement and the date upon which it was registered.
+
+(8) Once the Director has registered or has refused to register under this section a co-decision-making agreement, the applicants concerned shall, as soon as practicable, give notice to the persons referred to in section 21(3) (other than those to whom subsections (3A) and (3B) of that section relate) of that registration or refusal, as the case may be, in the form specified under section 31A.

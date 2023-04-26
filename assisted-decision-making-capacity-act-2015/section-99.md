@@ -4,21 +4,23 @@ Special visitors and general visitors
 
 99. (1) The Director may, in accordance with this section, appoint a person to be a special visitor or general visitor.
 
-(2) A special visitor—
+(2) A special visitor shall be—
 
-(a) is a registered medical practitioner who has particular knowledge, expertise and experience as respects the capacity of persons, or
+(a) a registered medical practitioner who has particular knowledge, expertise and experience as respects the capacity of persons, or
 
-(b) is a person who, although not a registered medical practitioner, is, in the opinion of the Director, a person who has particular knowledge, expertise and experience as respects the capacity of persons.
+(b) a person who, although not a registered medical practitioner, is, in the opinion of the Director, a person who has particular knowledge, expertise and experience as respects the capacity of persons, who may assist the Director in performing his or her supervisory function referred to in section 95(1)(e), in performing his or her functions under section 96, or in undertaking assessments of capacity where the Director brings an application under Part 5 in relation to a declaration of capacity.
 
-(3) A general visitor is a person who, in the opinion of the Director, is a person who possesses relevant qualifications, or has other relevant expertise or experience, to assist the Director in performing his or her supervisory function referred to in section 95(1)(e).
+(3) A general visitor is a person who, in the opinion of the Director, is a person who possesses relevant qualifications, or has other relevant expertise or experience, to assist the Director in performing his or her supervisory function referred to in section 95(1)(e) and in performing his or her functions under section 96.
 
-(4) An appointment of a person as a special visitor or general visitor shall be made subject to such terms and conditions (including those relating to remuneration and allowances) as the Minister for Health, with the consent of the Minister for Public Expenditure and Reform, may determine.
+(4) An appointment of a person as a special visitor or general visitor shall be made subject to such terms and conditions (including those relating to remuneration and allowances) as the Minister, with the consent of the Minister for Public Expenditure and Reform, may determine.
 
 (5) The Director may direct a special visitor or general visitor to visit—
 
-(a) a decision-making assistant, co-decision-maker, decision-making representative, designated healthcare representative or attorney for a relevant person, or
+(a) a decision-making assistant, co-decision-maker, decision-making representative, designated healthcare representative or attorney for a relevant person,
 
-(b) a relevant person for whom there is a decision-making assistant, co-decision-maker, decision-making representative, designated healthcare representative or attorney, or in respect of whom an order has been made under section 48, and, subsequent to the visit, to submit to the Director a report on such matters concerning the person visited as the Director may specify in the direction.
+(b) a relevant person for whom there is a decision-making assistant, co-decision-maker, decision-making representative, designated healthcare representative or attorney, or in respect of whom an order has been made under section 48, or,
+
+(c) any other person specified in the direction (who may include a family member or a provider of a service) who the Director considers is necessary to visit to obtain further information about the relevant person, and, subsequent to the visit, to submit to the Director a report on such matters concerning the person visited as the Director may specify in the direction.
 
 (6) Subject to subsections (7) and (8), for the purposes of enabling the Director to perform his or her functions, he or she may direct a special visitor or general visitor to—
 

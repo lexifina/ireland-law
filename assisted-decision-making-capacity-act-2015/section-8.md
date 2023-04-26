@@ -40,9 +40,13 @@ Guiding principles
 
 (d) unless the intervener reasonably considers that it is not appropriate or practicable to do so, consider the views of—
 
-(i) any person named by the relevant person as a person to be consulted on the matter concerned or any similar matter, and
+(i) any person named by the relevant person as a person to be consulted on the matter concerned or any similar matter,
 
-(ii) any decision-making assistant, co-decision-maker, decision-making representative or attorney for the relevant person,
+(ii) any decision-making assistant, co-decision-maker, decision-making representative, attorney or attorney under the Act of 1996 for the relevant person,
+
+(iii) ...
+
+(iv) a designated healthcare representative within the meaning of Part 8 for the relevant person, where the intervention relates to treatment and an advance healthcare directive within the meaning of Part 8 is applicable,
 
 (e) act at all times in good faith and for the benefit of the relevant person, and
 

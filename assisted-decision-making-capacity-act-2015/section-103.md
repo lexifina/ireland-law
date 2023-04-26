@@ -16,7 +16,7 @@ Codes of practice
 
 (c) approve of a code of practice prepared by another body, whether or not pursuant to a request referred to in paragraph (b), for the purposes of one or more of the following:
 
-(i) the guidance of persons, including healthcare professionals, assessing whether a person lacks capacity in relation to any matter;
+(i) the guidance of persons, including healthcare professionals, on supporting decision-making by relevant persons and, where appropriate, assessing whether a person lacks capacity in relation to any matter;
 
 (ii) the guidance of decision-making assistants;
 
@@ -36,7 +36,13 @@ Codes of practice
 
 (x) the guidance of persons acting as advocates on behalf of relevant persons;
 
-(xi) the guidance of other persons (including healthcare, social care, legal and financial professionals) acting on behalf of relevant persons;
+(xa) the guidance of committees and any other persons assisting a ward in court;
+
+(xi) the guidance of other persons, including healthcare professionals, legal practitioners and financial service providers, in relation to their dealings with—
+
+(I) relevant persons, or
+
+(II) wards of court in relation to proceedings under Part 6;
 
 (xii) with respect to such other matters concerned with this Act as the Director thinks appropriate.
 
@@ -52,13 +58,13 @@ Codes of practice
 
 (e) representatives of professional bodies in the healthcare, social care, legal and financial sectors;
 
-(f ) representatives of healthcare, social care, legal and financial professionals.
+(f ) representatives of healthcare, social care, legal and financial professionals;
+
+(g) persons who have a disability within the meaning of section 2 (1) of the Disability Act 2005, their representative organisations, or any other persons with expertise in matters pertaining to disability.
 
 (4) The Director shall, before publishing a code of practice pursuant to his or her power under subsection (2)(a) or approving of a code of practice pursuant to his or her power under subsection (2)(c)—
 
-(a) make available, to the persons whom the Director considers appropriate having regard to the matters to which the code relates (which may be any of the persons who fall within paragraphs (a) to (d) of subsection
-
-(3) ), in such manner as the Director considers appropriate, a draft of the code,
+(a) make available, to the persons whom the Director considers appropriate having regard to the matters to which the code relates (which may be any of the persons who fall within paragraphs (a) to (d) of subsection (3) ), in such manner as the Director considers appropriate, a draft of the code,
 
 (b) invite the persons to whom he or she has made the draft available to make representations in writing on it to the Director within a period determined by the Director, being a period of not less than 30 days from the date of making the draft available to those persons,
 
@@ -68,7 +74,7 @@ Codes of practice
 
 (5) The Director shall not publish or approve of a code of practice under subsection (2) except with the consent of—
 
-(a) if the code does not relate to healthcare matters, the Minister after consultation with the Mental Health Commission and the Minister for Health, and
+(a) if the code does not relate to healthcare matters, the Minister after consultation with the Mental Health Commission ... and
 
 (b) if the code relates (whether in whole or in part) to healthcare matters, the Minister for Health after consultation with the Minister and the Mental Health Commission.
 

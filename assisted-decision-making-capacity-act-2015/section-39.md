@@ -18,6 +18,6 @@ Persons who are not eligible to be decision-making representatives
 
 (ii) residing with, or an employee or agent of, such owner or registered provider, as the case may be, unless the person is a spouse, civil partner, cohabitant, parent, child or sibling of the relevant person, or
 
-(g) has been convicted of an offence under section 34, 80, 90 or 145.
+(g) has been convicted of an offence under section 15A, 34, 80, 90 or 145.
 
 (2) Subsections (1)(c), (d) and (e) shall not apply as respects the appointment of a person as a decision-making representative in respect of relevant decisions concerning personal welfare matters only.

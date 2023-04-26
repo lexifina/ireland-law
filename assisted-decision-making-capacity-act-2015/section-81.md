@@ -1,6 +1,6 @@
 Transitional provisions
 
-81. (1) Subject to sections 76(2), 76(3), 76(4), 76(5), 76(6), 76(7) and 76(8), this Part shall not apply to—
+81. (1) Subject to subsections (2) to (8) of section 76, this Part shall not apply to—
 
 (a) an enduring power of attorney under the Act of 1996,
 

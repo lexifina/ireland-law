@@ -12,6 +12,6 @@ Interpretation — Part 7
 
 “prescribed” means prescribed by regulations made by the Minister under section 79;
 
-“trust corporation” has the meaning it has in section 30 of the Succession Act 1965 but shall not include a designated centre or mental health facility in which the donor resides.
+“trust corporation” has the same meaning as it has in paragraph (b) of the definition of "trust corporation" in section 30(4) of the Succession Act 1965.
 
 (2) In this Part “person”, in relation to an attorney, includes a trust corporation but only to the extent that the authority conferred under the enduring power of attorney relates to property and affairs.

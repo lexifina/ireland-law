@@ -1,3 +1,3 @@
 Review of this Act
 
-146. The Minister shall, in consultation with the Minister for Health cause a review of the functioning of this Act (other than Part 8) to be carried out before the 5th anniversary of the date of enactment of this Act.
+146. The Minister, after consultation with the Minister for Health shall, not later than 5 years after the date on which section 95 of the Assisted Decision-Making (Capacity) (Amendment) Act 2022 comes into operation, conduct a review of the operation and effectiveness of the Assisted Decision-Making (Capacity) Act 2015 and shall, not later than 6 months after the end of that period of 5 years, or on the completion of the review, whichever is the earlier, prepare a report, in writing, of the findings of the review and of the conclusions drawn from those findings and cause copies of the report to be laid before each House of the Oireachtas.

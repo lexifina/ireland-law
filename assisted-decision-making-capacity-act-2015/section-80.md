@@ -6,7 +6,7 @@ Offences in relation to enduring powers of attorney
 
 (b) on conviction on indictment, to a fine not exceeding €50,000 or imprisonment for a term not exceeding 5 years, or both.
 
-(2) A person who, in an instrument creating an enduring power of attorney, in an application for registration of an enduring power of attorney, or in connection with such an application, makes a statement which he or she knows to be false in a material particular commits an offence and shall be liable—
+(2) A person who, in an instrument creating an enduring power of attorney, in an application for registration of an enduring power of attorney, or in connection with such an application, or in a notification to the Director under section 71A or in connection with such a notification, makes a statement which he or she knows to be false in a material particular commits an offence and shall be liable—
 
 (a) on summary conviction, to a class A fine or imprisonment for a term not exceeding 6 months, or both, or
 

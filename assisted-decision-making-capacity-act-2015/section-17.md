@@ -1,6 +1,8 @@
 Co-decision-making agreement
 
-17. (1) Subject to the provisions of this section and section 18, a person who has attained the age of 18 years and who considers that his or her capacity is in question or may shortly be in question may appoint a suitable person who has also attained that age to jointly make with the first-mentioned person one or more than one decision on the first-mentioned person’s personal welfare or property and affairs, or both, in compliance with this Part and regulations made under section 31.
+17. (1) Subject to the provisions of this section and section 18, a person who has attained the age of 18 years and who considers that his or her capacity is in question or may shortly be in question may appoint a suitable person who has also attained that age to jointly make with the first-mentioned person one or more than one decision on the first-mentioned person’s personal welfare or property and affairs, or both, in compliance with this Part, regulations made under section 31 and specifications made under section 31A.
+
+(1A) A person in relation to whom a decision-making representation order was made in circumstances where section 38(1)(a) or section 55(4) applied may appoint a co-decision-maker in accordance with this section, and this Part and the regulations and specifications made thereunder shall apply to that appointment with any necessary modifications.
 
 (2) A person is suitable for appointment as a co-decision-maker if he or she—
 
@@ -8,7 +10,7 @@ Co-decision-making agreement
 
 (b) is able to perform his or her functions under the co-decision-making agreement.
 
-(3) An appointment as a co-decision-maker shall be made in writing in a co-decision-making agreement that is in compliance with this section and regulations made under section 31.
+(3) An appointment as a co-decision-maker shall be made in writing in a co-decision-making agreement that is in compliance with this section, regulations made under section 31 and specifications made under section 31A.
 
 (4) Notwithstanding the definition of “property and affairs” in section 2 an appointer shall not include in a co-decision-making agreement provision for the disposal of his or her property by way of gift.
 

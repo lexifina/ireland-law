@@ -22,13 +22,15 @@ Functions of Commission
 
 (d) either of its own volition or on being so requested by the Government, to make such recommendations to the Government as it deems appropriate in relation to the measures which the Commission considers should be taken to strengthen, protect and uphold human rights and equality in the State;
 
-(e) to apply to the High Court or the Supreme Court for liberty to appear before the High Court or the Supreme Court, as the case may be, as amicus curiae in proceedings before that court that involve or are concerned with the human rights or equality rights of any person and to appear as such an amicus curiae on foot of such liberty being granted (which liberty each of the said courts is hereby empowered to grant in its absolute discretion);
+(e) to apply to the High Court, the Court of Appeal or the Supreme Court for liberty to appear before the High Court, the Court of Appeal or the Supreme Court, as amicus curiae in proceedings before that court that involve or are concerned with the human rights or equality rights of any person and to appear as such an amicus curiae on foot of such liberty being granted (which liberty each of the said courts is hereby empowered to grant in its absolute discretion);
 
 (f) to provide such practical assistance, including legal assistance, to persons in vindicating their rights as it sees fit in accordance with section 40;
 
 (g) where it sees fit, to institute proceedings under section 41 or section 19 of the Act of 2003, as may be appropriate;
 
 (h) to consult with such national, European Union or international bodies or agencies having a knowledge or expertise in the field of human rights or equality as it sees fit;
+
+(ha) without prejudice to the generality of paragraph (b) or (h), to promote and monitor the implementation in the State of the Convention on the Rights of Persons with Disabilities done at New York on 13 December 2006;
 
 (i) to be the body designated for the purposes of Directive 2014/54/EU of the European Parliament and of the Council of 16 April 2014 on measures facilitating the exercise of rights conferred on workers in the context of freedom of movement for workers;
 
@@ -49,6 +51,8 @@ Functions of Commission
 (p) to prepare and publish, in such manner as it sees fit, reports including reports on any research undertaken, sponsored, commissioned or assisted by it under paragraph (j) or in relation to inquiries referred to in paragraph (o);
 
 (q) to participate in the Joint Committee with the Northern Ireland Human Rights Commission in accordance with the Multi-Party Agreement annexed to the British-Irish Agreement (within the meaning of the British- Irish Agreement Act 1999);
+
+OJL 128/8, 30.4.2014
 
 (r) to perform such other functions transferred to it under section 44.
 

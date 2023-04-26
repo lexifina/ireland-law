@@ -78,7 +78,9 @@ Appointment of care representative in case of person not having full capacity.
 
 (13) The right of a person referred to in subsection (12) to apply to be a care representative shall operate in descending priority, but a person with a greater priority may consent in writing to an application by and appointment of a person with a lesser priority.
 
-(14) An application may be made by a person referred to in subsection (12) even where there is a person with equal or greater priority and consent under subsection (13) has not been given, and notice of such application shall, subject to subsection (17), be given to each such person having an equal or greater priority.
+(14) An application may be made by a person referred to in subsection (12) even where there is a person with equal or greater priority and consent under subsection
+
+(13) has not been given, and notice of such application shall, subject to subsection (17), be given to each such person having an equal or greater priority.
 
 (15) The court shall not be bound by the giving of a consent referred to in subsection (13).
 
@@ -205,3 +207,5 @@ Appointment of care representative in case of person not having full capacity.
 (c) to use or weigh that information as part of the process of making the decision, or
 
 (d) to communicate his or her decision (whether by talking, using sign language or any other means) or, if the decision requires the act of a third party to be implemented, to communicate by any means with that third party.
+
+(44) Section 46A shall apply to and in relation to care representatives and relevant persons referred to in this section as it applies to specified persons and "other persons" referred to in that section.

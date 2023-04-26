@@ -2,7 +2,9 @@ Advisory committees, etc.
 
 18. (1) The Commission shall, for the purpose of establishing and maintaining effective co-operation with representatives of relevant agencies and civil society—
 
-(a) appoint such and so many advisory committees as it thinks fit to assist and advise it on matters relating to its functions, and
+(a) appoint such and so many advisory committees as it thinks fit to assist and advise it on matters relating to its functions,
+
+(aa) without prejudice to the generality of paragraph (a), appoint an advisory committee to assist and advise it on matters relating to its functions under section 10(2)(ha), and
 
 (b) support, establish or participate in such networks, public consultation processes or public forums, as it sees appropriate.
 
@@ -15,6 +17,8 @@ Advisory committees, etc.
 (b) a vice presiding member (who shall act in the absence of the presiding member and who shall be a member of the Commission), and
 
 (c) such number of other members including (if the Commission considers it appropriate), persons who are not members of the Commission or its staff, as the Commission may determine and duly appoint.
+
+(3A) In the case of an advisory committee referred to in subsection (1)(aa), at least two-thirds of the number of persons appointed under subsection (3) shall have, or have had, a disability within the meaning of section 2(1) of the Disability Act 2005.
 
 (4) Each member of an advisory committee shall be paid out of moneys at the disposal of the Commission such allowance for expenses incurred by the member as the Minister, with the consent of the Minister for Public Expenditure and Reform, may sanction.
 

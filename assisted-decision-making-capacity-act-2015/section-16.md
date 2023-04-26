@@ -8,7 +8,7 @@ Definitions — Part 4
 
 “authenticated”, in relation to a co-decision-making agreement which is registered, means bearing the signature of the Director, the date on which his or her signature was applied and the date of registration of the co-decision-making agreement;
 
-“co-decision-maker”, in relation to an appointer, means the suitable person who the appointer appoints under section 17, to jointly make with the appointer decisions on the appointer’s personal welfare or property and affairs, or both, in compliance with this Part and regulations made under section 31;
+“co-decision-maker”, in relation to an appointer, means the suitable person who the appointer appoints under section 17, to jointly make with the appointer decisions on the appointer’s personal welfare or property and affairs, or both, in compliance with this Part, regulations made under section 31 and specifications made under section 31A;
 
 “co-decision-maker appointer” means a person who appoints a co-decision-maker under section 17;
 

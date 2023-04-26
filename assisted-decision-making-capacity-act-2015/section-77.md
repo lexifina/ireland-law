@@ -24,7 +24,7 @@ Applications to court
 
 (d) any conflict of interest which may arise.
 
-(3) Where an instrument creating an enduring power of attorney has been registered, the court may, whether on application by the donor, the attorney, the Director or an interested party—
+(3) Where an instrument creating an enduring power of attorney has been the subject of a notification under section 71A that has been accepted by the Director under section 71C, the court may, whether on application by the donor, the attorney, the Director or an interested party—
 
 (a) determine any question as to the meaning or effect of the power,
 
@@ -36,6 +36,6 @@ Applications to court
 
 (iii) the remuneration or expenses of the attorney, whether or not in default of or in accordance with any provision of the enduring power, including directions for the repayment of excessive, or the payment of additional, remuneration, and
 
-(c) consent to a disclaimer by the attorney of the enduring power.
+(c) consent to a resignation by the attorney of his or her role as attorney under the enduring power of attorney.
 
 (4) Where the court gives a determination under subsection (3)(a), a direction under subsection (3)(b) or a consent under subsection (3)(c), it shall cause the Director to be notified of such direction or consent and the Director shall monitor the giving of effect by the attorney to such direction or consent as the case may be.

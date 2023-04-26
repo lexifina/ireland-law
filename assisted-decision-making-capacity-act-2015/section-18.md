@@ -18,7 +18,7 @@ Persons who are not eligible to be co-decision-makers
 
 (ii) residing with, or an employee or agent of, such owner or registered provider, as the case may be, unless the person is a spouse, civil partner, cohabitant, parent, child or sibling of the person who intends to appoint him or her as co-decision-maker,
 
-(g) has been convicted of an offence under section 34, 80, 90 or 145, or
+(g) has been convicted of an offence under section 15A, 34, 80, 90 or 145, or
 
 (h) previously acted as co-decision-maker for the person who intends to appoint a co-decision-maker and there was a finding by the court that he or she should no longer act as co-decision-maker for that person.
 

@@ -1,0 +1,7 @@
+Liability of officers of trust corporation for offences
+
+58B. (1) Where an offence under section 80 or section 145 has been committed by a trust corporation and the doing of the acts that constituted the offence has been authorised, or consented to, or connived in, by a person, being a director, manager, chief executive officer, secretary, or other similar officer of the trust corporation, or a person who purports to act in any such capacity, that person as well as the trust corporation shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
+
+(2) Where a person is proceeded against as aforesaid for such an offence and it is proved that, at the material time, he or she was a director of the trust corporation concerned or a person employed by it whose duties included making decisions that, to a significant extent, could have affected the management of the trust corporation, or a person who purported to act in any such capacity, it shall be presumed, until the contrary is proved, that that person consented to the doing of the acts by the trust corporation which constituted the commission by it of the offence concerned under section 80 or 145.
+
+(3) Where the affairs of a trust corporation are managed by its members, subsections (1) and (2) shall apply in relation to the acts or defaults of a member in connection with his or her functions of management as if he or she were a director of the trust corporation.
