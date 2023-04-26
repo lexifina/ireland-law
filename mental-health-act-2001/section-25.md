@@ -4,7 +4,7 @@ Involuntary admission of children.
 
 (a) a child is suffering from a mental disorder, and
 
-(b) the child requires treatment which he or she is unlikely to receive unless an order is made under this section, then, the Health Service Executive may make an application to the District Court (‘the court’) in the district court district where the child concerned resides or is found for an order authorising the detention of the child in an approved centre.
+(b) the child requires treatment which he or she is unlikely to receive unless an order is made under this section, then, the Health Service Executive may make an application to the District Court ("the court") in the district court district where the child concerned resides or is found for an order authorising the detention of the child in an approved centre.
 
 (2) Subject to subsection (3), the Health Service Executive shall not make an application under subsection (1) unless the child has been examined by a consultant psychiatrist who is not a relative of the child and a report of the results of the examination is furnished to the court by the Health Service Executive.
 

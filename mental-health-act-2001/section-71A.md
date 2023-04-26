@@ -16,7 +16,7 @@ Removal of persons and bringing back of patients to approved centres by authoris
 
 (5) In this section—
 
-‘relevant person’—
+"relevant person"—
 
 (a) in relation to a removal referred to in subsection (3) of a person to an approved centre, means a person who carried out (whether in whole or in part) such removal pursuant to an arrangement entered into by the registered proprietor of that centre,
 
