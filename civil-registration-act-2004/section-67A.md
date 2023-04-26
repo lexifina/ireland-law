@@ -1,4 +1,4 @@
-F257[Payments to certain registrars
+F256[Payments to certain registrars
 
 67A.—(1) Subject to subsection (2), the Health Service Executive shall pay to persons to whom this section applies—
 

@@ -1,4 +1,4 @@
-F152[Amendment of entry on the record of deaths abroad
+F151[Amendment of entry on the record of deaths abroad
 
 44E. On application to an tArd-Chláraitheoir in such manner as he or she may specify, by a person having an interest in the matter, or, if an tArd-Chláraitheoir is satisfied that—
 

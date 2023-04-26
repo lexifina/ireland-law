@@ -1,4 +1,4 @@
-F97[Re-registration of birth of donorconceived child on foot of court order
+F96[Re-registration of birth of donorconceived child on foot of court order
 
 23B. (1) Where the birth of a child has been registered under this Act or the repealed enactments a registrar shall re-register the birth in such manner as an tArd- Chláraitheoir may direct and shall enter in the register the name of a person ("the person") as the parent of the child if the mother, the person or the child to whose birth the registration relates and who has attained the age of 18 years so requests and gives to the registrar a document purporting to be a copy of a declaration made by the District Court under section 21 of the Children and Family Relationships Act 2015, or by the Circuit Court under section 22 of the Children and Family Relationships Act 2015, and to be certified by or on behalf of the court to be a true copy of the order finding that the person is the parent of the child.
 

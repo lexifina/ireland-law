@@ -1,6 +1,6 @@
 ## PART 7B REGISTRATION OF DECREES OF DISSOLUTION OF CIVIL PARTNERSHIP AND DECREES OF NULLITY OF CIVIL PARTNERSHIP
 
-F216[Registration of decrees of dissolution and decrees of nullity of civil partnership.
+F215[Registration of decrees of dissolution and decrees of nullity of civil partnership.
 
 59J.— (1) When a court grants a decree of dissolution, an officer of the Courts Service authorised in that behalf by the Courts Service shall, as soon as may be, enter or cause to be entered in the register of decrees of dissolution of civil partnership the particulars in relation to the matter set out in Part 6A of the First Schedule.
 

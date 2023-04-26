@@ -1,4 +1,4 @@
-F120[Separate index of connections between register and register of births
+F119[Separate index of connections between register and register of births
 
 30K. (1) An tArd-Chláraitheoir shall maintain an index to make traceable the connection between each entry in the register and the corresponding entry in the register of births.
 

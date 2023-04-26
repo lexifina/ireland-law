@@ -1,4 +1,4 @@
-F112[Separate index of connections between register of gender recognition and register of births
+F111[Separate index of connections between register of gender recognition and register of births
 
 30D. (1) An tArd-Chláraitheoir shall maintain an index to make traceable the connection between each entry in the register and the corresponding entry in the register of births or the Adopted Children Register.
 

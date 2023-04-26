@@ -1,4 +1,4 @@
-F147[Provision of information
+F146[Provision of information
 
 44C. (1) An informant may notify a registrar of the death of a deceased person in relation to whose death this Part applies, and on furnishing the information and documents referred to in subsection (2) may request that the death is recorded on the record of deaths abroad.
 

@@ -1,4 +1,4 @@
-F116[An tArd- Chláraitheoir may receive and request certain information concerning affected persons
+F115[An tArd- Chláraitheoir may receive and request certain information concerning affected persons
 
 30G. (1) Where the Child and Family Agency or such other person as may be prescribed by regulations under section 30L has within its possession or procurement information or documents concerning the birth, or the registration of the birth, of an affected person, the Agency or person, as the case may be, shall provide the information and documents to an tArd-Chláraitheoir.
 

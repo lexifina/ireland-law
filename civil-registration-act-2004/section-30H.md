@@ -1,4 +1,4 @@
-F117[Correction, cancellation or registration of entries in register of births
+F116[Correction, cancellation or registration of entries in register of births
 
 30H. (1) Subject to subsections (2) and (3), where an tArd-Chláraitheoir is aware of an error of fact in an entry in the register of births in relation to the particulars of birth of an affected person (in this Part referred to as a "relevant entry"), and where, having considered any information or documents received in accordance with subsection (1) of section 30G or in accordance with a notice under subsection (2) of that section together with any submissions received in accordance with subsection (3), an tArd-Chláraitheoir is satisfied that the relevant entry is incorrect, he or she may—
 

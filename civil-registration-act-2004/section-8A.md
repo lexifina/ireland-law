@@ -1,4 +1,4 @@
-F43[Performance of functions of registrar and Superintendent Registrar by staff of Ard- Chláraitheoir in certain exceptional circumstances
+F42[Performance of functions of registrar and Superintendent Registrar by staff of Ard- Chláraitheoir in certain exceptional circumstances
 
 8A. (1) A Superintendent Registrar of a registration area may make a request in writing to an tArd-Chláraitheoir (in this section referred to as a "request") that an tArd-Chláraitheoir issue a direction (in this section referred to as a "direction") that the relevant functions of registrars and Superintendent Registrars in the registration area to which the request relates are to be performed in accordance with this section.
 

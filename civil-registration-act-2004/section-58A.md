@@ -1,4 +1,4 @@
-F191[Marriage ceremonies performed at certain embassies or diplomatic missions
+F190[Marriage ceremonies performed at certain embassies or diplomatic missions
 
 58A. (1) This section applies to a marriage which was solemnised, before the commencement of this section, in an embassy or diplomatic mission in the State.
 

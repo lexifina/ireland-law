@@ -1,4 +1,4 @@
-F100[Failure to agree surname and subsequent registration of surname
+F99[Failure to agree surname and subsequent registration of surname
 
 25A. (1) A registrar shall register the birth of a child without the surname of the child as part of the required particulars where the registrar is satisfied that the parents of the child do not agree regarding a surname for the child.
 
