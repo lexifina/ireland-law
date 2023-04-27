@@ -36,19 +36,13 @@ Road haulage and road passenger transport operators’ licences.
 
 (4) Section 1(1) of the Act of 1999 is amended by substituting for the definitions of “international road freight carrier’s licence”, “international road passenger transport operator’s licence”, “the Minister”, “national road freight carrier’s licence”, and “national road passenger transport operator’s licence”, respectively, the following:
 
-“‘international road haulage operator’s licence’ means an international road haulage operator’s licence granted under section
-
-2 of the Road Traffic and Transport Act 2006;
-
-‘international road passenger transport operator’s licence’ means an international road passenger transport operator’s licence granted under section 2 of the Road Traffic and Transport Act 2006;
+“‘international road haulage operator’s licence’ means an international road haulage operator’s licence granted under section 2 of the Road Traffic and Transport Act 2006; international road passenger transport operator’s licence’ means an international road passenger transport operator’s licence granted under section 2 of the Road Traffic and Transport Act 2006;
 
 ‘Minister’ means Minister for Transport;
 
 ‘national road haulage operator’s licence’ means a national road haulage operator’s licence granted under section 2 of the Road Traffic and Transport Act 2006;
 
-‘national road passenger transport operator’s licence’ means a national road passenger transport operator’s licence granted under section
-
-2 of the Road Traffic and Transport Act 2006;”.
+‘national road passenger transport operator’s licence’ means a national road passenger transport operator’s licence granted under section 2 of the Road Traffic and Transport Act 2006;”.
 
 (5) Any operator’s licence granted or deemed to have been granted under section 3 of the Act of 1986 (notwithstanding the repeal of that section by section 23 of the Act of 1999) or under regulations made under section 3 of the Act of 1972 which is in force immediately before the passing of this Act continues in force for the period stated in the licence and continues to have effect as if granted under this section.
 
