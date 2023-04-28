@@ -1,0 +1,5 @@
+An Act to provide for discontinuing and extinguishing liabilities in respect of charges imposed by Irish Water for the provision of water services to a dwelling; for refund of certain payments made in respect of charges so imposed; for setting a threshold amount; for liability to pay for provision by Irish Water of water services exceeding the threshold amount to a dwelling; for allowances and exemptions from that liability in certain circumstances; for funding for Irish Water; for establishment of a body to be known in the Irish language as An Fóram Uisce or in the English language as the Water Forum; for establishment of a body to be known in the Irish language as An Comhlacht Comhairleach Uisce or in the English language as the Water Advisory Body; for amending arrangements in relation to the Local Government Fund; for those purposes to amend the Local Government Act 1998, the Valuation Act 2001, the Water Services Act 2007, the Water Services (No. 2) Act 2013 and the Water Services Act 2014; and to provide for matters connected therewith.
+
+## [17th November, 2017]
+
+Be it enacted by the Oireachtas as follows:
