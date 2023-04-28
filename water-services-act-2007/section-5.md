@@ -12,13 +12,13 @@ Directives.
 
 (e) Commission Directive 98/15/EC of 27 February 1998 amending Council Directive 91/271/EEC with respect to certain requirements established in Annex 1 thereof ;
 
+OJ No.L 96, 29.3.2014, p.149.
+
 (f) Council Directive 91/676/EEC of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources ;
 
 (g) Council Directive 91/271/EEC of 21 May 1991 concerning urban waste water treatment ;
 
 (h) Council Directive 86/278/EEC of 12 June 1986 on the protection of the environment, and in particular of the soil, when sewage sludge is used in agriculture ;
-
-OJ No.L 96, 29.3.2014, p.149.
 
 (i) Council Directive 80/68/EEC of 17 December 1979 on the protection of groundwater against pollution caused by certain dangerous substances ;
 
