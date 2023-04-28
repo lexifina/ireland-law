@@ -8,7 +8,9 @@ New section 2A inserted into Principal Act
 
 (a) the number of the members of that trade union who are in the employment of the employer concerned in the grade, group or category to which the trade dispute refers and who are party to the trade dispute, and
 
-(b) the period of membership of such members in that trade union, shall be admissible in evidence without further proof, unless the contrary is shown, of such numbers and such period. (2) Where an employer seeks to have the matters specified in a statutory declaration made pursuant to subsection (1) examined—
+(b) the period of membership of such members in that trade union, shall be admissible in evidence without further proof, unless the contrary is shown, of such numbers and such period.
+
+(2) Where an employer seeks to have the matters specified in a statutory declaration made pursuant to subsection (1) examined—
 
 (a) the employer may request the Court to satisfy itself that the matters specified in the statutory declaration are correct, and
 

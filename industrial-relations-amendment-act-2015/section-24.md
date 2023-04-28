@@ -28,7 +28,9 @@ Amendment of Act of 2015
 
 (i) in Part 1, by the insertion of the following paragraphs after paragraph 28:
 
-“29. A registered employment agreement within the meaning of Chapter 2 of Part 2 of the Industrial Relations (Amendment) Act 2015
+“29. A registered employment agreement within the meaning of Chapter 2 of Part 2 of the Industrial Relations (Amendment) Act
+
+2015
 
 30. Section 20(1) of the Industrial Relations (Amendment) Act 2015”, and
 

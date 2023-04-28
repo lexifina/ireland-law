@@ -56,7 +56,9 @@ Amendment of section 2 of Principal Act
 
 (c) at any time during a period of 18 months from the day on which the determination referred to in paragraph (a) was made, another request is made under subsection (1) by the same grade, group or category of worker, and
 
-(d) no application was made under section 10 in respect of such determination, notwithstanding subsection (7), the Court may investigate the trade dispute concerned if it is satisfied that following compliance with such determination— (i) the employer concerned has resiled from the determination referred to in paragraph (b), or
+(d) no application was made under section 10 in respect of such determination, notwithstanding subsection (7), the Court may investigate the trade dispute concerned if it is satisfied that following compliance with such determination—
+
+(i) the employer concerned has resiled from the determination referred to in paragraph (b), or
 
 (ii) there have been material and adverse changes to the totality of remuneration and conditions of employment of the grade, group or category of worker referred to in paragraph (c).
 
