@@ -10,8 +10,8 @@ Grants by Minister.
 
 (d) an organisation which conducts research or provides information, advice or training related to water services,
 
-(dd) in accordance with section 31 of the Water Services Act 2017, the Water Forum,
+(dd) in accordance with section 31 of the Water Services Act 2017, the Water Forum, or
 
-(de) in accordance with section 52 of the Water Services Act 2017, the Water Advisory Body, or
+(de) ...
 
 (e) any other person.
