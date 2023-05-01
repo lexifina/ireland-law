@@ -1,6 +1,6 @@
 Appeal to High Court.
 
-39A.— (1) A relevant person who is aggrieved by a determination of the Commission under section 32(2) may, not later than 3 months after notice has been given under section 32(11), appeal to the High Court against that determination.
+39A.—(1) A relevant person who is aggrieved by a determination of the Commission under section 32(2) may, not later than 3 months after notice has been given under section 32(11), appeal to the High Court against that determination.
 
 (2) The High Court shall hear and determine an appeal under this section and may make such orders as it considers appropriate.
 
