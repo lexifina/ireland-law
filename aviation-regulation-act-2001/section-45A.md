@@ -1,4 +1,4 @@
-F53[Directions— Regulation (EC) No. 261/2004.
+F54[Directions— Regulation (EC) No. 261/2004.
 
 45A.—(1) Where the Commission either on its own initiative or following a complaint by a passenger is of the opinion that an operating air carrier is failing to comply with or is infringing Regulation (EC) No. 261/2004, it may issue a direction to the carrier to comply with the Regulation or cease the infringement and to comply with any instructions contained in the direction. The carrier may, within 14 days of the issue of the direction, make representations to the Commission, which the Commission shall consider. The Commission shall, where it has received such representations, reply in writing to the carrier within 2 months of such receipt. The Commission in its reply may confirm, vary or withdraw the direction. Where the direction is confirmed (with or without variation) the direction takes effect on the date the reply is given.
 

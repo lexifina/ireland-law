@@ -1,6 +1,6 @@
 F12[Commission to review market power of airport authorities
 
-8B. (1) The Commission may from time to time carry out a review to assess the market power held by an airport authority in a relevant market in order to assist the Commission in carrying out its functions under this Act.
+8B.—(1) The Commission may from time to time carry out a review to assess the market power held by an airport authority in a relevant market in order to assist the Commission in carrying out its functions under this Act.
 
 (2) The Commission shall carry out a review under subsection (1) when requested to do so by the Minister.
 
