@@ -2,7 +2,7 @@ Provisions of orders made by company.
 
 60.— (1) Without prejudice to the generality of section 58 an order under subsection (1) of that section may make provision—
 
-(a) prescribing the authority by which any of the powers exercisable under a provision of an Annexe to the Chicago Convention specified in the Schedule by a contracting state or by any authority therein are to be exercised in the State,
+(a) prescribing the authority by which any of the powers exercisable under a provision of an Annexe to the Chicago Convention specified in Schedule 1 by a contracting state or by any authority therein are to be exercised in the State,
 
 (b) (i) for the licensing of aerodromes and the regulation of aeronautical safety standards at aerodromes,
 
@@ -54,7 +54,13 @@ Provisions of orders made by company.
 
 (II) a danger area, that is to say, an area of airspace within which it is declared in the direction that activities may exist at specified times that are a danger to aircraft in flight,
 
-(j) (i) requiring the payment of fees in respect of the application for the grant or renewal of any certificate, licence or instrument of approval or otherwise for the purposes of an order under this section or the said Annexes and specifying their amount,
+(j) (i) requiring the payment of fees, in such amounts as are specified, by the company for the performance of its functions under this Act or any other enactment, including—
+
+(I) in respect of applications for the grant or renewal of any certificate, licence or instrument of approval,
+
+(II) for the purposes of an order under this section or an Annexe referred to in paragraph (a), or
+
+(III) functions under an Annexe referred to in paragraph (a), and,
 
 (ii) for securing compliance with a direction under section 45 (1) (a) (ii),
 
@@ -69,3 +75,5 @@ Provisions of orders made by company.
 (o) for access to and entry on or into any premises or place or any aircraft by a person where such access or entry is reasonably necessary for the performance by the person of functions conferred on him by any such order.
 
 (2) Section 12 of the Act of 1946, as amended by section 39 of the Act of 1988, shall, with any necessary modifications, apply in relation to an area declared by a direction issued by virtue of subsection (1) (h) to be a prohibited area as it applies to a prohibited area referred to in the said section 12.
+
+(3) The company may recover, as a simple contract debt in any court of competent jurisdiction, from a person an amount of any fee due to it by the person.
