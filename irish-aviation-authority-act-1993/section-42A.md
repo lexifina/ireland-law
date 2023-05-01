@@ -1,4 +1,4 @@
-F10[Right of entry on land by Authority.
+F31[Right of entry on land by Authority.
 
 42A.— Section 19 of the Air Navigation and Transport (Amendment) Act, 1998, shall, for the purposes of this Act, apply subject to the following modifications:
 
