@@ -140,7 +140,7 @@ Shows, exhibitions, cultural facilities, etc.
 
 Private dwellings.
 
-9. (1) Services consisting of the development of immovable goods, being private dwellings, and work on such immovable goods including the installation of fixtures, where the value of movable goods (if any) provided in pursuance of an agreement in relation to such services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
+9. (1) Services consisting of the development of immovable goods, being private dwellings, and work on such immovable goods including the installation of fixtures, other than the supply and installation of solar panels as specified in paragraph 14 of Schedule 2, where the value of movable goods (if any) provided in pursuance of an agreement in relation to such services does not exceed two-thirds of the total amount on which tax is chargeable in respect of the agreement.
 
 (2) Services consisting of the routine cleaning of private dwellings.
 
