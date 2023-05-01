@@ -1,33 +1,37 @@
-SCHEDULE
+SCHEDULE 1
 
-Annexes to Chicago Convention in relation to which functions stand conferred on company.
+Sections 14, 58, 59, 60, 67, and 72
 
-Annexe 1 —Personnel Licensing
+Annexes to Chicago Convention in relation to which functions stand conferred on company
 
-Annexe 2 —Rules of the Air
+Annexe 1 - Personnel Licensing
 
-Annexe 4 —Aeronautical Charts
+Annexe 2 - Rules of the Air
 
-Annexe 5 —Units of Measurement to be used in Ground and Air Operations
+Annexe 4 - Aeronautical Charts
 
-Annexe 6 —Operation of Aircraft
+Annexe 5 - Units of Measurement to be used in Ground and Air Operations
 
-Annexe 7 —Aircraft Nationality and Registration Marks
+Annexe 6 - Operation of Aircraft
 
-Annexe 8 —Airworthiness of Aircraft
+Annexe 7 - Aircraft Nationality and Registration Marks
 
-Annexe 10—Aeronautical Telecommunications
+Annexe 8 - Airworthiness of Aircraft
 
-Annexe 11—Air Traffic Services
+Annexe 10 - Aeronautical Telecommunications
 
-Annexe 12—Search and Rescue
+Annexe 11 - Air Traffic Services
 
-Annexe 14—Aerodromes
+Annexe 12 - Search and Rescue (limited to rescue co-ordination centres and rescue sub-centres)
 
-Annexe 15—Aeronautical Information Services
+Annexe 14 - Aerodromes
 
-Annexe 16—Environmental Protection
+Annexe 15 - Aeronautical Information Services
 
-Annexe 18—The Safe Transport of Dangerous Goods by Air
+Annexe 16 - Environmental Protection (other than environmental protection which falls within Volume IV, Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA))
 
-Annexe 19 — Safety Management
+Annexe 17 - Security
+
+Annexe 18 - The Safe Transport of Dangerous Goods by Air
+
+Annexe 19 - Safety Management

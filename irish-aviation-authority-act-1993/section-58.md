@@ -1,7 +1,13 @@
 ## PART IV PROVISIONS IN RELATION TO CHICAGO CONVENTION, CERTAIN OTHER INTERNATIONAL AGREEMENTS AND CERTAIN ORGANISATIONS
 
-Power of company to make orders.
+Schedule 1 - Annexes to Chicago Convention
 
-58.— (1) The company may make such orders as appear to it to be necessary or expedient for the purpose of giving effect to the Annexes to the Chicago Convention specified in the Schedule except in so far as they relate to the making of agreements between the State and other states or for the purpose of the performance of any other functions of the company.
+58. (1) Subject to subsection (2), the company, after consultation with the Minister, may make such orders as appear to it to be necessary or expedient for the purpose of giving effect to the Annexes (or any part thereof) to the Chicago Convention specified in Schedule 1.
 
-(2) The Minister may by order amend the Schedule by the insertion therein of a reference to an Annexe to the Chicago Convention, whether added to that Convention before or after the commencement of this section, and references in this Act to the Annexes to the Chicago Convention shall include references to any Annexe to the Chicago Convention to which an order under this subsection relates.
+(2) Subsection (1) shall not entitle the company to make an order—
+
+(a) relating to the making of agreements between the State and any other state, or
+
+(b) relating to a function of the company which is not a function referred to in that subsection.
+
+(3) The Minister may by order amend Schedule 1 by the insertion therein of a reference to an Annex (or any part thereof) to the Chicago Convention, whether added to that Convention before or after the commencement of section 72 of the Air Navigation and Transport Act 2022, and references in that Act and this Act to the Annexes to the Chicago Convention shall include references to any Annex to the Chicago Convention to which an order under this subsection relates.

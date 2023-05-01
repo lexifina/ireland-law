@@ -2,7 +2,11 @@ Guaranteeing by Minister for Finance of borrowing by company.
 
 27.— (1) In relation to borrowings by the company under section 26 , the Minister for Finance, after consultation with the Minister, may guarantee, in such form and manner and in such money (including money in a currency other than the currency of the State) and on such terms and conditions as he thinks fit, the due repayment by the company of the principal of any money borrowed by the company or the due payment of instalments or other amounts of money owed by the company under a contract entered into by the company or the payment of interest on any money, instalment or amount or both the repayment of principal or payment of such instalments or amounts, as the case may be, and the payment of the interest, and any such guarantee may include a guarantee of payment of commission and incidental expenses arising in connection with such borrowings or such contract.
 
-(2) The Minister for Finance shall not so exercise the powers conferred on him by this section that the amount, or the aggregate amount, of money which he may at any one time be liable to pay on foot of any guarantee or guarantees under this section for the time being in force, together with the amount of money (if any) which he had previously paid on foot of any guarantee under this section and which has not been repaid by the company, exceeds £80 million.
+(2) The Minister for Finance shall not so exercise the powers conferred on him by this section that the amount, or the aggregate amount, of money which he may at any one time be liable to pay on foot of any guarantee or guarantees under this section for the time being in force, together with the amount of money (if any) which he had previously paid on foot of any guarantee under this section and which has not been repaid by the company, exceeds—
+
+(a) such amount as the Minister has, with the consent of the Minister for Public Expenditure and Reform, specified by order, or
+
+(b) if no such amount stands so specified, €32 million.
 
 (3) For the purpose of calculating the amount of borrowings or instalments or other money guaranteed by the Minister for Finance under this section by reference to the limit on money in subsection (2), the equivalent in the currency of the State of borrowings or instalments or other money in a foreign currency shall be calculated at the rate of exchange prevailing at the time of the giving of the guarantee for that currency and the currency of the State.
 
