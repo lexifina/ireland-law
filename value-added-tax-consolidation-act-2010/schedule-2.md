@@ -326,13 +326,11 @@ Medicine, medical equipment and appliances.
 
 (b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
 
-(5) (a) The supply, during the period from 12 December 2020 to 31 December 2022, of—
+(5) (a) The supply of Covid-19 in vitro diagnostic medical devices where those devices comply with the requirements of European Union legislation (or the law of a Member State giving effect to such legislation) applicable to such devices, including Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 and Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017.
 
-(i) Covid-19 vaccines and services closely linked to those vaccines, where those vaccines have been authorised by the State or by the European Commission, and
+(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020.
 
-(ii) Covid-19 in vitro diagnostic medical devices and services closely linked to those devices, where those devices comply with the requirements of EU legislation (or the law of a Member State giving effect to such legislation) applicable to such devices, including Directive 98/79/EC of the European Parliament and of the Council of 27 October 199838 and Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017.
-
-(b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020. Fertilisers, feeding stuffs, certain seeds, etc.
+Fertilisers, feeding stuffs, certain seeds, etc.
 
 12. (1) For the purpose of this paragraph “fertiliser” has the meaning assigned to it by the Fertilisers, Feeding Stuffs and Mineral Mixtures Act 1955.
 
@@ -353,3 +351,7 @@ Other zero-rated goods and services.
 The supply of sanitary towels and sanitary tampons.
 
 (4) ...
+
+Solar panels
+
+14. The supply and installation of solar panels on or adjacent to immovable goods, being private dwellings.
