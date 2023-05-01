@@ -20,17 +20,9 @@ Interpretation.
 
 “airspace” means the atmosphere above ground or sea level through which aircraft can fly;
 
-“authorised officer” means—
+“authorised officer" means a person authorised, or deemed to be authorised, under section 63B(1) to perform the functions conferred on authorised officers by or under this Act or the Air Navigation and Transport Act 2022;
 
-(a) an officer of the Permanent Defence Force holding a commissioned rank,
-
-(b) an officer of the Minister,
-
-(c) an officer of customs and excise, or
-
-(d) a member of the staff of the company, authorised in writing by the Minister to perform the functions conferred on authorised officers by or under this Act;
-
-“authorised officer of the company” means a person referred to in paragraph (a), (b), (c) or (d) of the definition of “authorised officer” authorised in writing by the company to perform the functions conferred on authorised officers of the company by or under this Act;
+“authorised officer of the company" means a person referred to in the definition of "authorised officer" authorised in writing by the company to perform the functions conferred on authorised officers of the company by or under this Act or the Air Navigation and Transport Act 2022;
 
 “the Chicago Convention” means the Convention on International Civil Aviation opened for signature at Chicago on the 7th day of December, 1944, and includes the Annexes thereto and any amendment of the said Convention or Annexes whether made before or after the commencement of this section and any Annexes added to the Convention after such commencement;
 
@@ -38,15 +30,19 @@ Interpretation.
 
 “the Commissioners” means the Commissioners of Public Works in Ireland;
 
-“the company” means the company referred to in section 11 ;
+“the company” means the company referred to in section 11;
 
-" contracting state " means a state, including the State, which is a party to Annex IV of the Eurocontrol Convention;
+"contracting state" means a state, including the State, which is a party to Annex IV of the Eurocontrol Convention;
 
 “determination”, in relation to a relevant authority, means a decision of the authority as to whether or not any sum is due to Eurocontrol, the company or the Minister in respect of air navigation services or aeronautical communications services provided by Eurocontrol, the company, the Minister or any other person;
 
-" Eurocontrol " means the European Organisation for the Safety of Air Navigation (Eurocontrol) established by the Eurocontrol Convention and references to Eurocontrol include references to the General Assembly and the Council comprised in Eurocontrol and to the Agency;
+"electronic device" includes any device that uses electronic, digital, magnetic, optical, electromagnetic, biometric or photonic means, or other forms of related technology, or any combination thereof, to store or transmit data, or both store and transmit data;
 
-" Eurocontrol Convention " means the International Convention relating to Cooperation for the Safety of Air Navigation signed at Brussels on 13 December 1960, as amended by the Additional Protocol signed at Brussels on 6 July 1970, the Protocol signed at Brussels on 21 November 1978 and the Protocol signed at Brussels on 12 February 1981, as consolidated by the Protocol signed at Brussels on 27 June 1997, (the consolidated text of which is set out for convenience of reference in the English language in Schedule 1 to the Aviation Act 2006), the Final Act and Protocol on the accession of the European Community to the Eurocontrol Convention signed at Brussels on 8 October 2002 (the text of which is set out for convenience of reference in the English language in Schedule 2 to the Aviation Act 2006), and by any other protocol or other instrument which may be signed after the passing of the Aviation Act 2006;
+"electronic record" includes electronic, digital, magnetic, optical, electromagnetic, biometric or photonic means of storing data, or other forms of related technology, or any combination thereof, by means of which data is stored;
+
+"Eurocontrol" means the European Organisation for the Safety of Air Navigation (Eurocontrol) established by the Eurocontrol Convention and references to Eurocontrol include references to the General Assembly and the Council comprised in Eurocontrol and to the Agency;
+
+"Eurocontrol Convention" means the International Convention relating to Cooperation for the Safety of Air Navigation signed at Brussels on 13 December 1960, as amended by the Additional Protocol signed at Brussels on 6 July 1970, the Protocol signed at Brussels on 21 November 1978 and the Protocol signed at Brussels on 12 February 1981, as consolidated by the Protocol signed at Brussels on 27 June 1997, (the consolidated text of which is set out for convenience of reference in the English language in Schedule 1 to the Aviation Act 2006), the Final Act and Protocol on the accession of the European Community to the Eurocontrol Convention signed at Brussels on 8 October 2002 (the text of which is set out for convenience of reference in the English language in Schedule 2 to the Aviation Act 2006), and by any other protocol or other instrument which may be signed after the passing of the Aviation Act 2006;
 
 “functions” includes powers and duties, and references to the performance of functions include, as respects powers and duties, references to the exercise of the powers and the carrying out of the duties;
 
@@ -54,11 +50,13 @@ Interpretation.
 
 “Irish airspace” means the airspace within the lateral limits of the Shannon Flight Information Region, and the Shannon Upper Flight Information Region, established pursuant to the Chicago Convention;
 
+"Irish Coast Guard" means that part of the Department of Transport that is known by that name;
+
 “licence” means a licence granted by virtue of section 60 and cognate expressions shall be construed correspondingly;
 
 “land” includes land covered by water and “land areas” shall be construed accordingly;
 
-" The Minister " means the Minister for Transport;
+"The Minister" means the Minister for Transport;
 
 ...
 
@@ -76,13 +74,13 @@ Interpretation.
 
 “recognised trade unions and staff associations” means trade unions and staff associations recognised by the company for the purposes of negotiations which are concerned with the remuneration or conditions of employment, or the working conditions, of employees;
 
-“record” includes, in addition to a record in writing—
+"record" includes, in addition to a record in writing and an electronic record and—
 
-(a) a disc, tape, sound-track or other device in which information, sounds or signals are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in legible or audible form,
+(a) a disc, tape, sound-track or other device in which data, sounds or signals are embodied so as to be capable, with or without the aid of some other mechanical or electrical equipment, of being reproduced in legible or audible form,
 
-(b) a film, tape or other device in which visual images are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced in visual form, and
+(b) a film, disc, tape or other mechanical or electronic device in which visual images are embodied so as to be capable, with or without the aid of some other mechanical or electrical equipment, of being reproduced in visual form, and
 
-(c) a photograph, and any reference to a copy of a record includes, in the case of a record falling within paragraph (a) only, a transcript of the sounds or signals embodied therein, in the case of a record falling within paragraph (b), a still reproduction of the images embodied therein and, in the case of a record falling within both of those paragraphs, such a transcript together with such a still reproduction;
+(c) a photograph, map, plan or drawing, and any reference to a copy of records includes, in the case of a record falling within paragraph (a) only, a transcript of the sounds or signals embodied therein, in the case of a record falling within paragraph (b), a still reproduction of the images embodied therein and, in the case of a record falling within both of those paragraphs, such transcript together with such a still reproduction;
 
 “relevant authority”, in relation to a contracting state, means—
 
