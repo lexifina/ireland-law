@@ -1,6 +1,6 @@
-F56[Directions - Regulations of 2011
+F57[Directions - Regulations of 2011
 
-45B. (1) Where the Commission either, on its own initiative or following a complaint, is of the opinion that daa has failed to comply with Regulation 6, 9, 10 or 11 of the Regulations of 2011, the Commission may issue a direction in writing to daa.
+45B.—(1) Where the Commission either, on its own initiative or following a complaint, is of the opinion that daa has failed to comply with Regulation 6, 9, 10 or 11 of the Regulations of 2011, the Commission may issue a direction in writing to daa.
 
 (2) The direction shall—
 
