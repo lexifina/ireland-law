@@ -26,7 +26,7 @@ Right of entry and inspection by authorised person or chief inspector.
 
 (4) An authorised person, in respect of premises referred to in subsection (1), or the chief inspector, in respect of premises referred to in subsection (2), may—
 
-(a) inspect, take copies of or extracts from and remove from the premises any documents or records (including personal records) relating to the discharge of its functions by the the Executive or the Agency, or to the services provided by a service provider or at a designated centre ...,
+(a) inspect, take copies of or extracts from and remove from the premises any documents or records (including personal records) relating to the discharge of its functions by the Executive or the Agency, or to the services provided by a service provider or at a designated centre ...,
 
 (b) inspect the operation of any computer and any associated apparatus or material which is or has been in use in connection with the records in question,
 

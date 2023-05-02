@@ -2,9 +2,7 @@ Functions of Authority.
 
 8.— (1) The functions of the Authority are as follows:
 
-(a) subject to this Act and to the extent practicable, to further the Authority’s object;
-
-(b) to set standards on safety and quality in relation to—
+(a) subject to this Act and to the extent practicable, to further the Authority’s object; o (b) to set standards on safety and quality in relation to—
 
 (i) services provided by the Executive, the Agency or a service provider in accordance with—
 
