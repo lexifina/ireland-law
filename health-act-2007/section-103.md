@@ -116,7 +116,9 @@ Protection of disclosures of information.
 
 (c) section 38 of the Nurses Act 1985, is a protected disclosure under this Act.
 
-(2) A complaint under section 52 of the Health and Social Care Professionals Act 2005 is a protected disclosure under this Act. 55G.— Where a person makes, in good faith, a disclosure to—
+(2) A complaint under section 52 of the Health and Social Care Professionals Act 2005 is a protected disclosure under this Act.
+
+55G.— Where a person makes, in good faith, a disclosure to—
 
 (a) an authorised person appointed by the Health Information and Quality Authority in accordance with section 70 of the Health Act 2007 to—
 
@@ -156,9 +158,7 @@ Protection of disclosures of information.
 
 (b) request that the opinion be given in writing to the Executive, or as the case may be, the body referred to in subsection (2) before the date specified in the request.
 
-(9) If, before that date, the Data Protection Commissioner provides a written opinion that a provision of the draft procedures would, if given effect, be likely to have the results referred to in subsection (8)(a), the Executive, or as the case may be, the body referred to in subsection (2) shall have regard to that opinion in its further deliberations on the draft procedures.
-
-55I.— (1) It is a condition of any arrangement under section 38 or of assistance given under section 39 of this Act or section 10 of the Child Care Act 1991 that a service provider or person receiving assistance will—
+(9) If, before that date, the Data Protection Commissioner provides a written opinion that a provision of the draft procedures would, if given effect, be likely to have the results referred to in subsection (8)(a), the Executive, or as the case may be, the body referred to in subsection (2) shall have regard to that opinion in its further deliberations on the draft procedures. 55I.— (1) It is a condition of any arrangement under section 38 or of assistance given under section 39 of this Act or section 10 of the Child Care Act 1991 that a service provider or person receiving assistance will—
 
 (a) adhere to the procedures established by the Executive in accordance with section 55H(1), or
 
@@ -352,7 +352,9 @@ Chief Inspector
 
 Comptroller and Auditor General
 
-Health Information and Quality Authority Inspector of Mental Health Services
+Health Information and Quality Authority
+
+Inspector of Mental Health Services
 
 Irish Medicines Board
 
