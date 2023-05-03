@@ -22,9 +22,15 @@ Taking of samples from offenders
 
 (ii) at any time after that commencement, is serving a sentence of imprisonment, or the balance thereof, in a prison in the State in respect of that offence pursuant to—
 
-(I) a warrant issued by the High Court under the Transfer of Sentenced Persons Act 1995 authorising the bringing of the person into the State and his or her imprisonment in the State, or
+(I) a warrant issued by the High Court under the Transfer of Sentenced Persons Act 1995 authorising the bringing of the person into the State and his or her imprisonment in the State, ...
 
-(II) an order of the High Court under the Transfer of Execution of Sentences Act 2005 committing the person to a prison, provided that, when issuing the warrant or making the order, as the case may be, the offence that the High Court determined to be the corresponding offence in the State to that offence is a relevant offence, or
+(IA) a committal order within the meaning of the Transfer of Sentenced Persons Act 1995,
+
+(II) an order of the High Court under the Transfer of Execution of Sentences Act 2005 committing the person to a prison,
+
+(III) a committal order within the meaning of the Transfer of Execution of Sentences Act 2005, or
+
+(IV) a committal order within the meaning of Part 3 of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023, provided that, when issuing the warrant or making the order, as the case may be, the offence that the High Court or an appropriate court (within the meaning of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023), as the case may be, determined to be the corresponding offence in the State to that offence is a relevant offence, or
 
 (d) who may fall under paragraph (a), (b) or (c) and who, on or at any time after the commencement of this section is, or becomes, subject to the requirements of Part 2 of the Sex Offenders Act 2001 (in this Act called a “sex offender”).
 
@@ -56,7 +62,7 @@ Taking of samples from offenders
 
 (I) another authorisation under subsection (5) or (7)(a), as the case may be, is not, by virtue of section 3(6), required, or
 
-(II) an authorisation to take a second sample under this section from him or her has, in accordance with subsection (3) or (5), as may be appropriate, of section 38 , been given under subsection (5) or, if appropriate, that an authorisation under section 38(7)(a) has been given for the taking of a second such sample from him or her;
+(II) an authorisation to take a second sample under this section from him or her has, in accordance with subsection (3) or (5), as may be appropriate, of section 38, been given under subsection (5) or, if appropriate, that an authorisation under section 38(7)(a) has been given for the taking of a second such sample from him or her;
 
 (c) if appropriate, that where the offender fails or refuses to allow the sample to be taken from him or her, reasonable force may be used in accordance with section 36 to take the sample;
 
@@ -88,12 +94,18 @@ Taking of samples from offenders
 
 (14) In this section—
 
-“the end of the notification period”, in relation to a sex offender, means the end of the period for which he or she is subject to the requirements of Part 2 of the Sex Offenders Act 2001; “the expiry of the sentence”, in relation to an offender other than a sex offender, means— (a) in the case of an offender falling under paragraph (a) or (b) of subsection (1), the expiry of the sentence of imprisonment imposed by a court on him or her in respect of the relevant offence concerned,
+"the end of the notification period", in relation to a sex offender, means the end of the period for which he or she is subject to the requirements of Part 2 of the Sex Offenders Act 2001;
 
-(b) in the case of an offender falling under subsection (1)(c), the expiry of the sentence of imprisonment determined by the High Court in respect of the offence concerned of which he or she was convicted outside the State—
+"the expiry of the sentence", in relation to an offender other than a sex offender, means—
 
-(i) on his or her transfer to the State and imprisonment in a prison in the State under the Transfer of Sentenced Persons Act 1995, or
+(a) in the case of an offender falling under paragraph (a) or (b) of subsection (1), the expiry of the sentence of imprisonment imposed by a court on him or her in respect of the relevant offence concerned,
 
-(ii) on his or her committal to a prison in the State under the Transfer of Execution of Sentences Act 2005, as the case may be;
+(b) in the case of an offender falling under subsection (1)(c), the expiry of the sentence of imprisonment determined by the High Court or an appropriate court (within the meaning of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023), as the case may be in respect of the offence concerned of which he or she was convicted outside the State—
+
+(i) on his or her transfer to the State and imprisonment in a prison in the State under the Transfer of Sentenced Persons Act 1995, ...
+
+(ii) on his or her committal to a prison in the State under the Transfer of Execution of Sentences Act 2005, or
+
+(iii) on his or her transfer to the State and detention in a place of detention in the State under Part 3 of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023, as the case may be;
 
 “temporary release”, in relation to an offender, means the release of the offender from prison for a temporary period in accordance with a direction given by the Minister under section 2 of the Criminal Justice Act 1960.
