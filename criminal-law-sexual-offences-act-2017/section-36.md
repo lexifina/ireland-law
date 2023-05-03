@@ -10,11 +10,15 @@ Protection against cross-examination by accused
 
 (a) a person is accused of an offence to which this Part applies, and
 
-(b) a person under the age of 18 years is to give evidence, the court shall direct that the accused may not personally cross-examine the witness unless the court is of the opinion that the interests of justice require the accused to conduct the cross-examination personally. (2) Where—
+(b) a person under the age of 18 years is to give evidence, the court shall direct that the accused may not personally cross-examine the witness unless the court is of the opinion that the interests of justice require the accused to conduct the cross-examination personally.
+
+(2) Where—
 
 (a) a person is accused of a sexual offence, and
 
-(b) a person who has attained the age of 18 years (being a person in respect of whom a sexual offence is alleged to have been committed) is to give evidence, the court may direct that the accused may not personally cross-examine the witness unless the court is of the opinion that the interests of justice require the accused to conduct the cross-examination personally. (3) Where an accused person is prevented from cross-examining a witness by virtue of subsection (1) or (2), the court shall—
+(b) a person who has attained the age of 18 years (being a person in respect of whom a sexual offence is alleged to have been committed) is to give evidence, the court may direct that the accused may not personally cross-examine the witness unless the court is of the opinion that the interests of justice require the accused to conduct the cross-examination personally.
+
+(3) Where an accused person is prevented from cross-examining a witness by virtue of subsection (1) or (2), the court shall—
 
 (a) invite the accused person to arrange for a legal representative to act for him or her for the purpose of cross-examining the witness, and
 

@@ -6,7 +6,9 @@ Participation of child in pornographic performance
 
 (a) causes, incites, compels or coerces, or
 
-(b) recruits, invites or induces, a child to participate in a pornographic performance, or gains from such participation, shall be guilty of an offence. (2) A person who attempts to commit an offence under subsection (1) shall be guilty of an offence.
+(b) recruits, invites or induces, a child to participate in a pornographic performance, or gains from such participation, shall be guilty of an offence.
+
+(2) A person who attempts to commit an offence under subsection (1) shall be guilty of an offence.
 
 (3) A person guilty of an offence under subsection (1) or (2) shall be liable on conviction on indictment to imprisonment for a term not exceeding 10 years.
 

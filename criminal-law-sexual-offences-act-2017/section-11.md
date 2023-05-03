@@ -12,4 +12,6 @@ Organising etc. child prostitution or production of child pornography
 
 (d) knowingly gains from the prostitution of a child or the production of child pornography, or
 
-(e) incites or causes a child to become involved in child prostitution or production of child pornography, shall be guilty of an offence. (2) A person guilty of an offence under this section shall be liable on conviction on indictment to a fine or to imprisonment for a term not exceeding 14 years or both.”.
+(e) incites or causes a child to become involved in child prostitution or production of child pornography, shall be guilty of an offence.
+
+(2) A person guilty of an offence under this section shall be liable on conviction on indictment to a fine or to imprisonment for a term not exceeding 14 years or both.”.

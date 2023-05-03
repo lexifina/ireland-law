@@ -6,7 +6,9 @@ Possession of child pornography
 
 (a) knowingly acquires or possesses child pornography, or
 
-(b) knowingly obtains access to child pornography by means of information and communication technology, shall be guilty of an offence and shall be liable— (i) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
+(b) knowingly obtains access to child pornography by means of information and communication technology, shall be guilty of an offence and shall be liable—
+
+(i) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
 
 (ii) on conviction on indictment, to a fine or imprisonment for a term not exceeding 5 years or both.
 
