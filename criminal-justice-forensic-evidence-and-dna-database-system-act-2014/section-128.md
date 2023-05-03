@@ -8,7 +8,7 @@ Amendment of section 2(1) of Act of 2008
 
 ‘2008 Council Decision’ means Council Decision 2008/615/JHA of 23 June 2008 on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime;
 
-‘2009 Agreement with Iceland and Norway’ means the Agreement between the European Union and Iceland and Norway on the application of certain provisions of Council Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime and Council Decision 2008/616/JHA on the implementation of Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime, and the Annex thereto, done at Stockholm on 26 November 2009 and at Brussels on 30 November 2009 ;”,
+‘2009 Agreement with Iceland and Norway’ means the Agreement between the European Union and Iceland and Norway on the application of certain provisions of Council Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime and Council Decision 2008/616/JHA on the implementation of Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime, and the Annex thereto, done at Stockholm on 26 November 2009 and at Brussels on 30 November 2009;”,
 
 (b) in the definition of “international instrument”, by the insertion of the following paragraphs after paragraph (g):
 

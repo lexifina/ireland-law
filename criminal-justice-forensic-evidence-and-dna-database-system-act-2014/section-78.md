@@ -1,6 +1,6 @@
 Destruction of intimate samples and non-intimate samples in exceptional circumstances
 
-78. (1) Notwithstanding sections 76 and 77 , if the Commissioner is satisfied that exceptional circumstances exist that justify the destruction of an intimate sample or a non-intimate sample, the sample concerned shall be destroyed as soon as practicable after the application of those circumstances in relation to that sample becomes known.
+78. (1) Notwithstanding sections 76 and 77, if the Commissioner is satisfied that exceptional circumstances exist that justify the destruction of an intimate sample or a non-intimate sample, the sample concerned shall be destroyed as soon as practicable after the application of those circumstances in relation to that sample becomes known.
 
 (2) The exceptional circumstances referred to in subsection (1)are the following:
 

@@ -14,9 +14,9 @@ Taking of samples from persons in custody of Garda Síochána for purposes of DN
 
 (ii) that either—
 
-(I)another authorisation under subsection (2) is not, by virtue of section 3(6), required, or
+(I) another authorisation under subsection (2) is not, by virtue of section 3(6), required, or
 
-(II)an authorisation to take a second sample from him or her has, in accordance with section 25(1), been given under subsection (2);
+(II) an authorisation to take a second sample from him or her has, in accordance with section 25(1), been given under subsection (2);
 
 (c) that if the person (other than a child) fails or refuses to allow the sample to be taken from him or her, reasonable force may be used in accordance with section 24 to take the sample;
 

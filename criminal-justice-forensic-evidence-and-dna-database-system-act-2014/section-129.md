@@ -20,9 +20,7 @@ Amendment of section 76 of Act of 2008
 
 ‘inadequately labelled’ and ‘insufficient’, in relation to a DNA sample, have the meanings they have in the Act of 2014;
 
-‘non-coding part of DNA’, in relation to a person, means the chromosome regions of the person’s DNA that are not known to provide for any functional properties of the person;
-
-‘parent’, in relation to a protected person or a child, has the meaning it has in the Act of 2014;
+‘non-coding part of DNA’, in relation to a person, means the chromosome regions of the person’s DNA that are not known to provide for any functional properties of the person; ‘parent’, in relation to a protected person or a child, has the meaning it has in the Act of 2014;
 
 ‘protected person’ means, subject to subsection (2), a person (including a child) who, by reason of a mental or physical disability—
 

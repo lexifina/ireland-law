@@ -36,7 +36,7 @@ Extension of retention period under section 80 for certain DNA profiles in refer
 
 (e) any other matter that the Commissioner considers appropriate for the purposes of the determination.
 
-(4) Subject to subsection (7), if, in relation to the DNA profile of a person, the Commissioner makes a determination under subsection (1) on the basis that subsection (2)(a) applies, he or she may, during the retention period referred to in section 80 , give an authorisation to extend that period by a period of 12 months.
+(4) Subject to subsection (7), if, in relation to the DNA profile of a person, the Commissioner makes a determination under subsection (1) on the basis that subsection (2)(a) applies, he or she may, during the retention period referred to in section 80, give an authorisation to extend that period by a period of 12 months.
 
 (5) Subject to subsection (7), the Commissioner may, while an authorisation under subsection (4) or this subsection, as may be appropriate, is still in force, give an authorisation under this subsection to extend the retention period on a second or further occasion for a period of not more than 12 months commencing on the expiration of the period of 12 months to which the authorisation previously given relates if he or she makes a determination under subsection (1) on the basis that subsection (2)(a) applies.
 
@@ -56,7 +56,7 @@ Extension of retention period under section 80 for certain DNA profiles in refer
 
 (ii) if appropriate, the date on which that sample is deemed under section 86 to have been taken from him or her, whichever is the later.
 
-(8) Subject to subsection (9), if, in relation to the DNA profile of a person, the Commissioner makes a determination under subsection (1) on the basis that subsection (2)(b) applies, he or she may, during the retention period referred to in section 80 , give an authorisation to extend that period.
+(8) Subject to subsection (9), if, in relation to the DNA profile of a person, the Commissioner makes a determination under subsection (1) on the basis that subsection (2)(b) applies, he or she may, during the retention period referred to in section 80, give an authorisation to extend that period.
 
 (9) An authorisation under subsection (8) may extend the retention period referred to in section 80 for no longer than—
 
@@ -64,7 +64,7 @@ Extension of retention period under section 80 for certain DNA profiles in refer
 
 (i) the taking of the sample concerned from the child or protected person, as the case may be, or
 
-(ii) if appropriate, the date on which that sample is deemed under section 86 to have been taken from him or her, whichever is the later, and
+(ii) if appropriate, the date on which that sample is deemed under section 86to have been taken from him or her, whichever is the later, and
 
 (b) in the case of any other person, a period of 6 years from—
 
@@ -98,7 +98,7 @@ Extension of retention period under section 80 for certain DNA profiles in refer
 
 (16) Nothing in this section shall—
 
-(a) prevent or restrict the exercise of powers conferred by section 11 , 12 , 13 , 30 or 31 ,
+(a) prevent or restrict the exercise of powers conferred by section 11, 12, 13, 30 or 31,
 
 (b) pending the conclusion of proceedings under this section, prevent or restrict the use of the DNA profile concerned for the purposes of—
 

@@ -8,7 +8,7 @@ THE COUNCIL OF THE EUROPEAN UNION,
 
 Having regard to the Treaty on European Union, and in particular Article 30(1) (a) and (c) and Article 34(2) (b) thereof,
 
-Having regard to the initiative of the Kingdom of Sweden and the Kingdom of , Spain
+Having regard to the initiative of the Kingdom of Sweden and the Kingdom of Spain,
 
 Having regard to the opinion of the European Parliament,
 
@@ -28,7 +28,7 @@ Whereas:
 
 (7) It is particularly important to introduce common standards for forensic service providers relating to such sensitive personal data as DNA profiles and dactyloscopic data.
 
-(8) Pursuant to Article 7(4) of Council Decision 2008/616/JHA of 23 June 2008 on the implementation of Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross- , Member States shall take the necessary measures to border crime guarantee the integrity of DNA profiles made available or sent for comparison to other Member States and to ensure that these measures comply with international standards, such as EN ISO/IEC 17025 ‘General requirements for the competence of testing and calibration laboratories’ (hereinafter ‘EN ISO/IEC 17025’).
+(8) Pursuant to Article 7(4) of Council Decision 2008/616/JHA of 23 June 2008 on the implementation of Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime, Member States shall take the necessary measures to guarantee the integrity of DNA profiles made available or sent for comparison to other Member States and to ensure that these measures comply with international standards, such as EN ISO/IEC 17025 ‘General requirements for the competence of testing and calibration laboratories’ (hereinafter ‘EN ISO/IEC 17025’).
 
 (9) DNA profiles and dactyloscopic data are not only used in criminal proceedings but are also crucial for the identification of victims, particularly after disasters.
 
@@ -74,17 +74,17 @@ Definitions
 
 For the purposes of this Framework Decision:
 
-(a) ‘laboratory activity’ means any measure taken in a laboratory when locating and recovering traces on items, as well as developing, analysing and interpreting forensic evidence, with a view to providing expert opinions or exchanging forensic evidence;
+(a) "laboratory activity" means any measure taken in a laboratory when locating and recovering traces on items, as well as developing, analysing and interpreting forensic evidence, with a view to providing expert opinions or exchanging forensic evidence;
 
-(b) ‘results of laboratory activities’ means any analytical outputs and directly associated interpretation;
+(b) "results of laboratory activities" means any analytical outputs and directly associated interpretation;
 
-(c) ‘forensic service provider’ means any organisation, public or private, that carries out forensic laboratory activities at the request of competent law enforcement or judicial authorities;
+(c) "forensic service provider" means any organisation, public or private, that carries out forensic laboratory activities at the request of competent law enforcement or judicial authorities;
 
-(d) ‘national accreditation body’ means the sole body in a Member State that performs accreditation with authority derived from the State as referred to in Regulation (EC) No 765/2008;
+(d) "national accreditation body" means the sole body in a Member State that performs accreditation with authority derived from the State as referred to in Regulation (EC) No 765/2008;
 
-(e) ‘DNA-profile’ means a letter or number code which represents a set of identification characteristics of the non-coding part of an analysed human DNA sample, i.e. the particular molecular structure at the various DNA locations (loci) ;
+(e) "DNA-profile" means a letter or number code which represents a set of identification characteristics of the non-coding part of an analysed human DNA sample, i.e. the particular molecular structure at the various DNA locations (loci) ;
 
-(f) ‘dactyloscopic data’ means fingerprint images, images of fingerprint latents, palm prints, palm print latents and templates of such images (coded minutiae).
+(f) "dactyloscopic data" means fingerprint images, images of fingerprint latents, palm prints, palm print latents and templates of such images (coded minutiae).
 
 Article 4
 

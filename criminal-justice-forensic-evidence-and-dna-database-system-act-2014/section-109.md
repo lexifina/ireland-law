@@ -64,7 +64,7 @@ Interpretation (Part 12)
 
 (ii) in relation to dactyloscopic data, as the context requires;
 
-“note” means the marking on a DNA profile in the DNA Database System indicating that there has already been a match for that DNA profile in a search and comparison under section 113 , 114 , 115 or 116 ;
+“note” means the marking on a DNA profile in the DNA Database System indicating that there has already been a match for that DNA profile in a search and comparison under section 113, 114, 115 or 116;
 
 “reference data”, subject to subsection (2), means—
 

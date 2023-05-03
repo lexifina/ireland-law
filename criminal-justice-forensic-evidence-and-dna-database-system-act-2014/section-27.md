@@ -2,7 +2,7 @@
 
 Taking of samples from volunteers to generate DNA profiles
 
-27. (1) A member of the Garda Síochána or an authorised person may request a person other than a person to whom section 11 , 12 , 13 , 29 , 31 or 32 applies (in this section and section 28 called a “volunteer”) to have a sample taken from him or her under this section for the purpose of generating a DNA profile in respect of the volunteer in relation to—
+27. (1) A member of the Garda Síochána or an authorised person may request a person other than a person to whom section 11, 12, 13, 29, 31 or 32 applies (in this section and section 28 called a “volunteer”) to have a sample taken from him or her under this section for the purpose of generating a DNA profile in respect of the volunteer in relation to—
 
 (a) the investigation of a particular offence, or
 
@@ -10,7 +10,7 @@ Taking of samples from volunteers to generate DNA profiles
 
 (2) A person who is a victim, or is reasonably considered to be a victim, of the offence or incident that may have involved the commission of an offence being investigated may be a volunteer.
 
-(3) Subject to sections 53 and 55 , a member of the Garda Síochána or an authorised person shall inform a volunteer of the following before seeking his or her consent to the taking of a sample under this section or the member or authorised person takes, or causes to be taken, such a sample from him or her:
+(3) Subject to sections 53and 55, a member of the Garda Síochána or an authorised person shall inform a volunteer of the following before seeking his or her consent to the taking of a sample under this section or the member or authorised person takes, or causes to be taken, such a sample from him or her:
 
 (a) that the volunteer is not obliged to have the sample taken from him or her;
 
@@ -18,7 +18,7 @@ Taking of samples from volunteers to generate DNA profiles
 
 (i) that the first-mentioned sample has proved to be insufficient, was inadequately labelled or that other reason for requiring a second or further sample under this section to be taken, as may be appropriate, and
 
-(ii) that a second or further sample is, in accordance with section 30 , to be taken from him or her;
+(ii) that a second or further sample is, in accordance with section 30, to be taken from him or her;
 
 (c) that the sample will be used to generate a DNA profile in respect of the volunteer for the purposes of the investigation of the offence, or incident that may have involved the commission of an offence, in relation to which it is being taken; and
 
@@ -30,7 +30,7 @@ Taking of samples from volunteers to generate DNA profiles
 
 (6) A sample may be taken under this section from a volunteer in a Garda Síochána station or other place nominated by a member of the Garda Síochána not below the rank of sergeant or, subject to the agreement of the member of the Garda Síochána or authorised person taking the sample, at a place designated by the volunteer.
 
-(7) Subject to section 58 , if a volunteer expressly withdraws consent given under subsection (4) (or if the withdrawal of that consent can reasonably be inferred from the conduct of the person) before or during the taking of a sample under this section, that withdrawal of consent shall be treated as a refusal to give consent to the taking of the sample under this section.
+(7) Subject to section 58, if a volunteer expressly withdraws consent given under subsection (4) (or if the withdrawal of that consent can reasonably be inferred from the conduct of the person) before or during the taking of a sample under this section, that withdrawal of consent shall be treated as a refusal to give consent to the taking of the sample under this section.
 
 (8) A withdrawal under subsection (7)of consent given under subsection (4)shall be confirmed in writing as soon as practicable after such withdrawal.
 

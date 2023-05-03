@@ -20,19 +20,19 @@ Re-taking of certain samples under Part 2 in certain circumstances
 
 (ii) the person attends at a Garda Síochána station in accordance with this section for the purpose of having the second non-intimate sample taken from him or her.
 
-(4) An authorisation under paragraph (i)of subsection (3) to take a second non-intimate sample from a person in accordance with that subsection shall not be given unless the member of the Garda Síochána giving it has reasonable grounds—
+(4) An authorisation under paragraph (i) of subsection (3) to take a second non-intimate sample from a person in accordance with that subsection shall not be given unless the member of the Garda Síochána giving it has reasonable grounds—
 
 (a) for suspecting the involvement of the person from whom the first non-intimate sample concerned was taken in the offence in respect of which he or she was detained when that sample was taken, and
 
 (b) for believing that a second non-intimate sample will tend to confirm or disprove the involvement of that person in that offence.
 
-(5) An authorisation under paragraph (i)of subsection (3) to take a second non-intimate sample from a person in accordance with that subsection—
+(5) An authorisation under paragraph (i) of subsection (3) to take a second non-intimate sample from a person in accordance with that subsection—
 
 (a) may be given on one occasion only, and
 
 (b) may not be given if a period of more than 6 months has elapsed since the first non-intimate sample concerned was taken from the person.
 
-(6) If an authorisation under subsection (3)(i)to take a second non- intimate sample from a person has been given, a member of the Garda Síochána may, within the period specified in subsection (7), require the person by notice in writing to attend at a specified Garda Síochána station within the period specified in subsection (9)(a) for the purpose of having a second non-intimate sample taken from him or her.
+(6) If an authorisation under subsection (3)(i) to take a second non- intimate sample from a person has been given, a member of the Garda Síochána may, within the period specified in subsection (7), require the person by notice in writing to attend at a specified Garda Síochána station within the period specified in subsection (9)(a) for the purpose of having a second non-intimate sample taken from him or her.
 
 (7) The period referred to in subsection (6) for requiring the person concerned to attend at a specified Garda Síochána station is one month from the date on which a member of the Garda Síochána of the rank of superintendent in the Garda Síochána district in which the first non-intimate sample concerned was taken is informed of the fact that that sample has proved to be insufficient or was inadequately labelled, as the case may be.
 
@@ -68,8 +68,6 @@ Re-taking of certain samples under Part 2 in certain circumstances
 
 (b) to a second non-intimate sample shall be construed as references to a third non-intimate sample, taken, or to be taken, from the person.
 
-(16) A sample taken, or to be taken, from a person under this section shall, for the purposes of this Act, be regarded as if it is to be taken, or had been taken, from the person under section 11 ,
-
-12 or 13 , as may be appropriate.
+(16) A sample taken, or to be taken, from a person under this section shall, for the purposes of this Act, be regarded as if it is to be taken, or had been taken, from the person under section 11, 12 or 13, as may be appropriate.
 
 (17) In this section references to the detention of a person for a period under any of the provisions referred to in section 9(1) shall, if appropriate, include references to the detention of the person for consecutive periods under the provision concerned.

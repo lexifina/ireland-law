@@ -6,7 +6,7 @@ Codes of practice
 
 (b) authorised persons, or
 
-(c) other persons who are prescribed for the purpose of taking samples under section 35 , 49 or 50 , from persons or bodies of deceased persons, as the case may be, under this Act or causing such samples to be taken.
+(c) other persons who are prescribed for the purpose of taking samples under section 35, 49 or 50, from persons or bodies of deceased persons, as the case may be, under this Act or causing such samples to be taken.
 
 (2) The Ombudsman Commission shall, as soon as practicable after the commencement of this section and following consultation with the Director of FSI, prepare for submission to the Minister a draft code of practice for the purposes of providing practical guidance as to the procedures regarding the taking by designated officers of the Ombudsman Commission within the meaning of Part 4 of the Act of 2005 of samples from persons under this Act or causing such samples to be taken.
 
@@ -20,7 +20,7 @@ Codes of practice
 
 (7) The Minister may approve, or approve subject to modifications, a code of practice submitted to the Minister under subsection (6) and, when a code of practice has been so approved, it shall apply and have effect in accordance with its terms.
 
-(8)(a) A code of practice approved under this section may be amended or revoked.
+(8) (a) A code of practice approved under this section may be amended or revoked.
 
 (b) Amendments to such a code of practice, other than amendments of a minor or technical nature, shall be submitted to the Minister for approval.
 

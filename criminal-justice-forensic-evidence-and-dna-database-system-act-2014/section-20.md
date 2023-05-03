@@ -24,9 +24,9 @@ When sample taken for purposes of DNA Database System may also be used for evide
 
 (3) The results of the forensic testing of a sample taken under section 11 that is regarded as a non-intimate sample in accordance with this section may be given in evidence in any proceedings.
 
-(4) A sample taken from a person under section 11 that is regarded as a non-intimate sample in accordance with this section shall, for the purposes of this Act, be regarded as a non-intimate sample taken from the person under section 13 .
+(4) A sample taken from a person under section 11 that is regarded as a non-intimate sample in accordance with this section shall, for the purposes of this Act, be regarded as a non-intimate sample taken from the person under section 13.
 
-(5) Where, during a period of detention of a person under any of the provisions referred to in section 9(1), a sample is taken from the person under section 11 , nothing in subsection (1) shall prevent the taking of an intimate sample or a non-intimate sample under this Part from the person during the period of detention.
+(5) Where, during a period of detention of a person under any of the provisions referred to in section 9(1), a sample is taken from the person under section 11, nothing in subsection (1) shall prevent the taking of an intimate sample or a non-intimate sample under this Part from the person during the period of detention.
 
 (6) Where, during a period of detention of a person under any of the provisions referred to in section 9(1), an intimate sample or a non-intimate sample is taken from the person, nothing in this Part shall prevent the taking of a sample under section 11 from the person during the period of detention.
 

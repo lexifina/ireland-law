@@ -1,6 +1,6 @@
 Disclosure of information
 
-159. (1) Without prejudice to the Official Secrets Act 1963 and subject to section 69 , a person who has, or has had, access to information relating to a sample taken from a person (or child) under this Act, or information in the DNA Database System, shall not disclose the information except for one or more of the following purposes:
+159. (1) Without prejudice to the Official Secrets Act 1963 and subject to section 69, a person who has, or has had, access to information relating to a sample taken from a person (or child) under this Act, or information in the DNA Database System, shall not disclose the information except for one or more of the following purposes:
 
 (a) the purposes of the investigation of an offence or an inquiry relating to a missing person, an unknown person or an unknown deceased person;
 

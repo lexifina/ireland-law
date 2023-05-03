@@ -22,6 +22,6 @@ DNA profiles not to be removed from DNA Database System in certain circumstances
 
 (3) In this section references to the retention period shall be construed as references to—
 
-(a) in the case of section 80 , the retention period under that section and any extension of that period under an authorisation given under subsection (4), (5), (6)or (8) of section 81 , and
+(a) in the case of section 80, the retention period under that section and any extension of that period under an authorisation given under subsection (4), (5), (6)or (8) of section 81, and
 
-(b) in the case of section 84 , the retention period within the meaning of that section.
+(b) in the case of section 84, the retention period within the meaning of that section.

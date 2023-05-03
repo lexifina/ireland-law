@@ -6,7 +6,9 @@ Interpretation (Chapter 1)
 
 75. (1) In this Chapter—
 
-“civil partner” has the meaning it has in section 3 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010; “cohabitant”, in relation to a person, means another person who is neither married to the person nor a civil partner of the person who is living with the person as a husband or wife, or as a civil partner, of the person;
+“civil partner” has the meaning it has in section 3 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+
+“cohabitant”, in relation to a person, means another person who is neither married to the person nor a civil partner of the person who is living with the person as a husband or wife, or as a civil partner, of the person;
 
 “vulnerable person” means a person, other than a child, whose capacity to guard himself or herself against violence, exploitation or abuse, whether physical, sexual or emotional, by another person is significantly impaired through—
 

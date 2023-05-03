@@ -48,12 +48,16 @@ Re-taking of samples under section 31 or 32 in certain circumstances
 
 (14) Nothing in this section shall require the second sample to be taken from an offender or child offender in accordance with this section to be of the same type of biological material as the first sample taken from the offender or child offender which proved to be insufficient, provided that the second sample is one that is permitted to be taken under this Part.
 
-(15) A sample taken from an offender or a child offender in accordance with this section shall, for the purposes of this Act, be regarded as if it had been taken from the offender or child offender under section 31 or 32 , as may be appropriate.
+(15) A sample taken from an offender or a child offender in accordance with this section shall, for the purposes of this Act, be regarded as if it had been taken from the offender or child offender under section 31 or 32, as may be appropriate.
 
 (16) In this section references to a child offender in relation to the taking of a second sample from him or her shall include references to a person who is no longer a child at the time the first sample taken from him or her proves to be insufficient.
 
 (17) In this section—
 
-“the end of the notification period”, in relation to an offender or a child offender who is a sex offender, means the end of the period for which he or she is subject to the requirements of Part 2 of the Sex Offenders Act 2001; “the expiry of the sentence” — (a) in relation to an offender other than a sex offender, has the meaning it has in section 31 , and
+“the end of the notification period”, in relation to an offender or a child offender who is a sex offender, means the end of the period for which he or she is subject to the requirements of Part 2 of the Sex Offenders Act 2001;
 
-(b) in relation to a child offender other than a sex offender, has the meaning it has in section 32 .
+“the expiry of the sentence” —
+
+(a) in relation to an offender other than a sex offender, has the meaning it has in section 31, and
+
+(b) in relation to a child offender other than a sex offender, has the meaning it has in section 32.

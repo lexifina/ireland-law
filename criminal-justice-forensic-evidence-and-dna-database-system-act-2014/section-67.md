@@ -16,7 +16,7 @@ Functions of Director of FSI in relation to DNA Database System
 
 (e) the automated searching for, or automated comparison of certain DNA profiles in the System with other DNA profiles in accordance with Chapter 2 of Part 12;
 
-(f) where appropriate, the making available of certain DNA profiles in the System for transmission or provision to a person or body under section 4 ;
+(f) where appropriate, the making available of certain DNA profiles in the System for transmission or provision to a person or body under section 4;
 
 (g) the entry in or transmission from the System of DNA profiles under Chapter 7 of Part 12;
 

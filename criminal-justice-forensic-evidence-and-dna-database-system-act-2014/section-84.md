@@ -1,6 +1,6 @@
 Removal of DNA profiles in respect of former child offenders from DNA Database System in certain circumstances
 
-84. (1) Subject to sections 85 , 86 and 93 , the DNA profile generated from a sample taken under section 11 , 12 , 13 or 32 and entered in the reference index of the DNA Database System in respect of a person who was a child offender to whom subsection (2) applies shall, if not previously removed, be removed from that System—
+84. (1) Subject to sections 85, 86 and 93, the DNA profile generated from a sample taken under section 11, 12, 13 or 32 and entered in the reference index of the DNA Database System in respect of a person who was a child offender to whom subsection (2) applies shall, if not previously removed, be removed from that System—
 
 (a) within the period of 4 years from the taking of the sample from the person if a sentence other than one of detention was imposed on the person, or
 
@@ -14,4 +14,6 @@ Removal of DNA profiles in respect of former child offenders from DNA Database S
 
 (3) In this section—
 
-“the end of the notification period”, in relation to a child offender who was a sex offender, means the end of the period for which he or she was subject to the requirements of Part 2 of the Sex Offenders Act 2001; “the expiry of the sentence”, in relation to a child offender other than a sex offender, has the meaning it has in section 32 .
+“the end of the notification period”, in relation to a child offender who was a sex offender, means the end of the period for which he or she was subject to the requirements of Part 2 of the Sex Offenders Act 2001;
+
+“the expiry of the sentence”, in relation to a child offender other than a sex offender, has the meaning it has in section 32 .

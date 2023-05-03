@@ -1,6 +1,6 @@
 Destruction of certain samples taken for purposes of DNA Database System
 
-79. (1) Subject to subsection (2), a sample taken from a person under section 11 , 31 , 32 or 34 shall, if not previously destroyed, be destroyed—
+79. (1) Subject to subsection (2), a sample taken from a person under section 11 , 31, 32 or 34 shall, if not previously destroyed, be destroyed—
 
 (a) as soon as a DNA profile has been generated from the sample, or
 

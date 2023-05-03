@@ -4,13 +4,13 @@ Authorisations under this Act
 
 (a) section 11(2), 12(2)(a), 13(2), 20(1)(b)(i), 24(3), 25(3)(i), 29(2), 34(2), 48(3) or 50(2),
 
-(b) subsection (4) or (5) of section 21 ,
+(b) subsection (4) or (5) of section 21,
 
-(c) subsection (4) or (5) of section 22 ,
+(c) subsection (4) or (5) of section 22,
 
-(d) subsection (5) or (7)(a) of section 31 ,
+(d) subsection (5) or (7)(a) of section 31,
 
-(e) subsection (5) or (7)(a) of section 32 ,
+(e) subsection (5) or (7)(a) of section 32,
 
 (f) paragraph (a), (b) or (c) of section 36(3), or
 

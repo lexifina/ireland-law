@@ -38,7 +38,7 @@ Extension of retention period under section 76 for intimate samples and non-inti
 
 (d) any other matter that the Commissioner considers appropriate for the purposes of the determination.
 
-(3) If, in relation to an intimate sample or a non-intimate sample taken from a person, the Commissioner determines that one of the paragraphs of subsection (1) applies, then, he or she may, during the retention period referred to in section 76 , give an authorisation to extend that period by a period of 12 months.
+(3) If, in relation to an intimate sample or a non-intimate sample taken from a person, the Commissioner determines that one of the paragraphs of subsection (1) applies, then, he or she may, during the retention period referred to in section 76, give an authorisation to extend that period by a period of 12 months.
 
 (4) The Commissioner may, while an authorisation under subsection (3) or this subsection, as may be appropriate, is still in force, give an authorisation under this subsection to extend the retention period on a second or further occasion for a period of 12 months commencing on the expiration of the period of 12 months to which the authorisation previously given relates if he or she determines that one of the paragraphs of subsection (1) applies.
 
@@ -68,7 +68,7 @@ Extension of retention period under section 76 for intimate samples and non-inti
 
 (11) Nothing in this section shall—
 
-(a) prevent or restrict the exercise of powers conferred by section 12 or 13 , or
+(a) prevent or restrict the exercise of powers conferred by section 12 or 13, or
 
 (b) pending the conclusion of proceedings under this section, prevent or restrict the use of the sample concerned for the purposes of—
 

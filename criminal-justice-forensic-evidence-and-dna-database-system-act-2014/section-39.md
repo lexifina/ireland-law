@@ -16,7 +16,7 @@ Re-taking of samples from former offenders
 
 (ii) an order was made by a judge of the District Court under subsection (6) of section 34 authorising the sending of a notice under that subsection to the former offender concerned requiring him or her to attend at a named Garda Síochána station for the purpose of having a sample under that section taken from him or her,
 
-(b) the first sample concerned was taken from the former offender concerned in accordance with section 34 ,
+(b) the first sample concerned was taken from the former offender concerned in accordance with section 34,
 
 (c) that sample has proved to be insufficient, and
 
@@ -26,7 +26,7 @@ Re-taking of samples from former offenders
 
 (a) in the case of any former offender, may be made on one occasion only, and
 
-(b) in the case of a former offender who falls under section 33(1)(b), may not be made if a second sample has been taken from him or her in accordance with section 38 .
+(b) in the case of a former offender who falls under section 33(1)(b), may not be made if a second sample has been taken from him or her in accordance with section 38.
 
 (7) If an order is made under subsection (4), a notice under that subsection may be sent by a member of the Garda Síochána to the former offender concerned.
 
@@ -34,7 +34,7 @@ Re-taking of samples from former offenders
 
 (9) Nothing in this section shall require the second sample to be taken from a former offender in accordance with this section to be of the same type of biological material as the first sample taken from him or her which proved to be insufficient, provided that the second sample is one that is permitted to be taken under this Part.
 
-(10) A sample taken from a former offender in accordance with this section shall, for the purposes of this Act, be regarded as if it had been taken from the former offender under section 34 .
+(10) A sample taken from a former offender in accordance with this section shall, for the purposes of this Act, be regarded as if it had been taken from the former offender under section 34.
 
 (11) Subject to subsection (12), a person who fails or refuses, without reasonable cause, to comply with a notice under subsection (4) shall be guilty of an offence and shall be liable on summary conviction—
 

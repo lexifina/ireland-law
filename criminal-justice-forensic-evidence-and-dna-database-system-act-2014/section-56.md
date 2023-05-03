@@ -1,6 +1,6 @@
 Application for court order authorising taking of certain samples under Parts 3 and 6 from protected person or child
 
-56. (1) In the circumstances referred to in subsection (4) or (7) of section 54 , a member of the Garda Síochána not below the rank of inspector may apply to a judge of the District Court for an order authorising the taking of a sample under section 27 , 29 or 48 , as the case may be, from the protected person or child concerned.
+56. (1) In the circumstances referred to in subsection (4) or (7) of section 54, a member of the Garda Síochána not below the rank of inspector may apply to a judge of the District Court for an order authorising the taking of a sample under section 27, 29 or 48, as the case may be, from the protected person or child concerned.
 
 (2) A judge of the District Court shall, for the purposes of determining an application under subsection (1), have regard to the following before making an order under this section:
 

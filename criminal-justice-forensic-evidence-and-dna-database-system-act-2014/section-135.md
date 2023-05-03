@@ -6,7 +6,9 @@ Recording of supply and receipt of data for requests pursuant to Article 7 of 20
 
 (a) in the case of requests under section 77, and
 
-(b) in the case of requests referred to in section 78, that are made pursuant to Article 7 of the 2008 Council Decision or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway. (2) The recording of the supply and receipt of data under subsection (1)shall be in a permanent legible form or be capable of being converted into a permanent legible form and shall include the following particulars in relation to the data:
+(b) in the case of requests referred to in section 78, that are made pursuant to Article 7 of the 2008 Council Decision or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway.
+
+(2) The recording of the supply and receipt of data under subsection (1)shall be in a permanent legible form or be capable of being converted into a permanent legible form and shall include the following particulars in relation to the data:
 
 (a) a description of the data supplied or received;
 

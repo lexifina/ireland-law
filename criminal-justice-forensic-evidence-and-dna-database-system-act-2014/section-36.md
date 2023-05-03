@@ -1,8 +1,8 @@
 Use of reasonable force to take sample from offender or child offender
 
-36. (1) Without prejudice to the generality of section 31 , where an offender who is in prison fails or refuses to allow a sample to be taken from him or her pursuant to that section, a prison officer and the prison officer or officers assisting that officer, may use such force as is reasonably considered necessary to take the sample or to prevent the loss, destruction or contamination of the sample or both.
+36. (1) Without prejudice to the generality of section 31, where an offender who is in prison fails or refuses to allow a sample to be taken from him or her pursuant to that section, a prison officer and the prison officer or officers assisting that officer, may use such force as is reasonably considered necessary to take the sample or to prevent the loss, destruction or contamination of the sample or both.
 
-(2) Without prejudice to the generality of section 32 , where a child offender who is detained in a children detention school or a place of detention fails or refuses to allow a sample to be taken from him or her pursuant to that section—
+(2) Without prejudice to the generality of section 32, where a child offender who is detained in a children detention school or a place of detention fails or refuses to allow a sample to be taken from him or her pursuant to that section—
 
 (a) an authorised member of the staff of a children detention school and the authorised member or members of the staff of the school assisting that member of the staff, or
 

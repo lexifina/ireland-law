@@ -8,7 +8,7 @@ Entry of DNA profiles of volunteers in reference index of DNA Database System
 
 (c) a victim, or a person reasonably considered to be a victim, of the offence, or incident that may have involved the commission of an offence, being investigated, that he or she may consent to the entry of his or her DNA profile generated from the sample in the reference index of the DNA Database System.
 
-(2) A member of the Garda Síochána or an authorised person shall inform a volunteer to whom subsection (1)applies of the following before the DNA profile in respect of the volunteer may be entered in the reference index of the DNA Database System:
+(2) A member of the Garda Síochána or an authorised person shall inform a volunteer to whom subsection (1) applies of the following before the DNA profile in respect of the volunteer may be entered in the reference index of the DNA Database System:
 
 (a) that the volunteer concerned is not obliged to consent to his or her DNA profile being entered in the reference index of the DNA Database System;
 

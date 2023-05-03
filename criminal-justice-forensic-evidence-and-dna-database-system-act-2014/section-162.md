@@ -1,6 +1,6 @@
 Evidence of certain authorisations under this Act
 
-162. (1) In any criminal proceedings, a certificate to which an authorisation given under Part 2 other than section 11 , or a copy of such an authorisation, is annexed—
+162. (1) In any criminal proceedings, a certificate to which an authorisation given under Part 2 other than section 11, or a copy of such an authorisation, is annexed—
 
 (a) purporting to be signed by a member of the Garda Síochána, and
 

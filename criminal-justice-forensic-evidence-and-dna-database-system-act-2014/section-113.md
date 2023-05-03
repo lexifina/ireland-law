@@ -4,7 +4,7 @@ Automated searching of certain DNA data in DNA Database System
 
 (a) the crime scene index, and
 
-(b) the reference index, other than DNA profiles entered in that index under section 28 , for the purpose of conducting an automated search of those reference data by comparing a DNA profile (whether identified or unidentified) in an individual case supplied by the national contact point of that designated state with the DNA profiles referred to in paragraphs (a) and (b) to ascertain whether there is a match between them.
+(b) the reference index, other than DNA profiles entered in that index under section 28, for the purpose of conducting an automated search of those reference data by comparing a DNA profile (whether identified or unidentified) in an individual case supplied by the national contact point of that designated state with the DNA profiles referred to in paragraphs (a) and (b) to ascertain whether there is a match between them.
 
 (2) The national contact point shall ensure that, following a search by the comparison of DNA profiles by the national contact point of a designated state pursuant to subsection (1), an automated response is sent from the DNA Database System to that national contact point comprising—
 

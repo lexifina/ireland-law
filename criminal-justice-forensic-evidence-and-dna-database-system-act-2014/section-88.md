@@ -1,3 +1,5 @@
+## CHAPTER 3 Application of this Part to persons from whom samples were taken under Part 5
+
 Destruction of samples taken from persons under sections 41 and 42 and removal of their DNA profiles from DNA Database System
 
 88. (1) Subject to subsection (4), a sample taken from a person under section 41 or 42 shall be destroyed—

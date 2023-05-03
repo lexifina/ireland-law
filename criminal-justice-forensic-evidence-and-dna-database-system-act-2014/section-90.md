@@ -1,6 +1,6 @@
 Destruction of samples taken from persons under section 44 and removal of their DNA profiles from DNA Database System
 
-90. (1) A sample taken from a prescribed person under section 44 shall be destroyed—
+90. (1) A sample taken from a prescribed person under section 44shall be destroyed—
 
 (a) as soon as a DNA profile has been generated from the sample, or
 

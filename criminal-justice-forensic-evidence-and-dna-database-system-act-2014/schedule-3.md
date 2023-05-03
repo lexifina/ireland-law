@@ -40,9 +40,9 @@ CONSIDERING that closer police and judicial cooperation in criminal matters must
 
 CONSIDERING that the hit/no hit system provides for a structure of comparing anonymous profiles, where additional personal data is exchanged only after a hit, the supply and receipt of which is governed by national law, including the legal assistance rules. This set-up guarantees an adequate system of data protection, it being understood that the supply of personal data to another State requires an adequate level of data protection on the part of the receiving State,
 
-AWARE OF the comprehensive exchange of information and data resulting from closer police and judicial cooperation, this Agreement seeks to warrant an appropriate level of data protection. It observes the level of protection designed for the processing of personal data in the Council of Europe Convention of 28 January 1981 for the Protection of Individuals with regard to Automatic Processing of Personal Data, the Additional Protocol of 8 November 2001 to the Convention and the principles of Recommendation No R (87) 15 of the Council of Europe Regulating the Use of Personal Data in the Police Sector,
+AWARE OF the comprehensive exchange of information and data resulting from closer police and judicial cooperation, this Agreement seeks to warrant an appropriate level of data protection. It observes the level of protection designed for the processing of personal data in the Council of Europe Convention of 28 January 1981 for the Protection of Individuals with regard to Automatic Processing of Personal Data, the Additional Protocol of 8 November 2001 to the Convention and the principles of Recommendation No R (87) 15 of the Council of Europe Regulating the Use of Personal Data in the Police Sector, TAKING AS A BASIS the mutual confidence of the Member States of the European Union and Iceland and Norway in the structure and operation of their legal systems,
 
-TAKING AS A BASIS the mutual confidence of the Member States of the European Union and Iceland and Norway in the structure and operation of their legal systems, RECOGNISING that the provisions of bilateral and multilateral agreements remain applicable for all matters not covered by this Agreement,
+RECOGNISING that the provisions of bilateral and multilateral agreements remain applicable for all matters not covered by this Agreement,
 
 HAVE DECIDED TO CONCLUDE THIS AGREEMENT:
 
@@ -60,11 +60,11 @@ Article 2
 
 Definitions
 
-1. ‘Contracting Parties’ shall mean the European Union and Iceland and Norway.
+1. "Contracting Parties" shall mean the European Union and Iceland and Norway.
 
-2. ‘Member State’ shall mean a Member State of the European Union.
+2. "Member State" shall mean a Member State of the European Union.
 
-3. ‘State’ shall mean a Member State, Iceland or Norway.
+3. "State" shall mean a Member State, Iceland or Norway.
 
 Article 3
 
@@ -76,9 +76,7 @@ Uniform application and interpretation
 
 Article 4
 
-Dispute settlement
-
-Any dispute between either Iceland or Norway and a Member State regarding the interpretation or the application of this Agreement or of any of the provisions referred to in Article 1 and amendments thereto may be referred by a Party to the dispute to a meeting of representatives of the governments of the Member States and of Iceland and Norway, with a view to its speedy settlement.
+Dispute settlement Any dispute between either Iceland or Norway and a Member State regarding the interpretation or the application of this Agreement or of any of the provisions referred to in Article 1 and amendments thereto may be referred by a Party to the dispute to a meeting of representatives of the governments of the Member States and of Iceland and Norway, with a view to its speedy settlement.
 
 Article 5
 
@@ -100,7 +98,9 @@ Iceland and Norway shall decide independently whether to accept the content of t
 
 Article 6
 
-Review The Contracting Parties agree to carry out a common review of this Agreement no later than five years after its entry into force. The review shall in particular address the practical implementation, interpretation and development of the Agreement and shall also include issues such as the consequences of development of the European Union relating to the subject-matter of this Agreement.
+Review
+
+The Contracting Parties agree to carry out a common review of this Agreement no later than five years after its entry into force. The review shall in particular address the practical implementation, interpretation and development of the Agreement and shall also include issues such as the consequences of development of the European Union relating to the subject-matter of this Agreement.
 
 Article 7
 
@@ -160,7 +160,9 @@ Depository
 
 1. The Secretary-General of the Council of the European Union shall act as the depository of this Agreement.
 
-2. The depository shall make public information on any notification made concerning this Agreement. Done at Stockholm on 26 November 2009 and at Brussels on 30 November 2009 in a single original in the Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish, Icelandic and Norwegian languages, each text being equally authentic.
+2. The depository shall make public information on any notification made concerning this Agreement.
+
+Done at Stockholm on 26 November 2009 and at Brussels on 30 November 2009 in a single original in the Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish, Icelandic and Norwegian languages, each text being equally authentic.
 
 For the European Union
 

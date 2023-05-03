@@ -22,7 +22,7 @@ Taking of samples for mass screening
 
 (f) such other matter as the member of the Garda Síochána giving the authorisation for the mass screening concerned considers appropriate.
 
-(4) Subject to sections 53 and 55 , a member of the Garda Síochána or an authorised person shall inform a person of the following before seeking his or her consent to the taking of a sample under this section or the member or authorised person takes, or causes to be taken, a sample under this section from him or her:
+(4) Subject to sections 53 and 55, a member of the Garda Síochána or an authorised person shall inform a person of the following before seeking his or her consent to the taking of a sample under this section or the member or authorised person takes, or causes to be taken, a sample under this section from him or her:
 
 (a) that an authorisation for a mass screening has been given under subsection (2) and that the person is one of the class of persons to whom it applies;
 
@@ -34,13 +34,13 @@ Taking of samples for mass screening
 
 (i) that the first-mentioned sample has proved to be insufficient, was inadequately labelled or that other reason for requiring a second or further sample under this section to be taken, as may be appropriate, and
 
-(ii) that a second or further sample is, in accordance with section 30 , to be taken from him or her;
+(ii) that a second or further sample is, in accordance with section 30, to be taken from him or her;
 
 (e) that the sample will be used to generate a DNA profile in respect of the person for the purposes of the investigation of the particular relevant offence in relation to which the sample is being taken; and
 
 (f) that the sample and the DNA profile generated from the sample in respect of the person may be destroyed in accordance with Part 10.
 
-(5) Subject to sections 54 and 56 , a person shall, before a sample is taken from him or her under this section, consent in writing to the taking of the sample and the consent shall refer to the authorisation for a mass screening concerned.
+(5) Subject to sections 54 and 56, a person shall, before a sample is taken from him or her under this section, consent in writing to the taking of the sample and the consent shall refer to the authorisation for a mass screening concerned.
 
 (6) Subject to this Act, a member of the Garda Síochána or an authorised person may take, or cause to be taken, a sample under this section from a person who is one of a class of persons to whom an authorisation for a mass screening given under subsection (2) applies.
 
