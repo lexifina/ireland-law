@@ -20,7 +20,9 @@ Whereas:
 
 (3) All Member States have ratified the Council of Europe Convention of 8 November 1990 on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime (the 1990 Convention). The Convention obliges signatories to recognise and enforce a confiscation order made by another party, or to submit a request to its competent authorities for the purpose of obtaining an order of confiscation and, if such order is granted, enforce it. The Parties may refuse requests for confiscation inter alia if the offence to which the request relates would not be an offence under the law of the requested Party, or if under the law of the requested Party confiscation is not provided for in respect of the type of offence to which the request relates.
 
-(4) On 30 November 2000 the Council adopted a programme of measures to implement the principle of mutual recognition of decisions in criminal matters, giving first priority (measures 6 and 7) to the adoption of an instrument applying the principle of mutual recognition to the freezing of evidence and property. Moreover, pursuant to paragraph 3.3 of the programme, the aim is to improve, in accordance with the principle of mutual recognition, execution in one Member State of a confiscation order issued in another Member State, inter alia for the purpose of restitution to a victim of a criminal offence, taking into account the existence of the 1990 Convention. With a view to achieving this aim, this Framework Decision, within its field of application, reduces the grounds for refusal of enforcement and suppresses, among Member States, any system of conversion of the confiscation order into a national one.
+(4) On 30 November 2000 the Council adopted a programme of measures to implement the principle of mutual recognition of decisions in criminal matters, giving first priority (measures 6 and 7) to the adoption of an instrument applying the principle of mutual recognition to the freezing of evidence and property. Moreover, pursuant
+
+Opinion delivered on 20 November 2002 (OJ C 25 E, 29.1.2004, p. 205). to paragraph 3.3 of the programme, the aim is to improve, in accordance with the principle of mutual recognition, execution in one Member State of a confiscation order issued in another Member State, inter alia for the purpose of restitution to a victim of a criminal offence, taking into account the existence of the 1990 Convention. With a view to achieving this aim, this Framework Decision, within its field of application, reduces the grounds for refusal of enforcement and suppresses, among Member States, any system of conversion of the confiscation order into a national one.
 
 (5) Council Framework Decision 2001/500/JHA lays down provisions on money laundering, the identification, tracing, freezing , seizing and confiscation of instrumentalities and the proceeds from crime. Under that Framework Decision, Member States are also obliged not to make or uphold reservations in respect of Article 2 of the 1990 Convention, in so far as the offence is punishable by deprivation of liberty or a detention order for a maximum of more than one year.
 
@@ -34,7 +36,7 @@ Whereas:
 
 (10) The proper practical operation of this Framework Decision presupposes close liaison between the competent national authorities involved, in particular in cases of simultaneous execution of a confiscation order in more than one Member State.
 
-(11) The terms ‘proceeds’ and ‘instrumentalities’ used in this Framework Decision are sufficiently broadly defined to include objects of offences whenever necessary.
+(11) The terms "proceeds" and "instrumentalities" used in this Framework Decision are sufficiently broadly defined to include objects of offences whenever necessary.
 
 (12) Where there are doubts with regard to the location of property which is the subject of a confiscation order, Member States should use all available means in order to identify the correct location of that property, including the use of all available information systems.
 
@@ -64,13 +66,13 @@ Definitions
 
 For the purpose of this Framework Decision,
 
-(a) ‘issuing State’ shall mean the Member State in which a court has issued a confiscation order within the framework of criminal proceedings;
+(a) "issuing State" shall mean the Member State in which a court has issued a confiscation order within the framework of criminal proceedings;
 
-(b) ‘executing State’ shall mean the Member State to which a confiscation order has been transmitted for the purpose of execution;
+(b) "executing State" shall mean the Member State to which a confiscation order has been transmitted for the purpose of execution;
 
-(c) ‘confiscation order’ shall mean a final penalty or measure imposed by a court following proceedings in relation to a criminal offence or offences, resulting in the definitive deprivation of property;
+(c) "confiscation order" shall mean a final penalty or measure imposed by a court following proceedings in relation to a criminal offence or offences, resulting in the definitive deprivation of property;
 
-(d) ‘property’ shall mean property of any description, whether corporeal or incorporeal, movable or immovable, and legal documents and instruments evidencing title to or interest in such property, which the court in the issuing State has decided:
+(d) "property" shall mean property of any description, whether corporeal or incorporeal, movable or immovable, and legal documents and instruments evidencing title to or interest in such property, which the court in the issuing State has decided:
 
 (i) is the proceeds of an offence, or equivalent to either the full value or part of the value of such proceeds, or
 
@@ -80,13 +82,13 @@ For the purpose of this Framework Decision,
 
 (iv) is liable to confiscation under any other provisions relating to extended powers of confiscation under the law of the issuing State;
 
-(e) ‘proceeds’ shall mean any economic advantage derived from criminal offences. It may consist of any form of property;
+(e) "proceeds" shall mean any economic advantage derived from criminal offences. It may consist of any form of property;
 
-(f) ‘instrumentalities’ shall mean any property used or intended to be used, in any manner, wholly or in part, to commit a criminal offence or criminal offences;
+(f) "instrumentalities" shall mean any property used or intended to be used, in any manner, wholly or in part, to commit a criminal offence or criminal offences;
 
-(g) ‘cultural objects forming part of the national cultural heritage’ shall be defined in accordance with Article 1(1) of Council Directive 93/7/EEC of 15 March 1993 on the return of cultural objects unlawfully removed from the territory of a Member State;
+(g) "cultural objects forming part of the national cultural heritage" shall be defined in accordance with Article 1(1) of Council Directive 93/7/EEC of 15 March 1993 on the return of cultural objects unlawfully removed from the territory of a Member State;
 
-(h) where the criminal proceedings leading to a confiscation order involve a predicate offence as well as money laundering, a ‘criminal offence’ mentioned in Article 8(2) (f) shall mean a predicate offence.
+(h) where the criminal proceedings leading to a confiscation order involve a predicate offence as well as money laundering, a "criminal offence" mentioned in Article 8(2) (f) shall mean a predicate offence.
 
 Article 3
 
@@ -106,7 +108,7 @@ Article 4
 
 Transmission of confiscation orders
 
-1. A confiscation order, together with the certificate provided for in paragraph 2, the standard form for which is given in the Annex, may, in the case of a confiscation order concerning an amount of money, be transmitted to the competent authority of a Member State in which the competent authority of the issuing State has reasonable grounds to believe that the natural or legal person against whom the confiscation order has been issued has property or income.
+1. A confiscation order, together with the certificate provided for in paragraph 2, the standard form for which is given in the Annex, may, in the case of a confiscation order concerning an amount of money, be transmitted to the competent authority of a Member State in which the competent authority of the issuing State has and of the Council (OJ L 187, 10.7.2001, p. 43). reasonable grounds to believe that the natural or legal person against whom the confiscation order has been issued has property or income.
 
 In the case of a confiscation order concerning specific items of property, the confiscation order and the certificate may be transmitted to the competent authority of a Member State in which the competent authority of the issuing State has reasonable grounds to believe that property covered by the confiscation order is located.
 

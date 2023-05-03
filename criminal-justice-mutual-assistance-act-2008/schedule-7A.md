@@ -18,7 +18,9 @@ Whereas:
 
 (2) In their Declaration on Solidarity against Terrorism of 25 March 2004, the Heads of State and Government of the Member States of the European Union declared their firm intention that the Member States mobilise all the instruments at their disposal to assist a Member State or an acceding State in its territory at the request of its political authorities in the event of a terrorist attack.
 
-(3) Following the attacks of 11 September 2001, the special intervention units of all law enforcement authorities of the Member States have already initiated cooperation activities under the aegis of the Police Chiefs Task Force. Since 2001, their network, called ‘Atlas’, has conducted various seminars, studies, exchanges of materials, and joint exercises.
+Opinion of 31 January 2008 (not yet published in the Official Journal).
+
+(3) Following the attacks of 11 September 2001, the special intervention units of all law enforcement authorities of the Member States have already initiated cooperation activities under the aegis of the Police Chiefs Task Force. Since 2001, their network, called "Atlas", has conducted various seminars, studies, exchanges of materials, and joint exercises.
 
 (4) No single Member State has all the means, resources and expertise at its disposal to deal effectively with all possible kinds of specific or large-scale crisis situations requiring special intervention. It is therefore of crucial importance that each Member State be able to request the assistance of another Member State.
 
@@ -40,11 +42,13 @@ Definitions
 
 For the purpose of this Decision:
 
-(a) ‘special intervention unit’ shall mean any law enforcement unit of a Member State which is specialised in the control of a crisis situation;
+(a) "special intervention unit" shall mean any law enforcement unit of a Member State which is specialised in the control of a crisis situation;
 
-(b) ‘crisis situation’ shall mean any situation in which the competent authorities of a Member State have reasonable grounds to believe that there is a criminal offence presenting a serious direct physical threat to persons, property, infrastructure or institutions in that Member State, in particular those situations referred to in Article 1(1) of Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism;
+(b) "crisis situation" shall mean any situation in which the competent authorities of a Member State have reasonable grounds to believe that there is a criminal offence presenting a serious direct physical threat to persons, property, infrastructure or institutions in that Member State, in particular those situations referred to in Article 1(1) of Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism;
 
-(c) ‘competent authority’ shall mean the national authority which may make requests and give authorisations regarding the deployment of the special intervention units.
+See page 1 of this Official Journal.
+
+(c) "competent authority" shall mean the national authority which may make requests and give authorisations regarding the deployment of the special intervention units.
 
 Article 3
 

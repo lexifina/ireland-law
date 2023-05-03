@@ -34,7 +34,7 @@ Definitions
 
 For the purposes of this Framework Decision:
 
-(a) ‘decision’ shall mean a final decision requiring a financial penalty to be paid by a natural or legal person where the decision was made by:
+(a) "decision" shall mean a final decision requiring a financial penalty to be paid by a natural or legal person where the decision was made by:
 
 (i) a court of the issuing State in respect of a criminal offence under the law of the issuing State;
 
@@ -44,7 +44,7 @@ For the purposes of this Framework Decision:
 
 (iv) a court having jurisdiction in particular in criminal matters, where the decision was made regarding a decision as referred to in point (iii) ;
 
-(b) ‘financial penalty’ shall mean the obligation to pay:
+(b) "financial penalty" shall mean the obligation to pay:
 
 (i) a sum of money on conviction of an offence imposed in a decision;
 
@@ -60,9 +60,11 @@ A financial penalty shall not include:
 
 — orders that have a civil nature and arise out of a claim for damages and restitution and which are enforceable in accordance with Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters;
 
-(c) ‘issuing State’ shall mean the Member State in which a decision within the meaning of this Framework Decision was delivered;
+L 381, 28.12.2004, p. 10).
 
-(d) ‘executing State’ shall mean the Member State to which a decision has been transmitted for the purpose of enforcement.
+(c) "issuing State" shall mean the Member State in which a decision within the meaning of this Framework Decision was delivered;
+
+(d) "executing State" shall mean the Member State to which a decision has been transmitted for the purpose of enforcement.
 
 Article 2
 
@@ -94,9 +96,13 @@ Transmission of decisions and recourse to the central authority
 
 5. If the competent authority in the executing State is not known to the competent authority in the issuing State, the latter shall make all necessary inquiries, including via the contact points of the European Judicial Network in order to obtain the information from the executing State.
 
-6. When an authority in the executing State which receives a decision has no jurisdiction to recognise it and take the necessary measures for its execution, it shall, ex officio, transmit the decision to the competent authority and shall inform the competent authority in the issuing State accordingly.
+6. When an authority in the executing State which receives a decision has no jurisdiction to recognise it and take the necessary measures for its execution, it shall,
 
-7. The United Kingdom and Ireland, respectively, may state in a declaration that the decision together with the certificate must be sent via its central authority or authorities specified by it in the declaration. These Member States may at any time by a further declaration limit the scope of such a declaration for the purpose of giving greater effect to paragraph 3. They shall do so when the provisions on mutual assistance of the Schengen Implementation Convention are put into effect for them. Any declaration shall be deposited with the General Secretariat of the Council and notified to the Commission. Article 5
+Council Joint Action 98/428/JHA of 29 June 1998 on the creation of a European Judicial Network (OJ L 191, 7.7.1998, p. 4). ex officio, transmit the decision to the competent authority and shall inform the competent authority in the issuing State accordingly.
+
+7. The United Kingdom and Ireland, respectively, may state in a declaration that the decision together with the certificate must be sent via its central authority or authorities specified by it in the declaration. These Member States may at any time by a further declaration limit the scope of such a declaration for the purpose of giving greater effect to paragraph 3. They shall do so when the provisions on mutual assistance of the Schengen Implementation Convention are put into effect for them. Any declaration shall be deposited with the General Secretariat of the Council and notified to the Commission.
+
+Article 5
 
 Scope
 
@@ -170,9 +176,7 @@ Law governing enforcement
 
 2. In the case where the sentenced person is able to furnish proof of a payment, totally or in part, in any State, the competent authority of the executing State shall consult the competent authority of the Issuing State in the way provided for in Article 7(3). Any part of the penalty recovered in whatever manner in any State shall be deducted in full from the amount, which is to be enforced in the executing State.
 
-3. A financial penalty imposed on a legal person shall be enforced even if the executing State does not recognise the principle of criminal liability of legal persons.
-
-Article 10
+3. A financial penalty imposed on a legal person shall be enforced even if the executing State does not recognise the principle of criminal liability of legal persons. Article 10
 
 Imprisonment or other alternative sanction by way of substitution for non-recovery of the financial penalty
 
@@ -266,7 +270,9 @@ Implementation
 
 (a) decisions mentioned in Article 1(a) (i) and (iv) ; and/or
 
-(b) with regard to legal persons, decisions related to conduct for which a European instrument provides for the application of the principle of liability of legal persons. Any Member State that wants to make use of this paragraph, shall notify a declaration to that effect to the Secretary General of the Council upon the adoption of this Framework Decision. The declaration shall be published in the Official Journal of the European Union.
+(b) with regard to legal persons, decisions related to conduct for which a European instrument provides for the application of the principle of liability of legal persons.
+
+Any Member State that wants to make use of this paragraph, shall notify a declaration to that effect to the Secretary General of the Council upon the adoption of this Framework Decision. The declaration shall be published in the Official Journal of the European Union.
 
 3. Each Member State may, where the certificate referred to in Article 4 gives rise to an issue that fundamental rights or fundamental legal principles as enshrined in Article 6 of the Treaty may have been infringed, oppose the recognition and the execution of decisions. The procedure referred to in Article 7(3) shall apply.
 

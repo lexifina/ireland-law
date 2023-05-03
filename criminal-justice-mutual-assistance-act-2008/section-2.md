@@ -258,6 +258,8 @@ Interpretation (general).
 
 (a) a court may consider the relevant international instrument and any explanatory document issued in connection with it, and
 
+1 OJ No. L 444, 31.12.2020, p. 14
+
 (b) give the instrument and any such document such weight as is appropriate in the circumstances.
 
 (6) For convenience of reference—
