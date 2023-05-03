@@ -1,8 +1,8 @@
 Recording of automated supply of data
 
-127. (1) The national contact point in relation to DNA data shall record, in accordance with subsection (3), the supply and receipt of data, including whether or not a match of DNA profiles is found, pursuant to sections 113 , 114 , 115 and 116 .
+127. (1) The national contact point in relation to DNA data shall record, in accordance with subsection (3), the supply and receipt of data, including whether or not a match of DNA profiles is found, pursuant to sections 113, 114, 115 and 11 .
 
-(2) The national contact point in relation to dactyloscopic data shall record, in accordance with subsection (3), the supply and receipt of data, including whether or not a match of dactyloscopic data is found, pursuant to sections 119 and 120 .
+(2) The national contact point in relation to dactyloscopic data shall record, in accordance with subsection (3), the supply and receipt of data, including whether or not a match of dactyloscopic data is found, pursuant to sections 119 and 120.
 
 (3) The recording of the supply and receipt of data under subsection (1) or (2)shall be in a permanent legible form or be capable of being converted into a permanent legible form and shall include the following particulars in relation to the data:
 
@@ -12,7 +12,7 @@ Recording of automated supply of data
 
 (c) the name or reference code of the national contact point concerned and the name or reference code of the national contact point of the designated state concerned; and
 
-(d) in the case of data supplied pursuant to section 115 , 116 or 120 —
+(d) in the case of data supplied pursuant to section 115, 116 or 120 —
 
 (i) the reason for the search or comparison concerned,
 

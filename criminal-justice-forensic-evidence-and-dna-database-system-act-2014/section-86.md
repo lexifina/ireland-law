@@ -2,7 +2,7 @@ Date on which sample under section 11, 12, 13, 31 or 32 may be deemed to have be
 
 86. (1) This section applies where a sample (in this section called “the first sample”) is taken from a person—
 
-(a) under section 11 , 12 or 13 while he or she is detained under any of the provisions referred to in section 9(1) for the purposes of the investigation of a relevant offence, or
+(a) under section 11, 12 or 13 while he or she is detained under any of the provisions referred to in section 9(1) for the purposes of the investigation of a relevant offence, or
 
 (b) under section 31 or 32 in connection with a conviction for a relevant offence or a sexual offence, and a DNA profile in respect of the person is generated from that sample and entered in the reference index of the DNA Database System.
 
@@ -18,14 +18,10 @@ Date on which sample under section 11, 12, 13, 31 or 32 may be deemed to have be
 
 (i) for the purposes of the application of subsection (7)or (9)of section 81 to the person, and
 
-(ii) for the purposes of the application of subsection (1) of section 84 to the person so that the retention period under that section shall be—
+(ii) for the purposes of the application of subsection (1) of section 84to the person so that the retention period under that section shall be—
 
 (I) in the case of a person falling under paragraph (a)of that subsection, the period of 4 years from the subsequent date, or
 
 (II) in the case of a person falling under paragraph (b)of that subsection, the period of 6 years from the subsequent date but only if that period is longer than the retention period under that subsection.
 
-(3) The subsequent date for the purposes of subsection (2)(a) shall be the latest date on which a sample under section 11 , 31 or 32 , as the case may be, may have been taken from the person concerned.
-
-## CHAPTER 2 Application of this Part to persons from whom samples were taken under Part
-
-3
+(3) The subsequent date for the purposes of subsection (2)(a) shall be the latest date on which a sample under section 11, 31 or 32, as the case may be, may have been taken from the person concerned.

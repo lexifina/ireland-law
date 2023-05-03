@@ -20,7 +20,9 @@ Whereas:
 
 (3) In the Hague Programme for strengthening freedom, security and justice in the European Union of November 2004, the European Council set forth its conviction that for that purpose an innovative approach to the cross-border exchange of law enforcement information was needed.
 
-(4) The European Council accordingly stated that the exchange of such information should comply with the conditions applying to the principle of availability. This means that a law enforcement officer in one Member State of the Union who needs information in order to carry out his duties can obtain it from another Member State and that the law enforcement authorities in the Member State that holds this information will make it available for the declared purpose, taking account of the needs of investigations pending in that Member State.
+(4) The European Council accordingly stated that the exchange of such information should comply with the conditions applying to the principle of availability. This means that a law enforcement officer in one Member State of the Union who needs information in order to carry out his duties can obtain it from another Member State and that the law enforcement
+
+Opinion of 10 June 2007 (not yet published in the Official Journal). authorities in the Member State that holds this information will make it available for the declared purpose, taking account of the needs of investigations pending in that Member State.
 
 (5) The European Council set 1 January 2008 as the deadline for achieving this objective in the Hague Programme.
 
@@ -50,13 +52,13 @@ Whereas:
 
 (18) The hit/no hit system provides for a structure of comparing anonymous profiles, where additional personal data is exchanged only after a hit, the supply and receipt of which is governed by national law, including the legal assistance rules. This set-up guarantees an adequate system of data protection, it being understood that the supply of personal data to another Member State requires an adequate level of data protection on the part of the receiving Member States.
 
-(19)Aware of the comprehensive exchange of information and data resulting from closer police and judicial cooperation, this Decision seeks to warrant an appropriate level of data protection. It observes the level of protection designed for the processing of personal data in the Council of Europe Convention of 28 January 1981 for the Protection of Individuals with regard to Automatic Processing of Personal Data, the Additional Protocol of 8 November 2001 to the Convention and the principles of Recommendation No R (87) 15 of the Council of Europe Regulating the Use of Personal Data in the Police Sector.
+(19) Aware of the comprehensive exchange of information and data resulting from closer police and judicial cooperation, this Decision seeks to warrant an appropriate level of data protection. It observes the level of protection designed for the processing of personal data in the Council of Europe Convention of 28 January 1981 for the Protection of Individuals with regard to Automatic Processing of Personal Data, the Additional Protocol of 8 November 2001 to the Convention and the principles of Recommendation No R (87) 15 of the Council of Europe Regulating the Use of Personal Data in the Police Sector.
 
-(20)The data protection provisions contained in this Decision also include data protection principles which were necessary due to the lack of a Framework Decision on data protection in the Third Pillar. This Framework Decision should be applied to the entire area of police and judicial cooperation in criminal matters under the condition that its level of data protection is not lower than the protection laid down in the Council of Europe Convention for the Protection of Individuals with regard to automatic Processing of Personal Data of 28 January 1981 and its additional Protocol of 8 November 2001 and takes account of Recommendation No R (87) 15 of 17 September 1987 of the Committee of Ministers to Member States regulating the use of personal data in the police sector, also where data are not processed automatically.
+(20) The data protection provisions contained in this Decision also include data protection principles which were necessary due to the lack of a Framework Decision on data protection in the Third Pillar. This Framework Decision should be applied to the entire area of police and judicial cooperation in criminal matters under the condition that its level of data protection is not lower than the protection laid down in the Council of Europe Convention for the Protection of Individuals with regard to automatic Processing of Personal Data of 28 January 1981 and its additional Protocol of 8 November 2001 and takes account of Recommendation No R (87) 15 of 17 September 1987 of the Committee of Ministers to Member States regulating the use of personal data in the police sector, also where data are not processed automatically.
 
-(21)Since the objectives of this Decision, in particular the improvement of information exchange in the European Union, cannot be sufficiently achieved by the Member States in isolation owing to the cross-border nature of crime fighting and security issues so that the Member States are obliged to rely on one another in these matters, and can therefore be better achieved at European Union level, the Council may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty establishing the European Community, to which Article 2 of the Treaty on European Union refers. In accordance with the principle of proportionality pursuant to Article 5 of the EC Treaty, this Decision does not go beyond what is necessary to achieve those objectives.
+(21) Since the objectives of this Decision, in particular the improvement of information exchange in the European Union, cannot be sufficiently achieved by the Member States in isolation owing to the cross-border nature of crime fighting and security issues so that the Member States are obliged to rely on one another in these matters, and can therefore be better achieved at European Union level, the Council may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty establishing the European Community, to which Article 2 of the Treaty on European Union refers. In accordance with the principle of proportionality pursuant to Article 5 of the EC Treaty, this Decision does not go beyond what is necessary to achieve those objectives.
 
-(22)This Decision respects the fundamental rights and observes the principles set out in particular in the Charter of Fundamental Rights of the European Union,
+(22) This Decision respects the fundamental rights and observes the principles set out in particular in the Charter of Fundamental Rights of the European Union,
 
 HAS DECIDED AS FOLLOWS:
 
@@ -220,7 +222,7 @@ Article 16
 
 Supply of information in order to prevent terrorist offences
 
-1. For the prevention of terrorist offences, Member States may, in compliance with national law, in individual cases, even without being requested to do so, supply other Member States’ national contact points, as referred to in paragraph 3, with the personal data and information specified in paragraph 2, in so far as is necessary because particular circumstances give reason to believe that the data subjects will commit criminal offences as referred to in Articles 1 to 3 of Council Framework Decision 2002/475/JHA of 13 June on combating terrorism. 2002
+1. For the prevention of terrorist offences, Member States may, in compliance with national law, in individual cases, even without being requested to do so, supply other Member States’ national contact points, as referred to in paragraph 3, with the personal data and information specified in paragraph 2, in so far as is necessary because particular circumstances give reason to believe that the data subjects will commit criminal offences as referred to in Articles 1 to 3 of Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism.
 
 2. The data to be supplied shall comprise surname, first names, date and place of birth and a description of the circumstances giving rise to the belief referred to in paragraph 1.
 
@@ -292,9 +294,7 @@ General rules on civil liability
 
 Article 22
 
-Criminal liability
-
-Officers operating within another Member State’s territory under this Decision, shall be treated in the same way as officers of the host Member State with regard to any criminal offences that might be committed by, or against them, save as otherwise provided in another agreement which is binding on the Member States concerned.
+Criminal liability Officers operating within another Member State’s territory under this Decision, shall be treated in the same way as officers of the host Member State with regard to any criminal offences that might be committed by, or against them, save as otherwise provided in another agreement which is binding on the Member States concerned.
 
 Article 23
 
@@ -312,13 +312,13 @@ Definitions and scope
 
 1. For the purposes of this Decision:
 
-(a) ‘processing of personal data’ shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, sorting, retrieval, consultation, use, disclosure by supply, dissemination or otherwise making available, alignment, combination, blocking, erasure or destruction of data. Processing within the meaning of this Decision shall also include notification of whether or not a hit exists;
+(a) "processing of personal data" shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, sorting, retrieval, consultation, use, disclosure by supply, dissemination or otherwise making available, alignment, combination, blocking, erasure or destruction of data. Processing within the meaning of this Decision shall also include notification of whether or not a hit exists;
 
-(b) ‘automated search procedure’ shall mean direct access to the automated files of another body where the response to the search procedure is fully automated;
+(b) "automated search procedure" shall mean direct access to the automated files of another body where the response to the search procedure is fully automated;
 
-(c) ‘referencing’ shall mean the marking of stored personal data without the aim of limiting their processing in future;
+(c) "referencing" shall mean the marking of stored personal data without the aim of limiting their processing in future;
 
-(d) ‘blocking’ shall mean the marking of stored personal data with the aim of limiting their processing in future.
+(d) "blocking" shall mean the marking of stored personal data with the aim of limiting their processing in future.
 
 2. The following provisions shall apply to data which are or have been supplied pursuant to this Decision, save as otherwise provided in the preceding Chapters.
 
@@ -437,6 +437,8 @@ Data subjects’ rights to information and damages
 Article 32
 
 Information requested by the Member States
+
+31.10.2003, p.1).
 
 The receiving Member State shall inform the supplying Member State on request of the processing of supplied data and the result obtained.
 
