@@ -1,21 +1,37 @@
-F113[ Transfer of persons to state from which surrendered.
+F113[Transfer of persons to state from which surrendered.
 
-45B.— (1) Where a national or resident of another state from which he or she is surrendered—
+45B. (1) Where a national or resident of another state from which he or she is surrendered—
 
-(a) is surrendered to the State pursuant to a relevant arrest warrant with a view to being prosecuted in the State, and
+(a) is surrendered to the State pursuant to a Trade and Cooperation Agreement arrest warrant or an arrest warrant within the meaning of the EU-Iceland Norway Agreement with a view to being prosecuted in the State, and
 
-(b) whose surrender is subject to the condition that he or she, after being so prosecuted, is returned if he or she so consents to that other state in order to serve any custodial sentence or detention order imposed upon him or her in the State, the Minister shall, following the final determination of the proceedings and if the person consents, issue a warrant for the transfer of the person from the State to that other state in order to serve there any custodial sentence or detention order so imposed.
+(b) whose surrender is subject to the condition that he or she, after being so prosecuted, is returned to that other state in order to serve any custodial sentence or detention order imposed upon him or her in the State, the Minister shall, following the final determination of the proceedings and if the person consents, issue a warrant under section 5 of that Act for the transfer of the person from the State to that state in order to serve there any custodial sentence or detention order so imposed.
 
-(2) A warrant issued under subsection (1) shall authorise—
+(2) Where a national or resident of another state from which he or she is surrendered—
 
-(a) the taking of the person to a place in any part of the State and his or her delivery at a place of departure from the State into the custody of a person authorized by the other state to receive the person, for conveyance to the other state concerned, and the keeping of the person in custody until the delivery is effected, and
+(a) is surrendered to the State pursuant to a European arrest warrant with a view to being prosecuted in the State, and
 
-(b) the removal of the person concerned, by the person to whom he or she is delivered, from the State.
+(b) whose surrender is subject to the condition that he or she, after being so prosecuted, is returned to that other state in order to serve any sentence (within the meaning of the Act of 2023) imposed upon him or her in the State, the Minister shall, following the final determination of the proceedings, forward the judgment in the proceedings together with a copy of a Framework Decision Certificate (within the meaning of the Act of 2023) to that other state in order for the person to serve there any sentence so imposed.
 
-(3) Where a warrant has been issued in respect of a person under this section, the person shall be deemed to be in legal custody at any time when he or she is being taken under the warrant to or from any place or being kept in custody under the warrant and, if the person escapes or is unlawfully at large, he or she shall be liable to be retaken in the same manner as any person who escapes from lawful custody.
+(3) For the purposes of subsection (1)—
 
-(4) The Minister may designate any person as a person who is for the time being authorised to take the person concerned to or from any place under the warrant or to keep the person in custody under the warrant.
+(a) a reference to the administering state in the Act of 1995 shall be construed as a reference to the state from which a person under subsection (1) is surrendered,
 
-(5) A person authorized pursuant to subsection (4) to take the person concerned to or from any place or to keep the person in custody shall, while so taking or keeping the person, have all the powers, authority, protection and privileges of a member of the Garda Síochána.
+(b) a person to whom subsection (1) applies shall be deemed to have made an application under section 4(1) of the Act of 1995, and
 
-(6) The order by virtue of which a person is required to be detained at the time a warrant is issued in respect of him or her under this section shall continue to have effect after his or her removal from the State so as to apply to him or her if he or she is again in the State at any time when under that order he or she is to be or may be detained.
+(c) the state from which the person under subsection (1) is surrendered shall be deemed to have agreed under section 4(3)(f) of the Act of 1995 to the transfer.
+
+(4) For the purposes of subsection (2), Part 2 of the Act of 2023 shall apply in respect of a judgment referred to in that subsection as it applies to a judgment to which that Part applies, subject to the following modifications:
+
+(a) the competent authority of the state from which a person under subsection (2) is surrendered shall be deemed to have made an application within the meaning of Part 2 of the Act of 2023;
+
+(b) a reference in Part 2 of the Act of 2023 to the executing state shall be construed as a reference to the state from which a person under subsection (2) is surrendered;
+
+(c) where paragraph (c) of section 14 of the Act of 2023 applies, the competent authority of the executing state shall be deemed to have given its consent under that provision;
+
+(d) any other necessary modifications.
+
+(5) In this section—
+
+"Act of 1995" means the Transfer of Sentenced Persons Act 1995;
+
+"Act of 2023" means the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023.

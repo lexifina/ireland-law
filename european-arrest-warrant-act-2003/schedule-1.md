@@ -24,7 +24,9 @@ De bhrí:
 
 (3) Go bhfuil na Ballstáit uile nó cuid díobh ina bpáirtithe i roinnt coinbhinsiún i dtaca leis an eiseachadadh, lena n-áirítear Coinbhinsiún Eorpach um Eiseachadadh an 13 Nollaig 1957 agus Coinbhinsiún Eorpach chun Sceimhlitheoireacht a Dhíothú an 27 Eanáir 1977. Tá dlíthe maidir leis an Eiseachadadh ag na Stáit Nordacha inar comhionann an fhoclaíocht.
 
-(4) Ina theannta sin, go bhfuil na trí Choinbhinsiún seo a leanas a bhaineann go hiomlán nó go páirteach leis an eiseachadadh comhaontaithe idir na Ballstáit agus gur cuid de acquis an Aontais iad: Coinbhinsiún an 19 Meitheamh 1990 ag cur chun feidhme Chomhaontú Schengen an 14 Meitheamh 1985 maidir le seiceálacha ag a dteorainneacha coiteanna a dhíothú de réir a chéile (sa chaidreamh idir na Ballstáit is páirtithe sa Choinbhinsiún sin)(4), Coinbhinsiún an 10 Márta 1995 maidir leis an nós imeachta simplithe um eiseachadadh idir na Ballstáit den Aontas Eorpach(5) agus Coinbhinsiún an 27 Meán Fómhair 1996 maidir leis an Eiseachadadh idir na Ballstáit den Aontas Eorpach(6).
+(4) Ina theannta sin, go bhfuil na trí Choinbhinsiún seo a leanas a bhaineann go hiomlán nó go páirteach leis an eiseachadadh comhaontaithe idir na Ballstáit agus gur cuid de acquis an Aontais iad: Coinbhinsiún an 19 Meitheamh 1990 ag cur chun feidhme Chomhaontú Schengen an 14 Meitheamh 1985 maidir le seiceálacha ag a dteorainneacha coiteanna a dhíothú de réir a chéile (sa
+
+(1) IO C 332 E, 27.11.2001, p.305. (2) Opinion delivered on 9 January 2002. (3) IO C E 12, 15.1.2001, Ich. 10. chaidreamh idir na Ballstáit is páirtithe sa Choinbhinsiún sin)(4), Coinbhinsiún an 10 Márta 1995 maidir leis an nós imeachta simplithe um eiseachadadh idir na Ballstáit den Aontas Eorpach(5) agus Coinbhinsiún an 27 Meán Fómhair 1996 maidir leis an Eiseachadadh idir na Ballstáit den Aontas Eorpach(6).
 
 (5) Mar thoradh ar an gcuspóir atá leagtha síos ag an Aontas limistéar saoirse, slándála agus ceartais a dhéanamh dá limistéar nach gá an t-eiseachadadh níos mó, agus toisc go gcuirfear ina ionad córas um ghéilleadh idir na húdaráis bhreithiúnacha. Fairis sin, de dheasca córas nua simplithe um ghéilleadh a thabhairt isteach maidir le daoine a bhfuil pianbhreith tugtha ina leith nó daoine atá faoi amhras ciona chun críocha pianbhreitheanna nó imeachtaí coiriúla a fhorghníomhú nó a thabhairt ar aghaidh, is féidir coimpléascacht agus an tsiocair moilleadóireachta is cuid dhílis den nós imeachta láithreach um eiseachadadh a dhíchur. An comhar traidisiúnta caidrimh a bhí i réim idir na Ballstáit go dtí seo ba chóir córas saorghluaiseachta maidir le breitheanna breithiúnacha in ábhair choiriúla a chur ina ionad, a fholaíonn breitheanna réamhphianbhreithe oiread agus breitheanna críochnaitheacha, laistigh de limistéar saoirse, slándála agus ceartais.
 
@@ -36,7 +38,9 @@ De bhrí:
 
 (9) Nach mór ról na n-údarás láir maidir le forghníomhú barántas gabhála Eorpach a theorannú do chúnamh praiticiúil riarthach.
 
-(10) Go bhfuil an mheicníocht i dtaca leis an mbarántas gabhála Eorpach bunaithe ar ardleibhéal muiníne idir na Ballstáit. Ní fhéadfar cur chun feidhme na meicníochta sin a fhionraí ach amháin i gcás Ballstát amháin na prionsabail atá leagtha amach in Airteagal 6(1) den Chonradh ar an Aontas Eorpach a shárú go tromchúiseach, leanúnach, agus an sárú sin arna shuíomh ag an gComhairle de bhun Airteagal 7(1) den Chonradh sin leis na hiarmhairtí dá bhforáiltear in Airteagal 7(2).
+(10) Go bhfuil an mheicníocht i dtaca leis an mbarántas gabhála Eorpach bunaithe ar ardleibhéal muiníne idir na Ballstáit. Ní fhéadfar cur chun feidhme na meicníochta sin a fhionraí ach amháin i gcás Ballstát amháin na prionsabail atá leagtha amach in Airteagal 6(1) den Chonradh ar an Aontas Eorpach a shárú go tromchúiseach, leanúnach, agus an sárú sin arna shuíomh ag an gComhairle de
+
+(4) IO L 239, 22.9.2000, Ich. 19. (5) IO C 78, 30.3.1995, lch. 2. (6) IO C 313, 13.10.1996, lch. 12. bhun Airteagal 7(1) den Chonradh sin leis na hiarmhairtí dá bhforáiltear in Airteagal 7(2).
 
 (11) Sa chaidreamh idir na Ballstáit gur chóir go ngabhfadh an barántas gabhála Eorpach ionad na n-ionstraimí uile maidir le heiseachadadh, lena n-áirítear forálacha Theideal III de Choinbhinsiún chur chun feidhme Chomhaontú Schengen a bhaineann leis an eiseachadadh.
 
@@ -59,6 +63,8 @@ Airteagal 1
 An barántas gabhála Eorpach a shainiú agus an oibleagáid é a fhorghníomhú
 
 1. Breith bhreithiúnach arna heisiúint ag Ballstát ar mhaithe le Ballstát eile duine iarrtha a ghabháil agus a ghéilleadh d'fhonn ionchúiseamh coiriúil a sheoladh nó pianbhreith faoi choimeád nó ordú coinneála a fhorghníomhú, is ea an barántas gabhála Eorpach.
+
+(7) IO C 364, 18.12.2000, lch. 1.
 
 2. Déanann na Ballstáit aon bharántas gabhála Eorpach a fhorghníomhú ar bhonn an phrionsabail maidir le haitheantas frithpháirteach agus i gcomhréir le forálacha an Treoirchinnidh seo.
 
@@ -270,7 +276,9 @@ Airteagal 12
 
 An duine a choimeád faoi choinneáil
 
-Nuair a ghabhtar duine ar bhonn an bharántais ghabhála Eorpaigh, glacfaidh an t- údarás breithiúnach forghníomhaitheach breith faoinar chóir don duine iarrtha fanacht faoi choinneáil, i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach. Féadfar an duine a scaoileadh saor go sealadach tráth ar bith ar cothrom leis an dlí inmheánach sa Bhallstát forghníomhaitheach, ar chuntar go nglacann an t-údarás inniúil sa Bhallstát a dúradh na bearta uile a mheasann sé is gá chun a chinntiú nach n-éalóidh an duine.
+Nuair a ghabhtar duine ar bhonn an bharántais ghabhála Eorpaigh, glacfaidh an t- údarás breithiúnach forghníomhaitheach breith faoinar chóir don duine iarrtha fanacht faoi choinneáil, i gcomhréir leis an dlí sa Bhallstát forghníomhaitheach. Féadfar an duine a scaoileadh saor go sealadach tráth ar bith ar cothrom leis an dlí inmheánach
+
+(8) Gníomh comhpháirteach 98/428/CGB an 29 Meitheamh 1998 ón gComhairle maidir le Líonra Breithiúnach Eorpach a chur ar bun (IO L 191, 7.7.1998, lch. 4). sa Bhallstát forghníomhaitheach, ar chuntar go nglacann an t-údarás inniúil sa Bhallstát a dúradh na bearta uile a mheasann sé is gá chun a chinntiú nach n-éalóidh an duine.
 
 Airteagal 13
 
@@ -328,7 +336,9 @@ Teorainneacha ama agus nósanna imeachta maidir leis an mbreith an barántas gab
 
 6. Ní mór cúiseanna a thabhairt i dtaca le haon diúltú barántas gabhála Eorpach a fhorghníomhú.
 
-7. Mura dtig le Ballstát in imthosca eisceachtúla na teorainneacha ama dá bhforáiltear san Airteagal seo a urramú, cuirfidh sé Eurojust ar an eolas agus tabharfaidh sé na cúiseanna atá leis an moill. Ina theannta sin, Ballstát a bhfuil taithí aige ar mhoilleanna ag Ballstát eile i dtaca le barántais ghabhála Eorpacha a fhorghníomhú cuirfidh sé an Chomhairle ar an eolas ar mhaithe le cur chun feidhme an Treoirchinnidh seo ag leibhéal an Bhallstáit a mheas.
+7. Mura dtig le Ballstát in imthosca eisceachtúla na teorainneacha ama dá bhforáiltear san Airteagal seo a urramú, cuirfidh sé Eurojust ar an eolas agus tabharfaidh sé na cúiseanna atá leis an moill. Ina theannta sin, Ballstát a bhfuil taithí
+
+(9) Cinneadh 2002/187/CGB ón gComhairle an 28 Feabhra 2002 ag cur Eurojust ar bun ar mhaithe leis an gcomhrac in aghaidh na coiriúlachta tromchúistí a athneartú (IO L 63, 6.3.2002, Ich. 1). aige ar mhoilleanna ag Ballstát eile i dtaca le barántais ghabhála Eorpacha a fhorghníomhú cuirfidh sé an Chomhairle ar an eolas ar mhaithe le cur chun feidhme an Treoirchinnidh seo ag leibhéal an Bhallstáit a mheas.
 
 Airteagal 18
 
@@ -588,6 +598,10 @@ BARÁNTAS GABHÁLA EORPACH(1)
 
 Tá an barántas seo eisithe ag údarás breithiúnach inniúil. Iarraim go ndéantar an duine atá luaite thíos a ghabháil agus a ghéilleadh ar mhaithe le hionchúiseamh coiriúil a sheoladh nó pianbhreith faoi choimeád nó ordú coinneála a fhorghníomhú.
 
+(1) Dáta an Treoirchinneadh seo a theacht i bhfeidhm.
+
+(1) Ní Mór an barántas seo a scríobh i gceann de theangacha oifigiula an Stáit fhorghníomhaithigh nó a aistriú go ceann de theangacha oifigiúla an Stáit fhorghníomhaithigh, nuair is eol an Stát sin, nó aon teanga eile arna glacadh ag an Stát sin.
+
 PART B
 
 TEXT IN THE ENGLISH LANGUAGE OF COUNCIL FRAMEWORK DECISION OF 13 JUNE 2002 ON THE EUROPEAN ARREST WARRANT AND THE SURRENDER PROCEDURES BETWEEN MEMBER STATES.
@@ -612,11 +626,13 @@ Whereas:
 
 (3) All or some Member States are parties to a number of conventions in the field of extradition, including the European Convention on extradition of 13 December 1957 and the European Convention on the suppression of terrorism of 27 January 1977. The Nordic States have extradition laws with identical wording.
 
+(1) OJ C 332 E, 27.11.2001, p. 305. (2) Opinion delivered on 9 January 2002 (not yet published in the Official Journal). (3) OJ C 12 E, 15.1.2001, p. 10.
+
 (4) In addition, the following three Conventions dealing in whole or in part with extradition have been agreed upon among Member States and form part of the Union acquis: the Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 on the gradual abolition of checks at their common borders(4) (regarding relations between the Member States which are parties to that Convention), the Convention of 10 March 1995 on simplified extradition procedure between the Member States of the European Union(5) and the Convention of 27 September 1996 relating to extradition between the Member States of the European Union(6).
 
 (5) The objective set for the Union to become an area of freedom, security and justice leads to abolishing extradition between Member States and replacing it by a system of surrender between judicial authorities. Further, the introduction of a new simplified system of surrender of sentenced or suspected persons for the purposes of execution or prosecution of criminal sentences makes it possible to remove the complexity and potential for delay inherent in the present extradition procedures. Traditional cooperation relations which have prevailed up till now between Member States should be replaced by a system of free movement of judicial decisions in criminal matters, covering both pre-sentence and final decisions, within an area of freedom, security and justice.
 
-(6) The European arrest warrant provided for in this Framework Decision is the first concrete measure in the field of criminal law implementing the principle of mutual recognition which the European Council referred to as the ‘cornerstone’ of judicial cooperation.
+(6) The European arrest warrant provided for in this Framework Decision is the first concrete measure in the field of criminal law implementing the principle of mutual recognition which the European Council referred to as the "cornerstone" of judicial cooperation.
 
 (7) Since the aim of replacing the system of multilateral extradition built upon the European Convention on Extradition of 13 December 1957 cannot be sufficiently achieved by the Member States acting unilaterally and can therefore, by reason of its scale and effects, be better achieved at Union level, the Council may adopt measures in accordance with the principle of subsidiarity as referred to in Article 2 of the Treaty on European Union and Article 5 of the Treaty establishing the European Community. In accordance with the principle of proportionality, as set out in the latter Article, this Framework Decision does not go beyond what is necessary in order to achieve that objective.
 
@@ -624,7 +640,9 @@ Whereas:
 
 (9) The role of central authorities in the execution of a European arrest warrant must be limited to practical and administrative assistance.
 
-(10) The mechanism of the European arrest warrant is based on a high level of confidence between Member States. Its implementation may be suspended only in the event of a serious and persistent breach by one of the Member States of the principle set out in Article 6(1) of the Treaty on European Union, determined by the Council pursuant to Article 7(1) of the said Treaty with the consequences set out in Article 7(2) thereof.
+(10) The mechanism of the European arrest warrant is based on a high level of confidence between Member States. Its implementation may be suspended only in the event of a serious and persistent breach by one of the Member States of the principle set out in Article 6(1) of the Treaty on European Union, determined
+
+(4) OJ L 239, 22.9.2000, p. 19. (5) OJ C 78, 30.3.1995, p. 2. (6) OJ C 313, 13.10.1996, p. 12. by the Council pursuant to Article 7(1) of the said Treaty with the consequences set out in Article 7(2) thereof.
 
 (11) In relations between Member States, the European arrest warrant should replace all the previous instruments concerning extradition, including the provisions of Title III of the Convention implementing the Schengen Agreement which concern extradition.
 
@@ -649,6 +667,8 @@ Definition of the European arrest warrant and obligation to execute it
 1. The European arrest warrant is a judicial decision issued by a Member State with a view to the arrest and surrender by another Member State of a requested person, for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order.
 
 2. Member States shall execute any European arrest warrant on the basis of the principle of mutual recognition and in accordance with the provisions of this Framework Decision.
+
+(1) OJ C 364, 18.12.2000, p. 1.
 
 3. This Framework Decision shall not have the effect of modifying the obligation to respect fundamental rights and fundamental legal principles as enshrined in Article 6 of the Treaty on European Union.
 
@@ -730,7 +750,7 @@ Article 3
 
 Grounds for mandatory non-execution of the European arrest warrant
 
-The judicial authority of the Member State of execution (hereinafter ‘executing judicial authority’) shall refuse to execute the European arrest warrant in the following cases:
+The judicial authority of the Member State of execution (hereinafter "executing judicial authority") shall refuse to execute the European arrest warrant in the following cases:
 
 1. if the offence on which the arrest warrant is based is covered by amnesty in the executing Member State, where that State had jurisdiction to prosecute the offence under its own criminal law;
 
@@ -862,7 +882,9 @@ Article 13
 
 Consent to surrender
 
-1. If the arrested person indicates that he or she consents to surrender, that consent and, if appropriate, express renunciation of entitlement to the ‘speciality rule’, referred to in Article 27(2), shall be given before the executing judicial authority, in accordance with the domestic law of the executing Member State.
+1. If the arrested person indicates that he or she consents to surrender, that consent and, if appropriate, express renunciation of entitlement to the "speciality rule",
+
+(1) Council Joint Action 98/428/JHA of 29 June 1998 on the creation of a European Judicial Network (OJ L 191, 7.7.1998, p. 4). referred to in Article 27(2), shall be given before the executing judicial authority, in accordance with the domestic law of the executing Member State.
 
 2. Each Member State shall adopt the measures necessary to ensure that consent and, where appropriate, renunciation, as referred to in paragraph 1, are established in such a way as to show that the person concerned has expressed them voluntarily and in full awareness of the consequences. To that end, the requested person shall have the right to legal counsel.
 
@@ -921,6 +943,8 @@ Article 18
 Situation pending the decision
 
 1. Where the European arrest warrant has been issued for the purpose of conducting a criminal prosecution, the executing judicial authority must:
+
+(1) Council Decision 2002/187/JHA of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime (OJ L 63, 6.3.2002, p. 1).
 
 (a) either agree that the requested person should be heard according to Article 19;
 
@@ -1004,7 +1028,7 @@ Where a person who is the subject of a European arrest warrant for the purposes 
 
 4. This Framework Decision does not apply in the case of transport by air without a scheduled stopover. However, if an unscheduled landing occurs, the issuing Member State shall provide the authority designated pursuant to paragraph 2 with the information provided for in paragraph 1.
 
-5. Where a transit concerns a person who is to be extradited from a third State to a Member State this Article will apply mutatis mutandis. In particular the expression ‘European arrest warrant’ shall be deemed to be replaced by ‘extradition request’.
+5. Where a transit concerns a person who is to be extradited from a third State to a Member State this Article will apply mutatis mutandis. In particular the expression "European arrest warrant" shall be deemed to be replaced by "extradition request".
 
 CHAPTER 3
 
@@ -1138,7 +1162,7 @@ Article 33
 
 Provisions concerning Austria and Gibraltar
 
-1. As long as Austria has not modified Article 12(1) of the ‘Auslieferungs und Rechtshilfegesetz’ and, at the latest, until 31 December 2008, it may allow its executing judicial authorities to refuse the enforcement of a European arrest warrant if the requested person is an Austrian citizen and if the act for which the European arrest warrant has been issued is not punishable under Austrian law.
+1. As long as Austria has not modified Article 12(1) of the "Auslieferungs und Rechtshilfegesetz" and, at the latest, until 31 December 2008, it may allow its executing judicial authorities to refuse the enforcement of a European arrest warrant if the requested person is an Austrian citizen and if the act for which the European arrest warrant has been issued is not punishable under Austrian law.
 
 2. This Framework Decision shall apply to Gibraltar.
 
@@ -1168,4 +1192,10 @@ For the Council The President M. RAJOY BREY
 
 ANNEX
 
-EUROPEAN ARREST WARRANT(1) This warrant has been issued by a competent judicial authority. I request that the person mentioned below be arrested and surrendered for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order.
+EUROPEAN ARREST WARRANT(1)
+
+(1) This warrant must be written in, or translated into, one of the official languages of the executing Member State, when that State is known, or any other language accepted by that State.
+
+This warrant has been issued by a competent judicial authority. I request that the person mentioned below be arrested and surrendered for the purposes of conducting a criminal prosecution or executing a custodial sentence or detention order.
+
+(1) In the different language versions a reference to the “holder” of the judicial authority will be included.
