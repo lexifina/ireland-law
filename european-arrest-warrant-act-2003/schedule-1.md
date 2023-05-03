@@ -38,9 +38,9 @@ De bhrí:
 
 (9) Nach mór ról na n-údarás láir maidir le forghníomhú barántas gabhála Eorpach a theorannú do chúnamh praiticiúil riarthach.
 
-(10) Go bhfuil an mheicníocht i dtaca leis an mbarántas gabhála Eorpach bunaithe ar ardleibhéal muiníne idir na Ballstáit. Ní fhéadfar cur chun feidhme na meicníochta sin a fhionraí ach amháin i gcás Ballstát amháin na prionsabail atá leagtha amach in Airteagal 6(1) den Chonradh ar an Aontas Eorpach a shárú go tromchúiseach,
+(10) Go bhfuil an mheicníocht i dtaca leis an mbarántas gabhála Eorpach bunaithe ar ardleibhéal muiníne idir na Ballstáit. Ní fhéadfar cur chun feidhme na meicníochta sin a fhionraí ach amháin i gcás Ballstát amháin na prionsabail atá leagtha amach in Airteagal 6(1) den Chonradh ar an Aontas Eorpach a shárú go tromchúiseach, leanúnach, agus an sárú sin arna shuíomh ag an gComhairle de
 
-(4) IO L 239, 22.9.2000, Ich. 19. (5) IO C 78, 30.3.1995, lch. 2. (6) IO C 313, 13.10.1996, lch. 12. leanúnach, agus an sárú sin arna shuíomh ag an gComhairle de bhun Airteagal 7(1) den Chonradh sin leis na hiarmhairtí dá bhforáiltear in Airteagal 7(2).
+(4) IO L 239, 22.9.2000, Ich. 19. (5) IO C 78, 30.3.1995, lch. 2. (6) IO C 313, 13.10.1996, lch. 12. bhun Airteagal 7(1) den Chonradh sin leis na hiarmhairtí dá bhforáiltear in Airteagal 7(2).
 
 (11) Sa chaidreamh idir na Ballstáit gur chóir go ngabhfadh an barántas gabhála Eorpach ionad na n-ionstraimí uile maidir le heiseachadadh, lena n-áirítear forálacha Theideal III de Choinbhinsiún chur chun feidhme Chomhaontú Schengen a bhaineann leis an eiseachadadh.
 
@@ -632,7 +632,7 @@ Whereas:
 
 (5) The objective set for the Union to become an area of freedom, security and justice leads to abolishing extradition between Member States and replacing it by a system of surrender between judicial authorities. Further, the introduction of a new simplified system of surrender of sentenced or suspected persons for the purposes of execution or prosecution of criminal sentences makes it possible to remove the complexity and potential for delay inherent in the present extradition procedures. Traditional cooperation relations which have prevailed up till now between Member States should be replaced by a system of free movement of judicial decisions in criminal matters, covering both pre-sentence and final decisions, within an area of freedom, security and justice.
 
-(6) The European arrest warrant provided for in this Framework Decision is the first concrete measure in the field of criminal law implementing the principle of mutual recognition which the European Council referred to as the ‘cornerstone’ of judicial cooperation.
+(6) The European arrest warrant provided for in this Framework Decision is the first concrete measure in the field of criminal law implementing the principle of mutual recognition which the European Council referred to as the "cornerstone" of judicial cooperation.
 
 (7) Since the aim of replacing the system of multilateral extradition built upon the European Convention on Extradition of 13 December 1957 cannot be sufficiently achieved by the Member States acting unilaterally and can therefore, by reason of its scale and effects, be better achieved at Union level, the Council may adopt measures in accordance with the principle of subsidiarity as referred to in Article 2 of the Treaty on European Union and Article 5 of the Treaty establishing the European Community. In accordance with the principle of proportionality, as set out in the latter Article, this Framework Decision does not go beyond what is necessary in order to achieve that objective.
 
@@ -750,7 +750,7 @@ Article 3
 
 Grounds for mandatory non-execution of the European arrest warrant
 
-The judicial authority of the Member State of execution (hereinafter ‘executing judicial authority’) shall refuse to execute the European arrest warrant in the following cases:
+The judicial authority of the Member State of execution (hereinafter "executing judicial authority") shall refuse to execute the European arrest warrant in the following cases:
 
 1. if the offence on which the arrest warrant is based is covered by amnesty in the executing Member State, where that State had jurisdiction to prosecute the offence under its own criminal law;
 
@@ -882,11 +882,9 @@ Article 13
 
 Consent to surrender
 
-1. If the arrested person indicates that he or she consents to surrender, that consent and, if appropriate, express renunciation of entitlement to the ‘speciality rule’, referred
+1. If the arrested person indicates that he or she consents to surrender, that consent and, if appropriate, express renunciation of entitlement to the "speciality rule",
 
-(1) Council Joint Action 98/428/JHA of 29 June 1998 on the creation of a
-
-European Judicial Network (OJ L 191, 7.7.1998, p. 4). to in Article 27(2), shall be given before the executing judicial authority, in accordance with the domestic law of the executing Member State.
+(1) Council Joint Action 98/428/JHA of 29 June 1998 on the creation of a European Judicial Network (OJ L 191, 7.7.1998, p. 4). referred to in Article 27(2), shall be given before the executing judicial authority, in accordance with the domestic law of the executing Member State.
 
 2. Each Member State shall adopt the measures necessary to ensure that consent and, where appropriate, renunciation, as referred to in paragraph 1, are established in such a way as to show that the person concerned has expressed them voluntarily and in full awareness of the consequences. To that end, the requested person shall have the right to legal counsel.
 
@@ -1030,7 +1028,7 @@ Where a person who is the subject of a European arrest warrant for the purposes 
 
 4. This Framework Decision does not apply in the case of transport by air without a scheduled stopover. However, if an unscheduled landing occurs, the issuing Member State shall provide the authority designated pursuant to paragraph 2 with the information provided for in paragraph 1.
 
-5. Where a transit concerns a person who is to be extradited from a third State to a Member State this Article will apply mutatis mutandis. In particular the expression ‘European arrest warrant’ shall be deemed to be replaced by ‘extradition request’.
+5. Where a transit concerns a person who is to be extradited from a third State to a Member State this Article will apply mutatis mutandis. In particular the expression "European arrest warrant" shall be deemed to be replaced by "extradition request".
 
 CHAPTER 3
 
@@ -1164,7 +1162,7 @@ Article 33
 
 Provisions concerning Austria and Gibraltar
 
-1. As long as Austria has not modified Article 12(1) of the ‘Auslieferungs und Rechtshilfegesetz’ and, at the latest, until 31 December 2008, it may allow its executing judicial authorities to refuse the enforcement of a European arrest warrant if the requested person is an Austrian citizen and if the act for which the European arrest warrant has been issued is not punishable under Austrian law.
+1. As long as Austria has not modified Article 12(1) of the "Auslieferungs und Rechtshilfegesetz" and, at the latest, until 31 December 2008, it may allow its executing judicial authorities to refuse the enforcement of a European arrest warrant if the requested person is an Austrian citizen and if the act for which the European arrest warrant has been issued is not punishable under Austrian law.
 
 2. This Framework Decision shall apply to Gibraltar.
 

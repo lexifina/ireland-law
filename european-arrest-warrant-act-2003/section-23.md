@@ -2,9 +2,9 @@ Surrender of person by issuing state to other Member State.
 
 23.—(1) In this section, except where the context otherwise requires—
 
-‘offence’ means, in relation to a person to whom a relevant arrest warrant applies, an offence under the law of a Member State (other than the issuing state) committed before the person’s surrender to the issuing state under this Act; and
+"offence" means, in relation to a person to whom a relevant arrest warrant applies, an offence under the law of a Member State (other than the issuing state) committed before the person’s surrender to the issuing state under this Act; and
 
-‘Member State’ means a Member State other than the issuing state.
+"Member State" means a Member State other than the issuing state.
 
 (2) Subject to this section, the High Court shall refuse to surrender a person under this Act if it is satisfied that—
 

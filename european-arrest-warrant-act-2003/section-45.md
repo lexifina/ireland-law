@@ -16,9 +16,7 @@ TABLE
 
 OR
 
-□ 3.1b. the person was not summoned in person but by other means actually received official information of the scheduled date and place of the trial which resulted in the decision, in such a manner that it was unequivocally established that he or she was aware of the scheduled trial, and was informed that a decision may be handed down if he or she does not appear for the trial;
-
-OR
+□ 3.1b. the person was not summoned in person but by other means actually received official information of the scheduled date and place of the trial which resulted in the decision, in such a manner that it was unequivocally established that he or she was aware of the scheduled trial, and was informed that a decision may be handed down if he or she does not appear for the trial; OR
 
 □ 3.2. being aware of the scheduled trial, the person had given a mandate to a legal counsellor, who was either appointed by the person concerned or by the State, to defend him or her at the trial, and was indeed defended by that counsellor at the trial;
 
