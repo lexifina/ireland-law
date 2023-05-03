@@ -102,7 +102,9 @@ Interpretation
 
 (a) where the parole applicant or parolee, as the case may be, is detained in a prison, the governor of the prison where he or she is so detained,
 
-(b) where the parole applicant or parolee, as the case may be, is on release from prison for a temporary period in accordance with a direction given by the Minister under section 2 of the Act of 1960, the governor of the prison from which he or she is so released, or
+(b) where the parole applicant or parolee, as the case may be, is on release from prison for a temporary period in accordance with a direction given by the Minister under section 2 of the Act of 1960, the governor of the prison from which he or she is so released,
+
+(ba) where the parole applicant or parolee, as the case may be, is on conditional release from prison in accordance with a direction given by the Minister under section 2A of the Act of 1960, the governor of the prison from which he or she is so released, or
 
 (c) where the parolee is on release from prison on parole, the governor of the prison from which he or she is so released;
 
@@ -114,16 +116,20 @@ Interpretation
 
 (3) In this Act—
 
-(a) a reference to a person serving a sentence of imprisonment shall be construed as including both—
+(a) a reference to a person serving a sentence of imprisonment shall be construed as including—
 
-(i) a person upon whom a sentence of detention was imposed by a court when he or she was a child where he or she has been transferred to a prison to serve the remainder of the sentence in accordance with section 155 of the Act of 2001, and
+(i) a person upon whom a sentence of detention was imposed by a court when he or she was a child where he or she has been transferred to a prison to serve the remainder of the sentence in accordance with section 155 of the Act of 2001,
 
 (ii) a person who is released from prison for a temporary period in accordance with a direction given by the Minister under section 2 of the Act of 1960, and
+
+(iii) a person who is released from prison on conditional release in accordance with a direction given by the Minister under section 2A of the Act of 1960, and
 
 (b) for the purposes of calculating the length of a sentence of imprisonment, or the portion of such a sentence served—
 
 (i) any period of detention served in a children detention school by the person where he or she has been transferred to a prison to serve the remainder of the sentence in accordance with section 155 of the Act of 2001,
 
-(ii) any time spent in a designated centre, where the person has been transferred to the designated centre pursuant to section 15 of the Act of 2006, while serving the sentence of imprisonment, and
+(ii) any time spent in a designated centre, where the person has been transferred to the designated centre pursuant to section 15 of the Act of 2006, while serving the sentence of imprisonment,
 
-(iii) any time spent on release from prison for a temporary period in accordance with a direction given by the Minister under section 2 of the Act of 1960 while serving the sentence of imprisonment other than time spent on such release where the currency of the sentence of the person is suspended pursuant to section 5 of that Act, shall be included.
+(iii) any time spent on release from prison for a temporary period in accordance with a direction given by the Minister under section 2 of the Act of 1960 while serving the sentence of imprisonment other than time spent on such release where the currency of the sentence of the person is suspended pursuant to section 5 of that Act, and
+
+(iv) any time spent on conditional release from prison for a period in accordance with a direction given by the Minister under section 2A of the Act of 1960 while serving the sentence of imprisonment other than time spent on such release where the currency of the sentence of the person is suspended pursuant to section 5 of that Act, shall be included.
