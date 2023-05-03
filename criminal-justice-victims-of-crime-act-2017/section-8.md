@@ -72,7 +72,15 @@ Information regarding investigations and criminal proceedings
 
 (ii) any temporary release of the person under section 2 or 3 of the Act of 1960 and any conditions attached to such release which relate to the victim,
 
+(iia) any conditional release of the person under section 2A of the Act of 1960 and any conditions attached to such release which relate to the victim,
+
 (iii) any transfer of the person while in custody to or from a prison, designated centre, court, hospital or any other place,
+
+(iiia) without prejudice to subparagraph (iii)—
+
+(I) any application to the Minister under section 4 of the Transfer of Sentenced Persons Act 1995 to transfer the person out of the State in order to serve the sentence or the balance thereof in another Convention state (within the meaning of that Act) and any transfer of the person out of the State in accordance with that Act, or
+
+(II) any application within the meaning of Part 2 of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023 and any transfer of the person to an executing state (within the meaning of that Act) in accordance with that Part,
 
 (iv) any escape by the person from custody and any measures which are put in place for the victim’s protection as a result of such escape,
 
@@ -80,7 +88,7 @@ Information regarding investigations and criminal proceedings
 
 (ivb) any release of the person on parole and any conditions attaching to such release which relate to the victim, and
 
-(v) the death of the person concerned while in custody, on temporary release from prison under section 2 or 3 of the Act of 1960 or on parole;
+(v) the death of the person concerned while in custody, on temporary release from prison under section 2 or 3, or on conditional release under section 2A, of the Act of 1960 or on parole;
 
 (n) where, pursuant to section 4(3)(b), 4(5)(c)(i), 4(6)(a), 5(2) or 5(3) of the Act of 2006, a person is committed to a designated centre by a court, other than a court martial, information regarding—
 
@@ -140,4 +148,4 @@ Information regarding investigations and criminal proceedings
 
 (8) Subsections (6) and (7) are without prejudice to any power or duty which the Garda Síochána, the Ombudsman Commission, the Director of Public Prosecutions, the Irish Prison Service, the director of a children detention school or the clinical director of a designated centre may have to provide information to each other under any other enactment or rule of law.
 
-(9) In this section, ‘application for parole’ and ‘parole’ have the meanings they have in the Parole Act 2019.
+(9) In this section, "application for parole" and "parole" have the meanings they have in the Parole Act 2019.

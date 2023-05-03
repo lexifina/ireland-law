@@ -18,9 +18,15 @@ Taking of samples from child offenders
 
 (ii) at any time after that commencement, is serving a sentence of detention, or the balance thereof, in the State in respect of that offence pursuant to—
 
-(I)a warrant issued by the High Court under the Transfer of Sentenced Persons Act 1995 authorising the bringing of the child into the State and his or her detention in a children detention school or a place of detention, or
+(I) a warrant issued by the High Court under the Transfer of Sentenced Persons Act 1995 authorising the bringing of the child into the State and his or her detention in a children detention school or a place of detention, ...
 
-(II)an order of the High Court under the Transfer of Execution of Sentences Act 2005 committing the child to Saint Patrick’s Institution, provided that, when issuing the warrant or making the order, as the case may be, the offence that the High Court determined to be the corresponding offence in the State to that offence is a relevant offence, or
+(IA) a committal order within the meaning of the Transfer of Sentenced Persons Act 1995,
+
+(II) an order of the High Court under the Transfer of Execution of Sentences Act 2005 committing the child to Saint Patrick’s Institution,
+
+(III) a committal order within the meaning of the Transfer of Execution of Sentences Act 2005, or
+
+(IV) a committal order within the meaning of Part 3 of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023, provided that, when issuing the warrant or making the order, as the case may be, the offence that the High Court or an appropriate court (within the meaning of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023), as the case may be, determined to be the corresponding offence in the State to that offence is a relevant offence, or
 
 (d) who may fall under paragraph (a), (b) or (c) and who, on or at any time after the commencement of this section is, or becomes, subject to the requirements of Part 2 of the Sex Offenders Act 2001 (in this Act called a “sex offender”).
 
@@ -80,15 +86,23 @@ Taking of samples from child offenders
 
 (15) In this section—
 
-“the end of the notification period”, in relation to a sex offender, means the end of the period for which he or she is subject to the requirements of Part 2 of the Sex Offenders Act 2001; “the expiry of the sentence”, in relation to a child offender other than a sex offender, means— (a) in the case of a child offender falling under paragraph (a) or (b) of subsection (1), the expiry of the sentence of detention imposed by a court on him or her in respect of the relevant offence concerned,
+"the end of the notification period", in relation to a sex offender, means the end of the period for which he or she is subject to the requirements of Part 2 of the Sex Offenders Act 2001;
 
-(b) in the case of a child offender falling under subsection (1)(c), the expiry of the sentence of detention determined by the High Court in respect of the offence concerned of which he or she was convicted outside the State—
+"the expiry of the sentence", in relation to a child offender other than a sex offender, means—
 
-(i) on his or her transfer to the State and detention in a children detention school or a place of detention in the State under the Transfer of Sentenced Persons Act 1995, or
+(a) in the case of a child offender falling under paragraph (a) or (b) of subsection (1), the expiry of the sentence of detention imposed by a court on him or her in respect of the relevant offence concerned,
 
-(ii) on his or her committal to Saint Patrick’s Institution under the Transfer of Execution of Sentences Act 2005, as the case may be;
+(b) in the case of a child offender falling under subsection (1)(c), the expiry of the sentence of detention determined by the High Court or an appropriate court (within the meaning of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023), as the case may be in respect of the offence concerned of which he or she was convicted outside the State—
 
-“permitted absence”, in relation to the absence of a child offender from a children detention school, means— (a) the absence of the child offender from the school pursuant to an order under section 202 or 203 of the Act of 2001,
+(i) on his or her transfer to the State and detention in a children detention school or a place of detention in the State under the Transfer of Sentenced Persons Act 1995, ...
+
+(ii) on his or her committal to Saint Patrick's Institution under the Transfer of Execution of Sentences Act 2005, or
+
+(iii) on his or her transfer to the State and detention in a place of detention in the State under Part 3 of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023, as the case may be;
+
+"permitted absence", in relation to the absence of a child offender from a children detention school, means—
+
+(a) the absence of the child offender from the school pursuant to an order under section 202 or 203 of the Act of 2001,
 
 (b) the absence of the child offender from the school on a mobility trip within the meaning of section 204 of the Act of 2001,
 
@@ -96,4 +110,4 @@ Taking of samples from child offenders
 
 (d) the placing out of the child offender under supervision in the community under section 207 of the Act of 2001;
 
-“temporary release”, in relation to a child offender, means the release of the child offender from a place of detention for a temporary period in accordance with a direction given by the Minister under section 2 of the Criminal Justice Act 1960.
+"temporary release", in relation to a child offender, means the release of the child offender from a place of detention for a temporary period in accordance with a direction given by the Minister under section 2 of the Criminal Justice Act 1960.

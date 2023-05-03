@@ -6,7 +6,7 @@ Detention and supervision.
 
 (3) Subject to subsection (4), half of the period for which a detention and supervision order is in force shall be spent by the child in detention in a children detention school and half under supervision in the community.
 
-(4) Where the child is released from detention on earning remission of sentence by industry or good conduct or on being given temporary release under section 2 or 3 of the Act of 1960, supervision of the child in the community under the order shall be deemed to commence on the child’s release.
+(4) Where the child is released from detention on earning remission of sentence by industry or good conduct or on being given temporary release under section 2 or 3, or conditional release under section 2A, of the Act of 1960, supervision of the child in the community under the order shall be deemed to commence on the child’s release.
 
 (5) The supervision provided for in this section shall be by a probation and welfare officer.
 

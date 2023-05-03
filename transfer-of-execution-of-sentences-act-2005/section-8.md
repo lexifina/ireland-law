@@ -4,9 +4,9 @@ Consent to request under section 7.
 
 (a) a request has been received under that section, and
 
-(b) the Minister has given his or her consent to that request, and the Minister shall, as soon as practicable thereafter, apply, or cause an application to be made, to the High Court for a warrant authorising the arrest of the sentenced person concerned.
+(b) the Minister has given his or her consent to that request, and the Minister shall, as soon as practicable thereafter, apply, or cause an application to be made, to the High Court for the continued enforcement of the sentence (in its legal nature and duration) and a warrant authorising the arrest of the sentenced person concerned.
 
-(2) Upon an application under subsection (1), the High Court shall issue a warrant authorising the arrest of the sentenced person concerned if—
+(2) Upon an application under subsection (1), the High Court shall issue a warrant authorising the arrest of the sentenced person concerned for the purpose of the enforcement of the sentence if—
 
 (a) a certificate to which this section applies is produced to the court, and
 
@@ -19,6 +19,8 @@ Consent to request under section 7.
 (iii) subject to section 7(3), the term of the sentence concerned is not less than 6 months, or where the person has already served part of the sentence concerned, at the time of his or her fleeing to the State there was not less than 6 months of the sentence remaining to be served, and
 
 (iv) the offence under the law of the sentencing country in respect of which the sentence was imposed corresponds to an offence under the law of the State.
+
+(2A) Where the High Court issues a warrant under subsection (2), the court shall take all such measures as are necessary to enforce the sentence and, in particular, may make an order under section 10B(3) or (5) or both adapting the sentence.
 
 (3) A certificate to which this section applies shall include a statement of—
 

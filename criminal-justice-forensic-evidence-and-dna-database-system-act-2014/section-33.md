@@ -88,12 +88,18 @@ Former offenders
 
 (10) In this section—
 
-“the end of the notification period”, in relation to a person who was convicted of a sexual offence, means the end of the period for which he or she was subject to the requirements of Part 2 of the Sex Offenders Act 2001; “the expiry of the sentence”, in relation to a person, means— (a) the expiry of the sentence of imprisonment or detention imposed on him or her by a court in respect of a relevant offence of which he or she was convicted, or
+“the end of the notification period”, in relation to a person who was convicted of a sexual offence, means the end of the period for which he or she was subject to the requirements of Part 2 of the Sex Offenders Act 2001;
 
-(b) the expiry of the sentence of imprisonment or detention determined by the High Court in respect of an offence of which he or she was convicted outside the State—
+“the expiry of the sentence”, in relation to a person, means—
 
-(i) on his or her transfer to the State and imprisonment or detention, as may be appropriate, in a prison, a children detention school or a place of detention, as the case may be, in the State under the Transfer of Sentenced Persons Act 1995, or
+(a) the expiry of the sentence of imprisonment or detention imposed on him or her by a court in respect of a relevant offence of which he or she was convicted, or
 
-(ii) on his or her committal to a prison or Saint Patrick’s Institution under the Transfer of Sentenced Persons Act 1995, as the case may be;
+(b) the expiry of the sentence of imprisonment or detention determined by the High Court or an appropriate court (within the meaning of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023), as the case may be in respect of an offence of which he or she was convicted outside the State—
+
+(i) on his or her transfer to the State and imprisonment or detention, as may be appropriate, in a prison, a children detention school or a place of detention, as the case may be, in the State under the Transfer of Sentenced Persons Act 1995, ...
+
+(ii) on his or her committal to a prison or Saint Patrick’s Institution under the Transfer of Sentenced Persons Act 1995, or
+
+(iii) on his or her transfer to the State and detention in a place of detention in the State under Part 3 of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023, as the case may be;
 
 “police”, in relation to a place referred to in subsection (8), means any police force in that place, or a member thereof, whether that force is organised at a national, regional or local level.

@@ -18,6 +18,8 @@ Request for execution of sentence in State.
 
 (e) the Minister is of the opinion that, having regard to all the circumstances, it would be appropriate for him or her to give such consent.
 
+(2A) For the purposes of subsection (2)(d) and section 8(2)(b)(iv), where the sentence imposed in a sentencing country is in relation to more than one offence, the requirement set out in those provisions shall be deemed to be satisfied where any one or more of the offences for which the sentence was imposed corresponds to an offence under the law of the State.
+
 (3) The Minister may, in relation to a person—
 
 (a) sentenced to less than 6 months imprisonment, in the sentencing country, or

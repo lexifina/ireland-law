@@ -16,6 +16,18 @@ Decision on parole
 
 (b) the sentence of imprisonment concerned and any recommendation of the court that imposed that sentence in relation thereto,
 
+(ba) without prejudice to paragraphs (a), (b) and (c) to (m), in the case of a foreign sentence—
+
+(i) any restriction, notified in writing to the Minister by the state in which the sentence was imposed, for the whole term of the sentence regarding the eligibility of the sentenced person to early or conditional release (including parole),
+
+(ii) any condition, notified in writing to the Minister by the state in which the sentence was imposed, that means the eligibility of the sentenced person to early or conditional release (including parole) was conditional on his or her having served a specified term of imprisonment where the condition was as a result of—
+
+(I) a decision or order by the court or tribunal that imposed the sentence,
+
+(II) the operation of law of the state in which the sentence was imposed, or
+
+(III) a decision of a body in the state in which the sentence was imposed, other than a body referred to in clause (I), on whom a power to make such a decision has been conferred by law,
+
 (c) the period of the sentence of imprisonment served by the parole applicant,
 
 (d) any offence of which the parole applicant was convicted other than the offence to which the sentence of imprisonment being served by him or her relates,
@@ -26,7 +38,7 @@ Decision on parole
 
 (ii) while previously the subject of a parole order, if any,
 
-(iii) while the subject of a direction under section 2 of the Act of 1960, if any, or
+(iii) while the subject of a direction under section 2 or 2A of the Act of 1960, if any, or
 
 (iv) during a period of temporary release, if any, to which rules under section 2 of the Act of 1960, made before the coming into operation of the Criminal Justice (Temporary Release of Prisoners) Act 2003, applied,
 
@@ -51,3 +63,11 @@ Decision on parole
 (a) the release of the parole applicant from prison is prohibited by or under any enactment, whether passed before or after the coming into operation of this section, or
 
 (b) the parole applicant has been charged with, or convicted of, an offence and is in custody pursuant to an order of a court remanding him to appear at a future sitting of a court.
+
+(4) For the purposes of subsection (2)(b), a reference in that subsection to any recommendation of the court that imposed the sentence shall, in the case of a foreign sentence, be construed as a reference to any recommendation of the court or tribunal in the state that imposed the sentence.
+
+(5) In this section, "foreign sentence", means—
+
+(a) a sentence of imprisonment for life, or
+
+(b) a sentence of imprisonment of a term equivalent to or longer than such term as may be prescribed in regulations made by the Minister under section 24(3), that is imposed by a court or tribunal in a state, other than the State, the enforcement of which has been transferred to the State and thereafter continued in accordance with a committal order within the meaning of the Transfer of Sentenced Persons Act 1995, the Transfer of Execution of Sentences Act 2005 or Part 3 of the Criminal Justice (Mutual Recognition of Custodial Sentences) Act 2023, as the case may be.
