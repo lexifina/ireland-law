@@ -1,3 +1,3 @@
-Powers of Inspector. (repealed)
+Powers of Inspector. (Repealed)
 
 187.—...

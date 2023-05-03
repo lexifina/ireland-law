@@ -1,3 +1,3 @@
-Accounts and audits of Board. (repealed)
+Accounts and audits of Board. (Repealed)
 
 241.—...

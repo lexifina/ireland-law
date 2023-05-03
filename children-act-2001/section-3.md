@@ -64,7 +64,7 @@ Interpretation (general).
 
 “member in charge” means a member of the Garda Síochána who is in charge of a Garda Síochána station at a time when the member in charge of a station is required to do anything or cause anything to be done pursuant to this Act;
 
-‘Minister’ when used without qualification means the Minister for Justice and Equality, other than in subsections (4), (6), (9) and (11) of section 88, section 88A, section 88B and Part 10 where it means the Minister for Children and Youth Affairs;
+"Minister" when used without qualification means the Minister for Justice and Equality, other than in subsections (4), (6), (9) and (11) of section 88, section 88A, section 88B and Part 10 where it means the Minister for Children and Youth Affairs;
 
 “parents”, in relation to a child, means—
 
@@ -74,7 +74,7 @@ Interpretation (general).
 
 (c) in any other case, both parents;
 
-‘prescribed’ means prescribed by regulations made by the Minister or the Minister for Children and Youth Affairs, as appropriate;
+"prescribed" means prescribed by regulations made by the Minister or the Minister for Children and Youth Affairs, as appropriate;
 
 “principal probation and welfare officer” means the principal probation and welfare officer of the probation and welfare service;
 
@@ -90,9 +90,9 @@ Interpretation (general).
 
 “school” means a children detention school;
 
-‘secondary victimisation’ has the same meaning as it has in the Criminal Justice (Victims of Crime) Act 2017;
+"secondary victimisation" has the same meaning as it has in the Criminal Justice (Victims of Crime) Act 2017;
 
-‘special care order’ has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011) of the Act of 1991;
+"special care order" has the meaning assigned to it by Part IVA (as amended by the Child Care (Amendment) Act 2011) of the Act of 1991;
 
 “summons” has the meaning assigned to it by section 1(1) of the Courts (No. 3) Act, 1986;
 

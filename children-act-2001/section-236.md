@@ -1,3 +1,3 @@
-Seal. (repealed)
+Seal. (Repealed)
 
 236.—...

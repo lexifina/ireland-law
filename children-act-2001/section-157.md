@@ -6,21 +6,21 @@ Interpretation (Part 10).
 
 “Act of 1908” means the Children Act, 1908;
 
-‘amalgamation date’ has the meaning assigned to it by section 163A;
+"amalgamation date" has the meaning assigned to it by section 163A;
 
-‘amalgamation order’ has the meaning assigned to it by section 163A;
+"amalgamation order" has the meaning assigned to it by section 163A;
 
-‘amalgamated school’ is a children detention school that is formed by the amalgamation of 2 or more children detention schools pursuant to an amalgamation order;
+"amalgamated school" is a children detention school that is formed by the amalgamation of 2 or more children detention schools pursuant to an amalgamation order;
 
-‘Appeal Tribunal’ shall be construed in accordance with section 201D;
+"Appeal Tribunal" shall be construed in accordance with section 201D;
 
-‘approved absence’ means the absence of a child from a children detention school under section 202, 203, 204, 205 or 207, as the case may be;
+"approved absence" means the absence of a child from a children detention school under section 202, 203, 204, 205 or 207, as the case may be;
 
 “authorised person” means a person authorised by the Minister under section 185;
 
 “board of management” has the meaning assigned to it by section 164;
 
-‘child’ means—
+"child" means—
 
 (a) a person under the age of 18 years in relation to whom a children detention order is in force,
 
@@ -30,11 +30,11 @@ Interpretation (Part 10).
 
 “Director” means a person appointed under section 180 as Director of a children detention school or, as the case may be, of more than one such school;
 
-‘disciplinary breach’ has the meaning assigned to it by section 201;
+"disciplinary breach" has the meaning assigned to it by section 201;
 
-‘Inspector’ has the meaning assigned to it by section 186A;
+"Inspector" has the meaning assigned to it by section 186A;
 
-‘Minister’ means the Minister for Children and Youth Affairs;
+"Minister" means the Minister for Children and Youth Affairs;
 
 ...
 

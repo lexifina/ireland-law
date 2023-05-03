@@ -8,4 +8,4 @@ Unauthorised provision of mobile telecommunications device.
 
 (c) a child to whom paragraph (a) or (b) applies but who is for the time being in lawful custody outside the children detention school or the remand centre, as the case may be, commits an offence and is liable on summary conviction to a class D fine or imprisonment for a term not exceeding 6 months or both.
 
-(2) In this section ‘mobile telecommunications device’ includes a component of such a device.
+(2) In this section "mobile telecommunications device" includes a component of such a device.

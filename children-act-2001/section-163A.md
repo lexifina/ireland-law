@@ -1,6 +1,6 @@
 Amalgamation of children detention schools.
 
-163A. (1) The Minister may by order (in this section referred to as an ‘amalgamation order’) provide for the amalgamation of 2 or more children detention schools as and from such date as shall be specified in the order (in this section referred to as the ‘amalgamation date’) and an amalgamated school shall be a children detention school for the purposes of this Act on and after the amalgamation date.
+163A. (1) The Minister may by order (in this section referred to as an "amalgamation order") provide for the amalgamation of 2 or more children detention schools as and from such date as shall be specified in the order (in this section referred to as the "amalgamation date") and an amalgamated school shall be a children detention school for the purposes of this Act on and after the amalgamation date.
 
 (2) When making an amalgamation order, the Minister shall have regard to—
 
@@ -82,6 +82,6 @@ Amalgamation of children detention schools.
 
 (18) In this section—
 
-‘contract of employment’ means a contract of service whether express or implied and, if express, whether oral or in writing, but shall not include a contract whereby an individual agrees with another person who is carrying on the business of an employment agency within the meaning of the Employment Agency Act 1971 and is acting in the course of that business, to do or perform personally any work or service for a third person (whether or not the third person is a party to the contract);
+"contract of employment" means a contract of service whether express or implied and, if express, whether oral or in writing, but shall not include a contract whereby an individual agrees with another person who is carrying on the business of an employment agency within the meaning of the Employment Agency Act 1971 and is acting in the course of that business, to do or perform personally any work or service for a third person (whether or not the third person is a party to the contract);
 
-‘relevant children detention school’ in relation to an amalgamation order, means a children detention school to which the amalgamation order relates.
+"relevant children detention school" in relation to an amalgamation order, means a children detention school to which the amalgamation order relates.

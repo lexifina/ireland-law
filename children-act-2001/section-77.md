@@ -1,8 +1,6 @@
 Referral of case to health board.
 
-77.—(1) Where, in any proceedings in which a child is charged with an offence, it appears to the Court that it may be appropriate for a care order or a supervision order to be made under the Act of 1991 with respect to the child or for the provision to that child of other care under the Act of 1991 (as amended by the Child Care
-
-(Amendment) Act 2011) or otherwise, the Court may, of its own motion or on the application of any person—
+77.—(1) Where, in any proceedings in which a child is charged with an offence, it appears to the Court that it may be appropriate for a care order or a supervision order to be made under the Act of 1991 with respect to the child or for the provision to that child of other care under the Act of 1991 (as amended by the Child Care (Amendment) Act 2011) or otherwise, the Court may, of its own motion or on the application of any person—
 
 (a) adjourn the proceedings and direct the Child and Family Agency to convene a family welfare conference in respect of the child if in the Court’s view it is practicable for the Child and Family Agency to hold such a conference having regard to the age of the child and his or her family and other circumstances.
 

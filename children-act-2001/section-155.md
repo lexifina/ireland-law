@@ -30,12 +30,12 @@ Persons who attain 18 years of age while detained.
 
 (ii) ceases to be engaged in the course of education or training concerned, or
 
-(b) the period is about to elapse, the Director shall, or in the case of a cessation of engagement referred to in paragraph (a) (ii), may, where a period of detention remains to be served by the person, make a request under subsection (2) as soon as may be in respect of that person and in such case, reference in subsections (2) and (3) to ‘before the relevant date’ shall be construed as ‘as soon as may be’ and reference in subsections (2) and (4) to ‘on the relevant date’ shall be construed as a reference to the day after the date of authorisation by the Minister for Children and Youth Affairs under subsection (3).
+(b) the period is about to elapse, the Director shall, or in the case of a cessation of engagement referred to in paragraph (a) (ii), may, where a period of detention remains to be served by the person, make a request under subsection (2) as soon as may be in respect of that person and in such case, reference in subsections (2) and (3) to "before the relevant date" shall be construed as "as soon as may be" and reference in subsections (2) and (4) to "on the relevant date" shall be construed as a reference to the day after the date of authorisation by the Minister for Children and Youth Affairs under subsection (3).
 
 (7) Notwithstanding any provision to the contrary contained in any enactment, a child shall not be transferred from a children detention school to a place of detention provided under section 2 of the Act of 1970 or to a prison.
 
 (8) In this section—
 
-‘Director’ means the Director, within the meaning of section 180, of the children detention school in which a person referred to in subsection (1) is detained before the relevant date;
+"Director" means the Director, within the meaning of section 180, of the children detention school in which a person referred to in subsection (1) is detained before the relevant date;
 
-‘enactment’ has the same meaning as it has in the Interpretation Act 2005.
+"enactment" has the same meaning as it has in the Interpretation Act 2005.

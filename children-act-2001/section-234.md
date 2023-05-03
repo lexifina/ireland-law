@@ -1,3 +1,3 @@
-Remuneration of members. (repealed)
+Remuneration of members. (Repealed)
 
 234.—...

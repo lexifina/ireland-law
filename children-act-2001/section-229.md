@@ -1,3 +1,3 @@
-Policy directions. (repealed)
+Policy directions. (Repealed)
 
 229.—...

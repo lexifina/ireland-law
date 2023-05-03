@@ -1,3 +1,3 @@
-Annual report of Inspector. (repealed)
+Annual report of Inspector. (Repealed)
 
 189.—...

@@ -18,9 +18,9 @@ Escape.
 
 (a) subject to section 11(2) of the Children (Amendment) Act 2015, section 155 (other than subsections (1) and (7)) shall, with any necessary modifications, apply to that person,
 
-(b) reference in subsections (2) and (3) of section 155 to ‘before the relevant date’ shall be construed as ‘as soon as may be’, and
+(b) reference in subsections (2) and (3) of section 155 to "before the relevant date" shall be construed as "as soon as may be", and
 
-(c) reference in subsections (2) and (4) of section 155 to ‘on the relevant date’ shall be construed as a reference to the day after the date of authorisation by the Minister for Children and Youth Affairs under subsection (3) of section 155.
+(c) reference in subsections (2) and (4) of section 155 to "on the relevant date" shall be construed as a reference to the day after the date of authorisation by the Minister for Children and Youth Affairs under subsection (3) of section 155.
 
 (4B) Where a person to whom subsection (1) applies is arrested and returned by a member of the Garda Síochána pursuant to that subsection or otherwise returns to the children detention school, hospital or other institution concerned, and the person before his or her escape had been detained pursuant to section 155 and is below the age of 18 years and 6 months on the date of his or her return, the Director of the children detention school in which the person had been detained prior to his or her escape may as he or she considers appropriate—
 

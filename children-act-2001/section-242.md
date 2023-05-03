@@ -1,3 +1,3 @@
-Annual report and information. (repealed)
+Annual report and information. (Repealed)
 
 242.—...

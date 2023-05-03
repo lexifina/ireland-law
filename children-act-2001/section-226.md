@@ -1,3 +1,3 @@
-Special Residential Services Board. (repealed)
+Special Residential Services Board. (Repealed)
 
 226.—...

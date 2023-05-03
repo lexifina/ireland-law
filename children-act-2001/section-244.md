@@ -1,3 +1,3 @@
-Regulations. (repealed)
+Regulations. (Repealed)
 
 244.—...

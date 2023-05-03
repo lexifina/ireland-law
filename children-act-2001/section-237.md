@@ -1,3 +1,3 @@
-Chief Executive of Board. (repealed)
+Chief Executive of Board. (Repealed)
 
 237.—...

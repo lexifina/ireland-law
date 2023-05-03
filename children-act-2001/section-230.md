@@ -1,3 +1,3 @@
-Membership, etc., of Board. (repealed)
+Membership, etc., of Board. (Repealed)
 
 230.—...

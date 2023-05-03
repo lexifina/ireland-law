@@ -1,3 +1,3 @@
-Application of Prisons Acts, etc. rules to children detention schools. (repealed)
+Application of Prisons Acts, etc. rules to children detention schools. (Repealed)
 
 156B.— ...

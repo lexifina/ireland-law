@@ -32,4 +32,4 @@ Superannuation.
 
 (12) The Minister shall cause every scheme submitted and approved under this section to be laid before each House of the Oireachtas as soon as may be after it is approved, and if either such House, within the next 21 days on which that House sits after the scheme is laid before it, passes a resolution annulling the scheme, the scheme shall be annulled accordingly, but without prejudice to anything previously done thereunder.
 
-(13) In this section ‘Act of 2012’ means the Public Service Pensions (Single Scheme and Other Provisions) Act 2012.
+(13) In this section "Act of 2012" means the Public Service Pensions (Single Scheme and Other Provisions) Act 2012.

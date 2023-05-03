@@ -1,6 +1,6 @@
 Closure of children detention school or part thereof.
 
-163. (1) Where the Minister is of opinion that a children detention school or part thereof is no longer suitable for the detention of children, or is no longer required for that purpose, he or she may, by order (in this section referred to as a ‘closure order’)—
+163. (1) Where the Minister is of opinion that a children detention school or part thereof is no longer suitable for the detention of children, or is no longer required for that purpose, he or she may, by order (in this section referred to as a "closure order")—
 
 (a) specify the children detention school or part thereof to which the order relates,
 
@@ -80,6 +80,6 @@ Closure of children detention school or part thereof.
 
 (12) In this section—
 
-‘date of closure’ means the date specified in a closure order under subsection (1)(c) or the date specified in a temporary closure order under subsection (3), as the case may be;
+"date of closure" means the date specified in a closure order under subsection (1)(c) or the date specified in a temporary closure order under subsection (3), as the case may be;
 
-‘relevant children detention school’ means a children detention school to which a closure order or temporary closure order, as the case may be, relates or, where relevant, a part of a children detention school to which a closure order relates.
+"relevant children detention school" means a children detention school to which a closure order or temporary closure order, as the case may be, relates or, where relevant, a part of a children detention school to which a closure order relates.

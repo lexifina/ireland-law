@@ -1,3 +1,3 @@
-Removal and resignation of members. (repealed)
+Removal and resignation of members. (Repealed)
 
 231.—...

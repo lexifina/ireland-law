@@ -1,4 +1,4 @@
-Functions of Board. (repealed)
+Functions of Board. (Repealed)
 
 227.— ...
 

@@ -1,3 +1,3 @@
-Aiding, etc., under-age child to commit offence.
+Aiding, etc., under-age child to commit offence. (Repealed)
 
 54.—...

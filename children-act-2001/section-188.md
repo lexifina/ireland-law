@@ -1,3 +1,3 @@
-Reports of inspections and investigations. (repealed)
+Reports of inspections and investigations. (Repealed)
 
 188.—...
