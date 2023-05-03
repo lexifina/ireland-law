@@ -50,7 +50,9 @@ Commission of another offence within specified period.
 
 (b) serving a sentence in prison,
 
-(c) temporarily released under section 2 of the Criminal Justice Act 1960, or
+(c) temporarily released under section 2 of the Criminal Justice Act 1960,
+
+(ca) conditionally released under section 2A of the Criminal Justice Act 1960, or
 
 (d) released on parole within the meaning of the Parole Act 2019.
 
