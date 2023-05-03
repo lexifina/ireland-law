@@ -16,7 +16,9 @@ Producing, distributing, etc. child pornography
 
 (f) encourages, knowingly causes or facilitates any activity mentioned in paragraphs (a) to (e), or
 
-(g) knowingly possesses any child pornography for the purpose of distributing, transmitting, disseminating, publishing, exporting, selling or showing it, shall be guilty of an offence and shall be liable— (i) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
+(g) knowingly possesses any child pornography for the purpose of distributing, transmitting, disseminating, publishing, exporting, selling or showing it, shall be guilty of an offence and shall be liable—
+
+(i) on summary conviction, to a class A fine or imprisonment for a term not exceeding 12 months or both, or
 
 (ii) on conviction on indictment, to a fine or imprisonment for a term not exceeding 14 years or both.
 
