@@ -2,17 +2,17 @@ Commission of another offence specified in Schedule within specified period
 
 58. (1) Subject to subsections (2) and (3), where a person (other than a person under the age of 18 years)—
 
-(a) has been convicted on indictment of an offence specified in the Schedule (in this section referred to as ‘the first offence’),
+(a) has been convicted on indictment of an offence specified in the Schedule (in this section referred to as "the first offence"),
 
 (b) has been sentenced to imprisonment for a term of not less than 5 years in respect of that offence, and
 
-(c) is convicted on indictment of an offence specified in the Schedule (in this section referred to as ‘the subsequent offence’) that is committed—
+(c) is convicted on indictment of an offence specified in the Schedule (in this section referred to as "the subsequent offence") that is committed—
 
 (i) during the period of 10 years from the date of conviction of the first offence and, for the purpose of determining that period, there shall be disregarded any period of imprisonment in respect of the first offence or the subsequent offence, or
 
 (ii) during any such period of imprisonment,
 
-(in this section the total period comprising the periods referred to in subparagraphs (i) and (ii) is referred to as ‘the specified period’), the court shall, in imposing sentence on the person in respect of the subsequent offence, specify as the minimum term of imprisonment to be served by the person a term of not less than three quarters of the maximum term of imprisonment prescribed by law in respect of such an offence and, if the maximum term so prescribed is life imprisonment, the court shall specify a term of imprisonment of not less than 10 years.
+(in this section the total period comprising the periods referred to in subparagraphs (i) and (ii) is referred to as "the specified period"), the court shall, in imposing sentence on the person in respect of the subsequent offence, specify as the minimum term of imprisonment to be served by the person a term of not less than three quarters of the maximum term of imprisonment prescribed by law in respect of such an offence and, if the maximum term so prescribed is life imprisonment, the court shall specify a term of imprisonment of not less than 10 years.
 
 (2) Subsection (1) shall not apply where the court is satisfied that it would be disproportionate in all the circumstances of the case to specify as the minimum term of imprisonment to be served by the person concerned the term of imprisonment referred to in that subsection in respect of the subsequent offence.
 
@@ -38,7 +38,9 @@ Commission of another offence specified in Schedule within specified period
 
 (b) serving a sentence in prison,
 
-(c) temporarily released under section 2 of the Criminal Justice Act 1960, or
+(c) temporarily released under section 2 of the Criminal Justice Act 1960,
+
+(ca) conditionally released under section 2A of the Criminal Justice Act 1960, or
 
 (d) released on parole within the meaning of the Parole Act 2019.
 
@@ -60,7 +62,7 @@ Commission of another offence specified in Schedule within specified period
 
 (i) varied on appeal, or
 
-(ii) on the application of the Director of Public Prosecutions under section 2 of the Criminal Justice Act 1993, quashed by the Court of Criminal Appeal or the Court of Appeal, as the case may be, and another sentence is imposed in place of it by that Court on the person, so that the sentence then falls under subsection (1)(b), subsection (1) shall apply in respect of an offence specified in the Schedule (‘the subsequent offence’) committed by the person within the specified period.
+(ii) on the application of the Director of Public Prosecutions under section 2 of the Criminal Justice Act 1993, quashed by the Court of Criminal Appeal or the Court of Appeal, as the case may be, and another sentence is imposed in place of it by that Court on the person, so that the sentence then falls under subsection (1)(b), subsection (1) shall apply in respect of an offence specified in the Schedule ("the subsequent offence") committed by the person within the specified period.
 
 (b) If, in the circumstances referred to in paragraph (a), a sentence has, at the time of the appeal referred to in subparagraph (i) of that paragraph or, as the case may be, the application referred to in subparagraph (ii) of that paragraph, been imposed on the person concerned in respect of the subsequent offence, the Director of Public Prosecutions may apply to the court that imposed the sentence to review it and the court shall apply subsection (1) to that person in respect of the subsequent offence and, if appropriate, vary the sentence accordingly.
 
@@ -78,8 +80,8 @@ Commission of another offence specified in Schedule within specified period
 
 (b) references to an offence of attempting or conspiring to commit, or inciting the commission of, such an offence.
 
-(17) In this section ‘imprisonment’ includes—
+(17) In this section "imprisonment" includes—
 
 (a) detention in a place provided under section 2 of the Prisons Act 1970, and
 
-(b) detention in a place specified under section 3 of the Prisons Act 1972, and ‘prison’ and ‘sentence of imprisonment’ shall be construed accordingly.
+(b) detention in a place specified under section 3 of the Prisons Act 1972, and "prison" and "sentence of imprisonment" shall be construed accordingly.
