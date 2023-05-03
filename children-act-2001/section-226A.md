@@ -1,3 +1,3 @@
-Change of name of Board. (repealed)
+Change of name of Board. (Repealed)
 
-226A.—... name of Board. Functions of
+226A.—... name of Board.
