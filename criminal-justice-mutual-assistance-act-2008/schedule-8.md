@@ -4,9 +4,7 @@ PART 1
 
 TEXT OF 1959 CONVENTION
 
-Preamble
-
-The governments signatory hereto, being members of the Council of Europe, Considering that the aim of the Council of Europe is to achieve greater unity among its members;
+Preamble The governments signatory hereto, being members of the Council of Europe, Considering that the aim of the Council of Europe is to achieve greater unity among its members;
 
 Believing that the adoption of common rules in the field of mutual assistance in criminal matters will contribute to the attainment of this aim;
 
@@ -236,9 +234,7 @@ Article 30
 
 The Secretary General of the Council of Europe shall notify the members of the Council and the government of any State which has acceded to this Convention of: a) the names of the signatories and the deposit of any instrument of ratification or accession; b) the date of entry into force of this Convention; c) any notification received in accordance with the provisions of Article 5 — paragraph 1, Article 7 — paragraph 3, Article 15 — paragraph 6, Article 16 — paragraph 2, Article 24, Article 25 — paragraphs 3 and 4, Article 26 — paragraph 4; d) any reservation made in accordance with Article 23, paragraph 1; e) the withdrawal of any reservation in accordance with Article 23, paragraph 2; f) any notification of denunciation received in accordance with the provisions of Article 29 and the date on which such denunciation will take effect.
 
-In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
-
-Done at Strasbourg, this 20th day of April 1959, in English and French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to the signatory and acceding governments.
+In witness whereof the undersigned, being duly authorised thereto, have signed this Convention. Done at Strasbourg, this 20th day of April 1959, in English and French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to the signatory and acceding governments.
 
 PART 2
 

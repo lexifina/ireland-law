@@ -1,6 +1,6 @@
 Request to member state for assistance of special intervention unit in dealing with crisis situation.
 
-94C. (1) Where the competent authority is satisfied that—
+94C.— (1) Where the competent authority is satisfied that—
 
 (a) as a result of the commission of a criminal offence, a crisis situation exists in the State, and
 

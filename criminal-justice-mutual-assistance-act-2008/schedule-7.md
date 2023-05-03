@@ -34,13 +34,13 @@ Definitions
 
 For the purposes of this Decision, the following definitions shall apply:
 
-(a) ‘terrorist offences’: the offences specified in Articles 1, 2 and 3 of Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism;
+(a) "terrorist offences": the offences specified in Articles 1, 2 and 3 of Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism;
 
-(b) ‘Europol Convention’: the Convention of 26 July 1995 on the establishment of a European Police Office;
+(b) "Europol Convention": the Convention of 26 July 1995 on the establishment of a European Police Office;
 
-(c) ‘Eurojust Decision’: Council Decision 2002/187/JHA of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime;
+(c) "Eurojust Decision": Council Decision 2002/187/JHA of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime;
 
-(d) ‘group or entity’: ‘terrorist groups’ within the meaning of Article 2 of Council Framework Decision 2002/475/JHA and the groups and entities listed in the Annex to Council Common Position 2001/931/CFSP of 27 December 2001 on the application of specific measures to combat terrorism.
+(d) "group or entity": "terrorist groups" within the meaning of Article 2 of Council Framework Decision 2002/475/JHA and the groups and entities listed in the Annex to Council Common Position 2001/931/CFSP of 27 December 2001 on the application of specific measures to combat terrorism.
 
 Article 2
 
@@ -98,13 +98,13 @@ Each Member State shall take the necessary measures to ensure that requests from
 
 Article 5
 
-Repeal of existing provisions Decision 2003/48/JHA is hereby repealed.
+Repeal of existing provisions
+
+Decision 2003/48/JHA is hereby repealed.
 
 Article 6
 
-Implementation
-
-Member States shall take the necessary measures to comply with the provisions of this Decision at the latest by 30 June 2006.
+Implementation Member States shall take the necessary measures to comply with the provisions of this Decision at the latest by 30 June 2006.
 
 Article 7
 

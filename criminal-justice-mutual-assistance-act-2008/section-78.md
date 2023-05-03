@@ -18,6 +18,6 @@ Identification evidence for use outside State.
 
 (2) In this section—
 
-‘competent authority’, in relation to a member state, means the authority in the member state that is competent to issue an investigation warrant or statement for the purposes of Article 7 of the 2008 Council Decision or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway;
+"competent authority", in relation to a member state, means the authority in the member state that is competent to issue an investigation warrant or statement for the purposes of Article 7 of the 2008 Council Decision or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway;
 
-‘investigation warrant’ means a warrant or order issued by the competent authority in a member state requiring a person to have identification evidence, other than fingerprints, palm prints or photographs, taken from him or her for the purposes of a criminal investigation, or criminal proceedings, in that member state.
+"investigation warrant" means a warrant or order issued by the competent authority in a member state requiring a person to have identification evidence, other than fingerprints, palm prints or photographs, taken from him or her for the purposes of a criminal investigation, or criminal proceedings, in that member state.

@@ -44,19 +44,19 @@ Definitions
 
 For the purposes of this Framework Decision:
 
-(a) ‘issuing State’ shall mean the Member State in which a judicial authority, as defined in the national law of the issuing State, has made, validated or in any way confirmed a freezing order in the framework of criminal proceedings;
+(a) "issuing State" shall mean the Member State in which a judicial authority, as defined in the national law of the issuing State, has made, validated or in any way confirmed a freezing order in the framework of criminal proceedings;
 
-(b) ‘executing State’ shall mean the Member State in whose territory the property or evidence is located;
+(b) "executing State" shall mean the Member State in whose territory the property or evidence is located;
 
-(c) ‘freezing order’ property that could be subject to confiscation or evidence;
+(c) "freezing order" property that could be subject to confiscation or evidence;
 
-(d) ‘property’ includes property of any description, whether corporeal or incorporeal, movable or immovable, and legal documents and instruments evidencing title to or interest in such property, which the competent judicial authority in the issuing State considers:
+(d) "property" includes property of any description, whether corporeal or incorporeal, movable or immovable, and legal documents and instruments evidencing title to or interest in such property, which the competent judicial authority in the issuing State considers:
 
 — is the proceeds of an offence referred to in Article 3, or equivalent to either the full value or part of the value of such proceeds, or
 
 — constitutes the instrumentalities or the objects of such an offence;
 
-(e) ‘evidence’ shall mean objects, documents or data which could be produced as evidence in criminal proceedings concerning an offence referred to in Article 3.
+(e) "evidence" shall mean objects, documents or data which could be produced as evidence in criminal proceedings concerning an offence referred to in Article 3.
 
 Article 3
 
@@ -76,7 +76,9 @@ Offences
 
 — trafficking in human beings,
 
-— sexual exploitation of children and child pornography, —illicit trafficking in narcotic drugs and psychotropic substances,
+— sexual exploitation of children and child pornography,
+
+—illicit trafficking in narcotic drugs and psychotropic substances,
 
 — illicit trafficking in weapons, munitions and explosives,
 
@@ -118,9 +120,7 @@ Offences
 
 — illicit trafficking in hormonal substances and other growth promoters,
 
-— illicit trafficking in nuclear or radioactive materials,
-
-— trafficking in stolen vehicles,
+— illicit trafficking in nuclear or radioactive materials, — trafficking in stolen vehicles,
 
 — rape,
 
@@ -298,9 +298,7 @@ This Framework Decision shall enter into force on the day of its publication in 
 
 Done at Brussels, 22 July 2003.
 
-For the Council
-
-The President
+For the Council The President
 
 G. ALEMANNO
 
@@ -316,7 +314,9 @@ Name of its representative:
 
 Post held (title/grade):
 
-File reference: Address:
+File reference:
+
+Address:
 
 .
 
@@ -362,15 +362,15 @@ Languages in which it is possible to communicate with the authority competent fo
 
 .
 
-Contact details (including languages in which it is possible to communicate with the person(s)) of the person(s) to contact if additional information on the execution of the order is necessary or to make necessary practical arrangements for the transfer of evidence (if applicable):
-
-.
+Contact details (including languages in which it is possible to communicate with the person(s)) of the person(s) to contact if additional information on the execution of the order is necessary or to make necessary practical arrangements for the transfer of evidence (if applicable): .
 
 (c) In the case where points (a) and (b) have been filled, this point must be filled in order to indicate which/or both of these two authorities must be contacted:
 
 (d) Where a central authority has been made responsible for the transmission and administrative reception of freezing orders (only applicable for Ireland and the United Kingdom):
 
-Name of the central authority: .
+Name of the central authority:
+
+.
 
 Contact person, if applicable (title/grade and name):
 
@@ -428,7 +428,9 @@ Maiden name, where applicable:
 
 Aliases, where applicable:
 
-Sex: Nationality:
+Sex:
+
+Nationality:
 
 Date of birth:
 
@@ -472,9 +474,7 @@ Securing of evidence
 
 2.1.1. Find enclosed a request for the transfer or
 
-2.2. The property is to be kept in the executing State for the purpose of subsequent use as evidence in the issuing State
-
-2.2.2. Estimated date for submission of a request referred to in 2.1.1.
+2.2. The property is to be kept in the executing State for the purpose of subsequent use as evidence in the issuing State 2.2.2. Estimated date for submission of a request referred to in 2.1.1.
 
 (i) Offences:
 
@@ -484,7 +484,9 @@ Description of the relevant grounds for the freezing order and a summary of fact
 
 .
 
-. Nature and legal classification of the offence(s) and the applicable statutory provision/code on basis of which the freezing order was made:
+.
+
+Nature and legal classification of the offence(s) and the applicable statutory provision/code on basis of which the freezing order was made:
 
 .
 
@@ -534,9 +536,7 @@ E-mail:
 
 (l) The text of the freezing order is attached to the certificate.
 
-Signature of the issuing judicial authority and/or its representative certifying the content of the certificate as accurate:
-
-.
+Signature of the issuing judicial authority and/or its representative certifying the content of the certificate as accurate: .
 
 Name:
 

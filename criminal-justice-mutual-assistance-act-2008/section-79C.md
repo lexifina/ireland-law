@@ -1,6 +1,6 @@
 Recording of supply and receipt of data for requests pursuant to Article 7 of 2008 Council Decision or that Article as applied by 2009 Agreement with Iceland and Norway.
 
-79C. (1) The Central Authority shall record, in accordance with subsection (2), the supply and receipt of data—
+79C.— (1) The Central Authority shall record, in accordance with subsection (2), the supply and receipt of data—
 
 (a) in the case of requests under section 77, and
 
@@ -40,4 +40,4 @@ Recording of supply and receipt of data for requests pursuant to Article 7 of 20
 
 (b) in the case of requests referred to in section 78, that are made pursuant to Article 7 of the 2008 Council Decision, or that Article insofar as it is applied by Article 1 of the 2009 Agreement with Iceland and Norway, shall furnish such of the particulars specified in subsection (2) in relation to those data as the data controller or, as the case may be, controller has, as soon as reasonably practicable, to the Central Authority for the purposes of enabling the Central Authority to comply with this section.
 
-(8) In this section ‘reference code’, in relation to the Central Authority or other authority, means the reference code that is assigned to the Central Authority or that other authority, as the case may be, for the purposes of the 2008 Council Decision or the 2009 Agreement with Iceland and Norway.
+(8) In this section "reference code", in relation to the Central Authority or other authority, means the reference code that is assigned to the Central Authority or that other authority, as the case may be, for the purposes of the 2008 Council Decision or the 2009 Agreement with Iceland and Norway.

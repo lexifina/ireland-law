@@ -2,7 +2,7 @@
 
 Interpretation.
 
-60A. In this Part—
+60A.— In this Part—
 
 "appropriate court", in relation to an external financial penalty order, means a court in the State that has jurisdiction to impose a financial penalty of the same amount as the sum mentioned in the external financial penalty order;
 

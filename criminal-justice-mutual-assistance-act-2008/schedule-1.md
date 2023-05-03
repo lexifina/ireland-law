@@ -38,13 +38,13 @@ Relationship to other conventions on mutual assistance
 
 1. The purpose of this Convention is to supplement the provisions and facilitate the application between the Member States of the European Union, of:
 
-(a) the European Convention on Mutual Assistance in Criminal Matters of 20 April 1959, hereinafter referred to as the ‘European Mutual Assistance Convention’;
+(a) the European Convention on Mutual Assistance in Criminal Matters of 20 April 1959, hereinafter referred to as the "European Mutual Assistance Convention";
 
 (b) the Additional Protocol of 17 March 1978 to the European Mutual Assistance Convention;
 
-(c) the provisions on mutual assistance in criminal matters of the Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 on the gradual abolition of checks at common borders (hereinafter referred to as the ‘Schengen Implementation Convention’) which are not repealed pursuant to Article 2(2);
+(c) the provisions on mutual assistance in criminal matters of the Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 on the gradual abolition of checks at common borders (hereinafter referred to as the "Schengen Implementation Convention") which are not repealed pursuant to Article 2(2);
 
-(d) Chapter 2 of the Treaty on Extradition and Mutual Assistance in Criminal Matters between the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Kingdom of the Netherlands of 27 June 1962, as amended by the Protocol of 11 May 1974, (hereinafter referred to as the ‘Benelux Treaty’), in the context of relations between the Member States of the Benelux Economic Union.
+(d) Chapter 2 of the Treaty on Extradition and Mutual Assistance in Criminal Matters between the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Kingdom of the Netherlands of 27 June 1962, as amended by the Protocol of 11 May 1974, (hereinafter referred to as the "Benelux Treaty"), in the context of relations between the Member States of the Benelux Economic Union.
 
 2. This Convention shall not affect the application of more favourable provisions in bilateral or multilateral agreements between Member States or, as provided for in Article 26(4) of the European Mutual Assistance Convention, arrangements in the field of mutual assistance in criminal matters agreed on the basis of uniform legislation or of a special system providing for the reciprocal application of measures of mutual assistance in their respective territories.
 
@@ -260,7 +260,7 @@ A request for the setting up of a joint investigation team may be made by any of
 
 (c) the Member State in which the team operates shall make the necessary organisational arrangements for it to do so.
 
-4. In this Article, members of the joint investigation team from Member States other than the Member State in which the team operates are referred to as being ‘seconded’ to the team.
+4. In this Article, members of the joint investigation team from Member States other than the Member State in which the team operates are referred to as being "seconded" to the team.
 
 5. Seconded members of the joint investigation team shall be entitled to be present when investigative measures are taken in the Member State of operation. However, the leader of the team may, for particular reasons, in accordance with the law of the Member State where the team operates, decide otherwise.
 
@@ -324,7 +324,7 @@ Article 17
 
 Authorities competent to order interception of telecommunications
 
-For the purpose of the application of the provisions of Articles 18, 19 and 20, ‘competent authority’ shall mean a judicial authority, or, where judicial authorities have no competence in the area covered by those provisions, an equivalent competent authority, specified pursuant to Article 24(1)(e) and acting for the purpose of a criminal investigation.
+For the purpose of the application of the provisions of Articles 18, 19 and 20, "competent authority" shall mean a judicial authority, or, where judicial authorities have no competence in the area covered by those provisions, an equivalent competent authority, specified pursuant to Article 24(1)(e) and acting for the purpose of a criminal investigation.
 
 Article 18
 
@@ -392,7 +392,7 @@ Interception of telecommunications without the technical assistance of another M
 
 1. Without prejudice to the general principles of international law as well as to the provisions of Article 18(2)(c), the obligations under this Article shall apply to interception orders made or authorised by the competent authority of one Member State in the course of criminal investigations which present the characteristics of being an investigation following the commission of a specific criminal offence, including attempts in so far as they are criminalised under national law, in order to identify and arrest, charge, prosecute or deliver judgment on those responsible.
 
-2. Where for the purpose of a criminal investigation, the interception of telecommunications is authorised by the competent authority of one Member State (the ‘intercepting Member State’), and the telecommunication address of the subject specified in the interception order is being used on the territory of another Member State (the ‘notified Member State’) from which no technical assistance is needed to carry out the interception, the intercepting Member State shall inform the notified Member State of the interception:
+2. Where for the purpose of a criminal investigation, the interception of telecommunications is authorised by the competent authority of one Member State (the "intercepting Member State"), and the telecommunication address of the subject specified in the interception order is being used on the territory of another Member State (the "notified Member State") from which no technical assistance is needed to carry out the interception, the intercepting Member State shall inform the notified Member State of the interception:
 
 (a) prior to the interception in cases where it knows when ordering the interception that the subject is on the territory of the notified Member State;
 
@@ -444,13 +444,13 @@ Interception of telecommunications without the technical assistance of another M
 
 Article 21
 
-Responsibility for charges made by telecommunications operators
-
-Costs which are incurred by telecommunications operators or service providers in executing requests pursuant to Article 18 shall be borne by the requesting Member State.
+Responsibility for charges made by telecommunications operators Costs which are incurred by telecommunications operators or service providers in executing requests pursuant to Article 18 shall be borne by the requesting Member State.
 
 Article 22
 
-Bilateral arrangements Nothing in this Title shall preclude any bilateral or multilateral arrangements between Member States for the purpose of facilitating the exploitation of present and future technical possibilities regarding the lawful interception of telecommunications.
+Bilateral arrangements
+
+Nothing in this Title shall preclude any bilateral or multilateral arrangements between Member States for the purpose of facilitating the exploitation of present and future technical possibilities regarding the lawful interception of telecommunications.
 
 TITLE IV
 
@@ -480,9 +480,7 @@ Personal data protection
 
 7. Luxembourg may, when signing the Convention, declare that where personal data are communicated by Luxembourg under this Convention to another Member State, the following applies:
 
-Luxembourg may, subject to paragraph 1(c), in the circumstances of a particular case require that unless that Member State concerned has obtained the consent of the data subject, the personal data may only be used for the purposes referred to in paragraph 1(a) and (b) with the prior consent of Luxembourg in respect of proceedings for which Luxembourg could have refused or limited the transmission or use of the personal data in accordance with the provisions of this Convention or the instruments referred to in Article 1.
-
-If, in a particular case, Luxembourg refuses to give its consent to a request from a Member State pursuant to the provisions of paragraph 1, it must give reasons for its decision in writing.
+Luxembourg may, subject to paragraph 1(c), in the circumstances of a particular case require that unless that Member State concerned has obtained the consent of the data subject, the personal data may only be used for the purposes referred to in paragraph 1(a) and (b) with the prior consent of Luxembourg in respect of proceedings for which Luxembourg could have refused or limited the transmission or use of the personal data in accordance with the provisions of this Convention or the instruments referred to in Article 1. If, in a particular case, Luxembourg refuses to give its consent to a request from a Member State pursuant to the provisions of paragraph 1, it must give reasons for its decision in writing.
 
 TITLE V
 
@@ -554,7 +552,7 @@ Article 29
 
 Entry into force for Iceland and Norway
 
-1. Without prejudice to Article 8 of the Agreement concluded by the Council of the European Union and the Republic of Iceland and the Kingdom of Norway concerning the latters’ association with the implementation, application and development of the Schengen acquis (the ‘Association Agreement’), the provisions referred to in Article 2(1) shall enter into force for Iceland and Norway 90 days after the receipt by the Council and the Commission of the information pursuant to Article 8(2) of the Association Agreement upon fulfilment of their constitutional requirements, in their mutual relations with any Member State for which this Convention has already entered into force pursuant to Article 27(3) or (4).
+1. Without prejudice to Article 8 of the Agreement concluded by the Council of the European Union and the Republic of Iceland and the Kingdom of Norway concerning the latters’ association with the implementation, application and development of the Schengen acquis (the "Association Agreement"), the provisions referred to in Article 2(1) shall enter into force for Iceland and Norway 90 days after the receipt by the Council and the Commission of the information pursuant to Article 8(2) of the Association Agreement upon fulfilment of their constitutional requirements, in their mutual relations with any Member State for which this Convention has already entered into force pursuant to Article 27(3) or (4).
 
 2. Any entry into force of this Convention for a Member State after the date of entry into force of the provisions referred to in Article 2(1) for Iceland and Norway, shall render these provisions also applicable in the mutual relations between that Member State and Iceland and Norway.
 

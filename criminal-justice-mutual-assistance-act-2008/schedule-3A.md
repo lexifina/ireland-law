@@ -14,11 +14,13 @@ DESIRING that such cooperation will contribute to combating crime,
 
 REAFFIRMING their commitment to respect for justice, principles of the rule of law and democracy, and judicial independence,
 
-HAVE AGREED AS FOLLOWS: Article 1
+HAVE AGREED AS FOLLOWS:
+
+Article 1
 
 Object and purpose
 
-1. The requested State shall, upon request by the requesting State, provide mutual legal assistance (hereinafter referred to as ‘assistance’) in connection with investigations, prosecutions and other proceedings, including judicial proceedings, in criminal matters in accordance with the provisions of this Agreement.
+1. The requested State shall, upon request by the requesting State, provide mutual legal assistance (hereinafter referred to as "assistance") in connection with investigations, prosecutions and other proceedings, including judicial proceedings, in criminal matters in accordance with the provisions of this Agreement.
 
 2. This Agreement does not apply to extradition, transfer of proceedings in criminal matters and enforcement of sentences other than confiscation provided for under Article 25.
 
@@ -28,29 +30,27 @@ Definitions
 
 For the purpose of this Agreement:
 
-(a) the term ‘Contracting Parties’ means the European Union and Japan;
+(a) the term "Contracting Parties" means the European Union and Japan;
 
-(b) the term ‘Member State’ means a Member State of the European Union;
+(b) the term "Member State" means a Member State of the European Union;
 
-(c) the term ‘State’ means a Member State or Japan;
+(c) the term "State" means a Member State or Japan;
 
-(d) the term ‘items’ means documents, records and other articles of evidence;
+(d) the term "items" means documents, records and other articles of evidence;
 
-(e) the term ‘property’ means assets of every kind, whether corporeal or incorporeal, movable or immovable, tangible or intangible, and legal documents or instruments evidencing title to or interest in such assets;
+(e) the term "property" means assets of every kind, whether corporeal or incorporeal, movable or immovable, tangible or intangible, and legal documents or instruments evidencing title to or interest in such assets;
 
-(f) the term ‘instrumentalities’ means any property used or intended to be used, in any manner, wholly or in part, to commit a criminal offence;
+(f) the term "instrumentalities" means any property used or intended to be used, in any manner, wholly or in part, to commit a criminal offence;
 
-(g) the term ‘proceeds’ means any property derived from or obtained, directly or indirectly, through the commission of a criminal offence;
+(g) the term "proceeds" means any property derived from or obtained, directly or indirectly, through the commission of a criminal offence;
 
-(h) the term ‘freezing or seizure’ means temporarily prohibiting the transfer, conversion, disposition or movement of property or temporarily assuming custody or control of property on the basis of an order issued by a court or other competent authority; and
+(h) the term "freezing or seizure" means temporarily prohibiting the transfer, conversion, disposition or movement of property or temporarily assuming custody or control of property on the basis of an order issued by a court or other competent authority; and
 
-(i) the term ‘confiscation’, which includes forfeiture where applicable, means a penalty or a measure, ordered by a court or other judicial authority following proceedings in relation to a criminal offence or criminal offences resulting in the final deprivation of property.
+(i) the term "confiscation", which includes forfeiture where applicable, means a penalty or a measure, ordered by a court or other judicial authority following proceedings in relation to a criminal offence or criminal offences resulting in the final deprivation of property.
 
 Article 3
 
-Scope of assistance
-
-Assistance shall include the following:
+Scope of assistance Assistance shall include the following:
 
 (a) taking testimony or statements;
 
@@ -98,9 +98,7 @@ Article 7
 
 Authentication
 
-Documents transmitted by a State pursuant to this Agreement which are attested by the signature or seal of a competent authority or the Central Authority of the State need not be authenticated.
-
-Article 8
+Documents transmitted by a State pursuant to this Agreement which are attested by the signature or seal of a competent authority or the Central Authority of the State need not be authenticated. Article 8
 
 Requests for assistance
 
@@ -236,9 +234,7 @@ Transport, maintenance and return of items
 
 2. The requested State may request that the requesting State return any items provided under this Agreement in accordance with the conditions specified by the requested State, after such items have been used for the purpose described in a request.
 
-3. The requesting State shall comply with a request made pursuant to paragraph 1 or 2. When such a request has been made, the requesting State shall not examine the items without the prior consent of the requested State if the examination impairs or could impair the item.
-
-Article 15
+3. The requesting State shall comply with a request made pursuant to paragraph 1 or 2. When such a request has been made, the requesting State shall not examine the items without the prior consent of the requested State if the examination impairs or could impair the item. Article 15
 
 Taking of testimony or statements
 
@@ -264,9 +260,7 @@ Hearing by videoconference
 
 (d) at the request of the requesting State or the person to be heard, the requested State will ensure, if necessary, that the person is assisted by an interpreter; and
 
-(e) the person to be heard may claim the right not to testify which would accrue to him or her under the laws of either the requesting or the requested State. Other measures necessary for the protection of the person as agreed upon between the authorities of the requesting and the requested States will also be taken.
-
-Article 17
+(e) the person to be heard may claim the right not to testify which would accrue to him or her under the laws of either the requesting or the requested State. Other measures necessary for the protection of the person as agreed upon between the authorities of the requesting and the requested States will also be taken. Article 17
 
 Obtaining of items
 
@@ -412,7 +406,9 @@ Article 30
 
 Status of annexes
 
-Annexes to this Agreement form an integral part of this Agreement. Annexes I, II and III may be modified by mutual consent in writing of the Contracting Parties without amendment of this Agreement. Article 31
+Annexes to this Agreement form an integral part of this Agreement. Annexes I, II and III may be modified by mutual consent in writing of the Contracting Parties without amendment of this Agreement.
+
+Article 31
 
 Entry into force and termination
 
@@ -456,13 +452,13 @@ Ireland: the Minister for Justice, Equality and Law Reform or a person designate
 
 - during the trial: the Ministry of Justice, the Portuguese Republic: the Prosecutor General’s Office;
 
-Romania: the Ministry of Justice and Civil Liberties, the General Directorate for Cooperation, Directorate for International Law and Treaties, Division for International Judicial Cooperation in Criminal Matters; the Republic of Slovenia: the Ministry of Justice, the Directorate for international cooperation and international legal assistance; the Slovak Republic:
-
-- in pre-trial proceedings: the General Prosecutor’s Office,
+Romania: the Ministry of Justice and Civil Liberties, the General Directorate for Cooperation, Directorate for International Law and Treaties, Division for International Judicial Cooperation in Criminal Matters; the Republic of Slovenia: the Ministry of Justice, the Directorate for international cooperation and international legal assistance; the Slovak Republic: - in pre-trial proceedings: the General Prosecutor’s Office,
 
 - in trial stage: the Ministry of Justice, and,
 
-- for receiving: the Ministry of Justice, the Republic of Finland: the Ministry of Justice; the Kingdom of Sweden: the Ministry of Justice; the United Kingdom of Great Britain and Northern Ireland:the Home Office (United Kingdom Central Authority), Her Majesty’s Revenue and Customs, Crown Office and Procurator Fiscal Service; Japan: the Minister of Justice and the National Public Safety Commission or persons designated by them.
+- for receiving: the Ministry of Justice, the Republic of Finland: the Ministry of Justice; the Kingdom of Sweden: the Ministry of Justice; the United Kingdom of Great Britain and Northern Ireland:the Home Office (United Kingdom Central Authority), Her Majesty’s Revenue and Customs, Crown Office and Procurator Fiscal Service;
+
+Japan: the Minister of Justice and the National Public Safety Commission or persons designated by them.
 
 ANNEX II
 
@@ -494,9 +490,7 @@ With regard to Article 6 of this Agreement, the authorities which are competent 
 
 - the Senate Department for Justice, Berlin;
 
-- the Ministry of Justice of Land Brandenburg, Potsdam;
-
-- the Senator for Justice and Constitution of the Free Hanseatic City of Bremen, Bremen;
+- the Ministry of Justice of Land Brandenburg, Potsdam; - the Senator for Justice and Constitution of the Free Hanseatic City of Bremen, Bremen;
 
 - the Justice Authority of the Free and Hanseatic City of Hamburg, Hamburg;
 
@@ -508,7 +502,9 @@ With regard to Article 6 of this Agreement, the authorities which are competent 
 
 - the Ministry of Justice of Land North-Rhine/Westphalia, Düsseldorf;
 
-- the Ministry of Justice of Land Rhineland-Palatinate, Mainz; - the Ministry of Justice of the Saarland, Saarbrücken;
+- the Ministry of Justice of Land Rhineland-Palatinate, Mainz;
+
+- the Ministry of Justice of the Saarland, Saarbrücken;
 
 - the Saxonian State Ministry of Justice, Dresden;
 
@@ -548,9 +544,7 @@ Ireland: the Director for Public Prosecutions; the Hellenic Republic: the Public
 
 - assistant principal public prosecutors,
 
-- public prosecutors and assistant public prosecutors,
-
-- representatives of police court public prosecutors, and
+- public prosecutors and assistant public prosecutors, - representatives of police court public prosecutors, and
 
 - military court public prosecutors; the Italian Republic
 
@@ -562,7 +556,9 @@ Prosecutors:
 
 - Director of Military Public Prosecution
 
-- Assistant Military Public Prosecutor - General Public Prosecutor
+- Assistant Military Public Prosecutor
+
+- General Public Prosecutor
 
 - Assistant General Public Prosecutor
 
@@ -610,7 +606,9 @@ Judges:
 
 - the Attorney General,
 
-- the Deputy Attorney General, - the Legal Officers within the Attorney General’s office; and
+- the Deputy Attorney General,
+
+- the Legal Officers within the Attorney General’s office; and
 
 - the Magistrates; the Kingdom of the Netherlands: members of the judiciary responsible for administering the law, examining magistrates and members of the Department of Public Prosecutions; the Republic of Austria: courts and prosecutors; the Republic of Poland: prosecutors and courts; the Portuguese Republic: prosecution services in the investigation phase, investigation judges and trial judges;
 
@@ -638,9 +636,7 @@ Romania: courts and the prosecutor’s offices of the courts; the Republic of Sl
 
 - the Courts of First Instance, the Courts of Appeal, and the Supreme Court,
 
-- the public prosecutors,
-
-- the police authorities, the custom authorities, and the frontier guard officers in their capacity of preliminary criminal investigations authorities in criminal proceedings under the Preliminary Criminal Investigations Act, the Kingdom of Sweden: courts and prosecutors; the United Kingdom of Great Britain and Northern Ireland: courts and prosecutors;
+- the public prosecutors, - the police authorities, the custom authorities, and the frontier guard officers in their capacity of preliminary criminal investigations authorities in criminal proceedings under the Preliminary Criminal Investigations Act, the Kingdom of Sweden: courts and prosecutors; the United Kingdom of Great Britain and Northern Ireland: courts and prosecutors;
 
 Japan: Courts, Presiding Judges, Judges, Public Prosecutors, Public Prosecutor’s Assistant Officers, and Judicial Police Officials.
 
@@ -656,4 +652,6 @@ Japan: Japanese in all cases and English in urgent cases. However, Japan reserve
 
 ANNEX IV
 
-With regard to paragraph 1(b) of Article 11 of this Agreement, ‘one Member State’ referred to in this paragraph is the Portuguese Republic. With regard to paragraph 2 of Article 11 of this Agreement, ‘two Member States’ referred to in this paragraph are the Republic of Austria and the Republic of Hungary.
+With regard to paragraph 1(b) of Article 11 of this Agreement, "one Member State" referred to in this paragraph is the Portuguese Republic.
+
+With regard to paragraph 2 of Article 11 of this Agreement, "two Member States" referred to in this paragraph are the Republic of Austria and the Republic of Hungary.

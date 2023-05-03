@@ -114,7 +114,7 @@ Action on request.
 
 (c) by sending it to the person by post in a prepaid registered letter to the address at which he or she ordinarily resides or, in a case in which an address for service has been furnished, to that address or to his or her solicitor at the solicitor’s office.
 
-(11H) Subject to subsection (11I), in this section ‘consent’ means—
+(11H) Subject to subsection (11I), in this section "consent" means—
 
 (a) subject to paragraph (b), in the case of a person who has attained the age of 18 years, the consent in writing of the person,
 
@@ -174,7 +174,7 @@ Action on request.
 
 (11T) In this section and in section 79A a reference to identification evidence in the possession of the Garda Síochána shall include a reference to identification evidence in the possession of Forensic Science Ireland of the Department of Justice and Equality.
 
-(12) In this section ‘retention period’ means—
+(12) In this section "retention period" means—
 
 (a) in the case of identification evidence, other than a fingerprint, palm print or photograph of a person, the period from the taking of the evidence concerned from the person to the latest date for the destruction of that evidence under subsection (10), and
 

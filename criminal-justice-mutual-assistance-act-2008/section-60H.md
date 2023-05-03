@@ -1,6 +1,6 @@
 Central Authority to inform competent authority.
 
-60H. The Central Authority shall inform, by any means capable of producing a written record, the competent authority in the issuing state that transmitted an external financial penalty order of the following:
+60H.— The Central Authority shall inform, by any means capable of producing a written record, the competent authority in the issuing state that transmitted an external financial penalty order of the following:
 
 (a) the Central Authority has received the external financial penalty order, as soon as may be after the Central Authority receives it;
 

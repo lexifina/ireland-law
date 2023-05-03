@@ -26,9 +26,9 @@ Article 2
 
 Definitions
 
-1. ‘Contracting Parties’ shall mean the European Union and the United States of America.
+1. "Contracting Parties" shall mean the European Union and the United States of America.
 
-2. ‘Member State’ shall mean a Member State of the European Union.
+2. "Member State" shall mean a Member State of the European Union.
 
 Article 3
 
@@ -270,7 +270,7 @@ Done at Washington D.C. on the twenty-fifth day of June in the year two thousand
 
 Explanatory Note on the Agreement on Mutual Legal Assistance between the European Union and the United States of America
 
-This note reflects understandings regarding the application of certain provisions of the Agreement on Mutual Legal Assistance between the European Union and the United States of America (hereinafter ‘the Agreement’) agreed between the Contracting Parties.
+This note reflects understandings regarding the application of certain provisions of the Agreement on Mutual Legal Assistance between the European Union and the United States of America (hereinafter "the Agreement") agreed between the Contracting Parties.
 
 On Article 8
 
@@ -278,9 +278,7 @@ With respect to the mutual legal assistance to administrative authorities under 
 
 The Contracting Parties agree that under the first sentence of Article 8(1) mutual legal assistance will be made available to a requesting administrative authority that is, at the time of making the request, conducting investigations or proceedings in contemplation of criminal prosecution or referral of the investigated conduct to the competent prosecuting authorities, within the terms of its statutory mandate, as further described immediately below. The fact that, at the time of making the request referral for criminal prosecution is being contemplated does not exclude that, other sanctions than criminal ones may be pursued by that authority. Thus, mutual legal assistance obtained under Article 8(1) may lead the requesting administrative authority to the conclusion that pursuance of criminal proceedings or criminal referral would not be appropriate. These possible consequences do not affect the obligation upon the Contracting Parties to provide assistance under this Article.
 
-However, the requesting administrative authority may not use Article 8(1) to request assistance where criminal prosecution or referral is not being contemplated, or for matters in which the conduct under investigation is not subject to criminal sanction or referral under the laws of the requesting State.
-
-The European Union recalls that the subject matter of the Agreement for its part falls under the provisions on police and judicial cooperation in criminal matters set out in Title VI of the Treaty on European Union and that the Agreement has been concluded within the scope of these provisions.
+However, the requesting administrative authority may not use Article 8(1) to request assistance where criminal prosecution or referral is not being contemplated, or for matters in which the conduct under investigation is not subject to criminal sanction or referral under the laws of the requesting State. The European Union recalls that the subject matter of the Agreement for its part falls under the provisions on police and judicial cooperation in criminal matters set out in Title VI of the Treaty on European Union and that the Agreement has been concluded within the scope of these provisions.
 
 On Article 9
 

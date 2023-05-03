@@ -1,6 +1,6 @@
 Variation of amount payable under external financial penalty order.
 
-60F. On application made under section 60D(2) and without prejudice to section 3, the appropriate court may make an order—
+60F.— On application made under section 60D(2) and without prejudice to section 3, the appropriate court may make an order—
 
 (a) where that court is satisfied that, had the conduct which was the subject of the conviction on which that external financial penalty order was made been carried out in the State, the maximum amount of a penalty that could have been imposed was less than the sum mentioned in that order, reducing the amount that the defendant is to pay to that maximum amount,
 

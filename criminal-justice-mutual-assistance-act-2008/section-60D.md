@@ -1,6 +1,6 @@
 External financial penalty orders.
 
-60D. (1) Where the Central Authority receives an external financial penalty order that has been transmitted by a competent authority in an issuing state, it shall proceed to the execution of that order as though it were an order of an appropriate court.
+60D.— (1) Where the Central Authority receives an external financial penalty order that has been transmitted by a competent authority in an issuing state, it shall proceed to the execution of that order as though it were an order of an appropriate court.
 
 (2) Where the Central Authority considers that there are grounds for refusal, variation or termination of the execution of an external financial penalty order transmitted to it in accordance with the 2005 Framework Decision, the Central Authority shall cause an application to be made to the appropriate court for an order under section 60E, 60F or 60G.
 

@@ -1,6 +1,6 @@
 Eurojust national member.
 
-95A. (1) The Minister may, in accordance with the 2018 Regulation, designate an authority or authorities as the Eurojust national member who may transmit and receive information in accordance with that Regulation.
+95A.— (1) The Minister may, in accordance with the 2018 Regulation, designate an authority or authorities as the Eurojust national member who may transmit and receive information in accordance with that Regulation.
 
 (2) The following persons or bodies shall, upon the request of the Eurojust national member, grant the member access to, or provide the member with the information contained in, the register or registers specified in paragraphs (a) to (k) in respect of the person or body concerned, in accordance with Article 9 of the 2018 Regulation, where such access or information is necessary for the performance by the member of the member’s functions:
 
@@ -32,9 +32,9 @@ Eurojust national member.
 
 (5) In this section—
 
-‘Criminal Records Database’ means the database maintained by the Garda Síochána that contains a record of convictions;
+"Criminal Records Database" means the database maintained by the Garda Síochána that contains a record of convictions;
 
-‘public authority’ means—
+"public authority" means—
 
 (a) a person or body established—
 
@@ -46,4 +46,4 @@ Eurojust national member.
 
 (b) a company (within the meaning of Companies Act 2014), a majority of the shares in which are held by or on behalf of a Minister of the Government;
 
-‘register’ has the meaning it has in the 2018 Regulation.
+"register" has the meaning it has in the 2018 Regulation.

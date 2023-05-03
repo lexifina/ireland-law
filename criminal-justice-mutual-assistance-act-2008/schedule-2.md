@@ -2,11 +2,11 @@ SCHEDULE 2
 
 TEXT OF 2001 PROTOCOL
 
-THE HIGH CONTRACTING PARTIES to this Protocol, Member States of the European Union,
+THE HIGH CONTRACTING PARTIES to this Protocol, Member States of the European Union, REFERRING to the Council Act of 16 October 2001 establishing the Protocol to the Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union,
 
-REFERRING to the Council Act of 16 October 2001 establishing the Protocol to the Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union,
+TAKING ACCOUNT of the conclusions adopted at the European Council held in Tampere on 15 and 16 October 1999, and of the need to implement them immediately in order to achieve an area of freedom, security and justice,
 
-TAKING ACCOUNT of the conclusions adopted at the European Council held in Tampere on 15 and 16 October 1999, and of the need to implement them immediately in order to achieve an area of freedom, security and justice, BEARING IN MIND the recommendations made by the experts when presenting the mutual evaluation reports based on Council Joint Action 97/827/JHA of 5 December 1997 establishing a mechanism for evaluating the application and implementation at national level of international undertakings in the fight against organised crime,
+BEARING IN MIND the recommendations made by the experts when presenting the mutual evaluation reports based on Council Joint Action 97/827/JHA of 5 December 1997 establishing a mechanism for evaluating the application and implementation at national level of international undertakings in the fight against organised crime,
 
 CONVINCED of the need for additional measures in the field of mutual assistance in criminal matters for the purpose of the fight against crime, including in particular organised crime, money laundering and financial crime,
 
@@ -34,9 +34,7 @@ The information shall also, if requested and to the extent that it can be provid
 
 — state why it considers that the requested information is likely to be of substantial value for the purpose of the investigation into the offence,
 
-— state on what grounds it presumes that banks in the requested Member State hold the account and, to the extent available, which banks may be involved,
-
-— include any information available which may facilitate the execution of the request.
+— state on what grounds it presumes that banks in the requested Member State hold the account and, to the extent available, which banks may be involved, — include any information available which may facilitate the execution of the request.
 
 5. Member States may make the execution of a request according to this Article dependent on the same conditions as they apply in respect of requests for search and seizure.
 
@@ -182,7 +180,7 @@ Article 15
 
 Position of Iceland and Norway
 
-Article 8 shall constitute measures amending or based upon the provisions referred to in Annex A to the Agreement concluded by the Council of the European Union with the Republic of Iceland and the Kingdom of Norway concerning the latters' association with the implementation, application and development of the Schengen acquis (hereinafter referred to as the ë‘Association Agreement’).
+Article 8 shall constitute measures amending or based upon the provisions referred to in Annex A to the Agreement concluded by the Council of the European Union with the Republic of Iceland and the Kingdom of Norway concerning the latters' association with the implementation, application and development of the Schengen acquis (hereinafter referred to as the ë"Association Agreement").
 
 Article 16
 

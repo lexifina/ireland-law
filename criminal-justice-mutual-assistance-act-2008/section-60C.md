@@ -1,6 +1,6 @@
 Transmission to State of external financial penalty order.
 
-60C. (1) An external financial penalty order may be transmitted by the competent authority of an issuing state to the Central Authority with a request for its execution.
+60C.— (1) An external financial penalty order may be transmitted by the competent authority of an issuing state to the Central Authority with a request for its execution.
 
 (2) The external financial penalty order shall be accompanied by—
 

@@ -2,19 +2,19 @@ SCHEDULE 3
 
 TEXT OF AGREEMENT WITH ICELAND AND NORWAY
 
-THE EUROPEAN UNION, on the one hand, and THE REPUBLIC OF ICELAND and THE KINGDOM OF NORWAY, on the other hand, hereinafter referred to as ‘the Contracting Parties',
+THE EUROPEAN UNION, on the one hand, and THE REPUBLIC OF ICELAND and THE KINGDOM OF NORWAY, on the other hand, hereinafter referred to as "the Contracting Parties",
 
 WISHING to improve judicial cooperation in criminal matters between the Member States of the European Union and Iceland and Norway, without prejudice to the rules protecting individual freedom,
 
 CONSIDERING that current relationships among the Contracting Parties require close cooperation in the fight against crime,
 
-POINTING OUT the Contracting Parties’ common interest in ensuring that mutual assistance between the Member States of the European Union and Iceland and Norway is provided in a fast and efficient manner compatible with the basic principles of their national law, and in compliance with the individual rights and principles of the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4 November 1950,
-
-EXPRESSING their mutual confidence in the structure and functioning of their legal systems and in the ability of all Contracting Parties to guarantee a fair trial,
+POINTING OUT the Contracting Parties’ common interest in ensuring that mutual assistance between the Member States of the European Union and Iceland and Norway is provided in a fast and efficient manner compatible with the basic principles of their national law, and in compliance with the individual rights and principles of the European Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4 November 1950, EXPRESSING their mutual confidence in the structure and functioning of their legal systems and in the ability of all Contracting Parties to guarantee a fair trial,
 
 RESOLVED to supplement the European Convention on Mutual Assistance in Criminal Matters of 20 April 1959 and other Conventions in force in this area, by an Agreement between the European Union, Iceland and Norway,
 
-RECOGNISING that the provisions of those Conventions remain applicable for all matters not covered by this Agreement, RECALLING that this Agreement, including Annex I thereto, regulates mutual assistance in criminal matters, based on the principles of the Convention of 20 April 1959,
+RECOGNISING that the provisions of those Conventions remain applicable for all matters not covered by this Agreement,
+
+RECALLING that this Agreement, including Annex I thereto, regulates mutual assistance in criminal matters, based on the principles of the Convention of 20 April 1959,
 
 CONSIDERING that in Article 2 paragraph 1 of the Convention of 29 May 2000 on Mutual Assistance in Criminal Matters between the Member States of the European Union, and in Article 15 of the Protocol of 16 October 2001 thereto, the provisions have been identified which constitute a development of the Schengen acquis, and which therefore have been accepted by Iceland and Norway by virtue of their obligations under the Agreement of 18 May 1999 concluded by the Council of the European Union, the Republic of Iceland and the Kingdom of Norway on the latters' association with the application, implementation and development of the provisions of the Schengen acquis,
 
@@ -26,11 +26,11 @@ HAVE AGREED AS FOLLOWS:
 
 Article 1
 
-1. Subject to the provisions of this Agreement, the content of the following provisions of the Convention of 29 May 2000, established by the Council of the European Union in accordance with Article 34 of the Treaty on European Union, on Mutual Assistance in Criminal Matters between the Member States of the European Union, hereinafter referred to as ‘the EU Mutual Assistance Convention', shall be applicable in the relations between the Republic of Iceland and the Kingdom of Norway and in the mutual relations between each of these States and the Member States of the European Union:
+1. Subject to the provisions of this Agreement, the content of the following provisions of the Convention of 29 May 2000, established by the Council of the European Union in accordance with Article 34 of the Treaty on European Union, on Mutual Assistance in Criminal Matters between the Member States of the European Union, hereinafter referred to as "the EU Mutual Assistance Convention", shall be applicable in the relations between the Republic of Iceland and the Kingdom of Norway and in the mutual relations between each of these States and the Member States of the European Union:
 
 Articles 4, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25 and 26, as well as Articles 1 and 24 to the extent that they are relevant for any of those other Articles.
 
-2. Subject to the provisions of this Agreement, the content of the following provisions of the Protocol of 16 October 2001, established by the Council of the European Union in accordance with Article 34 of the Treaty on European Union, to the Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union, hereinafter referred to as ‘the EU Mutual Assistance Protocol', shall be applicable in the relations between the Republic of Iceland and the Kingdom of Norway and in the mutual relations between each of these States and the Member States of the European Union:
+2. Subject to the provisions of this Agreement, the content of the following provisions of the Protocol of 16 October 2001, established by the Council of the European Union in accordance with Article 34 of the Treaty on European Union, to the Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union, hereinafter referred to as "the EU Mutual Assistance Protocol", shall be applicable in the relations between the Republic of Iceland and the Kingdom of Norway and in the mutual relations between each of these States and the Member States of the European Union:
 
 Articles 1 (paragraphs 1 to 5), 2, 3, 4, 5, 6, 7, 9, 11 and 12.
 
@@ -90,9 +90,7 @@ Article 9
 
 Article 10
 
-This Agreement shall be drawn up in one single copy in the Danish, Dutch, English, Finnish, French, German, Greek, Icelandic, Irish, Italian, Norwegian, Portuguese, Spanish and Swedish languages, each text being equally authentic.
-
-Done at Brussels, this nineteenth day of December, in the year two thousand and three.
+This Agreement shall be drawn up in one single copy in the Danish, Dutch, English, Finnish, French, German, Greek, Icelandic, Irish, Italian, Norwegian, Portuguese, Spanish and Swedish languages, each text being equally authentic. Done at Brussels, this nineteenth day of December, in the year two thousand and three.
 
 ANNEX I
 

@@ -30,6 +30,6 @@ Application in State of Ireland - US Treaty.
 
 (8) In this section—
 
-‘Act of 1988’ means the Data Protection Act 1988;
+"Act of 1988’ means the Data Protection Act 1988;
 
-‘Act of 2018’ means the Data Protection Act 2018.
+"Act of 2018" means the Data Protection Act 2018.

@@ -1,6 +1,6 @@
 Variation or discharge of confiscation co-operation orders.
 
-51D. (1) Where a confiscation co-operation order has been made, the High Court, on application by the Central Authority or any person affected by the confiscation co-operation order—
+51D.— (1) Where a confiscation co-operation order has been made, the High Court, on application by the Central Authority or any person affected by the confiscation co-operation order—
 
 (a) may vary or discharge it,
 

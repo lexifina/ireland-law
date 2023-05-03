@@ -42,13 +42,13 @@ Whereas:
 
 (7) In order to facilitate cooperation between Eurojust and the EPPO, Eurojust should address issues of relevance to the EPPO whenever necessary.
 
-(8) In light of the establishment of the EPPO by means of enhanced cooperation, the division of competences between the EPPO and Eurojust with respect to crimes affecting the financial interests of the Union needs to be clearly established. From the date on which the EPPO assumes its tasks, Eurojust should be able to exercise its competence in cases which concern crimes for which the EPPO is competent, where those crimes involve both Member States which participate in enhanced cooperation on the establishment of the EPPO and Member States which do not participate in such enhanced cooperation. In such cases, Eurojust should act at the request of the non-participating Member States or at the request of the EPPO. Eurojust should in any case remain competent for offences affecting the financial interests of the Union whenever the EPPO is not competent or where, although the EPPO is competent, it does not exercise its competence. The Members States which do not participate in enhanced cooperation on the establishment of the EPPO may continue to request Eurojust’s support in all cases regarding offences affecting the financial interests of
+(8) In light of the establishment of the EPPO by means of enhanced cooperation, the division of competences between the EPPO and Eurojust with respect to crimes affecting the financial interests of the Union needs to be clearly established. From the date on which the EPPO assumes its tasks, Eurojust should be able to exercise its competence in cases which concern crimes for which the EPPO is competent, where those crimes involve both Member States which participate in enhanced cooperation on the establishment of the EPPO and Member States which do not participate in such enhanced cooperation. In such cases, Eurojust should act at the request of the non-participating Member States or at the request of the EPPO. Eurojust should in any case remain competent for offences affecting the financial interests of the Union whenever the EPPO is not competent or where, although the EPPO is competent, it does not exercise its competence. The Members States which do not participate in enhanced cooperation on the establishment of the EPPO may continue to request Eurojust’s support in all cases regarding offences affecting the financial interests of the Union. The EPPO and Eurojust should develop close operational cooperation in line with their respective mandates.
 
 (3) Council Decision 2003/659/JHA of 18 June 2003 amending Decision 2002/187/JHA setting up Eurojust with a view to reinforcing the fight against serious crime (OJ L 245, 29.9.2003, p. 44).
 
 (4) Council Decision 2009/426/JHA of 16 December 2008 on the strengthening of Eurojust and amending Decision 2002/187/JHA setting up Eurojust with a view to reinforcing the fight against serious crime (OJ L 138, 4.6.2009, p. 14).
 
-(5) Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’) (OJ L 283, 31.10.2017, p. 1). the Union. The EPPO and Eurojust should develop close operational cooperation in line with their respective mandates.
+(5) Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office ("the EPPO") (OJ L 283, 31.10.2017, p. 1).
 
 (9) In order for Eurojust to fulfil its mission and develop its full potential in the fight against serious cross-border crime, its operational functions should be strengthened by reducing the administrative workload of national members, and its European dimension enhanced through the Commission’s participation in the Executive Board and the increased involvement of the European Parliament and national parliaments in the evaluation of its activities.
 
@@ -90,7 +90,7 @@ Whereas:
 
 (28) Directive (EU) 2016/680 of the European Parliament and of the Council () sets out harmonised rules for the protection and the free movement of personal data processed for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security. In order to ensure the same level of protection for natural persons through legally enforceable rights throughout the Union and to prevent divergences hampering the exchange of personal data between Eurojust and competent authorities in Member States, the rules for the protection and the free movement of operational personal data processed by Eurojust should be consistent with Directive (EU) 2016/680.
 
-(29) The general rules of the distinct Chapter of Regulation (EU) 2018/1725 of the European Parliament and of the Council () on the processing of operational personal
+(29) The general rules of the distinct Chapter of Regulation (EU) 2018/1725 of the European Parliament and of the Council () on the processing of operational personal data should apply without prejudice to the specific data protection rules of this Regulation. Such specific rules should be regarded as lex specialis to the provisions in that Chapter of Regulation (EU) 2018/1725 (lex specialis derogat legi generali). In order to reduce legal fragmentation, specific data protection rules in this Regulation should be consistent with the principles underpinning that Chapter of Regulation (EU) 2018/1725, as well as with the provisions of that Regulation relating to independent supervision, remedies, liability and penalties.
 
 (1) Council Decision 2002/494/JHA of 13 June 2002 setting up a European network of contact points in respect of persons responsible for genocide, crimes against humanity and war crimes (OJ L 167, 26.6.2002, p. 1).
 
@@ -100,7 +100,7 @@ Whereas:
 
 (1) Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89).
 
-(2) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002 (see page 39 of this Official Journal). data should apply without prejudice to the specific data protection rules of this Regulation. Such specific rules should be regarded as lex specialis to the provisions in that Chapter of Regulation (EU) 2018/1725 (lex specialis derogat legi generali). In order to reduce legal fragmentation, specific data protection rules in this Regulation should be consistent with the principles underpinning that Chapter of Regulation (EU) 2018/1725, as well as with the provisions of that Regulation relating to independent supervision, remedies, liability and penalties.
+(2) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002 (see page 39 of this Official Journal).
 
 (30) The protection of the rights and freedoms of data subjects requires a clear attribution of responsibilities for data protection under this Regulation. Member States should be responsible for the accuracy of data they have transmitted to Eurojust and which have been processed unaltered by Eurojust, for keeping such data up to date and for the legality of transmitting those data to Eurojust. Eurojust should be responsible for the accuracy of data provided by other data suppliers or resulting from Eurojust’s own analyses or data collection and for keeping such data up to date. Eurojust should ensure that data are processed fairly and lawfully, and are collected and processed for a specific purpose. Eurojust should also ensure that the data are adequate, relevant, not excessive in relation to the purpose for which they are processed, stored no longer than is necessary for that purpose, and processed in a manner that ensures appropriate security of personal data and confidentiality of data processing.
 
@@ -116,7 +116,7 @@ Whereas:
 
 (36) Where operational personal data are transmitted or supplied to Eurojust by the Member State, the competent authority, the national member or the national correspondent for Eurojust should have the right to request rectification or erasure of those operational personal data.
 
-(37) In order to demonstrate compliance with this Regulation, Eurojust or the authorised processor should maintain records regarding all categories of processing activities under its responsibility. Eurojust and each authorised processor should be obliged to cooperate with the European Data Protection Supervisor (the ‘EDPS’) and to make those records available to it on request, so that they might serve for monitoring those processing operations. Eurojust or its authorised processor, when processing personal data in non-automated processing systems, should have in place effective methods of demonstrating the lawfulness of the processing, of enabling self-monitoring and of ensuring data integrity and data security, such as logs or other forms of records.
+(37) In order to demonstrate compliance with this Regulation, Eurojust or the authorised processor should maintain records regarding all categories of processing activities under its responsibility. Eurojust and each authorised processor should be obliged to cooperate with the European Data Protection Supervisor (the "EDPS") and to make those records available to it on request, so that they might serve for monitoring those processing operations. Eurojust or its authorised processor, when processing personal data in non-automated processing systems, should have in place effective methods of demonstrating the lawfulness of the processing, of enabling self-monitoring and of ensuring data integrity and data security, such as logs or other forms of records.
 
 (38) The Executive Board of Eurojust should designate a Data Protection Officer who should be a member of the existing staff. The person designated as Data Protection Officer of Eurojust should have received specialised training in data protection law and practice for acquiring expert knowledge in that field. The necessary level of expert knowledge should be determined in relation to the data processing carried out and the protection required for the personal data processed by Eurojust.
 
@@ -140,15 +140,15 @@ Whereas:
 
 (48) Eurojust should ensure that a transfer to a third country or to an international organisation takes place only if necessary for the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security, and that the controller in the third country or international organisation is an authority competent within the meaning of this Regulation. A transfer should be carried out only by Eurojust acting as controller. Such a transfer may take place in cases where the Commission has decided that the third country or international organisation in question ensures an adequate level of protection, where appropriate safeguards have been provided, or where derogations for specific situations apply.
 
-(49) Eurojust should be able to transfer personal data to an authority of a third country or an international organisation on the basis of a Commission decision finding that the country or international organisation in question ensures an adequate level of data protection (‘adequacy decision’), or, in the absence of an adequacy decision, an international agreement concluded by the Union pursuant to Article 218 TFEU, or a cooperation agreement allowing for the exchange of personal data concluded between Eurojust and the third country prior to the date of application of this Regulation.
+(49) Eurojust should be able to transfer personal data to an authority of a third country or an international organisation on the basis of a Commission decision finding that the country or international organisation in question ensures an adequate level of data protection ("adequacy decision"), or, in the absence of an adequacy decision, an international agreement concluded by the Union pursuant to Article 218 TFEU, or a cooperation agreement allowing for the exchange of personal data concluded between Eurojust and the third country prior to the date of application of this Regulation.
 
 (50) Where the College identifies an operational need for cooperation with a third country or an international organisation, it should be able to suggest that the Council draw the attention of the Commission to the need for an adequacy decision or for a recommendation for the opening of negotiations on an international agreement pursuant to Article 218 TFEU.
 
-(51) Transfers not based on an adequacy decision should be allowed only where appropriate safeguards have been provided in a legally binding instrument which ensures the protection of personal data or where Eurojust has assessed all the circumstances surrounding the data transfer and, on the basis of that assessment, considers that appropriate safeguards with regard to the protection of personal data exist. Such legally binding instruments could, for example, be legally binding bilateral agreements which have been concluded by the Member States and implemented in their legal order and which could be enforced by their data subjects, ensuring compliance with data protection requirements and the rights of the data subjects, including the right to obtain effective administrative or judicial redress. Eurojust should be able to take into account cooperation agreements concluded between Eurojust and third countries which allow for the exchange of personal data when carrying out the assessment of all the circumstances surrounding the data transfer. Eurojust should be able to also take into account the fact that the transfer of personal
+(51) Transfers not based on an adequacy decision should be allowed only where appropriate safeguards have been provided in a legally binding instrument which ensures the protection of personal data or where Eurojust has assessed all the circumstances surrounding the data transfer and, on the basis of that assessment, considers that appropriate safeguards with regard to the protection of personal data exist. Such legally binding instruments could, for example, be legally binding bilateral agreements which have been concluded by the Member States and implemented in their legal order and which could be enforced by their data subjects, ensuring compliance with data protection requirements and the rights of the data subjects, including the right to obtain effective administrative or judicial redress. Eurojust should be able to take into account cooperation agreements concluded between Eurojust and third countries which allow for the exchange of personal data when carrying out the assessment of all the circumstances surrounding the data transfer. Eurojust should be able to also take into account the fact that the transfer of personal data will be subject to confidentiality obligations and the principle of specificity, ensuring that the data will not be processed for other purposes than for the purposes of the transfer. In addition, Eurojust should take into account that the personal data will not be used to request, hand down or execute a death penalty or any form of cruel and inhuman treatment. While those conditions could be considered to be appropriate safeguards allowing the transfer of data, Eurojust should be able to require additional safeguards.
 
 (1) Council Common Position 2005/69/JHA of 24 January 2005 on exchanging certain data with Interpol (OJ L 27, 29.1.2005, p. 61).
 
-(2) Council Decision 2007/533/JHA of 12 June 2007 on the establishment, operation and use of the second generation Schengen Information System (SIS II) (OJ L 205, 7.8.2007, p. 63). data will be subject to confidentiality obligations and the principle of specificity, ensuring that the data will not be processed for other purposes than for the purposes of the transfer. In addition, Eurojust should take into account that the personal data will not be used to request, hand down or execute a death penalty or any form of cruel and inhuman treatment. While those conditions could be considered to be appropriate safeguards allowing the transfer of data, Eurojust should be able to require additional safeguards.
+(2) Council Decision 2007/533/JHA of 12 June 2007 on the establishment, operation and use of the second generation Schengen Information System (SIS II) (OJ L 205, 7.8.2007, p. 63).
 
 (52) Where no adequacy decision or appropriate safeguards exist, a transfer or a category of transfers could take place only in specific situations, if necessary to protect the vital interests of the data subject or another person, or to safeguard legitimate interests of the data subject where the law of the Member State transferring the personal data so provides; for the prevention of an immediate and serious threat to the public security of a Member State or a third country; in an individual case for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security; or in an individual case for the establishment, exercise or defence of legal claims. Those derogations should be interpreted restrictively and should not allow frequent, massive and structural transfers of personal data, or large-scale transfers of data, but should be limited to data strictly necessary. Such transfers should be documented and should be made available to the EDPS on request in order to monitor the lawfulness of the transfer.
 
@@ -174,13 +174,15 @@ Whereas:
 
 (63) It is appropriate to evaluate the application of this Regulation regularly.
 
-(64) Eurojust’s functioning should be transparent in accordance with Article 15(3) TFEU. Specific provisions on how the right of public access to documents is ensured should be adopted by the College. Nothing in this Regulation is intended to restrict the right of public access to documents in so far as it is guaranteed in the Union and in the Member States, in particular under Article 42 of the Charter of Fundamental Rights of the European Union (the ‘Charter’). The general rules on transparency that apply to Union agencies should also apply to Eurojust in a way that does not jeopardise in any manner the obligation of confidentiality in its operational work. Administrative inquiries conducted by the European Ombudsman should respect the obligation of confidentiality of Eurojust.
+(64) Eurojust’s functioning should be transparent in accordance with Article 15(3) TFEU. Specific provisions on how the right of public access to documents is ensured should be adopted by the College. Nothing in this Regulation is intended to restrict the right of public access to documents in so far as it is guaranteed in the Union and in the Member States, in particular under Article 42 of the Charter of Fundamental Rights of the European Union (the "Charter"). The general rules on transparency that apply to Union agencies should also apply to Eurojust in a way that does not jeopardise in any manner the obligation of confidentiality in its operational work. Administrative inquiries conducted by the European Ombudsman should respect the obligation of confidentiality of Eurojust.
 
 (65) In order to increase Eurojust’s transparency vis-à-vis Union citizens and its accountability, Eurojust should publish a list of its Executive Board members on its website and, where appropriate, summaries of the outcome of the meetings of the Executive Board, while respecting data protection requirements.
 
+(66) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council () should apply to Eurojust.
+
 (1) Council Joint Action 96/277/JHA of 22 April 1996 concerning a framework for the exchange of liaison magistrates to improve judicial cooperation between the Member States of the European Union (OJ L 105, 27.4.1996, p. 1).
 
-(66) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council () should apply to Eurojust.
+(1) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/ 2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
 
 (67) Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council () should apply to Eurojust.
 
@@ -196,12 +198,6 @@ Whereas:
 
 (73) The EDPS was consulted in accordance with Article 28(2) of Regulation (EC) No 45/2001 of the European Parliament and of the Council () and delivered an opinion on 5 March 2014.
 
-(1) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/ 2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
-
-(2) Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1).
-
-(1) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
-
 (74) This Regulation fully respects the fundamental rights and safeguards and observes the principles recognised in particular by the Charter,
 
 HAVE ADOPTED THIS REGULATION:
@@ -213,6 +209,10 @@ ESTABLISHMENT, OBJECTIVES AND TASKS OF EUROJUST
 Article 1
 
 Establishment of the European Union Agency for Criminal Justice Cooperation
+
+(2) Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1).
+
+(1) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
 
 1. The European Union Agency for Criminal Justice Cooperation (Eurojust) is hereby established.
 
@@ -350,7 +350,9 @@ Exercise of operational and other functions
 
 3. When it fulfils its tasks, Eurojust shall indicate whether it is acting through one or more of the national members or as a College.
 
-4. The College may assign additional administrative tasks to the Administrative Director and the Executive Board beyond those provided for in Articles 16 and 18, in accordance with its operational needs. Where exceptional circumstances so require, the College may decide to suspend temporarily the delegation of the appointing authority powers to the Administrative Director and of those powers that have been sub-delegated by the latter, and to exercise them itself or to delegate them to one of its members or to a staff member other than the Administrative Director.
+4. The College may assign additional administrative tasks to the Administrative Director and the Executive Board beyond those provided for in Articles 16 and 18, in accordance with its operational needs.
+
+Where exceptional circumstances so require, the College may decide to suspend temporarily the delegation of the appointing authority powers to the Administrative Director and of those powers that have been sub-delegated by the latter, and to exercise them itself or to delegate them to one of its members or to a staff member other than the Administrative Director.
 
 5. The College shall adopt Eurojust’s rules of procedure on the basis of a two-thirds majority of its members. In the event that agreement cannot be reached by a two-thirds majority, the decision shall be taken by simple majority. Eurojust’s rules of procedure shall be approved by the Council by means of implementing acts.
 
@@ -428,8 +430,6 @@ Powers of national members
 
 4. In urgent cases where it is not possible to identify or to contact the competent national authority in a timely manner, national members shall be competent to take the measures referred to in paragraph 3 in accordance with their national law, provided that they inform the competent national authority as soon as possible.
 
-(1) Directive 2014/41/EU of the European Parliament and of the Council of 3 April 2014 regarding the European Investigation Order in criminal matters (OJ L 130, 1.5.2014, p. 1).
-
 5. The national member may submit a proposal to the competent national authority to carry out the measures referred to in paragraphs 3 and 4 where the exercise of the powers referred to in paragraphs 3 and 4 by that national member would be in conflict with:
 
 (a) a Member State’s constitutional rules; or
@@ -437,6 +437,8 @@ Powers of national members
 (b) fundamental aspects of that Member State’s national criminal justice system regarding:
 
 (i) the division of powers between the police, prosecutors and judges;
+
+(1) Directive 2014/41/EU of the European Parliament and of the Council of 3 April 2014 regarding the European Investigation Order in criminal matters (OJ L 130, 1.5.2014, p. 1).
 
 (ii) the functional division of tasks between prosecution authorities; or
 
@@ -574,7 +576,7 @@ Functioning of the Executive Board
 
 (b) adopt an anti-fraud strategy for Eurojust, proportionate to the fraud risks, taking into account the costs and benefits of the measures to be implemented and based on a draft prepared by the Administrative Director;
 
-(c) adopt appropriate implementing rules giving effect to the Staff Regulations of Officials of the European Union (the ‘Staff Regulations of Officials’) and the Conditions of Employment of Other Servants of the European Union (‘Conditions of Employment of Other Servants’), laid down in Council Regulation (EEC, Euratom, ECSC) No 259/68 () in accordance with Article 110 of the Staff Regulations of Officials;
+(c) adopt appropriate implementing rules giving effect to the Staff Regulations of Officials of the European Union (the "Staff Regulations of Officials") and the Conditions of Employment of Other Servants of the European Union ("Conditions of Employment of Other Servants"), laid down in Council Regulation (EEC, Euratom, ECSC) No 259/68 () in accordance with Article 110 of the Staff Regulations of Officials;
 
 (d) ensure adequate follow-up to the findings and recommendations stemming from the internal or external audit reports, evaluations and investigations, including those of the EDPS and OLAF;
 
@@ -586,13 +588,13 @@ Functioning of the Executive Board
 
 (h) adopt the financial rules applicable to Eurojust in accordance with Article 64;
 
-(1) OJ L 56, 4.3.1968, p. 1.
-
 (i) adopt, in accordance with Article 110 of the Staff Regulations of Officials, a decision based on Article 2(1) of the Staff Regulations of Officials and on Article 6 of the Conditions of Employment of Other Servants delegating the relevant appointing authority powers to the Administrative Director and establishing the conditions under which this delegation of powers can be suspended; the Administrative Director shall be authorised to sub-delegate those powers;
 
 (j) review Eurojust’s draft annual budget for adoption by the College;
 
 (k) review the draft annual report on Eurojust’s activities and forward it to the College for adoption;
+
+(1) OJ L 56, 4.3.1968, p. 1.
 
 (l) appoint an accounting officer and a Data Protection Officer who are functionally independent in the performance of their duties.
 
@@ -660,7 +662,7 @@ Responsibilities of the Administrative Director
 
 (i) preparing Eurojust’s draft statement of estimates of revenue and expenditure and implementing its budget;
 
-(j) exercising, with respect to the staff of Eurojust, the powers conferred by the Staff Regulations of Officials on the appointing authority and by the Conditions of Employment of Other Servants on the authority empowered to conclude contracts of employment of other servants (‘the appointing authority powers’);
+(j) exercising, with respect to the staff of Eurojust, the powers conferred by the Staff Regulations of Officials on the appointing authority and by the Conditions of Employment of Other Servants on the authority empowered to conclude contracts of employment of other servants ("the appointing authority powers");
 
 (k) ensuring that the necessary administrative support is provided to facilitate the operational work of Eurojust;
 
@@ -676,7 +678,7 @@ Article 19
 
 On-call coordination mechanism
 
-1. In order to fulfil its tasks in urgent cases, Eurojust shall operate an on-call coordination mechanism (‘OCC’) able to receive and process at all times the requests referred to it. The OCC shall be contactable 24 hours a day, seven days a week.
+1. In order to fulfil its tasks in urgent cases, Eurojust shall operate an on-call coordination mechanism ("OCC") able to receive and process at all times the requests referred to it. The OCC shall be contactable 24 hours a day, seven days a week.
 
 2. The OCC shall rely on one OCC representative per Member State who may be either the national member, his or her deputy, an Assistant entitled to replace the national member, or a seconded national expert. The OCC representative shall be available to act 24 hours a day, seven days a week.
 
@@ -780,8 +782,6 @@ Exchanges of information with the Member States and between national members
 
 Article 22
 
-(1) Council Decision 2005/671/JHA of 20 September 2005 on the exchange of information and cooperation concerning terrorist offences (OJ L 253, 29.9.2005, p. 22).
-
 Information provided by Eurojust to competent national authorities
 
 1. Eurojust shall provide competent national authorities with information on the results of the processing of information, including the existence of links with cases already stored in the case management system, without undue delay. That information may include personal data.
@@ -789,6 +789,8 @@ Information provided by Eurojust to competent national authorities
 2. Where a competent national authority requests that Eurojust provide it with information within a certain timeframe, Eurojust shall transmit that information within that timeframe.
 
 Article 23
+
+(1) Council Decision 2005/671/JHA of 20 September 2005 on the exchange of information and cooperation concerning terrorist offences (OJ L 253, 29.9.2005, p. 22).
 
 Case management system, index and temporary work files
 
@@ -816,8 +818,6 @@ Functioning of temporary work files and the index
 
 1. A temporary work file shall be opened by the national member concerned for every case with respect to which information is transmitted to him or her in so far as that transmission is in accordance with this Regulation or other applicable legal instruments. The national member shall be responsible for the management of the temporary work files opened by that national member.
 
-(2) Council Decision 2008/976/JHA of 16 December 2008 on the European Judicial Network (OJ L 348, 24.12.2008, p. 130).
-
 2. The national member who has opened a temporary work file shall decide, on a case-by-case basis, whether to keep the temporary work file restricted or to give access to it or to parts of it to other national members, to authorised Eurojust staff or to any other person working on behalf of Eurojust who has received the necessary authorisation from the Administrative Director.
 
 3. The national member who has opened a temporary work file shall decide which information related to that temporary work file shall be introduced in the index in accordance with Article 23(4).
@@ -825,6 +825,8 @@ Functioning of temporary work files and the index
 Article 25
 
 Access to the case management system at national level
+
+(2) Council Decision 2008/976/JHA of 16 December 2008 on the European Judicial Network (OJ L 348, 24.12.2008, p. 130).
 
 1. In so far as they are connected to the case management system, persons referred to in Article 20(3) shall only have access to:
 
@@ -850,7 +852,7 @@ Processing of personal data by Eurojust
 
 1. This Regulation and Article 3 and Chapter IX of Regulation (EU) 2018/1725 shall apply to the processing of operational personal data by Eurojust. Regulation (EU) 2018/1725 shall apply to the processing of administrative personal data by Eurojust, with the exception of Chapter IX of that Regulation.
 
-2. References to ‘applicable data protection rules’ in this Regulation shall be understood as references to the provisions on data protection set out in this Regulation and in Regulation (EU) 2018/1725.
+2. References to "applicable data protection rules" in this Regulation shall be understood as references to the provisions on data protection set out in this Regulation and in Regulation (EU) 2018/1725.
 
 3. The data protection rules on processing of operational personal data contained in this Regulation shall be considered as specific data protection rules to the general rules laid down in Article 3 and Chapter IX of Regulation (EU) 2018/1725.
 
@@ -914,9 +916,7 @@ Time limits for the storage of operational personal data
 
 Article 30
 
-Security of operational personal data
-
-Eurojust and Member States shall define mechanisms to ensure that the security measures referred to in Article 91 of Regulation (EU) 2018/1725 are addressed across information system boundaries.
+Security of operational personal data Eurojust and Member States shall define mechanisms to ensure that the security measures referred to in Article 91 of Regulation (EU) 2018/1725 are addressed across information system boundaries.
 
 Article 31
 
@@ -1082,7 +1082,7 @@ Supervision by the EDPS
 
 (e) order Eurojust to carry out the rectification, restriction or erasure of operational personal data which have been processed by Eurojust in breach of the provisions governing the processing of operational personal data and to notify such actions to third parties to whom such data have been disclosed, provided that this does not interfere with the tasks of Eurojust set out in Article 2;
 
-(f) refer the matter to the Court of Justice of the European Union (the ‘Court’) under the conditions set out in the TFEU;
+(f) refer the matter to the Court of Justice of the European Union (the "Court") under the conditions set out in the TFEU;
 
 (g) intervene in actions brought before the Court.
 
@@ -1268,15 +1268,13 @@ Relations with other Union bodies, offices and agencies
 
 2. OLAF shall contribute to Eurojust’s coordination work regarding the protection of the financial interests of the Union, in accordance with its mandate under Regulation (EU, Euratom) No 883/2013.
 
-3. The European Border and Coast Guard Agency shall contribute to Eurojust’s work including by transmitting relevant information processed in accordance with its mandate and tasks under point (m) of Article 8(1) of Regulation (EU) 2016/ 1624 of the European Parliament and of the Council (). The European Border and Coast Guard
-
-(1) Regulation (EU) 2016/1624 of the European Parliament and of the Council of 14 September 2016 on the European Border and Coast Guard and amending Regulation (EU) 2016/399 of the European Parliament and of the Council and repealing Regulation (EC) No 863/2007 of the European Parliament and of the
-
-Agency’s processing of any personal data in connection therewith shall be regulated by Regulation (EU) 2018/1725.
+3. The European Border and Coast Guard Agency shall contribute to Eurojust’s work including by transmitting relevant information processed in accordance with its mandate and tasks under point (m) of Article 8(1) of Regulation (EU) 2016/ 1624 of the European Parliament and of the Council (). The European Border and Coast Guard Agency’s processing of any personal data in connection therewith shall be regulated by Regulation (EU) 2018/1725.
 
 4. For the purposes of receiving and transmitting information between Eurojust and OLAF, without prejudice to Article 8 of this Regulation, Member States shall ensure that the national members of Eurojust are regarded as competent authorities of the Member States solely for the purposes of Regulation (EU, Euratom) No 883/2013. The exchange of information between OLAF and national members shall be without prejudice to obligations to provide the information to other competent authorities under those Regulations.
 
 SECTION III
+
+(1) Regulation (EU) 2016/1624 of the European Parliament and of the Council of 14 September 2016 on the European Border and Coast Guard and amending Regulation (EU) 2016/399 of the European Parliament and of the Council and repealing Regulation (EC) No 863/2007 of the European Parliament and of the Council, Council Regulation (EC) No 2007/2004 and Council Decision 2005/ 267/EC (OJ L 251, 16.9.2016, p. 1).
 
 International cooperation
 
@@ -1303,8 +1301,6 @@ Liaison magistrates posted to third countries
 4. Where the liaison magistrate posted by Eurojust is selected among national members, deputies or Assistants:
 
 (a) the Member State concerned shall replace him or her in his or her function as a national member, deputy or Assistant;
-
-Council, Council Regulation (EC) No 2007/2004 and Council Decision 2005/ 267/EC (OJ L 251, 16.9.2016, p. 1).
 
 (b) he or she shall cease to be entitled to exercise the powers granted to him or her under Article 8.
 
@@ -1446,7 +1442,7 @@ Establishment of the budget
 
 3. The provisional draft estimate of Eurojust’s revenue and expenditure shall be sent to the Commission by no later than 31 January each year. Eurojust shall send the final draft estimate, which shall include a draft establishment plan, to the Commission by 31 March of the same year.
 
-4. The Commission shall send the statement of estimates to the European Parliament and to the Council (the ‘budgetary authority’) together with the draft general budget of the Union.
+4. The Commission shall send the statement of estimates to the European Parliament and to the Council (the "budgetary authority") together with the draft general budget of the Union.
 
 5. On the basis of the statement of estimates, the Commission shall enter in the draft general budget of the Union the estimates it considers necessary for the establishment plan and the amount of the contribution to be charged to the general budget, which it shall place before the budgetary authority in accordance with Articles 313 and 314 TFEU.
 
@@ -1476,8 +1472,6 @@ Presentation of accounts and discharge
 
 5. On receipt of the Court of Auditors’ observations on Eurojust’s provisional accounts pursuant to Article 246 of Regulation (EU, Euratom) 2018/1046, the Administrative Director shall draw up Eurojust’s final accounts under his or her own responsibility and shall submit them to the Executive Board for an opinion.
 
-(1) Commission Delegated Regulation (EU) No 1271/2013 of 30 September 2013 on the framework financial regulation for the bodies referred to in Article 208 of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council (OJ L 328, 7.12.2013, p. 42).
-
 6. The Executive Board shall deliver an opinion on Eurojust’s final accounts.
 
 7. The Administrative Director shall, by 1 July of year N + 1, send the final accounts for year N to the European Parliament, to the Council, to the Commission and to the Court of Auditors, together with the Executive Board’s opinion.
@@ -1486,7 +1480,9 @@ Presentation of accounts and discharge
 
 9. The Administrative Director shall send the Court of Auditors a reply to its observations by 30 September of year N + 1. The Administrative Director shall also send this reply to the Executive Board and to the Commission.
 
-10. At the European Parliament’s request, the Administrative Director shall submit to it any information required for the smooth application of the discharge procedure for the financial year in question in accordance with Article 261(3) of Regulation (EU, Euratom) 2018/1046.
+10. At the European Parliament’s request, the Administrative Director shall submit to it any information required for the smooth application of the discharge procedure
+
+(1) Commission Delegated Regulation (EU) No 1271/2013 of 30 September 2013 on the framework financial regulation for the bodies referred to in Article 208 of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council (OJ L 328, 7.12.2013, p. 42). for the financial year in question in accordance with Article 261(3) of Regulation (EU, Euratom) 2018/1046.
 
 11. On a recommendation from the Council acting by a qualified majority, the European Parliament shall, before 15 May of year N + 2, grant a discharge to the Administrative Director in respect of the implementation of the budget for year N.
 
@@ -1596,10 +1592,6 @@ Confidentiality
 
 4. The obligation of confidentiality shall apply to all information received or exchanged by Eurojust, unless that information has already lawfully been made public or is accessible to the public.
 
-(1) Council Regulation No 1 determining the languages to be used by the European Economic Community (OJ 17, 6.10.1958, p. 385).
-
-(2) Council Regulation (EC) No 2965/94 of 28 November 1994 setting up a Translation Centre for bodies of the European Union (OJ L 314, 7.12.1994, p. 1).
-
 Article 73
 
 Conditions of confidentiality of national proceedings
@@ -1609,6 +1601,10 @@ Conditions of confidentiality of national proceedings
 2. The authority of the Member State which receives the information referred to in paragraph 1 shall be bound by those conditions.
 
 Article 74
+
+(1) Council Regulation No 1 determining the languages to be used by the European Economic Community (OJ 17, 6.10.1958, p. 385).
+
+(2) Council Regulation (EC) No 2965/94 of 28 November 1994 setting up a Translation Centre for bodies of the European Union (OJ L 314, 7.12.1994, p. 1).
 
 Transparency
 
@@ -1628,17 +1624,17 @@ OLAF and the Court of Auditors
 
 2. The Court of Auditors shall have the power of audit, on the basis of documents and on the spot, over all grant beneficiaries, contractors and subcontractors who have received Union funds from Eurojust.
 
-3. OLAF may carry out investigations, including on-the-spot checks and inspections, in accordance with the provisions and procedures laid down in Regulation (EU, Euratom) No 883/2013 and Council Regulation (Euratom, EC) No 2185/ 96 (), with a
+3. OLAF may carry out investigations, including on-the-spot checks and inspections, in accordance with the provisions and procedures laid down in Regulation (EU, Euratom) No 883/2013 and Council Regulation (Euratom, EC) No 2185/ 96 (), with a view to establishing whether there have been any irregularities affecting the financial interests of the Union in connection with expenditure funded by Eurojust.
+
+4. Without prejudice to paragraphs 1, 2 and 3, working arrangements with third countries or international organisations, the contracts, grant agreements and grant decisions of Eurojust shall contain provisions expressly empowering the Court of Auditors and OLAF to conduct such audits and investigations, according to their respective competences.
+
+5. The staff of Eurojust, the Administrative Director and the members of the College and Executive Board shall, without delay and without their responsibility being called into question as a result, notify OLAF and the EPPO of any suspicion of irregular or
 
 (1) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
 
 (2) OJ L 136, 31.5.1999, p. 15.
 
-(1) Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to view to establishing whether there have been any irregularities affecting the financial interests of the Union in connection with expenditure funded by Eurojust.
-
-4. Without prejudice to paragraphs 1, 2 and 3, working arrangements with third countries or international organisations, the contracts, grant agreements and grant decisions of Eurojust shall contain provisions expressly empowering the Court of Auditors and OLAF to conduct such audits and investigations, according to their respective competences.
-
-5. The staff of Eurojust, the Administrative Director and the members of the College and Executive Board shall, without delay and without their responsibility being called into question as a result, notify OLAF and the EPPO of any suspicion of irregular or illegal activity within their respective mandate, which has come to their attention in the fulfilment of their duties.
+(1) Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities’ financial interests against fraud and other irregularities (OJ L 292, 15.11.1996, p. 2). illegal activity within their respective mandate, which has come to their attention in the fulfilment of their duties.
 
 Article 76
 
@@ -1664,9 +1660,7 @@ Liability other than liability for unauthorised or incorrect processing of data
 
 3. In the case of non-contractual liability, Eurojust shall, in accordance with the general principles common to the laws of the Member States and independently of any liability under Article 46, make good any damage caused by Eurojust or its staff in the performance of their duties.
 
-4. Paragraph 3 shall also apply to damage caused through the fault of a national member, a deputy or an Assistant in the performance of their duties. However, when he or she is acting on the basis of the powers granted to him or her pursuant to Article 8, his or her Member State shall reimburse Eurojust the sums which Eurojust has paid to make good such damage. protect the European Communities’ financial interests against fraud and other irregularities (OJ L 292, 15.11.1996, p. 2).
-
-(2) Council Decision 2013/488/EU of 23 September 2013 on the security rules for protecting EU classified information (OJ L 274, 15.10.2013, p. 1).
+4. Paragraph 3 shall also apply to damage caused through the fault of a national member, a deputy or an Assistant in the performance of their duties. However, when he or she is acting on the basis of the powers granted to him or her pursuant to Article 8, his or her Member State shall reimburse Eurojust the sums which Eurojust has paid to make good such damage.
 
 5. The Court shall have jurisdiction in disputes over compensation for damages referred to in paragraph 3.
 
@@ -1675,6 +1669,10 @@ Liability other than liability for unauthorised or incorrect processing of data
 7. The personal liability of Eurojust’s staff towards Eurojust shall be governed by the applicable provisions laid down in the Staff Regulations of Officials and Conditions of Employment of Other Servants.
 
 Article 79
+
+(2) Council Decision 2013/488/EU of 23 September 2013 on the security rules for protecting EU classified information (OJ L 274, 15.10.2013, p. 1).
+
+(1) Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 351, 20.12.2012, p. 1).
 
 Headquarters agreement and operating conditions
 
@@ -1697,8 +1695,6 @@ Transitional arrangements
 5. This Regulation shall not affect the validity of agreements concluded by Eurojust as established by Decision 2002/ 187/JHA. In particular, all international agreements concluded by Eurojust before 12 December 2019 shall remain valid.
 
 6. The discharge procedure in respect of the budgets approved on the basis of Article 35 of Decision 2002/187/JHA shall be carried out in accordance with the rules established by Article 36 thereof.
-
-(1) Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 351, 20.12.2012, p. 1).
 
 7. This Regulation shall not affect employment contracts which have been concluded under Decision 2002/187/JHA prior to the entry into force of this Regulation. The Data Protection Officer who was last appointed under Article 17 of that Decision shall take the role of the Data Protection Officer under Article 36 of this Regulation.
 
@@ -1756,7 +1752,9 @@ List of forms of serious crime with which Eurojust is competent to deal in accor
 
 — illicit trade in human organs and tissue,
 
-— kidnapping, illegal restraint and hostage taking, — racism and xenophobia,
+— kidnapping, illegal restraint and hostage taking,
+
+— racism and xenophobia,
 
 — robbery and aggravated theft,
 
@@ -1772,9 +1770,7 @@ List of forms of serious crime with which Eurojust is competent to deal in accor
 
 — counterfeiting and product piracy,
 
-— forgery of administrative documents and trafficking therein,
-
-— forgery of money and means of payment,
+— forgery of administrative documents and trafficking therein, — forgery of money and means of payment,
 
 — computer crime,
 

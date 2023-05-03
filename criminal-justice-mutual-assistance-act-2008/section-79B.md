@@ -1,6 +1,6 @@
 Application for court order authorising taking of identification evidence from protected person or child under Act of 2008.
 
-79B. (1) If—
+79B.— (1) If—
 
 (a) a member of the Garda Síochána is unable, having made reasonable efforts to do so, to contact a parent or guardian of a protected person or child, as the case may be, for the purposes of ascertaining whether or not he or she consents to the taking of the identification evidence concerned from the person or child, as the case may be, under section 79,
 

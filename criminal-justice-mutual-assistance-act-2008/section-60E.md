@@ -1,6 +1,6 @@
 Refusal to execute external financial penalty order.
 
-60E. (1) On application made under section 60D(2) and without prejudice to section 3, the appropriate court shall make an order refusing the execution of an external financial penalty order made by an issuing judicial authority if—
+60E.— (1) On application made under section 60D(2) and without prejudice to section 3, the appropriate court shall make an order refusing the execution of an external financial penalty order made by an issuing judicial authority if—
 
 (a) a financial penalty order has been made in the State against the defendant in respect of the conduct which resulted in the making of the external financial penalty order,
 

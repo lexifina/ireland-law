@@ -1,6 +1,6 @@
 Central Authority to inform competent authority.
 
-51G. The Central Authority shall inform, by any means capable of producing a written record, the competent authority in the designated state that transmitted an external confiscation order of the following:
+51G.— The Central Authority shall inform, by any means capable of producing a written record, the competent authority in the designated state that transmitted an external confiscation order of the following:
 
 (a) where the external confiscation order was transmitted by or on behalf of a court in a designated state that is a member state, when the Central Authority receives the external confiscation order;
 

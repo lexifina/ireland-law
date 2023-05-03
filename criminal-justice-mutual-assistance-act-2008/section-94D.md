@@ -1,6 +1,6 @@
 Request to State for assistance of special intervention unit in dealing with crisis situation.
 
-94D. (1) In accordance with the 2008 Council Decision (special intervention units), the competent authority shall consider a request for assistance in dealing with a crisis situation received from the competent authority of a member state.
+94D.— (1) In accordance with the 2008 Council Decision (special intervention units), the competent authority shall consider a request for assistance in dealing with a crisis situation received from the competent authority of a member state.
 
 (2) A request under subsection (1) shall specify the following:
 

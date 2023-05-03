@@ -1,6 +1,6 @@
 Refusal to confiscate.
 
-51B. (1) On application made in accordance with section 51(1) or 51A(2) and without prejudice to section 3, the High Court shall refuse to make a confiscation co-operation order in respect of an external confiscation order, or shall make an order refusing the execution of an external confiscation order made by or on behalf of a court in a designated state that is a member state, as the case may be, if—
+51B.— (1) On application made in accordance with section 51(1) or 51A(2) and without prejudice to section 3, the High Court shall refuse to make a confiscation co-operation order in respect of an external confiscation order, or shall make an order refusing the execution of an external confiscation order made by or on behalf of a court in a designated state that is a member state, as the case may be, if—
 
 (a) subject to subsection (4), the conduct which resulted in the making of the external confiscation order is not an offence to which the relevant international instrument relates,
 

@@ -2,13 +2,13 @@
 
 Interpretation.
 
-94A. In this Part—
+94A.— In this Part—
 
-‘competent authority’, in relation to the State, means the Minister and, in relation to a member state, means the authority designated by that member state to be the competent authority of that member state for the purposes of the 2008 Council Decision (special intervention units);
+"competent authority", in relation to the State, means the Minister and, in relation to a member state, means the authority designated by that member state to be the competent authority of that member state for the purposes of the 2008 Council Decision (special intervention units);
 
-‘crisis situation’ means any situation in which the competent authority or the competent authority of a member state has reasonable grounds to believe that, as a result of a criminal offence, there exists a serious direct physical threat to persons, property, infrastructure or institutions in the State or in that member state;
+"crisis situation" means any situation in which the competent authority or the competent authority of a member state has reasonable grounds to believe that, as a result of a criminal offence, there exists a serious direct physical threat to persons, property, infrastructure or institutions in the State or in that member state;
 
-‘special intervention unit’—
+"special intervention unit"—
 
 (a) if and when operating in a member state, has the meaning assigned to it by section 94B,
 

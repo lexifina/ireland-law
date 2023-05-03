@@ -1,6 +1,6 @@
 Operation of special intervention unit.
 
-94E. (1) A special intervention unit formed under section 94B shall be established for a specific purpose and a limited period of time which may be extended, if the circumstances so require, for such period or periods as may be agreed by the competent authority and the other competent authority concerned.
+94E.— (1) A special intervention unit formed under section 94B shall be established for a specific purpose and a limited period of time which may be extended, if the circumstances so require, for such period or periods as may be agreed by the competent authority and the other competent authority concerned.
 
 (2) Notwithstanding subsection (1), the competent authority may terminate the provision of assistance when—
 

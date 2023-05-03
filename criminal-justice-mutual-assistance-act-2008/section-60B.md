@@ -1,6 +1,6 @@
 Request for execution of financial penalty order in member state.
 
-60B. (1) If a financial penalty order relates to a defendant who has property or income, or is normally resident, in a member state, the registrar or clerk of the court concerned shall, on request of the prosecuting authority and subject to any conditions that may be specified by rules of court, give to the Central Authority—
+60B.— (1) If a financial penalty order relates to a defendant who has property or income, or is normally resident, in a member state, the registrar or clerk of the court concerned shall, on request of the prosecuting authority and subject to any conditions that may be specified by rules of court, give to the Central Authority—
 
 (a) a duly authenticated copy of the order, and
 

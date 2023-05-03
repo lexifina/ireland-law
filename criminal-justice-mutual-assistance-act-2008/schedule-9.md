@@ -44,9 +44,7 @@ Article 11 of the Convention shall be replaced by the following provisions:
 
 Transfer may be refused if: a the person in custody does not consent; b his or her presence is necessary at criminal proceedings pending in the territory of the requested Party; c transfer is liable to prolong his or her detention, or d there are other overriding grounds for not transferring him or her to the territory of the requesting Party.
 
-2 Subject to the provisions of Article 2 of this Convention, in a case coming within paragraph 1, transit of the person in custody through the territory of a third Party, shall be granted on application, accompanied by all necessary documents, addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the Party through whose territory transit is requested. A Party may refuse to grant transit to its own nationals.
-
-3 The transferred person shall remain in custody in the territory of the requesting Party and, where applicable, in the territory of the Party through which transit is requested, unless the Party from whom transfer is requested applies for his or her release.”
+2 Subject to the provisions of Article 2 of this Convention, in a case coming within paragraph 1, transit of the person in custody through the territory of a third Party, shall be granted on application, accompanied by all necessary documents, addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the Party through whose territory transit is requested. A Party may refuse to grant transit to its own nationals. 3 The transferred person shall remain in custody in the territory of the requesting Party and, where applicable, in the territory of the Party through which transit is requested, unless the Party from whom transfer is requested applies for his or her release.”
 
 Article 4 — Channels of communication
 
@@ -58,7 +56,9 @@ Article 15 of the Convention shall be replaced by the following provisions:
 
 3 Requests for mutual assistance concerning proceedings as mentioned in paragraph 3 of Article 1 of this Convention may also be forwarded directly by the administrative or judicial authorities of the requesting Party to the administrative or judicial authorities of the requested Party, as the case may be, and returned through the same channels.
 
-4 Requests for mutual assistance made under Articles 18 and 19 of the Second Additional Protocol to this Convention may also be forwarded directly by the competent authorities of the requesting Party to the competent authorities of the requested Party. 5 Requests provided for in paragraph 1 of Article 13 of this Convention may be addressed directly by the judicial authorities concerned to the appropriate authorities of the requested Party, and the replies may be returned directly by those authorities. Requests provided for in paragraph 2 of Article 13 of this Convention shall be addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the requested Party.
+4 Requests for mutual assistance made under Articles 18 and 19 of the Second Additional Protocol to this Convention may also be forwarded directly by the competent authorities of the requesting Party to the competent authorities of the requested Party.
+
+5 Requests provided for in paragraph 1 of Article 13 of this Convention may be addressed directly by the judicial authorities concerned to the appropriate authorities of the requested Party, and the replies may be returned directly by those authorities. Requests provided for in paragraph 2 of Article 13 of this Convention shall be addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the requested Party.
 
 6 Requests for copies of convictions and measures as referred to in Article 4 of the Additional Protocol to the Convention may be made directly to the competent authorities. Any Contracting State may, at any time, by a declaration addressed to the Secretary General of the Council of Europe, define what authorities it will, for the purpose of this paragraph, deem competent authorities.
 
@@ -90,9 +90,7 @@ Article 24 of the Convention shall be replaced by the following provisions:
 
 Chapter II
 
-Article 7 — Postponed execution of requests
-
-1 The requested Party may postpone action on a request if such action would prejudice investigations, prosecutions or related proceedings by its authorities.
+Article 7 — Postponed execution of requests 1 The requested Party may postpone action on a request if such action would prejudice investigations, prosecutions or related proceedings by its authorities.
 
 2 Before refusing or postponing assistance, the requested Party shall, where appropriate after having consulted with the requesting Party, consider whether the request may be granted partially or subject to such conditions as it deems necessary.
 
@@ -106,7 +104,9 @@ Article 9 — Hearing by video conference
 
 1 If a person is in one Party’s territory and has to be heard as a witness or expert by the judicial authorities of another Party, the latter may, where it is not desirable or possible for the person to be heard to appear in its territory in person, request that the hearing take place by video conference, as provided for in paragraphs 2 to 7.
 
-2 The requested Party shall agree to the hearing by video conference provided that the use of the video conference is not contrary to fundamental principles of its law and on condition that it has the technical means to carry out the hearing. If the requested Party has no access to the technical means for video conferencing, such means may be made available to it by the requesting Party by mutual agreement. 3 Requests for a hearing by video conference shall contain, in addition to the information referred to in Article 14 of the Convention, the reason why it is not desirable or possible for the witness or expert to attend in person, the name of the judicial authority and of the persons who will be conducting the hearing.
+2 The requested Party shall agree to the hearing by video conference provided that the use of the video conference is not contrary to fundamental principles of its law and on condition that it has the technical means to carry out the hearing. If the requested Party has no access to the technical means for video conferencing, such means may be made available to it by the requesting Party by mutual agreement.
+
+3 Requests for a hearing by video conference shall contain, in addition to the information referred to in Article 14 of the Convention, the reason why it is not desirable or possible for the witness or expert to attend in person, the name of the judicial authority and of the persons who will be conducting the hearing.
 
 4 The judicial authority of the requested Party shall summon the person concerned to appear in accordance with the forms laid down by its law.
 
@@ -120,7 +120,9 @@ Article 9 — Hearing by video conference
 
 9 Any Contracting State may, at any time, by means of a declaration addressed to the Secretary General of the Council of Europe, declare that it will not avail itself of the possibility provided in paragraph 8 above of also applying the provisions of this article to hearings by video conference involving the accused person or the suspect.
 
-Article 10 — Hearing by telephone conference 1 If a person is in one Party's territory and has to be heard as a witness or expert by judicial authorities of another Party, the latter may, where its national law so provides, request the assistance of the former Party to enable the hearing to take place by telephone conference, as provided for in paragraphs 2 to 6.
+Article 10 — Hearing by telephone conference
+
+1 If a person is in one Party's territory and has to be heard as a witness or expert by judicial authorities of another Party, the latter may, where its national law so provides, request the assistance of the former Party to enable the hearing to take place by telephone conference, as provided for in paragraphs 2 to 6.
 
 2 A hearing may be conducted by telephone conference only if the witness or expert agrees that the hearing take place by that method.
 
@@ -146,7 +148,9 @@ Article 12 — Restitution
 
 1 At the request of the requesting Party and without prejudice to the rights of bona fide third parties, the requested Party may place articles obtained by criminal means at the disposal of the requesting Party with a view to their return to their rightful owners.
 
-2 In applying Articles 3 and 6 of the Convention, the requested Party may waive the return of articles either before or after handing them over to the requesting Party if the restitution of such articles to the rightful owner may be facilitated thereby. The rights of bona fide third parties shall not be affected. 3 In the event of a waiver before handing over the articles to the requesting Party, the requested Party shall exercise no security right or other right of recourse under tax or customs legislation in respect of these articles.
+2 In applying Articles 3 and 6 of the Convention, the requested Party may waive the return of articles either before or after handing them over to the requesting Party if the restitution of such articles to the rightful owner may be facilitated thereby. The rights of bona fide third parties shall not be affected.
+
+3 In the event of a waiver before handing over the articles to the requesting Party, the requested Party shall exercise no security right or other right of recourse under tax or customs legislation in respect of these articles.
 
 4 A waiver as referred to in paragraph 2 shall be without prejudice to the right of the requested Party to collect taxes or duties from the rightful owner.
 
@@ -160,9 +164,7 @@ Article 13 — Temporary transfer of detained persons to the requested Party
 
 4 The transferred person shall remain in custody in the territory of the requested Party and, where applicable, in the territory of the Party through which transit is requested, unless the Party from which the person was transferred applies for his or her release.
 
-5 The period of custody in the territory of the requested Party shall be deducted from the period of detention which the person concerned is or will be obliged to undergo in the territory of the requesting Party.
-
-6 The provisions of Article 11, paragraph 2, and Article 12 of the Convention shall apply mutatis mutandis.
+5 The period of custody in the territory of the requested Party shall be deducted from the period of detention which the person concerned is or will be obliged to undergo in the territory of the requesting Party. 6 The provisions of Article 11, paragraph 2, and Article 12 of the Convention shall apply mutatis mutandis.
 
 7 Any Contracting State may at any time, by means of a declaration addressed to the Secretary General of the Council of Europe, declare that before an agreement is reached under paragraph 1 of this article, the consent referred to in paragraph 3 of this article will be required, or will be required under certain conditions indicated in the declaration.
 
@@ -202,9 +204,7 @@ The request for assistance referred to in the first sub-paragraph must be sent t
 
 Observation shall cease as soon as the Party in whose territory it is taking place so requests, following the notification referred to in a. or the request referred to in b. or where authorisation has not been obtained within five hours of the border being crossed.
 
-3 The observation referred to in paragraphs 1 and 2 shall be carried out only under the following general conditions: a The officers conducting the observation must comply with the provisions of this article and with the law of the Party in whose territory they are operating; they must obey the instructions of the local responsible authorities. b Except in the situations provided for in paragraph 2, the officers shall, during the observation, carry a document certifying that authorisation has been granted. c The officers conducting the observation must be able at all times to provide proof that they are acting in an official capacity. d The officers conducting the observation may carry their service weapons during the observation, save where specifically otherwise decided by the requested Party; their use shall be prohibited save in cases of legitimate self-defence. e Entry into private homes and places not accessible to the public shall be prohibited. f The officers conducting the observation may neither stop and question, nor arrest, the person under observation. g All operations shall be the subject of a report to the authorities of the Party in whose territory they took place; the officers conducting the observation may be required to appear in person. h The authorities of the Party from which the observing officers have come shall, when requested by the authorities of the Party in whose territory the observation took place, assist the enquiry subsequent to the operation in which they took part, including legal proceedings.
-
-4 Parties shall at the time of signature or when depositing their instrument of ratification, acceptance, approval or accession, by means of a declaration addressed to the Secretary General of the Council of Europe, indicate both the officers and authorities that they designate for the purposes of paragraphs 1 and 2 of this article. They subsequently may, at any time and in the same manner, change the terms of their declaration.
+3 The observation referred to in paragraphs 1 and 2 shall be carried out only under the following general conditions: a The officers conducting the observation must comply with the provisions of this article and with the law of the Party in whose territory they are operating; they must obey the instructions of the local responsible authorities. b Except in the situations provided for in paragraph 2, the officers shall, during the observation, carry a document certifying that authorisation has been granted. c The officers conducting the observation must be able at all times to provide proof that they are acting in an official capacity. d The officers conducting the observation may carry their service weapons during the observation, save where specifically otherwise decided by the requested Party; their use shall be prohibited save in cases of legitimate self-defence. e Entry into private homes and places not accessible to the public shall be prohibited. f The officers conducting the observation may neither stop and question, nor arrest, the person under observation. g All operations shall be the subject of a report to the authorities of the Party in whose territory they took place; the officers conducting the observation may be required to appear in person. h The authorities of the Party from which the observing officers have come shall, when requested by the authorities of the Party in whose territory the observation took place, assist the enquiry subsequent to the operation in which they took part, including legal proceedings. 4 Parties shall at the time of signature or when depositing their instrument of ratification, acceptance, approval or accession, by means of a declaration addressed to the Secretary General of the Council of Europe, indicate both the officers and authorities that they designate for the purposes of paragraphs 1 and 2 of this article. They subsequently may, at any time and in the same manner, change the terms of their declaration.
 
 5 The Parties may, at bilateral level, extend the scope of this article and adopt additional measures in implementation thereof.
 
@@ -212,7 +212,9 @@ Observation shall cease as soon as the Party in whose territory it is taking pla
 
 — assassination; — murder; — rape; — arson; — counterfeiting; — armed robbery and receiving of stolen goods; — extortion; — kidnapping and hostage taking; — traffic in human beings; — illicit traffic in narcotic drugs and psychotropic substances; — breach of the laws on arms and explosives; — use of explosives; — illicit carriage of toxic and dangerous waste; — smuggling of aliens; — sexual abuse of children.
 
-Article 18 — Controlled delivery 1 Each Party undertakes to ensure that, at the request of another Party, controlled deliveries may be permitted on its territory in the framework of criminal investigations into extraditable offences.
+Article 18 — Controlled delivery
+
+1 Each Party undertakes to ensure that, at the request of another Party, controlled deliveries may be permitted on its territory in the framework of criminal investigations into extraditable offences.
 
 2 The decision to carry out controlled deliveries shall be taken in each individual case by the competent authorities of the requested Party, with due regard to the national law of that Party.
 
@@ -224,9 +226,7 @@ Article 19 — Covert investigations
 
 1 The requesting and the requested Parties may agree to assist one another in the conduct of investigations into crime by officers acting under covert or false identity (covert investigations).
 
-2 The decision on the request is taken in each individual case by the competent authorities of the requested Party with due regard to its national law and procedures. The duration of the covert investigation, the detailed conditions, and the legal status of the officers concerned during covert investigations shall be agreed between the Parties with due regard to their national law and procedures.
-
-3 Covert investigations shall take place in accordance with the national law and procedures of the Party on the territory of which the covert investigation takes place. The Parties involved shall co-operate to ensure that the covert investigation is prepared and supervised and to make arrangements for the security of the officers acting under covert or false identity.
+2 The decision on the request is taken in each individual case by the competent authorities of the requested Party with due regard to its national law and procedures. The duration of the covert investigation, the detailed conditions, and the legal status of the officers concerned during covert investigations shall be agreed between the Parties with due regard to their national law and procedures. 3 Covert investigations shall take place in accordance with the national law and procedures of the Party on the territory of which the covert investigation takes place. The Parties involved shall co-operate to ensure that the covert investigation is prepared and supervised and to make arrangements for the security of the officers acting under covert or false identity.
 
 4 Parties shall at the time of signature or when depositing their instrument of ratification, acceptance, approval or accession, by means of a declaration addressed to the Secretary General of the Council of Europe, indicate the authorities that are competent for the purposes of paragraph 2 of this article. They subsequently may, at any time and in the same manner, change the terms of their declaration.
 
@@ -236,15 +236,15 @@ Article 20 — Joint investigation teams
 
 A joint investigation team may, in particular, be set up where: a a Party’s investigations into criminal offences require difficult and demanding investigations having links with other Parties; b a number of Parties are conducting investigations into criminal offences in which the circumstances of the case necessitate co-ordinated, concerted action in the Parties involved.
 
-A request for the setting up of a joint investigation team may be made by any of the Parties concerned. The team shall be set up in one of the Parties in which the investigations are expected to be carried out. 2 In addition to the information referred to in the relevant provisions of Article 14 of the Convention, requests for the setting up of a joint investigation team shall include proposals for the composition of the team.
+A request for the setting up of a joint investigation team may be made by any of the Parties concerned. The team shall be set up in one of the Parties in which the investigations are expected to be carried out.
+
+2 In addition to the information referred to in the relevant provisions of Article 14 of the Convention, requests for the setting up of a joint investigation team shall include proposals for the composition of the team.
 
 3 A joint investigation team shall operate in the territory of the Parties setting up the team under the following general conditions: a the leader of the team shall be a representative of the competent authority participating in criminal investigations from the Party in which the team operates. The leader of the team shall act within the limits of his or her competence under national law; b the team shall carry out its operations in accordance with the law of the Party in which it operates. The members and seconded members of the team shall carry out their tasks under the leadership of the person referred to in sub-paragraph a, taking into account the conditions set by their own authorities in the agreement on setting up the team; c the Party in which the team operates shall make the necessary organisational arrangements for it to do so.
 
 4 In this article, members of the joint investigation team from the Party in which the team operates are referred to as "members", while members from Parties other than the Party in which the team operates are referred to as "seconded members".
 
-5 Seconded members of the joint investigation team shall be entitled to be present when investigative measures are taken in the Party of operation. However, the leader of the team may, for particular reasons, in accordance with the law of the Party where the team operates, decide otherwise.
-
-6 Seconded members of the joint investigation team may, in accordance with the law of the Party where the team operates, be entrusted by the leader of the team with the task of taking certain investigative measures where this has been approved by the competent authorities of the Party of operation and the seconding Party.
+5 Seconded members of the joint investigation team shall be entitled to be present when investigative measures are taken in the Party of operation. However, the leader of the team may, for particular reasons, in accordance with the law of the Party where the team operates, decide otherwise. 6 Seconded members of the joint investigation team may, in accordance with the law of the Party where the team operates, be entrusted by the leader of the team with the task of taking certain investigative measures where this has been approved by the competent authorities of the Party of operation and the seconding Party.
 
 7 Where the joint investigation team needs investigative measures to be taken in one of the Parties setting up the team, members seconded to the team by that Party may request their own competent authorities to take those measures. Those measures shall be considered in that Party under the conditions which would apply if they were requested in a national investigation.
 
@@ -262,9 +262,7 @@ Article 21 — Criminal liability regarding officials
 
 During the operations referred to in Articles 17, 18, 19 or 20, unless otherwise agreed upon by the Parties concerned, officials from a Party other than the Party of operation shall be regarded as officials of the Party of operation with respect to offences committed against them or by them.
 
-Article 22 — Civil liability regarding officials
-
-1 Where, in accordance with Articles 17, 18, 19 or 20, officials of a Party are operating in another Party, the first Party shall be liable for any damage caused by them during their operations, in accordance with the law of the Party in whose territory they are operating.
+Article 22 — Civil liability regarding officials 1 Where, in accordance with Articles 17, 18, 19 or 20, officials of a Party are operating in another Party, the first Party shall be liable for any damage caused by them during their operations, in accordance with the law of the Party in whose territory they are operating.
 
 2 The Party in whose territory the damage referred to in paragraph 1 was caused shall make good such damage under the conditions applicable to damage caused by its own officials.
 
@@ -280,7 +278,9 @@ Where a Party requests assistance under the Convention or one of its Protocols i
 
 Article 24 — Provisional measures
 
-1 At the request of the requesting Party, the requested Party, in accordance with its national law, may take provisional measures for the purpose of preserving evidence, maintaining an existing situation or protecting endangered legal interests. 2 The requested Party may grant the request partially or subject to conditions, in particular time limitation.
+1 At the request of the requesting Party, the requested Party, in accordance with its national law, may take provisional measures for the purpose of preserving evidence, maintaining an existing situation or protecting endangered legal interests.
+
+2 The requested Party may grant the request partially or subject to conditions, in particular time limitation.
 
 Article 25 — Confidentiality
 
@@ -290,9 +290,7 @@ Article 26 — Data protection
 
 1 Personal data transferred from one Party to another as a result of the execution of a request made under the Convention or any of its Protocols, may be used by the Party to which such data have been transferred, only: a for the purpose of proceedings to which the Convention or any of its Protocols apply; b for other judicial and administrative proceedings directly related to the proceedings mentioned under (a); c for preventing an immediate and serious threat to public security.
 
-2 Such data may however be used for any other purpose if prior consent to that effect is given by either the Party from which the data had been transferred, or the data subject.
-
-3 Any Party may refuse to transfer personal data obtained as a result of the execution of a request made under the Convention or any of its Protocols where
+2 Such data may however be used for any other purpose if prior consent to that effect is given by either the Party from which the data had been transferred, or the data subject. 3 Any Party may refuse to transfer personal data obtained as a result of the execution of a request made under the Convention or any of its Protocols where
 
 — such data is protected under its national legislation, and
 
@@ -324,9 +322,7 @@ Article 30 — Signature and entry into force
 
 3 In respect of any signatory State which subsequently deposits its instrument of ratification, acceptance or approval, the Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit.
 
-Article 31 — Accession
-
-1 Any non-member State, which has acceded to the Convention, may accede to this Protocol after it has entered into force.
+Article 31 — Accession 1 Any non-member State, which has acceded to the Convention, may accede to this Protocol after it has entered into force.
 
 2 Such accession shall be effected by depositing with the Secretary General of the Council of Europe an instrument of accession.
 
@@ -358,9 +354,7 @@ Article 34 — Denunciation
 
 3 Denunciation of the Convention entails automatically denunciation of this Protocol.
 
-Article 35 — Notifications
-
-The Secretary General of the Council of Europe shall notify the member States of the Council of Europe and any State which has acceded to this Protocol of: a any signature; b the deposit of any instrument of ratification, acceptance, approval or accession; c any date of entry into force of this Protocol in accordance with Articles 30 and 31; d any other act, declaration, notification or communication relating to this Protocol.
+Article 35 — Notifications The Secretary General of the Council of Europe shall notify the member States of the Council of Europe and any State which has acceded to this Protocol of: a any signature; b the deposit of any instrument of ratification, acceptance, approval or accession; c any date of entry into force of this Protocol in accordance with Articles 30 and 31; d any other act, declaration, notification or communication relating to this Protocol.
 
 In witness whereof the undersigned, being duly authorised thereto, have signed this Protocol.
 

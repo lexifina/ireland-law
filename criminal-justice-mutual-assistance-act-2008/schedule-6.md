@@ -62,9 +62,9 @@ Provisional measures
 
 1. Within the limits of its domestic law and its respective powers and at the request of the authority of the requesting Contracting Party, the competent authority of the requested Contracting Party shall order the necessary provisional measures for the purpose of maintaining an existing situation, protecting endangered legal interests or preserving evidence, if the request for mutual assistance does not appear manifestly inadmissible.
 
-2. Preventive freezing and seizure of instrumentalities and proceeds of offences shall be ordered in cases where assistance is requested. If the proceeds of an offence no longer exist in whole or in part, the same measures shall be ordered in relation to assets located within the territory of the requested Contracting Party corresponding in value to the proceeds in question. ARTICLE 30
+2. Preventive freezing and seizure of instrumentalities and proceeds of offences shall be ordered in cases where assistance is requested. If the proceeds of an offence no longer exist in whole or in part, the same measures shall be ordered in relation to assets located within the territory of the requested Contracting Party corresponding in value to the proceeds in question.
 
-Presence of the authorities of the requesting Contracting Party
+ARTICLE 30 Presence of the authorities of the requesting Contracting Party
 
 1. The requested Contracting Party shall, at the request of the requesting Contracting Party, authorise the representatives of the latter Party's authorities to attend the execution of the request for mutual legal assistance. Their presence shall not require the consent of the person concerned by the measure.
 
@@ -130,9 +130,7 @@ Handing-over for confiscation or return
 
 3. Rights asserted by a third party in good faith shall remain reserved.
 
-ARTICLE 35
-
-Speeding up assistance
+ARTICLE 35 Speeding up assistance
 
 1. The authority of the requested Contracting Party shall execute the request for mutual legal assistance as soon as possible, taking as full account as possible of the procedural deadlines and other deadlines indicated by the authority of the requesting Contracting Party. The requesting Contracting Party shall explain the reasons for the deadline.
 
@@ -160,9 +158,7 @@ Spontaneous transmission
 
 2. The authority of the Contracting Party transmitting the information may, pursuant to its national law, impose conditions on the use of such information by the authority of the receiving Contracting Party.
 
-3. All the authorities of the Contracting Parties shall be bound by such conditions.
-
-ARTICLE 38
+3. All the authorities of the Contracting Parties shall be bound by such conditions. ARTICLE 38
 
 Procedures in the requested Contracting Party
 

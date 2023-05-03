@@ -1,6 +1,6 @@
 Postponement of confiscation.
 
-51C. (1) Where an application is made in accordance with section 51(1) or 51A(2), the High Court may order the postponement of confiscation under this Chapter until such time as the Court considers reasonable, where to proceed with the confiscation, on foot of, as the case may be, a confiscation co-operation order or an external confiscation order transmitted by or on behalf of a court in a designated state that is a member state, might prejudice an ongoing criminal investigation in the State.
+51C.— (1) Where an application is made in accordance with section 51(1) or 51A(2), the High Court may order the postponement of confiscation under this Chapter until such time as the Court considers reasonable, where to proceed with the confiscation, on foot of, as the case may be, a confiscation co-operation order or an external confiscation order transmitted by or on behalf of a court in a designated state that is a member state, might prejudice an ongoing criminal investigation in the State.
 
 (2) The High Court may order the postponement of confiscation under this Chapter where the realisable property concerned is already subject to confiscation proceedings in the State.
 
@@ -12,7 +12,7 @@ Postponement of confiscation.
 
 (b) in any other case, make a confiscation co-operation order in respect of the external confiscation order concerned.
 
-(5) For the purposes of this section the ‘postponement of confiscation’ means—
+(5) For the purposes of this section the "postponement of confiscation" means—
 
 (a) the postponement of the execution of an external confiscation order transmitted by or on behalf of a court in a designated state that is a member state, and
 
