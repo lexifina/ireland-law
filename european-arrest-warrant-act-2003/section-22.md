@@ -1,6 +1,6 @@
 Rule of speciality disapplied.
 
-22.—(1) In this section, except where the context otherwise requires, ‘offence’ means, in relation to a person to whom a relevant arrest warrant applies, an offence (other than an offence specified in the relevant arrest warrant in respect of which the person’s surrender is ordered under this Act) under the law of the issuing state committed before the person's surrender, but shall not include an offence consisting, in whole, of acts or omissions of which the offence specified in the European arrest warrant consists in whole or in part.
+22.—(1) In this section, except where the context otherwise requires, "offence" means, in relation to a person to whom a relevant arrest warrant applies, an offence (other than an offence specified in the relevant arrest warrant in respect of which the person’s surrender is ordered under this Act) under the law of the issuing state committed before the person's surrender, but shall not include an offence consisting, in whole, of acts or omissions of which the offence specified in the European arrest warrant consists in whole or in part.
 
 (2) Subject to this section, the High Court shall refuse to surrender a person under this Act if it is satisfied that—
 

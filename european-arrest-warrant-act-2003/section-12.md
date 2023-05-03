@@ -46,4 +46,4 @@ Transmission of European arrest warrant.
 
 (b) that such features as are specified in the regulations shall be present in any equipment being used in that connection.
 
-(11) In this section ‘relevant arrest warrant’ includes a document referred to in section 11(2A) (inserted by section 72(b) of the Criminal Justice (Terrorist Offences) Act 2005).
+(11) In this section "relevant arrest warrant" includes a document referred to in section 11(2A) (inserted by section 72(b) of the Criminal Justice (Terrorist Offences) Act 2005).
