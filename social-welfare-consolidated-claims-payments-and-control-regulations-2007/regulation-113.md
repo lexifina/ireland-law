@@ -1,0 +1,3 @@
+Limitation on optical benefit for claimant who is a member of the Defence Forces. (Deleted)
+
+113. ...

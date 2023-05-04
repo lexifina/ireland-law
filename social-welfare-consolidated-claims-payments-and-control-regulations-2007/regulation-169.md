@@ -1,0 +1,3 @@
+Conditions and circumstances under which a carer may engage in employment, self-employment, training and eduction.
+
+169. For the purposes of a carer’s support grant payable in respect of full time care and attention provided on or after 1 June 2006, where it is shown to the satisfaction of a deciding officer or an appeals officer that adequate provision has been made for the care of the relevant person, a carer may engage in employment or self employment or any training or course of education provided that the aggregate duration of such employment or self employment and any training or course of education referred to in article 167(d) shall not exceed 18.5 hours per week.

@@ -1,0 +1,3 @@
+Prescribed manner for certification of disability and duration of full-time care and attention. (Deleted)
+
+140B. ...

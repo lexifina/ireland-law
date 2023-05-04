@@ -1,0 +1,3 @@
+Special partial State pension (contributory) where person attains pensionable age on or after 1 September 2012. (Deleted)
+
+65. ...

@@ -1,0 +1,3 @@
+Special provision relating to delay or failure in claiming.
+
+52C. Notwithstanding anything contained in article 52A, a person who, in respect of any period of interruption of employment, would have been entitled to jobseeker’s benefit (self-employed) for any week but for any delay or failure on his or her part to make or prosecute a claim, shall, for the purposes of section 68H be treated as having been entitled to jobseeker’s benefit (self-employed) for that week, but a person shall not be so treated where he or she shows that he or she did not intend, by failing to acquire or establish a right to jobseeker’s benefit (self-employed) for that week, to avoid the necessity of requalifying for jobseeker’s benefit (self-employed) under the said section.

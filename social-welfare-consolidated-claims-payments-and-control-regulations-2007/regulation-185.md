@@ -1,0 +1,3 @@
+Payment of claims made more than 12 months after the due date. (Deleted)
+
+185. ...

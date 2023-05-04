@@ -1,0 +1,129 @@
+Sharing of information.
+
+189. (1) The following information is prescribed as the information that may be shared, in accordance with section 266, by a body specified in paragraph 2 of Schedule 5 with the Minister for Education and Skills or an tÚdarás um Ard-Oideachas:
+
+(a) in relation to a student of that body—
+
+(i) his or her—
+
+(I) forename,
+
+(II) surname,
+
+(III) date of birth,
+
+(IV) address,
+
+(V) sex,
+
+(VI) nationality,
+
+(VII) personal public service number, and
+
+(VIII) mother’s birth surname, and
+
+(ii) whether the student—
+
+(I) boards at his or her school,
+
+(II) is exempt from studying the Irish language and, if so, the date, category and grantor of such exemption,
+
+(III) is in receipt of resource teaching support or learning support and, if so, the type of such support,
+
+(IV) is in a class for students with special educational needs and, if so, the level of integration of the student, if any, in mainstream class settings,
+
+(V) is a student in a special class and, if so, the type of special class,
+
+(VI) is a student in a special school and, if so, the category of capitation grant that is paid in respect of that student,
+
+(VII) is a new entrant,
+
+(VIII) is repeating a year and, if so, the reasons why,
+
+(IX) is a short-term placement student and, if so, the duration for which he or she has been enrolled;
+
+(b) in relation to the course of study being undertaken by a student of that body—
+
+(i) the date of enrolment of the student,
+
+(ii) the source of enrolment for the student,
+
+(iii) the class group and standard of the student,
+
+(iv) the class type of the student,
+
+(v) the student type,
+
+(vi) the current school roll number for the student,
+
+(vii) the former school roll number for the student, if applicable,
+
+(viii) the date that the student leaves the course of study and the leaving destination,
+
+(ix) the programme for which the student is studying and his or her programme year,
+
+(x) the examination candidate number for the student,
+
+(xi) the subjects which the student is studying and the subject level at which he or she is studying those subjects,
+
+(xii) the language through which the student is studying,
+
+(xiii) whether the student is participating in a scheme administered by an Education and Training Board and known as the Vocational Training Opportunities Scheme, and
+
+(xiv) where the student is enrolled in a Post Leaving Certificate or an Applied Leaving Certificate Programme, the highest level of academic attainment previously achieved.
+
+(1A) In sub-article (1), "student" has the same meaning as it has in section 2(1) of the Education Act 1998 (No. 51 of 1998).
+
+(2) The information prescribed for the purposes of section 267 shall be a person’s—
+
+(a) forename,
+
+(b) surname,
+
+(c) date of birth,
+
+(d) birth surname,
+
+(e) mother's birth surname,
+
+(f) address,
+
+(g) sex,
+
+(h) marital status or civil status,
+
+(i) date of marriage or registration of civil partnership,
+
+(j) nationality,
+
+(k) insurance number, and
+
+(l) personal public service number.
+
+(3) The information prescribed for the purposes of section 269 shall be—
+
+(a) in respect of a tenant, his or her—
+
+(i) forename,
+
+(ii) surname,
+
+(iii) (I) address,
+
+(II) date of commencement of rent supplement in respect of that address, and
+
+(III) date of cessation of rent supplement in respect of that address, and
+
+(iv) personal public service number, and
+
+(b) in respect of a landlord or his or her agent, his or her—
+
+(i) forename,
+
+(ii) surname,
+
+(iii) personal public service number,
+
+(iv) registration number assigned in accordance with section 65(2) of the Value-Added Tax Consolidation Act 2010, and
+
+(v) telephone number.

@@ -1,0 +1,3 @@
+Special provision relating to delay or failure in claiming.
+
+46. Notwithstanding anything contained in article 44, a person who, in respect of any period of interruption of employment, would have been entitled to jobseeker’s benefit for any day but for any delay or failure on his or her part to make or prosecute a claim, shall, for the purposes of section 67 be treated as having been entitled to jobseeker’s benefit for that day, but a person shall not be so treated where he or she shows that he or she did not intend, by failing to acquire or establish a right to jobseeker’s benefit for that day, to avoid the necessity of requalifying for jobseeker’s benefit under the said section.

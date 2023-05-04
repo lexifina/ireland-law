@@ -1,0 +1,3 @@
+Calculation of yearly average. (Deleted)
+
+66. ...
