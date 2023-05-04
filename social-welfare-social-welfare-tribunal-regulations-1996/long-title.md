@@ -1,0 +1,1 @@
+The Minister for Social Welfare, in exercise of the powers conferred on him by sections 4 (as amended by section 37 of the Social Welfare Act, 1996 (No. 7 of 1996)) and 276 of the Social Welfare (Consolidation) Act, 1993 (No. 27 of 1993), hereby makes the following Regulations:
