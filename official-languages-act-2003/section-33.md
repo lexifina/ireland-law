@@ -2,11 +2,7 @@ Construction of words in legal documents.
 
 33. —(1) A word or words, declared by the Minister in a placenames order to be the Irish language version of a placename specified in the order, shall be construed in a legal document as referring to the same place and as having the same force and effect as the English language version of the placename so specified unless the contrary intention appears.
 
-(2) Where the Minister makes a declaration under
-
-## section 32
-
-in respect of a placename in a Gaeltacht area, the English language version of the placename shall no longer have any force and effect as on and from the operative date but without prejudice to anything done before or after that date including the use of that version other than its use—
+(2) Where the Minister makes a declaration under section 32 in respect of a placename in a Gaeltacht area, the English language version of the placename shall no longer have any force and effect as on and from the operative date but without prejudice to anything done before or after that date including the use of that version other than its use—
 
 (a) in any Act of the Oireachtas passed after the operative date or any statutory instrument made after that date under any Act,
 
