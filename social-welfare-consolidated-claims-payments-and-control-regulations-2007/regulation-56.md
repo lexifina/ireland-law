@@ -1,6 +1,6 @@
 Circumstances in which carer is to be regarded as providing full-time care and attention.
 
-56. A carer may, for the purposes of Chapter 14 of Part 2, be regarded as providing full time care and attention to a relevant person where—
+56. Subject to article 56A, a carer may,, for the purposes of Chapter 14 of Part 2, be regarded as providing full time care and attention to a relevant person where—
 
 (a) that carer would qualify for payment of benefit but for the fact that either the carer or the relevant person is undergoing medical or other treatment of a temporary nature in an institution for a period of not longer than 13 weeks, or
 
