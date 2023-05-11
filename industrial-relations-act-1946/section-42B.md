@@ -1,4 +1,4 @@
-F39[ Proposals by joint labour committee for employment regulation orders.
+F39[Proposals by joint labour committee for employment regulation orders.
 
 42B.— (1) Where a joint labour committee has formulated proposals for an employment regulation order, the committee shall publish a notice stating—
 

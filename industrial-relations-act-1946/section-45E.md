@@ -1,3 +1,3 @@
-F48[ References to rights commissioner by Minister.
+F48[References to rights commissioner by Minister.
 
 45E.— ...

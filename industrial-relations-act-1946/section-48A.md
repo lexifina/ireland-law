@@ -1,4 +1,4 @@
-F50[ Exemption from obligation to pay statutory minimum remuneration.
+F50[Exemption from obligation to pay statutory minimum remuneration.
 
 48A.— (1) The Court may in accordance with this section exempt an employer from the obligation to pay the statutory minimum remuneration in respect of a worker or number of workers.
 
