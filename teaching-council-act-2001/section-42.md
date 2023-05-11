@@ -222,7 +222,7 @@ Inquiry by Investigating Committee.
 
 (c) where the registered teacher is employed as a teacher, his or her employer.
 
-(11) In this section, ‘document’ includes—
+(11) In this section, "document" includes—
 
 (a) a book, record or other printed material,
 
