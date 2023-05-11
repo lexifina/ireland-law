@@ -1,3 +1,3 @@
-Mediation in trade dispute by conciliation officer.
+Mediation in trade dispute by conciliation officer. (Repealed)
 
 69.—...

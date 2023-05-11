@@ -1,3 +1,3 @@
-Power of Court to investigate trade dispute.
+Power of Court to investigate trade dispute. (Repealed)
 
 67.—...

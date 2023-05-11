@@ -1,3 +1,3 @@
-“worker”.
+“worker”. (Repealed)
 
 4.—...

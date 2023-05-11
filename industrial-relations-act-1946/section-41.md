@@ -1,3 +1,3 @@
-Constitution, officers and proceedings of joint labour committees.
+Constitution, officers and proceedings of joint labour committees. (Repealed)
 
 41.—...

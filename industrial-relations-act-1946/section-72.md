@@ -1,3 +1,3 @@
-Effect of awards under section 71.
+Effect of awards under section 71. (Repealed)
 
 72.—...
