@@ -1,5 +1,5 @@
 ## PART 5 FITNESS TO TEACH
 
-Professional misconduct.
+Professional misconduct. (Repealed)
 
 41.—...

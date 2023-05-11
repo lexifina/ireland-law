@@ -18,7 +18,7 @@ Committees.
 
 (ii) the Disciplinary Committee, to perform the functions conferred on those committees by Part 5.
 
-(2A) The Disciplinary Committee shall, for the purpose of carrying out its function under section 43(1), sit in divisions of itself (each division in this Act referred to as a ‘panel’) established under subsection (3) of that section.
+(2A) The Disciplinary Committee shall, for the purpose of carrying out its function under section 43(1), sit in divisions of itself (each division in this Act referred to as a "panel") established under subsection (3) of that section.
 
 (3) The acts of a committee (other than the Investigating Committee or Disciplinary Committee) and the exercise by a committee of functions delegated to it under this section or, in the case of the Executive Committee, under section 26, shall be subject to confirmation by the Council, unless the Council otherwise determines.
 

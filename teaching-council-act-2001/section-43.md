@@ -114,7 +114,7 @@ Inquiry by Disciplinary Committee.
 
 (c) where the teacher is employed as a teacher, his or her employer, and shall, at the request of the registered teacher concerned, publish a notice to that effect in such form and manner as may be determined by the Council.
 
-(19) In this section, ‘document’ includes—
+(19) In this section, "document" includes—
 
 (a) a book, record or other printed material,
 
