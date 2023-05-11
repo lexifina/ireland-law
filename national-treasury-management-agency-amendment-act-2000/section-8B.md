@@ -1,6 +1,6 @@
 Additional function in relation to Insurance Compensation Fund under sections 3A, 3B and 3C of Insurance Act 1964.
 
-8B. (1) In this section ‘Act of 1964’ means the Insurance Act 1964.
+8B.— (1) In this section "Act of 1964" means the Insurance Act 1964.
 
 (2) The Agency shall perform the following functions conferred on it in respect of the Insurance Compensation Fund:
 
