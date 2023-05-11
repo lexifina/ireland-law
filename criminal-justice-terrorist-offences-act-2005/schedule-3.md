@@ -134,7 +134,9 @@ Article 11
 
 Article 12
 
-In so far as the Geneva Conventions of 1949 for the protection of war victims or the Protocols Additional to those Conventions are applicable to a particular act of hostage-taking, and in so far as States Parties to this Convention are bound under those conventions to prosecute or hand over the hostage-taker, the present Convention shall not apply to an act of hostage-taking committed in the course of armed conflicts as defined in the Geneva Conventions of 1949 and the Protocols thereto, including armed conflicts mentioned in article 1, paragraph 4, of Additional Protocol I of 1977, in which peoples are fighting against colonial domination and alien occupation and against racist régimes in the exercise of their right of self-determination, as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co-operation among States in accordance with the Charter of the United Nations.
+In so far as the Geneva Conventions of 1949 for the protection of war victims or the Protocols Additional to those Conventions are applicable to a particular act of hostage-taking, and in so far as States Parties to this Convention are bound under those conventions to prosecute or hand over the hostage-taker, the present Convention
+
+United Nations, Treaty Series, vol. 75, p. 31, 85, 135 and 287. Ibid., vol. 1125, pp. 3 and 609. shall not apply to an act of hostage-taking committed in the course of armed conflicts as defined in the Geneva Conventions of 1949 and the Protocols thereto, including armed conflicts mentioned in article 1, paragraph 4, of Additional Protocol I of 1977, in which peoples are fighting against colonial domination and alien occupation and against racist régimes in the exercise of their right of self-determination, as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co-operation among States in accordance with the Charter of the United Nations.
 
 Article 13
 

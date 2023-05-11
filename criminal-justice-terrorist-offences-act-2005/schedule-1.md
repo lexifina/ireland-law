@@ -20,7 +20,9 @@ De bhrí:
 
 (3) Is páirtithe na Ballstáit uile nó cuid díobh i roinnt coinbhinsiún a bhaineann leis an sceimhlitheoireacht. De réir Choinbhinsiún Chomhairle na hEorpa an 27 Eanáir 1977 maidir leis an Sceimhlitheoireacht a Dhíothú ní cionta polaitiúla iad cionta sceimh litheoireachta ná ní cionta iad atá bainteach le cionta polaitiúla ná ní tucaidí polaitiúla is siocair leo. Tá Coinbhinsiún maidir le buamálacha sceimhlitheoireachta a dhíothú an 15 Nollaig 1997 agus Coinbhinsiún maidir le maoiniú na sceimhlitheoireachta a dhíothú an 9 Nollaig 1999 glactha ag na Náisiúin Aontaithe. Tá dréachtchoinbhinsiún domhanda in aghaidh na sceimhlitheoireachta á dhréachtú faoi láthair sna Náisiúin Aontaithe.
 
-(4) Ag leibhéal an Aontais Eorpaigh, ghlac an Chomhairle ar an 3 Nollaig 1998 Plean Gníomhaíochta na Comhairle agus an Choimisiúin maidir leis an dóigh is fearr chun forálacha Chonradh Amstardam a chur chun feidhme a bhaineann le limistéar saoirse, slándála agus ceartais. Ba chóir aird a thabhairt freisin ar Chonclúidí ón gComhairle an 20 Meán Fómhair 2001 agus ar phlean gníomhaíochta chun an sceimhlitheoireacht a chomhrac ón gComhairle Eorpach Urghnách an 21 Meán Fómhair 2001. Rinneadh tagairt don sceimhlitheoireacht i gconclúidí ón gComhairle Eorpach in Tampere an 15 agus 16 Deireadh Fómhair 1999, agus ón gComhairle Eorpach in Santa María da Feira an 19 agus 20 Meitheamh 2000. Tá sí luaite freisin sa chumarsáid ón gCoimisiún chuig an gComhairle agus Parlaimint na hEorpa i dtaca le tabhairt suas chun dáta leathbhliantúil an scórchláir chun an dul chun cinn a athbhreithniú maidir le limistéar “saoirse, slándála agus ceartais” a chruthú san Aontas Eorpach (dara leath de 2000). Fairis sin, ar an 5 Meán Fómhair 2001 ghlac Parlaimint na hEorpa moladh maidir le ról an Aontais Eorpaigh sa chomhrac in aghaidh na sceimhlitheoireachta. Ina theannta sin, ba chóir a mheabhrú gur chomhairligh na príomhthíortha tionsclaithe (G7) agus an Rúis ar an 30 Iúil 1996 ag teacht le chéile dóibh i bPáras cúig bheart fichead chun an sceimhlitheoireacht a chomhrac.
+(4) Ag leibhéal an Aontais Eorpaigh, ghlac an Chomhairle ar an 3 Nollaig 1998 Plean Gníomhaíochta na Comhairle agus an Choimisiúin maidir leis an dóigh is fearr chun forálacha Chonradh Amstardam a chur chun feidhme a bhaineann le limistéar saoirse, slándála agus ceartais. Ba chóir aird a thabhairt freisin ar Chonclúidí ón gComhairle an 20 Meán Fómhair 2001 agus ar phlean gníomhaíochta chun an sceimhlitheoireacht a chomhrac ón gComhairle Eorpach Urghnách an 21 Meán Fómhair 2001. Rinneadh tagairt don sceimhlitheoireacht i gconclúidí ón gComhairle Eorpach in Tampere an 15 agus 16 Deireadh Fómhair 1999, agus ón gComhairle Eorpach in Santa María da Feira an 19 agus 20 Meitheamh 2000. Tá sí luaite freisin sa chumarsáid ón gCoimisiún chuig an gComhairle agus Parlaimint na hEorpa i dtaca le tabhairt suas chun dáta leathbhliantúil an scórchláir chun an dul chun cinn a athbhreithniú maidir le limistéar “saoirse, slándála agus ceartais” a chruthú san Aontas Eorpach (dara leath de 2000). Fairis sin, ar an 5 Meán Fómhair 2001 ghlac Parlaimint na hEorpa moladh maidir le ról an Aontais Eorpaigh sa chomhrac in aghaidh na sceimhlitheoireachta. Ina theannta
+
+IO C 332, 27.11.2001, Ich. 300. Tuairim a tugadh ar an 6 Feabhra 2002 (nach bhfuil foilsithe fós san Iris Oifigiúil). IO C 19, 23.1.1999, Ich. 1. sin, ba chóir a mheabhrú gur chomhairligh na príomhthíortha tionsclaithe (G7) agus an Rúis ar an 30 Iúil 1996 ag teacht le chéile dóibh i bPáras cúig bheart fichead chun an sceimhlitheoireacht a chomhrac.
 
 (5) Tá an iliomad beart sonrach glactha ag an Aontas Eorpach chun an sceimhlitheoireacht agus an choiriúlacht eagraithe a chomhrac, amhail Cinneadh ón gComhairle an 3 Nollaig 1998 ag cur de chúram ar Europol déileáil le coireanna arna ndéanamh nó ar dóigh go ndéanfaí le linn gníomhaíochtaí sceimhlitheoireachta in aghaidh bheatha an duine, a iomláine coirp, saoirse phearsanta nó maoin; Gníomh Comhpháirteach 96/610/CGB ón gComhairle an 15 Deireadh Fómhair 1996 maidir le clár d'inniúlachtaí, scileanna agus sainoilteacht frithsceimhlitheoireachta a chruthú agus a choimeád ar bun chun an comhar frithsceimhlitheoireachta idir na Ballstáit den Aontas Eorpach a éascú; Gníomh Comhpháirteach 98/428/CGB ón gComhairle an 29 Meitheamh 1998 maidir le Gréasán Breithiúnach Eorpach a chruthú, le freagrachtaí i leith cionta sceimhlitheoireachta, agus go háirithe Airteagal 2 de; Gníomh Comhpháirteach 98/733/CGB ón gComhairle an 21 Nollaig 1998 maidir le cion coiriúil a dhéanamh de rannpháirteachas in eagraíocht choiriúil sna Ballstáit den Aontas Eorpach; agus Moladh ón gComhairle an 9 Nollaig 1999 maidir le comhar sa chomhrac in aghaidh grúpaí sceimhlitheoireachta a mhaoiniú.
 
@@ -34,7 +36,11 @@ De bhrí:
 
 (10) Urramaíonn an Treoirchinneadh seo na cearta bunúsacha mar atá arna ráthú sa Choinbhinsiún Eorpach chun Cearta an Duine agus Saoirsí Bunúsacha a Chosaint agus faoi mar a fhabhraíonn siad sna traidisiúin bhunreachtúla is coiteann do na Ballstáit mar phrionsabail de dhlí an Chomhphobail. Urramaíonn an tAontas na prionsabail atá aitheanta in Airteagal 6(2) den Chonradh ar an Aontas Eorpach agus atá le fáil freisin sa Chairt um Chearta Bunúsacha den Aontas Eorpach, go háirithe Caibidil VI de. Ní féidir aon ní sa Treoirchinneadh seo a fhorléiriú amhail is gurb é is aidhm dó cearta nó saoirsí bunúsacha a laghdú nó a shrianadh amhail an ceart chun dul ar stailc, an tsaoirse comhthionóil, comhlachais nó friotail, lena n-áirítear an ceart ag gach duine ceardchumainn a chur ar bun le daoine eile agus bheith ina bhall díobh chun a leasanna a chosaint, agus an ceart chun léirsiú atá gaolmhar leis.
 
-(11) Gníomhartha arna ndéanamh ag fórsaí armtha le linn tréimhsí de choinbhleacht armtha, atá faoi rialú ag an dlí daonnachtúil idirnáisiúnta de réir bhrí na dtéarmaí sin faoin dlí sin, agus gníomhartha arna ndéanamh ag fórsaí armtha an Stáit agus a ndualgais oifigiúla á bhfeidhmiú acu, a mhéad atá siad faoi rialú ag rialacha eile den dlí idirnáisiúnta, níl siad faoi rialú ag an Treoirchinneadh seo, TAR ÉIS AN TREOIRCHINNEADH SEO A GHLACADH:
+(11) Gníomhartha arna ndéanamh ag fórsaí armtha le linn tréimhsí de choinbhleacht armtha, atá faoi rialú ag an dlí daonnachtúil idirnáisiúnta de réir bhrí na dtéarmaí sin faoin dlí sin, agus gníomhartha arna ndéanamh ag fórsaí armtha an Stáit agus a ndualgais oifigiúla á bhfeidhmiú acu, a mhéad atá siad faoi rialú ag rialacha eile den dlí idirnáisiúnta, níl siad faoi rialú ag an Treoirchinneadh seo,
+
+IO C 26, 30.1.1999, Ich. 22. IO L 273, 25.10.1996, Ich. 1. IO L 191, 7.7.1998, Ich. 4. IO L 351, 29.12.1998, Ich. 1. IO C 373, 23.12.1999, Ich. 1.
+
+TAR ÉIS AN TREOIRCHINNEADH SEO A GHLACADH:
 
 Airteagal 1
 
@@ -224,7 +230,11 @@ Tiocfaidh an Treoirchinneadh seo i bhfeidhm ar lá a fhoilsithe in Iris Oifigiú
 
 Arna dhéanamh i Lucsamburg, an 13 Meitheamh 2002.
 
-Thar ceann na Comhairle An tUachtarán M. RAJOY BREY
+Thar ceann na Comhairle An tUachtarán
+
+IO L82, 22.3.2001, Ich. 1.
+
+M. RAJOY BREY
 
 PART 2
 
@@ -250,7 +260,9 @@ Whereas:
 
 (3) All or some Member States are party to a number of conventions relating to terrorism. The Council of Europe Convention of 27 January 1977 on the Suppression of Terrorism does not regard terrorist offences as political offences or as offences connected with political offences or as offences inspired by political motives. The United Nations has adopted the Convention for the suppression of terrorist bombings of 15 December 1997 and the Convention for the suppression of financing terrorism of 9 December 1999. A draft global Convention against terrorism is currently being negotiated within the United Nations.
 
-(4) At European Union level, on 3 December 1998 the Council adopted the Action Plan of the Council and the Commission on how best to implement the provisions of the Treaty of Amsterdam on an area of freedom, security and justice. Account should also be taken of the Council Conclusions of 20 September 2001 and of the Extra-ordinary European Council plan of action to combat terrorism of 21 September 2001. Terrorism was referred to in the conclusions of the Tampere European Council of 15 and 16 October 1999, and of the Santa María da Feira European Council of 19 and 20 June 2000. It was also mentioned in the Commission communication to the Council and the European Parliament on the biannual update of the score-board to review progress on the creation of an area of ‘freedom, security and justice’ in the European Union (second half of 2000). Furthermore, on 5 September 2001 the European Parliament adopted a recommendation on the role of the European Union in combating terrorism. It should, moreover, be recalled that on 30 July 1996 twenty-five measures to fight against terrorism were advocated by the leading industrialised countries (G7) and Russia meeting in Paris.
+(4) At European Union level, on 3 December 1998 the Council adopted the Action Plan of the Council and the Commission on how best to implement the provisions of the Treaty of Amsterdam on an area of freedom, security and justice. Account should also be taken of the Council Conclusions of 20 September 2001 and of the Extra-ordinary European Council plan of action to combat terrorism of 21 September 2001. Terrorism was referred to in the conclusions of the Tampere European Council of 15 and 16 October 1999, and of the Santa María da Feira European Council of 19 and 20 June 2000. It was also mentioned in the Commission communication to the Council and the European Parliament on the biannual update of the score-board to review progress on the creation of an area of ‘freedom, security and justice’ in the European Union (second half of 2000). Furthermore, on 5 September 2001 the European Parliament adopted a recommendation on the role of the European Union in combating
+
+Opinion delivered on 6 February 2002 (not yet published in the Official Journal). terrorism. It should, moreover, be recalled that on 30 July 1996 twenty-five measures to fight against terrorism were advocated by the leading industrialised countries (G7) and Russia meeting in Paris.
 
 (5) The European Union has adopted numerous specific measures having an impact on terrorism and organised crime, such as the Council Decision of 3 December 1998 instructing Europol to deal with crimes committed or likely to be committed in the course of terrorist activities against life, limb, personal freedom or property; Council Joint Action 96/610/JHA of 15 October 1996 concerning the creation and maintenance of a Directory of specialised counter-terrorist competences, skills and expertise to facilitate counter-terrorism cooperation between the Member States of the European Union; Council Joint Action 98/428/JHA of 29 June 1998 on the creation of a European Judicial Network, with responsibilities in terrorist offences, in particular Article 2; Council Joint Action 98/733/JHA of 21 December 1998 on making it a criminal offence to participate in a criminal organisation in the Member States of the European Union; and the Council Recommendation of 9 December 1999 on cooperation in combating the financing of terrorist groups.
 
@@ -484,7 +496,9 @@ Whereas:
 
 (5) The Hague Programme on strengthening freedom, security and justice in the European Union, adopted by the European Council on 5 November 2004, underlines that effective prevention and combating of terrorism in full compliance with fundamental rights requires Member States not to confine their activities to maintaining their own security, but to focus also on the security of the Union as a whole.
 
-(6) The Council and Commission Action Plan implementing the Hague Programme on strengthening freedom, security and justice in the European Union , recalls that a global response is required to address terrorism and that the expectations that citizens have of the Union cannot be ignored, nor can the Union fail to respond to them. In addition, it states that attention must focus on different aspects of prevention, preparedness and response to further enhance, and where necessary complement, Member States’ capabilities to fight terrorism, concentrating particularly on recruitment, financing, risk analysis, protection of critical infrastructures and consequence management.
+(6) The Council and Commission Action Plan implementing the Hague Programme on strengthening freedom, security and justice in the European Union , recalls that a global response is required to address terrorism and that the expectations that citizens have of the Union cannot be ignored, nor can the Union fail to respond to them. In addition, it states that attention must focus on different aspects of prevention, preparedness and response to further enhance, and where necessary
+
+Not yet published in the Official Journal. complement, Member States’ capabilities to fight terrorism, concentrating particularly on recruitment, financing, risk analysis, protection of critical infrastructures and consequence management.
 
 (7) This Framework Decision provides for the criminalisation of offences linked to terrorist activities in order to contribute to the more general policy objective of preventing terrorism through reducing the dissemination of those materials which might incite persons to commit terrorist attacks.
 
@@ -610,9 +624,9 @@ Recalling that acts of terrorism have the purpose by their nature or context to 
 
 Have agreed as follows:
 
-Article 1 - Terminology 1 For the purposes of this Convention, ‘terrorist offence’ means any of the offences within the scope of and as defined in one of the treaties listed in the Appendix.
+Article 1 - Terminology
 
-2 On depositing its instrument of ratification, acceptance, approval or accession, a State or the European Community which is not a party to a treaty listed in the Appendix may declare that, in the application of this Convention to the Party concerned, that treaty shall be deemed not to be included in the Appendix. This declaration shall cease to have effect as soon as the treaty enters into force for the Party having made such a declaration, which shall notify the Secretary General of the Council of Europe of this entry into force.
+1 For the purposes of this Convention, ‘terrorist offence’ means any of the offences within the scope of and as defined in one of the treaties listed in the Appendix. 2 On depositing its instrument of ratification, acceptance, approval or accession, a State or the European Community which is not a party to a treaty listed in the Appendix may declare that, in the application of this Convention to the Party concerned, that treaty shall be deemed not to be included in the Appendix. This declaration shall cease to have effect as soon as the treaty enters into force for the Party having made such a declaration, which shall notify the Secretary General of the Council of Europe of this entry into force.
 
 Article 2 - Purpose
 
@@ -634,9 +648,7 @@ Parties shall, as appropriate and with due regard to their capabilities, assist 
 
 Article 5 - Public provocation to commit a terrorist offence
 
-1 For the purposes of this Convention, “public provocation to commit a terrorist offence” means the distribution, or otherwise making available, of a message to the public, with the intent to incite the commission of a terrorist offence, where such conduct, whether or not directly advocating terrorist offences, causes a danger that one or more such offences may be committed.
-
-2 Each Party shall adopt such measures as may be necessary to establish public provocation to commit a terrorist offence, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
+1 For the purposes of this Convention, “public provocation to commit a terrorist offence” means the distribution, or otherwise making available, of a message to the public, with the intent to incite the commission of a terrorist offence, where such conduct, whether or not directly advocating terrorist offences, causes a danger that one or more such offences may be committed. 2 Each Party shall adopt such measures as may be necessary to establish public provocation to commit a terrorist offence, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
 
 Article 6 - Recruitment for terrorism
 
@@ -660,9 +672,9 @@ Article 9 - Ancillary offences
 
 2 Each Party shall also adopt such measures as may be necessary to establish as a criminal offence under, and in accordance with, its domestic law the attempt to commit an offence as set forth in Articles 6 and 7 of this Convention.
 
-Article 10 - Liability of legal entities 1 Each Party shall adopt such measures as may be necessary, in accordance with its legal principles, to establish the liability of legal entities for participation in the offences set forth in Articles 5 to 7 and 9 of this Convention.
+Article 10 - Liability of legal entities
 
-2 Subject to the legal principles of the Party, the liability of legal entities may be criminal, civil or administrative.
+1 Each Party shall adopt such measures as may be necessary, in accordance with its legal principles, to establish the liability of legal entities for participation in the offences set forth in Articles 5 to 7 and 9 of this Convention. 2 Subject to the legal principles of the Party, the liability of legal entities may be criminal, civil or administrative.
 
 3 Such liability shall be without prejudice to the criminal liability of the natural persons who have committed the offences.
 
@@ -704,7 +716,9 @@ Article 15 - Duty to investigate
 
 3 Any person in respect of whom the measures referred to in paragraph 2 are being taken shall be entitled to: a communicate without delay with the nearest appropriate representative of the State of which that person is a national or which is otherwise entitled to protect that person’s rights or, if that person is a stateless person, the State in the territory of which that person habitually resides; b be visited by a representative of that State; c be informed of that person’s rights under subparagraphs a. and b.
 
-4 The rights referred to in paragraph 3 shall be exercised in conformity with the laws and regulations of the Party in the territory of which the offender or alleged offender is present, subject to the provision that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 are intended. 5 The provisions of paragraphs 3 and 4 shall be without prejudice to the right of any Party having a claim of jurisdiction in accordance with Article 14, paragraphs 1.c and 2.d to invite the International Committee of the Red Cross to communicate with and visit the alleged offender.
+4 The rights referred to in paragraph 3 shall be exercised in conformity with the laws and regulations of the Party in the territory of which the offender or alleged offender is present, subject to the provision that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 are intended.
+
+5 The provisions of paragraphs 3 and 4 shall be without prejudice to the right of any Party having a claim of jurisdiction in accordance with Article 14, paragraphs 1.c and 2.d to invite the International Committee of the Red Cross to communicate with and visit the alleged offender.
 
 Article 16 - Non application of the Convention
 
@@ -728,7 +742,9 @@ Article 18 - Extradite or prosecute
 
 Article 19 - Extradition
 
-1 The offences set forth in Articles 5 to 7 and 9 of this Convention shall be deemed to be included as extraditable offences in any extradition treaty existing between any of the Parties before the entry into force of this Convention. Parties undertake to include such offences as extraditable offences in every extradition treaty to be subsequently concluded between them. 2 When a Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another Party with which it has no extradition treaty, the requested Party may, if it so decides, consider this Convention as a legal basis for extradition in respect of the offences set forth in Articles 5 to 7 and 9 of this Convention. Extradition shall be subject to the other conditions provided by the law of the requested Party.
+1 The offences set forth in Articles 5 to 7 and 9 of this Convention shall be deemed to be included as extraditable offences in any extradition treaty existing between any of the Parties before the entry into force of this Convention. Parties undertake to include such offences as extraditable offences in every extradition treaty to be subsequently concluded between them.
+
+2 When a Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another Party with which it has no extradition treaty, the requested Party may, if it so decides, consider this Convention as a legal basis for extradition in respect of the offences set forth in Articles 5 to 7 and 9 of this Convention. Extradition shall be subject to the other conditions provided by the law of the requested Party.
 
 3 Parties which do not make extradition conditional on the existence of a treaty shall recognise the offences set forth in Articles 5 to 7 and 9 of this Convention as extraditable offences between themselves, subject to the conditions provided by the law of the requested Party.
 
@@ -748,9 +764,7 @@ Article 20 - Exclusion of the political exception clause
 
 5 The reservation shall be valid for a period of three years from the day of the entry into force of this Convention in respect of the Party concerned. However, such reservation may be renewed for periods of the same duration.
 
-6 Twelve months before the date of expiry of the reservation, the Secretary General of the Council of Europe shall give notice of that expiry to the Party concerned. No later than three months before expiry, the Party shall notify the Secretary General of the Council of Europe that it is upholding, amending or withdrawing its reservation. Where a Party notifies the Secretary General of the Council of Europe that it is upholding its reservation, it shall provide an explanation of the grounds justifying its continuance. In the absence of notification by the Party concerned, the Secretary General of the Council of Europe shall inform that Party that its reservation is considered to have been extended automatically for a period of six months. Failure by the Party concerned to notify its intention to uphold or modify its reservation before the expiry of that period shall cause the reservation to lapse.
-
-7 Where a Party does not extradite a person in application of this reservation, after receiving an extradition request from another Party, it shall submit the case, without exception whatsoever and without undue delay, to its competent authorities for the purpose of prosecution, unless the requesting Party and the requested Party agree otherwise. The competent authorities, for the purpose of prosecution in the requested Party, shall take their decision in the same manner as in the case of any offence of a grave nature under the law of that Party. The requested Party shall communicate, without undue delay, the final outcome of the proceedings to the requesting Party and to the Secretary General of the Council of Europe, who shall forward it to the Consultation of the Parties provided for in Article 30.
+6 Twelve months before the date of expiry of the reservation, the Secretary General of the Council of Europe shall give notice of that expiry to the Party concerned. No later than three months before expiry, the Party shall notify the Secretary General of the Council of Europe that it is upholding, amending or withdrawing its reservation. Where a Party notifies the Secretary General of the Council of Europe that it is upholding its reservation, it shall provide an explanation of the grounds justifying its continuance. In the absence of notification by the Party concerned, the Secretary General of the Council of Europe shall inform that Party that its reservation is considered to have been extended automatically for a period of six months. Failure by the Party concerned to notify its intention to uphold or modify its reservation before the expiry of that period shall cause the reservation to lapse. 7 Where a Party does not extradite a person in application of this reservation, after receiving an extradition request from another Party, it shall submit the case, without exception whatsoever and without undue delay, to its competent authorities for the purpose of prosecution, unless the requesting Party and the requested Party agree otherwise. The competent authorities, for the purpose of prosecution in the requested Party, shall take their decision in the same manner as in the case of any offence of a grave nature under the law of that Party. The requested Party shall communicate, without undue delay, the final outcome of the proceedings to the requesting Party and to the Secretary General of the Council of Europe, who shall forward it to the Consultation of the Parties provided for in Article 30.
 
 8 The decision to refuse the extradition request on the basis of this reservation shall be forwarded promptly to the requesting Party. If within a reasonable time no judicial decision on the merits has been taken in the requested Party according to paragraph 7, the requesting Party may communicate this fact to the Secretary General of the Council of Europe, who shall submit the matter to the Consultation of the Parties provided for in Article 30. This Consultation shall consider the matter and issue an opinion on the conformity of the refusal with the Convention and shall submit it to the Committee of Ministers for the purpose of issuing a declaration thereon. When performing its functions under this paragraph, the Committee of Ministers shall meet in its composition restricted to the States Parties.
 
@@ -766,7 +780,9 @@ Article 22 - Spontaneous information
 
 1 Without prejudice to their own investigations or proceedings, the competent authorities of a Party may, without prior request, forward to the competent authorities of another Party information obtained within the framework of their own investigations, when they consider that the disclosure of such information might assist the Party receiving the information in initiating or carrying out investigations or proceedings, or might lead to a request by that Party under this Convention.
 
-2 The Party providing the information may, pursuant to its national law, impose conditions on the use of such information by the Party receiving the information. 3 The Party receiving the information shall be bound by those conditions.
+2 The Party providing the information may, pursuant to its national law, impose conditions on the use of such information by the Party receiving the information.
+
+3 The Party receiving the information shall be bound by those conditions.
 
 4 However, any Party may, at any time, by means of a declaration addressed to the Secretary General of the Council of Europe, declare that it reserves the right not to be bound by the conditions imposed by the Party providing the information under paragraph 2 above, unless it receives prior notice of the nature of the information to be provided and agrees to its transmission.
 
@@ -794,9 +810,7 @@ Article 25 - Territorial application
 
 3 Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.
 
-Article 26 - Effects of the Convention
-
-1 The present Convention supplements applicable multilateral or bilateral treaties or agreements between the Parties, including the provisions of the following Council of Europe treaties:
+Article 26 - Effects of the Convention 1 The present Convention supplements applicable multilateral or bilateral treaties or agreements between the Parties, including the provisions of the following Council of Europe treaties:
 
 -European Convention on Extradition, opened for signature, in Paris, on 13 December 1957 (ETS No. 24);
 
