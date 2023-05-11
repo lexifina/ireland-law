@@ -22,7 +22,9 @@ Noting further that existing multilateral legal provisions do not adequately add
 
 Being convinced of the urgent need to enhance international cooperation between States in devising and adopting effective and practical measures for the prevention of such acts of terrorism and for the prosecution and punishment of their perpetrators,
 
-Considering that the occurrence of such acts is a matter of grave concern to the international community as a whole, Noting that the activities of military forces of States are governed by rules of international law outside the framework of this Convention and that the exclusion of certain actions from the coverage of this Convention does not condone or make lawful otherwise unlawful acts, or preclude prosecution under other laws,
+Considering that the occurrence of such acts is a matter of grave concern to the international community as a whole,
+
+Noting that the activities of military forces of States are governed by rules of international law outside the framework of this Convention and that the exclusion of certain actions from the coverage of this Convention does not condone or make lawful otherwise unlawful acts, or preclude prosecution under other laws,
 
 Have agreed as follows:
 
@@ -138,9 +140,7 @@ Article 9
 
 1. The offences set forth in article 2 shall be deemed to be included as extraditable offences in any extradition treaty existing between any of the States Parties before the entry into force of this Convention. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be subsequently concluded between them.
 
-2. When a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State Party may, at its option, consider this Convention as a legal basis for extradition in respect of the offences set forth in article
-
-2. Extradition shall be subject to the other conditions provided by the law of the requested State.
+2. When a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State Party may, at its option, consider this Convention as a legal basis for extradition in respect of the offences set forth in article 2. Extradition shall be subject to the other conditions provided by the law of the requested State.
 
 3. States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in article 2 as extraditable offences between themselves, subject to the conditions provided by the law of the requested State.
 
