@@ -1,6 +1,6 @@
-F1[Additional function - specification of minimum levels of indemnity for classes of medical practitioners
+F2[Additional function - specification of minimum levels of indemnity for classes of medical practitioners
 
-8A. (1) The Agency shall, by notice in Iris Oifigiúil, specify, having regard to the criteria set out in subsection (3), and after consultation with the Medical Council and any other person that the Agency considers appropriate, the minimum levels of indemnity applicable to classes of medical practitioners.
+8A.— (1) The Agency shall, by notice in Iris Oifigiúil, specify, having regard to the criteria set out in subsection (3), and after consultation with the Medical Council and any other person that the Agency considers appropriate, the minimum levels of indemnity applicable to classes of medical practitioners.
 
 (2) The Agency shall, as regards the minimum levels of indemnity specified in a notice referred to in subsection (1), specify, in that notice, a date or the occurrence of an event from which such levels of indemnity are to take effect and different dates or events may be specified for different classes of medical practitioners.
 
