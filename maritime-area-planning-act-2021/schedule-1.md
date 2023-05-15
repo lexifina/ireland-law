@@ -28,7 +28,11 @@ Whereas:
 
 (3) The IMP identifies maritime spatial planning as a cross-cutting policy tool enabling public authorities and stakeholders to apply a coordinated, integrated and trans-boundary approach. The application of an ecosystem-based approach will contribute to promoting the sustainable development and growth of the maritime and coastal economies and the sustainable use of marine and coastal resources.
 
-(4) Maritime spatial planning supports and facilitates the implementation of the Europe 2020 Strategy for smart, sustainable and inclusive growth (‘the Europe 2020 Strategy’), endorsed by the European Council in its conclusions of 17 June 2010, which aims to deliver high levels of employment, productivity and social cohesion, including promotion of a more competitive, resource-efficient and green economy. The coastal and maritime sectors have significant potential for sustainable growth and are keys to the implementation of the Europe 2020 Strategy.
+(4) Maritime spatial planning supports and facilitates the implementation of the Europe 2020 Strategy for smart, sustainable and inclusive growth (‘the Europe 2020 Strategy’), endorsed by the European Council in its conclusions of 17 June
+
+Position of the European Parliament of 17 April 2014 (not yet published in the Official Journal) and decision of the Council of 23 July 2014. Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for Community action in the field of marine environmental policy (Marine Strategy Framework Directive) (OJ L 164, 25.6.2008, p. 19).
+
+2010, which aims to deliver high levels of employment, productivity and social cohesion, including promotion of a more competitive, resource-efficient and green economy. The coastal and maritime sectors have significant potential for sustainable growth and are keys to the implementation of the Europe 2020 Strategy.
 
 (5) In its communication entitled ‘Blue Growth: opportunities for marine and maritime sustainable growth’, the Commission has identified a number of ongoing Union initiatives which are intended to implement the Europe 2020 Strategy, as well as a number of activities on which blue growth initiatives could focus in the future and which could be adequately supported by greater confidence and certainty for investors provided through maritime spatial planning.
 
@@ -42,7 +46,9 @@ Whereas:
 
 (10) In order to ensure consistency and legal clarity, the geographical scope for maritime spatial planning should be defined in conformity with existing legislative instruments of the Union and international maritime law, in particular Unclos. The competences of Member States relating to maritime boundaries and jurisdiction are not altered by this Directive.
 
-(11) While it is appropriate for the Union to provide a framework for maritime spatial planning, Member States remain responsible and competent for designing and determining, within their marine waters, the format and content of such plans, including institutional arrangements and, where applicable, any apportionment of maritime space to different activities and uses respectively.
+(11) While it is appropriate for the Union to provide a framework for maritime spatial planning, Member States remain responsible and competent for designing and determining, within their marine waters, the format and content of such plans,
+
+Regulation (EU) No 1255/2011 of the European Parliament and of the Council of 30 November 2011 establishing a Programme to support the further development of an Integrated Maritime Policy (OJ L 321, 5.12.2011, p. 1). Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund and repealing Council Regulations (EC) No 2328/2003, (EC) No 861/2006, (EC) No 1198/2006 and (EC) No 791/2007 and Regulation (EU) No 1255/2011 of the European Parliament and of the Council (OJ L 149, 20.5.2014, p. 1). including institutional arrangements and, where applicable, any apportionment of maritime space to different activities and uses respectively.
 
 (12) In order to respect proportionality and subsidiarity, as well as to minimise additional administrative burdens, the transposition and implementation of this Directive should to the greatest extent possible build upon existing national, regional and local rules and mechanisms, including those set out in Recommendation 2002/413/EC of the European Parliament and of the Council() or in Council Decision 2010/631/EU().
 
@@ -50,7 +56,11 @@ Whereas:
 
 (14) In order to promote the sustainable growth of maritime economies, the sustainable development of marine areas and the sustainable use of marine resources, maritime spatial planning should apply an ecosystem-based approach as referred to in Article 1(3) of Directive 2008/56/EC with the aim of ensuring that the collective pressure of all activities is kept within levels compatible with the achievement of good environmental status and that the capacity of marine ecosystems to respond to human-induced changes is not compromised, while contributing to the sustainable use of marine goods and services by present and future generations. In addition, an ecosystem-based approach should be applied in a way that is adapted to the specific ecosystems and other specificities of the different marine regions and that takes into consideration the ongoing work in the Regional Sea Conventions, building on existing knowledge and experience. The approach will also allow for an adaptive management which ensures refinement and further development as experience and knowledge increase, taking into account the availability of data and information at sea basin level to implement that approach. Member States should take into account the precautionary principle and the principle that preventive action should be taken, as laid down in Article 191(2) of the Treaty on the Functioning of the European Union.
 
-(15) Maritime spatial planning will contribute, inter alia, to achieving the aims of Directive 2009/28/EC of the European Parliament and of the Council(), Council Regulation (EC) No 2371/2002(), Directive 2009/147/EC of the European Parliament and of the Council(), Council Directive 92/43/EEC(), Decision No 884/2004/EC of the European Parliament and of the Council(), Directive 2000/60/EC of the European Parliament and of the Council(), Directive 2008/56/EC, recalling the Commission communication of 3 May 2011 entitled ‘Our life insurance, our natural capital: an EU biodiversity strategy to 2020’, the Commission communication of 20 September 2011 entitled ‘Roadmap to a Resource Efficient Europe’, the Commission communication of 16 April 2013 entitled ‘An EU Strategy on Adaptation to Climate Change’ and the Commission communication of 21 January 2009 entitled ‘Strategic goals and recommendations for the EU’s maritime transport policy until 2018’, as well as, where appropriate, those of the Union’s Regional Policy, including the sea-basin and macro-regional strategies.
+(15) Maritime spatial planning will contribute, inter alia, to achieving the aims of Directive 2009/28/EC of the European Parliament and of the Council(), Council Regulation (EC) No 2371/2002(), Directive 2009/147/EC of the European Parliament and of the Council(), Council Directive 92/43/EEC(), Decision No
+
+Recommendation 2002/413/EC of the European Parliament and of the Council of 30 May 2002 concerning the implementation of Integrated Coastal Zone Management in Europe (OJ L 148, 6.6.2002, p. 24). Council Decision 2010/631/EU of 13 September 2010 concerning the conclusion, on behalf of the European Union, of the Protocol on Integrated Coastal Zone Management in the Mediterranean to the Convention for the Protection of the Marine Environment and the Coastal Region of the Mediterranean (OJ L 279, 23.10.2010, p. 1). Directive 2009/28/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC (OJ L 140, 5.6.2009, p. 16). Council Regulation (EC) No 2371/2002 of 20 December 2002 on the conservation and sustainable exploitation of fisheries resources under the Common Fisheries Policy (OJ L 358, 31.12.2002, p. 59). Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (OJ L 20, 26.1.2010, p. 7). Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7).
+
+884/2004/EC of the European Parliament and of the Council(), Directive 2000/60/EC of the European Parliament and of the Council(), Directive 2008/56/EC, recalling the Commission communication of 3 May 2011 entitled ‘Our life insurance, our natural capital: an EU biodiversity strategy to 2020’, the Commission communication of 20 September 2011 entitled ‘Roadmap to a Resource Efficient Europe’, the Commission communication of 16 April 2013 entitled ‘An EU Strategy on Adaptation to Climate Change’ and the Commission communication of 21 January 2009 entitled ‘Strategic goals and recommendations for the EU’s maritime transport policy until 2018’, as well as, where appropriate, those of the Union’s Regional Policy, including the sea-basin and macro-regional strategies.
 
 (16) Marine and coastal activities are often closely interrelated. In order to promote the sustainable use of maritime space, maritime spatial planning should take into account land-sea interactions. For this reason, maritime spatial planning can play a very useful role in determining orientations related to sustainable and integrated management of human activities at sea, preservation of the living environment, the fragility of coastal ecosystems, erosion and social and economic factors. Maritime spatial planning should aim to integrate the maritime dimension of some coastal uses or activities and their impacts and ultimately allow an integrated and strategic vision.
 
@@ -60,7 +70,9 @@ Whereas:
 
 (19) The main purpose of maritime spatial planning is to promote sustainable development and to identify the utilisation of maritime space for different sea uses as well as to manage spatial uses and conflicts in marine areas. Maritime spatial planning also aims at identifying and encouraging multi-purpose uses, in accordance with the relevant national policies and legislation. In order to achieve that purpose, Member States need at least to ensure that the planning process or processes result in a comprehensive planning identifying the different uses of maritime space and taking into consideration long-term changes due to climate change.
 
-(20) Member States should consult and coordinate their plans with the relevant Member States and should cooperate with third-country authorities in the marine region concerned in conformity with the rights and obligations of those Member States and of the third countries concerned under Union and international law. Effective cross-border cooperation between Member States and with neighbouring third countries requires that the competent authorities in each Member State be identified. Member States therefore need to designate the competent authority or authorities responsible for the implementation of this Directive. Given the differences between various marine regions or sub-regions and coastal zones, it is not appropriate to prescribe in detail in this Directive the form which those cooperation mechanisms should take.
+(20) Member States should consult and coordinate their plans with the relevant Member States and should cooperate with third-country authorities in the marine region concerned in conformity with the rights and obligations of those Member States and of the third countries concerned under Union and international law. Effective cross-border cooperation between Member States and with neighbouring third countries requires that the competent authorities in each Member State be identified. Member States therefore need to designate the competent authority or authorities responsible for the implementation of this Directive. Given the
+
+Decision No 884/2004/EC of the European Parliament and of the Council of 29 April 2004 amending Decision No 1692/96/EC on Community guidelines for the development of the trans-European transport network (OJ L 167, 30.4.2004, p. 1). Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (OJ L 327, 22.12.2000, p. 1). Commission Decision 2010/477/EU of 1 September 2010 on criteria and methodological standards on good environmental status of marine waters (OJ L 232, 2.9.2010, p. 14). differences between various marine regions or sub-regions and coastal zones, it is not appropriate to prescribe in detail in this Directive the form which those cooperation mechanisms should take.
 
 (21) The management of marine areas is complex and involves different levels of authorities, economic operators and other stakeholders. In order to promote sustainable development in an effective manner, it is essential that stakeholders, authorities and the public be consulted at an appropriate stage in the preparation of maritime spatial plans under this Directive, in accordance with relevant Union legislation. A good example of public consultation provisions can be found in Article 2(2) of Directive 2003/35/EC of the European Parliament and of the Council().
 
@@ -70,7 +82,11 @@ Whereas:
 
 (24) With a view to ensuring that maritime spatial plans are based on reliable data and to avoid additional administrative burdens, it is essential that Member States make use of the best available data and information by encouraging the relevant stakeholders to share information and by making use of existing instruments and tools for data collection, such as those developed in the context of the Marine Knowledge 2020 initiative and Directive 2007/2/EC of the European Parliament and of the Council().
 
-(25) Member States should send copies of their maritime spatial plans and any updates to the Commission, so as to enable the latter to monitor the implementation of this Directive. The Commission will use the information provided by the Member States, and existing information available under Union legislation, to keep the European Parliament and the Council informed of progress made in implementing this Directive.
+(25) Member States should send copies of their maritime spatial plans and any updates to the Commission, so as to enable the latter to monitor the implementation of this Directive. The Commission will use the information provided by the Member States, and existing information available under Union legislation, to keep the
+
+Directive 2003/35/EC of the European Parliament and of the Council of 26 May 2003 providing for public participation in respect of the drawing up of certain plans and programmes relating to the environment and amending with regard to public participation and access to justice Council Directives 85/337/EEC and 96/61/EC (OJ L 156, 25.6.2003, p. 17). Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environment (OJ L 197, 21.7.2001, p. 30). Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) (OJ L 108, 25.4.2007, p. 1).
+
+European Parliament and the Council informed of progress made in implementing this Directive.
 
 (26) Timely transposition of this Directive is essential since the Union has adopted a number of policy initiatives that are to be implemented by the year 2020 and which this Directive aims to support and complement.
 
@@ -144,9 +160,7 @@ Objectives of maritime spatial planning
 
 2. Through their maritime spatial plans, Member States shall aim to contribute to the sustainable development of energy sectors at sea, of maritime transport, and of the fisheries and aquaculture sectors, and to the preservation, protection and improvement of the environment, including resilience to climate change impacts. In addition, Member States may pursue other objectives such as the promotion of sustainable tourism and the sustainable extraction of raw materials.
 
-3. This Directive is without prejudice to the competence of Member States to determine how the different objectives are reflected and weighted in their maritime spatial plan or plans.
-
-Article 6
+3. This Directive is without prejudice to the competence of Member States to determine how the different objectives are reflected and weighted in their maritime spatial plan or plans. Article 6
 
 Minimum requirements for maritime spatial planning
 
@@ -190,9 +204,7 @@ Setting-up of maritime spatial plans
 
 —fishing areas,
 
-—installations and infrastructures for the exploration, exploitation and extraction of oil, of gas and other energy resources, of minerals and aggregates, and for the production of energy from renewable sources,
-
-—maritime transport routes and traffic flows,
+—installations and infrastructures for the exploration, exploitation and extraction of oil, of gas and other energy resources, of minerals and aggregates, and for the production of energy from renewable sources, —maritime transport routes and traffic flows,
 
 —military training areas,
 
@@ -242,9 +254,7 @@ Cooperation among Member States
 
 (b) networks or structures of Member States’ competent authorities; and/or
 
-(c) any other method that meets the requirements of paragraph 1, for example in the context of sea-basin strategies.
-
-Article 12
+(c) any other method that meets the requirements of paragraph 1, for example in the context of sea-basin strategies. Article 12
 
 Cooperation with third countries
 
