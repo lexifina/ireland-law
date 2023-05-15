@@ -144,9 +144,7 @@ Objectives of maritime spatial planning
 
 2. Through their maritime spatial plans, Member States shall aim to contribute to the sustainable development of energy sectors at sea, of maritime transport, and of the fisheries and aquaculture sectors, and to the preservation, protection and improvement of the environment, including resilience to climate change impacts. In addition, Member States may pursue other objectives such as the promotion of sustainable tourism and the sustainable extraction of raw materials.
 
-3. This Directive is without prejudice to the competence of Member States to determine how the different objectives are reflected and weighted in their maritime spatial plan or plans.
-
-Article 6
+3. This Directive is without prejudice to the competence of Member States to determine how the different objectives are reflected and weighted in their maritime spatial plan or plans. Article 6
 
 Minimum requirements for maritime spatial planning
 
@@ -190,9 +188,7 @@ Setting-up of maritime spatial plans
 
 —fishing areas,
 
-—installations and infrastructures for the exploration, exploitation and extraction of oil, of gas and other energy resources, of minerals and aggregates, and for the production of energy from renewable sources,
-
-—maritime transport routes and traffic flows,
+—installations and infrastructures for the exploration, exploitation and extraction of oil, of gas and other energy resources, of minerals and aggregates, and for the production of energy from renewable sources, —maritime transport routes and traffic flows,
 
 —military training areas,
 
@@ -242,9 +238,7 @@ Cooperation among Member States
 
 (b) networks or structures of Member States’ competent authorities; and/or
 
-(c) any other method that meets the requirements of paragraph 1, for example in the context of sea-basin strategies.
-
-Article 12
+(c) any other method that meets the requirements of paragraph 1, for example in the context of sea-basin strategies. Article 12
 
 Cooperation with third countries
 
