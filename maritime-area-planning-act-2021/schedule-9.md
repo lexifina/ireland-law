@@ -1,6 +1,8 @@
 SCHEDULE 9
 
-Redress for Contravention of section 153(5) Section 153
+Redress for Contravention of section 153(5)
+
+Section 153
 
 Complaints to rights commissioner
 
