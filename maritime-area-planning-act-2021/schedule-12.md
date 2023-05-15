@@ -24,9 +24,9 @@ Subsection (1) is further amended by the insertion of the following definitions:
 
 “‘Act of 1933’ means the Foreshore Act 1933;
 
-‘coastal planning authority’ has the meaning assigned to it by the Maritime Area Planning Act 2021; Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+‘coastal planning authority’ has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
-‘maritime area’ has the meaning assigned to it by the Maritime Area Planning Act 2021;
+‘maritime area’ has the meaning assigned to it by the Maritime Area Planning Act 2021; Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 ‘maritime area consent’ has the meaning assigned to it by the
 
@@ -66,9 +66,9 @@ Planning Act 2021;
 
 ‘objectives of maritime spatial planning’ means—
 
-(a) those matters to which the State is required, in accordance with paragraph 1 of Article 5 of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014, to give consideration when establishing and implementing maritime spatial planning , Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(a) those matters to which the State is required, in accordance with paragraph 1 of Article 5 of Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014, to give consideration when establishing and implementing maritime spatial planning ,
 
-(b) those matters to which the State is required, in accordance with paragraph 2 of the said Article 5, to aim to contribute through maritime spatial plans, and
+(b) those matters to which the State is required, in accordance with paragraph 2 of the said Article 5, to aim to contribute through maritime spatial plans, and Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (c) objectives that the State is, for the time being, seeking to pursue in accordance with the second sentence of the said paragraph 2;
 
@@ -96,9 +96,9 @@ The following subsections are inserted:
 
 “(1A) Subject to subsection (1B), the following classes of development shall also be exempted development for the purposes of this Act if carried out wholly in the maritime area:
 
-(a) development for the purposes of any survey for archaeological purposes; Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(a) development for the purposes of any survey for archaeological purposes;
 
-(b) development for the purposes, or consisting, of—
+(b) development for the purposes, or consisting, of— Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (i) the exploration for petroleum, within the meaning of Part II of the Petroleum and Other Minerals Development Act 1960, in accordance with a licence under section 8, 9 or 19 of that Act or a lease under section 13 of that Act,
 
@@ -120,9 +120,9 @@ The following subsections are inserted:
 
 (ii) activities relating to fishing or aquaculture.
 
-(1B) Development referred to in paragraph (a), (d), (e), (f) or (g) of subsection (1A) shall not be exempted development if an environmental impact assessment of the development is required. Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(1B) Development referred to in paragraph (a), (d), (e), (f) or (g) of subsection (1A) shall not be exempted development if an environmental impact assessment of the development is required.
 
-(1C) Development referred to in paragraph (a), (d), (e) or (g) of subsection (1A) shall not be exempted development if an appropriate assessment of the development is required.”.
+(1C) Development referred to in paragraph (a), (d), (e) or (g) of subsection (1A) shall not be exempted development if an appropriate assessment of the development is required.”. Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 Subsection (3) is amended by the substitution, in paragraph (a), of “subsection (1) or (1A)” for “subsection (1)”.
 
@@ -152,9 +152,9 @@ Subsection (3) is amended by the substitution, in paragraph (a), of “subsectio
 
 (I) the National Planning Framework, and
 
-(II) the regional spatial and economic strategy, and Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(II) the regional spatial and economic strategy, and
 
-(ii) specific planning policy requirements specified in guidelines under subsection (1) of section 28, and
+(ii) specific planning policy requirements specified in guidelines under subsection (1) of section 28, and Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (b) in relation to a local authority that is a coastal planning authority, the obligation to ensure that the development plan is, in addition to being consistent with the obligation referred to in paragraph (a), consistent with the National Marine Planning Framework.”.
 
@@ -192,9 +192,9 @@ Subsection (3) is amended by the substitution, in paragraph (a), of “subsectio
 
 8 of the Maritime Area Planning Act 2021,”, and
 
-(ii) the insertion, after “rural,”, of “or maritime spatial planning,”, and Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(ii) the insertion, after “rural,”, of “or maritime spatial planning,”, and
 
-(b) in paragraph (c), by the insertion, after “Strategy)”, of “, the National Marine Planning Framework”.
+(b) in paragraph (c), by the insertion, after “Strategy)”, of “, the National Marine Planning Framework”. Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 10. Section Subsection (2) is amended, in paragraph (b), by the insertion 31AM of “and the National Marine Planning Framework” after “National Spatial Strategy)”.
 
@@ -224,9 +224,9 @@ Subsection (3) is amended by the substitution, in paragraph (a), of “subsectio
 
 18. Section Subsection (2) is amended by the substitution of the following 139 paragraphs for paragraph (a):
 
-“(a) the matters to which a planning authority shall have regard specified in paragraph (a) of subsection (2) of section 34, Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+“(a) the matters to which a planning authority shall have regard specified in paragraph (a) of subsection (2) of section 34,
 
-(aa) in the case of the appeal of a decision of a planning authority in respect of development to which Chapter II of Part XXI applies or proposed such development, the matters referred to in paragraph (a) and the matters to which a planning authority shall have regard specified in subsection (2) of section 282,”.
+(aa) in the case of the appeal of a decision of a planning authority in respect of development to which Chapter II of Part XXI applies or proposed such development, the matters referred to in paragraph (a) and the matters to which a planning authority shall have regard specified in subsection (2) of section 282,”. Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 19. Section Subsection (1) is amended, in subparagraph (v) of paragraph 140 (a), by the insertion of “or 291” after “section 37L”.
 
@@ -250,9 +250,9 @@ Subsection (2) is amended, in paragraph (a), by the insertion of “or 291” af
 
 Subsection (4) is amended, in subparagraph (ii) of paragraph (a), by the insertion of “or section 293” after “Part III”.
 
-24. Section The following subsections are inserted: 160 Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+24. Section The following subsections are inserted: 160
 
-“(5A) (a) An application under this section to the Circuit Court shall, in respect of development situated wholly or partly in the nearshore area of a coastal planning authority, be made to the judge of the Circuit Court for the circuit in which the functional area (other than the nearshore area) of that coastal planning authority is situated.
+“(5A) (a) An application under this section to the Circuit Court shall, in respect of development situated wholly or partly in the nearshore area of a coastal planning authority, be made to the judge of the Circuit Court for the circuit in which the functional area (other than the nearshore area) of that coastal planning authority is situated. Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (b) The Circuit Court shall have jurisdiction to hear and determine an application under this section in relation to a development referred to in paragraph (a) where the aggregate amount of the levy or levies payable under Chapter 7 of Part 4 of the Maritime Area Planning Act 2021 in respect of the maritime area consent granted to the person who carried out the development does not exceed €500,000.
 
@@ -272,7 +272,7 @@ Subsection (6) is amended, in subparagraph (ii) of paragraph (a), by the inserti
 
 (b) the insertion of the following clause after clause (VI):
 
-“(VII) development to which Chapter III of Part XXI applies; and”. Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+“(VII) development to which Chapter III of Part XXI applies; and”.
 
 28. Section Subsection (1) is amended by the insertion, after “section 173 34(3)”, of “or Chapter III of Part XXI”.
 
@@ -280,7 +280,7 @@ Subsection (6) is amended, in subparagraph (ii) of paragraph (a), by the inserti
 
 (a) the substitution of the following definition for the definition of “application for permission”:
 
-“‘application for permission’ means—
+“‘application for permission’ means— Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (a) an application for permission for development under Part III,
 
@@ -316,13 +316,13 @@ Subsection (6) is amended, in subparagraph (ii) of paragraph (a), by the inserti
 
 (b) an application for permission for development under section 291,
 
-(c) an application for approval for development under section 175, 177AE, 181A, 182A, 182C or 226, Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(c) an application for approval for development under section 175, 177AE, 181A, 182A, 182C or 226,
 
 (d) an application for substitute consent under section 177E, or
 
 (e) a request under section 297;”, and
 
-(b) the substitution of the following definition for the definition of “grant of permission”:
+(b) the substitution of the following definition for the definition of “grant of permission”: Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 “‘grant of permission’ means—
 
@@ -354,13 +354,13 @@ Subsection (6) is amended, in subparagraph (ii) of paragraph (a), by the inserti
 
 Subsection (4) is amended by the insertion, after “Ireland”, of “(including the maritime area)”.
 
-33. Section The following subsection is substituted for subsection (3): 175 Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+33. Section The following subsection is substituted for subsection (3): 175
 
 “(3) Subject to subsection (3A), where an environmental impact assessment report has been prepared in accordance with subsection (1), the local authority shall apply to the Board for approval of the proposed development to which the report relates.”.
 
 The following subsections are inserted:
 
-“(3A) A local authority shall not be eligible to make an application under subsection (3) in relation to proposed development in the maritime area unless it—
+“(3A) A local authority shall not be eligible to make an application under subsection (3) in relation to proposed development in the maritime area unless it— Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (a) is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
 
@@ -378,7 +378,7 @@ The following subsections are inserted:
 
 Subsection (12) is amended by the substitution of the following paragraphs for paragraph (a):
 
-“(a) in the case of an area other than a maritime site, the provisions of the development plan for the area, Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+“(a) in the case of an area other than a maritime site, the provisions of the development plan for the area,
 
 (aa) in the case of a maritime site, the matters to which the Board is required to have regard under subsection (3) of section 293 when making a decision in relation to an application under section 291,”.
 
@@ -386,7 +386,7 @@ Subsection (12) is amended by the substitution of the following paragraphs for p
 
 “(1A) A planning authority shall not consider an application under this section in respect of proposed development to which Chapter II of Part XXI applies, unless the applicant—
 
-(a) is the holder of a—
+(a) is the holder of a— Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (i) maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development, or
 
@@ -402,7 +402,7 @@ Subsection (3) is amended by the substitution of the following paragraph for par
 
 “(b) where the applicant is not the owner or occupier of the land that is the subject of the proposed development, the name and address of the owner (if any) and, where the owner is not the occupier of the land, the occupier (if any),”.
 
-Subsection (5) is amended by— Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+Subsection (5) is amended by—
 
 (a) the insertion, in paragraph (a), of “(if any)” after “owner”, and
 
@@ -410,7 +410,7 @@ Subsection (5) is amended by— Reference Provision Extent of Amendment Number o
 
 “(b) where the owner is not the occupier of the land, the occupier (if any) of that land to make such a submission,”.
 
-Subsection (7) is amended by the substitution of “the planning authority shall also notify the owner (if any) or, where the owner is not the occupier of the land, the occupier (if any) of its decision under subsection (6)” for “the planning authority shall also notify the owner and, where the owner is not the occupier of the land, the occupier of its decision under subsection (6)”.
+Subsection (7) is amended by the substitution of “the planning authority shall also notify the owner (if any) or, where the owner is not the occupier of the land, the occupier (if any) of its decision under subsection (6)” for “the planning authority shall also notify the owner and, where the owner is not the occupier of the land, the occupier of its decision under subsection (6)”. Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 35. Section Subsection (2A) is amended by— 176B
 
@@ -440,7 +440,7 @@ Subsection (6) is amended, in subparagraph (i) of paragraph (a), by—
 
 (b) the insertion, in subparagraph (iv), of “(if any)” after “occupier”.
 
-Subsection (8) is amended by the substitution of the following paragraph for paragraph (d): Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+Subsection (8) is amended by the substitution of the following paragraph for paragraph (d):
 
 “(d) where subsection (5) of section 176A applies, the owner (if any) and the occupier (if any) of the land that is the subject of the proposed development, and”.
 
@@ -450,7 +450,7 @@ Subsection (11) is amended, in subparagraph (i) of paragraph (a), by—
 
 (b) the insertion, in clause (III), of “(if any)” after “occupier”.
 
-37. Section Subsection (2) is amended, in paragraph (i), by the insertion 177K of “282(3) or 293(7)” after “section 34(4),”.
+37. Section Subsection (2) is amended, in paragraph (i), by the insertion 177K of “282(3) or 293(7)” after “section 34(4),”. Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 Subsection (3) is amended, in paragraph (a), by the insertion of “282(3) or 293(7), as may be appropriate,” after “section 34(4),”.
 
@@ -478,7 +478,7 @@ Subsection (3) is amended, in paragraph (a), by the insertion of “282(3) or 29
 
 (c) a requested alteration within the meaning of Chapter III of Part XXI;”.
 
-39. Section Subsection (2) is amended by— 177S Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+39. Section Subsection (2) is amended by— 177S
 
 (a) the substitution of “Subject to subsection (3), the competent authority” for “The competent authority”, and
 
@@ -486,7 +486,7 @@ Subsection (3) is amended, in paragraph (a), by the insertion of “282(3) or 29
 
 “(h) in relation to proposed development that may be carried out by a local authority under Part X or XAB or proposed development that may be carried out under Part XI, the Board.”.
 
-The following subsection is inserted:
+The following subsection is inserted: Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 “(3) The competent authority in the State for the purposes of this Part and Articles 6 and 7 of the Habitats Directive, shall, in relation to proposed development to which Chapter III of Part XXI applies, be the Board.”.
 
@@ -510,13 +510,13 @@ The following subsections are inserted:
 
 (b) is the owner of land on which it is proposed to carry out the development concerned, or
 
-(c) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned. Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(c) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned.
 
 (3B) The Board shall neither consider an application for permission under subsection (3) in relation to proposed development in the maritime area nor grant approval for such development under subparagraph (i), (ii) or (iii) of paragraph (a) of subsection (8), unless the applicant for such approval—
 
 (a) is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
 
-(b) is the owner of land on which it is proposed to carry out the development concerned, or
+(b) is the owner of land on which it is proposed to carry out the development concerned, or Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (c) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned.”.
 
@@ -536,7 +536,7 @@ The following subsections are inserted:
 
 (a) it is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
 
-(b) it is the owner of land on which it is proposed to carry out the development concerned, or Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(b) it is the owner of land on which it is proposed to carry out the development concerned, or
 
 (c) in circumstances where it proposes to carry out the development on land that it does not own, it carries out the development with the consent, or on behalf, of the owner of that land.
 
@@ -544,7 +544,7 @@ The following subsections are inserted:
 
 43. Section Subsection (3) is amended by the insertion of the following 179 paragraph:
 
-“(c) A report prepared in accordance with paragraph (a) shall—
+“(c) A report prepared in accordance with paragraph (a) shall— Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (i) in the case of development situated wholly within the maritime area—
 
@@ -554,11 +554,11 @@ The following subsections are inserted:
 
 (ii) in the case of development proposed to be situated partly on the landward side of a coastal planning authority’s functional area and partly in the maritime area—
 
-(I) contain an evaluation referred to in subparagraph (ii) of paragraph (b) and an evaluation of the consistency of the proposed development with principles of proper planning and sustainable development and objectives of maritime spatial planning, having regard to the National Planning Framework, the National Marine Planning Framework and any Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2) maritime spatial plan applicable to the maritime site in which it is proposed that the development would be carried out, and
+(I) contain an evaluation referred to in subparagraph (ii) of paragraph (b) and an evaluation of the consistency of the proposed development with principles of proper planning and sustainable development and objectives of maritime spatial planning, having regard to the National Planning Framework, the National Marine Planning Framework and any maritime spatial plan applicable to the maritime site in which it is proposed that the development would be carried out, and
 
 (II) specify the reasons and considerations for those evaluations, in addition to the matters referred to in subparagraphs (i), (iia), (iii), (iv) and (v) of paragraph (b).”.
 
-44. Section Subsection (1) is amended by the substitution of the following 181 subparagraph for subparagraph (vi) of paragraph (b):
+44. Section Subsection (1) is amended by the substitution of the following 181 subparagraph for subparagraph (vi) of paragraph (b): Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 “(vi) the reference to a specified person of any dispute or disagreement, with respect to the proposed development—
 
@@ -578,7 +578,7 @@ Subsection (2B) is amended—
 
 (ii) copy of the environmental impact assessment report (if any) and Natura impact statement (if any), and
 
-(iii) a notice stating that submissions or observations may, during the period referred to in subparagraph (ii) of paragraph (a), be made in writing to the Board in relation to the application for approval, to the Maritime Area Regulatory Authority, and”. Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(iii) a notice stating that submissions or observations may, during the period referred to in subparagraph (ii) of paragraph (a), be made in writing to the Board in relation to the application for approval, to the Maritime Area Regulatory Authority, and”.
 
 Subsection (2M) is amended by the insertion of the following paragraph:
 
@@ -586,7 +586,7 @@ Subsection (2M) is amended by the insertion of the following paragraph:
 
 (i) the Minister concerned,
 
-(ii) any coastal planning authority in whose nearshore area it is proposed that part of the development would be situated,
+(ii) any coastal planning authority in whose nearshore area it is proposed that part of the development would be situated, Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (iii) the Maritime Area Regulatory Authority, and
 
@@ -604,7 +604,7 @@ The following subsection is substituted for subsection (2AA):
 
 (ii) any such environmental impact assessment report,
 
-(iii) any such Natura impact statement, and Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(iii) any such Natura impact statement, and
 
 (iv) any such further information.”.
 
@@ -618,7 +618,7 @@ Subsection (3) is amended—
 
 (i) the substitution of the following clause for clause (I) of subparagraph (ii):
 
-“(I) the following were substituted for subsection (1):
+“(I) the following were substituted for subsection (1): Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 ‘(1) Where an appropriate assessment is required in respect of development (in this section referred to as “proposed development”) to which subsection (3) of section 181 applies, the Minister concerned (in this section referred to as the “Minister concerned”) within the meaning of that subsection shall prepare, or cause to be prepared, a Natura impact statement in respect thereof.’,”, and
 
@@ -628,13 +628,13 @@ Subsection (3) is amended—
 
 “(e) Where an application is made to the Board under this subsection, or where further information is required by and furnished to the Board in relation to an application made under this subsection, the Minister concerned shall at the same time forward a copy of the application, any environmental impact assessment report or Natura impact statement prepared in relation to the application and any further information provided in relation to the application, to—
 
-(i) the planning authority in whose functional area it is proposed to carry out the development, or Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(i) the planning authority in whose functional area it is proposed to carry out the development, or
 
 (ii) in the case of an application for approval for development in the outer maritime area, the Maritime Area Regulatory Authority, and the Board, and the planning authority or the Maritime Area Regulatory Authority (as may be appropriate), shall as soon as may be thereafter, publish on their internet websites and make available for inspection at their offices during normal office hours—
 
 (I) the application,
 
-(II) any environmental impact assessment report,
+(II) any environmental impact assessment report, Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (III) any Natura impact statement, and
 
@@ -656,7 +656,7 @@ Subsection (3) is amended—
 
 (a) is the holder of a maritime area consent granted for the occupation of the maritime site for the purposes of the proposed development,
 
-(b) is the owner of land on which it is proposed to carry out the development concerned, or Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(b) is the owner of land on which it is proposed to carry out the development concerned, or
 
 (c) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned.”.
 
@@ -664,7 +664,7 @@ Subsection (3) is amended—
 
 “(1A) An undertaker shall not be eligible to apply for approval referred to in subsection (1) for development in a maritime site and no such approval shall be given to him or her, unless he or she—
 
-(a) is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
+(a) is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development, Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (b) is the owner of land on which it is proposed to carry out the development concerned, or
 
@@ -684,7 +684,7 @@ Subsection (11) is amended, in paragraph (a), by the substitution of “section 
 
 49. Section Subsection (10) is amended by— 182D
 
-(a) the substitution of the following paragraph for paragraph (a): Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+(a) the substitution of the following paragraph for paragraph (a):
 
 “(a) in the case of proposed development on land or partly on land and partly in the nearshore area of a coastal planning authority, the development plan for the area,”, and
 
@@ -696,7 +696,7 @@ Subsection (11) is amended, in paragraph (a), by the substitution of “section 
 
 50. Section The following subsection is substituted for subsection (1): 247
 
-“(1) Subject to subsection (1A), a person who—
+“(1) Subject to subsection (1A), a person who— Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
 
 (a) has an interest (including a lease granted under section 2 of the Act of 1933, of a part of the foreshore that consists of, or includes, the maritime site on which it is proposed to carry out the development concerned) in land, or
 
@@ -706,6 +706,6 @@ Subsection (11) is amended, in paragraph (a), by the substitution of “section 
 
 (ii) a licence granted under section 3 of the Act of 1933 authorising the licensee to do any act or acts referred to in that section for the purposes of proposed development on, or in relation to, the maritime site in which the development is proposed to be situated, and who intends to make a planning application may, with the agreement (which shall not be unreasonably withheld) of the planning authority concerned, consult with the planning authority for the purposes of discussing any proposed development in relation to the land or maritime site, as the case may be, and the planning authority may advise the person regarding the proposed application.”.
 
-51. Section Subsection (1) is amended by the insertion of the following 250 paragraph: Reference Provision Extent of Amendment Number of Act of (3) 2000 (1) (2)
+51. Section Subsection (1) is amended by the insertion of the following 250 paragraph:
 
 “(dd) where the address at which he or she ordinarily resides cannot be ascertained by reasonable inquiry and the notice or copy is so required or authorised to be given or served in respect of any maritime site, by publishing the notice or copy on 7 consecutive days in a national newspaper;”.
