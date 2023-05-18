@@ -170,7 +170,7 @@ F31[Regulations for preventing, limiting, minimising or slowing spread of Covid-
 
 (iii) the extent to which the person guilty of the offence concerned refused to comply with lawful requests or directions of a member of the Garda Síochána.
 
-(13) (a) Regulations under subsection (1) may provide for their implementation and enforcement by a person (in this section referred to as a ‘relevant person’), or group of such relevant persons, as may be specified, and for this purpose different persons, or combinations of persons, may be so specified for different purposes in, or in relation to different provisions of, such regulations.
+(13) (a) Regulations under subsection (1) may provide for their implementation and enforcement by a person (in this section referred to as a "relevant person"), or group of such relevant persons, as may be specified, and for this purpose different persons, or combinations of persons, may be so specified for different purposes in, or in relation to different provisions of, such regulations.
 
 (b) Without prejudice to the generality of paragraph (a), persons who may be specified under this subsection include—
 
@@ -192,7 +192,7 @@ F31[Regulations for preventing, limiting, minimising or slowing spread of Covid-
 
 "event" means a gathering of persons, whether the gathering is for cultural, entertainment, recreational, sporting, commercial, work, social, community, educational, religious or other reasons, and includes but is not limited to a gathering which is required to be subject to a consent, licence or other form of permission granted in relation to it by any Minister of the Government or public body pursuant to any enactment or rule of law which provides for the regulation of proper planning and sustainable development, traffic management, sale of alcohol, safety and health at work or otherwise;
 
-‘event organiser’ means—
+"event organiser" means—
 
 (a) in relation to an event in a dwelling, a person who arranges, organises or manages the event, or otherwise causes or permits the event to take place, and
 

@@ -26,25 +26,25 @@ F42[Disapplication of certain provisions in respect of certain premises so as to
 
 (b) without prejudice to the generality of sections 31AC to 31AK, particularising or specifying further matters relating to the operation and enforcement, as the case may be, of any matters referred to in subsection (3);
 
-(c) prescribing additional classes of persons as permitted persons for the purposes of the definition of ‘permitted person’ which may, if appropriate, include persons who have received the results of medical tests the purpose of which is to detect the presence of Covid-19, or the virus SARS-CoV-2, in the person to whom the test was administered;
+(c) prescribing additional classes of persons as permitted persons for the purposes of the definition of "permitted person" which may, if appropriate, include persons who have received the results of medical tests the purpose of which is to detect the presence of Covid-19, or the virus SARS-CoV-2, in the person to whom the test was administered;
 
 (d) prescribing types or categories of information or proof, or classes of such information or proof, (including electronic documentation, one or more classes of EU Digital Covid Certificates, and vaccines or combinations of vaccines) for the purposes of—
 
-(i) the definition of ‘proof of immunity’, and
+(i) the definition of "proof of immunity", and
 
 (ii) allowing an indoor operator to ascertain whether or not a person is a permitted person;
 
 (e) prescribing an indoor premises, or a class of such premises—
 
-(i) as a relevant indoor premises for the purposes of paragraph (c) of the definition of ‘relevant indoor premises’, or
+(i) as a relevant indoor premises for the purposes of paragraph (c) of the definition of "relevant indoor premises", or
 
-(ii) as a premises to which the definition of ‘relevant indoor premises’ does not apply;
+(ii) as a premises to which the definition of "relevant indoor premises" does not apply;
 
 (f) prescribing additional conditions for the purposes of subsection (3)(e), including different conditions in respect of one or more classes of premises;
 
 (g) without prejudice to the generality of sections 31AD to 31AK, prescribing—
 
-(i) additional bodies for the purpose of paragraph (c) of the definition of ‘relevant body’, and the manner in which relevant bodies or compliance officers designated by a relevant body may carry out inspections of relevant indoor premises,
+(i) additional bodies for the purpose of paragraph (c) of the definition of "relevant body", and the manner in which relevant bodies or compliance officers designated by a relevant body may carry out inspections of relevant indoor premises,
 
 (ii) the manner in which relevant bodies or compliance officers may inspect and verify proof of immunity or proof that a person is a permitted person, for the purposes of investigating or monitoring compliance with the conditions referred to in subsection (3), and
 
@@ -58,11 +58,11 @@ F42[Disapplication of certain provisions in respect of certain premises so as to
 
 (h) prescribing guidelines set out by certain bodies (or specific parts of such guidelines) to which indoor operators are required to adhere for the purposes of the condition referred to in subsection (3)(d);
 
-(i) prescribing a class or classes of persons, as persons to whom, despite being in or at a relevant indoor premises in a professional capacity, in the course of their employment, or in fulfilment of a contract for services, paragraph (c) of the definition of ‘permitted person’ does not apply;
+(i) prescribing a class or classes of persons, as persons to whom, despite being in or at a relevant indoor premises in a professional capacity, in the course of their employment, or in fulfilment of a contract for services, paragraph (c) of the definition of "permitted person" does not apply;
 
-(j) prescribing an age under the age of 18 years for the purposes of ‘relevant minor’ within the meaning of paragraph (b) of the definition of ‘permitted person’;
+(j) prescribing an age under the age of 18 years for the purposes of "relevant minor" within the meaning of paragraph (b) of the definition of "permitted person";
 
-(k) prescribing a person other than a parent or guardian or person acting in loco parentis, in relation to a relevant minor, who may accompany such minor to a relevant indoor premises for the purposes of paragraph (b) of the definition of ‘permitted person’;
+(k) prescribing a person other than a parent or guardian or person acting in loco parentis, in relation to a relevant minor, who may accompany such minor to a relevant indoor premises for the purposes of paragraph (b) of the definition of "permitted person";
 
 (l) such additional, incidental, consequential or supplemental matters as the Minister considers necessary or expedient for the purposes of giving full effect to regulations under this section.
 

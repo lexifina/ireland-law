@@ -52,7 +52,7 @@ F61[Detention and isolation of persons in certain circumstances
 
 (10) In this section—
 
-‘potential source of infection’ means, in relation to a person, a person who meets one or more of the following criteria:
+"potential source of infection" means, in relation to a person, a person who meets one or more of the following criteria:
 
 (a) a person who has been in recent contact with a person whom the medical officer of health believes in good faith to be—
 
