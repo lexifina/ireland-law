@@ -40,6 +40,8 @@ Definitions.
 
 "indoor operator" means—
 
+OJ No. L 211, 15.06.2021, p. 1
+
 (a) in relation to a relevant indoor premises subject to a licence for the sale by retail of intoxicating liquor for consumption on or off the premises (whether granted on production or without production of a certificate of the Circuit Court or District Court), the holder of such a licence,
 
 (b) in relation to a relevant indoor premises registered under the Registration of Clubs Acts 1904 to 2008, every person whose name is entered in the register of clubs as an official or member of its committee of management or governing body at the material time,
@@ -72,7 +74,7 @@ Definitions.
 
 (a) a person in possession of a proof of immunity relating to that person,
 
-(b) a person under the age of 18 years, or such other age under the age of 18 years as may be prescribed, (in this paragraph referred to as a ‘relevant minor’) who accesses a relevant indoor premises—
+(b) a person under the age of 18 years, or such other age under the age of 18 years as may be prescribed, (in this paragraph referred to as a "relevant minor") who accesses a relevant indoor premises—
 
 (i) accompanied by his or her parent, guardian or a person acting in loco parentis, or
 
