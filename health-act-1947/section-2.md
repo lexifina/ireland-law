@@ -72,7 +72,7 @@ Definitions.
 
 (a) a person in possession of a proof of immunity relating to that person,
 
-(b) a person under the age of 18 years, or such other age under the age of 18 years as may be prescribed, (in this paragraph referred to as a ‘relevant minor’) who accesses a relevant indoor premises—
+(b) a person under the age of 18 years, or such other age under the age of 18 years as may be prescribed, (in this paragraph referred to as a "relevant minor") who accesses a relevant indoor premises—
 
 (i) accompanied by his or her parent, guardian or a person acting in loco parentis, or
 
