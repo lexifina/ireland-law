@@ -16,15 +16,13 @@ Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
 Relations Act 2015
 
-Reference Number Short title Extent of Amendment and (1) (3) (4) Year
-
-(2)
-
 45A. A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of an employment regulation order in relation to a worker shall do one or more of the following, namely—
 
 (a) declare that the complaint was or, as the case may be, was not well founded,
 
-(b) require the employer to comply with the employment regulation order, or
+(b) require the employer to comply with the employment regulation order, or Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+
+(2)
 
 (c) require the employer to pay to the worker compensation of such amount (if any) as the adjudication officer considers just and equitable having regard to all of the circumstances, but not exceeding 2 years’ remuneration in respect of the worker’s employment calculated in accordance with regulations under section 17 of the Unfair Dismissals Act 1977.”.
 
@@ -38,11 +36,9 @@ The following section is substituted for section 45B:
 
 Relations Act 2015
 
-Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+12. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 4(2) or 5 may, where the adjudication officer finds that that section was contravened by the employer in relation to the employee who presented the complaint, include a direction that the employer concerned pay to the employee compensation for any loss sustained by the employee by reason of the contravention. Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
 (2)
-
-12. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 4(2) or 5 may, where the adjudication officer finds that that section was contravened by the employer in relation to the employee who presented the complaint, include a direction that the employer concerned pay to the employee compensation for any loss sustained by the employee by reason of the contravention.
 
 (2) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute as to the entitlements of an employer under section 6 may include such directions as the adjudication officer considers appropriate.”.
 
@@ -58,11 +54,11 @@ Relations Act 2015
 
 11A. A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 9 or 10 shall do one or more of the following, namely—
 
-(a) declare that the complaint is or, as the case may be, is not well founded, Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+(a) declare that the complaint is or, as the case may be, is not well founded,
+
+(b) require the employer to comply with the provision of the Act of 1977 concerned and, for that purpose, to take a specified course of action, Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
 (2)
-
-(b) require the employer to comply with the provision of the Act of 1977 concerned and, for that purpose, to take a specified course of action,
 
 (c) require the employer to pay to the employee compensation of such amount (if any) as is just and equitable having regard to all of the circumstances, but not exceeding 4 weeks’ remuneration in respect of the employee’s employment calculated in accordance with regulations under section 17 of the Unfair Dismissals Act 1977.
 
@@ -74,11 +70,11 @@ Decision of Labour Court on appeal from decision referred to in section 11A
 
 Relations Act 2015
 
-6. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015, in relation to a complaint of a contravention of section 5 as respects a deduction made by an employer from the wages of an employee or the receipt from an employee by an employer of a payment, that the complaint is, in whole or in part, well founded as respects the deduction or payment shall include a direction to the employer to pay to the employee compensation of such amount (if any) as he considers reasonable in the circumstances not exceeding— Reference Number Short title Extent of Amendment and (1) (3) (4) Year
+6. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015, in relation to a complaint of a contravention of section 5 as respects a deduction made by an employer from the wages of an employee or the receipt from an employee by an employer of a payment, that the complaint is, in whole or in part, well founded as respects the deduction or payment shall include a direction to the employer to pay to the employee compensation of such amount (if any) as he considers reasonable in the circumstances not exceeding—
+
+(a) the net amount of the wages (after the making of any lawful deduction therefrom) that— Reference Number Short title Extent of Amendment and (1) (3) (4) Year
 
 (2)
-
-(a) the net amount of the wages (after the making of any lawful deduction therefrom) that—
 
 (i) in case the complaint related to a deduction, would have been paid to the employee in respect of the week immediately preceding the date of the deduction if the deduction had not been made, or
 
