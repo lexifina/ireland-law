@@ -80,7 +80,7 @@ Part 2
 
 6. ...
 
-7. Regulation 39(1) of the European Communities (Cross-Border Mergers) Regulations 2008 (S.I. No. 157 of 2008)
+7. Regulation 89(1) of the European Union (Cross-Border Conversions, Mergers and Divisions) Regulations 2023 (S.I. No. 233 of 2023)
 
 8. European Communities (Working Conditions of Mobile Workers engaged in Interoperable Cross-border Services in the Railway Sector) Regulations 2009 (S.I. No. 377 of 2009)
 
