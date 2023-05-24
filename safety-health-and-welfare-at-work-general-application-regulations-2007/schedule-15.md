@@ -116,7 +116,9 @@ Wind Turbines
 
 “wind turbine tower” means that part of a wind turbine that supports the nacelle, rotor and blades.
 
-GIVEN under my hand 14th June 2007
+GIVEN under my hand
+
+14th June 2007
 
 TONY KILLEEN
 
@@ -266,4 +268,40 @@ Employers are required to classify places at the workplace where explosive atmos
 
 (b) ‘Protective systems’ means design units which are intended to halt incipient explosions immediately and/or to limit the effective range of explosion flames and explosion pressures. Protective systems may be integrated into equipment or separately placed on the market for use as autonomous systems.
 
-13. Subject to the particular periods referred to in Regulations 9, 122 and 134, these Safety, Health and Welfare at Work (General Application) Regulations 2007 come into operation on 1 November 2007.
+13. Subject to the particular periods referred to in Regulations 9, 122 and 134, these Safety, Health and Welfare at Work (General Application) Regulations 2007 come into operation on 1 November 2007. S.I. No. 299 of 2007
+
+SAFETY, HEALTH AND WELFARE AT WORK (GENERAL APPLICATION) REGULATIONS 2007
+
+About this Revised Statutory Instrument
+
+This Revised Statutory Instrument presents the text of the instrument as it has been amended, and preserves the format in which it was made.
+
+Related legislation
+
+Safety, Health and Welfare at Work (General Application) Regulations 2007 to 2023: this statutory instrument is one of a group of statutory instruments included in this collective citation, to be construed together as one (Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2023 (S.I. No. 255 of 2023), reg. 1(2). The instruments in this group are:
+
+• Safety, Health and Welfare at Work (General Application) Regulations 2007 (S.I. No. 299 of 2007) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2007 (S.I. No. 732 of 2007) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2010 (S.I. No. 176 of 2010) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2012 (S.I. No. 445 of 2012) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2016 (S.I. No. 36 of 2016) • Safety, Health and Welfare at Work (General Application) (Amendment) (No. 2) Regulations 2016 (S.I. No. 70 of 2016) • Safety, Health and Welfare at Work (General Application) (Amendment) (No. 3) Regulations 2016 (S.I. No. 370 of 2016) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2020 (S.I. No. 2 of 2020) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2021 (S.I. No. 610 of 2021) • Safety, Health and Welfare at Work (General Application) (Amendment) (No. 2) Regulations 2021 (S.I. No. 619 of 2021) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2023 (S.I. No. 255 of 2023)
+
+Annotations
+
+This Revised Statutory Instrument is annotated and includes textual and non-textual amendments and previous affecting provisions. An explanation of how to read annotations is available at www.lawreform.ie/annotations.
+
+Material not updated in this revision
+
+Where other legislation is amended by this statutory instrument, those amendments may have been superseded by other amendments in other legislation, or the amended legislation may have been repealed or revoked. This information is not represented in this revision but will be reflected in a revision of the amended legislation if one is available.
+
+Where legislation or a fragment of legislation is referred to in annotations, changes to this legislation or fragment may not be reflected in this revision but will be reflected in a revision of the legislation referred to if one is available.
+
+A list of legislative changes to any Act, and to statutory instruments from 1972, may be found linked from the page of the Act or statutory instrument at www.irishstatutebook.ie.
+
+Acts which affect or previously affected this revision
+
+None.
+
+All Acts up to and including Social Welfare (Child Benefit) Act 2023 (13/2023), enacted 25 May 2023, were considered in the preparation of this revision.
+
+Statutory instruments which affect or previously affected this revision
+
+• Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2023 (S.I. No. 255 of 2023) • Safety, Health and Welfare at Work (General Application) (Amendment) (No. 2) Regulations 2021 (S.I. No. 619 of 2021) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2021 (S.I. No. 610 of 2021) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2020 (S.I. No. 2 of 2020) • Safety, Health and Welfare at Work (Mines) Regulations 2018 (S.I. No. 133 of 2018) • Safety, Health and Welfare at Work (General Application) (Amendment) (No. 3) Regulations 2016 (S.I. No. 370 of 2016) • Safety, Health and Welfare at Work (General Application) (Amendment) (No. 2) Regulations 2016 (S.I. No. 70 of 2016) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2016 (S.I. No. 36 of 2016) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2012 (S.I. No. 445 of 2012) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2010 (S.I. No. 176 of 2010) • Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2007 (S.I. No. 732 of 2007)
+
+All statutory instruments up to and including Safety, Health and Welfare at Work (General Application) (Amendment) Regulations 2023 (S.I. No. 255 of 2023), made 24 May 2023, were considered in the preparation of this revision.
