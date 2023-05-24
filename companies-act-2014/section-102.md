@@ -14,11 +14,13 @@ Company acquiring its own shares, etc. — permissible circumstances and prohibi
 
 (e) by purchase under section 105;
 
-(f) where those shares are preference shares referred to in section 108, by redemption under that section; or
+(f) where those shares are preference shares referred to in section 108, by redemption under that section; ...
 
-(g) pursuant to a merger or division under Chapter 3 or 4 of Part 9.
+(g) pursuant to a merger or division under Chapter 3 or 4 of Part 9; or
 
-(2) Without prejudice to the powers of a company with respect to forfeiture of its own shares as provided by this Part or to accept any of its own shares surrendered in lieu for failure to pay any sum payable in respect of those shares, a company may not acquire any of its own shares otherwise than as described in the preceding subsection, but nothing in that subsection or any other provision of this section affects the lawfulness of a merger effected in accordance with Chapter 3 of Part 9 or a scheme of arrangement sanctioned under that Part.
+(h) pursuant to a conversion, merger or division under the European Union (Cross-Border Conversions, Mergers and Divisions) Regulations 2023 (S.I. No. 233 of 2023).
+
+(2) Without prejudice to the powers of a company with respect to forfeiture of its own shares as provided by this Part or to accept any of its own shares surrendered in lieu for failure to pay any sum payable in respect of those shares, a company may not acquire any of its own shares otherwise than as described in the preceding subsection, but nothing in that subsection or any other provision of this section affects the lawfulness of a merger effected in accordance with Chapter 3 of Part 9 or a scheme of arrangement sanctioned under that Part, or a conversion, merger or division effected in accordance with the European Union (Cross-Border Conversions, Mergers and Divisions) Regulations 2023 (S.I. No. 233 of 2023).
 
 (3) If a company purports to act in contravention of subsection (2), the company and any officer of it who is in default shall be guilty of a category 2 offence and the purported acquisition is void.
 

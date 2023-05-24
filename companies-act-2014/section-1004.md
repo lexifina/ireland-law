@@ -16,7 +16,7 @@ Way of forming a PLC
 
 (c) the division of a body corporate pursuant to Chapter 17, or
 
-(d) the merger operation provided for by the European Communities (Cross- Border Mergers) Regulations 2008 (S.I. No. 157 of 2008).
+(d) the merger, conversion or division operation provided for by the European Union (Cross-Border Conversions, Mergers and Divisions) Regulations 2023 (S.I. No. 233 of 2023).
 
 (3) The liability of a member of a PLC at any time shall be limited to the amount, if any, unpaid on the shares registered in the member’s name at that time.
 

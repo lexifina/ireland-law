@@ -30,11 +30,11 @@ Expert's report on non-cash consideration before allotment of shares
 
 (7) Where the allotment of shares by a PLC is in connection with—
 
-(a) a proposed merger, where that company was formed as a successor company for the purpose of the proposed merger, the merger being a merger by formation of a new company within the meaning of Chapter 16 or the European Communities (Cross-Border Mergers) Regulations 2008 (S.I. No. 157 of 2008);
+(a) a proposed merger, where that company was formed as a successor company for the purpose of the proposed merger, the merger being a merger by formation of a new company within the meaning of Chapter 16 or a cross-border merger (within the meaning of the European Union (Cross-Border Conversions, Mergers and Divisions) Regulations 2023 (S.I. No. 233 of 2023)) which is a merger by formation of a new company;
 
 (b) a proposed merger of that company with another company; or
 
-(c) a proposed division of that company; the valuation and report required by subsection (1) may be made by the person appointed pursuant to section 1133 or 1155 or an expert within the meaning of Regulation 7 of the foregoing Regulations, in which case the person so appointed shall be deemed to be an independent person for the purposes of subsection (5).
+(c) a proposed division of that company; the valuation and report required by subsection (1) may be made by the person appointed pursuant to section 1133 or 1155 or an expert within the meaning of Regulation 30 of the foregoing Regulations, in which case the person so appointed shall be deemed to be an independent person for the purposes of subsection (5).
 
 (8) For the purposes of subsection (7) there is a proposed merger of a PLC with a company when one of them proposes to acquire all the assets and liabilities of the other in exchange for the issue of shares or other securities in that one to shareholders of the other, with or without any cash payment to those shareholders.
 
