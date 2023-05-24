@@ -12,7 +12,7 @@ PART 1 — RECKONABLE COMPONENTS
 
 4. The monetary value of board with lodgings or board only or lodgings only, not exceeding the amount, if any, prescribed for the purposes of this item.
 
-5. The amount of any service charge distributed to the employee through the payroll.
+5. The amount of any service charge distributed to the employee through the payroll (excluding any charge distributed by the employer to which section 4D(1) of the Payment of Wages Act 1991 applies).
 
 6. Any payments under section 18 of the Organisation of Working Time Act, 1997 (zero hour protection).
 
@@ -30,11 +30,17 @@ PART 2 — NON-RECKONABLE COMPONENTS
 
 4. Unsocial hours premium.
 
-5. Any amount distributed to the employee of tips or gratuities paid into a central fund managed by the employer and paid through the payroll.
+5. Any amount of —
+
+(a) a tip or gratuity (within the meaning of section 1 of the Payment of Wages Act 1991) paid into a central fund managed by the employer and distributed to the employee through the payroll, or
+
+(b) a charge distributed by the employer (to which section 4D(1) of that Act applies).
 
 6. Public holiday premium, Saturday premium and Sunday premium, where any such holidays or days are worked.
 
-7. Allowances for special or additional duties including those of a post of responsibility. 8. Any payment of expenses incurred by the employee in carrying out his or her employment, including travel allowance, subsistence allowance, tool allowance and clothing allowance.
+7. Allowances for special or additional duties including those of a post of responsibility.
+
+8. Any payment of expenses incurred by the employee in carrying out his or her employment, including travel allowance, subsistence allowance, tool allowance and clothing allowance.
 
 9. On-call or standby allowance.
 
