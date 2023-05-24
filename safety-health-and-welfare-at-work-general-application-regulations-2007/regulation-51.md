@@ -1,4 +1,4 @@
-Lifting equipment—signalling and operation.
+Lifting equipment— signalling and operation.
 
 51. An employer shall ensure that—
 

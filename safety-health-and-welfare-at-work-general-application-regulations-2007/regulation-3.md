@@ -8,9 +8,7 @@ Revocations and savings.
 
 (c) Factories Act 1955 (Lifts) (Exemption) Order 1960 (S.I. No. 129 of 1960),
 
-(d) Regulations 22 to 35 and 37 and 38 and the Schedule to the Docks (Safety, Health and Welfare) Regulations 1960 (S.I. No. 279 of 1960),
-
-(e )Factories Act, 1955 (Hoistways) (Exemption) Order 1962 (S.I. No. 211 of 1962),
+(d) Regulations 22 to 35 and 37 and 38 and the Schedule to the Docks (Safety, Health and Welfare) Regulations 1960 (S.I. No. 279 of 1960), (e )Factories Act, 1955 (Hoistways) (Exemption) Order 1962 (S.I. No. 211 of 1962),
 
 (f) Quarries (Electricity) Regulations 1972 (S.I. No. 50 of 1972),
 

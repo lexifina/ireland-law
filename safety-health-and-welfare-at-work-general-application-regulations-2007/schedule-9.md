@@ -230,9 +230,7 @@ The red area shall be sufficiently large to allow the equipment to be identified
 
 Part E — Signs used for obstacles and dangerous locations and for marking traffic routes
 
-1. Signs for obstacles and dangerous locations
-
-1.1 Places where there is a risk of colliding with obstacles, of falling or of objects falling shall be marked with alternating yellow and black, or red and white stripes in built up zones in the place of work to which employees have access during their work.
+1. Signs for obstacles and dangerous locations 1.1 Places where there is a risk of colliding with obstacles, of falling or of objects falling shall be marked with alternating yellow and black, or red and white stripes in built up zones in the place of work to which employees have access during their work.
 
 1.2. The dimensions of the markings shall be commensurate with the scale of the obstacle or dangerous location in question.
 

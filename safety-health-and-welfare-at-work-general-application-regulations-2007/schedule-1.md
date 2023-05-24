@@ -4,17 +4,19 @@ REQUIREMENTS FOR WORK EQUIPMENT
 
 Part A — Exemption from certain provisions of Regulation 46
 
-Class or description of hoist Requirements of Regulation 46 Condition or hoistway which do not apply
+Class or description of hoist or
+
+Requirements of Regulation 46 Condition hoistway which do not apply
 
 1. Pavement hoist for goods. Paragraph (2)(a) in so far as it The hoistway shall be securely requires the hoistway to be covered and fastened at the top Hoistways of pavement hoists, protected by an enclosure and landing except when access is that is to say, hoists in the case gate at or above the top landing. required for goods or materials. of which the provision of a permanent enclosure at the top Paragraph (2)(b) in the case of Measures shall be taken to landing would obstruct a street the top landing. minimise the risk of persons or public place or yard or other falling down the hoistway whilst open space where persons are the top landing is open. required or liable to pass.
 
 2. Hoists used solely for lifting Paragraph (2)(a) and (b). Measures shall be taken to material directly into a machine. prevent hazards from falling objects or contact with moving parts.
 
-3. Hoists used for raising or Paragraph (2)(a), (b) and (h)(ii). So far as is reasonably practica-lowering or tipping-standard ble, means shall be provided at gauge or broader gauge railway such entrances to the enclosure rolling stock. to prevent any person from falling down the hoistway or being struck by any moving part of the hoist.
+3. Hoists used for raising or Paragraph (2)(a), (b) and (h)(ii). So far as is reasonably lowering or tipping-standard practicable, means shall be gauge or broader gauge railway provided at such entrances to the rolling stock. enclosure to prevent any person from falling down the hoistway or being struck by any moving part of the hoist.
 
-4. Drop-pit hoists used for rais- Paragraph (2)(a), (b) and (h)(ii) ing or lowering wheels or bogies and (iii). detached from standard-gauge or broader gauge railway rolling stock.
+4. Drop-pit hoists used for Paragraph (2)(a), (b) and (h)(ii) raising or lowering wheels or and (iii). bogies detached from standard-gauge or broader gauge railway rolling stock.
 
-5. Hoistways of hoists into or Paragraph (2)(a) in so far as it So far as is reasonably practica-from which goods or materials requires the fitting of gates at ble, means shall be provided at are loaded or unloaded automat-the openings in the enclosure such openings to the hoistway to ically and to the carrier to which where goods or materials are prevent any person from falling there is no access for persons. loaded or unloaded. down the hoistway or being struck by any moving part of the hoist.
+5. Hoistways of hoists into or Paragraph (2)(a) in so far as it So far as is reasonably from which goods or materials requires the fitting of gates at practicable, means shall be are loaded or unloaded the openings in the enclosure provided at such openings to the automatically and to the carrier where goods or materials are hoistway to prevent any person to which there is no access for loaded or unloaded. from falling down the hoistway or persons. being struck by any moving part of the hoist.
 
 6. Any hoist or lift used to raise Paragraphs (2)(a), (b) and (c). a motor vehicle.
 
@@ -22,9 +24,11 @@ Class or description of hoist Requirements of Regulation 46 Condition or hoistwa
 
 Part B — Period of thorough examination of lifting equipment, lifting accessory equipment or other miscellaneous equipment
 
-Column 1 Column 2 Description of lifting equipment or
+Column 1 Column 2
 
-Period within which a thorough examination lifting accessory or other miscellaneous must occur equipment
+Description of lifting equipment or lifting
+
+Period within which a thorough examination accessory or other miscellaneous equipment must occur
 
 Hoist or Lift 6 months
 
@@ -36,7 +40,7 @@ Mast climbing work platform 6 months
 
 Lifting accessories including chains, ropes, 6 months rings, hooks, shackles, clamps, swivels, spreader beams and spreader frames, vacuum lifting devices
 
-Items provided for support of lifting equip- 12 months ment
+Items provided for support of lifting 12 months equipment
 
 Mobile elevating work platform 6 months
 
@@ -60,7 +64,7 @@ Other lifting machines (materials only) unless 12 months specified in Part D of 
 
 Other lifting machines (personnel) unless 6 months specified in Part D of this Schedule
 
-Equipment located in premises used primar- In compliance with a scheme of inspection ily for generating, transforming switching or and testing drawn up by a competent person otherwise regulating electrical energy.
+Equipment located in premises used primarily In compliance with a scheme of inspection for generating, transforming switching or and testing drawn up by a competent person otherwise regulating electrical energy.
 
 Patient hoist 6 months
 

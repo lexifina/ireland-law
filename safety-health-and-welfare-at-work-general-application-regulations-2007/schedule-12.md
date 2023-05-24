@@ -112,7 +112,7 @@ Period within which an examination must occur
 
 Category 1 Steam and hot water boilers such as 14 months shell boilers (fired or unfired, horizontal or vertical), watertube boilers, cast iron sectional boilers.Superheaters and economisers connected to boilers in this category and steam tube ovens or hotplates.Self generating autoclaves and self generating jacketed pans.Coil steam generators.
 
-Category 2 Steam receivers, air receivers, auto- 26 months claves, jacketed pans and steam accumulators. All other pressure vessels not listed in Category 1.
+Category 2 Steam receivers, air receivers, 26 months autoclaves, jacketed pans and steam accumulators. All other pressure vessels not listed in Category 1.
 
 *Note: The period for any particular piece of equipment maybe subject to change pursuant to the application of Regulation 191(3)
 

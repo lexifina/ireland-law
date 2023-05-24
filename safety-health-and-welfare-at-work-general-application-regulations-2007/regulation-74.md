@@ -10,7 +10,7 @@ Interpretation for Part 3.
 
 (b) either an employer, a self-employed person, or an employee appointed or selected by the employer or self-employed person, and
 
-(c) engaged in work or duties incidental to the generation, transformation, conversion switching, controlling, regulating, rectification, storage, transmission, distribution provision, measurement or use of electrical energy;
+(c) engaged in work or duties incidental to the generation, transformation, conversion switching, controlling , regulating, rectification, storage, transmission, distribution provision, measurement or use of electrical energy;
 
 “circuit” means part of an electrical installation supplied from the same origin, which may be protected against overcurrents by the same protective device;
 

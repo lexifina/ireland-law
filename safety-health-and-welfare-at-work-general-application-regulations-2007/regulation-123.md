@@ -6,7 +6,9 @@ Exposure limit values and exposure action values.
 
 LEX,8h = 87 dB(A) and ppeak = 140dB(C) in relation to 20 μPa;
 
-(b) upper exposure action values— LEX,8h = 85 dB(A) and ppeak = 137dB(C) in relation to 20 μPa;
+(b) upper exposure action values—
+
+LEX,8h = 85 dB(A) and ppeak = 137dB(C) in relation to 20 μPa;
 
 (c) lower exposure action values—
 

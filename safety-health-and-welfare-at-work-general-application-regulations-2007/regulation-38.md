@@ -10,4 +10,4 @@ Roll-over of mobile work equipment.
 
 (2) The protection structures referred to in paragraph (1) may be an integral part of the work equipment but are not required when the work equipment is stabilised during operation or where the design makes roll over impossible.
 
-(3) An employer shall ensure that where there is a risk of a ride-on employee being crushed between parts of the work equipment and the ground should the equipment roll over a restraining system for the ride-on employees is installed.
+(3) An employer shall ensure that, where there is a risk of a ride-on employee being crushed between parts of the work equipment and the ground should the equipment roll over, a restraining system for the ride-on employees is installed.

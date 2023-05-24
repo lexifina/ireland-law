@@ -204,15 +204,15 @@ G integrated radiance: the integral of the radiance over a given exposure time e
 
 Table 2.1: Radiation hazards
 
-Wavelength [nm] λ Radiation- Affected Hazard Exposure range organ limit value table
+Wavelength [nm] Radiationrange Affected Hazard Exposure λ organ limit value table
 
-180 to 400 UV eye photochemical damage 2.2, 2.3 and thermal damage
+180 to 400 UV eye photochemical 2.2, 2.3 damage and thermal damage
 
 180 to 400 UV skin erythema 2.4
 
 400 to 700 visible eye retinal damage 2.2
 
-400 to 600 visible eye photochemical damage 2.3
+400 to 600 visible eye photochemical 2.3 damage
 
 400 to 700 visible skin thermal damage 2.4
 

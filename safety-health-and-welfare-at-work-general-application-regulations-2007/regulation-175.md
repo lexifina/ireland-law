@@ -22,11 +22,11 @@ Coordination at workplaces.
 
 “level” means the combination of irradiance, radiant exposure and radiance to which an employee is exposed;
 
-2 OJ L114 27.04.2006, p.38
-
 “non-coherent radiation” means any optical radiation other than laser radiation;
 
 “optical radiation” means any electromagnetic radiation in the wavelength range between 100 nm and 1 mm. The spectrum of optical radiation is divided into ultraviolet radiation, visible radiation and infrared radiation:
+
+2 OJ L114 27.04.2006, p.38
 
 (a) ultraviolet radiation: optical radiation of wavelength range between 100 nm and 400nm. The ultraviolet region is divided into UVA (315-400 nm), UVB (280315 nm) and UVC (100-280 nm);
 

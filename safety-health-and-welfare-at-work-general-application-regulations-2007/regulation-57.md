@@ -1,4 +1,4 @@
-Construction, testing, examination and safe working load of lifting accessories.
+Construction, testing , examination and safe working load of lifting accessories.
 
 57. (1) An employer shall ensure that—
 
