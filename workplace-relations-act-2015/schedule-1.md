@@ -116,16 +116,14 @@ Statutory Instruments
 
 7. European Communities (Organisation of Working Time) (Mobile Staff in Civil Aviation) Regulations 2006 (S.I. No. 507 of 2006)
 
-8. European Communities (European Public Limited - Liability Company) (Employee Involvement) Regulations 2006 (S.I. No. 623 of 2006)
-
-9. European Communities (European Cooperative Society) (Employee Involvement) Regulations 2007 (S.I. No. 259 of 2007)
+8. European Communities (European Public Limited - Liability Company) (Employee Involvement) Regulations 2006 (S.I. No. 623 of 2006) 9. European Communities (European Cooperative Society) (Employee Involvement) Regulations 2007 (S.I. No. 259 of 2007)
 
 10. ...
 
-11. European Communities (Cross-Border Mergers) Regulations 2008 (S.I. No. 157 of 2008)
+11. European Union (Cross-Border Conversions, Mergers and Divisions) Regulations 2023 (S.I. No. 233 of 2023)
 
 12. European Communities (Working Conditions of Mobile Workers engaged in Interoperable Cross-border Services in the Railway Sector) Regulations 2009 (S.I. No. 377 of 2009)
 
 13. European Communities (Road Transport) (Organisation of Working Time of Persons Performing Mobile Road Transport Activities) Regulations 2012 (S.I. No. 36 of 2012)
 
-14.European Union (Posting of Workers) Regulations 2016 (S.I. No. 412 of 2016)
+14. European Union (Posting of Workers) Regulations 2016 (S.I. No. 412 of 2016)
