@@ -98,7 +98,7 @@ Statutory Instruments
 
 5. In relation to a complaint of a contravention of Article 16(9) of Regulation (EU) No. 376/2014 of the European Parliament and of the Council of 3 April 2014, paragraph 1 of the Schedule to the European Union (Reporting, Analysis and Follow-up of Occurrences in Civil Aviation) Regulations 2020 (S.I. No. 195 of 2020)
 
-6. Paragraph 2 of Schedule 2 to the European Communities (Cross-Border Mergers) Regulations 2008 (S.I. No. 157 of 2008)
+6. Paragraph 2 of Schedule 3 to the European Union (Cross-Border Conversions, Mergers and Divisions) Regulations 2023 (S.I. No. 233 of 2023)
 
 7. Regulation 8 of the European Communities (Working Conditions of Mobile Workers engaged in Interoperable Cross-Border Services in the Railway Sector) Regulations 2009 (S.I. No. 377 of 2009)
 
@@ -198,7 +198,7 @@ Statutory Instruments
 
 5. In relation to a complaint of a contravention of Article 16(9) of Regulation (EU) No. 376/2014 of the European Parliament and of the Council of 3 April 2014, paragraph 2 of the Schedule to the European Union (Reporting, Analysis and Follow-up of Occurrences in Civil Aviation) Regulations 2020 (S.I. No. 195 of 2020).
 
-6. Paragraph 3 of Schedule 2 to the European Communities (Cross-Border Mergers) Regulations 2008 (S.I. No. 157 of 2008)
+6. Paragraph 3 of Schedule 3 to the European Union (Cross-Border Conversions, Mergers and Divisions) Regulations 2023 (S.I. No. 233 of 2023)
 
 7. Regulation 9 of the European Communities (Working Conditions of Mobile Workers engaged in Interoperable Cross-Border Services in the Railway Sector) Regulations 2009 (S.I. No. 377 of 2009)
 
