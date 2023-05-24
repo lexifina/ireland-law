@@ -9,3 +9,5 @@ Ventilation of enclosed places of work.
 (c) if air-conditioning or mechanical ventilation installations are used, they operate in such a way that employees are not exposed to draughts which cause discomfort, and
 
 (d) any deposit or dirt likely to create an immediate danger to the safety and health of employees by polluting the atmosphere is removed without delay.
+
+(e) for the purposes of this Regulation, those measures to ensure sufficient fresh air is provided in enclosed places of work shall take into account those set out in a relevant code of practice.

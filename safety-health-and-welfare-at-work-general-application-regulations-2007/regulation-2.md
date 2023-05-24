@@ -28,6 +28,8 @@ Interpretation.
 
 “Regulations of 2013” means the Safety, Health and Welfare at Work (Biological Agents) Regulations 2013 (S.I. No. 572 of 2013);
 
+”relevant code of practice“means a code of practice, relating to these Regulations, published under section 60 of the Act;
+
 “road authority” means a county council, a city council or a town council (within the meaning of the Local Government Act 2001 (No. 37 of 2001)) other than the council of a town mentioned in Part 2 of Schedule 6 to that Act;
 
 “work equipment” means any machinery, appliance, apparatus, tool or installation for use at work.
@@ -37,3 +39,5 @@ Interpretation.
 (3) Without prejudice to the generality of section 19 of the Act, an employer shall, in identifying hazards and assessing risks under that section, take account of particular risks if any, affecting employees working alone at the place of work or working in isolation at remote locations.
 
 (4) Any reference in these Regulations to provisions encompassed in the generality of the Act shall be without prejudice to the requirements of those provisions in the Act.
+
+(5) For the purposes of these Regulations, an employer shall take into account those measures set out in a relevant code of practice.
