@@ -2,7 +2,7 @@
 
 Irish National Accreditation Board
 
-56A. (1) The committee established as a committee of Forfás by resolution of the Board of Forfás pursuant to section 10 (amended by section 46 of the Industrial Development (Enterprise Ireland) Act 1998) of the Act of 1993 and known as the Irish National Accreditation Board shall on the coming into operation of this section—
+56A.—(1) The committee established as a committee of Forfás by resolution of the Board of Forfás pursuant to section 10 (amended by section 46 of the Industrial Development (Enterprise Ireland) Act 1998) of the Act of 1993 and known as the Irish National Accreditation Board shall on the coming into operation of this section—
 
 (a) become and be a committee of the Authority under this section, and
 

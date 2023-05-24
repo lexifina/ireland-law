@@ -1,6 +1,6 @@
 Liability for loss
 
-56D. (1) A claim in respect of any loss or injury alleged to have been suffered by any person arising out of the performance, by or on behalf of Forfás before the coming into operation of this section, of the functions referred to in section 34(1)(de) (inserted by section 30 of the Industrial Development (Forfás Dissolution) Act 2014) shall on and after that coming into operation lie against the Authority and not against Forfás.
+56D.—(1) A claim in respect of any loss or injury alleged to have been suffered by any person arising out of the performance, by or on behalf of Forfás before the coming into operation of this section, of the functions referred to in section 34(1)(de) (inserted by section 30 of the Industrial Development (Forfás Dissolution) Act 2014) shall on and after that coming into operation lie against the Authority and not against Forfás.
 
 (2) Any legal proceedings pending immediately before the coming into operation of this section to which Forfás is a party, that relate to any of the functions referred to in section 34(1)(de) (inserted by section 30 of the Industrial Development (Forfás Dissolution) Act 2014), shall be continued with the substitution in the proceedings of the Authority, in so far as they so relate, for Forfás.
 

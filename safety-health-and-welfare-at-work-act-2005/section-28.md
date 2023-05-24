@@ -1,6 +1,6 @@
 [Decision of adjudication officer under section 41 of Workplace Relations Act 2015.]
 
-28. A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 27 shall do one or more of the following, namely—
+28.—A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a complaint of a contravention of section 27 shall do one or more of the following, namely—
 
 (a) declare that the complaint was or, as the case may be, was not well founded,
 

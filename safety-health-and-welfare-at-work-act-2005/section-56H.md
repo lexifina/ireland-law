@@ -1,6 +1,6 @@
 Appeal to Appeals Board
 
-56H. (1) A conformity assessment body may make an appeal to the Appeals Board in respect of—
+56H.—(1) A conformity assessment body may make an appeal to the Appeals Board in respect of—
 
 (a) a decision of the Accreditation Board in respect of accreditation in relation to the body, or
 

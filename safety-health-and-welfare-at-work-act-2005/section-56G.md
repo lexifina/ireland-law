@@ -1,6 +1,6 @@
 Appeals Board
 
-56G. (1) Subject to subsection (2), the Authority shall, as soon as practicable after the coming into operation of this section, establish an Appeals Board and shall appoint 3 people to the Appeals Board with a special interest or expertise in, or knowledge of, the functions referred to in section 34(1) (de) (inserted by section 30 of the Industrial Development (Forfás Dissolution) Act 2014).
+56G.—(1) Subject to subsection (2), the Authority shall, as soon as practicable after the coming into operation of this section, establish an Appeals Board and shall appoint 3 people to the Appeals Board with a special interest or expertise in, or knowledge of, the functions referred to in section 34(1) (de) (inserted by section 30 of the Industrial Development (Forfás Dissolution) Act 2014).
 
 (2) The Authority shall not appoint a member of the Authority, the Chief Executive, a member of the staff of the Authority or a member of the Accreditation Board to be a member of the Appeals Board.
 

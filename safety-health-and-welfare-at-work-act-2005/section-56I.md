@@ -1,6 +1,6 @@
 Disclosure of certain interests by members of Accreditation Board
 
-56I. Section 41 shall apply to members of the Accreditation Board as it applies to members of the Authority subject to the following modifications—
+56I.—Section 41 shall apply to members of the Accreditation Board as it applies to members of the Authority subject to the following modifications—
 
 (a) substituting "Accreditation Board" for "Authority" in each place where it occurs,
 

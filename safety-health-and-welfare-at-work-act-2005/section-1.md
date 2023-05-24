@@ -1,4 +1,4 @@
-## PART 1 PRELIMINARY AND GENERAL
+## PRELIMINARY AND GENERAL
 
 Short title and commencement.
 
