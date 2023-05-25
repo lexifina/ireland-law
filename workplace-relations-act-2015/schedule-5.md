@@ -107,3 +107,5 @@ Part 3
 7. Parts 2 and 3 of the Parent’s Leave and Benefit Act 2019
 
 8. Sick Leave Act 2022
+
+9. Part 3 of the Work Life Balance and Miscellaneous Provisions Act 2023.
