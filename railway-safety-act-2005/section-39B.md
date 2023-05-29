@@ -1,3 +1,3 @@
-Reports to Commission . (Repealed)
+Reports to Commission. (Repealed)
 
 39B.—...

@@ -1,3 +1,3 @@
-Publication of report of investigations . (Repealed)
+Publication of report of investigations. (Repealed)
 
 60.—...

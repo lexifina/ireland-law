@@ -1,3 +1,3 @@
-Annual safety report . (Repealed)
+Annual safety report. (Repealed)
 
 61A.—...

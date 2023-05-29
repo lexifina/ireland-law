@@ -1,3 +1,3 @@
-Safety authority . (Repealed)
+Safety authority. (Repealed)
 
 10A.— ...

@@ -1,3 +1,3 @@
-Safety rules . (Repealed)
+Safety rules. (Repealed)
 
 50A.— ...

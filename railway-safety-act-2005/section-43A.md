@@ -1,3 +1,3 @@
-Placing in service rolling stock authorised in another Member State (Repealed).
+Placing in service rolling stock authorised in another Member State. (Repealed)
 
 43A.—...

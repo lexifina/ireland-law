@@ -1,3 +1,3 @@
-Targets for safety management systems . (Repealed)
+Targets for safety management systems. (Repealed)
 
 39A.—...

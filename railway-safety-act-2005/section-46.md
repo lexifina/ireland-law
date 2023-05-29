@@ -1,6 +1,6 @@
 Acceptance of safety management document by Commission.
 
-46. (1)(a) The Commission shall notify a railway organisation of its acceptance of a safety management document by issuing a certificate (“safety management certificate”) to that railway organisation.
+46.— (1)(a) The Commission shall notify a railway organisation of its acceptance of a safety management document by issuing a certificate (“safety management certificate”) to that railway organisation.
 
 (b) A safety management certificate may be subject to such conditions as may be deemed appropriate by the Commission.
 

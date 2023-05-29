@@ -1,3 +1,3 @@
-Definitions and Scope (Part 4) . (Repealed)
+Definitions and Scope (Part 4). (Repealed)
 
 38A.—...
