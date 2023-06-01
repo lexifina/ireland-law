@@ -4,7 +4,7 @@ Investigation of complaints.
 
 (2)(a) The chief executive officer and the authorised officer appointed under subsection (1) may, for the purposes of considering whether there is sufficient cause to warrant further action being taken in relation to a complaint, take account of such matters relating to the registered nurse or registered midwife the subject of the complaint that arise from the investigation of the complaint as they consider appropriate.
 
-(b) References to a complaint in this section (other than subsection (10) ), in the definitions of ‘allegation’ and ‘inquiry’ in section 2 and in sections 9(2)(i), 13(2)(h), 24(2), 50(3)(a), 57A, 63, 65 to 69 and 77(2) shall be construed as including references to any of the matters referred to in paragraph (a).
+(b) References to a complaint in this section (other than subsection (10) ), in the definitions of "allegation" and "inquiry" in section 2 and in sections 9(2)(i), 13(2)(h), 24(2), 50(3)(a), 57A, 63, 65 to 69 and 77(2) shall be construed as including references to any of the matters referred to in paragraph (a).
 
 (3) The authorised officer shall investigate the complaint and prepare a report for the chief executive officer.
 
