@@ -1,6 +1,6 @@
 Seizure under section 38 of specified animal: supplementary provisions.
 
-71C. (1) Without prejudice to section 23(4), where an authorised officer seizes and detains a specified animal pursuant to section 38(4)(v), the Minister shall, as soon as practicable after the seizure and detention, apply to a judge of the District Court for an order authorising the Minister to dispose of the specified animal and the judge shall, unless there is good reason not to do so, grant the application.
+71C.— (1) Without prejudice to section 23(4), where an authorised officer seizes and detains a specified animal pursuant to section 38(4)(v), the Minister shall, as soon as practicable after the seizure and detention, apply to a judge of the District Court for an order authorising the Minister to dispose of the specified animal and the judge shall, unless there is good reason not to do so, grant the application.
 
 (2) The Minister shall not make an application under subsection (1) unless he or she—
 

@@ -2,7 +2,7 @@
 
 Definitions.
 
-71A. (1) In this Part—
+71A.— (1) In this Part—
 
 “Act of 1967” means the Redundancy Payments Act 1967;
 

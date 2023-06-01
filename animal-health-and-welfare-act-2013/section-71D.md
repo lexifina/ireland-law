@@ -1,6 +1,6 @@
 Compensation for licensees under Musk Rats Act 1933.
 
-71D. (1) A licensee may, subject to this Part and the regulations, make an application to the Minister for compensation for income losses, non-income losses and costs incurred by the licensee as a direct result of the licensee’s ceasing to carry on the business of the fur farming of mink by reason of the enactment of this Part.
+71D.— (1) A licensee may, subject to this Part and the regulations, make an application to the Minister for compensation for income losses, non-income losses and costs incurred by the licensee as a direct result of the licensee’s ceasing to carry on the business of the fur farming of mink by reason of the enactment of this Part.
 
 (2) The Minister shall, on application by a licensee to him or her in accordance with subsection (1) and the regulations, pay the licensee such compensation as may be determined in accordance with this Part.
 

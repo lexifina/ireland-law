@@ -1,6 +1,6 @@
 Compliance with EU Regulations - offence and penalty.
 
-36A. Where a person contravenes or fails to comply with an obligation imposed on the person by a provision of a Regulation of an institution of the European Union relating to animals or animal products, including disease, health, welfare, identification, movement, transport, import, export, traceability, sale or supply, which is stated in regulations made under this section to be a breach to which this section applies, the person commits an offence and where the contravention or failure is stated in the regulations—
+36A.— Where a person contravenes or fails to comply with an obligation imposed on the person by a provision of a Regulation of an institution of the European Union relating to animals or animal products, including disease, health, welfare, identification, movement, transport, import, export, traceability, sale or supply, which is stated in regulations made under this section to be a breach to which this section applies, the person commits an offence and where the contravention or failure is stated in the regulations—
 
 (a) to be a breach to which this paragraph applies, is liable, on summary conviction, to a class A fine, or
 

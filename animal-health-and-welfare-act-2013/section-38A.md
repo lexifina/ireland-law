@@ -1,6 +1,6 @@
 Costs of detention of seized animal.
 
-38A. (1) Where an animal is seized and detained under section 38(4)(v), the Minister or local authority in whose custody the animal is detained may make reasonable charges in respect of the costs of seizing the animal and of keeping the animal during its detention, of—
+38A.— (1) Where an animal is seized and detained under section 38(4)(v), the Minister or local authority in whose custody the animal is detained may make reasonable charges in respect of the costs of seizing the animal and of keeping the animal during its detention, of—
 
 (a) the occupier or person in charge of the land or premises on which the animal was found,
 
