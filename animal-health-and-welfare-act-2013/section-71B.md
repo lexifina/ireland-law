@@ -1,6 +1,6 @@
 Prohibition.
 
-71B. (1) A person shall not—
+71B.— (1) A person shall not—
 
 (a) engage in fur or skin farming, or
 
