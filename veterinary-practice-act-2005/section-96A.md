@@ -1,6 +1,6 @@
 Registration of persons who would not otherwise qualify for registration under section 95 or 96.
 
-96A.— (1) The Council, on application to it in writing in that behalf by a person to whom subsection (3) applies, in accordance with regulations under section 52(1), and on payment to it of the fee prescribed under section 33, shall register the person as a veterinary nurse.
+96A.—(1) The Council, on application to it in writing in that behalf by a person to whom subsection (3) applies, in accordance with regulations under section 52(1), and on payment to it of the fee prescribed under section 33, shall register the person as a veterinary nurse.
 
 (2) Registration of a person under subsection (1) may be for such period as decided by the Council.
 

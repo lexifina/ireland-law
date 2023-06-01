@@ -121,3 +121,5 @@ Mutual recognition — veterinary practitioners.
 "veterinary practitioner" has the same meaning as ‘veterinary surgeon’ in the Mutual Recognition Directive.
 
 (16) A word or expression that is used in this section and is also used in the Mutual Recognition Directive has, unless the contrary intention appears, the same meaning in this section, as it has in that Directive.
+
+OJ No.L 205,1.8.2008, p.10 OJ No.L 311, 21.11.2008, p.1 OJ No.L 93, 7.4.2009, p.11 OJ No.L59, 4.3.2011, p.4 OJ No.L112, 24.4.2012, p. 21

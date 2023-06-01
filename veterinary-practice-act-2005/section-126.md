@@ -1,6 +1,6 @@
 Power to inspect premises for the purposes of section 125(a) or (c).
 
-126.— (1) An authorised officer, in order to perform his or her functions under section 125(a) or (c), may do all or any of the following:
+126.—(1) An authorised officer, in order to perform his or her functions under section 125(a) or (c), may do all or any of the following:
 
 (a) enter and inspect, at all reasonable times, a premises in which he or she has reasonable grounds for believing veterinary medicine is carried on or which is otherwise connected with the practice of veterinary medicine;
 

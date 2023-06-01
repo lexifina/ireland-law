@@ -1,6 +1,6 @@
 Removal or suspension from relevant register or conditions attaching to registration.
 
-80.— (1) Where the Council receives a report from the Fitness to Practise Committee under section 79(1), in which that Committee gives as its opinion that one or more of the grounds specified in section 76(1) were found to be proven, it may decide to do any of the following—
+80.—(1) Where the Council receives a report from the Fitness to Practise Committee under section 79(1), in which that Committee gives as its opinion that one or more of the grounds specified in section 76(1) were found to be proven, it may decide to do any of the following—
 
 (a) remove the name of the registered person from all or some of the parts of the Register or the Register of Veterinary Nurses where he or she is registered, as the Council considers appropriate,
 
@@ -30,7 +30,9 @@ Removal or suspension from relevant register or conditions attaching to registra
 
 (c) any other order that it considers appropriate.
 
-(5) Where the registered person to whom the decision relates has made no application under subsection (3) within 21 days of the notification under subsection (2), the High Court may, on an application to it in a summary manner by the Council make—
+(5) Where the registered person to whom the decision relates has made no application under subsection (3) within 21 days of the notification under subsection
+
+(2), the High Court may, on an application to it in a summary manner by the Council make—
 
 (a) an order confirming or setting aside the making of the decision concerned,
 

@@ -1,6 +1,6 @@
 Limited registration — veterinary nurses.
 
-96B.— (1) Notwithstanding any provision of this Act, subject to subsection (4), and, on satisfying itself of the need to effect registration under this section for the purpose specified in subsection (2), the Council—
+96B.—(1) Notwithstanding any provision of this Act, subject to subsection (4), and, on satisfying itself of the need to effect registration under this section for the purpose specified in subsection (2), the Council—
 
 (a) on application to it in writing in that behalf by a person to whom subsection (3) applies, in accordance with regulations under section 52(1), and
 
