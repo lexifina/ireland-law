@@ -4,15 +4,33 @@ Levies and fees.
 
 (a) meeting expenses properly incurred by the Commission in the discharge of its functions in relation to electronic communications,
 
-(b) enabling the Minister to pay contributions or other membership charges to international telecommunications organisations, and
+(b) enabling the Minister to pay contributions or other membership charges to international telecommunications organisations, ...
 
-(c) ... the Commission may make an order imposing a levy on providers of electronic communications services and on providers of electronic communications networks which are deemed to be authorised under Regulation 4 of the European Communities (Electronic Communications Networks and Services) (Authorisation) Regulations 2003 (S.I. No. 306 of 2003).
+(c) enabling the Commission to have adequate technical, financial and human resources to carry out the tasks assigned to it, and
+
+(d) enabling the Commission to have adequate financial and human resources to enable it to actively participate and contribute to BEREC, the Commission may make an order imposing a levy on providers of electronic communications services and on providers of electronic communications networks which are deemed to be authorised under Regulation 6 of the Electronic Communications Code Regulations.
 
 (1A) For the purposes of subsection (1), the expenses of the Commission in relation to the discharge of its functions in relation to electronic communications shall —
 
-(a) in total, cover only the administrative costs which will be incurred in the management, control and enforcement of the general authorisation scheme, the licensing scheme for the licence concerned, the schemes for the grant of rights of use for numbers and specific obligations, and may include costs for international co-operation, harmonisation and standardisation, market analysis, monitoring compliance and other market control, as well as regulatory work involving preparation and enforcement of any orders under section 3(6) (inserted by section 11(c) of the Wireless Telegraphy Act 1972) of the Wireless Telegraphy Act 1926 or regulations under section 6 of that Act relating to apparatus for wireless telegraphy for the provision of an electronic communications network or service and administrative decisions, such as decisions on access and interconnection, and
+(a) cover, in total, only the administrative costs which will be incurred in the management, control and enforcement of the general authorisation system, the licensing scheme for the licence concerned, the schemes for the grant of the rights of use for numbering resources and specific obligations, and may include costs for international co-operation, harmonisation and standardisation, market analysis, monitoring compliance and other market control, as well as regulatory work involving preparation and enforcement of any orders under section 3(6) (inserted by section 11(c) of the Wireless Telegraphy Act 1972) of the Wireless Telegraphy Act 1926 or regulations under section 6 of that Act relating to apparatus for wireless telegraphy for the provision of an electronic communications network or service and administrative decisions, such as decisions on access and interconnection, and
 
-(b) be imposed by the Commission on an individual undertaking in an objective, transparent and proportionate manner which minimises additional administrative costs and attendant charges.
+(b) be imposed by the Commission on an individual undertaking in an objective, transparent and proportionate manner which minimises additional administrative costs and associated charges.
+
+(1B)(a) For the purposes of paragraph (1A)(b) and having regard to—
+
+(i) its objectives under section 12(1)(a),
+
+(ii) the impact of the levy on providers of electronic communications services and providers of electronic communications networks, and
+
+(iii) the need to minimise any distortion or restriction of competition in the market for the provision of the electronic communications concerned, the Commission may make a determination that such class or classes of electronic communications provider referred to in subsection (1) are exempt from an order made under that subsection.
+
+(b) A determination by the Commission in accordance with paragraph (a) shall only be made:
+
+(i) where the annual turnover of the provider is below an amount specified by the Commission, or
+
+(ii) where the activities of the provider do not reach a market share specified by the Commission, or have a very limited territorial scope.
+
+(c) In this subsection, "turnover" means in relation to a body corporate, the turnover of the body in the financial year of the body ending immediately before the financial year in which the determination referred to in paragraph (a) is made.
 
 (2) Subject to subsection (11A), for the purpose of meeting expenses properly incurred by the Commission in the discharge of its functions relating to postal services the Commission may make an order imposing a levy on postal service providers providing postal services within the scope of the universal postal service.
 
