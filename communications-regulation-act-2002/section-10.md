@@ -12,7 +12,11 @@ Functions of Commission.
 
 (ad) to closely monitor and ensure compliance by undertakings, including providers of internet access services within the meaning of Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015, with their obligations under Articles 3, 4 and 5 of those Regulations,
 
+(ae) to perform the tasks assigned to it under the Electronic Communications Code Regulations,
+
 (ae) the functions of a national regulatory authority under Article 5a (inserted by Article 50 of Regulation (EU) 2018/1971 of the European Parliament and of the Council of 11 December 2018) of Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015,
+
+(af) to ensure compliance with, and to carry out the functions assigned to it by, the European Union (Electronic Communications Code) Regulations 2022 (S.I. No. 444 of 2022),
 
 (af) to monitor and ensure compliance by undertakings and premium rate service providers with Part 3 of the Consumer Protection Act 2007,
 
@@ -36,9 +40,11 @@ Functions of Commission.
 
 (ii) the provision, content and promotion of premium rate services,
 
-(da) for the purpose of contributing to an open and competitive market and also for statistical purposes, to collect, compile, extract, disseminate and publish information from undertakings relating to the provision of electronic communications services, electronic communications networks and associated facilities and the transmission of such services on those networks, and
+(da) for the purpose of contributing to an open and competitive market and also for statistical purposes, to collect, compile, extract, disseminate and publish information from undertakings relating to the provision of electronic communications services, electronic communications networks and associated facilities and the transmission of such services on those networks
 
-(e) to ensure compliance, as appropriate, by persons in relation to the placing on the market of communications equipment and the placing on the market and putting into service of radio equipment.
+(e) to ensure compliance, as appropriate, by persons in relation to the placing on the market of communications equipment and the placing on the market and putting into service of radio equipment, and
+
+(f) to advise the Minister, when requested by him or her, on matters relating to the electronic communications market and matters relating to the functions of the Commission.
 
 (1A) The functions of the Competition and Consumer Protection Commission specified in subsection (1B) are (in so far as they relate to the provision of electronic communications networks, electronic communications services, associated facilities and premium rate services) also functions of the Commission for Communications Regulation, and subsections (1B) to (1E) have effect for the purposes of this subsection.
 
@@ -60,7 +66,7 @@ Functions of Commission.
 
 (1E) Where any section of the Consumer Protection Act 2007 specified in subsection (1B) provides for anything to be done in relation to the Agency (whether the giving of notice to it, the submitting of a thing to it or the doing of any other thing) then, if a co-operation agreement entered into under section 21 of that Act so specifies, it is sufficient compliance with the section concerned if the thing is done in relation to the Agency or the Commission as is specified in that agreement.
 
-(2) The Commission may carry out an investigation referred to in subsection (1) either on its own initiative or as a result of a complaint made by an end user or an undertaking.
+(2) The Commission may carry out an investigation referred to in subsection (1) either on its own initiative or on foot of a complaint.
 
 (3) The Commission shall have all such powers as are necessary for or incidental to the performance of its functions under this or any other Act.
 
