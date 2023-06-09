@@ -138,13 +138,13 @@ STATUTORY INSTRUMENTS
 
 (38) Wireless Telegraphy (Fixed Wireless Access Local Area Licence) Regulations 2003 (S.I. No. 79 of 2003);
 
-(39) European Communities (Electronic Communications Networks and Services) (Access) Regulations 2003 (S.I. No. 305 of 2003);
+(39) the Electronic Communications Code Regulations;
 
-(40) European Communities (Electronic Communications Networks and Services) (Authorisation) Regulations 2003 (S.I. No. 306 of 2003);
+(40) ...
 
-(41) European Communities (Electronic Communications Networks and Services) (Framework) Regulations 2003 (S.I. No. 307 of 2003);
+(41) ...
 
-(42) European Communities (Electronic Communications Networks and Services) (Universal Services and Users’ Rights) Regulations 2003 (S.I. No. 308 of 2003);
+(42) ...
 
 (43) Communications Regulation Act 2002 (Section 30) Levy Order 2003 (S.I. No. 346 of 2003);
 
@@ -176,4 +176,22 @@ STATUTORY INSTRUMENTS
 
 (57) Wireless Telegraphy (Wireless Public Address System) Regulations 2006 (S.I. No. 304 of 2006);
 
-(58) Wireless Telegraphy (Ship Station Radio Licence) Regulations 2006 (S.I. No. 414 of 2006).
+(58) Wireless Telegraphy (Ship Station Radio Licence) Regulations 2006 (S.I. No. 414 of 2006);
+
+(59) European Communities (Electromagnetic Compatibility) Regulations 2016 (S.I. No. 145 of 2016);
+
+(60) European Union (Low Voltage Electrical Equipment) Regulations 2016 (S.I. No. 345 of 2016);
+
+(61) European Union (Reduction of Cost of Deploying High-Speed Public Communications Networks) Regulations 2016 (S.I. No. 391 of 2016);
+
+(62) European Communities (Electromagnetic Compatibility) Regulations 2017 (S.I. No. 69 of 2017);
+
+(63) European Union (Radio Equipment) Regulations 2017 (S.I. No. 248 of 2017);
+
+(64) European Union (Open Internet Access) Regulations 2019 (S.I. No. 343 of 2019);
+
+(65) European Union (Retail Charges for Regulated Intra-EU Communications) Regulations 2020 (S.I. No. 668 of 2020);
+
+(66) European Union (Low Voltage Electrical Equipment) (Amendment) Regulations 2022 (S.I. No. 14 of 2022);
+
+(67) European Union (Mobile Telephone Roaming) Regulations 2022 (S.I. No. 315 of 2022)..
