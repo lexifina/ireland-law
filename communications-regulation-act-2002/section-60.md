@@ -1,23 +1,39 @@
 Service of notices.
 
-60.—(1) Where a notice or notification is required under Part 5 to be given to a person, the notice or notification shall be addressed to that person and shall be given to the person in one of the following ways—
+60. (1) Where a notice is required to be given to a person under this Act, the Communications Regulation and Digital Hub Development Agency (Amendment) Act 2023 or a related enactment, the notice shall be given in one of the following ways:
 
-(a) by delivering it to the person,
+(a) by delivering it to the person (where the person is an individual);
 
-(b) by leaving it at the address at which the person ordinarily resides or carries on business,
+(b) by leaving it addressed to the person at a relevant address;
 
-(c) by sending it by post in a pre-paid registered letter addressed to the person at the address at which the person ordinarily resides or carries on business,
+(c) by sending it, addressed to the person, to a relevant address by pre-paid registered post or other pre-paid recorded delivery service;
 
-(d) if an address for the service of notices has been furnished by the person, by leaving it at, or sending it by pre-paid registered post addressed to the person to, that address,
+(d) by sending it to the person by electronic means in accordance with subsection (5).
 
-(e) by sending it by means of electronic mail or a facsimile machine, to a device or facility for the reception of electronic mail or facsimiles located at the address at which the person carries on business or, if an address for the service of a notification has been furnished by the person, that address, but only if—
+(2) In subsection (1)(b) and (c), "relevant address" means any of the following:
 
-(i) the sender’s—
+(a) the address at which the person ordinarily resides;
 
-(I) facility for the reception of electronic mail generates a message confirming a receipt of the electronic mail, or
+(b) an address at which the person carries on business;
 
-(II) facsimile machine generates a message confirming successful transmission of the total number of pages of the notification, and
+(c) a postal address at which the person has agreed in writing to receive notices under this Act or a related enactment.
 
-(ii) the notification is also given in one of the other ways mentioned in any of the preceding paragraphs.
+(3) For the purposes of subsection (2)(a), a company registered under the Companies Act 2014, or an existing company within the meaning of that Act, is deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body is deemed to be ordinarily resident at its principal office or place of business.
 
-(2) For the purposes of this section, a company registered under the Companies Acts, 1963 to 2001, shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
+(4) For the purposes of subsection (1)(d), a notice is sent to a person by electronic means in accordance with this subsection if—
+
+(a) it is sent to an email address, fax number, or other electronic contact point, at which the person has agreed in writing to receive notices under this Act, and
+
+(b) a record that the email, fax, or other electronic message has been sent is made for the sender by the email system, fax machine, or other electronic system used.
+
+(5) A notice to which subsection (1) applies—
+
+(a) if given in accordance with subsection (1)(a), is given at the time when it is delivered,
+
+(b) if given in accordance with subsection (1)(b), is given at the time when it is left at the relevant address,
+
+(c) if given in accordance with subsection (1)(c), is deemed, unless the contrary is proved, to be given at the time when it would be delivered in the ordinary course of the post or other service used, and
+
+(d) if given in accordance with subsection (1)(d), is deemed, unless the contrary is proved, to be given at the time stated in the record referred to in subsection (4)(b).
+
+(6) In this section, "notice" includes notification.

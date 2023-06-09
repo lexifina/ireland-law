@@ -22,7 +22,7 @@ Power of High Court to make compliance orders in respect of conditions imposed u
 
 (a) the duration of the non-compliance;
 
-(b) the effect of the non-compliance on other parties to the relevant decision and to end users;
+(b) the effect of the non-compliance on other parties to the relevant decision, to end-users and to end-users of premium rate services.
 
 (c) the submission of the Commission with respect to what it considers to be the appropriate amount;
 

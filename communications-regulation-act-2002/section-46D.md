@@ -1,6 +1,6 @@
 Presumptions to apply in civil and criminal proceedings under this Act and related enactments.
 
-46D.— (1) The presumptions specified in this section apply in civil and criminal proceedings under this Act and under the related enactments.
+46D.— (1) The presumptions specified in this section apply in civil and criminal proceedings under this Act , the Communications Regulation and Digital Hub Development Agency (Amendment) Act 2023, and under the related enactments.
 
 (2) A document purporting to have been created by a person is presumed, unless the contrary is shown, to have been created by the person. Any statement contained in the document is, unless the document expressly attributes the statement to some other person, presumed to have been made by that person.
 
