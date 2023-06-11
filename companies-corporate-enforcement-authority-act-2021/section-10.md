@@ -432,7 +432,7 @@ Final annual report of Director
 
 Chapter 3B
 
-Investigation of director or former director of public-interest entity to find whether such director has engaged in certain prohibited conduct, etc.
+## Investigation of director or former director of public-interest entity to find whether such director has engaged in certain prohibited conduct, etc.
 
 Definitions (sections 944Z to 944AH)
 
@@ -454,9 +454,7 @@ Definitions (sections 944Z to 944AH)
 
 (c) both such decisions;
 
-‘relevant director’ has the meaning assigned to it by section 900;
-
-‘relevant sanction’, in relation to a relevant director, means a sanction referred to in section 944AB(2);
+‘relevant director’ has the meaning assigned to it by section 900; ‘relevant sanction’, in relation to a relevant director, means a sanction referred to in section 944AB(2);
 
 ‘section 944AD agreement’ shall be read in accordance with section 944AD(1);
 

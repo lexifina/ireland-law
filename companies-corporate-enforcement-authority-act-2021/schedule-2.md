@@ -8,7 +8,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 (3) (4) (2) (1)
 
-1 section 133(1) Director of Corporate Authority Enforcement has reason to has believe that a director or reason secretary of a company is to an undischarged bankrupt, believe the Director of Corporate that Enforcement a director or secretary of a company is an undischarged bankrupt, the Authority
+1 section 133(1) Director of Corporate Authority has reason to Enforcement has reason to believe that a director or believe that a director or secretary of a company is secretary of a company is an undischarged bankrupt, an undischarged bankrupt, the Authority the Director of Corporate Enforcement
 
 2 section 133(2) Director Authority
 
@@ -16,15 +16,15 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 4 section 133(4) Director of Corporate Authority Enforcement
 
-5 section 166(5) Director of Corporate Authority, produce to the Enforcement, produce to Authority for inspection the Director for inspection the book or books kept in the book or books kept in accordance with accordance with subsection subsection (1) by it and (1) by it and shall give to shall give to the Authority the Director of Corporate such facilities for Enforcement such facilities inspecting and taking for inspecting and taking copies of the contents of copies of the contents of the book or books as the the book or books as the Authority Director Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+5 section 166(5) Director of Corporate Authority, produce to the Enforcement, produce to Authority for inspection the Director for inspection the book or books kept in the book or books kept in accordance with accordance with subsection subsection (1) by it and (1) by it and shall give to shall give to the Authority the Director of Corporate such facilities for Enforcement such facilities inspecting and taking for inspecting and taking copies of the contents of copies of the contents of the book or books as the the book or books as the Authority Director
 
 6 section 175(5) Director of Corporate Authority may, on the Enforcement may, on the application of any member application of any member of the company, call or of the company, call or direct the calling of a direct the calling of a general meeting of the general meeting of the company and give such company and give such ancillary or consequential ancillary or consequential directions as the Authority directions as the Director of Corporate Enforcement
 
 7 section 175(7) Director of Corporate Authority Enforcement
 
-8 section 175(10) Director of Corporate Authority Enforcement
+8 section 175(10) Director of Corporate Authority Enforcement Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 9 section 199(5) Director of Corporate Authority, produce to the Enforcement, produce to Authority for inspection the Director for inspection the book or books kept in the book or books kept in accordance with accordance with subsection subsection (1) by it and (1) by it and shall give the shall give the Authority Director of Corporate such facilities for Enforcement such facilities inspecting and taking for inspecting and taking copies of the contents of copies of the contents of the book or books as the the book or books as the Authority Director
 
@@ -34,9 +34,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 12 section 253(6) Director of Corporate Authority Enforcement
 
-13 section Director Authority 288(10)(c) Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+13 section Director Authority 288(10)(c)
 
 14 section 312(9) Director, produce to the Authority, produce to the Director for inspection the Authority for inspection register kept by it in the register kept by it in accordance with subsection accordance with (1) and shall give the subsection (1) and shall Director such facilities for give the Authority such inspecting and taking facilities for inspecting and copies of the contents of taking copies of the the register as the Director contents of the register as the Authority
 
@@ -44,7 +42,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 16 section Director Authority 335(5)(a)
 
-17 section Director such information, Authority such 335(5)(b) as the Director information, as the Authority
+17 section Director such information, Authority such 335(5)(b) as the Director information, as the Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 18 section Director of Corporate Authority pursuant to 381(1)(c) Enforcement pursuant to section 385, may be fixed section 385, may be fixed by the Authority or, to the by the Director of extent, and in the Corporate Enforcement or, circumstances, that the to the extent, and in the Authority circumstances, that the Director of Corporate Enforcement
 
@@ -64,15 +64,15 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 26 section 392(5) Director Authority
 
-27 section 393(1) Director and provide the Authority and provide the Director Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+27 section 393(1) Director and provide the Authority and provide the Director Authority
 
 28 section 393(2) Director of any matter Authority of any matter pursuant to subsection (1), pursuant to subsection (1), they shall, in addition to they shall, in addition to performing their performing their obligations under that obligations under that subsection, if requested by subsection, if requested by the Director the Authority
 
 29 section Director with such further Authority with such further 393(2)(a) information in their information in their possession or control possession or control relating to the matter as relating to the matter as the Director the Authority
 
-30 section Director such access to Authority such access to 393(2)(b) books and documents in books and documents in their possession or control their possession or control relating to the matter as relating to the matter as the Director the Authority
+30 section Director such access to Authority such access to 393(2)(b) books and documents in books and documents in their possession or control their possession or control relating to the matter as relating to the matter as the Director the Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 31 section Director such access to Authority such access to 393(2)(c) facilities for the taking of facilities for the taking of copies of or extracts from copies of or extracts from those books and those books and documents as the Director documents as the Authority
 
@@ -94,9 +94,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 40 section 447(4) subsection (3) to the subsection (3) to the Director of Corporate Authority Enforcement
 
-41 section Director of Corporate Authority, such 447(4)(a) Enforcement such information, relating to information, relating to the the matter in question, as matter in question, as he it or she Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+41 section Director of Corporate Authority, such 447(4)(a) Enforcement such information, relating to information, relating to the the matter in question, as matter in question, as he it or she
 
 42 section him or her such access to, it such access to, and 474(4)(b) and facilities for, inspecting facilities for inspecting and and taking copies of such taking copies of such documents, being documents, being documents in the documents in the possession or under the possession or under the control of the receiver and control of the receiver and relating to the matter in relating to the matter in question, as he or she question, as it
 
@@ -108,7 +106,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 46 section 448(1) Director of Corporate Authority Enforcement
 
-47 section Director of Corporate Authority 533(8)(g) Enforcement
+47 section Director of Corporate Authority 533(8)(g) Enforcement Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 48 section Director of Corporate Authority 534(6)(b) Enforcement
 
@@ -138,9 +138,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 61 the Table to Director Authority section 633, paragraph 5(ii)
 
-62 section Director Corporate Enforcement 634(6)(a)(ii) Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+62 section Director Corporate Enforcement 634(6)(a)(ii) Authority
 
 63 section Director Corporate Enforcement 635(5)(a)(ii) Authority
 
@@ -164,7 +162,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 73 section Director Authority 653(3)(b)
 
-74 section 653(3) Director the books Authority the books
+74 section 653(3) Director the books Authority the books Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 75 section Director Authority 653(5)(a)
 
@@ -196,15 +196,15 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 89 section 682(2) Director thereafter, Authority thereafter, provide to the Director provide to the Authority
 
-90 section 682(3) The Director may The Authority may Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+90 section 682(3) The Director may The Authority may
 
 91 section Director Authority 682(3)(a)
 
 92 section Director for the purpose of Authority for the purpose 682(3)(b) the Director’s appraisal of of the Authority’s appraisal such a report or the of such a report or the Director’s examination of Authority’s examination of any fact or allegation any fact or allegation contained in it or which contained in it or which comes to the Director’s comes to the Authority’s knowledge by reason of an knowledge by reason of an answer given under answer given under paragraph (a) or otherwise paragraph (a) or otherwise through the Director’s through the Authority’s
 
-93 section 682(4) Director’s powers under Authority’s powers under subsection (3) are in subsection (3) are in addition to the powers of addition to the powers of the Director the Authority
+93 section 682(4) Director’s powers under Authority’s powers under subsection (3) are in subsection (3) are in addition to the powers of addition to the powers of the Director the Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 94 section Director has relieved the Authority has relieved the 683(3)(a) liquidator of the obligation liquidator of the obligation to make the application to make the application under section 819(1) in under section 819(1) in relation to the winding up relation to the winding up concerned or a particular concerned or a particular director or directors (which director or directors power to so relieve is (which power to so relieve conferred on the Director is conferred on the Authority
 
@@ -220,9 +220,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 100 section 723(3) Director of Corporate Authority Enforcement
 
-101 section Director of Corporate Authority such 723(4)(a) Enforcement such information, relating to information, relating to the the matter in question, as matter in question, as he it or she Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+101 section Director of Corporate Authority such 723(4)(a) Enforcement such information, relating to information, relating to the the matter in question, as matter in question, as he it or she
 
 102 section give to him or her such give to the Authority such 723(4)(b) access to, and facilities for access to, and facilities for inspecting and taking inspecting and taking copies of, such documents copies of, such documents (being documents in the (being documents in the possession or under the possession or under the control of the liquidator control of the liquidator and relating to the matter and relating to the matter in question) as he or she in question) as the Authority
 
@@ -230,7 +228,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 104 section 723(8) Director of Corporate Authority, the liquidator Enforcement, the liquidator
 
-105 section Director of Corporate Authority such 723(8)(a) Enforcement such information, relating to information, relating to the the matter in question, as matter in question, as he it or she
+105 section Director of Corporate Authority such 723(8)(a) Enforcement such information, relating to information, relating to the the matter in question, as matter in question, as he it or she Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 106 section him or her such access to, the Authority such access 723(8)(b) and facilities for inspecting to, and facilities for and taking copies of, such inspecting and taking documents (being copies of, such documents documents in the (being documents in the possession or under the possession or under the control of the liquidator control of the liquidator and relating to the matter and relating to the matter in question) as he or she in question) as the Authority
 
@@ -252,9 +252,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 115 section 747(5) Director, and the Director Authority, and the Authority
 
-116 section 748(1) Director Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+116 section 748(1) Director Authority
 
 117 section 748(3) Director Authority
 
@@ -266,7 +264,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 121 section 759(1) Director Authority
 
-122 section Director Authority 759(2)(b)(iv)
+122 section Director Authority 759(2)(b)(iv) Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 123 section 761 Director may present a Authority may present a petition for the winding up petition for the winding up of a body corporate on the of a body corporate on the ground that it is just and ground that it is just and equitable to do so if the equitable to do so if the Director Authority
 
@@ -284,9 +284,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 130 section 763(7) Director Authority
 
-131 section 763(8) Director Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+131 section 763(8) Director Authority
 
 132 section 764(1) Director Authority
 
@@ -302,7 +300,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 138 section 766(2) Director Authority
 
-139 section 767(1) Director Authority
+139 section 767(1) Director Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 140 section 767(2) Director may, subject to Authority may, subject to section 800(5), require a section 800(5), require a person to give the person to give the following information to following information to the Director if the Director the Authority if the Authority
 
@@ -316,9 +316,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 145 section 769(1) The Director may The Authority may
 
-146 section Director is satisfied that Authority is satisfied that 769(1)(a) the relevant facts about the relevant facts about the shares have been the shares have been disclosed to him or her disclosed to it Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+146 section Director is satisfied that Authority is satisfied that 769(1)(a) the relevant facts about the relevant facts about the shares have been the shares have been disclosed to him or her disclosed to it
 
 147 section Director Authority 769(1)(b)
 
@@ -330,7 +328,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 151 section Director Authority 771(2)(a)
 
-152 section Director Authority 772(2)(a)
+152 section Director Authority 772(2)(a) Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 153 section Director Authority 772(2)(b)
 
@@ -352,9 +352,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 162 section 780(2) Director Authority
 
-163 section 781(2) Director were not Director or Authority were not Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+163 section 781(2) Director were not Director or Authority were not
 
 164 section 782(1) The Director shall The Authority shall
 
@@ -370,7 +368,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 170 section Director within 21 days Authority within 21 days 782(2)(a)(iii) after the date of the after the date of the notification as to why the notification as to why the third party believes the third party believes the opinion of the Director opinion of the Authority
 
-171 section Director Authority 782(2)(b)
+171 section Director Authority 782(2)(b) Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 172 section 782(3) Director Authority
 
@@ -394,9 +394,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 182 section Director can show it would Authority can show it 787(5)(v) be appropriate to do the would be appropriate to thing concerned and in do the thing concerned which the Director and in which the Authority
 
-183 section 787(13), Director or a duly Authority or a duly in the definition authorised officer of the authorised officer of the of “designated Director Authority officer” Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+183 section 787(13), Director or a duly Authority or a duly in the definition authorised officer of the authorised officer of the of “designated Director Authority officer”
 
 184 section 788(7) Director or any person Authority or any person affected by the exercise of affected by the exercise of an extended power of an extended power of seizure, the court may, if it seizure, the court may, if thinks fit and having had it thinks fit and having had regard, in particular, to any regard, in particular, to submissions made on any submissions made on behalf of the Director with behalf of the Authority regard to the progress of with regard to the progress any investigation being of any investigation being carried on by the Director carried on by the Authority
 
@@ -408,7 +406,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 188 section Director Authority 790(1)(b)
 
-189 section 791 opinion of the Director opinion of the Authority
+189 section 791 opinion of the Director opinion of the Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 190 section Director Authority 791(k)(ii)
 
@@ -438,9 +438,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 203 section 796(2) Director may Authority may
 
-204 section Director Authority 796(2)(a) Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+204 section Director Authority 796(2)(a)
 
 205 section Director Authority 796(2)(b)
 
@@ -460,7 +458,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 213 section Director Authority 822(3)(a)
 
-214 section 822(5) Director Authority
+214 section 822(5) Director Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 215 section 842(e) Director Authority
 
@@ -482,9 +482,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 224 section Director Authority 850(3)(d)(I)
 
-225 section Director Authority 850(3)(d)(II) Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+225 section Director Authority 850(3)(d)(II)
 
 226 section Director Authority 850(3)(e)
 
@@ -504,7 +502,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 234 section 851(4) Director Authority
 
-235 section 851(6) Director shall Authority shall
+235 section 851(6) Director shall Authority shall Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 236 section Director’s Authority’s 851(6)(a)
 
@@ -520,9 +520,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 242 section Director Authority 852(3)(d)
 
-243 section Director Authority 852(3)(e) Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+243 section Director Authority 852(3)(e)
 
 244 section 852(5) Director may, at any time Authority may, at any time before the specified date, before the specified date, on the request of the on the request of the person, where the Director person, where the Authority
 
@@ -538,7 +536,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 250 section 853(4) Director Authority
 
-251 section 853(6) Director shall not exercise Authority shall not his or her power under exercise his or her power section 852(2) in relation under section 852(2) in to a person where the relation to a person where Director the Authority
+251 section 853(6) Director shall not exercise Authority shall not his or her power under exercise his or her power section 852(2) in relation under section 852(2) in to a person where the relation to a person where Director the Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 252 section Director Authority 854(1)(a)
 
@@ -560,9 +560,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 261 section Director Authority 873(3)(b)
 
-262 section Director Authority 873(3)(c) Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+262 section Director Authority 873(3)(c)
 
 263 section 873(5) Director Authority
 
@@ -576,7 +574,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 268 section Director of Corporate Corporate Enforcement 902(2)(a) Enforcement Authority
 
-269 section 930A(2) Director Corporate Enforcement Authority
+269 section 930A(2) Director Corporate Enforcement Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 270 section Director is a competent Corporate Enforcement 930A(4)(a) authority by virtue of Authority is a competent subsection (2), a reference authority by virtue of in this Chapter (other than subsection (2), a reference this section) and Part 27 to in this Chapter (other than the Supervisory Authority this section) and Part 27 to shall include a reference to the Supervisory Authority the Director shall include a reference to the Corporate Enforcement Authority
 
@@ -590,9 +590,7 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 275 section 931(8) Director giving details of Corporate Enforcement the alleged offence and Authority giving details of shall furnish the Director the alleged offence and with such further shall furnish the Corporate information in relation to Enforcement Authority the matter as the Director with such further information in relation to the matter as the Corporate Enforcement Authority
 
-276 section 931(9) Director Corporate Enforcement Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
-
-(3) (4) (2) (1)
+276 section 931(9) Director Corporate Enforcement Authority
 
 277 section 936A(2) Director Corporate Enforcement Authority
 
@@ -608,7 +606,9 @@ Reference Provision of Words to be substituted Substituting words No. Principal 
 
 283 section 1221 Director Authority
 
-284 section 1222 Director Authority
+284 section 1222 Director Authority Reference Provision of Words to be substituted Substituting words No. Principal Act
+
+(3) (4) (2) (1)
 
 285 section 1275 Director Authority
 
