@@ -30,7 +30,7 @@ Service of notifications to masters.
 
 (ii) on the sea-fishing boat for which the licence holder holds the licence,
 
-(c)(c) by sending it by post in a prepaid registered letter to the address at which the licence holder ordinarily resides, or in a case in which an address has been furnished, to that address, or
+(c) by sending it by post in a prepaid registered letter to the address at which the licence holder ordinarily resides, or in a case in which an address has been furnished, to that address, or
 
 (d) in a case in which an email address has been furnished, by sending it to that email address.
 
