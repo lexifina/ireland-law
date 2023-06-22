@@ -18,4 +18,4 @@ Jurisdiction.
 
 (7) Proceedings in the High Court and in the Circuit Court under or referred to in this Act in which each spouse is a party (whether by joinder or otherwise) shall be heard in chambers.
 
-(8) In this section ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.
+(8) In this section "market value" means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the bringing of the proceedings concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.
