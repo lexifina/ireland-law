@@ -60,6 +60,6 @@ Pension adjustment orders.
 
 (6) The court shall not make an order under this section in favour of a civil partner who has registered in a new civil partnership or has married.
 
-(7) The court may make an order under this section in addition to or in substitution in whole or in part for an order under section 117, 118 , 119 or 120 and, in deciding whether or not to make a pension adjustment order, the court shall have regard to the question whether proper provision, having regard to the circumstances, exists or can be made for the civil partner who is not a member or for a dependent child of the civil partners concerned under those sections.
+(7) The court may make an order under this section in addition to or in substitution in whole or in part for an order under section 117, 118, 119 or 120 and, in deciding whether or not to make a pension adjustment order, the court shall have regard to the question whether proper provision, having regard to the circumstances, exists or can be made for the civil partner who is not a member or for a dependent child of the civil partners concerned under those sections.
 
 (8) An order under this section may restrict to a specified extent or exclude the application of section 131 in relation to the order.

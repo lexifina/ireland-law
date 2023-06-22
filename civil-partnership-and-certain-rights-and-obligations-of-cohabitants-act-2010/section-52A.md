@@ -1,6 +1,6 @@
 Failure to make payments to be contempt of court.
 
-52A. (1) Subject to this section it shall be contempt of court for a maintenance debtor to fail to make a payment due under an antecedent order.
+52A.— (1) Subject to this section it shall be contempt of court for a maintenance debtor to fail to make a payment due under an antecedent order.
 
 (2) As respects a contempt of court arising pursuant to this section, a judge of the District Court shall, subject to this section, have such powers, including the power to impose a sanction, as are exercisable by a judge of the High Court in relation to contempt of court in proceedings before the High Court.
 
@@ -56,7 +56,7 @@ Failure to make payments to be contempt of court.
 
 (11) Where a maintenance debtor to whom subsection (7) applies does not attend court on the date fixed for the hearing of the summons the judge may treat such failure to attend court as constituting contempt of court and the judge may deal with the matter accordingly.
 
-(12) In this section ‘financial circumstances’ means, in relation to a person—
+(12) In this section "financial circumstances" means, in relation to a person—
 
 (a) the amount of the person’s annual income,
 

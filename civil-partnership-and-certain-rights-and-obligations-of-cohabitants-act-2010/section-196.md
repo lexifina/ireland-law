@@ -42,7 +42,7 @@ Jurisdiction and venue.
 
 (6) The Circuit Court shall transfer, to the High Court, proceedings on applications for orders for redress referred to in section 173 on application to it by a party to the proceedings, if land to which the proceedings relate has a market value that exceeds €3,000,000.
 
-(6A) In subsection (6) and the following subsection, ‘market value’ means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the making of the application concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.
+(6A) In subsection (6) and the following subsection, "market value" means, in relation to land, the price that would have been obtained in respect of the unencumbranced fee simple were the land to have been sold on the open market, in the year immediately preceding the making of the application concerned, in such manner and subject to such conditions as might reasonably be calculated to have resulted in the vendor obtaining the best price for the land.
 
 (6B) Where an application, in relation to land, is brought in the Circuit Court for an order for redress referred to in section 173, and the applicant alleges that the market value of the land concerned does not exceed the monetary amount specified in subsection (6), it shall be presumed, until the contrary is proved, that the market value of the land does not exceed the foregoing amount.
 

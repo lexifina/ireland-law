@@ -4,7 +4,7 @@ Interpretation.
 
 “civil partnership registration” means registration of a civil partnership under section 59D (as inserted by section 16 of this Act) of the Civil Registration Act 2004;
 
-‘dependent child’ means a child who is—
+"dependent child" means a child who is—
 
 (a) under the age of 18 years, or
 
@@ -14,7 +14,7 @@ Interpretation.
 
 (ii) is suffering from mental or physical disability to such extent that it is not reasonably possible for him or her to maintain himself or herself fully;
 
-‘dependent child of the civil partners’, in relation to a couple who are civil partners of each other, or either of those civil partners, means a dependent child—
+"dependent child of the civil partners", in relation to a couple who are civil partners of each other, or either of those civil partners, means a dependent child—
 
 (a) of both civil partners, or adopted by both civil partners under the Adoption Act 2010, or in relation to whom both civil partners are in loco parentis, or
 

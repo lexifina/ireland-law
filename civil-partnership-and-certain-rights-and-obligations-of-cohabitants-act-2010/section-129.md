@@ -42,7 +42,7 @@ Provisions relating to certain orders.
 
 (e) the manner in which the child was being, and in which the civil partners concerned anticipated that the child would be, educated or trained;
 
-(f) the matters specified in paragraphs (a), (b) and (c) of subsection (2) and subsection (3) ;
+(f) the matters specified in paragraphs (a), (b) and (c) of subsection (2) and subsection (3);
 
 (g) the accommodation needs of the dependent child.
 

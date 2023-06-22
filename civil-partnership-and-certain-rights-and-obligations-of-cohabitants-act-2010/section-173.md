@@ -1,6 +1,6 @@
 Application for redress in respect of economically dependent qualified cohabitant.
 
-173.— (1) A qualified cohabitant may, subject to any agreement under section 202, apply to the court, on notice to the other cohabitant, for an order under sections 174 , 175 and 187 or any of them.
+173.— (1) A qualified cohabitant may, subject to any agreement under section 202, apply to the court, on notice to the other cohabitant, for an order under sections 174, 175 and 187 or any of them.
 
 (2) If the qualified cohabitant satisfies the court that he or she is financially dependent on the other cohabitant and that the financial dependence arises from the relationship or the ending of the relationship, the court may, if satisfied that it is just and equitable to do so in all the circumstances, make the order concerned.
 
@@ -46,4 +46,4 @@ Application for redress in respect of economically dependent qualified cohabitan
 
 (7) Where the court makes an order under section 174, 175 (1)(c) or 187 in favour of a qualified cohabitant, the court may, in the same proceedings or at any later date, on the application of either of the qualified cohabitants concerned, order that either or both of them shall not, on the death of the other, be entitled to apply for an order under section 194.
 
-(8) If the order under section 174, 175 (1)(c) or 187 referred to in subsection (7) has been made but not yet executed at the time that the order is made under subsection (7), the order under subsection (7) shall not take effect until the execution of that other order.
+(8) If the order under section 174, 175(1)(c) or 187 referred to in subsection (7) has been made but not yet executed at the time that the order is made under subsection (7), the order under subsection (7) shall not take effect until the execution of that other order.

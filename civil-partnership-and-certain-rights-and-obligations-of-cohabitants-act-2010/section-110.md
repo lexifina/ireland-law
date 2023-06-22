@@ -1,6 +1,6 @@
 Grant of decree of dissolution.
 
-110. (1) Subject to the provisions of this Part, the court may, on application to it in that behalf by either of the civil partners, grant a decree of dissolution in respect of a civil partnership if it is satisfied that—
+110.— (1) Subject to the provisions of this Part, the court may, on application to it in that behalf by either of the civil partners, grant a decree of dissolution in respect of a civil partnership if it is satisfied that—
 
 (a) at the date of the institution of the proceedings, the civil partners have lived apart from one another for a period of, or periods amounting to, at least two years during the previous three years, and
 

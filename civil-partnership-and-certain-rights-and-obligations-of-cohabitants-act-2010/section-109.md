@@ -4,7 +4,7 @@ Definitions, etc.
 
 109.— (1) In this Part—
 
-‘Act of 1964’ means the Guardianship of Infants Act 1964;
+"Act of 1964" means the Guardianship of Infants Act 1964;
 
 “court” shall be construed in accordance with section 140;
 

@@ -1,6 +1,6 @@
 Birth and funeral expenses of dependent child.
 
-67A. (1) The court may make an order (in this section referred to as a ‘lump sum order’) where it appears to the court on application by a civil partner in relation to a dependent child of the civil partners that the other civil partner has failed to make such contribution as is proper in the circumstances towards the expenses incidental to either or both—
+67A.— (1) The court may make an order (in this section referred to as a "lump sum order") where it appears to the court on application by a civil partner in relation to a dependent child of the civil partners that the other civil partner has failed to make such contribution as is proper in the circumstances towards the expenses incidental to either or both—
 
 (a) the birth of a child who is a dependent child or who would have been a dependent child were he or she alive at the time of the application for a lump sum order,
 

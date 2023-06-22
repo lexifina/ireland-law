@@ -12,7 +12,7 @@ Miscellaneous ancillary orders.
 
 (e) an order under section 31 of the Land and Conveyancing Law Reform Act 2009; and
 
-(f) an order under section 11 of the Act of 1964
+(f) an order under section 11 of the Act of 1964.
 
 (2) The court, in exercising its jurisdiction under subsection (1) (a) or (b) shall have regard to the welfare of the civil partners and any dependent child of the civil partners and, in particular, shall take into consideration—
 
