@@ -66,6 +66,8 @@ Functions of Authority
 
 (5) Subject to this Chapter and Schedule 22, the Authority shall regulate its own procedures.
 
+(6) In this section, a reference to the exercise of the functions of the Authority under this Act shall include a reference to the exercise of the functions of the Authority under the European Union (Disclosure of Income Tax Information by Certain Undertakings and Branches) Regulations 2023.
+
 Transfer of functions of Director to Authority
 
 944E. (1) All functions that, immediately before the establishment day, were vested in the Director are transferred to the Authority.
