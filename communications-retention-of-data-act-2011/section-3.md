@@ -1,17 +1,11 @@
-Obligation to retain data.
+Obligation to retain user data.
 
-3.— (1) A service provider shall retain data in the categories specified in Schedule 2, for a period of 2 years in respect of the data referred to in Part 1 of Schedule 2 and for a period of one year in respect of the data referred to in Part 2 of Schedule 2.
+3.— (1) A service provider shall retain, in accordance with section 12D, user data for a period of one year, or such period as may be prescribed in accordance with subsection (2), from the date on which the data were first processed by the service provider concerned.
 
-(2) The periods of retention referred to in subsection (1) commence—
+(2) The Minister may, for the purposes of subsection (1), prescribe such period (which may be less than one year, and which shall not exceed two years) as he or she considers necessary for, and proportionate to, the purposes of—
 
-(a) in the case of data that before the passing of this Act were the subject of a data retention request under Part 7 of the Criminal Justice (Terrorist Offences) Act 2005, on the date before the passing of this Act on which the data were first processed by the service provider,
+(a) preventing, detecting, investigating or prosecuting offences, including revenue offences and competition offences,
 
-(b) in any other case, on the date on or after the passing of this Act on which the data were first so processed.
+(b) achieving the objectives specified in section 6(1)(b).
 
-(3) Data retained in accordance with subsection (1) shall be retained in such a way that they may be disclosed without undue delay pursuant to a disclosure request.
-
-(4) The data referred to in subsection (1) include data relating to unsuccessful call attempts that, in the case of data specified in Part 1 of Schedule 2, are stored in the State, or in the case of data specified in Part 2 of Schedule 2, are logged in the State.
-
-(5) This section does not require a service provider to retain aggregated data, data that have been made anonymous or data relating to unconnected calls.
-
-(6) In this section “aggregated data” means data that cannot be related to individual subscribers or users.
+(3) The Minister may, in prescribing a period under subsection (2), prescribe different periods for different types of data specified in the definition of "user data" in this Act.

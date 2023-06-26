@@ -4,7 +4,7 @@ Access to data.
 
 (a) at the request and with the consent of a person to whom the data relate,
 
-(b) for the purpose of complying with a disclosure request,
+(b) for the purpose of complying with a disclosure requirement,
 
 (c) in accordance with a court order, or
 
