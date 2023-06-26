@@ -1,19 +1,41 @@
-Disclosure request.
+Requirement to disclose user data.
 
-6.— (1) A member of the Garda Síochána not below the rank of chief superintendent may request a service provider to disclose to that member data retained by the service provider in accordance with section 3 where that member is satisfied that the data are required for—
+6.— (1) A member of the Garda Síochána not below the rank of superintendent may require a service provider to disclose to that member user data in the possession or control of the service provider—
 
-(a) the prevention, detection, investigation or prosecution of a serious offence,
+(a) where the member believes that the data relate to a person whom the member suspects, on reasonable grounds of—
 
-(b) the safeguarding of the security of the State,
+(i) having committed an offence, or
 
-(c) the saving of human life.
+(ii) presenting an actual or potential threat to the security of the State, or
 
-(2) An officer of the Permanent Defence Force not below the rank of colonel may request a service provider to disclose to that officer data retained by the service provider in accordance with section 3 where that officer is satisfied that the data are required for the purpose of safeguarding the security of the State.
+(b) where the member has reasonable grounds for believing that the data are otherwise required for the purpose of—
 
-(3) An officer of the Revenue Commissioners not below the rank of principal officer may request a service provider to disclose to that officer data retained by the service provider in accordance with section 3 where that officer is satisfied that the data are required for the prevention, detection, investigation or prosecution of a revenue offence.
+(i) preventing, detecting, investigating or prosecuting offences,
 
-(3A) A member of the Competition and Consumer Protection Commission may request a service provider to disclose to that member data retained by the service provider in accordance with section 3 where that member is satisfied that the data are required for the prevention, detection, investigation or prosecution of a competition offence.
+(ii) safeguarding the security of the State,
 
-(4) A disclosure request shall be made in writing, but in cases of exceptional urgency the request may be made orally (whether by telephone or otherwise) by a person entitled under subsection (1), (2), (3) or (3A) to make the request.
+(iii) protecting the life or personal safety of a person, in circumstances where the member believes that there is a serious risk to the life or personal safety of the person, or
 
-(5) A person who makes a disclosure request orally shall confirm the request in writing to the service provider within 2 working days of the request being made.
+(iv) determining the whereabouts of a missing person.
+
+(2) A member of the Permanent Defence Force not below the rank of lieutenant colonel may require a service provider to disclose to that member user data in the possession or control of the service provider—
+
+(a) where the member believes that the data relate to a person whom the member suspects, on reasonable grounds, of presenting an actual or potential threat to the security of the State, or
+
+(b) where the member has reasonable grounds for believing that the data are otherwise required for the purpose of safeguarding the security of the State.
+
+(3) ...
+
+(4) ...
+
+(5) Subject to subsection (6), a requirement under this section shall be given to a service provider by notice in writing.
+
+(6) If the member or officer concerned considers that the circumstances that warrant the making of a requirement under this section are of exceptional urgency, he or she may make such a requirement other than in writing.
+
+(7) A member or officer who makes a requirement under this section in accordance with subsection (6) shall, not later than 2 days after the making of the requirement, give to the service provider of whom the requirement was made a notice in writing—
+
+(a) specifying the requirement, and
+
+(b) certifying that the requirement was made other than in writing due to the existence of circumstances of exceptional urgency.
+
+(8) A service provider shall, as soon as practicable after a notice under subsection (5) is given to him or her or, where applicable, a requirement is made of him or her under subsection (6), comply with the requirement concerned.
