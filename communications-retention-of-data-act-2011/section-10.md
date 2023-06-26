@@ -1,16 +1,16 @@
 Complaints procedure.
 
-10.— (1) A contravention of section 6 in relation to a disclosure request shall not of itself render that disclosure request invalid or constitute a cause of action at the suit of a person affected by the disclosure request, but any such contravention shall be subject to investigation in accordance with the subsequent provisions of this section and nothing in this subsection shall affect a cause of action for the infringement of a constitutional right.
+10.— (1) A contravention of section 6, 6A, 6B, 6C, 6D, 6E, 6F, 7C or 7D in relation to a disclosure requirement shall not of itself render that disclosure request invalid or constitute a cause of action at the suit of a person affected by the disclosure requirement, but any such contravention shall be subject to investigation in accordance with the subsequent provisions of this section and nothing in this subsection shall affect a cause of action for the infringement of a constitutional right.
 
-(2) A person who believes that data that relate to the person and that are in the possession of a service provider have been accessed following a disclosure request may apply to the Referee for an investigation into the matter.
+(2) A person who believes that data that relate to the person and that are in the possession of a service provider have been accessed following a disclosure requirement may apply to the Referee for an investigation into the matter.
 
 (3) If an application is made under this section (other than one appearing to the Referee to be frivolous or vexatious), the Referee shall investigate—
 
-(a) whether a disclosure request was made as alleged in the application, and
+(a) whether a disclosure requirement was made as alleged in the application, and
 
-(b) if so, whether any provision of section 6 has been contravened in relation to the disclosure request.
+(b) if so, whether any provision of section 6, 6A, 6B, 6C, 6D, 6E, 6F, 7C or 7D has been contravened in relation to the disclosure requirement.
 
-(4) If, after investigating the matter, the Referee concludes that a provision of section 6 has been contravened, the Referee shall—
+(4) If, after investigating the matter, the Referee concludes that a provision of section 6, 6A, 6B, 6C, 6D, 6E, 6F, 7C or 7D has been contravened, the Referee shall—
 
 (a) notify the applicant in writing of that conclusion, and
 
@@ -30,4 +30,4 @@ Complaints procedure.
 
 (9) For the purpose of an investigation under this section, the Referee is entitled to access, and has the power to inspect, any official documents or records relating to the relevant application.
 
-(10) Any person who was concerned in, or has information relevant to, the making of a disclosure request in respect of which an application is made under this section shall give the Referee, on his or her request, such information relating to the request as is in the person’s possession.
+(10) Any person who was concerned in, or has information relevant to, the making of a disclosure requirement in respect of which an application is made under this section shall give the Referee, on his or her request, such information relating to the request as is in the person’s possession.
