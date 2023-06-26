@@ -1,3 +1,3 @@
-Service provider to comply with disclosure request.
+Service provider to comply with disclosure request. (Repealed)
 
-7.— A service provider shall comply with a disclosure request made to the service provider.
+7.—...
