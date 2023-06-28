@@ -1,6 +1,6 @@
 Receipt of decision by Board.
 
-148Y. (1) On receipt of the notice of the decision under section 148X(10) the Board shall prepare a written record of it (in this section referred to as a ‘decision notice’) and issue it to the landlord.
+148Y. (1) On receipt of the notice of the decision under section 148X(10) the Board shall prepare a written record of it (in this section referred to as a "decision notice") and issue it to the landlord.
 
 (2) If the decision maker has made a decision to impose a sanction under subsection (4)(a) or (5) of section 148X the decision notice shall set out—
 

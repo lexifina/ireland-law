@@ -2,7 +2,7 @@ Rent pressure zones.
 
 24A. (1) The Housing Agency, following consultation with the relevant housing authority, may make a proposal in writing to the Minister that an area be prescribed by order as a rent pressure zone.
 
-(2) As soon as practicable, but no later than 1 week after the date of receipt of the proposal under subsection (1), the Minister shall request the Director to make a report to the Minister (in this section referred to as a ‘rent zone report’), in such form as the Minister may approve, on whether, in so far as the area the subject of the proposal is concerned, the criteria specified in subsection (4) for designation as a rent pressure zone are satisfied.
+(2) As soon as practicable, but no later than 1 week after the date of receipt of the proposal under subsection (1), the Minister shall request the Director to make a report to the Minister (in this section referred to as a "rent zone report"), in such form as the Minister may approve, on whether, in so far as the area the subject of the proposal is concerned, the criteria specified in subsection (4) for designation as a rent pressure zone are satisfied.
 
 (3) Within 2 weeks after the date that the Minister made the request under subsection (2), the Director shall furnish the Minister with the rent zone report.
 

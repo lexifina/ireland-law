@@ -1,6 +1,6 @@
 Complaint.
 
-148T. (1) A person (in this section referred to as a ‘complainant’) may make a complaint in writing to the Board alleging that improper conduct by a landlord has occurred or is occurring.
+148T. (1) A person (in this section referred to as a "complainant") may make a complaint in writing to the Board alleging that improper conduct by a landlord has occurred or is occurring.
 
 (2) Where the Board receives a complaint, it shall cause an investigation of the matter the subject of the complaint to be carried out unless, following the making of such inquiries as it thinks fit, the Board is satisfied that—
 

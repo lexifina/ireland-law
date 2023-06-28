@@ -20,7 +20,7 @@ Right of referral in respect of breach of duty under section 15.
 
 (ii) by—
 
-(I) requesting a person referred to in subsection (4) (in this section referred to as a ‘subsection (4) person’) to communicate with the landlord or former landlord on his or her behalf, and
+(I) requesting a person referred to in subsection (4) (in this section referred to as a "subsection (4) person") to communicate with the landlord or former landlord on his or her behalf, and
 
 (II) the subsection (4) person to whom such request was made having communicated or attempted to communicate with the landlord or former landlord on behalf of the person referred to in section 15, and the requirement in this paragraph shall not be read as requiring the institution of legal proceedings or the landlord, or former landlord, being given to understand that such proceedings might be instituted.
 

@@ -22,7 +22,7 @@ Frequency with which rent reviews may occur.
 
 (a) paragraphs (a) and (b) of subsection (1), and
 
-(b) subsection (3), shall, for the duration of the relevant period, be construed as references to ‘24 months’.
+(b) subsection (3), shall, for the duration of the relevant period, be construed as references to "24 months".
 
 (5) Subsections (4) and (6) shall cease to have effect on 1 January 2025 and from that day—
 

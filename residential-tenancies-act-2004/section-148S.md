@@ -82,4 +82,4 @@ Powers of authorised officer.
 
 (18) An application for a warrant under subsection (13) shall be made to a judge of the District Court for the time being assigned to the District Court District within which the premises in respect of which the application is made is situated.
 
-(19) In this section ‘records’ includes books, accounts or other documents or any written or printed material or copies thereof, in any form including material created, stored, maintained or preserved by means of any mechanical or electronic device whether or not created, stored, maintained or preserved in non-legible form.
+(19) In this section "records" includes books, accounts or other documents or any written or printed material or copies thereof, in any form including material created, stored, maintained or preserved by means of any mechanical or electronic device whether or not created, stored, maintained or preserved in non-legible form.

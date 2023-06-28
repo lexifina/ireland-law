@@ -64,7 +64,7 @@ Investigation report and decision.
 
 (10) The decision maker shall, as soon as practicable after making a decision under subsection (4) or (5), give notice in writing of the decision and the reasons for it to the Board.
 
-(11) In this section, ‘sanction’ in relation to improper conduct, means one, more than one, or all of the following:
+(11) In this section, "sanction" in relation to improper conduct, means one, more than one, or all of the following:
 
 (a) a direction in writing to the landlord to pay to the Board a sum specified in the direction not exceeding €15,000, by way of financial penalty for the improper conduct by the landlord specified in the direction;
 
