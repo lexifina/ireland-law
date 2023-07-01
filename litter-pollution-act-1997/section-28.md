@@ -1,6 +1,6 @@
 Notice of certain offences may be given by litter wardens, etc.
 
-28. — (1) If a litter warden or a member of the Garda Síochána has reasonable grounds for believing that a person is committing or has committed a prescribed offence under this Act, or a dog warden, within the meaning of the Control of Dogs Act, 1986, or a member of the Garda Síochána has reasonable grounds for believing that a person is committing or has committed an offence under section 22 , the warden or member may give to the person a notice in prescribed form stating—
+28. — (1) If a litter warden or a member of the Garda Síochána has reasonable grounds for believing that a person is committing or has committed a prescribed offence under this Act, or a dog warden, within the meaning of the Control of Dogs Act, 1986, or a member of the Garda Síochána has reasonable grounds for believing that a person is committing or has committed an offence under section 22, the warden or member may give to the person a notice in prescribed form stating—
 
 (a) that the person is alleged to have committed the offence,
 
