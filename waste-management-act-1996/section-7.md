@@ -8,7 +8,7 @@ Regulations, orders and directions.
 
 (4) Where regulations under section 7 (6), 39 (8) or 62, or an order under section 8 or 69 (1) or an order under subsection (5) amending or revoking such an order, is or are proposed to be made, a draft of the regulations or the order, as the case may be, shall be laid before each House of the Oireachtas and the regulations or order shall not be made until a resolution approving of the draft has been passed by each such House.
 
-(5) (a) The Minister may by order amend or revoke an order made by him or her under this Act (other than an order under section 72(12) but including an order under this paragraph) and by direction amend or revoke a direction given by him or her under this Act (including a direction under this paragraph).
+(5) (a) The Minister may by order amend or revoke an order made by him or her under this Act (...including an order under this paragraph) and by direction amend or revoke a direction given by him or her under this Act (including a direction under this paragraph).
 
 (b) The Agency may by direction amend or revoke a direction given by it under this Act (including a direction under this paragraph).
 
