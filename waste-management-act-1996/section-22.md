@@ -6,7 +6,7 @@ Waste management plans.
 
 “relevant period” means the period beginning on the date of making of the waste management plan concerned or, as the case may be, the date on which the last evaluation of the said plan under subsection (4) was completed and ending on the date on which the local authority or authorities concerned expect to complete or, as may be appropriate, to next complete, an evaluation of the plan under that subsection;
 
-“revise’, in relation to a waste management plan, includes a review of the plan;
+"revise", in relation to a waste management plan, includes a review of the plan;
 
 “waste management plan” includes, where the context admits, a replacement waste management plan under subsection (4) ....
 
@@ -30,7 +30,7 @@ Waste management plans.
 
 (4) A local authority or, in the case of a waste management plan under subsection (3), the 2 or more local authorities concerned, shall ensure that a waste management plan made by it or them from time to time as occasion may require is evaluated at least once in each period of 6 years after the date of making of the plan and may, consequent on such an evaluation, where appropriate, make, in accordance with Article 9 of the Waste Directive, Regulation 31 of the Regulations of 2011 and section 23, any revisions to the plan or replace it with a new waste management plan as it or they thinks or think fit.
 
-(5) A local authority shall, before it commences the preparation of any of the following, namely, a waste management plan under subsection (2) or (3), a revision of, or a replacement for, such a plan under subsection (4)or a replacement for such a plan in compliance with a requirement made by the Minister under section 24, cause notice of its intention to commence such preparation to be published in a newspaper circulating in its functional area and such a notice shall state that written representations in relation to the matter may be made to the local authority within a specified period, being a period of not less than 2 months from the date of publication of the notice.
+(5) A local authority shall, before it commences the preparation of any of the following, namely, a waste management plan under subsection (2) or (3), a revision of, or a replacement for, such a plan under subsection (4) or a replacement for such a plan in compliance with a requirement made by the Minister under section 24, cause notice of its intention to commence such preparation to be published in a newspaper circulating in its functional area and such a notice shall state that written representations in relation to the matter may be made to the local authority within a specified period, being a period of not less than 2 months from the date of publication of the notice.
 
 (6)(a) A waste management plan shall—
 
@@ -64,7 +64,13 @@ Waste management plans.
 
 (viii) measures to combat and prevent all forms of littering and to clean up all types of litter;
 
-(ix) appropriate qualitative or quantitative indicators and targets, including on the quantity of generated waste and its treatment and on municipal waste that is disposed of or subject to energy recovery.
+(ix) appropriate qualitative or quantitative indicators and targets, including in respect of any or all of the following:
+
+(I) the quantity of generated waste and its treatment;
+
+(II) municipal waste that is disposed of or subject to energy recovery;
+
+(III) the use of products and materials that have been re-used, re-manufactured or repaired, or any combination thereof;
 
 (x) information as respects the integration and implementation of measures consequential on, or incidental to, the requirements of section 27A in relation to waste prevention programmes;
 
@@ -110,7 +116,7 @@ Waste management plans.
 
 (8 bis.) ...
 
-(9) The Minister may make regulations prescribing the manner in which any matter is to be set out or addressed in a waste management plan.
+(9) The Minister may make regulations relating to any matter to be set out or addressed in a waste management plan.
 
 (10) (a) On and from the passing of the Waste Management (Amendment) Act, 2001, but without prejudice to paragraph (c), the duties of a local authority under this section with respect to the making of a waste management plan shall be carried out by the manager of the authority and, accordingly, the making of such a plan shall be an executive function.
 
@@ -162,9 +168,7 @@ Waste management plans.
 
 (e) Notwithstanding section 34(8) of the Planning and Development Act, 2000, where a notice referred to in paragraph (a) is published in relation to an application for permission for development, the manager of the planning authority concerned shall make his or her decision in relation to the application within the period of 8 weeks beginning on the day on which the notice is first published.
 
-(10C) (a) Where development which is consistent with the provisions (including any objectives contained therein) of, and is necessary for the proper implementation of, the waste management plan in force in relation to the area concerned but, in the opinion of the manager of the authority, would contravene materially any other objective of the development plan in force in relation to the area concerned, is proposed to be carried out by—
-
-(i) a local authority that is a planning authority, or
+(10C) (a) Where development which is consistent with the provisions (including any objectives contained therein) of, and is necessary for the proper implementation of, the waste management plan in force in relation to the area concerned but, in the opinion of the manager of the authority, would contravene materially any other objective of the development plan in force in relation to the area concerned, is proposed to be carried out by— (i) a local authority that is a planning authority, or
 
 (ii) some other person on behalf of, or jointly or in partnership with such a local authority, pursuant to a contract entered into by that local authority, within the functional area of the authority (hereafter in this section referred to as “proposed development”), the manager shall publish notice of the intention of the authority to carry out the proposed development in one or more newspapers circulating in that functional area.
 

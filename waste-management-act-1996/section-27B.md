@@ -1,8 +1,8 @@
 Waste prevention programmes.
 
-27B. (1) The Agency shall establish waste prevention programmes setting out at least the waste prevention measures as laid down in Section 27A(1) in accordance with Section 21A and with Article 1 of the Waste Directive.
+27B.— (1) The Agency shall establish waste prevention programmes setting out at least the waste prevention measures as laid down in Section 27A(1) in accordance with Section 21A and with Article 1 of the Waste Directive.
 
-Such programmes shall be integrated either into the waste management plans required under Section 28 or into other environmental policy programmes, as appropriate, or shall function as separate programmes. If any such programme is integrated into the waste management plan or into those other programmes, the waste prevention objectives and measures shall be clearly identified.
+Such programmes shall be integrated either into the waste management plans required under section 22 or into other environmental policy programmes, as appropriate, or shall function as separate programmes. If any such programme is integrated into the waste management plan or into those other programmes, the waste prevention objectives and measures shall be clearly identified.
 
 (2) When establishing such programmes, the Agency shall, where relevant, describe the contribution of instruments and measures listed in the Sixth Schedule to waste prevention and shall evaluate the usefulness of the examples of measures indicated the First Schedule or other appropriate measures. The programmes shall also describe existing waste prevention measures and their contribution to waste prevention.
 

@@ -1,6 +1,6 @@
 Power to impose landfill levy.
 
-73.—(1) The Minister may, after consultation with such other Minister of the Government, if any, as the Minister considers appropriate, make regulations providing that there shall be chargeable, leviable and payable a levy (which shall be known as a ‘landfill levy’ and is in this section referred to as the ‘levy’) in respect of—
+73.—(1) The Minister may, after consultation with such other Minister of the Government, if any, as the Minister considers appropriate, make regulations providing that there shall be chargeable, leviable and payable a levy (which shall be known as a "landfill levy" and is in this section referred to as the "levy") in respect of—
 
 (a) the carrying on of a specified class or classes of waste disposal activity (being an activity referred to in paragraph D1 or D5 of the Third Schedule), or
 
@@ -30,9 +30,9 @@ Power to impose landfill levy.
 
 (5C) Interest paid in accordance with subsection (5A) shall be treated as levy for the purposes of—
 
-(a) subsection (8), in relation to provision under that subsection for levy by virtue of paragraph (l) of section 72(6), and
+(a) subsection (8), in relation to provision under that subsection for levy by virtue of paragraph (n) of section 12 (3) of the Act of 2022, and
 
-(b) section 74(7).
+(b) section 8 (7) of the Act of 2022.
 
 (6) Regulations under subsection (1) shall—
 
@@ -46,7 +46,7 @@ Power to impose landfill levy.
 
 (c) For so long as regulations under subsection (1) restrict the exercise of the power referred to in paragraph (a), the enactment that confers that power shall be construed as if there were contained in it a provision the effect of which is to restrict the exercise of the power in the manner provided by the said regulations.
 
-(8) Regulations under subsection (1) may provide, in relation to levy under this section, for all the matters which regulations under section 72 may, by virtue of paragraphs (a), (c), (d) and (g) to (l) of subsection (6) of that section, provide in relation to levy under that section and those paragraphs shall, accordingly, apply for the purposes of this section with any necessary modifications (including such modifications as will enable like provision with respect to the payment into the Environment Fund of amounts received by a local authority on account of levy under this section to be made with respect to levy under this section chargeable on the local authority itself).
+(8) Regulations under subsection (1) may provide, in relation to levy under this section, for all the matters which regulations under section 11 (1) of the Act of 2022 may, by virtue of paragraphs (a), (c), (d) and (i) to (n) of section 12 (3) of that Act, provide in relation to levy under that section and those paragraphs shall, accordingly, apply for the purposes of this section with any necessary modifications (including such modifications as will enable like provision with respect to the payment into the Environment Fund of amounts received by a local authority on account of levy under this section to be made with respect to levy under this section chargeable on the local authority itself).
 
 (9) ...
 
