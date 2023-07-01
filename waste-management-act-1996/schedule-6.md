@@ -4,7 +4,7 @@ EXAMPLES OF ECONOMIC INSTRUMENTS AND OTHER MEASURES TO PROVIDE INCENTIVES FOR TH
 
 1. Charges and restrictions for the landfilling and incineration of waste which incentivise waste prevention and recycling, while keeping landfilling the least preferred waste management option;
 
-2. ‘Pay-as-you-throw’ schemes that charge waste producers on the basis of the actual amount of waste generated and provide incentives for separation at source of recyclable waste and for reduction of mixed waste;
+2. "Pay-as-you-throw" schemes that charge waste producers on the basis of the actual amount of waste generated and provide incentives for separation at source of recyclable waste and for reduction of mixed waste;
 
 3. Fiscal incentives for donation of products, in particular food;
 

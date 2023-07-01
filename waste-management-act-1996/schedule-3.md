@@ -30,4 +30,4 @@ D 13 Blending or mixing prior to submission to any of the operations numbered fr
 
 D 14 Repackaging prior to submission to any of the operations numbered D 1 to D 13
 
-D 15 Storage pending any of the operations numbered D 1 to D 14 (excluding temporary storage (being preliminary storage according to the definition of ‘collection’ in section 5(1)), pending collection, on the site where the waste is produced).
+D 15 Storage pending any of the operations numbered D 1 to D 14 (excluding temporary storage (being preliminary storage according to the definition of "collection" in section 5(1)), pending collection, on the site where the waste is produced).

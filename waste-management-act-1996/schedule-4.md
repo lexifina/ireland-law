@@ -22,9 +22,9 @@ The energy efficiency formula value will be multiplied by a climate correction f
 
 1. CCF for installations in operation and permitted in accordance with applicable Union legislation before 1September 2015.
 
-CCF = 1 if HDD greater than or equal to3350 CCF = 1.25 if HDD less than or equal to 2150
+CCF = 1 if HDD greater than or equal to3350
 
-CCF = — (0.25/1200) HDD + 1.698 when greater than 2150 and less than 3350
+CCF = 1.25 if HDD less than or equal to 2150 CCF = — (0.25/1200) HDD + 1.698 when greater than 2150 and less than 3350
 
 2. CCF for installations permitted after 31 August 2015 and for installations under paragraph 1 above after 31 December 2029:
 

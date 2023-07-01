@@ -1,6 +1,6 @@
 Fit and proper person.
 
-34D. (1) For the purposes of sections 34, 34A and 34B a person is a fit and proper person if—
+34D.— (1) For the purposes of sections 34, 34A and 34B a person is a fit and proper person if—
 
 (a) neither that person nor any person employed by him or her to direct or control the carrying on of the activity to which the waste collection permit relates or, as the case may be, may relate, has been convicted—
 

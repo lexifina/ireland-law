@@ -1,6 +1,6 @@
 Prevention of Waste.
 
-27A. (1) The Minister or any Minister of the Government concerned shall take measures to prevent waste generation. Those measures shall, at least, include those described in Article 9(1) of the Waste Directive.
+27A.— (1) The Minister or any Minister of the Government concerned shall take measures to prevent waste generation. Those measures shall, at least, include those described in Article 9(1) of the Waste Directive.
 
 (2) The Agency shall monitor and assess the implementation of the waste prevention measures referred to in para (1). For that purpose, they shall use appropriate qualitative or quantitative indicators and targets, notably on the quantity of waste that is generated.
 

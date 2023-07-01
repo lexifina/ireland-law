@@ -6,7 +6,7 @@ Monitoring and inspection.
 
 (ii) Inspections concerning collection and transport operations shall cover the origin, nature, quantity and destination of the waste collected and transported.
 
-(iii) The authorities referred to in subparagraph (i) may take account of registrations obtained under the Community Eco-Management and Audit Scheme (in this Act referred to as ‘EMAS’), in particular regarding the frequency and intensity of inspections.
+(iii) The authorities referred to in subparagraph (i) may take account of registrations obtained under the Community Eco-Management and Audit Scheme (in this Act referred to as "EMAS"), in particular regarding the frequency and intensity of inspections.
 
 (1A) Each local authority and the Agency shall carry out, or cause to be carried out, such monitoring of compliance with environmental conditions attached to a waste licence under section 41(2A) or section 41(2B) as it considers to be necessary having regard to the nature, location and size of the activity and the significance of its effects on the environment.
 

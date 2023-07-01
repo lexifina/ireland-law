@@ -62,9 +62,9 @@ Local Government (Water Pollution) Act, 1977 1977, No. 1
 
 Local Government (Water Pollution) (Amendment) Act, 1990, No. 21 1990
 
-Local Government (Water Pollution) Acts, 1977 and 1990 Petty Sessions (Ireland) Act, 1851 1851, 14 & 15 Vict., c. 93
+Local Government (Water Pollution) Acts, 1977 and 1990
 
-Public Health Acts Amendment Act, 1890 1890, 53 & 54 Vict., c. 59
+Petty Sessions (Ireland) Act, 1851 1851, 14 & 15 Vict., c. 93 Public Health Acts Amendment Act, 1890 1890, 53 & 54 Vict., c. 59
 
 Public Health Acts Amendment Act, 1907 1907, 7 Edw. 7, c. 53
 

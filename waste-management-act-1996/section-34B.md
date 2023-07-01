@@ -1,6 +1,6 @@
 Transfer of a waste collection permit.
 
-34B. (1) In this section and sections 34C and 34D “nominated authority” means a local authority nominated under section 34(1)(aa)(ii).
+34B.— (1) In this section and sections 34C and 34D “nominated authority” means a local authority nominated under section 34(1)(aa)(ii).
 
 (2) A waste collection permit may be transferred to another person in accordance with this section.
 

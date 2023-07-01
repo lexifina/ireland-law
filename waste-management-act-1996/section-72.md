@@ -48,7 +48,7 @@ Power to impose environmental levy.
 
 (5) Regulations under subsection (2) shall provide for the following matters—
 
-(a) the specification of the person or persons to whom the levy shall be payable (who or each of whom is referred to in this section as a “collection authority’),
+(a) the specification of the person or persons to whom the levy shall be payable (who or each of whom is referred to in this section as a "collection authority"),
 
 (b) the conferral of powers on a collection authority with respect to the collection and recovery of the levy (and, for this purpose, the regulations may adapt, with or without modifications, the provisions of any enactment relating to the estimation, collection and recovery of, or the inspection of records or the furnishing of information in relation to, any tax charged or imposed by that enactment).
 

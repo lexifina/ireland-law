@@ -1,6 +1,6 @@
 Review of waste collection permit.
 
-34A. (1) A local authority may review a waste collection permit, or a waste collection permit amended under this section—
+34A.— (1) A local authority may review a waste collection permit, or a waste collection permit amended under this section—
 
 (a) at any time after the permit was granted or amended, or
 

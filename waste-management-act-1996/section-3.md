@@ -1,6 +1,6 @@
 Non-application of this Act.
 
-3. (1) This Act shall not apply to—
+3.— (1) This Act shall not apply to—
 
 (a) gaseous effluents emitted into the atmosphere and carbon dioxide captured and transported for the purposes of geological storage and geologically stored in accordance with Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide or excluded from the scope of that Directive pursuant to Article 2(2) of that Directive,
 
