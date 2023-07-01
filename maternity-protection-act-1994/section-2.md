@@ -32,7 +32,7 @@ Interpretation.
 
 “employee who has recently given birth” means at any time an employee whose date of confinement was not more than 14 weeks earlier and who has informed her employer of her condition;
 
-“employee who is breastfeeding” means at any time an employee whose date of confinement was not more than twenty-six weeks earlier, who is breastfeeding and who has informed her employer of her condition;
+“employee who is breastfeeding” means at any time an employee whose date of confinement was not more than one hundred and four weeks earlier, who is breastfeeding and who has informed her employer of her condition;
 
 “employer”, subject to subsection (2), means, in relation to an employee, the person with whom the employee has entered into or for whom the employee works under (or, where the employment has ceased, entered into or worked under) a contract of employment;
 
