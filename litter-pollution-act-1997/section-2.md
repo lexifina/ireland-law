@@ -2,6 +2,26 @@ Interpretation.
 
 2. — (1) In this Act, unless the contrary intention appears—
 
+"Act of 2022" means the Circular Economy and Miscellaneous Provisions Act 2022;
+
+"approval", in relation to a proposal under section 23A, means an approval given under section 23A(5) or renewed under section 23A(11) in respect of the CCTV scheme which is the subject of the proposal;
+
+"approved CCTV scheme" means a CCTV scheme which is the subject of a proposal in respect of which an approval is in being;
+
+"authorised person" means a person who is appointed in writing by a local authority to be an authorised person for the purposes of this Act or any provisions thereof as the local authority determines;
+
+"automatic number plate recognition device" means a device which engages an automated method of recognising vehicle registration plates from a camera image;
+
+"biometric data" has the meaning given to it by section 69(1) of the Data Protection Act 2018;
+
+"CCTV scheme" has the meaning given to it by section 23A(1);
+
+"closed circuit television" or "CCTV" means a system of recording devices the signals of which are not made publicly available but are monitored, or are capable of being monitored, by a local authority;
+
+"code of practice" means a code of practice approved by the Minister in accordance with section 23B and includes part of a code of practice;
+
+"facial recognition device" means a device or system of devices which, through automated use of biometric data, matches or categorises facial images captured by the device;
+
 “deposit”, in relation to a substance or object that can constitute litter in respect of any place, means to throw, drop, dump, abandon or discard the substance or object, as the case may be, or allow it to escape or be released in or into the place;
 
 “footway” has the meaning assigned by the Roads Act, 1993;
@@ -38,11 +58,15 @@ Interpretation.
 
 “occupier”, in relation to any place or thing, means the person occupying, whether legally or otherwise, the place or thing and includes any other person having, for the time being, control of the place or thing;
 
+"operation", in relation to closed circuit television, includes the maintenance and monitoring of closed circuit television;
+
 “prescribed” means prescribed by regulations made by the Minister;
 
 “public place” means any place to which the public has access whether as of right or by permission and whether subject to or free of charge;
 
 “public road” has the meaning assigned by the Roads Act, 1993;
+
+"recording device" means a device that is capable of recording or processing, or both, visual images or audio, or both, on any medium, from which a visual image or moving visual images may be produced and includes any accompanying document, and, where only visual images or moving visual images are concerned, includes any sound accompanying those images but does not include automatic number plate recognition devices or facial recognition devices;
 
 “registered owner”, in respect of a vehicle, has the meaning assigned by the Road Traffic Act, 1961;
 
