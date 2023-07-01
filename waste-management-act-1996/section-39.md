@@ -141,3 +141,11 @@ Requirement to hold waste licence.
 (8) The Minister may make regulations amending the First Schedule to the Act of 1992 by the addition thereto, subject to such modifications, if any, as he or she may determine and specifies in the regulations, of any of the activities specified in the Third Schedule or the Fourth Schedule.
 
 (9) A person who contravenes subsection (1) or a provision of regulations under subsection (4) or (6) shall be guilty of an offence.
+
+50 S.I. No. 395 of 2004 51 S.I. No. 30 of 2000 52 S.I. No. 402 of 2006
+
+(i) that licence or revised licence shall continue in force and the provisions of the Act of 1992 (apart from the amendment of them effected by the said subsection (1)) shall continue to apply in relation to it, and
+
+(ii) section 39(1) of the Act of 1996 shall not apply in relation to that activity, for such period as the Environmental Protection Agency may determine and specifies in writing.
+
+(4) The period determined under subsection (3) of this section shall not, other than with the consent of the holder of the licence concerned, be less than 3 years from the passing of this Act.
