@@ -1,6 +1,6 @@
 Entitlement to maternity leave.
 
-8.—(1) Subject to this Part, a pregnant employee shall be entitled to leave, to be known (and referred to in this Act) as ‘maternity leave’, from her employment for a period (in this Part referred to as ‘the minimum period of maternity leave’ of not less than—
+8.—(1) Subject to this Part, a pregnant employee shall be entitled to leave, to be known (and referred to in this Act) as "maternity leave", from her employment for a period (in this Part referred to as "the minimum period of maternity leave" of not less than—
 
 (a) 26 consecutive weeks, or
 

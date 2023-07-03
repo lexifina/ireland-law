@@ -1,4 +1,4 @@
-F24[Termination of additional maternity leave in event of sickness of mother.
+F26[Termination of additional maternity leave in event of sickness of mother.
 
 14A.—(1) If, at any time—
 
