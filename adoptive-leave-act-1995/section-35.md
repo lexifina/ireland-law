@@ -1,0 +1,3 @@
+Appeal from decision of rights commissioner. (Repealed)
+
+35.—...
