@@ -14,7 +14,7 @@ WEEKLY PAYMENTS FROM THE REDUNDANCY FUND
 
 (b) (ii) Subclause (i) of this subparagraph shall not apply to a person, who, for the time being, is employed on short-time whereby he works on a lesser number of days in a working week than is normal to the working week in that employment and whose basic earnings are reduced as a result.
 
-(2)(a)In this subparagraph the total amount being paid in respect of a week to a person means—
+(2)(a) In this subparagraph the total amount being paid in respect of a week to a person means—
 
 (i) In the case of a person normally resident in the State, the total amount being paid to him in respect of the following in a period of interruption of employment commencing on or after the 21st day of June, 1976,— a weekly payment, disability benefit under the Social Welfare Acts, 1952 to 1976, maternity allowance under the Social Welfare Acts, 1952 to 1976, pay-related benefit under the Social Welfare (Pay-Related Benefit) Act, 1973,
 
@@ -92,4 +92,4 @@ WEEKLY PAYMENTS FROM THE REDUNDANCY FUND
 
 (b) does not belong to a grade or class of workers of which, immediately before the commencement of the stoppage, there were members employed at his place of employment any of whom are participating in or financing or directly interested in the dispute.
 
-(4) In this paragraph ‘trade dispute’ means any dispute between employers and employees, or between employees and employees, which is connected with the employment or non-employment or the terms of employment or the conditions of employment of any persons, whether employees in the employment of the employer with whom the dispute arises or not.
+(4) In this paragraph "trade dispute" means any dispute between employers and employees, or between employees and employees, which is connected with the employment or non-employment or the terms of employment or the conditions of employment of any persons, whether employees in the employment of the employer with whom the dispute arises or not.
