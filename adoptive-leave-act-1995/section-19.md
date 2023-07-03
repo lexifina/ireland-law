@@ -1,6 +1,6 @@
 Right to suitable alternative employment in certain circumstances on return to work.
 
-19.—(1) Where an adopting parent is entitled to return to work under section 18 but it is not reasonably practicable for his or her employer or the successor to permit her to return to work in accordance with that section, she shall be entitled to be offered by his or her employer, the successor or an associated employer suitable alternative employment in accordance with a new contract of employment.
+19.—(1) Where an adopting parent is entitled to return to work under section 18 but it is not reasonably practicable for his or her employer or the successor to permit him or her to return to work in accordance with that section, he or she shall be entitled to be offered by his or her employer, the successor or an associated employer suitable alternative employment in accordance with a new contract of employment.
 
 (2) The following provisions shall apply to a new contract of employment under this section—
 
