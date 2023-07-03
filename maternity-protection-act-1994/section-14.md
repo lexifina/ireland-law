@@ -1,6 +1,6 @@
 Entitlement to additional maternity leave.
 
-14.—(1) An employee who has taken maternity leave shall, if she so wishes, be entitled in accordance with this section to further leave from her employment, to be known (and referred to in this Act) as ‘additional maternity leave’, for a maximum period of—
+14.—(1) An employee who has taken maternity leave shall, if she so wishes, be entitled in accordance with this section to further leave from her employment, to be known (and referred to in this Act) as "additional maternity leave", for a maximum period of—
 
 (a) 16 consecutive weeks commencing immediately after the end of her maternity leave and, where applicable, any period of transferred paternity leave taken by her, or
 

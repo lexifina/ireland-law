@@ -22,4 +22,4 @@ Entitlement to time off from work or reduction of working hours for breastfeedin
 
 (4) If an employee who has exercised her entitlement under subsection (1) ceases to breastfeed, she shall, at the earliest practical time, notify her employer in writing that she has so ceased.
 
-(5) In this section ‘breastfeeding’ means breastfeeding a child or expressing breast milk and feeding it to a child immediately or storing it for the purpose of feeding it to the child at a later time.
+(5) In this section "breastfeeding" means breastfeeding a child or expressing breast milk and feeding it to a child immediately or storing it for the purpose of feeding it to the child at a later time.
