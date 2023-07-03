@@ -10,6 +10,8 @@ Protocol No. 13 to the Convention for the Protection of Human Rights and Fundame
 
 Vilnius, 3.V. 200 2
 
+Text amended according to the provisions of Protocol No. 14 (CETS No. 194).
+
 The member States of the Council of Europe signatory hereto,
 
 Convinced that everyone’s right to life is a basic value in a democratic society and that the abolition of the death penalty is essential for the protection of this right and for the full recognition of the inherent dignity of all human beings;

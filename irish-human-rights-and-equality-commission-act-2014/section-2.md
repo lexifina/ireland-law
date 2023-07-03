@@ -34,6 +34,8 @@ Interpretation
 
 “enactment” means a statute or an instrument made under a power conferred by statute;
 
+OJL 053, 22/02/2007 p. 0001 - 0014.
+
 “equality action plan” and “equality review” have the meanings respectively assigned to them by section 29 ;
 
 “European Union Agency for Fundamental Rights” means the agency established under Council Regulation 168/2007;
