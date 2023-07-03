@@ -1,8 +1,8 @@
 ## PART II PARENTAL LEAVE AND FORCE MAJEURE LEAVE
 
-F7[ Entitlement to parental leave.
+F6[Entitlement to parental leave.
 
-6.— (1) Subject to this Act, an employee who is a relevant parent in respect of a child shall be entitled to leave from his or her employment, to be known and referred to in this Act as ‘parental leave’, for a period of 18 working weeks to enable him or her to take care of the child.
+6.— (1) Subject to this Act, an employee who is a relevant parent in respect of a child shall be entitled to leave from his or her employment, to be known and referred to in this Act as "parental leave", for a period of 18 working weeks to enable him or her to take care of the child.
 
 (1A) The reference in subsection (1) to a period of 18 working weeks shall be construed—
 
@@ -27,6 +27,8 @@ F7[ Entitlement to parental leave.
 (ii) ceases to have that disability or long-term illness or any other disability or long-term illness, whichever first occurs.
 
 (3) A period of parental leave shall not commence before a time when the employee concerned has completed one year’s continuous employment with the employer from whose employment the leave is taken.
+
+(3A) For the purposes of this section, where an employee ceases to be the employee of an employer and, not more than 26 weeks after the date of cesser, the employee again becomes the employee of the employer, the period of service of that employee with that employer before the date of cesser shall be deemed to be continuous with the period of service of that employee with that employer after again becoming such employee.
 
 (4) Subject to this Act, an employee shall be entitled to parental leave in respect of each child of which he or she is a relevant parent.
 
@@ -60,28 +62,20 @@ F7[ Entitlement to parental leave.
 
 (9) In this section—
 
-‘adopting parent’ means a qualifying adopter or a surviving parent within the meaning of the definitions of ‘qualifying adopter’ and ‘surviving parent’ in section 2(1) (as amended by section 5 of the Family Leave and Miscellaneous Provisions Act 2021) of the Adoptive Leave Act 1995 but as if, in both of those definitions, ‘or is to be placed’ were omitted in each place where it occurs;
+...
 
-‘adoptive parent’, in relation to a child, means a person in whose favour an adoption order in respect of the child has been made and is in force;
+...
 
-‘continuous employment’ includes employment completed by an employee under two or more continuous fixed-term contracts with the same employer;
+...
 
-‘continuous fixed-term contract’ has the same meaning as it has in section 9(2) of the Protection of Employees (Fixed-Term Work) Act 2003;
+"continuous fixed-term contract" has the same meaning as it has in section 9(2) of the Protection of Employees (Fixed-Term Work) Act 2003;
 
-‘disability’, in relation to a child, means an enduring physical, sensory, mental health or intellectual impairment of the child such that the level of care required for the child is substantially more than the level of care that is generally required for children of the same age who do not have any such impairment;
+"disability", in relation to a child, means an enduring physical, sensory, mental health or intellectual impairment of the child such that the level of care required for the child is substantially more than the level of care that is generally required for children of the same age who do not have any such impairment;
 
-‘long-term illness’, in relation to a child, means a long-term illness, the effect of which is that the level of care required for the child is substantially more than the level of care that is generally required for children of the same age who do not have any such long term illness;
+"long-term illness", in relation to a child, means a long-term illness, the effect of which is that the level of care required for the child is substantially more than the level of care that is generally required for children of the same age who do not have any such long term illness;
 
-‘relevant Act’ means the Parental Leave (Amendment) Act 2006;
+"relevant Act" means the Parental Leave (Amendment) Act 2006;
 
-‘relevant day’ means the day on which section
+"relevant day" means the day on which section 2 of the relevant Act comes into operation;
 
-## 2
-
-of the relevant Act comes into operation;
-
-‘relevant parent’, in relation to a child, means a person who is—
-
-(a) the parent, the adoptive parent or the adopting parent in respect of the child, or
-
-(b) acting in loco parentis to the child.
+...
