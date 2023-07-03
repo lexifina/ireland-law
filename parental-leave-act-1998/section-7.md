@@ -66,4 +66,4 @@ Manner in which parental leave may be taken.
 
 (b) Where any public holiday to which an employee is entitled falls during a period of parental leave of the employee and on a day when (but for the leave and the holiday) the employee would be working in the employment concerned, a day shall be added to the period of parental leave that the employee is entitled to take.
 
-(5) In this section, ‘relevant number’ means the number equivalent to the number of weeks referred to in section 6(1).
+(5) In this section, "relevant number" means the number equivalent to the number of weeks referred to in section 6(1).
