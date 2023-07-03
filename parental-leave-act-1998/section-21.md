@@ -1,6 +1,6 @@
-[Decision under section 41 or 44 of Workplace Relations Act 2015.]
+Decision under section 41 or 44 of Workplace Relations Act 2015.
 
-21. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute between an employee and his or her employer relating to the entitlements of the employee under this Act (or any matter arising out of or related to those entitlements or otherwise arising under this Act) or a decision of the Labour Court under section 44 of the said Workplace Relations Act 2015 on appeal from the first-mentioned decision, may contain such directions to the parties concerned as the adjudication officer or the Labour Court, as the case may be, considers necessary or expedient for the resolution of the dispute or matter and such other redress as the adjudication officer or the Labour Court, as the case may be, considers appropriate having regard to all of the circumstances and the provisions of this Act, and accordingly may specify—
+21.—(1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute between an employee and his or her employer relating to the entitlements of the employee under this Act (or any matter arising out of or related to those entitlements or otherwise arising under this Act) or a decision of the Labour Court under section 44 of the said Workplace Relations Act 2015 on appeal from the first-mentioned decision, may contain such directions to the parties concerned as the adjudication officer or the Labour Court, as the case may be, considers necessary or expedient for the resolution of the dispute or matter and such other redress as the adjudication officer or the Labour Court, as the case may be, considers appropriate having regard to all of the circumstances and the provisions of this Act, and accordingly may specify—
 
 (a) the grant to the employee of parental leave of such length to be taken at such time or times and in such manner as may be so specified,
 
@@ -28,7 +28,7 @@
 
 (a) the period of parental leave concerned be curtailed or that its form be varied or its commencement postponed for a specified period, or
 
-(b) parental leave taken by reason of being so curtailed be taken at a specified time, provided that the adjudication officer considers that the giving of such direction is reasonable due to there being a serious and substantial change in circumstances affecting the employer or the employee.
+(b) parental leave not taken by reason of being so curtailed be taken at a specified time, provided that the adjudication officer considers that the giving of such direction is reasonable due to there being a serious and substantial change in circumstances affecting the employer or the employee.
 
 (7) Without prejudice to the generality of subsections (1) and (2), a decision of the Labour Court under section 44 of the Workplace Relations Act 2015 on appeal from a decision of an adjudication officer referred to in subsection (1) may contain a direction that—
 
@@ -38,4 +38,4 @@
 
 (8) Where appropriate, the confirmation document concerned shall be amended by the parties concerned so as to accord with a decision under this section.
 
-(9) In this section ‘remuneration’ includes allowances in the nature of pay and benefits in lieu of or in addition to pay.
+(9) In this section "remuneration" includes allowances in the nature of pay and benefits in lieu of or in addition to pay.

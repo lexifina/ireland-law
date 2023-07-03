@@ -12,13 +12,13 @@ Meetings of Authority.
 
 (b) without refusing to call a meeting, does not call one within 7 days after being presented with the requisition.
 
-(5) The members present at a meeting called under subsection (4) shall choose one of their number to chair the meeting.
+(5) Subject to subsection (7), the members present at a meeting called under subsection (4) shall choose one of their number to chair the meeting.
 
 (6) The quorum for a meeting of the Authority is—
 
 (a) the chairperson or deputy chairperson, or
 
-(b) in the case of a meeting called under subsection (4), the member chosen under subsection (5) to chair the meeting who, for that meeting, shall be regarded as the chairperson for the purposes of subsections (9) and (10), and 2 ordinary members, one of whom shall be a person described in paragraph (a) or (b) of section 98(3).
+(b) in the case of a meeting called under subsection (4), and where applicable, the member chosen under subsection (5) to chair the meeting who, for that meeting, shall be regarded as the chairperson for the purposes of subsections (9) and (10), and 2 other members, one of whom may be the deputy chairperson where the chairperson or another member chosen under subsection (5) is presiding.
 
 (7) The chairperson shall preside at all meetings of the Authority at which he or she is present.
 

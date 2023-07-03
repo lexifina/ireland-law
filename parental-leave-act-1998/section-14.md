@@ -4,7 +4,7 @@ Protection of employment rights.
 
 14.—(1) An employee shall, while on parental leave, be regarded for all purposes relating to his or her employment (other than his or her right to remuneration or superannuation benefits or any obligation to pay contributions in or in respect of the employment) as still working in the employment and none of his or her other rights relating to the employment shall be affected by the leave.
 
-(2) Absence from employment while on parental leave shall not be treated as part of any other leave from employment (including sick leave, annual leave, adoptive leave, maternity leave and force majeure leave) to which the employee concerned is entitled.
+(2) Absence from employment while on parental leave shall not be treated as part of any other leave from employment (including sick leave, annual leave, adoptive leave, maternity leave , force majeure leave,) to which the employee concerned is entitled.
 
 (3) Where—
 

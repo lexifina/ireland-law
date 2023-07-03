@@ -1,6 +1,6 @@
 Protection of employees from penalisation.
 
-16A.— (1) An employer shall not penalise an employee for proposing to exercise or having exercised his or her entitlement to parental leave or force majeure leave or to make a request under section 15A(2).
+16A.— (1) An employer shall not penalise an employee for proposing to exercise or having exercised his or her entitlement to parental leave, force majeure leave, leave for medical care purposes, domestic violence leave or his or her entitlement to make a request referred to in section 13B(1) or 15A(2).
 
 (2) Penalisation of an employee includes—
 
