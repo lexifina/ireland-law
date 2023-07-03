@@ -18,7 +18,9 @@ Parental Leave Act, 1998
 
 Payment of Wages Act, 1991
 
-Protection of Employees (Employers’ Insolvency) Acts, 1984 to 1991 Protection of Young Persons (Employment) Act, 1996
+Protection of Employees (Employers’ Insolvency) Acts, 1984 to 1991
+
+Protection of Young Persons (Employment) Act, 1996
 
 Redundancy Payments Acts, 1967 to 1991
 
@@ -34,9 +36,7 @@ European Communities (Protection of Employment) Regulations 2000 (S.I. No. 488 o
 
 Carer’s Leave Act 2001
 
-Protection of Employees (Part-Time Work) Act 2001
-
-European Communities (Protection of Employees on the Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003)
+Protection of Employees (Part-Time Work) Act 2001 European Communities (Protection of Employees on the Transfer of Undertakings) Regulations 2003 (S.I. No. 131 of 2003)
 
 Protection of Employees (Fixed-Term Work) Act 2003
 
