@@ -1,6 +1,6 @@
-[Decision under section 41 or section 44 of Workplace Relations Act 2015.]
+Decision under section 41 or section 44 of Workplace Relations Act 2015.
 
-33. (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute between an adopting parent and the relevant employer relating to the adopting parent’s entitlements under this Act or any matter in connection with such entitlements may include—
+33.— (1) A decision of an adjudication officer under section 41 of the Workplace Relations Act 2015 in relation to a dispute between an adopting parent and the relevant employer relating to the adopting parent’s entitlements under this Act or any matter in connection with such entitlements may include—
 
 (a) such directions to the parties to the complaint as the adjudication officer considers necessary or expedient for the resolution of the matter, and
 

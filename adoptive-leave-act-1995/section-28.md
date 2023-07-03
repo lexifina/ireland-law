@@ -6,6 +6,4 @@ Amendment of Schedule 3 to Redundancy Payments Act 1967.
 
 ‘(b) a period during which, in accordance with the Adoptive Leave Acts 1995 and 2005, an adopting parent was absent from work while on adoptive leave or additional adoptive leave or while attending certain pre-adoption classes or meetings,’, and
 
-(b) in paragraph 8A (absences allowable as reckonable service) (inserted by section 12(b) of the said Act of 2003), by substituting the following subparagraph for subparagraph (a):
-
-‘(a) a period during which, in accordance with the Adoptive Leave Acts 1995 and 2005, an adopting parent was absent from work while on adoptive leave or additional adoptive leave or while attending certain pre-adoption classes or meetings,’.
+(b) in paragraph 8A (absences allowable as reckonable service) (inserted by section 12(b) of the said Act of 2003), by substituting the following subparagraph for subparagraph (a): ‘(a) a period during which, in accordance with the Adoptive Leave Acts 1995 and 2005, an adopting parent was absent from work while on adoptive leave or additional adoptive leave or while attending certain pre-adoption classes or meetings,’.
