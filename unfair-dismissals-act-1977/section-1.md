@@ -2,11 +2,11 @@ Definitions.
 
 1.—In this Act—
 
-‘Act of 2015’ means the Workplace Relations Act 2015;
+"Act of 2015" means the Workplace Relations Act 2015;
 
-‘adjudication officer’ has the same meaning as it has in the Act of 2015;
+"adjudication officer" has the same meaning as it has in the Act of 2015;
 
-‘adopting parent’ means an employee who is an adopting parent within the meaning of the Adoptive Leave Act 1995;
+"adopting parent" means an employee who is an adopting parent within the meaning of the Adoptive Leave Act 1995;
 
 “contract of employment” means a contract of service or of apprenticeship, whether it is express or implied and (if it is express) whether it is oral or in writing;
 
@@ -22,7 +22,7 @@ Definitions.
 
 (c) where a contract of employment for a fixed term expires without its being renewed under the same contract or, in the case of a contract for a specified purpose (being a purpose of such a kind that the duration of the contract was limited, but was, at the time of its making, incapable of precise ascertainment), there is a cesser of the purpose, the date of the expiry or cesser;
 
-‘Director General’ means the Director General of the Workplace Relations Commission;
+"Director General" means the Director General of the Workplace Relations Commission;
 
 “dismissal”, in relation to an employee, means—
 
@@ -38,21 +38,21 @@ Definitions.
 
 “industrial action” means lawful action taken by any number or body of employees acting in combination or under a common understanding, in consequence of a dispute, as a means of compelling their employers or any employee or body of employees, or to aid other employees in compelling their employer or any employee or body of employees, to accept or not to accept terms or conditions of or affecting employment;
 
-‘Minister’ means the Minister for Enterprise, Trade and Employment;
+"Minister" means the Minister for Enterprise, Trade and Employment;
 
-‘protected disclosure’ has the meaning given by the Protected Disclosures Act 2014;
+"protected disclosure" has the meaning given by the Protected Disclosures Act 2014;
 
 “redundancy” means any of the matters referred to in paragraphs (a) to (e) of section 7 (2) of the Redundancy Payments Act, 1967, as amended by the Redundancy Payments Act, 1971;
 
-‘relevant wrongdoing’ has the meaning given by the Protected Disclosures Act 2014;
+"relevant wrongdoing" has the meaning given by the Protected Disclosures Act 2014;
 
 “statutory apprenticeship” means an apprenticeship in a designated industrial activity within the meaning of the Industrial Training Act, 1967, and includes any apprenticeship in a trade to which an order, rule or notice referred to in paragraph (a) or (b) of section 49 (1) of that Act applies;
 
 “strike” means the cessation of work by any number or body of employees acting in combination or a concerted refusal or a refusal under a common understanding of any number of employees to continue to work for an employer, in consequence of a dispute, done as a means of compelling their employer or any employee or body of employees, or to aid other employees in compelling their employer or any employee or body of employees, to accept or not to accept terms or conditions of or affecting employment;
 
-‘trade union’ means a trade union which is the holder of a negotiation licence under Part II of the Trade Union Act, 1941;
+"trade union" means a trade union which is the holder of a negotiation licence under Part II of the Trade Union Act, 1941;
 
-‘the Tribunal’ means the Tribunal established by section 39 of the Redundancy Payments Act, 1967, and known, by virtue of section 18 of this Act, as the Employment Appeals Tribunal.
+"the Tribunal" means the Tribunal established by section 39 of the Redundancy Payments Act, 1967, and known, by virtue of section 18 of this Act, as the Employment Appeals Tribunal.
 
 (2) Where on the date of an award to an employee of re-instatement under this Act—
 

@@ -1,3 +1,3 @@
-Proceedings in Circuit Court for redress under Act.
+Proceedings in Circuit Court for redress under Act. (Repealed)
 
 10.—...

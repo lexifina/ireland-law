@@ -16,7 +16,7 @@ Determination of claims for unfair dismissal.
 
 (1A) A decision of an adjudication officer under subsection (1) consisting of an award of redress in accordance with section 7 shall include a statement of the reasons for the award of such redress and the reasons for the adjudication officer’s deciding not to award other redress under that section.
 
-(1B) Subsection (14) of section 41 of the Act of 2015 applies to a decision of an adjudication officer under subsection (1) as it applies to a decision of an adjudication officer under that section subject to the modification that the words ‘subsection (1) of section 8 of the Act of 1977’ shall be substituted for the words ‘this section’.
+(1B) Subsection (14) of section 41 of the Act of 2015 applies to a decision of an adjudication officer under subsection (1) as it applies to a decision of an adjudication officer under that section subject to the modification that the words "subsection (1) of section 8 of the Act of 1977" shall be substituted for the words "this section".
 
 (2) A claim for redress under this Act shall be initiated by giving a notice in writing (containing such particulars (if any) as may be specified in regulations under subsection (17) of section 41 of the Act of 2015) to the Director General—
 

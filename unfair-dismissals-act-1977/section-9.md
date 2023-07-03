@@ -1,3 +1,3 @@
-Appeal from recommendation of rights commissioner.
+Appeal from recommendation of rights commissioner. (Repealed)
 
 9.—...

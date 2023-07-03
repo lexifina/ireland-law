@@ -12,7 +12,7 @@ Application of provisions of Act of 2015 to claim for redress.
 
 (a) the substitution of the following subsection for subsection (1) :
 
-‘(1) (a) A party to a claim for redress under the Act of 1977 may appeal a decision of an adjudication officer given in relation to that claim to the Labour Court and, where the party does so, the Labour Court shall—
+"(1) (a) A party to a claim for redress under the Act of 1977 may appeal a decision of an adjudication officer given in relation to that claim to the Labour Court and, where the party does so, the Labour Court shall—
 
 (i) give the parties to the appeal an opportunity to be heard by it and to present to it any evidence relevant to the appeal,
 
@@ -20,6 +20,6 @@ Application of provisions of Act of 2015 to claim for redress.
 
 (iii) give the parties to the appeal a copy of that decision in writing.
 
-(b) A decision of the Labour Court under paragraph (a), may include an award of redress under section 7 of the Act of 1977.’; and
+(b) A decision of the Labour Court under paragraph (a), may include an award of redress under section 7 of the Act of 1977."; and
 
 (b) any other necessary modifications.
