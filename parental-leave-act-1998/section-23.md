@@ -11,5 +11,3 @@ Notices.
 (5) The Tribunal may, if it considers it reasonable to do so having regard to all the circumstances, extend by a specified period the time within which a notice under section 19(2) is required to be given.
 
 (6) Time may be extended under subsection (4) or (5) after the expiration of the period of time concerned.
-
-24....

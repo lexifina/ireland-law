@@ -1,8 +1,8 @@
 ## PART V MISCELLANEOUS
 
-F40[Codes of practice.
+F55[Codes of practice.
 
-22A.— (1) The Equality Authority may, or if requested to do so by the Minister shall, prepare for submission to the Minister a draft code of practice for the purposes of providing practical guidance as to the steps that may be taken for complying with one or more provisions of this Act.
+22A.—(1) The Equality Authority may, or if requested to do so by the Minister shall, prepare for submission to the Minister a draft code of practice for the purposes of providing practical guidance as to the steps that may be taken for complying with one or more provisions of this Act.
 
 (2) Before submitting a draft code of practice under subsection (1) to the Minister, the Equality Authority shall consult such other Minister of the Government or other person or body as the Equality Authority considers appropriate or as the Minister may direct.
 
@@ -18,4 +18,4 @@ F40[Codes of practice.
 
 (6) Every order made under subsection (3) or (5) shall be laid before each House of the Oireachtas as soon as practicable after it is made and, if a resolution annulling the order is passed by either such House within the next 21 days on which that House has sat after the order is laid before it, the order shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
 
-(7) In this section, ‘Equality Authority’ means the Equality Authority as construed in accordance with section 38(1) of the Employment Equality Act 1998.
+(7) In this section, "Equality Authority" means the Equality Authority as construed in accordance with section 38(1) of the Employment Equality Act 1998.

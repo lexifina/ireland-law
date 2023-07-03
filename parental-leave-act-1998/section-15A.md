@@ -1,6 +1,6 @@
-F28[Right to request changes when returning from parental leave.
+F40[Right to request changes when returning from parental leave.
 
-15A. (1) An employee who exercises or proposes to exercise an entitlement under section 15 may request, in accordance with subsection (2), changes to his or her working hours or patterns, or both, to apply for a set period of time following his or her return to work.
+15A.—(1) An employee who exercises or proposes to exercise an entitlement under section 15 may request, in accordance with subsection (2), changes to his or her working hours or patterns, or both, to apply for a set period of time following his or her return to work.
 
 (2) An employee who proposes to request changes referred to in subsection (1) shall, as soon as reasonably practicable but not later than 6 weeks before the proposed commencement of the set period concerned, give to his or her employer a request in writing signed by the employee, which shall specify the nature of the changes requested and the date of commencement and duration of the set period requested.
 
