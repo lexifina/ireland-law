@@ -20,7 +20,7 @@ Public bodies
 
 (a) issue guidelines, or
 
-(b) prepare codes of practice in accordance with section 31 , in respect of the development by public bodies of performance measures, operational standards and written preventative strategies for the purpose of reducing discrimination and promoting human rights and equality in the public sector workplace and in the provision of services to the public.
+(b) prepare codes of practice in accordance with section 31, in respect of the development by public bodies of performance measures, operational standards and written preventative strategies for the purpose of reducing discrimination and promoting human rights and equality in the public sector workplace and in the provision of services to the public.
 
 (5) Where the Commission considers that there is evidence of a failure by a public body to perform its functions in a manner consistent with subsection (1) and that it is appropriate in all the circumstances to do so, the Commission may invite the public body to—
 

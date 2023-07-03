@@ -1,6 +1,6 @@
 Substantive notices
 
-33. (1) Without prejudice to the generality of section 32 , where the Commission considers it appropriate to do so for the purposes of an equality review or preparing an equality action plan in respect of an undertaking under section 32 , the Commission may serve a substantive notice on a person—
+33. (1) Without prejudice to the generality of section 32, where the Commission considers it appropriate to do so for the purposes of an equality review or preparing an equality action plan in respect of an undertaking under section 32, the Commission may serve a substantive notice on a person—
 
 (a) requiring any person so served to supply to the Commission such information as may reasonably be required by the Commission as is specified in the notice,
 
@@ -20,6 +20,6 @@ Substantive notices
 
 (5) The Commission shall have regard to any representations made to it under subsection (4) in assessing whether to proceed with the service of the substantive notice.
 
-(6) A substantive notice shall, unless an appeal is brought under section 34 , come into operation on the expiry of 56 days from the service of the substantive notice.
+(6) A substantive notice shall, unless an appeal is brought under section 34, come into operation on the expiry of 56 days from the service of the substantive notice.
 
 (7) A person who fails to comply with a substantive notice shall be guilty of an offence and shall be liable on summary conviction to a class C fine or imprisonment for a term not exceeding 1 year or both.
