@@ -1,6 +1,6 @@
 Exclusions.
 
-2.—(1) Except in so far as any provision of this Act otherwise provides This Act shall not apply in relation to any of the following persons:
+2.—(1) Except in so far as any provision of this Act otherwise provides this Act shall not apply in relation to any of the following persons:
 
 (a) an employee (other than a person referred to in section 4 of this Act) who is dismissed, who, at the date of his dismissal, had less than one year’s continuous service with the employer who dismissed him ...,
 
@@ -46,9 +46,9 @@ Exclusions.
 
 (e) dismissal where the employer at the commencement of the employment informs the employee in writing that the employment will terminate on the return to work with that employer of an employee who is absent from work while on carer’s leave under the Carer’s Leave Act, 2001, and the dismissal of the employee duly occurs for the purpose of facilitating the return to work of the employee who has been on carer’s leave.
 
-(2A) Where, following dismissal consisting only of the expiry of the term of a contract of employment of a kind mentioned in subsection (2) (‘the prior contract’) without the term being renewed under the contract or the cesser of the purpose of the contract—
+(2A) Where, following dismissal consisting only of the expiry of the term of a contract of employment of a kind mentioned in subsection (2) ("the prior contract") without the term being renewed under the contract or the cesser of the purpose of the contract—
 
-(a) the employee concerned is re-employed by the employer concerned within 3 months of the dismissal under a contract of employment of that kind made between the employer and the employee (‘the subsequent contract’) and the nature of the employment is the same as or similar to that of the employment under the prior contract,
+(a) the employee concerned is re-employed by the employer concerned within 3 months of the dismissal under a contract of employment of that kind made between the employer and the employee ("the subsequent contract") and the nature of the employment is the same as or similar to that of the employment under the prior contract,
 
 (b) the employee is dismissed from the employment,
 
@@ -60,7 +60,7 @@ Exclusions.
 
 (ii) the term of the prior contract and of any antecedent contracts shall be added to that of the subsequent contract for the purpose of the ascertainment under this Act of the period of service of the employee with the employer and the period so ascertained shall be deemed for those purposes to be one of continuous service.
 
-(2B) In subsection (2A), ‘antecedent contract’, in relation to a prior contract, means—
+(2B) In subsection (2A), "antecedent contract", in relation to a prior contract, means—
 
 (a) a contract of employment of the kind mentioned in subsection (2) the term of which expired not more than 3 months before the commencement of the prior contract, or
 
