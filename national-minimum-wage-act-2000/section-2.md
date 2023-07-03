@@ -8,9 +8,9 @@ Interpretation.
 
 (b) any other contract whereby an individual agrees with another person to do or perform personally any work or service for that person or a third person (whether or not the third person is a party to the contract), whether the contract is express or implied and, if express, whether or not it is in writing;
 
-‘Act of 2015’ means the National Minimum Wage (Low Pay Commission) Act 2015;
+"Act of 2015" means the National Minimum Wage (Low Pay Commission) Act 2015;
 
-‘Commission’ means the Low Pay Commission established under section 10A (inserted by section 5 of the Act of 2015);
+"Commission" means the Low Pay Commission established under section 10A (inserted by section 5 of the Act of 2015);
 
 “employee” means a person of any age who has entered into, or works or has worked under, a contract of employment;
 
@@ -22,7 +22,7 @@ Interpretation.
 
 “Minister” means the Minister for Enterprise, Trade and Employment;
 
-‘national minimum hourly rate of pay’ means the rate of pay declared by order of the Minister under section 10D (inserted by section 8 of the Act of 2015);
+"national minimum hourly rate of pay" means the rate of pay declared by order of the Minister under section 10D (inserted by section 8 of the Act of 2015);
 
 “pay” means all amounts of payment, and any benefit-in-kind specified in Part 1 of Schedule 1, made or allowed by an employer to an employee in respect of the employee’s employment;
 

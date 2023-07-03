@@ -1,6 +1,6 @@
 Functions of Commission.
 
-10C. (1) Without prejudice to the generality of section 10B, the Commission shall once each year—
+10C.—(1) Without prejudice to the generality of section 10B, the Commission shall once each year—
 
 (a) examine the national minimum hourly rate of pay, and
 
@@ -58,7 +58,7 @@ Functions of Commission.
 
 (8) The Commission shall have all such powers as are necessary or expedient for the performance of its functions.
 
-(9) In this section ‘relevant period’ means—
+(9) In this section "relevant period" means—
 
 (a) in the case of the first report furnished under subsection (2)(b), the period since the most recent making of an order under section 11 of the Principal Act, or
 

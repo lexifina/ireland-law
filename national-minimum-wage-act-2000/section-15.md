@@ -1,6 +1,6 @@
 Prescription of percentages of hourly rates of pay.
 
-15. (1) The Minister shall prescribe a percentage of the national minimum hourly rate of pay in relation to employees—
+15.—(1) The Minister shall prescribe a percentage of the national minimum hourly rate of pay in relation to employees—
 
 (a) who have not attained the age of 18 years,
 

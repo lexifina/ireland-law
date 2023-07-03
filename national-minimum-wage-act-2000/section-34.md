@@ -16,4 +16,4 @@ Investigation of allegation or matter by inspector.
 
 (6) A rights commissioner shall, at the request of an inspector, inform the inspector as to whether a particular dispute has been referred to the rights commissioner under section 24.
 
-(7) In this section ‘inspector’ has the same meaning as it has in the Workplace Relations Act 2015.
+(7) In this section "inspector" has the same meaning as it has in the Workplace Relations Act 2015.

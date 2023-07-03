@@ -1,6 +1,6 @@
 National minimum hourly rate of pay.
 
-10D. (1) Within 3 months of the date of receipt of a recommendation and report submitted to him or her under section 10C(2) and having considered the report and recommendation and having had regard to section 10C(3), the Minister shall—
+10D.—(1) Within 3 months of the date of receipt of a recommendation and report submitted to him or her under section 10C(2) and having considered the report and recommendation and having had regard to section 10C(3), the Minister shall—
 
 (a) by order declare a national minimum hourly rate of pay—
 
