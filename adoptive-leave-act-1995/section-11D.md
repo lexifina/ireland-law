@@ -1,4 +1,4 @@
-F44[Absence from work owing to sickness while leave postponed.
+F46[Absence from work owing to sickness while leave postponed.
 
 11D.—(1) Where—
 

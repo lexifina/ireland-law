@@ -1,4 +1,4 @@
-F41[Time off to attend certain pre-adoption classes and meetings.
+F43[Time off to attend certain pre-adoption classes and meetings.
 
 11A.—(1) Subject to subsections (2) and (3), an employee shall be entitled to time off from work, without loss of pay, to attend any pre-adoption classes and meetings which the employee is obliged to attend.
 

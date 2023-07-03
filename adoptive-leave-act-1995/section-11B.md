@@ -1,4 +1,4 @@
-F42[Termination of additional adoptive leave on sickness of adopting parent.
+F44[Termination of additional adoptive leave on sickness of adopting parent.
 
 11B.—(1) An adopting parent ("the employee")—
 

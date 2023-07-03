@@ -1,4 +1,4 @@
-F53[General right to return to work after adoptive leave or additional adoptive leave.
+F55[General right to return to work after adoptive leave or additional adoptive leave.
 
 18.—(1) An adopting parent ("the employee") who is absent from work while on adoptive leave or additional adoptive leave shall be entitled to return to work—
 

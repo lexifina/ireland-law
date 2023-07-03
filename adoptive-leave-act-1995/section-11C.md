@@ -1,4 +1,4 @@
-F43[Postponement of leave on hospitalisation of child.
+F45[Postponement of leave on hospitalisation of child.
 
 11C.—(1) If—
 
