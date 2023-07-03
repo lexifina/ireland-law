@@ -1,3 +1,3 @@
-Amount of weekly contribution to Redundancy Fund.
+Amount of weekly contribution to Redundancy Fund. (Repealed)
 
 28.—...

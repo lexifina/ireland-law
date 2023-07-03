@@ -1,6 +1,6 @@
 Covid-19 related lay-off payment.
 
-32A. (1) This section applies to an employee—
+32A.—(1) This section applies to an employee—
 
 (a) who is entitled to a redundancy payment under section 7,
 

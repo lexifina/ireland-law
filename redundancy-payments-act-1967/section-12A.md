@@ -1,6 +1,6 @@
 Operation of section 12 - emergency period.
 
-12A. (1) Section 12 shall not have effect during the emergency period in respect of an employee who has been laid off or kept on short-time due to the effects of measures required to be taken by his or her employer in order to comply with, or as a consequence of, Government policy to prevent, limit, minimise or slow the spread of infection of Covid-19.
+12A.—(1) Section 12 shall not have effect during the emergency period in respect of an employee who has been laid off or kept on short-time due to the effects of measures required to be taken by his or her employer in order to comply with, or as a consequence of, Government policy to prevent, limit, minimise or slow the spread of infection of Covid-19.
 
 (2) Before the expiration of the emergency period, the Government may, at the request of the Minister made—
 
@@ -8,7 +8,7 @@ Operation of section 12 - emergency period.
 
 (b) with the consent of the Minister for Public Expenditure and Reform, and
 
-(c) having had regard to the matters referred to in subsection (3), by order specify a date that is later than the expiration date of the emergency period specified in the definition of ‘emergency period’ or the last order made under this subsection, as the case may be, and the emergency period shall be read as extending to, and including the date so specified.
+(c) having had regard to the matters referred to in subsection (3), by order specify a date that is later than the expiration date of the emergency period specified in the definition of "emergency period" or the last order made under this subsection, as the case may be, and the emergency period shall be read as extending to, and including the date so specified.
 
 (3) When making an order under subsection (2), the Government shall have regard to the following:
 

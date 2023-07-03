@@ -38,6 +38,6 @@ General right to redundancy payment.
 
 (4) Notwithstanding any other provision of this Act, where an employee who has been serving a period of apprenticeship training with an employer under an apprenticeship agreement is dismissed within one month after the end of that period, that employee shall not, by reason of that dismissal, be entitled to redundancy payment.
 
-(4A) In ascertaining, for the purposes of subsection (2) (c), whether an employer has decided to carry on a business with fewer or no employees, account shall not be taken of the following members of the employer‘s family— father, mother, stepfather, stepmother, son, daughter, adopted child, grandson, granddaughter, stepson, stepdaughter, brother, sister, half brother, halfsister.
+(4A) In ascertaining, for the purposes of subsection (2) (c), whether an employer has decided to carry on a business with fewer or no employees, account shall not be taken of the following members of the employer‘s family— father, mother, stepfather, stepmother, son, daughter, adopted child, grandson, granddaughter, stepson, stepdaughter, brother, sister, half brother, half sister.
 
 (5) In this section requisite period means a period of 104 weeks continuous employment (within the meaning of Schedule 3) of the employee by the employer who dismissed him, laid him off or kept him on short-time, but excluding any period of employment with that employer before the employee had attained the age of 16 years.

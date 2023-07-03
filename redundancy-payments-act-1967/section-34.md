@@ -1,3 +1,3 @@
-Preparation and issue of redundancy stamps, etc.
+Preparation and issue of redundancy stamps, etc. (Repealed)
 
 34.—...

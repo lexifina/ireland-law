@@ -1,3 +1,3 @@
-Regulations as to payment of contributions.
+Regulations as to payment of contributions. (Repealed)
 
 33.—...
