@@ -36,7 +36,7 @@ Entitlement of adopting father to adoptive leave in certain circumstances.
 
 (c) where, on the date of the death of the qualifying adopter, the surviving parent is on paternity leave, immediately after the end of the paternity leave, or
 
-(d) where, on the date of the death of the qualifying adopter, the adopting father is on parent’s leave, immediately after the end of the parent’s leave.
+(d) where, on the date of the death of the qualifying adopter, the surviving parent is on parent’s leave, immediately after the end of the parent’s leave.
 
 (4) A notification under this section may be revoked by a further notification in writing by or on behalf of the surviving parent to his or her employer.
 
