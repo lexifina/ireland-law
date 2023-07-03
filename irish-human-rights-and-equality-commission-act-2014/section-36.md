@@ -32,6 +32,6 @@ Equality and human rights compliance notices
 
 (e) require the person on whom it is served to supply, within the period specified in the notice, such additional information as may be specified in the notice.
 
-(6) An equality and human rights compliance notice shall, unless an appeal is brought under section 37 , come into operation on the expiry of 56 days from the service of the notice.
+(6) An equality and human rights compliance notice shall, unless an appeal is brought under section 37, come into operation on the expiry of 56 days from the service of the notice.
 
 (7) Where a person on whom an equality and human rights compliance notice has been served fails to comply with the notice at any time within a period of 5 years from the date on which the notice comes into operation, he or she shall be guilty of an offence and shall be liable on summary conviction to a class C fine or imprisonment for a term not exceeding 1 year or both.

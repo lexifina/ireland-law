@@ -48,7 +48,9 @@ Article 4 - Prohibition of slavery and forced labour
 
 3 For the purpose of this article the term “forced or compulsory labour” shall not include: a any work required to be done in the ordinary course of detention imposed according to the provisions of Article 5 of this Convention or during conditional release from such detention; b any service of a military character or, in case of conscientious objectors in countries where they are recognised, service exacted instead of compulsory military service; c any service exacted in case of an emergency or calamity threatening the life or well-being of the community; d any work or service which forms part of normal civic obligations.
 
-Article 5 - Right to liberty and security 1 Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law: a the lawful detention of a person after conviction by a competent court; b the lawful arrest or detention of a person for non-compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law; c the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so; d the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority; e the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants; f the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.
+Article 5 - Right to liberty and security
+
+1 Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law: a the lawful detention of a person after conviction by a competent court; b the lawful arrest or detention of a person for non-compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law; c the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so; d the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority; e the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants; f the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.
 
 2 Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.
 
@@ -116,7 +118,9 @@ Article 15 - Derogation in time of emergency
 
 3 Any High Contracting Party availing itself of this right of derogation shall keep the Secretary General of the Council of Europe fully informed of the measures which it has taken and the reasons therefor. It shall also inform the Secretary General of the Council of Europe when such measures have ceased to operate and the provisions of the Convention are again being fully executed.
 
-Article 16 - Restrictions on political activity of aliens Nothing in Articles 10, 11 and 14 shall be regarded as preventing the High Contracting Parties from imposing restrictions on the political activity of aliens.
+Article 16 - Restrictions on political activity of aliens
+
+Nothing in Articles 10, 11 and 14 shall be regarded as preventing the High Contracting Parties from imposing restrictions on the political activity of aliens.
 
 Article 17 - Prohibition of abuse of rights
 
@@ -154,7 +158,9 @@ Article 23 - Terms of office and dismissal
 
 2 The terms of office of judges shall expire when they reach the age of 70.
 
-3 The judges shall hold office until replaced. They shall, however, continue to deal with such cases as they already have under consideration. 4 No judge may be dismissed from office unless the other judges decide by a majority of two-thirds that that judge has ceased to fulfil the required conditions.
+3 The judges shall hold office until replaced. They shall, however, continue to deal with such cases as they already have under consideration.
+
+4 No judge may be dismissed from office unless the other judges decide by a majority of two-thirds that that judge has ceased to fulfil the required conditions.
 
 Article 24 - Registry and rapporteurs
 
@@ -228,9 +234,7 @@ Article 35 - Admissibility criteria
 
 2 The Court shall not deal with any application submitted under Article 34 that a is anonymous; or b is substantially the same as a matter that has already been examined by the Court or has already been submitted to another procedure of international investigation or settlement and contains no relevant new information.
 
-3 The Court shall declare inadmissible any individual application submitted under Article 34 if it considers that: a the application is incompatible with the provisions of the Convention or the Protocols thereto, manifestly ill-founded, or an abuse of the right of individual application; or b the applicant has not suffered a significant disadvantage, unless respect for human rights as defined in the Convention and the Protocols thereto requires an examination of the application on the merits and provided that no case may be rejected on this ground which has not been duly considered by a domestic tribunal.
-
-4 The Court shall reject any application which it considers inadmissible under this Article. It may do so at any stage of the proceedings.
+3 The Court shall declare inadmissible any individual application submitted under Article 34 if it considers that: a the application is incompatible with the provisions of the Convention or the Protocols thereto, manifestly ill-founded, or an abuse of the right of individual application; or b the applicant has not suffered a significant disadvantage, unless respect for human rights as defined in the Convention and the Protocols thereto requires an examination of the application on the merits and provided that no case may be rejected on this ground which has not been duly considered by a domestic tribunal. 4 The Court shall reject any application which it considers inadmissible under this Article. It may do so at any stage of the proceedings.
 
 Article 36 - Third party intervention
 
@@ -256,7 +260,9 @@ Article 39 - Friendly settlements 4
 
 1 At any stage of the proceedings, the Court may place itself at the disposal of the parties concerned with a view to securing a friendly settlement of the matter on the basis of respect for human rights as defined in the Convention and the Protocols thereto.
 
-2 Proceedings conducted under paragraph 1 shall be confidential. 3 If a friendly settlement is effected, the Court shall strike the case out of its list by means of a decision which shall be confined to a brief statement of the facts and of the solution reached.
+2 Proceedings conducted under paragraph 1 shall be confidential.
+
+3 If a friendly settlement is effected, the Court shall strike the case out of its list by means of a decision which shall be confined to a brief statement of the facts and of the solution reached.
 
 4 This decision shall be transmitted to the Committee of Ministers, which shall supervise the execution of the terms of the friendly settlement as set out in the decision.
 
@@ -292,13 +298,13 @@ Article 44 - Final judgments
 
 Article 45 - Reasons for judgments and decisions
 
-1 Reasons shall be given for judgments as well as for decisions declaring applications admissible or inadmissible. 2 If a judgment does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
+1 Reasons shall be given for judgments as well as for decisions declaring applications admissible or inadmissible.
+
+2 If a judgment does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
 
 Article 46 - Binding force and execution of judgments
 
-1 The High Contracting Parties undertake to abide by the final judgment of the Court in any case to which they are parties.
-
-2 The final judgment of the Court shall be transmitted to the Committee of Ministers, which shall supervise its execution.
+1 The High Contracting Parties undertake to abide by the final judgment of the Court in any case to which they are parties. 2 The final judgment of the Court shall be transmitted to the Committee of Ministers, which shall supervise its execution.
 
 3 If the Committee of Ministers considers that the supervision of the execution of a final judgment is hindered by a problem of interpretation of the judgment, it may refer the matter to the Court for a ruling on the question of interpretation. A referral decision shall require a majority vote of two thirds of the representatives entitled to sit on the Committee.
 
@@ -362,13 +368,13 @@ Article 56 - Territorial application
 
 4 Any State which has made a declaration in accordance with paragraph 1 of this article may at any time thereafter declare on behalf of one or more of the territories to which the declaration relates that it accepts the competence of the Court to receive applications from individuals, non-governmental organisations or groups of individuals as provided by Article 34 of the Convention.
 
-Article 57 - Reservations 1 Any State may, when signing this Convention or when depositing its instrument of ratification, make a reservation in respect of any particular provision of the Convention to the extent that any law then in force in its territory is not in conformity with the provision. Reservations of a general character shall not be permitted under this article.
+Article 57 - Reservations
+
+1 Any State may, when signing this Convention or when depositing its instrument of ratification, make a reservation in respect of any particular provision of the Convention to the extent that any law then in force in its territory is not in conformity with the provision. Reservations of a general character shall not be permitted under this article.
 
 2 Any reservation made under this article shall contain a brief statement of the law concerned.
 
-Article 58 - Denunciation
-
-1 A High Contracting Party may denounce the present Convention only after the expiry of five years from the date on which it became a party to it and after six months' notice contained in a notification addressed to the Secretary General of the Council of Europe, who shall inform the other High Contracting Parties.
+Article 58 - Denunciation 1 A High Contracting Party may denounce the present Convention only after the expiry of five years from the date on which it became a party to it and after six months' notice contained in a notification addressed to the Secretary General of the Council of Europe, who shall inform the other High Contracting Parties.
 
 2 Such a denunciation shall not have the effect of releasing the High Contracting Party concerned from its obligations under this Convention in respect of any act which, being capable of constituting a violation of such obligations, may have been performed by it before the date at which the denunciation became effective.
 

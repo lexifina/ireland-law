@@ -1,6 +1,6 @@
 Penalties
 
-6. (1) A person guilty of an offence under this Act (other than an offence under section 33 or 36 ) shall be liable—
+6. (1) A person guilty of an offence under this Act (other than an offence under section 33 or 36) shall be liable—
 
 (a) on summary conviction to a class C fine or to imprisonment for a term not exceeding 1 year or to both, or
 
