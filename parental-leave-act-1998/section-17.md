@@ -1,5 +1,5 @@
 ## PART IV RESOLUTION OF DISPUTES
 
-“Dispute”.
+“Dispute”. (Repealed)
 
-17. ...
+17.—...
