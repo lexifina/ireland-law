@@ -1,6 +1,6 @@
-F41[Postponement of leave under section 16 in event of hospitalisation of child.
+F44[Postponement of leave under section 16 in event of hospitalisation of child.
 
-16B.—(1) A father or other parent who is entitled to, or is on, leave under section 16 may, if the child in connection with whose birth he is entitled to, or is on, that leave (in this section referred to as ‘the child’) is hospitalised, request in writing (or cause a written request to be submitted to) his employer to postpone—
+16B.—(1) A father or other parent who is entitled to, or is on, leave under section 16 may, if the child in connection with whose birth he is entitled to, or is on, that leave (in this section referred to as "the child") is hospitalised, request in writing (or cause a written request to be submitted to) his employer to postpone—
 
 (a) his subsection (1)(a) leave or part of such leave or his subsection (1A) leave or part of such leave,
 
@@ -24,7 +24,7 @@ F41[Postponement of leave under section 16 in event of hospitalisation of child.
 
 (ii) the subsection (1)(a) leave or the part of such leave and the period of further leave under section 16(4).
 
-(iii) the subsection (1)(b) leave or the period of further leave under section 16(4), as the case may be, or the part of such leave, as the case may be, not taken by him by reason of the postponement (in this section referred to as ‘resumed leave’) in accordance with regulations made under this section by the Minister to be taken in one continuous period commencing not later than 7 days after the discharge of the child from hospital.
+(iii) the subsection (1)(b) leave or the period of further leave under section 16(4), as the case may be, or the part of such leave, as the case may be, not taken by him by reason of the postponement (in this section referred to as "resumed leave") in accordance with regulations made under this section by the Minister to be taken in one continuous period commencing not later than 7 days after the discharge of the child from hospital.
 
 (5) Where, following the postponement of leave under this section, a father or other parent returns to work in accordance with subsection (3)(a) and during the period of the postponement he is absent from work due to sickness, the father or other parent shall be deemed to commence resumed leave on the first day of such absence unless he notifies his employer in writing (or causes his employer to be so notified) as soon as reasonably practicable that he does not wish to commence such leave and, following such notification—
 

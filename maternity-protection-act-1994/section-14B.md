@@ -1,6 +1,6 @@
-F26[Postponement of maternity leave or additional maternity leave in event of hospitalisation of child.
+F28[Postponement of maternity leave or additional maternity leave in event of hospitalisation of child.
 
-14B.—(1) Subject to subsection (2), an employee who is on maternity leave or is entitled to, or is on, additional maternity leave may, if the child in connection with whose birth she is on, or is entitled to, that leave (in this section referred to as ‘the child’) is hospitalised, request in writing (or cause a written request to be submitted to) her employer to postpone—
+14B.—(1) Subject to subsection (2), an employee who is on maternity leave or is entitled to, or is on, additional maternity leave may, if the child in connection with whose birth she is on, or is entitled to, that leave (in this section referred to as "the child") is hospitalised, request in writing (or cause a written request to be submitted to) her employer to postpone—
 
 (a) part of the maternity leave,
 
@@ -24,7 +24,7 @@ F26[Postponement of maternity leave or additional maternity leave in event of ho
 
 (ii) the part of the maternity leave and the additional maternity leave, or
 
-(iii) the additional maternity leave or the part of it, as the case may be, not taken by her by reason of the postponement (in this section referred to as ‘resumed leave’) in accordance with regulations made under this section by the Minister to be taken in one continuous period commencing not later than 7 days after the discharge of the child from hospital.
+(iii) the additional maternity leave or the part of it, as the case may be, not taken by her by reason of the postponement (in this section referred to as "resumed leave") in accordance with regulations made under this section by the Minister to be taken in one continuous period commencing not later than 7 days after the discharge of the child from hospital.
 
 (5) An employer who receives a request under subsection (1) shall notify the employee concerned in writing of the employer’s decision in relation to the request as soon as reasonably practicable following the receipt of it.
 
