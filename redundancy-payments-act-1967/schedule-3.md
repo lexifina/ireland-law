@@ -42,7 +42,7 @@ CONTINUOUS EMPLOYMENT
 
 (i) while on protective leave or natal care absence, within the meaning of Part IV of the Maternity Protection Act 1994 or to attend ante-natal classes in accordance with section 15A (inserted by section 8 of the Maternity Protection (Amendment) Act 2004), or for breastfeeding in accordance with section 15B (inserted by section 9 of the Maternity Protection (Amendment) Act 2004), of the first-mentioned Act,
 
-(ii) while on parental leave or force majeure leave, or
+(ii) while on parental leave, force majeure leave, leave for medical care purposes, domestic violence leave or on a flexible working arrangement under the Parental Leave Act 1998, or
 
 (iii) while on carer’s leave under the Carer’s Leave Act 2001,
 
@@ -76,7 +76,7 @@ RECKONABLE SERVICE
 
 (i) while on protective leave or natal care absence, within the meaning of Part IV of the Maternity Protection Act 1994 or to attend ante-natal classes in accordance with section 15A (inserted by section 8 of the Maternity Protection (Amendment) Act 2004), or for breastfeeding in accordance with section 15B (inserted by section 9 of the Maternity Protection (Amendment) Act 2004), of the first-mentioned Act,
 
-(ii) while on parental leave or force majeure leave, or
+(ii) while on parental leave, force majeure leave, leave for medical care purposes, domestic violence leave or on a flexible working arrangement under the Parental Leave Act 1998, or
 
 (iii) while on carer’s leave under the Carer’s Leave Act 2001,
 
