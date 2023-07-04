@@ -54,7 +54,9 @@ Corporate governance statement in the case of a traded company
 
 (b) state whether, based on their knowledge and understanding of the company and its environment obtained in the course of the audit, they have identified material misstatements in the information given pursuant to subsections (2)(c) and (d) and where they have so identified, give an indication of the nature of such misstatements, and
 
-(c) state whether in their opinion, based on the work undertaken during the course of the audit, the information required pursuant to subsections (2)(a), (b), (e) and (f) is contained in the company’s corporate governance statement.
+(c) state whether in their opinion, based on the work undertaken during the course of the audit, the information required pursuant to subsections
+
+(2)(a), (b), (e) and (f) is contained in the company’s corporate governance statement.
 
 (8) Subsection (2)(a), (b), (e) and (f) shall not apply to a traded company which has only issued securities, other than shares, admitted to trading on a regulated market, unless such company has issued shares which are traded in a multilateral trading facility.
 

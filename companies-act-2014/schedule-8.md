@@ -44,8 +44,6 @@ As appropriate: signature in writing of the above subscriber, attested by witnes
 
 Dated the ___ day of ____________ 20__
 
-Witness to the above Signatures:
-
-Name: __________________________________
+Witness to the above Signatures: Name: __________________________________
 
 Address: _______________________________

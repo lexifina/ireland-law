@@ -70,7 +70,7 @@ Interpretation (Part 6): other definitions and construction provisions
 
 (II) are otherwise designated, by or under any other enactment, to be entities referred to in point (1)(d) of Article 2 of the Accounting Directive, or
 
-(ii) undertakings that are designated, by or under the law of any other Member State, to be entities referred to in point (1)(d) of Article 2 of the Accounting Directive and ‘ineligible company’ shall be read accordingly;
+(ii) undertakings that are designated, by or under the law of any other Member State, to be entities referred to in point (1)(d) of Article 2 of the Accounting Directive and "ineligible company" shall be read accordingly;
 
 “insurance undertaking” means an undertaking that is the holder of an authorisation within the meaning of—
 
@@ -88,11 +88,11 @@ Interpretation (Part 6): other definitions and construction provisions
 
 "large company" shall be read in accordance with section 280H;
 
-"medium company" shall be read in accordance with section 280F or 280G, as may be appropriate; and ‘medium group’ shall be read accordingly;
+"medium company" shall be read in accordance with section 280F or 280G, as may be appropriate; and "medium group" shall be read accordingly;
 
 "micro company" shall be construed in accordance with section 280D;
 
-‘micro companies regime’ has the meaning assigned to it by section 280E;
+"micro companies regime" has the meaning assigned to it by section 280E;
 
 “net assets”, in relation to a company or group, means the total assets of the company or group less the total liabilities of it or them as shown in the financial statements of the company or group;
 

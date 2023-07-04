@@ -26,7 +26,9 @@ Application of Parts 1 to 14 to unlimited companies
 
 (8) The specification in the foregoing Table of a provision (a “specified provision”) of Parts 1 to 14 also operates to disapply to the particular type of unlimited company concerned any other provision of those Parts (notwithstanding that it is not specified in that Table) that makes consequential, incidental or supplemental provision on, or in relation to, the specified provision.
 
-Table Part 1
+Table
+
+Part 1
 
 Provisions disapplied to ULCs
 
@@ -106,9 +108,7 @@ Section 655 members
 
 Payment of debts due by contributory to the
 
-Section 659 company and extent to which set-off allowed
-
-Part 2
+Section 659 company and extent to which set-off allowed Part 2
 
 Provisions disapplied to PUCs
 
@@ -210,9 +210,7 @@ Section 377
 
 Liability as contributories of past and present
 
-Section 655 members
-
-Payment of debts due by contributory to the
+Section 655 members Payment of debts due by contributory to the
 
 Section 659 company and extent to which set-off allowed
 
@@ -224,7 +222,9 @@ Subject matter Provision disapplied
 
 Way of forming a private company limited
 
-Section 17 by shares Company to carry on activity in the State and
+Section 17 by shares
+
+Company to carry on activity in the State and
 
 Section 18 prohibition of certain activities
 
@@ -336,7 +336,9 @@ Section 333 audited (unless audit exemption availed of)
 
 Exclusions, exemptions and special Chapter 14 of Part 6 arrangements with regard to public disclosure of financial information
 
-Audit exemption Chapter 15 of Part 6 Special audit exemption for dormant Chapter 16 of Part 6 companies
+Audit exemption Chapter 15 of Part 6
+
+Special audit exemption for dormant Chapter 16 of Part 6 companies
 
 Small and medium companies
 

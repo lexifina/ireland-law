@@ -8,7 +8,9 @@ Application of Part 17 to investment companies
 
 (4) The provisions of Part 17 specified in the Table to this section shall not apply to an investment company.
 
-Table Subject matter Provision disapplied
+Table
+
+Subject matter Provision disapplied
 
 Ministerial power in relation to a defined
 

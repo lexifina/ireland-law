@@ -1364,9 +1364,7 @@ I. Intangible assets
 
 3. Goodwill (2)
 
-4. Payments on account
-
-II. Tangible assets
+4. Payments on account II. Tangible assets
 
 1. Investment property
 
@@ -1492,9 +1490,7 @@ H. Capital and reserves
 
 I. Called-up share capital presented as equity (6)
 
-II. Share premium account
-
-III. Revaluation reserve
+II. Share premium account III. Revaluation reserve
 
 IV. Other reserves
 
@@ -1554,9 +1550,7 @@ III. Financial assets
 
 6. Other loans
 
-B. Current Assets
-
-I. Stocks
+B. Current Assets I. Stocks
 
 1. Raw materials and consumables
 
@@ -1608,7 +1602,9 @@ IV. Other reserves
 
 3. Reserves provided for by the constitution
 
-4. Other reserves including the fair value reserve (specify as necessary) V. Profit or loss brought forward (8)
+4. Other reserves including the fair value reserve (specify as necessary)
+
+V. Profit or loss brought forward (8)
 
 VI. Profit or loss for the financial year (8)
 
@@ -1676,9 +1672,7 @@ The amount of any convertible loans shall be shown separately.
 
 (5) Payments received on account
 
-(Format 1, items C. 4 and F. 4 and Format 2, item C.4)
-
-Payments received on account of orders shall be shown for each of these items in so far as they are not shown as deductions from stocks.
+(Format 1, items C. 4 and F. 4 and Format 2, item C.4) Payments received on account of orders shall be shown for each of these items in so far as they are not shown as deductions from stocks.
 
 (6) Called-up share capital
 
@@ -1790,9 +1784,7 @@ NOTES ON THE PROFIT AND LOSS ACCOUNT FORMATS
 
 (9) Cost of sales: Distribution costs: Administrative expenses
 
-(Format 1, items 2, 4 and 5)
-
-These items shall be stated after taking into account any necessary value adjustments for depreciation or diminution in value of assets.
+(Format 1, items 2, 4 and 5) These items shall be stated after taking into account any necessary value adjustments for depreciation or diminution in value of assets.
 
 (10) Income from other financial assets: other interest receivable and similar income
 
@@ -2392,9 +2384,7 @@ BALANCE SHEET FORMATS
 
 Format 1
 
-A. Called up share capital not paid
-
-B. Fixed assets
+A. Called up share capital not paid B. Fixed assets
 
 C. Current assets
 

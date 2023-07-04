@@ -6,7 +6,9 @@ Adaptation of certain provisions of UCITS Regulations
 
 (b) references to cognate terms or expressions in those Regulations shall be read accordingly.
 
-Table Ref. No. Term or expression Construction of term or referred to in UCITS expression for purposes of this (1) Regulations section
+Table
+
+Ref. No. Term or expression Construction of term or referred to in UCITS expression for purposes of this (1) Regulations section
 
 (2) (3)
 

@@ -13,3 +13,5 @@ Application of section 747(2) to PUCs and PULCs
 “(b) not less than 100 members of the company;”; and
 
 (b) paragraph (c) were omitted therefrom.
+
+OJ No, L150, 7.6.2019, p. 296

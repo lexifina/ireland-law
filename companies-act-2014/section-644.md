@@ -12,9 +12,7 @@ Custody of books and property upon vacation of office
 
 (a) the seal, books, records, and any property of the company in his or her possession or control, and
 
-(b) the books and records kept by him or her as liquidator,
-
-(which seal, property, documents or other things are referred to in this section as the “relevant items”) until—
+(b) the books and records kept by him or her as liquidator, (which seal, property, documents or other things are referred to in this section as the “relevant items”) until—
 
 (i) a new liquidator is appointed to the company — whereupon the former liquidator shall deliver custody of the relevant items to the new liquidator, or
 

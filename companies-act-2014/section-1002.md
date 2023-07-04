@@ -106,9 +106,7 @@ Summary Approval Procedure Chapter 7 of Part 4 (save as it applies to—
 
 (b) an activity specified in section 118 (prohibition on pre-acquisition profits or losses being treated in holding company’s financial statements as profits available for distribution); or
 
-(c) the making of a loan or quasi-loan or the doing of any other thing referred to in section 239).
-
-Directors’ compliance statement and The words “to which this related statement— exemption for section applies” in section companies below a particular size 225(2), and section 225(7)
+(c) the making of a loan or quasi-loan or the doing of any other thing referred to in section 239). Directors’ compliance statement and The words “to which this related statement— exemption for section applies” in section companies below a particular size 225(2), and section 225(7)
 
 Qualification of company based on
 

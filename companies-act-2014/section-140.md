@@ -8,9 +8,7 @@ Exception to section 137 — companies having real and continuous link with econ
 
 (4) A statement referred to in subsection (5) that is tendered by the applicant shall be deemed to be proof, for the purposes of subsection (3), that the applicant has such a link.
 
-(5) That statement is a statement in writing that has been given to the company concerned by the Revenue Commissioners within the period of 2 months ending before the date on which an application is made under subsection
-
-(2) by the company and which states that the Revenue Commissioners have reasonable grounds to believe that the company has a real and continuous link with one or more economic activities being carried on in the State.
+(5) That statement is a statement in writing that has been given to the company concerned by the Revenue Commissioners within the period of 2 months ending before the date on which an application is made under subsection (2) by the company and which states that the Revenue Commissioners have reasonable grounds to believe that the company has a real and continuous link with one or more economic activities being carried on in the State.
 
 (6) If, in consequence of information that has come into the possession of the Registrar, the Registrar is of opinion that a company in respect of which a certificate under subsection (2) has been granted has ceased to have a real and continuous link with any economic activity being carried on in the State, he or she shall revoke that certificate.
 

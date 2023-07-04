@@ -54,7 +54,9 @@ Section 613 Directors of holding company: power of court to assess damages again
 
 Section 671 Power of court to summon persons for examination
 
-Section 672 Order for payment or delivery of property against person examined under section 671 Section 675 Order for arrest and seizure, etc.
+Section 672 Order for payment or delivery of property against person examined under section 671
+
+Section 675 Order for arrest and seizure, etc.
 
 Section 684 Inspection of books by creditors and contributories
 

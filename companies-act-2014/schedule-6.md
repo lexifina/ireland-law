@@ -134,9 +134,7 @@ Provisions as to status of companies restored to register, having been struck of
 
 Application of paragraph 12 to companies whose dissolution is declared void
 
-13. Paragraph 12 shall, with any necessary modifications, apply to a company the dissolution of which is declared under section 708 to have been void as it applies to a company restored to the register under an enactment referred to in that paragraph (but subject to any order the court may make under section 708 in making such a declaration).
-
-Authorisations, designations and approvals under Part XIII of the Act of 1990
+13. Paragraph 12 shall, with any necessary modifications, apply to a company the dissolution of which is declared under section 708 to have been void as it applies to a company restored to the register under an enactment referred to in that paragraph (but subject to any order the court may make under section 708 in making such a declaration). Authorisations, designations and approvals under Part XIII of the Act of 1990
 
 14. Every authorisation, designation and approval under Part XIII of the Act of 1990 (including any condition imposed thereunder) that is in force immediately before the commencement of Part 24 shall continue in force as if granted, made or imposed under Part 24 and may be the subject of the like exercise of powers thereafter as authorisations, designations, approvals and conditions generally under Part 24.
 

@@ -1,4 +1,4 @@
-Remuneration of directors
+Remunerat1ion of directors
 
 1197. (1) Each provision of this section applies save to the extent that the CLG’s constitution provides otherwise.
 
