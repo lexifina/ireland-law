@@ -4,7 +4,7 @@ IFRS entity financial statements
 
 (a) shall make an unreserved statement in the notes to those entity financial statements that those financial statements have been prepared in accordance with international financial reporting standards, and
 
-(b) shall ensure that those financial statements contain the additional information required by this Act other than that required by required by Schedules 3, 3A, 3B, 4 and 4A.
+(b) shall ensure that those financial statements contain the additional information required by this Act other than that required by Schedules 3, 3A, 3B, 4 and 4A.
 
 (2) For the avoidance of doubt, the requirement for entity financial statements prepared in accordance with IFRS to present fairly the assets, liabilities, financial position, financial performance and cash flows is deemed to be equivalent to the true and fair view required by section 291(2).
 

@@ -10,4 +10,6 @@ Application of sections 113 to 115 to bodies corporate generally
 
 (a) a private company limited by shares; or
 
-(b) by virtue of any of Parts 16 to 22, any other type of company, sections 114 and 115 shall apply to a body corporate that is not a company, and the foregoing reference in subsection (1) of section 114 or 115 to a company, and the other relevant references in either such section, shall be read accordingly.
+(b) by virtue of any of Parts 16 to 22, any other type of company,
+
+OJ No, L150, 7.6.2019, p. 296 sections 114 and 115 shall apply to a body corporate that is not a company, and the foregoing reference in subsection (1) of section 114 or 115 to a company, and the other relevant references in either such section, shall be read accordingly.

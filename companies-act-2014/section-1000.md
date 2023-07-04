@@ -16,8 +16,6 @@ Interpretation (Part 17)
 
 “constitution” shall be read in accordance with section 1006(1);
 
-OJ No, L150, 7.6.2019, p. 296
-
 “public limited company” or “PLC” means a company limited by shares and having a share capital, being a company—
 
 (a) the constitution of which states that the company is to be a public limited company; and

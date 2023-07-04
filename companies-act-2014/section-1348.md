@@ -82,6 +82,8 @@ Interpretation (Chapter 1)
 
 (5) Nothing in this Chapter shall limit or diminish any liability which any person may incur under the general law.
 
+OJ No. L. 168, 30.6.2017, p. 12. OJ No. L. 320, 11.12.2019, p. 1. OJ No. L. 347, 20.10.2020, p.1. OJ No. L. 68, 26.2.2021, p. 1.
+
 (6) For the purposes of sections 1349 and 1351, the following persons shall be deemed not to be a promoter or a person who has authorised the issue of the prospectus—
 
 (a) a professional adviser to any person referred to in section 1349 acting as such,
