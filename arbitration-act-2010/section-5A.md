@@ -1,0 +1,3 @@
+Maintenance and champerty not to apply to dispute resolution proceedings.
+
+5A.— ...
