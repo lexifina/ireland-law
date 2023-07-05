@@ -22,8 +22,6 @@ Commencement of arbitral proceedings.
 
 (c) where none of the addresses referred to in paragraph (b) can be found after making reasonable inquiry, by sending it by pre-paid registered post or by any other form of recorded delivery service addressed to the respondent at his or her last known place of business, habitual residence or postal address.
 
-(3) Unless the parties otherwise agree, where a written communication under this section has been delivered to a respondent in accordance with subsection
-
-(2), the communication is deemed to have been received on the day it was so delivered.
+(3) Unless the parties otherwise agree, where a written communication under this section has been delivered to a respondent in accordance with subsection (2), the communication is deemed to have been received on the day it was so delivered.
 
 (4) For the purposes of subsection (2), a company registered under the Companies Acts shall be deemed to be habitually resident at its registered office in the State and every other body corporate (wherever it is incorporated) and every unincorporated body (wherever it carries out its activities) shall be deemed to be habitually resident at its principal office or place of business.”.

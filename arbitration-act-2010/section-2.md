@@ -16,7 +16,7 @@ Interpretation.
 
 “Geneva Convention” means the Convention on the Execution of Foreign Arbitral Awards done at Geneva on the 26th day of September, 1927, the text of which is set out in Schedule 4;
 
-“Geneva Protocol” means the Protocol on Arbitration Clauses opened at Geneva on the 24th day of September, 1923, the text of which is set out in Schedule 5;
+“Geneva Protocol” means the Protocol on Arbitration Clauses opened at Geneva on the 24th day of September, 1923, the text of which is set out in Schedule 5 ;
 
 “Minister” means the Minister for Justice, Equality and Law Reform;
 
