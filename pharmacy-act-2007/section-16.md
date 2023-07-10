@@ -1,6 +1,6 @@
 Qualifications for practice.
 
-16.—(1) A person holds a qualification appropriate for practice if he or she has been awarded a prescribed qualification in the State in accordance with prescribed training and education.
+16.— (1) A person holds a qualification appropriate for practice if he or she has been awarded a prescribed qualification in the State in accordance with prescribed training and education.
 
 (2) A person applying for registration in the pharmacists’ register who does not hold a qualification appropriate for practice as a pharmacist by virtue of subsection (1) shall be regarded as having a qualification appropriate for practice if—
 

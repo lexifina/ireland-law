@@ -1,6 +1,6 @@
 Special measures registration having regard to Covid-19.
 
-77. (1) A previous registrant may make an application to the Council to be registered in the register pursuant to this section.
+77.— (1) A previous registrant may make an application to the Council to be registered in the register pursuant to this section.
 
 (2) Subject to subsections (3) to (7), the provisions of this Act shall, with all necessary modifications, apply to—
 

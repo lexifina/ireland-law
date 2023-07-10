@@ -1,6 +1,6 @@
 Council may request certain information concerning registered pharmacists from certain bodies in State or other jurisdictions.
 
-23A. (1) Where a registered pharmacist provides, or has provided, one or more than one kind of health or social care in the State or another jurisdiction, the Council may make a request in writing, accompanied by the relevant statement, to the body, duly authorised in the State or that jurisdiction, as appropriate, to regulate persons who provide that kind of health or social care in the State or that jurisdiction, to provide the Council with any information relevant to either or both of the following:
+23A.— (1) Where a registered pharmacist provides, or has provided, one or more than one kind of health or social care in the State or another jurisdiction, the Council may make a request in writing, accompanied by the relevant statement, to the body, duly authorised in the State or that jurisdiction, as appropriate, to regulate persons who provide that kind of health or social care in the State or that jurisdiction, to provide the Council with any information relevant to either or both of the following:
 
 (a) any material matter that has occurred in the State or that jurisdiction in relation to the pharmacist;
 

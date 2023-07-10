@@ -1,6 +1,6 @@
 Division of Register for visiting European pharmacists
 
-24B. (1) The Register referred to in section 13(1)(a)(i) of this Act shall have a second part, hereinafter referred to as Part B, which shall be entitled “Visiting Pharmacists from Relevant EEA States”.
+24B.— (1) The Register referred to in section 13(1)(a)(i) of this Act shall have a second part, hereinafter referred to as Part B, which shall be entitled “Visiting Pharmacists from Relevant EEA States”.
 
 (2) The Council shall enter, in Part B of the Register of Pharmacists, the names of persons providing the services of a registered pharmacist in the State on a temporary and occasional basis pursuant to Part 4 of the Professional Qualifications Regulations.
 
