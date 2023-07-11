@@ -1,6 +1,6 @@
 Change of family successor following transfer of particular family asset.
 
-14H. (1) This section applies where—
+14H.— (1) This section applies where—
 
 (a) a person is or has been receiving care services (in this section referred to as the "relevant person"),
 

@@ -1,6 +1,6 @@
 Annual report concerning relief in relation to farm or relevant business.
 
-45A. (1) The Executive shall prepare in respect of each year (or such longer period as the Minister may, following receipt of the third report under this section, prescribe by regulations) a report containing information in relation to—
+45A.— (1) The Executive shall prepare in respect of each year (or such longer period as the Minister may, following receipt of the third report under this section, prescribe by regulations) a report containing information in relation to—
 
 (a) the effects on the Scheme of applications and appointments made under sections 14A, 14F, 14G, 14H, 14K and 14L, determinations under sections 14C(2) and 14M(3), reviews under section 14E, decisions on repayment events under section 14I(2) and repayments under section 14J,
 

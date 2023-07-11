@@ -252,7 +252,7 @@ Assessment of cash assets
 
 3. Assess the weekly value of the cash assets by following the directions at steps A to G:
 
-A. Establish all the cash assets of the person to whom the assessment relates and his or her partner using the definition of ‘cash assets’ and value each cash asset on the basis of the estimated market value.
+A. Establish all the cash assets of the person to whom the assessment relates and his or her partner using the definition of "cash assets" and value each cash asset on the basis of the estimated market value.
 
 B. Deduct from the estimated market value of each cash asset the amount of allowable deductions relating to that cash asset to produce net value of each cash asset.
 
@@ -272,7 +272,7 @@ Assessment of relevant assets
 
 4. Assess the weekly value of the relevant assets by following the directions at steps A to G:
 
-A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of ‘relevant assets’ and value each relevant asset on the basis of estimated market value.
+A. Establish all assets which are relevant assets of the person in respect of whom the financial assessment is being carried out and his or her partner using the definition of "relevant assets" and value each relevant asset on the basis of estimated market value.
 
 B. Deduct from the estimated market value of each relevant asset the amount of allowable deductions relating to that relevant asset to produce the net value of each relevant asset.
 
@@ -514,7 +514,7 @@ CR is the amount of the consideration received by the person or the estimated ma
 
 (i) paragraph 6B applies to the relevant person in relation to a particular family asset,
 
-(ii) a family successor was appointed in respect of the other member of the couple (in this paragraph referred to as the ‘other member’) in relation to the same particular family asset, and
+(ii) a family successor was appointed in respect of the other member of the couple (in this paragraph referred to as the "other member") in relation to the same particular family asset, and
 
 (iii) a repayment event has not occurred in respect of either the relevant person or the other member in relation to that particular family asset.
 
@@ -590,7 +590,7 @@ CR is the amount of the consideration received by the person or the estimated ma
 
 (b) Where, but for this subparagraph, the relevant person would be entitled to the proceeds of sale deductible amount in respect of a period occurring before the commencement day, the relevant person shall not be so entitled and shall instead, by virtue of this subparagraph, be entitled to the proceeds of sale deductible amount with effect from the commencement day.
 
-(c) In this paragraph, ‘commencement day’ means the day on which section 31(d) of the Act of 2021 comes into operation.
+(c) In this paragraph, "commencement day" means the day on which section 31(d) of the Act of 2021 comes into operation.
 
 10B. (a) Where paragraph 10A applies in relation to a relevant person who is a member of a couple, a reference in that paragraph to the interest of the relevant person shall be construed as a reference to the interest of the person and the interest (if any) of the other member of the couple.
 

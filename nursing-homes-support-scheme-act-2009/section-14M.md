@@ -1,6 +1,6 @@
 Determination as to farm or business relief where family successor fulfils undertaking.
 
-14M. (1) This section applies where—
+14M.— (1) This section applies where—
 
 (a) a determination has been made under section 14C(2)(a) in respect of a person (in this section referred to as the "relevant person") in relation to a particular family asset,
 

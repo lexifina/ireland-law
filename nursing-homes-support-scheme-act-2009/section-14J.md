@@ -1,6 +1,6 @@
 Recovery of sums due under section 14I.
 
-14J. (1) Where the Executive has, by virtue of a determination under section 14C(2) (a) in relation to a particular family asset, advanced monies by way of an increase in State support and section 14I(4) applies in respect of a person in relation to that particular family asset, the Executive shall in accordance with section 14D calculate the amount due (in this section referred to as the ‘repayable amount’) and give notice of that amount and particulars of how it is calculated to the relevant accountable person.
+14J.— (1) Where the Executive has, by virtue of a determination under section 14C(2) (a) in relation to a particular family asset, advanced monies by way of an increase in State support and section 14I(4) applies in respect of a person in relation to that particular family asset, the Executive shall in accordance with section 14D calculate the amount due (in this section referred to as the "repayable amount") and give notice of that amount and particulars of how it is calculated to the relevant accountable person.
 
 (2) (a) The repayable amount together with any interest thereon shall be a debt due and payable to the Executive.
 
@@ -18,7 +18,7 @@ Recovery of sums due under section 14I.
 
 (e) the name, Personal Public Service Number and address of—
 
-(i) the person in respect of whom State support was paid (in this section referred to as the ‘relevant person’),
+(i) the person in respect of whom State support was paid (in this section referred to as the "relevant person"),
 
 (ii) where the relevant person is a member of a couple, the partner of that person, and
 

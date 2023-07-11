@@ -194,8 +194,8 @@ Interpretation.
 
 “transfer”, in relation to an asset or income, means the transfer by sale or gift of that asset or income and references to “transferred” shall be construed accordingly;
 
-“transferred asset” has the meaning assigned to it by Schedule 1 ;
+“transferred asset” has the meaning assigned to it by Schedule 1;
 
-“transferred income” has the meaning assigned to it by Schedule 1 .
+“transferred income” has the meaning assigned to it by Schedule 1.
 
 (2) Where the Executive is satisfied that a person who is or is to be provided with care services is unlikely to ever cease to require care services during the person’s lifetime, then paragraph (a)(i)(II) or (a)(ii)(II), as the case may be, of the definition of “long-term residential care services” shall not apply in the case of that person.

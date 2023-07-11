@@ -1,6 +1,6 @@
 Application for appointment of family successor: farm or relevant business.
 
-14A. (1) This section applies where—
+14A.— (1) This section applies where—
 
 (a) the Executive has made a determination under section 7(8)(a) that a person (in this section referred to as the "relevant person") needs care services,
 
@@ -106,7 +106,7 @@ Application for appointment of family successor: farm or relevant business.
 
 (13) The Executive shall, not later than 10 working days after granting or refusing an application under this section, give notice in writing to the relevant person, the relevant person’s partner and the person specified in the application of the decision and the reasons for the decision.
 
-(14) In this section, ‘specified asset’, in relation to an application under this section, means—
+(14) In this section, "specified asset", in relation to an application under this section, means—
 
 (a) any farm or farms specified in the application,
 

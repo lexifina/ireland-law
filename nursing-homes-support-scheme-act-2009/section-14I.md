@@ -1,6 +1,6 @@
 Repayment of increase in State support.
 
-14I. (1) This section applies where—
+14I.— (1) This section applies where—
 
 (a) a determination has been made under section 14C(2)(a) in respect of a person (in this section referred to as the "relevant person"),
 

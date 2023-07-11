@@ -1,6 +1,6 @@
 Charge against interest in chargeable land.
 
-14B. (1) Where—
+14B.— (1) Where—
 
 (a) paragraphs (a) and (b) of section 14C(1) apply in relation to a person (in this section referred to as the "relevant person"),
 
@@ -32,7 +32,7 @@ Charge against interest in chargeable land.
 
 (11) The relevant person, his or her partner, the family successor and any other person who has an interest in the chargeable land shall have an obligation to give all reasonable assistance to the Executive as the Executive may request to facilitate the registration of an order under subsection (1) in the Land Registry or Registry of Deeds.
 
-(12) Where a relevant asset of the relevant person or of the relevant person’s partner ceases to be chargeable land for a reason not related to paragraph (b) of the definition of ‘chargeable land’ in subsection (18)—
+(12) Where a relevant asset of the relevant person or of the relevant person’s partner ceases to be chargeable land for a reason not related to paragraph (b) of the definition of "chargeable land" in subsection (18)—
 
 (a) (i) in the case of a relevant asset which is not a transferred asset, the relevant person (or the relevant person’s care representative, if any) or, if applicable, the relevant person’s partner (or the partner’s care representative, if any), or
 

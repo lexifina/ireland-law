@@ -1,6 +1,6 @@
 Notification of material change in circumstances of family successor.
 
-24A. (1) A person (or the person’s care representative, if any) who is the subject of an application for State support or who is provided with financial support or a person who is a family successor shall give notice in writing to the Executive of any material change in circumstances not later than 20 working days after the material change in circumstances comes to the knowledge of the person.
+24A.— (1) A person (or the person’s care representative, if any) who is the subject of an application for State support or who is provided with financial support or a person who is a family successor shall give notice in writing to the Executive of any material change in circumstances not later than 20 working days after the material change in circumstances comes to the knowledge of the person.
 
 (2) A person who, without reasonable excuse, contravenes subsection (1) is guilty of an offence and is liable on summary conviction to a class D fine.
 

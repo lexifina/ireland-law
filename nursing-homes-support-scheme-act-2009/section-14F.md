@@ -1,6 +1,6 @@
 Death of person receiving care services following determination under section 14C(2)(a).
 
-14F. (1) This section applies where—
+14F.— (1) This section applies where—
 
 (a) a determination is made under section 14C(2)(a) in respect of a person (in this section referred to as the "relevant person") in relation to a particular family asset,
 
@@ -10,7 +10,7 @@ Death of person receiving care services following determination under section 14
 
 (d) immediately before the death—
 
-(i) the period to which the undertaking given by the family successor in relation to the particular family asset (in this section referred to as the ‘current family successor’) under section 14A(3)(d), 14G(4)(b) or 14H(5)(b) relates has not expired, and
+(i) the period to which the undertaking given by the family successor in relation to the particular family asset (in this section referred to as the "current family successor") under section 14A(3)(d), 14G(4)(b) or 14H(5)(b) relates has not expired, and
 
 (ii) the determination under section 14C(2)(a) has not been revoked in respect of the relevant person so far as relating to the particular family asset.
 

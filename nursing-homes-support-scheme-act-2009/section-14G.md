@@ -1,6 +1,6 @@
 Death or change in circumstances of family successor.
 
-14G. (1) This section applies where—
+14G.— (1) This section applies where—
 
 (a) a person is or has been receiving care services (in this section referred to as the "relevant person"),
 
@@ -102,7 +102,7 @@ Death or change in circumstances of family successor.
 
 (ii) the current family successor has died, and
 
-(iii) the person or one of the persons entitled to succeed to the current family successor’s estate on the death (in this section referred to as the ‘lawful successor’) is the relevant person’s partner, a relative or son-in-law or daughter-in-law of the relevant person, a relative or son-in-law or daughter-in-law of the relevant person’s partner or the partner of the current family successor, that person, or
+(iii) the person or one of the persons entitled to succeed to the current family successor’s estate on the death (in this section referred to as the "lawful successor") is the relevant person’s partner, a relative or son-in-law or daughter-in-law of the relevant person, a relative or son-in-law or daughter-in-law of the relevant person’s partner or the partner of the current family successor, that person, or
 
 (c) where—
 

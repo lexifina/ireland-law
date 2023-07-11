@@ -1,8 +1,8 @@
 Application by partner for appointment of family successor.
 
-14K. (1) This section applies where—
+14K.— (1) This section applies where—
 
-(a) a family successor has been appointed in respect of a person (in this section referred to as the ‘relevant person’) in relation to a particular family asset,
+(a) a family successor has been appointed in respect of a person (in this section referred to as the "relevant person") in relation to a particular family asset,
 
 (b) the period to which the undertaking given by that family successor in relation to the particular family asset under section 14A(3)(d), 14F(8)(b), 14G(4)(b) or 14H(5)(b) relates has not expired,
 

@@ -1,6 +1,6 @@
 Discharge of orders made under section 14B.
 
-27A. (1) Where subsection (2) applies, the Executive shall issue a receipt and the receipt shall act as a discharge or release of the order made under section 14B(1) to which it refers and may be registered in the Land Registry or the Registry of Deeds as appropriate.
+27A.— (1) Where subsection (2) applies, the Executive shall issue a receipt and the receipt shall act as a discharge or release of the order made under section 14B(1) to which it refers and may be registered in the Land Registry or the Registry of Deeds as appropriate.
 
 (2) This subsection applies where—
 

@@ -1,6 +1,6 @@
 Review of compliance with conditions.
 
-14E. (1) This section applies where the Executive has made a determination under section 14C(2)(a) in respect of a person in relation to a particular family asset, that determination has not been revoked so far as relating to that particular family asset and—
+14E.— (1) This section applies where the Executive has made a determination under section 14C(2)(a) in respect of a person in relation to a particular family asset, that determination has not been revoked so far as relating to that particular family asset and—
 
 (a) the person is receiving care services, or
 

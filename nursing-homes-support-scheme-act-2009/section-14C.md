@@ -1,8 +1,8 @@
 Duty of Executive to determine whether paragraph 6B of Part 3 of Schedule 1 applies.
 
-14C. (1) This section applies where—
+14C.— (1) This section applies where—
 
-(a) a person is receiving care services (in this section referred to as the ‘relevant person’),
+(a) a person is receiving care services (in this section referred to as the "relevant person"),
 
 (b) one or more family successors have been appointed in respect of the relevant person in relation to a particular family asset, and
 

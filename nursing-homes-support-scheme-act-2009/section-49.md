@@ -1,6 +1,6 @@
 Transitional arrangements in relation to, and amendment of, certain paragraphs of Part 3 of Schedule 1.
 
-49. (1) Where, immediately before the commencement day—
+49.— (1) Where, immediately before the commencement day—
 
 (a) a person is receiving care services,
 

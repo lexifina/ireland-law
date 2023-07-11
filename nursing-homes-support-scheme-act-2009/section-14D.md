@@ -1,6 +1,6 @@
 Duties of Executive on determination under section 14C(2)(a).
 
-14D. (1) This section applies where the Executive makes a determination under section 14C(2)(a) in respect of a person (in this section referred to as the ‘relevant person’).
+14D.— (1) This section applies where the Executive makes a determination under section 14C(2)(a) in respect of a person (in this section referred to as the "relevant person").
 
 (2) Where the determination that has been made under section 11(1) in respect of the relevant person does not take account of the determination under section 14C(2)(a), the Executive shall—
 

@@ -1,6 +1,6 @@
 Application by partner of deceased person for appointment of family successor.
 
-14L. (1) This section applies where—
+14L.— (1) This section applies where—
 
 (a) a family successor has been appointed in respect of a person (in this section referred to as the "relevant person") in relation to a particular family asset,
 
