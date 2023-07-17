@@ -4,7 +4,7 @@ Types of conditions that MARA may attach to Licence
 
 Section 120
 
-1. A condition requiring the holder of a licence to provide an indemnity to the State for—
+1. A condition requiring the holder of a licence to provide an indemnity to the State for one or both of the following:
 
 (a) a failure to comply with—
 
@@ -12,13 +12,13 @@ Section 120
 
 (ii) a provision of this Act relevant to the licence, or
 
-(iii) a provision of one or more than one condition attached, or deemed to be attached, to the licence, or
+(iii) a provision of one or more than one condition attached (or deemed to be attached) of the licence, or
 
 (b) any liability arising from the undertaking of the maritime usage the subject of the licence.
 
 2. A condition specifying the nature of an indemnity referred to in paragraph 1.
 
-3. A condition requiring the holder of a licence to give notice in writing to the MARA of any change of circumstances that a reasonable person would consider might be a material change of circumstances.
+3. A condition requiring the holder of a licence to give notice in writing to the MARA of any ... material change of circumstances.
 
 4. A condition requiring the holder of a licence to adhere to a work programme specified, or referred to, in the condition (including the specification of dates by which, or the occurrence of events on which, a stage of the work programme should be commenced or completed).
 
@@ -71,5 +71,7 @@ Section 120
 16. Without prejudice to the generality of Chapter 6 of Part 6, a condition imposing obligations on the former holder of a licence that has been terminated under Chapter 4 of Part 6.
 
 17. Where section 129(2)(b) or (3)(b) applies, a condition enabling the MARA to attach to a licence one or more than one covenant, condition or agreement contained in the foreshore authorisation concerned.
+
+17A. A condition that the MARA considers necessary and appropriate in the particular circumstances of a particular holder of a licence.
 
 18. Any type of condition specified, for the purposes of this paragraph, in regulations made under section 120(2).
