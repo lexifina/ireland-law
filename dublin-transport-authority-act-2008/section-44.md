@@ -48,13 +48,21 @@ Functions of Authority in relation to public transport infrastructure.
 
 (ii) for the purpose of paragraph (a) or (b), land may be acquired by agreement or by means of a compulsory purchase order made by the Authority in accordance with Part XIV of the Act of 2000,
 
-(iii) the provisions of any enactment concerned apply in relation to the performance of the function subject to such modifications as may be necessary and as if the Authority was named in such enactment in each place where a public transport authority or other statutory body entitled to exercise the function is named, and
+(iii) the provisions of any enactment concerned (other than section 178 of the Act of 2000) apply in relation to the performance of the function subject to such modifications as may be necessary and as if the Authority was named in such enactment in each place where a public transport authority or other statutory body entitled to exercise the function is named, and
 
 (iv) any contract or agreement in writing made between the public transport authority or statutory body concerned and any other person which is not fully executed and completed shall continue in force but shall be construed and have effect as if the Authority was substituted therein for that public transport authority or statutory body.
 
-(7) The Act of 2000 applies in relation to the compulsory acquisition of land under subsection (1)(c) or (6) as if it were an acquisition under Part XIV of that Act and for that purpose a reference to a local authority shall be read as a reference to the Authority.
+(6A) Without prejudice to the generality of subsection (6)(ii), land may be acquired by the Authority by agreement or by means of a compulsory purchase order made by the Authority in accordance with Part XIV of the Act of 2000 for the purpose of taking any measure whatsoever that may be reasonably required to mitigate, directly or indirectly, the impact of any public transport infrastructure provided on the environment generally or on—
 
-(8) Before acquiring land by agreement under subsection (1)(c) or (6), the Authority shall obtain an independent valuation of the land.
+(a) any particular site, building or structure,
+
+(b) the availability of parking, or
+
+(c) trees, landscaping and planting.
+
+(7) The Act of 2000 applies in relation to the compulsory acquisition of land under subsection (1)(c), (6) or (6A) as if it were an acquisition under Part XIV of that Act and for that purpose a reference to a local authority shall be read as a reference to the Authority.
+
+(8) Before acquiring land by agreement under subsection (1)(c), (6) or (6A), the Authority shall obtain an independent valuation of the land.
 
 (9) The Authority may exploit commercial opportunities arising from its functions under this Part.
 
