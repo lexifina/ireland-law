@@ -50,8 +50,6 @@ Burdens which may be registered as affecting registered land.
 
 (s) any such other matter as may be prescribed.
 
-OJ L160 of 30.6.2000
-
 (2) A burden may be registered under this section on the application of the registered owner of the land or of any person entitled to or interested in the burden but, if the application is made without the concurrence of the registered owner of the land or such other person as may be prescribed, the burden shall not be registered except in pursuance of an order of the court.
 
 (3) Any covenant or condition registered under this section may be modified or discharged by order of the court on proof to the satisfaction of the court that the covenant or condition does not run with the land, or is not capable of being enforced against the owner of the land, or that the modification or discharge thereof will be beneficial to the persons principally interested in the enforcement thereof, and may, with the consent of all persons interested in the enforcement thereof, be modified or discharged by the Authority without any such order.
