@@ -28,13 +28,33 @@ Responsibility
 
 (7) A road authority may do all such things as arise out of or are consequential on or are necessary or expedient for the performance of its functions under this Act or otherwise in relation to public roads or are ancillary thereto.
 
+(7A) Without prejudice to the generality of this section and save as otherwise provided by law, a road authority may carry out works to reduce, increase or modify—
+
+(a) any lane, footpath, carriageway, pavement or footway, within an existing road,
+
+(b) any median, island, pedestrian refuge, or verge, forming part of the road,
+
+(c) any structure forming part of the road, and
+
+(d) any land or substratum of land on which any of the foregoing is situated.
+
 (8) Without prejudice to the generality of subsection (7) and save as otherwise provided by law, a road authority may—
 
-(a) provide any amenity, structure or thing for the safety or convenience of road users,
+(a) provide any amenity, structure, infrastructure or thing on, in, under or over a road for the benefit, utility, safety or convenience of road users,
 
-(b) undertake landscaping, planting or any similar activity in the interests of amenity and the environment,
+(b) undertake landscaping, planting or any similar activity on, in, under or over a road in the interests of amenity and the environment,
 
-(c) provide artistic features.
+(c) provide artistic features,
+
+(d) undertake works on, in, under or over a road to install, re-lay, relocate, divert, remove or replace any wire, pipe, drain, duct, cable or other similar infrastructure,
+
+(e) provide any structure or infrastructure on, in, under or over a road for, or in connection with—
+
+(i) the charging of electric vehicles,
+
+(ii) the provision of information to road users, or
+
+(iii) the transmission of information to vehicles being used on a road.
 
 (9) Notwithstanding the definition of “road” in section 2, nothing in this Act shall be construed as imposing on a road authority any liability, duty or obligation to—
 
@@ -59,3 +79,5 @@ Responsibility
 (b) A consent under paragraph (a) may be given by the road authority subject to such conditions, restrictions or requirements as it thinks fit and any person who fails to comply with such conditions, restrictions or requirements shall be guilty of an offence.
 
 (c) Where a person does anything in contravention of paragraph (a), a road authority may remove any defacement, repair any damage, fill in any excavation, remove any material, thing, dung or urine or remove or reduce any hazard, potential hazard, obstruction or interference and may recover from such person, as a simple contract debt in any court of competent jurisdiction, any costs reasonably incurred by it.
+
+(11) Subsection (10) shall not apply to the National Transport Authority when, in the performance of a function in accordance with subsection (2)(b) or (5)(a) of section 44 of the Dublin Transport Authority Act 2008 , it is exercising the powers of a road authority.
