@@ -1,6 +1,6 @@
 F52[Provisions relating to certain other applications for lease, licence or consent
 
-3BA. — (1) Where before the passing of Part 3 of the Act of 2022—
+3BA.—(1) Where before the passing of Part 3 of the Act of 2022—
 
 (a) an application was made to the appropriate Minister for a lease, licence or consent,
 

@@ -1,6 +1,6 @@
-Compliance by developer
+F104[Compliance by developer
 
-13AA. — (1) The Minister shall take all reasonable steps to ensure that a developer complies with any environmental condition.
+13AA.—(1) The Minister shall take all reasonable steps to ensure that a developer complies with any environmental condition.
 
 (2) For the purposes of subsection (1), the Minister may request the developer to furnish, within a specified period, specified information in relation to the developer’s compliance with an environmental condition, and that developer shall comply with such a request.
 

@@ -1,4 +1,4 @@
-F142[Provisions with respect to certain court proceedings.
+F108[Provisions with respect to certain court proceedings.
 
 16A.—(1) Where, before the passing of Part 6 of the Act of 2005, a court made a finding as to whether an area is or is not foreshore, then that finding shall not be affected by reference to the definition of "foreshore" (as amended by Part 6 of the Act of 2005) in section 1 of this Act or to section 1A of this Act.
 

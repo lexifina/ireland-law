@@ -1,4 +1,4 @@
-F114[Environmental impact assessment of certain proposals relating to the foreshore.
+F80[Environmental impact assessment of certain proposals relating to the foreshore.
 
 13A.—(1)(a) The appropriate Minister shall, as part of his consideration of a relevant application, in accordance with paragraph (b), ensure that, before a decision on the application is given, projects likely to have significant effects on the environment by virtue, inter alia, of their nature, size or location are made subject to an environmental impact assessment.
 

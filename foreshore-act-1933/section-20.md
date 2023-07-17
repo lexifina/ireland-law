@@ -1,6 +1,6 @@
 Laying of annual statement before the Oireachtas.
 
-20.— The appropriate Minister shall, in every financial year, lay before each House of the Oireachtas a statement setting forth the following matters, that is to say:—
+20.—The appropriate Minister shall, in every financial year, lay before each House of the Oireachtas a statement setting forth the following matters, that is to say:—
 
 (a) particulars of all leases made and licences granted under this Act during the next preceding financial year, and
 
