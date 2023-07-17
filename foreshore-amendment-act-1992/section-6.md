@@ -2,7 +2,7 @@ Powers of courts, Minister, local authorities, etc., in relation to mitigating a
 
 6.—(1) (a) Where, on application to the appropriate court by—
 
-(i) the Minister for the Environment, Heritage and Local Government,
+(i) the appropriate Minister,
 
 (ii) a local authority in respect of any area of seashore which is in whole or in part within its functional area or contiguous thereto, or
 
@@ -44,11 +44,11 @@ Powers of courts, Minister, local authorities, etc., in relation to mitigating a
 
 (4) (a) Where a person does not comply with an order under subsection (1) of this section—
 
-(i) the Minister for the Environment, Heritage and Local Government, or
+(i) the appropriate Minister, or
 
 (ii) the local authority in whose functional area the whole or any part of the seashore concerned is situated or contiguous thereto, may take any steps specified in the order to mitigate or remedy the effects of the removal or disturbance of beachmaterial or any kind or kinds of beach material to which the order relates.
 
-(b) The amount of any expenditure incurred by the Minister for the Environment, Heritage and Local Government or a local authority in relation to steps taken by him or the authority under paragraph (a) of this subsection shall be a simple contract debt owed by the person in respect of whom the order under subsection (1) of this section was made to that Minister or the authority, as the case may be, and may be recovered by him or the authority from the person as a simple contract debt in any court of competent jurisdiction.
+(b) The amount of any expenditure incurred by the appropriate Minister or a local authority in relation to steps taken by him or the authority under paragraph (a) of this subsection shall be a simple contract debt owed by the person in respect of whom the order under subsection (1) of this section was made to the appropriate Minister or the authority, as the case may be, and may be recovered by him or the authority from the person as a simple contract debt in any court of competent jurisdiction.
 
 (5) (a) An application under subsection (1) of this section to the District Court shall be made to the judge of the District Court for the District Court district in which the seashore concerned is in whole or in part situated or in which the defendant ordinarily resides.
 

@@ -2,7 +2,7 @@ High Court’s power to prohibit continuance of certain contraventions of Princi
 
 5.—(1) Where, on application to the High Court by—
 
-(a) the Minister for the Environment, Heritage and Local Government,
+(a) the appropriate Minister,
 
 (b) a local authority in respect of any area of seashore which is in whole or in part within its functional area or contiguous thereto, or
 
