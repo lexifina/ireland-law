@@ -6,6 +6,6 @@ Inhibition of registered dealings.
 
 (3) The court or the Authority may annex to any such order or entry any terms or conditions they think fit, and may discharge any such order or cancel any such entry, and generally may exercise such powers as the justice of the case requires; but nothing herein contained shall empower the Authority to discharge an order made by the court.
 
-(4)(a)...
+(4)(a) ...
 
 (b) Any entry made under this section may be withdrawn or modified at the instance of all the persons for the time being appearing by the register to be interested therein.
