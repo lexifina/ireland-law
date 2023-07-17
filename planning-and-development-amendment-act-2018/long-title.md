@@ -1,5 +1,3 @@
 An Act to amend and extend the Planning and Development Acts 2000 to 2018 and for that purpose to establish an office, to be known as the Office of the Planning Regulator, to evaluate and carry out assessments relating to planning matters and provide observations and recommendations in relation to those matters, to conduct reviews and examinations and to conduct education and training programmes and research in relation to planning matters; to provide for the organisation and staffing of that Office; to provide for a National Planning Framework; to provide for certain planning and development requirements to be taken into account by Irish Water; to make miscellaneous and consequential amendments to the Planning and Development Act 2000 and to various other Acts in so far as they relate to planning and development; to amend the Derelict Sites Act 1990; to give effect to Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 establishing a framework for marine spatial planning; and to provide for matters connected therewith.
 
-## [19th July, 2018]
-
-Be it enacted by the Oireachtas as follows:
+[19th July, 2018] Be it enacted by the Oireachtas as follows:

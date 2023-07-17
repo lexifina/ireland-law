@@ -6,9 +6,7 @@ Office of the Planning Regulator
 
 “PART IIB
 
-Office of the Planning Regulator
-
-Chapter I
+Office of the Planning Regulator Chapter I
 
 Preliminary and General (Part IIB)
 
@@ -710,7 +708,7 @@ Consequential provisions to section 31AM
 
 (v) that any such submissions or observations shall be taken into account by the Minister in giving a direction in accordance with subsection (9).
 
-(f ) The Minister shall carry out a strategic environmental assessment, appropriate assessment, or both, of the proposed material alteration of the development plan within the period determined by the Minister in accordance with paragraph (b).
+(f) The Minister shall carry out a strategic environmental assessment, appropriate assessment, or both, of the proposed material alteration of the development plan within the period determined by the Minister in accordance with paragraph (b).
 
 (g) The Minister shall, not later than 8 weeks after the publication of a notice under paragraph (c), prepare a report on any submissions or observations received in accordance with that notice.
 
@@ -914,7 +912,7 @@ Consequential provisions to section 31AO
 
 (v) that any such submissions or observations shall be taken into account by the Minister in giving a direction in accordance with subsection (9).
 
-(f ) The Minister shall carry out a strategic environmental assessment, appropriate assessment, or both, of the proposed material alteration of the local area plan within the period determined by the Minister in accordance with paragraph (b).
+(f) The Minister shall carry out a strategic environmental assessment, appropriate assessment, or both, of the proposed material alteration of the local area plan within the period determined by the Minister in accordance with paragraph (b).
 
 (g) The Minister shall, not later than 8 weeks after the publication of a notice under paragraph (c), prepare a report on any submissions or observations received in accordance with that notice.
 
@@ -1128,7 +1126,7 @@ Consequential provisions to section 31AQ
 
 (v) that any such submissions or observations shall be taken into account by the Minister in giving a direction in accordance with subsection (9).
 
-(f ) The Minister shall carry out a strategic environmental assessment, appropriate assessment, or both, of the proposed material alteration of the regional spatial and economic strategy within the period determined by the Minister in accordance with paragraph (b).
+(f) The Minister shall carry out a strategic environmental assessment, appropriate assessment, or both, of the proposed material alteration of the regional spatial and economic strategy within the period determined by the Minister in accordance with paragraph (b).
 
 (g) The Minister shall, not later than 8 weeks after the publication of a notice under paragraph (c), prepare a report on any submissions or observations received in accordance with that notice.
 
