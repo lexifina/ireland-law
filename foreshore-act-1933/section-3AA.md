@@ -1,6 +1,6 @@
 Provisions relating to certain other leases, licences, etc.
 
-3AA. — (1) Where a lease, licence or consent was granted by the appropriate Minister before the passing of Part 3 of the Act of 2022 that relates to or includes an area that, but for section 1AA would not be foreshore, the lease, licence or consent (including any terms and conditions) shall have effect by reference to the definition of foreshore (as amended by section 17 of the Act of 2022) in section 1 of this Act.
+3AA.—(1) Where a lease, licence or consent was granted by the appropriate Minister before the passing of Part 3 of the Act of 2022 that relates to or includes an area that, but for section 1AA would not be foreshore, the lease, licence or consent (including any terms and conditions) shall have effect by reference to the definition of foreshore (as amended by section 17 of the Act of 2022) in section 1 of this Act.
 
 (2) Where—
 

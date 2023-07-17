@@ -1,6 +1,6 @@
 Publication of notice of Minister‘s decision in relation to certain relevant applications.
 
-21A.— When the appropriate Minister determines a relevant application, that Minister shall—
+21A.—When the appropriate Minister determines a relevant application, that Minister shall—
 
 (a) publish a notice, in Iris Oifigiúil and in one or more newspapers circulating in the area where the foreshore subject to the determination is situate, of the determination and specifying the means by which any material received by that Minister upon which that Minister determined the application may be inspected free of charge or purchased at a price to be determined by that Minister (which shall not be more than the reasonable cost of making the copy or copies concerned),
 

@@ -1,6 +1,6 @@
 Provisions relating to certain other aquaculture licences.
 
-3CA. — (1) Where a foreshore licence was deemed by—
+3CA.—(1) Where a foreshore licence was deemed by—
 
 (a) section 75 of the Fisheries (Amendment) Act 1997, or
 
