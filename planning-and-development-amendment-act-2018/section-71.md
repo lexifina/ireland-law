@@ -1,3 +1,3 @@
-Public participation on marine spatial plans
+Public participation on marine spatial plans (Repealed)
 
-71. The Minister shall make arrangements to ensure compliance by the State with the requirements of Article 9 of the Directive.
+71. ...
