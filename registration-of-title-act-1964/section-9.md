@@ -1,4 +1,4 @@
-## [The Authority]
+## The Authority
 
 The Registrar of Titles
 
