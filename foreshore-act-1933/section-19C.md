@@ -1,6 +1,6 @@
-F169[Consultation with other Member States of European Communities.
+F131[Consultation with other Member States of European Communities.
 
-19C. (1) Where the appropriate Minister considers that proposed development, which is the subject of an environmental impact assessment report in accordance with a requirement of or under section 13A of this Act, would be likely to have significant effects on the environment in another Member State of the European Communities, or where another Member State of the European Communities considers that the said development would be likely to have the said effects and so requests, he shall, as soon as possible, send to that other Member State—
+19C. —(1) Where the appropriate Minister considers that proposed development, which is the subject of an environmental impact assessment report in accordance with a requirement of or under section 13A of this Act, would be likely to have significant effects on the environment in another Member State of the European Communities, or where another Member State of the European Communities considers that the said development would be likely to have the said effects and so requests, he shall, as soon as possible, send to that other Member State—
 
 (a) a description of the proposed development and any available information on its possible effects on the environment in that Member State, and
 
