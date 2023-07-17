@@ -1,8 +1,8 @@
-F156[Regulations relating to the submission of observations by certain bodies.
+F118[Regulations relating to the submission of observations by certain bodies.
 
-18A.— (1) The Minister for the Environment, Heritage and Local Government may, following consultation with the Minister for Agriculture, Fisheries and Food, by regulations under this section, prescribe—
+18A.—(1) The Minister for Agriculture, Food and the Marine may, by regulations under this section, prescribe—
 
-(a) bodies for the purposes of submitting observations to the Minister for the Environment, Heritage and Local Government or the Minister for Agriculture, Fisheries and Food or to both in respect of an application—
+(a) bodies for the purposes of submitting observations to the Minister ... in respect of an application—
 
 (i) for a lease under section 2,
 

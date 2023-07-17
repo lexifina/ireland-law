@@ -1,6 +1,6 @@
 Prohibition of deposit of material on foreshore.
 
-13.—(1) No person shall, without the consent of the Minister for the Environment, Heritage and Local Government or otherwise than in accordance with such consent, deposit or cause to be deposited any material whatsoever on any foreshore nor on any seashore or other place from which such material would by the operation of gravity, wind, water or other natural cause escape or be transported to such foreshore.
+13.—(1) No person shall, without the consent of the appropriate Minister or otherwise than in accordance with such consent, deposit or cause to be deposited any material whatsoever on any foreshore nor on any seashore or other place from which such material would by the operation of gravity, wind, water or other natural cause escape or be transported to such foreshore.
 
 (2) Every person who deposits or causes to be deposited any material whatsoever on any foreshore, seashore, or other place in contravention of this section shall be guilty of an offence under this sub-section and shall be liable on summary conviction thereof to a fine not exceeding ten pounds.
 
