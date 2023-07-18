@@ -1,5 +1,5 @@
-## Part 9A Dissolution of Opticians Board
+## Part 9A DISSOLUTION OF OPTICIANS BOARD
 
-Definition of ‘Opticians Board’.
+Definition of "Opticians Board".
 
-91B. In this Part ‘Opticians Board’ means Bord na Radharcmhastóirí.
+91B. In this Part "Opticians Board" means Bord na Radharcmhastóirí.
