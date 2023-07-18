@@ -12,9 +12,9 @@ Diploma in Dietetics and Nutrition from the City of Dublin Vocational Education 
 
 Diploma in Dietetics from the City of Dublin Vocational Education Committee awarded after 1951 and before 1977.
 
-PROFESSION QUALIFICATION
-
 3. Medical Scientists Bachelor of Science (Applied Sciences) (Honours) (Biomedical option) from the University of Dublin/the Dublin Institute of Technology Kevin Street, or
+
+PROFESSION QUALIFICATION
 
 Bachelor of Science (Honours) in Biomedical Science from the Joint University College Cork — Cork Institute of Technology course, or
 
@@ -60,11 +60,11 @@ National Diploma in Applied Social Care Studies awarded by the Higher Education 
 
 Diploma in Social Care awarded by the Higher Education and Training Awards Council/Dublin Institute of Technology, or
 
-PROFESSION QUALIFICATION
-
 Diploma in Applied Social Studies/Social Care from the Dublin Institute of Technology, or
 
 Open Training College National Diploma in Applied Social Studies (Disability).
+
+PROFESSION QUALIFICATION
 
 11. Social Workers National Qualification in Social Work awarded by the National Social Work Qualifications Board, or
 

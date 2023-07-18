@@ -100,9 +100,7 @@ Casual vacancies.
 
 (2) If a casual vacancy occurs among the members appointed to a registration board under section 28(1)(a) or 28A(1)(a), the board shall co-opt to fill the vacancy a person who would be eligible under that section to be elected for appointment as a member of that board and the Minister shall appoint that person to fill the vacancy.
 
-(3) A person appointed to fill a casual vacancy holds office as a member of the registration board concerned for the unexpired portion of his or her predecessor's term of office.
-
-Convening meetings and notifying members.
+(3) A person appointed to fill a casual vacancy holds office as a member of the registration board concerned for the unexpired portion of his or her predecessor's term of office. Convening meetings and notifying members.
 
 9. (1) The first meeting of a registration board is to be held on the day appointed by the Minister for that board and the members shall be notified by the Minister of the date, time and place of the meeting.
 
@@ -134,7 +132,9 @@ Voting at meetings.
 
 12. (1) Subject to paragraphs 4(4)(b) and 10, each question at a meeting of a registration board shall be determined by a majority of the votes of the members present and voting on the question.
 
-(2) If there is an equal division of votes, the question shall, subject to paragraph 4(2), be determined by a second or casting vote of the person chairing the meeting. Power to act despite vacancy or defect in appointment.
+(2) If there is an equal division of votes, the question shall, subject to paragraph 4(2), be determined by a second or casting vote of the person chairing the meeting.
+
+Power to act despite vacancy or defect in appointment.
 
 13. (1) A registration board may act despite one or more than one vacancy among its members, provided there is a quorum.
 

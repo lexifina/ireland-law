@@ -54,7 +54,7 @@ Interpretation.
 
 “new name”, in relation to a registration board referred to in section 26(1), means the most recent name (if any) that the board has been given pursuant to regulations under section 4;
 
-“professional qualification”, in relation to registration of a person in a designated profession, means a document, other than a document referred to in the definition of ‘qualification’ in this section, that attests to the person’s having achieved a standard of proficiency in that profession, whether or not that standard was achieved in part through practical experience in that profession;
+“professional qualification”, in relation to registration of a person in a designated profession, means a document, other than a document referred to in the definition of "qualification" in this section, that attests to the person’s having achieved a standard of proficiency in that profession, whether or not that standard was achieved in part through practical experience in that profession;
 
 "Professional Qualifications Regulations" means the European Union (Recognition of Professional Qualifications) Regulations 2017 (S.I. No. 8 of 2017);
 

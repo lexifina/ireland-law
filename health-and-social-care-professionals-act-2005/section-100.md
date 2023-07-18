@@ -34,7 +34,7 @@ Power to specify form of documents.
 
 (b) in that form, require the registrant to supply the registration board with such information that the registrant would have to supply the board if the registrant were not registered but were seeking registration.
 
-(6) In this section, ‘relevant body’ means—
+(6) In this section, "relevant body" means—
 
 (a) subject to paragraphs (b) to (d), the Council,
 

@@ -18,15 +18,15 @@ ITEM NO. RELEVANT DESIGNATED RELEVANT PERSON PROFESSION
 
 5. Occupational Therapist Minister
 
-ITEM NO. RELEVANT DESIGNATED RELEVANT PERSON PROFESSION
-
-(1) (2) (3)
-
 6. Optometrist Opticians Board
 
 7. Orthoptist Minister
 
 8. Physiotherapist Minister or Irish Society of Chartered Physiotherapists
+
+ITEM NO. RELEVANT DESIGNATED RELEVANT PERSON PROFESSION
+
+(1) (2) (3)
 
 9. Podiatrist Minister
 

@@ -6,7 +6,7 @@ Membership of Council.
 
 (3) The following are to be appointed as ordinary members:
 
-(a) for each designated profession, one person (referred to in this Act as a ‘professional member’) who, subject to subsections (6) and (7)—
+(a) for each designated profession, one person (referred to in this Act as a "professional member") who, subject to subsections (6) and (7)—
 
 (i) is an elected member of the registration board of the designated profession concerned, and
 
@@ -48,4 +48,4 @@ Membership of Council.
 
 (8) The Council shall elect a deputy chairperson of the Council from amongst its members in accordance with Schedule 1.
 
-(9) In this section, ‘casual vacancy’ has the same meaning as it has in Schedule 1.
+(9) In this section, "casual vacancy" has the same meaning as it has in Schedule 1.

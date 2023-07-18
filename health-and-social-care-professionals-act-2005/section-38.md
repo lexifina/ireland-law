@@ -78,9 +78,9 @@ Registration in register of designated profession.
 
 (d) The Physiotherapists Registration Board may not, on or after the relevant commencement, determine that application but without prejudice to the person’s right to make a further application referred to in subsection (2F)(a).
 
-(e) In this subsection, ‘relevant commencement’ means the commencement of section 29(b) of the Regulated Professions (Health and Social Care) (Amendment) Act 2020.
+(e) In this subsection, "relevant commencement" means the commencement of section 29(b) of the Regulated Professions (Health and Social Care) (Amendment) Act 2020.
 
-(2G) A document that purports to be evidence of the recognition referred to in the definition of ‘relevant professional qualification’ shall, for the purposes of this Act and in the absence of evidence to the contrary, be taken to be proof of such recognition.
+(2G) A document that purports to be evidence of the recognition referred to in the definition of "relevant professional qualification" shall, for the purposes of this Act and in the absence of evidence to the contrary, be taken to be proof of such recognition.
 
 (3) A registration board may register a person in more than one division of a register if the person satisfies the conditions specified in the bye-laws for registration in each division.
 
@@ -98,11 +98,11 @@ Registration in register of designated profession.
 
 (b) in the opinion of the registration board concerned, was not required in order for the person to obtain his or her professional qualification.
 
-‘relevant designated profession’ means a designated profession listed in the second column of Schedule 4;
+"relevant designated profession" means a designated profession listed in the second column of Schedule 4;
 
-‘relevant person’, in relation to a relevant designated profession, means the person listed opposite that profession in the third column of Schedule 4;
+"relevant person", in relation to a relevant designated profession, means the person listed opposite that profession in the third column of Schedule 4;
 
-‘relevant professional qualification’, in relation to a relevant designated profession, means a professional qualification that was recognised by the relevant person—
+"relevant professional qualification", in relation to a relevant designated profession, means a professional qualification that was recognised by the relevant person—
 
 (a) as a professional qualification that attested to a standard of proficiency that rendered the holder thereof eligible for recruitment by the Health Service Executive (or any specified body within the meaning of section 56 of the Health Act 2004) in the profession to which that qualification relates, and
 

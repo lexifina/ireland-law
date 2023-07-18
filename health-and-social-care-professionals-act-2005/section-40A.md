@@ -10,7 +10,7 @@ Conditions attached to registration.
 
 (a) a person making an application for registration as a member of a designated profession has a relevant medical disability or a material matter has occurred in relation to him or her, and
 
-(b) in the interests of public safety, registration should only be granted to the person subject to conditions on the practising of that profession which take account of that disability or material matter, the board shall specify the conditions (in this section referred to as the ‘proposed conditions’) which, in the opinion of the board, are necessary to be attached to the registration of the person in those interests.
+(b) in the interests of public safety, registration should only be granted to the person subject to conditions on the practising of that profession which take account of that disability or material matter, the board shall specify the conditions (in this section referred to as the "proposed conditions") which, in the opinion of the board, are necessary to be attached to the registration of the person in those interests.
 
 (3) Where the person the subject of a decision under subsection (2) agrees in writing to the attachment of the proposed conditions to the registration, the registration board concerned shall register the person and at the same time enter in the register concerned—
 

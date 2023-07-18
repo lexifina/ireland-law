@@ -1,4 +1,4 @@
-## Part 7A Prescription and Sale of Spectacles
+## Part 7A PRESCRIPTION AND SALE OF SPECTACLES
 
 Restriction on prescribing spectacles and dispensing prescriptions for spectacles.
 

@@ -32,7 +32,7 @@ Membership of registration boards of 2 or more designated professions.
 
 (c) one is to be a person who is engaged in the State in the education and training of persons with respect to the practice of any of those professions that are prescribed for the purposes of this paragraph.
 
-(5) Subject to subsection (10)(b), when regulations under section 4, in relation to a designated profession that falls within paragraph (b) of the definition of ‘designated profession’ in section 3(1), specify the name (or, if applicable, the new name) of a registration board referred to in section 26(1), being a registration board that has already been constituted, that shall be the registration board for that profession and until the end of the transitional period within the meaning of section 90, in relation to the profession concerned, subsection (1)(a) does not apply and instead the Minister shall appoint 6 persons, of whom—
+(5) Subject to subsection (10)(b), when regulations under section 4, in relation to a designated profession that falls within paragraph (b) of the definition of "designated profession" in section 3(1), specify the name (or, if applicable, the new name) of a registration board referred to in section 26(1), being a registration board that has already been constituted, that shall be the registration board for that profession and until the end of the transitional period within the meaning of section 90, in relation to the profession concerned, subsection (1)(a) does not apply and instead the Minister shall appoint 6 persons, of whom—
 
 (a) 3 are to be persons engaged in the practice of any of those professions that are prescribed for the purposes of this paragraph,
 
