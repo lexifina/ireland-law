@@ -26,7 +26,7 @@ F84[Declarations by registrants in relation to certain matters in State or other
 
 (8) In this section—
 
-‘final determination’, in relation to any relevant proceedings and a registrant, means—
+"final determination", in relation to any relevant proceedings and a registrant, means—
 
 (a) the conclusion of those proceedings without any party to the proceedings making an appeal, against a decision in those proceedings to impose or to not impose a sanction on the registrant, within the ordinary time in the State or other jurisdiction concerned, as appropriate, for making such an appeal, or
 
@@ -34,7 +34,9 @@ F84[Declarations by registrants in relation to certain matters in State or other
 
 (i) the abandonment or withdrawal of the appeal, or
 
-(ii) the determination of the appeal, whichever first occurs; ‘relevant proceedings’, in relation to a registrant, means any disciplinary or judicial proceedings (other than any such proceedings under this Act), in respect of which the registrant is the subject—
+(ii) the determination of the appeal, whichever first occurs;
+
+"relevant proceedings", in relation to a registrant, means any disciplinary or judicial proceedings (other than any such proceedings under this Act), in respect of which the registrant is the subject—
 
 (a) in the State or another jurisdiction which may directly or indirectly result in the registrant—
 
@@ -46,4 +48,4 @@ F84[Declarations by registrants in relation to certain matters in State or other
 
 (c) in the State which may result in the registrant being convicted, in the State, for an offence triable on indictment;
 
-‘sanction’ includes any restriction or measure.
+"sanction" includes any restriction or measure.

@@ -1,4 +1,4 @@
-F141[ Use of professional titles.
+F144[Use of professional titles.
 
 91A.— Section 79(4) shall not apply to the use of a title referred to in section 79(1), (2) or (3) for a designated profession—
 
@@ -9,5 +9,3 @@ F141[ Use of professional titles.
 (i) the application is being determined, or
 
 (ii) by virtue of section 91(6), an application or appeal relating to the application is being determined.
-
-Dissolution of Opticians Board

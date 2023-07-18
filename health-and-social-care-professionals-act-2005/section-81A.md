@@ -1,4 +1,4 @@
-## Part 7A
+## Part 7A PRESCRIPTION AND SALE OF SPECTACLES
 
 F128[Restriction on prescribing spectacles and dispensing prescriptions for spectacles
 

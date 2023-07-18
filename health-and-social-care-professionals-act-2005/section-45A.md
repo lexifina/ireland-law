@@ -8,6 +8,6 @@ F86[Council may request certain information concerning registrant from certain b
 
 (2) In subsection (1) —
 
-‘registrant’ includes a person who has made an application under section 37 for registration which has not yet been determined by the registration board concerned;
+"registrant" includes a person who has made an application under section 37 for registration which has not yet been determined by the registration board concerned;
 
-‘relevant statement’, in relation to a request under subsection (1), means a statement to the effect that any information provided to the Council or registration board, pursuant to that request, by the body to which the request is made may be used in any proceedings under this Act concerning the registrant the subject of the request.
+"relevant statement", in relation to a request under subsection (1), means a statement to the effect that any information provided to the Council or registration board, pursuant to that request, by the body to which the request is made may be used in any proceedings under this Act concerning the registrant the subject of the request.
