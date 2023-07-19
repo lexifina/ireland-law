@@ -10,7 +10,7 @@ Proceedings relating to offences committed outside State.
 
 (ii) a body corporate established under the law of the State or a company within the meaning of the Companies Acts, then the person is guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of an offence under section 71A or 72, as the case may be.
 
-(2) Where a person is charged with an offence referred to in subsection (1) , no further proceedings in the matter (other than any remand in custody or on bail) may be taken except by or with the consent of the Director of Public Prosecutions.
+(2) Where a person is charged with an offence referred to in subsection (1), no further proceedings in the matter (other than any remand in custody or on bail) may be taken except by or with the consent of the Director of Public Prosecutions.
 
 (2A) Proceedings for—
 
@@ -32,6 +32,6 @@ Proceedings relating to offences committed outside State.
 
 (ii) a final determination has been made that the relevant arrest warrant should not be endorsed for execution in the State under the European Arrest Warrant Act 2003 or that the person should not be surrendered to the issuing state concerned, or
 
-(c) that, because of the special circumstances (including, but not limited to, the likelihood of a refusal referred to in paragraph (a) (ii) or a determination referred to in paragraph (b) (ii) ), it is expedient that proceedings be taken against the person for an offence under the law of the State in respect of the act.
+(c) that, because of the special circumstances (including, but not limited to, the likelihood of a refusal referred to in paragraph (a)(ii) or a determination referred to in paragraph (b)(ii)), it is expedient that proceedings be taken against the person for an offence under the law of the State in respect of the act.
 
 (4) In this section “relevant arrest warrant” and “issuing state” have the meanings they have in section 2(1) of the European Arrest Warrant Act 2003.

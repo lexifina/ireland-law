@@ -4,7 +4,7 @@ Substitution of section 3 of Principal Act.
 
 3.— (1) Application for a firearm certificate (other than a restricted firearm certificate) shall be made to the Superintendent of the Garda Síochána of the district in which the applicant resides.
 
-‘Applications for, and
+"Applications for, and
 
 (2) Application for a restricted firearm certificate shall be made to the form and effect of,
 
@@ -62,4 +62,4 @@ Commissioner. firearm certificates.
 
 (14) Subsection (13) of this section is without prejudice to Part 4 of the Criminal Justice (Theft and Fraud Offences) Act 2001.
 
-(15) Section 12 (limited use of shot-gun) of the Firearms Act 1964 is repealed.’
+(15) Section 12 (limited use of shot-gun) of the Firearms Act 1964 is repealed."

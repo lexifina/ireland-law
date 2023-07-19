@@ -2,7 +2,7 @@ Offence of directing a criminal organisation.
 
 71A.— (1) In this section—
 
-(a) ‘directs’, in relation to activities, means—
+(a) "directs", in relation to activities, means—
 
 (i) controls or supervises the activities, or
 
@@ -38,4 +38,4 @@ Offence of directing a criminal organisation.
 
 (b) the seeking, at that time, by a person so involved of assistance or guidance from the defendant, shall, in proceedings for an offence under this section, be admissible as evidence that the defendant was directing the activities of the organisation concerned at the material time.
 
-(6) In this section ‘document or other record’ has the same meaning as it has in section 71B.
+(6) In this section "document or other record" has the same meaning as it has in section 71B.

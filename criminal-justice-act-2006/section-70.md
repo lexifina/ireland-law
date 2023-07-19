@@ -6,13 +6,13 @@ Interpretation ( Part 7 ).
 
 “act” includes omission and a reference to the commission or doing of an act includes a reference to the making of an omission;
 
-‘criminal organisation’ means a structured group, however organised, that has as its main purpose or activity the commission or facilitation of a serious offence;
+"criminal organisation" means a structured group, however organised, that has as its main purpose or activity the commission or facilitation of a serious offence;
 
 “Irish ship” has the meaning it has in section 9 of the Mercantile Marine Act 1955;
 
 “serious offence” means an offence for which a person may be punished by imprisonment for a term of 4 years or more;
 
-‘structured group’ means a group of 3 or more persons, which is not randomly formed for the immediate commission of a single offence, and the involvement in which by 2 or more of those persons is with a view to their acting in concert; for the avoidance of doubt, a structured group may exist notwithstanding the absence of all or any of the following:
+"structured group" means a group of 3 or more persons, which is not randomly formed for the immediate commission of a single offence, and the involvement in which by 2 or more of those persons is with a view to their acting in concert; for the avoidance of doubt, a structured group may exist notwithstanding the absence of all or any of the following:
 
 (a) formal rules or formal membership, or any formal roles for those involved in the group;
 

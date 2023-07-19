@@ -20,7 +20,7 @@ Offences under this Part: inferences that may be drawn.
 
 (6) References in subsection (1) to evidence shall, in relation to the hearing of an application under Part IA of the Criminal Procedure Act 1967 for the dismissal of a charge, be taken to include a statement of the evidence to be given by a witness at the trial.
 
-(7) In this section ‘any question material to the investigation of the offence’ means:
+(7) In this section "any question material to the investigation of the offence" means:
 
 (a) a question requesting that the defendant give a full account of his or her movements, actions, activities or associations during any specified period relevant to the offence being investigated; and
 

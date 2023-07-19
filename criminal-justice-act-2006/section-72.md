@@ -40,7 +40,7 @@ Organised crime.
 
 (b) receives any benefit from the criminal organisation concerned.
 
-(6) In proceedings for an offence under this section, it shall be presumed, until the contrary is shown, that the participation or contribution (the ‘relevant act’) of the defendant referred to in subsection (1) was engaged in or made with the state of mind on the defendant’s part referred to in paragraph (a) or (b) of that subsection if the circumstances under which the relevant act was committed—
+(6) In proceedings for an offence under this section, it shall be presumed, until the contrary is shown, that the participation or contribution (the "relevant act") of the defendant referred to in subsection (1) was engaged in or made with the state of mind on the defendant’s part referred to in paragraph (a) or (b) of that subsection if the circumstances under which the relevant act was committed—
 
 (a) involved either—
 
