@@ -1,0 +1,9 @@
+Number 24 of 2023
+
+CRIMINAL JUSTICE (MISCELLANEOUS PROVISIONS) ACT 2023
+
+An Act to amend the Offences against the Person Act 1861 and the Criminal Justice Act 2006 in relation to the offences of conspiracy to murder under those Acts; and for that purpose to provide for consequential amendments of other enactments; to amend the Explosives Act 1875 and the Firearms Act 1925; to provide for offences relating to non-fatal strangulation, non-fatal suffocation, harassment and stalking and for those purposes and other purposes to amend the Non-Fatal Offences against the Person Act 1997; to provide for the making of court orders to protect persons against certain conduct; to provide for assistance between the State and the European Public Prosecutor’s Office, and for that purpose and other purposes to amend the Criminal Justice (Mutual Assistance) Act 2008 and the Criminal Justice (Joint Investigation Teams) Act 2004; to provide for circumstances in which a court may order the anonymity of a witness in criminal proceedings; to provide for certificates of evidence relating to the receipt, handling, transmission or storage of certain items, and for that purpose to provide for amendments to the Misuse of Drugs Act 1984 ; and for those and other purposes to amend the Criminal Evidence Act 1992, the Criminal Justice Act 1993, the Criminal Procedure Act 1993, the Criminal Justice (Public Order) Act 1994, the Bail Act 1997, the Criminal Justice (Theft and Fraud Offences) Act 2001, the Criminal Law (Insanity) Act 2006, the Broadcasting Act 2009, the Communications (Retention of Data) Act 2011, the Criminal Justice (Forensic Evidence and DNA Database System) Act 2014, the Domestic Violence Act 2018 and certain other enactments; and to provide for related matters.
+
+[19th July, 2023]
+
+Be it enacted by the Oireachtas as follows:
