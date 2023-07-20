@@ -1,0 +1,13 @@
+Transfer of land
+
+52. (1) (a) On the vesting day such land which, immediately before that day, was vested in the IAA, the Minister, the Minister for Public Expenditure and Reform or the Commissioners as may be designated by the Minister for the purposes of this section with the consent of the Minister for Public Expenditure and Reform and all rights, powers and privileges relating to or connected with such land shall, without any conveyance or assignment, but subject to subsection (2), stand vested in the IANS for all the estate or interest for which, immediately before the vesting day, it was vested in the IAA, the Minister, the Minister for Public Expenditure and Reform or the Commissioners, as the case may be, but subject to all trusts and equities affecting the land subsisting and capable of being performed.
+
+(b) On such day after the vesting day, but not more than one year thereafter, as may be specified by the Minister with the consent of the Minister for Public Expenditure and Reform, such land vested in the IAA, the Minister, the Minister for Public Expenditure and Reform or the Commissioners as may be designated by the Minister for the purposes of this section with the consent of the Minister for Public Expenditure and Reform and all rights, powers and privileges relating to or connected with such land shall, without any conveyance or assignment, but subject to subsection (2), stand vested in the IANS for all the estate or interest for which, immediately before the day so specified, it was vested in the IAA, the Minister, the Minister for Public Expenditure and Reform or the Commissioners, as the case may be, but subject to all trusts and equities affecting the land subsisting and capable of being performed.
+
+(2) Subsection (1) shall not operate to vest in the IANS any minerals or any rights of mining or taking minerals, or any foreshore, within the meaning of the Foreshore Act 1933.
+
+(3) Where, immediately before the vesting day, land vested in the IAA, the Minister, the Minister for Public Expenditure and Reform or the Commissioners was being used for the purpose of a function of the IAA corresponding to a function of the IANS, the IAA, the Minister, the Minister for Public Expenditure and Reform or the Commissioners, as the case may be, may, upon and subject to such terms and conditions as the IAA, the Minister, the Minister for Public Expenditure and Reform or the Commissioners, as the case may be, determine, lease or let the land to, or license its use by, the IANS or a subsidiary.
+
+(4) This section shall not operate to vest in the IANS any rights or interests in relation to sovereign airspace.
+
+(5) In this section, “Commissioners” means the Commissioners of Public Works in Ireland.
