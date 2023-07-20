@@ -1,6 +1,6 @@
 Rules for direction-finders.
 
-18. — (1) The Minister may make rules (‘navigation and tracking rules’ ) requiring ships to which this section applies to be provided with navigation and tracking systems and equipment of such a nature as may be prescribed by the rules including requirements relating to their position and method of fitting and to maintain such systems as may be so prescribed.
+18. — (1) The Minister may make rules ("navigation and tracking rules") requiring ships to which this section applies to be provided with navigation and tracking systems and equipment of such a nature as may be prescribed by the rules including requirements relating to their position and method of fitting and to maintain such systems as may be so prescribed.
 
 (2) This section applies to all ships registered in the State and to other ships while they are within any port in the State.
 
