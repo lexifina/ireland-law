@@ -2,7 +2,7 @@
 
 Protected disclosures
 
-5. (1) For the purposes of this Act “protected disclosure” means, subject to subsection (6) and sections 17 and 18, a disclosure of relevant information (whether before or after the date of the passing of this Act) made by a worker in the manner specified in section 6, 7, 8, 9 or 10.
+5. (1) For the purposes of this Act “protected disclosure” means, subject to subsection (6) and sections 17 and 18, a disclosure of relevant information (whether before or after the date of the passing of this Act) made by a worker in the manner specified in section 6, 7, 7B, 8, 9 or 10.
 
 (2) For the purposes of this Act information is “relevant information” if—
 

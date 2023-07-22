@@ -8,13 +8,15 @@ Disclosure in other cases
 
 (c) the worker—
 
-(i) has previously made a disclosure of substantially the same information in the manner specified in section 6, 7 or 8, as the case may be, but no appropriate action was taken in response to the report within the period specified in section 6A(1)(e), 7A(1)(c), 10C(7)(b), 10D(7)(b) or 10E(1)(c), as the case may be, or
+(i) has previously made a disclosure of substantially the same information in the manner specified in section 6, 7 or 8, as the case may be, but no appropriate action was taken in response to the report within the period specified in section 6A(1)(e), 7A(1)(c), 10C(7)(b), 10D(7)(b) or 10E(1)(c), as the case may be,
+
+(ia) has previously made a disclosure of substantially the same information in the manner specified in section 7B, or
 
 (ii) reasonably believes that—
 
 (I) the relevant wrongdoing concerned may constitute an imminent or manifest danger to the public interest, such as where there is an emergency situation or a risk of irreversible damage, or
 
-(II) if he or she were to make a report in the manner specified in section 7 or 8, as the case may be—
+(II) if he or she were to make a report in the manner specified in section 7 , 7B or 8, as the case may be—
 
 (A) there is a risk of penalisation, or
 
