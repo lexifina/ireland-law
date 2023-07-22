@@ -30,7 +30,7 @@ Internal reporting channels and procedures
 
 (ii) where the employer accepts anonymous reports, the conditions pursuant to which those reports may be accepted and follow-up undertaken, and
 
-(iii) the procedures for making a report to a prescribed person or the Commissioner, as the case may be, in the manner specified in section 7, and, where relevant, to institutions, bodies, offices or agencies of the European Union.
+(iii) the procedures for making a report to a prescribed person or the Commissioner, as the case may be, in the manner specified in section 7, and, where relevant, to institutions, bodies, offices or agencies of the European Union in the manner specified in section 7B.
 
 (2) Internal reporting channels and procedures shall enable reports to be made—
 
