@@ -18,9 +18,9 @@ Section 4 After subsection (1) insert—
 
 “(1A) Subsection (1) does not apply to a communication that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
 
-Section 5 After subsection (1) insert— Item Short title, Provision Amendment number and year affected (1) (4) (2) (3)
+Section 5 After subsection (1) insert—
 
-“(1A) This section does not apply to the making of a statement that is a protected disclosure within the meaning of the Protected Disclosures Act 2014.”.
+“(1A) This section does not apply to the making of a statement that is a protected disclosure Item Short title, Provision Amendment number and year affected (1) (4) (2) (3) within the meaning of the Protected Disclosures Act 2014.”.
 
 2 Prevention of Section (a) After subsection (2) insert— Corruption 8A “(2A) Subsection (1) does not apply to a (Amendment) communication, or furnishing of information, that Act 2001 (No. 27 is a protected disclosure within the meaning of of 2001) the Protected Disclosures Act 2014.”.
 
