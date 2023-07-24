@@ -72,6 +72,8 @@ Interpretation.
 
 “chairperson” means the chairperson of the Board,
 
+O.J.No. 20, 26.1.2010 p 7-25
+
 "chief executive", in relation to a local authority, including a local authority exercising functions as a planning authority, means the chief executive appointed under Chapter 2 of Part 14 (as amended by section 54 of the Local Government Reform Act 2014) of the Local Government Act 2001;
 
 "coastal planning authority" has the meaning assigned to it by the Maritime Area Planning Act 2021;
@@ -79,8 +81,6 @@ Interpretation.
 “Commissioners” means the Commissioners of Public Works in Ireland;
 
 “company”, except in section 149(5), means a company within the meaning of section 2 of the Companies Act, 1963, or a company incorporated outside the State;
-
-O.J.No. 20, 26.1.2010 p 7-25
 
 "confirmation notice" means the confirmation notice sent pursuant to article 97B(2) of the Planning and Development Regulations 2001 (S.I. No. 600 of 2001) following the entering onto the EIA portal of the information referred to in article 97A of those Regulations to which that notice relates;
 
@@ -112,6 +112,8 @@ O.J.No. 20, 26.1.2010 p 7-25
 
 "environmental impact assessment report" means a report of the effects, if any, which proposed development, if carried out, would have on the environment and shall include the information specified in Annex IV of the Environmental Impact Assessment Directive;
 
+3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
+
 "European site" has the meaning given to it by section 177R of Part XAB;
 
 "European Union" means European Union within the meaning of the European Communities Act 1972 (No. 27 of 1972);
@@ -121,8 +123,6 @@ O.J.No. 20, 26.1.2010 p 7-25
 “exhibit”, in relation to an advertisement, includes affix, inscribe, print, paint, illuminate and otherwise delineate;
 
 “existing establishment” has the meaning that it has in the Major Accidents Directive;
-
-3 OJ L26, 28.1.2012, p.1 4 OJ L24, 25.4.2014, p.1
 
 “fence” includes a hoarding or similar structure but excludes any bank, wall or other similar structure composed wholly or mainly of earth or stone;
 
@@ -146,6 +146,10 @@ O.J.No. 20, 26.1.2010 p 7-25
 
 “house” means a building or part of a building which is being or has been occupied as a dwelling or was provided for use as a dwelling but has not been occupied, and where appropriate, includes a building which was designed for use as 2 or more dwellings or a flat, an apartment or other dwelling within such a building;
 
+O.J.No.L206, 22.7.1992, p. 7 O.J.No.L 176, 20.7.1993, p 29-30
+
+O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63
+
 "housing strategy" means a strategy included in a development plan under section 94;
 
 “integrated pollution control licence” means a licence under Part IV of the Environmental Protection Agency Act, 1992;
@@ -153,10 +157,6 @@ O.J.No. 20, 26.1.2010 p 7-25
 “land” includes any structure and any land covered with water (whether inland or coastal);
 
 "landscape" has the same meaning as it has in Article 1 of the European Landscape Convention done at Florence on 20 October 2000;
-
-O.J.No.L206, 22.7.1992, p. 7 O.J.No.L 176, 20.7.1993, p 29-30
-
-O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.12.2006, p 368-408 and O.J. L 059, 8.3.1996, p.63
 
 "large-scale residential development" means a development that includes—
 
@@ -202,8 +202,6 @@ O.J.No.L305, 8.11.1997, p 42-65 O.J. No. 236, 23.9.2003, p. 33 O.J. No.L363, 20.
 
 ...
 
-O.J.No. L345, 31.12.2003 p.97-105
-
 "maritime area" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
 "maritime area consent" has the meaning assigned to it by the Maritime Area Planning Act 2021;
@@ -245,6 +243,8 @@ O.J.No. L345, 31.12.2003 p.97-105
 "nearshore area" has the meaning assigned to it by the Maritime Area Planning Act 2021;
 
 “new establishment” has the meaning that it has in the Major Accidents Directive;
+
+O.J.No. L345, 31.12.2003 p.97-105
 
 "NTA" means the National Transport Authority, being the name to which the name of the Dublin Transport Authority was changed with effect from 1 December 2009 pursuant to section 30 of the Public Transport Regulation Act 2009;
 
