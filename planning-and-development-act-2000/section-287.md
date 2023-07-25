@@ -1,6 +1,6 @@
 Consultation with Board prior to application for permission
 
-287. (1) A person (in this Chapter referred to as a "prospective applicant") who—
+287. (1) Subject to subsection (4), a person (in this Chapter referred to as a "prospective applicant") who—
 
 (a) having regard to subsection (3) of section 286, is eligible to apply for permission to carry out development to which this Chapter applies, and
 
@@ -33,3 +33,7 @@ Consultation with Board prior to application for permission
 (h) compliance by the prospective applicant with any direction of the Board under subsection (3) of section 291.
 
 (3) The Board may, at any time, conclude a consultation under this section where it considers it appropriate to so do.
+
+(4) (a) Subject to paragraph (b), a prospective applicant for permission to carry out development consisting of port infrastructure to facilitate the deployment, maintenance or operation of offshore renewable energy infrastructure may consult with the Board in accordance with subsection (1) notwithstanding that the prospective applicant is not the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of such proposed development.
+
+(b) Paragraph (a) shall not be construed to entitle the prospective applicant referred to in that paragraph to make an application under section 291 for permission for the development referred to in that paragraph without being the holder of the maritime area consent referred to in that paragraph.
