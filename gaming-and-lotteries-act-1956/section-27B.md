@@ -1,6 +1,6 @@
-F28[Lottery permits
+F31[Lottery permits
 
-27B. —(1) Subject to the provisions of this Act, a person may apply to the superintendent of the Garda Síochána for the district in which he or she ordinarily resides for a permit (in this Act referred to as ‘a lottery permit’) authorising the person to promote a lottery in accordance with this section.
+27B. —(1) Subject to the provisions of this Act, a person may apply to the superintendent of the Garda Síochána for the district in which he or she ordinarily resides for a permit (in this Act referred to as "a lottery permit") authorising the person to promote a lottery in accordance with this section.
 
 (2) An application for a lottery permit shall—
 

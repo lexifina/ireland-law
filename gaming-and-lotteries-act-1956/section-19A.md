@@ -1,6 +1,6 @@
-F16[Register of Gaming Licences
+F19[Register of Gaming Licences
 
-19A.—(1) The Revenue Commissioners shall establish and maintain a register to be known, and in this Act referred to, as the ‘Register of Gaming Licences’ of the gaming licences issued by it under this Act.
+19A. —(1) The Revenue Commissioners shall establish and maintain a register to be known, and in this Act referred to, as the "Register of Gaming Licences" of the gaming licences issued by it under this Act.
 
 (2) The Revenue Commissioners may amend an entry in or delete an entry from the Register of Gaming Licences.
 
