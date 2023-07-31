@@ -1,6 +1,6 @@
 Bankruptcy summons.
 
-8.—(1) A summons (in this Act referred to as a ‘bankruptcy summons’) may be granted by the court to a person (in this section referred to as ‘the creditor’) who proves that—
+8.—(1) A summons (in this Act referred to as a "bankruptcy summons") may be granted by the court to a person (in this section referred to as "the creditor") who proves that—
 
 (a) a debt of more than €20,000 is due to the creditor concerned by the person against whom the summons is sought,
 

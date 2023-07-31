@@ -1,6 +1,6 @@
 Deputy for Official Assignee.
 
-60C.— (1) The Director may in writing designate a member of the staff of the Insolvency Service to be the deputy for the Official Assignee, and the member of staff so designated shall, during every temporary absence and every temporary incapacity through illness of the Official Assignee and every occasion on which the office of the Official Assignee is vacant occurring while such designation remains in force, perform the functions assigned to the Official Assignee under this Act or under any other enactment.
+60C.—(1) The Director may in writing designate a member of the staff of the Insolvency Service to be the deputy for the Official Assignee, and the member of staff so designated shall, during every temporary absence and every temporary incapacity through illness of the Official Assignee and every occasion on which the office of the Official Assignee is vacant occurring while such designation remains in force, perform the functions assigned to the Official Assignee under this Act or under any other enactment.
 
 (2) A designation under subsection (1) shall be subject to such conditions or limitations as to time or circumstance as may be specified in the designation.
 

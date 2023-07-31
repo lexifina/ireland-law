@@ -1,6 +1,6 @@
 Office of Official Assignee — Transfer of staff.
 
-60A.— (1) This section applies to—
+60A.—(1) This section applies to—
 
 (a) the person who immediately before the coming into operation of this section held the office of Official Assignee in Bankruptcy (otherwise referred to as the Official Assignee), and
 
@@ -34,6 +34,6 @@ Office of Official Assignee — Transfer of staff.
 
 (8) In this section—
 
-(a) ‘public service body’ has the meaning assigned to it by section 5 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012;
+(a) "public service body" has the meaning assigned to it by section 5 of the Public Service Pensions (Single Scheme and Other Provisions) Act 2012;
 
-(b) ‘recognised trade union or staff association’ means a trade union or staff association recognised by the Minister for the purposes of negotiations which are concerned with the remuneration or conditions of employment, or the working conditions of employees.
+(b) "recognised trade union or staff association" means a trade union or staff association recognised by the Minister for the purposes of negotiations which are concerned with the remuneration or conditions of employment, or the working conditions of employees.

@@ -1,6 +1,6 @@
 Vesting in Official Assignee of certain money and securities.
 
-47.—(1)Subject to subsection (2), notwithstanding any provision in any other enactment—
+47.—(1) Subject to subsection (2), notwithstanding any provision in any other enactment—
 
 (a) money in the Post Office Savings Bank or in a trustee savings bank to which a bankrupt is entitled, or
 

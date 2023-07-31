@@ -1,6 +1,6 @@
 Automatic discharge from bankruptcy.
 
-85.— (1) Subject to subsection (2) and section 85A, every bankruptcy shall, on the 1st anniversary of the date of the making of the adjudication order in respect of that bankruptcy, unless prior to that date the bankruptcy has been discharged or annulled, stand discharged.
+85.—(1) Subject to subsection (2) and section 85A, every bankruptcy shall, on the 1st anniversary of the date of the making of the adjudication order in respect of that bankruptcy, unless prior to that date the bankruptcy has been discharged or annulled, stand discharged.
 
 (2) (a) Where an adjudication order in respect of a bankruptcy would, but for section 10 of the Bankruptcy (Amendment) Act 2015, expire on any day during the period of 6 months from the commencement of that section, the bankruptcy concerned shall, subject to section 85A, stand discharged on that day unless it has otherwise been discharged or annulled.
 
@@ -42,6 +42,6 @@ Automatic discharge from bankruptcy.
 
 (5) A person whose bankruptcy has been discharged by virtue of this section may apply to the Official Assignee for the issue of a certificate of discharge from bankruptcy.
 
-(6) (a) In this section and in sections 85A to 85D, ‘bankrupt’ includes personal representatives and assigns.
+(6) (a) In this section and in sections 85A to 85D, "bankrupt" includes personal representatives and assigns.
 
-(b) In this section, ‘family home’ and ‘shared home’ have the same meaning as they have in section 61.
+(b) In this section, "family home" and "shared home" have the same meaning as they have in section 61.

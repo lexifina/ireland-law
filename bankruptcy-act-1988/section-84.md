@@ -1,6 +1,6 @@
 Official Assignee—Unclaimed Dividend Account.
 
-84.— (1) The Official Assignee shall cause an account to be opened—
+84.—(1) The Official Assignee shall cause an account to be opened—
 
 (a) in the Central Bank of Ireland, or
 

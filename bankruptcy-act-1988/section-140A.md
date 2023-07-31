@@ -24,7 +24,7 @@ Registration of judgments given in insolvency proceedings.
 
 (6) A copy of an entry in the register shall be supplied, on request, by the Official Assignee.
 
-(7) In any proceedings a document purporting to be -
+(7) In any proceedings a document purporting to be—
 
 (a) a duly certified copy of a judgment opening insolvency proceedings or a decision appointing a liquidator in such proceedings, or
 

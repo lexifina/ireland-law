@@ -1,6 +1,6 @@
 Acting in aid of other courts.
 
-142.—(1) The Court and its officers may act in aid of any court in ...the Isle of Man or the Channel Islands, and its officers respectively, at the request of such court, in any bankruptcy matter before such court, and the Court and its officers so acting shall have the like jurisdiction and authority as in the case of a bankruptcy originating under an order of the Court.
+142.—(1) The Court and its officers may act in aid of any court in ... the Isle of Man or the Channel Islands, and its officers respectively, at the request of such court, in any bankruptcy matter before such court, and the Court and its officers so acting shall have the like jurisdiction and authority as in the case of a bankruptcy originating under an order of the Court.
 
 (2) (a) The Government may by order apply subsection (1) in relation to any other jurisdiction where the Government are satisfied that reciprocal facilities to that effect will be afforded by that jurisdiction.
 
