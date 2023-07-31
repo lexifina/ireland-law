@@ -1,6 +1,6 @@
 Non-Application of Section 26
 
-26A.—Section 26 shall not apply to a lottery where—
+26A. —Section 26 shall not apply to a lottery where—
 
 (a) the total value of the prizes is not more than €1,000,
 

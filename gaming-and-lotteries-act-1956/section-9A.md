@@ -1,6 +1,6 @@
 F8[Gaming permits
 
-9A. — (1) Subject to the provisions of this section, a person may apply to the superintendent of the Garda Síochána for the district in which the premises to which the application relates is situated for a permit (in this Act referred to as ‘a gaming permit’) authorising the person to engage in gaming at that premises in accordance with this Act.
+9A. — (1) Subject to the provisions of this section, a person may apply to the superintendent of the Garda Síochána for the district in which the premises to which the application relates is situated for a permit (in this Act referred to as "a gaming permit") authorising the person to engage in gaming at that premises in accordance with this Act.
 
 (2) An application for a gaming permit shall—
 

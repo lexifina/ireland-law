@@ -1,4 +1,4 @@
-F49[Regulations
+F59[Regulations
 
 50A. —(1) The Minister may by regulations provide for any matter referred to in this Act as prescribed or to be prescribed.
 
