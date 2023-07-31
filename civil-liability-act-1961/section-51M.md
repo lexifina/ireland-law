@@ -1,6 +1,6 @@
-F38[Assignment, commutation or charging of right to periodic payments
+F43[Assignment, commutation or charging of right to periodic payments
 
-51M. (1) Where a plaintiff has a right to receive payments under a periodic payments order, the plaintiff may apply to the court that made the order for approval to assign, commute or charge the right.
+51M.— (1) Where a plaintiff has a right to receive payments under a periodic payments order, the plaintiff may apply to the court that made the order for approval to assign, commute or charge the right.
 
 (2) A right to receive payments under a periodic payments order may not be assigned, commuted or charged without the approval of the court that made the order.
 
