@@ -2,4 +2,4 @@
 
 Interpretation of Part 2A
 
-32A. —
+32A.— ...

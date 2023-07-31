@@ -16,13 +16,13 @@ Definitions.
 
 “Act of 1996” means Family Law (Divorce) Act 1996;
 
-‘Act of 2010’ means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+"Act of 2010" means the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
-‘broadcast’ has the same meaning as it has in section 2 of the Broadcasting Act 2009;
+"broadcast" has the same meaning as it has in section 2 of the Broadcasting Act 2009;
 
-‘publish’ means publish, other than by way of broadcast, to the public or a portion of the public;
+"publish" means publish, other than by way of broadcast, to the public or a portion of the public;
 
-‘relevant enactment’ means any of the following provisions:
+"relevant enactment" means any of the following provisions:
 
 (a) section 2(1B) (inserted by section 20 of the Courts Act 1971) of the Legitimacy Act 1931;
 

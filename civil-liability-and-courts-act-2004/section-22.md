@@ -20,10 +20,10 @@ Matter to be taken into account by the court when assessing damages.
 
 (3) In this section—
 
-‘Act of 2019’ means the Judicial Council Act 2019;
+"Act of 2019" means the Judicial Council Act 2019;
 
-‘assessment’ has the same meaning as it has in section 20(1) of the Act of 2003;
+"assessment" has the same meaning as it has in section 20(1) of the Act of 2003;
 
-‘Book of Quantum’ means the Book of Quantum that, immediately before the coming into operation of section 99 of the Act of 2019, stands published by the Personal Injuries Assessment Board under the Act of 2003;
+"Book of Quantum" means the Book of Quantum that, immediately before the coming into operation of section 99 of the Act of 2019, stands published by the Personal Injuries Assessment Board under the Act of 2003;
 
-‘relevant claim’ has the same meaning as it has in section 9 of the Act of 2003.
+"relevant claim" has the same meaning as it has in section 9 of the Act of 2003.

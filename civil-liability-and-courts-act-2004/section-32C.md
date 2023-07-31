@@ -1,3 +1,3 @@
 Powers of court
 
-32C. —
+32C.— ...

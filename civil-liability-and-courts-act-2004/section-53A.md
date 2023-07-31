@@ -1,6 +1,6 @@
 Presumption as to market value.
 
-53A. (1) Where—
+53A.—(1) Where—
 
 (a) in any enactment a monetary amount is specified for the market value of land for the purpose of—
 

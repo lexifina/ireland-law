@@ -44,11 +44,11 @@ Formal offers.
 
 (7) In this section—
 
-‘catastrophic injury’ has the same meaning as it has in Part IVB of the Civil Liability Act 1961;
+"catastrophic injury" has the same meaning as it has in Part IVB of the Civil Liability Act 1961;
 
 “formal offer” means an offer under subsection (1) or (2)(a), or a statement under subsection (2)(b);
 
-‘periodic payments order’ has the same meaning as it has in Part IVB of the Civil Liability Act 1961;
+"periodic payments order" has the same meaning as it has in Part IVB of the Civil Liability Act 1961;
 
 “prescribed date” means such date before the date of the commencement of the trial of the personal injuries action concerned as is prescribed by order of the Minister;
 
