@@ -18,4 +18,4 @@ Registry of births abroad.
 
 (6) Where the foreign births regulations provide for the amendment or deletion of incorrect entries made in any foreign births entry book or the foreign births register, the regulations may, at the discretion of the Minister for Foreign Affairs, also provide for notice to be given and the time in which notice shall be given, before any such proposed amendment or deletion is made, to any person (whose whereabouts is known and can readily be found) affected by the proposal and the manner, the time in which and to whom representations may be made in respect of the proposal by any such person.
 
-(7) In this section ‘gender recognition certificate’ has the same meaning as it has in the Gender Recognition Act 2015;
+(7) In this section "gender recognition certificate" has the same meaning as it has in the Gender Recognition Act 2015;

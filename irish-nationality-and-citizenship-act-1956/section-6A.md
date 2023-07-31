@@ -56,4 +56,4 @@ Entitlement to Irish citizenship of persons born to certain non-nationals.
 
 (ii) at least one of whose parents was at that time a person referred to in section 2(1) or section 2(1A) of the Immigration Act 2004.
 
-(3) In this section ‘British citizen’ means a citizen of the United Kingdom of Great Britain and Northern Ireland.
+(3) In this section "British citizen" means a citizen of the United Kingdom of Great Britain and Northern Ireland.
