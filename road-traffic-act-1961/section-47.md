@@ -8,7 +8,7 @@ Offence of exceeding speed limit.
 
 (2) A person who contravenes subsection (1) is guilty of an offence.
 
-(2A) In a prosecution for an offence under this section, it is presumed, until the contrary is shown by the defendant, that the speed limit indicated on a traffic sign is the speed limit that has been applied under this Act to the road when the offence is alleged to have been committed.
+(2A) In a prosecution for an offence under this section, it is presumed, until the contrary is shown by the defendant, that the speed limit indicated on a traffic sign is the speed limit that ... applied under this Act to the road when the offence is alleged to have been committed.
 
 (3) In this section “speed limit” means a limit which is—
 
@@ -22,6 +22,8 @@ Offence of exceeding speed limit.
 
 (e) the motorway speed limit,
 
-(f) a special speed limit, or
+(f) a special speed limit ,
 
-(g) a road works speed limit.
+(g) a road works speed limit , or
+
+(h) a variable speed limit.

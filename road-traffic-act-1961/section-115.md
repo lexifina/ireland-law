@@ -12,4 +12,6 @@ Penalty for false declaration, etc.
 
 (6) A person who is guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding €3,000 or, at the discretion of the court, to imprisonment for any term not exceeding six months or to both such fine and such imprisonment.
 
+(6A) Notwithstanding section 10 (4) of the Petty Sessions (Ireland) Act 1851, summary proceedings for an offence under this section may be instituted within 2 years from the date on which the offence was committed.
+
 (7) ...

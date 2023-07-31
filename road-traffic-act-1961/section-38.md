@@ -4,7 +4,7 @@ Prohibition on driving without driving licence.
 
 (2) (a) A person who contravenes subsection (1) is guilty of an offence and, subject to subsection (5), is liable on summary conviction—
 
-(i) where at the time of the commission of the offence he or she had been the holder of a driving licence (other than a learner permit) which had expired beyond its period of validity for a period of not more than 12 months before the commission of the offence, to a fine not exceeding €1,000, and
+(i) where at the time of the commission of the offence he or she had been the holder of a driving licence (other than a learner permit) which had expired beyond its period of validity for a period of not more than 3 months before the commission of the offence, to a fine not exceeding €1,000, and
 
 (ii) in any other case, to a fine not exceeding €2,000.
 

@@ -58,7 +58,7 @@ Tests of mechanically propelled vehicles.
 
 (l) powers of inspection of premises and apparatus used for testing ... vehicles;
 
-(m) the keeping of records by specified persons;
+(m) the keeping, by the issuing authority or other persons specified in the regulations, of records in relation to tests, and the disclosure of such records relating to a vehicle to the owner of the vehicle, or to a person nominated by the owner;
 
 (n) the form of certificates referred to in paragraph (a) of the definition of "test certificate" in section 3 and period of validity of test certificates;
 
