@@ -1,4 +1,4 @@
-F52[Applications for certificates of nationality by persons to whom section 6A applies.
+F65[Applications for certificates of nationality by persons to whom section 6A applies.
 
 28A.—(1) A person who makes an application under section 28 shall make and provide to the Minister or an Irish diplomatic or consular officer a declaration in such manner as may be prescribed that his or her parent resided in Northern Ireland for such period as is stated in that declaration.
 
