@@ -76,8 +76,6 @@ Interpretation
 
 (b) as a person eligible for subsidiary protection, on the basis of a subsidiary protection declaration;
 
-Regulation;
-
 “international protection officer” means a person who is authorised under section 74 to perform the functions conferred on an international protection officer by or under this Act;
 
 “legal assistance” means legal aid or legal advice, within the meaning of the Civil Legal Aid Act 1995;
@@ -124,11 +122,11 @@ Regulation;
 
 “Regulations of 2013” means the European Union (Subsidiary Protection) Regulations 2013 (S.I. No. 426 of 2013);
 
-‘return order’ has the meaning assigned to it by section 51A;
+"return order" has the meaning assigned to it by section 51A;
 
 “safe country of origin” means a country that has been designated under section 72 as a safe country of origin;
 
-‘safe third country’ means a country that has been designated under section 72A as a safe third country;
+"safe third country" means a country that has been designated under section 72A as a safe third country;
 
 “serious harm” means—
 
