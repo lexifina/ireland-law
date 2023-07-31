@@ -98,7 +98,7 @@ In this Part, a reference to an Article is a reference to an Article of the Road
 
 Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
 
-1 Offence consisting of Contravention of rules 1 3 contravention of for use of mini- Article 5 roundabouts
+1 Offence consisting of Contravention of rules 1 3 contravention of for use of mini- Article 5 roundabouts Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
 
 2 Offence consisting of Proceeding beyond no 1 3 contravention of entry to vehicles sign Article 6
 
@@ -108,7 +108,7 @@ Reference Offence General Description of Penalty Penalty Points on Number Offenc
 
 5 Offence consisting of Proceeding beyond 1 3 contravention of maximum design gross Article 9 vehicle weight (safety) sign where design gross vehicle weight exceeds maximum displayed
 
-6 Offence consisting of Proceeding beyond 1 3 contravention of maximum vehicle axle Article 10 loading weight sign where vehicle axle loading weight exceeds maximum specified Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
+6 Offence consisting of Proceeding beyond 1 3 contravention of maximum vehicle axle Article 10 loading weight sign where vehicle axle loading weight exceeds maximum specified
 
 7 Offence consisting of Proceeding beyond a 1 3 contravention of traffic lane control sign Article 15 other than in accordance with such sign or without yielding
 
