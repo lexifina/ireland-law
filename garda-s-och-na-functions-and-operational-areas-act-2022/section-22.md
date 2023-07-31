@@ -1,0 +1,3 @@
+Additional transitional provisions relating to amendment of Criminal Justice (Forensic Evidence and DNA Database System) Act 2014 by section 4(1)
+
+22. Where, before the date on which this section comes into operation, a superintendent in the Garda Síochána district referred to in section 25(7) of the Criminal Justice (Forensic Evidence and DNA Database System) Act 2014 was informed of the fact that the sample referred to in that section had proved to be insufficient or was inadequately labelled, as the case may be, and the date on which this section comes into operation occurs within the period of one month referred to in that section, then, on or after that date, a superintendent of the equivalent division shall be deemed to have been so informed.
