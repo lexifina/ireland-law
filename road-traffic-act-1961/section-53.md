@@ -1,6 +1,6 @@
-F128[Dangerous driving.
+F152[Dangerous driving.
 
-53.—(1) A person shall not drive a vehicle in a public place in a manner (including speed) which having regard to all the circumstances of the case (including the condition of the vehicle, the nature, condition and use of the place and the amount of traffic which then actually is or might reasonably be expected then to be in it) is or is likely to be dangerous to the public.
+53.—(1) A person shall not drive a vehicle ... in a manner (including speed) which having regard to all the circumstances of the case (including the condition of the vehicle, the nature, condition and use of the place in which it is driven and the amount of traffic which then actually is or might reasonably be expected then to be in it) is or is likely to be dangerous to the public.
 
 (2) A person who contravenes subsection (1) commits an offence and—
 

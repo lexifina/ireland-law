@@ -16,6 +16,14 @@ Interpretation.
 
 “built up area” means the area of a city, a borough or a town within the meaning of the Local Government Act 2001;
 
+"chief executive", in relation to a county council or city council, means a chief executive for the purposes of section 144 of the Local Government Act 2001;
+
+"Chief Executive of the National Roads Authority" means a person—
+
+(a) directed under section 28 (1)(b) of the Roads Act 1993 to perform the functions referred to in section 29(2) of that Act, or
+
+(b) appointed under section 29 of the Roads Act 1993;
+
 “Commissioner” means Commissioner of the Garda Síochána;
 
 “county council” and “city council” have the meanings assigned to them, respectively, in the Act of 2001;
@@ -24,7 +32,33 @@ Interpretation.
 
 “Minister” means Minister for Transport;
 
+"national managed road" has the same meaning as it has in the Roads Act 1993;
+
 “Principal Act” means Road Traffic Act 1961.
+
+"road works speed limit" means a speed limit applied by—
+
+(a) the chief executive of a county council or a city council under section 10, or
+
+(b) the Chief Executive of the National Roads Authority under section 10A;
+
+"road works speed limit order" means an order made by—
+
+(a) the chief executive of a county council or a city council under section 10, or
+
+(b) the Chief Executive of the National Roads Authority under section 10A;
+
+"special speed limit" means a speed limit specified by—
+
+(a) a county council or a city council in bye-laws under section 9, or
+
+(b) the National Roads Authority in bye-laws under section 9A;
+
+"special speed limit bye-laws" means bye-laws made by—
+
+(a) a county council or a city council under section 9, or
+
+(b) the National Roads Authority under section 9A;
 
 (2) In this Act—
 

@@ -2,13 +2,19 @@ Certificates of competency.
 
 33.—(1) In this section “the issuing authority” means the person who, in the case in question and in accordance with regulations made by the Minister, is the issuing authority for the purposes of this section.
 
+(1A) Notwithstanding subsection (1), the Road Safety Authority is deemed to be and have been the issuing authority for the purpose of this section with effect from 1 January 2007 and every act done or purported to have been done by the Road Safety Authority in the performance or purported performance of the functions of the issuing authority under this Act on and from that date and prior to the coming into operation of section 5 (g)(i) of the Road Traffic and Roads Act 2023 shall be, and be deemed always to have been, valid and effectual for all purposes.
+
+(1B) The functions of the issuing authority under subsection (4) are deemed to be and have been delegated to persons appointed, on or after 1 January 2007, by the Road Safety Authority to carry out tests under this section and every act done or purported to have been done by persons so appointed shall be, and be deemed always to have been, valid and effectual for all purposes.
+
+(1C) If subsection (1A) or (1B) would, but for this subsection, conflict with a constitutional right of any person, the operation of that subsection shall be subject to such limitation as is necessary to secure that it does not so conflict but shall otherwise be of full force and effect.
+
 (2) A person, other than a person to whom section 32 of this Act applies, may apply to the issuing authority for a certificate of competency in the following cases:
 
 (a) where he is disqualified for holding a driving licence until he produces a certificate of competency,
 
 (b) where under the regulations under this Act an application by him for a driving licence is required to be accompanied by a certificate of competency.
 
-(3) Where an application is duly made under this section and the appropriate fee is paid, the issuing authority shall test or cause to be tested—
+(2A) An application for a certificate of competency under this section shall contain the personal public service number allocated and issued to the applicant under section 262 (2) of the Social Welfare Consolidation Act 2005. (3) Where an application is duly made under this section and the appropriate fee is paid, the issuing authority shall test or cause to be tested—
 
 (a) the competency of the applicant to drive the class or classes of mechanically propelled vehicle to which the application relates, and
 
