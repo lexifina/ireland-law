@@ -1,6 +1,6 @@
 ## PART II. CITIZENSHIP.
 
-F8[Citizenship by birth in the island of Ireland.
+F9[Citizenship by birth in the island of Ireland.
 
 6.—(1) Subject to section 6A (inserted by section 4 of the Irish Nationality and Citizenship Act 2004), every person born in the island of Ireland is entitled to be an Irish citizen.
 
@@ -18,7 +18,7 @@ F8[Citizenship by birth in the island of Ireland.
 
 (5) A person born in the island of Ireland who has made a declaration of alienage under section 21 shall remain entitled to be an Irish citizen, but shall not be an Irish citizen unless, in the prescribed manner, that person declares that he or she is an Irish citizen; and such person shall be an Irish citizen from the date of the declaration.
 
-(6) In this section ‘person’ does not include a person born in the island of Ireland on or after the commencement of the Irish Nationality and Citizenship Act 2004—
+(6) In this section "person" does not include a person born in the island of Ireland on or after the commencement of the Irish Nationality and Citizenship Act 2004—
 
 (a) neither of whose parents was at the time of the person's birth—
 

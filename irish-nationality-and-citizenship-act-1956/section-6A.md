@@ -1,4 +1,4 @@
-F13[Entitlement to Irish citizenship of persons born to certain nonnationals.
+F14[Entitlement to Irish citizenship of persons born to certain nonnationals.
 
 6A.—(1) A person born in the island of Ireland shall not be entitled to be an Irish citizen unless a parent of that person has, during the period of 4 years immediately preceding the person's birth, been resident in the island of Ireland for a period of not less than 3 years or periods the aggregate of which is not less than 3 years.
 
@@ -56,4 +56,4 @@ F13[Entitlement to Irish citizenship of persons born to certain nonnationals.
 
 (ii) at least one of whose parents was at that time a person referred to in section 2(1) or section 2(1A) of the Immigration Act 2004.
 
-(3) In this section ‘British citizen’ means a citizen of the United Kingdom of Great Britain and Northern Ireland.
+(3) In this section "British citizen" means a citizen of the United Kingdom of Great Britain and Northern Ireland.
