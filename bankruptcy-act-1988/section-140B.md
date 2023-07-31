@@ -1,6 +1,6 @@
-F98[Publication in relation to insolvency proceedings.
+F110[Publication in relation to insolvency proceedings.
 
-140B.— (1) In this section ‘publication’ means publication of-
+140B.— (1) In this section ‘publication’ means publication of—
 
 (a) notice of the judgment opening the insolvency proceedings concerned,
 

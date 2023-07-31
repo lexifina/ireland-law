@@ -1,6 +1,6 @@
-F102[Publication of certain notices to be evidence
+F114[Publication of certain notices to be evidence
 
-141. A notice published pursuant to this Act—
+141.— A notice published pursuant to this Act—
 
 (a) in the Iris Oifigiúil,
 
