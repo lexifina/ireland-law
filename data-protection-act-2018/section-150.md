@@ -50,8 +50,8 @@ Right to effective judicial remedy (Part 6)
 
 (12) For the purposes of this section, a “legally binding decision” means a decision—
 
-(a) under paragraph (a) or (b) of section 109(5) or paragraph (a) or (b) of section 122(4),
+(a) under paragraph (a), (b) or (da) of section 109(5) or paragraph (a), (b) or (da) of section 122(4),
 
-(b) under section 111(1)(a), 112(1), 113(2)(b), 114, 124(1)(a) or 125(1), or
+(b) under section 111(1)(a), 112(1), 113(2)(b) or (6)(aa), 114, 124(1)(a) or 125(1), or
 
 (c) to exercise a corrective power under Chapter 2 or 3.

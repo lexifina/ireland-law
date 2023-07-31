@@ -1,10 +1,14 @@
-F75[Bankruptcy payment orders.
+F86[Bankruptcy payment orders.
 
-85D.— (1) The Court may, on application being made to it by the Official Assignee or the trustee in bankruptcy, make an order requiring a bankrupt to make payments to the Official Assignee or the trustee in bankruptcy from his income or other assets for the benefit of his creditors (a ‘bankruptcy payment order’).
+85D.— (1) The Court may, on application being made to it by the Official Assignee or the trustee in bankruptcy, make an order requiring a bankrupt to make payments to the Official Assignee or the trustee in bankruptcy from his income or other assets for the benefit of his creditors (a "bankruptcy payment order").
 
 (2) An application for a bankruptcy payment order may not be made after the bankrupt has been discharged from bankruptcy, but where an application for such an order is made before the discharge of the bankrupt, the Court may make a bankruptcy payment order after the date of discharge as if the bankrupt had not been so discharged.
 
-(3) Subject to subsections (3A) and (3B), an order made under subsection (1) shall have effect for no longer than 3 years from the date of the order coming into operation, and where, during the order’s validity, the Court has varied the order under subsection (5), such variation shall not cause the order to have effect for a period of more than 3 years, and in any event, any order made under subsection (1) or varied under subsection (5) shall cease to have effect on the 4th anniversary of the date on which the bankrupt was adjudicated bankrupt.
+(3) Subject to subsections (3A) and (3B)—
+
+(a) an order made under subsection (1) shall have effect for no longer than 3 years from the date of the order coming into operation, save in circumstances where the bankrupt has not complied with the order and in such circumstances the order shall have effect until such time as it has been complied with, and
+
+(b) where the Court has varied the order under subsection (5), such variation shall not cause the order to have effect for a period of more than 3 years, save in circumstances where the bankrupt has not complied with the varied order, and in such circumstances that varied order shall have effect until such time as it has been complied with.
 
 (3A) (a) Where a bankruptcy payment order would, but for section 12 of the Bankruptcy (Amendment) Act 2015, expire on any day during the period of 6 months from the commencement of that section, the bankruptcy payment order concerned shall, subject to subsection (3B), stand discharged on that day unless it has otherwise been discharged or annulled.
 
@@ -14,7 +18,11 @@ F75[Bankruptcy payment orders.
 
 (ii) 3 years from the date that bankruptcy payment order was made, unless it has otherwise been discharged or annulled.
 
-(3B) Where the Court has made an order under section 85A(4), the bankruptcy payment order made under subsection (1) shall have effect for no longer than 5 years from the date of that bankruptcy payment order coming into operation, and where, during that bankruptcy payment order’s validity, the court has varied that order under subsection (5) such variation shall not cause that order to have effect for a period of more than 5 years, and in any event, any bankruptcy payment order made under subsection (1) or varied under subsection (5) shall cease to have effect on the 8th anniversary of the date on which the bankrupt was adjudicated bankrupt.
+(3B) Where the Court has made an order under section 85A(4)—
+
+(a) a bankruptcy payment order made under subsection (1) shall have effect for no longer than 5 years from the date of that order coming into operation, save in circumstances where the bankrupt has not complied with the bankruptcy payment order and in such circumstances that order shall have effect until such time as it has been complied with, and
+
+(b) where the Court has varied the bankruptcy payment order under subsection (5), such variation shall not cause that order to have effect for a period of more than 5 years, save in circumstances where the bankrupt has not complied with the varied order and in such circumstances that varied order shall have effect until such time as it has been complied with.
 
 (4) In making an order under subsection (1) the Court shall have regard to the reasonable living expenses of the bankrupt and his or her dependants and the Court may also have regard to any guidelines on reasonable living expenses issued by the Insolvency Service under the Personal Insolvency Act 2012 or by the Official Assignee.
 

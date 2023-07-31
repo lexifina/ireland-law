@@ -1,6 +1,6 @@
 Lottery licence.
 
-28. — (1) A person may apply to the District Court for a licence (in this Act referred to as ‘a lottery licence’) authorising the person to promote periodical lotteries in accordance with this Act.
+28. — (1) A person may apply to the District Court for a licence (in this Act referred to as "a lottery licence") authorising the person to promote periodical lotteries in accordance with this Act.
 
 (2) An application for a lottery licence shall—
 
@@ -54,7 +54,7 @@ Lottery licence.
 
 (f) the allocation of the proceeds referred to in paragraphs (d) and (e) shall be made within one month from the date of the holding of the lottery.
 
-(11) A person who holds a lottery licence shall comply with the conditions of the permit.
+(11) A person who holds a lottery licence shall comply with the conditions of the licence.
 
 (12) A person who contravenes subsection (11) shall be guilty of an offence.
 

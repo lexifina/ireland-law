@@ -6,11 +6,7 @@ Notice of adjudication and statutory sitting.
 
 (b) in the case of a debtor's petition under section 15 or the adjudication of an arranging debtor under section 105, on adjudication.
 
-(2) The Court shall cause notice of the adjudication to be given as soon as may be in the prescribed manner in the Iris Oifigiúil, and—
-
-(a) in at least one daily newspaper circulating in the State, or
-
-(b) by the publication of the notice on the website of the Insolvency Service of Ireland.
+(2) The Court shall cause notice of the adjudication to be given as soon as may be by the publication of the notice on the website of the Insolvency Service of Ireland.
 
 (3) ...
 

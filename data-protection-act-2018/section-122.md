@@ -22,6 +22,8 @@ Commission to handle complaint under Chapter 3
 
 (iii) where the enforcement notice is given to the controller, communicate a personal data breach to data subjects;
 
+(da) where it considers the processing of personal data the subject of the complaint infringes a relevant enactment, the issuing to the controller or processor concerned of a reprimand;
+
 (e) causing of such inquiry as the Commission thinks fit to be conducted in respect of the complaint;
 
 (f) taking of such other action in respect of the complaint as the Commission considers appropriate.
