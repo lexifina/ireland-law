@@ -6,7 +6,7 @@ Endorsement of certain convictions and disqualifications on entries.
 
 (b) the following subsections are added to the said section 36:
 
-(6) In the cases referred to in subsections (3) and (4) of this section, the Minister shall cause the particulars referred to in those subsections to be endorsed on the appropriate entries.
+"(6) In the cases referred to in subsections (3) and (4) of this section, the Minister shall cause the particulars referred to in those subsections to be endorsed on the appropriate entries.
 
 (7) Where a disqualification referred to in section 29 of this Act is removed under that section or the period of a disqualification referred to in subsection (3) or (4) of this section expires (being in each case a disqualification to which an order relates that stands endorsement on an entry), the Minister shall cause the endorsement and any endorsement relating to the relevant conviction (if any) to be removed from the entry concerned.
 

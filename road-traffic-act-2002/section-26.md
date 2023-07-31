@@ -72,7 +72,7 @@ In this Part—
 
 ## PART 9 CONTRAVENTION OF CERTAIN PROVISIONS OF THE ROAD TRAFFIC (CONSTRUCTION AND USE OF VEHICLES) REGULATIONS 2003 (S.I. NO. 5 OF 2003)
 
-(a) ‘offence’ means an offence under section 11 of the Principal Act,
+(a) "offence" means an offence under section 11 of the Principal Act,
 
 (b) a reference to a Regulation is a reference to a Regulation of the Road Traffic (Construction and Use of Vehicles) Regulations 2003 (S.I. No. 5 of 2003).
 
@@ -84,7 +84,7 @@ In this Part—
 
 ## Part 11 Contravention of Regulation 3 of Road Traffic (Construction, Equipment and Use of Vehicles) (Amendment) Regulations 2000 (S.I. No. 224 of 2000)
 
-(a) ‘offence’ means an offence under section 11 of the Principal Act,
+(a) "offence" means an offence under section 11 of the Principal Act,
 
 (b) a reference to a Regulation is a reference to a Regulation of the Road Traffic (Construction, Equipment and Use of Vehicles) (Amendment) Regulations 2000 (S.I. No. 224 of 2000).
 
