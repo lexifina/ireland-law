@@ -8,8 +8,8 @@ Definition (Part II).
 
 (b) any claim for compensation under the Workmen’s Compensation Act, 1934.
 
-‘Act of 2009’ means the Defamation Act 2009;
+"Act of 2009" means the Defamation Act 2009;
 
-‘aggravated damages’ has the same meaning as it has in the Act of 2009;
+"aggravated damages" has the same meaning as it has in the Act of 2009;
 
-‘punitive damages’ has the same meaning as it has in the Act of 2009.
+"punitive damages" has the same meaning as it has in the Act of 2009.

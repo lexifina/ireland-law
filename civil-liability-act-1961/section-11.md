@@ -20,4 +20,4 @@ Persons who are concurrent wrongdoers.
 
 (6) For the purpose of any enactment referring to a specific tort, an action for a conspiracy to commit that tort shall be deemed to be an action for that tort.
 
-(7) In this section ‘defamatory statement’ has the same meaning as it has in the Defamation Act 2009.
+(7) In this section "defamatory statement" has the same meaning as it has in the Defamation Act 2009.
