@@ -1,6 +1,6 @@
 Lotteries held in conjunction with certain events
 
-27A.— (1) Section 26 shall not apply to a lottery where it is conducted in conjunction with the selling or marketing of a particular product where—
+27A. — (1) Section 26 shall not apply to a lottery where it is conducted in conjunction with the selling or marketing of a particular product where—
 
 (a) the total value of the prizes is not more than €2,500, and
 
@@ -8,9 +8,9 @@ Lotteries held in conjunction with certain events
 
 (2) In this section—
 
-‘marketing’ means any form of commercial communication that is intended to increase or has the effect of increasing, the recognition, appeal or consumption of a particular product;
+"marketing" means any form of commercial communication that is intended to increase or has the effect of increasing, the recognition, appeal or consumption of a particular product;
 
-‘sell’ means sell by retail or wholesale and includes—
+"sell" means sell by retail or wholesale and includes—
 
 (a) offer or expose for sale,
 
