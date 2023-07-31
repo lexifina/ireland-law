@@ -18,11 +18,13 @@ Reference Offence General Description of Penalty Penalty Points on Number Offenc
 
 3 Offence under section 20(10) Driving vehicle before 3 of Road Traffic Act, 1961 remedying dangerous defect
 
-4 Offence under section 38 of Driving without a licence 2 5 Road Traffic Act, 1961
+4 Offence consisting of Overtaking of a pedal cyclist 3 5 contravention of Article in the circumstances 10(1)(a) prohibited
+
+4a Offence consisting of Overtaking in prohibited 3 5 contravention of Article circumstances (other than 10(1)(b) overtaking a pedal cyclist) Reference Offence General Description of Penalty Penalty Points on Number Offence Points Conviction on Payment of Fixed Charge (1) (2) (3) (4) (5)
 
 5 Offence under section 39 of Applying for a licence while 1 3 Road Traffic Act, 1961 disqualified for so applying
 
-6 Offence under section 40 of Failure to produce a licence 1 3 Road Traffic Act, 1961 to member of Garda Síochána Reference Offence General Description of Penalty Penalty Points on Number Offence Points Conviction on Payment of Fixed Charge (1) (2) (3) (4) (5)
+6 Offence under section 40 of Failure to produce a licence 1 3 Road Traffic Act, 1961 to member of Garda Síochána
 
 7 Offence under section 47 of Exceeding a speed limit 3 5 Road Traffic Act, 1961
 
@@ -94,11 +96,11 @@ Reference Offence General Description of Penalty Penalty Points on Number Offenc
 
 11 Offence consisting of Using motor cycle without 2 4 contravention of article 10 wearing crash helmet
 
-12 Offence consisting of Permitting passenger not 2 4 contravention of article 11 wearing crash helmet to be carried on motor cycle
+12 Offence consisting of Permitting passenger not 2 4 contravention of article 11 wearing crash helmet to be carried on motor cycle Reference Offence General Description of Penalty Penalty Points on Number Offence Points Conviction on Payment of Fixed Charge (1) (2) (3) (4) (5)
 
 13 Offence consisting of Using vehicle not equipped 1 3 contravention of article 4 with rear underrun protective device
 
-14 Offence consisting of Using vehicle not equipped 1 3 contravention of article 5 with side-guard Reference Offence General Description of Penalty Penalty Points on Number Offence Points Conviction on Payment of Fixed Charge (1) (2) (3) (4) (5)
+14 Offence consisting of Using vehicle not equipped 1 3 contravention of article 5 with side-guard
 
 15 Offence consisting of Using vehicle when driver 2 4 contravention by driver of not wearing safety belt or a vehicle of article 6 permitting person under 17 to occupy front seat when not wearing safety belt or appropriate child restraint
 
@@ -256,15 +258,15 @@ CONTRAVENTION OF CERTAIN PROVISIONS OF THE ROAD TRAFFIC (CONSTRUCTION AND USE OF
 
 In this Part—
 
-(a) ‘offence’ means an offence under section 11 of the Principal Act,
+(a) "offence" means an offence under section 11 of the Principal Act,
 
 (b) a reference to a Regulation is a reference to a Regulation of the Road Traffic (Construction and Use of Vehicles) Regulations 2003 (S.I. No. 5 of 2003).
 
 Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
 
-1 ... ... ... ... Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
+1 ... ... ... ...
 
-2 ... ... ... ...
+2 ... ... ... ... Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
 
 3 Offence consisting of Using a vehicle with 2 4 contravention of defective or worn tyres Regulation 55
 
@@ -276,7 +278,7 @@ In this Part, a reference to an Article is a reference to an Article of the Road
 
 Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
 
-1 Offence consisting of Contravention of rules 1 3 contravention of for use of mini- Article 5 roundabouts
+1 Offence consisting of Contravention of rules 1 3 contravention of for use of mini- Article 5 roundabouts Reference Offence General Description of Penalty Penalty Points on Number Offence Points on Conviction Payment of Fixed Charge (1) (2) (3) (4) (5)
 
 2 Offence consisting of Proceeding beyond no 1 3 contravention of entry to vehicles sign Article 6
 
@@ -296,7 +298,7 @@ Contravention of Regulation 3 of Road Traffic (Construction, Equipment and Use o
 
 In this Part—
 
-(a) ‘offence’ means an offence under section 11 of the Principal Act,
+(a) "offence" means an offence under section 11 of the Principal Act,
 
 (b) a reference to a Regulation is a reference to a Regulation of the Road Traffic (Construction, Equipment and Use of Vehicles) (Amendment) Regulations 2000 (S.I. No. 224 of 2000).
 
