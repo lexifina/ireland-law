@@ -1,4 +1,4 @@
-F74[Annulment of adjudication in bankruptcy.
+F85[Annulment of adjudication in bankruptcy.
 
 85C.— (1) A person shall be entitled to an annulment of his adjudication—
 

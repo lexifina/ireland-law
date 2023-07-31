@@ -1,6 +1,6 @@
-F72[Entitlement to discharge from bankruptcy.
+F83[Entitlement to discharge from bankruptcy.
 
-85B.— (1) A bankrupt shall be entitled to an order discharging him from bankruptcy where provision has been made for the payment of the expenses, fees and costs of the bankruptcy, and for preferential payments, and—
+85B.—(1) A bankrupt shall be entitled to an order discharging him from bankruptcy where provision has been made for the payment of the expenses, fees and costs of the bankruptcy, and for preferential payments, and—
 
 (a) he has paid one euro in the euro, with such interest as the Court may allow, or
 

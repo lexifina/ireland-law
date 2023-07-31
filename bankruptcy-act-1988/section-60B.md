@@ -1,6 +1,6 @@
-F50[Delegation of functions of Official Assignee
+F57[Delegation of functions of Official Assignee
 
-60B.— (1) The Official Assignee may in writing delegate to a specified member of the staff of the Insolvency Service—
+60B.—(1) The Official Assignee may in writing delegate to a specified member of the staff of the Insolvency Service—
 
 (a) any of his functions under this Act in relation to a specific bankruptcy or arrangement matter, or
 

@@ -1,4 +1,4 @@
-F32[ Pensions in Bankruptcy.
+F36[Pensions in Bankruptcy.
 
 44A.— (1) Subject to subsection (2), where a person is adjudicated bankrupt, and he or she is, or may become entitled to, payments under a relevant pension arrangement, assets relating to the arrangement (other than payments already received by the bankrupt, or that the bankrupt was entitled to receive, under the arrangement) shall not vest in the Official Assignee for the benefit of the creditors of the bankrupt.
 

@@ -1,4 +1,4 @@
-F19[ Adjudication on debtor’s petition.
+F23[Adjudication on debtor’s petition.
 
 15.— (1) Subject to subsection (2), where the petition for adjudication is presented by the debtor the Court may, where it considers it appropriate to do so, and where it is satisfied that the debtor is unable to meet his engagements with his creditors and that the requirements of section 11(4) and (5) have been complied with, by order adjudicate the debtor a bankrupt.
 

@@ -1,4 +1,4 @@
-F16[ Petitioning creditor’s costs.
+F20[Petitioning creditor’s costs.
 
 12.—(1) The petitioning creditor shall at his own cost present his petition and prosecute it and, subject to subsection (2), the Court shall, at or after the hearing of the creditors’ petition under section 14, make an order for the payment of such costs out of the estate of the bankrupt in course of priority to be settled by rules of court.
 

@@ -1,4 +1,4 @@
-F18[ Adjudication: creditor’s petition.
+F22[Adjudication: creditor’s petition.
 
 14.— (1) Subject to subsection (2), where the petition is presented by a creditor, the Court shall, if satisfied that the requirements of section 11(1) have been complied with, by order adjudicate the debtor bankrupt.
 

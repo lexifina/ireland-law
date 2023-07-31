@@ -1,6 +1,6 @@
 ## Management Provisions
 
-F48[The Official Assignee
+F55[The Official Assignee
 
 60.— (1) The Official Assignee shall have such functions as are assigned to him by or under this Act or any other enactment, and subject to this section, sections 60A to 60C and the Personal Insolvency Act 2012, such powers and functions as were heretofore exercisable by the Official Assignee in Bankruptcy continue to be exercisable by the Official Assignee.
 

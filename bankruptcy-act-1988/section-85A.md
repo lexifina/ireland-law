@@ -1,4 +1,4 @@
-F70[Objection to automatic discharge from bankruptcy.
+F81[Objection to automatic discharge from bankruptcy.
 
 85A.—(1) The Official Assignee, the trustee in bankruptcy or a creditor of the bankrupt may, prior to the discharge of a bankrupt pursuant to section 85, apply to the Court to object to the discharge of a bankrupt from bankruptcy in accordance with section 85 where the Official Assignee, the trustee in bankruptcy or the creditor concerned believes that the bankrupt has—
 
