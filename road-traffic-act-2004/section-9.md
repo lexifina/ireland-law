@@ -1,6 +1,6 @@
 Special speed limits.
 
-9.—(1) A county council or a city council may make bye-laws (“special speed limit bye-laws”) specifying in respect of any specified public road or specified part of a public road or specified carriageway or lane of a public road within its administrative area the speed limit (“special speed limit”) which shall be the speed limit on that road or those roads for mechanically propelled vehicles.
+9.—(1) A county council or a city council may make bye-laws ... specifying in respect of any specified public road or specified part of a public road or specified carriageway or lane of a public road other than a national managed road, part of a national managed road or carriageway or lane of a national managed road within its administrative area the speed limit ... which shall be the speed limit on that road or those roads for mechanically propelled vehicles.
 
 (2) The special speed limits that may be specified in bye-laws under this section are—
 
@@ -8,7 +8,7 @@ Special speed limits.
 
 (ii) 30 kilometres per hour, and
 
-(iii) 40 kilometres per hour, in respect of a road or roads in accordance with guidelines issued by the Minister under this section,
+(iii) 40 kilometres per hour, in respect of a road or roads in accordance with guidelines issued by the Minister under section 10D,
 
 (b) 50 kilometres per hour, in respect of any road other than a road in a built-up area,
 
@@ -18,7 +18,7 @@ Special speed limits.
 
 (e) 100 kilometres per hour, in respect of a motorway, a non-urban regional or local road or a road in a built-up area, and
 
-(f) 120 kilometres per hour, in respect of a dual carriageway that forms part of a national road that is not a motorway in accordance with guidelines issued by the Minister under subsection (9).
+(f) 120 kilometres per hour, in respect of a dual carriageway that forms part of a national road that is not a motorway in accordance with guidelines issued by the Minister under section 10D
 
 (3) Before making special speed limit bye-laws a county council or city council shall give notice to—
 
@@ -44,7 +44,7 @@ Special speed limits.
 
 (5) In making special speed limit bye-laws under this section a county council or city council may, in the interests of road safety, apply a special speed limit for a specified period or periods during any day or during specified days (such periods and days being indicated in such bye-laws) on a specified road or specified motorway or part of it and such special speed limit shall, notwithstanding any other provision in the said bye-laws relating to any such road or motorway or part of it, be the speed limit for that road for that period or periods only.
 
-(6) Having regard to circumstances that are particular to a specified national road or motorway or any specified part, carriageway or lane of a specified motorway or national road, a county council or city council may, subject to subsection (7), specify in special speed limit bye-laws that a special speed limit applies in respect of that national road or motorway or part, carriageway or lane of it, in lieu of the speed limit that normally applies to the national road or motorway, for any period where the circumstances prevail and are described in the bye-laws.
+(6) ...
 
 (7) A county council or city council shall not make bye-laws under this section relating to a national road or a motorway without the prior written consent of the National Roads Authority.
 
@@ -54,12 +54,18 @@ Special speed limits.
 
 (b) the exemption of a class or classes of mechanically propelled vehicles from a specified speed limit or from all of the speed limits specified or having effect under this section.
 
-(9) The Minister may issue guidelines relating to the making of bye-laws under this section and may amend or cancel any such guidelines. Where any such guidelines are, for the time being in force, a county council or city council shall have regard to them when making any such bye-laws.
+(9) ...
 
 (10) The making of special speed limit bye-laws under this section and the making of representations under subsection (3)(a) are reserved functions (within the meaning of the Act of 2001).
 
-(11) Where special speed limit bye-laws apply a special speed limit to a specified public road or specified part of a public road or specified carriageway or lane of a public road, that speed limit does not apply where a road works speed limit order is made in respect of the public road, part, carriageway or lane of it.
+(11) Where special speed limit bye-laws under this section apply a special speed limit to a specified public road or specified part of a public road or specified carriageway or lane of a public road, that speed limit does not apply where a road works speed limit order is made in respect of the public road, part, carriageway or lane of it.
 
-(12) A document which purports to be a copy of special speed limit bye-laws, and which has endorsed on it a certificate purporting to be signed by an officer of the county council or city council which made the bye-laws stating that the document is a true copy of the bye-laws and that the bye-laws were in force on a specified day, shall, without proof of the signature of such officer or that he or she was in fact such officer, be evidence, until the contrary is shown, in every court and in all legal proceedings, of the bye-laws and of the fact that they were in force on that date.
+(12) A document which purports to be a copy of special speed limit bye-laws under this section, and which has endorsed on it a certificate purporting to be signed by an officer of the county council or city council which made the bye-laws stating that the document is a true copy of the bye-laws and that the bye-laws were in force on a specified day, shall, without proof of the signature of such officer or that he or she was in fact such officer, be evidence, until the contrary is shown, in every court and in all legal proceedings, of the bye-laws and of the fact that they were in force on that date.
+
+(13) Where—
+
+(a) a speed limit specified in bye-laws under this section is the speed limit on a road for mechanically propelled vehicles, and
+
+(b) the Minister designates such road or a part thereof as a national managed road, the speed limit specified in bye-laws under this section in respect of the road shall continue to be the speed limit on that road for mechanically propelled vehicles until the National Roads Authority makes bye-laws under section 9A specifying a speed limit for mechanically propelled vehicles in respect of that national managed road or part thereof.
 
 PART 3
