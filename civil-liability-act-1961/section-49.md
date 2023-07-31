@@ -26,4 +26,4 @@ Damages.
 
 (4) The amount recovered in the action shall, after deducting the costs not recovered from the defendant, be divided among the persons entitled in such shares as may have been determined.
 
-(5) Where a person referred to in paragraph (c) of the definition of ‘dependant’ in section 47 (1) had no enforceable right to financial maintenance by the deceased, the court shall take that fact into account, together with any other relevant matter, in determining the damages to be awarded to the person by virtue of subparagraph (i) of paragraph (a) of subsection (1) of this section.
+(5) Where a person referred to in paragraph (c) of the definition of "dependant" in section 47 (1) had no enforceable right to financial maintenance by the deceased, the court shall take that fact into account, together with any other relevant matter, in determining the damages to be awarded to the person by virtue of subparagraph (i) of paragraph (a) of subsection (1) of this section.
