@@ -6,17 +6,19 @@ Specific functions of the Authority.
 
 (i) designs for construction or improvement works,
 
-(ii) programmes of maintenance works, or
+(ii) programmes of maintenance (including maintenance works), or
 
 (iii) schemes for the provision of traffic signs;
 
-(b) secure the carrying out of construction or maintenance works, or the provision of traffic signs;
+(b) secure the carrying out of construction and maintenance (including maintenance works) and the provision of traffic signs and consult with the Commissioner,
 
 (c) secure the provision of facilities for the parking of vehicles;
 
-(d) allocate moneys and make payments in relation to construction or maintenance works, or in relation to any other function assigned to it by or under this Act;
+(ca) prepare, or arrange for the preparation of, schemes for the provision of a safe and efficient network of recharging infrastructure and refuelling infrastructure for such zero to low emission vehicles as the Minister may prescribe and provide and maintain, or secure the provision and maintenance of, such a network;
 
-(e) subject to section 15B(3), specify standards in relation to design, construction or maintenance works to be complied with by a person, road authority or public authority carrying out such works;
+(d) allocate moneys and make payments in relation to construction or maintenance (including maintenance works), or in relation to any other function assigned to it by or under this Act;
+
+(e) subject to section 15B(3), specify standards in relation to design, construction or maintenance (including maintenance works) to be complied with by a person, road authority or public authority carrying out such works;
 
 (f) carry out, arrange to have carried out or assist the carrying out of, training, research or testing activities in relation to any of its functions;
 
