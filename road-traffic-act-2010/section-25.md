@@ -18,7 +18,7 @@ Evidential matters.
 
 (c) by sending it by registered post to him or her at his or her usual or last known residence or place of business.
 
-(4) A duly completed statement purporting to have been made under section 24 (3) shall, until the contrary is shown, be sufficient evidence under the Road Traffic Acts 1961 to 2010 of the facts stated in it, without proof of any signature on it or that the signatory was the proper person to sign it, and shall, until the contrary is shown, be sufficient evidence of compliance by the designated doctor or designated nurse concerned with the requirements imposed on him or her under section 24 (1).
+(4) A duly completed statement purporting to have been made under section 24 (3) shall, until the contrary is shown, be sufficient evidence under the Road Traffic Act 1961 to 2023 of the facts stated in it, without proof of any signature on it or that the signatory was the proper person to sign it, and shall, until the contrary is shown, be sufficient evidence of compliance by the designated doctor or designated nurse concerned with the requirements imposed on him or her under section 24 (1).
 
 (5) In a prosecution for an offence under section 24 (2) it shall be presumed until the contrary is shown that the person—
 

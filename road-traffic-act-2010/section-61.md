@@ -4,7 +4,7 @@ Production of driving licence to member of Garda Síochána subsequent to commis
 
 (a) a mechanically propelled vehicle has been used in a public place on a particular occasion,
 
-(b) the use may have involved the commission of an offence under the Road Traffic Acts 1961 to 2010 (including a case in which the member has himself or herself observed the use), and
+(b) the use may have involved the commission of an offence under the Road Traffic Act 1961 to 2023 (including a case in which the member has himself or herself observed the use), and
 
 (c) the actual user of the vehicle was a particular person, the member may at any time or times subsequent to the occasion in question require of the person the production of, to a member of the Garda Síochána for his or her inspection, a driving licence or, if the person falls within section 35(1) of the Principal Act, a learner permit, having effect and licensing the person to drive the vehicle used on the occasion in question, at a Garda Síochána station or another place specified by the member, within the period of 10 days of the date of making the requirement.
 

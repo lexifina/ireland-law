@@ -2,7 +2,7 @@
 
 Obligation to provide breath, blood or urine specimens following arrest under Part 2.
 
-12.— (1) Where a person is arrested under section 4(8), 5(10), 6(4), 9(4), 10(7) or 11(5) of this Act or section 52(3), 53(5), 106(3A) or 112(6) of the Principal Act, a member of the Garda Síochána may, at a Garda Síochána station or hospital, do either or both of the following—
+12.— (1) Where a person is arrested under section 4(8), 5(10), 6(4), 9(4), 10(7) or 11(6) of this Act or section 52(3), 53(5), 106(3A) or 112(6) of the Principal Act, a member of the Garda Síochána may, at a Garda Síochána station or hospital, do either or both of the following—
 
 (a) require the person to provide, by exhaling into an apparatus for determining the concentration of alcohol in the breath, 2 specimens of his or her breath and may indicate the manner in which he or she is to comply with the requirement,
 
