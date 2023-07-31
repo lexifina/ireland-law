@@ -36,7 +36,7 @@ Permission to land.
 
 (j) that the non-national's entry into, or presence in, the State could pose a threat to national security or be contrary to public policy;
 
-(k) that there is reason to believe that the non-national intends to enter the State for purposes other than those expressed by the non-national.
+(k) that there is reason to believe that the non-national intends to enter the State for purposes other than those expressed by the non-national;
 
 (l) that the non-national—
 
@@ -64,7 +64,7 @@ Permission to land.
 
 (6) An immigration officer may, on behalf of the Minister, by a notice in writing to a non-national, or an inscription placed on his or her passport or other equivalent document, attach to a permission under this section such conditions as to duration of stay and engagement in employment, business or a profession in the State as he or she may think fit, and may by such a notice or inscription at any time amend such conditions as aforesaid in such manner as he or she may think fit, and the non-national shall comply with any such conditions.
 
-(7) A permission under this section may be renewed or varied by the Minister, or by an immigration officer on his or her behalf, on application therefor by the non-national concerned.
+(7) A permission under this section may be renewed or varied by the Minister, or by an immigration officer on his or her behalf, whether or not an application is made by the non-national concerned.
 
 (8) A non-national, being a member of a class of persons declared by order under section 17 to require a transit visa to enter the State, shall have a valid transit visa.
 

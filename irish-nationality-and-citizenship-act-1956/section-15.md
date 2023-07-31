@@ -2,9 +2,7 @@ Conditions for issue of certificate.
 
 15.—(1) Upon receipt of an application for a certificate of naturalisation, the Minister may, in his absolute discretion, grant the application, if satisfied that the applicant—
 
-(a) (i) is of full age, or
-
-(ii) is a minor born in the State;
+(a) is of full age;
 
 (b) is of good character;
 
@@ -12,14 +10,26 @@ Conditions for issue of certificate.
 
 (d) intends in good faith to continue to reside in the State after naturalisation; and
 
-(e) has, before a judge of the District Court in open court, in a citizenship ceremony or in such manner as the Minister, for special reasons, allows—
+(e) has, in accordance with subsection (1A) or, as the case may be, subsection (1B), and in the prescribed manner—
 
-(i) made a declaration, in the prescribed manner, of fidelity to the nation and loyalty to the State, and
+(i) made a declaration of fidelity to the nation and loyalty to the State, and
 
-(ii) undertaken to faithfully observe the laws of the State and to respect its democratic values.
+(ii) undertaken to faithfully observe the laws of the State and respect its democratic values.
 
-(2) The conditions specified in paragraphs (a) to (e) of subsection (1) are referred to in this Act as conditions for naturalisation.
+(1A) The declaration referred to in paragraph (e) of subsection (1) shall be made, and the undertaking referred to in that paragraph shall be given—
 
-(3) In this section ‘applicant’ means, in relation to an application for a certificate of naturalisation by a minor, the parent or guardian of, or person who is in loco parentis to, the minor.
+(a) subject to subsection (1B), in a citizenship ceremony, or
 
-(4) In this section and section 15A, ‘citizenship ceremony’ means a ceremony, held before a judge, or a retired judge, of the District Court, Circuit Court, High Court or Supreme Court, or such other person as may be designated for that purpose by the Minister, at a place and in a form approved by the Minister, at which the applicant has made the declaration and undertaking referred to in subsection (1)(e) or section 15A(1)(h).
+(b) in such manner as the Minister, for special reasons, allows.
+
+(1B) The Minister may—
+
+(a) dispense with the requirement under subsection (1A)(a) that the declaration be made and the undertaking be given in a citizenship ceremony, and
+
+(b) allow the applicant to make the declaration and give the undertaking in such manner as the Minister may specify, where the Minister is of the opinion that, having regard to the number of applications of which he is in receipt, it is appropriate to do so in the interests of ensuring that such applications are dealt with in an efficient manner.
+
+(2) The conditions specified in paragraphs (a) to (e) of subsection (1) and paragraphs (a) to (d) of section 15B(1) are referred to in this Act as conditions for naturalisation.
+
+(3) ...
+
+(4) ...

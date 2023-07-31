@@ -12,7 +12,7 @@ Complaints
 
 (3) A complaint may be made under subsection (1) on behalf of a solicitor who is a member of the Law Society of Ireland by a duly authorised officer of the Law Society of Ireland.
 
-(4) A complaint may be made under subsection (1) on behalf of a barrister who is a member of the General Council of the Bar of Ireland by a duly authorised officer of the General Council of the Bar of Ireland.
+(4) A complaint may be made under subsection (1) on behalf of a barrister who is a member of the Law Library by a duly authorised officer of the General Council of the Bar of Ireland.
 
 (5) The Registrar shall, as soon as practicable after the receipt of a complaint, notify the judge concerned of the complaint and provide him or her with—
 

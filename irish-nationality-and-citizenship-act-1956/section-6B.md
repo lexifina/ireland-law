@@ -18,31 +18,31 @@ Residence in the island of Ireland for the purposes of section 6A.
 
 (ii) if he or she was such a national for part only of that period, for that part of the period, unless the contrary is proved.
 
-(3) (a) If a person who is the guardian of, or in loco parentis to, a person (in this paragraph referred to as the ‘second-mentioned person’) who—
+(3) (a) If a person who is the guardian of, or in loco parentis to, a person (in this paragraph referred to as the "second-mentioned person") who—
 
 (i) has not attained the age of 18 years, and
 
-(ii) is the child of a person (in this paragraph referred to as the ‘parent’) who was, at the time of the second-mentioned person's birth, a national of a state referred to in subsection (2), makes a declaration in such manner as may be prescribed that the parent resided in the island of Ireland for such period as is specified in that declaration, the parent shall, for the purposes of section 6A, be regarded as having been resident in the island of Ireland—
+(ii) is the child of a person (in this paragraph referred to as the "parent") who was, at the time of the second-mentioned person's birth, a national of a state referred to in subsection (2), makes a declaration in such manner as may be prescribed that the parent resided in the island of Ireland for such period as is specified in that declaration, the parent shall, for the purposes of section 6A, be regarded as having been resident in the island of Ireland—
 
 (I) for that period, if during the entire of that period he or she was a national of a Member State, an EEA state or the Swiss Confederation, or
 
 (II) if he or she was such a national for part only of that period, for that part of the period, unless the contrary is proved.
 
-(b) If a person who is duly authorised to act on behalf of a person (in this paragraph referred to as the ‘second-mentioned person’) who—
+(b) If a person who is duly authorised to act on behalf of a person (in this paragraph referred to as the "second-mentioned person") who—
 
 (i) is suffering from a mental incapacity, and
 
-(ii) is the child of a person (in this paragraph referred to as the ‘parent’) who was, at the time of the second-mentioned person's birth, a national of a state referred to in subsection (2), makes a declaration in such manner as may be prescribed that the parent resided in the island of Ireland for such period as is specified in that declaration, the parent shall, for the purposes of section 6A, be regarded as having been resident in the island of Ireland—
+(ii) is the child of a person (in this paragraph referred to as the "parent") who was, at the time of the second-mentioned person's birth, a national of a state referred to in subsection (2), makes a declaration in such manner as may be prescribed that the parent resided in the island of Ireland for such period as is specified in that declaration, the parent shall, for the purposes of section 6A, be regarded as having been resident in the island of Ireland—
 
 (I) for that period, if during the entire of that period he or she was a national of a Member State, an EEA state or the Swiss Confederation, or
 
 (II) if he or she was such a national for part only of that period, for that part of the period, unless the contrary is proved.
 
-(c) If a person (in this paragraph referred to as the ‘declarant’) who—
+(c) If a person (in this paragraph referred to as the "declarant") who—
 
 (i) has attained the age of 18 years, and
 
-(ii) is the child of a person (in this paragraph referred to as the ‘parent’) who was, at the time of the declarant's birth, a national of a state referred to in subsection (2), makes a declaration in such manner as may be prescribed that the parent resided in the island of Ireland for such period as is stated in that declaration, the parent shall, for the purposes of section 6A, be regarded as having been resident in the island of Ireland—
+(ii) is the child of a person (in this paragraph referred to as the "parent") who was, at the time of the declarant's birth, a national of a state referred to in subsection (2), makes a declaration in such manner as may be prescribed that the parent resided in the island of Ireland for such period as is stated in that declaration, the parent shall, for the purposes of section 6A, be regarded as having been resident in the island of Ireland—
 
 (I) for that period, if during the entire of that period he or she was a national of a Member State, an EEA state or the Swiss Confederation, or
 
@@ -54,7 +54,7 @@ Residence in the island of Ireland for the purposes of section 6A.
 
 (b) it is in accordance with a permission given to a person under section 4 of the Act of 2004 for the purpose of enabling him or her to engage in a course of education or study in the State, or
 
-(c) it consists of a period during which a person (other than a person who was, during that period, a national of a Member State, an EEA state or the Swiss Confederation) referred to in subsection (2) of section 9 (amended by section 7(c)(i) of the Act of 2003) of the Act of 1996 is entitled to remain in the State in accordance only with the said subsection.
+(c) it consists of a period during which a person (other than a person who was, during that period, a national of a Member State, an EEA state or the Swiss Confederation) referred to in subsection (1) of section 16 of the International Protection Act 2015 is entitled to remain in the State in accordance only with the said subsection.
 
 (5) A period of residence in Northern Ireland shall not be reckonable for the purposes of calculating a period of residence under section 6A—
 

@@ -14,7 +14,7 @@ Interpretation ( Part 3).
 
 (d) a vesting certificate under the Landlord and Tenant (Ground Rents) (No. 2) Act 1978;
 
-(e) a certificate vesting property in the Official Assignee under the Bankruptcy Act 1988;
+(e) a certificate of vesting issued under section 46(1) of the Bankruptcy Act 1988 as evidence of the vesting of land in the Official Assignee under that Act;
 
 (f) a receipt under section 43 of the Industrial and Provident Societies Act 1893, section 53 of the Friendly Societies Act 1896, section 84(1) of the Building Societies Act 1976 or section 18(1) of the Housing Act 1988;
 

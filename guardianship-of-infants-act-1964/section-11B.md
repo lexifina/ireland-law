@@ -4,21 +4,21 @@ Relatives may apply for access to child.
 
 (a) is a relative of a child, or,
 
-(b) is a person with whom the child resides or has formerly resided, and to whom section 11 does not apply may, subject to subsection (3), apply to the court for an order giving that person access to the child on such terms and conditions as the court may order.
+(b) is a person with whom the child resides or has formerly resided, and to whom section 11 does not apply may ... apply to the court for an order giving that person access to the child on such terms and conditions as the court may order.
 
 (2) ...
 
-(3) In deciding whether to grant leave under subsection (1), the court shall have regard to all the circumstances, including in particular—
+(3) In deciding whether to make an order under subsection (1), the court shall have regard to all the circumstances, including in particular—
 
 (a) the applicant’s connection with the child,
 
-(b) the risk, if any, of the application disrupting the child's life to the extent that the child would be harmed by it,
+(b) the risk, if any, of the order disrupting the child's life to the extent that the child would be harmed by it,
 
 (c) the wishes of the child’s guardians,
 
 (d) the views of the child, and
 
-(e) whether it is necessary to make an order to facilitate the access of the person to the child.
+(e) whether it is necessary to make the order to facilitate the access of the person to the child.
 
 (4) In this section, a relative of a child who is the subject of an adoption order includes—
 

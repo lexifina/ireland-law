@@ -12,6 +12,12 @@ Definitions.
 
 ...
 
+"citizenship ceremony" means a ceremony held—
+
+(a) before a judge, or a retired judge, of the District Court, Circuit Court, Court of Appeal, High Court or Supreme Court or such other person as may be designated for that purpose by the Minister, and
+
+(b) at a place and in a form approved by the Minister, at which an applicant makes the declaration and gives the undertaking referred to in section 15(1)(e), section 15A(1)(h) or section 15B(1)(d), as the case may be;
+
 "civil partner" means a civil partner within the meaning of section 3 of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
 “consular office” includes a consulate-general, consulate or vice-consulate, whether in charge of a career or honorary consular officer;

@@ -30,7 +30,7 @@ Complaint to which Article 60 applies
 
 (5) The Commission, in making its decision under subsection (4), shall have due regard to the decision as to the envisaged action to be taken in relation to the controller or processor included in the Commission’s draft decision under subsection (2)(a) or, as the case may be, its revised draft decision under Article 60.
 
-(6) The actions referred to in subsection (4)(b) include either or both of the following:
+(6) The actions referred to in subsection (4)(b) include any or all of the following:
 
 (a) the serving on the controller or processor concerned of an enforcement notice, requiring it to do one or more than one of the following:
 
@@ -39,6 +39,8 @@ Complaint to which Article 60 applies
 (ii) where the enforcement notice is given to the controller, communicate a personal data breach to the data subject;
 
 (iii) rectify or erase personal data or restrict processing pursuant to Article 16, 17 or 18, and, in respect of that action, to comply with Article 19 and, where applicable, Article 17(2);
+
+(aa) the issuing of a reprimand to the controller or processor concerned;
 
 (b) the taking of such other action in respect of the complaint as the Commission considers appropriate.
 

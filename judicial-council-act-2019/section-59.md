@@ -1,6 +1,6 @@
 Investigations of judicial misconduct in absence of, or after withdrawal of, complaint
 
-59. (1) The Judicial Conduct Committee may, in the absence of a complaint or where a complaint in respect of a judge is withdrawn, refer any matter relating to the conduct of a judge to a panel of inquiry for investigation if—
+59. (1) The Judicial Conduct Committee may refer any matter relating to the conduct of a judge, including any matter which was the subject of a complaint in respect of a judge which is withdrawn, to a panel of inquiry for investigation if—
 
 (a) it is satisfied that there exists prima facie evidence of judicial misconduct by the judge, and
 

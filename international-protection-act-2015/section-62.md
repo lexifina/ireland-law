@@ -26,9 +26,13 @@ Membership of Tribunal
 
 (b) the term of office of a deputy chairperson shall be 5 years and a deputy chairperson may be reappointed to the office for a second term not exceeding 5 years;
 
-(c) the term of office of a member appointed in a whole-time capacity, other than the chairperson, shall be 3 years and such a member may be reappointed to the office for a second term not exceeding 3 years;
+(c) the term of office of a member appointed in a whole-time capacity, other than the chairperson, shall be 5 years and such a member may be reappointed to the office for a second term not exceeding 5 years;
 
-(d) the term of office of a member appointed in a part-time capacity shall be 3 years and such a member may be reappointed to the office for a second term not exceeding 3 years.
+(d) the term of office of a member appointed in a part-time capacity shall be 5 years and such a member may be reappointed to the office for a second term not exceeding 5 years.
+
+(7A) Notwithstanding subsection (7), a member of the Tribunal who has been reappointed for a second term is otherwise eligible for appointment by way of competition in accordance with subsection (4).
+
+(7B) Where, immediately before the coming into operation of section 72 of the Courts and Civil Law (Miscellaneous Provisions) Act 2023, a member of the Tribunal, other than the chairperson or a deputy chairperson, stands appointed or reappointed, as the case may be, to the Tribunal, in a whole-time or a part-time capacity, the person shall be deemed to have been appointed or reappointed, as the case may be, for a term of office of 5 years from the date on which he or she was so appointed or reappointed, as the case may be.
 
 (8) Where the chairperson is for any reason temporarily unable to act as the chairperson, or the office of the chairperson is vacant, the Minister shall appoint a deputy chairperson to be the chairperson for the duration of the inability or until an appointment is made under subsection (4), as appropriate, and the person so appointed may perform all the functions conferred on the chairperson by this Act.
 

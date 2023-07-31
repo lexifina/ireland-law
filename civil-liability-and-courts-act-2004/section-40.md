@@ -56,15 +56,15 @@ Proceedings heard otherwise than in public.
 
 (f) In this subsection—
 
-‘commercially sensitive information’ means—
+"commercially sensitive information" means—
 
 (i) financial, commercial, scientific, technical or other information the disclosure of which could reasonably be expected to result in a material financial loss or gain to the person to whom it relates, or could prejudice the competitive position of that person in the conduct of his or her business or otherwise in his or her occupation, or
 
 (ii) information the disclosure of which could prejudice the conduct or outcome of contractual or other negotiations of the person to whom it relates;
 
-‘party to the proceedings’ includes a witness in the proceedings;
+"party to the proceedings" includes a witness in the proceedings;
 
-‘sensitive personal information’ means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
+"sensitive personal information" means information about a person that would, in the ordinary course of events, be known only to the person or members of the family, or friends, of the person, and includes but is not limited to—
 
 (i) information relating to the medical, psychiatric or psychological history of the person,
 
@@ -88,13 +88,19 @@ Proceedings heard otherwise than in public.
 
 (b) such body or other person as may be prescribed by order made by the Minister, when the body or person concerned is performing functions consisting of the conducting of a hearing, inquiry or investigation in relation to, or adjudicating on, any matter as may be so prescribed.
 
+(7A) The leave of a court shall not be required for—
+
+(a) the production of a document in accordance with subsection (6), or
+
+(b) the giving of information or evidence in accordance with subsection (7).
+
 (8) A court hearing proceedings under a relevant enactment shall, on its own motion or on the application of one of the parties to the proceedings, have discretion to order disclosure of documents, information or evidence connected with or arising in the course of the proceedings to third parties if such disclosure is required to protect the legitimate interests of a party or other person affected by the proceedings.
 
 (9) A hearing, inquiry or investigation referred to in subsection (6) or (7) shall, in so far as it relates to a document referred to in subsection (6) or information or evidence referred to in subsection (7), be conducted otherwise than in public and no such document, information or evidence shall be published.
 
 (10) This section shall apply to proceedings brought, and decisions of a court made, whether before or after the commencement of this section.
 
-(11) In subsection (3), ‘relevant documents’, in relation to any proceedings referred to in that subsection—
+(11) In subsection (3), "relevant documents", in relation to any proceedings referred to in that subsection—
 
 (a) subject to paragraph (b), means—
 
