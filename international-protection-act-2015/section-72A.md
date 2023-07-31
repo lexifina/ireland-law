@@ -30,6 +30,6 @@ Designation of safe third countries
 
 (6) In this section—
 
-‘country’ means a country other than an EU Member State;
+"country" means a country other than an EU Member State;
 
-‘refugee status’ means the recognition by the country concerned of a third country national or stateless person as a refugee.
+"refugee status" means the recognition by the country concerned of a third country national or stateless person as a refugee.

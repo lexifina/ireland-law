@@ -10,7 +10,7 @@ Period of validity of return order
 
 (5) Where—
 
-(a) a return order ceases in accordance with this section to have effect on a particular date (in this section referred to as the ‘relevant date’), and
+(a) a return order ceases in accordance with this section to have effect on a particular date (in this section referred to as the "relevant date"), and
 
 (b) by the relevant date the person the subject of the order has not been returned, he or she shall, notwithstanding that his or her application for international protection has been determined under section 21(11) to be inadmissible, be deemed to have made, on the date immediately following the relevant date, an application for international protection in accordance with section 15, and subject to this section, the provisions of this Act shall, with any necessary modifications, apply accordingly.
 

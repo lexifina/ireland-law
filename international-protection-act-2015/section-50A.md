@@ -26,4 +26,4 @@ Prohibition of refoulement (application for international protection determined 
 
 (b) give or cause to be given to the person a statement under section 18(1).
 
-(6) In this section, ‘person’ means a person whose application for international protection has been determined under section 21(11) to be inadmissible.
+(6) In this section, "person" means a person whose application for international protection has been determined under section 21(11) to be inadmissible.

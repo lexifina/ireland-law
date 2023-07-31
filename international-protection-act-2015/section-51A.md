@@ -1,6 +1,6 @@
 Return order
 
-51A. (1) Subject to section 50A, the Minister shall by order (in this Act referred to as a ‘return order’) require a person whose application for international protection has been determined under section 21(11) to be inadmissible to leave the State.
+51A. (1) Subject to section 50A, the Minister shall by order (in this Act referred to as a "return order") require a person whose application for international protection has been determined under section 21(11) to be inadmissible to leave the State.
 
 (2) Where subsection (1) applies, the person specified in the return order may be returned:
 

@@ -14,7 +14,7 @@ Return of person subject of return order
 
 (3) A person the subject of a return order shall comply with a requirement under subsection (1).
 
-(4) Where an immigration officer or a member of the Garda Síochána considers that there is a significant risk of a person the subject of a return order absconding, the officer or member (‘arresting officer or member’) may, for the purpose of facilitating the return of the person, arrest the person without warrant and a person so arrested may be taken by an immigration officer or a member of the Garda Síochána to a prescribed place (in this section referred to as a ‘place of detention’) and detained—
+(4) Where an immigration officer or a member of the Garda Síochána considers that there is a significant risk of a person the subject of a return order absconding, the officer or member ("arresting officer or member") may, for the purpose of facilitating the return of the person, arrest the person without warrant and a person so arrested may be taken by an immigration officer or a member of the Garda Síochána to a prescribed place (in this section referred to as a "place of detention") and detained—
 
 (a) in the place of detention under warrant of the arresting officer or member and in the custody of the officer of the Minister or member of the Garda Síochána for the time being in charge of the place, and
 
