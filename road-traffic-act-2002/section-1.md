@@ -16,9 +16,9 @@ Interpretation.
 
 “entry”, in relation to a person, means the entry in the licence record relating to the person;
 
-‘Irish licence’ means an Irish driving licence or a learner permit granted under Part III of the Principal Act;
+"Irish licence" means an Irish driving licence or a learner permit granted under Part III of the Principal Act;
 
-‘licence’ means an Irish licence or a foreign driving licence, as the case may be;
+"licence" means an Irish licence or a foreign driving licence, as the case may be;
 
 “licence record” means the record jointly established and maintained by the Minister and all the licensing authorities under section 60(2) of the Finance Act, 1993, in relation to licences;
 
