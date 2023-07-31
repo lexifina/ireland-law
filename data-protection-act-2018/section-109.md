@@ -28,6 +28,8 @@ Commission to handle complaint under Chapter 2
 
 (iii) rectify or erase personal data or restrict processing pursuant to Article 16, 17 or 18, and, in respect of that action, to comply with Article 19 and, where applicable, Article 17(2);
 
+(da) where the Commission considers the processing of personal data the subject of the complaint infringes a relevant enactment, issuing a reprimand to the controller or processor concerned;
+
 (e) causing of such inquiry as the Commission thinks fit to be conducted in respect of the complaint;
 
 (f) taking of such other action in respect of the complaint as the Commission considers appropriate.
