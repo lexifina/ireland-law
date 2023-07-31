@@ -1,0 +1,3 @@
+Increase of certain penalties under Act of 1935.
+
+10.—Section 6(1) of the Act of 1935 is hereby amended by the substitution for “shall be liable on summary conviction thereof to a fine not exceeding one hundred pounds or, at the discretion of the Court, to imprisonment for any term not exceeding six months, and the Court, before which such person is so convicted, may, either in addition to or in lieu of any such fine or imprisonment,” of “shall be liable on summary conviction to a fine not exceeding £1,500 or to imprisonment for a term not exceeding 12 months or to both, and the Court, before which such person is so convicted, may, either in addition to or in lieu of any such fine or imprisonment or both,”.
