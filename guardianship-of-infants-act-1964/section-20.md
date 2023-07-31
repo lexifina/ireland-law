@@ -1,4 +1,4 @@
-F77[Safeguards to ensure applicant’s awareness of alternatives to custody, access and guardianship proceedings and to assist attempts at agreement.
+F79[Safeguards to ensure applicant’s awareness of alternatives to custody, access and guardianship proceedings and to assist attempts at agreement.
 
 20.—(1) In this section "the applicant" means a person who has applied, is applying or proposes to apply to the court for directions under section 6A, 11 or 11B.
 
