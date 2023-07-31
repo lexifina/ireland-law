@@ -1,6 +1,6 @@
 Disclaimer of onerous property.
 
-56. (1) Subject to subsection (5), where any of the property (other than after-acquired property) of a bankrupt consists of—
+56.—(1) Subject to subsection (5), where any of the property (other than after-acquired property) of a bankrupt consists of—
 
 (a) any unprofitable contract, or
 
@@ -10,13 +10,23 @@ Disclaimer of onerous property.
 
 (ii) is not readily saleable for any reason whatsoever (including because the property is subject to any mortgage, charge, lien or other security), or
 
-(iii) gives rise to a liability to pay money or perform any other onerous act, the Official Assignee, notwithstanding that he has endeavoured to sell or has taken possession of the property or exercised any act of ownership in relation thereto, may, with the leave of the Court and subject to the provisions of this section, by writing signed by him, at any time disclaim the property.
+(iii) gives rise to a liability to pay money or perform any other onerous act, the Official Assignee, notwithstanding that he has endeavoured to sell or has taken possession of the property or exercised any act of ownership in relation thereto, may, ... subject to the provisions of this section, by writing signed by him, at any time disclaim the property.
+
+(1A) The Official Assignee shall give notice in writing of the disclaimer to each person who, to the Official Assignee’s knowledge at the time of the disclaimer—
+
+(a) has an interest in the disclaimed property (including any person who is in occupation of, or claims a right to occupy, the property as that person’s principal private residence, as defined in section 2 of the Personal Insolvency Act 2012, subject to the modification that a reference to the debtor shall be taken as a reference to that person), or
+
+(b) is under a liability not discharged by this Act in respect of the disclaimed property.
 
 (2) ...
 
 (3) The disclaimer shall operate to determine, as from the date of disclaimer, the rights, interests and liabilities of the bankrupt and his property in or in respect of the property disclaimed, and shall also discharge the Official Assignee from all personal liability in respect of the property disclaimed as from the date when the property vested in him, but shall not, except so far as is necessary for the purpose of releasing the bankrupt and his property and the Official Assignee from liability, affect the rights or liabilities of any other person.
 
-(4) The Court, before or on granting leave to disclaim, may require the Official Assignee to give such notices to persons interested and impose such terms as a condition of granting leave, and make such other order in the matter as the Court thinks just.
+(4) The Court may, on application by—
+
+(a) the Official Assignee, at any time, or
+
+(b) any person to whom subsection (1A) applies, before the end of the period of 28 days beginning on the day on which notice was given, give such directions and make such other order in the matter as the Court thinks just.
 
 (5) The Official Assignee shall not be entitled to disclaim any property under this section in any case where an application in writing has been made to him by any persons interested in the property requiring him to decide whether he will or will not disclaim, and the Official Assignee has not, within a period of twenty-eight days after the receipt of the application or such further period as may be allowed by the Court, given notice to the applicant that he intends to apply to the Court for leave to disclaim; and, in the case of a contract, if the Official Assignee, after such application as aforesaid, does not within the said period or extended period disclaim the contract, he shall be deemed to have adopted it.
 
