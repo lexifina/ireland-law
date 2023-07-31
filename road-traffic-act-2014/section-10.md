@@ -18,9 +18,7 @@ Amendment of First Schedule to Act of 2002
 
 (b) by inserting after Part 1 the following:
 
-“Part 1A
-
-”,
+“Part 1A”,
 
 (c) in Part 4—
 
@@ -58,9 +56,7 @@ Contravention of Article 17 of Road Traffic (Licensing of Drivers) Regulations 2
 
 ## “Part 5
 
-In this Part, a reference to Regulation 17 is a reference to Regulation 17 (as amended by Regulation 2(b) of the Road Traffic (Licensing of Learner Drivers) Regulations 2007 (S.I. No. 719 of 2007)) of the Road Traffic (Licensing of Drivers) Regulations 2006 (S.I. No. 537 of 2006).
-
-”,
+In this Part, a reference to Regulation 17 is a reference to Regulation 17 (as amended by Regulation 2(b) of the Road Traffic (Licensing of Learner Drivers) Regulations 2007 (S.I. No. 719 of 2007)) of the Road Traffic (Licensing of Drivers) Regulations 2006 (S.I. No. 537 of 2006).”,
 
 (e) in Part 6 (inserted by section 16(2) (e) of the Act of 2006), at reference number 1—
 
@@ -90,6 +86,4 @@ In this Part—
 
 (a) ‘offence’ means an offence under section 11 of the Principal Act,
 
-(b) a reference to a Regulation is a reference to a Regulation of the Road Traffic (Construction, Equipment and Use of Vehicles) (Amendment) Regulations 2000 (S.I. No. 224 of 2000).
-
-”.
+(b) a reference to a Regulation is a reference to a Regulation of the Road Traffic (Construction, Equipment and Use of Vehicles) (Amendment) Regulations 2000 (S.I. No. 224 of 2000).”.
