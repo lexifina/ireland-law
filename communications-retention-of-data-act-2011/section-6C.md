@@ -30,7 +30,11 @@ Authorisation to require disclosure of internet source data.
 
 (b) are otherwise required to be preserved for the purpose of preventing, detecting, investigating or prosecuting a revenue offence.
 
-(4) ...
+(4) An officer of the Competition and Consumer Protection Commission not below the rank of assistant principal officer may apply to an authorising judge for an authorisation under this section where the officer is of the belief that the internet source data in respect of which the application is made—
+
+(a) relate to a person whom the officer suspects, on reasonable grounds, of having committed a competition offence, or
+
+(b) are otherwise required to be preserved for the purpose of preventing, detecting, investigating or prosecuting a competition offence.
 
 (5) An application for an authorisation under this section shall—
 
