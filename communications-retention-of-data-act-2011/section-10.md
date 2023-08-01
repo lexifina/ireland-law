@@ -30,4 +30,4 @@ Complaints procedure.
 
 (9) For the purpose of an investigation under this section, the Referee is entitled to access, and has the power to inspect, any official documents or records relating to the relevant application.
 
-(10) Any person who was concerned in, or has information relevant to, the making of a disclosure requirement in respect of which an application is made under this section shall give the Referee, on his or her request, such information relating to the request as is in the person’s possession.
+(10) Any person who was concerned in, or has information relevant to, the making of a disclosure requirement in respect of which an application is made under this section shall give the Referee, on his or her request, such information relating to the requirement as is in the person’s possession.

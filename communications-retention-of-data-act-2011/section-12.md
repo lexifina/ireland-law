@@ -12,10 +12,10 @@ Duties of designated judge in relation to this Act.
 
 (a) has the power to investigate any case in which a disclosure requirement is made, and
 
-(b) may access and inspect any official documents or records relating to the request.
+(b) may access and inspect any official documents or records relating to the requirement.
 
-(3) Any person who was concerned in, or has information relevant to, the preparation or making of a disclosure requirement shall give the designated judge, on his or her request, such information relating to the request as is in the person’s possession.
+(3) Any person who was concerned in, or has information relevant to, the preparation or making of a disclosure requirement shall give the designated judge, on his or her request, such information relating to the requirement as is in the person’s possession.
 
-(4) The designated judge may, if he or she considers it desirable to do so, communicate with the Taoiseach or the Minister concerning disclosure requirement and with the Data Protection Commission in connection with its functions under the Data Protection Regulation and the Data Protection Acts 1988 to 2018.
+(4) The designated judge may, if he or she considers it desirable to do so, communicate with the Taoiseach or the Minister concerning disclosure requirements and with the Data Protection Commission in connection with its functions under the Data Protection Regulation and the Data Protection Acts 1988 to 2018.
 
 (5) In this section, "Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).

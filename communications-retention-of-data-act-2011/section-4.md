@@ -1,6 +1,6 @@
 Data security.
 
-4.— (1) A service provider who retains data under section 3(1), 3A(5), 3B(1), 7A(11) or 7B(10) shall take the following security measures in relation to the retained data:
+4.— (1) A service provider who retains or preserves data under section 3(1), 3A(5), 3B(1), 7A(11) or 7B(10) shall take the following security measures in relation to the retained data:
 
 (a) the data shall be of the same quality and subject to the same security and protection as those data relating to the publicly available electronic communications service or to the public communications network, as the case may be;
 

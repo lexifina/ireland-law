@@ -1,4 +1,4 @@
-F44[Authorisation of rifle or pistol clubs or shooting ranges.
+F47[Authorisation of rifle or pistol clubs or shooting ranges.
 
 4A.— (1) A rifle or pistol club or the owner or operator of a rifle or pistol shooting range shall not allow any firearm or ammunition to be used or stored on the premises of or at the club or shooting range in connection with target shooting unless an authorisation under this section to do so is in force.
 
@@ -91,6 +91,8 @@ F44[Authorisation of rifle or pistol clubs or shooting ranges.
 (a) on summary conviction, to a fine not exceeding €2,500 or imprisonment for a term not exceeding 6 months or both, and
 
 (b) on conviction on indictment, to a fine not exceeding €20,000 or imprisonment for a term not exceeding 7 years or both.
+
+(20A) This section shall not apply to a shooting range owned or operated by the Garda Síochána.
 
 (21) In this section—
 

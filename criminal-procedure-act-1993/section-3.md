@@ -37,3 +37,13 @@ Jurisdiction of Court of Criminal Appeal in relation to appeals.
 (7) A legal aid certificate which was granted in relation to the trial of an accused person who has been ordered by the Court under this section to be re-tried shall have effect as if it had been granted also in relation to his re-trial.
 
 (8) The references in section 44 (2) of the Offences Against the State Act, 1939, to section 34 of the Criminal Justice Act, 1924, and section 5 of the Criminal Justice Act, 1928, shall be construed as references to this section.
+
+(9) For the purposes of subsection (1)(d), where the appellant is a person who—
+
+(a) was under the age of 18 years when he was convicted and sentenced at the trial, and
+
+(b) has attained the age of 18 years on or before the date on which the appeal is determined by the Court, the sentence that may be imposed on the person by the Court pursuant to subparagraph (ii) of subsection (1)(d) for some other offence and in substitution for the sentence imposed at the trial shall not be deemed to be a sentence of greater severity by reason only of the fact that the sentence could not have been imposed on the person at the trial given that the person was under the age of 18 years at the time of sentencing.
+
+(10) For the purposes of subsection (2), where the convicted person in relation to whom an appeal against sentence is brought is a person who was under the age of 18 years when the sentence was imposed on them by the court of trial and the person has attained the age of 18 years on or before the date on which the appeal is determined by the Court, the reference in that subsection to a sentence or order which could have been imposed on the convicted person for the offence at the court of trial shall be construed as a reference to a sentence or order which could have been imposed on the convicted person for the offence at the court of trial had he attained that age at the time when the sentence or order was so imposed.
+
+(11) Where subsection (10) applies and the appeal against sentence is in respect of a sentence imposed on a person convicted of treason or murder before the person has attained the age of 18 years, the Court may, notwithstanding section 2 of the Criminal Justice Act 1990, impose such sentence or order as it considers appropriate.

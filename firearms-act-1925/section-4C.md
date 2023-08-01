@@ -1,8 +1,10 @@
-F48[Prohibition of practical or dynamic shooting.
+F54[Prohibition of practical or dynamic shooting.
 
 4C.— (1) It is an offence for a person to facilitate or engage in the use of a firearm for the purposes of practical or dynamic shooting.
 
 (2) Subsection (1) does not apply to the facilitation or engagement in the use of a firearm pursuant to an authorisation under section 2(5)(a) of this Act, where the muzzle energy of the firearm is less than 16 Joules.
+
+(2A) Subsection (1) shall not apply to the facilitation or engagement in the use of a firearm by a member of the Garda Síochána in the performance of his or her duties as such member.
 
 (3) A person who is guilty of an offence under this section is liable—
 

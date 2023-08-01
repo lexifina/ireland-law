@@ -20,4 +20,4 @@ Requirement to disclose cell site location data in case of urgency.
 
 (b) subject to such conditions and directions as may be specified in the authorisation.
 
-(5) In this section, "cell site location data" mean data processed by means of an electronic communications network that identifies the most recent geographic location of the device or equipment used by a user when availing of a publicly available electronic communications service.
+(5) In this section and section 6F, "cell site location data" mean data processed by means of an electronic communications network that identifies the most recent geographic location of the device or equipment used by a user when availing of a publicly available electronic communications service.
