@@ -1,3 +1,3 @@
-Application of section 33 to children in remand centres or children detention schools and other detained persons.
+Application of section 33 to children in remand centres or children detention schools and other detained persons. (Repealed)
 
 34.—...
