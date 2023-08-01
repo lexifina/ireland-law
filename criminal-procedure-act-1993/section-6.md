@@ -1,6 +1,6 @@
 Application to Courts-Martial Appeal Court.
 
-6. (1) Sections 2 to 5 and 7 shall have effect with the following modifications where the conviction or sentence concerned is a conviction or sentence of a court-martial:
+6.—(1) Sections 2 to 5 and 7 shall have effect with the following modifications where the conviction or sentence concerned is a conviction or sentence of a court-martial:
 
 (a) the references in section 2 to a conviction or sentence shall be construed as references to a conviction or sentence of a court-martial;
 
