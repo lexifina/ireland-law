@@ -1,6 +1,6 @@
 Requirement to disclose Schedule 2 data, internet source data or cell site location data.
 
-6F.— (1) A member of the Garda Síochána, member of the Permanent Defence Force, officer of the Revenue Commissioners or officer of the Competition and Consumer Protection Authority, as the case may be, to whom an authorisation has been issued under section 6A, 6B, 6C, 6D or 6E may at any time in the period during which the authorisation has effect, by notice in writing require the service provider specified in the authorisation to disclose to the member Schedule 2 data or, as the case may be, internet source data—
+6F.— (1) A member of the Garda Síochána, member of the Permanent Defence Force, officer of the Revenue Commissioners or officer of the Competition and Consumer Protection Commission, as the case may be, to whom an authorisation has been issued under section 6A, 6B, 6C, 6D or 6E may at any time in the period during which the authorisation has effect, by notice in writing require the service provider specified in the authorisation to disclose to the member or officer concerned Schedule 2 data, internet source data or cell site location data, as the case may be—
 
 (a) of such class or classes as are specified in the authorisation and in the service provider’s possession or control, and
 

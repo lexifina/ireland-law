@@ -32,7 +32,15 @@ Authorisation to require disclosure of internet source data in case of urgency.
 
 (ii) the prevention, detection, investigation or prosecution of a revenue offence would be impeded.
 
-(4) ...
+(4) Subject to subsection (15), an officer of the Competition and Consumer Protection Commission not below the rank of assistant principal officer may apply to a superior officer for an authorisation under this section where the officer believes on reasonable grounds that—
+
+(a) paragraph (a) or (b) of section 6C(4) apply to the internet source data in respect of which the application is made, and
+
+(b) it is likely that, before the internet source data could be obtained pursuant to an authorisation under section 6C—
+
+(i) the data would be wholly or partly destroyed or otherwise rendered unavailable, or
+
+(ii) the prevention, detection, investigation or prosecution of a competition offence would be impeded.
 
 (5) A superior officer to whom an application under subsection (1), (2), (3) or (4) is made shall issue an authorisation under this section only if satisfied that—
 
@@ -74,15 +82,17 @@ Authorisation to require disclosure of internet source data in case of urgency.
 
 (c) in relation to an authorisation issued pursuant to an application under subsection (3), be submitted by the superior officer concerned to an officer of the Revenue Commissioners not below the rank of assistant secretary general;
 
-(d) ...
+(d) in relation to an authorisation issued pursuant to an application under subsection (4), be submitted by the superior officer concerned to an officer of the Competition and Consumer Protection Commission not below the rank of member of the Commission.
 
-(11) A superior officer shall, as soon as possible and, in any event, not later than 72 hours after he or she issues an authorisation under this section, apply to an authorising judge for affirmation of the authorisation.
+(11) Subject to subsection (17), a superior officer shall, as soon as possible and, in any event, not later than 72 hours after he or she issues an authorisation under this section, apply to an authorising judge for affirmation of the authorisation.
 
 (12) An application under subsection (11) for affirmation of an authorisation shall—
 
-(a) be made ex parte, and
+(a) be made ex parte,
 
-(b) be upon information on oath, specifying the grounds on which the authorisation was issued.
+(b) be upon information on oath, specifying the grounds on which the authorisation was issued, and
+
+(c) be heard otherwise than in public.
 
 (13) An authorising judge, on hearing an application under subsection (11), shall consider whether the authorisation was necessary for, and proportionate to, the purposes for which it was issued and may—
 

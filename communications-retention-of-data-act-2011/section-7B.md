@@ -40,11 +40,11 @@ Temporary Preservation Order in respect of certain Schedule 2 data in case of ur
 
 (b) it is likely that, before the Schedule 2 data could be obtained pursuant to a preservation order under section 7A—
 
-(i) the data would be wholly or partly destroyed or otherwise rendered unavailable,
+(i) the data would be wholly or partly destroyed or otherwise rendered unavailable, or
 
-(ii) the achievement of an objective specified in section 7A(5)(b) would be impeded, or
+(ii) the achievement of an objective specified in section 7A(5)(b) would be impeded.
 
-(iii) the security of the State would be likely to be compromised.
+(iii) ...
 
 (6) Subject to this section, an officer of the Revenue Commissioners not below the rank of assistant principal officer may apply to a superior officer for a temporary preservation order under subsection (8) where the officer believes on reasonable grounds that—
 
@@ -56,7 +56,15 @@ Temporary Preservation Order in respect of certain Schedule 2 data in case of ur
 
 (ii) the prevention, detection, investigation or prosecution of a revenue offence would be impeded.
 
-(7) ...
+(7) Subject to this section, an officer of the Competition and Consumer Protection Commission not below the rank of assistant principal officer may apply to a superior officer for a temporary preservation order under subsection (8) where the officer believes on reasonable grounds that—
+
+(a) paragraph (a) or (b) of section 7A(7) applies to the Schedule 2 data in respect of which the application is made, and
+
+(b) it is likely that, before the Schedule 2 data could be obtained pursuant to a preservation order under section 7A—
+
+(i) the data would be wholly or partly destroyed or otherwise rendered unavailable, or
+
+(ii) the prevention, detection, investigation or prosecution of a competition offence would be impeded.
 
 (8) A superior officer to whom an application under subsection (5), (6) or (7) is made shall make a temporary preservation order under this subsection only if satisfied that—
 
@@ -108,15 +116,17 @@ Temporary Preservation Order in respect of certain Schedule 2 data in case of ur
 
 (c) in relation to an order made pursuant to an application under subsection (6), be submitted by the superior officer concerned to an officer of the Revenue Commissioners not below the rank of assistant secretary general;
 
-(d) ...
+(d) in relation to an order made pursuant to an application under subsection (7), be submitted by the superior officer concerned to an officer of the Competition and Consumer Protection Commission not below the rank of member of the Commission.
 
-(15) Subject to subsection (18), a superior officer shall, as soon as practicable and, in any event, not later than 72 hours after he or she makes an order under this section, apply to an authorising judge for affirmation of the order.
+(15) Subject to subsection (21), a superior officer shall, as soon as practicable and, in any event, not later than 72 hours after he or she makes an order under this section, apply to an authorising judge for affirmation of the order.
 
-(16) An application under subsection (21) for affirmation of an order shall—
+(16) An application under subsection (15) for affirmation of an order shall—
 
-(a) be made ex parte, and
+(a) be made ex parte,
 
-(b) be upon information on oath, specifying the reasons for which the order was made.
+(b) be upon information on oath, specifying the reasons for which the order was made, and
+
+(c) be heard otherwise than in public.
 
 (17) An authorising judge, on hearing an application under subsection (15), shall consider whether the order was necessary for, and proportionate to, the purposes for which it was issued and may—
 

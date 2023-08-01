@@ -44,7 +44,11 @@ Preservation order in respect of certain Schedule 2 data.
 
 (b) are otherwise required to be preserved for the purpose of preventing, detecting, investigating or prosecuting a revenue offence.
 
-(7) ...
+(7) Without prejudice to section 3A, an officer of the Competition and Consumer Protection Commission not below the rank of assistant principal officer may apply to an authorising judge for a preservation order under subsection (8) where the officer is of the belief that the Schedule 2 data in respect of which the application is made—
+
+(a) relate to a person whom the officer suspects, on reasonable grounds, of having committed a competition offence, or
+
+(b) are otherwise required to be preserved for the purpose of preventing, detecting, investigating or prosecuting a competition offence.
 
 (8) An authorising judge, as respects an application under subsection (5), (6) or (7), may make a preservation order under this subsection only if satisfied that—
 
