@@ -24,7 +24,9 @@ Restrictions on possession, use, and carriage of firearms.
 
 (a) the possession or carriage of a firearm under and in accordance with a permit issued under this Act and for the time being in force;
 
-(b) the possession, use, or carriage of a firearm or ammunition by a member of the Defence Forces of Saorstát Eireann or of a lawful police force in Saorstát Eireann in the performance of his duty as such member;
+(b) the possession, use, or carriage of a firearm or ammunition by a member of the Defence Forces of Saorstát Eireann or of a lawful police force in Saorstát Eireann or by a member of the civilian staff of the Garda Síochána, in the performance of his duty as such member;
+
+(ba) the possession, use, or carriage of a firearm or ammunition by an officer of the Minister assigned to perform functions in Forensic Science Ireland, in the course of the performance by him or her of such functions;
 
 (c) the possession, use, or carriage of a firearm or ammunition by a registered firearms dealer in the ordinary course of his business as such dealer;
 
