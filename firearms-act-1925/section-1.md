@@ -32,13 +32,13 @@ Definitions and interpretation.
 
 (i) telescope sights with a light beam, or telescope sights with an electronic light amplification device or an infra-red device, designed to be fitted to a firearm specified in paragraph (a), (b), (c) or (e),
 
-1 OJ No. L 115, 6.4.2021, p.1 3 OJ No. L 96, 29.3.2014, p. 1
-
 (ii) a silencer designed to be fitted to a firearm specified in paragraph (a), (b) or (e), and
 
 (iii) any object—
 
 (I) manufactured for use as a component in connection with the operation of a firearm, and
+
+1 OJ No. L 115, 6.4.2021, p.1 3 OJ No. L 96, 29.3.2014, p. 1
 
 (II) without which it could not function as originally designed, and
 
