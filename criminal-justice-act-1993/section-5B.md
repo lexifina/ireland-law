@@ -1,4 +1,4 @@
-F9[Evidence through intermediary.
+F10[Evidence through intermediary.
 
 5B.— (1) Where a child or a person with a mental disorder is giving, or is to give evidence through a live television link, pursuant to section 5A, the court may, on the application of the prosecution or the accused, if satisfied that, having regard to the age or mental condition of the witness, the interests of justice require that any questions to be put to the witness be put through an intermediary, direct that any such questions be so put.
 

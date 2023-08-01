@@ -1,4 +1,4 @@
-F4[Effect of certain offences on persons in respect of whom committed.
+F5[Effect of certain offences on persons in respect of whom committed.
 
 5.—(1) This section applies to an offence where a natural person in respect of whom the offence has been committed, has suffered harm, including physical, mental or emotional harm, or economic loss, which was directly caused by that offence.
 
