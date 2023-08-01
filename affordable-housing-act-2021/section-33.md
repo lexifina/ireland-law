@@ -76,9 +76,11 @@ Setting and review of rent in cost rental tenancy
 
 (14) The provisions of the Act of 2004 specified in column (2) of the Table to this section at each reference number shall apply to cost rental tenancies as if the provisions of the Act of 2004 specified at the same reference number in column (3) of the Table were references to the provisions of this section specified at the same reference number in column (4) of the Table, subject, where relevant, to any proviso specified at the same reference number in column (5).
 
-Table Ref Section of Act Provisions of Act Substituted Proviso No. of 2004 of 2004 provisions of this (5) referenced section (1) (2) (3) (4)
+Table
 
-1. section section 23 subsection (13) 75(4)(b)
+Ref Section of Act Provisions of Act Substituted Proviso No. of 2004 of 2004 provisions of this (5) referenced section (1) (2) (3) (4)
+
+1. section section 23 subsection (13) 75(4)(b) Ref Section of Act Provisions of Act Substituted Proviso No. of 2004 of 2004 provisions of this (5) referenced section (1) (2) (3) (4)
 
 2. section sections 19 or as subsections (2), A referral of any such 78(1)(b) the case may be (3)(a) and (4)(a) dispute or complaint 19A must be made before—
 
