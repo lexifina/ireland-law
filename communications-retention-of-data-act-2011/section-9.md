@@ -1,12 +1,12 @@
 Statistics.
 
-9.— (1) The Garda Commissioner shall prepare and submit a report to the Minister in respect of data specified in Schedule 2 that were the subject of all disclosure requirements made by a member of the Garda Síochána under section 6(1), 6F(1), 7C(1) or 7D(1) during the relevant period.
+9.— (1) The Garda Commissioner shall prepare and submit a report to the Minister in respect of data specified in Schedule 2 that were the subject of all disclosure requirements made by a member of the Garda Síochána under section 6(1), 6F(1), 7C or 7D during the relevant period.
 
-(2) The Chief of Staff of the Permanent Defence Force shall prepare and submit a report to the Minister for Defence in respect of data specified in Schedule 2 that were the subject of all disclosure requirements made under section 6(2), 6F(1), 7C(2) or 7D(2) during the relevant period.
+(2) The Chief of Staff of the Permanent Defence Force shall prepare and submit a report to the Minister for Defence in respect of data specified in Schedule 2 that were the subject of all disclosure requirements made under section 6(2), 6F(1), 7C or 7D during the relevant period.
 
-(3) The Revenue Commissioners shall prepare and submit a report to the Minister for Finance in respect of data specified in Schedule 2 that were the subject of all disclosure requirements made under section 6(3), 6F(1), 7C(6) or 7D(6) during the relevant period.
+(3) The Revenue Commissioners shall prepare and submit a report to the Minister for Finance in respect of data specified in Schedule 2 that were the subject of all disclosure requirements made under section 6(3), 6F(1), 7C or 7D during the relevant period.
 
-(3A) The Competition and Consumer Protection Commission shall prepare and submit a report to the Minister for Jobs, Enterprise and Innovation in respect of data specified in Schedule 2 that were the subject of all disclosure requirements made under section 6(4), 6F(1), 7C(7) or 7D(7) during the relevant period.
+(3A) The Competition and Consumer Protection Commission shall prepare and submit a report to the Minister for Jobs, Enterprise and Innovation in respect of data specified in Schedule 2 that were the subject of all disclosure requirements made under section 6(4), 6F(1), 7C or 7D during the relevant period.
 
 (4) A report under subsection (1), (2), (3) or (3A) shall be submitted as soon as is practicable after the end of the relevant period.
 
@@ -16,7 +16,7 @@ Statistics.
 
 (b) the number of times when a disclosure requirement could not be met,
 
-(c) the average period of time between the date on which the retained data were first processed and the disclosure requirement.
+(c) the average period of time between the date on which the retained data were first processed and the date on which the disclosure requirement was made.
 
 (6) The Minister for Defence shall review the report submitted under subsection (2) and shall forward it to the Minister, along with any comments that he or she may have with respect to it.
 

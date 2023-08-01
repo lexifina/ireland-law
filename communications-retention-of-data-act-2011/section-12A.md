@@ -1,6 +1,6 @@
 Offences.
 
-12A.— (1) A person who contravenes sections 3(1), 3A(7), 3B(1), 6(8), 6F(2), 7A(15), 7B(23), 7C(14) or 7D(23) shall be guilty of an offence.
+12A.— (1) A person who contravenes section 3(1), 3A(7), 3B(1), 6(8), 6F(2), 7A(15), 7B(23), 7C(14) or 7D(23) shall be guilty of an offence.
 
 (2) A person guilty of an offence under this section shall be liable—
 

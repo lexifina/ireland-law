@@ -34,7 +34,7 @@ Obligation to retain Schedule 2 data.
 
 (7) A service provider shall comply with an order under subsection (5).
 
-(8) The data to which this section applies include data relating to unsuccessful call attempts that, in the case of data specified in Part 1 of Schedule 2 data, are stored in the State, or in the case of data specified in Part 2 of Schedule 2 data, are logged in the State.
+(8) The data to which this section applies include data relating to unsuccessful call attempts that, in the case of data specified in Part 1 of Schedule 2, are stored in the State, or in the case of data specified in Part 2 of Schedule 2, are logged in the State.
 
 (9) An order under this section shall not require a service provider to retain aggregated data, data that have been made anonymous or data relating to unconnected calls.
 

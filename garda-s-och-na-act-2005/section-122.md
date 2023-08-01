@@ -58,7 +58,7 @@ Regulations relating to management of Garda Síochána.
 
 (i) specified ranks and grades in the Garda Síochána,
 
-(ii) members on secondment to an international organisation under section 51(2)(b),
+(ii) members on secondment to an international organisation under section 51(2)(d)
 
 (iii) members appointed to the Garda Síochána under section 53 on secondment from the Police Service of Northern Ireland,
 

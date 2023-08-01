@@ -18,7 +18,7 @@ Regulations.
 
 (iii) the presence in the area of strategic infrastructure;
 
-(c) the procedures for making an application under sections 6, 6A, 6B, 6C, 6D, 6E, 6F, 7A, 7B, 7C or 7D.
+(c) the procedures for making a requirement under section 6 or 6F and for making an application under section 6A, 6B, 6C, 6D, 6E, 7A, 7B, 7C or 7D.
 
 (3) Without prejudice to any provision of this Act, regulations under this section may contain such incidental, supplementary and consequential provisions as appear to the Minister to be necessary or expedient for the purposes of the regulations.
 

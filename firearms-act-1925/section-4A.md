@@ -92,6 +92,8 @@ Authorisation of rifle or pistol clubs or shooting ranges.
 
 (b) on conviction on indictment, to a fine not exceeding €20,000 or imprisonment for a term not exceeding 7 years or both.
 
+(20A) This section shall not apply to a shooting range owned or operated by the Garda Síochána.
+
 (21) In this section—
 
 “firearms range certificate” means a certificate issued under section 4B(3)(a) of this Act;

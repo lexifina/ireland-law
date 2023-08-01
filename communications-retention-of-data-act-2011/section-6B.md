@@ -62,13 +62,15 @@ Authorisation to require disclosure of Schedule 2 data in case of urgency.
 
 (b) in relation to an authorisation issued pursuant to an application under subsection (2), be submitted by the superior officer concerned to a member of the Permanent Defence Force not below the rank of colonel.
 
-(9) A superior officer shall, as soon as possible and, in any event, not later than 72 hours after he or she issues an authorisation under this section, apply to an authorising judge for affirmation of the authorisation.
+(9) Subject to subsection (15), a superior officer shall, as soon as possible and, in any event, not later than 72 hours after he or she issues an authorisation under this section, apply to an authorising judge for affirmation of the authorisation.
 
 (10) An application under subsection (9) for affirmation of an authorisation shall—
 
-(a) be made ex parte, and
+(a) be made ex parte,
 
-(b) be upon information on oath, specifying the grounds on which the authorisation was issued.
+(b) be upon information on oath, specifying the grounds on which the authorisation was issued, and
+
+(c) be heard otherwise than in public.
 
 (11) An authorising judge, on hearing an application under subsection (9), shall consider whether the authorisation was necessary for, and proportionate to, the purposes for which it was issued and may—
 
@@ -88,6 +90,6 @@ Authorisation to require disclosure of Schedule 2 data in case of urgency.
 
 (a) may extend the period during which the authorisation concerned shall have effect by such further period as he or she considers necessary for, and proportionate to, the purposes for which the authorisation was issued, provided that the total period during which an authorisation to which this subsection applies shall have effect shall not exceed 96 hours from the issue of the authorisation, and
 
-(b) where he or she extends under paragraph (a) the period during which the authorisation shall have effect, shall make an application under subsection (10) before the authorisation ceases to have effect.
+(b) where he or she extends under paragraph (a) the period during which the authorisation shall have effect, shall make an application under subsection (9) before the authorisation ceases to have effect.
 
 (16) This section shall apply to Schedule 2 data irrespective of whether an order under section 3A is in effect in relation to such data.
