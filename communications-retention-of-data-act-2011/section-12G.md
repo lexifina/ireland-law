@@ -32,8 +32,8 @@ Notification of data subject.
 
 (a) an authorisation issued under section 6A(5),
 
-(b) an authorisation affirmed or varied under section 6B(11),
+(b) an authorisation issued under section 6B,
 
 (c) a production order made under section 7C(3), or
 
-(d) a production order affirmed or varied under section 7D(17).
+(d) a temporary production order made under section 7D(3).

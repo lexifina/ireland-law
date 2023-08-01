@@ -84,7 +84,7 @@ Interpretation.
 
 (c) in relation to an officer of the Revenue Commissioners, an officer of the Revenue Commissioners not below the rank of principal officer;
 
-(d) ...
+(d) in relation to an officer of the Competition and Consumer Protection Commission, an officer of the Competition and Consumer Protection Commission not below the rank of principal officer;
 
 “telephone service” means calls (including voice, voicemail, conference and data calls), supplementary services (including call forwarding and call transfer) and messaging and multimedia services (including short message services, enhanced media services and multi-media services);
 

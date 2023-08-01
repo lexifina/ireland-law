@@ -24,9 +24,17 @@ Requirement to disclose user data.
 
 (b) where the member has reasonable grounds for believing that the data are otherwise required for the purpose of safeguarding the security of the State.
 
-(3) ...
+(3) An officer of the Revenue Commissioners not below the rank of principal officer may require a service provider to disclose to that officer user data in the possession or control of the service provider—
 
-(4) ...
+(a) where the officer believes that the data relate to a person whom the officer suspects, on reasonable grounds, of having committed a revenue offence, or
+
+(b) where the officer has reasonable grounds for believing that the data are otherwise required for the purpose of preventing, detecting, investigating or prosecuting a revenue offence.
+
+(4) An officer of the Competition and Consumer Protection Commission not below the rank of principal officer may require a service provider to disclose to that officer user data in the possession or control of the service provider—
+
+(a) where the officer believes that the data relate to a person whom the officer suspects, on reasonable grounds, of having committed a competition offence, or
+
+(b) where the officer has reasonable grounds for believing that the data are otherwise required for the purpose of preventing, detecting, investigating or prosecuting a competition offence.
 
 (5) Subject to subsection (6), a requirement under this section shall be given to a service provider by notice in writing.
 
