@@ -1,4 +1,4 @@
-F30[Restricted firearms and ammunition.
+F32[Restricted firearms and ammunition.
 
 2B.— The Minister may, in the interests of public safety and security, by order—
 

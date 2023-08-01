@@ -1,4 +1,4 @@
-F27[Firearms training certificate.
+F29[Firearms training certificate.
 
 2A.— (1) The Commissioner, on application and payment of the prescribed fee (if any), may issue to a person over 14 years of age a certificate (in this Act referred to as a “firearms training certificate”) authorising the person to possess a firearm and ammunition (except a restricted firearm and restricted ammunition or a firearm to which section 2D(2) ... applies and ammunition for such a firearm) only while—
 

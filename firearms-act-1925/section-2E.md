@@ -1,4 +1,4 @@
-F33[Restriction on licensing of certain firearms.
+F35[Restriction on licensing of certain firearms.
 
 2E. (1) On and from 1 September 2019, no application for a firearm certificate in respect of a firearm classified in Category A of the Directive shall be considered by an issuing person.
 

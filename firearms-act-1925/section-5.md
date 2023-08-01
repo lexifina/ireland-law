@@ -1,4 +1,4 @@
-F49[Revocation of firearm certificates.
+F56[Revocation of firearm certificates.
 
 5.— (1) An issuing person may at any time revoke a firearm certificate granted by the person if satisfied that the holder of the certificate—
 

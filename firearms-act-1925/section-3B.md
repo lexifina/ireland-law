@@ -1,4 +1,4 @@
-F39[Payment of fees for prescribed firearm certificates.
+F41[Payment of fees for prescribed firearm certificates.
 
 3B.— (1) A prescribed fee is payable on the grant or renewal of a prescribed firearm certificate.
 

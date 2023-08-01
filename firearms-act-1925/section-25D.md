@@ -1,4 +1,4 @@
-F105[Liability of officers of bodies corporate.
+F115[Liability of officers of bodies corporate.
 
 25D.— (1) Where—
 
