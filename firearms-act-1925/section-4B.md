@@ -1,4 +1,4 @@
-F46[Firearms range inspectors.
+F51[Firearms range inspectors.
 
 4B.— (1) The Minister may by warrant appoint such and so many persons as he or she thinks necessary to be firearms range inspectors and may revoke any such appointment.
 
@@ -6,7 +6,7 @@ F46[Firearms range inspectors.
 
 (a) to examine applications for the certification of rifle and pistol shooting ranges, and
 
-(b) to inspect rifle and pistol shooting ranges for the purpose of ensuring their compliance with the minimum standards provided for in regulations under section 4A(13) of this Act.
+(b) to inspect rifle and pistol shooting ranges for the purpose of ensuring their compliance with the minimum standards provided for in regulations under section 4A(13) or section 4AA(1) of this Act.
 
 (3) After inspecting a rifle or pistol shooting range, an inspector may—
 
