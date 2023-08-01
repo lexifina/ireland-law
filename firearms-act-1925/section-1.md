@@ -38,6 +38,8 @@ Definitions and interpretation.
 
 (I) manufactured for use as a component in connection with the operation of a firearm, and
 
+1 OJ No. L 115, 6.4.2021, p.1 3 OJ No. L 96, 29.3.2014, p. 1
+
 (II) without which it could not function as originally designed, and
 
 (h) a device capable of discharging blank ammunition and to be used as a starting gun or blank firing gun, and includes a restricted firearm, unless otherwise provided or the context otherwise requires;
