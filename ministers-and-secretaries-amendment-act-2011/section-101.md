@@ -16,7 +16,7 @@ Independence of Revenue Commissioners.
 
 (d) the Tax Acts,
 
-(e) Part 18A, 18B, 18C or 18D of the Taxes Consolidation Act 1997,
+(e) Part 18A, 18B, 18C, 18D or 18E of the Taxes Consolidation Act 1997,
 
 (ea) Part 22A of the Taxes Consolidation Act 1997,
 
@@ -29,6 +29,8 @@ Independence of Revenue Commissioners.
 (h) the Value-Added Tax Consolidation Act 2010 or any statute amending, or extending the application of, that Act,
 
 (ha) the Finance (Local Property Tax) Act 2012, or any statute amending, or extending the application of, that Act,
+
+(hb) the Energy (Windfall Gains in the Energy Sector) (Temporary Solidarity Contribution) Act 2023,
 
 (i) any instrument made under any of the foregoing statutes, or
 
