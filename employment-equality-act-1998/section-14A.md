@@ -44,6 +44,4 @@ F32[Harassment and sexual harassment.
 
 (ii) references to sexual harassment are to any form of unwanted verbal, non-verbal or physical conduct of a sexual nature, being conduct which in either case has the purpose or effect of violating a person’s dignity and creating an intimidating, hostile, degrading, humiliating or offensive environment for the person.
 
-(b) Without prejudice to the generality of paragraph (a), such unwanted conduct may consist of acts, requests, spoken words, gestures or the production, display or circulation of written words, pictures or other material.
-
-Vicarious Liability etc.
+(b) Without prejudice to the generality of paragraph (a), such unwanted conduct may consist of acts, requests, spoken words, gestures or the production, display or circulation of written words, pictures or other material. Vicarious Liability etc.
