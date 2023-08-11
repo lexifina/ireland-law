@@ -1,6 +1,6 @@
 General practitioner medical and surgical service for persons under 6 years of age.
 
-58B. (1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is ordinarily resident in the State and has not attained the age of six years.
+58B.—(1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is ordinarily resident in the State and has not attained the age of eight years.
 
 (2) The parent or guardian of a person shall, when requested to do so by the Health Service Executive, furnish to the Health Service Executive such information as the Health Service Executive considers necessary for it to establish that the person is, or continues to be, entitled under subsection (1) to the service referred to in that subsection.
 

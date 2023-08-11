@@ -14,4 +14,4 @@ General practitioner medical and surgical service.
 
 (3) Insofar as it is considered practicable by the Health Service Executive, a choice of medical practitioner shall be offered under the general practitioner medical and surgical service made available under this section.
 
-(4) For the purposes of this section, a person shall be deemed not to come within a category mentioned in paragraph (a) or (c) of subsection (1) for so long as that person has not attained the age of six years.
+(4) For the purposes of this section, a person shall be deemed not to come within a category mentioned in paragraph (a) or (c) of subsection (1) for so long as that person has not attained the age of eight years.
