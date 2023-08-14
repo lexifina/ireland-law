@@ -664,7 +664,9 @@ Provision supplementing section 291
 
 (a) a notice or an invitation in a notice under section 291, or
 
-(b) an invitation under this section, whichever occurs later, make a decision under section 293 in relation to the application. (6) (a) The making of submissions or observations by the Maritime Area Regulatory Authority under this section shall not prejudice the performance by it of any of its other functions.
+(b) an invitation under this section, whichever occurs later, make a decision under section 293 in relation to the application.
+
+(6) (a) The making of submissions or observations by the Maritime Area Regulatory Authority under this section shall not prejudice the performance by it of any of its other functions.
 
 (b) The making of submissions or observations by a coastal planning authority under this section shall not prejudice the performance by it of any of its other functions.
 
