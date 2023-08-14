@@ -30,8 +30,8 @@ Fees for licences
 
 (7) In this section, “relevant applications” means—
 
-(a) applications under section 115 ,
+(a) applications under section 115,
 
 (b) licence applications, or
 
-(c) applications under section 126 .
+(c) applications under section 126.
