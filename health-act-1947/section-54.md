@@ -32,8 +32,8 @@ F108[Regulations for prevention of danger from food and drink.
 
 "persons operating in the retail, restaurant or catering sectors" includes food business operators within the meaning of Article 3 of the European Parliament and Council Regulation (EC) No. 178/2002 of 28 January 2002 ;
 
-OJ L31, 01.02.2002, p.1
-
 "protection of consumer interests" includes all measures for the prohibition or prevention of the processing, storage, transport, distribution, trading or selling to the prejudice of the consumer of any food which is not of the nature, substance or quality demanded by the consumer;
 
 "repealed section" means section 54 of this Act as in force immediately before the commencement of this section.
+
+OJ L31, 01.02.2002, p.1
