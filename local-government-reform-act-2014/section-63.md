@@ -8,7 +8,9 @@ Regional assemblies and regional spatial and economic strategy
 
 ## Regional Spatial and Economic Strategy
 
-Power to make regional spatial and economic strategy 21. (1) A regional assembly—
+Power to make regional spatial and economic strategy
+
+21. (1) A regional assembly—
 
 (a) may make a regional spatial and economic strategy—
 
@@ -96,7 +98,9 @@ Content and objectives of regional spatial and economic strategy
 
 (ii) enhancing overall regional economic performance by identifying regional strengths and opportunities having regard to economic and employment trends and the means of maintaining and augmenting regional economic performance,
 
-(iii) proposals for augmenting the economic performance of the region across all relevant economic sectors including, in particular, the foreign direct investment, indigenous industry, small and medium enterprise, tourism, agriculture, forestry, marine and other natural resource sectors, iv) enhancing regional innovation capacity, including investment in research and development capacity, technology transfer between third level education and enterprise, and up-skilling and re-skilling,
+(iii) proposals for augmenting the economic performance of the region across all relevant economic sectors including, in particular, the foreign direct investment, indigenous industry, small and medium enterprise, tourism, agriculture, forestry, marine and other natural resource sectors,
+
+(iv) enhancing regional innovation capacity, including investment in research and development capacity, technology transfer between third level education and enterprise, and up-skilling and re-skilling,
 
 (v) identifying the regional attributes that are essential to enhancing regional economic performance, including—
 
@@ -198,7 +202,9 @@ Consultation regarding regional spatial and economic strategy
 
 (7) When a regional assembly (other than the regional assemblies in respect of the GDA) prepares the draft of the regional spatial and economic strategy it shall include a statement in that draft on the actions being taken or proposed to ensure effective integration of transport and land use planning, including in particular—
 
-(a) a statement explaining how it proposes to address the matters identified in the report of the NTA prepared in accordance with section 31FF, and b) where it does not propose to address, or proposes to only partially address, any matter identified in the report of the NTA prepared in accordance with section 31FF, a statement of the reasons for that course of action.
+(a) a statement explaining how it proposes to address the matters identified in the report of the NTA prepared in accordance with section 31FF, and
+
+(b) where it does not propose to address, or proposes to only partially address, any matter identified in the report of the NTA prepared in accordance with section 31FF, a statement of the reasons for that course of action.
 
 (8) (a) Subject to paragraphs (b) and (e), following consideration of submissions or observations under subsection (5), and subject to section 25, the regional assembly shall, subject to any amendments that it considers necessary, make the regional spatial and economic strategy.
 
@@ -362,9 +368,9 @@ Role of regional assembly in variation of development plan
 
 (5) The Planning and Development Act 2000 is amended by inserting the following after section 268:
 
-“Transitional provisions consequent on Local Government Reform Act
+“Transitional provisions consequent on Local Government Reform
 
-2014
+## Act 2014
 
 268A. (1) In this section—
 

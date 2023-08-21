@@ -52,9 +52,7 @@ Interpretation (Chapter 2)
 
 ‘Plan’ means the local economic and community plan to which section 66B relates;
 
-‘publicly funded body’ means a body whose funds, directly or indirectly and in whole or in part, come out of moneys provided by the Oireachtas for the purpose of performing its functions;
-
-‘representatives of local community interests’, in relation to the functional area of a Committee, means persons who are representative of community interests that are concerned with promoting the development of aspects of those interests within that area and such representatives may include representatives of non-governmental organisations, development agencies, community-based groups, recognised associations for the purposes of section 128, youth organisations, cultural bodies, sporting bodies and social movements and networks.
+‘publicly funded body’ means a body whose funds, directly or indirectly and in whole or in part, come out of moneys provided by the Oireachtas for the purpose of performing its functions; ‘representatives of local community interests’, in relation to the functional area of a Committee, means persons who are representative of community interests that are concerned with promoting the development of aspects of those interests within that area and such representatives may include representatives of non-governmental organisations, development agencies, community-based groups, recognised associations for the purposes of section 128, youth organisations, cultural bodies, sporting bodies and social movements and networks.
 
 Functions of Local Community Development Committees
 
@@ -134,7 +132,7 @@ Membership of Local Community Development Committees
 
 (e) individuals acting in a private capacity who are or have been members or otherwise associated with any body (however described) of a type referred to in the definition of ‘local community representatives’ in section 128A,
 
-(f) representatives of publicly funded or supported local development bodies concerned with promoting the interests of local communities, and
+(f ) representatives of publicly funded or supported local development bodies concerned with promoting the interests of local communities, and
 
 (g) such other persons or bodies (if any) as may be provided for by such regulations made, or general policy guidelines issued, by the Minister under section 128E.
 
@@ -182,7 +180,7 @@ Regulations and general policy guidelines
 
 (e) the carrying out, management and control of the administration and business of a Committee and any administrative, secretarial and other support of a Committee, including the delegation of functions by the chief executive for the purposes of such support, and
 
-(f) meetings and proceedings of the Committee, including arrangements relating to scheduling and notification of meetings and meeting agendas.
+(f ) meetings and proceedings of the Committee, including arrangements relating to scheduling and notification of meetings and meeting agendas.
 
 (3) The Minister may, following consultation with such public authorities as the Minister considers appropriate, issue general policy guidelines for the purposes of any provision of this Chapter and section 49A and each Committee shall, to the extent that those guidelines apply to it, comply with those guidelines.
 
@@ -196,9 +194,7 @@ Regulations and general policy guidelines
 
 (d) persons or bodies who may be considered for nomination to Committees and to whom section 128C(2)(g) relates,
 
-(e) the representation of members of the local authority or its officials,
-
-(f) the representation of non-governmental organisations, development agencies, community-based groups, recognised associations for the purposes of section 128, cultural bodies, sporting bodies and social movements and networks,
+(e) the representation of members of the local authority or its officials, (f ) the representation of non-governmental organisations, development agencies, community-based groups, recognised associations for the purposes of section 128, cultural bodies, sporting bodies and social movements and networks,
 
 (g) procedures and processes for establishing and managing working groups of Committees,
 

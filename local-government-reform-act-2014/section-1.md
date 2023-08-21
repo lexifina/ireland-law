@@ -34,7 +34,7 @@ Short title, collective citations, constructions and commencement
 
 (16) This subsection, the amendment to the National Monuments Act 1930 provided for in section 5(6) and Part 6 of Schedule 2 and the National Monuments Acts 1930 to 2004may be cited together as the National Monuments Acts 1930 to 2014.
 
-(17) This subsection, the amendments to the Protection of Employees (Part-Time Work) Act 2001 and the Protection of Employment Act 1977 provided for in section 5(6) and Part 6 of Schedule 2, and the Protection of Employment Acts 1977 to 2007 shall be construed together as one and may be cited together as the Protection of Employment Acts 1977 to 2014.
+(17) This subsection, the amendments to the Protection of Employees (Part- Time Work) Act 2001 and the Protection of Employment Act 1977 provided for in section 5(6) and Part 6 of Schedule 2, and the Protection of Employment Acts 1977 to 2007 shall be construed together as one and may be cited together as the Protection of Employment Acts 1977 to 2014.
 
 (18) This subsection, the amendments to the Protection of Employment (Exceptional Collective Redundancies and Related Matters) Act 2007 and the Unfair Dismissals Act 1977 provided for in section 5(6) and Part 6 of Schedule 2, and the Unfair Dismissals Acts 1977 to 2007 shall be construed together as one and may be cited together as the Terms of Employment (Information) Acts 1994 to 2014.
 

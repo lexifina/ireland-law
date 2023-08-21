@@ -4,7 +4,9 @@ Consequential Provisions Relating to Local Authorities
 
 Definition (Schedule 4).
 
-1. In this Schedule “relevant day or date” means the 2014 establishment day or the transfer date, as the circumstances require. Transfer of assets.
+1. In this Schedule “relevant day or date” means the 2014 establishment day or the transfer date, as the circumstances require.
+
+Transfer of assets.
 
 2. (1) All assets, whether real or personal (including choses-in-action) which, immediately before the relevant day or date, were vested in or belonged to or were held in trust for a dissolved authority and all rights, powers, licences and privileges relating to or connected with any such assets shall, on the relevant day or date, without any conveyance or assignment, but subject where necessary to transfer in the books of any bank, corporation or company, be transferred to and become and be vested in or the property of or held in trust for (as the case may require) the successor authority to such dissolved authority for all the estate, term or interest for which the same, immediately before their dissolution, was vested in or belonged to or was held in trust for such dissolved authority but subject to all trusts and equities affecting the same and then subsisting and capable of being performed.
 
@@ -70,7 +72,9 @@ Transfer of staff.
 
 “recognised trade union or staff association” means a trade union or staff association recognised by the Minister for the purpose of negotiations which are concerned with the remuneration or conditions of employment, or the working conditions of employees;
 
-“previous service with the dissolved authority” includes an entitlement in respect of any service for which the dissolved authority is duly accountable. Preservation of continuing contracts.
+“previous service with the dissolved authority” includes an entitlement in respect of any service for which the dissolved authority is duly accountable.
+
+Preservation of continuing contracts.
 
 5. Every bond, guarantee or other security of a continuing character made or given by a dissolved authority to another person or by any person to any dissolved authority and in force immediately before the relevant day or date and every contract or agreement in writing made between any dissolved authority and another person and not fully executed and completed before the relevant day or date shall, notwithstanding the dissolution of the authority concerned, continue in force on and after the relevant day or date but shall be construed and have effect as if the name of the successor authority to the dissolved authority were substituted therein for the name of that dissolved authority, and such security, contract or agreement shall be enforceable by or against the successor authority accordingly.
 

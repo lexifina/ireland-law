@@ -50,9 +50,15 @@ Amendment to Chapter 1 (financial procedures) of Part 12 of Principal Act
 
 (h) in section 103 by substituting the following for subsection (9):
 
-“(9) Notwithstanding the other provisions of this section and section 102, a local authority budget may be adopted and the annual rate on valuation determined (including, where appropriate, having regard to the base year adjustment determined in accordance with section 29 of the Local Government Reform Act 2014) in the local financial year to which that budget or that rate applies, where this is in accordance with the period directed by the Minister for holding the local authority budget meeting.”, (i) by inserting the following new section after section 103:
+“(9) Notwithstanding the other provisions of this section and section 102, a local authority budget may be adopted and the annual rate on valuation determined (including, where appropriate, having regard to the base year adjustment determined in accordance with section 29 of the Local Government Reform Act 2014) in the local financial year to which that budget or that rate applies, where this is in accordance with the period directed by the Minister for holding the local authority budget meeting.”,
 
-“Schedule of municipal district works 103A. (1) As soon as may be following the adoption of the local authority budget, a schedule of proposed works of maintenance and repair to be carried out during the financial year in each municipal district shall be prepared under the direction of the chief executive, having regard to the availability of resources, in the manner, format and within the timescale that may be prescribed by regulations made by the Minister. (2) A schedule prepared for the purposes of subsection (1) shall be considered by the municipal district members concerned and be adopted by resolution, with or without amendment by it, within such time limit and in accordance with such conditions and requirements as may be prescribed by the regulations made by the Minister.
+(i) by inserting the following new section after section 103:
+
+“Schedule of municipal district works
+
+103A. (1) As soon as may be following the adoption of the local authority budget, a schedule of proposed works of maintenance and repair to be carried out during the financial year in each municipal district shall be prepared under the direction of the chief executive, having regard to the availability of resources, in the manner, format and within the timescale that may be prescribed by regulations made by the Minister.
+
+(2) A schedule prepared for the purposes of subsection (1) shall be considered by the municipal district members concerned and be adopted by resolution, with or without amendment by it, within such time limit and in accordance with such conditions and requirements as may be prescribed by the regulations made by the Minister.
 
 (3) In making an amendment under subsection (2) the municipal district members shall have due regard to the local authority budget adopted in accordance with section 103(9).
 

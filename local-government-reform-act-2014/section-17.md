@@ -18,7 +18,9 @@ Table
 
 Column 1 Column 2
 
-Dissolved authority Successor authority Limerick City Council Limerick City and County Council
+Dissolved authority Successor authority
+
+Limerick City Council Limerick City and County Council
 
 Limerick County Council Limerick City and County Council
 

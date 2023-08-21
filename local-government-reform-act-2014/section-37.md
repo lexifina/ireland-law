@@ -16,11 +16,11 @@ Alternative titles to Cathaoirleach and Leas-Chathaoirleach, etc.
 
 (c) a municipal district contains the area of a town (including all the environs of the town for the purposes of the census of population concerned) the population of which, when rounded to the nearest 1,000 as shown in the latest census report of the Central Statistics Office, is equal to or greater than 20,000, then the municipal district members for such district may decide by resolution to use the title ‘Mayor’ or ‘Deputy Mayor’, to describe its office of Cathaoirleach or Leas-Chathaoirleach notwithstanding the provisions of section 31 (as amended by the Local Government Reform Act 2014).
 
-(2) A local authority or the municipal district members, to which subsection (1) or (1A) (respectively) relates, may by resolution give the title Cathaoirleach or Leas- Chathaoirleach to the Lord Mayor or Deputy Lord Mayor, Mayor or Deputy Mayor, as the case may be, and in that case shall be styled in accordance with section 31.
+(2) A local authority or the municipal district members, to which subsection (1) or (1A) (respectively) relates, may by resolution give the title Cathaoirleach or Leas-Chathaoirleach to the Lord Mayor or Deputy Lord Mayor, Mayor or Deputy Mayor, as the case may be, and in that case shall be styled in accordance with section 31.
 
 (3) Where titles are continued in accordance with subsection (1) or (1A), the holders of the offices concerned shall, as appropriate, be styled—
 
-(a) in the case of Cork City Council, in the Irish language ‘Ard-Mhéara Chathair Chorcaí’ and ‘Leas-Ardmhéara Chathair Chorcaí’, and in the English language ‘Lord Mayor of the City of Cork’ and ‘Deputy Lord Mayor of the City of Cork’,
+(a) in the case of Cork City Council, in the Irish language ‘Ard- Mhéara Chathair Chorcaí’ and ‘Leas-Ardmhéara Chathair Chorcaí’, and in the English language ‘Lord Mayor of the City of Cork’ and ‘Deputy Lord Mayor of the City of Cork’,
 
 (b) in the case of Dublin City Council, in the Irish language ‘Ard- Mhéara Chathair Bhaile Átha Cliath’ and ‘Leas-Ardmhéara Chathair Bhaile Átha Cliath’, and in the English language ‘Lord Mayor of the City of Dublin’ and ‘Deputy Lord Mayor of the City of Dublin’,
 
@@ -28,13 +28,13 @@ Alternative titles to Cathaoirleach and Leas-Chathaoirleach, etc.
 
 (d) in the case of a municipal district to which subsection (1A) relates, in the Irish language ‘Méara.......’ and ‘Leas-Mhéara.......’ followed by the name of the municipal district in Irish, and in the English language ‘Mayor of.......’ and ‘Deputy Mayor of........’ followed by the name of the municipal district in English in accordance with subsections (2) and (3) of section 22A.
 
-(4) Notwithstanding section 31 a local authority which is a city and county council may, subject to Schedule 8, give an alternative title to its Cathaoirleach or Leas- Chathaoirleach or revert to the title or titles of Cathaoirleach or Leas-Chathaoirleach as the case may be.”.
+(4) Notwithstanding section 31 a local authority which is a city and county council may, subject to Schedule 8, give an alternative title to its Cathaoirleach or Leas-Chathaoirleach or revert to the title or titles of Cathaoirleach or Leas-Chathaoirleach as the case may be.”.
 
 (2) The Principal Act is amended by substituting the following for Schedule 8:
 
 “SCHEDULE 8 Section 32(4) Alternative Titles to Cathaoirleach and Leas-Chathaoirleach, etc.
 
-1. A local authority which is a city and county council may by resolution give to the office of its Cathaoirleach or Leas-Chathaoirleach the following titles:
+1. A local authority which is a city and county council may by resolution give to the office of its Cathaoirleach or Leas- Chathaoirleach the following titles:
 
 (a) in the Irish language the title of ‘Méara’ or ‘Leas- Mhéara’, respectively, and
 

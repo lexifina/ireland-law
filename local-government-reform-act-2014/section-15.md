@@ -10,11 +10,11 @@ Number of members of local authorities
 
 (b) by substituting the following for Schedule 7:
 
-“SCHEDULE 7 Section 21 Number of Members of Local Authorities
+“SCHEDULE 7 Section 21
 
-## PART 1 County Council Number of Members
+Number of Members of Local Authorities
 
-County Council Number of Members
+## PART 1 County Council Number of Members County Council Number of Members
 
 Carlow 18
 
@@ -26,7 +26,9 @@ Cork 55
 
 Donegal 37
 
-Dun Laoghaire-Rathdown 40 Fingal 40
+Dun Laoghaire-Rathdown 40
+
+Fingal 40
 
 Galway 39
 

@@ -8,7 +8,9 @@ Municipal districts
 
 “PART 3A
 
-Municipal Districts Municipal districts
+Municipal Districts
+
+Municipal districts
 
 22A. (1) Subject to subsection (4), every county and city and county set out in Part 1 and Part 3, respectively, of Schedule 5 shall have 2 or more districts (each consisting of one or more than one local electoral area) to be known as a municipal district and collectively as municipal districts, as the Minister shall determine by order made under section 23(1)(c).
 
@@ -38,7 +40,7 @@ Municipal Districts Municipal districts
 
 (b) in the English language, as ‘the Municipal District of.................’ followed by the name of the municipal district in English.
 
-(4) Subsection (1) does not apply in the case of the counties of Dun Laoghaire- Rathdown, Fingal and South Dublin.
+(4) Subsection (1) does not apply in the case of the counties of Dun Laoghaire-Rathdown, Fingal and South Dublin.
 
 (5) This section has effect in respect of the local elections for the year 2014 and subsequent local elections and, accordingly—
 
