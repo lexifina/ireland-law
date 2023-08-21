@@ -56,7 +56,7 @@ Corcaigh Comhairle Contae Chorcaí
 
 Dún na nGall Comhairle Contae Dhún na nGall
 
-Dún Laoghaire-Ráth an Dúin Comhairle Contae Dhún Laoghaire-Ráth an Dúin
+Dún Laoghaire- Comhairle Contae Dhún Laoghaire-Ráth an Ráth an Dúin Dúin
 
 Fine Gall Comhairle Contae Fhine Gall
 
@@ -90,7 +90,7 @@ Ros Comáin Comhairle Contae Ros Comáin
 
 Sligeach Comhairle Contae Shligigh
 
-Baile Átha Cliath Theas Comhairle Contae Baile Átha Cliath Theas
+Baile Átha Cliath Comhairle Contae Baile Átha Cliath Theas Theas
 
 An Iarmhí Comhairle Contae na hIarmhí
 
@@ -110,7 +110,7 @@ Cavan Cavan County Council
 
 Clare Clare County Council
 
-Cork Cork County Council
+Cork Cork County Council Name of County Name of Local Authority of County
 
 Donegal Donegal County Council
 

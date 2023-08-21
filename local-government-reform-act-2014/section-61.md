@@ -4,9 +4,11 @@ National Oversight and Audit Commission
 
 61. (1) The Principal Act is amended by inserting the following Part after Part 12:
 
-## “PART 12A
+## “PART 12A National Oversight and Audit Commission
 
-National Oversight and Audit Commission Interpretation (Part 12A) 126A. In this Part—
+Interpretation (Part 12A)
+
+126A. In this Part—
 
 ‘appropriate Minister’ means any Minister of the Government (other than the Minister)—
 
@@ -28,11 +30,15 @@ National Oversight and Audit Commission Interpretation (Part 12A) 126A. In this 
 
 ‘report’, in relation to a report of the Commission other than its annual report, means a report or information under section 126C(1) (i) or a report under section 126D.
 
-Establishment of Commission 126B. (1) The Minister shall by order establish a body to be known as the National Oversight and Audit Commission (in this Part referred to as the ‘Commission’) to perform the functions assigned to it by this Part.
+Establishment of Commission
+
+126B. (1) The Minister shall by order establish a body to be known as the National Oversight and Audit Commission (in this Part referred to as the ‘Commission’) to perform the functions assigned to it by this Part.
 
 (2) The Commission and its members are independent in the performance of their functions.
 
-Functions of Commission 126C. (1) The functions of the Commission are as follows:
+Functions of Commission
+
+126C. (1) The functions of the Commission are as follows:
 
 (a) to scrutinise the performance of any local government body against or in comparison with any indicative matter (in this Part referred to as ‘relevant indicators’) that—
 
@@ -52,11 +58,7 @@ Functions of Commission 126C. (1) The functions of the Commission are as follows
 
 (g) to monitor the adequacy of the corporate plan prepared—
 
-(i) by a regional assembly pursuant to section 43 (as amended by the
-
-Local Government Reform Act
-
-2014) of the Local Government Act 1991, and
+(i) by a regional assembly pursuant to section 43 (as amended by the Local Government Reform Act 2014) of the Local Government Act 1991, and
 
 (ii) by a council pursuant to section 134, and to evaluate implementation of such plans either generally or in respect of any local government body or class of such bodies;
 
@@ -70,7 +72,9 @@ Local Government Reform Act
 
 (b) An order under paragraph (a) may contain such incidental, supplementary and additional provisions as may, in the opinion of the Minister, be necessary to give full effect to the order.
 
-Reports to Minister or appropriate Minister 126D. (1) The Minister or an appropriate Minister may in writing request the Commission to prepare a report on any matter to which the functions of the Commission relate in respect of any aspect of local government specified by the Minister or the appropriate Minister, as the case may be, in respect of which he or she performs functions or has general responsibilities.
+Reports to Minister or appropriate Minister
+
+126D. (1) The Minister or an appropriate Minister may in writing request the Commission to prepare a report on any matter to which the functions of the Commission relate in respect of any aspect of local government specified by the Minister or the appropriate Minister, as the case may be, in respect of which he or she performs functions or has general responsibilities.
 
 (2) A request under subsection (1) shall relate to one or more local government bodies specified in the request or to a class of such bodies so specified.
 
@@ -114,7 +118,9 @@ Reports to Minister or appropriate Minister 126D. (1) The Minister or an appropr
 
 (9) A local authority or regional assembly which is the subject of a report, or is an authority or assembly that exercises actual or effective control over a local government body which is the subject of a report, published under this section shall, in its annual report, include reference to the steps taken in relation to that report during the period to which the annual report relates.
 
-Requests for information, etc., made to local government body, etc. 126E. (1) It is the duty of every local government body—
+Requests for information, etc., made to local government body, etc.
+
+126E. (1) It is the duty of every local government body—
 
 (a) to have due regard to a request made to it by the Commission for any information, document or thing, which in the opinion of the Commission is relevant to assist the Commission in the performance of its functions, and
 
@@ -128,9 +134,13 @@ Requests for information, etc., made to local government body, etc. 126E. (1) It
 
 (3) Nothing in this section shall be read as requiring the disclosure of confidential information, the disclosure of which would be in breach of non-disclosure obligations provided for by law or the disclosure of commercially sensitive information.
 
-Requests for information, etc., made to certain public authorities 126F. A public authority to which section 126E does not apply shall have due regard to a request made to it by the Commission for any information, document or thing, which in the opinion of the Commission is relevant to assist the Commission in the performance of its functions, and to use its best endeavours to facilitate such a request.
+Requests for information, etc., made to certain public authorities
 
-Submissions to Commission 126G. (1) The Commission may give public notice of its intention to prepare a report (in this section referred to as a ‘proposed report’) to which section 126C(1) (i) or 126D relates.
+126F. A public authority to which section 126E does not apply shall have due regard to a request made to it by the Commission for any information, document or thing, which in the opinion of the Commission is relevant to assist the Commission in the performance of its functions, and to use its best endeavours to facilitate such a request.
+
+Submissions to Commission
+
+126G. (1) The Commission may give public notice of its intention to prepare a report (in this section referred to as a ‘proposed report’) to which section 126C(1) (i) or 126D relates.
 
 (2) The public notice referred to in subsection (1), which shall be published in a newspaper circulating in the area to which the subject matter of the proposed report relates, shall indicate that—
 
@@ -146,7 +156,9 @@ Submissions to Commission 126G. (1) The Commission may give public notice of its
 
 (b) where not published by the Commission on its internet website, the Commission shall permit a copy of such submissions or of extracts from them to be taken on payment of a fee which shall not exceed the reasonable cost of copying the submissions.
 
-Members of Commission 126H. (1) Subject to subsection (4) and section 126I(7), the Commission consists of not more than 9 but not less than 6 members, one of whom shall be the chairperson of the Commission.
+Members of Commission
+
+126H. (1) Subject to subsection (4) and section 126I(7), the Commission consists of not more than 9 but not less than 6 members, one of whom shall be the chairperson of the Commission.
 
 (2) The chairperson of the Commission shall be appointed by the Minister.
 
@@ -174,7 +186,9 @@ Members of Commission 126H. (1) Subject to subsection (4) and section 126I(7), t
 
 (7) The Minister, to the extent practicable, shall endeavour to ensure that there is an equitable balance between men and women in the membership of the Commission.
 
-Eligibility and tenure of office of members, etc. 126I. (1) A person appointed to be a member of the Commission holds office as such member for such period, terms and conditions as may be specified by the Minister at the time of his or her appointment.
+Eligibility and tenure of office of members, etc.
+
+126I. (1) A person appointed to be a member of the Commission holds office as such member for such period, terms and conditions as may be specified by the Minister at the time of his or her appointment.
 
 (2) The chairperson and any other member of the Commission may be paid, out of moneys at the disposal of the Minister, such remuneration (if any) and allowances for expenses incurred by the member as the Minister, with the consent of the Minister for Public Expenditure and Reform, may determine.
 
@@ -189,6 +203,8 @@ Eligibility and tenure of office of members, etc. 126I. (1) A person appointed t
 (i) is nominated as a member of Seanad Éireann,
 
 (ii) is elected as a member of either House of the Oireachtas or as a member of the European Parliament,
+
+(iii) is regarded under Part XIII of the Second Schedule to the European Parliament Elections Act 1997, as having been elected to the European Parliament to fill a vacancy,
 
 (iv) becomes a member of a regional assembly, or
 

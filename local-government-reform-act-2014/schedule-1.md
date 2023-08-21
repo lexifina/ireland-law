@@ -10,11 +10,9 @@ Reference Provision Amendment No. (2) (3) (1)
 
 1 Section 2(1)
 
-Before definition of Insert: “Act of 2000” “‘2014 establishment day’ means the day appointed by order under section 8 of the Local
+Before Insert: definition “‘2014 establishment day’ means the of “Act of day appointed by order under section 8 2000” of the Local Government Reform Act 2014 to be the establishment day for the purposes of that Act;”.
 
-Government Reform Act 2014 to be the establishment day for the purposes of that Act;”.
-
-2 Definition of Substitute: “administrative “‘administrative area’ means an area standing area” established under section 10 for the purposes of local government and which is—
+2 Definition Substitute: of “‘administrative area’ means an area “administrative standing established under section 10 area” for the purposes of local government and which is—
 
 (a) a county in the case of a county council,
 
@@ -22,23 +20,27 @@ Government Reform Act 2014 to be the establishment day for the purposes of that 
 
 (c) a city and county in the case of a city and county council;”.
 
-3 After definition of Insert: “Cathaoirleach” “‘chief executive’ means a chief executive for the purposes of section 144;”.
+3 After Insert: definition “‘chief executive’ means a chief of executive for the purposes of section “Cathaoirleach” 144;”.
 
-4 Definition of “city Substitute: council” “‘city council’ means a local authority to which section 11(2) (b) relates;”.
+4 Definition Substitute: of “city “‘city council’ means a local authority council” to which section 11(2) (b) relates;”.
 
-5 After definition of Insert: “city council” “‘city and county council’ means a local authority to which section 11(2) (c) relates;”.
+5 After Insert: definition “‘city and county council’ means a local of “city authority to which section 11(2) (c) council” relates;”.
 
-6 Definition of “city Delete. development board”
+6 Definition Delete. of “city development board”
 
-7 Definition of “county Substitute: council” “‘county council’ means a local authority to which section 11(2) (a) relates;”.
+7 Definition Substitute: of “‘county council’ means a local “county authority to which section 11(2) (a) council” relates;”. Reference Provision Amendment No. (2) (3) (1)
 
-8 Definition of “county Delete. development board”
+8 Definition Delete. of “county development board”
 
-9 Definition of “joint Delete: body” “(a) a joint library committee,”. Delete: “(d) a joint burial board,”.
+9 Definition Delete: of “joint “(a) a joint library committee,”. body”
 
-10 Definition of “Local Delete. Government Commission”
+Delete:
 
-11 Definition of “local Substitute: authority” “‘local authority’ means— Reference Provision Amendment No. (2) (3) (1)
+“(d) a joint burial board,”.
+
+10 Definition Delete. of “Local Government Commission”
+
+11 Definition Substitute: of “local “‘local authority’ means— authority”
 
 (a) in relation to a municipal district, the county council or the city and county council in which the municipal district is situated, and
 
@@ -50,41 +52,43 @@ Government Reform Act 2014 to be the establishment day for the purposes of that 
 
 (iii) a city and county council;”.
 
-12 After definition of Insert: “local consultative “‘local economic and community plan’ means a committee” plan to which sections 66A to 66H relate;”.
+12 After Insert: definition “‘local economic and community plan’ of “local means a plan to which sections 66A to consultative 66H relate;”. committee”
 
-13 Definition of Delete. “manager”
+13 Definition Delete. of “manager”
 
-14 After definition of Insert: “Minister” “‘municipal district’ shall be read in accordance with section 22A;
+14 After Insert: definition “‘municipal district’ shall be read in of accordance with section 22A; “Minister”
 
 ‘municipal district members’ shall be read in accordance with section 22B;”.
 
-15 Definition of “rating Substitute: authority” “‘rating authority’ means—
+15 Definition Substitute: of “rating “‘rating authority’ means— authority”
 
 (a) a county council,
 
 (b) a city council, or
 
-(c) a city and county council;”.
+(c) a city and county council;”. Reference Provision Amendment No. (2) (3) (1)
 
-16 Definition of Substitute: “reserved function” “‘reserved function’ shall be read in accordance with sections 131 and 131A;”.
+16 Definition Substitute: of “‘reserved function’ shall be read in “reserved accordance with sections 131 and function” 131A;”.
 
-17 After definition of Insert: “structure” “‘transfer date’ has the meaning given in section 23 of the Local Government Reform Act 2014.”.
+17 After Insert: definition “‘transfer date’ has the meaning given of in section 23 of the Local Government “structure” Reform Act 2014.”.
 
-18 Interpretation given Delete. to “town council”
+18 Interpretation Delete. given to “town council”
 
-19 Section 11 Substitute “chief executive” for “manager”. Subsection (8)
+19 Section Substitute “chief executive” for 11 “manager”.
 
-20 Subsection (14) Substitute “chief executive’s order” for “manager’s order”.
+Subsection (8)
 
-21 Section 14 Substitute:
+20 Subsection Substitute “chief executive’s order” for (14) “manager’s order”.
+
+21 Section Substitute: 14
 
 “14. A person shall not hold membership simultaneously of more than one local authority.”.
 
-22 Section 15 Insert after subsection (1):
+22 Section Insert after subsection (1): 15
 
 “(1A) Subsection (1) applies to a member of a local authority in performing functions as a municipal district member in the same manner as it applies to a member of a local authority in performing functions as a member of a local authority or a member of the council of a local authority.”.
 
-23 Section 18(5) Substitute: Reference Provision Amendment No. (2) (3) (1)
+23 Section Substitute: 18(5)
 
 “(5) In relation to a local authority, attendance as a member at a meeting of—
 
@@ -92,23 +96,23 @@ Government Reform Act 2014 to be the establishment day for the purposes of that 
 
 (b) the municipal district members, shall be deemed for the purposes of subsection (4) to be attendance at a meeting of the authority.”.
 
-24 Section 20(1) Substitute:
+24 Section Substitute: 20(1) Reference Provision Amendment No. (2) (3) (1)
 
 “(1) The acts, decisions and proceedings of a local authority or of the municipal district members shall not be invalidated only because of a vacancy or vacancies in its membership or of the disqualification or want of qualification of any of its members.”.
 
 25 Section 22
 
-Subsection (1) Substitute for paragraph (a): “(a) A county council, a city council or a city and county council may by resolution adopt a proposal (in this section referred to as a ‘proposal’) for the alteration of the number of members of that council.”.
+Subsection Substitute for paragraph (a): (1) “(a) A county council, a city council or a city and county council may by resolution adopt a proposal (in this section referred to as a ‘proposal’) for the alteration of the number of members of that council.”.
 
-26 Subsection (2) Delete “county council or city council” and substitute “county council, city council or city and county council”.
+26 Subsection Delete “county council or city council” (2) and substitute “county council, city council or city and county council”.
 
-27 Subsection (3) Substitute:
+27 Subsection Substitute: (3)
 
 “(3) Before deciding whether to make an order under subsection (2), the Minister shall request a committee in accordance with section 32 of the Local Government Act 1991 to prepare a report with respect to the application and Part V of that Act applies to such a request and report.”.
 
-28 Subsection (5) Delete.
+28 Subsection Delete. (5)
 
-29 Subsection (6) Substitute:
+29 Subsection Substitute: (6)
 
 “(6) An application under this section shall not be made to the Minister within 5 years of—
 
@@ -118,21 +122,21 @@ Subsection (1) Substitute for paragraph (a): “(a) A county council, a city cou
 
 30 Section 25
 
-Subsection (1) Substitute for paragraph (c):
+Subsection Substitute for paragraph (c): (1)
 
-“(c) at an election of the members of more than one local authority held at the same local elections, or”.
+“(c) at an election of the members of more than one local authority held at the same local elections, or”. Reference Provision Amendment No. (2) (3) (1)
 
-31 Subsection (1) Delete paragraph (e). Reference Provision Amendment No. (2) (3) (1)
+31 Subsection Delete paragraph (e). (1)
 
-32 Subsection (2) Delete.
+32 Subsection Delete. (2)
 
-33 Section 27(2) Substitute for paragraph (r):
+33 Section Substitute for paragraph (r): 27(2)
 
 “(r) election of the same person in more than one local electoral area or to more than one local authority;”.
 
 34 Section 28
 
-Subsection (1) Substitute:
+Subsection Substitute: (1)
 
 “(1) In this section the ‘chief executive’ means—
 
@@ -142,49 +146,55 @@ Subsection (1) Substitute:
 
 (c) in relation to any part of a polling district situated in a city and county, the chief executive for the city and county.”.
 
-35 Subsection (2) Substitute for paragraph (a):
+35 Subsection Substitute for paragraph (a): (2)
 
 “(a) the alteration of the boundary of a local authority, or”.
 
-36 Subsection (2) Substitute for paragraph (b) (i):
+36 Subsection Substitute for paragraph (b) (i): (2)
 
 “(i) dividing a county, city or city and county into local electoral areas, or”.
 
-37 Subsection (3) Substitute “chief executive” for “manager”.
+37 Subsection Substitute “chief executive” for (3) “manager”.
 
-38 Subsection (5) Substitute “chief executive” for “manager”.
+38 Subsection Substitute “chief executive” for (5) “manager”.
 
-39 Subsection (6) Substitute “chief executive” for “manager”.
+39 Subsection Substitute “chief executive” for (6) “manager”.
 
-40 Subsection (4) Substitute “county, city or city and county” for “county or city”.
+40 Subsection Substitute “county, city or city and (4) county” for “county or city”.
 
-41 Section 30 Delete.
+41 Section Delete. 30
 
-42 Section 31 Insert “and the municipal district members” after Subsection (1) “each local authority”.
+42 Section Insert “and the municipal district 31 members” after “each local authority”.
 
-43 Subsection (2) Substitute for subsection (2):
+Subsection (1)
+
+43 Subsection Substitute for subsection (2): (2) Reference Provision Amendment No. (2) (3) (1)
 
 “(2) The holders of the offices of Cathaoirleach and Leas-Chathaoirleach shall as appropriate be styled—
 
-(a) in the case of a county council, in the Irish language ‘Cathaoirleach Chontae.......’ and ‘Leas- Chathaoirleach Chontae.......’ followed by the name of the county in Irish, and in the English language ‘Cathaoirleach of the County of.......’ and ‘Leas- Chathaoirleach of the County of.......’ followed by the name of the county in English, Reference Provision Amendment No. (2) (3) (1)
+(a) in the case of a county council, in the Irish language ‘Cathaoirleach Chontae.......’ and ‘Leas-Chathaoirleach Chontae.......’ followed by the name of the county in Irish, and in the English language ‘Cathaoirleach of the County of.......’ and ‘Leas-Chathaoirleach of the County of.......’ followed by the name of the county in English,
 
-(b) in the case of a city council, in the Irish language ‘Cathaoirleach Chathair.......’ and ‘Leas- Chathaoirleach Chathair.......’ followed by the name of the city in Irish, and in the English language ‘Cathaoirleach of the City of.......’ and ‘Leas- Chathaoirleach of the City of.......’ followed by the name of the city in English,
+(b) in the case of a city council, in the Irish language ‘Cathaoirleach Chathair.......’ and ‘Leas-Chathaoirleach Chathair.......’ followed by the name of the city in Irish, and in the English language ‘Cathaoirleach of the City of.......’ and ‘Leas-Chathaoirleach of the City of.......’ followed by the name of the city in English,
 
 (c) in the case of a city and county council, in the Irish language ‘Cathaoirleach Chathair agus Chontae.......’ and ‘Leas-Chathaoirleach Chathair agus Chontae.......’ followed by the name of the city and county in Irish, and in the English language ‘Cathaoirleach of the City and County of.......’ and ‘Leas-Chathaoirleach of the City and County of.......’ followed by the name of the city and county in English,
 
-(d) in the case of a municipal district whose area contains the area of a city council dissolved by the Local Government Reform Act 2014, in the Irish language ‘Cathaoirleach Cheantar Cathrach.......’ and ‘Leas-Chathaoirleach Cheantar Cathrach.......’ followed by the name of the municipal district in Irish, and in the English language ‘Cathaoirleach of the Metropolitan District of.......’ and ‘Leas- Chathaoirleach of the Metropolitan District of.......’ followed by the name of the municipal district in English,
+(d) in the case of a municipal district whose area contains the area of a city council dissolved by the
 
-(e) in the case of a municipal district whose area contains the area of a borough council in being (other than in respect of the borough of Kilkenny) immediately before the transfer date as provided for by the Local Government Reform Act 2014, in the Irish language ‘Cathaoirleach Cheantar Buirge.......’ and ‘Leas-Chathaoirleach Cheantar Buirge.......’ followed by the name of the municipal district in Irish, and in the English language ‘Cathaoirleach of the Borough District of.......’ and ‘Leas-Chathaoirleach of the Borough District of.......’ followed by the name of the municipal district in English,
+Local
 
-(f) in the case of a municipal district whose area contains the area of the borough of Kilkenny in being immediately before the transfer date as provided for by the Local Government Reform Act 2014, in the Irish language ‘Cathaoirleach Cheantar Bardasach Chathair Chill Chainnigh’ and ‘Leas- Chathaoirleach Cheantar Bardasach Chathair Chill Chainnigh’ and in the English language ‘Cathaoirleach of the Municipal District of Kilkenny City’ and ‘Leas-Chathaoirleach of the Municipal District of Kilkenny City’, Reference Provision Amendment No. (2) (3) (1)
+Government Reform Act 2014, in the Irish language ‘Cathaoirleach Cheantar Cathrach.......’ and ‘Leas-Chathaoirleach Cheantar Cathrach.......’ followed by the name of the municipal district in Irish, and in the English language ‘Cathaoirleach of the Metropolitan District of.......’ and ‘Leas-Chathaoirleach of the Metropolitan District of.......’ followed by the name of the municipal district in English, Reference Provision Amendment No. (2) (3) (1)
+
+(e) in the case of a municipal district whose area contains the area of a borough council in being (other than in respect of the borough of Kilkenny) immediately before the transfer date as provided for by the Local Government Reform Act 2014, in the Irish language ‘Cathaoirleach Cheantar Buirge.......’ and ‘Leas-Chathaoirleach Cheantar Buirge.......’ followed by the name of the municipal district in Irish, and in the English language ‘Cathaoirleach of the Borough District of.......’ and ‘Leas- Chathaoirleach of the Borough District of.......’ followed by the name of the municipal district in English,
+
+(f) in the case of a municipal district whose area contains the area of the borough of Kilkenny in being immediately before the transfer date as provided for by the Local Government Reform Act 2014, in the Irish language ‘Cathaoirleach Cheantar Bardasach Chathair Chill Chainnigh’ and ‘Leas- Chathaoirleach Cheantar Bardasach Chathair Chill Chainnigh’ and in the English language ‘Cathaoirleach of the Municipal District of Kilkenny City’ and ‘Leas-Chathaoirleach of the Municipal District of Kilkenny City’,
 
 (g) in the case of a municipal district to which paragraph (d), (e) or (f) does not apply, in the Irish language ‘Cathaoirleach Cheantar Bardasach.......’ and ‘Leas-Chathaoirleach Cheantar Bardasach.......’ followed by the name of the municipal district in Irish, and in the English language ‘Cathaoirleach of the Municipal District of.......’ and ‘Leas- Chathaoirleach of the Municipal District of.......’ followed by the name of the municipal district in English.
 
-44 Subsections (4) to (7) Substitute:
+44 Subsections Substitute: (4) to (7)
 
 “(4) (a) The Cathaoirleach of a local authority shall take precedence at all meetings of the local authority.
 
-(b) The Cathaoirleach of a municipal district shall take precedence at all meetings and proceedings of the municipal district members.
+(b) The Cathaoirleach of a municipal district shall take precedence at all meetings and proceedings of the municipal district members. Reference Provision Amendment No. (2) (3) (1)
 
 (5) Anything authorised or required by this Act or otherwise by law to be done by, to or with the Cathaoirleach may where necessary be done by, to or with the Leas-Chathaoirleach of the local authority or the Leas- Chathaoirleach of the municipal district, as the case may be.
 
@@ -192,45 +202,49 @@ Subsection (1) Substitute:
 
 (7) Where a casual vacancy occurs in the office of Cathaoirleach of a local authority or of a municipal district, as the case may be, the Leas-Chathaoirleach shall assume the responsibilities of the office pending the election in accordance with this Part of a Cathaoirleach.”.
 
-45 Section 33(1) Substitute:
+45 Section Substitute: 33(1)
 
 “(1) The Cathaoirleach or Leas-Chathaoirleach may resign from that office by notice in writing signed by him or her and delivered to the principal offices of the local authority which, in the case of a municipal district, is the principal offices of the local authority concerned.”.
 
-46 Section 46 Substitute “chief executive” for “manager”.
+46 Section Substitute “chief executive” for 46 “manager”.
 
-47 Section 48 Delete “being a county council or city council”. Subsection (1)
+47 Section Delete “being a county council or city 48 council”.
 
-48 Section 49 Delete. Reference Provision Amendment No. (2) (3) (1)
+Subsection (1)
 
-49 Section 52 Substitute in paragraph (d) “chief executive” for Subsection (5) “manager”.
+48 Section Delete. 49
 
-50 Subsection (9) Substitute “chief executive” for “manager”.
+49 Section Substitute in paragraph (d) “chief 52 executive” for “manager”.
 
-51 Part 8 (sections 55 to Delete. 62)
+Subsection (5)
 
-52 Section 66 Insert after subsection (10):
+50 Subsection Substitute “chief executive” for (9) “manager”.
+
+51 Part 8 Delete. (sections 55 to 62) Reference Provision Amendment No. (2) (3) (1)
+
+52 Section Insert after subsection (10): 66
 
 “(11) A decision of a local authority to make a charge under subsection (10) is a reserved function.
 
 (12) The performance by a local authority of functions under this section is subject to the performance by a Local Community Development Committee of so much of those functions as are deemed to have been delegated to the Committee by virtue of section 128B(2).”.
 
-53 Section 68(4) Substitute in paragraph (b) (ii) “chief executive” for “manager”.
+53 Section Substitute in paragraph (b) (ii) “chief 68(4) executive” for “manager”.
 
-54 Section 70 Delete.
+54 Section Delete. 70
 
-55 Section 71 Substitute:
+55 Section Substitute: 71
 
 “Objective of unified service to the public
 
 71. Without prejudice to section 69, the elected members of a local authority, in the performance of functions in respect of the authority as a whole and in respect of municipal districts situated in the county or city and county concerned, shall take such steps as may be practicable to maximise effectiveness and efficiency in all aspects of the operations and services of the local authority, including customer service to the public generally.”.
 
-56 Section 73 Substitute:
+56 Section Substitute: 73
 
 “Saver (functional area)
 
 73. Subject to section 72 and Chapter 5 of this Part and to Parts 2 and 3 of the Local Government Reform Act 2014, nothing in this Act affects the definition in any other enactment (however expressed or implied) of the functional area of a local authority for the purposes of a function conferred by that enactment.”.
 
-57 Section 77 Substitute:
+57 Section Substitute: 77
 
 “Library authorities
 
@@ -242,277 +256,325 @@ Subsection (1) Substitute:
 
 (c) a city and county council; Reference Provision Amendment No. (2) (3) (1) and references to ‘library authority’ shall be read accordingly.”.
 
-58 Section 81(1) Substitute:
+58 Section Substitute: 81(1)
 
-Definition of “‘functional area’ means— “functional area” (a) a county, or (b) so much of the area of the city and county that does not comprise of the area of a dissolved local authority area of a city council;”.
+Definition “‘functional area’ means— of (a) a county, or “functional area” (b) so much of the area of the city and county that does not comprise of the area of a dissolved local authority area of a city council;”.
 
-59 Section 84 Delete.
+59 Section Delete. 84
 
-60 Part 11 (sections 89 Delete. to 95)
+60 Part 11 Delete. (sections 89 to 95)
 
-61 Section 99 Substitute “chief executive” for “manager” in both Subsection (2) places where it occurs.
+61 Section Substitute “chief executive” for 99 “manager” in both places where it occurs. Subsection (2)
 
-62 Subsection (3) Substitute “chief executive” for “manager” in both places where it occurs.
+62 Subsection Substitute “chief executive” for (3) “manager” in both places where it occurs.
 
-63 Section 102 Substitute “chief executive” for “manager”. Subsection (4)
+63 Section Substitute “chief executive” for 102 “manager”.
 
-64 Section 103 Substitute in paragraph (a) “chief executive” for Subsection (2) “manager”.
+Subsection (4)
 
-65 Subsection (3) Substitute “chief executive” for “manager” in each place where it occurs.
+64 Section Substitute in paragraph (a) “chief 103 executive” for “manager”.
 
-66 Subsection (4) Substitute “chief executive” for “manager”.
+Subsection (2)
 
-67 Subsection (6) Substitute “14 days” for “21 days”.
+65 Subsection Substitute “chief executive” for (3) “manager” in each place where it occurs.
 
-68 Section 104 Substitute “chief executive” for “manager”. Subsection (3)
+66 Subsection Substitute “chief executive” for (4) “manager”.
 
-69 Subsection (4) Substitute in paragraph (a) “chief executive” for “manager”.
+67 Subsection Substitute “14 days” for “21 days”. (6)
 
-70 Subsection (6) Substitute “chief executive” for “manager”.
+68 Section Substitute “chief executive” for 104 “manager”.
 
-71 Subsection (7) Substitute “chief executive” for “manager”.
+Subsection (3)
 
-72 Section 108(3) Substitute “chief executive” for “manager”.
+69 Subsection Substitute in paragraph (a) “chief (4) executive” for “manager”.
 
-73 Section 112(1) Substitute in paragraph (b) “chief executive” for “manager” in both places where it occurs.
+70 Subsection Substitute “chief executive” for (6) “manager”. Reference Provision Amendment No. (2) (3) (1)
 
-74 Section 120(4) Substitute “chief executive” for “manager” in both places where it occurs.
+71 Subsection Substitute “chief executive” for (7) “manager”.
 
-75 Section 121(1) Substitute “chief executive” for “manager”.
+72 Section Substitute “chief executive” for 108(3) “manager”.
 
-76 Section 122(7) Substitute “chief executive” for “manager”.
+73 Section Substitute in paragraph (b) “chief 112(1) executive” for “manager” in both places where it occurs.
 
-77 Section 129 Delete.
+74 Section Substitute “chief executive” for 120(4) “manager” in both places where it occurs.
 
-78 Section 129I Substitute in paragraph (a) “chief executive” for Subsection (5) “manager”.
+75 Section Substitute “chief executive” for 121(1) “manager”.
 
-79 Subsection (5) Substitute in paragraph (b) “chief executive” for “manager”.
+76 Section Substitute “chief executive” for 122(7) “manager”.
 
-80 Section 133 Substitute “chief executive” for “manager”. Subsection (3)
+77 Section Delete. 129
 
-81 Subsection (4) Substitute in paragraph (a) “chief executive” for “manager”. Reference Provision Amendment No. (2) (3) (1)
+78 Section Substitute in paragraph (a) “chief 129I executive” for “manager”.
 
-82 Subsection (5) Substitute in paragraph (a) “chief executive” for “manager” in both places where it occurs.
+Subsection (5)
 
-83 Subsection (5) Substitute in paragraph (b) “chief executive” for “manager”.
+79 Subsection Substitute in paragraph (b) “chief (5) executive” for “manager”.
 
-84 Subsection (6) Substitute in paragraph (a) “chief executive” for “manager” in each place where it occurs.
+80 Section Substitute “chief executive” for 133 “manager”.
 
-85 Subsection (6) Substitute in paragraph (e) “chief executive” for “manager”.
+Subsection (3)
 
-86 Subsection (7) Substitute “chief executive” for “manager”.
+81 Subsection Substitute in paragraph (a) “chief (4) executive” for “manager”.
 
-87 Subsection (9) Substitute “chief executive” for “manager”.
+82 Subsection Substitute in paragraph (a) “chief (5) executive” for “manager” in both places where it occurs.
 
-88 Section 134 Substitute “chief executive” for “manager”. Subsection (3)
+83 Subsection Substitute in paragraph (b) “chief (5) executive” for “manager”.
 
-89 Subsection (4) Substitute in paragraph (a) “chief executive” for “manager”.
+84 Subsection Substitute in paragraph (a) “chief (6) executive” for “manager” in each place where it occurs.
 
-90 Subsection (4) Substitute in paragraph (b) (ii) “chief executive” for “manager”.
+85 Subsection Substitute in paragraph (e) “chief (6) executive” for
 
-91 Subsection (5) Substitute in paragraph (b) (ii) “chief executive” for “manager”.
+“manager”.
 
-92 Subsection (11) Substitute in paragraph (a) “chief executive” for “manager”.
+86 Subsection Substitute “chief executive” for (7) “manager”.
 
-93 Section 135(1) Substitute “chief executive” for “manager”.
+87 Subsection Substitute “chief executive” for (9) “manager”.
 
-94 Section 136 Substitute “chief executive” for “manager” in each place where it occurs.
+88 Section Substitute “chief executive” for 134 “manager”. Reference Provision Amendment No. (2) (3) (1)
 
-95 Section 137 Substitute “chief executive” for “manager”. Subsection (1)
+Subsection (3)
 
-96 Subsection (2) Substitute “chief executive” for “manager”.
+89 Subsection Substitute in paragraph (a) “chief (4) executive” for “manager”.
 
-97 Section 138 Substitute “chief executive” for “manager”. Subsection (1)
+90 Subsection Substitute in paragraph (b) (ii) “chief (4) executive” for “manager”.
 
-98 Subsection (2) Substitute “chief executive” for “manager” in both places where it occurs.
+91 Subsection Substitute in paragraph (b) (ii) “chief (5) executive” for “manager”.
 
-99 Subsection (3) Substitute “chief executive” for “manager”.
+92 Subsection Substitute in paragraph (a) “chief (11) executive” for “manager”.
 
-100 Subsection (4) Substitute “chief executive” for “manager”.
+93 Section Substitute “chief executive” for 135(1) “manager”.
 
-101 Subsection (5) Substitute “chief executive” for “manager”.
+94 Section Substitute “chief executive” for 136 “manager” in each place where it occurs.
 
-102 Section 139(2) Substitute “chief executive” for “manager”.
+95 Section Substitute “chief executive” for 137 “manager”.
 
-103 Section 140 Substitute “chief executive” for “manager”. Subsection (2)
+Subsection (1)
 
-104 Subsection (3) Substitute “chief executive” for “manager” in both places where it occurs.
+96 Subsection Substitute “chief executive” for (2) “manager”.
 
-105 Subsection (4) Substitute “chief executive” for “manager”.
+97 Section Substitute “chief executive” for 138 “manager”.
 
-106 Subsection (5) Substitute “chief executive” for “manager”.
+Subsection (1)
 
-107 Subsection (6) Substitute “chief executive” for “manager”.
+98 Subsection Substitute “chief executive” for (2) “manager” in both places where it occurs.
 
-108 Subsection (9) Substitute “chief executive” for “manager”.
+99 Subsection Substitute “chief executive” for (3) “manager”.
 
-109 Section 151 Substitute “chief executive” for “manager” in both Subsection (1) places where it occurs. Reference Provision Amendment No. (2) (3) (1)
+100 Subsection Substitute “chief executive” for (4) “manager”.
 
-110 Subsection (2) Substitute in paragraph (a) “chief executive” for “manager”.
+101 Subsection Substitute “chief executive” for (5) “manager”.
 
-111 Subsection (2) Substitute in paragraph (d) “chief executive” for “manager”.
+102 Section Substitute “chief executive” for 139(2) “manager”.
 
-112 Subsection (3) Substitute “chief executive” for “manager” in both places where it occurs.
+103 Section Substitute “chief executive” for 140 “manager”.
 
-113 Subsection (4) Substitute “chief executive” for “manager”.
+Subsection (2)
 
-114 Subsection (5) Substitute “chief executive” for “manager” in both places where it occurs.
+104 Subsection Substitute “chief executive” for (3) “manager” in both places where it occurs.
 
-115 Subsection (6) Substitute “chief executive” for “manager” in each place where it occurs.
+105 Subsection Substitute “chief executive” for (4) “manager”.
 
-116 Subsection (7) Substitute “chief executive” for “manager” in each place where it occurs.
+106 Subsection Substitute “chief executive” for (5) “manager”. Reference Provision Amendment No. (2) (3) (1)
 
-117 Subsection (8) Substitute “chief executive” for “manager”.
+107 Subsection Substitute “chief executive” for (6) “manager”.
 
-118 Subsection (10) Substitute “chief executive” for “manager”.
+108 Subsection Substitute “chief executive” for (9) “manager”.
 
-119 Section 152 Substitute “chief executive” for “manager” in both Subsection (1) places where it occurs.
+109 Section Substitute “chief executive” for 151 “manager” in both places where it occurs. Subsection (1)
 
-120 Subsection (2) Substitute “chief executive” for “manager” in each place where it occurs.
+110 Subsection Substitute in paragraph (a) “chief (2) executive” for
 
-121 Subsection (3) Substitute “chief executive” for “manager” in both places where it occurs.
+“manager”.
 
-122 After subsection (3) Insert:
+111 Subsection Substitute in paragraph (d) “chief (2) executive” for “manager”.
 
-“(3A) This section applies to the chief executive of a local authority in respect of meetings of a municipal district of the local authority in the same manner as it applies to meetings of that authority.”.
+112 Subsection Substitute “chief executive” for (3) “manager” in both places where it occurs.
 
-123 Subsection (4) Substitute “chief executive” for “manager” in both places where it occurs.
+113 Subsection Substitute “chief executive” for (4) “manager”.
 
-124 Section 153 Substitute “chief executive” for “manager”. Subsection (1)
+114 Subsection Substitute “chief executive” for (5) “manager” in both places where it occurs.
 
-125 Subsection (2) Substitute “chief executive” for “manager”.
+115 Subsection Substitute “chief executive” for (6) “manager” in each place where it occurs.
 
-126 Section 154 Substitute “chief executive” for “manager”. Subsection (1)
+116 Subsection Substitute “chief executive” for (7) “manager” in each place where it occurs.
 
-127 Subsection (2) Substitute “chief executive” for “manager” in each place where it occurs.
+117 Subsection Substitute “chief executive” for (8) “manager”.
 
-128 Subsection (3) Substitute in paragraph (a) “chief executive” for “manager”.
+118 Subsection Substitute “chief executive” for (10) “manager”.
 
-129 Subsection (3) Substitute in paragraph (c) “chief executive” for “manager” in both places where it occurs.
+119 Section Substitute “chief executive” for 152 “manager” in both places where it occurs. Subsection (1)
 
-130 Subsection (4) Substitute “chief executive” for “manager” in both places where it occurs.
+120 Subsection Substitute “chief executive” for (2) “manager” in each place where it occurs.
 
-131 Subsection (5) Substitute “chief executive” for “manager”.
+121 Subsection Substitute “chief executive” for (3) “manager” in both places where it occurs.
 
-132 Subsection (6) Substitute “chief executive” for “manager”.
+122 After Insert: subsection (3)
 
-133 Section 159 Substitute “chief executive” for “manager”. Subsection (1) Reference Provision Amendment No. (2) (3) (1)
+“(3A) This section applies to the chief executive of a local authority in respect of meetings of a municipal district of the local authority in the same manner as it applies to meetings of that authority.”. Reference Provision Amendment No. (2) (3) (1)
 
-134 Subsection (2) Substitute “chief executive” for “manager”.
+123 Subsection Substitute “chief executive” for (4) “manager” in both places where it occurs.
 
-135 Subsection (3) Substitute in paragraph (a) “chief executive” for “manager”.
+124 Section Substitute “chief executive” for 153 “manager”.
 
-136 Section 166 Substitute “chief executive” for “manager”. Subsection (1) Definition of “employee”
+Subsection (1)
 
-137 Subsection (2) Substitute in paragraph (a) “chief executive” for “manager” in both places where it occurs.
+125 Subsection Substitute “chief executive” for (2) “manager”.
 
-138 Section 167 Substitute in paragraph (c) “chief executive” for Subsection (1) “manager”.
+126 Section Substitute “chief executive” for 154 “manager”.
 
-139 Section 174 Substitute “chief executive” for “manager” in each Subsection (7) place where it occurs.
+Subsection (1)
 
-140 Subsection (8) Substitute in paragraph (b) (ii) “chief executive” for “manager”.
+127 Subsection Substitute “chief executive” for (2) “manager” in each place where it occurs.
 
-141 Section 176 Substitute “the performance by the local authority Subsection (1) concerned, or any municipal district members for that authority, of any functions” for “the performance by the local authority of any of its functions”.
+128 Subsection Substitute in paragraph (a) “chief (3) executive” for “manager”.
 
-142 Subsection (2) Substitute “the performance by the local authority, or by municipal district members, of any functions” for “the performance by the authority of any of its functions”.
+129 Subsection Substitute in paragraph (c) “chief (3) executive” for “manager” in both places where it occurs.
 
-143 Section 179 Substitute in paragraph (a) “chief executive” for Subsection (1) “manager”.
+130 Subsection Substitute “chief executive” for (4) “manager” in both places where it occurs.
 
-144 Subsection (2) Substitute in paragraph (b) “chief executive” for “manager” in both places where it occurs.
+131 Subsection Substitute “chief executive” for (5) “manager”.
 
-145 Subsection (2) Substitute in paragraph (c) “chief executive” for “manager” in both places where it occurs.
+132 Subsection Substitute “chief executive” for (6) “manager”.
 
-146 Subsection (3) Substitute “chief executive” for “manager”.
+133 Section Substitute “chief executive” for 159 “manager”.
 
-147 Section 180 Substitute for paragraph (a) (i): Subsection (3) “(i) a chief executive, it shall be furnished to the Cathaoirleach of the local authority concerned,”.
+Subsection (1)
 
-148 Subsection (3) Substitute in paragraph (a) (ii) “chief executive” for “manager”.
+134 Subsection Substitute “chief executive” for (2) “manager”.
 
-149 Subsection (3) Substitute in paragraph (a) (iii) “chief executive” for “manager”.
+135 Subsection Substitute in paragraph (a) “chief (3) executive” for “manager”.
 
-150 Subsection (3) Substitute in paragraph (a) (iv) “chief executive” for “manager” in both places where it occurs.
+136 Section Substitute “chief executive” for 166 “manager”.
 
-151 Subsection (3) Substitute in paragraph (a) (v) “chief executive” for “manager”.
+Subsection (1)
 
-152 Subsection (4) Substitute in paragraph (b) “chief executive” for “manager” in both places where it occurs.
+Definition of “employee”
 
-153 Subsection (4) Substitute in paragraph (c) “chief executive” for “manager”.
+137 Subsection Substitute in paragraph (a) “chief (2) executive” for “manager” in both places where it occurs. Reference Provision Amendment No. (2) (3) (1)
 
-154 Part 17 (sections 185 Delete. to 187) Reference Provision Amendment No. (2) (3) (1)
+138 Section Substitute in paragraph (c) “chief 167 executive” for “manager”.
+
+Subsection (1)
+
+139 Section Substitute “chief executive” for 174 “manager” in each place where it occurs.
+
+Subsection (7)
+
+140 Subsection Substitute in paragraph (b) (ii) “chief (8) executive” for “manager”.
+
+141 Section Substitute “the performance by the local 176 authority concerned, or any municipal district members for that authority, of Subsection any functions” for “the performance by (1) the local authority of any of its functions”.
+
+142 Subsection Substitute “the performance by the local (2) authority, or by municipal district members, of any functions” for “the performance by the authority of any of its functions”.
+
+143 Section Substitute in paragraph (a) “chief 179 executive” for “manager”.
+
+Subsection (1)
+
+144 Subsection Substitute in paragraph (b) “chief (2) executive” for “manager” in both places where it occurs.
+
+145 Subsection Substitute in paragraph (c) “chief (2) executive” for “manager” in both places where it occurs.
+
+146 Subsection Substitute “chief executive” for (3) “manager”.
+
+147 Section Substitute for paragraph (a) (i): 180 “(i) a chief executive, it shall be Subsection furnished to the Cathaoirleach of the (3) local authority concerned,”.
+
+148 Subsection Substitute in paragraph (a) (ii) “chief (3) executive” for “manager”.
+
+149 Subsection Substitute in paragraph (a) (iii) “chief (3) executive” for “manager”.
+
+150 Subsection Substitute in paragraph (a) (iv) “chief (3) executive” for “manager” in both places where it occurs.
+
+151 Subsection Substitute in paragraph (a) (v) “chief (3) executive” for “manager”. Reference Provision Amendment No. (2) (3) (1)
+
+152 Subsection Substitute in paragraph (b) “chief (4) executive” for “manager” in both places where it occurs.
+
+153 Subsection Substitute in paragraph (c) “chief (4) executive” for “manager”.
+
+154 Part 17 Delete. (sections 185 to 187)
 
 155 Part 18 (sections 188 to 194, inserted by section 48 of the Environment (Miscellaneous Provisions) Act 2011)
 
-Section 188 (as so Substitute: inserted) “‘functional area’ means as respects— Definition of (a) a city council, the city, “functional area” (b) a county council, the county, (c) a city and county council, the city and county;”.
+Section Substitute: 188 (as so “‘functional area’ means as respects— inserted)
 
-156 Definition of Substitute: “locality” (as so “‘locality’ means a part (other than a town, inserted) townland or street) of a county, city, city and county, or town in respect of which a name (other than the name of the county, city, city and county, or town concerned) is in common use;”.
+(a) a city council, the city, Definition of (b) a county council, the county, “functional area” (c) a city and county council, the city and county;”.
 
-157 Definition of “non- Delete. municipal town” (as so inserted)
+156 Definition Substitute: of “‘locality’ means a part (other than a “locality” town, townland or street) of a county, (as so city, city and county, or town in respect inserted) of which a name (other than the name of the county, city, city and county, or town concerned) is in common use;”.
 
-158 Interpretation given Substitute: to “placename” (as “‘placename’ includes the name of a county, city, so inserted) city and county, town, village, barony, parish, townland, street or locality, district, region or place, as described in a map produced by Ordnance Survey Ireland;”.
+157 Definition Delete. of “non-municipal town” (as so inserted)
 
-159 Section 198 Substitute:
+158 Interpretation Substitute: given to “‘placename’ includes the name of a “placename” county, city, city and county, town, (as so village, barony, parish, townland, street inserted) or locality, district, region or place, as described in a map produced by Ordnance Survey Ireland;”.
 
-Subsection (1) “‘functional area’ means as respects— Definition of (a) a city council, the city, “functional area” (b) a county council, the county, (c) a city and county council, the city and county;”.
+159 Section Substitute: 198 Reference Provision Amendment No. (2) (3) (1)
 
-160 Section 214(5) Substitute “chief executive” for “manager” in both places where it occurs.
+Subsection “‘functional area’ means as respects— (1) (a) a city council, the city, Definition (b) a county council, the county, of “functional (c) a city and county council, the city area” and county;”.
 
-161 Section 216(1) Substitute in paragraph (c) “14 days” for “21 days”.
+160 Section Substitute “chief executive” for 214(5) “manager” in both places where it occurs.
 
-162 Section 221 In paragraph (a) substitute “every local authority” Subsection (1) for “, every county council and city council”.
+161 Section Substitute in paragraph (c) “14 days” for 216(1) “21 days”.
 
-163 Subsection (1) In paragraph (a) substitute “the local authority concerned” for “the county council or city council, as the case may be,”.
+162 Section In paragraph (a) substitute “every local 221 authority” for “, every county council and city council”. Subsection (1)
 
-164 Subsection (1) In paragraph (b) substitute “the local authority concerned” for “the county council or city council concerned”.
+163 Subsection In paragraph (a) substitute “the local (1) authority concerned” for “the county council or city council, as the case may be,”.
 
-165 Subsection (2) Substitute “local authority” for “county council or city council” in each place where it occurs.
+164 Subsection In paragraph (b) substitute “the local (1) authority concerned” for “the county council or city council concerned”.
 
-166 Subsection (2) In paragraph (b) substitute:
+165 Subsection Substitute “local authority” for “county (2) council or city council” in each place where it occurs.
+
+166 Subsection In paragraph (b) substitute: (2)
 
 “(b) such particulars as are required by sections 48, 66, 66G, 49A(7), 75, 76, 126D(9), 134, 134A(6) and 228;”.
 
-167 Subsection (3) Substitute: Reference Provision Amendment No. (2) (3) (1)
+167 Subsection Substitute: (3)
 
 “(3) (a) The adoption by a county council or city council of its annual report is a reserved function.
 
 (b) The approval of information to be included in an annual report in relation to the performance of functions by municipal district members is a reserved function.”.
 
-168 Subsection (4) Substitute “local authority” for “county council or city council” in each place where it occurs.
+168 Subsection Substitute “local authority” for “county (4) council or city council” in each place where it occurs.
 
-169 Subsection (5) Substitute: “(5) An annual report prepared by a county council or a city and county council shall include information in relation to the performance of functions by the municipal district members in respect of each municipal district situated within its county or city and county, as the case may be.”.
+169 Subsection Substitute: (5) “(5) An annual report prepared by a county council or a city and county council shall include information in relation to the performance of functions by the municipal Reference Provision Amendment No. (2) (3) (1) district members in respect of each municipal district situated within its county or city and county, as the case may be.”.
 
-170 Section 223 Substitute “local authority” for “county, city or Subsection (1) town”.
+170 Section Substitute “local authority” for “county, 223 city or town”.
 
-171 Section 227 Insert new subsection: Subsection (1A) “(1A) In subsection (1) the reference to the maritime boundary of a county or city includes, where the context admits, the maritime boundary of a city and county which is the successor authority (within the meaning of the
+Subsection (1)
+
+171 Section Insert new subsection: 227 “(1A) In subsection (1) the reference to Subsection the maritime boundary of a county or (1A) city includes, where the context admits, the maritime boundary of a city and county which is the successor authority (within the meaning of the
 
 Local
 
 Government Reform Act 2014) to a county and to a city, and references in this section to a county or city shall be read accordingly.”.
 
-172 Subsection (2) Delete in paragraph (b) “any town or”.
+172 Subsection Delete in paragraph (b) “any town or”. (2)
 
-173 Section 228 Delete. Subsection (1)
+173 Section Delete. 228
 
-174 Section 229(3) Substitute “chief executive” for “manager” in both places where it occurs.
+Subsection (1)
 
-175 Section 230 Delete.
+174 Section Substitute “chief executive” for 229(3) “manager” in both places where it occurs.
 
-176 Section 231 Substitute the following for paragraph (a): Subsection (2) “(a) In this subsection ‘the relevant local authorities’ means the local authorities which are liable to provide funds to the joint drainage committee concerned.”.
+175 Section Delete. 230
 
-177 Subsection (3) Substitute in paragraph (a) “chief executive” for “manager”.
+176 Section Substitute the following for paragraph 231 (a):
 
-178 Section 234(1) Substitute “chief executive” for “manager”.
+Subsection “(a) In this subsection ‘the relevant local (2) authorities’ means the local authorities which are liable to provide funds to the joint drainage committee concerned.”.
 
-179 Schedule 2 In column 2, opposite the reference to “administrative county” to substitute the following:
+177 Subsection Substitute in paragraph (a) “chief (3) executive” for “manager”.
+
+178 Section Substitute “chief executive” for 234(1) “manager”.
+
+179 Schedule In column 2, opposite the reference to 2 “administrative county” to substitute the following:
 
 “County, and where the other enactment concerned so requires, also includes a reference to a city or to a city and county.”.
 
-180 Schedule 6 Delete.
+180 Schedule Delete. 6
 
 PART 2
 
 Miscellaneous and Consequential Amendments to Local Government Acts 1925 to 2013 (other than to the Local Government Act 2001) and to Certain Pre-1922 Local Government Acts
 
-Regnal Year and Short Title Provision Amendment or Repeal Chapter or (2) (3) (4) Number and Year (1)
+Regnal Year and Short Title Provision Amendment or Repeal Chapter or (2) (3) (4) Number and Year
+
+(1)
 
 34 & 35 Vict., c. Local Government Section 12 Section deleted. 109 (Ireland) Act 1871
 
