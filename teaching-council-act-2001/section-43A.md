@@ -1,6 +1,6 @@
 Use of information in vetting disclosures in inquiry under section 43.
 
-43A. (1) For the purposes of an inquiry under section 43, a panel may consider—
+43A.—(1) For the purposes of an inquiry under section 43, a panel may consider—
 
 (a) the information (in so far as that information relates to the conduct which is the subject of the inquiry) contained in a vetting disclosure obtained by the Investigating Committee under subsection (7A) of section 42 subject to subsection (7C) of that section in like manner as subsection (7C) applies to the Investigating Committee, and
 

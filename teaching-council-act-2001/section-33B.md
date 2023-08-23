@@ -1,6 +1,6 @@
 Sharing of information in a vetting disclosure obtained under section 33.
 
-33B. (1) Subject to this section, the Council may provide the employer of a registered teacher with information contained in a vetting disclosure received by the Council for the purposes of the renewal of teacher’s registration under section 33 where—
+33B.—(1) Subject to this section, the Council may provide the employer of a registered teacher with information contained in a vetting disclosure received by the Council for the purposes of the renewal of teacher’s registration under section 33 where—
 
 (a) the Council considers that the information in that disclosure is of such a nature as to give rise to a bona fide concern that the teacher may—
 

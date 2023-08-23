@@ -1,6 +1,6 @@
 Inquiry by Disciplinary Committee.
 
-43. (1) The Disciplinary Committee shall hold an inquiry into the fitness to teach of a registered teacher in respect of a complaint referred to it by the Investigating Committee under section 42(9)(a).
+43.—(1) The Disciplinary Committee shall hold an inquiry into the fitness to teach of a registered teacher in respect of a complaint referred to it by the Investigating Committee under section 42(9)(a).
 
 (2) As soon as is practicable after a complaint is referred to it under section 42(9)(a), the Disciplinary Committee shall cause a notice in writing to be given to—
 

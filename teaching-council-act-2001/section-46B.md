@@ -1,6 +1,6 @@
 Information Council may publish in public interest.
 
-46B. The Council, if satisfied that it is in the public interest to do so shall—
+46B.—The Council, if satisfied that it is in the public interest to do so shall—
 
 (a) advise the public when—
 

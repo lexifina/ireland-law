@@ -1,6 +1,6 @@
 Notification to Minister, employer and other body of certain matters relating to sanctions.
 
-46A. (1) Where it comes to the Council’s attention that, under the law of a state other than the State, a decision corresponding to a decision referred to in any of paragraphs (a) to (d) of section 44(1) has been taken in relation to a registered teacher, the Council shall, as soon as practicable, give notice in writing to the Minister and where the registered teacher is employed as a teacher, to his or her employer (if known), of the decision.
+46A.—(1) Where it comes to the Council’s attention that, under the law of a state other than the State, a decision corresponding to a decision referred to in any of paragraphs (a) to (d) of section 44(1) has been taken in relation to a registered teacher, the Council shall, as soon as practicable, give notice in writing to the Minister and where the registered teacher is employed as a teacher, to his or her employer (if known), of the decision.
 
 (2) Where—
 
