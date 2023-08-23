@@ -1,6 +1,6 @@
 F45[Withdrawal of complaint
 
-43C. Where a complaint is withdrawn by the complainant—
+43C.—Where a complaint is withdrawn by the complainant—
 
 (a) while it is being considered by the Investigating Committee, the Committee may, with the agreement of the Council—
 

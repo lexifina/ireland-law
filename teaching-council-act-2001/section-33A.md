@@ -1,6 +1,6 @@
 F31[Renewal of registration subject to conditions
 
-33A. (1) (a) Where the renewal of registration of a registered teacher is subject to conditions to be complied with within a specified period under section 33(16) (c), the registered teacher may apply in writing to the Council, within the specified period, for an extension of that period.
+33A.—(1) (a) Where the renewal of registration of a registered teacher is subject to conditions to be complied with within a specified period under section 33(16) (c), the registered teacher may apply in writing to the Council, within the specified period, for an extension of that period.
 
 (b) Any extension of the specified period shall be at the discretion of the Council.
 

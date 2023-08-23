@@ -1,6 +1,6 @@
 Renewal of registration.
 
-33. (1) Subject to subsection (13), registration shall be valid for 12 months from the date of registration.
+33.—(1) Subject to subsection (13), registration shall be valid for 12 months from the date of registration.
 
 (2) The Council may make regulations for the purposes of renewal of registration of registered teachers which shall provide for, but not necessarily be limited to, all or any of the following:
 

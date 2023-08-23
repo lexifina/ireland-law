@@ -1,6 +1,6 @@
 Inquiry by Investigating Committee.
 
-42. (1) A person (including the Council) may make a complaint to the Investigating Committee in relation to a registered teacher, and the Committee may consider the complaint, where that complaint concerns any of the following matters in relation to the registered teacher:
+42.—(1) A person (including the Council) may make a complaint to the Investigating Committee in relation to a registered teacher, and the Committee may consider the complaint, where that complaint concerns any of the following matters in relation to the registered teacher:
 
 (a) that he or she has failed to comply with, or has contravened, any provision of this Act, the Act of 1998, the Education (Welfare) Act 2000, the Education for Persons with Special Educational Needs Act 2004, the Education and Training Boards Act 2013 or any regulations, rules or orders made under those Acts;
 

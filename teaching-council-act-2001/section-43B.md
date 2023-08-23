@@ -1,6 +1,6 @@
 F44[Offences - panel inquiry
 
-43B. (1) A person commits an offence where he or she—
+43B.—(1) A person commits an offence where he or she—
 
 (a) on being summoned to attend before a panel for the purpose of an inquiry under section 43, fails to attend,
 
