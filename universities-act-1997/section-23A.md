@@ -2,7 +2,7 @@
 
 Transitional arrangements for membership and chairperson of governing authority.
 
-23A. (1) A governing authority of a university shall, as soon as practicable after the relevant date and with the approval of the Minister, determine the arrangements and procedures to be put in place by it to ensure that the composition of the governing authority of the university complies with section 16 (inserted by section 73 of the Act of 2022) or, as may be appropriate, section 16A (inserted by section 74 of the Act of 2022) within the period referred to in subsection (2).
+23A.—(1) A governing authority of a university shall, as soon as practicable after the relevant date and with the approval of the Minister, determine the arrangements and procedures to be put in place by it to ensure that the composition of the governing authority of the university complies with section 16 (inserted by section 73 of the Act of 2022) or, as may be appropriate, section 16A (inserted by section 74 of the Act of 2022) within the period referred to in subsection (2).
 
 (2) Subject to subsections (3) to (5), a governing authority of a university shall, within 12 months of the relevant date—
 

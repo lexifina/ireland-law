@@ -1,6 +1,6 @@
 Composition of governing authority.
 
-16. (1) Subject to this Part, a governing authority, other than in the case of Trinity College to which section 16A applies, shall consist of 19 members as determined in accordance with this Chapter.
+16.—(1) Subject to this Part, a governing authority, other than in the case of Trinity College to which section 16A applies, shall consist of 19 members as determined in accordance with this Chapter.
 
 (2) The members of a governing authority shall be—
 
