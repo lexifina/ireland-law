@@ -54,7 +54,7 @@ Offences under Part V.
 
 (11) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 6 months or both.
 
-(12) In this section ‘identification mark’ in respect of a mechanically propelled vehicle, means the identification mark assigned to the vehicle—
+(12) In this section "identification mark" in respect of a mechanically propelled vehicle, means the identification mark assigned to the vehicle—
 
 (a) in the case of a vehicle registered in the State — under section 6 of the Roads Act 1920 or section 131(5) (inserted by section 102 of the Finance Act 2003) of the Finance Act 1992, or
 

@@ -1,6 +1,6 @@
 Duty to notify, and to comply with modifications and conditions of approval.
 
-51C. (1) Where An Bord Pleanála makes an order in respect of a national road proposed by a road authority, the road authority shall—
+51C.— (1) Where An Bord Pleanála makes an order in respect of a national road proposed by a road authority, the road authority shall—
 
 (a) comply with, and
 

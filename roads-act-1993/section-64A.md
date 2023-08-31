@@ -10,4 +10,4 @@ Access to records.
 
 (5) Where a registered owner fails or refuses to give information to a road undertaking for the purposes of this section the registered owner is presumed, until the contrary is shown, to have had possession of the vehicle on the occasion in question and is liable to pay the toll concerned.
 
-(6) In this section ‘agreement’ means a hire-purchase agreement or a consumer-hire agreement, as the case may be.
+(6) In this section "agreement" means a hire-purchase agreement or a consumer-hire agreement, as the case may be.

@@ -1,6 +1,6 @@
 Power to carry out assessment of developer’s compliance with modification or condition.
 
-51F. (1) The Minister or, as the case may be, the Authority notified of a modification or condition under section 51C may, having notified the developer of its intention to do so, carry out an assessment of the developer’s compliance with the modification or condition.
+51F. — (1) The Minister or, as the case may be, the Authority notified of a modification or condition under section 51C may, having notified the developer of its intention to do so, carry out an assessment of the developer’s compliance with the modification or condition.
 
 (2) During the course of an assessment under subsection (1) the developer shall comply with any request, made by the Minister or, as the case may be, the Authority for the purposes of that assessment, to—
 

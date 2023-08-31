@@ -1,6 +1,6 @@
 Grants to road authorities.
 
-82. The Minister may, subject to such conditions as he sees fit, in each financial year—
+82.— The Minister may, subject to such conditions as he sees fit, in each financial year—
 
 (a) make grants, to such extent as may be sanctioned by the Minister for Public Expenditure and Reform, out of moneys provided by the Oireachtas to road authorities in respect of any or all of their functions under this Act or otherwise in relation to public roads,
 

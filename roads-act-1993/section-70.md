@@ -60,4 +60,4 @@ Dangerous structures, trees, etc.
 
 (b) A person who contravenes this subsection shall be guilty of an offence.
 
-(13) In this section ‘structure’ means a structure (whether fixed or moveable) and includes any apparatus, object or thing which is attached or fixed to or connected with the structure.
+(13) In this section "structure" means a structure (whether fixed or moveable) and includes any apparatus, object or thing which is attached or fixed to or connected with the structure.

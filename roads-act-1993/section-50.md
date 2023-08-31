@@ -1,6 +1,6 @@
 Environmental impact assessment report.
 
-50. (1) (a) A road development that is proposed that comprises any of the following shall be subject to an environmental impact assessment:
+50.— (1) (a) A road development that is proposed that comprises any of the following shall be subject to an environmental impact assessment:
 
 (i) the construction of a motorway;
 
@@ -104,4 +104,4 @@ An Bord Pleanála shall require the road authority, or as the case may be the Au
 
 (b) The issuing of an opinion under this subsection shall not prejudice the exercise by An Bord Pleanála of its powers pursuant to section 51(4) to require the road authority concerned or the Authority, as the case may be, to furnish it with specified additional information in relation to the likely effects on the environment of the proposed road development.
 
-(5) In this section, ‘construction of a proposed public road or the improvement of an existing public road’ includes any change or extension to a proposed road development already authorised, executed or in the process of being executed.
+(5) In this section, "construction of a proposed public road or the improvement of an existing public road" includes any change or extension to a proposed road development already authorised, executed or in the process of being executed.

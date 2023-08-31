@@ -2,7 +2,7 @@
 
 Motorways.
 
-43.—(1) In this Act ‘motorway’ means
+43.—(1) In this Act "motorway" means
 
 (a) a public road or proposed public road specified to be a motorway in a motorway scheme approved under section 49, or
 

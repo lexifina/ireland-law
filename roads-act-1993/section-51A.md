@@ -1,6 +1,6 @@
 Consultations with An Bord Pleanála before making of application under section 51.
 
-51A. (1) Where a road authority or the Authority, as the case may be, proposes to make an application for approval to An Bord Pleanála pursuant to section 51(2) in relation to a proposed road development, it may, before making the application, make a request to An Bord Pleanála to enter into consultations in relation to the proposed road development.
+51A.— (1) Where a road authority or the Authority, as the case may be, proposes to make an application for approval to An Bord Pleanála pursuant to section 51(2) in relation to a proposed road development, it may, before making the application, make a request to An Bord Pleanála to enter into consultations in relation to the proposed road development.
 
 (2) An Bord Pleanála shall—
 
@@ -30,4 +30,4 @@ Consultations with An Bord Pleanála before making of application under section 
 
 (9) Following the completion of any consultations between An Bord Pleanála and the road authority concerned or the Authority, as the case may be, the road authority or the Authority may apply to An Bord Pleanála for the approval referred to in section 51(2) in relation to a proposed road development.
 
-(10) In this section, ‘consultations’ means the consultations referred to in subsection (1).
+(10) In this section, "consultations" means the consultations referred to in subsection (1).

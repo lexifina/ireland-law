@@ -16,4 +16,4 @@ Service areas (public roads).
 
 (2) Subject to section 54, a service area on a road referred to in subsection (1) shall not be provided or operated other than in accordance with that subsection.
 
-(3) In this section ‘service area’ means a service area proposed or provided under a service area scheme in respect of a national, regional or local road.
+(3) In this section "service area" means a service area proposed or provided under a service area scheme in respect of a national, regional or local road.

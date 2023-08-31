@@ -1,6 +1,6 @@
 Power
 
-51E. (1) The Minister or, as the case may be, the Authority notified of a modification or condition under section 51C may request the developer to furnish, within a specified period, specified information in relation to the developer’s compliance with the modification or condition, and that developer shall comply with such a request.
+51E.— (1) The Minister or, as the case may be, the Authority notified of a modification or condition under section 51C may request the developer to furnish, within a specified period, specified information in relation to the developer’s compliance with the modification or condition, and that developer shall comply with such a request.
 
 (2) A request under subsection (1) by the Minister to the Authority may include a request for information relating to —
 
