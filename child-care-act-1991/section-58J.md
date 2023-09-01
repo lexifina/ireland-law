@@ -1,6 +1,6 @@
 F343[Inspection by authorised persons
 
-58J. —(1) An authorised person may, at all reasonable times, enter any premises in which a registered provider is providing a prescribed early years service for the purpose of ensuring compliance with this Part.
+58J.—(1) An authorised person may, at all reasonable times, enter any premises in which a registered provider is providing a prescribed early years service for the purpose of ensuring compliance with this Part.
 
 (1A) An authorised person may, at all reasonable times, enter any premises in which an applicant proposes to provide a prescribed early years service for the purpose of ascertaining if the premises comply with this Part.
 

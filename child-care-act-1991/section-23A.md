@@ -2,7 +2,7 @@
 
 F100[ Interpretation.
 
-23A.— In this Part—
+23A.—In this Part—
 
 "Act of 2007" means the Health Act 2007;
 

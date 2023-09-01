@@ -1,6 +1,6 @@
 F117[Special care order.
 
-23H.— (1) Where the High Court is satisfied that—
+23H.—(1) Where the High Court is satisfied that—
 
 (a) the child has attained the age of 11 years,
 

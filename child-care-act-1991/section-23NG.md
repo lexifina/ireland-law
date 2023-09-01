@@ -1,6 +1,6 @@
 F145[Release from special care unit for purposes of sections 23D and 23E.
 
-23NG.— (1) Notwithstanding the detention of a child in a special care unit pursuant to a special care order or an interim special care order, the Child and Family Agency may apply to the High Court to vary that special care order or interim special care order to authorise the release of the child from the special care unit for all or any of the following:
+23NG.—(1) Notwithstanding the detention of a child in a special care unit pursuant to a special care order or an interim special care order, the Child and Family Agency may apply to the High Court to vary that special care order or interim special care order to authorise the release of the child from the special care unit for all or any of the following:
 
 (a) for the purposes referred to in section 23D(3)(c);
 

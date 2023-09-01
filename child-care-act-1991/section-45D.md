@@ -1,6 +1,6 @@
 F309[Review and update of aftercare plan
 
-45D. (1) A person in respect of whom an aftercare plan is in operation, or a person who is authorised in writing to make a request on his or her behalf, may request the Child and Family Agency to review the operation of the plan where—
+45D.—(1) A person in respect of whom an aftercare plan is in operation, or a person who is authorised in writing to make a request on his or her behalf, may request the Child and Family Agency to review the operation of the plan where—
 
 (a) there has been a significant change in the circumstances of the person to whom the plan relates since the preparation of, or last review of, that plan,
 

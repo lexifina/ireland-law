@@ -1,6 +1,6 @@
 F129[Interim special care orders made ex parte: supplemental provisions.
 
-23M.— (1) Where, in accordance with section 23L(3), the High Court makes an interim special care order pursuant to an ex parte application—
+23M.—(1) Where, in accordance with section 23L(3), the High Court makes an interim special care order pursuant to an ex parte application—
 
 (a) the High Court shall appoint a day for which the hearing of an application for an interim special care order on notice to the persons referred to in section 23G(1) is returnable to the High Court, and, subject to subsection (7), the day appointed for such hearing shall not exceed 8 days from the day on which that interim special care order is made pursuant to the ex parte application,
 
@@ -18,7 +18,9 @@ F129[Interim special care orders made ex parte: supplemental provisions.
 
 (a) may inform a person referred to in section 23G(2) of the hearing referred to in subsection (1)(a), and
 
-(b) shall, for the purposes of the hearing referred to in subsection (1)(a) and subject to a direction under subsection (2), take all steps reasonably open to it to locate a person referred to in paragraphs (a) and (b) of section 23G(1). (5) Where the High Court makes an interim special care order at the hearing referred to in subsection (1)(a), it shall, when specifying, in accordance with section 23L(2), the period for which that order is to have effect, take into account the period for which the interim special care order made pursuant to the ex parte application has had effect and the cumulative period of the first-mentioned interim special care order and the interim special care order made pursuant to the ex parte application shall not, in accordance with section 23L(2), exceed 14 days.
+(b) shall, for the purposes of the hearing referred to in subsection (1)(a) and subject to a direction under subsection (2), take all steps reasonably open to it to locate a person referred to in paragraphs (a) and (b) of section 23G(1).
+
+(5) Where the High Court makes an interim special care order at the hearing referred to in subsection (1)(a), it shall, when specifying, in accordance with section 23L(2), the period for which that order is to have effect, take into account the period for which the interim special care order made pursuant to the ex parte application has had effect and the cumulative period of the first-mentioned interim special care order and the interim special care order made pursuant to the ex parte application shall not, in accordance with section 23L(2), exceed 14 days.
 
 (6) Where, at the hearing referred to in subsection (1)(a), the High Court—
 

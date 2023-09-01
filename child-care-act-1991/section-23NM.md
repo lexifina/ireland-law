@@ -1,6 +1,6 @@
 F158[Provision of information to certain persons.
 
-23NM.— (1) The Child and Family Agency shall, from time to time during the period for which a special care order or an interim special care order has effect and subject to a direction under section 23NA(2)(a), provide—
+23NM.—(1) The Child and Family Agency shall, from time to time during the period for which a special care order or an interim special care order has effect and subject to a direction under section 23NA(2)(a), provide—
 
 (a) a parent having custody of the child unless the parent is dead, missing or cannot be found, and
 

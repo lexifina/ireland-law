@@ -1,6 +1,6 @@
 F335[Registration
 
-58D.— (1) A person shall not provide a prescribed early years service unless his or her name is entered in the register as a provider of that service.
+58D.—(1) A person shall not provide a prescribed early years service unless his or her name is entered in the register as a provider of that service.
 
 (2) The provider of a prescribed early years service or a person who proposes to provide a prescribed early years service shall make an application to the Agency to be registered in the register.
 

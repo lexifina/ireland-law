@@ -2,7 +2,7 @@
 
 F330[Definitions for this part
 
-58A.— In this Part—
+58A.—In this Part—
 
 "Agency" has the same meaning as it has in the Child and Family Agency Act 2013;
 

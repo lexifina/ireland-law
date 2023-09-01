@@ -1,6 +1,6 @@
 F308[Aftercare plan - eligible adult
 
-45C. (1) An eligible adult or a person authorised in writing to make a request on behalf of an eligible adult may request the Child and Family Agency to prepare an aftercare plan for the eligible adult where the Agency has not previously prepared a plan for that eligible adult.
+45C.—(1) An eligible adult or a person authorised in writing to make a request on behalf of an eligible adult may request the Child and Family Agency to prepare an aftercare plan for the eligible adult where the Agency has not previously prepared a plan for that eligible adult.
 
 (2) Upon receipt of a request under subsection (1), the Child and Family Agency shall, where any need is identified in an assessment of need carried out in respect of the eligible adult, prepare an aftercare plan setting out the assistance that the Agency may provide to the eligible adult to meet the needs as identified in the assessment, being assistance which may be provided to that eligible adult—
 
@@ -14,7 +14,7 @@ F308[Aftercare plan - eligible adult
 
 (3) The Child and Family Agency shall prepare an aftercare plan under subsection (2) within 3 months of receipt of a request made under subsection (1).
 
-(4) The Child and Family Agency in preparing an aftercare plan under subsection (2) —
+(4) The Child and Family Agency in preparing an aftercare plan under subsection (2)—
 
 (a) shall consult with a public body which provides, or any person who provides on behalf of the public body, a service for which the eligible adult may be eligible, and
 
