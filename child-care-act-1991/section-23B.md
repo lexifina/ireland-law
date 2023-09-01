@@ -1,6 +1,6 @@
 Provision of special care and special care units.
 
-23B.— (1) The Child and Family Agency shall provide special care to a child in respect of whom a special care order or an interim special care order has been made for the period for which that special care order or interim special care order has effect.
+23B.—(1) The Child and Family Agency shall provide special care to a child in respect of whom a special care order or an interim special care order has been made for the period for which that special care order or interim special care order has effect.
 
 (2) The Child and Family Agency shall not detain a child in a special care unit unless the detention is pursuant to, and in accordance with, a special care order or an interim special care order made in respect of that child or the High Court has otherwise ordered.
 

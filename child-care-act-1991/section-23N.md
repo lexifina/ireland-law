@@ -1,6 +1,6 @@
 Extension of period for which interim special care order has effect.
 
-23N.— (1) Where an interim special care order has been made in respect of a child and the Child and Family Agency has not yet made a determination under section 23F in respect of that child but it is satisfied that there is reasonable cause to believe that the conditions specified in paragraphs (a) to (e) of section 23J(1) are satisfied in respect of the child, the Child and Family Agency shall, subject to subsections (2) and (8), apply to the High Court to extend the period for which the interim special care order has effect for the purpose of continuing the provision of special care to that child.
+23N.—(1) Where an interim special care order has been made in respect of a child and the Child and Family Agency has not yet made a determination under section 23F in respect of that child but it is satisfied that there is reasonable cause to believe that the conditions specified in paragraphs (a) to (e) of section 23J(1) are satisfied in respect of the child, the Child and Family Agency shall, subject to subsections (2) and (8), apply to the High Court to extend the period for which the interim special care order has effect for the purpose of continuing the provision of special care to that child.
 
 (2) Not more than one application may be made under this section.
 

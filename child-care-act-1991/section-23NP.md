@@ -1,6 +1,6 @@
 Offences.
 
-23NP.— (1) Without prejudice to the law relating to contempt of court, where the High Court—
+23NP.—(1) Without prejudice to the law relating to contempt of court, where the High Court—
 
 (a) makes an order under section 23H(3)(a),
 

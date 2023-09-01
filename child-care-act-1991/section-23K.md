@@ -1,6 +1,6 @@
 Special care before determination under section 23F.
 
-23K.— Where the Child and Family Agency is taking all steps reasonably open to it to make a determination under section 23F in respect of a child and has not yet made that determination but it is satisfied that there is reasonable cause to believe that—
+23K.—Where the Child and Family Agency is taking all steps reasonably open to it to make a determination under section 23F in respect of a child and has not yet made that determination but it is satisfied that there is reasonable cause to believe that—
 
 (a) the child has attained the age of 11 years,
 

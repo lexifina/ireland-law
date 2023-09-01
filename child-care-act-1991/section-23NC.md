@@ -1,6 +1,6 @@
 Appeal and staying of order.
 
-23NC.— Where—
+23NC.—Where—
 
 (a) a special care order or an interim special care order, or
 

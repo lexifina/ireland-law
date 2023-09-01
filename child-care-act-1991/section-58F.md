@@ -1,6 +1,6 @@
 Appeals to District Court.
 
-58F.— (1) A registered provider or an applicant, may, within 21 days of the receipt of the notification of a decision under section 58D, appeal to the District Court against a decision of the Agency to—
+58F.—(1) A registered provider or an applicant, may, within 21 days of the receipt of the notification of a decision under section 58D, appeal to the District Court against a decision of the Agency to—
 
 (a) refuse to register the applicant under section 58D,
 

@@ -1,6 +1,6 @@
 Proceedings under Guardianship of Infants Act, 1964, Judicial Separation and Family Law Reform Act, 1989, etc.
 
-20.—Where in any proceedings under section 7, 8,11, 11B or Part III of the Guardianship of Infants Act, 1964, or in any case to which—
+20.—Where in any proceedings under section 7, 8, 11, 11B or Part III of the Guardianship of Infants Act, 1964, or in any case to which—
 
 (a) section 3(3) of the Judicial Separation and Family Law Reform Act, 1989,
 

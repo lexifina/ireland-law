@@ -1,6 +1,6 @@
 Request for appraisal of special care provided to child.
 
-23NN.— (1) A parent of a child who is the subject of a special care order or an interim special care order, a guardian or a person who has a bona fide interest in the child, may request, in writing, the Child and Family Agency to carry out an appraisal of the child in respect of the special care provided to him or her, the care requirements of the child, the behaviour of the child before the provision of such special care and the risk such behaviour poses to his or her life, health, safety, development or welfare.
+23NN.—(1) A parent of a child who is the subject of a special care order or an interim special care order, a guardian or a person who has a bona fide interest in the child, may request, in writing, the Child and Family Agency to carry out an appraisal of the child in respect of the special care provided to him or her, the care requirements of the child, the behaviour of the child before the provision of such special care and the risk such behaviour poses to his or her life, health, safety, development or welfare.
 
 (2) Where a request under subsection (1) is made, the Child and Family Agency shall, subject to subsection (3), carry out an appraisal referred to in subsection (1).
 

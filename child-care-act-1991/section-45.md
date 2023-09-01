@@ -1,6 +1,6 @@
 Aftercare plan.
 
-45. (1) Subject to section 45A and subsection (3), the Child and Family Agency shall, in accordance with sections 45B or 45C, prepare an aftercare plan for an eligible child or an eligible adult, as the case may be, setting out the assistance that may be provided by the Agency to the eligible child on or after he or she attains the age of 18 years or to the eligible adult.
+45.—(1) Subject to section 45A and subsection (3), the Child and Family Agency shall, in accordance with sections 45B or 45C, prepare an aftercare plan for an eligible child or an eligible adult, as the case may be, setting out the assistance that may be provided by the Agency to the eligible child on or after he or she attains the age of 18 years or to the eligible adult.
 
 (2) The Child and Family Agency shall, in accordance with section 45D, update an aftercare plan referred to in subsection (1).
 

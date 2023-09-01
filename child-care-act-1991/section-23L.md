@@ -1,6 +1,6 @@
 Interim special care order.
 
-23L.— (1) Where the High Court is satisfied that there is reasonable cause to believe that—
+23L.—(1) Where the High Court is satisfied that there is reasonable cause to believe that—
 
 (a) the child has attained the age of 11 years,
 

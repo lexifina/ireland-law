@@ -1,6 +1,6 @@
 Return of child to Child and Family Agency in certain circumstances.
 
-23NI.— (1) Where a child, in respect of whom a special care order or an interim special care order has been made—
+23NI.—(1) Where a child, in respect of whom a special care order or an interim special care order has been made—
 
 (a) is, without lawful authority or the consent or the knowledge of the Child and Family Agency, removed from the custody of the Child and Family Agency or a special care unit,
 

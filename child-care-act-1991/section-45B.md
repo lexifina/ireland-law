@@ -1,6 +1,6 @@
 Aftercare plan - eligible child.
 
-45B. (1) The Child and Family Agency shall, where any need is identified in an assessment of need carried out in respect of an eligible child in the care of the Agency, prepare an aftercare plan for that child.
+45B.—(1) The Child and Family Agency shall, where any need is identified in an assessment of need carried out in respect of an eligible child in the care of the Agency, prepare an aftercare plan for that child.
 
 (2) An eligible child who is no longer in the care of the Child and Family Agency, or his or her parent, guardian or a person acting in loco parentis to him or her, may request the Agency to prepare an aftercare plan for that eligible child.
 

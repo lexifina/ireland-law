@@ -1,6 +1,6 @@
 Exemptions from provisions of this Part.
 
-58L.— For the avoidance of doubt it is hereby declared that the provisions of this Part shall not apply to—
+58L.—For the avoidance of doubt it is hereby declared that the provisions of this Part shall not apply to—
 
 (a) the care of one or more children undertaken by a relative of the child or children or the spouse of such relative,
 

@@ -1,6 +1,6 @@
 Guidelines.
 
-23NO.— The Child and Family Agency shall prepare and publish guidelines in respect of—
+23NO.—The Child and Family Agency shall prepare and publish guidelines in respect of—
 
 (a) the procedures for—
 

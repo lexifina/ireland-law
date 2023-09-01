@@ -1,6 +1,6 @@
 Functions of Child and Family Agency when providing special care.
 
-23ND.— (1) Where a special care order or an interim special care order has effect the Child and Family Agency—
+23ND.—(1) Where a special care order or an interim special care order has effect the Child and Family Agency—
 
 (a) shall have the like control over the child as if it were a parent of that child,
 

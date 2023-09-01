@@ -1,6 +1,6 @@
 Discharge and variation of special care order or interim special care order.
 
-23NE.— (1) Where a special care order or an interim special care order has effect and the Child and Family Agency is satisfied that there is reasonable cause to believe that—
+23NE.—(1) Where a special care order or an interim special care order has effect and the Child and Family Agency is satisfied that there is reasonable cause to believe that—
 
 (a) the care requirements of the child have changed and the child no longer requires special care, or
 

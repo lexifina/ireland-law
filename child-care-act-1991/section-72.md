@@ -1,3 +1,3 @@
-Functions of chief executive officer.
+Functions of chief executive officer. (Repealed)
 
 72.—...
