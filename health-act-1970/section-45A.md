@@ -1,6 +1,6 @@
 F54[Full eligibility.
 
-45A.— (1) Notwithstanding section 45(6), a person in one of the following categories and who is ordinarily resident in the State also shall have full eligibility for the services under this Part:
+45A.—(1) Notwithstanding section 45(6), a person in one of the following categories and who is ordinarily resident in the State also shall have full eligibility for the services under this Part:
 
 (a) persons who, on or after 1 January 2009, attain or have attained the age of 70 years, whose gross income does not exceed the relevant income limit and who—
 

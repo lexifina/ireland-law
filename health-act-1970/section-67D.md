@@ -1,6 +1,6 @@
 F137[Waiver of residential support services maintenance and accommodation contributions.
 
-67D.— (1) (a) The Health Service Executive may waive (in whole or in part) the obligation of a person to make payment of a residential support services maintenance and accommodation contribution.
+67D.—(1) (a) The Health Service Executive may waive (in whole or in part) the obligation of a person to make payment of a residential support services maintenance and accommodation contribution.
 
 (b) The Health Service Executive shall not exercise the power referred to in paragraph (a) unless, having regard to the financial circumstances of the person concerned, it is satisfied that—
 

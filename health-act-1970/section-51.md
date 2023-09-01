@@ -2,7 +2,7 @@
 
 F77[In-patient services.
 
-51.— In this Part—
+51.—In this Part—
 
 "acute in-patient services" means in-patient services provided—
 

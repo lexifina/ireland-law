@@ -1,6 +1,6 @@
 F104[General practitioner medical and surgical service for certain persons over 70 years of age.
 
-58A.— (1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is ordinarily resident in the State in one of the following categories—
+58A.—(1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is ordinarily resident in the State in one of the following categories—
 
 (a) persons—
 

@@ -2,7 +2,7 @@
 
 F147[Arrangements in relation to health services.
 
-75A. (1) The Minister may, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, make such order or orders as he or she considers necessary to carry out any reciprocal or other arrangements made with, or under the proper authority of, the Government of the United Kingdom in respect of health services that will apply between the State and the United Kingdom after the end of the transition period.
+75A.—(1) The Minister may, with the consent of the Minister for Finance and the Minister for Public Expenditure and Reform, make such order or orders as he or she considers necessary to carry out any reciprocal or other arrangements made with, or under the proper authority of, the Government of the United Kingdom in respect of health services that will apply between the State and the United Kingdom after the end of the transition period.
 
 (2) Without prejudice to the generality of subsection (1), an order under that subsection may specify—
 
