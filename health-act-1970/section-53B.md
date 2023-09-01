@@ -1,6 +1,6 @@
 Charges for long-term residential care services.
 
-53B.— (1) Charges shall be made for long-term residential care services in accordance with the Nursing Homes Support Scheme Act 2009.
+53B.—(1) Charges shall be made for long-term residential care services in accordance with the Nursing Homes Support Scheme Act 2009.
 
 (2) A reference in subsection (1) to long-term residential care services shall be construed as a reference to such services provided to a person who first began to receive those services on or after 27 October 2009.
 

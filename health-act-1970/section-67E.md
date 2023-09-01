@@ -1,6 +1,6 @@
 Contraception services for certain women.
 
-67E. (1) The Health Service Executive shall make available without charge contraception services for women who are ordinarily resident in the State—
+67E.—(1) The Health Service Executive shall make available without charge contraception services for women who are ordinarily resident in the State—
 
 (a) who have attained the age of 17 years but not yet attained the age of 26 years, or
 

@@ -1,6 +1,6 @@
 Services for women in accordance with Act of 2018.
 
-62A. (1) The Health Service Executive shall make available without charge medical, surgical and midwifery services for the purpose of termination of pregnancy in accordance with section 9, 10, 11 or 12 of the Act of 2018 for women who are ordinarily resident in the State.
+62A.—(1) The Health Service Executive shall make available without charge medical, surgical and midwifery services for the purpose of termination of pregnancy in accordance with section 9, 10, 11 or 12 of the Act of 2018 for women who are ordinarily resident in the State.
 
 (2) The services referred to in subsection (1) shall be provided otherwise than as in-patient services.
 

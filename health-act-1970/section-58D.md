@@ -1,6 +1,6 @@
 General practitioner medical and surgical service for persons in receipt of carer’s allowance or carer’s benefit.
 
-58D. (1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is in receipt of—
+58D.—(1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is in receipt of—
 
 (a) carer’s benefit within the meaning of Chapter 14 of Part 2 of the Act of 2005,
 

@@ -1,6 +1,6 @@
 Interpretation - sections 67A to 67D.
 
-67A. (1) In this section and sections 67B to 67D—
+67A.—(1) In this section and sections 67B to 67D—
 
 "accommodation", in relation to a person ("relevant person") being provided with a health or personal social service that falls within the definition of "residential support services", means—
 

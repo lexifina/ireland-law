@@ -1,6 +1,6 @@
 In-patient services for persons not entitled, or who have waived entitlement, to services under section 52.
 
-55.— (1) (a) The Health Service Executive may, subject to any regulations made under subsection (3), make available in-patient services for persons who—
+55.—(1) (a) The Health Service Executive may, subject to any regulations made under subsection (3), make available in-patient services for persons who—
 
 (i) do not establish entitlement to such services under section 52, or
 

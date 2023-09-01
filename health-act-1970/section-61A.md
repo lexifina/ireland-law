@@ -1,6 +1,6 @@
 Information to be provided to Health Service Executive by home care providers.
 
-61A.— (1) A home care provider shall give notice in writing to the Health Service Executive, as soon as it is practicable for the provider to do so, of—
+61A.—(1) A home care provider shall give notice in writing to the Health Service Executive, as soon as it is practicable for the provider to do so, of—
 
 (a) the name and address of the provider,
 

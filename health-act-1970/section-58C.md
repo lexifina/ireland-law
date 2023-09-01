@@ -1,6 +1,6 @@
 Agreement for provision of service under section 58B.
 
-58C. (1) The Health Service Executive may, subject to this section, enter, on such terms and conditions as it considers appropriate, into an agreement with a relevant medical practitioner for the provision by him or her of relevant services to eligible persons.
+58C.—(1) The Health Service Executive may, subject to this section, enter, on such terms and conditions as it considers appropriate, into an agreement with a relevant medical practitioner for the provision by him or her of relevant services to eligible persons.
 
 (2) Without prejudice to the generality of the power of the Health Service Executive under subsection (1), an agreement referred to in that subsection shall—
 
