@@ -108,7 +108,7 @@ Hearing of proceedings.
 
 (d) In this subsection—
 
-"personal data" has the same meaning as it has in the Data Protection Regulation;
+...
 
 "proceedings" include proceedings commenced but not completed before the commencement of this subsection;
 
