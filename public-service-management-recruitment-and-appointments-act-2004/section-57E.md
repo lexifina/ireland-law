@@ -10,7 +10,7 @@ Exclusions.
 
 (d) the holder of a qualifying office, within the meaning of section 13 (amended by section 11 of the Ministerial, Parliamentary and Judicial Offices and Oireachtas Members (Miscellaneous Provisions) Act 2001) of the Ministerial and Parliamentary Offices Act 1938;
 
-(e) to the extent not otherwise provided by this subsection, an office holder within the meaning given to ‘office holder’ by section 2 of the Ethics in Public Office Act 1995 for the purposes of that Act;
+(e) to the extent not otherwise provided by this subsection, an office holder within the meaning given to "office holder" by section 2 of the Ethics in Public Office Act 1995 for the purposes of that Act;
 
 (f) the position of special adviser within the meaning of section 19 of the Ethics in Public Office Act 1995;
 
