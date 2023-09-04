@@ -1,6 +1,6 @@
 Recommendation by enterprise development agency.
 
-3B.— (1) An enterprise development agency may make a recommendation in writing to the Minister in respect of an application for—
+3B.—(1) An enterprise development agency may make a recommendation in writing to the Minister in respect of an application for—
 
 (a) the grant of an employment permit, or
 

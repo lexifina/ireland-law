@@ -1,6 +1,6 @@
 Application (other than by a foreign national) for permit — information to be provided.
 
-6.— An application for an employment permit shall—
+6.—An application for an employment permit shall—
 
 (a) provide a full and accurate description of the employment in respect of which the application is made (the ‘employment concerned’) and the terms and conditions, including the hours of work in each week, and the duration, of the employment concerned,
 

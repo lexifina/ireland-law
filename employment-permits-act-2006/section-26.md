@@ -1,6 +1,6 @@
 Prohibition on penalisation.
 
-26.— (1) In this section “penalisation” includes any act or omission by an employer or a person acting on behalf of an employer that affects, to his or her detriment, an employee with respect to any term or condition of his or her employment.
+26.—(1) In this section “penalisation” includes any act or omission by an employer or a person acting on behalf of an employer that affects, to his or her detriment, an employee with respect to any term or condition of his or her employment.
 
 (2) Without prejudice to the generality of subsection (1), “penalisation” in this section includes—
 

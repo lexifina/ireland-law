@@ -1,6 +1,6 @@
 Amendment of section 2 of Act of 2003.
 
-2.— Section 2 of the Act of 2003 is amended by substituting the following for subsections (1) and (2):
+2.—Section 2 of the Act of 2003 is amended by substituting the following for subsections (1) and (2):
 
 “(1) A foreign national shall not—
 

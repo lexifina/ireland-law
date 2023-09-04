@@ -1,6 +1,6 @@
 Data exchange in respect of certain matters.
 
-37.— (1) Information held by the Minister for the purposes of this Act or the Act of 2003 may be supplied by the Minister to each of the following, namely:
+37.—(1) Information held by the Minister for the purposes of this Act or the Act of 2003 may be supplied by the Minister to each of the following, namely:
 
 (a) the Minister for Social and Family Affairs;
 

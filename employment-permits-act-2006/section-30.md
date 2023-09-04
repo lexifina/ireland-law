@@ -1,6 +1,6 @@
 Further provisions in relation to regulations.
 
-30.— (1) The Minister may make regulations in relation to any matter referred to in this Act as prescribed or to be prescribed.
+30.—(1) The Minister may make regulations in relation to any matter referred to in this Act as prescribed or to be prescribed.
 
 (2) Different regulations under subsection (1) may be made in respect of different classes of matter the subject of the prescribing concerned and for different circumstances or classes of circumstances in relation to such different matters or different classes of matters.
 

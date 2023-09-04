@@ -1,6 +1,6 @@
 Sections 20A and 20B: supplemental provisions.
 
-20D.— Where—
+20D.—Where—
 
 (a) an employment permit is in force immediately before the coming into operation of section 7 and section 24 of the Employment Permits (Amendment) Act 2014,
 

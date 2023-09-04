@@ -1,6 +1,6 @@
 Register of employment permits.
 
-28.— The Minister shall establish and maintain a register of employment permits granted under this Act and shall cause to be entered in such register—
+28.—The Minister shall establish and maintain a register of employment permits granted under this Act and shall cause to be entered in such register—
 
 (a) the name of—
 

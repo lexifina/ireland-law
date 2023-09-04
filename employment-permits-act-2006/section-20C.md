@@ -1,6 +1,6 @@
 Information and documents to be provided with notification under section 20A or 20B of dismissal by reason of redundancy.
 
-20C.— The information and documents to be provided to the Minister with the notification referred to in section 20A(2) and 20B(2) are—
+20C.—The information and documents to be provided to the Minister with the notification referred to in section 20A(2) and 20B(2) are—
 
 (a) the date of dismissal,
 

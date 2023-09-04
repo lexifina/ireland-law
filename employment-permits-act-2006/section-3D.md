@@ -1,6 +1,6 @@
 Supplemental provisions relating to the grant of employment permit for purpose referred to in section 3A(2)(d).
 
-3D.— (1) Where a foreign employer requires a foreign national employed by him or her outside the State to carry out duties for, or participate in a training programme provided by, a connected person without prejudice to any other requirement under this Act or to the employment outside the State of the foreign national—
+3D.—(1) Where a foreign employer requires a foreign national employed by him or her outside the State to carry out duties for, or participate in a training programme provided by, a connected person without prejudice to any other requirement under this Act or to the employment outside the State of the foreign national—
 
 (a) notwithstanding that the remuneration, in so far as it relates to salary is to be paid by the foreign employer, it shall be a condition of the grant of the employment permit for the purpose referred to in section 3A(2)(d) that, in respect of the remuneration, in so far as it relates to the salary to be paid to the foreign national by the foreign employer for the period for which the employment permit is granted, the hourly rate of that salary shall be not less than the national minimum hourly rate of pay or, where appropriate to the employment in respect of which the application is made, the hourly rate referred to in section 12(6)(b),
 

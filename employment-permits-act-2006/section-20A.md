@@ -1,6 +1,6 @@
 Redundancy of foreign national to whom employment permit granted for purpose referred to in section 3A(2)(a).
 
-20A.— (1) This section applies to a foreign national to whom an employment permit in respect of the purpose referred to in section 3A(2)(a) has been granted and he or she is dismissed by reason of redundancy from the employment concerned during the period for which the employment permit is in force.
+20A.—(1) This section applies to a foreign national to whom an employment permit in respect of the purpose referred to in section 3A(2)(a) has been granted and he or she is dismissed by reason of redundancy from the employment concerned during the period for which the employment permit is in force.
 
 (2) Without prejudice to section 24, a foreign national to whom this section applies shall notify the Minister of the date of dismissal within 4 weeks of that date of dismissal and the notification shall be in such form as may be specified in regulations under section 29 and shall include the information and documents specified in section 20C.
 

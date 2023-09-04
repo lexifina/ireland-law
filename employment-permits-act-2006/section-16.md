@@ -1,6 +1,6 @@
 Revocation of employment permit.
 
-16.— (1) The Minister may revoke an employment permit if—
+16.—(1) The Minister may revoke an employment permit if—
 
 (a) in the opinion of the Minister, the holder of the permit or the employer or connected person has not complied with section 19(1) or (2),
 

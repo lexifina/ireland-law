@@ -1,6 +1,6 @@
 Short title, collective citation, construction and commencement.
 
-41.— (1) This Act may be cited as the Employment Permits Act 2006.
+41.—(1) This Act may be cited as the Employment Permits Act 2006.
 
 (2) The Employment Permits Act 2003 and this Act may be cited together as the Employment Permits Acts 2003 and 2006.
 

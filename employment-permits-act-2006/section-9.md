@@ -1,6 +1,6 @@
 Original of permit to be issued to foreign national, information to be included in permit, etc.
 
-9.— (1) The Minister shall cause—
+9.—(1) The Minister shall cause—
 
 (a) the original of an employment permit granted under section 8 to be issued to the foreign national concerned, and
 

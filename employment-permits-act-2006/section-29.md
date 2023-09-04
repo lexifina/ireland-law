@@ -1,6 +1,6 @@
 Regulations.
 
-29.— (1) The Minister shall make regulations providing for the procedure relating to the making of an application for an employment permit under section 4 or the renewal of an employment permit under section 20 and the grant or renewal of an employment permit on foot of such an application and may, when making the regulations, make provision for the purposes specified in paragraphs (a) to (i) of section 3A(2) for which employment permits may be granted and the different classes of employment permit provided for in regulations under section 14(1) in respect of those purposes.
+29.—(1) The Minister shall make regulations providing for the procedure relating to the making of an application for an employment permit under section 4 or the renewal of an employment permit under section 20 and the grant or renewal of an employment permit on foot of such an application and may, when making the regulations, make provision for the purposes specified in paragraphs (a) to (i) of section 3A(2) for which employment permits may be granted and the different classes of employment permit provided for in regulations under section 14(1) in respect of those purposes.
 
 (2) Without prejudice to the generality of subsection (1), regulations under this section may make provision for all or any of the following:
 

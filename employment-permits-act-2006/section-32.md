@@ -1,6 +1,6 @@
 Penalties and proceedings.
 
-32.— (1) A person guilty of an offence under section 18(2), 19(3), 23(4) or 25 is liable—
+32.—(1) A person guilty of an offence under section 18(2), 19(3), 23(4) or 25 is liable—
 
 (a) on summary conviction, to a fine not exceeding €5,000 or imprisonment for a term not exceeding 12 months or both, or
 

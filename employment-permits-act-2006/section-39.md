@@ -1,6 +1,6 @@
 Amendment of section 1(1) of Act of 2003.
 
-39.— Section 1(1) of the Act of 2003 is amended—
+39.—Section 1(1) of the Act of 2003 is amended—
 
 (a) by inserting the following definition after the definition of “employer”:
 
