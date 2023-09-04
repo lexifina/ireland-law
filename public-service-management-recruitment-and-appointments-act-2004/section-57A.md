@@ -1,6 +1,6 @@
 ## PART 6A REDEPLOYMENT
 
-F23[ Interpretation of Part and operation of designations under it.
+F23[Interpretation of Part and operation of designations under it.
 
 57A.—(1) In this Part—
 
