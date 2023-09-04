@@ -1,6 +1,6 @@
 Evidence through television link.
 
-35.— (1) In any proceedings for an offence under this Act or the Act of 2003, a person, other than the accused, may, with the leave of the court, give evidence through a live television link if the person is outside the State.
+35.—(1) In any proceedings for an offence under this Act or the Act of 2003, a person, other than the accused, may, with the leave of the court, give evidence through a live television link if the person is outside the State.
 
 (2) ...
 

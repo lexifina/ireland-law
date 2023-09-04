@@ -1,6 +1,6 @@
 Prohibition on certain use of employment permit.
 
-19.— (1) Where an employment permit has been granted ...the employer or the connected person shall not purport to—
+19.—(1) Where an employment permit has been granted ...the employer or the connected person shall not purport to—
 
 (a) transfer the employment permit to another person,
 

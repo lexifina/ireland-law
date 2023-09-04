@@ -1,6 +1,6 @@
 Definition of "remuneration".
 
-1A.— (1) In this Act ‘remuneration’ means—
+1A.—(1) In this Act "remuneration" means—
 
 (a) subject to paragraph (b), the total amount of—
 

@@ -1,6 +1,6 @@
 Consideration by Minister of application for employment permit.
 
-11.— (1) In considering an application for an employment permit, the Minister shall have regard to—
+11.—(1) In considering an application for an employment permit, the Minister shall have regard to—
 
 (a) the extent to which a decision to grant the permit would be consistent with economic policy for the time being of the Government,
 

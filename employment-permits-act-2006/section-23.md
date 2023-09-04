@@ -1,6 +1,6 @@
 Prohibition on deduction from remuneration and retention of personal documents.
 
-23.— (1) The employer shall not make any deductions from the remuneration of, or seek to recover from, the holder of the employment permit concerned any charge, fee or expense arising out of or concerning one or more of the following:
+23.—(1) The employer shall not make any deductions from the remuneration of, or seek to recover from, the holder of the employment permit concerned any charge, fee or expense arising out of or concerning one or more of the following:
 
 (a) the application for the employment permit or a renewal of the permit under section 20 or any matter relating to or concerning such an application or the grant or renewal of the permit;
 

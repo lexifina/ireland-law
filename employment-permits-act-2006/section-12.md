@@ -1,6 +1,6 @@
 Refusal to grant employment permit.
 
-12.— (1) The Minister may refuse to grant an employment permit if—
+12.—(1) The Minister may refuse to grant an employment permit if—
 
 (a) the applicant for the permit (the “applicant”) has failed to provide any information required by or under this Act in respect of the application for the permit (the “application”) or has failed to provide any information, documents or evidence required by or under this Act in respect of the application within the period specified in regulations under section 29,
 

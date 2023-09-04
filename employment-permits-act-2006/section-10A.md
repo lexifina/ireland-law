@@ -1,6 +1,6 @@
 Establishing need for grant of certain employment permits.
 
-10A.— (1) This section applies to an application for an employment permit in respect of the purpose specified in section 3A(2)(c) or 3A(2)(e).
+10A.—(1) This section applies to an application for an employment permit in respect of the purpose specified in section 3A(2)(c) or 3A(2)(e).
 
 (2) Subject to subsections (6) and (7), the Minister shall not grant an employment permit referred to in subsection (1) unless the Minister is satisfied that a notice of the offer of the employment that is the subject of the application has been published in accordance with this section before the application referred to in subsection (1) is made and the application is made within the period referred to in subsection (5).
 

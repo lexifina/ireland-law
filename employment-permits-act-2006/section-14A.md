@@ -1,6 +1,6 @@
 Remuneration relating to employments.
 
-14A.— (1) When specifying, in regulations made under section 14, an amount of remuneration for an employment or a category of employment, the Minister may have regard to the amounts of remuneration paid in respect of different employments and categories of employment.
+14A.—(1) When specifying, in regulations made under section 14, an amount of remuneration for an employment or a category of employment, the Minister may have regard to the amounts of remuneration paid in respect of different employments and categories of employment.
 
 (2) Where—
 

@@ -1,6 +1,6 @@
 Supplemental provisions relating to the grant of employment permit for purpose referred to in section 3A(2)(e).
 
-3E.— (1) Where, pursuant to the employment outside the State by a contractor of a foreign national, the contractor requires the foreign national to carry out duties in the State that arise out of a contract service agreement without prejudice to any other requirement under this Act or to the employment outside the State of the foreign national—
+3E.—(1) Where, pursuant to the employment outside the State by a contractor of a foreign national, the contractor requires the foreign national to carry out duties in the State that arise out of a contract service agreement without prejudice to any other requirement under this Act or to the employment outside the State of the foreign national—
 
 (a) notwithstanding that the remuneration in so far as it relates to salary, is paid to the foreign national outside the State, it shall be a condition of the grant of the employment permit for the purpose referred to in section 3A(2)(e) that, in respect of the remuneration, in so far as it relates to the salary to be paid to the foreign national by the contractor for the period for which the employment permit is granted, the hourly rate of that salary shall be not less than the national minimum hourly rate of pay or, where appropriate to the employment in respect of which the application is made, the hourly rate referred to in section 12(6)(b), and
 

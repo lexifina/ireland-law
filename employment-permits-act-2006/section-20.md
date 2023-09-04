@@ -1,6 +1,6 @@
 Renewal of employment permit.
 
-20.— (1) Subject to subsection (1A), the Minister may from time to time ... renew an employment permit in accordance with this section.
+20.—(1) Subject to subsection (1A), the Minister may from time to time ... renew an employment permit in accordance with this section.
 
 (1A) An employment permit granted in respect of the purpose referred to in—
 

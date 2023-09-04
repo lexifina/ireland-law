@@ -1,6 +1,6 @@
 Interpretation.
 
-1.— (1) In this Act—
+1.—(1) In this Act—
 
 "Act of 1963" means the Registration of Business Names Act 1963;
 

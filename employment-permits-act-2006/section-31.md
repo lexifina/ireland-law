@@ -1,6 +1,6 @@
 Service of notices.
 
-31.— (1) A notice or document that is required to be served, issued or given under this Act shall be addressed to the person concerned by name and may be served on or issued or given to the person in one of the following ways:
+31.—(1) A notice or document that is required to be served, issued or given under this Act shall be addressed to the person concerned by name and may be served on or issued or given to the person in one of the following ways:
 
 (a) by delivering it to the person;
 

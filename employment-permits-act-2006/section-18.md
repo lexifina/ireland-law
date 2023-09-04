@@ -1,6 +1,6 @@
 Prohibition on forgery, fraudulent alteration or fraudulent use of employment permit.
 
-18.— (1) A person shall not—
+18.—(1) A person shall not—
 
 (a) forge a document purporting to be an employment permit,
 

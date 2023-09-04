@@ -1,6 +1,6 @@
 Delegation of functions.
 
-36.— (1) The Minister may, with the consent of the Minister of the Government concerned, delegate the performance of functions under any or all of sections 6 to 13, 16, 17 and 20 in a specified class of cases to an officer, of a specified class, of another Minister of the Government.
+36.—(1) The Minister may, with the consent of the Minister of the Government concerned, delegate the performance of functions under any or all of sections 6 to 13, 16, 17 and 20 in a specified class of cases to an officer, of a specified class, of another Minister of the Government.
 
 (2) Functions so delegated shall be performable by such an officer accordingly.
 

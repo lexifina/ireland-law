@@ -1,8 +1,8 @@
 Review of decision to refuse permit.
 
-13.— (1)A decision of the Minister to refuse to grant an employment permit may, in accordance with regulations under section 29(3), be submitted by the applicant therefor to the Minister for review under this section.
+13.—(1) A decision of the Minister to refuse to grant an employment permit may, in accordance with regulations under section 29(3), be submitted by the applicant therefor to the Minister for review under this section.
 
-(2)Such a submission of a decision for review shall be made within 28 days from the date the decision is notified under section 12 to the applicant.
+(2) Such a submission of a decision for review shall be made within 28 days from the date the decision is notified under section 12 to the applicant.
 
 (2A) Where—
 

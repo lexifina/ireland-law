@@ -1,6 +1,6 @@
 Application for employment permit.
 
-4.— (1) An application for the grant of an employment permit in respect of the employment in the State of a particular foreign national may , subject to subsection (3), be made, other than in a case referred to in subsection (2), by—
+4.—(1) An application for the grant of an employment permit in respect of the employment in the State of a particular foreign national may , subject to subsection (3), be made, other than in a case referred to in subsection (2), by—
 
 (a) the person proposing to employ the foreign national, or
 

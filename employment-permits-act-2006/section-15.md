@@ -1,6 +1,6 @@
 Criteria to which regard is to be had in making regulations under section 14 .
 
-15.— (1) The matters mentioned in subsections (1) and (2) of section 14 are—
+15.—(1) The matters mentioned in subsections (1) and (2) of section 14 are—
 
 (a) the qualifications , experience or skills that, in the opinion of the Minister, are required for economic and social development and competitiveness ...
 

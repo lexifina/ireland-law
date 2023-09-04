@@ -1,6 +1,6 @@
 Presumption that a person is being employed.
 
-34.— In proceedings for an offence under section 2(3) of the Act of 2003, where evidence is given by—
+34.—In proceedings for an offence under section 2(3) of the Act of 2003, where evidence is given by—
 
 (a) a member of the Garda Síochána,
 

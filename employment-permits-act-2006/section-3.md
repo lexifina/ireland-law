@@ -48,7 +48,7 @@ Further amendment of Act of 2003.
 
 “Non-application of section 2 to nationals of Bulgaria and Romania.
 
-3A.— (1) Notwithstanding section 2(10), the Minister may, subject to subsection (2), make an order providing that section 2 shall apply neither to nationals of the Republic of Bulgaria nor to nationals of Romania and for so long as such an order remains in force that section shall not apply to such nationals accordingly.
+3A.—(1) Notwithstanding section 2(10), the Minister may, subject to subsection (2), make an order providing that section 2 shall apply neither to nationals of the Republic of Bulgaria nor to nationals of Romania and for so long as such an order remains in force that section shall not apply to such nationals accordingly.
 
 (2) The Minister shall not make an order under subsection (1) at a particular time unless, having regard to the conditions of the labour market in the State at that time, the Minister is of the opinion—
 
