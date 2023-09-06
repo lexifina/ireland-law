@@ -46,6 +46,22 @@ Interpretation
 
 “Minister” means the Minister for Agriculture, Food and the Marine;
 
+C1 "native tree area" means land under trees —
+
+(a) with—
+
+(i) an area of not less than 0. 1 hectare and not greater than 1 hectare, or
+
+(ii) an area of not less than 0. 1 hectare that is not greater than 20 metres in width, and
+
+(b) where the trees concerned are native tree species only, of which not more than 25 per cent are Scots pine;
+
+"native tree area grant", in relation to a native tree area, means any payment made by the Minister for native tree area-related activities, other than a loan;
+
+"native tree species" means a species of tree specified in the Schedule by its common name in column (1) thereof and by its scientific name in column (2) thereof;
+
+"planting", in relation to a native tree area, means the conversion of land to a native tree area;
+
 “natural regeneration” means the generation of trees from natural seed fall;
 
 “owner”, in relation to trees or a forest, means—
