@@ -2,7 +2,7 @@
 
 Granting of licences by Minister for afforestation and certain other activities
 
-22. (1) Subject to section 7, where a person wishes to undertake afforestation, forest road works or aerial fertilisation of forests, he or she shall apply to the Minister for a licence to do so.
+22. (1) Subject to sections 7 and 22A, where a person wishes to undertake afforestation, forest road works or aerial fertilisation of forests, he or she shall apply to the Minister for a licence to do so.
 
 (2) An application under subsection (1) shall specify—
 

@@ -2,7 +2,7 @@
 
 Offences and penalties
 
-27. (1) A person who, in applying for a grant, registration, licence or approval under the relevant statutory provisions—
+27. (1) A person who, in applying for a grant, native tree area grant, registration, licence or approval under the relevant statutory provisions—
 
 (a) furnishes information, or
 

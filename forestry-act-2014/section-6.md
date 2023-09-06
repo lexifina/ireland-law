@@ -24,6 +24,12 @@ Specific functions of Minister
 
 (g) undertake, participate in or promote any scheme or project related to his or her functions,
 
+(ga) in order to enable the State to pursue, and achieve, the transition to a low carbon, climate resilient, biodiversity rich and environmentally sustainable economy —
+
+(i) undertake, participate in or promote any scheme or project promoting the planting of native tree areas, and
+
+(ii) in accordance with the relevant statutory provisions, give approval for and provide native tree area grants, subject to such conditions as may be specified, for the planting of native tree areas,
+
 (h) undertake the collection, preparation, publication and distribution of statistics relating to forestry,
 
 (i) prescribe fees pursuant to section 25,
