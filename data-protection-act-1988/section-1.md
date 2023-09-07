@@ -4,7 +4,7 @@ Interpretation and application of Act.
 
 1.—(1) In this Act, unless the context otherwise requires—
 
-‘the Act of 2003’ means the Data Protection (Amendment) Act 2003
+"the Act of 2003" means the Data Protection (Amendment) Act 2003
 
 “appropriate authority” has the meaning assigned to it by the Civil Service Regulation Acts, 1956 and 1958;
 
@@ -47,8 +47,6 @@ Interpretation and application of Act.
 “disclosure”, in relation to personal data, includes the disclosure of information extracted from such data and the transfer of such data but does not include a disclosure made directly or indirectly by a data controller or a data processor to an employee or agent of his for the purpose of enabling the employee or agent to carry out his duties; and, where the identification of a data subject depends partly on the data and partly on other information in the possession of the data controller, the data shall not be regarded as disclosed unless the other information is also disclosed;
 
 "the EEA Agreement"means the Agreement on the European Economic Area signed at Oporto on 2 May 1992 as adjusted by the Protocol signed at Brussels on 17 March 1993;
-
-(1) O.J. No. L 281/38 of 23.11.95, p.31.
 
 "enactment" means a statute or a statutory instrument (within the meaning of the Interpretation Act 1937);
 
@@ -150,7 +148,7 @@ Interpretation and application of Act.
 
 (a) data kept solely for the purpose of historical research, or
 
-(b) other data consisting of archives or departmental records (within the meaning in each case of the National Archives Act 1986), and the keeping of which complies with such requirements (if any) as may be prescribed for the purpose of safeguarding the fundamental rights and freedoms of data subjects.
+(b other data consisting of archives or departmental records (within the meaning in each case of the National Archives Act 1986), and the keeping of which complies with such requirements (if any) as may be prescribed for the purpose of safeguarding the fundamental rights and freedoms of data subjects.
 
 (4) This Act does not apply to—
 
