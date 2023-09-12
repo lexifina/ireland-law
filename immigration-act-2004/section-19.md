@@ -1,4 +1,4 @@
-F26[Fees.
+F29[Fees.
 
 19.—(1) (a) There shall be paid to the Minister by the non-national concerned in respect of the making of an application for, or the giving of, a permission, or both, such fee (if any) as may be prescribed with the consent of the Minister for Public Expenditure and Reform.
 
