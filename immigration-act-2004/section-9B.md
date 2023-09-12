@@ -1,6 +1,6 @@
-F17[Registration officers
+F18[Registration officers
 
-9B. (1) The Minister may appoint such and so many persons as he or she considers appropriate (referred to in this Act as "registration officers"), being—
+9B.—(1) The Minister may appoint such and so many persons as he or she considers appropriate (referred to in this Act as "registration officers"), being—
 
 (a) members of the Garda Síochána not below the rank of superintendent, or
 

@@ -1,6 +1,6 @@
-F21[Provision for particular nonnationals.
+F22[Provision for particular nonnationals.
 
-14. (1) The Minister, an immigration officer or a member of the Garda Síochána may, by notice in writing, require a non-national who does not have permission to be in the State to comply with any or all of the following conditions:
+14.— (1) The Minister, an immigration officer or a member of the Garda Síochána may, by notice in writing, require a non-national who does not have permission to be in the State to comply with any or all of the following conditions:
 
 (a) that he or she reside or remain in a particular district or place in the State;
 
