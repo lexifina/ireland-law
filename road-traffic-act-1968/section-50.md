@@ -1,3 +1,3 @@
-Careless driving.
+Careless driving. (Repealed)
 
 50.—...

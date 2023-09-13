@@ -1,3 +1,3 @@
-Evidential effect to of certificate under section 43.
+Evidential effect to of certificate under section 43. (Repealed)
 
 44.—...

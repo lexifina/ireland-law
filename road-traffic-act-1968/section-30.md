@@ -1,3 +1,3 @@
-Obligation to provide, or permit taking of, specimen at Garda station (section 49).
+Obligation to provide, or permit taking of, specimen at Garda station (section 49). (Repealed)
 
 30.—...

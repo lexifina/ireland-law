@@ -1,3 +1,3 @@
-Regulations for sections 27 to 46.
+Regulations for sections 27 to 46. (Repealed)
 
 47.—...

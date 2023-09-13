@@ -1,3 +1,3 @@
-Bar to certain defences to charges under section 49 of Principal Act.
+Bar to certain defences to charges under section 49 of Principal Act. (Repealed)
 
 31.—...

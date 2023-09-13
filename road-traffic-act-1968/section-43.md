@@ -1,3 +1,3 @@
-Procedure following taking or provision of specimen.
+Procedure following taking or provision of specimen. (Repealed)
 
 43.—...

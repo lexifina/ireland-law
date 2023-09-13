@@ -6,13 +6,13 @@ Regulations in relation to control of driving instruction.
 
 (1A) (a) In this subsection—
 
-‘approval’ means a document authorising the holder to issue instruction certificates;
+"approval" means a document authorising the holder to issue instruction certificates;
 
-‘approved body’ means a body that holds an approval;
+"approved body" means a body that holds an approval;
 
-‘driving instruction’ means instruction given for reward in or in respect of the driving of a vehicle;
+"driving instruction" means instruction given for reward in or in respect of the driving of a vehicle;
 
-‘instruction certificate’ means a certificate referred to in paragraph (b)(ii).
+"instruction certificate" means a certificate referred to in paragraph (b)(ii).
 
 (b) Regulations under this section may provide for—
 

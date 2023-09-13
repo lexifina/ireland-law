@@ -1,3 +1,3 @@
-Provisions relating to certain evidence in prosecutions under section 49 or 50 of Principal Act.
+Provisions relating to certain evidence in prosecutions under section 49 or 50 of Principal Act. (Repealed)
 
 35.—...

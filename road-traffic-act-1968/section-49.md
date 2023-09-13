@@ -1,3 +1,3 @@
-Driving without reasonable consideration.
+Driving without reasonable consideration. (Repealed)
 
 49.—...

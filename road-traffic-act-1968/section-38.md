@@ -32,7 +32,7 @@ Functions and duties of the Bureau.
 
 (II) in the event of being unable to ascertain the identity of that person, the registered owner is deemed to have been driving or otherwise using the vehicle, at the time of the commission of the alleged offence.
 
-4) The Bureau may, with the consent of the Minister—
+(4) The Bureau may, with the consent of the Minister—
 
 (a) arrange for the supply and testing of—
 

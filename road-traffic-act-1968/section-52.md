@@ -1,3 +1,3 @@
-Amendment of section 55 of Principal Act.
+Amendment of section 55 of Principal Act. (Repealed)
 
 52.—...

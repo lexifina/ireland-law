@@ -1,3 +1,3 @@
-Defence to refusal to permit taking of specimen.
+Defence to refusal to permit taking of specimen. (Repealed)
 
 36.—...

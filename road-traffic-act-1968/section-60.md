@@ -1,3 +1,3 @@
-Regulations for the general control of traffic and pedestrians.
+Regulations for the general control of traffic and pedestrians. (Repealed)
 
 60.—...
