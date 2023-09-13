@@ -14,7 +14,9 @@ Penalty point offences.
 
 (c) in Part 1, by inserting after the matter at reference number 17 (inserted by section 22(a) of the Act of 2004) the following:
 
-“”.
+“
+
+”.
 
 (d) in Part 2, by deleting paragraphs (6) and (7)and the matter at reference numbers 15, 16, 17, 18, 19 and 20 and
 

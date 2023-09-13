@@ -20,7 +20,7 @@ Prohibition on holding mobile phone by driver of mechanically propelled vehicle,
 
 (6) A person who contravenes or fails to comply with regulations made under subsection (4) is guilty of an offence.
 
-(7) It is a defence for a person charged with an offence under subsection (3) , in relation to holding a mobile phone while driving a mechanically propelled vehicle, or under subsection (6) , in relation to the use of a mobile phone or an in-vehicle communication device, to show that he or she was—
+(7) It is a defence for a person charged with an offence under subsection (3) , in relation to holding a mobile phone while driving a mechanically propelled vehicle, or under subsection (6), in relation to the use of a mobile phone or an in-vehicle communication device, to show that he or she was—
 
 (a) using it to call the Garda Síochána, an ambulance, fire or other emergency service on numbers prescribed for such service, or
 
