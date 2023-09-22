@@ -60,7 +60,7 @@ Grant of waste licences.
 
 (V) the interaction between the factors mentioned in clauses (I) to (IV);
 
-‘environmental impact assessment report’ means a report prepared by competent experts which contains the following information:
+"environmental impact assessment report" means a report prepared by competent experts which contains the following information:
 
 (i) a description of the proposed activity comprising information on the site, design, size and other relevant features of the activity;
 
@@ -87,8 +87,6 @@ Grant of waste licences.
 (I) such development would equal or exceed, as the case may be, any relevant quantity, area or other limit specified in Part 1 or Part 2, or
 
 (II) no quantity, area or other limit is specified in that Part in respect of the development concerned, or
-
-3 OJ No. L 206, 22.7.1992, p. 7 4 OJ No. L 20, 26.1.2010, p. 7
 
 (ii) of a class specified in Part 2 of Schedule 5 to the Planning and Development Regulations 2001 but does not equal or exceed, as the case may be, the relevant quantity, area or other limit specified in that Part and the Agency, in exercise of the powers conferred on it by regulations under section 45, determines that the proposed activity is likely to have significant effects on the environment.
 

@@ -34,7 +34,7 @@ Information required by authorised persons or nominated authority.
 
 (b) the holder (other than a local authority) of a waste licence or such other authorisation or certificate which accepts household waste or commercial waste directly from a person.
 
-(7) Each local authority or, as the case may be, a nominated authority shall maintain a register of persons availing of a household waste collection service for the purpose of establishing compliance by original producers and other waste holders with section 32(1A) and any regulations or bye-laws made under this Act relating to household waste or commercial waste.
+(7) Each local authority or, as the case may be, a nominated authority shall maintain a register of persons availing of a household waste or commercial waste collection service for the purpose of establishing compliance by original producers and other waste holders with section 32(1A) and any regulations or bye-laws made under this Act relating to household waste or commercial waste.
 
 (8) The register maintained under subsection (7) shall include—
 
