@@ -1,6 +1,6 @@
 Transitional matters for activities not licensed under this Act consequent upon Industrial Emissions Directive.
 
-76A. (1) In this section—
+76A.—(1) In this section—
 
 “earlier Part V” means Part V as it had effect before the coming into operation of the European Union (Industrial Emissions) Regulations 2013;
 
