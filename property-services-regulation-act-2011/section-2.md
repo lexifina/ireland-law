@@ -80,7 +80,7 @@ Interpretation.
 
 “connected relative”, in relation to a person, means—
 
-‘Data Protection Regulation’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
+"Data Protection Regulation" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);
 
 (a) the person’s spouse or civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010, or
 
