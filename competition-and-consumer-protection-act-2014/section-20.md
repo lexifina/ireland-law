@@ -13,3 +13,9 @@ Directions of Minister
 (b) making a determination in relation to a merger or acquisition under section 21(2) of the Act of 2002, or
 
 (c) carrying out an investigation under paragraph (c) of subsection (1) of section 10.
+
+(5) A direction given by the Minister under subsection (1) shall not be given to, nor apply to—
+
+(a) adjudication officers appointed under section 15O of the Act of 2002, or
+
+(b) assistants to adjudication officers appointed under section 15R of the Act of 2002.

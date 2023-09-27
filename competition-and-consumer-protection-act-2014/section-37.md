@@ -1,14 +1,30 @@
 Powers of authorised officers in relation to investigations under Act of 2002
 
-37. (1) For the purpose of obtaining any information which may be required in relation to a matter under investigation under the Act of 2002 an authorised officer may, on production of a warrant issued under subsection (3) authorising him or her to exercise one or more specified powers under subsection (2), exercise that power or those powers.
+37. (1) For the purpose of—
+
+(a) obtaining any information which may be required in relation to a matter under investigation under the Act of 2002 or Article 101 or 102 of the Treaty on the Functioning of the European Union,
+
+(b) carrying out any inspection or other fact-finding measure on behalf and for the account of a competition authority of another Member State in accordance with Article 22(1) of the Regulation of 2003,
+
+(c) undertaking inspections considered necessary by, or ordered by, the European Commission with which the Commission has been requested to assist in accordance with Article 22(2) of the Regulation of 2003, or
+
+(d) assisting the European Commission with an inspection conducted by the European Commission in accordance with Article 20 or 21 of the Regulation of 2003, an authorised officer may, on production of a warrant issued under subsection (3) or (3A) authorising him or her to exercise one or more specified powers under subsection (2), exercise that power or those powers,
 
 (2) The powers mentioned in subsection (1) are the following:
 
-(a) to enter, if necessary by reasonable force, and search any place at which any activity in connection with the business of supplying or distributing goods or providing a service, or in connection with the organisation or assistance of persons engaged in any such business, is carried on;
+(a) to enter, if necessary by reasonable force, and search—
+
+(i) any place at which, or any vehicle with which, any activity in connection with the business of supplying or distributing goods or providing a service, or in connection with the organisation or assistance of persons engaged in any such business, is carried on, or
+
+(ii) any place at which books, documents or records relating to the carrying on of a business referred to in subparagraph (i) are being kept, including, but not limited to, any place occupied by a director, manager or any member of staff of an undertaking that carries on an activity or of an association of undertakings that carry on activities;
 
 (b) to enter, if necessary by reasonable force, and search any place occupied by a director, manager or any member of staff of an undertaking that carries on an activity or of an association of undertakings that carry on activities, being, in either case, a place in respect of which there are reasonable grounds to believe books, documents or records relating to the carrying on of that activity or those activities are being kept in it;
 
-(c) to seize and retain any books, documents or records relating to an activity found at any place referred to in paragraph (a) or (b) and take any other steps which appear to the officer to be necessary for preserving, or preventing interference with, such books, documents or records;
+(c) to seize and retain any books, documents, records, computers or any other storage medium in which any record is kept relating to an activity found at anyplace referred to in paragraph (a) or (b) and take any other steps which appear to the officer to be necessary for preserving, or preventing interference with, such books, documents, records, computers or media including—
+
+(i) taking or obtaining, in any form, copies of or extracts from such books, documents or records, and
+
+(ii) continuing, at any time, to search books, documents or records so seized, or any copies made thereof or extracts taken therefrom, at a premises other than the premises so entered;
 
 (d) to require any person who carries on an activity referred to in paragraph (a) and any person employed in connection therewith to—
 
@@ -20,9 +36,39 @@ Powers of authorised officers in relation to investigations under Act of 2002
 
 (f) to require a person mentioned in paragraph (d) to give to the authorised officer any information he or she may require in regard to the persons carrying on the activity referred to in paragraph (a) (including in particular, in the case of an unincorporated body of persons, information in regard to the membership thereof and its committee of management or other controlling authority) or employed in connection therewith;
 
-(g) to require a person mentioned in paragraph (d) to give to the authorised officer any other information which the officer may reasonably require in regard to the activity referred to in paragraph (a).
+(g) to require a person mentioned in paragraph (d) to give to the authorised officer any other information which the officer may reasonably require in regard to the activity referred to in paragraph (a);
 
-(3) If a judge of the District Court is satisfied by information on oath of an authorised officer that there are reasonable grounds for suspecting that evidence of, or relating to, the commission of an offence under the Act of 2002 is to be found in any place, the judge may issue a warrant authorising an authorised officer (accompanied by such other authorised officers or members of An Garda Síochána or both as provided for in subsection (5) of section 35) at any time or times within one month from the date of issue of the warrant, on production if so requested of the warrant, to enter and search the place using reasonable force where necessary, and exercise all or any of the powers conferred on an authorised officer under this section.
+(h) to require any person who appears to the authorised officer to be in a position to facilitate access to documents or records stored in any data equipment or computer, or which can be accessed by the use of that data equipment or computer, to give the authorised officer all reasonable assistance in relation to the operation of the data equipment or computer or access to the records stored in it, including by—
+
+(i) providing the documents or records to the authorised officer in a form in which they can be taken and in which they are, or can be made, legible and comprehensible,
+
+(ii) giving to the authorised officer any password necessary to make the documents or records concerned legible and comprehensible, or
+
+(iii) otherwise enabling the authorised officer to examine the documents or records in a form in which they are legible and comprehensible;
+
+(i) where the authorised officer considers it necessary to do so in order to preserve for inspection records, documents or any other matter, to secure, for later inspection, and for such period as may reasonably be necessary for the purposes of the exercise of the authorised officer’s powers under this section—
+
+(i) documents or records accessed or found during a search under this section,and any data equipment, including any computer, in which those documents or records may be held, and
+
+(ii) a place entered pursuant to this section, or any part of such place.
+
+(3) Subject to subsection (3A), if a judge of the District Court is satisfied by information on oath of an authorised officer that there are reasonable grounds for suspecting that evidence of, or relating to, the commission of an offence under the Act of 2002, or an infringement, whether or not the infringement is criminal in nature, of relevant competition law, within the meaning of the Act of 2002, is to be found in any place, the judge may issue a warrant authorising an authorised officer (accompanied by such other authorised officers or members of An Garda Síochána or both as provided for in subsection (5) of section 35) at any time or times within one month from the date of issue of the warrant, on production if so requested of the warrant, to enter and search the place using reasonable force where necessary, and exercise all or any of the powers conferred on an authorised officer under this section.
+
+(3A) Where an authorised officer provides information on oath to a judge of the District Court for the purpose of a warrant being issued in relation to an inspection referred to in subsection (1)(d)—
+
+(a) the information on oath so provided shall include—
+
+(i) a statement to the effect that the information on oath is being provided in relation to an inspection referred to in subsection (1)(d), and
+
+(ii) sufficient information to allow the judge of the District Court to discharge his or her functions under the Regulation of 2003,
+
+(b) before issuing the warrant, the judge of the District Court shall—
+
+(i) where the warrant would, if issued, authorise the authorised officer to exercise powers under subsection (2) in relation to any place or land other than that referred to in subparagraph (ii), including the home or private vehicle of a director, manager or any member of staff of an undertaking, have regard to the matters referred to in Article 21(3) of the Regulation of2003, and
+
+(ii) where the warrant would, if issued, authorise the authorised officer to exercise powers under subsection (2) in relation to any place or land of an undertaking or association of undertakings, have regard to the matters referred to in Article 20(8) of the Regulation of 2003, and
+
+(c) the judge of the District Court, shall, where he or she is satisfied as regards the matters referred to in Article 20(8) or 21(3) of the Regulation of 2003, as the case may be, issue a warrant authorising an authorised officer (accompanied by such other authorised officers or members of the Garda Síochána or both as provided for in subsection (5) of section 35) at any time or times within one month from the date of issue of the warrant, on production if so requested of the warrant, to enter and search the place or land using reasonable force where necessary, and exercise all or any of the powers conferred on an authorised officer under this section.
 
 (4) The reference in subsection (3) to an offence under the Act of 2002 shall, for the purposes of this section, be deemed to include a reference to the taking by the Commission of proceedings (whether civil or criminal), and the taking of proceedings by the Director of Public Prosecutions, in relation to any contravention of an enactment repealed by section 48 of the Act of 2002 that the Commission suspects has occurred.
 

@@ -1,6 +1,6 @@
 Presumptions.
 
-12.—(1) The presumptions specified in this section shall apply in any proceedings, whether civil or criminal, under this Act.
+12.—(1) The presumptions specified in this section shall apply in any proceedings, whether criminal or civil, including proceedings under Parts 2C to 2H, under this Act.
 
 (2) Where a document purports to have been created by a person it shall be presumed, unless the contrary is shown, that the document was created by that person and that any statement contained therein, unless the document expressly attributes its making to some other person, was made by that person.
 

@@ -28,6 +28,10 @@ Interpretation
 
 “recognised trade union or staff association” means a trade union or staff association recognised by the Commission for the purposes of negotiations which are concerned with the remuneration or conditions of employment, or the working conditions of employees;
 
+"Regulation of 2003" means Regulation (EC) No. 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty;
+
+"relevant competition law" has the same meaning as it has in the Act of 2002;
+
 “relevant statutory provisions” means—
 
 (a) “relevant statutory provisions” within the meaning of the Act of 2007,

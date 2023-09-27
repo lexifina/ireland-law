@@ -12,7 +12,9 @@ Anti-competitive agreements, decisions and concerted practices.
 
 (d) apply dissimilar conditions to equivalent transactions with other trading parties thereby placing them at a competitive disadvantage,
 
-(e) make the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which by their nature or according to commercial usage have no connection with the subject of such contracts.
+(e) make the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which by their nature or according to commercial usage have no connection with the subject of such contracts, or
+
+(f) are concerned with bid-rigging.
 
 (2) An agreement, decision or concerted practice shall not be prohibited under subsection (1) if it complies with the conditions referred to in subsection (5) or falls within a category of agreements, decisions, or concerted practices the subject of a declaration for the time being in force under subsection (3).
 
@@ -35,3 +37,15 @@ Anti-competitive agreements, decisions and concerted practices.
 (9) For the avoidance of doubt, references in this Part of this Act to the parties to an agreement, decision or concerted practice of a kind referred to in subsection (1) include references to one or more of the parties to such an agreement, decision or concerted practice.
 
 (10) Subsection (9) is without prejudice to section 11(a) of the Interpretation Act, 1937.
+
+(11) In this section—
+
+"bid-rigging" means the formation or continuation of an agreement or concerted practice between undertakings concerning or relating to their participation or non-participation in a relevant bidding process without informing the person requesting bids or tenders, and without prejudice to the generality of the foregoing includes the following:
+
+(a) an agreement whereby one or more undertakings agree not to submit a bid or tender in a relevant bidding process, or agree to withdraw a bid or tender submitted as part of such a process;
+
+(b) an agreement whereby one or more undertakings submit a bid or tender, as part of a relevant bidding process, on terms, or subject to conditions, arrived at in accordance with the agreement or concerted practice between such undertakings;
+
+(c) collusive tendering;
+
+"relevant bidding process" means a process by which bids or tenders to supply a product or service, to produce a product or to enter into a concession contract are requested.

@@ -1,6 +1,6 @@
 Authority and Commission to make every effort to settle disputed questions.
 
-47E.— (1) The Authority and the Commission for Communications Regulation shall make every effort to settle by agreement any question arising as to which of them should perform the functions conferred on a competent authority by Part 2 (section 4(3) excepted) that may relate to the provision of an electronic communications service or electronic communications network, or associated facilities.
+47E.—(1) The Authority and the Commission for Communications Regulation shall make every effort to settle by agreement any question arising as to which of them should perform the functions conferred on a competent authority by Part 2 (section 4(3) excepted), Part 2C and Part 2D that may relate to the provision of an electronic communications service or electronic communications network, or associated facilities.
 
 (2) If at any time the Authority or the Commission for Communications Regulation considers that the question cannot be resolved by agreement, it may refer the question for resolution by the Minister.
 

@@ -1,6 +1,6 @@
 Disclosure of information relating to offences
 
-24. (1) Notwithstanding section 25, information, which in the opinion of the Commission may relate to the commission of an offence which is not an offence under the relevant statutory provisions, may be disclosed by a member of the staff of the Commission authorised by the Commission to act in that behalf to—
+24. (1) Notwithstanding section 25, and section 15AV of the Act of 2002, information, which in the opinion of the Commission may relate to the commission of an offence which is not an offence under the relevant statutory provisions, may be disclosed by a member of the staff of the Commission authorised by the Commission to act in that behalf to—
 
 (a) a member of An Garda Síochána,
 

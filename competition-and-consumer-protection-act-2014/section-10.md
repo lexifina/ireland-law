@@ -6,7 +6,7 @@ Functions of Commission
 
 (b) to promote and protect the interests and welfare of consumers;
 
-(c) to carry out an investigation, either on its own initiative or in response to a complaint made to it by any person, into any suspected breach of—
+(c) to carry out an investigation, on its own initiative, in response to a complaint made to it by any person, or to assist with an investigation conducted by the European Commission or a competition authority of another Member State in accordance with the Regulation of 2003, into any suspected breach of—
 
 (i) the relevant statutory provisions, that may be occurring or has occurred,
 
@@ -90,7 +90,7 @@ Functions of Commission
 
 (5) The Commission shall have all such powers as are necessary or expedient for the performance of its functions and shall ensure that its functions are performed effectively and efficiently.
 
-(6) The Commission may delegate the performance of any of its functions to any member of the Commission or to any member of its staff duly authorised in that behalf by the Commission.
+(6) The Commission may delegate the performance of any of its functions to any member of the Commission, to any member of its staff duly authorised in that behalf by the Commission or to any authorised officer duly authorised in that behalf by the Commission.
 
 (7) Notwithstanding subsection (6), the Commission may not delegate the performance of the following functions—
 
@@ -99,6 +99,8 @@ Functions of Commission
 (b) making a determination in relation to a merger or acquisition under section 22(3) of the Act of 2002,
 
 (c) the initiation of enforcement proceedings under Parts 2 and 2A and section 26 of the Act of 2002 and Part 5 of the Act of 2007,
+
+(ca) the referral of a matter to an adjudication officer for decision under section 15M of the Act of 2002,
 
 (d) functions under Chapter 5 (inserted by Part 6) of Part 3 of the Act of 2007, and
 

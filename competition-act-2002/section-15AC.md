@@ -1,0 +1,11 @@
+Maximum amount of administrative financial sanctions.
+
+15AC.—(1) The maximum amount of an administrative financial sanction that an adjudication officer may impose under this Part in respect of an infringement of relevant competition law, for failure to comply with commitments entered into under section 15AE, for failure to comply with a structural or behavioural remedy or for failure to comply with a prohibition notice issued under section 15H shall be the greater of €10 million or 10 per cent of the total worldwide turnover of the undertaking or association of undertakings in the financial year preceding the decision.
+
+(2) Where an infringement of relevant competition law, failure to comply with commitments entered into under section 15AE, failure to comply with a structural or behavioural remedy or a failure to comply with a prohibition notice issued under section 15H by an association of undertakings relates to the activities of its members, the maximum amount of the administrative financial sanction shall be €10 million or 10 per cent of the sum of the total worldwide turnover (whichever is greater) of each member active on the market affected by the infringement of the association.
+
+(3) The maximum amount of an administrative financial sanction that an adjudication officer may impose with respect to a breach of a procedural requirement in accordance with section 15AA shall be €1 million or 1 per cent of the total worldwide turnover (whichever is greater) of the undertaking or association of undertakings in the financial year preceding the decision.
+
+(4) Where the breach of the procedural requirement by an association of undertakings relates to the activities of its members, the maximum amount of the administrative financial sanction shall be €1 million or 1 per cent of the sum of the total worldwide turnover (whichever is greater) of each member active on the market affected by the infringement of the association.
+
+(5) The financial liability of each undertaking in respect of the payment of the administrative financial sanction shall not exceed the maximum amounts specified in subsection (2) or subsection (3), as the case may be, and shall be reduced by an adjudication officer in accordance with any decision made in respect of that undertaking under Part 2E.
