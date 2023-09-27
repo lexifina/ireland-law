@@ -10,21 +10,21 @@ Penalties and proceedings in relation to offences under sections 6 and 7.
 
 (b) on conviction on indictment—
 
-(i) in the case of an undertaking that is not an individual, to a fine not exceeding whichever of the following amounts is the greater, namely, €5,000,000 or 10 per cent of the turnover of the undertaking in the financial year ending in the 12 months prior to the conviction, or
+(i) in the case of an undertaking that is not an individual, to a fine not exceeding the greater of €50,000,000, or 20 per cent of the turnover of the undertaking in the financial year ending in the 12 months prior to the conviction, or
 
-(ii) in the case of an individual, to a fine not exceeding whichever of the following amounts is the greater, namely, €5,000,000 or 10 per cent of the turnover of the individual in the financial year ending in the 12 months prior to the conviction or to imprisonment for a term not exceeding 10 years or to both such fine (that is to say a fine not exceeding the greater of the foregoing monetary amounts) and such imprisonment.
+(ii) in the case of an individual, to a fine not exceeding whichever of the following amounts is the greater, namely, €50,000,000, or 20 per cent of the turnover of the individual in the financial year ending in the 12 months prior to the conviction or to imprisonment for a term not exceeding 10 years or to both such fine (that is to say a fine not exceeding the greater of the foregoing monetary amounts) and such imprisonment.
 
 (2) An undertaking guilty of an offence under section 6 (other than one to which subsection (1) applies) or section 7 shall, whether the undertaking is an individual or otherwise, be liable—
 
 (a) on summary conviction, to a class A fine or
 
-(b) on conviction on indictment, to a fine not exceeding whichever of the following amounts is the greater, namely, €5,000,000 or 10 per cent of the turnover of the undertaking in the financial year ending in the 12 months prior to the conviction.
+(b) on conviction on indictment, to a fine not exceeding the greater of €50,000,000, or 20 per cent of the turnover of the undertaking in the financial year ending in the 12 months prior to the conviction.
 
 (3) Sections 6 and 7 operate so that if the contravention concerned continues one or more days after the date of its first occurrence the undertaking referred to in section 6 or 7, as the case may be, is guilty of a separate offence under that section for each day that the contravention occurs; but in respect of the second or subsequent offence of which the undertaking is guilty by reason of that continued contravention, subsections (1) and (2) shall have effect as if—
 
 (a) in the case of subsection (1)—
 
-(i) in paragraph (a), ‘class E fine’ were substituted for ‘class A fine’ and references to imprisonment were disregarded, and
+(i) in paragraph (a), "class E fine" were substituted for "class A fine" and references to imprisonment were disregarded, and
 
 (ii) in paragraph (b)—
 
@@ -34,7 +34,7 @@ Penalties and proceedings in relation to offences under sections 6 and 7.
 
 (b) in the case of subsection (2)—
 
-(i) in paragraph (a), ‘class E fine’ were substituted for ‘class A fine’, and
+(i) in paragraph (a), "class E fine" were substituted for "class A fine", and
 
 (ii) in paragraph (b), a reference to a fine not exceeding €50,000 were substituted for the reference to a fine not exceeding the greater of the monetary amounts mentioned therein.
 
