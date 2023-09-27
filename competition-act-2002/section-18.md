@@ -10,7 +10,7 @@ Obligation to notify certain mergers and acquisitions.
 
 (b) a proposed merger or acquisition falls within a class of merger or acquisition specified in an order under subsection (5), each of the undertakings involved in the merger or acquisition shall notify the Commission in writing, and provide full details, of the proposal to put the merger or acquisition into effect.
 
-(1A) A notification under subsection (1) —
+(1A) A notification under subsection (1)—
 
 (a) shall be made before the proposed merger or acquisition is put into effect, and
 
@@ -30,11 +30,19 @@ Obligation to notify certain mergers and acquisitions.
 
 (c) in relation to a merger or acquisition that will occur by reason of the acquisition concerned being an acquisition referred to in section 16(1)(c)—
 
-(i) subparagraphs (i) and (ii) of paragraph (a) of subsection (1), in their application to the second-mentioned undertaking in section 16(1)(c), shall apply as if the references to turnover in the State were, in relation to that undertaking, references to turnover in the State generated from the assets of that undertaking that are the subject of the acquisition mentioned in section 16(1)(c), and
+(i) subparagraphs (i) and (ii) of subsection (1)(a), in their application to the part of an undertaking mentioned in section 16(1)(c), shall apply as if the references to turnover in the State were, in relation to that part of an undertaking, references to turnover in the State generated from the assets of that part of an undertaking that are the subject of the acquisition mentioned in section 16(1)(c),
 
-(ii) notwithstanding paragraph (b), that second-mentioned undertaking shall, for the purposes of paragraph (a) or (b) of subsection (1) but not so as to place on it an obligation to notify the Authority of the proposal to put the merger or acquisition into effect, be deemed to be involved in the merger or acquisition.
+(ii) notwithstanding paragraph (b), that part of an undertaking mentioned in section 16(1)(c) shall, for the purposes of paragraph (a) or (b) of subsection (1) but not so as to place on it an obligation to notify the Commission of the proposal to put the merger or acquisition into effect, be deemed to be involved in the merger or acquisition.
 
 (3) In the case of a proposed merger or acquisition that is not required to be notified under subsection (1), any of the undertakings involved in the merger or acquisition may, before putting the merger or acquisition into effect, notify the Commission in writing, and provide full details, of the proposal to put the merger or acquisition into effect, and such notification may be made after any of the applicable events referred to in paragraph (b) of subsection (1A) occurs.
+
+(3A) Any of the undertakings involved in a merger or acquisition that—
+
+(a) is not required to be notified under subsection (1), and
+
+(b) was not notified under subsection (3), may notify the Commission in writing of the merger or acquisition after it has been put into effect, and provide full details of the merger or acquisition concerned.
+
+(3B) The Commission may review any notification made to it under subsection (3) or (3A) and may, in relation to such notification, take interim measures.
 
 (4) Nothing in this section or any other provision of this Act prejudices the operation of the Council Regulation.
 
@@ -46,7 +54,7 @@ Obligation to notify certain mergers and acquisitions.
 
 (8) A notification in accordance with this section shall be accompanied by such fee as may be prescribed and different fees may be prescribed for different classes of notification; if the notification is not accompanied by that fee the notification shall be invalid.
 
-(9) Where there is a contravention of subsection (1) or section 20(2) an undertaking, or the person in control of an undertaking, which has failed to notify the Authority within the specified period or failed to supply the information required within the period specified by the Authority, as the case may be, shall be guilty of an offence and shall, subject to subsection (10), be liable—
+(9) Where there is a contravention of subsection (1), section 18A(1) or section 20(2) an undertaking, the person in control of an undertaking, or (in the case of section 20(2)) other person, which has failed to notify the Authority within the specified period or failed to supply the information required within the period specified by the Authority, as the case may be, shall be guilty of an offence and shall, subject to subsection (10), be liable—
 
 (a) on summary conviction, to a fine not exceeding €3,000,
 
@@ -73,3 +81,5 @@ Obligation to notify certain mergers and acquisitions.
 (13) The transmission to the Authority by the European Commission of a copy of a notification made to the Commission under the Council Regulation shall constitute a notification under subsection (1) in relation to the merger or acquisition concerned.
 
 (14) Irrespective of the date on which the European Commission transmits a copy of the notification referred to in subsection (13), the date of receipt by the Authority of that Commission’s decision under the Council Regulation in relation to the merger or acquisition, the subject of the notification, shall be deemed to be the date of the notification for the purposes of this Act.
+
+(15) Summary proceedings in relation to an offence under subsection (9) may be brought by the Commission.
