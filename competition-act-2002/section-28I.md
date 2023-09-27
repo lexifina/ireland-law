@@ -1,6 +1,6 @@
 Enforcement of certain determinations.
 
-28I.— (1) It shall be lawful for the High Court to grant an injunction on the motion of the Minister for Communications, Energy and Natural Resources, the Broadcasting Authority of Ireland or any of the undertakings involved in the media merger to enforce compliance with the terms of a determination for the time being in force.
+28I.—(1) It shall be lawful for the High Court to grant an injunction on the motion of the Minister for Communications, Energy and Natural Resources, the Broadcasting Authority of Ireland or any of the undertakings involved in the media merger to enforce compliance with the terms of a determination for the time being in force.
 
 (2) Subsection (1) shall not affect any other right of the Minister for Communications, Energy and Natural Resources to bring proceedings (whether civil or criminal) for the enforcement of compliance with the terms of a determination.
 
@@ -16,10 +16,10 @@ Enforcement of certain determinations.
 
 (6) Subsections (3), (4) and (5) operate so that if the contravention concerned continues one or more days after the date of its first occurrence, the person referred to in the subsection concerned is guilty of a separate offence under that subsection for each day that the contravention occurs, but in respect of the second or subsequent offence of which he or she is guilty by reason of that continued contravention, subsection (3) shall have effect as if—
 
-(a) in paragraph (a), ‘a class E fine’ were substituted for ‘a class A fine’, and
+(a) in paragraph (a), "a class E fine" were substituted for "a class A fine", and
 
-(b) in paragraph (b), ‘€1,000’ were substituted for ‘€10,000’.
+(b) in paragraph (b), "€1,000" were substituted for "€10,000".
 
 (7) Summary proceedings in relation to an offence under this section may be brought by the Minister for Communications, Energy and Natural Resources.
 
-(8) In this section ‘determination’ means a determination of the Minister for Communications, Energy and Natural Resources made under section 28D or 28G.
+(8) In this section "determination" means a determination of the Minister for Communications, Energy and Natural Resources made under section 28D or 28G.

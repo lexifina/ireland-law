@@ -1,6 +1,6 @@
 Initial examination by Minister for Communications, Energy and Natural Resources of media merger notification.
 
-28D.— (1) Not later than 30 working days (or 45 working days, where proposed commitments referred to in subsection (5) have been made) from the relevant date or from the appropriate date, whichever is the later, the Minister for Communications, Energy and Natural Resources shall inform the undertakings that have made the media merger notification under section 28B of whichever of the following determinations he or she has made, namely—
+28D.—(1) Not later than 30 working days (or 45 working days, where proposed commitments referred to in subsection (5) have been made) from the relevant date or from the appropriate date, whichever is the later, the Minister for Communications, Energy and Natural Resources shall inform the undertakings that have made the media merger notification under section 28B of whichever of the following determinations he or she has made, namely—
 
 (a) that in his or her opinion the result of the media merger will not be contrary to the public interest in protecting plurality of the media in the State, and accordingly that the media merger may be put into effect,
 
@@ -52,7 +52,7 @@ Initial examination by Minister for Communications, Energy and Natural Resources
 
 (c) he or she shall publish the determination not later than 15 working days from the date of the determination, with due regard for commercial confidentiality.
 
-(9) In this section, reference to ‘appropriate date’ means—
+(9) In this section, reference to "appropriate date" means—
 
 (a) unless paragraph (b) applies, the date of receipt by the Minister for Communications, Energy and Natural Resources of the notification of the media merger concerned under section 28B,
 
@@ -68,6 +68,6 @@ Initial examination by Minister for Communications, Energy and Natural Resources
 
 (II) subparagraph (ii) to the requirement or requirements not complied with.
 
-(10) The reference in the definition of ‘appropriate date’ in subsection (9) to the period specified in a requirement is a reference to the period specified in the requirement as being the period within which the information concerned shall be supplied.
+(10) The reference in the definition of "appropriate date" in subsection (9) to the period specified in a requirement is a reference to the period specified in the requirement as being the period within which the information concerned shall be supplied.
 
 (11) For the purpose of the reference in subsection (9), and in any other provision of this Act, to the date on which the Minister for Communications, Energy and Natural Resources receives a notification under section 28B, if a single notification is not made by all the undertakings involved, the said reference shall be construed as a reference to the later or latest of the dates on which a notification of the merger or acquisition involved under section 28B is received by the Minister for Communications, Energy and Natural Resources.

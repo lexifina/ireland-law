@@ -1,6 +1,6 @@
 Responsibilities of Authority with respect to notifying existence of certain agreements, decisions, practices and abuses.
 
-47D.— (1) If—
+47D.—(1) If—
 
 (a) at any time the Authority suspects on reasonable grounds that there exists or has existed an agreement, decision or practice of a kind specified in section 4, or there is occurring or has occurred an abuse of the kind specified in section 5, and
 

@@ -1,6 +1,6 @@
 Determination of Minister for Communications, Energy and Natural Resources after full media merger examination.
 
-28G.— (1) The Minister for Communications, Energy and Natural Resources shall, not later than 20 working days from the date the report of the Broadcasting Authority of Ireland was made to him or her under section 28E(4), make whichever of the following determinations he or she considers appropriate, namely that the media merger—
+28G.—(1) The Minister for Communications, Energy and Natural Resources shall, not later than 20 working days from the date the report of the Broadcasting Authority of Ireland was made to him or her under section 28E(4), make whichever of the following determinations he or she considers appropriate, namely that the media merger—
 
 (a) may be put into effect,
 
@@ -8,7 +8,9 @@ Determination of Minister for Communications, Energy and Natural Resources after
 
 (c) may be put into effect, subject to the conditions specified in the determination being complied with, on the ground that he or she considers that the result of the media merger will or will not, as the case may be, be contrary to the public interest in protecting plurality of the media in the State or, as appropriate, will not be contrary to the public interest in protecting plurality of the media in the State if conditions so specified are complied with.
 
-(2) When making a determination under subsection (1), the Minister for Communications, Energy and Natural Resources shall have regard to—
+(2) When making a determination under subsection
+
+(1), the Minister for Communications, Energy and Natural Resources shall have regard to—
 
 (a) the relevant criteria,
 

@@ -1,6 +1,6 @@
 Notification of media merger to Minister for Communications, Energy and Natural Resources.
 
-28B.— (1) In the case of a merger or acquisition that is a media merger, the undertakings involved that notified the Commission under section 18(1), or that notified the European Commission, as the case may be, shall notify the Minister for Communications, Energy and Natural Resources in writing, and shall provide him or her with full details, of the proposal to put the merger or acquisition into effect.
+28B.—(1) In the case of a merger or acquisition that is a media merger, the undertakings involved that notified the Commission under section 18(1), or that notified the European Commission, as the case may be, shall notify the Minister for Communications, Energy and Natural Resources in writing, and shall provide him or her with full details, of the proposal to put the merger or acquisition into effect.
 
 (2) A notification to the Minister for Communications, Energy and Natural Resources under subsection (1) —
 
@@ -44,9 +44,9 @@ Notification of media merger to Minister for Communications, Energy and Natural 
 
 (9) Subsection (8) operates so that if the contravention concerned continues one or more days after the date of its first occurrence, the person referred to in that subsection is guilty of a separate offence under that subsection for each day that the contravention occurs; but in respect of the second or subsequent offence of which he or she is guilty by reason of that continued contravention, subsection (8) shall have effect as if—
 
-(a) in paragraph (a), ‘a class E fine’ were substituted for ‘a class A fine’, and
+(a) in paragraph (a), "a class E fine" were substituted for "a class A fine", and
 
-(b) in paragraph (b), ‘€25,000’ were substituted for ‘€250,000’.
+(b) in paragraph (b), "€25,000" were substituted for "€250,000".
 
 (10) For the purposes of subsection (8) the person in control of an undertaking is—
 

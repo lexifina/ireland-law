@@ -2,27 +2,27 @@
 
 Interpretation and application.
 
-28A.— (1) In this Part—
+28A.—(1) In this Part—
 
-‘advisory panel’ has the meaning assigned to it by section 28F;
+"advisory panel" has the meaning assigned to it by section 28F;
 
-‘broadcasting service’ has the same meaning as it has in the Act of 2009;
+"broadcasting service" has the same meaning as it has in the Act of 2009;
 
-‘carries on a media business in the State’ means, in relation to a media business—
+"carries on a media business in the State" means, in relation to a media business—
 
 (a) having a physical presence in the State, including a registered office, subsidiary, branch, representative office or agency, and making sales to customers located in the State, or
 
 (b) having made sales in the State of at least €2 million in the most recent financial year;
 
-‘diversity of content’ means the extent to which the broad diversity of views (including diversity of views on news and current affairs) and diversity of cultural interests prevalent in Irish society is reflected through the activities of media businesses in the State including their editorial ethos, content and sources;
+"diversity of content" means the extent to which the broad diversity of views (including diversity of views on news and current affairs) and diversity of cultural interests prevalent in Irish society is reflected through the activities of media businesses in the State including their editorial ethos, content and sources;
 
-‘diversity of ownership’ means the spread of ownership and control of media businesses in the State linked to the market share of those media businesses as measured by listenership, readership, reach or other appropriate measures;
+"diversity of ownership" means the spread of ownership and control of media businesses in the State linked to the market share of those media businesses as measured by listenership, readership, reach or other appropriate measures;
 
-‘full media merger examination’ has the meaning assigned to it by section 28E;
+"full media merger examination" has the meaning assigned to it by section 28E;
 
-‘Joint Oireachtas Committee’ has the same meaning as it has in the Act of 2009;
+"Joint Oireachtas Committee" has the same meaning as it has in the Act of 2009;
 
-‘media business’ means the business (whether all or part of an undertaking’s business) of—
+"media business" means the business (whether all or part of an undertaking’s business) of—
 
 (a) the publication of newspapers or periodicals consisting substantially of news and comment on current affairs, including the publication of such newspapers or periodicals on the internet,
 
@@ -32,19 +32,19 @@ Interpretation and application.
 
 (d) making available on an electronic communications network any written, audio-visual or photographic material, consisting substantially of news and comment on current affairs, that is under the editorial control of the undertaking making available such material;
 
-‘media merger’ means—
+"media merger" means—
 
 (a) a merger or acquisition in which 2 or more of the undertakings involved carry on a media business in the State, or
 
 (b) a merger or acquisition in which one or more of the undertakings involved carries on a media business in the State and one or more of the undertakings involved carries on a media business elsewhere;
 
-‘plurality of the media’ includes both diversity of ownership and diversity of content;
+"plurality of the media" includes both diversity of ownership and diversity of content;
 
-‘programme material’ has the same meaning as it has in the Act of 2009;
+"programme material" has the same meaning as it has in the Act of 2009;
 
-‘reach’ means the proportion of a population or audience that consumes any part of the output of a media business in a given period;
+"reach" means the proportion of a population or audience that consumes any part of the output of a media business in a given period;
 
-‘relevant criteria’ means the following matters:
+"relevant criteria" means the following matters:
 
 (a) the likely effect of the media merger on plurality of the media in the State;
 
@@ -64,7 +64,7 @@ Interpretation and application.
 
 (f) the extent to which the public interest can be secured by the imposition of any conditions by the Minister for Communications, Energy and Natural Resources under section 28D or section 28G;
 
-‘relevant date’ means, in relation to a media merger, 10 working days from whichever of the following dates is applicable:
+"relevant date" means, in relation to a media merger, 10 working days from whichever of the following dates is applicable:
 
 (a) the date of a determination by the Commission under paragraph (a) of section 21(2) or under paragraph (a) or (c) of section 22(3);
 
@@ -80,11 +80,11 @@ Interpretation and application.
 
 (e) the date that Article 10(6) of the Council Regulation comes into effect;
 
-‘RTÉ’ means Raidió Teilifís Éireann;
+"RTÉ" means Raidió Teilifís Éireann;
 
-‘TG4’ means Teilifís na Gaeilge;
+"TG4" means Teilifís na Gaeilge;
 
-‘undertakings involved’ shall—
+"undertakings involved" shall—
 
 (a) be construed in accordance with Part 3, or
 

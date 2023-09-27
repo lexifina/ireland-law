@@ -1,6 +1,6 @@
 Sharing of information and documents and disclosure of confidential information.
 
-28N.— (1) A person shall not disclose confidential information obtained by him or her while performing functions as—
+28N.—(1) A person shall not disclose confidential information obtained by him or her while performing functions as—
 
 (a) a member, an officer, or a member of the staff of, or an adviser or consultant to, the Broadcasting Authority of Ireland, or a member of the staff of such adviser or consultant, or
 
@@ -14,13 +14,13 @@ Sharing of information and documents and disclosure of confidential information.
 
 (5) In this section—
 
-‘confidential information’ includes—
+"confidential information" includes—
 
 (a) information that is expressed by the undertakings involved in the merger or acquisition to be confidential either as regards particular information or as regards information of a particular class or description, and
 
 (b) submissions of a commercially sensitive nature made by any other person;
 
-‘public body’ means—
+"public body" means—
 
 (a) a Department of State,
 
@@ -32,7 +32,7 @@ Sharing of information and documents and disclosure of confidential information.
 
 (e) a body established by or under any enactment or charter other than the Companies Acts ;
 
-‘submissions of a commercially sensitive nature’ means submissions the disclosure of which could reasonably be expected to—
+"submissions of a commercially sensitive nature" means submissions the disclosure of which could reasonably be expected to—
 
 (a) substantially and materially prejudice the commercial or industrial interests of—
 

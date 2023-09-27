@@ -24,7 +24,9 @@ Co-operation agreement between Authority and the Commission with respect to perf
 
 (a) that a copy of the agreement or variation can be inspected at premises of the Authority and premises of the Commission for Communications Regulation, or by a means, specified in the notice, and
 
-(b) that a copy of the agreement or variation can be purchased from either the Authority or the Commission for Communications Regulation in a manner so specified. However, if either the Authority or the Commission for Communications Regulation has complied with this subsection, the other of them is taken to have so complied.
+(b) that a copy of the agreement or variation can be purchased from either the Authority or the Commission for Communications Regulation in a manner so specified.
+
+However, if either the Authority or the Commission for Communications Regulation has complied with this subsection, the other of them is taken to have so complied.
 
 (7) As soon as practicable after a co-operation agreement, or a variation of the agreement, is entered into, the Authority shall arrange for a copy of the agreement or variation to be laid before each House of the Oireachtas.
 

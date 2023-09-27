@@ -8,7 +8,7 @@ Mergers and acquisitions for the purposes of Act.
 
 (b) one or more individuals who already control one or more undertakings, or one or more undertakings, acquire direct or indirect control of the whole or part of one or more other undertakings, or, and
 
-(c) the acquisition of part of an undertaking, although not involving the acquisition of a corporate legal entity, involves the acquisition of assets that constitute a business to which a turnover can be attributed, and for the purposes of this paragraph ‘assets’ includes goodwill.
+(c) the acquisition of part of an undertaking, although not involving the acquisition of a corporate legal entity, involves the acquisition of assets that constitute a business to which a turnover can be attributed, and for the purposes of this paragraph "assets" includes goodwill.
 
 (2) For the purposes of this Act, control, in relation to an undertaking, shall be regarded as existing if, by reason of securities, contracts or any other means, or any combination of securities, contracts or other means, decisive influence is capable of being exercised with regard to the activities of the undertaking and, in particular, by—
 

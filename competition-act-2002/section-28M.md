@@ -1,6 +1,6 @@
 Report and Research.
 
-28M.— (1) The Broadcasting Authority of Ireland shall, not later than one year from the date of the commencement of this section, and every 3 years thereafter, prepare a report which shall—
+28M.—(1) The Broadcasting Authority of Ireland shall, not later than one year from the date of the commencement of this section, and every 3 years thereafter, prepare a report which shall—
 
 (a) describe the ownership and control arrangements for undertakings carrying on a media business in the State,
 

@@ -1,6 +1,6 @@
 Advisory panel.
 
-28F.— (1) As soon as may be after the Minister for Communications, Energy and Natural Resources requests the Broadcasting Authority of Ireland to conduct a full media merger examination under section 28E, he or she may, if he or she considers that the opinion of an advisory panel is required in order to assist the Broadcasting Authority of Ireland in carrying out the full media merger examination and in making its report under section 28E, establish an advisory panel (in this Part referred to as an ‘advisory panel’) to provide a reasoned opinion in writing to the Broadcasting Authority of Ireland on the application of the relevant criteria to the media merger in question and to provide clarifications of the opinion where requested by the Broadcasting Authority of Ireland in accordance with subsection (6)(b).
+28F.—(1) As soon as may be after the Minister for Communications, Energy and Natural Resources requests the Broadcasting Authority of Ireland to conduct a full media merger examination under section 28E, he or she may, if he or she considers that the opinion of an advisory panel is required in order to assist the Broadcasting Authority of Ireland in carrying out the full media merger examination and in making its report under section 28E, establish an advisory panel (in this Part referred to as an "advisory panel") to provide a reasoned opinion in writing to the Broadcasting Authority of Ireland on the application of the relevant criteria to the media merger in question and to provide clarifications of the opinion where requested by the Broadcasting Authority of Ireland in accordance with subsection (6)(b).
 
 (2) An advisory panel shall consist of at least 3 and not more than 5 persons appointed by the Minister for Communications, Energy and Natural Resources, each of whom shall have knowledge of, and expertise in, law, journalism, media, business or economics.
 
@@ -40,6 +40,6 @@ Advisory panel.
 
 (10) In this section—
 
-‘civil partner’ means a civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+"civil partner" means a civil partner within the meaning of the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
-‘connected relative’, in relation to a person, means a spouse, partner, civil partner, parent, brother, sister, child or a spouse, partner or civil partner of the child of the person.
+"connected relative", in relation to a person, means a spouse, partner, civil partner, parent, brother, sister, child or a spouse, partner or civil partner of the child of the person.

@@ -1,6 +1,6 @@
 Right of action of competent authority.
 
-14A.— (1) The competent authority shall, in respect of any agreement, decision, concerted practice or abuse that is prohibited under section 4 or 5, or by Article 101 or 102 of the Treaty on the Functioning of the European Union, have a right of action under this subsection for relief against either or both of the following:
+14A.—(1) The competent authority shall, in respect of any agreement, decision, concerted practice or abuse that is prohibited under section 4 or 5, or by Article 101 or 102 of the Treaty on the Functioning of the European Union, have a right of action under this subsection for relief against either or both of the following:
 
 (a) any undertaking which is or has at any material time been a party to such an agreement, decision or concerted practice or has done any act that constituted such an abuse;
 
@@ -26,7 +26,7 @@ Right of action of competent authority.
 
 (b) For the avoidance of doubt, where in an action under subsection (1), the competent authority seeks relief by way of interim injunction, nothing in paragraph (a) shall be construed as imposing an obligation on the Court to require a competent authority to lodge an undertaking in respect of damages as a condition of granting the injunction.
 
-(6) In this section ‘injunction’ means—
+(6) In this section "injunction" means—
 
 (a) an interim injunction,
 

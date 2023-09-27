@@ -12,7 +12,9 @@ Anti-competitive conduct in grocery goods trading.
 
 (4) Subject to subsection (5) and without limiting the generality of subsection (3), a retailer shall not directly or indirectly compel or coerce, whether by threat, promise or any like means, another grocery goods undertaking to make any payment or grant any allowance to the retailer in consideration of any of the following matters:
 
-(a) providing space for grocery goods within a new retail outlet on or within the first 60 days after its opening to the public; (b) providing space for grocery goods within a newly expanded or extended retail outlet on or within the first 60 days after the opening to the public of the expanded or extended part of the outlet;
+(a) providing space for grocery goods within a new retail outlet on or within the first 60 days after its opening to the public;
+
+(b) providing space for grocery goods within a newly expanded or extended retail outlet on or within the first 60 days after the opening to the public of the expanded or extended part of the outlet;
 
 (c) providing space for grocery goods within a retail outlet on or within the first 60 days after its opening to the public under new ownership.
 

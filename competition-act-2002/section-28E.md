@@ -1,6 +1,6 @@
 Full media merger examination.
 
-28E.— (1) Where the Minister for Communications, Energy and Natural Resources makes a determination under section 28D(1)(c), he or she shall request the Broadcasting Authority of Ireland to carry out an examination (in this Part referred to as a ‘full media merger examination’) in relation to the media merger concerned.
+28E.—(1) Where the Minister for Communications, Energy and Natural Resources makes a determination under section 28D(1)(c), he or she shall request the Broadcasting Authority of Ireland to carry out an examination (in this Part referred to as a "full media merger examination") in relation to the media merger concerned.
 
 (2) On receipt of a request under subsection (1), the Broadcasting Authority of Ireland shall, as soon as may be—
 
@@ -78,7 +78,7 @@ Full media merger examination.
 
 (ii) inform the Minister for Communications, Energy and Natural Resources and the undertakings involved of the corrections made.
 
-(13) In this section, reference to ‘applicable date’ means—
+(13) In this section, reference to "applicable date" means—
 
 (a) unless paragraph (b) applies, the date the Minister for Communications, Energy and Natural Resources makes a determination under section 28D(1)(c),
 
@@ -94,4 +94,4 @@ Full media merger examination.
 
 (II) subparagraph (ii) to the requirement or requirements not complied with.
 
-(14) The reference in the definition of ‘applicable date’ in subsection (13) to the period specified in a requirement is a reference to the period specified in the requirement as being the period within which the information concerned shall be supplied.
+(14) The reference in the definition of "applicable date" in subsection (13) to the period specified in a requirement is a reference to the period specified in the requirement as being the period within which the information concerned shall be supplied.

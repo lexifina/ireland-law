@@ -1,6 +1,6 @@
 Limitation of judicial review of determination.
 
-28J.— (1) Leave shall not be granted for judicial review of a determination of the Minister for Communications, Energy and Natural Resources under section 28D or 28G unless—
+28J.—(1) Leave shall not be granted for judicial review of a determination of the Minister for Communications, Energy and Natural Resources under section 28D or 28G unless—
 
 (a) the application for leave to seek judicial review is brought by an undertaking involved in the media merger to which the determination relates,
 

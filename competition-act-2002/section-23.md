@@ -1,3 +1,3 @@
-Provisions with regard to media mergers.
+Provisions with regard to media mergers. (Repealed)
 
 23.— ...

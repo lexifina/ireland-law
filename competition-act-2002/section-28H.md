@@ -1,6 +1,6 @@
 Review of conditions in determination under section 28G(1)(c).
 
-28H.— (1) Where all the undertakings involved in a media merger are of the opinion that the market conditions applicable to the merger have substantially changed since the date the Broadcasting Authority of Ireland made its report to the Minister for Communications, Energy and Natural Resources under section 28E(4), the undertakings involved may, not later than 40 working days from the date the determination under section 28G(1)(c) is notified to them, request the Minister for Communications, Energy and Natural Resources to review the conditions contained in the determination.
+28H.—(1) Where all the undertakings involved in a media merger are of the opinion that the market conditions applicable to the merger have substantially changed since the date the Broadcasting Authority of Ireland made its report to the Minister for Communications, Energy and Natural Resources under section 28E(4), the undertakings involved may, not later than 40 working days from the date the determination under section 28G(1)(c) is notified to them, request the Minister for Communications, Energy and Natural Resources to review the conditions contained in the determination.
 
 (2) On receipt of a request under subsection (1), the Minister for Communications, Energy and Natural Resources shall—
 

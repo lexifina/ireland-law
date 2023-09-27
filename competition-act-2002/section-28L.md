@@ -1,6 +1,6 @@
 Guidelines.
 
-28L.— (1) The Minister for Communications, Energy and Natural Resources may, from time to time, following consultation with the Broadcasting Authority of Ireland and such other persons as he or she considers appropriate, prepare and make guidelines on the general applicability of the relevant criteria to media mergers, including in particular:
+28L.—(1) The Minister for Communications, Energy and Natural Resources may, from time to time, following consultation with the Broadcasting Authority of Ireland and such other persons as he or she considers appropriate, prepare and make guidelines on the general applicability of the relevant criteria to media mergers, including in particular:
 
 (a) levels of media ownership including across different sectors of the media that would, subject to the particular circumstances of each media merger, be regarded as contrary to the public interest;
 
@@ -14,7 +14,7 @@ Guidelines.
 
 (iii) the ownership and control policy of the Broadcasting Authority of Ireland for the time being in force;
 
-(d) what will constitute significant interests within a sector or across different sectors of media businesses in the State for the purposes of paragraph (b) of the definition of ‘relevant criteria’ in section 28A(1);
+(d) what will constitute significant interests within a sector or across different sectors of media businesses in the State for the purposes of paragraph (b) of the definition of "relevant criteria" in section 28A(1);
 
 (e) the nature of the proposed commitments that the undertakings involved in a merger may offer pursuant to section 28D(5) or section 28E(10) that could be incorporated as conditions in a determination by the Minister for Communications, Energy and Natural Resources under section 28D(1)(b) or section 28G(1)(c);
 

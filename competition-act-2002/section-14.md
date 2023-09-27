@@ -34,7 +34,7 @@ Right of action for breaches of competition rules.
 
 (9) In an action under subsection (1) for damages, it shall be a good defence to prove that the act complained of was done pursuant to a determination made or a direction given by a statutory body.
 
-(10) In this section ‘injunction’ means—
+(10) In this section "injunction" means—
 
 (a) an interim injunction,
 
