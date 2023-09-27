@@ -8,7 +8,7 @@ Amendment of section 3 of Act of 2002
 
 ‘Act of 2009’ means the Broadcasting Act 2009;
 
-‘Council Regulation’ means Council Regulation (EC) No. 139/2004 of on the control of concentrations between 20 January 2004 undertakings;”,
+‘Council Regulation’ means Council Regulation (EC) No. 139/2004 of 20 January 2004 on the control of concentrations between undertakings;”,
 
 (b) by substituting the following definition for the definition of “authorised officer”:
 

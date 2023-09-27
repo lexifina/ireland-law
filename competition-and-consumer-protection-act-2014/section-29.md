@@ -36,9 +36,7 @@ Superannuation
 
 (b) only in so far as the schemes or arrangements concerned relate to former members of the staff (other than those to whom subsection (1) or (2) refers) of the dissolved bodies, including those who are deceased, continue in force as if made by the Commission.
 
-(11) Subject to subsection (12), and notwithstanding the repeal of section 44 of the Act of 2002 by section 7(1)(c), a scheme made under paragraph 5 of the Schedule to the Competition Act 1991 continued in force by subsection
-
-(7) of the said section 44, and in force immediately before the establishment day, shall continue in force on and after that day.
+(11) Subject to subsection (12), and notwithstanding the repeal of section 44 of the Act of 2002 by section 7(1)(c), a scheme made under paragraph 5 of the Schedule to the Competition Act 1991 continued in force by subsection (7) of the said section 44, and in force immediately before the establishment day, shall continue in force on and after that day.
 
 (12) Paragraph (a) of subsection (8) and subsections (9), (10) and (11) shall not apply in relation to a provision of a scheme or arrangement in relation to superannuation in respect of which the consent or approval of the Minister for Finance, the Minister for Public Expenditure and Reform or any other Minister of the Government was required by or under any enactment but not obtained.
 
