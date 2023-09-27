@@ -8,6 +8,8 @@ Interpretation.
 
 “authorisation” means an authorisation for the carrying out of surveillance issued under section 5 or varied or renewed under section 6;
 
+“authorised officer" has the meaning it has in the Competition and Consumer Protection Act 2014;
+
 "chairperson", in relation to the Ombudsman Commission, means the member of the Ombudsman Commission who is appointed or acting as its chairperson under section 65 of the Garda Síochána Act 2005;
 
 "designated officer of the Ombudsman Commission" means—
@@ -26,7 +28,7 @@ Interpretation.
 
 “member of the Defence Forces” means a member of the Defence Forces within the meaning of section 1 of the Defence (Amendment) Act 1990, other than a member of the Reserve Defence Force within the meaning of the Defence Act 1954;
 
-“member of the Garda Síochána” means a member of the Garda Síochána within the meaning of section 3 of the Garda Síochána Act 2005, other than a person referred to in paragraph (b) of that definition;
+“member of the Garda Síochána” means a member of the Garda Síochána within the meaning of section 3 of the Act of 2005, other than a person referred to in paragraph (b) of that definition;
 
 "member of the Ombudsman Commission" means a member of the Ombudsman Commission appointed under section 65 of the Garda Síochána Act 2005;
 
@@ -46,6 +48,8 @@ Interpretation.
 
 (e) a hovercraft;
 
+"relevant competition offence" means an offence under section 6 of the Competition Act 2002 involving an agreement, decision or concerted practice to which subsection (2) of that section applies;
+
 “relevant Minister” means—
 
 (a) the Minister—
@@ -53,6 +57,8 @@ Interpretation.
 (i) in relation to approvals granted by a superior officer of, and documents and information in the custody of, the Garda Síochána, and
 
 (ii) in relation to approvals granted by a superior officer of, and documents and information in the custody of, the Ombudsman Commission,
+
+(aa) the Minister for Enterprise, Trade and Employment, in relation to approvals granted by a superior officer of, and documents and information in the custody of, the Competition and Consumer Protection Commission,
 
 (b) the Minister for Defence, in relation to approvals granted by a superior officer of, and documents and information in the custody of, the Defence Forces, and
 
@@ -78,9 +84,11 @@ Interpretation.
 
 (aa) in the case of the Ombudsman Commission, a member of the Ombudsman Commission other than its chairperson;
 
-(b) in the case of the Defence Forces, a member of the Defence Forces not below the rank of colonel; and
+(b) in the case of the Defence Forces, a member of the Defence Forces not below the rank of colonel;
 
-(c) in the case of the Revenue Commissioners, an officer of the Revenue Commissioners not below the rank of principal officer;
+(c) in the case of the Revenue Commissioners, an officer of the Revenue Commissioners not below the rank of principal officer; and
+
+(d) in the case of the Competition and Consumer Protection Commission, an authorised officer not below the rank of principal officer;
 
 “surveillance” means—
 
@@ -94,7 +102,7 @@ Interpretation.
 
 (b) a CCTV within the meaning of section 38 of the Garda Síochána Act 2005, or
 
-(c) a camera, to the extent to which it is used to take photographs of any person who, or any thing that, is in a place to which the public have access;
+(c) a camera (including a video camera), to the extent to which it is used to take photographs or video footage of any person who, or any thing that, is in a place to which the public have access;
 
 “tracking device” means a surveillance device that is used only for the purpose of providing information regarding the location of a person, vehicle or thing;
 

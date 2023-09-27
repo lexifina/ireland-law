@@ -1,6 +1,6 @@
 Regulations.
 
-16.— (1) The Minister, the Minister for Defence and the Minister for Finance may make regulations prescribing any matter or thing which is referred to in this Act as prescribed or to be prescribed by him or her.
+16.— (1) The Minister, the Minister for Defence, the Minister for Finance and the Minister for Enterprise, Trade and Employment may make regulations prescribing any matter or thing which is referred to in this Act as prescribed or to be prescribed by him or her.
 
 (2) Regulations made under this section may contain such incidental, supplementary and consequential provisions as appear to the Minister of the Government making them to be necessary or expedient for the purposes of the regulations.
 
