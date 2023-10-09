@@ -42,7 +42,11 @@ Radio rules.
 
 (10) If the master of a ship fails to cause an entry to be made in the log-book of the ship in contravention of rules made under paragraph (c), or if any person contravenes any rules made under paragraph (a), of subsection (9), he or she commits an offence and is liable on summary conviction to a fine not exceeding €1,000.
 
-(11) If radio rules are contravened in any other respect in relation to any ship, the owner or master of the ship commits an offence and is liable— (a) on summary conviction, to a fine not exceeding €5,000, or (b) on conviction on indictment, to a fine not exceeding €100,000.
+(11) If radio rules are contravened in any other respect in relation to any ship, the owner or master of the ship commits an offence and is liable—
+
+(a) on summary conviction, to a fine not exceeding €5,000, or
+
+(b) on conviction on indictment, to a fine not exceeding €100,000.
 
 (12) A surveyor of ships may board and inspect—
 
