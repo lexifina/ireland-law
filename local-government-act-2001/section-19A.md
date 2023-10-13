@@ -12,7 +12,7 @@ Temporary Absences.
 
 (ii) is occasioned by the member taking leave in accordance with the Maternity Protection Act 1994 , and
 
-(b) such member notifies the meetings administrator that he or she wishes to have a temporary substitute.
+(b) such member notifies the meetings administrator that he or she wishes to have a temporary substitute to perform the member’s functions during the absence.
 
 (2) It is the duty of the meetings administrator to notify the members of the local authority in writing on becoming aware that a temporary absence has occurred and that a temporary substitute is to be co-opted.
 
@@ -47,5 +47,7 @@ Temporary Absences.
 (b) such member causing the temporary absence continues to be a member of the local authority, the casual vacancy referred to in paragraph (a) shall not be filled in accordance with section 19 but in accordance with this section as if the casual vacancy were a temporary absence of the member referred to in paragraph (b), and the other provisions of this section shall, with all necessary modifications, be construed accordingly.
 
 (9) A member of a local authority who is a temporary substitute may not, in his or her capacity as such substitute, have a temporary substitute notwithstanding that he or she falls within paragraph (a) of subsection (1).
+
+(9A) The member causing the temporary absence shall not perform any functions as a member unless and until he or she returns to office.
 
 (10) In this section, "temporary substitute", in relation to a member of a local authority causing a temporary absence, means the person (if any) co-opted under subsection (3)(a) or (b) to fill the absence.
