@@ -22,7 +22,7 @@ Operational control.
 
 (3) A delegation of operational control by the Minister under subsection (2) may be subject to such exceptions and limitations as he or she, having had regard to such requirements as may be necessary for the efficient operation of the mission concerned, may from time to time determine.
 
-(4) A delegation of operational control by the Minister under subsection (2)shall —
+(4) A delegation of operational control by the Minister under subsection (2) shall —
 
 (a) be in writing
 

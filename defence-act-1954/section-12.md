@@ -18,7 +18,7 @@ The Chief of Staff, the Adjutant-General and the Quartermaster- General.
 
 (e) The President may, for stated reasons, remove the Chief of Staff from office.
 
-(3) (a) In this subsection, ‘the Deputy Chief of Staff’ means, as the context may require, the Deputy Chief of Staff (Operations) or the Deputy Chief of Staff (Support).
+(3) (a) In this subsection, "the Deputy Chief of Staff" means, as the context may require, the Deputy Chief of Staff (Operations) or the Deputy Chief of Staff (Support).
 
 (b) The Government shall appoint the Deputy Chief of Staff and may, for stated reasons, terminate his or her appointment as Deputy Chief of Staff.
 
