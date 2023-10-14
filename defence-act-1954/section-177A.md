@@ -2,7 +2,7 @@ Notice.
 
 177A.— Where a charge against a person subject to military law is—
 
-(a) to be investigated under section 177 by the person’s commanding officer or an officer appointed for that purpose by the Deputy Chief of Staff (Support), or
+(a) to be investigated under section 177, or
 
 (b) referred to an authorised officer for summary investigation under section 177(2)(a)(ii)(III), the person charged shall be entitled to receive, in the prescribed manner, at least 24 hours before the charge is to be so investigated—
 
