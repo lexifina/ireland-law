@@ -4,7 +4,7 @@ National authorities.
 
 8.— (1) The following are designated national authorities in the State for the purposes of the Rotterdam Regulation:
 
-(a) the Authority, other than -
+(a) the Authority, other than—
 
 (i) for the purposes of Article 18, and
 
@@ -30,7 +30,9 @@ National authorities.
 
 (b) subject to paragraph (c), the Minister for Agriculture, Fisheries and Food, in respect of pesticides;
 
-(c) the Environmental Protection Agency, in respect of the prevention of environmental pollution.
+(c) the Environmental Protection Agency, in respect of the prevention of environmental pollution;
+
+(d) the Minister for Housing, Local Government and Heritage, for the purposes only of paragraphs 11 and 13 in entry 63 of Annex XVII to that Regulation.
 
 (3A) The following are competent authorities in the State for the purposes of the CLP Regulation:
 
@@ -39,6 +41,8 @@ National authorities.
 (b) the Minister for Agriculture, Fisheries and Food, in respect of pesticides;
 
 (c) Beaumont Hospital Board, for the purposes only of Article 45 of that Regulation.
+
+(3B) The Authority is the Central Competent Authority in the State for the purpose of the Seveso III Directive, and Article 6 thereof.
 
 (4) A national authority (other than the Authority) shall, in accordance with such guidelines (if any) as may be given to that national authority by the Authority—
 
