@@ -16,9 +16,11 @@ Offences.
 
 (d) a manufacturer,
 
-(e) a person appointed in accordance with Article 8 of the REACH Regulation, or
+(e) a person appointed in accordance with Article 8 of the REACH Regulation,
 
-(f) a producer of an article, contravenes a provision of the REACH Regulation that applies to him or her, that person shall be guilty of an offence.
+(f) a producer of an article, or
+
+(g) in relation to paragraph 11 in entry 63 of Annex XVII to the REACH Regulation, a person, contravenes a provision of the REACH Regulation that applies to him or her, that person shall be guilty of an offence.
 
 (3A) Where—
 
@@ -52,7 +54,9 @@ Offences.
 
 (a) a register, record, licence, authorisation, direction, or permit under the relevant chemicals statutory provisions or a document purporting to be an extract therefrom, or
 
-(b) a contravention notice, a prohibition notice or an information notice, (in this section referred to as an “altered document”) shall be guilty of an offence.
+(b) a contravention notice, a prohibition notice or an information notice,
+
+(in this section referred to as an “altered document”) shall be guilty of an offence.
 
 (8) A person who has, without lawful authority, a forged document or an altered document in his or her possession shall be guilty of an offence.
 
