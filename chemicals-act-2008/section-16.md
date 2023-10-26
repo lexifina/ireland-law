@@ -4,7 +4,7 @@ Prohibition notice.
 
 (a) a person is or is likely to be in control of any activity relating to a chemical that involves or is likely to involve a serious risk to health or the environment, or
 
-(b) the measures taken by a person for the prevention and mitigation of major accidents are or are likely to be seriously deficient, the inspector may serve a notice (in this Act referred to as a ‘prohibition notice’) on the person concerned.
+(b) the measures taken by a person for the prevention and mitigation of major accidents are or are likely to be seriously deficient, the inspector may serve a notice (in this Act referred to as a "prohibition notice") on the person concerned.
 
 (2) A prohibition notice shall—
 

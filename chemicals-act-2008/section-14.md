@@ -12,7 +12,7 @@ Directions for improvement plan.
 
 (d) include any other requirements that the inspector considers necessary.
 
-(3) An inspector shall, not later than one month after receiving a plan submitted under subsection (2) or a revised improvement plan (in this section and in section 15 also referred to as a ‘plan’) submitted pursuant to a direction under subsection (4), confirm by notice to the person who submitted the plan whether or not the inspector is satisfied that the plan is adequate.
+(3) An inspector shall, not later than one month after receiving a plan submitted under subsection (2) or a revised improvement plan (in this section and in section 15 also referred to as a "plan") submitted pursuant to a direction under subsection (4), confirm by notice to the person who submitted the plan whether or not the inspector is satisfied that the plan is adequate.
 
 (4) If an inspector is not satisfied that a plan is adequate he or she shall, not later than one month after receiving the plan, require, by direction in writing, the person who prepared the plan to—
 
