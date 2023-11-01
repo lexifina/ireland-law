@@ -6,4 +6,4 @@ Protection of purchasers.
 
 (b) A purchaser of any property to which this subsection applies, being the whole or any part of the estate of a deceased person, which has been conveyed by the personal representatives to any person shall be entitled to hold that property freed and discharged from the claims of creditors of the deceased and from any claims of the persons entitled to any share in the estate.
 
-(3) This section applies whether the deceased died before or after the commencement of this Act.
+(3) ...

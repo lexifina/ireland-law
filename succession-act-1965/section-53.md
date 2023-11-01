@@ -14,6 +14,6 @@ Special provisions as to unregistered land.
 
 (2) Any person in whose favour an assent or conveyance of any unregistered land is made by personal representatives may at his own expense require the personal representatives to register that assent or conveyance in the Registry of Deeds pursuant to the Registration of Deeds Act, 1707.
 
-(3) ...
+(3) An assent or conveyance of unregistered land by a personal representative shall, in favour of a purchaser, be conclusive evidence that the person in whose favour the assent or conveyance is given or made is the person who was entitled to have the estate or interest vested in him, but shall not otherwise prejudicially affect the claim of any person originally entitled to that estate or interest or to any mortgage or incumbrance thereon.
 
 (4) This section applies to assents and conveyances made after the commencement of this Act whether the deceased died before or after such commencement.
