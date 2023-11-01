@@ -12,4 +12,4 @@ Arrest without warrant.
 
 (4) A person guilty of an offence under subsection (3) shall be liable on summary conviction to a fine not exceeding €1,000 or to a term of imprisonment not exceeding 6 months or to both.
 
-(5) In this section “relevant provision” means section 4, 6, 7, 8, 11, 13, 14, 15, 16, 17, 18 or 19.
+(5) In this section “relevant provision” means section 4, 6, 7, 8, 9A, 11, 13, 14, 15, 16, 17, 18 or 19.
