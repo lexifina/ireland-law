@@ -30,13 +30,17 @@ F7[Interpretation and application - Part III
 
 (b) an offence involving violence or the threat of violence to a person;
 
+(ba) an offence under section 10 (amended by section 23 of the Criminal Justice (Miscellaneous Provisions) Act 2023) of the Non-Fatal Offences against the Person Act 1997;
+
 (c) an offence under section 3, 4, 5 or 6 of the Child Trafficking and Pornography Act 1998;
 
 (d) an offence under section 2, 4 or 7 of the Criminal Law (Human Trafficking) Act 2008;
 
 (da) an offence under section 33, 38 or 39 of the Domestic Violence Act 2018;
 
-(e) an offence consisting of attempting or conspiring to commit, or of aiding or abetting, counselling, procuring or inciting the commission of, an offence mentioned in paragraph (a), (b), (c), (d) or (da);
+(db) an offence under section 44 (1) of the Criminal Justice (Miscellaneous Provisions) Act 2023;
+
+(e) an offence consisting of attempting or conspiring to commit, or of aiding or abetting, counselling, procuring or inciting the commission of, an offence mentioned in paragraph (a), (b), (ba), (c), (d), (da) or ...;
 
 "victim" means—
 
