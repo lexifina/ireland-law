@@ -16,7 +16,7 @@ Assault or obstruction of peace officer.
 
 (a) having elected for summary disposal of the offence, on summary conviction, to a fine not exceeding €5,000 or to imprisonment for a term not exceeding 12 months, or to both,
 
-(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 7 years or to both.
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 12 years or to both.
 
 (3) Any person who resists or wilfully obstructs or impedes—
 
@@ -46,4 +46,4 @@ Assault or obstruction of peace officer.
 
 “prison” means any place for which rules or regulations may be made under the Prisons Acts, 1826 to 1980, section 7 of the Offences against the State (Amendment) Act, 1940, section 233 of the Defence Act, 1954, section 2 of the Prisoners of War and Enemy Aliens Act, 1956, or section 13 of the Criminal Justice Act, 1960;
 
-‘prison officer’ includes any member of the staff of a prison and any person having the custody of, or having duties relating to the custody of, a person in relation to whom an order of a court committing that person to a prison is for the time being in force;
+"prison officer" includes any member of the staff of a prison and any person having the custody of, or having duties relating to the custody of, a person in relation to whom an order of a court committing that person to a prison is for the time being in force;
