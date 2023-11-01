@@ -4,15 +4,15 @@ Interpretation.
 
 “the Act of 1967” means the Criminal Procedure Act, 1967;
 
-‘authorised person’ means a person who is appointed in writing by the Minister, or a person who is one of a prescribed class of persons, to be an authorised person for the purposes of sections 6B and 6C;
+"authorised person" means a person who is appointed in writing by the Minister, or a person who is one of a prescribed class of persons, to be an authorised person for the purposes of sections 6B and 6C;
 
 “court” means any court exercising criminal jurisdiction but does not include court martial;
 
 “criminal record”, in relation to a person, means a record of the previous convictions of the person for offences (if any);
 
-‘Minister’ means Minister for Justice, Equality and Law Reform;
+"Minister" means Minister for Justice, Equality and Law Reform;
 
-‘prescribed’ means prescribed by regulations made by the Minister;
+"prescribed" means prescribed by regulations made by the Minister;
 
 “serious offence” means an offence specified in the Schedule for which a person of full capacity and not previously convicted may be punished by a term of imprisonment for a term of 5 years or by a more severe penalty.
 

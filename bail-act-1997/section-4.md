@@ -14,7 +14,7 @@ representatives of the Press and such other persons if any as the court may perm
 
 (2A) Subsection (2) is without prejudice to the right of—
 
-(a) a parent, relative or friend of a person in respect of whom the offence is alleged to have been committed (in this subsection referred to as ‘the relevant person’), or
+(a) a parent, relative or friend of a person in respect of whom the offence is alleged to have been committed (in this subsection referred to as "the relevant person"), or
 
 (b) a support worker chosen by the relevant person, to remain in court, where the relevant person gives evidence pursuant to section 9A, for the duration of such evidence.
 
@@ -36,7 +36,7 @@ representatives of the Press and such other persons if any as the court may perm
 
 “a broadcast” means the transmission, relaying or distribution by wireless telegraphy of communications, sounds, signs, visual images or signals intended for direct reception by the general public whether such communications, sounds, signs, visual images or signals are actually received or not;
 
-‘support worker’ means a volunteer of, or an individual employed under a contract of service or under a contract for services by, an organisation which provides support to victims of crime.
+"support worker" means a volunteer of, or an individual employed under a contract of service or under a contract for services by, an organisation which provides support to victims of crime.
 
 “written publication” includes a film, a sound track and any other record in permanent form (including a record that is not in a legible form but which is capable of being reproduced in a legible form) but does not include an indictment or other document prepared for use in particular legal proceedings.
 

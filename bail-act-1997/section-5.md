@@ -6,9 +6,9 @@ Payment of moneys into court, etc.
 
 (b) such greater amount as the court may determine, of any moneys to be paid into court under a recognisance entered into by a person in connection therewith has been paid into court by the person.
 
-(2) (a)Where a court requires payment of moneys into court by a person or any surety as a condition of a recognisance, it may accept as security, in lieu of such payment, any instrument that it considers to be adequate evidence of the title of a person to property (other than land or any estate, right or interest in or over land)
+(2) (a) Where a court requires payment of moneys into court by a person or any surety as a condition of a recognisance, it may accept as security, in lieu of such payment, any instrument that it considers to be adequate evidence of the title of a person to property (other than land or any estate, right or interest in or over land).
 
-(b)Where a bank, building society, credit union or post office deposit book is accepted as security by a court by virtue of paragraph (a), the court shall make an order directing the bank, building society or credit union concerned or An Post, as the case may be, not to permit the moneys on deposit to be reduced below—
+(b) Where a bank, building society, credit union or post office deposit book is accepted as security by a court by virtue of paragraph (a), the court shall make an order directing the bank, building society or credit union concerned or An Post, as the case may be, not to permit the moneys on deposit to be reduced below—
 
 (i) an amount equal to the amount required to be paid into court, or
 
