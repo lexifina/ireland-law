@@ -20,9 +20,9 @@ Whereas:
 
 (3) In the Hague Programme for strengthening freedom, security and justice in the European Union of November 2004, the European Council set forth its conviction that for that purpose an innovative approach to the cross-border exchange of law enforcement information was needed.
 
-(4) The European Council accordingly stated that the exchange of such information should comply with the conditions applying to the principle of availability. This means that a law enforcement officer in one Member State of the Union who needs information in order to carry out his duties can obtain it from another Member State and that the law enforcement
+Opinion of 10 June 2007 (not yet published in the Official Journal).
 
-Opinion of 10 June 2007 (not yet published in the Official Journal). authorities in the Member State that holds this information will make it available for the declared purpose, taking account of the needs of investigations pending in that Member State.
+(4) The European Council accordingly stated that the exchange of such information should comply with the conditions applying to the principle of availability. This means that a law enforcement officer in one Member State of the Union who needs information in order to carry out his duties can obtain it from another Member State and that the law enforcement authorities in the Member State that holds this information will make it available for the declared purpose, taking account of the needs of investigations pending in that Member State.
 
 (5) The European Council set 1 January 2008 as the deadline for achieving this objective in the Hague Programme.
 
@@ -294,7 +294,9 @@ General rules on civil liability
 
 Article 22
 
-Criminal liability Officers operating within another Member State’s territory under this Decision, shall be treated in the same way as officers of the host Member State with regard to any criminal offences that might be committed by, or against them, save as otherwise provided in another agreement which is binding on the Member States concerned.
+Criminal liability
+
+Officers operating within another Member State’s territory under this Decision, shall be treated in the same way as officers of the host Member State with regard to any criminal offences that might be committed by, or against them, save as otherwise provided in another agreement which is binding on the Member States concerned.
 
 Article 23
 
@@ -432,13 +434,13 @@ Data subjects’ rights to information and damages
 
 1. At the request of the data subject under national law, information shall be supplied in compliance with national law to the data subject upon production of proof of his identity, without unreasonable expense, in general comprehensible terms and without unacceptable delays, on the data processed in respect of his person, the origin of the data, the recipient or groups of recipients, the intended purpose of the processing and, where required by national law, the legal basis for the processing. Moreover, the data subject shall be entitled to have inaccurate data corrected and unlawfully processed data deleted. The Member States shall also ensure that, in the event of violation of his rights in relation to data protection, the data subject shall be able to lodge an effective complaint to an independent court or a tribunal within the meaning of Article 6(1) of the European Convention on Human Rights or an independent supervisory authority within the meaning of Article 28 of Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and that he is given the possibility to claim for damages or to seek another form of legal compensation. The detailed rules for the procedure to assert these rights and the reasons for limiting the right of access shall be governed by the relevant national legal provisions of the Member State where the data subject asserts his rights.
 
-2. Where a body of one Member State has supplied personal data under this Decision, the receiving body of the other Member State cannot use the inaccuracy of the data supplied as grounds to evade its liability vis-à-vis the injured party under national law. If damages are awarded against the receiving body because of its use of inaccurate transfer data, the body which supplied the data shall refund the amount paid in damages to the receiving body in full.
+2. Where a body of one Member State has supplied personal data under this Decision, the receiving body of the other Member State cannot use the inaccuracy of the data supplied as grounds to evade its liability vis-à-vis the injured party under national law. If damages are awarded against the receiving body because of its use of inaccurate transfer data, the body
+
+31.10.2003, p.1). which supplied the data shall refund the amount paid in damages to the receiving body in full.
 
 Article 32
 
 Information requested by the Member States
-
-31.10.2003, p.1).
 
 The receiving Member State shall inform the supplying Member State on request of the processing of supplied data and the result obtained.
 

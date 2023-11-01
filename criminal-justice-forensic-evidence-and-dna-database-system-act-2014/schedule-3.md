@@ -1,8 +1,6 @@
 SCHEDULE 3
 
-Text of Agreement Between the European Union and Iceland and Norway on the Application of Council Decision 2008/615/JHA of 23 June 2008 and Council Decision 2008/616/JHA of 23 June 2008
-
-Section 109
+Text of Agreement Between the European Union and Iceland and Norway on the Application of Council Decision 2008/615/JHA of 23 June 2008 and Council Decision 2008/616/JHA of 23 June 2008 Section 109
 
 THE EUROPEAN UNION, on the one hand, and
 
@@ -38,9 +36,9 @@ RECOGNISING that in addition to improving the exchange of information, there is 
 
 CONSIDERING that closer police and judicial cooperation in criminal matters must go hand in hand with respect for fundamental rights, in particular the right to respect for privacy and to protection of personal data, to be guaranteed by special data protection arrangements, which should be tailored to the specific nature of different forms of data exchange. Such data protection provisions should take particular account of the specific nature of cross-border on- line access to databases. Since, with on-line access, it is not possible for the State administering the file to make any prior checks, a system ensuring post hoc monitoring should be in place,
 
-CONSIDERING that the hit/no hit system provides for a structure of comparing anonymous profiles, where additional personal data is exchanged only after a hit, the supply and receipt of which is governed by national law, including the legal assistance rules. This set-up guarantees an adequate system of data protection, it being understood that the supply of personal data to another State requires an adequate level of data protection on the part of the receiving State,
+CONSIDERING that the hit/no hit system provides for a structure of comparing anonymous profiles, where additional personal data is exchanged only after a hit, the supply and receipt of which is governed by national law, including the legal assistance rules. This set-up guarantees an adequate system of data protection, it being understood that the supply of personal data to another State requires an adequate level of data protection on the part of the receiving State, AWARE OF the comprehensive exchange of information and data resulting from closer police and judicial cooperation, this Agreement seeks to warrant an appropriate level of data protection. It observes the level of protection designed for the processing of personal data in the Council of Europe Convention of 28 January 1981 for the Protection of Individuals with regard to Automatic Processing of Personal Data, the Additional Protocol of 8 November 2001 to the Convention and the principles of Recommendation No R (87) 15 of the Council of Europe Regulating the Use of Personal Data in the Police Sector,
 
-AWARE OF the comprehensive exchange of information and data resulting from closer police and judicial cooperation, this Agreement seeks to warrant an appropriate level of data protection. It observes the level of protection designed for the processing of personal data in the Council of Europe Convention of 28 January 1981 for the Protection of Individuals with regard to Automatic Processing of Personal Data, the Additional Protocol of 8 November 2001 to the Convention and the principles of Recommendation No R (87) 15 of the Council of Europe Regulating the Use of Personal Data in the Police Sector, TAKING AS A BASIS the mutual confidence of the Member States of the European Union and Iceland and Norway in the structure and operation of their legal systems,
+TAKING AS A BASIS the mutual confidence of the Member States of the European Union and Iceland and Norway in the structure and operation of their legal systems,
 
 RECOGNISING that the provisions of bilateral and multilateral agreements remain applicable for all matters not covered by this Agreement,
 
@@ -76,7 +74,9 @@ Uniform application and interpretation
 
 Article 4
 
-Dispute settlement Any dispute between either Iceland or Norway and a Member State regarding the interpretation or the application of this Agreement or of any of the provisions referred to in Article 1 and amendments thereto may be referred by a Party to the dispute to a meeting of representatives of the governments of the Member States and of Iceland and Norway, with a view to its speedy settlement.
+Dispute settlement
+
+Any dispute between either Iceland or Norway and a Member State regarding the interpretation or the application of this Agreement or of any of the provisions referred to in Article 1 and amendments thereto may be referred by a Party to the dispute to a meeting of representatives of the governments of the Member States and of Iceland and Norway, with a view to its speedy settlement.
 
 Article 5
 
@@ -180,6 +180,4 @@ To enable and facilitate this work, Iceland and Norway will be provided with all
 
 Iceland and Norway will have the opportunity to set up an informal partnership with Member States that have already implemented such data exchange, with a view to sharing experiences and getting practical and technical support. The details of such partnerships are to be arranged in direct contacts with the Member States concerned.
 
-The Icelandic and Norwegian experts can contact at any time the Presidency of the Council, the Commission and/or leading experts in these matters to obtain information, clarification or any other support. Similarly the Commission will, whenever in preparation of proposals or communications it contacts representatives of the Member States, avail itself of the opportunity to contact also representatives of Iceland and Norway.
-
-Icelandic and Norwegian experts may be invited to attend on an ad hoc basis meetings where Member States’ experts discuss within the Council technical aspects of the DNA, dactyloscopic or vehicle registration data exchange which are directly relevant to the proper application of the content of the aforementioned Council Decisions by Iceland and/or Norway.
+The Icelandic and Norwegian experts can contact at any time the Presidency of the Council, the Commission and/or leading experts in these matters to obtain information, clarification or any other support. Similarly the Commission will, whenever in preparation of proposals or communications it contacts representatives of the Member States, avail itself of the opportunity to contact also representatives of Iceland and Norway. Icelandic and Norwegian experts may be invited to attend on an ad hoc basis meetings where Member States’ experts discuss within the Council technical aspects of the DNA, dactyloscopic or vehicle registration data exchange which are directly relevant to the proper application of the content of the aforementioned Council Decisions by Iceland and/or Norway.

@@ -124,9 +124,7 @@ Implementation
 
 Article 8
 
-Entry into force
-
-This Framework Decision shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.
+Entry into force This Framework Decision shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.
 
 Done at Brussels, 30 November 2009.
 
