@@ -6,7 +6,9 @@ Establishment and functions of Garda Síochána Executive Management Board.
 
 ## “CHAPTER 3A Establishment and functions of Garda Síochána Executive Management Board
 
-33A.— The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Chapter. 33B.— On the establishment day, a body to be known as An Bord Bainistíochta Feidhmiúcháin an Gharda Síochána or, in the English language, the Garda Síochána Executive Management Board (in this Chapter referred to as “the Board”) stands established to perform the function assigned to it by this Chapter.
+33A.— The Minister shall, by order, appoint a day to be the establishment day for the purposes of this Chapter.
+
+33B.— On the establishment day, a body to be known as An Bord Bainistíochta Feidhmiúcháin an Gharda Síochána or, in the English language, the Garda Síochána Executive Management Board (in this Chapter referred to as “the Board”) stands established to perform the function assigned to it by this Chapter.
 
 33C.— (1) The Board consists of—
 
@@ -76,6 +78,4 @@ Establishment and functions of Garda Síochána Executive Management Board.
 
 33G.— (1) The Board shall furnish to the Minister, at six-monthly intervals, a report on the performance of its function.
 
-(2) The Minister shall cause a copy of the report to be laid before each House of the Oireachtas as soon as may be after its receipt.
-
-33H.— The performance by the Board of its function is without prejudice to, and in no way limits, the performance by the Garda Commissioner of his or her functions under section 26 or his or her accountability for the direction, control, management and operational efficiency of the Garda Síochána.”.
+(2) The Minister shall cause a copy of the report to be laid before each House of the Oireachtas as soon as may be after its receipt. 33H.— The performance by the Board of its function is without prejudice to, and in no way limits, the performance by the Garda Commissioner of his or her functions under section 26 or his or her accountability for the direction, control, management and operational efficiency of the Garda Síochána.”.
