@@ -1,4 +1,4 @@
-F24[Arrest without warrant.
+F26[Arrest without warrant.
 
 19E.—A member of the Garda Síochána may arrest without warrant a person—
 
