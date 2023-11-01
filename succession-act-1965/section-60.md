@@ -20,7 +20,9 @@ Powers to deal with estate, etc.
 
 (a) within six months after the termination of the lease or tenancy;
 
-(b) during the continuance of the possession of the lessee or tenant from whom the arrears were due. The enactments relating to distress for rent apply to any distress made pursuant to this subsection.
+(b) during the continuance of the possession of the lessee or tenant from whom the arrears were due.
+
+The enactments relating to distress for rent apply to any distress made pursuant to this subsection.
 
 (7) The personal representatives may distrain for arrears of a rentcharge due or accruing to the deceased in his lifetime on the land affected or charged therewith, so long as the land remains in the possession of the person liable to pay the rentcharge or of the persons deriving title under him, and in like manner as the deceased might have done had he been living.
 
