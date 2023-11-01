@@ -8,9 +8,11 @@ Powers of detention for specified offences.
 
 (c) an offence under section 15 of the Act of 1925,
 
-(d) an offence under section 15 of the Non-Fatal Offences against the Person Act 1997 involving the use of a firearm, or
+(d) an offence under section 15 of the Non-Fatal Offences against the Person Act 1997 involving the use of a firearm,
 
-(e) an offence under Part 7 of the Criminal Justice Act 2006.
+(e) an offence under Part 7 of the Criminal Justice Act 2006, or
+
+(f) the offence of conspiracy to murder under section 4 of the Act of 1861.
 
 (2) Where a member of the Garda Síochána arrests without warrant, whether in a Garda Síochána station or elsewhere, a person (in this section referred to as “the arrested person”) whom he or she, with reasonable cause, suspects of having committed an offence to which this section applies, the arrested person—
 
