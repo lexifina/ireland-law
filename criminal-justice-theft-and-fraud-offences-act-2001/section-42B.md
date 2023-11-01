@@ -1,6 +1,6 @@
 Liability for offences by body corporate, etc. (Part 6).
 
-42B. (1) Where a relevant offence is committed for the benefit of a body corporate by a relevant person and the commission of the relevant offence is attributable to the failure, by a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, to exercise, at the time of the commission of the relevant offence and in all the circumstances of the case, the requisite degree of supervision or control of the relevant person, the body corporate shall be guilty of an offence.
+42B.—(1) Where a relevant offence is committed for the benefit of a body corporate by a relevant person and the commission of the relevant offence is attributable to the failure, by a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, to exercise, at the time of the commission of the relevant offence and in all the circumstances of the case, the requisite degree of supervision or control of the relevant person, the body corporate shall be guilty of an offence.
 
 (2) In proceedings for an offence under subsection (1), it shall be a defence for a body corporate against which such proceedings are brought to prove that it took all reasonable steps and exercised all due diligence to avoid the commission of the offence.
 

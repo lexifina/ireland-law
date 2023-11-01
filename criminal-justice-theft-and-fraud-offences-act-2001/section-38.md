@@ -1,6 +1,6 @@
 Certain offences committed outside the State.
 
-38. (1) An Irish citizen who does an act in a place outside the State that, if done in the State, would constitute—
+38.—(1) An Irish citizen who does an act in a place outside the State that, if done in the State, would constitute—
 
 (a) an offence under section 33, 34, 35, 36, 37 or 38A, or
 

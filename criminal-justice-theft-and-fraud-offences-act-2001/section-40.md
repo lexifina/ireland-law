@@ -2,7 +2,7 @@
 
 Interpretation (Part 6).
 
-40. (1) In this Part—
+40.—(1) In this Part—
 
 "Act of 2018" means the Criminal Justice (Corruption Offences) Act 2018;
 

@@ -1,6 +1,6 @@
 Extra-territorial jurisdiction in case of certain offences.
 
-45. (1) An Irish citizen who engages in conduct in a place outside the State that, if engaged in in the State, would constitute an offence under section 42, 42A or 42B, or would constitute an offence of inciting, aiding and abetting, or attempting the commission of such an offence, shall be guilty of an offence.
+45.—(1) An Irish citizen who engages in conduct in a place outside the State that, if engaged in in the State, would constitute an offence under section 42, 42A or 42B, or would constitute an offence of inciting, aiding and abetting, or attempting the commission of such an offence, shall be guilty of an offence.
 
 (1A) A—
 

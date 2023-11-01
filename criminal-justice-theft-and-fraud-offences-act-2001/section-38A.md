@@ -1,6 +1,6 @@
 Liability for offences by body corporate, etc. (Part 5).
 
-38A. (1) Where a relevant offence is committed for the benefit of a body corporate by a relevant person and the commission of the relevant offence is attributable to the failure, by a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, to exercise, at the time of the commission of the relevant offence and in all the circumstances of the case, the requisite degree of supervision or control of the relevant person, the body corporate shall be guilty of an offence.
+38A.—(1) Where a relevant offence is committed for the benefit of a body corporate by a relevant person and the commission of the relevant offence is attributable to the failure, by a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, to exercise, at the time of the commission of the relevant offence and in all the circumstances of the case, the requisite degree of supervision or control of the relevant person, the body corporate shall be guilty of an offence.
 
 (2) In proceedings for an offence under subsection (1), it shall be a defence for a body corporate against which such proceedings are brought to prove that it took all reasonable steps and exercised all due diligence to avoid the commission of the offence.
 
@@ -18,16 +18,16 @@ Liability for offences by body corporate, etc. (Part 5).
 
 (7) In this section—
 
-‘relevant person’, in relation to a body corporate, means—
+"relevant person", in relation to a body corporate, means—
 
 (a) a director, manager, secretary or other officer of the body corporate, or a person purporting to act in that capacity, or
 
 (b) an employee, subsidiary or agent of the body corporate;
 
-‘relevant offence’ means an offence—
+"relevant offence" means an offence—
 
 (a) under section 33, 34, 35, 36 or 37, or
 
 (b) of inciting, aiding and abetting, or attempting the commission of an offence referred to in paragraph (a);
 
-‘subsidiary’, in relation to a body corporate, has the same meaning as it has in the Companies Act 2014.
+"subsidiary", in relation to a body corporate, has the same meaning as it has in the Companies Act 2014.

@@ -1,6 +1,6 @@
 Consecutive sentencing for burglary of dwelling.
 
-54A. (1) Subject to this section, where a person—
+54A.—(1) Subject to this section, where a person—
 
 (a) is convicted of a relevant offence and is being sentenced to a term of imprisonment in respect of that offence where that offence was committed—
 
@@ -34,7 +34,7 @@ Consecutive sentencing for burglary of dwelling.
 
 (6) In this section—
 
-‘dwelling’ includes—
+"dwelling" includes—
 
 (a) a building or structure (whether temporary or not) which is constructed or adapted for use as a dwelling and is being so used,
 
@@ -42,4 +42,4 @@ Consecutive sentencing for burglary of dwelling.
 
 (c) a part of a dwelling;
 
-‘relevant offence’ means an offence under section 12 or 13.
+"relevant offence" means an offence under section 12 or 13.
