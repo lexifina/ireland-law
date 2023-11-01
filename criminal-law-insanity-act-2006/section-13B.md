@@ -1,6 +1,6 @@
 Material breach of conditional discharge order.
 
-13B.— (1) A conditional discharge order shall, in respect of a person who is the subject of the conditional discharge order, be deemed to be revoked if the person is in material breach of that order and accordingly the person shall be deemed to be unlawfully at large.
+13B.—(1) A conditional discharge order shall, in respect of a person who is the subject of the conditional discharge order, be deemed to be revoked if the person is in material breach of that order and accordingly the person shall be deemed to be unlawfully at large.
 
 (2) A person is in material breach of his or her conditional discharge order where the clinical director on reasonable grounds believes that the person is in breach of one or more conditions of his or her conditional discharge, and that—
 
@@ -36,4 +36,4 @@ Material breach of conditional discharge order.
 
 (c) the Board may exercise all the powers available to it under section 13 in relation to that patient.
 
-(11) In this section, ‘authorised person’, in relation to effecting the return of a person under this section, means a person who is for the time being authorised pursuant to section 13C to provide services relating to such a return.
+(11) In this section, "authorised person", in relation to effecting the return of a person under this section, means a person who is for the time being authorised pursuant to section 13C to provide services relating to such a return.

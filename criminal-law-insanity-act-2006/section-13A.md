@@ -1,6 +1,6 @@
 Persons may be discharged subject to conditions, etc.
 
-13A.— (1) Subject to subsection (2), the Review Board may, when reviewing the detention of a patient under section 13, make an order for the discharge of the patient subject to such conditions, including conditions relating to out-patient treatment or supervision or both, as it considers appropriate (in this Act referred to as a ‘conditional discharge order’).
+13A.—(1) Subject to subsection (2), the Review Board may, when reviewing the detention of a patient under section 13, make an order for the discharge of the patient subject to such conditions, including conditions relating to out-patient treatment or supervision or both, as it considers appropriate (in this Act referred to as a "conditional discharge order").
 
 (2) The Review Board shall not make a conditional discharge order in respect of a patient until it is satisfied that such arrangements as appear necessary to the clinical director of the designated centre concerned have been made in respect of the patient, and for that purpose, the clinical director concerned shall make such arrangements as may be necessary for—
 
@@ -36,11 +36,11 @@ Persons may be discharged subject to conditions, etc.
 
 (7) An application under subsection (6) shall be on notice to the person concerned and the clinical director of the designated centre concerned, if the applicant is not the clinical director.
 
-(8) (a) A person who is the subject of a conditional discharge order may make an application in writing to the Review Board for an unconditional discharge (in this Act referred to as an ‘application for an unconditional discharge’).
+(8) (a) A person who is the subject of a conditional discharge order may make an application in writing to the Review Board for an unconditional discharge (in this Act referred to as an "application for an unconditional discharge").
 
 (b) An application for an unconditional discharge may be made at any time after the expiration of 12 months from the date of the person’s conditional discharge so long as a period of not less than 12 months elapses between an application and the next subsequent application.
 
-(9) (a) Where the Review Board receives an application for an unconditional discharge, it shall request that the person (in this subsection referred to as the ‘applicant’) attend before it so that it may determine whether or not to discharge the applicant unconditionally.
+(9) (a) Where the Review Board receives an application for an unconditional discharge, it shall request that the person (in this subsection referred to as the "applicant") attend before it so that it may determine whether or not to discharge the applicant unconditionally.
 
 (b) The Review Board having heard—
 
