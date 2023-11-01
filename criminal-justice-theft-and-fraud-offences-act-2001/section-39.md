@@ -16,13 +16,11 @@ Measures to detect counterfeiting.
 
 (i) a person whose activity consists of exchanging currency notes and coins of different currencies, including a person or body authorised under the Central Bank Act 1997 to carry on bureau de change business,
 
-8 OJ No. L 176, 27.06.2013, p.1
-
 (ii) a transporter of funds, and
 
 (iii) a person who is engaged on a secondary basis in the processing and distribution to the public of currency notes via automated teller machines (ATMs), within the limit of that secondary basis;
 
-‘payment service provider’ means a person referred to in Regulation 6(1) of the European Union (Payment Services) Regulations 2018 ( S.I. No. 6 of 2018);
+"payment service provider" means a person referred to in Regulation 6(1) of the European Union (Payment Services) Regulations 2018 ( S.I. No. 6 of 2018);
 
 “recognised code of practice” means a code of practice drawn up for the purposes of this section—
 
@@ -30,7 +28,7 @@ Measures to detect counterfeiting.
 
 (b) by the Central Bank of Ireland for a designated body or class of such bodies.
 
-‘transporter of funds’ has the same meaning as it has in Regulation (EC) No. 1338/2001 of 28 June 2001 laying down measures necessary for the protection of the euro against counterfeiting, as amended by Council Regulation (EC) No. 44/2009 of 18 December 2008;
+"transporter of funds" has the same meaning as it has in Regulation (EC) No. 1338/2001 of 28 June 2001 laying down measures necessary for the protection of the euro against counterfeiting, as amended by Council Regulation (EC) No. 44/2009 of 18 December 2008;
 
 (1A) A reference in this section to a note or coin does not include a reference to a note or coin that is denominated, or purports to be denominated, in euro or in cent.
 
