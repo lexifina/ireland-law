@@ -1,6 +1,6 @@
 Power to direct persons who are in possession of intoxicating substances, etc.
 
-8A.— (1) This section applies where a member of the Garda Síochána believes with reasonable cause that—
+8A.—(1) This section applies where a member of the Garda Síochána believes with reasonable cause that—
 
 (a) a person is in a relevant place alone or accompanied by other persons,
 
@@ -56,14 +56,14 @@ Power to direct persons who are in possession of intoxicating substances, etc.
 
 (9) In this section—
 
-‘bottle or container’ means a bottle or container irrespective of whether—
+"bottle or container" means a bottle or container irrespective of whether—
 
 (a) the bottle or container is opened or unopened, and
 
 (b) any or all of the contents of the bottle or container have been or are being consumed, and includes the contents of the bottle or container;
 
-‘relevant belief’, in relation to a member of the Garda Síochána, means the belief referred to in subsection (1) of the member;
+"relevant belief", in relation to a member of the Garda Síochána, means the belief referred to in subsection (1) of the member;
 
-‘relevant person’ means the person first-mentioned in paragraph (a) of subsection (1);
+"relevant person" means the person first-mentioned in paragraph (a) of subsection (1);
 
-‘relevant place’ means a place other than a place used as a private dwelling.
+"relevant place" means a place other than a place used as a private dwelling.

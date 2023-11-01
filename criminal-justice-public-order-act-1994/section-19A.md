@@ -4,9 +4,9 @@ Interpretation (Part IIA).
 
 19A.—(1) In this Part, except where the context otherwise requires—
 
-‘Commissioner’ means the Commissioner of the Garda Síochána;
+"Commissioner" means the Commissioner of the Garda Síochána;
 
-‘consent duly given’ means consent given by—
+"consent duly given" means consent given by—
 
 (a) in the case of lands referred to in subsection (2)(a), the relevant statutory body,
 
@@ -14,17 +14,19 @@ Interpretation (Part IIA).
 
 (c) in any other case, the owner concerned;
 
-‘health board’ means
+"health board" means
 
 (a) a health board established under the Health Act, 1970,
 
 (b) the Eastern Regional Health Authority, or
 
-(c) an Area Health Board established under the Health (Eastern Regional Health Authority) Act, 1999; local authority’ means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
+(c) an Area Health Board established under the Health (Eastern Regional Health Authority) Act, 1999;
 
-‘object’ includes any temporary dwelling (within the meaning of section 69 of the Roads Act, 1993) and an animal of any kind or description;
+"local authority" means a local authority for the purposes of the Local Government Act 2001 (as amended by the Local Government Reform Act 2014);
 
-‘owner’ means—
+"object" includes any temporary dwelling (within the meaning of section 69 of the Roads Act, 1993) and an animal of any kind or description;
+
+"owner" means—
 
 (a) in relation to land, the person lawfully entitled—
 
@@ -34,7 +36,7 @@ Interpretation (Part IIA).
 
 (b) in relation to land referred to in paragraph (a) or (b) of subsection (2), the relevant statutory body or trustees, as the case may be;
 
-‘statutory body’ means—
+"statutory body" means—
 
 (a) a Minister of the Government,
 
