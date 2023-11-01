@@ -10,7 +10,7 @@ Course-betting permits and course-betting representative permits.
 
 (5) An application for a permit under this section shall be in such form and contain such particulars as the Authority may from time to time require.
 
-(6) The Authority may attach to a permit granted under this section such terms and conditions as it thinks fit and it may also, from time to time, attach further terms or conditions or vary the conditions to such a permit or remove any such terms or conditions.
+(6) Subject to the Act of 2024, the Authority may attach to a permit granted under this section such terms and conditions as it thinks fit and it may also, from time to time, attach further terms or conditions or vary the conditions to such a permit or remove any such terms or conditions.
 
 (7) (a) The holder of a permit granted under this section shall comply with any terms or conditions attached to the permit.
 
