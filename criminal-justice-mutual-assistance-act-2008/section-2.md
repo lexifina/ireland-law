@@ -88,9 +88,13 @@ Interpretation (general).
 
 (d) in relation to requests for assistance by a requesting authority in a designated state (other than a member state), without prejudice to subsection (3) of sections 74 and 75 proceedings brought by an administrative authority in respect of conduct which is punishable under the law of the State or that state or of both of them, by virtue of being infringements of the rules of law, and where the decision may give rise to proceedings before a court having jurisdiction in particular in criminal matters;
 
-“designated state” means a member state and any other state designated under section 4 ;
+“designated state” means a member state and any other state designated under section 4;
 
 “EC/Swiss Confederation Agreement” means the Co-operation Agreement between the European Community and its member states, of the one part, and the Swiss Confederation, of the other part, to combat fraud and any other illegal activity to the detriment of their financial interests, done at Luxembourg on 26 October 2004;
+
+“EPPO” means the European Public Prosecutor’s Office established under Article 3 of Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office ("the EPPO"), as amended by Commission Delegated Regulation (EU) 2020/2153 of 14 October 2020;
+
+“EPPO request” means a request for assistance that is made by EPPO in accordance with section 6 (as applied by section 94K) and the Part 7B Regulations (if any) and includes a request that is deemed under section 94F(3) to have been so made;
 
 “evidence” means oral evidence or, as appropriate, any document or thing which could be produced as evidence in criminal proceedings, including any information in non-legible form which could be converted into permanent and legible form for the purposes of those proceedings;
 
@@ -168,6 +172,8 @@ Interpretation (general).
 
 (c) does not, other than in relation to a request for mutual assistance made under Title XI of Part Three of the Trade and Cooperation Agreement, include a political offence;
 
+“Part 7B Regulations” has the meaning assigned to it by section 109(1B);
+
 “place” means a physical location and includes—
 
 (a) a dwelling, residence, building or abode,
@@ -207,6 +213,12 @@ Interpretation (general).
 (d) evidence;
 
 “2001 Protocol” means the Protocol to the 2000 Convention, done at Luxembourg on 16 October 2001;
+
+“relevant EPPO member state” means a member state of the European Union—
+
+(a) that participates in enhanced cooperation on the establishment of EPPO in accordance with Article 86(1) of the Treaty on the Functioning of the European Union or by virtue of a decision adopted in accordance with Article 331(1) of that Treaty, and
+
+(b) where EPPO is conducting a criminal investigation or criminal proceedings that are the subject of an EPPO request;
 
 “relevant international instrument” means the international instrument in accordance with which a request for assistance is made;
 
@@ -258,8 +270,6 @@ Interpretation (general).
 
 (a) a court may consider the relevant international instrument and any explanatory document issued in connection with it, and
 
-1 OJ No. L 444, 31.12.2020, p. 14
-
 (b) give the instrument and any such document such weight as is appropriate in the circumstances.
 
 (6) For convenience of reference—
@@ -294,6 +304,8 @@ Interpretation (general).
 
 (h) Schedule 8 sets out the English text of the 1959 Convention and the First Additional Protocol thereto,
 
+1 OJ No. L 444, 31.12.2020, p. 14
+
 (i) Schedule 9 sets out the English text of the Second Additional Protocol to the 1959 Convention,
 
 (j) Schedule 10 sets out the English text of Chapter IV of the 2005 Convention,
@@ -307,3 +319,5 @@ Interpretation (general).
 (m) Schedule 13 sets out the English text of the Agreement on Mutual Legal Assistance between the European Union and the United States of America, done at Washington D.C. on 25 June 2003, and
 
 (n) Schedule 14 sets out the English text of the Treaty between the Government of Ireland and the Government of the United States on Mutual Assistance in Criminal Matters, done at Washington D.C. on 18 January 2001, as applied by the Instrument contemplated by Article 3(2) of the said Agreement of 25 June 2003 and done at Dublin on 14 July 2005.
+
+Annotations

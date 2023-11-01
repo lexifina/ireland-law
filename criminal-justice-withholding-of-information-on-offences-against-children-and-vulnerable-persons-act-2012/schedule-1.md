@@ -56,7 +56,11 @@ OFFENCES AGAINST CHILDREN FOR PURPOSES OF OFFENCE UNDER SECTION 2
 
 (a) section 3 (assault causing harm),
 
+(aa) section 3A (non-fatal strangulation or non-fatal suffocation),
+
 (b) section 4 (causing serious harm),
+
+(ba) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm),
 
 (c) section 5 (threats to kill or cause serious harm),
 

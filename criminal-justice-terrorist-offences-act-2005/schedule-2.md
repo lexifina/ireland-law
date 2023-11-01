@@ -22,7 +22,11 @@ Non-fatal offences against the person
 
 (a) section 3 (assault causing harm);
 
+(aa) section 3A (non-fatal strangulation or non-fatal suffocation);
+
 (b) section 4 (assault causing serious harm);
+
+(ba) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm);
 
 (c) section 6 (syringe and other attacks);
 
@@ -76,9 +80,7 @@ Offences relating to aircraft and vehicles
 
 Offences relating to maritime navigation and fixed platforms located on the continental shelf
 
-7A. Any offence under section 2 of the Maritime Security Act 2004.
-
-Offences relating to explosives
+7A. Any offence under section 2 of the Maritime Security Act 2004. Offences relating to explosives
 
 8. An offence under any of the following provisions of the Explosive Substances Act 1883:
 

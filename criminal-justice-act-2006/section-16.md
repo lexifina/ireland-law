@@ -47,3 +47,5 @@ Admissibility of certain witness statements.
 (5) In estimating the weight, if any, to be attached to the statement regard shall be had to all the circumstances from which any inference can reasonably be drawn as to its accuracy or otherwise.
 
 (6) This section is without prejudice to sections 3 to 6 of the Criminal Procedure Act 1865 and section 21 (proof by written statement) of the Act of 1984.
+
+(7) A reference in subsection (1) to a person being sent forward for trial shall, in relation to proceedings before a Special Criminal Court, include, where appropriate, a reference to such a person being charged before that court.

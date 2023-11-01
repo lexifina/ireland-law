@@ -20,10 +20,16 @@ Realisation of property subject to confiscation co-operation order.
 
 (a) cause the property recovered to be transferred to the state concerned, or
 
-(b) cause the property recovered to be sold and, subject to subsection (8), the proceeds transferred to the state concerned.
+(b) cause the property recovered to be sold and, subject to subsections (8) and (9), the proceeds transferred to the state concerned.
 
 (8) Where property recovered by the execution of an external confiscation order transmitted by or on behalf of a court in a designated state that is a member state or the United Kingdom is a sum of money or the proceeds of a sale under subsection (7)(b) —
 
 (a) if that sum is less than €10,000, it shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct, and
 
 (b) if that sum is €10,000 or more, 50 per cent of the sum shall be transferred to the designated state concerned and the remaining 50 per cent shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.
+
+(9) Where property recovered by the execution of a confiscation co-operation order transmitted by or on behalf of a court in a designated state, other than a member state or the United Kingdom, is a sum of money or the proceeds of a sale under subsection (7)(b), the Court, on application by the Central Authority and in accordance with the relevant international instrument, may—
+
+(a) order the money or the proceeds of sale to be transferred to the designated state, or
+
+(b) order part of the money or the proceeds of sale to be transferred to the designated state and the remaining balance shall be paid into or disposed of for the benefit of the Exchequer in such manner as the Minister for Finance may direct.

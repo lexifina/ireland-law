@@ -18,6 +18,12 @@ Offence of conspiracy.
 
 (3) Subsection (1) shall also apply to a conspiracy committed outside the State in circumstances other than those referred to in subsection (2), but in that case the Director of Public Prosecutions may not take, or consent to the taking of, proceedings for an offence under subsection (1) except in accordance with section 74(3).
 
-(4) A person charged with an offence under this section is liable to be indicted, tried and punished as a principal offender.
+(4) A person charged with an offence under this section—
+
+(a) subject to paragraph (b), is liable to be indicted, tried and punished as a principal offender, or
+
+(b) where the offence, the subject of the conspiracy, is murder, is liable on conviction on indictment to imprisonment for life or a lesser term of imprisonment.
+
+(4A) This section shall not apply in respect of a conspiracy to commit murder to which section 4 of the Act of 1861 applies.
 
 (5) ...

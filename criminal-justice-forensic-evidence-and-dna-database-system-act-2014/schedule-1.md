@@ -14,11 +14,11 @@ Membership of Committee
 
 (4) The chairperson of the Committee shall be a judge of the High Court or the Circuit Court or a former judge of the High Court or the Circuit Court.
 
-(5) One ordinary member of the Committee shall be a member of the staff of the Data Protection Commissioner who is nominated for appointment to the Committee by the Data Protection Commissioner.
+(5) ...
 
 (6) The Minister shall, in so far as practicable, ensure that there is an equal balance of men and women amongst the persons who are appointed to be ordinary members of the Committee.
 
-(7) When appointing persons to be ordinary members of the Committee, the Minister shall have regard to the desirability of their having obtained qualifications, experience or expertise in science, human rights or any other field which the Minister considers appropriate having regard to the functions of the Committee under this Act.
+(7) When appointing persons to be ordinary members of the Committee, the Minister shall have regard to the desirability of their having obtained qualifications, experience or expertise in science, human rights, data protection or any other field which the Minister considers appropriate having regard to the functions of the Committee under this Act.
 
 Terms and conditions of office of members of Committee
 
@@ -32,11 +32,9 @@ Terms and conditions of office of members of Committee
 
 (5) The members of the Committee shall, subject to the provisions of this Schedule, hold office upon such terms and conditions as the Minister may, with the consent of the Minister for Public Expenditure and Reform, from time to time determine.
 
-(6) The chairperson of the Committee other than a serving judge and the ordinary members of the Committee, other than the Director of FSI and the person nominated for appointment by the Data Protection Commissioner, shall be paid such remuneration (if any) as the Minister may, with the consent of the Minister for Public Expenditure and Reform, from time to time determine.
+(6) The chairperson of the Committee other than a serving judge and the ordinary members of the Committee, other than the Director of FSI ..., shall be paid such remuneration (if any) as the Minister may, with the consent of the Minister for Public Expenditure and Reform, from time to time determine.
 
-(7) The chairperson and ordinary members of the Committee shall be paid such allowances for expenses as the Minister may, with the consent of the Minister for Public Expenditure and Reform, from time to time determine.
-
-Vacancies in membership of Committee
+(7) The chairperson and ordinary members of the Committee shall be paid such allowances for expenses as the Minister may, with the consent of the Minister for Public Expenditure and Reform, from time to time determine. Vacancies in membership of Committee
 
 3. (1) If a member of the Committee dies, resigns or ceases to be a member of the Committee, the Minister may appoint a person to be a member of the Committee to fill the vacancy so occasioned.
 

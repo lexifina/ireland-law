@@ -24,9 +24,13 @@ HARMFUL ONLINE CONTENT: OFFENCE-SPECIFIC CATEGORIES
 
 11. Online content by which a person applies force to the body of another, or causes another to believe on reasonable grounds that he or she is likely immediately to be subjected to such force, contrary to section 2 of the Non-Fatal Offences against the Person Act 1997.
 
+11A. Online content by which a person without lawful excuse, intentionally or recklessly, causes another to believe on reasonable grounds that he or she is likely immediately to be subjected to suffocation or strangulation, contrary to section 3A(1)(b) of the Non-Fatal Offences against the Person Act 1997.
+
 12. Online content by which a person makes a threat, contrary to section 5 (1) of the Non-Fatal Offences against the Person Act 1997 (threat to kill or cause serious harm to a person).
 
-13. Online content by which a person harasses another, contrary to section 10 (1) of the Non-Fatal Offences against the Person Act 1997 (harassment by persistently following, watching, pestering, besetting or communicating with or about another person).
+13. Online content by which a person harasses another contrary to section 10(1), stalks another contrary to section 10(2), or breaches an order made under section 10(4), of the Non-Fatal Offences against the Person Act 1997.
+
+13A. Online content by which a person publishes or broadcasts identifying material contrary to section 10A of the Non-Fatal Offences against the Person Act 1997.
 
 14. Online content by which a person distributes, transmits, disseminates or publishes child pornography, contrary to section 5 (1)(b) of the Child Trafficking and Pornography Act 1998 .
 

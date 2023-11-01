@@ -6,4 +6,4 @@ Assault causing harm.
 
 (a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding £1,500 or to both, or
 
-(b) on conviction on indictment to a fine or to imprisonment for a term not exceeding 5 years or to both.
+(b) on conviction on indictment to a fine or to imprisonment for a term not exceeding 10 years or to both.

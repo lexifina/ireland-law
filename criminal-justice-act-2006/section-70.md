@@ -6,6 +6,8 @@ Interpretation ( Part 7 ).
 
 “act” includes omission and a reference to the commission or doing of an act includes a reference to the making of an omission;
 
+"Act of 1861" means the Offences against the Person Act 1861;
+
 "criminal organisation" means a structured group, however organised, that has as its main purpose or activity the commission or facilitation of a serious offence;
 
 “Irish ship” has the meaning it has in section 9 of the Mercantile Marine Act 1955;

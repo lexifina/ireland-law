@@ -1,6 +1,6 @@
 Protection against cross-examination by accused.
 
-14C. (1) Where—
+14C.—(1) Where—
 
 (a) a person is accused of a relevant offence, and
 
@@ -8,9 +8,15 @@ Protection against cross-examination by accused.
 
 (2) Where—
 
-(a) a person is accused of a sexual offence, and
+(a) a person is accused of a relevant offence, and
 
-(b) a person who has attained the age of 18 years (being a person in respect of whom a sexual offence is alleged to have been committed) is to give evidence, the court may direct that the accused may not personally cross- examine the witness unless the court is of the opinion that the interests of justice require the accused to conduct the cross-examination personally.
+(b) a victim of the relevant offence who has attained the age of 18 years is to give evidence, the court may direct that the accused may not personally cross- examine the witness unless the court is of the opinion that the interests of justice require the accused to conduct the cross-examination personally.
+
+(2A) The court, in performing its functions under subsection (2), shall have regard to the need to protect the victim from secondary and repeat victimisation, intimidation or retaliation, taking into account—
+
+(a) the nature and circumstances of the case, and
+
+(b) the personal characteristics of the victim.
 
 (3) Where an accused person is prevented from cross-examining a witness by virtue of subsection (1) or (2), the court shall—
 

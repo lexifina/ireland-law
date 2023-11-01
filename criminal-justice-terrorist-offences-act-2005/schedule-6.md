@@ -1,8 +1,6 @@
 SCHEDULE 6
 
-OFFENCES AGAINST INTERNATIONALLY PROTECTED PERSONS
-
-PART 1
+OFFENCES AGAINST INTERNATIONALLY PROTECTED PERSONS PART 1
 
 (specified offences referred to in section 11(1)(a))
 
@@ -24,7 +22,11 @@ Non-fatal offences against the person.
 
 (b) section 3 (assault causing harm);
 
+(ba) section 3A (non-fatal strangulation or non-fatal suffocation);
+
 (c) section 4 (assault causing serious harm);
+
+(ca) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm);
 
 (d) section 6 (syringe and other attack);
 

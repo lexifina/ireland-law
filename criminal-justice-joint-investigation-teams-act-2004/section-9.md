@@ -6,9 +6,11 @@ Participants in joint investigation teams.
 
 (b) one or more officers designated by a body, such as Eurojust, established under Title VI of the Treaty on European Union,
 
-(c) one or more officers designated by the European Commission or other institution of the European Communities, or
+(c) one or more officers designated by the European Commission or other institution of the European Communities,
 
-(d) one or more officers designated by an authority of a designated state (other than a Member State or part of such a State) within the meaning of the Criminal Justice (Mutual Assistance) Act 2008,
+(d) one or more officers designated by an authority of a designated state (other than a Member State or part of such a State) within the meaning of the Criminal Justice (Mutual Assistance) Act 2008, or
+
+(e) one or more officers designated by EPPO.
 
 (2) Participants in a joint investigation team shall provide support or advice or both to the team.
 

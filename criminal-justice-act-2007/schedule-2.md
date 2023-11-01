@@ -12,6 +12,8 @@ Non-fatal offences against the person
 
 (a) section 4 (causing serious harm);
 
+(aa) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm);
+
 (b) section 5 (threats to kill or cause serious harm);
 
 (c) section 15 (false imprisonment).

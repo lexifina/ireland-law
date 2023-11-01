@@ -2,6 +2,8 @@ Definitions.
 
 2.— In this Act—
 
+"Act of 1861" means the Offences against the Person Act 1861;
+
 “Act of 1925” means Firearms Act 1925;
 
 “Act of 1964” means Firearms Act 1964;

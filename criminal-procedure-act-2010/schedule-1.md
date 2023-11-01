@@ -44,6 +44,8 @@ Offences against the person
 
 (a) section 4 (causing serious harm);
 
+(aa) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm);
+
 (b) section 6(5) (syringe offences);
 
 (c) section 8(2) (placing or abandoning syringe);

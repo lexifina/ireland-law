@@ -78,7 +78,7 @@ Bribery and corruption offences
 
 28. An offence under section 7 or 8 of the Prevention of Corruption (Amendment) Act 2001.
 
-28A. An offence under section 5, 6, 7, 8, 9 or 10 of the Criminal Justice (Corruption Offences) Act 2018.
+28A. An offence under section 5, 6, 7, 8, 9, 10 or 12 of the Criminal Justice (Corruption Offences) Act 2018.
 
 Consumer protection offence
 

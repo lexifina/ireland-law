@@ -16,6 +16,8 @@ Interpretation.
 
 (b) in Part 2 of that Schedule, in the case of the English language text;
 
+"EPPO" means the European Public Prosecutor’s Office established under Article 3 of Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office, as amended by Commission Delegated Regulation (EU) 2020/2153 of 14 October 2020;
+
 “European Communities” has the meaning it has in the European Communities Act 1972;
 
 “joint investigation team” means a joint investigation team established under section 3 or 4;
@@ -26,19 +28,25 @@ Interpretation.
 
 “Minister” means Minister for Justice, Equality and Law Reform;
 
-“participants” has the meaning assigned to it by section 9 ;
+“participants” has the meaning assigned to it by section 9;
 
 “seconded member”, in relation to a joint investigation team or a part of such a team, means—
 
 (a) if and when the team or the part is operating in the State, a member of the team or the part aforesaid appointed by the competent authority of another Member State that established the team, and
 
-(b) if and when the team or the part is operating in another Member State, a member of the team or the part aforesaid assigned or appointed under section 6 ;
+(b) if and when the team or the part is operating in another Member State, a member of the team or the part aforesaid assigned or appointed under section 6;
 
 “team leader”, in relation to a joint investigation team or a part of such a team, means—
 
 (a) if and when the team or the part is operating in the State, the member of the team or the part aforesaid designated by the Commissioner under section 7(1)(d) to be the team leader, and
 
 (b) if and when the team or the part is operating in another Member State, the member of the team or the part aforesaid designated by the competent authority of that Member State to be the team leader.
+
+(1A) This Act shall apply and has effect, subject to the following and any other necessary modifications—
+
+(a) as if a reference to a competent authority included a reference to EPPO, and
+
+(b) as if a reference to another Member State or other such States included a reference to a relevant EPPO member state (within the meaning of the Criminal Justice (Mutual Assistance) Act 2008).
 
 (2) In this Act—
 
