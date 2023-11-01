@@ -20,7 +20,9 @@ New section 159B in Act of 2001.
 
 (2) On the transfer day—
 
-(a) any land or other property, and any other rights or liabilities, vested in the Minister for Education and Science in relation to the certified industrial school concerned or in its board of management immediately before that day, except any rights or liabilities referred to in paragraph (b), is transferred to and vested in the Health Service Executive without any conveyance or assignment,
+(a) any land or other property, and any other rights or liabilities, vested in the Minister for Education and Science in relation to the certified industrial school concerned or in its board of management immediately before that day, except any rights or liabilities referred to in paragraph
+
+(b), is transferred to and vested in the Health Service Executive without any conveyance or assignment,
 
 (b) any rights or liabilities—
 
