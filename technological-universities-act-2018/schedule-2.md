@@ -60,4 +60,4 @@ Section 14
 
 (a) the merits of any policy of the Government or a Minister of the Government, or
 
-(b) the merits of the objectives of such a policy. Number3of2018
+(b) the merits of the objectives of such a policy.
