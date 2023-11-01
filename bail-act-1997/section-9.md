@@ -1,6 +1,6 @@
 Estreatment of recognisance and forfeiture of moneys paid into court.
 
-9.— (1) Where an accused person or a person who is appealing against a sentence of imprisonment imposed by the District Court (in either case referred to in this section as ‘the person’) is admitted to bail on entering into a recognisance conditioned for his or her appearance before a specified court on a specified date at a specified time and place, and the person—
+9.—(1) Where an accused person or a person who is appealing against a sentence of imprisonment imposed by the District Court (in either case referred to in this section as "the person") is admitted to bail on entering into a recognisance conditioned for his or her appearance before a specified court on a specified date at a specified time and place, and the person—
 
 (a) fails to appear in accordance with the recognisance, or
 

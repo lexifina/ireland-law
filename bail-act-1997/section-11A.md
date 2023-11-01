@@ -1,6 +1,6 @@
 Regulations.
 
-11A.— (1) The Minister may make regulations prescribing any matter or thing which is referred to in this Act as prescribed or for the purpose of enabling any provision of this Act to have full effect.
+11A.—(1) The Minister may make regulations prescribing any matter or thing which is referred to in this Act as prescribed or for the purpose of enabling any provision of this Act to have full effect.
 
 (2) The regulations may include such consequential, incidental or supplementary provisions as may be necessary for that purpose.
 

@@ -1,6 +1,6 @@
 Statement by applicants for bail charged with serious offences.
 
-1A.— (1) A person who is charged with a serious offence and applies for bail (in this section referred to as ‘the applicant’) shall, subject to subsections (4) and (5)(c), furnish to the prosecutor a written statement duly signed by the applicant and containing the following information relating to the applicant:
+1A.—(1) A person who is charged with a serious offence and applies for bail (in this section referred to as "the applicant") shall, subject to subsections (4) and (5)(c), furnish to the prosecutor a written statement duly signed by the applicant and containing the following information relating to the applicant:
 
 (a) his or her name and any other name or names previously used;
 
@@ -60,7 +60,7 @@ Statement by applicants for bail charged with serious offences.
 
 (15) Subsection (2) of section 4 applies in relation to the hearing of evidence in relation to the statement and subsections (4) to (7) of that section apply in relation to a contravention of subsection (8) or (9) of this section, in each case with the necessary modifications.
 
-(16) In this section ‘property’ means—
+(16) In this section "property" means—
 
 (a) cash, money in an account in a financial institution, cheques, bank drafts and transferable securities (including shares, warrants and debentures),
 

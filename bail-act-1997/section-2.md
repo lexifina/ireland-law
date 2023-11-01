@@ -74,7 +74,7 @@ Refusal of bail.
 
 (4) In this section—
 
-‘dwelling’ includes—
+"dwelling" includes—
 
 (a) a building or structure (whether temporary or not) which is constructed or adapted for use as a dwelling and is being so used,
 
@@ -82,4 +82,4 @@ Refusal of bail.
 
 (c) a part of a dwelling;
 
-‘relevant offence’ means an offence under section 12 or 13 of the Criminal Justice (Theft and Fraud Offences) Act 2001.
+"relevant offence" means an offence under section 12 or 13 of the Criminal Justice (Theft and Fraud Offences) Act 2001.
