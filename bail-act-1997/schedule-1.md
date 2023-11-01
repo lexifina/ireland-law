@@ -24,7 +24,11 @@ Offences against the person
 
 (a) section 3 (assault causing harm);
 
+(aa) section 3A (non-fatal strangulation or non-fatal suffocation);
+
 (b) section 4 (causing harm);
+
+(ba) section 4A (non-fatal strangulation or non-fatal suffocation causing serious harm;)
 
 (c) section 5 (threats to kill or cause serious harm);
 
@@ -36,7 +40,7 @@ Offences against the person
 
 (g) section 9 (coercion);
 
-(h) section 10 (harassment);
+(h) section 10 (harassment or stalking);
 
 (i) section 13 (endangerment);
 
@@ -292,7 +296,7 @@ Offences Relating to Information Systems
 
 Corruption Offences
 
-39. Any offence under the Prevention of Corruption Acts 1889 to 2010.
+39A. Any offence under the Prevention of Corruption Acts 1889 to 2010.
 
 40. An offence under any section, other than section 18(1), of the Criminal Justice (Corruption Offences) Act 2018.
 
