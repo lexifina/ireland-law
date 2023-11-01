@@ -1,4 +1,4 @@
-F32[Shares of surviving civil partner and issue
+F34[Shares of surviving civil partner and issue
 
 67A.— (1) If an intestate dies leaving a civil partner and no issue, the civil partner shall take the whole estate.
 

@@ -1,4 +1,4 @@
-F53[Right of surviving civil partner.
+F55[Right of surviving civil partner.
 
 111A.— (1) If the testator leaves a civil partner and no children, the civil partner shall have a right to one-half of the estate.
 

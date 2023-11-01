@@ -8,7 +8,7 @@ Interpretation.
 
 “administrator” means a person to whom administration is granted;
 
-‘civil partner’ has the meaning assigned to it by the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
+"civil partner" has the meaning assigned to it by the Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010;
 
 “conveyance” includes a mortgage, charge, lease, assent, transfer, disclaimer, release and every other assurance of property by any instrument except a will;
 

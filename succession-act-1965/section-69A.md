@@ -1,4 +1,4 @@
-F41[Share of relatives: special provision
+F43[Share of relatives: special provision
 
 69A.— Where, in the application of section 4B to any provision of this Part, the same person would be entitled to take, in relation to the estate of an intestate—
 
