@@ -2,9 +2,11 @@ Post-release orders in cases of certain offences.
 
 26A.— (1) Where, on or after the commencement of a scheme under subsection (10), a person (other than a person under the age of 18 years), in this section referred to as "the offender", is convicted on indictment of—
 
-(a) an offence under Part 7 of the Act of 2006, or
+(a) an offence under Part 7 of the Act of 2006,
 
-(b) an offence (other than an offence referred to in paragraph (a)) specified in Schedule 2 that has been committed as part of, or in furtherance of, the activities of a criminal organisation, the court shall, in determining the sentence to be imposed on the offender in respect of that offence, consider whether it is appropriate to make an order under this section (in this section referred to as a "post-release (restrictions on certain activities) order") in relation to him or her for the purpose of the offender’s being subject, after his or her release from prison, to the restrictions and conditions subsequently mentioned in this section.
+(aa) the offence of conspiracy to murder under section 4 of the Act of 1861, or
+
+(b) an offence (other than an offence referred to in paragraph (a) or (aa)) specified in Schedule 2 that has been committed as part of, or in furtherance of, the activities of a criminal organisation, the court shall, in determining the sentence to be imposed on the offender in respect of that offence, consider whether it is appropriate to make an order under this section (in this section referred to as a "post-release (restrictions on certain activities) order") in relation to him or her for the purpose of the offender’s being subject, after his or her release from prison, to the restrictions and conditions subsequently mentioned in this section.
 
 (2) A post-release (restrictions on certain activities) order shall not be made in relation to the offender unless the court considers that, having regard to—
 
