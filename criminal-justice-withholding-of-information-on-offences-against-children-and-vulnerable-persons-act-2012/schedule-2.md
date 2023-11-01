@@ -32,7 +32,11 @@ OFFENCES AGAINST VULNERABLE PERSONS FOR PURPOSES OF OFFENCE UNDER SECTION 3
 
 (c) section 7 insofar as it relates to an offence under section 4 of that Act.
 
-11. An offence under section 3 of the Non-Fatal Offences against the Person Act 1997 (assault causing harm).
+11. An offence under any of the following provisions of the Non-Fatal Offences against the Person Act 1997 —
+
+(a) section 3 (assault causing harm),
+
+(b) section 3A (non-fatal strangulation or non-fatal suffocation).
 
 12. An offence under any of the following provisions of the Criminal Law (Sexual Offences) Act 2017—
 

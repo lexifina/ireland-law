@@ -14,7 +14,7 @@ Relationship between defendant and victim as aggravating factor in sentencing fo
 
 “relevant offence” means—
 
-(a) an offence under sections 2 to 15 of the Non-Fatal Offences against the Person Act 1997,
+(a) an offence under section 2 , 3 , 3A, 4 , 4A or sections 5 to 15 of the Non-Fatal Offences against the Person Act 1997,
 
 (aa) an offence under section 2 or 3 of the Harassment, Harmful Communications and Related Offences Act 2020,
 
