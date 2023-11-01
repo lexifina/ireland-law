@@ -14,7 +14,7 @@ Interpretation.
 
 “Director” means the Director of Public Prosecutions;
 
-‘legal aid (appeal) certificate’ has the meaning it has in the Act of 1962;
+"legal aid (appeal) certificate" has the meaning it has in the Act of 1962;
 
 “legal aid (Supreme Court) certificate” has the meaning it has in the Act of 1962;
 

@@ -44,7 +44,7 @@ Appeals by Director etc., in certain criminal proceedings.
 
 (c) if counsel are assigned under subsection (7), by such counsel.
 
-(7)The Supreme Court or the Court of Appeal, as the case may be, shall assign counsel to argue in support of the acquittal referred to in subsection (1) or the decision not to order a re-trial referred to in subsection (2), as the case may be, if—
+(7) The Supreme Court or the Court of Appeal, as the case may be, shall assign counsel to argue in support of the acquittal referred to in subsection (1) or the decision not to order a re-trial referred to in subsection (2), as the case may be, if—
 
 (a) the person who is the subject of the appeal does not wish to be represented or heard under subsection (6)(b), or
 
