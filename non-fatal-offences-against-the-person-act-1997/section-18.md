@@ -14,7 +14,7 @@ Justifiable use of force; protection of person or property, prevention of crime,
 
 (2) “use of force” in subsection (1) is defined and extended by section 20.
 
-(3) For the purposes of this section an act is ‘criminal’ notwithstanding that the person doing the act—
+(3) For the purposes of this section an act is "criminal" notwithstanding that the person doing the act—
 
 (a) if charged with an offence in respect of it, would be acquitted on the ground that—
 
@@ -48,4 +48,4 @@ But the defence may apply although the occasion for the use of force arises only
 
 Property of a corporation sole shall be treated for the purposes of the aforesaid provisions as belonging to the corporation notwithstanding a vacancy in the corporation.
 
-(9) In subsection (3) ‘intoxication’ means being under the intoxicating influence of any alcoholic drink, drug, solvent or any other substance or combination of substances.
+(9) In subsection (3) "intoxication" means being under the intoxicating influence of any alcoholic drink, drug, solvent or any other substance or combination of substances.
