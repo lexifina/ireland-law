@@ -1,6 +1,6 @@
 Fixed charge offences.
 
-23A.— (1) A member of the Garda Síochána who has reasonable grounds for believing that a person is committing, or has committed, an offence under section 5 (in this section referred to as a `fixed charge offence’) may serve on the person personally or by post the notice referred to in subsection (5) or cause it to be so served.
+23A.— (1) A member of the Garda Síochána who has reasonable grounds for believing that a person is committing, or has committed, an offence under section 5, 21 or 22 (in this section referred to as a "fixed charge offence") may serve on the person personally or by post the notice referred to in subsection (5) or cause it to be so served.
 
 (2) A member of the Garda Síochána may, for the purposes of subsection (1)—
 
@@ -58,6 +58,6 @@ Fixed charge offences.
 
 (10) In this section—
 
-‘Minister’ means Minister for Justice, Equality and Law Reform;
+"Minister" means Minister for Justice, Equality and Law Reform;
 
-‘person’ means a person of not less than 18 years of age.
+"person" means a person of not less than 18 years of age.
