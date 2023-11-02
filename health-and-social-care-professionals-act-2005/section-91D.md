@@ -1,6 +1,6 @@
 Transfer of staff.
 
-91D. (1) Every person who, immediately before the relevant day, was a member of the staff of the Opticians Board is, on the relevant day, transferred to, and becomes a member of, the Council’s staff.
+91D.—(1) Every person who, immediately before the relevant day, was a member of the staff of the Opticians Board is, on the relevant day, transferred to, and becomes a member of, the Council’s staff.
 
 (2) Except in accordance with a collective agreement negotiated with a recognised trade union or staff association, a person transferred under this section is entitled, while in the Council’s service, to be employed on conditions of employment no less favourable than those to which that person was entitled immediately before the relevant day.
 

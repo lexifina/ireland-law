@@ -1,6 +1,6 @@
 Saver for manufacture of spectacles, etc.
 
-81E. Nothing in this Part shall operate to prevent or restrict—
+81E.—Nothing in this Part shall operate to prevent or restrict—
 
 (a) the manufacture of spectacles,
 

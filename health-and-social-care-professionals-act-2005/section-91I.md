@@ -1,6 +1,6 @@
 Transfer of records.
 
-91I. (1) Each record held by the Opticians Board immediately before the relevant day—
+91I.—(1) Each record held by the Opticians Board immediately before the relevant day—
 
 (a) shall, on that day, stand transferred to the Council, and
 

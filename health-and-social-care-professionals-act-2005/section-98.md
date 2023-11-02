@@ -1,6 +1,6 @@
 Special measures registration having regard to Covid-19.
 
-98. (1) (a) A previous registrant of a designated profession (in this section referred to as the "relevant designated profession") may make an application to the registration board of that profession (in this section referred to as the "relevant board") to again become a member of that profession.
+98.—(1) (a) A previous registrant of a designated profession (in this section referred to as the "relevant designated profession") may make an application to the registration board of that profession (in this section referred to as the "relevant board") to again become a member of that profession.
 
 (b) The section 98 application must be in the form and contain the information required by the chief executive officer.
 

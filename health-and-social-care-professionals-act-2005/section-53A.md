@@ -1,6 +1,6 @@
 Persons to assist preliminary proceedings committee.
 
-53A. (1) The Council—
+53A.—(1) The Council—
 
 (a) may appoint persons (including any members of the staff of the Council other than the chief executive officer) to assist the preliminary proceedings committee, and
 

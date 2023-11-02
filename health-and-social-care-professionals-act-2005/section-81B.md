@@ -1,6 +1,6 @@
 Restriction on selling spectacles.
 
-81B. (1) Subject to subsection (2), a person shall not, on or after the relevant day, sell spectacles unless—
+81B.—(1) Subject to subsection (2), a person shall not, on or after the relevant day, sell spectacles unless—
 
 (a) if the person is not a body corporate, the person is a registered medical practitioner or a registrant of the designated profession of optometrist or dispensing optician or, if the sale is conducted on behalf of the person by another person, that other person is a registered medical practitioner or such a registrant, or
 
