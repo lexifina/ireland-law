@@ -1,6 +1,6 @@
 F35[Membership of registration boards of 2 or more designated professions
 
-28A. (1) Subject to subsections (4), (5), (6), (7) and (10)(a), a registration board that is the registration board of 2 or more designated professions is to consist of the following members:
+28A.—(1) Subject to subsections (4), (5), (6), (7) and (10)(a), a registration board that is the registration board of 2 or more designated professions is to consist of the following members:
 
 (a) 6 persons appointed by the Minister on the election of the person concerned by the registrants of that designated profession of which he or she is a member, of whom—
 

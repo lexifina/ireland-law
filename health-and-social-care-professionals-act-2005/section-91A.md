@@ -1,6 +1,6 @@
 F144[Use of professional titles.
 
-91A.— Section 79(4) shall not apply to the use of a title referred to in section 79(1), (2) or (3) for a designated profession—
+91A.—Section 79(4) shall not apply to the use of a title referred to in section 79(1), (2) or (3) for a designated profession—
 
 (a) during the period that begins when section 79(4) is commenced and ends at the end of the transitional period in relation to the profession concerned, and
 

@@ -1,6 +1,6 @@
 F150[Transfer of property and liabilities to Council
 
-91E. (1) With effect from the relevant day, the following are transferred to the Council:
+91E.—(1) With effect from the relevant day, the following are transferred to the Council:
 
 (a) all property (real and personal) and rights held or enjoyed immediately before that day by the Opticians Board;
 

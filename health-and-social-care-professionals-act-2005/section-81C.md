@@ -1,6 +1,6 @@
 F130[Bye-laws for regulation and control of prescribing, dispensing of prescriptions or sales
 
-81C. (1) The Optical Registration Board may, by bye-laws, make provision for the regulation and control of—
+81C.—(1) The Optical Registration Board may, by bye-laws, make provision for the regulation and control of—
 
 (a) the prescribing of spectacles by registrants of the designated profession of optometrist,
 

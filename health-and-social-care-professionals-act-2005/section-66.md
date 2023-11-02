@@ -1,6 +1,6 @@
 Direction by Council to impose disciplinary sanction.
 
-66. (1) Subject to section 53(1A), if a committee of inquiry finds that an allegation made by a complainant against a registrant is substantiated, the Council shall, after considering the committee’s report, direct the board to impose on the registrant, as specified in the direction, one or more than one of the following disciplinary sanctions:
+66.—(1) Subject to section 53(1A), if a committee of inquiry finds that an allegation made by a complainant against a registrant is substantiated, the Council shall, after considering the committee’s report, direct the board to impose on the registrant, as specified in the direction, one or more than one of the following disciplinary sanctions:
 
 (a) an admonishment or a censure;
 

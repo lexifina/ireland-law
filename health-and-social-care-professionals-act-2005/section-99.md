@@ -1,6 +1,6 @@
 F163[Admissibility of certain documents relating to proceedings in State or other jurisdictions
 
-99. —(1) In any proceedings under this Act concerning a relevant person, a document that purports to be a relevant document shall be admissible as evidence of any fact stated therein of which evidence would be admissible in those proceedings.
+99.—(1) In any proceedings under this Act concerning a relevant person, a document that purports to be a relevant document shall be admissible as evidence of any fact stated therein of which evidence would be admissible in those proceedings.
 
 (2) In any proceedings under this Act concerning a relevant person, a document purporting to be a certification by a court, tribunal or other authority of a document purporting to be a relevant document (and whether or not the certification is incorporated into the document) and to be signed by or on behalf of that court, tribunal or other authority shall be deemed, for the purpose of this section, to be such a certificate and to be so signed, unless the contrary is proved.
 

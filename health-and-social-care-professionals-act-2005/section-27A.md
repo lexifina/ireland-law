@@ -1,6 +1,6 @@
 F28[Functions of registration boards: approval of qualifications, etc.
 
-27A.— (1) The registration board of a designated profession is designated, as of and from the day on which its register is established under section 36(1), as the competent authority for the designated profession concerned under Directive 2005/36/EC.
+27A.—(1) The registration board of a designated profession is designated, as of and from the day on which its register is established under section 36(1), as the competent authority for the designated profession concerned under Directive 2005/36/EC.
 
 (2) The registration board of a designated profession shall, on and after the day on which its register is established under section 36(1)—
 
