@@ -6,7 +6,7 @@ Rates
 
 “adjustment period”, in relation to a specified area, means a period referred to in subsection (7) within which the base year adjustment is operational;
 
-“annual rate on valuation”, in relation to a year, means, subject to subsection (9), the rate determined by the local authority concerned as the rating authority pursuant to section 103(7)(b)(i) of the Principal Act;
+“annual rate on valuation”, in relation to a year, means, subject to subsection (9), the rate determined by the local authority concerned as the rating authority pursuant to section 3 of the Local Government Rates and Other Matters Act 2019;
 
 “base year adjustment” means the adjustment, by way of discount or levy, receivable or payable under subsection (5) by ratepayers in a specified area during the adjustment period;
 

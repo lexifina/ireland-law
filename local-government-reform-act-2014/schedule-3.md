@@ -200,11 +200,11 @@ Government Reform Act community plan. 2014).
 
 12 Entering into an agreement with another Section 85. local or public authority for the performance by one of the authorities concerned of any function of the other.
 
-13 Adopting the draft local authority budget. Section 103 (substituted by section 58 of the
+13 Adopting the draft local authority budget. Section 3 of the Local
 
-Local Government Reform Act
+Government Rates and
 
-2014).
+Other Matters Act 2019.
 
 14 Determining the annual rate on valuation to Section 103 (substituted by be levied. section 58 of the
 

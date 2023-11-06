@@ -38,7 +38,7 @@ Local authority budget meeting.
 
 (i) shall—
 
-(I) subject to section 10 of the Local Government (Financial Provisions) Act 1978, by resolution determine in accordance with the local authority budget as so adopted, the annual rate on valuation to be levied, and
+(I) ...
 
 (II) where appropriate, have regard to the base year adjustment determined in accordance with section 29 of the Local Government Reform Act 2014, or
 
