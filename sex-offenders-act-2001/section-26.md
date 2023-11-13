@@ -1,6 +1,6 @@
 Failure to inform employer, etc., of sexual offence conviction.
 
-26. —(1) In this section “relevant work” means work or a service (including State work or a service) a necessary and regular part of which consists, mainly, of the person referred to in subsection (3), (5) or (6) having unsupervised access to, or contact with, a child or children or a mentally impaired person or persons.
+26. —(1) In this section “relevant work” means work or a service (including State work or a service) a necessary and regular part of which consists, mainly, of the person referred to in subsection (3), (5) or (6) having access to, or contact with, a child or children or a vulnerable person or persons.
 
 (2) A person referred to in subsection (3) shall be guilty of an offence if he or she—
 

@@ -1,8 +1,8 @@
 Period for which person is subject to requirements of this Part and related matters.
 
-8. —(1) A person who, by reason of section 7 , is subject to the requirements of this Part shall be so subject for the period referred to in subsection (3) or, in the case of a person referred to in section 7(2), so much (if any) of that period as falls after the commencement of this Part.
+8. —(1) A person who, by reason of section 7, is subject to the requirements of this Part shall be so subject for the period referred to in subsection (3) or specified by the court pursuant to subsection (4), as the case may be, or, in the case of a person referred to in section 7(2), so much (if any) of that period as falls after the commencement of this Part.
 
-(2) Subsection (1) is subject to section 11 .
+(2) Subsection (1) is subject to section 11.
 
 (3) The period mentioned in subsection (1) is the period, beginning with the relevant date, of—
 
@@ -22,7 +22,11 @@ Period for which person is subject to requirements of this Part and related matt
 
 (a) a sentence is imposed on a person in respect of a sexual offence, and
 
-(b) at the time of sentencing the person is aged under 18 years, subsection (3) shall have effect in relation to that person as if for the references to 10 years, 7 years and 5 years in that subsection there were substituted references to 5 years, 3½ years and 2½ years, respectively.
+(b) at the time of the commission of the offence concerned, the person was aged under 18 years, the court shall, in imposing the sentence, specify the period for which the person shall be subject to the requirements of this Part, which period shall not exceed 5 years, having regard to—
+
+(i) the nature and circumstances of the offence concerned, and
+
+(ii) the degree of risk, if any, that the offender may commit a subsequent sexual offence.
 
 (5) If a sentence of imprisonment for any term is imposed on the person referred to in subsection (1) in respect of the offence concerned and the operation of a part of that term is suspended—
 

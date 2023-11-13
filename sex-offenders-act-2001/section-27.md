@@ -4,9 +4,9 @@ Interpretation (Part 5).
 
 27. —(1) In this Part—
 
-“probation and welfare officer” means a person appointed by the Minister to be a probation and welfare officer or to be a welfare officer or probation officer;
+...
 
-“probation and welfare service” means the probation and welfare service of the Department of Justice, Equality and Law Reform;
+...
 
 “sentence involving post-release supervision” shall be construed in accordance with section 29(1);
 

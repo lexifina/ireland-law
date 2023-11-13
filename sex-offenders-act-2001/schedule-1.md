@@ -16,7 +16,9 @@ SEXUAL OFFENCES FOR PURPOSES OF ACT
 
 7. An offence under the Criminal Law (Sexual Offences) Act 2006.
 
-8. ...
+7A. An offence under section 1 of the Act of 1935 (defilement of girl under 15 years of age).
+
+8. An offence under section 2 of the Act of 1935 (defilement of girl between 15 and 17 years of age).
 
 9. The offence of buggery with a person or with an animal referred to in section 61 of the Act of 1861.
 

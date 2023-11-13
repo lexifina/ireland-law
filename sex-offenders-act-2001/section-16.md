@@ -16,7 +16,7 @@ Sex offender orders.
 
 (4) A sex offender order shall contain only such prohibitions on the respondent's doing a thing or things as the court considers necessary for the purpose of protecting the public from serious harm from the respondent.
 
-(5) References in this section to protecting the public from serious harm from the respondent shall be construed as references to protecting a member or members of the public from death or serious personal injury, whether physical or psychological, which would be occasioned if the respondent were to commit a sexual offence at a time subsequent to the making of the application under this section.
+(5) References in this section to protecting the public from serious harm from the respondent shall be construed as references to protecting the public, or a member of the public, from death or serious personal injury, whether physical or psychological, which would be occasioned if the respondent were to commit a sexual offence at a time subsequent to the making of the application under this section.
 
 (6) A sex offender order shall continue in force until the expiration of—
 

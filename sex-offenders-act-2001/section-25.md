@@ -12,7 +12,7 @@ Interpretation (Part 4).
 
 (b) any other contract whereby an individual agrees with another person, who is carrying on the business of an employment agency within the meaning of the Employment Agency Act, 1971, and is acting in the course of that business, to do or perform personally any work or service for a third person (whether or not the third person is a party to the contract), whether the contract is express or implied and if express, whether it is oral or in writing;
 
-“mentally impaired” has the meaning assigned to it by section 5 of the Act of 1993;
+...
 
 “State work or a service” means work done or a service performed by a person who—
 

@@ -6,6 +6,6 @@ Additional provisions which may be included in sentence involving post-release s
 
 (a) a condition prohibiting the sex offender from doing such one or more things as the court considers necessary for the purpose of protecting the public from serious harm from the offender, and
 
-(b) a condition requiring the sex offender to receive psychological counselling or other appropriate treatment provided by the probation and welfare service or any other body which it appears to the court, having regard to any submissions made to it on behalf of the probation and welfare service, is an appropriate body to provide such counselling or treatment.
+(b) a condition requiring the sex offender to receive psychological counselling or other appropriate treatment provided by the Probation Service or any other body which it appears to the court, having regard to any submissions made to it on behalf of the Probation Service, is an appropriate body to provide such counselling or treatment.
 
 (3) A condition referred to in subsection (1) or (2) shall have effect during the whole or a specified part of the supervision period as the court considers appropriate and specifies in the sentence concerned.

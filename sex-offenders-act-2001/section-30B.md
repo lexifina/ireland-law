@@ -1,0 +1,3 @@
+Monitoring compliance with condition.
+
+30B. — ...

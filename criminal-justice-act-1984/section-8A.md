@@ -20,6 +20,8 @@ Extension of retention period under section 8 for fingerprints, palm prints and 
 
 (ii) if such proceedings have been instituted against the person, they were determined without he or she being convicted of the offence concerned or he or she being the subject of an order under section 1(1) of the Probation of Offenders Act 1907;
 
+(da) the person is subject to the requirements of Part 2 of the Sex Offenders Act 2001 and there are reasonable grounds for believing that the fingerprint, palm print or photograph of the person may be required for the purposes of establishing or verifying the identity of the person;
+
 (e) there are reasonable grounds for believing that the fingerprint, palm print or photograph of the person may be required in connection with the investigation of an offence to which section 4 applies, other than the offence in connection with which the fingerprint, palm print or photograph was taken, which the person is suspected of having committed.
 
 (2) The matters referred to in subsection (1)(d) to which the Commissioner shall have regard are the following:

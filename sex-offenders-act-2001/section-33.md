@@ -6,4 +6,4 @@ Non-compliance with requirements relating to supervision period.
 
 (3) If a sentence of imprisonment is imposed on a sex offender for an offence under this section, that sentence shall, for the period the offender spends in prison on foot of that sentence, operate to suspend the supervision period conditions and the period for which those conditions are so suspended shall not be reckoned in calculating the date on which the supervision period expires.
 
-(4) Proceedings for an offence under subsection (1) may be brought and prosecuted by a probation and welfare officer.
+(4) Proceedings for an offence under subsection (1) may be brought and prosecuted by a probation officer.

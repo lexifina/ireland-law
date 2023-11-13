@@ -4,7 +4,7 @@ Sexual offences for purposes of Act.
 
 (2) An offence referred to in—
 
-(a) paragraph 2 of the Schedule (sexual assault or indecent assault), other than an offence of sexual assault or indecent assault of a person who, at the time of the commission of the offence, was mentally impaired,
+(a) paragraph 2 of the Schedule (sexual assault or indecent assault), other than an offence of sexual assault or indecent assault of a person who, at the time of the commission of the offence, was a vulnerable person,
 
 (b) paragraph 5 of the Schedule (incest by males),
 
@@ -34,4 +34,4 @@ Sexual offences for purposes of Act.
 
 (ii) the person guilty of the offence was aged, at that date, not more than 3 years older than that victim or other party.
 
-(4) In this section "mentally impaired" has the same meaning as it has in section 5 of the Criminal Law (Sexual Offences) Act 1993.
+(4) ...

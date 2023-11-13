@@ -6,4 +6,4 @@ Duty of court to explain effect of sentence to offender.
 
 (b) the consequences provided for under section 33 if he or she fails to comply with any of the supervision period conditions, and
 
-(c) that under this Act the court may vary or discharge any of those conditions on the application of either the offender or a probation and welfare officer.
+(c) that under this Act the court may vary or discharge any of those conditions on the application of either the offender or a probation officer.

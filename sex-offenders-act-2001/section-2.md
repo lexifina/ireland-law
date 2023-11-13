@@ -12,13 +12,21 @@ Interpretation (general).
 
 “Act of 1993” means the Criminal Law (Sexual Offences) Act, 1993;
 
+"children detention school" has the same meaning as it has in section 3 of the Children Act 2001;
+
+"Commissioner" means the Commissioner of the Garda Síochána;
+
 “conviction” (other than in sections 12, 22, 26(8) and 33) includes a finding of guilty but insane and “convicted” and cognate expressions shall be construed accordingly;
 
 “court” means any court exercising criminal jurisdiction and includes court-martial;
 
-“imprisonment” includes detention in Saint Patrick's Institution or the Central Mental Hospital and “prison” shall be construed accordingly;
+"imprisonment" includes detention in the Central Mental Hospital and "prison" shall be construed accordingly;
 
 “Minister” means the Minister for Justice, Equality and Law Reform;
+
+"probation officer" means a person appointed by the Minister to be a probation officer;
+
+"Probation Service" means those officers of the Minister assigned to perform functions in the part of the Department of State for which the Minister is responsible, commonly known by that name;
 
 “remission from the sentence” means, in relation to the sentence imposed on a person, the remission which the person may earn from the sentence under the rules or practice whereby prisoners generally may earn remission of sentence by industry and good conduct;
 
@@ -28,7 +36,15 @@ Interpretation (general).
 
 (b) an order postponing sentence;
 
-“sexual offence” shall be construed in accordance with section 3 .
+“sexual offence” shall be construed in accordance with section 3;
+
+"vulnerable person" means a person, other than a child, whose capacity to guard himself or herself against violence, exploitation or abuse, whether physical, sexual or emotional, by another person is significantly impaired through—
+
+(a) a physical disability, illness or injury,
+
+(b) a disorder of the mind, whether as a result of mental illness or dementia, or
+
+(c) an intellectual disability.
 
 (2) In this Act—
 

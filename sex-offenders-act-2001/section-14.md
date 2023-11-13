@@ -24,7 +24,7 @@ Certificate as evidence of person's being subject to requirements of this Part.
 
 (b) the person convicted of the offence concerned, and
 
-(c) where appropriate, the person for the time being in charge of the place where the convicted person is ordered to be imprisoned or, as the case may be, the probation and welfare service (within the meaning of Part 5).
+(c) where appropriate, the person for the time being in charge of the place where the convicted person is ordered to be imprisoned or, as the case may be, the Probation Service.
 
 (6) The mode of proving a conviction or sentence authorised by subsection (4) shall be in addition to, and not in substitution for, any other authorised mode of proving such conviction or sentence.
 
