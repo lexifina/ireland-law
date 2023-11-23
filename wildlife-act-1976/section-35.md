@@ -18,7 +18,7 @@ Certain use of scarecrows, decoys birdcalls and calls of wild mammals restricted
 
 (3) Notwithstanding the foregoing provisions of this section, the Minister may by order prohibit throughout the State or in any particular area thereof—
 
-((a) the use for hunting, repelling or scaring any wild bird or any wild animal of a species specified in the order of any stuffed or artificial decoy or any device, whistle, instrument or appliance which is of a particular type, class or description specified in the order, or,
+(a) the use for hunting, repelling or scaring any wild bird or any wild animal of a species specified in the order of any stuffed or artificial decoy or any device, whistle, instrument or appliance which is of a particular type, class or description specified in the order, or,
 
 (b) the use of any orally or manually operated whistle or other instrument or appliance (not being recording apparatus) which imitates, or emits calls similar to, the calls of plover, wild duck or wild geese or emits recorded such calls.
 

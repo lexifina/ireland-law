@@ -10,7 +10,7 @@ Export of fauna and flora.
 
 (d) the eggs or spawn of a species of wild animal or wild bird which is so specified,
 
-((dd) any part, product or derivative of the eggs or spawn of a wild animal or wild bird which is a part, product or derivative so specified,
+(dd) any part, product or derivative of the eggs or spawn of a wild animal or wild bird which is a part, product or derivative so specified,
 
 (e) wild plants which are of a species which is so specified ...
 
