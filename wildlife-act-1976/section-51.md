@@ -8,7 +8,7 @@ Transport of packages etc. containing certain fauna.
 
 (c) eggs of a protected wild bird.
 
-((cc) any species of flora to which an order under section 21 of this Act for the time being applies.
+(cc) any species of flora to which an order under section 21 of this Act for the time being applies.
 
 (2) Every package, parcel, box or other container to which this section applies shall, if transported, whether by hand or otherwise, be marked conspicuously either on the outside thereof or on a label attached thereto, so as clearly to indicate—
 
