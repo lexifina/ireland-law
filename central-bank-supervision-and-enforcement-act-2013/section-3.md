@@ -30,7 +30,7 @@ Interpretation.
 
 (d) a hirer in a case where the regulated financial service provider undertakes credit servicing in respect of the consumer-hire agreement or hire-purchase agreement concerned, and includes a potential customer and a former customer;
 
-"financial holding company" has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014 ( S.I. No. 158 of 2014);
+"financial holding company" has the same meaning as it has in the European Union (Capital Requirements) Regulations 2014 (S.I. No. 158 of 2014);
 
 “financial services legislation” means—
 

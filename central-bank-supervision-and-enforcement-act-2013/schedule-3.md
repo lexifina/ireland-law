@@ -30,7 +30,7 @@ Item Provision affected Amendment (1) (2) (3)
 
 3 Section 93(1) Substitute the following for paragraph (b):
 
-4 Section 95 In subsection (1) substitute “, after the exercise by an authorised
+4 Section 95 In subsection (1) substitute “, after the exercise by an authorised Item Provision affected Amendment (1) (2) (3)
 
 5 Section 95A (inserted by In subsection (1) substitute “after the exercise by an authorised the Credit Union and Co-operation with Overseas Regulators Act 2012)
 
@@ -46,7 +46,7 @@ Item Provision affected Amendment (1) (2) (3)
 
 1 Section 9 (a) Substitute the following for subsection (1):
 
-(b) Substitute “Part 3 of the Act of 2013” for “Part 5 of the Act Item Provision affected Amendment (1) (2) (3)
+(b) Substitute “Part 3 of the Act of 2013” for “Part 5 of the Act
 
 2 Section 33(2) Substitute
 
