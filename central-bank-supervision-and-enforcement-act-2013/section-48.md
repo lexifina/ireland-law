@@ -10,6 +10,12 @@ Bank’s power to make regulations.
 
 (b) provision regulating the administrative, accounting, auditing and reporting arrangements of regulated financial service providers;
 
+(ba) provision specifying the aspects of a regulated financial service provider’s affairs for which a PCF holder has inherent responsibility for the purposes of section 53B of the Central Bank Reform Act 2010;
+
+(bb) provision specifying the aspects of a regulated financial service provider’s affairs for which responsibility is to be allocated by the regulated financial service provider to a PCF holder for the purposes of section 53B of the Central Bank Reform Act 2010;
+
+(bc) provision as to the arrangements described in subsection (2A) that a regulated financial service provider is to adopt;
+
 (c) provision for the monitoring and recording by regulated financial service providers of the training and qualifications of their officers, employees, agents and intermediaries;
 
 (d) provision about the resources to be maintained, and the procedures, systems and checks to be adopted, by regulated financial service providers for meeting their obligations under financial services legislation, and their obligations to customers, in a manner consistent with complying with their other obligations and for ensuring that their obligations to their customers are discharged by their agents and intermediaries;
@@ -152,6 +158,20 @@ Bank’s power to make regulations.
 
 (y) any other provision relating to any of the matters set out in paragraphs (a) to (x) which the Bank considers appropriate.
 
+(2A) The arrangements referred to in subsection (2)(bc) are:
+
+(a) arrangements for the regulated financial service provider to allocate to PCF holders for the purposes of section 53B of the Central Bank Reform Act 2010 responsibility for aspects of its affairs specified in regulations under subsection (2)(bb);
+
+(b) arrangements for the regulated financial service provider, so as to ensure the proper conduct of its affairs, to allocate to a PCF holder for the purposes of section 53B of the Central Bank Reform Act 2010 responsibility for aspects of its affairs for which no PCF holder has inherent responsibility under regulations under subsection (2)(ba) or responsibility allocated under arrangements described in paragraph (a);
+
+(c) arrangements for the regulated financial service provider to monitor the performance of pre-approval controlled functions in relation to it;
+
+(d) arrangements to make clear the management structure that identifies the lines of authority and accountability, and specifies roles and responsibilities, in relation to the management of PCF holders and of other persons by PCF holders;
+
+(e) arrangements to make clear the governance structure determining how the regulated financial service provider and PCF holders relate to persons concerned in the ownership or control of the regulated financial service provider or representing its customers or other stakeholders;
+
+(f) arrangements for documenting arrangements referred to in paragraphs (a) to (e).
+
 (3) Regulations made under subsection (2)(m) may specify that a person is a restricted person—
 
 (a) if he or she holds an office or employment, with the regulated financial service provider, of a description specified in the regulations,
@@ -159,3 +179,9 @@ Bank’s power to make regulations.
 (b) if he or she performs a function for, or provides a service, of a description specified in the regulations, to the regulated financial service provider, or
 
 (c) in such circumstances as the regulations may specify, if he or she is related to, or a member of the same family as, a person within paragraph (a) or (b).
+
+(4) In this section—
+
+"PCF holder" means a person performing a pre-approval controlled function in relation to the regulated financial service provider concerned;
+
+"pre-approval controlled function" has the meaning given by section 18 of the Central Bank Reform Act 2010.

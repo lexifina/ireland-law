@@ -38,7 +38,7 @@ Item Provision affected Amendment (1) (2) (3)
 
 1 Regulation 1 Insert the following definition:
 
-2 Regulation 4 Substitute the following for Regulation 4:
+2 Regulation 4 Substitute the following for Regulation 4: Item Provision affected Amendment (1) (2) (3)
 
 PART 4
 

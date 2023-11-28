@@ -8,73 +8,25 @@ AMENDMENTS OF CENTRAL BANK ACT 1942
 
 Item Provision Amendment affected (1) (2) (3)
 
-1 Section 2 (a) In subsection (1) substitute the following for the definition of “designated
+(a) In subsection (1) substitute the following for the definition of “designated
 
 (b) Insert the following subsection:
 
-2 Section 18D(2) In paragraph (a) after “Bank” insert “or with one or more persons with relevant
-
-3 Section 24(2) (a) In paragraph (c) substitute “Parliament,” for “Parliament, or”. Item Provision Amendment affected (1) (2) (3)
+(a) In paragraph (c) substitute “Parliament,” for “Parliament, or”. Item Provision Amendment affected (1) (2) (3)
 
 (b) In paragraph (d) substitute “member,” for “member.” and insert the
 
 (f) has been adjudged bankrupt (either in the State or elsewhere) or
 
-(g) has been convicted of an offence (either in the State or elsewhere)
-
-4 Section 32B(2) In paragraph (a) substitute “2016” for “2011”.
-
-5 Part IIIA Before section 32L substitute the following for the Chapter heading:
-
-6 Section 32L(3) Delete “and” at the end of paragraph (a) and insert the following paragraph:
-
-7 Section Substitute “2010, or” for “2010.” in paragraph (ao) and insert the following after 33AK(5)
-
-8 Section 33AN In the definition of “contravene” substitute the following for paragraph (b):
-
-9 Section 57BC Insert the following after subsection (7): 10 Schedule 2, (a) Substitute the following for item 38: Part 1
-
-38 No. 23 of Central Bank Parts 3 and 4 2010 Reform Act 2010
+(g) has been convicted of an offence (either in the State or elsewhere) 10 Schedule 2, (a) Substitute the following for item 38: Part 1
 
 (b) Insert the following:
-
-No. 27 of Financial Transfers Act 1992 Section 4 1992
-
-No. 2 of Criminal Justice (Terrorist Section 42(6) 2005 Offences) Act 2005
-
-No. 13 of Financial Services (Deposit The whole Act 2009 Guarantee Scheme) Act 2009
 
 The whole Act other than sections 83 to 87
 
-Item Provision Amendment affected (1) (2) (3)
-
-11 Schedule 2, (a) Substitute the following for item 36: Part 2
-
-36 S.I. No. 48 of European The whole 2011 Communi-ties instrument (Reorgan-isation and Winding-up of Credit Institutions) Regulations 2011
+(a) Substitute the following for item 36:
 
 (b) Insert the following:
-
-S.I. No. European Communities The whole 799 of (Information on the payer instrument 2007 accompanying transfers of funds) Regulations 2007
-
-S.I. No. European Communities The whole 247 of (Credit Rating Agencies) instrument 2010 Regulations 2010
-
-S.I. No. European Communities The whole 352 of (Undertakings for Collective instrument 2011 Investment in Transferable Securities) Regulations 2011
-
-S.I. No. European Union (Short The whole 340 of Selling) Regulations 2012 instrument 2012 10 Schedule 2, (a) Substitute the following for item 38: Part 1
-
-38 No. 23 of Central Bank Parts 3 and 4 2010 Reform Act 2010
-
-(b) Insert the following:
-
-No. 27 of Financial Transfers Act 1992 Section 4 1992
-
-No. 2 of Criminal Justice (Terrorist Section 42(6) 2005 Offences) Act 2005
-
-No. 13 of Financial Services (Deposit The whole Act 2009 Guarantee Scheme) Act 2009
-
-The whole Act other than sections 83 to 87
-
-Item Provision Amendment affected (1) (2) (3)
 
 PART 2
 
@@ -94,7 +46,7 @@ Item Provision affected Amendment (1) (2) (3)
 
 (b) In subsection (2)—
 
-(i) insert “or authorisation under section 9A” after “licence”, Item Provision affected Amendment (1) (2) (3)
+(i) insert “or authorisation under section 9A” after “licence”,
 
 (ii) insert “European Banking Committee” after “European
 
@@ -122,7 +74,7 @@ Item Provision affected Amendment (1) (2) (3)
 
 9 Section 21 Insert “or authorisation under section 9A” after “licence” in each
 
-10 Section 22 Insert “or authorisation under section 9A” after “licence” in each
+10 Section 22 Insert “or authorisation under section 9A” after “licence” in each Item Provision affected Amendment (1) (2) (3)
 
 11 Section 25 Insert “or authorisation under section 9A” after “licence” in each
 
@@ -156,7 +108,7 @@ Item Provision affected Amendment (1) (2) (3)
 
 (b) In subsection (6)(b) substitute “(a) to (h)” for “(a) to (g)”.
 
-3 Section 25(3) Insert the following after paragraph (c):
+3 Section 25(3) Insert the following after paragraph (c): Item Provision affected Amendment (1) (2) (3)
 
 4 Section 43(2) Insert the following after paragraph (c):
 
@@ -170,9 +122,7 @@ Item Provision affected Amendment (1) (2) (3)
 
 (iii) substitute “, the Head of Financial Regulation or the
 
-6 Section 54 (inserted by Substitute the following section: the Credit Union and Co-operation with Overseas Regulators Act 2012) Item Provision affected Amendment (1) (2) (3)
-
-54.— (1) In this section ‘Member State authority or third country
+6 Section 54 (inserted by Substitute the following section: the Credit Union and Co-operation with Overseas Regulators Act 2012) 54.— (1) In this section ‘Member State authority or third country
 
 (2) At the request of a Member State authority or a third country authority to do so in relation to any matter, the Bank may—
 
@@ -182,7 +132,7 @@ Item Provision affected Amendment (1) (2) (3)
 
 (3) In deciding whether or not to exercise any of its powers under subsection (2), the Bank may take into account in particular:
 
-(a) whether in the country or territory of the Member State
+(a) whether in the country or territory of the Member State Item Provision affected Amendment (1) (2) (3)
 
 (b) whether the case concerns the breach of a law, or other
 
@@ -196,7 +146,7 @@ Item Provision affected Amendment (1) (2) (3)
 
 (6) If the Bank authorises an authorised officer for the purposes of subsection (2)(b), the Bank may direct the authorised
 
-(7) A direction under subsection (6) is not to be given unless the Bank is satisfied that any information obtained by a Member State authority or third country authority as a result of the Item Provision affected Amendment (1) (2) (3) interview will be subject to obligations of non-disclosure of information similar to those imposed on the Bank in section 33AK of the Act of 1942.
+(7) A direction under subsection (6) is not to be given unless the Bank is satisfied that any information obtained by a Member State authority or third country authority as a result of the interview will be subject to obligations of non-disclosure of information similar to those imposed on the Bank in section 33AK of the Act of 1942.
 
 (8) A person shall not be required for the purposes of the exercise of any power under this section to answer any question tending to incriminate the person.”.
 
