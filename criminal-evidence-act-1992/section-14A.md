@@ -1,6 +1,6 @@
-F18[Placement of screen etc. for giving of evidence
+F19[Placement of screen etc. for giving of evidence
 
-14A. (1) Where a person who is under 18 years of age is to give evidence other than through a live television link in respect of a relevant offence, the court may, on the application of the prosecution or the accused, direct that a screen or other similar device be positioned, in an appropriate place, so as to prevent the witness from seeing the accused when giving evidence, unless the court is satisfied that in all the circumstances of the case such a direction would be contrary to the interests of justice.
+14A.—(1) Where a person who is under 18 years of age is to give evidence other than through a live television link in respect of a relevant offence, the court may, on the application of the prosecution or the accused, direct that a screen or other similar device be positioned, in an appropriate place, so as to prevent the witness from seeing the accused when giving evidence, unless the court is satisfied that in all the circumstances of the case such a direction would be contrary to the interests of justice.
 
 (2) Subject to section 14AA, where—
 

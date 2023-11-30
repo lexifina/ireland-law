@@ -1,6 +1,6 @@
-F33[Identification evidence.
+F36[Identification evidence.
 
-18. Where a person (in this section referred to as ‘the witness’)—
+18.—Where a person (in this section referred to as "the witness")—
 
 (a) gives evidence in respect of a relevant offence, or
 

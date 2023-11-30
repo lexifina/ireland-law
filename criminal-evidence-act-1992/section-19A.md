@@ -1,6 +1,6 @@
-F37[Disclosure of third party records in certain trials
+F40[Disclosure of third party records in certain trials
 
-19A. (1) In this section—
+19A.—(1) In this section—
 
 "Act of 1995" means the Civil Legal Aid Act 1995;
 
@@ -8,7 +8,7 @@ F37[Disclosure of third party records in certain trials
 
 "counselling" means listening to and giving verbal or other support or encouragement to a person, or advising or providing therapy or other treatment to a person (whether or not for remuneration);
 
-"counselling record" means any record, or part of a record, made by any means, by a competent person in connection with the provision of counselling to a person in respect of whom a sexual offence is alleged to have been committed (‘the complainant’), which the prosecutor has had sight of, or about which the prosecutor has knowledge, and in relation to which there is a reasonable expectation of privacy;
+"counselling record" means any record, or part of a record, made by any means, by a competent person in connection with the provision of counselling to a person in respect of whom a sexual offence is alleged to have been committed ("the complainant"), which the prosecutor has had sight of, or about which the prosecutor has knowledge, and in relation to which there is a reasonable expectation of privacy;
 
 "court" means the Circuit Criminal Court or the Central Criminal Court;
 
@@ -16,7 +16,7 @@ F37[Disclosure of third party records in certain trials
 
 (2) In criminal proceedings for a sexual offence the prosecutor shall notify the accused of the existence of any counselling record but shall not disclose the content of the record without the leave of the court given in accordance with this section.
 
-(3) An accused who seeks disclosure of the content of a counselling record may make an application (‘disclosure application’), in writing, to the court—
+(3) An accused who seeks disclosure of the content of a counselling record may make an application ("disclosure application"), in writing, to the court—
 
 (a) providing particulars identifying the record sought, and
 

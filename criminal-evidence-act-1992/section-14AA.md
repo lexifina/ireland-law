@@ -1,6 +1,6 @@
-F19[Matters to be taken into account under sections 13, 14 and 14A regarding victims
+F20[Matters to be taken into account under sections 13, 14 and 14A regarding victims
 
-14AA. The court, in deciding—
+14AA.—The court, in deciding—
 
 (a) whether to grant leave under section 13(1A) for a victim to give evidence through a live television link,
 
