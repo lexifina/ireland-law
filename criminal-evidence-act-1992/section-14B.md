@@ -1,6 +1,6 @@
 Wigs and gowns.
 
-14B. Where a person who is under 18 years of age—
+14B.—Where a person who is under 18 years of age—
 
 (a) is giving evidence in respect of a relevant offence, or
 
