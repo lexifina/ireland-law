@@ -84,7 +84,7 @@ Interpretation
 
 (c) advice regarding safety orders, barring orders, interim barring orders, emergency barring orders and protection orders within the meaning of the Domestic Violence Act 2018;
 
-(d) advice regarding orders made under section 10 of the Non-Fatal Offences Against the Person Act 1997, section 101 of the Criminal Justice Act 2006 and section 26 or 26A of the Criminal Justice Act 2007;
+(d) advice regarding orders made under section 10 or 10B of the Non-Fatal Offences Against the Person Act 1997, section 101 of the Criminal Justice Act 2006 and section 26 or 26A of the Criminal Justice Act 2007;
 
 (e) an application to remand the alleged offender in custody; and
 
