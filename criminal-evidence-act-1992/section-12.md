@@ -40,7 +40,7 @@ Interpretation and application - Part III.
 
 (db) an offence under section 44 (1) of the Criminal Justice (Miscellaneous Provisions) Act 2023;
 
-(e) an offence consisting of attempting or conspiring to commit, or of aiding or abetting, counselling, procuring or inciting the commission of, an offence mentioned in paragraph (a), (b), (ba), (c), (d), (da) or ...;
+(e) an offence consisting of attempting or conspiring to commit, or of aiding or abetting, counselling, procuring or inciting the commission of, an offence mentioned in paragraph (a), (b), (ba), (c), (d), (da) or (db);
 
 "victim" means—
 
