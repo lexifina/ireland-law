@@ -1,6 +1,6 @@
 Other investigations by Ombudsman Commission.
 
-102.— (1) The Garda Commissioner shall refer to the Ombudsman Commission any matter that appears to the Garda Commissioner to indicate that the conduct of a member of the Garda Síochána may have resulted in the death of, or serious harm to, a person.
+102.—(1) The Garda Commissioner shall refer to the Ombudsman Commission any matter that appears to the Garda Commissioner to indicate that the conduct of a member of the Garda Síochána may have resulted in the death of, or serious harm to, a person.
 
 (2) The Ombudsman Commission shall ensure that the following matters are investigated:
 
