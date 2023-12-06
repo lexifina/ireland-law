@@ -48,7 +48,9 @@ Amendment to Central Bank Reform Act 2010.
 
 ## PART 5 AUTHORISED OFFICERS
 
-55.— (1) In this Part— ‘agent’, in relation to a person to whom this Part applies, includes a past as well as a present agent and includes the person’s banker, accountant, solicitor, auditor and financial or other adviser, whether or not a person to whom this Part applies;
+55.— (1) In this Part—
+
+‘agent’, in relation to a person to whom this Part applies, includes a past as well as a present agent and includes the person’s banker, accountant, solicitor, auditor and financial or other adviser, whether or not a person to whom this Part applies;
 
 ‘authorisation’ means an authorisation, licence or any other permission required to carry on business as a regulated financial service provider granted by the Bank pursuant to any provision of financial services legislation, and includes registration;
 
