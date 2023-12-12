@@ -1,6 +1,6 @@
 Prohibition on charging admission and enrolment fees.
 
-64. (1) Subject to subsection (2), a board or person acting on a board’s behalf shall not charge fees for, or seek payments or contributions (howsoever described) as a condition of—
+64.—(1) Subject to subsection (2), a board or person acting on a board’s behalf shall not charge fees for, or seek payments or contributions (howsoever described) as a condition of—
 
 (a) an application for admission of a student to the school, or
 

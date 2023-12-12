@@ -1,6 +1,6 @@
 Appeals under section 29(1)(a), (b) and (c)(ii).
 
-29D. (1) An appeals committee shall, in accordance with procedures determined by the Minister under section 29B, hold an oral hearing for the purposes of an appeal under section 29(1)(a), (b) or (c)(ii).
+29D.—(1) An appeals committee shall, in accordance with procedures determined by the Minister under section 29B, hold an oral hearing for the purposes of an appeal under section 29(1)(a), (b) or (c)(ii).
 
 (2) For the purposes of an appeal under section 29(1)(a), (b) or (c)(ii)—
 

@@ -1,6 +1,6 @@
 The Principal.
 
-23.— (1) In addition to the functions conferred on a Principal by section 22, the Principal of a recognised school shall—
+23.—(1) In addition to the functions conferred on a Principal by section 22, the Principal of a recognised school shall—
 
 (a) be responsible for the day to day management of the school, including guidance and direction of the teachers and other staff of the school and the implementation of the admission policy of the school, and be accountable to the board of the school for that management,
 

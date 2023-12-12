@@ -1,6 +1,6 @@
 Additional provision in respect of children with special educational needs.
 
-37A. (1) Where the Council is of the opinion that there is insufficient capacity in an area in relation to the provision of education for children with special educational needs, it shall prepare and submit a report on the matter to the Minister.
+37A.—(1) Where the Council is of the opinion that there is insufficient capacity in an area in relation to the provision of education for children with special educational needs, it shall prepare and submit a report on the matter to the Minister.
 
 (2) A report under subsection (1) shall specify—
 

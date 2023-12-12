@@ -1,6 +1,6 @@
 Appeals under section 29(1)(c)(i).
 
-29E. (1) An appeals committee shall, in accordance with procedures determined by the Minister under section 29B, examine and determine an appeal under section 29(1)(c)(i) without an oral hearing and, when doing so, shall rely on the same evidence and materials as were available to and relied upon when the decision to refuse admission was made.
+29E.—(1) An appeals committee shall, in accordance with procedures determined by the Minister under section 29B, examine and determine an appeal under section 29(1)(c)(i) without an oral hearing and, when doing so, shall rely on the same evidence and materials as were available to and relied upon when the decision to refuse admission was made.
 
 (2) Following the determination of an appeal under section 29(1)(c)(i), an appeals committee shall make a decision to—
 

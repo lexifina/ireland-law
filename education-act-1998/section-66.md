@@ -1,6 +1,6 @@
 Co-operation between boards.
 
-66. (1) The Minister may, from time to time, subject to subsection (2), and following consultation with the patron or patrons and the boards of the schools concerned, direct 2 or more boards to co-operate with each other in relation to the admission processes of the schools concerned.
+66.—(1) The Minister may, from time to time, subject to subsection (2), and following consultation with the patron or patrons and the boards of the schools concerned, direct 2 or more boards to co-operate with each other in relation to the admission processes of the schools concerned.
 
 (2) The Minister may make a direction under this section where—
 

@@ -1,6 +1,6 @@
 Request to patron by Minister.
 
-70. (1) Where the Minister is of the opinion that a board has failed to comply with a direction under section 69, he or she may, by notice in writing, inform the patron and the board.
+70.—(1) Where the Minister is of the opinion that a board has failed to comply with a direction under section 69, he or she may, by notice in writing, inform the patron and the board.
 
 (2) A notice under subsection (1) shall—
 

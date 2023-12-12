@@ -1,6 +1,6 @@
 Refusal of access to certain information.
 
-53. (1) Notwithstanding any other enactment, the Minister may refuse access to information specified in subsection (4) (in this section referred to as the "specified information").
+53.—(1) Notwithstanding any other enactment, the Minister may refuse access to information specified in subsection (4) (in this section referred to as the "specified information").
 
 (2) The Minister may, following consultation with the Minister for Public Expenditure and Reform, by regulations prescribe a public body for the purposes of this section.
 

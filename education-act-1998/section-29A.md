@@ -1,6 +1,6 @@
 Establishment of appeals panels and appeals committees.
 
-29A. (1) The Minister shall, from time to time, establish one or more panels of suitable persons (in this section referred to as an "appeals panel") to consider appeals under section 29.
+29A.—(1) The Minister shall, from time to time, establish one or more panels of suitable persons (in this section referred to as an "appeals panel") to consider appeals under section 29.
 
 (2) A member of an appeals panel—
 

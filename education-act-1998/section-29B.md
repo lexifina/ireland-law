@@ -1,6 +1,6 @@
 Procedures in relation to appeals.
 
-29B. (1) The Minister may, from time to time, having regard to the principles of inclusion, equality of access to and participation in education, efficiency, effectiveness, clarity and fairness for applicants and schools and following consultation with bodies representative of patrons, national associations of parents, recognised school management organisations and recognised trade unions and staff associations representing teachers, determine procedures for the purpose of sections 29 to 29F and such procedures may provide for all or any of the following:
+29B.—(1) The Minister may, from time to time, having regard to the principles of inclusion, equality of access to and participation in education, efficiency, effectiveness, clarity and fairness for applicants and schools and following consultation with bodies representative of patrons, national associations of parents, recognised school management organisations and recognised trade unions and staff associations representing teachers, determine procedures for the purpose of sections 29 to 29F and such procedures may provide for all or any of the following:
 
 (a) the period within which an appeals committee shall determine an appeal and, in that regard, the Minister may—
 

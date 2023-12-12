@@ -2,7 +2,7 @@
 
 Definitions.
 
-60. In this Part—
+60.—In this Part—
 
 "Act of 2000" means the Equal Status Act 2000;
 

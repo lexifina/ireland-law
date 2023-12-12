@@ -1,6 +1,6 @@
 Direction to board by Minister.
 
-69. (1) Subject to this section, the Minister may issue a direction to a board.
+69.—(1) Subject to this section, the Minister may issue a direction to a board.
 
 (2) The Minister shall, by notice in writing, inform the patron and the board where he or she proposes to issue a direction under this section.
 

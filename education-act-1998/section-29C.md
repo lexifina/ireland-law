@@ -1,6 +1,6 @@
 Review by board of decision to refuse admission.
 
-29C. (1) Subject to subsection (2) and prior to making an appeal under section 29(1)(c), an applicant—
+29C.—(1) Subject to subsection (2) and prior to making an appeal under section 29(1)(c), an applicant—
 
 (a) shall, in the case of an appeal under section 29(1)(c)(i), and
 

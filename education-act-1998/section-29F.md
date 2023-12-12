@@ -1,6 +1,6 @@
 Miscellaneous provisions in relation to appeals under section 29.
 
-29F. (1) An appeals committee shall refuse to hear or determine, or refuse to continue to hear or determine, an appeal under section 29 where—
+29F.—(1) An appeals committee shall refuse to hear or determine, or refuse to continue to hear or determine, an appeal under section 29 where—
 
 (a) it is of the opinion that the appeal is vexatious, frivolous, an abuse of process or without substance or foundation,
 
