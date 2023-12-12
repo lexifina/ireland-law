@@ -1,6 +1,6 @@
 F36[Provisions relating to staff.
 
-24.— (1) Subject to this section, the board of a recognised school—
+24.—(1) Subject to this section, the board of a recognised school—
 
 (a) shall, if not already appointed, appoint a person to be Principal of the school, and
 

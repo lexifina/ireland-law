@@ -1,6 +1,6 @@
 F64[Admission statement
 
-61. (1) Subject to subsection (2), the admission policy of a school shall include a statement (in this Part referred to as an ‘admission statement’) that the school shall not discriminate in its admission of a student to the school on—
+61.—(1) Subject to subsection (2), the admission policy of a school shall include a statement (in this Part referred to as an "admission statement") that the school shall not discriminate in its admission of a student to the school on—
 
 (a) the gender ground of the student or the applicant in respect of the student concerned,
 

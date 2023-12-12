@@ -1,6 +1,6 @@
 F76[Direction to board and appointment of independent person by patron
 
-68. (1) Subject to this section, the patron of a school may issue a direction to the board of a school and, where the board has failed to comply with the direction, the patron may appoint an independent person.
+68.—(1) Subject to this section, the patron of a school may issue a direction to the board of a school and, where the board has failed to comply with the direction, the patron may appoint an independent person.
 
 (2) A patron shall, by notice in writing, inform a board where he or she proposes to issue a direction under this section.
 

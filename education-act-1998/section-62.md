@@ -1,6 +1,6 @@
 F66[Admission policy
 
-62. (1) Subject to this Act, regulations under this Act and such terms and conditions as may be attached to recognition of a school by the Minister under section 10, the board of the school shall following consultation with the patron, parents of students attending the school, the staff of the school, and such other persons as the Minister may determine, prepare a draft admission policy in respect of the school.
+62.—(1) Subject to this Act, regulations under this Act and such terms and conditions as may be attached to recognition of a school by the Minister under section 10, the board of the school shall following consultation with the patron, parents of students attending the school, the staff of the school, and such other persons as the Minister may determine, prepare a draft admission policy in respect of the school.
 
 (2) (a) The first draft admission policy under subsection (1) shall be prepared by the board as soon as practicable and in any event not later than 3 months after the commencement of this subsection.
 
