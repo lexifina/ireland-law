@@ -1,6 +1,6 @@
 Designation of school by Council or Child and Family Agency.
 
-67. (1) In the case of a child with special educational needs, the Council may—
+67.—(1) In the case of a child with special educational needs, the Council may—
 
 (a) of its own volition, or
 
@@ -44,7 +44,7 @@ Designation of school by Council or Child and Family Agency.
 
 (c)The board on whom a notice is served under paragraph (a) may, not later than 10 days from the service of the notice, make representations in writing to the Council or Agency, as the case may be, in relation to the designation and proposed direction.
 
-(4B) The Council or Agency, as the case may be, may, after consideration of the representations (if any) made under subsection
+(4B) The Council or Agency, as the case may be, may, after consideration of the representations (if any) made under subsection (4A)(c), serve a direction on the board to admit the child concerned to the school designated under subsection (1) or (3), as the case may be, within such period as may be specified in the direction.
 
 (4C) The board shall comply with a direction served on it under subsection (4B).
 
