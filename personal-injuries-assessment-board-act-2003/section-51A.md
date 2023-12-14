@@ -1,6 +1,6 @@
 Costs in proceedings where assessment not accepted by claimant.
 
-51A.— (1) This section applies to a relevant claim if the following 2 conditions are satisfied in respect of that claim.
+51A.—(1) This section applies to a relevant claim if the following 2 conditions are satisfied in respect of that claim.
 
 (2) Those conditions are that—
 
@@ -18,9 +18,7 @@ Costs in proceedings where assessment not accepted by claimant.
 
 (3) Subject to subsections (6) and (7) and notwithstanding section 169 of the Legal Services Regulation Act 2015, if, as respects a relevant claim to which this section applies, a claimant brings proceedings in accordance with this Act, no award of costs nor any other order providing for payment of costs may be made in favour of the claimant where the amount of damages (if any) awarded on foot of, or accepted in settlement of, those proceedings does not exceed the amount of the assessment referred to in subsection (2).
 
-(3A)
-
-(a) Subject to subsections (6) and (7), if, as respects a relevant claim to which this section applies, a claimant brings proceedings in accordance with this Act a respondent, as the defendant in the relevant proceedings, shall be deemed to have made an offer of tender of payment pursuant to rules of court on the relevant date equal to the amount of the assessment in relation to the relevant claim concerned.
+(3A) (a) Subject to subsections (6) and (7), if, as respects a relevant claim to which this section applies, a claimant brings proceedings in accordance with this Act a respondent, as the defendant in the relevant proceedings, shall be deemed to have made an offer of tender of payment pursuant to rules of court on the relevant date equal to the amount of the assessment in relation to the relevant claim concerned.
 
 (b) Where the court finds that the defendant was not in a position to pay a sum equal to the amount of the assessment on the relevant date the court may, by special cause shown and mentioned in the order, direct that paragraph (a) shall not apply.
 
@@ -42,7 +40,7 @@ Costs in proceedings where assessment not accepted by claimant.
 
 (ii) one or more non-participating respondents (within the meaning of section 15), whether or not the proceedings are also against one or more non-accepting respondents (within the meaning of section 34).
 
-(5)Subsections (3) and (3A) apply notwithstanding sections 37 and 51.
+(5) Subsections (3) and (3A) apply notwithstanding sections 37 and 51.
 
 (6) Subsections (3) and (3A) do not apply if, in the proceedings referred to in that subsection—
 

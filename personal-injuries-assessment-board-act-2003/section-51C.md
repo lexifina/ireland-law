@@ -1,6 +1,6 @@
 Costs in proceedings where claimant or respondent does not comply with request of assessors.
 
-51C. (1) This section applies to a relevant claim where—
+51C.—(1) This section applies to a relevant claim where—
 
 (a) the assessors have requested the claimant to furnish to them additional information or documents pursuant to section 23(1) and the claimant has not complied with that request,
 
