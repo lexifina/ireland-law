@@ -2,9 +2,9 @@ Discretion of Board not to arrange for making of assessment.
 
 17.—(1) Despite—
 
-(a) the making by a respondent of a statement referred to in section 14(1)(a), or
+(a) the making by a respondent of a statement referred to in section 14(1)(c)(i), or
 
-(b) the fact that a failure by him or her of the kind referred to in section 14(1)(b) has occurred, the Board shall not be required to arrange for the making of an assessment under section 20 of the relevant claim concerned (or, as appropriate, shall discontinue any such assessment the making of which it has arranged) if—
+(b) the fact that a failure by him or her of the kind referred to in section 14(1)(c)(ii) has occurred, the Board shall not be required to arrange for the making of an assessment under section 20 of the relevant claim concerned (or, as appropriate, shall discontinue any such assessment the making of which it has arranged) if—
 
 (i) in its opinion, there does not exist, or there has not been previously entered into, in relation to the type of personal injury or injuries to which the relevant claim relates, a sufficient body of case law or, as the case may be, a sufficient number of settlements to which regard may be had by the assessors for the purpose of making such an assessment, or
 
@@ -34,9 +34,11 @@ Discretion of Board not to arrange for making of assessment.
 
 (ix) in its opinion, the relevant claim falls within a class of relevant claims where a settlement has been negotiated for the benefit of a minor or person of unsound mind (including a dependant minor or person of unsound mind where the relevant claim arises from fatal injuries) to be approved by the court.
 
+(1A) Despite the making by a respondent of a statement referred to in section 14(1)(a), the Board shall not be required to arrange for mediation under Chapter 1A of the relevant claim concerned (or, as appropriate, shall discontinue any such mediation which it has arranged) if any of paragraphs (i) to (ix) of subsection (1) applies in relation to the relevant claim concerned.
+
 (2) As soon as may be after the Board forms an opinion referred to in any of paragraphs (i) to (v) of subsection (1), the Board shall record that opinion in writing and the reasons therefor.
 
-(3) In addition to the grounds specified in subsection (1) for its not doing so, the Board may, in its discretion, decide not to arrange for the making of an assessment under section 20 of a relevant claim if a charge imposed by it pursuant to regulations under section 22(1) on a respondent has not been paid to it; any such decision shall be recorded in writing by the Board as soon as may be after it is made.
+(3) In addition to the grounds specified in subsection (1) for its not doing so, the Board may, in its discretion, decide not to arrange for the making of an assessment under section 20 or the carrying out of mediation under Chapter 1A of a relevant claim if a charge imposed by it pursuant to regulations under section 22(1) on a respondent has not been paid to it; any such decision shall be recorded in writing by the Board as soon as may be after it is made.
 
 (4) It shall be the duty of the Board, as soon as may be after recording an opinion or a decision referred to in subsection (1) or (3), to issue to the claimant concerned a document that contains the statement and operates to have the effect mentioned in subsection (6).
 

@@ -10,9 +10,9 @@ Presumption as to capacity of claimant and respondent.
 
 (3) Subject to subsection (4), if, during the course of the performance by the Board of its functions under this Part, a medical opinion in writing is furnished to the Board to the effect that the claimant or a respondent is not of sound mind then the presumption in subsection (1) shall be regarded as rebutted and the Board shall, as appropriate—
 
-(a) not arrange for the making of an assessment of the relevant claim concerned, or
+(a) not arrange for the making of an assessment of, or the carrying out of mediation in relation to, the relevant claim concerned, or
 
-(b) if any step in the making of that assessment, or consequent on the making of that assessment, has already been taken, cause no further step to be taken in the making of that assessment or consequent on its making, unless, in the case of such an opinion that has been furnished in respect of one or more than one of 2 or more respondents, no such opinion has been furnished in respect of the other or others or the claimant.
+(b) if any step in the making of that assessment or carrying out of that mediation, or consequent on the making of that assessment or carrying out of that mediation, has already been taken, cause no further step to be taken in the making of that assessment or carrying out of that mediation or consequent on its making or carrying out, unless, in the case of such an opinion that has been furnished in respect of one or more than one of 2 or more respondents, no such opinion has been furnished in respect of the other or others or the claimant.
 
 (4) Nothing in subsection (1) or paragraph (a) or (b) of subsection (3) applies if—
 

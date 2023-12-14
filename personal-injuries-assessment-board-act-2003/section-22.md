@@ -1,12 +1,14 @@
 Power to impose charges.
 
-22.—(1) The Minister may make regulations enabling the Board to impose the charges referred to in subsection (2) in respect of the dealing by the Board with an application under section 11 in relation to a relevant claim.
+22.—(1) The Board, with the consent of the Minister may, and if directed by the Minister to do so shall, make regulations enabling the Board to impose the charges referred to in subsection (2) in respect of the dealing by the Board with an application under section 11 in relation to a relevant claim.
 
 (2) Those charges are—
 
 (a) a charge on the claimant of an amount specified in the regulations under subsection (1),
 
-(b) a charge on the respondent or, as the case may be, each of the respondents of an amount specified in those regulations, and
+(b) a charge on the respondent or, as the case may be, each of the respondents of an amount specified in those regulations,
+
+(ba) a charge, additional to that referred to in paragraph (b), on the respondent or, as the case may be, each of the respondents of an amount specified in those regulations for failure to pay within the period provided for by those regulations, and
 
 (c) a charge, additional to that referred to in paragraph (b), on the respondent or, as the case may be, each of the respondents, for the purpose of defraying any amount of the expenses incurred by the Board, or on its behalf, in the making of the assessment concerned that, in its opinion, is of an exceptional kind.
 

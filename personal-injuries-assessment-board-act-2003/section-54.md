@@ -4,6 +4,8 @@ Functions of Board.
 
 (a) to arrange for the making, in accordance with this Act (including this Act as applied by section 19 of the Act of 2022), of assessments of relevant claims the subject of applications to it under section 11,
 
+(aa) to facilitate the resolution of relevant claims, within the meaning of Part 2, by mediation in accordance with Chapter 1A of that Part,
+
 (ab) to collect and publish on its website information in relation to personal injury claims, including information concerning personal injury awards provided for in the personal injuries guidelines (within the meaning of section 2 of the Judicial Council Act 2019 ),
 
 (ac) to conduct, or commission the conduct of, research, studies and analysis on such matters relating to the functions of the Board as the Board considers appropriate,
