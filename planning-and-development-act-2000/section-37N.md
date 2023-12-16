@@ -1,10 +1,10 @@
 Decision by Board on application under section 37L
 
-37N. (1) When making a decision in relation to an application under section 37L, the Board shall consider all information relating to the application provided to it under this Act and any matter to which, by virtue of this Act, it can have regard.
+37N.—(1) When making a decision in relation to an application under section 37L, the Board shall consider all information relating to the application provided to it under this Act and any matter to which, by virtue of this Act, it can have regard.
 
 (2) Without prejudice to the generality of subsection (1), the Board shall consider—
 
-(a)(i) any environmental impact statement or Natura impact statement submitted,
+(a)(i) any environmental impact assessment report or Natura impact statement submitted,
 
 (ii) any submissions or observations made to it,
 

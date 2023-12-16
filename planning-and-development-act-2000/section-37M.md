@@ -1,8 +1,8 @@
 Section 37L: supplemental provisions
 
-37M. (1) Before making a decision in relation to an application for permission under section 37L the Board may, at its absolute discretion and at any time—
+37M.—(1) Before making a decision in relation to an application for permission under section 37L the Board may, at its absolute discretion and at any time—
 
-(a) require the applicant for permission to submit further information, including a revised environmental impact statement or Natura impact statement,
+(a) require the applicant for permission to submit further information, including a revised environmental impact assessment report or Natura impact statement,
 
 (b) indicate that it is considering granting permission, subject to the applicant for permission submitting revised particulars, plans or drawings in relation to the development,
 

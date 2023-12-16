@@ -20,7 +20,9 @@ Fees payable to planning authorities.
 
 (ii) to planning authorities of prescribed fees in relation to any consultation or advice under section 247, ...
 
-(iii) to planning authorities of prescribed fees in relation to the provision of an LRD opinion, and
+(iii) to planning authorities of prescribed fees in relation to the provision of an LRD opinion,
+
+(iv) to planning authorities of prescribed fees in relation to the provision of an opinion or notification under section 32I, and
 
 (e) the payment to planning authorities of prescribed fees in relation to applications for grants of licences under section 254, and the regulations may provide for the payment of different fees in relation to cases of different classes or descriptions, for exemption from the payment of fees in specified circumstances, for the waiver, remission or refund (in whole or in part) of fees in specified circumstances and for the manner in which fees are to be disposed of.
 

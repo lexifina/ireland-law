@@ -1,6 +1,8 @@
 Report of planning authority.
 
-177I.— (1) No later than 10 weeks after receipt, under section 177E(5), by a planning authority of a copy of an application for substitute consent and a remedial environmental impact assessment report or a remedial Natura impact statement or both that report and that statement, as the case may be, and, where section 177E(2A)(b) applies, an environmental impact assessment report or Natura impact statement or both that report and that statement , as the case may be, a planning authority shall submit a report to the Board and the Board shall consider the report.
+177I.—(1) Subject to subsection (1A), no later than 10 weeks after receipt, under section 177E(5), by a planning authority of a copy of an application for substitute consent and a remedial environmental impact assessment report or a remedial Natura impact statement or both that report and that statement, as the case may be, and, where section 177E(2A)(b) applies, an environmental impact assessment report or Natura impact statement or both that report and that statement , as the case may be, a planning authority shall submit a report to the Board and the Board shall consider the report.
+
+(1A) Where section 177E(6) applies, the period of 10 weeks referred to in subsection (1) shall run from the date of receipt by the planning authority of the report or statement, as the case may be, under that section.
 
 (2) The report referred to in subsection (1) shall include the following:
 

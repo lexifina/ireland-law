@@ -1,6 +1,6 @@
 Request for LRD meeting.
 
-32B. (1) A prospective LRD applicant may, once he or she has consulted the appropriate planning authority or authorities in whose area or areas the proposed LRD would be situated in accordance with section 247, request an LRD meeting with that planning authority or authorities.
+32B.—(1) A prospective LRD applicant may, once he or she has consulted the appropriate planning authority or authorities in whose area or areas the proposed LRD would be situated in accordance with section 247, request an LRD meeting with that planning authority or authorities.
 
 (2) A request under subsection (1) shall be in writing, be accompanied by the appropriate fee and include—
 
@@ -45,3 +45,5 @@ Request for LRD meeting.
 (4) The planning authority may, prior to the LRD meeting taking place, consult with any person who may, in the opinion of the planning authority, have information that is relevant for the purposes of the LRD meeting in relation to a proposed development.
 
 (5) Where a planning authority consults with a person under subsection (4), a written record shall be taken of such a consultation and kept by the planning authority and a copy of such record shall be placed and kept with the documents to which any application in respect of that proposed development relates.
+
+(6) A request by a prospective LRD applicant under subsection (1) may include a request that the LRD meeting be treated as a meeting for the purposes of section 32I and such request shall comply with section 32H(2).

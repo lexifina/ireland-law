@@ -99,3 +99,7 @@ CONDITIONS WHICH MAY BE IMPOSED, ON THE GRANTING OF PERMISSION TO DEVELOP LAND, 
 33. Any condition restricting the occupation of any structure included in a development until the completion of other works included in the development or until any other specified condition is complied with or until the planning authority consents to such occupation.
 
 34. Any conditions relating to the protection of a protected structure or a proposed protected structure.
+
+35. A condition under section 34(4A), 37G(7A), 182B(5E), 182D(5E) or 293(4A) requiring that any detail of a development that was not confirmed at the time of the application for permission fall within specified options, parameters or a combination of options and parameters.
+
+36. A condition under section 34(4A), 37G(7A), 182B(5E), 182D(5E) or 293(4A) requiring the applicant to notify to a planning authority in writing, by such date prior to the commencement of the development, or prior to the commencement of the part of the development to which the detail relates, as the Minister may prescribe, of the actual detail of a development that was not confirmed at the time of the application for permission.

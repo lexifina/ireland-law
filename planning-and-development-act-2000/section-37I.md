@@ -1,12 +1,12 @@
 Regulations.
 
-37I.— (1) The Minister may make regulations to provide for such matters of procedure and administration as appear to the Minister to be necessary or expedient in respect of—
+37I.—(1) The Minister may make regulations to provide for such matters of procedure and administration as appear to the Minister to be necessary or expedient in respect of—
 
 (a) consultations under section 37B,
 
 (b) the giving of an opinion under section 37D,
 
-(c) applications for permission under section 37E, and
+(c) applications for permission under section 37E including applications accompanied by an opinion under section 37CD(2), and
 
 (d) decisions under section 37G.
 

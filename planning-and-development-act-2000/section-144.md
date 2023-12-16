@@ -14,13 +14,15 @@ Fees payable to Board.
 
 (c) an application for a consultation under section 37B, 181C, or 182E or under section 47B of the Act of 2001;
 
+(cc) the provision of an opinion or notification under section 37CD or 182G,
+
 (cd) the provision of an opinion or notification under section 287B,
 
 (d) a request under section 146B;
 
 (e) a request for a written opinion on the information to be contained in an environmental impact assessment under section 173(3), under section 39 of the Act of 2001 or under section 50 of the Roads Act 1993;
 
-(f) an application for leave to apply for substitute consent or an application for substitute consent under Part XA;
+(f) ... an application for substitute consent under Part XA;
 
 (g) submission of an environmental impact assessment report in accordance with a request by the Board to furnish same;
 

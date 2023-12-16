@@ -6,7 +6,7 @@ Prescribed
 
 ## PART XA SUBSTITUTE CONSENT
 
-"exceptional circumstances" shall be construed in accordance with section 177D(2);
+"exceptional circumstances" shall, other than in section 177K(2A)(b), be construed in accordance with section 177K(1J);
 
 "remedial environmental impact assessment report" shall be construed in accordance with section 177F;
 

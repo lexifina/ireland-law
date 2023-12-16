@@ -12,83 +12,41 @@ Decision of Board.
 
 (1A) (a) The Board shall not grant substitute consent (whether subject to conditions or not) unless it is satisfied that exceptional circumstances exist that would justify the grant of such consent by the Board.
 
-(b) When deciding whether or not to grant substitute consent, the Board shall not—
+(b) ...
 
-(i) be bound by,
+(c) ...
 
-(ii) take account of, or
+(1B) ...
 
-(iii) otherwise have regard to, any decision of the Board under section 177D as to the existence of exceptional circumstances in relation to an application under section 177C.
+(1C) ...
 
-(c) A member (including the chairperson) of the Board who participated in the making of a decision by the Board under section 177D to grant leave to apply for substitute consent shall not participate in the consideration of, or the making of a decision under this section in relation to, an application under section 177E made pursuant to the grant of leave concerned.
+(1D) ...
 
-(1B) Subsection (1A) shall apply to the following applications for substitute consent under section 177E:
+(1E) ...
 
-(a) applications made on or after the commencement of Part 2 of the Planning and Development, and Residential Tenancies, Act 2020; and
+(1F) ...
 
-(b) applications pending before the Board upon such commencement.
+(1G) ...
 
-(1C) (a) The Board shall, in relation to an application referred to in paragraph (b) of subsection (1B), invite the applicant concerned to give to the Board such information as the applicant considers material for the purposes of the Board’s satisfying itself as to the matter referred to in paragraph (a) of subsection (1A), and any such information shall be given to the Board by the applicant within such period as is specified in the invitation concerned.
+(1H) ...
 
-(b) The Board may—
+(1I) ...
 
-(i) in relation to an application referred to in paragraph (b) of subsection (1B), and
+(1J) In considering whether exceptional circumstances exist under subsection (1A)(a) the Board shall have regard to the following matters:
 
-(ii) in addition to any other information given, or required to be given, to the Board, in accordance with this Part, require the applicant concerned to give to the Board (within such period as is specified in the requirement) such information as the Board may reasonably require for the purposes of its satisfying itself as to the matter referred to in paragraph (a) of subsection (1A).
+(a) whether regularisation of the development concerned would circumvent the purpose and objectives of the Environmental Impact Assessment Directive or the Habitats Directive;
 
-(c) If an applicant for substitute consent fails or refuses to comply with a requirement under paragraph (b), the applicant shall be deemed to have withdrawn his or her application for such consent.
+(b) whether the applicant had or could reasonably have had a belief that the development was not unauthorised;
 
-(1D) The Board shall, in relation to an application for substitute consent referred to in paragraph (b) of subsection (1B)—
+(c) whether the ability to carry out an assessment of the environmental impacts of the development for the purpose of an environmental impact assessment or an appropriate assessment and to provide for public participation in such an assessment has been substantially impaired;
 
-(a) require the applicant concerned to publish a notice (which shall include notice of any information received by the Board pursuant to an invitation or requirement under subsection (1C)) in relation to the application concerned in accordance with regulations under section 177N (notwithstanding the publication of any other notice by the applicant at any time before the commencement of Part 2 of the Planning and Development, and Residential Tenancies, Act 2020),
+(d) the actual or likely significant effects on the environment or adverse effects on the integrity of a European site resulting from the carrying out or continuation of the development;
 
-(b) cause a copy of the application and any information received by the Board pursuant to an invitation or requirement under subsection (1C) to be made available—
+(e) the extent to which significant effects on the environment or adverse effects on the integrity of a European site can be remediated;
 
-(i) at the offices of the Board during normal business hours, for—
+(f) whether the applicant has complied with previous planning permissions granted or has previously carried out an unauthorised development;
 
-(I) inspection by members of the public, and
-
-(II) purchase by members of the public for such fee not exceeding the reasonable cost of making such copy, and
-
-(ii) on the internet website of the Board,
-
-(notwithstanding the application’s already having been made available for inspection or purchase by members of the public at any time before the commencement of Part 2 of the Planning and Development, and Residential Tenancies, Act 2020),
-
-(c) give notice (which shall include notice of any information received by the Board pursuant to an invitation or requirement under subsection (1C)) in accordance with regulations under section 177N to the prescribed bodies of the application concerned (notwithstanding the giving of notice of the application to the prescribed bodies at any time before the commencement of Part 2 of the Planning and Development, and Residential Tenancies, Act 2020),
-
-(d) give a copy of any information received by the Board pursuant to an invitation or requirement under subsection (1C) to the planning authority concerned (notwithstanding compliance by the Board with subsection (5) of section 177E before the commencement of Part 2 of the Planning and Development, and Residential Tenancies, Act 2020),
-
-(e) request the planning authority concerned—
-
-(i) to take account of any information received by the Board pursuant to an invitation or requirement under subsection (1C) when submitting a report to the Board in accordance with section 177I, or
-
-(ii) in circumstances where such report was submitted in accordance with section 177I before the making of the request, to—
-
-(I) amend the report so submitted, taking account of that information, and
-
-(II) submit the report as so amended to the Board not later than 5 weeks after receipt by the planning authority of that request, and
-
-(f) require the applicant to—
-
-(i) erect on the land on which the development concerned is situated, or affix to any structure on such land, a site notice in accordance with regulations under section 177N, and
-
-(ii) submit to the Board a copy of the said site notice, notwithstanding the erection on such land, or the affixing to any structure on such land, of a site notice in accordance with regulations under section 177N at any time before the commencement of Part 2 of the Planning and Development, and Residential Tenancies, Act 2020.
-
-(1E) A person who has made an application for substitute consent to which paragraph (b) of subsection (1B) applies shall comply with a requirement of the Board under subsection (1D).
-
-(1F) A planning authority of whom a request is made under subsection (1D) shall comply with that request.
-
-(1G) A planning authority shall enter in the register any information given to it by the Board under subsection (1D).
-
-(1H) The Board shall, in the making of a decision to grant or refuse substitute consent, consider any submissions or observations made in accordance with regulations under section 177N, including any such submissions or observations made in relation to an application for substitute consent referred to in paragraph (b) of subsection (1B) after compliance—
-
-(a) by the Board with subsection (1D),
-
-(b) by the applicant concerned with a requirement of the Board under that subsection, and
-
-(c) by the planning authority concerned with a request of the Board under that subsection.
-
-(1I) The Board may, for the purposes of enabling a planning authority to comply with subparagraph (i) of paragraph (e) of subsection (1D), extend the period under section 177I within which the planning authority shall submit a report to the Board in accordance with that section.
+(g) such other matters as the Board considers relevant.
 
 (2) When making its decision in relation to an application for substitute consent, the Board shall consider the proper planning and sustainable development of the area, regard being had to the following matters:
 
@@ -96,7 +54,7 @@ Decision of Board.
 
 (b) the provisions of any special amenity area order relating to the area;
 
-(c) the remedial environmental impact assessment report, or remedial Natura impact statement, or both that report and that statement, as the case may be, and, where section 177E(2A)(b) applies, the environmental impact assessment report or Natura impact statement or both that report and that statement , as the case may be, submitted with the application;
+(c) the remedial environmental impact assessment report, or remedial Natura impact statement, or both that report and that statement, as the case may be, and, where section 177E(2A)(b) applies, the environmental impact assessment report or Natura impact statement or both that report and that statement , as the case may be, submitted with the application or in accordance with a requirement under subsection (2CA), (2CB) or (2CC);
 
 (d) the significant effects on the environment, or on a European site, which have occurred or which are occurring or could reasonably be expected to occur because the development concerned was or is proposed to be carried out;
 
@@ -150,7 +108,15 @@ Decision of Board.
 
 (2C) The Board shall include, or refer to, in its decision under subsection (1) the main reasons and considerations, with reference to the relevant criteria listed in Schedule 7 to the Planning and Development Regulations 2001, on which the determination under subsection (2A) is based.
 
-(2D)(a) Paragraph (b) applies where the determination under subsection (2A) is that the development did not or would not be likely to have significant effects on the environment (and, accordingly, an environmental impact assessment is or was not required) and the applicant has provided, under article 227(2A) of the Planning and Development Regulations 2001, a description of the features, if any, of the development and the measures, if any, incorporated or envisaged, to avoid, prevent or reduce what might otherwise be or have been significant adverse effects on the environment of the development.
+(2CA) Where the applicant submitted a remedial Natura impact statement under section 177E(2), but did not submit a remedial environmental impact assessment report under that section, and the Board determines that an environmental impact assessment was required or is required, the Board shall require the applicant to submit such a report within a specified period.
+
+(2CB) Where the applicant submitted a remedial environmental impact assessment report under section 177E(2), but did not submit a remedial Natura impact statement under that section, and the Board determines that an appropriate assessment was required or is required, the Board shall require the applicant to submit such a statement within a specified period.
+
+(2CC) Where section 177E(2A)(b) applies and a remedial environmental impact assessment report or remedial Natura impact statement, as the case may be, was not submitted with an application but is subsequently required under subsection (2CA) or (2CB), the Board shall, in relation to the part of the development referred to in section 177E(2A)(b) that has not been carried out at the time of the application, require the applicant to submit an environmental impact assessment report or a Natura impact statement, as the case may be, within a specified period.
+
+(2CD) Where the Board requires the applicant to submit within a specified period a report under subsection (2CA), a statement under subsection (2CB), or a report or statement under subsection (2CC), and the report or statement is not submitted to it within that period, or within any further period that the Board may specify, the application shall be deemed to have been withdrawn by the applicant.
+
+(2D)(a) Paragraph (b) applies where the determination under subsection (2A) is that the development did not or would not be likely to have significant effects on the environment (and, accordingly, an environmental impact assessment is or was not required) and the applicant has provided, in accordance with the Planning and Development Regulations 2001, a description of the features, if any, of the development and the measures, if any, incorporated or envisaged, to avoid, prevent or reduce what might otherwise be or have been significant adverse effects on the environment of the development.
 
 (b) The Board shall specify such features, if any, and such measures, if any, in its decision under subsection (1).
 
@@ -158,7 +124,7 @@ Decision of Board.
 
 (i) attach such conditions, if any, to the grant as it considers necessary to avoid, prevent or reduce and, if possible, offset the significant adverse effects on the environment of the development,
 
-(ii) where the applicant has provided, under article 227(2A) of the Planning and Development Regulations 2001, a description of the features, if any, of the development and the measures, if any, incorporated or envisaged to avoid, prevent or reduce and, if possible, offset what might otherwise have been the significant adverse effects on the environment of the development, specify such features, if any, and such measures, if any, in the decision, and
+(ii) where the applicant has provided, in accordance with the Planning and Development Regulations 2001, a description of the features, if any, of the development and the measures, if any, incorporated or envisaged to avoid, prevent or reduce and, if possible, offset what might otherwise have been the significant adverse effects on the environment of the development, specify such features, if any, and such measures, if any, in the decision, and
 
 (iii) subject to paragraph (b), where appropriate, specify in the decision measures to monitor the significant adverse effects on the environment of the development (being measures, as regards the types of parameters to be monitored and the duration of the monitoring, that are proportionate to the nature, location and size of the development and the significance of the effects on the environment of the development).
 
@@ -178,21 +144,21 @@ Decision of Board.
 
 (a) the main reasons for and considerations on which the decision is made,
 
-(aa) the reasoned conclusion by the Board on the significant effects on the environment of the development, taking into account the results of the examination of the information contained in the remedial environmental impact assessment report or the environmental impact assessment report, or both such reports, as the case may be, and any supplementary information provided, where necessary, by the applicant in accordance with regulations under this Part and any relevant information received through consultations with prescribed authorities in accordance with regulations under this Part and, where appropriate, its own supplementary examination, and
+(aa) where an environmental impact assessment was carried out, the reasoned conclusion by the Board on the significant effects on the environment of the development, taking into account the results of the examination of the information contained in the remedial environmental impact assessment report or the environmental impact assessment report, or both such reports, as the case may be, and any supplementary information provided, where necessary, by the applicant in accordance with regulations under this Part and any relevant information received through consultations with prescribed authorities in accordance with regulations under this Part and, where appropriate, its own supplementary examination, and
 
 (b) where conditions are imposed in relation to the grant of substitute consent the main reasons for the imposition of any such conditions.
 
 (4A)(a) Where the decision under subsection (1) by the Board to impose a condition (being an environmental condition which arises from the consideration of the remedial environmental impact assessment report or the environmental impact assessment report concerned, or both such reports, as the case may be) in relation to the grant of substitute consent is materially different, in relation to the terms of such condition, from the recommendation in a report of a person assigned to report on the application on behalf of the Board, the Board shall, in its statement under subsection (4)(b), indicate the main reasons for not accepting, or for varying, as the case may be, the recommendation in the last-mentioned report in relation to such condition.
 
-(b) Where the decision under subsection (1) by the Board is to grant, subject to or without conditions, substitute consent, the Board shall cause the decision to be accompanied by a statement that the Board is satisfied that the reasoned conclusion on the significant effects on the environment of the development was up to date at the time of the taking of the decision.
+(b) Where an environmental impact assessment was carried out and the decision under subsection (1) by the Board is to grant, subject to or without conditions, substitute consent, the Board shall cause the decision to be accompanied by a statement that the Board is satisfied that the reasoned conclusion on the significant effects on the environment of the development was up to date at the time of the taking of the decision.
 
-(c) The Board shall include in its decision under subsection (1) a summary of the results of the consultations that have taken place and information gathered in the course of the environmental impact assessment concerned and, where appropriate, the comments received from an affected Member State of the European Union or other party to the Transboundary Convention, and specify how those results have been incorporated into the decision or otherwise addressed.
+(c) Where an environmental impact assessment was carried out, the Board shall include in its decision under subsection (1) a summary of the results of the consultations that have taken place and information gathered in the course of the environmental impact assessment concerned and, where appropriate, the comments received from an affected Member State of the European Union or other party to the Transboundary Convention, and specify how those results have been incorporated into the decision or otherwise addressed.
 
 (5) The Board shall also send a copy of its decision under subsection (1) to the planning authority in whose area the development the subject of the application for substitute consent is situated and to any person who made submissions or observations in relation to the application.
 
 (6) For the avoidance of doubt, there shall be no right to compensation under Part XII in respect of any of the following:
 
-(a) a decision by the Board under section 177D to refuse to grant leave to apply for substitute consent;
+(a) ...
 
 (b) a direction of the Board to cease all or part of an activity or operations under section 177J;
 

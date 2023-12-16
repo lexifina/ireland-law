@@ -1,6 +1,6 @@
 Direction by Board to cease activity or operations or take remedial measures.
 
-177L.— (1) Where the Board refuses an application for leave to apply for substitute consent under section 177D, or refuses to grant substitute consent under section 177K, it may give a draft direction in writing to the applicant concerned requiring him or her—
+177L.—(1) Where the Board ... refuses to grant substitute consent under section 177K, it may give a draft direction in writing to the applicant concerned requiring him or her—
 
 (a) to cease within the period specified in the draft direction, all or part of his or her activity or operations on or at the site of the development the subject of the application, where the Board forms the opinion that the continuation of all or part of the activity or operations is likely to cause significant adverse effects on the environment or adverse effects on the integrity of a European site, or
 

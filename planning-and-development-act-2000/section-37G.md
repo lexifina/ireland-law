@@ -1,6 +1,6 @@
 Decision by Board on application under section 37E.
 
-37G.— (1) When making a decision in respect of a proposed development for which an application is made under section 37E, the Board may consider any relevant information before it or any other matter to which, by virtue of this Act, it can have regard.
+37G.—(1) When making a decision in respect of a proposed development for which an application is made under section 37E, the Board may consider any relevant information before it or any other matter to which, by virtue of this Act, it can have regard.
 
 (2) Without prejudice to the generality of subsection (1), the Board shall consider—
 
@@ -59,6 +59,12 @@ Decision by Board on application under section 37E.
 (i) the construction or the financing, in whole or in part, of the construction of a facility, or
 
 (ii) the provision or the financing, in whole or in part, of the provision of a service, in the area in which the proposed development would be situated, being a facility or service that, in the opinion of the Board, would constitute a substantial gain to the community.
+
+(7A) Notwithstanding subsection (3), where the Board grants permission for a development on foot of an application accompanied by an opinion issued by the Board under section 37CD(2) the permission shall include a condition in respect of any detail of the development that was not confirmed at the time of the application requiring—
+
+(a) the actual detail to fall within specified options, parameters or a combination of options and parameters, and
+
+(b) the applicant to notify the planning authority in whose functional area or areas the development is situated in writing, by such date prior to the commencement of the development, or prior to the commencement of the part of the development to which the detail relates, as the Minister may prescribe, of the actual detail of the development.
 
 (8) A condition attached pursuant to subsection (7)(d) shall not require such an amount of financial resources to be committed for the purposes of the condition being complied with as would substantially deprive the person in whose favour the permission operates of the benefits likely to accrue from the grant of the permission.
 

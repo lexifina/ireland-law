@@ -1,6 +1,6 @@
 Section 182A: criteria for decision, certain exemptions, etc.
 
-182B.— (1) Before making a decision in respect of a proposed development the subject of an application under section 182A, the Board shall consider—
+182B.—(1) Before making a decision in respect of a proposed development the subject of an application under section 182A, the Board shall consider—
 
 (a) the environmental impact assessment report or Natura impact statement or both that report and that statement as the case may be submitted pursuant to section 182A(1) or (5), any submissions or observations made in accordance with section 182A(4) or (8) and any other information furnished in accordance with section 182A(5) relating to—
 
@@ -42,7 +42,7 @@ Section 182A: criteria for decision, certain exemptions, etc.
 
 (c) approve, in part only, the proposed development (with or without specified modifications of it of the foregoing kind), or
 
-(d) refuse to approve the proposed development, and may attach to an approval under paragraph (a), (b) or (c) such conditions as it considers appropriate.
+(d) refuse to approve the proposed development, and may attach to an approval under paragraph (a), (b) or (c) , subject to subsection (5D), such conditions as it considers appropriate.
 
 (5A) A decision of the Board under subsection (5) shall state—
 
@@ -74,6 +74,12 @@ Section 182A: criteria for decision, certain exemptions, etc.
 
 (5D) Where an applicant for permission fails to pay a sum in respect of costs in accordance with a requirement under subsection (5A)(c), the Board, the planning authority or any other person concerned (as may be appropriate) may recover the sum as a simple contract debt in any court of competent jurisdiction.
 
+(5E) Where the Board approves development under subsection (5) on foot of an application accompanied by an opinion issued by the Board under section 182G(2) it shall attach a condition in respect of any detail of the development that was not confirmed at the time of the application requiring—
+
+(a) the actual detail to fall within specified options or parameters or a combination of options and parameters, and
+
+(b) the applicant to notify the planning authority in whose functional area or areas the development is situated in writing, by such date prior to the commencement of the development, or prior to the commencement of the part of the development to which the detail relates, as the Minister may prescribe, of the actual detail of the development.
+
 (6) Without prejudice to the generality of the foregoing power to attach conditions, the Board may attach to an approval under subsection (5)(a), (b) or (c) a condition requiring—
 
 (a) the construction or the financing, in whole or in part, of the construction of a facility, or
@@ -82,7 +88,7 @@ Section 182A: criteria for decision, certain exemptions, etc.
 
 (7) A condition attached pursuant to subsection (6) shall not require such an amount of financial resources to be committed for the purposes of the condition being complied with as would substantially deprive the person in whose favour the approval under this section operates of the benefits likely to accrue from the grant of the approval.
 
-(8) The Minister may make regulations to provide for such matters of procedure and administration as appear to the Minister to be necessary or expedient in respect of applications under section 182A for approval.
+(8) The Minister may make regulations to provide for such matters of procedure and administration as appear to the Minister to be necessary or expedient in respect of applications under section 182A for approval including applications accompanied by an opinion under section 182G(2).
 
 (9) Without prejudice to the generality of subsection (8), regulations under that subsection may require the Board to give information in respect of its decision regarding the proposed development for which approval is sought.
 

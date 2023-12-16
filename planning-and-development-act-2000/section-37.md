@@ -2,7 +2,7 @@ Appeal to Board.
 
 37.—(1) (a) An applicant for permission and any person who made submissions or observations in writing in relation to the planning application to the planning authority in accordance with the permission regulations and on payment of the appropriate fee, may, at any time before the expiration of the appropriate period, appeal to the Board against a decision of a planning authority under section 34.
 
-(b) Subject to paragraphs (c) and (d), where an appeal is brought against a decision of a planning authority and is not withdrawn, the Board shall determine the application as if it had been made to the Board in the first instance and the decision of the Board shall operate to annul the decision of the planning authority as from the time when it was given; and subsections (1), (2), (3) and (4) of section 34 shall apply, subject to any necessary modifications, in relation to the determination of an application by the Board on appeal under this subsection as they apply in relation to the determination under that section of an application by a planning authority.
+(b) Subject to paragraphs (c) and (d), where an appeal is brought against a decision of a planning authority and is not withdrawn, the Board shall determine the application as if it had been made to the Board in the first instance and the decision of the Board shall operate to annul the decision of the planning authority as from the time when it was given; and subsections (1), (2), (3), (4), and (4A) of section 34 shall apply, subject to any necessary modifications, in relation to the determination of an application by the Board on appeal under this subsection as they apply in relation to the determination under that section of an application by a planning authority.
 
 (c) Paragraph (b) shall be construed and have effect subject to sections 133, 138 and 139.
 
@@ -83,3 +83,15 @@ Appeal to Board.
 (h) Where leave to appeal is granted under this subsection, subsection (2) of section 126 shall apply subject to the modification that the reference therein to 18 weeks shall be construed as a reference to 14 weeks.
 
 (i) Where leave to appeal is granted under this section, a planning authority that has complied with paragraph (c) shall, in respect of the appeal, be deemed to have complied with the requirements of section 128.
+
+(7) Subject to the modification referred to in subsection (8), and any other necessary modifications, subsections (12) and (12A) of section 34 apply to the consideration by the Board of an application on appeal under subsection (1) against a decision of the planning authority.
+
+(8) The modification is that the reference in section 34(12) to the planning authority shall be construed as a reference to the Board.
+
+(9) Where the Board refuses under section 34(12), as applied by subsection (7), to consider an application on appeal—
+
+(a) it shall give the reasons for the refusal to the person who made the appeal,
+
+(b) the application on appeal shall be deemed to have been withdrawn by the applicant for permission, and
+
+(c) the refusal shall operate to annul the decision of the planning authority as from the time when that decision was given.
