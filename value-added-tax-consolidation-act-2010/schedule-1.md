@@ -134,7 +134,7 @@ Financial services.
 
 6. (1) Financial services that consist of any of the following:
 
-(a) issuing, transferring or otherwise dealing in stocks, shares, debentures and other securities (other than documents establishing title to goods);
+(a) ... transferring or otherwise dealing in stocks, shares, debentures and other securities (other than documents establishing title to goods);
 
 (b) arranging for, or underwriting, an issue of stocks, shares, debentures and other securities (other than documents establishing title to goods);
 
@@ -172,7 +172,7 @@ Financial services.
 
 (ec) an undertaking for collective investment in transferable securities (within the meaning of Article 1 of Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009) which has been authorised by the competent authority (as defined in point (h) of Article 2(1) of that Directive) of another Member State;
 
-(ed) an EU AIF (as defined in point (k) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011) managed by an AIFM (as defined in point (b) of Article 4(1) of that Directive) which has been authorised by the competent authority (as defined in point (g) of Article 4(1) of that Directive) of another Member State;
+(ed) an EU AIF (as defined in point (k) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011) managed by an AIFM (as defined in point (b) of Article 4(1) of that Directive) which has been authorised by the competent authority (as defined in point (f) of Article 4(1) of that Directive) of another Member State;
 
 (f) any other undertaking that is determined by the Minister to be a collective investment undertaking for the purposes of this subparagraph.
 
@@ -218,11 +218,11 @@ Gambling and lotteries.
 
 Letting of immovable goods.
 
-11. (1) The letting of immovable goods, but not including any of the following:
+11. (1) The letting of immovable goods , including a letting of emergency accommodation, but excluding any of the following:
 
 (a) letting machinery or a business installation when let separately from any other immovable goods of which the machinery or installation forms part;
 
-(b) supplies of the kind to which paragraph 11 of Schedule 3 relates;
+(b) supplies of the kind to which paragraph 11 of Schedule 3 relates, except where such supplies are used or to be used as emergency accommodation;
 
 (c) providing facilities for taking part in sporting activities of the kind to which subparagraph (1) or (1A) of paragraph 12 of Schedule 3 relates;
 
@@ -273,3 +273,5 @@ Imports by certain international bodies
 (b) In this subparagraph, "Covid-19" has the same meaning as in the Emergency Measures in the Public Interest (Covid-19) Act 2020 .
 
 (2) The importation of goods by international bodies, other than those referred to in subparagraph (1), recognised as such by the host Member State, or by members of such bodies, within the limits and under the conditions laid down by the international conventions establishing the bodies or by the agreements between the headquarters of those bodies and the host Member State of the headquarters.
+
+(3) The importation of goods by the armed forces of a Member State other than the State for the use of those forces or the civilian staff accompanying those forces or for supplying their messes or canteens, when such forces take part in a defence effort carried out for the implementation of a European Union activity under the European Union common security and defence policy.
