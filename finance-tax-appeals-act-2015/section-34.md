@@ -6,9 +6,7 @@ Appeals to Tax Appeals Commission under Act of 1997
 
 34. The Act of 1997 is amended by inserting the following Part after Part 40—
 
-Appeals to Appeals Commissioners
-
-Chapter 1
+Appeals to Appeals Commissioners Chapter 1
 
 ## “Part 40A Interpretation and General
 
