@@ -22,6 +22,8 @@ Independence of Revenue Commissioners.
 
 (eb) Part 22B of the Taxes Consolidation Act 1997,
 
+(ec) Part 4A of the Taxes Consolidation Act 1997,
+
 (f) any statute relating to the duties of excise or the management of those duties,
 
 (g) the Stamp Duties Consolidation Act 1999 or any statute amending, or extending the application of, that Act,
