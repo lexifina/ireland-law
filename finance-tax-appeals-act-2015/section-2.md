@@ -20,7 +20,7 @@ Interpretation
 
 (b) the Capital Gains Tax Acts (within the meaning of section 1 of the Act of 1997),
 
-(c) Parts 18A to 18D of the Act of 1997,
+(c) Parts 4A, 18A to 18D and 22A of the Act of 1997,
 
 (ca) Part 22B of the Act of 1997,
 
@@ -34,4 +34,6 @@ Interpretation
 
 (h) the Customs Act 2015, and the enactments amending or extending that Act,
 
-(i) the Finance (Local Property Tax) Act 2012, and the enactments amending or extending that Act, and any instrument made thereunder and any instrument that is made under any other enactment and which relates to tax (including in respect of stamp duties and of duties relating to customs and excise).
+(i) the Finance (Local Property Tax) Act 2012, and the enactments amending or extending that Act,
+
+(j) the Energy (Windfall Gains in the Energy Sector) (Temporary Solidarity Contribution) Act 2023, and any instrument made thereunder and any instrument that is made under any other enactment and which relates to tax (including in respect of stamp duties and of duties relating to customs and excise).
