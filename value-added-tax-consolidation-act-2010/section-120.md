@@ -30,9 +30,9 @@ Regulations.
 
 (b) the circumstances or conditions under which a supply may or may not be treated as an ancillary supply, a composite supply, an individual supply, a multiple supply or a principal supply,
 
-(c) a relatively small amount, or an element of a supply, which may be disregarded for the purposes of applying section 47,
+(c) a relatively small amount, or an element of a supply, which may be disregarded for the purposes of applying section 47.
 
-(d) the manner in which a determination may be made for the purposes of section 51.
+(d) ...
 
 (7) As regards Part 7, regulations may ...—
 
@@ -162,7 +162,9 @@ Regulations.
 
 (j) the manner in which the import scheme (within the meaning of section 91A) shall operate,
 
-(k) the manner in which the special arrangements for value-added tax on import (within the meaning of section 91H) shall operate.
+(k) the manner in which the special arrangements for value-added tax on import (within the meaning of section 91H) shall operate,
+
+(l) the accounting for tax due and payable pursuant to section 92A in relation to the deposit return scheme (within the meaning of section 92A), including the method for calculating that tax.
 
 (11) As regards Part 11, regulations may provide for—
 
