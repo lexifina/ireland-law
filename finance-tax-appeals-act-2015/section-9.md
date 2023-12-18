@@ -16,9 +16,9 @@ Temporary Commissioners
 
 (6) The following provisions of this Act shall not apply to a temporary Commissioner, namely —
 
-(a) section 8 ,
+(a) section 8,
 
-(b) section 12 , but this exclusion applies only to a temporary Commissioner appointed under subsection (1),
+(b) section 12, but this exclusion applies only to a temporary Commissioner appointed under subsection (1),
 
 (c) sections 13 and 14, and
 
