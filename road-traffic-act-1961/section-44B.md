@@ -1,3 +1,3 @@
-Motorway Speed Limit.
+Motorway Speed Limit. (Repealed)
 
 44B.—...
