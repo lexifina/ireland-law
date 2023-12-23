@@ -1,4 +1,4 @@
-F53[Grant of Irish driving licence.
+F61[Grant of Irish driving licence.
 
 23.—(1) Where an application is duly made for an Irish driving licence, the licensing authority shall grant the licence unless it appears to them—
 
