@@ -4,7 +4,7 @@ Approved guarantee.
 
 (a) it is issued by a vehicle insurer or a vehicle guarantor to a person (in this Act referred to as the principal debtor) named therein;
 
-(b) the insurer or guarantor by whom it is issued binds himself by it to guarantee the payment by the principal debtor or his personal representative of all sums without limit which the principal debtor or his personal representative shall become liable to pay to any person (exclusive of the excepted persons) whether by way of damages or costs on account of injury to person or property caused by the negligent use during the period (in this Act referred to as the period of cover) specified in that behalf in the guarantee, of a mechanically propelled vehicle to which the guarantee relates, by the principal debtor or by any of such other persons (if any) as are mentioned or otherwise indicated in that behalf in the guarantee;
+(b) the insurer or guarantor by whom it is issued binds himself by it to guarantee the payment by the principal debtor or his personal representative of all sums without limit which the principal debtor or his personal representative shall become liable to pay to any person (exclusive of the excepted persons) whether by way of damages or costs on account of injury to person or property caused by the negligent use during the period (in this Act referred to as the period of cover) specified in that behalf in the guarantee, of a vehicle to which the guarantee relates, by the principal debtor or by any of such other persons (if any) as are mentioned or otherwise indicated in that behalf in the guarantee;
 
 (c) the liability under the guarantee of the insurer or guarantor by whom it is issued is not subject to any condition, restriction, or limitation prescribed as not to be inserted in an approved guarantee; and
 
@@ -18,4 +18,4 @@ Approved guarantee.
 
 (b) the exception therefrom of any liability (in excess of the common law or the statutory liability applicable to the case) undertaken by the principal debtor by special contract.
 
-(4) An approved guarantee issued by a vehicle insurer shall, for the purposes of sections 25, 26 and 27 of the Insurance Act, 1936, be regarded as if it were a policy issued by the insurer in the course of carrying on mechanically propelled vehicle insurance business within the meaning of section 3 of that Act.
+(4) An approved guarantee issued by a vehicle insurer shall, for the purposes of sections 25, 26 and 27 of the Insurance Act, 1936, be regarded as if it were a policy issued by the insurer in the course of carrying on vehicle insurance business within the meaning of section 3 of that Act.

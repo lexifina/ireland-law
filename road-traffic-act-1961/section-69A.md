@@ -2,9 +2,25 @@ Insurance of certain vehicles entering the State.
 
 69A.—(1) In this section—
 
-“vehicle” means any mechanically propelled vehicle intended for travel on land and any trailer whether or not coupled;
+"authorised official" means an officer of the Revenue Commissioners or a member of the Garda Síochána;
 
-“authorised official” means an officer of the Customs and Excise or a member of the Garda Síochána.
+"vehicle" means—
+
+(a) any motor vehicle propelled exclusively by mechanical power on land but not running on rails with—
+
+(i) a maximum design speed of more than 25 km/h, or
+
+(ii) a maximum net weight of more than 25 kg and a maximum design speed of more than 14 km/h, or
+
+(b) any trailer to be used with a vehicle referred to in paragraph (a), whether coupled or uncoupled, but does not include a wheelchair vehicle exclusively intended for use by a person with a physical disability.
+
+(2) An authorised official may demand of a person having charge of a vehicle, being a vehicle, which is not normally—
+
+(a) based in the State,
+
+(b) based in any of the designated territories, or
+
+(c) having entered the State from the territory of another Member State, when entering the State with the vehicle or having so entered, to produce evidence that the use of the vehicle in the State and in the designated territory is covered by insurance in accordance with the requirements of the laws of the State and of the designated territories relating to compulsory insurance against civil liability in respect of the use of vehicles and if on such demand having been made such evidence is not produced the vehicle shall not be used in the State.
 
 (2) An authorised official may demand of a person having charge of a vehicle, being a vehicle which is not normally based in the State or in any of the designated territories, when entering the State with the vehicle or having so entered, to produce evidence that the use of the vehicle in the State and in the designated territories is covered by insurance in accordance with the requirements of the laws of the State and of the designated territories relating to compulsory insurance against civil liability in respect of the use of vehicles and if on such demand having been made such evidence is not produced the vehicle shall not be used in the State.
 

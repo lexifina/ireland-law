@@ -1,0 +1,3 @@
+Non-application of Part to motorsports events, etc.
+
+81A.—This Part does not apply to the use of a vehicle in motorsports events and activities, including races, competitions, training, testing and demonstrations in restricted and demarcated areas, where the local authority (within the meaning of the Local Government Act 2001) in whose functional area the event or activity takes place ensures that the organiser of the event or activity or any other party has taken out an alternative insurance or guarantee policy covering the damage to any third party, including spectators and other bystanders.
