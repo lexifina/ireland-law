@@ -28,6 +28,6 @@ Certificates of fitness
 
 (II) in any other case—that the applicant is fit to drive any specified class or classes of mechanically propelled vehicle, being a class or classes in respect of which a certificate of fitness to drive was applied for and which the issuing authority is satisfied that the applicant is fit to drive, but, where the issuing authority so thinks proper, it may defer a decision under this subsection pending production by the applicant of a certificate of competency.
 
-(5) (a) A person aggrieved by a decision under subsection (4) of this section or the deferring of such decision may appeal to a Justice of the District Court having jurisdiction in the place in which such person ordinarily resides, and the Justice may either refuse the appeal or give such direction to the issuing authority as he considers just, and the issuing authority shall comply with any such direction.
+(5) (a) A person aggrieved by a decision under of this section or the deferring of such decision may appeal to a Justice of the District Court having jurisdiction in the place in which such person ordinarily resides, and the Justice may either refuse the appeal or give such direction to the issuing authority as he considers just, and the issuing authority shall comply with any such direction.
 
 (b) A decision under this subsection of a Justice of the District Court shall be final and not appealable.

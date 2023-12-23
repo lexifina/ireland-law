@@ -1,0 +1,3 @@
+Endorsement of revocation of driving licence on license record relating to holder.
+
+23D.— ...
