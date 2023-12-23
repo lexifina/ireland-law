@@ -2,7 +2,7 @@
 
 Obligation to be insured or guaranteed.
 
-56.—(1) A person (in this subsection referred to as the user) shall not use in a public place a mechanically propelled vehicle unless either a vehicle insurer, a vehicle guarantor or an exempted person would be liable for injury caused by the negligent use of the vehicle by him at that time or there is in force at that time either—
+56.—(1) A person (in this subsection referred to as the user) shall not use in a public place a vehicle unless either a vehicle insurer, a vehicle guarantor or an exempted person would be liable for injury caused by the negligent use of the vehicle by him at that time or there is in force at that time either—
 
 (a) an approved policy of insurance whereby the user or some other person who would be liable for injury caused by the negligent use of the vehicle at that time by the user, is insured against all sums without limit (save as is hereinafter otherwise provided) which the user or his personal representative or such other person or his personal representative shall become liable to pay to any person ... by way of damages or costs on account of injury to person or property caused by the negligent use of the vehicle at that time by the user, or
 
@@ -10,11 +10,13 @@ Obligation to be insured or guaranteed.
 
 (2) The insurance required by this section may be subject to the following limitation and the following exception or either of them—
 
-(a) it may, in so far as it relates to injury to property, be limited to the sum of €1,220,000 per claim, whatever the number of victims,
+(a) it may, in so far as it relates to injury to property, be limited to the sum of €1,300,000 per claim, whatever the number of injured parties,
 
 (b) there may be excepted from the liability covered thereby any liability (in excess of the common law or the statutory liability applicable to the case) undertaken by the insured or the principal debtor by special contract.
 
 (2A) An approved policy of insurance referred to in paragraph (a) of subsection (1) of this section shall extend to damages or costs on account of injury to persons or property incurred by the negligent use of a mechanically propelled vehicle by the user in any of the designated territories to the extent required by the law relating to compulsory insurance against civil liability in respect of the use of mechanically propelled vehicles of the territory where the damages or costs may be incurred, or to the extent required by this Part of this Act, whichever is the greater.
+
+(2B) An approved policy of insurance referred to in paragraph (a) of subsection (1) shall extend to any use of a vehicle that is consistent with the vehicle’s function as a means of transport at the time of the accident irrespective of the vehicle’s characteristics and irrespective of the terrain on which the motor vehicle is used and of whether it is stationary or in motion.
 
 (3) Where a person contravenes subsection (1) of this section, he and, if he is not the owner of the vehicle, such owner shall each be guilty of an offence and shall be liable on summary conviction to a fine not exceeding €5,000 or, at the discretion of the court, to imprisonment for any term not exceeding six months or to both such fine and such imprisonment.
 
@@ -30,7 +32,7 @@ Obligation to be insured or guaranteed.
 
 (7) ...
 
-(8) In this Part a reference to the territory in which a vehicle is normally based is a reference to—
+(8) In this Part a reference to the use of a vehicle in the territory in which the vehicle is normally based is a reference to—
 
 (a) the territory of the state of which the vehicle bears a registration plate, irrespective of whether the plate is permanent or temporary,
 
@@ -38,10 +40,22 @@ Obligation to be insured or guaranteed.
 
 (c) in a case where a registration or insurance plate or distinguishing sign is not required for a vehicle, the territory of the state in which the person who has custody of the vehicle is resident.
 
-(9) In this Part —
+(9) In this Part—
 
-"designated territories" means the territories of the Member States (other than the State) and Croatia, Iceland, Norway and Switzerland;
+"designated territories" means the territories of the Member States (other than the State) and Iceland, Norway and Switzerland;
 
-"mechanically propelled vehicle" includes a semi-trailer or trailer when used in a public place.
+"party injured" and "injured party" means any person entitled to compensation in respect of any loss or injury caused by vehicles;
+
+"use of a vehicle" means any use of a vehicle that is consistent with the vehicle’s function as a means of transport at the time of the accident, irrespective of the vehicle’s characteristics and irrespective of the terrain on which the motor vehicle is used and of whether it is stationary or in motion;
+
+"vehicle" means—
+
+(a) any motor vehicle propelled exclusively by mechanical power on land but not running on rails with—
+
+(i) a maximum design speed of more than 25 km/h, or
+
+(ii) a maximum net weight of more than 25 kg and a maximum design speed of more than 14 km/h, or
+
+(b) any trailer to be used with a vehicle referred to in paragraph (a), whether coupled or uncoupled, but does not include a wheelchair vehicle exclusively intended for use by a person with a physical disability.
 
 (10) ...

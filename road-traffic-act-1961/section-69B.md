@@ -1,0 +1,7 @@
+F207[Insurance of certain trailers towed by a vehicle
+
+69B.—(1) In the case of an accident caused by a set of vehicles consisting of a vehicle towing a trailer, which is not normally based in the State, where the trailer has separate third-party liability insurance, the injured party may bring their claim directly against the insurance undertaking that insured the trailer where the trailer can be identified, but the vehicle towing it cannot be identified and the national law of another Member State provides for the insurer of the trailer to provide compensation.
+
+(2) An insurance undertaking that has compensated the injured party shall have recourse to the undertaking that insured the towing vehicle, or to the compensation body if and to the extent that this is provided for under the applicable national law of another Member State.
+
+(3) In the case of an accident caused by a set of vehicles consisting of a vehicle towing a trailer, which is not normally based in the State, the insurer of the trailer, unless the applicable national law of another Member State requires it to provide full compensation, shall, at the request of the injured party, inform him or her without undue delay of the identity of the insurer of the towing vehicle; or where the insurer of the trailer cannot identify the insurer of the towing vehicle, the compensation mechanism provided under the Agreement dated 29 January 2009 between the Minister for Transport and the Motor Insurers’ Bureau of Ireland.

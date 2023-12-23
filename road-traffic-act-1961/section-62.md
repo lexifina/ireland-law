@@ -8,13 +8,13 @@ Approved policy of insurance.
 
 (c) the liability of the insurer under the policy is not subject to any condition, restriction, or limitation prescribed as not to be inserted in an approved policy of insurance; ...
 
-(cc) The liability of the insurer extends, in addition to the negligent use of the mechanically propelled vehicle in the State, to the negligent use of the vehicle in the designated territories according to the law relating to compulsory insurance against civil liability in respect of the use of mechanically propelled vehicles in force in those territories or to the extent required by this Part, whichever is the greater;
+(cc) The liability of the insurer extends, in addition to the negligent use of the vehicle in the State, to the negligent use of the vehicle in the designated territories according to the law relating to compulsory insurance against civil liability in respect of the use of mechanically propelled vehicles in force in those territories or to the extent required by this Part, whichever is the greater;
 
 (d) the period of cover is not capable of being terminated before its expiration by effluxion of time by the insurer save either with the consent of the insured or after seven days’ notice in writing to the insured; and
 
-(e) the liability of the insurer extends to any loss or injury suffered by the victim, due to the negligent use of a mechanically propelled vehicle, during a direct journey between two Member States, if there is no national insurers’ bureau responsible for the territory which is being crossed in accordance with the law relating to compulsory insurance against civil liability in respect of the use of mechanically propelled vehicles in that territory.
+(e) the liability of the insurer extends to any loss or injury suffered by the injured party, due to the negligent use of a vehicle, during a direct journey between two Member States, if there is no national insurers’ bureau responsible for the territory which is being crossed in accordance with the law relating to compulsory insurance against civil liability in respect of the use of vehicles in the territory.
 
-(1A) For the purpose of this Part a policy of insurance issued in accordance with the laws on compulsory insurance in force in any of the designated territories, other than the State, in respect of a mechanically propelled vehicle normally based in that territory is an approved policy of insurance.
+(1A) For the purpose of this Part a policy of insurance issued in accordance with the laws on compulsory insurance in force in any of the designated territories, other than the State, in respect of a vehicle normally based in that territory is an approved policy of insurance.
 
 (2) A policy of insurance which complies with the conditions specified in subsection (1) of this section shall not be prevented from being an approved policy of insurance merely by reason of its containing provisions additional to and not inconsistent with the provisions required by those conditions.
 
