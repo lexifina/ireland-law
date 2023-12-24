@@ -1,10 +1,10 @@
 Offence of exceeding speed limit.
 
-47.—(1) A person shall not drive a mechanically propelled vehicle at a speed exceeding the speed limit—
+47.—(1) A person shall not drive a mechanically propelled vehicle or a powered personal transporter at a speed exceeding the speed limit—
 
-(a) that applies in respect of that vehicle, or
+(a) that applies in respect of that vehicle or transporter, as the case may be, or
 
-(b) that applies to the road on which the vehicle is being driven where that speed limit is lower than that applying to that vehicle.
+(b) that applies to the road on which the vehicle or transporter is being driven where that speed limit is lower than that applying to that vehicle , or transporter, as the case may be.
 
 (2) A person who contravenes subsection (1) is guilty of an offence.
 
