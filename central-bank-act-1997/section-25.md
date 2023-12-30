@@ -20,6 +20,4 @@ Obligation of regulated service provider to provide compliance statement when re
 
 (8) In this section—
 
-‘notice’ means a notice in writing served under this section;
-
-‘required period’, in relation to a notice served on a regulated financial service provider, means the period specified in the notice within which the service provider must comply with the notice or, if the Bank extends that period, that extended period.
+‘notice’ means a notice in writing served under this section; ‘required period’, in relation to a notice served on a regulated financial service provider, means the period specified in the notice within which the service provider must comply with the notice or, if the Bank extends that period, that extended period.

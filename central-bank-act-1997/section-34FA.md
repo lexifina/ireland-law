@@ -1,4 +1,4 @@
-Transitional
+Transitional provision for existing credit servicing firms: supplementary.
 
 34FA. (1) Notwithstanding section 29, a person (other than a regulated financial service provider taken to be authorised to carry on the business of a credit servicing firm by virtue of section 28(3) or a person taken to be carrying on the business of a credit servicing firm by virtue of section 28(4)) carrying on the business of a credit servicing firm, in so far as that business relates to credit servicing within the meaning of subparagraph (i), (ii)(III)(I) or (ii)(III)(J), as the case may be, of paragraph (a) of the definition of "credit servicing" in section 28(1) (in this subsection referred to as "the specified matters"), immediately before the coming into operation of the Consumer Protection (Regulation of Credit Servicing Firms) Act 2018, is taken to be authorised to carry on the business of a credit servicing firm, in so far as that business relates to the specified matters, after such coming into operation until the Bank has granted or refused authorisation to the person, provided that—
 
