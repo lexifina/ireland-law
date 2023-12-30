@@ -2,11 +2,9 @@ Amendment of section 27 of Investment Intermediaries Act, 1995.
 
 44. — The Investment Intermediaries Act, 1995, is hereby amended by the substitution of the following section for section 27:
 
-27.— A person shall not act as or hold himself out to be an investment product intermediary unless he holds an appointment in writing from each product producer for which he is an intermediary, and unless— “
+27.— A person shall not act as or hold himself out to be an investment product intermediary unless he holds an appointment in writing from each product producer for which he is an intermediary, and unless—
 
-Requirements
-
-(a) he is a member of any approved representative body specified for this for purpose by the supervisory authority whose rules require compliance investment product with the terms of this Act, or intermediaries.
+(a) he is a member of any approved representative body specified for this purpose by the supervisory authority whose rules require compliance with the terms of this Act, or
 
 (b) he is a certified person, or
 

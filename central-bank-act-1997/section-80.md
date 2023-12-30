@@ -4,9 +4,9 @@ Amendment of Trustee (Authorised Investments) Act, 1958.
 
 (a) by the substitution of the following section for section 2:
 
-2.— (1) The Minister for Finance may by order vary by addition or deletion and may specify such conditions as he considers proper in respect of the “Variation investment of trust funds in— by order of authorised
+2.— (1) The Minister for Finance may by order vary by addition or deletion and may specify such conditions as he considers proper in respect of the investment of trust funds in—
 
-(a) the investments specified in section 1 (as amended by section 1 of investments. this Act) of the Trustee Act, 1893, or
+(a) the investments specified in section 1 (as amended by section 1 of this Act) of the Trustee Act, 1893, or
 
 (b) where those investments have been varied by order under this subsection or under any other statutory authority, those investments as so varied.
 
@@ -30,7 +30,7 @@ Amendment of Trustee (Authorised Investments) Act, 1958.
 
 (b) by the substitution of the following section for section 5:
 
-“Saver 5.— (1) Notwithstanding anything contained in this Act where trust funds for within the meaning of the Trustee Act, 1893, or money under the control of certain or subject to the order of any Court stand or stands invested in a manner investments. which was authorised by law when the investment was effected but which, apart from this section, has ceased to be so authorised, authority is hereby given to continue to keep the funds or money invested in that manner.
+5.— (1) Notwithstanding anything contained in this Act where trust funds within the meaning of the Trustee Act, 1893, or money under the control of or subject to the order of any Court stand or stands invested in a manner which was authorised by law when the investment was effected but which, apart from this section, has ceased to be so authorised, authority is hereby given to continue to keep the funds or money invested in that manner.
 
 (2) Where any condition specified in any order made under this Act would have the effect of requiring a trustee to dispose of any investment which was not in breach of any condition specified in any order made under this Act at the time the investment was effected, such trustee is hereby authorised to retain such investment.
 
