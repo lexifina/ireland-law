@@ -24,6 +24,8 @@ Person prohibited from carrying on regulated business without authorisation.
 
 (b) an excepted person shall not be treated as carrying on a regulated business as a debt management firm,
 
-(c) a person referred to in paragraphs (a) to (g) of the definition of "retail credit firm" in section 28(1) shall not be treated as carrying on a regulated business as a retail credit firm, and
+(c) a person referred to in paragraphs (a) to (g) of the definition of "retail credit firm" in section 28(1) shall not be treated as carrying on a regulated business as a retail credit firm,
 
-(d) a securitisation special purpose entity referred to in section 28(2A) or (2B) shall not be treated as carrying on a regulated business as a retail credit firm.
+(d) a securitisation special purpose entity referred to in section 28(2A) or (2B) shall not be treated as carrying on a regulated business as a retail credit firm, and
+
+(e) a credit servicer, credit service provider, credit purchaser or designated representative of a credit purchaser, each within the meaning of the European Union (Credit Servicers and Credit Purchasers) Regulations 2023 (S.I. No. 644 of 2023), shall not be treated as carrying on a regulated business as a credit servicing firm.

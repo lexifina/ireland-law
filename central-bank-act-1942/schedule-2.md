@@ -303,3 +303,5 @@ Transfers and Direct Debits in Euro) Regulations 2013
 82 S.I. No. 435 of 2022 European Union (Pan- The whole instrument European Personal Pension Product) Regulations 2022
 
 82 S.I. No. 547 of 2022 European Union (Recovery The whole instrument and Resolution of Central Counterparties) Regulations 2022
+
+83 S.I. No. 644 of 2023 European Union (Credit The whole instrument Servicers and Credit Purchasers) Regulations 2023
