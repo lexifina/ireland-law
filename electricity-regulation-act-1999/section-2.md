@@ -2,11 +2,11 @@ Interpretation.
 
 2.—(1) In this Act, except where the context otherwise requires—
 
-"2019 ACER Regulation" means Regulation (EU) 2019/942 of the European Parliament and of the Council of 5 June 20192 establishing a European Agency for the Cooperation of Energy Regulators;
+"2019 ACER Regulation" means Regulation (EU) 2019/942 of the European Parliament and of the Council of 5 June 2019 establishing a European Agency for the Cooperation of Energy Regulators;
 
-"2019 Internal Electricity Market Directive" means Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 20193 on common rules for the internal market for electricity and amending Directive 2012/27/EU;
+"2019 Internal Electricity Market Directive" means Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU;
 
-"2019 Internal Electricity Market Regulation" means Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 20192 on the internal electricity market;
+"2019 Internal Electricity Market Regulation" means Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal electricity market;
 
 "Agency" means the European Agency for the Cooperation of Energy Regulators established under the 2019 ACER Regulation;
 
