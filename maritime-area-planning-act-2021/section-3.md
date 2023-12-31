@@ -8,7 +8,7 @@ Application
 
 (c) the exclusive economic zone as construed in accordance with the Act of 2021, and
 
-(d) the continental shelf.
+(d) the continental shelf as construed in accordance with the Act of 2021.
 
 (2) Where, but for this subsection, a public body would not be able to perform, in relation to any matter whatsoever, one or more than one of its public functions by virtue of the matter relating, whether in whole or in part, to the continental shelf or any part thereof, then, by virtue of this subsection, the public body may perform the public function concerned in relation to that matter as if the continental shelf or the part thereof concerned were a part of the State where the public body may perform such function, and the other provisions of this Act or of any other enactment shall, with all necessary modifications, be construed accordingly.
 
