@@ -1,14 +1,26 @@
 Electricity transmission lines.
 
-182A.— (1) Where a person (hereafter referred to in this section as the "undertaker") intends to carry out development comprising or for the purposes of electricity transmission, (hereafter referred to in this section and section 182B as "proposed development"), the undertaker shall prepare, or cause to be prepared, an application for approval of the development under section 182B and shall apply to the Board for such approval accordingly.
+182A.—(1) Subject to subsection (1B) and section 182AA, where a person (hereafter referred to in this section as the "undertaker") intends to carry out development comprising or for the purposes of electricity transmission, (hereafter referred to in this section and section 182B as "proposed development"), the undertaker shall prepare, or cause to be prepared, an application for approval of the development under section 182B and shall apply to the Board for such approval accordingly.
 
 (1A) An undertaker shall not be eligible to apply for approval referred to in subsection (1) for development in a maritime site and no such approval shall be given to him or her, unless he or she—
 
 (a) is the holder of a maritime area consent granted for the occupation of a maritime site for the purposes of the proposed development,
 
-(b) is the owner of land on which it is proposed to carry out the development concerned, or
+(b) is the owner of land in the maritime area on which it is proposed to carry out the development concerned, or
 
-(c) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned.
+(c) makes the application with the consent, or on behalf, of the owner of land in the maritime area on which it is proposed to carry out the development concerned.
+
+(1B) (a) Subject to paragraph (b), the proposed development shall not include any development (which may be all or part of such proposed development and which is referred to in this subsection as the "development concerned") in the maritime area where a licence (referred to in this subsection as the "licence concerned") under section 3 of the Act of 1933 has been granted, on or before the commencement of section 246 of the Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023, in respect of the development concerned.
+
+(b) Where the proposed development required, as appropriate—
+
+(i) an environmental impact assessment,
+
+(ii) an appropriate assessment, or
+
+(iii) both an environmental impact assessment and an appropriate assessment, to be carried out, paragraph (a) shall not apply to the development concerned unless that assessment was, or those assessments were, as the case may be, carried out before the grant of the licence concerned.
+
+(c) Where paragraph (a) applies to the development concerned, the provisions of section 3 of the Act of 1933 relevant to the licence concerned shall be deemed to apply to the carrying out of the proposed development.
 
 (2) In the case of development referred to in subsection (1) which belongs to a class of development identified for the purposes of section 176, the undertaker shall prepare, or cause to be prepared, an environmental impact assessment report or Natura impact statement or both that report and that statement, as the case may be, in respect of the development.
 
