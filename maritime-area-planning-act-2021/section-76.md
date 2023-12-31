@@ -1,6 +1,6 @@
 When MAC is required but not development permission, etc.
 
-76. (1) Subject to subsection (4), where development permission is not required for a proposed maritime usage in a part of the maritime area, a person shall not undertake such usage unless he or she is, in respect of that part, the holder of a MAC for the occupation of that part for the purposes of such usage.
+76. (1) Subject to subsection (4) and section 76A, where development permission is not required for a proposed maritime usage in a part of the maritime area, a person shall not undertake such usage unless he or she is, in respect of that part, the holder of a MAC for the occupation of that part for the purposes of such usage.
 
 (2) (a) Subject to subsection (3), the Minister may by regulations specify, for the purposes of paragraph 9 of Schedule 4, a class of maritime usage where he or she is of the opinion that—
 

@@ -2,7 +2,7 @@
 
 Automatic termination of relevant authorisation
 
-144. (1) Subject to Chapter 6, a relevant authorisation terminates immediately upon the occurrence of any of the following events:
+144. (1) Subject to section 144A and Chapter 6, a relevant authorisation terminates immediately upon the occurrence of any of the following events:
 
 (a) where the holder is an individual, the holder—
 

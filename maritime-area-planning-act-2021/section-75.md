@@ -1,6 +1,6 @@
 When MAC is required prior to seeking development permission, etc.
 
-75. (1) Subject to subsection (4), where development permission is required for a proposed maritime usage in a part of the maritime area, a person shall not seek, or otherwise have (by whatever means), such permission unless he or she is, in respect of that part, the holder of a MAC for the occupation of that part for the purposes of such usage.
+75. (1) Subject to subsection (4) and sections 75A and 76A, where development permission is required for a proposed maritime usage in a part of the maritime area, a person shall not seek, or otherwise have (by whatever means), such permission unless he or she is, in respect of that part, the holder of a MAC for the occupation of that part for the purposes of such usage.
 
 (2) (a) Subject to subsection (3), the Minister may by regulations specify, for the purposes of paragraph 8 of Schedule 3, a class of maritime usage where he or she is of the opinion that—
 
@@ -12,6 +12,14 @@ When MAC is required prior to seeking development permission, etc.
 
 (3) On and after the establishment day, the Minister shall not make regulations under subsection (2) except after consultation with the MARA.
 
-(4) Subsection (1) shall not apply to any proposed maritime usage specified in Schedule 3.
+(4) (a) Subsection (1) shall not apply to any proposed maritime usage specified in Schedule 3.
+
+(b) Subject to paragraph (c), subsection (1) shall not apply where—
+
+(i) a prospective applicant for the development permission referred to in that subsection has, on or before 1 October 2022, entered into consultations with the Board (P) under section 37B of the Act of 2000, and
+
+(ii) an application for such permission is made, on or before 1 October 2024, pursuant to Part III of the Act of 2000.
+
+(c) Where a person is for the time being not required to be the holder of a MAC by virtue of the operation of paragraph (b), the person shall make the MAC application concerned before the 2nd anniversary of the date of the grant of the permission concerned pursuant to Part III of the Act of 2000.
 
 (5) Where subsection (1) applies, the application for the development permission referred to in that subsection shall have attached to it the rehabilitation schedule (within the meaning of section 95) that would otherwise have been required to be attached to the MAC referred to in that subsection but for the operation of section 96(5).
