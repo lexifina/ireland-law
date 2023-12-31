@@ -1,4 +1,4 @@
-F109[Provisions with respect to certain other court proceedings
+F111[Provisions with respect to certain other court proceedings
 
 16B.—(1) Where, before the passing of Part 3 of the Act of 2022, a court made a finding as to whether an area is or is not foreshore, then that finding shall not be affected by reference to section 1AA of this Act.
 

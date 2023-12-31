@@ -1,4 +1,4 @@
-F123[Procedure in regard to certain relevant applications.
+F125[Procedure in regard to certain relevant applications.
 
 19A.—(1) Notwithstanding section 19 of this Act, a person who has submitted an environmental impact assessment report in accordance with a requirement of or under section 13A of this Act shall, as soon as may be, publish in one or more newspapers circulating in the district in which is situated the foreshore to which the relevant application relates a notice —
 

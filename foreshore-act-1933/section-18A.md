@@ -1,4 +1,4 @@
-F118[Regulations relating to the submission of observations by certain bodies.
+F120[Regulations relating to the submission of observations by certain bodies.
 
 18A.—(1) The Minister for Agriculture, Food and the Marine may, by regulations under this section, prescribe—
 

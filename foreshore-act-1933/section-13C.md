@@ -1,4 +1,4 @@
-F106[Environmental impact assessments - special cases
+F108[Environmental impact assessments - special cases
 
 13C.—(1) Subsection (2) applies where a local authority that is a planning authority (within the meaning of the Act of 2000)—
 

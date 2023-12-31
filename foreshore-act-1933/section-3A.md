@@ -1,4 +1,4 @@
-F48[Provisions relating to certain leases, licences, etc.
+F50[Provisions relating to certain leases, licences, etc.
 
 3A.—(1) Where a lease, licence or consent was granted by the Minister before the passing of Part 6 of the Act of 2005, that relates to or includes an area that, but for section 1A(1) of this Act, would not be foreshore, then the lease, licence or consent (including any terms and conditions) shall have effect by reference to the definition of "foreshore" (as amended by Part 6 of the Act of 2005) in section 1 of this Act.
 

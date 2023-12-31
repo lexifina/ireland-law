@@ -1,4 +1,4 @@
-F148[Contents of notice under s. 21A
+F150[Contents of notice under s. 21A
 
 21B.—(a) A notice published under section 21A shall state that a person may question the validity of any such determination by the Minister by way of an application for judicial review, under Order 84 of the Rules of the Superior Courts (S.I. No. 15 of 1986).
 

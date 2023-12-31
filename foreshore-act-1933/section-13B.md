@@ -1,4 +1,4 @@
-F105[Environmental impact assessments, etc., carried out by the Minister for Communications, Energy and Natural Resources
+F107[Environmental impact assessments, etc., carried out by the Minister for Communications, Energy and Natural Resources
 
 13B.—(1) When considering a relevant application in respect of a petroleum activity the appropriate Minister shall consult with the Minister for Communications, Energy and Natural Resources.
 
