@@ -10,7 +10,7 @@ Obligation to obtain permission to carry out development
 
 (ii) a licence granted under section 3 of the Act of 1933 authorising the licensee to do any act or acts referred to in that section for the purpose of the development on, or in relation to, the maritime site in which the development is proposed to be situated,
 
-(b) is the owner of land on which it is proposed to carry out the development concerned,
+(b) is the owner of land in the maritime area on which it is proposed to carry out the development concerned,
 
 (c) is the lessee under a lease—
 
@@ -18,6 +18,6 @@ Obligation to obtain permission to carry out development
 
 (ii) that contains a covenant, condition or agreement, to which subsection (4) of the said section 2 applies, requiring the lessee to carry out, on that maritime site, the proposed development concerned, or
 
-(d) makes the application with the consent, or on behalf, of the owner of land on which it is proposed to carry out the development concerned.
+(d) makes the application with the consent, or on behalf, of the owner of land in the maritime area on which it is proposed to carry out the development concerned.
 
 (3) An application for permission to carry out development to which this Chapter applies shall be made, under and in accordance with section 34, to the coastal planning authority within whose functional area that part of the nearshore area in which it is proposed to carry out the development is situated.
