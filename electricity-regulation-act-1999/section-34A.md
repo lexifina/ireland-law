@@ -1,6 +1,6 @@
 Terms of access to interconnector.
 
-34A.— (1) Subject to subsection (3) the holder of a licence under section 14(1)(i) (in this section referred to as the “interconnector operator”) shall offer access to the interconnector concerned on the basis of published non-discriminatory terms which shall be subject to the approval of and directions given by the Commission.
+34A.—(1) Subject to subsection (3) the holder of a licence under section 14(1)(i) (in this section referred to as the “interconnector operator”) shall offer access to the interconnector concerned on the basis of published non-discriminatory terms which shall be subject to the approval of and directions given by the Commission.
 
 (2) Without prejudice to the generality of subsection (1) the Commission may give directions to the interconnector operator which provide for—
 

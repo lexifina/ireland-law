@@ -1,6 +1,6 @@
 Transitional power to modify licence conditions concerning Single Electricity Market.
 
-14A.— (1) The Commission may, in accordance with this section, modify the conditions of a particular licence where the Commission considers it necessary or expedient to do so—
+14A.—(1) The Commission may, in accordance with this section, modify the conditions of a particular licence where the Commission considers it necessary or expedient to do so—
 
 (a) for the purpose of implementing, or facilitating the operation of, the Single Electricity Market, or
 

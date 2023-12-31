@@ -1,6 +1,6 @@
 Regulations (LPG Incidents).
 
-9JG.— (1) The Commission may make regulations relating to the reporting and investigation of LPG incidents.
+9JG.—(1) The Commission may make regulations relating to the reporting and investigation of LPG incidents.
 
 (2) Each of the following is a class of event or occurrence which is a LPG incident—
 

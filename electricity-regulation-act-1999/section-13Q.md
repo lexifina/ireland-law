@@ -1,6 +1,6 @@
 Refusal or revocation of safety permit.
 
-13Q.— (1) The Commission may—
+13Q.—(1) The Commission may—
 
 (a) refuse to issue a safety permit where the Commission is not satisfied for the purposes of section 13P(1), or
 

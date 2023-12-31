@@ -1,6 +1,6 @@
 Restricting
 
-9JD.— (1) Where the Commission considers that the risk to the safety of—
+9JD.—(1) Where the Commission considers that the risk to the safety of—
 
 (a) human life,
 

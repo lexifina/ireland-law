@@ -1,6 +1,6 @@
 Access to safety case information.
 
-13AC. (1) An operator who has an accepted safety case to which a safety permit relates shall make available a copy of the accepted safety case to any member of the public who requests it.
+13AC.—(1) An operator who has an accepted safety case to which a safety permit relates shall make available a copy of the accepted safety case to any member of the public who requests it.
 
 (2) Notwithstanding subsection (1), the obligation to make available a copy of an accepted safety case does not extend to releasing any content of an accepted safety case that relates to matters of industrial, commercial or personal confidentiality, public security or defence of the State.
 

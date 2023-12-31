@@ -1,6 +1,6 @@
 Notifications.
 
-13OA. (1) An operator shall submit a design notification or revised design notification to the Commission in accordance with the procedures and timescale set out in safety case guidelines where the operator intends to carry out a designated petroleum activity or activities related to production under a petroleum authorisation.
+13OA.—(1) An operator shall submit a design notification or revised design notification to the Commission in accordance with the procedures and timescale set out in safety case guidelines where the operator intends to carry out a designated petroleum activity or activities related to production under a petroleum authorisation.
 
 (2) The Commission shall assess the design notification or a revised design notification submitted by an operator.
 

@@ -1,6 +1,6 @@
 Actions to be taken by Commission on receipt of investigation report.
 
-60. (1) On receipt of an investigation report submitted to it by an inspector in accordance with section 59(2), the Commission shall consider the report and any submissions annexed to it.
+60.—(1) On receipt of an investigation report submitted to it by an inspector in accordance with section 59(2), the Commission shall consider the report and any submissions annexed to it.
 
 (2) Subject to subsection (3), where the Commission has considered an investigation report (and any submissions annexed to it) under subsection (1), the Commission—
 

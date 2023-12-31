@@ -1,6 +1,6 @@
 Combined heat and power.
 
-7.— (1) Electricity production from combined heat and power shall be calculated in accordance with paragraphs 1 and 2 of Schedule 3.
+7.—(1) Electricity production from combined heat and power shall be calculated in accordance with paragraphs 1 and 2 of Schedule 3.
 
 (2) The Minister may by order appoint a person to calculate and certify the actual power to heat ratios of such classes of combined heat and power units as are specified in the order, and such person shall have such powers and duties as are specified in the order.
 

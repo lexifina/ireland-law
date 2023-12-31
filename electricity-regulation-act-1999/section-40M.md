@@ -1,6 +1,6 @@
 Proceeds of carbon revenue levy.
 
-40M.— (1) The proceeds of the carbon revenue levy collected by the Commission under this Part shall be paid into an account, established by the Commission for the purposes of this section, which is separate from the Commission’s other accounts and moneys standing to the credit of that account shall not be used by the Commission other than in accordance with this section.
+40M.—(1) The proceeds of the carbon revenue levy collected by the Commission under this Part shall be paid into an account, established by the Commission for the purposes of this section, which is separate from the Commission’s other accounts and moneys standing to the credit of that account shall not be used by the Commission other than in accordance with this section.
 
 (2) The Minister For Finance may direct, following consultation with the Minister, that such amount as the Minister for Finance may determine of any dividend referred to in section 7 of the Electricity (Supply) (Amendment) Act 2001 be paid into the account referred to in subsection (1), in any financial year, in such manner as the Minister for Finance may direct under the said section 7.
 
@@ -26,4 +26,4 @@ Proceeds of carbon revenue levy.
 
 (i) close the account not later than 45 days after the date of the direction given under paragraph (a), and
 
-(ii) pay moneys (if any) standing to the credit of the account as the Minister may direct under subsection (3)
+(ii) pay moneys (if any) standing to the credit of the account as the Minister may direct under subsection (3).

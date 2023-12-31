@@ -1,6 +1,6 @@
 Improvement notice.
 
-9JB.— (1) Where the Commission is of the opinion that—
+9JB.—(1) Where the Commission is of the opinion that—
 
 (a) a LPG undertaking or a natural gas undertaking has failed to comply with a direction to submit or implement an appropriate improvement plan under section 9JA, or
 

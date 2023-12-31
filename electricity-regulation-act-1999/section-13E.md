@@ -1,6 +1,6 @@
 Prohibition on carrying on designated petroleum activity without safety permit.
 
-13E.— (1) A person shall not carry on a designated petroleum activity or, subject to section 13M(2)(b), an established petroleum activity, unless a safety permit is in force in respect of the petroleum activity concerned.
+13E.—(1) A person shall not carry on a designated petroleum activity or, subject to section 13M(2)(b), an established petroleum activity, unless a safety permit is in force in respect of the petroleum activity concerned.
 
 (2) A person who contravenes subsection (1) commits an offence.
 

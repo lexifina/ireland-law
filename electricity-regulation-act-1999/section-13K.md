@@ -1,6 +1,6 @@
 General duties of petroleum undertakings.
 
-13K.— (1) In addition to complying with the requirements of any other provisions of this Part a petroleum undertaking shall ensure that—
+13K.—(1) In addition to complying with the requirements of any other provisions of this Part a petroleum undertaking shall ensure that—
 
 (a) any petroleum activity is carried on in such a manner as to reduce any risk to safety to a level that is as low as is reasonably practicable, and
 

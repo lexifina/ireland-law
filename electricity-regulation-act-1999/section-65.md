@@ -1,6 +1,6 @@
 Matters to be considered in determining sanction to be imposed.
 
-65. The Commission or the High Court, as appropriate, in considering—
+65.—The Commission or the High Court, as appropriate, in considering—
 
 (a) the minor sanction or major sanction to be imposed on a specified body pursuant to section 60(2)(a), or
 

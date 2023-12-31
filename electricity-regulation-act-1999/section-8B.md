@@ -1,6 +1,6 @@
 Commission and working arrangements as respects Single Electricity Market.
 
-8B.— (1) The Commission shall publish a statement—
+8B.—(1) The Commission shall publish a statement—
 
 (a) setting out the procedures and working arrangements adopted by the Commission for ensuring compliance with section 8A(4), and
 

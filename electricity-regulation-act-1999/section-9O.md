@@ -1,6 +1,6 @@
 Regional coordination centres.
 
-9O. (1) It shall be a function of the Commission to approve a proposal for the establishment of one or more than one regional coordination centre in accordance with Article 35(1) of the 2019 Internal Electricity Market Regulation.
+9O.—(1) It shall be a function of the Commission to approve a proposal for the establishment of one or more than one regional coordination centre in accordance with Article 35(1) of the 2019 Internal Electricity Market Regulation.
 
 (2) In the event of the establishment of one or more than one regional coordination centre within the Commission’s system operation region, it shall be a function of the Commission –
 

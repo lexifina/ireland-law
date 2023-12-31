@@ -1,6 +1,6 @@
 Informative billing.
 
-9M.— (1) The Commission shall, where it considers it appropriate, having regard to subsection (2), direct an energy undertaking to comply with the requirements of subsection (5), or part thereof, from such date and in such manner as it may specify in that direction.
+9M.—(1) The Commission shall, where it considers it appropriate, having regard to subsection (2), direct an energy undertaking to comply with the requirements of subsection (5), or part thereof, from such date and in such manner as it may specify in that direction.
 
 (2) In determining whether to issue a direction under subsection (1), the Commission shall have regard to the likely costs to the undertaking concerned of complying with such a direction and the likely energy efficiency benefits to final customers of the actions required of the undertaking concerned.
 

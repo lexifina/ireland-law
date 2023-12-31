@@ -1,6 +1,6 @@
 Directions by Minister.
 
-13J.— (1) The Minister may give written directions to the Commission relating to—
+13J.—(1) The Minister may give written directions to the Commission relating to—
 
 (a) the measures to be taken arising from reports prepared by the Commission under section 13H(2)(b) with regard to petroleum incidents, and
 

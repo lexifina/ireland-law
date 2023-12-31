@@ -1,6 +1,6 @@
 Single Electricity Market Committee.
 
-8A.— (1) There shall be a committee of the Commission to be known as the Single Electricity Market Committee or as the SEM Committee.
+8A.—(1) There shall be a committee of the Commission to be known as the Single Electricity Market Committee or as the SEM Committee.
 
 (2) The SEM Committee shall comprise such members as stand appointed to it from time to time.
 

@@ -18,7 +18,9 @@ Computation of amount of levy payable by holders of individual electricity accou
 
 (b) in the case of a Small Account by dividing the amount of the levy or payment attributed to that category of accounts in accordance with section 39(5A) by the number of electricity accounts certified by the distribution system operator as falling within that category;
 
-(c) in the case of a Medium-Large Account by applying the formula in paragraph 3 of this Schedule. Formula to be applied in computation of amount of levy payable by holders of Medium-Large electricity accounts
+(c) in the case of a Medium-Large Account by applying the formula in paragraph 3 of this Schedule.
+
+Formula to be applied in computation of amount of levy payable by holders of Medium-Large electricity accounts
 
 3. The amount of levy payable or payment payable to by the holder of an electricity account in respect of each electricity account which is certified by the distribution system operator as being a Medium-Large Account shall be calculated according to the following formula—
 

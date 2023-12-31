@@ -1,6 +1,6 @@
 Reportable petroleum incident.
 
-13S. (1) Where a petroleum incident occurs, the operator and the owner concerned shall notify the Commission of the petroleum incident, without delay, after the occurrence of the petroleum incident and such notification shall be—
+13S.—(1) Where a petroleum incident occurs, the operator and the owner concerned shall notify the Commission of the petroleum incident, without delay, after the occurrence of the petroleum incident and such notification shall be—
 
 (a) in such form,
 

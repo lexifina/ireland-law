@@ -1,6 +1,6 @@
 LPG safety licences.
 
-9JE.— (1) For the purposes of ensuring LPG safety a person shall not make available LPG by way of a piped LPG distribution network for use by individual domestic final customers unless a LPG safety licence is in force in respect of the activity.
+9JE.—(1) For the purposes of ensuring LPG safety a person shall not make available LPG by way of a piped LPG distribution network for use by individual domestic final customers unless a LPG safety licence is in force in respect of the activity.
 
 (2) A person who contravenes subsection (1) commits an offence and is liable—
 

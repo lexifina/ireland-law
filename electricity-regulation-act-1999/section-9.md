@@ -158,13 +158,13 @@ Functions of Commission.
 
 (iv) create competitive internal electricity and gas markets,
 
+5 OJ No. L 127, 29.04.2004, p.92
+
 (fd) to ensure that electricity and gas transmission system operators have one or more integrated systems at regional level covering 2 or more Member States for capacity allocation and for checking the security of the network,
 
 (fda) to ensure that transmission system operators make available interconnector capacities to the utmost extent pursuant to Article 16 of the 2019 Internal Electricity Market Regulation,
 
 (fe) to request the opinion of the Agency on the compliance of a decision, taken by another regulatory authority on a cross border trade issue, with network codes and guidelines referred to in the Natural Gas Market Regulation, the Natural Gas Market Directive, the 2019 Internal Electricity Market Directive or the Electricity Market Directive,
-
-5 OJ No. L 127, 29.04.2004, p.92
 
 (ff) where it considers that a decision relevant for cross-border trade taken by another regulatory authority does not comply with the network codes or guidelines referred to in paragraph (fe), to, if it considers it necessary, inform the European Commission within 2 months of the taking of the decision by that other regulatory authority,
 

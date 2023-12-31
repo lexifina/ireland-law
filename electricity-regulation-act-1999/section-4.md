@@ -1,6 +1,6 @@
 Service of notices.
 
-4. (1) Any notice required to be served or given by or under this Act shall be addressed to the person concerned and served or given in one of the following ways:
+4.—(1) Any notice required to be served or given by or under this Act shall be addressed to the person concerned and served or given in one of the following ways:
 
 (a) by addressing it to the person by name and delivering it to him or her;
 

@@ -1,6 +1,6 @@
 Petroleum safety officers.
 
-13W.— (1) The Commission may appoint any of its officers or any other person to be a petroleum safety officer for the purposes of the exercise by the Commission of its functions under this Part.
+13W.—(1) The Commission may appoint any of its officers or any other person to be a petroleum safety officer for the purposes of the exercise by the Commission of its functions under this Part.
 
 (2) (a) A person appointed under subsection (1) shall be furnished with a certificate of his or her appointment by the Commission.
 

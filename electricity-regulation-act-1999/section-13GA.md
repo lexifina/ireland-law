@@ -1,6 +1,6 @@
 Competent authority.
 
-13GA. (1) The Commission is appointed as the competent authority in the State for the purposes of Article 8 of the Directive.
+13GA.—(1) The Commission is appointed as the competent authority in the State for the purposes of Article 8 of the Directive.
 
 (2) The principal objective of the Commission in exercising its functions as competent authority is the effective safety regulatory oversight of operator and owner compliance with this Part in reducing the risk and potential consequences (including major environmental incidents) of major accidents offshore to a level that is as low as is reasonably practicable.
 

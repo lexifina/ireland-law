@@ -1,6 +1,6 @@
 Returns to Commission.
 
-40G.— (1) Each electricity generator shall make a return to the Commission within 10 working days of the end of each levy period, in the prescribed form and manner, of—
+40G.—(1) Each electricity generator shall make a return to the Commission within 10 working days of the end of each levy period, in the prescribed form and manner, of—
 
 (a) the total of the emissions, during the levy period concerned, from each installation of which the electricity generator is the operator, calculated in accordance with the formula for the calculation of emissions set out in Schedule 4 to the Regulations of 2004, expressed in tonnes of carbon dioxide equivalent,
 

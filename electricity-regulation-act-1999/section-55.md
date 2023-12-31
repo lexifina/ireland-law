@@ -2,7 +2,7 @@
 
 Definitions (Part IX and Schedule 4).
 
-55. In this Part and Schedule 4—
+55.—In this Part and Schedule 4—
 
 “improper conduct”means—
 

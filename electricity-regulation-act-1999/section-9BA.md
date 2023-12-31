@@ -1,6 +1,6 @@
 Functions of Commission relating to the Single Electricity Market.
 
-9BA.— (1) In addition to the functions conferred on it by section 9, the Commission shall have as a function, following consultation with the Authority, the taking of all necessary steps (including the making of regulations under subsection (2) to have effect in the State in connection therewith) to establish and facilitate the operation of the Single Electricity Market, including a Trading and Settlement Code in relation to that market.
+9BA.—(1) In addition to the functions conferred on it by section 9, the Commission shall have as a function, following consultation with the Authority, the taking of all necessary steps (including the making of regulations under subsection (2) to have effect in the State in connection therewith) to establish and facilitate the operation of the Single Electricity Market, including a Trading and Settlement Code in relation to that market.
 
 (2) (a) The Commission may make regulations for the purposes of subsections (1) and (3).
 

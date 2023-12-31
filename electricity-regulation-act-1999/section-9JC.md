@@ -1,6 +1,6 @@
 Prohibition notice.
 
-9JC.— (1) Where the Commission is of the opinion that an activity being or likely to be carried on by or under the control or on behalf of the holder of a LPG safety licence or a natural gas undertaking involves a substantial risk to safety, the Commission may serve a notice (in this section referred to as a “prohibition notice”) on that holder or natural gas undertaking.
+9JC.—(1) Where the Commission is of the opinion that an activity being or likely to be carried on by or under the control or on behalf of the holder of a LPG safety licence or a natural gas undertaking involves a substantial risk to safety, the Commission may serve a notice (in this section referred to as a “prohibition notice”) on that holder or natural gas undertaking.
 
 (2) A prohibition notice shall—
 

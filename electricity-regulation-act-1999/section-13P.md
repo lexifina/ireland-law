@@ -1,6 +1,6 @@
 Safety permit.
 
-13P. (1) The Commission shall only accept a safety case or a revised safety case for the purposes of issuing a safety permit under this section where the information contained in the safety case or the revised safety case complies with the requirements of section 13M(4) and the Commission is satisfied that the operator and, where relevant, the owner—
+13P.—(1) The Commission shall only accept a safety case or a revised safety case for the purposes of issuing a safety permit under this section where the information contained in the safety case or the revised safety case complies with the requirements of section 13M(4) and the Commission is satisfied that the operator and, where relevant, the owner—
 
 (a) is capable of implementing the safety management system, or where relevant the safety and environmental management system, described in its safety case, and
 

@@ -2,7 +2,7 @@
 
 Emergency measures.
 
-40A.— (1) In the event of a sudden crisis in the energy market and where the physical safety or security of persons, apparatus or installations, or the integrity of the natural gas or electricity transmission system or the natural gas or electricity distribution system is threatened the Minister may by order direct—
+40A.—(1) In the event of a sudden crisis in the energy market and where the physical safety or security of persons, apparatus or installations, or the integrity of the natural gas or electricity transmission system or the natural gas or electricity distribution system is threatened the Minister may by order direct—
 
 (a) the Commission,
 

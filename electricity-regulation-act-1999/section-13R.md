@@ -1,6 +1,6 @@
 Fees relating to consideration of safety case.
 
-13R.— (1) Where an operator or owner—
+13R.—(1) Where an operator or owner—
 
 (a) submits a safety case under section 13M, or
 

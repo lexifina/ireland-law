@@ -1,6 +1,6 @@
 Actions Commission may take following petroleum incident.
 
-13T. (1) The Commission may on its own initiative or following receipt of—
+13T.—(1) The Commission may on its own initiative or following receipt of—
 
 (a) a notification under section 13S(1) or (2) or a report under section 13S(3), appoint a petroleum safety officer to investigate the petroleum incident or the suitable measures taken, or
 

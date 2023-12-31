@@ -1,6 +1,6 @@
 Review and revision of safety case.
 
-13N. (1) A safety case shall be regarded as a working document by which an operator, or owner, as the case may be, may demonstrate that the safety management system, or the safety and environmental management system with respect to designated petroleum activities carried out offshore, described in the safety case is being properly implemented and continues to be maintained.
+13N.—(1) A safety case shall be regarded as a working document by which an operator, or owner, as the case may be, may demonstrate that the safety management system, or the safety and environmental management system with respect to designated petroleum activities carried out offshore, described in the safety case is being properly implemented and continues to be maintained.
 
 (2) A safety case shall be reviewed—
 

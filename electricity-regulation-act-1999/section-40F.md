@@ -1,6 +1,6 @@
 Percentage rate.
 
-40F.— (1) For the purpose of calculating the amount of the carbon revenue levy under section 40E and taking account of the fact that electricity generators, for the purposes of compliance with the Regulations of 2004, may require to purchase a proportion of their allowances, the percentage rate referred to in section 40E(b) shall be—
+40F.—(1) For the purpose of calculating the amount of the carbon revenue levy under section 40E and taking account of the fact that electricity generators, for the purposes of compliance with the Regulations of 2004, may require to purchase a proportion of their allowances, the percentage rate referred to in section 40E(b) shall be—
 
 (a) such percentage rate as stands specified by order under subsection (2), or
 

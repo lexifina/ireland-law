@@ -1,6 +1,6 @@
 Prohibition notice.
 
-13AA.— (1) Where the Commission is of the opinion that an activity being or likely to be, carried on by, under the control of or on behalf of a petroleum undertaking, an operator or an owner involves a substantial risk to safety, the Commission may serve a notice (in this Part referred to as a “prohibition notice”) on that petroleum undertaking, operator or owner.
+13AA.—(1) Where the Commission is of the opinion that an activity being or likely to be, carried on by, under the control of or on behalf of a petroleum undertaking, an operator or an owner involves a substantial risk to safety, the Commission may serve a notice (in this Part referred to as a “prohibition notice”) on that petroleum undertaking, operator or owner.
 
 (2) A prohibition notice shall—
 

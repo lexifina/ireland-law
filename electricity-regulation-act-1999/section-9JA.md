@@ -1,6 +1,6 @@
 Improvement plan.
 
-9JA.— (1) Where the Commission is of the opinion that a LPG undertaking or a natural gas undertaking or a person under the control or on behalf of that undertaking—
+9JA.—(1) Where the Commission is of the opinion that a LPG undertaking or a natural gas undertaking or a person under the control or on behalf of that undertaking—
 
 (a) is not operating in accordance with the LPG or natural gas safety regulatory framework under section 9(1G), or
 

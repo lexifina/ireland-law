@@ -1,6 +1,6 @@
 Regulation of electrical contractors.
 
-9D.— (1) (a) The Commission may appoint a person or persons to be a designated body for the purposes of this section and such body may be referred to as an Electrical Safety Supervisory Body.
+9D.—(1) (a) The Commission may appoint a person or persons to be a designated body for the purposes of this section and such body may be referred to as an Electrical Safety Supervisory Body.
 
 (b) Where the Commission has not appointed a person or persons to be a designated body, or a designated body is, in the opinion of the Commission, no longer able to carry out its functions under this section, the Commission may, with the consent of the Minister, appoint an employee of the Commission to carry out those functions on a temporary basis.
 

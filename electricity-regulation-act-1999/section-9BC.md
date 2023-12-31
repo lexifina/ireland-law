@@ -1,6 +1,6 @@
 Principal objective and functions of Minister, the Commission and SEM Committee in carrying out their functions in relation to the Single Market.
 
-9BC.— (1) The principal objective of—
+9BC.—(1) The principal objective of—
 
 (a) the Minister in carrying out his or her electricity functions in relation to matters which the Minister considers materially affect, or are likely materially to affect, the Single Electricity Market,
 

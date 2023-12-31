@@ -1,6 +1,6 @@
 Appointment of inspectors.
 
-56. (1) For the purposes of this Part—
+56.—(1) For the purposes of this Part—
 
 (a) the Commission may appoint such members of its staff as it thinks fit to be inspectors for such period and subject to such terms as the Commission may determine,
 

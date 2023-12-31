@@ -1,6 +1,6 @@
 Obligations on operators.
 
-13KB. (1) An operator shall ensure that the risk of all major accident hazards in carrying out designated petroleum activities is reduced to a level that is as low as is reasonably practicable.
+13KB.—(1) An operator shall ensure that the risk of all major accident hazards in carrying out designated petroleum activities is reduced to a level that is as low as is reasonably practicable.
 
 (2) The use of contractors by an operator in carrying out petroleum activities and any action or omissions carried out by contractors which may lead or contribute to a major accident does not relieve the operator of his or her duties under this Act.
 

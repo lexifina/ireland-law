@@ -1,6 +1,6 @@
 Obligations on petroleum undertakings.
 
-13KA. (1) A petroleum undertaking shall appoint an operator prior to carrying out any designated petroleum activities. A petroleum undertaking shall ensure that the operator has the capacity to meet the requirements of this Act for the carrying out of designated petroleum activities under the appointment.
+13KA.—(1) A petroleum undertaking shall appoint an operator prior to carrying out any designated petroleum activities. A petroleum undertaking shall ensure that the operator has the capacity to meet the requirements of this Act for the carrying out of designated petroleum activities under the appointment.
 
 (2) Prior to the appointment of an operator by a petroleum undertaking, the petroleum undertaking shall notify the Minister of its proposed appointment and seek the approval of the Minister for the appointment.
 

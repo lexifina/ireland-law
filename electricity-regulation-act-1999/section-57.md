@@ -1,6 +1,6 @@
 Investigation.
 
-57. (1) Where the Commission considers it is necessary to do so for the purpose of the performance of any of the functions conferred on it by or under this Act or any other Act of the Oireachtas, the Commission may cause such investigation as it thinks fit to be carried out to identify any improper conduct by a specified body.
+57.—(1) Where the Commission considers it is necessary to do so for the purpose of the performance of any of the functions conferred on it by or under this Act or any other Act of the Oireachtas, the Commission may cause such investigation as it thinks fit to be carried out to identify any improper conduct by a specified body.
 
 (2) For the purposes of the investigation, the Commission shall appoint an inspector, subject to such terms as it thinks fit—
 

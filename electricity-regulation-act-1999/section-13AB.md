@@ -1,6 +1,6 @@
 Circumstances in which application may be made to court for immediate suspension of petroleum activities.
 
-13AB.— (1) Where the Commission considers that the risk to the safety of—
+13AB.—(1) Where the Commission considers that the risk to the safety of—
 
 (a) human life,
 

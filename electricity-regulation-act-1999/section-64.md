@@ -1,6 +1,6 @@
 Provisions supplemental to decisions of High Court.
 
-64. (1) The decision of the High Court on an appeal under section 62 or an application made under section 63 is final except that the Commission or the specified body the subject of the decision may, by leave of the Court or the Court of Appeal, appeal against the decision to the Court of Appeal on a specified question of law.
+64.—(1) The decision of the High Court on an appeal under section 62 or an application made under section 63 is final except that the Commission or the specified body the subject of the decision may, by leave of the Court or the Court of Appeal, appeal against the decision to the Court of Appeal on a specified question of law.
 
 (2) Where the High Court confirms or gives a decision under section 62(3) or 63(2), the Commission shall, as soon as is practicable after the decision is confirmed or given, as the case may be, give notice in writing of the decision to the specified body the subject of the decision.
 

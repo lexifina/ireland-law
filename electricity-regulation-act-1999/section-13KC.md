@@ -1,6 +1,6 @@
 Obligations on owners.
 
-13KC. (1) An owner shall ensure that the risk of all major accident hazards related to a non-production installation in carrying out designated petroleum activities is reduced to a level that is as low as is reasonably practicable.
+13KC.—(1) An owner shall ensure that the risk of all major accident hazards related to a non-production installation in carrying out designated petroleum activities is reduced to a level that is as low as is reasonably practicable.
 
 (2) An owner shall comply with any direction issued by the Commission under section 13HA.
 

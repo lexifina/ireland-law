@@ -1,6 +1,6 @@
 Improvement plan.
 
-13Y. (1) Where the Commission is of the opinion that a petroleum undertaking, operator or owner, or a person under the control or on behalf of that undertaking, operator or owner—
+13Y.—(1) Where the Commission is of the opinion that a petroleum undertaking, operator or owner, or a person under the control or on behalf of that undertaking, operator or owner—
 
 (a) is not operating in accordance with the approved safety case, or in accordance with any conditions of the safety permit issued to that petroleum undertaking, operator or owner,
 

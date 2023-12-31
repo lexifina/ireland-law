@@ -1,6 +1,6 @@
 Regulation of gas installers.
 
-9F.— (1) (a) The Commission may appoint a person to be the designated body for the purposes of this section and such body may be referred to as a Gas Safety Supervisory Body.
+9F.—(1) (a) The Commission may appoint a person to be the designated body for the purposes of this section and such body may be referred to as a Gas Safety Supervisory Body.
 
 (b) Where the Commission has not appointed a person to be the designated body, or the designated body is, in the opinion of the Commission, no longer able to carry out its functions under this section, the Commission may, with the consent of the Minister, appoint an employee of the Commission to carry out those functions on a temporary basis.
 

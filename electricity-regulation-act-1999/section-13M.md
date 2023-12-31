@@ -1,6 +1,6 @@
 Safety case.
 
-13M. (1) (a) An owner shall, where relevant, and at least 6 months or, such other lesser time as the Commission may specify, before an operator proposes to commence a designated petroleum activity from the non-production installation, submit a safety case to the Commission for acceptance.
+13M.—(1) (a) An owner shall, where relevant, and at least 6 months or, such other lesser time as the Commission may specify, before an operator proposes to commence a designated petroleum activity from the non-production installation, submit a safety case to the Commission for acceptance.
 
 (b) An owner shall submit a safety case with respect to a non-production installation and the review and revision of that safety case.
 

@@ -1,3 +1,3 @@
-Eligible customers. (repealed)
+Eligible customers. (Repealed)
 
 27.—...

@@ -1,6 +1,6 @@
 Charges of Market Operator.
 
-36A.— (1) Subject to subsection (2), within such time as the Commission may direct, the Market Operator shall prepare a statement for the approval of the Commission setting out the basis on which charges are imposed in relation to participation in the trading arrangements under the Single Electricity Market (in this section referred to as “the trading arrangements”).
+36A.—(1) Subject to subsection (2), within such time as the Commission may direct, the Market Operator shall prepare a statement for the approval of the Commission setting out the basis on which charges are imposed in relation to participation in the trading arrangements under the Single Electricity Market (in this section referred to as “the trading arrangements”).
 
 (2) The Commission may give directions to the Market Operator from time to time in respect of the basis for charges imposed for participation in the trading arrangements.
 

@@ -1,6 +1,6 @@
 Gas Works.
 
-9G.— (1) The Commission, having consulted with such persons as it considers appropriate, and with the consent of the Minister, may by regulations designate a class or classes of works to be gas works.
+9G.—(1) The Commission, having consulted with such persons as it considers appropriate, and with the consent of the Minister, may by regulations designate a class or classes of works to be gas works.
 
 (2) In this section “works” means work which is related to the installation, removal, repair or replacement of a natural gas fitting or an LPG fitting.
 

@@ -1,6 +1,6 @@
 Appeal to High Court against decision to impose major sanction.
 
-62. (1) A specified body, the subject of a decision under section 60(2)(a) to impose a major sanction, may, not later than 30 days from the date the specified body received the notice under section 60(5), appeal to the High Court against the decision.
+62.—(1) A specified body, the subject of a decision under section 60(2)(a) to impose a major sanction, may, not later than 30 days from the date the specified body received the notice under section 60(5), appeal to the High Court against the decision.
 
 (2) The High Court may, on the hearing of an appeal by a specified body under subsection (1), consider any evidence adduced or argument made, whether or not adduced or made to an inspector or the Commission.
 

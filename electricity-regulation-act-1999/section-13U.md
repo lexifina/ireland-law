@@ -1,6 +1,6 @@
 Reporting of petroleum incidents to Minister by Commission.
 
-13U. (1) The Commission shall prepare and send to the Minister a report in respect of each petroleum incident which results in—
+13U.—(1) The Commission shall prepare and send to the Minister a report in respect of each petroleum incident which results in—
 
 (a) the loss of human life,
 

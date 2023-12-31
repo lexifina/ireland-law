@@ -1,6 +1,6 @@
 Approval of terms and conditions.
 
-9A. (1) Subject to subsection (1A), the Commission shall be responsible for –
+9A.—(1) Subject to subsection (1A), the Commission shall be responsible for –
 
 (a) determining or approving prior to their entry into force, at least the methodologies used to calculate the terms and conditions for the provision of balancing ancillary services in relation to electricity and gas systems,
 

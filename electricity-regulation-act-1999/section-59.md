@@ -1,6 +1,6 @@
 Actions to be taken by inspector upon completion of investigation.
 
-59. (1) Subject to subsection (3), where an inspector has completed an investigation, the inspector shall, as soon as is practicable after having considered, in so far as they are relevant to the investigation, any information or records, books, accounts or other documents provided to the inspector pursuant to any requirement under section 58 or any statement or admission made by any person pursuant to any requirement under that section, any submissions made and any evidence presented (whether at an oral hearing referred to in section 58(15) or otherwise)—
+59.—(1) Subject to subsection (3), where an inspector has completed an investigation, the inspector shall, as soon as is practicable after having considered, in so far as they are relevant to the investigation, any information or records, books, accounts or other documents provided to the inspector pursuant to any requirement under section 58 or any statement or admission made by any person pursuant to any requirement under that section, any submissions made and any evidence presented (whether at an oral hearing referred to in section 58(15) or otherwise)—
 
 (a) prepare a draft of the investigation report, and
 

@@ -1,6 +1,6 @@
 Carbon revenue Levy.
 
-40D.— (1) Each electricity generator shall, subject to and in accordance with this Part and any regulations made under this Part, pay to the Commission, in respect of the immediately preceding levy period, a levy (in this Part referred to as the “carbon revenue levy”) on such amount of the revenues received during that levy period by the electricity generator concerned, through participation in the Single Electricity Market, as is attributable to the emissions from each installation of which the electricity generator is the operator, which amount is calculated in accordance with the formula—
+40D.—(1) Each electricity generator shall, subject to and in accordance with this Part and any regulations made under this Part, pay to the Commission, in respect of the immediately preceding levy period, a levy (in this Part referred to as the “carbon revenue levy”) on such amount of the revenues received during that levy period by the electricity generator concerned, through participation in the Single Electricity Market, as is attributable to the emissions from each installation of which the electricity generator is the operator, which amount is calculated in accordance with the formula—
 
 E x P where—
 

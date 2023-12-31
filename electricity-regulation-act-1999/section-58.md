@@ -1,6 +1,6 @@
 Power of inspectors.
 
-58. (1) For the purposes of an investigation, an inspector may—
+58.—(1) For the purposes of an investigation, an inspector may—
 
 (a) subject to subsections (13) and (14), at all reasonable times enter, inspect, examine and search any premises at, in or by means of, which any activity of a specified body, authorised by or under any enactment or by any licence or authorisation held by the specified body, is carried on,
 

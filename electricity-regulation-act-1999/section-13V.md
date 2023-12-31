@@ -1,6 +1,6 @@
 Regulations (Part IIA).
 
-13V. The Commission shall, for the purposes of enabling this Part to have full effect, make regulations—
+13V.—The Commission shall, for the purposes of enabling this Part to have full effect, make regulations—
 
 (a) prescribing all major accidents as a class of event for the purposes of the definition of petroleum incident,
 

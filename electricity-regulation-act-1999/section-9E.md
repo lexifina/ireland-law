@@ -1,6 +1,6 @@
 Designated electrical works.
 
-9E.— (1) The Commission, having consulted with such persons as it considers appropriate, and with the consent of the Minister, may by regulations designate a class or classes of electrical works to be designated electrical works.
+9E.—(1) The Commission, having consulted with such persons as it considers appropriate, and with the consent of the Minister, may by regulations designate a class or classes of electrical works to be designated electrical works.
 
 (2) Where the Commission proposes to make regulations under subsection (1) the Minister, where he or she has approved the draft of such regulations, shall cause a draft of the regulations to be laid before each House of the Oireachtas and the regulations shall not be made until a resolution approving of the draft has been passed by each such House.
 

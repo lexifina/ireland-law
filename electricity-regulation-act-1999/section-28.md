@@ -1,3 +1,3 @@
-Purchase of electricity from combined heat and power. (repealed)
+Purchase of electricity from combined heat and power. (Repealed)
 
 28.—...

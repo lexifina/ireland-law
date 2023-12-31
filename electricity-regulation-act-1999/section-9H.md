@@ -1,6 +1,6 @@
 Regulation relating to gas safety.
 
-9H.— (1) The Commission may, in the performance of its functions under paragraphs (ea), (eb) and (ed) of section 9(1) make regulations relating to gas safety.
+9H.—(1) The Commission may, in the performance of its functions under paragraphs (ea), (eb) and (ed) of section 9(1) make regulations relating to gas safety.
 
 (2) Without prejudice to the generality of subsection (1) regulations made under this section may provide for—
 

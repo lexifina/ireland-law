@@ -1,6 +1,6 @@
 Functions of Commission relating to petroleum safety.
 
-13H. (1) The Commission shall do all things necessary and reasonable to further its objectives and shall exercise its powers and perform its functions in the public interest.
+13H.—(1) The Commission shall do all things necessary and reasonable to further its objectives and shall exercise its powers and perform its functions in the public interest.
 
 (2) Without prejudice to the generality of subsection (1), the Commission’s functions under this Part are—
 

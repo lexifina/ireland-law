@@ -1,6 +1,6 @@
 Electrical investigation officer.
 
-9EA.— (1) The Commission may appoint a person to be an electrical investigation officer for the purposes of investigating whether designated electrical works and specified works are carried out safely and adequately and by registered electrical contractors.
+9EA.—(1) The Commission may appoint a person to be an electrical investigation officer for the purposes of investigating whether designated electrical works and specified works are carried out safely and adequately and by registered electrical contractors.
 
 (2) In exercising his or her powers under this section an electrical investigation officer may enter on any land or premises at any reasonable time where he or she has reason to believe that designated electrical works or specified works have been or are being carried out and there—
 
