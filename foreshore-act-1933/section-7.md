@@ -1,3 +1,3 @@
-Notice prohibiting removal of beach material from foreshore.
+Notice prohibiting removal of beach material from foreshore. (Repealed)
 
 7. —...

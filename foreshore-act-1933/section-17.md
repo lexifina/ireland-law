@@ -1,3 +1,3 @@
-Notice to Minister of certain sales, etc., of foreshore.
+Notice to Minister of certain sales, etc., of foreshore. (Repealed)
 
 17.—...

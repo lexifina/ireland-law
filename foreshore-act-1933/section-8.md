@@ -1,3 +1,3 @@
-Regulations in respect of the public use of foreshore.
+Regulations in respect of the public use of foreshore. (Repealed)
 
 8. —...

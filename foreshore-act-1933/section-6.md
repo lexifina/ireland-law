@@ -1,3 +1,3 @@
-Order prohibiting removal of beach material from seashore.
+Order prohibiting removal of beach material from seashore. (Repealed)
 
 6.—...

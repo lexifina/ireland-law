@@ -1,3 +1,3 @@
-Authorisation by Minister of sea defence works.
+Authorisation by Minister of sea defence works. (Repealed)
 
 9. — ...
