@@ -1,6 +1,8 @@
 Legal acts of European Union given effect to by this Act
 
-4. Effect or further effect, as the case may be, is given to by this Act to an act specified in the Table to this section, adopted by an institution of the European Union or, where appropriate, to part of such an act: Table
+4. Effect or further effect, as the case may be, is given to by this Act to an act specified in the Table to this section, adopted by an institution of the European Union or, where appropriate, to part of such an act:
+
+Table
 
 Item No. Directive
 
