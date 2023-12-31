@@ -10,4 +10,4 @@ Performance framework
 
 (2) The Minister shall provide the Performance Framework to the Board within 6 months of the establishment of the Agency and thereafter 3 months before the end of the period to which the current corporate plan relates in line with the requirements of the Agency to prepare a corporate plan for each 3 year period.
 
-(3) The Minister may consult the Minister for Health or the Minister for Education before developing a Performance Framework which includes matters which relate to the functions of those Ministers.
+(3) The Minister may consult the Minister for Health , the Minister for Education or the Minister for Justice before developing a Performance Framework which includes matters which relate to the functions of those Ministers.

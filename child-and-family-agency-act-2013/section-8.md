@@ -26,6 +26,8 @@ Functions of Agency
 
 (c) services relating to the psychological welfare of children and their families.
 
+(3A) The reference in subsection (3)(b) to the provision by the Agency of care and protection shall be construed as a reference to the provision by the Agency of care and protection other than such provision as shall be made by An Ghníomhaireacht um Fhoréigean Baile, Gnéasach agus Inscnebhunaithe in the performance of its functions under paragraphs (a), (b), (c) and (d) of section 6 (1) of the Domestic, Sexual and Gender-Based Violence Agency Act 2023.
+
 (4) The services referred to in subsection (3)(c) do not include—
 
 (a) psychological services associated with the provision of specialist mental health services to children,

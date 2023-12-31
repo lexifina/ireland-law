@@ -18,7 +18,7 @@ Annual report
 
 (i) that the Agency considers appropriate,
 
-(ii) as the Minister after consulting the Minister for Health and the Minister for Education may require, and
+(ii) as the Minister after consulting the Minister for Health , the Minister for Education and the Minister for Justice may require, and
 
 (iii) as the Minister for Education, having regard to the performance of his or her education welfare functions and his or her functions under this Act, may require, and
 
